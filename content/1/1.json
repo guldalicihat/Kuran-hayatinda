@@ -1,0 +1,82 @@
+{
+ "sure": 1,
+ "ayet": 1,
+ "meal": "Rahmân ve Rahîm olan Allah'ın adıyla.",
+ "mealNotu": "Kök temelli meal. 'Rahmân' ve 'Rahîm' aynı kökten (r-h-m) gelir; ilki merhametin genişliğini, ikincisi sürekliliğini anlatır. Köşeli parantez içinde kelime yoktur; meal doğrudan kelimelere dayanır.",
+ "kokler": [
+  {
+   "kelime": "بِسْمِ",
+   "okunus": "bismi",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, yücelik; bir şeyi tanıtan ad",
+   "karsilik": "adıyla"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, kendisine yönelinen; ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "ٱلرَّحْمَٰنِ",
+   "okunus": "errahmâni",
+   "kok": "رحم",
+   "kokAnlam": "rahim, şefkat, koruyup gözeten merhamet",
+   "karsilik": "Rahmân (merhameti her şeyi kuşatan)"
+  },
+  {
+   "kelime": "ٱلرَّحِيمِ",
+   "okunus": "errahîmi",
+   "kok": "رحم",
+   "kokAnlam": "rahim, şefkat, koruyup gözeten merhamet",
+   "karsilik": "Rahîm (merhameti sürekli olan)"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Kur'an'ın açılışını Allah'ın adıyla yapar. 'İsim' kelimesinin kökü yüksekliği ve tanıtmayı anlatır: bir işe Allah'ın adıyla başlamak, o işi O'nun huzurunda ve O'nun ölçüsüyle yapmayı ifade eder.",
+  "Rahmân ve Rahîm aynı kökten gelir. Rahmân, merhametin genişliğini ve herkesi kapsamasını; Rahîm, merhametin sürekli ve yönelmiş olmasını anlatır. Böylece Kur'an, okuyucuya ilk sözünde Allah'ı merhamet vasfıyla tanıtır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "27:30",
+   "meal": "O, Süleyman'dandır ve o, 'Rahmân ve Rahîm olan Allah'ın adıyla' [diye başlamaktadır].",
+   "baglanti": "Süleyman'ın Sebe melikesine yazdığı mektup da besmeleyle başlar. Besmele, Kur'an'da yalnız bir kalıp değil, bir işe başlama biçimidir."
+  },
+  {
+   "ref": "17:110",
+   "meal": "De ki: İster Allah diye çağırın, ister Rahmân diye çağırın; hangisiyle çağırırsanız [çağırın], en güzel isimler O'nundur.",
+   "baglanti": "Rahmân, Allah'ın özel adlarından biridir; besmeledeki iki merhamet vasfı bu ayetle birlikte okunmalıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Besmele, bir işe başlarken niyeti ve ölçüyü belirlemektir. Yemekten önce, yola çıkarken, bir toplantıya girerken 'Allah'ın adıyla' demek, o işin O'nun rızasına uygun olması gerektiğini insana hatırlatır.",
+  "Merhamet vasfıyla başlamak, başlanan işte de merhamet beklendiğini gösterir. Allah'ın adıyla başlanan bir iş, insanlara sertlik ve haksızlıkla sürdürülemez."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir işe bilinçli başla",
+   "aciklama": "Bugün en az bir işe, ne yapacağını ve niçin yapacağını bir cümleyle söyleyerek başla."
+  },
+  {
+   "baslik": "Merhametle ölç",
+   "aciklama": "Bugün vereceğin bir kararı 'Bu kararda merhamet var mı?' sorusuyla kontrol et."
+  },
+  {
+   "baslik": "Alışkanlık kur",
+   "aciklama": "Besmeleyi düzenli söylediğin bir an seç: sabah evden çıkarken veya bilgisayarı açarken."
+  }
+ ],
+ "bugununAdimi": "Bugün başlayacağın önemli bir işi seç; başlamadan önce niyetini bir cümleyle yaz ve öyle başla.",
+ "durum": "taslak",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/1/1"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "sure": 1,
+ "ayet": 4,
+ "meal": "Din (karşılık ve hesap) gününün sahibidir.",
+ "mealNotu": "'Dîn' kökü borç, karşılık, hesap ve itaat düzeni anlamlarını taşır; bu yüzden 'din günü' hem 'hesap günü' hem 'karşılık günü'dür. Parantez içindeki açıklama kökten gelir, ekleme değildir.",
+ "kokler": [
+  {
+   "kelime": "مَٰلِكِ",
+   "okunus": "mâliki",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, elinde tutma, hüküm sürme",
+   "karsilik": "sahibi"
+  },
+  {
+   "kelime": "يَوْمِ",
+   "okunus": "yevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün, belirli zaman dilimi",
+   "karsilik": "gününün"
+  },
+  {
+   "kelime": "ٱلدِّينِ",
+   "okunus": "eddîni",
+   "kok": "دين",
+   "kokAnlam": "borç, karşılık, hesap; boyun eğilen düzen",
+   "karsilik": "din (karşılık, hesap)"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Allah'ın bir sıfatını daha bildirir: hesap gününün tek sahibi O'dur. 'Mâlik' kökü hem sahipliği hem hükmü içerir; o gün mülk ve hüküm yalnız O'nundur.",
+  "'Dîn' kelimesi Türkçedeki 'din' anlamından daha geniştir. Kökünde borç ve karşılık vardır: herkes yaptığının karşılığını görecektir. Merhamet sıfatlarının hemen ardından gelmesi, merhametin adaleti dışlamadığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "82:19",
+   "meal": "O gün hiçbir nefis başka bir nefis için hiçbir şeye sahip olamaz; o gün emir yalnız Allah'ındır.",
+   "baglanti": "Aynı kök (m-l-k) ile din günündeki sahipliğin yalnız Allah'a ait olduğu açıklanır."
+  },
+  {
+   "ref": "3:26",
+   "meal": "De ki: Ey mülkün sahibi Allah'ım! Mülkü dilediğine verirsin, dilediğinden çekip alırsın.",
+   "baglanti": "Mülkün gerçek sahibi Allah'tır; dünyadaki sahiplikler geçici ve emanettir."
+  }
+ ],
+ "gunlukHayat": [
+  "Her davranışın bir karşılığı olduğunu bilmek, insanın sorumluluk duygusunu güçlendirir. Kimsenin görmediği yerde de dürüst olmanın sebebi budur.",
+  "Dünyadaki yetkiler geçicidir; asıl sahiplik Allah'ındır. Bunu bilen yönetici, patron veya ebeveyn, elindeki yetkiyi emanet olarak kullanır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hesabını kendin yap",
+   "aciklama": "Bugün akşam, gün içinde yaptığın bir davranışı 'Bunun karşılığını görsem razı olur muyum?' sorusuyla değerlendir."
+  },
+  {
+   "baslik": "Yetkiyi emanet bil",
+   "aciklama": "Bugün sorumluluğun altındaki bir kişiye karar verirken, o yetkinin sana emanet olduğunu hatırla."
+  },
+  {
+   "baslik": "Borcunu öde",
+   "aciklama": "Bugün ertelediğin bir borcu, sözü veya özrü yerine getir."
+  }
+ ],
+ "bugununAdimi": "Bugün kimsenin görmediği bir yerde, yalnız Allah'ın bildiğini düşünerek doğru olanı yap.",
+ "durum": "taslak",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/1/4"
+  }
+ ]
+}

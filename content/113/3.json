@@ -1,0 +1,89 @@
+{
+ "sure": 113,
+ "ayet": 3,
+ "meal": "Ve çöktüğü zaman karanlığın şerrinden,",
+ "mealNotu": "'Gâsik' kökü gecenin koyulaşmasını ve karanlığı, 'vekabe' kökü çökmeyi ve bastırmayı anlatır. Meal, yorum eklemeden iki kökü birleştirir.",
+ "kokler": [
+  {
+   "kelime": "وَمِن",
+   "okunus": "ve min",
+   "kok": "—",
+   "kokAnlam": "(edat) ve -den",
+   "karsilik": "ve -den"
+  },
+  {
+   "kelime": "شَرِّ",
+   "okunus": "şerri",
+   "kok": "شرر",
+   "kokAnlam": "kötülük, zarar, fenalık",
+   "karsilik": "şerrinden"
+  },
+  {
+   "kelime": "غَاسِقٍ",
+   "okunus": "gâsikın",
+   "kok": "غسق",
+   "kokAnlam": "karanlık, gecenin koyulaşması",
+   "karsilik": "karanlığın"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığı zaman",
+   "karsilik": "zaman"
+  },
+  {
+   "kelime": "وَقَبَ",
+   "okunus": "vekabe",
+   "kok": "وقب",
+   "kokAnlam": "çökme, bastırma, içine girme",
+   "karsilik": "çöktüğü"
+  }
+ ],
+ "neAnlatiyor": [
+  "İkinci sığınma, çöken karanlığın şerrindendir. Gece, tehlikelerin gizlendiği ve insanın görüşünün kısıldığı zamandır.",
+  "'Vekabe' kökündeki 'çökme' anlamı, karanlığın yalnız dışarıda değil içeride de çökebileceğini düşündürür: umutsuzluk, keder, kararan kalp."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:78",
+   "meal": "Güneşin kaymasından gecenin karanlığına kadar namaz kıl; sabah okumasını da [yerine getir]. Şüphesiz sabah okuması tanıklıdır.",
+   "baglanti": "Aynı kök (g-s-k) ile gecenin karanlığı anılır; namaz, karanlığın çöktüğü saatlere yerleştirilmiş bir korumadır."
+  },
+  {
+   "ref": "6:96",
+   "meal": "Karanlığı yarıp sabahı çıkarandır.",
+   "baglanti": "Karanlığın şerrine karşı sığınılan Rab, aynı zamanda karanlığı yaran Rab'dir."
+  }
+ ],
+ "gunlukHayat": [
+  "Gece, kararların en kötü verildiği zamandır. Yorgunluk ve karanlık, sorunları olduğundan büyük gösterir.",
+  "İç karanlık için de sığınma gerekir. Umutsuzluk çöktüğünde, sabahı getirene yönelmek insanı ayakta tutar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gece karar verme",
+   "aciklama": "Bugün önemli bir kararı geceye bırakmadan gündüz ver; gece verilen kararı sabah tekrar gözden geçir."
+  },
+  {
+   "baslik": "Akşam düzeni kur",
+   "aciklama": "Bugün yatmadan önce ekranı kapatıp kısa bir okuma veya dua ile günü bitir."
+  },
+  {
+   "baslik": "Bir karanlığı aydınlat",
+   "aciklama": "Bugün keder içindeki bir kişiye ulaş; bir mesaj bile karanlığı biraz açar."
+  }
+ ],
+ "bugununAdimi": "Bugün akşam, gün içinde büyüttüğün bir endişeyi yaz ve sabah tekrar oku; ne kadar küçüldüğünü gör.",
+ "durum": "taslak",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/113/3"
+  }
+ ]
+}

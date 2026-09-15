@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+/* Arapça yazı tipleri siteye gömülüdür (SIL OFL); vasl elifi (ٱ) ve küçük işaretler için tam kapsama sağlar. */
+@font-face { font-family: "Amiri"; src: url("/fonts/Amiri-Regular.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Amiri"; src: url("/fonts/Amiri-Bold.woff2") format("woff2"); font-weight: 700; font-display: swap; }
+@font-face { font-family: "Scheherazade New"; src: url("/fonts/ScheherazadeNew-Regular.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Noto Naskh Arabic"; src: url("/fonts/NotoNaskhArabic.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+:root {
+  --bg: #f2f2f7;
+  --bar: #f7f7f7;
+  --card: #ffffff;
+  --text: #111111;
+  --muted: #6e6e73;
+  --line: #d9d9de;
+  --accent: #f39c12;
+  --accent-soft: #fff4e0;
+  --font-latin: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-arabic: "Amiri", "Scheherazade New", "Noto Naskh Arabic", serif;
+  --size-latin: 16px;
+  --size-arabic: 26px;
+}
+:root[data-theme="dark"] {
+  --bg: #000000;
+  --bar: #1c1c1e;
+  --card: #1c1c1e;
+  --text: #f2f2f7;
+  --muted: #98989f;
+  --line: #3a3a3c;
+  --accent: #f5a623;
+  --accent-soft: #2a2114;
+}
+html, body { background: var(--bg); color: var(--text); }
+body {
+  font-family: var(--font-latin);
+  font-size: var(--size-latin);
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  overscroll-behavior-y: none;
+}
+.arabic {
+  font-family: var(--font-arabic);
+  font-size: var(--size-arabic);
+  line-height: 1.9;
+  direction: rtl;
+  text-align: right;
+  unicode-bidi: isolate;
+}
+.okunus { font-size: calc(var(--size-latin) + 2px); line-height: 1.45; }
+.meal { color: var(--muted); line-height: 1.5; }
+.card { background: var(--card); }
+.hairline { border-color: var(--line); }
+.accent { color: var(--accent); }
+.bg-accent { background: var(--accent); }
+.bg-bar { background: var(--bar); }
+.muted { color: var(--muted); }
+.divider { width: 30%; height: 1px; background: var(--line); margin: 10px auto; }
+.tap:active { opacity: .6; }
+.safe-bottom { padding-bottom: calc(env(safe-area-inset-bottom) + 64px); }
+.safe-top { padding-top: env(safe-area-inset-top); }
+input[type="range"] { accent-color: var(--accent); }

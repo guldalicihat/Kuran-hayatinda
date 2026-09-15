@@ -1,0 +1,13 @@
+node_modules
+dist
+dev-dist
+.env
+.env.*
+*.log
+.DS_Store
+__pycache__/
+
+# üretilen veri (CI yeniden üretir: scripts/build_data.py, scripts/build_content.py)
+public/data/
+public/content/
+tsconfig.tsbuildinfo

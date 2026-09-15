@@ -1,0 +1,89 @@
+{
+ "sure": 112,
+ "ayet": 4,
+ "meal": "Ve hiç kimse O'na denk olmamıştır.",
+ "mealNotu": "'Küfüven' kelimesi denklik ve eşitlik anlamındaki kökten gelir. 'Lem yekün' geçmiş zamanlı olumsuzluk olduğundan 'olmamıştır' biçimi korunmuştur.",
+ "kokler": [
+  {
+   "kelime": "وَلَمْ",
+   "okunus": "ve lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -madı",
+   "karsilik": "ve -mamıştır"
+  },
+  {
+   "kelime": "يَكُن",
+   "okunus": "yekün",
+   "kok": "كون",
+   "kokAnlam": "olma, var olma",
+   "karsilik": "oldu"
+  },
+  {
+   "kelime": "لَّهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) O'na, O'nun için",
+   "karsilik": "O'na"
+  },
+  {
+   "kelime": "كُفُوًا",
+   "okunus": "küfüven",
+   "kok": "كفأ",
+   "kokAnlam": "denklik, eşitlik, benzerlik",
+   "karsilik": "denk"
+  },
+  {
+   "kelime": "أَحَدٌ",
+   "okunus": "ehadün",
+   "kok": "أحد",
+   "kokAnlam": "bir, tek; hiç kimse",
+   "karsilik": "hiç kimse"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, başladığı kelimeyle biter: 'ehad'. İlk ayette Allah için 'tek' anlamında, burada 'hiç kimse' anlamında kullanılır. Bu simetri, tekliğin her yönden korunduğunu gösterir.",
+  "Denklik yalnız ortaklık değildir; kıyaslama, benzetme ve rekabet de denkliğin bir türüdür. Ayet bunların hepsini reddeder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "42:11",
+   "meal": "O'nun benzeri hiçbir şey yoktur; O işitendir, görendir.",
+   "baglanti": "Denkliğin reddi, benzerliğin reddiyle tamamlanır."
+  },
+  {
+   "ref": "16:74",
+   "meal": "Artık Allah'a benzerler koşmayın. Şüphesiz Allah bilir, siz bilmezsiniz.",
+   "baglanti": "Allah'a denk veya benzer varlık tasavvur etmek, bilgisizlikten kaynaklanan bir hata olarak nitelenir."
+  }
+ ],
+ "gunlukHayat": [
+  "İnsan, hayranlık duyduğu kişileri zamanla kutsallaştırabilir. Bu ayet, hiçbir insanın Allah'a denk tutulamayacağını hatırlatarak hayranlığı ölçülü tutar.",
+  "Denk olmadığını bilmek, insanın kendi sınırını da bilmesidir. Kibir, kendini olduğundan büyük görmekle başlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hayranlığını ölç",
+   "aciklama": "Bugün çok değer verdiğin bir kişinin de hata yapabileceğini kabul et."
+  },
+  {
+   "baslik": "Sınırını bil",
+   "aciklama": "Bugün bir konuda 'bilmiyorum' demeyi dene."
+  },
+  {
+   "baslik": "Sureyi tamamla",
+   "aciklama": "Bugün İhlâs suresini anlamını düşünerek bir kez oku."
+  }
+ ],
+ "bugununAdimi": "Bugün İhlâs suresinin dört ayetini kendi cümlelerinle bir kişiye anlat.",
+ "durum": "taslak",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/112/4"
+  }
+ ]
+}

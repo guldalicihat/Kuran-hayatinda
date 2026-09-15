@@ -1,0 +1,82 @@
+{
+ "sure": 112,
+ "ayet": 3,
+ "meal": "Doğurmamıştır ve doğurulmamıştır.",
+ "mealNotu": "İki fiil aynı kökten (v-l-d) gelir; ilki etken, ikincisi edilgendir. Meal bu yapıyı birebir korur.",
+ "kokler": [
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -madı",
+   "karsilik": "-mamıştır"
+  },
+  {
+   "kelime": "يَلِدْ",
+   "okunus": "yelid",
+   "kok": "ولد",
+   "kokAnlam": "doğurma, çocuk sahibi olma",
+   "karsilik": "doğurdu"
+  },
+  {
+   "kelime": "وَلَمْ",
+   "okunus": "ve lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -madı",
+   "karsilik": "ve -mamıştır"
+  },
+  {
+   "kelime": "يُولَدْ",
+   "okunus": "yûled",
+   "kok": "ولد",
+   "kokAnlam": "doğurulma",
+   "karsilik": "doğuruldu"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Allah'ın herhangi bir soy zincirinin parçası olmadığını bildirir. Çocuk edinmek, eksikliği tamamlama ve devam etme ihtiyacına işaret eder; Samed olan bunlardan uzaktır.",
+  "Doğurulmamış olmak, başlangıcı olmadığını; doğurmamış olmak, kendisinden bir parça kopmadığını anlatır. Böylece teklik, zaman ve soy açısından da korunur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "19:92",
+   "meal": "Rahmân'a çocuk edinmek yaraşmaz.",
+   "baglanti": "Aynı kök (v-l-d) burada Rahmân sıfatıyla birlikte kullanılır: merhametin genişliği, çocuk edinme ihtiyacını dışlar."
+  },
+  {
+   "ref": "6:101",
+   "meal": "O, gökleri ve yeri yoktan var edendir. Eşi olmadığı hâlde nasıl çocuğu olabilir? Her şeyi O yaratmıştır.",
+   "baglanti": "Çocuk edinmenin imkânsızlığı, yaratıcılık vasfıyla gerekçelendirilir."
+  }
+ ],
+ "gunlukHayat": [
+  "İnsan her şeyi kendi deneyimine benzetme eğilimindedir. Allah'ı insana benzetmemek, tevhidin korunması için gereklidir.",
+  "Soy, mal ve devamlılık kaygısı insanı belirler; Allah'ın bu kaygılardan uzak olduğunu bilmek, insana kendi kaygılarını ölçülü tutmayı öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Benzetmeden düşün",
+   "aciklama": "Bugün Allah hakkında konuşurken insanî sınırlamaları O'na yüklemediğinden emin ol."
+  },
+  {
+   "baslik": "Devamlılık kaygını ölç",
+   "aciklama": "Bugün geleceğe dair bir endişeni yaz ve onun ne kadarının gerçek olduğunu değerlendir."
+  },
+  {
+   "baslik": "Aileni emanet bil",
+   "aciklama": "Bugün çocuğunla veya ailenle ilgili bir sorumluluğu emanet bilinciyle yerine getir."
+  }
+ ],
+ "bugununAdimi": "Bugün ailenden bir kişiye vakit ayır; bu ilişkiyi mülk değil emanet olarak gör.",
+ "durum": "taslak",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=112&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/112/3"
+  }
+ ]
+}

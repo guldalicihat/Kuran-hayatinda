@@ -1,0 +1,75 @@
+{
+ "sure": 108,
+ "ayet": 2,
+ "meal": "Öyleyse Rabbin için namaz kıl ve kurban kes.",
+ "mealNotu": "'Fe' edatı 'öyleyse' ile karşılanmıştır: nimetin sonucu ibadettir. 'Nahr' kökü, deveyi boğazından kesmeyi anlatır; 'kurban kes' bu kökün Türkçe karşılığıdır.",
+ "kokler": [
+  {
+   "kelime": "فَصَلِّ",
+   "okunus": "fesalli",
+   "kok": "صلو",
+   "kokAnlam": "dua, bağlılık; namaz",
+   "karsilik": "öyleyse namaz kıl"
+  },
+  {
+   "kelime": "لِرَبِّكَ",
+   "okunus": "lirabbike",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme; Rab",
+   "karsilik": "Rabbin için"
+  },
+  {
+   "kelime": "وَٱنْحَرْ",
+   "okunus": "venhar",
+   "kok": "نحر",
+   "kokAnlam": "boğaz; hayvanı boğazından kesme, kurban",
+   "karsilik": "ve kurban kes"
+  }
+ ],
+ "neAnlatiyor": [
+  "Nimete karşılık iki eylem istenir: namaz ve kurban. İkisi de 'Rabbin için' kaydıyla sınırlanır; ibadetin yönü önemlidir.",
+  "Namaz kişisel bağlılığı, kurban ise malını Allah için harcamayı temsil eder. Böylece nimete şükür, hem beden hem mal ile gösterilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:162",
+   "meal": "De ki: Şüphesiz benim namazım, kurbanım, hayatım ve ölümüm âlemlerin Rabbi Allah içindir.",
+   "baglanti": "Namaz ve kurban burada da yan yana ve 'Allah için' kaydıyla anılır."
+  },
+  {
+   "ref": "22:37",
+   "meal": "Onların etleri ve kanları Allah'a ulaşmaz; fakat sizin takvanız O'na ulaşır.",
+   "baglanti": "Kurbanın amacı et değil, Allah'a yönelmiş bilinçtir."
+  }
+ ],
+ "gunlukHayat": [
+  "Nimete teşekkür sözle kalmamalı; bir davranışa dönüşmelidir. Ayet bunu namaz ve kurbanla somutlaştırır.",
+  "'Rabbin için' kaydı, yaptığımız işlerin kime yönelik olduğunu sorgulatır. Gösteriş için yapılan iyilik, bu kayda uymaz."
+ ],
+ "bugun": [
+  {
+   "baslik": "Şükrü eyleme çevir",
+   "aciklama": "Bugün aldığın bir nimet için sözle değil, bir davranışla teşekkür et."
+  },
+  {
+   "baslik": "Niyetini kontrol et",
+   "aciklama": "Bugün yaptığın bir iyiliğin gerçekten kimin için olduğunu sor."
+  },
+  {
+   "baslik": "Malından ver",
+   "aciklama": "Bugün bütçenden küçük de olsa bir miktarı ihtiyaç sahibine ayır."
+  }
+ ],
+ "bugununAdimi": "Bugün bir namazı, verilen nimetlerin şükrü niyetiyle, acele etmeden kıl.",
+ "durum": "taslak",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=108&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/108/2"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "sure": 108,
+ "ayet": 1,
+ "meal": "Şüphesiz biz sana Kevser'i (bol hayrı) verdik.",
+ "mealNotu": "'Kevser' kökü çokluğu ve bolluğu anlatır; parantez içindeki açıklama köke dayanır. Klasik tefsirlerde cennetteki bir nehir olarak da yorumlanır; meal bu yorumu dışlamaz.",
+ "kokler": [
+  {
+   "kelime": "إِنَّآ",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(pekiştirme + zamir) şüphesiz biz",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "أَعْطَيْنَٰكَ",
+   "okunus": "a'taynâke",
+   "kok": "عطو",
+   "kokAnlam": "verme, bağışlama, ikram",
+   "karsilik": "sana verdik"
+  },
+  {
+   "kelime": "ٱلْكَوْثَرَ",
+   "okunus": "elkevsera",
+   "kok": "كثر",
+   "kokAnlam": "çokluk, bolluk, fazlalık",
+   "karsilik": "Kevser (bol hayır)"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, Peygamber'e verilen büyük bir nimetin haberiyle başlar. Fiil geçmiş zamandadır: verilmiştir, verilecek değil. Nimet kesinleşmiştir.",
+  "'Kevser', kök anlamıyla bolluktur. Sure, Peygamber'in çevresinde küçümsendiği bir dönemde inmiştir; bu bolluk vaadi, dışarıdan görünen yoksunluğun aksine gerçek zenginliğin ne olduğunu bildirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "93:5",
+   "meal": "Rabbin sana verecek ve sen razı olacaksın.",
+   "baglanti": "Aynı kök (a-t-v) ile verilen vaat, Kevser suresinde 'verdik' biçiminde kesinleşir."
+  },
+  {
+   "ref": "94:1",
+   "meal": "Senin göğsünü açmadık mı?",
+   "baglanti": "Peygamber'e verilen nimetler, sıkıntılı dönemlerde hatırlatılır; bolluk, maddi olmayan bir genişliktir."
+  }
+ ],
+ "gunlukHayat": [
+  "Zenginlik, eldeki şeylerin miktarıyla değil, sahip olduğun hayrın çokluğuyla ölçülür. Az mal ama huzurlu bir aile, çok mal ama kavgalı bir hayattan daha bereketlidir.",
+  "Verilen nimeti kabul etmek de bir tutumdur. Sürekli eksikliğe odaklanan insan, elindeki bolluğu göremez."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bolluğunu say",
+   "aciklama": "Bugün maddi olmayan üç zenginliğini (ilişki, sağlık, bilgi) yaz."
+  },
+  {
+   "baslik": "Eksiklikten bolluğa",
+   "aciklama": "Bugün 'yok' dediğin bir konuda 'var' olanı bul."
+  },
+  {
+   "baslik": "Bereketi paylaş",
+   "aciklama": "Bugün sahip olduğun bir bolluğu (zaman, bilgi, yemek) biriyle paylaş."
+  }
+ ],
+ "bugununAdimi": "Bugün sana verilen bir nimeti bir başkasıyla paylaşarak Kevser'i çoğalt.",
+ "durum": "taslak",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=108&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/108/1"
+  }
+ ]
+}

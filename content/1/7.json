@@ -1,0 +1,117 @@
+{
+ "sure": 1,
+ "ayet": 7,
+ "meal": "Kendilerine nimet verdiklerinin yoluna; gazaba uğramışların ve sapmışların [yoluna] değil.",
+ "mealNotu": "'Gayr' kelimesi 'başka, dışında' anlamındadır ve 'değil' ile karşılanmıştır. 'Mağdûb' edilgen kalıptır: 'gazaba uğramış'. '[yoluna]' eklemesi Türkçe akış içindir; Arapçada 'sırât' kelimesi tekrar edilmez.",
+ "kokler": [
+  {
+   "kelime": "صِرَٰطَ",
+   "okunus": "sırâta",
+   "kok": "صرط",
+   "kokAnlam": "geniş, açık ve düz yol",
+   "karsilik": "yoluna"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "kimselerin"
+  },
+  {
+   "kelime": "أَنْعَمْتَ",
+   "okunus": "en'amte",
+   "kok": "نعم",
+   "kokAnlam": "nimet, bolluk, hoşluk verme",
+   "karsilik": "nimet verdin"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlara, üzerlerine",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "غَيْرِ",
+   "okunus": "gayri",
+   "kok": "غير",
+   "kokAnlam": "başka, dışında; değişme",
+   "karsilik": "değil, dışında"
+  },
+  {
+   "kelime": "ٱلْمَغْضُوبِ",
+   "okunus": "elmağdûbi",
+   "kok": "غضب",
+   "kokAnlam": "öfke, gazap, kızgınlık",
+   "karsilik": "gazaba uğramış"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlara, üzerlerine",
+   "karsilik": "olanların"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ne de",
+   "karsilik": "ve ne de"
+  },
+  {
+   "kelime": "ٱلضَّآلِّينَ",
+   "okunus": "eddâllîne",
+   "kok": "ضلل",
+   "kokAnlam": "yolu kaybetme, sapma, şaşırma",
+   "karsilik": "sapmışların"
+  }
+ ],
+ "neAnlatiyor": [
+  "Dosdoğru yol, bu ayette insanlarla tanımlanır: Allah'ın nimet verdiği kimselerin yolu. Yol soyut bir ilke değil, önceki iyi insanların yürüdüğü somut bir izdir.",
+  "İki olumsuz örnek verilir. 'Gazaba uğramışlar', bildiği hâlde doğrudan bilerek dönenleri; 'sapmışlar', doğruyu bulamayıp yolunu kaybedenleri anlatır. Ayet bunları belirli bir isimle değil, davranışla tanımlar; bu yüzden ders herkese yöneliktir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:69",
+   "meal": "Kim Allah'a ve Resûl'e itaat ederse, işte onlar Allah'ın kendilerine nimet verdiği peygamberler, dosdoğru olanlar, şehitler ve salihlerle beraberdir. Onlar ne güzel arkadaştır!",
+   "baglanti": "'Nimet verilenler' aynı kökle (n-a-m) burada dört grup olarak sayılır; Fâtiha'daki yol bu insanların yoludur."
+  },
+  {
+   "ref": "2:16",
+   "meal": "İşte onlar, hidayet karşılığında sapıklığı satın alanlardır; ticaretleri kâr etmemiş ve doğru yolu bulamamışlardır.",
+   "baglanti": "'Sapma' (d-l-l) kökü burada bilinçli bir tercih olarak anlatılır: hidayeti verip sapıklığı almak."
+  }
+ ],
+ "gunlukHayat": [
+  "İnsan, yürüdüğü yolu örnek aldığı kişilerden öğrenir. Kimin peşinden gittiğine bakmak, nereye varacağını gösterir.",
+  "İki tehlike vardır: bildiğini uygulamamak ve bilmeden yanlışa sapmak. Birincisi için irade, ikincisi için öğrenme gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Örneğini seç",
+   "aciklama": "Bugün hayatına yön veren bir kişiyi düşün; onun yolunun seni nereye götürdüğünü dürüstçe değerlendir."
+  },
+  {
+   "baslik": "Bildiğini uygula",
+   "aciklama": "Bugün doğru olduğunu bildiğin ama ertelediğin bir davranışı yerine getir."
+  },
+  {
+   "baslik": "Bilmediğini öğren",
+   "aciklama": "Bugün emin olmadığın bir konuyu araştırmak için on dakika ayır."
+  }
+ ],
+ "bugununAdimi": "Bugün, yolunu örnek aldığın bir iyi insanın bir davranışını birebir uygula.",
+ "durum": "taslak",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/1/7"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sure": 113,
+ "ayet": 1,
+ "meal": "De ki: Sığınırım şafağın (karanlığı yarıp açanın) Rabbine,",
+ "mealNotu": "'Felak' kökü yarmayı ve yarılıp açılmayı anlatır; tan yeri, karanlığı yaran ışık olduğu için bu adı alır. Parantez içindeki açıklama köke dayanır.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "أَعُوذُ",
+   "okunus": "eûzü",
+   "kok": "عوذ",
+   "kokAnlam": "sığınma, korunma isteme",
+   "karsilik": "sığınırım"
+  },
+  {
+   "kelime": "بِرَبِّ",
+   "okunus": "birabbi",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme; Rab",
+   "karsilik": "Rabbine"
+  },
+  {
+   "kelime": "ٱلْفَلَقِ",
+   "okunus": "elfelekı",
+   "kok": "فلق",
+   "kokAnlam": "yarma, yarılıp açılma; tan yeri",
+   "karsilik": "şafağın"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure bir sığınma talimatıyla başlar. Sığınılan varlık, 'şafağın Rabbi'dir: karanlığı yarıp ışığı çıkaran. Korkunun karşısına, karanlığı açan gücün sahibi konur.",
+  "'Felak' kökündeki yarılma anlamı, tohumun çatlaması ve sabahın doğması için de kullanılır. Sığınılan Rab, her kapalı durumu açabilen Rab'dir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:96",
+   "meal": "Karanlığı yarıp sabahı çıkarandır. Geceyi dinlenme, güneşi ve ayı hesap [ölçüsü] kılmıştır.",
+   "baglanti": "Aynı kök (f-l-k) ile Allah'ın sabahı karanlıktan çıkarması anlatılır; sığınılan Rab budur."
+  },
+  {
+   "ref": "7:200",
+   "meal": "Şeytandan bir kışkırtma seni dürterse Allah'a sığın; şüphesiz O işitendir, bilendir.",
+   "baglanti": "Sığınma emrinin genel ilkesi: kötülük hissedildiğinde yönelinecek yer Allah'tır."
+  }
+ ],
+ "gunlukHayat": [
+  "Korku, karanlıkta büyür. Ayet, korkuyu yok saymak yerine onu karanlığı açabilecek olana götürmeyi öğretir.",
+  "Sığınmak, tedbiri bırakmak değildir; tedbirin ötesindeki alanı Allah'a bırakmaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Korkunu adlandır",
+   "aciklama": "Bugün seni huzursuz eden bir şeyi açıkça yaz; adı konan korku küçülür."
+  },
+  {
+   "baslik": "Tedbirini al",
+   "aciklama": "Bugün endişelendiğin konuda elinden gelen bir adımı at, gerisini teslim et."
+  },
+  {
+   "baslik": "Sabahı hatırla",
+   "aciklama": "Bugün bir sıkıntıda 'Her gece bir sabahla açılır' diyerek kendine sabır ver."
+  }
+ ],
+ "bugununAdimi": "Bugün yatmadan önce Felak suresini oku ve bir endişeni Allah'a bırak.",
+ "durum": "taslak",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=113&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/113/1"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "sure": 1,
+ "ayet": 3,
+ "meal": "[O] Rahmân'dır, Rahîm'dir.",
+ "mealNotu": "Ayet, ikinci ayetteki 'Allah' kelimesinin iki sıfatını tekrar eder. '[O]' eklemesi Türkçe cümle kurmak için konmuştur; Arapçada sıfatlar doğrudan Allah lafzına bağlanır.",
+ "kokler": [
+  {
+   "kelime": "ٱلرَّحْمَٰنِ",
+   "okunus": "errahmâni",
+   "kok": "رحم",
+   "kokAnlam": "rahim, şefkat, koruyup gözeten merhamet",
+   "karsilik": "Rahmân (merhameti her şeyi kuşatan)"
+  },
+  {
+   "kelime": "ٱلرَّحِيمِ",
+   "okunus": "errahîmi",
+   "kok": "رحم",
+   "kokAnlam": "rahim, şefkat, koruyup gözeten merhamet",
+   "karsilik": "Rahîm (merhameti sürekli olan)"
+  }
+ ],
+ "neAnlatiyor": [
+  "Besmelede geçen iki sıfat, 'âlemlerin Rabbi' ifadesinden hemen sonra tekrar gelir. Bu tekrar bir vurgudur: Rabbin terbiyesi sertlikle değil, merhametle işler.",
+  "Rahmân, merhametin genişliğini anlatır; iyi ve kötü herkes bu dünyada ondan pay alır. Rahîm ise merhametin sürekliliğini ve yönelişini anlatır; Kur'an bu sıfatı özellikle müminlere yönelik merhamet için kullanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:156",
+   "meal": "[Allah buyurdu:] Azabımı dilediğime isabet ettiririm; rahmetim ise her şeyi kuşatmıştır.",
+   "baglanti": "Rahmân sıfatının genişliği burada açıkça ifade edilir: rahmet her şeyi kuşatır, azap ise sınırlıdır."
+  },
+  {
+   "ref": "6:54",
+   "meal": "Rabbiniz rahmeti kendi üzerine yazmıştır.",
+   "baglanti": "Merhamet, Allah'ın kendine ilke edindiği bir vasıftır; Fâtiha'daki tekrar bu ilkeyi hatırlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Merhametin iki yüzü vardır: geniş olmak ve sürekli olmak. Bir anlık iyilik kolaydır; asıl olan merhameti bir alışkanlık hâline getirmektir.",
+  "Rabbin terbiyesinin merhametle işlediğini bilen insan, kendi sorumluluğundaki kişilere de aynı ölçüyle davranır: çocuk, öğrenci, çalışan, hasta."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geniş ol",
+   "aciklama": "Bugün seni kızdıran bir kişiye bir kez daha şans ver."
+  },
+  {
+   "baslik": "Sürekli ol",
+   "aciklama": "Bugün önceden iyilik yaptığın birine, iyiliğin devam ettiğini gösteren küçük bir şey yap."
+  },
+  {
+   "baslik": "Kendine merhamet",
+   "aciklama": "Bugün bir hatanı fark ettiğinde kendini yargılamak yerine düzeltmeye odaklan."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kişiye, karşılık beklemeden ve sebep aramadan küçük bir iyilik yap.",
+ "durum": "taslak",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/1/3"
+  }
+ ]
+}

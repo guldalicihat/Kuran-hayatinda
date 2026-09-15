@@ -1,0 +1,75 @@
+{
+ "sure": 1,
+ "ayet": 6,
+ "meal": "Bizi dosdoğru yola ilet.",
+ "mealNotu": "'Sırât' kökü geniş ve açık yolu, 'müstakîm' kökü ayakta duran ve eğrilmeyen şeyi anlatır; 'dosdoğru yol' bu iki kökün birleşimidir. 'İhdinâ' fiili hidayet kökünden gelir ve hem 'yolu göster' hem 'yola ulaştır' anlamı taşır.",
+ "kokler": [
+  {
+   "kelime": "ٱهْدِنَا",
+   "okunus": "ihdinâ",
+   "kok": "هدي",
+   "kokAnlam": "yol gösterme, kılavuzluk etme, hedefe ulaştırma",
+   "karsilik": "bizi ilet"
+  },
+  {
+   "kelime": "ٱلصِّرَٰطَ",
+   "okunus": "essırâta",
+   "kok": "صرط",
+   "kokAnlam": "geniş, açık ve düz yol",
+   "karsilik": "yola"
+  },
+  {
+   "kelime": "ٱلْمُسْتَقِيمَ",
+   "okunus": "elmüstekîme",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, doğru ve dik olma",
+   "karsilik": "dosdoğru"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kulluk ve yardım ilanından sonra ilk somut istek gelir: dosdoğru yol. İnsan, kulluğun yolunu kendi başına bulamayacağını kabul eder ve kılavuz ister.",
+  "Talep yine çoğuldur: 'bizi'. Kur'an, hidayeti bireysel bir kazanım olarak değil, birlikte yürünen bir yol olarak sunar. 'Müstakîm' kökündeki 'ayakta durma' anlamı, bu yolun sağlam ve sapmadan hedefe götüren yol olduğunu belirtir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:153",
+   "meal": "İşte bu, benim dosdoğru yolumdur; ona uyun. Başka yollara uymayın; yoksa sizi O'nun yolundan ayırırlar.",
+   "baglanti": "Dosdoğru yolun tek olduğu ve diğer yolların insanı ondan uzaklaştırdığı burada açıkça belirtilir."
+  },
+  {
+   "ref": "42:52",
+   "meal": "Şüphesiz sen, dosdoğru bir yola iletiyorsun.",
+   "baglanti": "Fâtiha'da istenen hidayet, Peygamber'in tebliğiyle somutlaşır: yol, vahiyle gösterilmiştir."
+  }
+ ],
+ "gunlukHayat": [
+  "Her gün yol seçeriz: meslek, arkadaş, harcama, söz. 'Dosdoğru yol' isteği, bu kararlarda ölçünün ne olduğunu sormaktır.",
+  "İstemek yetmez; yolu bilen birinden yön almak gerekir. Bilmediğin bir konuda ehil birine danışmak, bu ayetin pratik karşılığıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir kararı ölç",
+   "aciklama": "Bugün vereceğin bir kararı 'Bu beni doğru yolda tutar mı, yoksa saptırır mı?' diye sor."
+  },
+  {
+   "baslik": "Ehline sor",
+   "aciklama": "Bugün bilmediğin bir konuda, o işi bilen bir kişiden yön al."
+  },
+  {
+   "baslik": "Rotanı gözden geçir",
+   "aciklama": "Bu hafta için tek bir hedef belirle ve bugün ona doğru bir adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün gün içinde bir kez durup 'Şu an gittiğim yön doğru mu?' diye kendine sor ve gerekiyorsa düzelt.",
+ "durum": "taslak",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=1&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/1/6"
+  }
+ ]
+}

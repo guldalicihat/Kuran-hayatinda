@@ -1,0 +1,82 @@
+{
+ "sure": 103,
+ "ayet": 2,
+ "meal": "Şüphesiz insan, gerçekten ziyandadır.",
+ "mealNotu": "'Husr' kökü kaybı, zararı ve eksilmeyi anlatır; ticaretteki zarar için de kullanılır. 'Şüphesiz' ve 'gerçekten' iki ayrı pekiştirme edatının (inne, le) karşılığıdır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(pekiştirme) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلْإِنسَٰنَ",
+   "okunus": "el'insâne",
+   "kok": "أنس",
+   "kokAnlam": "ünsiyet, yakınlık; insan",
+   "karsilik": "insan"
+  },
+  {
+   "kelime": "لَفِى",
+   "okunus": "lefî",
+   "kok": "—",
+   "kokAnlam": "(pekiştirme + edat) gerçekten içinde",
+   "karsilik": "gerçekten içindedir"
+  },
+  {
+   "kelime": "خُسْرٍ",
+   "okunus": "husrin",
+   "kok": "خسر",
+   "kokAnlam": "kayıp, zarar, eksilme",
+   "karsilik": "ziyan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Yeminin cevabı serttir: insan ziyandadır. İki pekiştirme edatı bu hükmü güçlendirir. Ziyan, ticaret dilinden alınmış bir kavramdır: sermaye harcanır, karşılığında bir şey kazanılmaz.",
+  "Sermaye zamandır. İlk ayetteki 'asr' ile bu ayetteki 'husr' birbirine bağlıdır: zaman harcanır ve insan, bir sonraki ayette sayılan şartları yerine getirmezse elinde bir şey kalmaz."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "39:15",
+   "meal": "De ki: Asıl ziyana uğrayanlar, kıyamet günü kendilerini ve ailelerini ziyana uğratanlardır. Dikkat edin, apaçık ziyan işte budur.",
+   "baglanti": "Aynı kök (h-s-r) ile ziyanın en büyük biçimi tanımlanır: kendini ve ailesini kaybetmek."
+  },
+  {
+   "ref": "2:16",
+   "meal": "İşte onlar, hidayet karşılığında sapıklığı satın alanlardır; ticaretleri kâr etmemiştir.",
+   "baglanti": "Ziyan, kötü bir alışveriş olarak anlatılır: değerliyi verip değersizi almak."
+  }
+ ],
+ "gunlukHayat": [
+  "Ziyan, kötü bir şey yapmakla sınırlı değildir; değerli olanı harcayıp karşılığında bir şey almamak da ziyandır. Boşa geçen günler böyledir.",
+  "Genel hüküm 'insan ziyandadır' olduğuna göre, kurtuluş varsayılan değil, çaba gerektiren bir durumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kâr-zarar yap",
+   "aciklama": "Bugün gün sonunda, günün sana ne kazandırdığını ve neyi kaybettirdiğini iki sütunda yaz."
+  },
+  {
+   "baslik": "Bir kaybı durdur",
+   "aciklama": "Bugün zamanını en çok tüketen alışkanlığı fark et ve bir kez ondan vazgeç."
+  },
+  {
+   "baslik": "Varsayılanı değiştir",
+   "aciklama": "Bugün kurtuluşun otomatik olmadığını hatırlayarak bilinçli bir iyilik yap."
+  }
+ ],
+ "bugununAdimi": "Bugün 'boşa geçti' diyeceğin bir saati, kalıcı bir işe dönüştür.",
+ "durum": "taslak",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/103/2"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "sure": 103,
+ "ayet": 3,
+ "meal": "Ancak iman edenler, salih ameller işleyenler, birbirlerine hakkı tavsiye edenler ve birbirlerine sabrı tavsiye edenler [ziyanda değildir].",
+ "mealNotu": "'Tevâsav' fiili karşılıklılık kalıbındadır: tek yönlü öğüt değil, birbirine tavsiye. '[ziyanda değildir]' eklemesi, 'ancak' istisnasının Türkçede tamamlanması içindir.",
+ "kokler": [
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, dışında",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman ettiler"
+  },
+  {
+   "kelime": "وَعَمِلُوا۟",
+   "okunus": "ve amilû",
+   "kok": "عمل",
+   "kokAnlam": "iş, eylem, çalışma",
+   "karsilik": "ve işlediler"
+  },
+  {
+   "kelime": "ٱلصَّٰلِحَٰتِ",
+   "okunus": "essâlihâti",
+   "kok": "صلح",
+   "kokAnlam": "düzgün, uygun, ıslah edici",
+   "karsilik": "salih amelleri"
+  },
+  {
+   "kelime": "وَتَوَاصَوْا۟",
+   "okunus": "ve tevâsav",
+   "kok": "وصي",
+   "kokAnlam": "tavsiye, vasiyet; karşılıklı öğütleme",
+   "karsilik": "ve birbirlerine tavsiye ettiler"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, sabit, hak",
+   "karsilik": "hakkı"
+  },
+  {
+   "kelime": "وَتَوَاصَوْا۟",
+   "okunus": "ve tevâsav",
+   "kok": "وصي",
+   "kokAnlam": "tavsiye, vasiyet; karşılıklı öğütleme",
+   "karsilik": "ve birbirlerine tavsiye ettiler"
+  },
+  {
+   "kelime": "بِٱلصَّبْرِ",
+   "okunus": "bis sabri",
+   "kok": "صبر",
+   "kokAnlam": "tutma, dayanma, direnme",
+   "karsilik": "sabrı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ziyandan kurtuluşun dört şartı sayılır: iman, salih amel, hakkı tavsiye, sabrı tavsiye. İlk ikisi bireyseldir; son ikisi başkalarıyla ilişkide gerçekleşir.",
+  "'Tevâsav' fiilinin karşılıklılık kalıbı önemlidir. Kurtuluş, yalnız kendini düzeltmekle değil, bir topluluk içinde birbirini hakka ve sabra çağırmakla tamamlanır. Sabır, hakkı yaşarken karşılaşılan zorluklara dayanmayı ifade eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "90:17",
+   "meal": "Sonra iman edenlerden, birbirlerine sabrı tavsiye edenlerden ve birbirlerine merhameti tavsiye edenlerden olmaktır.",
+   "baglanti": "Aynı fiil (tevâsav) burada sabır ve merhametle birlikte geçer; karşılıklı tavsiye, mümin topluluğun ortak özelliğidir."
+  },
+  {
+   "ref": "2:153",
+   "meal": "Ey iman edenler! Sabır ve namazla yardım isteyin. Şüphesiz Allah sabredenlerle beraberdir.",
+   "baglanti": "Sabır, kurtuluş şartı olmanın yanında Allah'ın beraberliğini kazandıran bir tutumdur."
+  }
+ ],
+ "gunlukHayat": [
+  "Doğru bilgiye sahip olmak yetmez; onu yaşamak (amel) ve paylaşmak (tavsiye) gerekir. Sadece kendi doğrusunda kalan insan, ayetin son iki şartını eksik bırakır.",
+  "Tavsiye karşılıklıdır: öğüt vermek kadar öğüt almaya açık olmak da gerekir. Uyarıya kapalı insan, kendi yanlışını göremez."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir doğruyu paylaş",
+   "aciklama": "Bugün bir yakınına, ona faydası olacak bir doğruyu nazikçe söyle."
+  },
+  {
+   "baslik": "Bir uyarıyı kabul et",
+   "aciklama": "Bugün sana yöneltilen bir eleştiriyi savunmadan dinle ve haklı kısmını kabul et."
+  },
+  {
+   "baslik": "Sabrı somutlaştır",
+   "aciklama": "Bugün zor bir işte pes etmek istediğinde beş dakika daha devam et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir arkadaşınla karşılıklı bir söz ver: birbirinizi bir konuda hakka ve sabra çağırın.",
+ "durum": "taslak",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/103/3"
+  }
+ ]
+}
