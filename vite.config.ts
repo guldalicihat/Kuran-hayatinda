@@ -5,7 +5,7 @@ import { VitePWA } from 'vite-plugin-pwa'
 
 // GitHub Pages: site, /kuran-hayatinda/ alt yolunda yayınlanır.
 export default defineConfig({
-  base: process.env.VITE_BASE ?? '/kuran-hayatinda/',
+  base: process.env.VITE_BASE ?? '/Kuran-hayatinda/',
   plugins: [
     react(),
     tailwindcss(),

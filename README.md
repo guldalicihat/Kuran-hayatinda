@@ -2,7 +2,7 @@
 
 Tüm sureler ve ayetler için Arapça metin, Türkçe okunuş, kök temelli meal ve günlük hayata bağlanan açıklamalar sunan, mobil görünümlü ve çevrimdışı çalışabilen web sitesi.
 
-Site: https://guldalicihat.github.io/kuran-hayatinda/
+Site: https://guldalicihat.github.io/Kuran-hayatinda/
 
 ## Özellikler
 - Sure listesi: Mushaf sırası veya iniş sırası (Mekki / Medeni bölümlü), Türkçe ad ve anlam, ayet sayısı.
