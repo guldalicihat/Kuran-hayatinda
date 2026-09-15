@@ -1,0 +1,51 @@
+name: İçerik üret (Claude Batch)
+on:
+  workflow_dispatch:
+    inputs:
+      islem:
+        description: "submit (gönder) | collect (sonuçları indir) | status"
+        required: true
+        default: status
+        type: choice
+        options: [status, submit, collect]
+      baslangic:
+        description: "Başlangıç suresi (submit için)"
+        default: "1"
+      bitis:
+        description: "Bitiş suresi (submit için)"
+        default: "114"
+      model:
+        description: "Model"
+        default: claude-opus-5
+permissions:
+  contents: write
+jobs:
+  uret:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install anthropic
+      - run: python3 scripts/build_data.py
+      - name: İşlemi çalıştır
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          case "${{ inputs.islem }}" in
+            submit)  python3 scripts/generate_content.py submit --from ${{ inputs.baslangic }} --to ${{ inputs.bitis }} --model ${{ inputs.model }} ;;
+            collect) python3 scripts/generate_content.py collect ;;
+            *)       python3 scripts/generate_content.py status ;;
+          esac
+      - name: Doğrula
+        if: inputs.islem == 'collect'
+        run: python3 scripts/build_content.py && python3 scripts/check_data.py
+      - name: Sonuçları depoya yaz
+        if: inputs.islem != 'status'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content data/generation_state.json data/generation_rejected.json 2>/dev/null || git add content data/generation_state.json
+          git diff --cached --quiet && echo "değişiklik yok" && exit 0
+          git commit -m "İçerik üretimi: ${{ inputs.islem }} (${{ inputs.baslangic }}-${{ inputs.bitis }})"
+          for i in 1 2 3 4; do git pull --rebase && git push && exit 0; sleep $((2**i)); done; exit 1

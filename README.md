@@ -36,5 +36,15 @@ npm run dev
 ```
 `npm run build` üretim çıktısını `dist/` altına yazar. `main` dalına her gönderimde GitHub Actions siteyi yayınlar.
 
+## Toplu içerik üretimi
+`scripts/generate_content.py` tüm ayetler için kök temelli meal ve açıklama üretir (Claude Message Batches API, %50 indirimli).
+```
+python3 scripts/generate_content.py estimate        # maliyet tahmini
+python3 scripts/generate_content.py submit          # batch gönder (ANTHROPIC_API_KEY gerekir)
+python3 scripts/generate_content.py collect         # sonuçları indir, doğrula, content/ altına yaz
+```
+GitHub üzerinden: Actions → "İçerik üret (Claude Batch)" → Run workflow. `ANTHROPIC_API_KEY` deponun Secrets ayarında tanımlı olmalıdır.
+Üretilen her ayet, kök ve çapraz referans doğrulamasından geçmeden depoya yazılmaz; reddedilenler `data/generation_rejected.json` dosyasına düşer.
+
 ## İçerik durumu
 Her açıklama `durum: "taslak"` ile başlar ve sitede "Yapay zekâ destekli taslak" etiketiyle görünür. İnceleme sonrası `"incelendi"` yapılır. Kaynak ve lisans notları için `KAYNAKLAR.md`.
