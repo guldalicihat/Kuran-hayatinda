@@ -1,0 +1,334 @@
+{
+ "sure": 6,
+ "ayet": 144,
+ "durum": "taslak",
+ "meal": "Deveden iki, sığırdan iki. De ki: O, iki erkeği mi haram kıldı, yoksa iki dişiyi mi, yoksa iki dişinin rahimlerinin içine aldığını mı? Yoksa Allah size bunu buyurduğunda orada şahitler miydiniz? Bilgisizce insanları saptırmak için Allah'a karşı yalan yere iftira edenden daha zalim kim vardır? Şüphesiz Allah, zalim topluluğu doğru yola iletmez.",
+ "mealNotu": "Bu ayet, 143. ayetteki soruyu deve ve sığır için tekrarlar; 'şühedâe' (şahitler) kelimesi, onların bu haram kılmayı Allah'tan doğrudan işitmediklerini, sadece iddia ettiklerini vurgular.",
+ "kokler": [
+  {
+   "kelime": "وَمِنَ",
+   "okunus": "ve mine",
+   "kok": "—",
+   "kokAnlam": "(edat) ve -den",
+   "karsilik": "ve -den"
+  },
+  {
+   "kelime": "ٱلْإِبِلِ",
+   "okunus": "el'ibili",
+   "kok": "أبل",
+   "kokAnlam": "deve",
+   "karsilik": "deveden"
+  },
+  {
+   "kelime": "ٱثْنَيْنِ",
+   "okunus": "isneyni",
+   "kok": "ثني",
+   "kokAnlam": "iki, ikileme",
+   "karsilik": "iki"
+  },
+  {
+   "kelime": "وَمِنَ",
+   "okunus": "ve mine",
+   "kok": "—",
+   "kokAnlam": "(edat) ve -den",
+   "karsilik": "ve -den"
+  },
+  {
+   "kelime": "ٱلْبَقَرِ",
+   "okunus": "elbekari",
+   "kok": "بقر",
+   "kokAnlam": "sığır",
+   "karsilik": "sığırdan"
+  },
+  {
+   "kelime": "ٱثْنَيْنِ",
+   "okunus": "isneyni",
+   "kok": "ثني",
+   "kokAnlam": "iki, ikileme",
+   "karsilik": "iki"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "ءَآلذَّكَرَيْنِ",
+   "okunus": "âlzzekerayni",
+   "kok": "ذكر",
+   "kokAnlam": "erkek",
+   "karsilik": "iki erkeği mi"
+  },
+  {
+   "kelime": "حَرَّمَ",
+   "okunus": "harrame",
+   "kok": "حرم",
+   "kokAnlam": "haram kılma",
+   "karsilik": "haram kıldı"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "emi",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "ٱلْأُنثَيَيْنِ",
+   "okunus": "el'ünseyeyni",
+   "kok": "أنث",
+   "kokAnlam": "dişi",
+   "karsilik": "iki dişiyi mi"
+  },
+  {
+   "kelime": "أَمَّا",
+   "okunus": "emmâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "ٱشْتَمَلَتْ",
+   "okunus": "iştemelet",
+   "kok": "شمل",
+   "kokAnlam": "kapsama, içine alma",
+   "karsilik": "içine aldığını mı"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "أَرْحَامُ",
+   "okunus": "erhâmü",
+   "kok": "رحم",
+   "kokAnlam": "rahim",
+   "karsilik": "rahimlerinin"
+  },
+  {
+   "kelime": "ٱلْأُنثَيَيْنِ",
+   "okunus": "el'ünseyeyni",
+   "kok": "أنث",
+   "kokAnlam": "dişi",
+   "karsilik": "iki dişinin"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-siniz"
+  },
+  {
+   "kelime": "شُهَدَآءَ",
+   "okunus": "şühedâe",
+   "kok": "شهد",
+   "kokAnlam": "şahit olma, tanıklık",
+   "karsilik": "şahitler"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) -diğinde",
+   "karsilik": "-diğinde"
+  },
+  {
+   "kelime": "وَصَّىٰكُمُ",
+   "okunus": "vessâkümü",
+   "kok": "وصي",
+   "kokAnlam": "tavsiye etme, buyurma",
+   "karsilik": "size buyurduğunda"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِهَٰذَا",
+   "okunus": "bihâzâ",
+   "kok": "—",
+   "kokAnlam": "(edat+işaret) bunu",
+   "karsilik": "bunu"
+  },
+  {
+   "kelime": "فَمَنْ",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(soru) öyleyse kim",
+   "karsilik": "öyleyse kim"
+  },
+  {
+   "kelime": "أَظْلَمُ",
+   "okunus": "azlemü",
+   "kok": "ظلم",
+   "kokAnlam": "zulmetme; daha zalim",
+   "karsilik": "daha zalimdir"
+  },
+  {
+   "kelime": "مِمَّنِ",
+   "okunus": "mimmeni",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱفْتَرَىٰ",
+   "okunus": "ifterâ",
+   "kok": "فري",
+   "kokAnlam": "uydurma, iftira etme",
+   "karsilik": "iftira edenden"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "كَذِبًا",
+   "okunus": "keziben",
+   "kok": "كذب",
+   "kokAnlam": "yalan",
+   "karsilik": "yalan yere"
+  },
+  {
+   "kelime": "لِّيُضِلَّ",
+   "okunus": "liyüdılle",
+   "kok": "ضلل",
+   "kokAnlam": "saptırma",
+   "karsilik": "saptırmak için"
+  },
+  {
+   "kelime": "ٱلنَّاسَ",
+   "okunus": "ennâse",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanları"
+  },
+  {
+   "kelime": "بِغَيْرِ",
+   "okunus": "biğayri",
+   "kok": "غير",
+   "kokAnlam": "başka, -sız",
+   "karsilik": "-sizce"
+  },
+  {
+   "kelime": "عِلْمٍ",
+   "okunus": "ilmin",
+   "kok": "علم",
+   "kokAnlam": "bilgi",
+   "karsilik": "bilgi"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mez",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يَهْدِى",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "hidayet, doğru yola iletme",
+   "karsilik": "doğru yola iletir"
+  },
+  {
+   "kelime": "ٱلْقَوْمَ",
+   "okunus": "elkavme",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "topluluğu"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمِينَ",
+   "okunus": "ezzâlimîne",
+   "kok": "ظلم",
+   "kokAnlam": "zulmetme; zalim",
+   "karsilik": "zalim"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 143. ayetteki sorgulamayı deve ve sığıra genişletir, ardından tartışmayı bir üst noktaya taşır: 'Allah size bunu buyurduğunda orada şahitler miydiniz?' Bu soru, iddialarının hiçbir vahye veya tanıklığa dayanmadığını açığa çıkarır.",
+  "Ayetin sonu, bilgisizce Allah'a yalan isnat ederek insanları saptıranı 'en zalim' olarak niteler. Bu, sadece bir hayvan tartışması değil, Allah adına konuşmanın büyük bir sorumluluk taşıdığını gösteren genel bir ilkedir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:18",
+   "meal": "Allah'a karşı yalan uydurandan daha zalim kim vardır? İşte onlar Rablerine arz edilecekler ve şahitler, 'Rablerine karşı yalan söyleyenler işte bunlardır' diyecekler.",
+   "baglanti": "'Allah'a karşı yalan uydurandan daha zalim kim vardır' ifadesi burada da neredeyse aynı biçimde geçer; bu tür iftiranın kıyamette açığa çıkacağını ekler."
+  },
+  {
+   "ref": "16:35",
+   "meal": "Müşrikler dediler ki: Allah dileseydi ne biz ne de atalarımız O'ndan başka bir şeye tapmaz, O'nun emri olmadan hiçbir şeyi haram kılmazdık. Elçilere düşen apaçık tebliğden başka nedir ki?",
+   "baglanti": "Aynı 'Allah'ın emri olmadan haram kılma' iddiasını, kader bahanesiyle savunan müşriklerin tavrını gösterir; 6:144'teki 'şahit miydiniz' sorusuyla birlikte bu bahanenin temelsizliği ortaya çıkar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, cahiliye döneminde deve ve sığırla ilgili keyfî haram-helal ayrımları ve bunun Allah'a mal edilmesidir; bu tarihî ve özel bir tartışmadır.",
+  "Bugüne taşınabilecek ders, bir kuralı ya da yasağı başka bir otoriteye dayandırırken, bunun gerçekten doğru olup olmadığını bilmeden konuşmamaktır. Başkası adına konuşmak, ciddi bir sorumluluk gerektirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaynağını doğrula",
+   "aciklama": "Bugün bir kaynağa dayandırdığın bir iddiayı, gerçekten doğrulayıp doğrulamadığını kontrol et."
+  },
+  {
+   "baslik": "Tanık olmadığın şeyi iddia etme",
+   "aciklama": "Bugün doğrudan bilmediğin bir konuda kesin konuşmak yerine, 'emin değilim' demeyi tercih et."
+  },
+  {
+   "baslik": "Yönlendirme sorumluluğunu hisset",
+   "aciklama": "Bir başkasına yol gösterirken, verdiğin bilginin doğruluğundan emin ol."
+  }
+ ],
+ "bugununAdimi": "Bugün, emin olmadığın bir konuda başkasını yönlendirmeden önce bilgini doğrula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=144"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/144"
+  }
+ ]
+}

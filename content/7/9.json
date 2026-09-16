@@ -1,0 +1,131 @@
+{
+ "sure": 7,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Kimin tartıları hafif gelirse, işte onlar ayetlerimize haksızlık ettiklerinden dolayı kendilerini ziyana uğratanlardır.",
+ "mealNotu": "Kök temelli meal. 'Hafîf' kökü hafiflemeyi, 'hüsran' kökü kaybı ve ziyanı anlatır. 'Zulüm' kökü ise haksızlık etmeyi ifade eder; burada bu haksızlığın ayetlere karşı işlendiği belirtilir.",
+ "kokler": [
+  {
+   "kelime": "وَمَنْ",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) kim ki",
+   "karsilik": "kim ki"
+  },
+  {
+   "kelime": "خَفَّتْ",
+   "okunus": "haffet",
+   "kok": "خفف",
+   "kokAnlam": "hafifleme",
+   "karsilik": "hafif gelirse"
+  },
+  {
+   "kelime": "مَوَٰزِينُهُۥ",
+   "okunus": "mevâzînühû",
+   "kok": "وزن",
+   "kokAnlam": "tartma, ölçü, ağırlık",
+   "karsilik": "tartıları"
+  },
+  {
+   "kelime": "فَأُو۟لَٰٓئِكَ",
+   "okunus": "feülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimselerdir"
+  },
+  {
+   "kelime": "خَسِرُوٓا۟",
+   "okunus": "hasirû",
+   "kok": "خسر",
+   "kokAnlam": "kaybetme, ziyana uğrama",
+   "karsilik": "ziyana uğratan"
+  },
+  {
+   "kelime": "أَنفُسَهُم",
+   "okunus": "enfüsehüm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "kendilerini"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) dolayı",
+   "karsilik": "dolayı"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldukları"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِنَا",
+   "okunus": "biâyâtinâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet, ayet",
+   "karsilik": "ayetlerimize"
+  },
+  {
+   "kelime": "يَظْلِمُونَ",
+   "okunus": "yazlimûne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık etme, zulüm",
+   "karsilik": "haksızlık ediyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetin karşıt durumunu anlatır: tartıları hafif gelenler. 'Hafîf' kökü ağırlığın azlığını, yetersizliğini ifade eder; burada kişinin iyi amellerinin yetersiz kaldığı bir durum kastedilir.",
+  "Bu kişilerin durumu 'kendilerini ziyana uğratmak' olarak nitelenir. 'Hüsran' kökü kaybı anlatır; ancak bu kayıp dışarıdan değil, kişinin kendi elinden gelir. Sebep olarak ayetlere karşı işlenen haksızlık gösterilir; yani mesajı bile bile reddetmek."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "23:103",
+   "meal": "Kimin tartıları hafif gelirse, işte onlar kendilerini ziyana uğratanlardır; cehennemde temelli kalıcıdırlar.",
+   "baglanti": "Aynı ifade Müminûn suresinde tekrarlanır ve sonucun cehennemde kalıcılık olduğu eklenir."
+  },
+  {
+   "ref": "18:105",
+   "meal": "İşte onlar, Rablerinin ayetlerini ve O'na kavuşmayı inkâr edenlerdir. Bu yüzden amelleri boşa çıkmıştır; kıyamet günü onlar için bir terazi tutmayız.",
+   "baglanti": "Burada ayetleri inkâr etmenin sonucu, amellerin boşa çıkması ve tartının hiç kurulmaması olarak anlatılır; hafif tartının daha da ötesi bir durumdur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ahiretteki hafif tartı ve bunun sebebidir; bu sebep, mesajı bile bile reddetmektir.",
+  "Bugüne taşınabilecek ders, bir gerçeği bilerek görmezden gelmenin bedelinin, kişinin kendi eline dönmesidir. Kendini kandırarak elde edilen rahatlık, aslında bir kayıptır; bu ayet, farkında olmadan kendine zarar vermemeyi hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Görmezden gelmeyi bırak",
+   "aciklama": "Bugün bilerek göz ardı ettiğin bir gerçeği kabul et ve ona göre davran."
+  },
+  {
+   "baslik": "Kendine zarar verme",
+   "aciklama": "Kısa vadede rahat ama uzun vadede zararlı bir alışkanlığını bugün sorgula."
+  },
+  {
+   "baslik": "Ayeti düşünerek oku",
+   "aciklama": "Bugün bir ayeti okurken, onu sadece geçmeden, üzerinde birkaç dakika düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün bilerek görmezden geldiğin bir gerçeği kabul et ve buna göre küçük bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/9"
+  }
+ ]
+}

@@ -1,0 +1,299 @@
+{
+ "sure": 6,
+ "ayet": 157,
+ "durum": "taslak",
+ "meal": "Ya da, 'Bize kitap indirilseydi, elbette onlardan daha çok hidayette olurduk' demeyesiniz. İşte size Rabbinizden açık bir delil, bir hidayet ve rahmet geldi. Allah'ın ayetlerini yalanlayıp onlardan yüz çevirenden daha zalim kim vardır? Ayetlerimizden yüz çevirenleri, yüz çevirmelerinden dolayı azabın kötüsüyle cezalandıracağız.",
+ "mealNotu": "'Sadefe' kökü صدف, bilerek yüz çevirmeyi, uzaklaşmayı anlatır. Ayet, 156. ayetteki 'habersizdik' bahanesinin ardından, ikinci olası bahaneyi de çürütür.",
+ "kokler": [
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "تَقُولُوا۟",
+   "okunus": "tekûlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "demeyesiniz"
+  },
+  {
+   "kelime": "لَوْ",
+   "okunus": "lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَنَّآ",
+   "okunus": "ennâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) bize",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "أُنزِلَ",
+   "okunus": "ünzile",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirilseydi"
+  },
+  {
+   "kelime": "عَلَيْنَا",
+   "okunus": "aleynâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerimize",
+   "karsilik": "üzerimize"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبُ",
+   "okunus": "elkitâbü",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "kitap"
+  },
+  {
+   "kelime": "لَكُنَّآ",
+   "okunus": "lekünnâ",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "elbette olurduk"
+  },
+  {
+   "kelime": "أَهْدَىٰ",
+   "okunus": "ehdâ",
+   "kok": "هدي",
+   "kokAnlam": "hidayet, doğru yol",
+   "karsilik": "daha çok hidayette"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "فَقَدْ",
+   "okunus": "fekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "جَآءَكُم",
+   "okunus": "câeküm",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "size geldi"
+  },
+  {
+   "kelime": "بَيِّنَةٌ",
+   "okunus": "beyyinetün",
+   "kok": "بين",
+   "kokAnlam": "açıklık; açık delil",
+   "karsilik": "açık bir delil"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّكُمْ",
+   "okunus": "rabbiküm",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, terbiye etme",
+   "karsilik": "Rabbinizden"
+  },
+  {
+   "kelime": "وَهُدًى",
+   "okunus": "ve hüden",
+   "kok": "هدي",
+   "kokAnlam": "hidayet, doğru yol",
+   "karsilik": "ve hidayet"
+  },
+  {
+   "kelime": "وَرَحْمَةٌ",
+   "okunus": "ve rahmetün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet",
+   "karsilik": "ve rahmet"
+  },
+  {
+   "kelime": "فَمَنْ",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(soru) öyleyse kim",
+   "karsilik": "öyleyse kim"
+  },
+  {
+   "kelime": "أَظْلَمُ",
+   "okunus": "azlemü",
+   "kok": "ظلم",
+   "kokAnlam": "zulmetme; daha zalim",
+   "karsilik": "daha zalimdir"
+  },
+  {
+   "kelime": "مِمَّن",
+   "okunus": "mimmen",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "كَذَّبَ",
+   "okunus": "kezzebe",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanlayandan"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِ",
+   "okunus": "biâyâti",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "ayetlerini"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَصَدَفَ",
+   "okunus": "ve sadefe",
+   "kok": "صدف",
+   "kokAnlam": "yüz çevirme, uzaklaşma",
+   "karsilik": "ve yüz çevirenden"
+  },
+  {
+   "kelime": "عَنْهَا",
+   "okunus": "anhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "سَنَجْزِى",
+   "okunus": "seneczî",
+   "kok": "جزي",
+   "kokAnlam": "karşılık verme, cezalandırma",
+   "karsilik": "cezalandıracağız"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseleri",
+   "karsilik": "kimseleri"
+  },
+  {
+   "kelime": "يَصْدِفُونَ",
+   "okunus": "yasdifûne",
+   "kok": "صدف",
+   "kokAnlam": "yüz çevirme, uzaklaşma",
+   "karsilik": "yüz çevirenleri"
+  },
+  {
+   "kelime": "عَنْ",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ءَايَٰتِنَا",
+   "okunus": "âyâtinâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "ayetlerimizden"
+  },
+  {
+   "kelime": "سُوٓءَ",
+   "okunus": "sûe",
+   "kok": "سوأ",
+   "kokAnlam": "kötülük",
+   "karsilik": "kötüsüyle"
+  },
+  {
+   "kelime": "ٱلْعَذَابِ",
+   "okunus": "el'azâbi",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "azabın"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(edat) şey sebebiyle",
+   "karsilik": "şey sebebiyle"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldukları"
+  },
+  {
+   "kelime": "يَصْدِفُونَ",
+   "okunus": "yasdifûne",
+   "kok": "صدف",
+   "kokAnlam": "yüz çevirme, uzaklaşma",
+   "karsilik": "yüz çeviriyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 156. ayetteki bahaneye ikinci bir olası bahaneyi ekler: 'Bize de kitap gelseydi, daha çok doğru yolda olurduk.' Bu iddia da, kitabın zaten gelmiş olduğu hatırlatılarak geçersiz kılınır: 'İşte size açık bir delil, hidayet ve rahmet geldi.'",
+  "İkinci kısım, bu delili yalanlayıp ondan yüz çevirmenin en büyük zulüm olduğunu bildirir ve bu tutumun karşılığının ağır bir azap olacağını söyler. Bu, 156 ve 157. ayetlerin, sorumluluktan kaçmak için üretilen bahaneleri sırayla çürüttüğünü gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "35:42",
+   "meal": "Var güçleriyle Allah'a yemin ettiler ki, kendilerine bir uyarıcı gelirse, ümmetlerin en doğru yolda olanı olacaklar. Fakat kendilerine bir uyarıcı gelince, bu onların ancak nefretini artırdı.",
+   "baglanti": "6:157'deki 'kitap gelseydi daha hidayette olurduk' iddiasının gerçekte tutmadığını gösterir; uyarıcı geldiğinde tepki nefret ve uzaklaşma olmuştur."
+  },
+  {
+   "ref": "28:48",
+   "meal": "Kendilerine katımızdan hak gelince dediler ki: Musa'ya verilenin bir benzeri buna da verilmeli değil miydi? Oysa daha önce Musa'ya verileni de inkâr etmemişler miydi?",
+   "baglanti": "Aynı türden bir bahaneyi (kitap isteme) ele alıp, bu insanların önceki vahye zaten inanmadıklarını hatırlatarak tutarsızlıklarını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, vahiy karşısında öne sürülebilecek bahanelerin çürütülmesidir; bu doğrudan bir tebliğ ve sorumluluk konusudur.",
+  "Bugüne taşınabilecek ders, elindeki imkân ve bilgiyi kullanmadan 'keşke daha fazlası olsaydı' diye hayal kurmanın bir bahaneden öteye geçmediğidir. Kişi, zaten sahip olduğu fırsatı değerlendirmeden yeni bir imkân istemenin samimi olmadığını fark etmelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Elindekini değerlendir",
+   "aciklama": "Bugün 'keşke şu imkânım olsaydı' dediğin bir konuda, zaten sahip olduğun bir kaynağı kullan."
+  },
+  {
+   "baslik": "Yüz çevirmeyi fark et",
+   "aciklama": "Bugün bilerek görmezden geldiğin bir gerçeği, cesaretle yüzleş."
+  },
+  {
+   "baslik": "Fırsatı kaçırma",
+   "aciklama": "Elinde olan bir öğüdü veya bilgiyi, ertelemeden bugün uygula."
+  }
+ ],
+ "bugununAdimi": "Bugün, 'keşke daha fazlası olsaydı' demek yerine, zaten elinde olan bir imkânı kullan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=157"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/157"
+  }
+ ]
+}

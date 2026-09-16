@@ -1,0 +1,96 @@
+{
+ "sure": 7,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Onlara olup biteni bir bilgiyle mutlaka anlatacağız; biz zaten habersiz değildik.",
+ "mealNotu": "Kök temelli meal. 'Kasas' kökü anlatma, iz sürme, kıssa etmeyi ifade eder. 'Gayb' kökü gizlenme, görünmez olmayı anlatır; 'gâibîn değildik' ifadesi Allah'ın hiçbir şeyden habersiz ya da uzak olmadığını bildirir.",
+ "kokler": [
+  {
+   "kelime": "فَلَنَقُصَّنَّ",
+   "okunus": "felenekussanne",
+   "kok": "قصص",
+   "kokAnlam": "anlatma, iz sürme, kıssa etme",
+   "karsilik": "mutlaka anlatacağız"
+  },
+  {
+   "kelime": "عَلَيْهِم",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "بِعِلْمٍ",
+   "okunus": "biilmin",
+   "kok": "علم",
+   "kokAnlam": "bilme, bilgi",
+   "karsilik": "bir bilgiyle"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değildik",
+   "karsilik": "ve asla"
+  },
+  {
+   "kelime": "كُنَّا",
+   "okunus": "künnâ",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmadık"
+  },
+  {
+   "kelime": "غَآئِبِينَ",
+   "okunus": "gâibîne",
+   "kok": "غيب",
+   "kokAnlam": "gizlenme, gaip olma, görünmez olma",
+   "karsilik": "habersiz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki sorgulamanın Allah'ın tam bilgisiyle yapılacağını bildirir. 'Kasas' kökü, olayı adım adım anlatmayı, izini sürmeyi ifade eder; bu, sorgulamanın rastgele değil, tam bir bilgiye dayalı olacağını gösterir.",
+  "'Gâibîn' ifadesi 'gayb' kökünden gelir ve gizlenmeyi, uzak kalmayı anlatır. Allah'ın bu olaylardan habersiz ya da uzak olmadığı vurgulanır; yani hesap, eksik bilgiyle değil tam bir şahitlikle yapılacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:59",
+   "meal": "Gaybın anahtarları O'nun katındadır, onları O'ndan başkası bilmez. Karada ve denizde olanı bilir; düşen bir yaprağı bile bilmeden düşmez.",
+   "baglanti": "Allah'ın hiçbir şeyden habersiz olmadığı iddiası, burada en kapsamlı biçimde açıklanır."
+  },
+  {
+   "ref": "20:52",
+   "meal": "Dedi ki: Onun bilgisi Rabbimin katında bir kitaptadır; Rabbim yanılmaz ve unutmaz.",
+   "baglanti": "Geçmiş nesillerin durumuna dair bilginin Allah katında eksiksiz saklı olduğu fikri burada da yer alır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyamet günündeki hesabın Allah'ın tam bilgisine dayanacağıdır; bu, insanın hiçbir eylemin gözden kaçmayacağını bilmesi demektir.",
+  "Bugüne taşınabilecek ders, 'kimse görmüyor' düşüncesinin yanıltıcı olduğudur. Bir işi yaparken, kimsenin şahit olmadığı anlarda bile bilinçli davranmak, bu ayetin hatırlattığı bir sorumluluktur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Görünmeyen anda da dürüst ol",
+   "aciklama": "Bugün kimsenin görmediği bir durumda, göründüğün gibi davran."
+  },
+  {
+   "baslik": "Niyetini gözden geçir",
+   "aciklama": "Bir işi neden yaptığını kendine sor; sadece görünmek için mi, gerçekten doğru olduğu için mi?"
+  },
+  {
+   "baslik": "Küçük ayrıntıya özen göster",
+   "aciklama": "Bugün kimsenin fark etmeyeceği küçük bir işi bile özenle yap."
+  }
+ ],
+ "bugununAdimi": "Bugün kimsenin görmediğini düşündüğün bir anda, en doğru olanı yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/7"
+  }
+ ]
+}

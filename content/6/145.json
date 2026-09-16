@@ -1,0 +1,327 @@
+{
+ "sure": 6,
+ "ayet": 145,
+ "durum": "taslak",
+ "meal": "De ki: Bana vahyedilende, yiyen birine haram kılınmış bir şey bulmuyorum; ancak leş, akıtılmış kan, domuz eti -ki o gerçekten pistir- ya da Allah'tan başkası adına kesilmiş bir günah (hayvanı) olursa başka. Ama kim (yemeye) mecbur kalırsa, isteyerek yapmamak ve haddi aşmamak şartıyla, şüphesiz Rabbin çok bağışlayandır, çok merhametlidir.",
+ "mealNotu": "'Ricsün' kökü رجس, kirlilik ve pisliği anlatır ve burada domuz etine dönük bir nitelemedir. 'Ühille liğayrillâhi bihî' ifadesi, kesim anında Allah'tan başka bir varlığın adının anılmasını, yani putlara adanmayı kasteder.",
+ "kokler": [
+  {
+   "kelime": "قُل",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "لَّآ",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mem",
+   "karsilik": "-mem"
+  },
+  {
+   "kelime": "أَجِدُ",
+   "okunus": "ecidü",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulmuyorum"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "مَآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "أُوحِىَ",
+   "okunus": "ûhiye",
+   "kok": "وحي",
+   "kokAnlam": "vahyetme",
+   "karsilik": "vahyedilenin"
+  },
+  {
+   "kelime": "إِلَىَّ",
+   "okunus": "ileyye",
+   "kok": "—",
+   "kokAnlam": "(edat) bana",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "مُحَرَّمًا",
+   "okunus": "müharramen",
+   "kok": "حرم",
+   "kokAnlam": "haram kılma",
+   "karsilik": "haram kılınmış"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "طَاعِمٍ",
+   "okunus": "tâimin",
+   "kok": "طعم",
+   "kokAnlam": "yeme; yiyen",
+   "karsilik": "yiyen için"
+  },
+  {
+   "kelime": "يَطْعَمُهُۥٓ",
+   "okunus": "yat'amühû",
+   "kok": "طعم",
+   "kokAnlam": "yeme",
+   "karsilik": "onu yiyen"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) -den başka",
+   "karsilik": "-den başka"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesi",
+   "karsilik": "-mesi"
+  },
+  {
+   "kelime": "يَكُونَ",
+   "okunus": "yekûne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olması"
+  },
+  {
+   "kelime": "مَيْتَةً",
+   "okunus": "meyteten",
+   "kok": "موت",
+   "kokAnlam": "ölme; ölü, leş",
+   "karsilik": "leş"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "دَمًا",
+   "okunus": "demen",
+   "kok": "دمو",
+   "kokAnlam": "kan",
+   "karsilik": "kan"
+  },
+  {
+   "kelime": "مَّسْفُوحًا",
+   "okunus": "mesfûhan",
+   "kok": "سفح",
+   "kokAnlam": "akıtma, dökme",
+   "karsilik": "akıtılmış"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "لَحْمَ",
+   "okunus": "lahme",
+   "kok": "لحم",
+   "kokAnlam": "et",
+   "karsilik": "eti"
+  },
+  {
+   "kelime": "خِنزِيرٍ",
+   "okunus": "hınzîrin",
+   "kok": "خنزر",
+   "kokAnlam": "domuz",
+   "karsilik": "domuz"
+  },
+  {
+   "kelime": "فَإِنَّهُۥ",
+   "okunus": "feinnehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) çünkü o",
+   "karsilik": "çünkü o"
+  },
+  {
+   "kelime": "رِجْسٌ",
+   "okunus": "ricsün",
+   "kok": "رجس",
+   "kokAnlam": "kirlilik, pislik",
+   "karsilik": "pistir"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "فِسْقًا",
+   "okunus": "fiskan",
+   "kok": "فسق",
+   "kokAnlam": "yoldan çıkma, günah",
+   "karsilik": "günahla"
+  },
+  {
+   "kelime": "أُهِلَّ",
+   "okunus": "ühille",
+   "kok": "هلل",
+   "kokAnlam": "ses yükseltme, adama",
+   "karsilik": "kesilmiş"
+  },
+  {
+   "kelime": "لِغَيْرِ",
+   "okunus": "liğayri",
+   "kok": "غير",
+   "kokAnlam": "başka",
+   "karsilik": "başkası için"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onun üzerine",
+   "karsilik": "onun üzerine"
+  },
+  {
+   "kelime": "فَمَنِ",
+   "okunus": "femeni",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "ٱضْطُرَّ",
+   "okunus": "idturra",
+   "kok": "ضرر",
+   "kokAnlam": "zorda kalma, mecbur olma",
+   "karsilik": "zorda kalırsa"
+  },
+  {
+   "kelime": "غَيْرَ",
+   "okunus": "gayra",
+   "kok": "غير",
+   "kokAnlam": "başka, olmaksızın",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "بَاغٍ",
+   "okunus": "bâğın",
+   "kok": "بغي",
+   "kokAnlam": "azgınlık, taşkınlık",
+   "karsilik": "isteyerek"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "عَادٍ",
+   "okunus": "âdin",
+   "kok": "عدو",
+   "kokAnlam": "haddi aşma",
+   "karsilik": "haddi aşmaksızın"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "رَبَّكَ",
+   "okunus": "rabbeke",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, terbiye etme",
+   "karsilik": "Rabbin"
+  },
+  {
+   "kelime": "غَفُورٌ",
+   "okunus": "gafûrun",
+   "kok": "غفر",
+   "kokAnlam": "bağışlama, örtme",
+   "karsilik": "çok bağışlayandır"
+  },
+  {
+   "kelime": "رَّحِيمٌ",
+   "okunus": "rahîmün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet",
+   "karsilik": "çok merhametlidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki bölümlerde eleştirilen keyfî haram-helal ayrımlarına karşılık, gerçekten haram olan yiyecekleri net biçimde sayar: leş, akıtılmış kan, domuz eti ve Allah'tan başkası adına kesilen hayvan. Bu liste, cahiliye döneminin dayanaksız tabularının aksine, doğrudan vahye dayanır.",
+  "İkinci kısım, zorunluluk (ıdtırar) durumunda bu yasağın esneyebileceğini bildirir; şart, isteyerek aşırıya gitmemek ve haddi geçmemektir. Ayet, Rabbin bağışlayıcılığını ve merhametini vurgulayarak kapanır; bu, yasağın katı değil, insanın durumunu gözeten bir ilke olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:173",
+   "meal": "O size ancak leşi, kanı, domuz etini ve Allah'tan başkası adına kesileni haram kıldı. Ama kim mecbur kalırsa, isteyerek yapmamak ve haddi aşmamak şartıyla ona günah yoktur. Şüphesiz Allah bağışlayandır, merhametlidir.",
+   "baglanti": "6:145'teki dört yasağı ve zorunluluk halindeki istisnayı hemen hemen aynı ifadelerle tekrarlar; iki ayet birbirini doğrudan destekler."
+  },
+  {
+   "ref": "16:115",
+   "meal": "O size ancak leşi, kanı, domuz etini ve Allah'tan başkası adına kesileni haram kıldı. Ama kim mecbur kalırsa, isteyerek yapmamak ve haddi aşmamak şartıyla, şüphesiz Allah bağışlayandır, merhametlidir.",
+   "baglanti": "Aynı yasak listesini ve zorunluluk istisnasını farklı bir surede tekrarlayarak, bu hükmün Kur'an boyunca tutarlı olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, dinen yenmesi haram olan yiyeceklerin net biçimde sayılmasıdır; klasik fıkıh bu listeyi temel haram gıdalar olarak kabul eder.",
+  "Bugüne taşınabilecek ders, kuralların hem net hem de insanın gerçek durumunu gözeten bir esneklik taşıyabileceğidir. Zorunluluk halinde bir yasağın kalkması, kuralın amacının insanı zora sokmak değil, onu korumak olduğunu gösterir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gerçek zorunluluğu ayırt et",
+   "aciklama": "Bugün 'mecburum' dediğin bir durumun, gerçekten zorunlu mu yoksa bir tercih mi olduğunu düşün."
+  },
+  {
+   "baslik": "Aşırıya kaçmadan esne",
+   "aciklama": "Bir kuralda esneklik gösterirken, bunu sınırını aşmadan, ölçülü yap."
+  },
+  {
+   "baslik": "Net kuralları öğren",
+   "aciklama": "Bugün, uyduğun bir kuralın (beslenme, iş, ahlak) gerçek sınırlarını netleştir ve ona göre davran."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir kuralı uygularken gerçek bir zorunluluk ile kişisel bir rahatlık arasındaki farkı netleştir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=145"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/145"
+  }
+ ]
+}

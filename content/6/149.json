@@ -1,0 +1,110 @@
+{
+ "sure": 6,
+ "ayet": 149,
+ "durum": "taslak",
+ "meal": "De ki: Eksiksiz, kesin delil Allah'a aittir. Eğer dileseydi, elbette hepinizi doğru yola iletirdi.",
+ "mealNotu": "'Huccetü'l-bâliğa' (eksiksiz, kesin delil) ifadesi حجج ve بلغ köklerinden gelir; itiraz kabul etmeyen tam bir kanıtı anlatır. Ayet, bir önceki ayetteki kader bahanesine cevap niteliğindedir.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "فَلِلَّهِ",
+   "okunus": "felillâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a aittir"
+  },
+  {
+   "kelime": "ٱلْحُجَّةُ",
+   "okunus": "elhuccetü",
+   "kok": "حجج",
+   "kokAnlam": "kanıt, delil",
+   "karsilik": "kesin delil"
+  },
+  {
+   "kelime": "ٱلْبَٰلِغَةُ",
+   "okunus": "elbâliğatü",
+   "kok": "بلغ",
+   "kokAnlam": "ulaşma, kesinleşme",
+   "karsilik": "eksiksiz"
+  },
+  {
+   "kelime": "فَلَوْ",
+   "okunus": "felev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "شَآءَ",
+   "okunus": "şâe",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dileseydi"
+  },
+  {
+   "kelime": "لَهَدَىٰكُمْ",
+   "okunus": "lehedâküm",
+   "kok": "هدي",
+   "kokAnlam": "hidayet, doğru yola iletme",
+   "karsilik": "hepinizi doğru yola iletirdi"
+  },
+  {
+   "kelime": "أَجْمَعِينَ",
+   "okunus": "ecmeîne",
+   "kok": "جمع",
+   "kokAnlam": "toplama, bütün",
+   "karsilik": "hepinizi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayette geçen 'Allah dileseydi yapmazdık' bahanesine cevap verir: gerçek ve eksiksiz delil Allah'a aittir, insanların öne sürdüğü kader mazereti değil. Bu, tartışmayı netleştiren kısa ve kesin bir cevaptır.",
+  "İkinci kısım, Allah'ın dileseydi herkesi doğru yola iletebileceğini kabul eder; bu, O'nun gücünün sınırsızlığını gösterir. Ayet, insanın seçimiyle ilahi iradenin birlikte işlediği bir dengeyi açık bırakır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:165",
+   "meal": "Peygamberlerden sonra insanların Allah'a karşı bir bahaneleri olmasın diye, müjdeleyici ve uyarıcı olarak elçiler gönderdik. Allah, üstün ve güçlüdür, hüküm ve hikmet sahibidir.",
+   "baglanti": "'İnsanların Allah'a karşı bahaneleri olmasın' ifadesi, 6:149'daki 'eksiksiz delil Allah'a aittir' vurgusuyla aynı amaca hizmet eder: sorumluluğun insanlarda kalmasını sağlamak."
+  },
+  {
+   "ref": "16:93",
+   "meal": "Allah dileseydi hepinizi tek bir ümmet yapardı; fakat dilediğini saptırır, dilediğini hidayete erdirir. Yaptıklarınızdan mutlaka sorulacaksınız.",
+   "baglanti": "Aynı 'dileseydi' ifadesini tekrarlayıp buna 'yaptıklarınızdan sorulacaksınız' ekleyerek, kader ile sorumluluğun bir arada olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, kader ve hidayet meselesindeki teolojik bir tartışmadır; bu, doğrudan bir inanç konusuna aittir.",
+  "Bugüne taşınabilecek ders, gerçek bir delile veya gerekçeye sahip olmanın önemidir. Bir konuda 'kesin doğru budur' derken, bunun sağlam bir temele mi yoksa varsayıma mı dayandığını bilmek, hem kendine hem başkasına karşı dürüstlüktür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Delilini netleştir",
+   "aciklama": "Bugün savunduğun bir görüşün, gerçekten sağlam bir temele dayandığından emin ol."
+  },
+  {
+   "baslik": "Bahaneyi delilden ayır",
+   "aciklama": "Bir sorumluluktan kaçarken kullandığın gerekçenin, gerçek bir sebep mi yoksa bahane mi olduğunu düşün."
+  },
+  {
+   "baslik": "Seçimini sahiplen",
+   "aciklama": "Bugün verdiğin bir kararı, kadere veya şartlara değil, kendi tercihine bağlayarak değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir iddiada bulunurken, onu destekleyen gerçek bir delile sahip olup olmadığını kontrol et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=149"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/149"
+  }
+ ]
+}

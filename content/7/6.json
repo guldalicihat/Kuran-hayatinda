@@ -1,0 +1,96 @@
+{
+ "sure": 7,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Kendilerine peygamber gönderilenlere mutlaka soracağız; gönderilen peygamberlere de mutlaka soracağız.",
+ "mealNotu": "Kök temelli meal. 'Sual' kökü sormayı anlatır ve iki kez tekid ile (mutlaka) vurgulanır. Hem kendilerine elçi gönderilen topluluklara, hem de gönderilen elçilere ayrı ayrı sorulacağı belirtilir.",
+ "kokler": [
+  {
+   "kelime": "فَلَنَسْـَٔلَنَّ",
+   "okunus": "felenes'elenne",
+   "kok": "سأل",
+   "kokAnlam": "sorma, isteme",
+   "karsilik": "mutlaka soracağız"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kendileri",
+   "karsilik": "kendilerine olanlara"
+  },
+  {
+   "kelime": "أُرْسِلَ",
+   "okunus": "ürsile",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçilik",
+   "karsilik": "gönderilmiş"
+  },
+  {
+   "kelime": "إِلَيْهِمْ",
+   "okunus": "ileyhim",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) kendilerine",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "وَلَنَسْـَٔلَنَّ",
+   "okunus": "ve lenes'elenne",
+   "kok": "سأل",
+   "kokAnlam": "sorma, isteme",
+   "karsilik": "ve mutlaka soracağız"
+  },
+  {
+   "kelime": "ٱلْمُرْسَلِينَ",
+   "okunus": "elmürselîne",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçilik",
+   "karsilik": "gönderilen elçilere"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, kıyamet gününde hesap sorulacak iki tarafı belirtir: kendilerine peygamber gönderilen topluluklar ve gönderilen peygamberlerin kendisi. 'Sual' kökü iki kez ve tekidli biçimde kullanılır; bu, sorgulamanın kaçınılmazlığını vurgular.",
+  "Topluluklara sorulacak soru, kendilerine ulaşan mesaja nasıl karşılık verdikleridir. Peygamberlere sorulacak soru ise tebliğ görevini yerine getirip getirmedikleridir. Klasik tefsir bunu, hem mesajı alanın hem de mesajı ulaştıranın sorumlu olduğu bir karşılıklı hesap günü olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:109",
+   "meal": "Allah'ın peygamberleri toplayacağı ve 'Size ne cevap verildi?' diyeceği gün, onlar 'Bizim bilgimiz yok, gaybları en iyi bilen sensin' derler.",
+   "baglanti": "Peygamberlere sorulan sorunun bir başka görünümü burada anlatılır; onlar da kendi bilgilerinin sınırını itiraf eder."
+  },
+  {
+   "ref": "33:8",
+   "meal": "Doğrular doğruluklarından sorulsun diye; kâfirlere ise acıklı bir azap hazırlamıştır.",
+   "baglanti": "Sorgulanacak olanın doğruluğu (tebliğ ya da bağlılığı) olduğu vurgusu burada da tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıyamet günündeki hesaptır; bu, hem mesajı ileten hem de mesajı alan için geçerli karşılıklı bir sorumluluktur.",
+  "Bugüne taşınabilecek ders, hem verdiğin sözün hem de aldığın uyarının sorumluluğunu taşımaktır. Bir bilgiyi başkasına aktarırken doğru aktarmak, bir uyarıyı alırken de onu ciddiye almak; ikisi de hesabı olan davranışlardır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Aktardığın bilgiyi kontrol et",
+   "aciklama": "Bugün birine bir bilgi aktarmadan önce doğruluğundan emin ol."
+  },
+  {
+   "baslik": "Aldığın uyarıyı değerlendir",
+   "aciklama": "Sana yapılan bir uyarıyı görmezden gelmeden, üzerinde bir kez düşün."
+  },
+  {
+   "baslik": "Sorumluluğunu üstlen",
+   "aciklama": "Bugün bir görevi devrettiğinde, sonucunu takip etmekten kaçınma."
+  }
+ ],
+ "bugununAdimi": "Bugün birine ilettiğin bir bilgiyi veya sözü, doğruluğunu kontrol ettikten sonra paylaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/6"
+  }
+ ]
+}

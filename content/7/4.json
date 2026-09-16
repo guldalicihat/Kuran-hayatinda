@@ -1,0 +1,124 @@
+{
+ "sure": 7,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Nice şehri helak ettik; azabımız ona geceleyin ya da onlar gündüz uykusundayken geldi.",
+ "mealNotu": "Kök temelli meal. 'Karye' kökü toplanılan yer, şehir anlamına gelir. 'Kâilûn' kökü öğle uykusuna, gündüz istirahatine işaret eder; bu iki zaman dilimi, insanların en gafil olduğu anları anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَكَم",
+   "okunus": "ve kem",
+   "kok": "—",
+   "kokAnlam": "(te'kid) nice, ne kadar çok",
+   "karsilik": "nice"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) bir",
+   "karsilik": "bir"
+  },
+  {
+   "kelime": "قَرْيَةٍ",
+   "okunus": "karyetin",
+   "kok": "قري",
+   "kokAnlam": "toplanma; köy, şehir",
+   "karsilik": "şehri"
+  },
+  {
+   "kelime": "أَهْلَكْنَٰهَا",
+   "okunus": "ehleknâhâ",
+   "kok": "هلك",
+   "kokAnlam": "yok olma, helak olma",
+   "karsilik": "helak ettik"
+  },
+  {
+   "kelime": "فَجَآءَهَا",
+   "okunus": "fecâehâ",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "ona geldi"
+  },
+  {
+   "kelime": "بَأْسُنَا",
+   "okunus": "be'sünâ",
+   "kok": "بأس",
+   "kokAnlam": "şiddet, azap, güç",
+   "karsilik": "azabımız"
+  },
+  {
+   "kelime": "بَيَٰتًا",
+   "okunus": "beyâten",
+   "kok": "بيت",
+   "kokAnlam": "ev; geceleme",
+   "karsilik": "geceleyin"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "قَآئِلُونَ",
+   "okunus": "kâilûne",
+   "kok": "قيل",
+   "kokAnlam": "öğle uykusuna yatma, gündüz istirahati",
+   "karsilik": "gündüz uykusundayken"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki nesillerden helak edilen şehirlere değinir. 'Karye' kökü toplanılan yer, şehir anlamına gelir. Azabın 'geceleyin' ya da 'gündüz istirahat sırasında' geldiği belirtilir; bu, insanların en gafil, en hazırlıksız olduğu anları anlatır.",
+  "Bu ayet soyut bir tehdit değil, tarihte gerçekleşmiş bir örüntüye işaret eder. Klasik tefsir bu ifadeleri, önceki toplulukların yalanlama ve inkârları sonucu karşılaştıkları sonlara dair genel bir uyarı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "21:11",
+   "meal": "Zalim olan nice şehri kırıp geçirdik; ardından başka bir topluluk var ettik.",
+   "baglanti": "Aynı 'nice şehir' vurgusu burada tekrarlanır; helakin nedeni açıkça zulüm olarak belirtilir."
+  },
+  {
+   "ref": "6:47",
+   "meal": "De ki: Söyleyin bakalım, Allah'ın azabı size ansızın ya da açıktan gelse, zalim topluluktan başkası mı helak edilir?",
+   "baglanti": "Azabın ansızın gelişi ve yalnız zalim toplulukları bulması teması burada da sürer."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş toplulukların helakidir; bu tarihsel bir bilgidir, günümüze doğrudan bir ceza vaadi değildir.",
+  "Bugüne taşınabilecek ders, rahatlık anında gaflete düşmemektir. İnsan genellikle en güvende hissettiği, en rahat olduğu anlarda uyarılara kulak tıkar. Bu ayet, güvenlik hissinin gerçek güvenlik olmadığını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Rahat anında dikkatli ol",
+   "aciklama": "Bugün her şeyin yolunda gittiği bir anda bile bir sorumluluğunu ihmal etmediğinden emin ol."
+  },
+  {
+   "baslik": "Gaflet anlarını fark et",
+   "aciklama": "Günün hangi saatinde en dalgın olduğunu fark et ve o anlarda önemli kararlar almaktan kaçın."
+  },
+  {
+   "baslik": "Geçmişten ders çıkar",
+   "aciklama": "Bugün bir tarihi olay ya da haber okuyup ondan çıkarabileceğin bir dersi not al."
+  }
+ ],
+ "bugununAdimi": "Bugün en rahat hissettiğin anda bile, ihmal ettiğin bir sorumluluğu hatırla ve ona zaman ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/4"
+  }
+ ]
+}

@@ -1,0 +1,166 @@
+{
+ "sure": 6,
+ "ayet": 161,
+ "durum": "taslak",
+ "meal": "De ki: Şüphesiz Rabbim beni dosdoğru bir yola, dosdoğru bir din olan, hanif olan İbrahim'in dinine iletti. O, müşriklerden değildi.",
+ "mealNotu": "'Hanîf' kökü حنف, batıl yollardan uzaklaşıp hakka yönelmeyi anlatır. 'Kıyemen' kelimesi قوم kökünden gelir ve 'sağlam, dosdoğru' anlamındadır; 'müstekîm' ile aynı kökten gelen bir vurguyla dinin tutarlılığını pekiştirir.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "إِنَّنِى",
+   "okunus": "innenî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz beni",
+   "karsilik": "şüphesiz beni"
+  },
+  {
+   "kelime": "هَدَىٰنِى",
+   "okunus": "hedânî",
+   "kok": "هدي",
+   "kokAnlam": "hidayet, doğru yola iletme",
+   "karsilik": "doğru yola iletti"
+  },
+  {
+   "kelime": "رَبِّىٓ",
+   "okunus": "rabbî",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, terbiye etme",
+   "karsilik": "Rabbim"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "صِرَٰطٍ",
+   "okunus": "sırâtın",
+   "kok": "صرط",
+   "kokAnlam": "açık yol",
+   "karsilik": "bir yola"
+  },
+  {
+   "kelime": "مُّسْتَقِيمٍ",
+   "okunus": "müstekîmin",
+   "kok": "قوم",
+   "kokAnlam": "doğru olma, dosdoğru",
+   "karsilik": "dosdoğru"
+  },
+  {
+   "kelime": "دِينًا",
+   "okunus": "dînen",
+   "kok": "دين",
+   "kokAnlam": "din",
+   "karsilik": "bir din olarak"
+  },
+  {
+   "kelime": "قِيَمًا",
+   "okunus": "kıyemen",
+   "kok": "قوم",
+   "kokAnlam": "doğru olma, sağlam",
+   "karsilik": "dosdoğru"
+  },
+  {
+   "kelime": "مِّلَّةَ",
+   "okunus": "millete",
+   "kok": "ملل",
+   "kokAnlam": "din yolu, millet",
+   "karsilik": "dinine"
+  },
+  {
+   "kelime": "إِبْرَٰهِيمَ",
+   "okunus": "ibrâhîme",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İbrahim'in"
+  },
+  {
+   "kelime": "حَنِيفًا",
+   "okunus": "hanîfen",
+   "kok": "حنف",
+   "kokAnlam": "batıldan hakka yönelme",
+   "karsilik": "hanif olarak"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değildi",
+   "karsilik": "ve değildi"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "değildi"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُشْرِكِينَ",
+   "okunus": "elmüşrikîne",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "müşriklerden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 153. ayetteki 'dosdoğru yol' temasını, İbrahim peygamberin diniyle somutlaştırır. Peygamber, kendisine gösterilen yolun İbrahim'in hanif dini olduğunu ilan eder; bu, Mekke müşriklerine karşı önemli bir referans noktasıdır, çünkü onlar da İbrahim'e saygı duyardı.",
+  "İkinci kısım, İbrahim'in müşriklerden olmadığını vurgular. Bu, müşriklerin kendilerini İbrahim'in soyuna dayandırma iddialarına karşı, gerçek İbrahim dininin tevhid üzerine kurulu olduğunu hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:95",
+   "meal": "De ki: Allah doğru söylemiştir. Öyleyse hanif olan İbrahim'in dinine uyun; o müşriklerden değildi.",
+   "baglanti": "6:161'deki ifadeyle neredeyse birebir aynıdır; İbrahim'in hanifliği ve müşrik olmayışı iki surede de aynı formülle tekrarlanır."
+  },
+  {
+   "ref": "16:123",
+   "meal": "Sonra sana, hanif olan İbrahim'in dinine uy diye vahyettik; o müşriklerden değildi.",
+   "baglanti": "Aynı ifadeyi bu kez doğrudan Peygamber'e bir vahiy emri olarak sunar; 6:161'deki kişisel beyan burada ilahi bir buyruğa dönüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Peygamber'in kendi dininin kaynağını İbrahim'in hanif dinine bağlamasıdır; bu doğrudan bir inanç beyanına aittir.",
+  "Bugüne taşınabilecek ders, bir değeri veya geleneği sahiplenirken, onun özünü korumanın önemidir. Bir mirası devam ettirmek, sadece isim veya sembolleri taşımak değil, o mirasın temel ilkesine sadık kalmaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Özü koru",
+   "aciklama": "Bugün bir gelenek veya değeri uygularken, onun asıl amacını unutmadan yap."
+  },
+  {
+   "baslik": "Kaynağını bil",
+   "aciklama": "İnandığın bir ilkenin nereden geldiğini, hangi temele dayandığını bugün araştır."
+  },
+  {
+   "baslik": "Dosdoğru kal",
+   "aciklama": "Bir konuda kararsız kaldığında, en tutarlı ve dürüst yolu seç."
+  }
+ ],
+ "bugununAdimi": "Bugün, benimsediğin bir değerin özünü, sadece görüntüsünü değil gerçek anlamıyla yaşa.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=161"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/161"
+  }
+ ]
+}

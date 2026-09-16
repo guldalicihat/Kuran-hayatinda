@@ -1,0 +1,208 @@
+{
+ "sure": 6,
+ "ayet": 139,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'Bu hayvanların karınlarındaki (yavrular) yalnızca erkeklerimize helal, eşlerimize haramdır.' Eğer o (yavru) ölü doğarsa, o zaman hepsi onda ortaktır. Allah, bu nitelemeleri sebebiyle onları cezalandıracaktır. Şüphesiz O, hüküm ve hikmet sahibidir, hakkıyla bilendir.",
+ "mealNotu": "'Hâlisatün' kökü خلص, saf ve yalnız bir şeye ait olmayı anlatır. 'Vasf' kökü وصف, burada onların keyfî nitelendirmelerini, yani 'bu helaldir bu haramdır' türünden sınıflandırmalarını ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَقَالُوا۟",
+   "okunus": "ve kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içindeki"
+  },
+  {
+   "kelime": "بُطُونِ",
+   "okunus": "bütûni",
+   "kok": "بطن",
+   "kokAnlam": "karın",
+   "karsilik": "karınlarındaki"
+  },
+  {
+   "kelime": "هَٰذِهِ",
+   "okunus": "hâzihi",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "ٱلْأَنْعَٰمِ",
+   "okunus": "el'en'âmi",
+   "kok": "نعم",
+   "kokAnlam": "hayvan, davar",
+   "karsilik": "hayvanların"
+  },
+  {
+   "kelime": "خَالِصَةٌ",
+   "okunus": "hâlisatün",
+   "kok": "خلص",
+   "kokAnlam": "saf, yalnız, has",
+   "karsilik": "yalnızca"
+  },
+  {
+   "kelime": "لِّذُكُورِنَا",
+   "okunus": "lizükûrinâ",
+   "kok": "ذكر",
+   "kokAnlam": "erkek",
+   "karsilik": "erkeklerimize helaldir"
+  },
+  {
+   "kelime": "وَمُحَرَّمٌ",
+   "okunus": "ve müharramün",
+   "kok": "حرم",
+   "kokAnlam": "haram kılma",
+   "karsilik": "ve haramdır"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "أَزْوَٰجِنَا",
+   "okunus": "ezvâcinâ",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift",
+   "karsilik": "eşlerimize"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يَكُن",
+   "okunus": "yekün",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olursa"
+  },
+  {
+   "kelime": "مَّيْتَةً",
+   "okunus": "meyteten",
+   "kok": "موت",
+   "kokAnlam": "ölme; ölü",
+   "karsilik": "ölü"
+  },
+  {
+   "kelime": "فَهُمْ",
+   "okunus": "fehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) o zaman onlar",
+   "karsilik": "o zaman onlar"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat) onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "شُرَكَآءُ",
+   "okunus": "şürakâü",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma; ortak",
+   "karsilik": "ortaktırlar"
+  },
+  {
+   "kelime": "سَيَجْزِيهِمْ",
+   "okunus": "seyeczîhim",
+   "kok": "جزي",
+   "kokAnlam": "karşılık verme, cezalandırma",
+   "karsilik": "onları cezalandıracak"
+  },
+  {
+   "kelime": "وَصْفَهُمْ",
+   "okunus": "vasfehüm",
+   "kok": "وصف",
+   "kokAnlam": "nitelendirme, tanımlama",
+   "karsilik": "bu nitelemeleri sebebiyle"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz O",
+   "karsilik": "şüphesiz O"
+  },
+  {
+   "kelime": "حَكِيمٌ",
+   "okunus": "hakîmün",
+   "kok": "حكم",
+   "kokAnlam": "hüküm, hikmet",
+   "karsilik": "hüküm ve hikmet sahibidir"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "hakkıyla bilendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayette anlatılan keyfî hayvan tabularına bir örnek daha ekler: bazı hayvanların karnındaki yavrular, canlı doğarsa yalnız erkeklere helal sayılır, ölü doğarsa herkese ortak kabul edilir. Bu, tutarsız ve çıkara göre şekillenen bir kuraldır.",
+  "Ayet, bu tür keyfî nitelendirmelerin ('vasfehüm') karşılıksız kalmayacağını bildirir. Sonundaki 'hakîm ve alîm' (hüküm ve bilgi sahibi) sıfatları, Allah'ın bu tür uydurma kuralların aksine gerçek bilgiye ve adil hükme dayandığını vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:138",
+   "meal": "Zanlarınca dediler ki: Bunlar dokunulmaz hayvanlar ve ekindir; onu dilediğimizden başkası yiyemez... Bir kısım hayvanların üzerine de Allah'ın adını anmazlar.",
+   "baglanti": "Bir önceki ayetle doğrudan aynı temayı, farklı bir örnekle (erkek-dişi ayrımı) sürdürür; ikisi birlikte cahiliye döneminin keyfî hayvan hukukunu tamamlar."
+  },
+  {
+   "ref": "16:116",
+   "meal": "Dillerinizin yalan yere nitelendirmesiyle 'bu helal, bu haram' demeyin; çünkü bu, Allah'a karşı yalan uydurmaktır.",
+   "baglanti": "6:139'daki erkek-dişi ayrımı da temelde aynı hatayı, insanların kendi kafalarına göre helal-haram belirlemesini örnekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, cahiliye döneminde hayvan yavrularının cinsiyetine göre keyfî olarak konulan helal-haram ayrımıdır; bu özel ve tarihî bir uygulamadır.",
+  "Bugüne taşınabilecek ders, bir kuralın tutarlı olup olmadığını sorgulamaktır. Çıkara göre değişen, bir durumda 'helal' bir durumda 'haram' denen kurallar güvenilir değildir; adil bir ölçü, duruma göre değişmeyen sabit bir ilkeye dayanmalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tutarlılığını kontrol et",
+   "aciklama": "Bugün uyguladığın bir kuralın, farklı durumlarda aynı şekilde işleyip işlemediğini gözden geçir."
+  },
+  {
+   "baslik": "Çıkara göre karar verme",
+   "aciklama": "Bir kararını, kendi çıkarına göre değil ilkene göre ver."
+  },
+  {
+   "baslik": "Adil ölçü koy",
+   "aciklama": "Ailende veya iş yerinde bir kuralı, herkes için aynı şekilde uygula."
+  }
+ ],
+ "bugununAdimi": "Bugün verdiğin bir kararın, farklı kişilere göre değişmediğinden emin ol.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=139"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/139"
+  }
+ ]
+}

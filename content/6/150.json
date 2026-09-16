@@ -1,0 +1,243 @@
+{
+ "sure": 6,
+ "ayet": 150,
+ "durum": "taslak",
+ "meal": "De ki: Allah'ın bunu haram kıldığına şahitlik edecek şahitlerinizi getirin. Eğer şahitlik ederlerse, sen onlarla birlikte şahitlik etme. Ayetlerimizi yalanlayanların ve ahirete iman etmeyip Rablerine (başkalarını) denk tutanların keyiflerine uyma.",
+ "mealNotu": "'Ya'dilûn' kökü عدل burada 'denk tutma, eşitleme' anlamındadır; ahirete inanmayanların Rablerine başka varlıkları denk tuttuklarını, yani şirk koştuklarını ifade eder.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "هَلُمَّ",
+   "okunus": "helümme",
+   "kok": "هلم",
+   "kokAnlam": "getirme, gelme",
+   "karsilik": "getirin"
+  },
+  {
+   "kelime": "شُهَدَآءَكُمُ",
+   "okunus": "şühedâekümü",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik, tanıklık",
+   "karsilik": "şahitlerinizi"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki onlar",
+   "karsilik": "ki onlar"
+  },
+  {
+   "kelime": "يَشْهَدُونَ",
+   "okunus": "yeşhedûne",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik, tanıklık",
+   "karsilik": "şahitlik ederler"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "حَرَّمَ",
+   "okunus": "harrame",
+   "kok": "حرم",
+   "kokAnlam": "haram kılma",
+   "karsilik": "haram kıldı"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunu",
+   "karsilik": "bunu"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "شَهِدُوا۟",
+   "okunus": "şehidû",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik, tanıklık",
+   "karsilik": "şahitlik ederlerse"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -me",
+   "karsilik": "-me"
+  },
+  {
+   "kelime": "تَشْهَدْ",
+   "okunus": "teşhed",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik, tanıklık",
+   "karsilik": "şahitlik etme"
+  },
+  {
+   "kelime": "مَعَهُمْ",
+   "okunus": "meahüm",
+   "kok": "—",
+   "kokAnlam": "(yer) onlarla birlikte",
+   "karsilik": "onlarla birlikte"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -me",
+   "karsilik": "ve -me"
+  },
+  {
+   "kelime": "تَتَّبِعْ",
+   "okunus": "tettebi'",
+   "kok": "تبع",
+   "kokAnlam": "izleme, tabi olma",
+   "karsilik": "uyma"
+  },
+  {
+   "kelime": "أَهْوَآءَ",
+   "okunus": "ehvâe",
+   "kok": "هوي",
+   "kokAnlam": "arzu, heves",
+   "karsilik": "keyiflerine"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimselerin",
+   "karsilik": "kimselerin"
+  },
+  {
+   "kelime": "كَذَّبُوا۟",
+   "okunus": "kezzebû",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanlayanların"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِنَا",
+   "okunus": "biâyâtinâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "ayetlerimizi"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve kimselerin",
+   "karsilik": "ve kimselerin"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -meyen",
+   "karsilik": "-meyen"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman etme",
+   "karsilik": "iman eden"
+  },
+  {
+   "kelime": "بِٱلْءَاخِرَةِ",
+   "okunus": "bil âhırati",
+   "kok": "أخر",
+   "kokAnlam": "son, ahiret",
+   "karsilik": "ahirete"
+  },
+  {
+   "kelime": "وَهُم",
+   "okunus": "ve hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve onlar",
+   "karsilik": "ve onlar"
+  },
+  {
+   "kelime": "بِرَبِّهِمْ",
+   "okunus": "birabbihim",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, terbiye etme",
+   "karsilik": "Rablerine"
+  },
+  {
+   "kelime": "يَعْدِلُونَ",
+   "okunus": "ya'dilûne",
+   "kok": "عدل",
+   "kokAnlam": "denk tutma, eşitleme",
+   "karsilik": "denk tutuyorlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerde tartışılan keyfî haram kılma iddialarına karşı bir meydan okuma sunar: 'Bunun Allah'tan geldiğine şahitlik edecek tanıklarınızı getirin.' Bu, iddiaların dayanaksızlığını somut bir kanıt talebiyle ortaya koyar.",
+  "İkinci kısım, Peygamber'e (ve dolayısıyla müminlere) böyle asılsız bir şahitliğe katılmama ve ayetleri yalanlayanların ya da ahirete inanmayanların keyiflerine uymama uyarısı verir. Bu, hakikatin çoğunluğun veya baskının onayına değil, gerçek delile dayanması gerektiğini gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:19",
+   "meal": "De ki: Şahitlik bakımından en büyük şey nedir? De ki: Allah, benimle sizin aranızda şahittir.",
+   "baglanti": "Aynı surede, gerçek ve güvenilir şahitliğin ancak Allah'a ait olduğunu hatırlatarak, 6:150'deki asılsız şahitlik iddialarını çürütür."
+  },
+  {
+   "ref": "4:135",
+   "meal": "Ey iman edenler! Adaleti gözeterek Allah için şahitlik eden kimseler olun, kendi aleyhinize de olsa. Keyfinize uyup adaletten sapmayın.",
+   "baglanti": "'Keyfe uyup adaletten sapmayın' uyarısı burada da geçer; 6:150'deki 'keyiflerine uyma' emriyle aynı ilkeyi paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, asılsız iddialara karşı kanıt talep etmek ve yanlış çoğunluğa katılmamaktır; bu, inanç tartışması bağlamında geçer.",
+  "Bugüne taşınabilecek ders, bir iddiayı doğrulamadan ona ortak olmamak ve kalabalığın veya güçlü tarafın isteğine göre değil, gerçeğe göre durmaktır. Emin olmadığın bir 'tanıklığa' katılmak, seni de o hatanın bir parçası yapar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Katılmadan önce doğrula",
+   "aciklama": "Bugün bir iddiaya veya söylentiye katılmadan önce, gerçekten doğru olup olmadığını araştır."
+  },
+  {
+   "baslik": "Kalabalığa değil doğruya uy",
+   "aciklama": "Bir kararında, çoğunluğun tercihinden çok, doğru bildiğin şeyi önceliklendir."
+  },
+  {
+   "baslik": "Sessiz onayı reddet",
+   "aciklama": "Yanlış bir iddiayı duyduğunda, sessiz kalıp onaylamak yerine nazikçe itiraz et."
+  }
+ ],
+ "bugununAdimi": "Bugün, doğruluğundan emin olmadığın bir iddiaya katılmadan önce durup sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=150"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/150"
+  }
+ ]
+}

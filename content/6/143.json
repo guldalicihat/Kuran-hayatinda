@@ -1,0 +1,215 @@
+{
+ "sure": 6,
+ "ayet": 143,
+ "durum": "taslak",
+ "meal": "Koyundan iki, keçiden iki olmak üzere sekiz çift. De ki: O, iki erkeği mi haram kıldı, yoksa iki dişiyi mi, yoksa iki dişinin rahimlerinin içine aldığını mı? Eğer doğru söylüyorsanız bana bilgiyle haber verin.",
+ "mealNotu": "'Zevc' kökü زوج çift/eş anlamındadır; burada erkek-dişi çiftini ifade eder. 'İştemelet aleyhi erhâmü'l-ünseyeyn' (iki dişinin rahimlerinin içine aldığı) ifadesi, henüz doğmamış yavruyu kasteder.",
+ "kokler": [
+  {
+   "kelime": "ثَمَٰنِيَةَ",
+   "okunus": "semâniyete",
+   "kok": "ثمن",
+   "kokAnlam": "sekiz",
+   "karsilik": "sekiz"
+  },
+  {
+   "kelime": "أَزْوَٰجٍ",
+   "okunus": "ezvâcin",
+   "kok": "زوج",
+   "kokAnlam": "çift, eş",
+   "karsilik": "çift"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلضَّأْنِ",
+   "okunus": "edda'ni",
+   "kok": "ضأن",
+   "kokAnlam": "koyun",
+   "karsilik": "koyundan"
+  },
+  {
+   "kelime": "ٱثْنَيْنِ",
+   "okunus": "isneyni",
+   "kok": "ثني",
+   "kokAnlam": "iki, ikileme",
+   "karsilik": "iki"
+  },
+  {
+   "kelime": "وَمِنَ",
+   "okunus": "ve mine",
+   "kok": "—",
+   "kokAnlam": "(edat) ve -den",
+   "karsilik": "ve -den"
+  },
+  {
+   "kelime": "ٱلْمَعْزِ",
+   "okunus": "elma'zi",
+   "kok": "معز",
+   "kokAnlam": "keçi",
+   "karsilik": "keçiden"
+  },
+  {
+   "kelime": "ٱثْنَيْنِ",
+   "okunus": "isneyni",
+   "kok": "ثني",
+   "kokAnlam": "iki, ikileme",
+   "karsilik": "iki"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "ءَآلذَّكَرَيْنِ",
+   "okunus": "âlzzekerayni",
+   "kok": "ذكر",
+   "kokAnlam": "erkek",
+   "karsilik": "iki erkeği mi"
+  },
+  {
+   "kelime": "حَرَّمَ",
+   "okunus": "harrame",
+   "kok": "حرم",
+   "kokAnlam": "haram kılma",
+   "karsilik": "haram kıldı"
+  },
+  {
+   "kelime": "أَمِ",
+   "okunus": "emi",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "ٱلْأُنثَيَيْنِ",
+   "okunus": "el'ünseyeyni",
+   "kok": "أنث",
+   "kokAnlam": "dişi",
+   "karsilik": "iki dişiyi mi"
+  },
+  {
+   "kelime": "أَمَّا",
+   "okunus": "emmâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "ٱشْتَمَلَتْ",
+   "okunus": "iştemelet",
+   "kok": "شمل",
+   "kokAnlam": "kapsama, içine alma",
+   "karsilik": "içine aldığını mı"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "أَرْحَامُ",
+   "okunus": "erhâmü",
+   "kok": "رحم",
+   "kokAnlam": "rahim",
+   "karsilik": "rahimlerinin"
+  },
+  {
+   "kelime": "ٱلْأُنثَيَيْنِ",
+   "okunus": "el'ünseyeyni",
+   "kok": "أنث",
+   "kokAnlam": "dişi",
+   "karsilik": "iki dişinin"
+  },
+  {
+   "kelime": "نَبِّـُٔونِى",
+   "okunus": "nebbiûnî",
+   "kok": "نبأ",
+   "kokAnlam": "haber verme",
+   "karsilik": "bana haber verin"
+  },
+  {
+   "kelime": "بِعِلْمٍ",
+   "okunus": "biilmin",
+   "kok": "علم",
+   "kokAnlam": "bilgi",
+   "karsilik": "bilgiyle"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "صَٰدِقِينَ",
+   "okunus": "sâdikîne",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk",
+   "karsilik": "doğru söyleyenler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, koyun ve keçiden oluşan dört hayvanı (erkek-dişi çiftleriyle) sayarak, müşriklerin bu hayvanlar hakkındaki keyfî haram-helal ayrımlarını sorgulamaya başlar. Soru biçimindeki üçlü seçenek, onların tutarsız gerekçelerini açığa çıkarmayı amaçlar.",
+  "Ayetin sonu, bu iddiaların bir bilgiye dayanıp dayanmadığını sorar: 'Eğer doğru söylüyorsanız bana bilgiyle haber verin.' Bu, cahiliye döneminde yaygın olan hayvan tabularının gerçek bir dayanağı olmadığını, sadece zanna dayandığını vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "39:6",
+   "meal": "Sizi tek bir candan yarattı, sonra ondan eşini var etti ve sizin için hayvanlardan sekiz çift indirdi.",
+   "baglanti": "Aynı 'sekiz çift hayvan' ifadesini, yaratılışın bir parçası olarak tekrarlar; 6:143'teki sayım burada yaratılış bağlamında hatırlatılır."
+  },
+  {
+   "ref": "16:116",
+   "meal": "Dillerinizin yalan yere nitelendirmesiyle 'bu helal, bu haram' demeyin; çünkü bu, Allah'a karşı yalan uydurmaktır.",
+   "baglanti": "6:143'teki sorgulama, tam olarak bu ayette eleştirilen kanıtsız helal-haram belirlemesinin bir örneğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, cahiliye döneminde koyun ve keçiyle ilgili keyfî haram-helal ayrımlarıdır; bu özel ve tarihî bir tartışmadır.",
+  "Bugüne taşınabilecek ders, bir iddiada bulunurken bunu bilgiye dayandırmaktır. Ayet, 'eğer doğru söylüyorsanız bilgiyle haber verin' diyerek, dayanaksız iddiaların sorgulanması gerektiğini öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kanıt iste",
+   "aciklama": "Bugün duyduğun bir iddiayı hemen kabul etmeden, dayanağını sor."
+  },
+  {
+   "baslik": "Kendi iddianı sına",
+   "aciklama": "Bugün ileri sürdüğün bir görüşün gerçek bir bilgiye mi yoksa varsayıma mı dayandığını kontrol et."
+  },
+  {
+   "baslik": "Tutarlılığı ara",
+   "aciklama": "Bir kuralı savunurken, aynı kuralı benzer durumlarda da uygulayıp uygulamadığını gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir iddiada bulunmadan önce, onu destekleyecek somut bir bilgiye sahip olup olmadığını kontrol et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=143"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/143"
+  }
+ ]
+}

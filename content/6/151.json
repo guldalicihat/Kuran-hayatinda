@@ -1,0 +1,348 @@
+{
+ "sure": 6,
+ "ayet": 151,
+ "durum": "taslak",
+ "meal": "De ki: Gelin, Rabbinizin size neleri haram kıldığını okuyayım: O'na hiçbir şeyi ortak koşmayın; anne-babaya iyilik edin; yoksulluk endişesiyle çocuklarınızı öldürmeyin -sizi de onları da biz rızıklandırırız-; çirkin işlerin açığına da gizlisine de yaklaşmayın; Allah'ın haram kıldığı canı haklı bir sebep olmadıkça öldürmeyin. İşte size bunları buyurdu; umulur ki akledersiniz.",
+ "mealNotu": "'İmlâk' kökü ملق, yoksulluk ve darlığı anlatır. 'Bil hakkı' (hak ile) ifadesini klasik fıkıh, cana kıymanın ancak meşru bir gerekçeyle mümkün olabileceğine, aksi halde kesinlikle yasak olduğuna dair bir sınır olarak açıklar.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "تَعَالَوْا۟",
+   "okunus": "teâlev",
+   "kok": "علو",
+   "kokAnlam": "yükselme; gelin",
+   "karsilik": "gelin"
+  },
+  {
+   "kelime": "أَتْلُ",
+   "okunus": "etlü",
+   "kok": "تلو",
+   "kokAnlam": "okuma, tilavet",
+   "karsilik": "okuyayım"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "حَرَّمَ",
+   "okunus": "harrame",
+   "kok": "حرم",
+   "kokAnlam": "haram kılma",
+   "karsilik": "haram kıldığı"
+  },
+  {
+   "kelime": "رَبُّكُمْ",
+   "okunus": "rabbüküm",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, terbiye etme",
+   "karsilik": "Rabbinizin"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "أَلَّا",
+   "okunus": "ellâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -memenizi",
+   "karsilik": "-memenizi"
+  },
+  {
+   "kelime": "تُشْرِكُوا۟",
+   "okunus": "tüşrikû",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "ortak koşmayın"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) O'na",
+   "karsilik": "O'na"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "hiçbir şeyi"
+  },
+  {
+   "kelime": "وَبِٱلْوَٰلِدَيْنِ",
+   "okunus": "ve bil vâlideyni",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; ebeveyn",
+   "karsilik": "ve anne-babaya"
+  },
+  {
+   "kelime": "إِحْسَٰنًا",
+   "okunus": "ihsânen",
+   "kok": "حسن",
+   "kokAnlam": "iyilik etme, güzel davranma",
+   "karsilik": "iyilik edin"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -meyin",
+   "karsilik": "ve -meyin"
+  },
+  {
+   "kelime": "تَقْتُلُوا۟",
+   "okunus": "tektülû",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürmeyin"
+  },
+  {
+   "kelime": "أَوْلَٰدَكُم",
+   "okunus": "evlâdeküm",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; çocuk",
+   "karsilik": "çocuklarınızı"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den dolayı",
+   "karsilik": "-den dolayı"
+  },
+  {
+   "kelime": "إِمْلَٰقٍ",
+   "okunus": "imlâkın",
+   "kok": "ملق",
+   "kokAnlam": "yoksulluk, darlık",
+   "karsilik": "yoksulluk"
+  },
+  {
+   "kelime": "نَّحْنُ",
+   "okunus": "nahnü",
+   "kok": "—",
+   "kokAnlam": "(zamir) biz",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "نَرْزُقُكُمْ",
+   "okunus": "nerzükuküm",
+   "kok": "رزق",
+   "kokAnlam": "rızık verme",
+   "karsilik": "sizi rızıklandırırız"
+  },
+  {
+   "kelime": "وَإِيَّاهُمْ",
+   "okunus": "ve iyyâhüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve onları da",
+   "karsilik": "ve onları da"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -meyin",
+   "karsilik": "ve -meyin"
+  },
+  {
+   "kelime": "تَقْرَبُوا۟",
+   "okunus": "tekrabû",
+   "kok": "قرب",
+   "kokAnlam": "yaklaşma",
+   "karsilik": "yaklaşmayın"
+  },
+  {
+   "kelime": "ٱلْفَوَٰحِشَ",
+   "okunus": "elfevâhişe",
+   "kok": "فحش",
+   "kokAnlam": "çirkinlik, hayâsızlık",
+   "karsilik": "çirkin işlere"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyine",
+   "karsilik": "şeyine"
+  },
+  {
+   "kelime": "ظَهَرَ",
+   "okunus": "zahera",
+   "kok": "ظهر",
+   "kokAnlam": "açığa çıkma, görünme",
+   "karsilik": "açık olanına"
+  },
+  {
+   "kelime": "مِنْهَا",
+   "okunus": "minhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) onun",
+   "karsilik": "onun"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şeyine",
+   "karsilik": "ve şeyine"
+  },
+  {
+   "kelime": "بَطَنَ",
+   "okunus": "betane",
+   "kok": "بطن",
+   "kokAnlam": "gizli olma, saklı olma",
+   "karsilik": "gizli olanına"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -meyin",
+   "karsilik": "ve -meyin"
+  },
+  {
+   "kelime": "تَقْتُلُوا۟",
+   "okunus": "tektülû",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürmeyin"
+  },
+  {
+   "kelime": "ٱلنَّفْسَ",
+   "okunus": "ennefse",
+   "kok": "نفس",
+   "kokAnlam": "can, nefis",
+   "karsilik": "canı"
+  },
+  {
+   "kelime": "ٱلَّتِى",
+   "okunus": "elletî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki onu",
+   "karsilik": "ki onu"
+  },
+  {
+   "kelime": "حَرَّمَ",
+   "okunus": "harrame",
+   "kok": "حرم",
+   "kokAnlam": "haram kılma",
+   "karsilik": "haram kıldı"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) -den başka",
+   "karsilik": "-den başka"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçek",
+   "karsilik": "hak ile"
+  },
+  {
+   "kelime": "ذَٰلِكُمْ",
+   "okunus": "zâliküm",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bunları",
+   "karsilik": "işte bunları"
+  },
+  {
+   "kelime": "وَصَّىٰكُم",
+   "okunus": "vessâküm",
+   "kok": "وصي",
+   "kokAnlam": "tavsiye etme, buyurma",
+   "karsilik": "size buyurdu"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) bunları",
+   "karsilik": "bunları"
+  },
+  {
+   "kelime": "لَعَلَّكُمْ",
+   "okunus": "lealleküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) umulur ki",
+   "karsilik": "umulur ki"
+  },
+  {
+   "kelime": "تَعْقِلُونَ",
+   "okunus": "ta'kılûne",
+   "kok": "عقل",
+   "kokAnlam": "akletme",
+   "karsilik": "akledersiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, En'âm suresinin en yoğun ahlaki ilkeler listesini başlatır. Sırasıyla şirk koşmama, anne-babaya iyilik, yoksulluk korkusuyla çocuk öldürmeme, çirkin işlerden (açık ve gizli) kaçınma ve haksız yere cana kıymama emredilir. Klasik tefsir bu listeyi, temel ahlaki yasaklar dizisi olarak açıklar.",
+  "Her madde 'Rabbinizin haram kıldığı' ifadesiyle bağlanır; bu, insan zannına dayanan önceki ayetlerdeki keyfî haram kılmaların aksine, gerçek ve kesin bir kaynağa dayanır. Ayet, 'umulur ki akledersiniz' diyerek bu ilkelerin akılla kavranabilir, evrensel ilkeler olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:31",
+   "meal": "Yoksulluk korkusuyla çocuklarınızı öldürmeyin; onları da sizi de biz rızıklandırırız. Onları öldürmek gerçekten büyük bir günahtır.",
+   "baglanti": "6:151'deki 'yoksulluk endişesiyle çocuk öldürmeyin, sizi de onları da biz rızıklandırırız' ifadesiyle neredeyse birebir aynıdır; aynı ilke iki surede de tekrarlanır."
+  },
+  {
+   "ref": "5:32",
+   "meal": "Kim bir cana kıymamış veya yeryüzünde bozgunculuk çıkarmamış birini öldürürse, bütün insanları öldürmüş gibi olur; kim de bir canı kurtarırsa bütün insanları kurtarmış gibi olur.",
+   "baglanti": "6:151'in son maddesindeki 'Allah'ın haram kıldığı canı haksız yere öldürmeyin' ilkesini, cana kıymanın ağırlığını vurgulayarak genişletir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, temel ahlaki yasakların bir listesidir: şirk, ebeveyne kötü davranma, çocuk öldürme, çirkin işler ve haksız cana kıyma. Bu maddelerin bir kısmı (çocuk öldürme, adam öldürme) tarihî ve hukukî bir ağırlık taşır.",
+  "Bugüne taşınabilecek ders, bu ilkelerin sırasının da anlamlı olduğudur: önce Allah'a karşı sorumluluk, sonra en yakın insan ilişkisi (anne-baba), sonra en savunmasız kişi (çocuk), sonra kişinin kendi iç dünyası (çirkin işler) ve son olarak başkasının hayatı. Bu sıra, sorumluluğun içten dışa doğru genişlediğini gösterir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Anne-babana bir iyilik yap",
+   "aciklama": "Bugün anne veya babana (ya da onların yerini tutan birine) somut bir iyilik yap: arama, ziyaret et, yardım et."
+  },
+  {
+   "baslik": "Zayıfı koru",
+   "aciklama": "Çevrende, kendini savunamayacak durumda olan birinin (çocuk, yaşlı, engelli) hakkını gözet."
+  },
+  {
+   "baslik": "Gizli-açık tutarlılığı sağla",
+   "aciklama": "Kimsenin görmediği bir anda da, görüldüğün zamanki gibi doğru davran."
+  }
+ ],
+ "bugununAdimi": "Bugün, bu listedeki bir maddeyi (özellikle anne-babaya iyilik) somut bir davranışla hayata geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=151"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/151"
+  }
+ ]
+}

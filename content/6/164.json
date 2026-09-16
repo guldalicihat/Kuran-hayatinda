@@ -1,0 +1,257 @@
+{
+ "sure": 6,
+ "ayet": 164,
+ "durum": "taslak",
+ "meal": "De ki: Allah'tan başkasını mı Rab olarak arayayım? Oysa O, her şeyin Rabbidir. Her nefis, kendi aleyhine olandan başkasını kazanmaz. Hiçbir günahkâr, başkasının günah yükünü yüklenmez. Sonra dönüşünüz Rabbinizedir; anlaşmazlığa düştüğünüz şeyi size haber verecektir.",
+ "mealNotu": "'Vizr' kökü وزر, ağır bir yükü, özellikle günah yükünü anlatır. Bu ayet, her kişinin sorumluluğunun kendine ait olduğunu, başkasının hatasının kendisine yüklenemeyeceğini net biçimde ifade eder.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "أَغَيْرَ",
+   "okunus": "eğayra",
+   "kok": "غير",
+   "kokAnlam": "başka",
+   "karsilik": "başkasını mı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "أَبْغِى",
+   "okunus": "ebğî",
+   "kok": "بغي",
+   "kokAnlam": "arama, isteme",
+   "karsilik": "arayayım"
+  },
+  {
+   "kelime": "رَبًّا",
+   "okunus": "rabben",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, terbiye etme",
+   "karsilik": "Rab olarak"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) oysa O",
+   "karsilik": "oysa O"
+  },
+  {
+   "kelime": "رَبُّ",
+   "okunus": "rabbü",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, terbiye etme",
+   "karsilik": "Rabbidir"
+  },
+  {
+   "kelime": "كُلُّ",
+   "okunus": "külli",
+   "kok": "كلل",
+   "kokAnlam": "her, bütün",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "şeyin"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -mez",
+   "karsilik": "ve -mez"
+  },
+  {
+   "kelime": "تَكْسِبُ",
+   "okunus": "teksibü",
+   "kok": "كسب",
+   "kokAnlam": "kazanma",
+   "karsilik": "kazanmaz"
+  },
+  {
+   "kelime": "كُلُّ",
+   "okunus": "küllü",
+   "kok": "كلل",
+   "kokAnlam": "her, bütün",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "نَفْسٍ",
+   "okunus": "nefsin",
+   "kok": "نفس",
+   "kokAnlam": "can, nefis",
+   "karsilik": "nefis"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) -den başka",
+   "karsilik": "-den başka"
+  },
+  {
+   "kelime": "عَلَيْهَا",
+   "okunus": "aleyhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) kendi aleyhine",
+   "karsilik": "kendi aleyhine"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -mez",
+   "karsilik": "ve -mez"
+  },
+  {
+   "kelime": "تَزِرُ",
+   "okunus": "teziru",
+   "kok": "وزر",
+   "kokAnlam": "yük taşıma, günah yüklenme",
+   "karsilik": "yüklenmez"
+  },
+  {
+   "kelime": "وَازِرَةٌ",
+   "okunus": "vâziratün",
+   "kok": "وزر",
+   "kokAnlam": "yük taşıyan",
+   "karsilik": "hiçbir günahkâr"
+  },
+  {
+   "kelime": "وِزْرَ",
+   "okunus": "vizra",
+   "kok": "وزر",
+   "kokAnlam": "yük, günah yükü",
+   "karsilik": "yükünü"
+  },
+  {
+   "kelime": "أُخْرَىٰ",
+   "okunus": "ührâ",
+   "kok": "أخر",
+   "kokAnlam": "başka, diğer",
+   "karsilik": "başkasının"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "رَبِّكُم",
+   "okunus": "rabbiküm",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, terbiye etme",
+   "karsilik": "Rabbinize"
+  },
+  {
+   "kelime": "مَّرْجِعُكُمْ",
+   "okunus": "merciuküm",
+   "kok": "رجع",
+   "kokAnlam": "dönüş",
+   "karsilik": "dönüşünüz"
+  },
+  {
+   "kelime": "فَيُنَبِّئُكُم",
+   "okunus": "feyünebbiüküm",
+   "kok": "نبأ",
+   "kokAnlam": "haber verme",
+   "karsilik": "size haber verecektir"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(edat) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduğunuz"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "تَخْتَلِفُونَ",
+   "okunus": "tahtelifûne",
+   "kok": "خلف",
+   "kokAnlam": "farklılaşma; anlaşmazlık",
+   "karsilik": "anlaşmazlığa düştüğünüz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, En'âm suresinin sonlarına doğru tevhidi son kez pekiştirir: Allah her şeyin Rabbi iken, başka bir rab aramak anlamsızdır. Bu soru biçimi, tartışmayı kesin bir sonuca bağlar.",
+  "İkinci kısım, bireysel sorumluluk ilkesini vurgular: kimse başkasının günahını yüklenmez, herkes kendi kazandığından sorumludur. Ayet, anlaşmazlıkların nihai çözümünün de Rabbe dönüşte, hesap gününde ortaya çıkacağını bildirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:15",
+   "meal": "Kim doğru yolu bulursa kendi lehine bulmuş olur, kim de saparsa kendi aleyhine sapmış olur. Hiçbir günahkâr başkasının günah yükünü yüklenmez.",
+   "baglanti": "6:164'teki 'hiçbir günahkâr başkasının yükünü yüklenmez' ifadesiyle birebir aynıdır; bireysel sorumluluk ilkesi iki surede de aynı cümleyle vurgulanır."
+  },
+  {
+   "ref": "2:286",
+   "meal": "Allah hiç kimseye gücünün üstünde bir yük yüklemez. Herkesin kazandığı kendi lehine, kazandığı kötülük de kendi aleyhinedir.",
+   "baglanti": "'Her nefis kendi kazandığından sorumludur' ilkesini, Allah'ın adaletiyle birlikte tekrar ederek 6:164'teki bireysel sorumluluk vurgusunu pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, tevhid ve bireysel sorumluluk ilkesidir; bu doğrudan bir inanç ve ahiret adaleti meselesidir.",
+  "Bugüne taşınabilecek ders, kendi hatalarının sorumluluğunu üstlenmek ve başkasını suçlamamaktır. Aynı şekilde, başkasının hatasından dolayı kendini suçlu hissetmemek de bu ilkenin bir parçasıdır; herkesin kendi payı vardır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendi payını üstlen",
+   "aciklama": "Bugün bir sorunda, kendi payına düşen sorumluluğu net biçimde kabul et."
+  },
+  {
+   "baslik": "Başkasını suçlamadan konuş",
+   "aciklama": "Bir hatayı konuşurken, başkasını suçlamak yerine kendi katkını da değerlendir."
+  },
+  {
+   "baslik": "Haksız suçluluktan kurtul",
+   "aciklama": "Sorumlu olmadığın bir konuda kendini suçlu hissediyorsan, bunun senin yükün olmadığını hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir konuda kendi sorumluluğunu net biçimde ayırt ederek üstlen veya bırak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=164"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/164"
+  }
+ ]
+}

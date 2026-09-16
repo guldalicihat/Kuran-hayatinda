@@ -1,0 +1,173 @@
+{
+ "sure": 7,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Allah dedi: 'Sana emrettiğimde secde etmekten seni ne alıkoydu?' İblis dedi: 'Ben ondan daha hayırlıyım; beni ateşten yarattın, onu çamurdan yarattın.'",
+ "mealNotu": "Kök temelli meal. 'Men'' kökü engellemeyi, alıkoymayı anlatır. İblis'in cevabındaki 'hayr' kökü üstünlük iddiasını taşır; kendi yaratılış maddesini (ateş) Âdem'in maddesinden (çamur) üstün sayar.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "Allah dedi"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "مَنَعَكَ",
+   "okunus": "meneake",
+   "kok": "منع",
+   "kokAnlam": "engelleme, alıkoyma",
+   "karsilik": "seni alıkoydu"
+  },
+  {
+   "kelime": "أَلَّا",
+   "okunus": "ellâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -memesi",
+   "karsilik": "-memenden"
+  },
+  {
+   "kelime": "تَسْجُدَ",
+   "okunus": "tescüde",
+   "kok": "سجد",
+   "kokAnlam": "secde etme, yere kapanma",
+   "karsilik": "secde etmemenden"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) -diğinde",
+   "karsilik": "-diğinde"
+  },
+  {
+   "kelime": "أَمَرْتُكَ",
+   "okunus": "emertüke",
+   "kok": "أمر",
+   "kokAnlam": "emretme",
+   "karsilik": "sana emrettiğimde"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "İblis dedi"
+  },
+  {
+   "kelime": "أَنَا۠",
+   "okunus": "ene",
+   "kok": "—",
+   "kokAnlam": "(zamir) ben",
+   "karsilik": "ben"
+  },
+  {
+   "kelime": "خَيْرٌ",
+   "okunus": "hayrun",
+   "kok": "خير",
+   "kokAnlam": "iyilik, üstünlük",
+   "karsilik": "daha hayırlıyım"
+  },
+  {
+   "kelime": "مِّنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "خَلَقْتَنِى",
+   "okunus": "halektenî",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "beni yarattın"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "نَّارٍ",
+   "okunus": "nârin",
+   "kok": "نور",
+   "kokAnlam": "ateş, ışık",
+   "karsilik": "ateşten"
+  },
+  {
+   "kelime": "وَخَلَقْتَهُۥ",
+   "okunus": "ve halektehû",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "onu yarattın"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "طِينٍ",
+   "okunus": "tînin",
+   "kok": "طين",
+   "kokAnlam": "çamur",
+   "karsilik": "çamurdan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, İblis'in secde etmeme gerekçesini sorgulayan ilahi soruyla başlar. 'Men'' kökü engelleme, alıkoymayı anlatır; soru, itaatsizliğin bir mazereti olup olmadığını araştırır niteliktedir.",
+  "İblis'in cevabı, maddesel bir üstünlük iddiasına dayanır: ateşten yaratıldığını, Âdem'in ise çamurdan yaratıldığını söyler. 'Hayr' kökü iyilik ve üstünlüğü taşır; İblis burada kıyasını yalnızca yaratılış maddesine dayandırır, Allah'ın emrine değil kendi mantığına güvenir. Klasik tefsir bu tavrı, kıyasla emri geçersiz kılma girişimi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "38:76",
+   "meal": "İblis dedi: 'Ben ondan hayırlıyım; beni ateşten yarattın, onu çamurdan yarattın.'",
+   "baglanti": "Sâd suresinde İblis'in aynı gerekçesi, neredeyse birebir aynı kelimelerle tekrarlanır."
+  },
+  {
+   "ref": "15:33",
+   "meal": "İblis dedi: 'Kuru çamurdan, şekillenmiş kara balçıktan yarattığın bir insana secde edecek değilim.'",
+   "baglanti": "Hicr suresinde İblis'in gerekçesi, Âdem'in maddesini küçümseyen bir dille tekrar edilir; kibir aynı köke dayanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu İblis'in itaatsizliğine gerekçe göstermesidir; bu, gaybî bir olayın anlatımıdır.",
+  "Bugüne taşınabilecek ders, bir emri ya da doğruyu reddederken öne sürülen 'mantıklı' gerekçelerin bazen sadece kibri örttüğüdür. İblis'in kıyası kulağa akla uygun gelse de, temelinde kendini üstün görme vardır. Bir itirazın arkasındaki gerçek saiki fark etmek önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gerekçeni sorgula",
+   "aciklama": "Bugün bir şeyi reddederken kullandığın gerekçenin, gerçekten haklı mı yoksa kibirden mi geldiğini düşün."
+  },
+  {
+   "baslik": "Üstünlük kıyasından kaçın",
+   "aciklama": "Kendini birinden 'daha iyi' gördüğün bir durumda, bu düşünceyi bir kez sorgula."
+  },
+  {
+   "baslik": "Emri kıyasla tartma",
+   "aciklama": "Doğru bildiğin bir şeyi, kendi mantığınla çelişse bile, önce ciddiye al."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda öne sürdüğün itirazın gerçek nedenini kendine dürüstçe sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/12"
+  }
+ ]
+}

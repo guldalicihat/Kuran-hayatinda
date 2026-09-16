@@ -1,0 +1,131 @@
+{
+ "sure": 7,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "Andolsun, sizi yeryüzünde yerleştirdik ve orada sizin için geçim kaynakları var ettik. Ne kadar az şükrediyorsunuz!",
+ "mealNotu": "Kök temelli meal. 'Mekkene' kökü yerleştirmeyi, imkân ve güç vermeyi anlatır. 'Ayş' kökü yaşamayı, geçim kaynaklarını ifade eder. Ayet, verilen imkânlara karşı gösterilen az şükrü eleştirir.",
+ "kokler": [
+  {
+   "kelime": "وَلَقَدْ",
+   "okunus": "ve lekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) andolsun",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "مَكَّنَّٰكُمْ",
+   "okunus": "mekkennâküm",
+   "kok": "مكن",
+   "kokAnlam": "yerleştirme, imkân ve güç verme",
+   "karsilik": "sizi yerleştirdik"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "وَجَعَلْنَا",
+   "okunus": "ve cealnâ",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma, var etme",
+   "karsilik": "ve var ettik"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) orada",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "مَعَٰيِشَ",
+   "okunus": "meâyişe",
+   "kok": "عيش",
+   "kokAnlam": "yaşama, geçim",
+   "karsilik": "geçim kaynakları"
+  },
+  {
+   "kelime": "قَلِيلًا",
+   "okunus": "kalîlen",
+   "kok": "قلل",
+   "kokAnlam": "azlık",
+   "karsilik": "ne kadar az"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ek) pekiştirme",
+   "karsilik": "(pekiştirme)"
+  },
+  {
+   "kelime": "تَشْكُرُونَ",
+   "okunus": "teşkürûne",
+   "kok": "شكر",
+   "kokAnlam": "şükretme",
+   "karsilik": "şükrediyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, insana verilen iki büyük nimeti hatırlatır: yeryüzünde yerleşme imkânı ve orada geçimini sağlayacak kaynaklar. 'Mekkene' kökü sadece yer vermeyi değil, o yerde tutunabilecek güç ve imkân vermeyi de kapsar.",
+  "'Meâyiş' kökü geçim vasıtalarının çeşitliliğine işaret eder; su, toprak, bitki, hayvan gibi pek çok kaynak insana sunulmuştur. Ayet, bu geniş imkâna rağmen şükrün az olduğunu üzülerek belirtir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "32:9",
+   "meal": "Sonra onu düzenli bir şekle koydu ve ona ruhundan üfledi; sizin için kulaklar, gözler ve kalpler var etti. Ne kadar az şükrediyorsunuz!",
+   "baglanti": "Aynı 'ne kadar az şükrediyorsunuz' ifadesi burada da geçer; bu kez nimet olarak dış ve iç duyular sayılır."
+  },
+  {
+   "ref": "15:20",
+   "meal": "Orada sizin için ve rızkını sizin vermediğiniz kimseler için geçim kaynakları var ettik.",
+   "baglanti": "Yeryüzündeki geçim kaynaklarının yalnız insana değil, insanın rızıklandırmadığı diğer canlılara da sunulduğu burada eklenir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insana verilen yerleşme ve geçim imkânlarıdır; bu, günlük hayatın temelini oluşturan somut nimetlerdir.",
+  "Bugüne taşınabilecek ders, günlük hayatta kullandığımız imkânların (barınak, gıda, çalışma alanı) farkına varmaktır. Bunlar o kadar sıradanlaşmıştır ki genellikle şükür konusu olmaktan çıkar; bu ayet bu alışkanlığı sorgulatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geçim kaynağını fark et",
+   "aciklama": "Bugün seni geçindiren bir kaynağı (iş, ürün, kişi) düşün ve ona teşekkür et."
+  },
+  {
+   "baslik": "Sıradanı fark et",
+   "aciklama": "Günlük kullandığın ama fark etmediğin bir imkânı (su, elektrik, barınak) bugün bilinçli kullan."
+  },
+  {
+   "baslik": "Şükrünü davranışa dök",
+   "aciklama": "Bugün bir nimetin karşılığında, o nimeti israf etmemeye özen göster."
+  }
+ ],
+ "bugununAdimi": "Bugün kullandığın bir imkânı (su, gıda, barınak) israf etmeden, bilinçli kullan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/10"
+  }
+ ]
+}
