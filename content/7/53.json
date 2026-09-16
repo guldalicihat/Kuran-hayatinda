@@ -1,0 +1,320 @@
+{
+ "sure": 7,
+ "ayet": 53,
+ "durum": "taslak",
+ "meal": "Onlar, sonucun (te'vilinin) ortaya çıkmasından başka bir şey mi bekliyorlar? Onun sonucu geldiği gün, önceden onu unutmuş olanlar derler ki: 'Rabbimizin elçileri gerçekten hakkı getirmişti. Şimdi bizim için şefaat edecek şefaatçiler var mı, yahut geri döndürülüp önceden yaptığımızdan başkasını yapalım mı?' Gerçekten kendilerini kayba uğrattılar ve uydurmakta oldukları şeyler onlardan kayboldu.",
+ "mealNotu": "'Te'vîl' kökü (أول) burada olayın nihai sonucu, gerçekleşmesi anlamındadır. 'Yefterûne' kökü (فري) bilerek uydurma, iftira anlamına gelir; kişilerin uydurdukları kurtuluş umutlarının boşa çıktığını anlatır.",
+ "kokler": [
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "soru edatı",
+   "karsilik": "mi"
+  },
+  {
+   "kelime": "يَنظُرُونَ",
+   "okunus": "yenzurûne",
+   "kok": "نظر",
+   "kokAnlam": "bakma, bekleme",
+   "karsilik": "bekliyorlar"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna",
+   "karsilik": "-den başka"
+  },
+  {
+   "kelime": "تَأْوِيلُهُۥ",
+   "okunus": "te'vîlehû",
+   "kok": "أول",
+   "kokAnlam": "yorumlama, sonucun ortaya çıkması",
+   "karsilik": "onun sonucundan"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gün"
+  },
+  {
+   "kelime": "يَأْتِى",
+   "okunus": "ye'tî",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "geldiği"
+  },
+  {
+   "kelime": "تَأْوِيلُهُۥ",
+   "okunus": "te'vîlühû",
+   "kok": "أول",
+   "kokAnlam": "sonucun ortaya çıkması",
+   "karsilik": "onun sonucu"
+  },
+  {
+   "kelime": "يَقُولُ",
+   "okunus": "yekûlü",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi",
+   "karsilik": "o kimseler"
+  },
+  {
+   "kelime": "نَسُوهُ",
+   "okunus": "nesûhü",
+   "kok": "نسي",
+   "kokAnlam": "unutma",
+   "karsilik": "onu unutmuş olan"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلُ",
+   "okunus": "kablü",
+   "kok": "قبل",
+   "kokAnlam": "önce",
+   "karsilik": "önceden"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "kesinlik",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "جَآءَتْ",
+   "okunus": "câet",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "geldi"
+  },
+  {
+   "kelime": "رُسُلُ",
+   "okunus": "rusülü",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi",
+   "karsilik": "elçileri"
+  },
+  {
+   "kelime": "رَبِّنَا",
+   "okunus": "rabbinâ",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, rab",
+   "karsilik": "Rabbimizin"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, hak",
+   "karsilik": "hakla"
+  },
+  {
+   "kelime": "فَهَل",
+   "okunus": "fehel",
+   "kok": "—",
+   "kokAnlam": "soru",
+   "karsilik": "şimdi var mı"
+  },
+  {
+   "kelime": "لَنَآ",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "bize",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "شُفَعَآءَ",
+   "okunus": "şüfeâe",
+   "kok": "شفع",
+   "kokAnlam": "aracılık etme, şefaat",
+   "karsilik": "şefaatçiler"
+  },
+  {
+   "kelime": "فَيَشْفَعُوا۟",
+   "okunus": "feyeşfeû",
+   "kok": "شفع",
+   "kokAnlam": "şefaat etme",
+   "karsilik": "şefaat etsinler diye"
+  },
+  {
+   "kelime": "لَنَآ",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "bize",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "نُرَدُّ",
+   "okunus": "nüraddü",
+   "kok": "ردد",
+   "kokAnlam": "geri döndürülme",
+   "karsilik": "geri döndürülür müyüz"
+  },
+  {
+   "kelime": "فَنَعْمَلَ",
+   "okunus": "fena'mele",
+   "kok": "عمل",
+   "kokAnlam": "yapma, amel",
+   "karsilik": "yapalım diye"
+  },
+  {
+   "kelime": "غَيْرَ",
+   "okunus": "gayra",
+   "kok": "غير",
+   "kokAnlam": "başka",
+   "karsilik": "başkasını"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "ilgi",
+   "karsilik": "şeyin"
+  },
+  {
+   "kelime": "كُنَّا",
+   "okunus": "künnâ",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduğumuz"
+  },
+  {
+   "kelime": "نَعْمَلُ",
+   "okunus": "na'melü",
+   "kok": "عمل",
+   "kokAnlam": "yapma, amel",
+   "karsilik": "yapıyorduk"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "kesinlik",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "خَسِرُوٓا۟",
+   "okunus": "hasirû",
+   "kok": "خسر",
+   "kokAnlam": "kaybetme, ziyan",
+   "karsilik": "kaybettiler"
+  },
+  {
+   "kelime": "أَنفُسَهُمْ",
+   "okunus": "enfüsehüm",
+   "kok": "نفس",
+   "kokAnlam": "nefs, kendilik",
+   "karsilik": "kendilerini"
+  },
+  {
+   "kelime": "وَضَلَّ",
+   "okunus": "ve dalle",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, kaybolma",
+   "karsilik": "ve kayboldu"
+  },
+  {
+   "kelime": "عَنْهُم",
+   "okunus": "anhüm",
+   "kok": "—",
+   "kokAnlam": "onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldukları"
+  },
+  {
+   "kelime": "يَفْتَرُونَ",
+   "okunus": "yefterûne",
+   "kok": "فري",
+   "kokAnlam": "uydurma, iftira",
+   "karsilik": "uydurmakta"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 52. ayette anlatılan ayrıntılı kitabı reddedenlerin, kitabın bildirdiği sonucun (te'vilin) gerçekleşmesini bekleyip beklemediklerini sorar. O gün geldiğinde, kitabı önceden unutanlar elçilerin doğru söylediğini itiraf ederler.",
+  "'Hasirû enfüsehüm' (kendilerini kayba uğrattılar) ifadesi, bu kişilerin asıl kaybının kendi benlikleri olduğunu vurgular. Ayet, şefaat umudu veya dünyaya geri dönüp farklı davranma isteğinin o gün bir çıkış yolu olmadığını, çünkü uydurdukları şeylerin ortadan kaybolduğunu bildirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "74:48",
+   "meal": "Artık şefaatçilerin şefaati onlara fayda vermez.",
+   "baglanti": "7:53'te umulan 'şefaatçiler' teması burada doğrudan reddedilir; o gün şefaat beklentisinin sonuçsuz kalacağını aynı kökle (شفع) doğrular."
+  },
+  {
+   "ref": "10:39",
+   "meal": "Hayır, onlar bilgice kavrayamadıkları ve sonucu (te'vili) henüz kendilerine gelmemiş olan şeyi yalanladılar.",
+   "baglanti": "'Te'vil' kökünü aynı şekilde kullanarak, yalanlanan haberin sonucunun henüz gerçekleşmediğini anlatır; 7:53'teki 'sonucun geldiği gün' ifadesiyle doğrudan bağlantılıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ahiretteki hesap gününde pişmanlık ve şefaat arayışıdır; bu özel bir ahiret sahnesidir.",
+  "Günlük hayata taşınabilecek ders, bir uyarının sonucunu görmeden önce ciddiye almanın önemidir. Bir uyarıyı 'sonucu gelince inanırım' diyerek ertelemek, o sonuç geldiğinde artık geri dönüşün mümkün olmadığı bir pişmanlığa yol açabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Uyarıyı şimdi değerlendir",
+   "aciklama": "Bugün duyduğun bir uyarıyı (sağlık, ilişki, sorumluluk) 'sonra düşünürüm' demeden şimdi ele al."
+  },
+  {
+   "baslik": "Uydurma umutlara güvenme",
+   "aciklama": "Bugün gerçekçi olmayan bir 'bir şekilde hallolur' düşüncesine dayandığın bir kararı gözden geçir."
+  },
+  {
+   "baslik": "Kaybı önceden hesapla",
+   "aciklama": "Bugün bir seçiminin uzun vadeli sonucunu kâğıda yazıp değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir uyarıyı ciddiye alıp somut bir adım at, sonucunu beklemeden.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=53"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/53"
+  }
+ ]
+}

@@ -1,0 +1,229 @@
+{
+ "sure": 7,
+ "ayet": 71,
+ "durum": "taslak",
+ "meal": "Hûd dedi ki: 'Rabbinizden üzerinize bir azap ve bir öfke inmiştir. Sizin ve atalarınızın adlandırdığı, Allah'ın hiçbir delil indirmediği isimler hakkında benimle mi tartışıyorsunuz? Bekleyin öyleyse; ben de sizinle birlikte bekleyenlerdenim.'",
+ "mealNotu": "'Ricsün' kökü (رجس) pislik, murdarlık anlamına gelir; burada azap karşılığı kullanıldı. 'Sultan' kökü (سلط) güç ve delil anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "وَقَعَ",
+   "okunus": "vekaa",
+   "kok": "وقع",
+   "kokAnlam": "düşme, vaki olma",
+   "karsilik": "indi"
+  },
+  {
+   "kelime": "عَلَيْكُم",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinize",
+   "karsilik": "üzerinize"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّكُمْ",
+   "okunus": "rabbiküm",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, Rab",
+   "karsilik": "Rabbinizden"
+  },
+  {
+   "kelime": "رِجْسٌ",
+   "okunus": "ricsün",
+   "kok": "رجس",
+   "kokAnlam": "pislik, murdarlık, azap",
+   "karsilik": "bir azap"
+  },
+  {
+   "kelime": "وَغَضَبٌ",
+   "okunus": "ve gadabün",
+   "kok": "غضب",
+   "kokAnlam": "öfke, hiddet",
+   "karsilik": "ve bir öfke"
+  },
+  {
+   "kelime": "أَتُجَٰدِلُونَنِى",
+   "okunus": "etücâdilûnenî",
+   "kok": "جدل",
+   "kokAnlam": "tartışma, mücadele",
+   "karsilik": "benimle mi tartışıyorsunuz"
+  },
+  {
+   "kelime": "فِىٓ",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "أَسْمَآءٍ",
+   "okunus": "esmâin",
+   "kok": "سمو",
+   "kokAnlam": "isim, ad",
+   "karsilik": "isimler"
+  },
+  {
+   "kelime": "سَمَّيْتُمُوهَآ",
+   "okunus": "semmeytümûhâ",
+   "kok": "سمو",
+   "kokAnlam": "adlandırma, isim koyma",
+   "karsilik": "onları adlandırdığınız"
+  },
+  {
+   "kelime": "أَنتُمْ",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "وَءَابَآؤُكُم",
+   "okunus": "ve âbâüküm",
+   "kok": "أبو",
+   "kokAnlam": "baba, ata",
+   "karsilik": "ve atalarınızın"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ki değil",
+   "karsilik": "ki değil"
+  },
+  {
+   "kelime": "نَزَّلَ",
+   "okunus": "nezzele",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirmedi"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِهَا",
+   "okunus": "bihâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar hakkında",
+   "karsilik": "onlar hakkında"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) hiçbir",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "سُلْطَٰنٍ",
+   "okunus": "sültânin",
+   "kok": "سلط",
+   "kokAnlam": "güç, delil, otorite",
+   "karsilik": "delil"
+  },
+  {
+   "kelime": "فَٱنتَظِرُوٓا۟",
+   "okunus": "fentezırû",
+   "kok": "نظر",
+   "kokAnlam": "bekleme, gözetleme",
+   "karsilik": "bekleyin öyleyse"
+  },
+  {
+   "kelime": "إِنِّى",
+   "okunus": "innî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz ben",
+   "karsilik": "şüphesiz ben de"
+  },
+  {
+   "kelime": "مَعَكُم",
+   "okunus": "meaküm",
+   "kok": "—",
+   "kokAnlam": "(yer) sizinle beraber",
+   "karsilik": "sizinle beraber"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُنتَظِرِينَ",
+   "okunus": "elmüntezırîne",
+   "kok": "نظر",
+   "kokAnlam": "bekleme, gözetleme",
+   "karsilik": "bekleyenlerdenim"
+  }
+ ],
+ "neAnlatiyor": [
+  "Hûd, kavminin taptığı putların sadece kendilerinin ve atalarının uydurduğu isimler olduğunu, Allah'ın bunlara hiçbir delil (sultan) indirmediğini söyler; bu, isimlendirmenin gerçeği değiştirmeyeceğini gösterir.",
+  "Hûd, tartışmanın sonucunu Allah'a bırakıp 'bekleyin, ben de bekleyenlerdenim' der; bu, delilsiz inatla tartışmak yerine sonucu zamana bırakan bir peygamber tavrıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "53:23",
+   "meal": "Bunlar sizin ve atalarınızın taktığı isimlerden başka bir şey değildir; Allah onlar hakkında hiçbir delil indirmemiştir.",
+   "baglanti": "71. ayetle neredeyse birebir aynı ifadeyi taşır; putperestliğin delilsizliğini aynı kelimelerle anlatır."
+  },
+  {
+   "ref": "12:40",
+   "meal": "O'nu bırakıp taptıklarınız, sizin ve atalarınızın taktığı isimlerden başka bir şey değildir; Allah onlar hakkında hiçbir delil indirmemiştir.",
+   "baglanti": "Aynı kalıbı Yûsuf kıssasında tekrarlar; Kur'an'da putperestliğin temelsizliği bu ifadeyle birden çok yerde vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, delilsiz putperestliğin sadece isimlendirmeye dayanmasıdır; bu, tarihî bir inanç tartışmasıdır.",
+  "Bugüne taşınabilecek ders, bir şeye sadece 'böyle adlandırılıyor' diye değer vermek yerine, onun gerçek bir dayanağı olup olmadığını sorgulamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Delilsiz kabulleri gözden geçir",
+   "aciklama": "Bugün sadece yaygın olduğu için doğru kabul ettiğin bir bilgiyi gerçek kaynağıyla kontrol et."
+  },
+  {
+   "baslik": "Tartışmayı zamana bırak",
+   "aciklama": "Bugün sonuçsuz bir tartışmada ısrar etmek yerine, sabırla beklemeyi seç."
+  },
+  {
+   "baslik": "İsimle özü ayırt et",
+   "aciklama": "Bugün bir şeyin adının iyi olmasıyla gerçekte iyi olmasını ayırt ederek bir kararını gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün, sadece adından veya yaygınlığından dolayı kabul ettiğin bir düşüncenin gerçek delili var mı diye sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=71"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/71"
+  }
+ ]
+}

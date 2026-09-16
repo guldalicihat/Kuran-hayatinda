@@ -1,0 +1,103 @@
+{
+ "sure": 7,
+ "ayet": 83,
+ "durum": "taslak",
+ "meal": "Biz de onu ve ailesini kurtardık; yalnız karısı hariç, o geride kalanlardan oldu.",
+ "mealNotu": "'Gâbirîn' kökü (غبر) geride kalanları, helak edilenlerle birlikte kalan kişiyi anlatır; Lût'un karısı iman etmediği için bu grupta sayılır.",
+ "kokler": [
+  {
+   "kelime": "فَأَنجَيْنَٰهُ",
+   "okunus": "feenceynâhü",
+   "kok": "نجو",
+   "kokAnlam": "kurtarma",
+   "karsilik": "onu kurtardık"
+  },
+  {
+   "kelime": "وَأَهْلَهُۥٓ",
+   "okunus": "ve ehlehû",
+   "kok": "أهل",
+   "kokAnlam": "ehil, aile",
+   "karsilik": "ve ailesini"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) hariç",
+   "karsilik": "hariç"
+  },
+  {
+   "kelime": "ٱمْرَأَتَهُۥ",
+   "okunus": "imraetehû",
+   "kok": "مرأ",
+   "kokAnlam": "kadın, eş",
+   "karsilik": "karısı"
+  },
+  {
+   "kelime": "كَانَتْ",
+   "okunus": "kânet",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldu"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْغَٰبِرِينَ",
+   "okunus": "elgâbirîne",
+   "kok": "غبر",
+   "kokAnlam": "geride kalma, süregelme",
+   "karsilik": "geride kalanlardan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Lût ve iman eden ailesinin kurtarıldığını, ancak eşinin kavmiyle birlikte helak olanlar arasında kaldığını bildirir; bu, aile bağının tek başına kurtuluş sebebi olmadığını gösterir.",
+  "'Geride kalanlardan oldu' ifadesi, Lût'un karısının inanç bakımından kavmiyle aynı tarafta olduğunu; kurtuluşun soy veya evlilikten değil imandan geldiğini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "27:57",
+   "meal": "Biz de onu ve ailesini kurtardık; yalnız karısını, onu geride kalanlardan takdir ettik.",
+   "baglanti": "83. ayetle neredeyse birebir aynı ifadeyi taşır; aynı kıssanın başka bir surede tekrarıdır."
+  },
+  {
+   "ref": "66:10",
+   "meal": "Allah, inkâr edenlere Nûh'un karısı ile Lût'un karısını örnek verir; ikisi de salih iki kulumuzun nikâhı altındaydı, fakat onlara ihanet ettiler.",
+   "baglanti": "Lût'un karısının imansızlığının sebebini başka bir surede daha açık biçimde anlatır; aile bağının iman yerine geçmediğini teyit eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Lût'un karısının imansızlığı sebebiyle helak olanlar arasında kalmasıdır; bu, tarihî bir aile içi ayrılık sahnesidir.",
+  "Bugüne taşınabilecek ders, bir kişinin kurtuluşunun ailesinin veya yakınlarının konumuna değil, kendi inanç ve duruşuna bağlı olduğudur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendi duruşuna sahip çık",
+   "aciklama": "Bugün bir konuda ailenin veya çevrenin duruşuna bakmaksızın kendi doğrunu belirle."
+  },
+  {
+   "baslik": "Yakınlarına iyiyi hatırlat",
+   "aciklama": "Bugün bir aile üyene nazikçe doğru bir hatırlatma yap."
+  },
+  {
+   "baslik": "Sorumluluğunu başkasına yükleme",
+   "aciklama": "Bugün kendi hatalı bir tutumunu, 'çevrem böyle' diyerek mazur göstermekten vazgeç."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir konuda 'çevrem öyle yapıyor' diyerek sürdürdüğün bir tutumu kendi kararınla gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=83"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/83"
+  }
+ ]
+}

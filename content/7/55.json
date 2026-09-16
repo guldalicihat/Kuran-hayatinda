@@ -1,0 +1,110 @@
+{
+ "sure": 7,
+ "ayet": 55,
+ "durum": "taslak",
+ "meal": "Rabbinize yalvararak ve gizlice dua edin. Şüphesiz O, haddi aşanları sevmez.",
+ "mealNotu": "'Tedarru' kökü (ضرع) boyun eğerek, alçak gönüllülükle yalvarmayı anlatır. 'Mu'tedîn' kökü (عدو) haddi aşan, sınırı ihlal edenleri ifade eder; klasik tefsir burada duada aşırılığa (gösteriş, uygunsuz istek) işaret edildiğini belirtir.",
+ "kokler": [
+  {
+   "kelime": "ٱدْعُوا۟",
+   "okunus": "id'û",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, dua etme",
+   "karsilik": "dua edin"
+  },
+  {
+   "kelime": "رَبَّكُمْ",
+   "okunus": "rabbeküm",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, rab",
+   "karsilik": "Rabbinize"
+  },
+  {
+   "kelime": "تَضَرُّعًا",
+   "okunus": "tedarruan",
+   "kok": "ضرع",
+   "kokAnlam": "yalvarma, boyun eğme",
+   "karsilik": "yalvararak"
+  },
+  {
+   "kelime": "وَخُفْيَةً",
+   "okunus": "ve hufyeten",
+   "kok": "خفي",
+   "kokAnlam": "gizlilik",
+   "karsilik": "ve gizlice"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "şüphesiz O"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-maz"
+  },
+  {
+   "kelime": "يُحِبُّ",
+   "okunus": "yühibbü",
+   "kok": "حبب",
+   "kokAnlam": "sevme",
+   "karsilik": "sevmez"
+  },
+  {
+   "kelime": "ٱلْمُعْتَدِينَ",
+   "okunus": "elmü'tedîne",
+   "kok": "عدو",
+   "kokAnlam": "sınırı aşma, düşmanlık",
+   "karsilik": "haddi aşanları"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerdeki yaratılış ve hükümranlık tasvirinin ardından, insanı bu büyük Rabbe nasıl yönelmesi gerektiği konusunda yönlendirir. 'Tedarru' (yalvararak) ve 'hufye' (gizlice) kökleri, duanın içten, gösterişsiz bir tutumla yapılması gerektiğini vurgular.",
+  "Ayetin sonu, bu içtenlikli duanın karşıtı olarak 'haddi aşma'yı (i'tida) yasaklar; klasik tefsir bunu duada sesi çok yükseltmek, gösteriş yapmak veya uygun olmayan isteklerde bulunmak olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:63",
+   "meal": "De ki: 'Karanın ve denizin karanlıklarından sizi kim kurtarır? O'na yalvararak ve gizlice dua edersiniz: Eğer bizi bundan kurtarırsa elbette şükredenlerden oluruz.'",
+   "baglanti": "'Tedarruan ve hufyeten' ifadesi birebir aynı kelimelerle tekrarlanır; darda kalan insanın Allah'a bu şekilde yöneldiğini gösterir."
+  },
+  {
+   "ref": "40:60",
+   "meal": "Rabbiniz dedi ki: 'Bana dua edin, size icabet edeyim.'",
+   "baglanti": "Duanın Allah katında karşılık bulacağını genel bir ilkeyle bildirir; 7:55'teki dua çağrısının dayandığı temel vaadi ortaya koyar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Allah'a dua etmenin tarzıdır; içten ve gizli bir yalvarış, gösterişli bir talepten üstün tutulur.",
+  "Günlük hayatta bu, sadece dua için değil her türlü içten davranış için bir ilkedir: bir iyiliği gösteriş için değil, samimiyetle yapmak, hem dua hem de günlük ilişkilerde daha kalıcı bir değer taşır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sessiz bir dua anı ayır",
+   "aciklama": "Bugün kimsenin duymadığı bir anda, sessizce içinden geçenleri Allah'a anlat."
+  },
+  {
+   "baslik": "Gösterişten uzak dur",
+   "aciklama": "Bugün yaptığın bir iyiliği kimseye anlatmadan, sessizce yap."
+  },
+  {
+   "baslik": "Haddini gözet",
+   "aciklama": "Bugün bir istekte bulunurken (dua, dilek, talep) ölçülü ve saygılı bir dil kullan."
+  }
+ ],
+ "bugununAdimi": "Bugün gün içinde beş dakika, sessizce ve içtenlikle dua etmeye ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=55"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/55"
+  }
+ ]
+}

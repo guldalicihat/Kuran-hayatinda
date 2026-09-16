@@ -1,0 +1,110 @@
+{
+ "sure": 7,
+ "ayet": 84,
+ "durum": "taslak",
+ "meal": "Ve üzerlerine bir (taş) yağmuru yağdırdık. Bak öyleyse, suçluların akıbeti nasıl oldu!",
+ "mealNotu": "'Metar' kökü (مطر) yağmuru anlatır; klasik tefsir burada yağanın sert, taş gibi bir yağmur olduğunu açıklar. 'Âkıbe' kökü (عقب) bir işin sonucunu ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَأَمْطَرْنَا",
+   "okunus": "ve emtarnâ",
+   "kok": "مطر",
+   "kokAnlam": "yağmur yağdırma",
+   "karsilik": "ve yağdırdık"
+  },
+  {
+   "kelime": "عَلَيْهِم",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerlerine",
+   "karsilik": "üzerlerine"
+  },
+  {
+   "kelime": "مَّطَرًا",
+   "okunus": "metaran",
+   "kok": "مطر",
+   "kokAnlam": "yağmur",
+   "karsilik": "bir yağmur"
+  },
+  {
+   "kelime": "فَٱنظُرْ",
+   "okunus": "fenzur",
+   "kok": "نظر",
+   "kokAnlam": "bakma, görme",
+   "karsilik": "bak öyleyse"
+  },
+  {
+   "kelime": "كَيْفَ",
+   "okunus": "keyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldu"
+  },
+  {
+   "kelime": "عَٰقِبَةُ",
+   "okunus": "âkıbetü",
+   "kok": "عقب",
+   "kokAnlam": "son, akıbet, sonuç",
+   "karsilik": "akıbeti"
+  },
+  {
+   "kelime": "ٱلْمُجْرِمِينَ",
+   "okunus": "elmücrimîne",
+   "kok": "جرم",
+   "kokAnlam": "suç, suçlu",
+   "karsilik": "suçluların"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Lût kavmine gelen azabın bir tür (taş) yağmuru şeklinde gerçekleştiğini bildirir; bu, önceki ayetlerdeki kurtuluş sahnesinin ardından gelen helak anıdır.",
+  "'Bak, suçluların akıbeti nasıl oldu' ifadesi, kıssanın sonunda okuyucuya doğrudan bir ibret çağrısı yapar; bu kalıp Kur'an'da birçok helak kıssasının sonunda tekrarlanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:82",
+   "meal": "Emrimiz gelince, o kentin üstünü altına getirdik ve üzerine istif edilmiş balçıktan pişirilmiş taşlar yağdırdık.",
+   "baglanti": "84. ayetteki yağmurun ne olduğunu daha ayrıntılı anlatır; aynı kıssanın tamamlayıcı detayıdır."
+  },
+  {
+   "ref": "26:173",
+   "meal": "Üzerlerine bir yağmur yağdırdık; uyarılanların yağmuru ne kötüydü!",
+   "baglanti": "84. ayetle neredeyse birebir aynı ifadeyi taşır; aynı kıssanın başka bir surede tekrarıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Lût kavmine gelen ilahi azabın niteliği ve sonucudur; bu, tarihî bir helak sahnesidir.",
+  "Bugüne taşınabilecek ders, kıssaların sonundaki 'bak, akıbeti nasıl oldu' çağrısının, geçmişten ibret almayı bir alışkanlık haline getirmeyi teşvik etmesidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İbret çıkarma alışkanlığı edin",
+   "aciklama": "Bugün bir tarihî kıssayı okuyup ondan çıkardığın bir dersi not et."
+  },
+  {
+   "baslik": "Sonuçları düşünerek karar ver",
+   "aciklama": "Bugün bir kararının olası sonuçlarını almadan önce kısaca düşün."
+  },
+  {
+   "baslik": "Uyarılara kulak ver",
+   "aciklama": "Bugün sana yapılan bir uyarıyı görmezden gelmeden dikkate al."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir kıssadan çıkardığın dersi yazıya dökerek somut bir hatırlatmaya dönüştür.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=84"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/84"
+  }
+ ]
+}

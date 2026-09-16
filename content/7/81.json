@@ -1,0 +1,131 @@
+{
+ "sure": 7,
+ "ayet": 81,
+ "durum": "taslak",
+ "meal": "Siz kadınları bırakıp şehvetle erkeklere yaklaşıyorsunuz. Hayır, siz haddi aşan bir kavimsiniz.",
+ "mealNotu": "'Müsrifûn' kökü (سرف) sınırı aşmayı, aşırı gitmeyi anlatır; ayet bu davranışı bir haddi aşma olarak nitelendirir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّكُمْ",
+   "okunus": "inneküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz siz",
+   "karsilik": "şüphesiz siz"
+  },
+  {
+   "kelime": "لَتَأْتُونَ",
+   "okunus": "lete'tûne",
+   "kok": "أتي",
+   "kokAnlam": "gelme, yaklaşma",
+   "karsilik": "geliyorsunuz"
+  },
+  {
+   "kelime": "ٱلرِّجَالَ",
+   "okunus": "erricâle",
+   "kok": "رجل",
+   "kokAnlam": "erkek, adam",
+   "karsilik": "erkeklere"
+  },
+  {
+   "kelime": "شَهْوَةً",
+   "okunus": "şehveten",
+   "kok": "شهو",
+   "kokAnlam": "arzu, istek",
+   "karsilik": "şehvetle"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِ",
+   "okunus": "dûni",
+   "kok": "دون",
+   "kokAnlam": "aşağı, başka, yerine",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "ٱلنِّسَآءِ",
+   "okunus": "ennisâi",
+   "kok": "نسو",
+   "kokAnlam": "kadın",
+   "karsilik": "kadınlardan"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) hayır, bilakis",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "أَنتُمْ",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "قَوْمٌ",
+   "okunus": "kavmün",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "bir kavimsiniz"
+  },
+  {
+   "kelime": "مُّسْرِفُونَ",
+   "okunus": "müsrifûne",
+   "kok": "سرف",
+   "kokAnlam": "aşırılık, haddi aşma, israf",
+   "karsilik": "haddi aşan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Lût, kavminin davranışını daha açık biçimde tanımlar: kadınları bırakıp şehvetle erkeklere yönelmek; bu, önceki ayetteki 'çirkin iş' ifadesini netleştirir.",
+  "Ayet, bu davranışı 'haddi aşma' olarak nitelendirir; klasik tefsir bu ifadeyi fıtrattan ve meşru sınırdan sapma olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:29",
+   "meal": "Siz gerçekten erkeklere yaklaşıyor, yol kesiyor ve toplantılarınızda çirkin işler yapıyor musunuz?",
+   "baglanti": "Aynı kıssada 81. ayetteki 'erkeklere yaklaşma' ifadesini, ek çirkinliklerle birlikte tekrarlar."
+  },
+  {
+   "ref": "26:166",
+   "meal": "Rabbinizin sizin için yarattığı eşlerinizi bırakıyorsunuz; hayır, siz haddi aşan bir kavimsiniz.",
+   "baglanti": "'Bel entüm kavmün' kalıbını birebir paylaşır; kadınları/eşleri bırakma vurgusunu aynı sözlerle tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Lût kavmine özgü tarihî bir ahlaki sapmadır; klasik tefsir çizgisinde özel bir konudur, günlük hayata dolaysız bir kural değildir.",
+  "Ayetten çıkarılabilecek genel ilke, 'haddi aşma' kavramının sadece bu konuyla sınırlı olmadığı, her alanda ölçüyü kaçırmanın uyarıldığıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ölçünü koru",
+   "aciklama": "Bugün herhangi bir konuda (harcama, öfke, söz) haddi aşmadığından emin ol."
+  },
+  {
+   "baslik": "Sınırlarına saygı göster",
+   "aciklama": "Bugün İslami ölçüler çerçevesinde yaşadığın bir alanı gözden geçir."
+  },
+  {
+   "baslik": "Net konuş, ölçülü kal",
+   "aciklama": "Bugün bir konuda görüşünü net ama ölçülü bir dille ifade et."
+  }
+ ],
+ "bugununAdimi": "Bugün, herhangi bir alanda haddi aştığını fark ettiğin bir davranışını sınırına geri çek.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=81"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/81"
+  }
+ ]
+}
