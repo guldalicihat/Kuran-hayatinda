@@ -1,0 +1,201 @@
+{
+ "sure": 4,
+ "ayet": 74,
+ "durum": "taslak",
+ "meal": "Dünya hayatını ahiret karşılığında satanlar, Allah yolunda savaşsınlar. Kim Allah yolunda savaşır da öldürülür ya da galip gelirse, ona büyük bir ödül vereceğiz.",
+ "mealNotu": "'Yeşrûne' kökü hem satmayı hem satın almayı içerir; burada 'dünya hayatını ahiret karşılığında satan/değiştiren' anlamındadır. Ayet, savaşın gerekçesini dünya-ahiret tercihine bağlar.",
+ "kokler": [
+  {
+   "kelime": "فَلْيُقَٰتِلْ",
+   "okunus": "felyükâtil",
+   "kok": "قتل",
+   "kokAnlam": "öldürme; karşılıklı savaşma",
+   "karsilik": "savaşsın"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler ki",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "يَشْرُونَ",
+   "okunus": "yeşrûne",
+   "kok": "شري",
+   "kokAnlam": "satma, satın alma",
+   "karsilik": "satan"
+  },
+  {
+   "kelime": "ٱلْحَيَوٰةَ",
+   "okunus": "elhayâte",
+   "kok": "حيي",
+   "kokAnlam": "canlı olma; hayat",
+   "karsilik": "hayatı"
+  },
+  {
+   "kelime": "ٱلدُّنْيَا",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakın olma; dünya, yakın hayat",
+   "karsilik": "dünya"
+  },
+  {
+   "kelime": "بِٱلْءَاخِرَةِ",
+   "okunus": "bil âhırati",
+   "kok": "أخر",
+   "kokAnlam": "sonraki, son; ahiret",
+   "karsilik": "ahiret karşılığında"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "يُقَٰتِلْ",
+   "okunus": "yükâtil",
+   "kok": "قتل",
+   "kokAnlam": "öldürme; karşılıklı savaşma",
+   "karsilik": "savaşırsa"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَيُقْتَلْ",
+   "okunus": "feyüktel",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürülürse"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "يَغْلِبْ",
+   "okunus": "yağlib",
+   "kok": "غلب",
+   "kokAnlam": "üstün gelme, yenme",
+   "karsilik": "galip gelirse"
+  },
+  {
+   "kelime": "فَسَوْفَ",
+   "okunus": "fesevfe",
+   "kok": "—",
+   "kokAnlam": "(gelecek) yakında, ileride",
+   "karsilik": "yakında elbette"
+  },
+  {
+   "kelime": "نُؤْتِيهِ",
+   "okunus": "nü'tîhi",
+   "kok": "أتي",
+   "kokAnlam": "gelme; verme",
+   "karsilik": "ona vereceğiz"
+  },
+  {
+   "kelime": "أَجْرًا",
+   "okunus": "ecran",
+   "kok": "أجر",
+   "kokAnlam": "karşılık, ücret; ödül",
+   "karsilik": "bir ödül"
+  },
+  {
+   "kelime": "عَظِيمًا",
+   "okunus": "azîmen",
+   "kok": "عظم",
+   "kokAnlam": "büyüklük",
+   "karsilik": "büyük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki iki ayet, sefer/savaş çağrısına karşı isteksiz ve fırsatçı davrananları anlatmıştı; bu ayet gerçek bir bağlılığın ölçüsünü koyar: dünya hayatını ahiret karşılığında satmayı göze alanlar Allah yolunda savaşsın. Bu, çıkar hesabı yapmadan bir değeri tercih etmeyi anlatır.",
+  "Ayet, iki olası sonucu -ölüm ya da galibiyet- eşit bir vaatle karşılar: her iki durumda da büyük bir ödül vardır. Bu bölüm (58-74. ayetler) tarihsel olarak dönemin savunma savaşı bağlamındadır; klasik tefsir bunu, o günün şartlarına bağlı özel bir çağrı olarak açıklar ve genel bir savaş teşviki biçiminde okumaz."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "9:111",
+   "meal": "Şüphesiz Allah müminlerden canlarını ve mallarını, karşılığında cennet kendilerinin olması karşılığında satın almıştır; Allah yolunda savaşırlar, öldürürler ve öldürülürler.",
+   "baglanti": "'Satma/satın alma' mecazı ve Allah yolunda can verme teması, burada da aynı şekilde işlenir."
+  },
+  {
+   "ref": "3:169",
+   "meal": "Allah yolunda öldürülenleri sakın ölüler sanma; bilakis onlar diridirler, Rableri katında rızıklandırılırlar.",
+   "baglanti": "Bu ayet, 4:74'teki 'öldürülürse büyük ödül vardır' vaadinin açıklamasıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dönemin savunma savaşında gerçek bağlılığın ölçüsüdür; bu özel bir tarihsel ve askeri bağlamdır, günümüze doğrudan bir savaş çağrısı olarak aktarılmamalıdır.",
+  "Bugüne taşınabilecek genel ders, bir değeri gerçekten önemsiyorsan bunun bedelini göze almaktır. Kolay olan geçici çıkarları, önemli ve kalıcı bir değerin önüne koymamak, bu ayetten çıkarılabilecek bir ilkedir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bedelini göze al",
+   "aciklama": "Önemsediğin bir değeri savunurken, bugün küçük bir zorluğu veya konforu feda etmeyi göze al."
+  },
+  {
+   "baslik": "Geçiciyi kalıcıya feda etme",
+   "aciklama": "Kısa vadeli bir kazanç için uzun vadeli bir değerden ödün vermediğinden bugün emin ol."
+  },
+  {
+   "baslik": "Tutarlı dur",
+   "aciklama": "Savunduğun bir ilkeyi, zor bir anda da aynı kararlılıkla sürdür."
+  }
+ ],
+ "bugununAdimi": "Bugün önemsediğin bir değeri, küçük de olsa bir bedel göze alarak savun.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=74"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/74"
+  }
+ ]
+}

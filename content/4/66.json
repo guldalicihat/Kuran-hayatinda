@@ -1,0 +1,243 @@
+{
+ "sure": 4,
+ "ayet": 66,
+ "durum": "taslak",
+ "meal": "Eğer onlara, 'Kendinizi öldürün' ya da 'Yurtlarınızdan çıkın' diye yazsaydık, içlerinden pek azı dışında bunu yapmazlardı. Kendilerine verilen öğüdü yerine getirselerdi, elbette bu onlar için daha hayırlı ve sebatı daha güçlendirici olurdu.",
+ "mealNotu": "Bu ayet, gerçekleşmemiş bir varsayımı ('eğer yazsaydık') anlatır; Allah'ın böyle ağır bir yük koymadığını, bunun yerine daha hafif bir öğüt istediğini ima eder. Kelimelerde olmayan bir yorum eklenmemiştir.",
+ "kokler": [
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَنَّا",
+   "okunus": "ennâ",
+   "kok": "—",
+   "kokAnlam": "(tekid) bizim gerçekten",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "كَتَبْنَا",
+   "okunus": "ketebnâ",
+   "kok": "كتب",
+   "kokAnlam": "yazma; farz kılma",
+   "karsilik": "yazsaydık"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "أَنِ",
+   "okunus": "eni",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki, diye",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "ٱقْتُلُوٓا۟",
+   "okunus": "uktülû",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "kendinizi öldürün"
+  },
+  {
+   "kelime": "أَنفُسَكُمْ",
+   "okunus": "enfüseküm",
+   "kok": "نفس",
+   "kokAnlam": "kendilik, benlik, nefis",
+   "karsilik": "kendinizi"
+  },
+  {
+   "kelime": "أَوِ",
+   "okunus": "evi",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "ٱخْرُجُوا۟",
+   "okunus": "uhrucû",
+   "kok": "خرج",
+   "kokAnlam": "dışarı çıkma",
+   "karsilik": "çıkın"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دِيَٰرِكُم",
+   "okunus": "diyâriküm",
+   "kok": "دور",
+   "kokAnlam": "dönüp durma; yurt, mesken",
+   "karsilik": "yurtlarınızdan"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ...madı",
+   "karsilik": "...madı"
+  },
+  {
+   "kelime": "فَعَلُوهُ",
+   "okunus": "fealûhü",
+   "kok": "فعل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "onu yapmazlardı"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) dışında, ancak",
+   "karsilik": "dışında"
+  },
+  {
+   "kelime": "قَلِيلٌ",
+   "okunus": "kalîlün",
+   "kok": "قلل",
+   "kokAnlam": "azlık",
+   "karsilik": "pek azı"
+  },
+  {
+   "kelime": "مِّنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) içlerinden",
+   "karsilik": "içlerinden"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "أَنَّهُمْ",
+   "okunus": "ennehüm",
+   "kok": "—",
+   "kokAnlam": "(tekid) onların gerçekten",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "فَعَلُوا۟",
+   "okunus": "fealû",
+   "kok": "فعل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "yapsalardı"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "يُوعَظُونَ",
+   "okunus": "yûazûne",
+   "kok": "وعظ",
+   "kokAnlam": "öğüt verme, uyarma",
+   "karsilik": "kendilerine öğüt verilen"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "لَكَانَ",
+   "okunus": "lekâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "elbette olurdu"
+  },
+  {
+   "kelime": "خَيْرًا",
+   "okunus": "hayran",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "daha hayırlı"
+  },
+  {
+   "kelime": "لَّهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar için",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "وَأَشَدَّ",
+   "okunus": "ve eşedde",
+   "kok": "شدد",
+   "kokAnlam": "şiddetlenme, güçlenme; daha güçlü",
+   "karsilik": "ve daha güçlü"
+  },
+  {
+   "kelime": "تَثْبِيتًا",
+   "okunus": "tesbîten",
+   "kok": "ثبت",
+   "kokAnlam": "sağlamlaşma, sebat etme",
+   "karsilik": "sebat bakımından"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayette istenen tam teslimiyetin ne kadar ağır bir yük olmadığını gösterir. Allah, kendini öldürmek ya da yurdundan çıkmak gibi ağır bir emir vermemiş, bunun yerine daha hafif bir öğüt vermiştir. Ayet, böyle ağır bir emir verilseydi bile pek azının bunu yerine getireceğini söyleyerek insan zaafına da işaret eder.",
+  "Ayetin ikinci kısmı, kendilerine verilen -daha hafif- öğüdü yerine getirmenin onlar için daha hayırlı ve sebatlarını güçlendirici olacağını belirtir. Klasik tefsir bunu, ağır yükümlülükler yerine gücün yettiği ölçüde itaatin tercih edilmesi ilkesiyle ilişkilendirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:286",
+   "meal": "Allah hiç kimseye gücünün yeteceğinden fazlasını yüklemez.",
+   "baglanti": "Burada da Allah'ın ağır değil, gücün yeteceği bir öğüt istediği vurgulanır."
+  },
+  {
+   "ref": "47:21",
+   "meal": "İtaat ve güzel söz onlar için daha hayırlıdır. İş ciddileştiğinde, Allah'a verdikleri söze sadık kalsalardı, elbette kendileri için daha hayırlı olurdu.",
+   "baglanti": "İtaatin ve verilen sözde sebat etmenin daha hayırlı olduğu teması, burada da vardır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah'ın ağır bir yük yerine daha hafif bir öğüt istemesidir; bu, dinî yükümlülüklerin kolaylık ilkesiyle ilgilidir.",
+  "Bugüne taşınabilecek ders, sana verilen makul bir öğüdü, daha ağır bir şey istenmediği için küçümsememek, gücünün yettiği bu kolay adımı gerçekten yerine getirmektir. Kolay olan bir iyiliği ertelemek, aslında büyük bir fırsatı kaçırmaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kolay öğüdü uygula",
+   "aciklama": "Sana defalarca verilmiş ama uygulamadığın basit bir öğüdü bugün hayata geçir."
+  },
+  {
+   "baslik": "Ağır değil, mümkün olanı yap",
+   "aciklama": "Kendine 'imkânsız' dediğin bir hedefi, aslında yapabileceğin küçük bir adıma indir."
+  },
+  {
+   "baslik": "Sebatını güçlendir",
+   "aciklama": "Bıraktığın iyi bir alışkanlığı bugün yeniden, küçük bir ölçekte başlat."
+  }
+ ],
+ "bugununAdimi": "Bugün sana verilmiş ama ertelediğin kolay bir öğüdü seç ve hemen uygula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=66"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/66"
+  }
+ ]
+}

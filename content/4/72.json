@@ -1,0 +1,173 @@
+{
+ "sure": 4,
+ "ayet": 72,
+ "durum": "taslak",
+ "meal": "İçinizden ağırdan alacak kimseler mutlaka vardır. Size bir musibet geldiğinde, 'Allah bana lütfetti de onlarla beraber bulunmadım' der.",
+ "mealNotu": "'Yübettıenne' kökü, isteksizce geride kalmayı, ağırdan almayı anlatır. 'Şehîd' burada 'hazır bulunan, tanık olan' anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "وَإِنَّ",
+   "okunus": "ve inne",
+   "kok": "—",
+   "kokAnlam": "(tekid) ve şüphesiz",
+   "karsilik": "ve şüphesiz"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) içinizden",
+   "karsilik": "içinizden"
+  },
+  {
+   "kelime": "لَمَن",
+   "okunus": "lemen",
+   "kok": "—",
+   "kokAnlam": "(ilgi+tekid) kesinlikle bir kimse",
+   "karsilik": "kesinlikle bir kimse"
+  },
+  {
+   "kelime": "لَّيُبَطِّئَنَّ",
+   "okunus": "leyübettıenne",
+   "kok": "بطأ",
+   "kokAnlam": "geride kalma, ağırdan alma",
+   "karsilik": "mutlaka ağırdan alır"
+  },
+  {
+   "kelime": "فَإِنْ",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَصَٰبَتْكُم",
+   "okunus": "esâbetküm",
+   "kok": "صوب",
+   "kokAnlam": "isabet etme",
+   "karsilik": "size gelirse"
+  },
+  {
+   "kelime": "مُّصِيبَةٌ",
+   "okunus": "müsîbetün",
+   "kok": "صوب",
+   "kokAnlam": "isabet etme; musibet",
+   "karsilik": "bir musibet"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "der"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "أَنْعَمَ",
+   "okunus": "en'ame",
+   "kok": "نعم",
+   "kokAnlam": "nimet verme",
+   "karsilik": "lütfetti"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلَىَّ",
+   "okunus": "aleyye",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) bana",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) ki, o zaman",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ...madı",
+   "karsilik": "...madım"
+  },
+  {
+   "kelime": "أَكُن",
+   "okunus": "eküm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmadım"
+  },
+  {
+   "kelime": "مَّعَهُمْ",
+   "okunus": "meahüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlarla beraber",
+   "karsilik": "onlarla beraber"
+  },
+  {
+   "kelime": "شَهِيدًا",
+   "okunus": "şehîden",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik etme; hazır bulunan",
+   "karsilik": "hazır bulunan biri olarak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayet savaşa/sefere çıkmayı emretmişti; bu ayet içlerinden bazılarının bu çağrıya isteksizce, ağırdan alarak yaklaştığını anlatır. Bu kişiler, bir musibet haberi gelince orada bulunmadıklarına sevinerek konuşurlar.",
+  "'Allah bana lütfetti de onlarla olmadım' sözü, samimiyetsiz bir dindarlık gösterisidir; asıl sebep korkaklık ve isteksizliktir ama bu, dinî bir söylemle örtülür. Klasik tefsir bu tavrı, münafıkların savaş karşısındaki tutumlarından biri olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "9:81",
+   "meal": "Allah'ın Resûlüne aykırı davranarak geride kalanlar, oturup kalmalarına sevindiler.",
+   "baglanti": "Sefere katılmayıp buna sevinen tutum, burada da açıkça anlatılır."
+  },
+  {
+   "ref": "4:73",
+   "meal": "Eğer size Allah'tan bir lütuf erişirse, sanki sizinle onun arasında hiç tanışıklık yokmuş gibi, 'Keşke onlarla beraber olsaydım da büyük bir başarıya erseydim' der.",
+   "baglanti": "Bu iki ayet, aynı kişinin farklı sonuçlar karşısındaki iki yüzlü tepkisini bir bütün olarak gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ortak bir sorumluluktan (sefer/savaş) kaçınıp sonra bunu dinî bir sözle meşrulaştırmaktır; bu tarihsel bir savaş bağlamıdır.",
+  "Bugüne taşınabilecek ders, bir sorumluluktan kaçtıktan sonra bunu 'şanslıymışım' gibi göstermek yerine, dürüstçe isteksizliğini kabul etmektir. Kaçınmayı bir nimet gibi sunmak, kişiyi kendine karşı da dürüst olmaktan alıkoyar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaçındığını kabul et",
+   "aciklama": "Bir sorumluluktan kaçtıysan, bunu kendine karşı dürüstçe itiraf et, gerekçe uydurma."
+  },
+  {
+   "baslik": "Ortak işte yerini al",
+   "aciklama": "Bugün bir ekip işinde üzerine düşeni, isteksiz de olsa eksiksiz yap."
+  },
+  {
+   "baslik": "Şükrü doğru yerde kullan",
+   "aciklama": "Bir zorluktan kurtulduğunda şükret, ama bunu başkasının zorluğuna kayıtsızlık gerekçesi yapma."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ortak sorumluluktan kaçındıysan, bunu kendine itiraf edip yarın için bir telafi planı yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=72"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/72"
+  }
+ ]
+}
