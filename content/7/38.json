@@ -1,0 +1,334 @@
+{
+ "sure": 7,
+ "ayet": 38,
+ "durum": "taslak",
+ "meal": "Allah buyurur: 'Sizden önce gelip geçmiş cin ve insan topluluklarıyla birlikte ateşe girin.' Her ümmet girdikçe kardeşine lanet eder. Nihayet hepsi orada birbirine yetişip toplandığında, sonrakiler öncekiler için: 'Rabbimiz! Bizi bunlar saptırdı, onlara ateşten kat kat azap ver' der. Allah buyurur: 'Her biri için kat kattır, fakat bilmezsiniz.'",
+ "mealNotu": "'Ümmet' kökü topluluk anlamındadır; 'iddârakû' fiili birbirine yetişip bir araya gelmeyi ifade eder. 'Dı'f' kökü kat kat, katmerli anlamına gelir.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "buyurur"
+  },
+  {
+   "kelime": "ٱدْخُلُوا۟",
+   "okunus": "udhulû",
+   "kok": "دخل",
+   "kokAnlam": "girme",
+   "karsilik": "girin"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içine",
+   "karsilik": "içine"
+  },
+  {
+   "kelime": "أُمَمٍ",
+   "okunus": "ümemin",
+   "kok": "أمم",
+   "kokAnlam": "topluluk, ümmet",
+   "karsilik": "topluluklarla"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "خَلَتْ",
+   "okunus": "halet",
+   "kok": "خلو",
+   "kokAnlam": "geçip gitme",
+   "karsilik": "gelip geçmiş"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِكُم",
+   "okunus": "kabliküm",
+   "kok": "قبل",
+   "kokAnlam": "önce",
+   "karsilik": "sizden önce"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْجِنِّ",
+   "okunus": "elcinni",
+   "kok": "جنن",
+   "kokAnlam": "gizlenme; cin",
+   "karsilik": "cin"
+  },
+  {
+   "kelime": "وَٱلْإِنسِ",
+   "okunus": "vel insi",
+   "kok": "أنس",
+   "kokAnlam": "ünsiyet; insan",
+   "karsilik": "ve insan"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içine"
+  },
+  {
+   "kelime": "ٱلنَّارِ",
+   "okunus": "ennâri",
+   "kok": "نور",
+   "kokAnlam": "ışık, alev; ateş",
+   "karsilik": "ateşe"
+  },
+  {
+   "kelime": "كُلَّمَا",
+   "okunus": "küllemâ",
+   "kok": "كلل",
+   "kokAnlam": "her; her defasında",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "دَخَلَتْ",
+   "okunus": "dehalet",
+   "kok": "دخل",
+   "kokAnlam": "girme",
+   "karsilik": "girdikçe"
+  },
+  {
+   "kelime": "أُمَّةٌ",
+   "okunus": "ümmetün",
+   "kok": "أمم",
+   "kokAnlam": "topluluk, ümmet",
+   "karsilik": "bir ümmet"
+  },
+  {
+   "kelime": "لَّعَنَتْ",
+   "okunus": "leanet",
+   "kok": "لعن",
+   "kokAnlam": "lanet etme, uzaklaştırma",
+   "karsilik": "lanet eder"
+  },
+  {
+   "kelime": "أُخْتَهَا",
+   "okunus": "ühtehâ",
+   "kok": "أخو",
+   "kokAnlam": "kız kardeş",
+   "karsilik": "kardeşine"
+  },
+  {
+   "kelime": "حَتَّىٰٓ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) nihayet, ta ki",
+   "karsilik": "nihayet"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -diğinde",
+   "karsilik": "-diğinde"
+  },
+  {
+   "kelime": "ٱدَّارَكُوا۟",
+   "okunus": "iddârakû",
+   "kok": "درك",
+   "kokAnlam": "birbirine yetişme, erişme",
+   "karsilik": "birbirine yetişip toplandıklarında"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) orada",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "جَمِيعًا",
+   "okunus": "cemîan",
+   "kok": "جمع",
+   "kokAnlam": "toplanma, bütün",
+   "karsilik": "hepsi"
+  },
+  {
+   "kelime": "قَالَتْ",
+   "okunus": "kâlet",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "der"
+  },
+  {
+   "kelime": "أُخْرَىٰهُمْ",
+   "okunus": "ührâhüm",
+   "kok": "أخر",
+   "kokAnlam": "sonraki, diğeri",
+   "karsilik": "sonrakiler"
+  },
+  {
+   "kelime": "لِأُولَىٰهُمْ",
+   "okunus": "liûlâhüm",
+   "kok": "أول",
+   "kokAnlam": "ilk, önceki",
+   "karsilik": "öncekiler için"
+  },
+  {
+   "kelime": "رَبَّنَا",
+   "okunus": "rabbenâ",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, terbiye etme",
+   "karsilik": "Rabbimiz"
+  },
+  {
+   "kelime": "هَٰٓؤُلَآءِ",
+   "okunus": "hâülâi",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunlar",
+   "karsilik": "bunlar"
+  },
+  {
+   "kelime": "أَضَلُّونَا",
+   "okunus": "edallûnâ",
+   "kok": "ضلل",
+   "kokAnlam": "saptırma",
+   "karsilik": "bizi saptırdı"
+  },
+  {
+   "kelime": "فَـَٔاتِهِمْ",
+   "okunus": "feâtihim",
+   "kok": "أتي",
+   "kokAnlam": "verme, getirme",
+   "karsilik": "onlara ver"
+  },
+  {
+   "kelime": "عَذَابًا",
+   "okunus": "azâben",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "azap"
+  },
+  {
+   "kelime": "ضِعْفًا",
+   "okunus": "dı'fen",
+   "kok": "ضعف",
+   "kokAnlam": "kat, katmerli",
+   "karsilik": "kat kat"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلنَّارِ",
+   "okunus": "ennâri",
+   "kok": "نور",
+   "kokAnlam": "ışık, alev; ateş",
+   "karsilik": "ateşten"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "buyurur"
+  },
+  {
+   "kelime": "لِكُلٍّ",
+   "okunus": "liküllin",
+   "kok": "كلل",
+   "kokAnlam": "her biri",
+   "karsilik": "her biri için"
+  },
+  {
+   "kelime": "ضِعْفٌ",
+   "okunus": "dı'fün",
+   "kok": "ضعف",
+   "kokAnlam": "kat, katmerli",
+   "karsilik": "kat kattır"
+  },
+  {
+   "kelime": "وَلَٰكِن",
+   "okunus": "ve lâkin",
+   "kok": "—",
+   "kokAnlam": "(düzeltme) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mez",
+   "karsilik": "-mezsiniz"
+  },
+  {
+   "kelime": "تَعْلَمُونَ",
+   "okunus": "ta'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilirsiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayette sözü edilen kişilere Allah'ın 'ateşe girin' emrini nakleder; onlar, kendilerinden önce gelip geçmiş cin ve insan topluluklarıyla birlikte cehenneme girerler. 'Her ümmet girdikçe kardeşine lanet eder' ifadesi, dünyada birbirine bağlı olan grupların ahirette birbirini suçlamaya başladığını gösterir.",
+  "Sonrakiler (izleyenler), öncekiler (önderler) hakkında Allah'a şikâyette bulunup onlara kat kat azap verilmesini isterler. Allah'ın cevabı, herkesin kendi payına düşen azabı zaten kat kat alacağı, ama bunu bilmediklerine dairdir. Klasik tefsir bu sahneyi, dünyada saptıran önderlerle onlara uyanlar arasındaki karşılıklı sorumluluk tartışması olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "41:29",
+   "meal": "İnkâr edenler derler ki: 'Rabbimiz! Cinlerden ve insanlardan bizi saptıranları bize göster de ayaklarımızın altına alalım, en aşağılıklardan olsunlar.'",
+   "baglanti": "Ahirette izleyenlerin kendilerini saptıranlara duyduğu öfkeyi somutlaştırır; 7:38'deki 'kardeşine lanet etme' sahnesiyle aynı temayı taşır."
+  },
+  {
+   "ref": "34:32",
+   "meal": "Büyüklük taslayanlar, zayıf görülenlere derler ki: 'Size hidayet geldikten sonra sizi biz mi ondan alıkoyduk? Hayır, siz zaten suçlulardınız.'",
+   "baglanti": "Önderlerin, kendilerine yöneltilen suçlamaya verdiği cevabı gösterir; 7:38'de öncekilerin sessiz kaldığı yeri tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ahiretteki topluluklar arası suçlamadır; bu, dünyevi bir hukuk kuralı değil, kıyamet sahnesidir. Yine de bir ders çıkarılabilir: bir başkasını sorgulamadan izlemek, o kişi yanlış yaptığında sorumluluğu ortadan kaldırmaz.",
+  "Günlük hayatta, bir lidere veya gruba katılırken sorgulamadan takip etmek yerine kendi aklını ve vicdanını da kullanmak gerekir. Sonrakiler öncekileri suçlasa da, ayet her ikisine de kat kat karşılık olduğunu söyler; yani izleyen de sorumluluktan tamamen muaf değildir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kör takip etme",
+   "aciklama": "Bugün bir görüşü veya kararı, kimin söylediğine bakmadan doğruluğunu düşünerek değerlendir."
+  },
+  {
+   "baslik": "Sorumluluğunu üstlen",
+   "aciklama": "Başkasının etkisiyle yaptığın bir hatayı, 'o söyledi' diye geçiştirmeden kabul et."
+  },
+  {
+   "baslik": "Yönlendirirken dürüst ol",
+   "aciklama": "Birine tavsiye vereceğin bir konuda, önce bilginin doğruluğundan emin ol."
+  }
+ ],
+ "bugununAdimi": "Bugün birini bir konuda yönlendirmeden önce, söyleyeceğin şeyin doğruluğunu bir kez daha kontrol et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=38"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/38"
+  }
+ ]
+}

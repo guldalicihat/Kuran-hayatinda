@@ -1,0 +1,313 @@
+{
+ "sure": 7,
+ "ayet": 37,
+ "durum": "taslak",
+ "meal": "Allah'a karşı yalan uydurandan veya O'nun ayetlerini yalanlayandan daha zalim kim olabilir? İşte onlara kitaptan nasipleri erişir. Nihayet elçilerimiz gelip canlarını alırken, 'Allah'ı bırakıp taptıklarınız nerede?' derler. Onlar da 'Bizden kayboldular' derler ve kendi aleyhlerine, inkâr eden kimseler olduklarına şahitlik ederler.",
+ "mealNotu": "'İfterâ' kökü bilerek yalan uydurmayı, 'kezzebe' kökü gerçeği reddetmeyi anlatır. 'Kitaptan nasip' ifadesi kişinin yazgısındaki ömür ve rızık payını, 'yeteveffevnehüm' fiili ise canı almayı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "فَمَنْ",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(soru) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "أَظْلَمُ",
+   "okunus": "azlemü",
+   "kok": "ظلم",
+   "kokAnlam": "zulüm; en zalim",
+   "karsilik": "daha zalim"
+  },
+  {
+   "kelime": "مِمَّنِ",
+   "okunus": "mimmeni",
+   "kok": "—",
+   "kokAnlam": "(edat) -den, kimden",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱفْتَرَىٰ",
+   "okunus": "ifterâ",
+   "kok": "فري",
+   "kokAnlam": "uydurma, yalan yakıştırma",
+   "karsilik": "uydurandan"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine, karşı",
+   "karsilik": "karşı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "كَذِبًا",
+   "okunus": "keziben",
+   "kok": "كذب",
+   "kokAnlam": "yalan",
+   "karsilik": "yalan"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "كَذَّبَ",
+   "okunus": "kezzebe",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanlayandan"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِهِۦٓ",
+   "okunus": "biâyâtihî",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "O'nun ayetlerini"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte onlara"
+  },
+  {
+   "kelime": "يَنَالُهُمْ",
+   "okunus": "yenâlühüm",
+   "kok": "نيل",
+   "kokAnlam": "erişme, ulaşma",
+   "karsilik": "erişir"
+  },
+  {
+   "kelime": "نَصِيبُهُم",
+   "okunus": "nesîbühüm",
+   "kok": "نصب",
+   "kokAnlam": "pay, nasip",
+   "karsilik": "nasipleri"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap, yazgı",
+   "karsilik": "kitaptan"
+  },
+  {
+   "kelime": "حَتَّىٰٓ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) nihayet, ta ki",
+   "karsilik": "nihayet"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -diğinde",
+   "karsilik": "-diğinde"
+  },
+  {
+   "kelime": "جَآءَتْهُمْ",
+   "okunus": "câethüm",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "onlara geldiğinde"
+  },
+  {
+   "kelime": "رُسُلُنَا",
+   "okunus": "rusülünâ",
+   "kok": "رسل",
+   "kokAnlam": "gönderilen, elçi",
+   "karsilik": "elçilerimiz"
+  },
+  {
+   "kelime": "يَتَوَفَّوْنَهُمْ",
+   "okunus": "yeteveffevnehüm",
+   "kok": "وفي",
+   "kokAnlam": "tam alma; canını alma",
+   "karsilik": "canlarını alırken"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "أَيْنَ",
+   "okunus": "eyne",
+   "kok": "—",
+   "kokAnlam": "(soru) nerede",
+   "karsilik": "nerede"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şeyler"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduğunuz"
+  },
+  {
+   "kelime": "تَدْعُونَ",
+   "okunus": "ted'ûne",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, tapınma",
+   "karsilik": "taptıklarınız"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِ",
+   "okunus": "dûni",
+   "kok": "دون",
+   "kokAnlam": "aşağı, öte; -sız",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "ضَلُّوا۟",
+   "okunus": "dallû",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, gözden kaybolma",
+   "karsilik": "kayboldular"
+  },
+  {
+   "kelime": "عَنَّا",
+   "okunus": "annâ",
+   "kok": "—",
+   "kokAnlam": "(edat) bizden",
+   "karsilik": "bizden"
+  },
+  {
+   "kelime": "وَشَهِدُوا۟",
+   "okunus": "ve şehidû",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık etme",
+   "karsilik": "şahitlik ederler"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) aleyhine",
+   "karsilik": "aleyhine"
+  },
+  {
+   "kelime": "أَنفُسِهِمْ",
+   "okunus": "enfüsihim",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "kendi"
+  },
+  {
+   "kelime": "أَنَّهُمْ",
+   "okunus": "ennehüm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten onlar",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduklarına"
+  },
+  {
+   "kelime": "كَٰفِرِينَ",
+   "okunus": "kâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örten, inkâr eden",
+   "karsilik": "inkâr eden kimseler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerde sözü edilen 'ayetleri yalanlayıp büyüklenenler'in kim olduğunu netleştirir: Allah'a yalan yakıştıran veya O'nun ayetlerini yalanlayan kişi. 'İfterâ' kökü bilerek yalan uydurmayı, 'kezzebe' kökü ise gerçeği bile bile reddetmeyi anlatır. Böyle kişilerin de dünyada bir 'nasip'i vardır; ömür, rızık ve imkân onlara da yazgılarınca verilir.",
+  "Sahne, ölüm anına geçer. Canlarını alan elçiler geldiğinde, o kişilere eskiden taptıkları şeylerin nerede olduğu sorulur. Cevapları açık bir itiraftır: taptıkları şeyler ortadan kaybolmuştur ve kendileri, inkâr içinde olduklarına dair kendi aleyhlerine tanıklık ederler. Klasik tefsir, 'kitaptan nasip' ifadesini kişinin dünyadaki eceli ve rızkı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:21",
+   "meal": "Allah'a karşı yalan uydurandan veya O'nun ayetlerini yalanlayandan daha zalim kim olabilir? Şüphesiz zalimler kurtuluşa eremezler.",
+   "baglanti": "Aynı 'kim daha zalimdir' sorusu neredeyse birebir aynı ifadeyle tekrarlanır; bu ayetin girişini doğrudan açıklar."
+  },
+  {
+   "ref": "6:93",
+   "meal": "Allah'a karşı yalan uydurandan, ya da kendisine hiçbir şey vahyolunmadığı hâlde 'Bana vahyolundu' diyenden daha zalim kim olabilir? Zalimler ölümün sıkıntıları içindeyken, melekler ellerini uzatıp 'Canlarınızı çıkarın; bugün, Allah'a karşı gerçek olmayanı söylediğiniz ve O'nun ayetlerine karşı büyüklendiğiniz için alçaltıcı bir azapla cezalandırılacaksınız' derler.",
+   "baglanti": "Bu ayet, 7:37'deki ölüm anındaki 'elçilerimiz canlarını alırken' sahnesini meleklerin elini uzatmasıyla daha ayrıntılı tasvir eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah adına yalan söylemek ya da O'nun ayetlerini reddetmektir; bu ağır bir suçlamadır ve herkes için geçerli değildir. Ancak ayetteki 'ölüm anında hesap sorulma' sahnesi, insanın bugün inandığı ve güvendiği şeylerin son anda gerçekten yanında olup olmayacağını düşündürür.",
+  "Günlük hayatta bu, kişinin neye güvendiğini gözden geçirmesi demektir. Para, statü, insan onayı gibi 'Allah'ı bırakıp' bel bağlanan şeyler, zor bir anda gerçekten yardımcı olabilir mi? Ayet, bu sorunun cevabını ölüm sahnesiyle verir: geçici dayanaklar kaybolur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Güvendiğin şeyi sorgula",
+   "aciklama": "Bugün, zorlandığında ilk kime veya neye sığındığını düşün; bu gerçekten güvenilir bir dayanak mı?"
+  },
+  {
+   "baslik": "Doğru söz söyle",
+   "aciklama": "Bugün dini veya önemli bir konuda bilmediğin bir şeyi kesin gibi söylemekten kaçın."
+  },
+  {
+   "baslik": "Kısa bir hesap tut",
+   "aciklama": "Akşam, gün içinde neye gerçekten güvenerek hareket ettiğini birkaç cümleyle yaz."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararını verirken, 'Buna gerçekten güvenebilir miyim?' sorusunu kendine sor ve cevabını yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=37"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/37"
+  }
+ ]
+}

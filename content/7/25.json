@@ -1,0 +1,103 @@
+{
+ "sure": 7,
+ "ayet": 25,
+ "durum": "taslak",
+ "meal": "Dedi: 'Orada yaşayacaksınız, orada öleceksiniz ve oradan çıkarılacaksınız.'",
+ "mealNotu": "'Tahyevne' ve 'temûtûne' kökleri hayat ve ölümü, 'tühracûn' ise dışarı çıkarılmayı anlatır; bu, yeniden dirilişe işaret eder.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) orada",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "تَحْيَوْنَ",
+   "okunus": "tahyevne",
+   "kok": "حيي",
+   "kokAnlam": "yaşama, hayatta olma",
+   "karsilik": "yaşayacaksınız"
+  },
+  {
+   "kelime": "وَفِيهَا",
+   "okunus": "ve fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ve orada",
+   "karsilik": "ve orada"
+  },
+  {
+   "kelime": "تَمُوتُونَ",
+   "okunus": "temûtûne",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "öleceksiniz"
+  },
+  {
+   "kelime": "وَمِنْهَا",
+   "okunus": "ve minhâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ve oradan",
+   "karsilik": "ve oradan"
+  },
+  {
+   "kelime": "تُخْرَجُونَ",
+   "okunus": "tühracûne",
+   "kok": "خرج",
+   "kokAnlam": "dışarı çıkarma",
+   "karsilik": "çıkarılacaksınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Yeryüzüne iniş emrinden hemen sonra gelen bu ayet, o hayatın çerçevesini üç aşamada özetler: yaşama, ölme, sonra tekrar çıkarılma. 'Tühracûn' kökü 'çıkarılma' anlamındadır ve edilgen bir fiil olarak kullanılır; yani bu çıkış insanın kendi eylemi değil, kendisine yapılan bir şeydir.",
+  "Bu üçlü sıralama, yeryüzü hayatının tek başına bir son olmadığını, ölümün de bir son olmadığını bildirir. Klasik tefsir 'oradan çıkarılacaksınız' ifadesini kıyamet günü kabirlerden diriltilip çıkarılma olarak açıklar; böylece ayet, yeryüzü hayatını âhiretle birlikte bir bütün olarak sunar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "20:55",
+   "meal": "Sizi ondan (yerden) yarattık, yine ona döndüreceğiz ve bir kez daha ondan çıkaracağız.",
+   "baglanti": "Tâhâ suresi aynı döngüyü, yaratılış-ölüm-yeniden çıkarılış olarak tekrar eder; A'râf 25'teki üçlü sıralamayla örtüşür."
+  },
+  {
+   "ref": "23:16",
+   "meal": "Sonra siz, kıyamet günü mutlaka diriltileceksiniz.",
+   "baglanti": "'Oradan çıkarılacaksınız' ifadesinin neye işaret ettiğini, kıyamet günü dirilişi açıkça belirten bu ayet netleştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu insanın yeryüzündeki hayat-ölüm-diriliş döngüsüdür; bu, herkesi kapsayan genel bir bildirimdir.",
+  "Bugüne taşınabilecek ders, hayatın tek bir aşamadan ibaret görülmemesidir. Ölümün son olmadığını bilmek, bugünkü kararları yalnız dünyevi sonuçlarına göre değil, daha büyük bir çerçevede değerlendirmeyi sağlar. Bu bakış, hem ölçülü yaşamaya hem de sorumluluk almaya teşvik eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kararını uzun vadede tart",
+   "aciklama": "Bugün vereceğin bir kararı, yalnız bugünkü değil daha büyük sonuçlarını düşünerek ver."
+  },
+  {
+   "baslik": "Geçiciliği hatırla",
+   "aciklama": "Bugün elindeki bir imkânın kalıcı olmadığını bir kez kendine hatırlat."
+  },
+  {
+   "baslik": "Hazırlığını gözden geçir",
+   "aciklama": "Bugün, ölüm sonrası için yaptığın somut bir hazırlığı (dua, sadaka, ilişki düzeltme) gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün, yarın olmayacakmışsın gibi düşünüp ertelediğin bir işi tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=25"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/25"
+  }
+ ]
+}

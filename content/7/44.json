@@ -1,0 +1,250 @@
+{
+ "sure": 7,
+ "ayet": 44,
+ "durum": "taslak",
+ "meal": "Cennet ehli, cehennem ehline seslenir: 'Rabbimizin bize vadettiğini gerçek bulduk; siz de Rabbinizin size vadettiğini gerçek buldunuz mu?' derler. Onlar da 'Evet' derler. Bunun üzerine aralarında bir çağırıcı: 'Allah'ın laneti zalimlerin üzerine olsun' diye seslenir.",
+ "mealNotu": "'Müezzin' kökü seslenen, ilan eden anlamındadır; burada aralarında seslenen bir çağırıcıyı ifade eder. 'La'net' kökü Allah'ın rahmetinden uzaklaştırma anlamına gelir.",
+ "kokler": [
+  {
+   "kelime": "وَنَادَىٰٓ",
+   "okunus": "ve nâdâ",
+   "kok": "ندي",
+   "kokAnlam": "seslenme, çağırma",
+   "karsilik": "seslenir"
+  },
+  {
+   "kelime": "أَصْحَٰبَ",
+   "okunus": "ashâbü",
+   "kok": "صحب",
+   "kokAnlam": "arkadaş, sahip; ehli",
+   "karsilik": "ehli"
+  },
+  {
+   "kelime": "ٱلْجَنَّةِ",
+   "okunus": "elcenneti",
+   "kok": "جنن",
+   "kokAnlam": "örtülü bahçe; cennet",
+   "karsilik": "cennet"
+  },
+  {
+   "kelime": "أَصْحَٰبَ",
+   "okunus": "ashâbe",
+   "kok": "صحب",
+   "kokAnlam": "arkadaş, sahip; ehli",
+   "karsilik": "ehline"
+  },
+  {
+   "kelime": "ٱلنَّارِ",
+   "okunus": "ennâri",
+   "kok": "نور",
+   "kokAnlam": "ışık, alev; ateş",
+   "karsilik": "cehennem"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(yorum) diye",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "وَجَدْنَا",
+   "okunus": "vecednâ",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulduk"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "وَعَدَنَا",
+   "okunus": "veadenâ",
+   "kok": "وعد",
+   "kokAnlam": "vaat etme",
+   "karsilik": "bize vadettiğini"
+  },
+  {
+   "kelime": "رَبُّنَا",
+   "okunus": "rabbünâ",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, terbiye etme",
+   "karsilik": "Rabbimizin"
+  },
+  {
+   "kelime": "حَقًّا",
+   "okunus": "hakkan",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, hak",
+   "karsilik": "gerçek"
+  },
+  {
+   "kelime": "فَهَلْ",
+   "okunus": "fehel",
+   "kok": "—",
+   "kokAnlam": "(soru) peki mi",
+   "karsilik": "peki mi"
+  },
+  {
+   "kelime": "وَجَدتُّم",
+   "okunus": "vecedttüm",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "buldunuz"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "وَعَدَ",
+   "okunus": "veade",
+   "kok": "وعد",
+   "kokAnlam": "vaat etme",
+   "karsilik": "vadettiğini"
+  },
+  {
+   "kelime": "رَبُّكُمْ",
+   "okunus": "rabbüküm",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, terbiye etme",
+   "karsilik": "Rabbinizin"
+  },
+  {
+   "kelime": "حَقًّا",
+   "okunus": "hakkan",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, hak",
+   "karsilik": "gerçek"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "نَعَمْ",
+   "okunus": "neam",
+   "kok": "—",
+   "kokAnlam": "(cevap) evet",
+   "karsilik": "evet"
+  },
+  {
+   "kelime": "فَأَذَّنَ",
+   "okunus": "feezzene",
+   "kok": "أذن",
+   "kokAnlam": "ilan etme, seslenme",
+   "karsilik": "seslenir"
+  },
+  {
+   "kelime": "مُؤَذِّنٌۢ",
+   "okunus": "müezzinüm",
+   "kok": "أذن",
+   "kokAnlam": "çağıran, ilan eden",
+   "karsilik": "bir çağırıcı"
+  },
+  {
+   "kelime": "بَيْنَهُمْ",
+   "okunus": "beynehüm",
+   "kok": "بين",
+   "kokAnlam": "ara",
+   "karsilik": "aralarında"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(yorum) diye",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "لَّعْنَةُ",
+   "okunus": "la'netü",
+   "kok": "لعن",
+   "kokAnlam": "lanet, uzaklaştırma",
+   "karsilik": "laneti"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine olsun"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمِينَ",
+   "okunus": "ezzâlimîne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık; zalim",
+   "karsilik": "zalimlerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, cennet ehlinin cehennem ehline seslendiği bir sahneyi anlatır: 'Rabbimizin bize vadettiğini gerçek bulduk, siz de buldunuz mu?' Cehennem ehli 'evet' der. Bu karşılıklı doğrulama, Allah'ın vaadinin her iki taraf için de gerçekleştiğini gösterir.",
+  "Sahne, aralarında bir çağırıcının 'Allah'ın laneti zalimlerin üzerine olsun' demesiyle biter. Klasik tefsir bu çağırıcıyı bir melek olarak açıklar. Ayet, iki grubun akıbetinin de kesinleştiğini ilan eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:18",
+   "meal": "Allah'a karşı yalan uydurandan daha zalim kim olabilir? Onlar Rablerine arz edilirler; şahitler de: 'Rableri hakkında yalan söyleyenler işte bunlardır' der. Dikkat edin, Allah'ın laneti zalimlerin üzerinedir.",
+   "baglanti": "'Allah'ın laneti zalimlerin üzerine olsun' ifadesini neredeyse aynı kelimelerle tekrarlar; 7:44'teki çağırıcının sözünün kaynağı gibidir."
+  },
+  {
+   "ref": "7:50",
+   "meal": "Cehennem ehli, cennet ehline: 'Bize sudan biraz akıtın, yahut Allah'ın size verdiği rızıktan verin' diye seslenir. Onlar da: 'Şüphesiz Allah bu ikisini kâfirlere haram kılmıştır' derler.",
+   "baglanti": "Bu kez cehennem ehlinin cennet ehline seslendiği simetrik bir sahnedir; iki ayet birlikte karşılıklı diyaloğu tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ahiretteki kesin hesaplaşmadır; bu dünyevi bir tartışma değildir. Yine de 'vaadin gerçekleşmesi' teması, insanın verdiği sözlere ve inandığı şeylere dair bir güvenilirlik dersi taşır.",
+  "Günlük hayatta, bir sözün arkasında durmak veya bir inancın sınandığında doğru çıkması önemlidir. Ayet, Allah'ın vaadinin şüphesiz gerçekleştiğini gösterirken, insana da kendi sözlerinde tutarlı olmayı hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Verdiğin bir sözü tut",
+   "aciklama": "Bugün birine verdiğin küçük bir sözü hatırla ve onu yerine getir."
+  },
+  {
+   "baslik": "Tutarlılığını gözden geçir",
+   "aciklama": "İnandığını söylediğin bir değeri, bugünkü davranışlarınla karşılaştır."
+  },
+  {
+   "baslik": "Doğruyu kabul et",
+   "aciklama": "Bir konuda yanıldığını fark edersen, bunu açıkça kabul et."
+  }
+ ],
+ "bugununAdimi": "Bugün, unuttuğun veya ertelediğin bir sözünü hatırlayıp yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=44"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/44"
+  }
+ ]
+}

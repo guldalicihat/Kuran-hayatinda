@@ -1,0 +1,257 @@
+{
+ "sure": 7,
+ "ayet": 33,
+ "durum": "taslak",
+ "meal": "De ki: 'Rabbim ancak açığı ve gizlisiyle hayasızlıkları, günahı, haksız yere azgınlığı, hakkında hiçbir delil indirmediği şeyi Allah'a ortak koşmanızı ve Allah'a karşı bilmediğiniz şeyi söylemenizi haram kılmıştır.'",
+ "mealNotu": "'Bağy' kökü haddi aşma, azgınlık anlamındadır. 'Sultân' kökü burada delil, güçlü kanıt anlamında kullanılır. Ayet, önceki ayetteki soruya cevap olarak, gerçek haramların neler olduğunu sıralar.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "حَرَّمَ",
+   "okunus": "harrame",
+   "kok": "حرم",
+   "kokAnlam": "yasaklama, haram kılma",
+   "karsilik": "haram kıldı"
+  },
+  {
+   "kelime": "رَبِّىَ",
+   "okunus": "rabbiye",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, terbiye etme",
+   "karsilik": "Rabbim"
+  },
+  {
+   "kelime": "ٱلْفَوَٰحِشَ",
+   "okunus": "elfevâhişe",
+   "kok": "فحش",
+   "kokAnlam": "çirkinlik, aşırılık",
+   "karsilik": "hayasızlıkları"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olanını",
+   "karsilik": "olanını"
+  },
+  {
+   "kelime": "ظَهَرَ",
+   "okunus": "zahera",
+   "kok": "ظهر",
+   "kokAnlam": "görünme, açığa çıkma",
+   "karsilik": "açığa çıkan"
+  },
+  {
+   "kelime": "مِنْهَا",
+   "okunus": "minhâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve olanını",
+   "karsilik": "ve olanını"
+  },
+  {
+   "kelime": "بَطَنَ",
+   "okunus": "betane",
+   "kok": "بطن",
+   "kokAnlam": "gizlenme, içte olma",
+   "karsilik": "gizli kalan"
+  },
+  {
+   "kelime": "وَٱلْإِثْمَ",
+   "okunus": "vel isme",
+   "kok": "أثم",
+   "kokAnlam": "günah",
+   "karsilik": "ve günahı"
+  },
+  {
+   "kelime": "وَٱلْبَغْىَ",
+   "okunus": "vel bağye",
+   "kok": "بغي",
+   "kokAnlam": "haddi aşma, azgınlık",
+   "karsilik": "ve azgınlığı"
+  },
+  {
+   "kelime": "بِغَيْرِ",
+   "okunus": "biğayri",
+   "kok": "غير",
+   "kokAnlam": "başkalık, gayrilik",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "ٱلْحَقِّ",
+   "okunus": "elhakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, hak",
+   "karsilik": "haklı bir gerekçe"
+  },
+  {
+   "kelime": "وَأَن",
+   "okunus": "ve en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ve -meniz",
+   "karsilik": "ve -meniz"
+  },
+  {
+   "kelime": "تُشْرِكُوا۟",
+   "okunus": "tüşrikû",
+   "kok": "شرك",
+   "kokAnlam": "ortaklık, ortak koşma",
+   "karsilik": "ortak koşmanız"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "(özel isim) Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "يُنَزِّلْ",
+   "okunus": "yünezzil",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirmedi"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onunla ilgili",
+   "karsilik": "onunla ilgili"
+  },
+  {
+   "kelime": "سُلْطَٰنًا",
+   "okunus": "sültânen",
+   "kok": "سلط",
+   "kokAnlam": "güç, otorite, delil",
+   "karsilik": "hiçbir delil"
+  },
+  {
+   "kelime": "وَأَن",
+   "okunus": "ve en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ve -meniz",
+   "karsilik": "ve -meniz"
+  },
+  {
+   "kelime": "تَقُولُوا۟",
+   "okunus": "tekûlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "söylemeniz"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e karşı",
+   "karsilik": "-e karşı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "(özel isim) Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "-mediğiniz"
+  },
+  {
+   "kelime": "تَعْلَمُونَ",
+   "okunus": "ta'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilmediğiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette süs ve temiz rızkın haram olmadığı söylenmişti; bu ayet, gerçek haramların ne olduğunu net biçimde sayar: açık ya da gizli hayasızlıklar, günah, haksız azgınlık, delilsiz ortak koşma ve Allah adına bilgisizce konuşmak. Bu sıralama, 28. ayette eleştirilen 'Allah bunu emretti' iddiasına da dolaylı bir cevaptır.",
+  "'Delilsiz ortak koşma' ve 'bilmediğini Allah'a söyleme' ifadelerinin art arda gelmesi dikkat çekicidir; ikisi de bilgiye değil varsayıma dayanan bir din anlayışını reddeder. Klasik tefsir bu ayeti, dinde neyin gerçekten yasak olduğunu, insanların kendiliğinden ürettiği yasaklardan ayıran bir ölçü olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:151",
+   "meal": "De ki: Gelin, Rabbinizin size neleri haram kıldığını okuyayım: O'na hiçbir şeyi ortak koşmayın... Hayasızlıkların açığına da gizlisine de yaklaşmayın; haksız yere Allah'ın haram kıldığı canı öldürmeyin...",
+   "baglanti": "En'âm suresi, A'râf 33'teki haram listesine çok benzer bir liste sunar; ikisi de açık-gizli hayasızlık ve ortak koşmayı birlikte anar."
+  },
+  {
+   "ref": "7:28",
+   "meal": "Onlar bir hayasızlık yaptıklarında derler ki: 'Babalarımızı bunun üzerinde bulduk, Allah da bunu bize emretti.' De ki: 'Allah hayasızlığı emretmez...'",
+   "baglanti": "28. ayette reddedilen sahte iddiaya karşılık, bu ayet Allah'ın gerçekte neyi yasakladığını açıkça sıralar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Allah'ın gerçekte neleri haram kıldığının sayılmasıdır; bu, genel bir dinî ilkedir.",
+  "Bugüne taşınabilecek ders, hem açık hem gizli kötülükten kaçınmanın önemidir. Bir davranış başkalarının gözünden gizlenebilir, ama ayet ikisini de aynı kefeye koyar. Ayrıca bir konuda emin olmadan 'Allah bunu istiyor/istemiyor' demek yerine bilgiye dayanmak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gizli ve açık tutarlı ol",
+   "aciklama": "Bugün kimsenin görmediği bir anda da, görüldüğün andaki gibi davran."
+  },
+  {
+   "baslik": "Delilsiz iddiada bulunma",
+   "aciklama": "Bir konuda emin olmadan 'kesinlikle böyledir' demek yerine bugün 'emin değilim' demeyi tercih et."
+  },
+  {
+   "baslik": "Haksızlığı fark et",
+   "aciklama": "Bugün bir tartışmada, haklı olduğundan emin olmadan ısrar etmemeye dikkat et."
+  }
+ ],
+ "bugununAdimi": "Bugün kimsenin görmediği bir anda, görüldüğün andaki gibi dürüst davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=33"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/33"
+  }
+ ]
+}

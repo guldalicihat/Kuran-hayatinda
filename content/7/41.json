@@ -1,0 +1,124 @@
+{
+ "sure": 7,
+ "ayet": 41,
+ "durum": "taslak",
+ "meal": "Onlar için cehennemden bir döşek, üstlerinden de örtüler vardır. İşte zalimleri böyle cezalandırırız.",
+ "mealNotu": "'Mihâd' kökü döşek, yayılmış yatak anlamına gelir; burada ironik biçimde cehennem için kullanılır. 'Gavâşin' örtü, kaplayan şey anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "لَهُم",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar için",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "جَهَنَّمَ",
+   "okunus": "cehenneme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) cehennem",
+   "karsilik": "cehennemden"
+  },
+  {
+   "kelime": "مِهَادٌ",
+   "okunus": "mihâdün",
+   "kok": "مهد",
+   "kokAnlam": "döşek, yayılmış yatak",
+   "karsilik": "bir döşek"
+  },
+  {
+   "kelime": "وَمِن",
+   "okunus": "ve min",
+   "kok": "—",
+   "kokAnlam": "(edat) ve -den",
+   "karsilik": "ve -den"
+  },
+  {
+   "kelime": "فَوْقِهِمْ",
+   "okunus": "fevkıhim",
+   "kok": "فوق",
+   "kokAnlam": "üst",
+   "karsilik": "üstlerinden"
+  },
+  {
+   "kelime": "غَوَاشٍ",
+   "okunus": "gavâşin",
+   "kok": "غشو",
+   "kokAnlam": "örtü, kaplayan şey",
+   "karsilik": "örtüler"
+  },
+  {
+   "kelime": "وَكَذَٰلِكَ",
+   "okunus": "ve kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "نَجْزِى",
+   "okunus": "neczî",
+   "kok": "جزي",
+   "kokAnlam": "karşılık verme, cezalandırma",
+   "karsilik": "cezalandırırız"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمِينَ",
+   "okunus": "ezzâlimîne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık; zalim",
+   "karsilik": "zalimleri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, cehennem ehlinin durumunu tasvir eder: altlarında bir döşek, üstlerinde de örtüler vardır. 'Mihâd' kökü döşek, yayılmış yatak anlamına gelir; burada ironik biçimde ateşten bir döşek olarak kullanılır. 'Gavâşin' ise üzerlerini kaplayan örtüleri ifade eder.",
+  "Ayet, 'zalimleri böyle cezalandırırız' diyerek 40. ayetin sonundaki 'suçluları böyle cezalandırırız' ifadesini tekrarlar. Bu tekrar, hem yalanlayıp büyüklenenlerin hem de zulmedenlerin aynı akıbeti paylaştığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "39:16",
+   "meal": "Onların üstlerinde ateşten katmanlar, altlarında da katmanlar vardır. Allah, kullarını işte bununla korkutur. Ey kullarım! Bana karşı gelmekten sakının.",
+   "baglanti": "Neredeyse aynı imgeyle, cehennem ehlinin üstünde ve altında ateşten katmanlar olduğunu anlatır; 7:41'deki döşek-örtü tasvirini pekiştirir."
+  },
+  {
+   "ref": "29:55",
+   "meal": "O gün azap onları üstlerinden ve ayaklarının altından kuşatır ve 'Yaptıklarınızın karşılığını tadın' denir.",
+   "baglanti": "Azabın insanı üstten ve alttan kuşatmasını başka bir sahnede tekrarlar; aynı kuşatılmışlık imgesini taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ahiretteki cezadır; sembolik bir dille, insanın rahat edeceği hiçbir yönü kalmadığını anlatır. Günlük hayata taşınacak doğrudan bir eylem kuralı yoktur, ama bu tasvir zulmün sonuçsuz kalmayacağı fikrini hatırlatır.",
+  "Bir insanın başkasına zulmederken kendini güvende hissetmesi geçicidir. Ayetin verdiği ders, kısa vadeli rahatın uzun vadeli bir bedeli olabileceğini unutmamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zulümden uzak dur",
+   "aciklama": "Bugün bir kararında, başkasının hakkını çiğnemediğinden emin ol."
+  },
+  {
+   "baslik": "Haksız rahatını sorgula",
+   "aciklama": "Bir konuda haksız yere elde ettiğin bir rahatlık varsa, onu düzeltmek için adım at."
+  },
+  {
+   "baslik": "Uzun vadeli düşün",
+   "aciklama": "Bugün bir seçim yaparken, yalnızca anlık rahatı değil sonucunu da düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararını, 'bu bana kısa vadede rahat ama uzun vadede adil mi?' diye sorarak ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=41"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/41"
+  }
+ ]
+}

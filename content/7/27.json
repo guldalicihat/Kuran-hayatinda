@@ -1,0 +1,264 @@
+{
+ "sure": 7,
+ "ayet": 27,
+ "durum": "taslak",
+ "meal": "Ey Âdemoğulları! Şeytan, ana-babanızı, ayıp yerlerini kendilerine göstermek için elbiselerini soyarak cennetten çıkardığı gibi sizi de sakın ayartmasın. Çünkü o ve soyu, sizin onları göremeyeceğiniz yerden sizi görür. Biz şeytanları, inanmayanların dostları kıldık.",
+ "mealNotu": "'Yeftinennekümü' kökü fitneye düşürme, ayartma anlamı taşır. 'Yenziu' (soyma) fiili, önceki ayetteki 'giysi' nimetinin şeytan tarafından nasıl alındığını somut biçimde gösterir. 'Evliyâe' kökü dostluk/velilik anlamındadır; burada olumsuz bir dostluğa işaret eder.",
+ "kokler": [
+  {
+   "kelime": "يَٰبَنِىٓ",
+   "okunus": "yâ benî",
+   "kok": "بني",
+   "kokAnlam": "oğul, evlat",
+   "karsilik": "ey oğulları"
+  },
+  {
+   "kelime": "ءَادَمَ",
+   "okunus": "âdeme",
+   "kok": "أدم",
+   "kokAnlam": "(özel isim) Âdem",
+   "karsilik": "Âdem'in"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk/nehy) sakın",
+   "karsilik": "sakın"
+  },
+  {
+   "kelime": "يَفْتِنَنَّكُمُ",
+   "okunus": "yeftinennekümü",
+   "kok": "فتن",
+   "kokAnlam": "sınama, fitneye düşürme, ayartma",
+   "karsilik": "sizi ayartmasın"
+  },
+  {
+   "kelime": "ٱلشَّيْطَٰنُ",
+   "okunus": "eşşeytânü",
+   "kok": "شطن",
+   "kokAnlam": "uzaklaşma, şeytanlık",
+   "karsilik": "şeytan"
+  },
+  {
+   "kelime": "كَمَآ",
+   "okunus": "kemâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) gibi",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "أَخْرَجَ",
+   "okunus": "ahrace",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma",
+   "karsilik": "çıkardığı"
+  },
+  {
+   "kelime": "أَبَوَيْكُم",
+   "okunus": "ebeveyküm",
+   "kok": "أبو",
+   "kokAnlam": "baba, ana-baba",
+   "karsilik": "ana-babanızı"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْجَنَّةِ",
+   "okunus": "elcenneti",
+   "kok": "جنن",
+   "kokAnlam": "örtülü bahçe; cennet",
+   "karsilik": "cennetten"
+  },
+  {
+   "kelime": "يَنزِعُ",
+   "okunus": "yenziu",
+   "kok": "نزع",
+   "kokAnlam": "sökme, soyma, çekip çıkarma",
+   "karsilik": "soyarak"
+  },
+  {
+   "kelime": "عَنْهُمَا",
+   "okunus": "anhümâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ikisinden",
+   "karsilik": "ikisinden"
+  },
+  {
+   "kelime": "لِبَاسَهُمَا",
+   "okunus": "libâsehümâ",
+   "kok": "لبس",
+   "kokAnlam": "giyinme, örtünme",
+   "karsilik": "elbiselerini"
+  },
+  {
+   "kelime": "لِيُرِيَهُمَا",
+   "okunus": "liyüriyehümâ",
+   "kok": "رأي",
+   "kokAnlam": "görme, gösterme",
+   "karsilik": "ikisine göstermek için"
+  },
+  {
+   "kelime": "سَوْءَٰتِهِمَآ",
+   "okunus": "sev'âtihimâ",
+   "kok": "سوأ",
+   "kokAnlam": "çirkinlik, ayıp",
+   "karsilik": "ayıp yerlerini"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) çünkü o",
+   "karsilik": "çünkü o"
+  },
+  {
+   "kelime": "يَرَىٰكُمْ",
+   "okunus": "yerâküm",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "sizi görür"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "وَقَبِيلُهُۥ",
+   "okunus": "ve kabîlühû",
+   "kok": "قبل",
+   "kokAnlam": "topluluk, soy, kabile",
+   "karsilik": "ve soyu"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "حَيْثُ",
+   "okunus": "haysü",
+   "kok": "حيث",
+   "kokAnlam": "yer, taraf",
+   "karsilik": "yerden"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "-mediğiniz"
+  },
+  {
+   "kelime": "تَرَوْنَهُمْ",
+   "okunus": "teravnehüm",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "onları görmediğiniz"
+  },
+  {
+   "kelime": "إِنَّا",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten biz",
+   "karsilik": "gerçekten biz"
+  },
+  {
+   "kelime": "جَعَلْنَا",
+   "okunus": "cealnâ",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "kıldık"
+  },
+  {
+   "kelime": "ٱلشَّيَٰطِينَ",
+   "okunus": "eşşeyâtîne",
+   "kok": "شطن",
+   "kokAnlam": "uzaklaşma, şeytanlık",
+   "karsilik": "şeytanları"
+  },
+  {
+   "kelime": "أَوْلِيَآءَ",
+   "okunus": "evliyâe",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, dostluk, velilik",
+   "karsilik": "dostlar"
+  },
+  {
+   "kelime": "لِلَّذِينَ",
+   "okunus": "lillezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler için",
+   "karsilik": "kimseler için"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "-mayan"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman etme",
+   "karsilik": "inanmayan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette giysi bir nimet olarak anlatılmıştı; bu ayet aynı temayı tersinden ele alarak uyarı hâline getirir. Şeytanın Âdem ve eşine yaptığı, elbiselerini 'soyarak' onları çıplak, korumasız bırakmaktı; ayet, bu tehlikenin tek seferlik olmadığını, her insan için sürdüğünü bildirir. 'Onları göremeyeceğiniz yerden görür' ifadesi, şeytanın insana görünmeyen bir yönden yaklaştığını anlatır.",
+  "Ayetin sonundaki 'şeytanları inanmayanların dostları kıldık' ifadesi, bu ilişkinin zorla değil bir tercih sonucu kurulduğunu gösterir; iman etmeyenler kendilerini bu dostluğa açık bırakır. Klasik tefsir bu ayeti, şeytanın etkisinin görünmez ama gerçek olduğu, buna karşı uyanıklığın imanla mümkün olduğu şeklinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:22",
+   "meal": "Böylece onları aldatarak indirdi. Ağacı tattıklarında ayıp yerleri kendilerine göründü...",
+   "baglanti": "Bu ayet, A'râf 22'deki sahneyi 'elbiselerin soyulması' olarak özetler ve onu bütün insanlığa yönelik bir uyarıya dönüştürür."
+  },
+  {
+   "ref": "35:6",
+   "meal": "Şüphesiz şeytan sizin için bir düşmandır; öyleyse onu düşman edinin. O, kendi taraftarlarını ancak alevli ateşin halkından olsunlar diye çağırır.",
+   "baglanti": "Fâtır suresi de şeytanı açık bir düşman ilan eder; buradaki 'görmediğiniz yerden görür' uyarısı bu düşmanlığa karşı uyanık olmayı gerektirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu şeytanın insanı ayartma yöntemi ve bunun görünmez oluşudur; bu, herkesi kapsayan genel bir uyarıdır.",
+  "Bugüne taşınabilecek ders, tehlikenin çoğu zaman açıkça görünmediğidir. Bir alışkanlık, bir düşünce ya da bir ilişki, insanı yavaş yavaş koruyucu sınırlarından soyabilir; bunun farkına varmak, ilk anda değil çoğu zaman sonradan mümkün olur. Bu yüzden uyanıklık, tehlikeyi görmeden önce önlem almayı gerektirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Görünmeyen etkiyi ara",
+   "aciklama": "Bugün seni yavaş yavaş bir sınırdan uzaklaştıran bir alışkanlığı fark etmeye çalış."
+  },
+  {
+   "baslik": "Koruyucu sınırını hatırla",
+   "aciklama": "Kendini rahat hissettiğin bir ortamda bile, bugün bir sınırını bilinçli biçimde koru."
+  },
+  {
+   "baslik": "Dostluğunu seç",
+   "aciklama": "Bugün seni iyiye değil kötüye yönlendiren bir etkileşimi fark edip mesafe koy."
+  }
+ ],
+ "bugununAdimi": "Bugün, seni fark ettirmeden bir sınırdan uzaklaştıran bir alışkanlığı yazıya dök.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=27"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/27"
+  }
+ ]
+}
