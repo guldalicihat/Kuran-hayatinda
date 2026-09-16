@@ -1,0 +1,306 @@
+{
+ "sure": 4,
+ "ayet": 78,
+ "durum": "taslak",
+ "meal": "Nerede olursanız olun, sağlam kaleler içinde bulunsanız bile ölüm size ulaşır. Onlara bir iyilik dokunsa 'bu Allah'tandır' derler; bir kötülük dokunsa 'bu sendendir' derler. De ki: Hepsi Allah'tandır. Bu topluluğa ne oluyor ki neredeyse hiçbir sözü anlamıyorlar!",
+ "mealNotu": "'Bürûcin müşeyyedeh' ifadesi yüksek, sağlamca yapılmış kaleleri anlatır. Karşılaştığı iyilik ve kötülüğü Allah'a ve muhataba ayrı ayrı bağlama, ayetteki 'min indillâhi' ve 'min indike' ifadelerinin karşılığıdır.",
+ "kokler": [
+  {
+   "kelime": "أَيْنَمَا",
+   "okunus": "eynemâ",
+   "kok": "—",
+   "kokAnlam": "(şart) her nerede",
+   "karsilik": "nerede"
+  },
+  {
+   "kelime": "تَكُونُوا۟",
+   "okunus": "tekûnû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olursanız olun"
+  },
+  {
+   "kelime": "يُدْرِككُّمُ",
+   "okunus": "yüdrikkkümü",
+   "kok": "درك",
+   "kokAnlam": "erişme, yetişme, idrak etme",
+   "karsilik": "size ulaşır"
+  },
+  {
+   "kelime": "ٱلْمَوْتُ",
+   "okunus": "elmevtü",
+   "kok": "موت",
+   "kokAnlam": "ölme",
+   "karsilik": "ölüm"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) ve -sa bile",
+   "karsilik": "bile"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "bulunsanız"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "بُرُوجٍ",
+   "okunus": "bürûcin",
+   "kok": "برج",
+   "kokAnlam": "yükselme, kale, burç",
+   "karsilik": "kaleler"
+  },
+  {
+   "kelime": "مُّشَيَّدَةٍ",
+   "okunus": "müşeyyedetin",
+   "kok": "شيد",
+   "kokAnlam": "yükseltme, sağlamca inşa etme",
+   "karsilik": "sağlamca yapılmış"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) ve eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تُصِبْهُمْ",
+   "okunus": "tüsıbhüm",
+   "kok": "صوب",
+   "kokAnlam": "isabet etme, dokunma",
+   "karsilik": "onlara dokunsa"
+  },
+  {
+   "kelime": "حَسَنَةٌ",
+   "okunus": "hasenetün",
+   "kok": "حسن",
+   "kokAnlam": "güzellik, iyilik",
+   "karsilik": "bir iyilik"
+  },
+  {
+   "kelime": "يَقُولُوا۟",
+   "okunus": "yekûlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "هَٰذِهِۦ",
+   "okunus": "hâzihî",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-dendir"
+  },
+  {
+   "kelime": "عِندِ",
+   "okunus": "indi",
+   "kok": "عند",
+   "kokAnlam": "kat, nezd",
+   "karsilik": "katından"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) ve eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تُصِبْهُمْ",
+   "okunus": "tüsıbhüm",
+   "kok": "صوب",
+   "kokAnlam": "isabet etme, dokunma",
+   "karsilik": "onlara dokunsa"
+  },
+  {
+   "kelime": "سَيِّئَةٌ",
+   "okunus": "seyyietün",
+   "kok": "سوأ",
+   "kokAnlam": "kötülük",
+   "karsilik": "bir kötülük"
+  },
+  {
+   "kelime": "يَقُولُوا۟",
+   "okunus": "yekûlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "هَٰذِهِۦ",
+   "okunus": "hâzihî",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-dendir"
+  },
+  {
+   "kelime": "عِندِكَ",
+   "okunus": "indike",
+   "kok": "عند",
+   "kokAnlam": "kat, nezd",
+   "karsilik": "senin katından"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "كُلٌّ",
+   "okunus": "küllün",
+   "kok": "كلل",
+   "kokAnlam": "bütün, hepsi",
+   "karsilik": "hepsi"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-dendir"
+  },
+  {
+   "kelime": "عِندِ",
+   "okunus": "indi",
+   "kok": "عند",
+   "kokAnlam": "kat, nezd",
+   "karsilik": "katından"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَمَالِ",
+   "okunus": "femâli",
+   "kok": "—",
+   "kokAnlam": "(soru) ne oluyor",
+   "karsilik": "ne oluyor"
+  },
+  {
+   "kelime": "هَٰٓؤُلَآءِ",
+   "okunus": "hâülâi",
+   "kok": "—",
+   "kokAnlam": "(işaret) şunlar",
+   "karsilik": "şu"
+  },
+  {
+   "kelime": "ٱلْقَوْمِ",
+   "okunus": "elkavmi",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk, kavim",
+   "karsilik": "topluluğa"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "يَكَادُونَ",
+   "okunus": "yekâdûne",
+   "kok": "كود",
+   "kokAnlam": "neredeyse yapma",
+   "karsilik": "neredeyse"
+  },
+  {
+   "kelime": "يَفْقَهُونَ",
+   "okunus": "yefkahûne",
+   "kok": "فقه",
+   "kokAnlam": "derinlemesine anlama, kavrama",
+   "karsilik": "anlıyorlar"
+  },
+  {
+   "kelime": "حَدِيثًا",
+   "okunus": "hadîsen",
+   "kok": "حدث",
+   "kokAnlam": "söz, haber",
+   "karsilik": "hiçbir sözü"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet önce ölümün kaçınılmazlığını hatırlatır: en sağlam kalede bile insan ölümden kurtulamaz. Bu, savaştan kaçmanın hayatı uzatmayacağını anlatan bir hatırlatmadır. Ardından, başa gelen iyilik ve kötülük konusunda tutarsız bir tavır eleştirilir; bazı kişiler iyiliği Allah'a, kötülüğü ise muhataplarına -burada Peygamber'e- bağlar.",
+  "'De ki: Hepsi Allah'tandır' cevabı, her şeyin Allah'ın takdiri ve izniyle olduğunu, ama bunun kişinin kendi seçimlerinin sonucunu görmezden gelmesi anlamına gelmediğini hatırlatır; nitekim bir sonraki ayet bu ayrımı netleştirir. Klasik tefsir bu ayeti, bazı kişilerin kendi hatalarının sonucunu başkasına yüklemesine bir cevap olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:154",
+   "meal": "...'Bu işten bize ne var?' diyorlardı. De ki: İş bütünüyle Allah'a aittir...",
+   "baglanti": "Olayların sonucunu tartışan, sorumluluğu başkasına atan bir tutum burada da ele alınır ve iş Allah'a bağlanır."
+  },
+  {
+   "ref": "4:79",
+   "meal": "Sana ulaşan iyilik Allah'tandır; sana ulaşan kötülük ise kendindendir...",
+   "baglanti": "78. ayetteki 'hepsi Allah'tandır' ifadesi, hemen ardından gelen bu ayette kişinin kendi sorumluluğuyla dengelenir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, savaştan kaçmanın ölümü engellemeyeceği ve başa gelenleri haksız yere başkasına yüklemenin yanlışlığıdır; bu, belirli bir tartışma bağlamında geçer.",
+  "Bugüne taşınabilecek ders, başımıza gelen sıkıntılarda kolayca suçlu aramak yerine önce kendi payımızı görmektir. Ölümün her yerde bizi bulacağını bilmek de, güvenliği aşırı bir kaygıya dönüştürmemeyi öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Suçlamadan önce dur",
+   "aciklama": "Bugün ters giden bir şeyde, hemen birini suçlamadan önce kendi payını düşün."
+  },
+  {
+   "baslik": "Aşırı kaygıyı bırak",
+   "aciklama": "Güvenlik için elinden geleni yaptıktan sonra, gerisini bırakıp işine odaklan."
+  },
+  {
+   "baslik": "Dengeli bak",
+   "aciklama": "Bir olayı değerlendirirken hem takdiri hem kendi seçimini birlikte gör."
+  }
+ ],
+ "bugununAdimi": "Bugün yaşadığın bir aksilikte, önce kendi payını yazılı olarak bir cümleyle belirle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=78"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/78"
+  }
+ ]
+}

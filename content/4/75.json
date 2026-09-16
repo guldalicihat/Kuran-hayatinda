@@ -1,0 +1,271 @@
+{
+ "sure": 4,
+ "ayet": 75,
+ "durum": "taslak",
+ "meal": "Size ne oluyor da Allah yolunda ve 'Rabbimiz! Bizi halkı zalim olan şu şehirden çıkar, katından bize bir dost ver, katından bize bir yardımcı ver' diyen zayıf bırakılmış erkekler, kadınlar ve çocuklar uğrunda savaşmıyorsunuz?",
+ "mealNotu": "'Müstad'afîn' kökü zayıf düşürülmeyi, baskı altında güçsüz bırakılmayı anlatır; yalnız 'zayıf' değil 'zayıf bırakılmış' denmiştir. 'Veliyyen' ve 'nasîran' ayrı iki istek olduğu için 'dost' ve 'yardımcı' olarak ayrı yazılmıştır.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne",
+   "karsilik": "size ne"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "oluyor"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mıyor"
+  },
+  {
+   "kelime": "تُقَٰتِلُونَ",
+   "okunus": "tükâtilûne",
+   "kok": "قتل",
+   "kokAnlam": "öldürme; karşılıklı savaşma",
+   "karsilik": "savaşmıyorsunuz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَٱلْمُسْتَضْعَفِينَ",
+   "okunus": "vel müstad'afîne",
+   "kok": "ضعف",
+   "kokAnlam": "zayıflık; zayıf bırakılmış olma",
+   "karsilik": "ve zayıf bırakılmışlar"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلرِّجَالِ",
+   "okunus": "erricâli",
+   "kok": "رجل",
+   "kokAnlam": "ayak; erkek, adam",
+   "karsilik": "erkeklerden"
+  },
+  {
+   "kelime": "وَٱلنِّسَآءِ",
+   "okunus": "ven nisâi",
+   "kok": "نسو",
+   "kokAnlam": "kadın",
+   "karsilik": "ve kadınlardan"
+  },
+  {
+   "kelime": "وَٱلْوِلْدَٰنِ",
+   "okunus": "vel vildâni",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; çocuk",
+   "karsilik": "ve çocuklardan"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) o kimseler ki",
+   "karsilik": "onlar ki"
+  },
+  {
+   "kelime": "يَقُولُونَ",
+   "okunus": "yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "رَبَّنَآ",
+   "okunus": "rabbenâ",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbimiz"
+  },
+  {
+   "kelime": "أَخْرِجْنَا",
+   "okunus": "ahricnâ",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, çıkarma",
+   "karsilik": "bizi çıkar"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "هَٰذِهِ",
+   "okunus": "hâzihi",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "şu"
+  },
+  {
+   "kelime": "ٱلْقَرْيَةِ",
+   "okunus": "elkaryeti",
+   "kok": "قري",
+   "kokAnlam": "yerleşim yeri, şehir",
+   "karsilik": "şehirden"
+  },
+  {
+   "kelime": "ٱلظَّالِمِ",
+   "okunus": "ezzâlimi",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık etme, zulmetme",
+   "karsilik": "zalim olan"
+  },
+  {
+   "kelime": "أَهْلُهَا",
+   "okunus": "ehlühâ",
+   "kok": "أهل",
+   "kokAnlam": "ehil, halk",
+   "karsilik": "halkı"
+  },
+  {
+   "kelime": "وَٱجْعَل",
+   "okunus": "vec'al",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "ve kıl"
+  },
+  {
+   "kelime": "لَّنَا",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) bize",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "لَّدُنكَ",
+   "okunus": "ledünke",
+   "kok": "لدن",
+   "kokAnlam": "kat, nezd",
+   "karsilik": "katından"
+  },
+  {
+   "kelime": "وَلِيًّا",
+   "okunus": "veliyyen",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, velilik, dostluk",
+   "karsilik": "bir dost"
+  },
+  {
+   "kelime": "وَٱجْعَل",
+   "okunus": "vec'al",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "ve kıl"
+  },
+  {
+   "kelime": "لَّنَا",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) bize",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "لَّدُنكَ",
+   "okunus": "ledünke",
+   "kok": "لدن",
+   "kokAnlam": "kat, nezd",
+   "karsilik": "katından"
+  },
+  {
+   "kelime": "نَصِيرًا",
+   "okunus": "nesîran",
+   "kok": "نصر",
+   "kokAnlam": "yardım etme",
+   "karsilik": "bir yardımcı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayette geçen 'Allah yolunda savaş' çağrısını somutlaştırır: bu çağrının bir yönü de baskı altında bırakılmış, kendini kurtaramayan erkek, kadın ve çocukları savunmaktır. 'Müstad'af' kökü, gücü elinden alınmış, zayıf bırakılmış olmayı anlatır; bu kişiler kendi başlarına çıkış yolu bulamadıkları için dua ederler.",
+  "Onların duası üç istekten oluşur: zalim halkın bulunduğu yerden çıkış, katından bir dost, katından bir yardımcı. Ayet, müminlerin harekete geçmesi için bu çaresizliği bir sebep olarak gösterir. Klasik tefsir bu ayeti, Mekke'de kalıp baskı gören bazı müminlerin durumuyla ilişkilendirir; ancak ayetin kendisi belirli bir isim veya olay vermez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "8:26",
+   "meal": "Hatırlayın ki siz yeryüzünde güçsüz ve azdınız, insanların sizi kapıp götürmesinden korkuyordunuz da Allah sizi barındırdı, yardımıyla destekledi ve sizi temiz şeylerden rızıklandırdı; belki şükredersiniz.",
+   "baglanti": "Zayıf bırakılmışlığın kendisi de bir sınav olabilir; burada Allah'ın bu duruma nasıl yardım ettiği hatırlatılır."
+  },
+  {
+   "ref": "9:71",
+   "meal": "Mümin erkekler ve mümin kadınlar birbirlerinin velisidir; iyiliği emrederler, kötülükten alıkorlar...",
+   "baglanti": "Müminlerin birbirine dost ve yardımcı olması, 4:75'teki zayıf bırakılmışların 'veli' ve 'yardımcı' isteğine mümin topluluğun cevabı gibidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, baskı altındaki savunmasız insanları koruma çağrısıdır; bu, silahlı bir mücadele bağlamında geçer ve her duruma birebir uygulanacak bir kural değildir.",
+  "Bugüne taşınabilecek ders, güçsüz bırakılmış kişilere kayıtsız kalmamaktır. Çevrende sesini duyuramayan, haksızlığa uğrayan biri varsa, elinden geleni yapmak bu ayetin ruhuna uygun bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sesini duyuramayanı dinle",
+   "aciklama": "Bugün çevrende hakkını arayamayan birinin derdini dinle ve elinden geleni yap."
+  },
+  {
+   "baslik": "Bir haksızlığa sessiz kalma",
+   "aciklama": "Gördüğün küçük bir haksızlıkta, güvenli ve ölçülü bir şekilde söz söyle."
+  },
+  {
+   "baslik": "Destek ol",
+   "aciklama": "Zor durumdaki bir tanıdığına bugün somut bir yardım teklif et."
+  }
+ ],
+ "bugununAdimi": "Bugün çevrende zor durumda olan birine ulaş ve ona nasıl yardımcı olabileceğini sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=75"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/75"
+  }
+ ]
+}

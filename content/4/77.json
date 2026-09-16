@@ -1,0 +1,390 @@
+{
+ "sure": 4,
+ "ayet": 77,
+ "durum": "taslak",
+ "meal": "Kendilerine 'ellerinizi çekin, namazı kılın, zekâtı verin' denilenleri görmedin mi? Üzerlerine savaş yazılınca içlerinden bir grup, Allah'tan korkar gibi, hatta daha şiddetli bir korkuyla insanlardan korkmaya başladı ve dediler ki: 'Rabbimiz! Üzerimize savaşı niçin yazdın? Bizi yakın bir süreye kadar erteleseydin.' De ki: Dünya menfaati azdır; takva sahibi için âhiret daha hayırlıdır ve size kıl kadar haksızlık edilmez.",
+ "mealNotu": "'Küffû eydiyeküm' ifadesi kelimesi kelimesine 'ellerinizi çekin' demektir; savaştan uzak durmayı anlatır. 'Fetîlâ' kelimesi hurma çekirdeğinin ince ipliği anlamına gelir ve mecazen 'en küçük miktar' için kullanılmıştır, bu yüzden 'kıl kadar' denmiştir.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil mi",
+   "karsilik": "-medin mi"
+  },
+  {
+   "kelime": "تَرَ",
+   "okunus": "tera",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "gördün"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) o kimseler ki",
+   "karsilik": "o kimseleri ki"
+  },
+  {
+   "kelime": "قِيلَ",
+   "okunus": "kîle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "denildi"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "كُفُّوٓا۟",
+   "okunus": "küffû",
+   "kok": "كفف",
+   "kokAnlam": "çekme, alıkoyma",
+   "karsilik": "çekin"
+  },
+  {
+   "kelime": "أَيْدِيَكُمْ",
+   "okunus": "eydiyeküm",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "ellerinizi"
+  },
+  {
+   "kelime": "وَأَقِيمُوا۟",
+   "okunus": "ve ekîmû",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, dikme; ikâme etme",
+   "karsilik": "ve kılın"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "dua, bağlılık; namaz",
+   "karsilik": "namazı"
+  },
+  {
+   "kelime": "وَءَاتُوا۟",
+   "okunus": "ve âtû",
+   "kok": "أتي",
+   "kokAnlam": "verme, getirme",
+   "karsilik": "ve verin"
+  },
+  {
+   "kelime": "ٱلزَّكَوٰةَ",
+   "okunus": "ezzekâte",
+   "kok": "زكو",
+   "kokAnlam": "arınma, temizlik, bereket; zekât",
+   "karsilik": "zekâtı"
+  },
+  {
+   "kelime": "فَلَمَّا",
+   "okunus": "felemmâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -ince",
+   "karsilik": "-ince"
+  },
+  {
+   "kelime": "كُتِبَ",
+   "okunus": "kütibe",
+   "kok": "كتب",
+   "kokAnlam": "yazma, farz kılma",
+   "karsilik": "yazıldı"
+  },
+  {
+   "kelime": "عَلَيْهِمُ",
+   "okunus": "aleyhimü",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerlerine",
+   "karsilik": "üzerlerine"
+  },
+  {
+   "kelime": "ٱلْقِتَالَ",
+   "okunus": "elkıtâlü",
+   "kok": "قتل",
+   "kokAnlam": "öldürme; karşılıklı savaşma",
+   "karsilik": "savaş"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(sürpriz) birden",
+   "karsilik": "hemen"
+  },
+  {
+   "kelime": "فَرِيقٌ",
+   "okunus": "ferîkun",
+   "kok": "فرق",
+   "kokAnlam": "ayrılma; grup, bölük",
+   "karsilik": "bir grup"
+  },
+  {
+   "kelime": "مِّنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "يَخْشَوْنَ",
+   "okunus": "yahşevne",
+   "kok": "خشي",
+   "kokAnlam": "korkma, sakınma, saygıyla korkma",
+   "karsilik": "korkmaya başladı"
+  },
+  {
+   "kelime": "ٱلنَّاسَ",
+   "okunus": "ennâse",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet",
+   "karsilik": "insanlardan"
+  },
+  {
+   "kelime": "كَخَشْيَةِ",
+   "okunus": "kehaşyeti",
+   "kok": "خشي",
+   "kokAnlam": "korkma, sakınma, saygıyla korkma",
+   "karsilik": "korkar gibi"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "hatta"
+  },
+  {
+   "kelime": "أَشَدَّ",
+   "okunus": "eşedde",
+   "kok": "شدد",
+   "kokAnlam": "şiddet, kuvvet",
+   "karsilik": "daha şiddetli"
+  },
+  {
+   "kelime": "خَشْيَةً",
+   "okunus": "haşyeten",
+   "kok": "خشي",
+   "kokAnlam": "korkma, sakınma, saygıyla korkma",
+   "karsilik": "bir korkuyla"
+  },
+  {
+   "kelime": "وَقَالُوا۟",
+   "okunus": "ve kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "ve dediler"
+  },
+  {
+   "kelime": "رَبَّنَا",
+   "okunus": "rabbenâ",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbimiz"
+  },
+  {
+   "kelime": "لِمَ",
+   "okunus": "lime",
+   "kok": "—",
+   "kokAnlam": "(soru) niçin",
+   "karsilik": "niçin"
+  },
+  {
+   "kelime": "كَتَبْتَ",
+   "okunus": "ketebte",
+   "kok": "كتب",
+   "kokAnlam": "yazma, farz kılma",
+   "karsilik": "yazdın"
+  },
+  {
+   "kelime": "عَلَيْنَا",
+   "okunus": "aleynâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerimize",
+   "karsilik": "üzerimize"
+  },
+  {
+   "kelime": "ٱلْقِتَالَ",
+   "okunus": "elkıtâle",
+   "kok": "قتل",
+   "kokAnlam": "öldürme; karşılıklı savaşma",
+   "karsilik": "savaşı"
+  },
+  {
+   "kelime": "لَوْلَآ",
+   "okunus": "levlâ",
+   "kok": "—",
+   "kokAnlam": "(teşvik) keşke",
+   "karsilik": "keşke"
+  },
+  {
+   "kelime": "أَخَّرْتَنَآ",
+   "okunus": "ehhartenâ",
+   "kok": "أخر",
+   "kokAnlam": "geciktirme, erteleme",
+   "karsilik": "bizi erteleseydin"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "أَجَلٍ",
+   "okunus": "ecelin",
+   "kok": "أجل",
+   "kokAnlam": "süre, belirlenmiş vakit",
+   "karsilik": "bir süreye"
+  },
+  {
+   "kelime": "قَرِيبٍ",
+   "okunus": "karîbin",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık",
+   "karsilik": "yakın"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "مَتَٰعُ",
+   "okunus": "metâu",
+   "kok": "متع",
+   "kokAnlam": "yararlanma, geçimlik, menfaat",
+   "karsilik": "menfaati"
+  },
+  {
+   "kelime": "ٱلدُّنْيَا",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık; dünya, yakın hayat",
+   "karsilik": "dünya"
+  },
+  {
+   "kelime": "قَلِيلٌ",
+   "okunus": "kalîlün",
+   "kok": "قلل",
+   "kokAnlam": "azlık",
+   "karsilik": "azdır"
+  },
+  {
+   "kelime": "وَٱلْءَاخِرَةُ",
+   "okunus": "vel âhıratü",
+   "kok": "أخر",
+   "kokAnlam": "sonra olma; âhiret",
+   "karsilik": "ve âhiret"
+  },
+  {
+   "kelime": "خَيْرٌ",
+   "okunus": "hayrun",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "daha hayırlıdır"
+  },
+  {
+   "kelime": "لِّمَنِ",
+   "okunus": "limeni",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimse için",
+   "karsilik": "kimse için"
+  },
+  {
+   "kelime": "ٱتَّقَىٰ",
+   "okunus": "ittekâ",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma; takva",
+   "karsilik": "takva sahibi olan"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ve değil",
+   "karsilik": "ve -mez"
+  },
+  {
+   "kelime": "تُظْلَمُونَ",
+   "okunus": "tüzlemûne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık etme, zulmetme",
+   "karsilik": "haksızlığa uğratılırsınız"
+  },
+  {
+   "kelime": "فَتِيلًا",
+   "okunus": "fetîlen",
+   "kok": "فتل",
+   "kokAnlam": "bükme; hurma çekirdeğinin ince ipliği, en küçük miktar",
+   "karsilik": "kıl kadar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, daha önce savaştan alıkonulup namaz ve zekâtla yükümlü tutulan bir grubu hatırlatır. Savaş kendilerine farz kılınınca, içlerinden bazıları Allah'tan korkması gerektiği kadar, hatta daha fazla insanlardan korkmaya başlar. 'Haşyet' kökü, saygı karışık bir korkuyu anlatır; burada bu duygu yanlış yöne, insanlara çevrilmiştir.",
+  "Onların 'niçin bize savaşı yazdın, biraz erteleseydin' sözüne cevap verilir: dünya menfaati kısa ve azdır, âhiret ise takva sahibi için daha hayırlıdır. 'Fetîl' kelimesi, hurma çekirdeğindeki ince iplik gibi en küçük bir miktarı anlatır; kimseye bu kadar bile haksızlık edilmeyeceği vurgulanır. Klasik tefsir bu ayeti, Mekke döneminde savaştan men edilip Medine'de savaşla yükümlü tutulan müminlerin tepkisiyle ilişkilendirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:216",
+   "meal": "Savaş, hoşunuza gitmediği hâlde üzerinize yazıldı. Olur ki hoşunuza gitmeyen bir şey sizin için hayırlıdır...",
+   "baglanti": "Savaşın farz kılınmasına karşı gösterilen isteksizlik burada da işlenir; insanın neyin hayırlı olduğunu tam bilemeyeceği hatırlatılır."
+  },
+  {
+   "ref": "9:38",
+   "meal": "Ey iman edenler! Size ne oldu ki 'Allah yolunda savaşa çıkın' denildiğinde yere çakılıp kaldınız? Âhireti bırakıp dünya hayatına mı razı oldunuz?...",
+   "baglanti": "Dünya menfaatini âhirete tercih etme eğilimi, 4:77'deki 'dünya menfaati azdır' uyarısıyla aynı temayı paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, savaş yükümlülüğü karşısında bazı kişilerin gösterdiği korku ve isteksizliktir; bu özel bir dönem ve durumla ilgilidir.",
+  "Bugüne taşınabilecek ders, zor bir sorumluluk geldiğinde korkunun yönünü doğru tutmaktır. İnsanların ne diyeceğinden çok, doğru olanı yapmanın uzun vadeli değerini hatırlamak, kısa vadeli rahatlığı tercih etme eğilimini dengeler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Korkunun kaynağını sorgula",
+   "aciklama": "Bugün bir kararında, seni asıl neyin yönlendirdiğini -insanların onayı mı, doğru olan mı- kendine sor."
+  },
+  {
+   "baslik": "Erteleme isteğini fark et",
+   "aciklama": "Zor bir görevi ertelemek istediğinde, bunun gerçek bir sebebi mi yoksa korku mu olduğunu ayırt et."
+  },
+  {
+   "baslik": "Uzun vadeyi hatırla",
+   "aciklama": "Kısa vadeli rahatlık ile uzun vadeli fayda arasında seçim yaparken ikincisini öne al."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin zor bir sorumluluğu belirle ve ona ilk adımı at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=77"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/77"
+  }
+ ]
+}

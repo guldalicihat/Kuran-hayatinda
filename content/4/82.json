@@ -1,0 +1,145 @@
+{
+ "sure": 4,
+ "ayet": 82,
+ "durum": "taslak",
+ "meal": "Kur'ân'ı düşünüp anlamıyorlar mı? Eğer o Allah'tan başkasının katından olsaydı, onda birçok tutarsızlık bulurlardı.",
+ "mealNotu": "'Yetedebberûn' kökü, bir şeyin sonucunu ve bütününü düşünerek derinlemesine kavramayı anlatır; yalnız 'okumak' değil 'üzerinde düşünmek'tir. 'İhtilâfen' kelimesi çelişki, tutarsızlık anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "أَفَلَا",
+   "okunus": "efelâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil mi",
+   "karsilik": "-mıyorlar mı"
+  },
+  {
+   "kelime": "يَتَدَبَّرُونَ",
+   "okunus": "yetedebberûne",
+   "kok": "دبر",
+   "kokAnlam": "sonunu düşünme, derinlemesine kavrama",
+   "karsilik": "düşünüp anlıyorlar"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانَ",
+   "okunus": "elkur'âne",
+   "kok": "قرأ",
+   "kokAnlam": "okuma; Kur'ân",
+   "karsilik": "Kur'ân'ı"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olsaydı"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "عِندِ",
+   "okunus": "indi",
+   "kok": "عند",
+   "kokAnlam": "kat, nezd",
+   "karsilik": "katından"
+  },
+  {
+   "kelime": "غَيْرِ",
+   "okunus": "gayri",
+   "kok": "غير",
+   "kokAnlam": "başkalık, farklılık",
+   "karsilik": "başkasının"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "لَوَجَدُوا۟",
+   "okunus": "levecedû",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulurlardı"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat) onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "ٱخْتِلَٰفًا",
+   "okunus": "ihtilâfen",
+   "kok": "خلف",
+   "kokAnlam": "ayrılık, arkada kalma; çelişki, tutarsızlık",
+   "karsilik": "tutarsızlık"
+  },
+  {
+   "kelime": "كَثِيرًا",
+   "okunus": "kesîran",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "birçok"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerde anlatılan ikiyüzlü tutumun bir sebebine işaret eder: Kur'ân üzerinde gereği gibi düşünmemek. 'Tedebbür' kökü, bir sözün başını sonunu, bütününü birlikte düşünerek kavramayı anlatır; yüzeysel bir okumadan farklıdır.",
+  "Ayet, Kur'ân'ın kaynağına dair bir ölçüt de verir: eğer o Allah'tan başka bir kaynaktan gelmiş olsaydı, içinde birçok çelişki bulunurdu. Bu, dinleyiciyi metnin kendisi üzerinde düşünmeye çağıran bir davettir. Klasik tefsir bu ayeti, Kur'ân'ın iç tutarlılığını onun ilahî kaynaklı olduğuna bir işaret olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "47:24",
+   "meal": "Onlar Kur'ân'ı düşünüp anlamıyorlar mı, yoksa kalpleri üzerinde kilitler mi var?",
+   "baglanti": "Aynı 'tedebbür' çağrısı burada da tekrarlanır; anlamamanın sebebi olarak kalbin kapalılığı gösterilir."
+  },
+  {
+   "ref": "38:29",
+   "meal": "Bu, sana indirdiğimiz mübarek bir kitaptır; ayetlerini düşünsünler ve akıl sahipleri öğüt alsın diye.",
+   "baglanti": "Kur'ân'ın indiriliş amaçlarından biri olarak da üzerinde düşünülmesi burada açıkça belirtilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kur'ân üzerinde düşünmemenin, onu gereği gibi anlamamaya yol açtığıdır; bu genel bir okuma ve anlama çağrısıdır.",
+  "Bugüne taşınabilecek ders, okuduğun bir metni hızlıca geçmek yerine üzerinde durup düşünmektir. Bir ayeti, bir kitabı ya da bir konuşmayı anlamak, yalnız kelimeleri görmekle değil, bütününü düşünmekle mümkündür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yavaş oku",
+   "aciklama": "Bugün okuduğun bir ayeti, hızla geçmeden bir kez daha okuyup üzerinde düşün."
+  },
+  {
+   "baslik": "Bütünü gör",
+   "aciklama": "Bir konuyu değerlendirirken tek bir cümleye değil, bağlamın tamamına bak."
+  },
+  {
+   "baslik": "Not al",
+   "aciklama": "Düşündüğün bir ayetten çıkardığın bir dersi bugün kısaca yaz."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ayeti oku, anlamı üzerinde birkaç dakika düşün ve çıkardığın dersi bir cümleyle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=82"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/82"
+  }
+ ]
+}
