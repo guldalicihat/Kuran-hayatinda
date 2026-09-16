@@ -1,0 +1,250 @@
+{
+ "sure": 6,
+ "ayet": 35,
+ "durum": "taslak",
+ "meal": "Eğer onların yüz çevirmesi sana ağır geldiyse, yerde bir tünel ya da gökte bir merdiven arayıp onlara bir ayet getirebilirsen (getir). Allah dileseydi onları hidayet üzere toplardı. Öyleyse sakın cahillerden olma.",
+ "mealNotu": "'Nefeka' yerin altında tünel, 'süllem' gökte merdiven anlamına gelir; ayet, mucize arayışının imkânsız bir çabaya benzediğini anlatmak için bu iki uç örneği kullanır. 'Câhilîn' kökü burada bilgisizlik değil, sabırsız ve inatçı bir tutumu ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "كَبُرَ",
+   "okunus": "kebüra",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük, ağır gelme",
+   "karsilik": "ağır geldiyse"
+  },
+  {
+   "kelime": "عَلَيْكَ",
+   "okunus": "aleyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "إِعْرَاضُهُمْ",
+   "okunus": "i'râduhüm",
+   "kok": "عرض",
+   "kokAnlam": "yüz çevirme",
+   "karsilik": "onların yüz çevirmesi"
+  },
+  {
+   "kelime": "فَإِنِ",
+   "okunus": "feini",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "ٱسْتَطَعْتَ",
+   "okunus": "isteta'te",
+   "kok": "طوع",
+   "kokAnlam": "güç yetirme, imkân bulma",
+   "karsilik": "gücün yetiyorsa"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) diye",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "تَبْتَغِىَ",
+   "okunus": "tebteğıye",
+   "kok": "بغي",
+   "kokAnlam": "arama, isteme",
+   "karsilik": "aramaya"
+  },
+  {
+   "kelime": "نَفَقًا",
+   "okunus": "nefekan",
+   "kok": "نفق",
+   "kokAnlam": "tünel, delik",
+   "karsilik": "bir tünel"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer",
+   "karsilik": "yerin"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "سُلَّمًا",
+   "okunus": "süllemen",
+   "kok": "سلم",
+   "kokAnlam": "merdiven",
+   "karsilik": "bir merdiven"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "gökte"
+  },
+  {
+   "kelime": "فَتَأْتِيَهُم",
+   "okunus": "fete'tiyehüm",
+   "kok": "أتي",
+   "kokAnlam": "getirme, ulaştırma",
+   "karsilik": "onlara getirmek için"
+  },
+  {
+   "kelime": "بِـَٔايَةٍ",
+   "okunus": "biâyetin",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "bir ayet"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "شَآءَ",
+   "okunus": "şâe",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dileseydi"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَجَمَعَهُمْ",
+   "okunus": "lecemeahüm",
+   "kok": "جمع",
+   "kokAnlam": "toplama, bir araya getirme",
+   "karsilik": "onları toplardı"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "ٱلْهُدَىٰ",
+   "okunus": "elhüdâ",
+   "kok": "هدي",
+   "kokAnlam": "doğru yol, hidayet",
+   "karsilik": "hidayet"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) öyleyse",
+   "karsilik": "öyleyse"
+  },
+  {
+   "kelime": "تَكُونَنَّ",
+   "okunus": "tekûnenne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "sakın olma"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْجَٰهِلِينَ",
+   "okunus": "elcâhilîne",
+   "kok": "جهل",
+   "kokAnlam": "bilgisizlik, cahillik",
+   "karsilik": "cahillerden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Peygamberin inkarcıların ısrarlı yüz çevirmesi karşısında duyduğu ağırlığa değinir. 'Nefeka' (yer altı tüneli) ve 'süllem' (gök merdiveni) benzetmeleri, onlara istedikleri mucizeyi getirmenin fiziksel olarak imkânsız bir çabaya benzediğini gösterir.",
+  "Ayetin can alıcı noktası, hidayetin insan çabasıyla değil Allah'ın dilemesiyle gerçekleştiğidir. Klasik tefsir bu ayeti, Peygamberin görevinin tebliğ olduğunu, sonucu zorlamanın onun elinde olmadığını hatırlatma olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "13:31",
+   "meal": "Eğer kendisiyle dağların yürütüldüğü ya da yerin parçalandığı bir Kur'an olsaydı yine iman etmezlerdi... Allah dileseydi bütün insanları hidayete erdirirdi.",
+   "baglanti": "Aynı 'Allah dileseydi hepsini hidayete erdirirdi' ifadesi burada da geçer; mucize isteğinin sonucu değiştirmeyeceği vurgulanır."
+  },
+  {
+   "ref": "16:9",
+   "meal": "Doğru yolu göstermek Allah'a aittir; yolun eğrisi de vardır. O dileseydi hepinizi hidayete erdirirdi.",
+   "baglanti": "Hidayetin Allah'ın dilemesine bağlı olduğu, burada da aynı ifadeyle tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamberin tebliğ görevi ve inkarcıların ısrarlı reddidir; bu özel bir bağlamdır. Bugüne taşınabilecek ders, başkasının kalbini değiştirmenin senin elinde olmadığıdır.",
+  "Bir kişi, sevdiği birinin ya da bir topluluğun tutumunu değiştirmek için kendini tüketebilir. Bu ayet, elinden geleni yapmanın senin görevin olduğunu, sonucu zorlamanın ise senin sınırların dışında kaldığını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Elindekini yap, sonucu bırak",
+   "aciklama": "Bugün değiştirmeye çalıştığın bir kişi için elinden geleni yap, ama sonucu zorlamaktan vazgeç."
+  },
+  {
+   "baslik": "Tükenmişliği fark et",
+   "aciklama": "Birini ikna etmeye çalışırken kendini tükettiğini hissediyorsan bugün bir adım geri çekil."
+  },
+  {
+   "baslik": "Görevini netleştir",
+   "aciklama": "Bir konuda senin görevinin ne olduğunu, sonucun kimin elinde olduğunu bugün ayırt et."
+  }
+ ],
+ "bugununAdimi": "Bugün değiştiremeyeceğin bir sonucu bırak, sadece elinde olan adımı at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=35"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/35"
+  }
+ ]
+}

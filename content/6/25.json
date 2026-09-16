@@ -1,0 +1,278 @@
+{
+ "sure": 6,
+ "ayet": 25,
+ "durum": "taslak",
+ "meal": "Onlardan seni dinleyenler vardır; ama kalplerinin üzerine, onu kavramalarına engel örtüler, kulaklarına da bir ağırlık koyduk. Her ayeti görseler yine ona iman etmezler; hatta sana geldiklerinde seninle tartışırlarken inkâr edenler 'Bu, eskilerin masallarından başka bir şey değil' derler.",
+ "mealNotu": "'Ekinne' kökü kalbi örten bir kılıfı, 'vakr' kökü kulaktaki ağırlığı anlatır; ikisi birlikte anlama engelini simgeler. 'Esâtîr' kökü satır satır yazılmış eski hikâyeleri, yani 'masallar'ı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَمِنْهُم",
+   "okunus": "ve minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimi",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "يَسْتَمِعُ",
+   "okunus": "yestemiu",
+   "kok": "سمع",
+   "kokAnlam": "işitme, dinleme",
+   "karsilik": "dinler"
+  },
+  {
+   "kelime": "إِلَيْكَ",
+   "okunus": "ileyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana",
+   "karsilik": "seni"
+  },
+  {
+   "kelime": "وَجَعَلْنَا",
+   "okunus": "ve cealnâ",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "koyduk"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "قُلُوبِهِمْ",
+   "okunus": "kulûbihim",
+   "kok": "قلب",
+   "kokAnlam": "kalp",
+   "karsilik": "kalplerinin"
+  },
+  {
+   "kelime": "أَكِنَّةً",
+   "okunus": "ekinneten",
+   "kok": "كنن",
+   "kokAnlam": "örtme, saklama; örtü, kılıf",
+   "karsilik": "örtüler"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) diye",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "يَفْقَهُوهُ",
+   "okunus": "yefkahûhü",
+   "kok": "فقه",
+   "kokAnlam": "derinlemesine anlama, kavrama",
+   "karsilik": "onu kavramasınlar"
+  },
+  {
+   "kelime": "وَفِىٓ",
+   "okunus": "ve fî",
+   "kok": "—",
+   "kokAnlam": "(edat) ve içinde",
+   "karsilik": "ve içinde"
+  },
+  {
+   "kelime": "ءَاذَانِهِمْ",
+   "okunus": "âzânihim",
+   "kok": "أذن",
+   "kokAnlam": "kulak",
+   "karsilik": "kulaklarının"
+  },
+  {
+   "kelime": "وَقْرًا",
+   "okunus": "vekran",
+   "kok": "وقر",
+   "kokAnlam": "ağırlık, sağırlık",
+   "karsilik": "bir ağırlık"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يَرَوْا۟",
+   "okunus": "yerav",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görseler"
+  },
+  {
+   "kelime": "كُلَّ",
+   "okunus": "külle",
+   "kok": "كلل",
+   "kokAnlam": "bütün, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "ءَايَةٍ",
+   "okunus": "âyetin",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "ayeti"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yine de değil",
+   "karsilik": "yine"
+  },
+  {
+   "kelime": "يُؤْمِنُوا۟",
+   "okunus": "yü'minû",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman etme",
+   "karsilik": "iman etmezler"
+  },
+  {
+   "kelime": "بِهَا",
+   "okunus": "bihâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "حَتَّىٰٓ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) hatta, ta ki",
+   "karsilik": "hatta"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -diğinde",
+   "karsilik": "-diğinde"
+  },
+  {
+   "kelime": "جَآءُوكَ",
+   "okunus": "câûke",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "sana geldiklerinde"
+  },
+  {
+   "kelime": "يُجَٰدِلُونَكَ",
+   "okunus": "yücâdilûneke",
+   "kok": "جدل",
+   "kokAnlam": "tartışma, mücadele etme",
+   "karsilik": "seninle tartışırlar"
+  },
+  {
+   "kelime": "يَقُولُ",
+   "okunus": "yekûlü",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "der"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) o kimseler ki",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "كَفَرُوٓا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr eden"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "هَٰذَآ",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) başka",
+   "karsilik": "başka bir şey"
+  },
+  {
+   "kelime": "أَسَٰطِيرُ",
+   "okunus": "esâtîru",
+   "kok": "سطر",
+   "kokAnlam": "satır satır yazılmış hikâyeler; masal",
+   "karsilik": "masalları"
+  },
+  {
+   "kelime": "ٱلْأَوَّلِينَ",
+   "okunus": "el'evvelîne",
+   "kok": "أول",
+   "kokAnlam": "ilk, öncekiler",
+   "karsilik": "eskilerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Peygamberi dinleyen ama gerçekte anlamaya niyeti olmayan bir grup inkarcıyı tasvir eder. 'Ekinne' (kalp üzerindeki örtü) ve 'vakr' (kulaktaki ağırlık) kökleri, dışarıdan dinliyor görünseler de içeride anlamaya kapalı olduklarını anlatır.",
+  "Bu kapanmanın sonucu, hangi delil gösterilirse gösterilsin inanmamaktır; en açık ayetler bile fayda vermez. Karşılaştıklarında Peygamberle tartışsalar da sonunda Kur'an'ı 'eskilerin masalları' diye küçümserler. Klasik tefsir bunu, kişinin kendi inatçı tutumunun anlama kapısını kapatması olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:46",
+   "meal": "Kalplerinin üzerine, onu anlamalarına engel örtüler, kulaklarına da bir ağırlık koyduk. Kur'an'da Rabbini tek başına andığında ise nefretle arkalarını dönüp giderler.",
+   "baglanti": "Aynı 'örtü ve ağırlık' ifadesi burada da geçer; tevhid vurgusu karşısındaki tepkileri anlatılır."
+  },
+  {
+   "ref": "18:57",
+   "meal": "Rabbinin ayetleriyle kendisine öğüt verilip de onlardan yüz çeviren ve elleriyle yaptıklarını unutan kimseden daha zalim kim olabilir? Şüphesiz biz onların kalplerinin üzerine, onu anlamalarına engel örtüler, kulaklarına da bir ağırlık koyduk.",
+   "baglanti": "Aynı örtü ve ağırlık ifadesi, ayetlerden yüz çevirmenin bir sonucu olarak tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamberi dinleyip de inanmayan inkarcıların tutumudur; bu tarihsel bir sahnedir. Bugüne taşınabilecek ders, dinlemekle gerçekten anlamak arasındaki farktır.",
+  "Bir insan bir konuşmayı, bir eleştiriyi ya da bir öğüdü fiziksel olarak duyabilir, ama zihni önceden kapanmışsa hiçbir şey içeri girmez. Önyargıyla dinlemek, hiç dinlememekle aynı sonucu verebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önyargını fark et",
+   "aciklama": "Bugün birini dinlerken, cevabını önceden hazırlamış olarak mı dinlediğini fark et."
+  },
+  {
+   "baslik": "Anlamak için dinle",
+   "aciklama": "Bir sohbette karşındakine, itiraz etmeden önce tam olarak ne demek istediğini sor."
+  },
+  {
+   "baslik": "Kolay etiketten kaçın",
+   "aciklama": "Katılmadığın bir görüşü 'saçma' diye geçiştirmeden önce gerçekten anlamaya çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün bir tartışmada karşındakini, cevap hazırlamadan önce sonuna kadar dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=25"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/25"
+  }
+ ]
+}

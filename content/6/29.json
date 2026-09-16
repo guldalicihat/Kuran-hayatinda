@@ -1,0 +1,117 @@
+{
+ "sure": 6,
+ "ayet": 29,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'Hayat, ancak bu dünya hayatımızdır; biz diriltilecek değiliz.'",
+ "mealNotu": "'Meb'ûsîn' kökü diriltilip kaldırılmayı anlatır; bu kelime Kur'an'da hem peygamber gönderme hem yeniden diriltme için kullanılır, burada ikinci anlamdadır.",
+ "kokler": [
+  {
+   "kelime": "وَقَالُوٓا۟",
+   "okunus": "ve kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "هِىَ",
+   "okunus": "hiye",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, sadece",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "حَيَاتُنَا",
+   "okunus": "hayâtünâ",
+   "kok": "حيي",
+   "kokAnlam": "hayat, yaşam",
+   "karsilik": "hayatımız"
+  },
+  {
+   "kelime": "ٱلدُّنْيَا",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık; alçak, dünya",
+   "karsilik": "bu dünya"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değiliz"
+  },
+  {
+   "kelime": "نَحْنُ",
+   "okunus": "nahnü",
+   "kok": "—",
+   "kokAnlam": "(zamir) biz",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "بِمَبْعُوثِينَ",
+   "okunus": "bimeb'ûsîne",
+   "kok": "بعث",
+   "kokAnlam": "gönderme; diriltilip kaldırılma",
+   "karsilik": "diriltilecek"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, konuyu ahiret sahnelerinden inkarcıların dünyadaki asıl iddiasına döndürür: öldükten sonra dirilmenin reddi. 'Hayâtünâ ed-dünyâ' ifadesi, onların hayatı yalnızca gözle görülen bu dünyayla sınırladığını gösterir.",
+  "'Bimeb'ûsîn' kökü, yeniden diriltilip hesaba kaldırılmayı anlatır; bu iddiayı reddetmeleri, önceki ayetlerdeki ahiret sahnelerinin onlar için neden bu kadar geç kalmış bir gerçek olduğunu açıklar. Klasik tefsir bu ayeti, ahireti reddetmenin inkârın temel dayanaklarından biri olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "45:24",
+   "meal": "Dediler ki: 'Hayat ancak bizim şu dünya hayatımızdır; ölürüz ve yaşarız, bizi ancak zaman helak eder.' Bu konuda hiçbir bilgileri yoktur, sadece zannederler.",
+   "baglanti": "Aynı inkâr burada da dile getirilir; ayrıca bu iddianın bilgiye değil zanna dayandığı vurgulanır."
+  },
+  {
+   "ref": "16:38",
+   "meal": "Olanca güçleriyle Allah'a yemin ettiler ki, Allah ölen kimseyi diriltmez. Hayır, bu O'nun üzerine hak bir vaattir; fakat insanların çoğu bilmez.",
+   "baglanti": "Dirilişi reddeden aynı iddiaya, burada Allah'ın kesin vaadiyle karşılık verilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ahireti reddeden bir inanç iddiasıdır; bu itikadi bir konudur. Bugüne taşınabilecek ders, hayatı yalnızca görünenle sınırlamanın davranışları nasıl şekillendirdiğidir.",
+  "Hayatı sadece bu dünyadan ibaret gören biri, hesap verme duygusunu kaybedebilir ve kısa vadeli çıkarı öne çıkarabilir. Ahirete inanmak ise, göremediğin sonuçları da hesaba katarak seçim yapmayı hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Uzun vadeyi hatırla",
+   "aciklama": "Bugün bir kararında, sadece anlık faydayı değil uzun vadeli sonucu da düşün."
+  },
+  {
+   "baslik": "Hesap bilincini tazele",
+   "aciklama": "Bir işi yaparken 'bunun hesabını verecek miyim' sorusunu kendine sor."
+  },
+  {
+   "baslik": "Görünmeyene değer ver",
+   "aciklama": "Bugün kimsenin görmediği bir iyiliği, sadece Allah için yap."
+  }
+ ],
+ "bugununAdimi": "Bugün kimsenin görmediği küçük bir iyiliği yap ve bunu sadece Allah için yaptığını hatırla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=29"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/29"
+  }
+ ]
+}
