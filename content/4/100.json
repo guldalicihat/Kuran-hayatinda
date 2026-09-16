@@ -1,0 +1,271 @@
+{
+ "sure": 4,
+ "ayet": 100,
+ "durum": "taslak",
+ "meal": "Kim Allah yolunda hicret ederse, yeryüzünde gidecek geniş yerler ve bolluk bulur. Kim evinden Allah'a ve Resûlü'ne hicret ederek çıkar, sonra kendisine ölüm yetişirse, artık onun ecri Allah'ın üzerine düşmüştür. Allah çok bağışlayan, çok merhamet edendir.",
+ "mealNotu": "'Mürâğam' kökü, zorluğa rağmen bulunan geniş bir sığınacak yeri/imkânı anlatır; burada 'gidecek geniş yer' olarak karşılanmıştır. 'Vekaa ecruhû alallâh' ifadesi, ecrinin Allah'ın üzerine düştüğünü, yani O'na ait olduğunu anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "يُهَاجِرْ",
+   "okunus": "yühâcir",
+   "kok": "هجر",
+   "kokAnlam": "terk edip göç etme",
+   "karsilik": "hicret ederse"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "يَجِدْ",
+   "okunus": "yecid",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulur"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "مُرَٰغَمًا",
+   "okunus": "mürâğamen",
+   "kok": "رغم",
+   "kokAnlam": "zorlanmaya rağmen bulunan geniş sığınak",
+   "karsilik": "gidecek geniş yer"
+  },
+  {
+   "kelime": "كَثِيرًا",
+   "okunus": "kesîran",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "çok"
+  },
+  {
+   "kelime": "وَسَعَةً",
+   "okunus": "ve seaten",
+   "kok": "وسع",
+   "kokAnlam": "genişlik",
+   "karsilik": "ve bolluk"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "يَخْرُجْ",
+   "okunus": "yahruc",
+   "kok": "خرج",
+   "kokAnlam": "çıkma",
+   "karsilik": "çıkarsa"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَيْتِهِۦ",
+   "okunus": "beytihî",
+   "kok": "بيت",
+   "kokAnlam": "ev",
+   "karsilik": "evinden"
+  },
+  {
+   "kelime": "مُهَاجِرًا",
+   "okunus": "mühâciran",
+   "kok": "هجر",
+   "kokAnlam": "göç eden",
+   "karsilik": "hicret ederek"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَرَسُولِهِۦ",
+   "okunus": "ve rasûlihî",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi",
+   "karsilik": "ve Resûlü'ne"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "يُدْرِكْهُ",
+   "okunus": "yüdrikhü",
+   "kok": "درك",
+   "kokAnlam": "yetişme, ulaşma",
+   "karsilik": "kendisine yetişirse"
+  },
+  {
+   "kelime": "ٱلْمَوْتُ",
+   "okunus": "elmevtü",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölüm"
+  },
+  {
+   "kelime": "فَقَدْ",
+   "okunus": "fekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) artık gerçekten",
+   "karsilik": "artık"
+  },
+  {
+   "kelime": "وَقَعَ",
+   "okunus": "vekaa",
+   "kok": "وقع",
+   "kokAnlam": "düşme, gerçekleşme",
+   "karsilik": "düşmüştür"
+  },
+  {
+   "kelime": "أَجْرُهُۥ",
+   "okunus": "ecruhû",
+   "kok": "أجر",
+   "kokAnlam": "karşılık, ücret",
+   "karsilik": "onun ecri"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَكَانَ",
+   "okunus": "ve kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ve...dir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَفُورًا",
+   "okunus": "gafûran",
+   "kok": "غفر",
+   "kokAnlam": "örtme, bağışlama",
+   "karsilik": "çok bağışlayan"
+  },
+  {
+   "kelime": "رَّحِيمًا",
+   "okunus": "rahîmen",
+   "kok": "رحم",
+   "kokAnlam": "merhamet",
+   "karsilik": "çok merhamet eden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, hicret edenler için iki vaad sunar: hicret eden kişi yeryüzünde gidecek geniş bir yer ve bolluk bulur; hicret ederken yolda ölüm gelse bile ecri Allah katında hazırdır. 'Mürâğam' kökü, sıkışıklığa rağmen bulunan bir çıkış imkânını anlatır.",
+  "Ayet, bir amaca doğru yola çıkmanın kendisinin değerli olduğunu, sonucun tamamlanmasını beklemeden de emeğin karşılıksız kalmayacağını bildirir. Bu, hicretin yalnız varış noktasıyla değil, niyet ve çıkışla da ölçüldüğünü gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "16:41",
+   "meal": "Zulüm gördükten sonra Allah yolunda hicret edenleri, dünyada güzel bir biçimde yerleştireceğiz; ahiret ecri ise daha büyüktür, keşke bilselerdi.",
+   "baglanti": "Hicretin dünyevi ve uhrevi karşılığı burada da anılır; iki ayet birbirini tamamlar."
+  },
+  {
+   "ref": "9:100",
+   "meal": "İlk öncü muhacirler ve ensar ile onlara güzellikle uyanlardan Allah razı olmuştur, onlar da Allah'tan razı olmuşlardır; Allah onlara altından ırmaklar akan cennetler hazırlamıştır.",
+   "baglanti": "İlk hicret edenlerin karşılığı burada somutlaşır; 100. ayetteki genel vaadin bir örneği gibidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu hicrettir; özel bir tarihî bağlamı vardır.",
+  "Bugüne taşınabilecek ders, bir hedefe doğru samimiyetle yola çıkmanın, sonucu ne olursa olsun değerli olduğudur. Yarım kalan bir çaba, niyeti doğruysa boşa gitmez."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yarım kalan bir çabanı hatırla",
+   "aciklama": "Sonuçlanmamış ama iyi niyetle başladığın bir işi düşün ve kendine 'emeğim boşa gitmedi' de."
+  },
+  {
+   "baslik": "Bir adıma bugün başla",
+   "aciklama": "Ertelediğin doğru bir hedef için bugün küçük de olsa somut bir adım at."
+  },
+  {
+   "baslik": "Sonucu değil niyeti önceliklendir",
+   "aciklama": "Bir işe başlarken sonucu garanti edemesen de, niyetini doğru tutmaya odaklan."
+  }
+ ],
+ "bugununAdimi": "Ertelediğin doğru bir hedef için bugün ilk somut adımı at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=100"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/100"
+  }
+ ]
+}

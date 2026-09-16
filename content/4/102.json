@@ -1,0 +1,488 @@
+{
+ "sure": 4,
+ "ayet": 102,
+ "durum": "taslak",
+ "meal": "Sen içlerinde bulunup onlara namazı kıldırdığında, içlerinden bir grup seninle namaza dursun ve silahlarını yanlarına alsınlar. Secde ettiklerinde arkanızda dursunlar; namaz kılmamış olan diğer grup gelip seninle namaz kılsın, onlar da tedbirlerini ve silahlarını alsınlar. İnkâr edenler, silahlarınızdan ve eşyanızdan bir an gaflete düşseniz, üzerinize tek bir baskınla saldırmayı isterler. Yağmurdan bir eziyetiniz olur veya hasta olursanız, silahlarınızı bırakmanızda size bir günah yoktur; yine de tedbirinizi alın. Şüphesiz Allah, kâfirler için alçaltıcı bir azap hazırlamıştır.",
+ "mealNotu": "'Tâife' kökü bir grup/topluluk anlamındadır; ayet iki grubun sırayla namaz kılmasını tarif eder. Uygulamanın ayrıntıları (rekat sayısı, sıralama biçimi) klasik fıkıh eserlerinde tartışılır; burada yalnız ayetin lafzı esas alınmıştır.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "كُنتَ",
+   "okunus": "künte",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "sen olduğunda"
+  },
+  {
+   "kelime": "فِيهِمْ",
+   "okunus": "fîhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onların içinde",
+   "karsilik": "onların içinde"
+  },
+  {
+   "kelime": "فَأَقَمْتَ",
+   "okunus": "feekamte",
+   "kok": "قوم",
+   "kokAnlam": "ayağa kaldırma, ikame etme",
+   "karsilik": "kıldırdığında"
+  },
+  {
+   "kelime": "لَهُمُ",
+   "okunus": "lehümü",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "namaz",
+   "karsilik": "namazı"
+  },
+  {
+   "kelime": "فَلْتَقُمْ",
+   "okunus": "feltekum",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, ikame",
+   "karsilik": "dursun"
+  },
+  {
+   "kelime": "طَآئِفَةٌ",
+   "okunus": "tâifetün",
+   "kok": "طوف",
+   "kokAnlam": "dönüp dolaşan topluluk, grup",
+   "karsilik": "bir grup"
+  },
+  {
+   "kelime": "مِّنْهُم",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "مَعَكَ",
+   "okunus": "meake",
+   "kok": "—",
+   "kokAnlam": "(yer) seninle beraber",
+   "karsilik": "seninle"
+  },
+  {
+   "kelime": "وَلْيَأْخُذُوا۟",
+   "okunus": "ve lye'huzû",
+   "kok": "أخذ",
+   "kokAnlam": "alma, tutma",
+   "karsilik": "alsınlar"
+  },
+  {
+   "kelime": "أَسْلِحَتَهُمْ",
+   "okunus": "eslihatehüm",
+   "kok": "سلح",
+   "kokAnlam": "silah",
+   "karsilik": "silahlarını"
+  },
+  {
+   "kelime": "فَإِذَا",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "سَجَدُوا۟",
+   "okunus": "secedû",
+   "kok": "سجد",
+   "kokAnlam": "secde etme",
+   "karsilik": "secde ettiklerinde"
+  },
+  {
+   "kelime": "فَلْيَكُونُوا۟",
+   "okunus": "felyekûnû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olsunlar"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "وَرَآئِكُمْ",
+   "okunus": "verâiküm",
+   "kok": "وري",
+   "kokAnlam": "arka, geri",
+   "karsilik": "arkanızda"
+  },
+  {
+   "kelime": "وَلْتَأْتِ",
+   "okunus": "ve lte'ti",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "gelsin"
+  },
+  {
+   "kelime": "طَآئِفَةٌ",
+   "okunus": "tâifetün",
+   "kok": "طوف",
+   "kokAnlam": "dönüp dolaşan topluluk, grup",
+   "karsilik": "bir grup"
+  },
+  {
+   "kelime": "أُخْرَىٰ",
+   "okunus": "ührâ",
+   "kok": "أخر",
+   "kokAnlam": "başka, diğer",
+   "karsilik": "diğer"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi",
+   "karsilik": "-memiş"
+  },
+  {
+   "kelime": "يُصَلُّوا۟",
+   "okunus": "yüsallû",
+   "kok": "صلو",
+   "kokAnlam": "namaz kılma",
+   "karsilik": "namaz kılmış"
+  },
+  {
+   "kelime": "فَلْيُصَلُّوا۟",
+   "okunus": "felyüsallû",
+   "kok": "صلو",
+   "kokAnlam": "namaz kılma",
+   "karsilik": "namaz kılsın"
+  },
+  {
+   "kelime": "مَعَكَ",
+   "okunus": "meake",
+   "kok": "—",
+   "kokAnlam": "(yer) seninle beraber",
+   "karsilik": "seninle"
+  },
+  {
+   "kelime": "وَلْيَأْخُذُوا۟",
+   "okunus": "ve lye'huzû",
+   "kok": "أخذ",
+   "kokAnlam": "alma, tutma",
+   "karsilik": "alsınlar"
+  },
+  {
+   "kelime": "حِذْرَهُمْ",
+   "okunus": "hizrahüm",
+   "kok": "حذر",
+   "kokAnlam": "sakınma, tedbir",
+   "karsilik": "tedbirlerini"
+  },
+  {
+   "kelime": "وَأَسْلِحَتَهُمْ",
+   "okunus": "ve eslihatehüm",
+   "kok": "سلح",
+   "kokAnlam": "silah",
+   "karsilik": "ve silahlarını"
+  },
+  {
+   "kelime": "وَدَّ",
+   "okunus": "vedde",
+   "kok": "ودد",
+   "kokAnlam": "arzu etme, isteme, sevme",
+   "karsilik": "isterler"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr eden"
+  },
+  {
+   "kelime": "لَوْ",
+   "okunus": "lev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) eğer, keşke",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَغْفُلُونَ",
+   "okunus": "tağfülûne",
+   "kok": "غفل",
+   "kokAnlam": "gaflet, dikkatsizlik",
+   "karsilik": "gaflete düşseniz"
+  },
+  {
+   "kelime": "عَنْ",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَسْلِحَتَكُمْ",
+   "okunus": "eslihatiküm",
+   "kok": "سلح",
+   "kokAnlam": "silah",
+   "karsilik": "silahlarınızdan"
+  },
+  {
+   "kelime": "وَأَمْتِعَتِكُمْ",
+   "okunus": "ve emtiatiküm",
+   "kok": "متع",
+   "kokAnlam": "eşya, mal",
+   "karsilik": "ve eşyanızdan"
+  },
+  {
+   "kelime": "فَيَمِيلُونَ",
+   "okunus": "feyemîlûne",
+   "kok": "ميل",
+   "kokAnlam": "eğilme, saldırma",
+   "karsilik": "saldırmayı"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinize",
+   "karsilik": "üzerinize"
+  },
+  {
+   "kelime": "مَّيْلَةً",
+   "okunus": "meyleten",
+   "kok": "ميل",
+   "kokAnlam": "bir saldırı, ansızın eğiliş",
+   "karsilik": "bir baskınla"
+  },
+  {
+   "kelime": "وَٰحِدَةً",
+   "okunus": "vâhideten",
+   "kok": "وحد",
+   "kokAnlam": "bir, tek",
+   "karsilik": "tek"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve yoktur",
+   "karsilik": "ve yoktur"
+  },
+  {
+   "kelime": "جُنَاحَ",
+   "okunus": "cünâha",
+   "kok": "جنح",
+   "kokAnlam": "günah, sakınca",
+   "karsilik": "günah"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinize",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "بِكُمْ",
+   "okunus": "biküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sizde",
+   "karsilik": "sizde"
+  },
+  {
+   "kelime": "أَذًى",
+   "okunus": "ezen",
+   "kok": "أذي",
+   "kokAnlam": "eziyet, rahatsızlık",
+   "karsilik": "bir eziyet"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "مَّطَرٍ",
+   "okunus": "metarin",
+   "kok": "مطر",
+   "kokAnlam": "yağmur",
+   "karsilik": "yağmurdan"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "كُنتُم",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "مَّرْضَىٰٓ",
+   "okunus": "merdâ",
+   "kok": "مرض",
+   "kokAnlam": "hastalık",
+   "karsilik": "hasta"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -manızda",
+   "karsilik": "-manızda"
+  },
+  {
+   "kelime": "تَضَعُوٓا۟",
+   "okunus": "tedaû",
+   "kok": "وضع",
+   "kokAnlam": "koyma, bırakma",
+   "karsilik": "bırakmanızda"
+  },
+  {
+   "kelime": "أَسْلِحَتَكُمْ",
+   "okunus": "eslihateküm",
+   "kok": "سلح",
+   "kokAnlam": "silah",
+   "karsilik": "silahlarınızı"
+  },
+  {
+   "kelime": "وَخُذُوا۟",
+   "okunus": "ve huzû",
+   "kok": "أخذ",
+   "kokAnlam": "alma, tutma",
+   "karsilik": "ve alın"
+  },
+  {
+   "kelime": "حِذْرَكُمْ",
+   "okunus": "hizraküm",
+   "kok": "حذر",
+   "kokAnlam": "sakınma, tedbir",
+   "karsilik": "tedbirinizi"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "أَعَدَّ",
+   "okunus": "eadde",
+   "kok": "عدد",
+   "kokAnlam": "sayma; hazırlama",
+   "karsilik": "hazırlamıştır"
+  },
+  {
+   "kelime": "لِلْكَٰفِرِينَ",
+   "okunus": "lilkâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "kâfirler için"
+  },
+  {
+   "kelime": "عَذَابًا",
+   "okunus": "azâben",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "bir azap"
+  },
+  {
+   "kelime": "مُّهِينًا",
+   "okunus": "mühînen",
+   "kok": "هون",
+   "kokAnlam": "aşağılama, küçük düşürme",
+   "karsilik": "alçaltıcı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, düşmanla karşı karşıya kalındığında cemaatle namazın nasıl kılınacağını ayrıntılı biçimde tarif eder: bir grup namaza dursun, diğeri nöbet tutup silahını elden bırakmasın, sonra yer değiştirsinler.",
+  "Ayet ayrıca düşmanın bir gaflet anını fırsat bilebileceğini hatırlatır; yağmur ya da hastalık gibi gerçek bir zorluk olduğunda silahı bırakmanın günah olmadığını, ama yine de tedbirin terk edilmemesi gerektiğini bildirir. Klasik fıkıh bu ayeti 'korku namazı' uygulamasının temel dayanağı sayar; uygulamanın ayrıntıları mezhepler arasında farklı yorumlanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:101",
+   "meal": "Yeryüzünde sefere çıktığınızda, inkâr edenlerin sizi fitneye düşürmesinden korkarsanız, namazı kısaltmanızda size bir günah yoktur.",
+   "baglanti": "101. ayetteki genel izin, burada cemaatle kılınan korku namazının ayrıntılı tarifiyle devam eder."
+  },
+  {
+   "ref": "2:239",
+   "meal": "Eğer korkarsanız yaya olarak ya da binek üzerinde kılın; güvene kavuştuğunuzda ise Allah'ı, size bilmediklerinizi öğrettiği gibi anın.",
+   "baglanti": "Bu ayet de tehlike anında namazın olağan şeklinden farklı kılınabileceğini gösterir; korku namazı ilkesi Bakara'da da yer alır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, savaş/güvenlik ortamında ibadetin nasıl sürdürüleceğidir; bu özel bir dinî-hukukî düzenlemedir.",
+  "Bugüne taşınabilecek ders, en zorlu şartlarda bile ibadeti tamamen bırakmamak, ama tedbiri de elden bırakmamaktır. Sorumluluk ile ibadet arasında bir denge kurulabileceğini gösterir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sorumluluk ile ibadeti dengele",
+   "aciklama": "Yoğun ya da riskli bir günde, hem işini hem ibadetini aksatmadan sürdürebileceğin bir düzen kur."
+  },
+  {
+   "baslik": "Tedbiri elden bırakma",
+   "aciklama": "Güvenli hissettiğin bir anda bile alman gereken basit bir önlemi bugün ihmal etme."
+  },
+  {
+   "baslik": "Nöbetleşe çalış",
+   "aciklama": "Bir grup işinde, herkesin aynı anda mola vermeyip sırayla devam etmesini öner."
+  }
+ ],
+ "bugununAdimi": "Bugün bir sorumluluğunu yerine getirirken, tedbiri elden bırakmadan aynı anda ibadetini de aksatma.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=102"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/102"
+  }
+ ]
+}

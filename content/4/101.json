@@ -1,0 +1,215 @@
+{
+ "sure": 4,
+ "ayet": 101,
+ "durum": "taslak",
+ "meal": "Yeryüzünde sefere çıktığınızda, inkâr edenlerin sizi fitneye düşürmesinden korkarsanız, namazı kısaltmanızda size bir günah yoktur. Şüphesiz kâfirler sizin için apaçık bir düşmandır.",
+ "mealNotu": "'Darabtüm fil ard' ifadesi yolculuğa çıkmayı, 'cünah' kelimesi günah/sakınca anlamını taşır. Kısaltmanın kapsamına dair ayrıntılar klasik fıkıh eserlerinde tartışılır; burada yalnız ayetin lafzı esas alınmıştır.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığınızda"
+  },
+  {
+   "kelime": "ضَرَبْتُمْ",
+   "okunus": "darabtüm",
+   "kok": "ضرب",
+   "kokAnlam": "vurma; sefere/yolculuğa çıkma",
+   "karsilik": "sefere çıktığınızda"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "فَلَيْسَ",
+   "okunus": "feleyse",
+   "kok": "ليس",
+   "kokAnlam": "olmama",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinize",
+   "karsilik": "üzerinize"
+  },
+  {
+   "kelime": "جُنَاحٌ",
+   "okunus": "cünâhun",
+   "kok": "جنح",
+   "kokAnlam": "günah, sakınca",
+   "karsilik": "bir günah"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesinde",
+   "karsilik": "-mesinde"
+  },
+  {
+   "kelime": "تَقْصُرُوا۟",
+   "okunus": "teksurû",
+   "kok": "قصر",
+   "kokAnlam": "kısaltma",
+   "karsilik": "kısaltmanızda"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةِ",
+   "okunus": "essalâti",
+   "kok": "صلو",
+   "kokAnlam": "namaz",
+   "karsilik": "namazı"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "خِفْتُمْ",
+   "okunus": "hıftüm",
+   "kok": "خوف",
+   "kokAnlam": "korkma",
+   "karsilik": "korkarsanız"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesinden",
+   "karsilik": "-mesinden"
+  },
+  {
+   "kelime": "يَفْتِنَكُمُ",
+   "okunus": "yeftinekümü",
+   "kok": "فتن",
+   "kokAnlam": "sınama, fitneye düşürme",
+   "karsilik": "sizi fitneye düşürmesinden"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimselerin"
+  },
+  {
+   "kelime": "كَفَرُوٓا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr eden"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلْكَٰفِرِينَ",
+   "okunus": "elkâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "kâfirler"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dır"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "عَدُوًّا",
+   "okunus": "adüvven",
+   "kok": "عدو",
+   "kokAnlam": "düşmanlık",
+   "karsilik": "bir düşman"
+  },
+  {
+   "kelime": "مُّبِينًا",
+   "okunus": "mübînen",
+   "kok": "بين",
+   "kokAnlam": "açık, apaçık",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, yolculuk halinde ve düşman tehlikesi varken namazın kısaltılmasına izin verir. 'Darabtüm fil ard' ifadesi sefere çıkmayı, 'cünah' ise günah ya da sakınca anlamına gelir.",
+  "Klasik fıkıh bu ayeti, yolcu namazının (seferilik) ve bir sonraki ayette ayrıntılandırılan 'korku namazı'nın temel dayanağı olarak açıklar. Kısaltmanın tam kapsamı ve şartlarına dair ayrıntılar klasik fıkıh eserlerinde tartışılır; bu nedenle kesin bir tek uygulama biçimi olarak sunulmaz."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:239",
+   "meal": "Eğer korkarsanız yaya olarak ya da binek üzerinde kılın; güvene kavuştuğunuzda ise Allah'ı, size bilmediklerinizi öğrettiği gibi anın.",
+   "baglanti": "Bu ayet de tehlike anında namazın olağan biçiminden farklı kılınabileceğini gösterir; 101. ayetteki kolaylık ilkesiyle örtüşür."
+  },
+  {
+   "ref": "4:102",
+   "meal": "Sen içlerinde bulunup onlara namazı kıldırdığında, içlerinden bir grup seninle namaza dursun...",
+   "baglanti": "101. ayetteki genel izin, 102. ayette cemaatle kılınan korku namazının ayrıntılı tarifiyle devam eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan namaz ve seferilik hukukudur; bu özel bir dinî hükümdür.",
+  "Bugüne taşınabilecek ders, zorlu şartlarda dinin kolaylık tanıdığı, ibadetin şartlara göre esnekleşebileceği ilkesidir. Bu, sorumluluğu bırakmak değil, imkâna göre asgari düzeyde sürdürmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zor bir günde asgariyi koru",
+   "aciklama": "Yoğun veya güvensiz bir günde ibadetini tamamen bırakmak yerine kısa da olsa yerine getir."
+  },
+  {
+   "baslik": "Kolaylığı istismar etme",
+   "aciklama": "Kısaltma ya da erteleme hakkını, gerçek bir zorluk yokken kullanmadığından emin ol."
+  },
+  {
+   "baslik": "Şartları gözden geçir",
+   "aciklama": "Bugün bir sorumluluğunu yerine getirirken hangi şartların seni zorladığını yaz."
+  }
+ ],
+ "bugununAdimi": "Bugün yoğun bir anında, ibadetini tamamen bırakmak yerine kısa da olsa yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=101"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/101"
+  }
+ ]
+}

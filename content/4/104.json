@@ -1,0 +1,208 @@
+{
+ "sure": 4,
+ "ayet": 104,
+ "durum": "taslak",
+ "meal": "O topluluğu izlemekte gevşeklik göstermeyin. Eğer siz acı çekiyorsanız, şüphesiz onlar da sizin acı çektiğiniz gibi acı çekmektedir. Oysa siz Allah'tan, onların ummadığı şeyi umuyorsunuz. Allah her şeyi bilendir, hüküm ve hikmet sahibidir.",
+ "mealNotu": "'Tehinû' kökü zayıflık ve gevşekliği anlatır. Cümlenin ikinci yarısında 'te'lemûne' fiili hem müminlere hem karşı tarafa yüklenerek, zorluğun ortak, umudun ise farklı olduğu vurgulanır.",
+ "kokler": [
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve...meyin",
+   "karsilik": "ve...meyin"
+  },
+  {
+   "kelime": "تَهِنُوا۟",
+   "okunus": "tehinû",
+   "kok": "وهن",
+   "kokAnlam": "zayıflık, gevşeklik",
+   "karsilik": "gevşeklik göstermeyin"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱبْتِغَآءِ",
+   "okunus": "ibtiğâi",
+   "kok": "بغي",
+   "kokAnlam": "arama, peşinden gitme",
+   "karsilik": "izlemede"
+  },
+  {
+   "kelime": "ٱلْقَوْمِ",
+   "okunus": "elkavmi",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk, kavim",
+   "karsilik": "o topluluğu"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَكُونُوا۟",
+   "okunus": "tekûnû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "تَأْلَمُونَ",
+   "okunus": "te'lemûne",
+   "kok": "ألم",
+   "kokAnlam": "acı çekme",
+   "karsilik": "acı çekiyor"
+  },
+  {
+   "kelime": "فَإِنَّهُمْ",
+   "okunus": "feinnehüm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz onlar da",
+   "karsilik": "şüphesiz onlar da"
+  },
+  {
+   "kelime": "يَأْلَمُونَ",
+   "okunus": "ye'lemûne",
+   "kok": "ألم",
+   "kokAnlam": "acı çekme",
+   "karsilik": "acı çekiyorlar"
+  },
+  {
+   "kelime": "كَمَا",
+   "okunus": "kemâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) gibi",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "تَأْلَمُونَ",
+   "okunus": "te'lemûne",
+   "kok": "ألم",
+   "kokAnlam": "acı çekme",
+   "karsilik": "acı çektiğiniz"
+  },
+  {
+   "kelime": "وَتَرْجُونَ",
+   "okunus": "ve tercûne",
+   "kok": "رجو",
+   "kokAnlam": "umma",
+   "karsilik": "ve umuyorsunuz"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -meyen",
+   "karsilik": "-meyen"
+  },
+  {
+   "kelime": "يَرْجُونَ",
+   "okunus": "yercûne",
+   "kok": "رجو",
+   "kokAnlam": "umma",
+   "karsilik": "ummadıkları"
+  },
+  {
+   "kelime": "وَكَانَ",
+   "okunus": "ve kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dır"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلِيمًا",
+   "okunus": "alîmen",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "her şeyi bilen"
+  },
+  {
+   "kelime": "حَكِيمًا",
+   "okunus": "hakîmen",
+   "kok": "حكم",
+   "kokAnlam": "hikmet, hüküm",
+   "karsilik": "hüküm ve hikmet sahibi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, müminlere düşmanı izlemede gevşememelerini söyler; çünkü karşı taraf da aynı yorgunluğu ve acıyı çekmektedir. Ortak olan zorluğa karşı, farkı yaratan şey müminlerin Allah'tan bir karşılık ummasıdır.",
+  "'Te'lemûne' (acı çekme) fiilinin her iki tarafa da yüklenmesi, savaşın zorluğunun paylaşıldığını, ama anlam ve umut farkının moral üstünlüğü belirlediğini gösterir. Ayet 'Allah her şeyi bilen, hüküm ve hikmet sahibidir' diyerek bu dengeyi ilahi ilme bağlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:139",
+   "meal": "Gevşemeyin, üzülmeyin; eğer müminlerseniz en üstün olan sizsiniz.",
+   "baglanti": "Aynı 'lâ tehinû' ifadesi burada da geçer; iki ayet birbirini doğrudan tamamlar."
+  },
+  {
+   "ref": "47:35",
+   "meal": "Gevşemeyin ve barışa çağırmayın, üstün olan sizsiniz; Allah sizinle beraberdir ve amellerinizi asla eksiltmez.",
+   "baglanti": "Gevşememe uyarısı burada da tekrarlanır; Allah'ın beraberliği vurgusu 104. ayetteki umut temasıyla örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan savaş direncidir; özel bir bağlamı vardır.",
+  "Bugüne taşınabilecek ders, herkesin zorluk yaşadığı bir yarışta, umut ve anlam taşıyan tarafın daha uzun süre dayanabileceğidir. Zorluk paylaşılsa da, sebat gösterme sebebi kişiyi farklılaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yorgunluğun ortak olduğunu hatırla",
+   "aciklama": "Zorlandığın bir işte, karşı taraftaki ya da rakiplerin de benzer zorluk yaşadığını düşün."
+  },
+  {
+   "baslik": "Umudunu tazele",
+   "aciklama": "Gevşediğin bir anda, bu çabanın neden anlamlı olduğunu kendine hatırlat."
+  },
+  {
+   "baslik": "Devam kararı ver",
+   "aciklama": "Bugün bırakmayı düşündüğün bir işte, bir gün daha devam etme kararı al."
+  }
+ ],
+ "bugununAdimi": "Bugün, gevşediğin bir işte bırakmak yerine bir adım daha at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=104"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/104"
+  }
+ ]
+}
