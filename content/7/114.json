@@ -1,0 +1,89 @@
+{
+ "sure": 7,
+ "ayet": 114,
+ "durum": "taslak",
+ "meal": "(Firavun) dedi ki: Evet, üstelik siz elbette yakınlarımdan/gözdelerimden olacaksınız.",
+ "mealNotu": "'Mukarrabîn' kökü (قرب) yakınlığı anlatır; Firavun sihirbazlara yalnız ücret değil, saraya yakınlık/itibar da vaat eder.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "نَعَمْ",
+   "okunus": "neam",
+   "kok": "—",
+   "kokAnlam": "(cevap) evet",
+   "karsilik": "evet"
+  },
+  {
+   "kelime": "وَإِنَّكُمْ",
+   "okunus": "ve inneküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz siz",
+   "karsilik": "üstelik siz"
+  },
+  {
+   "kelime": "لَمِنَ",
+   "okunus": "lemine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-densiniz"
+  },
+  {
+   "kelime": "ٱلْمُقَرَّبِينَ",
+   "okunus": "elmükarrabîne",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık, yakınlaştırma",
+   "karsilik": "gözdelerimden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Firavun, sihirbazların talebini kabul etmekle kalmaz, onlara sarayda özel bir yakınlık/itibar da vaat eder.",
+  "'Mukarrabîn' (yakınlaştırılanlar) ifadesi, Firavun'un insanları sadakate değil çıkara dayalı bir bağla kendine bağlamaya çalıştığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:42",
+   "meal": "(Firavun) dedi ki: Evet, üstelik siz o zaman elbette yakınlarımdan olacaksınız.",
+   "baglanti": "7:114 ile aynı vaadi neredeyse aynı ifadeyle tekrarlar; Şuarâ suresinde 'izâ' (o zaman) vurgusu eklenmiştir."
+  },
+  {
+   "ref": "7:113",
+   "meal": "Sihirbazlar Firavun'a geldi, dediler ki: Eğer üstün gelenler biz olursak, gerçekten bize bir ücret var mı?",
+   "baglanti": "114. ayet, bir önceki ayette sorulan ücret sorusuna Firavun'un verdiği doğrudan cevaptır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Firavun'un sihirbazlara ücretin yanında saray yakınlığı da vaat etmesidir; bu, tarihî bir güç ilişkisi sahnesidir.",
+  "İnsanları sadakate değil çıkara dayalı bağlarla kendine bağlamaya çalışmak, kısa vadede işe yarasa da güvenilir bir ilişki kurmaz; bu, bugünkü ilişkiler için de bir uyarı sayılabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İlişkini çıkar üzerine kurma",
+   "aciklama": "Bugün bir ilişkini veya iş birliğini, yalnız çıkar değil ortak değerler üzerinden değerlendir."
+  },
+  {
+   "baslik": "Vaadin gerçekçiliğini sorgula",
+   "aciklama": "Sana yapılan büyük bir vaadi kabul etmeden önce gerçekçiliğini düşün."
+  },
+  {
+   "baslik": "Bağlılığını gözden geçir",
+   "aciklama": "Bugün bir konuya neden bağlı olduğunu (çıkar mı ilke mi) kendine sor."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ilişkini veya iş birliğini, çıkar dışında hangi ortak değere dayandığını yazarak değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=114"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/114"
+  }
+ ]
+}

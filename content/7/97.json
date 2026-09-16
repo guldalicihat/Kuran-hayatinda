@@ -1,0 +1,117 @@
+{
+ "sure": 7,
+ "ayet": 97,
+ "durum": "taslak",
+ "meal": "O ülkelerin halkı, azabımızın kendilerine geceleyin, onlar uyurlarken gelmeyeceğinden emin mi oldular?",
+ "mealNotu": "'Emn' kökü (أمن) burada güvende hissetmeyi anlatır; ayet bu güveni bir soru biçiminde sorgulayarak temelsizliğini vurgular.",
+ "kokler": [
+  {
+   "kelime": "أَفَأَمِنَ",
+   "okunus": "efeemine",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvende hissetme",
+   "karsilik": "emin mi oldular"
+  },
+  {
+   "kelime": "أَهْلُ",
+   "okunus": "ehlü",
+   "kok": "أهل",
+   "kokAnlam": "halk, ehil olma",
+   "karsilik": "halkı"
+  },
+  {
+   "kelime": "ٱلْقُرَىٰٓ",
+   "okunus": "elkurâ",
+   "kok": "قري",
+   "kokAnlam": "yerleşim yeri, köy, şehir",
+   "karsilik": "o ülkelerin"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesinden",
+   "karsilik": "-mesinden"
+  },
+  {
+   "kelime": "يَأْتِيَهُم",
+   "okunus": "ye'tiyehüm",
+   "kok": "أتي",
+   "kokAnlam": "gelme, ulaşma",
+   "karsilik": "kendilerine gelmesinden"
+  },
+  {
+   "kelime": "بَأْسُنَا",
+   "okunus": "be'sünâ",
+   "kok": "بأس",
+   "kokAnlam": "şiddet, güçlük, azap",
+   "karsilik": "azabımızın"
+  },
+  {
+   "kelime": "بَيَٰتًا",
+   "okunus": "beyâten",
+   "kok": "بيت",
+   "kokAnlam": "gece vakti, geceleme",
+   "karsilik": "geceleyin"
+  },
+  {
+   "kelime": "وَهُمْ",
+   "okunus": "ve hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar iken",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "نَآئِمُونَ",
+   "okunus": "nâimûne",
+   "kok": "نوم",
+   "kokAnlam": "uyuma, uyku",
+   "karsilik": "uyurlarken"
+  }
+ ],
+ "neAnlatiyor": [
+  "94-96. ayetlerdeki genel ilkenin ardından, gafletin bir başka boyutu sorgulanır: insanlar azabın en savunmasız anlarında, uykudayken gelmeyeceğine dair sahte bir güvenceye kapılabilir.",
+  "Bu soru, kavmin fiilen böyle düşündüğünü değil, böyle bir güvenin akılsızca olduğunu vurgulamak için sorulur. Klasik tefsir, bu ayeti gafletin en derin hâli olan 'uyku anındaki gaflet' üzerinden bir uyarı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "12:107",
+   "meal": "Onlar, kendilerine Allah'ın azabından kaplayıcı bir felaketin gelmeyeceğinden, ya da kıyametin ansızın gelip çatmayacağından emin mi oldular? Hâlbuki onlar farkında değiller.",
+   "baglanti": "Aynı 'emin mi oldular' sorusunu başka bir bağlamda tekrarlayarak, ansızın gelecek bir azaptan emin olmanın akılsızlığını farklı bir surede de vurgular."
+  },
+  {
+   "ref": "7:98",
+   "meal": "Yoksa o ülkelerin halkı, azabımızın kendilerine kuşluk vakti, onlar eğlenirlerken gelmeyeceğinden emin mi oldular?",
+   "baglanti": "97. ayetin hemen ardından gelen bu paralel ayet, aynı soruyu gecenin zıddı olan gündüz vakti için tekrarlayarak, hiçbir anın güvenli sayılamayacağını iki uçla gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş toplulukların azaba karşı temelsiz bir güven duymasıdır; bu, tarihî bağlamda verilen genel bir uyarıdır.",
+  "Buradan çıkarılabilecek ders, hayatın en rahat, en dikkatsiz anlarında bile kişinin sorumluluk bilincini kaybetmemesi, 'bana bir şey olmaz' rahatlığına kapılmamasıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Rahat anında tedbiri bırakma",
+   "aciklama": "Bugün kendini en güvende hissettiğin bir alanda bile küçük bir tedbiri (örneğin bir sorumluluğunu) ihmal etme."
+  },
+  {
+   "baslik": "Gaflet anını fark et",
+   "aciklama": "Bugün dikkatinin en dağınık olduğu bir anı fark edip o anda bilinçli bir hatırlatma yap."
+  },
+  {
+   "baslik": "Güvenini temellendir",
+   "aciklama": "Bugün 'bana bir şey olmaz' dediğin bir konuda bu güveninin gerçek bir dayanağı olup olmadığını sorgula."
+  }
+ ],
+ "bugununAdimi": "Bugün, 'bana bir şey olmaz' diyerek ihmal ettiğin bir tedbiri alıp uygulamaya koy.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=97"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/97"
+  }
+ ]
+}

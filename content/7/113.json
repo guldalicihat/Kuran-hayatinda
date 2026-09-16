@@ -1,0 +1,131 @@
+{
+ "sure": 7,
+ "ayet": 113,
+ "durum": "taslak",
+ "meal": "Sihirbazlar Firavun'a geldi, dediler ki: Eğer üstün gelenler biz olursak, gerçekten bize bir ücret var mı?",
+ "mealNotu": "'Ecr' kökü (أجر) karşılığı, ücreti anlatır. 'Gâlibîn' kökü (غلب) üstün gelmeyi; sihirbazlar önce maddi karşılık peşindedir.",
+ "kokler": [
+  {
+   "kelime": "وَجَآءَ",
+   "okunus": "ve câe",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "geldi"
+  },
+  {
+   "kelime": "ٱلسَّحَرَةُ",
+   "okunus": "esseharatü",
+   "kok": "سحر",
+   "kokAnlam": "büyü, sihir yapma",
+   "karsilik": "sihirbazlar"
+  },
+  {
+   "kelime": "فِرْعَوْنَ",
+   "okunus": "fir'avne",
+   "kok": "—",
+   "kokAnlam": "(özel isim)",
+   "karsilik": "Firavun'a"
+  },
+  {
+   "kelime": "قَالُوٓا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "لَنَا",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) bize",
+   "karsilik": "bize var mı"
+  },
+  {
+   "kelime": "لَأَجْرًا",
+   "okunus": "leecran",
+   "kok": "أجر",
+   "kokAnlam": "ücret, karşılık",
+   "karsilik": "bir ücret"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنَّا",
+   "okunus": "künnâ",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olursak"
+  },
+  {
+   "kelime": "نَحْنُ",
+   "okunus": "nahnü",
+   "kok": "—",
+   "kokAnlam": "(zamir) biz",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "ٱلْغَٰلِبِينَ",
+   "okunus": "elgâlibîne",
+   "kok": "غلب",
+   "kokAnlam": "üstün gelme, galip olma",
+   "karsilik": "üstün gelenler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sihirbazlar toplanıp Firavun'un huzuruna gelir gelmez, ilk soruları maddi çıkarlarıdır: eğer üstün gelirlerse bir ücret alıp almayacaklarını sorarlar.",
+  "Bu, onların işe hangi saikle yaklaştığını gösterir; mücadelenin sonucu henüz belli değilken bile pazarlık öne çıkar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:41",
+   "meal": "Sihirbazlar gelince Firavun'a dediler ki: Eğer üstün gelenler biz olursak, gerçekten bize bir ücret var mı?",
+   "baglanti": "7:113 ile birebir aynı ifadedir; Şuarâ suresi aynı sahneyi neredeyse hiç değiştirmeden tekrarlar."
+  },
+  {
+   "ref": "36:21",
+   "meal": "Sizden ücret istemeyenlere uyun; onlar doğru yoldadır.",
+   "baglanti": "Aynı 'ecr' (ücret) kökünü paylaşır ama tam tersi bir tabloyu anlatır: gerçek doğruluk rehberleri ücret istemez, oysa sihirbazlar önce çıkarını sorar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, sihirbazların Firavun'dan maddi ücret istemesidir; bu, tarihî bir pazarlık sahnesidir.",
+  "Genel bir ders çıkarılabilir: bir işe hangi saikle (çıkar mı, ilke mi) yaklaştığımız, o işin sonucunu ve anlamını şekillendirir; sihirbazların bu ilk sorusu, henüz hakikat arayışında değil çıkar hesabında olduklarını gösterir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Saikini sorgula",
+   "aciklama": "Bugün önemli bir kararını çıkar mı yoksa doğruluk mu belirliyor, kendine dürüstçe sor."
+  },
+  {
+   "baslik": "Karşılıksız iyiliğe yer aç",
+   "aciklama": "Bugün karşılık beklemeden yapabileceğin küçük bir iyilik yap."
+  },
+  {
+   "baslik": "Doğruluğu göz ardı etme",
+   "aciklama": "Bir işte emeğinin karşılığını isterken, işin doğruluğunu da göz ardı etme."
+  }
+ ],
+ "bugununAdimi": "Bugün yaptığın bir işte, karşılık beklemeden yaptığın en az bir davranışı fark et ve bilinçli olarak tekrarla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=113"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/113"
+  }
+ ]
+}

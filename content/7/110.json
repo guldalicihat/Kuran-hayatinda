@@ -1,0 +1,103 @@
+{
+ "sure": 7,
+ "ayet": 110,
+ "durum": "taslak",
+ "meal": "Sizi yurdunuzdan çıkarmak istiyor; öyleyse ne buyurursunuz?",
+ "mealNotu": "'Emr' kökü (أمر) buyurmayı, görüş bildirmeyi anlatır; ileri gelenler Firavun'dan karar/talimat istemektedir.",
+ "kokler": [
+  {
+   "kelime": "يُرِيدُ",
+   "okunus": "yürîdü",
+   "kok": "رود",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "istiyor"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "يُخْرِجَكُم",
+   "okunus": "yühriceküm",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, çıkarma",
+   "karsilik": "sizi çıkarsın"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَرْضِكُمْ",
+   "okunus": "erdıküm",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak, yurt",
+   "karsilik": "yurdunuzdan"
+  },
+  {
+   "kelime": "فَمَاذَا",
+   "okunus": "femâzâ",
+   "kok": "—",
+   "kokAnlam": "(soru) öyleyse ne",
+   "karsilik": "öyleyse ne"
+  },
+  {
+   "kelime": "تَأْمُرُونَ",
+   "okunus": "te'mürûne",
+   "kok": "أمر",
+   "kokAnlam": "emretme, buyurma",
+   "karsilik": "buyurursunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "İleri gelenler, meseleyi hemen siyasi bir tehdide dönüştürür: onlara göre Mûsâ'nın asıl amacı, onları yurtlarından çıkarmaktır.",
+  "'Femâzâ te'mürûne' (öyleyse ne buyurursunuz) sorusu, kararın artık Firavun'a bırakıldığını gösterir; bu soru bir sonraki ayette somut bir öneriyle cevaplanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:35",
+   "meal": "Sizi yurdunuzdan sihriyle çıkarmak istiyor; öyleyse ne buyurursunuz?",
+   "baglanti": "7:110 ile neredeyse birebir aynıdır; tek fark 'sihriyle' ifadesinin eklenmiş olmasıdır."
+  },
+  {
+   "ref": "20:63",
+   "meal": "Dediler ki: Bunlar gerçekten iki sihirbazdır; sizi yurdunuzdan sihirleriyle çıkarmak ve örnek yolunuzu ortadan kaldırmak istiyorlar.",
+   "baglanti": "Aynı endişeyi, Mûsâ ve Hârûn ikisi için birlikte, 'yurttan çıkarma' vurgusuyla tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ileri gelenlerin Mûsâ'yı bir siyasi tehdit olarak sunup Firavun'dan talimat istemesidir; bu, tarihî bir saray sahnesidir.",
+  "'Korkuyla çerçeveleme' tavrı tanıdıktır: bir mesele çoğu zaman gerçek içeriğinden çok, kimin gücünü tehdit ettiği üzerinden tartışılır; bunu fark etmek, meseleleri daha adil değerlendirmeye yardımcı olur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Meseleyi içeriğiyle değerlendir",
+   "aciklama": "Bugün bir tartışmada, 'kim kazanır kim kaybeder' sorusundan önce 'doğru olan ne' sorusunu sor."
+  },
+  {
+   "baslik": "Korku diliyle konuşma",
+   "aciklama": "Bir öneriyi savunurken veya eleştirirken abartılı tehdit dili kullanmaktan kaçın."
+  },
+  {
+   "baslik": "Karar vermeden önce danış",
+   "aciklama": "Önemli bir kararı tek başına vermek yerine, bugün güvendiğin birinin görüşünü de al."
+  }
+ ],
+ "bugununAdimi": "Bugün bir tartışmada, konuyu kişisel çıkar açısından değil, doğruluğu açısından değerlendirmeye çalış.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=110"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/110"
+  }
+ ]
+}

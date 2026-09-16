@@ -1,0 +1,117 @@
+{
+ "sure": 7,
+ "ayet": 109,
+ "durum": "taslak",
+ "meal": "Firavun kavminden ileri gelenler dedi ki: Bu gerçekten bilgin bir sihirbazdır.",
+ "mealNotu": "'Meleü' kökü (ملأ) dolmayı, mecliste yer kaplayan ileri gelenleri anlatır. 'Sâhir' kökü (سحر) büyüyü ifade eder; burada Firavun çevresi mucizeyi büyü diye nitelemektedir.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "ٱلْمَلَأُ",
+   "okunus": "elmeleü",
+   "kok": "ملأ",
+   "kokAnlam": "doldurma; topluluk, ileri gelenler",
+   "karsilik": "ileri gelenler"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَوْمِ",
+   "okunus": "kavmi",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk, kavim",
+   "karsilik": "kavminden"
+  },
+  {
+   "kelime": "فِرْعَوْنَ",
+   "okunus": "fir'avne",
+   "kok": "—",
+   "kokAnlam": "(özel isim)",
+   "karsilik": "Firavun'un"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "لَسَٰحِرٌ",
+   "okunus": "lesâhirun",
+   "kok": "سحر",
+   "kokAnlam": "büyü, sihir yapma",
+   "karsilik": "bir sihirbazdır"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilme, bilgi sahibi olma",
+   "karsilik": "bilgin"
+  }
+ ],
+ "neAnlatiyor": [
+  "İleri gelenler, gördükleri açık mucizeyi tanımak yerine onu 'bilgin bir sihirbazlık' olarak nitelendirir; bu, hakikati küçümseyerek geçiştirme tavrının bir örneğidir.",
+  "'Alîm' (bilgin) sıfatının kullanılması, onların Mûsâ'nın gösterdiği şeyi basit bir hile değil, ustaca yapılmış bir sihir olarak gördüklerini de ortaya koyar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:34",
+   "meal": "(Firavun) çevresindeki ileri gelenlere dedi ki: Bu gerçekten bilgin bir sihirbazdır.",
+   "baglanti": "7:109 ile hemen hemen aynıdır; fark, sözün burada Firavun'un ağzından, 7:109'da ise ileri gelenlerin ağzından aktarılmasıdır."
+  },
+  {
+   "ref": "20:63",
+   "meal": "Dediler ki: Bunlar gerçekten iki sihirbazdır; sizi yurdunuzdan sihirleriyle çıkarmak ve örnek yolunuzu ortadan kaldırmak istiyorlar.",
+   "baglanti": "Aynı suçlamayı Mûsâ ve Hârûn'un ikisi için birlikte dile getirir; 7:109-110'daki iki ayrı endişeyi (sihirbazlık ve yurttan çıkarma) tek cümlede birleştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Firavun çevresinin açık bir mucizeyi 'sihir' diyerek küçümsemesidir; bu, tarihî bir tepki biçimidir.",
+  "Genel bir ders çıkarılabilir: yeni ve rahatsız edici bir hakikatle karşılaşınca, onu hemen tanımak yerine küçümseyici bir etikete sığınmak günümüzde de sık görülen bir savunma biçimidir; bunun farkında olmak önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hemen etiketleme",
+   "aciklama": "Bugün seni rahatsız eden bir fikri, incelemeden 'saçma' diye etiketlemekten kaçın."
+  },
+  {
+   "baslik": "Önce anlamaya çalış",
+   "aciklama": "Katılmadığın bir görüşü, karşı çıkmadan önce dikkatle dinle."
+  },
+  {
+   "baslik": "Kendi tepkini gözlemle",
+   "aciklama": "Rahatsız edici bir bilgiyle karşılaştığında, ilk tepkinin savunma mı değerlendirme mi olduğunu bugün fark et."
+  }
+ ],
+ "bugununAdimi": "Bugün katılmadığın bir görüşü, hemen reddetmeden önce sonuna kadar dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=109"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/109"
+  }
+ ]
+}

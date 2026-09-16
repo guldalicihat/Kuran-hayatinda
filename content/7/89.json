@@ -1,0 +1,348 @@
+{
+ "sure": 7,
+ "ayet": 89,
+ "durum": "taslak",
+ "meal": "Allah bizi ondan kurtardıktan sonra sizin dininize dönersek, Allah'a karşı yalan uydurmuş oluruz. Rabbimiz Allah dilemedikçe ona dönmemiz bizim için olacak şey değildir; Rabbimiz her şeyi ilmiyle kuşatmıştır. Allah'a güvendik. Rabbimiz, bizimle kavmimiz arasında hak ile hükmet; sen hükmedenlerin en hayırlısısın.",
+ "mealNotu": "'İftira' kökü (فري) burada asılsız söz uydurmayı, 'feth' kökü (فتح) ise aramızdaki anlaşmazlığı açıp hükme bağlamayı anlatır; bu yüzden 'hükmet' yerine kökteki 'aç, çöz' anlamına yakın durarak çevrildi.",
+ "kokler": [
+  {
+   "kelime": "قَدِ",
+   "okunus": "kadi",
+   "kok": "—",
+   "kokAnlam": "(kesinlik edatı) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "ٱفْتَرَيْنَا",
+   "okunus": "ifteraynâ",
+   "kok": "فري",
+   "kokAnlam": "uydurma, asılsız söz üretme",
+   "karsilik": "uydurmuş oluruz"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e karşı",
+   "karsilik": "-e karşı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "كَذِبًا",
+   "okunus": "keziben",
+   "kok": "كذب",
+   "kokAnlam": "yalan söyleme",
+   "karsilik": "yalan"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart edatı) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "عُدْنَا",
+   "okunus": "udnâ",
+   "kok": "عود",
+   "kokAnlam": "dönme, tekrarlama",
+   "karsilik": "dönersek"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "مِلَّتِكُم",
+   "okunus": "milletiküm",
+   "kok": "ملل",
+   "kokAnlam": "din, yol, inanç topluluğu",
+   "karsilik": "sizin dininize"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonra olma",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman edatı) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "نَجَّىٰنَا",
+   "okunus": "neccânâ",
+   "kok": "نجو",
+   "kokAnlam": "kurtulma, kurtarma",
+   "karsilik": "bizi kurtardıktan"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مِنْهَا",
+   "okunus": "minhâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değildir",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "يَكُونُ",
+   "okunus": "yekûnü",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olacak şey"
+  },
+  {
+   "kelime": "لَنَآ",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) bizim için",
+   "karsilik": "bizim için"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesi",
+   "karsilik": "-memiz"
+  },
+  {
+   "kelime": "نَّعُودَ",
+   "okunus": "neûde",
+   "kok": "عود",
+   "kokAnlam": "dönme, tekrarlama",
+   "karsilik": "dönmemiz"
+  },
+  {
+   "kelime": "فِيهَآ",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna edatı) ancak, meğer ki",
+   "karsilik": "meğer ki"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -meyi",
+   "karsilik": "-meyi"
+  },
+  {
+   "kelime": "يَشَآءَ",
+   "okunus": "yeşâe",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilesin"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "رَبَّنَا",
+   "okunus": "rabbünâ",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, sahip olma; Rab",
+   "karsilik": "Rabbimiz"
+  },
+  {
+   "kelime": "وَسِعَ",
+   "okunus": "vesia",
+   "kok": "وسع",
+   "kokAnlam": "genişlik, kuşatma",
+   "karsilik": "kuşatmıştır"
+  },
+  {
+   "kelime": "رَبَّنَا",
+   "okunus": "rabbünâ",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, sahip olma; Rab",
+   "karsilik": "Rabbimiz"
+  },
+  {
+   "kelime": "كُلَّ",
+   "okunus": "külle",
+   "kok": "كلل",
+   "kokAnlam": "bütün, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "عِلْمًا",
+   "okunus": "ilmen",
+   "kok": "علم",
+   "kokAnlam": "bilgi, bilme",
+   "karsilik": "ilmiyle"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "تَوَكَّلْنَا",
+   "okunus": "tevekkelnâ",
+   "kok": "وكل",
+   "kokAnlam": "güvenip dayanma, vekil kılma",
+   "karsilik": "güvendik"
+  },
+  {
+   "kelime": "رَبَّنَا",
+   "okunus": "rabbenâ",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, sahip olma; Rab",
+   "karsilik": "Rabbimiz"
+  },
+  {
+   "kelime": "ٱفْتَحْ",
+   "okunus": "iftah",
+   "kok": "فتح",
+   "kokAnlam": "açma; aradaki meseleyi çözüp hükme bağlama",
+   "karsilik": "hükmet"
+  },
+  {
+   "kelime": "بَيْنَنَا",
+   "okunus": "beynenâ",
+   "kok": "بين",
+   "kokAnlam": "ara, aradaki mesafe",
+   "karsilik": "bizimle"
+  },
+  {
+   "kelime": "وَبَيْنَ",
+   "okunus": "ve beyne",
+   "kok": "بين",
+   "kokAnlam": "ara, aradaki mesafe",
+   "karsilik": "ve arasında"
+  },
+  {
+   "kelime": "قَوْمِنَا",
+   "okunus": "kavminâ",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk, kavim",
+   "karsilik": "kavmimiz"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, doğruluk, hak",
+   "karsilik": "hak ile"
+  },
+  {
+   "kelime": "وَأَنتَ",
+   "okunus": "ve ente",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve sen",
+   "karsilik": "ve sen"
+  },
+  {
+   "kelime": "خَيْرُ",
+   "okunus": "hayru",
+   "kok": "خير",
+   "kokAnlam": "iyilik, en hayırlı olma",
+   "karsilik": "en hayırlısısın"
+  },
+  {
+   "kelime": "ٱلْفَٰتِحِينَ",
+   "okunus": "elfâtihîne",
+   "kok": "فتح",
+   "kokAnlam": "açma; hükme bağlama",
+   "karsilik": "hükmedenlerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "İnananlar, tehdide karşı kararlarını gerekçeleriyle açıklarlar: eski dine dönmek, kendilerini kurtaran Allah'a karşı yalan uydurmak olur; bu yüzden Allah dilemedikçe böyle bir dönüş söz konusu olamaz.",
+  "Konuşma bir dua ile biter: aradaki anlaşmazlığın hak ile çözülmesi Allah'tan istenir. Klasik tefsir bu duayı, insan gücünün yetmediği bir anlaşmazlıkta sonucu Allah'a bırakmanın örneği olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:118",
+   "meal": "(Nûh dedi ki:) Artık benimle onlar arasında sen aç (hükmü ver), beni ve benimle beraber olan müminleri kurtar.",
+   "baglanti": "Aynı 'feth' kökünü kullanarak, bir peygamberin kendi kavmiyle arasındaki anlaşmazlığın çözümünü Allah'tan istemesi bakımından 89. ayetteki duayla aynı yapıdadır."
+  },
+  {
+   "ref": "6:80",
+   "meal": "İbrahim dedi ki: Rabbim dilemedikçe bana bir zarar veremezsiniz; Rabbim her şeyi ilmiyle kuşatmıştır. Hâlâ düşünmez misiniz?",
+   "baglanti": "'Rabbimiz her şeyi ilmiyle kuşatmıştır' ifadesi neredeyse aynı kelimelerle tekrarlanır; iki peygamberin de güvenini Allah'ın sınırsız bilgisine dayandırdığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, inananların sürgün tehdidine verdiği gerekçeli cevap ve Allah'a yaptıkları duadır; bu, tarihî bir kıssa sahnesidir.",
+  "Buradan bugüne taşınabilecek ders, bir baskı karşısında pes etmeden önce kararını gerekçelendirmek ve çözülemeyen bir anlaşmazlığı, elinden geleni yaptıktan sonra, üst bir mercie (Allah'a) bırakabilmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kararını gerekçelendir",
+   "aciklama": "Bugün bir konuda geri adım atmama nedenini kendine ve gerekirse karşındakine açıkça ifade et."
+  },
+  {
+   "baslik": "Geçmişe dönmeme kararlılığı",
+   "aciklama": "Bugün, bıraktığın zararlı bir alışkanlığa 'baskı görsem de dönmeyeceğim' diye içinden tekrar et."
+  },
+  {
+   "baslik": "Sonucu Allah'a bırak",
+   "aciklama": "Bugün elinden geleni yaptığın bir meselede sonucu zorlamak yerine dua ederek bırak."
+  }
+ ],
+ "bugununAdimi": "Bugün, geri dönmeyeceğine karar verdiğin bir konudaki kararını yazılı olarak not et ve nedenini yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=89"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/89"
+  }
+ ]
+}

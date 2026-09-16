@@ -1,0 +1,117 @@
+{
+ "sure": 7,
+ "ayet": 102,
+ "durum": "taslak",
+ "meal": "Onların çoğunda ahde bağlılık bulmadık; onların çoğunu gerçekten yoldan çıkmış bulduk.",
+ "mealNotu": "'Ahd' kökü (عهد) burada sözü, taahhüdü anlatır; 'fısk' kökü (فسق) ise sınırı aşıp yoldan çıkmayı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) -medik",
+   "karsilik": "-medik"
+  },
+  {
+   "kelime": "وَجَدْنَآ",
+   "okunus": "vecednâ",
+   "kok": "وجد",
+   "kokAnlam": "bulma, tespit etme",
+   "karsilik": "bulduk"
+  },
+  {
+   "kelime": "لِأَكْثَرِهِم",
+   "okunus": "liekserihim",
+   "kok": "كثر",
+   "kokAnlam": "çokluk, çoğu",
+   "karsilik": "onların çoğunda"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "عَهْدٍ",
+   "okunus": "ahdin",
+   "kok": "عهد",
+   "kokAnlam": "söz, taahhüt, ahit",
+   "karsilik": "ahde bağlılık"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(te'kid edatı) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "وَجَدْنَآ",
+   "okunus": "vecednâ",
+   "kok": "وجد",
+   "kokAnlam": "bulma, tespit etme",
+   "karsilik": "bulduk"
+  },
+  {
+   "kelime": "أَكْثَرَهُمْ",
+   "okunus": "ekserahüm",
+   "kok": "كثر",
+   "kokAnlam": "çokluk, çoğu",
+   "karsilik": "onların çoğunu"
+  },
+  {
+   "kelime": "لَفَٰسِقِينَ",
+   "okunus": "lefâsikîne",
+   "kok": "فسق",
+   "kokAnlam": "sınırı aşma, yoldan çıkma",
+   "karsilik": "yoldan çıkmış"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kıssalar özetinin ardından genel bir değerlendirme yapılır: geçmiş kavimlerin çoğu, kendi verdikleri sözlere (elçilere inanma, doğru yolda kalma gibi taahhütlere) bağlı kalmamıştır.",
+  "'Yoldan çıkmış bulduk' ifadesi, bunun istisnai değil yaygın bir durum olduğunu vurgular. Klasik tefsir, bu ayeti insanın söz verme ile o sözde durma arasındaki zaafına dikkat çeken genel bir tespit olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:100",
+   "meal": "Onlar ne zaman bir ahit yapsalar, içlerinden bir kısmı onu bozup atmadı mı? Hayır, çoğu inanmıyor.",
+   "baglanti": "Ahde bağlı kalmama zaafını, başka bir topluluk için de tespit ederek 102. ayetteki genel değerlendirmenin Kur'an'da tekrar eden bir tema olduğunu gösterir."
+  },
+  {
+   "ref": "9:8",
+   "meal": "Sizi yenseler, ne akrabalık ne de antlaşma gözetmezler; ağızlarıyla sizi hoşnut etmeye çalışırlar ama kalpleri bunu kabul etmez; onların çoğu yoldan çıkmıştır.",
+   "baglanti": "'Onların çoğu yoldan çıkmıştır' ifadesini neredeyse aynı kelimelerle tekrarlayarak, ahde sadakatsizlik ile fısk arasındaki bağı başka bir bağlamda da doğrular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş kavimlerin çoğunun verdiği sözlere bağlı kalmamasıdır; bu, tarihî bir değerlendirmedir.",
+  "Buradan çıkarılabilecek ders, söz vermenin kolay, o sözde durmanın ise zor olduğu; kişinin verdiği sözleri (Allah'a, kendine, başkasına) hatırlayıp bunlara sadık kalmaya çalışmasının değerli bir çaba olduğudur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Verdiğin sözü hatırla",
+   "aciklama": "Bugün daha önce verdiğin ama unuttuğun küçük bir sözü hatırlayıp yerine getir."
+  },
+  {
+   "baslik": "Yeni söz verirken dikkatli ol",
+   "aciklama": "Bugün tutamayacağın bir sözü vermekten kaçın; söz verdiğinde tutmaya niyet et."
+  },
+  {
+   "baslik": "Kendi sözünü denetle",
+   "aciklama": "Bugün kendine verdiğin bir sözü (bir alışkanlığı bırakmak, bir işe başlamak gibi) gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün, unuttuğun ama vermiş olduğun bir sözü hatırlayıp yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=102"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/102"
+  }
+ ]
+}
