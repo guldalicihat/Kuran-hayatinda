@@ -1,0 +1,243 @@
+{
+ "sure": 9,
+ "ayet": 28,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Müşrikler ancak bir pisliktir; artık bu yıllarından sonra Mescid-i Haram'a yaklaşmasınlar. Eğer yoksulluğa düşmekten korkarsanız, Allah dilerse sizi kendi lütfundan zenginleştirecektir. Şüphesiz Allah bilendir, hüküm ve hikmet sahibidir.",
+ "mealNotu": "'Neces' kökü (نجس) manevi/itikadî kirlilik anlamındadır, maddi necaset değildir; ayet 'bu yıllarından sonra' (بعد عامهم هذا) ifadesiyle hükmü belirli bir tarihten (Hicri 9. yıl haccından) itibaren geçerli kılar.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "nida, seslenme",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوٓا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) sadece, ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ٱلْمُشْرِكُونَ",
+   "okunus": "elmüşrikûne",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "müşrikler"
+  },
+  {
+   "kelime": "نَجَسٌ",
+   "okunus": "necesün",
+   "kok": "نجس",
+   "kokAnlam": "kirlilik, pislik",
+   "karsilik": "bir pisliktir"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -masınlar",
+   "karsilik": "artık -masınlar"
+  },
+  {
+   "kelime": "يَقْرَبُوا۟",
+   "okunus": "yekrabû",
+   "kok": "قرب",
+   "kokAnlam": "yaklaşma",
+   "karsilik": "yaklaşmasınlar"
+  },
+  {
+   "kelime": "ٱلْمَسْجِدَ",
+   "okunus": "elmescide",
+   "kok": "سجد",
+   "kokAnlam": "secde etme; mescit",
+   "karsilik": "Mescidine"
+  },
+  {
+   "kelime": "ٱلْحَرَامَ",
+   "okunus": "elharâme",
+   "kok": "حرم",
+   "kokAnlam": "haram, dokunulmaz",
+   "karsilik": "Haram"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "عَامِهِمْ",
+   "okunus": "âmihim",
+   "kok": "عوم",
+   "kokAnlam": "yıl",
+   "karsilik": "yıllarından"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "وَإِنْ",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "خِفْتُمْ",
+   "okunus": "hıftüm",
+   "kok": "خوف",
+   "kokAnlam": "korkma",
+   "karsilik": "korkarsanız"
+  },
+  {
+   "kelime": "عَيْلَةً",
+   "okunus": "ayleten",
+   "kok": "عيل",
+   "kokAnlam": "yoksulluk, ihtiyaç",
+   "karsilik": "yoksulluğa düşmekten"
+  },
+  {
+   "kelime": "فَسَوْفَ",
+   "okunus": "fesevfe",
+   "kok": "—",
+   "kokAnlam": "(gelecek) yakında",
+   "karsilik": "yakında"
+  },
+  {
+   "kelime": "يُغْنِيكُمُ",
+   "okunus": "yüğnîkümü",
+   "kok": "غني",
+   "kokAnlam": "yeterli/zengin kılma",
+   "karsilik": "sizi zenginleştirecektir"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "فَضْلِهِۦٓ",
+   "okunus": "fadlihî",
+   "kok": "فضل",
+   "kokAnlam": "lütuf, üstünlük",
+   "karsilik": "kendi lütfundan"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "شَآءَ",
+   "okunus": "şâe",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilendir"
+  },
+  {
+   "kelime": "حَكِيمٌ",
+   "okunus": "hakîmün",
+   "kok": "حكم",
+   "kokAnlam": "hüküm, hikmet",
+   "karsilik": "hüküm ve hikmet sahibidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Hicri 9. yılda -Veda Haccı'ndan önce- Mekke'nin Müslümanların eline geçmesinin ardından, müşriklerin artık Mescid-i Haram'a ve hac ibadetine girme geleneğinin sona erdirildiği somut, tarihî ve yere özgü bir hükümdür; 'bu yıllarından sonra' ifadesi hükmü belirli bir tarihten itibaren yürürlüğe koyar.",
+  "Klasik tefsir bu ayeti, Mescid-i Haram'a ve hac ibadetine özgü, dönemin Arap Yarımadası'ndaki din-siyaset düzenini ilgilendiren özel bir hüküm olarak açıklar; ayetin sonunda gelen 'yoksulluktan korkarsanız Allah zenginleştirir' vaadi, bu düzenlemenin Mekke ekonomisine dair olası bir kaygıyı da giderdiğini gösterir. Bu, günümüzde herhangi bir mekâna dair genel bir dışlama kuralı değildir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "48:25",
+   "meal": "Onlar, inkâr edip sizi Mescid-i Haram'dan ve bekletilen kurbanlık hediyeleri yerine ulaşmaktan alıkoyanlardır...",
+   "baglanti": "Mekke fethinden önce müşriklerin bizzat Müslümanları Mescid-i Haram'dan alıkoyduğu tarihî durumu anlatarak, 9:28'deki hükmün ortaya çıktığı gerilim dolu tarihsel bağlamı gösterir."
+  },
+  {
+   "ref": "8:34",
+   "meal": "Onlar Mescid-i Haram'dan alıkoyup dururken, Allah onlara neden azap etmesin? Oysa onlar onun (gerçek) velileri değildir; onun velileri ancak takva sahipleridir...",
+   "baglanti": "Mescid-i Haram'ın gerçek 'velisinin' soy veya güç değil takva olduğunu vurgulayarak, 9:28'deki düzenlemenin arka planındaki ilkeyi açıklar."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, Hicri 9. yılda Mekke'nin fethinden sonra müşriklerin Mescid-i Haram'a ve hacca girmesinin sona erdirilmesiyle ilgili, belirli bir tarihe ve mekâna özgü bir hükümdür; bu, günümüzde herhangi bir ibadet yerine farklı inançtaki insanların girip giremeyeceğine dair genel bir kural değildir.",
+  "Ayetin kendi içindeki ilke, kutsal kabul edilen bir mekânın anlam ve saygınlığının korunması gerektiğidir; bu, günlük hayatta da paylaştığımız ortak ve değerli alanların (ibadet yeri, aile ortamı, iş yeri) saygıyla korunması gerektiğini hatırlatabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kutsal alanına saygı göster",
+   "aciklama": "Bugün gittiğin bir ibadet yerinde, oranın saygınlığına uygun bir tutum sergile."
+  },
+  {
+   "baslik": "Tarihî bağlamı ayırt et",
+   "aciklama": "Bu ayeti okurken, onun belirli bir tarihe ve mekâna özgü bir hüküm olduğunu, günümüze genel bir kural gibi uygulanamayacağını hatırla."
+  },
+  {
+   "baslik": "Ortak alanları koru",
+   "aciklama": "Paylaştığın bir ortamın (ev, iş yeri, mescit) düzenini ve saygınlığını korumaya bugün özen göster."
+  }
+ ],
+ "bugununAdimi": "Bugün bulunduğun bir ortak/kutsal alanın düzenine ve saygınlığına özen göster.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=28"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/28"
+  }
+ ]
+}

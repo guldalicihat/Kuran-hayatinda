@@ -1,0 +1,257 @@
+{
+ "sure": 9,
+ "ayet": 29,
+ "durum": "taslak",
+ "meal": "Kendilerine kitap verilenlerden; Allah'a ve ahiret gününe iman etmeyen, Allah'ın ve Resûlü'nün haram kıldığını haram saymayan ve hak dini din edinmeyen kimselerle, küçülüp boyun eğerek elden cizye verinceye kadar savaşın.",
+ "mealNotu": "'Cizye' kökü (جزي) karşılık, bedel anlamındadır; ayette geçen 'an yedin' (elden) ifadesi doğrudan ödemeyi, 'sâğırûne' kökü (صغر) ise boyun eğerek/direniş göstermeden anlamındadır. Ayet, iman etmeyen ve hak dini benimsemeyen belirli bir Ehl-i Kitap grubuyla yapılan tarihî bir savaş ve antlaşma hükmünü anlatır.",
+ "kokler": [
+  {
+   "kelime": "قَٰتِلُوا۟",
+   "okunus": "kâtilû",
+   "kok": "قتل",
+   "kokAnlam": "karşılıklı savaşma",
+   "karsilik": "savaşın"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimselerle"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mayan",
+   "karsilik": "-mayan"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "iman etmeyen"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -mayan",
+   "karsilik": "ve -mayan"
+  },
+  {
+   "kelime": "بِٱلْيَوْمِ",
+   "okunus": "bil yevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "güne"
+  },
+  {
+   "kelime": "ٱلْءَاخِرِ",
+   "okunus": "el'âhıri",
+   "kok": "أخر",
+   "kokAnlam": "son, sonraki",
+   "karsilik": "ahiret"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -mayan",
+   "karsilik": "ve -mayan"
+  },
+  {
+   "kelime": "يُحَرِّمُونَ",
+   "okunus": "yüharrimûne",
+   "kok": "حرم",
+   "kokAnlam": "haram kılma",
+   "karsilik": "haram saymayan"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "حَرَّمَ",
+   "okunus": "harrame",
+   "kok": "حرم",
+   "kokAnlam": "haram kılma",
+   "karsilik": "haram kıldığı"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَرَسُولُهُۥ",
+   "okunus": "ve rasûlühû",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi",
+   "karsilik": "ve Resûlünün"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -mayan",
+   "karsilik": "ve -mayan"
+  },
+  {
+   "kelime": "يَدِينُونَ",
+   "okunus": "yedînûne",
+   "kok": "دين",
+   "kokAnlam": "din edinme, boyun eğme",
+   "karsilik": "din edinmeyen"
+  },
+  {
+   "kelime": "دِينَ",
+   "okunus": "dîne",
+   "kok": "دين",
+   "kokAnlam": "din",
+   "karsilik": "dinini"
+  },
+  {
+   "kelime": "ٱلْحَقِّ",
+   "okunus": "elhakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, hak",
+   "karsilik": "hak"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimselerden"
+  },
+  {
+   "kelime": "أُوتُوا۟",
+   "okunus": "ûtû",
+   "kok": "أتي",
+   "kokAnlam": "verilme",
+   "karsilik": "kendilerine verilenlerden"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "kitap"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "يُعْطُوا۟",
+   "okunus": "yü'tû",
+   "kok": "عطو",
+   "kokAnlam": "verme",
+   "karsilik": "verinceye"
+  },
+  {
+   "kelime": "ٱلْجِزْيَةَ",
+   "okunus": "elcizyete",
+   "kok": "جزي",
+   "kokAnlam": "karşılık, bedel; cizye",
+   "karsilik": "cizyeyi"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "elden"
+  },
+  {
+   "kelime": "يَدٍ",
+   "okunus": "yedin",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "elden"
+  },
+  {
+   "kelime": "وَهُمْ",
+   "okunus": "ve hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "صَٰغِرُونَ",
+   "okunus": "sâğırûne",
+   "kok": "صغر",
+   "kokAnlam": "küçülme, boyun eğme",
+   "karsilik": "küçülüp boyun eğerek"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Tebük Seferi öncesinde -Bizans (Doğu Roma) ile sınır bölgesindeki gerginliğin arttığı Hicri 9. yılda- inen ve dönemin devletlerarası savaş ve antlaşma hukukuna ait özel bir hükümdür. Muhatap, tüm Ehl-i Kitap değil, kendileriyle savaş hali bulunan veya düşmanlık gösteren topluluklardır; hüküm, cizye ödeyip Müslüman yönetimiyle antlaşma yapmayı kabul edenlerin can ve mal güvenliğinin sağlanmasıyla sonuçlanır.",
+  "Klasik tefsir bu ayeti, İslam devletinin Ehl-i Kitap topluluklarıyla yaptığı 'zimmet' adı verilen özel bir hukuki-siyasi antlaşma sisteminin temeli olarak açıklar: cizye, bu antlaşma karşılığında ödenen bir vergi olup, ödeyenlerin can, mal ve din özgürlüğü güvence altına alınırdı. Bu, dönemin savaş hukuku ve devletlerarası ilişkiler çerçevesinde şekillenmiş, tarihe özgü bir düzenlemedir; günümüz bireysel ilişkilerine dair genel bir kural değildir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:190",
+   "meal": "Sizinle savaşanlarla Allah yolunda savaşın, fakat aşırı gitmeyin. Şüphesiz Allah aşırı gidenleri sevmez.",
+   "baglanti": "9:29'daki savaş hükmünün de -Kur'an'ın genel ilkesi gereği- sınırsız değil ölçülü ve karşılıklılık esasına dayalı olduğunu gösterir."
+  },
+  {
+   "ref": "60:8",
+   "meal": "Allah, sizinle din konusunda savaşmayan ve sizi yurdunuzdan çıkarmayanlara iyilik etmenizi ve onlara adaletli davranmanızı yasaklamaz; şüphesiz Allah adaletli davrananları sever.",
+   "baglanti": "9:29'un savaş halindeki topluluklarla ilgili özel bir hüküm olduğunu, buna karşılık düşmanlık göstermeyen herkese iyilik ve adaletin emredildiğini göstererek dengeler."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, Hicri 9. yılda Bizans sınırındaki gerginlik bağlamında Ehl-i Kitap ile yapılan cizye ve zimmet antlaşmasına dayalı, dönemin devletlerarası savaş ve barış hukukuna ait özel bir düzenlemedir; bugünkü bireyler arası ilişkilerde farklı dine mensup insanlara karşı bir tutum kuralı olarak uygulanamaz.",
+  "Ayetin bu şekliyle bugüne taşınabilecek doğrudan bir günlük hayat uygulaması yoktur; ayet, tarihî bir dönemde devletlerarası ilişkileri düzenleyen hukuki bir hükümdür ve zorlama bir güncel ders çıkarmak yerine bu tarihî bağlamı olduğu gibi anlamak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tarihî bağlamı öğren",
+   "aciklama": "Bu ayeti okurken, Hicri 9. yılın devletlerarası savaş ve antlaşma hukukuna ait olduğunu hatırla; günümüz bireysel ilişkilerine doğrudan uygulama."
+  },
+  {
+   "baslik": "Dengeleyici ayetle birlikte oku",
+   "aciklama": "9:29'u, aynı bağlamdaki 60:8 ile birlikte oku; Kur'an savaşmayan ve düşmanlık göstermeyen herkese iyilik ve adaleti emreder."
+  },
+  {
+   "baslik": "Genellemeden kaçın",
+   "aciklama": "Tarihî bir hukuki düzenlemeyi, bugünün farklı inançtaki komşularına veya iş arkadaşlarına karşı bir tutum kuralı gibi genellemekten kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün 9:29 ayetini 60:8 ile birlikte okuyup tarihî bağlamını not al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=29"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/29"
+  }
+ ]
+}

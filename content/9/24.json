@@ -1,0 +1,285 @@
+{
+ "sure": 9,
+ "ayet": 24,
+ "durum": "taslak",
+ "meal": "De ki: Eğer babalarınız, oğullarınız, kardeşleriniz, eşleriniz, aşiretiniz, kazandığınız mallar, durgunluğa uğramasından korktuğunuz ticaret ve hoşunuza giden meskenler size Allah'tan, Resûlünden ve O'nun yolunda cihaddan daha sevgiliyse, artık Allah emrini getirinceye kadar bekleyin. Allah, fasıklar topluluğunu doğru yola iletmez.",
+ "mealNotu": "'Ehabbe' kökü (حبب) daha sevgili olma, tercih anlamındadır; ayet aile bağlarını, malı veya ticareti reddetmez, yalnızca bunların Allah ve Resûlü'ne olan bağlılığın önüne geçmesi durumunda bir uyarı yapar. 'Feterabbesû' (bekleyin) ifadesi tehdit değil, sonucu bekleme bildirir.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "ءَابَآؤُكُمْ",
+   "okunus": "âbâüküm",
+   "kok": "أبو",
+   "kokAnlam": "baba, ata",
+   "karsilik": "babalarınız"
+  },
+  {
+   "kelime": "وَأَبْنَآؤُكُمْ",
+   "okunus": "ve ebnâüküm",
+   "kok": "بني",
+   "kokAnlam": "oğul, evlat",
+   "karsilik": "oğullarınız"
+  },
+  {
+   "kelime": "وَإِخْوَٰنُكُمْ",
+   "okunus": "ve ihvânüküm",
+   "kok": "أخو",
+   "kokAnlam": "kardeş",
+   "karsilik": "kardeşleriniz"
+  },
+  {
+   "kelime": "وَأَزْوَٰجُكُمْ",
+   "okunus": "ve ezvâcüküm",
+   "kok": "زوج",
+   "kokAnlam": "eş",
+   "karsilik": "eşleriniz"
+  },
+  {
+   "kelime": "وَعَشِيرَتُكُمْ",
+   "okunus": "ve aşîratüküm",
+   "kok": "عشر",
+   "kokAnlam": "akraba topluluğu, aşiret",
+   "karsilik": "aşiretiniz"
+  },
+  {
+   "kelime": "وَأَمْوَٰلٌ",
+   "okunus": "ve emvâlün",
+   "kok": "مول",
+   "kokAnlam": "mal, servet",
+   "karsilik": "ve mallar"
+  },
+  {
+   "kelime": "ٱقْتَرَفْتُمُوهَا",
+   "okunus": "ikteraftümûhâ",
+   "kok": "قرف",
+   "kokAnlam": "kazanma, elde etme",
+   "karsilik": "kazandığınız"
+  },
+  {
+   "kelime": "وَتِجَٰرَةٌ",
+   "okunus": "ve ticâratün",
+   "kok": "تجر",
+   "kokAnlam": "ticaret",
+   "karsilik": "ve ticaret"
+  },
+  {
+   "kelime": "تَخْشَوْنَ",
+   "okunus": "tahşevne",
+   "kok": "خشي",
+   "kokAnlam": "korkma",
+   "karsilik": "korktuğunuz"
+  },
+  {
+   "kelime": "كَسَادَهَا",
+   "okunus": "kesâdehâ",
+   "kok": "كسد",
+   "kokAnlam": "durgunluk, kesat",
+   "karsilik": "durgunluğa uğramasından"
+  },
+  {
+   "kelime": "وَمَسَٰكِنُ",
+   "okunus": "ve mesâkinü",
+   "kok": "سكن",
+   "kokAnlam": "yerleşme, mesken",
+   "karsilik": "ve meskenler"
+  },
+  {
+   "kelime": "تَرْضَوْنَهَآ",
+   "okunus": "terdavnehâ",
+   "kok": "رضو",
+   "kokAnlam": "hoşnut olma, razı olma",
+   "karsilik": "hoşunuza giden"
+  },
+  {
+   "kelime": "أَحَبَّ",
+   "okunus": "ehabbe",
+   "kok": "حبب",
+   "kokAnlam": "sevme, daha sevgili olma",
+   "karsilik": "daha sevgiliyse"
+  },
+  {
+   "kelime": "إِلَيْكُم",
+   "okunus": "ileyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَرَسُولِهِۦ",
+   "okunus": "ve rasûlihî",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi",
+   "karsilik": "ve Resûlünden"
+  },
+  {
+   "kelime": "وَجِهَادٍ",
+   "okunus": "ve cihâdin",
+   "kok": "جهد",
+   "kokAnlam": "çaba/güç harcama, cihad",
+   "karsilik": "ve cihaddan"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِهِۦ",
+   "okunus": "sebîlihî",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "O'nun yolunda"
+  },
+  {
+   "kelime": "فَتَرَبَّصُوا۟",
+   "okunus": "feterabbesû",
+   "kok": "ربص",
+   "kokAnlam": "bekleme, gözleme",
+   "karsilik": "artık bekleyin"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "يَأْتِىَ",
+   "okunus": "ye'tiye",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "getirinceye"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِأَمْرِهِۦ",
+   "okunus": "biemrihî",
+   "kok": "أمر",
+   "kokAnlam": "buyruk, emir",
+   "karsilik": "emrini"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "ve Allah"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mez",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يَهْدِى",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu gösterme, hidayet",
+   "karsilik": "doğru yola iletmez"
+  },
+  {
+   "kelime": "ٱلْقَوْمَ",
+   "okunus": "elkavme",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "topluluğunu"
+  },
+  {
+   "kelime": "ٱلْفَٰسِقِينَ",
+   "okunus": "elfâsikîne",
+   "kok": "فسق",
+   "kokAnlam": "yoldan çıkma, itaatsizlik",
+   "karsilik": "fasıklar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, hicret döneminde bazı Müslümanların aile bağları, mal, ticaret veya mesken sevgisi yüzünden Allah yolunda gerekeni yapmakta tereddüt etmesine karşı inen bir uyarıdır; sekiz şey (baba, oğul, kardeş, eş, aşiret, mal, ticaret, mesken) tek tek sayılarak, hiçbiri kınanmadan yalnızca sıralamanın önemine dikkat çekilir.",
+  "Klasik tefsir bu ayeti bir 'öncelik sınavı' olarak açıklar: aile, mal ve mesken sevgisi doğal ve meşrudur, fakat bunlar Allah, Resûlü ve O'nun yolundaki çabadan daha sevgili hale gelip kişiyi doğru bildiğinden alıkoyduğunda bir sorun oluşur. Ayet aile ilişkisini kesmeyi değil, önceliklerin doğru sıralanmasını öğretir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "63:9",
+   "meal": "Ey iman edenler! Mallarınız ve evlatlarınız sizi Allah'ı anmaktan alıkoymasın; kim bunu yaparsa, işte onlar ziyana uğrayanların ta kendileridir.",
+   "baglanti": "9:24'teki mal ve aile sevgisinin Allah'a bağlılığın önüne geçmemesi uyarısını, 'Allah'ı anma' bağlamında tekrarlar."
+  },
+  {
+   "ref": "8:28",
+   "meal": "Bilin ki mallarınız ve evlatlarınız ancak bir imtihandır; Allah katında ise büyük bir ödül vardır.",
+   "baglanti": "9:24'te sayılan aile ve mal sevgisinin kendisinin kınanmadığını, bunların bir imtihan konusu olduğunu göstererek ayeti dengeler."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, hicret ve cihad gibi somut bir sorumluluk anında aile, mal, ticaret ve mesken sevgisinin kişiyi gerekeni yapmaktan alıkoymasıdır; ayet bu bağların kendisini değil, önceliklerin ters çevrilmesini eleştirir.",
+  "Ayetten çıkarılabilecek evrensel ilke, hayattaki sevgi ve önceliklerin sıralanmasında ilkesel değerlerin en üstte tutulması gerektiğidir; bugün de bir kişi, iş, mal veya konfor sevgisinin kendisini doğru bildiği bir sorumluluktan alıkoyup alıkoymadığını sorgulayabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önceliğini test et",
+   "aciklama": "Bugün bir kararında, konfor veya kazanç kaygısının seni doğru bildiğin bir şeyi yapmaktan alıkoyup alıkoymadığını gözden geçir."
+  },
+  {
+   "baslik": "Sevdiklerini sırala",
+   "aciklama": "Hayatındaki bağlılıkları (aile, iş, mal) gözden geçir; hiçbirinin ilkelerinin önüne geçmesine izin verme."
+  },
+  {
+   "baslik": "Ertelemeyi bırak",
+   "aciklama": "Yapman gerektiğini bildiğin ama mal veya konfor kaygısıyla ertelediğin bir sorumluluğu bugün bir adım ileri götür."
+  }
+ ],
+ "bugununAdimi": "Bugün, ertelediğin bir sorumluluğu -konfor kaygısını bir kenara bırakarak- bir adım ileri götür.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=24"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/24"
+  }
+ ]
+}

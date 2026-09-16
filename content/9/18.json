@@ -1,0 +1,215 @@
+{
+ "sure": 9,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "Allah'ın mescitlerini ancak Allah'a, ahiret gününe iman eden, namazı kılan, zekâtı veren ve Allah'tan başkasından korkmayan kimseler imar eder. İşte onların doğru yola erenlerden olmaları umulur.",
+ "mealNotu": "'Ya'müru' kökü (عمر) imar etmeyi, bayındır kılmayı anlatır; ayet Mescid-i Haram'ı fiilen imar etmenin ölçüsünün soy veya bakım göreviyle değil, iman ve amelle belirlendiğini vurgular.",
+ "kokler": [
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "sadece, ancak (te'kid)",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "يَعْمُرُ",
+   "okunus": "ya'müru",
+   "kok": "عمر",
+   "kokAnlam": "imar etme, bayındır kılma",
+   "karsilik": "imar eder"
+  },
+  {
+   "kelime": "مَسَٰجِدَ",
+   "okunus": "mesâcide",
+   "kok": "سجد",
+   "kokAnlam": "secde etme; mescit",
+   "karsilik": "mescitlerini"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimse",
+   "karsilik": "kimse"
+  },
+  {
+   "kelime": "ءَامَنَ",
+   "okunus": "âmene",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "iman eden"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَٱلْيَوْمِ",
+   "okunus": "vel yevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "ve gününe"
+  },
+  {
+   "kelime": "ٱلْءَاخِرِ",
+   "okunus": "el'âhıri",
+   "kok": "أخر",
+   "kokAnlam": "son, sonraki",
+   "karsilik": "ahiret"
+  },
+  {
+   "kelime": "وَأَقَامَ",
+   "okunus": "ve ekâme",
+   "kok": "قوم",
+   "kokAnlam": "ayakta tutma, kurma",
+   "karsilik": "ve kılan"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "namaz",
+   "karsilik": "namazı"
+  },
+  {
+   "kelime": "وَءَاتَى",
+   "okunus": "ve âtâ",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "ve veren"
+  },
+  {
+   "kelime": "ٱلزَّكَوٰةَ",
+   "okunus": "ezzekâte",
+   "kok": "زكو",
+   "kokAnlam": "arınma, zekât",
+   "karsilik": "zekâtı"
+  },
+  {
+   "kelime": "وَلَمْ",
+   "okunus": "ve lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يَخْشَ",
+   "okunus": "yahşe",
+   "kok": "خشي",
+   "kokAnlam": "korkma",
+   "karsilik": "korkmayan"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "başkasından"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "فَعَسَىٰٓ",
+   "okunus": "feasâ",
+   "kok": "عسي",
+   "kokAnlam": "umulur ki",
+   "karsilik": "umulur ki"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -meleri",
+   "karsilik": "-meleri"
+  },
+  {
+   "kelime": "يَكُونُوا۟",
+   "okunus": "yekûnû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olsunlar"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -dan",
+   "karsilik": "-dan"
+  },
+  {
+   "kelime": "ٱلْمُهْتَدِينَ",
+   "okunus": "elmühtedîne",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu bulma, hidayet",
+   "karsilik": "doğru yola erenler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 17. ayette müşriklerin -kendi küfürlerine tanıklık ederken- Allah'ın mescitlerini imar etme iddiasının reddedilmesinin ardından gelir; Mekke'nin henüz Müslümanların eline geçmediği dönemde, Mescid-i Haram'ın bakım ve hizmetine dayanan bir üstünlük iddiasına karşı gerçek imar ölçüsünü ortaya koyar. 'Ya'müru' (imar etme) kökü, bir mekânı yalnız fiziksel olarak değil, orayı ibadetle canlı tutmayı da içerir.",
+  "Klasik tefsir bu ayeti, gerçek imar hakkının nesep veya geleneksel bir hizmet göreviyle değil; iman, namaz, zekât ve yalnız Allah'tan korkma ölçüsüyle kazanıldığını anlatan bir ölçü ayeti olarak açıklar. Bu ölçü Mescid-i Haram bağlamında inmiş olsa da, herhangi bir ibadet mekânının gerçek anlamda değerlenmesi için evrensel bir ilke sunar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "98:5",
+   "meal": "Oysa onlara, dini yalnız Allah'a has kılarak, hanifler olarak O'na ibadet etmeleri, namazı kılmaları ve zekâtı vermeleri emredilmişti; işte bu dosdoğru dindir.",
+   "baglanti": "Bu ayet, 9:18'deki 'iman, namaz, zekât' ölçüsünün aynısını, gerçek ve samimi ibadetin tanımı olarak tekrar eder."
+  },
+  {
+   "ref": "24:37",
+   "meal": "Kendilerini ne ticaretin ne de alışverişin Allah'ı anmaktan, namaz kılmaktan ve zekât vermekten alıkoymadığı erkekler...",
+   "baglanti": "Bu ayet, mescitleri gerçek anlamda imar eden kimselerin, dünya meşguliyetlerine rağmen ibadetlerini aksatmayanlar olduğunu göstererek 9:18'deki ölçüyü tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Mekke döneminde Mescid-i Haram'ın imarı ve bakımı üzerinden müşrik ile mümin arasında yapılan tarihî bir karşılaştırmadır; bu, bugün bir mekânı 'dindarlık nişanesi' saymak yerine, oradaki insanların iman ve ibadetine bakmak gerektiğini öğretir.",
+  "Ayetten çıkarılabilecek evrensel ilke, bir hizmetin (ibadet mekânına yapılan hizmet dahil) değerinin dış görünüşünden değil, onu yapanın iman ve samimiyetinden geldiğidir; bu, günlük hayatta yaptığımız hizmetlerin de niyet ve içtenlikle değer kazandığını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "İbadetini içtenlikle yap",
+   "aciklama": "Bugün kıldığın bir namazı ya da yaptığın bir hayrı sadece görünüş için değil, içtenlikle yap."
+  },
+  {
+   "baslik": "Bulunduğun mekânı ihya et",
+   "aciklama": "Bugün bulunduğun ortamı (ev, iş yeri, cami) hem düzenle hem de oradaki iyi davranışınla canlı tut."
+  },
+  {
+   "baslik": "Korkunu doğru yönlendir",
+   "aciklama": "Bugün bir kararını, insanların ne diyeceğinden çok Allah'a karşı sorumluluğunu düşünerek ver."
+  }
+ ],
+ "bugununAdimi": "Bugün bulunduğun bir mekânda (ev, iş, ibadet yeri) hem düzenine hem oradaki davranışına özen göster.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/18"
+  }
+ ]
+}

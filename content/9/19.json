@@ -1,0 +1,222 @@
+{
+ "sure": 9,
+ "ayet": 19,
+ "durum": "taslak",
+ "meal": "Hacılara su verme işini ve Mescid-i Haram'ı imar etmeyi; Allah'a ve ahiret gününe iman edip Allah yolunda cihad eden kimse gibi mi saydınız? Bunlar Allah katında bir olmaz. Allah, zalimler topluluğunu doğru yola iletmez.",
+ "mealNotu": "'Sikaye' (hacılara su verme) ve 'imaret' (bakım-onarım) Mekkeli müşriklerin övündüğü iki hizmetti; ayet bunları iman edip Allah yolunda cihad etmekle bir tutmayı reddeder. 'Yestevûne' kökü (سوي) denk/eşit olma anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "أَجَعَلْتُمْ",
+   "okunus": "ecealtüm",
+   "kok": "جعل",
+   "kokAnlam": "kılma, sayma",
+   "karsilik": "saydınız mı"
+  },
+  {
+   "kelime": "سِقَايَةَ",
+   "okunus": "sikâyete",
+   "kok": "سقي",
+   "kokAnlam": "su verme, sulama",
+   "karsilik": "su verme işini"
+  },
+  {
+   "kelime": "ٱلْحَآجِّ",
+   "okunus": "elhâcci",
+   "kok": "حجج",
+   "kokAnlam": "hac yapan",
+   "karsilik": "hacılara"
+  },
+  {
+   "kelime": "وَعِمَارَةَ",
+   "okunus": "ve imârate",
+   "kok": "عمر",
+   "kokAnlam": "imar etme, bayındırlık",
+   "karsilik": "ve imar etmeyi"
+  },
+  {
+   "kelime": "ٱلْمَسْجِدِ",
+   "okunus": "elmescidi",
+   "kok": "سجد",
+   "kokAnlam": "secde etme; mescit",
+   "karsilik": "mescidini"
+  },
+  {
+   "kelime": "ٱلْحَرَامِ",
+   "okunus": "elharâmi",
+   "kok": "حرم",
+   "kokAnlam": "haram, dokunulmaz",
+   "karsilik": "haram (Mescid-i Haram'ı)"
+  },
+  {
+   "kelime": "كَمَنْ",
+   "okunus": "kemen",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimse gibi",
+   "karsilik": "kimse gibi"
+  },
+  {
+   "kelime": "ءَامَنَ",
+   "okunus": "âmene",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "iman eden"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَٱلْيَوْمِ",
+   "okunus": "vel yevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "ve gününe"
+  },
+  {
+   "kelime": "ٱلْءَاخِرِ",
+   "okunus": "el'âhıri",
+   "kok": "أخر",
+   "kokAnlam": "son, sonraki",
+   "karsilik": "ahiret"
+  },
+  {
+   "kelime": "وَجَٰهَدَ",
+   "okunus": "ve câhede",
+   "kok": "جهد",
+   "kokAnlam": "çaba/güç harcama, cihad",
+   "karsilik": "ve cihad eden"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "يَسْتَوُۥنَ",
+   "okunus": "yestevûne",
+   "kok": "سوي",
+   "kokAnlam": "eşit/denk olma",
+   "karsilik": "bir olmazlar"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "yan, kat",
+   "karsilik": "katında"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "ve Allah"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mez",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يَهْدِى",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu gösterme, hidayet",
+   "karsilik": "doğru yola iletmez"
+  },
+  {
+   "kelime": "ٱلْقَوْمَ",
+   "okunus": "elkavme",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "topluluğunu"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمِينَ",
+   "okunus": "ezzâlimîne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık etme, zulüm",
+   "karsilik": "zalimler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Mekke döneminde bazı müşriklerin hacılara su dağıtma (sikaye) ve Kâbe'nin bakımını yapma (imaret) gibi hizmetleriyle övünüp bunu iman ve cihattan üstün ya da ona denk göstermelerine bir cevaptır; bu tarihî tartışma, Mekkeli müşriklerin bu tür hizmetleri bir üstünlük vesilesi saydığı döneme işaret eder.",
+  "Klasik tefsir bu ayeti, dış görünüşte dindarlık sayılan bir hizmetin -kalpte iman ve Allah yolunda fiilî çaba olmadıkça- iman ve cihadın yerini tutamayacağını anlatan bir ölçü ayeti olarak açıklar; 'lâ yestevûne' (bir olmazlar) ifadesi bu ikisi arasındaki farkı kesin biçimde ortaya koyar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:95",
+   "meal": "Özür sahibi olmaksızın oturan müminlerle, Allah yolunda mallarıyla ve canlarıyla cihad edenler bir olmaz; Allah, mallarıyla ve canlarıyla cihad edenleri oturanlara derece bakımından üstün kılmıştır.",
+   "baglanti": "Aynı kök (سوي, 'lâ yestevî') ile, oturup hizmetle yetinenin, mal ve canıyla cihad edenle bir olmayacağını anlatarak 9:19'daki karşılaştırmayı destekler."
+  },
+  {
+   "ref": "9:20",
+   "meal": "İman edip hicret edenler ve Allah yolunda mallarıyla ve canlarıyla cihad edenler, Allah katında derece bakımından daha büyüktür.",
+   "baglanti": "9:19'da reddedilen 'sikaye-imaret' üstünlüğünün karşısına, bir sonraki ayette gerçek üstünlüğün iman-hicret-cihad olduğu konulur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Mekkeli müşriklerin hacılara hizmet ve Kâbe bakımı gibi işlerle övünüp bunu iman ve cihatla bir tutmaya çalışmasıyla ilgili tarihî bir karşılaştırmadır; buradan çıkan ilke şudur: dışarıdan dindarlık görüntüsü veren bir hizmet, kalpteki iman ve samimi çabanın yerini tutmaz.",
+  "Ayetten çıkarılabilecek evrensel ders, bir kimsenin yaptığı hizmetin görünürdeki büyüklüğüne değil, o hizmetin arkasındaki iman ve niyete bakılması gerektiğidir; günlük hayatta da bir işin kıymetini yalnız dışarıdan görünüşüyle değil, içindeki samimiyetle ölçmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Niyetini sorgula",
+   "aciklama": "Bugün yaptığın bir hizmetin, sadece görünmek için mi yoksa içten mi olduğunu kendine sor."
+  },
+  {
+   "baslik": "Hizmeti imanla birleştir",
+   "aciklama": "Yaptığın bir yardımı, kalbindeki iman ve samimiyetle beraber sun; sadece alışkanlıktan yapma."
+  },
+  {
+   "baslik": "Karşılaştırma yapma",
+   "aciklama": "Kendi hizmetini başkasının hizmetiyle kıyaslayıp övünmek yerine, Allah katındaki değerine odaklan."
+  }
+ ],
+ "bugununAdimi": "Bugün yaptığın bir hizmeti, sadece alışkanlıktan değil bilinçli bir niyetle yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=19"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/19"
+  }
+ ]
+}

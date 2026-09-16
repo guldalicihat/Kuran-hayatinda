@@ -1,0 +1,271 @@
+{
+ "sure": 9,
+ "ayet": 37,
+ "durum": "taslak",
+ "meal": "Ertelemek (nesî'), ancak küfürde bir artıştır; onunla inkâr edenler saptırılır. Onu (haram ayı) bir yıl helal sayarlar, bir yıl haram sayarlar ki Allah'ın haram kıldığının sayısına uydursunlar da Allah'ın haram kıldığını helal kılsınlar. Kötü işleri kendilerine süslü gösterildi. Allah ise kâfirler topluluğunu doğru yola iletmez.",
+ "mealNotu": "'Nesî'' kökü (نسأ) erteleme/geciktirmeyi anlatır ve cahiliye Araplarının haram ayları yıldan yıla kaydırma uygulamasına işaret eder; bu, haram ay sayısını değiştirmeden görünüşte koruyup özünde bozan bir yöntemdi.",
+ "kokler": [
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak, sadece",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ٱلنَّسِىٓءُ",
+   "okunus": "ennesîü",
+   "kok": "نسأ",
+   "kokAnlam": "erteleme, geciktirme",
+   "karsilik": "erteleme (nesî')"
+  },
+  {
+   "kelime": "زِيَادَةٌ",
+   "okunus": "ziyâdetün",
+   "kok": "زيد",
+   "kokAnlam": "artış, fazlalık",
+   "karsilik": "bir artıştır"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "-de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْكُفْرِ",
+   "okunus": "elküfri",
+   "kok": "كفر",
+   "kokAnlam": "gerçeği örtme, inkâr",
+   "karsilik": "küfürde"
+  },
+  {
+   "kelime": "يُضَلُّ",
+   "okunus": "yüdallü",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, saptırılma",
+   "karsilik": "saptırılır"
+  },
+  {
+   "kelime": "بِهِ",
+   "okunus": "bihi",
+   "kok": "—",
+   "kokAnlam": "onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "gerçeği örtme, inkâr etme",
+   "karsilik": "inkâr eden"
+  },
+  {
+   "kelime": "يُحِلُّونَهُۥ",
+   "okunus": "yühillûnehû",
+   "kok": "حلل",
+   "kokAnlam": "helal kılma",
+   "karsilik": "onu helal sayarlar"
+  },
+  {
+   "kelime": "عَامًا",
+   "okunus": "âmen",
+   "kok": "عوم",
+   "kokAnlam": "yıl",
+   "karsilik": "bir yıl"
+  },
+  {
+   "kelime": "وَيُحَرِّمُونَهُۥ",
+   "okunus": "ve yüharrimûnehû",
+   "kok": "حرم",
+   "kokAnlam": "haram kılma",
+   "karsilik": "ve haram sayarlar"
+  },
+  {
+   "kelime": "عَامًا",
+   "okunus": "âmen",
+   "kok": "عوم",
+   "kokAnlam": "yıl",
+   "karsilik": "başka bir yıl"
+  },
+  {
+   "kelime": "لِّيُوَاطِـُٔوا۟",
+   "okunus": "liyüvâtıû",
+   "kok": "وطأ",
+   "kokAnlam": "uydurma, denk getirme",
+   "karsilik": "uydurmak için"
+  },
+  {
+   "kelime": "عِدَّةَ",
+   "okunus": "iddete",
+   "kok": "عدد",
+   "kokAnlam": "sayı",
+   "karsilik": "sayısına"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "Allah'ın haram kıldığının"
+  },
+  {
+   "kelime": "حَرَّمَ",
+   "okunus": "harrame",
+   "kok": "حرم",
+   "kokAnlam": "haram kılma",
+   "karsilik": "haram kıldığı"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَيُحِلُّوا۟",
+   "okunus": "feyühillû",
+   "kok": "حلل",
+   "kokAnlam": "helal kılma",
+   "karsilik": "ve helal kılsınlar diye"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "Allah'ın haram kıldığını"
+  },
+  {
+   "kelime": "حَرَّمَ",
+   "okunus": "harrame",
+   "kok": "حرم",
+   "kokAnlam": "haram kılma",
+   "karsilik": "haram kıldığını"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "زُيِّنَ",
+   "okunus": "züyyine",
+   "kok": "زين",
+   "kokAnlam": "süsleme",
+   "karsilik": "süslü gösterildi"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "سُوٓءُ",
+   "okunus": "sûü",
+   "kok": "سوأ",
+   "kokAnlam": "kötülük",
+   "karsilik": "kötülüğü"
+  },
+  {
+   "kelime": "أَعْمَٰلِهِمْ",
+   "okunus": "a'mâlihim",
+   "kok": "عمل",
+   "kokAnlam": "amel, iş",
+   "karsilik": "işlerinin"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah ise"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mez",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يَهْدِى",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "hidayet, doğru yola iletme",
+   "karsilik": "doğru yola iletmez"
+  },
+  {
+   "kelime": "ٱلْقَوْمَ",
+   "okunus": "elkavme",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "topluluğunu"
+  },
+  {
+   "kelime": "ٱلْكَٰفِرِينَ",
+   "okunus": "elkâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "gerçeği örtme, inkâr",
+   "karsilik": "kâfirler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 36. ayette belirtilen 'on iki ay, dördü haram' düzeninin bazı cahiliye Arapları tarafından nasıl bozulduğunu anlatır: 'nesî'' denilen uygulamayla, savaşmak istedikleri bir haram ayı başka bir ayla yer değiştirerek görünüşte kuralı bozmadan fiilen savaşa imkân buluyorlardı.",
+  "Klasik tefsir bu uygulamayı, dinî bir kuralın sözde korunup özünde çıkara göre eğilip bükülmesinin somut bir tarihî örneği olarak açıklar; ayet bu tür bir hile ve kural saptırmayı 'küfürde artış' olarak nitelendirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "9:36",
+   "meal": "Şüphesiz Allah katında ayların sayısı on iki aydır; bunlardan dördü haramdır... kendinize zulmetmeyin.",
+   "baglanti": "37. ayet, 36. ayette anlatılan haram ay düzeninin nesî' uygulamasıyla nasıl bozulduğunu açıklar."
+  },
+  {
+   "ref": "6:116",
+   "meal": "Yeryüzündeki insanların çoğuna uysan seni Allah yolundan saptırırlar; onlar sadece zanna uyarlar ve sadece tahmin yürütürler.",
+   "baglanti": "Her iki ayet de çoğunluğun geleneğine/zanna dayalı bir uygulamanın (nesî' gibi) insanı doğru yoldan saptırabileceğini vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, cahiliye Araplarının haram ayları kaydırma (nesî') geleneğidir; bu o döneme özgü tarihî bir dinî-takvimsel uygulamadır ve bugünkü hayatta doğrudan bir karşılığı yoktur.",
+  "Buradan çıkarılabilecek evrensel ders, bir kuralı zahiren koruyormuş gibi görünüp özünde kendi çıkarına göre eğip bükmenin (kılıfına uydurmanın) bir tutarsızlık ve samimiyetsizlik olduğudur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kuralı özüyle uygula",
+   "aciklama": "Bugün uyduğun bir kuralı, sadece görünüşte değil gerçek amacına uygun biçimde uygula."
+  },
+  {
+   "baslik": "Çıkarına göre bükme",
+   "aciklama": "Bir ilkeyi kendi işine geldiğinde esnetip geldiğinde sıkı tutmaktan kaçın."
+  },
+  {
+   "baslik": "Tutarlı ol",
+   "aciklama": "Bugün verdiğin bir kararı, şartlar değiştiğinde kendi lehine çarpıtmadan aynı tutarlılıkla sürdür."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kuralı veya sözünü, kendi çıkarına göre esnetmeden olduğu gibi uygula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=37"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/37"
+  }
+ ]
+}

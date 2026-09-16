@@ -1,0 +1,306 @@
+{
+ "sure": 9,
+ "ayet": 36,
+ "durum": "taslak",
+ "meal": "Şüphesiz Allah katında ayların sayısı, gökleri ve yeri yarattığı günden beri Allah'ın kitabında on iki aydır; bunlardan dördü haramdır. İşte dosdoğru din budur; öyleyse o aylarda kendinize zulmetmeyin. Müşrikler size karşı topluca savaştığı gibi siz de onlarla topluca savaşın ve bilin ki Allah takva sahipleriyle beraberdir.",
+ "mealNotu": "'Kâffeten' kökü (كفف) topluca, hep birlikte anlamına gelir ve iki kez tekrarlanarak karşılıklılığı vurgular. 'Hurum' (haram aylar) burada savaşın yasak olduğu belirli ayları anlatır; bu hüküm 34-35. ayetlerdeki mal/servet konusundan farklı, yeni bir konuya (haram aylar ve savaş) geçiştir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "عِدَّةَ",
+   "okunus": "iddete",
+   "kok": "عدد",
+   "kokAnlam": "sayı",
+   "karsilik": "sayısı"
+  },
+  {
+   "kelime": "ٱلشُّهُورِ",
+   "okunus": "eşşühûri",
+   "kok": "شهر",
+   "kokAnlam": "ay",
+   "karsilik": "ayların"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "yan, kat",
+   "karsilik": "katında"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱثْنَا",
+   "okunus": "isnâ",
+   "kok": "ثني",
+   "kokAnlam": "iki, çift",
+   "karsilik": "on iki"
+  },
+  {
+   "kelime": "عَشَرَ",
+   "okunus": "aşera",
+   "kok": "عشر",
+   "kokAnlam": "on",
+   "karsilik": "(on iki)"
+  },
+  {
+   "kelime": "شَهْرًا",
+   "okunus": "şehran",
+   "kok": "شهر",
+   "kokAnlam": "ay",
+   "karsilik": "ay olarak"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "-de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "كِتَٰبِ",
+   "okunus": "kitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazı, kitap",
+   "karsilik": "kitabında"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günden beri"
+  },
+  {
+   "kelime": "خَلَقَ",
+   "okunus": "haleka",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yarattığı"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "gök",
+   "karsilik": "gökleri"
+  },
+  {
+   "kelime": "وَٱلْأَرْضَ",
+   "okunus": "vel erda",
+   "kok": "أرض",
+   "kokAnlam": "yer",
+   "karsilik": "ve yeri"
+  },
+  {
+   "kelime": "مِنْهَآ",
+   "okunus": "minhâ",
+   "kok": "—",
+   "kokAnlam": "onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "أَرْبَعَةٌ",
+   "okunus": "erbeatün",
+   "kok": "ربع",
+   "kokAnlam": "dört",
+   "karsilik": "dördü"
+  },
+  {
+   "kelime": "حُرُمٌ",
+   "okunus": "hurumün",
+   "kok": "حرم",
+   "kokAnlam": "haram, dokunulmaz",
+   "karsilik": "haramdır"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "işte bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "ٱلدِّينُ",
+   "okunus": "eddînü",
+   "kok": "دين",
+   "kokAnlam": "din",
+   "karsilik": "dindir"
+  },
+  {
+   "kelime": "ٱلْقَيِّمُ",
+   "okunus": "elkayyimü",
+   "kok": "قوم",
+   "kokAnlam": "dosdoğru, sağlam",
+   "karsilik": "dosdoğru"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "öyleyse ...değil",
+   "karsilik": "öyleyse"
+  },
+  {
+   "kelime": "تَظْلِمُوا۟",
+   "okunus": "tazlimû",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, zulüm",
+   "karsilik": "zulmetmeyin"
+  },
+  {
+   "kelime": "فِيهِنَّ",
+   "okunus": "fîhinne",
+   "kok": "—",
+   "kokAnlam": "onlarda",
+   "karsilik": "o aylarda"
+  },
+  {
+   "kelime": "أَنفُسَكُمْ",
+   "okunus": "enfüseküm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi",
+   "karsilik": "kendinize"
+  },
+  {
+   "kelime": "وَقَٰتِلُوا۟",
+   "okunus": "ve kâtilû",
+   "kok": "قتل",
+   "kokAnlam": "karşılıklı savaşma",
+   "karsilik": "ve savaşın"
+  },
+  {
+   "kelime": "ٱلْمُشْرِكِينَ",
+   "okunus": "elmüşrikîne",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "müşriklerle"
+  },
+  {
+   "kelime": "كَآفَّةً",
+   "okunus": "kâffeten",
+   "kok": "كفف",
+   "kokAnlam": "topluca, hep birlikte",
+   "karsilik": "topluca"
+  },
+  {
+   "kelime": "كَمَا",
+   "okunus": "kemâ",
+   "kok": "—",
+   "kokAnlam": "gibi",
+   "karsilik": "onlar sizinle"
+  },
+  {
+   "kelime": "يُقَٰتِلُونَكُمْ",
+   "okunus": "yükâtilûneküm",
+   "kok": "قتل",
+   "kokAnlam": "karşılıklı savaşma",
+   "karsilik": "topluca savaştığı gibi"
+  },
+  {
+   "kelime": "كَآفَّةً",
+   "okunus": "kâffeten",
+   "kok": "كفف",
+   "kokAnlam": "topluca, hep birlikte",
+   "karsilik": "topluca"
+  },
+  {
+   "kelime": "وَٱعْلَمُوٓا۟",
+   "okunus": "velemû",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "ve bilin ki"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مَعَ",
+   "okunus": "mea",
+   "kok": "—",
+   "kokAnlam": "ile, beraber",
+   "karsilik": "beraberdir"
+  },
+  {
+   "kelime": "ٱلْمُتَّقِينَ",
+   "okunus": "elmüttekîne",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "takva sahipleriyle"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Arapların cahiliye döneminden beri bildiği 'on iki ay, dördü haram' takvim düzenini teyit eder; bu haram aylarda savaş cahiliye Araplarınca da kutsal/yasak sayılırdı. Ayet bu düzenin bozulmaması gerektiğini, 'kendinize zulmetmeyin' uyarısıyla vurgular.",
+  "Klasik tefsir 'topluca savaşın' ifadesini, dönemin antlaşmalarını bozup topluca saldıran belirli müşrik gruplarına karşı mü'minlerin de dağınık değil birlik içinde karşılık vermesi gerektiği şeklinde açıklar; bu, önceki ayetlerdeki (4-5, 12-13) tarihî ve şartlı savaş hükümlerinin bir devamıdır, genel bir çağrı değildir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:217",
+   "meal": "Sana haram ayda savaşmayı soruyorlar. De ki: Onda savaşmak büyük bir günahtır.",
+   "baglanti": "Bu ayet de haram aylarda savaşın hassasiyetine değinir; 9:36'daki 'haram aylar' kavramının önemini pekiştirir."
+  },
+  {
+   "ref": "9:37",
+   "meal": "Ertelemek (nesî'), ancak küfürde bir artıştır; onunla inkâr edenler saptırılır.",
+   "baglanti": "37. ayet, 36. ayette belirtilen haram ay düzeninin bazı müşriklerce nasıl bozulduğunu (nesî' uygulamasıyla) açıklar; iki ayet doğrudan bağlantılıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, İslam öncesinden gelen kamerî takvimdeki on iki ay ve dört haram ay düzenidir; bu ve ayetin savaşla ilgili kısmı, Hicri 9. yıldaki özel tarihî-hukuki bir bağlamla ilgilidir ve bugünkü hayata genel bir savaş kuralı olarak uygulanamaz.",
+  "Buradan çıkarılabilecek evrensel ilke 'kendinize zulmetmeyin' uyarısında saklıdır: belirlenmiş kural ve sınırları (zaman, anlaşma, sözleşme) kendi çıkarın için çiğnememek, kendine ve başkalarına haksızlık etmemektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kuralına sadık kal",
+   "aciklama": "Bugün üzerinde anlaştığın bir zaman veya kural varsa (randevu, süre, sözleşme), onu kendi çıkarın için bozma."
+  },
+  {
+   "baslik": "Kendine haksızlık etme",
+   "aciklama": "Bir kararında, kısa vadeli çıkar uğruna kendi değerlerinden ödün vermediğinden emin ol."
+  },
+  {
+   "baslik": "Birlik içinde hareket et",
+   "aciklama": "Bir grup işinde, dağınık değil dayanışma içinde hareket etmeye özen göster."
+  }
+ ],
+ "bugununAdimi": "Bugün üzerinde anlaştığın bir kurala veya zamana, kendi çıkarın için ödün vermeden sadık kal.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=36"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/36"
+  }
+ ]
+}

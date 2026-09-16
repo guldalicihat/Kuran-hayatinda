@@ -1,0 +1,187 @@
+{
+ "sure": 9,
+ "ayet": 23,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Eğer babalarınız ve kardeşleriniz imana karşı küfrü tercih ederlerse, onları veli edinmeyin. İçinizden kim onları veli edinirse, işte onlar zalimlerin ta kendileridir.",
+ "mealNotu": "'Veli' kökü (ولي) burada siyasi/dini bağlılık, dayanak ve otorite edinme anlamındadır; günlük aile sevgisini değil, küfrü açıkça imana tercih eden kişiyi dini/siyasi bir otorite olarak benimsemeyi kastetmektedir. 'İstehabbû' kökü (حبب) tercih etme, daha çok sevme anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "nida, seslenme",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -meyin",
+   "karsilik": "-meyin"
+  },
+  {
+   "kelime": "تَتَّخِذُوٓا۟",
+   "okunus": "tettehızû",
+   "kok": "أخذ",
+   "kokAnlam": "alma, edinme",
+   "karsilik": "edinmeyin"
+  },
+  {
+   "kelime": "ءَابَآءَكُمْ",
+   "okunus": "âbâeküm",
+   "kok": "أبو",
+   "kokAnlam": "baba, ata",
+   "karsilik": "babalarınızı"
+  },
+  {
+   "kelime": "وَإِخْوَٰنَكُمْ",
+   "okunus": "ve ihvâneküm",
+   "kok": "أخو",
+   "kokAnlam": "kardeş",
+   "karsilik": "ve kardeşlerinizi"
+  },
+  {
+   "kelime": "أَوْلِيَآءَ",
+   "okunus": "evliyâe",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, dostluk, otorite",
+   "karsilik": "veli"
+  },
+  {
+   "kelime": "إِنِ",
+   "okunus": "ini",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "ٱسْتَحَبُّوا۟",
+   "okunus": "istehabbû",
+   "kok": "حبب",
+   "kokAnlam": "sevme, tercih etme",
+   "karsilik": "tercih ederlerse"
+  },
+  {
+   "kelime": "ٱلْكُفْرَ",
+   "okunus": "elküfra",
+   "kok": "كفر",
+   "kokAnlam": "gerçeği örtme, inkâr",
+   "karsilik": "küfrü"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine, karşı",
+   "karsilik": "karşı"
+  },
+  {
+   "kelime": "ٱلْإِيمَٰنِ",
+   "okunus": "el'îmâni",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "imana"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "يَتَوَلَّهُم",
+   "okunus": "yetevellehüm",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık kurma, veli edinme",
+   "karsilik": "onları veli edinirse"
+  },
+  {
+   "kelime": "مِّنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat) içinizden",
+   "karsilik": "içinizden"
+  },
+  {
+   "kelime": "فَأُو۟لَٰٓئِكَ",
+   "okunus": "feülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlardır"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمُونَ",
+   "okunus": "ezzâlimûne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık etme, zulüm",
+   "karsilik": "zalimler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, hicret döneminde bazı Müslümanların, imana karşı küfrü açıkça tercih eden baba veya kardeşleriyle olan bağlılık ilişkisini düzenler; burada geçen 'veli edinme' (تولّي) günlük sevgi ve aile bağını değil, dini/siyasi anlamda dayanak, otorite ve sadakat kaynağı edinmeyi ifade eder. Şart açıktır: 'eğer küfrü imana tercih ederlerse' -yani her akraba için değil, açıkça bu tercihi yapanlar için geçerlidir.",
+  "Klasik tefsir bu ayeti bir 'öncelik sıralaması' ayeti olarak açıklar: kişinin hayatındaki en üst bağlılık ve sadakat Allah ve O'nun dinine olmalı, hiçbir akrabalık bağı bu sadakatin önüne geçmemelidir. Bu, aile sevgisini reddetmez; nitekim Kur'an başka ayetlerde anne-babaya iyi davranmayı emreder. Burada engellenen, imana açıkça düşman olan birini dini/siyasi bir dayanak ve otorite olarak benimsemektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "58:22",
+   "meal": "Allah'a ve ahiret gününe iman eden bir topluluğun, Allah'a ve Resûlüne muhalefet edenleri -babaları, oğulları, kardeşleri ya da akrabaları olsalar bile- sevip dost tuttuğunu göremezsin...",
+   "baglanti": "9:23'teki 'veli edinmeme' hükmünü aynı aile örnekleriyle (baba, kardeş, akraba) tekrarlayarak, buradaki 'veli'nin siyasi/dini bağlılık anlamına geldiğini teyit eder."
+  },
+  {
+   "ref": "31:15",
+   "meal": "Eğer anne-baban, hakkında bilgin olmayan bir şeyi bana ortak koşman için seni zorlarsa, onlara itaat etme; ama dünyada onlarla iyi geçin.",
+   "baglanti": "Bu ayet, inanç ayrılığında bile anne-babayla dünya hayatında iyi geçinmenin emredildiğini göstererek, 9:23'teki hükmün aile sevgisini değil sadece itikadî/siyasi itaati sınırladığını dengeler."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, imana karşı küfrü açıkça tercih eden yakın akrabaların dini/siyasi bir dayanak ve otorite olarak benimsenmemesidir; bu, günlük hayatta aile bireylerine sevgi göstermeyi, onlarla ilişkiyi sürdürmeyi veya onlara iyilik etmeyi yasaklamaz.",
+  "Ayetten çıkarılabilecek evrensel ilke, hayattaki bağlılık ve sadakat sıralamasında ilkelerin kişisel bağlardan önce gelmesi gerektiğidir; bugün de bir kişi, kimin fikrini veya yönlendirmesini kendine rehber (otorite) edindiğini gözden geçirebilir - bu, aile sevgisinden vazgeçmek anlamına gelmez."
+ ],
+ "bugun": [
+  {
+   "baslik": "Rehberini doğru seç",
+   "aciklama": "Bugün önemli bir kararında kimin görüşünü otorite kabul ettiğini gözden geçir; ilkelerinle çelişen bir yönlendirmeyi kabul etme."
+  },
+  {
+   "baslik": "Sevgiyle ilkeyi ayır",
+   "aciklama": "Bir yakınınla görüş ayrılığın olsa bile, ona duyduğun sevgi ve saygıyı sürdür; vazgeçilmesi gereken şey yalnızca yanlış bir otoriteye bağlanmaktır."
+  },
+  {
+   "baslik": "Kendi sorumluluğunu üstlen",
+   "aciklama": "Bugün bir davranışını, başkasının onayına değil kendi ilkelerine göre değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir yakınına sevgini korurken, ilkelerinle çelişen bir yönlendirmeyi kabul etmediğini kendine hatırlat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=23"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/23"
+  }
+ ]
+}
