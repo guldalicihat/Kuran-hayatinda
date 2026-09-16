@@ -1,0 +1,82 @@
+{
+ "sure": 83,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "Sana siccînin ne olduğunu bildiren nedir?",
+ "mealNotu": "'Edrâke' fiili 'dirâyet' kökünden, bilme ve idrak etmeyi anlatır. Ayet, Kur'an'da sıkça geçen 'sana ... nin ne olduğunu bildiren nedir?' kalıbıyla, konunun önemine dikkat çeker.",
+ "kokler": [
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ve nedir",
+   "karsilik": "ve nedir"
+  },
+  {
+   "kelime": "أَدْرَىٰكَ",
+   "okunus": "edrâke",
+   "kok": "دري",
+   "kokAnlam": "bilme, idrak etme, haberdar kılma",
+   "karsilik": "sana bildiren"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "سِجِّينٌ",
+   "okunus": "siccînün",
+   "kok": "سجن",
+   "kokAnlam": "hapsetme, sıkıştırma; dar ve alçak bir kayıt yeri",
+   "karsilik": "siccîn"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayette adı geçen 'siccîn'in ne olduğunu soru üslubuyla vurgular. Bu kalıp Kur'an'da, insanın kendi bilgisiyle tam olarak kavrayamayacağı bir gerçeği tanıtırken kullanılır.",
+  "Soru cevapsız bırakılmaz; hemen ardından gelen ayet 'kitâbün merkûm' (yazılmış bir kitap) diyerek kısa bir açıklama getirir. Vurgu, bu kaydın önemli ve ciddi bir şey olduğu üzerindedir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "97:2",
+   "meal": "Sana Kadir gecesinin ne olduğunu bildiren nedir?",
+   "baglanti": "Aynı 've mâ edrâke' kalıbı burada Kadir gecesi için kullanılır; ikisi de insanın tam kavrayamayacağı büyük bir gerçeği tanıtır."
+  },
+  {
+   "ref": "83:19",
+   "meal": "Sana illiyyûnun ne olduğunu bildiren nedir?",
+   "baglanti": "Aynı sûrede, aynı soru kalıbı bu kez iyilerin kaydı için tekrarlanır; siccîn ile illiyyûn böylece aynı üslupla karşılaştırılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, gaybla ilgili bir bilgiyi insanın kendi başına tam kavrayamayacağını hatırlatmaktır. Bu, hesap gününün ayrıntılarını kesin sayılarla tahmin etmeye çalışmak yerine, onun ciddiyetine odaklanmayı öğütler.",
+  "Günlük hayatta bu, bilmediğin konularda tevazu göstermeyi hatırlatır. Her şeyi bildiğini varsaymadan, bazı gerçeklerin kapsamını aşan bir ciddiyet taşıdığını kabul etmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilmediğini kabul et",
+   "aciklama": "Bugün emin olmadığın bir konuda 'bilmiyorum' demekten çekinme."
+  },
+  {
+   "baslik": "Ciddiyeti hatırla",
+   "aciklama": "Hesap gününü hafife alan bir söz duyduğunda, konuyu küçümsemeden nazikçe hatırlat."
+  },
+  {
+   "baslik": "Merakını doğru yöne çevir",
+   "aciklama": "Bugün gayb hakkında spekülasyon yerine, elindeki somut bir görevine odaklan."
+  }
+ ],
+ "bugununAdimi": "Bugün emin olmadığın bir konuda kesin konuşmak yerine 'Allah daha iyi bilir' de.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/83/8"
+  }
+ ]
+}

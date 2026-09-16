@@ -1,0 +1,68 @@
+{
+ "sure": 80,
+ "ayet": 29,
+ "durum": "taslak",
+ "meal": "Ve zeytin ve hurma [bitirdik].",
+ "mealNotu": "[bitirdik] fiili yine 27. ayetten taşınır. 'Zeytûn' zeytin, 'nahl' hurma ağacıdır; ikisi de Kur'an'da sık anılan bereketli ağaçlardandır.",
+ "kokler": [
+  {
+   "kelime": "وَزَيْتُونًا",
+   "okunus": "ve zeytûnen",
+   "kok": "زيت",
+   "kokAnlam": "zeytin",
+   "karsilik": "ve zeytin"
+  },
+  {
+   "kelime": "وَنَخْلًا",
+   "okunus": "ve nahlen",
+   "kok": "نخل",
+   "kokAnlam": "hurma ağacı",
+   "karsilik": "ve hurma"
+  }
+ ],
+ "neAnlatiyor": [
+  "Liste, yağ kaynağı zeytin ile enerji ve besin kaynağı hurmaya geçer. Bu iki ağaç, Kur'an'da bereket sembolü olarak sık anılır.",
+  "Zeytinyağı hem gıda hem aydınlatma için kullanılırdı; hurma ise çölde en erişilebilir besinlerdendir. Ayet, iklime göre değişen ama hepsi aynı kaynaktan gelen nimetleri sayar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "24:35",
+   "meal": "...ne doğuya ne batıya ait mübarek bir zeytin ağacından tutuşturulan (lambanın nuru gibi)...",
+   "baglanti": "Nûr suresi zeytin ağacını bereket ve nur sembolü olarak anar; Abese aynı ağacı doğrudan rızık listesine koyar."
+  },
+  {
+   "ref": "19:25",
+   "meal": "Hurma dalını kendine doğru silkele, üzerine taze hurma dökülsün.",
+   "baglanti": "Meryem suresinde hurma, Meryem'e verilen doğrudan bir rızık olarak anlatılır; Abese'de aynı ağaç genel bir nimet olarak sayılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu zeytin ve hurmanın besin kaynağı olmasıdır.",
+  "Bugün için ders, işlenmiş gıdalar yerine bu tür sade, doğal besinlere dönmenin değerini hatırlamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zeytinyağını fark et",
+   "aciklama": "Bugün bir öğününde zeytinyağı kullan ve nereden geldiğini düşün."
+  },
+  {
+   "baslik": "Hurma ile iftar/ara öğün",
+   "aciklama": "Bugün ara öğün olarak birkaç hurma ye."
+  },
+  {
+   "baslik": "Sade beslenmeyi dene",
+   "aciklama": "Bugün bir atıştırmalığı zeytin, hurma gibi sade bir gıdayla değiştir."
+  }
+ ],
+ "bugununAdimi": "Bugün zeytin veya hurmadan birini yerken kökeninin ağaçtan sofrana kadar geçen yolunu düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=29"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/80/29"
+  }
+ ]
+}

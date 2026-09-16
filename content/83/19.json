@@ -1,0 +1,82 @@
+{
+ "sure": 83,
+ "ayet": 19,
+ "durum": "taslak",
+ "meal": "Sana illiyyûnun ne olduğunu bildiren nedir?",
+ "mealNotu": "Ayet, bir önceki ayette geçen 'illiyyîn'i tekrar 'illiyyûn' biçiminde anar ve onun önemini soru kalıbıyla vurgular.",
+ "kokler": [
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ve nedir",
+   "karsilik": "ve nedir"
+  },
+  {
+   "kelime": "أَدْرَىٰكَ",
+   "okunus": "edrâke",
+   "kok": "دري",
+   "kokAnlam": "bilme, idrak etme, haberdar kılma",
+   "karsilik": "sana bildiren"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "عِلِّيُّونَ",
+   "okunus": "illiyyûne",
+   "kok": "علو",
+   "kokAnlam": "yükseklik, yücelik",
+   "karsilik": "illiyyûn"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayette bildirilen illiyyîn kaydının ne olduğunu soru üslubuyla vurgular. Bu, 8. ayette siccîn için kullanılan aynı kalıbın, bu kez iyilerin kaydı için tekrarlanmasıdır.",
+  "Soru, insanın bu yüce konumu tam olarak kavrayamayacağını, ama onun önemli ve gerçek olduğunu bildirmek içindir. Hemen ardından gelen ayet, kısa bir açıklamayla bu soruyu cevaplar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "83:8",
+   "meal": "Sana siccînin ne olduğunu bildiren nedir?",
+   "baglanti": "Aynı soru kalıbı, sûrenin başında siccîn için kullanılmıştı; burada aynı üslup illiyyûn için tekrarlanarak iki akıbet birbirine paralel anlatılır."
+  },
+  {
+   "ref": "101:10",
+   "meal": "Sana onun ne olduğunu bildiren nedir?",
+   "baglanti": "Kâria sûresinde de aynı soru kalıbı, tartısı hafif gelenlerin varacağı yer için kullanılır; bu üslup Kur'an'da büyük gerçekleri tanıtmak için sık kullanılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, iyilerin ulaşacağı yüce konumun insan tarafından tam kavranamayacak büyüklükte olduğudur. Bu, iyiliğin karşılığının küçümsenmemesi gerektiğini hatırlatır.",
+  "Günlük hayata taşınabilecek ders, iyi bir davranışın görünürdeki küçüklüğüne bakarak onun değerini hafife almamaktır. Bazı iyiliklerin karşılığı, insanın tahmin edebileceğinden daha büyüktür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçük iyiliği küçümseme",
+   "aciklama": "Bugün önemsiz gördüğün bir iyiliği (gülümseme, yardım) yine de yap."
+  },
+  {
+   "baslik": "Değerini bilmeden yap",
+   "aciklama": "Karşılığını hemen görmesen de bugün bir iyiliği sadece doğru olduğu için yap."
+  },
+  {
+   "baslik": "Merakını besle",
+   "aciklama": "Bugün ahiretle ilgili bir konuyu kısa bir okuma ile öğren."
+  }
+ ],
+ "bugununAdimi": "Bugün küçük gördüğün bir iyiliği, karşılığını düşünmeden yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=19"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/83/19"
+  }
+ ]
+}

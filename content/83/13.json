@@ -1,0 +1,103 @@
+{
+ "sure": 83,
+ "ayet": 13,
+ "durum": "taslak",
+ "meal": "Ona ayetlerimiz okunduğunda, 'Öncekilerin masalları' der.",
+ "mealNotu": "'Esâtîr' kelimesi 'satr' (satır, yazı) kökünden, yazılı eski hikâyeleri anlatır; 'masallar' diye karşılandı. Ayet, âyetlere karşı takınılan küçümseyici tavrı aktarır.",
+ "kokler": [
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "تُتْلَىٰ",
+   "okunus": "tütlâ",
+   "kok": "تلو",
+   "kokAnlam": "okuma, ardı ardına okuma, izleme",
+   "karsilik": "okunduğunda"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "ءَايَٰتُنَا",
+   "okunus": "âyâtünâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alâmet; âyet",
+   "karsilik": "ayetlerimiz"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "der"
+  },
+  {
+   "kelime": "أَسَٰطِيرُ",
+   "okunus": "esâtîru",
+   "kok": "سطر",
+   "kokAnlam": "yazma, satır; yazılı eski hikâyeler, masallar",
+   "karsilik": "öncekilerin masalları"
+  },
+  {
+   "kelime": "ٱلْأَوَّلِينَ",
+   "okunus": "el'evvelîne",
+   "kok": "أول",
+   "kokAnlam": "ilk, önce gelen",
+   "karsilik": "öncekilerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, hesap gününü yalanlayan kişinin tepkisini anlatır: kendisine Allah'ın ayetleri okunduğunda, bunları eskilerin uydurma hikâyeleri sayar. Bu, 12. ayette tarif edilen 'sınırı aşan, günaha batmış' kişinin somut bir davranışıdır.",
+  "'Esâtîr' kelimesi, o dönemde eski kavimlere ait efsaneleri ve masalları ifade ediyordu. Bu ifadeyle muhatap, vahyi ciddiye almadığını, onu tarihsel bir eğlence metni gibi gördüğünü söylemiş olur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:15",
+   "meal": "Ona ayetlerimiz okunduğunda, 'Öncekilerin masalları' der.",
+   "baglanti": "Kalem sûresinde birebir aynı cümle geçer; bu, âyetleri küçümseyen kişilerin kalıplaşmış bir sözüdür."
+  },
+  {
+   "ref": "83:17",
+   "meal": "Sonra, 'İşte yalanlamakta olduğunuz budur' denir.",
+   "baglanti": "Sûrenin ilerisinde, burada 'masal' diyerek küçümsenen gerçeğin, hesap gününde aynı kişiye hatırlatılacağı anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, vahyi ciddiye almayıp onu eski bir hikâye gibi görmektir. Bu, doğrudan dinî bir tavırdır; ama küçümseme alışkanlığı genel bir tutuma da işaret eder.",
+  "Günlük hayata taşınabilecek ders, bir sözü veya uyarıyı incelemeden 'eski, geçerliliği yok' diyerek reddetmenin kolay ama tehlikeli bir alışkanlık olduğudur. Ciddiye almadan önce anlamaya çalışmak, hem bilgi hem inanç konusunda gereklidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Peşin hükmü bırak",
+   "aciklama": "Bugün bir uyarıyı veya öğüdü, hemen reddetmeden önce dikkatle dinle."
+  },
+  {
+   "baslik": "Eskiyi küçümseme",
+   "aciklama": "'Eski, geçerliliğini yitirmiş' dediğin bir bilgiyi bugün yeniden ve dikkatle değerlendir."
+  },
+  {
+   "baslik": "Ciddiyetle oku",
+   "aciklama": "Bugün bir ayeti, sıradan bir metin okur gibi değil, düşünerek oku."
+  }
+ ],
+ "bugununAdimi": "Bugün bir uyarıyı veya öğüdü, peşin hükümle reddetmeden önce sonuna kadar dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=13"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/83/13"
+  }
+ ]
+}

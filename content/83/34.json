@@ -1,0 +1,96 @@
+{
+ "sure": 83,
+ "ayet": 34,
+ "durum": "taslak",
+ "meal": "İşte bugün, iman edenler kâfirlere gülerler.",
+ "mealNotu": "Ayet, 29. ayetteki durumu tam olarak tersine çevirir; 'fel yevme' (işte bugün) ifadesi hesap gününe işaret eder.",
+ "kokler": [
+  {
+   "kelime": "فَٱلْيَوْمَ",
+   "okunus": "fel yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün, belirli zaman dilimi",
+   "karsilik": "işte bugün"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) onlar ki",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -e karşı",
+   "karsilik": "-e karşı"
+  },
+  {
+   "kelime": "ٱلْكُفَّارِ",
+   "okunus": "elküffâri",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "kâfirlere"
+  },
+  {
+   "kelime": "يَضْحَكُونَ",
+   "okunus": "yadhakûne",
+   "kok": "ضحك",
+   "kokAnlam": "gülme, alay etme",
+   "karsilik": "gülerler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, sûrenin en çarpıcı dönüşlerinden birini anlatır: dünyada müminlere gülen günahkârlar, hesap gününde bu kez müminlerin gülüşüyle karşılaşır. 'İşte bugün' ifadesi, bu tersine dönüşün kesinliğini vurgular.",
+  "Bu gülüş, kibirli bir zafer sevinci değil, haksızlığın nihayet ortaya çıkmasının getirdiği bir rahatlamadır. Sonraki ayetler, müminlerin bu anı tahtlar üzerinde huzurla izlediğini anlatarak sahneyi tamamlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "83:29",
+   "meal": "Şüphesiz suç işleyenler, iman edenlere gülüyorlardı.",
+   "baglanti": "Bu ayet, sûrenin başındaki bu durumun tam bir tersine dönüşünü anlatır; dünyadaki gülen taraf, ahirette gülünen taraf olur."
+  },
+  {
+   "ref": "9:82",
+   "meal": "Artık kazandıklarının cezası olarak az gülsünler, çok ağlasınlar.",
+   "baglanti": "Tevbe sûresi, inkârcıların dünyadaki kısa süreli sevincinin ardından uzun bir kederle karşılaşacağını bildirir; bu tersine dönüş temasını destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu ahiretteki bir adalet sahnesidir; bu, dünyadaki haksızlıkların kalıcı olmadığını gösterir. Ayet, sabırla katlanılan bir haksızlığın sonunda adaletin yerini bulacağını bildirir.",
+  "Günlük hayata taşınabilecek ders, geçici bir üstünlüğe aldanmamak ve geçici bir mağduriyette umutsuzluğa kapılmamaktır. Sonuç, her zaman görünenden farklı olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sabrını koru",
+   "aciklama": "Bugün haksız bir muameleye uğrarsan, adaletin er ya da geç yerini bulacağını hatırla."
+  },
+  {
+   "baslik": "Kibirlenme",
+   "aciklama": "Bir konuda üstün olduğunu hissettiğinde, bunu kimseye karşı kibirle kullanma."
+  },
+  {
+   "baslik": "Umudunu tazele",
+   "aciklama": "Zor bir dönemde, bu durumun kalıcı olmadığını hatırlayarak devam et."
+  }
+ ],
+ "bugununAdimi": "Bugün haksızlığa uğradığın bir konuda, adaletin yerini bulacağına güvenerek sabret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=34"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/83/34"
+  }
+ ]
+}

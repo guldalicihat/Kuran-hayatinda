@@ -1,0 +1,82 @@
+{
+ "sure": 84,
+ "ayet": 20,
+ "durum": "taslak",
+ "meal": "Onlara ne oluyor da iman etmiyorlar?",
+ "mealNotu": "Bu soru cümlesi bir şaşkınlık ve kınama ifadesidir; önceki ayetlerde anlatılan açık gerçeklere rağmen iman etmeyenlere yöneltilir.",
+ "kokler": [
+  {
+   "kelime": "فَمَا",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne oluyor",
+   "karsilik": "ne oluyor"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mıyorlar"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman etmiyorlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayette bildirilen hâlden hâle geçiş gerçeğine rağmen iman etmeyenlere şaşkınlıkla seslenir: onlara ne oluyor da iman etmiyorlar? Bu soru, gök, yer, gece, ay gibi apaçık delillerin ardından gelen bir kınamadır.",
+  "Sonraki iki ayet, bu imansızlığın somut göstergelerini sıralar: Kur'an okunduğunda secde etmemek ve onu yalanlamak. Böylece soru, sadece retorik kalmaz, davranışlarla da açıklanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "84:21",
+   "meal": "Onlara Kur'an okunduğunda secde etmiyorlar.",
+   "baglanti": "Bu ayetteki soru, hemen sonraki ayette somut bir davranışla -secde etmemekle- örneklenir."
+  },
+  {
+   "ref": "75:31",
+   "meal": "O, ne sadaka verdi ne namaz kıldı. Fakat yalanladı ve yüz çevirdi.",
+   "baglanti": "Kıyâme sûresi, iman etmeyen bir kişinin davranışlarını benzer biçimde sıralar; iki ayet aynı reddedişi farklı örneklerle anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, apaçık delillere rağmen iman etmemektir; bu doğrudan bir inanç meselesidir. Yine de soru, genel bir ilkeyi de içerir: gerçeği görüp de kabul etmemek.",
+  "Günlük hayata taşınabilecek ders, açık bir gerçeği inatla reddetmenin, çoğunlukla bir bilgi eksikliğinden değil, bir direnç ve alışkanlıktan kaynaklandığıdır. Bu direnci fark etmek, değişime açık olmanın ilk adımıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Direncini sorgula",
+   "aciklama": "Bugün kabul etmekte zorlandığın bir gerçeği, neden reddettiğini düşün."
+  },
+  {
+   "baslik": "Açık ol",
+   "aciklama": "Bir konuda ikna edici bir delil gördüğünde, inatla direnmek yerine kabul et."
+  },
+  {
+   "baslik": "İmanını tazele",
+   "aciklama": "Bugün kısa bir zikir veya dua ile imanını tazele."
+  }
+ ],
+ "bugununAdimi": "Bugün kabul etmekte zorlandığın bir gerçeği, inadı bırakıp değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=84&verse=20"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/84/20"
+  }
+ ]
+}

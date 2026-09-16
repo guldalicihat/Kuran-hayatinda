@@ -1,0 +1,82 @@
+{
+ "sure": 85,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Hani onlar ateşin başında oturmuşlardı.",
+ "mealNotu": "'İz' zaman zarfı, önceki ayetteki ateşe bağlanan bir anı hatırlatır. 'Aleyhâ' zamiri ateşe döner; akıcılık için 'onun başında' denmiştir.",
+ "kokler": [
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman zarfı) hani, o zaman",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "عَلَيْهَا",
+   "okunus": "aleyhâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onun üzerinde",
+   "karsilik": "onun başında"
+  },
+  {
+   "kelime": "قُعُودٌ",
+   "okunus": "kuûdün",
+   "kok": "قعد",
+   "kokAnlam": "oturma",
+   "karsilik": "oturmuşlardı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, zalimlerin tavrını tek bir kareyle gösterir: ateşin başında oturmuşlardır. Bu oturuş, sıradan bir bekleyiş değil, sonraki ayette anlatılan zulmü izlemek içindir.",
+  "'Kuûd' kelimesi sakin, yerleşmiş bir oturuşu anlatır; bu da zulmün aceleyle değil, soğukkanlılıkla işlendiğini düşündürür. Klasik tefsir bu sahneyi, inananları ateşe atarken bunu seyreden bir topluluk olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "85:7",
+   "meal": "Ve onlar, müminlere yaptıklarına tanıktılar.",
+   "baglanti": "Ateşin başında oturanların ne yaptığı bu ayette açıklanır; iki ayet birlikte sahneyi tamamlar."
+  },
+  {
+   "ref": "29:2",
+   "meal": "İnsanlar, sadece 'İman ettik' demekle, hiç sınanmadan bırakılacaklarını mı sandılar?",
+   "baglanti": "Zulmü izleyenlerin karşısında, imanın bir sınav olduğunu hatırlatan genel bir ayettir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, zulmü uygulayanların bu işi soğukkanlılıkla, oturarak yaptığıdır. Bu, tarihî bir sahnenin parçasıdır.",
+  "Bugüne taşınabilecek ders, bir haksızlığı seyretmenin de bir tavır olduğudur. Sessizce izlemek, bazen doğrudan katılmaktan farksız bir sorumluluk doğurabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Seyirci kalma",
+   "aciklama": "Bugün tanık olduğun küçük bir haksızlıkta sessiz kalmak yerine bir söz söyle."
+  },
+  {
+   "baslik": "Rahatına düşkün olma",
+   "aciklama": "Bir sorunu görmezden gelip rahatını koruma isteğini bugün fark et ve sorgula."
+  },
+  {
+   "baslik": "Kenarda durma",
+   "aciklama": "Yardım isteyen birine 'bana ne' demek yerine bugün küçük bir adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün sessizce izlediğin bir haksızlığa karşı tek bir cümleyle tavrını göster.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/85/6"
+  }
+ ]
+}

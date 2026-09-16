@@ -1,0 +1,68 @@
+{
+ "sure": 85,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Vaat edilen güne andolsun.",
+ "mealNotu": "'Mev'ûd', 'va'd' (söz verme) kökünden pasif isimdir; ayette hangi gün olduğu açıkça söylenmez, bu yüzden meale ek yapılmamıştır. Bağlam ve sonraki ayet, bunun hesap gününe işaret ettiğini gösterir.",
+ "kokler": [
+  {
+   "kelime": "وَٱلْيَوْمِ",
+   "okunus": "vel yevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün, zaman dilimi",
+   "karsilik": "güne andolsun"
+  },
+  {
+   "kelime": "ٱلْمَوْعُودِ",
+   "okunus": "elmev'ûdi",
+   "kok": "وعد",
+   "kokAnlam": "söz verme, vaat etme",
+   "karsilik": "vaat edilen"
+  }
+ ],
+ "neAnlatiyor": [
+  "İlk ayetteki gök yemini burada zamana dair bir yeminle sürer. 'Vaat edilen gün' ifadesi, ayette adı konmasa da bağlamdan hesap gününe işaret eder; nitekim 3. ayet bu günü 'tanık ve tanıklık edilen' olarak tanımlar.",
+  "Yeminlerin ardı ardına gelmesi, anlatılacak olayın önemine dikkat çeker. Klasik tefsir bu günü kıyamet veya hesap günü olarak açıklar; söz verilmiş olması, o günün kaçınılmaz olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "85:3",
+   "meal": "Tanığa ve tanıklık edilene andolsun.",
+   "baglanti": "Aynı yemin dizisinin devamıdır; 'vaat edilen gün'ün niteliği bu ayetle açılır."
+  },
+  {
+   "ref": "40:59",
+   "meal": "Şüphesiz kıyamet [saati] gelecektir, onda hiç şüphe yoktur; fakat insanların çoğu inanmaz.",
+   "baglanti": "Vaat edilen günün kesinliğini başka bir surede doğrudan ifade eden bir ayettir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, gerçekleşeceği kesin olan bir güne yapılan yemindir. Doğrudan hesap gününe işaret eder; bu, günlük hayatın ölçülerinin ötesinde bir zaman dilimidir.",
+  "Bugüne taşınabilecek ders, hayatın bir gün hesabının sorulacağını unutmadan yaşamaktır. Bir söz verildiğinde onun tutulacağını bilmek davranışı nasıl etkilerse, vaat edilen bu gün de bugünkü tercihleri şekillendirebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir sözünü hatırla",
+   "aciklama": "Geçmişte verdiğin ama unuttuğun bir sözü bul ve bugün onu yerine getir."
+  },
+  {
+   "baslik": "Günün sonunu düşün",
+   "aciklama": "Bir kararı verirken 'bunun hesabı sorulsa ne derdim' diye kendine sor."
+  },
+  {
+   "baslik": "Kesinliği hatırla",
+   "aciklama": "Bugün ertelediğin bir işi, sonunun kesin geleceğini düşünerek yeniden sıraya koy."
+  }
+ ],
+ "bugununAdimi": "Bugün verdiğin ama tutmadığın bir sözü belirleyip onu yerine getirmek için ilk adımı at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/85/2"
+  }
+ ]
+}

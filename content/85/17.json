@@ -1,0 +1,82 @@
+{
+ "sure": 85,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "Orduların haberi sana geldi mi?",
+ "mealNotu": "'Hadîs' kökü hem haberi hem sonradan meydana geleni anlatır; burada 'haber' olarak karşılanmıştır. 'Cünûd' çoğuldur, birden fazla orduya işaret eder.",
+ "kokler": [
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "(soru) mi",
+   "karsilik": "mi"
+  },
+  {
+   "kelime": "أَتَىٰكَ",
+   "okunus": "etâke",
+   "kok": "أتي",
+   "kokAnlam": "gelme, ulaşma",
+   "karsilik": "sana geldi"
+  },
+  {
+   "kelime": "حَدِيثُ",
+   "okunus": "hadîsü",
+   "kok": "حدث",
+   "kokAnlam": "sonradan olma; haber, söz",
+   "karsilik": "haberi"
+  },
+  {
+   "kelime": "ٱلْجُنُودِ",
+   "okunus": "elcünûdi",
+   "kok": "جند",
+   "kokAnlam": "topluluk, ordu",
+   "karsilik": "orduların"
+  }
+ ],
+ "neAnlatiyor": [
+  "15 ve 16. ayetlerde Allah'ın sıfatları anlatıldıktan sonra bu ayet, yeni bir örnek anlatımına geçiş yapar: geçmişteki bazı orduların haberi. Sonraki ayet bu orduları Firavun ve Semûd olarak adlandırır.",
+  "'Hel etâke' (sana geldi mi?) kalıbı Kur'an'da dikkat çekmek için sık kullanılan bir sorudur; cevap beklenmeden konunun önemine işaret eder. Bu soru, dinleyiciyi geçmişteki inkârcı toplumların akıbetini düşünmeye yönlendirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "85:18",
+   "meal": "Firavun ve Semûd'un.",
+   "baglanti": "Bu ayette sorulan 'orduların haberi' bir sonraki ayette adlandırılır."
+  },
+  {
+   "ref": "89:10",
+   "meal": "Kazıklar sahibi Firavun'un.",
+   "baglanti": "Firavun'un gücünü ve akıbetini anlatan bir başka ayettir; Fecr suresinde benzer bir sıralamada geçer."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş toplumların ibret verici hikâyelerine dikkat çekmektir. Bu, tarihten ders çıkarmaya bir davettir.",
+  "Bugüne taşınabilecek ders, geçmişteki güçlü ama zalim toplumların akıbetinden ibret almaktır. Güç ve kalabalık, tek başına güvence değildir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ibret oku",
+   "aciklama": "Bugün geçmişten bir toplumun ya da olayın hikâyesini okuyup ondan bir ders çıkar."
+  },
+  {
+   "baslik": "Gücüne güvenme",
+   "aciklama": "Elindeki imkânların seni yanıltmasına izin verme; bugün alçakgönüllü bir tavır sergile."
+  },
+  {
+   "baslik": "Tarihten öğren",
+   "aciklama": "Bir kararını verirken, benzer bir durumda başkalarının ne yaşadığını bugün araştır."
+  }
+ ],
+ "bugununAdimi": "Bugün geçmişten ibret alabileceğin bir hikâyeyi oku ve ondan çıkardığın dersi bir cümleyle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/85/17"
+  }
+ ]
+}

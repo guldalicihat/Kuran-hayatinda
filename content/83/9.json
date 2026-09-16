@@ -1,0 +1,68 @@
+{
+ "sure": 83,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Yazılmış (damgalı) bir kitaptır.",
+ "mealNotu": "'Merkûm' kelimesi 'rakam' kökündendir; yazma, işaretleme ve numaralandırmayı anlatır. Buradaki 'kitap' somut bir kayıt defterini ifade eder.",
+ "kokler": [
+  {
+   "kelime": "كِتَٰبٌ",
+   "okunus": "kitâbün",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı kayıt, kitap",
+   "karsilik": "kitaptır"
+  },
+  {
+   "kelime": "مَّرْقُومٌ",
+   "okunus": "merkûmün",
+   "kok": "رقم",
+   "kokAnlam": "yazma, işaretleme, damgalama",
+   "karsilik": "yazılmış (damgalı)"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki soruya kısa ve net bir cevap verir: siccîn, yazılmış ve damgalanmış bir kitaptır. 'Merkûm' kelimesi, bu kaydın rastgele değil, düzenli ve işaretlenmiş olduğunu vurgular.",
+  "Aynı ifade (kitâbün merkûm), sûrenin ilerisinde iyilerin kaydı için de tekrarlanır. Bu tekrar, her iki grubun da eksiksiz ve kesin biçimde kaydedildiğini, farkın yalnızca kaydın içeriğinde olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "83:20",
+   "meal": "Yazılmış (damgalı) bir kitaptır.",
+   "baglanti": "Aynı ifade, birkaç ayet sonra iyilerin (ebrâr) kaydı için tekrarlanır; kayıt yöntemi aynı, sonuç tamamen zıttır."
+  },
+  {
+   "ref": "50:18",
+   "meal": "İnsan hiçbir söz söylemez ki yanında hazır bir gözetleyici olmasın.",
+   "baglanti": "Kaf sûresi, insanın her sözünün anında kaydedildiğini bildirir; 'kitâbün merkûm' ifadesindeki düzenli kayıt fikrini destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, kötü amellerin düzenli ve eksiksiz kaydedildiğidir. Bu, 'bir kereliğine önemli değil' düşüncesine karşı bir uyarıdır; çünkü her şey işaretlenmektedir.",
+  "Günlük hayata taşınabilecek ders, tutarlılıktır. İnsan tek tek davranışlarını önemsiz sanabilir, ama bu davranışlar birikerek bir sicil oluşturur; bu bilinç, küçük yanlışları da ciddiye almayı sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçük alışkanlığını gözden geçir",
+   "aciklama": "Sık tekrarladığın küçük bir yanlışı bugün fark et ve yazılı olarak not al."
+  },
+  {
+   "baslik": "Tutarlı ol",
+   "aciklama": "Bugün verdiğin bir sözü, kimse takip etmese de eksiksiz yerine getir."
+  },
+  {
+   "baslik": "Sicilini düşün",
+   "aciklama": "Bir kararsızlık anında, 'bu nasıl kayda geçer?' diye kendine sor."
+  }
+ ],
+ "bugununAdimi": "Bugün tekrarladığın küçük bir yanlışı yaz ve yarın onu yapmamak için somut bir önlem al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/83/9"
+  }
+ ]
+}

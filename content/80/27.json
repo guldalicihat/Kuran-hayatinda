@@ -1,0 +1,75 @@
+{
+ "sure": 80,
+ "ayet": 27,
+ "durum": "taslak",
+ "meal": "Sonra onda dane bitirdik.",
+ "mealNotu": "'Nebete' kökü bitirmek, filizlendirmek; 'habb' tane/dane demektir (buğday, arpa gibi taneli bitkiler).",
+ "kokler": [
+  {
+   "kelime": "فَأَنۢبَتْنَا",
+   "okunus": "feembetnâ",
+   "kok": "نبت",
+   "kokAnlam": "bitirme, filizlendirme",
+   "karsilik": "sonra bitirdik"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "حَبًّا",
+   "okunus": "habben",
+   "kok": "حبب",
+   "kokAnlam": "tane, dane",
+   "karsilik": "dane"
+  }
+ ],
+ "neAnlatiyor": [
+  "Su ve yarılan topraktan sonra sıradaki adım tanenin bitmesidir. Ayet, ekmek gibi temel gıdaların kaynağına işaret eder.",
+  "'Enbete' fiili Allah'a nispet edilir; çiftçi eker ama bitiren Allah'tır. Sonraki ayetler bu bitirme fiiline bağlı olarak üzüm, zeytin, hurma sayar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "56:64",
+   "meal": "Onu siz mi bitiriyorsunuz, yoksa bitiren biz miyiz?",
+   "baglanti": "Vâkıa suresi ekini bitirenin kim olduğunu sorar; Abese 'sonra dane bitirdik' diyerek doğrudan cevap verir."
+  },
+  {
+   "ref": "6:99",
+   "meal": "Gökten su indirip onunla her bitkinin filizini çıkaran O'dur; ondan da bir yeşillik çıkarırız, ondan da birbirine binmiş taneler çıkarırız.",
+   "baglanti": "En'âm suresi aynı bitirme fiilini daha geniş bir bitki listesiyle anlatır; Abese aynı süreci taneyle başlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, ekmek gibi temel gıdaların kaynağı olan tanenin toprakta bitmesidir.",
+  "Bir dilim ekmeğin arkasında toprak, su ve emeğin yanı sıra bitirici olarak Allah'ın fiili vardır. Bunu fark eden insan sofrasına daha bilinçli bakar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ekmeğe bak",
+   "aciklama": "Bugün bir dilim ekmeği elinde tutup arkasındaki süreci (tohum, toprak, su) bir cümlede düşün."
+  },
+  {
+   "baslik": "Tahılları öğren",
+   "aciklama": "Bugün mutfağındaki bir tahılın (buğday, pirinç, mercimek) nasıl yetiştiğini kısaca araştır."
+  },
+  {
+   "baslik": "İsraf etme",
+   "aciklama": "Bugün masaya koyduğun ekmeği bitirmeden çöpe atma."
+  }
+ ],
+ "bugununAdimi": "Bugün bir öğünde ekmeği yerken bir anlığına durup bitirenin Allah olduğunu hatırla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=27"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/80/27"
+  }
+ ]
+}

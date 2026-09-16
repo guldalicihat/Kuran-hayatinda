@@ -1,0 +1,75 @@
+{
+ "sure": 85,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Tutuşturucusu bol ateşin [sahipleri kahrolsun].",
+ "mealNotu": "Bu ayet, 4. ayetteki 'kutile ashâbü'l-uhdûd' cümlesinin devamıdır; fiil tekrar edilmediği için meale köşeli parantezle eklenmiştir. 'Vekûd' odun, yağ gibi ateşi besleyen malzemeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "ٱلنَّارِ",
+   "okunus": "ennâri",
+   "kok": "نور",
+   "kokAnlam": "ışık, ateş; alevlenme",
+   "karsilik": "ateşin"
+  },
+  {
+   "kelime": "ذَاتِ",
+   "okunus": "zâti",
+   "kok": "—",
+   "kokAnlam": "(izafet) sahip",
+   "karsilik": "sahip"
+  },
+  {
+   "kelime": "ٱلْوَقُودِ",
+   "okunus": "elvekûdi",
+   "kok": "وقد",
+   "kokAnlam": "tutuşma, yanma; yakıt",
+   "karsilik": "tutuşturucuya"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 4. ayetteki hendeği tanımlar: içinde bol yakıtla beslenen bir ateş vardır. Cümle yapısı Arapçada bir öncekine bağlıdır; fiil tekrarlanmaz, bu yüzden Türkçede köşeli parantezle tamamlanmıştır.",
+  "'Zâtü'l-vekûd' ifadesi, ateşin rastgele değil bilerek büyük tutulduğunu vurgular. Bu ayrıntı, olayın kasıtlı ve şiddetli bir zulüm olduğunu gösterir; sonraki ayetler zalimlerin bu ateşin başında oturup izlediğini anlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "85:6",
+   "meal": "Hani onlar ateşin başında oturmuşlardı.",
+   "baglanti": "Bu ayetteki ateşin başında kimlerin oturduğunu bir sonraki ayet anlatır."
+  },
+  {
+   "ref": "104:6",
+   "meal": "O, tutuşturulmuş Allah'ın ateşidir.",
+   "baglanti": "Aynı 'tutuşma' kökü, Hümeze suresinde farklı bir bağlamda, âhiretteki ateş için kullanılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, önceki ayette geçen hendeğin içindeki ateşin tanımıdır. Bu, tarihî bir zulüm sahnesinin bir parçasıdır.",
+  "Bugüne taşınabilecek ders, kötülüğün bazen sıradan değil, bilerek ve planlanarak büyütüldüğünü görmektir. Bir haksızlığı fark ettiğinde, onun ne kadar hazırlıklı yapıldığını da değerlendirmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Niyeti ayırt et",
+   "aciklama": "Bugün karşılaştığın bir haksızlığın kazara mı yoksa bilerek mi yapıldığını ayırt etmeye çalış."
+  },
+  {
+   "baslik": "Küçük kıvılcımı büyütme",
+   "aciklama": "Bir öfkeni ateşe yakıt eklermiş gibi büyütmek yerine, bugün bilinçli olarak söndür."
+  },
+  {
+   "baslik": "Zulme göz yumma",
+   "aciklama": "Bugün fark ettiğin planlı bir haksızlığı, yetkili birine bildir."
+  }
+ ],
+ "bugununAdimi": "Bugün öfkeni büyütecek bir düşünceyi fark edip bilinçli olarak durdur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/85/5"
+  }
+ ]
+}

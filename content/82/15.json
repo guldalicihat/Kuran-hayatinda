@@ -1,0 +1,75 @@
+{
+ "sure": 82,
+ "ayet": 15,
+ "durum": "taslak",
+ "meal": "Din gününde ona girerler.",
+ "mealNotu": "'Salâ' kökü ateşe girip onunla temas etmeyi, yanmayı anlatır. 'Yevmüddîn' hesap ve ceza günü demektir; sûrede tekrar eden bir kavramdır.",
+ "kokler": [
+  {
+   "kelime": "يَصْلَوْنَهَا",
+   "okunus": "yaslevnehâ",
+   "kok": "صلي",
+   "kokAnlam": "ateşe girme, yanma",
+   "karsilik": "ona girerler"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "ٱلدِّينِ",
+   "okunus": "eddîni",
+   "kok": "دين",
+   "kokAnlam": "ceza, hesap, din",
+   "karsilik": "din"
+  }
+ ],
+ "neAnlatiyor": [
+  "14. ayetteki ateş sahnesine zaman eklenir: bu, din gününde gerçekleşir. 'Yevmüddîn' ifadesi, sûrenin ilk ayetlerindeki kozmik altüst oluşla bağlantılı olarak hesabın kesin bir günde olacağını vurgular.",
+  "'Yaslevnehâ' fiili sürekliliği çağrıştırır; bir kez değil, o günün gerçeği olarak ateşe maruz kalmayı anlatır. Sonraki ayet bu durumun bir kaçış imkânı olmadığını ekler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "1:4",
+   "meal": "Din gününün sahibidir.",
+   "baglanti": "Fâtiha suresi de 'yevmüddîn' kavramını Allah'ın hesap günündeki mutlak otoritesiyle birlikte anar."
+  },
+  {
+   "ref": "37:38",
+   "meal": "Şüphesiz siz elbette acı azabı tadacaksınız.",
+   "baglanti": "Sâffât suresi de kötülerin akıbetini benzer kesinlikle anlatır; İnfitâr'daki 'girerler' ifadesiyle aynı sonucu paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, kötülerin akıbetinin belirli bir günde gerçekleşeceğidir.",
+  "Bugüne taşınabilecek ders, sonucu ertelenebilir sanmamaktır. Hesap günü kesin bir zamana bağlıdır; bu bilinç, davranışları bugünden düzeltmeye teşvik eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ertelemeyi bırak",
+   "aciklama": "Bugün düzeltmeyi ertelediğin bir davranışı şimdi ele al."
+  },
+  {
+   "baslik": "Günü hatırla",
+   "aciklama": "Bugün bir kez 'yevmüddîn'i, hesap gününü, düşün."
+  },
+  {
+   "baslik": "Hazırlığını netleştir",
+   "aciklama": "Bugün ibadetlerinden aksattığın birini yeniden düzene koy."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir düzeltmeyi, hesap gününü hatırlayarak şimdi yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=82&verse=15"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/82/15"
+  }
+ ]
+}

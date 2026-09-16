@@ -1,0 +1,96 @@
+{
+ "sure": 83,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Hayır! Şüphesiz kötülükte sınırı aşanların kitabı, elbette siccîndedir.",
+ "mealNotu": "'Füccâr' kökü (fecr), sınırı yarıp açığa çıkmayı, günahta ileri gitmeyi anlatır; 'kötülükte sınırı aşanlar' diye karşılandı. 'Siccîn' kelimesi çevrilmeden bırakıldı; kökü hapsetmeyi, dar ve alçak bir yeri işaret eder.",
+ "kokler": [
+  {
+   "kelime": "كَلَّآ",
+   "okunus": "kellâ",
+   "kok": "—",
+   "kokAnlam": "(caydırma) hayır, asla",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "كِتَٰبَ",
+   "okunus": "kitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı kayıt, kitap",
+   "karsilik": "kitabı"
+  },
+  {
+   "kelime": "ٱلْفُجَّارِ",
+   "okunus": "elfüccâri",
+   "kok": "فجر",
+   "kokAnlam": "yarma, açığa çıkma; günahta sınırı aşma",
+   "karsilik": "kötülükte sınırı aşanların"
+  },
+  {
+   "kelime": "لَفِى",
+   "okunus": "lefî",
+   "kok": "—",
+   "kokAnlam": "(edat, te'kidli) elbette içinde",
+   "karsilik": "elbette içindedir"
+  },
+  {
+   "kelime": "سِجِّينٍ",
+   "okunus": "siccînin",
+   "kok": "سجن",
+   "kokAnlam": "hapsetme, sıkıştırma; dar ve alçak bir kayıt yeri",
+   "karsilik": "siccînde"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayette anlatılan hesap gününe açıklama getirir: kötülükte sınırı aşanların amel kaydı 'siccîn' denen bir yerdedir. 'Kellâ' (hayır) kelimesi, sanki ölçüde hile yapanların hafife aldığı bir düşünceyi reddeder gibi başlar; sûrenin girişindeki 'ölçüde hile yapanlar' teması burada genişleyerek bütün 'füccâr'ı kapsar.",
+  "'Fücur' kökü bir sınırı yararak açığa çıkmayı, günahta ileri gitmeyi anlatır. 'Siccîn' kelimesi de 'habs' (hapsetme) köküyle ilişkilidir; klasik tefsir bunu alçak, dar ve kapalı bir kayıt yeri olarak açıklar. Sonraki ayetler bu kaydın niteliğini soru-cevap üslubuyla derinleştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "83:18",
+   "meal": "Hayır! Şüphesiz iyilerin kitabı, muhakkak illiyyîndedir.",
+   "baglanti": "Aynı sûrede, füccârın kaydına karşılık iyilerin (ebrâr) kaydı zikredilir; siccîn ile illiyyîn birbirinin zıddı iki kayıt yeridir."
+  },
+  {
+   "ref": "82:11",
+   "meal": "Değerli yazıcılar.",
+   "baglanti": "İnfitâr sûresi, her insanın amellerini kaydeden onurlu yazıcılardan bahseder; siccîn kaydı bu kayıt sisteminin bir parçasıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kötülükte sınırı aşanların amellerinin kayıt altına alınmasıdır. Bu, insanın davranışlarının kaybolup gitmediğini, bir yerde tutulduğunu hatırlatır.",
+  "Günlük hayata taşınabilecek ders, kimsenin görmediğini düşündüğün bir yanlışın da kayıtsız kalmadığıdır. Bu bilinç, denetimsiz anlarda bile dürüst davranmaya bir zemin oluşturur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Görülmeyen anı hatırla",
+   "aciklama": "Bugün kimsenin seni izlemediği bir durumda, izleniyormuş gibi dürüst davran."
+  },
+  {
+   "baslik": "Küçük bir hileyi bırak",
+   "aciklama": "Alışverişte, iş yerinde veya sözünde küçük bir eksiltmeyi bugün yapmamaya karar ver."
+  },
+  {
+   "baslik": "Kaydını düşün",
+   "aciklama": "Akşam, bugün yaptığın bir işi 'bu nasıl kaydedildi?' diye kısaca değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün, kimsenin fark etmeyeceği küçük bir işte bile tam dürüstlükle davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/83/7"
+  }
+ ]
+}

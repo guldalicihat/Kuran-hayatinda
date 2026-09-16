@@ -1,0 +1,96 @@
+{
+ "sure": 83,
+ "ayet": 36,
+ "durum": "taslak",
+ "meal": "Kâfirler, yapmakta olduklarının cezasını buldular mı?",
+ "mealNotu": "Bu retorik bir sorudur; anlam 'elbette buldular' yönündedir. Sûre, bu soruyla anlatılan adaletin gerçekleştiğini vurgulayarak kapanır.",
+ "kokler": [
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "(soru) mı",
+   "karsilik": "mı"
+  },
+  {
+   "kelime": "ثُوِّبَ",
+   "okunus": "süvvibe",
+   "kok": "ثوب",
+   "kokAnlam": "karşılığını verme, mükâfatlandırma/cezalandırma",
+   "karsilik": "cezasını buldular"
+  },
+  {
+   "kelime": "ٱلْكُفَّارُ",
+   "okunus": "elküffâru",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "kâfirler"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "yaptıklarının"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldukları"
+  },
+  {
+   "kelime": "يَفْعَلُونَ",
+   "okunus": "yef'alûne",
+   "kok": "فعل",
+   "kokAnlam": "yapma, eyleme",
+   "karsilik": "yapmakta"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, sûreyi bir soru cümlesiyle kapatır: kâfirler, yapmakta olduklarının karşılığını buldular mı? Bu soru, cevabı zaten açık olan retorik bir sorudur; müminlerin tahtlar üzerinden seyrettiği sahne, cevabı kendiliğinden verir.",
+  "'Süvvibe' fiili, hem ödül hem de ceza karşılığında kullanılabilen bir kelimedir; burada bağlam onu ceza anlamına taşır. Sûre böylece, ölçüde hile yapmakla başlayan konuyu, tam bir adalet ve karşılık teması ile sonuçlandırır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "83:34",
+   "meal": "İşte bugün, iman edenler kâfirlere gülerler.",
+   "baglanti": "Bu son ayet, bir önceki ayette anlatılan tersine dönüşün nedenini ve haklılığını soru üslubuyla pekiştirir."
+  },
+  {
+   "ref": "52:16",
+   "meal": "Girin oraya, ister sabredin ister sabretmeyin, sizin için birdir; ancak yapmakta olduklarınızın karşılığını görüyorsunuz.",
+   "baglanti": "Tûr sûresi de aynı 'yapmakta olduklarının karşılığı' fikrini açıkça dile getirir; iki ayet, cezanın tam bir karşılık olduğunu birlikte vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, kötü davranışların sonunda kendi karşılığını bulmasıdır. Bu, sûre boyunca anlatılan ölçüde hile, yalanlama ve alay etme gibi davranışların hepsi için geçerli bir sonuçtur.",
+  "Günlük hayata taşınabilecek ders, her davranışın bir karşılığı olduğuna güvenmektir. Bu güven, hem haksızlık yapmaktan çekindirir hem de haksızlığa uğrayanlara sabır ve umut verir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sûreyi baştan düşün",
+   "aciklama": "Bugün Mutaffifîn sûresini baştan sona kısaca gözden geçir; ölçü, kayıt ve karşılık temalarını birlikte hatırla."
+  },
+  {
+   "baslik": "Dengeyi gözet",
+   "aciklama": "Bugün bir ölçme, tartma veya paylaşma işinde tam adaletli davran."
+  },
+  {
+   "baslik": "Karşılığa güven",
+   "aciklama": "Haksızlık yapmaktan çekinirken, 'bunun bir karşılığı var' bilincini taşı."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ölçme, tartma veya paylaşma işinde, hiçbir eksiltme yapmadan tam adaletli davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=36"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/83/36"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "sure": 85,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Tanığa ve tanıklık edilene andolsun.",
+ "mealNotu": "Her iki kelime de aynı 'şühûd' kökünden gelir; biri etken (tanık), diğeri edilgen (tanıklık edilen) biçimdedir. Ayette kimin tanık, kimin tanıklık edilen olduğu açıkça belirtilmez; klasik tefsirde farklı yorumlar vardır, bu genel ifadeyle geçilmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَشَاهِدٍ",
+   "okunus": "ve şâhidin",
+   "kok": "شهد",
+   "kokAnlam": "görme, tanıklık etme",
+   "karsilik": "tanığa"
+  },
+  {
+   "kelime": "وَمَشْهُودٍ",
+   "okunus": "ve meşhûdin",
+   "kok": "شهد",
+   "kokAnlam": "görme, tanıklık etme",
+   "karsilik": "tanıklık edilene"
+  }
+ ],
+ "neAnlatiyor": [
+  "Üçüncü yemin bu ayette gelir: bir 'tanık' ve bir 'tanıklık edilen'. Aynı kökten iki kelimenin yan yana gelmesi, görülen ile görenin bir arada anıldığı bir sahneyi çağrıştırır.",
+  "Klasik tefsir bu ikiliyi kıyamet günü, melekler ve insanlar gibi farklı biçimlerde açıklar; ayet metni tek bir kesin isim vermez. Ortak nokta, hesap gününün tanıklıkla iç içe olmasıdır; nitekim 7. ayette zalimler kendi yaptıklarına 'tanık' olarak anılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:103",
+   "meal": "Şüphesiz bunda, ahiret azabından korkanlar için bir ibret vardır. O, insanların toplanacağı bir gündür; o, tanıklık edilen bir gündür.",
+   "baglanti": "Hesap gününün 'tanıklık edilen gün' olarak anıldığı bir başka ayettir; aynı temayı açar."
+  },
+  {
+   "ref": "17:78",
+   "meal": "...Şüphesiz sabah namazının okunuşu tanıklık edilendir.",
+   "baglanti": "Aynı 'meşhûd' kelimesi burada sabah namazı için kullanılır; kökün 'tanıklık edilme' anlamını farklı bir bağlamda gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu bir yemin cümlesidir; tanıklıkla ilgili bir ikiliye dikkat çeker. Doğrudan konusu hesap gününün tanıklıkla iç içe geçmiş yapısıdır.",
+  "Bugüne taşınabilecek ders, yaptıklarının bir gün ortaya çıkacağı bilinciyle yaşamaktır. İnsan çoğu zaman kimsenin görmediğini düşünür; ayet, görülmenin ve tanıklığın hiçbir zaman tamamen yok olmadığını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Görülmeyeni hatırla",
+   "aciklama": "Bugün kimsenin görmediğini düşündüğün bir davranışında, aslında görülüyor olabileceğini hatırla."
+  },
+  {
+   "baslik": "Tanıklığını düzelt",
+   "aciklama": "Bugün şahit olduğun bir haksızlığı görmezden gelmek yerine, elinden geleni yap."
+  },
+  {
+   "baslik": "İçini hesaba kat",
+   "aciklama": "Akşam, bugün kimsenin bilmediği ama senin bildiğin bir davranışını gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün kimsenin görmediğini düşündüğün bir işi, görülüyormuş gibi yaparak tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/85/3"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "sure": 83,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "Sonra, 'İşte yalanlamakta olduğunuz budur' denir.",
+ "mealNotu": "Ayet, cehenneme girenlere söylenecek sözü doğrudan aktarır. 'Küntüm tükezzibûn' (yalanlamaktaydınız) ifadesi, dünyadaki inkârlarının kendilerine hatırlatılacağını gösterir.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "يُقَالُ",
+   "okunus": "yükâlü",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "denir"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu, işte bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ki o",
+   "karsilik": "budur"
+  },
+  {
+   "kelime": "كُنتُم",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduğunuz"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "تُكَذِّبُونَ",
+   "okunus": "tükezzibûne",
+   "kok": "كذب",
+   "kokAnlam": "yalan söyleme; gerçeği yalanlama",
+   "karsilik": "yalanlamakta"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, cehenneme girenlere söylenecek acı bir hatırlatmayı anlatır: dünyada masal sayıp yalanladıkları şey, işte önlerindeki bu gerçektir. Bu söz, 13. ayette 'öncekilerin masalları' diyerek küçümsenen vahiyle doğrudan bağlantılıdır.",
+  "İfadenin özelliği, karşı çıkacak bir cevabın olmamasıdır; yalnızca gerçeğin kendisiyle yüzleştirilmedirler. Klasik tefsir, bu sözün bir azarlama ve gerçeği ispat etme amacı taşıdığını belirtir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "52:14",
+   "meal": "İşte bu, yalanlamakta olduğunuz ateştir.",
+   "baglanti": "Tûr sûresinde neredeyse aynı ifade, ateşin kendisi için söylenir; iki ayet birlikte, yalanlanan gerçeğin sonunda bizzat yaşanacağını gösterir."
+  },
+  {
+   "ref": "83:11",
+   "meal": "Onlar, din (hesap) gününü yalanlayanlardır.",
+   "baglanti": "Burada hatırlatılan yalanlama, sûrenin başında tanımlanan 'din gününü yalanlama' ile aynı gerçeğe işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu ahiretteki bir yüzleşme anıdır ve bu, dünyevi bir olayla doğrudan kıyaslanamaz. Yine de sözün özü -inkâr edilenle bizzat karşılaşmak- genel bir gerçeği hatırlatır.",
+  "Günlük hayata taşınabilecek ders, inkâr etmenin bir gerçeği ortadan kaldırmadığıdır. Bir uyarıyı, bir sonucu veya bir sorumluluğu görmezden gelmek, onunla er ya da geç yüzleşmeyi geciktirmekten öteye gitmez."
+ ],
+ "bugun": [
+  {
+   "baslik": "Görmezden geldiğin gerçekle yüzleş",
+   "aciklama": "Bugün uzun süredir kabul etmediğin bir gerçeği kabul et ve ona göre davran."
+  },
+  {
+   "baslik": "Erteleme yerine kabul et",
+   "aciklama": "Bir uyarıyı inkâr etmek yerine bugün onu ciddiye al."
+  },
+  {
+   "baslik": "Sonucu düşün",
+   "aciklama": "Bir kararının sonucunu, onunla yüzleşeceğin anı hayal ederek değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün uzun süredir görmezden geldiğin bir gerçeği kabul et ve onunla ilgili bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/83/17"
+  }
+ ]
+}

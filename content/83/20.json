@@ -1,0 +1,68 @@
+{
+ "sure": 83,
+ "ayet": 20,
+ "durum": "taslak",
+ "meal": "Yazılmış (damgalı) bir kitaptır.",
+ "mealNotu": "Aynı ifade, siccîn için 9. ayette kullanılan 'kitâbün merkûm' kalıbının, illiyyîn için tekrarıdır. Kayıt yöntemi aynı, içeriği farklıdır.",
+ "kokler": [
+  {
+   "kelime": "كِتَٰبٌ",
+   "okunus": "kitâbün",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı kayıt, kitap",
+   "karsilik": "kitaptır"
+  },
+  {
+   "kelime": "مَّرْقُومٌ",
+   "okunus": "merkûmün",
+   "kok": "رقم",
+   "kokAnlam": "yazma, işaretleme, damgalama",
+   "karsilik": "yazılmış (damgalı)"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki soruya kısa bir cevap verir: illiyyûn da, siccîn gibi, yazılmış ve damgalanmış bir kitaptır. Bu tekrar, iki grubun kaydının da aynı düzen ve ciddiyetle tutulduğunu gösterir.",
+  "Fark, kaydın içeriğinde ve yerindedir: biri alçak bir hapis yerinde, diğeri yüce bir konumdadır. Bir sonraki ayet, bu kaydın kim tarafından tanıklık edildiğini belirterek konuyu tamamlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "83:9",
+   "meal": "Yazılmış (damgalı) bir kitaptır.",
+   "baglanti": "Aynı ifade, sûrenin başında siccîn için kullanılmıştı; burada illiyyîn için tekrarlanarak iki kaydın da düzenli tutulduğu vurgulanır."
+  },
+  {
+   "ref": "17:14",
+   "meal": "Kitabını oku! Bugün nefsin sana karşı hesap sorucu olarak yeter.",
+   "baglanti": "İsrâ sûresi, herkesin kendi kaydıyla yüzleşeceğini anlatır; 'kitâbün merkûm' ifadesindeki kayıt fikri burada kişisel hesaba bağlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, iyi amellerin de düzenli ve eksiksiz kaydedildiğidir. Bu, yalnızca kötülüklerin değil, iyiliklerin de kaybolmadığını hatırlatır.",
+  "Günlük hayata taşınabilecek ders, yapılan her iyiliğin bir karşılığı olduğuna güvenmektir. Bu güven, karşılığı hemen görülmeyen iyilikleri sürdürmeyi kolaylaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "İyiliğini sürdür",
+   "aciklama": "Bugün yaptığın bir iyiliği, karşılık beklemeden tekrarla."
+  },
+  {
+   "baslik": "Kaydına güven",
+   "aciklama": "Karşılığı görünmeyen bir çabanı bugün bırakmak yerine sürdür."
+  },
+  {
+   "baslik": "Not tut",
+   "aciklama": "Bugün yaptığın üç iyiliği kısaca yaz; bu seni tutarlılığa alıştırır."
+  }
+ ],
+ "bugununAdimi": "Bugün karşılığını hemen görmesen de bir iyiliğe devam et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=20"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/83/20"
+  }
+ ]
+}

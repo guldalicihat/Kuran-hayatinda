@@ -1,0 +1,82 @@
+{
+ "sure": 83,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "Onlar, din (hesap) gününü yalanlayanlardır.",
+ "mealNotu": "'Dîn' kelimesi burada ceza ve hesap anlamındadır; 'hesap' köşeli parantezle eklendi. 'Ellezîne' (onlar ki) ifadesi bir önceki ayetteki 'yalanlayanlar'ı tanımlar.",
+ "kokler": [
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) onlar ki",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "يُكَذِّبُونَ",
+   "okunus": "yükezzibûne",
+   "kok": "كذب",
+   "kokAnlam": "yalan söyleme; gerçeği yalanlama",
+   "karsilik": "yalanlayanlardır"
+  },
+  {
+   "kelime": "بِيَوْمِ",
+   "okunus": "biyevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün, belirli zaman dilimi",
+   "karsilik": "gününü"
+  },
+  {
+   "kelime": "ٱلدِّينِ",
+   "okunus": "eddîni",
+   "kok": "دين",
+   "kokAnlam": "borç, karşılık; ceza ve hesap günü",
+   "karsilik": "din [hesap]"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki 'yalanlayanlar'ı tanımlar: onlar, din (hesap) gününü yalanlayanlardır. 'Dîn' kökü, bir borcun karşılığının ödenmesi fikrini taşır; hesap günü, herkesin yaptığının karşılığını bulacağı gündür.",
+  "Bu tanım, sûrenin başındaki ölçüde hile yapanlarla bağlantılıdır: onlar ölçtüklerinde ve tarttıklarında haksızlık ederler, çünkü bir karşılık günü olduğuna gerçekten inanmazlar. Yalanlama burada sözle değil, davranışla ortaya çıkar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "1:4",
+   "meal": "Din (hesap) gününün sahibidir.",
+   "baglanti": "Fâtiha'da Allah'ın 'din gününün sahibi' olarak anılması, burada yalanlanan gerçeğin ne olduğunu netleştirir."
+  },
+  {
+   "ref": "83:10",
+   "meal": "O gün, yalanlayanların vay hâline!",
+   "baglanti": "Önceki ayetteki 'veyl' ünlemi, burada tanımlanan din gününü yalanlayanlara yöneliktir; iki ayet birlikte okunmalıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, hesap gününe inanmamak veya onu davranışlara yansıtmamaktır. Bu, sûrenin başındaki ölçü ve tartı hilesiyle doğrudan bağlantılıdır: karşılık günü olduğuna gerçekten inanan, ölçüde hile yapmaktan çekinir.",
+  "Günlük hayata taşınabilecek ders, 'bir gün hesap vereceğim' bilincinin davranışları şekillendirmesi gerektiğidir. Bu bilinç zayıfladığında, küçük haksızlıklar kolayca normalleşir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ölçünde adil ol",
+   "aciklama": "Bugün bir alışverişte veya iş teslim ederken tam ve eksiksiz davran."
+  },
+  {
+   "baslik": "Karşılık bilincini tazele",
+   "aciklama": "Bir kararsızlık anında 'bunun karşılığını vereceğim' cümlesini hatırla."
+  },
+  {
+   "baslik": "Sözünle davranışını karşılaştır",
+   "aciklama": "Bugün, hesap gününe inandığını söylediğin bir alanda davranışını gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ölçme, tartma veya teslim işinde tam ve eksiksiz davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/83/11"
+  }
+ ]
+}

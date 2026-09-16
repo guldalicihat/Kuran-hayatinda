@@ -1,0 +1,75 @@
+{
+ "sure": 83,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "O gün, yalanlayanların vay hâline!",
+ "mealNotu": "'Veyl' kelimesi felaket ve helâk ünlemidir; tam bir Türkçe karşılığı yoktur, 'vay hâline' diye karşılandı. 'Yevmeizin' (o gün) hesap gününü işaret eder.",
+ "kokler": [
+  {
+   "kelime": "وَيْلٌ",
+   "okunus": "veylün",
+   "kok": "—",
+   "kokAnlam": "(ünlem) felaket, helâk; vay hâline",
+   "karsilik": "vay hâline"
+  },
+  {
+   "kelime": "يَوْمَئِذٍ",
+   "okunus": "yevmeizin",
+   "kok": "يوم",
+   "kokAnlam": "gün, belirli zaman dilimi",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "لِّلْمُكَذِّبِينَ",
+   "okunus": "lilmükezzibîne",
+   "kok": "كذب",
+   "kokAnlam": "yalan söyleme; gerçeği yalanlama",
+   "karsilik": "yalanlayanların"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, siccîn kaydının kimin için olduğunu netleştirir: hesap gününü yalanlayanlar. 'Veyl' kelimesi, sûrede ölçüde hile yapanlar için 4. ayette de kullanılmıştı; burada aynı ünlem, yalanlama günahına yönelir.",
+  "Bu kısa ve vurgulu cümle, Mutaffifîn sûresinde ve başka sûrelerde 'yevmeizil lilmükezzibîn' şeklinde tekrarlanan bir nakarattır. Her tekrar, farklı bir yalanlama biçimini (ölçüde hile, hesap gününü inkâr, âyetleri masal sayma) hedef alır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "77:15",
+   "meal": "O gün, yalanlayanların vay hâline!",
+   "baglanti": "Mürselât sûresinde aynı cümle on kez tekrarlanan bir nakarat olarak geçer; Mutaffifîn'deki kullanım bu üslubu hatırlatır."
+  },
+  {
+   "ref": "83:11",
+   "meal": "Onlar, din (hesap) gününü yalanlayanlardır.",
+   "baglanti": "Bir sonraki ayet, burada geçen 'mükezzibîn' (yalanlayanlar) kelimesini kimin yalanladığını açarak tanımlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan hesap gününü inkârdır; bu, insanın günlük hayatındaki sıradan bir yalandan farklı, hesabı kabul etmeme tavrıdır. Yine de yalanlama ile yaşama biçimi arasındaki bağ hatırlanmalıdır.",
+  "Günlük hayata taşınabilecek ders, inandığını söylediği bir gerçeğe göre yaşayıp yaşamadığını sorgulamaktır. Hesap gününe inandığını söyleyip davranışlarında bunu hiç hesaba katmamak, sözle yalanlamaya benzer bir tutarsızlıktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "İnancını davranışına bağla",
+   "aciklama": "Bugün bir kararını verirken, 'bunun hesabını verebilir miyim?' diye kendine sor."
+  },
+  {
+   "baslik": "Ciddiyetle hatırla",
+   "aciklama": "Hesap gününü unutturan bir gaflet anında, kısa bir hatırlatma cümlesi kur (örneğin 'bu geçici')."
+  },
+  {
+   "baslik": "Tutarsızlığını not et",
+   "aciklama": "İnandığın ama uygulamadığın bir ilkeyi bugün yaz ve bir adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün inandığını söylediğin bir ilkeye uymayan bir davranışını bul ve onu düzelt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/83/10"
+  }
+ ]
+}

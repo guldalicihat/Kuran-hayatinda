@@ -1,0 +1,68 @@
+{
+ "sure": 80,
+ "ayet": 28,
+ "durum": "taslak",
+ "meal": "Ve üzüm ve yeşillik [bitirdik].",
+ "mealNotu": "[bitirdik] fiili 27. ayetten taşınır, köşeli parantezle eklendi. 'Kadb' kökü kesme anlamındadır; sık kesilip devşirilen taze sebze/yem bitkisini anlatır; klasik tefsir bunu taze yeşillik olarak açıklar.",
+ "kokler": [
+  {
+   "kelime": "وَعِنَبًا",
+   "okunus": "ve ineben",
+   "kok": "عنب",
+   "kokAnlam": "üzüm",
+   "karsilik": "ve üzüm"
+  },
+  {
+   "kelime": "وَقَضْبًا",
+   "okunus": "ve kadben",
+   "kok": "قضب",
+   "kokAnlam": "kesme; sık kesilen taze yeşillik",
+   "karsilik": "ve yeşillik"
+  }
+ ],
+ "neAnlatiyor": [
+  "Liste, taneden meyveye geçer: üzüm tatlı bir meyve, kadb ise taze kesilip yenen bir sebzedir. Rızık çeşitliliği vurgulanır.",
+  "'Kadb' kelimesinin kesin karşılığı üzerinde mealler farklılaşır; kök anlamı kesmek olduğundan sık biçilen bir bitkiyi işaret eder. Ayet, insanın hem tatlı meyveye hem günlük sebzeye ihtiyacını hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:266",
+   "meal": "Sizden biriniz ister mi ki, hurmalıkları ve üzüm bağları olan, altından ırmaklar akan bir bahçesi olsun...",
+   "baglanti": "Bakara suresi üzüm bağını hurmalıkla birlikte bir nimet örneği olarak anlatır; Abese'deki liste bu iki meyveyi ayrı ayrı sayar."
+  },
+  {
+   "ref": "36:34",
+   "meal": "Orada hurmalıklardan ve üzüm bağlarından bahçeler yaptık, içlerinde pınarlar fışkırttık.",
+   "baglanti": "Yâsîn suresi de üzüm bağlarını bereketli bahçe tasvirinin bir parçası yapar; Abese aynı meyveyi rızık listesine ekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, sofradaki meyve ve sebze çeşitliliğidir.",
+  "Bugün için ders, yalnız tatlı meyveye değil günlük sebzeye de değer vermektir; ikisi de aynı bitirme fiiliyle var edilmiştir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Taze sebze ekle",
+   "aciklama": "Bugün bir öğününe taze bir yeşillik veya sebze ekle."
+  },
+  {
+   "baslik": "Üzümü fark ederek ye",
+   "aciklama": "Bugün birkaç tane üzümü aceleyle değil, tadını hissederek ye."
+  },
+  {
+   "baslik": "Çeşitliliği koru",
+   "aciklama": "Bu hafta alışverişinde en az bir yeni sebze veya meyve dene."
+  }
+ ],
+ "bugununAdimi": "Bugün bir öğününe, genelde atladığın bir sebzeyi bilerek ekle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=28"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/80/28"
+  }
+ ]
+}

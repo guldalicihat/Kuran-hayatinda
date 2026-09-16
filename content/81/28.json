@@ -1,0 +1,89 @@
+{
+ "sure": 81,
+ "ayet": 28,
+ "durum": "taslak",
+ "meal": "Sizden doğru yolda olmayı dileyen kimse için.",
+ "mealNotu": "'İstikamet' kökü doğrulukta durmayı, sapmadan gitmeyi anlatır. Ayet, hatırlatmanın kimin için fayda vereceğini belirtir: doğru yolda olmayı dileyen kimse.",
+ "kokler": [
+  {
+   "kelime": "لِمَن",
+   "okunus": "limen",
+   "kok": "—",
+   "kokAnlam": "(edat + ilgi) kimse için",
+   "karsilik": "kimse için"
+  },
+  {
+   "kelime": "شَآءَ",
+   "okunus": "şâe",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dileyen"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesi",
+   "karsilik": "-mayı"
+  },
+  {
+   "kelime": "يَسْتَقِيمَ",
+   "okunus": "yestekîme",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; dosdoğru olma",
+   "karsilik": "doğru yolda olmayı"
+  }
+ ],
+ "neAnlatiyor": [
+  "27. ayetteki 'hatırlatma' burada kime fayda vereceği belirtilerek daralır: doğru yolda olmayı dileyenler için. Bu, hatırlatmanın zorla değil, kişinin isteğiyle işe yaradığını gösterir.",
+  "'İstikamet' kelimesi Kur'an'da sık kullanılan bir kavramdır; dosdoğru bir çizgide durmayı, sapmamayı anlatır. Sonraki ve son ayet bu dilemenin bile Allah'ın dilemesine bağlı olduğunu ekleyerek konuyu tamamlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:112",
+   "meal": "Emrolunduğun gibi dosdoğru ol.",
+   "baglanti": "Hûd suresi de aynı 'istikamet' kökünü emir kipiyle kullanır; Tekvîr'deki dileme bu emri kişinin isteğine bağlar."
+  },
+  {
+   "ref": "41:30",
+   "meal": "'Rabbimiz Allah'tır' deyip sonra dosdoğru olanlara melekler iner...",
+   "baglanti": "Fussilet suresi de istikamet üzere olanlara verilen müjdeyi anlatır; Tekvîr'deki dileme bu yolun başlangıcıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, doğru yolda olmanın kişinin kendi dilemesiyle başlamasıdır.",
+  "Bugüne taşınabilecek ders, sapmadan bir çizgide durmanın iradeyle mümkün olduğudur. Küçük ama düzenli doğru seçimler, zamanla dosdoğru bir hayat kurar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir çizgi belirle",
+   "aciklama": "Bugün sapmamaya karar verdiğin bir davranış kuralı belirle."
+  },
+  {
+   "baslik": "İradeni göster",
+   "aciklama": "Bugün kolay bir kısayol yerine doğru olanı seç."
+  },
+  {
+   "baslik": "Niyetini yenile",
+   "aciklama": "Bugün doğru yolda kalma niyetini kendi kendine tekrar et."
+  }
+ ],
+ "bugununAdimi": "Bugün doğru olduğunu bildiğin ama zor gelen bir seçimi, kolay olana tercih et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=28"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/81/28"
+  }
+ ]
+}

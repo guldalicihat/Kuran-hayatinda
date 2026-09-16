@@ -1,0 +1,117 @@
+{
+ "sure": 82,
+ "ayet": 19,
+ "durum": "taslak",
+ "meal": "O gün, hiçbir nefis başka bir nefis için bir şeye güç yetiremez; o gün emir yalnız Allah'ındır.",
+ "mealNotu": "'Melk' kökü sahip olma ve güç yetirmeyi anlatır; kimsenin başkası adına karar veya yardım yetkisi olmadığı vurgulanır. 'Emr' iş, buyruk demektir; o gün her otorite ortadan kalkar, yalnız Allah'ın hükmü kalır.",
+ "kokler": [
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değildir",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "تَمْلِكُ",
+   "okunus": "temlikü",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, güç yetirme",
+   "karsilik": "güç yetiremez"
+  },
+  {
+   "kelime": "نَفْسٌ",
+   "okunus": "nefsün",
+   "kok": "نفس",
+   "kokAnlam": "kişi, benlik, can",
+   "karsilik": "hiçbir nefis"
+  },
+  {
+   "kelime": "لِّنَفْسٍ",
+   "okunus": "linefsin",
+   "kok": "نفس",
+   "kokAnlam": "kişi, benlik, can",
+   "karsilik": "başka bir nefis için"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "şey, bir şey",
+   "karsilik": "bir şeye"
+  },
+  {
+   "kelime": "وَٱلْأَمْرُ",
+   "okunus": "vel emru",
+   "kok": "أمر",
+   "kokAnlam": "iş, buyruk, emir",
+   "karsilik": "ve emir"
+  },
+  {
+   "kelime": "يَوْمَئِذٍ",
+   "okunus": "yevmeizin",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "لِّلَّهِ",
+   "okunus": "lillehi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "yalnız Allah'ındır"
+  }
+ ],
+ "neAnlatiyor": [
+  "17-18. ayetlerdeki tekrarlı soruya burada kısmi cevap verilir: din günü, hiç kimsenin bir başkası için hiçbir şey yapamayacağı gündür. Sûre, kayıt melekleri ve iki karşıt akıbetten sonra bu evrensel çaresizlikle kapanır.",
+  "'Yevmeizin lillâh' ifadesi, dünyadaki geçici güç ve aracılık ilişkilerinin o gün geçersiz kalacağını bildirir. Bu, sûrenin başındaki kozmik altüst oluşla (gök yarılması, yıldızların dağılması) aynı mesajı taşır: dünyadaki düzen sona erecek, yalnız Allah'ın hükmü kalacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:48",
+   "meal": "Öyle bir günden sakının ki, o gün hiçbir nefis başka bir nefis adına bir şey ödeyemez...",
+   "baglanti": "Bakara suresi de aynı çaresizliği, şefaat ve fidyenin geçersizliğini vurgulayarak anlatır."
+  },
+  {
+   "ref": "40:16",
+   "meal": "O gün onlar ortaya çıkarlar; onlardan hiçbir şey Allah'a gizli kalmaz. 'Bugün mülk kimindir?' 'Bir olan, her şeye galip Allah'ındır.'",
+   "baglanti": "Mü'min suresi de o gün mutlak otoritenin yalnız Allah'a ait olduğunu aynı temayla anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, kıyamet günündeki mutlak çaresizlik ve tek otoritedir.",
+  "Bugüne taşınabilecek ders, dünyadaki aracılara, statüye veya güce aşırı güvenmemek, asıl güvenin Allah'a olduğunu hatırlamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Güvenini gözden geçir",
+   "aciklama": "Bugün bir konuda yalnız insana değil, Allah'a güvenerek hareket et."
+  },
+  {
+   "baslik": "Statüye tapmadan yaşa",
+   "aciklama": "Bugün bir işini, kimin göreceğinden çok doğru olduğu için yap."
+  },
+  {
+   "baslik": "Aracıya değil asıla bağlan",
+   "aciklama": "Bugün bir sıkıntında önce dua et, sonra çözüm için harekete geç."
+  }
+ ],
+ "bugununAdimi": "Bugün bir işinde, insanların onayından çok Allah'ın rızasını gözeterek karar ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=82&verse=19"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/82/19"
+  }
+ ]
+}

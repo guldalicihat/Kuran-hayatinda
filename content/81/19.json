@@ -1,0 +1,82 @@
+{
+ "sure": 81,
+ "ayet": 19,
+ "durum": "taslak",
+ "meal": "Şüphesiz o (Kur'an), şerefli bir elçinin sözüdür.",
+ "mealNotu": "'Rasûl' burada -sonraki ayetlerin tasviriyle (güç sahibi, arş katında itibarlı, güvenilir)- vahiy getiren elçiyi (Cebrail) işaret eder; 'kerîm' şeref ve değerlilik kökünden gelir. 'Kur'an' kelimesi ayette geçmez, bağlamdan anlaşıldığı için [Kur'an] köşeli parantezle eklendi.",
+ "kokler": [
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid + zamir) muhakkak o",
+   "karsilik": "şüphesiz o"
+  },
+  {
+   "kelime": "لَقَوْلُ",
+   "okunus": "lekavlü",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "elbette sözüdür"
+  },
+  {
+   "kelime": "رَسُولٍ",
+   "okunus": "rasûlin",
+   "kok": "رسل",
+   "kokAnlam": "gönderilme; elçi",
+   "karsilik": "bir elçinin"
+  },
+  {
+   "kelime": "كَرِيمٍ",
+   "okunus": "kerîmin",
+   "kok": "كرم",
+   "kokAnlam": "şeref, değerlilik, cömertlik",
+   "karsilik": "şerefli"
+  }
+ ],
+ "neAnlatiyor": [
+  "Dört yeminden sonra asıl konu açıklanır: bu söz, şerefli bir elçinin getirdiği sözdür. Sonraki ayetler bu elçiyi güç sahibi, arş katında itibarlı, itaat edilen ve güvenilir sıfatlarıyla tanıtır.",
+  "'Rasûl' kelimesi burada, 20-21. ayetlerdeki sıfatlarla birlikte okunduğunda vahiy getiren melek elçiyi işaret eder. Ayet, vahyin güvenilir bir kanaldan geldiğini vurgulayarak 22. ayetteki 'arkadaşınız mecnun değildir' savunmasına zemin hazırlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:193",
+   "meal": "Onu Rûhu'l-emîn indirdi.",
+   "baglanti": "Şuarâ suresi de vahyi getiren elçiyi 'güvenilir ruh' olarak tanımlar; Tekvîr'deki 'şerefli elçi' aynı varlığa işaret eder."
+  },
+  {
+   "ref": "69:40",
+   "meal": "Şüphesiz o, şerefli bir elçinin sözüdür.",
+   "baglanti": "Hâkka suresi neredeyse aynı ifadeyi kullanır; iki ayet birlikte okunduğunda vahyin hem getirilişindeki hem aktarılışındaki güvenilirliği pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, vahyin kaynağının güvenilirliğidir.",
+  "Bugüne taşınabilecek ders, bir bilginin kaynağına dikkat etmektir. Güvenilir olmayan bir kaynaktan gelen söz, ne kadar etkileyici olursa olsun temkinle karşılanmalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaynağını sorgula",
+   "aciklama": "Bugün paylaşacağın bir bilginin kaynağını bir kez kontrol et."
+  },
+  {
+   "baslik": "Güvenilir ol",
+   "aciklama": "Bugün birine verdiğin bir sözü tam zamanında yerine getir."
+  },
+  {
+   "baslik": "Bir ayet oku",
+   "aciklama": "Bugün Kur'an'dan bir bölüm oku ve onu 'güvenilir bir söz' olarak dinle."
+  }
+ ],
+ "bugununAdimi": "Bugün paylaşmadan önce bir haberin veya bilginin kaynağını doğrula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=19"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/81/19"
+  }
+ ]
+}

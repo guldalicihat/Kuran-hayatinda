@@ -1,0 +1,75 @@
+{
+ "sure": 84,
+ "ayet": 16,
+ "durum": "taslak",
+ "meal": "Şafağa yemin ederim ki,",
+ "mealNotu": "'Felâ üksimü' kalıbı Kur'an'da 'yemin ederim' anlamında kullanılır. 'Şefak' kelimesi, güneş battıktan sonra ufukta kalan kızıllığı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "فَلَآ",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) andolsun ki",
+   "karsilik": "andolsun ki"
+  },
+  {
+   "kelime": "أُقْسِمُ",
+   "okunus": "üksimü",
+   "kok": "قسم",
+   "kokAnlam": "yemin etme, bölme",
+   "karsilik": "yemin ederim"
+  },
+  {
+   "kelime": "بِٱلشَّفَقِ",
+   "okunus": "biş şefekı",
+   "kok": "شفق",
+   "kokAnlam": "akşam kızıllığı, şafak vakti",
+   "karsilik": "şafağa"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, sûrenin insan hakkındaki bölümünden sonra yeni bir yeminler dizisi başlatır: şafağa (günün sonundaki kızıllığa) andolsun. Bu, günün geçiş anlarından biriyle yeni bir konuya dikkat çekmenin bir yoludur.",
+  "Bu yemin, sonraki iki ayette gece ve ayla devam eder; üç doğa olayı birlikte, zamanın sürekli değiştiğini ve bir hâlden diğerine geçtiğini vurgular. Bu geçiş teması, 19. ayette insan için de dile getirilecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "84:17",
+   "meal": "Geceye ve içine topladığı şeye andolsun,",
+   "baglanti": "Şafak yeminini takip eden bu ayet, aynı yeminler dizisinin bir parçasıdır; gün batımından geceye geçişi anlatır."
+  },
+  {
+   "ref": "74:34",
+   "meal": "Ağarmakta olan sabaha andolsun,",
+   "baglanti": "Müddessir sûresinde de günün bir geçiş anına yemin edilir; iki sûre benzer bir yemin üslubunu paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, günün belirli bir vaktine (şafak) dikkat çekmektir; bu doğa olayı herkesin gözlemleyebileceği bir gerçektir. Yemin, bu olayın önemine dikkat çeker.",
+  "Günlük hayata taşınabilecek ders, günün geçiş anlarının (gün doğumu, gün batımı) durup düşünmek için fırsatlar sunduğudur. Bu anlar, telaşın arasında kısa bir mola ve tefekkür zamanı olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Şafağı fark et",
+   "aciklama": "Bugün gün batımını veya şafağı birkaç dakika izle ve düşün."
+  },
+  {
+   "baslik": "Geçiş anını değerlendir",
+   "aciklama": "Günün bir geçiş vaktinde kısa bir dua veya zikir yap."
+  },
+  {
+   "baslik": "Zamanın kıymetini bil",
+   "aciklama": "Bugün bir vaktin geçtiğini fark ettiğinde, onu nasıl kullandığını değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün gün batımında birkaç dakika durup, geçen günü kısaca değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=84&verse=16"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/84/16"
+  }
+ ]
+}

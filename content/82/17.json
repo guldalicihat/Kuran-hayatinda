@@ -1,0 +1,89 @@
+{
+ "sure": 82,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "Din gününün ne olduğunu sana ne bildirdi?",
+ "mealNotu": "'Edrâke' kökü bilgilendirmeyi anlatır; Kur'an'da bu kalıp, büyüklüğü akılla tam kavranamayan konuları tanıtırken kullanılır.",
+ "kokler": [
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ve ne",
+   "karsilik": "ve ne"
+  },
+  {
+   "kelime": "أَدْرَىٰكَ",
+   "okunus": "edrâke",
+   "kok": "دري",
+   "kokAnlam": "bilgilendirme, haberdar etme",
+   "karsilik": "sana bildirdi"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "يَوْمُ",
+   "okunus": "yevmü",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "ٱلدِّينِ",
+   "okunus": "eddîni",
+   "kok": "دين",
+   "kokAnlam": "ceza, hesap, din",
+   "karsilik": "din"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kötülerin akıbeti anlatıldıktan sonra sûre, dikkat çekici bir soru kalıbıyla 'din günü'nün büyüklüğüne döner. Bu soru, konunun basit bir bilgi değil, üzerinde durulması gereken bir gerçek olduğunu vurgular.",
+  "'Mâ edrâke' kalıbı Kur'an'da genelde çok önemli, kavranması güç konular için kullanılır. Sonraki ayet aynı soruyu tekrarlayarak vurguyu pekiştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "97:2",
+   "meal": "Kadir gecesinin ne olduğunu sana ne bildirdi?",
+   "baglanti": "Kadir suresi aynı soru kalıbını kullanır; her ikisi de büyüklüğü tam kavranamayan bir konuyu tanıtır."
+  },
+  {
+   "ref": "69:3",
+   "meal": "Hâkka'nın ne olduğunu sana ne bildirdi?",
+   "baglanti": "Hâkka suresi de kıyamet için aynı soru kalıbını kullanır; İnfitâr'daki soru hesap gününün ciddiyetini aynı üslupla vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, din gününün büyüklüğünün bir soru kalıbıyla vurgulanmasıdır.",
+  "Bugüne taşınabilecek ders, büyük gerçekler karşısında tevazu göstermektir. Her şeyi bildiğini sanmak yerine, üzerinde düşünmeye zaman ayırmak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir konuda düşün",
+   "aciklama": "Bugün hakkında tam bilgi sahibi olmadığın bir konuda araştırmaya zaman ayır."
+  },
+  {
+   "baslik": "Tevazu göster",
+   "aciklama": "Bugün bir tartışmada 'Bunu tam bilmiyorum' demekten çekinme."
+  },
+  {
+   "baslik": "Büyük soruya zaman ayır",
+   "aciklama": "Bugün beş dakika ahiret veya hesap günü üzerine düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün beş dakikanı ayırıp hesap gününün ne anlama geldiğini kendi kelimelerinle düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=82&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/82/17"
+  }
+ ]
+}

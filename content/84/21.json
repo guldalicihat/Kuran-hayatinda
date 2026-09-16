@@ -1,0 +1,96 @@
+{
+ "sure": 84,
+ "ayet": 21,
+ "durum": "taslak",
+ "meal": "Onlara Kur'an okunduğunda secde etmiyorlar.",
+ "mealNotu": "'Yescüdûn' fiili hem fiziksel secdeyi hem de teslimiyeti anlatır; ayet, iman etmeyenlerin Kur'an karşısındaki bu teslimiyetsizliğini eleştirir.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) ve -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "قُرِئَ",
+   "okunus": "kurie",
+   "kok": "قرأ",
+   "kokAnlam": "okuma, toplama",
+   "karsilik": "okunduğunda"
+  },
+  {
+   "kelime": "عَلَيْهِمُ",
+   "okunus": "aleyhimü",
+   "kok": "—",
+   "kokAnlam": "(edat) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانُ",
+   "okunus": "elkur'ânü",
+   "kok": "قرأ",
+   "kokAnlam": "okuma, toplama",
+   "karsilik": "Kur'an"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mıyorlar"
+  },
+  {
+   "kelime": "يَسْجُدُونَ",
+   "okunus": "yescüdûne",
+   "kok": "سجد",
+   "kokAnlam": "secde etme, yere kapanma, boyun eğme",
+   "karsilik": "secde etmiyorlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki soruya bir cevap sunar: onlara Kur'an okunduğunda secde etmezler. Bu, imansızlığın somut bir göstergesidir; sözle reddetmenin ötesinde, davranışla da bir teslimiyetsizlik sergilenir.",
+  "Secde, Kur'an'da hem fiziksel bir ibadet hem de teslimiyetin sembolüdür. Bu kişilerin secde etmemesi, sadece bir ritüeli atlamak değil, mesajın kendisini reddetmek anlamına gelir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "84:20",
+   "meal": "Onlara ne oluyor da iman etmiyorlar?",
+   "baglanti": "Bir önceki ayetteki soru, burada secde etmeme davranışıyla somutlaşır."
+  },
+  {
+   "ref": "41:37",
+   "meal": "Güneşe ve aya secde etmeyin; onları yaratan Allah'a secde edin.",
+   "baglanti": "Fussilet sûresi secdenin doğru yönünü hatırlatır; İnşikâk'taki kişiler ise Kur'an karşısında hiç secde etmeyerek bu teslimiyeti tümüyle reddeder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, vahiy karşısında gösterilmesi gereken teslimiyetin (secde) reddedilmesidir; bu doğrudan bir ibadet meselesidir. Genel olarak ise, doğru bir söz karşısında alçakgönüllü bir kabulün önemine işaret eder.",
+  "Günlük hayata taşınabilecek ders, bir gerçeği duyduğunda kibirle değil alçakgönüllülükle karşılamaktır. Doğru bir uyarı veya öğüt karşısında direnmek yerine, onu kabul edecek bir esneklik göstermek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Secdenin anlamını yaşa",
+   "aciklama": "Bugün kıldığın bir namazda secdenin teslimiyet anlamını düşünerek secde et."
+  },
+  {
+   "baslik": "Kibri bırak",
+   "aciklama": "Bir uyarı aldığında, hemen savunmaya geçmek yerine alçakgönüllülükle dinle."
+  },
+  {
+   "baslik": "Kur'an'la bağ kur",
+   "aciklama": "Bugün birkaç ayet oku ve üzerinde kısaca düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün kıldığın bir namazda, secdenin teslimiyet anlamını içtenlikle hisset.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=84&verse=21"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/84/21"
+  }
+ ]
+}

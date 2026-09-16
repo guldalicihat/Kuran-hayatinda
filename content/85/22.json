@@ -1,0 +1,75 @@
+{
+ "sure": 85,
+ "ayet": 22,
+ "durum": "taslak",
+ "meal": "Korunmuş bir levhadadır.",
+ "mealNotu": "'Levh' yazı yazılan bir tahta/levhayı anlatır; 'Levh-i Mahfûz' olarak bilinen bu ifade, ayette sıfat tamlaması biçiminde geçer, özel ad olarak değil sıfatlandırılmış isim olarak çevrilmiştir.",
+ "kokler": [
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içindedir"
+  },
+  {
+   "kelime": "لَوْحٍ",
+   "okunus": "levhin",
+   "kok": "لوح",
+   "kokAnlam": "yazı tahtası, levha",
+   "karsilik": "bir levhada"
+  },
+  {
+   "kelime": "مَّحْفُوظٍۭ",
+   "okunus": "mahfûzım",
+   "kok": "حفظ",
+   "kokAnlam": "koruma, muhafaza etme",
+   "karsilik": "korunmuş"
+  }
+ ],
+ "neAnlatiyor": [
+  "21. ayette 'şerefli bir Kur'an' olarak tanımlanan kitap, bu ayette nerede kayıtlı olduğu bilgisiyle tamamlanır: korunmuş bir levhada. Sure, gökten başlayan yeminlerle açılıp ilahî bir kayıtla kapanır.",
+  "'Mahfûz' (korunmuş) kelimesi, bu kaydın değiştirilmeye ya da bozulmaya kapalı olduğunu vurgular. Klasik tefsir 'Levh-i Mahfûz'u, Allah katındaki bilgi ve kaderin yazılı olduğu bir kayıt olarak açıklar; ayrıntısı hakkında kesin bilgi verilmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "56:78",
+   "meal": "O, korunmuş bir kitaptadır.",
+   "baglanti": "Vâkıa suresinde de Kur'an'ın korunmuş bir kayıtta olduğu benzer bir ifadeyle anlatılır."
+  },
+  {
+   "ref": "85:21",
+   "meal": "Hayır, o şerefli bir Kur'ân'dır.",
+   "baglanti": "Bu ayetteki 'korunmuş levha', bir önceki ayette anılan şerefli Kur'an'ın nerede kayıtlı olduğunu tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın ilahî bir kayıtla korunduğudur. Bu, surenin kapanışında Kur'an'ın güvenilirliğine dair bir vurgudur.",
+  "Bugüne taşınabilecek ders, değerli olanın korunmaya layık olduğudur. İnsan da kendi hayatında değerli bulduğu bilgi, söz ya da ilişkiyi özenle korumayı öğrenebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Değerli bir kaydı koru",
+   "aciklama": "Bugün önemli bir bilgiyi ya da anını kaybolmayacak şekilde not al."
+  },
+  {
+   "baslik": "Sözüne sadık kal",
+   "aciklama": "Verdiğin bir sözü, bugün özenle koruyarak yerine getir."
+  },
+  {
+   "baslik": "Emanete dikkat et",
+   "aciklama": "Sana bırakılan bir emaneti bugün özenle gözden geçir ve koru."
+  }
+ ],
+ "bugununAdimi": "Bugün önemli bir bilgiyi ya da sözünü, kaybolmayacak şekilde yazıya dökerek koru.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=22"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/85/22"
+  }
+ ]
+}

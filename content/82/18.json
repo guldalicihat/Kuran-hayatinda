@@ -1,0 +1,96 @@
+{
+ "sure": 82,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "Sonra, din gününün ne olduğunu sana ne bildirdi?",
+ "mealNotu": "Soru, 17. ayetteki aynı ifadeyle 'sümme' (sonra) edatı eklenerek tekrarlanır; bu tekrar vurguyu artırır, yeni bir bilgi eklemez.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "أَدْرَىٰكَ",
+   "okunus": "edrâke",
+   "kok": "دري",
+   "kokAnlam": "bilgilendirme, haberdar etme",
+   "karsilik": "sana bildirdi"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "يَوْمُ",
+   "okunus": "yevmü",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "ٱلدِّينِ",
+   "okunus": "eddîni",
+   "kok": "دين",
+   "kokAnlam": "ceza, hesap, din",
+   "karsilik": "din"
+  }
+ ],
+ "neAnlatiyor": [
+  "17. ayetteki soru burada 'sümme' (sonra) edatıyla tekrar edilir. Bu tekrar, konunun önemini ikinci kez vurgulamak, dinleyicinin zihninde derinleştirmek içindir.",
+  "Klasik tefsir, aynı sorunun tekrarını bir cevapsızlık değil, büyüklüğü pekiştiren bir üslup olarak açıklar. Sonraki ve son ayet bu soruya kısmi bir cevap vererek sûreyi kapatır: o gün hiçbir nefis başka bir nefis için bir şeye güç yetiremez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "90:12",
+   "meal": "Sarp yokuşun ne olduğunu sana bildiren nedir?",
+   "baglanti": "Beled suresi de benzer bir soru kalıbını, ardından cevabını vermek üzere kullanır; İnfitâr'daki tekrar aynı işlevi görür."
+  },
+  {
+   "ref": "101:10",
+   "meal": "Onun ne olduğunu sana bildiren nedir?",
+   "baglanti": "Kâria suresi de bir soruyu sorup hemen ardından cevaplar; İnfitâr'daki tekrarlı soru da 19. ayetteki cevaba hazırlık yapar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, önemli bir gerçeğin tekrarla vurgulanmasıdır.",
+  "Bugüne taşınabilecek ders, önemli bir konunun üzerinde bir kez değil, tekrar tekrar durmanın değeridir. Tekrar, bir gerçeği unutmamak için etkili bir yöntemdir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir dersi tekrar et",
+   "aciklama": "Bugün önemli bulduğun bir ayeti veya öğütü ikinci kez oku."
+  },
+  {
+   "baslik": "Hatırlatıcı bırak",
+   "aciklama": "Bugün kendine unutmaman gereken bir gerçeği hatırlatacak bir not bırak."
+  },
+  {
+   "baslik": "Israrla düşün",
+   "aciklama": "Bugün hesap günü konusunu bir kez daha, farklı bir açıdan düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün dün üzerinde düşündüğün bir gerçeği, bir kez daha, biraz daha derin düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=82&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/82/18"
+  }
+ ]
+}

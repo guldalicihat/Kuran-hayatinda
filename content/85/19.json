@@ -1,0 +1,89 @@
+{
+ "sure": 85,
+ "ayet": 19,
+ "durum": "taslak",
+ "meal": "Hayır, inkâr edenler bir yalanlama içindedirler.",
+ "mealNotu": "'Beli' önceki cümleyi düzeltip vurgulayan bir edattır; burada 'hayır' olarak karşılanmıştır. 'Tekzîb' kökü doğrudan yalanlamayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "بَلِ",
+   "okunus": "beli",
+   "kok": "—",
+   "kokAnlam": "(idrak/bağlaç) aksine, hayır",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimseler",
+   "karsilik": "inkâr edenler"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr eden"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içindedirler"
+  },
+  {
+   "kelime": "تَكْذِيبٍ",
+   "okunus": "tekzîbin",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "bir yalanlama"
+  }
+ ],
+ "neAnlatiyor": [
+  "17-18. ayetlerdeki Firavun ve Semûd örneğinden sonra bu ayet, konuyu Mekkeli inkârcılara getirir. Geçmiş toplumların akıbetini duymalarına rağmen, onlar da aynı yalanlama tavrını sürdürmektedir.",
+  "'Beli' edatı, önceki anlatılan ibretin onlarda bir değişiklik yaratmadığını, aksine yalanlamada ısrar ettiklerini vurgular. Klasik tefsir bu ayeti, geçmişten ders çıkarmayan bir topluma yönelik bir kınama olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:5",
+   "meal": "Kendilerine geldiğinde hakkı yalanladılar; alay ettikleri şeyin haberleri onlara ulaşacaktır.",
+   "baglanti": "Aynı yalanlama tavrı En'âm suresinde de anlatılır; sonunda gerçeğin ortaya çıkacağı hatırlatılır."
+  },
+  {
+   "ref": "85:18",
+   "meal": "Firavun ve Semûd'un.",
+   "baglanti": "Geçmişteki yalanlayıcı toplumlarla, bu ayette anılan güncel inkârcılar aynı tavrı paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmişten ders almayıp yalanlamada ısrar eden inkârcılardır. Bu, tarihten öğrenmemenin bir sonucudur.",
+  "Bugüne taşınabilecek ders, uyarılara kapalı kalmanın bedelinin ağır olabileceğidir. Bir gerçeği görmezden gelmek onu yok saymaz; yalnız yüzleşmeyi geciktirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gerçekle yüzleş",
+   "aciklama": "Bugün görmezden geldiğin bir gerçeği kabul etmek için küçük bir adım at."
+  },
+  {
+   "baslik": "Uyarıya kulak ver",
+   "aciklama": "Sana yapılan bir uyarıyı bu kez ciddiye al ve üzerinde düşün."
+  },
+  {
+   "baslik": "İnadı bırak",
+   "aciklama": "Bir konuda haksız olduğunu fark ettiğinde, ısrar etmek yerine bugün fikrini değiştir."
+  }
+ ],
+ "bugununAdimi": "Bugün görmezden geldiğin bir gerçeği kabul edip ona göre bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=85&verse=19"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/85/19"
+  }
+ ]
+}

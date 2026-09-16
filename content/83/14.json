@@ -1,0 +1,110 @@
+{
+ "sure": 83,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "Hayır! Bilakis kazandıkları [günahlar], kalplerinin üzerine pas tutmuştur.",
+ "mealNotu": "'Râne' fiili 'rayn' kökünden, bir yüzeyi kaplayan pas veya kir anlamındadır; 'pas tutmuştur' diye karşılandı. 'Kazandıkları' ifadesinin neyi kazandığı ayette belirtilmediği için köşeli parantezle 'günahlar' eklendi.",
+ "kokler": [
+  {
+   "kelime": "كَلَّا",
+   "okunus": "kellâ",
+   "kok": "—",
+   "kokAnlam": "(caydırma) hayır, asla",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) bilakis",
+   "karsilik": "bilakis"
+  },
+  {
+   "kelime": "رَانَ",
+   "okunus": "râne",
+   "kok": "رين",
+   "kokAnlam": "pas tutma, kaplama, örtme",
+   "karsilik": "pas tutmuştur"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "قُلُوبِهِم",
+   "okunus": "kulûbihim",
+   "kok": "قلب",
+   "kokAnlam": "kalp, gönül; çevirme, değişme",
+   "karsilik": "kalplerinin"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldukları"
+  },
+  {
+   "kelime": "يَكْسِبُونَ",
+   "okunus": "yeksibûne",
+   "kok": "كسب",
+   "kokAnlam": "kazanma, elde etme",
+   "karsilik": "kazandıkları"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, âyetleri masal sayan kişinin bu tavrının nedenini açıklar: işledikleri günahlar, kalplerinin üzerinde bir pas tabakası oluşturmuştur. 'Râne' fiili, bir yüzeyin zamanla kirlenip parlaklığını yitirmesini anlatır.",
+  "Bu ifade, inkârın aniden ortaya çıkmadığını, birikimli bir sürecin sonucu olduğunu gösterir. Her günah, kalbin gerçeği görme kapasitesini biraz daha bulandırır; klasik tefsir bunu, tövbe edilmeyen küçük günahların birikerek kalbi örtmesi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:7",
+   "meal": "Allah onların kalplerini ve kulaklarını mühürlemiştir; gözlerinde de bir perde vardır. Onlar için büyük bir azap vardır.",
+   "baglanti": "Bakara sûresi, inkârın kalp üzerindeki etkisini 'mühürleme' olarak anlatır; Mutaffifîn'deki 'pas tutma' benzer bir kapanma sürecini tarif eder."
+  },
+  {
+   "ref": "83:12",
+   "meal": "Onu, sınırı aşan, günaha batmış olandan başkası yalanlamaz.",
+   "baglanti": "Kalbin paslanmasına yol açan 'kazanılan' şey, bir önceki tanımdaki sınır aşma ve günaha batmadır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, tekrarlanan günahların kalpte bıraktığı birikimli etkidir. Bu, dinî bir uyarı olmakla birlikte, alışkanlıkların insanı nasıl değiştirdiğine dair genel bir gerçeği de içerir.",
+  "Günlük hayata taşınabilecek ders, küçük yanlışları 'önemsiz' diye görmezden gelmemektir. Her tekrar, bir sonraki yanlışı daha kolay hâle getirir; bu nedenle erken müdahale ve tövbe önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçük yanlışı durdur",
+   "aciklama": "Sık tekrarladığın küçük bir günahı bugün fark et ve tekrarlamamaya karar ver."
+  },
+  {
+   "baslik": "Kalbini tazele",
+   "aciklama": "Bugün kısa bir istiğfar veya öz eleştiri anı ayır; günün hatalarını gözden geçir."
+  },
+  {
+   "baslik": "Alışkanlığını izle",
+   "aciklama": "Bir hafta boyunca tekrarladığın bir davranışı bugün yazıya dök ve nedenini düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün sık tekrarladığın küçük bir yanlışı yaz ve onu durdurmak için bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/83/14"
+  }
+ ]
+}
