@@ -1,0 +1,110 @@
+{
+ "sure": 4,
+ "ayet": 28,
+ "durum": "taslak",
+ "meal": "Allah sizden (yükünüzü) hafifletmek istiyor. İnsan zayıf yaratılmıştır.",
+ "mealNotu": "'Yühaffife' fiili, önceki ayetlerdeki hükümlerin ağır değil, insanın gücüne uygun olarak konduğunu anlatır. 'Daîf' kökü bedensel ve iradi zayıflığı birlikte kapsar.",
+ "kokler": [
+  {
+   "kelime": "يُرِيدُ",
+   "okunus": "yürîdü",
+   "kok": "رود",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "istiyor"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesini",
+   "karsilik": "-mesini"
+  },
+  {
+   "kelime": "يُخَفِّفَ",
+   "okunus": "yühaffife",
+   "kok": "خفف",
+   "kokAnlam": "hafifletme, kolaylaştırma",
+   "karsilik": "hafifletmeyi"
+  },
+  {
+   "kelime": "عَنكُمْ",
+   "okunus": "anküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "وَخُلِقَ",
+   "okunus": "ve hulika",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "ve yaratılmıştır"
+  },
+  {
+   "kelime": "ٱلْإِنسَٰنُ",
+   "okunus": "el'insânü",
+   "kok": "أنس",
+   "kokAnlam": "insan; ünsiyet, unutkanlık",
+   "karsilik": "insan"
+  },
+  {
+   "kelime": "ضَعِيفًا",
+   "okunus": "daîfen",
+   "kok": "ضعف",
+   "kokAnlam": "zayıflık, güçsüzlük",
+   "karsilik": "zayıf olarak"
+  }
+ ],
+ "neAnlatiyor": [
+  "27. ayet, Allah'ın tövbe kabulü isteği ile şehvete uyanların sapma isteğini karşılaştırmıştı; 28. ayet bu karşılaştırmaya üçüncü bir unsur ekler: Allah'ın hükümleri hafifletme isteği. Bu, 26. ve 27. ayetlerle aynı 'yürîdü' (istiyor) kalıbını tekrarlayarak bir bütünlük oluşturur.",
+  "'Hulikal insânü daîfen' ifadesi, insanın yaratılıştan güçsüz olduğunu, hem bedensel hem de tutkulara karşı direnme gücü bakımından sınırlı olduğunu bildirir. Klasik tefsir, bunu dinî yükümlülüklerin neden kademeli ve ölçülü konduğunun bir gerekçesi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:286",
+   "meal": "Allah, hiçbir kimseyi gücünün yetmeyeceği şeyle yükümlü tutmaz.",
+   "baglanti": "Hafifletme ve kolaylaştırma teması iki ayette de ortaktır; Allah'ın hükümleri insanın gücünü aşmaz."
+  },
+  {
+   "ref": "30:54",
+   "meal": "Allah, sizi bir zayıflıktan yaratan, sonra zayıflığın ardından bir kuvvet veren, sonra kuvvetin ardından bir zayıflık ve yaşlılık verendir.",
+   "baglanti": "İnsanın zayıf yaratılışı burada aşama aşama anlatılır; 4:28'deki 'daîf' vurgusu bu döngünün bir parçasıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, dinî yükümlülüklerin insanın gücüne göre hafifletilmesidir; bu, dine özgü bir ilkedir.",
+  "Günlük hayata taşınabilecek ders, kendi sınırlarını kabul etmektir. Zayıflığını inkâr etmek yerine fark etmek, gerçekçi hedefler koymayı ve kendine karşı merhametli olmayı kolaylaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sınırını kabul et",
+   "aciklama": "Bugün gücünün yetmediği bir konuda kendini zorlamak yerine bunu açıkça kabul et."
+  },
+  {
+   "baslik": "Kademeli ilerle",
+   "aciklama": "Büyük bir hedefi, bugün tamamlayabileceğin küçük bir adıma böl."
+  },
+  {
+   "baslik": "Kendine merhamet et",
+   "aciklama": "Bir konuda yetersiz kaldığında kendini ağır eleştirmek yerine yeniden denemeye izin ver."
+  }
+ ],
+ "bugununAdimi": "Bugün zorlandığın bir konuda kendine 'Ben de zayıf yaratıldım' diyerek gerçekçi bir hedef koy.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=28"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/28"
+  }
+ ]
+}

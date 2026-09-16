@@ -1,0 +1,138 @@
+{
+ "sure": 4,
+ "ayet": 41,
+ "durum": "taslak",
+ "meal": "Her ümmetten bir şahit getirdiğimiz ve seni de bunlara karşı bir şahit olarak getirdiğimiz zaman, [durumları] nasıl olacak?",
+ "mealNotu": "Cümle 'fekeyfe' (peki nasıl olacak) ile başlayan bir soru kalıbıdır; asıl fiil belirtilmediği için meale '[durumları]' köşeli parantez içinde eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "فَكَيْفَ",
+   "okunus": "fekeyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl, ne şekilde",
+   "karsilik": "peki nasıl olacak"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) zaman",
+   "karsilik": "zaman"
+  },
+  {
+   "kelime": "جِئْنَا",
+   "okunus": "ci'nâ",
+   "kok": "جيأ",
+   "kokAnlam": "gelme, getirme",
+   "karsilik": "getirdiğimiz"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "كُلِّ",
+   "okunus": "külli",
+   "kok": "كلل",
+   "kokAnlam": "bütün, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "أُمَّةٍۭ",
+   "okunus": "ümmetim",
+   "kok": "أمم",
+   "kokAnlam": "topluluk, ümmet",
+   "karsilik": "ümmetten"
+  },
+  {
+   "kelime": "بِشَهِيدٍ",
+   "okunus": "bişehîdin",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık, şahitlik",
+   "karsilik": "bir şahit"
+  },
+  {
+   "kelime": "وَجِئْنَا",
+   "okunus": "ve ci'nâ",
+   "kok": "جيأ",
+   "kokAnlam": "gelme, getirme",
+   "karsilik": "ve getirdiğimiz"
+  },
+  {
+   "kelime": "بِكَ",
+   "okunus": "bike",
+   "kok": "—",
+   "kokAnlam": "(zamir) seni",
+   "karsilik": "seni"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e karşı",
+   "karsilik": "-e karşı"
+  },
+  {
+   "kelime": "هَٰٓؤُلَآءِ",
+   "okunus": "hâülâi",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunlara",
+   "karsilik": "bunlara"
+  },
+  {
+   "kelime": "شَهِيدًا",
+   "okunus": "şehîden",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık, şahitlik",
+   "karsilik": "bir şahit olarak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 39-40. ayetlerdeki iman-infak ve adalet temasından sonra kıyamet gününe dair bir sahne çizer: her topluluktan bir peygamberin o topluluk hakkında şahitlik etmesi. 'Şehîd' kökü, doğrudan tanık olmayı ve gördüğünü bildirmeyi anlatır.",
+  "Ayetin ikinci kısmı, Hz. Peygamber'in bu ümmete karşı şahit tutulacağını bildirir. Klasik tefsir, bunu peygamberlerin kendi toplumlarına tebliği ulaştırdıklarına dair bir tanıklık olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "16:89",
+   "meal": "Her ümmet içinde, kendi içlerinden üzerlerine bir şahit getireceğimiz ve seni de bunlar üzerine şahit olarak getireceğimiz günü hatırla.",
+   "baglanti": "Neredeyse aynı ifadeyle, her ümmete bir şahit getirilmesi ve Hz. Peygamber'in de şahit tutulması burada tekrarlanır."
+  },
+  {
+   "ref": "2:143",
+   "meal": "Böylece sizi, insanlara şahit olmanız için orta bir ümmet kıldık; Peygamber de üzerinize şahit olsun.",
+   "baglanti": "Ümmetin ve Peygamber'in karşılıklı şahitliği teması burada da yer alır; toplumsal ve bireysel tanıklık iç içe geçer."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıyamet günü ve peygamberlerin şahitliğidir; gaybî bir konudur.",
+  "Bugüne taşınabilecek ders, yaptıklarının bir gün tanıklıkla ortaya çıkacağını bilerek hareket etmektir. Kimsenin görmediğini düşündüğün bir davranış bile, bu ayetin işaret ettiği hesap bilinciyle anlam kazanır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hesabını düşün",
+   "aciklama": "Bugün bir kararını, 'bu bir gün ortaya çıksa nasıl görünür' diye değerlendir."
+  },
+  {
+   "baslik": "Gizliyi de gözet",
+   "aciklama": "Kimsenin görmediği bir anında da doğru davranmaya özen göster."
+  },
+  {
+   "baslik": "Şahitliği hatırla",
+   "aciklama": "Bir işi yaparken, bunun bir gün senin lehine ya da aleyhine tanıklık edeceğini hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün kimsenin görmediği bir anında, görülüyormuş gibi doğru davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=41"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/41"
+  }
+ ]
+}

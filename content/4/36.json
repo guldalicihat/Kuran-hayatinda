@@ -1,0 +1,278 @@
+{
+ "sure": 4,
+ "ayet": 36,
+ "durum": "taslak",
+ "meal": "Allah'a kulluk edin, O'na hiçbir şeyi ortak koşmayın. Ana-babaya, akrabalığın sahibine, yetimlere, yoksullara, yakın komşuya, uzak komşuya, yanınızdaki arkadaşa, yolcuya ve ellerinizin sahip olduğu kimselere iyilik edin. Şüphesiz Allah, kibirli ve övüngen olan kimseyi sevmez.",
+ "mealNotu": "'Zi'l-kurbâ' ifadesi yakın komşu için tekrar edilerek yakınlık ve uzaklık ayrımı vurgulanmıştır. 'Es-sâhibü bi'l-cenb' ifadesi 'yanınızdaki arkadaş' olarak alınmıştır; klasik tefsir bunu yol arkadaşı, iş arkadaşı gibi anlık birliktelikleri de kapsayacak biçimde açıklar.",
+ "kokler": [
+  {
+   "kelime": "وَٱعْبُدُوا۟",
+   "okunus": "vebüdû",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme, tapınma",
+   "karsilik": "kulluk edin"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -meyin",
+   "karsilik": "ve -meyin"
+  },
+  {
+   "kelime": "تُشْرِكُوا۟",
+   "okunus": "tüşrikû",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "ortak koşmayın"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) O'na",
+   "karsilik": "O'na"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "hiçbir şeyi"
+  },
+  {
+   "kelime": "وَبِٱلْوَٰلِدَيْنِ",
+   "okunus": "ve bil vâlideyni",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; ana-baba",
+   "karsilik": "ana-babaya"
+  },
+  {
+   "kelime": "إِحْسَٰنًا",
+   "okunus": "ihsânen",
+   "kok": "حسن",
+   "kokAnlam": "güzellik, iyilik etme",
+   "karsilik": "iyilik edin"
+  },
+  {
+   "kelime": "وَبِذِى",
+   "okunus": "ve bizî",
+   "kok": "—",
+   "kokAnlam": "(isim) ve sahibine",
+   "karsilik": "ve sahibine"
+  },
+  {
+   "kelime": "ٱلْقُرْبَىٰ",
+   "okunus": "elkurbâ",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık",
+   "karsilik": "akrabalığın"
+  },
+  {
+   "kelime": "وَٱلْيَتَٰمَىٰ",
+   "okunus": "vel yetâmâ",
+   "kok": "يتم",
+   "kokAnlam": "yetimlik, tek kalma",
+   "karsilik": "yetimlere"
+  },
+  {
+   "kelime": "وَٱلْمَسَٰكِينِ",
+   "okunus": "vel mesâkîni",
+   "kok": "سكن",
+   "kokAnlam": "durgunluk, yoksulluk",
+   "karsilik": "yoksullara"
+  },
+  {
+   "kelime": "وَٱلْجَارِ",
+   "okunus": "vel câri",
+   "kok": "جور",
+   "kokAnlam": "komşuluk",
+   "karsilik": "komşuya"
+  },
+  {
+   "kelime": "ذِى",
+   "okunus": "zî",
+   "kok": "—",
+   "kokAnlam": "(isim) sahibi olan",
+   "karsilik": "sahibi olan"
+  },
+  {
+   "kelime": "ٱلْقُرْبَىٰ",
+   "okunus": "elkurbâ",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık",
+   "karsilik": "yakınlığın"
+  },
+  {
+   "kelime": "وَٱلْجَارِ",
+   "okunus": "vel câri",
+   "kok": "جور",
+   "kokAnlam": "komşuluk",
+   "karsilik": "ve komşuya"
+  },
+  {
+   "kelime": "ٱلْجُنُبِ",
+   "okunus": "elcünübi",
+   "kok": "جنب",
+   "kokAnlam": "yan, uzak taraf",
+   "karsilik": "uzak olan"
+  },
+  {
+   "kelime": "وَٱلصَّاحِبِ",
+   "okunus": "ves sâhibi",
+   "kok": "صحب",
+   "kokAnlam": "arkadaşlık, birliktelik",
+   "karsilik": "ve arkadaşa"
+  },
+  {
+   "kelime": "بِٱلْجَنۢبِ",
+   "okunus": "bil cembi",
+   "kok": "جنب",
+   "kokAnlam": "yan, taraf",
+   "karsilik": "yanında bulunan"
+  },
+  {
+   "kelime": "وَٱبْنِ",
+   "okunus": "vebni",
+   "kok": "بني",
+   "kokAnlam": "oğul; evlat",
+   "karsilik": "ve oğluna"
+  },
+  {
+   "kelime": "ٱلسَّبِيلِ",
+   "okunus": "essebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolun (yolcuya)"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şeye",
+   "karsilik": "ve şeye"
+  },
+  {
+   "kelime": "مَلَكَتْ",
+   "okunus": "meleket",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, mülkiyet",
+   "karsilik": "sahip olduğu"
+  },
+  {
+   "kelime": "أَيْمَٰنُكُمْ",
+   "okunus": "eymânüküm",
+   "kok": "يمن",
+   "kokAnlam": "sağ el, yemin",
+   "karsilik": "ellerinizin"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mez",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يُحِبُّ",
+   "okunus": "yühibbü",
+   "kok": "حبب",
+   "kokAnlam": "sevme",
+   "karsilik": "sevmez"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseyi",
+   "karsilik": "kimseyi"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olan"
+  },
+  {
+   "kelime": "مُخْتَالًا",
+   "okunus": "mühtâlen",
+   "kok": "خيل",
+   "kokAnlam": "kibirlenme, kendini beğenme",
+   "karsilik": "kibirli"
+  },
+  {
+   "kelime": "فَخُورًا",
+   "okunus": "fehûran",
+   "kok": "فخر",
+   "kokAnlam": "övünme, böbürlenme",
+   "karsilik": "ve övüngen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, tevhid ilkesini (Allah'a kulluk, ortak koşmama) toplumsal iyilik ilkesiyle bir arada sayar. Bu sıralama, imanın soyut bir inançtan ibaret olmadığını, somut ilişkilere yansıması gerektiğini gösterir.",
+  "Sayılan kişiler -ana-baba, akraba, yetim, yoksul, yakın ve uzak komşu, yanındaki arkadaş, yolcu, himaye altındakiler- gittikçe genişleyen bir çevreyi kapsar. Klasik tefsir bu geniş listeyi, iyiliğin yalnız yakın çevreyle sınırlı kalmaması gerektiğinin bir göstergesi olarak açıklar. Ayet, kibir ve övünmeyi bu iyilik listesinin karşıtı olarak sunar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:23",
+   "meal": "Rabbin, sadece kendisine kulluk etmenizi ve anne babaya iyilik etmenizi emretti.",
+   "baglanti": "Tevhid ile ana-babaya iyilik emrinin yan yana anılması, 4:36'nın açılışıyla neredeyse aynıdır."
+  },
+  {
+   "ref": "31:18",
+   "meal": "Kibirlenerek insanlardan yüz çevirme ve yeryüzünde böbürlenerek yürüme; çünkü Allah, kendini beğenip övünen hiç kimseyi sevmez.",
+   "baglanti": "4:36'nın son cümlesiyle neredeyse aynı ifadeyi taşır; kibir ve övünme her iki ayette de Allah'ın sevmediği bir tutum olarak anılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, tevhidin toplumsal iyilikle birlikte anılmasıdır; iman ile komşuluk, aile ve yardımlaşma ilişkileri iç içe geçer.",
+  "Bugüne taşınabilecek ders, iyiliği yalnız yakın çevreyle sınırlamamaktır. Ayetteki liste aileden başlayıp yabancı bir yolcuya kadar uzanır; bu, çevrende kimi fark etmeden geçtiğini sorgulamak için iyi bir ölçüdür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Komşunu hatırla",
+   "aciklama": "Bugün bir komşuna (yakın veya uzak) selam ver ya da halini sor."
+  },
+  {
+   "baslik": "Görünmeyeni gözet",
+   "aciklama": "Senin himayende olan ya da senin için çalışan birine bugün özel bir ilgi göster."
+  },
+  {
+   "baslik": "Kibirden uzak dur",
+   "aciklama": "Bugün bir başarını anlatırken övünmeden, sade bir dille paylaş."
+  }
+ ],
+ "bugununAdimi": "Bugün listede sayılanlardan birine (yetim, yoksul, komşu, yolcu) küçük bir iyilik yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=36"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/36"
+  }
+ ]
+}

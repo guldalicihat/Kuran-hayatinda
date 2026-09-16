@@ -1,0 +1,334 @@
+{
+ "sure": 4,
+ "ayet": 34,
+ "durum": "taslak",
+ "meal": "Erkekler, Allah'ın kimini kimine üstün kılması ve mallarından harcamaları sebebiyle kadınların koruyup gözeticisidir. İyi kadınlar, gönülden itaat eden, Allah'ın koruduğu gibi görünmeyeni koruyandır. Baş kaldırmalarından korktuğunuz kadınlara önce öğüt verin, sonra yataklarda onları yalnız bırakın, sonra onları vurun. Eğer size itaat ederlerse artık onlara karşı bir yol aramayın. Şüphesiz Allah çok yücedir, çok büyüktür.",
+ "mealNotu": "'Kavvâmûn' kökü ayakta durmayı ve sorumluluk üstlenmeyi anlatır; burada 'koruyup gözeten' olarak çevrilmiştir. 'Darabe' kökünün temel anlamı vurmaktır; bu meal kökün temel anlamını esas almıştır, ancak bu kelimenin yorumu ve sınırları konusunda tefsirler arasında önemli farklar vardır (bkz. Ne Anlatıyor). 'Nüşûz' kökü yükselme/başkaldırma anlamındadır ve burada evlilik bağlılığına aykırı bir tutumu ifade eder.",
+ "kokler": [
+  {
+   "kelime": "ٱلرِّجَالُ",
+   "okunus": "erricâlü",
+   "kok": "رجل",
+   "kokAnlam": "erkek, adam",
+   "karsilik": "erkekler"
+  },
+  {
+   "kelime": "قَوَّٰمُونَ",
+   "okunus": "kavvâmûne",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, sorumluluk üstlenme, gözetme",
+   "karsilik": "gözetip koruyandır"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلنِّسَآءِ",
+   "okunus": "ennisâi",
+   "kok": "نسو",
+   "kokAnlam": "kadın",
+   "karsilik": "kadınların"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) dolayı",
+   "karsilik": "dolayı"
+  },
+  {
+   "kelime": "فَضَّلَ",
+   "okunus": "feddale",
+   "kok": "فضل",
+   "kokAnlam": "üstün kılma",
+   "karsilik": "üstün kıldığından"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "بَعْضَهُمْ",
+   "okunus": "ba'dahüm",
+   "kok": "بعض",
+   "kokAnlam": "bir kısım",
+   "karsilik": "kimini"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "kimine"
+  },
+  {
+   "kelime": "بَعْضٍ",
+   "okunus": "ba'dın",
+   "kok": "بعض",
+   "kokAnlam": "bir kısım",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "وَبِمَآ",
+   "okunus": "ve bimâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ve dolayı",
+   "karsilik": "ve dolayı"
+  },
+  {
+   "kelime": "أَنفَقُوا۟",
+   "okunus": "enfekû",
+   "kok": "نفق",
+   "kokAnlam": "harcama, infak etme",
+   "karsilik": "harcadıklarından"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَمْوَٰلِهِمْ",
+   "okunus": "emvâlihim",
+   "kok": "مول",
+   "kokAnlam": "mal, servet",
+   "karsilik": "mallarından"
+  },
+  {
+   "kelime": "فَٱلصَّٰلِحَٰتُ",
+   "okunus": "fes sâlihâtü",
+   "kok": "صلح",
+   "kokAnlam": "iyi olma, düzgün olma, uygunluk",
+   "karsilik": "iyi kadınlar"
+  },
+  {
+   "kelime": "قَٰنِتَٰتٌ",
+   "okunus": "kânitâtün",
+   "kok": "قنت",
+   "kokAnlam": "gönülden boyun eğme, itaat",
+   "karsilik": "gönülden itaat edendir"
+  },
+  {
+   "kelime": "حَٰفِظَٰتٌ",
+   "okunus": "hâfizâtün",
+   "kok": "حفظ",
+   "kokAnlam": "koruma, gözetme, saklama",
+   "karsilik": "koruyandır"
+  },
+  {
+   "kelime": "لِّلْغَيْبِ",
+   "okunus": "lilğaybi",
+   "kok": "غيب",
+   "kokAnlam": "görünmeyen, gizli olan",
+   "karsilik": "görünmeyeni"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) gibi",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "حَفِظَ",
+   "okunus": "hafiza",
+   "kok": "حفظ",
+   "kokAnlam": "koruma",
+   "karsilik": "koruduğu"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَٱلَّٰتِى",
+   "okunus": "vellâtî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve kadınlar ki",
+   "karsilik": "ve kadınlar ki"
+  },
+  {
+   "kelime": "تَخَافُونَ",
+   "okunus": "tehâfûne",
+   "kok": "خوف",
+   "kokAnlam": "korkma, endişe etme",
+   "karsilik": "korktuğunuz"
+  },
+  {
+   "kelime": "نُشُوزَهُنَّ",
+   "okunus": "nüşûzehünne",
+   "kok": "نشز",
+   "kokAnlam": "yükselme; baş kaldırma, uzaklaşma",
+   "karsilik": "baş kaldırmalarından"
+  },
+  {
+   "kelime": "فَعِظُوهُنَّ",
+   "okunus": "feizûhünne",
+   "kok": "وعظ",
+   "kokAnlam": "öğüt verme",
+   "karsilik": "onlara öğüt verin"
+  },
+  {
+   "kelime": "وَٱهْجُرُوهُنَّ",
+   "okunus": "vehcürûhünne",
+   "kok": "هجر",
+   "kokAnlam": "ayrılma, terk etme, uzak durma",
+   "karsilik": "onları yalnız bırakın"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْمَضَاجِعِ",
+   "okunus": "elmedâcii",
+   "kok": "ضجع",
+   "kokAnlam": "yatak, yatma yeri",
+   "karsilik": "yataklarda"
+  },
+  {
+   "kelime": "وَٱضْرِبُوهُنَّ",
+   "okunus": "vedribûhünne",
+   "kok": "ضرب",
+   "kokAnlam": "vurma; çok anlamlı kök (ayrılma/yola çıkma da içerir)",
+   "karsilik": "onları vurun"
+  },
+  {
+   "kelime": "فَإِنْ",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَطَعْنَكُمْ",
+   "okunus": "eta'neküm",
+   "kok": "طوع",
+   "kokAnlam": "itaat etme, boyun eğme",
+   "karsilik": "size itaat ederlerse"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) artık -meyin",
+   "karsilik": "artık -meyin"
+  },
+  {
+   "kelime": "تَبْغُوا۟",
+   "okunus": "tebğû",
+   "kok": "بغي",
+   "kokAnlam": "arama, peşine düşme, haksız isteme",
+   "karsilik": "aramayın"
+  },
+  {
+   "kelime": "عَلَيْهِنَّ",
+   "okunus": "aleyhinne",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlara karşı",
+   "karsilik": "onlara karşı"
+  },
+  {
+   "kelime": "سَبِيلًا",
+   "okunus": "sebîlen",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "bir yol"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dır"
+  },
+  {
+   "kelime": "عَلِيًّا",
+   "okunus": "aliyyen",
+   "kok": "علو",
+   "kokAnlam": "yücelik, yükseklik",
+   "karsilik": "çok yücedir"
+  },
+  {
+   "kelime": "كَبِيرًا",
+   "okunus": "kebîran",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük",
+   "karsilik": "çok büyüktür"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 32-33. ayetlerdeki kazanç ve pay temasından aile içi sorumluluk dağılımına geçer. 'Kavvâmûn' kökü, geçimi sağlama ve gözetme sorumluluğunu anlatır; ayet bunu, o dönemki toplumsal düzende erkeklerin mali yükümlülük taşımasına bağlar. Klasik tefsir bu ayeti, aile içinde sorumluluk ve harcama yükümlülüğü ile ilişkilendirir; bunun her toplumda ve her ailede aynı biçimde uygulanacağı iddia edilemez.",
+  "Ayetin ikinci yarısı, eşler arasında ciddi bir uyumsuzluk (nüşûz) durumunda izlenecek kademeli bir yol önerir: önce sözle uyarı, sonra mesafe koyma, sonra son bir adım. 'Darabe' kökünün Kur'an'da 'vurma' dışında 'ayrılma, yola çıkma' gibi anlamlarda da kullanıldığı bilinir; bu yüzden son adımın niteliği hakkında tefsirler arasında görüş farkları vardır. Klasik tefsirlerin çoğu bunu, yaralamayan, yüze dokunmayan, son çare olan sembolik bir davranış olarak sınırlandırır ve ayetin kendisi, kadın itaat ettiğinde artık ona karşı hiçbir yol aranamayacağını açıkça belirtir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:19",
+   "meal": "Ey iman edenler! Kadınlara zorla mirasçı olmanız size helal değildir... Onlarla iyi geçinin.",
+   "baglanti": "Aynı surede eşlerle iyi geçinme emri, 34. ayetteki sorumluluk temasını dengeleyen bir çerçeve sunar."
+  },
+  {
+   "ref": "30:21",
+   "meal": "Kendileriyle huzur bulasınız diye size kendi türünüzden eşler yaratması ve aranızda sevgi ile merhamet var etmesi O'nun ayetlerindendir.",
+   "baglanti": "Evlilik ilişkisinin temelinde sevgi ve merhamet olduğu bu ayette hatırlatılır; 34. ayetteki sorumluluk ve uyarı adımları bu temelin dışına çıkmamalıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, evlilik içindeki sorumluluk paylaşımı ve ciddi bir anlaşmazlık durumunda izlenecek kademeli bir yoldur; bu, dönemin toplumsal koşullarıyla iç içe, hukuki ve tefsirî tartışmaları olan özel bir alandır.",
+  "Bugüne taşınabilecek genel ders, bir ilişkideki sorunu büyütmeden önce konuşarak ve mesafe koyarak çözmeye çalışmaktır. Ayetin kendi içindeki sınırlama -itaat edildiğinde artık karşı bir yol aranmaması- ölçüyü aşmamanın, ilişkide gücü kötüye kullanmamanın önemine işaret eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önce konuş",
+   "aciklama": "Bir ilişkideki anlaşmazlıkta öfkeyle tepki vermeden önce bugün sakin bir şekilde konuşmayı dene."
+  },
+  {
+   "baslik": "Sorumluluğunu paylaş",
+   "aciklama": "Ailende veya ilişkinde üstlendiğin sorumluluğu bugün gözden geçir ve dengeli mi diye sor."
+  },
+  {
+   "baslik": "Ölçüyü koru",
+   "aciklama": "Bir anlaşmazlıkta karşındakini incitmeyecek, ölçülü bir tepki vermeye özen göster."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ilişkindeki küçük bir anlaşmazlığı, öfkeyle değil önce konuşarak çözmeyi dene.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=34"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/34"
+  }
+ ]
+}
