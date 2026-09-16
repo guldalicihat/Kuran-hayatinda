@@ -1,0 +1,313 @@
+{
+ "sure": 4,
+ "ayet": 153,
+ "durum": "taslak",
+ "meal": "Kitap ehli, senden kendilerine gökten bir kitap indirmeni istiyor. Gerçekten onlar Musa'dan bundan daha büyüğünü istemişlerdi; 'Bize Allah'ı açıkça göster' demişlerdi de zulümleri yüzünden onları yıldırım çarpmıştı. Sonra kendilerine apaçık deliller geldikten sonra buzağıyı (tanrı) edindiler; biz de bunu affettik ve Musa'ya apaçık bir güç/delil verdik.",
+ "mealNotu": "'Sâika' kökü صعق, ani ve sarsıcı bir çarpmayı (yıldırım gibi) anlatır. 'Sultânen mübînen' ifadesi burada Musa'ya verilen açık bir delil/yetki olarak çevrilmiştir; ayette bu delilin niteliği ayrıca açıklanmaz.",
+ "kokler": [
+  {
+   "kelime": "يَسْـَٔلُكَ",
+   "okunus": "yes'elüke",
+   "kok": "سأل",
+   "kokAnlam": "sorma, isteme",
+   "karsilik": "senden istiyor"
+  },
+  {
+   "kelime": "أَهْلُ",
+   "okunus": "ehlü",
+   "kok": "أهل",
+   "kokAnlam": "aile, ehil, mensup olma",
+   "karsilik": "ehli"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "Kitap'ın"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "تُنَزِّلَ",
+   "okunus": "tünezzile",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indiresin"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onların üzerine",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "كِتَٰبًا",
+   "okunus": "kitâben",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "bir kitap"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "gökten"
+  },
+  {
+   "kelime": "فَقَدْ",
+   "okunus": "fekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten, muhakkak",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "سَأَلُوا۟",
+   "okunus": "seelû",
+   "kok": "سأل",
+   "kokAnlam": "sorma, isteme",
+   "karsilik": "istemişlerdi"
+  },
+  {
+   "kelime": "مُوسَىٰ",
+   "okunus": "mûsâ",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Musa",
+   "karsilik": "Musa'dan"
+  },
+  {
+   "kelime": "أَكْبَرَ",
+   "okunus": "ekbera",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük",
+   "karsilik": "daha büyüğünü"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu, şu",
+   "karsilik": "bundan"
+  },
+  {
+   "kelime": "فَقَالُوٓا۟",
+   "okunus": "fekâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "demişlerdi"
+  },
+  {
+   "kelime": "أَرِنَا",
+   "okunus": "erinâ",
+   "kok": "رأي",
+   "kokAnlam": "görme, gösterme",
+   "karsilik": "bize göster"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ı"
+  },
+  {
+   "kelime": "جَهْرَةً",
+   "okunus": "cehraten",
+   "kok": "جهر",
+   "kokAnlam": "açığa çıkarma, yüksek sesle söyleme",
+   "karsilik": "açıkça"
+  },
+  {
+   "kelime": "فَأَخَذَتْهُمُ",
+   "okunus": "feehazethümü",
+   "kok": "أخذ",
+   "kokAnlam": "alma, yakalama",
+   "karsilik": "onları yakaladı"
+  },
+  {
+   "kelime": "ٱلصَّٰعِقَةُ",
+   "okunus": "essâikatü",
+   "kok": "صعق",
+   "kokAnlam": "yıldırım çarpması, sarsıcı ses",
+   "karsilik": "yıldırım"
+  },
+  {
+   "kelime": "بِظُلْمِهِمْ",
+   "okunus": "bizulmihim",
+   "kok": "ظلم",
+   "kokAnlam": "zulüm, haksızlık",
+   "karsilik": "zulümleri yüzünden"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ٱتَّخَذُوا۟",
+   "okunus": "ittehazû",
+   "kok": "أخذ",
+   "kokAnlam": "alma, edinme",
+   "karsilik": "edindiler"
+  },
+  {
+   "kelime": "ٱلْعِجْلَ",
+   "okunus": "el'icle",
+   "kok": "عجل",
+   "kokAnlam": "buzağı",
+   "karsilik": "buzağıyı (tanrı)"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonrası, ardı",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey ki",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "جَآءَتْهُمُ",
+   "okunus": "câethümü",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "geldikten"
+  },
+  {
+   "kelime": "ٱلْبَيِّنَٰتُ",
+   "okunus": "elbeyyinâtü",
+   "kok": "بين",
+   "kokAnlam": "açıklık; apaçık delil",
+   "karsilik": "apaçık deliller"
+  },
+  {
+   "kelime": "فَعَفَوْنَا",
+   "okunus": "feafevnâ",
+   "kok": "عفو",
+   "kokAnlam": "affetme, silme",
+   "karsilik": "biz de affettik"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu, şu",
+   "karsilik": "bunu"
+  },
+  {
+   "kelime": "وَءَاتَيْنَا",
+   "okunus": "ve âteynâ",
+   "kok": "أتي",
+   "kokAnlam": "getirme, verme",
+   "karsilik": "ve verdik"
+  },
+  {
+   "kelime": "مُوسَىٰ",
+   "okunus": "mûsâ",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Musa",
+   "karsilik": "Musa'ya"
+  },
+  {
+   "kelime": "سُلْطَٰنًا",
+   "okunus": "sültânen",
+   "kok": "سلط",
+   "kokAnlam": "güç, yetki, delil",
+   "karsilik": "apaçık bir güç/delil"
+  },
+  {
+   "kelime": "مُّبِينًا",
+   "okunus": "mübînen",
+   "kok": "بين",
+   "kokAnlam": "açıklık",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, kendisinden gökten bir kitap indirmesini isteyen bir grubun, geçmişte Musa'dan bunun da ötesinde bir talepte bulunduğunu hatırlatır: Allah'ı gözle görmek. Kur'an bu talebin sonucunu bir yıldırım çarpması ile anlatır; bunun tam olarak nasıl gerçekleştiği ayette detaylandırılmaz.",
+  "Ayetin devamı, kendilerine apaçık deliller geldikten sonra bile buzağıyı tanrı edinmelerini anlatır. Bu tarihî anlatı Kur'an'ın başka ayetlerinde de tekrarlanır; burada amaç geçmişi ayrıntılı anlatmak değil, aşırı ve yersiz taleplerin yeni değil, tekrar eden bir tutum olduğunu göstermektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:55",
+   "meal": "Hani demiştiniz ki: 'Ey Musa! Allah'ı açıkça görmedikçe sana asla inanmayacağız.' Bunun üzerine siz bakıp dururken sizi yıldırım çarpmıştı.",
+   "baglanti": "Nisâ 153'te özetle anlatılan 'Allah'ı açıkça göster' talebinin ve yıldırım çarpmasının daha ayrıntılı anlatımıdır."
+  },
+  {
+   "ref": "2:51",
+   "meal": "Hani Musa ile kırk gece için sözleşmiştik; sonra siz onun ardından buzağıyı (tanrı) edinmiş ve böylece zalim olmuştunuz.",
+   "baglanti": "153. ayette özetlenen buzağıya tapma olayının, aynı anlatının başka bir ayette geçen halidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmişte yaşanmış aşırı taleplerin ve bunların sonuçlarının hatırlatılmasıdır; bu, vahiy tarihine özgü bir anlatıdır.",
+  "Bugüne taşınabilecek ders, elimizdeki açık delilleri görmezden gelip sürekli yeni ve daha büyük kanıtlar istemenin, çoğu zaman ikna olmakla değil başka bir şeyle ilgili olduğudur. Bir konuda kararlı bir inkâr varsa, daha fazla delil de genelde yeterli gelmez."
+ ],
+ "bugun": [
+  {
+   "baslik": "Elindeki delili değerlendir",
+   "aciklama": "Bir konuda karar vermeden önce, zaten elinde olan bilgiyi görmezden gelip gelmediğini sorgula."
+  },
+  {
+   "baslik": "Aşırı beklentini fark et",
+   "aciklama": "Bir kişiden ya da durumdan imkânsız bir kanıt beklediğin bir anı düşün ve bunun gerçekçi olup olmadığını değerlendir."
+  },
+  {
+   "baslik": "Sabit fikirliliği sorgula",
+   "aciklama": "Bir konuda hiçbir delilin seni ikna etmeyeceği bir tutum içinde misin, bunu kendine sor."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda karar vermeden önce, elindeki bilgiyi tekrar gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=153"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/153"
+  }
+ ]
+}

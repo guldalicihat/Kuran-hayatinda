@@ -1,0 +1,306 @@
+{
+ "sure": 4,
+ "ayet": 141,
+ "durum": "taslak",
+ "meal": "Sizi gözetleyip beklerler. Allah'tan size bir zafer gelirse, 'Sizinle beraber değil miydik?' derler. Kâfirlere bir pay düşerse, 'Size üstünlük sağlayıp sizi müminlerden korumadık mı?' derler. Allah, kıyamet günü aranızda hükmedecektir. Allah, kâfirlere müminlerin aleyhine asla bir yol vermeyecektir.",
+ "mealNotu": "'Yeterabbesûne' kökü, bir şeyin sonucunu bekleyip fırsat kollamayı anlatır. 'Nestahviz' kökü ele geçirme ve üstünlük kurmayı ifade eder; burada münafıkların kâfirlere yardım ettikleri iddiasını taşır.",
+ "kokler": [
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler ki",
+   "karsilik": "o kimseler ki"
+  },
+  {
+   "kelime": "يَتَرَبَّصُونَ",
+   "okunus": "yeterabbesûne",
+   "kok": "ربص",
+   "kokAnlam": "bekleme, fırsat kollama",
+   "karsilik": "sizi gözetleyip beklerler"
+  },
+  {
+   "kelime": "بِكُمْ",
+   "okunus": "biküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizi",
+   "karsilik": "sizi"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olursa"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size, sizin için",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "فَتْحٌ",
+   "okunus": "fethun",
+   "kok": "فتح",
+   "kokAnlam": "açma; zafer, fetih",
+   "karsilik": "bir zafer"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "قَالُوٓا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuz soru) değil miydik",
+   "karsilik": "değil miydik"
+  },
+  {
+   "kelime": "نَكُن",
+   "okunus": "nekün",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "مَّعَكُمْ",
+   "okunus": "meaküm",
+   "kok": "—",
+   "kokAnlam": "(yer) sizinle beraber",
+   "karsilik": "sizinle beraber"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olursa"
+  },
+  {
+   "kelime": "لِلْكَٰفِرِينَ",
+   "okunus": "lilkâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "kâfirlere"
+  },
+  {
+   "kelime": "نَصِيبٌ",
+   "okunus": "nesîbün",
+   "kok": "نصب",
+   "kokAnlam": "pay, hisse",
+   "karsilik": "bir pay"
+  },
+  {
+   "kelime": "قَالُوٓا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuz soru) değil miydik",
+   "karsilik": "değil miydik"
+  },
+  {
+   "kelime": "نَسْتَحْوِذْ",
+   "okunus": "nestahviz",
+   "kok": "حوذ",
+   "kokAnlam": "üstünlük kurma, hâkim olma",
+   "karsilik": "size üstünlük sağlayan"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizin üzerinize",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "وَنَمْنَعْكُم",
+   "okunus": "ve nemna'küm",
+   "kok": "منع",
+   "kokAnlam": "engelleme, alıkoyma",
+   "karsilik": "ve sizi koruyan"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنِينَ",
+   "okunus": "elmü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet",
+   "karsilik": "müminlerden"
+  },
+  {
+   "kelime": "فَٱللَّهُ",
+   "okunus": "fallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَحْكُمُ",
+   "okunus": "yahkümü",
+   "kok": "حكم",
+   "kokAnlam": "hükmetme",
+   "karsilik": "hükmedecektir"
+  },
+  {
+   "kelime": "بَيْنَكُمْ",
+   "okunus": "beyneküm",
+   "kok": "بين",
+   "kokAnlam": "arası, arada",
+   "karsilik": "aranızda"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "ٱلْقِيَٰمَةِ",
+   "okunus": "elkıyâmeti",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; kıyam",
+   "karsilik": "kıyamet"
+  },
+  {
+   "kelime": "وَلَن",
+   "okunus": "ve len",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) asla",
+   "karsilik": "ve asla"
+  },
+  {
+   "kelime": "يَجْعَلَ",
+   "okunus": "yec'ale",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "vermeyecektir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لِلْكَٰفِرِينَ",
+   "okunus": "lilkâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "kâfirlere"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنِينَ",
+   "okunus": "elmü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet",
+   "karsilik": "müminlerin"
+  },
+  {
+   "kelime": "سَبِيلًا",
+   "okunus": "sebîlen",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "bir yol"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, münafıkların iki taraflı beklenti içinde olduğunu anlatır. Zafer müminlerin olursa kendilerini onlardan sayarlar; üstünlük kâfirlerde olursa bu kez kâfirlere yardım ettiklerini öne sürerler. 'Yeterabbesûne' kökü, sonucu görmeden taraf tutmayan, fırsatı kollayan bir bekleyişi anlatır.",
+  "Ayetin sonu bu tutarsızlığa net bir cevap verir: nihai hüküm insanların iddialarına değil, Allah'ın kıyamet günündeki hükmüne bağlıdır. Klasik tefsir, 'kâfirlere müminler üzerinde bir yol verilmeyeceği' ifadesini, müminlerin nihai olarak üstün geleceğine dair bir vaat olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "9:67",
+   "meal": "Münafık erkekler ve münafık kadınlar birbirinin benzeridir; kötülüğü emreder, iyilikten alıkoyar ve ellerini sıkı tutarlar. Allah'ı unuttular, Allah da onları unuttu. Şüphesiz münafıklar, yoldan çıkanların ta kendileridir.",
+   "baglanti": "Münafıkların ortak karakterini tarif eder; Nisâ 141'deki fırsatçı, çıkarcı tavır bu genel tanımın somut bir örneğidir."
+  },
+  {
+   "ref": "58:14",
+   "meal": "Allah'ın kendilerine gazap ettiği bir topluluğu dost edinenleri görmedin mi? Onlar ne sizdendir ne onlardan; bilerek yalan yere yemin ederler.",
+   "baglanti": "'Ne sizdendir ne onlardan' ifadesi, Nisâ 141'deki iki tarafa da yaslanan tutarsız tavrı doğrudan tarif eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, savaş ve zafer/kayıp durumlarında ortaya çıkan çıkarcı tavırdır; münafıklar sonuca göre taraf değiştirir.",
+  "Günlük hayata taşınabilecek ders, başarıya ortak olup zorlukta kaybolan ilişkilerin sağlıksızlığıdır. Gerçek bağlılık, işler iyi gitmediğinde de yanında kalmakla ölçülür; yalnızca kazançlı görünen tarafta durmak, ayetin eleştirdiği tutumla aynı köktendir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İyi günün dostunu ayır",
+   "aciklama": "Bir ilişkinin yalnızca senin başarındayken mi yoksa her koşulda mı sürdüğünü düşün."
+  },
+  {
+   "baslik": "Taraf değiştirme alışkanlığını fark et",
+   "aciklama": "Bugün bir tartışmada kazanan tarafa göre fikrini değiştirip değiştirmediğini gözlemle."
+  },
+  {
+   "baslik": "Zor günde birinin yanında ol",
+   "aciklama": "Bugün zor bir dönem geçiren birine, sonucu belli olmadan destek olduğunu göster."
+  }
+ ],
+ "bugununAdimi": "Bugün zor bir süreçten geçen birini ara ve sonucu ne olursa olsun yanında olduğunu söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=141"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/141"
+  }
+ ]
+}

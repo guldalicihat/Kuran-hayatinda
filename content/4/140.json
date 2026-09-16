@@ -1,0 +1,285 @@
+{
+ "sure": 4,
+ "ayet": 140,
+ "durum": "taslak",
+ "meal": "Allah size Kitap'ta, Allah'ın ayetlerinin inkâr edildiğini ve onlarla alay edildiğini işittiğinizde, o kişiler başka bir söze dalıncaya kadar yanlarında oturmayın diye [gerçekten] indirmişti. Yoksa siz de o zaman onlar gibi olursunuz. Şüphesiz Allah, münafıkları ve kâfirleri cehennemde hep birlikte toplayacaktır.",
+ "mealNotu": "'Yükferu' ve 'yüstehzeü' edilgen fiillerdir; ayetlerin inkâr edilmesi ve alaya alınması kastedilir. 'Nezzele' fiilinin öznesi metinde ayrı bir kelimeyle verilmez, bağlamdan [gerçekten Allah] olarak eklenmiştir. 'Cemîan' kelimesi 'hep birlikte, bir arada' anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "وَقَدْ",
+   "okunus": "ve kad",
+   "kok": "—",
+   "kokAnlam": "(te'kid) elbette, gerçekten",
+   "karsilik": "ve gerçekten"
+  },
+  {
+   "kelime": "نَزَّلَ",
+   "okunus": "nezzele",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdi"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizin üzerinize",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "Kitap'ın"
+  },
+  {
+   "kelime": "أَنْ",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) diye, ki",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "إِذًا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığınızda"
+  },
+  {
+   "kelime": "سَمِعْتُمْ",
+   "okunus": "semi'tüm",
+   "kok": "سمع",
+   "kokAnlam": "işitme",
+   "karsilik": "işittiğiniz"
+  },
+  {
+   "kelime": "ءَايَٰتِ",
+   "okunus": "âyâti",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alâmet; ayet",
+   "karsilik": "ayetlerinin"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "يُكْفَرُ",
+   "okunus": "yükferu",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr edildiğini"
+  },
+  {
+   "kelime": "بِهَا",
+   "okunus": "bihâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlar(la)",
+   "karsilik": "onları"
+  },
+  {
+   "kelime": "وَيُسْتَهْزَأُ",
+   "okunus": "ve yüstehzeü",
+   "kok": "هزأ",
+   "kokAnlam": "alay etme",
+   "karsilik": "ve alay edildiğini"
+  },
+  {
+   "kelime": "بِهَا",
+   "okunus": "bihâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlar(la)",
+   "karsilik": "onlarla"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) artık ...mayın",
+   "karsilik": "o halde ...mayın"
+  },
+  {
+   "kelime": "تَقْعُدُوا۟",
+   "okunus": "tek'udû",
+   "kok": "قعد",
+   "kokAnlam": "oturma",
+   "karsilik": "oturmayın"
+  },
+  {
+   "kelime": "مَعَهُمْ",
+   "okunus": "meahüm",
+   "kok": "—",
+   "kokAnlam": "(yer) onlarla beraber",
+   "karsilik": "onlarla"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "يَخُوضُوا۟",
+   "okunus": "yehûdû",
+   "kok": "خوض",
+   "kokAnlam": "dalma, girişme",
+   "karsilik": "dalıncaya"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içine, -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "حَدِيثٍ",
+   "okunus": "hadîsin",
+   "kok": "حدث",
+   "kokAnlam": "söz, konuşma",
+   "karsilik": "bir söze"
+  },
+  {
+   "kelime": "غَيْرِهِۦٓ",
+   "okunus": "gayrihî",
+   "kok": "غير",
+   "kokAnlam": "başkalık, gayrilik",
+   "karsilik": "ondan başka"
+  },
+  {
+   "kelime": "إِنَّكُمْ",
+   "okunus": "inneküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz siz",
+   "karsilik": "şüphesiz siz"
+  },
+  {
+   "kelime": "إِذًا",
+   "okunus": "izen",
+   "kok": "—",
+   "kokAnlam": "(cevap) o takdirde",
+   "karsilik": "o zaman"
+  },
+  {
+   "kelime": "مِّثْلُهُمْ",
+   "okunus": "mislühüm",
+   "kok": "مثل",
+   "kokAnlam": "benzer, misal",
+   "karsilik": "onlar gibi olursunuz"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "جَامِعُ",
+   "okunus": "câmiu",
+   "kok": "جمع",
+   "kokAnlam": "toplama, bir araya getirme",
+   "karsilik": "toplayacak olandır"
+  },
+  {
+   "kelime": "ٱلْمُنَٰفِقِينَ",
+   "okunus": "elmünâfikîne",
+   "kok": "نفق",
+   "kokAnlam": "tünel kazma; gizlice çıkma; ikiyüzlülük",
+   "karsilik": "münafıkları"
+  },
+  {
+   "kelime": "وَٱلْكَٰفِرِينَ",
+   "okunus": "vel kâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "ve kâfirleri"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "جَهَنَّمَ",
+   "okunus": "cehenneme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) cehennem",
+   "karsilik": "cehennemin"
+  },
+  {
+   "kelime": "جَمِيعًا",
+   "okunus": "cemîan",
+   "kok": "جمع",
+   "kokAnlam": "toplama, birlik",
+   "karsilik": "hep birlikte"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, daha önce böyle bir emrin Kitap'ta zaten verildiğini hatırlatır. Allah'ın ayetleriyle alay edilen bir ortamda oturmaya devam etmek, o alayı zımnen onaylamak gibi görülür; bu yüzden konu değişinceye kadar o mecliste kalınmaması istenir.",
+  "Ayetin sonu, bu uyarıyı ağır bir sonuçla bağlar: kim bu tavrı önemsemezse, kendisi de eleştirilen kişilerle 'aynı' sayılır. Ardından Allah'ın münafıkları ve kâfirleri cehennemde bir arada toplayacağı bildirilir; bu, iki grubun farklı görünse de aynı zeminde buluştuğuna işaret eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:68",
+   "meal": "Ayetlerimiz hakkında ileri geri konuşanları gördüğünde, onlar başka bir söze dalıncaya kadar onlardan yüz çevir. Eğer şeytan sana unutturursa, hatırladıktan sonra artık o zalimler topluluğuyla oturma.",
+   "baglanti": "Nisâ 140'taki emrin daha önce hangi ayette verildiğine işaret eder; aynı 'başka söze dalıncaya kadar' ifadesi burada da geçer."
+  },
+  {
+   "ref": "9:68",
+   "meal": "Allah, münafık erkeklere, münafık kadınlara ve kâfirlere, içinde ebedî kalacakları cehennem ateşini vaat etti; bu onlara yeter. Allah onlara lânet etmiştir ve onlar için kalıcı bir azap vardır.",
+   "baglanti": "Nisâ 140'ın sonundaki 'Allah münafıkları ve kâfirleri cehennemde toplayacak' ifadesiyle aynı vaadi doğrular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah'ın ayetleriyle alay edilen bir toplantıda müminin nasıl davranması gerektiğidir; burada bahsedilen 'oturmama' fiziksel bir mecliste kalma-kalmama durumudur.",
+  "Bugüne taşınabilecek ders, bir ortamda değerlerine aykırı bir şeyin alay konusu edildiğini fark ettiğinde sessizce orada kalmanın da bir tür ortaklık sayılabileceğidir. Konuyu değiştirmek, ortamdan ayrılmak ya da itiraz etmek; sessiz kalıp devam etmekten daha tutarlı bir tavırdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Rahatsız olduğun anı fark et",
+   "aciklama": "Bugün bir sohbette değerlerine aykırı bir şaka veya söz duyduğunda, bunu içinden geçirip ne hissettiğini fark et."
+  },
+  {
+   "baslik": "Konuyu nazikçe değiştir",
+   "aciklama": "Rahatsız edici bir konuşma sürerken, sohbeti başka bir konuya çevirmeyi dene."
+  },
+  {
+   "baslik": "Gerekirse ortamdan çık",
+   "aciklama": "Konu değişmiyorsa, kibarca ortamdan ayrılmayı bir seçenek olarak düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün rahatsız edici bir konuşmaya şahit olursan, sessiz kalmak yerine konuyu değiştirmeyi ya da ortamdan ayrılmayı dene.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=140"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/140"
+  }
+ ]
+}
