@@ -1,0 +1,355 @@
+{
+ "sure": 2,
+ "ayet": 258,
+ "durum": "taslak",
+ "meal": "Allah kendisine hükümranlık verdi diye Rabbi hakkında İbrahim'le tartışanı görmedin mi? İbrahim, 'Benim Rabbim diriltir ve öldürür' demişti. O, 'Ben de diriltir ve öldürürüm' dedi. İbrahim, 'Şüphesiz Allah güneşi doğudan getirir, sen de onu batıdan getir' dedi. Bunun üzerine inkâr eden şaşırıp kaldı. Allah, zalimler topluluğunu doğru yola iletmez.",
+ "mealNotu": "Kök temelli meal. 'Hâcce' kökü karşılıklı tartışma, delil öne sürmeyi anlatır. 'Bühite' kökü şaşkınlıktan söz söyleyememeyi ifade eder; 'şaşırıp kaldı' bu anlamı taşır. Tartışan kişinin adı ayette geçmez; klasik tefsir bunu genellikle döneminin bir hükümdarı olarak açıklar.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk+soru) değil mi",
+   "karsilik": "görmedin mi"
+  },
+  {
+   "kelime": "تَرَ",
+   "okunus": "tera",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görmedin"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki o",
+   "karsilik": "kimseyi"
+  },
+  {
+   "kelime": "حَآجَّ",
+   "okunus": "hâcce",
+   "kok": "حجج",
+   "kokAnlam": "delil öne sürme, tartışma",
+   "karsilik": "tartışan"
+  },
+  {
+   "kelime": "إِبْرَٰهِۦمُ",
+   "okunus": "ibrâhîme",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İbrahim'le"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "رَبِّهِۦٓ",
+   "okunus": "rabbihî",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme; Rab",
+   "karsilik": "Rabbi"
+  },
+  {
+   "kelime": "أَنْ",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) diye",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "ءَاتَىٰهُ",
+   "okunus": "âtâhü",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "kendisine verdi"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلْمُلْكَ",
+   "okunus": "elmülke",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, hükümranlık",
+   "karsilik": "hükümranlığı"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "demişti"
+  },
+  {
+   "kelime": "إِبْرَٰهِۦمُ",
+   "okunus": "ibrâhîmü",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İbrahim"
+  },
+  {
+   "kelime": "رَبِّىَ",
+   "okunus": "rabbiye",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme; Rab",
+   "karsilik": "Rabbim"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki o",
+   "karsilik": "-dir ki"
+  },
+  {
+   "kelime": "يُحْىِۦ",
+   "okunus": "yühyî",
+   "kok": "حيي",
+   "kokAnlam": "diri kılma, hayat verme",
+   "karsilik": "diriltir"
+  },
+  {
+   "kelime": "وَيُمِيتُ",
+   "okunus": "ve yümîtü",
+   "kok": "موت",
+   "kokAnlam": "öldürme",
+   "karsilik": "ve öldürür"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "أَنَا۠",
+   "okunus": "ene",
+   "kok": "—",
+   "kokAnlam": "(zamir) ben",
+   "karsilik": "ben"
+  },
+  {
+   "kelime": "أُحْىِۦ",
+   "okunus": "ühyî",
+   "kok": "حيي",
+   "kokAnlam": "diri kılma, hayat verme",
+   "karsilik": "diriltirim"
+  },
+  {
+   "kelime": "وَأُمِيتُ",
+   "okunus": "ve ümîtü",
+   "kok": "موت",
+   "kokAnlam": "öldürme",
+   "karsilik": "ve öldürürüm"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "إِبْرَٰهِۦمُ",
+   "okunus": "ibrâhîmü",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İbrahim"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَأْتِى",
+   "okunus": "ye'tî",
+   "kok": "أتي",
+   "kokAnlam": "getirme, gelme",
+   "karsilik": "getirir"
+  },
+  {
+   "kelime": "بِٱلشَّمْسِ",
+   "okunus": "biş şemsi",
+   "kok": "شمس",
+   "kokAnlam": "güneş",
+   "karsilik": "güneşi"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمَشْرِقِ",
+   "okunus": "elmeşrikı",
+   "kok": "شرق",
+   "kokAnlam": "doğma; doğu",
+   "karsilik": "doğudan"
+  },
+  {
+   "kelime": "فَأْتِ",
+   "okunus": "fe'ti",
+   "kok": "أتي",
+   "kokAnlam": "getirme, gelme",
+   "karsilik": "sen getir"
+  },
+  {
+   "kelime": "بِهَا",
+   "okunus": "bihâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمَغْرِبِ",
+   "okunus": "elmağribi",
+   "kok": "غرب",
+   "kokAnlam": "batma; batı",
+   "karsilik": "batıdan"
+  },
+  {
+   "kelime": "فَبُهِتَ",
+   "okunus": "febühite",
+   "kok": "بهت",
+   "kokAnlam": "şaşkınlıktan söz edememe",
+   "karsilik": "şaşırıp kaldı"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki o",
+   "karsilik": "kimse"
+  },
+  {
+   "kelime": "كَفَرَ",
+   "okunus": "kefera",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr eden"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "-maz"
+  },
+  {
+   "kelime": "يَهْدِى",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme",
+   "karsilik": "doğru yola iletmez"
+  },
+  {
+   "kelime": "ٱلْقَوْمَ",
+   "okunus": "elkavme",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk",
+   "karsilik": "topluluğu"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمِينَ",
+   "okunus": "ezzâlimîne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, zulmetme",
+   "karsilik": "zalimler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, kendisine hükümranlık verilmesiyle şımaran ve bu yüzden İbrahim'le Rabbi hakkında tartışan bir kişiyi anlatır. Klasik tefsir bu kişiyi genellikle dönemin bir hükümdarı olarak açıklar. İbrahim, Rabbinin diriltip öldürdüğünü söyleyince karşı taraf bunu boş bir iddiayla karşılamaya çalışır.",
+  "İbrahim, tartışmayı somut ve karşı çıkılamaz bir delille sonlandırır: güneşi doğudan getiren Allah'tır, sen onu batıdan getir. Bu istek yerine getirilemeyince inkâr eden şaşırıp susar. Ayet, bu tavrı zulüm olarak nitelendirip Allah'ın zalimler topluluğunu doğru yola iletmediğini hatırlatarak kapanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:26",
+   "meal": "De ki: Ey mülkün sahibi olan Allah! Mülkü dilediğine verirsin, dilediğinden çekip alırsın; dilediğini yükseltir, dilediğini alçaltırsın.",
+   "baglanti": "Ayetteki kişiye hükümranlık verilmesinin, aslında Allah'ın elinde olan bir şey olduğunu hatırlatır."
+  },
+  {
+   "ref": "40:68",
+   "meal": "O, diriltir ve öldürür. Bir işe hükmettiğinde ona sadece 'Ol' der, o da hemen olur.",
+   "baglanti": "İbrahim'in 'Rabbim diriltir ve öldürür' sözünü, aynı iki fiille doğrudan teyit eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir hükümdarla İbrahim arasındaki tevhid tartışmasıdır. Bu, tarihî ve itikadi bir olaydır; klasik tefsir ayrıntılarını farklı şekillerde aktarır.",
+  "Günlük hayata taşınabilecek ders, güç veya konum sahibi olmanın kişiyi haklı yapmadığıdır. İbrahim'in yaklaşımı da örnek alınabilir: karşı tarafı küçümsemeden, açık ve tartışılamaz bir delille konuşmak, öfkeli bir tartışmadan daha etkili sonuç verir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Delille konuş",
+   "aciklama": "Bugün bir konuda fikrini savunurken duygudan çok somut bir örnek veya veri kullan."
+  },
+  {
+   "baslik": "Gücün seni yanıltmasın",
+   "aciklama": "Bir konuda avantajlı olduğun bir durumda karşındakine hâlâ adil davran."
+  },
+  {
+   "baslik": "Şaşırınca susmayı öğren",
+   "aciklama": "Cevap bulamadığın bir anda hemen savunmaya geçmek yerine düşünmek için zaman iste."
+  }
+ ],
+ "bugununAdimi": "Bugün bir tartışmada duygudan çok somut bir örnekle konuş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=258"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/258"
+  }
+ ]
+}

@@ -1,0 +1,222 @@
+{
+ "sure": 2,
+ "ayet": 257,
+ "durum": "taslak",
+ "meal": "Allah, iman edenlerin velisidir; onları karanlıklardan aydınlığa çıkarır. İnkâr edenlerin velileri ise tâğûttur; onları aydınlıktan karanlıklara çıkarırlar. İşte onlar ateş halkıdır; onlar orada temelli kalıcıdırlar.",
+ "mealNotu": "Kök temelli meal. 'Velî' kökü hem dostluğu hem de koruyup gözetmeyi birlikte taşır; bu yüzden 'dost' yerine 'veli' bırakılmıştır. 'Zulümât' ve 'nûr' kökleri karanlık-aydınlık zıtlığını doğrudan verir; ayetteki mecaz (iman-küfür) köşeli parantezle değil, bağlamdan anlaşılır bırakılmıştır.",
+ "kokler": [
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَلِىُّ",
+   "okunus": "veliyyü",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, dostluk; koruyup gözeten",
+   "karsilik": "velisidir"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "يُخْرِجُهُم",
+   "okunus": "yühricühüm",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma",
+   "karsilik": "onları çıkarır"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلظُّلُمَٰتِ",
+   "okunus": "ezzulümâti",
+   "kok": "ظلم",
+   "kokAnlam": "karanlık",
+   "karsilik": "karanlıklardan"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلنُّورِ",
+   "okunus": "ennûri",
+   "kok": "نور",
+   "kokAnlam": "aydınlık, ışık",
+   "karsilik": "aydınlığa"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "كَفَرُوٓا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr edenler"
+  },
+  {
+   "kelime": "أَوْلِيَآؤُهُمُ",
+   "okunus": "evliyâühümü",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, dostluk; koruyup gözeten",
+   "karsilik": "onların velileri"
+  },
+  {
+   "kelime": "ٱلطَّٰغُوتُ",
+   "okunus": "ettâğûtü",
+   "kok": "طغي",
+   "kokAnlam": "azgınlık; azgın güç, sahte ilah",
+   "karsilik": "tâğûttur"
+  },
+  {
+   "kelime": "يُخْرِجُونَهُم",
+   "okunus": "yühricûnehüm",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma",
+   "karsilik": "onları çıkarırlar"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلنُّورِ",
+   "okunus": "ennûri",
+   "kok": "نور",
+   "kokAnlam": "aydınlık, ışık",
+   "karsilik": "aydınlıktan"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلظُّلُمَٰتِ",
+   "okunus": "ezzulümâti",
+   "kok": "ظلم",
+   "kokAnlam": "karanlık",
+   "karsilik": "karanlıklara"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "أَصْحَٰبُ",
+   "okunus": "ashâbü",
+   "kok": "صحب",
+   "kokAnlam": "arkadaşlık, birliktelik; halk",
+   "karsilik": "halkıdır"
+  },
+  {
+   "kelime": "ٱلنَّارِ",
+   "okunus": "ennâri",
+   "kok": "نور",
+   "kokAnlam": "ışık, ateş",
+   "karsilik": "ateş"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onda",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "خَٰلِدُونَ",
+   "okunus": "hâlidûne",
+   "kok": "خلد",
+   "kokAnlam": "süreklilik, ebedîlik",
+   "karsilik": "temelli kalıcıdırlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, iki karşıt veliliği anlatır. Allah, iman edenlerin velisi olarak onları karanlıktan aydınlığa çıkarır; bu karanlık-aydınlık zıtlığı, bilgisizlik ve sapkınlıkla hidayet arasındaki farkı anlatan bir mecazdır. Bir önceki ayetteki 'kopmayan sağlam kulp' imgesiyle bağlantılı olarak, imanın güvenli bir yol olduğunu pekiştirir.",
+  "İnkâr edenlerin velisi ise tâğûttur ve onları aydınlıktan karanlığa çıkarır; yön burada tam tersine döner. Ayet, bu kişileri 'ateş halkı' olarak nitelendirip orada temelli kalacaklarını söyleyerek konuyu sonuca bağlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:16",
+   "meal": "Allah bununla, rızasına uyanları esenlik yollarına iletir; onları izniyle karanlıklardan aydınlığa çıkarır ve onları dosdoğru bir yola yöneltir.",
+   "baglanti": "Aynı 'karanlıklardan aydınlığa çıkarma' ifadesini, hidayetin yol boyutuyla birlikte tekrarlar."
+  },
+  {
+   "ref": "14:1",
+   "meal": "Elif Lâm Râ. Bu, Rablerinin izniyle insanları karanlıklardan aydınlığa, güçlü ve övgüye layık olanın yoluna çıkarman için sana indirdiğimiz bir kitaptır.",
+   "baglanti": "Kur'an'ın indiriliş amacını, aynı karanlık-aydınlık mecazıyla tanımlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kimin veli (dost, koruyucu) edinildiğidir; bu iman ile ilgili temel bir tercihtir. Ayet, bu tercihin sonucunu karanlık ve aydınlık olarak somutlaştırır.",
+  "Günlük hayata taşınabilecek ders, kimi rehber edindiğinin önemli olduğudur. Fikir aldığın, örnek aldığın kaynaklar seni bir yöne çeker; bu kaynağın seni aydınlatan mı yoksa yanıltan mı olduğunu ara sıra gözden geçirmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Rehberlerini gözden geçir",
+   "aciklama": "Bugün fikir aldığın üç kaynağı (kişi, hesap, program) listele ve seni nasıl etkilediklerini düşün."
+  },
+  {
+   "baslik": "Aydınlatan bir bilgi paylaş",
+   "aciklama": "Bugün öğrendiğin doğru ve faydalı bir bilgiyi birine anlat."
+  },
+  {
+   "baslik": "Yanıltıcı bir alışkanlığı azalt",
+   "aciklama": "Seni yanlış yöne çeken bir alışkanlığı bugün bir kez erteleyip yerine faydalı bir şey koy."
+  }
+ ],
+ "bugununAdimi": "Bugün fikir aldığın kaynaklardan birini seç ve onun seni doğruya mı yanlışa mı yönelttiğini değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=257"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/257"
+  }
+ ]
+}

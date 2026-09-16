@@ -1,0 +1,236 @@
+{
+ "sure": 3,
+ "ayet": 19,
+ "durum": "taslak",
+ "meal": "Şüphesiz Allah katında din İslam'dır. Kendilerine kitap verilenler, kendilerine ilim geldikten sonra sadece aralarındaki azgınlık yüzünden ayrılığa düştüler. Kim Allah'ın ayetlerini inkâr ederse, bilsin ki Allah hesabı çabuk görendir.",
+ "mealNotu": "'İslâm' kökü (selm) teslimiyet ve barışı anlatır; burada Allah'a teslim olmayı ifade eder. 'Bağyen beynehüm' ifadesi 'aralarındaki azgınlık/haset yüzünden' anlamına gelir; ayrılığın bilgisizlikten değil, bilerek yapılan bir haksızlıktan kaynaklandığını vurgular.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلدِّينَ",
+   "okunus": "eddîne",
+   "kok": "دين",
+   "kokAnlam": "borç, ceza, din; boyun eğilen düzen",
+   "karsilik": "din"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "yan, kat",
+   "karsilik": "katında"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "ٱلْإِسْلَٰمُ",
+   "okunus": "el'islâmü",
+   "kok": "سلم",
+   "kokAnlam": "teslimiyet, barış, esenlik",
+   "karsilik": "İslam'dır"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "ve ... değil"
+  },
+  {
+   "kelime": "ٱخْتَلَفَ",
+   "okunus": "ihtelefe",
+   "kok": "خلف",
+   "kokAnlam": "geride bırakma; ayrılığa düşme",
+   "karsilik": "ayrılığa düştüler"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimseler",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "أُوتُوا۟",
+   "okunus": "ûtû",
+   "kok": "أتي",
+   "kokAnlam": "gelme; verilme",
+   "karsilik": "kitap verilenler"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı olan, kitap",
+   "karsilik": "kitap"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna edatı) ancak, başka",
+   "karsilik": "sadece"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "mim",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra olma",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şey",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "جَآءَهُمُ",
+   "okunus": "câehümü",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "kendilerine geldi"
+  },
+  {
+   "kelime": "ٱلْعِلْمُ",
+   "okunus": "el'ilmü",
+   "kok": "علم",
+   "kokAnlam": "bilgi, ilim",
+   "karsilik": "ilim"
+  },
+  {
+   "kelime": "بَغْيًۢا",
+   "okunus": "bağyem",
+   "kok": "بغي",
+   "kokAnlam": "azgınlık, haddi aşma, haset",
+   "karsilik": "azgınlık yüzünden"
+  },
+  {
+   "kelime": "بَيْنَهُمْ",
+   "okunus": "beynehüm",
+   "kok": "بين",
+   "kokAnlam": "arasında olma",
+   "karsilik": "aralarındaki"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart edatı) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "يَكْفُرْ",
+   "okunus": "yekfür",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr ederse"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِ",
+   "okunus": "biâyâti",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alâmet; Kur'an ayeti",
+   "karsilik": "ayetlerini"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) bilsin ki şüphesiz",
+   "karsilik": "bilsin ki şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "سَرِيعُ",
+   "okunus": "serîu",
+   "kok": "سرع",
+   "kokAnlam": "hız, çabukluk",
+   "karsilik": "çabuk görendir"
+  },
+  {
+   "kelime": "ٱلْحِسَابِ",
+   "okunus": "elhisâbi",
+   "kok": "حسب",
+   "kokAnlam": "sayma, hesap",
+   "karsilik": "hesabı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Allah katında geçerli olan dinin İslam, yani Allah'a teslim olmak olduğunu bildirir. Ardından, kendilerine kitap verilenlerin (Yahudi ve Hristiyanlar) bu konuda ayrılığa düşmesinin bilgisizlikten değil, kendilerine ilim geldikten sonra aralarındaki azgınlık ve çekişmeden kaynaklandığını söyler.",
+  "Bu ayet, önceki ayetlerdeki tevhid ve ilim vurgusunu dinin birliğine bağlar. Klasik tefsir, buradaki ayrılığın bilerek yapıldığını, dolayısıyla mazur görülemeyeceğini vurgular; ayet, ayetleri inkâr edenlerin hesabının çabuk görüleceğini hatırlatarak biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:85",
+   "meal": "Kim İslam'dan başka bir din ararsa, ondan asla kabul edilmez; o ahirette de hüsrana uğrayanlardandır.",
+   "baglanti": "Aynı surenin ilerleyen bir ayeti, bu ayetteki 'din İslam'dır' ilkesini daha kesin bir dille tekrarlar."
+  },
+  {
+   "ref": "5:3",
+   "meal": "...Bugün sizin için dininizi kemale erdirdim, üzerinizdeki nimetimi tamamladım ve size din olarak İslam'ı seçtim.",
+   "baglanti": "Mâide suresindeki bu ayet, İslam'ın Allah katında razı olunan din olarak seçildiğini doğrudan ifade eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu dinin ne olduğu ve din mensupları arasındaki ayrılığın sebebidir; günlük bir hüküm içermez. Ancak burada dikkat çeken, ayrılığın çoğu zaman bilgisizlikten değil, kişisel çıkar ve inatlaşmadan kaynaklandığıdır.",
+  "Günlük hayatta bu, bir tartışmada veya anlaşmazlıkta kendine sorulması gereken bir soru sunar: bu ayrılık gerçekten bir bilgi eksikliğinden mi, yoksa inat ve çıkardan mı kaynaklanıyor? Bunu ayırt etmek, kişiyi daha dürüst bir öz değerlendirmeye yöneltir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ayrılığın kaynağını sorgula",
+   "aciklama": "Bugün bir anlaşmazlıkta, karşındakiyle aranızdaki farkın bilgi eksikliğinden mi inattan mı kaynaklandığını düşün."
+  },
+  {
+   "baslik": "Teslimiyeti hatırla",
+   "aciklama": "Bugün zor bir kararda, kendi isteğini Allah'ın rızasına göre gözden geçir."
+  },
+  {
+   "baslik": "Hesabı unutma",
+   "aciklama": "Bugün bir sözünü veya davranışını, bunun bir gün hesabının sorulacağını düşünerek gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir anlaşmazlıkta inat etmek yerine, ortak bir doğruyu bulmaya çalış.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=19"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/19"
+  }
+ ]
+}

@@ -1,0 +1,243 @@
+{
+ "sure": 3,
+ "ayet": 28,
+ "durum": "taslak",
+ "meal": "Müminler, müminleri bırakıp kâfirleri dost edinmesin. Kim bunu yaparsa Allah'la ilişiği kalmaz; ancak onlardan sakınarak korunmanız başka. Allah sizi kendisi konusunda sakındırır. Dönüş yalnız Allah'adır.",
+ "mealNotu": "'Velî' kökü yakınlık, dostluk ve koruyuculuk anlamındadır; burada güvenilecek asıl dost/koruyucu olarak seçilmeyi ifade eder. 'Tukâten' ifadesini klasik tefsir, gerçek bir can veya ciddi bir zarar tehlikesi karşısında dıştan ölçülü davranıp iç bağlılığı değiştirmeme şeklinde açıklar; bu bir istisna olup genel kuralı geçersiz kılmaz.",
+ "kokler": [
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(nehiy edatı) yapmasın",
+   "karsilik": "-mesin"
+  },
+  {
+   "kelime": "يَتَّخِذِ",
+   "okunus": "yettehızi",
+   "kok": "أخذ",
+   "kokAnlam": "alma; edinme, kabul etme",
+   "karsilik": "edinmesin"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنُونَ",
+   "okunus": "elmü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanan",
+   "karsilik": "müminler"
+  },
+  {
+   "kelime": "ٱلْكَٰفِرِينَ",
+   "okunus": "elkâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "kâfirleri"
+  },
+  {
+   "kelime": "أَوْلِيَآءَ",
+   "okunus": "evliyâe",
+   "kok": "ولي",
+   "kokAnlam": "yakın olma; dost, koruyucu",
+   "karsilik": "dost"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِ",
+   "okunus": "dûni",
+   "kok": "دون",
+   "kokAnlam": "aşağı, öte; -den başka",
+   "karsilik": "bırakıp"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنِينَ",
+   "okunus": "elmü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanan",
+   "karsilik": "müminleri"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart edatı) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "يَفْعَلْ",
+   "okunus": "yef'al",
+   "kok": "فعل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "yaparsa"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri) bunu",
+   "karsilik": "bunu"
+  },
+  {
+   "kelime": "فَلَيْسَ",
+   "okunus": "feleyse",
+   "kok": "ليس",
+   "kokAnlam": "olmama, değil olma",
+   "karsilik": "ilişiği kalmaz"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'la"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de, konusunda",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "nesne, şey",
+   "karsilik": "şeyde"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna edatı) ancak, başka",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -meniz",
+   "karsilik": "-meniz"
+  },
+  {
+   "kelime": "تَتَّقُوا۟",
+   "okunus": "tettekû",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "sakınıp korunmanız"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "تُقَىٰةً",
+   "okunus": "tükâten",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "bir sakınma ile"
+  },
+  {
+   "kelime": "وَيُحَذِّرُكُمُ",
+   "okunus": "ve yühazzirukümü",
+   "kok": "حذر",
+   "kokAnlam": "sakındırma, uyarma",
+   "karsilik": "ve sizi sakındırır"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "نَفْسَهُۥ",
+   "okunus": "nefsehû",
+   "kok": "نفس",
+   "kokAnlam": "kişi, can, nefis",
+   "karsilik": "kendisi konusunda"
+  },
+  {
+   "kelime": "وَإِلَى",
+   "okunus": "ve ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "ve ... -edir"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'adır"
+  },
+  {
+   "kelime": "ٱلْمَصِيرُ",
+   "okunus": "elmesîru",
+   "kok": "صير",
+   "kokAnlam": "dönme, varış",
+   "karsilik": "dönüş"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, müminlerin, müminleri bırakıp kâfirleri asıl dost ve koruyucu edinmemesini emreder. Bu, mümin bir kimsenin başka inançtan biriyle hiç ilişki kurmayacağı anlamına gelmez; burada kastedilen, güven ve bağlılığın asıl adresinin kim olduğudur.",
+  "Ayet, ciddi bir zarar tehlikesi altında dıştan ölçülü davranmaya izin veren bir istisna da içerir; klasik tefsir bunu can güvenliği gibi zorunlu durumlarla sınırlı bir ruhsat olarak açıklar. Ayetin sonu, bütün bu ölçülerin Allah'ın bir sakındırması ve nihai dönüşün yalnız O'na olduğu hatırlatmasıyla kapanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:144",
+   "meal": "Ey iman edenler! Müminleri bırakıp kâfirleri dost edinmeyin. Allah'ın aleyhinize apaçık bir delil vermesini mi istiyorsunuz?",
+   "baglanti": "Nisâ suresindeki bu ayet, aynı yasağı 'müminleri bırakıp kâfirleri dost edinme' ifadesiyle birebir tekrarlar."
+  },
+  {
+   "ref": "5:51",
+   "meal": "Ey iman edenler! Yahudileri ve Hristiyanları dost edinmeyin; onlar birbirlerinin dostudurlar...",
+   "baglanti": "Mâide suresindeki bu ayet, aynı ilkeyi belirli topluluklar özelinde tekrar ederek genişletir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu inanç temelli dostluk ve bağlılıktır; bir ticaret veya komşuluk ilişkisini yasaklamaz. Burada vurgulanan, kişinin değerlerini ve güvenini kimin üzerine kurduğudur.",
+  "Günlük hayatta bu, farklı inançtan insanlarla saygılı ve adil ilişkiler kurmakla, kişinin temel değerlerinde kimden etkileneceğini seçmesi arasındaki farkı hatırlatır. Kiminle iş birliği yapacağını seçerken kendi değerlerinden ödün vermemek, bu ayetin öğrettiği ölçüyle uyumludur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Değerini netleştir",
+   "aciklama": "Bugün bir ilişkinde, kiminle ne ölçüde değer birliği içinde olduğunu düşün."
+  },
+  {
+   "baslik": "Saygılı sınır koy",
+   "aciklama": "Bugün farklı görüşten biriyle saygılı bir ilişki sürdürürken, kendi temel değerlerinden ödün vermeden davran."
+  },
+  {
+   "baslik": "Sakınmayı ölçülü tut",
+   "aciklama": "Bugün bir zorlukta ölçülü davranırken, bunun iç bağlılığını değiştiren bir şey olmadığını hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ilişkinde kendi temel değerlerinden ödün vermediğin bir sınırı yazılı olarak belirle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=28"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/28"
+  }
+ ]
+}

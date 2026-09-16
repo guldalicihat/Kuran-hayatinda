@@ -1,0 +1,250 @@
+{
+ "sure": 2,
+ "ayet": 272,
+ "durum": "taslak",
+ "meal": "Onları doğru yola iletmek sana ait değildir; fakat Allah, dilediğini doğru yola iletir. Hayır olarak infak ettiğiniz şey kendi yararınızadır; zaten siz ancak Allah'ın rızasını isteyerek infak edersiniz. Hayır olarak infak ettiğiniz şey size eksiksiz ödenir ve size haksızlık edilmez.",
+ "mealNotu": "Kök temelli meal. 'Hüdâ' kökü doğru yola iletmeyi anlatır; ilk cümledeki sorumluluk Peygamber'den alınıp Allah'a bağlanır. 'Vech' kelimesi 'yüz' anlamına gelse de burada 'rıza, yönelme' anlamında kullanılmıştır; bu yaygın kullanım köşeli parantez gerektirmeden korunmuştur.",
+ "kokler": [
+  {
+   "kelime": "لَّيْسَ",
+   "okunus": "leyse",
+   "kok": "ليس",
+   "kokAnlam": "olmama",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "عَلَيْكَ",
+   "okunus": "aleyke",
+   "kok": "—",
+   "kokAnlam": "(edat) senin üzerine",
+   "karsilik": "sana ait"
+  },
+  {
+   "kelime": "هُدَىٰهُمْ",
+   "okunus": "hüdâhüm",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme, hidayet",
+   "karsilik": "onları doğru yola iletmek"
+  },
+  {
+   "kelime": "وَلَٰكِنَّ",
+   "okunus": "ve lâkinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) fakat, gerçekten",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَهْدِى",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme",
+   "karsilik": "doğru yola iletir"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimi",
+   "karsilik": "dilediğini"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilediğini"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(şart) ne",
+   "karsilik": "ve ne"
+  },
+  {
+   "kelime": "تُنفِقُوا۟",
+   "okunus": "tünfikû",
+   "kok": "نفق",
+   "kokAnlam": "harcama, infak etme",
+   "karsilik": "infak ederseniz"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "خَيْرٍ",
+   "okunus": "hayrin",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "hayır olarak"
+  },
+  {
+   "kelime": "فَلِأَنفُسِكُمْ",
+   "okunus": "felienfüsiküm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi",
+   "karsilik": "kendi yararınızadır"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "تُنفِقُونَ",
+   "okunus": "tünfikûne",
+   "kok": "نفق",
+   "kokAnlam": "harcama, infak etme",
+   "karsilik": "infak edersiniz"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ٱبْتِغَآءَ",
+   "okunus": "ibtiğâe",
+   "kok": "بغي",
+   "kokAnlam": "isteme, arama",
+   "karsilik": "isteyerek"
+  },
+  {
+   "kelime": "وَجْهِ",
+   "okunus": "vechi",
+   "kok": "وجه",
+   "kokAnlam": "yüz; yönelme, rıza",
+   "karsilik": "rızasını"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(şart) ne",
+   "karsilik": "ve ne"
+  },
+  {
+   "kelime": "تُنفِقُوا۟",
+   "okunus": "tünfikû",
+   "kok": "نفق",
+   "kokAnlam": "harcama, infak etme",
+   "karsilik": "infak ederseniz"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "خَيْرٍ",
+   "okunus": "hayrin",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "hayır olarak"
+  },
+  {
+   "kelime": "يُوَفَّ",
+   "okunus": "yüveffe",
+   "kok": "وفي",
+   "kokAnlam": "tam ve eksiksiz ödenme",
+   "karsilik": "eksiksiz ödenir"
+  },
+  {
+   "kelime": "إِلَيْكُمْ",
+   "okunus": "ileyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "وَأَنتُمْ",
+   "okunus": "ve entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "ve siz"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "-mazsınız"
+  },
+  {
+   "kelime": "تُظْلَمُونَ",
+   "okunus": "tüzlemûne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, zulme uğrama",
+   "karsilik": "haksızlığa uğratılmazsınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Peygamber'e doğrudan hitap ederek, insanları doğru yola iletmenin onun görevi olmadığını, bunun Allah'ın dilemesiyle gerçekleştiğini hatırlatır. Bu, infak eden kişinin muhatabının dini durumuna bakarak yardımı esirgememesi gerektiğine dair bir arka plan oluşturur; klasik tefsir bu ayeti sıklıkla, Müslüman olmayan akrabalara da yardım edilebileceği bağlamında açıklar.",
+  "Ayetin devamı infaka döner: verilen her hayır, aslında verenin kendi yararınadır, çünkü gerçek infak Allah rızası gözetilerek yapılır. Ayet, bu tür bir infakın eksiksiz karşılığının verileceğini ve kimseye haksızlık edilmeyeceğini garanti ederek kapanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "28:56",
+   "meal": "Şüphesiz sen, sevdiğini doğru yola iletemezsin; fakat Allah dilediğini doğru yola iletir. Doğru yola girecek olanları en iyi O bilir.",
+   "baglanti": "'Doğru yola iletme sana ait değildir' ifadesiyle aynı ilkeyi, Peygamber'in yakın bir örneği üzerinden tekrarlar."
+  },
+  {
+   "ref": "30:39",
+   "meal": "Allah rızasını isteyerek verdiğiniz zekâta gelince, işte onu verenler kat kat artıranlardır.",
+   "baglanti": "'Allah'ın rızasını isteyerek infak etme' ifadesiyle aynı niyeti, farklı bir surede tekrar vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kime infak edileceği ve infakın niyetidir. Ayet, yardımın karşı tarafın inancına göre şartlandırılmaması gerektiğine işaret eder.",
+  "Günlük hayata taşınabilecek ders, yardımı yaparken karşındakinin 'hak edip etmediğini' yargılamadan, sadece Allah rızası için vermektir. Bu, kişiyi hem gereksiz bir yargılamadan kurtarır hem de yardımın karşılığını sonuca değil niyete bağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yargısız yardım et",
+   "aciklama": "Bugün bir yardımı, karşındakinin 'hak edip etmediğini' düşünmeden yap."
+  },
+  {
+   "baslik": "Niyetini Allah'a bağla",
+   "aciklama": "Bir iyiliği yaparken, sonucun senin elinde olmadığını hatırla ve sadece niyetine odaklan."
+  },
+  {
+   "baslik": "Farklı bir çevreye yardım et",
+   "aciklama": "Alışık olmadığın bir gruba (farklı görüş, inanç) bugün küçük bir iyilik yap."
+  }
+ ],
+ "bugununAdimi": "Bugün bir yardımı, karşındakini yargılamadan sadece ihtiyacına bakarak yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=272"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/272"
+  }
+ ]
+}

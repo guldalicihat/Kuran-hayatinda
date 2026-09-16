@@ -1,0 +1,103 @@
+{
+ "sure": 3,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Allah; O'ndan başka ilah yoktur. O diridir, her şeyi ayakta tutandır.",
+ "mealNotu": "'İlâh' kökü tapınılan varlığı anlatır; 'lâ ... illâ' kalıbı olumsuzlama ve istisna ile kesin bir tekliği ifade eder. 'Hayy' kökü diri olmayı, 'Kayyûm' kökü ise kendi kendine var olup başkasını ayakta tutmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَآ",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) yok, değil",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "إِلَٰهَ",
+   "okunus": "ilâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "ilah"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna edatı) ancak, başka",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "O'ndan"
+  },
+  {
+   "kelime": "ٱلْحَىُّ",
+   "okunus": "elhayyü",
+   "kok": "حيي",
+   "kokAnlam": "canlı olma, diri olma",
+   "karsilik": "diridir"
+  },
+  {
+   "kelime": "ٱلْقَيُّومُ",
+   "okunus": "elkayyûmü",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; kendi kendine var olup başkasını ayakta tutma",
+   "karsilik": "her şeyi ayakta tutandır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, mukattaa harflerinin hemen ardından surenin ilk ana cümlesini kurar ve Allah'ın tekliğini bildirir. 'Hayy' O'nun ezelî ve ebedî diriliğini, 'Kayyûm' ise hiçbir şeye muhtaç olmadan var olup bütün varlığı ayakta tuttuğunu anlatır.",
+  "Bu iki isim, Kur'an'da Âyetü'l-Kürsî'de de aynı sırayla geçer ve genellikle birlikte kullanılır. Sure, bu tevhid vurgusundan sonra kitabın indirilişine geçer; tevhid burada vahyin temeli olarak önce zikredilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:255",
+   "meal": "Allah; O'ndan başka ilah yoktur. O diridir, her şeyi ayakta tutandır. O'nu ne bir uyuklama tutar ne de bir uyku.",
+   "baglanti": "Âyetü'l-Kürsî aynı cümleyle açılır; 'Hayy' ve 'Kayyûm' isimleri orada da yan yana geçer."
+  },
+  {
+   "ref": "20:111",
+   "meal": "Yüzler, diri ve her şeyi ayakta tutan Allah'ın önünde boyun eğmiştir; zulüm yüklenen gerçekten hüsrana uğramıştır.",
+   "baglanti": "Bu ayet, 'Hayy' ve 'Kayyûm' isimlerini karşısında boyun eğilmesi gereken bir güç olarak hatırlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Allah'ın varlığı ve tekliğidir; bir hüküm veya kıssa içermez. 'Kayyûm' ismi, hiçbir varlığın kendi başına ayakta duramayacağını, her şeyin bir bağla var olduğunu hatırlatır.",
+  "Günlük hayatta bu, insanın kendi gücüne aşırı güvenmemesini öğretir. Sağlık, iş, ilişkiler; hepsi kişinin kontrolünün ötesinde bir düzenle sürer. Bunu fark etmek, hem şükrü hem tevekkülü artırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir bağımlılığını fark et",
+   "aciklama": "Bugün kendi gücünle sürdürdüğünü sandığın bir şeyi (sağlık, nefes, uyku) düşün ve bunun sana bağışlandığını hatırla."
+  },
+  {
+   "baslik": "Tevekkülü dene",
+   "aciklama": "Kontrol edemediğin bir konuda bugün endişelenmek yerine elinden geleni yap ve gerisini bırak."
+  },
+  {
+   "baslik": "İsimleri öğren",
+   "aciklama": "'Hayy' ve 'Kayyûm' isimlerinin anlamını bir yakınına kısaca anlat."
+  }
+ ],
+ "bugununAdimi": "Bugün 'Hayy' ve 'Kayyûm' isimlerini bir kez yazıp anlamlarını hatırlayarak kısa bir dua et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/2"
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "sure": 2,
+ "ayet": 277,
+ "durum": "taslak",
+ "meal": "İman edip salih ameller işleyen, namazı dosdoğru kılan ve zekâtı verenler var ya, onların ecirleri Rableri katındadır; onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+ "mealNotu": "Kök temelli meal. Ayet, faiz uyarısının hemen ardından, imanın somut karşılığını dört unsurla (iman, salih amel, namaz, zekât) özetler. Ek yorum eklenmemiştir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma",
+   "karsilik": "iman eden"
+  },
+  {
+   "kelime": "وَعَمِلُوا۟",
+   "okunus": "ve amilû",
+   "kok": "عمل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "ve işleyen"
+  },
+  {
+   "kelime": "ٱلصَّٰلِحَٰتِ",
+   "okunus": "essâlihâti",
+   "kok": "صلح",
+   "kokAnlam": "iyi olma, salih amel",
+   "karsilik": "salih ameller"
+  },
+  {
+   "kelime": "وَأَقَامُوا۟",
+   "okunus": "ve ekâmû",
+   "kok": "قوم",
+   "kokAnlam": "ayakta tutma, dosdoğru kılma",
+   "karsilik": "ve dosdoğru kılan"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "dua, namaz",
+   "karsilik": "namazı"
+  },
+  {
+   "kelime": "وَءَاتَوُا۟",
+   "okunus": "ve âtevü",
+   "kok": "أتي",
+   "kokAnlam": "verme, getirme",
+   "karsilik": "ve veren"
+  },
+  {
+   "kelime": "ٱلزَّكَوٰةَ",
+   "okunus": "ezzekâte",
+   "kok": "زكو",
+   "kokAnlam": "arınma, artma; zekât",
+   "karsilik": "zekâtı"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlar için",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "أَجْرُهُمْ",
+   "okunus": "ecruhüm",
+   "kok": "أجر",
+   "kokAnlam": "karşılık, ücret",
+   "karsilik": "ecirleri vardır"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "yanında, katında",
+   "karsilik": "katında"
+  },
+  {
+   "kelime": "رَبِّهِمْ",
+   "okunus": "rabbihim",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme; Rab",
+   "karsilik": "Rableri"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "ve yoktur"
+  },
+  {
+   "kelime": "خَوْفٌ",
+   "okunus": "havfün",
+   "kok": "خوف",
+   "kokAnlam": "korku",
+   "karsilik": "korku"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "ve ne de"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "يَحْزَنُونَ",
+   "okunus": "yahzenûne",
+   "kok": "حزن",
+   "kokAnlam": "üzülme, hüzünlenme",
+   "karsilik": "üzülecekler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, faiz uyarısının hemen ardından, imanın olumlu karşılığını dört unsurla özetler: iman, salih amel, namaz ve zekât. Bu sıralama, imanın soyut bir inanç olarak kalmayıp somut eylemlere (namaz, zekât) dönüşmesi gerektiğini gösterir.",
+  "Ayet, bu dört unsuru yerine getirenler için 'korku yoktur, üzülmeyeceklerdir' güvencesini tekrarlar. Bu formülün faiz ayetlerinin hemen yanında yer alması, haram kazançtan kaçınıp helal yoldan kazanıp paylaşmanın bu güvenceye erişmenin bir parçası olduğunu ima eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:262",
+   "meal": "Mallarını Allah yolunda infak edip sonra infak ettiklerinin ardından başa kakmayan ve eziyet etmeyenlerin, Rableri katında ecirleri vardır; onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+   "baglanti": "Aynı güvence formülünü, infak bağlamında daha önce de tekrarlayarak bu ayetle bir bütün oluşturur."
+  },
+  {
+   "ref": "98:7",
+   "meal": "İman edip salih ameller işleyenler var ya, işte onlar yaratılmışların en hayırlısıdır.",
+   "baglanti": "İman ve salih amelin birlikte anılmasının, Kur'an'da sık tekrarlanan bir kalıp olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, imanın namaz ve zekâtla somutlaşmasıdır. Bu, ibadet hayatına dair temel bir çerçevedir.",
+  "Günlük hayata taşınabilecek ders, inancın sözde kalmaması gerektiğidir. Namaz kişinin Allah'la bağını, zekât ise toplumla bağını düzenler; ikisi birlikte dengeli bir hayatın parçasıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Namazını aksatma",
+   "aciklama": "Bugün vaktinde ve huzurla kılmaya özen göster."
+  },
+  {
+   "baslik": "Küçük bir zekât/sadaka ayır",
+   "aciklama": "Bugün gelirinden veya elindeki imkândan bir payı, ihtiyaç sahibi için ayır."
+  },
+  {
+   "baslik": "İman ile ameli birleştir",
+   "aciklama": "Bugün inandığın bir değeri, somut bir davranışa dönüştür."
+  }
+ ],
+ "bugununAdimi": "Bugün namazını aksatmadan kıl ve elindeki imkândan küçük bir payı ihtiyaç sahibine ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=277"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/277"
+  }
+ ]
+}

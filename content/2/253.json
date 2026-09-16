@@ -1,0 +1,418 @@
+{
+ "sure": 2,
+ "ayet": 253,
+ "durum": "taslak",
+ "meal": "İşte o elçiler; onların bir kısmını bir kısmına üstün kıldık. İçlerinden kimiyle Allah konuştu, bir kısmını da derecelerle yükseltti. Meryem oğlu İsa'ya açık deliller verdik ve onu Ruhu'l-Kudüs ile destekledik. Allah dileseydi, onlardan sonra gelenler, kendilerine açık deliller geldikten sonra birbirleriyle savaşmazlardı; fakat ihtilafa düştüler. Onlardan kimi iman etti, kimi inkâr etti. Allah dileseydi birbirleriyle savaşmazlardı; fakat Allah dilediğini yapar.",
+ "mealNotu": "Kök temelli meal. 'Kelleme' kökü doğrudan konuşmayı, 'beyyinat' kökü açıklığı anlatır; metinde 'mucize' kelimesi yoktur, bu yüzden 'açık deliller' denmiştir. 'İhtelefû' kökü anlaşmazlığa düşmeyi bildirir; bu ayrılık ayette insanların kendi tercihine bağlanır.",
+ "kokler": [
+  {
+   "kelime": "تِلْكَ",
+   "okunus": "tilke",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu, işte bu",
+   "karsilik": "işte o"
+  },
+  {
+   "kelime": "ٱلرُّسُلُ",
+   "okunus": "errusülü",
+   "kok": "رسل",
+   "kokAnlam": "gönderme; elçi",
+   "karsilik": "elçiler"
+  },
+  {
+   "kelime": "فَضَّلْنَا",
+   "okunus": "feddalnâ",
+   "kok": "فضل",
+   "kokAnlam": "üstün kılma, fazilet verme",
+   "karsilik": "üstün kıldık"
+  },
+  {
+   "kelime": "بَعْضَهُمْ",
+   "okunus": "ba'dahüm",
+   "kok": "بعض",
+   "kokAnlam": "bir kısmı, bazısı",
+   "karsilik": "bir kısmını"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine, -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "بَعْضٍ",
+   "okunus": "ba'dın",
+   "kok": "بعض",
+   "kokAnlam": "bir kısmı, bazısı",
+   "karsilik": "bir kısmına"
+  },
+  {
+   "kelime": "مِّنْهُم",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlardan",
+   "karsilik": "içlerinden"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kimiyle"
+  },
+  {
+   "kelime": "كَلَّمَ",
+   "okunus": "kelleme",
+   "kok": "كلم",
+   "kokAnlam": "konuşma, söz söyleme",
+   "karsilik": "konuştu"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَرَفَعَ",
+   "okunus": "ve rafea",
+   "kok": "رفع",
+   "kokAnlam": "yükseltme",
+   "karsilik": "yükseltti"
+  },
+  {
+   "kelime": "بَعْضَهُمْ",
+   "okunus": "ba'dahüm",
+   "kok": "بعض",
+   "kokAnlam": "bir kısmı, bazısı",
+   "karsilik": "bir kısmını"
+  },
+  {
+   "kelime": "دَرَجَٰتٍ",
+   "okunus": "deracâtin",
+   "kok": "درج",
+   "kokAnlam": "derece, basamak",
+   "karsilik": "derecelerle"
+  },
+  {
+   "kelime": "وَءَاتَيْنَا",
+   "okunus": "ve âteynâ",
+   "kok": "أتي",
+   "kokAnlam": "verme, getirme",
+   "karsilik": "verdik"
+  },
+  {
+   "kelime": "عِيسَى",
+   "okunus": "îsâ",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İsa'ya"
+  },
+  {
+   "kelime": "ٱبْنَ",
+   "okunus": "ibne",
+   "kok": "بني",
+   "kokAnlam": "oğul, yapı",
+   "karsilik": "oğlu"
+  },
+  {
+   "kelime": "مَرْيَمَ",
+   "okunus": "meryeme",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "Meryem"
+  },
+  {
+   "kelime": "ٱلْبَيِّنَٰتُ",
+   "okunus": "elbeyyinâti",
+   "kok": "بين",
+   "kokAnlam": "açıklık, ayırt olma; açık delil",
+   "karsilik": "açık deliller"
+  },
+  {
+   "kelime": "وَأَيَّدْنَٰهُ",
+   "okunus": "ve eyyednâhü",
+   "kok": "أيد",
+   "kokAnlam": "güçlendirme, destekleme",
+   "karsilik": "onu destekledik"
+  },
+  {
+   "kelime": "بِرُوحِ",
+   "okunus": "birûhi",
+   "kok": "روح",
+   "kokAnlam": "ruh, can",
+   "karsilik": "ruhu ile"
+  },
+  {
+   "kelime": "ٱلْقُدُسِ",
+   "okunus": "elkudüsi",
+   "kok": "قدس",
+   "kokAnlam": "kutsallık, temizlik",
+   "karsilik": "kutsal"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer, dilese",
+   "karsilik": "dileseydi"
+  },
+  {
+   "kelime": "شَآءَ",
+   "okunus": "şâe",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dileseydi"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mazlardı"
+  },
+  {
+   "kelime": "ٱقْتَتَلَ",
+   "okunus": "iktetele",
+   "kok": "قتل",
+   "kokAnlam": "öldürme; karşılıklı savaşma",
+   "karsilik": "savaşmazlardı"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "بَعْدِهِم",
+   "okunus": "ba'dihim",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "onlardan sonra"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne, şey",
+   "karsilik": "-dikten"
+  },
+  {
+   "kelime": "جَآءَتْهُمُ",
+   "okunus": "câethümü",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "kendilerine geldi"
+  },
+  {
+   "kelime": "ٱلْبَيِّنَٰتُ",
+   "okunus": "elbeyyinâtü",
+   "kok": "بين",
+   "kokAnlam": "açıklık; açık delil",
+   "karsilik": "açık deliller"
+  },
+  {
+   "kelime": "وَلَٰكِنَّ",
+   "okunus": "ve lâkini",
+   "kok": "—",
+   "kokAnlam": "(düzeltme) fakat, ama",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "ٱخْتَلَفُوا۟",
+   "okunus": "ihtelefû",
+   "kok": "خلف",
+   "kokAnlam": "arkada kalma; ayrılığa düşme, anlaşmazlık",
+   "karsilik": "ihtilafa düştüler"
+  },
+  {
+   "kelime": "فَمِنْهُم",
+   "okunus": "feminhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "ءَامَنَ",
+   "okunus": "âmene",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma",
+   "karsilik": "iman etti"
+  },
+  {
+   "kelime": "وَمِنْهُم",
+   "okunus": "ve minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "كَفَرَ",
+   "okunus": "kefera",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr etti"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer, dilese",
+   "karsilik": "dileseydi"
+  },
+  {
+   "kelime": "شَآءَ",
+   "okunus": "şâe",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dileseydi"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mazlardı"
+  },
+  {
+   "kelime": "ٱقْتَتَلُوا۟",
+   "okunus": "iktetelû",
+   "kok": "قتل",
+   "kokAnlam": "öldürme; karşılıklı savaşma",
+   "karsilik": "savaşmazlardı"
+  },
+  {
+   "kelime": "وَلَٰكِنَّ",
+   "okunus": "ve lâkinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) fakat, gerçekten",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَفْعَلُ",
+   "okunus": "yef'alü",
+   "kok": "فعل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "yapar"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne, şey",
+   "karsilik": "dilediğini"
+  },
+  {
+   "kelime": "يُرِيدُ",
+   "okunus": "yürîdü",
+   "kok": "رود",
+   "kokAnlam": "isteme, irade etme",
+   "karsilik": "diler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, peygamberler arasında Allah'ın belirlediği bir derece farkının bulunduğunu bildirir. Kimiyle Allah doğrudan konuşmuş, kimini derecelerle yükseltmiştir. Meryem oğlu İsa'ya açık deliller verilmiş, o Ruhu'l-Kudüs ile desteklenmiştir; bu destek klasik tefsirde çoğunlukla Cebrail'e işaret olarak açıklanır.",
+  "Ayetin ikinci kısmı, elçiler geldikten sonra insanların ihtilafa düşüp birbirleriyle çatıştığına değinir. Bu ayrılık Allah'ın zorlamasıyla değil, insanların kendi tercihiyle oluşmuştur; kimi iman etmiş, kimi inkâr etmiştir. Ayet, sonunda Allah'ın dilediğini yaptığını hatırlatarak konuyu O'nun mutlak iradesine bağlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:55",
+   "meal": "Rabbin göklerde ve yerde olanları en iyi bilendir. Andolsun, peygamberlerin bir kısmını bir kısmına üstün kıldık; Davud'a da Zebur verdik.",
+   "baglanti": "Aynı 'fadl' kökü ile peygamberler arasındaki derece farkını doğrudan teyit eder."
+  },
+  {
+   "ref": "4:164",
+   "meal": "Sana daha önce kıssalarını anlattığımız ve anlatmadığımız elçiler gönderdik. Allah, Musa ile de doğrudan konuştu.",
+   "baglanti": "Bakara 253'teki 'Allah'ın kimiyle konuşması' ifadesinin kimin için geçerli olduğunu (Musa) somutlaştırır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu peygamberler arasındaki derece farkı ve insanların ihtilafa düşmesidir. Bu, dini bir konum meselesidir ve doğrudan bir günlük emir içermez.",
+  "Yine de buradan çıkarılabilecek bir ders vardır: insanlar arasında farklı konum ve yeteneklerin bulunması normaldir, herkesin aynı olması beklenmemelidir. Ayrıca ihtilafın kaynağının çoğu zaman kişilerin kendi tercihi olduğunu görmek, başkasını suçlamadan önce kendi payını sorgulamayı öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Farklılığı kabul et",
+   "aciklama": "Bugün biriyle farklı düşündüğünde, hemen 'o yanlış' demeden önce farkın nereden geldiğini anlamaya çalış."
+  },
+  {
+   "baslik": "Kendi payını sorgula",
+   "aciklama": "Bir anlaşmazlıkta önce kendi tercihinin çatışmaya ne kadar katkı sağladığını düşün."
+  },
+  {
+   "baslik": "Farklı yetenekleri fark et",
+   "aciklama": "Çevrendeki bir kişinin farklı güçlü yönünü bugün fark edip takdir et."
+  }
+ ],
+ "bugununAdimi": "Bugün yaşadığın bir anlaşmazlıkta karşı tarafı suçlamadan önce kendi payını yazılı olarak değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=253"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/253"
+  }
+ ]
+}

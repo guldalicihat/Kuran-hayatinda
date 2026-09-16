@@ -1,0 +1,96 @@
+{
+ "sure": 3,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "(Bunlar) sabredenler, doğru olanlar, gönülden boyun eğenler, infak edenler ve seherlerde bağışlanma dileyenlerdir.",
+ "mealNotu": "Bu ayet fiil içermez; 15-16. ayetlerdeki takva sahiplerini nitelendiren bir isim listesidir, bu yüzden meale '(Bunlar)' eklenmiştir. 'Eshâr' kökü gece sonu, seher vaktini anlatır.",
+ "kokler": [
+  {
+   "kelime": "ٱلصَّٰبِرِينَ",
+   "okunus": "essâbirîne",
+   "kok": "صبر",
+   "kokAnlam": "tutma, dayanma, direnme",
+   "karsilik": "sabredenler"
+  },
+  {
+   "kelime": "وَٱلصَّٰدِقِينَ",
+   "okunus": "ves sâdikîne",
+   "kok": "صدق",
+   "kokAnlam": "doğru olma, tasdik etme",
+   "karsilik": "doğru olanlar"
+  },
+  {
+   "kelime": "وَٱلْقَٰنِتِينَ",
+   "okunus": "vel kânitîne",
+   "kok": "قنت",
+   "kokAnlam": "boyun eğme, itaat etme",
+   "karsilik": "gönülden boyun eğenler"
+  },
+  {
+   "kelime": "وَٱلْمُنفِقِينَ",
+   "okunus": "vel münfikîne",
+   "kok": "نفق",
+   "kokAnlam": "harcama, infak etme",
+   "karsilik": "infak edenler"
+  },
+  {
+   "kelime": "وَٱلْمُسْتَغْفِرِينَ",
+   "okunus": "vel müstağfirîne",
+   "kok": "غفر",
+   "kokAnlam": "örtme, bağışlanma dileme",
+   "karsilik": "bağışlanma dileyenler"
+  },
+  {
+   "kelime": "بِٱلْأَسْحَارِ",
+   "okunus": "bil eshâri",
+   "kok": "سحر",
+   "kokAnlam": "gece sonu, seher vakti",
+   "karsilik": "seherlerde"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki iki ayette anlatılan takva sahiplerinin özelliklerini beş sıfatla sayarak tamamlar: sabır, doğruluk, itaat, infak ve seherde istiğfar. Bu sıfatlar hem içe dönük (sabır, doğruluk) hem dışa dönük (infak) hem de ibadete dönük (itaat, istiğfar) yönleri kapsar.",
+  "'Seherlerde bağışlanma dileyenler' ifadesi, klasik tefsirde gece ibadetinin, özellikle gecenin son vaktinde yapılan duanın ayrı bir değeri olduğuna işaret eder. Bu, listeye zaman ve içtenlik boyutunu ekleyen bir vurgudur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "51:18",
+   "meal": "Seherlerde de onlar bağışlanma dilerlerdi.",
+   "baglanti": "Zâriyât suresindeki bu ayet, 'seherlerde istiğfar' ifadesini aynı kökle tekrarlayarak muttakilerin bu özelliğini pekiştirir."
+  },
+  {
+   "ref": "2:177",
+   "meal": "Zorlukta, sıkıntıda ve savaş anında sabredenler var ya, işte doğru olanlar onlardır; takva sahipleri de onlardır.",
+   "baglanti": "Bakara suresindeki bu ayet, sabır ve doğruluğu birlikte anarak takva tanımını benzer bir sıfat listesiyle tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, takva sahiplerinin özellikleridir; tek bir hüküm değil, bir karakter tablosu sunar. Bu beş özellik, kişinin hem zorluk karşısındaki tutumunu hem sözünün doğruluğunu hem malını nasıl kullandığını kapsar.",
+  "Günlük hayatta bu liste, kişinin kendini değerlendirebileceği somut bir çerçeve sunar. Sabırlı mıyım, sözüme sadık mıyım, elimdekini paylaşıyor muyum, ibadetimde içtenlik var mı; bu sorular günlük bir öz değerlendirme aracı olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir sıfatı seç",
+   "aciklama": "Bugün bu beş özellikten birini (örneğin sabır veya doğruluk) özellikle uygulamaya karar ver."
+  },
+  {
+   "baslik": "Seher vaktini değerlendir",
+   "aciklama": "Bugün sabah erken bir vakitte birkaç dakika dua veya istiğfar için ayır."
+  },
+  {
+   "baslik": "Doğruluğunu sına",
+   "aciklama": "Bugün küçük bir konuda bile olsa, zor gelse de doğruyu söyle."
+  }
+ ],
+ "bugununAdimi": "Bugün sabah erken bir vakitte birkaç dakika ayırıp bağışlanma dileyerek güne başla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/17"
+  }
+ ]
+}

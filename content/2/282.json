@@ -1,0 +1,950 @@
+{
+ "sure": 2,
+ "ayet": 282,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Belirli bir süreye kadar birbirinize borçlandığınız zaman onu yazın. Aranızda bir yazıcı adaletle yazsın. Yazıcı, Allah'ın kendisine öğrettiği gibi yazmaktan kaçınmasın; artık yazsın. Üzerinde hak olan kişi yazdırsın ve Rabbi olan Allah'tan sakınsın, ondan hiçbir şeyi eksiltmesin. Eğer üzerinde hak olan kişi aklı ermez, güçsüz biri ise veya kendisi yazdıramıyorsa, velisi adaletle yazdırsın. Erkeklerinizden iki şahit tutun. Eğer iki erkek bulunmazsa, razı olacağınız şahitlerden bir erkek ve iki kadın olsun; ikisinden biri şaşırırsa diğeri ona hatırlatsın. Şahitler çağırıldıklarında kaçınmasınlar. Küçük olsun büyük olsun, süresine kadar borcu yazmaktan üşenmeyin; bu, Allah katında daha adil, şahitlik için daha sağlam ve şüpheye düşmemeniz için daha uygundur. Ancak aranızda elden ele yürüttüğünüz peşin bir ticaret olursa, onu yazmamanızda size bir günah yoktur. Alışveriş yaptığınızda da şahit tutun. Yazıcıya da şahide de zarar verilmesin; eğer bunu yaparsanız, şüphesiz bu sizin için bir günahkârlıktır. Allah'tan sakının; Allah size öğretiyor. Allah her şeyi bilendir.",
+ "mealNotu": "Kök temelli meal. Kur'an'ın en uzun ayeti olan bu ayette, 'imlâl' kökü (yazdırma) ile 'kitâbet' kökü (yazma) bilerek ayrı tutulmuştur: borçlu metni söyler/yazdırır, yazıcı yazar. 'Sefîh' kökü, malını iyi yönetemeyen kişiyi anlatır; 'aklı ermez' bu genel anlamı taşır. 'Hâdıra' kökü hazır, peşin olanı anlatır; 'ticâreten hâdıra' ifadesi 'peşin ticaret' olarak karşılanmıştır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوٓا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığı zaman",
+   "karsilik": "zaman"
+  },
+  {
+   "kelime": "تَدَايَنتُم",
+   "okunus": "tedâyentüm",
+   "kok": "دين",
+   "kokAnlam": "borçlanma, borç ilişkisi kurma",
+   "karsilik": "birbirinize borçlandığınız"
+  },
+  {
+   "kelime": "بِدَيْنٍ",
+   "okunus": "bideynin",
+   "kok": "دين",
+   "kokAnlam": "borç",
+   "karsilik": "bir borç"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "أَجَلٍ",
+   "okunus": "ecelin",
+   "kok": "أجل",
+   "kokAnlam": "süre, vade",
+   "karsilik": "bir süreye"
+  },
+  {
+   "kelime": "مُّسَمًّى",
+   "okunus": "müsemmen",
+   "kok": "سمو",
+   "kokAnlam": "adlandırma; belirlenmiş",
+   "karsilik": "belirlenmiş"
+  },
+  {
+   "kelime": "فَٱكْتُبُوهُ",
+   "okunus": "fektübûhü",
+   "kok": "كتب",
+   "kokAnlam": "yazma",
+   "karsilik": "onu yazın"
+  },
+  {
+   "kelime": "وَلْيَكْتُب",
+   "okunus": "ve lyektüb",
+   "kok": "كتب",
+   "kokAnlam": "yazma",
+   "karsilik": "ve yazsın"
+  },
+  {
+   "kelime": "بَيْنَكُمْ",
+   "okunus": "beyneküm",
+   "kok": "بين",
+   "kokAnlam": "arasında olma",
+   "karsilik": "aranızda"
+  },
+  {
+   "kelime": "كَاتِبٌ",
+   "okunus": "kâtibüm",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazıcı",
+   "karsilik": "bir yazıcı"
+  },
+  {
+   "kelime": "بِٱلْعَدْلِ",
+   "okunus": "bil adli",
+   "kok": "عدل",
+   "kokAnlam": "denge, adalet",
+   "karsilik": "adaletle"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يَأْبَ",
+   "okunus": "ye'be",
+   "kok": "أبي",
+   "kokAnlam": "kaçınma, çekinme",
+   "karsilik": "kaçınmasın"
+  },
+  {
+   "kelime": "كَاتِبٌ",
+   "okunus": "kâtibün",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazıcı",
+   "karsilik": "yazıcı"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "-maktan"
+  },
+  {
+   "kelime": "يَكْتُبَ",
+   "okunus": "yektübe",
+   "kok": "كتب",
+   "kokAnlam": "yazma",
+   "karsilik": "yazmaktan"
+  },
+  {
+   "kelime": "كَمَا",
+   "okunus": "kemâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) gibi",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "عَلَّمَهُ",
+   "okunus": "allemehü",
+   "kok": "علم",
+   "kokAnlam": "öğretme",
+   "karsilik": "ona öğrettiği"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَلْيَكْتُبْ",
+   "okunus": "felyektüb",
+   "kok": "كتب",
+   "kokAnlam": "yazma",
+   "karsilik": "artık yazsın"
+  },
+  {
+   "kelime": "وَلْيُمْلِلِ",
+   "okunus": "ve lyümlili",
+   "kok": "ملل",
+   "kokAnlam": "söyleyerek yazdırma, imlâ etme",
+   "karsilik": "ve yazdırsın"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki o",
+   "karsilik": "kimse"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "üzerinde olan"
+  },
+  {
+   "kelime": "ٱلْحَقُّ",
+   "okunus": "elhakku",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, hak",
+   "karsilik": "hak"
+  },
+  {
+   "kelime": "وَلْيَتَّقِ",
+   "okunus": "ve lyettekı",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "ve sakınsın"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "رَبَّهُۥ",
+   "okunus": "rabbehû",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme; Rab",
+   "karsilik": "Rabbi olan"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يَبْخَسْ",
+   "okunus": "yebhas",
+   "kok": "بخس",
+   "kokAnlam": "eksiltme, değerini düşürme",
+   "karsilik": "eksiltmesin"
+  },
+  {
+   "kelime": "مِنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "hiçbir şeyi"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki o",
+   "karsilik": "kimse"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "üzerinde olan"
+  },
+  {
+   "kelime": "ٱلْحَقُّ",
+   "okunus": "elhakku",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, hak",
+   "karsilik": "hak"
+  },
+  {
+   "kelime": "سَفِيهًا",
+   "okunus": "sefîhen",
+   "kok": "سفه",
+   "kokAnlam": "hafiflik, malını iyi yönetememe",
+   "karsilik": "aklı ermez"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "ضَعِيفًا",
+   "okunus": "daîfen",
+   "kok": "ضعف",
+   "kokAnlam": "güçsüzlük, zayıflık",
+   "karsilik": "güçsüz"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "-mıyorsa"
+  },
+  {
+   "kelime": "يَسْتَطِيعُ",
+   "okunus": "yestetîu",
+   "kok": "طوع",
+   "kokAnlam": "gücü yetme, itaat",
+   "karsilik": "gücü yetmiyorsa"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "-a"
+  },
+  {
+   "kelime": "يُمِلَّ",
+   "okunus": "yümille",
+   "kok": "ملل",
+   "kokAnlam": "söyleyerek yazdırma, imlâ etme",
+   "karsilik": "yazdırmaya"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "kendisi"
+  },
+  {
+   "kelime": "فَلْيُمْلِلْ",
+   "okunus": "felyümlil",
+   "kok": "ملل",
+   "kokAnlam": "söyleyerek yazdırma, imlâ etme",
+   "karsilik": "o zaman yazdırsın"
+  },
+  {
+   "kelime": "وَلِيُّهُۥ",
+   "okunus": "veliyyühû",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, dostluk; koruyup gözeten veli",
+   "karsilik": "velisi"
+  },
+  {
+   "kelime": "بِٱلْعَدْلِ",
+   "okunus": "bil adli",
+   "kok": "عدل",
+   "kokAnlam": "denge, adalet",
+   "karsilik": "adaletle"
+  },
+  {
+   "kelime": "وَٱسْتَشْهِدُوا۟",
+   "okunus": "vesteşhidû",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık etme, şahitlik",
+   "karsilik": "ve şahit tutun"
+  },
+  {
+   "kelime": "شَهِيدَيْنِ",
+   "okunus": "şehîdeyni",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık etme, şahitlik",
+   "karsilik": "iki şahit"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رِّجَالِكُمْ",
+   "okunus": "ricâliküm",
+   "kok": "رجل",
+   "kokAnlam": "erkek, adam",
+   "karsilik": "erkeklerinizden"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi",
+   "karsilik": "olmazsa"
+  },
+  {
+   "kelime": "يَكُونَا",
+   "okunus": "yekûnâ",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ikisi"
+  },
+  {
+   "kelime": "رَجُلَيْنِ",
+   "okunus": "racüleyni",
+   "kok": "رجل",
+   "kokAnlam": "erkek, adam",
+   "karsilik": "iki erkek"
+  },
+  {
+   "kelime": "فَرَجُلٌ",
+   "okunus": "feracülün",
+   "kok": "رجل",
+   "kokAnlam": "erkek, adam",
+   "karsilik": "o zaman bir erkek"
+  },
+  {
+   "kelime": "وَٱمْرَأَتَانِ",
+   "okunus": "vemraetâni",
+   "kok": "مرأ",
+   "kokAnlam": "kadın",
+   "karsilik": "ve iki kadın"
+  },
+  {
+   "kelime": "مِمَّن",
+   "okunus": "mimmen",
+   "kok": "—",
+   "kokAnlam": "(edat) kimselerden",
+   "karsilik": "kimselerden"
+  },
+  {
+   "kelime": "تَرْضَوْنَ",
+   "okunus": "terdavne",
+   "kok": "رضو",
+   "kokAnlam": "razı olma, hoşnutluk",
+   "karsilik": "razı olacağınız"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلشُّهَدَآءُ",
+   "okunus": "eşşühedâi",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık etme; şahitler",
+   "karsilik": "şahitlerden"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "تَضِلَّ",
+   "okunus": "tedılle",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, şaşırma, yanılma",
+   "karsilik": "şaşırırsa"
+  },
+  {
+   "kelime": "إِحْدَىٰهُمَا",
+   "okunus": "ihdâhümâ",
+   "kok": "أحد",
+   "kokAnlam": "biri",
+   "karsilik": "ikisinden biri"
+  },
+  {
+   "kelime": "فَتُذَكِّرَ",
+   "okunus": "fetüzekkira",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlatma",
+   "karsilik": "hatırlatsın"
+  },
+  {
+   "kelime": "إِحْدَىٰهُمَا",
+   "okunus": "ihdâhümâ",
+   "kok": "أحد",
+   "kokAnlam": "biri",
+   "karsilik": "ikisinden biri"
+  },
+  {
+   "kelime": "ٱلْأُخْرَىٰ",
+   "okunus": "el'ührâ",
+   "kok": "أخر",
+   "kokAnlam": "sonraki, öteki",
+   "karsilik": "diğerine"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يَأْبَ",
+   "okunus": "ye'be",
+   "kok": "أبي",
+   "kokAnlam": "kaçınma, çekinme",
+   "karsilik": "kaçınmasın"
+  },
+  {
+   "kelime": "ٱلشُّهَدَآءُ",
+   "okunus": "eşşühedâü",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık etme; şahitler",
+   "karsilik": "şahitler"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "zaman"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "دُعُوا۟",
+   "okunus": "düû",
+   "kok": "دعو",
+   "kokAnlam": "çağırma",
+   "karsilik": "çağırıldıklarında"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "تَسْـَٔمُوٓا۟",
+   "okunus": "tes'emû",
+   "kok": "سأم",
+   "kokAnlam": "usanma, üşenme, bıkma",
+   "karsilik": "üşenmeyin"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "-maktan"
+  },
+  {
+   "kelime": "تَكْتُبُوهُ",
+   "okunus": "tektübûhü",
+   "kok": "كتب",
+   "kokAnlam": "yazma",
+   "karsilik": "onu yazmaktan"
+  },
+  {
+   "kelime": "صَغِيرًا",
+   "okunus": "sağîran",
+   "kok": "صغر",
+   "kokAnlam": "küçüklük",
+   "karsilik": "küçük olsun"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "كَبِيرًا",
+   "okunus": "kebîran",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük",
+   "karsilik": "büyük olsun"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "أَجَلِهِۦ",
+   "okunus": "ecelihî",
+   "kok": "أجل",
+   "kokAnlam": "süre, vade",
+   "karsilik": "süresine"
+  },
+  {
+   "kelime": "ذَٰلِكُمْ",
+   "okunus": "zâliküm",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "أَقْسَطُ",
+   "okunus": "eksetu",
+   "kok": "قسط",
+   "kokAnlam": "adalet, denklik",
+   "karsilik": "daha adildir"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "yanında, katında",
+   "karsilik": "katında"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَأَقْوَمُ",
+   "okunus": "ve ekvemü",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; daha sağlam",
+   "karsilik": "ve daha sağlamdır"
+  },
+  {
+   "kelime": "لِلشَّهَٰدَةِ",
+   "okunus": "lilşşehâdeti",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık etme, şahitlik",
+   "karsilik": "şahitlik için"
+  },
+  {
+   "kelime": "وَأَدْنَىٰٓ",
+   "okunus": "ve ednâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık; daha uygun",
+   "karsilik": "ve daha uygundur"
+  },
+  {
+   "kelime": "أَلَّا",
+   "okunus": "ellâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki -meyesiniz",
+   "karsilik": "ki -memeniz"
+  },
+  {
+   "kelime": "تَرْتَابُوٓا۟",
+   "okunus": "tertâbû",
+   "kok": "ريب",
+   "kokAnlam": "şüpheye düşme, kuşkulanma",
+   "karsilik": "şüpheye düşmemeniz"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَكُونَ",
+   "okunus": "tekûne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olursa"
+  },
+  {
+   "kelime": "تِجَٰرَةً",
+   "okunus": "ticâraten",
+   "kok": "تجر",
+   "kokAnlam": "ticaret, alışveriş",
+   "karsilik": "bir ticaret"
+  },
+  {
+   "kelime": "حَاضِرَةً",
+   "okunus": "hâdıraten",
+   "kok": "حضر",
+   "kokAnlam": "hazır bulunma, peşin",
+   "karsilik": "peşin"
+  },
+  {
+   "kelime": "تُدِيرُونَهَا",
+   "okunus": "tüdîrûnehâ",
+   "kok": "دور",
+   "kokAnlam": "döndürme, elden ele yürütme",
+   "karsilik": "elden ele yürüttüğünüz"
+  },
+  {
+   "kelime": "بَيْنَكُمْ",
+   "okunus": "beyneküm",
+   "kok": "بين",
+   "kokAnlam": "arasında olma",
+   "karsilik": "aranızda"
+  },
+  {
+   "kelime": "فَلَيْسَ",
+   "okunus": "feleyse",
+   "kok": "ليس",
+   "kokAnlam": "olmama",
+   "karsilik": "o zaman yoktur"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinize",
+   "karsilik": "üzerinize"
+  },
+  {
+   "kelime": "جُنَاحٌ",
+   "okunus": "cünâhun",
+   "kok": "جنح",
+   "kokAnlam": "eğilme; günah, sakınca",
+   "karsilik": "bir günah"
+  },
+  {
+   "kelime": "أَلَّا",
+   "okunus": "ellâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki -memeniz",
+   "karsilik": "ki -memenizde"
+  },
+  {
+   "kelime": "تَكْتُبُوهَا",
+   "okunus": "tektübûhâ",
+   "kok": "كتب",
+   "kokAnlam": "yazma",
+   "karsilik": "onu yazmamanızda"
+  },
+  {
+   "kelime": "وَأَشْهِدُوٓا۟",
+   "okunus": "ve eşhidû",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık ettirme, şahit tutma",
+   "karsilik": "ve şahit tutun"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "zaman"
+  },
+  {
+   "kelime": "تَبَايَعْتُمْ",
+   "okunus": "tebâya'tüm",
+   "kok": "بيع",
+   "kokAnlam": "satma; karşılıklı alışveriş yapma",
+   "karsilik": "alışveriş yaptığınızda"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يُضَآرَّ",
+   "okunus": "yüdârra",
+   "kok": "ضرر",
+   "kokAnlam": "zarar verme",
+   "karsilik": "zarar verilmesin"
+  },
+  {
+   "kelime": "كَاتِبٌ",
+   "okunus": "kâtibün",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazıcı",
+   "karsilik": "yazıcıya"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "شَهِيدٌ",
+   "okunus": "şehîdün",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık etme; şahit",
+   "karsilik": "şahide"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَفْعَلُوا۟",
+   "okunus": "tef'alû",
+   "kok": "فعل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "yaparsanız"
+  },
+  {
+   "kelime": "فَإِنَّهُۥ",
+   "okunus": "feinnehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz o",
+   "karsilik": "şüphesiz bu"
+  },
+  {
+   "kelime": "فُسُوقٌۢ",
+   "okunus": "füsûkum",
+   "kok": "فسق",
+   "kokAnlam": "doğru yoldan çıkma, günahkârlık",
+   "karsilik": "bir günahkârlıktır"
+  },
+  {
+   "kelime": "بِكُمْ",
+   "okunus": "biküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "وَٱتَّقُوا۟",
+   "okunus": "vettekû",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "ve sakının"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "وَيُعَلِّمُكُمُ",
+   "okunus": "ve yüallimükümü",
+   "kok": "علم",
+   "kokAnlam": "öğretme",
+   "karsilik": "ve size öğretiyor"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "ve Allah"
+  },
+  {
+   "kelime": "بِكُلِّ",
+   "okunus": "bikülli",
+   "kok": "كلل",
+   "kokAnlam": "hepsi, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kur'an'ın en uzun ayeti olan bu ayet, vadeli borç ilişkisinin nasıl güvence altına alınacağını ayrıntılı biçimde düzenler: borç yazılmalı, adaletli bir yazıcı bulunmalı, borçlu metni yazdırırken Allah'tan sakınıp hiçbir şeyi eksiltmemeli. Borçlu bunu yapamayacak durumdaysa (aklı ermez, güçsüz veya yazdıramıyorsa) velisi onun adına adaletle yazdırır. Ardından iki erkek, ya da bir erkek ve iki kadın şahit tutulması istenir; iki kadının birlikte anılması, birinin unutması halinde diğerinin hatırlatabilmesi için bir güvence olarak açıklanır.",
+  "Ayet, küçük büyük her borcun vadesiyle birlikte yazılmasını, bunun Allah katında daha adil, şahitlik için daha sağlam ve şüpheden uzak olmayı sağlayacağını söyler. Elden ele yapılan peşin bir alışverişte yazma zorunlu tutulmaz, fakat yine de şahit tutulması istenir. Ayet, yazıcıya ve şahide zarar verilmemesini emrederek, bu düzenlemenin taraflardan hiçbirinin mağdur edilmemesi için konulduğunu; sonunda Allah'ın öğrettiğini ve her şeyi bildiğini hatırlatarak kapanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:283",
+   "meal": "Eğer yolculukta olur da bir yazıcı bulamazsanız, alınmış bir rehin yeterlidir...",
+   "baglanti": "Bir sonraki ayet, yazının mümkün olmadığı durumlar için rehin gibi alternatif bir güvenceyi düzenleyerek bu ayeti tamamlar."
+  },
+  {
+   "ref": "4:29",
+   "meal": "Ey iman edenler! Mallarınızı aranızda haksız yollarla yemeyin; ancak karşılıklı rızaya dayanan bir ticaret olması başka.",
+   "baglanti": "Mal ve ticaret ilişkilerinde karşılıklı rıza ve adalet ilkesini, borç yazma emrinin arkasındaki temel gerekçe olarak destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, borç, yazı ve şahitlik gibi hukuki bir düzenlemedir; bu, ticari ve mali ilişkilere dair somut bir talimattır. Klasik fıkıh, bu ayetin hükümlerini (yazının zorunlu mu tavsiye mi olduğu, şahit sayısı gibi) farklı yönleriyle ayrıntılı tartışır.",
+  "Genel bir ders olarak ayet, yakın ilişkilerde bile mali konuları sözlü güvene bırakmamanın, yazıya geçirmenin bir erdemsizlik değil tedbir olduğunu gösterir. Borç veya anlaşmaları yazılı hale getirmek, ileride çıkabilecek anlaşmazlıkları ve unutkanlığı önler; bu, hem alacaklıyı hem borçluyu korur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Borcunu yazıya geç",
+   "aciklama": "Birine borç verdiğinde veya aldığında, tutarı ve tarihi bugün yazılı olarak kaydet."
+  },
+  {
+   "baslik": "Anlaşmalarını netleştir",
+   "aciklama": "Sözlü kalan bir anlaşmanı bugün kısa bir mesaj veya notla teyit et."
+  },
+  {
+   "baslik": "Şahit veya kayıt bırak",
+   "aciklama": "Önemli bir finansal işlemini, ileride hatırlamak için bugün kayıt altına al."
+  }
+ ],
+ "bugununAdimi": "Bugün birine olan veya birinden olan bir borcunu, tutar ve tarihiyle birlikte yazıya geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=282"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/282"
+  }
+ ]
+}

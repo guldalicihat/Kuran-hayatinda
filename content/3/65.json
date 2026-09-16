@@ -1,0 +1,159 @@
+{
+ "sure": 3,
+ "ayet": 65,
+ "durum": "taslak",
+ "meal": "Ey Kitap ehli! Niçin İbrahim hakkında tartışıyorsunuz? Oysa Tevrat da İncil de ancak ondan sonra indirildi. Hâlâ akıl erdiremiyor musunuz?",
+ "mealNotu": "'Hacce' kökü delil öne sürerek tartışmayı anlatır. Ayet, tarihi bir sıralamayla -İbrahim'in Tevrat ve İncil'den önce yaşamasıyla- mantıksal bir çelişkiye işaret eder.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَهْلَ",
+   "okunus": "yâ ehle",
+   "kok": "أهل",
+   "kokAnlam": "aile, ehil, mensup",
+   "karsilik": "ey ehli"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "kitabın"
+  },
+  {
+   "kelime": "لِمَ",
+   "okunus": "lime",
+   "kok": "—",
+   "kokAnlam": "(soru) niçin",
+   "karsilik": "niçin"
+  },
+  {
+   "kelime": "تُحَآجُّونَ",
+   "okunus": "tühâccûne",
+   "kok": "حجج",
+   "kokAnlam": "tartışma, çekişme, delil öne sürme",
+   "karsilik": "tartışıyorsunuz"
+  },
+  {
+   "kelime": "فِىٓ",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "إِبْرَٰهِيمَ",
+   "okunus": "ibrâhîme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İbrahim",
+   "karsilik": "İbrahim"
+  },
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) oysa değil",
+   "karsilik": "oysa"
+  },
+  {
+   "kelime": "أُنزِلَتِ",
+   "okunus": "ünzileti",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirildi"
+  },
+  {
+   "kelime": "ٱلتَّوْرَىٰةُ",
+   "okunus": "ettevrâtü",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Tevrat",
+   "karsilik": "Tevrat"
+  },
+  {
+   "kelime": "وَٱلْإِنجِيلُ",
+   "okunus": "vel incîlü",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İncil",
+   "karsilik": "ve İncil"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِهِۦٓ",
+   "okunus": "ba'dihî",
+   "kok": "بعد",
+   "kokAnlam": "sonralık",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "أَفَلَا",
+   "okunus": "efelâ",
+   "kok": "—",
+   "kokAnlam": "(soru) hâlâ değil mi",
+   "karsilik": "hâlâ"
+  },
+  {
+   "kelime": "تَعْقِلُونَ",
+   "okunus": "ta'kılûne",
+   "kok": "عقل",
+   "kokAnlam": "akletme, anlama",
+   "karsilik": "akıl erdirmiyor musunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Kitap Ehli'nin İbrahim'i kendi dinlerine mal etme iddialarını tarihi bir gerçekle çürütür: Tevrat da İncil de İbrahim'den çok sonra indirilmiştir; dolayısıyla İbrahim ne Yahudi ne Hristiyan olabilir.",
+  "'Hâlâ akıl erdiremiyor musunuz?' sorusu, bu çelişkinin basit bir tarihi mantıkla anlaşılabileceğini vurgular. Ayet, sonraki ayette İbrahim'in kimliğini doğrudan açıklığa kavuşturur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:67",
+   "meal": "İbrahim ne Yahudi ne Hristiyan'dı; fakat o hanif bir müslümandı, müşriklerden de değildi.",
+   "baglanti": "Bu ayet, 65. ayette sorulan sorunun doğrudan cevabıdır: İbrahim hiçbir sonraki dinin mensubu değildi."
+  },
+  {
+   "ref": "2:140",
+   "meal": "Yoksa 'İbrahim, İsmail, İshak, Yakup ve torunları Yahudi veya Hristiyan'dı' mı diyorsunuz? De ki: 'Siz mi daha iyi bilirsiniz, yoksa Allah mı?'",
+   "baglanti": "Bakara suresi de aynı iddiayı, benzer bir tarihsel mantıkla sorgulayarak reddeder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, tarihi bir mantık hatasına dayanan dini bir iddiadır; bu, dinlerarası bir tartışma bağlamındadır.",
+  "Bugüne taşınabilecek ders, bir iddiada bulunmadan önce onun tarihi ve mantıksal tutarlılığını kontrol etmektir. Sahiplenmek istediğimiz bir kişiyi veya fikri, gerçeklerle çelişecek şekilde kendimize mal etmemeliyiz."
+ ],
+ "bugun": [
+  {
+   "baslik": "İddiaların tutarlılığını kontrol et",
+   "aciklama": "Bugün duyduğun bir iddiayı, basit bir tarih veya mantık kontrolüyle sına."
+  },
+  {
+   "baslik": "Sahiplenmeyi abartma",
+   "aciklama": "Bugün bir değeri veya kişiyi kendi grubuna mal ederken, gerçeklerle çelişip çelişmediğine dikkat et."
+  },
+  {
+   "baslik": "Akletmeyi önceliklendir",
+   "aciklama": "Bugün bir konuda duygusal tepki vermeden önce, aklını kullanarak düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün bir iddiayı kabul etmeden önce, onu basit bir mantık kontrolünden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=65"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/65"
+  }
+ ]
+}

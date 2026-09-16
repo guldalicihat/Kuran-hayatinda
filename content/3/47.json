@@ -1,0 +1,215 @@
+{
+ "sure": 3,
+ "ayet": 47,
+ "durum": "taslak",
+ "meal": "Meryem, 'Rabbim! Bana hiçbir beşer dokunmamışken benim bir çocuğum nasıl olur?' dedi. 'İşte böyle, Allah dilediğini yaratır. Bir işe karar verdiğinde sadece ona 'Ol' der, o da olur' dedi.",
+ "mealNotu": "'Kadâ' kökü hükme bağlama ve kesin karar vermeyi anlatır. 'Kün feyekûn' kalıbı Kur'an'da yaratmanın anlık ve aracısız gerçekleştiğini anlatmak için kullanılır; burada da aynı kalıp korunmuştur.",
+ "kokler": [
+  {
+   "kelime": "قَالَتْ",
+   "okunus": "kâlet",
+   "kok": "قول",
+   "kokAnlam": "söyleme, konuşma",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "رَبِّ",
+   "okunus": "rabbi",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbim"
+  },
+  {
+   "kelime": "أَنَّىٰ",
+   "okunus": "ennâ",
+   "kok": "—",
+   "kokAnlam": "(soru) nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "يَكُونُ",
+   "okunus": "yekûnü",
+   "kok": "كون",
+   "kokAnlam": "olma, var olma",
+   "karsilik": "olur"
+  },
+  {
+   "kelime": "لِى",
+   "okunus": "lî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) bana",
+   "karsilik": "benim"
+  },
+  {
+   "kelime": "وَلَدٌ",
+   "okunus": "veledün",
+   "kok": "ولد",
+   "kokAnlam": "doğurma, evlat",
+   "karsilik": "bir çocuğum"
+  },
+  {
+   "kelime": "وَلَمْ",
+   "okunus": "ve lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) hiç",
+   "karsilik": "hiç"
+  },
+  {
+   "kelime": "يَمْسَسْنِى",
+   "okunus": "yemsesnî",
+   "kok": "مسس",
+   "kokAnlam": "dokunma",
+   "karsilik": "bana dokunmamışken"
+  },
+  {
+   "kelime": "بَشَرٌ",
+   "okunus": "beşerun",
+   "kok": "بشر",
+   "kokAnlam": "insan, beşer",
+   "karsilik": "bir beşer"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, konuşma",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "كَذَٰلِكِ",
+   "okunus": "kezâliki",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapınılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَخْلُقُ",
+   "okunus": "yahlüku",
+   "kok": "خلق",
+   "kokAnlam": "yaratma, biçimlendirme",
+   "karsilik": "yaratır"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şeyi",
+   "karsilik": "dilediğini"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilediğini"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "karar verdiğinde"
+  },
+  {
+   "kelime": "قَضَىٰٓ",
+   "okunus": "kadâ",
+   "kok": "قضي",
+   "kokAnlam": "hükmetme, karar verme, bitirme",
+   "karsilik": "karar verdiğinde"
+  },
+  {
+   "kelime": "أَمْرًا",
+   "okunus": "emran",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir",
+   "karsilik": "bir işe"
+  },
+  {
+   "kelime": "فَإِنَّمَا",
+   "okunus": "feinnemâ",
+   "kok": "—",
+   "kokAnlam": "(kısıtlama) sadece, ancak",
+   "karsilik": "sadece"
+  },
+  {
+   "kelime": "يَقُولُ",
+   "okunus": "yekûlü",
+   "kok": "قول",
+   "kokAnlam": "söyleme, konuşma",
+   "karsilik": "der"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "كُن",
+   "okunus": "kün",
+   "kok": "كون",
+   "kokAnlam": "olma, var olma",
+   "karsilik": "'Ol'"
+  },
+  {
+   "kelime": "فَيَكُونُ",
+   "okunus": "feyekûnü",
+   "kok": "كون",
+   "kokAnlam": "olma, var olma",
+   "karsilik": "o da olur"
+  }
+ ],
+ "neAnlatiyor": [
+  "Meryem, kendisine verilen çocuk müjdesi karşısında Zekeriyya'nınkine benzer bir şaşkınlık yaşar: kendisine hiçbir insan dokunmamışken bir çocuğunun nasıl olacağını sorar. Bu, imansızlık değil, doğal bir merak ifadesidir.",
+  "Cevap, Allah'ın yaratma gücünün alışılmış sebep-sonuç zincirine bağlı olmadığını gösterir: 'Ol' der ve olur. Klasik tefsir bu ifadeyi Allah'ın iradesinin anlık ve aracısız işlediğine dair bir açıklama olarak yorumlar; sürecin nasıl işlediğine dair ayrıntı vermez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "19:20",
+   "meal": "Meryem, 'Bana bir beşer dokunmamışken, ben iffetsiz bir kadın da değilken, benim nasıl bir oğlum olur?' dedi.",
+   "baglanti": "Meryem suresi aynı soruyu, kadının iffetine vurgu yaparak da anlatır."
+  },
+  {
+   "ref": "3:59",
+   "meal": "Şüphesiz İsa'nın Allah katındaki durumu, Âdem'in durumu gibidir; onu topraktan yarattı, sonra ona 'Ol' dedi, o da oldu.",
+   "baglanti": "Aynı sure içinde İsa'nın yaratılışı Âdem'inkiyle karşılaştırılır; ikisinde de 'Ol' emri doğrudan işler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, İsa'nın babasız yaratılışına dair özel ve mucizevi bir durumdur; bu, tarihte tekrarı olmayan bir olaydır.",
+  "Bununla birlikte, 'Allah dilediğini yaratır' ilkesi, insanın imkânsız gördüğü durumlarda bile ümidini kaybetmemesi için bir hatırlatmadır. Zor bir işe karar verildiğinde Allah'ın onu kolaylaştırabileceğini bilmek, çabayı bırakmak değil umutla çalışmak anlamına gelir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İmkânsız görüneni yeniden düşün",
+   "aciklama": "Bugün 'bu asla olmaz' dediğin bir konuyu, Allah'ın gücünü hatırlayarak yeniden değerlendir."
+  },
+  {
+   "baslik": "Sabırla bekle",
+   "aciklama": "Sonucu senin elinde olmayan bir konuda bugün acele etmeden, dua ederek bekle."
+  },
+  {
+   "baslik": "'Kün feyekûn' bilincini taşı",
+   "aciklama": "Bugün büyük bir işe başlarken, sonucun Allah'ın iradesiyle kolaylaşabileceğini hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün zor gördüğün bir işe başlamadan önce kısa bir dua et ve ardından ilk adımı at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=47"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/47"
+  }
+ ]
+}

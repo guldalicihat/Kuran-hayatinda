@@ -1,0 +1,523 @@
+{
+ "sure": 2,
+ "ayet": 259,
+ "durum": "taslak",
+ "meal": "Yahut altı üstüne gelmiş, ıpıssız duran bir şehre uğrayan kimseyi görmedin mi? 'Allah burayı ölümünden sonra nasıl diriltecek?' demişti. Bunun üzerine Allah onu yüz yıl öldürdü, sonra diriltti. 'Ne kadar kaldın?' dedi. 'Bir gün ya da bir günün bir kısmı kadar kaldım' dedi. Allah, 'Hayır, yüz yıl kaldın; yiyeceğine ve içeceğine bak, henüz bozulmamış; eşeğine de bak. Seni insanlara bir ibret kılalım diye böyle yaptık. Kemiklere de bak, onları nasıl kaldırıp birleştiriyoruz, sonra onlara et giydiriyoruz' dedi. Kendisine bu apaçık olunca, 'Artık biliyorum ki Allah her şeye gücü yetendir' dedi.",
+ "mealNotu": "Kök temelli meal. 'Hâviye' kökü çökmüş, boşalmış olmayı; 'nünşizuhâ' ifadesi dağılmış parçaların kaldırılıp birleştirilmesini anlatır. Kişinin ve şehrin kimliği ayette belirtilmez; klasik tefsir bu konuda farklı isimler zikreder, burada belirtilmemiştir.",
+ "kokler": [
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "كَٱلَّذِى",
+   "okunus": "kellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ...gibi olan kimse",
+   "karsilik": "kimseyi"
+  },
+  {
+   "kelime": "مَرَّ",
+   "okunus": "merra",
+   "kok": "مرر",
+   "kokAnlam": "geçme, uğrama",
+   "karsilik": "uğrayan"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "قَرْيَةٍ",
+   "okunus": "karyetin",
+   "kok": "قري",
+   "kokAnlam": "yerleşim yeri, şehir",
+   "karsilik": "bir şehre"
+  },
+  {
+   "kelime": "وَهِىَ",
+   "okunus": "ve hiye",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "ki o"
+  },
+  {
+   "kelime": "خَاوِيَةٌ",
+   "okunus": "hâviyetün",
+   "kok": "خوي",
+   "kokAnlam": "boşalma, çökme",
+   "karsilik": "ıpıssız"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "عُرُوشِهَا",
+   "okunus": "urûşihâ",
+   "kok": "عرش",
+   "kokAnlam": "çardak, dam, çatı",
+   "karsilik": "damları"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "demişti"
+  },
+  {
+   "kelime": "أَنَّىٰ",
+   "okunus": "ennâ",
+   "kok": "—",
+   "kokAnlam": "(soru) nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "يُحْىِۦ",
+   "okunus": "yühyî",
+   "kok": "حيي",
+   "kokAnlam": "diri kılma, hayat verme",
+   "karsilik": "diriltecek"
+  },
+  {
+   "kelime": "هَٰذِهِ",
+   "okunus": "hâzihi",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunu",
+   "karsilik": "burayı"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مَوْتِهَا",
+   "okunus": "mevtihâ",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölümünden"
+  },
+  {
+   "kelime": "فَأَمَاتَهُ",
+   "okunus": "feemâtehü",
+   "kok": "موت",
+   "kokAnlam": "öldürme",
+   "karsilik": "bunun üzerine onu öldürdü"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مِا۟ئَةَ",
+   "okunus": "miete",
+   "kok": "مأي",
+   "kokAnlam": "yüz",
+   "karsilik": "yüz"
+  },
+  {
+   "kelime": "عَامٍ",
+   "okunus": "âmin",
+   "kok": "عوم",
+   "kokAnlam": "yıl",
+   "karsilik": "yıl"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "بَعَثَهُۥ",
+   "okunus": "beasehû",
+   "kok": "بعث",
+   "kokAnlam": "gönderme, diriltip kaldırma",
+   "karsilik": "onu diriltti"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "كَمْ",
+   "okunus": "kem",
+   "kok": "—",
+   "kokAnlam": "(soru) ne kadar",
+   "karsilik": "ne kadar"
+  },
+  {
+   "kelime": "لَّبِثْتَ",
+   "okunus": "lebiste",
+   "kok": "لبث",
+   "kokAnlam": "kalma, durma",
+   "karsilik": "kaldın"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "لَّبِثْتَ",
+   "okunus": "lebistü",
+   "kok": "لبث",
+   "kokAnlam": "kalma, durma",
+   "karsilik": "kaldım"
+  },
+  {
+   "kelime": "يَوْمًا",
+   "okunus": "yevmen",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bir gün"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "بَعْضَ",
+   "okunus": "ba'da",
+   "kok": "بعض",
+   "kokAnlam": "bir kısmı",
+   "karsilik": "bir kısmı"
+  },
+  {
+   "kelime": "يَوْمٍ",
+   "okunus": "yevmin",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günün"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "بَل",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) hayır, bilakis",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "لَّبِثْتَ",
+   "okunus": "lebiste",
+   "kok": "لبث",
+   "kokAnlam": "kalma, durma",
+   "karsilik": "kaldın"
+  },
+  {
+   "kelime": "مِا۟ئَةَ",
+   "okunus": "miete",
+   "kok": "مأي",
+   "kokAnlam": "yüz",
+   "karsilik": "yüz"
+  },
+  {
+   "kelime": "عَامٍ",
+   "okunus": "âmin",
+   "kok": "عوم",
+   "kokAnlam": "yıl",
+   "karsilik": "yıl"
+  },
+  {
+   "kelime": "فَٱنظُرْ",
+   "okunus": "fenzur",
+   "kok": "نظر",
+   "kokAnlam": "bakma",
+   "karsilik": "bak"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "طَعَامِكَ",
+   "okunus": "taâmike",
+   "kok": "طعم",
+   "kokAnlam": "tat alma; yiyecek",
+   "karsilik": "yiyeceğine"
+  },
+  {
+   "kelime": "وَشَرَابِكَ",
+   "okunus": "ve şerâbike",
+   "kok": "شرب",
+   "kokAnlam": "içme; içecek",
+   "karsilik": "ve içeceğine"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "يَتَسَنَّهْ",
+   "okunus": "yetesenneh",
+   "kok": "سنه",
+   "kokAnlam": "yıllar geçmesiyle bozulma",
+   "karsilik": "bozulmadı"
+  },
+  {
+   "kelime": "وَٱنظُرْ",
+   "okunus": "venzur",
+   "kok": "نظر",
+   "kokAnlam": "bakma",
+   "karsilik": "bak"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "حِمَارِكَ",
+   "okunus": "himârike",
+   "kok": "حمر",
+   "kokAnlam": "eşek",
+   "karsilik": "eşeğine"
+  },
+  {
+   "kelime": "وَلِنَجْعَلَكَ",
+   "okunus": "ve linec'aleke",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "seni kılalım diye"
+  },
+  {
+   "kelime": "ءَايَةً",
+   "okunus": "âyeten",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil, ibret",
+   "karsilik": "bir ibret"
+  },
+  {
+   "kelime": "لِّلنَّاسِ",
+   "okunus": "lilnnâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan, insanlık",
+   "karsilik": "insanlara"
+  },
+  {
+   "kelime": "وَٱنظُرْ",
+   "okunus": "venzur",
+   "kok": "نظر",
+   "kokAnlam": "bakma",
+   "karsilik": "bak"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْعِظَامِ",
+   "okunus": "el'izâmi",
+   "kok": "عظم",
+   "kokAnlam": "kemik",
+   "karsilik": "kemiklere"
+  },
+  {
+   "kelime": "كَيْفَ",
+   "okunus": "keyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "نُنشِزُهَا",
+   "okunus": "nünşizühâ",
+   "kok": "نشز",
+   "kokAnlam": "yerinden kaldırıp birleştirme",
+   "karsilik": "onları kaldırıp birleştiriyoruz"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "نَكْسُوهَا",
+   "okunus": "neksûhâ",
+   "kok": "كسو",
+   "kokAnlam": "giydirme, örtme",
+   "karsilik": "onlara giydiriyoruz"
+  },
+  {
+   "kelime": "لَحْمًا",
+   "okunus": "lahmen",
+   "kok": "لحم",
+   "kokAnlam": "et",
+   "karsilik": "et"
+  },
+  {
+   "kelime": "فَلَمَّا",
+   "okunus": "felemmâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "apaçık olunca"
+  },
+  {
+   "kelime": "تَبَيَّنَ",
+   "okunus": "tebeyyene",
+   "kok": "بين",
+   "kokAnlam": "açıklık kazanma, ortaya çıkma",
+   "karsilik": "apaçık oldu"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ona",
+   "karsilik": "kendisine"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "أَعْلَمُ",
+   "okunus": "a'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "biliyorum"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "كُلِّ",
+   "okunus": "külli",
+   "kok": "كلل",
+   "kokAnlam": "hepsi, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "şeye"
+  },
+  {
+   "kelime": "قَدِيرٌ",
+   "okunus": "kadîrun",
+   "kok": "قدر",
+   "kokAnlam": "güç yetirme, ölçme",
+   "karsilik": "gücü yetendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, çökmüş bir şehre uğrayan ve 'Allah burayı nasıl diriltecek?' diyen bir kimsenin kıssasını anlatır. Bu soru inkâr değil, bir merak ve mucizeyi görmek isteme sorusudur; çünkü Allah cevabı ona bizzat yaşatarak verir: onu yüz yıl öldürüp sonra diriltir.",
+  "Kişi ne kadar kaldığını bilmez, kısa bir süre sanır; ancak yiyeceğinin bozulmamış olması ile eşeğinin kemiklerinin yeniden birleşip et bağlaması, gerçek süreyi ve dirilişin nasıl gerçekleştiğini gözler önüne serer. Kıssa, kişinin 'Artık biliyorum ki Allah her şeye gücü yetendir' demesiyle, gözle görülen bir kanıtla kesin bilgiye ulaşmasıyla sona erer."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:78",
+   "meal": "Kendi yaratılışını unutup bize bir örnek verdi: 'Şu çürümüş haldeki kemikleri kim diriltecek?' dedi.",
+   "baglanti": "Aynı 'kemiklerin diriltilmesi' imgesini, inkârcı bir sorunun cevabı olarak tekrarlar."
+  },
+  {
+   "ref": "2:260",
+   "meal": "Hani İbrahim, 'Rabbim! Ölüleri nasıl dirilttiğini bana göster' demişti...",
+   "baglanti": "Bir sonraki ayette İbrahim de benzer bir istekte bulunur; ikisi de dirilişi gözle görerek kalben tatmin olmak ister."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ölümden sonra dirilişin somut bir örnekle gösterilmesidir. Bu, gaybe iman ile ilgili özel bir olaydır ve doğrudan bir günlük emir içermez.",
+  "Yine de kıssadan çıkarılabilecek bir ders var: bazı gerçekler zamanla, sabırla ve gözlemle daha net anlaşılır. İnsan bir konuda emin olmak istediğinde, hemen sonuca varmak yerine süreci gözlemlemeyi öğrenebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zamanın etkisini gözlemle",
+   "aciklama": "Uzun süredir değişmeyen bir alışkanlığının bugün ne kadar değiştiğini gözden geçir."
+  },
+  {
+   "baslik": "Şüpheni araştırarak gider",
+   "aciklama": "Emin olmadığın bir konuyu bugün araştırıp öğren, varsayımda kalma."
+  },
+  {
+   "baslik": "Küçük bir yenilenmeyi fark et",
+   "aciklama": "Hayatında yeniden canlanan bir ilişki veya alışkanlığı bugün birine anlat."
+  }
+ ],
+ "bugununAdimi": "Bugün emin olmadığın bir konuyu araştırıp netleştir, varsayımla yetinme.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=259"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/259"
+  }
+ ]
+}

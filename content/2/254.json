@@ -1,0 +1,201 @@
+{
+ "sure": 2,
+ "ayet": 254,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Kendisinde ne alışveriş, ne dostluk, ne de şefaat bulunan gün gelmeden önce, size rızık olarak verdiğimiz şeylerden infak edin. İnkâr edenler, zalimlerin ta kendileridir.",
+ "mealNotu": "Kök temelli meal. 'Enfikû' kökü genel anlamda harcamayı, elden çıkarmayı anlatır; yalnız zekâtı değil her türlü infakı kapsar. 'Hulle' kökü candan dostluğu anlatır; sadece 'dostluk' değil 'candan dostluk' vurgusu köşeli parantezle eklenebilirdi, burada sade tutulmuştur.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوٓا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "أَنفِقُوا۟",
+   "okunus": "enfikû",
+   "kok": "نفق",
+   "kokAnlam": "harcama, elden çıkarma; infak etme",
+   "karsilik": "infak edin"
+  },
+  {
+   "kelime": "مِمَّا",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -den olan şey",
+   "karsilik": "şeylerden"
+  },
+  {
+   "kelime": "رَزَقْنَٰكُم",
+   "okunus": "razeknâküm",
+   "kok": "رزق",
+   "kokAnlam": "rızıklandırma",
+   "karsilik": "size rızık verdiğimiz"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِ",
+   "okunus": "kabli",
+   "kok": "قبل",
+   "kokAnlam": "önce",
+   "karsilik": "önce"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "gelmeden"
+  },
+  {
+   "kelime": "يَأْتِىَ",
+   "okunus": "ye'tiye",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "gelmesi"
+  },
+  {
+   "kelime": "يَوْمٌ",
+   "okunus": "yevmün",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bir gün"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "olmayan"
+  },
+  {
+   "kelime": "بَيْعٌ",
+   "okunus": "bey'un",
+   "kok": "بيع",
+   "kokAnlam": "satma, alışveriş",
+   "karsilik": "alışveriş"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "خُلَّةٌ",
+   "okunus": "hulletün",
+   "kok": "خلل",
+   "kokAnlam": "içine sızan candan dostluk",
+   "karsilik": "dostluk"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "شَفَٰعَةٌ",
+   "okunus": "şefâatün",
+   "kok": "شفع",
+   "kokAnlam": "şefaat, araya girip destekleme",
+   "karsilik": "şefaat"
+  },
+  {
+   "kelime": "وَٱلْكَٰفِرُونَ",
+   "okunus": "vel kâfirûne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtenler, inkârcılar",
+   "karsilik": "inkâr edenler"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "-in ta kendileridir"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمُونَ",
+   "okunus": "ezzâlimûne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, zulmetme",
+   "karsilik": "zalimler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayette anlatılan peygamber kıssalarından sonra müminlere doğrudan bir çağrıya döner: kıyamet günü gelmeden, sahip oldukları rızıktan infak etmeleri istenir. 'Rızık' ifadesi, malın aslında verilmiş bir emanet olduğunu hatırlatır.",
+  "O gün için üç şey açıkça yok sayılır: alışveriş, candan dostluk ve şefaat. Klasik tefsir bunu, dünyadaki kurtarıcı ilişkilerin ahirette işe yaramayacağı, ancak Allah'ın izniyle olacak şefaatin bu genel ifadenin dışında tutulduğu şeklinde açıklar. Ayet, inkârı bu fırsatı değerlendirmemekle ilişkilendirerek biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "63:10",
+   "meal": "Herhangi birinize ölüm gelip de 'Rabbim, beni yakın bir süreye kadar ertelesen de sadaka verip iyilerden olsam' demeden önce, size verdiğimiz rızıktan infak edin.",
+   "baglanti": "Aynı çağrıyı, ölüm anındaki pişmanlık sahnesiyle somutlaştırır; fırsatın sınırlı olduğunu gösterir."
+  },
+  {
+   "ref": "2:48",
+   "meal": "Öyle bir günden sakının ki, o gün kimse kimsenin yerine bir şey ödeyemez, kimseden şefaat kabul edilmez, kimseden fidye alınmaz ve onlara yardım da edilmez.",
+   "baglanti": "Bakara'nın başında da aynı gün, şefaatin ve yardımın geçersizliği vurgusuyla anılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyamet günü gelmeden infak etmektir. Bu, malın bir kısmını başkası için harcamayı içeren somut bir emirdir.",
+  "Günlük hayata taşınacak ders, elindeki imkânı ertelemeden değerlendirmektir. İnsan çoğu zaman 'daha uygun bir zaman gelince veririm' diye erteler; ayet bu ertelemenin bir gün imkânsız hale geleceğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçük bir infakı ertelemeden yap",
+   "aciklama": "Bugün planladığın bir bağışı yarına bırakmadan şimdi gerçekleştir."
+  },
+  {
+   "baslik": "Elindeki imkânı listele",
+   "aciklama": "Paylaşabileceğin zaman, bilgi veya eşya gibi bir imkânı yaz ve kime faydalı olabileceğini belirle."
+  },
+  {
+   "baslik": "Ertelediğin bir yardımı hatırla",
+   "aciklama": "Söz verip yapmadığın bir yardımı bugün tamamla."
+  }
+ ],
+ "bugununAdimi": "Bugün erteleyip durduğun küçük bir yardımı, başka bir güne bırakmadan şimdi yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=254"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/254"
+  }
+ ]
+}

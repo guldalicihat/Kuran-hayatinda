@@ -1,0 +1,222 @@
+{
+ "sure": 3,
+ "ayet": 36,
+ "durum": "taslak",
+ "meal": "Onu doğurunca dedi ki: 'Rabbim! Ben onu bir kız doğurdum -oysa Allah ne doğurduğunu daha iyi bilir- erkek, kız gibi değildir. Ben ona Meryem adını koydum; onu ve soyunu kovulmuş şeytandan sana sığındırıyorum.'",
+ "mealNotu": "'Veda'a' kökü koyma ve doğurma anlamı taşır. 'Ve leysez zekeru kel ünsâ' cümlesi, kadının beklentisiyle gerçekleşen arasındaki farkı belirten bir ara cümle olarak okunur. 'Racîm' kökü taşlanmış, kovulmuş anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "فَلَمَّا",
+   "okunus": "felemmâ",
+   "kok": "—",
+   "kokAnlam": "(zaman bağlacı) ...dığında",
+   "karsilik": "doğurunca"
+  },
+  {
+   "kelime": "وَضَعْتُهَآ",
+   "okunus": "vedaathâ",
+   "kok": "وضع",
+   "kokAnlam": "koyma, bırakma; doğurma",
+   "karsilik": "onu doğurunca"
+  },
+  {
+   "kelime": "قَالَتْ",
+   "okunus": "kâlet",
+   "kok": "قول",
+   "kokAnlam": "söyleme, konuşma",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "رَبِّ",
+   "okunus": "rabbi",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbim"
+  },
+  {
+   "kelime": "إِنِّى",
+   "okunus": "innî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten ben",
+   "karsilik": "ben"
+  },
+  {
+   "kelime": "وَضَعْتُهَآ",
+   "okunus": "veda'tühâ",
+   "kok": "وضع",
+   "kokAnlam": "koyma; doğurma",
+   "karsilik": "onu doğurdum"
+  },
+  {
+   "kelime": "أُنثَىٰ",
+   "okunus": "ünsâ",
+   "kok": "أنث",
+   "kokAnlam": "dişilik",
+   "karsilik": "bir kız"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapınılan",
+   "karsilik": "oysa Allah"
+  },
+  {
+   "kelime": "أَعْلَمُ",
+   "okunus": "a'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "daha iyi bilir"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) şeyi",
+   "karsilik": "ne doğurduğunu"
+  },
+  {
+   "kelime": "وَضَعَتْ",
+   "okunus": "vedaat",
+   "kok": "وضع",
+   "kokAnlam": "koyma; doğurma",
+   "karsilik": "doğurduğunu"
+  },
+  {
+   "kelime": "وَلَيْسَ",
+   "okunus": "ve leyse",
+   "kok": "ليس",
+   "kokAnlam": "olumsuzluk fiili, değildir",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "ٱلذَّكَرُ",
+   "okunus": "ezzekeru",
+   "kok": "ذكر",
+   "kokAnlam": "erkeklik; anma",
+   "karsilik": "erkek"
+  },
+  {
+   "kelime": "كَٱلْأُنثَىٰ",
+   "okunus": "kel ünsâ",
+   "kok": "أنث",
+   "kokAnlam": "dişilik",
+   "karsilik": "kız gibi"
+  },
+  {
+   "kelime": "وَإِنِّىٓ",
+   "okunus": "ve innî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten ben",
+   "karsilik": "ben"
+  },
+  {
+   "kelime": "سَمَّيْتُهَا",
+   "okunus": "semmeytühâ",
+   "kok": "سمو",
+   "kokAnlam": "isim verme, yükseltme",
+   "karsilik": "ona adını koydum"
+  },
+  {
+   "kelime": "مَرْيَمَ",
+   "okunus": "meryeme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Meryem",
+   "karsilik": "Meryem"
+  },
+  {
+   "kelime": "وَإِنِّىٓ",
+   "okunus": "ve innî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten ben",
+   "karsilik": "ben"
+  },
+  {
+   "kelime": "أُعِيذُهَا",
+   "okunus": "üîzühâ",
+   "kok": "عوذ",
+   "kokAnlam": "sığınma, koruma talep etme",
+   "karsilik": "onu sığındırıyorum"
+  },
+  {
+   "kelime": "بِكَ",
+   "okunus": "bike",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "وَذُرِّيَّتَهَا",
+   "okunus": "ve zürriyyetehâ",
+   "kok": "ذرر",
+   "kokAnlam": "nesil, zürriyet",
+   "karsilik": "ve soyunu"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلشَّيْطَٰنِ",
+   "okunus": "eşşeytâni",
+   "kok": "شطن",
+   "kokAnlam": "uzaklaşma, azgınlık; şeytan",
+   "karsilik": "şeytandan"
+  },
+  {
+   "kelime": "ٱلرَّجِيمِ",
+   "okunus": "erracîmi",
+   "kok": "رجم",
+   "kokAnlam": "taşlama, kovma",
+   "karsilik": "kovulmuş"
+  }
+ ],
+ "neAnlatiyor": [
+  "İmran'ın hanımı adadığı çocuğu doğurunca kız olduğunu görür; o dönemin geleneğinde mabede hizmet erkek çocuklara verildiği için bu bir şaşkınlık ifade eder. 'Oysa Allah ne doğurduğunu daha iyi bilir' ifadesi, insanın planının Allah'ın takdiriyle nasıl farklı seyredebileceğini hatırlatır.",
+  "Anne, çocuğuna Meryem adını koyar ve onu -soyuyla birlikte- şeytandan Allah'a sığındırır. Klasik tefsir bu duayı, Meryem ve oğlu İsa'nın şeytanın doğrudan zararından korunduğuna dair bir işaret olarak yorumlar. Ayet, bir annenin çocuğunu Allah'a emanet etme duasının örneğidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:37",
+   "meal": "Bunun üzerine Rabbi onu güzel bir kabulle kabul etti, onu güzelce yetiştirdi ve Zekeriyya'yı ona kefil kıldı.",
+   "baglanti": "Kız olarak doğması adağın reddi değil, aksine güzel bir kabulle karşılanmasıdır; hemen sonraki ayet bunu gösterir."
+  },
+  {
+   "ref": "21:91",
+   "meal": "Irzını koruyan o kadını da an; ona ruhumuzdan üfledik, kendisini ve oğlunu âlemler için bir ayet kıldık.",
+   "baglanti": "Bu ayet, İmran'ın hanımının 'onu şeytandan sana sığındırıyorum' duasının karşılığını gösterir; Meryem ve oğlu birlikte bir ayet kılınmıştır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir annenin beklenmedik bir durum karşısındaki tepkisi ve çocuğunu Allah'a emanet etmesidir. Bu, herkesin yaşayabileceği bir plan-sonuç farkına örnektir.",
+  "Hayatta beklediğimizden farklı bir sonuçla karşılaştığımızda önce Allah'ın bildiğini kabul etmek, sonra elimizdekini en iyi şekilde değerlendirmek bu ayetten çıkarılabilecek bir tutumdur. Çocuğun cinsiyeti, mesleği ya da hayatındaki başka bir beklenmedik durum bu ilkeyle karşılanabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Beklenmedik bir sonucu kabullen",
+   "aciklama": "Planladığından farklı çıkan bir durumu bugün 'Allah daha iyi bilir' diyerek yeniden değerlendir."
+  },
+  {
+   "baslik": "Emanet duası et",
+   "aciklama": "Sorumlu olduğun birini (çocuğun, öğrencin, yakının) bugün kısa bir cümleyle Allah'a emanet et."
+  },
+  {
+   "baslik": "Etiketlemeden değerlendir",
+   "aciklama": "Bir kişiyi önceden belirlenmiş bir beklentiyle küçümsemek yerine, kendi değerinden dolayı değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün beklentinin dışında gelişen bir durumu yazıp, onunla ilgili tek bir olumlu adım belirle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=36"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/36"
+  }
+ ]
+}

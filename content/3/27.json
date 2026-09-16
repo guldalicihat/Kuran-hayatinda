@@ -1,0 +1,201 @@
+{
+ "sure": 3,
+ "ayet": 27,
+ "durum": "taslak",
+ "meal": "Geceyi gündüze sokarsın, gündüzü geceye sokarsın; ölüden diriyi çıkarırsın, diriden ölüyü çıkarırsın. Dilediğini hesapsız rızıklandırırsın.",
+ "mealNotu": "'Tûlicü' kökü (velece) bir şeyi başka bir şeyin içine sokmayı anlatır; gece ile gündüzün birbirine geçişini ifade eder. 'Bigayri hisâb' (hesapsız) ifadesi, rızkın bazen insanın beklediği ölçüyü aşan biçimde verilebileceğini vurgular.",
+ "kokler": [
+  {
+   "kelime": "تُولِجُ",
+   "okunus": "tûlicü",
+   "kok": "ولج",
+   "kokAnlam": "içine sokma, girdirme",
+   "karsilik": "sokarsın"
+  },
+  {
+   "kelime": "ٱلَّيْلِ",
+   "okunus": "elleyle",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "geceyi"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -e, içine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلنَّهَارَ",
+   "okunus": "ennehâri",
+   "kok": "نهر",
+   "kokAnlam": "gündüz",
+   "karsilik": "gündüze"
+  },
+  {
+   "kelime": "وَتُولِجُ",
+   "okunus": "ve tûlicü",
+   "kok": "ولج",
+   "kokAnlam": "içine sokma, girdirme",
+   "karsilik": "ve sokarsın"
+  },
+  {
+   "kelime": "ٱلنَّهَارَ",
+   "okunus": "ennehâra",
+   "kok": "نهر",
+   "kokAnlam": "gündüz",
+   "karsilik": "gündüzü"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -e, içine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلَّيْلِ",
+   "okunus": "elleyli",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "geceye"
+  },
+  {
+   "kelime": "وَتُخْرِجُ",
+   "okunus": "ve tühricü",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma, dışarı getirme",
+   "karsilik": "ve çıkarırsın"
+  },
+  {
+   "kelime": "ٱلْحَىِّ",
+   "okunus": "elhayye",
+   "kok": "حيي",
+   "kokAnlam": "canlı olma, diri",
+   "karsilik": "diriyi"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمَيِّتَ",
+   "okunus": "elmeyyiti",
+   "kok": "موت",
+   "kokAnlam": "ölme, ölü",
+   "karsilik": "ölüden"
+  },
+  {
+   "kelime": "وَتُخْرِجُ",
+   "okunus": "ve tühricü",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma, dışarı getirme",
+   "karsilik": "ve çıkarırsın"
+  },
+  {
+   "kelime": "ٱلْمَيِّتَ",
+   "okunus": "elmeyyite",
+   "kok": "موت",
+   "kokAnlam": "ölme, ölü",
+   "karsilik": "ölüyü"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْحَىِّ",
+   "okunus": "elhayyi",
+   "kok": "حيي",
+   "kokAnlam": "canlı olma, diri",
+   "karsilik": "diriden"
+  },
+  {
+   "kelime": "وَتَرْزُقُ",
+   "okunus": "ve terzüku",
+   "kok": "رزق",
+   "kokAnlam": "rızık verme, besleme",
+   "karsilik": "ve rızıklandırırsın"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimi",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "تَشَآءُ",
+   "okunus": "teşâü",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilersen"
+  },
+  {
+   "kelime": "بِغَيْرِ",
+   "okunus": "biğayri",
+   "kok": "غير",
+   "kokAnlam": "başkalık, olmama",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "حِسَابٍ",
+   "okunus": "hisâbin",
+   "kok": "حسب",
+   "kokAnlam": "sayma, hesap",
+   "karsilik": "hesap"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetteki mülk ve güç vurgusuna, doğadaki büyük düzenlerden örnekler ekler: gece-gündüz döngüsü ve diri-ölü çıkarma. Bu örnekler, Allah'ın gücünün yalnızca siyasi alanda değil, yaratılışın her katmanında görüldüğünü gösterir.",
+  "'Diriden ölü, ölüden diri çıkarma' ifadesi klasik tefsirde hem bitki ve hayvan yaşam döngüsüne hem de imandan küfre veya küfürden imana geçişe benzetilerek açıklanır. Ayetin son cümlesi, bütün bu güce rağmen Allah'ın rızkı da dilediğine hesapsız verebileceğini ekler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "22:61",
+   "meal": "Bu, Allah'ın geceyi gündüze, gündüzü geceye sokmasındandır; şüphesiz Allah işitendir, görendir.",
+   "baglanti": "Hac suresindeki bu ayet, gece-gündüz döngüsünü aynı fiille anlatarak bu ayetteki doğa örneğini pekiştirir."
+  },
+  {
+   "ref": "6:95",
+   "meal": "Şüphesiz Allah, taneyi ve çekirdeği yarandır; ölüden diriyi çıkarır, diriden de ölüyü çıkaran O'dur.",
+   "baglanti": "En'âm suresindeki bu ayet, 'ölüden diriyi, diriden ölüyü çıkarma' ifadesini aynen tekrarlayarak bu doğa kanununu teyit eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu doğadaki büyük döngülerdir; bir dünya hükmü içermez. Gece-gündüz, diri-ölü gibi karşıtların birbirine dönüşmesi, hayatın da benzer dönüşümlerle dolu olduğunu hatırlatır.",
+  "Günlük hayatta bu, zor bir dönemin sonsuza kadar sürmeyeceğini, karanlığın ardından aydınlığın geleceğini öğretir. 'Hesapsız rızık' ifadesi ise beklenmedik bir iyiliğin veya kolaylığın her an mümkün olduğunu hatırlatarak umut verir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Döngüyü hatırla",
+   "aciklama": "Bugün zor bir dönemden geçiyorsan, gece-gündüz döngüsü gibi bunun da değişeceğini hatırla."
+  },
+  {
+   "baslik": "Umutla bekle",
+   "aciklama": "Bugün beklenmedik bir iyilik için Allah'tan hesapsız bir rızık iste."
+  },
+  {
+   "baslik": "Doğayı gözlemle",
+   "aciklama": "Bugün gün batımı veya gün doğumunu izleyerek bu döngü üzerinde birkaç dakika düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün gün batımını izle ve gece ile gündüzün birbirine dönüşümü üzerine kısa bir dua et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=27"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/27"
+  }
+ ]
+}

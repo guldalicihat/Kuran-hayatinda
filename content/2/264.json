@@ -1,0 +1,320 @@
+{
+ "sure": 2,
+ "ayet": 264,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! İnsanlara gösteriş için malını infak edip Allah'a ve ahiret gününe inanmayan kimse gibi, başa kakma ve eziyet ederek sadakalarınızı geçersiz kılmayın. Onun durumu, üzerinde toprak bulunan düz bir kayaya benzer; şiddetli bir yağmur isabet eder de onu çıplak bırakır. Onlar, kazandıklarından hiçbir şeye güç yetiremezler. Allah, inkârcılar topluluğunu doğru yola iletmez.",
+ "mealNotu": "Kök temelli meal. 'Riâe' kökü görme kökünden gelir ve gösteriş amacıyla yapılan eylemi anlatır. 'Safvân' düz, kaygan bir kaya; 'sald' ise yağmurdan sonra çıplak kalan yüzeyi ifade eder; bu benzetme köşeli parantez eklenmeden korunmuştur.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "-mayın"
+  },
+  {
+   "kelime": "تُبْطِلُوا۟",
+   "okunus": "tübtılû",
+   "kok": "بطل",
+   "kokAnlam": "boşa çıkarma, geçersiz kılma",
+   "karsilik": "geçersiz kılmayın"
+  },
+  {
+   "kelime": "صَدَقَٰتِكُم",
+   "okunus": "sadekâtiküm",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk; sadaka",
+   "karsilik": "sadakalarınızı"
+  },
+  {
+   "kelime": "بِٱلْمَنِّ",
+   "okunus": "bil menni",
+   "kok": "منن",
+   "kokAnlam": "başa kakma, minnet yükleme",
+   "karsilik": "başa kakma ile"
+  },
+  {
+   "kelime": "وَٱلْأَذَىٰ",
+   "okunus": "vel ezâ",
+   "kok": "أذي",
+   "kokAnlam": "eziyet, rahatsızlık verme",
+   "karsilik": "ve eziyet ile"
+  },
+  {
+   "kelime": "كَٱلَّذِى",
+   "okunus": "kellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ...gibi olan kimse",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "يُنفِقُ",
+   "okunus": "yünfiku",
+   "kok": "نفق",
+   "kokAnlam": "harcama, infak etme",
+   "karsilik": "infak eden"
+  },
+  {
+   "kelime": "مَالَهُۥ",
+   "okunus": "mâlehû",
+   "kok": "مول",
+   "kokAnlam": "mal, servet",
+   "karsilik": "malını"
+  },
+  {
+   "kelime": "رِئَآءَ",
+   "okunus": "riâe",
+   "kok": "رأي",
+   "kokAnlam": "görme; gösteriş",
+   "karsilik": "gösteriş için"
+  },
+  {
+   "kelime": "ٱلنَّاسِ",
+   "okunus": "ennâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan, insanlık",
+   "karsilik": "insanlara"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يُؤْمِنُ",
+   "okunus": "yü'minü",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma",
+   "karsilik": "inanmayan"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَٱلْيَوْمِ",
+   "okunus": "vel yevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "ve gününe"
+  },
+  {
+   "kelime": "ٱلْءَاخِرِ",
+   "okunus": "el'âhıri",
+   "kok": "أخر",
+   "kokAnlam": "sonraki, son",
+   "karsilik": "ahiret"
+  },
+  {
+   "kelime": "فَمَثَلُهُۥ",
+   "okunus": "femeselühû",
+   "kok": "مثل",
+   "kokAnlam": "benzetme, örnek",
+   "karsilik": "onun durumu"
+  },
+  {
+   "kelime": "كَمَثَلِ",
+   "okunus": "kemeseli",
+   "kok": "مثل",
+   "kokAnlam": "benzetme, örnek",
+   "karsilik": "gibidir"
+  },
+  {
+   "kelime": "صَفْوَانٍ",
+   "okunus": "safvânin",
+   "kok": "صفو",
+   "kokAnlam": "saflık; düz, kaygan kaya",
+   "karsilik": "düz bir kayaya"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "تُرَابٌ",
+   "okunus": "türâbün",
+   "kok": "ترب",
+   "kokAnlam": "toprak",
+   "karsilik": "toprak"
+  },
+  {
+   "kelime": "فَأَصَابَهُۥ",
+   "okunus": "feesâbehû",
+   "kok": "صوب",
+   "kokAnlam": "isabet etme",
+   "karsilik": "onu isabet eder de"
+  },
+  {
+   "kelime": "وَابِلٌ",
+   "okunus": "vâbilün",
+   "kok": "وبل",
+   "kokAnlam": "şiddetli yağmur",
+   "karsilik": "şiddetli bir yağmur"
+  },
+  {
+   "kelime": "فَتَرَكَهُۥ",
+   "okunus": "feterakehû",
+   "kok": "ترك",
+   "kokAnlam": "bırakma",
+   "karsilik": "onu bırakır"
+  },
+  {
+   "kelime": "صَلْدًا",
+   "okunus": "salden",
+   "kok": "صلد",
+   "kokAnlam": "çıplak, pürüzsüz kalma",
+   "karsilik": "çıplak"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "-mazlar"
+  },
+  {
+   "kelime": "يَقْدِرُونَ",
+   "okunus": "yekdirûne",
+   "kok": "قدر",
+   "kokAnlam": "güç yetirme, ölçme",
+   "karsilik": "güç yetiremezler"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "hiçbir şeye"
+  },
+  {
+   "kelime": "مِّمَّا",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -den olan şey",
+   "karsilik": "kazandıklarından"
+  },
+  {
+   "kelime": "كَسَبُوا۟",
+   "okunus": "kesebû",
+   "kok": "كسب",
+   "kokAnlam": "kazanma, elde etme",
+   "karsilik": "kazandılar"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "-maz"
+  },
+  {
+   "kelime": "يَهْدِى",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme",
+   "karsilik": "doğru yola iletmez"
+  },
+  {
+   "kelime": "ٱلْقَوْمَ",
+   "okunus": "elkavme",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk",
+   "karsilik": "topluluğu"
+  },
+  {
+   "kelime": "ٱلْكَٰفِرِينَ",
+   "okunus": "elkâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtenler, inkârcılar",
+   "karsilik": "inkârcılar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki iki ayette anlatılan 'başa kakma ve eziyet' uyarısını, gösteriş için yapılan infakla karşılaştırarak somutlaştırır. Riyakâr infak, Allah'a ve ahiret gününe inanmadan yapılan bir eylem olarak tanımlanır; bu tür bir infakın sahibinde kalıcı bir kazanç bırakmayacağı vurgulanır.",
+  "Bu durum, üzerinde ince bir toprak tabakası bulunan düz bir kayaya benzetilir: şiddetli bir yağmur gelince toprak silinir, kaya çıplak kalır. Aynı şekilde başa kakma veya gösteriş, sadakanın görünen iyiliğini siler ve geriye hiçbir şey bırakmaz."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "107:6",
+   "meal": "Onlar, gösteriş yaparlar.",
+   "baglanti": "Mâûn suresinde de aynı 'riyâ' kökü namaz bağlamında geçer; burada infak bağlamında tekrarlanan aynı tehlikeye işaret eder."
+  },
+  {
+   "ref": "2:262",
+   "meal": "Mallarını Allah yolunda infak edip sonra infak ettiklerinin ardından başa kakmayan ve eziyet etmeyenlerin, Rableri katında ecirleri vardır.",
+   "baglanti": "Bu ayetin olumlu karşılığıdır; başa kakmadan yapılan infakın ecre dönüştüğünü gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, infakın niyet ve tavırla nasıl geçersiz kılınabileceğidir. Gösteriş için verilen bir yardım, dıştan iyilik gibi görünse de ayete göre kalıcı bir kazanç bırakmaz.",
+  "Günlük hayata taşınabilecek ders, bir iyiliği yaparken 'niçin yaptığını' sorgulamaktır. Başkalarının takdirini kazanmak için yapılan bir davranış, kısa vadede tatmin verse de kalıcı bir değer üretmez; içten ve sessiz yapılan iyilik daha kalıcıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sessiz bir iyilik yap",
+   "aciklama": "Bugün kimseye söylemeden, fark edilmeden bir iyilik yap."
+  },
+  {
+   "baslik": "Niyetini sorgula",
+   "aciklama": "Bir iyilik yapmadan önce, bunu neden yaptığını kendine sor."
+  },
+  {
+   "baslik": "Paylaşma isteğini kontrol et",
+   "aciklama": "Yaptığın bir iyiliği sosyal ortamda paylaşmadan önce, bunun gerekip gerekmediğini düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün yaptığın bir iyiliği kimseye anlatmadan, sessizce tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=264"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/264"
+  }
+ ]
+}

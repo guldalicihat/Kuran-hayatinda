@@ -1,0 +1,103 @@
+{
+ "sure": 3,
+ "ayet": 58,
+ "durum": "taslak",
+ "meal": "Bunlar, sana okuduğumuz ayetlerden ve hikmetli zikirdendir.",
+ "mealNotu": "'Zikr' kökü anma ve hatırlatmayı ifade eder; burada Kur'an'ın bir ismi olarak kullanılır. 'Hakîm' ise hüküm ve hikmet kökünden gelir, hem bilgece hem sağlam anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu, o",
+   "karsilik": "bunlar"
+  },
+  {
+   "kelime": "نَتْلُوهُ",
+   "okunus": "netlûhü",
+   "kok": "تلو",
+   "kokAnlam": "okuma, takip etme",
+   "karsilik": "sana okuduklarımızdır"
+  },
+  {
+   "kelime": "عَلَيْكَ",
+   "okunus": "aleyke",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْءَايَٰتِ",
+   "okunus": "el'âyâti",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet, ayet",
+   "karsilik": "ayetlerden"
+  },
+  {
+   "kelime": "وَٱلذِّكْرِ",
+   "okunus": "vez zikri",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlatma",
+   "karsilik": "ve zikirden"
+  },
+  {
+   "kelime": "ٱلْحَكِيمِ",
+   "okunus": "elhakîmi",
+   "kok": "حكم",
+   "kokAnlam": "hüküm, hikmet",
+   "karsilik": "hikmetli"
+  }
+ ],
+ "neAnlatiyor": [
+  "Meryem ve İsa kıssasının uzun anlatımının ardından bu ayet, anlatılanların Allah'tan gelen ayetler ve hikmetli bir hatırlatma (Kur'an) olduğunu vurgulayarak bir ara özet yapar.",
+  "'Hikmetli zikir' ifadesi, Kur'an'ın hem hatırlatıcı hem tutarlı ve sağlam bir kaynak olduğunu bildirir. Bu ayet, kıssanın anlatım amacının salt hikaye değil, ders çıkarılacak bir hatırlatma olduğunu netleştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:62",
+   "meal": "Şüphesiz bu, gerçek kıssanın ta kendisidir. Allah'tan başka hiçbir ilah yoktur.",
+   "baglanti": "Bu ayet, anlatılan kıssanın 'gerçek' olduğunu vurgulayarak 58. ayetteki 'ayetlerden ve hikmetli zikirden' ifadesini pekiştirir."
+  },
+  {
+   "ref": "38:1",
+   "meal": "Sâd. Zikir sahibi Kur'an'a andolsun.",
+   "baglanti": "Sâd suresi de Kur'an'ı 'zikir' olarak anar; bu, Kur'an'ın Allah katında bir hatırlatma kaynağı olarak nitelendirildiğini gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, anlatılan kıssanın kaynağının vahiy olduğunu ve bir hatırlatma işlevi taşıdığını belirtmektir; doğrudan bir hukuki veya toplumsal alanla ilgili değildir.",
+  "Bugüne taşınabilecek ders, kıssaları yalnız bir hikaye olarak değil, hatırlatma ve ibret için okumaktır. Bir olayı dinlerken veya okurken 'buradan ne öğreniyorum?' diye sormak, bu ayetteki 'zikir' vurgusuyla örtüşür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kıssadan ders çıkar",
+   "aciklama": "Bugün okuduğun bir kıssayı (Meryem, Zekeriyya) yalnız hikaye olarak değil, kendi hayatına dair bir ders olarak düşün."
+  },
+  {
+   "baslik": "Hatırlatmaya açık ol",
+   "aciklama": "Bugün seni uyaran bir söz veya olayı savunmaya geçmeden dinle."
+  },
+  {
+   "baslik": "Kur'an okumana zaman ayır",
+   "aciklama": "Bugün birkaç ayet oku ve üzerinde birkaç dakika düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün bir Kur'an kıssasını okuyup, ondan çıkardığın tek bir dersi yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=58"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/58"
+  }
+ ]
+}

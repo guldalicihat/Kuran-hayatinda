@@ -1,0 +1,103 @@
+{
+ "sure": 3,
+ "ayet": 60,
+ "durum": "taslak",
+ "meal": "Gerçek, Rabbindendir; öyleyse şüphe edenlerden olma.",
+ "mealNotu": "'Mira' kökü şüphe ve tartışmayı anlatır; 'mümterîn' bu şüpheyi sürdürenleri ifade eder.",
+ "kokler": [
+  {
+   "kelime": "ٱلْحَقُّ",
+   "okunus": "elhakku",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, hak",
+   "karsilik": "gerçek"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -dendir",
+   "karsilik": "-dendir"
+  },
+  {
+   "kelime": "رَّبِّكَ",
+   "okunus": "rabbike",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbinden"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) öyleyse ...ma",
+   "karsilik": "öyleyse olma"
+  },
+  {
+   "kelime": "تَكُن",
+   "okunus": "tekün",
+   "kok": "كون",
+   "kokAnlam": "olma, var olma",
+   "karsilik": "olma"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُمْتَرِينَ",
+   "okunus": "elmümterîne",
+   "kok": "مري",
+   "kokAnlam": "şüphe etme, kuşku",
+   "karsilik": "şüphe edenlerden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette verilen açıklamanın (İsa'nın yaratılışı) ardından bu ayet, Peygamber'e doğrudan hitap ederek anlatılanın Allah'tan gelen gerçek olduğunu bildirir ve şüpheye kapılmamasını ister.",
+  "Hitap görünüşte Peygamber'e olsa da klasik tefsir bunu tüm muhataplara yönelik bir uyarı olarak okur: Kur'an'ın anlattığı gerçekler karşısında kararsız kalmamak, netlikle bağlı kalmak gerektiği vurgulanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:147",
+   "meal": "Gerçek, Rabbindendir; öyleyse sakın şüphe edenlerden olma.",
+   "baglanti": "Bakara suresi neredeyse aynı cümleyi, kıblenin değişmesiyle ilgili bir bağlamda tekrarlar; bu kalıp Kur'an'da birden fazla yerde geçer."
+  },
+  {
+   "ref": "10:94",
+   "meal": "Eğer sana indirdiğimizden şüphe içindeysen, senden önce Kitab'ı okuyanlara sor. Andolsun, sana Rabbinden hak gelmiştir; öyleyse sakın şüphe edenlerden olma.",
+   "baglanti": "Yunus suresi de aynı uyarıyı, önceki kitap ehline danışma önerisiyle birlikte verir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, anlatılan dini gerçeklere şüphesiz bağlı kalmaktır; bu itikadi bir çağrıdır.",
+  "Bugüne taşınabilecek ders, kesin delillerle sabit olan bir gerçek karşısında gereksiz kuşkuya kapılmamaktır. Araştırıp emin olduktan sonra kararsızlıkta sürünmek yerine, net bir duruş sergilemek bu ayetten çıkarılabilecek bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Netleştiğin bir konuda kararlı ol",
+   "aciklama": "Bugün araştırıp emin olduğun bir konuda artık tereddüt etmeyi bırak."
+  },
+  {
+   "baslik": "Şüpheni araştırmayla gider",
+   "aciklama": "Bugün kafanı kurcalayan bir soruyu, güvenilir bir kaynaktan araştırarak netleştir."
+  },
+  {
+   "baslik": "Gerçeğin kaynağına güven",
+   "aciklama": "Bugün doğruluğuna inandığın bir bilgiyi savunurken kararsız davranma."
+  }
+ ],
+ "bugununAdimi": "Bugün emin olduğun bir konuda, tereddütsüz ve net bir duruş sergile.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=60"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/60"
+  }
+ ]
+}

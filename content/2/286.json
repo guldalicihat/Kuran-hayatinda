@@ -1,0 +1,397 @@
+{
+ "sure": 2,
+ "ayet": 286,
+ "durum": "taslak",
+ "meal": "Allah, hiçbir kimseyi gücünün yettiğinden başkasıyla yükümlü tutmaz. Herkesin kazandığı iyilik kendi lehine, kazandığı kötülük kendi aleyhinedir. Rabbimiz! Unutur ya da yanılırsak bizi sorumlu tutma. Rabbimiz! Bizden öncekilere yüklediğin gibi bize ağır bir yük yükleme. Rabbimiz! Gücümüzün yetmeyeceği şeyi bize taşıtma. Bizi affet, bizi bağışla, bize merhamet et. Sen bizim Mevlâmızsın; inkârcılar topluluğuna karşı bize yardım et.",
+ "mealNotu": "Kök temelli meal. 'Vüs'ahâ' kökü genişlik, güç yetirebilme anlamındadır; ayet yükümlülüğün her zaman kişinin gücüyle sınırlı olduğunu vurgular. 'İsr' kökü ağır yük, bağlayıcı külfeti anlatır. 'Mevlâ' kelimesi hem sahip hem yardımcı-dost anlamını birlikte taşıdığı için Türkçeleştirilmeden bırakılmıştır.",
+ "kokler": [
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "-maz"
+  },
+  {
+   "kelime": "يُكَلِّفُ",
+   "okunus": "yükellifü",
+   "kok": "كلف",
+   "kokAnlam": "yükümlü tutma, sorumluluk yükleme",
+   "karsilik": "yükümlü tutmaz"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "نَفْسًا",
+   "okunus": "nefsen",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kişi",
+   "karsilik": "hiçbir kimseyi"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, başka",
+   "karsilik": "başkasıyla"
+  },
+  {
+   "kelime": "وُسْعَهَا",
+   "okunus": "vüs'ahâ",
+   "kok": "وسع",
+   "kokAnlam": "genişlik; güç yetirebilme",
+   "karsilik": "gücünün yettiği"
+  },
+  {
+   "kelime": "لَهَا",
+   "okunus": "lehâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onun lehine",
+   "karsilik": "onun lehine"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne",
+   "karsilik": "kazandığı"
+  },
+  {
+   "kelime": "كَسَبَتْ",
+   "okunus": "kesebet",
+   "kok": "كسب",
+   "kokAnlam": "kazanma, elde etme",
+   "karsilik": "kazandığı"
+  },
+  {
+   "kelime": "وَعَلَيْهَا",
+   "okunus": "ve aleyhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) onun aleyhine",
+   "karsilik": "ve onun aleyhine"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne",
+   "karsilik": "kazandığı"
+  },
+  {
+   "kelime": "ٱكْتَسَبَتْ",
+   "okunus": "iktesebet",
+   "kok": "كسب",
+   "kokAnlam": "kazanma, elde etme",
+   "karsilik": "kazandığı"
+  },
+  {
+   "kelime": "رَبَّنَا",
+   "okunus": "rabbenâ",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme; Rab",
+   "karsilik": "Rabbimiz"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "-ma"
+  },
+  {
+   "kelime": "تُؤَاخِذْنَآ",
+   "okunus": "tüâhıznâ",
+   "kok": "أخذ",
+   "kokAnlam": "tutma, sorumlu tutma",
+   "karsilik": "bizi sorumlu tutma"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "نَّسِينَآ",
+   "okunus": "nesînâ",
+   "kok": "نسي",
+   "kokAnlam": "unutma",
+   "karsilik": "unutursak"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "أَخْطَأْنَا",
+   "okunus": "ahta'nâ",
+   "kok": "خطأ",
+   "kokAnlam": "hata etme, yanılma",
+   "karsilik": "yanılırsak"
+  },
+  {
+   "kelime": "رَبَّنَا",
+   "okunus": "rabbenâ",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme; Rab",
+   "karsilik": "Rabbimiz"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "تَحْمِلْ",
+   "okunus": "tahmil",
+   "kok": "حمل",
+   "kokAnlam": "yüklenme, taşıma",
+   "karsilik": "yükleme"
+  },
+  {
+   "kelime": "عَلَيْنَآ",
+   "okunus": "aleynâ",
+   "kok": "—",
+   "kokAnlam": "(edat) bize",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "إِصْرًا",
+   "okunus": "isran",
+   "kok": "أصر",
+   "kokAnlam": "bağlayıcı ağır yük, külfet",
+   "karsilik": "ağır bir yük"
+  },
+  {
+   "kelime": "كَمَا",
+   "okunus": "kemâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) gibi",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "حَمَلْتَهُۥ",
+   "okunus": "hameltehû",
+   "kok": "حمل",
+   "kokAnlam": "yüklenme, taşıma",
+   "karsilik": "onu yüklediğin"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimselerin"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِنَا",
+   "okunus": "kablinâ",
+   "kok": "قبل",
+   "kokAnlam": "önce",
+   "karsilik": "önceki"
+  },
+  {
+   "kelime": "رَبَّنَا",
+   "okunus": "rabbenâ",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme; Rab",
+   "karsilik": "Rabbimiz"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "تُحَمِّلْنَا",
+   "okunus": "tühammilnâ",
+   "kok": "حمل",
+   "kokAnlam": "yüklenme, taşıma",
+   "karsilik": "bize taşıtma"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "-meyeceğimiz"
+  },
+  {
+   "kelime": "طَاقَةَ",
+   "okunus": "tâkate",
+   "kok": "طوق",
+   "kokAnlam": "güç, takat",
+   "karsilik": "gücümüzün"
+  },
+  {
+   "kelime": "لَنَا",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) bize",
+   "karsilik": "bizim"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "وَٱعْفُ",
+   "okunus": "vefü",
+   "kok": "عفو",
+   "kokAnlam": "affetme, silme",
+   "karsilik": "ve affet"
+  },
+  {
+   "kelime": "عَنَّا",
+   "okunus": "annâ",
+   "kok": "—",
+   "kokAnlam": "(edat) bizi",
+   "karsilik": "bizi"
+  },
+  {
+   "kelime": "وَٱغْفِرْ",
+   "okunus": "vegfir",
+   "kok": "غفر",
+   "kokAnlam": "örtme, bağışlama",
+   "karsilik": "ve bağışla"
+  },
+  {
+   "kelime": "لَنَا",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) bize",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "وَٱرْحَمْنَآ",
+   "okunus": "verhamnâ",
+   "kok": "رحم",
+   "kokAnlam": "merhamet etme, esirgeme",
+   "karsilik": "ve bize merhamet et"
+  },
+  {
+   "kelime": "أَنتَ",
+   "okunus": "ente",
+   "kok": "—",
+   "kokAnlam": "(zamir) sen",
+   "karsilik": "sen"
+  },
+  {
+   "kelime": "مَوْلَىٰنَا",
+   "okunus": "mevlânâ",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, dostluk; sahip, koruyucu",
+   "karsilik": "Mevlâmızsın"
+  },
+  {
+   "kelime": "فَٱنصُرْنَا",
+   "okunus": "fensurnâ",
+   "kok": "نصر",
+   "kokAnlam": "yardım etme, zafer verme",
+   "karsilik": "bize yardım et"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) karşı",
+   "karsilik": "karşı"
+  },
+  {
+   "kelime": "ٱلْقَوْمِ",
+   "okunus": "elkavmi",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk",
+   "karsilik": "topluluğuna"
+  },
+  {
+   "kelime": "ٱلْكَٰفِرِينَ",
+   "okunus": "elkâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtenler, inkârcılar",
+   "karsilik": "inkârcılar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bakara suresinin son ayeti, önce genel bir ilke koyar: Allah kimseyi gücünün üstünde bir şeyle yükümlü tutmaz ve herkes yalnız kendi kazandığından sorumludur. Bu ilke, surede geçen ağır sorumluluklar (borç, infak, faizden kaçınma, şahitlik) için bir güvence niteliğindedir; klasik tefsir bunu, dinin kişiye taşıyamayacağı bir yük yüklemediğinin genel kaidesi olarak açıklar.",
+  "Ayetin devamı, müminlerin ağzından altı istekten oluşan bir dua sunar: unutma ve yanılmadan sorumlu tutulmama, önceki topluluklara yüklenen ağır yüklerden korunma, taşınamayacak bir yükle karşılaşmama, af, bağışlanma ve merhamet, son olarak da inkârcılara karşı yardım. Bu dua, surenin hukuki ve itikadi konularını, kulun Allah'a tam bir teslimiyet ve acziyet duygusuyla yönelmesiyle tamamlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:233",
+   "meal": "Hiçbir kimse gücünün yettiğinden fazlasıyla yükümlü tutulmaz; ne anne çocuğu yüzünden ne de baba çocuğu yüzünden zarara uğratılsın.",
+   "baglanti": "Aynı surede daha önce geçen bu ayet, 'kimse gücünün üstünde yükümlü tutulmaz' ilkesini emzirme bağlamında somutlaştırarak önceden hazırlar."
+  },
+  {
+   "ref": "7:23",
+   "meal": "Dediler ki: Rabbimiz! Biz kendimize zulmettik; eğer bizi bağışlamaz ve bize merhamet etmezsen mutlaka ziyana uğrayanlardan oluruz.",
+   "baglanti": "Âdem ve eşinin duası da benzer şekilde af ve merhamet dileğiyle Allah'a yönelir; aynı dua kalıbını paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kişinin sorumluluğunun kendi gücüyle sınırlı olduğu ve hatadan dönüşün, af ve merhamet dileğinin dua yoluyla ifade edilmesidir. Bu, itikadi ve manevi bir konudur; klasik tefsir, ayetteki her bir istek cümlesini ayrı ayrı yorumlar.",
+  "Günlük hayata taşınabilecek ders, kendine ve başkalarına karşı gerçekçi beklentiler taşımaktır. Kimseden gücünün üstünde bir şey beklenemez; insan kendi unutkanlığını ve hatasını kabul edip Allah'tan af dileyebilir, bu tevazu bir zayıflık değil olgunluk göstergesidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bu duayı anlamını düşünerek oku",
+   "aciklama": "Bugün Bakara suresinin bu son iki ayetini, anlamını düşünerek oku."
+  },
+  {
+   "baslik": "Gerçekçi bir sınır koy",
+   "aciklama": "Kendinden veya birinden gücünün üstünde bir beklentin varsa, bugün onu gözden geçir."
+  },
+  {
+   "baslik": "Hatanı kabul edip devam et",
+   "aciklama": "Yakın zamanda yaptığın bir hatayı, kendini yormadan kabul edip bir adım ileri git."
+  }
+ ],
+ "bugununAdimi": "Bugün bu duayı anlamını düşünerek oku ve kendi gücünün üstünde bir yük taşıyıp taşımadığını gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=286"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/286"
+  }
+ ]
+}

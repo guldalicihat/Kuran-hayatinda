@@ -1,0 +1,194 @@
+{
+ "sure": 3,
+ "ayet": 45,
+ "durum": "taslak",
+ "meal": "Hani melekler demişti ki: 'Ey Meryem! Şüphesiz Allah, kendisinden bir kelimeyle seni müjdeliyor; adı Mesih, Meryem oğlu İsa'dır. Dünyada ve ahirette itibarlıdır, Allah'a yakınlaştırılmışlardandır.'",
+ "mealNotu": "'Kelime' burada 'söz' kökünden gelir; klasik tefsir bunu İsa'nın yaratılışının 'Ol' emriyle doğrudan gerçekleşmesine bağlar. 'Mesih' kelimesinin kökü meshetmekle ilgilidir; ayette bir isim/unvan olarak kullanılır, anlamı ayrıca açıklanmaz.",
+ "kokler": [
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani, o zaman",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "قَالَتِ",
+   "okunus": "kâleti",
+   "kok": "قول",
+   "kokAnlam": "söyleme, konuşma",
+   "karsilik": "demişti"
+  },
+  {
+   "kelime": "ٱلْمَلَٰٓئِكَةُ",
+   "okunus": "elmelâiketü",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, güç; melek",
+   "karsilik": "melekler"
+  },
+  {
+   "kelime": "يَٰمَرْيَمُ",
+   "okunus": "yâ meryemü",
+   "kok": "—",
+   "kokAnlam": "(nida+özel isim) ey Meryem",
+   "karsilik": "Ey Meryem"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapınılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يُبَشِّرُكِ",
+   "okunus": "yübeşşiruki",
+   "kok": "بشر",
+   "kokAnlam": "müjdeleme",
+   "karsilik": "seni müjdeliyor"
+  },
+  {
+   "kelime": "بِكَلِمَةٍ",
+   "okunus": "bikelimetin",
+   "kok": "كلم",
+   "kokAnlam": "söz, kelime",
+   "karsilik": "bir kelimeyle"
+  },
+  {
+   "kelime": "مِّنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) kendisinden",
+   "karsilik": "kendisinden"
+  },
+  {
+   "kelime": "ٱسْمُهُ",
+   "okunus": "usmühü",
+   "kok": "سمو",
+   "kokAnlam": "isim, yükseklik",
+   "karsilik": "adı"
+  },
+  {
+   "kelime": "ٱلْمَسِيحُ",
+   "okunus": "elmesîhu",
+   "kok": "مسح",
+   "kokAnlam": "meshetme, sıvazlama",
+   "karsilik": "Mesih"
+  },
+  {
+   "kelime": "عِيسَى",
+   "okunus": "îsâ",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İsa",
+   "karsilik": "İsa'dır"
+  },
+  {
+   "kelime": "ٱبْنُ",
+   "okunus": "ibnü",
+   "kok": "بني",
+   "kokAnlam": "oğulluk, evlat",
+   "karsilik": "oğlu"
+  },
+  {
+   "kelime": "مَرْيَمَ",
+   "okunus": "meryeme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Meryem",
+   "karsilik": "Meryem'in"
+  },
+  {
+   "kelime": "وَجِيهًا",
+   "okunus": "vecîhen",
+   "kok": "وجه",
+   "kokAnlam": "yüz, itibar, değer",
+   "karsilik": "itibarlıdır"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ٱلدُّنْيَا",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık; dünya",
+   "karsilik": "dünyada"
+  },
+  {
+   "kelime": "وَٱلْءَاخِرَةِ",
+   "okunus": "vel âhırati",
+   "kok": "أخر",
+   "kokAnlam": "sonralık; ahiret",
+   "karsilik": "ve ahirette"
+  },
+  {
+   "kelime": "وَمِنَ",
+   "okunus": "ve mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -dendir",
+   "karsilik": "ve -dendir"
+  },
+  {
+   "kelime": "ٱلْمُقَرَّبِينَ",
+   "okunus": "elmükarrabîne",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık",
+   "karsilik": "yakınlaştırılmışlardan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Melekler Meryem'e, doğacak çocuğunun müjdesini verir: adı Mesih İsa'dır, Meryem'in oğludur. Bu isimlendirme, çocuğun kimliğini baştan nettir.",
+  "'Dünyada ve ahirette itibarlı' ve 'Allah'a yakınlaştırılmışlardan' ifadeleri, İsa'nın yüksek bir konuma sahip olacağını bildirir. Ayet, onun sıradan bir insan olmadığını, ama yine de 'Meryem oğlu' olarak anıldığını, yani doğumunun insani yönünü de koruduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:171",
+   "meal": "Meryem oğlu Mesih İsa, ancak Allah'ın resulü, Meryem'e ulaştırdığı kelimesi ve kendinden bir ruhtur.",
+   "baglanti": "Bu ayet İsa'nın 'kelime' olarak anılmasını başka bir surede tekrar eder ve onun bir resul olduğunu netleştirir."
+  },
+  {
+   "ref": "3:46",
+   "meal": "İnsanlarla hem beşikte hem yetişkinken konuşacak, salihlerden olacaktır.",
+   "baglanti": "Müjde, İsa'nın konuşma mucizesiyle devam eder; bu ayet 45. ayetteki tanıtımın hemen ardından gelir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, İsa'nın doğumundan önce verilen özel bir peygamberlik müjdesidir; bu tarihi ve tektir.",
+  "Bununla birlikte bir çocuğun doğumunu iyi bir gelecek beklentisiyle, güzel bir isimle ve duayla karşılamak bu kıssadan çıkarılabilecek genel bir tutumdur. İsim koymanın, çocuğun kimliğine dair bir niyet taşıdığı da hatırlanabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Anlamlı bir isim üzerine düşün",
+   "aciklama": "Bir çocuğa isim koyarken ya da birine hitap ederken anlamına dikkat et."
+  },
+  {
+   "baslik": "Değerini dünya-ahiret dengesiyle düşün",
+   "aciklama": "Bugün bir kararını yalnız dünyevi kazanca göre değil, ahiret için de değerlendirerek ver."
+  },
+  {
+   "baslik": "Yakınlığı hedefle",
+   "aciklama": "Bugün Allah'a yakınlaştıracak küçük bir ibadeti (kısa zikir, sadaka) yerine getir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir çocuğa veya yakınına, anlamını bildiğin güzel bir söz ya da dua ile hitap et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=45"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/45"
+  }
+ ]
+}

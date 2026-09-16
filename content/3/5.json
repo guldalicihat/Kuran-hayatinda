@@ -1,0 +1,131 @@
+{
+ "sure": 3,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Şüphesiz Allah'a ne yerde ne gökte hiçbir şey gizli kalmaz.",
+ "mealNotu": "'Hafâ' kökü gizli kalmayı, görünmez olmayı anlatır; olumsuzlukla birlikte 'hiçbir şey gizli kalmaz' anlamı ortaya çıkar. Cümle kısa ve vurguludur; kelimelerde olmayan bir ekleme yapılmamıştır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) yok, değil",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يَخْفَىٰ",
+   "okunus": "yahfâ",
+   "kok": "خفي",
+   "kokAnlam": "gizli kalma, görünmez olma",
+   "karsilik": "gizli kalmaz"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) O'na",
+   "karsilik": "O'na"
+  },
+  {
+   "kelime": "شَىْءٌ",
+   "okunus": "şey'ün",
+   "kok": "شيأ",
+   "kokAnlam": "nesne, şey",
+   "karsilik": "hiçbir şey"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de, içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yerde"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de, içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "gökte"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerdeki tevhid ve vahiy vurgusuna Allah'ın sınırsız bilgisini ekler. 'Hafâ' fiili görünmez, saklı kalmayı anlatır; ayet bunu hem yer hem gök için kesin bir olumsuzlukla reddeder.",
+  "Bu bilgi vurgusu, hemen sonraki ayette geçen 'sizi rahimlerde dilediği gibi şekillendiren O'dur' ifadesiyle bağlantılıdır. Ana rahminde, insan gözünden tamamen gizli olan bir oluşum bile Allah'ın bilgisi dışında değildir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "14:38",
+   "meal": "Rabbimiz! Şüphesiz sen bizim gizlediğimizi de açığa vurduğumuzu da bilirsin. Yerde ve gökte hiçbir şey Allah'a gizli kalmaz.",
+   "baglanti": "İbrahim'in duası olarak geçen bu ayet, neredeyse aynı ifadeyle Allah'ın bilgisinin kapsamını anlatır."
+  },
+  {
+   "ref": "3:29",
+   "meal": "De ki: Göğüslerinizde olanı gizleseniz de açığa vursanız da Allah onu bilir. Göklerde olanı da yerde olanı da bilir. Allah her şeye güç yetirendir.",
+   "baglanti": "Aynı surenin ilerleyen bir ayeti, bu bilgiyi insanın kalbindeki gizli düşüncelere kadar genişletir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Allah'ın ilminin sınırsızlığıdır; bir hüküm veya emir içermez. Bu, insanın gizlediğini sandığı düşünce ve niyetlerin de bu bilginin dışında olmadığını hatırlatır.",
+  "Günlük hayatta bu bilinç, kişinin görünürde değil, kalpte de dürüst olmasını teşvik eder. Kimsenin görmediği bir anda bile doğru davranmak, bu ayetin taşıdığı farkındalığın bir sonucu olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Görünmeyeni de gözet",
+   "aciklama": "Bugün kimsenin görmediği bir işini de, görüldüğünde yapacağın özenle yap."
+  },
+  {
+   "baslik": "Niyetini kontrol et",
+   "aciklama": "Bugün bir işe başlarken niyetini kısaca gözden geçir."
+  },
+  {
+   "baslik": "Saklamaya çalışma",
+   "aciklama": "Bugün bir hatanı gizlemek yerine kabul et ve düzeltme yolunu ara."
+  }
+ ],
+ "bugununAdimi": "Bugün kimsenin bilmediği küçük bir iyiliği yap ve bunu kimseye söyleme.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/5"
+  }
+ ]
+}

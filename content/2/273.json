@@ -1,0 +1,264 @@
+{
+ "sure": 2,
+ "ayet": 273,
+ "durum": "taslak",
+ "meal": "Bu sadakalar, kendilerini Allah yoluna adamış, yeryüzünde dolaşmaya güç yetiremeyen fakirler içindir. Bilmeyen kimse, iffetlerinden dolayı onları zengin sanır; sen onları simalarından tanırsın, insanlardan yüzsüzce bir şey istemezler. Hayır olarak her ne infak ederseniz, şüphesiz Allah onu bilir.",
+ "mealNotu": "Kök temelli meal. 'Teaffüf' kökü, ihtiyaç içindeyken bile isteyip durmamayı, iffetli davranmayı anlatır. 'İlhâf' kökü ısrarla, yüzsüzce isteme anlamındadır; bu fakirlerin bundan kaçındığı vurgulanır.",
+ "kokler": [
+  {
+   "kelime": "لِلْفُقَرَآءِ",
+   "okunus": "lilfükarâi",
+   "kok": "فقر",
+   "kokAnlam": "yoksulluk; fakirler",
+   "karsilik": "fakirler içindir"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "أُحْصِرُوا۟",
+   "okunus": "ühsırû",
+   "kok": "حصر",
+   "kokAnlam": "kuşatılma, alıkonulma",
+   "karsilik": "kendilerini adamış, alıkonulmuş"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "-mayan"
+  },
+  {
+   "kelime": "يَسْتَطِيعُونَ",
+   "okunus": "yestetîûne",
+   "kok": "طوع",
+   "kokAnlam": "gücü yetme, itaat",
+   "karsilik": "güç yetiremeyen"
+  },
+  {
+   "kelime": "ضَرْبًا",
+   "okunus": "darben",
+   "kok": "ضرب",
+   "kokAnlam": "vurma; yolculuk, gezme",
+   "karsilik": "dolaşmaya"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "يَحْسَبُهُمُ",
+   "okunus": "yahsebühümü",
+   "kok": "حسب",
+   "kokAnlam": "sanma, zannetme",
+   "karsilik": "onları sanır"
+  },
+  {
+   "kelime": "ٱلْجَاهِلُ",
+   "okunus": "elcâhilü",
+   "kok": "جهل",
+   "kokAnlam": "bilgisizlik",
+   "karsilik": "bilmeyen kimse"
+  },
+  {
+   "kelime": "أَغْنِيَآءَ",
+   "okunus": "ağniyâe",
+   "kok": "غني",
+   "kokAnlam": "zenginlik",
+   "karsilik": "zengin"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلتَّعَفُّفِ",
+   "okunus": "etteaffüfi",
+   "kok": "عفف",
+   "kokAnlam": "iffetli davranma, isteyip durmama",
+   "karsilik": "iffetlerinden"
+  },
+  {
+   "kelime": "تَعْرِفُهُم",
+   "okunus": "ta'rifühüm",
+   "kok": "عرف",
+   "kokAnlam": "tanıma, bilme",
+   "karsilik": "sen onları tanırsın"
+  },
+  {
+   "kelime": "بِسِيمَٰهُمْ",
+   "okunus": "bisîmâhüm",
+   "kok": "سوم",
+   "kokAnlam": "işaret, belirti; sima",
+   "karsilik": "simalarından"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "-mezler"
+  },
+  {
+   "kelime": "يَسْـَٔلُونَ",
+   "okunus": "yes'elûne",
+   "kok": "سأل",
+   "kokAnlam": "isteme, sorma",
+   "karsilik": "isterler"
+  },
+  {
+   "kelime": "ٱلنَّاسَ",
+   "okunus": "ennâse",
+   "kok": "أنس",
+   "kokAnlam": "insan, insanlık",
+   "karsilik": "insanlardan"
+  },
+  {
+   "kelime": "إِلْحَافًا",
+   "okunus": "ilhâfen",
+   "kok": "لحف",
+   "kokAnlam": "ısrarla, yüzsüzce isteme",
+   "karsilik": "yüzsüzce"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(şart) ne",
+   "karsilik": "ve ne"
+  },
+  {
+   "kelime": "تُنفِقُوا۟",
+   "okunus": "tünfikû",
+   "kok": "نفق",
+   "kokAnlam": "harcama, infak etme",
+   "karsilik": "infak ederseniz"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "خَيْرٍ",
+   "okunus": "hayrin",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "hayır olarak"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, sadakanın öncelikli olarak kime verilmesi gerektiğini gösterir: kendini Allah yoluna adamış, geçim için dolaşmaya imkânı olmayan, ama bunu belli etmeyen fakirler. Bu kişiler, iffetli davranışları yüzünden bilmeyen biri tarafından zengin sanılabilir; oysa onları tanıyan, simalarından ihtiyaçlarını fark eder.",
+  "Ayet, bu kişilerin insanlardan ısrarla bir şey istemediğini vurgular; bu, infakın önceliğinin isteyip duranlar değil, ihtiyacı olduğu halde sessiz kalanlar olduğuna işaret eder. Ayet, ne infak edilirse edilsin, Allah'ın bunu bildiğini hatırlatarak kapanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "93:10",
+   "meal": "İsteyeni de azarlama.",
+   "baglanti": "Duha suresindeki bu kısa emir, isteyene karşı nasıl davranılması gerektiğini tamamlayan bir ilke sunar."
+  },
+  {
+   "ref": "2:177",
+   "meal": "Asıl iyilik, Allah'a, ahiret gününe, meleklere, kitaba ve peygamberlere iman eden; malını sevmesine rağmen yakınlara, yetimlere, yoksullara, yolda kalmışa, isteyenlere ve özgürlüğü için verendir.",
+   "baglanti": "İyiliğin kime ve nasıl verileceği konusunu, aynı surede daha kapsamlı bir listeyle önceden tanımlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, gerçek ihtiyaç sahiplerini nasıl tanıyıp önceliklendireceğimizdir. Ayet, isteyip durmayan ama ihtiyacı olan kişilere dikkat çeker.",
+  "Günlük hayata taşınabilecek ders, yardım ederken yalnızca isteyene değil, çevremizde sessizce zorluk çeken insanlara da dikkat etmemiz gerektiğidir. Bazı insanlar onurlarından dolayı ihtiyaçlarını gizler; bunu fark etmek biraz dikkat ve gözlem gerektirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sessiz ihtiyacı fark et",
+   "aciklama": "Çevrende, hiç istemeden zorluk çektiğini düşündüğün birini bugün gözlemle."
+  },
+  {
+   "baslik": "Onurunu incitmeden yardım et",
+   "aciklama": "Bir yardımı, karşındakini utandırmadan, doğal bir şekilde ulaştır."
+  },
+  {
+   "baslik": "İsteyene nazik davran",
+   "aciklama": "Bugün senden bir şey isteyen birine, kaba değil nazik bir dille yanıt ver."
+  }
+ ],
+ "bugununAdimi": "Bugün çevrende sessizce zorluk çektiğini fark ettiğin birine, onu utandırmadan bir destek ulaştır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=273"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/273"
+  }
+ ]
+}

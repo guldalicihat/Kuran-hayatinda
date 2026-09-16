@@ -1,0 +1,89 @@
+{
+ "sure": 3,
+ "ayet": 48,
+ "durum": "taslak",
+ "meal": "Ona Kitabı, hikmeti, Tevrat'ı ve İncil'i öğretecektir.",
+ "mealNotu": "'Kitab' burada genel olarak yazılı vahyi, 'hikmet' ise doğru anlayış ve isabetli hükmü anlatır. Tevrat ve İncil özel isim olarak aynen korunmuştur.",
+ "kokler": [
+  {
+   "kelime": "وَيُعَلِّمُهُ",
+   "okunus": "ve yüallimühü",
+   "kok": "علم",
+   "kokAnlam": "bilme, öğretme",
+   "karsilik": "ona öğretecektir"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "Kitabı"
+  },
+  {
+   "kelime": "وَٱلْحِكْمَةَ",
+   "okunus": "vel hikmete",
+   "kok": "حكم",
+   "kokAnlam": "hüküm, hikmet",
+   "karsilik": "hikmeti"
+  },
+  {
+   "kelime": "وَٱلتَّوْرَىٰةَ",
+   "okunus": "vet tevrâte",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Tevrat",
+   "karsilik": "Tevrat'ı"
+  },
+  {
+   "kelime": "وَٱلْإِنجِيلَ",
+   "okunus": "vel incîle",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İncil",
+   "karsilik": "İncil'i"
+  }
+ ],
+ "neAnlatiyor": [
+  "Müjde, İsa'ya verilecek bilgi ve donanımla devam eder: Kitab, hikmet, Tevrat ve İncil. Bu, onun yalnız mucizeleriyle değil ilmiyle de donatılacağını gösterir.",
+  "'Kitab' ifadesinin, Tevrat ve İncil'in ayrıca anılmasına rağmen yer alması klasik tefsirde yazmayı ve genel vahiy bilgisini kapsayan bir terim olarak açıklanır. Bu ayet, İsa'nın önceki vahiylerle bağlantısını ve onları doğrulayacak konumunu hazırlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:110",
+   "meal": "Hani sana Kitabı, hikmeti, Tevrat'ı ve İncil'i öğretmiştim.",
+   "baglanti": "Mâide suresi bu öğretimi Allah'ın kendi ağzından, kıyamet sahnesinde tekrar hatırlatır."
+  },
+  {
+   "ref": "3:50",
+   "meal": "Önümde olan Tevrat'ı doğrulayıcı olarak ve size haram kılınmış olan bazı şeyleri helal kılmak için geldim.",
+   "baglanti": "İsa'ya öğretilen Tevrat bilgisi, onun sonraki ayette kendini Tevrat'ı doğrulayan biri olarak tanıtmasının temelidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bir peygambere verilen özel ilim donanımıdır; bu doğrudan vahiyle ilgilidir ve herkes için aynı şekilde tekrarlanmaz.",
+  "Yine de ilim ile hikmetin birlikte anılması, bilgi edinmenin tek başına yeterli olmadığını, onu doğru kullanma becerisiyle tamamlanması gerektiğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilgini hikmetle birleştir",
+   "aciklama": "Bugün öğrendiğin bir bilgiyi, onu nerede ve nasıl kullanacağını düşünerek uygula."
+  },
+  {
+   "baslik": "Önceki bilgiye saygı duy",
+   "aciklama": "Bugün bir konuda kendinden önce gelen bilgi birikimine (öğretmen, kitap, gelenek) değer ver."
+  },
+  {
+   "baslik": "Öğrenmeyi sürdür",
+   "aciklama": "Bugün yeni bir şey öğrenmek için en az on beş dakika ayır."
+  }
+ ],
+ "bugununAdimi": "Bugün öğrendiğin bir bilgiyi, günün içinde somut bir kararda kullan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=48"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/48"
+  }
+ ]
+}

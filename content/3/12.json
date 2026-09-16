@@ -1,0 +1,117 @@
+{
+ "sure": 3,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "İnkâr edenlere de ki: Yenilgiye uğrayacaksınız ve toplanıp cehenneme sürüleceksiniz. Orası ne kötü bir yataktır!",
+ "mealNotu": "'Mihâd' kökü döşek, yatak anlamındadır; burada cehennem alaycı bir benzetmeyle 'kötü bir yatak' olarak nitelenir. 'Setuğlebûne' fiili gelecek zamanla, henüz gerçekleşmemiş bir yenilgiye kesin bir dille işaret eder.",
+ "kokler": [
+  {
+   "kelime": "قُل",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "لِّلَّذِينَ",
+   "okunus": "lillezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimselere",
+   "karsilik": "kimselere"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr eden"
+  },
+  {
+   "kelime": "سَتُغْلَبُونَ",
+   "okunus": "setüğlebûne",
+   "kok": "غلب",
+   "kokAnlam": "üstün gelme, yenme",
+   "karsilik": "yenilgiye uğrayacaksınız"
+  },
+  {
+   "kelime": "وَتُحْشَرُونَ",
+   "okunus": "ve tühşerûne",
+   "kok": "حشر",
+   "kokAnlam": "toplama, sürüp bir araya getirme",
+   "karsilik": "toplanıp sürüleceksiniz"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "جَهَنَّمَ",
+   "okunus": "cehenneme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) cehennem",
+   "karsilik": "cehenneme"
+  },
+  {
+   "kelime": "وَبِئْسَ",
+   "okunus": "ve bi'se",
+   "kok": "بأس",
+   "kokAnlam": "kötü olma, fenalık",
+   "karsilik": "ne kötüdür"
+  },
+  {
+   "kelime": "ٱلْمِهَادُ",
+   "okunus": "elmihâdü",
+   "kok": "مهد",
+   "kokAnlam": "döşeme; yatak, döşek",
+   "karsilik": "o yatak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Peygambere inkârcılara doğrudan hitap etmesini emreder ve onlara gelecekteki bir yenilgiyi haber verir. Klasik tefsir bu ayeti, Bedir Savaşı bağlamında, henüz gerçekleşmeden önce bildirilen bir uyarı olarak açıklar.",
+  "Ayetin sonundaki 'ne kötü bir yataktır' ifadesi, dünyadaki yenilginin ardından ahiretteki cehennemi de aynı cümlede anar. Böylece hem dünya hem ahiret sonucu tek bir uyarıda birleştirilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "54:45",
+   "meal": "O topluluk yakında bozguna uğrayacak ve arkalarını dönüp kaçacaklardır.",
+   "baglanti": "Kamer suresindeki bu kısa ayet, Bedir öncesi inkârcılara yönelik benzer bir yenilgi haberini aynı kesinlikle verir."
+  },
+  {
+   "ref": "2:206",
+   "meal": "...Artık ona cehennem yeter; o ne kötü bir yataktır.",
+   "baglanti": "Bakara suresindeki bu ayet, 'kötü yatak' benzetmesini aynı ifadeyle tekrarlayarak cehennemin bu şekilde nitelenmesini pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, inkârcılara yönelik dünyevi ve uhrevi bir uyarıdır; günlük bir emir içermez. Burada dikkat çeken, sonucun önceden haber verilmesidir; yani uyarı, olay gerçekleşmeden yapılmıştır.",
+  "Bu, kişiyi kötü bir sonucu beklemeden önce uyarılara kulak vermeye teşvik eder. Bir hata veya yanlış tutumun sonucu bazen çok sonra ortaya çıkar; erken bir uyarıyı ciddiye almak, geç kalmadan yön değiştirmeyi sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Erken uyarıyı dinle",
+   "aciklama": "Bugün biri seni bir konuda uyarırsa, savunmaya geçmeden önce uyarıyı düşün."
+  },
+  {
+   "baslik": "Sonucu öngör",
+   "aciklama": "Bugün bir kararının olası kötü sonucunu, harekete geçmeden önce kısaca değerlendir."
+  },
+  {
+   "baslik": "Yönünü düzelt",
+   "aciklama": "Yanlış gittiğini fark ettiğin bir konuda bugün küçük bir düzeltme yap."
+  }
+ ],
+ "bugununAdimi": "Bugün aldığın bir uyarıyı savunmaya geçmeden dinle ve gerekiyorsa ona göre bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/12"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "sure": 2,
+ "ayet": 270,
+ "durum": "taslak",
+ "meal": "Her ne infak eder veya her ne adarsanız, şüphesiz Allah onu bilir. Zalimler için hiçbir yardımcı yoktur.",
+ "mealNotu": "Kök temelli meal. 'Nezr' kökü adamayı, kendini bir şeye söz vererek bağlamayı anlatır. Ayet, hem gönüllü infakı hem de adak yoluyla yapılan yükümlülüğü aynı cümlede birlikte anar.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(şart) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "أَنفَقْتُم",
+   "okunus": "enfektüm",
+   "kok": "نفق",
+   "kokAnlam": "harcama, infak etme",
+   "karsilik": "infak ettiniz"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "نَّفَقَةٍ",
+   "okunus": "nefekatin",
+   "kok": "نفق",
+   "kokAnlam": "harcama, infak",
+   "karsilik": "bir infak"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "نَذَرْتُم",
+   "okunus": "nezertüm",
+   "kok": "نذر",
+   "kokAnlam": "adama, kendini söz vererek bağlama",
+   "karsilik": "adadınız"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "نَّذْرٍ",
+   "okunus": "nezrin",
+   "kok": "نذر",
+   "kokAnlam": "adak",
+   "karsilik": "bir adak"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَعْلَمُهُۥ",
+   "okunus": "ya'lemühû",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "onu bilir"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "ve yoktur"
+  },
+  {
+   "kelime": "لِلظَّٰلِمِينَ",
+   "okunus": "lilzzâlimîne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, zulmetme",
+   "karsilik": "zalimler için"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "أَنصَارٍ",
+   "okunus": "ensârin",
+   "kok": "نصر",
+   "kokAnlam": "yardım etme; yardımcı",
+   "karsilik": "yardımcı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, infak ve adak konusunu bir arada anarak, kişinin gönüllü verdiği ya da kendini bir söz ile bağladığı her şeyin Allah tarafından bilindiğini hatırlatır. Bu, önceki ayetlerdeki niyet ve içtenlik vurgusunu, hesap verme boyutuyla tamamlar.",
+  "Ayet, zalimler için hiçbir yardımcı olmadığını söyleyerek biter. Bağlamda bu, adağını yerine getirmeyen veya infakını haksız yere geri çeken kişiler için bir uyarı olarak okunabilir; verilen sözün ve yapılan iyiliğin sorumluluğu ciddiye alınmalıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "76:7",
+   "meal": "Onlar adaklarını yerine getirirler ve kötülüğü yaygın olan bir günden korkarlar.",
+   "baglanti": "Adağı yerine getirmenin salih kulların bir özelliği olarak övüldüğü bir başka ayettir."
+  },
+  {
+   "ref": "2:284",
+   "meal": "Göklerde ve yerde olanlar Allah'ındır. İçinizdekini açığa vursanız da gizleseniz de Allah sizi onunla hesaba çeker.",
+   "baglanti": "Aynı surenin sonlarında, Allah'ın her şeyi bilmesi ve hesaba çekmesi fikrini daha geniş bir çerçevede tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, infak ve adakların Allah tarafından bilinip kayda geçmesidir. Adak, kişinin kendi isteğiyle üstlendiği dini bir yükümlülüktür.",
+  "Günlük hayata taşınabilecek ders, verdiğin sözlerin ve yaptığın taahhütlerin görünmese de bir karşılığı olduğudur. Kimse fark etmese bile, söz verdiğin bir şeyi yerine getirmek, kişinin güvenilirliğinin bir ölçüsüdür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Verdiğin bir sözü hatırla",
+   "aciklama": "Kendine veya birine verdiğin, henüz yerine getirmediğin bir sözü bugün gözden geçir."
+  },
+  {
+   "baslik": "Küçük bir taahhüdü tamamla",
+   "aciklama": "Ertelediğin küçük bir sorumluluğu bugün bitir."
+  },
+  {
+   "baslik": "Sessizce yaptığın bir şeyi sürdür",
+   "aciklama": "Kimsenin bilmediği bir iyi alışkanlığını bugün de aksatmadan devam ettir."
+  }
+ ],
+ "bugununAdimi": "Bugün kendine verdiğin ama unuttuğun küçük bir sözü hatırla ve yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=270"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/270"
+  }
+ ]
+}

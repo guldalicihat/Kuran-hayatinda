@@ -1,0 +1,152 @@
+{
+ "sure": 2,
+ "ayet": 280,
+ "durum": "taslak",
+ "meal": "Eğer borçlu darlık içindeyse, ona eli genişleyinceye kadar mühlet verin. Bunu sadaka olarak bağışlamanız ise sizin için daha hayırlıdır; eğer bilirseniz.",
+ "mealNotu": "Kök temelli meal. 'Meysera' kökü eli genişleme, kolaylık anlamındadır; 'nezira' kökü ise mühlet, süre tanımayı anlatır. Ayet borç ilişkisinde darda olana gösterilecek anlayışı doğrudan emreder.",
+ "kokler": [
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "ذُو",
+   "okunus": "zû",
+   "kok": "—",
+   "kokAnlam": "sahip",
+   "karsilik": "sahibi"
+  },
+  {
+   "kelime": "عُسْرَةٍ",
+   "okunus": "usratin",
+   "kok": "عسر",
+   "kokAnlam": "zorluk, darlık",
+   "karsilik": "darlık"
+  },
+  {
+   "kelime": "فَنَظِرَةٌ",
+   "okunus": "fenezıratün",
+   "kok": "نظر",
+   "kokAnlam": "bekleme, mühlet",
+   "karsilik": "mühlet verin"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "مَيْسَرَةٍ",
+   "okunus": "meyseratin",
+   "kok": "يسر",
+   "kokAnlam": "kolaylaşma, eli genişleme",
+   "karsilik": "eli genişleyinceye"
+  },
+  {
+   "kelime": "وَأَن",
+   "okunus": "ve en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "تَصَدَّقُوا۟",
+   "okunus": "tesaddekû",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk; sadaka verme",
+   "karsilik": "sadaka olarak bağışlamanız"
+  },
+  {
+   "kelime": "خَيْرٌ",
+   "okunus": "hayrun",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "daha hayırlıdır"
+  },
+  {
+   "kelime": "لَّكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "تَعْلَمُونَ",
+   "okunus": "ta'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "biliyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, faiz bölümünün ardından meşru borç ilişkisinde nasıl davranılacağını anlatır. Ödeme gücü olmayan darda bir borçluya mühlet vermek doğrudan emredilir; bu, faizde artırma değil, tam tersine kolaylaştırma yönünde bir tutumdur.",
+  "Ayet, bu borcu tamamen sadaka olarak bağışlamanın daha da hayırlı olduğunu ekler. 'Eğer bilirseniz' ifadesi, bu tür bir fedakârlığın değerinin ancak derinlemesine düşünenler tarafından anlaşılabileceğine işaret eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:275",
+   "meal": "Faiz yiyenler, ancak şeytanın dokunup çarptığı kimsenin kalktığı gibi kalkarlar... Allah alışverişi helal, faizi haram kılmıştır.",
+   "baglanti": "Bu ayet, faiz yasağının pratikteki bir uzantısı gibi okunabilir: darda olana ek yük değil, kolaylık gösterilir."
+  },
+  {
+   "ref": "65:7",
+   "meal": "Eli geniş olan, genişliğine göre nafaka versin; rızkı daraltılmış olan da Allah'ın kendisine verdiğinden versin. Allah, kimseyi verdiğinin dışında bir şeyle yükümlü kılmaz.",
+   "baglanti": "Kişinin imkânına göre yükümlü tutulması ilkesini, nafaka bağlamında tekrar eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, borç ilişkisinde darda olan kişiye gösterilecek anlayıştır. Bu, hukuki bir düzenlemedir; alacaklı ile borçlu arasındaki dengeyi korur.",
+  "Günlük hayata taşınabilecek ders, birinden alacağın olduğunda, onun gerçek durumunu gözetmeden ısrarcı olmamaktır. Zor durumdaki birine tanınan küçük bir süre veya esneklik, büyük bir rahatlama sağlayabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir alacağında esnek ol",
+   "aciklama": "Birinden alacağın varsa ve o zor durumdaysa, bugün ona ek süre tanı."
+  },
+  {
+   "baslik": "Israrcı olmaktan kaçın",
+   "aciklama": "Bir konuda karşındakini sıkıştırmak yerine, durumunu anlamaya çalış."
+  },
+  {
+   "baslik": "Küçük bir borcu bağışla",
+   "aciklama": "Mümkünse, küçük bir alacağını bugün tamamen bağışla."
+  }
+ ],
+ "bugununAdimi": "Bugün zor durumda olduğunu bildiğin birine, bir konuda ek süre veya kolaylık tanı.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=280"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/280"
+  }
+ ]
+}

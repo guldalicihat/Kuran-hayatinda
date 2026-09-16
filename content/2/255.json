@@ -1,0 +1,404 @@
+{
+ "sure": 2,
+ "ayet": 255,
+ "durum": "taslak",
+ "meal": "Allah – O'ndan başka ilah yoktur; diridir, her şeyi ayakta tutandır. O'nu ne bir uyuklama tutar, ne de uyku. Göklerde ne var, yerde ne varsa O'nundur. O'nun izni olmaksızın katında şefaat edecek olan kimdir? Onların önlerindekini ve arkalarındakini bilir. Onlar, O'nun dilediği kadarının dışında, ilminden hiçbir şeyi kavrayamazlar. O'nun kürsüsü gökleri ve yeri kaplamıştır; ikisini koruyup gözetmek O'na ağır gelmez. O, yücedir, büyüktür.",
+ "mealNotu": "Kök temelli meal. 'Kayyûm' kökü hem kendi kendine ayakta durmayı hem de her şeyi ayakta tutmayı anlatır; tek kelimeyle karşılanamadığı için 'her şeyi ayakta tutan' denmiştir. 'Kürsî' kelimesi Türkçe meallerde çoğunlukla çevrilmeden bırakılır; klasik tefsir bunu kimi zaman Allah'ın ilmi, kimi zaman O'na özgü bir makam olarak açıklar, kesin bir görüş burada dayatılmamıştır.",
+ "kokler": [
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "إِلَٰهَ",
+   "okunus": "ilâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "ilah"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, başka",
+   "karsilik": "-den başka"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "O"
+  },
+  {
+   "kelime": "ٱلْحَىُّ",
+   "okunus": "elhayyü",
+   "kok": "حيي",
+   "kokAnlam": "diri olma, hayat",
+   "karsilik": "diridir"
+  },
+  {
+   "kelime": "ٱلْقَيُّومُ",
+   "okunus": "elkayyûmü",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; kendiliğinden var olup her şeyi ayakta tutan",
+   "karsilik": "her şeyi ayakta tutandır"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "-maz"
+  },
+  {
+   "kelime": "تَأْخُذُهُۥ",
+   "okunus": "te'huzühû",
+   "kok": "أخذ",
+   "kokAnlam": "tutma, yakalama",
+   "karsilik": "O'nu tutmaz"
+  },
+  {
+   "kelime": "سِنَةٌ",
+   "okunus": "sinetün",
+   "kok": "وسن",
+   "kokAnlam": "hafif uyuklama, dalgınlık",
+   "karsilik": "uyuklama"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "نَوْمٌ",
+   "okunus": "nevmün",
+   "kok": "نوم",
+   "kokAnlam": "uyku",
+   "karsilik": "uyku"
+  },
+  {
+   "kelime": "لَّهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) O'nun",
+   "karsilik": "O'nundur"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne varsa",
+   "karsilik": "ne varsa"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "göklerde"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne varsa",
+   "karsilik": "ne varsa"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yerde"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(soru) kim",
+   "karsilik": "kimdir"
+  },
+  {
+   "kelime": "ذَا",
+   "okunus": "zâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki o",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "يَشْفَعُ",
+   "okunus": "yeşfeu",
+   "kok": "شفع",
+   "kokAnlam": "araya girip destekleme, şefaat",
+   "karsilik": "şefaat edecek"
+  },
+  {
+   "kelime": "عِندَهُۥٓ",
+   "okunus": "indehû",
+   "kok": "عند",
+   "kokAnlam": "yanında, katında",
+   "karsilik": "O'nun katında"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "بِإِذْنِهِۦ",
+   "okunus": "biiznihî",
+   "kok": "أذن",
+   "kokAnlam": "izin verme",
+   "karsilik": "O'nun izni"
+  },
+  {
+   "kelime": "يَعْلَمُ",
+   "okunus": "ya'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilir"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne varsa",
+   "karsilik": "ne varsa"
+  },
+  {
+   "kelime": "بَيْنَ",
+   "okunus": "beyne",
+   "kok": "بين",
+   "kokAnlam": "arasında olma",
+   "karsilik": "önlerinde"
+  },
+  {
+   "kelime": "أَيْدِيهِمْ",
+   "okunus": "eydîhim",
+   "kok": "يدي",
+   "kokAnlam": "el; önde olan",
+   "karsilik": "önlerindekini"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne varsa",
+   "karsilik": "ne varsa"
+  },
+  {
+   "kelime": "خَلْفَهُمْ",
+   "okunus": "halfehüm",
+   "kok": "خلف",
+   "kokAnlam": "arka, geride kalan",
+   "karsilik": "arkalarındakini"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "-mazlar"
+  },
+  {
+   "kelime": "يُحِيطُونَ",
+   "okunus": "yühîtûne",
+   "kok": "حوط",
+   "kokAnlam": "çepeçevre sarma, kavrama",
+   "karsilik": "kavrayamazlar"
+  },
+  {
+   "kelime": "بِشَىْءٍ",
+   "okunus": "bişey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "hiçbir şeyi"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "عِلْمِهِۦٓ",
+   "okunus": "ilmihî",
+   "kok": "علم",
+   "kokAnlam": "bilgi, ilim",
+   "karsilik": "O'nun ilminden"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "dışında"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne kadar",
+   "karsilik": "kadarının"
+  },
+  {
+   "kelime": "شَآءَ",
+   "okunus": "şâe",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilediği"
+  },
+  {
+   "kelime": "وَسِعَ",
+   "okunus": "vesia",
+   "kok": "وسع",
+   "kokAnlam": "genişçe içine alma, kaplama",
+   "karsilik": "kaplamıştır"
+  },
+  {
+   "kelime": "كُرْسِيُّهُ",
+   "okunus": "kürsiyyühü",
+   "kok": "كرس",
+   "kokAnlam": "oturma yeri; makam, kürsî",
+   "karsilik": "O'nun kürsüsü"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "gökleri"
+  },
+  {
+   "kelime": "وَٱلْأَرْضَ",
+   "okunus": "vel erda",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yeri"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "-maz"
+  },
+  {
+   "kelime": "يَـُٔودُهُۥ",
+   "okunus": "yeûdühû",
+   "kok": "أود",
+   "kokAnlam": "ağır gelme, yorma",
+   "karsilik": "O'na ağır gelmez"
+  },
+  {
+   "kelime": "حِفْظُهُمَا",
+   "okunus": "hifzuhümâ",
+   "kok": "حفظ",
+   "kokAnlam": "koruma, gözetme",
+   "karsilik": "ikisini koruyup gözetmek"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "O"
+  },
+  {
+   "kelime": "ٱلْعَلِىُّ",
+   "okunus": "el'aliyyü",
+   "kok": "علو",
+   "kokAnlam": "yükseklik, yücelik",
+   "karsilik": "yücedir"
+  },
+  {
+   "kelime": "ٱلْعَظِيمُ",
+   "okunus": "el'azîmü",
+   "kok": "عظم",
+   "kokAnlam": "büyüklük, azamet",
+   "karsilik": "büyüktür"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayetü'l-Kürsî olarak bilinen bu ayet, Allah'ın birliğini ve mutlak varlığını anlatarak başlar: O diridir, kendi kendine kaimdir ve her şeyi ayakta tutar. Uyku ve uyuklamanın O'na ait olmaması, insanın en temel aczlerinden birinin bile Allah için söz konusu olmadığını gösterir. Göklerdeki ve yerdeki her şeyin O'na ait olması, mülkün tek sahibinin O olduğunu bildirir.",
+  "Ayetin devamı, şefaatin ancak Allah'ın izniyle mümkün olduğunu, O'nun bilgisinin sınırsızlığını ve kulların bu bilgiden ancak dilediği kadarını kavrayabildiğini anlatır. 'Kürsî' ifadesi klasik tefsirde farklı şekillerde açıklanır; ayet bu farklı görüşlerden birini dayatmadan, O'nun koruyup gözetmesinin kendisine hiç ağır gelmeyeceğini vurgulayarak yücelik ve büyüklük sıfatlarıyla kapanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:2",
+   "meal": "Allah – O'ndan başka ilah yoktur; diridir, her şeyi ayakta tutandır.",
+   "baglanti": "Ayetü'l-Kürsî'nin açılış cümlesiyle birebir aynıdır; Allah'ın diri ve kayyûm oluşu Kur'an'da tekrarlanan bir temeldir."
+  },
+  {
+   "ref": "34:23",
+   "meal": "O'nun katında şefaat, kendisine izin verdiği kimseden başkasına fayda vermez.",
+   "baglanti": "Ayetteki 'O'nun izni olmaksızın şefaat edecek kimdir' sorusunu, izinle sınırlı şefaat ilkesiyle açıklığa kavuşturur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Allah'ın sıfatlarıdır; bir hüküm veya emir içermez, bir tanıtımdır. Bu nedenle günlük hayata aktarılacak şey doğrudan bir eylem değil, bir bakış açısıdır.",
+  "Allah'ın hiç uyumaması ve her şeyi kuşatan ilmi, insana sürekli gözetildiği bilincini verir. Bu bilinç, yalnız kalındığında bile doğru davranmayı, ayrıca kendi güçsüzlüğünü kabul edip yalnızca Allah'a güvenmeyi kolaylaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ayetü'l-Kürsî'yi anlamlarını düşünerek oku",
+   "aciklama": "Bugün bu ayeti, kelimelerin anlamını hatırlayarak yavaşça oku."
+  },
+  {
+   "baslik": "Gözetilme bilincini hatırla",
+   "aciklama": "Yalnız kaldığın bir anda, 'O beni görüyor' diyerek davranışını gözden geçir."
+  },
+  {
+   "baslik": "Aczini kabul et",
+   "aciklama": "Kontrol edemediğin bir konuyu bugün Allah'a bırakıp kendi kaygını hafiflet."
+  }
+ ],
+ "bugununAdimi": "Bugün yatmadan önce Ayetü'l-Kürsî'yi anlamını düşünerek bir kez oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=255"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/255"
+  }
+ ]
+}

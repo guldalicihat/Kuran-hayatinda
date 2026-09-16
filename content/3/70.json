@@ -1,0 +1,110 @@
+{
+ "sure": 3,
+ "ayet": 70,
+ "durum": "taslak",
+ "meal": "Ey Kitap ehli! Şahitlik edip dururken niçin Allah'ın ayetlerini inkâr ediyorsunuz?",
+ "mealNotu": "'Şehide' kökü doğrudan görme ve tanıklık etmeyi anlatır; ayet, bilerek inkâr etmenin çelişkisine dikkat çeker.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَهْلَ",
+   "okunus": "yâ ehle",
+   "kok": "أهل",
+   "kokAnlam": "aile, ehil, mensup",
+   "karsilik": "ey ehli"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "kitabın"
+  },
+  {
+   "kelime": "لِمَ",
+   "okunus": "lime",
+   "kok": "—",
+   "kokAnlam": "(soru) niçin",
+   "karsilik": "niçin"
+  },
+  {
+   "kelime": "تَكْفُرُونَ",
+   "okunus": "tekfürûne",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği örtme, inkâr",
+   "karsilik": "inkâr ediyorsunuz"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِ",
+   "okunus": "biâyâti",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet, ayet",
+   "karsilik": "ayetlerini"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapınılan",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَأَنتُمْ",
+   "okunus": "ve entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) oysa siz",
+   "karsilik": "oysa siz"
+  },
+  {
+   "kelime": "تَشْهَدُونَ",
+   "okunus": "teşhedûne",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık etme, şahitlik",
+   "karsilik": "şahitlik ediyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Kitap Ehli'ne yönelik eleştiriyi sürdürür: ellerindeki bilgiye rağmen -kendi kitaplarında gördükleri gerçeklere şahit olmalarına rağmen- Allah'ın ayetlerini inkâr etmelerini sorgular.",
+  "'Şahitlik ediyorsunuz' ifadesi klasik tefsirde, onların kendi kitaplarında hakikate dair işaretleri bildikleri halde bunu gizlemeleri olarak açıklanır. Ayet, bilgiye rağmen inkârın daha ağır bir tutarsızlık olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:146",
+   "meal": "Kendilerine kitap verdiklerimiz onu öz oğullarını tanıdıkları gibi tanırlar; buna rağmen içlerinden bir kısmı bile bile gerçeği gizlerler.",
+   "baglanti": "Bakara suresi de aynı çelişkiyi, bilgiye rağmen gerçeği gizlemek olarak tanımlar."
+  },
+  {
+   "ref": "3:71",
+   "meal": "Ey Kitap ehli! Niçin hakkı batılla karıştırıyor ve bile bile hakkı gizliyorsunuz?",
+   "baglanti": "Bu ayet, 70. ayetteki eleştiriyi, hakkın bilerek gizlenmesi vurgusuyla sürdürür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bilgiye rağmen gerçeği reddetme tutarsızlığıdır; bu, tarihi bir dini tartışma bağlamındadır.",
+  "Bugüne taşınabilecek ders, bildiğimiz bir doğruyu çıkarımıza uymadığı için görmezden gelmemek gerektiğidir. Bir kişi bir gerçeği net biçimde görüyorsa, onu kabul etmek, inkâr etmekten daha tutarlı bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bildiğin doğruyu kabul et",
+   "aciklama": "Bugün fark ettiğin ama kabullenmekte zorlandığın bir gerçeği, dürüstçe kabul et."
+  },
+  {
+   "baslik": "Çıkarınla gerçeği karıştırma",
+   "aciklama": "Bugün bir kararında, kişisel çıkarının gerçeği görmeni engellemesine izin verme."
+  },
+  {
+   "baslik": "Tutarlı ol",
+   "aciklama": "Bugün söylediklerinle bildiklerin arasında bir çelişki varsa, onu gidermeye çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün kabul etmekte zorlandığın bir gerçeği yazıp, onu kabullenmenin ilk adımını at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=70"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/70"
+  }
+ ]
+}

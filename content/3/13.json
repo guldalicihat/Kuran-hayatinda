@@ -1,0 +1,257 @@
+{
+ "sure": 3,
+ "ayet": 13,
+ "durum": "taslak",
+ "meal": "Andolsun, karşı karşıya gelen iki toplulukta sizin için bir ibret vardır: biri Allah yolunda savaşıyordu, diğeri kâfirdi. Onlar, müminleri gözleriyle kendilerinin iki katı görüyorlardı. Allah, dilediğini yardımıyla destekler. Şüphesiz bunda basiret sahipleri için gerçekten bir ibret vardır.",
+ "mealNotu": "'Yeravnehüm mişleyhim ra'yel ayn' ifadesinin kimin kimi nasıl gördüğü konusunda klasik tefsir farklı açıklamalar nakleder; burada yaygın kabul gören okuma esas alınmıştır. 'İbret' kökü (abera) bir durumdan ders çıkarmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik edatı) gerçekten, andolsun",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "vardı"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "ءَايَةٌ",
+   "okunus": "âyetün",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alâmet; ibret verici delil",
+   "karsilik": "bir ibret"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de, içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "فِئَتَيْنِ",
+   "okunus": "fieteyni",
+   "kok": "فأي",
+   "kokAnlam": "topluluk, grup",
+   "karsilik": "iki toplulukta"
+  },
+  {
+   "kelime": "ٱلْتَقَتَا",
+   "okunus": "eltekatâ",
+   "kok": "لقي",
+   "kokAnlam": "karşılaşma, buluşma",
+   "karsilik": "karşı karşıya gelen"
+  },
+  {
+   "kelime": "فِئَةٌ",
+   "okunus": "fietün",
+   "kok": "فأي",
+   "kokAnlam": "topluluk, grup",
+   "karsilik": "biri"
+  },
+  {
+   "kelime": "تُقَٰتِلُ",
+   "okunus": "tükâtilü",
+   "kok": "قتل",
+   "kokAnlam": "karşılıklı savaşma",
+   "karsilik": "savaşıyordu"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de, içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَأُخْرَىٰ",
+   "okunus": "ve ührâ",
+   "kok": "أخر",
+   "kokAnlam": "sonra olan; başka, diğer",
+   "karsilik": "diğeri"
+  },
+  {
+   "kelime": "كَافِرَةٌ",
+   "okunus": "kâfiratün",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "kâfirdi"
+  },
+  {
+   "kelime": "يَرَوْنَهُم",
+   "okunus": "yeravnehüm",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "onları görüyorlardı"
+  },
+  {
+   "kelime": "مِّثْلَيْهِمْ",
+   "okunus": "misleyhim",
+   "kok": "مثل",
+   "kokAnlam": "benzer, misli, katı",
+   "karsilik": "kendilerinin iki katı"
+  },
+  {
+   "kelime": "رَأْىَ",
+   "okunus": "ra'ye",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görüşüyle"
+  },
+  {
+   "kelime": "ٱلْعَيْنِ",
+   "okunus": "el'ayni",
+   "kok": "عين",
+   "kokAnlam": "göz",
+   "karsilik": "gözün"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يُؤَيِّدُ",
+   "okunus": "yüeyyidü",
+   "kok": "أيد",
+   "kokAnlam": "destekleme, güçlendirme",
+   "karsilik": "destekler"
+  },
+  {
+   "kelime": "بِنَصْرِهِۦ",
+   "okunus": "binasrihî",
+   "kok": "نصر",
+   "kokAnlam": "yardım, zafer",
+   "karsilik": "yardımıyla"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimi",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de, içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri) bunda, şu",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "لَعِبْرَةً",
+   "okunus": "leibraten",
+   "kok": "عبر",
+   "kokAnlam": "geçme, aşma; ibret, ders",
+   "karsilik": "gerçekten bir ibret"
+  },
+  {
+   "kelime": "لِّأُو۟لِى",
+   "okunus": "liülî",
+   "kok": "—",
+   "kokAnlam": "(izafet) sahipleri",
+   "karsilik": "sahipleri için"
+  },
+  {
+   "kelime": "ٱلْأَبْصَٰرِ",
+   "okunus": "el'ebsâri",
+   "kok": "بصر",
+   "kokAnlam": "görme, basiret",
+   "karsilik": "basiret"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, iki ordunun karşı karşıya geldiği bir olayı (klasik tefsir bunu Bedir Savaşı olarak açıklar) sizin için bir ibret olarak sunar. Bir taraf Allah yolunda savaşırken diğer taraf inkârcıydı; sayıca dengesiz görünen bu iki grubun karşılaşması, Allah'ın dilediğine yardım edebileceğinin bir göstergesi olarak anlatılır.",
+  "'Onları gözleriyle kendilerinin iki katı görüyorlardı' ifadesi, savaş öncesi taraflardan birinin diğerinin gücünü olduğundan farklı algıladığını anlatır; klasik tefsir bu algının kimde nasıl gerçekleştiği konusunda farklı rivayetler nakleder. Ayet, sonuçta sayısal üstünlüğün değil, Allah'ın desteğinin belirleyici olduğunu vurgular ve bunu basiret sahiplerine bir ders olarak sunar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "8:44",
+   "meal": "Hani karşılaştığınızda Allah, olacak bir işi gerçekleştirmek için onları gözlerinizde az, sizi de onların gözünde az gösteriyordu.",
+   "baglanti": "Enfâl suresindeki bu ayet, aynı Bedir olayında tarafların birbirini algılayışının Allah'ın takdiriyle değiştiğini daha ayrıntılı anlatır."
+  },
+  {
+   "ref": "3:123",
+   "meal": "Andolsun, siz güçsüz iken Allah size Bedir'de yardım etmişti; öyleyse Allah'a karşı gelmekten sakının ki şükretmiş olasınız.",
+   "baglanti": "Aynı surenin ilerleyen bir ayeti, bu ibretin hangi olaya işaret ettiğini adıyla anarak doğrular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu bir savaş olayıdır; günlük bir hüküm içermez. Ancak buradan genel bir ders çıkar: görünüşteki güç dengesi, tek başına sonucu belirlemez.",
+  "Günlük hayatta bu, kişiyi sayısal veya maddi üstünlüğe bakarak umutsuzluğa kapılmaktan alıkoyar. Zor bir işe kalabalık bir rakip veya engel karşısında başlarken, doğru niyet ve çabanın önemini hatırlamak cesaret verir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Dengesizlikten yılma",
+   "aciklama": "Bugün kendini yetersiz hissettiğin bir işte, sayısal dezavantajına takılmadan elinden geleni yap."
+  },
+  {
+   "baslik": "İbret çıkar",
+   "aciklama": "Bugün geçmişte yaşadığın zor bir durumdan çıkardığın bir dersi yaz."
+  },
+  {
+   "baslik": "Niyetini netleştir",
+   "aciklama": "Bugün giriştiğin bir işte, hangi amaç için çabaladığını kendine net biçimde ifade et."
+  }
+ ],
+ "bugununAdimi": "Bugün kendini yetersiz hissettiğin bir konuda, sonucu düşünmeden ilk adımı at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=13"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/13"
+  }
+ ]
+}

@@ -1,0 +1,376 @@
+{
+ "sure": 3,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "O, sana Kitabı indirendir. Onun bir kısmı muhkem ayetlerdir; bunlar Kitabın anasıdır. Diğerleri ise müteşabihtir. Kalplerinde eğrilik olanlar, fitne çıkarmak ve onun te'vilini aramak için müteşabih olana uyarlar. Oysa onun te'vilini Allah'tan başkası bilmez. İlimde derinleşmiş olanlar, 'Ona inandık, hepsi Rabbimiz katındandır' derler. Bunu ancak akıl sahipleri düşünüp öğüt alır.",
+ "mealNotu": "'Muhkem' kökü hükmü açık ve sağlam olanı, 'müteşabih' kökü ise mana bakımından birbirine benzeyen, ilk bakışta kapalı kalanı anlatır. 'Te'vilini Allah'tan başkası bilmez' cümlesinden sonraki 'ilimde derinleşmiş olanlar' ifadesinin yeni bir cümle mi yoksa öncekine bağlı mı okunacağı konusunda klasik tefsirde farklı okumalar (vakıf) nakledilir; burada yaygın kabul gören okuma esas alınmıştır.",
+ "kokler": [
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "O'dur"
+  },
+  {
+   "kelime": "ٱلَّذِىٓ",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "أَنزَلَ",
+   "okunus": "enzele",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indiren"
+  },
+  {
+   "kelime": "عَلَيْكَ",
+   "okunus": "aleyke",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı olan, kitap",
+   "karsilik": "Kitabı"
+  },
+  {
+   "kelime": "مِنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ondan",
+   "karsilik": "onun bir kısmı"
+  },
+  {
+   "kelime": "ءَايَٰتٌ",
+   "okunus": "âyâtün",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alâmet; Kur'an ayeti",
+   "karsilik": "ayetlerdir"
+  },
+  {
+   "kelime": "مُّحْكَمَٰتٌ",
+   "okunus": "mühkemâtün",
+   "kok": "حكم",
+   "kokAnlam": "hüküm verme; sağlam, açık kılma",
+   "karsilik": "muhkem"
+  },
+  {
+   "kelime": "هُنَّ",
+   "okunus": "hünne",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar (dişil)",
+   "karsilik": "bunlar"
+  },
+  {
+   "kelime": "أُمُّ",
+   "okunus": "ümmü",
+   "kok": "أمم",
+   "kokAnlam": "ana; temel, kaynak",
+   "karsilik": "anasıdır"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı olan, kitap",
+   "karsilik": "Kitabın"
+  },
+  {
+   "kelime": "وَأُخَرُ",
+   "okunus": "ve üharu",
+   "kok": "أخر",
+   "kokAnlam": "sonra olan; başka, diğer",
+   "karsilik": "diğerleri ise"
+  },
+  {
+   "kelime": "مُتَشَٰبِهَٰتٌ",
+   "okunus": "müteşâbihâtün",
+   "kok": "شبه",
+   "kokAnlam": "benzeme; birbirine benzeyen, mana bakımından kapalı",
+   "karsilik": "müteşabihtir"
+  },
+  {
+   "kelime": "فَأَمَّا",
+   "okunus": "feemmâ",
+   "kok": "—",
+   "kokAnlam": "(açıklama edatı) ama, gelince",
+   "karsilik": "ama"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de, içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "قُلُوبِهِمْ",
+   "okunus": "kulûbihim",
+   "kok": "قلب",
+   "kokAnlam": "kalp, gönül",
+   "karsilik": "kalplerinde"
+  },
+  {
+   "kelime": "زَيْغٌ",
+   "okunus": "zeyğun",
+   "kok": "زيغ",
+   "kokAnlam": "eğrilik, doğru yoldan sapma",
+   "karsilik": "eğrilik"
+  },
+  {
+   "kelime": "فَيَتَّبِعُونَ",
+   "okunus": "feyettebiûne",
+   "kok": "تبع",
+   "kokAnlam": "izleme, tabi olma",
+   "karsilik": "uyarlar"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olana, şeye",
+   "karsilik": "olana"
+  },
+  {
+   "kelime": "تَشَٰبَهَ",
+   "okunus": "teşâbehe",
+   "kok": "شبه",
+   "kokAnlam": "benzeme; birbirine benzeyen, mana bakımından kapalı",
+   "karsilik": "müteşabih olan"
+  },
+  {
+   "kelime": "مِنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "ٱبْتِغَآءَ",
+   "okunus": "ibtiğâe",
+   "kok": "بغي",
+   "kokAnlam": "arama, isteme",
+   "karsilik": "aramak için"
+  },
+  {
+   "kelime": "ٱلْفِتْنَةِ",
+   "okunus": "elfitneti",
+   "kok": "فتن",
+   "kokAnlam": "sınama; karışıklık, fitne",
+   "karsilik": "fitne"
+  },
+  {
+   "kelime": "وَٱبْتِغَآءَ",
+   "okunus": "vebtiğâe",
+   "kok": "بغي",
+   "kokAnlam": "arama, isteme",
+   "karsilik": "ve aramak için"
+  },
+  {
+   "kelime": "تَأْوِيلَهُۥٓ",
+   "okunus": "te'vîlihî",
+   "kok": "أول",
+   "kokAnlam": "geri döndürme; bir sözün varacağı anlamı bulma, yorum",
+   "karsilik": "onun te'vilini"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "oysa değildir"
+  },
+  {
+   "kelime": "يَعْلَمُ",
+   "okunus": "ya'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilmez"
+  },
+  {
+   "kelime": "تَأْوِيلَهُۥٓ",
+   "okunus": "te'vîlehû",
+   "kok": "أول",
+   "kokAnlam": "geri döndürme; bir sözün varacağı anlamı bulma, yorum",
+   "karsilik": "onun te'vilini"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna edatı) ancak, başka",
+   "karsilik": "başkası"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "وَٱلرَّٰسِخُونَ",
+   "okunus": "ver râsihûne",
+   "kok": "رسخ",
+   "kokAnlam": "kökleşme, sağlam yerleşme",
+   "karsilik": "ve ilimde derinleşmiş olanlar"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de, içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْعِلْمِ",
+   "okunus": "el'ilmi",
+   "kok": "علم",
+   "kokAnlam": "bilgi, ilim",
+   "karsilik": "ilimde"
+  },
+  {
+   "kelime": "يَقُولُونَ",
+   "okunus": "yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "ءَامَنَّا",
+   "okunus": "âmennâ",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "inandık"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "كُلٌّ",
+   "okunus": "küllün",
+   "kok": "كلل",
+   "kokAnlam": "bütün, hep",
+   "karsilik": "hepsi"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-dendir"
+  },
+  {
+   "kelime": "عِندِ",
+   "okunus": "indi",
+   "kok": "عند",
+   "kokAnlam": "yan, kat",
+   "karsilik": "katından"
+  },
+  {
+   "kelime": "رَبِّنَا",
+   "okunus": "rabbinâ",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbimizin"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "ve ... ancak"
+  },
+  {
+   "kelime": "يَذَّكَّرُ",
+   "okunus": "yezzekkeru",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlama, öğüt alma",
+   "karsilik": "düşünüp öğüt alır"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna edatı) ancak, başka",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "أُو۟لُوا۟",
+   "okunus": "ülû",
+   "kok": "—",
+   "kokAnlam": "(izafet) sahipleri",
+   "karsilik": "sahipleri"
+  },
+  {
+   "kelime": "ٱلْأَلْبَٰبِ",
+   "okunus": "el'elbâbi",
+   "kok": "لبب",
+   "kokAnlam": "öz, iç; temiz akıl",
+   "karsilik": "akıl"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Kitapta iki tür ayet bulunduğunu bildirir: muhkem (hükmü açık, sağlam) ve müteşabih (mana bakımından birbirine benzeyen, ilk bakışta kapalı). Muhkem ayetler 'Kitabın anası' olarak tanımlanır; yani temel ve açık hükümler bunlardadır.",
+  "Klasik tefsir, kalbinde eğrilik olanların müteşabih ayetleri fitne çıkarmak amacıyla kullanmaya çalıştığını, ilimde derinleşmiş kimselerin ise bunun karşısında teslimiyetle 'hepsi Rabbimizdendir' dediğini aktarır. Ayet burada kesin bir yorum dayatmaz; sağlam bilgiye dayanmayan, kafa karıştırmaya yönelik yorumlardan sakınmayı öğütler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:1",
+   "meal": "Elif Lâm Râ. Bu, ayetleri muhkem kılınmış, sonra Hakîm ve Habîr olan Allah tarafından ayrı ayrı açıklanmış bir Kitaptır.",
+   "baglanti": "Hûd suresinin açılışı, Kitabın 'muhkem' vasfını doğrudan Allah'a bağlayarak bu ayetteki muhkem kavramını pekiştirir."
+  },
+  {
+   "ref": "39:23",
+   "meal": "Allah, sözün en güzelini, ayetleri birbirine benzeyen bir Kitap olarak indirmiştir.",
+   "baglanti": "Zümer suresindeki bu ayet, 'müteşabih' kelimesini Kur'an'ın bütünü için kullanır; burada ise Kitap içindeki bir ayet türünü tanımlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kitaptaki bilgi türleri ve bunlara yaklaşım biçimidir; bir hüküm veya ibadet emri içermez. Ancak buradan genel bir ilke çıkar: bazı konular açık ve nettir, bazıları ise ilk bakışta kapalı kalabilir.",
+  "Günlük hayatta bu, kişiyi net olmayan bir konuda kesin hüküm vermekten alıkoyar. Açık olanı esas almak, kapalı kalan bir noktayı ise alanında derinleşmiş birine sormak veya sabırla beklemek, bu ayetin öğrettiği tutumla örtüşür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Açık olanı esas al",
+   "aciklama": "Bugün emin olmadığın bir konuda, üzerinde tartışma olmayan açık bilgiyi öncelikle esas al."
+  },
+  {
+   "baslik": "Kapalı kalanı sabırla bekle",
+   "aciklama": "Anlayamadığın bir konuyu bugün zorlama; 'şimdilik bilmiyorum' diyerek bırakabileceğini kabul et."
+  },
+  {
+   "baslik": "Ehline danış",
+   "aciklama": "Bugün karmaşık bir konuda, alanında bilgili birine sorarak kendi başına kesin hüküm vermekten kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün net olmadığın bir konuyu kesin bir yorum yapmadan not al ve alanında bilgili birine sormayı planla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/7"
+  }
+ ]
+}

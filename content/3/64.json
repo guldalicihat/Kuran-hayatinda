@@ -1,0 +1,271 @@
+{
+ "sure": 3,
+ "ayet": 64,
+ "durum": "taslak",
+ "meal": "De ki: 'Ey Kitap ehli! Bizimle sizin aranızda ortak bir söze gelin: Allah'tan başkasına kulluk etmeyelim, O'na hiçbir şeyi ortak koşmayalım ve Allah'tan başka bazımız bazımızı rabler edinmeyelim.' Eğer yüz çevirirlerse, deyin ki: 'Şahit olun, bizler müslümanlarız.'",
+ "mealNotu": "'Sevâ' kökü eşitlik ve denkliği anlatır; 'ortak söz' burada tarafların eşit şekilde kabul edebileceği bir zemini ifade eder. 'Erbâb' kelimesi çoğul 'rab' anlamındadır; burada insanların birbirini ilahlaştırması kastedilir.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, konuşma",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "يَٰٓأَهْلَ",
+   "okunus": "yâ ehle",
+   "kok": "أهل",
+   "kokAnlam": "aile, ehil, mensup",
+   "karsilik": "ey ehli"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "kitabın"
+  },
+  {
+   "kelime": "تَعَالَوْا۟",
+   "okunus": "teâlev",
+   "kok": "علو",
+   "kokAnlam": "yükseklik, gel!",
+   "karsilik": "gelin"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "كَلِمَةٍ",
+   "okunus": "kelimetin",
+   "kok": "كلم",
+   "kokAnlam": "söz, kelime",
+   "karsilik": "bir söze"
+  },
+  {
+   "kelime": "سَوَآءٍۭ",
+   "okunus": "sevâin",
+   "kok": "سوي",
+   "kokAnlam": "eşitlik, denklik",
+   "karsilik": "ortak"
+  },
+  {
+   "kelime": "بَيْنَنَا",
+   "okunus": "beynenâ",
+   "kok": "بين",
+   "kokAnlam": "arasında olma",
+   "karsilik": "bizimle"
+  },
+  {
+   "kelime": "وَبَيْنَكُمْ",
+   "okunus": "ve beyneküm",
+   "kok": "بين",
+   "kokAnlam": "arasında olma",
+   "karsilik": "sizin aranızda"
+  },
+  {
+   "kelime": "أَلَّا",
+   "okunus": "ellâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki ...mamak",
+   "karsilik": "yalnız"
+  },
+  {
+   "kelime": "نَعْبُدَ",
+   "okunus": "na'büde",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme, tapınma",
+   "karsilik": "kulluk edelim"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapınılan",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...mayalım",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "نُشْرِكَ",
+   "okunus": "nüşrike",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "ortak koşmayalım"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "bir şey",
+   "karsilik": "hiçbir şeyi"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...mayalım",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يَتَّخِذَ",
+   "okunus": "yettehıze",
+   "kok": "أخذ",
+   "kokAnlam": "edinme, alma",
+   "karsilik": "edinmeyelim"
+  },
+  {
+   "kelime": "بَعْضُنَا",
+   "okunus": "ba'dunâ",
+   "kok": "بعض",
+   "kokAnlam": "kısım, bir bölüm",
+   "karsilik": "bazımız"
+  },
+  {
+   "kelime": "بَعْضًا",
+   "okunus": "ba'dan",
+   "kok": "بعض",
+   "kokAnlam": "kısım, bir bölüm",
+   "karsilik": "bazımızı"
+  },
+  {
+   "kelime": "أَرْبَابًا",
+   "okunus": "erbâben",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, terbiye; rab",
+   "karsilik": "rabler"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِ",
+   "okunus": "dûni",
+   "kok": "دون",
+   "kokAnlam": "aşağısı, ötesi",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapınılan",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَوَلَّوْا۟",
+   "okunus": "tevellev",
+   "kok": "ولي",
+   "kokAnlam": "yüz çevirme, dönme",
+   "karsilik": "yüz çevirirlerse"
+  },
+  {
+   "kelime": "فَقُولُوا۟",
+   "okunus": "fekûlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, konuşma",
+   "karsilik": "deyin"
+  },
+  {
+   "kelime": "ٱشْهَدُوا۟",
+   "okunus": "uşhedû",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık etme, şahitlik",
+   "karsilik": "şahit olun"
+  },
+  {
+   "kelime": "بِأَنَّا",
+   "okunus": "biennâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten biz",
+   "karsilik": "bizim"
+  },
+  {
+   "kelime": "مُسْلِمُونَ",
+   "okunus": "müslimûne",
+   "kok": "سلم",
+   "kokAnlam": "esenlik, teslim olma",
+   "karsilik": "müslüman olduğumuza"
+  }
+ ],
+ "neAnlatiyor": [
+  "Peygamber'den, Kitap Ehli'ni ortak bir zemine -yalnız Allah'a kulluk, ortak koşmama ve birbirini rab edinmeme- davet etmesi istenir. Bu, tartışmayı derinleştirmek yerine ortak bir noktada buluşma çağrısıdır.",
+  "'Bazımız bazımızı rabler edinmesin' ifadesi klasik tefsirde din adamlarının veya liderlerin sözünü, Allah'ın hükmünün önüne geçirecek şekilde mutlaklaştırmaya karşı bir uyarı olarak açıklanır. Ayet, kabul etmeseler bile en azından tarafın açıkça belli olmasını -müslüman olduklarını ilan etmelerini- ister."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:65",
+   "meal": "Ey Kitap ehli! Tevrat ve İncil ondan sonra indirildiği halde, niçin İbrahim hakkında tartışıyorsunuz?",
+   "baglanti": "Bu ayet, ortak söz çağrısının ardından tarihi bir örnekle -İbrahim üzerinden- tartışmayı sürdürür."
+  },
+  {
+   "ref": "9:31",
+   "meal": "Onlar, Allah'ı bırakıp hahamlarını, rahiplerini ve Meryem oğlu Mesih'i rabler edindiler; oysa tek bir ilaha kulluk etmekle emrolunmuşlardı.",
+   "baglanti": "Tevbe suresi, 'bazımız bazımızı rab edinmesin' uyarısının somut bir örneğini, din adamlarının otoritesinin mutlaklaştırılması üzerinden verir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, farklı inançlar arasında ortak bir zeminde buluşma çağrısıdır; bu, dinlerarası bir tartışma bağlamındadır.",
+  "Bugüne taşınabilecek ders, farklı görüşteki insanlarla tartışırken önce ortak paydayı bulmaya çalışmaktır. Ayrıca hiçbir insanı -ne kadar saygın olursa olsun- sorgusuz sualsiz itaat edilecek bir otorite haline getirmemek, bu ayetten çıkarılabilecek bir uyarıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ortak paydayı bul",
+   "aciklama": "Bugün farklı düşündüğün biriyle konuşurken, önce üzerinde anlaştığınız bir noktayı bul."
+  },
+  {
+   "baslik": "Otoriteyi sorgula",
+   "aciklama": "Bugün bir görüşü sadece 'öyle dedi' diye sorgusuz kabul etmek yerine, doğruluğunu düşün."
+  },
+  {
+   "baslik": "Netliğini koru",
+   "aciklama": "Bugün duruşunu net biçimde ifade et, belirsizlikte bırakma."
+  }
+ ],
+ "bugununAdimi": "Bugün farklı görüşte olduğun biriyle, tartışmak yerine ortak bir değeri konuşarak iletişim kur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=64"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/64"
+  }
+ ]
+}
