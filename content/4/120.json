@@ -1,0 +1,103 @@
+{
+ "sure": 4,
+ "ayet": 120,
+ "durum": "taslak",
+ "meal": "Şeytan onlara vaat eder ve onları boş kuruntulara sokar; oysa şeytanın onlara vaat ettiği, aldatmadan başka bir şey değildir.",
+ "mealNotu": "'Va'd' kökü söz verme, vaat etmeyi anlatır. 'Ğurûr' kökü ise aldatma ve boş bir güvenle yanıltmayı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "يَعِدُهُمُ",
+   "okunus": "yeidühüm",
+   "kok": "وعد",
+   "kokAnlam": "söz verme, vaat etme",
+   "karsilik": "onlara vaat eder"
+  },
+  {
+   "kelime": "وَيُمَنِّيهِمْ",
+   "okunus": "ve yümennîhim",
+   "kok": "مني",
+   "kokAnlam": "boş kuruntu, hayal kurdurma",
+   "karsilik": "ve onları boş kuruntulara sokar"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "oysa değildir"
+  },
+  {
+   "kelime": "يَعِدُهُمُ",
+   "okunus": "yeidühümü",
+   "kok": "وعد",
+   "kokAnlam": "söz verme, vaat etme",
+   "karsilik": "onlara vaat ettiği"
+  },
+  {
+   "kelime": "ٱلشَّيْطَٰنُ",
+   "okunus": "eşşeytânü",
+   "kok": "شطن",
+   "kokAnlam": "azma, uzaklaşma; şeytan",
+   "karsilik": "şeytanın"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "başka bir şey"
+  },
+  {
+   "kelime": "غُرُورًا",
+   "okunus": "gurûran",
+   "kok": "غرر",
+   "kokAnlam": "aldatma, boş bir güvenle yanıltma",
+   "karsilik": "aldatmadan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki şeytanın telkinlerini özetler: vaat etme ve boş kuruntuya sokma. 'Va'd' kökü söz vermeyi anlatır; ancak bu vaadin arkasında hiçbir gerçek karşılık yoktur.",
+  "Ayet, şeytanın verdiği her vaadin sonunda yalnızca aldatma olduğunu bildirir. 'Ğurûr' kökü, kişiyi yanlış bir güvenle oyalamayı anlatır; bu, 119. ayetteki dört telkinin ortak sonucudur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "14:22",
+   "meal": "Şeytan, iş bitirilince der ki: 'Şüphesiz Allah size gerçek olanı vaat etti, ben de size vaat ettim ama sözümden caydım...'",
+   "baglanti": "Bu ayet, şeytanın vaadinin kıyamet günü nasıl boşa çıktığını gösterir; 120. ayetteki 'vaat ettiği aldatmadan başka bir şey değildir' hükmünü doğrular."
+  },
+  {
+   "ref": "31:33",
+   "meal": "Ey insanlar! Rabbinizden sakının ve hiçbir babanın çocuğuna, hiçbir çocuğun da babasına hiçbir şeyle fayda veremeyeceği bir günden korkun. Şüphesiz Allah'ın vaadi gerçektir; dünya hayatı sizi aldatmasın, o aldatıcı da sizi Allah hakkında aldatmasın.",
+   "baglanti": "'Ğurûr' kökü burada da geçer; dünya hayatının ve aldatıcının (şeytanın) insanı yanıltması, 120. ayetteki uyarıyla aynı temayı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, şeytanın vaatlerinin gerçekte hiçbir karşılığı olmayışıdır.",
+  "Bugüne taşınabilecek ders, çabuk ve kolay kazanç vaat eden ama gerçekte boş olan tekliflere karşı temkinli olmaktır. Bir teklif ne kadar cazip görünse de, sonucu gerçekçi biçimde değerlendirilmelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Cazip teklifi sorgula",
+   "aciklama": "Bugün sana kolay bir kazanç vaat eden bir teklifle karşılaşırsan, gerçekliğini araştır."
+  },
+  {
+   "baslik": "Kuruntudan uzaklaş",
+   "aciklama": "Gerçekleşmesi belirsiz bir hayale zaman ayırmak yerine, elindeki somut işe odaklan."
+  },
+  {
+   "baslik": "Sonucu düşün",
+   "aciklama": "Bir kararını verirken, kısa vadeli cazibesi yerine uzun vadeli sonucunu düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün sana kolay ve hızlı bir kazanç vaat eden bir şeyi, gerçekçi biçimde sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=120"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/120"
+  }
+ ]
+}
