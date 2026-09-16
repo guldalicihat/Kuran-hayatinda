@@ -1,0 +1,257 @@
+{
+ "sure": 10,
+ "ayet": 35,
+ "durum": "taslak",
+ "meal": "De ki: Ortaklarınızdan hakka ileten (doğru yola götüren) var mı? De ki: Allah hakka iletir. Peki hakka ileten mi uyulmaya daha layıktır, yoksa hidayete erdirilmedikçe kendisi hidayete eremeyen mi? Size ne oluyor, nasıl hükmediyorsunuz?",
+ "mealNotu": "'Yehdî' (هدي) kökü doğru yola iletmeyi anlatır; ayet, hidayet kaynağı olanla, kendisi hidayete muhtaç olan arasındaki farkı sorarak kimin izlenmeye daha layık olduğunu akla bırakır.",
+ "kokler": [
+  {
+   "kelime": "قُلِ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "var mı",
+   "karsilik": "var mı"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "içinde, -den",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "شُرَكَآئِكُم",
+   "okunus": "şürakâiküm",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma, ortak",
+   "karsilik": "ortaklarınızdan"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "biri ki",
+   "karsilik": "biri"
+  },
+  {
+   "kelime": "يُهْدَىٰ",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme, hidayet etme",
+   "karsilik": "hakka iletiyor"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "-e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْحَقِّ",
+   "okunus": "elhakkı",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçek",
+   "karsilik": "hakka"
+  },
+  {
+   "kelime": "قُلِ",
+   "okunus": "kuli",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah, Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يُهْدَىٰ",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme",
+   "karsilik": "hakka iletir"
+  },
+  {
+   "kelime": "لِلْحَقِّ",
+   "okunus": "lilhakkı",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçek",
+   "karsilik": "hakka"
+  },
+  {
+   "kelime": "أَفَمَن",
+   "okunus": "efemen",
+   "kok": "—",
+   "kokAnlam": "peki ... eden mi",
+   "karsilik": "peki hakka ileten mi"
+  },
+  {
+   "kelime": "يُهْدَىٰ",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "iletme",
+   "karsilik": "iletiyor"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "-e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْحَقِّ",
+   "okunus": "elhakkı",
+   "kok": "حقق",
+   "kokAnlam": "hak",
+   "karsilik": "hakka"
+  },
+  {
+   "kelime": "أَحَقُّ",
+   "okunus": "ehakku",
+   "kok": "حقق",
+   "kokAnlam": "daha layık, hak sahibi",
+   "karsilik": "daha layıktır"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "-mesi",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "يُتَّبَعَ",
+   "okunus": "yüttebea",
+   "kok": "تبع",
+   "kokAnlam": "uyulma, tabi olunma",
+   "karsilik": "uyulmaya"
+  },
+  {
+   "kelime": "أَمَّن",
+   "okunus": "emmen",
+   "kok": "—",
+   "kokAnlam": "yoksa kim",
+   "karsilik": "yoksa kim"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "-mez",
+   "karsilik": "-mediği"
+  },
+  {
+   "kelime": "يُهْدَىٰ",
+   "okunus": "yehiddî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu bulma, hidayete erme",
+   "karsilik": "hidayete eremeyen"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "meğer ki, -medikçe",
+   "karsilik": "-medikçe"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "-mesi",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "يُهْدَىٰ",
+   "okunus": "yühdâ",
+   "kok": "هدي",
+   "kokAnlam": "hidayete erdirilme",
+   "karsilik": "hidayete erdirilmedikçe"
+  },
+  {
+   "kelime": "فَمَا",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "ne oluyor",
+   "karsilik": "size ne oluyor"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "كَيْفَ",
+   "okunus": "keyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "تَحْكُمُونَ",
+   "okunus": "tahkümûne",
+   "kok": "حكم",
+   "kokAnlam": "hükmetme",
+   "karsilik": "hükmediyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet yaratma ve yeniden yaratma sorusuyla Allah'ın tekliğini göstermişti; bu ayet benzer bir soruyu hidayet üzerinden sorar: ortaklardan hakka ileten var mı? Cevap yine Allah'tır.",
+  "Ayet, akla çok basit ama etkili bir ölçü sunar: yol gösterebilen mi izlenmeye layıktır, yoksa kendisi yol bulamayan mı? Klasik tefsir bunu, akıl sahibi her insanın kolayca kabul edeceği bir mantık ölçüsü olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:36",
+   "meal": "Size ne oluyor, nasıl hükmediyorsunuz?",
+   "baglanti": "10:35'in son cümlesiyle birebir aynı ifadeyi taşıyarak, tutarsız bir hükme varanlara yöneltilen aynı eleştiriyi tekrarlar."
+  },
+  {
+   "ref": "17:97",
+   "meal": "Allah kimi doğru yola iletirse, işte o doğru yoldadır; kimi de saptırırsa, onlar için O'ndan başka dostlar bulamazsın.",
+   "baglanti": "10:35'teki hidayetin kaynağının Allah olduğu fikrini, hidayet ve sapmanın sonuçlarıyla birlikte pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kime uyulacağını belirlerken akla dayalı bir ölçü sunmaktır: yol gösterebilen mi, yoksa kendisi yolunu bulamayan mı izlenmelidir?",
+  "Buradan çıkan ders, bugün kimin sözüne, kimin örnekliğine güvendiğini gözden geçirmektir; gerçekten doğru yolu bilen ve gösterebilen bir kaynağa mı, yoksa kendisi de kararsız olan birine mi uyduğunu sorgulamak faydalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kime uyduğunu sorgula",
+   "aciklama": "Bugün bir konuda örnek aldığın kişinin gerçekten güvenilir bir kaynağa dayanıp dayanmadığını düşün."
+  },
+  {
+   "baslik": "Vahyi rehber kıl",
+   "aciklama": "Bugün bir kararında Kur'an'dan bir ölçüyü hatırlayarak hareket et."
+  },
+  {
+   "baslik": "Tutarlılığını kontrol et",
+   "aciklama": "Bugün bir konuda verdiğin hükmün akla ve adalete uyup uymadığını tekrar değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararında, gerçekten güvenilir bir kaynağa mı yoksa kendi kararsızlığına mı uyduğunu sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=35"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/35"
+  }
+ ]
+}

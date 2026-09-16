@@ -1,0 +1,131 @@
+{
+ "sure": 10,
+ "ayet": 51,
+ "durum": "taslak",
+ "meal": "Sonra mı [iman edeceksiniz]? O gerçekleştiğinde mi ona iman edeceksiniz? Şimdi mi? Oysa siz onu acele istiyordunuz.",
+ "mealNotu": "'Âl'âne' (أون) kökü 'şimdi'yi vurgular; azap gerçekleştikten sonraki imanın artık bir anlamı kalmadığını, köşeli parantezle tamamlanan sorularla anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَثُمَّ",
+   "okunus": "esümme",
+   "kok": "—",
+   "kokAnlam": "bağlaç, sonra",
+   "karsilik": "sonra mı"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -diğinde",
+   "karsilik": "-diğinde"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "وَقَعَ",
+   "okunus": "vekaa",
+   "kok": "وقع",
+   "kokAnlam": "gerçekleşme, düşme",
+   "karsilik": "gerçekleştiğinde"
+  },
+  {
+   "kelime": "ءَامَنتُم",
+   "okunus": "âmentüm",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman etme",
+   "karsilik": "iman edeceksiniz"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir)",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "ءَآلْـَٰٔنَ",
+   "okunus": "âl'âne",
+   "kok": "أون",
+   "kokAnlam": "an, şimdiki vakit",
+   "karsilik": "şimdi mi"
+  },
+  {
+   "kelime": "وَقَدْ",
+   "okunus": "ve kad",
+   "kok": "—",
+   "kokAnlam": "kesinlik",
+   "karsilik": "oysa"
+  },
+  {
+   "kelime": "كُنتُم",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma, bulunma",
+   "karsilik": "idiniz"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir)",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "تَسْتَعْجِلُونَ",
+   "okunus": "testa'cilûne",
+   "kok": "عجل",
+   "kokAnlam": "acele etme, çabukluk",
+   "karsilik": "acele istiyordunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayette azabı alaycı bir tavırla acele isteyen suçlulara sorulan sorunun devamı gibidir: azap gerçekleştikten sonra iman etmenin bir anlamı olur mu? Ayet bunu iki soruyla -'sonra mı', 'şimdi mi'- vurgular.",
+  "Klasik tefsir bu ayeti, azap gerçekleştiği anda gösterilen imanın kabul edilmeyeceği ilkesiyle birlikte açıklar; çünkü o an artık gaybe iman değil, gözle görülen bir gerçeğe boyun eğmedir. Ayet, bir sonraki ayette bu kişilere söylenecek sözü hazırlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:91",
+   "meal": "Şimdi mi? Oysa daha önce isyan etmiş ve bozgunculardan olmuştun.",
+   "baglanti": "10:51'deki 'şimdi mi iman edeceksiniz' sorusunun aynı surede somut bir örneğidir; boğulma anında iman eden Firavun'a verilen cevaptır."
+  },
+  {
+   "ref": "6:158",
+   "meal": "...Rabbinin bazı ayetleri geldiği gün, daha önce iman etmemiş ya da imanında bir hayır kazanmamış kimseye artık imanı fayda vermez. De ki: Bekleyin, biz de bekliyoruz.",
+   "baglanti": "10:51'de örtük biçimde anlatılan 'azap anında gösterilen imanın fayda vermeyeceği' ilkesini açıkça ortaya koyar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, azabı gördükten sonra iman etmenin artık kabul görmeyeceğidir; bu, kıyamet ve ölüm anına dair bir uyarıdır ve olağan hayatımızdaki basit ertelemelerle bir tutulmamalıdır.",
+  "Buradan çıkan genel ders, bir şeyi ancak sonucunu gördükten sonra kabul etmenin, gerçek bir teslimiyet olmadığıdır; bugün doğruluğuna inandığın bir şeyi, sonuçlarını görmeden önce, şimdiden kabul edip yaşamaya çalışabilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ertelemeyi bırak",
+   "aciklama": "Bugün 'olursa inanırım' dediğin bir konuda, kanıt beklemeden şimdi bir adım at."
+  },
+  {
+   "baslik": "Zamanında karar ver",
+   "aciklama": "Bugün doğru olduğunu bildiğin bir kararı, son ana bırakmadan şimdi uygula."
+  },
+  {
+   "baslik": "Geç kalmadan düşün",
+   "aciklama": "Bugün bir uyarıyı, sonucu ortaya çıkmadan önce ciddiye alıp değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir kararı, sonucunu görmeyi beklemeden şimdi ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=51"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/51"
+  }
+ ]
+}

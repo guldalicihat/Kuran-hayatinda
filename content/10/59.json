@@ -1,0 +1,194 @@
+{
+ "sure": 10,
+ "ayet": 59,
+ "durum": "taslak",
+ "meal": "De ki: 'Allah'ın size indirdiği rızıktan bir kısmını haram, bir kısmını helal kıldığınızı gördünüz mü [düşündünüz mü]?' De ki: 'Allah mı size izin verdi, yoksa Allah'a karşı iftira mı ediyorsunuz?'",
+ "mealNotu": "'İftira' (فري) kökü asılsız bir şeyi uydurmayı anlatır; ayet, kendi kafalarına göre helal-haram belirlemenin Allah adına yalan söylemek olduğunu sorgulatır.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, konuşma",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "أَرَءَيْتُم",
+   "okunus": "eraeytüm",
+   "kok": "رأي",
+   "kokAnlam": "görme, görüş",
+   "karsilik": "gördünüz mü"
+  },
+  {
+   "kelime": "مَّآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "أَنزَلَ",
+   "okunus": "enzele",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdiği"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah, Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رِّزْقٍ",
+   "okunus": "rizkın",
+   "kok": "رزق",
+   "kokAnlam": "rızık",
+   "karsilik": "rızık"
+  },
+  {
+   "kelime": "فَجَعَلْتُم",
+   "okunus": "fecealtüm",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "kıldığınızı"
+  },
+  {
+   "kelime": "مِّنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "حَرَامًا",
+   "okunus": "harâmen",
+   "kok": "حرم",
+   "kokAnlam": "haram kılma, yasaklama",
+   "karsilik": "haram"
+  },
+  {
+   "kelime": "وَحَلَٰلًا",
+   "okunus": "ve halâlen",
+   "kok": "حلل",
+   "kokAnlam": "helal kılma",
+   "karsilik": "ve helal"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, konuşma",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "ءَآللَّهُ",
+   "okunus": "âlllâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah, Allah",
+   "karsilik": "Allah mı"
+  },
+  {
+   "kelime": "أَذِنَ",
+   "okunus": "ezine",
+   "kok": "أذن",
+   "kokAnlam": "izin verme",
+   "karsilik": "izin verdi"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "bağlaç, yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e karşı",
+   "karsilik": "-e karşı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah, Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "تَفْتَرُونَ",
+   "okunus": "tefterûne",
+   "kok": "فري",
+   "kokAnlam": "uydurma, iftira etme",
+   "karsilik": "iftira mı ediyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, insanların Allah'ın verdiği rızıktan kendi kafalarına göre bir kısmını haram, bir kısmını helal ilan etmesini sorgular. Klasik tefsir bunu, cahiliye döneminde bazı hayvanları veya ürünleri dinî bir gerekçe olmaksızın yasaklayan geleneklere bağlar.",
+  "Ayetin sorusu -Allah mı izin verdi, yoksa iftira mı ediyorsunuz- net bir ayrım yapar: helal ve haram belirlemek Allah'a aittir; bunu delilsiz yapmak O'nun adına yalan söylemektir. Bu ayet, bir sonraki ayette bu tutumun ahiretteki karşılığıyla devam eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "16:116",
+   "meal": "Dillerinizin yalan yere nitelendirmesiyle 'şu helal, şu haram' demeyin; böyle yaparsanız Allah'a karşı yalan uydurmuş olursunuz. Allah'a karşı yalan uyduranlar kurtuluşa eremezler.",
+   "baglanti": "10:59'daki soruyu doğrudan bir yasağa çevirir; delilsiz helal-haram belirlemenin Allah'a iftira olduğunu açıkça bildirir."
+  },
+  {
+   "ref": "6:140",
+   "meal": "Bilgisizce, akılsızca çocuklarını öldürenler ve Allah'ın kendilerine verdiği rızkı, Allah'a iftira ederek haram sayanlar gerçekten ziyana uğramıştır; onlar sapmışlardır ve doğru yolu bulamamışlardır.",
+   "baglanti": "10:59'daki 'rızıktan haram-helal kılma' konusunu, bu tutumun bir sapıklık ve ziyan olduğunu vurgulayarak tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dinî bir dayanağı olmadan rızıktan bir kısmını haram, bir kısmını helal ilan etmenin Allah'a iftira olduğudur; bu, dinî bir hukuk ve ahlak meselesidir.",
+  "Buradan çıkan genel ders, bir şeyi 'dinen yasak' ya da 'dinen caiz' diye ileri sürerken sağlam bir bilgiye dayanmanın önemidir; bugün duyduğun bir dinî hükmü, kaynağını sorgulamadan başkasına aktarmaktan kaçınabilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaynağı sorgula",
+   "aciklama": "Bugün bir dinî hükmü aktarmadan önce onun gerçek dayanağının ne olduğunu araştır."
+  },
+  {
+   "baslik": "Kesin konuşma",
+   "aciklama": "Bugün emin olmadığın bir konuda 'bu kesinlikle haramdır/helaldir' demek yerine bilenlere yönlendir."
+  },
+  {
+   "baslik": "Kendi kuralını dine mal etme",
+   "aciklama": "Bugün kişisel bir tercihini, dini bir hükümmüş gibi başkasına dayatmaktan kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün emin olmadığın bir dinî hükmü, araştırmadan kesin bir dille aktarmaktan kaçın.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=59"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/59"
+  }
+ ]
+}

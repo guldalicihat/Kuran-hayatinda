@@ -1,0 +1,348 @@
+{
+ "sure": 10,
+ "ayet": 61,
+ "durum": "taslak",
+ "meal": "Hangi işte olursan ol, ondan Kur'an'dan ne okursan oku, hangi işi yaparsanız yapın, siz ona daldığınızda mutlaka biz üzerinizde şahitleriz. Yerde ve gökte zerre ağırlığınca hiçbir şey Rabbinden gizli kalmaz; ondan daha küçüğü de daha büyüğü de yoktur ki apaçık bir kitapta olmasın.",
+ "mealNotu": "'Zerre' (ذرر) kökü çok küçük bir parçayı anlatır; ayet, Allah'ın bilgisinin kapsamının hiçbir sınırı olmadığını vurgular.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "olmazsın"
+  },
+  {
+   "kelime": "تَكُونُ",
+   "okunus": "tekûnü",
+   "kok": "كون",
+   "kokAnlam": "olma, bulunma",
+   "karsilik": "içinde bulunursun"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "شَأْنٍ",
+   "okunus": "şe'nin",
+   "kok": "شأن",
+   "kokAnlam": "iş, durum",
+   "karsilik": "hangi işte"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "تَتْلُوا۟",
+   "okunus": "tetlû",
+   "kok": "تلو",
+   "kokAnlam": "okuma, takip etme",
+   "karsilik": "okursun"
+  },
+  {
+   "kelime": "مِنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قُرْءَانٍ",
+   "okunus": "kur'ânin",
+   "kok": "قرأ",
+   "kokAnlam": "okuma",
+   "karsilik": "Kur'an'dan"
+  },
+  {
+   "kelime": "وَلَآ",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "iş yapma",
+   "karsilik": "yaparsınız"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "عَمَلٍ",
+   "okunus": "amelin",
+   "kok": "عمل",
+   "kokAnlam": "iş yapma",
+   "karsilik": "bir iş"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna",
+   "karsilik": "-meksizin"
+  },
+  {
+   "kelime": "كُنَّا",
+   "okunus": "künnâ",
+   "kok": "كون",
+   "kokAnlam": "olma, bulunma",
+   "karsilik": "biz oluruz"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinizde",
+   "karsilik": "üzerinizde"
+  },
+  {
+   "kelime": "شُهُودًا",
+   "okunus": "şühûden",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik etme",
+   "karsilik": "şahitler"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) -diğinde",
+   "karsilik": "-diğinizde"
+  },
+  {
+   "kelime": "تُفِيضُونَ",
+   "okunus": "tüfîdûne",
+   "kok": "فيض",
+   "kokAnlam": "taşma, dalma",
+   "karsilik": "daldığınızda"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat) onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "يَعْزُبُ",
+   "okunus": "ya'zübü",
+   "kok": "عزب",
+   "kokAnlam": "gizli kalma, uzak olma",
+   "karsilik": "gizli kalan"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّكَ",
+   "okunus": "rabbike",
+   "kok": "ربب",
+   "kokAnlam": "rablik, terbiye etme",
+   "karsilik": "Rabbinden"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) kadar",
+   "karsilik": "kadar"
+  },
+  {
+   "kelime": "مِّثْقَالِ",
+   "okunus": "miskâli",
+   "kok": "ثقل",
+   "kokAnlam": "ağırlık",
+   "karsilik": "ağırlığınca"
+  },
+  {
+   "kelime": "ذَرَّةٍ",
+   "okunus": "zerratin",
+   "kok": "ذرر",
+   "kokAnlam": "zerre, ufacık parça",
+   "karsilik": "bir zerre"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yeryüzü",
+   "karsilik": "yerde"
+  },
+  {
+   "kelime": "وَلَآ",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "yücelik, gök",
+   "karsilik": "gökte"
+  },
+  {
+   "kelime": "وَلَآ",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "أَصْغَرَ",
+   "okunus": "asğara",
+   "kok": "صغر",
+   "kokAnlam": "küçüklük",
+   "karsilik": "daha küçüğü"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "وَلَآ",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "أَكْبَرَ",
+   "okunus": "ekbera",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük",
+   "karsilik": "daha büyüğü"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna",
+   "karsilik": "olmasın diye"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "كِتَٰبٍ",
+   "okunus": "kitâbin",
+   "kok": "كتب",
+   "kokAnlam": "yazma",
+   "karsilik": "bir kitapta"
+  },
+  {
+   "kelime": "مُّبِينٍ",
+   "okunus": "mübînin",
+   "kok": "بين",
+   "kokAnlam": "açıklık, apaçıklık",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, doğrudan peygambere -ve onun şahsında her mümine- seslenerek, hangi işte olunursa olunsun, Kur'an'dan ne okunursa okunsun, hangi iş yapılırsa yapılsın, Allah'ın o anda mutlaka şahit olduğunu bildirir. Bu, önceki ayetlerdeki 'Allah'a karşı iftira etme' uyarısının arkasındaki gerçek zemini gösterir.",
+  "Ayetin ikinci yarısı bunu evrensel bir ilkeye bağlar: yerde ve gökte zerre ağırlığınca hiçbir şey Allah'tan gizli kalmaz, en küçüğü de en büyüğü de apaçık bir kitapta kayıtlıdır. Klasik tefsir bu 'kitabı', Allah'ın ilmini ve takdirini simgeleyen Levh-i Mahfuz olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "31:16",
+   "meal": "'Yavrucuğum, yaptığın iş bir hardal tanesi ağırlığında olsa da bir kayanın içinde veya göklerde ya da yerin içinde bulunsa, Allah onu ortaya çıkarır; şüphesiz Allah çok ince kavrayışlıdır, her şeyden haberdardır.'",
+   "baglanti": "10:61'deki 'zerre ağırlığınca bir şey gizli kalmaz' ifadesiyle aynı gerçeği, bir hardal tanesi benzetmesiyle pekiştirir."
+  },
+  {
+   "ref": "4:1",
+   "meal": "Ey insanlar! ...Şüphesiz Allah üzerinizde tam bir gözetleyicidir.",
+   "baglanti": "10:61'deki 'biz üzerinizde şahitleriz' ifadesindeki sürekli gözetim fikrini, 'Allah üzerinizde gözetleyicidir' ifadesiyle destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insanın her halinin -okuduğu, yaptığı her şeyin- Allah'ın bilgisi ve gözetimi altında olduğudur; bu, Allah'ın ilim sıfatına dair genel bir ilkedir.",
+  "Buradan çıkan ders, kimsenin görmediği anlarda bile bir gözetimin var olduğu bilincidir; bugün 'kimse görmüyor' diye rahatladığın bir davranışını, bu bilinçle bir daha gözden geçirebilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gizliyi hatırla",
+   "aciklama": "Bugün kimsenin görmediğini düşündüğün bir anda, Allah'ın seni gördüğünü hatırla."
+  },
+  {
+   "baslik": "Küçüğü önemse",
+   "aciklama": "Bugün 'küçük, önemsiz' diye geçiştirdiğin bir davranışını, onun da kayıt altında olduğunu düşünerek gözden geçir."
+  },
+  {
+   "baslik": "Niyetini gözden geçir",
+   "aciklama": "Bugün yaptığın bir işin niyetini, sadece sonucuna değil Allah'ın bileceğine göre ayarla."
+  }
+ ],
+ "bugununAdimi": "Bugün kimsenin görmediğini düşündüğün bir anda, Allah'ın seni gördüğünü hatırlayarak davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=61"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/61"
+  }
+ ]
+}

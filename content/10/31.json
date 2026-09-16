@@ -1,0 +1,243 @@
+{
+ "sure": 10,
+ "ayet": 31,
+ "durum": "taslak",
+ "meal": "De ki: Sizi gökten ve yerden kim rızıklandırıyor? Ya da kulağa ve gözlere kim sahip (malik)? Diriyi ölüden kim çıkarıyor, ölüyü de diriden kim çıkarıyor? İşi kim tedbir ediyor (çekip çeviriyor)? 'Allah' diyecekler. Öyleyse de ki: Peki sakınmaz mısınız?",
+ "mealNotu": "'Yüdebbiru' (دبر) kökü, işleri düzenleyip yönetmeyi anlatır; 'tedbir eder, çekip çevirir' olarak verildi. Soru dizisi, muhatabın kendi ağzından Allah'ı tanımasını sağlayan klasik bir tevhid delilidir.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(soru/ilgi) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "يَرْزُقُكُم",
+   "okunus": "yerzükuküm",
+   "kok": "رزق",
+   "kokAnlam": "rızık verme",
+   "karsilik": "sizi rızıklandırıyor"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "gök, yücelik",
+   "karsilik": "gökten"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yerden"
+  },
+  {
+   "kelime": "أَمَّن",
+   "okunus": "emmen",
+   "kok": "—",
+   "kokAnlam": "yoksa kim",
+   "karsilik": "yoksa kim"
+  },
+  {
+   "kelime": "يَمْلِكُ",
+   "okunus": "yemlikü",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, mülk edinme",
+   "karsilik": "sahip (malik) oluyor"
+  },
+  {
+   "kelime": "ٱلسَّمْعَ",
+   "okunus": "essem'a",
+   "kok": "سمع",
+   "kokAnlam": "işitme",
+   "karsilik": "kulağa"
+  },
+  {
+   "kelime": "وَٱلْأَبْصَٰرَ",
+   "okunus": "vel ebsâra",
+   "kok": "بصر",
+   "kokAnlam": "görme",
+   "karsilik": "ve gözlere"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "يُخْرِجُ",
+   "okunus": "yühricü",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma",
+   "karsilik": "çıkarıyor"
+  },
+  {
+   "kelime": "ٱلْحَىِّ",
+   "okunus": "elhayye",
+   "kok": "حيي",
+   "kokAnlam": "diri, hayat",
+   "karsilik": "diriyi"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمَيِّتَ",
+   "okunus": "elmeyyiti",
+   "kok": "موت",
+   "kokAnlam": "ölü, ölüm",
+   "karsilik": "ölüden"
+  },
+  {
+   "kelime": "وَيُخْرِجُ",
+   "okunus": "ve yühricü",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma",
+   "karsilik": "ve çıkarıyor"
+  },
+  {
+   "kelime": "ٱلْمَيِّتَ",
+   "okunus": "elmeyyite",
+   "kok": "موت",
+   "kokAnlam": "ölü, ölüm",
+   "karsilik": "ölüyü"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْحَىِّ",
+   "okunus": "elhayyi",
+   "kok": "حيي",
+   "kokAnlam": "diri, hayat",
+   "karsilik": "diriden"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "يُدَبِّرُ",
+   "okunus": "yüdebbiru",
+   "kok": "دبر",
+   "kokAnlam": "çekip çevirme, tedbir etme",
+   "karsilik": "tedbir ediyor"
+  },
+  {
+   "kelime": "ٱلْأَمْرَ",
+   "okunus": "el'emra",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir",
+   "karsilik": "işi"
+  },
+  {
+   "kelime": "فَسَيَقُولُونَ",
+   "okunus": "feseyekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "diyecekler"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah, Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "فَقُلْ",
+   "okunus": "fekul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "öyleyse de ki"
+  },
+  {
+   "kelime": "أَفَلَا",
+   "okunus": "efelâ",
+   "kok": "—",
+   "kokAnlam": "(soru+olumsuz) -mez mi",
+   "karsilik": "peki -mez misiniz"
+  },
+  {
+   "kelime": "تَتَّقُونَ",
+   "okunus": "tettekûne",
+   "kok": "وقي",
+   "kokAnlam": "sakınma, korunma",
+   "karsilik": "sakınıyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetlerde herkesin Allah'a döndürüleceği anlatılmıştı; bu ayet, o dönüşün doğal bir gerekçesi olarak sorular sorar: rızkı, işitme-görme yetisini, hayat ile ölüm arasındaki geçişi ve evrenin işleyişini kim düzenliyor? Cevap tektir: Allah.",
+  "Ayetin özelliği, muhatapların (müşriklerin) bile bu soruların cevabını 'Allah' diye vermek zorunda kalmasıdır; yani rablik konusunda zaten bir kabul vardır, sorun bunu ibadette de tek Allah'a yöneltmemektir. Sonundaki 'sakınmaz mısınız' sorusu, bilgiyi davranışa çevirme çağrısıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "35:3",
+   "meal": "Ey insanlar! Allah'ın üzerinizdeki nimetini hatırlayın. Allah'tan başka sizi gökten ve yerden rızıklandıran bir yaratıcı var mı? O'ndan başka ilah yoktur; öyleyse nasıl çevriliyorsunuz?",
+   "baglanti": "10:31'deki 'gökten ve yerden rızıklandıran kim' sorusunu neredeyse aynı ifadeyle tekrarlayıp nimeti hatırlama çağrısı ekler."
+  },
+  {
+   "ref": "30:19",
+   "meal": "Diriyi ölüden çıkarır, ölüyü de diriden çıkarır; yeryüzünü ölümünden sonra diriltir. İşte siz de böyle çıkarılacaksınız.",
+   "baglanti": "10:31'deki 'diriyi ölüden, ölüyü diriden çıkaran kim' sorusunun cevabını, aynı fiillerle Allah'a bağlayarak doğrular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, rızık, duyular ve hayat-ölüm döngüsü üzerinden Allah'ın tekliğini akla dayalı sorularla ortaya koymaktır; bu evrensel bir tevhid dersidir.",
+  "Buradan çıkan ders, günlük hayatta kolayca unutulan bir gerçeği hatırlamaktır: yediğin rızık, duyduğun ses, gördüğün görüntü, hepsi bir Yaratıcı'nın sürekli lütfudur; bugün bu nimetlerden birini bilinçli olarak fark edip şükretmek mümkündür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir nimeti fark et",
+   "aciklama": "Bugün işitme veya görme duyunu kullanırken, bunun kim tarafından verildiğini bir an düşün."
+  },
+  {
+   "baslik": "Rızkını düşün",
+   "aciklama": "Bugün yediğin bir öğünün nereden geldiğini takip et; kaynağında Allah'ın rızık vermesi olduğunu hatırla."
+  },
+  {
+   "baslik": "Bilgiyi eyleme çevir",
+   "aciklama": "Allah'ı Rab bildiğini söylediğin bir alanda, bugün O'nun buyruğuna uygun küçük bir adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün bir duyunu (görme veya işitme) kullanırken, bunun Allah'ın nimeti olduğunu hatırlayarak şükret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=31"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/31"
+  }
+ ]
+}

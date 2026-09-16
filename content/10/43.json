@@ -1,0 +1,131 @@
+{
+ "sure": 10,
+ "ayet": 43,
+ "durum": "taslak",
+ "meal": "Onlardan sana bakanlar da var; fakat üstelik görmüyorlarsa, körlere sen mi yol göstereceksin?",
+ "mealNotu": "'Yübsırûne' (بصر) kökü görme, kavrayış anlamındadır; ayet 42'nin sağırlık benzetmesini görme üzerinden tekrarlayarak aynı mesajı pekiştirir: dış duyu, iç kavrayışın yerini tutmaz.",
+ "kokler": [
+  {
+   "kelime": "وَمِنْهُم",
+   "okunus": "ve minhüm",
+   "kok": "—",
+   "kokAnlam": "onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "kimi",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "يَنظُرُ",
+   "okunus": "yenzuru",
+   "kok": "نظر",
+   "kokAnlam": "bakma",
+   "karsilik": "sana bakıyor"
+  },
+  {
+   "kelime": "إِلَيْكَ",
+   "okunus": "ileyke",
+   "kok": "—",
+   "kokAnlam": "sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "أَفَأَنتَ",
+   "okunus": "efeente",
+   "kok": "—",
+   "kokAnlam": "peki sen mi",
+   "karsilik": "peki sen mi"
+  },
+  {
+   "kelime": "تَهْدِى",
+   "okunus": "tehdî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme",
+   "karsilik": "yol göstereceksin"
+  },
+  {
+   "kelime": "ٱلْعُمْىَ",
+   "okunus": "el'umye",
+   "kok": "عمي",
+   "kokAnlam": "körlük",
+   "karsilik": "körlere"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "-se bile",
+   "karsilik": "üstelik olsa bile"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olsalar"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "-mez",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يُبْصِرُونَ",
+   "okunus": "yübsırûne",
+   "kok": "بصر",
+   "kokAnlam": "görme",
+   "karsilik": "görmezlerse"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet dinleyip anlamayanları sağırlığa benzetmişti; bu ayet aynı mesajı görme üzerinden tekrarlar: bakmak, gerçek anlamda görmek anlamına gelmez.",
+  "Ayet çifti (42-43), Peygamber'in görevinin insanları zorla iman ettirmek olmadığını, kalp kapalıysa dış duyuların (kulak, göz) tek başına yetmeyeceğini gösterir. Klasik tefsir bu ikiliyi, hakikate açık olmayan kalbin görüp de görmezden gelmesi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "30:53",
+   "meal": "Sen körleri sapkınlıklarından çıkarıp yola getiremezsin; sen ancak ayetlerimize iman edenlere işittirebilirsin, işte onlar teslim olanlardır.",
+   "baglanti": "10:43'teki 'körlere yol gösteremezsin' fikrini, ancak iman edenlerin gerçek anlamda kabul edebileceği ilkesiyle tamamlar."
+  },
+  {
+   "ref": "22:46",
+   "meal": "Yeryüzünde gezip dolaşmadılar mı ki, akledecek kalpleri, işitecek kulakları olsun? Gerçek şu ki, gözler kör olmaz, fakat göğüslerdeki kalpler kör olur.",
+   "baglanti": "10:43'teki körlük imgesini, asıl körlüğün gözde değil kalpte olduğunu açıklayarak derinleştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'e bakıp da mesajını kalben kabul etmeyenlerin durumunu görme üzerinden anlatmaktır; bu da tebliğin sınırını gösteren bir örnektir.",
+  "Buradan çıkan ders, gördüğün bir gerçeği görmezden gelme eğilimini fark etmektir; bugün, bildiğin ama görmezden geldiğin bir doğruyu -kalbinle de kabul ederek- hayatına taşımayı deneyebilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Görmezden gelmeyi bırak",
+   "aciklama": "Bugün bildiğin ama uygulamadığın bir doğruyu fark edip küçük bir adımla hayata geçir."
+  },
+  {
+   "baslik": "İbretle bak",
+   "aciklama": "Bugün etrafında gördüğün bir olaydan ders çıkarmaya çalış, sadece izleyici kalma."
+  },
+  {
+   "baslik": "Kalp gözünü aç",
+   "aciklama": "Bugün bir doğayı ya da olayı izlerken, arkasındaki anlamı düşünerek bak."
+  }
+ ],
+ "bugununAdimi": "Bugün bildiğin ama görmezden geldiğin bir doğruyu küçük bir adımla hayatına taşı.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=43"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/43"
+  }
+ ]
+}
