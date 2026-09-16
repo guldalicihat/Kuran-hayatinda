@@ -1,0 +1,572 @@
+{
+ "sure": 2,
+ "ayet": 102,
+ "durum": "taslak",
+ "meal": "Süleyman'ın mülkü hakkında şeytanların anlattığına tabi oldular. Oysa Süleyman inkâr etmedi; fakat o şeytanlar inkâr ettiler, insanlara sihri öğretiyorlardı. Babil'de Harut ve Marut adlı iki meleğe indirileni de öğretiyorlardı; oysa o ikisi, 'Biz ancak bir imtihanız, sakın inkâr etme' demedikçe hiç kimseye öğretmezlerdi. İnsanlar o ikisinden, kişi ile eşinin arasını ayıracakları şeyi öğreniyorlardı; oysa onlar, Allah'ın izni olmadıkça bununla hiç kimseye zarar verebilecek değillerdi. Kendilerine zarar veren, fayda vermeyen şeyi öğreniyorlardı. Andolsun, onu satın alanın ahirette bir payı olmadığını biliyorlardı. Nefislerini karşılığında sattıkları şey ne kötüdür; keşke bilselerdi!",
+ "mealNotu": "'Fitne' kökü (فتن) sınama, imtihan anlamındadır; Harut ve Marut'un 'biz bir imtihanız' sözü buradan gelir. 'Halâk' (خلق) burada 'pay, nasip' anlamındadır. Ayet, tarihî ayrıntılara (Harut, Marut, Babil) girmeden sihri kötüye kullanmanın bedelini anlatır; bu ayrıntılar hakkında klasik tefsir farklı görüşler aktarır.",
+ "kokler": [
+  {
+   "kelime": "وَٱتَّبَعُوا۟",
+   "okunus": "vettebeû",
+   "kok": "تبع",
+   "kokAnlam": "izleme, tabi olma",
+   "karsilik": "tabi oldular"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeye ki",
+   "karsilik": "şeye"
+  },
+  {
+   "kelime": "تَتْلُوا۟",
+   "okunus": "tetlû",
+   "kok": "تلو",
+   "kokAnlam": "okuma, ardınca anlatma",
+   "karsilik": "anlattığına"
+  },
+  {
+   "kelime": "ٱلشَّيَٰطِينَ",
+   "okunus": "eşşeyâtînü",
+   "kok": "شطن",
+   "kokAnlam": "uzaklaşma; şeytan",
+   "karsilik": "şeytanların"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine, hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "مُلْكِ",
+   "okunus": "mülki",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, mülk, hükümranlık",
+   "karsilik": "mülkü"
+  },
+  {
+   "kelime": "سُلَيْمَٰنُ",
+   "okunus": "süleymâne",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Süleyman",
+   "karsilik": "Süleyman'ın"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "oysa ...-medi"
+  },
+  {
+   "kelime": "كَفَرَ",
+   "okunus": "kefera",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr etti"
+  },
+  {
+   "kelime": "سُلَيْمَٰنُ",
+   "okunus": "süleymânü",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Süleyman",
+   "karsilik": "Süleyman"
+  },
+  {
+   "kelime": "وَلَٰكِنَّ",
+   "okunus": "ve lâkinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "ٱلشَّيَٰطِينَ",
+   "okunus": "eşşeyâtîne",
+   "kok": "شطن",
+   "kokAnlam": "uzaklaşma; şeytan",
+   "karsilik": "şeytanlar"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr ettiler"
+  },
+  {
+   "kelime": "يَعْلَمُونَ",
+   "okunus": "yüallimûne",
+   "kok": "علم",
+   "kokAnlam": "bilme, öğretme",
+   "karsilik": "öğretiyorlardı"
+  },
+  {
+   "kelime": "ٱلنَّاسَ",
+   "okunus": "ennâse",
+   "kok": "أنس",
+   "kokAnlam": "insan, topluluk",
+   "karsilik": "insanlara"
+  },
+  {
+   "kelime": "ٱلسِّحْرَ",
+   "okunus": "essihra",
+   "kok": "سحر",
+   "kokAnlam": "büyüleme, sihir",
+   "karsilik": "sihri"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi ki",
+   "karsilik": "ve şeyi"
+  },
+  {
+   "kelime": "أُنزِلَ",
+   "okunus": "ünzile",
+   "kok": "نزل",
+   "kokAnlam": "inme, indirme",
+   "karsilik": "indirilen"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْمَلَكَيْنِ",
+   "okunus": "elmelekeyni",
+   "kok": "ملك",
+   "kokAnlam": "güç sahibi olma; melek",
+   "karsilik": "iki meleğe"
+  },
+  {
+   "kelime": "بِبَابِلَ",
+   "okunus": "bibâbile",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Babil",
+   "karsilik": "Babil'de"
+  },
+  {
+   "kelime": "هَٰرُوتَ",
+   "okunus": "hârûte",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Harut",
+   "karsilik": "Harut"
+  },
+  {
+   "kelime": "وَمَٰرُوتَ",
+   "okunus": "ve mârûte",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Marut",
+   "karsilik": "ve Marut'a"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "oysa"
+  },
+  {
+   "kelime": "يُعَلِّمَانِ",
+   "okunus": "yüallimâni",
+   "kok": "علم",
+   "kokAnlam": "bilme, öğretme",
+   "karsilik": "ikisi öğretmezdi"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَحَدٍ",
+   "okunus": "ehadin",
+   "kok": "أحد",
+   "kokAnlam": "birlik, bir kimse",
+   "karsilik": "hiç kimseye"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ta ki",
+   "karsilik": "ta ki"
+  },
+  {
+   "kelime": "يَقُولَآ",
+   "okunus": "yekûlâ",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "deyinceye kadar"
+  },
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak, sadece",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "نَحْنُ",
+   "okunus": "nahnü",
+   "kok": "—",
+   "kokAnlam": "(zamir) biz",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "فِتْنَةٌ",
+   "okunus": "fitnetün",
+   "kok": "فتن",
+   "kokAnlam": "sınama, imtihan",
+   "karsilik": "bir imtihanız"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) sakın",
+   "karsilik": "sakın"
+  },
+  {
+   "kelime": "تَكْفُرْ",
+   "okunus": "tekfür",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr etme"
+  },
+  {
+   "kelime": "فَيَتَعَلَّمُونَ",
+   "okunus": "feyeteallemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme, öğrenme",
+   "karsilik": "öğreniyorlardı"
+  },
+  {
+   "kelime": "مِنْهُمَا",
+   "okunus": "minhümâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) o ikisinden",
+   "karsilik": "o ikisinden"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi ki",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "يُفَرِّقُونَ",
+   "okunus": "yüferrikûne",
+   "kok": "فرق",
+   "kokAnlam": "ayırma, ayrılma",
+   "karsilik": "ayıracakları"
+  },
+  {
+   "kelime": "بِهِۦٓ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "بَيْنَ",
+   "okunus": "beyne",
+   "kok": "بين",
+   "kokAnlam": "ayrılma, ara",
+   "karsilik": "arasını"
+  },
+  {
+   "kelime": "ٱلْمَرْءِ",
+   "okunus": "elmer'i",
+   "kok": "مرأ",
+   "kokAnlam": "kişi, insan",
+   "karsilik": "kişi ile"
+  },
+  {
+   "kelime": "وَزَوْجِهِۦ",
+   "okunus": "ve zevcihî",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift",
+   "karsilik": "eşinin"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "oysa değillerdi"
+  },
+  {
+   "kelime": "هُم",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "بِضَآرِّينَ",
+   "okunus": "bidârrîne",
+   "kok": "ضرر",
+   "kokAnlam": "zarar verme",
+   "karsilik": "zarar verenlerden"
+  },
+  {
+   "kelime": "بِهِۦٓ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَحَدٍ",
+   "okunus": "ehadin",
+   "kok": "أحد",
+   "kokAnlam": "birlik, bir kimse",
+   "karsilik": "hiç kimseye"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "بِإِذْنِ",
+   "okunus": "biizni",
+   "kok": "أذن",
+   "kokAnlam": "izin verme",
+   "karsilik": "izniyle"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَيَتَعَلَّمُونَ",
+   "okunus": "ve yeteallemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme, öğrenme",
+   "karsilik": "ve öğreniyorlardı"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi ki",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "يَضُرُّهُمْ",
+   "okunus": "yedurruhüm",
+   "kok": "ضرر",
+   "kokAnlam": "zarar verme",
+   "karsilik": "kendilerine zarar veren"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve ...-meyen"
+  },
+  {
+   "kelime": "يَنفَعُهُمْ",
+   "okunus": "yenfeuhüm",
+   "kok": "نفع",
+   "kokAnlam": "fayda verme",
+   "karsilik": "fayda veren"
+  },
+  {
+   "kelime": "وَلَقَدْ",
+   "okunus": "ve lekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) andolsun",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "عَلِمُوا۟",
+   "okunus": "alimû",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "biliyorlardı"
+  },
+  {
+   "kelime": "لَمَنِ",
+   "okunus": "lemeni",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim ki",
+   "karsilik": "kim ki"
+  },
+  {
+   "kelime": "ٱشْتَرَىٰهُ",
+   "okunus": "işterâhü",
+   "kok": "شري",
+   "kokAnlam": "satın alma, değiş tokuş",
+   "karsilik": "onu satın alırsa"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yoktur",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) onun için",
+   "karsilik": "onun için"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْءَاخِرَةِ",
+   "okunus": "el'âhırati",
+   "kok": "أخر",
+   "kokAnlam": "sonraya kalma; ahiret",
+   "karsilik": "ahirette"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "خَلَٰقٍ",
+   "okunus": "halâkın",
+   "kok": "خلق",
+   "kokAnlam": "yaratma; pay, nasip",
+   "karsilik": "bir pay"
+  },
+  {
+   "kelime": "وَلَبِئْسَ",
+   "okunus": "ve lebi'se",
+   "kok": "بأس",
+   "kokAnlam": "kötü olma, sıkıntı",
+   "karsilik": "ve ne kötüdür"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) o şey",
+   "karsilik": "o şey"
+  },
+  {
+   "kelime": "شَرَوْا۟",
+   "okunus": "şerav",
+   "kok": "شري",
+   "kokAnlam": "satma",
+   "karsilik": "sattıkları"
+  },
+  {
+   "kelime": "بِهِۦٓ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onunla",
+   "karsilik": "karşılığında"
+  },
+  {
+   "kelime": "أَنفُسَهُمْ",
+   "okunus": "enfüsehüm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "nefislerini"
+  },
+  {
+   "kelime": "لَوْ",
+   "okunus": "lev",
+   "kok": "—",
+   "kokAnlam": "(şart) keşke",
+   "karsilik": "keşke"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olsalardı"
+  },
+  {
+   "kelime": "يَعْلَمُونَ",
+   "okunus": "ya'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme, ilim",
+   "karsilik": "biliyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir kesimin Süleyman döneminde şeytanların anlattıklarına tabi olduğunu, oysa Süleyman'ın inkâr etmediğini, inkâr edenin şeytanlar olduğunu belirtir. Bu şeytanlar insanlara sihir öğretiyor, ayrıca Babil'de Harut ve Marut adlı iki meleğe indirilen bilgiyi de konu ediyordu. Klasik tefsir, Harut ve Marut'un kimliği ve olayın ayrıntıları konusunda farklı görüşler aktarır; ayetin kendisi bu ayrıntılara girmez.",
+  "Ayet, bu iki meleğin sihri değil, bir imtihan olduklarını söyleyerek insanları uyardığını, kimseye 'sakın inkâr etme' demeden öğretmediklerini belirtir. Öğrenilen şey Allah'ın izni olmadan kimseye zarar veremez; yine de öğrenenler kendilerine fayda değil zarar veren bir şeyle uğraşmış, bunun ahirette bir karşılığı olmadığını bile bile bunu tercih etmişlerdir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:90",
+   "meal": "Allah'ın indirdiğini... inkâr etmek karşılığında nefislerini sattıkları şey ne kötüdür!",
+   "baglanti": "102. ayetin sonundaki 'nefislerini sattıkları şey ne kötüdür' ifadesi, neredeyse aynı cümleyle 90. ayette de geçer; her iki ayet de bilerek yapılan kötü bir tercihi anlatır."
+  },
+  {
+   "ref": "20:69",
+   "meal": "Sağ elindekini at, onların yaptıklarını yutsun; çünkü onların yaptığı sadece bir büyücü hilesidir. Büyücü ise nereye varsa iflah olmaz.",
+   "baglanti": "Sihirle uğraşmanın sonuçsuz ve zararlı olduğu teması, Tâ-Hâ 69'da Musa'nın büyücülere karşı mucizesi bağlamında da vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, sihir öğrenmenin ve ondan kötü amaçla yararlanmanın ahirette karşılıksız, dünyada da zararlı bir tercih olduğudur; bu, tarihsel ve dinî açıdan özel bir konudur.",
+  "Günlük hayata taşınabilecek ders, fayda vermeyen, hatta zarar veren bir şeye zaman ve emek harcamanın boşluğudur. İnsanı başkasına zarar verecek bir 'kestirme yol' arayışına iten şey çoğu zaman kıskançlık veya hırstır; bundan kaçınmak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zararlı kestirmelerden kaçın",
+   "aciklama": "Bugün başkasına zarar vererek elde edeceğin bir avantajı reddet."
+  },
+  {
+   "baslik": "Zaman ve emeğini değerlendir",
+   "aciklama": "Sana fayda getirmeyen bir uğraşı bugün gözden geçir ve zamanını daha yararlı bir işe ayır."
+  },
+  {
+   "baslik": "Niyetini sorgula",
+   "aciklama": "Bir işe başlarken niyetinin kime fayda, kime zarar vereceğini düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün başkasına zarar vermek pahasına elde edeceğin küçük bir kazançtan vazgeç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=102"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/102"
+  }
+ ]
+}

@@ -1,0 +1,180 @@
+{
+ "sure": 2,
+ "ayet": 123,
+ "durum": "taslak",
+ "meal": "Öyle bir günden sakının ki, o gün hiç kimse başkası için bir şey ödeyemez, kimseden bir fidye kabul edilmez, hiçbir şefaat ona fayda vermez ve onlara yardım edilmez.",
+ "mealNotu": "'Adl' kökü (عدل) burada 'fidye, denk bedel' anlamında kullanılır. Ayet, o gün kişisel sorumluluğun hiçbir aracı, bedel veya şefaatle devredilemeyeceğini vurgular.",
+ "kokler": [
+  {
+   "kelime": "وَٱتَّقُوا۟",
+   "okunus": "vettekû",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "sakının"
+  },
+  {
+   "kelime": "يَوْمًا",
+   "okunus": "yevmen",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "öyle bir günden"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "تَجْزِى",
+   "okunus": "teczî",
+   "kok": "جزي",
+   "kokAnlam": "karşılığını verme, ödeme",
+   "karsilik": "ödeyemez"
+  },
+  {
+   "kelime": "نَّفْسٍ",
+   "okunus": "nefsün",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "hiç kimse"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "نَّفْسٍ",
+   "okunus": "nefsin",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "başkası için"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "bir şey",
+   "karsilik": "bir şey"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...-mez",
+   "karsilik": "ve ...-mez"
+  },
+  {
+   "kelime": "يُقْبَلُ",
+   "okunus": "yükbelü",
+   "kok": "قبل",
+   "kokAnlam": "kabul etme, önce alma",
+   "karsilik": "kabul edilir"
+  },
+  {
+   "kelime": "مِنْهَا",
+   "okunus": "minhâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "عَدْلٌ",
+   "okunus": "adlün",
+   "kok": "عدل",
+   "kokAnlam": "denklik, fidye, adalet",
+   "karsilik": "bir fidye"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...-mez",
+   "karsilik": "ve ...-mez"
+  },
+  {
+   "kelime": "تَنفَعُهَا",
+   "okunus": "tenfeuhâ",
+   "kok": "نفع",
+   "kokAnlam": "fayda verme",
+   "karsilik": "ona fayda verir"
+  },
+  {
+   "kelime": "شَفَٰعَةٌ",
+   "okunus": "şefâatün",
+   "kok": "شفع",
+   "kokAnlam": "araya girme, şefaat",
+   "karsilik": "hiçbir şefaat"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...-mez",
+   "karsilik": "ve ...-mez"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "يُنصَرُونَ",
+   "okunus": "yünsarûne",
+   "kok": "نصر",
+   "kokAnlam": "yardım etme, zafer",
+   "karsilik": "yardım edilir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerdeki nimet hatırlatmasının ardından, hesap gününün ağırlığını vurgular. O gün hiçbir aracı -bedel, fidye, şefaat- kişisel sorumluluğun yerini alamaz; herkes kendi seçimleriyle baş başa kalır.",
+  "Bu vurgu, 122. ayette anlatılan üstün konumun bir ayrıcalık değil bir sınav olduğunu pekiştirir. Klasik tefsir, bu ayeti, 'soyumuz veya kimliğimiz bizi kurtarır' düşüncesine karşı güçlü bir uyarı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:48",
+   "meal": "Öyle bir günden sakının ki, o gün hiç kimse başkası için bir şey ödeyemez; ondan ne bir şefaat kabul edilir, ne bir fidye alınır, ne de onlara yardım edilir.",
+   "baglanti": "123. ayet, Bakara 48'de geçen aynı uyarının, sure içinde farklı bir bağlamda güçlü bir tekrarıdır."
+  },
+  {
+   "ref": "82:19",
+   "meal": "O gün hiç kimse başkası için hiçbir şeye güç yetiremez; o gün buyruk yalnız Allah'ındır.",
+   "baglanti": "Kişisel sorumluluğun devredilemezliği, İnfitâr 19'da da aynı vurguyla, o günün mutlak otoritesinin Allah'a ait olduğu hatırlatılarak tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ahiret gününde hiçbir aracının, bedelin veya şefaatin kişisel sorumluluğun yerini alamayacağıdır; bu, hesap gününe özgü bir uyarıdır.",
+  "Günlük hayata taşınabilecek ders, sorumluluğu başkasına devretme veya erteleme alışkanlığının bir sınırı olduğudur. Bir gün geleceğinde kendi seçimlerimizin sonucuyla baş başa kalacağımızı bilmek, bugünkü kararlarımızı daha bilinçli almamızı sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sorumluluğunu sahiplen",
+   "aciklama": "Bugün başkasına devretmeye çalıştığın bir sorumluluğu kendin üstlen."
+  },
+  {
+   "baslik": "Erteleme yerine bugün yap",
+   "aciklama": "'Sonra hallederim' dediğin bir işi, bugün elinden geldiğince ilerlet."
+  },
+  {
+   "baslik": "Hesap bilinciyle karar ver",
+   "aciklama": "Önemli bir kararında, bunun sonucundan kendinin sorumlu olacağını hatırlayarak düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün başkasına devretmeye çalıştığın bir sorumluluğu, kendin üstlenip tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=123"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/123"
+  }
+ ]
+}

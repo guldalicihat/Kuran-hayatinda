@@ -1,0 +1,103 @@
+{
+ "sure": 2,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "İyi bilin ki onlar bozgunculardır, fakat farkında değillerdir.",
+ "mealNotu": "Ayet, bir önceki ayette kendilerini 'düzeltici' olarak tanıtan grubun gerçek niteliğini doğrudan açıklar. 'Şu'ûr' kökü farkındalığı anlatır; bu kez de kendi hâllerinin bilincinde olmadıkları belirtilir.",
+ "kokler": [
+  {
+   "kelime": "أَلَآ",
+   "okunus": "elâ",
+   "kok": "—",
+   "kokAnlam": "(edat) iyi bilin ki",
+   "karsilik": "iyi bilin ki"
+  },
+  {
+   "kelime": "إِنَّهُمْ",
+   "okunus": "innehüm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz onlar",
+   "karsilik": "şüphesiz onlar"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlardır"
+  },
+  {
+   "kelime": "ٱلْمُفْسِدُونَ",
+   "okunus": "elmüfsidûne",
+   "kok": "فسد",
+   "kokAnlam": "bozma, kargaşa çıkarma",
+   "karsilik": "bozgunculuk yapanlar"
+  },
+  {
+   "kelime": "وَلَٰكِن",
+   "okunus": "ve lâkin",
+   "kok": "—",
+   "kokAnlam": "(düzeltme) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "يَشْعُرُونَ",
+   "okunus": "yeş'urûne",
+   "kok": "شعر",
+   "kokAnlam": "fark etme, sezme, bilinç",
+   "karsilik": "farkında"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette münafıklar kendilerini 'düzeltici' olarak tanıtmışlardı; bu ayet o iddiayı doğrudan tersine çevirir. 'İyi bilin ki' vurgusuyla başlayan cümle, hiç şüpheye yer bırakmadan onların gerçekte bozguncu olduğunu bildirir.",
+  "Ayetin son kısmı, bunun bilinçli bir kötülük değil, bir farkındalık eksikliği olabileceğini de ekler. Klasik tefsir, bu durumu, kişinin kendi davranışının sonuçlarını göremeyecek kadar kendi bakış açısına kapanması olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:11",
+   "meal": "Onlara 'yeryüzünde bozgunculuk yapmayın' denildiğinde 'biz ancak düzelticileriz' derler.",
+   "baglanti": "Bu ayet, bir önceki ayette anlatılan iddiaya verilen doğrudan cevaptır."
+  },
+  {
+   "ref": "2:27",
+   "meal": "Onlar, Allah'ın emrini yerine getirmezler ve yeryüzünde bozgunculuk çıkarırlar; işte onlar hüsrana uğrayanlardır.",
+   "baglanti": "İleride gelen bu ayet, aynı 'bozgunculuk' köküyle benzer bir grubu tarif ederek Bakara 12'deki teşhisi pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bir kişinin kendi hakkındaki yanlış algısıdır. Bu, dışarıdan bakıldığında görülen bir gerçekle, kişinin kendini görme biçimi arasındaki farkı anlatır.",
+  "Günlük hayata taşınabilecek ders, 'iyi niyetliyim' demenin tek başına yeterli olmadığıdır. Yaptığın işin gerçek sonucunu zaman zaman dışarıdan, başkalarının gözünden de değerlendirmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sonucu değerlendir",
+   "aciklama": "Bugün yaptığın bir işin niyetini değil, gerçek sonucunu değerlendir."
+  },
+  {
+   "baslik": "Geri bildirim al",
+   "aciklama": "Güvendiğin birine bugün bir davranışın hakkında dürüst bir görüş sor."
+  },
+  {
+   "baslik": "Kör noktanı ara",
+   "aciklama": "Kendinde fark etmediğini düşündüğün bir alışkanlığı bugün not et."
+  }
+ ],
+ "bugununAdimi": "Bugün güvendiğin bir kişiden, fark etmediğin bir davranışın hakkında dürüst bir geri bildirim iste.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/12"
+  }
+ ]
+}

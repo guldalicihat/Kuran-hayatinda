@@ -1,0 +1,103 @@
+{
+ "sure": 2,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "İşte bu, kendisinde şüphe olmayan kitaptır; sakınanlar için bir hidayettir (yol göstericidir).",
+ "mealNotu": "'Hüdâ' kökü doğru yolu bulmayı, 'müttekîn' ise 'vikâye' kökünden gelip kendini koruyup sakınanları anlatır; bu yüzden 'sakınanlar' denmiştir. 'Rayb' yalnızca 'şüphe' değil, kararsızlık veren kuşkuyu da içerir.",
+ "kokler": [
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu, o",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبُ",
+   "okunus": "elkitâbü",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı olan, kitap",
+   "karsilik": "kitap"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok, değil",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "رَيْبَ",
+   "okunus": "raybe",
+   "kok": "ريب",
+   "kokAnlam": "şüphe, kuşku",
+   "karsilik": "şüphe"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat) onda, içinde",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "هُدًى",
+   "okunus": "hüden",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu bulma, hidayet",
+   "karsilik": "bir hidayettir"
+  },
+  {
+   "kelime": "لِّلْمُتَّقِينَ",
+   "okunus": "lilmüttekîne",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "sakınanlar için"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki mukattaa harflerinin hemen ardından, okunan kitabın niteliğini tanıtır. 'Rayb' kökü, insanı tedirgin eden, kararsız bırakan şüpheyi anlatır; ayet bu kitapta böyle bir kuşkunun yeri olmadığını bildirir. 'Hüdâ' kökü ise doğru yola ulaştırmayı ifade eder.",
+  "Bu hidayet herkese değil, vikâye kökünden gelerek kendini kötülükten koruyan 'müttekîn'e yöneliktir. Klasik tefsir bunu, kitabın herkesi ilgilendiren bir gerçeklik olduğunu, ama ondan asıl yararlananın araştırmaya ve sakınmaya açık olan kişi olduğunu belirterek açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "32:2",
+   "meal": "Bu kitabın indirilişinde hiçbir şüphe yoktur; o, âlemlerin Rabbindendir.",
+   "baglanti": "Secde suresi de kitabın kaynağında şüphe olmadığını aynı 'rayb' köküyle bildirir; Bakara 2'deki ifadeyi doğrular."
+  },
+  {
+   "ref": "17:9",
+   "meal": "Şüphesiz bu Kur'an, en doğru olan yola iletir.",
+   "baglanti": "'Hüdâ' burada da işlenir; Kur'an'ın doğru yola ilettiği fikri iki ayette de ortaktır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, okunan kitabın (Kur'an'ın) güvenilirliği ve yol göstericiliğidir. Bu, dini bir metnin niteliğiyle ilgili bir bildirimdir.",
+  "Günlük hayata taşınabilecek ders, bir kaynağa yönelirken onun güvenilirliğini sorgulamanın önemli olduğudur. Sakınma bilinciyle okumaya açık olmak, bir metni yüzeysel okumaktan farklı bir sonuç verir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ayeti dikkatle oku",
+   "aciklama": "Bugün bir ayeti aceleyle geçmeden, anlamını düşünerek oku."
+  },
+  {
+   "baslik": "Kararsızlığını kaydet",
+   "aciklama": "İçini kurcalayan bir şüpheyi yaz ve güvenilir bir kaynaktan araştır."
+  },
+  {
+   "baslik": "Sakınma niyeti kur",
+   "aciklama": "Bugün bir kararında 'bu beni kötülükten korur mu' diye sor."
+  }
+ ],
+ "bugununAdimi": "Bugün Kur'an'dan okuduğun bir ayetin anlamını kendi cümlenle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/2"
+  }
+ ]
+}

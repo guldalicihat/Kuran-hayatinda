@@ -1,0 +1,397 @@
+{
+ "sure": 2,
+ "ayet": 85,
+ "durum": "taslak",
+ "meal": "Sonra siz, birbirinizi öldürüyor, içinizden bir grubu yurtlarından çıkarıyor, onlara karşı günah ve düşmanlıkla birbirinize arka çıkıyorsunuz. Onlar esir olarak size gelseler fidye verip kurtarıyorsunuz; oysa onları çıkarmak size haramdı. Kitabın bir kısmına inanıp bir kısmını inkâr mı ediyorsunuz? İçinizden bunu yapanın cezası, dünya hayatında rezillikten başka bir şey değildir; kıyamet günü ise en şiddetli azaba döndürülürler. Allah yaptıklarınızdan habersiz değildir.",
+ "mealNotu": "'Tezâherûne' kökü (ظهر) birbirine arka çıkmayı, ittifak kurmayı anlatır. 'Tüfâdûhüm' (فدي) fidye vererek kurtarmayı, 'ihrâc' (خرج) ise yurdundan çıkarmayı karşılar; ayet bu iki tutumun çelişkisini vurgular.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra, ardından",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "أَنتُمْ",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "هَٰٓؤُلَآءِ",
+   "okunus": "hâülâi",
+   "kok": "—",
+   "kokAnlam": "(işaret) şunlar, bunlar",
+   "karsilik": "işte böylesiniz"
+  },
+  {
+   "kelime": "تَقْتُلُونَ",
+   "okunus": "tektülûne",
+   "kok": "قتل",
+   "kokAnlam": "öldürme, canını alma",
+   "karsilik": "öldürüyorsunuz"
+  },
+  {
+   "kelime": "أَنفُسَكُمْ",
+   "okunus": "enfüseküm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik, can",
+   "karsilik": "birbirinizi"
+  },
+  {
+   "kelime": "وَتُخْرِجُونَ",
+   "okunus": "ve tühricûne",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma, dışarı atma",
+   "karsilik": "ve çıkarıyorsunuz"
+  },
+  {
+   "kelime": "فَرِيقًا",
+   "okunus": "ferîkan",
+   "kok": "فرق",
+   "kokAnlam": "ayrılma, grup, topluluk",
+   "karsilik": "bir grubu"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizden",
+   "karsilik": "içinizden"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دِيَٰرِهِمْ",
+   "okunus": "diyârihim",
+   "kok": "دور",
+   "kokAnlam": "dönme; yurt, mesken",
+   "karsilik": "yurtlarından"
+  },
+  {
+   "kelime": "تَظَٰهَرُونَ",
+   "okunus": "tezâherûne",
+   "kok": "ظهر",
+   "kokAnlam": "sırt çevirme; birbirine arka çıkma",
+   "karsilik": "birbirinize arka çıkıyorsunuz"
+  },
+  {
+   "kelime": "عَلَيْهِم",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onların üzerine",
+   "karsilik": "onlara karşı"
+  },
+  {
+   "kelime": "بِٱلْإِثْمِ",
+   "okunus": "bil ismi",
+   "kok": "أثم",
+   "kokAnlam": "günah, suç",
+   "karsilik": "günahla"
+  },
+  {
+   "kelime": "وَٱلْعُدْوَٰنِ",
+   "okunus": "vel udvâni",
+   "kok": "عدو",
+   "kokAnlam": "aşırı gitme, düşmanlık",
+   "karsilik": "ve düşmanlıkla"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يَأْتُوكُمْ",
+   "okunus": "ye'tûküm",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "size gelseler"
+  },
+  {
+   "kelime": "أُسَٰرَىٰ",
+   "okunus": "üsârâ",
+   "kok": "أسر",
+   "kokAnlam": "bağlama; esir",
+   "karsilik": "esir olarak"
+  },
+  {
+   "kelime": "تُفَٰدُوهُمْ",
+   "okunus": "tüfâdûhüm",
+   "kok": "فدي",
+   "kokAnlam": "fidye verme, kurtarma",
+   "karsilik": "fidye verip kurtarırsınız"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "oysa o"
+  },
+  {
+   "kelime": "مُحَرَّمٌ",
+   "okunus": "müharramün",
+   "kok": "حرم",
+   "kokAnlam": "yasaklama, haram kılma",
+   "karsilik": "haram kılınmıştır"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "إِخْرَاجُهُمْ",
+   "okunus": "ihrâcühüm",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma, dışarı atma",
+   "karsilik": "onları çıkarmak"
+  },
+  {
+   "kelime": "أَفَتُؤْمِنُونَ",
+   "okunus": "efetü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; inanma",
+   "karsilik": "inanıyor musunuz"
+  },
+  {
+   "kelime": "بِبَعْضٍ",
+   "okunus": "biba'dı",
+   "kok": "بعض",
+   "kokAnlam": "bir kısım, parça",
+   "karsilik": "bir kısmına"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "Kitabın"
+  },
+  {
+   "kelime": "وَتَكْفُرُونَ",
+   "okunus": "ve tekfürûne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "ve inkâr mı ediyorsunuz"
+  },
+  {
+   "kelime": "بِبَعْضٍ",
+   "okunus": "biba'dın",
+   "kok": "بعض",
+   "kokAnlam": "bir kısım, parça",
+   "karsilik": "bir kısmını"
+  },
+  {
+   "kelime": "فَمَا",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değildir",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "جَزَآءُ",
+   "okunus": "cezâü",
+   "kok": "جزي",
+   "kokAnlam": "karşılığını verme; ceza",
+   "karsilik": "cezası"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim ki",
+   "karsilik": "kim ki"
+  },
+  {
+   "kelime": "يَفْعَلُ",
+   "okunus": "yef'alü",
+   "kok": "فعل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "yaparsa"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) o, bu",
+   "karsilik": "bunu"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizden",
+   "karsilik": "içinizden"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, başka",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "خِزْىٌ",
+   "okunus": "hızyün",
+   "kok": "خزي",
+   "kokAnlam": "alçalma, rezillik",
+   "karsilik": "rezillikten"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ٱلْحَيَوٰةِ",
+   "okunus": "elhayâti",
+   "kok": "حيي",
+   "kokAnlam": "canlılık, hayat",
+   "karsilik": "hayatında"
+  },
+  {
+   "kelime": "ٱلدُّنْيَا",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık; en yakın olan, dünya",
+   "karsilik": "dünya"
+  },
+  {
+   "kelime": "وَيَوْمَ",
+   "okunus": "ve yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "ve günü"
+  },
+  {
+   "kelime": "ٱلْقِيَٰمَةِ",
+   "okunus": "elkıyâmeti",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; kıyamet, diriliş",
+   "karsilik": "kıyamet"
+  },
+  {
+   "kelime": "يُرَدُّونَ",
+   "okunus": "yüraddûne",
+   "kok": "ردد",
+   "kokAnlam": "geri çevirme, döndürme",
+   "karsilik": "döndürülürler"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e doğru",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "أَشَدِّ",
+   "okunus": "eşeddi",
+   "kok": "شدد",
+   "kokAnlam": "şiddetli olma; en şiddetli",
+   "karsilik": "en şiddetlisine"
+  },
+  {
+   "kelime": "ٱلْعَذَابِ",
+   "okunus": "el'azâbi",
+   "kok": "عذب",
+   "kokAnlam": "acı, azap",
+   "karsilik": "azabın"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değildir",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِغَٰفِلٍ",
+   "okunus": "biğâfilin",
+   "kok": "غفل",
+   "kokAnlam": "dalgınlık, gaflet, habersizlik",
+   "karsilik": "habersiz"
+  },
+  {
+   "kelime": "عَمَّا",
+   "okunus": "ammâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma, iş, amel",
+   "karsilik": "yaptıklarınızdan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 84. ayette alınan sözü hatırlatarak muhatapların bu sözü nasıl çiğnediğini anlatır. Bir yandan birbirlerini öldürüyor ve bir kısmını yurdundan çıkarıyor, öte yandan esir düşenler için fidye vererek dindarlık gösteriyorlardı. 'Tezâherûne' kökü, düşmana karşı birbirine arka çıkmayı, ittifak kurmayı anlatır.",
+  "Ayet bu tutumu, Kitabın bir kısmına inanıp bir kısmını inkâr etmekle özdeşleştirir; çünkü fidye vermek Kitaptaki bir buyruğa uyarken öldürmeyi ve çıkarmayı görmezden gelmektir. Klasik tefsir, bu ayetin, birbirine düşman kabilelerle ittifak kurup savaşan bazı toplulukların, esirlerini sonradan fidyeyle kurtardığı bir durumu hatırlattığını aktarır. Sonuç olarak dünyada rezillik, ahirette de şiddetli azap bildirilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:84",
+   "meal": "Hani sizden, birbirinizin kanını dökmeyeceğinize ve birbirinizi yurtlarınızdan çıkarmayacağınıza dair söz almıştık; siz de bunu kabul etmiş ve buna şahitlik etmiştiniz.",
+   "baglanti": "85. ayet, 84. ayette alınan sözün nasıl çiğnendiğini anlatır; iki ayet birlikte okunmalıdır."
+  },
+  {
+   "ref": "4:150",
+   "meal": "Allah'ı ve peygamberlerini inkâr edip Allah ile peygamberleri arasını ayırmak isteyen, 'bir kısmına inanırız, bir kısmını inkâr ederiz' diyenler var ya, işte gerçek kâfirler onlardır.",
+   "baglanti": "Kitabın veya peygamberlerin bir kısmına inanıp bir kısmını reddetme tavrı, burada daha açık biçimde tarif edilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmişte yaşanmış bir topluluğun kendi Kitabına karşı seçici tutumudur: bir emri tutup bir başka emri görmezden gelmek. Bu, toplumsal ittifak ve savaş gibi özel bir bağlamda geçer.",
+  "Bugüne taşınabilecek ders, ilke ve kuralları işine geldiğinde uygulayıp geldiğinde bırakmamaktır. Bir değeri -doğruluk, adalet, yardımlaşma- yalnız kendi çıkarına dokunmadığında savunmak, aynı seçiciliğin küçük bir örneğidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tutarlılığını gözden geçir",
+   "aciklama": "Bugün savunduğun bir ilkeyi, seni zorlayan bir durumda da uygulayıp uygulamadığını düşün."
+  },
+  {
+   "baslik": "Seçici adaletten kaçın",
+   "aciklama": "Bir kararında kendi tarafına ve karşı tarafa aynı ölçüyü uygulayıp uygulamadığını kontrol et."
+  },
+  {
+   "baslik": "Verdiğin sözü hatırla",
+   "aciklama": "Unuttuğun bir sözü bul ve bugün onu yerine getirecek küçük bir adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararını, kendi çıkarınla çelişse bile aynı ilkeye göre ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=85"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/85"
+  }
+ ]
+}

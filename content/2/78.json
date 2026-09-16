@@ -1,0 +1,131 @@
+{
+ "sure": 2,
+ "ayet": 78,
+ "durum": "taslak",
+ "meal": "İçlerinde okuma bilmeyenler de vardır; Kitab'ı bilmezler, ancak kuruntular bilirler; onlar yalnız zanda bulunurlar.",
+ "mealNotu": "'Ümmiyyûn' fعلي أمم, okuma yazma bilmeyen anlamındadır. 'Emâniyy' fعلي مني, kuruntu, temenni anlamına gelir; kesin bilgiden yoksun beklentileri ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَمِنْهُمْ",
+   "okunus": "ve minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlardan",
+   "karsilik": "içlerinde"
+  },
+  {
+   "kelime": "أُمِّيُّونَ",
+   "okunus": "ümmiyyûne",
+   "kok": "أمم",
+   "kokAnlam": "okuma yazma bilmeme",
+   "karsilik": "okuma bilmeyenler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mezler"
+  },
+  {
+   "kelime": "يَعْلَمُونَ",
+   "okunus": "ya'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilmezler"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "Kitab'ı"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, dışında",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "أَمَانِىَّ",
+   "okunus": "emâniyye",
+   "kok": "مني",
+   "kokAnlam": "kuruntu, temenni",
+   "karsilik": "kuruntular"
+  },
+  {
+   "kelime": "وَإِنْ",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, dışında",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "يَظُنُّونَ",
+   "okunus": "yezunnûne",
+   "kok": "ظنن",
+   "kokAnlam": "zan, tahmin",
+   "karsilik": "zanda bulunurlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kelâmı bilerek çarpıtan gruptan sonra ayet, farklı bir kesime döner: Kitab'ı okuyup bilmeyen, sadece duyduklarına ve kuruntularına dayanan bir topluluk. Bunlar, önceki ayetlerdeki bilerek çarpıtma değil, bilgisizlikten kaynaklanan bir yanılgı içindedir.",
+  "Klasik tefsir bu ayeti, Ehl-i Kitab'ın içinde hem bilgiyi bilerek çarpıtanlar hem de sadece rivayetlere ve kuruntulara dayananlar olduğunu gösteren bir ayrım olarak açıklar. Her iki grup da gerçek bilgiden uzak kalmıştır, ama sebepleri farklıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:75",
+   "meal": "Oysa içlerinden bir grup, Allah'ın kelâmını işitir, sonra onu iyice anladıktan sonra bile bile değiştirirdi.",
+   "baglanti": "Bir önceki bölümde anlatılan bilerek çarpıtma, burada bilgisizce kuruntuya dayanmayla karşılaştırılır; ikisi de gerçek bilgiden uzaklaşmanın farklı yollarıdır."
+  },
+  {
+   "ref": "6:116",
+   "meal": "Yeryüzündekilerin çoğuna uyacak olursan, seni Allah'ın yolundan saptırırlar; onlar sadece zanna uyarlar ve sadece yalan söylerler.",
+   "baglanti": "En'âm suresindeki bu ayet, zanna dayanmanın genel bir yanılgı kaynağı olduğunu bildirir; Bakara 78'deki 'yalnız zanda bulunurlar' ifadesini destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bilgiye değil kuruntu ve zanna dayanan bir topluluktur; bu, o dönemin dinî bilgi durumuna dair bir tespittir.",
+  "Bugüne taşınabilecek genel ders, bir konuda gerçek bilgiye ulaşmadan sadece duyduklarına veya kuruntularına güvenmenin yanıltıcı olabileceğidir. Bilmeden konuşmak yerine, öğrenmeye zaman ayırmak daha güvenilirdir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kuruntuyla bilgiyi ayırt et",
+   "aciklama": "Bugün bir konuda bildiğini sandığın ama aslında tahminden ibaret olan bir düşünceni fark et."
+  },
+  {
+   "baslik": "Kaynağına in",
+   "aciklama": "Duyduğun bir bilgiyi paylaşmadan önce, kaynağını kontrol etmeyi dene."
+  },
+  {
+   "baslik": "Bilmediğini öğren",
+   "aciklama": "Eksik bildiğin bir konuda bugün küçük bir araştırma yap."
+  }
+ ],
+ "bugununAdimi": "Bugün, sadece duyumla bildiğin bir konuyu doğrulamadan paylaşma.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=78"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/78"
+  }
+ ]
+}

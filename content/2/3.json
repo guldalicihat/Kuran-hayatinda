@@ -1,0 +1,110 @@
+{
+ "sure": 2,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Onlar, gayba iman ederler, namazı dosdoğru kılarlar ve kendilerine rızık olarak verdiğimizden infak ederler.",
+ "mealNotu": "'Gayb' kökü, duyularla algılanamayanı anlatır; 'iman' güven kökünden gelip görmeden güvenmeyi ifade eder. 'İkame' kökü namazı yalnız kılmayı değil, onu dosdoğru ve sürekli tutmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) o kimseler ki",
+   "karsilik": "onlar ki"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanan",
+   "karsilik": "iman ederler"
+  },
+  {
+   "kelime": "بِٱلْغَيْبِ",
+   "okunus": "bil gaybi",
+   "kok": "غيب",
+   "kokAnlam": "görünmeyen, gizli; bilinmeyen",
+   "karsilik": "gayba"
+  },
+  {
+   "kelime": "وَيُقِيمُونَ",
+   "okunus": "ve yükîmûne",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, doğrultma; ikame etme",
+   "karsilik": "dosdoğru kılarlar"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "dua, bağlılık; namaz",
+   "karsilik": "namazı"
+  },
+  {
+   "kelime": "وَمِمَّا",
+   "okunus": "ve mimmâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -den olandan",
+   "karsilik": "verdiğimizden"
+  },
+  {
+   "kelime": "رَزَقْنَٰهُمْ",
+   "okunus": "razeknâhüm",
+   "kok": "رزق",
+   "kokAnlam": "rızık verme, besleme",
+   "karsilik": "kendilerine rızık verdiğimizden"
+  },
+  {
+   "kelime": "يُنفِقُونَ",
+   "okunus": "yünfikûne",
+   "kok": "نفق",
+   "kokAnlam": "harcama, dağıtma; infak etme",
+   "karsilik": "infak ederler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayet, kitabın müttekîler için bir hidayet olduğunu söylemişti; bu ayet o sakınanların ilk özelliklerini sayar. 'Gayb' kökü görünmeyeni anlatır; iman burada görmeden güvenmeyi ifade eder. 'İkame' kökü ise namazı yalnız yapmayı değil, onu düzenli ve dosdoğru sürdürmeyi anlatır.",
+  "Üçüncü özellik infaktır: rızkın Allah'tan geldiğinin bilinciyle bir kısmını paylaşmaktır. Klasik tefsir bu üç niteliği -gayba iman, namaz, infak- takvanın görünür ilk halkaları olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "8:3",
+   "meal": "Onlar, namazı dosdoğru kılan ve kendilerine verdiğimiz rızıktan infak edenlerdir.",
+   "baglanti": "Enfâl suresindeki bu ifade, Bakara 3'teki namaz ve infak tanımını neredeyse aynı kelimelerle tekrarlar."
+  },
+  {
+   "ref": "23:2",
+   "meal": "Onlar ki namazlarında derin bir saygı içindedirler.",
+   "baglanti": "Mü'minûn suresi namazdaki bu içsel duruşu ekleyerek 'ikame'nin yalnız şekil değil, saygılı bir bağlılık gerektirdiğini gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu iman, namaz ve infaktır; bunlar temel ibadet ve inanç unsurlarındandır. Bu üçü birlikte anılır, biri diğerinden ayrılmaz.",
+  "Günlük hayata taşınabilecek ders, görünmeyene güven, düzenli ibadet ve paylaşmanın bir bütün oluşturduğudur. Yalnız inanmak ya da yalnız ibadet etmek infakı ihmal ederse eksik kalır; üçü birlikte yürütülmelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Namazını zamanında kıl",
+   "aciklama": "Bugünkü bir namazını erteleme, vaktinde ve dikkatle kıl."
+  },
+  {
+   "baslik": "Küçük bir infak yap",
+   "aciklama": "Elindeki bir şeyin (para, yiyecek, zaman) az bir kısmını bugün paylaş."
+  },
+  {
+   "baslik": "Görünmeyene güven pratiği",
+   "aciklama": "Sonucunu hemen göremediğin bir iyiliği bugün de yap, karşılığını beklemeden."
+  }
+ ],
+ "bugununAdimi": "Bugün infak edeceğin küçük bir şeyi belirle ve akşama kadar ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/3"
+  }
+ ]
+}

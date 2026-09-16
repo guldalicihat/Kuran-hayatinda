@@ -1,0 +1,467 @@
+{
+ "sure": 2,
+ "ayet": 61,
+ "durum": "taslak",
+ "meal": "Hani demiştiniz ki: 'Ey Musa! Biz tek bir yemeğe asla dayanamayız; bizim için Rabbine dua et de bize yerin bitirdiği sebzesinden, salatalığından, sarımsağından, mercimeğinden ve soğanından çıkarsın.' Musa dedi ki: 'Daha hayırlı olanı, daha aşağı olanla mı değiştirmek istiyorsunuz? Bir şehre inin, orada istediğiniz vardır.' Üzerlerine düşkünlük ve yoksulluk damgası vuruldu ve Allah'tan bir gazaba uğradılar; çünkü onlar Allah'ın ayetlerini inkâr ediyor ve peygamberleri haksız yere öldürüyorlardı; bunlar, isyan ettikleri ve haddi aştıkları için başlarına gelmişti.",
+ "mealNotu": "Bu ayet uzun ve çok konuludur; meal kelimelere sadık tutulmuş, klasik tefsirin ekleyebileceği ayrıntılar (hangi şehir gibi) eklenmemiştir. 'Zilletü vel meskenetü' فعلي ذلل ve سكن 'düşkünlük ve yoksulluk' olarak çevrilmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَإِذْ",
+   "okunus": "ve iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani, o vakit",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "قُلْتُمْ",
+   "okunus": "kultüm",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz",
+   "karsilik": "demiştiniz"
+  },
+  {
+   "kelime": "يَٰمُوسَىٰ",
+   "okunus": "yâ mûsâ",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Musa",
+   "karsilik": "ey Musa"
+  },
+  {
+   "kelime": "لَن",
+   "okunus": "len",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) asla",
+   "karsilik": "asla"
+  },
+  {
+   "kelime": "نَّصْبِرَ",
+   "okunus": "nasbira",
+   "kok": "صبر",
+   "kokAnlam": "dayanma, sabretme",
+   "karsilik": "dayanamayız"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "طَعَامٍ",
+   "okunus": "taâmin",
+   "kok": "طعم",
+   "kokAnlam": "yemek, gıda",
+   "karsilik": "yemeğe"
+  },
+  {
+   "kelime": "وَٰحِدٍ",
+   "okunus": "vâhidin",
+   "kok": "وحد",
+   "kokAnlam": "birlik, teklik",
+   "karsilik": "tek bir"
+  },
+  {
+   "kelime": "فَٱدْعُ",
+   "okunus": "fed'u",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, dua etme",
+   "karsilik": "dua et"
+  },
+  {
+   "kelime": "لَنَا",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) bizim için",
+   "karsilik": "bizim için"
+  },
+  {
+   "kelime": "رَبَّكَ",
+   "okunus": "rabbeke",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbine"
+  },
+  {
+   "kelime": "يُخْرِجْ",
+   "okunus": "yühric",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma",
+   "karsilik": "çıkarsın"
+  },
+  {
+   "kelime": "لَنَا",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) bizim için",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "مِمَّا",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "(edat + ilgi) şeyden ki",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "تُنۢبِتُ",
+   "okunus": "tümbitü",
+   "kok": "نبت",
+   "kokAnlam": "bitirme, yeşertme",
+   "karsilik": "bitirdiği"
+  },
+  {
+   "kelime": "ٱلْأَرْضُ",
+   "okunus": "el'erdu",
+   "kok": "أرض",
+   "kokAnlam": "yeryüzü, toprak",
+   "karsilik": "yerin"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mim",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَقْلِهَا",
+   "okunus": "beklihâ",
+   "kok": "بقل",
+   "kokAnlam": "sebze, yeşillik",
+   "karsilik": "sebzesinden"
+  },
+  {
+   "kelime": "وَقِثَّآئِهَا",
+   "okunus": "ve kıssâihâ",
+   "kok": "قثأ",
+   "kokAnlam": "salatalık",
+   "karsilik": "ve salatalığından"
+  },
+  {
+   "kelime": "وَفُومِهَا",
+   "okunus": "ve fûmihâ",
+   "kok": "فوم",
+   "kokAnlam": "sarımsak",
+   "karsilik": "ve sarımsağından"
+  },
+  {
+   "kelime": "وَعَدَسِهَا",
+   "okunus": "ve adesihâ",
+   "kok": "عدس",
+   "kokAnlam": "mercimek",
+   "karsilik": "ve mercimeğinden"
+  },
+  {
+   "kelime": "وَبَصَلِهَا",
+   "okunus": "ve besalihâ",
+   "kok": "بصل",
+   "kokAnlam": "soğan",
+   "karsilik": "ve soğanından"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "أَتَسْتَبْدِلُونَ",
+   "okunus": "etestebdilûne",
+   "kok": "بدل",
+   "kokAnlam": "değiştirme, yerine koyma",
+   "karsilik": "değiştirmek mi istiyorsunuz"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) o ki",
+   "karsilik": "olanı"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "أَدْنَىٰ",
+   "okunus": "ednâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık, aşağılık, düşüklük",
+   "karsilik": "daha aşağı"
+  },
+  {
+   "kelime": "بِٱلَّذِى",
+   "okunus": "billezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) o şey ki",
+   "karsilik": "olanla"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "خَيْرٌ",
+   "okunus": "hayrun",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "daha hayırlı"
+  },
+  {
+   "kelime": "ٱهْبِطُوا۟",
+   "okunus": "uhbitû",
+   "kok": "هبط",
+   "kokAnlam": "inme, aşağı inme",
+   "karsilik": "inin"
+  },
+  {
+   "kelime": "مِصْرًا",
+   "okunus": "misran",
+   "kok": "مصر",
+   "kokAnlam": "şehir, yerleşim",
+   "karsilik": "bir şehre"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten",
+   "karsilik": "çünkü gerçekten"
+  },
+  {
+   "kelime": "لَكُم",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey ki",
+   "karsilik": "vardır"
+  },
+  {
+   "kelime": "سَأَلْتُمْ",
+   "okunus": "seeltüm",
+   "kok": "سأل",
+   "kokAnlam": "isteme, sorma",
+   "karsilik": "istediğiniz"
+  },
+  {
+   "kelime": "وَضُرِبَتْ",
+   "okunus": "ve duribet",
+   "kok": "ضرب",
+   "kokAnlam": "vurma, damgalanma",
+   "karsilik": "ve vuruldu"
+  },
+  {
+   "kelime": "عَلَيْهِمُ",
+   "okunus": "aleyhimü",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) üzerlerine",
+   "karsilik": "üzerlerine"
+  },
+  {
+   "kelime": "ٱلذِّلَّةُ",
+   "okunus": "ezzilletü",
+   "kok": "ذلل",
+   "kokAnlam": "aşağılık, düşkünlük",
+   "karsilik": "düşkünlük"
+  },
+  {
+   "kelime": "وَٱلْمَسْكَنَةُ",
+   "okunus": "vel meskenetü",
+   "kok": "سكن",
+   "kokAnlam": "yerleşme, yoksulluk",
+   "karsilik": "ve yoksulluk"
+  },
+  {
+   "kelime": "وَبَآءُو",
+   "okunus": "ve bâû",
+   "kok": "بوأ",
+   "kokAnlam": "dönme, geri dönme; uğrama",
+   "karsilik": "ve uğradılar"
+  },
+  {
+   "kelime": "بِغَضَبٍ",
+   "okunus": "biğadabin",
+   "kok": "غضب",
+   "kokAnlam": "öfke, gazap",
+   "karsilik": "bir gazaba"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu, şu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "بِأَنَّهُمْ",
+   "okunus": "biennehüm",
+   "kok": "—",
+   "kokAnlam": "(edat + te'kid) çünkü onlar",
+   "karsilik": "çünkü onlar"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idiler"
+  },
+  {
+   "kelime": "يَكْفُرُونَ",
+   "okunus": "yekfürûne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr ediyor"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِ",
+   "okunus": "biâyâti",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alâmet; ayet",
+   "karsilik": "ayetlerini"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَيَقْتُلُونَ",
+   "okunus": "ve yektülûne",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "ve öldürüyorlardı"
+  },
+  {
+   "kelime": "ٱلنَّبِيِّۦنَ",
+   "okunus": "ennebiyyîne",
+   "kok": "نبأ",
+   "kokAnlam": "haber; peygamber",
+   "karsilik": "peygamberleri"
+  },
+  {
+   "kelime": "بِغَيْرِ",
+   "okunus": "biğayri",
+   "kok": "غير",
+   "kokAnlam": "başkalık, farklılık; olmaksızın",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "ٱلْحَقِّ",
+   "okunus": "elhakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, doğruluk; hak",
+   "karsilik": "hak"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu, şu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(edat + ilgi) sebebiyle",
+   "karsilik": "sebebiyle"
+  },
+  {
+   "kelime": "عَصَوا۟",
+   "okunus": "asav",
+   "kok": "عصي",
+   "kokAnlam": "isyan etme, karşı gelme",
+   "karsilik": "isyan ettikleri"
+  },
+  {
+   "kelime": "وَّكَانُوا۟",
+   "okunus": "vekânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ve oldukları"
+  },
+  {
+   "kelime": "يَعْتَدُونَ",
+   "okunus": "ya'tedûne",
+   "kok": "عدو",
+   "kokAnlam": "haddi aşma, düşmanlık",
+   "karsilik": "haddi aşıyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Pınar ve rızık nimetinin ardından, ayet bu nimete karşı bir şikâyeti anlatır: tek çeşit yemekten sıkılıp daha basit ürünler isteme. Musa'nın cevabı, daha hayırlı olanı daha aşağı olanla değiştirmek istemenin akılsızlığına işaret eder.",
+  "Ayet, bu tutumun sonucunu ağır bir dille anlatır: düşkünlük, yoksulluk ve Allah'ın gazabı. Klasik tefsir bunu, verilen nimeti küçümseyip nankörlük etmenin, ayrıca peygamberleri haksız yere öldürme gibi daha büyük isyanların bir arada zikredildiği kapsamlı bir uyarı olarak açıklar; hangi şehir ya da hangi peygamberler olduğu burada belirtilmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:112",
+   "meal": "Onların üzerine, nerede olurlarsa olsunlar, zillet damgası vuruldu; ancak Allah'ın ipine ve insanların ipine (ahdine) sarılanlar müstesna. Bunun sebebi, Allah'ın ayetlerini inkâr etmeleri ve peygamberleri haksız yere öldürmeleridir; bu, isyan ettikleri ve haddi aştıkları içindir.",
+   "baglanti": "Âl-i İmrân suresindeki bu ayet, Bakara 61'in son cümlesiyle neredeyse aynıdır ve aynı sonucu tekrarlar."
+  },
+  {
+   "ref": "14:7",
+   "meal": "Rabbiniz şöyle bildirmişti: 'Andolsun, şükrederseniz elbette size artırırım; nankörlük ederseniz, hiç şüphesiz azabım çok şiddetlidir.'",
+   "baglanti": "İbrahim suresindeki bu ayet, nimete şükür ile nankörlük arasındaki farkın sonucunu genel bir ilke olarak bildirir; Bakara 61'deki nankörlüğün arka planını açar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, tarihî bir nankörlük örneğidir: verilen sade ve bereketli nimeti küçümseyip daha alt düzey bir çeşitlilik istemek. Bu, belirli bir kıssanın parçasıdır.",
+  "Bugüne taşınabilecek genel ders, elindeki nimeti kıyaslayarak küçümsemek yerine kıymetini bilmektir. Sürekli 'daha fazla çeşit, daha farklısı' arayışı, bazen elindeki iyi olanı gözden kaçırmaya yol açabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Elindekini küçümseme",
+   "aciklama": "Bugün sahip olduğun sade bir imkânı, başka bir şeyle kıyaslamadan olduğu gibi değerli bul."
+  },
+  {
+   "baslik": "Şikâyeti şükre çevir",
+   "aciklama": "Bugün bir şeye dair kurduğun şikâyet cümlesini, bir şükür cümlesiyle dengele."
+  },
+  {
+   "baslik": "Doğruyu savunmaktan çekinme",
+   "aciklama": "Haklı bir uyarı yaptığında karşı çıkılsa bile, doğru bildiğini nazikçe söylemeye devam et."
+  }
+ ],
+ "bugununAdimi": "Bugün, elindeki sade bir nimeti başka bir şeyle kıyaslamadan takdir ettiğini bir cümleyle ifade et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=61"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/61"
+  }
+ ]
+}

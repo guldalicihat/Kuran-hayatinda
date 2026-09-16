@@ -1,0 +1,103 @@
+{
+ "sure": 2,
+ "ayet": 43,
+ "durum": "taslak",
+ "meal": "Namazı kılın, zekâtı verin ve rükû edenlerle birlikte eğilin.",
+ "mealNotu": "'Ekîmû' kökü قوم, namazı gereğince ayakta tutmayı, sürekli ve düzenli kılmayı anlatır. 'Verkeû' فعلي ركع, rükû edenlerle birlikte topluca eğilmeyi ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَأَقِيمُوا۟",
+   "okunus": "ve ekîmû",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, doğrultma, ikame etme",
+   "karsilik": "kılın"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "yönelme, dua; namaz",
+   "karsilik": "namazı"
+  },
+  {
+   "kelime": "وَءَاتُوا۟",
+   "okunus": "ve âtû",
+   "kok": "أتي",
+   "kokAnlam": "gelme, getirme, verme",
+   "karsilik": "verin"
+  },
+  {
+   "kelime": "ٱلزَّكَوٰةَ",
+   "okunus": "ezzekâte",
+   "kok": "زكو",
+   "kokAnlam": "arınma, artma, temizlik; zekât",
+   "karsilik": "zekâtı"
+  },
+  {
+   "kelime": "وَٱرْكَعُوا۟",
+   "okunus": "verkeû",
+   "kok": "ركع",
+   "kokAnlam": "eğilme, rükû etme",
+   "karsilik": "eğilin"
+  },
+  {
+   "kelime": "مَعَ",
+   "okunus": "mea",
+   "kok": "—",
+   "kokAnlam": "(edat) beraber",
+   "karsilik": "ile birlikte"
+  },
+  {
+   "kelime": "ٱلرَّٰكِعِينَ",
+   "okunus": "errâkiîne",
+   "kok": "ركع",
+   "kokAnlam": "eğilme, rükû etme",
+   "karsilik": "rükû edenler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette hakkı gizlemeyin denildikten sonra burada üç temel ibadet emredilir: namazı kılmak, zekâtı vermek ve rükû edenlerle birlikte eğilmek. Bu sıralama, sözle iman etmenin ötesinde somut ibadete geçişi vurgular.",
+  "'Rükû edenlerle birlikte' ifadesi, klasik tefsirde topluluk hâlinde, birlikte ibadet etmeye bir işaret olarak açıklanır. Ayet böylece bireysel imanı, hem mali dayanışmayı (zekât) hem de toplu ibadeti içeren bir bütüne bağlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:110",
+   "meal": "Namazı kılın, zekâtı verin. Kendiniz için önceden ne hayır gönderirseniz, Allah katında onu bulursunuz.",
+   "baglanti": "Aynı iki emir burada tekrar edilir; ayrıca yapılan iyiliğin karşılıksız kalmayacağı eklenir."
+  },
+  {
+   "ref": "22:77",
+   "meal": "Ey iman edenler! Rükû edin, secde edin, Rabbinize kulluk edin ve hayır işleyin ki kurtuluşa eresiniz.",
+   "baglanti": "Hac suresindeki bu ayet, rükû ve secdeyi kurtuluşa götüren genel bir ibadet çağrısına bağlar; Bakara 43'teki rükû emrini geniş bir çerçeveye oturtur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ibadettir: namaz, zekât ve topluca eğilme. Bu üçü, kişisel ibadeti, mali paylaşımı ve topluluk bağını bir arada tutar.",
+  "Günlük hayata taşınabilecek ders, ibadeti yalnız bireysel bir alışkanlık olarak değil, hem düzenli hem paylaşımcı hem de toplulukla bağ kuran bir pratik olarak sürdürmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Namazını vaktinde kıl",
+   "aciklama": "Bugünkü namazlarından birini, ertelemeden vaktinde kılmaya özen göster."
+  },
+  {
+   "baslik": "Küçük bir payını ayır",
+   "aciklama": "Bugün elindeki imkânın bir kısmını ihtiyaç sahibi birine ayır."
+  },
+  {
+   "baslik": "Birlikte ibadet et",
+   "aciklama": "Mümkünse bugünkü bir namazı, ailenle veya bir toplulukla birlikte kıl."
+  }
+ ],
+ "bugununAdimi": "Bugünkü bir namazını, başkasıyla birlikte ve vaktinde kılmayı planla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=43"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/43"
+  }
+ ]
+}

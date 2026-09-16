@@ -1,0 +1,264 @@
+{
+ "sure": 2,
+ "ayet": 126,
+ "durum": "taslak",
+ "meal": "Hani İbrahim, 'Rabbim! Burayı güvenli bir şehir kıl ve halkından Allah'a ve ahiret gününe inananları çeşitli meyvelerle rızıklandır' demişti. [Allah], 'Kim de inkâr ederse, onu az bir süre faydalandırır, sonra onu ateşin azabına sürüklerim; ne kötü bir varış yeridir o' buyurdu.",
+ "mealNotu": "'Ic'al' kökü (جعل) kılma, meydana getirme anlamındadır; İbrahim'in duası burayı güvenli bir şehir kılınması yönündedir. 'Adtarruhû' kökü (ضرر) zorlayarak sürüklemeyi anlatır; inkârın sonunda kaçınılmaz bir azabı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَإِذْ",
+   "okunus": "ve iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, konuşma",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "إِبْرَٰهِۦمُ",
+   "okunus": "ibrâhîmü",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İbrahim",
+   "karsilik": "İbrahim"
+  },
+  {
+   "kelime": "رَبِّ",
+   "okunus": "rabbi",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye",
+   "karsilik": "Rabbim"
+  },
+  {
+   "kelime": "ٱجْعَلْ",
+   "okunus": "ic'al",
+   "kok": "جعل",
+   "kokAnlam": "kılma, meydana getirme",
+   "karsilik": "kıl"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "burayı"
+  },
+  {
+   "kelime": "بَلَدًا",
+   "okunus": "beleden",
+   "kok": "بلد",
+   "kokAnlam": "yerleşim yeri, şehir",
+   "karsilik": "bir şehir"
+  },
+  {
+   "kelime": "ءَامِنًا",
+   "okunus": "âminen",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet",
+   "karsilik": "güvenli"
+  },
+  {
+   "kelime": "وَٱرْزُقْ",
+   "okunus": "verzük",
+   "kok": "رزق",
+   "kokAnlam": "rızıklandırma, nasip verme",
+   "karsilik": "ve rızıklandır"
+  },
+  {
+   "kelime": "أَهْلَهُۥ",
+   "okunus": "ehlehû",
+   "kok": "أهل",
+   "kokAnlam": "ehil, aile, mensup",
+   "karsilik": "halkını"
+  },
+  {
+   "kelime": "مَنْ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلثَّمَرَٰتِ",
+   "okunus": "essemerâti",
+   "kok": "ثمر",
+   "kokAnlam": "ürün, meyve",
+   "karsilik": "meyvelerden"
+  },
+  {
+   "kelime": "مَنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim ki",
+   "karsilik": "kim ki"
+  },
+  {
+   "kelime": "ءَامَنَ",
+   "okunus": "âmene",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; inanma",
+   "karsilik": "iman edenleri"
+  },
+  {
+   "kelime": "مِنْهُم",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَٱلْيَوْمِ",
+   "okunus": "vel yevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "ve gününe"
+  },
+  {
+   "kelime": "ٱلْءَاخِرِ",
+   "okunus": "el'âhıri",
+   "kok": "أخر",
+   "kokAnlam": "sonraya kalma; ahiret",
+   "karsilik": "ahiret"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, konuşma",
+   "karsilik": "buyurdu"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) kim de",
+   "karsilik": "kim de"
+  },
+  {
+   "kelime": "كَفَرَ",
+   "okunus": "kefera",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr ederse"
+  },
+  {
+   "kelime": "فَأُمَتِّعُهُۥ",
+   "okunus": "feümettiuhû",
+   "kok": "متع",
+   "kokAnlam": "faydalandırma, geçim verme",
+   "karsilik": "onu faydalandırırım"
+  },
+  {
+   "kelime": "قَلِيلًا",
+   "okunus": "kalîlen",
+   "kok": "قلل",
+   "kokAnlam": "azlık",
+   "karsilik": "az bir süre"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "أَضْطَرُّهُۥٓ",
+   "okunus": "adtarruhû",
+   "kok": "ضرر",
+   "kokAnlam": "zorlama, zarar verme",
+   "karsilik": "onu sürüklerim"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "عَذَابِ",
+   "okunus": "azâbi",
+   "kok": "عذب",
+   "kokAnlam": "acı, azap",
+   "karsilik": "azabına"
+  },
+  {
+   "kelime": "ٱلنَّارِ",
+   "okunus": "ennâri",
+   "kok": "نور",
+   "kokAnlam": "ışık, ateş",
+   "karsilik": "ateşin"
+  },
+  {
+   "kelime": "وَبِئْسَ",
+   "okunus": "ve bi'se",
+   "kok": "بأس",
+   "kokAnlam": "kötü olma, sıkıntı",
+   "karsilik": "ne kötüdür"
+  },
+  {
+   "kelime": "ٱلْمَصِيرُ",
+   "okunus": "elmesîru",
+   "kok": "صير",
+   "kokAnlam": "dönüş, varış yeri",
+   "karsilik": "o varış yeri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, İbrahim'in şehir için yaptığı iki istekli duayı aktarır: güvenlik ve rızık. İkinci istekte, rızkın yalnız iman edenlere verilmesini dilediği görülür; ancak gelen cevap bu isteği genişletir.",
+  "Allah'ın cevabı, rızkın dünyada iman eden-etmeyen ayrımı yapılmadan herkese ulaşabileceğini, ama bu geçici bir 'faydalandırma' olduğunu, asıl sonucun ahirette belirleneceğini bildirir. Bu, dünyevi bolluğun tek başına bir üstünlük veya doğruluk işareti olmadığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "14:35",
+   "meal": "Hani İbrahim demişti ki: 'Rabbim! Bu şehri güvenli kıl; beni ve oğullarımı putlara tapmaktan uzak tut.'",
+   "baglanti": "İbrahim'in bu şehri güvenli kılma duası, İbrahim suresi 35'te, putlardan uzak durma talebiyle birlikte genişletilerek tekrarlanır."
+  },
+  {
+   "ref": "2:125",
+   "meal": "Hani Ev'i insanlar için bir toplanma yeri ve güven yeri kılmıştık.",
+   "baglanti": "126. ayette İbrahim'in 'burayı güvenli kıl' duası, 125. ayette Ev'in zaten bir güven yeri olarak kılındığı bilgisiyle birlikte okunmalıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, İbrahim'in Mekke için güvenlik ve rızık duasıdır; Allah'ın cevabı, bu rızkın imanlı-imansız ayrımı yapılmadan dünyada herkese ulaşabileceğini, ama nihai sonucun inkâr edenler için ağır olacağını bildirir.",
+  "Günlük hayata taşınabilecek ders, dünyevi nimetlerin -rızık, güvenlik- herkese açık olabileceği ama bunun tek başına bir başarı ölçütü olmadığıdır. Bir kişinin maddi olarak rahat olması, onun doğru yolda olduğu anlamına gelmez; asıl ölçüt iman ve amel ile ilişkilidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bolluğu ölçüt sanma",
+   "aciklama": "Bugün maddi başarıyı, doğruluğun tek göstergesi olarak görmediğinden emin ol."
+  },
+  {
+   "baslik": "Güvenlik için dua et",
+   "aciklama": "Bugün yaşadığın yer ve sevdiklerin için içten bir güvenlik duası yap."
+  },
+  {
+   "baslik": "Herkese açık iyilik yap",
+   "aciklama": "Bir iyiliği, karşındakinin inancına bakmadan bugün paylaş."
+  }
+ ],
+ "bugununAdimi": "Bugün maddi rahatlığı bir üstünlük göstergesi saymadan, iman ve amelin ölçüt olduğunu hatırlayarak bir karar ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=126"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/126"
+  }
+ ]
+}

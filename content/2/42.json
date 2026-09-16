@@ -1,0 +1,110 @@
+{
+ "sure": 2,
+ "ayet": 42,
+ "durum": "taslak",
+ "meal": "Hakkı bâtılla karıştırmayın ve bile bile hakkı gizlemeyin.",
+ "mealNotu": "'Telbis' kökü لبس, giydirmeyi ve iç içe geçirerek örtmeyi anlatır; burada hakkı bâtılla karıştırıp belirsizleştirmek anlamındadır. 'Tektümûn' فعلي كتم, bilinen bir şeyi saklamayı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mayın"
+  },
+  {
+   "kelime": "تَلْبِسُوا۟",
+   "okunus": "telbisû",
+   "kok": "لبس",
+   "kokAnlam": "giydirme, iç içe geçirip örtme",
+   "karsilik": "karıştırmayın"
+  },
+  {
+   "kelime": "ٱلْحَقَّ",
+   "okunus": "elhakka",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, doğruluk; hak",
+   "karsilik": "hakkı"
+  },
+  {
+   "kelime": "بِٱلْبَٰطِلِ",
+   "okunus": "bil bâtıli",
+   "kok": "بطل",
+   "kokAnlam": "boşluk, geçersizlik; bâtıl",
+   "karsilik": "bâtılla"
+  },
+  {
+   "kelime": "وَتَكْتُمُوا۟",
+   "okunus": "ve tektümû",
+   "kok": "كتم",
+   "kokAnlam": "saklama, gizleme",
+   "karsilik": "ve gizlemeyin"
+  },
+  {
+   "kelime": "ٱلْحَقَّ",
+   "okunus": "elhakka",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, doğruluk; hak",
+   "karsilik": "hakkı"
+  },
+  {
+   "kelime": "وَأَنتُمْ",
+   "okunus": "ve entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "تَعْلَمُونَ",
+   "okunus": "ta'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bile bile"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki emrin devamı olarak, ellerindeki kitabı bilenlere seslenir: doğruyu yanlışla karıştırıp belirsizleştirmeyin ve bildiğiniz gerçeği bile bile saklamayın. 'Hakkı bâtılla karıştırma' ifadesi, açık bir yalan söylemekten çok, doğruyla yanlışı iç içe sunarak kafa karıştırmayı anlatır.",
+  "Klasik tefsir bu ayeti, Tevrat'taki bilgiyi saklayan veya çarpıtan bazı Ehl-i Kitap âlimleriyle ilişkilendirir. Ancak ayetin ifadesi geneldir; herhangi bir bilgiyi bilerek karıştırıp gizlemek konusunda evrensel bir uyarı taşır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:71",
+   "meal": "Ey Kitap ehli! Niçin hakkı bâtılla karıştırıyor ve bile bile hakkı gizliyorsunuz?",
+   "baglanti": "Âl-i İmrân'daki bu ayet, Bakara 42'yle neredeyse aynı ifadeyi taşır; aynı uyarının başka bir surede tekrarıdır."
+  },
+  {
+   "ref": "2:159",
+   "meal": "İndirdiğimiz açık delilleri ve hidayeti, Kitap'ta insanlara açıkça belirttikten sonra gizleyenlere, işte onlara Allah da bütün lânet ediciler de lânet eder.",
+   "baglanti": "Bilinen gerçeği gizlemenin ağır bir sonucu olduğunu göstererek 42. ayetteki uyarıyı pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dini bilgiyi bilerek çarpıtmak veya saklamaktır; bu, özellikle bilgi aktarma sorumluluğu taşıyanlar için ağır bir uyarıdır.",
+  "Günlük hayata taşınabilecek ders, bir konuyu anlatırken doğruyla yanlışı bilerek birbirine karıştırmamak, yarım gerçeklerle insanları yanıltmamaktır. Bir bilgiyi tam bilmiyorsan bunu açıkça söylemek, bildiğini bile bile saklamaktan daha dürüsttür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yarım gerçeği tamamla",
+   "aciklama": "Bugün bir konuyu anlatırken eksik bıraktığın kısmı da ekleyerek tam söyle."
+  },
+  {
+   "baslik": "Bilmiyorsan öyle söyle",
+   "aciklama": "Emin olmadığın bir konuda kesin konuşmak yerine 'tam bilmiyorum' demeyi tercih et."
+  },
+  {
+   "baslik": "Karıştırmadan aktar",
+   "aciklama": "Bir haberi ya da bilgiyi başkasına iletirken kendi yorumunu, olduğu gibi aktardığın kısımdan ayırt ederek söyle."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuşmanda, yorum ile bilgiyi ayırarak konuşmaya özellikle dikkat et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=42"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/42"
+  }
+ ]
+}

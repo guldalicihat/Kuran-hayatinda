@@ -1,0 +1,327 @@
+{
+ "sure": 2,
+ "ayet": 26,
+ "durum": "taslak",
+ "meal": "Şüphesiz Allah, bir sivrisineği, hatta ondan daha üstün olanı örnek vermekten çekinmez. İman edenler bunun Rablerinden gelen bir gerçek olduğunu bilirler; inkâr edenler ise 'Allah bu örnekle ne demek istedi' derler. Allah bununla birçoğunu saptırır, birçoğunu da doğru yola iletir; bununla ancak yoldan çıkanları saptırır.",
+ "mealNotu": "'Hayâ' kökü çekinmeyi, utanmayı anlatır; ayet Allah'ın küçük bir örnek vermekten çekinmediğini bildirir. 'Dalâl' kökü sapmayı, 'hidayet' ise doğru yolu bulmayı ifade eder; ayet bu iki sonucun kişinin kendi tutumuna bağlı olduğunu vurgular.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "يَسْتَحْىِۦٓ",
+   "okunus": "yestahyî",
+   "kok": "حيي",
+   "kokAnlam": "hayat, dirilik; çekinme (hayâ)",
+   "karsilik": "çekinmez"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mekten",
+   "karsilik": "-mekten"
+  },
+  {
+   "kelime": "يَضْرِبَ",
+   "okunus": "yadribe",
+   "kok": "ضرب",
+   "kokAnlam": "vurma; örnek verme",
+   "karsilik": "örnek vermekten"
+  },
+  {
+   "kelime": "مَثَلًا",
+   "okunus": "meselen",
+   "kok": "مثل",
+   "kokAnlam": "örnek, benzetme",
+   "karsilik": "bir örnek"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ek) her ne olursa",
+   "karsilik": "her ne olursa"
+  },
+  {
+   "kelime": "بَعُوضَةً",
+   "okunus": "beûdaten",
+   "kok": "بعض",
+   "kokAnlam": "kısım, parça; sivrisinek",
+   "karsilik": "bir sivrisineği"
+  },
+  {
+   "kelime": "فَمَا",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şeyi ki",
+   "karsilik": "ve ondan"
+  },
+  {
+   "kelime": "فَوْقَهَا",
+   "okunus": "fevkahâ",
+   "kok": "فوق",
+   "kokAnlam": "üstünde olma, üst",
+   "karsilik": "daha üstün olanı"
+  },
+  {
+   "kelime": "فَأَمَّا",
+   "okunus": "feemmâ",
+   "kok": "—",
+   "kokAnlam": "(açıklama) işte",
+   "karsilik": "işte"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) o kimseler ki",
+   "karsilik": "o kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanan",
+   "karsilik": "iman eden"
+  },
+  {
+   "kelime": "فَيَعْلَمُونَ",
+   "okunus": "feya'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme, ilim",
+   "karsilik": "bilirler"
+  },
+  {
+   "kelime": "أَنَّهُ",
+   "okunus": "ennehü",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz onun",
+   "karsilik": "şüphesiz onun"
+  },
+  {
+   "kelime": "ٱلْحَقُّ",
+   "okunus": "elhakku",
+   "kok": "حقق",
+   "kokAnlam": "gerçek olma, hak, doğruluk",
+   "karsilik": "gerçek olduğunu"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّهِمْ",
+   "okunus": "rabbihim",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rablerinden"
+  },
+  {
+   "kelime": "وَأَمَّا",
+   "okunus": "ve emmâ",
+   "kok": "—",
+   "kokAnlam": "(açıklama) ise",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) o kimseler ki",
+   "karsilik": "o kimseler"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr eden"
+  },
+  {
+   "kelime": "فَيَقُولُونَ",
+   "okunus": "feyekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "مَاذَآ",
+   "okunus": "mâzâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "أَرَادَ",
+   "okunus": "erâde",
+   "kok": "رود",
+   "kokAnlam": "isteme, murad etme",
+   "karsilik": "istedi"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِهَٰذَا",
+   "okunus": "bihâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bununla",
+   "karsilik": "bununla"
+  },
+  {
+   "kelime": "مَثَلًا",
+   "okunus": "meselen",
+   "kok": "مثل",
+   "kokAnlam": "örnek, benzetme",
+   "karsilik": "örnek olarak"
+  },
+  {
+   "kelime": "يُضِلُّ",
+   "okunus": "yüdıllü",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, yoldan çıkma",
+   "karsilik": "saptırır"
+  },
+  {
+   "kelime": "بِهِۦٓ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) bununla",
+   "karsilik": "bununla"
+  },
+  {
+   "kelime": "كَثِيرًا",
+   "okunus": "kesîran",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "birçoğunu"
+  },
+  {
+   "kelime": "وَيَهْدِى",
+   "okunus": "ve yehdî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu bulma, hidayet",
+   "karsilik": "ve iletir"
+  },
+  {
+   "kelime": "بِهِۦٓ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) bununla",
+   "karsilik": "bununla"
+  },
+  {
+   "kelime": "كَثِيرًا",
+   "okunus": "kesîran",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "birçoğunu"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يُضِلُّ",
+   "okunus": "yüdıllü",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, yoldan çıkma",
+   "karsilik": "saptırmaz"
+  },
+  {
+   "kelime": "بِهِۦٓ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) bununla",
+   "karsilik": "bununla"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ٱلْفَٰسِقِينَ",
+   "okunus": "elfâsikîne",
+   "kok": "فسق",
+   "kokAnlam": "yoldan çıkma, günahkârlık",
+   "karsilik": "yoldan çıkanları"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette cennet müjdesi verildikten sonra, bu ayet Kur'an'daki örnekleme (mesel) yöntemine bir açıklama getirir. 'Hayâ' kökü çekinmeyi anlatır; ayet, Allah'ın küçük görünen bir sivrisineği bile örnek vermekten çekinmediğini, çünkü asıl önemli olanın örneğin taşıdığı gerçeklik olduğunu bildirir.",
+  "Müminler bu tür örneklerin bir gerçeğe işaret ettiğini bilirken, inkârcılar bunun amacını sorgulayarak reddeder. Klasik tefsir, ayetin sonundaki 'saptırma' ve 'hidayete erdirme' ifadelerini, kişinin bir örnek karşısındaki tutumunun onun manevi yönünü ortaya çıkardığı şeklinde açıklar; saptırma yalnız yoldan çıkanlara isabet eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:43",
+   "meal": "İşte bu örnekleri insanlar için veriyoruz; onları ancak bilenler anlar.",
+   "baglanti": "Ankebût suresi de Kur'an'daki örneklerin herkes tarafından aynı şekilde anlaşılmadığını, bilgi ve niyetin bunda belirleyici olduğunu bildirir."
+  },
+  {
+   "ref": "2:27",
+   "meal": "Onlar, Allah'ın ahdini bozarlar ve yeryüzünde bozgunculuk çıkarırlar; işte onlar hüsrana uğrayanlardır.",
+   "baglanti": "Hemen sonraki ayet, bu ayetin sonunda anılan 'yoldan çıkanların' kim olduğunu somut özellikleriyle tarif eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, dini bir örneğin (meselin) nasıl anlaşılması gerektiğidir; bu doğrudan bir ibadet kuralı değildir.",
+  "Günlük hayata taşınabilecek ders, küçük görünen bir şeyi önemsizmiş gibi görmemektir. Bir sivrisinek gibi küçük bir örneğin bile büyük bir gerçeği anlatabilmesi, sıradan görünen ayrıntılara dikkat etmenin değerini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçüğü küçümseme",
+   "aciklama": "Bugün önemsiz gördüğün küçük bir davranışının aslında büyük bir etkisi olabileceğini düşün."
+  },
+  {
+   "baslik": "Örnekten ders çıkar",
+   "aciklama": "Bugün karşılaştığın sıradan bir olaydan bir ders çıkarmaya çalış."
+  },
+  {
+   "baslik": "Açık zihinle yaklaş",
+   "aciklama": "Anlamadığın bir öğretiyi hemen reddetmek yerine bugün sorular sorarak anlamaya çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün küçük gördüğün bir davranışını (bir söz, bir gülümseme) bilinçli şekilde önemseyerek yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=26"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/26"
+  }
+ ]
+}

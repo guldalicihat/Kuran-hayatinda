@@ -1,0 +1,124 @@
+{
+ "sure": 2,
+ "ayet": 44,
+ "durum": "taslak",
+ "meal": "İnsanlara iyiliği emredip kendinizi unutuyor musunuz? Oysa siz Kitab'ı okuyorsunuz; hâlâ akletmeyecek misiniz?",
+ "mealNotu": "'Bir' kökü برر, iyiliği ve doğruluğu geniş anlamda kapsar; 'akletmek' فعلي عقل, yalnız bilmeyi değil, bildiğini davranışa bağlamayı da içerir.",
+ "kokler": [
+  {
+   "kelime": "أَتَأْمُرُونَ",
+   "okunus": "ete'mürûne",
+   "kok": "أمر",
+   "kokAnlam": "emretme, buyurma",
+   "karsilik": "emrediyor musunuz"
+  },
+  {
+   "kelime": "ٱلنَّاسَ",
+   "okunus": "ennâse",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet kurma",
+   "karsilik": "insanlara"
+  },
+  {
+   "kelime": "بِٱلْبِرِّ",
+   "okunus": "bil birri",
+   "kok": "برر",
+   "kokAnlam": "iyilik, doğruluk",
+   "karsilik": "iyiliği"
+  },
+  {
+   "kelime": "وَتَنسَوْنَ",
+   "okunus": "ve tensevne",
+   "kok": "نسي",
+   "kokAnlam": "unutma",
+   "karsilik": "ve unutuyorsunuz"
+  },
+  {
+   "kelime": "أَنفُسَكُمْ",
+   "okunus": "enfüseküm",
+   "kok": "نفس",
+   "kokAnlam": "can, kendilik, nefis",
+   "karsilik": "kendinizi"
+  },
+  {
+   "kelime": "وَأَنتُمْ",
+   "okunus": "ve entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "oysa siz"
+  },
+  {
+   "kelime": "تَتْلُونَ",
+   "okunus": "tetlûne",
+   "kok": "تلو",
+   "kokAnlam": "okuma, ardınca gitme",
+   "karsilik": "okuyorsunuz"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "Kitab'ı"
+  },
+  {
+   "kelime": "أَفَلَا",
+   "okunus": "efelâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil mi",
+   "karsilik": "hâlâ değil mi"
+  },
+  {
+   "kelime": "تَعْقِلُونَ",
+   "okunus": "ta'kılûne",
+   "kok": "عقل",
+   "kokAnlam": "kavrama, akletme",
+   "karsilik": "akledeceksiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, iman ve ibadet emirlerinin ardından bir çelişkiye dikkat çeker: başkasına iyiliği öğütleyip kendini unutmak. 'Kitab'ı okuduğunuz hâlde' ifadesi, muhatapların bilgisiz değil, bildiği hâlde tutarsız davrandığını vurgular.",
+  "Klasik tefsir bu ayeti, bilgiyle davranış arasındaki uyumsuzluğa yönelik genel bir uyarı olarak açıklar; söz ile eylemin birbirini tutmasının önemine işaret eder. Soru cümlesiyle bitmesi, muhatabı kendi tutarsızlığı üzerine düşünmeye çağırır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "61:3",
+   "meal": "Yapmayacağınız şeyi söylemeniz, Allah katında büyük bir gazap gerektirir.",
+   "baglanti": "Saff suresindeki bu ayet, sözünü tutmayanlar için genel bir uyarıdır; Bakara 44'teki başkasına öğüt verip kendini unutma çelişkisiyle aynı temaya değinir."
+  },
+  {
+   "ref": "11:88",
+   "meal": "Size yasakladığım şeyde kendim size aykırı davranmak istemiyorum.",
+   "baglanti": "Şuayb peygamberin bu sözü, öğüt verenin önce kendi davranışıyla örnek olması gerektiğini gösterir; Bakara 44'te eleştirilen tutumun tersini örnekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bilgi sahibi olduğu hâlde kendi davranışını düzeltmeyip yalnız başkasına öğüt verenlerin tutarsızlığıdır.",
+  "Günlük hayata taşınabilecek ders, başkasına bir şey öğütlemeden önce kendi hayatında da aynı şeyi uygulamaktır. Sözün, davranışla desteklenmediğinde etkisini kaybettiğini unutmamak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önce kendine uygula",
+   "aciklama": "Bugün birine vereceğin bir öğüdü, önce kendi davranışında ara ve eksiğini gör."
+  },
+  {
+   "baslik": "Söz-eylem uyumunu kontrol et",
+   "aciklama": "Bugün söylediğin bir şeyle yaptığın arasında fark var mı, dürüstçe değerlendir."
+  },
+  {
+   "baslik": "Küçük bir tutarsızlığı düzelt",
+   "aciklama": "Bildiğin ama uygulamadığın küçük bir alışkanlığı bugün hayata geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün, başkasına önerdiğin bir davranışı önce kendin uygula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=44"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/44"
+  }
+ ]
+}

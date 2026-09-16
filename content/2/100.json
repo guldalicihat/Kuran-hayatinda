@@ -1,0 +1,124 @@
+{
+ "sure": 2,
+ "ayet": 100,
+ "durum": "taslak",
+ "meal": "Onlar her ne zaman bir ahit yaptılarsa, içlerinden bir grup onu bozmadı mı? Hayır, çoğu iman etmez.",
+ "mealNotu": "'Nebeze' kökü (نبذ) atmak, bir kenara fırlatmak anlamındadır; ahdi 'bozmak' burada bir sözü değersizleştirip fırlatmak gibi resmedilir.",
+ "kokler": [
+  {
+   "kelime": "أَوَكُلَّمَا",
+   "okunus": "eveküllemâ",
+   "kok": "كلل",
+   "kokAnlam": "bütünlük; her defasında",
+   "karsilik": "her ne zaman ki"
+  },
+  {
+   "kelime": "عَٰهَدُوا۟",
+   "okunus": "âhedû",
+   "kok": "عهد",
+   "kokAnlam": "söz verme, ahitleşme",
+   "karsilik": "ahitleştiler"
+  },
+  {
+   "kelime": "عَهْدًا",
+   "okunus": "ahden",
+   "kok": "عهد",
+   "kokAnlam": "söz verme, ahit",
+   "karsilik": "bir ahit"
+  },
+  {
+   "kelime": "نَّبَذَهُۥ",
+   "okunus": "nebezehû",
+   "kok": "نبذ",
+   "kokAnlam": "atma, bir kenara fırlatma",
+   "karsilik": "onu bozdu"
+  },
+  {
+   "kelime": "فَرِيقٌ",
+   "okunus": "ferîkun",
+   "kok": "فرق",
+   "kokAnlam": "ayrılma, grup",
+   "karsilik": "bir grup"
+  },
+  {
+   "kelime": "مِّنْهُم",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) hayır, bilakis",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "أَكْثَرُهُمْ",
+   "okunus": "ekseruhüm",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "çoğu"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; inanma",
+   "karsilik": "iman ederler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 93. ayette anlatılan ahit ihlalinin tekil bir olay olmadığını, tekrarlanan bir örüntü olduğunu vurgular. 'Her ne zaman' ifadesi, bu ihlalin süreklilik kazandığını gösterir.",
+  "'Nebeze' kökü, bir sözü değersiz bir eşya gibi bir kenara atmayı çağrıştırır; bu, ahdin hafife alındığını anlatan güçlü bir imgedir. Ayet, bu tutumu doğrudan imansızlıkla ilişkilendirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:99",
+   "meal": "Andolsun, sana apaçık ayetler indirdik; onları fasıklardan başkası inkâr etmez.",
+   "baglanti": "99. ayetteki 'fasıklardan başkası inkâr etmez' hükmü, burada ahde vefasızlıkla somutlaştırılır."
+  },
+  {
+   "ref": "13:25",
+   "meal": "Allah'a verdikleri sözü, onu pekiştirdikten sonra bozanlar ve yeryüzünde bozgunculuk çıkaranlar var ya, lânet onlar içindir; kötü yurt da onlarındır.",
+   "baglanti": "Ahdi bozmanın ağır sonucu, Ra'd 25'te lânet ve kötü bir akıbet olarak genişletilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, tekrarlanan bir ahde vefasızlık örüntüsüdür; bu, geçmişte yapılan belirli anlaşmalara özeldir.",
+  "Günlük hayata taşınabilecek ders, söz vermenin ciddiyetidir. Küçük görünen bir sözü bile tutmamak, güveni aşındıran bir alışkanlığa dönüşebilir; sözünü tutmak, karakterin görünür bir parçasıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü kayıt altına al",
+   "aciklama": "Bugün verdiğin bir sözü not et ve onu ne zaman yerine getireceğini belirle."
+  },
+  {
+   "baslik": "Küçük sözleri önemse",
+   "aciklama": "Önemsiz gördüğün küçük bir sözü bile bugün tam olarak yerine getir."
+  },
+  {
+   "baslik": "Bozduğun bir sözü telafi et",
+   "aciklama": "Geçmişte tutmadığın bir sözü hatırla ve ilgili kişiden özür dile."
+  }
+ ],
+ "bugununAdimi": "Bugün unuttuğun veya ertelediğin bir sözünü hatırla ve onu yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=100"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/100"
+  }
+ ]
+}
