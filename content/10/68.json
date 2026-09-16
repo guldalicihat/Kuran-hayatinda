@@ -1,0 +1,229 @@
+{
+ "sure": 10,
+ "ayet": 68,
+ "durum": "taslak",
+ "meal": "Dediler ki: Allah çocuk edindi. O yücedir/münezzehtir; O hiçbir şeye muhtaç değildir. Göklerde ve yerde olan her şey O'nundur. Bu konuda yanınızda hiçbir delil yoktur. Bilmediğiniz bir şeyi Allah hakkında mı söylüyorsunuz?",
+ "mealNotu": "'Sübhânehû' (سبح) tenzih ifadesidir; 'Ganî' (غني) kökü muhtaç olmamayı, kendine yeterliliği anlatır ve çocuk edinme fikrinin muhtaçlıkla ilişkili olduğuna dolaylı bir cevap taşır; 'sültân' (سلط) burada güçlü delil anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "ٱتَّخَذَ",
+   "okunus": "ittehaze",
+   "kok": "أخذ",
+   "kokAnlam": "alma, edinme",
+   "karsilik": "edindi"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَلَدًا",
+   "okunus": "veleden",
+   "kok": "ولد",
+   "kokAnlam": "doğurma, çocuk",
+   "karsilik": "çocuk"
+  },
+  {
+   "kelime": "سُبْحَٰنَهُۥ",
+   "okunus": "sübhânehû",
+   "kok": "سبح",
+   "kokAnlam": "yüzme; tenzih etme",
+   "karsilik": "O yücedir"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "o (zamir)",
+   "karsilik": "O"
+  },
+  {
+   "kelime": "ٱلْغَنِىُّ",
+   "okunus": "elganiyyü",
+   "kok": "غني",
+   "kokAnlam": "zenginlik, ihtiyaçsızlık",
+   "karsilik": "hiçbir şeye muhtaç olmayandır"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "O'nundur",
+   "karsilik": "O'nundur"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "şey (ilgi)",
+   "karsilik": "olan"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "-de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "göklerde"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "ve şey",
+   "karsilik": "ve olan"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "-de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yerde"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "-mez, olumsuzluk",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "عِندَكُم",
+   "okunus": "indeküm",
+   "kok": "عند",
+   "kokAnlam": "yan, kat",
+   "karsilik": "sizin yanınızda"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den, hiçbir",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "سُلْطَٰنٍۭ",
+   "okunus": "sültânim",
+   "kok": "سلط",
+   "kokAnlam": "güç, delil, yetki",
+   "karsilik": "delil"
+  },
+  {
+   "kelime": "بِهَٰذَآ",
+   "okunus": "bihâzâ",
+   "kok": "—",
+   "kokAnlam": "buna dair",
+   "karsilik": "buna dair"
+  },
+  {
+   "kelime": "أَتَقُولُونَ",
+   "okunus": "etekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "mi söylüyorsunuz"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerine, hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "şey (ilgi)",
+   "karsilik": "bir şeyi"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "-medik, olumsuzluk",
+   "karsilik": "bilmediğiniz"
+  },
+  {
+   "kelime": "تَعْلَمُونَ",
+   "okunus": "ta'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilgi",
+   "karsilik": "bilmediğiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetler tevhid delillerini sıralarken, bu ayet müşriklerin en ağır iddialarından birine, 'Allah çocuk edindi' sözüne cevap verir. 'Sübhânehû' (سبح) kökü bu iddiayı reddeden bir tenzih ifadesidir; hemen ardından gelen 'Ganî' (غني) sıfatı, çocuk edinmenin muhtaçlıkla ilişkili bir kavram olduğunu, Allah'ın ise hiçbir şeye muhtaç olmadığını hatırlatır.",
+  "Ayet, göklerde ve yerde olan her şeyin zaten O'na ait olduğunu söyleyerek bu iddianın hiçbir delile dayanmadığını, bilinmeyen bir şeyin Allah adına söylendiğini belirtir. Klasik tefsir, bu ayetin hem Arap müşriklerin meleklere hem de bazı çevrelerin benzer iddialarına birlikte cevap verdiğini açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:101",
+   "meal": "Göklerin ve yerin eşsiz yaratıcısıdır; eşi olmadığı halde O'nun nasıl çocuğu olabilir? Her şeyi O yarattı ve O her şeyi hakkıyla bilendir.",
+   "baglanti": "Aynı iddiaya, 'eşi olmayanın çocuğu nasıl olur' sorusuyla mantıksal bir cevap getirir; 10:68'deki tenzih vurgusunu yaratılışın bütünlüğüyle pekiştirir."
+  },
+  {
+   "ref": "112:3",
+   "meal": "O doğurmamış ve doğurulmamıştır.",
+   "baglanti": "İhlas suresinin bu ayeti aynı gerçeği en kısa ve kesin biçimde özetler; 10:68'deki 'çocuk edinme' iddiasının doğrudan reddidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu itikadi bir meseledir: Allah'a çocuk isnat etmek, O'nun sınırsız, hiçbir şeye muhtaç olmayan varlığıyla bağdaşmaz; bu tarihsel bir tartışmadır ve doğrudan bir günlük eylem önermez.",
+  "Yine de buradan bir ders çıkarılabilir: delilsiz konuşmaktan kaçınmak. Ayet 'bilmediğiniz bir şeyi Allah hakkında mı söylüyorsunuz' diyerek bilgi ile iddia arasındaki farka dikkat çeker; bugün de bilmediğin bir konuda kesin konuşmaktan kaçınmak sağlıklı bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tenzih bilincini tazele",
+   "aciklama": "Bugün Allah'ı yakıştırmalardan tenzih ederek, sıfatlarını doğru bir kaynaktan oku."
+  },
+  {
+   "baslik": "Delilsiz iddiadan kaçın",
+   "aciklama": "Bugün bir konuda konuşurken önce bildiğinle bilmediğini ayırt et."
+  },
+  {
+   "baslik": "Ganî ismini düşün",
+   "aciklama": "Bugün ihtiyaçlarını Allah'a arz ederken, O'nun hiçbir şeye muhtaç olmadığını hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün emin olmadığın bir konuda kesin hüküm vermeden önce durup düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=68"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/68"
+  }
+ ]
+}

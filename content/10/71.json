@@ -1,0 +1,285 @@
+{
+ "sure": 10,
+ "ayet": 71,
+ "durum": "taslak",
+ "meal": "Onlara Nûh'un haberini oku/anlat: hani o, kavmine şöyle demişti: Ey kavmim! Eğer benim aranızda duruşum ve Allah'ın ayetleriyle öğüt vermem size ağır geldiyse, ben Allah'a tevekkül ettim. Artık işinizi ve ortaklarınızı bir araya toplayın; sonra işiniz size kapalı/belirsiz kalmasın, sonra hükmünüzü bana uygulayın ve bana mühlet de vermeyin.",
+ "mealNotu": "'Mekâm' (قوم) burada Nûh'un kavmi arasındaki duruşunu; 'tezkîr' (ذكر) hatırlatma/öğüt kökünü; 'gumme' (غمم) örtme/karanlıkta bırakma kökünü taşır; Nûh, kararlarını gizli tutmamalarını, açıkça uygulamalarını istiyor.",
+ "kokler": [
+  {
+   "kelime": "وَٱتْلُ",
+   "okunus": "vetlü",
+   "kok": "تلو",
+   "kokAnlam": "okuma, izleme",
+   "karsilik": "ve oku/anlat"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "نَبَأَ",
+   "okunus": "nebee",
+   "kok": "نبأ",
+   "kokAnlam": "haber",
+   "karsilik": "haberini"
+  },
+  {
+   "kelime": "نُوحٍ",
+   "okunus": "nûhin",
+   "kok": "—",
+   "kokAnlam": "özel isim (Nûh)",
+   "karsilik": "Nûh'un"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "hani, o zaman",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "demişti"
+  },
+  {
+   "kelime": "لِقَوْمِهِۦ",
+   "okunus": "likavmihî",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "kavmine"
+  },
+  {
+   "kelime": "يَٰقَوْمِ",
+   "okunus": "yâ kavmi",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "ey kavmim"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldu ise"
+  },
+  {
+   "kelime": "كَبُرَ",
+   "okunus": "kebüra",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük, ağır gelme",
+   "karsilik": "ağır geldiyse"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "مَّقَامِى",
+   "okunus": "mekâmî",
+   "kok": "قوم",
+   "kokAnlam": "topluluk; durma, makam",
+   "karsilik": "benim duruşum"
+  },
+  {
+   "kelime": "وَتَذْكِيرِى",
+   "okunus": "ve tezkîrî",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlatma, anma",
+   "karsilik": "ve öğüt vermem"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِ",
+   "okunus": "biâyâti",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "ayetleriyle"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَعَلَى",
+   "okunus": "fealâ",
+   "kok": "—",
+   "kokAnlam": "artık, üzerine",
+   "karsilik": "artık"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "تَوَكَّلْتُ",
+   "okunus": "tevekkeltü",
+   "kok": "وكل",
+   "kokAnlam": "tevekkül, güvenip bırakma",
+   "karsilik": "tevekkül ettim"
+  },
+  {
+   "kelime": "فَأَجْمِعُوٓا۟",
+   "okunus": "feecmiû",
+   "kok": "جمع",
+   "kokAnlam": "toplama",
+   "karsilik": "artık toplayın"
+  },
+  {
+   "kelime": "أَمْرُكُمْ",
+   "okunus": "emraküm",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir",
+   "karsilik": "işinizi"
+  },
+  {
+   "kelime": "وَشُرَكَآءَكُمْ",
+   "okunus": "ve şürakâeküm",
+   "kok": "شرك",
+   "kokAnlam": "ortaklık",
+   "karsilik": "ve ortaklarınızı"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olmasın, olumsuzluk",
+   "karsilik": "kalmasın"
+  },
+  {
+   "kelime": "يَكُنْ",
+   "okunus": "yekün",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmasın"
+  },
+  {
+   "kelime": "أَمْرُكُمْ",
+   "okunus": "emruküm",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir",
+   "karsilik": "işiniz"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "غُمَّةً",
+   "okunus": "gummeten",
+   "kok": "غمم",
+   "kokAnlam": "örtme, karartma",
+   "karsilik": "kapalı/belirsiz"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ٱقْضُوٓا۟",
+   "okunus": "ikdû",
+   "kok": "قضي",
+   "kokAnlam": "hükmetme, yerine getirme",
+   "karsilik": "hükmünüzü uygulayın"
+  },
+  {
+   "kelime": "إِلَىَّ",
+   "okunus": "ileyye",
+   "kok": "—",
+   "kokAnlam": "bana",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "ve olumsuzluk",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "تُنظِرُونِ",
+   "okunus": "tünzırûni",
+   "kok": "نظر",
+   "kokAnlam": "bakma; bekletme, mühlet",
+   "karsilik": "bana mühlet vermeyin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Hz. Nûh'un kıssasına geçişi işaret eder ve onun kavmine söylediği sözleri aktarır. 'Mekâm' (قوم) kökü Nûh'un aralarında duruşunu, uzun süreli tebliğini; 'tezkîr' (ذكر) kökü ise onun sürekli hatırlatma, öğüt verme çabasını anlatır.",
+  "Nûh, kavmine meydan okurcasına kararlarını gizli tutmamalarını, açıkça uygulamalarını ister; 'gumme' (غمم) kökü bir şeyi örtme, karartma anlamındadır ve burada işin belirsiz bırakılmamasını vurgular. Klasik tefsir, bu sözlerin Nûh'un Allah'a tevekkülünden gelen bir cesareti yansıttığını açıklar; o, sonucundan korkmadan gerçeği söylemiştir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:59",
+   "meal": "Andolsun, Nûh'u kavmine gönderdik. Dedi ki: Ey kavmim! Allah'a kulluk edin, sizin O'ndan başka ilahınız yoktur. Doğrusu sizin adınıza büyük bir günün azabından korkuyorum.",
+   "baglanti": "Nûh'un kavmine ilk çağrısını, tevhid ve uyarı vurgusuyla aktarır; 10:71'deki aynı kıssanın başka bir sahnesini tamamlar."
+  },
+  {
+   "ref": "11:25",
+   "meal": "Andolsun, Nûh'u kendi kavmine gönderdik: Ben sizin için apaçık bir uyarıcıyım.",
+   "baglanti": "Nûh'un gönderiliş amacını 'apaçık bir uyarıcı' olarak özetler; 10:71'de anlatılan sahnenin öncesindeki temel görevi hatırlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Hz. Nûh'un kavmine tebliğidir; bu, peygamberlik tarihine ait özel bir sahnedir.",
+  "Buradan çıkan ders, bir gerçeği söylerken sonucundan korkmamak ve Allah'a güvenmektir (tevekkül). Bugün doğru bildiğin bir şeyi söylerken çekindiğinde, bu ayetteki tevekkül tavrını hatırlamak sana cesaret verebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğruyu net söyle",
+   "aciklama": "Bugün doğru bildiğin bir şeyi, çekinmeden ama nazikçe ifade et."
+  },
+  {
+   "baslik": "Tevekkülü tekrarla",
+   "aciklama": "Bugün zor bir kararın öncesinde 'Allah'a tevekkül ettim' diyerek işini O'na bırak."
+  },
+  {
+   "baslik": "Nûh kıssasını oku",
+   "aciklama": "Bugün Nûh suresinin veya A'raf'taki Nûh kıssasının bir bölümünü oku."
+  }
+ ],
+ "bugununAdimi": "Bugün doğru bildiğin bir şeyi, sonucunu Allah'a bırakarak açıkça söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=71"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/71"
+  }
+ ]
+}

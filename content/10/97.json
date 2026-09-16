@@ -1,0 +1,110 @@
+{
+ "sure": 10,
+ "ayet": 97,
+ "durum": "taslak",
+ "meal": "Onlara acıklı azabı görünceye kadar bütün ayetler/mucizeler gelse bile [iman etmezler].",
+ "mealNotu": "Cümle önceki ayetle bağlantılı okunur; '[iman etmezler]' ifadesi köşeli parantezle eklendi çünkü fiil 96. ayette geçer. 'Küllü âyetin' (her ayet/mucize) ifadesi, en güçlü delillerin bile bu ısrarlı inkârı değiştiremeyeceğini vurgular.",
+ "kokler": [
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "جَآءَتْهُمْ",
+   "okunus": "câethüm",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "onlara gelse"
+  },
+  {
+   "kelime": "كُلُّ",
+   "okunus": "küllü",
+   "kok": "كلل",
+   "kokAnlam": "her, bütün",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "ءَايَةٍ",
+   "okunus": "âyetin",
+   "kok": "أيي",
+   "kokAnlam": "ayet, mucize",
+   "karsilik": "ayet/mucize"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "-e kadar",
+   "karsilik": "ta ki"
+  },
+  {
+   "kelime": "يَرَوُا۟",
+   "okunus": "yeravü",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görene kadar"
+  },
+  {
+   "kelime": "ٱلْعَذَابَ",
+   "okunus": "el'azâbe",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "azabı"
+  },
+  {
+   "kelime": "ٱلْأَلِيمَ",
+   "okunus": "el'elîme",
+   "kok": "ألم",
+   "kokAnlam": "acı, elem",
+   "karsilik": "acıklı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet, üzerlerine Rabbin sözü hak olanların iman etmeyeceğini söylemişti; bu ayet aynı fikri pekiştirir: onlara ne kadar çok delil/mucize gelirse gelsin, acıklı azabı bizzat görene kadar iman etmezler.",
+  "Bu ifade, mucizenin tek başına imanı garanti etmediğini gösterir; kalben kararlı bir reddediş içinde olan kişi için delil sayısının bir önemi kalmaz. Ayet, imanın sadece görmekle değil, gönülden bir kabulle ilgili olduğunu dolaylı olarak hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:111",
+   "meal": "Onlara melekleri indirseydik, ölüler kendileriyle konuşsaydı, her şeyi karşılarında toplasaydık bile, Allah dilemedikçe yine iman edecek değillerdi; fakat onların çoğu bilmez.",
+   "baglanti": "10:97'deki 'her ayet gelse bile iman etmezler' fikrini, en olağanüstü mucizelerle örnekleyerek genişletir."
+  },
+  {
+   "ref": "13:31",
+   "meal": "Eğer kendisiyle dağların yürütüldüğü, yerin parçalandığı ya da ölülerin konuşturulduğu bir Kur'an olsaydı... Allah dileseydi bütün insanları hidayete erdirirdi.",
+   "baglanti": "Aynı temayı, en büyük hayali mucizeler üzerinden anlatarak, ısrarlı inkârın mucize eksikliğinden kaynaklanmadığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ısrarla inkârda direnen kişilerin mucize görseler bile inanmayacağına dair itikadi bir tespittir.",
+  "Buradan çıkan ders, ikna olmanın sadece delil miktarıyla değil, kalbin açıklığıyla ilgili olduğudur; bugün bir tartışmada karşı tarafı ikna etmeye çalışırken, bazen sorunun delil eksikliği değil kalbin kapalılığı olabileceğini hatırlamak, boşuna ısrar etmek yerine sabırlı bir tutum sergilemeyi kolaylaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kalbini delillere aç",
+   "aciklama": "Bugün bir konuda önyargılı davranmadan, sana sunulan makul bir delili gerçekten değerlendir."
+  },
+  {
+   "baslik": "Israrcı tartışmadan kaçın",
+   "aciklama": "Bugün ikna olmayan biriyle boşuna ısrarlı bir tartışmaya girmek yerine, düşünmesi için zaman tanı."
+  },
+  {
+   "baslik": "Gördüğünle yetinme",
+   "aciklama": "Bugün gördüğün bir şeyin ötesinde, gönlünle de doğruyu kabul etmeye çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda önyargısız kalıp sunulan makul bir delili gerçekten değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=97"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/97"
+  }
+ ]
+}

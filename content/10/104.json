@@ -1,0 +1,236 @@
+{
+ "sure": 10,
+ "ayet": 104,
+ "durum": "taslak",
+ "meal": "De ki: Ey insanlar! Eğer benim dinimden şüphede iseniz, [bilin ki] ben Allah'tan başka taptıklarınıza kulluk etmem; fakat canınızı alan Allah'a kulluk ederim. Ve müminlerden olmakla emrolundum.",
+ "mealNotu": "'Yeteveffâküm' (وفي) kökü, canı 'tam olarak alma, vefat ettirme' anlamına gelir; Allah'ın bu sıfatı, O'nun hayat ve ölüm üzerindeki mutlak kudretini hatırlatır.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلنَّاسُ",
+   "okunus": "ennâsü",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanlar"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "شَكٍّ",
+   "okunus": "şekkin",
+   "kok": "شكك",
+   "kokAnlam": "şüphe",
+   "karsilik": "şüphe"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دِينِى",
+   "okunus": "dînî",
+   "kok": "دين",
+   "kokAnlam": "din",
+   "karsilik": "dinimden"
+  },
+  {
+   "kelime": "فَلَآ",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "değil",
+   "karsilik": "ben ...mam"
+  },
+  {
+   "kelime": "أَعْبُدُ",
+   "okunus": "a'büdü",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme",
+   "karsilik": "kulluk etmem"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi",
+   "karsilik": "kimselere"
+  },
+  {
+   "kelime": "تَعْبُدُونَ",
+   "okunus": "ta'büdûne",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme",
+   "karsilik": "kulluk ettiğiniz"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِ",
+   "okunus": "dûni",
+   "kok": "دون",
+   "kokAnlam": "başka, dışında",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "وَلَٰكِنْ",
+   "okunus": "ve lâkin",
+   "kok": "—",
+   "kokAnlam": "fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "أَعْبُدُ",
+   "okunus": "a'büdü",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme",
+   "karsilik": "kulluk ederim"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "ilgi",
+   "karsilik": "o ki"
+  },
+  {
+   "kelime": "يَتَوَفَّىٰكُمْ",
+   "okunus": "yeteveffâküm",
+   "kok": "وفي",
+   "kokAnlam": "vefat ettirme, canını alma",
+   "karsilik": "canınızı alır"
+  },
+  {
+   "kelime": "وَأُمِرْتُ",
+   "okunus": "ve ümirtü",
+   "kok": "أمر",
+   "kokAnlam": "emretme",
+   "karsilik": "ve emrolundum"
+  },
+  {
+   "kelime": "أَنْ",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "-meye",
+   "karsilik": "-meye"
+  },
+  {
+   "kelime": "أَكُونَ",
+   "okunus": "ekûne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmaya"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنِينَ",
+   "okunus": "elmü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "mümin",
+   "karsilik": "müminlerden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet, müminlerin kurtuluşunun Allah'ın bir ilkesi olduğunu söylemişti; bu ayet, doğrudan insanlara seslenen bir bildirge niteliğindedir: Hz. Peygamber şahsında, kendisinin apaçık bir tercih içinde olduğu ilan edilir.",
+  "'Canınızı alan' ifadesi, kulluk edilecek varlığın hayat ve ölüm üzerinde gerçek güce sahip olması gerektiğini vurgular; bu, güçsüz varlıklara tapmanın akıl dışılığına dolaylı bir işarettir. Ayet, 'müminlerden olmakla emrolundum' diyerek, bu duruşun kişisel bir tercihten çok ilahi bir görev olduğunu bildirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "39:64",
+   "meal": "De ki: Ey cahiller! Bana Allah'tan başkasına mı kulluk etmemi emrediyorsunuz?",
+   "baglanti": "10:104'teki 'Allah'tan başkasına kulluk etmem' ifadesiyle aynı temayı, muhataplarının teklifini reddeden benzer bir üslupla dile getirir."
+  },
+  {
+   "ref": "6:14",
+   "meal": "De ki: Göklerin ve yerin yaratıcısı olan, besleyen fakat beslenmeyen Allah'tan başka bir dost mu edineyim? De ki: Bana müslümanların ilki olmam emredildi...",
+   "baglanti": "10:104'ün sonundaki 'müminlerden olmakla emrolundum' ifadesiyle aynı yapıyı taşır; Hz. Peygamber'in duruşunun kişisel değil emredilmiş bir görev olduğunu tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Hz. Peygamber'in tevhid konusundaki net duruşunu tüm insanlığa ilan eden itikadi bir bildirgedir.",
+  "Buradan çıkan ders, inandığımız değerler konusunda net ve açık bir duruş sergilemenin önemidir; bugün kendi değerlerimiz konusunda başkalarının baskısı veya belirsizlik karşısında bile net bir tutum sergilemek, bu ayetin örneklediği kararlılığa benzer bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Duruşunu netleştir",
+   "aciklama": "Bugün bir değerin konusunda belirsiz kalmak yerine kendi duruşunu net bir şekilde ifade et."
+  },
+  {
+   "baslik": "Baskıya rağmen sabit kal",
+   "aciklama": "Bugün bir konuda çevrenin baskısına rağmen doğru bildiğinden şaşma."
+  },
+  {
+   "baslik": "Allah'a güvenini tazele",
+   "aciklama": "Bugün hayatının ve ölümünün Allah'ın elinde olduğunu hatırlayarak O'na güven."
+  }
+ ],
+ "bugununAdimi": "Bugün önemli bir değerin konusunda net ve açık bir duruş sergile.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=104"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/104"
+  }
+ ]
+}
