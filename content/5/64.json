@@ -1,0 +1,383 @@
+{
+ "sure": 5,
+ "ayet": 64,
+ "durum": "taslak",
+ "meal": "Yahudiler, 'Allah'ın eli bağlıdır' dediler. Elleri bağlandı ve söyledikleri söz yüzünden lânetlendiler. Hayır, O'nun iki eli de açıktır; dilediği gibi verir. Rabbinden sana indirilen, içlerinden çoğunun azgınlığını ve inkârını elbette artıracaktır. Aralarına, kıyamet gününe kadar sürecek düşmanlık ve kin attık. Ne zaman savaş için bir ateş yaksalar, Allah onu söndürür. Yeryüzünde bozgunculuk için çaba gösterirler. Allah bozguncuları sevmez.",
+ "mealNotu": "'Yed' (el) ifadesi Arapçada güç, cömertlik ya da cimrilik anlatan bir deyimdir; 'eli bağlı olmak' cimriliği, 'iki eli açık olmak' sınırsız cömertliği anlatır. 'Ğullet' ve 'lüinû' fiilleri gramer olarak geçmiş zamandır; burada yorum katmadan, literal karşılığıyla verilmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَقَالَتِ",
+   "okunus": "ve kâleti",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "ٱلْيَهُودُ",
+   "okunus": "elyehûdü",
+   "kok": "هود",
+   "kokAnlam": "yahudi olma",
+   "karsilik": "Yahudiler"
+  },
+  {
+   "kelime": "يَدُ",
+   "okunus": "yedü",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "eli"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "مَغْلُولَةٌ",
+   "okunus": "mağlûletün",
+   "kok": "غلل",
+   "kokAnlam": "bağlama, kısıtlama",
+   "karsilik": "bağlıdır"
+  },
+  {
+   "kelime": "غُلَّتْ",
+   "okunus": "gullet",
+   "kok": "غلل",
+   "kokAnlam": "bağlama, kısıtlama",
+   "karsilik": "bağlandı"
+  },
+  {
+   "kelime": "أَيْدِيهِمْ",
+   "okunus": "eydîhim",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "elleri"
+  },
+  {
+   "kelime": "وَلُعِنُوا۟",
+   "okunus": "ve lüinû",
+   "kok": "لعن",
+   "kokAnlam": "lanetleme, uzaklaştırma",
+   "karsilik": "ve lânetlendiler"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey yüzünden",
+   "karsilik": "söyledikleri şey yüzünden"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "söyledikleri"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) hayır",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "يَدَاهُ",
+   "okunus": "yedâhü",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "O'nun iki eli"
+  },
+  {
+   "kelime": "مَبْسُوطَتَانِ",
+   "okunus": "mebsûtatâni",
+   "kok": "بسط",
+   "kokAnlam": "açma, yayma",
+   "karsilik": "açıktır"
+  },
+  {
+   "kelime": "يُنفِقُ",
+   "okunus": "yünfiku",
+   "kok": "نفق",
+   "kokAnlam": "harcama, infak etme",
+   "karsilik": "verir"
+  },
+  {
+   "kelime": "كَيْفَ",
+   "okunus": "keyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilediği"
+  },
+  {
+   "kelime": "وَلَيَزِيدَنَّ",
+   "okunus": "ve leyezîdenne",
+   "kok": "زيد",
+   "kokAnlam": "artma, ziyade",
+   "karsilik": "elbette artıracaktır"
+  },
+  {
+   "kelime": "كَثِيرًا",
+   "okunus": "kesîran",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "çoğunu"
+  },
+  {
+   "kelime": "مِّنْهُم",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) içlerinden",
+   "karsilik": "içlerinden"
+  },
+  {
+   "kelime": "مَّآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "أُنزِلَ",
+   "okunus": "ünzile",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirilen"
+  },
+  {
+   "kelime": "إِلَيْكَ",
+   "okunus": "ileyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّكَ",
+   "okunus": "rabbike",
+   "kok": "ربب",
+   "kokAnlam": "sahiplik, terbiye",
+   "karsilik": "Rabbinden"
+  },
+  {
+   "kelime": "طُغْيَٰنًا",
+   "okunus": "tuğyânen",
+   "kok": "طغي",
+   "kokAnlam": "azgınlık, taşkınlık",
+   "karsilik": "azgınlığını"
+  },
+  {
+   "kelime": "وَكُفْرًا",
+   "okunus": "ve küfran",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "ve inkârını"
+  },
+  {
+   "kelime": "وَأَلْقَيْنَا",
+   "okunus": "ve elkaynâ",
+   "kok": "لقي",
+   "kokAnlam": "atma, koyma",
+   "karsilik": "ve attık"
+  },
+  {
+   "kelime": "بَيْنَهُمُ",
+   "okunus": "beynehümü",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında olma",
+   "karsilik": "aralarına"
+  },
+  {
+   "kelime": "ٱلْعَدَٰوَةَ",
+   "okunus": "el'adâvete",
+   "kok": "عدو",
+   "kokAnlam": "düşmanlık, aşırı gitme",
+   "karsilik": "düşmanlık"
+  },
+  {
+   "kelime": "وَٱلْبَغْضَآءَ",
+   "okunus": "vel bağdâe",
+   "kok": "بغض",
+   "kokAnlam": "nefret, kin",
+   "karsilik": "ve kin"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "يَوْمِ",
+   "okunus": "yevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gününe"
+  },
+  {
+   "kelime": "ٱلْقِيَٰمَةِ",
+   "okunus": "elkıyâmeti",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, kıyam",
+   "karsilik": "kıyamet"
+  },
+  {
+   "kelime": "كُلَّمَآ",
+   "okunus": "küllemâ",
+   "kok": "كلل",
+   "kokAnlam": "bütün, her defasında",
+   "karsilik": "ne zaman"
+  },
+  {
+   "kelime": "أَوْقَدُوا۟",
+   "okunus": "evkadû",
+   "kok": "وقد",
+   "kokAnlam": "ateş yakma",
+   "karsilik": "yaksalar"
+  },
+  {
+   "kelime": "نَارًا",
+   "okunus": "nâran",
+   "kok": "نور",
+   "kokAnlam": "ateş, ışık",
+   "karsilik": "bir ateş"
+  },
+  {
+   "kelime": "لِّلْحَرْبِ",
+   "okunus": "lilharbi",
+   "kok": "حرب",
+   "kokAnlam": "savaş",
+   "karsilik": "savaş için"
+  },
+  {
+   "kelime": "أَطْفَأَهَا",
+   "okunus": "atfeehâ",
+   "kok": "طفأ",
+   "kokAnlam": "söndürme",
+   "karsilik": "onu söndürür"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَيَسْعَوْنَ",
+   "okunus": "ve yes'avne",
+   "kok": "سعي",
+   "kokAnlam": "koşma, çabalama",
+   "karsilik": "ve çaba gösterirler"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "فَسَادًا",
+   "okunus": "fesâden",
+   "kok": "فسد",
+   "kokAnlam": "bozulma, fesat",
+   "karsilik": "bozgunculuk için"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -maz",
+   "karsilik": "-maz"
+  },
+  {
+   "kelime": "يُحِبُّ",
+   "okunus": "yühibbü",
+   "kok": "حبب",
+   "kokAnlam": "sevme",
+   "karsilik": "sevmez"
+  },
+  {
+   "kelime": "ٱلْمُفْسِدِينَ",
+   "okunus": "elmüfsidîne",
+   "kok": "فسد",
+   "kokAnlam": "bozulma, fesat",
+   "karsilik": "bozguncuları"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, tarihsel bir bağlamda bir grup kişinin Allah hakkında söylediği belirli bir sözü aktarır ve reddeder: 'Allah'ın eli bağlıdır' sözü, cimriliği Allah'a yakıştıran bir ifadedir. Ayet buna, 'Hayır, O'nun iki eli de açıktır, dilediği gibi verir' diyerek karşılık verir; yani Allah'ın sınırsız cömertliğini vurgular. Klasik tefsir, bu sözün Medine'deki belirli bir grup tarafından, çekilen bir sıkıntı döneminde söylendiğini aktarır.",
+  "Ayetin devamı, indirilen vahyin bazı kişilerde azgınlık ve inkârı artırdığını, aralarında süregelen düşmanlık ve çekişmeyi anlatır; bu tarihsel bir gözlemdir, genel bir kader hükmü değildir. 'Fesad' (bozgunculuk) kökü, barışı bozan, çatışmayı büyüten bir tutumu tanımlar ve Allah'ın bunu sevmediği açıkça belirtilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:29",
+   "meal": "Elini boynuna bağlı kılma, onu büsbütün de açıp saçma; sonra kınanır, hasret içinde kalırsın.",
+   "baglanti": "Aynı 'el bağlı - el açık' imgesini, insanın cömertlik ile israf arasında denge kurması öğüdü olarak kullanır."
+  },
+  {
+   "ref": "3:181",
+   "meal": "Andolsun, Allah, 'Allah fakirdir, biz zenginiz' diyenlerin sözünü işitti. Söylediklerini yazacağız.",
+   "baglanti": "Belirli bir grubun Allah hakkında söylediği bir sözün aktarılıp reddedildiği benzer bir örüntüyü gösterir; her iki ayet de tek bir sözü, o sözü söyleyenlere özgü olarak ele alır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, tarihte belirli bir grubun Allah hakkında söylediği özel bir sözdür; bu günlük hayatta doğrudan uygulanacak bir kural değil, Allah'ın sınırsız cömertliğine dair bir hatırlatmadır.",
+  "Buradan çıkarılabilecek ders, cömertlik ile israf arasında bir denge kurmaktır: ne elini sıkıca kapalı tutmak (cimrilik) ne de sınırsızca açmak (savurganlık) dengeli bir tutumu ifade etmez. Ayrıca ayet, düşmanlık ve çekişmenin barışı bozan bir tutumdan beslendiğini ve bunun sevilmeyen bir hâl olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Cömertliğini dengele",
+   "aciklama": "Bugün bir yardımda bulunurken, ne cimri ne de ölçüsüz davran; ihtiyaca uygun ver."
+  },
+  {
+   "baslik": "Çekişmeyi büyütme",
+   "aciklama": "Bugün küçük bir anlaşmazlığı, düşmanlığa dönüştürmeden çözmeye çalış."
+  },
+  {
+   "baslik": "Barışı destekle",
+   "aciklama": "Bir tartışmada, ateşi söndüren değil büyüten bir söz söylemekten kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ihtiyaç sahibine, gücün ölçüsünde ama gönülden bir yardımda bulun.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=64"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/64"
+  }
+ ]
+}
