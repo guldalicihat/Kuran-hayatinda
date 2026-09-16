@@ -1,0 +1,215 @@
+{
+ "sure": 4,
+ "ayet": 170,
+ "durum": "taslak",
+ "meal": "Ey insanlar! Rabbinizden size hak ile elçi geldi; artık iman edin, bu sizin için hayırlıdır. İnkâr ederseniz [bilin ki], göklerde ve yerde olan her şey Allah'ındır. Allah, hakkıyla bilendir, hüküm ve hikmet sahibidir.",
+ "mealNotu": "'Hakk' kökü gerçeği, doğruyu anlatır. Ayet, önceki ayetlerdeki özel bir topluluğa (Kitap Ehli) yönelik hitaptan, tüm insanlığa yönelik genel bir çağrıya geçer.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلنَّاسُ",
+   "okunus": "ennâsü",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet",
+   "karsilik": "insanlar"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "جَآءَكُمُ",
+   "okunus": "câekümü",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "size geldi"
+  },
+  {
+   "kelime": "ٱلرَّسُولُ",
+   "okunus": "errasûlü",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçilik",
+   "karsilik": "elçi"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçek, doğruluk",
+   "karsilik": "hak ile"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّكُمْ",
+   "okunus": "rabbiküm",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, terbiye etme",
+   "karsilik": "Rabbinizden"
+  },
+  {
+   "kelime": "فَـَٔامِنُوا۟",
+   "okunus": "feâminû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; iman",
+   "karsilik": "artık iman edin"
+  },
+  {
+   "kelime": "خَيْرًا",
+   "okunus": "hayran",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "hayırlıdır"
+  },
+  {
+   "kelime": "لَّكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَكْفُرُوا۟",
+   "okunus": "tekfürû",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği örtme, inkâr",
+   "karsilik": "inkâr ederseniz"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "bilin ki"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ındır"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) her şey",
+   "karsilik": "her şey"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "göklerde"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yerde"
+  },
+  {
+   "kelime": "وَكَانَ",
+   "okunus": "ve kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلِيمًا",
+   "okunus": "alîmen",
+   "kok": "علم",
+   "kokAnlam": "bilme, bilgi",
+   "karsilik": "hakkıyla bilen"
+  },
+  {
+   "kelime": "حَكِيمًا",
+   "okunus": "hakîmen",
+   "kok": "حكم",
+   "kokAnlam": "hüküm, hikmet",
+   "karsilik": "hüküm ve hikmet sahibi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 155-169 arasında Kitap Ehli'ne özel eleştirilerden sonra, 'Ey insanlar' diyerek tüm insanlığa yönelen genel bir çağrıya döner. Elçinin 'hak ile' geldiği vurgusu, bu çağrının temelsiz değil, gerçeğe dayalı olduğunu anlatır.",
+  "Ayet, iman etmenin kişinin kendi yararına olduğunu ('sizin için hayırlıdır') belirtir ve inkârın Allah'a hiçbir eksiklik getirmeyeceğini, çünkü göklerde ve yerde olan her şeyin zaten O'na ait olduğunu hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:129",
+   "meal": "Göklerde ve yerde olan her şey Allah'ındır. Dilediğini bağışlar, dilediğine azap eder. Allah çok bağışlayan, çok merhamet edendir.",
+   "baglanti": "'Göklerde ve yerde olan her şey Allah'ındır' ifadesi aynı kelimelerle burada da geçer."
+  },
+  {
+   "ref": "64:8",
+   "meal": "Öyleyse Allah'a, Resûlü'ne ve indirdiğimiz nura iman edin. Allah, yaptıklarınızdan hakkıyla haberdardır.",
+   "baglanti": "170. ayetteki 'iman edin' çağrısını, aynı üçlü yapıyla (Allah, Resûl, nur) tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, insanlığa yönelik genel bir iman çağrısıdır; bu, dinin temel davetidir. Bugüne taşınabilecek ders, bir çağrıyı kabul etmenin sonucunun, çağrıyı yapana değil, kabul edene fayda getirdiğidir.",
+  "İnsan bir öğüdü veya daveti reddettiğinde, çoğu zaman kaybeden kendisidir; öğüdü verenin bundan bir eksikliği olmaz. Bu, iyi bir öneriyi -kimden gelirse gelsin- kendi yararına olup olmadığına bakarak değerlendirmeyi öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir daveti kendi yararına değerlendir",
+   "aciklama": "Bugün sana yapılan bir öneriyi, kimin söylediğine değil, sana ne kazandıracağına bakarak değerlendir."
+  },
+  {
+   "baslik": "Reddetmenin bedelini düşün",
+   "aciklama": "Ertelediğin faydalı bir değişikliği, onu kabul etmemenin asıl kaybedeni olduğunu hatırlayarak yeniden düşün."
+  },
+  {
+   "baslik": "Genel bir iyiliğe katıl",
+   "aciklama": "Bugün, sana özel olmayan ama herkese açık bir iyilik çağrısına (bağış, gönüllülük gibi) katıl."
+  }
+ ],
+ "bugununAdimi": "Bugün, uzun süredir ertelediğin faydalı bir değişikliği kabul etmek için ilk adımı at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=170"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/170"
+  }
+ ]
+}

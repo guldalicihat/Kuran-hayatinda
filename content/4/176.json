@@ -1,0 +1,404 @@
+{
+ "sure": 4,
+ "ayet": 176,
+ "durum": "taslak",
+ "meal": "Senden fetva isterler. De ki: 'Allah size kelâle hakkında şöyle açıklıyor: Bir kişi ölür, çocuğu olmaz ve bir kız kardeşi kalırsa, bıraktığının yarısı ona aittir. Kız kardeşin çocuğu yoksa, erkek kardeş de ona mirasçı olur. Eğer kız kardeşler iki kişi olursa, bıraktığının üçte ikisi onlarındır. Eğer kardeşler erkekli kadınlı olursa, erkeğe iki kadının payı kadar [pay] vardır.' Sapmayasınız diye Allah size açıklıyor. Allah her şeyi hakkıyla bilendir.",
+ "mealNotu": "'Kelâle' (kök كلل), ölenin ne anne-babasının ne de çocuğunun bulunmadığı miras durumunu anlatır. 'Ve hüve yerisühâ' (o ona mirasçı olur) ifadesindeki 'o' zamiri, klasik fıkıhta erkek kardeşin, çocuksuz ölen kız kardeşine mirasçı olması şeklinde açıklanır; bu ayrıntı köşeli parantezle netleştirildi. Pay oranlarının uygulanışındaki ayrıntılar klasik fıkhın konusudur; burada yalnız ayetin lafzı aktarılmıştır.",
+ "kokler": [
+  {
+   "kelime": "يَسْتَفْتُونَكَ",
+   "okunus": "yesteftûneke",
+   "kok": "فتي",
+   "kokAnlam": "açıklık isteme, fetva",
+   "karsilik": "senden fetva isterler"
+  },
+  {
+   "kelime": "قُلِ",
+   "okunus": "kuli",
+   "kok": "قول",
+   "kokAnlam": "söz, söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يُفْتِيكُمْ",
+   "okunus": "yüftîküm",
+   "kok": "فتي",
+   "kokAnlam": "açıklık verme, fetva",
+   "karsilik": "size açıklıyor"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "ٱلْكَلَٰلَةِ",
+   "okunus": "elkelâleti",
+   "kok": "كلل",
+   "kokAnlam": "kuşatma; anne-baba ve çocuğu olmayan miras durumu",
+   "karsilik": "kelâle"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "ini",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "ٱمْرُؤٌا۟",
+   "okunus": "umruün",
+   "kok": "مرأ",
+   "kokAnlam": "kişi, adam",
+   "karsilik": "bir kişi"
+  },
+  {
+   "kelime": "هَلَكَ",
+   "okunus": "heleke",
+   "kok": "هلك",
+   "kokAnlam": "helak olma, ölme",
+   "karsilik": "ölür"
+  },
+  {
+   "kelime": "لَيْسَ",
+   "okunus": "leyse",
+   "kok": "ليس",
+   "kokAnlam": "olumsuzluk fiili, değildir",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) onun",
+   "karsilik": "onun"
+  },
+  {
+   "kelime": "وَلَدٌ",
+   "okunus": "veledün",
+   "kok": "ولد",
+   "kokAnlam": "doğurma, çocuk",
+   "karsilik": "çocuğu"
+  },
+  {
+   "kelime": "وَلَهُۥٓ",
+   "okunus": "ve lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve onun",
+   "karsilik": "ve onun"
+  },
+  {
+   "kelime": "أُخْتٌ",
+   "okunus": "ühtün",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik; kız kardeş",
+   "karsilik": "bir kız kardeşi"
+  },
+  {
+   "kelime": "فَلَهَا",
+   "okunus": "felehâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona aittir",
+   "karsilik": "ona aittir"
+  },
+  {
+   "kelime": "نِصْفُ",
+   "okunus": "nisfü",
+   "kok": "نصف",
+   "kokAnlam": "yarı, yarılama",
+   "karsilik": "yarısı"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şeyin"
+  },
+  {
+   "kelime": "تَرَكَ",
+   "okunus": "terake",
+   "kok": "ترك",
+   "kokAnlam": "bırakma, terk etme",
+   "karsilik": "bıraktığı"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve o",
+   "karsilik": "ve o"
+  },
+  {
+   "kelime": "يَرِثُهَآ",
+   "okunus": "yerisühâ",
+   "kok": "ورث",
+   "kokAnlam": "miras alma, veraset",
+   "karsilik": "ona mirasçı olur"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "يَكُن",
+   "okunus": "yekün",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmazsa"
+  },
+  {
+   "kelime": "لَّهَا",
+   "okunus": "lehâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) onun",
+   "karsilik": "onun"
+  },
+  {
+   "kelime": "وَلَدٌ",
+   "okunus": "veledün",
+   "kok": "ولد",
+   "kokAnlam": "doğurma, çocuk",
+   "karsilik": "çocuğu"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانَتَا",
+   "okunus": "kânetâ",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ikisi olurlarsa"
+  },
+  {
+   "kelime": "ٱثْنَتَيْنِ",
+   "okunus": "isneteyni",
+   "kok": "ثني",
+   "kokAnlam": "ikilik, iki katlama",
+   "karsilik": "iki kişi"
+  },
+  {
+   "kelime": "فَلَهُمَا",
+   "okunus": "felehümâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) ikisine aittir",
+   "karsilik": "ikisine aittir"
+  },
+  {
+   "kelime": "ٱلثُّلُثَانِ",
+   "okunus": "essülüsâni",
+   "kok": "ثلث",
+   "kokAnlam": "üçte bir, üçleme",
+   "karsilik": "üçte ikisi"
+  },
+  {
+   "kelime": "مِمَّا",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "bıraktığından"
+  },
+  {
+   "kelime": "تَرَكَ",
+   "okunus": "terake",
+   "kok": "ترك",
+   "kokAnlam": "bırakma, terk etme",
+   "karsilik": "bıraktığı"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانُوٓا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olurlarsa"
+  },
+  {
+   "kelime": "إِخْوَةً",
+   "okunus": "ihveten",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "kardeşler"
+  },
+  {
+   "kelime": "رِّجَالًا",
+   "okunus": "ricâlen",
+   "kok": "رجل",
+   "kokAnlam": "erkek, adam",
+   "karsilik": "erkekli"
+  },
+  {
+   "kelime": "وَنِسَآءً",
+   "okunus": "ve nisâen",
+   "kok": "نسو",
+   "kokAnlam": "kadın",
+   "karsilik": "kadınlı"
+  },
+  {
+   "kelime": "فَلِلذَّكَرِ",
+   "okunus": "felilzzekeri",
+   "kok": "ذكر",
+   "kokAnlam": "erkeklik, anma",
+   "karsilik": "erkeğe"
+  },
+  {
+   "kelime": "مِثْلُ",
+   "okunus": "mislü",
+   "kok": "مثل",
+   "kokAnlam": "benzer, eş",
+   "karsilik": "kadar"
+  },
+  {
+   "kelime": "حَظِّ",
+   "okunus": "hazzı",
+   "kok": "حظظ",
+   "kokAnlam": "pay, nasip",
+   "karsilik": "payı"
+  },
+  {
+   "kelime": "ٱلْأُنثَيَيْنِ",
+   "okunus": "el'ünseyeyni",
+   "kok": "أنث",
+   "kokAnlam": "dişilik",
+   "karsilik": "iki kadının"
+  },
+  {
+   "kelime": "يُبَيِّنُ",
+   "okunus": "yübeyyinü",
+   "kok": "بين",
+   "kokAnlam": "açıklama, netlik",
+   "karsilik": "açıklıyor"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) diye",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "تَضِلُّوا۟",
+   "okunus": "tedıllû",
+   "kok": "ضلل",
+   "kokAnlam": "yoldan sapma",
+   "karsilik": "sapmayasınız"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِكُلِّ",
+   "okunus": "bikülli",
+   "kok": "كلل",
+   "kokAnlam": "bütünlük, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "عَلِيمٌۢ",
+   "okunus": "alîmüm",
+   "kok": "علم",
+   "kokAnlam": "bilme, bilgi",
+   "karsilik": "hakkıyla bilendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sûrenin son ayeti kelâle mirasını -ölen kişinin ne anne-babasının ne de çocuğunun bulunmadığı durumu- ele alır. 'Kelâle' kökü (كلل) bu durumu anlatır. Ayet, 11 ve 12. ayetlerde başlayan miras düzenlemesinin tamamlayıcısıdır ve tek bir kız kardeş, iki veya daha fazla kız kardeş, karışık erkek-kız kardeş gibi farklı durumlar için pay oranlarını sıralar.",
+  "Ayet, bu payları 'sapmayasınız diye' Allah'ın bizzat açıkladığını vurgulayarak biter. Klasik fıkıh, burada sözü edilen kardeşleri öz (baba-anne bir) kardeşler olarak yorumlar; anne bir kardeşlerin payı ise 4:12'de ayrı biçimde ele alınmıştır. Miras hukukunun ayrıntılı uygulaması, Kur'an'ın bu temel ilkeleri üzerine klasik fıkıh literatüründe geliştirilmiştir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:12",
+   "meal": "Eşlerinizin çocuğu yoksa bıraktığının yarısı, çocuğu varsa dörtte biri sizindir. Bir erkek veya kadın, anne-baba ve çocuğu olmadan miras bırakır da bir erkek veya kız kardeşi olursa, bu kardeşlerden her birine altıda bir düşer; birden fazla iseler üçte birine ortak olurlar.",
+   "baglanti": "Aynı surede kelâle konusunu anne bir kardeşler için ele alan ayettir; 176. ayet ise öz kardeşlerin payını tamamlar."
+  },
+  {
+   "ref": "24:18",
+   "meal": "Allah size ayetleri böylece açıklıyor. Allah, hakkıyla bilendir, hüküm ve hikmet sahibidir.",
+   "baglanti": "176. ayetin 'Allah size açıklıyor... Allah her şeyi hakkıyla bilendir' ifadesiyle aynı yapıyı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu miras hukukudur; bu, aile içindeki maddi hakların paylaşımını düzenleyen özel bir alandır. Bugüne taşınabilecek ders, miras gibi hassas konularda net ve adil kuralların önemidir.",
+  "Aile içi paylaşımlarda belirsizlik, çoğu zaman anlaşmazlığa ve küskünlüğe yol açar. Ayetin ayrıntılı biçimde pay oranlarını belirlemesi bu tür anlaşmazlıkları önlemeyi amaçlar; günümüzde de miras veya ortak mülk paylaşımında net kurallar koymak, ilişkileri korumanın bir yoludur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir paylaşımı netleştir",
+   "aciklama": "Ailende veya ortaklarınla net olmayan bir paylaşım konusu varsa, bugün bunu açıkça konuşup netleştir."
+  },
+  {
+   "baslik": "Miras konusunda bilgi edin",
+   "aciklama": "Kendi durumunla ilgili temel miras kurallarını bugün kısaca araştır."
+  },
+  {
+   "baslik": "Adil davran",
+   "aciklama": "Bir paylaşımda kendi payını değil, adaletin ne gerektirdiğini düşünerek karar ver."
+  }
+ ],
+ "bugununAdimi": "Bugün, net olmayan bir paylaşım veya hak konusunu ailenle ya da ilgili kişiyle açıkça konuş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=176"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/176"
+  }
+ ]
+}

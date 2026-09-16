@@ -1,0 +1,96 @@
+{
+ "sure": 4,
+ "ayet": 156,
+ "durum": "taslak",
+ "meal": "Yine inkâr etmeleri ve Meryem'e karşı büyük bir iftira söylemeleri sebebiyledir.",
+ "mealNotu": "Bu ayet, 155. ayetteki sebep listesinin 've' ile devamıdır; kendi başına tam bir cümle oluşturmaz. 'Bühtân' kökü, karşı tarafı şaşkına çeviren, temelsiz bir suçlamayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَبِكُفْرِهِمْ",
+   "okunus": "ve biküfrihim",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği örtme, inkâr",
+   "karsilik": "ve inkâr etmeleri sebebiyle"
+  },
+  {
+   "kelime": "وَقَوْلِهِمْ",
+   "okunus": "ve kavlihim",
+   "kok": "قول",
+   "kokAnlam": "söz, söyleme",
+   "karsilik": "ve söylemeleri"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında, aleyhine",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "مَرْيَمَ",
+   "okunus": "meryeme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Meryem",
+   "karsilik": "Meryem"
+  },
+  {
+   "kelime": "بُهْتَٰنًا",
+   "okunus": "bühtânen",
+   "kok": "بهت",
+   "kokAnlam": "şaşkına çevirme, iftira",
+   "karsilik": "büyük bir iftira"
+  },
+  {
+   "kelime": "عَظِيمًا",
+   "okunus": "azîmen",
+   "kok": "عظم",
+   "kokAnlam": "büyüklük",
+   "karsilik": "büyük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 155. ayette başlayan sebep listesine bir yenisini ekler: inkârlarının yanında, Meryem hakkında büyük bir iftira söylemeleri. 'Bühtân' kökü, kişiyi şaşkına düşüren, dayanaksız bir suçlamayı anlatır; 'azîm' sıfatı ise bunun büyüklüğünü vurgular.",
+  "Klasik tefsir bu iftirayı, Meryem'e yöneltilen bir iffet suçlamasıyla ilişkilendirir. Ayet, masum bir kadına yöneltilen ağır ve temelsiz bir suçlamayı örnek göstererek, önceki ayetlerdeki sözünü bozma ve inkâr listesine bir töhmet daha ekler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "19:27",
+   "meal": "Onu taşıyarak kavmine getirdi. Dediler ki: 'Ey Meryem! Sen gerçekten şaşılacak bir şey yapmışsın.'",
+   "baglanti": "Meryem'e yöneltilen suçlamanın sahnesini anlatır; 4:156'daki 'büyük iftira' bu olayla ilişkilendirilir."
+  },
+  {
+   "ref": "24:23",
+   "meal": "İffetli, hiçbir kötülükten habersiz mümin kadınlara iftira atanlar, dünyada ve ahirette lanetlenmişlerdir; onlar için büyük bir azap vardır.",
+   "baglanti": "İffetli bir kadına iftiranın ağırlığını genel bir ilke olarak koyar; Meryem'e yapılan suçlama bu ilkenin en ağır örneklerinden biridir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, tarihsel olarak Meryem'e yöneltilen ağır bir iftiradır; bu özel bir olaydır. Bugüne taşınabilecek ders, temelsiz bir suçlamanın bir insana verebileceği zarardır.",
+  "Birine karşı elinde kesin bir bilgi olmadan ağır bir suçlama yöneltmek, o kişinin itibarını kalıcı biçimde zedeleyebilir. Bir söylenti duyduğunda onu hemen yaymak yerine, doğruluğunu araştırmak bir sorumluluktur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir söylentiyi araştır",
+   "aciklama": "Bugün duyduğun ama doğruluğundan emin olmadığın bir sözü yaymadan önce kaynağını sorgula."
+  },
+  {
+   "baslik": "Geçmiş bir suçlamayı düzelt",
+   "aciklama": "Haksız yere birini eleştirdiğini fark ettiğin bir durum varsa, bugün o kişiyle konuşup düzelt."
+  },
+  {
+   "baslik": "Bir kişiyi savun",
+   "aciklama": "Yokluğunda haksız yere eleştirilen birini gördüğünde bugün onun lehine bir şey söyle."
+  }
+ ],
+ "bugununAdimi": "Bugün, doğrulamadığın hiçbir söylentiyi paylaşmadan önce kaynağını kontrol et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=156"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/156"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "sure": 4,
+ "ayet": 174,
+ "durum": "taslak",
+ "meal": "Ey insanlar! Rabbinizden size açık bir delil geldi ve size apaçık bir nur indirdik.",
+ "mealNotu": "'Burhân' kökü açık delili, 'nûr' kökü ise aydınlığı anlatır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلنَّاسُ",
+   "okunus": "ennâsü",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet",
+   "karsilik": "insanlar"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "جَآءَكُم",
+   "okunus": "câeküm",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "size geldi"
+  },
+  {
+   "kelime": "بُرْهَٰنٌ",
+   "okunus": "bürhânün",
+   "kok": "برهن",
+   "kokAnlam": "açık delil, kanıt",
+   "karsilik": "açık bir delil"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّكُمْ",
+   "okunus": "rabbiküm",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, terbiye etme",
+   "karsilik": "Rabbinizden"
+  },
+  {
+   "kelime": "وَأَنزَلْنَآ",
+   "okunus": "ve enzelnâ",
+   "kok": "نزل",
+   "kokAnlam": "indirme, inme",
+   "karsilik": "ve indirdik"
+  },
+  {
+   "kelime": "إِلَيْكُمْ",
+   "okunus": "ileyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "نُورًا",
+   "okunus": "nûran",
+   "kok": "نور",
+   "kokAnlam": "aydınlık, ışık",
+   "karsilik": "bir nur"
+  },
+  {
+   "kelime": "مُّبِينًا",
+   "okunus": "mübînen",
+   "kok": "بين",
+   "kokAnlam": "açıklık, netlik",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 170'teki 'Ey insanlar' çağrısını tekrarlayarak, tüm insanlığa yönelik bir hatırlatmayla devam eder: Rabden açık bir delil gelmiş ve apaçık bir nur indirilmiştir. 'Burhân' kökü şüpheye yer bırakmayan açık bir delili anlatır.",
+  "'Nûr' (aydınlık) ifadesi, vahyin karanlıkta yol gösteren bir ışık olma özelliğini vurgular. Ayet, önceki ayetlerdeki tartışmalı konulardan (İsa'nın kimliği, teslis) sonra, mesajın kendisinin açıklığına dikkat çeker."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:15",
+   "meal": "Ey Kitap Ehli! Kitaptan gizlemekte olduğunuz birçok şeyi size açıklayan elçimiz size geldi. Gerçekten Allah'tan size bir nur ve apaçık bir kitap gelmiştir.",
+   "baglanti": "'Allah'tan bir nur geldi' ifadesi aynı kökle burada da geçer."
+  },
+  {
+   "ref": "6:157",
+   "meal": "Size Rabbinizden apaçık bir delil, bir hidayet ve bir rahmet gelmiştir.",
+   "baglanti": "174. ayetteki 'açık bir delil geldi' ifadesini benzer kelimelerle ('beyyine...min rabbiküm') tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, vahyin açıklığı ve netliğidir; bu, dini bir mesajın niteliğiyle ilgilidir. Bugüne taşınabilecek ders, doğru bir bilginin karanlıkta yol gösteren bir ışık gibi işlev görebileceğidir.",
+  "Bir konuda kafası karışık olan biri için, açık ve dürüst bir bilgi, tıpkı karanlıkta bir ışık gibi yol gösterir. Başkalarına bilgi aktarırken de bunu açık ve anlaşılır biçimde yapmak, bu ayetin işaret ettiği 'nur' ilkesine uygun bir davranıştır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir konuyu netleştir",
+   "aciklama": "Bugün karışık veya belirsiz bıraktığın bir konuyu, açık ve anlaşılır biçimde ifade et."
+  },
+  {
+   "baslik": "Birine yol gösterici ol",
+   "aciklama": "Kararsız kalan birine, bugün net ve dürüst bir öneri sun."
+  },
+  {
+   "baslik": "Karanlık bir belirsizliği ayrıştır",
+   "aciklama": "İçinde bulunduğun belirsiz bir durumu, bugün kâğıda dökerek netleştirmeye çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün belirsiz bıraktığın bir konuyu yazıya dök ve onu netleştirecek bir soru sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=174"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/174"
+  }
+ ]
+}

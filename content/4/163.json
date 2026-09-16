@@ -1,0 +1,229 @@
+{
+ "sure": 4,
+ "ayet": 163,
+ "durum": "taslak",
+ "meal": "Nûh'a ve ondan sonraki peygamberlere vahyettiğimiz gibi sana da vahyettik. İbrahim'e, İsmail'e, İshak'a, Yakub'a, torunlarına, İsa'ya, Eyyub'a, Yunus'a, Harun'a ve Süleyman'a da vahyettik; Davud'a da Zebur'u verdik.",
+ "mealNotu": "'Vahy' kökü gizlice bildirme, ilham etmeyi anlatır. Peygamber isimleri Arapçadaki özel isim biçimleriyle korunmuştur.",
+ "kokler": [
+  {
+   "kelime": "إِنَّآ",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) biz gerçekten",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "أَوْحَيْنَآ",
+   "okunus": "evhaynâ",
+   "kok": "وحي",
+   "kokAnlam": "gizlice bildirme, vahiy",
+   "karsilik": "vahyettik"
+  },
+  {
+   "kelime": "إِلَيْكَ",
+   "okunus": "ileyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "كَمَآ",
+   "okunus": "kemâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) gibi",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "أَوْحَيْنَآ",
+   "okunus": "evhaynâ",
+   "kok": "وحي",
+   "kokAnlam": "gizlice bildirme, vahiy",
+   "karsilik": "vahyettik"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "نُوحٍ",
+   "okunus": "nûhin",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Nûh",
+   "karsilik": "Nûh'a"
+  },
+  {
+   "kelime": "وَٱلنَّبِيِّۦنَ",
+   "okunus": "ven nebiyyîne",
+   "kok": "نبأ",
+   "kokAnlam": "haber, nebi",
+   "karsilik": "ve peygamberlere"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "mim",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِهِۦ",
+   "okunus": "ba'dihî",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "ondan sonraki"
+  },
+  {
+   "kelime": "وَأَوْحَيْنَآ",
+   "okunus": "ve evhaynâ",
+   "kok": "وحي",
+   "kokAnlam": "gizlice bildirme, vahiy",
+   "karsilik": "ve vahyettik"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "إِبْرَٰهِيمَ",
+   "okunus": "ibrâhîme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İbrahim",
+   "karsilik": "İbrahim'e"
+  },
+  {
+   "kelime": "وَإِسْمَٰعِيلَ",
+   "okunus": "ve ismâîle",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İsmail",
+   "karsilik": "İsmail'e"
+  },
+  {
+   "kelime": "وَإِسْحَٰقَ",
+   "okunus": "ve ishâka",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İshak",
+   "karsilik": "İshak'a"
+  },
+  {
+   "kelime": "وَيَعْقُوبَ",
+   "okunus": "ve ya'kûbe",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Yakub",
+   "karsilik": "Yakub'a"
+  },
+  {
+   "kelime": "وَٱلْأَسْبَاطِ",
+   "okunus": "vel esbâtı",
+   "kok": "سبط",
+   "kokAnlam": "torun, soy",
+   "karsilik": "torunlarına"
+  },
+  {
+   "kelime": "وَعِيسَىٰ",
+   "okunus": "ve îsâ",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İsa",
+   "karsilik": "İsa'ya"
+  },
+  {
+   "kelime": "وَأَيُّوبَ",
+   "okunus": "ve eyyûbe",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Eyyub",
+   "karsilik": "Eyyub'a"
+  },
+  {
+   "kelime": "وَيُونُسَ",
+   "okunus": "ve yûnüse",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Yunus",
+   "karsilik": "Yunus'a"
+  },
+  {
+   "kelime": "وَهَٰرُونَ",
+   "okunus": "ve hârûne",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Harun",
+   "karsilik": "Harun'a"
+  },
+  {
+   "kelime": "وَسُلَيْمَٰنَ",
+   "okunus": "ve süleymâne",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Süleyman",
+   "karsilik": "Süleyman'a"
+  },
+  {
+   "kelime": "وَءَاتَيْنَا",
+   "okunus": "ve âteynâ",
+   "kok": "أتي",
+   "kokAnlam": "gelme, verme",
+   "karsilik": "ve verdik"
+  },
+  {
+   "kelime": "دَاوُۥدَ",
+   "okunus": "dâvûde",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Davud",
+   "karsilik": "Davud'a"
+  },
+  {
+   "kelime": "زَبُورًا",
+   "okunus": "zebûran",
+   "kok": "زبر",
+   "kokAnlam": "yazılı sayfa, Zebur",
+   "karsilik": "Zebur'u"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Hz. Muhammed'e gelen vahyin yeni ve tekil bir olay olmadığını, Nûh'tan başlayarak birçok peygambere uzanan bir zincirin devamı olduğunu bildirir. 'Vahy' kökü gizlice bildirme ve ilham anlamındadır; burada peygamberlere özel bir bilgilendirme biçimini anlatır.",
+  "Sayılan isimler arasında İsa da yer alır; bu, 156-159'da anlatılan İsa'yı, diğer peygamberlerden ayrı, aşırı bir konuma yerleştirmeden, vahiy alan bir peygamber olarak konumlandırır. Davud'a özel olarak Zebur'un verilmesi anılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "42:13",
+   "meal": "Allah, dinden Nuh'a tavsiye ettiğini, sana vahyettiğimizi, İbrahim'e, Musa'ya ve İsa'ya tavsiye ettiğimizi sizin için de şeriat kıldı: Dini ayakta tutun ve onda ayrılığa düşmeyin.",
+   "baglanti": "163. ayette sayılan peygamberler zincirinin, ortak bir dini mesaj etrafında birleştiğini gösterir."
+  },
+  {
+   "ref": "17:55",
+   "meal": "Rabbin, göklerde ve yerde olanları en iyi bilendir. Andolsun, biz peygamberlerin bir kısmını bir kısmına üstün kıldık; Davud'a da Zebur'u verdik.",
+   "baglanti": "Davud'a Zebur verilmesi ifadesi neredeyse aynı kelimelerle burada da geçer."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, peygamberlik zincirinin tarihsel bir listesidir; bu, dini bir bilgi aktarımıdır. Bugüne taşınabilecek ders, bir mesajın kökeninin tek bir kişiyle sınırlı olmadığı, bir sürekliliğin parçası olduğudur.",
+  "Bir değeri veya öğretiyi benimserken, onun nereden geldiğini ve kimlerle paylaşıldığını bilmek, o değere daha derin bir bağ kurmayı sağlar. Kendi inancının kökenini ve tarihini tanımak, onu daha bilinçli yaşamaya yardımcı olur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir öğretinin kökenini araştır",
+   "aciklama": "Bugün benimsediğin bir değerin veya öğretinin tarihsel kökenini merak edip kısa bir araştırma yap."
+  },
+  {
+   "baslik": "Süreklilik bilinciyle hareket et",
+   "aciklama": "Yaptığın bir işi, senden önce ve sonra gelenlerle bir bütünün parçası olarak düşün."
+  },
+  {
+   "baslik": "Ortak değerlere odaklan",
+   "aciklama": "Farklı geçmişten insanlarla konuşurken, ayıran değil birleştiren ortak değerleri bul."
+  }
+ ],
+ "bugununAdimi": "Bugün, inandığın bir değerin tarihsel kökenine dair bir cümlelik bilgi edin ve not al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=163"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/163"
+  }
+ ]
+}

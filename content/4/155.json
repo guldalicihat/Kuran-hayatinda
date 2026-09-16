@@ -1,0 +1,208 @@
+{
+ "sure": 4,
+ "ayet": 155,
+ "durum": "taslak",
+ "meal": "Antlaşmalarını bozmaları, Allah'ın ayetlerini inkâr etmeleri, peygamberleri haksız yere öldürmeleri ve 'kalplerimiz kılıflıdır' demeleri; hayır, asıl sebep inkârlarıdır. Allah, bu yüzden kalplerinin üzerini mühürledi. Artık onların pek azı dışında iman etmezler.",
+ "mealNotu": "'Nakz' kökü bir bağı bozmayı, 'gulf' kökü ise kılıf ve örtüyü anlatır; 'kalplerimiz kılıflıdır' sözü yeni bir çağrıya kapalı olduklarını iddia etmektir. Ayetin cümle yapısı (febimâ...) Arapçada uzun bir sebep listesi biçimindedir; akışa uygun olarak düzenlendi.",
+ "kokler": [
+  {
+   "kelime": "فَبِمَا",
+   "okunus": "febimâ",
+   "kok": "—",
+   "kokAnlam": "(ek) sebebiyle, yüzünden",
+   "karsilik": "..."
+  },
+  {
+   "kelime": "نَقْضِهِم",
+   "okunus": "nekdıhim",
+   "kok": "نقض",
+   "kokAnlam": "bozma, geçersiz kılma",
+   "karsilik": "bozmaları"
+  },
+  {
+   "kelime": "مِّيثَٰقَهُمْ",
+   "okunus": "mîsâkahüm",
+   "kok": "وثق",
+   "kokAnlam": "sağlam bağ, antlaşma",
+   "karsilik": "antlaşmalarını"
+  },
+  {
+   "kelime": "وَكُفْرِهِم",
+   "okunus": "ve küfrihim",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği örtme, inkâr",
+   "karsilik": "ve inkâr etmeleri"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِ",
+   "okunus": "biâyâti",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "ayetlerini"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَقَتْلِهِمُ",
+   "okunus": "ve katlihimü",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "ve öldürmeleri"
+  },
+  {
+   "kelime": "ٱلْأَنۢبِيَآءَ",
+   "okunus": "el'embiyâe",
+   "kok": "نبأ",
+   "kokAnlam": "haber, nebi",
+   "karsilik": "peygamberleri"
+  },
+  {
+   "kelime": "بِغَيْرِ",
+   "okunus": "biğayri",
+   "kok": "غير",
+   "kokAnlam": "başkalık, gayrı",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "حَقٍّ",
+   "okunus": "hakkın",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçek, doğruluk",
+   "karsilik": "haklı bir sebep"
+  },
+  {
+   "kelime": "وَقَوْلِهِمْ",
+   "okunus": "ve kavlihim",
+   "kok": "قول",
+   "kokAnlam": "söz, söyleme",
+   "karsilik": "ve demeleri"
+  },
+  {
+   "kelime": "قُلُوبُنَا",
+   "okunus": "kulûbünâ",
+   "kok": "قلب",
+   "kokAnlam": "kalp, dönüşüm",
+   "karsilik": "kalplerimiz"
+  },
+  {
+   "kelime": "غُلْفٌۢ",
+   "okunus": "gulfüm",
+   "kok": "غلف",
+   "kokAnlam": "kılıf, örtü",
+   "karsilik": "kılıflıdır"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) hayır, bilakis",
+   "karsilik": "hayır, bilakis"
+  },
+  {
+   "kelime": "طَبَعَ",
+   "okunus": "tabea",
+   "kok": "طبع",
+   "kokAnlam": "mühürleme, damgalama",
+   "karsilik": "mühürledi"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلَيْهَا",
+   "okunus": "aleyhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) onun üzerine",
+   "karsilik": "onun üzerini"
+  },
+  {
+   "kelime": "بِكُفْرِهِمْ",
+   "okunus": "biküfrihim",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "inkârları sebebiyle"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) artık ... değil",
+   "karsilik": "artık ... değil"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; iman",
+   "karsilik": "iman etmezler"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, dışında",
+   "karsilik": "dışında"
+  },
+  {
+   "kelime": "قَلِيلًا",
+   "okunus": "kalîlen",
+   "kok": "قلل",
+   "kokAnlam": "azlık",
+   "karsilik": "pek azı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayette anlatılan Sina'daki antlaşma ve sebt yasağının ardından, o antlaşmayı bozanların tutumlarını sıralar: sözlerini tutmamak, Allah'ın ayetlerini inkâr etmek, peygamberleri haksız yere öldürmek ve 'kalplerimiz kılıflıdır, bize yeni bir söz ulaşmaz' demek. 'Gulf' kökü kılıf ve örtü anlamına gelir; bu söz yeni bir çağrıyı dinlemeye gerek duymadıklarını iddia etmektir.",
+  "Ayet bu iddiayı reddeder: kalplerin doğuştan kapalı olması değil, sürekli inkârları yüzünden Allah'ın onları bu duruma bırakmasıdır. 'Tab' kökü mühürlemeyi anlatır; bu, ısrarlı bir reddedişin sonucu olarak okunabilir. Sonuçta onların ancak pek azı iman eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:88",
+   "meal": "Ve 'kalplerimiz kılıflıdır' dediler. Hayır, Allah, inkârları sebebiyle onları lanetledi; artık pek az iman ederler.",
+   "baglanti": "Aynı 'kalplerimiz kılıflıdır' sözü burada da geçer; iki ayet birlikte bu iddianın reddedildiğini gösterir."
+  },
+  {
+   "ref": "5:13",
+   "meal": "Antlaşmalarını bozmaları sebebiyle onları lanetledik ve kalplerini katılaştırdık; kelimeleri yerlerinden kaydırıyorlar, kendilerine hatırlatılanın bir kısmını unuttular.",
+   "baglanti": "Aynı 'antlaşmayı bozma' ifadesiyle başlayan bu ayet, benzer bir halkın benzer bir sonucunu anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu geçmiş bir halkın sözünü tutmaması ve elçilere karşı tutumudur; bu, tarihsel ve dini bir bağlamdır. Bugüne taşınabilecek ders, verilen sözü bozmanın ve gerçeğe kapıyı kapatmanın ne gibi sonuçlara yol açabileceğidir.",
+  "'Kalbim kapalı, beni hiçbir şey değiştiremez' demek aslında bir seçimdir; zamanla alışkanlık hâline gelebilir. Kişi kendini yeni bir bilgiye, bir uyarıya veya bir düzeltmeye kapatırsa, bu kapanma da kendi kararlarının bir sonucudur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Verdiğin bir sözü gözden geçir",
+   "aciklama": "Unutmuş olabileceğin bir sözünü hatırla ve bugün onu yerine getirecek bir adım at."
+  },
+  {
+   "baslik": "Kapalı bir kapıyı arala",
+   "aciklama": "'Bu konuda fikrimi değiştirmem' dediğin bir mesele varsa, karşı tarafı bugün gerçekten dinle."
+  },
+  {
+   "baslik": "Bir uyarıyı ciddiye al",
+   "aciklama": "Son zamanlarda aldığın ama görmezden geldiğin bir uyarıyı bugün yeniden düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün, uzun süredir görmezden geldiğin bir uyarıyı veya eleştiriyi tekrar oku ve üzerine bir cümlelik not yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=155"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/155"
+  }
+ ]
+}

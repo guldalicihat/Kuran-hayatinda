@@ -1,0 +1,425 @@
+{
+ "sure": 4,
+ "ayet": 171,
+ "durum": "taslak",
+ "meal": "Ey Kitap Ehli! Dininizde aşırı gitmeyin ve Allah hakkında gerçek dışında bir şey söylemeyin. Meryem oğlu İsa Mesih, ancak Allah'ın elçisi, O'nun Meryem'e ulaştırdığı kelimesi ve kendinden bir ruhtur. Öyleyse Allah'a ve elçilerine iman edin; 'üçtür' demeyin. [Bundan] vazgeçin, bu sizin için hayırlıdır. Allah ancak tek bir ilahtır; bir çocuğu olmaktan münezzehtir. Göklerde ve yerde olan her şey O'nundur. Vekil olarak Allah yeter.",
+ "mealNotu": "'Galev' kökü aşırı gitmeyi, haddi aşmayı anlatır. 'Kelime' ve 'ruh' ifadeleri Kur'an'ın kendi kelimeleridir; yorum eklenmeden aktarıldı. Klasik tefsir bu iki ifadeyi, İsa'nın Allah'ın yaratma emriyle ve özel bir ruhla var edilişine bağlar; ayrıntısı Kur'an metninde verilmez.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَهْلَ",
+   "okunus": "yâ ehle",
+   "kok": "أهل",
+   "kokAnlam": "ehil, mensup",
+   "karsilik": "ey ehli"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "Kitap"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -meyin",
+   "karsilik": "-meyin"
+  },
+  {
+   "kelime": "تَغْلُوا۟",
+   "okunus": "tağlû",
+   "kok": "غلو",
+   "kokAnlam": "haddi aşma, aşırı gitme",
+   "karsilik": "aşırı gitmeyin"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "دِينِكُمْ",
+   "okunus": "dîniküm",
+   "kok": "دين",
+   "kokAnlam": "din",
+   "karsilik": "dininizde"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -meyin",
+   "karsilik": "ve -meyin"
+  },
+  {
+   "kelime": "تَقُولُوا۟",
+   "okunus": "tekûlû",
+   "kok": "قول",
+   "kokAnlam": "söz, söyleme",
+   "karsilik": "söylemeyin"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, dışında",
+   "karsilik": "dışında"
+  },
+  {
+   "kelime": "ٱلْحَقَّ",
+   "okunus": "elhakka",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçek, doğruluk",
+   "karsilik": "gerçek"
+  },
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak, sadece",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ٱلْمَسِيحُ",
+   "okunus": "elmesîhu",
+   "kok": "مسح",
+   "kokAnlam": "sıvazlama, meshetme",
+   "karsilik": "Mesih"
+  },
+  {
+   "kelime": "عِيسَى",
+   "okunus": "îsâ",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İsa",
+   "karsilik": "İsa"
+  },
+  {
+   "kelime": "ٱبْنُ",
+   "okunus": "ibnü",
+   "kok": "بني",
+   "kokAnlam": "yapı, oğul",
+   "karsilik": "oğlu"
+  },
+  {
+   "kelime": "مَرْيَمَ",
+   "okunus": "meryeme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Meryem",
+   "karsilik": "Meryem'in"
+  },
+  {
+   "kelime": "رَسُولُ",
+   "okunus": "rasûlü",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçilik",
+   "karsilik": "elçisidir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَكَلِمَتُهُۥٓ",
+   "okunus": "ve kelimetühû",
+   "kok": "كلم",
+   "kokAnlam": "söz, konuşma",
+   "karsilik": "ve O'nun kelimesidir"
+  },
+  {
+   "kelime": "أَلْقَىٰهَآ",
+   "okunus": "elkâhâ",
+   "kok": "لقي",
+   "kokAnlam": "ulaştırma, atma",
+   "karsilik": "onu ulaştırdığı"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "مَرْيَمَ",
+   "okunus": "meryeme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Meryem",
+   "karsilik": "Meryem'e"
+  },
+  {
+   "kelime": "وَرُوحٌ",
+   "okunus": "ve rûhun",
+   "kok": "روح",
+   "kokAnlam": "ruh",
+   "karsilik": "ve bir ruhtur"
+  },
+  {
+   "kelime": "مِّنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat) kendinden",
+   "karsilik": "kendinden"
+  },
+  {
+   "kelime": "فَـَٔامِنُوا۟",
+   "okunus": "feâminû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; iman",
+   "karsilik": "öyleyse iman edin"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَرُسُلِهِۦ",
+   "okunus": "ve rusülihî",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçilik",
+   "karsilik": "ve elçilerine"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -meyin",
+   "karsilik": "ve -meyin"
+  },
+  {
+   "kelime": "تَقُولُوا۟",
+   "okunus": "tekûlû",
+   "kok": "قول",
+   "kokAnlam": "söz, söyleme",
+   "karsilik": "demeyin"
+  },
+  {
+   "kelime": "ثَلَٰثَةٌ",
+   "okunus": "selâsetün",
+   "kok": "ثلث",
+   "kokAnlam": "üç, üçlü",
+   "karsilik": "üçtür"
+  },
+  {
+   "kelime": "ٱنتَهُوا۟",
+   "okunus": "untehû",
+   "kok": "نهي",
+   "kokAnlam": "yasaklama, son verme",
+   "karsilik": "vazgeçin"
+  },
+  {
+   "kelime": "خَيْرًا",
+   "okunus": "hayran",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "hayırlıdır"
+  },
+  {
+   "kelime": "لَّكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak, sadece",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "إِلَٰهٌ",
+   "okunus": "ilâhün",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "bir ilahtır"
+  },
+  {
+   "kelime": "وَٰحِدٌ",
+   "okunus": "vâhidün",
+   "kok": "وحد",
+   "kokAnlam": "birlik, tek olma",
+   "karsilik": "tek"
+  },
+  {
+   "kelime": "سُبْحَٰنَهُۥٓ",
+   "okunus": "sübhânehû",
+   "kok": "سبح",
+   "kokAnlam": "yüzme, uzak olma, tenzih",
+   "karsilik": "O münezzehtir"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) diye",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "يَكُونَ",
+   "okunus": "yekûne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmaktan"
+  },
+  {
+   "kelime": "لَّهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) kendinin",
+   "karsilik": "kendinin"
+  },
+  {
+   "kelime": "وَلَدٌ",
+   "okunus": "veledün",
+   "kok": "ولد",
+   "kokAnlam": "doğurma, çocuk",
+   "karsilik": "bir çocuğu"
+  },
+  {
+   "kelime": "لَّهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) O'nundur",
+   "karsilik": "O'nundur"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) her şey",
+   "karsilik": "her şey"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "göklerde"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve her şey",
+   "karsilik": "ve her şey"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yerde"
+  },
+  {
+   "kelime": "وَكَفَىٰ",
+   "okunus": "ve kefâ",
+   "kok": "كفي",
+   "kokAnlam": "yetme, kâfi gelme",
+   "karsilik": "ve yeter"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَكِيلًا",
+   "okunus": "vekîlen",
+   "kok": "وكل",
+   "kokAnlam": "vekil olma, güvenip bırakma",
+   "karsilik": "vekil olarak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet doğrudan Kitap Ehli'ne (burada özellikle Hristiyanlara) seslenir ve dinde aşırı gitmemelerini ister. 'Galev' kökü haddi aşmayı anlatır. Ardından İsa'nın kimliği net biçimde tanımlanır: Allah'ın elçisi, O'nun Meryem'e ulaştırdığı kelimesi ve kendinden bir ruh. Bu ifadeler Kur'an'ın kendi kelimeleridir; ayrıntılı açıklaması Kur'an metninde verilmez.",
+  "Ayet 'üçtür demeyin' diyerek teslis inancına açıkça karşı çıkar ve Allah'ın tek bir ilah olduğunu, çocuk edinmekten münezzeh olduğunu vurgular. Bu, İslam'ın tevhid inancının en açık ifadelerinden biridir; farklı dinlerin bu konudaki inançları birbirinden ayrılır ve ayet bunu net bir dille ortaya koyar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:73",
+   "meal": "'Allah, üçün üçüncüsüdür' diyenler andolsun inkâr etmişlerdir. Oysa tek bir ilahtan başka ilah yoktur.",
+   "baglanti": "171. ayetteki 'üçtür demeyin' uyarısının doğrudan karşılığı olan bir ayettir."
+  },
+  {
+   "ref": "19:35",
+   "meal": "Allah'ın bir çocuk edinmesi düşünülemez; O bundan münezzehtir. Bir işe hükmettiği zaman ona sadece 'ol' der, o da hemen oluverir.",
+   "baglanti": "'Allah'ın bir çocuğu olmaktan münezzeh olduğu' ifadesini aynı kelimelerle tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, İslam'ın tevhid inancı ile teslis inancı arasındaki farktır; bu, itikadi ve tarihsel bir konudur. Bugüne taşınabilecek ders, 'dinde aşırı gitmeme' ilkesidir.",
+  "Bir inancı veya fikri savunurken ölçüyü kaçırmak, hem o fikri hem de kişiyi zorlayabilir. Sevilen bir kişiyi ya da öğretiyi aşırı yüceltmek dengeyi bozabilir; ayetin 'aşırı gitmeyin' uyarısı bu genel ilkeyi de hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir konuda dengeyi koru",
+   "aciklama": "Bugün savunduğun bir fikirde, ölçüyü kaçırıp kaçırmadığını gözden geçir."
+  },
+  {
+   "baslik": "Farklı inançlara saygılı ol",
+   "aciklama": "Kendi inancını anlatırken başka bir inancı aşağılamadan, net ama saygılı bir dil kullan."
+  },
+  {
+   "baslik": "Bir kişiyi aşırı yüceltmekten kaçın",
+   "aciklama": "Hayran olduğun bir kişiyi eleştirilemez göstermek yerine, onu insani sınırları içinde değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konudaki görüşünü, karşı tarafı küçümsemeden ama net biçimde ifade et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=171"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/171"
+  }
+ ]
+}
