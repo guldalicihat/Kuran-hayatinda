@@ -1,0 +1,369 @@
+{
+ "sure": 6,
+ "ayet": 70,
+ "durum": "taslak",
+ "meal": "Dinlerini oyun ve eğlence edinen, dünya hayatının kendilerini aldattığı kimseleri bırak; sen Kur'an ile hatırlat ki bir kimse kazandığı yüzünden helake sürüklenmesin. Onun için Allah'tan başka ne bir dost ne bir şefaatçi vardır. Her türlü fidyeyi verse de ondan kabul edilmez. İşte onlar, kazandıkları yüzünden helake sürüklenenlerdir; inkâr etmiş olmaları sebebiyle onlara kaynar sudan bir içecek ve acı bir azap vardır.",
+ "mealNotu": "'Übsilû' kökü (بسل) rehin bırakılma, karşılığını ödeyememe, çıkışı olmayan bir mahkûmiyeti anlatır; 'helake sürüklenme' bu anlamı karşılar. 'Adl' burada fidye/bedel anlamındadır. 'Zeri' (bırak) emri, ilgiyi kesmek değil, o kişilerin tutumuna razı olmayıp Kur'an'la uyarmayı sürdürmektir.",
+ "kokler": [
+  {
+   "kelime": "وَذَرِ",
+   "okunus": "ve zeri",
+   "kok": "وذر",
+   "kokAnlam": "bırakma, terk etme",
+   "karsilik": "bırak"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseleri"
+  },
+  {
+   "kelime": "ٱتَّخَذُوا۟",
+   "okunus": "ittehazû",
+   "kok": "أخذ",
+   "kokAnlam": "edinme, alma",
+   "karsilik": "edinen"
+  },
+  {
+   "kelime": "دِينَهُمْ",
+   "okunus": "dînehüm",
+   "kok": "دين",
+   "kokAnlam": "din",
+   "karsilik": "dinlerini"
+  },
+  {
+   "kelime": "لَعِبًا",
+   "okunus": "leiben",
+   "kok": "لعب",
+   "kokAnlam": "oyun",
+   "karsilik": "oyun"
+  },
+  {
+   "kelime": "وَلَهْوًا",
+   "okunus": "ve lehven",
+   "kok": "لهو",
+   "kokAnlam": "eğlence, oyalanma",
+   "karsilik": "ve eğlence"
+  },
+  {
+   "kelime": "وَغَرَّتْهُمُ",
+   "okunus": "ve garrathümü",
+   "kok": "غرر",
+   "kokAnlam": "aldatma",
+   "karsilik": "kendilerini aldattığı"
+  },
+  {
+   "kelime": "ٱلْحَيَوٰةُ",
+   "okunus": "elhayâtü",
+   "kok": "حيي",
+   "kokAnlam": "hayat, yaşam",
+   "karsilik": "hayatın"
+  },
+  {
+   "kelime": "ٱلدُّنْيَا",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakın, alçak; dünya",
+   "karsilik": "dünya"
+  },
+  {
+   "kelime": "وَذَكِّرْ",
+   "okunus": "ve zekkir",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlatma, öğüt verme",
+   "karsilik": "sen hatırlat"
+  },
+  {
+   "kelime": "بِهِۦٓ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onunla",
+   "karsilik": "Kur'an ile"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesin diye",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "تُبْسَلَ",
+   "okunus": "tübsele",
+   "kok": "بسل",
+   "kokAnlam": "rehin bırakılma, çıkışsız kalma",
+   "karsilik": "helake sürüklenmesin"
+  },
+  {
+   "kelime": "نَفْسٌۢ",
+   "okunus": "nefsün",
+   "kok": "نفس",
+   "kokAnlam": "kişi, nefis",
+   "karsilik": "bir kimse"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "yüzünden"
+  },
+  {
+   "kelime": "كَسَبَتْ",
+   "okunus": "kesebet",
+   "kok": "كسب",
+   "kokAnlam": "kazanma, elde etme",
+   "karsilik": "kazandığı"
+  },
+  {
+   "kelime": "لَيْسَ",
+   "okunus": "leyse",
+   "kok": "ليس",
+   "kokAnlam": "olmama",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "لَهَا",
+   "okunus": "lehâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) onun için",
+   "karsilik": "onun için"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِ",
+   "okunus": "dûni",
+   "kok": "دون",
+   "kokAnlam": "aşağı, -den başka",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "وَلِىٌّ",
+   "okunus": "veliyyün",
+   "kok": "ولي",
+   "kokAnlam": "dost, koruyucu",
+   "karsilik": "ne bir dost"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "شَفِيعٌ",
+   "okunus": "şefîun",
+   "kok": "شفع",
+   "kokAnlam": "şefaat etme, aracılık",
+   "karsilik": "bir şefaatçi"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَعْدِلْ",
+   "okunus": "ta'dil",
+   "kok": "عدل",
+   "kokAnlam": "adalet; fidye verme, denk bedel ödeme",
+   "karsilik": "her türlü fidyeyi verse"
+  },
+  {
+   "kelime": "كُلَّ",
+   "okunus": "külle",
+   "kok": "كلل",
+   "kokAnlam": "her, bütün",
+   "karsilik": "her türlü"
+  },
+  {
+   "kelime": "عَدْلٍ",
+   "okunus": "adlin",
+   "kok": "عدل",
+   "kokAnlam": "denklik, fidye, bedel",
+   "karsilik": "fidyeyi"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يُؤْخَذْ",
+   "okunus": "yü'haz",
+   "kok": "أخذ",
+   "kokAnlam": "alma, kabul etme",
+   "karsilik": "kabul edilmez"
+  },
+  {
+   "kelime": "مِنْهَآ",
+   "okunus": "minhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "أُبْسِلُوا۟",
+   "okunus": "übsilû",
+   "kok": "بسل",
+   "kokAnlam": "rehin bırakılma, çıkışsız kalma",
+   "karsilik": "helake sürüklenenler"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "yüzünden"
+  },
+  {
+   "kelime": "كَسَبُوا۟",
+   "okunus": "kesebû",
+   "kok": "كسب",
+   "kokAnlam": "kazanma, elde etme",
+   "karsilik": "kazandıkları"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "شَرَابٌ",
+   "okunus": "şerâbün",
+   "kok": "شرب",
+   "kokAnlam": "içecek",
+   "karsilik": "bir içecek"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "حَمِيمٍ",
+   "okunus": "hamîmin",
+   "kok": "حمم",
+   "kokAnlam": "kaynar su, yakıcı sıcaklık",
+   "karsilik": "kaynar su"
+  },
+  {
+   "kelime": "وَعَذَابٌ",
+   "okunus": "ve azâbün",
+   "kok": "عذب",
+   "kokAnlam": "azap, ceza",
+   "karsilik": "ve bir azap"
+  },
+  {
+   "kelime": "أَلِيمٌۢ",
+   "okunus": "elîmün",
+   "kok": "ألم",
+   "kokAnlam": "acı, elem verici",
+   "karsilik": "acı"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "sebebiyle"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "يَكْفُرُونَ",
+   "okunus": "yekfürûne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr etmiş olmaları"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, dinlerini ciddiyetsizce bir oyun ve eğlenceye çeviren, dünya hayatının aldattığı kimselerden söz eder. Peygamber'e bu kimseleri 'bırakması', yani onların tutumuna ortak olmaması, buna karşılık Kur'an ile hatırlatma görevini sürdürmesi emredilir.",
+  "Ayet, hesap gününde hiçbir dost, şefaatçi veya fidyenin bir kimseyi kurtaramayacağını anlatır. 'Übsilû' kökü, kişinin kendi kazandığı şeyler yüzünden çıkışsız bir duruma düştüğünü, bunun kaynar bir içecek ve acı bir azapla sonuçlandığını bildirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:51",
+   "meal": "Onlar dinlerini eğlence ve oyun edinmiş, dünya hayatı da kendilerini aldatmıştı. Bugün onları unuturuz; bu günle karşılaşacaklarını unuttukları ve ayetlerimizi inkâr ettikleri gibi.",
+   "baglanti": "Dini oyun ve eğlence edinme, dünya hayatının aldatması ifadeleri neredeyse birebir aynıdır."
+  },
+  {
+   "ref": "2:48",
+   "meal": "Öyle bir günden sakının ki, o gün hiç kimse başkası için bir şey ödeyemez, kimseden şefaat kabul edilmez, kimseden fidye alınmaz ve onlara yardım da edilmez.",
+   "baglanti": "Kimseden fidye alınmayacağı ve şefaatin kabul edilmeyeceği ilkesi, 6:70'teki aynı uyarıyı Bakara suresinde tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dini ciddiyetsiz bir eğlence konusuna indirgemenin sonuçlarıdır. Bugüne taşınabilecek ders, önemli değerleri gelip geçici bir oyun gibi görmenin insanı asıl sorumluluğundan uzaklaştırabileceğidir.",
+  "Dünya hayatının çekiciliği, insanı bazen asıl önemli olanı ertelemeye ya da önemsememeye sürükler. Bu ayet, bu aldanmaya karşı uyanık kalmayı, hatırlatmayı sürdürmeyi ve kimsenin sonunda kendi kazandığından başka bir dayanağı olmadığını hatırlamayı öğütler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önemliyi ciddiye al",
+   "aciklama": "Bugün, önemsiz görüp geçiştirdiğin bir değeri -bir söz, bir sorumluluk- yeniden ciddiyetle ele al."
+  },
+  {
+   "baslik": "Aldatıcı çekiciliği fark et",
+   "aciklama": "Zamanını çalan ama uzun vadede boş bir eğlenceyi bugün sınırla."
+  },
+  {
+   "baslik": "Hatırlatmaya devam et",
+   "aciklama": "Vazgeçmek istediğin bir uyarı veya öğüdü, kabul görmese bile nazikçe bir kez daha tekrarla."
+  }
+ ],
+ "bugununAdimi": "Bugün, ciddiyetsizce ertelediğin bir sorumluluğu yeniden ele alıp ona küçük bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=70"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/70"
+  }
+ ]
+}

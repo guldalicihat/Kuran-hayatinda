@@ -1,0 +1,208 @@
+{
+ "sure": 6,
+ "ayet": 57,
+ "durum": "taslak",
+ "meal": "De ki: 'Ben Rabbimden apaçık bir delil üzerindeyim; siz ise onu yalanladınız. Acele istediğiniz şey yanımda değil. Hüküm ancak Allah'ındır; O, hakkı anlatır ve O, ayırt edenlerin en hayırlısıdır.'",
+ "mealNotu": "'Kussu' kökü (قصص) kıssa anlatmayı, iz sürerek ortaya koymayı anlatır; burada 'hakkı anlatır' ile karşılanmıştır, salt 'hükmeder' değildir. 'Fâsılîn' kökü ayırt etme, gerçeği yanlıştan ayırma anlamı taşır.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "إِنِّى",
+   "okunus": "innî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz ben",
+   "karsilik": "ben"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "üzerindeyim"
+  },
+  {
+   "kelime": "بَيِّنَةٍ",
+   "okunus": "beyyinetin",
+   "kok": "بين",
+   "kokAnlam": "açıklık, apaçık delil",
+   "karsilik": "apaçık bir delil"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّى",
+   "okunus": "rabbî",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye",
+   "karsilik": "Rabbimden"
+  },
+  {
+   "kelime": "وَكَذَّبْتُم",
+   "okunus": "ve kezzebtüm",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "siz yalanladınız"
+  },
+  {
+   "kelime": "بِهِۦٓ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "عِندِى",
+   "okunus": "indî",
+   "kok": "عند",
+   "kokAnlam": "yanında olma, katında olma",
+   "karsilik": "yanımda"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "تَسْتَعْجِلُونَ",
+   "okunus": "testa'cilûne",
+   "kok": "عجل",
+   "kokAnlam": "acele etme, çabuklaştırma isteme",
+   "karsilik": "acele istediğiniz"
+  },
+  {
+   "kelime": "بِهِۦٓ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "إِنِ",
+   "okunus": "ini",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "ٱلْحُكْمُ",
+   "okunus": "elhukmü",
+   "kok": "حكم",
+   "kokAnlam": "hüküm, karar verme",
+   "karsilik": "hüküm"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ındır"
+  },
+  {
+   "kelime": "يَقُصُّ",
+   "okunus": "yekussu",
+   "kok": "قصص",
+   "kokAnlam": "anlatma, iz sürerek ortaya koyma",
+   "karsilik": "hakkı anlatır"
+  },
+  {
+   "kelime": "ٱلْحَقَّ",
+   "okunus": "elhakka",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, doğru olan",
+   "karsilik": "hakkı"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve o",
+   "karsilik": "ve O"
+  },
+  {
+   "kelime": "خَيْرُ",
+   "okunus": "hayru",
+   "kok": "خير",
+   "kokAnlam": "en hayırlı, en iyi",
+   "karsilik": "en hayırlısıdır"
+  },
+  {
+   "kelime": "ٱلْفَٰصِلِينَ",
+   "okunus": "elfâsılîne",
+   "kok": "فصل",
+   "kokAnlam": "ayırt etme, hakkı batıldan ayırma",
+   "karsilik": "ayırt edenlerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 56. ayetin devamı olarak Peygamber'e kendini nasıl savunacağını öğretir: 'Ben Rabbimden apaçık bir delil üzerindeyim.' 'Beyyine' kökü, şüpheye yer bırakmayan açık bir kanıtı anlatır; Peygamber'in daveti kişisel bir iddia değil, dayanağı olan bir gerçektir. Buna karşılık muhataplar onu yalanlamıştır.",
+  "Müşrikler bir uyarının veya azabın acele gelmesini istemiş olmalı ki ayet 'acele istediğiniz şey yanımda değil' der; bunun zamanını belirlemek Peygamber'in yetkisinde değildir, yalnız Allah'a aittir. 'Yekussul hakk' ifadesi, Allah'ın gerçeği ortaya koyduğunu, O'nun ayırt edenlerin en hayırlısı olduğunu bildirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:52",
+   "meal": "De ki: 'Benimle sizin aranızda şahit olarak Allah yeter. O, göklerde ve yerde olanı bilir. Batıla inanıp Allah'ı inkâr edenler var ya, işte onlar hüsrana uğrayanlardır.'",
+   "baglanti": "Peygamber kendi sözüne değil, Allah'ı şahit göstermeye dayanır; 'apaçık delil üzerindeyim' ifadesiyle aynı güveni taşır."
+  },
+  {
+   "ref": "12:40",
+   "meal": "Siz O'nu bırakıp da sizin ve atalarınızın taktığı isimlerden başka bir şeye tapmıyorsunuz; Allah onlara hiçbir delil indirmemiştir. Hüküm ancak Allah'ındır. O, yalnız kendisine kulluk etmenizi emretmiştir. İşte dosdoğru din budur; fakat insanların çoğu bilmez.",
+   "baglanti": "'Hüküm ancak Allah'ındır' cümlesi burada da birebir aynı şekilde geçer."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in elinde olmayan bir talebe -bir uyarının hemen gerçekleşmesine- verdiği cevaptır. Bugüne taşınabilecek ders, elimizde olmayan sonuçları, örneğin zamanlamayı veya başkalarının kararını, kendi sorumluluğumuz gibi üstlenmemektir.",
+  "Bir konuda haklı olduğuna inanan biri bile, 'ne zaman' ve 'nasıl' sorularının cevabını her zaman kontrol edemez. Bu ayet, elindeki delile güvenip sonucu sabırla beklemeyi öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Elinde olmayanı bırak",
+   "aciklama": "Kontrolünde olmayan bir sonucu bugün zihninde ayır; yalnız kendi payına düşen kısma odaklan."
+  },
+  {
+   "baslik": "Dayanağını netleştir",
+   "aciklama": "Savunduğun bir görüşün dayandığı somut sebebi bir cümleyle yaz."
+  },
+  {
+   "baslik": "Sabırla bekle",
+   "aciklama": "Bugün cevabını hemen alamayacağın bir konuda 'zamanı gelince' diyerek sabret."
+  }
+ ],
+ "bugununAdimi": "Bugün elinde olmayan bir sonucu bırakıp yalnızca kendi yapabileceğin adımı at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=57"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/57"
+  }
+ ]
+}

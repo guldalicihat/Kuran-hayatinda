@@ -1,0 +1,89 @@
+{
+ "sure": 6,
+ "ayet": 67,
+ "durum": "taslak",
+ "meal": "Her haberin gerçekleşeceği bir zaman/yer vardır; siz de yakında bileceksiniz.",
+ "mealNotu": "'Müstekarr' kökü (قرر) yerleşme, karar kılma, sabit olmayı anlatır; burada 'gerçekleşeceği zaman/yer' ile karşılanmıştır.",
+ "kokler": [
+  {
+   "kelime": "لِّكُلِّ",
+   "okunus": "likülli",
+   "kok": "كلل",
+   "kokAnlam": "her, bütün",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "نَبَإٍ",
+   "okunus": "nebein",
+   "kok": "نبأ",
+   "kokAnlam": "haber",
+   "karsilik": "haberin"
+  },
+  {
+   "kelime": "مُّسْتَقَرٌّ",
+   "okunus": "müstekarrun",
+   "kok": "قرر",
+   "kokAnlam": "yerleşme, karar kılma, sabitlenme",
+   "karsilik": "gerçekleşeceği bir zaman/yer"
+  },
+  {
+   "kelime": "وَسَوْفَ",
+   "okunus": "ve sevfe",
+   "kok": "—",
+   "kokAnlam": "(gelecek) yakında",
+   "karsilik": "ve yakında"
+  },
+  {
+   "kelime": "تَعْلَمُونَ",
+   "okunus": "ta'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bileceksiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet çok kısa ama yoğun bir uyarı taşır: her haberin -verilen her söz, her tehdit veya müjde- bir gerçekleşme zamanı/noktası vardır. Klasik tefsir bu haberi, özellikle önceki ayetlerde geçen uyarı ve azap haberlerine bağlar.",
+  "'Yakında bileceksiniz' ifadesi, sonucun ertelenmiş olmasının onun gerçekleşmeyeceği anlamına gelmediğini bildirir. Bu, 6:58'deki 'acele istediğiniz şey yanımda değil' ifadesiyle aynı temayı, daha genel bir ilke olarak tekrarlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "38:88",
+   "meal": "Onun haberini bir süre sonra mutlaka bileceksiniz.",
+   "baglanti": "'Bir süre sonra bileceksiniz' ifadesi, 6:67'deki 'yakında bileceksiniz' uyarısının bir başka anlatımıdır."
+  },
+  {
+   "ref": "78:4",
+   "meal": "Hayır, ileride bilecekler.",
+   "baglanti": "Aynı kısa ve kesin uyarı üslubu; sonucun ileride ortaya çıkacağı vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, her haberin kendi zamanında ortaya çıkacağıdır. Bugüne taşınabilecek ders, sonucunu hemen görmediğimiz sözlerin veya kararların boşa gitmediğidir.",
+  "Bir sözün, bir uyarının veya bir emeğin sonucu bazen yıllar sonra ortaya çıkar. Bu ayet, sabırla beklemenin ve sonucu zamana bırakmanın makul bir tutum olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Beklettiğin bir konuyu yaz",
+   "aciklama": "Sonucunu bilmediğin, sabırla beklediğin bir konuyu bugün not et."
+  },
+  {
+   "baslik": "Erken hüküm verme",
+   "aciklama": "Bugün henüz sonuçlanmamış bir olay hakkında kesin yargıya varmaktan kaçın."
+  },
+  {
+   "baslik": "Emeğine güven",
+   "aciklama": "Sonucu görünmeyen bir çabanı, zamanı gelince ortaya çıkar diyerek sürdür."
+  }
+ ],
+ "bugununAdimi": "Bugün sonucunu göremediğin bir emeğini bırakmadan, sabırla bir adım daha at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=67"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/67"
+  }
+ ]
+}
