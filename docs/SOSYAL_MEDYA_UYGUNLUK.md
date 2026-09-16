@@ -29,12 +29,29 @@ sokulmaz (site içeriğinde tam açıklamaları vardır, sosyal medyada değil):
 ## Uygun kategoriler (öncelikli havuz)
 
 - Sabır, tevekkül, şükür
+- İman (genel iman ilkeleri; itikadi tartışma/karşılaştırma değil)
+- Namaz (devamlılık, huzur; fıkhi rekat/şekil ayrıntısı değil)
+- İnfak — ÖZELLİKLE ÖNCELİKLİ (cömertlik, paylaşma; miras/zekât fıkhı değil)
+- Rızık ve kanaat (Allah'ın rızık vaadi, kıskançlık yerine kanaat; miras/kazanç payı hukuku değil)
+- Evlat (şefkat, sorumluluk, güven; miras/nafaka hukuku değil — bu tema için ayet seçerken özellikle dikkatli ol, bkz. aşağıdaki "Özellikle dikkat" maddesi)
 - Aile ilişkileri (anne-baba, evlilik saygısı — hüküm değil, ahlaki tutum)
 - Kalp hâlleri: kibir, kıskançlık, öfke, huzur, korku
 - Dua, tövbe, bağışlama
-- Doğruluk, adalet, emanet (genel ahlaki ilke olarak, hukuki madde olarak değil)
+- Doğruluk, adalet, emanet, ahlak (genel ahlaki ilke olarak, hukuki madde olarak değil)
+- Helal/haram bilinci (dinde olmayan yasak koymama, sınırı aşmama — belirli bir haram listesi hukuku değil)
+- Çalışkan olma, emek (yalnız ayetin AÇIKÇA genel bir ilke olarak söylediği durumlarda; belirli bir tarihî gruba özel müjde ayetleri kullanılmaz)
+- Duyarlı olma (çevresindekini fark etme, yardımlaşma)
+- Cennet, cehennem (yalnız genel bir hatırlatma/teşvik tonuyla; korkutucu, tehdit edici veya birini "cehennemlik" ilan eden bir çerçeve asla kullanılmaz — bkz. aşağıdaki "Özellikle dikkat")
+- Kader (yalnız 6:125 türü dengeli ayetlerle; determinist bir okuma asla dayatılmaz — bkz. aşağıdaki "Özellikle dikkat")
 - Ölüm, geçicilik, ahiret bilinci (genel hatırlatma olarak)
 - Yaratılış ve tefekkür ayetleri (gökyüzü, doğa, insanın kendisi)
+
+## Özellikle dikkat gerektiren temalar
+
+- **Cehennem:** Asla korkutma/tehdit tonu kullanılmaz. Soru, "sonuçlarını düşünmek" çerçevesinde, şefkatli bir hatırlatma olarak kurulur; kimseyi hedef almaz, "sen cehennemliksin" izlenimi vermez.
+- **Kader:** Determinist ("her şey zaten yazılmıştı, çaban boşuna") okuma asla verilmez. Ayetin kendi dengesi (kulun tercihi + Allah'ın bilgisi) korunur.
+- **Evlat:** Sert/rahatsız edici dil taşıyan ayetler (örn. cahiliye dönemi uygulamalarına atıf) bu temada kullanılmaz; yalnız şefkat/sorumluluk/güven eksenli, sakin ayetler seçilir.
+- **Çalışkan olma:** Ayetin geneli belirli bir tarihî gruba (savaşanlar, muhacirler, şehitler) özgüyse, yalnız açılış cümlesini kullanmak yasaktır; ayet BAŞTAN SONA genel bir ilkeyse kullanılır.
 
 ## Eşleşme denetim süreci (her ayet için zorunlu)
 
