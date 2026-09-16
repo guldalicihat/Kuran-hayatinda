@@ -1,0 +1,355 @@
+{
+ "sure": 3,
+ "ayet": 195,
+ "durum": "taslak",
+ "meal": "Rableri onlara şöyle karşılık verdi: 'Ben, içinizden erkek olsun kadın olsun, çalışan hiçbir kimsenin amelini boşa çıkarmam; hepiniz birbirinizdensiniz. Göç edenler, yurtlarından çıkarılanlar, benim yolumda eziyet görenler, savaşanlar ve öldürülenler; onların kötülüklerini elbette örteceğim ve onları, altından ırmaklar akan cennetlere, Allah katından bir mükâfat olarak elbette sokacağım. En güzel mükâfat, Allah katındadır.'",
+ "mealNotu": "'Üdîu' kökü kaybetme/zayi etmeyi, 'sevâb' kökü karşılık ve mükâfatı anlatır. 'Bazınız bazınızdandır' ifadesi 'ba'duküm mim ba'dın' kalıbının doğrudan karşılığıdır ve erkek-kadın ayrımı gözetmeksizin eşit değerlendirmeyi vurgular.",
+ "kokler": [
+  {
+   "kelime": "فَٱسْتَجَابَ",
+   "okunus": "festecâbe",
+   "kok": "جوب",
+   "kokAnlam": "karşılık verme, icabet",
+   "karsilik": "karşılık verdi"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "رَبُّهُمْ",
+   "okunus": "rabbühüm",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rableri"
+  },
+  {
+   "kelime": "أَنِّى",
+   "okunus": "ennî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz ben",
+   "karsilik": "şüphesiz ben"
+  },
+  {
+   "kelime": "لَآ",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mam",
+   "karsilik": "-mam"
+  },
+  {
+   "kelime": "أُضِيعُ",
+   "okunus": "üdîu",
+   "kok": "ضيع",
+   "kokAnlam": "kaybetme, zayi etme",
+   "karsilik": "boşa çıkarmam"
+  },
+  {
+   "kelime": "عَٰمِلٍ",
+   "okunus": "amele",
+   "kok": "عمل",
+   "kokAnlam": "iş, amel",
+   "karsilik": "amelini"
+  },
+  {
+   "kelime": "عَٰمِلٍ",
+   "okunus": "âmilin",
+   "kok": "عمل",
+   "kokAnlam": "iş, amel",
+   "karsilik": "çalışan"
+  },
+  {
+   "kelime": "مِّنكُم",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat) içinizden",
+   "karsilik": "içinizden"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ذَكَرٍ",
+   "okunus": "zekerin",
+   "kok": "ذكر",
+   "kokAnlam": "erkek, hatırlama",
+   "karsilik": "erkek olsun"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "أُنثَىٰ",
+   "okunus": "ünsâ",
+   "kok": "أنث",
+   "kokAnlam": "kadın, dişilik",
+   "karsilik": "kadın olsun"
+  },
+  {
+   "kelime": "بَعْضُكُم",
+   "okunus": "ba'duküm",
+   "kok": "بعض",
+   "kokAnlam": "parça, kısım",
+   "karsilik": "bir kısmınız"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -densiniz",
+   "karsilik": "-densiniz"
+  },
+  {
+   "kelime": "بَعْضٍ",
+   "okunus": "ba'dın",
+   "kok": "بعض",
+   "kokAnlam": "parça, kısım",
+   "karsilik": "bir diğer kısımdan"
+  },
+  {
+   "kelime": "فَٱلَّذِينَ",
+   "okunus": "fellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) işte o kimseler",
+   "karsilik": "işte o kimseler ki"
+  },
+  {
+   "kelime": "هَاجَرُوا۟",
+   "okunus": "hâcerû",
+   "kok": "هجر",
+   "kokAnlam": "göç etme, hicret",
+   "karsilik": "göç ettiler"
+  },
+  {
+   "kelime": "وَأُخْرِجُوا۟",
+   "okunus": "ve ühricû",
+   "kok": "خرج",
+   "kokAnlam": "çıkma",
+   "karsilik": "ve çıkarıldılar"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دِيَٰرِهِمْ",
+   "okunus": "diyârihim",
+   "kok": "دور",
+   "kokAnlam": "ev, yurt",
+   "karsilik": "yurtlarından"
+  },
+  {
+   "kelime": "وَأُوذُوا۟",
+   "okunus": "ve ûzû",
+   "kok": "أذي",
+   "kokAnlam": "eziyet, sıkıntı",
+   "karsilik": "ve eziyet gördüler"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِى",
+   "okunus": "sebîlî",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolumda"
+  },
+  {
+   "kelime": "وَقُتِلُوا۟",
+   "okunus": "ve kâtelû",
+   "kok": "قتل",
+   "kokAnlam": "savaşma, öldürme",
+   "karsilik": "ve savaştılar"
+  },
+  {
+   "kelime": "وَقُتِلُوا۟",
+   "okunus": "ve kutilû",
+   "kok": "قتل",
+   "kokAnlam": "savaşma, öldürme",
+   "karsilik": "ve öldürüldüler"
+  },
+  {
+   "kelime": "لَأُكَفِّرَنَّ",
+   "okunus": "leükeffiranne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; günah örtme",
+   "karsilik": "elbette örteceğim"
+  },
+  {
+   "kelime": "عَنْهُمْ",
+   "okunus": "anhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "سَيِّـَٔاتِهِمْ",
+   "okunus": "seyyiâtihim",
+   "kok": "سوأ",
+   "kokAnlam": "kötülük",
+   "karsilik": "kötülüklerini"
+  },
+  {
+   "kelime": "وَلَأُدْخِلَنَّهُمْ",
+   "okunus": "ve leüdhılennehüm",
+   "kok": "دخل",
+   "kokAnlam": "girme",
+   "karsilik": "ve onları elbette sokacağım"
+  },
+  {
+   "kelime": "جَنَّٰتٍ",
+   "okunus": "cennâtin",
+   "kok": "جنن",
+   "kokAnlam": "örtülü, gizli; bahçe",
+   "karsilik": "cennetlere"
+  },
+  {
+   "kelime": "تَجْرِى",
+   "okunus": "tecrî",
+   "kok": "جري",
+   "kokAnlam": "akma, koşma",
+   "karsilik": "akan"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "تَحْتِهَا",
+   "okunus": "tahtihâ",
+   "kok": "تحت",
+   "kokAnlam": "alt",
+   "karsilik": "altından"
+  },
+  {
+   "kelime": "ٱلْأَنْهَٰرُ",
+   "okunus": "el'enhâru",
+   "kok": "نهر",
+   "kokAnlam": "nehir",
+   "karsilik": "ırmaklar"
+  },
+  {
+   "kelime": "ثَوَابًا",
+   "okunus": "sevâben",
+   "kok": "ثوب",
+   "kokAnlam": "dönüş, karşılık",
+   "karsilik": "bir mükafat olarak"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "عِندِ",
+   "okunus": "indi",
+   "kok": "عند",
+   "kokAnlam": "yan, kat",
+   "karsilik": "katından"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عِندَهُۥ",
+   "okunus": "indehû",
+   "kok": "عند",
+   "kokAnlam": "yan, kat",
+   "karsilik": "kendi katındadır"
+  },
+  {
+   "kelime": "حُسْنُ",
+   "okunus": "husnü",
+   "kok": "حسن",
+   "kokAnlam": "güzellik, iyilik",
+   "karsilik": "en güzeli"
+  },
+  {
+   "kelime": "ٱلثَّوَابِ",
+   "okunus": "essevâbi",
+   "kok": "ثوب",
+   "kokAnlam": "dönüş, karşılık",
+   "karsilik": "mükafatın"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 191-194'teki duaya Rabbin verdiği karşılığı anlatır: hiçbir çalışanın -erkek-kadın ayrımı gözetmeksizin- ameli boşa gitmez. Ardından, göç eden, yurdundan çıkarılan, eziyet gören, savaşan ve öldürülenler özel olarak anılır.",
+  "Bu ayet, önceki mücadelelerde büyük bedel ödeyen müminlere doğrudan bir müjdedir. Klasik tefsir, bu ayeti hem Mekke'den Medine'ye hicret edenlerin hem de savaşta bedel ödeyenlerin durumuna işaret ettiği şeklinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "16:97",
+   "meal": "Erkek veya kadın, kim mümin olarak salih bir amel işlerse, ona hoş bir hayat yaşatırız ve mükâfatlarını yaptıklarının en güzeliyle veririz.",
+   "baglanti": "Erkek-kadın ayrımı gözetmeksizin amelin karşılıksız kalmayacağı ilkesi burada da aynı şekilde vurgulanır."
+  },
+  {
+   "ref": "9:20",
+   "meal": "İman edip hicret edenler ve mallarıyla, canlarıyla Allah yolunda cihad edenler, Allah katında derece bakımından en büyük olanlardır; işte onlar kurtuluşa erenlerdir.",
+   "baglanti": "Hicret edip Allah yolunda mücadele edenlerin yüksek mertebesi burada da aynı şekilde müjdelenir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hicret eden, yurdundan çıkarılan, eziyet gören ve savaşta bedel ödeyen müminlere verilen özel mükâfat müjdesidir.",
+  "Bugüne taşınabilecek genel ders, hiçbir doğru çabanın -kim tarafından yapılırsa yapılsın- boşa gitmeyeceğidir. Bir işi erkek ya da kadının yapmış olması onun değerini değiştirmez; asıl ölçü niyetin ve emeğin kendisidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Emeğini küçümseme",
+   "aciklama": "Bugün yaptığın küçük bir iyiliğin, gözden kaçsa bile boşa gitmediğini hatırla."
+  },
+  {
+   "baslik": "Eşit değer ver",
+   "aciklama": "Bir işte katkı sağlayan herkesin emeğini, cinsiyet farkı gözetmeksizin takdir et."
+  },
+  {
+   "baslik": "Bedel ödemeyi göze al",
+   "aciklama": "Doğru bir şey için bugün küçük bir fedakarlık yapmaktan çekinme."
+  }
+ ],
+ "bugununAdimi": "Bugün yaptığın bir iyiliğin karşılığını beklemeden, sadece Allah rızası için yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=195"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/195"
+  }
+ ]
+}

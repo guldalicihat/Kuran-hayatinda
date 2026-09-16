@@ -1,0 +1,306 @@
+{
+ "sure": 3,
+ "ayet": 179,
+ "durum": "taslak",
+ "meal": "Allah, murdarı temizden ayırt edinceye kadar müminleri sizin şu an bulunduğunuz durumda bırakacak değildir. Allah sizi gayb üzerine muttali kılacak da değildir; fakat Allah, resûllerinden dilediğini seçer. Öyleyse Allah'a ve resûllerine iman edin. Eğer iman eder ve sakınırsanız, sizin için büyük bir mükâfat vardır.",
+ "mealNotu": "'Yemîz' kökü ayırt etmeyi, 'yectebî' kökü seçip toplamayı anlatır. Cümlede iki kez 'kânallâhü li...' kalıbı geçer; ikisi de 'Allah ...olacak değildir' anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "مَآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değildir",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olacak"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لِيَذَرَ",
+   "okunus": "liyezera",
+   "kok": "وذر",
+   "kokAnlam": "bırakma, terk etme",
+   "karsilik": "bırakacak"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنِينَ",
+   "okunus": "elmü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanan",
+   "karsilik": "müminleri"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzere",
+   "karsilik": "üzere"
+  },
+  {
+   "kelime": "مَآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "bulunduğunuz şey"
+  },
+  {
+   "kelime": "أَنتُمْ",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) onun üzerinde",
+   "karsilik": "onun üzerinde"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ta ki",
+   "karsilik": "ta ki"
+  },
+  {
+   "kelime": "يَمِيزَ",
+   "okunus": "yemîze",
+   "kok": "ميز",
+   "kokAnlam": "ayırt etme",
+   "karsilik": "ayırt edinceye kadar"
+  },
+  {
+   "kelime": "ٱلْخَبِيثَ",
+   "okunus": "elhabîse",
+   "kok": "خبث",
+   "kokAnlam": "pislik, kötülük",
+   "karsilik": "murdarı"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلطَّيِّبِ",
+   "okunus": "ettayyibi",
+   "kok": "طيب",
+   "kokAnlam": "temizlik, hoşluk",
+   "karsilik": "temizden"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değildir",
+   "karsilik": "ve değildir"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olacak"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لِيُطْلِعَكُمْ",
+   "okunus": "liyütliaküm",
+   "kok": "طلع",
+   "kokAnlam": "görünme, ortaya çıkma; muttali kılma",
+   "karsilik": "sizi muttali kılacak"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلْغَيْبِ",
+   "okunus": "elgaybi",
+   "kok": "غيب",
+   "kokAnlam": "gizlilik",
+   "karsilik": "gayb"
+  },
+  {
+   "kelime": "وَلَٰكِنَّ",
+   "okunus": "ve lâkinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَجْتَبِى",
+   "okunus": "yectebî",
+   "kok": "جبي",
+   "kokAnlam": "seçme, toplama",
+   "karsilik": "seçer"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رُّسُلِهِۦ",
+   "okunus": "rusülihî",
+   "kok": "رسل",
+   "kokAnlam": "elçilik, gönderme",
+   "karsilik": "resûllerinden"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimi",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "فَـَٔامِنُوا۟",
+   "okunus": "feâminû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "öyleyse iman edin"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَرُسُلِهِۦ",
+   "okunus": "ve rusülihî",
+   "kok": "رسل",
+   "kokAnlam": "elçilik, gönderme",
+   "karsilik": "ve resûllerine"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) ve eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "تُؤْمِنُوا۟",
+   "okunus": "tü'minû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman ederseniz"
+  },
+  {
+   "kelime": "وَتَتَّقُوا۟",
+   "okunus": "ve tettekû",
+   "kok": "وقي",
+   "kokAnlam": "korunma, takva",
+   "karsilik": "ve sakınırsanız"
+  },
+  {
+   "kelime": "فَلَكُمْ",
+   "okunus": "feleküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin için vardır",
+   "karsilik": "sizin için vardır"
+  },
+  {
+   "kelime": "أَجْرٌ",
+   "okunus": "ecrun",
+   "kok": "أجر",
+   "kokAnlam": "ücret, mükafat",
+   "karsilik": "bir mükafat"
+  },
+  {
+   "kelime": "عَظِيمٌ",
+   "okunus": "azîmün",
+   "kok": "عظم",
+   "kokAnlam": "büyüklük",
+   "karsilik": "büyük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, müminlerin içinde bulunduğu belirsiz durumun -kimin gerçek mümin kimin münafık olduğunun karışık göründüğü hâlin- sürekli kalmayacağını, imtihanlarla temizin murdardan ayrılacağını bildirir.",
+  "Gaybın bilgisi insana verilmez; ancak Allah dilediği resûlünü seçip ona bazı bilgiler bildirebilir. Klasik tefsir, bu ayeti münafıkların Uhud'da ortaya çıkmasıyla ilişkilendirir; imtihan gizli olanı görünür kılar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:2",
+   "meal": "İnsanlar, 'İman ettik' demekle imtihan edilmeden bırakılacaklarını mı sandılar?",
+   "baglanti": "Müminlerin imtihanla ayırt edileceği fikri burada da açıkça ifade edilir."
+  },
+  {
+   "ref": "72:27",
+   "meal": "Ancak razı olduğu bir resûl hariç, O gaybını kimseye açık göstermez.",
+   "baglanti": "Gaybın yalnız Allah'ın dilediği resûle bildirilebileceği fikri, bu ayetteki 'Allah resûllerinden dilediğini seçer' ifadesiyle örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, iman iddiasının imtihanla sınanacağı ve gaybın insana verilmediğidir.",
+  "Bugüne taşınabilecek ders, sözle iddia etmenin yeterli olmadığı, gerçek karakterin zorluk anlarında ortaya çıktığıdır. Bilinmeyeni bilme iddiasından uzak durup elindeki bilgiyle sorumlu davranmak da bu ayetten çıkan bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü zorlukta sına",
+   "aciklama": "Bugün kolay bir sözü değil, zor bir durumda verdiğin tepkiyi kendine ölçü yap."
+  },
+  {
+   "baslik": "Bilmediğini bilmediğini kabul et",
+   "aciklama": "Geleceğe dair kesin bir iddiada bulunmak yerine 'Allah bilir' demeyi tercih et."
+  },
+  {
+   "baslik": "İçini dışınla uyumlu tut",
+   "aciklama": "Bugün söylediğin bir şeyi davranışlarınla da destekle."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda emin olmadığın halde kesin konuşmaktan kaçın; 'Allah bilir' de.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=179"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/179"
+  }
+ ]
+}
