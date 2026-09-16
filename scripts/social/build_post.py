@@ -15,6 +15,7 @@ Kullanım:
 import argparse, glob, json, os, re
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 SITE = "https://guldalicihat.github.io/Kuran-hayatinda/#/sure/{s}/{a}"
+SITE_ADI = "guldalicihat.github.io/Kuran-hayatinda"
 HASHTAG_SABIT = ["#Kuran", "#Ayet", "#KuranHayatında"]
 
 def load_chapter(s):
@@ -67,7 +68,7 @@ def build(post):
         "gorsel_metni": post['soru'],
         "x": f"{gövde}\n\nDetaylı açıklama ve bugünün adımı için siteye bak: {link}\n\n{hashtags}",
         "facebook": f"{gövde}\n\nDetaylı açıklama ve bugünün adımı için siteye bak: {link}\n\n{hashtags}",
-        "instagram": f"{gövde}\n\nDetaylı açıklama ve bugünün adımı için → bio'daki link.\n\n{hashtags}",
+        "instagram": f"{gövde}\n\nDetaylı açıklama ve bugünün adımı için: {SITE_ADI} — {ref}\n\n{hashtags}",
     }
 
 def all_posts():
