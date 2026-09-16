@@ -1,0 +1,334 @@
+{
+ "sure": 4,
+ "ayet": 127,
+ "durum": "taslak",
+ "meal": "Senden kadınlar hakkında fetva istiyorlar. De ki: Allah size onlar hakkında fetva veriyor. Kitapta size okunan [ayetler]; kendilerine yazılanı vermediğiniz ve nikâhlamak istediğiniz yetim kadınlar, zayıf bırakılmış çocuklar hakkındadır; bir de yetimlere adaletle davranmanız hakkında. Hayırdan ne yaparsanız, şüphesiz Allah onu bilendir.",
+ "mealNotu": "'Yesteftûneke - yüftîküm' fetva kökündendir; resmî hüküm isteme ve bildirmeyi anlatır. 'Terğabûne en tenkihûhünne' düz karşılığıyla 'onlarla evlenmek istiyorsunuz' demektir; bazı meallerdeki 'ya da evlenmek istemediğiniz' gibi ek yorum burada yoktur. 'Müstad'afîne' güçsüz bırakılmış, zayıf kılınmış anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "وَيَسْتَفْتُونَكَ",
+   "okunus": "ve yesteftûneke",
+   "kok": "فتي",
+   "kokAnlam": "fetva isteme",
+   "karsilik": "senden fetva istiyorlar"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de, hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "ٱلنِّسَآءِ",
+   "okunus": "ennisâi",
+   "kok": "نسو",
+   "kokAnlam": "kadın",
+   "karsilik": "kadınlar"
+  },
+  {
+   "kelime": "قُلِ",
+   "okunus": "kuli",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يُفْتِيكُمْ",
+   "okunus": "yüftîküm",
+   "kok": "فتي",
+   "kokAnlam": "fetva verme",
+   "karsilik": "size fetva veriyor"
+  },
+  {
+   "kelime": "فِيهِنَّ",
+   "okunus": "fîhinne",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlar hakkında",
+   "karsilik": "onlar hakkında"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şey",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يُتْلَىٰ",
+   "okunus": "yütlâ",
+   "kok": "تلو",
+   "kokAnlam": "okuma, tilavet etme",
+   "karsilik": "okunmakta olan"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "Kitap'ta"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "يَتَٰمَى",
+   "okunus": "yetâmâ",
+   "kok": "يتم",
+   "kokAnlam": "yetim kalma",
+   "karsilik": "yetimleri"
+  },
+  {
+   "kelime": "ٱلنِّسَآءِ",
+   "okunus": "ennisâi",
+   "kok": "نسو",
+   "kokAnlam": "kadın",
+   "karsilik": "kadınların"
+  },
+  {
+   "kelime": "ٱلَّٰتِى",
+   "okunus": "ellâtî",
+   "kok": "—",
+   "kokAnlam": "(ilgi, dişil çoğul) ki onlar",
+   "karsilik": "ki onlar"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "تُؤْتُونَهُنَّ",
+   "okunus": "tü'tûnehünne",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "onlara vermiyorsunuz"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "كُتِبَ",
+   "okunus": "kütibe",
+   "kok": "كتب",
+   "kokAnlam": "yazılma",
+   "karsilik": "yazılmış olan"
+  },
+  {
+   "kelime": "لَهُنَّ",
+   "okunus": "lehünne",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) kendilerine",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "وَتَرْغَبُونَ",
+   "okunus": "ve terğabûne",
+   "kok": "رغب",
+   "kokAnlam": "istek duyma, rağbet etme",
+   "karsilik": "ve istiyorsunuz"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "تَنكِحُوهُنَّ",
+   "okunus": "tenkihûhünne",
+   "kok": "نكح",
+   "kokAnlam": "nikâhlama, evlenme",
+   "karsilik": "onlarla evlenmeyi"
+  },
+  {
+   "kelime": "وَٱلْمُسْتَضْعَفِينَ",
+   "okunus": "vel müstad'afîne",
+   "kok": "ضعف",
+   "kokAnlam": "güçsüz kılınma, zayıflık",
+   "karsilik": "ve zayıf bırakılmışlar"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْوِلْدَٰنِ",
+   "okunus": "elvildâni",
+   "kok": "ولد",
+   "kokAnlam": "doğurma, çocuk",
+   "karsilik": "çocuklar"
+  },
+  {
+   "kelime": "وَأَن",
+   "okunus": "ve en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ve ki",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "تَقُومُوا۟",
+   "okunus": "tekûmû",
+   "kok": "قوم",
+   "kokAnlam": "kalkma, ayakta durma",
+   "karsilik": "kalkmanız [hakkındadır]"
+  },
+  {
+   "kelime": "لِلْيَتَٰمَىٰ",
+   "okunus": "lilyetâmâ",
+   "kok": "يتم",
+   "kokAnlam": "yetim kalma",
+   "karsilik": "yetimler için"
+  },
+  {
+   "kelime": "بِٱلْقِسْطِ",
+   "okunus": "bil kıstı",
+   "kok": "قسط",
+   "kokAnlam": "adalet, denklik",
+   "karsilik": "adaletle"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(şart) ve ne",
+   "karsilik": "ve ne"
+  },
+  {
+   "kelime": "تَفْعَلُوا۟",
+   "okunus": "tef'alû",
+   "kok": "فعل",
+   "kokAnlam": "yapma",
+   "karsilik": "yaparsanız"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "خَيْرٍ",
+   "okunus": "hayrin",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "hayırdan"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dır"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "عَلِيمًا",
+   "okunus": "alîmen",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, sahabenin yetim kadınlar konusunda Peygamber'den fetva istemesiyle başlar; cevabın kaynağı doğrudan Allah'tır. Konu, sûrenin başında geçen yetim ve miras hükümleriyle bağlantılıdır; vurgu, yetim kadının hakkının -velisi ona ilgi duysa da duymasa da- eksiksiz verilmesidir.",
+  "'Müstad'afîne minel vildân' (zayıf bırakılmış çocuklar) ifadesi, yetim kadınların yanına güçsüz durumdaki çocukları da katar; ikisinin ortak yönü, haklarını kendi başlarına savunamamalarıdır. Ayet, bu iki grup için tek bir ilke sunar: adaletle davranmak. Klasik tefsir, ayetin arka planını cahiliye döneminde bazı velilerin yetim kadının malına veya kendisine haksızca göz dikmesi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:3",
+   "meal": "Yetimler konusunda adaletli davranamayacağınızdan korkarsanız, size helal olan kadınlardan ikişer, üçer, dörder nikâhlayın. Adaletli davranamayacağınızdan korkarsanız, tek kadınla ya da sahip olduğunuz cariyeyle yetinin. Bu, haksızlığa sapmamanız için daha uygundur.",
+   "baglanti": "Bu ayet, yetim kadınla evlenme konusunda adalet şartını açıkça koyar; 4:127'de anılan 'onlarla evlenmek istiyorsunuz' ifadesinin arka planını netleştirir."
+  },
+  {
+   "ref": "4:6",
+   "meal": "Yetimleri, nikâh çağına erişene kadar deneyin. Onlarda olgunluk görürseniz mallarını kendilerine verin; büyüyecekler diye israf ederek ve aceleyle yemeyin. Zengin olan iffetli davransın, fakir olan uygun biçimde yesin. Mallarını kendilerine verdiğinizde şahit tutun. Hesap sorucu olarak Allah yeter.",
+   "baglanti": "Yetimlere 'kendilerine yazılan hak' burada somutlaşır: mal, erginlik çağında sahibine teslim edilir ve şahit tutulur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, velisi olduğu yetim kadının mirasını veya mehrini eksik bırakan ya da onunla haksız şartlarla evlenmek isteyen kişilere getirilen sınırdır; bu özel bir hukuki konudur. Bugüne taşınabilecek ders, gücü elinde bulunduranın, kendisine emanet edilen zayıf bir kişinin hakkını -kişisel çıkar araya girse bile- eksiksiz gözetmesidir.",
+  "Vasilik, vesayet, miras paylaşımı gibi durumlarda karar verme gücü genelde daha güçlü tarafın elindedir. Ayet, bu gücün kötüye kullanılmaması, zayıf tarafın hakkının adaletle korunması gerektiğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Emanet ettiğin bir hakkı gözden geçir",
+   "aciklama": "Bakmakla yükümlü olduğun bir kişinin (çocuk, yaşlı, yetim) hakkını eksiksiz verip vermediğini bugün kontrol et."
+  },
+  {
+   "baslik": "Çıkarınla sorumluluğunu ayır",
+   "aciklama": "Bir kararında kişisel çıkarının, emanet ettiğin kişinin hakkını gölgelememesine bugün özellikle dikkat et."
+  },
+  {
+   "baslik": "Adaleti yazılı hale getir",
+   "aciklama": "Ortak bir mal veya hak paylaşımında, kimin neye hak sahibi olduğunu bugün açıkça yaz veya konuş."
+  }
+ ],
+ "bugununAdimi": "Bugün, sorumluluğun altındaki bir kişinin hakkını -küçük de olsa- eksiksiz yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=127"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/127"
+  }
+ ]
+}

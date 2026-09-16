@@ -1,0 +1,250 @@
+{
+ "sure": 4,
+ "ayet": 136,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Allah'a, Resûlü'ne, Resûlü'ne indirdiği kitaba ve daha önce indirdiği kitaba iman edin. Kim Allah'ı, meleklerini, kitaplarını, resullerini ve ahiret gününü inkâr ederse, derin bir sapıklığa düşmüştür.",
+ "mealNotu": "İlk 'iman edin' emri, hâlihazırda iman etmiş olanlara yönelse de onları imanlarında sebat etmeye ve derinleştirmeye çağırır. 'Dalle dalâlen beîdâ' ifadesindeki 'derin' kelimesi, 'ba'îd' (uzak) kökünün karşılığıdır; sapıklığın ne kadar köklü olduğunu vurgular.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "-enler"
+  },
+  {
+   "kelime": "ءَامِنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "ءَامِنُوا۟",
+   "okunus": "âminû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman edin"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَرَسُولِهِۦ",
+   "okunus": "ve rasûlihî",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi",
+   "karsilik": "Resûlü'ne"
+  },
+  {
+   "kelime": "وَٱلْكِتَٰبِ",
+   "okunus": "vel kitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "ve kitaba"
+  },
+  {
+   "kelime": "ٱلَّذِىٓ",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "نَزَّلَ",
+   "okunus": "nezzele",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdiği"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "رَسُولِهِۦ",
+   "okunus": "rasûlihî",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi",
+   "karsilik": "Resûlü'ne"
+  },
+  {
+   "kelime": "وَٱلْكِتَٰبِ",
+   "okunus": "vel kitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "ve kitaba"
+  },
+  {
+   "kelime": "ٱلَّذِىٓ",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "أَنزَلَ",
+   "okunus": "enzele",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdiği"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلُ",
+   "okunus": "kablü",
+   "kok": "قبل",
+   "kokAnlam": "önce olma",
+   "karsilik": "daha önce"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) ve kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "يَكْفُرْ",
+   "okunus": "yekfür",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "inkâr ederse"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ı"
+  },
+  {
+   "kelime": "وَمَلَٰٓئِكَتِهِۦ",
+   "okunus": "ve melâiketihî",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, güç; melek",
+   "karsilik": "meleklerini"
+  },
+  {
+   "kelime": "وَكُتُبِهِۦ",
+   "okunus": "ve kütübihî",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "kitaplarını"
+  },
+  {
+   "kelime": "وَرُسُلِهِۦ",
+   "okunus": "ve rusülihî",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi",
+   "karsilik": "resullerini"
+  },
+  {
+   "kelime": "وَٱلْيَوْمِ",
+   "okunus": "vel yevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "ve gününü"
+  },
+  {
+   "kelime": "ٱلْءَاخِرِ",
+   "okunus": "el'âhıri",
+   "kok": "أخر",
+   "kokAnlam": "sonra olma; ahiret",
+   "karsilik": "ahiret"
+  },
+  {
+   "kelime": "فَقَدْ",
+   "okunus": "fekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "ضَلَّ",
+   "okunus": "dalle",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, yolunu kaybetme",
+   "karsilik": "sapıklığa düşmüştür"
+  },
+  {
+   "kelime": "ضَلَٰلًۢا",
+   "okunus": "dalâlen",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, yolunu kaybetme",
+   "karsilik": "sapıklığa"
+  },
+  {
+   "kelime": "بَعِيدًا",
+   "okunus": "beîden",
+   "kok": "بعد",
+   "kokAnlam": "uzaklık",
+   "karsilik": "derin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sûre, aile ve toplumsal adalet hükümlerinden sonra imanın temel unsurlarına döner. Müminlere, hâlihazırda inandıkları Allah, Peygamber ve kitaba iman etmeleri emredilir; bu, imanın tek seferlik bir onay değil sürekli yenilenen bir bağlılık olduğunu gösterir.",
+  "Ayet, iman edilmesi gereken unsurları sayar: Allah, melekler, kitaplar, peygamberler ve ahiret günü. Bunlardan birini inkâr etmek, ayete göre derin bir sapıklıktır; çünkü bu unsurlar birbirine bağlıdır -örneğin kitaplara iman, onları getiren peygamberlere imanla iç içedir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:285",
+   "meal": "Peygamber, Rabbinden kendisine indirilene iman etti, müminler de. Her biri Allah'a, meleklerine, kitaplarına ve peygamberlerine iman etti; 'Onun peygamberlerinden hiçbirini ayırmayız' dediler. Şöyle dediler: 'İşittik ve itaat ettik. Bağışlamanı dileriz Rabbimiz, dönüş sanadır.'",
+   "baglanti": "Aynı iman unsurları burada Peygamber'in ve müminlerin ağzından, 'peygamberlerden hiçbirini ayırmayız' vurgusuyla tekrarlanır."
+  },
+  {
+   "ref": "2:4",
+   "meal": "Onlar, sana indirilene ve senden önce indirilene iman ederler; ahirete de kesin olarak inanırlar.",
+   "baglanti": "Sana indirilene ve senden önce indirilene iman etme ilkesi burada da geçer; 4:136'daki 'iki kitaba iman' ifadesinin bir başka anlatımıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu imanın temel unsurlarıdır; bu teolojik bir çerçevedir. Bugüne taşınabilecek ders, imanın bir kez söylenip bir kenara bırakılan bir söz değil, sürekli tazelenmesi gereken bir bağlılık olduğudur.",
+  "İnsan zamanla alıştığı bir inancı sorgulamadan, içini doldurmadan tekrar edebilir. Ayetteki 'iman edenler, iman edin' çağrısı, bu alışkanlığa karşı bir uyarı olarak okunabilir: inandığını düzenli olarak yeniden düşünmek ve içselleştirmek."
+ ],
+ "bugun": [
+  {
+   "baslik": "İnancını tazele",
+   "aciklama": "Bugün, neye ve neden inandığını birkaç cümleyle kendine yeniden anlat."
+  },
+  {
+   "baslik": "Bir konuda bilgini derinleştir",
+   "aciklama": "İman esaslarından birini (melekler, kitaplar, ahiret gibi) bugün biraz daha araştır."
+  },
+  {
+   "baslik": "Farklı kaynakların ortak yönünü gör",
+   "aciklama": "Bugün, önceki kitaplarla ortak olan bir ahlaki ilkeyi (örneğin dürüstlük) fark et ve uygula."
+  }
+ ],
+ "bugununAdimi": "Bugün, inancınla ilgili bir konuyu birine anlatmayı veya kendine yazmayı dene.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=136"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/136"
+  }
+ ]
+}

@@ -1,0 +1,278 @@
+{
+ "sure": 4,
+ "ayet": 131,
+ "durum": "taslak",
+ "meal": "Göklerde ne var, yerde ne varsa Allah'ındır. Andolsun, sizden önce kendilerine kitap verilenlere de, size de, 'Allah'tan sakının' diye buyurduk. Eğer inkâr ederseniz, [bilin ki] göklerde ne var, yerde ne varsa Allah'ındır. Allah, hiçbir şeye muhtaç değildir, övgüye layık olandır.",
+ "mealNotu": "'Vessaynâ' kökü emir ve tavsiyeyi, özellikle önemli bir buyruğu bildirmeyi anlatır. 'Ganiyy' kökü ihtiyaçsızlık, 'hamîd' kökü övgüye layık olma anlamındadır; bu iki isim, Allah'ın insanların itaatine muhtaç olmadığını, emrin insanların kendi yararına olduğunu vurgular.",
+ "kokler": [
+  {
+   "kelime": "وَلِلَّهِ",
+   "okunus": "ve lillâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ındır"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne varsa",
+   "karsilik": "ne varsa"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "göklerde"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne varsa",
+   "karsilik": "ve ne varsa"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yerde"
+  },
+  {
+   "kelime": "وَلَقَدْ",
+   "okunus": "ve lekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) andolsun",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "وَصَّيْنَا",
+   "okunus": "vessaynâ",
+   "kok": "وصي",
+   "kokAnlam": "buyurma, tavsiye etme",
+   "karsilik": "buyurduk"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kendilerine",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "أُوتُوا۟",
+   "okunus": "ûtû",
+   "kok": "أتي",
+   "kokAnlam": "verilme",
+   "karsilik": "verilenlere"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "kitap"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِكُمْ",
+   "okunus": "kabliküm",
+   "kok": "قبل",
+   "kokAnlam": "önce olma",
+   "karsilik": "sizden önce"
+  },
+  {
+   "kelime": "وَإِيَّاكُمْ",
+   "okunus": "ve iyyâküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve sizi",
+   "karsilik": "size de"
+  },
+  {
+   "kelime": "أَنِ",
+   "okunus": "eni",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) diye",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "ٱتَّقُوا۟",
+   "okunus": "uttekû",
+   "kok": "وقي",
+   "kokAnlam": "sakınma, korunma",
+   "karsilik": "sakının"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَكْفُرُوا۟",
+   "okunus": "tekfürû",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "inkâr ederseniz"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "bilin ki"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ındır"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne varsa",
+   "karsilik": "ne varsa"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "göklerde"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne varsa",
+   "karsilik": "ve ne varsa"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yerde"
+  },
+  {
+   "kelime": "وَكَانَ",
+   "okunus": "ve kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dır"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَنِيًّا",
+   "okunus": "ganiyyen",
+   "kok": "غني",
+   "kokAnlam": "zenginlik, ihtiyaçsızlık",
+   "karsilik": "hiçbir şeye muhtaç değil"
+  },
+  {
+   "kelime": "حَمِيدًا",
+   "okunus": "hamîden",
+   "kok": "حمد",
+   "kokAnlam": "övme, övgüye layık olma",
+   "karsilik": "övgüye layık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, aile içi hükümlerden evrensel bir ilkeye geçer: Allah'ın göklerde ve yerde olan her şeyin sahibi olması. Bu, doğrudan önceki ayetin (4:126) tekrarıdır ve sûrenin bu bölümünü çerçeveler; anlatılan tüm hükümler, her şeyin sahibi olan bir Allah'ın buyruğudur.",
+  "'Sizden önce kitap verilenler' ifadesi, aynı takva çağrısının önceki topluluklara da yapıldığını, bunun yeni veya keyfi bir istek olmadığını gösterir. İnkârın Allah'a hiçbir zarar vermeyeceği, çünkü O'nun hiçbir şeye muhtaç olmadığı vurgusuyla ayet biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:284",
+   "meal": "Göklerde ne var, yerde ne varsa Allah'ındır. İçinizdekini açığa vursanız da gizleseniz de, Allah sizi onunla hesaba çeker; dilediğini bağışlar, dilediğine azap eder. Allah her şeye gücü yetendir.",
+   "baglanti": "Aynı 'göklerde ve yerde olan Allah'ındır' ilkesi burada, insanın içindekinin bile Allah'ın bilgisi ve hesabı dahilinde olduğu vurgusuyla genişletilir."
+  },
+  {
+   "ref": "4:132",
+   "meal": "Göklerde ne var, yerde ne varsa Allah'ındır. Vekil olarak Allah yeter.",
+   "baglanti": "Bir sonraki ayet aynı cümleyi tekrarlayıp 'vekil olarak Allah yeter' ekler; bu tekrar, ilkeyi sûrenin bu bölümünde pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Allah'ın mülkiyeti ve önceki topluluklara da yapılan takva çağrısıdır; bu teolojik bir hatırlatmadır. Bugüne taşınabilecek ders, sahip olduğumuz her şeyin -mal, itibar, ilişkiler- geçici bir emanet olduğu bilinciyle yaşamaktır.",
+  "İnsan bazen dini bir buyruğa uymanın Allah'a bir katkı olduğunu düşünebilir. Ayet bunu tersine çevirir: Allah hiçbir şeye muhtaç değildir, emirler insanın kendi iyiliği içindir. Bu bakış, ibadeti bir yük değil, kendi yararına bir düzen olarak görmeyi kolaylaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sahiplik hissini gözden geçir",
+   "aciklama": "Bugün 'benim' dediğin bir şeyin aslında emanet olduğunu hatırlayarak ona nasıl davrandığını gözden geçir."
+  },
+  {
+   "baslik": "Bir buyruğu yük değil yarar olarak gör",
+   "aciklama": "Bugün yerine getirdiğin bir sorumluluğu, sana ne kazandırdığını düşünerek yap."
+  },
+  {
+   "baslik": "Geçmişten gelen ortak ilkeyi hatırla",
+   "aciklama": "Bugün, farklı inançtan biriyle paylaştığın ortak bir ahlaki ilkeyi (dürüstlük, adalet gibi) konuş."
+  }
+ ],
+ "bugununAdimi": "Bugün, sahip olduğun bir şeyi emanet bilinciyle kullanmaya özen göster ve bunu bir cümleyle not al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=131"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/131"
+  }
+ ]
+}

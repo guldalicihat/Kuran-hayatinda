@@ -1,0 +1,313 @@
+{
+ "sure": 4,
+ "ayet": 135,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Kendiniz, ana-babanız ve en yakınlarınız aleyhine de olsa, adaleti eksiksiz uygulayan, Allah için şahitlik eden kimseler olun. [Taraflardan biri] ister zengin ister fakir olsun, Allah ikisine de sizden daha yakındır. Öyleyse adaletten sapmamak için nefsin arzusuna uymayın. Eğer [şahitliği] eğip büker veya ondan yüz çevirirseniz, şüphesiz Allah yaptıklarınızdan haberdardır.",
+ "mealNotu": "'Kavvâmîne bil kıst' ifadesi, adaleti sürekli ve kararlılıkla ayakta tutmayı anlatır. 'Telvû' kökü eğip bükmeyi, gerçeği çarpıtmayı ifade eder; 'i'râd' ise tanıklıktan kaçınmayı, geri çekilmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "-enler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "كُونُوا۟",
+   "okunus": "kûnû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olun"
+  },
+  {
+   "kelime": "قَوَّٰمِينَ",
+   "okunus": "kavvâmîne",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; sürekli ayakta tutan",
+   "karsilik": "eksiksiz uygulayan"
+  },
+  {
+   "kelime": "بِٱلْقِسْطِ",
+   "okunus": "bil kıstı",
+   "kok": "قسط",
+   "kokAnlam": "adalet, denklik",
+   "karsilik": "adaleti"
+  },
+  {
+   "kelime": "شُهَدَآءَ",
+   "okunus": "şühedâe",
+   "kok": "شهد",
+   "kokAnlam": "tanık olma, şahitlik",
+   "karsilik": "şahitlik eden"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah için"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) olsa da",
+   "karsilik": "olsa da"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) aleyhine",
+   "karsilik": "aleyhine"
+  },
+  {
+   "kelime": "أَنفُسِكُمْ",
+   "okunus": "enfüsiküm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, benlik",
+   "karsilik": "kendiniz"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "evi",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "ٱلْوَٰلِدَيْنِ",
+   "okunus": "elvâlideyni",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; ana-baba",
+   "karsilik": "ana-babanız"
+  },
+  {
+   "kelime": "وَٱلْأَقْرَبِينَ",
+   "okunus": "vel ekrabîne",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık",
+   "karsilik": "ve en yakınlarınız"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) ister",
+   "karsilik": "ister"
+  },
+  {
+   "kelime": "يَكُنْ",
+   "okunus": "yekün",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olsun"
+  },
+  {
+   "kelime": "غَنِيًّا",
+   "okunus": "ganiyyen",
+   "kok": "غني",
+   "kokAnlam": "zenginlik",
+   "karsilik": "zengin"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "ister"
+  },
+  {
+   "kelime": "فَقِيرًا",
+   "okunus": "fekîran",
+   "kok": "فقر",
+   "kokAnlam": "yoksulluk, fakirlik",
+   "karsilik": "fakir"
+  },
+  {
+   "kelime": "فَٱللَّهُ",
+   "okunus": "fallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "أَوْلَىٰ",
+   "okunus": "evlâ",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, önde olma",
+   "karsilik": "daha yakındır"
+  },
+  {
+   "kelime": "بِهِمَا",
+   "okunus": "bihimâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) ikisine",
+   "karsilik": "ikisine"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) uymayın",
+   "karsilik": "uymayın"
+  },
+  {
+   "kelime": "تَتَّبِعُوا۟",
+   "okunus": "tettebiû",
+   "kok": "تبع",
+   "kokAnlam": "tabi olma, uyma",
+   "karsilik": "uymayın"
+  },
+  {
+   "kelime": "ٱلْهَوَىٰٓ",
+   "okunus": "elhevâ",
+   "kok": "هوي",
+   "kokAnlam": "eğilim, arzu",
+   "karsilik": "nefsin arzusuna"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) diye",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "تَعْدِلُوا۟",
+   "okunus": "ta'dilû",
+   "kok": "عدل",
+   "kokAnlam": "adalet, eşitlik",
+   "karsilik": "adaletten sapmamak"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَلْوُۥٓا۟",
+   "okunus": "telvû",
+   "kok": "لوي",
+   "kokAnlam": "eğip bükme, çarpıtma",
+   "karsilik": "eğip bükerseniz"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "تُعْرِضُوا۟",
+   "okunus": "tü'ridû",
+   "kok": "عرض",
+   "kokAnlam": "yüz çevirme",
+   "karsilik": "yüz çevirirseniz"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dır"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) yaptığınız şeyden",
+   "karsilik": "yaptıklarınızdan"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "yaptıklarınızdan"
+  },
+  {
+   "kelime": "خَبِيرًا",
+   "okunus": "habîran",
+   "kok": "خبر",
+   "kokAnlam": "haberdar olma",
+   "karsilik": "haberdar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerdeki adalet ve takva vurgusunu şahitlik alanına taşır. Müminlerden istenen, adaleti kendi çıkarları, yakınları hatta kendileri aleyhine olsa bile ayakta tutmalarıdır; bu, sûre boyunca tekrar eden adalet ilkesinin en somut uygulamalarından biridir.",
+  "'Allah ikisine de sizden daha yakındır' ifadesi, zengin veya fakir olan tarafı kayırma eğilimine karşı bir uyarıdır; insan bazen zayıfı acıdığından, bazen güçlüyü çıkarından kayırabilir. Klasik tefsir, ayetin şahitlikte hem duygusal yakınlığın hem maddi çıkarın adaleti bozmasına karşı bir denge koyduğunu açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:8",
+   "meal": "Ey iman edenler! Allah için hakkı ayakta tutanlar, adaletle şahitlik edenler olun. Bir topluluğa duyduğunuz kin, sizi adaletsizliğe sürüklemesin. Adaletli olun; bu, takvaya daha yakındır. Allah'tan korkun; şüphesiz Allah yaptıklarınızdan haberdardır.",
+   "baglanti": "Neredeyse aynı ifadeyle, bir topluluğa duyulan kinin bile adaletsizliğe yol açmaması istenir; 4:135'teki 'kendine karşı bile adil ol' ilkesini tamamlar."
+  },
+  {
+   "ref": "6:152",
+   "meal": "Yetimin malına, erginlik çağına erişinceye kadar en güzel biçimin dışında yaklaşmayın. Ölçüyü ve tartıyı adaletle tam yapın. Kimseyi gücünün yettiğinden fazlasıyla yükümlü tutmayız. Konuştuğunuzda, yakınınız da olsa adil olun. Allah'a verdiğiniz sözü tutun; işte Allah size bunları öğütledi ki düşünüp öğüt alasınız.",
+   "baglanti": "Burada da konuşurken -yakın olsa bile- adil olmak istenir; 4:135'teki şahitlik ilkesinin günlük konuşmaya uzanan bir versiyonudur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu mahkemede veya resmi bir ortamda şahitlik etmektir; bu özel bir durumdur. Ancak ilke geneldir: kendi çıkarın, yakının veya duygusal eğilimin, doğruyu söylemeni engellememelidir.",
+  "Günlük hayatta bir anlaşmazlıkta 'kimin tarafını tutacağım' sorusu sıkça karşımıza çıkar. Ayet, bu soruyu 'kim benim yakınım' değil 'nerede adalet' sorusuna çevirmemizi ister."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yakınını kayırmadan konuş",
+   "aciklama": "Bugün bir anlaşmazlıkta, yakının haksız olsa bile bunu nazikçe söyle."
+  },
+  {
+   "baslik": "Kendi hatanı kabul et",
+   "aciklama": "Bugün bir konuda kendi hatalı olduğunu fark edersen, bunu savunmak yerine açıkça kabul et."
+  },
+  {
+   "baslik": "Zayıfı değil doğruyu savun",
+   "aciklama": "Bir tartışmada, güçsüz görünen taraf haksızsa bile bugün gerçeği söylemekten çekinme."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda tarafını, yakınlığına değil doğruya göre belirle ve bunu net bir cümleyle ifade et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=135"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/135"
+  }
+ ]
+}
