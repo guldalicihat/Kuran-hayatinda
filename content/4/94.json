@@ -1,0 +1,327 @@
+{
+ "sure": 4,
+ "ayet": 94,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Allah yolunda (sefere) çıktığınızda iyice araştırın ve size selam sunana, dünya hayatının geçici malını arayarak, 'Sen mümin değilsin' demeyin. Allah katında pek çok ganimet vardır. Daha önce siz de böyleydiniz de Allah size lütfetti; öyleyse iyice araştırın. Şüphesiz Allah, yaptıklarınızdan hakkıyla haberdardır.",
+ "mealNotu": "'Tebeyyün' kökü, bir şeyi netleşinceye kadar araştırmayı anlatır; savaş ortamında aceleyle hüküm vermemeyi ifade eder. 'Arad' kelimesi geçici, elden çabuk çıkan dünya malını anlatır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوٓا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güvenip inanma",
+   "karsilik": "iman eden"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -diğinizde",
+   "karsilik": "-diğinizde"
+  },
+  {
+   "kelime": "ضَرَبْتُمْ",
+   "okunus": "darabtüm",
+   "kok": "ضرب",
+   "kokAnlam": "vurma; yola çıkma, sefer",
+   "karsilik": "yola çıktığınızda"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "فَتَبَيَّنُوٓا۟",
+   "okunus": "fetebeyyenû",
+   "kok": "بين",
+   "kokAnlam": "açığa çıkarma, iyice araştırma",
+   "karsilik": "iyice araştırın"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuz emir) ve ... deme(yin)",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "تَقُولُوا۟",
+   "okunus": "tekûlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "demeyin"
+  },
+  {
+   "kelime": "لِمَنْ",
+   "okunus": "limen",
+   "kok": "—",
+   "kokAnlam": "(ilgi) -e",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "أَلْقَىٰٓ",
+   "okunus": "elkâ",
+   "kok": "لقي",
+   "kokAnlam": "kavuşma, sunma, arz etme",
+   "karsilik": "sunana"
+  },
+  {
+   "kelime": "إِلَيْكُمُ",
+   "okunus": "ileykümü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "ٱلسَّلَٰمَ",
+   "okunus": "esselâme",
+   "kok": "سلم",
+   "kokAnlam": "esenlik, barış, selam",
+   "karsilik": "selamı"
+  },
+  {
+   "kelime": "لَسْتَ",
+   "okunus": "leste",
+   "kok": "ليس",
+   "kokAnlam": "değildir (olumsuzluk fiili)",
+   "karsilik": "sen değilsin"
+  },
+  {
+   "kelime": "مُؤْمِنًا",
+   "okunus": "mü'minen",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanan",
+   "karsilik": "mümin"
+  },
+  {
+   "kelime": "تَبْتَغُونَ",
+   "okunus": "tebteğûne",
+   "kok": "بغي",
+   "kokAnlam": "arama, isteme, talep etme",
+   "karsilik": "arıyorsunuz"
+  },
+  {
+   "kelime": "عَرَضَ",
+   "okunus": "arada",
+   "kok": "عرض",
+   "kokAnlam": "geçici mal, dünya malı",
+   "karsilik": "geçici malını"
+  },
+  {
+   "kelime": "ٱلْحَيَوٰةِ",
+   "okunus": "elhayâti",
+   "kok": "حيي",
+   "kokAnlam": "hayat, canlılık",
+   "karsilik": "hayatının"
+  },
+  {
+   "kelime": "ٱلدُّنْيَا",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık, alçaklık; dünya",
+   "karsilik": "dünya"
+  },
+  {
+   "kelime": "فَعِندَ",
+   "okunus": "feinde",
+   "kok": "عند",
+   "kokAnlam": "yan, kat",
+   "karsilik": "hâlbuki katında"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "مَغَانِمُ",
+   "okunus": "meğânimü",
+   "kok": "غنم",
+   "kokAnlam": "ganimet, kazanç",
+   "karsilik": "ganimetler"
+  },
+  {
+   "kelime": "كَثِيرَةٌ",
+   "okunus": "kesîratün",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "çoktur"
+  },
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "كُنتُم",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "siz de idiniz"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلُ",
+   "okunus": "kablü",
+   "kok": "قبل",
+   "kokAnlam": "önce",
+   "karsilik": "daha önce"
+  },
+  {
+   "kelime": "فَمَنَّ",
+   "okunus": "femenne",
+   "kok": "منن",
+   "kokAnlam": "lütuf, iyilik bahşetme",
+   "karsilik": "sonra lütfetti"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "فَتَبَيَّنُوٓا۟",
+   "okunus": "fetebeyyenû",
+   "kok": "بين",
+   "kokAnlam": "açığa çıkarma, iyice araştırma",
+   "karsilik": "öyleyse iyice araştırın"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dır"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) -dan",
+   "karsilik": "-dan"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "yaptıklarınızdan"
+  },
+  {
+   "kelime": "خَبِيرًا",
+   "okunus": "habîran",
+   "kok": "خبر",
+   "kokAnlam": "haberdar olma",
+   "karsilik": "hakkıyla haberdardır"
+  }
+ ],
+ "neAnlatiyor": [
+  "92 ve 93. ayetlerde bir mümini öldürmenin ağırlığı anlatıldıktan sonra bu ayet, savaş ortamında yanlışlıkla masum birinin öldürülmesini önleyecek bir tedbir getirir: Allah yolunda sefere çıkıldığında, karşılaşılan kişinin durumu iyice araştırılmadan hüküm verilmemesi istenir.",
+  "Ayet özellikle, size barış ya da İslam işareti sunan birine, dünya malı (ganimet) elde etmek amacıyla 'Sen mümin değilsin' denilmesini yasaklar; çünkü Allah katındaki kazanç, ele geçirilecek geçici maldan daha büyüktür. Müminlerin bir zamanlar kendilerinin de aynı belirsiz konumda olduğu hatırlatılır. Klasik tefsir bu ayeti, savaş sırasında acele ve çıkar güdümlü hüküm vermeyi engelleyen bir ilke olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "49:6",
+   "meal": "Ey iman edenler! Eğer bir fâsık size bir haber getirirse, onu iyice araştırın; yoksa bilmeden bir topluluğa kötülük eder de sonra yaptığınıza pişman olursunuz.",
+   "baglanti": "'Tebeyyün' emri burada bir haberin doğruluğunu araştırmak için, 4:94'te ise bir kişinin niyetine dair acele hüküm vermemek için kullanılır; ikisi de aceleci karar vermeyi engeller."
+  },
+  {
+   "ref": "8:67",
+   "meal": "Hiçbir peygambere, yeryüzünde düşmanı tamamen sindirmeden esirler alması yakışmaz. Siz dünyanın geçici malını istiyorsunuz, hâlbuki Allah ahireti istiyor.",
+   "baglanti": "Bu ayet de savaş kazanımı ile dünya malı arayışını eleştirir; 4:94'teki 'dünya hayatının geçici malını arıyorsunuz' ifadesiyle aynı temayı paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, savaş ortamında bir kişinin niyetine dair acele ve çıkar güdümlü hüküm vermenin yasaklanmasıdır; bu özel bir savaş hukuku bağlamıdır.",
+  "Buradan genel bir ilke çıkar: birini yargılamadan önce durumunu iyice araştırmak, özellikle bu yargıda kendi çıkarının payı olup olmadığını sorgulamak gerekir. Bir kazanç elde etmek uğruna birinin niyetini kötüye yormak, bu ayetin doğrudan uyardığı bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Araştırmadan yargılama",
+   "aciklama": "Bugün biri hakkında hızlı bir yargıya varmadan önce, elindeki bilgiyi bir kez daha kontrol et."
+  },
+  {
+   "baslik": "Çıkarını sorgula",
+   "aciklama": "Bir kararında kendi menfaatinin payı varsa, bunu kendine açıkça itiraf et."
+  },
+  {
+   "baslik": "Şüpheden yararını gözet",
+   "aciklama": "Belirsiz bir durumda karşındaki kişiye iyi niyet tanı, en kötü senaryoyu peşin kabul etme."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda hızlı yargıya varmadan önce, 'Bu kararımda çıkarımın payı var mı?' diye kendine sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=94"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/94"
+  }
+ ]
+}

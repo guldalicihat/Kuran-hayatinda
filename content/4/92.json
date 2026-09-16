@@ -1,0 +1,474 @@
+{
+ "sure": 4,
+ "ayet": 92,
+ "durum": "taslak",
+ "meal": "Bir müminin, hata ile olması dışında bir mümini öldürmesi düşünülemez. Kim bir mümini yanlışlıkla öldürürse, mümin bir köleyi özgür kılması ve ailesine eksiksiz teslim edilecek bir diyet ödemesi gerekir; ancak onlar bunu bağışlarlarsa başka. Eğer öldürülen, size düşman bir topluluktan olup kendisi mümin ise, mümin bir köleyi özgür kılması gerekir. Eğer sizinle aralarında antlaşma bulunan bir topluluktan ise, ailesine eksiksiz teslim edilecek bir diyet ödemesi ve mümin bir köleyi özgür kılması gerekir. Bunu bulamayan kimse ise, Allah'tan bir tövbe olarak art arda iki ay oruç tutar. Allah hakkıyla bilendir, hüküm ve hikmet sahibidir.",
+ "mealNotu": "'Hata' kökü kasıt olmaksızın yapılan yanlışı anlatır. 'Rakabetin mü'minetin' ifadesi hukuki bir terim olarak 'mümin köle azat etme' anlamındadır; 'diyet' ise öldürülenin ailesine ödenen maddi karşılıktır.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değildir",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olması"
+  },
+  {
+   "kelime": "لِمُؤْمِنٍ",
+   "okunus": "limü'minin",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanan",
+   "karsilik": "bir mümin için"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesi",
+   "karsilik": "-mesi"
+  },
+  {
+   "kelime": "يَقْتُلَ",
+   "okunus": "yektüle",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürmesi"
+  },
+  {
+   "kelime": "مُؤْمِنًا",
+   "okunus": "mü'minen",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanan",
+   "karsilik": "bir mümini"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) dışında",
+   "karsilik": "dışında"
+  },
+  {
+   "kelime": "خَطَـًٔا",
+   "okunus": "hataen",
+   "kok": "خطأ",
+   "kokAnlam": "hata, yanlışlık",
+   "karsilik": "hata ile"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "قَتَلَ",
+   "okunus": "katele",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürürse"
+  },
+  {
+   "kelime": "مُؤْمِنًا",
+   "okunus": "mü'minen",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanan",
+   "karsilik": "bir mümini"
+  },
+  {
+   "kelime": "خَطَـًٔا",
+   "okunus": "hataen",
+   "kok": "خطأ",
+   "kokAnlam": "hata, yanlışlık",
+   "karsilik": "yanlışlıkla"
+  },
+  {
+   "kelime": "فَتَحْرِيرُ",
+   "okunus": "fetahrîru",
+   "kok": "حرر",
+   "kokAnlam": "özgür kılma, azat etme",
+   "karsilik": "o zaman özgür kılması gerekir"
+  },
+  {
+   "kelime": "رَقَبَةٍ",
+   "okunus": "rakabetin",
+   "kok": "رقب",
+   "kokAnlam": "boyun; köle, cariye",
+   "karsilik": "bir köleyi"
+  },
+  {
+   "kelime": "مُّؤْمِنَةٍ",
+   "okunus": "mü'minetin",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanan",
+   "karsilik": "mümin"
+  },
+  {
+   "kelime": "وَدِيَةٌ",
+   "okunus": "ve diyetün",
+   "kok": "ودي",
+   "kokAnlam": "kan bedeli, diyet",
+   "karsilik": "ve bir diyet ödemesi gerekir"
+  },
+  {
+   "kelime": "مُّسَلَّمَةٌ",
+   "okunus": "müsellemetün",
+   "kok": "سلم",
+   "kokAnlam": "teslim edilen, eksiksiz verilen",
+   "karsilik": "eksiksiz teslim edilecek"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "أَهْلِهِۦ",
+   "okunus": "ehlihî",
+   "kok": "أهل",
+   "kokAnlam": "aile, yakınlar",
+   "karsilik": "ailesine"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) hariç",
+   "karsilik": "hariç"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -i",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "يَصَّدَّقُوا۟",
+   "okunus": "yessaddekû",
+   "kok": "صدق",
+   "kokAnlam": "sadaka verme, bağışlama",
+   "karsilik": "bağışlamaları"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَوْمٍۭ",
+   "okunus": "kavmin",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk, kavim",
+   "karsilik": "bir topluluktan"
+  },
+  {
+   "kelime": "عَدُوٍّ",
+   "okunus": "adüvvin",
+   "kok": "عدو",
+   "kokAnlam": "düşmanlık, düşman",
+   "karsilik": "size düşman olan"
+  },
+  {
+   "kelime": "لَّكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve o",
+   "karsilik": "ve o"
+  },
+  {
+   "kelime": "مُؤْمِنٌ",
+   "okunus": "mü'minün",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanan",
+   "karsilik": "mümin ise"
+  },
+  {
+   "kelime": "فَتَحْرِيرُ",
+   "okunus": "fetahrîru",
+   "kok": "حرر",
+   "kokAnlam": "özgür kılma, azat etme",
+   "karsilik": "o zaman özgür kılması gerekir"
+  },
+  {
+   "kelime": "رَقَبَةٍ",
+   "okunus": "rakabetin",
+   "kok": "رقب",
+   "kokAnlam": "boyun; köle, cariye",
+   "karsilik": "bir köleyi"
+  },
+  {
+   "kelime": "مُّؤْمِنَةٍ",
+   "okunus": "mü'minetin",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanan",
+   "karsilik": "mümin"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَوْمٍۭ",
+   "okunus": "kavmim",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk, kavim",
+   "karsilik": "bir topluluktan"
+  },
+  {
+   "kelime": "بَيْنَكُمْ",
+   "okunus": "beyneküm",
+   "kok": "بين",
+   "kokAnlam": "arası, ara",
+   "karsilik": "sizinle"
+  },
+  {
+   "kelime": "وَبَيْنَهُم",
+   "okunus": "ve beynehüm",
+   "kok": "بين",
+   "kokAnlam": "arası, ara",
+   "karsilik": "onlar arasında"
+  },
+  {
+   "kelime": "مِّيثَٰقٌ",
+   "okunus": "mîsâkun",
+   "kok": "وثق",
+   "kokAnlam": "sağlamlaştırma, güvence; antlaşma",
+   "karsilik": "antlaşma olan"
+  },
+  {
+   "kelime": "فَدِيَةٌ",
+   "okunus": "fediyetün",
+   "kok": "ودي",
+   "kokAnlam": "kan bedeli, diyet",
+   "karsilik": "o zaman bir diyet ödemesi gerekir"
+  },
+  {
+   "kelime": "مُّسَلَّمَةٌ",
+   "okunus": "müsellemetün",
+   "kok": "سلم",
+   "kokAnlam": "teslim edilen, eksiksiz verilen",
+   "karsilik": "eksiksiz teslim edilecek"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "أَهْلِهِۦ",
+   "okunus": "ehlihî",
+   "kok": "أهل",
+   "kokAnlam": "aile, yakınlar",
+   "karsilik": "ailesine"
+  },
+  {
+   "kelime": "وَتَحْرِيرُ",
+   "okunus": "ve tahrîru",
+   "kok": "حرر",
+   "kokAnlam": "özgür kılma, azat etme",
+   "karsilik": "ve özgür kılması gerekir"
+  },
+  {
+   "kelime": "رَقَبَةٍ",
+   "okunus": "rakabetin",
+   "kok": "رقب",
+   "kokAnlam": "boyun; köle, cariye",
+   "karsilik": "bir köleyi"
+  },
+  {
+   "kelime": "مُّؤْمِنَةٍ",
+   "okunus": "mü'minetin",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanan",
+   "karsilik": "mümin"
+  },
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(şart) kim de",
+   "karsilik": "kim de"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mezse",
+   "karsilik": "-mezse"
+  },
+  {
+   "kelime": "يَجِدْ",
+   "okunus": "yecid",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulamazsa"
+  },
+  {
+   "kelime": "فَصِيَامُ",
+   "okunus": "fesıyâmü",
+   "kok": "صوم",
+   "kokAnlam": "oruç",
+   "karsilik": "o zaman oruç tutması gerekir"
+  },
+  {
+   "kelime": "شَهْرَيْنِ",
+   "okunus": "şehrayni",
+   "kok": "شهر",
+   "kokAnlam": "ay",
+   "karsilik": "iki ay"
+  },
+  {
+   "kelime": "مُتَتَابِعَيْنِ",
+   "okunus": "mütetâbiayni",
+   "kok": "تبع",
+   "kokAnlam": "art arda gelme, ardışıklık",
+   "karsilik": "art arda"
+  },
+  {
+   "kelime": "تَوْبَةً",
+   "okunus": "tevbeten",
+   "kok": "توب",
+   "kokAnlam": "tövbe, dönüş",
+   "karsilik": "bir tövbe olarak"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "وَكَانَ",
+   "okunus": "ve kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dır"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلِيمًا",
+   "okunus": "alîmen",
+   "kok": "علم",
+   "kokAnlam": "bilgi, bilen",
+   "karsilik": "hakkıyla bilen"
+  },
+  {
+   "kelime": "حَكِيمًا",
+   "okunus": "hakîmen",
+   "kok": "حكم",
+   "kokAnlam": "hikmet, hüküm",
+   "karsilik": "hüküm ve hikmet sahibi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetler savaş ve düşmanlık bağlamındaki hükümleri ele alırken, bu ayet müminler arasındaki farklı bir konuya geçer: bir mümini yanlışlıkla (hataen) öldürmenin sonuçları. Ayet, kasıtsız ölüme bile bir sorumluluk bağlar ve bunu üç duruma göre ayırır: öldürülenin ailesi bağışlarsa, düşman bir topluluktan olması ve antlaşmalı bir topluluktan olması. Her durumda mümin bir köle azat etmek ve/veya ailesine diyet ödemek gerekir.",
+  "Ayetin sonu, bunu maddi imkânı olmayan biri için art arda iki ay oruçla değiştirir ve bunu 'Allah'tan bir tövbe' olarak niteler. Klasik fıkıh, bu ayeti kasıtsız öldürmenin kefaretini düzenleyen ayrıntılı bir hukuk maddesi olarak açıklar; uygulama ayrıntılarında fıkıh ekolleri arasında görüş farkları vardır, bunlar burada ele alınmamıştır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:33",
+   "meal": "Haklı bir sebep olmadıkça, Allah'ın haram kıldığı canı öldürmeyin.",
+   "baglanti": "Bu ayet, cana kıymanın haklı bir sebep dışında yasak olduğu genel ilkesini koyar; 4:92 bu ilkenin kasıtsız ihlali durumunda uygulanacak hukuki sonucu (kefaret) düzenler."
+  },
+  {
+   "ref": "4:93",
+   "meal": "Kim bir mümini kasten öldürürse, cezası içinde sürekli kalacağı cehennemdir.",
+   "baglanti": "93. ayet, aynı konunun kasıtlı işlenmesi durumundaki çok daha ağır hükmünü anlatır; 92. ayet ise yalnızca kasıtsız (hata ile) öldürmeyi düzenler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir mümini yanlışlıkla öldürme durumunda uygulanacak hukuki sorumluluktur (köle azat etme, diyet ödeme veya oruç); bu, İslam hukukunun cana kıyma alanındaki ayrıntılı bir düzenlemesidir.",
+  "Buradan genel bir ilke çıkarılabilir: bir hata sonucunda başkasına zarar verildiğinde, 'kasıtlı değildi' demek sorumluluğu ortadan kaldırmaz. Telafi etmenin bir yolunu aramak, mümkünse doğrudan muhatapla konuşmak, hatayı görmezden gelmemek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hatanı telafi et",
+   "aciklama": "Geçmişte istemeden birine verdiğin bir zararı hatırla ve bugün küçük bir adımla telafi etmeye çalış."
+  },
+  {
+   "baslik": "Sorumluluktan kaçma",
+   "aciklama": "'Kasıtlı değildim' demek yerine, verdiğin zararı nasıl onaracağını düşün."
+  },
+  {
+   "baslik": "Özür dilemeyi ertelemeyin",
+   "aciklama": "Yanlışlıkla incittiğin birine bugün açık bir özür ilet."
+  }
+ ],
+ "bugununAdimi": "Bugün, istemeden sebep olduğun bir aksaklığı hatırla ve onu telafi edecek somut bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=92"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/92"
+  }
+ ]
+}
