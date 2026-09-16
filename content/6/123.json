@@ -1,0 +1,159 @@
+{
+ "sure": 6,
+ "ayet": 123,
+ "durum": "taslak",
+ "meal": "İşte böylece her şehirde, oranın büyük suçlularını, orada tuzak kursunlar diye (etkili) kıldık. Oysa onlar, sadece kendi aleyhlerine tuzak kurarlar; ama bunun farkında değillerdir.",
+ "mealNotu": "'Ekâbir' kökü كبر büyüklüğü, güç ve nüfuz sahibi olmayı anlatır. 'Mekr' kökü gizli tuzak/plan kurmayı ifade eder; ayet bu tuzağın sonunda kurana geri döneceğini vurgular. 'Yeş'urûne' farkındalık/sezme anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "وَكَذَٰلِكَ",
+   "okunus": "ve kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böylece",
+   "karsilik": "işte böylece"
+  },
+  {
+   "kelime": "جَعَلْنَا",
+   "okunus": "cealnâ",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "kıldık"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "de"
+  },
+  {
+   "kelime": "كُلِّ",
+   "okunus": "külli",
+   "kok": "كلل",
+   "kokAnlam": "bütünlük, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "قَرْيَةٍ",
+   "okunus": "karyetin",
+   "kok": "قري",
+   "kokAnlam": "yerleşim, şehir/köy",
+   "karsilik": "şehirde"
+  },
+  {
+   "kelime": "أَكَٰبِرَ",
+   "okunus": "ekâbira",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük, nüfuz",
+   "karsilik": "büyük"
+  },
+  {
+   "kelime": "مُجْرِمِيهَا",
+   "okunus": "mücrimîhâ",
+   "kok": "جرم",
+   "kokAnlam": "suç işleme",
+   "karsilik": "suçlularını"
+  },
+  {
+   "kelime": "لِيَمْكُرُوا۟",
+   "okunus": "liyemkürû",
+   "kok": "مكر",
+   "kokAnlam": "gizli tuzak kurma",
+   "karsilik": "tuzak kursunlar diye"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) orada",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...değil",
+   "karsilik": "oysa"
+  },
+  {
+   "kelime": "يَمْكُرُونَ",
+   "okunus": "yemkürûne",
+   "kok": "مكر",
+   "kokAnlam": "gizli tuzak kurma",
+   "karsilik": "tuzak kurmazlar"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "بِأَنفُسِهِمْ",
+   "okunus": "bienfüsihim",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "kendi aleyhlerine"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...değil",
+   "karsilik": "ve ...değildir"
+  },
+  {
+   "kelime": "يَشْعُرُونَ",
+   "okunus": "yeş'urûne",
+   "kok": "شعر",
+   "kokAnlam": "sezme, farkında olma",
+   "karsilik": "farkında"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, her toplumda peygamberlerin çağrısına karşı direnen bir güç odağının bulunduğunu bildirir: şehrin ileri gelen suçluları. Bunların gücü, hakka değil, hileye ve tuzağa dayanır.",
+  "Ayetin ikinci kısmı çarpıcı bir gerçeği vurgular: kurdukları tuzak, aslında farkında olmadan kendi aleyhlerine işler. Klasik tefsir, bu ayeti güç ve servet sahibi seçkinlerin, yeni gelen bir hakikate karşı ilk direnen kesim olmasıyla ilişkilendirerek açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "27:34",
+   "meal": "(Kraliçe) dedi ki: Hükümdarlar bir şehre girdiklerinde orayı bozguna uğratırlar ve halkının onurlularını aşağılık kılarlar; işte onlar böyle yaparlar.",
+   "baglanti": "Güç sahiplerinin bir şehri kendi çıkarları için bozması, 6:123'teki 'ekâbir' tasvirine somut bir örnektir."
+  },
+  {
+   "ref": "35:43",
+   "meal": "...Kötü tuzak ancak sahibini kuşatır. Onlar öncekilerin başına gelen kanundan başka bir şey mi bekliyorlar? Sen, Allah'ın kanununda ne bir değişiklik ne de bir başkalaşma bulursun.",
+   "baglanti": "Tuzağın sahibine geri döneceği ilkesi, 6:123'teki 'sadece kendi aleyhlerine tuzak kurarlar' ifadesiyle aynı gerçeği anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, toplumdaki güç sahiplerinin doğruya karşı gösterdiği örgütlü direniştir; doğrudan bir emirden çok bir toplumsal gerçekliği anlatır.",
+  "Bugüne taşınabilecek ders, hileyle elde edilen üstünlüğün kalıcı olmadığıdır. Kısa vadede işe yarayan bir aldatmaca, uzun vadede genellikle onu kuranın aleyhine döner; bu yüzden dürüst yol, görünürde yavaş olsa da daha güvenlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kestirmeden kaçın",
+   "aciklama": "Bugün bir işte hileli bir kısayol yerine dürüst ve emek isteyen yolu seç."
+  },
+  {
+   "baslik": "Etkini fark et",
+   "aciklama": "Bulunduğun ortamda sahip olduğun etkiyi, başkasını değil doğruyu desteklemek için kullan."
+  },
+  {
+   "baslik": "Kısa vadeli kazancı sorgula",
+   "aciklama": "Bugün seni cazibeli bir kestirmeye çağıran bir teklifin uzun vadeli bedelini düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün bir işte, hileli bir kısayol yerine dürüst yolu seç ve bunu uygula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=123"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/123"
+  }
+ ]
+}

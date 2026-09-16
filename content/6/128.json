@@ -1,0 +1,299 @@
+{
+ "sure": 6,
+ "ayet": 128,
+ "durum": "taslak",
+ "meal": "Onları hep birlikte toplayacağı gün: 'Ey cin topluluğu! İnsanlardan pek çoğunu (kendinize) kattınız' der. İnsanlardan onların dostları ise, 'Rabbimiz! Birbirimizden yararlandık ve bize belirlediğin süremizin sonuna ulaştık' derler. Allah, 'Ateş, içinde sürekli kalacağınız barınağınızdır; Allah'ın dilediği hariç' der. Şüphesiz Rabbin, hüküm ve hikmet sahibidir, hakkıyla bilendir.",
+ "mealNotu": "'İstemtea ba'dunâ biba'd' ifadesi karşılıklı yararlanmayı anlatır; klasik tefsir bunu cinlerin insanları saptırması, insanların da bu telkinlere uymasından aldıkları zevk olarak açıklar. 'İllâ mâ şâellâh' istisnası, cehennemdeki kalışın da Allah'ın mutlak iradesine bağlı olduğunu vurgular.",
+ "kokler": [
+  {
+   "kelime": "وَيَوْمَ",
+   "okunus": "ve yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gün"
+  },
+  {
+   "kelime": "يَحْشُرُهُمْ",
+   "okunus": "yahşüruhüm",
+   "kok": "حشر",
+   "kokAnlam": "toplama, bir araya getirme",
+   "karsilik": "onları toplayacağı"
+  },
+  {
+   "kelime": "جَمِيعًا",
+   "okunus": "cemîan",
+   "kok": "جمع",
+   "kokAnlam": "toplama, birlik",
+   "karsilik": "hep birlikte"
+  },
+  {
+   "kelime": "يَٰمَعْشَرَ",
+   "okunus": "yâ ma'şera",
+   "kok": "عشر",
+   "kokAnlam": "topluluk",
+   "karsilik": "ey topluluğu"
+  },
+  {
+   "kelime": "ٱلْجِنِّ",
+   "okunus": "elcinni",
+   "kok": "جنن",
+   "kokAnlam": "gizlilik, örtülü olma; cin",
+   "karsilik": "cin"
+  },
+  {
+   "kelime": "قَدِ",
+   "okunus": "kadi",
+   "kok": "—",
+   "kokAnlam": "(kesinlik edatı)",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "ٱسْتَكْثَرْتُم",
+   "okunus": "isteksertüm",
+   "kok": "كثر",
+   "kokAnlam": "çokluk, çok elde etme",
+   "karsilik": "çoğunu kattınız"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْإِنسِ",
+   "okunus": "el'insi",
+   "kok": "أنس",
+   "kokAnlam": "ünsiyet; insan",
+   "karsilik": "insanlardan"
+  },
+  {
+   "kelime": "وَقَالَ",
+   "okunus": "ve kâle",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "ve dedi"
+  },
+  {
+   "kelime": "أَوْلِيَآؤُهُم",
+   "okunus": "evliyâühüm",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, dostluk",
+   "karsilik": "onların dostları"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْإِنسِ",
+   "okunus": "el'insi",
+   "kok": "أنس",
+   "kokAnlam": "ünsiyet; insan",
+   "karsilik": "insanlardan"
+  },
+  {
+   "kelime": "رَبَّنَا",
+   "okunus": "rabbenâ",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbimiz"
+  },
+  {
+   "kelime": "ٱسْتَمْتَعَ",
+   "okunus": "istemtea",
+   "kok": "متع",
+   "kokAnlam": "yararlanma, faydalanma",
+   "karsilik": "yararlandı"
+  },
+  {
+   "kelime": "بَعْضُنَا",
+   "okunus": "ba'dunâ",
+   "kok": "بعض",
+   "kokAnlam": "bir kısım, bazı",
+   "karsilik": "birbirimizden (bir kısmımız)"
+  },
+  {
+   "kelime": "بِبَعْضٍ",
+   "okunus": "biba'dın",
+   "kok": "بعض",
+   "kokAnlam": "bir kısım, bazı",
+   "karsilik": "diğerinden"
+  },
+  {
+   "kelime": "وَبَلَغْنَآ",
+   "okunus": "ve belağnâ",
+   "kok": "بلغ",
+   "kokAnlam": "ulaşma, erişme",
+   "karsilik": "ve ulaştık"
+  },
+  {
+   "kelime": "أَجَلَنَا",
+   "okunus": "ecelenâ",
+   "kok": "أجل",
+   "kokAnlam": "süre, vade",
+   "karsilik": "süremizin sonuna"
+  },
+  {
+   "kelime": "ٱلَّذِىٓ",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "أَجَّلْتَ",
+   "okunus": "eccelte",
+   "kok": "أجل",
+   "kokAnlam": "süre, vade belirleme",
+   "karsilik": "belirlediğin"
+  },
+  {
+   "kelime": "لَنَا",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) bize",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "der"
+  },
+  {
+   "kelime": "ٱلنَّارُ",
+   "okunus": "ennâru",
+   "kok": "نور",
+   "kokAnlam": "ışık, ateş",
+   "karsilik": "ateş"
+  },
+  {
+   "kelime": "مَثْوَىٰكُمْ",
+   "okunus": "mesvâküm",
+   "kok": "ثوي",
+   "kokAnlam": "kalma, ikamet etme",
+   "karsilik": "barınağınızdır"
+  },
+  {
+   "kelime": "خَٰلِدِينَ",
+   "okunus": "hâlidîne",
+   "kok": "خلد",
+   "kokAnlam": "süreklilik, kalıcılık",
+   "karsilik": "sürekli kalacaksınız"
+  },
+  {
+   "kelime": "فِيهَآ",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) hariç",
+   "karsilik": "hariç"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "شَآءَ",
+   "okunus": "şâe",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilediği"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "رَبَّكَ",
+   "okunus": "rabbeke",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbin"
+  },
+  {
+   "kelime": "حَكِيمٌ",
+   "okunus": "hakîmün",
+   "kok": "حكم",
+   "kokAnlam": "hikmet, hüküm verme",
+   "karsilik": "hüküm ve hikmet sahibidir"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "hakkıyla bilendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, kıyamet günü cin ve insan topluluklarının bir araya toplanacağı sahneyi anlatır. Cinlere, insanlardan pek çoğunu kendilerine kattıkları hatırlatılır; insanlardan onlara uyanlar ise karşılıklı bir 'yararlanma' ilişkisi olduğunu itiraf eder.",
+  "Sahnenin sonunda ateş, onların kalıcı barınağı olarak bildirilir; 'Allah'ın dilediği hariç' istisnası eklenir. Klasik tefsir bu istisnayı, cehennemdeki durumun bile sonsuza dek Allah'ın mutlak iradesine bağlı olduğunu vurgulamak için okur; hüküm nihai olarak yalnız O'na aittir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:107",
+   "meal": "Gökler ve yer durdukça, Rabbinin dilediği hariç, orada sürekli kalıcıdırlar. Şüphesiz Rabbin, dilediğini mutlaka yapandır.",
+   "baglanti": "Aynı 'Allah'ın dilediği hariç sürekli kalma' istisnası, burada da ateş ehli için tekrarlanır."
+  },
+  {
+   "ref": "7:38",
+   "meal": "(Allah) 'Sizden önce gelip geçmiş cin ve insan topluluklarıyla birlikte ateşe girin' der. Her ümmet girdikçe yol arkadaşına lanet eder.",
+   "baglanti": "Cin ve insanın birlikte cehenneme girmesi teması, 6:128'deki cin-insan ortaklığının bir başka anlatımıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan ahiretteki hesap sahnesi ve cin-insan ilişkisidir; gündelik bir hukuk kuralı içermez.",
+  "Bugüne taşınabilecek ders, kötü bir yönlendirmeye 'karşılıklı yarar' sağlıyor diye kanmamaktır. Kısa vadede hoşa giden bir ilişki veya alışkanlık, sonunda hesap sorulacak bir ortaklığa dönüşebilir; bu yüzden hangi etkileşimin gerçekten yararlı olduğunu ayırt etmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İlişkini sorgula",
+   "aciklama": "Bugün seni kötüye sürükleyen ama 'keyif veren' bir alışkanlığı fark et."
+  },
+  {
+   "baslik": "Karşılıklı yararı tart",
+   "aciklama": "Bir ilişkide kısa vadeli zevkin uzun vadeli bedelini bugün düşün."
+  },
+  {
+   "baslik": "Süreni hatırla",
+   "aciklama": "Bugün, sana verilen zamanın sınırlı olduğunu hatırlayarak bir önceliğini gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün, sana kısa vadede keyif veren ama uzun vadede zararlı bir alışkanlığı belirle ve ona bir sınır koy.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=128"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/128"
+  }
+ ]
+}

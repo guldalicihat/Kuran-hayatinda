@@ -1,0 +1,264 @@
+{
+ "sure": 6,
+ "ayet": 119,
+ "durum": "taslak",
+ "meal": "Üzerine Allah'ın adı anılmış olan şeyden yememeniz için size ne var? Oysa O, size haram kıldığını ayrıntılı biçimde açıklamıştır; kendisine mecbur kaldığınız durum hariç. Şüphesiz birçoğu, bilgisizce kendi heveslerine uyarak [insanları] saptırıyor. Şüphesiz Rabbin, sınırı aşanları en iyi bilendir.",
+ "mealNotu": "'Fassale' kökü ayrıntılı açıklamayı anlatır; haram olan zaten belirlenmiştir. 'Idturirtüm' zorunluluk/çaresizlik hâlini, 'ehvâ' bilgiye değil arzuya dayanan yönelişi ifade eder. 'Mu'tedîn' kökü sınırı aşmayı anlatır; cümlede özne belirtilmediği için [insanları] köşeli parantezle eklendi.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "لَكُم",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "أَلَّا",
+   "okunus": "ellâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki değil",
+   "karsilik": "ki ... değil"
+  },
+  {
+   "kelime": "تَأْكُلُوا۟",
+   "okunus": "te'külû",
+   "kok": "أكل",
+   "kokAnlam": "yeme",
+   "karsilik": "yememeniz"
+  },
+  {
+   "kelime": "مِمَّا",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -den, olan şeyden",
+   "karsilik": "şeyden"
+  },
+  {
+   "kelime": "ذُكِرَ",
+   "okunus": "zükira",
+   "kok": "ذكر",
+   "kokAnlam": "anma, zikretme",
+   "karsilik": "anılmış olan"
+  },
+  {
+   "kelime": "ٱسْمُ",
+   "okunus": "ismü",
+   "kok": "سمو",
+   "kokAnlam": "isim, ad",
+   "karsilik": "adı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "وَقَدْ",
+   "okunus": "ve kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik edatı)",
+   "karsilik": "oysa"
+  },
+  {
+   "kelime": "فَصَّلَ",
+   "okunus": "fessale",
+   "kok": "فصل",
+   "kokAnlam": "ayırma; ayrıntılı açıklama",
+   "karsilik": "ayrıntılı biçimde açıkladı"
+  },
+  {
+   "kelime": "لَكُم",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "حَرَّمَ",
+   "okunus": "harrame",
+   "kok": "حرم",
+   "kokAnlam": "yasaklama, haram kılma",
+   "karsilik": "haram kıldığı"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinize",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, dışında",
+   "karsilik": "hariç"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "durum"
+  },
+  {
+   "kelime": "ٱضْطُرِرْتُمْ",
+   "okunus": "idturirtüm",
+   "kok": "ضرر",
+   "kokAnlam": "zarar; zorunlu kalma",
+   "karsilik": "mecbur kaldığınız"
+  },
+  {
+   "kelime": "إِلَيْهِ",
+   "okunus": "ileyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) ona",
+   "karsilik": "kendisine"
+  },
+  {
+   "kelime": "وَإِنَّ",
+   "okunus": "ve inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "كَثِيرًا",
+   "okunus": "kesîran",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "birçoğu"
+  },
+  {
+   "kelime": "لَّيُضِلُّونَ",
+   "okunus": "leyüdıllûne",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, saptırma",
+   "karsilik": "saptırıyor"
+  },
+  {
+   "kelime": "بِأَهْوَآئِهِم",
+   "okunus": "biehvâihim",
+   "kok": "هوي",
+   "kokAnlam": "arzu, heves",
+   "karsilik": "kendi hevesleriyle"
+  },
+  {
+   "kelime": "بِغَيْرِ",
+   "okunus": "biğayri",
+   "kok": "غير",
+   "kokAnlam": "başkalık, olmaksızın",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "عِلْمٍ",
+   "okunus": "ilmin",
+   "kok": "علم",
+   "kokAnlam": "bilgi",
+   "karsilik": "bilgi"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "رَبَّكَ",
+   "okunus": "rabbeke",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbin"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "أَعْلَمُ",
+   "okunus": "a'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "en iyi bilendir"
+  },
+  {
+   "kelime": "بِٱلْمُعْتَدِينَ",
+   "okunus": "bil mü'tedîne",
+   "kok": "عدو",
+   "kokAnlam": "düşmanlık; sınırı aşma",
+   "karsilik": "sınırı aşanları"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetteki 'Allah'ın adı anılan şeyden yiyin' çağrısının devamıdır ve şaşkınlıkla sorar: haram-helal zaten ayrıntılı biçimde açıklanmışken insanlar neden bu emre uymakta tereddüt eder? 'Fassale' kökü, hükmün belirsiz bırakılmadığını, aksine detaylandırıldığını vurgular. Zorunluluk hâli (ıztırar) ise istisna olarak kalır; kişi gerçekten çaresiz kaldığında haramdan yiyebilir.",
+  "Ayetin ikinci kısmı, birçok insanın bilgiye değil kendi arzusuna (hevâ) dayanarak başkalarını saptırdığını bildirir. Klasik tefsir, bu ifadeyi dönemin bazı kişilerinin leş yemeyi haram, besmeleyle kesileni ise serbest bırakan ilahi hükmü tersine çevirmeye çalışmasıyla ilişkilendirerek açıklar. Ayet, sınırı aşanları en iyi bilenin Allah olduğunu hatırlatarak kapanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:3",
+   "meal": "Leş, kan, domuz eti ve Allah'tan başkası adına kesilenler size haram kılınmıştır... Kim şiddetli açlık içinde, günaha yönelmeksizin (bunlardan yemek) zorunda kalırsa, şüphesiz Allah çok bağışlayan, çok merhamet edendir.",
+   "baglanti": "Bu ayet, 6:119'daki 'haram kılınanı ayrıntılı açıkladık' ifadesinin somut listesidir; aynı zaruret (ıztırar) istisnası burada da yer alır."
+  },
+  {
+   "ref": "2:173",
+   "meal": "Allah size ancak leşi, kanı, domuz etini ve Allah'tan başkası adına kesileni haram kıldı. Ama kim saldırmaksızın ve sınırı aşmaksızın (yemek) zorunda kalırsa, ona günah yoktur; şüphesiz Allah çok bağışlayan, çok merhamet edendir.",
+   "baglanti": "6:119'daki zaruret istisnasının neredeyse aynı ifadeyle tekrarıdır; hukuktaki zaruret ilkesini pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, besmeleyle kesilen etin yenmesi ve zorunluluk hâlinde haramdan yemenin caiz olmasıdır; bu, İslam hukukundaki 'zaruret' ilkesinin temelidir.",
+  "Bugüne taşınabilecek ders, açıkça bildirilmiş bir kuralı kişisel arzuya göre yeniden yorumlamaya kalkışmamaktır. Bir kuralı beğenmemek başka, onu bilgisizce çarpıtmak başkadır; zorlukta esneklik ararken bunu keyfi bir bahaneye dönüştürmemek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kuralı olduğu gibi uygula",
+   "aciklama": "Bugün canını sıkan bir kuralı kendi çıkarına göre bükmeye çalışmak yerine, önce onu doğru anla."
+  },
+  {
+   "baslik": "Zorunluluğu istismar etme",
+   "aciklama": "Gerçekten mecbur kalmadığın bir durumu 'zorunluluk' diye göstererek kendine kolaylık sağlamaktan kaçın."
+  },
+  {
+   "baslik": "Bilgiye dayan, hevesine değil",
+   "aciklama": "Bir konuda karar verirken işine gelen değil doğru olan bilgiyi araştır."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kuralı uygularken 'işime gelmiyor' dediğin bir noktayı yeniden gözden geçir ve doğru bilgiye göre karar ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=119"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/119"
+  }
+ ]
+}

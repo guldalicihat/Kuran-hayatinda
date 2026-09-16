@@ -1,0 +1,103 @@
+{
+ "sure": 6,
+ "ayet": 134,
+ "durum": "taslak",
+ "meal": "Şüphesiz size vadedilen şey mutlaka gelecektir; siz (Allah'ı) âciz bırakacak değilsiniz.",
+ "mealNotu": "'Âtin' kökü أتي gelmeyi, gerçekleşmeyi anlatır. 'Mu'cizîn' kökü عجز aciz bırakma/kaçabilme anlamındadır; ayet, vadedilenden kaçışın mümkün olmadığını vurgular.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "تُوعَدُونَ",
+   "okunus": "tûadûne",
+   "kok": "وعد",
+   "kokAnlam": "söz verme, vaat etme",
+   "karsilik": "size vadedilen"
+  },
+  {
+   "kelime": "لَءَاتٍ",
+   "okunus": "leâtin",
+   "kok": "أتي",
+   "kokAnlam": "gelme, gerçekleşme",
+   "karsilik": "mutlaka gelecektir"
+  },
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...değil",
+   "karsilik": "ve ...değilsiniz"
+  },
+  {
+   "kelime": "أَنتُم",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "بِمُعْجِزِينَ",
+   "okunus": "bimü'cizîne",
+   "kok": "عجز",
+   "kokAnlam": "acze düşürme, kaçabilme",
+   "karsilik": "âciz bırakacak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, En'âm suresinin bu bölümünde anlatılan hesap, ceza ve mükâfat sahnelerinin kesinliğini vurgulayarak kapanış yapar: vadedilen şey mutlaka gerçekleşecektir.",
+  "İkinci kısım, hiç kimsenin bu gerçekleşmeyi engelleyemeyeceğini, ondan kaçamayacağını bildirir. Bu, hem uyarı hem güvence içerir: kötülüğün cezası kaçınılmazdır, iyiliğin karşılığı da aynı şekilde kesindir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "51:5",
+   "meal": "Şüphesiz size vadedilen, kesinlikle doğrudur.",
+   "baglanti": "6:134'teki 'mutlaka gelecektir' vurgusunu, aynı 'vadedilen' kelimesiyle doğrudan destekler."
+  },
+  {
+   "ref": "22:47",
+   "meal": "Senden azabı çabuklaştırmanı istiyorlar; oysa Allah, verdiği sözden asla caymaz. Şüphesiz Rabbinin katında bir gün, sizin saydıklarınızdan bin yıl gibidir.",
+   "baglanti": "Vadedilenin gecikmesinin, gerçekleşmeyeceği anlamına gelmediğini; Allah'ın sözünden asla caymadığını hatırlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, ahiretteki vaadin kesinliğidir; doğrudan bir dünyevi kural içermez.",
+  "Bugüne taşınabilecek ders, ertelenen bir sonucun yok olmadığıdır. Bir söz verildiğinde veya bir sorumluluk üstlenildiğinde, bunun er ya da geç karşılık bulacağını bilmek hem sabrı hem de dürüstlüğü besler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü tut",
+   "aciklama": "Bugün verdiğin bir sözü, ertelemeden yerine getir."
+  },
+  {
+   "baslik": "Kaçmayı bırak",
+   "aciklama": "Uzun süredir kaçındığın bir sorumluluğu bugün üstlen."
+  },
+  {
+   "baslik": "Sabırla bekle",
+   "aciklama": "Sonucunu göremediğin bir çabanda, bunun boşa gitmediğini hatırlayarak devam et."
+  }
+ ],
+ "bugununAdimi": "Bugün, ertelediğin bir sözü veya sorumluluğu yerine getirerek kaçınmayı bırak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=134"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/134"
+  }
+ ]
+}

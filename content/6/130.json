@@ -1,0 +1,243 @@
+{
+ "sure": 6,
+ "ayet": 130,
+ "durum": "taslak",
+ "meal": "Ey cin ve insan topluluğu! İçinizden size ayetlerimi anlatan ve bu gününüzle karşılaşacağınızı size haber veren elçiler gelmedi mi? 'Kendi aleyhimize şahitlik ederiz' derler. Dünya hayatı onları aldattı ve kendi aleyhlerine, gerçekten inkârcı olduklarına şahitlik ettiler.",
+ "mealNotu": "'Garret' kökü غرر aldatma, yanıltmayı anlatır; dünya hayatı burada aktif bir aldatıcı gibi tasvir edilir. 'Şehidnâ' fiili شهد şahitlik etme, tanıklık anlamındadır ve kişinin kendi aleyhine tanıklığını vurgular.",
+ "kokler": [
+  {
+   "kelime": "يَٰمَعْشَرَ",
+   "okunus": "yâ ma'şera",
+   "kok": "عشر",
+   "kokAnlam": "topluluk",
+   "karsilik": "ey topluluğu"
+  },
+  {
+   "kelime": "ٱلْجِنِّ",
+   "okunus": "elcinni",
+   "kok": "جنن",
+   "kokAnlam": "gizlilik, örtülü olma; cin",
+   "karsilik": "cin"
+  },
+  {
+   "kelime": "وَٱلْإِنسِ",
+   "okunus": "vel insi",
+   "kok": "أنس",
+   "kokAnlam": "ünsiyet; insan",
+   "karsilik": "ve insan"
+  },
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk soru) -medi mi",
+   "karsilik": "-medi mi"
+  },
+  {
+   "kelime": "يَأْتِكُمْ",
+   "okunus": "ye'tiküm",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "size gelmedi"
+  },
+  {
+   "kelime": "رُسُلٌ",
+   "okunus": "rusülün",
+   "kok": "رسل",
+   "kokAnlam": "gönderilme; elçi",
+   "karsilik": "elçiler"
+  },
+  {
+   "kelime": "مِّنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizden",
+   "karsilik": "içinizden"
+  },
+  {
+   "kelime": "يَقُصُّونَ",
+   "okunus": "yekussûne",
+   "kok": "قصص",
+   "kokAnlam": "anlatma, nakletme",
+   "karsilik": "anlatan"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "ءَايَٰتِى",
+   "okunus": "âyâtî",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil, ayet",
+   "karsilik": "ayetlerimi"
+  },
+  {
+   "kelime": "وَيُنذِرُونَكُمْ",
+   "okunus": "ve yünzirûneküm",
+   "kok": "نذر",
+   "kokAnlam": "uyarma",
+   "karsilik": "ve sizi uyaran"
+  },
+  {
+   "kelime": "لِقَآءَ",
+   "okunus": "likâe",
+   "kok": "لقي",
+   "kokAnlam": "karşılaşma, kavuşma",
+   "karsilik": "karşılaşmasıyla"
+  },
+  {
+   "kelime": "يَوْمِكُمْ",
+   "okunus": "yevmiküm",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gününüzün"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "شَهِدْنَا",
+   "okunus": "şehidnâ",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik, tanıklık etme",
+   "karsilik": "şahitlik ederiz"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) aleyhine",
+   "karsilik": "aleyhine"
+  },
+  {
+   "kelime": "أَنفُسِنَا",
+   "okunus": "enfüsinâ",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "kendi"
+  },
+  {
+   "kelime": "وَغَرَّتْهُمُ",
+   "okunus": "ve garrathümü",
+   "kok": "غرر",
+   "kokAnlam": "aldatma, yanıltma",
+   "karsilik": "ve onları aldattı"
+  },
+  {
+   "kelime": "ٱلْحَيَوٰةُ",
+   "okunus": "elhayâtü",
+   "kok": "حيي",
+   "kokAnlam": "yaşam, hayat",
+   "karsilik": "hayat"
+  },
+  {
+   "kelime": "ٱلدُّنْيَا",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık; dünya",
+   "karsilik": "dünya"
+  },
+  {
+   "kelime": "وَشَهِدُوا۟",
+   "okunus": "ve şehidû",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik, tanıklık etme",
+   "karsilik": "ve şahitlik ettiler"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) aleyhine",
+   "karsilik": "aleyhine"
+  },
+  {
+   "kelime": "أَنفُسِهِمْ",
+   "okunus": "enfüsihim",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "kendi"
+  },
+  {
+   "kelime": "أَنَّهُمْ",
+   "okunus": "ennehüm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) onların ... olduğuna",
+   "karsilik": "gerçekten ... olduklarına"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldukları"
+  },
+  {
+   "kelime": "كَٰفِرِينَ",
+   "okunus": "kâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkârcı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 128. ayette anlatılan toplanma sahnesine geri döner ve doğrudan soru sorar: elçiler gelmedi mi? Bu soru, mazeret bırakmayan bir hesap sorma biçimidir; cevap ise itiraftır: 'Kendi aleyhimize şahitlik ederiz.'",
+  "Ayetin son kısmı, bu itirafın nedenini açıklar: dünya hayatının onları aldatması. Klasik tefsir bu ayeti, uyarının ulaştığı ama geçici hazların öncelendiği durumlarda kişinin kendi tercihiyle sorumlu kılınmasına örnek olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "39:71",
+   "meal": "İnkâr edenler bölük bölük cehenneme sevk edilir; oraya vardıklarında kapıları açılır ve bekçileri der ki: 'İçinizden, Rabbinizin ayetlerini size okuyan ve bu gününüzle karşılaşacağınızı size haber veren elçiler gelmedi mi?' Onlar 'Evet' derler; fakat azap sözü kâfirlerin üzerine hak olmuştur.",
+   "baglanti": "6:130'daki soru neredeyse aynı ifadeyle burada da sorulur; cevap yine bir itiraftır."
+  },
+  {
+   "ref": "67:9",
+   "meal": "Derler ki: 'Evet, bize gerçekten bir uyarıcı gelmişti; fakat biz yalanladık ve dedik ki: Allah hiçbir şey indirmedi, siz büyük bir sapıklık içindesiniz.'",
+   "baglanti": "6:130'daki itirafın bir başka sahnesidir; uyarının geldiğini ama yalanlandığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu ahiretteki hesap günü ve kişinin kendi aleyhine şahitlik etmesidir; doğrudan bir dünya kuralı değildir.",
+  "Bugüne taşınabilecek ders, geçici hazların kalıcı sonuçları gölgelememesi gerektiğidir. 'Dünya hayatı onları aldattı' ifadesi, anlık bir zevk uğruna uzun vadeli bir sorumluluğu görmezden gelmenin riskini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Uyarıyı ciddiye al",
+   "aciklama": "Bugün seni uzun süredir uyaran ama görmezden geldiğin bir gerçeği kabul et."
+  },
+  {
+   "baslik": "Anlık hazza dur de",
+   "aciklama": "Bugün, uzun vadede zararlı olduğunu bildiğin anlık bir hazza bilinçli olarak hayır de."
+  },
+  {
+   "baslik": "Kendine dürüst ol",
+   "aciklama": "Bir konuda kendine yalan söylediğin bir noktayı bugün itiraf et ve düzelt."
+  }
+ ],
+ "bugununAdimi": "Bugün, uzun süredir görmezden geldiğin bir uyarıyı kabul et ve ona göre bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=130"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/130"
+  }
+ ]
+}
