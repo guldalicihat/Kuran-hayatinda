@@ -1,0 +1,124 @@
+{
+ "sure": 9,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "Bir mümin hakkında ne bir yakınlık bağı ne de bir antlaşma gözetirler. İşte onlar, haddi aşanların ta kendileridir.",
+ "mealNotu": "8. ayetteki ifade burada tekrarlanır; 'mu'tedûn' kökü sınırı aşma, haddi geçmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "-mazlar"
+  },
+  {
+   "kelime": "يَرْقُبُونَ",
+   "okunus": "yerkubûne",
+   "kok": "رقب",
+   "kokAnlam": "gözetme, koruma altında tutma",
+   "karsilik": "gözetmezler"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "مُؤْمِنٍ",
+   "okunus": "mü'minin",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "bir mümin"
+  },
+  {
+   "kelime": "إِلًّا",
+   "okunus": "illen",
+   "kok": "ألل",
+   "kokAnlam": "akrabalık bağı, yakınlık",
+   "karsilik": "bir yakınlık bağı"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "ذِمَّةً",
+   "okunus": "zimmeten",
+   "kok": "ذمم",
+   "kokAnlam": "sorumluluk, antlaşma",
+   "karsilik": "bir antlaşma"
+  },
+  {
+   "kelime": "وَأُو۟لَٰٓئِكَ",
+   "okunus": "ve ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlardır"
+  },
+  {
+   "kelime": "ٱلْمُعْتَدُونَ",
+   "okunus": "elmü'tedûne",
+   "kok": "عدو",
+   "kokAnlam": "sınırı aşma, düşmanlık",
+   "karsilik": "haddi aşanlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 8. ayetteki ifadeyi tekrarlayarak pekiştirir; ancak bu kez konu doğrudan müminlere yönelik tutumla belirtilir. Bu belirli grubun, antlaşmayı ilk bozan ve saldırgan taraf olduğu vurgulanır.",
+  "Klasik tefsir 'mu'tedûn' (haddi aşanlar) ifadesini, antlaşma ve ahlak sınırlarını tanımayan, ilk saldırıyı başlatan taraf olarak açıklar; ayet bu nedenle onların tutumunu kınar, genel olarak farklı inançtaki herkesi değil."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "9:8",
+   "meal": "Nasıl olabilir ki! Eğer size üstün gelselerdi, hakkınızda ne bir yakınlık bağı ne de bir antlaşma gözetirlerdi.",
+   "baglanti": "10. ayet, 8. ayetteki aynı ifadeyi tekrarlayarak bu tutumun süreklilik gösterdiğini vurgular."
+  },
+  {
+   "ref": "8:56",
+   "meal": "Kendileriyle antlaşma yaptığın, sonra her defasında antlaşmalarını bozan ve hiç sakınmayan kimseler...",
+   "baglanti": "Her iki ayet de aynı özelliği taşıyan bir grubu tasvir eder: antlaşmayı tekrar tekrar bozan ve bağ tanımayan bir tutum."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, Hicri 9. yılda antlaşma ve bağ tanımayan belirli bir müşrik grubunun tutumudur; bugünkü hayata genel bir 'kâfirlere güvenilmez' kuralı olarak uygulanamaz.",
+  "Ayetten çıkarılabilecek evrensel ilke, bir ilişkide bağı ve sözü sürekli çiğneyen tarafın davranışının haddi aşma olarak nitelendirilmesidir; bu, ahde vefanın önemini tersinden gösterir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sınırını aşma",
+   "aciklama": "Bir anlaşmazlıkta, karşı taraf ne yaparsa yapsın sen kendi ahlaki sınırlarını koru."
+  },
+  {
+   "baslik": "Bağını koru",
+   "aciklama": "Bir yakınlık veya işbirliği bağın varsa, bunu kolayca çiğnememeye özen göster."
+  },
+  {
+   "baslik": "Tekrar eden ihlali fark et",
+   "aciklama": "Biri sürekli sözünden dönüyorsa bunu nazikçe ama açıkça ona ilet."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir bağı veya sözü koruma konusunda kendi tutarlılığını gözden geçir ve gerekiyorsa düzelt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/10"
+  }
+ ]
+}

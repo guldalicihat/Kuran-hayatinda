@@ -1,0 +1,222 @@
+{
+ "sure": 8,
+ "ayet": 70,
+ "durum": "taslak",
+ "meal": "Ey Peygamber! Elinizdeki esirlere de ki: Eğer Allah kalplerinizde bir hayır bilirse, sizden alınandan daha hayırlısını size verir ve sizi bağışlar. Allah çok bağışlayandır, çok merhamet edendir.",
+ "mealNotu": "'Hayran' kelimesi خير kökünden gelir ve hem kalpteki niyeti hem de karşılığını anlatır; ayet dıştan görünen esirlik durumunun ötesinde kalpteki hakiki hâlin belirleyici olduğunu bildirir.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida edatı) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلنَّبِىُّ",
+   "okunus": "ennebiyyü",
+   "kok": "نبأ",
+   "kokAnlam": "haber verme; peygamber",
+   "karsilik": "Peygamber"
+  },
+  {
+   "kelime": "قُل",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "لِّمَن",
+   "okunus": "limen",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kime ki",
+   "karsilik": "kime ki (olana)"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "-de, içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "أَيْدِيكُم",
+   "okunus": "eydîküm",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "ellerinizde"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْأَسْرَىٰٓ",
+   "okunus": "el'esrâ",
+   "kok": "أسر",
+   "kokAnlam": "esir alma, bağlama",
+   "karsilik": "esirlerden"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "eğer, şart edatı",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يَعْلَمِ",
+   "okunus": "ya'lemi",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilirse"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "-de, içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "قُلُوبِكُمْ",
+   "okunus": "kulûbiküm",
+   "kok": "قلب",
+   "kokAnlam": "kalp",
+   "karsilik": "kalplerinizde"
+  },
+  {
+   "kelime": "خَيْرًا",
+   "okunus": "hayran",
+   "kok": "خير",
+   "kokAnlam": "hayır, iyilik",
+   "karsilik": "bir hayır"
+  },
+  {
+   "kelime": "يُؤْتِكُمْ",
+   "okunus": "yü'tiküm",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "size verir"
+  },
+  {
+   "kelime": "خَيْرًا",
+   "okunus": "hayran",
+   "kok": "خير",
+   "kokAnlam": "hayır, iyilik",
+   "karsilik": "daha hayırlısını"
+  },
+  {
+   "kelime": "مِّمَّآ",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أُخِذَ",
+   "okunus": "ühıze",
+   "kok": "أخذ",
+   "kokAnlam": "alma, tutma",
+   "karsilik": "alınandan"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "وَيَغْفِرْ",
+   "okunus": "ve yağfir",
+   "kok": "غفر",
+   "kokAnlam": "bağışlama, örtme",
+   "karsilik": "ve bağışlar"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size, sizi",
+   "karsilik": "sizi"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَفُورٌ",
+   "okunus": "gafûrun",
+   "kok": "غفر",
+   "kokAnlam": "bağışlama, örtme",
+   "karsilik": "çok bağışlayandır"
+  },
+  {
+   "kelime": "رَّحِيمٌ",
+   "okunus": "rahîmün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet",
+   "karsilik": "çok merhamet edendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerdeki esirler konusunun devamında doğrudan esirlere yönelik bir mesaj taşır. 'Kulûbiküm' kelimesi قلب köküyle kalbi, 'hayran' kelimesi خير köküyle hayrı/iyi niyeti anlatır; ayet dıştan görünen esirlik durumunun ötesinde kalpteki hakiki hâlin Allah katında belirleyici olduğunu bildirir.",
+  "'Yü'tiküm hayran mimmâ ühıze minküm' ifadesi, kaybedilenin yerine daha hayırlısının verileceğini vaat eder; 'yağfir' kökü غفر ise bağışlanmayı anlatır. Ayet, samimi bir kalple Allah'a yönelmenin hem maddi hem manevi bir karşılığı olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "33:51",
+   "meal": "...Allah kalplerinizde olanı bilir. Allah her şeyi bilendir, halîmdir.",
+   "baglanti": "'Vallâhü ya'lemü mâ fî kulûbiküm' ifadesi 8:70'teki 'ya'lemillâhü fî kulûbiküm' ile hemen hemen aynıdır; her iki ayet de Allah'ın kalplerdeki hakikati bildiğini vurgular."
+  },
+  {
+   "ref": "34:39",
+   "meal": "...Her ne infak ederseniz Allah onun yerine başkasını verir; O, rızık verenlerin en hayırlısıdır.",
+   "baglanti": "'Yühlifühû' (yerine verir) ifadesi, 8:70'teki 'yü'tiküm hayran mimmâ ühıze minküm' (alınandan daha hayırlısını verir) vaadiyle aynı temayı taşır; kaybedilenin karşılığının Allah tarafından telafi edileceğini anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, savaş esirlerine yönelik özel bir çağrı ve vaattir; bu, tarihî bir duruma özgüdür ve doğrudan genel bir hayat kuralı olarak alınmamalıdır.",
+  "Genel ders, dış görünüşün değil kalpteki niyetin asıl belirleyici olduğudur. Günlük hayatta, kaybettiğin bir şeyin ardından umutsuzluğa kapılmak yerine, kalbini doğru tutarak Allah'ın telafisine güvenmek bu ayetten çıkarılabilecek bir derstir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kalbini gözden geçir",
+   "aciklama": "Bugün bir işini yaparken dış görünüşten önce niyetinin doğruluğunu kontrol et."
+  },
+  {
+   "baslik": "Kayba karşı umutlu ol",
+   "aciklama": "Bugün kaybettiğin bir şeyin yerine daha iyisinin gelebileceğine güvenerek umutsuzluğu bırak."
+  },
+  {
+   "baslik": "Bağışlanmayı iste",
+   "aciklama": "Bugün samimi bir kalple Allah'tan bağışlanma dile."
+  }
+ ],
+ "bugununAdimi": "Bugün bir işini yaparken dış görünüşten önce niyetinin doğruluğunu kontrol et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=70"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/8/70"
+  }
+ ]
+}

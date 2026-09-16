@@ -1,0 +1,236 @@
+{
+ "sure": 9,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Haram aylar çıkınca müşrikleri bulduğunuz yerde öldürün; onları yakalayın, kuşatın ve onlar için her gözetleme yerinde pusu kurun. Eğer tövbe eder, namazı kılar ve zekâtı verirlerse yollarını serbest bırakın. Şüphesiz Allah çok bağışlayan, çok merhamet edendir.",
+ "mealNotu": "Bu ayetteki hüküm, önceki ayetlerde tanımlanan ve antlaşmasını bozan belirli müşrik gruplarıyla ilgilidir; 4. ayetteki istisna (antlaşmasına sadık kalanlar) bu hükmün dışındadır. 'İnselaha' kökü sıyrılıp çıkmayı, 'hurum' ise haram/dokunulmaz olanı anlatır.",
+ "kokler": [
+  {
+   "kelime": "فَإِذَا",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -ınca",
+   "karsilik": "-ınca"
+  },
+  {
+   "kelime": "ٱنسَلَخَ",
+   "okunus": "inseleha",
+   "kok": "سلخ",
+   "kokAnlam": "sıyrılma, çıkma",
+   "karsilik": "çıkınca"
+  },
+  {
+   "kelime": "ٱلْأَشْهُرُ",
+   "okunus": "el'eşhüru",
+   "kok": "شهر",
+   "kokAnlam": "aylar",
+   "karsilik": "aylar"
+  },
+  {
+   "kelime": "ٱلْحُرُمُ",
+   "okunus": "elhurumü",
+   "kok": "حرم",
+   "kokAnlam": "haram, dokunulmaz",
+   "karsilik": "haram (olan)"
+  },
+  {
+   "kelime": "فَٱقْتُلُوا۟",
+   "okunus": "fektülû",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürün"
+  },
+  {
+   "kelime": "ٱلْمُشْرِكِينَ",
+   "okunus": "elmüşrikîne",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "müşrikleri"
+  },
+  {
+   "kelime": "حَيْثُ",
+   "okunus": "haysü",
+   "kok": "حيث",
+   "kokAnlam": "yer, mekân",
+   "karsilik": "yerde"
+  },
+  {
+   "kelime": "وَجَدتُّمُوهُمْ",
+   "okunus": "vecedttümûhüm",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "onları bulduğunuz"
+  },
+  {
+   "kelime": "وَخُذُوهُمْ",
+   "okunus": "ve huzûhüm",
+   "kok": "أخذ",
+   "kokAnlam": "alma, yakalama",
+   "karsilik": "ve onları yakalayın"
+  },
+  {
+   "kelime": "وَٱحْصُرُوهُمْ",
+   "okunus": "vehsurûhüm",
+   "kok": "حصر",
+   "kokAnlam": "kuşatma, sıkıştırma",
+   "karsilik": "ve kuşatın"
+  },
+  {
+   "kelime": "وَٱقْعُدُوا۟",
+   "okunus": "vek'udû",
+   "kok": "قعد",
+   "kokAnlam": "oturma, bekleme",
+   "karsilik": "ve oturun (pusu kurun)"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar için",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "كُلَّ",
+   "okunus": "külle",
+   "kok": "كلل",
+   "kokAnlam": "her, bütün",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "مَرْصَدٍ",
+   "okunus": "mersadin",
+   "kok": "رصد",
+   "kokAnlam": "gözetleme yeri",
+   "karsilik": "gözetleme yerinde"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَابُوا۟",
+   "okunus": "tâbû",
+   "kok": "توب",
+   "kokAnlam": "dönüş, tövbe",
+   "karsilik": "tövbe ederlerse"
+  },
+  {
+   "kelime": "وَأَقَامُوا۟",
+   "okunus": "ve ekâmû",
+   "kok": "قوم",
+   "kokAnlam": "ayakta tutma, kurma",
+   "karsilik": "ve kılarlarsa"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "namaz",
+   "karsilik": "namazı"
+  },
+  {
+   "kelime": "وَءَاتَوُا۟",
+   "okunus": "ve âtevü",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "ve verirlerse"
+  },
+  {
+   "kelime": "ٱلزَّكَوٰةَ",
+   "okunus": "ezzekâte",
+   "kok": "زكو",
+   "kokAnlam": "arınma, zekât",
+   "karsilik": "zekâtı"
+  },
+  {
+   "kelime": "فَخَلُّوا۟",
+   "okunus": "fehallû",
+   "kok": "خلو",
+   "kokAnlam": "boş bırakma, serbest bırakma",
+   "karsilik": "serbest bırakın"
+  },
+  {
+   "kelime": "سَبِيلَهُمْ",
+   "okunus": "sebîlehüm",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yollarını"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَفُورٌ",
+   "okunus": "gafûrun",
+   "kok": "غفر",
+   "kokAnlam": "bağışlama",
+   "karsilik": "çok bağışlayandır"
+  },
+  {
+   "kelime": "رَّحِيمٌ",
+   "okunus": "rahîmün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet",
+   "karsilik": "çok merhamet edendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetlerde anlatılan somut tarihî olayın devamıdır: antlaşmalarını bozan ve kendilerine dört aylık mühlet tanınan belirli Mekkeli müşrik gruplarıyla ilgili özel bir savaş hükmüdür. 4. ayetteki istisna gereği, antlaşmasına sadık kalan müşrikler bu hükmün tamamen dışındadır; ayet genel olarak tüm müşriklerle değil, mühlet tanınmasına rağmen düşmanlığı sürdüren belirli bir grupla ilgilidir.",
+  "Klasik tefsir bu ayeti, o dönemdeki savaş hukukuna dair bir hüküm olarak açıklar ve ayetin kendi içinde bir çıkış kapısı bulunduğunu vurgular: tövbe edip namaz kılan ve zekât verenlerin yolu serbest bırakılır, ayet 'Allah çok bağışlayan, çok merhamet edendir' sözüyle sona erer. Bu, ayetin amacının yok etmek değil, düşmanlığa son vermek olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "9:4",
+   "meal": "Ancak kendileriyle antlaşma yaptığınız müşriklerden, sonra size karşı hiçbir eksiltme yapmayan ve aleyhinizde kimseye arka çıkmayanlar hariç; onlara karşı antlaşmalarını süreleri bitinceye kadar tamamlayın.",
+   "baglanti": "5. ayetteki hüküm, antlaşmasına sadık kalanları kapsamaz; bu istisna 5. ayetten hemen önce açıkça belirtilmiştir."
+  },
+  {
+   "ref": "2:190",
+   "meal": "Sizinle savaşanlarla Allah yolunda savaşın, fakat aşırı gitmeyin. Şüphesiz Allah aşırı gidenleri sevmez.",
+   "baglanti": "Bu ayet, savaşın sınırsız değil sınırlı ve ölçülü olması gerektiğini belirterek 9:5'teki hükmün mutlak bir düşmanlık çağrısı olmadığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, Hicri 9. yılda belirli antlaşmaları bozan ve mühlet tanınmasına rağmen düşmanlığını sürdüren Mekkeli müşriklerle ilgili özel bir tarihî/hukuki savaş hükmüdür; bugünkü hayata genel bir 'kâfirlerle savaş' kuralı olarak uygulanamaz ve farklı inançtaki insanlarla günlük ilişkiler için bir ölçü değildir.",
+  "Ayetin kendi içinde vurguladığı evrensel ilke, düşmanlığın sürekli değil, karşı taraf tutumunu değiştirdiğinde (burada: tövbe, namaz, zekât) sona erdirilmesi gerektiğidir; bu, bir anlaşmazlıkta kapının her zaman barışa açık tutulması gerektiğini öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Barışa kapı bırak",
+   "aciklama": "Bir anlaşmazlıkta karşı taraf tutumunu değiştirdiğinde, ona yeniden yakınlaşma imkânı tanı."
+  },
+  {
+   "baslik": "Öfkeni süresiz tutma",
+   "aciklama": "Bugün bir kırgınlığını, karşı taraf düzeldiğinde bitirebileceğin şekilde değerlendir."
+  },
+  {
+   "baslik": "Merhameti unutma",
+   "aciklama": "Haklı olduğun bir anlaşmazlıkta bile, karşı tarafın samimi düzelme çabasına karşı bağışlayıcı ol."
+  }
+ ],
+ "bugununAdimi": "Bugün, tutumunu düzelten birine karşı öfkeni bırakıp yeniden normal ilişkiye dön.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/5"
+  }
+ ]
+}

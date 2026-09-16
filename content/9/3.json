@@ -1,0 +1,278 @@
+{
+ "sure": 9,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Büyük hac gününde, Allah ve Resûlünden insanlara bir duyurudur: Allah, müşriklerden uzaktır, Resûlü de öyle. Eğer tövbe ederseniz bu sizin için daha hayırlıdır; yüz çevirirseniz bilin ki siz Allah'ı âciz bırakacak değilsiniz. İnkâr edenlere acı bir azabı müjdele.",
+ "mealNotu": "'Ezân' kökü genel duyuru/ilan anlamındadır. 'Beşşir' kökü aslen müjdelemeyi ifade eder; burada ironik biçimde acı bir haberi bildirmek için kullanılmıştır, bu nedenle 'müjdele' karşılığı korunmuş, anlam bağlamdan anlaşılır.",
+ "kokler": [
+  {
+   "kelime": "وَأَذَٰنٌ",
+   "okunus": "ve ezânün",
+   "kok": "أذن",
+   "kokAnlam": "haber verme, duyuru, izin",
+   "karsilik": "ve bir duyurudur"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "وَرَسُولُهُۥ",
+   "okunus": "ve rasûlihî",
+   "kok": "رسل",
+   "kokAnlam": "gönderme; elçi",
+   "karsilik": "ve Resûlünden"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلنَّاسِ",
+   "okunus": "ennâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet",
+   "karsilik": "insanlara"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gününde"
+  },
+  {
+   "kelime": "ٱلْحَجِّ",
+   "okunus": "elhacci",
+   "kok": "حجج",
+   "kokAnlam": "yönelme, kastetme; hac",
+   "karsilik": "haccın"
+  },
+  {
+   "kelime": "ٱلْأَكْبَرِ",
+   "okunus": "el'ekberi",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük",
+   "karsilik": "en büyük"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بَرِىٓءٌ",
+   "okunus": "berîün",
+   "kok": "برأ",
+   "kokAnlam": "uzaklaşma, ilişkiyi kesme",
+   "karsilik": "uzaktır"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُشْرِكِينَ",
+   "okunus": "elmüşrikîne",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "müşriklerden"
+  },
+  {
+   "kelime": "وَرَسُولُهُۥ",
+   "okunus": "ve rasûlühû",
+   "kok": "رسل",
+   "kokAnlam": "gönderme; elçi",
+   "karsilik": "Resûlü de (uzaktır)"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تُبْتُمْ",
+   "okunus": "tübtüm",
+   "kok": "توب",
+   "kokAnlam": "dönüş, tövbe",
+   "karsilik": "tövbe ederseniz"
+  },
+  {
+   "kelime": "فَهُوَ",
+   "okunus": "fehüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o halde bu"
+  },
+  {
+   "kelime": "خَيْرٌ",
+   "okunus": "hayrun",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "daha hayırlıdır"
+  },
+  {
+   "kelime": "لَّكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَوَلَّيْتُمْ",
+   "okunus": "tevelleytüm",
+   "kok": "ولي",
+   "kokAnlam": "dönüp gitme, yüz çevirme",
+   "karsilik": "yüz çevirirseniz"
+  },
+  {
+   "kelime": "فَٱعْلَمُوٓا۟",
+   "okunus": "felemû",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilin ki"
+  },
+  {
+   "kelime": "أَنَّكُمْ",
+   "okunus": "enneküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz siz",
+   "karsilik": "şüphesiz siz"
+  },
+  {
+   "kelime": "غَيْرُ",
+   "okunus": "gayru",
+   "kok": "غير",
+   "kokAnlam": "başkalık, dışında olma",
+   "karsilik": "değilsiniz"
+  },
+  {
+   "kelime": "مُعْجِزِى",
+   "okunus": "mü'cizî",
+   "kok": "عجز",
+   "kokAnlam": "âciz bırakma",
+   "karsilik": "âciz bırakacak"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ı"
+  },
+  {
+   "kelime": "وَبَشِّرِ",
+   "okunus": "ve beşşiri",
+   "kok": "بشر",
+   "kokAnlam": "müjdeleme, haber verme",
+   "karsilik": "müjdele"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri)",
+   "karsilik": "-enleri"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "gerçeği örtme, inkâr",
+   "karsilik": "inkâr"
+  },
+  {
+   "kelime": "بِعَذَابٍ",
+   "okunus": "biazâbin",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "acı bir azap ile"
+  },
+  {
+   "kelime": "أَلِيمٍ",
+   "okunus": "elîmin",
+   "kok": "ألم",
+   "kokAnlam": "acı verme",
+   "karsilik": "acı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 1. ayetteki berâe bildirisinin, hac mevsiminde toplanan insanlara açıkça duyurulmasını konu edinir. Klasik tefsir 'büyük hac günü' ifadesini, o yılki hac mevsiminde kalabalığın bir arada bulunduğu belirli bir günle açıklar; duyuru, gizli değil herkesin duyacağı şekilde yapılmıştır.",
+  "Ayet, antlaşmasını bozan müşriklere yine de bir çıkış yolu sunar: tövbe. 'Tövbe ederseniz bu sizin için hayırlıdır' ifadesi, ilanın amacının yok etmek değil, tarafları netleştirmek ve dönüş kapısını açık tutmak olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "9:4",
+   "meal": "Ancak kendileriyle antlaşma yaptığınız müşriklerden, sonra size karşı hiçbir eksiltme yapmayan ve aleyhinizde kimseye arka çıkmayanlar hariç; antlaşmalarını süreleri bitinceye kadar tamamlayın.",
+   "baglanti": "3. ayetteki genel duyurunun hemen ardından gelen istisna, antlaşmasına sadık kalanların bu bildirinin dışında tutulduğunu açıklığa kavuşturur."
+  },
+  {
+   "ref": "2:197",
+   "meal": "Hac, bilinen aylardadır. Kim o aylarda hacca niyet ederse, hacda kadına yaklaşma, günaha sapma ve tartışma yoktur.",
+   "baglanti": "Her iki ayet de hac zamanının insanların toplandığı, önemli duyuruların yapıldığı belirli bir dönem olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, Hicri 9. yılda hac mevsiminde yapılan tarihî ve hukuki bir kamu duyurusudur; bugünkü hayata genel bir düşmanlık kuralı olarak uygulanamaz.",
+  "Ayetten çıkarılabilecek evrensel ilke, önemli bir kararı gizli değil açık biçimde, ilgili herkesin duyacağı şekilde ilan etmek ve karşı tarafa dönüş/düzeltme imkânı tanımaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kararını açıkça duyur",
+   "aciklama": "Seni ve başkalarını ilgilendiren bir kararı fısıltıyla değil, ilgili herkesin duyacağı şekilde açıkla."
+  },
+  {
+   "baslik": "Dönüş kapısını açık tut",
+   "aciklama": "Biriyle anlaşmazlık yaşadığında, düzeltme ve barışma imkânını baştan kapatma."
+  },
+  {
+   "baslik": "Zamanlamaya dikkat et",
+   "aciklama": "Önemli bir duyuruyu, insanların bir arada ve dikkatli olduğu uygun bir zamanda yap."
+  }
+ ],
+ "bugununAdimi": "Açıklığa kavuşturman gereken bir konuyu bugün, ilgili kişilere net ve anlaşılır biçimde duyur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/3"
+  }
+ ]
+}

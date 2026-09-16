@@ -1,0 +1,369 @@
+{
+ "sure": 8,
+ "ayet": 72,
+ "durum": "taslak",
+ "meal": "İman edip hicret edenler, Allah yolunda mallarıyla ve canlarıyla cihad edenler ve (onları) barındırıp yardım edenler; işte onlar birbirinin velisidir (dostu ve destekçisidir). İman edip hicret etmeyenlere gelince, hicret edinceye kadar onların velayetinden size hiçbir şey yoktur. Ama dinde sizden yardım isterlerse, aranızda antlaşma bulunan bir topluluğa karşı olması dışında, yardım etmek üzerinize borçtur. Allah yaptıklarınızı görmektedir.",
+ "mealNotu": "'Velâyet' ve 'evliyâü' kelimeleri ولي kökünden gelir; dostluk, koruyuculuk ve destek ilişkisini anlatır. Ayet bu ilişkiyi hicret ve cihad temelinde tanımlar; hukuki sonuçları (mirasa da yansıyan velayet bağı) klasik tefsirin ele aldığı özel bir konudur.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid edatı",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "iman etme, güvenme",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "وَهَاجَرُوا۟",
+   "okunus": "ve hâcerû",
+   "kok": "هجر",
+   "kokAnlam": "terk etme, hicret etme",
+   "karsilik": "ve hicret edenler"
+  },
+  {
+   "kelime": "وَجَٰهَدُوا۟",
+   "okunus": "ve câhedû",
+   "kok": "جهد",
+   "kokAnlam": "çaba, çabalama, mücadele",
+   "karsilik": "ve cihad edenler"
+  },
+  {
+   "kelime": "بِأَمْوَٰلِهِمْ",
+   "okunus": "biemvâlihim",
+   "kok": "مول",
+   "kokAnlam": "mal, servet",
+   "karsilik": "mallarıyla"
+  },
+  {
+   "kelime": "وَأَنفُسِهِمْ",
+   "okunus": "ve enfüsihim",
+   "kok": "نفس",
+   "kokAnlam": "nefis, can",
+   "karsilik": "ve canlarıyla"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "-de, içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ve kimseler",
+   "karsilik": "ve kimseler"
+  },
+  {
+   "kelime": "ءَاوَوا۟",
+   "okunus": "âvev",
+   "kok": "أوي",
+   "kokAnlam": "barındırma, sığınak verme",
+   "karsilik": "barındıranlar"
+  },
+  {
+   "kelime": "وَّنَصَرُوٓا۟",
+   "okunus": "venesarû",
+   "kok": "نصر",
+   "kokAnlam": "yardım etme",
+   "karsilik": "ve yardım edenler"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "بَعْضُهُمْ",
+   "okunus": "ba'duhüm",
+   "kok": "بعض",
+   "kokAnlam": "bir kısmı, bazısı",
+   "karsilik": "birbirinin (bazısı)"
+  },
+  {
+   "kelime": "أَوْلِيَآءُ",
+   "okunus": "evliyâü",
+   "kok": "ولي",
+   "kokAnlam": "dostluk, velilik, koruyuculuk",
+   "karsilik": "velisidir"
+  },
+  {
+   "kelime": "بَعْضٍ",
+   "okunus": "ba'dın",
+   "kok": "بعض",
+   "kokAnlam": "bir kısmı, bazısı",
+   "karsilik": "bazısının"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ve kimseler",
+   "karsilik": "ve kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "iman etme, güvenme",
+   "karsilik": "iman edip"
+  },
+  {
+   "kelime": "وَلَمْ",
+   "okunus": "ve lem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ve etmemişse"
+  },
+  {
+   "kelime": "يُهَاجِرُوا۟",
+   "okunus": "yühâcirû",
+   "kok": "هجر",
+   "kokAnlam": "terk etme, hicret etme",
+   "karsilik": "hicret"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "لَكُم",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "وَلَٰيَتِهِم",
+   "okunus": "velâyetihim",
+   "kok": "ولي",
+   "kokAnlam": "velayet, dostluk ve koruyuculuk bağı",
+   "karsilik": "onların velayetinden"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "hiçbir şey"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "kadar, -e dek",
+   "karsilik": "kadar"
+  },
+  {
+   "kelime": "يُهَاجِرُوا۟",
+   "okunus": "yühâcirû",
+   "kok": "هجر",
+   "kokAnlam": "terk etme, hicret etme",
+   "karsilik": "hicret edinceye"
+  },
+  {
+   "kelime": "وَإِنِ",
+   "okunus": "ve ini",
+   "kok": "—",
+   "kokAnlam": "eğer, şart edatı",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "ٱسْتَنصَرُوكُمْ",
+   "okunus": "istensarûküm",
+   "kok": "نصر",
+   "kokAnlam": "yardım isteme",
+   "karsilik": "sizden yardım isterlerse"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "-de, içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلدِّينِ",
+   "okunus": "eddîni",
+   "kok": "دين",
+   "kokAnlam": "din",
+   "karsilik": "dinde"
+  },
+  {
+   "kelime": "فَعَلَيْكُمُ",
+   "okunus": "fealeykümü",
+   "kok": "—",
+   "kokAnlam": "üzerinize (borçtur)",
+   "karsilik": "üzerinize (borçtur)"
+  },
+  {
+   "kelime": "ٱلنَّصْرُ",
+   "okunus": "ennasru",
+   "kok": "نصر",
+   "kokAnlam": "yardım",
+   "karsilik": "yardım (etmek)"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna edatı",
+   "karsilik": "hariç, dışında"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerine, karşı",
+   "karsilik": "karşı"
+  },
+  {
+   "kelime": "قَوْمٍۭ",
+   "okunus": "kavmim",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "bir topluluğa"
+  },
+  {
+   "kelime": "بَيْنَكُمْ",
+   "okunus": "beyneküm",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında",
+   "karsilik": "sizinle aranızda"
+  },
+  {
+   "kelime": "وَبَيْنَهُم",
+   "okunus": "ve beynehüm",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında",
+   "karsilik": "ve onlar arasında"
+  },
+  {
+   "kelime": "مِّيثَٰقٌ",
+   "okunus": "mîsâkun",
+   "kok": "وثق",
+   "kokAnlam": "sağlam bağ, antlaşma",
+   "karsilik": "antlaşma (bulunan)"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) -ile, şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma, işleme, amel etme",
+   "karsilik": "yaptıklarınızı"
+  },
+  {
+   "kelime": "بَصِيرٌ",
+   "okunus": "besîrun",
+   "kok": "بصر",
+   "kokAnlam": "görme",
+   "karsilik": "görmektedir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu uzun ayet, mü'minler arasındaki velayet (dostluk, koruyuculuk ve destek) ilişkisini üç grup üzerinden tanımlar: iman edip hicret ederek malı ve canıyla Allah yolunda cihad edenler, onları barındırıp yardım edenler ve iman ettiği hâlde henüz hicret etmemiş olanlar. 'Evliyâü' kelimesi ولي köküyle dostluk ve koruyuculuğu anlatır.",
+  "Ayet, hicret etmeyenlerle olan velayet bağının hicrete kadar sınırlı olduğunu, ancak din konusunda yardım istendiğinde -antlaşmalı bir topluluğa karşı olmadıkça- yardımın bir yükümlülük olduğunu bildirir. Klasik tefsir bu ayetin, erken dönemde hicret ve barındırma ilişkisine dayanan dayanışma ve miras hukukunu düzenlediğini, sonraki ayetlerle (8:75) bu düzenin akrabalık esasına geçtiğini açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "9:20",
+   "meal": "İman edip hicret edenler ve Allah yolunda mallarıyla canlarıyla cihad edenler, Allah katında derece bakımından daha büyüktürler; işte kurtuluşa erenler onlardır.",
+   "baglanti": "İfade neredeyse birebir 8:72 ile örtüşür; 'âmenû ve hâcerû ve câhedû fî sebîlillâhi biemvâlihim ve enfüsihim' cümlesi aynı kelimelerle tekrar eder."
+  },
+  {
+   "ref": "9:71",
+   "meal": "Mümin erkekler ve mümin kadınlar birbirlerinin velileridir (dostu ve destekçisidir); iyiliği emreder, kötülükten alıkoyarlar.",
+   "baglanti": "'Ba'duhüm evliyâü ba'd' ifadesi 8:72'deki aynı cümleyle birebir örtüşür (ولي kökü); her iki ayet de müminler arasındaki dayanışma bağını aynı kalıpla tanımlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, erken dönem Medine toplumundaki hicret, barındırma ve yardım ilişkisi ve bunun doğurduğu hukuki velayet/yardım yükümlülükleridir; bu, tarihî ve hukuki bir düzenlemedir.",
+  "Buradan zorlamadan çıkarılabilecek genel ilke, bir arada durmanın (imanla, fedakârlıkla ve karşılıklı destekle) gerçek bir dayanışma doğurduğudur. Günlük hayatta, sadece söz değil emek ve fedakârlıkla yanında durduğun insanlarla gerçek bir bağ kurulur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Emekle dayanışma kur",
+   "aciklama": "Bugün birine sadece sözle değil, zamanınla veya imkânınla destek ol."
+  },
+  {
+   "baslik": "Barındırdığın birine değer ver",
+   "aciklama": "Bugün yanına aldığın veya desteklediğin birine bu desteğin bir emanet olduğunu hatırla."
+  },
+  {
+   "baslik": "Sözünü tut",
+   "aciklama": "Bugün birine verdiğin destek sözünü fiilen yerine getir."
+  }
+ ],
+ "bugununAdimi": "Bugün birine sadece sözle değil, zamanınla veya imkânınla destek ol.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=72"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/8/72"
+  }
+ ]
+}
