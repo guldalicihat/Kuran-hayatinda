@@ -1,0 +1,285 @@
+{
+ "sure": 3,
+ "ayet": 167,
+ "durum": "taslak",
+ "meal": "Ve (bu,) münafıklık edenleri bilmesi içindir. Onlara 'Gelin, Allah yolunda savaşın veya savunun' denildiğinde, 'Eğer bir savaş bilseydik kesinlikle size uyardık' dediler. Onlar o gün imandan çok inkâra daha yakındılar. Kalplerinde olmayanı ağızlarıyla söylüyorlardı. Allah, gizlediklerini daha iyi bilir.",
+ "mealNotu": "'Nâfekû' kökü nifakı, ikiyüzlülüğü anlatır. 'Ekrabü' kelimesi 'daha yakın' anlamındaki üstünlük sıfatıdır; 'imandan çok inkâra' karşılaştırması köşeli parantez kullanılmadan doğrudan kelime sırasından yansıtılmıştır.",
+ "kokler": [
+  {
+   "kelime": "وَلِيَعْلَمَ",
+   "okunus": "ve liya'leme",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "ve bilmesi içindir"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) o kimseler",
+   "karsilik": "kimseleri"
+  },
+  {
+   "kelime": "نَافَقُوا۟",
+   "okunus": "nâfekû",
+   "kok": "نفق",
+   "kokAnlam": "nifak, münafıklık etme",
+   "karsilik": "münafıklık edenleri"
+  },
+  {
+   "kelime": "وَقِيلَ",
+   "okunus": "ve kîle",
+   "kok": "قول",
+   "kokAnlam": "söz, söyleme",
+   "karsilik": "ve denildi"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "تَعَالَوْا۟",
+   "okunus": "teâlev",
+   "kok": "علو",
+   "kokAnlam": "yükselme; gelin (davet)",
+   "karsilik": "gelin"
+  },
+  {
+   "kelime": "قَٰتِلُوا۟",
+   "okunus": "kâtilû",
+   "kok": "قتل",
+   "kokAnlam": "öldürme; karşılıklı savaşma",
+   "karsilik": "savaşın"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "أَوِ",
+   "okunus": "evi",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "ٱدْفَعُوا۟",
+   "okunus": "udfeû",
+   "kok": "دفع",
+   "kokAnlam": "savma, def etme",
+   "karsilik": "savunun"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "لَوْ",
+   "okunus": "lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "نَعْلَمُ",
+   "okunus": "na'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilseydik"
+  },
+  {
+   "kelime": "قِتَالًا",
+   "okunus": "kıtâlen",
+   "kok": "قتل",
+   "kokAnlam": "savaş, çarpışma",
+   "karsilik": "bir savaş"
+  },
+  {
+   "kelime": "لَّٱتَّبَعْنَٰكُمْ",
+   "okunus": "letteba'nâküm",
+   "kok": "تبع",
+   "kokAnlam": "uyma, tabi olma",
+   "karsilik": "kesinlikle size uyardık"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "لِلْكُفْرِ",
+   "okunus": "lilküfri",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâra"
+  },
+  {
+   "kelime": "يَوْمَئِذٍ",
+   "okunus": "yevmeizin",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "أَقْرَبُ",
+   "okunus": "ekrabü",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık",
+   "karsilik": "daha yakındılar"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) kendilerinden",
+   "karsilik": "kendilerinin"
+  },
+  {
+   "kelime": "لِلْإِيمَٰنِ",
+   "okunus": "lil'îmâni",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "imana"
+  },
+  {
+   "kelime": "يَقُولُونَ",
+   "okunus": "yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "söylüyorlardı"
+  },
+  {
+   "kelime": "بِأَفْوَٰهِهِم",
+   "okunus": "biefvâhihim",
+   "kok": "فوه",
+   "kokAnlam": "ağız",
+   "karsilik": "ağızlarıyla"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "olmayanı"
+  },
+  {
+   "kelime": "لَيْسَ",
+   "okunus": "leyse",
+   "kok": "ليس",
+   "kokAnlam": "olmama",
+   "karsilik": "olmayan"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "قُلُوبِهِمْ",
+   "okunus": "kulûbihim",
+   "kok": "قلب",
+   "kokAnlam": "kalp",
+   "karsilik": "kalplerinde"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "أَعْلَمُ",
+   "okunus": "a'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "daha iyi bilir"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "يَكْتُمُونَ",
+   "okunus": "yektümûne",
+   "kok": "كتم",
+   "kokAnlam": "gizleme",
+   "karsilik": "gizlediklerini"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayet, Uhud'da yaşananların Allah'ın izniyle ve müminleri bilmesi için olduğunu söylemişti; bu ayet aynı 'bilme' amacını, bu kez münafıkları ortaya çıkarma yönüyle tamamlar. Savaşa çağrıldıklarında 'Bir savaş bilseydik uyardık' diyenler, aslında savaşmaktan kaçınmanın bahanesini üretiyorlardı.",
+  "'Ekrabü' (daha yakın) ifadesi, o gün bu kişilerin iman görünüşünden çok inkâra yakın bir tavır sergilediğini anlatır. Ayet, sözle kalp arasındaki uyumsuzluğa dikkat çeker: ağızlarıyla söyledikleri, kalplerinde olanla örtüşmüyordu. Klasik tefsir bu ayeti, Uhud öncesi geri dönen Abdullah b. Übey ve arkadaşlarının tutumuyla ilişkilendirerek açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:166",
+   "meal": "İki topluluğun karşılaştığı gün başınıza gelen, Allah'ın izniyledir; müminleri bilmesi içindir.",
+   "baglanti": "167. ayet, aynı 'bilme' amacını sürdürür; 166. ayette müminleri, 167. ayette münafıkları ortaya çıkarma yönüyle bir bütün oluşturur."
+  },
+  {
+   "ref": "63:1",
+   "meal": "Münafıklar sana geldiklerinde, 'Senin gerçekten Allah'ın elçisi olduğuna şahitlik ederiz' derler... Allah, münafıkların kesinlikle yalancı olduklarına şahitlik eder.",
+   "baglanti": "Her iki ayet de münafıkların sözle gösterdikleri ile kalplerinde taşıdıkları arasındaki çelişkiyi konu edinir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Uhud sonrası bir grubun sözle cesaret gösterip fiilen sorumluluktan kaçmasıdır. Bu, savaşa özgü bir bağlamdır.",
+  "Buradan çıkabilecek genel ders, söz ile davranış arasındaki tutarlılıktır. Zor bir görev geldiğinde bahane üretmek yerine, önceden verilen sözün arkasında durmak; bunu yapamıyorsa bunu açıkça söylemek, örtük biçimde kaçmaktan daha dürüsttür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü eylemle sına",
+   "aciklama": "Bugün verdiğin bir sözü tutup tutmadığını kontrol et; tutmadıysan nedenini kendine dürüstçe söyle."
+  },
+  {
+   "baslik": "Bahane yerine açıklık",
+   "aciklama": "Bir görevden kaçınman gerekiyorsa, gerekçe uydurmak yerine durumunu açıkça ilet."
+  },
+  {
+   "baslik": "İçini dışına uydur",
+   "aciklama": "Bugün söylediğin bir şeyle içinden geçen arasında fark varsa, bunu fark et ve düzeltmeye çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün verdiğin bir sözü, küçük de olsa, eylemle tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=167"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/167"
+  }
+ ]
+}

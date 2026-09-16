@@ -1,0 +1,250 @@
+{
+ "sure": 4,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Ey insanlar! Sizi tek bir nefisten yaratan, ondan eşini yaratan ve ikisinden birçok erkek ve kadın yayan Rabbinize karşı gelmekten sakının. Kendisi adına birbirinizden istekte bulunduğunuz Allah'a ve akrabalık bağlarına karşı gelmekten sakının. Şüphesiz Allah üzerinizde gözetleyicidir.",
+ "mealNotu": "'Nefs' kökü tek bir varlığı, kişiyi anlatır; burada Âdem kastedilir ama isim verilmez, kökteki genel anlam korunmuştur. 'Erham' kelimesi hem rahim hem akrabalık bağı anlamına gelir; 'akrabalık bağları' seçilmiştir. 'Rakîb' kökü gözetleme, denetleme anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلنَّاسُ",
+   "okunus": "ennâsü",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet kurma",
+   "karsilik": "insanlar"
+  },
+  {
+   "kelime": "ٱتَّقُوا۟",
+   "okunus": "uttekû",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "sakının"
+  },
+  {
+   "kelime": "رَبَّكُمُ",
+   "okunus": "rabbekümü",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbinizden"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ki o",
+   "karsilik": "ki O"
+  },
+  {
+   "kelime": "خَلَقَكُم",
+   "okunus": "halekaküm",
+   "kok": "خلق",
+   "kokAnlam": "yaratma, yoktan var etme",
+   "karsilik": "sizi yarattı"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "نَّفْسٍ",
+   "okunus": "nefsin",
+   "kok": "نفس",
+   "kokAnlam": "kişi, öz varlık",
+   "karsilik": "bir nefisten"
+  },
+  {
+   "kelime": "وَٰحِدَةٍ",
+   "okunus": "vâhidetin",
+   "kok": "وحد",
+   "kokAnlam": "birlik, tek olma",
+   "karsilik": "tek bir"
+  },
+  {
+   "kelime": "وَخَلَقَ",
+   "okunus": "ve haleka",
+   "kok": "خلق",
+   "kokAnlam": "yaratma, yoktan var etme",
+   "karsilik": "ve yarattı"
+  },
+  {
+   "kelime": "مِنْهَا",
+   "okunus": "minhâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "زَوْجَهَا",
+   "okunus": "zevcehâ",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift oluşturma",
+   "karsilik": "eşini"
+  },
+  {
+   "kelime": "وَبَثَّ",
+   "okunus": "ve besse",
+   "kok": "بثث",
+   "kokAnlam": "yayma, dağıtma, çoğaltma",
+   "karsilik": "ve yaydı"
+  },
+  {
+   "kelime": "مِنْهُمَا",
+   "okunus": "minhümâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) o ikisinden",
+   "karsilik": "o ikisinden"
+  },
+  {
+   "kelime": "رِجَالًا",
+   "okunus": "ricâlen",
+   "kok": "رجل",
+   "kokAnlam": "erkek",
+   "karsilik": "birçok erkek"
+  },
+  {
+   "kelime": "كَثِيرًا",
+   "okunus": "kesîran",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "birçok"
+  },
+  {
+   "kelime": "وَنِسَآءً",
+   "okunus": "ve nisâen",
+   "kok": "نسو",
+   "kokAnlam": "kadın",
+   "karsilik": "ve kadın"
+  },
+  {
+   "kelime": "وَٱتَّقُوا۟",
+   "okunus": "vettekû",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "ve sakının"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ki o",
+   "karsilik": "ki O'nun"
+  },
+  {
+   "kelime": "تَسَآءَلُونَ",
+   "okunus": "tesâelûne",
+   "kok": "سأل",
+   "kokAnlam": "sorma, isteme, karşılıklı talep",
+   "karsilik": "adına birbirinizden istekte bulunduğunuz"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onunla",
+   "karsilik": "adına"
+  },
+  {
+   "kelime": "وَٱلْأَرْحَامَ",
+   "okunus": "vel erhâme",
+   "kok": "رحم",
+   "kokAnlam": "rahim; merhamet, akrabalık bağı",
+   "karsilik": "ve akrabalık bağlarından"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dır"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) üzerinizde",
+   "karsilik": "üzerinizde"
+  },
+  {
+   "kelime": "رَقِيبًا",
+   "okunus": "rakîben",
+   "kok": "رقب",
+   "kokAnlam": "gözetleme, denetleme",
+   "karsilik": "gözetleyicidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Nisâ suresi, insanlığa seslenerek başlar ve ortak kökeni hatırlatır: tek bir nefisten yaratılmak, ondan eşinin yaratılması ve ikisinden çoğalan insanlık. Bu girişten sonra ayet iki şeyden sakınmayı ister: Rabbe karşı gelmekten ve akrabalık bağlarını (erham) gözetmekten. Sure boyunca gelecek yetim, miras ve aile hükümlerinin zemini burada atılır.",
+  "'Tesâelûne bihî' ifadesi, insanların birbirinden bir şey isterken Allah'ın adını anmasına işaret eder; klasik tefsir bunu 'Allah aşkına', 'Allah için' türü yeminleşme olarak açıklar. Ayetin sonunda Allah'ın herkesi gözetleyen (rakîb) olduğu hatırlatılır; bu, sakınmanın sadece söz değil sürekli bir bilinç olması gerektiğini gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "49:13",
+   "meal": "Ey insanlar! Doğrusu biz sizi bir erkek ve bir dişiden yarattık ve birbirinizi tanıyasınız diye sizi kavimler ve kabileler yaptık. Allah katında en üstün olanınız, en çok sakınanınızdır.",
+   "baglanti": "Her iki ayet de insanlığın ortak kökenine dayanarak eşitlik ve takva vurgusu yapar; farklılıklar övünme değil tanışma sebebidir."
+  },
+  {
+   "ref": "7:189",
+   "meal": "Sizi tek bir nefisten yaratan ve ondan, kendisiyle huzur bulsun diye eşini var eden O'dur.",
+   "baglanti": "Aynı yaratılış anlatısını tekrarlar; eşin yaratılış amacının huzur olduğunu ekleyerek Nisâ 1'i tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insanlığın ortak kökenini hatırlatarak Allah'a karşı sorumluluğa ve akraba haklarına dikkat çekmektir. Burada 'erham' kelimesi hem soy bağını hem rahmeti çağrıştırır; bu ayet üzerine kurulan sure, akrabalık haklarını somut hükümlerle sürdürecektir.",
+  "Günlük hayata taşınabilecek ders, insanları köken, statü veya servet üzerinden ayırmadan ortak bir başlangıçtan geldiğimizi hatırlamaktır. Akraba bağlarını gözetmek de yalnız duygusal bir tavır değil, ayetin çerçevesinde bir sorumluluktur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir akrabanı ara",
+   "aciklama": "Uzun süredir görüşmediğin bir akrabanı bugün ara veya ziyaret et."
+  },
+  {
+   "baslik": "Ortak kökeni hatırla",
+   "aciklama": "Farklı bulduğun birine karşı önyargı kurduğunda, ortak insanlık kökenini hatırla ve yargını yumuşat."
+  },
+  {
+   "baslik": "Söz verirken dikkatli ol",
+   "aciklama": "Bugün birine söz verirken, o sözün arkasında durabileceğin şekilde konuş."
+  }
+ ],
+ "bugununAdimi": "Bugün bir akrabanla iletişime geç ve halini sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/1"
+  }
+ ]
+}

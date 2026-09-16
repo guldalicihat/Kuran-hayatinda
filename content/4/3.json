@@ -1,0 +1,250 @@
+{
+ "sure": 4,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Eğer yetimler konusunda adaleti gözetemeyeceğinizden korkarsanız, size helal olan kadınlardan ikişer, üçer, dörder nikâhlayın. Eğer aralarında adaleti gözetemeyeceğinizden korkarsanız, o zaman bir tane ile veya sağ ellerinizin malik olduğuyla yetinin. Bu, haksızlık etmemenize daha yakındır.",
+ "mealNotu": "'Kıst' kökü adalet, denge; 'avl' kökü ise haksızlık etme, doğru yoldan sapma anlamındadır. 'Mâ meleket eymânüküm' ifadesi dönemin köle-cariye kurumuna işaret eder; burada olduğu gibi bırakılmış, yorum katılmamıştır.",
+ "kokler": [
+  {
+   "kelime": "وَإِنْ",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "خِفْتُمْ",
+   "okunus": "hıftüm",
+   "kok": "خوف",
+   "kokAnlam": "korkma, endişe etme",
+   "karsilik": "korkarsanız"
+  },
+  {
+   "kelime": "أَلَّا",
+   "okunus": "ellâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki ... değil",
+   "karsilik": "-eyemeyeceğinizden"
+  },
+  {
+   "kelime": "تُقْسِطُوا۟",
+   "okunus": "tüksitû",
+   "kok": "قسط",
+   "kokAnlam": "adalet, denge",
+   "karsilik": "adaleti gözetemeyeceğinizden"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de, hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "ٱلْيَتَٰمَىٰ",
+   "okunus": "elyetâmâ",
+   "kok": "يتم",
+   "kokAnlam": "yetim, babasız kalmış",
+   "karsilik": "yetimler"
+  },
+  {
+   "kelime": "فَٱنكِحُوا۟",
+   "okunus": "fenkihû",
+   "kok": "نكح",
+   "kokAnlam": "nikâh, evlenme",
+   "karsilik": "nikâhlayın"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olan",
+   "karsilik": "olanı"
+  },
+  {
+   "kelime": "طَابَ",
+   "okunus": "tâbe",
+   "kok": "طيب",
+   "kokAnlam": "hoşluk, temizlik, uygun olma",
+   "karsilik": "helal olan, hoşunuza giden"
+  },
+  {
+   "kelime": "لَكُم",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلنِّسَآءِ",
+   "okunus": "ennisâi",
+   "kok": "نسو",
+   "kokAnlam": "kadın",
+   "karsilik": "kadınlardan"
+  },
+  {
+   "kelime": "مَثْنَىٰ",
+   "okunus": "mesnâ",
+   "kok": "ثني",
+   "kokAnlam": "ikili, çift",
+   "karsilik": "ikişer"
+  },
+  {
+   "kelime": "وَثُلَٰثَ",
+   "okunus": "ve sülâse",
+   "kok": "ثلث",
+   "kokAnlam": "üç, üçlü",
+   "karsilik": "üçer"
+  },
+  {
+   "kelime": "وَرُبَٰعَ",
+   "okunus": "ve rubâa",
+   "kok": "ربع",
+   "kokAnlam": "dört, dörtlü",
+   "karsilik": "dörder"
+  },
+  {
+   "kelime": "فَإِنْ",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "خِفْتُمْ",
+   "okunus": "hıftüm",
+   "kok": "خوف",
+   "kokAnlam": "korkma, endişe etme",
+   "karsilik": "korkarsanız"
+  },
+  {
+   "kelime": "أَلَّا",
+   "okunus": "ellâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki ... değil",
+   "karsilik": "-eyemeyeceğinizden"
+  },
+  {
+   "kelime": "تَعْدِلُوا۟",
+   "okunus": "ta'dilû",
+   "kok": "عدل",
+   "kokAnlam": "adalet, denge, eşitlik",
+   "karsilik": "adaleti gözetemeyeceğinizden"
+  },
+  {
+   "kelime": "فَوَٰحِدَةً",
+   "okunus": "fevâhideten",
+   "kok": "وحد",
+   "kokAnlam": "birlik, tek olma",
+   "karsilik": "bir tane ile"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olan",
+   "karsilik": "olanla"
+  },
+  {
+   "kelime": "مَلَكَتْ",
+   "okunus": "meleket",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, malik olma",
+   "karsilik": "malik olduğu"
+  },
+  {
+   "kelime": "أَيْمَٰنُكُمْ",
+   "okunus": "eymânüküm",
+   "kok": "يمن",
+   "kokAnlam": "sağ el, yemin",
+   "karsilik": "sağ ellerinizin"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) o, bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "أَدْنَىٰٓ",
+   "okunus": "ednâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık",
+   "karsilik": "daha yakındır"
+  },
+  {
+   "kelime": "أَلَّا",
+   "okunus": "ellâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki ... değil",
+   "karsilik": "-memenize"
+  },
+  {
+   "kelime": "تَعُولُوا۟",
+   "okunus": "teûlû",
+   "kok": "عول",
+   "kokAnlam": "haksızlık etme, yoldan sapma",
+   "karsilik": "haksızlık etmemenize"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, yetimlerin himayesiyle bağlantılı bir bağlamda çok eşliliğe sınırlı bir izin getirir; şart, evlenilen kadınlar arasında adaleti gözetebilme kaygısıdır. Klasik tefsir, ayetin başındaki 'yetimler konusunda adaletsizlikten korkma' ifadesini, yetim kızlarla haksız şartlarda evlenilmesini önleme bağlamına bağlar.",
+  "Ayet aynı cümlede ikinci bir şart daha koyar: eşler arasında adalet sağlanamayacaksa tek eşle yetinilmesi istenir. 'Teûlû' fiili, dengeden sapmayı, haksızlığa yönelmeyi anlatır; ayet bunu engellemenin tek eşe veya döneme özgü diğer düzenlemeye daha yakın olduğunu söyler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:129",
+   "meal": "Kadınlar arasında adaleti sağlamaya ne kadar uğraşsanız da buna güç yetiremezsiniz; bari birine büsbütün eğilip diğerini askıdaymış gibi bırakmayın.",
+   "baglanti": "Bu ayet, 4:3'teki adalet şartının insan gücünü aşan bir tam eşitlik olmadığını, en azından temel adaletin gözetilmesi gerektiğini açar."
+  },
+  {
+   "ref": "4:127",
+   "meal": "Senden kadınlar hakkında fetva isterler. De ki: Onlar hakkındaki hükmü size Allah açıklıyor... Kendilerine yazılmış hakkı vermeden nikâhlamak istediğiniz öksüz kızlar hakkında...",
+   "baglanti": "Aynı surede yetim kızlarla evlilik konusuna dönülerek 4:3'teki kaygı açıklığa kavuşturulur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dönemin şartlarında yetim kızlarla evlilik ve çok eşlilik hukukudur; klasik fıkıh bu ayeti sınırlı bir izin ve adalet şartına bağlı bir düzenleme olarak açıklar, hukuki detayları burada kesin biçimde sunmak yerinde olmaz. Ayetin tekrarladığı ilke ise adaleti gözetemeyeceğin bir yükümlülüğe girmemektir.",
+  "Günlük hayata taşınabilecek ders, gücünün yetmeyeceği bir sorumluluğu üstlenmeden önce adalet ve denge kapasiteni dürüstçe değerlendirmektir. Birden fazla kişiye karşı sorumluluğun varsa (iş, aile, arkadaşlık), her birine adil davranıp davranamayacağını gerçekçi biçimde tartmak bu ayetten çıkan genel bir prensiptir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kapasiteni tart",
+   "aciklama": "Bugün üstlenmeyi düşündüğün yeni bir sorumluluğun, mevcut sorumluluklarına adaletle taşınıp taşınamayacağını değerlendir."
+  },
+  {
+   "baslik": "Adaleti eşit dağıt",
+   "aciklama": "Birden fazla kişiye (çocuklar, ekip arkadaşları) zaman veya ilgi ayırıyorsan bugün dengeyi gözden geçir."
+  },
+  {
+   "baslik": "Gücünün sınırını kabul et",
+   "aciklama": "Yetişemeyeceğin bir taahhüdü bugün ertelemek veya reddetmek yerine, açıkça söyle."
+  }
+ ],
+ "bugununAdimi": "Bugün üstlendiğin sorumluluklardan birinde adaleti gözetip gözetemediğini yazılı biçimde değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/3"
+  }
+ ]
+}

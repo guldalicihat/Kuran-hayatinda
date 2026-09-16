@@ -1,0 +1,313 @@
+{
+ "sure": 4,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Yetimleri evlenme çağına erişinceye kadar deneyin. Onlarda olgunlaşma gördüğünüzde mallarını kendilerine teslim edin. Onlar büyüyecekler diye bu malları israfla ve aceleyle yemeyin. Zengin olan iffetli davransın; fakir olan ise örfe uygun biçimde yesin. Mallarını kendilerine teslim ettiğinizde yanlarında şahit bulundurun. Hesap görücü olarak Allah yeter.",
+ "mealNotu": "'İbtelâ' kökü sınama, deneme anlamındadır; yetimin olgunluğunu ölçmeyi anlatır. 'İsrâf' aşırı harcama, 'bidâr' ise acele etme anlamındadır. 'Hasîb' kökü hesap sorma, yeterli olma anlamı taşır.",
+ "kokler": [
+  {
+   "kelime": "وَٱبْتَلُوا۟",
+   "okunus": "vebtelû",
+   "kok": "بلو",
+   "kokAnlam": "deneme, sınama",
+   "karsilik": "deneyin"
+  },
+  {
+   "kelime": "ٱلْيَتَٰمَىٰ",
+   "okunus": "elyetâmâ",
+   "kok": "يتم",
+   "kokAnlam": "yetim, babasız kalmış",
+   "karsilik": "yetimleri"
+  },
+  {
+   "kelime": "حَتَّىٰٓ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(başlangıç) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "eriştiklerinde"
+  },
+  {
+   "kelime": "بَلَغُوا۟",
+   "okunus": "beleğû",
+   "kok": "بلغ",
+   "kokAnlam": "erişme, ulaşma, olgunlaşma",
+   "karsilik": "eriştiklerinde"
+  },
+  {
+   "kelime": "ٱلنِّكَاحَ",
+   "okunus": "ennikâha",
+   "kok": "نكح",
+   "kokAnlam": "nikâh, evlenme çağı",
+   "karsilik": "evlenme çağına"
+  },
+  {
+   "kelime": "فَإِنْ",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "ءَانَسْتُم",
+   "okunus": "ânestüm",
+   "kok": "أنس",
+   "kokAnlam": "fark etme, görme, sezme",
+   "karsilik": "gördüğünüzde"
+  },
+  {
+   "kelime": "مِّنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlarda",
+   "karsilik": "onlarda"
+  },
+  {
+   "kelime": "رُشْدًا",
+   "okunus": "ruşden",
+   "kok": "رشد",
+   "kokAnlam": "olgunluk, doğru yolda olma",
+   "karsilik": "olgunlaşma"
+  },
+  {
+   "kelime": "فَٱدْفَعُوٓا۟",
+   "okunus": "fedfeû",
+   "kok": "دفع",
+   "kokAnlam": "verme, teslim etme",
+   "karsilik": "teslim edin"
+  },
+  {
+   "kelime": "إِلَيْهِمْ",
+   "okunus": "ileyhim",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "أَمْوَٰلَهُمْ",
+   "okunus": "emvâlehüm",
+   "kok": "مول",
+   "kokAnlam": "mal, servet",
+   "karsilik": "mallarını"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "ve ... yemeyin"
+  },
+  {
+   "kelime": "تَأْكُلُوهَآ",
+   "okunus": "te'külûhâ",
+   "kok": "أكل",
+   "kokAnlam": "yeme",
+   "karsilik": "onları yemeyin"
+  },
+  {
+   "kelime": "إِسْرَافًا",
+   "okunus": "isrâfen",
+   "kok": "سرف",
+   "kokAnlam": "aşırılık, israf",
+   "karsilik": "israfla"
+  },
+  {
+   "kelime": "وَبِدَارًا",
+   "okunus": "ve bidâran",
+   "kok": "بدر",
+   "kokAnlam": "acele etme, öne geçme",
+   "karsilik": "ve aceleyle"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) diye",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "يَكْبَرُوا۟",
+   "okunus": "yekberû",
+   "kok": "كبر",
+   "kokAnlam": "büyüme, yaşça ilerleme",
+   "karsilik": "büyüyecekler"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "غَنِيًّا",
+   "okunus": "ganiyyen",
+   "kok": "غني",
+   "kokAnlam": "zenginlik, ihtiyaçsızlık",
+   "karsilik": "zengin"
+  },
+  {
+   "kelime": "فَلْيَسْتَعْفِفْ",
+   "okunus": "felyesta'fif",
+   "kok": "عفف",
+   "kokAnlam": "iffetli davranma, kaçınma",
+   "karsilik": "iffetli davransın"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "فَقِيرًا",
+   "okunus": "fekîran",
+   "kok": "فقر",
+   "kokAnlam": "fakirlik, yoksulluk",
+   "karsilik": "fakir"
+  },
+  {
+   "kelime": "فَلْيَأْكُلْ",
+   "okunus": "felye'kül",
+   "kok": "أكل",
+   "kokAnlam": "yeme",
+   "karsilik": "yesin"
+  },
+  {
+   "kelime": "بِٱلْمَعْرُوفِ",
+   "okunus": "bil ma'rûfi",
+   "kok": "عرف",
+   "kokAnlam": "bilinen, iyi, örfe uygun",
+   "karsilik": "örfe uygun biçimde"
+  },
+  {
+   "kelime": "فَإِذَا",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "teslim ettiğinizde"
+  },
+  {
+   "kelime": "دَفَعْتُمْ",
+   "okunus": "defa'tüm",
+   "kok": "دفع",
+   "kokAnlam": "verme, teslim etme",
+   "karsilik": "teslim ettiğinizde"
+  },
+  {
+   "kelime": "إِلَيْهِمْ",
+   "okunus": "ileyhim",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "أَمْوَٰلَهُمْ",
+   "okunus": "emvâlehüm",
+   "kok": "مول",
+   "kokAnlam": "mal, servet",
+   "karsilik": "mallarını"
+  },
+  {
+   "kelime": "فَأَشْهِدُوا۟",
+   "okunus": "feeşhidû",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik etme",
+   "karsilik": "şahit bulundurun"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) yanlarında",
+   "karsilik": "yanlarında"
+  },
+  {
+   "kelime": "وَكَفَىٰ",
+   "okunus": "ve kefâ",
+   "kok": "كفي",
+   "kokAnlam": "yeterlilik",
+   "karsilik": "yeter"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "حَسِيبًا",
+   "okunus": "hasîben",
+   "kok": "حسب",
+   "kokAnlam": "hesap görme, yeterli olma",
+   "karsilik": "hesap görücü olarak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette mal yönetiminin ertelenmesinden sonra bu ayet, malın ne zaman ve nasıl teslim edileceğini açıklar: yetim evlenme çağına gelip olgunluk (ruşd) gösterdiğinde. Vasiye, malı israfla veya çocuk büyümeden hızlıca tüketme yasağı getirilir; zengin vasi bu maldan hiç almamalı, fakir vasi ise ancak örfe uygun ölçüde yararlanabilir.",
+  "Ayet ayrıca teslim sırasında şahit bulundurulmasını ister; bu, hem yetimin hakkını korur hem vasiyi olası bir iftiradan uzak tutar. Sonda Allah'ın hesap görücü olarak yeterliliği hatırlatılır; bu, hukuki güvencenin yanında manevi bir sorumluluk bilinci de ekler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:5",
+   "meal": "Allah'ın sizin için geçim kaynağı kıldığı mallarınızı aklı ermezlere vermeyin; onları bu maldan rızıklandırın, giydirin ve onlara güzel söz söyleyin.",
+   "baglanti": "İki ayet birlikte okunur: 4:5 malın erteleneceği durumu, 4:6 malın ne zaman ve nasıl teslim edileceğini anlatır."
+  },
+  {
+   "ref": "17:34",
+   "meal": "Yetimin malına, erginlik çağına erişinceye kadar, ancak en güzel şeklin dışında yaklaşmayın; verdiğiniz sözü de yerine getirin. Çünkü söz, sorumluluğu gerektirir.",
+   "baglanti": "Yetim malına yaklaşımın sınırını benzer biçimde çizer ve erginlik çağını aynı ölçüt olarak alır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, yetim malının vasi tarafından ne zaman ve nasıl teslim edileceğidir; klasik fıkıh bu ayeti vasilik hukukunun temel maddelerinden biri olarak açıklar, olgunluk (ruşd) tespiti ve şahitlik usulü zamana göre farklı şekillerde uygulanmıştır. Burada hukuki detayları kesin biçimde vermek yerine ayetin ana ilkesine odaklanmak gerekir.",
+  "Günlük hayata taşınabilecek ders, başkasına ait bir emaneti zamanında, şeffaf biçimde ve şahitli olarak teslim etmektir. Emanetten kişisel çıkar sağlamamak, teslim sürecini belgelemek ve karşı tarafın hakkını gözetmek, bu ayetten süzülen genel bir dürüstlük ilkesidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Emaneti zamanında teslim et",
+   "aciklama": "Elinde bekleyen bir emanet veya sorumluluk varsa, bugün teslim tarihini netleştir."
+  },
+  {
+   "baslik": "Şeffaflık için tanık bulundur",
+   "aciklama": "Önemli bir teslim veya anlaşmayı yaparken, bugün bunu yazılı hale getir veya bir tanık bulundur."
+  },
+  {
+   "baslik": "Emanetten çıkar sağlama",
+   "aciklama": "Yönettiğin ortak bir kaynaktan kişisel çıkar sağlayıp sağlamadığını bugün gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün elindeki bir emaneti, teslim koşullarını yazılı hale getirerek zamanında sahibine ulaştır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/6"
+  }
+ ]
+}
