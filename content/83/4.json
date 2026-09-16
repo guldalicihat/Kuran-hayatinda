@@ -1,0 +1,89 @@
+{
+ "sure": 83,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Bunlar, diriltileceklerini hiç düşünmüyorlar mı?",
+ "mealNotu": "'Yezunnü' fiili 'zan' kökünden gelir; kesin bilgi değil, güçlü kanaat ve tahmin anlamı taşır. Bu yüzden 'bilmiyorlar mı' değil, 'hiç düşünmüyorlar mı' tercih edildi. 'Meb'ûsûn' kelimesi 'ba's' kökünden, ölümden sonra kaldırılıp diriltilenler demektir.",
+ "kokler": [
+  {
+   "kelime": "أَلَا",
+   "okunus": "elâ",
+   "kok": "—",
+   "kokAnlam": "(soru + olumsuzluk) ... değil mi, hiç ... mı",
+   "karsilik": "hiç ... mı"
+  },
+  {
+   "kelime": "يَظُنُّ",
+   "okunus": "yezunnü",
+   "kok": "ظنن",
+   "kokAnlam": "sanma, kanaat taşıma, tahmin etme",
+   "karsilik": "düşünmüyorlar"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri) onlar, bunlar",
+   "karsilik": "bunlar"
+  },
+  {
+   "kelime": "أَنَّهُم",
+   "okunus": "ennehüm",
+   "kok": "—",
+   "kokAnlam": "(pekiştirme + zamir) onların ... olduğunu",
+   "karsilik": "-eceklerini"
+  },
+  {
+   "kelime": "مَّبْعُوثُونَ",
+   "okunus": "meb'ûsûne",
+   "kok": "بعث",
+   "kokAnlam": "gönderme; uyandırma, diriltip kaldırma",
+   "karsilik": "diriltilecekler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, eksik ölçenlerin asıl sorununu ortaya koyar: Diriltilmeyi ihtimal olarak bile düşünmezler. 'Zan' kökü burada anlamlıdır. Kur'an kesin iman istemeden önce en zayıf düzeyi bile sorgular: Böyle bir ihtimali aklınızdan geçirmiyor musunuz?",
+  "Sonraki iki ayet bu dirilişin zamanını verir: Büyük bir gün, insanların âlemlerin Rabbi huzurunda durduğu gün. Ticari hile ile ahiret inancı arasındaki bağ böylece kurulur. Hesabı düşünmeyen kişi, terazideki küçük farkı önemsiz görür."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "64:7",
+   "meal": "İnkâr edenler, asla diriltilmeyeceklerini ileri sürdüler. De ki: Hayır, Rabbime andolsun ki mutlaka diriltileceksiniz, sonra yaptıklarınız size haber verilecektir.",
+   "baglanti": "Mutaffifîn'de soruyla ima edilen inkâr, burada açıkça dile getirilir ve yeminle reddedilir. Diriliş, yapılanların haber verilmesiyle birlikte anılır."
+  },
+  {
+   "ref": "2:46",
+   "meal": "Onlar, Rablerine kavuşacaklarını ve O'na döneceklerini düşünürler.",
+   "baglanti": "Aynı 'zan' kökü burada olumlu yönde kullanılır. Rabbine kavuşmayı hesaba katan kişi ile bunu aklına getirmeyen kişi arasındaki fark, davranışa yansır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu diriliş ve hesap bilincidir. Bu bilinç soyut bir inanç maddesi değil, terazi başındaki elin davranışını belirleyen bir etkendir. Hesap vereceğini düşünen kişi, kimsenin görmediği yerde de tam verir.",
+  "Bugün için ders, kararlarını verirken 'Bunun hesabı sorulacak mı?' sorusunu hatırlamaktır. Ayet çok şey istemez; ihtimali düşünmeyi bile yeterli bir başlangıç sayar. Bu ihtimal ciddiye alındığında, küçük hileler büyük görünmeye başlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir kararı hesap gözüyle ver",
+   "aciklama": "Bugün alacağın bir kararda 'Bunun hesabını verebilir miyim?' diye sor ve cevabına göre davran."
+  },
+  {
+   "baslik": "Görülmeyen yerde tam ol",
+   "aciklama": "Kimsenin kontrol etmediği bir işini bugün, kontrol ediliyormuş gibi dikkatle yap."
+  },
+  {
+   "baslik": "Ahiret hatırlatıcısı belirle",
+   "aciklama": "Gün içinde diriliş gerçeğini hatırlatacak kısa bir cümle seç ve zorlandığın anda onu tekrar et."
+  }
+ ],
+ "bugununAdimi": "Bugün para veya hak içeren bir işlem yapmadan önce bir kez dur ve 'Bunun hesabı sorulacak' diye kendine hatırlat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/83/4"
+  }
+ ]
+}

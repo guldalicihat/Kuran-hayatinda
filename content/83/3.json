@@ -1,0 +1,89 @@
+{
+ "sure": 83,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Onlara ölçüp veya tartıp verdiklerinde ise eksiltirler.",
+ "mealNotu": "'Kâlûhüm' ve 'vezenûhüm' fiilleri 'onlar için ölçtüklerinde, tarttıklarında' anlamındadır; Türkçede 'onlara ... verdiklerinde' diye açıldı. 'Yuhsirûn' fiili 'husr' (zarar, kayıp) kökünden gelir; karşı tarafı zarara uğratma, eksik verme demektir.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç + zaman zarfı) ve -dığı zaman",
+   "karsilik": "ve -dığında"
+  },
+  {
+   "kelime": "كَالُوهُمْ",
+   "okunus": "kâlûhüm",
+   "kok": "كيل",
+   "kokAnlam": "ölçekle ölçme, ölçüp verme",
+   "karsilik": "onlara ölçüp [verdiklerinde]"
+  },
+  {
+   "kelime": "أَو",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "وَّزَنُوهُمْ",
+   "okunus": "vezenûhüm",
+   "kok": "وزن",
+   "kokAnlam": "tartma, teraziyle ölçme, denklik",
+   "karsilik": "tartıp [verdiklerinde]"
+  },
+  {
+   "kelime": "يُخْسِرُونَ",
+   "okunus": "yühsirûne",
+   "kok": "خسر",
+   "kokAnlam": "kayıp, zarar; zarara uğratma, eksiltme",
+   "karsilik": "eksiltirler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette tam alan kişiler, bu ayette verirken eksiltir. Ayet ölçü (keyl) ve tartıyı (vezn) birlikte anar; yani tahıl gibi hacimle satılan mallar da, teraziyle satılanlar da kapsama girer. 'Yuhsirûn' fiili, karşı tarafı zarara uğratmayı anlatır.",
+  "Bu iki ayetle 'mutaffif'in tanımı tamamlanır: Tek yönlü çalışan bir adalet duygusu. Sonraki ayet, bu kişilerin asıl sorununu gösterir: Diriltilecekleri ve hesap verecekleri günü düşünmezler. Kur'an, ticari hileyi ahiret bilinciyle ilişkilendirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "55:9",
+   "meal": "Tartıyı adaletle yapın ve teraziyi eksik tutmayın.",
+   "baglanti": "Aynı 'husr' kökü burada olumsuz emirle gelir. Rahmân suresi, teraziyi göklerdeki dengeyle birlikte anar; eksik tartmak evrensel dengeyi bozmaktır."
+  },
+  {
+   "ref": "7:85",
+   "meal": "Ölçüyü ve tartıyı tam yapın; insanların eşyasını eksiltmeyin ve düzeltilmesinden sonra yeryüzünde bozgunculuk yapmayın.",
+   "baglanti": "Şuayb'ın çağrısında 'insanların eşyasını eksiltmek' ifadesi, Mutaffifîn'deki 'eksiltirler' fiiliyle aynı davranışı anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu satarken eksik verme hilesidir. Bugün bunun karşılığı, ürünün gramajını düşürüp fiyatı sabit tutmak, hizmeti sözleşmede yazandan az sunmak ya da faturaya görünmeyen ek maliyetler eklemek olabilir.",
+  "Genel ders, başkasının payını 'ufak bir fark' diye kısmamaktır. Eksilen miktar karşı taraf için küçük görünebilir; ama ayet, bu davranışı 'zarara uğratma' diye adlandırır. Kendi kazancını başkasının kaybı üzerine kurmamak, buradaki ölçüdür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sattığını ya da sunduğunu ölç",
+   "aciklama": "Bugün bir ürün ya da hizmet veriyorsan, vaat ettiğin miktarın gerçekten teslim edilip edilmediğini kontrol et."
+  },
+  {
+   "baslik": "Görünmeyen kısıntıyı bırak",
+   "aciklama": "Fark edilmeyeceğini düşündüğün bir kısıntı (malzeme, süre, kalite) varsa bugün ondan vazgeç."
+  },
+  {
+   "baslik": "Zarar verdiysen telafi et",
+   "aciklama": "Geçmişte birine eksik verdiğini hatırlıyorsan, bugün bunu açıkça söyle ve farkı öde."
+  }
+ ],
+ "bugununAdimi": "Bugün yaptığın bir satış, teslim ya da iş çıktısında karşı tarafın payını yazılı olarak kontrol et; eksikse aynı gün tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=83&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/83/3"
+  }
+ ]
+}

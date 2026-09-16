@@ -1,0 +1,68 @@
+{
+ "sure": 78,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Birbirlerine neyi soruyorlar?",
+ "mealNotu": "'Yetesâelûn' fiili, 'seele' (sormak) kökünün karşılıklı biçimidir; tek yönlü soru değil, aralarında dolaşan bir sorgulamayı anlatır. 'Amme', 'an mâ' (neden, ne hakkında) ifadesinin kısalmış hâlidir.",
+ "kokler": [
+  {
+   "kelime": "عَمَّ",
+   "okunus": "amme",
+   "kok": "—",
+   "kokAnlam": "(edat + soru) ne hakkında",
+   "karsilik": "neyi"
+  },
+  {
+   "kelime": "يَتَسَآءَلُونَ",
+   "okunus": "yetesâelûne",
+   "kok": "سأل",
+   "kokAnlam": "sorma, isteme; karşılıklı sorma",
+   "karsilik": "birbirlerine soruyorlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure bir soruyla açılır. Kimin sorduğu ve neyin sorulduğu ilk ayette söylenmez; bu belirsizlik dikkati toplar. Sonraki ayet konuyu açar: sorulan şey 'büyük haber'dir.",
+  "Fiilin karşılıklı kalıbı önemlidir. Bu, öğrenmek için sorulan bir soru değildir; Mekke'de insanların aralarında konuştuğu, alay ya da şüpheyle birbirlerine yönelttikleri bir sorgulamadır. Klasik tefsir bu soranları, öldükten sonra dirilmeyi kabul etmeyen inkârcılar olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "78:2",
+   "meal": "O büyük haberi.",
+   "baglanti": "İlk ayetin bıraktığı boşluğu bu ayet doldurur; soru ile cevap birlikte okunmalıdır."
+  },
+  {
+   "ref": "38:67",
+   "meal": "De ki: O, büyük bir haberdir.",
+   "baglanti": "Aynı 'büyük haber' ifadesi Sâd suresinde de geçer; iki yerde de insanların yüz çevirdiği bir gerçek anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ahiret hakkında aralarında sorgulama yürüten insanlardır. Soru sormak kötü değildir; fakat burada eleştirilen, cevabı istemeden yalnız tartışmak için sorulan sorudur.",
+  "Bugün de bir konu hakkında sürekli konuşup hiç karar vermemek mümkündür. Sorunun samimi olup olmadığını, cevabı bulunca ne yapacağını düşünmek belirler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sorunu netleştir",
+   "aciklama": "Kafanı kurcalayan bir inanç sorusunu tek cümleyle yaz; cevabı gerçekten arayıp aramadığını kendine sor."
+  },
+  {
+   "baslik": "Tartışmayı bitir",
+   "aciklama": "Uzun süredir konuşulan ama sonuca bağlanmayan bir konuyu bugün bir kaynağa danışarak kapat."
+  },
+  {
+   "baslik": "Dinlemek için sor",
+   "aciklama": "Bugün birine bir soru sorduğunda cevabını sonuna kadar dinle; kendi cevabını dayatma."
+  }
+ ],
+ "bugununAdimi": "Bugün, cevabını ertelediğin bir inanç sorusu için Nebe suresinin ilk beş ayetini bir mealden oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/78/1"
+  }
+ ]
+}

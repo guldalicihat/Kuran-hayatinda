@@ -1,0 +1,89 @@
+{
+ "sure": 82,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Her can, neyi önden gönderdiğini ve neyi geri bıraktığını bilir.",
+ "mealNotu": "'Nefs' burada 'her can, herkes' anlamındadır. 'Kaddemet' önden göndermeyi, 'ehharat' geride bırakmayı anlatır; klasik tefsir bunu 'yaptığı ve yapmadığı' ya da 'önce ve sonra işlediği' olarak açıklar. Meal her iki okumaya açık bırakılmıştır.",
+ "kokler": [
+  {
+   "kelime": "عَلِمَتْ",
+   "okunus": "alimet",
+   "kok": "علم",
+   "kokAnlam": "bilme, tanıma",
+   "karsilik": "bilir"
+  },
+  {
+   "kelime": "نَفْسٌ",
+   "okunus": "nefsün",
+   "kok": "نفس",
+   "kokAnlam": "nefes; can, benlik, kişi",
+   "karsilik": "her can"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ne, neyi",
+   "karsilik": "neyi"
+  },
+  {
+   "kelime": "قَدَّمَتْ",
+   "okunus": "kaddemet",
+   "kok": "قدم",
+   "kokAnlam": "öne geçme, önden gönderme",
+   "karsilik": "önden gönderdiğini"
+  },
+  {
+   "kelime": "وَأَخَّرَتْ",
+   "okunus": "ve ehharat",
+   "kok": "أخر",
+   "kokAnlam": "geride bırakma, erteleme, sonraya koyma",
+   "karsilik": "ve geri bıraktığını"
+  }
+ ],
+ "neAnlatiyor": [
+  "İlk dört ayetin cevabı budur. Gök, yıldızlar, denizler ve kabirler düzenini kaybettiğinde her can bir şeyi bilir: ne yaptığını. Kıyamet sahneleri korkutmak için değil, bu bilgiyi hazırlamak için sıralanmıştır.",
+  "'Kaddemet' önden gönderilen amelleri anlatır: yapılan iyilik ve kötülük. 'Ehharat' ise geride bırakılanı: yapılmayan, ertelenen ya da arkada bırakılan iz. O gün insan, yalnız yaptıklarıyla değil, ertelediği ve arkada bıraktığı etkiyle de yüzleşir. Bu bilgi kesin ve kişiseldir; kimse başkasının yerine bilmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "81:14",
+   "meal": "Her can, ne hazırladığını bilir.",
+   "baglanti": "Önceki sure de kıyamet sahnelerini aynı cümle yapısıyla bağlar. Orada 'hazırladığı', burada 'önden gönderdiği ve geri bıraktığı' denir."
+  },
+  {
+   "ref": "75:13",
+   "meal": "O gün insana, önden gönderdiği ve geri bıraktığı haber verilir.",
+   "baglanti": "Aynı iki fiil orada da geçer. İnfitâr'da insan kendisi bilir; Kıyâme'de bu ona haber verilir. İki ayet birbirini tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu hesaptır. İnsan bugün unuttuğunu o gün bilecektir; ne yaptığını ve ne bırakıp gittiğini.",
+  "Bugüne taşınabilecek ders, iki listeyi ayırt etmektir. Önden gönderdiklerin, bugün yaptığın işlerdir. Geri bıraktıkların ise ertelediklerin ve arkanda bıraktığın izlerdir. Ertelemek, yapmamak demek değildir; o da bir kayıttır."
+ ],
+ "bugun": [
+  {
+   "baslik": "İki sütun yaz",
+   "aciklama": "Bir kağıdı ikiye böl; sola bugün önden gönderdiğin bir iyiliği, sağa ertelediğin bir görevi yaz."
+  },
+  {
+   "baslik": "Bir ertelemeyi bitir",
+   "aciklama": "Uzun süredir 'sonra' dediğin küçük bir işi bugün tamamla; onu 'geri bırakılan' listesinden çıkar."
+  },
+  {
+   "baslik": "Bıraktığın izi düşün",
+   "aciklama": "Bir konuşmadan sonra arkanda ne bıraktığını düşün: bir gönül mü, bir kırgınlık mı?"
+  }
+ ],
+ "bugununAdimi": "Bugün akşam, önden gönderdiğin bir iyiliği ve ertelediğin bir görevi yaz; ertelediğini yarın için takvime koy.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=82&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/82/5"
+  }
+ ]
+}

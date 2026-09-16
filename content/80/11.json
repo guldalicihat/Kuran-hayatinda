@@ -1,0 +1,75 @@
+{
+ "sure": 80,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "Hayır! Şüphesiz o bir hatırlatmadır.",
+ "mealNotu": "'Kellâ' caydırma edatıdır; önceki tutumu keser ve 'öyle değil' der. 'Tezkira' zikr kökünden gelir: hatırlatan, öğüt veren şey. Zamirin Kur'an'a ya da bu ayetlere işaret ettiği klasik tefsirde tartışılır; meal zamiri 'o' olarak bırakır.",
+ "kokler": [
+  {
+   "kelime": "كَلَّآ",
+   "okunus": "kellâ",
+   "kok": "—",
+   "kokAnlam": "(caydırma) hayır, asla",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "إِنَّهَا",
+   "okunus": "innehâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid + zamir) şüphesiz o",
+   "karsilik": "şüphesiz o"
+  },
+  {
+   "kelime": "تَذْكِرَةٌ",
+   "okunus": "tezkiratün",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama; hatırlatan şey, öğüt",
+   "karsilik": "bir hatırlatmadır"
+  }
+ ],
+ "neAnlatiyor": [
+  "'Kellâ' ile surenin ilk bölümü kapanır ve ton değişir. Bir kişiyle oyalanıp ötekini ihmal etmek reddedilir; sonra vahyin ne olduğu söylenir: bir hatırlatma.",
+  "Hatırlatma, kimseye zorla verilmez; kabul edecek olan alır. Bu tanım, önceki ayetlerdeki tavrı da açıklar. Hatırlatmaya muhtaç olan ve isteyen kişi öndedir; istemeyene ısrar gerekmez. Sonraki ayet bu seçimi kişiye bırakır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "74:54",
+   "meal": "Hayır! Şüphesiz o bir hatırlatmadır.",
+   "baglanti": "Aynı cümle Müddessir suresinde de geçer ve ardından aynı biçimde 'dileyen onu anar' gelir. İki sure birbirini destekler."
+  },
+  {
+   "ref": "76:29",
+   "meal": "Şüphesiz bu bir hatırlatmadır; dileyen Rabbine giden bir yol tutar.",
+   "baglanti": "Hatırlatmanın amacı yol göstermektir; yolu tutmak ise kişinin seçimidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, vahyin bir hatırlatma olmasıdır. Hatırlatma, bilmediğini öğretmekten çok bildiğini uyandırır: fıtratta olanı, vicdanın zaten sezdiğini.",
+  "Bugün Kur'an'la ilişki de çoğu zaman bilgi yığmaya dönüşür. Oysa ayet, onu bir hatırlatma olarak okumayı önerir: 'Bu ayet bana neyi hatırlatıyor?' sorusu, okumanın kalbe inmesini sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ayeti hatırla",
+   "aciklama": "Bugün ezberinde olan kısa bir sureyi anlamını düşünerek bir kez oku."
+  },
+  {
+   "baslik": "Kellâ de",
+   "aciklama": "Bugün kendi içinde tekrarlayan yanlış bir alışkanlığa bir kez 'hayır, öyle değil' de ve tersini yap."
+  },
+  {
+   "baslik": "Hatırlatan bir not",
+   "aciklama": "Bugün sana ilkelerini hatırlatan bir cümleyi telefon ekranına ya da masana yaz."
+  }
+ ],
+ "bugununAdimi": "Bugün okuduğun bir ayetin sana neyi hatırlattığını bir cümleyle bir yere yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/80/11"
+  }
+ ]
+}

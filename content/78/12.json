@@ -1,0 +1,82 @@
+{
+ "sure": 78,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Üstünüze yedi sağlam [gök] bina ettik.",
+ "mealNotu": "'Şidâd', 'şedîd' (sağlam, güçlü, sert) kelimesinin çoğuludur. 'Yedi' sayısının neyi nitelediği ayette söylenmez; Kur'an'ın başka yerlerindeki 'yedi gök' ifadesine dayanarak '[gök]' köşeli parantezle eklenmiştir. 'Benâ' kökü bina etmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَبَنَيْنَا",
+   "okunus": "ve beneynâ",
+   "kok": "بني",
+   "kokAnlam": "bina etme, yapı kurma",
+   "karsilik": "bina ettik"
+  },
+  {
+   "kelime": "فَوْقَكُمْ",
+   "okunus": "fevkaküm",
+   "kok": "فوق",
+   "kokAnlam": "üst, üzeri",
+   "karsilik": "üstünüze"
+  },
+  {
+   "kelime": "سَبْعًا",
+   "okunus": "seb'an",
+   "kok": "سبع",
+   "kokAnlam": "yedi",
+   "karsilik": "yedi"
+  },
+  {
+   "kelime": "شِدَادًا",
+   "okunus": "şidâden",
+   "kok": "شدد",
+   "kokAnlam": "sağlamlık, güç, sertlik",
+   "karsilik": "sağlam"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, yerden ve insanın gününden sonra bakışı göğe çevirir. Gök bir bina gibi anlatılır: sağlam, kurulmuş ve insanın üstünde duran. 'Şidâd' kelimesi çatlaksız, dayanıklı bir yapıyı ifade eder.",
+  "'Yedi' sayısı Kur'an'da göğün katları için birçok yerde geçer. Bunun ne olduğu konusunda kesin konuşmamak gerekir; ayetin vurgusu sayıdan çok sağlamlıktadır. Bu sağlam yapının 19. ayette 'kapılar hâline gelmesi', dünya düzeninin geçici, kıyametin kesin olduğunu anlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "67:3",
+   "meal": "O, yedi göğü tabaka tabaka yaratandır. Rahmân'ın yaratmasında hiçbir uyumsuzluk göremezsin. Gözünü çevir de bak, bir çatlak görüyor musun?",
+   "baglanti": "Nebe'deki 'sağlam' niteliği Mülk suresinde 'çatlaksız' olarak açılır; gökteki düzen bir delil olarak sunulur."
+  },
+  {
+   "ref": "2:29",
+   "meal": "O, yerde olanların hepsini sizin için yaratan, sonra göğe yönelip onları yedi gök olarak düzenleyendir. O, her şeyi bilir.",
+   "baglanti": "Yedi gök ifadesi burada da geçer; yer ve gök birlikte insan için düzenlenmiş olarak anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu göğün sağlam bir yapı olarak kurulmasıdır. İnsan gökyüzüne bakar, ama onun 'bina edilmiş' olduğunu çoğu zaman düşünmez.",
+  "Bugün için ders, üstündeki düzenin kendi kendine olmadığını fark etmektir. Sağlam bir yapı, sağlam bir ustaya işaret eder; insan da ancak sağlam temelle iş kurar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Göğe bak",
+   "aciklama": "Bugün bir dakika gökyüzüne bak; gündüz mavisi ya da gece yıldızları, bu yapının sağlamlığını düşün."
+  },
+  {
+   "baslik": "Sağlam temel at",
+   "aciklama": "Bugün başladığın bir işte aceleyle değil, sağlam bir ilk adımla ilerle."
+  },
+  {
+   "baslik": "Mülk suresini oku",
+   "aciklama": "Mülk suresinin 3-4. ayetlerini oku; gökte çatlak arama çağrısını Nebe ile birlikte düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün akşam dışarı çık, gökyüzüne bir dakika bak ve Nebe 12. ayeti bir kez oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/78/12"
+  }
+ ]
+}

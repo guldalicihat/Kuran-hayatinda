@@ -1,0 +1,82 @@
+{
+ "sure": 79,
+ "ayet": 29,
+ "durum": "taslak",
+ "meal": "Gecesini kararttı, kuşluğunu [aydınlığını] çıkardı.",
+ "mealNotu": "'Ğataş' kökü karanlığı ve görüşün zayıflamasını anlatır; 'ağtaşe' karartmaktır. 'Leyl' gece, 'duhâ' ise güneşin yükseldiği kuşluk vaktidir; burada gündüzün aydınlığını temsil eder ve 'aydınlığını' köşeli parantezle eklenmiştir. 'Hurûc' kökü çıkmayı, 'ahrace' çıkarmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَأَغْطَشَ",
+   "okunus": "ve ağtaşe",
+   "kok": "غطش",
+   "kokAnlam": "karartma, karanlık kılma",
+   "karsilik": "ve kararttı"
+  },
+  {
+   "kelime": "لَيْلَهَا",
+   "okunus": "leylehâ",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "gecesini"
+  },
+  {
+   "kelime": "وَأَخْرَجَ",
+   "okunus": "ve ahrace",
+   "kok": "خرج",
+   "kokAnlam": "çıkma; çıkarma",
+   "karsilik": "ve çıkardı"
+  },
+  {
+   "kelime": "ضُحَىٰهَا",
+   "okunus": "duhâhâ",
+   "kok": "ضحو",
+   "kokAnlam": "kuşluk vakti, gün ışığı",
+   "karsilik": "kuşluğunu"
+  }
+ ],
+ "neAnlatiyor": [
+  "Göğün bina edilmesi ve düzene konulmasından sonra, onun gece ve gündüzü anlatılır. Zamirler göğe döner: Göğün gecesi karartıldı, göğün kuşluğu çıkarıldı. Karanlık ve aydınlık, aynı Yaratıcı'nın iki işidir.",
+  "'Ağtaşe' fiili nadir bir kelimedir ve görüşü kapatan koyu karanlığı anlatır. 'Duhâ' ise günün en aydınlık ve canlı saatidir. Ayet, gece ve gündüzü bir karşıtlık olarak değil, bir düzenin iki yüzü olarak sunar. Sonraki ayet gökten yere geçer."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "91:1",
+   "meal": "Andolsun güneşe ve kuşluğuna.",
+   "baglanti": "Şems suresi aynı 'duhâ' kelimesini güneşin aydınlığı için kullanır ve ardından geceyle karşıtlık kurar. İki sure aynı gece-gündüz düzenine dikkat çeker."
+  },
+  {
+   "ref": "28:73",
+   "meal": "Rahmetinden dolayı sizin için geceyi ve gündüzü yarattı ki geceleyin dinlenesiniz, gündüzün O'nun lütfundan arayasınız ve şükredesiniz.",
+   "baglanti": "Kasas suresi gece ve gündüzün insana yönelik amacını verir. Nâziât'ta yaratılış delili olarak anılan düzen, burada nimet olarak açıklanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, göğün gecesinin karartılıp gündüzünün aydınlatılmasıdır. Her ikisi de bilinçli bir düzenlemedir.",
+  "Bugüne taşınabilecek ders, karanlığın da bir yeri olduğudur. Gece dinlenmek, gündüz çalışmak için yaratılmıştır; ikisini karıştıran insan dengeyi kaybeder. Bir de hayattaki karanlık dönemler: Onlar da bir düzenin parçasıdır ve kuşluk vakti ardından gelir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geceyi geceye ayır",
+   "aciklama": "Bugün gece ekranı erken kapat ve dinlenmeye vaktinde başla."
+  },
+  {
+   "baslik": "Kuşluğu değerlendir",
+   "aciklama": "Sabahın erken saatinde bir işi bitir; kuşluk vaktinin bereketini dene."
+  },
+  {
+   "baslik": "Karanlığa sabret",
+   "aciklama": "Zor bir dönemden geçiyorsan bugün 'Kuşluk gelecek' cümlesini bir kez kendine söyle."
+  }
+ ],
+ "bugununAdimi": "Bugün yatma saatini belirle ve o saatte ekranı kapatarak geceyi dinlenmeye ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=79&verse=29"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/79/29"
+  }
+ ]
+}

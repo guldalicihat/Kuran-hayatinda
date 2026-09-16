@@ -1,0 +1,82 @@
+{
+ "sure": 79,
+ "ayet": 43,
+ "durum": "taslak",
+ "meal": "Sen onu anmakla [vaktini bildirmekle] neredesin?",
+ "mealNotu": "'Fîme ente' kalıbı, 'Sen bunun neresindesin?' anlamında bir sorudur; kişinin o konuda söz sahibi olmadığını bildirir. 'Zikrâ' kökü anmayı, hatırlatmayı anlatır; bağlama göre kıyametin vaktini söylemek olduğu köşeli parantezle belirtilmiştir.",
+ "kokler": [
+  {
+   "kelime": "فِيمَ",
+   "okunus": "fîme",
+   "kok": "—",
+   "kokAnlam": "(edat + soru) nede, neyin içinde",
+   "karsilik": "neredesin"
+  },
+  {
+   "kelime": "أَنتَ",
+   "okunus": "ente",
+   "kok": "—",
+   "kokAnlam": "(zamir) sen",
+   "karsilik": "sen"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-la"
+  },
+  {
+   "kelime": "ذِكْرَىٰهَآ",
+   "okunus": "zikrâhâ",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlatma, zikir",
+   "karsilik": "onu anmak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, kıyametin vaktini soranlara verilen ilk cevaptır ve Peygamber'e hitap eder. 'Sen onu anmakla neredesin?' sorusu, vaktini bildirmenin Peygamber'in görevi ve bilgisi dışında olduğunu anlatır. Klasik tefsir bunu 'Onun vaktini bilmek ve söylemek sana ait değildir' diye açıklar.",
+  "'Zikrâ' kelimesi surenin genelinde uyarma anlamıyla ilişkilidir; ancak burada kastedilen kıyametin vaktinin anılmasıdır. Sonraki ayet bu bilgiyi kime bıraktığını söyler. Böylece soru, bilginin sınırını çizer."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "31:34",
+   "meal": "Kıyametin bilgisi şüphesiz Allah katındadır; yağmuru O indirir, rahimlerde olanı O bilir. Hiç kimse yarın ne kazanacağını bilmez, hiç kimse hangi yerde öleceğini bilmez.",
+   "baglanti": "Lokmân suresi, kıyamet bilgisini insanın bilemeyeceği şeylerin başına koyar. Nâziât'ta Peygamber'e sorulan soru bu ilkenin bir uygulamasıdır."
+  },
+  {
+   "ref": "43:85",
+   "meal": "Kıyametin bilgisi O'nun katındadır ve O'na döndürüleceksiniz.",
+   "baglanti": "Zuhruf'ta kıyamet bilgisi ile Allah'a dönüş yan yana anılır. Vakti bilmek değil, o dönüşe hazır olmak insanın işidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyametin vaktinin Peygamber'in bile bilgisi dışında olmasıdır. En yakın kul bile bu sınırın ötesine geçmez.",
+  "Bugüne taşınabilecek ders, bilmediğini kabul etmektir. İnsan her soruya cevap vermek zorunda değildir; 'bilmiyorum, bu Allah'ın bilgisindedir' demek bir eksiklik değil, doğruluktur. Tarih veren, alamet sayan söylemlere bu ayetle mesafe konur."
+ ],
+ "bugun": [
+  {
+   "baslik": "'Bilmiyorum' de",
+   "aciklama": "Bugün bilmediğin bir konuda tahmin yürütmek yerine açıkça 'bilmiyorum' de."
+  },
+  {
+   "baslik": "Tarihçiye kanma",
+   "aciklama": "Kıyamete tarih veren bir paylaşım görürsen paylaşma; ayetin çizdiği sınırı hatırla."
+  },
+  {
+   "baslik": "Sınırını bil",
+   "aciklama": "Kontrolünde olmayan bir konuda bugün endişeyi bırak ve elinde olana odaklan."
+  }
+ ],
+ "bugununAdimi": "Bugün bir soruya emin olmadan cevap vermek yerine 'Bunu bilmiyorum' cümlesini bir kez kur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=79&verse=43"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/79/43"
+  }
+ ]
+}

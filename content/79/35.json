@@ -1,0 +1,89 @@
+{
+ "sure": 79,
+ "ayet": 35,
+ "durum": "taslak",
+ "meal": "O gün insan neye çalıştığını hatırlar.",
+ "mealNotu": "'Yetezekkeru' fiili zikir kökündendir ve unutulanı yeniden hatırlamayı, aklına getirmeyi anlatır. 'Seâ' kökü koşmayı ve çaba göstermeyi ifade eder; 'neye çalıştığı', ömrünü hangi işe harcadığı demektir.",
+ "kokler": [
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "يَتَذَكَّرُ",
+   "okunus": "yetezekkeru",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama, akılda tutma",
+   "karsilik": "hatırlar"
+  },
+  {
+   "kelime": "ٱلْإِنسَٰنُ",
+   "okunus": "el'insânü",
+   "kok": "أنس",
+   "kokAnlam": "ünsiyet, alışma; insan",
+   "karsilik": "insan"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ne, şey",
+   "karsilik": "neye"
+  },
+  {
+   "kelime": "سَعَىٰ",
+   "okunus": "seâ",
+   "kok": "سعي",
+   "kokAnlam": "koşma, çabalama, uğraşma",
+   "karsilik": "çalıştığını"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, büyük felâket geldiğinde insanın içinde olacak durumu anlatır. O gün insan, dünyada neyin peşinde koştuğunu hatırlar. 'Tezekkür' kökü, unutulmuş ya da önemsenmemiş şeyin yeniden hatıra gelmesidir. Dünyada gözden kaçan çabalar o gün bütün açıklığıyla önüne gelir.",
+  "'Seâ' kökü hem iyi hem kötü çabayı kapsar; ayet bir hükmü değil, hatırlama anını anlatır. Sonraki ayette cehennemin açığa çıkarılması, bu hatırlamanın ne kadar ciddi bir yüzleşme olduğunu gösterir. Hatırlamak o gün iş işten geçtikten sonra gelir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "89:23",
+   "meal": "O gün cehennem getirilir; o gün insan hatırlar, ama hatırlamak ona ne fayda sağlar?",
+   "baglanti": "Aynı 'yetezekkerul insân' ifadesi Fecr suresinde de geçer ve oradaki soru, o günkü hatırlamanın artık işe yaramayacağını açıkça söyler."
+  },
+  {
+   "ref": "53:39",
+   "meal": "İnsan için ancak çalıştığı vardır.",
+   "baglanti": "'Seâ' kökü Necm suresinde de insanın sahip olduğu tek şeyin kendi çabası olduğunu bildirir. Nâziât'ta hatırlanan da işte bu çabadır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyamet günü insanın ömrünü nereye harcadığını hatırlamasıdır. O gün geriye dönüp bakmak zorunlu olacaktır.",
+  "Bugüne taşınabilecek ders, bu bakışı öne almaktır. İnsan ne için koştuğunu bugün hatırlarsa, yarın hatırlamak acı olmaz. Günün sonunda 'Bugün neye çalıştım?' sorusu, bu ayetin küçük bir provasıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zamanını say",
+   "aciklama": "Bugün saatlerini nereye harcadığını akşam kabaca yaz: iş, ekran, aile, ibadet."
+  },
+  {
+   "baslik": "Bir çabayı yönlendir",
+   "aciklama": "Bugün bir işi yalnız para veya beğeni için değil, Allah rızası için yaptığını içinden söyle."
+  },
+  {
+   "baslik": "Geçmişe bak",
+   "aciklama": "Son bir yılda en çok emek verdiğin şeyi düşün; kıyamet günü hatırlamak isteyeceğin bir şey mi?"
+  }
+ ],
+ "bugununAdimi": "Bugün yatmadan önce 'Bugün en çok neye çalıştım?' sorusuna tek cümlelik cevap yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=79&verse=35"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/79/35"
+  }
+ ]
+}

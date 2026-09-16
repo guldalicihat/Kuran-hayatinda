@@ -1,0 +1,89 @@
+{
+ "sure": 79,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'O hâlde bu, zararlı bir dönüş olur.'",
+ "mealNotu": "'Kerra' kökü geri dönmeyi, tekrar saldırmayı anlatır; burada diriliş için kullanılır. 'Hâsira' kökü zarar etmeyi, kaybetmeyi ifade eder. Söz inkârcılarındır; 'eğer diriliş gerçekse bu bizim için kayıptır' anlamında alay ya da endişe taşır.",
+ "kokler": [
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "تِلْكَ",
+   "okunus": "tilke",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu, şu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "إِذًا",
+   "okunus": "izen",
+   "kok": "—",
+   "kokAnlam": "(cevap) o hâlde",
+   "karsilik": "o hâlde"
+  },
+  {
+   "kelime": "كَرَّةٌ",
+   "okunus": "kerratün",
+   "kok": "كرر",
+   "kokAnlam": "geri dönme, tekrar",
+   "karsilik": "bir dönüş"
+  },
+  {
+   "kelime": "خَاسِرَةٌ",
+   "okunus": "hâsiratün",
+   "kok": "خسر",
+   "kokAnlam": "zarar etme, kaybetme",
+   "karsilik": "zararlı"
+  }
+ ],
+ "neAnlatiyor": [
+  "İnkârcıların sözü burada tamamlanır: 'O hâlde bu, zararlı bir dönüş olur.' Cümle iki biçimde okunabilir. Alay olarak: 'Eğer öyleyse biz kaybettik demektir!' Ya da endişe olarak: 'Öyle bir dönüş varsa bu bizim için kayıp olur.' Klasik tefsir her iki yönü de anar.",
+  "'Kerra' kökü, savaşta geri çekilip yeniden hücum etmeyi anlatır; burada ölümden hayata dönüş için kullanılır. 'Hâsira' ise Kur'an'da hesap gününde kaybedenleri anlatan kökle aynıdır. İnkârcı, farkında olmadan kendi akıbetini tarif eder. Sonraki ayet, bu dönüşün ne kadar kolay olacağını bildirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "39:58",
+   "meal": "Yahut azabı gördüğü zaman: 'Keşke bir kez daha dönüşüm olsaydı da iyilerden olsaydım' der.",
+   "baglanti": "Aynı 'kerra' kökü burada bir pişmanlık sözünde geçer. Dünyada dirilişi alaya alan, o gün dünyaya dönmeyi ister."
+  },
+  {
+   "ref": "26:102",
+   "meal": "'Keşke bize bir kez daha dönüş olsa da müminlerden olsak.'",
+   "baglanti": "Şuarâ'da cehennemliklerin bu dileği aktarılır. Nâziât'ta 'zararlı dönüş' diyenlerin asıl zararı, o gün dönüş isteyip bulamamaktır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, inkârcıların dirilişi kayıp olarak görmesidir. Bu sözde hem alay hem gizli bir korku vardır.",
+  "Bugüne taşınabilecek ders, gerçeği kabul etmenin kayıp değil kazanç olduğunu görmektir. İnsan bazen doğru olanı, hesap vermek zorunda kalacağı için istemez. Oysa hesabı bugünden kabul etmek, o gün kaybetmemenin tek yoludur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaçtığın gerçeği yaz",
+   "aciklama": "Kabul etmek istemediğin için ertelediğin bir gerçeği bugün tek cümleyle kâğıda yaz."
+  },
+  {
+   "baslik": "Zararı doğru hesapla",
+   "aciklama": "Bugün bir kararda 'Bu bana ahirette ne kazandırır?' sorusunu da hesaba kat."
+  },
+  {
+   "baslik": "Bir alayı bırak",
+   "aciklama": "Bugün dinî bir konuyu alaya alan bir sözü tekrarlamaktan ya da paylaşmaktan kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün 'kayıp' sandığın için ertelediğin bir doğru işi yaz ve bir adımını at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=79&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/79/12"
+  }
+ ]
+}

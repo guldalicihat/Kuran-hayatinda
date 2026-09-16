@@ -1,0 +1,75 @@
+{
+ "sure": 78,
+ "ayet": 31,
+ "durum": "taslak",
+ "meal": "Şüphesiz takvâ sahipleri için bir kurtuluş [yeri] vardır.",
+ "mealNotu": "'Müttekîn', 'vikâye' (korunma, sakınma) kökünden gelir; kendini koruyan, sakınan kişiyi anlatır. 'Mefâz', 'fevz' (kazanma, kurtulma) kökünden yer ismidir; hem kurtuluş hem kazanç anlamını taşır, bu yüzden '[yeri]' köşeli parantezle eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(pekiştirme) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "لِلْمُتَّقِينَ",
+   "okunus": "lilmüttekîne",
+   "kok": "وقي",
+   "kokAnlam": "koruma, sakınma, korunma",
+   "karsilik": "takvâ sahipleri için"
+  },
+  {
+   "kelime": "مَفَازًا",
+   "okunus": "mefâzen",
+   "kok": "فوز",
+   "kokAnlam": "kazanma, kurtulma, başarıya erme",
+   "karsilik": "bir kurtuluş [yeri]"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure buraya kadar azgınların âkıbetini anlattı; 30. ayet 'artık size azaptan başka bir şey artırmayacağız' sözüyle bitti. 31. ayetle tablo değişir ve takvâ sahiplerinin sonu anlatılmaya başlanır. Bu geçiş, surenin iki kefeli yapısını gösterir.",
+  "'Müttekî', kendini koruyan kişidir; 'mefâz' ise kazanç ve kurtuluşun gerçekleştiği yerdir. Ayet, korunmanın boşa gitmediğini bildirir. Sonraki ayetler bu kurtuluşun içeriğini bahçeler, eşler ve kadehler gibi somut nimetlerle açar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:185",
+   "meal": "Her nefis ölümü tadacaktır. Kıyamet günü karşılıklarınız size eksiksiz verilir. Kim ateşten uzaklaştırılıp cennete konursa gerçekten kurtulmuştur (fâze).",
+   "baglanti": "Aynı 'fevz' kökü, kurtuluşun ne olduğunu açıklar: ateşten uzaklaşıp cennete girmek."
+  },
+  {
+   "ref": "78:21",
+   "meal": "Şüphesiz cehennem bir gözetleme yeridir.",
+   "baglanti": "Aynı surede azgınlar için 'mirsâd' (pusu, gözetleme yeri), takvâ sahipleri için 'mefâz' (kurtuluş yeri) vardır. İki yer ismi iki sonu karşılaştırır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu âhirette takvâ sahiplerinin kavuşacağı kurtuluştur. Takvâ soyut bir duygu değil, zararlı olandan somut biçimde uzak durma davranışıdır.",
+  "Bugüne taşınabilecek ders, kendini korumanın bir kayıp değil kazanç olduğudur. Haramdan, yalandan ya da zararlı bir alışkanlıktan uzak durmak o an bir mahrumiyet gibi görünebilir; ayet bunun sonunda bir kazanç yeri olduğunu söyler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir korunma noktası belirle",
+   "aciklama": "Bugün seni en çok zorlayan bir yanlışı yaz ve ondan uzak durmak için tek bir somut engel koy."
+  },
+  {
+   "baslik": "Mahrumiyeti yeniden adlandır",
+   "aciklama": "Bir şeyden vazgeçmek zor geldiğinde 'kaybediyorum' yerine 'korunuyorum' de ve neyi koruduğunu söyle."
+  },
+  {
+   "baslik": "Sonu düşün",
+   "aciklama": "Bir karar verirken 'şu an ne hissettiriyor' yanında 'sonunda nereye götürür' sorusunu da sor."
+  }
+ ],
+ "bugununAdimi": "Bugün kendini korumak için bilinçli olarak vazgeçtiğin bir şeyi akşam bir cümleyle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=31"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/78/31"
+  }
+ ]
+}

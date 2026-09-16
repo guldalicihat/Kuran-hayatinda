@@ -1,0 +1,75 @@
+{
+ "sure": 78,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Sonra yine hayır! Yakında bilecekler.",
+ "mealNotu": "'Sümme' (sonra) edatı bir önceki cümleyi tekrar ederek pekiştirir; bu yüzden 'yine' eklenmiştir. 'Kellâ' ret ve caydırma edatıdır; 'ilm' kökü bilmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "كَلَّا",
+   "okunus": "kellâ",
+   "kok": "—",
+   "kokAnlam": "(caydırma edatı) hayır, asla",
+   "karsilik": "yine hayır"
+  },
+  {
+   "kelime": "سَيَعْلَمُونَ",
+   "okunus": "seya'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme, tanıma, kesin kavrama",
+   "karsilik": "yakında bilecekler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayeti 'sonra' ile tekrar eder. Arapçada tekrar, önemi ve kesinliği artırır. Uyarı iki kez söylenince, tartışmanın boş, sonucun ise kesin olduğu vurgulanmış olur.",
+  "Klasik tefsir bu tekrarı iki biçimde açıklar: ya aynı uyarının pekiştirilmesi ya da iki ayrı bilme anı, ölüm anı ve diriliş günü. Her iki durumda da mesaj aynıdır: gerçek, tartışanların önüne mutlaka gelecektir. Bu ayetle surenin giriş bölümü biter; sonraki ayet yaratılış delillerine geçer."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "102:4",
+   "meal": "Sonra yine hayır! Yakında bileceksiniz.",
+   "baglanti": "Tekâsür suresinde de uyarı aynı biçimde iki kez tekrar edilir; iki surede de aynı üslup, aynı kesinliği taşır."
+  },
+  {
+   "ref": "6:67",
+   "meal": "Her haberin kararlaşmış bir vakti vardır; yakında bileceksiniz.",
+   "baglanti": "Büyük haberin vakti bellidir; 'yakında bileceksiniz' sözü bu vaktin geleceğini bildirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, ahiret uyarısının tekrarıdır. Tekrar, önemi artırır; önemli bir uyarı bir kez söylenip bırakılmaz.",
+  "Kendi hayatında da bazı gerçekleri kendine tekrar hatırlatman gerekir. Bir kez duymak yeterli olsaydı, unutmak diye bir şey olmazdı."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir hatırlatıcı kur",
+   "aciklama": "Bugün telefonuna, sana ahireti hatırlatan kısa bir ayet notu ekle; gün içinde bir kez görmeni sağla."
+  },
+  {
+   "baslik": "Uyarıyı ciddiye al",
+   "aciklama": "Sana iki kez yapılan bir uyarı (doktor, aile, iş) varsa bugün onu görmezden gelmeyi bırak."
+  },
+  {
+   "baslik": "Tekrarla öğren",
+   "aciklama": "Nebe suresinin ilk beş ayetini bugün üç kez oku; ikinci okumada tekrarın etkisini fark et."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir uyarıyı yaz ve ona verdiğin ilk somut cevabı yanına ekle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/78/5"
+  }
+ ]
+}

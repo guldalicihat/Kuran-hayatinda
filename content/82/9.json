@@ -1,0 +1,82 @@
+{
+ "sure": 82,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Hayır! Aksine siz hesap gününü yalanlıyorsunuz.",
+ "mealNotu": "'Kellâ' güçlü bir ret edatıdır; 'hayır, asla' anlamı taşır. 'Dîn' kökü borç, karşılık ve hesap anlamlarını içerir; surenin bağlamında 'hesap günü' olarak karşılandı. 'Tükezzibûn' fiili çoğuldur; hitap tek insandan topluluğa geçer.",
+ "kokler": [
+  {
+   "kelime": "كَلَّا",
+   "okunus": "kellâ",
+   "kok": "—",
+   "kokAnlam": "(ret edatı) hayır, asla",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrâk edatı) aksine, bilakis",
+   "karsilik": "aksine"
+  },
+  {
+   "kelime": "تُكَذِّبُونَ",
+   "okunus": "tükezzibûne",
+   "kok": "كذب",
+   "kokAnlam": "yalan; yalanlama, inkâr",
+   "karsilik": "yalanlıyorsunuz"
+  },
+  {
+   "kelime": "بِٱلدِّينِ",
+   "okunus": "bid dîni",
+   "kok": "دين",
+   "kokAnlam": "borç, karşılık, hesap; din",
+   "karsilik": "hesap gününü"
+  }
+ ],
+ "neAnlatiyor": [
+  "6. ayetteki sorunun asıl cevabı burada verilir. İnsanı Rabbine karşı aldatan şey, keremdeki bir eksiklik değil, hesabı yalanlamasıdır. 'Kellâ' ile bütün bahaneler reddedilir. 'Dîn' kelimesi karşılık ve hesap anlamı taşır; aynı kelime 15, 17 ve 18. ayetlerde 'yevmü'd-dîn' olarak tekrarlanır.",
+  "Hitap burada tekilden çoğula geçer. 6. ayette 'ey insan' denirken şimdi 'siz yalanlıyorsunuz' denir. Klasik tefsir bunu, gafletin bireysel bir zaaf olmasının yanında yaygın bir tutum olduğuna işaret sayar. Sonraki ayetler, yalanlanan hesabın nasıl tutulduğunu anlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "107:1",
+   "meal": "Hesap gününü yalanlayanı gördün mü?",
+   "baglanti": "Aynı 'yalanlama' ve 'dîn' kökleri orada da birlikte geçer. Mâûn suresi, hesabı yalanlamanın davranışa nasıl yansıdığını gösterir: yetimi itmek, yoksulu doyurmamak."
+  },
+  {
+   "ref": "95:7",
+   "meal": "Bundan sonra hesap gününü sana yalanlatan nedir?",
+   "baglanti": "Tîn suresi de insanın güzel yaratılışını anlattıktan sonra aynı soruyu sorar. İki sure aynı sırayı izler: yaratılış, ardından hesabı yalanlama."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu hesap gününü yalanlamaktır. Bu yalanlama her zaman sözle olmaz; hesabı hiç düşünmeden yaşamak da bir tür yalanlamadır.",
+  "Bugüne taşınabilecek ders, davranışla inanç arasındaki tutarlılığı kontrol etmektir. Hesaba inandığını söyleyen ama hiçbir işinde hesabı hesaba katmayan insan, ayetin muhatabıdır. Küçük bir karar öncesinde 'Bunun hesabı var mı?' sorusu bu tutarlılığı sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir kararı hesapla süz",
+   "aciklama": "Bugün alacağın bir kararı vermeden önce 'Bunun hesabını verebilir miyim?' diye sor."
+  },
+  {
+   "baslik": "Fiilî yalanlamayı ara",
+   "aciklama": "Hesabı unutarak yaptığın bir alışkanlığı bul; onu bugün bir kez bilinçle yap ya da bırak."
+  },
+  {
+   "baslik": "Kelimeyi takip et",
+   "aciklama": "Surede 'dîn' kelimesinin geçtiği dört ayeti (9, 15, 17, 18) bul ve yan yana oku."
+  }
+ ],
+ "bugununAdimi": "Bugün bir işi yaparken 'Bu hesap gününde önüme çıkacak' diyerek yap ve bunu akşam bir cümleyle not et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=82&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/82/9"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "sure": 78,
+ "ayet": 30,
+ "durum": "taslak",
+ "meal": "Öyleyse tadın! Artık size azaptan başkasını artırmayacağız.",
+ "mealNotu": "'Zûkû' tatma emridir; azap için 'tatmak' fiilinin kullanılması Kur'an'da yaygındır. 'Nezîdeküm' artırmayı anlatır; 'len' edatı kesin olumsuzluk verir. 'İllâ' istisnası ile cümle, artışın yalnız azapta olacağını bildirir.",
+ "kokler": [
+  {
+   "kelime": "فَذُوقُوا۟",
+   "okunus": "fezûkû",
+   "kok": "ذوق",
+   "kokAnlam": "tatma",
+   "karsilik": "öyleyse tadın"
+  },
+  {
+   "kelime": "فَلَن",
+   "okunus": "felen",
+   "kok": "—",
+   "kokAnlam": "(kesin olumsuzluk) asla",
+   "karsilik": "artık asla"
+  },
+  {
+   "kelime": "نَّزِيدَكُمْ",
+   "okunus": "nezîdeküm",
+   "kok": "زيد",
+   "kokAnlam": "artırma, çoğaltma",
+   "karsilik": "size artırmayacağız"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) başka, ancak",
+   "karsilik": "başkasını"
+  },
+  {
+   "kelime": "عَذَابًا",
+   "okunus": "azâben",
+   "kok": "عذب",
+   "kokAnlam": "azap, ceza; acı",
+   "karsilik": "azaptan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, azgınlara ayrılan bölümün son sözüdür. Emir kipi 'tadın', önceki ayetlerde anlatılan azabın artık gerçekleştiğini gösterir. Ardından gelen cümle her umudu keser: artış yalnız azapta olacaktır.",
+  "Klasik tefsir bu ayeti Kur'an'ın cehennem ehli için en ağır ayetlerinden biri olarak açıklar; çünkü azalma ya da bitiş değil, yalnız artış vaat eder. Hemen sonraki ayet ise müttakilere döner: 'Şüphesiz müttakiler için bir kurtuluş vardır.' İki tablo yan yana konur ki seçim netleşsin."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "16:88",
+   "meal": "İnkâr edip Allah yolundan alıkoyanlara, bozgunculuk yapmalarından dolayı azap üstüne azap artırırız.",
+   "baglanti": "Aynı 'artırma' kökü; azabın artması, yalanlama ve engelleme tutumunun sonucu olarak anlatılır."
+  },
+  {
+   "ref": "32:20",
+   "meal": "Yoldan çıkanlara gelince, onların barınağı ateştir. Oradan her çıkmak istediklerinde geri çevrilirler ve onlara 'Yalanladığınız ateşin azabını tadın' denir.",
+   "baglanti": "Aynı 'tadın' emri; azap, yalanlanan şeyin kendisi olarak sunulur. Nebe 28'deki yalanlama ile 30'daki tatma burada birleşir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, azgınlar için azabın kesinleşmesidir. Bu, bugün yaşayan insana verilen son bir uyarıdır; kapı henüz kapanmamıştır.",
+  "Bugün için ders, umudun bu dünyada olduğunu bilmektir. Tövbe, düzelme ve iyilik bugün mümkündür; ayet, bunun bir gün mümkün olmayacağını hatırlatır. Erteleme, en pahalı alışkanlıktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugün tövbe et",
+   "aciklama": "Ertelediğin bir tövbeyi bugüne al; kısa ve samimi bir cümle yeter."
+  },
+  {
+   "baslik": "Sonraki ayeti oku",
+   "aciklama": "Nebe 30 ile 31'i birlikte oku; azap ile kurtuluşun yan yana konduğunu fark et ve hangi tarafta olmak istediğini söyle."
+  },
+  {
+   "baslik": "Bir kapıyı açık tut",
+   "aciklama": "Sana karşı yanlış yapan birine bugün bir affetme kapısı aç; kapı kapanmadan önce açık tutmanın değerini hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün, uzun süredir ertelediğin bir tövbeyi ya da özrü akşam olmadan yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=30"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/78/30"
+  }
+ ]
+}

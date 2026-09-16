@@ -1,0 +1,89 @@
+{
+ "sure": 79,
+ "ayet": 42,
+ "durum": "taslak",
+ "meal": "Sana kıyametten soruyorlar: 'Ne zaman gelip çatacak?'",
+ "mealNotu": "'Sâat' kökü zaman dilimini anlatır; Kur'an'da belirli artikelle 'es-sâa' kıyamet demektir. 'Mürsâ' kelimesi 32. ayetteki 'ersâ' ile aynı köktendir; geminin demir atıp durması gibi kıyametin gelip yerleşmesini anlatır. 'Gelip çatmak' karşılığı buradan gelir.",
+ "kokler": [
+  {
+   "kelime": "يَسْـَٔلُونَكَ",
+   "okunus": "yes'elûneke",
+   "kok": "سأل",
+   "kokAnlam": "sorma, isteme",
+   "karsilik": "sana soruyorlar"
+  },
+  {
+   "kelime": "عَنِ",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "(edat) -den, hakkında",
+   "karsilik": "-ten"
+  },
+  {
+   "kelime": "ٱلسَّاعَةِ",
+   "okunus": "essâati",
+   "kok": "سوع",
+   "kokAnlam": "saat, zaman dilimi; kıyamet",
+   "karsilik": "kıyamet"
+  },
+  {
+   "kelime": "أَيَّانَ",
+   "okunus": "eyyâne",
+   "kok": "—",
+   "kokAnlam": "(soru) ne zaman",
+   "karsilik": "ne zaman"
+  },
+  {
+   "kelime": "مُرْسَىٰهَا",
+   "okunus": "mürsâhâ",
+   "kok": "رسو",
+   "kokAnlam": "demir atma, sabitleme, yerleşme",
+   "karsilik": "gelip çatması"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, iki grubun sonunu bildirdikten sonra inkârcıların Peygamber'e yönelttiği soruya döner: Kıyamet ne zaman? 'Sâat' kelimesi belirli artikelle kıyameti anlatır. 'Mürsâ' ise geminin limana yanaşıp demir atması gibi, kıyametin gelip yerine oturmasıdır. Soru alaycı bir inkârı da taşır.",
+  "Bu sorunun cevabı sonraki dört ayette gelir: vaktini bilmek Peygamber'in işi değildir, bilgisi Rabbe aittir, Peygamber yalnız uyarıcıdır. Sure böylece başladığı yere, dirilişe, döner ve o günün dünyayı kısacık gösterecek gerçekliğiyle biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:187",
+   "meal": "Sana kıyameti soruyorlar: 'Ne zaman gelip çatacak?' De ki: Onun bilgisi ancak Rabbimin katındadır; vaktini O'ndan başkası açıklayamaz.",
+   "baglanti": "A'râf suresinde aynı soru aynı sözlerle geçer ve cevap açıkça verilir. Nâziât'taki kısa cevaplar bu ayetle birlikte okununca tamamlanır."
+  },
+  {
+   "ref": "33:63",
+   "meal": "İnsanlar sana kıyameti soruyor. De ki: Onun bilgisi ancak Allah katındadır. Ne bilirsin, belki de kıyamet yakındır.",
+   "baglanti": "Ahzâb'da soruya verilen cevap, bilgiyi Allah'a bırakmakla birlikte kıyametin yakın olabileceğini de ekler; soranın 'ne zaman'ı yerine 'hazır mısın'ı öne çıkarır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyametin vaktini soran inkârcılardır. Soru, gerçeği öğrenmek için değil, inanmamak için sorulmuştur.",
+  "Bugüne taşınabilecek ders, yanlış soruyu fark etmektir. İnsan 'ne zaman' sorusuyla sorumluluğunu erteler; asıl soru 'ne yaptım' sorusudur. Kıyametin, hastalığın ya da ölümün vaktini bilmek değil, ona hazır olmak insanın elindedir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Soruyu değiştir",
+   "aciklama": "Bugün 'ne zaman' diye endişelendiğin bir konuda kendine 'şu an ne yapabilirim' diye sor."
+  },
+  {
+   "baslik": "Tartışmayı bırak",
+   "aciklama": "Kıyamet alametleri ya da tarihleri üzerine bir tartışmaya girme; vakti Allah'a bırak."
+  },
+  {
+   "baslik": "Hazırlık yap",
+   "aciklama": "Bugün ölüm sana gelse eksik kalacak bir şeyi düşün ve onun için bir adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün yarına dair bir endişeyi bırak ve yerine bugün yapabileceğin bir iyiliği yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=79&verse=42"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/79/42"
+  }
+ ]
+}

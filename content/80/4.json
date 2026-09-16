@@ -1,0 +1,82 @@
+{
+ "sure": 80,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Yahut öğüt alacak da bu hatırlatma ona fayda verecekti.",
+ "mealNotu": "'Yezzekkeru' ve 'zikrâ' aynı 'zikr' kökündendir: anmak, hatırlamak, öğüt almak. İlkinde kişinin kendi hatırlaması, ikincisinde ona sunulan hatırlatma vardır. 'Nefea' kökü yarar sağlamayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "يَذَّكَّرُ",
+   "okunus": "yezzekkeru",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama, öğüt alma",
+   "karsilik": "öğüt alacak"
+  },
+  {
+   "kelime": "فَتَنفَعَهُ",
+   "okunus": "fetenfeahü",
+   "kok": "نفع",
+   "kokAnlam": "fayda, yarar sağlama",
+   "karsilik": "de ona fayda verecekti"
+  },
+  {
+   "kelime": "ٱلذِّكْرَىٰٓ",
+   "okunus": "ezzikrâ",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama; hatırlatma, öğüt",
+   "karsilik": "bu hatırlatma"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, üçüncü ayetteki ihtimale bir ikincisini ekler. Gelen kişi belki arınacaktı; belki de yalnız bir hatırlatma alacak ve bu ona yetecekti. İki ihtimal de onun lehinedir.",
+  "'Zikrâ' kelimesi, insanın zaten bildiği bir şeyin yeniden hatırlatılmasıdır. Kur'an kendisini sık sık böyle tanımlar. Buradaki vurgu, hatırlatmanın kime fayda vereceğinin dışarıdan bilinemeyeceğidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "87:9",
+   "meal": "O hâlde hatırlat; hatırlatma fayda verecekse.",
+   "baglanti": "Aynı iki kök burada da bir aradadır: zikrâ ve nefea. Hatırlatmanın ölçüsü, kime fayda vereceğidir; Abese'de bu fayda göz ardı edilen kişidedir."
+  },
+  {
+   "ref": "51:55",
+   "meal": "Hatırlat; çünkü hatırlatma müminlere fayda verir.",
+   "baglanti": "Hatırlatmadan en çok yararlanan, zaten inanmaya açık olandır. Abese 4, böyle bir kişinin geri çevrilmesini eleştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, öğüt ve hatırlatmanın kime fayda vereceğidir. Bazen bir cümle, hazır bir kalbe düşer ve hayat değiştirir; ayet böyle bir kalbi ihmal etmemeyi öğretir.",
+  "Bugün de bilgi ve nasihat çoğu zaman etkili olacağı düşünülen kişilere yöneltilir. Oysa küçük bir hatırlatma, sessizce dinleyen, soru sormaya çekinen kişide daha çok iş görür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hazır olana söyle",
+   "aciklama": "Bugün öğrenmek isteyen birine, karşılık beklemeden bildiğin bir şeyi kısa ve net anlat."
+  },
+  {
+   "baslik": "Bir hatırlatma al",
+   "aciklama": "Bugün Kur'an'dan bir ayeti oku ve 'Bu bana neyi hatırlatıyor?' sorusuna bir cümle cevap yaz."
+  },
+  {
+   "baslik": "Sessiz dinleyiciye dön",
+   "aciklama": "Bir sohbette hiç konuşmayan kişiye görüşünü sor; belki en çok o dinliyordur."
+  }
+ ],
+ "bugununAdimi": "Bugün sana bir şey sormaya çekinen bir kişiyi fark et ve konuyu sen aç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/80/4"
+  }
+ ]
+}

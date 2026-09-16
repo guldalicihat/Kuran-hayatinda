@@ -1,0 +1,96 @@
+{
+ "sure": 79,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "'De ki: Arınmaya [niyetin] var mı?'",
+ "mealNotu": "'Zekâ' kökü artmayı, temizlenmeyi ve arınmayı anlatır; 'tezekkâ' kişinin kendini arındırmasıdır. 'Hel leke ilâ' kalıbı 'sende ... yönelme var mı?' anlamına gelir; 'niyetin' köşeli parantezle eklenmiştir. Soru, yumuşak bir davettir.",
+ "kokler": [
+  {
+   "kelime": "فَقُلْ",
+   "okunus": "fekul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "هَل",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "(soru) mı, mi",
+   "karsilik": "var mı"
+  },
+  {
+   "kelime": "لَّكَ",
+   "okunus": "leke",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) senin için, sende",
+   "karsilik": "sende"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e, -a doğru",
+   "karsilik": "-a"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mek, -mak",
+   "karsilik": "-mak"
+  },
+  {
+   "kelime": "تَزَكَّىٰ",
+   "okunus": "tezekkâ",
+   "kok": "زكو",
+   "kokAnlam": "artma, temizlenme, arınma",
+   "karsilik": "arınmaya"
+  }
+ ],
+ "neAnlatiyor": [
+  "Mûsâ'nın Firavun'a söyleyeceği ilk söz bir sorudur: 'Arınmaya niyetin var mı?' Azgın bir hükümdara emir değil, soru yöneltilir. Bu, davetin üslubunu gösterir: Karşı tarafa bir tercih alanı bırakılır.",
+  "'Tezekkâ' kökü hem temizlenmeyi hem artıp gelişmeyi anlatır; zekât da aynı köktendir. Arınma, insanın kendi eliyle yaptığı bir iştir; bu yüzden fiil Firavun'un kendisine yöneliktir. Sonraki ayet, arınmanın devamını verir: Rabbe yönelmek ve saygıyla korkmak."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "87:14",
+   "meal": "Arınan kurtuluşa ermiştir.",
+   "baglanti": "A'lâ suresi aynı 'tezekkâ' fiilini kurtuluşun şartı olarak verir. Firavun'a sunulan teklif, her insana açık olan aynı yoldur."
+  },
+  {
+   "ref": "20:44",
+   "meal": "Ona yumuşak söz söyleyin; belki öğüt alır ya da korkar.",
+   "baglanti": "Tâhâ'daki 'yumuşak söz' emri, Nâziât'taki soru üslubunu açıklar. Azgın olana bile davet sert değil, yumuşak dille yapılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Mûsâ'nın Firavun'a yönelteceği ilk davet cümlesidir. Davet, emirle değil soruyla başlar.",
+  "Bugüne taşınabilecek ders, insanları doğruya çağırırken üsluptur. En haksız kişiye bile 'Bunu ister misin?' diye sormak, kapıyı kapatmaz. Bir de arınmanın kişisel oluşu: Kimse seni senin yerine arındıramaz; niyet senden başlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Soruyla başla",
+   "aciklama": "Bugün birini uyarman gerekiyorsa emir yerine 'Şunu düşündün mü?' gibi bir soruyla başla."
+  },
+  {
+   "baslik": "Bir alışkanlıktan arın",
+   "aciklama": "Seni kirlettiğini bildiğin küçük bir alışkanlığı bugün bir kez bilinçle bırak."
+  },
+  {
+   "baslik": "Niyetini yaz",
+   "aciklama": "Bugün 'Neyden arınmak istiyorum?' sorusuna tek kelimelik bir cevap yaz."
+  }
+ ],
+ "bugununAdimi": "Bugün arınmak istediğin tek bir davranışı yaz ve gün boyunca onu bir kez bile yapmamaya çalış.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=79&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/79/18"
+  }
+ ]
+}

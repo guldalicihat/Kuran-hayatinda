@@ -1,0 +1,96 @@
+{
+ "sure": 78,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "O gün sûra üflenir ve siz bölük bölük gelirsiniz.",
+ "mealNotu": "'Sûr' boru, boynuz demektir; kıyamette üflenecek olan sûr Kur'an'da adıyla anılır. 'Efvâc', 'fevc' (grup, bölük) kelimesinin çoğuludur. 'Yünfehu' edilgen fiildir; üfleyen ayette söylenmez.",
+ "kokler": [
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "يُنفَخُ",
+   "okunus": "yünfehu",
+   "kok": "نفخ",
+   "kokAnlam": "üfleme",
+   "karsilik": "üflenir"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde, -e",
+   "karsilik": "-a"
+  },
+  {
+   "kelime": "ٱلصُّورِ",
+   "okunus": "essûri",
+   "kok": "صور",
+   "kokAnlam": "biçim, suret; boru, sûr",
+   "karsilik": "sûr"
+  },
+  {
+   "kelime": "فَتَأْتُونَ",
+   "okunus": "fete'tûne",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "gelirsiniz"
+  },
+  {
+   "kelime": "أَفْوَاجًا",
+   "okunus": "efvâcen",
+   "kok": "فوج",
+   "kokAnlam": "grup, bölük, topluluk",
+   "karsilik": "bölük bölük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, ayırma gününün nasıl başladığını anlatır. Sûra üflenir ve insanlar bölük bölük gelir. Fiil 'gelirsiniz' biçiminde, doğrudan muhataba söylenir: bu, uzaktan izlenen bir sahne değil, herkesin içinde olacağı bir olaydır.",
+  "'Efvâc' kelimesi, insanların topluluklar hâlinde geldiğini söyler. Klasik tefsir bunu ümmetler ya da amel gruplarına göre gelme olarak açıklar. Sonraki iki ayet gök ve dağların o günkü hâlini anlatır; bütün düzen çözülür."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:51",
+   "meal": "Sûra üflenmiştir; bir de bakarsın ki onlar kabirlerinden Rablerine doğru koşup gidiyorlar.",
+   "baglanti": "Aynı 'sûr' ve aynı üfleme; Yâsîn suresi gelişin nereden başladığını söyler: kabirlerden."
+  },
+  {
+   "ref": "39:68",
+   "meal": "Sûra üflenir; Allah'ın diledikleri dışında göklerde ve yerde kim varsa düşüp ölür. Sonra ona bir daha üflenir; bir de bakarsın ki ayağa kalkmış bakıyorlar.",
+   "baglanti": "İki üfleme burada ayrılır: ilki ölüm, ikincisi diriliş. Nebe'deki 'gelme', ikinci üflemeden sonrasını anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu diriliş sabahıdır. O gün herkes çağrılır ve gelir; kimse çağrıya kayıtsız kalamaz.",
+  "Bugün için ders, çağrıya cevap vermenin ne olduğunu düşünmektir. İnsan ezana, bir yardım isteğine, bir davete nasıl karşılık veriyorsa, büyük çağrıya da o hazırlıkla gidecektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir çağrıya hemen cevap ver",
+   "aciklama": "Bugün duyduğun ilk ezanda namazı geciktirmeden kıl; çağrıya hemen gitmeyi alıştır."
+  },
+  {
+   "baslik": "Bölüğünü seç",
+   "aciklama": "Kendine 'O gün kimlerle birlikte gelmek isterim?' diye sor ve bugün o kişilerle bir bağ kur."
+  },
+  {
+   "baslik": "Kendini sahneye koy",
+   "aciklama": "Ayeti okurken 'onlar' değil 'siz' dendiğini fark et; kendini o toplulukların içinde düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün bir namazı, ezanı duyduktan sonra on dakika içinde kıl.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/78/18"
+  }
+ ]
+}

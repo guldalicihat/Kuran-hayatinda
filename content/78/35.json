@@ -1,0 +1,96 @@
+{
+ "sure": 78,
+ "ayet": 35,
+ "durum": "taslak",
+ "meal": "Orada ne boş bir söz işitirler ne de yalanlama.",
+ "mealNotu": "'Lağv', faydasız, boş ve anlamsız sözü anlatır. 'Kizzâb', yalanlamanın pekiştirilmiş biçimidir; surenin 28. ayetinde de aynı kelime geçer. 'Orada' zamiri 31. ayetteki kurtuluş yerine gider.",
+ "kokler": [
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil, yok",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "يَسْمَعُونَ",
+   "okunus": "yesmeûne",
+   "kok": "سمع",
+   "kokAnlam": "işitme, duyma",
+   "karsilik": "işitirler"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) orada",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "لَغْوًا",
+   "okunus": "lağven",
+   "kok": "لغو",
+   "kokAnlam": "boş söz, anlamsız konuşma",
+   "karsilik": "boş bir söz"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "كِذَّٰبًا",
+   "okunus": "kizzâben",
+   "kok": "كذب",
+   "kokAnlam": "yalan söyleme, yalanlama",
+   "karsilik": "yalanlama"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetler cennetin maddi nimetlerini saydı; bu ayet ortamın niteliğini anlatır. Orada boş söz ve yalanlama duyulmaz. Dünyadaki nimet sofralarında sık görülen laf kalabalığı ve karşılıklı yalanlama cennette yoktur.",
+  "'Kizzâb' kelimesi dikkat çekicidir; surenin 28. ayetinde azgınlar 'ayetlerimizi şiddetle yalanladılar' diye anılırken aynı kelime kullanılmıştı. Yalanlama yüzünden azap gören kimseler ile yalanlamanın hiç duyulmadığı bir yer karşı karşıya konur. Cennetin huzuru yalnız yiyecekle değil, sözün temizliğiyle de tanımlanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "56:25",
+   "meal": "Orada ne boş söz işitirler ne de günaha sokan bir söz.",
+   "baglanti": "Vâkıa suresi aynı 'lağv' kökünü kullanır ve bir sonraki ayette cennetteki tek sözün 'selâm' olduğunu ekler."
+  },
+  {
+   "ref": "78:28",
+   "meal": "Ayetlerimizi şiddetle yalanlamışlardı.",
+   "baglanti": "Aynı surede, aynı 'kizzâb' kelimesi azgınların suçunu anlatır. Yalanlamanın cezası ile yalanlamadan arınmış ortam birbirine karşılık gelir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu cennetteki söz ortamıdır. Boş sözün ve yalanın olmadığı bir yer vaat edilir; bu, huzurun bir parçasının konuşma temizliği olduğunu gösterir.",
+  "Bugüne taşınabilecek ders, bulunduğun ortamı cennete benzetmeye çalışmaktır. Dedikodunun, boş lafın ve yalanlamanın olmadığı bir sofra veya sohbet, bu ayetin dünyadaki küçük bir örneğidir. Bunu sen başlatabilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir boş sohbetten çık",
+   "aciklama": "Bugün faydası olmayan bir konuşmaya girdiğini fark ettiğinde nazikçe konuyu değiştir ya da ayrıl."
+  },
+  {
+   "baslik": "Yalanlamadan dinle",
+   "aciklama": "Bugün biri konuşurken sözünü 'hayır, öyle değil' diye kesmeden sonuna kadar dinle."
+  },
+  {
+   "baslik": "Mesajlaşmayı süz",
+   "aciklama": "Bugün göndereceğin bir mesajı yollamadan önce 'bu boş söz mü, faydalı mı' diye sor."
+  }
+ ],
+ "bugununAdimi": "Bugün bir sohbette dedikoduya dönmeye başlayan konuyu bir kez bilinçli olarak değiştir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=35"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/78/35"
+  }
+ ]
+}

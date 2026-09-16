@@ -1,0 +1,75 @@
+{
+ "sure": 80,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Kendini [ihtiyaçtan] müstağni görene gelince,",
+ "mealNotu": "'İstağnâ' fiili, zenginlik ve ihtiyaçsızlık anlamındaki 'ğınâ' kökündendir; 'kendini yeterli ve ihtiyaçsız görmek' demektir. Bu kişinin neye ihtiyaç duymadığı ayette söylenmez; köşeli parantez içindeki 'ihtiyaçtan' ifadesi yalnız kökün anlamını açar.",
+ "kokler": [
+  {
+   "kelime": "أَمَّا",
+   "okunus": "emmâ",
+   "kok": "—",
+   "kokAnlam": "(açıklama edatı) -e gelince",
+   "karsilik": "gelince"
+  },
+  {
+   "kelime": "مَنِ",
+   "okunus": "meni",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim, kimse",
+   "karsilik": "kimse"
+  },
+  {
+   "kelime": "ٱسْتَغْنَىٰ",
+   "okunus": "istağnâ",
+   "kok": "غني",
+   "kokAnlam": "zenginlik, ihtiyaçsızlık; kendini yeterli görme",
+   "karsilik": "kendini müstağni gördü"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure burada iki kişiyi karşılaştırmaya başlar. İlki, kendini muhtaç görmeyen kişidir. Klasik tefsir bunu, Peygamber'in ilgisini çekmeye çalıştığı Mekke ileri gelenleri olarak açıklar.",
+  "'İstağnâ' kelimesi yalnız mal zenginliğini değil, 'bana gerek yok' tavrını anlatır. Böyle biri hatırlatmaya kapalıdır. Sonraki ayet, tam da böyle bir kişiye yönelmenin sorgulandığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "96:7",
+   "meal": "Kendini müstağni gördüğü için.",
+   "baglanti": "Aynı fiil, insanın azgınlaşmasının sebebi olarak geçer. Kendini yeterli görmek, hem azgınlığın hem de hatırlatmaya kapalılığın köküdür."
+  },
+  {
+   "ref": "92:8",
+   "meal": "Cimrilik eden ve kendini müstağni görene gelince,",
+   "baglanti": "Leyl suresi de aynı 'emmâ men' kalıbıyla iki insanı karşılaştırır; 'istağnâ' orada da olumsuz tarafın özelliğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kendini yeterli gören insanın ilgi odağı olmasıdır. Bu tür kişiler çoğu zaman güç, para veya itibar sahibidir; çevrelerinde ilgi görürler.",
+  "Bugün de zaman, emek ve ilginin büyük kısmı 'önemli' sayılan kişilere gider. Ayet, kimin gerçekten ihtiyaç duyduğuna bakmayı öğretir: ihtiyaç duyan, çoğu zaman en az ilgi görendir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İlgini say",
+   "aciklama": "Bugün kimlere en çok zaman ayırdığını akşam yaz; listede ihtiyacı olan biri var mı bak."
+  },
+  {
+   "baslik": "Kendi müstağniliğini yokla",
+   "aciklama": "Bugün 'bunu zaten biliyorum' dediğin bir konuda bir soru sor veya bir kaynağa bak."
+  },
+  {
+   "baslik": "Statüye göre değil",
+   "aciklama": "Bugün bir işi kişinin konumuna göre değil, ihtiyacına göre sırala."
+  }
+ ],
+ "bugununAdimi": "Bugün ajandanda bir kişiyi 'önemli' olduğu için değil, 'ihtiyacı' olduğu için öne al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/80/5"
+  }
+ ]
+}

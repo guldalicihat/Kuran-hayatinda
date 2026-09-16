@@ -1,0 +1,75 @@
+{
+ "sure": 81,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "sayfalar açılıp yayıldığında,",
+ "mealNotu": "'Suhuf' kelimesi 'sahîfe'nin çoğuludur; yazılı sayfaları anlatır. 'Nüşirat' fiili 'neşr' kökündendir; dürülü olanı açıp yaymayı ifade eder. Klasik tefsir bu sayfaları amel defterleri olarak açıklar.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç + zaman) ve -dığı zaman",
+   "karsilik": "ve -dığında"
+  },
+  {
+   "kelime": "ٱلصُّحُفُ",
+   "okunus": "essuhufü",
+   "kok": "صحف",
+   "kokAnlam": "sayfa, yazılı kâğıt",
+   "karsilik": "sayfalar"
+  },
+  {
+   "kelime": "نُشِرَتْ",
+   "okunus": "nüşirat",
+   "kok": "نشر",
+   "kokAnlam": "açma, yayma, dağıtma",
+   "karsilik": "açılıp yayıldığında"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kız çocuğuna sorulan sorudan sonra hesabın belgesi gelir: sayfalar açılır. Dünyada yazılan her şey o gün ortaya serilir. Suçun tanığı yalnız kurban değil, kayıttır.",
+  "'Neşr' kökü dürülü bir şeyi açmayı anlatır; 'kevr' ile başlayan sure, dürülen güneşten açılan sayfalara ilerler. Dünyada kapalı tutulan sayfa o gün herkese açıktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:13",
+   "meal": "Her insanın amelini boynuna bağladık. Kıyamet günü ona açılmış olarak bulacağı bir kitap çıkarırız.",
+   "baglanti": "İsrâ suresi, kişinin kitabının o gün 'açılmış' olarak önüne konacağını söyler. Tekvîr'deki 'neşr' bu açılmayı anlatır."
+  },
+  {
+   "ref": "18:49",
+   "meal": "Kitap ortaya konur; suçluların, içindekinden korkuya kapıldıklarını görürsün. 'Vay hâlimize! Bu nasıl kitap; küçük büyük hiçbir şey bırakmadan hepsini saymış' derler.",
+   "baglanti": "Kehf suresi açılan sayfanın içeriğini ve suçluların tepkisini anlatır. Tekvîr'de açılan sayfaların ne kadar ayrıntılı olduğu burada görülür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, hesap günü amel sayfalarının açılmasıdır. Gizli kalan hiçbir şey o gün kapalı kalmaz.",
+  "Bugün için ders, sayfanı bugün yazdığını bilmektir. Her gün bir satır eklenir; kimsenin görmediği bir iyilik de, kimsenin duymadığı bir söz de kayda girer. Sayfayı açılınca utanmayacak biçimde yazmak bugünün işidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir satır yaz",
+   "aciklama": "Bugün kimsenin görmediği bir iyilik yap ve bunun da sayfaya yazıldığını hatırla."
+  },
+  {
+   "baslik": "Gizli bir sözü gözden geçir",
+   "aciklama": "Bugün birinin arkasından konuşmak istediğinde bunun o gün açılacak sayfaya gireceğini düşün."
+  },
+  {
+   "baslik": "Günü kapatırken oku",
+   "aciklama": "Akşam yatmadan önce bugünün sayfasını zihninden kısaca oku; bir şeyi düzeltmek istersen yarına not al."
+  }
+ ],
+ "bugununAdimi": "Bugün yatmadan önce günün üç eylemini yaz; hangisinin sayfada durmasını istediğini işaretle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/81/10"
+  }
+ ]
+}

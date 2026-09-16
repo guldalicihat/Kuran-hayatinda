@@ -1,0 +1,75 @@
+{
+ "sure": 81,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Hangi günah yüzünden öldürüldü?",
+ "mealNotu": "Ayet, 8. ayetteki sorunun içeriğidir. 'Zenb' kökü kuyruk anlamından türeyerek, kişinin peşini bırakmayan suçu anlatır. 'Kutilet' fiili edilgendir ve dişildir; öldürülen kız çocuğudur.",
+ "kokler": [
+  {
+   "kelime": "بِأَىِّ",
+   "okunus": "bieyyi",
+   "kok": "أيي",
+   "kokAnlam": "hangi",
+   "karsilik": "hangi ... yüzünden"
+  },
+  {
+   "kelime": "ذَنۢبٍ",
+   "okunus": "zembin",
+   "kok": "ذنب",
+   "kokAnlam": "günah, suç; kuyruk, peşi bırakmayan",
+   "karsilik": "günah"
+  },
+  {
+   "kelime": "قُتِلَتْ",
+   "okunus": "kutilet",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürüldü"
+  }
+ ],
+ "neAnlatiyor": [
+  "Gömülen çocuğa sorulan soru budur: hangi günah yüzünden? Sorunun cevabı bellidir; çocuğun hiçbir günahı yoktur. Soru, cevap almak için değil, faili susturmak için sorulur.",
+  "'Zenb' kökü, kişinin peşinden gelen suçu anlatır. Ayet bu kelimeyi masum bir çocuk için kullanarak suçun aslında failin peşinde olduğunu gösterir. Kur'an başka yerlerde de haksız öldürmeyi en ağır suçlardan sayar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:140",
+   "meal": "Bilgisizce, beyinsizce çocuklarını öldürenler ve Allah'ın verdiği rızkı Allah'a iftira ederek haram sayanlar kesinlikle hüsrana uğramıştır. Onlar sapmışlardır ve doğru yolda değillerdir.",
+   "baglanti": "En'âm suresi çocuk öldürenlerin hüsranını ve bunun bilgisizlikten kaynaklandığını bildirir. Tekvîr'deki soru, bu bilgisizliğin hesap günündeki yüzleşmesidir."
+  },
+  {
+   "ref": "5:32",
+   "meal": "Kim bir kimseyi bir can karşılığı veya yeryüzünde bozgunculuk çıkarma dışında öldürürse bütün insanları öldürmüş gibidir. Kim de birini yaşatırsa bütün insanları yaşatmış gibidir.",
+   "baglanti": "Mâide suresi bir canın değerini bütün insanlıkla ölçer. Günahsız bir çocuğun öldürülmesi bu ölçüye göre en ağır suçtur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, günahsız bir çocuğun öldürülmesinin hesabıdır. Soru, failin hiçbir mazeretinin geçerli olmadığını gösterir.",
+  "Bugün için ders, 'ne yaptı ki?' sorusunu haksızlık karşısında sormaktır. Bir insana kötü davranıldığında, dışlandığında bu soru gündeme gelmelidir. Cevap 'hiçbir şey' ise yapılan şey haksızlıktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "'Ne yaptı ki?' diye sor",
+   "aciklama": "Bugün birine kızdığında önce 'Bana gerçekten ne yaptı?' diye sor; cevap boşsa öfkeni bırak."
+  },
+  {
+   "baslik": "Bir haksızlığa ses ver",
+   "aciklama": "Suçu olmadan zor durumda olan birini görürsen bugün onun yanında olduğunu göster."
+  },
+  {
+   "baslik": "Peşini bırakmayan bir hatayı kapat",
+   "aciklama": "Seni takip eden bir suçluluk varsa bugün onu telafi edecek bir adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün haksız yere suçlanan bir kişi görürsen onun adına bir cümle söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/81/9"
+  }
+ ]
+}

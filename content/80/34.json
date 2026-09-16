@@ -1,0 +1,89 @@
+{
+ "sure": 80,
+ "ayet": 34,
+ "durum": "taslak",
+ "meal": "O gün kişi kardeşinden kaçar,",
+ "mealNotu": "'Yefirru' fiili, ferâr kökünden, tehlikeden kaçmayı anlatır. 'Mer'' kelimesi cinsiyet ayrımı yapmadan 'kişi' anlamına gelir; bu yüzden 'adam' değil 'kişi' tercih edildi.",
+ "kokler": [
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "يَفِرُّ",
+   "okunus": "yefirru",
+   "kok": "فرر",
+   "kokAnlam": "kaçma, uzaklaşma",
+   "karsilik": "kaçar"
+  },
+  {
+   "kelime": "ٱلْمَرْءُ",
+   "okunus": "elmer'ü",
+   "kok": "مرأ",
+   "kokAnlam": "kişi, insan",
+   "karsilik": "kişi"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَخِيهِ",
+   "okunus": "ehîhi",
+   "kok": "أخو",
+   "kokAnlam": "kardeş",
+   "karsilik": "kardeşinden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sağır edici sesin geldiği gün, insanın ilk tepkisi kaçmaktır. Ayet, kaçılan kişiyi şaşırtıcı biçimde seçer: kardeş. Dünyada en yakın dayanak olan kişi, o gün yardım aranan değil kaçılan olur.",
+  "'Ferâr' kökü, korkuyla uzaklaşmayı anlatır. Kaçış, düşmanlıktan değil, herkesin kendi hesabıyla dolu olmasından kaynaklanır. 35-37. ayetler bu listeyi genişletir ve nedenini açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "23:101",
+   "meal": "Sûr'a üflendiği zaman artık aralarında soy bağı yoktur ve birbirlerini sormazlar.",
+   "baglanti": "Mü'minûn suresi, o gün akrabalık bağlarının işlemez hâle geleceğini söyler. Abese bunu somut bir sahneyle gösterir: kardeşten kaçış."
+  },
+  {
+   "ref": "70:10",
+   "meal": "Dost dostu sormaz.",
+   "baglanti": "Meâric suresi aynı günü dostluk üzerinden anlatır. Kardeş de dost da o gün kendi derdine düşer."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu hesap günündeki yalnızlıktır. Kardeşin bile senin hesabını yüklenemez; herkes kendi yaptığıyla karşılaşır.",
+  "Bugüne taşınacak ders, sorumluluğun devredilemezliğidir. Bir yanlışı 'ailem böyle yapıyor' diyerek başkasına yükleyemezsin. Kardeşlik bugün dayanışma demektir; ama o gün herkes kendi yükünü taşır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kardeşini ara",
+   "aciklama": "Bir süredir konuşmadığın kardeşini veya yakın akrabanı bugün ara; bağ bugünden kurulur."
+  },
+  {
+   "baslik": "Kendi payını üstlen",
+   "aciklama": "Ailede yaşanan bir sorunda kendi payını bul ve bunu bugün açıkça kabul et."
+  },
+  {
+   "baslik": "Bir kırgınlığı bitir",
+   "aciklama": "Kardeşinle aranda küçük bir kırgınlık varsa bugün ilk adımı sen at."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kardeşine veya yakınına kısa bir mesaj gönder ve hâlini sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=34"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/80/34"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sure": 79,
+ "ayet": 34,
+ "durum": "taslak",
+ "meal": "Fakat o en büyük felâket geldiği zaman,",
+ "mealNotu": "'Tâmme' kökü, her şeyi kaplayıp taşan ve alt eden şeyi anlatır; klasik sözlükler bunu 'üstesinden gelinemeyen büyük olay' olarak açıklar. 'Kübrâ' ise 'en büyük' demektir; ayet kıyameti bu iki sıfatla anar.",
+ "kokler": [
+  {
+   "kelime": "فَإِذَا",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç + zaman) -dığı zaman",
+   "karsilik": "fakat ... zaman"
+  },
+  {
+   "kelime": "جَآءَتِ",
+   "okunus": "câeti",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "geldiği"
+  },
+  {
+   "kelime": "ٱلطَّآمَّةُ",
+   "okunus": "ettâmmetü",
+   "kok": "طمم",
+   "kokAnlam": "kaplama, taşma, alt etme",
+   "karsilik": "felâket"
+  },
+  {
+   "kelime": "ٱلْكُبْرَىٰ",
+   "okunus": "elkübrâ",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük",
+   "karsilik": "en büyük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, nimetlerin sayıldığı bölümden sonra sert bir geçiş yapar. Yararlanma süresi biter ve her şeyi kaplayan büyük olay gelir. 'Tâmme' kökü, suyun taşıp her yeri kaplaması gibi, karşısında durulamayan bir olayı anlatır. Kur'an'da bu kelime yalnız burada geçer.",
+  "'En büyük' sıfatı, dünyadaki hiçbir felâketin onunla kıyaslanamayacağını bildirir. Klasik tefsir bunu kıyamet günü ya da ikinci sûr üfürülmesi olarak açıklar. Sonraki ayetler o gün insanın ne hatırlayacağını ve nereye varacağını anlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "80:33",
+   "meal": "Fakat o kulakları sağır eden gürültü geldiği zaman,",
+   "baglanti": "Abese suresinde de nimetlerin sayılışı aynı 'feizâ câet' kalıbıyla kıyamete bağlanır. Orada kıyamet sesiyle, burada kaplayıcılığıyla anılır."
+  },
+  {
+   "ref": "101:1",
+   "meal": "O şiddetle çarpan!",
+   "baglanti": "Kâria suresi kıyameti 'çarpan' diye adlandırır. Kur'an, o günün büyüklüğünü farklı adlarla ve her seferinde tek bir yönünü öne çıkararak anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıyametin gelişidir. Bir önceki ayetteki yararlanma süresi sonsuz değildir; bir bitiş vardır.",
+  "Bugüne taşınabilecek ders, süreli bir hayat yaşadığını unutmamaktır. Bu, korkuyla yaşamak değil, öncelikleri buna göre sıralamaktır. Ertelenen bir özür, geciken bir iyilik, 'sonra' denen bir ibadet bu ayetin ışığında yeniden düşünülür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ertelediğini yap",
+   "aciklama": "Uzun süredir 'sonra' dediğin bir iyiliği ya da özrü bugün yerine getir."
+  },
+  {
+   "baslik": "Bir dakika dur",
+   "aciklama": "Gün içinde bir dakika ayırıp bugünün son günün olsaydı neyi değiştireceğini düşün."
+  },
+  {
+   "baslik": "Öncelik listesi yaz",
+   "aciklama": "Bugün yapacaklarını yaz; kalıcı değeri olan bir işi en üste al."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir işi seç ve akşam olmadan tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=79&verse=34"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/79/34"
+  }
+ ]
+}

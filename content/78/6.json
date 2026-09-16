@@ -1,0 +1,82 @@
+{
+ "sure": 78,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Biz yeri bir döşek yapmadık mı?",
+ "mealNotu": "'Mihâd' kelimesi, 'mehede' (döşemek, yaymak, hazırlamak) kökünden gelir; beşik ve yatak anlamı da taşır. 'Elem' soru edatı olumsuz sorudur; cevabı 'evet' olan bir hatırlatma biçimidir.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(soru + olumsuzluk) -madı mı",
+   "karsilik": "-madık mı"
+  },
+  {
+   "kelime": "نَجْعَلِ",
+   "okunus": "nec'ali",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma, var etme",
+   "karsilik": "yapmadık"
+  },
+  {
+   "kelime": "ٱلْأَرْضَ",
+   "okunus": "el'erda",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak, yeryüzü",
+   "karsilik": "yeri"
+  },
+  {
+   "kelime": "مِهَٰدًا",
+   "okunus": "mihâden",
+   "kok": "مهد",
+   "kokAnlam": "döşeme, yayma, hazırlama; beşik",
+   "karsilik": "bir döşek"
+  }
+ ],
+ "neAnlatiyor": [
+  "Giriş bölümündeki uyarıdan sonra sure, yaratılış delillerine geçer. Bu ayetten 16. ayete kadar yer, dağlar, insan, uyku, gece, gündüz, gök, güneş, yağmur ve bitkiler sayılır. Amaç, dirilişi inkâr edenlere yaratıcının gücünü kendi hayatlarından göstermektir.",
+  "İlk delil yerdir. 'Mihâd' kelimesi, üzerinde yaşanabilir hâle getirilmiş, döşenmiş bir zemini anlatır. Soru biçimi, cevabı herkesin bildiği bir gerçeğe dikkat çeker: Yeri böyle yapan, insanı yeniden diriltmeye de güç yetirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "20:53",
+   "meal": "O, yeri size bir beşik yaptı; orada size yollar açtı ve gökten su indirdi.",
+   "baglanti": "Aynı kökten 'mehd' kelimesi Tâhâ suresinde de geçer; yer, insanın üzerinde büyüdüğü bir beşik olarak anlatılır."
+  },
+  {
+   "ref": "51:48",
+   "meal": "Yeri de biz döşedik; ne güzel döşeyiciyiz.",
+   "baglanti": "Aynı kökün fiil biçimi kullanılır; yerin döşenmesi, yaratıcının bir işi olarak övülür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, yerin insan için hazırlanmış bir zemin olmasıdır. Üzerinde yürüdüğün toprak, ekilen tarla, kurulan ev; hepsi bu döşeğin üzerindedir.",
+  "Yeri döşek olarak görmek, ona sahip gibi değil emanet gibi davranmayı gerektirir. Her gün üzerinde durduğun zemini fark etmek, alışkanlıkla körelmiş şükrü canlandırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zemini fark et",
+   "aciklama": "Bugün dışarıda yürürken bir dakika dur; ayağının altındaki toprağın seni taşıdığını düşün."
+  },
+  {
+   "baslik": "Bir karış toprağı koru",
+   "aciklama": "Bugün çevrende yere atılmış bir çöpü kaldır ya da bir bitkiyi sula."
+  },
+  {
+   "baslik": "Soruya cevap ver",
+   "aciklama": "Ayetin sorusunu kendine sor ve cevabını bir cümleyle yaz: 'Evet, çünkü...'"
+  }
+ ],
+ "bugununAdimi": "Bugün bir bitkiye, bahçeye ya da parktaki toprağa dokun; bu zemini kimin döşediğini hatırla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/78/6"
+  }
+ ]
+}

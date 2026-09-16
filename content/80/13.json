@@ -1,0 +1,75 @@
+{
+ "sure": 80,
+ "ayet": 13,
+ "durum": "taslak",
+ "meal": "Değerli sahifelerdedir.",
+ "mealNotu": "'Suhuf', sahife kelimesinin çoğuludur; yazılı yaprakları anlatır. 'Mükerrame' kerem kökündendir: ikram edilmiş, değer verilmiş, saygın. Cümle önceki ayetteki hatırlatmayı niteler; '-dir' eki bu bağı kurar.",
+ "kokler": [
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde, -de",
+   "karsilik": "-dedir"
+  },
+  {
+   "kelime": "صُحُفٍ",
+   "okunus": "suhufin",
+   "kok": "صحف",
+   "kokAnlam": "sahife, yazılı yaprak, sayfa",
+   "karsilik": "sahifeler"
+  },
+  {
+   "kelime": "مُّكَرَّمَةٍ",
+   "okunus": "mükerrametin",
+   "kok": "كرم",
+   "kokAnlam": "cömertlik, değer, ikram, saygınlık",
+   "karsilik": "değerli"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, hatırlatmanın nerede olduğunu söyler: değerli sahifelerde. On birinci ayette 'tezkira' denen vahiy, burada yazılı ve korunan bir kaynağa bağlanır. Klasik tefsir bu sahifeleri Allah katındaki asıl kaynak ya da vahyin yazılı biçimi olarak açıklar.",
+  "'Mükerrame' kelimesi, sahifelerin Allah katındaki değerini anlatır. Sonraki üç ayet bu niteliği artırır: yükseltilmiş, tertemiz, değerli ve iyi elçilerin elinde. Hatırlatmanın kaynağı böylece yüceltilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "98:2",
+   "meal": "Allah'tan gelen, tertemiz sahifeleri okuyan bir elçi.",
+   "baglanti": "Aynı 'suhuf' kelimesi burada da Kur'an'ın yazılı ve temiz kaynağını anlatır; Beyyine'de 'tertemiz', Abese'de 'değerli' sıfatı öne çıkar."
+  },
+  {
+   "ref": "56:78",
+   "meal": "Korunmuş bir kitaptadır.",
+   "baglanti": "Vâkıa suresi Kur'an'ı korunmuş bir kitapta konumlandırır; Abese 13 aynı korunmuşluğu 'değerli sahifeler' ifadesiyle verir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, vahyin kaynağının değeridir. Bir hatırlatma, kaynağı değerliyse ciddiye alınır; ayet önce bu kaynağı tanıtır.",
+  "Bugün elimizdeki Mushaf, bu değerli sahifelerin okunur biçimidir. Ona gösterilen özen, rafta durmasıyla değil, açılıp okunmasıyla ölçülür. Değerli bir sahifeye en büyük saygı, içindekini hatırlamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Mushafı aç",
+   "aciklama": "Bugün evindeki Mushaf'ı raftan al ve bir sayfasını anlamıyla birlikte oku."
+  },
+  {
+   "baslik": "Kaynağı sor",
+   "aciklama": "Bugün aldığın önemli bir bilginin kaynağını kontrol et; kaynağı belirsizse paylaşma."
+  },
+  {
+   "baslik": "Bir sahife yaz",
+   "aciklama": "Bugün seni etkileyen bir ayeti kendi el yazınla bir kâğıda yaz ve görünür bir yere koy."
+  }
+ ],
+ "bugununAdimi": "Bugün Mushaf'tan yalnız bir sayfa oku ve bir cümlesini akşam hatırlamaya çalış.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=13"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/80/13"
+  }
+ ]
+}

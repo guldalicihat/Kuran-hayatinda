@@ -1,0 +1,96 @@
+{
+ "sure": 80,
+ "ayet": 37,
+ "durum": "taslak",
+ "meal": "O gün onlardan her kişinin kendine yeten bir işi vardır.",
+ "mealNotu": "'Şe'n' kelimesi iş, durum ve meşguliyeti anlatır. 'Yüğnîhi' fiili gınâ kökünden gelir; 'ona yeter, onu başkasına muhtaç bırakmaz' demektir. Burada kişinin kendi derdinin ona yettiği, başkasına bakacak hâli kalmadığı anlatılır.",
+ "kokler": [
+  {
+   "kelime": "لِكُلِّ",
+   "okunus": "likülli",
+   "kok": "كلل",
+   "kokAnlam": "bütün, her",
+   "karsilik": "her ... için"
+  },
+  {
+   "kelime": "ٱمْرِئٍ",
+   "okunus": "imriin",
+   "kok": "مرأ",
+   "kokAnlam": "kişi, insan",
+   "karsilik": "kişinin"
+  },
+  {
+   "kelime": "مِّنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "يَوْمَئِذٍ",
+   "okunus": "yevmeizin",
+   "kok": "يوم",
+   "kokAnlam": "gün; o gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "شَأْنٌ",
+   "okunus": "şe'nün",
+   "kok": "شأن",
+   "kokAnlam": "iş, durum, meşguliyet",
+   "karsilik": "bir işi"
+  },
+  {
+   "kelime": "يُغْنِيهِ",
+   "okunus": "yüğnîhi",
+   "kok": "غني",
+   "kokAnlam": "yeterli olma, ihtiyaçsız kılma",
+   "karsilik": "kendine yeten"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 34-36. ayetlerdeki kaçışın nedenini açıklar. İnsan yakınlarından düşmanlık yüzünden değil, kendi derdi ona yettiği için kaçar. Herkesin önünde kendi hesabı vardır ve bu hesap bütün dikkati alır.",
+  "'Yüğnîhi' fiilindeki gınâ kökü zenginliği ve yeterliliği anlatır; burada acı bir ironiyle kullanılır. Kişinin işi ona 'yeter', hatta fazladır. 38-42. ayetler bu meşguliyetin iki sonucunu gösterir: parlayan yüzler ve tozlanan yüzler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "19:95",
+   "meal": "Hepsi kıyamet günü O'na tek başına gelecektir.",
+   "baglanti": "Meryem suresi o günün yalnızlığını 'tek başına' kelimesiyle anlatır. Abese aynı gerçeği herkesin kendi işine gömülmesiyle gösterir."
+  },
+  {
+   "ref": "70:10",
+   "meal": "Dost dostu sormaz.",
+   "baglanti": "Meâric suresinde dostun dostu sormaması, herkesin kendine yeten bir işi olmasının sonucudur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu hesap günündeki bireysel sorumluluktur. O gün kimse başkasının yerine geçemez; herkes kendi yaptığıyla baş başadır.",
+  "Bugün için ders, kendi hesabını başkasına havale etmemektir. 'Herkes böyle yapıyor' savunması o gün işlemez. Kendi işine odaklanan insan, başkasını yargılamaya da daha az vakit bulur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendi hesabına bak",
+   "aciklama": "Bugün başkasının kusurunu konuşacağın bir anda dur ve kendi bir kusurunu düşün."
+  },
+  {
+   "baslik": "Mazereti bırak",
+   "aciklama": "Bir yanlışını 'ama onlar da' diye savunmak yerine bugün açıkça kabul et."
+  },
+  {
+   "baslik": "Bir işi sonuna kadar götür",
+   "aciklama": "Bugün sana ait bir sorumluluğu başkasına devretmeden kendin bitir."
+  }
+ ],
+ "bugununAdimi": "Bugün yalnız senin sorumluluğunda olan bir işi başkasına yüklemeden tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=37"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/80/37"
+  }
+ ]
+}

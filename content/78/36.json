@@ -1,0 +1,89 @@
+{
+ "sure": 78,
+ "ayet": 36,
+ "durum": "taslak",
+ "meal": "Rabbinden bir karşılık, yeterli bir bağış [olarak].",
+ "mealNotu": "'Cezâ' kökü yapılana karşılık vermeyi anlatır. 'Atâ' karşılıksız bağıştır. 'Hisâb' hesap kökünden gelir; klasik tefsir buradaki anlamı 'yeterli, doyurucu' olarak açıklar, bu yüzden 'yeterli' diye karşılanmıştır. '[olarak]' cümle bağı için eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "جَزَآءً",
+   "okunus": "cezâen",
+   "kok": "جزي",
+   "kokAnlam": "karşılık verme, ödeme",
+   "karsilik": "bir karşılık"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّكَ",
+   "okunus": "rabbike",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbin"
+  },
+  {
+   "kelime": "عَطَآءً",
+   "okunus": "atâen",
+   "kok": "عطو",
+   "kokAnlam": "verme, bağışlama, ihsan",
+   "karsilik": "bir bağış"
+  },
+  {
+   "kelime": "حِسَابًا",
+   "okunus": "hisâben",
+   "kok": "حسب",
+   "kokAnlam": "sayma, hesap; yeterli olma",
+   "karsilik": "yeterli"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 31-35. ayetlerde sayılan nimetlerin kaynağını ve niteliğini açıklar. Bu nimetler 'cezâ', yani yapılanın karşılığıdır; aynı zamanda 'atâ', yani Rabbin bağışıdır. İki kelime yan yana gelir: kul çalışmıştır, ama karşılık hak edişten fazladır.",
+  "'Hisâb' kelimesi hesap kökündendir; klasik tefsir bunu 'yeterli, doyurucu' ya da 'amellere göre hesaplanmış' olarak açıklar. Her iki okumada da ortak nokta, karşılığın rastgele değil, ölçülü ve eksiksiz oluşudur. Nimetin 'Rabbinden' gelmesi, terbiye eden Rabbin kulunu sonunda ödüllendirdiğini gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "32:17",
+   "meal": "Yaptıklarına karşılık (cezâ) olarak onlar için göz aydınlığı olacak nimetlerden nelerin gizlendiğini hiç kimse bilemez.",
+   "baglanti": "Aynı 'cezâ' kökü; karşılığın amele bağlı olduğu ama içeriğinin insanın tahmininden büyük olduğu anlatılır."
+  },
+  {
+   "ref": "39:10",
+   "meal": "Sabredenlere mükâfatları hesapsız (bi ğayri hisâb) verilir.",
+   "baglanti": "Aynı 'hisâb' kökü; burada 'hesapsız', Nebe'de 'yeterli/hesaplanmış' denir. İkisi birlikte, karşılığın hem ölçülü hem de sınırsız cömertlikle verildiğini gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu âhiret nimetlerinin kaynağıdır: Rabbin hem karşılığı hem bağışıdır. İnsan emek verir; Allah bu emeğe hak edişten fazlasını verir.",
+  "Bugüne taşınabilecek ders, çalışmakla lütfa güvenmeyi birlikte tutmaktır. Yalnız kendi emeğine güvenen kişi gururlanır, yalnız bağışa güvenen kişi tembelleşir. Ayet ikisini dengeler: yap, sonra karşılığını Rabbinden bekle."
+ ],
+ "bugun": [
+  {
+   "baslik": "Emeğini bağışa bağla",
+   "aciklama": "Bugün bitirdiğin bir işin ardından 'bunu yapabilmem de O'nun bağışı' diye içinden geçir."
+  },
+  {
+   "baslik": "Karşılık beklemeden ver",
+   "aciklama": "Bugün birine, geri alacağını düşünmeden bir yardım yap; Rabbin bağış verdiği gibi sen de ver."
+  },
+  {
+   "baslik": "Hakkını eksiksiz öde",
+   "aciklama": "Bugün birine borçlu olduğun bir karşılığı (ücret, teşekkür, söz) yeterli ve eksiksiz biçimde ver."
+  }
+ ],
+ "bugununAdimi": "Bugün hak ettiğini düşündüğün bir şey için 'hakkım' yerine 'bağış' kelimesini kullan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=36"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/78/36"
+  }
+ ]
+}

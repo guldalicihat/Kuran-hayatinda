@@ -1,0 +1,75 @@
+{
+ "sure": 80,
+ "ayet": 21,
+ "durum": "taslak",
+ "meal": "Sonra onu öldürdü ve kabre koydu.",
+ "mealNotu": "'Emâte' mevt kökünden 'öldürdü'; 'akbera' kabr kökünden 'kabre koydu, kabir sahibi kıldı' demektir. Fiiller geçmiş zamandır; Arapçada kesin olacak şeyler olmuş gibi anlatılır, meal bu biçimi korur.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "أَمَاتَهُۥ",
+   "okunus": "emâtehû",
+   "kok": "موت",
+   "kokAnlam": "ölüm; öldürme",
+   "karsilik": "onu öldürdü"
+  },
+  {
+   "kelime": "فَأَقْبَرَهُۥ",
+   "okunus": "feekberahû",
+   "kok": "قبر",
+   "kokAnlam": "kabir; kabre koyma, gömme",
+   "karsilik": "ve kabre koydu"
+  }
+ ],
+ "neAnlatiyor": [
+  "İnsanın hikâyesi ölümle devam eder. Yaratma, ölçü ve yolun ardından ölüm ve kabir gelir. 'Akbera' fiili, insana kabir verilmesini anlatır; klasik tefsir bunu insanın gömülmesinin bir ikram olduğu şeklinde de açıklar.",
+  "Sıralama önemlidir: ölüm de yaratma gibi Allah'ın fiilidir. İnsan ne başlangıcını ne sonunu kendi belirler. Sonraki ayet bu sıralamayı dirilişle tamamlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:185",
+   "meal": "Her nefis ölümü tadacaktır. Karşılıklarınız ancak kıyamet günü tam olarak verilir.",
+   "baglanti": "Ölüm, her insan için kesin bir duraktır. Abese 21 bu durağı yaratılış sıralamasının bir adımı olarak anar."
+  },
+  {
+   "ref": "20:55",
+   "meal": "Sizi ondan yarattık, ona döndüreceğiz ve sizi bir kez daha ondan çıkaracağız.",
+   "baglanti": "Tâhâ suresi yaratma, toprağa dönüş ve çıkarılışı tek cümlede toplar; Abese 19-22 aynı üçlüyü adım adım anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ölüm ve kabirdir. Bu, konuşulması zor ama herkes için kesin bir gerçektir.",
+  "Bugün ölüm hatırlanmak istenmez; oysa onu hatırlamak, hayatı küçültmez, netleştirir. Kabri düşünen insan, hangi kavganın sürmeye değer, hangi işin bugün bitmesi gerektiğini daha kolay görür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir kabir ziyareti",
+   "aciklama": "Bugün mümkünse bir yakınının kabrini ziyaret et; mümkün değilse onun için bir dua et."
+  },
+  {
+   "baslik": "Ertelediğini yap",
+   "aciklama": "Bugün 'bir gün yaparım' dediğin bir helalleşmeyi ya da özrü bugün yap."
+  },
+  {
+   "baslik": "Ölçüyü değiştir",
+   "aciklama": "Bugün seni üzen bir konuya 'kabirde bunun önemi olacak mı?' diye bak ve kararını ona göre ver."
+  }
+ ],
+ "bugununAdimi": "Bugün, aranı düzeltmediğin bir kişiye kısa bir selam mesajı gönder.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=21"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/80/21"
+  }
+ ]
+}

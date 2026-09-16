@@ -1,0 +1,75 @@
+{
+ "sure": 82,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "Oysa üzerinizde koruyucular [görevliler] vardır.",
+ "mealNotu": "'Hâfizîn' kelimesi 'hıfz' kökündendir; korumayı, gözetmeyi ve kaydı muhafaza etmeyi anlatır. '[Görevliler]' eklemesi, bunların sonraki ayette 'yazıcılar' olarak tanıtılmasına dayanır. 'İnne' ve 'le' pekiştirmesi 'oysa ... vardır' diye karşılandı.",
+ "kokler": [
+  {
+   "kelime": "وَإِنَّ",
+   "okunus": "ve inne",
+   "kok": "—",
+   "kokAnlam": "(bağlaç + pekiştirme) ve şüphesiz",
+   "karsilik": "oysa"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) üzerinizde",
+   "karsilik": "üzerinizde"
+  },
+  {
+   "kelime": "لَحَٰفِظِينَ",
+   "okunus": "lehâfizîne",
+   "kok": "حفظ",
+   "kokAnlam": "koruma, gözetme, muhafaza etme",
+   "karsilik": "koruyucular vardır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Hesabı yalanlayanlara cevap olarak hesabın nasıl tutulduğu anlatılır. İnsan ne yaparsa yapsın, üzerinde gözetenler vardır. 'Hıfz' kökü hem korumayı hem de bir şeyi eksiksiz saklamayı anlatır; yapılanlar kaybolmaz, muhafaza edilir.",
+  "Ayet iki pekiştirme edatıyla gelir: 'inne' ve 'le'. Bu, yalanlayanların şüphesine karşı kesinliği vurgular. Sonraki iki ayet bu koruyucuların kim olduğunu ve ne yaptığını açıklar: değerli yazıcılardır, yaptığınızı bilirler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "50:18",
+   "meal": "İnsan hiçbir söz söylemez ki yanında hazır bir gözetleyici bulunmasın.",
+   "baglanti": "Kâf suresi, gözetimin söze kadar indiğini söyler. İnfitâr'daki koruyucular, orada 'hazır gözetleyici' olarak anılır."
+  },
+  {
+   "ref": "6:61",
+   "meal": "O, kullarının üstünde mutlak güç sahibidir; üzerinize koruyucular gönderir.",
+   "baglanti": "Aynı 'hıfz' kökü ve 'üzerinize' ifadesi orada da geçer. Koruyucuların Allah tarafından gönderildiği açıkça söylenir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu insanın amellerinin gözetim altında olmasıdır. Yalnız olduğunu sanan insan, aslında hiç yalnız değildir.",
+  "Bugüne taşınabilecek ders, yalnızken davranışın ölçüsüdür. İnsan kalabalıkta neyse yalnızken de o olmalıdır. Gözetildiğini bilmek baskı değil, tutarlılık sağlar; kişi kendisini iki yüzlü olmaktan kurtarır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yalnızken dürüst ol",
+   "aciklama": "Bugün kimsenin görmediği bir anda, kalabalıkta yapmayacağın bir şeyi yapmadan geç."
+  },
+  {
+   "baslik": "Kaydı hatırla",
+   "aciklama": "Bir konuşma ya da mesaj yazarken 'Bu kaydediliyor' diye düşün ve sözünü ona göre seç."
+  },
+  {
+   "baslik": "Kelimenin iki anlamını düşün",
+   "aciklama": "'Hafız' kelimesini bilirsin; Kur'an'ı koruyanla amelini koruyanın aynı kökten geldiğini fark et."
+  }
+ ],
+ "bugununAdimi": "Bugün yalnız olduğun bir anda 'Üzerimde koruyucular var' diyerek ertelediğin bir doğru davranışı yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=82&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/82/10"
+  }
+ ]
+}

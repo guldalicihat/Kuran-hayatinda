@@ -1,0 +1,75 @@
+{
+ "sure": 80,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Artık dileyen onu anar.",
+ "mealNotu": "'Şâe' fiili dilemeyi, 'zekera' fiili anmayı ve hatırlamayı anlatır. 'Onu' zamiri bir önceki ayetteki hatırlatmaya döner. 'Anar' karşılığı, hatırlama ve öğüt alma anlamlarını birlikte taşır.",
+ "kokler": [
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(ilgi) artık kim",
+   "karsilik": "artık kim"
+  },
+  {
+   "kelime": "شَآءَ",
+   "okunus": "şâe",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme, irade",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "ذَكَرَهُۥ",
+   "okunus": "zekerahû",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama, öğüt alma",
+   "karsilik": "onu anar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet vahyi hatırlatma olarak tanımlamıştı; bu ayet onunla ne yapılacağını kişinin iradesine bırakır. Kimseye zorla anlatılmaz; dileyen anar.",
+  "Bu cümle, surenin ilk bölümünü bir ilkeyle bağlar. Koşarak gelen kişi 'dileyen'dir; kendini yeterli gören ise dilememiştir. Öğüt, dileyene verilir; dilemeyene ısrar sorumluluğun dışındadır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "74:55",
+   "meal": "Artık dileyen onu anar.",
+   "baglanti": "Aynı cümle Müddessir suresinde de yer alır; iki surede de hatırlatma tanımının hemen ardından gelir ve seçimi insana bırakır."
+  },
+  {
+   "ref": "18:29",
+   "meal": "De ki: Hak Rabbinizdendir. Artık dileyen inansın, dileyen inkâr etsin.",
+   "baglanti": "İman, zorla değil dilemekle olur. Abese 12, aynı seçim özgürlüğünü 'anma' fiiliyle ifade eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, öğüdü almanın iradeye bağlı olmasıdır. Kur'an kapıyı açar; içeri girmek kişinin dilemesine bağlıdır.",
+  "Bugün de bir bilgiye ulaşmak kolay, onu istemek zordur. İnsan kendisine sunulan hatırlatmayı, ancak diliyorsa fark eder. Bu nedenle ayet, dinlemeden önce 'istiyor muyum?' sorusunu sordurur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Dilediğini seç",
+   "aciklama": "Bugün Kur'an'dan bir konuyu kendin seç ve o konudaki bir ayeti oku."
+  },
+  {
+   "baslik": "Zorlamayı bırak",
+   "aciklama": "Bugün bir kişiye bir şeyi kabul ettirmeye çalışmak yerine onu bir kez anlat ve seçimi ona bırak."
+  },
+  {
+   "baslik": "İradeni yokla",
+   "aciklama": "Bugün bir hatırlatmayı kaçırdığını fark edersen, 'istemedim mi?' diye kendine dürüstçe sor."
+  }
+ ],
+ "bugununAdimi": "Bugün, okuduğun bir ayeti akşama kadar bir kez daha kendi kendine hatırla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/80/12"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "sure": 80,
+ "ayet": 23,
+ "durum": "taslak",
+ "meal": "Hayır! O, [Allah'ın] kendisine emrettiğini henüz yerine getirmedi.",
+ "mealNotu": "'Lemmâ' olumsuzluğu 'henüz ... değil' anlamı taşır; 'henüz' kelimesi buradan gelir. 'Yakdı' kazâ kökündendir: bir işi bitirmek, hükmü yerine getirmek. 'Emera' emretmeyi anlatır; emredenin Allah olduğu köşeli parantezle belirtildi.",
+ "kokler": [
+  {
+   "kelime": "كَلَّا",
+   "okunus": "kellâ",
+   "kok": "—",
+   "kokAnlam": "(caydırma) hayır, asla",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "لَمَّا",
+   "okunus": "lemmâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) henüz ... değil",
+   "karsilik": "henüz ... -medi"
+  },
+  {
+   "kelime": "يَقْضِ",
+   "okunus": "yekdı",
+   "kok": "قضي",
+   "kokAnlam": "bitirme, hükmetme, yerine getirme",
+   "karsilik": "yerine getirdi"
+  },
+  {
+   "kelime": "مَآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) -diği şeyi",
+   "karsilik": "-diğini"
+  },
+  {
+   "kelime": "أَمَرَهُۥ",
+   "okunus": "emerahû",
+   "kok": "أمر",
+   "kokAnlam": "emir, buyruk; iş",
+   "karsilik": "kendisine emretti"
+  }
+ ],
+ "neAnlatiyor": [
+  "Yaratılış sıralamasından sonra 'kellâ' ile ikinci bir kesinti gelir. İnsanın nankörlüğü artık somutlaşır: ona emredileni henüz tam yapmadı. 'Lemmâ' kelimesi, beklenen ama gerçekleşmemiş bir şeyi anlatır.",
+  "'Kazâ' kökü, bir işi tam olarak bitirmeyi anlatır. Ayet, insanın hiç itaat etmediğini değil, emredileni tamamlamadığını söyler. Klasik tefsir bunu insan türünün genel hâli olarak açıklar; kimsenin görevini tam anlamıyla bitiremediği vurgulanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "33:72",
+   "meal": "Biz emaneti göklere, yere ve dağlara sunduk; onlar onu yüklenmekten çekindiler. İnsan onu yüklendi. O, çok zalim ve çok cahildir.",
+   "baglanti": "Emaneti yüklenen insanın onu tam taşıyamaması, Abese 23'teki 'henüz yerine getirmedi' ifadesiyle örtüşür."
+  },
+  {
+   "ref": "51:56",
+   "meal": "Ben cinleri ve insanları ancak bana kulluk etsinler diye yarattım.",
+   "baglanti": "İnsana emredilen şeyin özü kulluktur; Abese 23, bu emrin henüz tam yerine getirilmediğini söyler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insanın kendisine verilen görevi tamamlamamasıdır. 'Henüz' kelimesi kapıyı açık bırakır: görev bitmedi ama bitirilebilir.",
+  "Bugün de insan, çoğu işe başlar ama tamamlamaz. Namazı, sözü, sorumluluğu yarım bırakır. Ayet, yarım kalan işin bir görev olduğunu ve henüz vaktin geçmediğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yarım kalanı listele",
+   "aciklama": "Bugün başlayıp bitirmediğin üç sorumluluğu yaz; birini bugün tamamla."
+  },
+  {
+   "baslik": "Bir emri tam yap",
+   "aciklama": "Bugün bir namazı acele etmeden, başından sonuna kadar dikkatle kıl."
+  },
+  {
+   "baslik": "'Henüz'ü kullan",
+   "aciklama": "Bugün 'artık geç' dediğin bir görev için 'henüz geç değil' de ve ilk adımı at."
+  }
+ ],
+ "bugununAdimi": "Bugün yarım bıraktığın bir işi seç ve onu bitirmeden günü kapatma.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=23"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/80/23"
+  }
+ ]
+}

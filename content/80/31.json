@@ -1,0 +1,68 @@
+{
+ "sure": 80,
+ "ayet": 31,
+ "durum": "taslak",
+ "meal": "Meyve ve otlak [bitirdik].",
+ "mealNotu": "Ayet, 27. ayetteki 'bitirdik' fiiline bağlı listenin devamıdır; bu yüzden fiil köşeli parantezle eklendi. 'Ebb' kelimesi Kur'an'da yalnız burada geçer; klasik tefsir onu hayvanların otladığı çayır ve yem bitkisi olarak açıklar.",
+ "kokler": [
+  {
+   "kelime": "وَفَٰكِهَةً",
+   "okunus": "ve fâkiheten",
+   "kok": "فكه",
+   "kokAnlam": "meyve; hoşlanma, keyif alma",
+   "karsilik": "ve meyve"
+  },
+  {
+   "kelime": "وَأَبًّا",
+   "okunus": "ve ebben",
+   "kok": "أبب",
+   "kokAnlam": "otlak, çayır, hayvan yemi",
+   "karsilik": "ve otlak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 24. ayette başlayan 'İnsan yiyeceğine baksın' çağrısının son halkasıdır. Yağmur, yarılan toprak, tane, üzüm, zeytin, hurma ve sık bahçelerden sonra sıra meyveye ve otlağa gelir. Liste, insanın sofrasıyla hayvanın yemini yan yana koyar.",
+  "'Fâkihe' kökünde hoşlanma anlamı vardır; meyve, karın doyurmanın ötesinde tat verir. 'Ebb' ise insanın değil hayvanın yediğidir. İkisinin bir arada anılması, rızkın yalnız insan için değil bütün canlılar için düzenlendiğini gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "79:31",
+   "meal": "Ondan suyunu ve otlağını çıkardı.",
+   "baglanti": "Nâziât suresinde de yeryüzünün su ve otlakla donatılması, Allah'ın yaratma düzeninin bir parçası olarak anılır."
+  },
+  {
+   "ref": "16:11",
+   "meal": "Onunla size ekin, zeytin, hurma, üzüm ve her türlü meyveden bitirir. Şüphesiz bunda düşünen bir topluluk için bir ayet vardır.",
+   "baglanti": "Aynı ürün listesi burada 'düşünen topluluk' için bir işaret olarak sunulur. Abese'nin listesi de bakmayı ve düşünmeyi ister."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu yeryüzündeki rızkın çeşitliliğidir. Bir meyvenin tadı ve bir hayvanın otu aynı düzenin ürünüdür; insan bu düzenin merkezinde değil, içindedir.",
+  "Bugün için ders, yediğin şeyin arkasındaki zinciri görmektir. Bir elma; toprak, yağmur, ağaç ve emek demektir. Bunu fark eden insan israfa daha az yaklaşır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir meyveyi yavaş ye",
+   "aciklama": "Bugün bir meyveyi aceleyle değil, tadını fark ederek ye; nereden geldiğini bir an düşün."
+  },
+  {
+   "baslik": "Hayvanın payını hatırla",
+   "aciklama": "Bir sokak hayvanına su veya yiyecek bırak; rızkın yalnız insana ait olmadığını hatırla."
+  },
+  {
+   "baslik": "İsrafı ölç",
+   "aciklama": "Bugün çöpe giden yiyeceği not et; yarın alışverişte bu miktarı azalt."
+  }
+ ],
+ "bugununAdimi": "Bugün bir öğünde tabağına yalnız yiyeceğin kadar koy ve çöpe hiçbir şey atma.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=31"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/80/31"
+  }
+ ]
+}

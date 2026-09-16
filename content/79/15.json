@@ -1,0 +1,82 @@
+{
+ "sure": 79,
+ "ayet": 15,
+ "durum": "taslak",
+ "meal": "Mûsâ'nın haberi sana geldi mi?",
+ "mealNotu": "'Etâ' kökü gelmeyi anlatır. 'Hadîs' kökü yeni olan ve anlatılan sözü, haberi ifade eder; burada 'kıssa' anlamındadır. Soru, dinleyenin dikkatini çekmek için sorulur; olumsuz bir cevap beklemez.",
+ "kokler": [
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "(soru) mı, mi",
+   "karsilik": "mi"
+  },
+  {
+   "kelime": "أَتَىٰكَ",
+   "okunus": "etâke",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "sana geldi"
+  },
+  {
+   "kelime": "حَدِيثُ",
+   "okunus": "hadîsü",
+   "kok": "حدث",
+   "kokAnlam": "yeni olma; söz, haber, kıssa",
+   "karsilik": "haberi"
+  },
+  {
+   "kelime": "مُوسَىٰٓ",
+   "okunus": "mûsâ",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Mûsâ",
+   "karsilik": "Mûsâ'nın"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, diriliş sahnesinden Mûsâ kıssasına geçer. Geçiş bir soruyla yapılır: 'Mûsâ'nın haberi sana geldi mi?' Bu soru bilgi almak için değil, dikkat çekmek içindir. Muhatap önce Peygamber'dir; ardından her okuyucu.",
+  "Kıssanın burada anılmasının bağlamı önemlidir: Dirilişi alaya alan inkârcılardan söz edilmişti. Şimdi tarihin en büyük inkârcılarından birinin, Firavun'un sonu anlatılacaktır. 26. ayet bu bağı açıkça kurar: 'Bunda korkan için ibret vardır.' Kıssa 15-26. ayetler arasında kısa ve yoğun biçimde verilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "20:9",
+   "meal": "Mûsâ'nın haberi sana geldi mi?",
+   "baglanti": "Tâhâ suresi aynı soruyla aynı kıssaya başlar ve olayı çok daha ayrıntılı anlatır. Nâziât'taki özet, Tâhâ ile birlikte okunduğunda tamamlanır."
+  },
+  {
+   "ref": "85:17",
+   "meal": "Orduların haberi sana geldi mi?",
+   "baglanti": "Bürûc suresinde de aynı soru kalıbı, Firavun ve Semûd'un akıbeti için kullanılır. Bu üslup, geçmişten ibret alınacak bir haberi duyurur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Mûsâ kıssasına bir soruyla giriş yapılmasıdır. Soru, dinleyeni hazırlar ve haberin önemini vurgular.",
+  "Bugüne taşınabilecek ders, geçmişin haberlerini ibret için dinlemektir. Kıssa, tarih bilgisi vermek için değil, bugünkü tavrı düzeltmek için anlatılır. 'Bu haber bana geldi mi?' sorusu, 'Bu haberden ders aldım mı?' sorusuna dönüşmelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kıssayı baştan sona oku",
+   "aciklama": "Bugün Nâziât 15-26. ayetlerini mealden art arda oku; kıssanın akışını gör."
+  },
+  {
+   "baslik": "Bir haberi ibretle dinle",
+   "aciklama": "Bugün duyduğun bir haberde 'Bundan bana düşen ders ne?' diye sor."
+  },
+  {
+   "baslik": "Bir soruyla dikkat çek",
+   "aciklama": "Bugün birine önemli bir şey anlatacaksan önce kısa bir soruyla dikkatini topla."
+  }
+ ],
+ "bugununAdimi": "Bugün Nâziât 15-26. ayetlerini mealden oku ve kıssadan çıkardığın dersi tek cümleyle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=79&verse=15"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/79/15"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "sure": 80,
+ "ayet": 38,
+ "durum": "taslak",
+ "meal": "O gün [bazı] yüzler parlaktır;",
+ "mealNotu": "'Müsfira' kelimesi sefer köküyle aynıdır; örtünün açılmasını, aydınlanmayı anlatır. 'Bazı' kelimesi, Arapçada belirsiz gelen 'vücûh' kelimesinin bir kısmı işaret ettiğini göstermek için köşeli parantezle eklendi.",
+ "kokler": [
+  {
+   "kelime": "وُجُوهٌ",
+   "okunus": "vücûhün",
+   "kok": "وجه",
+   "kokAnlam": "yüz, yön",
+   "karsilik": "yüzler"
+  },
+  {
+   "kelime": "يَوْمَئِذٍ",
+   "okunus": "yevmeizin",
+   "kok": "يوم",
+   "kokAnlam": "gün; o gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "مُّسْفِرَةٌ",
+   "okunus": "müsfiratün",
+   "kok": "سفر",
+   "kokAnlam": "açılma, aydınlanma; yolculuk",
+   "karsilik": "parlaktır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Herkesin kendi işine gömüldüğü günde insanlar iki gruba ayrılır. Ayet ilk grubu yüzlerinden tanıtır: aydınlık, parlak yüzler. İç hâl, o gün yüze yansır.",
+  "'Müsfira' kökü, örtünün kalkmasıyla ortaya çıkan aydınlığı anlatır; sabahın 'isfâr'ı da aynı köktendir. Bu yüzler karanlık bir geceden çıkmış gibi açılır. 39. ayet bu yüzleri gülen ve sevinçli olarak tamamlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "75:22",
+   "meal": "O gün [bazı] yüzler parlaktır;",
+   "baglanti": "Kıyâme suresi aynı sahneyi 'nâdıra' kelimesiyle anlatır ve bu yüzlerin Rablerine baktığını ekler. İki sure aynı günün aydınlık yüzlerini tanıtır."
+  },
+  {
+   "ref": "3:106",
+   "meal": "O gün bazı yüzler ağarır, bazı yüzler kararır.",
+   "baglanti": "Âl-i İmrân, yüzlerin ikiye ayrılmasını tek ayette özetler. Abese bu ayrımı 38-42. ayetlerde ayrıntılı işler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu hesap gününde yüzlere yansıyan iç hâldir. Kalpte biriken şey o gün saklanamaz; yüz onu gösterir.",
+  "Bugün için ders, yüzün bugünden şekillendiğidir. İyilik, dürüstlük ve umut yüze bir açıklık verir. Bu açıklık kozmetikle değil, yaşanan hayatla oluşur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yüzünü aç",
+   "aciklama": "Bugün karşılaştığın insanlara asık değil açık bir yüzle bak; bunu bilinçli dene."
+  },
+  {
+   "baslik": "İçini aydınlat",
+   "aciklama": "Bugün seni içten karartan bir kırgınlığı bırak; yüzüne de yansıyacaktır."
+  },
+  {
+   "baslik": "Bir sabahı fark et",
+   "aciklama": "Yarın sabah gün ağarırken bir dakika dur; 'isfâr' kelimesini bu manzarayla hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün karşılaştığın en az üç kişiye gülümseyerek selam ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=38"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/80/38"
+  }
+ ]
+}

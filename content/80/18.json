@@ -1,0 +1,82 @@
+{
+ "sure": 80,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "[Allah] onu hangi şeyden yarattı?",
+ "mealNotu": "Soru, cevabı dinleyene düşündürmek içindir; cevap bir sonraki ayette verilir. 'Halaka' kökü yaratmayı ve biçim vermeyi anlatır. Fiilin öznesi ayette açıkça geçmez; köşeli parantezle eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَىِّ",
+   "okunus": "eyyi",
+   "kok": "أيي",
+   "kokAnlam": "hangi; hangisi",
+   "karsilik": "hangi"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey, varlık; dileme",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "خَلَقَهُۥ",
+   "okunus": "halekahû",
+   "kok": "خلق",
+   "kokAnlam": "yaratma, biçim verme, ölçüyle var etme",
+   "karsilik": "onu yarattı"
+  }
+ ],
+ "neAnlatiyor": [
+  "On yedinci ayetteki nankörlük kınamasının ardından bir soru gelir: insan neden yaratıldı? Soru, cevabı bilinen bir sorudur; amacı insana kendi başlangıcını hatırlatmaktır.",
+  "Bu soru, surenin ikinci bölümündeki sıralamayı başlatır: yaratma, ölçü, yol, ölüm, kabir, diriliş. Her adım, bir sonraki ayette sırayla anılır. Nankörlük, bu adımların hiçbirini insanın kendi eliyle yapmadığını unutmaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "86:5",
+   "meal": "İnsan neden yaratıldığına bir baksın.",
+   "baglanti": "Târık suresi de aynı soruyu insana yöneltir ve cevabı 'atılan bir su' olarak verir; Abese 19'daki 'nutfe' cevabıyla örtüşür."
+  },
+  {
+   "ref": "36:77",
+   "meal": "İnsan görmedi mi ki biz onu bir damladan yarattık; sonra o apaçık bir düşman kesilir.",
+   "baglanti": "Yaratılışın başlangıcını unutan insanın kibre kayması Yâsîn'de 'düşman', Abese'de 'nankör' diye anılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insanın kendi başlangıcını düşünmesidir. 'Neden yaratıldım?' sorusu, kibri kıran en kısa sorudur.",
+  "Bugün insan, başarısını, aklını ve gücünü kendine mal eder. Ayet, bir soruyla bunu yerinden oynatır. Başlangıcını bilen insan, elindekilerin kendisine verildiğini daha kolay kabul eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Başlangıcını düşün",
+   "aciklama": "Bugün bir dakikanı, kendi doğumundan önceki hâlini düşünmeye ayır."
+  },
+  {
+   "baslik": "Bir soruyla dur",
+   "aciklama": "Bugün kendinle övündüğün bir anda 'bunu ben mi yarattım?' diye sor."
+  },
+  {
+   "baslik": "Bir bebeğe bak",
+   "aciklama": "Bugün çevrende bir bebek ya da küçük çocuk varsa ona bir dakika bak ve ondaki yaratılışı fark et."
+  }
+ ],
+ "bugununAdimi": "Bugün aynaya baktığında 'Beni hangi şeyden yarattı?' sorusunu bir kez kendine sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/80/18"
+  }
+ ]
+}

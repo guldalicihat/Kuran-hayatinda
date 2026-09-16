@@ -1,0 +1,75 @@
+{
+ "sure": 80,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "Sen onunla ilgilenmiyorsun.",
+ "mealNotu": "'Telehhâ' fiili 'lehv' kökündendir; oyalanmayı ve bir şeyden başka şeyle meşgul olup uzak kalmayı anlatır. 'Anhü' (ondan) ile birlikte 'ondan uzak durup başkasıyla oyalanma' anlamı taşır; 'ilgilenmiyorsun' bu anlamın sade karşılığıdır.",
+ "kokler": [
+  {
+   "kelime": "فَأَنتَ",
+   "okunus": "feente",
+   "kok": "—",
+   "kokAnlam": "(zamir) sen",
+   "karsilik": "sen"
+  },
+  {
+   "kelime": "عَنْهُ",
+   "okunus": "anhü",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ondan",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "تَلَهَّىٰ",
+   "okunus": "telehhâ",
+   "kok": "لهو",
+   "kokAnlam": "oyalanma, meşgul olup uzak kalma",
+   "karsilik": "ilgilenmiyorsun"
+  }
+ ],
+ "neAnlatiyor": [
+  "Karşılaştırma burada tamamlanır. Altıncı ayette kendini yeterli görene 'yöneliyorsun' denmişti; burada koşarak gelen ve haşyet duyandan 'oyalanıp uzak kalıyorsun' denir. Cümle yapısı ikisinde de aynıdır: 'sen' önce gelir.",
+  "'Lehv' kökü Kur'an'da genellikle dünya oyalanmasını anlatır. Burada ise oyalanmanın nesnesi, tebliğ için önemli sanılan bir sohbettir. Ayet, önemli görünen bir işin bile insanı asıl işten uzaklaştırabileceğini gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "80:6",
+   "meal": "Sen ona yöneliyorsun.",
+   "baglanti": "Altıncı ve onuncu ayetler birbirinin aynasıdır: birine yönelmek, ötekinden uzak kalmak. Surenin eleştirisi bu dengesizliğedir."
+  },
+  {
+   "ref": "63:9",
+   "meal": "Ey iman edenler! Mallarınız ve çocuklarınız sizi Allah'ı anmaktan alıkoymasın.",
+   "baglanti": "Aynı 'lehv' kökü burada mal ve evladın oyalamasını anlatır. Abese 10, oyalayan şeyin bir sohbet bile olabileceğini gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, öncelikli olanı önemsiz görünen şeye feda etmektir. Muhatabın niyeti kötü değildi; oyalanma, iyi bir niyetin içinde saklanmıştı.",
+  "Bugün de en çok oyalandığımız şeyler kötü işler değil, 'önemli' saydığımız meşguliyetlerdir. Yanına gelen çocuğa, bekleyen çalışana, mesaj atan arkadaşa 'şimdi olmaz' demek çoğu zaman böyle bir oyalanmadır."
+ ],
+ "bugun": [
+  {
+   "baslik": "'Şimdi olmaz'ı say",
+   "aciklama": "Bugün kaç kez 'şimdi olmaz' dediğini say; en az birini 'şimdi olur'a çevir."
+  },
+  {
+   "baslik": "Meşguliyeti sorgula",
+   "aciklama": "Bugün seni en çok meşgul eden işin gerçekten en önemli iş olup olmadığını bir cümleyle yaz."
+  },
+  {
+   "baslik": "Bekleyene dön",
+   "aciklama": "Bugün senden bir şey bekleyen ama sesini çıkarmayan bir kişiye kendiliğinden dön."
+  }
+ ],
+ "bugununAdimi": "Bugün önemli bir işin ortasında biri yanına geldiğinde işi bırak ve ona iki dakika ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/80/10"
+  }
+ ]
+}

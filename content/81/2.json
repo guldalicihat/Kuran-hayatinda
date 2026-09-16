@@ -1,0 +1,75 @@
+{
+ "sure": 81,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "yıldızlar kararıp döküldüğünde,",
+ "mealNotu": "'İnkederat' fiili 'keder' kökündendir; bulanma, kararma ve dökülme anlamlarını birlikte taşır. Klasik tefsir hem sönmeyi hem dökülmeyi zikreder; meal iki anlamı birlikte verdi.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç + zaman) ve -dığı zaman",
+   "karsilik": "ve -dığında"
+  },
+  {
+   "kelime": "ٱلنُّجُومُ",
+   "okunus": "ennücûmü",
+   "kok": "نجم",
+   "kokAnlam": "yıldız; ortaya çıkma",
+   "karsilik": "yıldızlar"
+  },
+  {
+   "kelime": "ٱنكَدَرَتْ",
+   "okunus": "inkederat",
+   "kok": "كدر",
+   "kokAnlam": "bulanma, kararma, dökülme",
+   "karsilik": "kararıp döküldüğünde"
+  }
+ ],
+ "neAnlatiyor": [
+  "Güneşten sonra sıra yıldızlara gelir. Gece yolculuğunda yön bulduran yıldızlar bulanır ve dökülür. Sahne, gökyüzünün insana verdiği iki güvencenin, ışık ve yönün, art arda kalkmasını anlatır.",
+  "'Keder' kökü suyun bulanmasını da anlatır; berrak olan bulanır. Türkçedeki 'keder' kelimesi aynı köktendir. Yıldızların bulanması, gökyüzünün berraklığının bittiği anlamına gelir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "82:2",
+   "meal": "Yıldızlar dağılıp döküldüğünde,",
+   "baglanti": "İnfitâr suresi de ikinci ayetinde yıldızların dökülmesini anlatır. Tekvîr ve İnfitâr, kıyamet sahnelerini benzer bir sırayla verir."
+  },
+  {
+   "ref": "77:8",
+   "meal": "Yıldızlar silindiğinde,",
+   "baglanti": "Mürselât suresinde yıldızların ışığı silinir. Üç sure aynı olayı üç fiille anlatır: bulanma, dökülme ve silinme."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, yön ve ışık kaynağı olan yıldızların kıyamette bozulmasıdır. İnsanın dışarıdan aldığı rehberlik o gün biter.",
+  "Bugün için ders, rehberliğini doğru yere bağlamaktır. Bir gün sönecek şeylere göre yön tutan insan, o şey söndüğünde şaşırır. Kalıcı yön, sönmeyecek olana bağlanmakla bulunur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yönünü sorgula",
+   "aciklama": "Bugün kararlarında kimin veya neyin yönlendirdiğini bir cümleyle yaz."
+  },
+  {
+   "baslik": "Berraklığı koru",
+   "aciklama": "Bugün kafanı bulandıran bir kaynaktan (bir hesap, bir haber akışı) bir gün uzak dur."
+  },
+  {
+   "baslik": "Gökyüzüne bak",
+   "aciklama": "Bu gece birkaç dakika yıldızlara bak; ışığın da bir sonu olduğunu düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün seni bulandıran bir bildirimi kapat ve akşama kadar açma.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=81&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/81/2"
+  }
+ ]
+}

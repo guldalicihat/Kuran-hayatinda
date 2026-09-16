@@ -1,0 +1,82 @@
+{
+ "sure": 80,
+ "ayet": 42,
+ "durum": "taslak",
+ "meal": "İşte onlar inkârcıların, günaha batmışların ta kendileridir.",
+ "mealNotu": "'Kefera' kelimesi küfr kökünden, gerçeği örtenleri; 'fecera' ise fücûr kökünden, sınırı yarıp günaha dalanları anlatır. 'Ta kendileridir' ifadesi, Arapçadaki 'hüm' zamirinin vurgusunu karşılar.",
+ "kokler": [
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "ta kendileridir"
+  },
+  {
+   "kelime": "ٱلْكَفَرَةُ",
+   "okunus": "elkeferatü",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkârcıların"
+  },
+  {
+   "kelime": "ٱلْفَجَرَةُ",
+   "okunus": "elfeceratü",
+   "kok": "فجر",
+   "kokAnlam": "yarma; sınırı yarıp günaha dalma",
+   "karsilik": "günaha batmışların"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, tozlu ve karanlık yüzlerin kime ait olduğunu söyleyerek biter. İki nitelik verilir: gerçeği örtmek ve sınırı aşmak. Küfr inançla, fücûr davranışla ilgilidir; ikisi birlikte bir hayatın iki yönünü anlatır.",
+  "'Fücûr' kökü 'yarma' anlamı taşır; fecr (şafak) de karanlığı yaran ışıktır. Burada ise sınırı yarıp geçenler kastedilir. Sure, yüzünü ekşiten Peygamber'e uyarıyla başlamış ve yüzlerin ikiye ayrıldığı sahneyle bitmiştir; yüz teması baştan sona sürer."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "82:14",
+   "meal": "Günaha batmışlar ise kesinlikle cehennemdedir.",
+   "baglanti": "İnfitâr suresi 'füccâr' kelimesini aynı anlamda kullanır ve sonlarını açıkça bildirir. Abese yüzlerini, İnfitâr yerlerini anlatır."
+  },
+  {
+   "ref": "71:27",
+   "meal": "Eğer onları bırakırsan kullarını saptırırlar ve günaha batmış, inkârcı olandan başkasını doğurmazlar.",
+   "baglanti": "Nûh suresinde aynı iki kök, 'fâcir' ve 'keffâr' olarak yan yana gelir. Küfr ve fücûr, Kur'an'da sık sık birlikte anılan bir çifttir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, hesap gününde yüzü kararanların kimliğidir. Gerçeği örtmek ve sınırı aşmak, bir insanın hem inancını hem davranışını bozar.",
+  "Bugün için ders, inanç ve davranışın birbirinden kopmadığıdır. Sınırı aşarak yaşayan insan zamanla gerçeği de örtmeye başlar; çünkü yaptığını savunmak için doğruyu görmezden gelmek zorunda kalır. Sınırı korumak, gerçeği görmeyi de korur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir sınırı koru",
+   "aciklama": "Bugün aşmaya alıştığın küçük bir sınırı (bir söz, bir hak, bir vakit) bilinçle koru."
+  },
+  {
+   "baslik": "Gerçeği örtme",
+   "aciklama": "Bugün rahatsız edici bir doğruyu görmezden gelmek istediğinde onu açıkça kendine söyle."
+  },
+  {
+   "baslik": "Sureyi baştan oku",
+   "aciklama": "Abese suresini bugün baştan sona oku; ilk ayetteki yüz ile son ayetlerdeki yüzleri birlikte düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün aşmaya alıştığın bir sınırı belirle ve bir gün boyunca onu aşmadan yaşa.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=42"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/80/42"
+  }
+ ]
+}

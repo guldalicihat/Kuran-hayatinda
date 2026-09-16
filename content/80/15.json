@@ -1,0 +1,68 @@
+{
+ "sure": 80,
+ "ayet": 15,
+ "durum": "taslak",
+ "meal": "Elçilerin elleriyle [yazılmıştır].",
+ "mealNotu": "'Sefere', 'sefr' kökünden gelir; bu kök yolculuğu, açığa çıkarmayı, elçiliği ve kitabı yazmayı birlikte anlatır. Klasik tefsir kelimeyi elçi melekler ya da yazıcı melekler olarak açıklar; 'elçiler' karşılığı bu anlamı korur. 'Eydî' el demektir; köşeli parantezdeki 'yazılmıştır' cümleyi tamamlar.",
+ "kokler": [
+  {
+   "kelime": "بِأَيْدِى",
+   "okunus": "bieydî",
+   "kok": "يدي",
+   "kokAnlam": "el; güç, tasarruf",
+   "karsilik": "elleriyle"
+  },
+  {
+   "kelime": "سَفَرَةٍ",
+   "okunus": "seferatin",
+   "kok": "سفر",
+   "kokAnlam": "yolculuk; açığa çıkarma; elçilik, yazıcılık",
+   "karsilik": "elçilerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sahifelerin kimlerin elinde olduğu söylenir: 'sefere'. Bu kelime, hem elçileri hem yazıcıları anlatabilir; klasik tefsir çoğunlukla vahyi taşıyan melekleri kasteder.",
+  "Sefr kökündeki 'açığa çıkarma' anlamı dikkat çeker. Elçiler, gizli olanı açığa çıkarır; vahiy de böyle ulaşır. Bir sonraki ayet bu elçilerin niteliğini söyler: değerli ve iyi."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "82:11",
+   "meal": "Değerli yazıcılar.",
+   "baglanti": "İnfitâr suresinde melekler 'kirâm' ve 'kâtibîn' diye anılır. Abese 15-16'daki 'sefere' ve 'kirâm' kelimeleri aynı tasviri tamamlar."
+  },
+  {
+   "ref": "26:193",
+   "meal": "Onu güvenilir Ruh indirdi.",
+   "baglanti": "Vahyi taşıyan elçinin güvenilirliği Şuarâ'da 'emîn' sıfatıyla; Abese'de elçilerin değerli ve iyi oluşuyla vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, vahyi taşıyanların kimliğidir. Mesajın güvenilirliği, taşıyıcısının güvenilirliğine bağlıdır.",
+  "Bugün de bir haberin değeri, onu getiren kişinin dürüstlüğüyle ölçülür. Ayet, taşıdığın her sözün seni bir 'elçi' konumuna koyduğunu hatırlatır: söz senin elinden geçerken bozulmamalı."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözü doğru taşı",
+   "aciklama": "Bugün birinden aldığın bir mesajı başkasına aktarırken eklemeden ve eksiltmeden ilet."
+  },
+  {
+   "baslik": "Kaynağa in",
+   "aciklama": "Bugün kulaktan duyduğun bir haberi paylaşmadan önce kaynağına ulaş."
+  },
+  {
+   "baslik": "Bir ayet taşı",
+   "aciklama": "Bugün bir ayeti bir tanıdığına, yorum katmadan, meal ve kaynak vererek gönder."
+  }
+ ],
+ "bugununAdimi": "Bugün ilettiğin bir sözde 'dediler ki' yerine kimin dediğini açıkça söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=80&verse=15"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/80/15"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "sure": 78,
+ "ayet": 28,
+ "durum": "taslak",
+ "meal": "Ayetlerimizi de yalanladıkça yalanladılar.",
+ "mealNotu": "'Kezzebû' yalanlamayı anlatır; sondaki 'kizzâb' aynı kökten bir pekiştirme ismidir ve yalanlamanın şiddetini bildirir. Bu yüzden 'yalanladıkça yalanladılar' denmiştir. 'Âyât' hem Kur'an ayetlerini hem yaratılıştaki delilleri kapsar.",
+ "kokler": [
+  {
+   "kelime": "وَكَذَّبُوا۟",
+   "okunus": "ve kezzebû",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama, yalan sayma",
+   "karsilik": "yalanladılar"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِنَا",
+   "okunus": "biâyâtinâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil; ayet",
+   "karsilik": "ayetlerimizi"
+  },
+  {
+   "kelime": "كِذَّابًا",
+   "okunus": "kizzâben",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama; şiddetli yalanlama",
+   "karsilik": "yalanladıkça"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, azabın ikinci gerekçesidir. Hesabı beklemeyenler, ayetleri de yalanlamıştır. 'Kizzâb' kelimesi Kur'an'da yalnız burada geçer ve yalanlamanın ısrarlı, yoğun bir tutum olduğunu anlatır.",
+  "'Ayetlerimiz' ifadesi, surenin 6-16. ayetlerinde sayılan delilleri de kapsar: yer, dağlar, uyku, yağmur. Bunları her gün gören insanın, arkasındaki gücü ve dirilişi yalanlaması, ısrarlı bir inkârdır. Sonraki ayet bu inkârın kaydedildiğini söyler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "54:42",
+   "meal": "Ayetlerimizin hepsini yalanladılar. Biz de onları güçlü ve kudretli birinin yakalayışıyla yakaladık.",
+   "baglanti": "Aynı 'kezzebû bi-âyâtinâ' ifadesi; Kamer suresi Firavun toplumu için aynı tutumu ve sonucunu anlatır."
+  },
+  {
+   "ref": "7:36",
+   "meal": "Ayetlerimizi yalanlayıp onlara karşı büyüklenenler ise ateş ehlidir; orada ebedî kalacaklardır.",
+   "baglanti": "Yalanlama ile büyüklenme yan yana anılır; Nebe'deki azgınlık, yalanlama ve ateş üçlüsü burada da görülür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, delilleri ısrarla yalanlamaktır. Bir kez şüphe etmek ile bir hayat boyu yalanlamak farklıdır; ayet ikincisini anlatır.",
+  "Bugün için ders, gördüğün delili görmezden gelme alışkanlığını fark etmektir. İnsan çoğu zaman gerçeği bilmediği için değil, kabul etmek istemediği için yalanlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir delili kabul et",
+   "aciklama": "Bugün karşı çıktığın bir konuda haklı bir delil duyduğunda 'Haklısın' de; inadı bırak."
+  },
+  {
+   "baslik": "Ayetleri hayatta gör",
+   "aciklama": "Nebe 6-16'da sayılan delillerden birini bugün gözünle gör ve 'Bu bir ayettir' de."
+  },
+  {
+   "baslik": "Yalanı azalt",
+   "aciklama": "Bugün küçük bir yalanı bile söylemeden geçir; doğruluk, ayetleri kabul etmenin de zeminidir."
+  }
+ ],
+ "bugununAdimi": "Bugün, gördüğün bir yaratılış delili için 'Bu, Rabbimin ayetidir' de ve ne olduğunu bir cümleyle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=78&verse=28"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/78/28"
+  }
+ ]
+}
