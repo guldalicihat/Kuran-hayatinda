@@ -1,0 +1,313 @@
+{
+ "sure": 6,
+ "ayet": 19,
+ "durum": "taslak",
+ "meal": "De ki: Şahitlik bakımından en büyük şey nedir? De ki: Allah, benimle sizin aranızda şahittir. Bu Kur'an bana, sizi onunla ve ulaştığı herkesi uyarmam için vahyedildi. Siz gerçekten Allah ile beraber başka ilahlar bulunduğuna mı şahitlik ediyorsunuz? De ki: Ben şahitlik etmiyorum. De ki: O, ancak tek bir ilahtır ve ben, sizin ortak koştuğunuz şeylerden uzağım.",
+ "mealNotu": "'Şehâdet' kökü hem şahitlik etme hem tanıklık anlamı taşır; ayet boyunca tekrarlanır. 'Berîün' kökü, bir şeyden tamamen uzak, ilgisiz olmayı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "أَىُّ",
+   "okunus": "eyyü",
+   "kok": "أيي",
+   "kokAnlam": "hangi",
+   "karsilik": "hangi"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "أَكْبَرُ",
+   "okunus": "ekberu",
+   "kok": "كبر",
+   "kokAnlam": "büyük, en büyük",
+   "karsilik": "en büyük"
+  },
+  {
+   "kelime": "شَهَٰدَةً",
+   "okunus": "şehâdeten",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik, tanıklık",
+   "karsilik": "şahitlik bakımından"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kuli",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "شَهِيدٌۢ",
+   "okunus": "şehîdüm",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik, tanıklık",
+   "karsilik": "şahittir"
+  },
+  {
+   "kelime": "بَيْنِى",
+   "okunus": "beynî",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında",
+   "karsilik": "benimle"
+  },
+  {
+   "kelime": "وَبَيْنَكُمْ",
+   "okunus": "ve beyneküm",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında",
+   "karsilik": "ve sizin aranızda"
+  },
+  {
+   "kelime": "وَأُوحِىَ",
+   "okunus": "ve ûhiye",
+   "kok": "وحي",
+   "kokAnlam": "vahiy, bildirme",
+   "karsilik": "ve vahyedildi"
+  },
+  {
+   "kelime": "إِلَىَّ",
+   "okunus": "ileyye",
+   "kok": "—",
+   "kokAnlam": "(edat) bana",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانُ",
+   "okunus": "elkur'ânü",
+   "kok": "قرأ",
+   "kokAnlam": "okuma",
+   "karsilik": "Kur'an"
+  },
+  {
+   "kelime": "لِأُنذِرَكُم",
+   "okunus": "liünziraküm",
+   "kok": "نذر",
+   "kokAnlam": "uyarma",
+   "karsilik": "sizi uyarmam için"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "وَمَنۢ",
+   "okunus": "ve mem",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ve kimseyi",
+   "karsilik": "ve ulaştığı herkesi"
+  },
+  {
+   "kelime": "بَلَغَ",
+   "okunus": "beleğa",
+   "kok": "بلغ",
+   "kokAnlam": "ulaşma, erişme",
+   "karsilik": "ulaşan"
+  },
+  {
+   "kelime": "أَئِنَّكُمْ",
+   "okunus": "einneküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) siz gerçekten mi",
+   "karsilik": "siz gerçekten mi"
+  },
+  {
+   "kelime": "لَتَشْهَدُونَ",
+   "okunus": "leteşhedûne",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik, tanıklık",
+   "karsilik": "şahitlik ediyorsunuz"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "مَعَ",
+   "okunus": "mea",
+   "kok": "—",
+   "kokAnlam": "(edat) ile beraber",
+   "karsilik": "ile beraber"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ءَالِهَةً",
+   "okunus": "âliheten",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "ilahlar"
+  },
+  {
+   "kelime": "أُخْرَىٰ",
+   "okunus": "ührâ",
+   "kok": "أخر",
+   "kokAnlam": "başka, diğer",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "لَّآ",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) hayır",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "أَشْهَدُ",
+   "okunus": "eşhedü",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik, tanıklık",
+   "karsilik": "şahitlik etmem"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(sınırlama) ancak, sadece",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) O",
+   "karsilik": "O"
+  },
+  {
+   "kelime": "إِلَٰهٌ",
+   "okunus": "ilâhün",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "bir ilahtır"
+  },
+  {
+   "kelime": "وَٰحِدٌ",
+   "okunus": "vâhidün",
+   "kok": "وحد",
+   "kokAnlam": "bir, tek",
+   "karsilik": "tek"
+  },
+  {
+   "kelime": "وَإِنَّنِى",
+   "okunus": "ve innenî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ve şüphesiz ben",
+   "karsilik": "ve şüphesiz ben"
+  },
+  {
+   "kelime": "بَرِىٓءٌ",
+   "okunus": "berîün",
+   "kok": "برأ",
+   "kokAnlam": "uzak olma, ilgisiz olma",
+   "karsilik": "uzağım"
+  },
+  {
+   "kelime": "مِّمَّا",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "(edat) şeyden",
+   "karsilik": "şeyden"
+  },
+  {
+   "kelime": "تُشْرِكُونَ",
+   "okunus": "tüşrikûne",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "ortak koştuğunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, sûrenin girişindeki tevhid vurgusunu bir soru-cevapla pekiştirir: en büyük şahit kimdir? Cevap Allah'tır. Kur'an'ın vahyediliş amacı da burada açıkça belirtilir: uyarmak, hem muhataplara hem ona ulaşacak herkese.",
+  "Ayetin sonu, Peygamber'in ağzından kesin bir tevhid beyanıyla biter: Allah tektir ve O, müşriklerin ortak koştuklarından tamamen uzaktır. Bu, sûrenin başından beri işlenen yaratılış, hâkimiyet ve bilgi temalarının doğal bir sonucu olarak tevhide bağlanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:52",
+   "meal": "De ki: 'Benimle sizin aranızda şahit olarak Allah yeter.' O, göklerde ve yerde olanı bilir. Batıla inanıp Allah'ı inkâr edenler var ya, işte onlar ziyana uğrayanların ta kendileridir.",
+   "baglanti": "'Benimle sizin aranızda şahit olarak Allah' ifadesi burada da tekrarlanır; Peygamber'in tebliğinin en büyük teminatı Allah'ın şahitliğidir."
+  },
+  {
+   "ref": "16:51",
+   "meal": "Allah dedi ki: 'İki ilah edinmeyin; O ancak tek bir ilahtır. Onun için yalnız benden korkun.'",
+   "baglanti": "'O ancak tek bir ilahtır' ifadesi burada da birebir geçer; ayetin sonundaki tevhid vurgusu doğrulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu tevhidin en açık ifadesi ve Kur'an'ın uyarı amacıdır. Bugüne taşınabilecek ders, sözünü hangi temele dayandırdığını bilerek konuşmaktır; Peygamber burada en güvenilir şahidi göstermiştir.",
+  "İnsan bazen kimseye hesap vermeyeceğini düşünerek konuşur veya davranır. Ayet, en büyük şahidin her zaman hazır olduğunu hatırlatarak sözde ve davranışta tutarlılığı öğütler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü temellendir",
+   "aciklama": "Bugün önemli bir konuda konuşurken, söylediğinin doğruluğundan emin ol."
+  },
+  {
+   "baslik": "Tevhidi tekrar et",
+   "aciklama": "Bugün ilahın tek olduğu bilincini bir dua veya zikirle tazele."
+  },
+  {
+   "baslik": "Uyarıyı ciddiye al",
+   "aciklama": "Bugün sana ulaşan bir öğüdü veya uyarıyı önemseyerek üzerinde düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün, her sözünün ve davranışının bir şahidi olduğunu bilerek, en az bir kararında bu bilinçle hareket et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=19"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/19"
+  }
+ ]
+}

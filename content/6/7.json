@@ -1,0 +1,166 @@
+{
+ "sure": 6,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Sana kâğıt üzerinde yazılı bir kitap indirseydik de onlar ona elleriyle dokunsalardı, inkâr edenler yine de 'Bu, apaçık bir büyüden başka bir şey değildir' derlerdi.",
+ "mealNotu": "'Kırtâs' kökü somut, elle tutulabilir bir yazı malzemesini (kâğıt/parşömen) anlatır; ayet, en somut delilin bile inkârı değiştirmeyeceğini bu görüntüyle anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "نَزَّلْنَا",
+   "okunus": "nezzelnâ",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirseydik"
+  },
+  {
+   "kelime": "عَلَيْكَ",
+   "okunus": "aleyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "كِتَٰبًا",
+   "okunus": "kitâben",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "bir kitap"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "قِرْطَاسٍ",
+   "okunus": "kırtâsin",
+   "kok": "قرطس",
+   "kokAnlam": "kâğıt, parşömen",
+   "karsilik": "kâğıt üzerinde"
+  },
+  {
+   "kelime": "فَلَمَسُوهُ",
+   "okunus": "felemesûhü",
+   "kok": "لمس",
+   "kokAnlam": "dokunma, el sürme",
+   "karsilik": "ve ona dokunsalardı"
+  },
+  {
+   "kelime": "بِأَيْدِيهِمْ",
+   "okunus": "bieydîhim",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "elleriyle"
+  },
+  {
+   "kelime": "لَقَالَ",
+   "okunus": "lekâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "derlerdi"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri, çoğul) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "كَفَرُوٓا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr eden"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) hayır, değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "هَٰذَآ",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) -den başka",
+   "karsilik": "-den başka"
+  },
+  {
+   "kelime": "سِحْرٌ",
+   "okunus": "sihrun",
+   "kok": "سحر",
+   "kokAnlam": "büyü",
+   "karsilik": "bir büyü"
+  },
+  {
+   "kelime": "مُّبِينٌ",
+   "okunus": "mübînün",
+   "kok": "بين",
+   "kokAnlam": "açık, belirgin",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet, kendilerine vahiy ulaştığında hakkı yalanlayanları anlatmıştı; bu ayet bu yalanlamanın köklü bir tutum olduğunu, delilin biçimiyle ilgili olmadığını gösterir. Elle dokunulabilecek somut bir kitap bile onları ikna etmezdi.",
+  "'Apaçık büyü' ithamı, Kur'an'a karşı yöneltilen tekrarlayan bir suçlamadır. Ayet, bu ithamın delil eksikliğinden değil, önceden verilmiş bir ret kararından kaynaklandığını ima eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "34:43",
+   "meal": "Onlara ayetlerimiz açık açık okunduğunda dediler ki: 'Bu, sizi atalarınızın taptığından alıkoymak isteyen bir adamdan başkası değildir.' Ve dediler ki: 'Bu, uydurulmuş bir yalandan başka bir şey değildir.' İnkâr edenler, hak kendilerine geldiğinde onun için 'Bu, apaçık bir büyüden başka bir şey değildir' dediler.",
+   "baglanti": "'Apaçık büyü' ithamı burada da aynı ifadeyle geçer; bu suçlamanın tekrar eden bir kalıp olduğu görülür."
+  },
+  {
+   "ref": "74:24",
+   "meal": "Dedi ki: 'Bu, nakledilegelen bir büyüden başka bir şey değildir.'",
+   "baglanti": "Aynı 'büyü' ithamı burada farklı bir kelimeyle tekrarlanır; delilin türü değişse de suçlama aynı kalır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu vahiy ve mucize talebidir. Bugüne taşınabilecek ders, bazı insanların en somut delillerle bile ikna olmayabileceğini, ısrarcı reddin bir tutum meselesi olduğunu kabul etmektir.",
+  "Bir tartışmada karşı tarafı ikna etmek için daha fazla kanıt sunmak her zaman çözüm olmayabilir. Ayet, önyargılı bir reddin delille değil niyetle ilgili olabileceğini hatırlatır; bu da boşuna ısrar etmek yerine üslubu ve zamanlamayı gözden geçirmeyi öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önyargını fark et",
+   "aciklama": "Bugün bir konuda neden ikna olmadığını düşün; delil eksikliği mi, yoksa önyargı mı olduğuna bak."
+  },
+  {
+   "baslik": "Israrcı tartışmayı bırak",
+   "aciklama": "İkna olmayacağını anladığın bir tartışmada bugün geri çekil, boşuna enerji harcama."
+  },
+  {
+   "baslik": "Somut bir delili değerlendir",
+   "aciklama": "Bugün elindeki güvenilir bir bilgiyi önyargısız biçimde yeniden gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda hemen reddetmeden önce, kendine 'Bunu neden kabul etmiyorum?' diye sor ve cevabını yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/7"
+  }
+ ]
+}

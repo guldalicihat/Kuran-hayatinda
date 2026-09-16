@@ -1,0 +1,117 @@
+{
+ "sure": 6,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Eğer onu bir melek kılsaydık, yine de onu bir adam [suretinde] kılardık ve onları yine içine düştükleri kuşkuya düşürmüş olurduk.",
+ "mealNotu": "'Lebs' kökü örtme ve karıştırmayı, burada bir şeyi belirsiz kılmayı anlatır. Ayet, meleğin insan gözüyle görülebilmesi için insan suretinde gönderilmesi gerekeceğini, bunun da yine aynı itirazı doğuracağını anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "جَعَلْنَٰهُ",
+   "okunus": "cealnâhü",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "onu kılsaydık"
+  },
+  {
+   "kelime": "مَلَكًا",
+   "okunus": "meleken",
+   "kok": "ملك",
+   "kokAnlam": "melek",
+   "karsilik": "bir melek"
+  },
+  {
+   "kelime": "لَّجَعَلْنَٰهُ",
+   "okunus": "lecealnâhü",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "yine onu kılardık"
+  },
+  {
+   "kelime": "رَجُلًا",
+   "okunus": "racülen",
+   "kok": "رجل",
+   "kokAnlam": "adam, erkek",
+   "karsilik": "bir adam"
+  },
+  {
+   "kelime": "وَلَلَبَسْنَا",
+   "okunus": "ve lelebesnâ",
+   "kok": "لبس",
+   "kokAnlam": "örtme, karıştırma, belirsiz kılma",
+   "karsilik": "ve yine karıştırırdık"
+  },
+  {
+   "kelime": "عَلَيْهِم",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerlerine, onlara",
+   "karsilik": "onları"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şeyi",
+   "karsilik": "içine düştükleri kuşkuya"
+  },
+  {
+   "kelime": "يَلْبِسُونَ",
+   "okunus": "yelbisûne",
+   "kok": "لبس",
+   "kokAnlam": "örtme, karıştırma, belirsiz kılma",
+   "karsilik": "düştükleri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki melek talebine devam eden bir cevaptır. Eğer Allah gerçekten bir meleği peygamber kılsaydı, insanların onu görüp anlayabilmesi için yine de insan suretinde göndermesi gerekirdi; çünkü insan gözü meleğin gerçek suretini algılayamaz.",
+  "Bu durumda inkârcıların itirazı değişmez, yalnız yer değiştirirdi: yine 'Bu bir insan, nasıl peygamber olur?' diye sorarlardı. Ayet, sorunun elçinin türünde değil, muhatapların inanma isteksizliğinde olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:20",
+   "meal": "Senden önce gönderdiğimiz peygamberler de mutlaka yemek yerler, çarşılarda dolaşırlardı. Sizi birbiriniz için bir imtihan kıldık; sabreder misiniz? Rabbin, hakkıyla görendir.",
+   "baglanti": "İnsan peygamberlerin yemek yiyip çarşıda dolaşması, tüm peygamberler için ortak bir kuraldır; bu bir eksiklik değil, ilahî bir sünnettir."
+  },
+  {
+   "ref": "17:94",
+   "meal": "İnsanlara, kendilerine hidayet geldiğinde iman etmelerini engelleyen şey, yalnızca 'Allah bir beşeri mi peygamber gönderdi?' demeleridir.",
+   "baglanti": "İnsanların iman etmeyişinin asıl sebebi burada açıkça belirtilir: elçinin insan oluşu, itirazın gerçek kaynağıdır, delil eksikliği değil."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu peygamberliğin insan eliyle yürümesidir. Buradan çıkan genel ders, bir mesajın veya öğüdün değerini, onu ileten kişinin sıradan görünümüne bakarak küçümsememektir.",
+  "İnsan bazen doğru bir sözü, onu söyleyenin konumu veya biçimi yüzünden reddeder. Ayet, mesajın kaynağına değil içeriğine bakmanın önemini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözü söyleyene değil söze bak",
+   "aciklama": "Bugün, kimden geldiğine bakmaksızın doğru bir öğüdü dinle ve değerlendir."
+  },
+  {
+   "baslik": "Sıradan birinden ders çıkar",
+   "aciklama": "Bugün beklemediğin bir kişiden sana ulaşan bir gerçeği fark et."
+  },
+  {
+   "baslik": "Kendi sıradanlığını kabul et",
+   "aciklama": "Bugün, kusursuz olmadan da doğru bir şey söyleyebileceğini kabul ederek bir öğüt paylaş."
+  }
+ ],
+ "bugununAdimi": "Bugün bir sözü, kim söylediğine değil ne söylediğine bakarak değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/9"
+  }
+ ]
+}

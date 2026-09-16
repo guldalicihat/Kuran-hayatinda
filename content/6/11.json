@@ -1,0 +1,124 @@
+{
+ "sure": 6,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "De ki: Yeryüzünde gezin, sonra yalanlayanların sonunun nasıl olduğuna bakın.",
+ "mealNotu": "'Âkıbe' kökü bir şeyin arkasını, sonucunu ifade eder. Ayet doğrudan bir emir cümlesidir; tarihten ders çıkarmayı somut bir eylem olarak sunar.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "سِيرُوا۟",
+   "okunus": "sîrû",
+   "kok": "سير",
+   "kokAnlam": "yürüme, gezme, dolaşma",
+   "karsilik": "gezin"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ٱنظُرُوا۟",
+   "okunus": "unzurû",
+   "kok": "نظر",
+   "kokAnlam": "bakma, görme",
+   "karsilik": "bakın"
+  },
+  {
+   "kelime": "كَيْفَ",
+   "okunus": "keyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldu"
+  },
+  {
+   "kelime": "عَٰقِبَةُ",
+   "okunus": "âkıbetü",
+   "kok": "عقب",
+   "kokAnlam": "son, akıbet",
+   "karsilik": "sonu"
+  },
+  {
+   "kelime": "ٱلْمُكَذِّبِينَ",
+   "okunus": "elmükezzibîne",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanlayanların"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetler geçmiş toplumların yıkımını ve peygamberlerle alay edilmesini anlatmıştı. Bu ayet, bu bilgiyi soyut bir haber olarak bırakmaz; muhatabı bizzat gezip görmeye çağırır.",
+  "'Yalanlayanların sonu' ifadesi, geçmiş toplumların kalıntılarına işaret eder. Bu emir, yalnız tarihsel bir merak değil, ibret çıkarma amacı taşır; görmek, duymaktan daha güçlü bir etki bırakır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:137",
+   "meal": "Sizden önce nice olaylar gelip geçmiştir. Yeryüzünde gezin de yalanlayanların sonunun nasıl olduğuna bir bakın.",
+   "baglanti": "Neredeyse aynı ifade burada da geçer; yeryüzünde gezip ibret alma çağrısı Kur'an'da tekrarlanan bir temadır."
+  },
+  {
+   "ref": "22:46",
+   "meal": "Yeryüzünde dolaşmadılar mı ki, akledecek kalpleri veya işitecek kulakları olsun? Çünkü gerçekte gözler kör olmaz, ama göğüslerdeki kalpler kör olur.",
+   "baglanti": "Gezip görmenin asıl amacının gözle değil kalple anlamak olduğu burada eklenir; yoksa gezmek tek başına yeterli değildir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu geçmiş toplumların akıbetinden ibret almaktır. Bugüne taşınabilecek ders, tarihten ve başkalarının deneyiminden öğrenmenin değeridir.",
+  "İnsan çoğu zaman kendi hatasını tekrar ederek öğrenir; oysa başkalarının sonucunu görüp ders çıkarmak daha az maliyetlidir. Ayet, bu tür bir gözlemi bilinçli bir eylem olarak önerir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ibret hikâyesi araştır",
+   "aciklama": "Bugün geçmişte yükselip çöken bir toplum veya kişi hakkında kısa bir şey oku."
+  },
+  {
+   "baslik": "Bir hatayı tekrarlama",
+   "aciklama": "Başkasının yaşadığı bir hatayı fark et ve aynısına düşmemek için bugün önlem al."
+  },
+  {
+   "baslik": "Kalple bak",
+   "aciklama": "Bugün gördüğün bir şeyi sadece izlemekle kalma, ondan çıkaracağın dersi yaz."
+  }
+ ],
+ "bugununAdimi": "Bugün, geçmişte yaşanmış bir olaydan senin için geçerli bir ders çıkar ve onu bir cümleyle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/11"
+  }
+ ]
+}

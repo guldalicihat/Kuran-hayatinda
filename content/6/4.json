@@ -1,0 +1,131 @@
+{
+ "sure": 6,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Rablerinin ayetlerinden hiçbir ayet onlara gelmez ki ondan yüz çeviriyor olmasınlar.",
+ "mealNotu": "'Mu'ridîn' kökü, bir şeyden bilerek uzaklaşmayı, ona sırt çevirmeyi anlatır; yalnız görmezden gelme değil, bilinçli bir kaçınmadır.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) hiç",
+   "karsilik": "hiç"
+  },
+  {
+   "kelime": "تَأْتِيهِم",
+   "okunus": "te'tîhim",
+   "kok": "أتي",
+   "kokAnlam": "gelme, ulaşma",
+   "karsilik": "gelmez onlara"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ءَايَةٍ",
+   "okunus": "âyetin",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet, ayet",
+   "karsilik": "bir ayet"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ءَايَٰتِ",
+   "okunus": "âyâti",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet, ayet",
+   "karsilik": "ayetlerinden"
+  },
+  {
+   "kelime": "رَبِّهِمْ",
+   "okunus": "rabbihim",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rablerinin"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, -den başka",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmasınlar"
+  },
+  {
+   "kelime": "عَنْهَا",
+   "okunus": "anhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "مُعْرِضِينَ",
+   "okunus": "mü'ridîne",
+   "kok": "عرض",
+   "kokAnlam": "yüz çevirme, uzaklaşma",
+   "karsilik": "yüz çevirenler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerde anlatılan yaratılış ve kapsamlı bilgi delillerine rağmen inkârcıların tutumunu anlatır. 'Ayet' kelimesi hem Kur'an ayetlerini hem evrendeki işaretleri kapsar; her ikisi de aynı şekilde reddedilir.",
+  "'Yüz çevirenler' ifadesi, bu reddin bilgisizlikten değil, bilinçli bir kaçınmadan kaynaklandığını ima eder. Sonraki ayetler bu tutumun sonuçlarını (yalanlama, alay) ele alacaktır; bu ayet ise sorunun köküne, delillerden yüz çevirmeye işaret eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "12:105",
+   "meal": "Göklerde ve yerde nice ayet vardır ki, onlar bu ayetlerin üzerinden yüz çevirerek geçerler.",
+   "baglanti": "Aynı 'yüz çevirme' (i'raz) teması burada evrendeki ayetler için tekrarlanır; delil çokluğu inanmayı garanti etmez."
+  },
+  {
+   "ref": "54:2",
+   "meal": "Onlar bir mucize görseler yüz çevirirler ve 'Süregelen bir büyüdür' derler.",
+   "baglanti": "Yüz çevirme, burada bir açıklamayla da birleşir: delili reddetmek için 'büyü' yaftası kullanılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu vahiy ve delillere karşı bilinçli bir kayıtsızlıktır. Bugüne taşınabilecek ders, açık bir gerçekle karşılaşıldığında ondan kaçmak yerine üzerinde durmaktır.",
+  "İnsan bazen rahatsız edici bir gerçeği görmezden gelmeyi tercih eder; çünkü kabul etmek değişim gerektirir. Ayet, bu kaçınmanın bir alışkanlığa dönüşebileceğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Görmezden geldiğin bir gerçeği yaz",
+   "aciklama": "Bugün, bilerek uzak durduğun bir konuyu kâğıda dök ve neden kaçındığını düşün."
+  },
+  {
+   "baslik": "Bir ayeti düşünerek oku",
+   "aciklama": "Kısa bir ayeti oku ve anlamı üzerinde en az beş dakika düşün."
+  },
+  {
+   "baslik": "Bir işareti fark et",
+   "aciklama": "Bugün doğada karşılaştığın bir düzeni (gün doğumu, bir bitkinin büyümesi) fark edip üzerinde dur."
+  }
+ ],
+ "bugununAdimi": "Bugün üzerinden kolayca geçtiğin bir gerçeği seç ve ona en az beş dakika gerçekten bak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/4"
+  }
+ ]
+}

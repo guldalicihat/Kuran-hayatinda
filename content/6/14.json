@@ -1,0 +1,222 @@
+{
+ "sure": 6,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "De ki: Gökleri ve yeri yoktan var edeni bırakıp da Allah'tan başkasını mı dost edineyim? Oysa O besler, kendisi beslenmez. De ki: Bana, teslim olanların ilki olmam emredildi ve sakın ortak koşanlardan olma [denildi].",
+ "mealNotu": "'Fâtır' kökü, bir şeyi ilk kez, yoktan, örneksiz var etmeyi anlatır. 'Esleme' kökü teslim olma ve bağlanmayı ifade eder; 'evvele men esleme' ifadesi 'teslim olanların ilki' anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "أَغَيْرَ",
+   "okunus": "eğayra",
+   "kok": "غير",
+   "kokAnlam": "başka, gayrı",
+   "karsilik": "başkasını mı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "أَتَّخِذُ",
+   "okunus": "ettehızü",
+   "kok": "أخذ",
+   "kokAnlam": "edinme, alma",
+   "karsilik": "edineyim"
+  },
+  {
+   "kelime": "وَلِيًّا",
+   "okunus": "veliyyen",
+   "kok": "ولي",
+   "kokAnlam": "dost, koruyucu, yakın olan",
+   "karsilik": "dost"
+  },
+  {
+   "kelime": "فَاطِرِ",
+   "okunus": "fâtıri",
+   "kok": "فطر",
+   "kokAnlam": "yoktan var etme, ilk kez yaratma",
+   "karsilik": "yoktan var edeni"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "gökleri"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yeri"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) O",
+   "karsilik": "oysa O"
+  },
+  {
+   "kelime": "يُطْعَمُ",
+   "okunus": "yüt'imü",
+   "kok": "طعم",
+   "kokAnlam": "besleme, yedirme",
+   "karsilik": "besler"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يُطْعَمُ",
+   "okunus": "yüt'amü",
+   "kok": "طعم",
+   "kokAnlam": "besleme, yedirme",
+   "karsilik": "kendisi beslenmez"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "إِنِّىٓ",
+   "okunus": "innî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz ben",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "أُمِرْتُ",
+   "okunus": "ümirtü",
+   "kok": "أمر",
+   "kokAnlam": "emretme, buyurma",
+   "karsilik": "emredildi"
+  },
+  {
+   "kelime": "أَنْ",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mekle",
+   "karsilik": "-mekle"
+  },
+  {
+   "kelime": "أَكُونَ",
+   "okunus": "ekûne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmam"
+  },
+  {
+   "kelime": "أَوَّلَ",
+   "okunus": "evvele",
+   "kok": "أول",
+   "kokAnlam": "ilk, önce",
+   "karsilik": "ilki"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimseler",
+   "karsilik": "teslim olanların"
+  },
+  {
+   "kelime": "أَسْلَمَ",
+   "okunus": "esleme",
+   "kok": "سلم",
+   "kokAnlam": "teslim olma, bağlanma",
+   "karsilik": "teslim olan"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "تَكُونَنَّ",
+   "okunus": "tekûnenne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "sakın olma"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -dan",
+   "karsilik": "-dan"
+  },
+  {
+   "kelime": "ٱلْمُشْرِكِينَ",
+   "okunus": "elmüşrikîne",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "ortak koşanlardan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, gökleri ve yeri yoktan var eden Allah'ı bırakıp başka bir dost/koruyucu edinmenin akıl dışılığına dikkat çeker. Besleyenin O olduğu, hiçbir varlığın O'nu beslemediği vurgulanır; bu, mutlak ihtiyaçsızlığa işaret eder.",
+  "Ayetin ikinci kısmı Peygamber'in kişisel tutumunu bildirir: teslim olanların ilki olmakla emrolunmuştur ve ortak koşmaktan kesinlikle kaçınması istenmiştir. Bu, hem bir örneklik hem de tevhidin kişisel bir kararlılıkla yaşanması gerektiğinin göstergesidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "39:12",
+   "meal": "Ben, müslümanların ilki olmakla emrolundum.",
+   "baglanti": "'Teslim olanların ilki' ifadesiyle neredeyse aynı anlam burada da tekrarlanır; Peygamber'in tevhide bağlılıktaki öncülüğü vurgulanır."
+  },
+  {
+   "ref": "12:39",
+   "meal": "Ey zindan arkadaşlarım! Ayrı ayrı rabler mi daha hayırlıdır, yoksa tek ve mutlak galip olan Allah mı?",
+   "baglanti": "Başka bir dost veya rab edinmenin akıl dışılığı burada farklı bir bağlamda, aynı tevhid mantığıyla sorulur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, sığınılacak asıl merciin kim olduğudur. Bugüne taşınabilecek ders, güven ve bağlılığın, gerçekten ihtiyaçsız ve besleyen olana yönelmesi gerektiğidir.",
+  "İnsan bazen güvenini, aslında kendisi de muhtaç olan şeylere bağlar. Ayet, ihtiyaçsız olanı bulup ona güvenmenin daha sağlam bir temel olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Güvendiğin şeyi sorgula",
+   "aciklama": "Bugün en çok neye güvendiğini düşün ve onun gerçekten güvenilir olup olmadığını sorgula."
+  },
+  {
+   "baslik": "Teslimiyetini yenile",
+   "aciklama": "Bugün bir kararını, kendi çıkarın yerine doğru olanı gözeterek ver."
+  },
+  {
+   "baslik": "Bağımlılığı azalt",
+   "aciklama": "Aşırı bağlandığın bir alışkanlığı bugün bir kez azalt."
+  }
+ ],
+ "bugununAdimi": "Bugün, güvenini asıl kime bağladığını bir cümleyle yaz ve bu güvenin yerinde olup olmadığını değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/14"
+  }
+ ]
+}

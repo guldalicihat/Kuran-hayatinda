@@ -1,0 +1,229 @@
+{
+ "sure": 6,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "De ki: Göklerde ve yerde olan kime aittir? De ki: Allah'a aittir. O, rahmeti kendi üzerine yazdı. Sizi mutlaka kıyamet gününde toplayacaktır; bunda hiç şüphe yoktur. Kendilerini ziyana uğratanlar var ya, işte onlar iman etmezler.",
+ "mealNotu": "'Ketebe alâ nefsihi' ifadesi, Allah'ın rahmeti kendine bir ilke olarak koyduğunu, bunun bir zorunluluk değil kendi tercihi olduğunu anlatır. 'Hasirû enfüsehüm' kökü, kişinin kendi kendine verdiği zararı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "قُل",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "لِّمَن",
+   "okunus": "limen",
+   "kok": "—",
+   "kokAnlam": "(soru) kimindir",
+   "karsilik": "kimindir"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olan",
+   "karsilik": "olan"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -deki",
+   "karsilik": "-deki"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "göklerdeki"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yerdeki"
+  },
+  {
+   "kelime": "قُل",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "لِّلَّهِ",
+   "okunus": "lillehi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a aittir"
+  },
+  {
+   "kelime": "كَتَبَ",
+   "okunus": "ketebe",
+   "kok": "كتب",
+   "kokAnlam": "yazma",
+   "karsilik": "yazdı"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "نَفْسِهِ",
+   "okunus": "nefsihi",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi",
+   "karsilik": "kendi"
+  },
+  {
+   "kelime": "ٱلرَّحْمَةَ",
+   "okunus": "errahmete",
+   "kok": "رحم",
+   "kokAnlam": "merhamet, acıma",
+   "karsilik": "rahmeti"
+  },
+  {
+   "kelime": "لَيَجْمَعَنَّكُمْ",
+   "okunus": "leyecmeanneküm",
+   "kok": "جمع",
+   "kokAnlam": "toplama, bir araya getirme",
+   "karsilik": "sizi mutlaka toplayacaktır"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "يَوْمِ",
+   "okunus": "yevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gününe"
+  },
+  {
+   "kelime": "ٱلْقِيَٰمَةِ",
+   "okunus": "elkıyâmeti",
+   "kok": "قوم",
+   "kokAnlam": "ayağa kalkma; kıyamet",
+   "karsilik": "kıyamet"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yoktur",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "رَيْبَ",
+   "okunus": "raybe",
+   "kok": "ريب",
+   "kokAnlam": "şüphe, kuşku",
+   "karsilik": "şüphe"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat) onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri, çoğul) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "خَسِرُوٓا۟",
+   "okunus": "hasirû",
+   "kok": "خسر",
+   "kokAnlam": "ziyan etme, kaybetme",
+   "karsilik": "ziyana uğrattı"
+  },
+  {
+   "kelime": "أَنفُسَهُمْ",
+   "okunus": "enfüsehüm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi",
+   "karsilik": "kendilerini"
+  },
+  {
+   "kelime": "فَهُمْ",
+   "okunus": "fehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mazlar",
+   "karsilik": "-mazlar"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma",
+   "karsilik": "iman etmezler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, göklerdeki ve yerdeki her şeyin mülkiyetini soru-cevap biçiminde Allah'a bağlar. Ardından O'nun rahmeti kendi üzerine yazdığı bildirilir; bu, mutlak güç sahibinin aynı zamanda merhametli olduğunu gösterir.",
+  "Ayetin ikinci kısmı kıyamet gününe ve iman etmeyenlerin durumuna geçer. 'Kendilerini ziyana uğratanlar' ifadesi, imansızlığın başkasına değil önce kişinin kendisine verdiği bir zarar olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:87",
+   "meal": "Allah, kendisinden başka hiçbir ilah olmayandır. Sizi mutlaka kıyamet gününe toplayacaktır, bunda hiç şüphe yoktur. Allah'tan daha doğru sözlü kim olabilir?",
+   "baglanti": "'Sizi mutlaka kıyamet gününde toplayacaktır, bunda şüphe yoktur' ifadesi burada da birebir geçer; toplanma vaadinin kesinliği pekiştirilir."
+  },
+  {
+   "ref": "6:54",
+   "meal": "Ayetlerimize inananlar sana geldiğinde de ki: 'Selam olsun size! Rabbiniz kendi üzerine rahmeti yazdı; sizden kim bilmeyerek bir kötülük yapar, sonra ardından tövbe edip kendini düzeltirse, şüphesiz O, çok bağışlayan, çok merhamet edendir.'",
+   "baglanti": "'Rahmeti kendi üzerine yazdı' ifadesi aynı sûre içinde burada tekrar edilir ve tövbe ile bağışlanmaya bağlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu Allah'ın mülkiyeti, rahmeti ve kıyamet günü toplanmadır. Bugüne taşınabilecek ders, rahmetin bir lütuf olduğunu bilerek umutlu olmak, ama hesap gününü de unutmamaktır.",
+  "Bir kişinin kendine zarar vermesi çoğu zaman fark edilmez; imansızlık ya da kötü bir alışkanlık, önce kendi hayatını bozar. Ayet, bu zararın kaynağını dışarıda değil kişinin kendi tercihinde göstererek sorumluluğu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Rahmete güven, sorumluluğu bırakma",
+   "aciklama": "Bugün bir hata yaptığında, hem Allah'ın rahmetine güven hem de düzeltmek için adım at."
+  },
+  {
+   "baslik": "Kendine verdiğin zararı fark et",
+   "aciklama": "Kendine zarar veren bir alışkanlığını yaz ve onu azaltmak için küçük bir kural koy."
+  },
+  {
+   "baslik": "Hesap bilinciyle bir seçim yap",
+   "aciklama": "Bugün bir kararını, 'Bundan hesap sorulur mu?' diye sorarak ver."
+  }
+ ],
+ "bugununAdimi": "Bugün kendine zarar veren bir alışkanlığını belirle ve onu bir kez azaltacak somut bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/12"
+  }
+ ]
+}
