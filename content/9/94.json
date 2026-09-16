@@ -1,0 +1,264 @@
+{
+ "sure": 9,
+ "ayet": 94,
+ "durum": "taslak",
+ "meal": "Siz yanlarına döndüğünüzde size özür beyan ederler. De ki: 'Özür beyan etmeyin; size asla inanmayacağız. Allah bize sizin haberlerinizden bir kısmını bildirmiştir. Allah da amelinizi görecektir, Resûlü de; sonra gaybı ve görüneni bilenin huzuruna döndürüleceksiniz; O da size yapmakta olduklarınızı haber verecektir.",
+ "mealNotu": "'Ya'tezirûn' kökü (عذر) özür beyan etmeyi, mazeret üretmeyi anlatır. 'Nebbeenallâh' (نبأ) haber verme; 'âlimi'l-gaybi ve'ş-şehâde' (görünmeyeni ve görüneni bilen) ifadesi Allah'ın kapsamlı bilgisine vurgu yapar.",
+ "kokler": [
+  {
+   "kelime": "يَعْتَذِرُونَ",
+   "okunus": "ya'tezirûne",
+   "kok": "عذر",
+   "kokAnlam": "özür beyan etme, mazeret üretme",
+   "karsilik": "özür beyan ederler"
+  },
+  {
+   "kelime": "إِلَيْكُمْ",
+   "okunus": "ileyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığınızda"
+  },
+  {
+   "kelime": "رَجَعْتُمْ",
+   "okunus": "raca'tüm",
+   "kok": "رجع",
+   "kokAnlam": "dönme, geri gelme",
+   "karsilik": "döndüğünüzde"
+  },
+  {
+   "kelime": "إِلَيْهِمْ",
+   "okunus": "ileyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlara",
+   "karsilik": "yanlarına"
+  },
+  {
+   "kelime": "قُل",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mayın",
+   "karsilik": "-mayın"
+  },
+  {
+   "kelime": "تَعْتَذِرُوا۟",
+   "okunus": "ta'tezirû",
+   "kok": "عذر",
+   "kokAnlam": "özür beyan etme, mazeret üretme",
+   "karsilik": "özür beyan et"
+  },
+  {
+   "kelime": "لَن",
+   "okunus": "len",
+   "kok": "—",
+   "kokAnlam": "(kesin olumsuzluk) asla -mayacak",
+   "karsilik": "asla"
+  },
+  {
+   "kelime": "نُّؤْمِنَ",
+   "okunus": "nü'mine",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "inanmayacağız"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten, muhakkak",
+   "karsilik": "muhakkak"
+  },
+  {
+   "kelime": "نَبَّأَنَا",
+   "okunus": "nebbeenâ",
+   "kok": "نبأ",
+   "kokAnlam": "haber verme",
+   "karsilik": "bize haber verdi"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَخْبَارِكُمْ",
+   "okunus": "ahbâriküm",
+   "kok": "خبر",
+   "kokAnlam": "haber",
+   "karsilik": "haberlerinizden"
+  },
+  {
+   "kelime": "وَسَيَرَى",
+   "okunus": "ve seyerâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "ve görecektir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَمَلَكُمْ",
+   "okunus": "ameleküm",
+   "kok": "عمل",
+   "kokAnlam": "yapma, iş, amel",
+   "karsilik": "amelinizi"
+  },
+  {
+   "kelime": "وَرَسُولُهُۥ",
+   "okunus": "ve rasûlühû",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi",
+   "karsilik": "ve Resûlü"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "تُرَدُّونَ",
+   "okunus": "türaddûne",
+   "kok": "ردد",
+   "kokAnlam": "geri döndürme",
+   "karsilik": "döndürüleceksiniz"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "عَٰلِمِ",
+   "okunus": "âlimi",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilenin"
+  },
+  {
+   "kelime": "ٱلْغَيْبِ",
+   "okunus": "elgaybi",
+   "kok": "غيب",
+   "kokAnlam": "görünmeyen, gayb",
+   "karsilik": "gaybı"
+  },
+  {
+   "kelime": "وَٱلشَّهَٰدَةِ",
+   "okunus": "veş şehâdeti",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık, görünen",
+   "karsilik": "ve görüneni"
+  },
+  {
+   "kelime": "فَيُنَبِّئُكُم",
+   "okunus": "feyünebbiüküm",
+   "kok": "نبأ",
+   "kokAnlam": "haber verme",
+   "karsilik": "size haber verecektir"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduğunuz"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma, iş, amel",
+   "karsilik": "yapmakta"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Tebük Seferi'ne katılmayıp geride kalan bir grubun, sefer dönüşü Peygamber'in yanına gelerek çeşitli mazeretler öne sürmesini anlatır; onlara verilen cevap, sözlü özürlerin artık inandırıcı olmadığı, çünkü Allah'ın onların gerçek durumundan haber verdiğidir. Bu, tarihî bir olayın -Medine döneminde geride kalanların hesap verme sahnesinin- tasviridir.",
+  "'Âlimi'l-gaybi ve'ş-şehâde' (gaybı ve görüneni bilen) ifadesi, insanın sadece dışa yansıyan sözünü değil, içindeki niyeti de bilen bir hesap merciine işaret eder. Klasik tefsir bu ayeti, sözlü mazeretlerin tek başına yeterli olmadığı, asıl belirleyicinin fiilî tutum ve niyet olduğu şeklinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "63:2",
+   "meal": "Yeminlerini kalkan edindiler de Allah yolundan alıkoydular. Gerçekten onların yaptıkları şey ne kötüdür.",
+   "baglanti": "9:94'teki sözlü mazeret ve yeminlerin gerçek niyeti örtmek için kullanılması temasını, münafıkların yeminlerini bir 'kalkan' olarak kullanmasıyla paralel şekilde işler."
+  },
+  {
+   "ref": "3:29",
+   "meal": "De ki: İçinizdekini gizleseniz de açığa vursanız da Allah onu bilir; göklerde ve yerde olanı da bilir.",
+   "baglanti": "9:94'teki 'gaybı ve görüneni bilen' vurgusunu, Allah'ın kalplerde gizleneni de bildiği ilkesiyle doğrudan destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, Tebük Seferi'ne katılmayanların döndükten sonra ürettiği mazeretlere verilen tarihî bir cevaptır; bugün birini bu ayetle doğrudan yargılamak ayetin amacı değildir.",
+  "Ayetten çıkarılabilecek evrensel ders, bir sorumluluktan kaçtıktan sonra sözlü mazeretler üretmek yerine, davranışlarımızın ve niyetimizin zaten bilindiğini hatırlayarak dürüst bir öz-hesaplaşma yapmaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Mazeret üretmeden önce düşün",
+   "aciklama": "Bir sorumluluğu yerine getirmediğinde, hemen mazeret üretmek yerine önce durumu dürüstçe kendine itiraf et."
+  },
+  {
+   "baslik": "Sözün değil davranışının farkında ol",
+   "aciklama": "Bugün bir konuda söylediğin sözün, gerçekte yaptığınla örtüşüp örtüşmediğini gözden geçir."
+  },
+  {
+   "baslik": "Hesap bilincini kendine uygula",
+   "aciklama": "Bu ayeti bir başkasının mazeretini sorgulamak için değil, kendi mazeretlerinin samimiyetini sınamak için oku."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda ürettiğin bir mazereti, kendine karşı dürüstçe gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=94"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/94"
+  }
+ ]
+}

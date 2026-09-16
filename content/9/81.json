@@ -1,0 +1,243 @@
+{
+ "sure": 9,
+ "ayet": 81,
+ "durum": "taslak",
+ "meal": "Geride bırakılanlar, Allah'ın Resûlü'ne aykırı olarak oturup kalmalarına sevindiler; mallarıyla ve canlarıyla Allah yolunda cihad etmekten hoşlanmadılar ve 'Bu sıcakta sefere çıkmayın' dediler. De ki: Cehennem ateşi sıcaklık bakımından daha şiddetlidir; keşke anlasalardı.",
+ "mealNotu": "'Mühallefûn' kökü (خلف) geride bırakılmayı, 'harr' kökü (حرر) sıcaklığı anlatır. Ayet, Tebük Seferi'nin şiddetli yaz sıcağında sefere çıkmama bahanesini, ahiretteki ateşin şiddetiyle karşılaştırır.",
+ "kokler": [
+  {
+   "kelime": "فَرِحَ",
+   "okunus": "feriha",
+   "kok": "فرح",
+   "kokAnlam": "sevinme",
+   "karsilik": "sevindiler"
+  },
+  {
+   "kelime": "ٱلْمُخَلَّفُونَ",
+   "okunus": "elmühallefûne",
+   "kok": "خلف",
+   "kokAnlam": "geride bırakılma",
+   "karsilik": "geride bırakılanlar"
+  },
+  {
+   "kelime": "بِمَقْعَدِهِمْ",
+   "okunus": "bimek'adihim",
+   "kok": "قعد",
+   "kokAnlam": "oturma, geri kalma",
+   "karsilik": "oturup kalmalarına"
+  },
+  {
+   "kelime": "خِلَٰفَ",
+   "okunus": "hılâfe",
+   "kok": "خلف",
+   "kokAnlam": "arkada, aykırı",
+   "karsilik": "aykırı olarak"
+  },
+  {
+   "kelime": "رَسُولِ",
+   "okunus": "rasûli",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi",
+   "karsilik": "Resûlü'ne"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَكَرِهُوٓا۟",
+   "okunus": "ve kerihû",
+   "kok": "كره",
+   "kokAnlam": "hoşlanmama",
+   "karsilik": "ve hoşlanmadılar"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mekten",
+   "karsilik": "-mekten"
+  },
+  {
+   "kelime": "يُجَٰهِدُوا۟",
+   "okunus": "yücâhidû",
+   "kok": "جهد",
+   "kokAnlam": "çaba, cihad etme",
+   "karsilik": "cihad etmekten"
+  },
+  {
+   "kelime": "بِأَمْوَٰلِهِمْ",
+   "okunus": "biemvâlihim",
+   "kok": "مول",
+   "kokAnlam": "mal, servet",
+   "karsilik": "mallarıyla"
+  },
+  {
+   "kelime": "وَأَنفُسِهِمْ",
+   "okunus": "ve enfüsihim",
+   "kok": "نفس",
+   "kokAnlam": "nefis, can",
+   "karsilik": "ve canlarıyla"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -nda",
+   "karsilik": "-nda"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَقَالُوا۟",
+   "okunus": "ve kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "ve dediler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mayın",
+   "karsilik": "-mayın"
+  },
+  {
+   "kelime": "تَنفِرُوا۟",
+   "okunus": "tenfirû",
+   "kok": "نفر",
+   "kokAnlam": "sefere çıkma, harekete geçme",
+   "karsilik": "sefere çıkmayın"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -nda",
+   "karsilik": "-nda"
+  },
+  {
+   "kelime": "ٱلْحَرِّ",
+   "okunus": "elharri",
+   "kok": "حرر",
+   "kokAnlam": "sıcaklık",
+   "karsilik": "bu sıcakta"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "نَارُ",
+   "okunus": "nâru",
+   "kok": "نور",
+   "kokAnlam": "ateş",
+   "karsilik": "ateşi"
+  },
+  {
+   "kelime": "جَهَنَّمَ",
+   "okunus": "cehenneme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) cehennem",
+   "karsilik": "cehennem"
+  },
+  {
+   "kelime": "أَشَدُّ",
+   "okunus": "eşeddü",
+   "kok": "شدد",
+   "kokAnlam": "daha şiddetli",
+   "karsilik": "daha şiddetlidir"
+  },
+  {
+   "kelime": "حَرًّا",
+   "okunus": "harran",
+   "kok": "حرر",
+   "kokAnlam": "sıcaklık",
+   "karsilik": "sıcaklıkça"
+  },
+  {
+   "kelime": "لَّوْ",
+   "okunus": "lev",
+   "kok": "—",
+   "kokAnlam": "(şart) keşke",
+   "karsilik": "keşke"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olsalardı"
+  },
+  {
+   "kelime": "يَفْقَهُونَ",
+   "okunus": "yefkahûne",
+   "kok": "فقه",
+   "kokAnlam": "anlama, kavrama",
+   "karsilik": "anlıyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Hicri 9. yılda Tebük Seferi'ne çıkılan dönemde, aşırı sıcak ve kıtlık şartları bahane edilerek sefere katılmayan ve bu durumdan memnun olan bir grubu anlatır. Klasik tefsir, 'geride bırakılanlar' ifadesinin Medine'de kalan münafık grubuna işaret ettiğini belirtir.",
+  "Ayet, dünyevi bir zorluktan (sıcak hava) kaçınmanın, ahiretteki çok daha büyük bir zorluğu (cehennem ateşi) görmezden gelmek anlamına geldiğini vurgular; bu bir kıyaslama ve uyarı üslubudur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:216",
+   "meal": "Savaş, hoşunuza gitmediği halde size farz kılındı; olur ki hoşunuza gitmeyen bir şey sizin için hayırlıdır.",
+   "baglanti": "savaşı sevmeme halinin genel bir insanî eğilim olduğunu, ama bunun bir sorumluluktan kaçış gerekçesi olamayacağını gösterir."
+  },
+  {
+   "ref": "9:38",
+   "meal": "Ey iman edenler! Size ne oldu ki, Allah yolunda sefere çıkın denildiğinde yere çakılıp kaldınız?",
+   "baglanti": "aynı surede geçen benzer bir kınamayla 9:81'i tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, tarihî bir askerî sefere katılmayı reddedip buna sevinen bir grubun kınanmasıdır; savaşa çıkmamakla ilgili özel bir durumdur.",
+  "Evrensel ders, kısa vadeli bir zorluktan kaçınırken -örneğin bir sorumluluktan kaçmak- çoğu zaman daha büyük bir bedelin göz ardı edildiğidir; bugün kolay yolu seçmeden önce uzun vadeli sonucu düşünebilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kolay yolu sorgula",
+   "aciklama": "Bir sorumluluktan kaçmak için bahane bulduğunda, bunun uzun vadede seni nereye götüreceğini düşün."
+  },
+  {
+   "baslik": "Zorluğu kıyasla",
+   "aciklama": "Bugünkü küçük bir rahatsızlıktan kaçınırken, ihmal edersen ortaya çıkacak daha büyük bedeli tart."
+  },
+  {
+   "baslik": "Sevinme yerine sorumluluğu üstlen",
+   "aciklama": "Bir görevden muaf kaldığın için rahatlamak yerine, üstüne düşeni yapmanın verdiği huzuru seç."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir sorumluluğu, zorluğuna rağmen bir adım ilerlet.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=81"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/81"
+  }
+ ]
+}

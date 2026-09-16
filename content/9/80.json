@@ -1,0 +1,229 @@
+{
+ "sure": 9,
+ "ayet": 80,
+ "durum": "taslak",
+ "meal": "İster onlar için bağışlanma dile, ister dileme; onlar için yetmiş kere bağışlanma dilesen de Allah onları asla bağışlamayacaktır. Bu, onların Allah'a ve Resûlü'ne nankörlük etmiş olmaları sebebiyledir. Allah, yoldan çıkan topluluğu doğru yola iletmez.",
+ "mealNotu": "'Fâsikîn' kökü (فسق) doğru yoldan çıkmayı, 'yehdî' kökü (هدي) doğru yola iletmeyi anlatır. 'Yetmiş kere' ifadesi kesin bir sayı değil, çokluğu vurgulayan bir anlatımdır.",
+ "kokler": [
+  {
+   "kelime": "ٱسْتَغْفِرْ",
+   "okunus": "istağfir",
+   "kok": "غفر",
+   "kokAnlam": "bağışlanma dileme",
+   "karsilik": "bağışlanma dile"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar için",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) dileme",
+   "karsilik": "dileme"
+  },
+  {
+   "kelime": "تَسْتَغْفِرْ",
+   "okunus": "testağfir",
+   "kok": "غفر",
+   "kokAnlam": "bağışlanma dileme",
+   "karsilik": "bağışlanma dile"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar için",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَسْتَغْفِرْ",
+   "okunus": "testağfir",
+   "kok": "غفر",
+   "kokAnlam": "bağışlanma dileme",
+   "karsilik": "bağışlanma dilesen"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar için",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "سَبْعِينَ",
+   "okunus": "seb'îne",
+   "kok": "سبع",
+   "kokAnlam": "yetmiş",
+   "karsilik": "yetmiş"
+  },
+  {
+   "kelime": "مَرَّةً",
+   "okunus": "merraten",
+   "kok": "مرر",
+   "kokAnlam": "kere, defa",
+   "karsilik": "kere"
+  },
+  {
+   "kelime": "فَلَن",
+   "okunus": "felen",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) asla",
+   "karsilik": "asla"
+  },
+  {
+   "kelime": "يَغْفِرَ",
+   "okunus": "yağfira",
+   "kok": "غفر",
+   "kokAnlam": "bağışlama",
+   "karsilik": "bağışlamayacaktır"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onları",
+   "karsilik": "onları"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "بِأَنَّهُمْ",
+   "okunus": "biennehüm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şu sebepledir ki onlar",
+   "karsilik": "şu sebepledir ki onlar"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "nankörlük, inkâr",
+   "karsilik": "nankörlük ettiler"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَرَسُولِهِۦ",
+   "okunus": "ve rasûlihî",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi",
+   "karsilik": "ve Resûlüne"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "ve Allah"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mez",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يَهْدِى",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme",
+   "karsilik": "doğru yola iletmez"
+  },
+  {
+   "kelime": "ٱلْقَوْمَ",
+   "okunus": "elkavme",
+   "kok": "قوم",
+   "kokAnlam": "topluluk",
+   "karsilik": "topluluğu"
+  },
+  {
+   "kelime": "ٱلْفَٰسِقِينَ",
+   "okunus": "elfâsikîne",
+   "kok": "فسق",
+   "kokAnlam": "doğru yoldan çıkma",
+   "karsilik": "yoldan çıkan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Klasik tefsir bu ayeti, Tebük dönüşünde vefat eden ve dönemin ileri gelen bir münafığıyla ilgili olarak, o kişi için bağışlanma dilemenin -kaç kere dilenirse dilensin- fayda vermeyeceğini bildiren bir hüküm olarak açıklar. Sayının kendisi değil, açık ve ısrarlı nankörlüğün bağışlanmayacağı vurgulanır.",
+  "Bu ayet, sonraki 9:84'te gelecek cenaze namazı yasağının bir hazırlığıdır; ikisi birlikte, açıkça Allah'a ve Resûlüne karşı inkârcı tavır sergileyip bu hal üzere ölen kişilere yönelik tarihî ve özel bir hükmü oluşturur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "63:6",
+   "meal": "İster onlar için bağışlanma dile ister dileme, onlar için bağışlanma dilesen de Allah onları asla bağışlamayacaktır; Allah yoldan çıkan topluluğu doğru yola iletmez.",
+   "baglanti": "9:80'i neredeyse birebir aynı ifadeyle tekrarlar."
+  },
+  {
+   "ref": "4:145",
+   "meal": "Münafıklar cehennemin en alt tabakasındadır; onlara asla bir yardımcı bulamazsın.",
+   "baglanti": "münafıklığın ahiretteki akıbetini göstererek 9:80'deki bağışlanmama hükmünü tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, tarihte belirli bir kişinin açık ve ısrarlı nankörlüğü karşısında bağışlanma dilemenin sonuç vermeyeceğinin bildirilmesidir; bu, günümüzde birine 'senin için dua etmenin faydası yok' demek için kullanılacak bir ayet değildir.",
+  "Evrensel olarak çıkarılabilecek ders, bir tutumun ısrarla ve bilerek sürdürülmesi halinde, dıştan yapılan iyi niyetli girişimlerin tek başına yeterli olmayabileceğidir; kişinin kendi kalbinin açık olması esastır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Israrlı tutumu fark et",
+   "aciklama": "Bir kişinin sözde değil davranışında ısrarla sürdürdüğü bir tutumu fark ettiğinde, bunu görmezden gelme."
+  },
+  {
+   "baslik": "Duayı tek çözüm sanma",
+   "aciklama": "Bir sorunu sadece dua ederek çözmeyi beklemek yerine, elinden gelen somut adımı da at."
+  },
+  {
+   "baslik": "Kendi nankörlüğünü sorgula",
+   "aciklama": "Bu ayeti okurken, kendi hayatında fark etmeden sürdürdüğün bir nankörlük hali olup olmadığını düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün bir nimete karşı nankörlük ettiğin bir alanı fark edip bunun için şükret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=80"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/80"
+  }
+ ]
+}
