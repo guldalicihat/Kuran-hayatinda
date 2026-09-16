@@ -1,0 +1,229 @@
+{
+ "sure": 5,
+ "ayet": 73,
+ "durum": "taslak",
+ "meal": "Andolsun, 'Allah, üçün üçüncüsüdür' diyenler de kâfir olmuştur. Oysa tek bir ilahtan başka ilah yoktur. Eğer söylediklerinden vazgeçmezlerse, onlardan inkâr edenlere elbette acıklı bir azap dokunacaktır.",
+ "mealNotu": "'Sâlisü selâseh' (üçün üçüncüsü) ifadesi, sayı kökü ثلث üzerinden birebir aktarılmıştır. 'Yentehû' kökü hem 'sona erme' hem 'vazgeçme' anlamı taşır; burada bağlama uygun olarak 'vazgeçme' seçilmiştir.",
+ "kokler": [
+  {
+   "kelime": "لَّقَدْ",
+   "okunus": "lekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) andolsun",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "كَفَرَ",
+   "okunus": "kefera",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği örtme, inkâr",
+   "karsilik": "kâfir oldu"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler ki",
+   "karsilik": "diyenler de"
+  },
+  {
+   "kelime": "قَالُوٓا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ثَالِثُ",
+   "okunus": "sâlisü",
+   "kok": "ثلث",
+   "kokAnlam": "üçleme, üç",
+   "karsilik": "üçüncüsüdür"
+  },
+  {
+   "kelime": "ثَلَٰثَةٍ",
+   "okunus": "selâsetin",
+   "kok": "ثلث",
+   "kokAnlam": "üçleme, üç",
+   "karsilik": "üçün"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yoktur",
+   "karsilik": "ve yoktur"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) hiçbir",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "إِلَٰهٌ",
+   "okunus": "ilâhin",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "ilah"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "إِلَٰهٌ",
+   "okunus": "ilâhün",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "ilahtan başka"
+  },
+  {
+   "kelime": "وَٰحِدٌ",
+   "okunus": "vâhidün",
+   "kok": "وحد",
+   "kokAnlam": "birlik, teklik",
+   "karsilik": "tek olan"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi",
+   "karsilik": "-mezlerse"
+  },
+  {
+   "kelime": "يَنتَهُوا۟",
+   "okunus": "yentehû",
+   "kok": "نهي",
+   "kokAnlam": "yasaklama, sakındırma; vazgeçme",
+   "karsilik": "vazgeçmezlerse"
+  },
+  {
+   "kelime": "عَمَّا",
+   "okunus": "ammâ",
+   "kok": "—",
+   "kokAnlam": "(edat) şeyden",
+   "karsilik": "şeyden"
+  },
+  {
+   "kelime": "يَقُولُونَ",
+   "okunus": "yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "söyledikleri"
+  },
+  {
+   "kelime": "لَيَمَسَّنَّ",
+   "okunus": "leyemessenne",
+   "kok": "مسس",
+   "kokAnlam": "dokunma",
+   "karsilik": "elbette dokunacaktır"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimselere",
+   "karsilik": "kimselere"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği örtme, inkâr",
+   "karsilik": "inkâr eden"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "عَذَابٌ",
+   "okunus": "azâbün",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "bir azap"
+  },
+  {
+   "kelime": "أَلِيمٌ",
+   "okunus": "elîmün",
+   "kok": "ألم",
+   "kokAnlam": "acı verme",
+   "karsilik": "acıklı"
+  }
+ ],
+ "neAnlatiyor": [
+  "72. ayette reddedilen 'Allah Mesîh'tir' iddiasının ardından bu ayet, ilişkili başka bir iddiayı ele alır: Allah'ın 'üçün üçüncüsü' olduğu ifadesi. 'Selâse' (üç) kökü ثلث iki kez tekrarlanır; buna karşılık ayet, Allah'ın tekliğini (vâhid) doğrudan söyler. Klasik tefsir, bu ifadeyi bazı Hristiyan gruplarının benimsediği üçleme anlayışına yönelik bir düzeltme olarak açıklar.",
+  "Ayetin ikinci kısmı bir tehdit değil, bir çağrıdır: 'söylediklerinden vazgeçmezlerse'. 'Yentehû' kökü نهي hem sona ermeyi hem vazgeçmeyi anlatır; bu, kapının hâlâ açık olduğunu gösterir. Nitekim hemen sonraki ayet (74) doğrudan tövbe ve bağışlanma çağrısına geçer; uyarı, ısrara yöneliktir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:171",
+   "meal": "Ey Kitap Ehli! Dininizde aşırı gitmeyin ve Allah hakkında ancak hakkı söyleyin. Meryem oğlu Mesîh İsa, ancak Allah'ın resûlü, Meryem'e ulaştırdığı kelimesi ve O'ndan bir ruhtur. Allah'a ve resûllerine iman edin; 'üç' demeyin, kendi iyiliğiniz için vazgeçin. Allah ancak tek bir ilahtır.",
+   "baglanti": "Aynı 'üç deme' uyarısı burada da geçer ve Mesîh'in konumu netleştirilerek 73. ayetteki tevhid vurgusu genişletilir."
+  },
+  {
+   "ref": "112:1",
+   "meal": "De ki: O, Allah'tır, bir tektir.",
+   "baglanti": "73. ayetteki 'tek bir ilahtan başka ilah yoktur' ifadesinin en özlü açıklaması bu suredir; tevhid burada en yalın haliyle tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Allah'ın tekliği (tevhid) meselesidir ve tarihî bir teolojik tartışmaya işaret eder; bu, inanç esaslarını ilgilendiren özel bir alandır. Yine de buradan çıkarılabilecek genel bir ders vardır: yanlış olduğu ortaya çıkan bir görüşte ısrar etmek, o görüşü daha da ağırlaştırır.",
+  "Günlük hayatta bir düşünceyi savunurken, doğruluğunu yeniden gözden geçirebilme ve gerektiğinde geri adım atabilme olgunluğu önemlidir. Ayetteki 'vazgeçmezlerse' vurgusu, hatanın kendisinden çok onda ısrar etmenin bedelinin ağır olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yanlışını fark ettiğinde düzelt",
+   "aciklama": "Bugün, hatalı olduğunu öğrendiğin bir görüşünü ısrar etmeden düzelt."
+  },
+  {
+   "baslik": "Israr ile ilke arasındaki farkı gözden geçir",
+   "aciklama": "Bir tartışmada neyi savunduğunu ve bunun gerçeğe mi yoksa inada mı dayandığını düşün."
+  },
+  {
+   "baslik": "Gerçek karşısında esnek ol",
+   "aciklama": "Bugün haklı olduğunu gördüğün birine 'haklısın' demekten çekinme."
+  }
+ ],
+ "bugununAdimi": "Bugün, yanlış olduğunu fark ettiğin bir görüşünü biriyle paylaşarak açıkça düzelt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=73"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/73"
+  }
+ ]
+}
