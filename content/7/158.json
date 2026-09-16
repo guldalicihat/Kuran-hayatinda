@@ -1,0 +1,271 @@
+{
+ "sure": 7,
+ "ayet": 158,
+ "durum": "taslak",
+ "meal": "De ki: 'Ey insanlar, şüphesiz ben, göklerin ve yerin mülkü kendisine ait olan, kendisinden başka ilah olmayan, dirilten ve öldüren Allah'ın hepinize gönderdiği elçisiyim. Öyleyse Allah'a ve O'nun ümmî peygamber olan, Allah'a ve O'nun sözlerine iman eden elçisine iman edin ve ona uyun ki doğru yolu bulasınız.'",
+ "mealNotu": "'Cemîan' (جمع) 'hepinize' anlamıyla elçiliğin evrenselliğini vurgular; 'ülûhiyyet' kökü (أله) tapılan tek ilahı, 'hüdâ' kökü (هدي) doğru yolu bulmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "seslenme, hitap",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلنَّاسُ",
+   "okunus": "ennâsü",
+   "kok": "أنس",
+   "kokAnlam": "insan, toplum",
+   "karsilik": "insanlar"
+  },
+  {
+   "kelime": "إِنِّى",
+   "okunus": "innî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz ben",
+   "karsilik": "şüphesiz ben"
+  },
+  {
+   "kelime": "رَسُولُ",
+   "okunus": "rasûlü",
+   "kok": "رسل",
+   "kokAnlam": "gönderilme, elçilik",
+   "karsilik": "elçisiyim"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "إِلَيْكُمْ",
+   "okunus": "ileyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "جَمِيعًا",
+   "okunus": "cemîan",
+   "kok": "جمع",
+   "kokAnlam": "toplama, bütün",
+   "karsilik": "hepinize"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) o ki",
+   "karsilik": "o ki"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona ait",
+   "karsilik": "ona ait"
+  },
+  {
+   "kelime": "مُلْكُ",
+   "okunus": "mülkü",
+   "kok": "ملك",
+   "kokAnlam": "mülk, egemenlik",
+   "karsilik": "mülkü"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "göklerin"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yerin"
+  },
+  {
+   "kelime": "لَآ",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "إِلَٰهَ",
+   "okunus": "ilâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "ilah"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "يُحْىِۦ",
+   "okunus": "yühyî",
+   "kok": "حيي",
+   "kokAnlam": "hayat verme, diriltme",
+   "karsilik": "diriltir"
+  },
+  {
+   "kelime": "وَيُمِيتُ",
+   "okunus": "ve yümîtü",
+   "kok": "موت",
+   "kokAnlam": "öldürme",
+   "karsilik": "ve öldürür"
+  },
+  {
+   "kelime": "فَـَٔامِنُوا۟",
+   "okunus": "feâminû",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "öyleyse iman edin"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَرَسُولِهِ",
+   "okunus": "ve rasûlihi",
+   "kok": "رسل",
+   "kokAnlam": "gönderilme, elçilik",
+   "karsilik": "ve O'nun elçisine"
+  },
+  {
+   "kelime": "ٱلنَّبِىِّ",
+   "okunus": "ennebiyyi",
+   "kok": "نبأ",
+   "kokAnlam": "haber verme; peygamberlik",
+   "karsilik": "peygamber"
+  },
+  {
+   "kelime": "ٱلْأُمِّىِّ",
+   "okunus": "el'ümmiyyi",
+   "kok": "أمم",
+   "kokAnlam": "okuma yazma bilmeyen",
+   "karsilik": "ümmî"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) o ki",
+   "karsilik": "o ki"
+  },
+  {
+   "kelime": "يُؤْمِنُ",
+   "okunus": "yü'minü",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "iman eder"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَكَلِمَٰتِهِۦ",
+   "okunus": "ve kelimâtihî",
+   "kok": "كلم",
+   "kokAnlam": "söz, kelam",
+   "karsilik": "ve O'nun sözlerine"
+  },
+  {
+   "kelime": "وَٱتَّبِعُوهُ",
+   "okunus": "vettebiûhü",
+   "kok": "تبع",
+   "kokAnlam": "izleme, uyma",
+   "karsilik": "ve ona uyun"
+  },
+  {
+   "kelime": "لَعَلَّكُمْ",
+   "okunus": "lealleküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) umulur ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "تَهْتَدُونَ",
+   "okunus": "tehtedûne",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu bulma",
+   "karsilik": "doğru yolu bulasınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette anlatılan ümmî peygamberin, bu ayette Mûsâ üzerinden bütün insanlığa 'De ki' emriyle kendini tanıttığı görülür; elçilik, göklerin ve yerin mülkü kendisine ait olan, dirilten ve öldüren Allah'a bağlanır.",
+  "'Cemîan' (hepinize) kelimesi elçiliğin belli bir kavimle sınırlı olmadığını, evrensel olduğunu vurgular; iman çağrısı hem Allah'a hem O'nun sözlerine iman eden elçiye birlikte yöneliktir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "34:28",
+   "meal": "Biz seni ancak bütün insanlara müjdeleyici ve uyarıcı olarak gönderdik, fakat insanların çoğu bilmez.",
+   "baglanti": "7:158'deki 'hepinize' (cemîan) ifadesiyle aynı evrensel elçilik vurgusunu taşır."
+  },
+  {
+   "ref": "21:107",
+   "meal": "Biz seni ancak alemlere rahmet olarak gönderdik.",
+   "baglanti": "7:158'deki evrensel gönderiliş temasını, rahmet vurgusuyla tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, peygamberin bütün insanlığa gönderilmiş bir elçi olarak kendini tanıtmasıdır; bu, evrensel bir peygamberlik çağrısıdır.",
+  "Buradan genel bir ders çıkarılabilir: bir rehberin sözüne gerçekten uymak, önce onun kimin adına konuştuğunu kabul etmeyi, sonra da bu kabulü davranışa dönüştürmeyi gerektirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Evrensel çağrıyı hatırla",
+   "aciklama": "Bugün okuduğun bir öğüdün belirli bir gruba değil herkese seslendiğini düşünerek oku."
+  },
+  {
+   "baslik": "Söz ile davranışı birleştir",
+   "aciklama": "Bugün inandığını söylediğin bir ilkeyi somut bir davranışla göster."
+  },
+  {
+   "baslik": "Doğru yolu arama niyeti taşı",
+   "aciklama": "Bugün bir kararında, sadece kendi çıkarını değil doğru yolu bulma niyetini öne koy."
+  }
+ ],
+ "bugununAdimi": "Bugün inandığını söylediğin bir ilkeyi, en az bir somut davranışla göster.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=158"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/158"
+  }
+ ]
+}

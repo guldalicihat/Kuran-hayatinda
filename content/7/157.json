@@ -1,0 +1,355 @@
+{
+ "sure": 7,
+ "ayet": 157,
+ "durum": "taslak",
+ "meal": "Onlar, yanlarındaki Tevrat ve İncil'de yazılı bulacakları o ümmî peygambere, o elçiye uyanlardır; o, kendilerine iyiliği emreder, kötülükten alıkoyar, güzel şeyleri helâl, kötü şeyleri haram kılar, üzerlerindeki ağır yükü ve zincirleri kaldırır. Ona iman edenler, onu destekleyip yardım edenler ve onunla birlikte indirilen nûra uyanlar; işte kurtuluşa erenler onlardır.",
+ "mealNotu": "'İsr' kökü (أصر) ağır yükü/sorumluluğu, 'ağlâl' kökü (غلل) zinciri, 'felâh' kökü (فلح) kurtuluşu/başarıyı anlatır; 'ümmî' kökü (أمم) okuma-yazma bilmeyeni belirtir.",
+ "kokler": [
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olanlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "يَتَّبِعُونَ",
+   "okunus": "yettebiûne",
+   "kok": "تبع",
+   "kokAnlam": "izleme, uyma",
+   "karsilik": "uyarlar"
+  },
+  {
+   "kelime": "ٱلرَّسُولَ",
+   "okunus": "errasûle",
+   "kok": "رسل",
+   "kokAnlam": "gönderilme, elçilik",
+   "karsilik": "elçiye"
+  },
+  {
+   "kelime": "ٱلنَّبِىَّ",
+   "okunus": "ennebiyye",
+   "kok": "نبأ",
+   "kokAnlam": "haber verme; peygamberlik",
+   "karsilik": "peygambere"
+  },
+  {
+   "kelime": "ٱلْأُمِّىَّ",
+   "okunus": "el'ümmiyye",
+   "kok": "أمم",
+   "kokAnlam": "okuma yazma bilmeyen",
+   "karsilik": "ümmî"
+  },
+  {
+   "kelime": "ٱلَّذِىٓ",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) o ki",
+   "karsilik": "o ki"
+  },
+  {
+   "kelime": "يَجِدُونَهُۥ",
+   "okunus": "yecidûnehû",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "onu bulurlar"
+  },
+  {
+   "kelime": "مَكْتُوبًا",
+   "okunus": "mektûben",
+   "kok": "كتب",
+   "kokAnlam": "yazma",
+   "karsilik": "yazılı"
+  },
+  {
+   "kelime": "عِندَهُمْ",
+   "okunus": "indehüm",
+   "kok": "عند",
+   "kokAnlam": "yan, kat",
+   "karsilik": "yanlarında"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلتَّوْرَىٰةِ",
+   "okunus": "ettevrâti",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Tevrat",
+   "karsilik": "Tevrat'ta"
+  },
+  {
+   "kelime": "وَٱلْإِنجِيلِ",
+   "okunus": "vel incîli",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İncil",
+   "karsilik": "ve İncil'de"
+  },
+  {
+   "kelime": "يَأْمُرُهُم",
+   "okunus": "ye'müruhüm",
+   "kok": "أمر",
+   "kokAnlam": "emretme",
+   "karsilik": "onlara emreder"
+  },
+  {
+   "kelime": "بِٱلْمَعْرُوفِ",
+   "okunus": "bil ma'rûfi",
+   "kok": "عرف",
+   "kokAnlam": "bilinen iyilik",
+   "karsilik": "iyiliği"
+  },
+  {
+   "kelime": "وَيَنْهَىٰهُمْ",
+   "okunus": "ve yenhâhüm",
+   "kok": "نهي",
+   "kokAnlam": "yasaklama, alıkoyma",
+   "karsilik": "ve onları alıkoyar"
+  },
+  {
+   "kelime": "عَنِ",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُنكَرِ",
+   "okunus": "elmünkeri",
+   "kok": "نكر",
+   "kokAnlam": "bilinmeyen, çirkin, kötü",
+   "karsilik": "kötülükten"
+  },
+  {
+   "kelime": "وَيُحِلُّ",
+   "okunus": "ve yühillü",
+   "kok": "حلل",
+   "kokAnlam": "helâl kılma, çözme",
+   "karsilik": "ve helâl kılar"
+  },
+  {
+   "kelime": "لَهُمُ",
+   "okunus": "lehümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "ٱلطَّيِّبَٰتِ",
+   "okunus": "ettayyibâti",
+   "kok": "طيب",
+   "kokAnlam": "temizlik, güzellik",
+   "karsilik": "güzel şeyleri"
+  },
+  {
+   "kelime": "وَيُحَرِّمُ",
+   "okunus": "ve yüharrimü",
+   "kok": "حرم",
+   "kokAnlam": "yasaklama, haram kılma",
+   "karsilik": "ve haram kılar"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhimü",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerlerine",
+   "karsilik": "üzerlerine"
+  },
+  {
+   "kelime": "ٱلْخَبَٰٓئِثَ",
+   "okunus": "elhabâise",
+   "kok": "خبث",
+   "kokAnlam": "pislik, kötülük",
+   "karsilik": "kötü şeyleri"
+  },
+  {
+   "kelime": "وَيَضَعُ",
+   "okunus": "ve yedau",
+   "kok": "وضع",
+   "kokAnlam": "koyma, kaldırma",
+   "karsilik": "ve kaldırır"
+  },
+  {
+   "kelime": "عَنْهُمْ",
+   "okunus": "anhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerlerinden",
+   "karsilik": "üzerlerinden"
+  },
+  {
+   "kelime": "إِصْرَهُمْ",
+   "okunus": "israhüm",
+   "kok": "أصر",
+   "kokAnlam": "ağır yük, sorumluluk",
+   "karsilik": "ağır yüklerini"
+  },
+  {
+   "kelime": "وَٱلْأَغْلَٰلَ",
+   "okunus": "vel ağlâle",
+   "kok": "غلل",
+   "kokAnlam": "boyunduruk, zincir",
+   "karsilik": "ve zincirleri"
+  },
+  {
+   "kelime": "ٱلَّتِى",
+   "okunus": "elletî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki o",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "كَانَتْ",
+   "okunus": "kânet",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerlerinde",
+   "karsilik": "üzerlerinde"
+  },
+  {
+   "kelime": "فَٱلَّذِينَ",
+   "okunus": "fellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) işte olanlar",
+   "karsilik": "işte olanlar"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "وَعَزَّرُوهُ",
+   "okunus": "ve azzerûhü",
+   "kok": "عزر",
+   "kokAnlam": "destekleme, saygı gösterme",
+   "karsilik": "ve onu destekleyenler"
+  },
+  {
+   "kelime": "وَنَصَرُوهُ",
+   "okunus": "ve nesarûhü",
+   "kok": "نصر",
+   "kokAnlam": "yardım etme",
+   "karsilik": "ve ona yardım edenler"
+  },
+  {
+   "kelime": "وَٱتَّبَعُوا۟",
+   "okunus": "vettebeû",
+   "kok": "تبع",
+   "kokAnlam": "izleme, uyma",
+   "karsilik": "ve uyanlar"
+  },
+  {
+   "kelime": "ٱلنُّورَ",
+   "okunus": "ennûra",
+   "kok": "نور",
+   "kokAnlam": "ışık, aydınlık",
+   "karsilik": "nûra"
+  },
+  {
+   "kelime": "ٱلَّذِىٓ",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki o",
+   "karsilik": "ki o"
+  },
+  {
+   "kelime": "أُنزِلَ",
+   "okunus": "ünzile",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirildi"
+  },
+  {
+   "kelime": "مَعَهُۥٓ",
+   "okunus": "meahû",
+   "kok": "—",
+   "kokAnlam": "(yer) onunla beraber",
+   "karsilik": "onunla beraber"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "ٱلْمُفْلِحُونَ",
+   "okunus": "elmüflihûne",
+   "kok": "فلح",
+   "kokAnlam": "kurtuluşa erme, başarı",
+   "karsilik": "kurtuluşa erenlerdir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Mûsâ kıssasının ardından gelecek peygambere (elçiye, ümmî nebiye) geçiş yapar; bu peygamberin Tevrat ve İncil'de yazılı bulunacağı, iyiliği emredip kötülükten alıkoyacağı, güzel şeyleri helâl kötü şeyleri haram kılacağı belirtilir.",
+  "'İsr' (ağır yük) ve 'ağlâl' (zincir) kökleri, önceki şeriatlerdeki bazı ağır yükümlülüklerin kaldırılacağını anlatır; ayet, ona iman edip destekleyenleri ve onunla inen nûra uyanları kurtuluşa erenler olarak niteler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "48:29",
+   "meal": "Muhammed Allah'ın elçisidir... Bu, onların Tevrat'taki ve İncil'deki benzetmesidir.",
+   "baglanti": "7:157'deki 'onu Tevrat ve İncil'de yazılı bulurlar' ifadesiyle aynı temayı, farklı bir açıdan doğrular."
+  },
+  {
+   "ref": "2:286",
+   "meal": "Allah hiç kimseye gücünün üstünde yük yüklemez... Rabbimiz, bizden öncekilere yüklediğin gibi bize ağır bir yük yükleme.",
+   "baglanti": "7:157'deki 'üzerlerindeki ağır yükü kaldırır' ifadesindeki 'isr' köküyle doğrudan bağlantılıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, gelecek peygamberin nitelikleri ve ona iman edenlerin durumudur; bu, tarihî bir peygamberlik müjdesi bağlamındadır.",
+  "Genel ders olarak, bir rehberin iyiliği emredip kötülükten alıkoyması ve yükleri hafifletmesi, ona uymanın kurtuluşa vesile olduğunu; iman etmenin yanında onu destekleyip yardım etmenin de önemli olduğunu gösterir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İyiliği nazikçe emret",
+   "aciklama": "Bugün bir yakınına doğru bildiğin bir şeyi kırmadan hatırlat."
+  },
+  {
+   "baslik": "Ağır bir yükü hafiflet",
+   "aciklama": "Bugün birinin üzerindeki gereksiz bir yükü ya da baskıyı hafifletecek bir söz veya davranışta bulun."
+  },
+  {
+   "baslik": "Doğruya destek ol",
+   "aciklama": "Bugün bildiğin bir doğruyu, sadece onaylamakla kalmayıp fiilen destekle."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kişinin üzerindeki gereksiz bir yükü ya da baskıyı azaltacak somut bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=157"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/157"
+  }
+ ]
+}

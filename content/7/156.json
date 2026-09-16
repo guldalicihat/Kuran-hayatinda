@@ -1,0 +1,264 @@
+{
+ "sure": 7,
+ "ayet": 156,
+ "durum": "taslak",
+ "meal": "'Bize bu dünyada da bir iyilik yaz, ahirette de; şüphesiz biz sana yöneldik.' [Allah] dedi ki: 'Azabımı dilediğime isabet ettiririm; rahmetim ise her şeyi kuşatmıştır. Onu, sakınanlara, zekâtı verenlere ve ayetlerimize iman edenlere yazacağım.'",
+ "mealNotu": "'Vesia' kökü (وسع) kuşatmayı, 'ketebe' kökü (كتب) yazma/farz kılmayı anlatır; rahmet geneldir, fakat fiilen 'yazılması' sakınma, zekât ve iman şartına bağlanır.",
+ "kokler": [
+  {
+   "kelime": "وَٱكْتُبْ",
+   "okunus": "vektüb",
+   "kok": "كتب",
+   "kokAnlam": "yazma, farz kılma",
+   "karsilik": "bize ... yaz"
+  },
+  {
+   "kelime": "لَنَا",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) bize",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "هَٰذِهِ",
+   "okunus": "hâzihi",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "ٱلدُّنْيَا",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık; dünya hayatı",
+   "karsilik": "dünyada"
+  },
+  {
+   "kelime": "حَسَنَةً",
+   "okunus": "haseneten",
+   "kok": "حسن",
+   "kokAnlam": "güzellik, iyilik",
+   "karsilik": "bir iyilik"
+  },
+  {
+   "kelime": "وَفِى",
+   "okunus": "ve fî",
+   "kok": "—",
+   "kokAnlam": "(edat) ve -de",
+   "karsilik": "ve -de"
+  },
+  {
+   "kelime": "ٱلْءَاخِرَةِ",
+   "okunus": "el'âhırati",
+   "kok": "أخر",
+   "kokAnlam": "sonralık; ahiret",
+   "karsilik": "ahirette"
+  },
+  {
+   "kelime": "إِنَّا",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz biz",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "هُدْنَآ",
+   "okunus": "hüdnâ",
+   "kok": "هود",
+   "kokAnlam": "dönme, tövbe ile yönelme",
+   "karsilik": "sana yöneldik"
+  },
+  {
+   "kelime": "إِلَيْكَ",
+   "okunus": "ileyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "عَذَابِىٓ",
+   "okunus": "azâbî",
+   "kok": "عذب",
+   "kokAnlam": "azap, acı vermek",
+   "karsilik": "azabım"
+  },
+  {
+   "kelime": "أُصِيبُ",
+   "okunus": "üsîbü",
+   "kok": "صوب",
+   "kokAnlam": "isabet ettirme",
+   "karsilik": "isabet ettiririm"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "مَنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimi",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "أَشَآءُ",
+   "okunus": "eşâü",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilersem"
+  },
+  {
+   "kelime": "وَرَحْمَتِى",
+   "okunus": "ve rahmetî",
+   "kok": "رحم",
+   "kokAnlam": "merhamet",
+   "karsilik": "rahmetim ise"
+  },
+  {
+   "kelime": "وَسِعَتْ",
+   "okunus": "vesiat",
+   "kok": "وسع",
+   "kokAnlam": "genişlik, kuşatma",
+   "karsilik": "kuşatmıştır"
+  },
+  {
+   "kelime": "كُلَّ",
+   "okunus": "külle",
+   "kok": "كلل",
+   "kokAnlam": "bütün, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "فَسَأَكْتُبُهَا",
+   "okunus": "feseektübühâ",
+   "kok": "كتب",
+   "kokAnlam": "yazma, farz kılma",
+   "karsilik": "onu yazacağım"
+  },
+  {
+   "kelime": "لِلَّذِينَ",
+   "okunus": "lillezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olanlar için",
+   "karsilik": "olanlar için"
+  },
+  {
+   "kelime": "يَتَّقُونَ",
+   "okunus": "yettekûne",
+   "kok": "وقي",
+   "kokAnlam": "sakınma, korunma",
+   "karsilik": "sakınanlar"
+  },
+  {
+   "kelime": "وَيُؤْتُونَ",
+   "okunus": "ve yü'tûne",
+   "kok": "أتي",
+   "kokAnlam": "verme, getirme",
+   "karsilik": "ve verenler"
+  },
+  {
+   "kelime": "ٱلزَّكَوٰةَ",
+   "okunus": "ezzekâte",
+   "kok": "زكو",
+   "kokAnlam": "arınma; zekât",
+   "karsilik": "zekâtı"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve olanlar",
+   "karsilik": "ve olanlar"
+  },
+  {
+   "kelime": "هُم",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِنَا",
+   "okunus": "biâyâtinâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "ayetlerimize"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "iman ederler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayette Mûsâ'nın 'bize dünyada da ahirette de iyilik yaz' duasının Allah tarafından cevaplanmasıdır; cevapta önce azabın dilediğine isabet edeceği, ardından rahmetin her şeyi kuşattığı bildirilir.",
+  "Rahmetin kapsamı geneldir, fakat 'yazılması' yani fiilen ulaşması sakınanlara, zekât verenlere ve ayetlere iman edenlere şart koşulur; bu, rahmetin sınırsız olmakla birlikte kişinin tutumuyla ilişkilendiğini gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "40:7",
+   "meal": "Arşı taşıyanlar ve çevresindekiler Rablerini hamd ile tesbih eder, O'na iman eder ve iman edenler için bağışlanma dilerler: 'Rabbimiz, rahmetin ve ilmin her şeyi kuşatmıştır...'",
+   "baglanti": "7:156'daki 'rahmetim her şeyi kuşatmıştır' ifadesiyle aynı 'vesia' (kuşatma) kökünü ve rahmet vurgusunu paylaşır."
+  },
+  {
+   "ref": "6:54",
+   "meal": "Ayetlerimize iman edenler sana geldiğinde de ki: Selam olsun size; Rabbiniz rahmeti kendi üzerine yazmıştır.",
+   "baglanti": "7:156'daki 'onu yazacağım' ifadesindeki 'ketebe' (yazma) köküyle örtüşür; rahmetin Allah tarafından kendi üzerine yazılmasını anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Mûsâ'nın duasına Allah'ın verdiği cevap ve rahmetin şartlarının açıklanmasıdır.",
+  "Buradan çıkan genel ders: geniş bir rahmete güvenmek, sakınma, cömertlik (zekât) ve iman gibi somut tutumlarla birlikte anlam kazanır; sadece rahmete güvenip sorumluluğu ihmal etmek doğru değildir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Rahmete güven, tedbiri bırakma",
+   "aciklama": "Bugün Allah'ın rahmetine güvenirken sakınma ve sorumluluklarını ihmal etme."
+  },
+  {
+   "baslik": "Küçük bir yardımda bulun",
+   "aciklama": "Bugün elindeki imkânın bir kısmını ihtiyaç sahibiyle paylaş."
+  },
+  {
+   "baslik": "Dünya ve ahiret dengesi kur",
+   "aciklama": "Bugün yaptığın bir işte hem dünyaya hem ahirete faydalı olanı tercih et."
+  }
+ ],
+ "bugununAdimi": "Bugün elindeki imkânın bir kısmını, karşılık beklemeden bir ihtiyaç sahibiyle paylaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=156"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/156"
+  }
+ ]
+}
