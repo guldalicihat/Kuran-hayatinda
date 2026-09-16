@@ -1,0 +1,103 @@
+{
+ "sure": 11,
+ "ayet": 22,
+ "durum": "taslak",
+ "meal": "Hiç şüphesiz onlar, ahirette en büyük kaybedenlerin ta kendileridir.",
+ "mealNotu": "'Lâ cerame' kalıbı Arapçada 'şüphesiz, kesinlikle' anlamında kullanılır; 'ahser' (خسر) kökünün üstünlük (ism-i tafdil) biçimidir, yani 'en çok kaybeden'.",
+ "kokler": [
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "yok"
+  },
+  {
+   "kelime": "جَرَمَ",
+   "okunus": "cerame",
+   "kok": "جرم",
+   "kokAnlam": "kesinlik, şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "أَنَّهُمْ",
+   "okunus": "ennehüm",
+   "kok": "—",
+   "kokAnlam": "te'kid, onlar ki",
+   "karsilik": "onlar ki"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "-de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْءَاخِرَةِ",
+   "okunus": "el'âhırati",
+   "kok": "أخر",
+   "kokAnlam": "sonrası, ahiret",
+   "karsilik": "ahirette"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "kendileri",
+   "karsilik": "kendileri"
+  },
+  {
+   "kelime": "ٱلْأَخْسَرُونَ",
+   "okunus": "el'ahserûne",
+   "kok": "خسر",
+   "kokAnlam": "kayıp, zarar",
+   "karsilik": "en büyük kaybedenlerdir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet, bu kişilerin kendilerini ve dayandıkları uydurmaları kaybettiğini söylemişti; bu ayet, bu kaybın büyüklüğünü kesin bir dille pekiştirerek onları 'en büyük kaybedenler' olarak niteler.",
+  "Klasik tefsir, dünyadaki kayıpların (mal, itibar, sağlık) telafi edilebilir olduğunu, ama ahiretteki kaybın telafisi olmadığını, bu yüzden 'en büyük' sıfatının burada kullanıldığını açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "18:103",
+   "meal": "De ki: Size, yaptıkları işler bakımından en çok kayba uğrayanları haber verelim mi?",
+   "baglanti": "11:22'deki 'en büyük kaybedenler' ifadesiyle aynı kökü (خسر) paylaşır; Kehf suresinde bu kaybın boşa giden amellerle açıklanmasına zemin hazırlar."
+  },
+  {
+   "ref": "39:15",
+   "meal": "...De ki: Gerçek kaybedenler, kıyamet günü hem kendilerini hem ailelerini ziyan edenlerdir. Dikkat edin, işte bu apaçık kayıptır.",
+   "baglanti": "11:22'deki kesinlik vurgusunu paylaşır; kaybın sadece kişiyi değil yakınlarını da kapsayabileceğini ekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah'a yalan isnat edip insanları yoldan çevirenlerin ahiretteki kaybının, dünyadaki hiçbir kayıpla kıyaslanamayacak kadar büyük olduğudur.",
+  "Buradan çıkan ders, kısa vadeli kazançlar için uzun vadeli ve telafisi olmayan bir şeyi riske atmamak gerektiğidir; bugün, geçici bir menfaat için kalıcı bir değerden (güven, dürüstlük, huzur) taviz verip vermediğini düşünmek yerinde olur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kalıcıyı geçiciye feda etme",
+   "aciklama": "Bugün küçük bir kazanç için kalıcı bir değerinden ödün vermekten kaçın."
+  },
+  {
+   "baslik": "Büyük resmi gör",
+   "aciklama": "Bir kararını verirken sadece bugünü değil, uzun vadeli sonucunu da düşün."
+  },
+  {
+   "baslik": "Telafisi olanı önceliklendir",
+   "aciklama": "Bugün telafisi mümkün olmayan bir riske girmekten kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararını verirken, önce uzun vadede seni ne kadar etkileyeceğini sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=22"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/11/22"
+  }
+ ]
+}

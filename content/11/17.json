@@ -1,0 +1,327 @@
+{
+ "sure": 11,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "Peki Rabbinden apaçık bir delil üzerinde olan, arkasından O'ndan bir şahidin izlediği, ondan önce de Mûsâ'nın kitabı bir önder ve rahmet olarak bulunan kimse [inkâr edenle bir midir]? İşte onlar ona iman ederler. Gruplardan her kim onu inkâr ederse, ateş onun vaad edilen yeridir. Öyleyse sen ondan asla kuşku içinde olma; şüphesiz o, Rabbinden gelen haktır, fakat insanların çoğu iman etmez.",
+ "mealNotu": "'Efemen' ile başlayan cümlenin karşılaştırma tarafı Arapçada söylenmeden bırakılmıştır (hazif); bu boşluk [inkâr edenle bir midir] şeklinde köşeli parantezle tamamlandı. 'Şâhid' (شهد) kökü tanıklık etmeyi, 'beyyine' (بين) kökü açık delili anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَفَمَن",
+   "okunus": "efemen",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, soru",
+   "karsilik": "peki kim"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma, bulunma",
+   "karsilik": "olursa"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerinde",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "بَيِّنَةٍ",
+   "okunus": "beyyinetin",
+   "kok": "بين",
+   "kokAnlam": "açık delil, kanıt",
+   "karsilik": "apaçık bir delil"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّهِۦ",
+   "okunus": "rabbihî",
+   "kok": "ربب",
+   "kokAnlam": "Rab, terbiye eden",
+   "karsilik": "Rabbinden"
+  },
+  {
+   "kelime": "وَيَتْلُوهُ",
+   "okunus": "ve yetlûhü",
+   "kok": "تلو",
+   "kokAnlam": "peşinden gelme, izleme",
+   "karsilik": "ve onu izleyen"
+  },
+  {
+   "kelime": "شَاهِدٌ",
+   "okunus": "şâhidün",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik, tanıklık",
+   "karsilik": "bir şahit"
+  },
+  {
+   "kelime": "مِّنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "ondan",
+   "karsilik": "O'ndan"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve min",
+   "kok": "—",
+   "kokAnlam": "ve -den",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "قَبْلِهِۦ",
+   "okunus": "kablihî",
+   "kok": "قبل",
+   "kokAnlam": "önce, öncesi",
+   "karsilik": "ondan önce de"
+  },
+  {
+   "kelime": "كِتَٰبُ",
+   "okunus": "kitâbü",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "kitabı"
+  },
+  {
+   "kelime": "مُوسَىٰٓ",
+   "okunus": "mûsâ",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "Mûsâ'nın"
+  },
+  {
+   "kelime": "إِمَامًا",
+   "okunus": "imâmen",
+   "kok": "أمم",
+   "kokAnlam": "öncülük, önderlik",
+   "karsilik": "bir önder olarak"
+  },
+  {
+   "kelime": "وَرَحْمَةً",
+   "okunus": "ve rahmeten",
+   "kok": "رحم",
+   "kokAnlam": "merhamet",
+   "karsilik": "ve bir rahmet olarak"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "işaret, o kimseler",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "iman etme, güvenme",
+   "karsilik": "iman ederler"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "ve kim",
+   "karsilik": "ve kim ki"
+  },
+  {
+   "kelime": "يَكْفُرْ",
+   "okunus": "yekfür",
+   "kok": "كفر",
+   "kokAnlam": "inkâr, örtme",
+   "karsilik": "inkâr ederse"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْأَحْزَابِ",
+   "okunus": "el'ahzâbi",
+   "kok": "حزب",
+   "kokAnlam": "grup, hizip, taraf",
+   "karsilik": "gruplardan"
+  },
+  {
+   "kelime": "فَٱلنَّارُ",
+   "okunus": "fen nâru",
+   "kok": "نور",
+   "kokAnlam": "ateş, alev",
+   "karsilik": "ateş"
+  },
+  {
+   "kelime": "مَوْعِدُهُۥ",
+   "okunus": "mev'idühû",
+   "kok": "وعد",
+   "kokAnlam": "vaat, sözleşilen zaman/yer",
+   "karsilik": "onun vaad edilen yeridir"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "öyleyse asla"
+  },
+  {
+   "kelime": "تَكُ",
+   "okunus": "tekü",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olma"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "مِرْيَةٍ",
+   "okunus": "miryetin",
+   "kok": "مري",
+   "kokAnlam": "şüphe, kuşku",
+   "karsilik": "kuşku"
+  },
+  {
+   "kelime": "مِّنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "إِنَّهُ",
+   "okunus": "innehü",
+   "kok": "—",
+   "kokAnlam": "te'kid, şüphesiz o",
+   "karsilik": "şüphesiz o"
+  },
+  {
+   "kelime": "ٱلْحَقُّ",
+   "okunus": "elhakku",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçek",
+   "karsilik": "haktır"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّكَ",
+   "okunus": "rabbike",
+   "kok": "ربب",
+   "kokAnlam": "Rab, terbiye eden",
+   "karsilik": "Rabbinden"
+  },
+  {
+   "kelime": "وَلَٰكِنَّ",
+   "okunus": "ve lâkinne",
+   "kok": "—",
+   "kokAnlam": "fakat, te'kid",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "أَكْثَرَ",
+   "okunus": "eksera",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "çoğu"
+  },
+  {
+   "kelime": "ٱلنَّاسِ",
+   "okunus": "ennâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanların"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "iman etme, güvenme",
+   "karsilik": "iman etmezler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetler (11:15-16), sadece dünya hayatını isteyip ahirete inanmayanların çabalarının boşa gideceğini anlatmıştı; bu ayet karşıt bir örnek sunar: Rabbinden apaçık bir delil üzere olan, bu delili destekleyen bir şahidi ve önceden inmiş Mûsâ'nın kitabını kendisine dayanak bulan kimsenin durumu, sadece dünyayı isteyenden farklıdır.",
+  "Klasik tefsir, 'şâhid'i Kur'an'ın kendi iç tutarlılığı, Hz. Peygamber'in fıtratındaki doğruluk ya da meleğin tanıklığı olarak açıklar; 'ondan önce Mûsâ'nın kitabı' ifadesi Tevrat'ın da aynı temel mesajı taşıdığını, Kur'an'ın yalnız başına değil önceki vahiylerle de doğrulandığını hatırlatır. Sonuç, insanların çoğunun bunca delile rağmen iman etmemesidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:121",
+   "meal": "Kendilerine kitap verdiklerimiz, onu hakkını vererek okurlar; işte onlar ona iman ederler. Kim onu inkâr ederse, işte onlar hüsrana uğrayanların ta kendileridir.",
+   "baglanti": "11:17'deki 'işte onlar ona iman ederler, kim inkâr ederse' ifadesiyle neredeyse aynı kalıbı kullanır; kitaba gerçekten bağlı kalanların onu tanıyıp iman ettiğini vurgular."
+  },
+  {
+   "ref": "46:12",
+   "meal": "Ondan önce de, bir önder ve rahmet olarak Mûsâ'nın kitabı vardı. Bu da, zulmedenleri uyarmak ve iyilik edenlere müjde olmak üzere Arapça bir dille, kendinden öncekini doğrulayan bir kitaptır.",
+   "baglanti": "11:17'de geçen 'ondan önce Mûsâ'nın kitabı, bir önder ve rahmet olarak' ifadesini birebir tekrarlayıp Kur'an'ın Tevrat'ı doğrulayan bir kitap olduğunu netleştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın tek başına değil; hem kendi iç delili hem de kendisinden önceki vahiyle desteklenen bir kitap olduğu, buna rağmen çoğu insanın iman etmediğidir.",
+  "Buradan çıkan ders, bir gerçeği kabul etmenin çoklu delile rağmen bazen isteğe bağlı kaldığıdır; bugün önüne konan açık bir gerçeği, kanıt yetersizliğinden değil kabullenmek istemediğin için reddedip reddetmediğini sorgulaman iyi bir öz muhasebe olur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Delili kabul et",
+   "aciklama": "Bugün bir konuda önüne net bir delil geldiğinde, işine gelmiyor diye görmezden gelme."
+  },
+  {
+   "baslik": "Şüpheyi kalıcı hale getirme",
+   "aciklama": "İnandığın bir konuda kalıcı kuşkuya kapılmak yerine, delillere geri dön ve kararını tazele."
+  },
+  {
+   "baslik": "Çoğunluğa değil delile bak",
+   "aciklama": "Bugün bir kararını, çoğunluğun ne yaptığına değil elindeki doğru bilgiye göre ver."
+  }
+ ],
+ "bugununAdimi": "Bugün inandığın bir konudaki delilleri bir kez daha gözden geçirip kararını netleştir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/11/17"
+  }
+ ]
+}

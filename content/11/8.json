@@ -1,0 +1,208 @@
+{
+ "sure": 11,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "Andolsun, eğer onlardan azabı sayılı bir süreye kadar geciktirirsek, 'Onu alıkoyan nedir?' derler. İyi bilin ki, o [azap] onlara geldiği gün, kendilerinden çevrilecek değildir ve alay etmekte oldukları şey onları çepeçevre kuşatır.",
+ "mealNotu": "'Ehharnâ' (أخر) geciktirme, 'hâka' (حيق) çepeçevre kuşatma, 'yestehziûn' (هزأ) ise alay etme kökündendir; '[azap]' anlamı tamamlamak için köşeli parantez içinde eklendi. Ayet, azabın gecikmesinin inkârcılara bir hafiflik değil, geldiğinde kaçış olmayan bir kuşatma getireceğini bildirir.",
+ "kokler": [
+  {
+   "kelime": "وَلَئِنْ",
+   "okunus": "ve lein",
+   "kok": "—",
+   "kokAnlam": "şart",
+   "karsilik": "ve andolsun eğer"
+  },
+  {
+   "kelime": "أَخَّرْنَا",
+   "okunus": "ehharnâ",
+   "kok": "أخر",
+   "kokAnlam": "geciktirme",
+   "karsilik": "geciktirirsek"
+  },
+  {
+   "kelime": "عَنْهُمْ",
+   "okunus": "anhümü",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "ٱلْعَذَابَ",
+   "okunus": "el'azâbe",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "azabı"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "-e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "أُمَّةٍ",
+   "okunus": "ümmetin",
+   "kok": "أمم",
+   "kokAnlam": "topluluk, süre",
+   "karsilik": "bir süreye"
+  },
+  {
+   "kelime": "مَّعْدُودَةٍ",
+   "okunus": "ma'dûdetin",
+   "kok": "عدد",
+   "kokAnlam": "sayma",
+   "karsilik": "sayılı"
+  },
+  {
+   "kelime": "لَّيَقُولُنَّ",
+   "okunus": "leyekûlünne",
+   "kok": "قول",
+   "kokAnlam": "deme",
+   "karsilik": "mutlaka derler"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "يَحْبِسُهُۥٓ",
+   "okunus": "yahbisühû",
+   "kok": "حبس",
+   "kokAnlam": "alıkoyma",
+   "karsilik": "onu alıkoyan"
+  },
+  {
+   "kelime": "أَلَا",
+   "okunus": "elâ",
+   "kok": "—",
+   "kokAnlam": "dikkat çekme",
+   "karsilik": "iyi bilin ki"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "يَأْتِيهِمْ",
+   "okunus": "ye'tîhim",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "onlara geldiği"
+  },
+  {
+   "kelime": "لَيْسَ",
+   "okunus": "leyse",
+   "kok": "ليس",
+   "kokAnlam": "olumsuzluk (değildir)",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "مَصْرُوفًا",
+   "okunus": "masrûfen",
+   "kok": "صرف",
+   "kokAnlam": "çevirme, döndürme",
+   "karsilik": "çevrilecek"
+  },
+  {
+   "kelime": "عَنْهُمْ",
+   "okunus": "anhüm",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "وَحَاقَ",
+   "okunus": "ve hâka",
+   "kok": "حيق",
+   "kokAnlam": "kuşatma, çepeçevre sarma",
+   "karsilik": "ve kuşatır"
+  },
+  {
+   "kelime": "بِهِم",
+   "okunus": "bihim",
+   "kok": "—",
+   "kokAnlam": "onları",
+   "karsilik": "onları"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldukları"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "يَسْتَهْزِءُونَ",
+   "okunus": "yestehziûne",
+   "kok": "هزأ",
+   "kokAnlam": "alay etme",
+   "karsilik": "alay etmekte"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet yeniden dirilmeyi inkârcıların 'apaçık bir büyü' diye reddettiğini anlatmıştı; bu ayet o inkârın bir uzantısını gösterir: azap ertelendiğinde bunu bir zayıflık sanıp alaycı bir şekilde 'onu alıkoyan nedir?' diye sorarlar.",
+  "Klasik tefsir, azabın geciktirilmesini Allah'ın mühlet vermesi olarak açıklar; bu mühlet bir kurtuluş değildir, çünkü azap geldiğinde geri çevrilemez ve vaktiyle alay ettikleri şey onları tam olarak kuşatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:53",
+   "meal": "Senden azabı çabuklaştırmanı istiyorlar. Eğer belirlenmiş bir süre olmasaydı, azap elbette onlara gelirdi; o, onlara farkında değillerken ansızın gelecektir.",
+   "baglanti": "11:8'deki 'azabın sayılı bir süreye kadar geciktirilmesi' temasını, aynı erteleme mantığıyla ('ecelün müsemmen') tamamlar."
+  },
+  {
+   "ref": "16:34",
+   "meal": "Böylece yaptıklarının kötü sonuçları onlara isabet etti ve alay etmekte oldukları şey onları çepeçevre kuşattı.",
+   "baglanti": "11:8'in son cümlesiyle ('ve hâka bihim mâ kânû bihî yestehziûn') birebir aynı ifadeyi taşıyarak, alayın sonunda kuşatan azaba dönüştüğünü teyit eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, azabın gecikmesinin inkârcılar için bir kurtuluş olmadığı, aksine geldiğinde kaçışı olmayan bir gerçek olduğudur.",
+  "Bugüne taşınan ders, bir şeyin hemen gerçekleşmemesini onun gerçekleşmeyeceği anlamına almamaktır; sonucu ertelenen bir uyarıyı hafife almadan, zamanı bir fırsat olarak değerlendirmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ertelemeyi fırsat bil",
+   "aciklama": "Bugün önemli bir kararını ertelemek yerine, verilen zamanı iyi değerlendir."
+  },
+  {
+   "baslik": "Hafife almaktan kaçın",
+   "aciklama": "Bugün bir uyarıyı, hemen sonuç görmediğin için önemsiz sayma."
+  },
+  {
+   "baslik": "Alayı bırak, ciddiyeti seç",
+   "aciklama": "Bugün bir konuda alaycı bir tavır yerine, ciddi ve düşünceli bir yaklaşım benimse."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin önemli bir konuyu, zamanı boşa harcamadan bir adım ileri götür.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/11/8"
+  }
+ ]
+}

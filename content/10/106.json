@@ -1,0 +1,166 @@
+{
+ "sure": 10,
+ "ayet": 106,
+ "durum": "taslak",
+ "meal": "Allah'ı bırakıp sana fayda vermeyecek, zarar da vermeyecek şeye yalvarma/çağırma. Eğer böyle yaparsan, o zaman şüphesiz sen zalimlerden olursun.",
+ "mealNotu": "'Ted'u' (دعو) kökü çağırma/dua etme, 'yenfeu/yedurru' (نفع/ضرر) fayda-zarar karşıtlığını, 'zâlimîn' (ظلم) ise haddi aşmayı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "تَدْعُ",
+   "okunus": "ted'u",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, dua etme",
+   "karsilik": "çağırma"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِ",
+   "okunus": "dûni",
+   "kok": "دون",
+   "kokAnlam": "başka, aşağı",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "Allah, ilah",
+   "karsilik": "Allah'ı"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "...mayan"
+  },
+  {
+   "kelime": "يَنفَعُكَ",
+   "okunus": "yenfeuke",
+   "kok": "نفع",
+   "kokAnlam": "fayda verme",
+   "karsilik": "sana fayda vermeyen"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve ...mayan"
+  },
+  {
+   "kelime": "يَضُرُّكَ",
+   "okunus": "yedurruke",
+   "kok": "ضرر",
+   "kokAnlam": "zarar verme",
+   "karsilik": "sana zarar vermeyen"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "şart",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "فَعَلْتَ",
+   "okunus": "fealte",
+   "kok": "فعل",
+   "kokAnlam": "yapma",
+   "karsilik": "yaparsan"
+  },
+  {
+   "kelime": "فَإِنَّكَ",
+   "okunus": "feinneke",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "işte o zaman şüphesiz sen"
+  },
+  {
+   "kelime": "إِذًا",
+   "okunus": "izen",
+   "kok": "—",
+   "kokAnlam": "o takdirde",
+   "karsilik": "o takdirde"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-densin"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمِينَ",
+   "okunus": "ezzâlimîne",
+   "kok": "ظلم",
+   "kokAnlam": "zulüm, haksızlık",
+   "karsilik": "zalimlerden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet (105), Peygamber'e yüzünü dosdoğru dine çevirmesini ve müşriklerden olmamasını emretmişti; bu ayet aynı temayı sürdürerek, Allah'tan başka fayda ya da zarar veremeyecek varlıklara yönelmenin anlamsızlığını hatırlatır.",
+  "Klasik tefsir, bu ayeti tevhidin temel ilkesi olarak açıklar: putlar ne bir fayda sağlayabilir ne de bir zarardan koruyabilir; bu nedenle onlara yönelmek, kişiyi 'zalimler' sınıfına sokan bir haksızlıktır — çünkü ibadeti, hak sahibi olmayan bir varlığa yöneltmektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "21:66",
+   "meal": "(İbrahim) dedi ki: 'Size hiçbir fayda sağlamayan ve zarar da vermeyen şeylere, Allah'ı bırakıp tapıyor musunuz?'",
+   "baglanti": "10:106'daki fayda-zarar veremeyen varlıklara çağırmama ilkesini, İbrahim'in kavmine yönelttiği aynı soruyla ('yenfeu/yedurru' kökleri) somutlaştırır."
+  },
+  {
+   "ref": "5:76",
+   "meal": "De ki: 'Allah'ı bırakıp, size ne bir zarar ne de bir fayda vermeye gücü yetmeyen şeye mi tapıyorsunuz? Oysa Allah, işitendir, bilendir.'",
+   "baglanti": "Hz. İsa'ya tapınmayı reddeden bu ayet, 10:106'daki 'fayda-zarar veremeyen şeye çağırmama' ilkesini aynı kök çiftiyle (نفع-ضرر) doğrudan destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah'tan başka fayda ya da zarar veremeyecek varlıklara -putlara, aracılara- yönelmenin bir haksızlık olduğudur.",
+  "Bugüne taşınabilecek ders, insanın gücünün yetmediği şeylerden medet ummak yerine, gerçek etkiye sahip olan Allah'a yönelmesidir; bir işte kimin fayda-zarar verebileceğini doğru tespit etmek, boş beklentilerden kurtulmayı sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gerçek kaynağı ayırt et",
+   "aciklama": "Bugün bir konuda kimden medet umduğunu düşün; gerçek fayda ve zararın Allah'ın elinde olduğunu hatırla."
+  },
+  {
+   "baslik": "Boş bağlılıklardan uzaklaş",
+   "aciklama": "Bugün sana fayda ya da zarar veremeyecek bir şeye aşırı güven duyup duymadığını gözden geçir."
+  },
+  {
+   "baslik": "Duanı doğru yöne çevir",
+   "aciklama": "Bugün bir ihtiyacın için doğrudan Allah'a yönel, aracı aramadan dua et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ihtiyacını, aracısız olarak doğrudan Allah'a arz ederek dua et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=106"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/106"
+  }
+ ]
+}

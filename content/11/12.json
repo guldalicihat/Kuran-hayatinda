@@ -1,0 +1,243 @@
+{
+ "sure": 11,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Belki de sen, 'Ona bir hazine indirilseydi ya, yahut onunla beraber bir melek gelseydi ya' demeleri yüzünden, sana vahyedilenin bir kısmını bırakacak ve göğsün daralacak [gibisin]. [Oysa] sen ancak bir uyarıcısın; Allah ise her şeye vekildir.",
+ "mealNotu": "'Târik' (ترك) bırakma, 'dâik' (ضيق) daralma, 'nezîr' (نذر) uyarma köklerindendir; '[gibisin]' ve '[Oysa]' ifadeleri, cümlenin bir üzüntü tasvirinin retorik biçimi olduğunu göstermek için köşeli parantez içinde eklendi.",
+ "kokler": [
+  {
+   "kelime": "فَلَعَلَّكَ",
+   "okunus": "felealleke",
+   "kok": "—",
+   "kokAnlam": "te'kid (belki)",
+   "karsilik": "belki de sen"
+  },
+  {
+   "kelime": "تَارِكٌۢ",
+   "okunus": "târiküm",
+   "kok": "ترك",
+   "kokAnlam": "bırakma, terk etme",
+   "karsilik": "bırakacaksın"
+  },
+  {
+   "kelime": "بَعْضَ",
+   "okunus": "ba'da",
+   "kok": "بعض",
+   "kokAnlam": "bir kısım",
+   "karsilik": "bir kısmını"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi",
+   "karsilik": "-in"
+  },
+  {
+   "kelime": "يُوحَىٰٓ",
+   "okunus": "yûhâ",
+   "kok": "وحي",
+   "kokAnlam": "vahyetme",
+   "karsilik": "vahyedilenin"
+  },
+  {
+   "kelime": "إِلَيْكَ",
+   "okunus": "ileyke",
+   "kok": "—",
+   "kokAnlam": "sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "وَضَآئِقٌۢ",
+   "okunus": "ve dâikum",
+   "kok": "ضيق",
+   "kokAnlam": "daralma",
+   "karsilik": "ve daralacak"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "onunla",
+   "karsilik": "ondan dolayı"
+  },
+  {
+   "kelime": "صَدْرُكَ",
+   "okunus": "sadruke",
+   "kok": "صدر",
+   "kokAnlam": "göğüs, kalp",
+   "karsilik": "göğsün"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "bağlaç",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "يَقُولُوا۟",
+   "okunus": "yekûlû",
+   "kok": "قول",
+   "kokAnlam": "deme",
+   "karsilik": "demeleri"
+  },
+  {
+   "kelime": "لَوْلَآ",
+   "okunus": "levlâ",
+   "kok": "—",
+   "kokAnlam": "teşvik, keşke",
+   "karsilik": "keşke ...olsaydı"
+  },
+  {
+   "kelime": "أُنزِلَ",
+   "okunus": "ünzile",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirilseydi"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "كَنزٌ",
+   "okunus": "kenzün",
+   "kok": "كنز",
+   "kokAnlam": "hazine",
+   "karsilik": "bir hazine"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "bağlaç",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "جَآءَ",
+   "okunus": "câe",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "gelseydi"
+  },
+  {
+   "kelime": "مَعَهُۥ",
+   "okunus": "meahû",
+   "kok": "—",
+   "kokAnlam": "onunla beraber",
+   "karsilik": "onunla beraber"
+  },
+  {
+   "kelime": "مَلَكٌ",
+   "okunus": "melekün",
+   "kok": "ملك",
+   "kokAnlam": "melek",
+   "karsilik": "bir melek"
+  },
+  {
+   "kelime": "إِنَّمَآ",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "te'kid (sadece)",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "أَنتَ",
+   "okunus": "ente",
+   "kok": "—",
+   "kokAnlam": "sen",
+   "karsilik": "sen"
+  },
+  {
+   "kelime": "نَذِيرٌ",
+   "okunus": "nezîrun",
+   "kok": "نذر",
+   "kokAnlam": "uyarma",
+   "karsilik": "bir uyarıcısın"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "ve Allah"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "كُلِّ",
+   "okunus": "külli",
+   "kok": "كلل",
+   "kokAnlam": "her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "şeye"
+  },
+  {
+   "kelime": "وَكِيلٌ",
+   "okunus": "vekîlün",
+   "kok": "وكل",
+   "kokAnlam": "vekil, koruyucu",
+   "karsilik": "vekildir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet sabredip salih amel işleyenlere bağışlanma vaad etmişti; bu ayet Peygamber'e döner ve inkârcıların 'hazine indirilseydi, melek gelseydi' türünden itirazları karşısında yaşadığı üzüntüyü hafifletmeyi amaçlar.",
+  "Klasik tefsir, bu ayeti Peygamber'e yönelik şefkatli bir teselli olarak açıklar: O'nun görevi mucize getirmek ya da inkârcıları ikna etmek değil, yalnızca uyarmaktır; sonucu belirleyen ve her şeye vekil olan Allah'tır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:97",
+   "meal": "Andolsun, onların söyledikleri yüzünden göğsünün daraldığını biliyoruz.",
+   "baglanti": "11:12'deki 'göğsün daralacak' ifadesiyle ('dâikum bihî sadruke') aynı kökü (ضيق/صدر) paylaşarak, Peygamber'in bu üzüntüsünün Allah tarafından bilindiğini ve teselli edildiğini gösterir."
+  },
+  {
+   "ref": "25:7",
+   "meal": "Dediler ki: 'Bu nasıl peygamber ki yemek yiyor, çarşılarda dolaşıyor? Ona bir melek indirilseydi de kendisiyle beraber bir uyarıcı olsaydı ya!'",
+   "baglanti": "11:12'deki 'onunla beraber bir melek gelseydi ya' itirazıyla ('câe meahû melekün') aynı temayı paylaşarak, inkârcıların benzer maddi mucize taleplerini örnekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in inkârcıların itirazları karşısında yaşadığı üzüntünün Allah tarafından bilindiği ve O'na sadece uyarıcı olma görevinin hatırlatıldığıdır.",
+  "Bugüne taşınan ders, başkalarını ikna edememenin veya eleştirilmenin verdiği üzüntüyü büyütmeden, kendi görevini -doğruyu anlatmayı- yapmaya devam etmektir; sonucu kontrol etmenin kendi elinde olmadığını kabullenmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Görevini hatırla",
+   "aciklama": "Bugün bir konuda ikna edemediğin biri için üzülmek yerine, görevinin sadece anlatmak olduğunu hatırla."
+  },
+  {
+   "baslik": "Sonucu bırak",
+   "aciklama": "Bugün elinde olmayan bir sonucu kontrol etmeye çalışmaktan vazgeç, gayretini yap ve bırak."
+  },
+  {
+   "baslik": "Üzüntüyü paylaş",
+   "aciklama": "Bugün içini daraltan bir eleştiriyi, dua ederek Allah'a aç."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda ikna edemediğin kişi için üzülmek yerine, görevini yaptığını bilerek içini rahatlat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/11/12"
+  }
+ ]
+}
