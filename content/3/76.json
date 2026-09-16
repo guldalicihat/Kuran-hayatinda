@@ -1,0 +1,117 @@
+{
+ "sure": 3,
+ "ayet": 76,
+ "durum": "taslak",
+ "meal": "Hayır, [sorumluluk vardır]! Kim ahdine vefa gösterir ve sakınırsa, şüphesiz Allah sakınanları sever.",
+ "mealNotu": "'Belâ' kelimesi, önceki ayetteki 'bize sorumluluk yoktur' iddiasını reddeden bir cevap edatıdır; parantez içi ekleme bu cevabı açık kılmak içindir. 'Vefa' kökü bir sözü eksiksiz yerine getirmeyi, 'ittika' kökü ise sakınmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "بَلَىٰ",
+   "okunus": "belâ",
+   "kok": "—",
+   "kokAnlam": "(cevap edatı) hayır, bilakis",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "مَنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(şart) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "أَوْفَىٰ",
+   "okunus": "evfâ",
+   "kok": "وفي",
+   "kokAnlam": "tam yerine getirme, vefa gösterme",
+   "karsilik": "vefa gösterirse"
+  },
+  {
+   "kelime": "بِعَهْدِهِۦ",
+   "okunus": "biahdihî",
+   "kok": "عهد",
+   "kokAnlam": "söz, antlaşma",
+   "karsilik": "ahdine"
+  },
+  {
+   "kelime": "وَٱتَّقَىٰ",
+   "okunus": "vettekâ",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "ve sakınırsa"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يُحِبُّ",
+   "okunus": "yühibbü",
+   "kok": "حبب",
+   "kokAnlam": "sevme",
+   "karsilik": "sever"
+  },
+  {
+   "kelime": "ٱلْمُتَّقِينَ",
+   "okunus": "elmüttekîne",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma; sakınanlar",
+   "karsilik": "sakınanları"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayette geçen 'ümmîlere karşı bize sorumluluk yoktur' iddiasına verilen kısa ve kesin bir cevaptır. 'Belâ' kelimesi, olumsuz bir iddiayı reddeden bir cevap edatıdır. Ayet, sorumluluğu 'ahdine vefa gösterme' ve 'sakınma' ölçütüne bağlar.",
+  "'Vefa' kökü, bir sözü eksiksiz yerine getirmeyi anlatır; 'ittika' kökü ise Allah'ın sınırlarını gözeterek kendini koruma altına almayı ifade eder. Ayet, bu iki niteliği taşıyan herkesin -kime karşı olursa olsun- Allah'ın sevgisine layık olduğunu bildirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:177",
+   "meal": "...Antlaşma yaptıklarında sözlerini yerine getirenler... işte bunlar doğru olanlardır; işte bunlar Allah'a karşı gelmekten sakınanlardır.",
+   "baglanti": "Bu ayet, vefa ve takvayı birlikte anıp iyilik (birr) tanımının bir parçası yapar; 3:76'daki iki nitelik burada da birlikte geçer."
+  },
+  {
+   "ref": "13:20",
+   "meal": "Onlar, Allah'a verdikleri sözü yerine getirenler ve antlaşmayı bozmayanlardır.",
+   "baglanti": "Ahde vefa göstermek, burada da imanlı kişilerin bir özelliği olarak sayılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, verilen sözün ve dinî sorumluluğun belirli bir gruba karşı sınırlandırılamayacağıdır.",
+  "Buradan çıkarılabilecek ders, sözünü kime verdiğine bakmaksızın yerine getirmektir. Vefa ve sakınma, karşındaki kişinin kimliğine göre değişen bir ölçü değildir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü herkese karşı tut",
+   "aciklama": "Bugün kime söz verdiğine bakmaksızın, verdiğin bir sözü eksiksiz yerine getir."
+  },
+  {
+   "baslik": "Sınırlamayı gözden geçir",
+   "aciklama": "'Bu kişiye karşı sorumluluğum yok' dediğin bir ilişkiyi bugün yeniden düşün."
+  },
+  {
+   "baslik": "Küçük bir vefa göster",
+   "aciklama": "Unuttuğun küçük bir sözü bugün hatırlayıp yerine getir."
+  }
+ ],
+ "bugununAdimi": "Bugün, kiminle yaptığına bakmaksızın, unuttuğun küçük bir sözü hatırlayıp yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=76"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/76"
+  }
+ ]
+}

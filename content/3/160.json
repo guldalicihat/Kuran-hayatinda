@@ -1,0 +1,180 @@
+{
+ "sure": 3,
+ "ayet": 160,
+ "durum": "taslak",
+ "meal": "Allah size yardım ederse, sizi yenecek yoktur. Eğer sizi yardımsız bırakırsa, ondan sonra size kim yardım edebilir? Müminler yalnız Allah'a tevekkül etsinler.",
+ "mealNotu": "'Hazl' kökü yardımsız bırakmayı, terk etmeyi anlatır; 'nasr' kökünün zıttı gibi kullanılır. Cümle, iki uç durumu (yardım ve yardımsızlık) karşılaştırarak tevekküde varır.",
+ "kokler": [
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يَنصُرُكُم",
+   "okunus": "yensurkümü",
+   "kok": "نصر",
+   "kokAnlam": "yardım etme",
+   "karsilik": "size yardım ederse"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yoktur",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "غَالِبَ",
+   "okunus": "gâlibe",
+   "kok": "غلب",
+   "kokAnlam": "üstün gelme, yenme",
+   "karsilik": "yenecek"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) ve eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يَخْذُلْكُمْ",
+   "okunus": "yahzülküm",
+   "kok": "خذل",
+   "kokAnlam": "yardımsız bırakma, terk etme",
+   "karsilik": "sizi yardımsız bırakırsa"
+  },
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(soru) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "ذَا",
+   "okunus": "zâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olan",
+   "karsilik": "olan"
+  },
+  {
+   "kelime": "يَنصُرُكُم",
+   "okunus": "yensuruküm",
+   "kok": "نصر",
+   "kokAnlam": "yardım etme",
+   "karsilik": "size yardım edebilir"
+  },
+  {
+   "kelime": "مِّنۢ",
+   "okunus": "mim",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِهِۦ",
+   "okunus": "ba'dihî",
+   "kok": "بعد",
+   "kokAnlam": "sonra olma",
+   "karsilik": "ondan sonra"
+  },
+  {
+   "kelime": "وَعَلَى",
+   "okunus": "ve alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "فَلْيَتَوَكَّلِ",
+   "okunus": "felyetevekkeli",
+   "kok": "وكل",
+   "kokAnlam": "işi bırakma, tevekkül",
+   "karsilik": "tevekkül etsin"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنُونَ",
+   "okunus": "elmü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman etme",
+   "karsilik": "müminler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayet, karar verildikten sonra Allah'a tevekkül etmeyi öğütlemişti; bu ayet tevekkülün dayanağını açıklar. 'Nasr' ve 'hazl' kelimeleri, yardım etme ve yardımsız bırakma olarak karşıt bir çift oluşturur.",
+  "Ayet, Uhud'da yaşanan geçici zorluğun ardından, gerçek gücün kimde olduğunu hatırlatır: Allah yardım ederse hiçbir güç yenemez; O yardımsız bırakırsa hiçbir güç yardım edemez. Bu, müminlerin güven kaynağını netleştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "8:10",
+   "meal": "Allah bunu sadece bir müjde olsun ve kalpleriniz bununla yatışsın diye yaptı. Yardım, yalnız Allah katındandır. Şüphesiz Allah üstün ve güçlüdür, hüküm ve hikmet sahibidir.",
+   "baglanti": "Yardımın kaynağının yalnızca Allah olduğu vurgusu, Bedir bağlamında da aynı netlikte geçer."
+  },
+  {
+   "ref": "65:3",
+   "meal": "...Kim Allah'a tevekkül ederse, O ona yeter. Şüphesiz Allah, emrini yerine getirendir; Allah her şey için bir ölçü koymuştur.",
+   "baglanti": "Tevekkülün yeterliliği burada açıkça belirtilir; 3:160'taki 'kim yardım edebilir' sorusunun cevabıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu savaş meydanındaki güç dengesidir; ama 'gerçek yardımın kaynağı kimdir' sorusu her zorlukta geçerlidir. İnsan, elindeki imkanları kullanırken bile, nihai güvenin nereden geldiğini unutmamalıdır.",
+  "Bir işte destek bulamadığında umutsuzluğa kapılmak yerine, elindeki imkanlarla çalışmaya devam edip sonucu Allah'a bırakmak daha dengeli bir tutumdur. Bu, çabayı bırakmak değil, çabanın sonucuna aşırı bağlanmamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Destek arayışını dengele",
+   "aciklama": "Bugün bir konuda destek bulamazsan, elindeki imkanlarla devam etmeye çalış."
+  },
+  {
+   "baslik": "Aşırı bağlanmayı bırak",
+   "aciklama": "Bir sonuca aşırı bağlandığını fark edersen, bugün onu biraz gevşet ve elinden geleni yap."
+  },
+  {
+   "baslik": "Güven cümlesi kur",
+   "aciklama": "Bugün zor bir anda, 'Elimden geleni yaptım, gerisini bırakıyorum' diyebileceğin bir an yarat."
+  }
+ ],
+ "bugununAdimi": "Bugün elinden geleni yaptığın bir işin sonucunu, kaygılanmadan bırakmayı dene.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=160"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/160"
+  }
+ ]
+}

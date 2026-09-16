@@ -1,0 +1,96 @@
+{
+ "sure": 3,
+ "ayet": 138,
+ "durum": "taslak",
+ "meal": "Bu, insanlar için açık bir bildirimdir; takva sahipleri için de bir hidayet ve öğüttür.",
+ "mealNotu": "'Beyân' kökü (بين) açıklama, netleştirmedir; ayet bunu insanlar geneline, hidayet ve öğüdü ise özellikle takva sahiplerine tahsis eder.",
+ "kokler": [
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "بَيَانٌ",
+   "okunus": "beyânün",
+   "kok": "بين",
+   "kokAnlam": "açıklama, ortaya koyma",
+   "karsilik": "açık bir bildirimdir"
+  },
+  {
+   "kelime": "لِّلنَّاسِ",
+   "okunus": "lilnnâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanlar için"
+  },
+  {
+   "kelime": "وَهُدًى",
+   "okunus": "ve hüden",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu bulma, hidayet",
+   "karsilik": "ve bir hidayettir"
+  },
+  {
+   "kelime": "وَمَوْعِظَةٌ",
+   "okunus": "ve mev'izatün",
+   "kok": "وعظ",
+   "kokAnlam": "öğüt, nasihat",
+   "karsilik": "ve bir öğüttür"
+  },
+  {
+   "kelime": "لِّلْمُتَّقِينَ",
+   "okunus": "lilmüttekîne",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma; takva",
+   "karsilik": "takva sahipleri için"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu kısa ayet, önceki ayetlerdeki tarihsel ibret çağrısının hemen ardından, bu bildirimin kapsamını tanımlar: herkes için genel bir açıklama, ama takva sahipleri için özel bir hidayet ve öğüt. Bu ayrım, aynı mesajın farklı düzeylerde alınabileceğini gösterir.",
+  "'Beyân' herkese, 'hüdâ ve mev'iza' ise özellikle sakınanlara yöneliktir; bu, bilginin herkese ulaşmasına rağmen ondan gerçek fayda görmenin kişinin hazır oluşuna bağlı olduğunu ima eder. Klasik tefsir, bu ayeti sûrenin bu bölümünün bir kapanış cümlesi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:2",
+   "meal": "İşte bu kitap; onda hiç şüphe yoktur, takva sahipleri için yol göstericidir.",
+   "baglanti": "Bakara 2, Kur'an'ın takva sahipleri için özel bir hidayet olduğunu aynı vurguyla söyler; 138. ayetteki ayrımın Kur'an'ın genelindeki bir ilke olduğunu gösterir."
+  },
+  {
+   "ref": "14:52",
+   "meal": "Bu (Kur'an), kendisiyle uyarılsınlar, Allah'ın ancak tek bir ilah olduğunu bilsinler ve akıl sahipleri öğüt alsınlar diye insanlara bir bildirimdir.",
+   "baglanti": "İbrâhîm 52, Kur'an'ı benzer şekilde hem genel bir bildirim hem akıl sahipleri için bir öğüt olarak tanımlar; 138. ayetteki ikili yapıyı tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, önceki ayetlerdeki mesajın (Uhud kıssası ve ahlaki öğütler) kime, nasıl fayda vereceğidir; doğrudan bir dünya hükmü içermez.",
+  "Günlük hayata taşınacak ders, aynı bilgi veya öğüdün herkese ulaşsa da, ondan gerçek anlamda fayda görmenin kişinin kendi açıklığına ve hazır oluşuna bağlı olduğudur. Bir kişi, okuduğu veya duyduğu bir öğüdü sadece bilgi olarak değil, kendi hayatına rehber olarak almaya çalışabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir öğüdü kendine uygula",
+   "aciklama": "Bugün okuduğun veya duyduğun bir öğüdü, sadece bilgi olarak değil kendi hayatına uygulayarak değerlendir."
+  },
+  {
+   "baslik": "Anlayışını derinleştir",
+   "aciklama": "Bir konuda yüzeysel bilgiyle yetinmeyip, onu daha derinlemesine anlamak için zaman ayır."
+  },
+  {
+   "baslik": "Öğüdü paylaş",
+   "aciklama": "Bugün öğrendiğin faydalı bir dersi, uygun bir dille bir yakınınla paylaş."
+  }
+ ],
+ "bugununAdimi": "Bugün öğrendiğin bir öğüdü, sadece bilgi olarak bırakmayıp bir davranışına dönüştür.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=138"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/138"
+  }
+ ]
+}

@@ -1,0 +1,579 @@
+{
+ "sure": 3,
+ "ayet": 154,
+ "durum": "taslak",
+ "meal": "Sonra Allah, kederin ardından üzerinize bir güven indirdi: içinizden bir topluluğu örten bir uyku hali. Bir topluluk da canları derdine düşmüştü; Allah hakkında cahiliye zannı gibi gerçek dışı bir zan besliyorlardı. 'Bu işten bize ne var?' diyorlardı. De ki: 'Bütün iş Allah'ındır.' İçlerinde, sana açığa vurmadıkları şeyi gizliyorlardı. 'Bizim elimizde bir pay olsaydı burada öldürülmezdik' diyorlardı. De ki: 'Evlerinizde olsaydınız bile, üzerlerine ölüm yazılmış olanlar yine devrilecekleri yerlere çıkıp giderlerdi.' [Bu,] Allah'ın göğüslerinizdekini sınaması ve kalplerinizdekini arındırması içindir. Allah, göğüslerin özünü bilir.",
+ "mealNotu": "'Emene' ve 'nu'âs' kökleri güven ve hafif uyku hâlini anlatır. Köşeli parantezli '[Bu]' ifadesi, cümlenin amacını önceki bölüme bağlar.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "أَنزَلَ",
+   "okunus": "enzele",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdi"
+  },
+  {
+   "kelime": "عَلَيْكُم",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinize",
+   "karsilik": "üzerinize"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mim",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra olma",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ٱلْغَمِّ",
+   "okunus": "elgammi",
+   "kok": "غمم",
+   "kokAnlam": "keder, sıkıntı",
+   "karsilik": "keder"
+  },
+  {
+   "kelime": "أَمَنَةً",
+   "okunus": "emeneten",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet",
+   "karsilik": "bir güven"
+  },
+  {
+   "kelime": "نُّعَاسًا",
+   "okunus": "nüâsen",
+   "kok": "نعس",
+   "kokAnlam": "hafif uyku, uyuklama",
+   "karsilik": "uyku hali"
+  },
+  {
+   "kelime": "يَغْشَىٰ",
+   "okunus": "yağşâ",
+   "kok": "غشو",
+   "kokAnlam": "örtme, kaplama",
+   "karsilik": "örten"
+  },
+  {
+   "kelime": "طَآئِفَةً",
+   "okunus": "tâifeten",
+   "kok": "طوف",
+   "kokAnlam": "dolaşma, topluluk",
+   "karsilik": "bir topluluğu"
+  },
+  {
+   "kelime": "مِّنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizden",
+   "karsilik": "içinizden"
+  },
+  {
+   "kelime": "وَطَآئِفَةٌ",
+   "okunus": "ve tâifetün",
+   "kok": "طوف",
+   "kokAnlam": "dolaşma, topluluk",
+   "karsilik": "bir topluluk da"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "أَهَمَّتْهُمْ",
+   "okunus": "ehemmethüm",
+   "kok": "همم",
+   "kokAnlam": "kaygılandırma, önem verme",
+   "karsilik": "derdine düşürmüştü"
+  },
+  {
+   "kelime": "أَنفُسِهِم",
+   "okunus": "enfüsühüm",
+   "kok": "نفس",
+   "kokAnlam": "kişi, nefis, can",
+   "karsilik": "canları"
+  },
+  {
+   "kelime": "يَظُنُّونَ",
+   "okunus": "yezunnûne",
+   "kok": "ظنن",
+   "kokAnlam": "zan besleme, sanma",
+   "karsilik": "zan besliyorlardı"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah hakkında"
+  },
+  {
+   "kelime": "غَيْرَ",
+   "okunus": "gayra",
+   "kok": "غير",
+   "kokAnlam": "başkalık, -sız",
+   "karsilik": "dışı"
+  },
+  {
+   "kelime": "ٱلْحَقِّ",
+   "okunus": "elhakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, hak",
+   "karsilik": "gerçek"
+  },
+  {
+   "kelime": "ظَنَّ",
+   "okunus": "zanne",
+   "kok": "ظنن",
+   "kokAnlam": "zan, sanı",
+   "karsilik": "zannı gibi"
+  },
+  {
+   "kelime": "ٱلْجَٰهِلِيَّةِ",
+   "okunus": "elcâhiliyyeti",
+   "kok": "جهل",
+   "kokAnlam": "bilgisizlik, cahiliye",
+   "karsilik": "cahiliye"
+  },
+  {
+   "kelime": "يَقُولُونَ",
+   "okunus": "yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz",
+   "karsilik": "diyorlardı"
+  },
+  {
+   "kelime": "هَل",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "(soru) mı",
+   "karsilik": "var mı"
+  },
+  {
+   "kelime": "لَنَا",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) bize",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْأَمْرِ",
+   "okunus": "el'emri",
+   "kok": "أمر",
+   "kokAnlam": "iş, buyruk",
+   "karsilik": "bu işten"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "شَىْءٌ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "قُل",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلْأَمْرِ",
+   "okunus": "el'emra",
+   "kok": "أمر",
+   "kokAnlam": "iş, buyruk",
+   "karsilik": "iş"
+  },
+  {
+   "kelime": "كُلَّهُۥ",
+   "okunus": "küllehû",
+   "kok": "كلل",
+   "kokAnlam": "bütünlük, tamamı",
+   "karsilik": "bütünüyle"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ındır"
+  },
+  {
+   "kelime": "يُخْفُونَ",
+   "okunus": "yühfûne",
+   "kok": "خفي",
+   "kokAnlam": "gizleme, saklama",
+   "karsilik": "gizliyorlardı"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içlerinde"
+  },
+  {
+   "kelime": "أَنفُسِهِم",
+   "okunus": "enfüsihim",
+   "kok": "نفس",
+   "kokAnlam": "kişi, nefis, can",
+   "karsilik": "kendilerinde"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mediği"
+  },
+  {
+   "kelime": "يُبْدُونَ",
+   "okunus": "yübdûne",
+   "kok": "بدو",
+   "kokAnlam": "açığa çıkarma, ortaya koyma",
+   "karsilik": "açığa vurdukları"
+  },
+  {
+   "kelime": "لَكَ",
+   "okunus": "leke",
+   "kok": "—",
+   "kokAnlam": "(zamir) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "يَقُولُونَ",
+   "okunus": "yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz",
+   "karsilik": "diyorlardı"
+  },
+  {
+   "kelime": "لَّوْ",
+   "okunus": "lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olsaydı"
+  },
+  {
+   "kelime": "لَنَا",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) bizim",
+   "karsilik": "bizim"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْأَمْرِ",
+   "okunus": "el'emri",
+   "kok": "أمر",
+   "kokAnlam": "iş, buyruk",
+   "karsilik": "bu işten"
+  },
+  {
+   "kelime": "شَىْءٌ",
+   "okunus": "şey'ün",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "bir pay"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mezdik"
+  },
+  {
+   "kelime": "قُتِلْنَا",
+   "okunus": "kutilnâ",
+   "kok": "قتل",
+   "kokAnlam": "öldürme, öldürülme",
+   "karsilik": "öldürülmezdik"
+  },
+  {
+   "kelime": "هَٰهُنَا",
+   "okunus": "hâhünâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) burada",
+   "karsilik": "burada"
+  },
+  {
+   "kelime": "قُل",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "لَّوْ",
+   "okunus": "lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olsaydınız"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "بُيُوتِكُمْ",
+   "okunus": "büyûtiküm",
+   "kok": "بيت",
+   "kokAnlam": "ev, hane",
+   "karsilik": "evlerinizde"
+  },
+  {
+   "kelime": "لَبَرَزَ",
+   "okunus": "leberaze",
+   "kok": "برز",
+   "kokAnlam": "ortaya çıkma, meydana çıkma",
+   "karsilik": "yine çıkıp giderdi"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olanlar",
+   "karsilik": "olanlar"
+  },
+  {
+   "kelime": "كُتِبَ",
+   "okunus": "kütibe",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kayıt",
+   "karsilik": "yazılmış"
+  },
+  {
+   "kelime": "عَلَيْهِمُ",
+   "okunus": "aleyhimü",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerlerine",
+   "karsilik": "üzerlerine"
+  },
+  {
+   "kelime": "ٱلْقَتْلُ",
+   "okunus": "elkatlü",
+   "kok": "قتل",
+   "kokAnlam": "öldürme, öldürülme",
+   "karsilik": "ölüm"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "مَضَاجِعِهِمْ",
+   "okunus": "medâciihim",
+   "kok": "ضجع",
+   "kokAnlam": "yatma, devrilecek yer",
+   "karsilik": "devrilecekleri yerlere"
+  },
+  {
+   "kelime": "وَلِيَبْتَلِىَ",
+   "okunus": "ve liyebteliye",
+   "kok": "بلو",
+   "kokAnlam": "deneme, sınama",
+   "karsilik": "ve sınaması içindir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "olanı"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "صُدُورِكُمْ",
+   "okunus": "sudûriküm",
+   "kok": "صدر",
+   "kokAnlam": "göğüs, gönül",
+   "karsilik": "göğüslerinizde"
+  },
+  {
+   "kelime": "وَلِيُمَحِّصَ",
+   "okunus": "ve liyümehhisa",
+   "kok": "محص",
+   "kokAnlam": "arındırma, saflaştırma",
+   "karsilik": "ve arındırması içindir"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "olanı"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "قُلُوبِكُمْ",
+   "okunus": "kulûbiküm",
+   "kok": "قلب",
+   "kokAnlam": "kalp",
+   "karsilik": "kalplerinizde"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلِيمٌۢ",
+   "okunus": "alîmüm",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilendir"
+  },
+  {
+   "kelime": "بِذَاتِ",
+   "okunus": "bizâti",
+   "kok": "—",
+   "kokAnlam": "(isim) özü",
+   "karsilik": "özünü"
+  },
+  {
+   "kelime": "ٱلصُّدُورِ",
+   "okunus": "essudûri",
+   "kok": "صدر",
+   "kokAnlam": "göğüs, gönül",
+   "karsilik": "göğüslerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu uzun ayet, Uhud'daki kederin ardından iki farklı tepkiyi anlatır. Bir grup, Allah'ın verdiği bir güvenle hafif bir uykuya dalar; 'emene' ve 'nu'âs' kelimeleri, gerginlik sonrası gelen rahatlamayı anlatır. Diğer grup ise kendi canı derdine düşmüş, Allah hakkında cahiliye dönemine özgü, gerçek dışı bir zan beslemiştir.",
+  "Ayet, bu ikinci grubun 'Bu işten bize ne var?' sorusuna, 'Bütün iş Allah'ındır' cevabını verir; içlerinde gizledikleri şüpheyi de açığa çıkarır. Sonunda, ölümün önceden belirli bir yazgı olduğunu, evde kalmanın bile kaderi değiştirmeyeceğini hatırlatır; bütün bu süreç, göğüslerdeki niyeti sınamak ve kalpleri arındırmak içindir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "8:11",
+   "meal": "Hani O, kendi katından bir güven olmak üzere sizi hafif bir uykuya daldırıyordu; sizi temizlemek, şeytanın pisliğini gidermek, kalplerinizi pekiştirmek ve ayaklarınızı sağlamlaştırmak için üzerinize gökten su indiriyordu.",
+   "baglanti": "Aynı 'güven veren hafif uyku' teması Bedir'de de geçer; iki ayet, savaş öncesi ve sonrası gerginlikte Allah'ın aynı lütfunu anlatır."
+  },
+  {
+   "ref": "3:145",
+   "meal": "Hiçbir kimse Allah'ın izni olmadan ölemez; [bu,] belirlenmiş bir yazıdır.",
+   "baglanti": "'Evde kalsalardı bile ölüm yazılı olanlar yine çıkardı' ifadesi, bu ayette anlatılan ecel ilkesinin somut bir örneğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu savaş sonrası psikolojik tepkilerdir; kimi güvenle rahatlar, kimi kaygıyla yanlış düşüncelere kapılır. Genel ders, zor bir olayın ardından insanların çok farklı tepkiler verebileceğidir.",
+  "Bir kriz sonrasında bazı insanlar sükûnet bulurken bazıları aşırı kaygıya ve yanlış varsayımlara kapılabilir. Bu ayet, olan biteni tesadüfe ya da 'keşke'lere bağlamak yerine, elindeki gerçekle yüzleşmenin daha sağlıklı olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Keşkeyi bırak",
+   "aciklama": "Bugün geçmişte farklı davransaydın diye kurduğun bir 'keşke' cümlesini bırak ve bugüne odaklan."
+  },
+  {
+   "baslik": "Zannını kontrol et",
+   "aciklama": "Bir konuda kötü bir zan besliyorsan, bugün bunu gerçek bir bilgiyle sınayıp sınamadığını kontrol et."
+  },
+  {
+   "baslik": "Niyetini gözden geçir",
+   "aciklama": "Bugün bir davranışının ardındaki gerçek niyetini kendine dürüstçe sor."
+  }
+ ],
+ "bugununAdimi": "Bugün bir 'keşke' cümlesini bırakıp, onun yerine yapabileceğin somut bir şeyi yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=154"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/154"
+  }
+ ]
+}

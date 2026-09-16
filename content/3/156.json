@@ -1,0 +1,306 @@
+{
+ "sure": 3,
+ "ayet": 156,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! İnkâr edenler ve yeryüzünde yolculuğa çıkan ya da savaşa giden kardeşleri için, 'Yanımızda olsalardı ölmezlerdi, öldürülmezlerdi' diyenler gibi olmayın. Allah, bunu kalplerinde bir hasret kılmak için [böyle söyletir]. Allah yaşatır ve öldürür. Allah yaptıklarınızı görmektedir.",
+ "mealNotu": "'Darabû fi'l-ard' kalıbı yolculuğa çıkmayı, 'guzzen' kelimesi savaşa gitmeyi anlatır. Köşeli parantezli '[böyle söyletir]' ifadesi, 'liyec'ale' amaç cümlesini önceki söze bağlar.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olanlar",
+   "karsilik": "-enler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman etme",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "olmayın"
+  },
+  {
+   "kelime": "تَكُونُوا۟",
+   "okunus": "tekûnû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmayın"
+  },
+  {
+   "kelime": "كَٱلَّذِينَ",
+   "okunus": "kellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olanlar gibi",
+   "karsilik": "olanlar gibi"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği örtme, inkâr",
+   "karsilik": "inkâr edenler"
+  },
+  {
+   "kelime": "وَقَالُوا۟",
+   "okunus": "ve kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz",
+   "karsilik": "ve diyenler"
+  },
+  {
+   "kelime": "لِإِخْوَٰنِهِمْ",
+   "okunus": "liihvânihim",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik, kardeş",
+   "karsilik": "kardeşleri için"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "ضَرَبُوا۟",
+   "okunus": "darabû",
+   "kok": "ضرب",
+   "kokAnlam": "vurma, yola çıkma",
+   "karsilik": "yolculuğa çıktıklarında"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldular"
+  },
+  {
+   "kelime": "غُزًّى",
+   "okunus": "guzzen",
+   "kok": "غزو",
+   "kokAnlam": "savaşa gitme, gazve",
+   "karsilik": "savaşa giden"
+  },
+  {
+   "kelime": "لَّوْ",
+   "okunus": "lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olsalardı"
+  },
+  {
+   "kelime": "عِندَنَا",
+   "okunus": "indenâ",
+   "kok": "عند",
+   "kokAnlam": "yan, kat, nezd",
+   "karsilik": "yanımızda"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mezlerdi"
+  },
+  {
+   "kelime": "مَاتُوا۟",
+   "okunus": "mâtû",
+   "kok": "موت",
+   "kokAnlam": "ölme",
+   "karsilik": "ölmezlerdi"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "قُتِلُوا۟",
+   "okunus": "kutilû",
+   "kok": "قتل",
+   "kokAnlam": "öldürme, öldürülme",
+   "karsilik": "öldürülmezlerdi"
+  },
+  {
+   "kelime": "لِيَجْعَلَ",
+   "okunus": "liyec'ale",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "kılmak için"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunu",
+   "karsilik": "bunu"
+  },
+  {
+   "kelime": "حَسْرَةً",
+   "okunus": "hasraten",
+   "kok": "حسر",
+   "kokAnlam": "pişmanlık, hasret",
+   "karsilik": "bir hasret"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "قُلُوبِهِمْ",
+   "okunus": "kulûbihim",
+   "kok": "قلب",
+   "kokAnlam": "kalp",
+   "karsilik": "kalplerinde"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يُحْىِۦ",
+   "okunus": "yühyî",
+   "kok": "حيي",
+   "kokAnlam": "hayat verme, yaşatma",
+   "karsilik": "yaşatır"
+  },
+  {
+   "kelime": "وَيُمِيتُ",
+   "okunus": "ve yümîtü",
+   "kok": "موت",
+   "kokAnlam": "öldürme",
+   "karsilik": "ve öldürür"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma, çalışma",
+   "karsilik": "yaptıklarınızı"
+  },
+  {
+   "kelime": "بَصِيرٌ",
+   "okunus": "besîrun",
+   "kok": "بصر",
+   "kokAnlam": "görme",
+   "karsilik": "görmektedir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, müminleri inkâr edenlerin bir düşünce kalıbından sakındırır: uzağa giden ya da savaşa katılan yakınları öldüğünde, 'Bizimle kalsaydı ölmezdi' demek. Bu söz, ölümün sebebini yer değiştirmeye bağlar; oysa 145. ayette geçtiği gibi ecel önceden belirlenmiştir.",
+  "Ayet bu düşüncenin, söyleyenin kalbinde kalıcı bir hasrete dönüştüğünü söyler; çünkü gerçekleşmemiş bir 'keşke' hiçbir zaman kapanmaz. 'Allah yaşatır ve öldürür' cümlesi, hayat ve ölümün yer veya tedbirle değil, doğrudan Allah'ın elinde olduğunu hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "35:11",
+   "meal": "...Hiçbir kimsenin ömrü uzatılmaz ve hiçbir kimsenin ömründen kısaltılmaz ki, bu bir kitapta [yazılı] olmasın. Şüphesiz bu, Allah'a kolaydır.",
+   "baglanti": "Ecelin yer veya tedbirden bağımsız, önceden yazılı olduğu fikrini doğrudan destekler."
+  },
+  {
+   "ref": "64:11",
+   "meal": "Allah'ın izni olmadıkça hiçbir musibet isabet etmez. Kim Allah'a inanırsa, Allah onun kalbini doğruya iletir.",
+   "baglanti": "Musibetin de ölümün de Allah'ın izniyle gerçekleştiğini vurgular; 'keşke başka yerde olsaydı' düşüncesinin neden yersiz olduğunu açıklar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kaybedilen bir yakın için kurulan 'keşke başka türlü olsaydı' cümlesidir; bu özellikle yas sürecinde sık görülen bir düşüncedir. Genel ders, gerçekleşmemiş bir alternatifle kendini ya da başkasını üzmenin bir çıkış yolu olmadığıdır.",
+  "Bir kayıp ya da olumsuz sonuç karşısında, 'Şöyle olsaydı böyle olmazdı' demek insanı rahatlatmaz, aksine hasreti büyütür. Bu ayet, olanı kabul etmenin, kalbi hasret yerine huzura yöneltmenin bir yolu olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Keşkeyi durdur",
+   "aciklama": "Bugün geçmişte değiştiremeyeceğin bir olay için kurduğun 'keşke' cümlesini fark edip bırak."
+  },
+  {
+   "baslik": "Yakınını teselli et",
+   "aciklama": "Kayıp yaşayan birine bugün 'Böyle olsaydı olmazdı' değil, onu güçlendirecek bir söz söyle."
+  },
+  {
+   "baslik": "Kabul pratiği yap",
+   "aciklama": "Değiştiremeyeceğin bir durumu bugün kabul ettiğini birkaç kelimeyle yaz."
+  }
+ ],
+ "bugununAdimi": "Bugün değiştiremeyeceğin bir olayı kabul ettiğini gösteren tek bir cümle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=156"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/156"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "sure": 3,
+ "ayet": 94,
+ "durum": "taslak",
+ "meal": "Artık kim bundan sonra Allah'a karşı yalan uydurursa, işte onlar zalimlerin ta kendileridir.",
+ "mealNotu": "'İftirâ' kökü (فري) bilerek yalan uydurup birine mal etmeyi anlatır. Bu ayet, bir önceki ayette anlatılan Tevrat çarpıtmasına doğrudan bağlanır.",
+ "kokler": [
+  {
+   "kelime": "فَمَنِ",
+   "okunus": "femeni",
+   "kok": "—",
+   "kokAnlam": "(şart) kim",
+   "karsilik": "artık kim"
+  },
+  {
+   "kelime": "ٱفْتَرَىٰ",
+   "okunus": "ifterâ",
+   "kok": "فري",
+   "kokAnlam": "uydurma, yalan söyleme",
+   "karsilik": "uydurursa"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "karşı",
+   "karsilik": "karşı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "ٱلْكَذِبَ",
+   "okunus": "elkezibe",
+   "kok": "كذب",
+   "kokAnlam": "yalan söyleme",
+   "karsilik": "yalanı"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bundan"
+  },
+  {
+   "kelime": "فَأُو۟لَٰٓئِكَ",
+   "okunus": "feülâike",
+   "kok": "—",
+   "kokAnlam": "işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "onlar",
+   "karsilik": "-ın ta kendileridir"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمُونَ",
+   "okunus": "ezzâlimûne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, zulüm",
+   "karsilik": "zalimler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayette Tevrat'ın getirilip okunması çağrısından sonra, hâlâ ısrarla yanlış iddiada bulunanlar için bir hüküm koyar. 'İftirâ' kökü, bilerek yalan uydurup bunu birine -burada Allah'a- mal etmeyi anlatır.",
+  "Klasik tefsir, bu ayeti önceki ayetle birlikte okuyup, kaynağı ortadayken hâlâ yanlış iddiada ısrar etmenin, bilgisizlikten değil bilinçli bir yalandan kaynaklandığını vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:21",
+   "meal": "Allah'a karşı yalan uydurandan veya O'nun ayetlerini yalanlayandan daha zalim kim olabilir? Şüphesiz zalimler kurtuluşa eremezler.",
+   "baglanti": "Aynı 'Allah'a yalan uydurma' ifadesi burada da geçer; her iki ayet de bunu zulmün en ağır biçimi olarak nitelendirir."
+  },
+  {
+   "ref": "11:18",
+   "meal": "Allah'a karşı yalan uydurandan daha zalim kim vardır?...",
+   "baglanti": "Bu soru cümlesi, 3:94'teki hükmü pekiştiren bir başka örnektir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kaynağı belli olduğu hâlde Allah'a yalan isnat etmektir; bu, dinî bir çarpıtmadır.",
+  "Buradan çıkarılabilecek genel ders, doğrusu ortaya çıktıktan sonra bile bir iddiada ısrar etmenin daha ağır bir sorumluluk taşıdığıdır. Bir yanlışı öğrendikten sonra da tekrarlamak, bilmeden yapılan bir hatadan farklıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Öğrendikten sonra düzelt",
+   "aciklama": "Yanlış olduğunu öğrendiğin bir bilgiyi, bugün paylaşmayı bırak."
+  },
+  {
+   "baslik": "Kaynağa saygı göster",
+   "aciklama": "Bir konuda kaynağı netleşince, kendi görüşünü ona göre güncelle."
+  },
+  {
+   "baslik": "Israrı bırak",
+   "aciklama": "Yanıldığını gördüğün bir tartışmada, sırf kaybetmemek için ısrar etmekten vazgeç."
+  }
+ ],
+ "bugununAdimi": "Bugün, yanlış olduğunu öğrendiğin bir bilgiyi düzeltip doğrusunu paylaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=94"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/94"
+  }
+ ]
+}

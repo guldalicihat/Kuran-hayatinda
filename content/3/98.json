@@ -1,0 +1,138 @@
+{
+ "sure": 3,
+ "ayet": 98,
+ "durum": "taslak",
+ "meal": "De ki: 'Ey Kitap ehli! Allah, yaptıklarınıza şahit olduğu hâlde Allah'ın ayetlerini niçin inkâr ediyorsunuz?'",
+ "mealNotu": "Bu ayet, surenin başında (3:70) sorulan aynı soruyu neredeyse aynı kelimelerle tekrarlar; buradaki fark, 'şahit' vurgusunun eklenmesidir.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "يَٰٓأَهْلَ",
+   "okunus": "yâ ehle",
+   "kok": "أهل",
+   "kokAnlam": "(nida) ey; sahiplik, halk",
+   "karsilik": "ey ... ehli"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "Kitap'ın"
+  },
+  {
+   "kelime": "لِمَ",
+   "okunus": "lime",
+   "kok": "—",
+   "kokAnlam": "(soru) niçin",
+   "karsilik": "niçin"
+  },
+  {
+   "kelime": "تَكْفُرُونَ",
+   "okunus": "tekfürûne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; inkâr",
+   "karsilik": "inkâr ediyorsunuz"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِ",
+   "okunus": "biâyâti",
+   "kok": "أيي",
+   "kokAnlam": "işaret; ayet",
+   "karsilik": "ayetlerini"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "oysa Allah"
+  },
+  {
+   "kelime": "شَهِيدٌ",
+   "okunus": "şehîdün",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik etme; şahit",
+   "karsilik": "şahittir"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "şey",
+   "karsilik": "yaptıklarınıza"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma, çalışma",
+   "karsilik": "yaptıklarınıza"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, İbrahim ve Kâbe'yle ilgili bölümden sonra, sureyi açan temaya -Kitap ehline yöneltilen inkâr sorusuna- geri döner. 'Şehîd' kökü, gözlemleyip tanıklık etmeyi anlatır; Allah'ın her yapılanı gördüğü hatırlatılır.",
+  "Ayetin bu tekrarı, surenin baş kısmındaki uyarıyı pekiştirir. Klasik tefsir, Kur'an'da aynı uyarının farklı vurgularla tekrarlanmasını, konunun önemine dikkat çekmenin bir yolu olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:70",
+   "meal": "Ey Kitap ehli! Bile bile Allah'ın ayetlerini niçin inkâr ediyorsunuz?",
+   "baglanti": "Bu ayet, surenin başında sorulan aynı soruyu, neredeyse birebir aynı kelimelerle 3:98'de tekrar eder."
+  },
+  {
+   "ref": "4:166",
+   "meal": "Fakat Allah, sana indirdiğine, onu kendi ilmiyle indirmiş olarak şahitlik eder; melekler de şahitlik eder. Şahit olarak Allah yeter.",
+   "baglanti": "Allah'ın şahitliği burada da vurgulanır; 3:98'deki 'Allah şahittir' ifadesiyle aynı temayı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bilerek ayetleri inkâr etmektir; bu, dinî bir tartışma bağlamındadır.",
+  "Buradan çıkarılabilecek genel ders, yaptığın her şeyin gözlemlendiğini bilerek hareket etmektir. Kimse seni izlemiyor gibi göründüğünde bile, davranışlarının bir tanığı olduğunu hatırlamak, tutarlı davranmana yardımcı olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gözlemlendiğini hatırla",
+   "aciklama": "Bugün kimsenin görmediğini düşündüğün bir anda bile doğru olanı yap."
+  },
+  {
+   "baslik": "Tutarlılığını koru",
+   "aciklama": "Herkesin önündeki tutumunla yalnızken ki tutumun arasındaki farkı bugün azalt."
+  },
+  {
+   "baslik": "Kararlı ol",
+   "aciklama": "Bir konuda bildiğin doğruyu, kimse fark etmese de savunmaya devam et."
+  }
+ ],
+ "bugununAdimi": "Bugün, kimsenin görmediğini düşündüğün bir anda, doğru olanı seçerek davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=98"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/98"
+  }
+ ]
+}

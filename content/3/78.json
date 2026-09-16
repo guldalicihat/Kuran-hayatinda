@@ -1,0 +1,257 @@
+{
+ "sure": 3,
+ "ayet": 78,
+ "durum": "taslak",
+ "meal": "Onlardan öyle bir grup vardır ki, siz onu Kitap'tan sanasınız diye dillerini Kitap ile eğip bükerler; oysa o, Kitap'tan değildir. 'Bu, Allah katındandır' derler; oysa o, Allah katından değildir. Onlar bile bile Allah'a karşı yalan söylerler.",
+ "mealNotu": "'Lev' kökü bir şeyi eğip bükmeyi, doğrudan söylemeyip çarpıtmayı anlatır. Ayet, bu çarpıtmanın hem sözlü hem de kaynağa dayandırma yoluyla yapıldığını gösterir.",
+ "kokler": [
+  {
+   "kelime": "وَإِنَّ",
+   "okunus": "ve inne",
+   "kok": "—",
+   "kokAnlam": "şüphesiz",
+   "karsilik": "ve şüphesiz"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "لَفَرِيقًا",
+   "okunus": "leferîkan",
+   "kok": "فرق",
+   "kokAnlam": "ayrılma; grup, bölük",
+   "karsilik": "bir grup vardır ki"
+  },
+  {
+   "kelime": "يَلْوُۥنَ",
+   "okunus": "yelvûne",
+   "kok": "لوي",
+   "kokAnlam": "eğip bükme, döndürme",
+   "karsilik": "eğip bükerler"
+  },
+  {
+   "kelime": "أَلْسِنَتَهُم",
+   "okunus": "elsinetehüm",
+   "kok": "لسن",
+   "kokAnlam": "dil",
+   "karsilik": "dillerini"
+  },
+  {
+   "kelime": "بِٱلْكِتَٰبِ",
+   "okunus": "bil kitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "Kitap ile"
+  },
+  {
+   "kelime": "لِتَحْسَبُوهُ",
+   "okunus": "litahsebûhü",
+   "kok": "حسب",
+   "kokAnlam": "sayma, sanma",
+   "karsilik": "siz onu sanasınız diye"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "kitap",
+   "karsilik": "Kitap'tan"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "oysa değildir",
+   "karsilik": "oysa değildir"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "kitap",
+   "karsilik": "Kitap'tan"
+  },
+  {
+   "kelime": "وَيَقُولُونَ",
+   "okunus": "ve yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "ve derler"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-dendir"
+  },
+  {
+   "kelime": "عِندِ",
+   "okunus": "indi",
+   "kok": "عند",
+   "kokAnlam": "yan, kat",
+   "karsilik": "katından"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "oysa değildir",
+   "karsilik": "oysa değildir"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "عِندِ",
+   "okunus": "indi",
+   "kok": "عند",
+   "kokAnlam": "yan, kat",
+   "karsilik": "katından"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَيَقُولُونَ",
+   "okunus": "ve yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "ve söylerler"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "karşı",
+   "karsilik": "karşı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "ٱلْكَذِبَ",
+   "okunus": "elkezibe",
+   "kok": "كذب",
+   "kokAnlam": "yalan söyleme",
+   "karsilik": "yalanı"
+  },
+  {
+   "kelime": "وَهُمْ",
+   "okunus": "ve hüm",
+   "kok": "—",
+   "kokAnlam": "oysa onlar",
+   "karsilik": "oysa onlar"
+  },
+  {
+   "kelime": "يَعْلَمُونَ",
+   "okunus": "ya'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "biliyorlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Kitap ehlinden bir grubun metni değiştirme yöntemini anlatır: onlar, kendi sözlerini Kitap'ın orijinal ifadesiymiş gibi göstermek için dillerini büker. 'Lev' kökü, bir şeyi eğip bükmeyi, doğrudan söylemeyip çarpıtmayı anlatır.",
+  "Ayet, bu çarpıtmanın iki aşamasını gösterir: önce metni Kitap'tanmış gibi sunmak, sonra da onu doğrudan 'Allah katından' diye tanıtmak. Son cümle, bunun bilgisizlikten değil, bilinçli bir yalandan kaynaklandığını vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:46",
+   "meal": "Yahudilerden öyleleri var ki, kelimeleri yerlerinden kaydırıp değiştirirler...",
+   "baglanti": "Metni çarpıtma teması burada da geçer; 3:78'de bu çarpıtma dille yapılan bir ekleme, 4:46'da ise kelimelerin yerinin değiştirilmesi olarak anlatılır."
+  },
+  {
+   "ref": "2:79",
+   "meal": "Elleriyle Kitabı yazıp sonra onu az bir paraya satmak için 'Bu, Allah katındandır' diyenlerin vay hâline!",
+   "baglanti": "Aynı 'Allah katından' iddiası burada da geçer; ayet bu iddianın yazılı bir metinle yapılan bir çarpıtma olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir metni kaynağına aitmiş gibi göstererek çarpıtmaktır; bu, dinî bir belge bağlamında anlatılır.",
+  "Buradan çıkarılabilecek genel ders, bir sözü veya bilgiyi, ait olmadığı bir kaynağa dayandırarak sunmamaktır. Kendi görüşünü 'kaynakta böyle yazıyor' diyerek güçlendirme isteği, bu ayetin uyardığı tutuma benzeyebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaynağını doğru göster",
+   "aciklama": "Bugün paylaştığın bir bilginin kaynağını, çarpıtmadan olduğu gibi belirt."
+  },
+  {
+   "baslik": "Kendi sözünü başkasına mal etme",
+   "aciklama": "Kendi yorumunu, ait olmadığı bir otoriteye dayandırarak sunmaktan kaçın."
+  },
+  {
+   "baslik": "Şüpheli bir iddiayı sorgula",
+   "aciklama": "Bugün duyduğun bir iddianın gerçekten kaynağından geldiğini kontrol et."
+  }
+ ],
+ "bugununAdimi": "Bugün paylaşacağın bir bilginin kaynağını, kendi sözünle karıştırmadan ayrı ayrı belirt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=78"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/78"
+  }
+ ]
+}

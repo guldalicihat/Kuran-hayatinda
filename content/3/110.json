@@ -1,0 +1,215 @@
+{
+ "sure": 3,
+ "ayet": 110,
+ "durum": "taslak",
+ "meal": "Siz, insanlar için ortaya çıkarılmış en hayırlı ümmetsiniz; iyiliği emreder, kötülükten sakındırır ve Allah'a iman edersiniz. Kitap ehli de iman etseydi kendileri için elbette hayırlı olurdu; içlerinden iman edenler vardır, fakat çoğu yoldan çıkmıştır.",
+ "mealNotu": "'Fâsıkûn' kökü (فسق) doğru yoldan çıkmayı, itaatsizliği anlatır; 'yoldan çıkmış' olarak karşılanmıştır. 'Uhricet' kökü (خرج) çıkarılma, ortaya çıkarılma anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "siz oldunuz"
+  },
+  {
+   "kelime": "خَيْرَ",
+   "okunus": "hayra",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "en hayırlı"
+  },
+  {
+   "kelime": "أُمَّةٍ",
+   "okunus": "ümmetin",
+   "kok": "أمم",
+   "kokAnlam": "topluluk, ümmet",
+   "karsilik": "ümmet"
+  },
+  {
+   "kelime": "أُخْرِجَتْ",
+   "okunus": "ühricet",
+   "kok": "خرج",
+   "kokAnlam": "çıkarılma",
+   "karsilik": "ortaya çıkarılmış"
+  },
+  {
+   "kelime": "لِلنَّاسِ",
+   "okunus": "lilnnâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanlar için"
+  },
+  {
+   "kelime": "تَأْمُرُونَ",
+   "okunus": "te'mürûne",
+   "kok": "أمر",
+   "kokAnlam": "emretme",
+   "karsilik": "emredersiniz"
+  },
+  {
+   "kelime": "بِٱلْمَعْرُوفِ",
+   "okunus": "bil ma'rûfi",
+   "kok": "عرف",
+   "kokAnlam": "bilinen, iyi kabul edilen",
+   "karsilik": "iyiliği"
+  },
+  {
+   "kelime": "وَتَنْهَوْنَ",
+   "okunus": "ve tenhevne",
+   "kok": "نهي",
+   "kokAnlam": "yasaklama, sakındırma",
+   "karsilik": "ve sakındırırsınız"
+  },
+  {
+   "kelime": "عَنِ",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُنكَرِ",
+   "okunus": "elmünkeri",
+   "kok": "نكر",
+   "kokAnlam": "yadırganan, kötü",
+   "karsilik": "kötülükten"
+  },
+  {
+   "kelime": "وَتُؤْمِنُونَ",
+   "okunus": "ve tü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "ve iman edersiniz"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "ءَامَنَ",
+   "okunus": "âmene",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman etseydi"
+  },
+  {
+   "kelime": "أَهْلُ",
+   "okunus": "ehlü",
+   "kok": "أهل",
+   "kokAnlam": "ehil, aile, sahip",
+   "karsilik": "ehli"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "kitap"
+  },
+  {
+   "kelime": "لَكَانَ",
+   "okunus": "lekâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olurdu"
+  },
+  {
+   "kelime": "خَيْرًا",
+   "okunus": "hayran",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "hayırlı"
+  },
+  {
+   "kelime": "لَّهُم",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlara",
+   "karsilik": "kendileri için"
+  },
+  {
+   "kelime": "مِّنْهُمُ",
+   "okunus": "minhümü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlardan",
+   "karsilik": "içlerinden"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنُونَ",
+   "okunus": "elmü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "وَأَكْثَرُهُمُ",
+   "okunus": "ve ekseruhümü",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "ve çoğu"
+  },
+  {
+   "kelime": "ٱلْفَٰسِقُونَ",
+   "okunus": "elfâsikûne",
+   "kok": "فسق",
+   "kokAnlam": "doğru yoldan çıkma",
+   "karsilik": "yoldan çıkmıştır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerde anlatılan iyiliği emretme ve kötülükten sakındırma görevini bu ümmetin ortak niteliği olarak ilan eder: 'en hayırlı ümmet' unvanı, iman ile birlikte bu iki göreve bağlanmıştır; övgü boşuna verilmiş bir sıfat değildir.",
+  "Ayetin ikinci kısmı, kitap ehlinin iman etmesi hâlinde bunun kendileri için hayırlı olacağını söyler ve aralarında iman edenler bulunduğunu, fakat çoğunun yoldan çıkmış olduğunu belirtir. Klasik tefsir, 'en hayırlı ümmet' ifadesinin şarta bağlı bir övgü olduğunu, yani bu görevleri sürdürdüğü sürece geçerli olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:143",
+   "meal": "Böylece sizi, insanlara şahit olasınız ve Peygamber de size şahit olsun diye orta/dengeli bir ümmet kıldık.",
+   "baglanti": "Bakara 143, aynı 'seçilmiş ümmet' fikrini dengeli olma vasfıyla anlatır; 110. ayetteki 'en hayırlı ümmet' övgüsünün dengeli olma şartına dayandığını gösterir."
+  },
+  {
+   "ref": "5:66",
+   "meal": "Eğer onlar Tevrat'ı, İncil'i ve Rablerinden kendilerine indirileni gereğince uygulasalardı, muhakkak üstlerinden ve ayaklarının altından nice nimetler yerlerdi. İçlerinde orta yolu tutan bir topluluk var, fakat çoğunun yaptığı ne kötüdür.",
+   "baglanti": "Mâide 66, kitap ehlinin çoğunun yoldan çıkmasını kendi kitaplarını gereğince uygulamamalarına bağlar; 110. ayetteki 'çoğu yoldan çıkmıştır' hükmünü açar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bir topluluğun 'en hayırlı' sayılmasının şartıdır: iyiliği emretmek, kötülükten sakındırmak ve iman etmek. Bu, doğuştan gelen bir üstünlük değil, sürdürülen bir sorumluluktur.",
+  "Günlük hayata taşınacak ders, hiçbir grubun sırf mensubiyetiyle övünemeyeceği, üstünlüğün davranışla kanıtlanması gerektiğidir. Bir kişi kendini iyi sayarken, bunu somut iyilik ve doğruluk çabasıyla desteklemelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Unvanını davranışla doğrula",
+   "aciklama": "Bugün, sahip olduğun bir kimlik veya unvanı, ona yakışan somut bir davranışla destekle."
+  },
+  {
+   "baslik": "İyiliği hatırlat, gösterişe kaçma",
+   "aciklama": "Bir iyi davranışı sözle değil, örnek olarak göstermeyi tercih et."
+  },
+  {
+   "baslik": "Kendi eksiğini de gör",
+   "aciklama": "Başkasının yanlışını uyarmadan önce, kendi hayatında aynı yanlışı yapıp yapmadığını kontrol et."
+  }
+ ],
+ "bugununAdimi": "Bugün, iyi olduğunu düşündüğün bir alanda, sözünü somut bir davranışla destekle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=110"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/110"
+  }
+ ]
+}

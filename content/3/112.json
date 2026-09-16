@@ -1,0 +1,299 @@
+{
+ "sure": 3,
+ "ayet": 112,
+ "durum": "taslak",
+ "meal": "Nerede bulunurlarsa bulunsunlar, Allah'tan bir bağ ve insanlardan bir bağ hariç, üzerlerine alçaklık damgası vurulmuştur. Allah'tan bir gazaba uğradılar ve üzerlerine yoksulluk damgası vurulmuştur. Bu, Allah'ın ayetlerini inkâr etmelerinden ve peygamberleri haksız yere öldürmelerindendir. Bu da isyan etmelerinden ve haddi aşmalarındandır.",
+ "mealNotu": "'Hablün mine'llâh' ve 'hablün mine'n-nâs' ifadeleri 'Allah'tan bir bağ, insanlardan bir bağ' olarak korunmuştur; tefsirlerde bunlara farklı somutlamalar yüklenir, ancak burada kelimeler dışına çıkılmamıştır. 'Miskenet' kökü (سكن) yerleşiklik/durgunluktan gelir, burada 'yoksulluk' anlamıyla kullanılmıştır.",
+ "kokler": [
+  {
+   "kelime": "ضُرِبَتْ",
+   "okunus": "duribet",
+   "kok": "ضرب",
+   "kokAnlam": "vurma, damgalama",
+   "karsilik": "vurulmuştur"
+  },
+  {
+   "kelime": "عَلَيْهِمُ",
+   "okunus": "aleyhimü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) üzerlerine",
+   "karsilik": "üzerlerine"
+  },
+  {
+   "kelime": "ٱلذِّلَّةُ",
+   "okunus": "ezzilletü",
+   "kok": "ذلل",
+   "kokAnlam": "alçaklık, zillet",
+   "karsilik": "alçaklık"
+  },
+  {
+   "kelime": "أَيْنَ",
+   "okunus": "eyne",
+   "kok": "—",
+   "kokAnlam": "(şart) nerede",
+   "karsilik": "nerede"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) her ne",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "ثُقِفُوٓا۟",
+   "okunus": "sükıfû",
+   "kok": "ثقف",
+   "kokAnlam": "bulunma, karşılaşılma",
+   "karsilik": "bulunsalar"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) hariç",
+   "karsilik": "hariç"
+  },
+  {
+   "kelime": "بِحَبْلٍ",
+   "okunus": "bihablin",
+   "kok": "حبل",
+   "kokAnlam": "ip, bağ",
+   "karsilik": "bir bağ"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "وَحَبْلٍ",
+   "okunus": "ve hablin",
+   "kok": "حبل",
+   "kokAnlam": "ip, bağ",
+   "karsilik": "ve bir bağ"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلنَّاسِ",
+   "okunus": "ennâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanlardan"
+  },
+  {
+   "kelime": "وَبَآءُو",
+   "okunus": "ve bâû",
+   "kok": "بوأ",
+   "kokAnlam": "dönme, uğrama",
+   "karsilik": "ve uğradılar"
+  },
+  {
+   "kelime": "بِغَضَبٍ",
+   "okunus": "biğadabin",
+   "kok": "غضب",
+   "kokAnlam": "öfke, gazap",
+   "karsilik": "bir gazaba"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "وَضُرِبَتْ",
+   "okunus": "ve duribet",
+   "kok": "ضرب",
+   "kokAnlam": "vurma, damgalama",
+   "karsilik": "ve vurulmuştur"
+  },
+  {
+   "kelime": "عَلَيْهِمُ",
+   "okunus": "aleyhimü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) üzerlerine",
+   "karsilik": "üzerlerine"
+  },
+  {
+   "kelime": "ٱلْمَسْكَنَةُ",
+   "okunus": "elmeskenetü",
+   "kok": "سكن",
+   "kokAnlam": "yerleşiklik; yoksulluk",
+   "karsilik": "yoksulluk"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "بِأَنَّهُمْ",
+   "okunus": "biennehüm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten onların",
+   "karsilik": "onların ... olmasından"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmalarından"
+  },
+  {
+   "kelime": "يَكْفُرُونَ",
+   "okunus": "yekfürûne",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "inkâr eden"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِ",
+   "okunus": "biâyâti",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "ayetlerini"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَيَقْتُلُونَ",
+   "okunus": "ve yektülûne",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "ve öldüren"
+  },
+  {
+   "kelime": "ٱلْأَنۢبِيَآءَ",
+   "okunus": "el'embiyâe",
+   "kok": "نبأ",
+   "kokAnlam": "haber; peygamber",
+   "karsilik": "peygamberleri"
+  },
+  {
+   "kelime": "بِغَيْرِ",
+   "okunus": "biğayri",
+   "kok": "غير",
+   "kokAnlam": "başka, -sız",
+   "karsilik": "haksız"
+  },
+  {
+   "kelime": "حَقٍّ",
+   "okunus": "hakkın",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçeklik",
+   "karsilik": "yere"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu da"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sebebiyle",
+   "karsilik": "sebebiyledir"
+  },
+  {
+   "kelime": "عَصَوا۟",
+   "okunus": "asav",
+   "kok": "عصي",
+   "kokAnlam": "isyan etme, karşı gelme",
+   "karsilik": "isyan etmelerinden"
+  },
+  {
+   "kelime": "وَّكَانُوا۟",
+   "okunus": "vekânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ve olmalarından"
+  },
+  {
+   "kelime": "يَعْتَدُونَ",
+   "okunus": "ya'tedûne",
+   "kok": "عدو",
+   "kokAnlam": "haddi aşma, saldırganlık",
+   "karsilik": "haddi aşan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu uzun ayet, önceki ayette anlatılan yardımsız kalma akıbetinin gerekçesini genişletir: karşı çıkanlar nerede bulunurlarsa bulunsunlar üzerlerine alçaklık ve yoksulluk damgası vurulmuştur; 'Allah'tan bir bağ ve insanlardan bir bağ' istisnası, ancak koruma altına girenlerin bu durumdan kurtulabileceğini gösterir.",
+  "Ayet bu durumun sebebini iki fiile bağlar: Allah'ın ayetlerini inkâr etmek ve peygamberleri haksız yere öldürmek; ardından bunun köküne, isyan ve haddi aşma tutumuna işaret eder. Klasik tefsir bu ayeti, tarih boyunca bazı toplulukların peygamberlere karşı sergilediği düşmanlığa ve bunun getirdiği toplumsal aşağılanmaya bağlı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:61",
+   "meal": "Üzerlerine alçaklık ve yoksulluk damgası vuruldu ve Allah'tan bir gazaba uğradılar. Bu, Allah'ın ayetlerini inkâr etmeleri ve peygamberleri haksız yere öldürmelerindendi.",
+   "baglanti": "Bakara 61, neredeyse aynı ifadelerle bu ayetin bir benzerini taşır; iki ayet birbirini doğrudan açıklar."
+  },
+  {
+   "ref": "5:70",
+   "meal": "Andolsun, İsrailoğullarından sağlam söz aldık ve onlara peygamberler gönderdik. Kendilerine nefislerinin hoşlanmadığı bir şey getiren her peygamberi, bir kısmını yalanladılar, bir kısmını da öldürdüler.",
+   "baglanti": "Mâide 70, peygamberlerin öldürülmesi suçlamasının tarihî arka planını anlatır; 112. ayetteki gerekçeyi somutlaştırır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, tarihte belli bir topluluğun peygamberlere karşı tutumu ve bunun getirdiği toplumsal sonuçtur; genel bir hukuk kuralı değildir.",
+  "Bugüne taşınabilecek ders, gerçeği ve hakkı taşıyanlara karşı sürekli haksızlık yapmanın, o toplulukta kalıcı bir güvensizlik ve zayıflık bıraktığıdır. Bir toplum veya kurum, doğruyu söyleyenleri susturdukça kendi içindeki huzuru da kaybeder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğruyu söyleyeni koru",
+   "aciklama": "Bugün, haklı bir eleştiri yapan birini susturmak yerine dinle ve değerlendir."
+  },
+  {
+   "baslik": "Haksızlığın bedelini fark et",
+   "aciklama": "Bir grupta süregelen haksız bir tutumun, o grubun güvenini nasıl aşındırdığını gözlemle."
+  },
+  {
+   "baslik": "Bir bağı güçlendir",
+   "aciklama": "Güvene dayalı bir ilişkini bugün küçük bir jestle pekiştir."
+  }
+ ],
+ "bugununAdimi": "Bugün, haklı bir uyarı yapan birini dinleyip savunmaya geçmeden değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=112"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/112"
+  }
+ ]
+}

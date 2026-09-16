@@ -1,0 +1,306 @@
+{
+ "sure": 3,
+ "ayet": 75,
+ "durum": "taslak",
+ "meal": "Kitap ehlinden öylesi vardır ki, ona yüklerle mal emanet etsen sana öder; yine onlardan öylesi de vardır ki, ona bir dinar emanet etsen, tepesine dikilip durmadıkça sana ödemez. Bu, onların 'Ümmîlere karşı bize [sorumluluk] yolu yoktur' demelerindendir. Onlar bile bile Allah'a karşı yalan söylüyorlar.",
+ "mealNotu": "'Qintâr' kökü büyük miktarda malı, 'dinar' ise küçük bir parayı anlatır; ayet bu iki örneği karşıt biçimde kullanır. 'Sebîl' kelimesi burada [sorumluluk] anlamıyla karşılanmıştır; bu ekleme parantez içindedir.",
+ "kokler": [
+  {
+   "kelime": "وَمِنْ",
+   "okunus": "ve min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "ve ... -den"
+  },
+  {
+   "kelime": "أَهْلِ",
+   "okunus": "ehli",
+   "kok": "أهل",
+   "kokAnlam": "ehil olma; sahip, halk",
+   "karsilik": "ehlinden"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "Kitap'ın"
+  },
+  {
+   "kelime": "مَّنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimi",
+   "karsilik": "öylesi"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَأْمَنْهُ",
+   "okunus": "te'menhü",
+   "kok": "أمن",
+   "kokAnlam": "güven, emanet etme",
+   "karsilik": "ona emanet etsen"
+  },
+  {
+   "kelime": "بِقِنطَارٍ",
+   "okunus": "bikıntârin",
+   "kok": "قنطر",
+   "kokAnlam": "büyük miktar mal",
+   "karsilik": "yüklerle mal ile"
+  },
+  {
+   "kelime": "يُؤَدِّهِۦٓ",
+   "okunus": "yüeddihî",
+   "kok": "أدي",
+   "kokAnlam": "ödeme, teslim etme",
+   "karsilik": "onu öder"
+  },
+  {
+   "kelime": "إِلَيْكَ",
+   "okunus": "ileyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "وَمِنْهُم",
+   "okunus": "ve minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "ve onlardan"
+  },
+  {
+   "kelime": "مَّنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "kimi",
+   "karsilik": "öylesi"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَأْمَنْهُ",
+   "okunus": "te'menhü",
+   "kok": "أمن",
+   "kokAnlam": "güven, emanet etme",
+   "karsilik": "ona emanet etsen"
+  },
+  {
+   "kelime": "بِدِينَارٍ",
+   "okunus": "bidînârin",
+   "kok": "دنر",
+   "kokAnlam": "bir dinar (para birimi)",
+   "karsilik": "bir dinar ile"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يُؤَدِّهِۦٓ",
+   "okunus": "yüeddihî",
+   "kok": "أدي",
+   "kokAnlam": "ödeme",
+   "karsilik": "onu öder"
+  },
+  {
+   "kelime": "إِلَيْكَ",
+   "okunus": "ileyke",
+   "kok": "—",
+   "kokAnlam": "sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "müddetçe",
+   "karsilik": "-dikçe"
+  },
+  {
+   "kelime": "دُمْتَ",
+   "okunus": "dümte",
+   "kok": "دوم",
+   "kokAnlam": "devam etme, sürme",
+   "karsilik": "durduğun"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) onun üzerinde",
+   "karsilik": "onun üzerinde"
+  },
+  {
+   "kelime": "قَآئِمًا",
+   "okunus": "kâimen",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, dikilme",
+   "karsilik": "dikilerek"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "بِأَنَّهُمْ",
+   "okunus": "biennehüm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) onların ... olmasındandır",
+   "karsilik": "onların şöyle demelerindendir"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "لَيْسَ",
+   "okunus": "leyse",
+   "kok": "ليس",
+   "kokAnlam": "olmama",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "عَلَيْنَا",
+   "okunus": "aleynâ",
+   "kok": "—",
+   "kokAnlam": "bize",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "ٱلْأُمِّيِّۦنَ",
+   "okunus": "el'ümmiyyîne",
+   "kok": "أمم",
+   "kokAnlam": "topluluk, ana; ümmî",
+   "karsilik": "ümmîler"
+  },
+  {
+   "kelime": "سَبِيلٌ",
+   "okunus": "sebîlün",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "[sorumluluk] yolu"
+  },
+  {
+   "kelime": "وَيَقُولُونَ",
+   "okunus": "ve yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "ve söylüyorlar"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "karşı",
+   "karsilik": "karşı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "ٱلْكَذِبَ",
+   "okunus": "elkezibe",
+   "kok": "كذب",
+   "kokAnlam": "yalan söyleme",
+   "karsilik": "yalanı"
+  },
+  {
+   "kelime": "وَهُمْ",
+   "okunus": "ve hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) oysa onlar",
+   "karsilik": "oysa onlar"
+  },
+  {
+   "kelime": "يَعْلَمُونَ",
+   "okunus": "ya'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "biliyorlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Kitap ehlini tek bir blok olarak göstermez; aralarında büyük bir emaneti bile eksiksiz iade eden dürüst kimseler olduğu gibi, küçük bir emaneti bile ısrarla istemedikçe vermeyen kimseler de olduğunu söyler. 'Emn' kökünden gelen 'te'menhü' fiili, güvenerek bir şey bırakmayı anlatır.",
+  "Ayet, bu ikinci tutumun kaynağını da açıklar: bazıları, ümmîlere karşı bir sorumlulukları olmadığını iddia ederek bunu Allah'a dayandırır. Ayet bunu bile bile söylenmiş bir yalan olarak nitelendirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:58",
+   "meal": "Allah, size emanetleri ehline vermenizi ve insanlar arasında hükmettiğinizde adaletle hükmetmenizi emrediyor.",
+   "baglanti": "Ayet, emaneti sahibine vermeyi genel bir ilke olarak koyar; 3:75'teki iki farklı tutum bu ilkenin ihlal edilip edilmediğini gösteren bir örnektir."
+  },
+  {
+   "ref": "8:27",
+   "meal": "Ey iman edenler! Allah'a ve Resûlüne hainlik etmeyin; bile bile emanetlerinize de hainlik etmeyin.",
+   "baglanti": "Emanete ihanet burada açıkça yasaklanır; 3:75'teki dinar örneğinde görülen tutum bu yasağın ihlaline bir örnektir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu maddi emanet ve borç ilişkisidir; kimin ne kadar güvenilir olduğu, dinî kimlikten bağımsız olarak kişiden kişiye değişir.",
+  "Buradan çıkarılabilecek ders, güvenilirliği bir gruba mal etmemek, kişiyi kendi tutumuyla değerlendirmektir. Aynı zamanda, 'bu kişiye karşı sorumluluğum yok' diye bir gerekçe uydurup emanete veya borca ihanet etmemek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Emaneti zamanında iade et",
+   "aciklama": "Üzerinde bir emanet veya borç varsa, bugün onu hatırlayıp iade planını yap."
+  },
+  {
+   "baslik": "Genellemeden kaçın",
+   "aciklama": "Bir grup hakkında 'hepsi böyledir' demek yerine, kişiyi kendi davranışıyla değerlendir."
+  },
+  {
+   "baslik": "Gerekçe uydurmaktan vazgeç",
+   "aciklama": "Bir sorumluluktan kaçmak için haklı gerekçe uydurduğun bir durumu bugün gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün üzerinde bulunan bir emaneti veya borcu, hatırlatılmadan kendi isteğinle iade et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=75"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/75"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "sure": 3,
+ "ayet": 88,
+ "durum": "taslak",
+ "meal": "Onlar orada temellidirler; azapları hafifletilmez, onlara mühlet de verilmez.",
+ "mealNotu": "'Halede' kökü sürekliliği, ebediliği anlatır. 'Nazar' kökü burada 'gözetip mühlet verme' anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "خَٰلِدِينَ",
+   "okunus": "hâlidîne",
+   "kok": "خلد",
+   "kokAnlam": "süreklilik, ebedîlik",
+   "karsilik": "orada temellidirler"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "orada",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يُخَفَّفُ",
+   "okunus": "yühaffefü",
+   "kok": "خفف",
+   "kokAnlam": "hafifletme",
+   "karsilik": "hafifletilmez"
+  },
+  {
+   "kelime": "عَنْهُمُ",
+   "okunus": "anhümü",
+   "kok": "—",
+   "kokAnlam": "onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "ٱلْعَذَابُ",
+   "okunus": "el'azâbü",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "azap"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "ve ... değil",
+   "karsilik": "ve ... -mez"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "onlar",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "يُنظَرُونَ",
+   "okunus": "yünzarûne",
+   "kok": "نظر",
+   "kokAnlam": "bakma, mühlet verme",
+   "karsilik": "mühlet verilir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayette anlatılan lanetin süresini ve niteliğini tarif eder. 'Halede' kökü, geçici değil sürekli bir hâli anlatır. Azabın hafifletilmemesi ve mühlet verilmemesi, bu durumun kesinliğini vurgular.",
+  "Klasik tefsir, bu ayeti bir önceki ayetle birlikte okuyup, imandan sonra bilerek dönmenin sonucunu en ağır ifadelerle anlatan bir bütün olarak değerlendirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:162",
+   "meal": "Onlar, o lanet içinde temellidirler; ne azapları hafifletilir ne de onlara mühlet verilir.",
+   "baglanti": "Bu ayet, 3:88 ile neredeyse aynı kelimelerle, Bakara suresinde de yer alır."
+  },
+  {
+   "ref": "43:75",
+   "meal": "Onlardan azap hafifletilmez, onlar orada ümitsizdirler.",
+   "baglanti": "Azabın hafifletilmemesi teması burada da tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ahiretteki bir cezanın süresi ve niteliğidir; bu, gaybe dair bir konudur.",
+  "Buradan çıkarılabilecek genel ders, bazı seçimlerin sonuçlarının ertelenemez ve hafifletilemez olabileceğini bilmektir. Bu farkındalık, önemli kararları hafife almamak için bir hatırlatma olarak okunabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ertelemeyi bırak",
+   "aciklama": "Sonucu ağır olabilecek bir kararı, 'sonra düzeltirim' diyerek ertelemekten vazgeç."
+  },
+  {
+   "baslik": "Kesinliği hatırla",
+   "aciklama": "Bazı seçimlerin geri dönüşü olmadığını bugün bir kez daha düşün."
+  },
+  {
+   "baslik": "Zamanı değerlendir",
+   "aciklama": "Elindeki fırsat zamanını, önemli bir düzeltme için bugün kullan."
+  }
+ ],
+ "bugununAdimi": "Bugün, ertelediğin ama sonuçları ağır olabilecek bir konuyu ele almaya başla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=88"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/88"
+  }
+ ]
+}

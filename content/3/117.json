@@ -1,0 +1,215 @@
+{
+ "sure": 3,
+ "ayet": 117,
+ "durum": "taslak",
+ "meal": "Onların bu dünya hayatında harcadıklarının örneği, kendilerine zulmeden bir topluluğun ekinini vurup yok eden, içinde dondurucu bir soğuk olan rüzgârın örneği gibidir. Allah onlara zulmetmedi, fakat onlar kendilerine zulmediyorlardı.",
+ "mealNotu": "'Sırr' kelimesi (صرر) dondurucu, yakıcı soğuk rüzgârı anlatır. 'Zalemû enfüsehüm' ifadesi 'kendilerine zulmettiler' olarak birebir korunmuştur.",
+ "kokler": [
+  {
+   "kelime": "مَثَلُ",
+   "okunus": "meselü",
+   "kok": "مثل",
+   "kokAnlam": "örnek, benzetme",
+   "karsilik": "örneği"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şeyin"
+  },
+  {
+   "kelime": "يُنفِقُونَ",
+   "okunus": "yünfikûne",
+   "kok": "نفق",
+   "kokAnlam": "harcama, infak",
+   "karsilik": "harcadıkları"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "هَٰذِهِ",
+   "okunus": "hâzihi",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "ٱلْحَيَوٰةِ",
+   "okunus": "elhayâti",
+   "kok": "حيي",
+   "kokAnlam": "hayat, canlılık",
+   "karsilik": "hayatında"
+  },
+  {
+   "kelime": "ٱلدُّنْيَا",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık; dünya",
+   "karsilik": "dünya"
+  },
+  {
+   "kelime": "كَمَثَلِ",
+   "okunus": "kemeseli",
+   "kok": "مثل",
+   "kokAnlam": "örnek, benzetme",
+   "karsilik": "örneği gibidir"
+  },
+  {
+   "kelime": "رِيحٍ",
+   "okunus": "rîhin",
+   "kok": "روح",
+   "kokAnlam": "rüzgâr",
+   "karsilik": "bir rüzgârın"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "صِرٌّ",
+   "okunus": "sırrun",
+   "kok": "صرر",
+   "kokAnlam": "dondurucu soğuk",
+   "karsilik": "dondurucu soğuk olan"
+  },
+  {
+   "kelime": "أَصَابَتْ",
+   "okunus": "esâbet",
+   "kok": "صوب",
+   "kokAnlam": "isabet etme, vurma",
+   "karsilik": "vurup"
+  },
+  {
+   "kelime": "حَرْثَ",
+   "okunus": "harse",
+   "kok": "حرث",
+   "kokAnlam": "ekin, tarla sürme",
+   "karsilik": "ekinini"
+  },
+  {
+   "kelime": "قَوْمٍ",
+   "okunus": "kavmin",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "bir topluluğun"
+  },
+  {
+   "kelime": "ظَلَمُوٓا۟",
+   "okunus": "zalemû",
+   "kok": "ظلم",
+   "kokAnlam": "zulüm",
+   "karsilik": "zulmeden"
+  },
+  {
+   "kelime": "أَنفُسَهُمْ",
+   "okunus": "enfüsehüm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "فَأَهْلَكَتْهُ",
+   "okunus": "feehlekethü",
+   "kok": "هلك",
+   "kokAnlam": "helak etme, yok etme",
+   "karsilik": "yok eden"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "ve ... etmedi"
+  },
+  {
+   "kelime": "ظَلَمَهُمُ",
+   "okunus": "zalemehümü",
+   "kok": "ظلم",
+   "kokAnlam": "zulüm",
+   "karsilik": "onlara zulmetmedi"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَلَٰكِنْ",
+   "okunus": "ve lâkin",
+   "kok": "—",
+   "kokAnlam": "(düzeltme) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "أَنفُسَهُمْ",
+   "okunus": "enfüsehüm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "يَظْلِمُونَ",
+   "okunus": "yazlimûne",
+   "kok": "ظلم",
+   "kokAnlam": "zulüm",
+   "karsilik": "zulmediyorlardı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayette anlatılan mal ve evladın Allah katında fayda sağlamamasını bir benzetmeyle somutlaştırır: inkârcıların bu dünyadaki harcamaları, kendine zulmeden bir topluluğun ekinini yok eden dondurucu bir rüzgâra benzetilir. Harcanan emek görünürde vardır, fakat sonuçta yok olur.",
+  "Ayetin son cümlesi, bu yıkımın Allah'tan değil kişilerin kendi zulmünden kaynaklandığını vurgular. Klasik tefsir bu ayeti, imansız bir temelde yapılan hayır ve harcamaların, dış görünüşte iyi olsa da amacına ulaşmayacağına dair bir örnek olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "14:18",
+   "meal": "İnkâr edenlerin amelleri, fırtınalı bir günde rüzgârın şiddetle savurduğu küle benzer; kazandıklarından hiçbir şeye güç yetiremezler.",
+   "baglanti": "İbrâhîm 18, inkârcıların amellerini de rüzgârla savrulan küle benzetir; 117. ayetteki 'rüzgârın ekini yok etmesi' benzetmesiyle aynı imgeyi paylaşır."
+  },
+  {
+   "ref": "2:264",
+   "meal": "Ey iman edenler, sadakalarınızı başa kakmak ve incitmekle boşa çıkarmayın... Onun durumu, üzerinde toprak bulunan ve şiddetli yağmurun çıplak bıraktığı kayaya benzer.",
+   "baglanti": "Bakara 264, samimiyetsiz bir harcamanın boşa gideceğini benzer bir doğa benzetmesiyle anlatır; 117. ayetteki temayı destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, imansız bir temelde yapılan harcamaların ahirette boşa gitmesidir; bu, dünyadaki her harcamanın anlamsız olduğu anlamına gelmez.",
+  "Günlük hayata taşınacak ders, bir emeğin veya harcamanın değerinin yalnızca miktarında değil, niyet ve temelinde olduğudur. Bir kişi yaptığı iyiliğin kalıcı olmasını istiyorsa, onu doğru bir niyet ve amaç üzerine kurmalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Niyetini gözden geçir",
+   "aciklama": "Bugün yaptığın bir harcamada veya iyilikte, asıl amacının ne olduğunu kendine sor."
+  },
+  {
+   "baslik": "Gösterişten uzak dur",
+   "aciklama": "Bir yardımı, başkasına gösteriş yapmak için değil, gerçekten fayda sağlamak için yap."
+  },
+  {
+   "baslik": "Emeğini sağlam bir temele bağla",
+   "aciklama": "Bugün üzerinde çalıştığın bir işin, geçici değil kalıcı bir değere hizmet ettiğinden emin ol."
+  }
+ ],
+ "bugununAdimi": "Bugün bir harcamanı veya emeğini, samimi bir niyete dayandırarak yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=3&verse=117"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/3/117"
+  }
+ ]
+}
