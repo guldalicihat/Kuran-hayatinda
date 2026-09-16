@@ -1,0 +1,222 @@
+{
+ "sure": 6,
+ "ayet": 73,
+ "durum": "taslak",
+ "meal": "O, gökleri ve yeri hak ile yaratandır. 'Ol' dediği an hemen oluverir; sözü haktır. Sûr'a üflendiği gün mülk O'nundur. Görüneni de görünmeyeni de bilendir. O, hüküm ve hikmet sahibidir, her şeyden haberdardır.",
+ "mealNotu": "'Yevme yekûlü kün feyekûn' ifadesi belirli bir zaman kaydı taşımadığından, 'gün' yerine 'an' tercih edilmiştir. 'Ġayb' ve 'şehâde' kökleri, görünmeyen ile görüneni birlikte kapsar.",
+ "kokler": [
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve O",
+   "karsilik": "O"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki O",
+   "karsilik": "ki O"
+  },
+  {
+   "kelime": "خَلَقَ",
+   "okunus": "haleka",
+   "kok": "خلق",
+   "kokAnlam": "yaratma, ölçüp biçme",
+   "karsilik": "yarattı"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yücelik, gök",
+   "karsilik": "gökleri"
+  },
+  {
+   "kelime": "وَٱلْأَرْضَ",
+   "okunus": "vel erda",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yeri"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, hak",
+   "karsilik": "hak ile"
+  },
+  {
+   "kelime": "وَيَوْمَ",
+   "okunus": "ve yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "ve gün"
+  },
+  {
+   "kelime": "يَقُولُ",
+   "okunus": "yekûlü",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediği"
+  },
+  {
+   "kelime": "كُن",
+   "okunus": "kün",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "'Ol'"
+  },
+  {
+   "kelime": "فَيَكُونُ",
+   "okunus": "feyekûnü",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "hemen oluverir"
+  },
+  {
+   "kelime": "قَوْلُهُ",
+   "okunus": "kavlühü",
+   "kok": "قول",
+   "kokAnlam": "söz, söyleme",
+   "karsilik": "sözü"
+  },
+  {
+   "kelime": "ٱلْحَقُّ",
+   "okunus": "elhakku",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, hak",
+   "karsilik": "haktır"
+  },
+  {
+   "kelime": "وَلَهُ",
+   "okunus": "ve lehü",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve O'nundur",
+   "karsilik": "ve O'nundur"
+  },
+  {
+   "kelime": "ٱلْمُلْكُ",
+   "okunus": "elmülkü",
+   "kok": "ملك",
+   "kokAnlam": "sahiplik, mülk, hükümranlık",
+   "karsilik": "mülk"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gün"
+  },
+  {
+   "kelime": "يُنفَخُ",
+   "okunus": "yünfehu",
+   "kok": "نفخ",
+   "kokAnlam": "üfleme",
+   "karsilik": "üflendiği"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلصُّورِ",
+   "okunus": "essûri",
+   "kok": "صور",
+   "kokAnlam": "sûr, şekil",
+   "karsilik": "Sûr'a"
+  },
+  {
+   "kelime": "عَٰلِمُ",
+   "okunus": "âlimü",
+   "kok": "علم",
+   "kokAnlam": "bilme, işaret",
+   "karsilik": "bilendir"
+  },
+  {
+   "kelime": "ٱلْغَيْبِ",
+   "okunus": "elgaybi",
+   "kok": "غيب",
+   "kokAnlam": "gizli olma, görünmezlik",
+   "karsilik": "görünmeyeni"
+  },
+  {
+   "kelime": "وَٱلشَّهَٰدَةِ",
+   "okunus": "veş şehâdeti",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık, görünür olma",
+   "karsilik": "ve görüneni"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve O",
+   "karsilik": "ve O"
+  },
+  {
+   "kelime": "ٱلْحَكِيمُ",
+   "okunus": "elhakîmü",
+   "kok": "حكم",
+   "kokAnlam": "hükmetme, sağlamlık, hikmet",
+   "karsilik": "hüküm ve hikmet sahibidir"
+  },
+  {
+   "kelime": "ٱلْخَبِيرُ",
+   "okunus": "elhabîru",
+   "kok": "خبر",
+   "kokAnlam": "haber, bilgi sahibi olma",
+   "karsilik": "her şeyden haberdardır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerdeki 'huzurunda toplanacaksınız' ifadesinin ardından, bu toplanmanın gerçekleşeceği gücü tanıtır: Gökleri ve yeri hak ile yaratan, sözü anında gerçekleşen Allah. 'Kün feyekûn' ifadesi, yaratmanın hiçbir aracıya ihtiyaç duymadan gerçekleştiğini vurgular.",
+  "Ayet, Sûr'a üflenme -kıyametin kopuşu- anında mülkün yalnız Allah'a ait olacağını, O'nun görüneni de gizliyi de bildiğini, hüküm ve hikmet sahibi, her şeyden haberdar olduğunu hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:82",
+   "meal": "O'nun işi, bir şeyi dilediğinde ona sadece 'Ol!' demektir; o da hemen oluverir.",
+   "baglanti": "'Kün feyekûn' ifadesi burada da aynen geçer; Allah'ın yaratma buyruğunun anlık gücünü anlatır."
+  },
+  {
+   "ref": "59:22",
+   "meal": "O, kendisinden başka ilah olmayan Allah'tır. Görüneni de gizliyi de bilendir. O, Rahmândır, Rahîmdir.",
+   "baglanti": "'Gaybı ve şehadeti bilme' ifadesi burada da geçer; Allah'ın bilgisinin hem görünen hem görünmeyeni kapsadığını pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Allah'ın yaratma gücü ve bilgisidir; bu, günlük hayata dönük tek bir eylem önermez, bir bakış açısı sunar.",
+  "Her şeyin O'nun bilgisi dahilinde olduğunu, gizlisiyle açığıyla hiçbir şeyin O'ndan saklı kalmadığını bilmek, kişiyi hem gizli hem açık davranışlarında tutarlı olmaya yöneltir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gizli-açık tutarlılığını gözden geçir",
+   "aciklama": "Bugün kimse görmese de yapman gerekeni, görülüyormuş gibi yap."
+  },
+  {
+   "baslik": "Kolay olanı hatırla",
+   "aciklama": "Zor görünen bir işe başlarken 'O dilerse an içinde kolaylaşır' diye düşün ve ilk adımı at."
+  },
+  {
+   "baslik": "Bilgisine güven",
+   "aciklama": "Anlayamadığın bir durumu, O'nun her şeyi bildiğini hatırlayarak sabırla bekle."
+  }
+ ],
+ "bugununAdimi": "Bugün kimsenin görmediği bir anında, görülüyormuş gibi doğru davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=73"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/73"
+  }
+ ]
+}

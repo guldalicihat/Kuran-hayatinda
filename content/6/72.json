@@ -1,0 +1,110 @@
+{
+ "sure": 6,
+ "ayet": 72,
+ "durum": "taslak",
+ "meal": "Namazı dosdoğru kılmamız ve O'ndan sakınmamız da [emredildi]. Huzurunda toplanacağınız da O'dur.",
+ "mealNotu": "Ayet, bir önceki ayetteki 'ümirnâ' (bize emredildi) fiiline bağlıdır; bu yüzden başındaki emir '[emredildi]' köşeli parantezle eklenmiştir. 'Tühşerûne' kökü حشر, dağılmış olanın bir araya toplanmasını anlatır; burada kıyamette Allah'ın huzurunda toplanmayı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَأَنْ",
+   "okunus": "ve en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ve -mamız",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "أَقِيمُوا۟",
+   "okunus": "ekîmû",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, doğrultma",
+   "karsilik": "namazı dosdoğru kılmamız"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "namaz",
+   "karsilik": "namazı"
+  },
+  {
+   "kelime": "وَٱتَّقُوهُ",
+   "okunus": "vettekûhü",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "ve O'ndan sakınmamız"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve o",
+   "karsilik": "huzurunda toplanacağınız da O'dur"
+  },
+  {
+   "kelime": "ٱلَّذِىٓ",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki O",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "إِلَيْهِ",
+   "okunus": "ileyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) O'na",
+   "karsilik": "O'nun"
+  },
+  {
+   "kelime": "تُحْشَرُونَ",
+   "okunus": "tühşerûne",
+   "kok": "حشر",
+   "kokAnlam": "toplama, bir araya getirme",
+   "karsilik": "toplanacaksınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 71. ayetteki 'âlemlerin Rabbine teslim olma' emrinin devamı olarak namaz ve takvayı sayar. Teslimiyet yalnız sözde kalmaz; namazı dosdoğru kılmak ve Allah'tan sakınmakla somutlaşır.",
+  "Ayetin sonu, bu teslimiyetin sebebini hatırlatır: Herkesin sonunda toplanacağı yer O'nun huzurudur. Bu, hem sorumluluk hem teselli taşıyan bir hatırlatmadır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:3",
+   "meal": "Onlar gaybe inanırlar, namazı dosdoğru kılarlar ve kendilerine rızık olarak verdiğimizden Allah yolunda harcarlar.",
+   "baglanti": "Namazı dosdoğru kılma ifadesi burada iman edenlerin temel bir özelliği olarak tekrarlanır."
+  },
+  {
+   "ref": "6:38",
+   "meal": "Yeryüzünde yürüyen hiçbir hayvan, iki kanadıyla uçan hiçbir kuş yoktur ki sizin gibi topluluklar olmasın. Kitapta hiçbir şeyi eksik bırakmadık; sonra hepsi Rablerinin huzurunda toplanacaklardır.",
+   "baglanti": "'Huzurda toplanma' (حشر) ifadesi burada da geçer; her varlığın sonunda Rabbine döneceği hatırlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu namaz ve takvadır; ikisi birlikte anılır çünkü namaz, Allah bilincini günlük hayatta canlı tutan bir araçtır.",
+  "Herkesin bir gün hesap vereceği bilinci, günlük kararları daha dikkatli almaya yardım eder. Namazı vaktinde kılmak, bu bilinci gün içinde tazeleyen küçük bir durak gibidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Namazı vaktinde kıl",
+   "aciklama": "Bugünkü namazlardan birini ertelemeden, vaktinde kılmaya özen göster."
+  },
+  {
+   "baslik": "Bir sakınma kararı al",
+   "aciklama": "Bugün yapmaktan kaçınman gereken küçük bir yanlışı belirle ve ondan uzak dur."
+  },
+  {
+   "baslik": "Hesap bilincini hatırla",
+   "aciklama": "Bir kararı verirken 'bunun hesabını nasıl veririm' diye kendine sor."
+  }
+ ],
+ "bugununAdimi": "Bugün bir namazını, işini bırakıp vaktinde kılarak teslimiyetini göster.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=72"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/72"
+  }
+ ]
+}
