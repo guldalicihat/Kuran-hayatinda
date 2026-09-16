@@ -1,0 +1,285 @@
+{
+ "sure": 8,
+ "ayet": 41,
+ "durum": "taslak",
+ "meal": "Bilin ki, ganimet olarak aldığınız her şeyin beşte biri Allah'a, Elçi'ye, yakınlığa (yakın akrabaya), yetimlere, yoksullara ve yolda kalmışa aittir; eğer Allah'a ve hak ile batılın ayrıldığı gün, iki topluluğun karşılaştığı gün kulumuza indirdiğimize iman ettiyseniz. Allah her şeye güç yetirendir.",
+ "mealNotu": "'Furkân' kökü (ف ر ق) ayırmayı anlatır; burada Bedir gününün hak ile batılı birbirinden ayıran gün olduğunu vurgular. 'Hums' kökü doğrudan 'beşte bir' sayısını ifade eder, meale yorum eklenmemiştir.",
+ "kokler": [
+  {
+   "kelime": "وَٱعْلَمُوٓا۟",
+   "okunus": "velemû",
+   "kok": "علم",
+   "kokAnlam": "bilme, kesin bilgiye ulaşma",
+   "karsilik": "bilin ki"
+  },
+  {
+   "kelime": "أَنَّمَا",
+   "okunus": "ennemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid edatı) şüphesiz ki",
+   "karsilik": "şüphesiz ki"
+  },
+  {
+   "kelime": "غَنِمْتُم",
+   "okunus": "ganimtüm",
+   "kok": "غنم",
+   "kokAnlam": "ganimet alma, savaş kazancı elde etme",
+   "karsilik": "ganimet olarak aldığınız"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "bir şey"
+  },
+  {
+   "kelime": "فَأَنَّ",
+   "okunus": "feenne",
+   "kok": "—",
+   "kokAnlam": "(te'kid edatı) şüphesiz ki",
+   "karsilik": "şüphesiz ki"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah'a aittir"
+  },
+  {
+   "kelime": "خُمُسَهُۥ",
+   "okunus": "humüsehû",
+   "kok": "خمس",
+   "kokAnlam": "beşte bir",
+   "karsilik": "onun beşte biri"
+  },
+  {
+   "kelime": "وَلِلرَّسُولِ",
+   "okunus": "ve lilrrasûli",
+   "kok": "رسل",
+   "kokAnlam": "elçilik, gönderilme",
+   "karsilik": "ve Elçi'ye"
+  },
+  {
+   "kelime": "وَلِذِى",
+   "okunus": "ve lizî",
+   "kok": "—",
+   "kokAnlam": "(isim) sahip olan",
+   "karsilik": "ve sahibine"
+  },
+  {
+   "kelime": "ٱلْقُرْبَىٰ",
+   "okunus": "elkurbâ",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık",
+   "karsilik": "yakınlığın (yakın akrabaya)"
+  },
+  {
+   "kelime": "وَٱلْيَتَٰمَىٰ",
+   "okunus": "vel yetâmâ",
+   "kok": "يتم",
+   "kokAnlam": "yetimlik, tek kalma",
+   "karsilik": "yetimlere"
+  },
+  {
+   "kelime": "وَٱلْمَسَٰكِينِ",
+   "okunus": "vel mesâkîni",
+   "kok": "سكن",
+   "kokAnlam": "durgunluk, hareketsizlik; yoksulluk",
+   "karsilik": "yoksullara"
+  },
+  {
+   "kelime": "وَٱبْنِ",
+   "okunus": "vebni",
+   "kok": "بني",
+   "kokAnlam": "oğul, evlat olma",
+   "karsilik": "ve oğluna"
+  },
+  {
+   "kelime": "ٱلسَّبِيلِ",
+   "okunus": "essebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolun (yolda kalmışın)"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "ءَامَنتُم",
+   "okunus": "âmentüm",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman ettiyseniz"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi/bağlaç) şey",
+   "karsilik": "ve şeye"
+  },
+  {
+   "kelime": "أَنزَلْنَا",
+   "okunus": "enzelnâ",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdiğimiz"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "عَبْدِنَا",
+   "okunus": "abdinâ",
+   "kok": "عبد",
+   "kokAnlam": "kulluk",
+   "karsilik": "kulumuza"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gününü"
+  },
+  {
+   "kelime": "ٱلْفُرْقَانِ",
+   "okunus": "elfürkâni",
+   "kok": "فرق",
+   "kokAnlam": "ayırma, hakkı batıldan ayırma",
+   "karsilik": "Furkan'ın (hakla batılı ayıran)"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "ٱلْتَقَى",
+   "okunus": "eltekâ",
+   "kok": "لقي",
+   "kokAnlam": "karşılaşma, buluşma",
+   "karsilik": "karşılaştığı"
+  },
+  {
+   "kelime": "ٱلْجَمْعَانِ",
+   "okunus": "elcem'âni",
+   "kok": "جمع",
+   "kokAnlam": "toplanma, bir araya gelme",
+   "karsilik": "iki topluluğun"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "كُلِّ",
+   "okunus": "külli",
+   "kok": "كلل",
+   "kokAnlam": "bütünlük, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "şeye"
+  },
+  {
+   "kelime": "قَدِيرٌ",
+   "okunus": "kadîrun",
+   "kok": "قدر",
+   "kokAnlam": "ölçme, güç yetirme",
+   "karsilik": "güç yetirendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Bedir Savaşı sonrası ele geçen ganimetin nasıl paylaşılacağını hükme bağlar. Önceki ayetler münafık ve zayıf imanlıların Bedir öncesindeki tereddütlerinden söz ederken bu ayet, savaşın maddi sonucunu düzenler: elde edilen ganimetin beşte biri; Allah'a (yani kamu/toplum yararına), Elçi'ye, yakın akrabaya, yetimlere, yoksullara ve yolda kalmışlara ayrılır, geri kalanı ise savaşa katılanlar arasında paylaşılır. Klasik tefsir bu payların kimlere ve nasıl dağıtılacağını ayrı ayrı açıklar; ayetin kendisi yalnız beşte bir oranını ve kimlere gideceğini belirtir.",
+  "Ayetin sonunda hükmün iman şartına bağlanması dikkat çekicidir: bu paylaşımı kabul etmek, Allah'a ve Bedir'de ('Furkân günü', hak ile batılın ayrıldığı gün) indirilen yardıma iman etmenin bir gereği olarak sunulur. Bu, ganimetin kişisel bir kazanç değil, topluluğun ortak zaferinin ürünü olduğu bilincini pekiştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "59:7",
+   "meal": "Allah'ın, o kentler halkından Elçisi'ne kattığı fey' (savaşsız kazanılan mal), Allah'a, Elçi'ye, yakınlara, yetimlere, yoksullara ve yolda kalmışa aittir; ki mal, içinizden yalnız zenginler arasında dolaşan bir şey olmasın.",
+   "baglanti": "Bu ayet, 8:41'deki beşte bir payının verildiği aynı altı grubu (Allah, Elçi, yakınlar, yetimler, yoksullar, yolda kalmış) neredeyse aynı sırayla sayar; savaşsız kazanılan malın (fey') dağıtımı da benzer bir adalet ilkesine bağlanır."
+  },
+  {
+   "ref": "8:1",
+   "meal": "Sana ganimetleri (enfâl) sorarlar. De ki: Ganimetler Allah'a ve Elçi'ye aittir. Öyleyse Allah'tan korkun, aranızı düzeltin, Allah'a ve Elçisi'ne itaat edin; eğer müminlerseniz.",
+   "baglanti": "Enfâl suresinin ilk ayeti, ganimet konusundaki nihai kararın Allah ve Elçi'ye bırakılması gerektiğini söyler; 41. ayet ise bu genel ilkeyi somut bir paylaşım hükmüne dönüştürür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, savaş sonrası ganimetin paylaşımına dair özel bir hukuki hükümdür; bu, tarihî ve dönemine özgü bir düzenlemedir, günümüze doğrudan aktarılacak bir savaş hukuku kuralı değildir.",
+  "Buradan genel olarak çıkarılabilecek ders, ortak bir emekle elde edilen kazancın tamamının kişisel mülk sayılmaması, bir kısmının ihtiyaç sahiplerine ve ortak yarara ayrılmasıdır. Bir ekip başarısının veya ortak kazancın paylaşımında, yalnız kendi payını düşünmek yerine yetim, yoksul ve muhtaç gibi kırılgan grupları da hesaba katmak, bu ayetten süzülebilecek genel bir ilkedir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kazancından bir pay ayır",
+   "aciklama": "Bugün elde ettiğin bir gelirin küçük bir kısmını, önceden belirlediğin bir ihtiyaç sahibi için kenara koy."
+  },
+  {
+   "baslik": "Ortak kazançta şeffaf ol",
+   "aciklama": "Birlikte çalıştığın bir işte pay veya emek dağılımını açıkça konuş, gizli tutma."
+  },
+  {
+   "baslik": "Kırılgan grubu unutma",
+   "aciklama": "Bir paylaşım ya da bütçe planı yaparken yetim, yoksul veya yolda kalmış birini de listene ekle."
+  }
+ ],
+ "bugununAdimi": "Bugün aldığın bir kazancın küçük bir bölümünü, ihtiyaç sahibi belirli bir kişi veya kuruma ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=41"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/8/41"
+  }
+ ]
+}

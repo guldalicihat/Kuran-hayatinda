@@ -1,0 +1,299 @@
+{
+ "sure": 8,
+ "ayet": 42,
+ "durum": "taslak",
+ "meal": "Hani siz vadinin yakın kenarında, onlar uzak kenarında, kervan ise sizden daha aşağıdaydı. Sözleşseydiniz bile buluşma vaktinde ihtilafa düşerdiniz; fakat Allah, gerçekleşecek olan bir işi yerine getirmek içindi ki helak olacak açık bir delille helak olsun, yaşayacak olan da açık bir delille yaşasın. Şüphesiz Allah işitendir, bilendir.",
+ "mealNotu": "'Beyyine' kökü (ب ي ن) açıklık ve delil anlamına gelir; ayet, helak olan ya da yaşayan herkesin bu açık delil karşısında konumunu belirlediğini vurgular. Cümlenin gerekçe kısmı için '(böyle yaptı) ki' anlamı köşeli parantez kullanılmadan fiil akışıyla verilmiştir.",
+ "kokler": [
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman edatı) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "أَنتُم",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "بِٱلْعُدْوَةِ",
+   "okunus": "bil udveti",
+   "kok": "عدو",
+   "kokAnlam": "kenar, yamaç",
+   "karsilik": "vadinin kenarında"
+  },
+  {
+   "kelime": "ٱلدُّنْيَا",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık",
+   "karsilik": "yakın (kenarında)"
+  },
+  {
+   "kelime": "وَهُم",
+   "okunus": "ve hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar da"
+  },
+  {
+   "kelime": "بِٱلْعُدْوَةِ",
+   "okunus": "bil udveti",
+   "kok": "عدو",
+   "kokAnlam": "kenar, yamaç",
+   "karsilik": "kenarında"
+  },
+  {
+   "kelime": "ٱلْقُصْوَىٰ",
+   "okunus": "elkusvâ",
+   "kok": "قصو",
+   "kokAnlam": "uzaklık",
+   "karsilik": "uzak (kenarında)"
+  },
+  {
+   "kelime": "وَٱلرَّكْبُ",
+   "okunus": "ver rakbü",
+   "kok": "ركب",
+   "kokAnlam": "binme; kervan",
+   "karsilik": "kervan"
+  },
+  {
+   "kelime": "أَسْفَلَ",
+   "okunus": "esfele",
+   "kok": "سفل",
+   "kokAnlam": "alt, aşağılık",
+   "karsilik": "daha aşağıda"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَوَاعَدتُّمْ",
+   "okunus": "tevâadttüm",
+   "kok": "وعد",
+   "kokAnlam": "vaadleşme, sözleşme",
+   "karsilik": "sözleşseydiniz"
+  },
+  {
+   "kelime": "لَٱخْتَلَفْتُمْ",
+   "okunus": "lehteleftüm",
+   "kok": "خلف",
+   "kokAnlam": "ayrılık, ihtilaf",
+   "karsilik": "ihtilafa düşerdiniz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ٱلْمِيعَٰدِ",
+   "okunus": "elmîâdi",
+   "kok": "وعد",
+   "kokAnlam": "vaad, buluşma vakti",
+   "karsilik": "buluşma vaktinde"
+  },
+  {
+   "kelime": "وَلَٰكِن",
+   "okunus": "ve lâkin",
+   "kok": "—",
+   "kokAnlam": "(düzeltme) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "لِّيَقْضِىَ",
+   "okunus": "liyekdıye",
+   "kok": "قضي",
+   "kokAnlam": "hükme bağlama, gerçekleştirme",
+   "karsilik": "gerçekleştirmek içindi"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "أَمْرًا",
+   "okunus": "emran",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir",
+   "karsilik": "bir işi"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olan"
+  },
+  {
+   "kelime": "مَفْعُولًا",
+   "okunus": "mef'ûlen",
+   "kok": "فعل",
+   "kokAnlam": "yapılmış, gerçekleşecek",
+   "karsilik": "gerçekleşecek olan"
+  },
+  {
+   "kelime": "لِّيَهْلِكَ",
+   "okunus": "liyehlike",
+   "kok": "هلك",
+   "kokAnlam": "yok olma, helak olma",
+   "karsilik": "helak olsun diye"
+  },
+  {
+   "kelime": "مَنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "هَلَكَ",
+   "okunus": "heleke",
+   "kok": "هلك",
+   "kokAnlam": "yok olma, helak olma",
+   "karsilik": "helak olacaksa"
+  },
+  {
+   "kelime": "عَنۢ",
+   "okunus": "am",
+   "kok": "—",
+   "kokAnlam": "(edat) ile",
+   "karsilik": "ile"
+  },
+  {
+   "kelime": "بَيِّنَةٍ",
+   "okunus": "beyyinetin",
+   "kok": "بين",
+   "kokAnlam": "açıklık, delil",
+   "karsilik": "açık bir delille"
+  },
+  {
+   "kelime": "وَيَحْيَىٰ",
+   "okunus": "ve yahyâ",
+   "kok": "حيي",
+   "kokAnlam": "yaşama, hayat",
+   "karsilik": "yaşasın diye"
+  },
+  {
+   "kelime": "مَنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "حَىَّ",
+   "okunus": "hayye",
+   "kok": "حيي",
+   "kokAnlam": "yaşama, hayat",
+   "karsilik": "yaşayacaksa"
+  },
+  {
+   "kelime": "عَنۢ",
+   "okunus": "am",
+   "kok": "—",
+   "kokAnlam": "(edat) ile",
+   "karsilik": "ile"
+  },
+  {
+   "kelime": "بَيِّنَةٍ",
+   "okunus": "beyyinetin",
+   "kok": "بين",
+   "kokAnlam": "açıklık, delil",
+   "karsilik": "açık bir delille"
+  },
+  {
+   "kelime": "وَإِنَّ",
+   "okunus": "ve inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَسَمِيعٌ",
+   "okunus": "lesemîun",
+   "kok": "سمع",
+   "kokAnlam": "işitme",
+   "karsilik": "işitendir"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Bedir Savaşı'ndaki karşılaşmanın olağan dışı şartlarını hatırlatır: müminler vadinin yakın, düşman ordusu uzak kenarındaydı, ticaret kervanı ise daha aşağı bir noktadaydı; hiçbiri önceden planlanmamıştı. İki taraf da önceden sözleşmiş olsaydı bile, böyle tam bir karşılaşmayı sağlayamayacaklarını ayet vurgular.",
+  "Anlatılan asıl nokta, bu karşılaşmanın rastlantı değil, Allah'ın 'gerçekleşecek olan bir işi' yerine getirmesi olduğudur; öyle ki helak olan açık bir delille helak olsun, yaşayan da açık bir delille yaşasın. Klasik tefsir bu ifadeyi, Bedir'deki apaçık işaretlerden sonra artık kimsenin bilgisizlik bahanesine sığınamayacağı şeklinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:123",
+   "meal": "Andolsun, siz güçsüz iken Allah size Bedir'de yardım etmişti; öyleyse Allah'tan korkun ki şükredesiniz.",
+   "baglanti": "Bu ayet doğrudan Bedir'i adıyla anar ve müminlerin o gün güçsüz durumda olduğunu belirtir; 8:42'deki konum tasviri bu güçsüzlüğün somut bir görüntüsüdür."
+  },
+  {
+   "ref": "3:13",
+   "meal": "Karşılaşan iki toplulukta sizin için bir işaret vardı: biri Allah yolunda savaşıyordu, diğeri inkârcıydı; onlar bunları gözleriyle kendilerinin iki katı görüyorlardı. Allah, dilediğini yardımıyla destekler.",
+   "baglanti": "Bu ayet de aynı Bedir sahnesini, tarafların birbirini nasıl gördüğü açısından anlatır; 8:42'nin 'gerçekleşecek olan bir iş' vurgusunu, sahadaki algı boyutuyla tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, tarihî bir savaşın coğrafi ve zamansal ayrıntılarıdır; bu, Bedir'e özgü somut bir sahnedir.",
+  "Buradan çıkarılabilecek genel ders, hayatındaki önemli dönüm noktalarının çoğu zaman kendi planımızın dışında, beklenmedik biçimde bir araya gelen şartlarla ortaya çıktığıdır. Bir sonucu yalnız kendi hesaplarımızla açıklamaya çalışmak yerine, üzerimizde iş gören daha büyük bir düzenin farkında olmak, bu ayetten süzülebilecek bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Planlamadığın bir gelişmeyi fark et",
+   "aciklama": "Bugün kendi kontrolünde olmayan ama hayatını etkileyen bir şartı yaz ve ona nasıl tepki verdiğini gözden geçir."
+  },
+  {
+   "baslik": "Sonucu tek nedene bağlama",
+   "aciklama": "Bir başarı veya zorluğu değerlendirirken, tek bir sebep yerine üzerinde etkili olan birkaç şartı say."
+  },
+  {
+   "baslik": "Açık işareti görmezden gelme",
+   "aciklama": "Bugün önünde duran açık bir gerçeği fark ettiğinde, onu görmezden gelmek yerine ona göre bir adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün yaşadığın bir gelişmede, kendi planının dışında hangi şartların rol oynadığını yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=42"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/8/42"
+  }
+ ]
+}

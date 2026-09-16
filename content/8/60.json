@@ -1,0 +1,285 @@
+{
+ "sure": 8,
+ "ayet": 60,
+ "durum": "taslak",
+ "meal": "Onlara karşı gücünüzün yettiği kadar kuvvet ve savaşa hazır bekletilen atlar hazırlayın ki bununla Allah'ın düşmanını, sizin düşmanınızı ve bunların dışında, sizin bilmediğiniz ama Allah'ın bildiği başkalarını korkutup caydırasınız. Allah yolunda her ne harcarsanız, size eksiksiz ödenir ve size haksızlık edilmez.",
+ "mealNotu": "'Ribâtı'l-hayl' savaşa hazır bekletilen atları, 'türhibûne' kökü رهب korkutup caydırmayı anlatır. Ayet, hazırlığın amacını (caydırıcılık) doğrudan metinde belirttiği için ek köşeli parantez gerekmemiştir.",
+ "kokler": [
+  {
+   "kelime": "وَأَعِدُّوا۟",
+   "okunus": "ve eiddû",
+   "kok": "عدد",
+   "kokAnlam": "hazırlama, sayıp donatma, hazır tutma",
+   "karsilik": "hazırlayın"
+  },
+  {
+   "kelime": "لَهُم",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlara karşı",
+   "karsilik": "onlara karşı"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ne varsa",
+   "karsilik": "ne varsa"
+  },
+  {
+   "kelime": "ٱسْتَطَعْتُم",
+   "okunus": "isteta'tüm",
+   "kok": "طوع",
+   "kokAnlam": "güç yetirme, gücü yetme",
+   "karsilik": "gücünüzün yettiği"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قُوَّةٍ",
+   "okunus": "kuvvetin",
+   "kok": "قوي",
+   "kokAnlam": "güç, kuvvet",
+   "karsilik": "kuvvet"
+  },
+  {
+   "kelime": "وَمِن",
+   "okunus": "ve min",
+   "kok": "—",
+   "kokAnlam": "(edat) ve -den",
+   "karsilik": "ve -den"
+  },
+  {
+   "kelime": "رِّبَاطِ",
+   "okunus": "ribâtı",
+   "kok": "ربط",
+   "kokAnlam": "bağlama, hazır bekletme",
+   "karsilik": "hazır bekletilen"
+  },
+  {
+   "kelime": "ٱلْخَيْلِ",
+   "okunus": "elhayli",
+   "kok": "خيل",
+   "kokAnlam": "at, süvari",
+   "karsilik": "atlardan"
+  },
+  {
+   "kelime": "تُرْهِبُونَ",
+   "okunus": "türhibûne",
+   "kok": "رهب",
+   "kokAnlam": "korkutma, caydırma, ürkütme",
+   "karsilik": "korkutup caydırasınız"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "عَدُوَّ",
+   "okunus": "adüvve",
+   "kok": "عدو",
+   "kokAnlam": "düşmanlık, düşman",
+   "karsilik": "düşmanını"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَعَدُوَّكُمْ",
+   "okunus": "ve adüvveküm",
+   "kok": "عدو",
+   "kokAnlam": "düşmanlık, düşman",
+   "karsilik": "ve sizin düşmanınızı"
+  },
+  {
+   "kelime": "وَءَاخَرِينَ",
+   "okunus": "ve âharîne",
+   "kok": "أخر",
+   "kokAnlam": "başka, diğer, sonraki",
+   "karsilik": "ve başkalarını"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِهِمْ",
+   "okunus": "dûnihim",
+   "kok": "دون",
+   "kokAnlam": "ötesi, dışı, aşağısı",
+   "karsilik": "onların ötesinde"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "-mediğiniz"
+  },
+  {
+   "kelime": "تَعْلَمُونَهُمُ",
+   "okunus": "ta'lemûnehümü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "siz onları bilmezsiniz"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَعْلَمُهُمْ",
+   "okunus": "ya'lemühüm",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "onları bilir"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(şart edatı) ve ne ki",
+   "karsilik": "ve ne ki"
+  },
+  {
+   "kelime": "تُنفِقُوا۟",
+   "okunus": "tünfikû",
+   "kok": "نفق",
+   "kokAnlam": "harcama, infak etme",
+   "karsilik": "harcarsanız"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "herhangi bir şey"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "يُوَفَّ",
+   "okunus": "yüveffe",
+   "kok": "وفي",
+   "kokAnlam": "tam olarak yerine getirme, eksiksiz ödeme",
+   "karsilik": "eksiksiz ödenir"
+  },
+  {
+   "kelime": "إِلَيْكُمْ",
+   "okunus": "ileyküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "وَأَنتُمْ",
+   "okunus": "ve entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve siz",
+   "karsilik": "ve siz"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "-mezsiniz"
+  },
+  {
+   "kelime": "تُظْلَمُونَ",
+   "okunus": "tüzlemûne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık etme, zulmetme",
+   "karsilik": "haksızlığa uğratılmazsınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetlerde anlatılan ahde vefasız düşmana karşı, olası bir savaş için caydırıcı bir güç hazırlığını konu edinir; bu, Medine döneminin özel bir askerî-hukuki hükmüdür. 'A'iddû' kökü عدد hazırlamayı, 'türhibûne' kökü رهب ise korkutup caydırmayı anlatır; hazırlığın hedefi açıkça saldırmak değil, düşmanı ve gizli kalan başka tehditleri caydırmaktır.",
+  "Ayetin ikinci yarısı, bu hazırlığın Allah yolunda yapılan bir harcama olduğunu ve hiçbir emeğin karşılıksız kalmayacağını bildirir. Klasik tefsir bu ayeti, bilinen ve bilinmeyen tehlikelere karşı ölçülü bir hazırlık ilkesi olarak açıklar; hazırlığın amacı düşmanlık üretmek değil, saldırıyı baştan caydırmaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:200",
+   "meal": "Ey iman edenler! Sabredin, sabır yarışında düşmanınızı geride bırakın, nöbet tutup hazır bekleyin ve Allah'a karşı gelmekten sakının ki kurtuluşa eresiniz.",
+   "baglanti": "'Râbitû' fiili, 8:60'daki 'ribâtı'l-hayl' ile aynı kökten (ربط) gelir; her iki ayet de bir tehlikeye karşı sürekli hazırlıklı ve teyakkuzda olmayı öğütler."
+  },
+  {
+   "ref": "2:272",
+   "meal": "Onları doğru yola iletmek sana ait değildir; fakat Allah dilediğini doğru yola iletir. Hayırdan ne harcarsanız kendi yararınızadır; siz ancak Allah'ın rızasını isteyerek harcarsınız. Hayırdan ne harcarsanız size eksiksiz ödenir ve size haksızlık edilmez.",
+   "baglanti": "Ayetin son cümlesi 8:60'daki 'yüveffe ileyküm ve entüm lâ tüzlemûn' ifadesiyle neredeyse birebir aynıdır; her iki ayet de Allah yolunda yapılan harcamanın eksiksiz karşılığını vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, tarihî bir dönemde ahde vefasız bir düşmana karşı yapılan askerî hazırlık ve caydırıcılık hükmüdür; bu özel bir savaş hukuku bağlamıdır ve günümüze doğrudan bir askerî talimat olarak taşınmaz.",
+  "Buradan çıkarılabilecek evrensel ders, olası bir tehlikeye karşı önceden ve ölçülü biçimde hazırlıklı olmak, bu hazırlığın amacını saldırganlık değil koruma ve caydırıcılık olarak görmektir. Günlük hayatta bu, sağlık, iş ya da güvenlik gibi alanlarda önceden tedbir almak ve iyi bir amaç için harcanan emeğin ya da malın boşa gitmeyeceğine güvenmek şeklinde yorumlanabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçük bir tedbir al",
+   "aciklama": "Bugün karşılaşabileceğin bir zorluğa karşı (sağlık, iş, aile) somut ve küçük bir tedbir al."
+  },
+  {
+   "baslik": "Amacını koruma yap",
+   "aciklama": "Bugün aldığın bir önlemin amacının saldırganlık değil koruma olduğunu kendine hatırlat."
+  },
+  {
+   "baslik": "Emeğinin karşılıksız kalmayacağına güven",
+   "aciklama": "Bugün iyi bir amaç için yaptığın bir harcamanın ya da emeğin boşa gitmeyeceğine güvenerek devam et."
+  }
+ ],
+ "bugununAdimi": "Bugün karşılaşabileceğin bir zorluğa karşı somut, küçük bir tedbir al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=60"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/8/60"
+  }
+ ]
+}
