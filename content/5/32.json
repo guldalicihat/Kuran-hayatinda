@@ -1,0 +1,334 @@
+{
+ "sure": 5,
+ "ayet": 32,
+ "durum": "taslak",
+ "meal": "İşte bu yüzden İsrailoğulları'na şöyle yazdık: Kim bir cana kıymamış ya da yeryüzünde bozgunculuk çıkarmamış birini öldürürse, bütün insanları öldürmüş gibi olur; kim de bir canı yaşatırsa, bütün insanları yaşatmış gibi olur. Andolsun, elçilerimiz onlara açık delillerle geldi; sonra onlardan birçoğu bunun ardından yeryüzünde aşırı gitmeye devam etti.",
+ "mealNotu": "'Nefsen bi ğayri nefsin ev fesâdin fil ard' ifadesi, kısasa veya bozgunculuğa karşılık olmaksızın öldürmeyi kasteder; meal bunu 'cana kıymamış ya da bozgunculuk çıkarmamış birini' şeklinde açar. Bu hüküm, önceki ayetlerdeki cinayet kıssasının ardından 'bu yüzden' (min ecli zâlike) diyerek bağlanır.",
+ "kokler": [
+  {
+   "kelime": "مَن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "أَجْلِ",
+   "okunus": "ecli",
+   "kok": "أجل",
+   "kokAnlam": "sebep, uğur",
+   "karsilik": "yüzünden"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "كَتَبْنَا",
+   "okunus": "ketebnâ",
+   "kok": "كتب",
+   "kokAnlam": "yazma, hükmetme",
+   "karsilik": "yazdık"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "بَنِىٓ",
+   "okunus": "benî",
+   "kok": "بني",
+   "kokAnlam": "oğul; oğulları",
+   "karsilik": "oğullarına"
+  },
+  {
+   "kelime": "إِسْرَٰٓءِيلَ",
+   "okunus": "isrâîle",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İsrail",
+   "karsilik": "İsrail'in"
+  },
+  {
+   "kelime": "أَنَّهُۥ",
+   "okunus": "ennehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz o",
+   "karsilik": "şöyle ki"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "قَتَلَ",
+   "okunus": "katele",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürürse"
+  },
+  {
+   "kelime": "نَفْسًۢا",
+   "okunus": "nefsen",
+   "kok": "نفس",
+   "kokAnlam": "can, kendilik, nefis",
+   "karsilik": "bir canı"
+  },
+  {
+   "kelime": "بِغَيْرِ",
+   "okunus": "biğayri",
+   "kok": "غير",
+   "kokAnlam": "başkalık, gayrılık",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "نَفْسٍ",
+   "okunus": "nefsin",
+   "kok": "نفس",
+   "kokAnlam": "can, kendilik, nefis",
+   "karsilik": "bir can"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "فَسَادٍ",
+   "okunus": "fesâdin",
+   "kok": "فسد",
+   "kokAnlam": "bozulma, bozgunculuk",
+   "karsilik": "bozgunculuk"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "فَكَأَنَّمَآ",
+   "okunus": "fekeennemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) sanki",
+   "karsilik": "sanki"
+  },
+  {
+   "kelime": "قَتَلَ",
+   "okunus": "katele",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürmüş gibi olur"
+  },
+  {
+   "kelime": "ٱلنَّاسَ",
+   "okunus": "ennâse",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet",
+   "karsilik": "insanları"
+  },
+  {
+   "kelime": "جَمِيعًا",
+   "okunus": "cemîan",
+   "kok": "جمع",
+   "kokAnlam": "toplama, bütün",
+   "karsilik": "bütün"
+  },
+  {
+   "kelime": "وَمَنْ",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "أَحْيَاهَا",
+   "okunus": "ahyâhâ",
+   "kok": "حيي",
+   "kokAnlam": "diriltme, yaşatma",
+   "karsilik": "onu yaşatırsa"
+  },
+  {
+   "kelime": "فَكَأَنَّمَآ",
+   "okunus": "fekeennemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) sanki",
+   "karsilik": "sanki"
+  },
+  {
+   "kelime": "أَحْيَا",
+   "okunus": "ahyâ",
+   "kok": "حيي",
+   "kokAnlam": "diriltme, yaşatma",
+   "karsilik": "yaşatmış gibi olur"
+  },
+  {
+   "kelime": "ٱلنَّاسَ",
+   "okunus": "ennâse",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet",
+   "karsilik": "insanları"
+  },
+  {
+   "kelime": "جَمِيعًا",
+   "okunus": "cemîan",
+   "kok": "جمع",
+   "kokAnlam": "toplama, bütün",
+   "karsilik": "bütün"
+  },
+  {
+   "kelime": "وَلَقَدْ",
+   "okunus": "ve lekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) andolsun",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "جَآءَتْهُمْ",
+   "okunus": "câethüm",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "onlara geldi"
+  },
+  {
+   "kelime": "رُسُلُنَا",
+   "okunus": "rusülünâ",
+   "kok": "رسل",
+   "kokAnlam": "gönderilme; elçi",
+   "karsilik": "elçilerimiz"
+  },
+  {
+   "kelime": "بِٱلْبَيِّنَٰتِ",
+   "okunus": "bil beyyinâti",
+   "kok": "بين",
+   "kokAnlam": "açıklama, beyan; açık delil",
+   "karsilik": "açık delillerle"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "كَثِيرًا",
+   "okunus": "kesîran",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "birçoğu"
+  },
+  {
+   "kelime": "مِّنْهُم",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonralık, uzaklık",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bunun"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "لَمُسْرِفُونَ",
+   "okunus": "lemüsrifûne",
+   "kok": "سرف",
+   "kokAnlam": "aşırı gitme, israf etme",
+   "karsilik": "elbette aşırı gidenlerdir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Âdem'in oğlunun işlediği ilk cinayetin ardından bir kanun ilan eder: haksız yere bir cana kıymak, bütün insanlığa kıymakla bir tutulur; bir canı yaşatmak (kurtarmak) da bütün insanlığı yaşatmakla bir tutulur. 'Min ecli zâlike' (bu yüzden) ifadesi, bu hükmün doğrudan önceki kıssayla bağlantılı olduğunu gösterir.",
+  "Ayetin devamı, kendilerine açık delillerle elçiler gelmesine rağmen İsrailoğulları'ndan birçoğunun yeryüzünde aşırı gitmeye (haddi aşmaya) devam ettiğini bildirir. Bu, verilen hükmün ardından bile itaatsizliğin sürdüğünü gösterir; klasik tefsir bu ayeti, bir cana kıymanın ağırlığını en güçlü biçimde anlatan ayetlerden biri olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:151",
+   "meal": "De ki: Gelin, Rabbinizin size neyi haram kıldığını okuyayım: O'na hiçbir şeyi ortak koşmayın, anne babaya iyilik edin, yoksulluk korkusuyla çocuklarınızı öldürmeyin, sizi de onları da biz rızıklandırırız; kötülüklerin açığına da gizlisine de yaklaşmayın ve Allah'ın haram kıldığı canı haksız yere öldürmeyin. İşte bunları Allah size aklınızı kullanasınız diye emretti.",
+   "baglanti": "Haksız yere can almanın yasağı burada da temel bir ilke olarak sayılır; 32. ayetteki kural bu genel yasağın gerekçesini bütün insanlık ölçeğinde ortaya koyar."
+  },
+  {
+   "ref": "5:30",
+   "meal": "Nefsi onu kardeşini öldürmeye kolayca razı etti, o da onu öldürdü ve kaybedenlerden oldu.",
+   "baglanti": "'Min ecli zâlike' (bu yüzden) ifadesiyle bu genel hüküm, doğrudan birkaç ayet önce anlatılan bu ilk cinayet olayına bağlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, cana kıymanın ağırlığını anlatan bir hukuk ve ahlak ilkesidir; bu, bireysel bir cinayetin toplumsal ölçekte ne anlama geldiğini gösterir.",
+  "Genel ders, bir insanın hayatına yönelik her müdahalenin -koruma ya da zarar verme yönünde- küçük bir olay değil, büyük bir sorumluluk taşıdığıdır. Bir canı kurtarmaya katkı da, örneğin acil bir yardım ya da doğru bir uyarı, bu ilkenin günlük hayattaki küçük bir yansıması olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir hayata katkı sun",
+   "aciklama": "Bugün, bir kişinin sağlığı veya güvenliği için elinden gelen küçük bir yardımı yap (ilk yardım bilgisi, doğru yönlendirme gibi)."
+  },
+  {
+   "baslik": "Şiddetten uzak dur",
+   "aciklama": "Bugün bir tartışmada, sözlü ya da fiziksel şiddete başvurmadan çözüm ara."
+  },
+  {
+   "baslik": "Ağırlığını hatırla",
+   "aciklama": "Bir canın değerini bugün, güvenlik kurallarına gösterdiğin özenle somutlaştır (trafik, iş güvenliği gibi)."
+  }
+ ],
+ "bugununAdimi": "Bugün bir canı koruyacak somut bir tedbiri (güvenlik kuralı, ilk yardım bilgisi, doğru uyarı) uygula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=32"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/32"
+  }
+ ]
+}

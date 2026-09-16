@@ -1,0 +1,117 @@
+{
+ "sure": 5,
+ "ayet": 30,
+ "durum": "taslak",
+ "meal": "Nefsi ona kardeşini öldürmeyi kolay gösterdi, o da onu öldürdü ve kaybedenlerden oldu.",
+ "mealNotu": "'Tavveat' kökü, bir şeyi kolay ve çekici göstermeyi anlatır; burada nefsin, öldürmeyi kişiye kolay göstererek ona boyun eğdirmesi kastedilir. 'Feasbeha' fiili 'bir hâle girdi/oldu' anlamındadır, doğrudan 'sabah' anlamı taşımaz.",
+ "kokler": [
+  {
+   "kelime": "فَطَوَّعَتْ",
+   "okunus": "fetavveat",
+   "kok": "طوع",
+   "kokAnlam": "kolaylaştırma, boyun eğdirme, razı etme",
+   "karsilik": "kolay gösterdi"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "نَفْسُهُۥ",
+   "okunus": "nefsühû",
+   "kok": "نفس",
+   "kokAnlam": "can, kendilik, nefis",
+   "karsilik": "nefsi"
+  },
+  {
+   "kelime": "قَتْلَ",
+   "okunus": "katle",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürmeyi"
+  },
+  {
+   "kelime": "أَخِيهِ",
+   "okunus": "ehîhi",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "kardeşini"
+  },
+  {
+   "kelime": "فَقَتَلَهُۥ",
+   "okunus": "fekatelehû",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "o da onu öldürdü"
+  },
+  {
+   "kelime": "فَأَصْبَحَ",
+   "okunus": "feasbeha",
+   "kok": "صبح",
+   "kokAnlam": "sabahlama; bir hâle girme",
+   "karsilik": "oldu"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْخَٰسِرِينَ",
+   "okunus": "elhâsirîne",
+   "kok": "خسر",
+   "kokAnlam": "kayıp, ziyan; kaybeden",
+   "karsilik": "kaybedenlerden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bütün uyarılara rağmen nefis, kardeşini öldürmeyi kişiye kolay ve cazip gösterir; ayet bu iç süreci 'nefis kolaylaştırdı' diyerek anlatır. Sonuç, kardeşin fiilen öldürülmesidir.",
+  "Ayet, öldürmenin sonucunu tek kelimeyle özetler: 'kaybedenlerden oldu.' Bu, yalnızca kardeşini değil, kendi ahiretini de kaybettiğine işaret eder. Kıssa, bir sonraki ayette failin pişmanlığıyla devam eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:33",
+   "meal": "Allah'ın haram kıldığı canı haksız yere öldürmeyin. Kim haksız yere öldürülürse, onun velisine bir yetki vermişizdir; ama o da öldürmede aşırı gitmesin; çünkü o desteklenmiştir.",
+   "baglanti": "Haksız öldürmenin genel yasağı burada açıkça belirtilir; Âdem'in oğlunun işlediği bu ilk cinayet, bu yasağın ilk çiğnenişi olarak okunur."
+  },
+  {
+   "ref": "5:29",
+   "meal": "Ben istiyorum ki sen, benim günahımı da kendi günahını da yüklenip ateş halkından olasın; zalimlerin cezası budur.",
+   "baglanti": "Kardeşin önceden söylediği bu söz, cinayetin işlenmesiyle birlikte gerçekleşmiş olur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıskançlığın nefis tarafından kolaylaştırılıp bir cinayete dönüşmesidir; bu, ahlaki çöküşün adım adım nasıl gerçekleştiğini gösterir.",
+  "Genel ders, kötü bir düşüncenin ilk anda 'yapılabilir, kolay' göründüğü ama sonucunun ağır bir kayıp olduğudur. Nefsin bir şeyi kolay göstermesi, o şeyin doğru olduğu anlamına gelmez."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kolay görünen çağrıyı sorgula",
+   "aciklama": "Bugün 'bunu yapmak kolay, kimse anlamaz' dediğin bir düşünceyi durup sorgula."
+  },
+  {
+   "baslik": "İlk adımda dur",
+   "aciklama": "Kötüye giden bir düşünceyi eyleme dönüştürmeden önce bugün bir kez daha düşün."
+  },
+  {
+   "baslik": "Kaybı önceden gör",
+   "aciklama": "Bir kararın olası kaybını, harekete geçmeden önce bugün açıkça yaz."
+  }
+ ],
+ "bugununAdimi": "Bugün nefsinin sana kolay gösterdiği yanlış bir eğilimi fark edip ondan vazgeç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=30"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/30"
+  }
+ ]
+}

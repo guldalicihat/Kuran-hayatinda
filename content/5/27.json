@@ -1,0 +1,222 @@
+{
+ "sure": 5,
+ "ayet": 27,
+ "durum": "taslak",
+ "meal": "Onlara Âdem'in iki oğlunun haberini gerçek olarak oku: Hani ikisi birer kurban sunmuşlardı da birinden kabul edilmiş, diğerinden kabul edilmemişti. [Kabul edilmeyen] dedi ki: 'Seni mutlaka öldüreceğim.' [Diğeri] dedi ki: 'Allah, ancak takva sahiplerinden kabul eder.'",
+ "mealNotu": "'Kurbânen' kökü 'yakınlaşma' kökünden gelir; sunulan şeyin Allah'a yakınlaşma aracı olduğunu anlatır. 'Fetükubbile / lem yütekabbel' pasif fiiller kabulün Allah katından geldiğini gösterir. Ayet isimleri (Kâbil-Hâbil) vermez; bu isimler klasik tefsir ve kıssa geleneğinde yer alır.",
+ "kokler": [
+  {
+   "kelime": "وَٱتْلُ",
+   "okunus": "vetlü",
+   "kok": "تلو",
+   "kokAnlam": "okuma, tilavet etme",
+   "karsilik": "oku"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "نَبَأَ",
+   "okunus": "nebee",
+   "kok": "نبأ",
+   "kokAnlam": "haber",
+   "karsilik": "haberini"
+  },
+  {
+   "kelime": "ٱبْنَىْ",
+   "okunus": "ibney",
+   "kok": "بني",
+   "kokAnlam": "oğul",
+   "karsilik": "iki oğlunun"
+  },
+  {
+   "kelime": "ءَادَمَ",
+   "okunus": "âdeme",
+   "kok": "أدم",
+   "kokAnlam": "(özel isim) Âdem",
+   "karsilik": "Âdem'in"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçek",
+   "karsilik": "gerçek olarak"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "قَرَّبَا",
+   "okunus": "karrabâ",
+   "kok": "قرب",
+   "kokAnlam": "yakınlaştırma, yaklaştırma",
+   "karsilik": "ikisi sunmuşlardı"
+  },
+  {
+   "kelime": "قُرْبَانًا",
+   "okunus": "kurbânen",
+   "kok": "قرب",
+   "kokAnlam": "yakınlaştırma; kurban",
+   "karsilik": "birer kurban"
+  },
+  {
+   "kelime": "فَتُقُبِّلَ",
+   "okunus": "fetükubbile",
+   "kok": "قبل",
+   "kokAnlam": "kabul etme",
+   "karsilik": "kabul edildi"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَحَدِهِمَا",
+   "okunus": "ehadihimâ",
+   "kok": "أحد",
+   "kokAnlam": "bir, biri",
+   "karsilik": "birinden"
+  },
+  {
+   "kelime": "وَلَمْ",
+   "okunus": "ve lem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve edilmedi"
+  },
+  {
+   "kelime": "يَتَقَبَّلُ",
+   "okunus": "yütekabbel",
+   "kok": "قبل",
+   "kokAnlam": "kabul etme",
+   "karsilik": "kabul edilmedi"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْءَاخَرِ",
+   "okunus": "el'âhari",
+   "kok": "أخر",
+   "kokAnlam": "diğer, sonraki",
+   "karsilik": "diğerinden"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "لَأَقْتُلَنَّكَ",
+   "okunus": "leektülenneke",
+   "kok": "قتل",
+   "kokAnlam": "öldürme, karşılıklı savaşma",
+   "karsilik": "mutlaka seni öldüreceğim"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak, yalnızca",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "يَتَقَبَّلُ",
+   "okunus": "yetekabbelü",
+   "kok": "قبل",
+   "kokAnlam": "kabul etme",
+   "karsilik": "kabul eder"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُتَّقِينَ",
+   "okunus": "elmüttekîne",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma; takva sahibi",
+   "karsilik": "takva sahiplerinden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayetle birlikte Musa kıssasından Âdem'in iki oğlunun kıssasına geçilir. Ayet, ikisinin birer kurban/adak sunduğunu, birinden kabul edildiğini, diğerinden edilmediğini anlatır; kabulün ölçüsü açıkça belirtilmez, yalnızca sonucun takva ile ilgili olduğu vurgulanır.",
+  "Kabulü gerçekleşmeyen kardeş, kıskançlıkla öldürme tehdidinde bulunur; diğeri ise bunu şiddetle değil, ilkeyle karşılar: kabulün ölçüsü kişinin takvasıdır, zorla ya da tehditle değişmez. Klasik tefsir bu iki kişiyi genellikle Kâbil ve Hâbil olarak adlandırır; ancak ayetin kendisi bu isimleri zikretmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "22:37",
+   "meal": "Onların etleri de kanları da Allah'a ulaşmaz; fakat O'na sizin takvanız ulaşır. Sizi hidayete erdirdiği için Allah'ı büyük tanıyasınız diye onları böyle sizin hizmetinize verdi. İyilik edenleri müjdele.",
+   "baglanti": "İbadetin ve kurbanın Allah katındaki değerinin, şeklinden çok kişinin takvasına bağlı olduğu ilkesi burada da açıkça ifade edilir; 27. ayetteki kabul ölçüsüyle aynıdır."
+  },
+  {
+   "ref": "5:28",
+   "meal": "Andolsun, sen öldürmek için elini bana uzatsan bile, ben öldürmek için sana elimi uzatmam; çünkü ben âlemlerin Rabbi olan Allah'tan korkarım.",
+   "baglanti": "Kabulü gerçekleşen kardeşin cevabı, tehdide karşı şiddet yerine ilke ve Allah korkusuyla karşılık vermesiyle bir sonraki ayette devam eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir ibadetin kabulünün dış görünüşe değil kişinin iç tutumuna (takvaya) bağlı olduğu ve bunun kıskançlığa yol açabileceğidir.",
+  "Genel ders, başkasının kabul görmesi veya başarılı olması karşısında kıskançlığın tehlikeli bir noktaya (düşmanlığa) evrilebileceğidir. Kişi, kendi eksiğini gidermek yerine karşısındakini hedef almaya başladığında yıkıcı bir yola girer."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kıskançlığı adlandır",
+   "aciklama": "Birinin başarısı karşısında bugün hissettiğin kıskançlığı fark edip bunu kendi gelişimine çevir."
+  },
+  {
+   "baslik": "Ölçüyü içe çevir",
+   "aciklama": "Bir işi yaparken bugün sonucundan çok, o işi ne niyetle ve nasıl yaptığına odaklan."
+  },
+  {
+   "baslik": "Tehdide ilkeyle cevap ver",
+   "aciklama": "Bugün haksız bir tepkiyle karşılaşırsan, aynı sertlikle değil sakin bir ilkeyle karşılık ver."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir başkasının başarısı karşısındaki kıskançlığını fark edip onun yerine kendi çabana odaklan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=27"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/27"
+  }
+ ]
+}

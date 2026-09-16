@@ -1,0 +1,166 @@
+{
+ "sure": 5,
+ "ayet": 24,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'Ey Musa! Onlar orada olduğu sürece biz oraya asla, hiçbir zaman girmeyiz. Sen ve Rabbin gidin, ikiniz savaşın; biz işte burada oturuyoruz.'",
+ "mealNotu": "'Fezheb ente ve rabbüke fekâtilâ' ifadesi kelime kelime 'sen ve Rabbin gidin, ikiniz savaşın' demektir; bu, Musa'ya yönelik saygısız bir sözdür, meal bu haliyle aktarılmıştır. 'Hâhünâ kâidûn' (işte burada oturanlarız) çağrıya açık bir ret ifadesidir.",
+ "kokler": [
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "يَٰمُوسَىٰٓ",
+   "okunus": "yâ mûsâ",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Musa",
+   "karsilik": "ey Musa"
+  },
+  {
+   "kelime": "إِنَّا",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz biz",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "لَن",
+   "okunus": "len",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk (kesin)",
+   "karsilik": "asla"
+  },
+  {
+   "kelime": "نَّدْخُلَهَآ",
+   "okunus": "nedhulehâ",
+   "kok": "دخل",
+   "kokAnlam": "girme",
+   "karsilik": "oraya girmeyiz"
+  },
+  {
+   "kelime": "أَبَدًا",
+   "okunus": "ebeden",
+   "kok": "أبد",
+   "kokAnlam": "süreklilik, ebediyet",
+   "karsilik": "hiçbir zaman"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sürece",
+   "karsilik": "sürece"
+  },
+  {
+   "kelime": "دَامُوا۟",
+   "okunus": "dâmû",
+   "kok": "دوم",
+   "kokAnlam": "devam etme, sürme",
+   "karsilik": "oldukları"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) orada",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "فَٱذْهَبْ",
+   "okunus": "fezheb",
+   "kok": "ذهب",
+   "kokAnlam": "gitme",
+   "karsilik": "git"
+  },
+  {
+   "kelime": "أَنتَ",
+   "okunus": "ente",
+   "kok": "—",
+   "kokAnlam": "(zamir) sen",
+   "karsilik": "sen"
+  },
+  {
+   "kelime": "وَرَبُّكَ",
+   "okunus": "ve rabbüke",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme; Rab",
+   "karsilik": "ve Rabbin"
+  },
+  {
+   "kelime": "فَقَٰتِلَآ",
+   "okunus": "fekâtilâ",
+   "kok": "قتل",
+   "kokAnlam": "öldürme, karşılıklı savaşma",
+   "karsilik": "savaşın"
+  },
+  {
+   "kelime": "إِنَّا",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz biz",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "هَٰهُنَا",
+   "okunus": "hâhünâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte burada",
+   "karsilik": "işte burada"
+  },
+  {
+   "kelime": "قَٰعِدُونَ",
+   "okunus": "kâidûne",
+   "kok": "قعد",
+   "kokAnlam": "oturma",
+   "karsilik": "oturuyoruz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kavim, iki adamın çağrısına rağmen kesin bir ret cevabı verir. 'Ebeden' (hiçbir zaman) kelimesiyle vurgulanan bu ret, önceki ayetteki şartlı reddi (düşman çıkarsa gireriz) daha da sertleştirir.",
+  "Sözlerindeki 'sen ve Rabbin gidip savaşın, biz burada oturuyoruz' ifadesi, hem Musa'ya hem de göreve karşı açık bir isyan ve saygısızlıktır. Bu tavır, sonraki ayetteki Musa'nın Allah'a yakarışının gerekçesini oluşturur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:246",
+   "meal": "Musa'dan sonra İsrailoğulları'nın ileri gelenlerini görmedin mi? Peygamberlerine 'Bize bir kral gönder ki Allah yolunda savaşalım' demişlerdi. O da 'Ya üzerinize savaş yazılır da savaşmazsanız?' dedi. Dediler ki: 'Yurdumuzdan çıkarılmış, çocuklarımızdan ayrılmışken Allah yolunda niçin savaşmayalım?' Ama savaş üzerlerine yazılınca, içlerinden pek azı dışında yüz çevirdiler. Allah zalimleri bilir.",
+   "baglanti": "Aynı topluluğun savaşmaktan kaçınma eğilimi burada da tekrarlanır; sözle istemek ile fiilen üstlenmek arasındaki fark ortak temadır."
+  },
+  {
+   "ref": "5:26",
+   "meal": "Allah dedi: Öyleyse orası kendilerine kırk yıl haram kılınmıştır; yeryüzünde şaşkın şaşkın dolaşacaklar. Artık yoldan çıkmış bu topluluğa üzülme.",
+   "baglanti": "Bu isyankâr reddin karşılığı birkaç ayet sonra Allah'ın hükmüyle açıklanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir topluluğun kendisine verilen görevi açıkça reddetmesi ve sorumluluğu peygamberine yüklemesidir.",
+  "Genel ders, bir sorumluluğu 'sen hallet' diyerek başkasına devretmenin, hele bu sorumluluk ortak bir görevse, ciddi bir kaçıştır. Görev paylaşımı meşru olsa da, sorumluluktan tamamen sıyrılmak farklı bir şeydir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sorumluluğunu devretme",
+   "aciklama": "Bugün üstlenmen gereken bir görevi başkasına yıkmak yerine kendi payını yap."
+  },
+  {
+   "baslik": "Ortak işte payını al",
+   "aciklama": "Bir grup görevinde bugün 'ben de buradayım' diyerek somut bir katkı sun."
+  },
+  {
+   "baslik": "Reddi netleştir",
+   "aciklama": "Bir işi gerçekten yapamayacaksan bunu açıkça söyle; sessizce oturup beklemek yerine dürüst ol."
+  }
+ ],
+ "bugununAdimi": "Bugün kaçındığın bir ortak sorumlulukta, kendi payına düşeni üstlen.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=24"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/24"
+  }
+ ]
+}
