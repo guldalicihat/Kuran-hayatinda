@@ -1,0 +1,215 @@
+{
+ "sure": 5,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Akitleri yerine getirin. Siz ihramdayken avı helal saymamak şartıyla, size okunan(lar) dışında hayvan sürüleri size helal kılındı. Şüphesiz Allah dilediğini hükmeder.",
+ "mealNotu": "'Ukûd' kökü sıkı bağlamayı anlatır; 'akit' burada Allah'a ve insanlara verilen bağlayıcı sözleri kapsar. 'Behîmetü'l-en'âm' iki kökten oluşur: 'behîme' dört ayaklı hayvan, 'en'âm' evcil hayvan sürüsüdür; birlikte 'hayvan sürüleri' diye çevrilmiştir. 'Hurum' kelimesi 'harem/haram' köküyle aynıdır ve burada ihram halini anlatır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوٓا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman ettiler"
+  },
+  {
+   "kelime": "أَوْفُوا۟",
+   "okunus": "evfû",
+   "kok": "وفي",
+   "kokAnlam": "tam yerine getirme, sözünü tutma",
+   "karsilik": "yerine getirin"
+  },
+  {
+   "kelime": "بِٱلْعُقُودِ",
+   "okunus": "bil ukûdi",
+   "kok": "عقد",
+   "kokAnlam": "bağlama, düğümleme; akit, sözleşme",
+   "karsilik": "akitleri"
+  },
+  {
+   "kelime": "أُحِلَّتْ",
+   "okunus": "ühillet",
+   "kok": "حلل",
+   "kokAnlam": "çözme, serbest bırakma; helal kılma",
+   "karsilik": "helal kılındı"
+  },
+  {
+   "kelime": "لَكُم",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "بَهِيمَةُ",
+   "okunus": "behîmetü",
+   "kok": "بهم",
+   "kokAnlam": "dilsiz, anlaşılmaz; dört ayaklı hayvan",
+   "karsilik": "hayvanları"
+  },
+  {
+   "kelime": "ٱلْأَنْعَٰمِ",
+   "okunus": "el'en'âmi",
+   "kok": "نعم",
+   "kokAnlam": "nimet; evcil hayvan sürüsü (deve, sığır, koyun)",
+   "karsilik": "sürü halindeki"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, dışında",
+   "karsilik": "dışında"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "olanlar"
+  },
+  {
+   "kelime": "يُتْلَىٰ",
+   "okunus": "yütlâ",
+   "kok": "تلو",
+   "kokAnlam": "ardınca gitme, okuma, takip etme",
+   "karsilik": "okunan"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "غَيْرَ",
+   "okunus": "gayra",
+   "kok": "غير",
+   "kokAnlam": "başkalık, olmaksızın",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "مُحِلِّى",
+   "okunus": "mühillî",
+   "kok": "حلل",
+   "kokAnlam": "helal sayan, serbest bırakan",
+   "karsilik": "helal sayanlar"
+  },
+  {
+   "kelime": "ٱلصَّيْدِ",
+   "okunus": "essaydi",
+   "kok": "صيد",
+   "kokAnlam": "avlama, av",
+   "karsilik": "avı"
+  },
+  {
+   "kelime": "وَأَنتُمْ",
+   "okunus": "ve entüm",
+   "kok": "—",
+   "kokAnlam": "(bağlaç+zamir) siz iken",
+   "karsilik": "siz iken"
+  },
+  {
+   "kelime": "حُرُمٌ",
+   "okunus": "hurumün",
+   "kok": "حرم",
+   "kokAnlam": "yasaklama, dokunulmazlık; ihram durumu",
+   "karsilik": "ihramda"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَحْكُمُ",
+   "okunus": "yahkümü",
+   "kok": "حكم",
+   "kokAnlam": "hükmetme, karar verme",
+   "karsilik": "hükmeder"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "neyi"
+  },
+  {
+   "kelime": "يُرِيدُ",
+   "okunus": "yürîdü",
+   "kok": "رود",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilerse"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Mâide suresini akitlere vefa çağrısıyla açar. 'Ukûd' kökü sıkı bağlamayı anlatır; Allah'a verilen sözler ve insanlar arasındaki sözleşmeler bu kapsamdadır. Ardından genel bir helal ilkesi konur: aksi belirtilmedikçe hayvan sürüleri yenilebilir.",
+  "Bu genel iznin iki sınırı vardır: ayetin devamında sayılacak yasaklar ve ihram halindeyken avlanma yasağı. 'Hurum' kelimesi hac veya umre için ihrama girmiş kişiyi anlatır; bu durumdaki kişi kara avını helal sayamaz. Klasik tefsir bu ayeti, sureye başlarken önce genel bir çerçeve, sonra ayrıntılı hükümler sunma biçimi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:34",
+   "meal": "Yetimin malına, erginlik çağına ulaşıncaya kadar, en güzel şekilde olması dışında yaklaşmayın. Ahdi de yerine getirin; çünkü ahitten sorumlusunuz.",
+   "baglanti": "'Ahde vefa' ilkesi burada yetimin malı bağlamında somutlaşır; akit ve ahid kavramları Kur'an'da tutarlı biçimde sorumluluk yükler."
+  },
+  {
+   "ref": "5:96",
+   "meal": "Deniz avı ve onun yiyeceği, size ve yolculara bir geçimlik olarak helal kılındı. İhramda olduğunuz sürece kara avı ise size haram kılındı. Huzurunda toplanacağınız Allah'tan korkun.",
+   "baglanti": "İhramdayken av yasağının kapsamı burada netleşir: deniz avı serbest, kara avı yasaktır. 1. ayetteki genel uyarı bu ayette ayrıntılandırılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, sözleşmelere bağlılık ve hac/umre sırasındaki av yasağıdır; bu özel bir ibadet kuralıdır. Herkes hac yapmaz, ama söz tutma ilkesi herkesi ilgilendirir.",
+  "Günlük hayatta iş sözleşmesi, kira, borç veya sözlü bir söz; hepsi 'akit' kapsamına girer. Ayet, sözünü tutmayı imanın bir gereği olarak sunar; küçük bir söz bile ciddiye alınmalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Verdiğin bir sözü gözden geçir",
+   "aciklama": "Unuttuğun veya ertelediğin bir sözü/anlaşmayı bugün yerine getir ya da yeni bir tarih belirleyerek karşı tarafa haber ver."
+  },
+  {
+   "baslik": "Yazılı anlaşmalarını netleştir",
+   "aciklama": "Belirsiz bırakılmış bir sözleşme veya sözlü anlaşman varsa, bugün şartlarını açıkça yaz."
+  },
+  {
+   "baslik": "'Söz' verirken düşün",
+   "aciklama": "Bugün birine söz vermeden önce yerine getirip getiremeyeceğini bir kez daha değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün, üzerinde durduğun ama unuttuğun bir sözü bul ve onu yerine getirmek için ilk adımı at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/1"
+  }
+ ]
+}

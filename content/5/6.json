@@ -1,0 +1,481 @@
+{
+ "sure": 5,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Namaza kalkacağınız zaman yüzlerinizi ve dirseklere kadar ellerinizi yıkayın; başlarınızı meshedin ve topuklara kadar ayaklarınızı (yıkayın). Eğer cünüp iseniz iyice temizlenin. Eğer hasta veya yolculukta iseniz, ya da biriniz tuvaletten geldiyse yahut kadınlara dokunduysanız ve su bulamadıysanız, temiz bir toprakla teyemmüm edin; yüzlerinizi ve ellerinizi ondan meshedin. Allah size hiçbir güçlük çıkarmak istemez; fakat sizi temizlemek ve üzerinizdeki nimetini tamamlamak ister ki şükredesiniz.",
+ "mealNotu": "'Tahâret' (طهر) kökü hem gusül hem teyemmümü kapsayan temizlenmeyi anlatır. 'Lâmestüm' (dokunma) ifadesi klasik tefsirde farklı yorumlanmıştır; burada sözlük anlamıyla 'dokunma' çevrilmiştir. 'Sa'îden tayyiben' ifadesi teyemmümde kullanılan temiz toprağı/yüzeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوٓا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman ettiler"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığınızda"
+  },
+  {
+   "kelime": "قُمْتُمْ",
+   "okunus": "kumtüm",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, kalkma",
+   "karsilik": "kalktığınızda"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةِ",
+   "okunus": "essalâti",
+   "kok": "صلو",
+   "kokAnlam": "namaz, dua",
+   "karsilik": "namaza"
+  },
+  {
+   "kelime": "فَٱغْسِلُوا۟",
+   "okunus": "fegsilû",
+   "kok": "غسل",
+   "kokAnlam": "yıkama",
+   "karsilik": "yıkayın"
+  },
+  {
+   "kelime": "وُجُوهَكُمْ",
+   "okunus": "vücûheküm",
+   "kok": "وجه",
+   "kokAnlam": "yön, yüz",
+   "karsilik": "yüzlerinizi"
+  },
+  {
+   "kelime": "وَأَيْدِيكُم",
+   "okunus": "ve eydiyeküm",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "ve ellerinizi"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "ٱلْمَرَافِقِ",
+   "okunus": "elmerâfikı",
+   "kok": "رفق",
+   "kokAnlam": "yumuşaklık; dirsek",
+   "karsilik": "dirseklere"
+  },
+  {
+   "kelime": "وَٱمْسَحُوا۟",
+   "okunus": "vemsehû",
+   "kok": "مسح",
+   "kokAnlam": "sıvazlama, mesh etme",
+   "karsilik": "ve meshedin"
+  },
+  {
+   "kelime": "بِرُءُوسِكُمْ",
+   "okunus": "biruûsiküm",
+   "kok": "رأس",
+   "kokAnlam": "baş",
+   "karsilik": "başlarınızı"
+  },
+  {
+   "kelime": "وَأَرْجُلَكُمْ",
+   "okunus": "ve ercüleküm",
+   "kok": "رجل",
+   "kokAnlam": "ayak",
+   "karsilik": "ve ayaklarınızı"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "ٱلْكَعْبَيْنِ",
+   "okunus": "elka'beyni",
+   "kok": "كعب",
+   "kokAnlam": "topuk, aşık kemiği",
+   "karsilik": "topuklara"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) ve eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "كُنتُم",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "جُنُبًا",
+   "okunus": "cünüben",
+   "kok": "جنب",
+   "kokAnlam": "yan; cünüplük",
+   "karsilik": "cünüp"
+  },
+  {
+   "kelime": "فَٱطَّهَّرُوا۟",
+   "okunus": "fettahherû",
+   "kok": "طهر",
+   "kokAnlam": "temizlenme, arınma",
+   "karsilik": "iyice temizlenin"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) ve eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "كُنتُم",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "مَّرْضَىٰٓ",
+   "okunus": "merdâ",
+   "kok": "مرض",
+   "kokAnlam": "hastalık",
+   "karsilik": "hasta"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَفَرٍ",
+   "okunus": "seferin",
+   "kok": "سفر",
+   "kokAnlam": "yolculuk",
+   "karsilik": "yolculukta"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "جَآءَ",
+   "okunus": "câe",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "geldiyse"
+  },
+  {
+   "kelime": "أَحَدٌ",
+   "okunus": "ehadün",
+   "kok": "أحد",
+   "kokAnlam": "bir, birisi",
+   "karsilik": "biri"
+  },
+  {
+   "kelime": "مِّنكُم",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْغَآئِطِ",
+   "okunus": "elgâitı",
+   "kok": "غوط",
+   "kokAnlam": "çukur; tuvalet yeri",
+   "karsilik": "tuvaletten"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "لَٰمَسْتُمُ",
+   "okunus": "lâmestümü",
+   "kok": "لمس",
+   "kokAnlam": "dokunma",
+   "karsilik": "dokunduysanız"
+  },
+  {
+   "kelime": "ٱلنِّسَآءَ",
+   "okunus": "ennisâe",
+   "kok": "نسو",
+   "kokAnlam": "kadın",
+   "karsilik": "kadınlara"
+  },
+  {
+   "kelime": "فَلَمْ",
+   "okunus": "felem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk, geçmiş) ve ...madıysa",
+   "karsilik": "ve ...madıysanız"
+  },
+  {
+   "kelime": "تَجِدُوا۟",
+   "okunus": "tecidû",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulamadıysanız"
+  },
+  {
+   "kelime": "مَآءً",
+   "okunus": "mâen",
+   "kok": "موه",
+   "kokAnlam": "su",
+   "karsilik": "su"
+  },
+  {
+   "kelime": "فَتَيَمَّمُوا۟",
+   "okunus": "feteyemmemû",
+   "kok": "يمم",
+   "kokAnlam": "yönelme; teyemmüm etme",
+   "karsilik": "teyemmüm edin"
+  },
+  {
+   "kelime": "صَعِيدًا",
+   "okunus": "saîden",
+   "kok": "صعد",
+   "kokAnlam": "yükselme; yeryüzü, toprak",
+   "karsilik": "bir toprakla"
+  },
+  {
+   "kelime": "طَيِّبًا",
+   "okunus": "tayyiben",
+   "kok": "طيب",
+   "kokAnlam": "temizlik, hoşluk",
+   "karsilik": "temiz"
+  },
+  {
+   "kelime": "فَٱمْسَحُوا۟",
+   "okunus": "femsehû",
+   "kok": "مسح",
+   "kokAnlam": "sıvazlama, mesh etme",
+   "karsilik": "meshedin"
+  },
+  {
+   "kelime": "بِوُجُوهِكُمْ",
+   "okunus": "bivücûhiküm",
+   "kok": "وجه",
+   "kokAnlam": "yön, yüz",
+   "karsilik": "yüzlerinizi"
+  },
+  {
+   "kelime": "وَأَيْدِيكُم",
+   "okunus": "ve eydîküm",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "ve ellerinizi"
+  },
+  {
+   "kelime": "مِّنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) şey ki, ...mez",
+   "karsilik": "istemez"
+  },
+  {
+   "kelime": "يُرِيدُ",
+   "okunus": "yürîdü",
+   "kok": "رود",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "istemez"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لِيَجْعَلَ",
+   "okunus": "liyec'ale",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "kılmak için"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "حَرَجٍ",
+   "okunus": "haracin",
+   "kok": "حرج",
+   "kokAnlam": "darlık, güçlük",
+   "karsilik": "bir güçlük"
+  },
+  {
+   "kelime": "وَلَٰكِن",
+   "okunus": "ve lâkin",
+   "kok": "—",
+   "kokAnlam": "(düzeltme) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "يُرِيدُ",
+   "okunus": "yürîdü",
+   "kok": "رود",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "ister"
+  },
+  {
+   "kelime": "لِيُطَهِّرَكُمْ",
+   "okunus": "liyütahhiraküm",
+   "kok": "طهر",
+   "kokAnlam": "temizleme, arındırma",
+   "karsilik": "sizi temizlemek için"
+  },
+  {
+   "kelime": "وَلِيُتِمَّ",
+   "okunus": "ve liyütimme",
+   "kok": "تمم",
+   "kokAnlam": "tamamlama",
+   "karsilik": "ve tamamlamak için"
+  },
+  {
+   "kelime": "نِعْمَتَهُۥ",
+   "okunus": "ni'metehû",
+   "kok": "نعم",
+   "kokAnlam": "nimet",
+   "karsilik": "nimetini"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) üzerinize",
+   "karsilik": "üzerinizdeki"
+  },
+  {
+   "kelime": "لَعَلَّكُمْ",
+   "okunus": "lealleküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) umulur ki",
+   "karsilik": "umulur ki"
+  },
+  {
+   "kelime": "تَشْكُرُونَ",
+   "okunus": "teşkürûne",
+   "kok": "شكر",
+   "kokAnlam": "şükretme",
+   "karsilik": "şükredersiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, namaza kalkarken yapılacak abdesti; yüz, eller, baş ve ayakların sırasını anlatır. Ardından cünüplük halinde gusül gerektiğini belirtir.",
+  "Su bulunamayan durumlar -hastalık, yolculuk, tuvalet ihtiyacı, eşe dokunma- için teyemmüm alternatifi sunulur. Ayet, bu hükmün amacının zorluk çıkarmak değil temizlik ve nimetin tamamlanması olduğunu vurgulayarak biter. Klasik fıkıh bu ayeti, abdest ve teyemmümün temel dayanağı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:43",
+   "meal": "Ey iman edenler! Sarhoşken, ne söylediğinizi bilinceye kadar namaza yaklaşmayın; yolcu olmanız dışında cünüpken de, yıkanıncaya kadar (yaklaşmayın). Eğer hastaysanız, yolculuktaysanız, biriniz tuvaletten gelmişse ya da eşlerinize dokunmuşsanız ve su bulamamışsanız, temiz toprakla teyemmüm edin; yüzlerinizi ve ellerinizi meshedin. Şüphesiz Allah çok affeden, çok bağışlayandır.",
+   "baglanti": "Teyemmüm hükmü burada neredeyse aynı ifadelerle, sarhoşken namaza yaklaşmama uyarısıyla birlikte tekrarlanır."
+  },
+  {
+   "ref": "2:222",
+   "meal": "Sana kadınların aybaşı halini sorarlar. De ki: O bir eziyettir. Aybaşı halinde kadınlardan uzak durun, temizleninceye kadar onlara yaklaşmayın. Temizlendiklerinde, Allah'ın size emrettiği yerden onlara yaklaşın. Şüphesiz Allah çok tövbe edenleri sever, çok temizlenenleri sever.",
+   "baglanti": "Temizlik ile ibadete/eşe yaklaşma arasındaki bağ burada hayız hali özelinde ele alınır; Mâide 6 ise cünüplük ve teyemmüm hükümlerini anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ibadete hazırlık için maddi temizliktir; bu, klasik fıkhın ayrıntılandırdığı abdest-gusül-teyemmüm hükümleridir.",
+  "Buradan çıkan genel ders, bir işe başlamadan önce hazırlık yapmanın ve imkânsızlık durumunda alternatif yolların meşru olduğudur. Zorluk aramak değil kolaylaştırmak Allah'ın amacı olarak belirtilir; bu, günlük hayatta kurallara yaklaşımı da şekillendirebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir işe hazırlıkla başla",
+   "aciklama": "Bugün önemli bir işe başlamadan önce, kısa bir hazırlık adımı (düzenleme, kontrol) yap."
+  },
+  {
+   "baslik": "İmkânsızlıkta alternatif ara",
+   "aciklama": "Planladığın bir şey imkânsız hale gelirse, hemen vazgeçmek yerine makul bir alternatif düşün."
+  },
+  {
+   "baslik": "Kolaylığı hatırla",
+   "aciklama": "Bugün kendine veya birine bir kuralı uygularken, amacın zorlaştırmak değil kolaylaştırmak olduğunu hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ibadetin veya önemli işin öncesinde küçük bir hazırlık adımını eksiksiz tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/6"
+  }
+ ]
+}

@@ -1,0 +1,418 @@
+{
+ "sure": 5,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Allah'ın nişanelerine, haram aya, kurbanlık hediyeye, gerdanlıklı kurbanlara ve Rablerinden bir lütuf ve hoşnutluk ararken Beyt-i Haram'a yönelenlere saygısızlık etmeyin. İhramdan çıktığınızda avlanın. Sizi Mescid-i Haram'dan alıkoydular diye bir topluluğun kini, sakın sizi haddi aşmaya sürüklemesin. İyilik ve takvada yardımlaşın; günah ve düşmanlıkta yardımlaşmayın. Allah'tan sakının; şüphesiz Allah'ın cezası çetindir.",
+ "mealNotu": "'Şeâir' kökü işaret ve belirtiyi anlatır; burada hac ile ilgili kutsal simgeler kastedilir. 'Hurum' ve 'harâm' aynı kökten gelir; hem saygın/yasak anlamını hem ihram halini taşır. 'Berr' ve 'takvâ' iyiliği, 'ism' ve 'udvân' günah ve haddi aşmayı anlatır; ayet bu iki çifti karşı karşıya koyar.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman ettiler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mayın"
+  },
+  {
+   "kelime": "تُحِلُّوا۟",
+   "okunus": "tühillû",
+   "kok": "حلل",
+   "kokAnlam": "çözme, serbest bırakma; helal sayma",
+   "karsilik": "helal saymayın"
+  },
+  {
+   "kelime": "شَعَٰٓئِرَ",
+   "okunus": "şeâira",
+   "kok": "شعر",
+   "kokAnlam": "bilme, işaret; nişan, sembol",
+   "karsilik": "nişanelerine"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "ٱلشَّهْرَ",
+   "okunus": "eşşehra",
+   "kok": "شهر",
+   "kokAnlam": "ay; bilinme, meşhur olma",
+   "karsilik": "ayına"
+  },
+  {
+   "kelime": "ٱلْحَرَامِ",
+   "okunus": "elharâme",
+   "kok": "حرم",
+   "kokAnlam": "yasaklama, dokunulmazlık; haram, saygın",
+   "karsilik": "haram (saygın)"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "ٱلْهَدْىَ",
+   "okunus": "elhedye",
+   "kok": "هدي",
+   "kokAnlam": "yol gösterme; kurbanlık hediye",
+   "karsilik": "kurbanlık hediyeye"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "ٱلْقَلَٰٓئِدَ",
+   "okunus": "elkalâide",
+   "kok": "قلد",
+   "kokAnlam": "boyunbağı takma; gerdanlıklı kurbanlar",
+   "karsilik": "gerdanlıklı (kurbanlara)"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "ءَآمِّينَ",
+   "okunus": "âmmîne",
+   "kok": "أمم",
+   "kokAnlam": "yönelme, kastetme",
+   "karsilik": "yönelenlere"
+  },
+  {
+   "kelime": "ٱلْبَيْتَ",
+   "okunus": "elbeyte",
+   "kok": "بيت",
+   "kokAnlam": "ev, mesken",
+   "karsilik": "Beyt'e"
+  },
+  {
+   "kelime": "ٱلْحَرَامِ",
+   "okunus": "elharâme",
+   "kok": "حرم",
+   "kokAnlam": "yasaklama, dokunulmazlık; haram, saygın",
+   "karsilik": "saygın"
+  },
+  {
+   "kelime": "يَبْتَغُونَ",
+   "okunus": "yebteğûne",
+   "kok": "بغي",
+   "kokAnlam": "arama, talep etme",
+   "karsilik": "ararlarken"
+  },
+  {
+   "kelime": "فَضْلًا",
+   "okunus": "fadlen",
+   "kok": "فضل",
+   "kokAnlam": "fazlalık, lütuf",
+   "karsilik": "bir lütuf"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّهِمْ",
+   "okunus": "rabbihim",
+   "kok": "ربب",
+   "kokAnlam": "sahiplik, terbiye etme",
+   "karsilik": "Rablerinden"
+  },
+  {
+   "kelime": "وَرِضْوَٰنًا",
+   "okunus": "ve ridvânen",
+   "kok": "رضو",
+   "kokAnlam": "razı olma, hoşnutluk",
+   "karsilik": "ve hoşnutluk"
+  },
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "ve ...dığında"
+  },
+  {
+   "kelime": "حَلَلْتُمْ",
+   "okunus": "haleltüm",
+   "kok": "حلل",
+   "kokAnlam": "helal olma, serbest kalma; ihramdan çıkma",
+   "karsilik": "ihramdan çıktığınızda"
+  },
+  {
+   "kelime": "فَٱصْطَادُوا۟",
+   "okunus": "festâdû",
+   "kok": "صيد",
+   "kokAnlam": "avlanma",
+   "karsilik": "avlanın"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) sakın ...mesin",
+   "karsilik": "sakın ...mesin"
+  },
+  {
+   "kelime": "يَجْرِمَنَّكُمْ",
+   "okunus": "yecrimenneküm",
+   "kok": "جرم",
+   "kokAnlam": "suça sürükleme, günaha itme",
+   "karsilik": "sizi sürüklemesin"
+  },
+  {
+   "kelime": "شَنَـَٔانُ",
+   "okunus": "şeneânü",
+   "kok": "شنأ",
+   "kokAnlam": "kin, nefret",
+   "karsilik": "kini"
+  },
+  {
+   "kelime": "قَوْمٍ",
+   "okunus": "kavmin",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk, kavim",
+   "karsilik": "bir topluluğun"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "صَدُّوكُمْ",
+   "okunus": "saddûküm",
+   "kok": "صدد",
+   "kokAnlam": "engelleme, alıkoyma",
+   "karsilik": "sizi alıkoydular"
+  },
+  {
+   "kelime": "عَنِ",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-dan"
+  },
+  {
+   "kelime": "ٱلْمَسْجِدِ",
+   "okunus": "elmescidi",
+   "kok": "سجد",
+   "kokAnlam": "secde etme; secde yeri, mescit",
+   "karsilik": "Mescid-i"
+  },
+  {
+   "kelime": "ٱلْحَرَامِ",
+   "okunus": "elharâmi",
+   "kok": "حرم",
+   "kokAnlam": "yasaklama, dokunulmazlık; haram, saygın",
+   "karsilik": "Haram'dan"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "تَعْتَدُوا۟",
+   "okunus": "ta'tedû",
+   "kok": "عدو",
+   "kokAnlam": "sınır aşma, saldırma",
+   "karsilik": "haddi aşasınız"
+  },
+  {
+   "kelime": "وَتَعَاوَنُوا۟",
+   "okunus": "ve teâvenû",
+   "kok": "عون",
+   "kokAnlam": "yardımlaşma",
+   "karsilik": "ve yardımlaşın"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْبِرِّ",
+   "okunus": "elbirri",
+   "kok": "برر",
+   "kokAnlam": "iyilik, doğruluk",
+   "karsilik": "iyilikte"
+  },
+  {
+   "kelime": "وَٱلتَّقْوَىٰ",
+   "okunus": "vet tekvâ",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma; takva",
+   "karsilik": "ve takvada"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...mayın",
+   "karsilik": "ve ...mayın"
+  },
+  {
+   "kelime": "تَعَاوَنُوا۟",
+   "okunus": "teâvenû",
+   "kok": "عون",
+   "kokAnlam": "yardımlaşma",
+   "karsilik": "yardımlaşmayın"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْإِثْمِ",
+   "okunus": "el'ismi",
+   "kok": "أثم",
+   "kokAnlam": "günah",
+   "karsilik": "günahta"
+  },
+  {
+   "kelime": "وَٱلْعُدْوَٰنِ",
+   "okunus": "vel udvâni",
+   "kok": "عدو",
+   "kokAnlam": "sınır aşma, düşmanlık",
+   "karsilik": "ve düşmanlıkta"
+  },
+  {
+   "kelime": "وَٱتَّقُوا۟",
+   "okunus": "vettekû",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "ve sakının"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "شَدِيدُ",
+   "okunus": "şedîdü",
+   "kok": "شدد",
+   "kokAnlam": "şiddetli, sağlam",
+   "karsilik": "şiddetlidir"
+  },
+  {
+   "kelime": "ٱلْعِقَابِ",
+   "okunus": "el'ikâbi",
+   "kok": "عقب",
+   "kokAnlam": "sonuç, akıbet; ceza",
+   "karsilik": "cezası"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, hac ve umre ile ilgili kutsal simgelere -haram ay, kurbanlık hayvanlar, Kâbe'ye yönelenler- saygıyı emreder. Bu simgeler toplumsal güvenliğin ve ibadet düzeninin işaretleridir; onlara saldırı düzeni bozar. İhramdan çıkıldığında avlanma yasağı kalkar.",
+  "Ayetin ikinci bölümü, geçmişte Müslümanları Mescid-i Harâm'dan alıkoymuş bir topluluğa duyulan kinin adaletsiz bir misillemeye dönüşmesini engeller. Klasik tefsir bu ayeti, Hudeybiye döneminde yaşanan gerilimle ilişkilendirir. Ayet, iyilik ve takvada yardımlaşmayı, günah ve düşmanlıkta yardımlaşmamayı genel bir ilke olarak koyar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:8",
+   "meal": "Ey iman edenler! Allah için hakkı ayakta tutanlar, adaletle şahitlik edenler olun. Bir topluluğa duyduğunuz kin sizi adaletsizliğe sürüklemesin. Adaletli olun; bu takvaya daha yakındır. Allah'tan korkun; şüphesiz Allah yaptıklarınızdan haberdardır.",
+   "baglanti": "Bir topluluğa duyulan kinin adaletsizliğe yol açmaması ilkesi, 8. ayette 'adaletli olun' emriyle neredeyse aynı ifadeyle tekrarlanır."
+  },
+  {
+   "ref": "3:97",
+   "meal": "Orada apaçık ayetler, İbrahim'in makamı vardır. Oraya giren güvende olur. Yoluna gücü yetenlerin Beyt'i haccetmesi, insanlar üzerinde Allah'ın bir hakkıdır. Kim inkâr ederse bilsin ki Allah âlemlerden müstağnidir.",
+   "baglanti": "Ayetteki 'Beyt-i Haram'a yönelenler' ifadesi, Âl-i İmrân 97'de anlatılan hac yükümlülüğüyle aynı kutsal mekâna işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hac/umre dönemindeki kutsal simgelere saygı ve geçmiş bir haksızlığa orantısız tepki vermemektir; bu özel bir tarihsel bağlamı olan bir hükümdür.",
+  "Buradan çıkan genel ilke, kızgınlığın adaleti gölgelememesi ve yardımlaşmanın yönünü iyi seçmektir. Bir kişiye kırgın olmak, ona haksızlık etmeyi haklı çıkarmaz; işbirliği ise ancak iyilik ve takva doğrultusunda anlamlıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kırgınlığını adaletle sınırla",
+   "aciklama": "Sana haksızlık eden biri hakkında karar verirken, kızgınlığının seni orantısız bir tepkiye sürüklemediğinden emin ol."
+  },
+  {
+   "baslik": "Kimle ne konuda yardımlaştığına bak",
+   "aciklama": "Bugün katıldığın bir iş birliğinin iyilik mi yoksa zarar mı ürettiğini gözden geçir."
+  },
+  {
+   "baslik": "Kutsal saydığın bir değere saygı göster",
+   "aciklama": "Başkalarının önemsediği bir değeri veya alanı bugün bilerek çiğnemekten kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün, kırgın olduğun bir kişiye karşı adil davranıp davranmadığını gözden geçir ve gerekiyorsa tutumunu düzelt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/2"
+  }
+ ]
+}

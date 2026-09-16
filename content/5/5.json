@@ -1,0 +1,355 @@
+{
+ "sure": 5,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Bugün size temiz olan şeyler helal kılındı. Kendilerine Kitap verilenlerin yiyeceği size helaldir, sizin yiyeceğiniz de onlara helaldir. Mümin kadınlardan iffetli olanlar ve sizden önce kendilerine Kitap verilenlerden iffetli kadınlar da, mehirlerini vermeniz şartıyla, zina etmeden ve gizli dostlar edinmeden, iffetli kişiler olarak (size helaldir). Kim imanı inkâr ederse, ameli boşa gitmiştir ve o, ahirette kaybedenlerdendir.",
+ "mealNotu": "'Muhsanât' kökü حصن (korunma, kale) köküne dayanır; burada iffetli/evlenmeye uygun kadınları anlatır. 'Ehl-i Kitap'ın yiyeceği' ifadesi genel olarak alınmış, burada ek bir tanım yapılmamıştır. 'Bi'l-îmân' ifadesindeki 'imanı inkâr etme', bu ayette genel bir imandan çıkma anlamında çevrilmiştir.",
+ "kokler": [
+  {
+   "kelime": "ٱلْيَوْمَ",
+   "okunus": "elyevme",
+   "kok": "يوم",
+   "kokAnlam": "gün, bugün",
+   "karsilik": "bugün"
+  },
+  {
+   "kelime": "أُحِلَّ",
+   "okunus": "ühille",
+   "kok": "حلل",
+   "kokAnlam": "çözme, serbest bırakma; helal kılma",
+   "karsilik": "helal kılındı"
+  },
+  {
+   "kelime": "لَّكُمْ",
+   "okunus": "lekümü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "ٱلطَّيِّبَٰتُ",
+   "okunus": "ettayyibâtü",
+   "kok": "طيب",
+   "kokAnlam": "temizlik, hoşluk, iyi olma",
+   "karsilik": "temiz olan şeyler"
+  },
+  {
+   "kelime": "وَطَعَامُ",
+   "okunus": "ve taâmü",
+   "kok": "طعم",
+   "kokAnlam": "yiyecek",
+   "karsilik": "ve yiyeceği"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "أُوتُوا۟",
+   "okunus": "ûtû",
+   "kok": "أتي",
+   "kokAnlam": "gelme; verilme",
+   "karsilik": "verilenlerin"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "Kitap"
+  },
+  {
+   "kelime": "حِلٌّ",
+   "okunus": "hillün",
+   "kok": "حلل",
+   "kokAnlam": "çözülmüş; helal",
+   "karsilik": "helaldir"
+  },
+  {
+   "kelime": "لَّكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "وَطَعَامُكُمْ",
+   "okunus": "ve taâmüküm",
+   "kok": "طعم",
+   "kokAnlam": "yiyecek",
+   "karsilik": "sizin yiyeceğiniz de"
+  },
+  {
+   "kelime": "حِلٌّ",
+   "okunus": "hillün",
+   "kok": "حلل",
+   "kokAnlam": "çözülmüş; helal",
+   "karsilik": "helaldir"
+  },
+  {
+   "kelime": "لَّهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "وَٱلْمُحْصَنَٰتُ",
+   "okunus": "vel mühsanâtü",
+   "kok": "حصن",
+   "kokAnlam": "korunma, kale; iffetli/evli kadın",
+   "karsilik": "ve iffetli kadınlar"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنَٰتِ",
+   "okunus": "elmü'minâti",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanan kadın",
+   "karsilik": "mümin kadınlardan"
+  },
+  {
+   "kelime": "وَٱلْمُحْصَنَٰتُ",
+   "okunus": "vel mühsanâtü",
+   "kok": "حصن",
+   "kokAnlam": "korunma, kale; iffetli/evli kadın",
+   "karsilik": "ve iffetli kadınlar"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "أُوتُوا۟",
+   "okunus": "ûtû",
+   "kok": "أتي",
+   "kokAnlam": "gelme; verilme",
+   "karsilik": "verilenlerden"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "Kitap"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِكُمْ",
+   "okunus": "kabliküm",
+   "kok": "قبل",
+   "kokAnlam": "önce olma",
+   "karsilik": "sizden önce"
+  },
+  {
+   "kelime": "إِذَآ",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "ءَاتَيْتُمُوهُنَّ",
+   "okunus": "âteytümûhünne",
+   "kok": "أتي",
+   "kokAnlam": "gelme; verme",
+   "karsilik": "onlara verdiğinizde"
+  },
+  {
+   "kelime": "أُجُورَهُنَّ",
+   "okunus": "ücûrahünne",
+   "kok": "أجر",
+   "kokAnlam": "ücret, karşılık; mehir",
+   "karsilik": "mehirlerini"
+  },
+  {
+   "kelime": "مُحْصِنِينَ",
+   "okunus": "mühsınîne",
+   "kok": "حصن",
+   "kokAnlam": "korunma, kale; iffetli/nikâhlı olma",
+   "karsilik": "iffetli kişiler olarak"
+  },
+  {
+   "kelime": "غَيْرَ",
+   "okunus": "gayra",
+   "kok": "غير",
+   "kokAnlam": "başkalık, olmaksızın",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "مُسَٰفِحِينَ",
+   "okunus": "müsâfihîne",
+   "kok": "سفح",
+   "kokAnlam": "dökme; zina yapan",
+   "karsilik": "zina eden"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve olmaksızın",
+   "karsilik": "ve olmaksızın"
+  },
+  {
+   "kelime": "مُتَّخِذِىٓ",
+   "okunus": "müttehızî",
+   "kok": "أخذ",
+   "kokAnlam": "edinme, tutma",
+   "karsilik": "edinen"
+  },
+  {
+   "kelime": "أَخْدَانٍ",
+   "okunus": "ahdânin",
+   "kok": "خدن",
+   "kokAnlam": "gizli dost, sevgili",
+   "karsilik": "gizli dostlar"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) kim ki",
+   "karsilik": "kim ki"
+  },
+  {
+   "kelime": "يَكْفُرْ",
+   "okunus": "yekfür",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr ederse"
+  },
+  {
+   "kelime": "بِٱلْإِيمَٰنِ",
+   "okunus": "bil îmâni",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "imanı"
+  },
+  {
+   "kelime": "فَقَدْ",
+   "okunus": "fekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "حَبِطَ",
+   "okunus": "habita",
+   "kok": "حبط",
+   "kokAnlam": "boşa gitme, geçersiz olma",
+   "karsilik": "boşa gitmiştir"
+  },
+  {
+   "kelime": "عَمَلُهُۥ",
+   "okunus": "amelühû",
+   "kok": "عمل",
+   "kokAnlam": "iş, eylem, çalışma",
+   "karsilik": "ameli"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve o",
+   "karsilik": "ve o"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ٱلْءَاخِرَةِ",
+   "okunus": "el'âhırati",
+   "kok": "أخر",
+   "kokAnlam": "sonra olma; ahiret",
+   "karsilik": "ahirette"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-dendir"
+  },
+  {
+   "kelime": "ٱلْخَٰسِرِينَ",
+   "okunus": "elhâsirîne",
+   "kok": "خسر",
+   "kokAnlam": "kayıp, zarar",
+   "karsilik": "kaybedenler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet önceki ayetin devamında temiz şeylerin helal kılınmasını tekrarlar ve Ehl-i Kitap ile karşılıklı yemek ilişkisini düzenler. Ardından mümin ve Ehl-i Kitap'tan iffetli kadınlarla, mehir verilerek ve zina veya gizli ilişki olmaksızın evlilik yapılabileceği belirtilir.",
+  "Ayet, 'muhsanât' (iffetli/nikâhlı kadınlar) ifadesiyle evliliği zinadan ve gizli ilişkiden ayırır; mehir burada evliliğin bir şartı olarak anılır. Son cümle, imanı bütünüyle terk etmenin amelleri geçersiz kılacağını ve ahirette kayıpla sonuçlanacağını hatırlatır. Klasik fıkıh bu ayeti, Ehl-i Kitap kadınlarla evlilik ve yiyecek hükümlerinin temel dayanağı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:85",
+   "meal": "Kim İslâm'dan başka bir din ararsa, ondan asla kabul edilmez; o, ahirette kaybedenlerden olur.",
+   "baglanti": "Ayetin son cümlesindeki 'imanı inkâr edenin ameli boşa gider' ifadesi, Âl-i İmrân 85'teki 'İslam'dan başka din arayanın kabul görmemesi' ilkesiyle aynı sonuca varır."
+  },
+  {
+   "ref": "2:221",
+   "meal": "İman etmedikçe Allah'a ortak koşan kadınlarla evlenmeyin; iman eden bir cariye, hoşunuza gitse de Allah'a ortak koşan bir kadından daha hayırlıdır. İman etmedikçe kadınlarınızı Allah'a ortak koşan erkeklerle de evlendirmeyin. Onlar ateşe çağırır; Allah ise izniyle cennete ve bağışlanmaya çağırır.",
+   "baglanti": "Evlilikte iman şartı burada müşriklerle evlilik yasağı olarak geçer; Mâide 5 ise Ehl-i Kitap'la evliliğe özel bir izin getirerek bu genel çerçeveyi daraltır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, yiyecek paylaşımı ve evlilik gibi özel hukuki-dini hükümlerdir; bunlar klasik fıkhın ayrıntılandırdığı alanlardır ve burada kesin fıkhi detaya girilmez.",
+  "Genel ders, ilişkilerde -yemek paylaşımında olsun evlilikte olsun- açıklık ve karşılıklı sorumluluğun önemidir. Mehir vermek gibi bir şart, ilişkinin gizli değil açık ve sorumlu bir temelde kurulmasını ister."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ilişkindeki şeffaflığı gözden geçir",
+   "aciklama": "Bugün, gizli tuttuğun ama açık olması gereken bir konuyu ilgili kişiyle paylaş."
+  },
+  {
+   "baslik": "Karşılıklılığı hatırla",
+   "aciklama": "Bugün birinden faydalandığın bir konuda, ona da aynı ölçüde katkı sağlayıp sağlamadığını düşün."
+  },
+  {
+   "baslik": "Sorumluluklarını yaz",
+   "aciklama": "Bir ilişki veya anlaşmada üstlendiğin sorumluluğu bugün açıkça yazılı hale getir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ilişkinde üstü kapalı bıraktığın bir konuyu netleştirmek için ilk adımı at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/5"
+  }
+ ]
+}

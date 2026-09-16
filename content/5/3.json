@@ -1,0 +1,481 @@
+{
+ "sure": 5,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Leş, kan, domuz eti, Allah'tan başkası adına kesilen, boğularak ölmüş, vurularak öldürülmüş, düşüp ölmüş, boynuzlanarak ölmüş -kestikleriniz hariç- ve yırtıcı hayvanın yediği ile dikili taşlara kesilenler size haram kılındı; bir de fal oklarıyla kısmet aramanız. İşte bu, yoldan çıkmaktır. Bugün inkâr edenler dininizden ümidini kesti; artık onlardan korkmayın, benden korkun. Bugün dininizi sizin için kemale erdirdim, üzerinizdeki nimetimi tamamladım ve sizin için din olarak İslam'a razı oldum. Kim şiddetli bir açlıkta, günaha meyletmeksizin (bunlardan yemek) zorunda kalırsa, şüphesiz Allah çok bağışlayan, çok merhamet edendir.",
+ "mealNotu": "Ayet, klasik fıkhın 'haram yiyecekler' listesinin temel dayanağıdır; burada yalnızca sayılan maddelere yer verilmiş, ayrıntılı fıkhi tanımlar eklenmemiştir. 'Zekkeytüm' (usulüne uygun kestiğiniz) ifadesi, ölmeden önce yetişip kesilen hayvanları önceki yasaklardan istisna eder. 'İdturra' (zorda kalma) kökü, açlıkta hayatta kalmak için haram sayılanlardan yemenin günah sayılmadığını anlatır.",
+ "kokler": [
+  {
+   "kelime": "حُرِّمَتْ",
+   "okunus": "hurrimet",
+   "kok": "حرم",
+   "kokAnlam": "yasaklama, haram kılma",
+   "karsilik": "haram kılındı"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleykümü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "ٱلْمَيْتَةُ",
+   "okunus": "elmeytetü",
+   "kok": "موت",
+   "kokAnlam": "ölme; leş",
+   "karsilik": "leş"
+  },
+  {
+   "kelime": "وَٱلدَّمُ",
+   "okunus": "ved demü",
+   "kok": "دمو",
+   "kokAnlam": "kan",
+   "karsilik": "ve kan"
+  },
+  {
+   "kelime": "وَلَحْمُ",
+   "okunus": "ve lahmü",
+   "kok": "لحم",
+   "kokAnlam": "et",
+   "karsilik": "ve eti"
+  },
+  {
+   "kelime": "ٱلْخِنزِيرِ",
+   "okunus": "elhınzîri",
+   "kok": "خنزر",
+   "kokAnlam": "domuz",
+   "karsilik": "domuzun"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şey ki",
+   "karsilik": "ve şey ki"
+  },
+  {
+   "kelime": "أُهِلَّ",
+   "okunus": "ühille",
+   "kok": "هلل",
+   "kokAnlam": "yüksek sesle anma, ad anarak kesme",
+   "karsilik": "adına anılan"
+  },
+  {
+   "kelime": "لِغَيْرِ",
+   "okunus": "liğayri",
+   "kok": "غير",
+   "kokAnlam": "başkalık, başkası",
+   "karsilik": "başkası"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "وَٱلْمُنْخَنِقَةُ",
+   "okunus": "vel münhanikatü",
+   "kok": "خنق",
+   "kokAnlam": "boğma, boğulma",
+   "karsilik": "ve boğularak ölmüş"
+  },
+  {
+   "kelime": "وَٱلْمَوْقُوذَةُ",
+   "okunus": "vel mevkûzetü",
+   "kok": "وقذ",
+   "kokAnlam": "vurma, darbeyle öldürme",
+   "karsilik": "ve vurularak öldürülmüş"
+  },
+  {
+   "kelime": "وَٱلْمُتَرَدِّيَةُ",
+   "okunus": "vel müteraddiyetü",
+   "kok": "ردي",
+   "kokAnlam": "düşme, yuvarlanma",
+   "karsilik": "ve düşüp ölmüş"
+  },
+  {
+   "kelime": "وَٱلنَّطِيحَةُ",
+   "okunus": "ven netîhatü",
+   "kok": "نطح",
+   "kokAnlam": "boynuzlama, süsme",
+   "karsilik": "ve boynuzlanarak ölmüş"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şey ki",
+   "karsilik": "ve şey ki"
+  },
+  {
+   "kelime": "أَكَلَ",
+   "okunus": "ekele",
+   "kok": "أكل",
+   "kokAnlam": "yeme",
+   "karsilik": "yediği"
+  },
+  {
+   "kelime": "ٱلسَّبُعُ",
+   "okunus": "essebüu",
+   "kok": "سبع",
+   "kokAnlam": "yırtıcı hayvan",
+   "karsilik": "yırtıcı hayvanın"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, dışında",
+   "karsilik": "hariç"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey ki",
+   "karsilik": "olanı"
+  },
+  {
+   "kelime": "ذَكَّيْتُمْ",
+   "okunus": "zekkeytüm",
+   "kok": "ذكو",
+   "kokAnlam": "usulüne uygun kesme, temizleme",
+   "karsilik": "kestiğiniz"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şey ki",
+   "karsilik": "ve şey ki"
+  },
+  {
+   "kelime": "ذُبِحَ",
+   "okunus": "zübiha",
+   "kok": "ذبح",
+   "kokAnlam": "boğazlama, kesme",
+   "karsilik": "kesilen"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلنُّصُبِ",
+   "okunus": "ennüsubi",
+   "kok": "نصب",
+   "kokAnlam": "dikilmiş taş, put",
+   "karsilik": "dikili taşlara"
+  },
+  {
+   "kelime": "وَأَن",
+   "okunus": "ve en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ve ki",
+   "karsilik": "bir de"
+  },
+  {
+   "kelime": "تَسْتَقْسِمُوا۟",
+   "okunus": "testeksimû",
+   "kok": "قسم",
+   "kokAnlam": "bölüşme; fal oklarıyla kısmet arama",
+   "karsilik": "fal oklarıyla kısmet aramanız"
+  },
+  {
+   "kelime": "بِٱلْأَزْلَٰمِ",
+   "okunus": "bil ezlâmi",
+   "kok": "زلم",
+   "kokAnlam": "fal okları",
+   "karsilik": "fal oklarıyla"
+  },
+  {
+   "kelime": "ذَٰلِكُمْ",
+   "okunus": "zâliküm",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "فِسْقٌ",
+   "okunus": "fiskun",
+   "kok": "فسق",
+   "kokAnlam": "yoldan çıkma",
+   "karsilik": "yoldan çıkmaktır"
+  },
+  {
+   "kelime": "ٱلْيَوْمَ",
+   "okunus": "elyevme",
+   "kok": "يوم",
+   "kokAnlam": "gün, bugün",
+   "karsilik": "bugün"
+  },
+  {
+   "kelime": "يَئِسَ",
+   "okunus": "yeise",
+   "kok": "يأس",
+   "kokAnlam": "umutsuzluğa düşme",
+   "karsilik": "ümidini kesti"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr eden"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دِينَكُمْ",
+   "okunus": "dîniküm",
+   "kok": "دين",
+   "kokAnlam": "din",
+   "karsilik": "dininizden"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) artık ...mayın",
+   "karsilik": "artık ...mayın"
+  },
+  {
+   "kelime": "تَخْشَوْهُمْ",
+   "okunus": "tahşevhüm",
+   "kok": "خشي",
+   "kokAnlam": "korkma, çekinme",
+   "karsilik": "onlardan korkmayın"
+  },
+  {
+   "kelime": "وَٱخْشَوْنِ",
+   "okunus": "vehşevni",
+   "kok": "خشي",
+   "kokAnlam": "korkma, çekinme",
+   "karsilik": "benden korkun"
+  },
+  {
+   "kelime": "ٱلْيَوْمَ",
+   "okunus": "elyevme",
+   "kok": "يوم",
+   "kokAnlam": "gün, bugün",
+   "karsilik": "bugün"
+  },
+  {
+   "kelime": "أَكْمَلْتُ",
+   "okunus": "ekmeltü",
+   "kok": "كمل",
+   "kokAnlam": "tamamlama, kemale erdirme",
+   "karsilik": "kemale erdirdim"
+  },
+  {
+   "kelime": "لَكُمُ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "دِينَكُمْ",
+   "okunus": "dîneküm",
+   "kok": "دين",
+   "kokAnlam": "din",
+   "karsilik": "dininizi"
+  },
+  {
+   "kelime": "وَأَتْمَمْتُ",
+   "okunus": "ve etmemtü",
+   "kok": "تمم",
+   "kokAnlam": "tamamlama",
+   "karsilik": "ve tamamladım"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) üzerinize",
+   "karsilik": "üzerinizdeki"
+  },
+  {
+   "kelime": "نِعْمَتِى",
+   "okunus": "ni'metî",
+   "kok": "نعم",
+   "kokAnlam": "nimet",
+   "karsilik": "nimetimi"
+  },
+  {
+   "kelime": "وَرَضِيتُ",
+   "okunus": "ve radîtü",
+   "kok": "رضو",
+   "kokAnlam": "razı olma, hoşnut olma",
+   "karsilik": "ve razı oldum"
+  },
+  {
+   "kelime": "لَكُمُ",
+   "okunus": "lekümü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "ٱلْإِسْلَٰمَ",
+   "okunus": "el'islâme",
+   "kok": "سلم",
+   "kokAnlam": "teslimiyet, barış; İslam",
+   "karsilik": "İslam'a"
+  },
+  {
+   "kelime": "دِينًا",
+   "okunus": "dînen",
+   "kok": "دين",
+   "kokAnlam": "din",
+   "karsilik": "din olarak"
+  },
+  {
+   "kelime": "فَمَنِ",
+   "okunus": "femeni",
+   "kok": "—",
+   "kokAnlam": "(şart) kim ki",
+   "karsilik": "kim ki"
+  },
+  {
+   "kelime": "ٱضْطُرَّ",
+   "okunus": "idturra",
+   "kok": "ضرر",
+   "kokAnlam": "zarar, zorda kalma",
+   "karsilik": "zorunda kalırsa"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "مَخْمَصَةٍ",
+   "okunus": "mahmesatin",
+   "kok": "خمص",
+   "kokAnlam": "açlık",
+   "karsilik": "bir açlıkta"
+  },
+  {
+   "kelime": "غَيْرَ",
+   "okunus": "gayra",
+   "kok": "غير",
+   "kokAnlam": "başkalık, olmaksızın",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "مُتَجَانِفٍ",
+   "okunus": "mütecânifin",
+   "kok": "جنف",
+   "kokAnlam": "eğilme, meyletme",
+   "karsilik": "meyleden"
+  },
+  {
+   "kelime": "لِّإِثْمٍ",
+   "okunus": "liismin",
+   "kok": "أثم",
+   "kokAnlam": "günah",
+   "karsilik": "günaha"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَفُورٌ",
+   "okunus": "gafûrun",
+   "kok": "غفر",
+   "kokAnlam": "bağışlama, örtme",
+   "karsilik": "çok bağışlayandır"
+  },
+  {
+   "kelime": "رَّحِيمٌ",
+   "okunus": "rahîmün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet",
+   "karsilik": "çok merhamet edendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet önce yenmesi haram olan şeyleri sayar: leş, akıtılmış kan, domuz eti, Allah'tan başkası adına kesilen ve çeşitli şekillerde ölmüş hayvanlar; ölmeden yetişilip usulünce kesilenler bu yasağın dışındadır. Fal oklarıyla kısmet arama da aynı cümlede yoldan çıkma (fısk) olarak nitelenir.",
+  "Ayetin ortasında yer alan 'bugün dininizi kemale erdirdim' ifadesi, Mâide suresinin iniş döneminin sonlarına işaret eder; klasik tefsir bunu dinin temel hükümlerinin tamamlanması olarak açıklar. Ayet, zorunlu açlık durumunda -günaha meyletmeden- bu yasaklardan yemeyi affeder; bu, hükmün istisnasız katı olmadığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:173",
+   "meal": "Allah size ancak leşi, kanı, domuz etini ve Allah'tan başkası adına kesileni haram kıldı. Ama kim mecbur kalırsa, sınırı aşmamak ve haddi aşmamak şartıyla ona günah yoktur. Şüphesiz Allah çok bağışlayan, çok merhamet edendir.",
+   "baglanti": "Aynı haram yiyecekler listesi burada daha kısa biçimde geçer; ikisi de zaruret halinde günah olmadığını ekler."
+  },
+  {
+   "ref": "6:145",
+   "meal": "De ki: Bana vahyolunanda, ölü hayvan eti, akıtılmış kan, domuz eti -ki o pisliktir- yahut Allah'tan başkası adına kesilmiş bir günah olması dışında, yiyen için haram kılınmış bir şey bulamıyorum. Ama kim mecbur kalırsa, sınırı aşmamak ve haddi aşmamak şartıyla (yiyebilir); şüphesiz Rabbin çok bağışlayan, çok merhamet edendir.",
+   "baglanti": "Bu ayet haram sayılanları gerekçeleriyle (pislik, günah) anlatır; Mâide 3'teki listeyle örtüşür ve aynı zaruret istisnasını tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hangi hayvansal gıdaların yenilebileceğine dair sınırdır; bu, klasik fıkhın ayrıntılandırdığı bir yeme-içme hükmüdür ve burada kesin fıkhi detaya girilmez.",
+  "Ayetten çıkan genel ilke, bir kuralın zorunluluk halinde esnekliğidir: açlıkta günaha meyletmeden yemek zorunda kalan kişi kınanmaz. Bu, günlük hayatta da bir ilkeye örnek olur; kurallara bağlılık, gerçek bir zorunluluk durumunu gözetmeyi dışlamaz."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yediğin şeyin kaynağını sorgula",
+   "aciklama": "Bugün tükettiğin bir gıdanın nereden ve nasıl geldiğini merak et, bilmediğin bir şeyi araştır."
+  },
+  {
+   "baslik": "Zorunlulukla keyfîliği ayır",
+   "aciklama": "Bir kuralı esnetmen gerektiğinde, bunun gerçek bir zorunluluk mu yoksa sadece rahatlık mı olduğunu dürüstçe değerlendir."
+  },
+  {
+   "baslik": "Tamamlanmış bir nimeti fark et",
+   "aciklama": "Bugün hayatında tamamlanmış, artık sorun olmayan bir konuyu düşün ve bunun için şükret."
+  }
+ ],
+ "bugununAdimi": "Bugün mutfağındaki bir ürünün etiketini oku ve içeriği hakkında bilmediğin bir şeyi öğren.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/3"
+  }
+ ]
+}
