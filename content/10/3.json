@@ -1,0 +1,257 @@
+{
+ "sure": 10,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Şüphesiz sizin Rabbiniz, gökleri ve yeri altı günde yaratan, sonra Arş'a istiva eden Allah'tır. O, işi yönetir. O'nun izni olmadıkça hiçbir şefaatçi yoktur. İşte Rabbiniz Allah budur; öyleyse O'na kulluk edin. Hâlâ düşünüp öğüt almayacak mısınız?",
+ "mealNotu": "'İstivâ' (سوي) kökü, ayette olduğu gibi 'Arş'a istiva etti' şeklinde bırakılmıştır; klasik tefsir bunu Allah'ın yüceliğine ve hükümranlığına yakışır şekilde, keyfiyeti (nasıl olduğu) bilinmeyen bir sıfat olarak açıklar ve bir beşer sıfatına benzetmez. 'Tedbir' (دبر) kökü işleri yönetmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "رَبُّكُمْ",
+   "okunus": "rabbekümü",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, rab",
+   "karsilik": "sizin Rabbiniz"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tır"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki O",
+   "karsilik": "ki O"
+  },
+  {
+   "kelime": "خَلَقَ",
+   "okunus": "haleka",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yarattı"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "gökleri"
+  },
+  {
+   "kelime": "وَٱلْأَرْضَ",
+   "okunus": "vel erda",
+   "kok": "أرض",
+   "kokAnlam": "yer",
+   "karsilik": "ve yeri"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "سِتَّةِ",
+   "okunus": "sitteti",
+   "kok": "ستت",
+   "kokAnlam": "altı (sayı)",
+   "karsilik": "altı"
+  },
+  {
+   "kelime": "أَيَّامٍ",
+   "okunus": "eyyâmin",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günde"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ٱسْتَوَىٰ",
+   "okunus": "istevâ",
+   "kok": "سوي",
+   "kokAnlam": "denk olma, istiva etme",
+   "karsilik": "istiva etti"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلْعَرْشِ",
+   "okunus": "el'arşi",
+   "kok": "عرش",
+   "kokAnlam": "arş, taht",
+   "karsilik": "Arş'a"
+  },
+  {
+   "kelime": "يُدَبِّرُ",
+   "okunus": "yüdebbiru",
+   "kok": "دبر",
+   "kokAnlam": "tedbir, işi yönetme",
+   "karsilik": "yönetir"
+  },
+  {
+   "kelime": "ٱلْأَمْرَ",
+   "okunus": "el'emra",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir",
+   "karsilik": "işi"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yoktur",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "شَفِيعٍ",
+   "okunus": "şefîin",
+   "kok": "شفع",
+   "kokAnlam": "şefaat, aracılık",
+   "karsilik": "şefaatçi"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, dışında",
+   "karsilik": "dışında"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "olmadıkça"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "إِذْنِهِۦ",
+   "okunus": "iznihî",
+   "kok": "أذن",
+   "kokAnlam": "izin",
+   "karsilik": "O'nun izni"
+  },
+  {
+   "kelime": "ذَٰلِكُمُ",
+   "okunus": "zâlikümü",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "رَبُّكُمْ",
+   "okunus": "rabbüküm",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, rab",
+   "karsilik": "Rabbinizdir"
+  },
+  {
+   "kelime": "فَٱعْبُدُوهُ",
+   "okunus": "febüdûhü",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme",
+   "karsilik": "öyleyse O'na kulluk edin"
+  },
+  {
+   "kelime": "أَفَلَا",
+   "okunus": "efelâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) hâlâ ...mı",
+   "karsilik": "hâlâ ...mı"
+  },
+  {
+   "kelime": "تَذَكَّرُونَ",
+   "okunus": "tezekkerûne",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlama, öğüt alma",
+   "karsilik": "düşünüp öğüt alıyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "İnsanların bir beşerin peygamber olmasına şaştığı bir önceki ayetin ardından bu ayet, asıl büyük gücün Allah'a ait olduğunu hatırlatır: gökleri ve yeri altı günde yaratan ve Arş'a istiva eden O'dur. 'İstiva' kelimesi ayette olduğu gibi bırakılmıştır; klasik tefsir bunu bir beşer oturuşuna benzetmeden, Allah'ın yüceliğine yakışan, keyfiyeti bilinmeyen bir sıfat olarak açıklar.",
+  "Ayet, yaratma gücünün yanına 'işi yönetme' (تدبير) ve 'şefaat ancak O'nun izniyle olur' vurgusunu ekler; böylece Allah'tan başka hiçbir aracının kendiliğinden şefaat edemeyeceği belirtilir. Sonuç, tek bir çağrıya bağlanır: 'Öyleyse O'na kulluk edin, hâlâ düşünüp öğüt almayacak mısınız?'"
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:54",
+   "meal": "Şüphesiz sizin Rabbiniz, gökleri ve yeri altı günde yaratan, sonra Arş'a istiva eden Allah'tır; O, gündüzü durmadan kovalayan geceyle örter; güneş, ay ve yıldızlar O'nun emrine boyun eğmiştir. Bilin ki yaratmak da emretmek de O'na aittir. Âlemlerin Rabbi Allah ne yücedir.",
+   "baglanti": "A'râf sûresindeki bu ayet, 10:3'ün ilk cümlesiyle neredeyse birebir aynıdır ve altı günde yaratma ile Arş'a istiva temasını gece-gündüz, güneş-ay ayrıntısıyla genişletir."
+  },
+  {
+   "ref": "57:4",
+   "meal": "Gökleri ve yeri altı günde yaratan, sonra Arş'a istiva eden O'dur; yere gireni, ondan çıkanı, gökten ineni, oraya yükseleni bilir. Nerede olsanız O sizinle beraberdir.",
+   "baglanti": "Hadîd sûresindeki bu ayet de aynı 'altı günde yaratma, Arş'a istiva' ifadesini tekrarlayıp Allah'ın her yerde bilgisiyle birlikte olduğunu ekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, göklerin ve yerin yaratılışı ile Allah'ın Arş'a istivası gibi itikadi bir konudur; bu tür ayetler, klasik tefsir çizgisinde teşbihe kaçmadan, oldukları gibi kabul edilerek anlaşılır.",
+  "Buradan çıkan genel ders, her şeyin yaratıcısı ve yöneticisi olan Allah'a güvenmenin ve O'ndan başka hiçbir aracıya bel bağlamamanın önemidir; bugün bir işini halletmek için sadece dünyevi bağlantılara değil, önce Allah'a yönelmeyi deneyebilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gücü hatırla",
+   "aciklama": "Bugün büyük bir işe başlarken önce her şeyi yaratıp yöneten Allah'ı an."
+  },
+  {
+   "baslik": "Aracıya değil O'na güven",
+   "aciklama": "Bir konuda çaresiz kaldığında sadece insanlardan medet ummak yerine önce dua et."
+  },
+  {
+   "baslik": "Düşünüp öğüt al",
+   "aciklama": "Gökyüzüne baktığında bir an durup bu düzenin hikmeti üzerine düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün bir işe başlarken önce Allah'a güvendiğini içinden söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/3"
+  }
+ ]
+}

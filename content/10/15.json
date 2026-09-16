@@ -1,0 +1,327 @@
+{
+ "sure": 10,
+ "ayet": 15,
+ "durum": "taslak",
+ "meal": "Ayetlerimiz kendilerine apaçık okunduğunda, bize kavuşmayı ummayanlar, 'Bundan başka bir Kur'an getir ya da onu değiştir' derler. De ki: 'Onu kendiliğimden değiştirmem benim için olacak şey değildir. Ben, sadece bana vahyedilene uyarım. Şüphesiz ben, Rabbime karşı gelirsem büyük bir günün azabından korkarım.'",
+ "mealNotu": "'Tilkâi nefsî' (لقي + نفس) ifadesi 'kendiliğimden' anlamındadır. 'Asaytü' (عصي) kökü isyan etme, karşı gelme anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "تُتْلَىٰ",
+   "okunus": "tütlâ",
+   "kok": "تلو",
+   "kokAnlam": "okuma, takip etme",
+   "karsilik": "okunduğunda"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) kendilerine",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "ءَايَاتُنَا",
+   "okunus": "âyâtünâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "ayetlerimiz"
+  },
+  {
+   "kelime": "بَيِّنَٰتٍ",
+   "okunus": "beyyinâtin",
+   "kok": "بين",
+   "kokAnlam": "açık",
+   "karsilik": "apaçık"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ummayanlar",
+   "karsilik": "ummayanlar"
+  },
+  {
+   "kelime": "يَرْجُونَ",
+   "okunus": "yercûne",
+   "kok": "رجو",
+   "kokAnlam": "umma",
+   "karsilik": "ummayanlar"
+  },
+  {
+   "kelime": "لِقَآءَنَا",
+   "okunus": "likâenâ",
+   "kok": "لقي",
+   "kokAnlam": "kavuşma, buluşma",
+   "karsilik": "bize kavuşmayı"
+  },
+  {
+   "kelime": "ٱئْتِ",
+   "okunus": "iti",
+   "kok": "أتي",
+   "kokAnlam": "getirme",
+   "karsilik": "getir"
+  },
+  {
+   "kelime": "بِقُرْءَانٍ",
+   "okunus": "bikur'ânin",
+   "kok": "قرأ",
+   "kokAnlam": "okuma, Kur'an",
+   "karsilik": "bir Kur'an"
+  },
+  {
+   "kelime": "غَيْرِ",
+   "okunus": "gayri",
+   "kok": "غير",
+   "kokAnlam": "başka",
+   "karsilik": "bundan başka"
+  },
+  {
+   "kelime": "هَٰذَآ",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "بَدِّلْهُ",
+   "okunus": "beddilhü",
+   "kok": "بدل",
+   "kokAnlam": "değiştirme",
+   "karsilik": "onu değiştir"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değildir",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "يَكُونُ",
+   "okunus": "yekûnü",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olacak şey"
+  },
+  {
+   "kelime": "لِىٓ",
+   "okunus": "lî",
+   "kok": "—",
+   "kokAnlam": "(zamir) benim için",
+   "karsilik": "benim için"
+  },
+  {
+   "kelime": "أَنْ",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) diye",
+   "karsilik": "-mem"
+  },
+  {
+   "kelime": "أُبَدِّلَهُۥ",
+   "okunus": "übeddilehû",
+   "kok": "بدل",
+   "kokAnlam": "değiştirme",
+   "karsilik": "onu değiştirmem"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "den"
+  },
+  {
+   "kelime": "تِلْقَآئِ",
+   "okunus": "tilkâi",
+   "kok": "لقي",
+   "kokAnlam": "kendiliğinden",
+   "karsilik": "kendiliğimden"
+  },
+  {
+   "kelime": "نَفْسِىٓ",
+   "okunus": "nefsî",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi",
+   "karsilik": "kendiliğimden"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) sadece",
+   "karsilik": "sadece"
+  },
+  {
+   "kelime": "أَتَّبِعُ",
+   "okunus": "ettebiu",
+   "kok": "تبع",
+   "kokAnlam": "uyma, tabi olma",
+   "karsilik": "ben uyarım"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) başkasına değil",
+   "karsilik": "başkasına değil"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeye",
+   "karsilik": "şeye"
+  },
+  {
+   "kelime": "يُوحَىٰٓ",
+   "okunus": "yûhâ",
+   "kok": "وحي",
+   "kokAnlam": "vahyetme",
+   "karsilik": "vahyedilene"
+  },
+  {
+   "kelime": "إِلَىَّ",
+   "okunus": "ileyye",
+   "kok": "—",
+   "kokAnlam": "(edat) bana",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "إِنِّىٓ",
+   "okunus": "innî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz ben",
+   "karsilik": "şüphesiz ben"
+  },
+  {
+   "kelime": "أَخَافُ",
+   "okunus": "ehâfü",
+   "kok": "خوف",
+   "kokAnlam": "korkma",
+   "karsilik": "korkarım"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "عَصَيْتُ",
+   "okunus": "asaytü",
+   "kok": "عصي",
+   "kokAnlam": "isyan etme, karşı gelme",
+   "karsilik": "karşı gelirsem"
+  },
+  {
+   "kelime": "رَبِّى",
+   "okunus": "rabbî",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, rab",
+   "karsilik": "Rabbime"
+  },
+  {
+   "kelime": "عَذَابَ",
+   "okunus": "azâbe",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "azabından"
+  },
+  {
+   "kelime": "يَوْمٍ",
+   "okunus": "yevmin",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bir günün"
+  },
+  {
+   "kelime": "عَظِيمٍ",
+   "okunus": "azîmin",
+   "kok": "عظم",
+   "kokAnlam": "büyük",
+   "karsilik": "büyük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sûrenin bu son ayeti, bize kavuşmayı ummayanların vahye karşı somut bir talebini aktarır: ayetler okunduğunda 'başka bir Kur'an getir ya da onu değiştir' derler. Bu talep, klasik tefsire göre, vahyin içeriğinden -özellikle uyarı ve ahiret temalarından- rahatsız olan müşriklerin, mesajı kendi isteklerine uydurma çabasını yansıtır.",
+  "Peygambere verilen cevap nettir: vahyi kendiliğinden değiştirmek onun elinde değildir, o sadece kendisine vahyedilene uyar ve Rabbine karşı gelmekten büyük bir günün azabıyla korkar. Bu, peygamberin de vahiy karşısında bir kul olduğunu, mesajı dilediği gibi şekillendiremeyeceğini gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "46:9",
+   "meal": "De ki: Ben, peygamberler içinde bir türedi değilim; bana ve size ne yapılacağını da bilmiyorum. Ben, sadece bana vahyedilene uyarım; ben ancak apaçık bir uyarıcıyım.",
+   "baglanti": "Ahkâf sûresindeki bu ayet, 10:15'teki 'ben sadece bana vahyedilene uyarım' cümlesini birebir aynı ifadeyle tekrarlayarak peygamberin vahye bağlılığını pekiştirir."
+  },
+  {
+   "ref": "6:50",
+   "meal": "De ki: Size, Allah'ın hazineleri yanımdadır demiyorum, gaybı da bilmem, size bir meleğim de demiyorum. Ben, sadece bana vahyedilene uyarım. De ki: Kör ile gören bir olur mu? Hiç düşünmüyor musunuz?",
+   "baglanti": "En'âm sûresindeki bu ayet de aynı 'ben sadece bana vahyedilene uyarım' ifadesiyle, peygamberin kendiliğinden bir yetkisi olmadığını, sadece vahyi ilettiğini vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, Mekkeli müşriklerin vahyi kendi isteklerine göre değiştirme talebi ve Peygamber'in buna verdiği ret cevabıdır; bu, vahyin korunmuşluğuyla ilgili özel bir olaydır.",
+  "Buradan çıkan genel ders, doğru bildiğin bir ilkeyi çevrenin baskısıyla değiştirmemektir; bugün senden bir değerinden taviz vermen istendiğinde, bunun bedelini göze alarak duruşunu koruyabilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "İlkenden taviz verme",
+   "aciklama": "Bugün seni rahatsız eden bir baskı karşısında doğru bildiğinden şaşma."
+  },
+  {
+   "baslik": "Kaynağa sadık kal",
+   "aciklama": "Bir bilgiyi aktarırken kendi yorumunla karıştırmadan olduğu gibi vermeye özen göster."
+  },
+  {
+   "baslik": "Sorumluluğunu hatırla",
+   "aciklama": "Bir sözünün ya da işinin hesabını vereceğini bilerek dikkatli davran."
+  }
+ ],
+ "bugununAdimi": "Bugün bir baskı karşısında doğru bildiğin bir ilkeden taviz vermeden dur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=15"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/15"
+  }
+ ]
+}

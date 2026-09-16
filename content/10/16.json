@@ -1,0 +1,180 @@
+{
+ "sure": 10,
+ "ayet": 16,
+ "durum": "taslak",
+ "meal": "De ki: 'Allah dileseydi, onu size okumazdım; O da onu size bildirmezdi. Ben ondan önce aranızda bir ömür kalmıştım; hâlâ akıl erdirmiyor musunuz?'",
+ "mealNotu": "'Edrâ' (دري) kökü bildirme, haberdar etme anlamındadır; öznesi Allah'tır. 'Lebistü' (لبث) ise uzun süre aralarında kalmayı, yaşamayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "قُل",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "لَّوْ",
+   "okunus": "lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "dileseydi (eğer)"
+  },
+  {
+   "kelime": "شَآءَ",
+   "okunus": "şâe",
+   "kok": "شيأ",
+   "kokAnlam": "dileme",
+   "karsilik": "dileseydi"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah, Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "...mazdım"
+  },
+  {
+   "kelime": "تَلَوْتُهُۥ",
+   "okunus": "televtühû",
+   "kok": "تلو",
+   "kokAnlam": "okuma, takip etme",
+   "karsilik": "onu okurdum"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinize",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "وَلَآ",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "ve ...mezdi"
+  },
+  {
+   "kelime": "أَدْرَىٰكُم",
+   "okunus": "edrâküm",
+   "kok": "دري",
+   "kokAnlam": "bildirme, haberdar etme",
+   "karsilik": "size bildirmezdi"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "فَقَدْ",
+   "okunus": "fekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "لَبِثْتُ",
+   "okunus": "lebistü",
+   "kok": "لبث",
+   "kokAnlam": "kalma, bekleme",
+   "karsilik": "kaldım"
+  },
+  {
+   "kelime": "فِيكُمْ",
+   "okunus": "fîküm",
+   "kok": "—",
+   "kokAnlam": "(edat) içinizde",
+   "karsilik": "aranızda"
+  },
+  {
+   "kelime": "عُمُرًا",
+   "okunus": "umüran",
+   "kok": "عمر",
+   "kokAnlam": "ömür, yaşam süresi",
+   "karsilik": "bir ömür"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِهِۦٓ",
+   "okunus": "kablihî",
+   "kok": "قبل",
+   "kokAnlam": "önce, öncelik",
+   "karsilik": "ondan önce"
+  },
+  {
+   "kelime": "أَفَلَا",
+   "okunus": "efelâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk, soru) hâlâ değil mi",
+   "karsilik": "hâlâ ...mıyorsunuz"
+  },
+  {
+   "kelime": "تَعْقِلُونَ",
+   "okunus": "ta'kılûne",
+   "kok": "عقل",
+   "kokAnlam": "akletme, akıl erdirme",
+   "karsilik": "akıl erdiriyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette müşrikler Peygamber'den başka bir Kur'an getirmesini ya da bu Kur'an'ı değiştirmesini istemişti; bu ayet ona verilecek cevabı öğretir. Peygamber, Kur'an'ı kendi isteğiyle okumadığını, bunun Allah'ın dilemesine bağlı olduğunu söyler.",
+  "'Ondan önce aranızda bir ömür kaldım' ifadesi, Peygamber'in kırk yaşına kadar toplumu arasında tanınan, okuma yazma bilmeyen bir insan olarak yaşadığı gerçeğine işaret eder; ayet bunu akla dayalı bir delil olarak sunar: bu denli uzun bir süre boyunca böyle bir söz söylemeyen biri, onu birden kendiliğinden uydurmuş olamaz."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:48",
+   "meal": "Sen bundan önce ne bir kitap okuyordun ne de elinle onu yazıyordun; eğer öyle olsaydı, batıl peşinde olanlar kuşkuya düşerlerdi.",
+   "baglanti": "10:16'daki 'ondan önce aranızda bir ömür kaldım' ifadesi, bu ayetteki Peygamber'in vahiyden önce okuma yazma bilmediği gerçeğiyle aynı delili farklı bir sureden destekler."
+  },
+  {
+   "ref": "6:35",
+   "meal": "Eğer onların yüz çevirmesi sana ağır geldiyse, gücün yeterse yerde bir tünel ya da gökte bir merdiven arayıp onlara bir mucize getir. Allah dileseydi onları hidayet üzere toplardı; sakın cahillerden olma.",
+   "baglanti": "10:16'daki 'Allah dileseydi' (lev şâellâh) kalıbını taşır; her iki ayet de vahyin ve hidayetin Peygamber'in elinde değil Allah'ın dilemesine bağlı olduğunu vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in vahiyden önceki hayatının Kur'an'ın kaynağına dair bir delil olmasıdır; bu, tarihi ve teolojik bir bağlamdır.",
+  "Buradan çıkan genel ders, bir insanın geçmiş yaşayışının bugünkü sözlerinin güvenilirliğine şahitlik ettiğidir; sen de bugün söylediklerinle geçmişte yaşadıkların arasında bir tutarlılık ara."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tutarlılığını gözden geçir",
+   "aciklama": "Bugün söylediğin bir sözün, geçmişteki tutumunla çelişip çelişmediğini düşün."
+  },
+  {
+   "baslik": "Sabırla anlat",
+   "aciklama": "Biri seni haksız yere şüpheyle karşıladığında, hemen öfkelenmeden geçmişini ve niyetini sakince anlat."
+  },
+  {
+   "baslik": "Güvenilirliğini koru",
+   "aciklama": "Bugün verdiğin küçük bir sözü bile tutarak uzun vadeli güvenilirliğine bir tuğla daha ekle."
+  }
+ ],
+ "bugununAdimi": "Bugün verdiğin bir sözü eksiksiz tutarak güvenilirliğini bir adım güçlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=16"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/16"
+  }
+ ]
+}

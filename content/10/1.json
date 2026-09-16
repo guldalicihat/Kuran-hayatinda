@@ -1,0 +1,89 @@
+{
+ "sure": 10,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Elif Lâm Râ. Bunlar, hikmetli Kitab'ın ayetleridir.",
+ "mealNotu": "'Hakîm' (حكم) kökü hüküm ve hikmet anlamındadır; burada Kitab'ın sağlam, tutarlı ve hikmet dolu olduğunu niteler. 'Elif Lâm Râ' harflerinin anlamı kesin olarak bilinmediğinden okunduğu gibi bırakılmıştır.",
+ "kokler": [
+  {
+   "kelime": "الٓر",
+   "okunus": "elif lâm râ",
+   "kok": "—",
+   "kokAnlam": "(mukattaa) hurûf-ı mukattaa",
+   "karsilik": "Elif Lâm Râ"
+  },
+  {
+   "kelime": "تِلْكَ",
+   "okunus": "tilke",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunlar, işte bunlar",
+   "karsilik": "bunlar"
+  },
+  {
+   "kelime": "ءَايَٰتُ",
+   "okunus": "âyâtü",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet, ayet",
+   "karsilik": "ayetleridir"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "Kitab'ın"
+  },
+  {
+   "kelime": "ٱلْحَكِيمِ",
+   "okunus": "elhakîmi",
+   "kok": "حكم",
+   "kokAnlam": "hüküm, hikmet",
+   "karsilik": "hikmetli"
+  }
+ ],
+ "neAnlatiyor": [
+  "Yûnus sûresi, Mekke döneminde inen ve tevhid, vahiy ve ahiret gibi temel inanç konularını işleyen bir sûredir. Sûre, birçok Mekkî sûrede olduğu gibi 'hurûf-ı mukattaa' denilen kesik harflerle başlar; bu harflerin anlamı kesin olarak bilinmez, klasik tefsir bunların Kur'an'ın mucizevi dilini ve Arapların bildiği harflerden örülmüş olduğunu hatırlattığını belirtir.",
+  "Ayet, hemen ardından Kitab'ı 'hakîm' (hikmetli) olarak niteler; 'hakîm' kökü hem sağlamlık hem hüküm hem de hikmet anlamı taşır. Bu nitelik, sûrenin devamında gelecek olan yaratılış, vahiy ve ahiret konularının rastgele değil, hikmetli bir düzen içinde anlatılacağının bir girişi niteliğindedir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "31:2",
+   "meal": "Bunlar, hikmetli Kitab'ın ayetleridir.",
+   "baglanti": "Lokmân sûresinin bu ayeti, 10:1 ile neredeyse kelimesi kelimesine aynıdır; ikisi de Kitab'ı 'el-kitâbi'l-hakîm' (hikmetli Kitap) olarak niteler."
+  },
+  {
+   "ref": "11:1",
+   "meal": "Elif Lâm Râ. Bu, ayetleri hikmet sahibi ve her şeyden haberdar olan Allah tarafından sağlamlaştırılmış, sonra da açıklanmış bir Kitap'tır.",
+   "baglanti": "Hûd sûresinin açılışı da aynı harflerle başlar ve Kitab'ı yine حكم köküyle 'sağlamlaştırılmış' olarak tanımlayarak 10:1'deki 'hakîm' vasfını genişletir."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, Kur'an'ın hikmetli bir Kitap olarak tanıtılmasıdır; bu, sûrenin girişinde okuyucuya kitabın niteliği hakkında bir çerçeve sunar.",
+  "Buradan çıkan genel ders, okuduğun bir metne -özellikle Kur'an'a- rastgele değil, içinde bir hikmet ve düzen arayarak yaklaşmaktır; bugün bir ayeti okurken 'bunda nasıl bir hikmet olabilir' diye durup düşünebilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ayeti yavaş oku",
+   "aciklama": "Bugün bir ayeti hızlıca geçmek yerine durup üzerinde bir dakika düşün."
+  },
+  {
+   "baslik": "Hikmet ara",
+   "aciklama": "Okuduğun bir Kur'an bölümünde neden böyle anlatıldığını kendine sor."
+  },
+  {
+   "baslik": "Notunu tut",
+   "aciklama": "Dikkatini çeken bir ayeti bir kenara not ederek gün içinde tekrar hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün okuduğun bir ayeti en az bir dakika durup düşünerek oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/1"
+  }
+ ]
+}

@@ -1,0 +1,341 @@
+{
+ "sure": 10,
+ "ayet": 22,
+ "durum": "taslak",
+ "meal": "O, sizi karada ve denizde yürütendir. Gemide olduğunuzda -gemiler içindekileri hoş bir rüzgarla yürütür, onlar da bununla sevinirler- onlara şiddetli bir rüzgar gelir, her yandan dalga üzerlerine gelir ve kendilerinin kuşatıldığını sanırlar; işte o an dini yalnız O'na has kılarak Allah'a yalvarırlar: 'Eğer bizi bundan kurtarırsan, elbette şükredenlerden olacağız.'",
+ "mealNotu": "'Mühlisîne lehüd dîne' (خلص) kökü, kulluğu yalnız Allah'a has kılmayı, samimiyeti anlatır. Cümle uzun ve iç içe olduğu için akışı netleştirmek amacıyla bağlayıcı ifadeler eklenmiştir; anlam köklere sadıktır.",
+ "kokler": [
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) O",
+   "karsilik": "O"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri)",
+   "karsilik": "-dir ki"
+  },
+  {
+   "kelime": "يُسَيِّرُكُمْ",
+   "okunus": "yüseyyiruküm",
+   "kok": "سير",
+   "kokAnlam": "yürütme, yol aldırma",
+   "karsilik": "sizi yürütür"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat)",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْبَرِّ",
+   "okunus": "elberri",
+   "kok": "برر",
+   "kokAnlam": "kara, kuru toprak",
+   "karsilik": "karada"
+  },
+  {
+   "kelime": "وَٱلْبَحْرِ",
+   "okunus": "vel bahri",
+   "kok": "بحر",
+   "kokAnlam": "deniz",
+   "karsilik": "ve denizde"
+  },
+  {
+   "kelime": "حَتَّىٰٓ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(başlangıç) nihayet",
+   "karsilik": "nihayet"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -diğinde",
+   "karsilik": "-diğinde"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduğunuzda"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat)",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْفُلْكِ",
+   "okunus": "elfülki",
+   "kok": "فلك",
+   "kokAnlam": "gemi",
+   "karsilik": "gemide"
+  },
+  {
+   "kelime": "وَجَرَيْنَ",
+   "okunus": "ve cerayne",
+   "kok": "جري",
+   "kokAnlam": "akma, yürüme",
+   "karsilik": "ve onlar yürüdü"
+  },
+  {
+   "kelime": "بِهِمْ",
+   "okunus": "bihim",
+   "kok": "—",
+   "kokAnlam": "(zamir)",
+   "karsilik": "onları"
+  },
+  {
+   "kelime": "بِرِيحٍ",
+   "okunus": "birîhin",
+   "kok": "روح",
+   "kokAnlam": "rüzgar",
+   "karsilik": "bir rüzgarla"
+  },
+  {
+   "kelime": "طَيِّبَةٍ",
+   "okunus": "tayyibetin",
+   "kok": "طيب",
+   "kokAnlam": "hoşluk, temizlik",
+   "karsilik": "hoş"
+  },
+  {
+   "kelime": "وَفَرِحُوا۟",
+   "okunus": "ve ferihû",
+   "kok": "فرح",
+   "kokAnlam": "sevinme",
+   "karsilik": "ve sevindiler"
+  },
+  {
+   "kelime": "بِهَا",
+   "okunus": "bihâ",
+   "kok": "—",
+   "kokAnlam": "(zamir)",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "جَآءَتْهَا",
+   "okunus": "câethâ",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "ona geldi"
+  },
+  {
+   "kelime": "رِيحٌ",
+   "okunus": "rîhun",
+   "kok": "روح",
+   "kokAnlam": "rüzgar",
+   "karsilik": "bir rüzgar"
+  },
+  {
+   "kelime": "عَاصِفٌ",
+   "okunus": "âsıfün",
+   "kok": "عصف",
+   "kokAnlam": "şiddetli esme",
+   "karsilik": "şiddetli"
+  },
+  {
+   "kelime": "وَجَآءَهُمُ",
+   "okunus": "ve câehümü",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "ve onlara geldi"
+  },
+  {
+   "kelime": "ٱلْمَوْجُ",
+   "okunus": "elmevcü",
+   "kok": "موج",
+   "kokAnlam": "dalga",
+   "karsilik": "dalga"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "كُلِّ",
+   "okunus": "külli",
+   "kok": "كلل",
+   "kokAnlam": "bütünlük, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "مَكَانٍ",
+   "okunus": "mekânin",
+   "kok": "كون",
+   "kokAnlam": "yer, mekan",
+   "karsilik": "yerden"
+  },
+  {
+   "kelime": "وَظَنُّوٓا۟",
+   "okunus": "ve zannû",
+   "kok": "ظنن",
+   "kokAnlam": "sanma, zan",
+   "karsilik": "ve sandılar"
+  },
+  {
+   "kelime": "أَنَّهُمْ",
+   "okunus": "ennehüm",
+   "kok": "—",
+   "kokAnlam": "(te'kid)",
+   "karsilik": "kendilerinin"
+  },
+  {
+   "kelime": "أُحِيطَ",
+   "okunus": "ühîta",
+   "kok": "حوط",
+   "kokAnlam": "kuşatma",
+   "karsilik": "kuşatıldığını"
+  },
+  {
+   "kelime": "بِهِمْ",
+   "okunus": "bihim",
+   "kok": "—",
+   "kokAnlam": "(zamir)",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "دَعَوُا۟",
+   "okunus": "deavü",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, dua etme",
+   "karsilik": "yalvardılar"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilah, Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "مُخْلِصِينَ",
+   "okunus": "mühlisîne",
+   "kok": "خلص",
+   "kokAnlam": "halis kılma, arındırma",
+   "karsilik": "halis kılarak"
+  },
+  {
+   "kelime": "لَهُ",
+   "okunus": "lehü",
+   "kok": "—",
+   "kokAnlam": "(zamir)",
+   "karsilik": "O'na"
+  },
+  {
+   "kelime": "ٱلدِّينَ",
+   "okunus": "eddîne",
+   "kok": "دين",
+   "kokAnlam": "din, kulluk",
+   "karsilik": "dini"
+  },
+  {
+   "kelime": "لَئِنْ",
+   "okunus": "lein",
+   "kok": "—",
+   "kokAnlam": "(şart) andolsun eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَنجَيْتَنَا",
+   "okunus": "enceytenâ",
+   "kok": "نجو",
+   "kokAnlam": "kurtarma",
+   "karsilik": "bizi kurtarırsan"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "هَٰذِهِۦ",
+   "okunus": "hâzihî",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri)",
+   "karsilik": "bundan"
+  },
+  {
+   "kelime": "لَنَكُونَنَّ",
+   "okunus": "lenekûnenne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "elbette olacağız"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلشَّٰكِرِينَ",
+   "okunus": "eşşâkirîne",
+   "kok": "شكر",
+   "kokAnlam": "şükretme",
+   "karsilik": "şükredenlerden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Allah'ın insanları karada ve denizde yürüten kudretini hatırlattıktan sonra, uzun ve canlı bir sahne çizer: gemide yol alanlar önce hoş bir rüzgarla sevinir, sonra şiddetli bir fırtına ve dalgalarla kuşatıldıklarını sanırlar. Bu anda, başka hiçbir aracıya değil, yalnız Allah'a samimiyetle yalvarırlar.",
+  "Sahne, insan fıtratındaki bir gerçeği gösterir: gerçek bir tehlike anında, insanın en derin yalvarışı doğrudan Allah'a yönelir. Bir sonraki ayet bu yalvarışın ardından ne olduğunu anlatacaktır; bu ayet henüz kurtuluş sonrası verilen şükür sözünü kaydeder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:65",
+   "meal": "Gemiye bindiklerinde dini yalnız Allah'a has kılarak O'na yalvarırlar; ama onları karaya çıkarıp kurtarınca hemen ortak koşarlar.",
+   "baglanti": "10:22'deki aynı sahneyi -gemide samimi yalvarış- anlatır; bu ayet, 10:23'ün konusu olan kurtuluş sonrası şirke dönüşü ekleyerek hikâyeyi tamamlar."
+  },
+  {
+   "ref": "17:67",
+   "meal": "Denizde size bir sıkıntı dokunduğunda, O'ndan başka yalvardıklarınız kaybolup gider; ama sizi kurtarıp karaya çıkarınca yüz çevirirsiniz. İnsan çok nankördür.",
+   "baglanti": "10:22'deki deniz sıkıntısı sahnesiyle aynı temayı taşır; sıkıntı anında sahte aracıların terk edilip yalnız Allah'a yönelmenin insan fıtratındaki bir gerçek olduğunu doğrular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, denizde büyük bir tehlikeyle karşılaşan insanların yaşadığı korku ve bu anda Allah'a yönelmesidir; somut bir sahne olsa da mesajı evrenseldir.",
+  "Buradan çıkan güçlü ders, insanın çaresiz kaldığı anda fıtratının doğrudan Allah'a yöneldiğidir; bugün kendi hayatındaki 'fırtına anlarını' hatırla ve o anki içten duayı rahatken de sürdürmeye çalış."
+ ],
+ "bugun": [
+  {
+   "baslik": "Fırtına anını hatırla",
+   "aciklama": "Geçmişte çaresiz kaldığın ve sadece Allah'a sığındığın bir anı bugün hatırla."
+  },
+  {
+   "baslik": "Duayı sadece zorda bırakma",
+   "aciklama": "Bugün, sıkıntı yokken de samimi bir dua et, sadece kriz anlarına saklama."
+  },
+  {
+   "baslik": "Sahte güvenceleri fark et",
+   "aciklama": "Bugün gerçek bir sıkıntı anında kime yöneldiğini gözlemle; bu senin gerçek güvendiğin şeyi gösterir."
+  }
+ ],
+ "bugununAdimi": "Bugün rahatken de, sıkıntıdaki gibi samimi bir dua ile Allah'a yönel.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=22"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/22"
+  }
+ ]
+}

@@ -1,0 +1,355 @@
+{
+ "sure": 10,
+ "ayet": 24,
+ "durum": "taslak",
+ "meal": "Dünya hayatının örneği, gökten indirdiğimiz, kendisiyle insanların ve hayvanların yediği yeryüzü bitkisinin birbirine karıştığı bir su gibidir. Nihayet yeryüzü süsünü alıp bezendiğinde ve halkı ona güç yetirebileceklerini sandığında, ona gece veya gündüz emrimiz gelir de sanki dün hiç var olmamış gibi onu biçilmiş hale getiririz. İşte düşünen bir topluluk için ayetleri böyle ayrıntılı açıklıyoruz.",
+ "mealNotu": "'Zührufehâ' (زخرف) kökü süs, gösterişli güzellik anlamındadır; 'hasîden' (حصد) kökü biçilmiş, kesilmiş ekini anlatır. 'Emsi' (dün) kelimesi bu değişimin aniliğini vurgular.",
+ "kokler": [
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "مَثَلُ",
+   "okunus": "meselü",
+   "kok": "مثل",
+   "kokAnlam": "örnek, benzetme",
+   "karsilik": "örneği"
+  },
+  {
+   "kelime": "ٱلْحَيَوٰةِ",
+   "okunus": "elhayâti",
+   "kok": "حيي",
+   "kokAnlam": "hayat",
+   "karsilik": "hayatının"
+  },
+  {
+   "kelime": "ٱلدُّنْيَا",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık, dünya",
+   "karsilik": "dünya"
+  },
+  {
+   "kelime": "كَمَآءٍ",
+   "okunus": "kemâin",
+   "kok": "موه",
+   "kokAnlam": "su",
+   "karsilik": "bir su gibidir"
+  },
+  {
+   "kelime": "أَنزَلْنَٰهُ",
+   "okunus": "enzelnâhü",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdiğimiz"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "gök",
+   "karsilik": "gökten"
+  },
+  {
+   "kelime": "فَٱخْتَلَطَ",
+   "okunus": "fehteleta",
+   "kok": "خلط",
+   "kokAnlam": "karışma",
+   "karsilik": "karıştı"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir)",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "نَبَاتُ",
+   "okunus": "nebâtü",
+   "kok": "نبت",
+   "kokAnlam": "bitki",
+   "karsilik": "bitkisi"
+  },
+  {
+   "kelime": "ٱلْأَرْضُ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, yeryüzü",
+   "karsilik": "yeryüzü"
+  },
+  {
+   "kelime": "مِمَّا",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) -den ki",
+   "karsilik": "-den ki"
+  },
+  {
+   "kelime": "يَأْكُلُ",
+   "okunus": "ye'külü",
+   "kok": "أكل",
+   "kokAnlam": "yeme",
+   "karsilik": "yer"
+  },
+  {
+   "kelime": "ٱلنَّاسُ",
+   "okunus": "ennâsü",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanların"
+  },
+  {
+   "kelime": "وَٱلْأَنْعَٰمُ",
+   "okunus": "vel en'âmü",
+   "kok": "نعم",
+   "kokAnlam": "evcil hayvan",
+   "karsilik": "ve hayvanların"
+  },
+  {
+   "kelime": "حَتَّىٰٓ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(başlangıç) nihayet",
+   "karsilik": "nihayet"
+  },
+  {
+   "kelime": "إِذَآ",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman)",
+   "karsilik": "-diğinde"
+  },
+  {
+   "kelime": "أَخَذَتِ",
+   "okunus": "ehazeti",
+   "kok": "أخذ",
+   "kokAnlam": "alma",
+   "karsilik": "aldığında"
+  },
+  {
+   "kelime": "ٱلْأَرْضُ",
+   "okunus": "el'erdu",
+   "kok": "أرض",
+   "kokAnlam": "yer",
+   "karsilik": "yeryüzü"
+  },
+  {
+   "kelime": "زُخْرُفَهَا",
+   "okunus": "zührufehâ",
+   "kok": "زخرف",
+   "kokAnlam": "süs, ziynet",
+   "karsilik": "süsünü"
+  },
+  {
+   "kelime": "وَٱزَّيَّنَتْ",
+   "okunus": "vezzeyyenet",
+   "kok": "زين",
+   "kokAnlam": "süslenme",
+   "karsilik": "ve bezendiğinde"
+  },
+  {
+   "kelime": "وَظَنَّ",
+   "okunus": "ve zanne",
+   "kok": "ظنن",
+   "kokAnlam": "sanma, zan",
+   "karsilik": "ve sandığında"
+  },
+  {
+   "kelime": "أَهْلُهَآ",
+   "okunus": "ehlühâ",
+   "kok": "أهل",
+   "kokAnlam": "halk, ehil",
+   "karsilik": "halkı"
+  },
+  {
+   "kelime": "أَنَّهُمْ",
+   "okunus": "ennehüm",
+   "kok": "—",
+   "kokAnlam": "(te'kid)",
+   "karsilik": "kendilerinin"
+  },
+  {
+   "kelime": "قَٰدِرُونَ",
+   "okunus": "kâdirûne",
+   "kok": "قدر",
+   "kokAnlam": "güç yetirme, kudret",
+   "karsilik": "güç yetirebileceklerini"
+  },
+  {
+   "kelime": "عَلَيْهَآ",
+   "okunus": "aleyhâ",
+   "kok": "—",
+   "kokAnlam": "(edat)",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "أَتَىٰهَآ",
+   "okunus": "etâhâ",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "ona geldi"
+  },
+  {
+   "kelime": "أَمْرُنَا",
+   "okunus": "emrunâ",
+   "kok": "أمر",
+   "kokAnlam": "emir, iş",
+   "karsilik": "emrimiz"
+  },
+  {
+   "kelime": "لَيْلًا",
+   "okunus": "leylen",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "gece"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç)",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "نَهَارًا",
+   "okunus": "nehâran",
+   "kok": "نهر",
+   "kokAnlam": "gündüz",
+   "karsilik": "gündüz"
+  },
+  {
+   "kelime": "فَجَعَلْنَٰهَا",
+   "okunus": "fecealnâhâ",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "onu kıldık"
+  },
+  {
+   "kelime": "حَصِيدًا",
+   "okunus": "hasîden",
+   "kok": "حصد",
+   "kokAnlam": "biçme, hasat",
+   "karsilik": "biçilmiş"
+  },
+  {
+   "kelime": "كَأَن",
+   "okunus": "keen",
+   "kok": "—",
+   "kokAnlam": "(te'kid benzetme) sanki",
+   "karsilik": "sanki"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "تَغْنَ",
+   "okunus": "tağne",
+   "kok": "غني",
+   "kokAnlam": "var olma, yaşama",
+   "karsilik": "var olmadı"
+  },
+  {
+   "kelime": "بِٱلْأَمْسِ",
+   "okunus": "bil emsi",
+   "kok": "—",
+   "kokAnlam": "(isim) dün",
+   "karsilik": "dün"
+  },
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "نُفَصِّلُ",
+   "okunus": "nüfessılü",
+   "kok": "فصل",
+   "kokAnlam": "ayırma, ayrıntılı açıklama",
+   "karsilik": "ayrıntılı açıklıyoruz"
+  },
+  {
+   "kelime": "ٱلْءَايَٰتِ",
+   "okunus": "el'âyâti",
+   "kok": "أيي",
+   "kokAnlam": "ayet, işaret",
+   "karsilik": "ayetleri"
+  },
+  {
+   "kelime": "لِقَوْمٍ",
+   "okunus": "likavmin",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "bir topluluk için"
+  },
+  {
+   "kelime": "يَتَفَكَّرُونَ",
+   "okunus": "yetefekkerûne",
+   "kok": "فكر",
+   "kokAnlam": "düşünme, tefekkür",
+   "karsilik": "düşünen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette dünya hayatının 'geçici bir menfaat' olduğu söylenmişti; bu ayet bunu güçlü bir benzetmeyle görselleştirir: gökten inen yağmur toprağı canlandırır, bitkiler yeşerir, insanlar ve hayvanlar bundan beslenir, toprak sahipleri bu bereketin süreceğini sanır. Tam bu güven anında, gece ya da gündüz ansızın gelen bir emirle her şey sanki hiç var olmamış gibi biçilip yok olur.",
+  "Klasik tefsir bu benzetmeyi, insanın dünya nimetlerine güvenip onların kalıcı olduğunu sanmasına karşı bir uyarı olarak açıklar; asıl mesaj, güzelliklerin geçici, ama bu geçiciliği fark edip 'düşünen' bir topluluk için ayetlerin apaçık olduğudur. Ayet, 'yetefekkerûn' (düşünenler) vurgusuyla bu tabloyu akıl ve gönülle değerlendirmeye çağırır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "18:45",
+   "meal": "Onlara dünya hayatının örneğini ver: gökten indirdiğimiz bir su gibidir ki, onunla yeryüzü bitkisi birbirine karışır; sonra rüzgarların savurduğu bir çerçöp haline gelir. Allah her şeye güç yetirendir.",
+   "baglanti": "10:24 ile neredeyse aynı 'meselel hayâtid dünyâ kemâin' cümlesiyle başlar; aynı yağmur-bitki benzetmesini farklı bir sonla (rüzgarın savurması) tamamlar."
+  },
+  {
+   "ref": "57:20",
+   "meal": "Bilin ki dünya hayatı ancak bir oyun, eğlence, süs, aranızda övünme, mal ve evlat çoğaltma yarışıdır; (nihayet) yağmurun bitirdiği ve çiftçileri hayrete düşüren bir bitki gibidir, sonra kurur, sararmış görürsün, sonra çer çöp olur...",
+   "baglanti": "10:24'teki yağmur-bitki-yok oluş sahnesini aynı imgelerle tekrarlar; dünya hayatının geçiciliğine ahiretteki azap ve mağfiret karşılığını ekleyerek konuyu tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dünya hayatının geçiciliğini yağmur ve bitki benzetmesiyle anlatan genel bir ilkedir; herhangi bir tarihi olaya değil, evrensel bir gerçeğe işaret eder.",
+  "Buradan çıkan güçlü ders, elindeki güzelliklerin -sağlık, mal, güç, güzellik- bir bahar gibi geçici olduğudur; bugün sahip olduğun bir şeyin kalıcı olmadığını hatırlayıp ona duyduğun bağlılığı ölçülü tutabilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geçiciliği hatırla",
+   "aciklama": "Bugün gurur duyduğun bir nimeti düşün ve onun bir bahar gibi geçici olduğunu hatırla."
+  },
+  {
+   "baslik": "Bereketi paylaş",
+   "aciklama": "Elindeki bir imkânı, kalıcı olmadığını bilerek bugün başkalarıyla paylaş."
+  },
+  {
+   "baslik": "Kalıcı olanı ara",
+   "aciklama": "Bugün yaptığın işlerden hangisinin geçici, hangisinin kalıcı bir değer taşıdığını ayırt et."
+  }
+ ],
+ "bugununAdimi": "Bugün elindeki bir nimetin geçici olduğunu hatırlayarak ona şükürle, ölçülü bağlan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=24"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/24"
+  }
+ ]
+}

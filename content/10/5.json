@@ -1,0 +1,215 @@
+{
+ "sure": 10,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Güneşi bir ışık, ayı da bir nur kılan ve yılların sayısını ve hesabı bilesiniz diye ona konak yerleri takdir eden O'dur. Allah bunu ancak hak ile yaratmıştır. O, ayetleri bilen bir topluluk için ayrıntılı olarak açıklar.",
+ "mealNotu": "'Dıyâ' (ضوأ) ve 'nûr' (نور) kökleri ikisi de aydınlık anlamı taşır; ayet güneş için daha güçlü bir aydınlık olan 'dıyâ', ay için yansıyan ışığı ifade eden 'nûr' kelimesini kullanır, bu ayrım korunmuştur.",
+ "kokler": [
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) O",
+   "karsilik": "O'dur"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki O",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "جَعَلَ",
+   "okunus": "ceale",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "kılan"
+  },
+  {
+   "kelime": "ٱلشَّمْسَ",
+   "okunus": "eşşemse",
+   "kok": "شمس",
+   "kokAnlam": "güneş",
+   "karsilik": "güneşi"
+  },
+  {
+   "kelime": "ضِيَآءً",
+   "okunus": "dıyâen",
+   "kok": "ضوأ",
+   "kokAnlam": "ışık, aydınlık",
+   "karsilik": "bir ışık"
+  },
+  {
+   "kelime": "وَٱلْقَمَرَ",
+   "okunus": "vel kamera",
+   "kok": "قمر",
+   "kokAnlam": "ay",
+   "karsilik": "ve ayı"
+  },
+  {
+   "kelime": "نُورًا",
+   "okunus": "nûran",
+   "kok": "نور",
+   "kokAnlam": "nur, aydınlık",
+   "karsilik": "bir nur"
+  },
+  {
+   "kelime": "وَقَدَّرَهُۥ",
+   "okunus": "ve kadderahû",
+   "kok": "قدر",
+   "kokAnlam": "takdir etme, ölçme",
+   "karsilik": "ve onu takdir eden"
+  },
+  {
+   "kelime": "مَنَازِلَ",
+   "okunus": "menâzile",
+   "kok": "نزل",
+   "kokAnlam": "konak, iniş yeri",
+   "karsilik": "konak yerleri olarak"
+  },
+  {
+   "kelime": "لِتَعْلَمُوا۟",
+   "okunus": "lita'lemû",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilesiniz diye"
+  },
+  {
+   "kelime": "عَدَدَ",
+   "okunus": "adede",
+   "kok": "عدد",
+   "kokAnlam": "sayı",
+   "karsilik": "sayısını"
+  },
+  {
+   "kelime": "ٱلسِّنِينَ",
+   "okunus": "essinîne",
+   "kok": "سنو",
+   "kokAnlam": "yıl",
+   "karsilik": "yılların"
+  },
+  {
+   "kelime": "وَٱلْحِسَابَ",
+   "okunus": "vel hisâbe",
+   "kok": "حسب",
+   "kokAnlam": "hesap",
+   "karsilik": "ve hesabı"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yaratmamıştır",
+   "karsilik": "yaratmamıştır"
+  },
+  {
+   "kelime": "خَلَقَ",
+   "okunus": "haleka",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yaratmıştır"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunu",
+   "karsilik": "bunu"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçek",
+   "karsilik": "hak ile"
+  },
+  {
+   "kelime": "يُفَصِّلُ",
+   "okunus": "yüfessılü",
+   "kok": "فصل",
+   "kokAnlam": "ayırma, ayrıntılı açıklama",
+   "karsilik": "ayrıntılı açıklar"
+  },
+  {
+   "kelime": "ٱلْءَايَٰتِ",
+   "okunus": "el'âyâti",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "ayetleri"
+  },
+  {
+   "kelime": "لِقَوْمٍ",
+   "okunus": "likavmin",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "bir topluluk için"
+  },
+  {
+   "kelime": "يَعْلَمُونَ",
+   "okunus": "ya'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet Allah'ın yaratma ve yeniden diriltme gücünden söz ettikten sonra bu ayet, gözle görülebilen bir delile, güneş ve ayın düzenine yönelir. Güneş 'dıyâ' (kaynağından yayılan güçlü ışık), ay ise 'nûr' (yansıyan aydınlık) olarak nitelenir; bu ince ayrım, ikisinin farklı doğasına işaret eder.",
+  "Ayetin vurguladığı asıl amaç, bu düzenin insanların 'yılların sayısını ve hesabı' bilmesi için takdir edilmiş olmasıdır; yani gökyüzündeki bu düzen, hem ilahi kudretin hem de insan için pratik bir zaman ölçütünün göstergesidir. Sonda 'Allah bunu ancak hak ile yaratmıştır' ifadesi, evrenin amaçsız değil, hikmetli bir sebeple var edildiğini belirtir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "55:5",
+   "meal": "Güneş ve ay bir hesaba göre hareket eder.",
+   "baglanti": "Rahmân sûresindeki bu kısa ayet, 10:5'teki 'yılların sayısını ve hesabı bilesiniz' ifadesindeki aynı حسب köküyle güneş ve ayın hesaplı, düzenli bir seyri olduğunu doğrular."
+  },
+  {
+   "ref": "17:12",
+   "meal": "Gece ile gündüzü iki ayet kıldık; ... Rabbinizden bir lütuf aramanız, yılların sayısını ve hesabı bilmeniz için ... Biz her şeyi ayrıntılı olarak açıkladık.",
+   "baglanti": "İsrâ sûresindeki bu ayet, 10:5 ile birebir aynı 'adede-s-sinîne vel-hisâb' (yılların sayısı ve hesabı) ifadesini kullanarak gece-gündüz ve gök cisimlerinin insan için bir zaman ölçüsü olduğunu tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, güneş ve ayın hareketinin insanlara zaman ölçme imkânı veren hikmetli bir düzen olarak yaratılmasıdır; bu, astronomik bir gerçeğe işaret eden bir yaratılış delilidir.",
+  "Buradan çıkan genel ders, günlük hayatındaki düzenli, hesaplı şeylerin (takvim, saat, mevsimler) aslında büyük bir hikmetin küçük bir yansıması olduğunu fark etmektir; bugün bir tarihe ya da saate bakarken bu düzenin tesadüf olmadığını hatırlayabilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zamanı düşün",
+   "aciklama": "Bugün takvime ya da saate baktığında bu düzenin bir hikmet üzerine kurulu olduğunu hatırla."
+  },
+  {
+   "baslik": "Vaktini hesapla",
+   "aciklama": "Günün büyük bölümünü nasıl geçirdiğini kısa bir hesap yaparak gözden geçir."
+  },
+  {
+   "baslik": "Gökyüzüne bak",
+   "aciklama": "Akşam ayı ya da yıldızları görünce bir an bu düzenin yaratıcısını an."
+  }
+ ],
+ "bugununAdimi": "Bugün vaktini nasıl geçirdiğini akşam kısa bir hesapla gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/5"
+  }
+ ]
+}

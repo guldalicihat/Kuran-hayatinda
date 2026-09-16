@@ -1,0 +1,250 @@
+{
+ "sure": 10,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Hepinizin dönüşü O'nadır; bu, Allah'ın hak olan vaadidir. Şüphesiz O, yaratmayı başlatır, sonra iman edip salih ameller işleyenleri adaletle karşılığını vermek için onu tekrar yapar (iade eder). İnkâr edenlere gelince, inkâr etmekte olmaları sebebiyle onlar için kaynar sudan bir içecek ve elem verici bir azap vardır.",
+ "mealNotu": "'Yebdeü' (بدأ) ve 'yüîdü' (عود) kökleri sırasıyla 'başlatma' ve 'geri döndürme/iade' anlamındadır; birlikte ilk yaratılış ile yeniden dirilişi anlatır. 'Kıst' (قسط) kökü adaleti ifade eder.",
+ "kokler": [
+  {
+   "kelime": "إِلَيْهِ",
+   "okunus": "ileyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) O'na",
+   "karsilik": "O'nadır"
+  },
+  {
+   "kelime": "مَرْجِعُكُمْ",
+   "okunus": "merciuküm",
+   "kok": "رجع",
+   "kokAnlam": "dönüş, geri dönme",
+   "karsilik": "hepinizin dönüşü"
+  },
+  {
+   "kelime": "جَمِيعًا",
+   "okunus": "cemîan",
+   "kok": "جمع",
+   "kokAnlam": "toplanma, hepsi",
+   "karsilik": "hepinizin"
+  },
+  {
+   "kelime": "وَعْدَ",
+   "okunus": "va'de",
+   "kok": "وعد",
+   "kokAnlam": "vaat",
+   "karsilik": "vaadidir"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "حَقًّا",
+   "okunus": "hakkan",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçek",
+   "karsilik": "hak olan"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz O",
+   "karsilik": "şüphesiz O"
+  },
+  {
+   "kelime": "يَبْدَؤُا۟",
+   "okunus": "yebdeü",
+   "kok": "بدأ",
+   "kokAnlam": "başlatma",
+   "karsilik": "başlatır"
+  },
+  {
+   "kelime": "ٱلْخَلْقَ",
+   "okunus": "elhalka",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yaratmayı"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "يُعِيدُهُۥ",
+   "okunus": "yüîdühû",
+   "kok": "عود",
+   "kokAnlam": "geri döndürme, iade",
+   "karsilik": "onu iade eder"
+  },
+  {
+   "kelime": "لِيَجْزِىَ",
+   "okunus": "liyecziye",
+   "kok": "جزي",
+   "kokAnlam": "karşılık verme",
+   "karsilik": "karşılığını vermek için"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseleri",
+   "karsilik": "iman edenleri"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "iman etme, güvenme",
+   "karsilik": "iman edenleri"
+  },
+  {
+   "kelime": "وَعَمِلُوا۟",
+   "okunus": "ve amilû",
+   "kok": "عمل",
+   "kokAnlam": "yapma, amel etme",
+   "karsilik": "ve amel edenleri"
+  },
+  {
+   "kelime": "ٱلصَّٰلِحَٰتِ",
+   "okunus": "essâlihâti",
+   "kok": "صلح",
+   "kokAnlam": "salih olma, iyi olma",
+   "karsilik": "salih ameller"
+  },
+  {
+   "kelime": "بِٱلْقِسْطِ",
+   "okunus": "bil kıstı",
+   "kok": "قسط",
+   "kokAnlam": "adalet",
+   "karsilik": "adaletle"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseleri",
+   "karsilik": "inkâr edenlere gelince"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr etme",
+   "karsilik": "inkâr edenler"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar için",
+   "karsilik": "onlar için vardır"
+  },
+  {
+   "kelime": "شَرَابٌ",
+   "okunus": "şerâbün",
+   "kok": "شرب",
+   "kokAnlam": "içme, içecek",
+   "karsilik": "bir içecek"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "den"
+  },
+  {
+   "kelime": "حَمِيمٍ",
+   "okunus": "hamîmin",
+   "kok": "حمم",
+   "kokAnlam": "kaynar su",
+   "karsilik": "kaynar su"
+  },
+  {
+   "kelime": "وَعَذَابٌ",
+   "okunus": "ve azâbün",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "ve bir azap"
+  },
+  {
+   "kelime": "أَلِيمٌۢ",
+   "okunus": "elîmüm",
+   "kok": "ألم",
+   "kokAnlam": "acı, elem",
+   "karsilik": "elem verici"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) sebebiyle",
+   "karsilik": "sebebiyle"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldukları"
+  },
+  {
+   "kelime": "يَكْفُرُونَ",
+   "okunus": "yekfürûne",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr etme",
+   "karsilik": "inkâr etmekte"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette Allah'ın gökleri ve yeri yaratıp Arş'a istiva eden ve işleri yöneten olduğu anlatıldıktan sonra bu ayet, o gücün nihai sonucuna, yani herkesin dönüşünün O'na olduğuna geçer. 'Yebdeü'l-halka sümme yüîdühû' (yaratmayı başlatır, sonra onu iade eder) ifadesi, ilk yaratılışın aynı zamanda yeniden dirilişin de bir delili olarak sunulduğunu gösterir.",
+  "Ayet, dönüşün iki farklı sonucunu net biçimde ayırır: iman edip salih amel işleyenler adaletle karşılıklarını alır, inkâr edenler ise kaynar sudan bir içecek ve elem verici bir azapla karşılaşır. Bu ayrım, sûrenin ahiret temasını Mekke döneminin sade ve doğrudan üslubuyla ortaya koyar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "30:27",
+   "meal": "Yaratmayı başlatan, sonra onu tekrar eden O'dur; bu O'na göre pek kolaydır. Göklerde ve yerde en yüce sıfat O'nundur. O, mutlak güç sahibidir, hüküm ve hikmet sahibidir.",
+   "baglanti": "Rûm sûresindeki bu ayet, 10:4'teki aynı بدأ ve عود köklerini kullanarak ilk yaratılışın yeniden dirilişten daha zor olmadığını, aksine O'na göre kolay olduğunu vurgular."
+  },
+  {
+   "ref": "21:104",
+   "meal": "Yazılı kağıtların dürülmesi gibi göğü düreceğimiz gün, ilk yaratmaya başladığımız gibi onu yeniden başlatırız. Bu, üzerimizde bir vaattir; şüphesiz biz bunu yaparız.",
+   "baglanti": "Enbiyâ sûresindeki bu ayet, 10:4'teki 'Allah'ın hak olan vaadi' ifadesini, yeniden yaratmanın kesin bir vaat olduğunu söyleyerek pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, kıyamet sonrası herkesin Allah'a döneceği ve amellerine göre karşılık göreceğidir; bu, ahiret inancının temel bir ilkesidir.",
+  "Buradan çıkan genel ders, yaptığın her işin bir karşılığı olacağı bilinciyle yaşamaktır; bugün küçük bir iyiliği ya da bir haksızlığı yaparken bunun karşılıksız kalmayacağını hatırlayabilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Karşılığı hatırla",
+   "aciklama": "Bugün yaptığın bir işin sonucunun bir gün önüne geleceğini unutma."
+  },
+  {
+   "baslik": "Salih bir amel ekle",
+   "aciklama": "Gün içinde küçük de olsa iyi bir amel işlemeye özen göster."
+  },
+  {
+   "baslik": "Adaleti gözet",
+   "aciklama": "Bir konuda karar verirken kendi çıkarını değil adaleti öne al."
+  }
+ ],
+ "bugununAdimi": "Bugün yapacağın bir işte adaletten şaşmamaya özellikle dikkat et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=10&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/10/4"
+  }
+ ]
+}
