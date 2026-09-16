@@ -1,0 +1,404 @@
+{
+ "sure": 5,
+ "ayet": 95,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! İhramdayken avı öldürmeyin. Sizden kim onu kasten öldürürse, cezası, içinizden iki adil kişinin hükmedeceği, öldürdüğüne denk bir hayvanı Kâbe'ye ulaşacak bir kurban olarak vermektir; ya da yoksulları doyurmak şeklinde bir kefarettir, ya da buna denk oruç tutmaktır; böylece yaptığının vebalini tatsın. Allah geçmişte olanı affetmiştir. Kim bunu tekrar ederse, Allah ondan intikam alır. Allah güçlüdür, intikam sahibidir.",
+ "mealNotu": "'Muteammiden' kastı bilerek yapılmayı vurgular. Kefaret üç seçenekle (denk hayvan kurban etme, doyurma, oruç) ayetin kendi sırasıyla verilmiştir; hangisinin seçileceğine dair ek yorum eklenmemiştir.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı)",
+   "karsilik": "-meyin"
+  },
+  {
+   "kelime": "تَقْتُلُوا۟",
+   "okunus": "tektülû",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürmeyin"
+  },
+  {
+   "kelime": "ٱلصَّيْدَ",
+   "okunus": "essayde",
+   "kok": "صيد",
+   "kokAnlam": "avlama, av",
+   "karsilik": "avı"
+  },
+  {
+   "kelime": "وَأَنتُمْ",
+   "okunus": "ve entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz iken"
+  },
+  {
+   "kelime": "حُرُمٌ",
+   "okunus": "hurumün",
+   "kok": "حرم",
+   "kokAnlam": "yasak; ihramlı olma",
+   "karsilik": "ihramlı"
+  },
+  {
+   "kelime": "وَمَنْ",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "قَتَلَهُۥ",
+   "okunus": "katelehû",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "onu öldürürse"
+  },
+  {
+   "kelime": "مِّنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "مُّتَعَمِّدًا",
+   "okunus": "müteammiden",
+   "kok": "عمد",
+   "kokAnlam": "kastetme, bilerek yapma",
+   "karsilik": "kasten"
+  },
+  {
+   "kelime": "فَجَزَآءٌ",
+   "okunus": "fecezâün",
+   "kok": "جزي",
+   "kokAnlam": "karşılık verme, ceza",
+   "karsilik": "cezası"
+  },
+  {
+   "kelime": "مِّثْلُ",
+   "okunus": "mislü",
+   "kok": "مثل",
+   "kokAnlam": "benzeme, denk olma",
+   "karsilik": "denk"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "-diğine"
+  },
+  {
+   "kelime": "قَتَلَ",
+   "okunus": "katele",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürdüğüne"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلنَّعَمِ",
+   "okunus": "enneami",
+   "kok": "نعم",
+   "kokAnlam": "evcil hayvan",
+   "karsilik": "hayvanı"
+  },
+  {
+   "kelime": "يَحْكُمُ",
+   "okunus": "yahkümü",
+   "kok": "حكم",
+   "kokAnlam": "hükmetme, karar verme",
+   "karsilik": "hükmedeceği"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "ذَوَا",
+   "okunus": "zevâ",
+   "kok": "—",
+   "kokAnlam": "sahip olan (ikili)",
+   "karsilik": "iki kişinin"
+  },
+  {
+   "kelime": "عَدْلُ",
+   "okunus": "adlin",
+   "kok": "عدل",
+   "kokAnlam": "adalet, denklik",
+   "karsilik": "adil"
+  },
+  {
+   "kelime": "مِّنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizden",
+   "karsilik": "içinizden"
+  },
+  {
+   "kelime": "هَدْيًۢا",
+   "okunus": "hedyem",
+   "kok": "هدي",
+   "kokAnlam": "hediye; kurban olarak sunulan",
+   "karsilik": "kurban olarak"
+  },
+  {
+   "kelime": "بَٰلِغَ",
+   "okunus": "bâliğa",
+   "kok": "بلغ",
+   "kokAnlam": "ulaşma, erişme",
+   "karsilik": "ulaşacak"
+  },
+  {
+   "kelime": "ٱلْكَعْبَةِ",
+   "okunus": "elka'beti",
+   "kok": "كعب",
+   "kokAnlam": "Kâbe",
+   "karsilik": "Kâbe'ye"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "كَفَّٰرَةٌ",
+   "okunus": "keffâratün",
+   "kok": "كفر",
+   "kokAnlam": "örtme; kefaret",
+   "karsilik": "bir kefarettir"
+  },
+  {
+   "kelime": "طَعَامُ",
+   "okunus": "taâmü",
+   "kok": "طعم",
+   "kokAnlam": "yedirme, doyurma",
+   "karsilik": "doyurmak şeklinde"
+  },
+  {
+   "kelime": "مَسَٰكِينَ",
+   "okunus": "mesâkîne",
+   "kok": "سكن",
+   "kokAnlam": "sakin olma; yoksul",
+   "karsilik": "yoksulları"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "عَدْلُ",
+   "okunus": "adlü",
+   "kok": "عدل",
+   "kokAnlam": "adalet, denklik",
+   "karsilik": "buna denk"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu",
+   "karsilik": "buna"
+  },
+  {
+   "kelime": "صِيَامًا",
+   "okunus": "sıyâmen",
+   "kok": "صوم",
+   "kokAnlam": "tutma, kendini alıkoyma; oruç",
+   "karsilik": "oruç tutmaktır"
+  },
+  {
+   "kelime": "لِّيَذُوقَ",
+   "okunus": "liyezûka",
+   "kok": "ذوق",
+   "kokAnlam": "tatma",
+   "karsilik": "tatsın diye"
+  },
+  {
+   "kelime": "وَبَالَ",
+   "okunus": "vebâle",
+   "kok": "وبل",
+   "kokAnlam": "ağırlık, vebal",
+   "karsilik": "vebalini"
+  },
+  {
+   "kelime": "أَمْرِهِۦ",
+   "okunus": "emrihî",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir",
+   "karsilik": "yaptığının"
+  },
+  {
+   "kelime": "عَفَا",
+   "okunus": "afâ",
+   "kok": "عفو",
+   "kokAnlam": "affetme",
+   "karsilik": "affetmiştir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَمَّا",
+   "okunus": "ammâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "سَلَفَ",
+   "okunus": "selefe",
+   "kok": "سلف",
+   "kokAnlam": "önceden geçme",
+   "karsilik": "geçmişte olanı"
+  },
+  {
+   "kelime": "وَمَنْ",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "عَادَ",
+   "okunus": "âde",
+   "kok": "عود",
+   "kokAnlam": "dönme, tekrarlama",
+   "karsilik": "tekrarlarsa"
+  },
+  {
+   "kelime": "فَيَنتَقِمُ",
+   "okunus": "feyentekımü",
+   "kok": "نقم",
+   "kokAnlam": "intikam alma",
+   "karsilik": "intikam alır"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مِنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَزِيزٌ",
+   "okunus": "azîzün",
+   "kok": "عزز",
+   "kokAnlam": "güçlü, üstün olma",
+   "karsilik": "güçlüdür"
+  },
+  {
+   "kelime": "ذُو",
+   "okunus": "zû",
+   "kok": "—",
+   "kokAnlam": "sahip",
+   "karsilik": "sahibidir"
+  },
+  {
+   "kelime": "ٱنتِقَامٍ",
+   "okunus": "intikâmin",
+   "kok": "نقم",
+   "kokAnlam": "intikam alma",
+   "karsilik": "intikam"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayet ihram sırasındaki avı bir sınav olarak sunmuştu; bu ayet o sınavı ihlal edenin cezasını ayrıntılı biçimde açıklar. Ceza, öldürülen ava denk bir hayvanı iki adil kişinin belirlemesiyle kurban etmek, ya da yoksul doyurmak, ya da denk oruç tutmaktır.",
+  "Klasik fıkıh, bu üç seçeneğin kişinin durumuna göre aralarından tercih edilebileceğini açıklar; 'liyezûka vebâle emrihî' (yaptığının vebalini tatsın diye) ifadesi, cezanın caydırıcılık amacını gösterir. Ayet, 'Allah geçmişte olanı affetmiştir' diyerek hükümden önceki durumu bağışlar, ama tekrarı ağır bir uyarıyla karşılar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:1",
+   "meal": "Ey iman edenler! Akitlerinizi yerine getirin. İhramdayken avlanmayı helal saymamak şartıyla, size okunacaklar dışında kalan hayvanlar helal kılındı. Şüphesiz Allah dilediği hükmü verir.",
+   "baglanti": "İhramdayken avlanmanın haram olduğu ilkesi sure başında da konur; 95. ayet bunu çiğnemenin cezasını ayrıntılandırır."
+  },
+  {
+   "ref": "2:196",
+   "meal": "Hac veya umrede engellenirseniz, kolayınıza gelen bir kurban gerekir. İçinizden hasta olan veya başından bir rahatsızlığı bulunan kimse, oruç ya da sadaka ya da kurban olarak fidye öder.",
+   "baglanti": "Kurban, doyurma veya oruç arasında seçim yapma yapısı, hac ayetlerindeki fidye hükmüyle aynı mantığı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ihramdayken kasten av öldürmenin cezasıdır; bu özel bir hac/umre hukuku alanıdır ve klasik fıkıh ayrıntılarını inceler.",
+  "Bugüne taşınabilecek ders, bir yasağı ihlal ettiğinde kaçmak değil telafi yolunu aramaktır. Ayet, hatanın ardından bir düzeltme (kefaret) yolu sunar; bu, sorumluluğu üstlenmenin bir modelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir kuralı bilinçli olarak koru",
+   "aciklama": "Girdiğin özel bir sorumluluk hâlinde (görev, taahhüt) sınırlarına dikkat et."
+  },
+  {
+   "baslik": "Hatanı telafi et",
+   "aciklama": "Yakın zamanda ihlal ettiğin küçük bir kuralı fark et ve telafi etmenin bir yolunu bul."
+  },
+  {
+   "baslik": "Adil bir çözüm ara",
+   "aciklama": "Bir anlaşmazlıkta tek taraflı değil adil bir çözüm yolunu tercih et."
+  }
+ ],
+ "bugununAdimi": "Bugün ihlal ettiğin küçük bir kuralı telafi etmek için somut bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=95"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/95"
+  }
+ ]
+}

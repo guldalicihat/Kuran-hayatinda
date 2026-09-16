@@ -1,0 +1,243 @@
+{
+ "sure": 5,
+ "ayet": 97,
+ "durum": "taslak",
+ "meal": "Allah, Kâbe'yi, o saygın Beyt'i, insanlar için bir kıyam (düzen ve güven) kaynağı kıldı; saygın ayı, kurbanlık hayvanı ve gerdanlık takılmış kurbanları da. Bu, göklerde ve yerde ne varsa Allah'ın onu bildiğini ve Allah'ın her şeyi hakkıyla bilen olduğunu bilesiniz diyedir.",
+ "mealNotu": "'Kıyâm' kökü (قوم) ayakta durmayı, düzeni, güvenli bir dayanağı anlatır; Kâbe insanlar için hem fiziksel hem toplumsal bir istikrar kaynağı olarak nitelenir. 'Kalâid' gerdanlık takılmış, işaretlenmiş kurbanlık hayvanları ifade eder.",
+ "kokler": [
+  {
+   "kelime": "جَعَلَ",
+   "okunus": "ceale",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "kıldı"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلْكَعْبَةَ",
+   "okunus": "elka'bete",
+   "kok": "كعب",
+   "kokAnlam": "Kâbe",
+   "karsilik": "Kâbe'yi"
+  },
+  {
+   "kelime": "ٱلْبَيْتَ",
+   "okunus": "elbeyte",
+   "kok": "بيت",
+   "kokAnlam": "ev, mesken; kutsal mekân",
+   "karsilik": "o Beyt'i"
+  },
+  {
+   "kelime": "ٱلْحَرَامَ",
+   "okunus": "elharâme",
+   "kok": "حرم",
+   "kokAnlam": "yasak, saygın, dokunulmaz olma",
+   "karsilik": "saygın"
+  },
+  {
+   "kelime": "قِيَٰمًا",
+   "okunus": "kıyâmen",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, düzen, dayanak",
+   "karsilik": "bir kıyam"
+  },
+  {
+   "kelime": "لِّلنَّاسِ",
+   "okunus": "lilnnâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet",
+   "karsilik": "insanlar için"
+  },
+  {
+   "kelime": "وَٱلشَّهْرَ",
+   "okunus": "veş şehra",
+   "kok": "شهر",
+   "kokAnlam": "ay, tanınmış olma",
+   "karsilik": "ve ayı"
+  },
+  {
+   "kelime": "ٱلْحَرَامَ",
+   "okunus": "elharâme",
+   "kok": "حرم",
+   "kokAnlam": "yasak, saygın, dokunulmaz olma",
+   "karsilik": "saygın"
+  },
+  {
+   "kelime": "وَٱلْهَدْىَ",
+   "okunus": "vel hedye",
+   "kok": "هدي",
+   "kokAnlam": "hediye; kurban olarak sunulan",
+   "karsilik": "kurbanlık hayvanı"
+  },
+  {
+   "kelime": "وَٱلْقَلَٰٓئِدَ",
+   "okunus": "vel kalâide",
+   "kok": "قلد",
+   "kokAnlam": "boyna takma, gerdanlık",
+   "karsilik": "ve gerdanlıklı kurbanları"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "لِتَعْلَمُوٓا۟",
+   "okunus": "lita'lemû",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilesiniz diyedir"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "يَعْلَمُ",
+   "okunus": "ya'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bildiğini"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "ne varsa"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "göklerde"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şey",
+   "karsilik": "ve ne varsa"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yerde"
+  },
+  {
+   "kelime": "وَأَنَّ",
+   "okunus": "ve enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ve şüphesiz",
+   "karsilik": "ve şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "بِكُلِّ",
+   "okunus": "bikülli",
+   "kok": "كلل",
+   "kokAnlam": "bütün, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "hakkıyla bilendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, ihram ve kurban hükümlerinin ardından bunların neden konulduğunu açıklar: Kâbe, saygın ay, kurbanlık (hedy) ve gerdanlıklı kurbanlar (kalâid), insanlar için bir 'kıyam', yani düzen ve güven kaynağı kılınmıştır. Bu semboller, insanları belirli zaman ve mekânlarda bir araya getirerek güvenli bir düzen sağlar.",
+  "Ayetin sonu, bu hükümlerin amacını Allah'ın ilmine bağlar: göklerde ve yerde ne varsa bilen Allah, bu düzeni de bilerek koymuştur. Klasik tefsir, 'kıyâmen lin nâs' ifadesini, Kâbe'nin toplum için güvenli bir sığınak ve buluşma noktası olma işlevine bağlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:125",
+   "meal": "Hani biz Beyt'i insanlar için bir toplanma yeri ve güvenli bir yer kıldık. 'İbrahim'in makamından kendinize bir namaz yeri edinin' dedik. İbrahim ve İsmail'e, 'Beytimi tavaf edenler, ibadete kapananlar, rükû ve secde edenler için temiz tutun' diye emrettik.",
+   "baglanti": "Kâbe'nin insanlar için toplanma ve güven yeri kılınması burada da anlatılır; 97. ayetteki 'kıyâm' vurgusu bu güven ve düzenle örtüşür."
+  },
+  {
+   "ref": "22:36",
+   "meal": "Kurbanlık develeri de sizin için Allah'ın nişanelerinden kıldık; onlarda sizin için hayır vardır. Sıra sıra dururken üzerlerine Allah'ın adını anın; yanları yere düşünce onlardan yiyin, istemeyen yoksulu da isteyen yoksulu da doyurun. Onları böylece sizin hizmetinize verdik ki şükredesiniz.",
+   "baglanti": "Kurbanlık hayvanların Allah'ın nişanelerinden sayılması ve insanlara fayda getirmesi, 97. ayetteki hedy ve kalâid vurgusunu tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kâbe, hac zamanları ve kurbanlık sembollerin toplumsal işlevidir; bu, hac ve kurban hukukuna özgü bir bağlamdır.",
+  "Bugüne taşınabilecek ders, ortak sembollerin ve zamanların bir toplumu bir araya getirip düzen sağladığını görmektir. İnsanın hayatında da güven ve istikrar sağlayan sabit noktalara, örneğin düzenli buluşmalara ve ibadet vakitlerine ihtiyacı vardır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir istikrar noktası belirle",
+   "aciklama": "Haftalık düzenli bir buluşma veya ibadet vaktini bugün takvimine sabitle."
+  },
+  {
+   "baslik": "Ortak bir değere saygı göster",
+   "aciklama": "Bir topluluk sembolüne (cami, aile büyüğü, ortak kural) bugün özenle davran."
+  },
+  {
+   "baslik": "Güven ortamı kur",
+   "aciklama": "Yanındaki biriyle bugün güven verici, sakin bir buluşma ayarla."
+  }
+ ],
+ "bugununAdimi": "Bugün sana istikrar veren düzenli bir buluşma ya da ibadet vaktini takvimine ekle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=97"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/97"
+  }
+ ]
+}

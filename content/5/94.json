@@ -1,0 +1,215 @@
+{
+ "sure": 5,
+ "ayet": 94,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Allah, ellerinizin ve mızraklarınızın erişebileceği avdan bir şeyle sizi mutlaka deneyecek ki görmeden kendisinden korkanı bilsin. Kim bundan sonra sınırı aşarsa, onun için elem verici bir azap vardır.",
+ "mealNotu": "'Yeblüvenneküm' kökü (بلو) denemeyi, sınamayı anlatır; ihram sırasında elin ve mızrağın rahatça erişebileceği av bilerek bir imtihan aracı yapılır. 'Bil ğaybi' ifadesi 'görmeden, gizliden' anlamındadır; kişinin kimse görmese de sakınıp sakınmadığını ölçer.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "لَيَبْلُوَنَّكُمُ",
+   "okunus": "leyeblüvennekümü",
+   "kok": "بلو",
+   "kokAnlam": "deneme, sınama",
+   "karsilik": "sizi mutlaka deneyecek"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِشَىْءٍ",
+   "okunus": "bişey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "bir şeyle"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلصَّيْدِ",
+   "okunus": "essaydi",
+   "kok": "صيد",
+   "kokAnlam": "avlama, av",
+   "karsilik": "avdan"
+  },
+  {
+   "kelime": "تَنَالُهُۥٓ",
+   "okunus": "tenâlühû",
+   "kok": "نيل",
+   "kokAnlam": "ulaşma, erişme",
+   "karsilik": "erişebileceği"
+  },
+  {
+   "kelime": "أَيْدِيكُمْ",
+   "okunus": "eydîküm",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "elleriniz"
+  },
+  {
+   "kelime": "وَرِمَاحُكُمْ",
+   "okunus": "ve rimâhuküm",
+   "kok": "رمح",
+   "kokAnlam": "mızrak",
+   "karsilik": "ve mızraklarınız"
+  },
+  {
+   "kelime": "لِيَعْلَمَ",
+   "okunus": "liya'leme",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilsin diye"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "يَخَافُهُۥ",
+   "okunus": "yehâfühû",
+   "kok": "خوف",
+   "kokAnlam": "korkma",
+   "karsilik": "kendisinden korkar"
+  },
+  {
+   "kelime": "بِٱلْغَيْبِ",
+   "okunus": "bil gaybi",
+   "kok": "غيب",
+   "kokAnlam": "gizli, görünmeyen",
+   "karsilik": "görmeden"
+  },
+  {
+   "kelime": "فَمَنِ",
+   "okunus": "femeni",
+   "kok": "—",
+   "kokAnlam": "(şart) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "ٱعْتَدَىٰ",
+   "okunus": "itedâ",
+   "kok": "عدو",
+   "kokAnlam": "sınırı aşma, haddi geçme",
+   "karsilik": "sınırı aşarsa"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonra olma",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu",
+   "karsilik": "bundan"
+  },
+  {
+   "kelime": "فَلَهُۥ",
+   "okunus": "felehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona vardır",
+   "karsilik": "onun için vardır"
+  },
+  {
+   "kelime": "عَذَابٌ",
+   "okunus": "azâbün",
+   "kok": "عذب",
+   "kokAnlam": "azap, ceza",
+   "karsilik": "bir azap"
+  },
+  {
+   "kelime": "أَلِيمٌ",
+   "okunus": "elîmün",
+   "kok": "ألم",
+   "kokAnlam": "acı verme, elem",
+   "karsilik": "elem verici"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, ihram sırasında kolayca avlanabilecek bir av türünü (elin ve mızrağın ulaşabileceği) bilerek bir sınav aracı yapar. Amaç, kimsenin görmediği bir anda bile Allah'tan korkup korkmadığını (bil ğayb) ortaya çıkarmaktır.",
+  "Sonraki ayet bu sınavın somut hükmünü, yani ihramdayken avı öldürmenin cezasını getirir. Klasik tefsir, bu iki ayeti birlikte, ihramın yalnız dışsal bir kıyafet durumu değil iç disiplinin sınandığı bir hâl olarak okur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "67:12",
+   "meal": "Görmedikleri hâlde Rablerinden korkanlar için bağışlanma ve büyük bir ödül vardır.",
+   "baglanti": "'Görmeden (bil ğayb) korkma' ifadesi burada da aynı kökle geçer; gizlide sakınmak, açıkta sakınmaktan daha değerli sayılır."
+  },
+  {
+   "ref": "5:95",
+   "meal": "Ey iman edenler! İhramdayken avı öldürmeyin. Sizden kim onu kasten öldürürse, cezası, içinizden iki adil kişinin hükmedeceği, öldürdüğüne denk bir hayvanı Kâbe'ye ulaşacak bir kurban olarak vermektir; ya da yoksulları doyurmak şeklinde bir kefarettir, ya da buna denk oruç tutmaktır.",
+   "baglanti": "Bir sonraki ayet, bu sınavda sınırı aşanın (avı öldürenin) cezasını ayrıntılı biçimde açıklar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ihram sırasındaki av yasağının bir sınav olarak sunulmasıdır.",
+  "Bugüne taşınabilecek ders, kimsenin görmediği anlarda bile ilkeli davranmaktır. Kolayca yapabileceğin ama doğru olmayan bir şeyden vazgeçmek, gerçek karakterin ölçüsüdür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Görülmediğinde de doğruyu yap",
+   "aciklama": "Bugün kimsenin bilmeyeceği küçük bir durumda dürüst davran."
+  },
+  {
+   "baslik": "Kolay fırsatı sorgula",
+   "aciklama": "Elinin kolayca uzanabileceği ama haksız bir kazancı bugün reddet."
+  },
+  {
+   "baslik": "İç disiplinini güçlendir",
+   "aciklama": "Bir kuralı, sadece başkaları görüyor diye değil, kendi ilken için uygula."
+  }
+ ],
+ "bugununAdimi": "Bugün kimsenin görmediği bir anda, doğru olanı seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=94"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/94"
+  }
+ ]
+}

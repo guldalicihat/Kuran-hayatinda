@@ -1,0 +1,369 @@
+{
+ "sure": 5,
+ "ayet": 89,
+ "durum": "taslak",
+ "meal": "Allah sizi yeminlerinizdeki boş sözden dolayı sorumlu tutmaz; fakat bilerek bağladığınız yeminlerden dolayı sizi sorumlu tutar. Bunun kefareti, ailenize yedirdiğinizin orta hâlinden on yoksulu doyurmak, ya da onları giydirmek, ya da bir köleyi özgür kılmaktır. Bunları bulamayan kimse için üç gün oruç tutmaktır. İşte bu, yemin ettiğinizde yeminlerinizin kefaretidir. Yeminlerinizi koruyun. Allah, şükredesiniz diye size ayetlerini böyle açıklar.",
+ "mealNotu": "'Lağv' kökü kastsız, düşünmeden ağızdan çıkan sözü; 'akkadtüm' kökü ise bilinçli biçimde bağlanan, düğümlenen yemini anlatır. Kefaret seçenekleri ayetin kendi sırasıyla verilmiştir, ek yorum eklenmemiştir.",
+ "kokler": [
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı)",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يُؤَاخِذُكُم",
+   "okunus": "yüâhızükümü",
+   "kok": "أخذ",
+   "kokAnlam": "tutma, alma; sorumlu tutma, hesaba çekme",
+   "karsilik": "sizi sorumlu tutar"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِٱللَّغْوِ",
+   "okunus": "bil lağvi",
+   "kok": "لغو",
+   "kokAnlam": "boş söz, kasıtsız/gelişigüzel konuşma",
+   "karsilik": "boş sözden dolayı"
+  },
+  {
+   "kelime": "فِىٓ",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-deki"
+  },
+  {
+   "kelime": "أَيْمَٰنَكُمْ",
+   "okunus": "eymâniküm",
+   "kok": "يمن",
+   "kokAnlam": "sağ el; kuvvet; yemin",
+   "karsilik": "yeminlerinizdeki"
+  },
+  {
+   "kelime": "وَلَٰكِن",
+   "okunus": "ve lâkin",
+   "kok": "—",
+   "kokAnlam": "(düzeltme edatı) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "يُؤَاخِذُكُم",
+   "okunus": "yüâhızüküm",
+   "kok": "أخذ",
+   "kokAnlam": "tutma, alma; sorumlu tutma, hesaba çekme",
+   "karsilik": "sizi sorumlu tutar"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyle",
+   "karsilik": "dolayı"
+  },
+  {
+   "kelime": "عَقَّدتُّمُ",
+   "okunus": "akkadttümü",
+   "kok": "عقد",
+   "kokAnlam": "bağlama, düğümleme, akit yapma",
+   "karsilik": "bilerek bağladığınız"
+  },
+  {
+   "kelime": "ٱلْأَيْمَٰنَ",
+   "okunus": "el'eymâne",
+   "kok": "يمن",
+   "kokAnlam": "sağ el; kuvvet; yemin",
+   "karsilik": "yeminleri"
+  },
+  {
+   "kelime": "فَكَفَّٰرَتُهُۥٓ",
+   "okunus": "fekeffâratühû",
+   "kok": "كفر",
+   "kokAnlam": "örtme; günahı örtecek bedel, kefaret",
+   "karsilik": "onun kefareti"
+  },
+  {
+   "kelime": "إِطْعَامُ",
+   "okunus": "it'âmü",
+   "kok": "طعم",
+   "kokAnlam": "tatma, yeme; yedirme, doyurma",
+   "karsilik": "doyurmaktır"
+  },
+  {
+   "kelime": "عَشَرَةِ",
+   "okunus": "aşerati",
+   "kok": "عشر",
+   "kokAnlam": "on sayısı",
+   "karsilik": "on"
+  },
+  {
+   "kelime": "مَسَٰكِينَ",
+   "okunus": "mesâkîne",
+   "kok": "سكن",
+   "kokAnlam": "sakin olma, oturma; hareketsiz kalan yoksul",
+   "karsilik": "yoksulu"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَوْسَطِ",
+   "okunus": "evsetı",
+   "kok": "وسط",
+   "kokAnlam": "ortalama, orta hâl",
+   "karsilik": "orta hâlinden"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "olanın"
+  },
+  {
+   "kelime": "تُطْعِمُونَ",
+   "okunus": "tüt'imûne",
+   "kok": "طعم",
+   "kokAnlam": "tatma, yeme; yedirme, doyurma",
+   "karsilik": "yedirdiğiniz"
+  },
+  {
+   "kelime": "أَهْلِيكُمْ",
+   "okunus": "ehlîküm",
+   "kok": "أهل",
+   "kokAnlam": "ehil olma; aile, ev halkı",
+   "karsilik": "ailenize"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "كِسْوَتُهُمْ",
+   "okunus": "kisvetühüm",
+   "kok": "كسو",
+   "kokAnlam": "giydirme, örtme, kuşatma",
+   "karsilik": "onları giydirmek"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "تَحْرِيرُ",
+   "okunus": "tahrîru",
+   "kok": "حرر",
+   "kokAnlam": "özgür kılma, serbest bırakma",
+   "karsilik": "özgür kılmak"
+  },
+  {
+   "kelime": "رَقَبَةٍ",
+   "okunus": "rakabetin",
+   "kok": "رقب",
+   "kokAnlam": "boyun; köle, esir kişi",
+   "karsilik": "bir köleyi"
+  },
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(şart) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mazsa"
+  },
+  {
+   "kelime": "يَجِدْ",
+   "okunus": "yecid",
+   "kok": "وجد",
+   "kokAnlam": "bulma, imkân bulma",
+   "karsilik": "bulamazsa"
+  },
+  {
+   "kelime": "فَصِيَامُ",
+   "okunus": "fesıyâmü",
+   "kok": "صوم",
+   "kokAnlam": "tutma, kendini alıkoyma; oruç",
+   "karsilik": "oruç tutmaktır"
+  },
+  {
+   "kelime": "ثَلَٰثَةِ",
+   "okunus": "selâseti",
+   "kok": "ثلث",
+   "kokAnlam": "üç sayısı",
+   "karsilik": "üç"
+  },
+  {
+   "kelime": "أَيَّامٍ",
+   "okunus": "eyyâmin",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gün"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "كَفَّٰرَةُ",
+   "okunus": "keffâratü",
+   "kok": "كفر",
+   "kokAnlam": "örtme; günahı örtecek bedel, kefaret",
+   "karsilik": "kefaretidir"
+  },
+  {
+   "kelime": "أَيْمَٰنَكُمْ",
+   "okunus": "eymâniküm",
+   "kok": "يمن",
+   "kokAnlam": "sağ el; kuvvet; yemin",
+   "karsilik": "yeminlerinizin"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-ettiğinizde"
+  },
+  {
+   "kelime": "حَلَفْتُمْ",
+   "okunus": "haleftüm",
+   "kok": "حلف",
+   "kokAnlam": "yemin etme, ant içme",
+   "karsilik": "yemin"
+  },
+  {
+   "kelime": "وَٱحْفَظُوٓا۟",
+   "okunus": "vehfezû",
+   "kok": "حفظ",
+   "kokAnlam": "koruma, saklama, gözetme",
+   "karsilik": "koruyun"
+  },
+  {
+   "kelime": "أَيْمَٰنَكُمْ",
+   "okunus": "eymâneküm",
+   "kok": "يمن",
+   "kokAnlam": "sağ el; kuvvet; yemin",
+   "karsilik": "yeminlerinizi"
+  },
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "يُبَيِّنُ",
+   "okunus": "yübeyyinü",
+   "kok": "بين",
+   "kokAnlam": "açık olma; açıklama, beyan etme",
+   "karsilik": "açıklar"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "ءَايَٰتِهِۦ",
+   "okunus": "âyâtihî",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet; ayet",
+   "karsilik": "ayetlerini"
+  },
+  {
+   "kelime": "لَعَلَّكُمْ",
+   "okunus": "lealleküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) umulur ki",
+   "karsilik": "umulur ki"
+  },
+  {
+   "kelime": "تَشْكُرُونَ",
+   "okunus": "teşkürûne",
+   "kok": "شكر",
+   "kokAnlam": "şükretme, minnettarlık gösterme",
+   "karsilik": "şükredersiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet yeminleri ikiye ayırır: düşünmeden ağızdan çıkan 'lağv' yeminler ve bilerek, kararlılıkla bağlanan (عقد) yeminler. İlkinden dolayı hesap sorulmaz; ikincisini bozan kişi için bir kefaret gerekir. Bu ayrım, dilin gücünü ciddiye almayı ama vesveseye düşürmemeyi amaçlar.",
+  "Klasik fıkıh, sayılan kefaret seçeneklerini (on yoksulu doyurma, giydirme, bir köleyi özgür kılma) kişinin gücüne göre aralarından seçtiği seçenekler olarak açıklar; bunların hiçbirine gücü yetmeyen kimse için üç günlük oruç son çare olarak belirlenir. Ayet, 'yeminlerinizi koruyun' uyarısıyla biter; bu hem yemini kolay kolay etmemeyi hem edilen yemine sadık kalmayı içerir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:225",
+   "meal": "Allah sizi yeminlerinizdeki boş sözden dolayı sorumlu tutmaz; fakat kalplerinizin kazandığından dolayı sorumlu tutar. Allah çok bağışlayandır, çok yumuşak davranandır.",
+   "baglanti": "Aynı 'lağv' ayrımı burada da yapılır; esas alınan kalpten geçen kasıttır, kazara söylenen söz değil."
+  },
+  {
+   "ref": "66:2",
+   "meal": "Allah şüphesiz size yeminlerinizin çözümünü farz kıldı. Allah sizin yardımcınızdır (mevlânızdır); O bilendir, hikmet sahibidir.",
+   "baglanti": "Yeminin bozulabilir ve kefaretle çözülebilir olduğu ilkesi başka bir surede de doğrulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu sözlü yeminler ve bunların dinî-hukukî sonucudur; bu özel bir fıkıh alanıdır ve klasik fıkıh literatüründe ayrıntılarıyla ele alınır.",
+  "Bugüne taşınabilecek ders, söz vermeyi hafife almamak ve kolayca yemin etmekten kaçınmaktır. Ayrıca bir hata yapıldığında bunu telafi etmenin bir yolunun her zaman bulunduğunu hatırlamak, kişiyi suçluluktan çok sorumlu davranmaya yönlendirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü ölçülü ver",
+   "aciklama": "Bugün 'yemin ederim' gibi ağır ifadeleri gereksiz yere kullanmamaya dikkat et."
+  },
+  {
+   "baslik": "Verdiğin bir sözü gözden geçir",
+   "aciklama": "Unuttuğun veya yerine getiremediğin bir sözün varsa, onu telafi etmenin bir yolunu bul."
+  },
+  {
+   "baslik": "Bir yoksulu bugün gözet",
+   "aciklama": "Ayetteki 'yoksulu doyurma' ruhuyla bugün küçük bir yardımda bulun."
+  }
+ ],
+ "bugununAdimi": "Bugün verdiğin sözlerden birini gözden geçir ve tutamadığın varsa telafi etmek için somut bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=89"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/89"
+  }
+ ]
+}
