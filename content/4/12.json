@@ -1,0 +1,670 @@
+{
+ "sure": 4,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Eğer eşlerinizin çocuğu yoksa, bıraktıklarının yarısı sizindir. Çocukları varsa, bıraktıklarının dörtte biri sizindir; [bu da] yaptıkları vasiyetten veya borçtan sonradır. Sizin çocuğunuz yoksa, bıraktığınızın dörtte biri onlarındır (eşlerinizindir). Çocuğunuz varsa, bıraktığınızın sekizde biri onlarındır; [bu da] yaptığınız vasiyetten veya borçtan sonradır. Eğer mirası bırakılan erkek veya kadın kelâle ise ve onun bir erkek veya bir kız kardeşi varsa, o ikisinden her birine altıda bir düşer. Kardeşler bundan daha çoksa, üçte birde ortaktırlar; [bu da] zarar verici olmaksızın yapılan vasiyetten veya borçtan sonradır. [Bu,] Allah tarafından [konulmuş] bir vasiyettir. Allah hakkıyla bilendir, yumuşak davranandır.",
+ "mealNotu": "'Kelâle' kökü kuşatma, çevreleme anlamına gelir; klasik fıkıh bu terimi çocuğu ve babası olmaksızın ölen kişi olarak açıklar. 'Halîm' kökü öfkelenmeden yumuşak davranmayı anlatır; bu yüzden yalnız 'yumuşak' değil parantezle 'yumuşak davranan' denmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَلَكُمْ",
+   "okunus": "ve leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizindir",
+   "karsilik": "sizindir"
+  },
+  {
+   "kelime": "نِصْفُ",
+   "okunus": "nisfü",
+   "kok": "نصف",
+   "kokAnlam": "yarı, yarılama",
+   "karsilik": "yarısı"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "-diğinin"
+  },
+  {
+   "kelime": "تَرَكَ",
+   "okunus": "terake",
+   "kok": "ترك",
+   "kokAnlam": "bırakma, terk etme",
+   "karsilik": "bıraktığının"
+  },
+  {
+   "kelime": "أَزْوَٰجُكُمْ",
+   "okunus": "ezvâcüküm",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift",
+   "karsilik": "eşlerinizin"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mezse"
+  },
+  {
+   "kelime": "يَكُن",
+   "okunus": "yekün",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "لَهُنَّ",
+   "okunus": "lehünne",
+   "kok": "—",
+   "kokAnlam": "(zamir) onların",
+   "karsilik": "onların"
+  },
+  {
+   "kelime": "وَلَدٌ",
+   "okunus": "veledün",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; çocuk, soy",
+   "karsilik": "çocuğu"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "varsa"
+  },
+  {
+   "kelime": "لَهُنَّ",
+   "okunus": "lehünne",
+   "kok": "—",
+   "kokAnlam": "(zamir) onların",
+   "karsilik": "onların"
+  },
+  {
+   "kelime": "وَلَدٌ",
+   "okunus": "veledün",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; çocuk, soy",
+   "karsilik": "çocuğu"
+  },
+  {
+   "kelime": "فَلَكُمُ",
+   "okunus": "felekümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizindir",
+   "karsilik": "sizindir"
+  },
+  {
+   "kelime": "ٱلرُّبُعُ",
+   "okunus": "errubüu",
+   "kok": "ربع",
+   "kokAnlam": "dörtte bir",
+   "karsilik": "dörtte biri"
+  },
+  {
+   "kelime": "مِمَّا",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "تَرَكْنَ",
+   "okunus": "terakne",
+   "kok": "ترك",
+   "kokAnlam": "bırakma, terk etme",
+   "karsilik": "bıraktıklarının"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mim",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra, ardından",
+   "karsilik": "sonradır"
+  },
+  {
+   "kelime": "وَصِيَّةً",
+   "okunus": "vesıyyetin",
+   "kok": "وصي",
+   "kokAnlam": "vasiyet etme, buyurma",
+   "karsilik": "yaptıkları vasiyetten"
+  },
+  {
+   "kelime": "يُوصِينَ",
+   "okunus": "yûsîne",
+   "kok": "وصي",
+   "kokAnlam": "vasiyet etme, buyurma",
+   "karsilik": "yaptıkları vasiyet"
+  },
+  {
+   "kelime": "بِهَآ",
+   "okunus": "bihâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "دَيْنٍ",
+   "okunus": "deynin",
+   "kok": "دين",
+   "kokAnlam": "borç",
+   "karsilik": "borçtan"
+  },
+  {
+   "kelime": "وَلَهُنَّ",
+   "okunus": "ve lehünne",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlarındır",
+   "karsilik": "onlarındır"
+  },
+  {
+   "kelime": "ٱلرُّبُعُ",
+   "okunus": "errubüu",
+   "kok": "ربع",
+   "kokAnlam": "dörtte bir",
+   "karsilik": "dörtte biri"
+  },
+  {
+   "kelime": "مِمَّا",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "تَرَكْتُم",
+   "okunus": "teraktüm",
+   "kok": "ترك",
+   "kokAnlam": "bırakma, terk etme",
+   "karsilik": "bıraktığınızın"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mezse"
+  },
+  {
+   "kelime": "يَكُن",
+   "okunus": "yekün",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin",
+   "karsilik": "sizin"
+  },
+  {
+   "kelime": "وَلَدٌ",
+   "okunus": "veledün",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; çocuk, soy",
+   "karsilik": "çocuğunuz"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "varsa"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin",
+   "karsilik": "sizin"
+  },
+  {
+   "kelime": "وَلَدٌ",
+   "okunus": "veledün",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; çocuk, soy",
+   "karsilik": "çocuğunuz"
+  },
+  {
+   "kelime": "فَلَهُنَّ",
+   "okunus": "felehünne",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlarındır",
+   "karsilik": "onlarındır"
+  },
+  {
+   "kelime": "ٱلثُّمُنُ",
+   "okunus": "essümünü",
+   "kok": "ثمن",
+   "kokAnlam": "sekizde bir",
+   "karsilik": "sekizde biri"
+  },
+  {
+   "kelime": "مِمَّا",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "تَرَكْتُم",
+   "okunus": "teraktüm",
+   "kok": "ترك",
+   "kokAnlam": "bırakma, terk etme",
+   "karsilik": "bıraktığınızın"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mim",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra, ardından",
+   "karsilik": "sonradır"
+  },
+  {
+   "kelime": "وَصِيَّةً",
+   "okunus": "vesıyyetin",
+   "kok": "وصي",
+   "kokAnlam": "vasiyet etme, buyurma",
+   "karsilik": "yaptığınız vasiyetten"
+  },
+  {
+   "kelime": "تُوصُونَ",
+   "okunus": "tûsûne",
+   "kok": "وصي",
+   "kokAnlam": "vasiyet etme, buyurma",
+   "karsilik": "yaptığınız vasiyet"
+  },
+  {
+   "kelime": "بِهَآ",
+   "okunus": "bihâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "دَيْنٍ",
+   "okunus": "deynin",
+   "kok": "دين",
+   "kokAnlam": "borç",
+   "karsilik": "borçtan"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "رَجُلٌ",
+   "okunus": "racülün",
+   "kok": "رجل",
+   "kokAnlam": "erkek, adam",
+   "karsilik": "bir erkek"
+  },
+  {
+   "kelime": "يُورَثُ",
+   "okunus": "yûrasü",
+   "kok": "ورث",
+   "kokAnlam": "mirasçı olma",
+   "karsilik": "mirası bırakılan"
+  },
+  {
+   "kelime": "كَلَٰلَةً",
+   "okunus": "kelâleten",
+   "kok": "كلل",
+   "kokAnlam": "her, bütün; kuşatma; kelâle",
+   "karsilik": "kelâle olarak"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "evi",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "ٱمْرَأَةٌ",
+   "okunus": "imraetün",
+   "kok": "مرأ",
+   "kokAnlam": "kadın, kişi",
+   "karsilik": "bir kadın"
+  },
+  {
+   "kelime": "وَلَهُۥٓ",
+   "okunus": "ve lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) onun",
+   "karsilik": "ve onun"
+  },
+  {
+   "kelime": "أَخٌ",
+   "okunus": "ehun",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "bir erkek kardeşi"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "أُخْتٌ",
+   "okunus": "ühtün",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "bir kız kardeşi"
+  },
+  {
+   "kelime": "فَلِكُلِّ",
+   "okunus": "felikülli",
+   "kok": "كلل",
+   "kokAnlam": "her, bütün",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "وَٰحِدٍ",
+   "okunus": "vâhidin",
+   "kok": "وحد",
+   "kokAnlam": "birlik, teklik",
+   "karsilik": "birine"
+  },
+  {
+   "kelime": "مِّنْهُمَا",
+   "okunus": "minhümâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) o ikisinden",
+   "karsilik": "o ikisinden"
+  },
+  {
+   "kelime": "ٱلسُّدُسُ",
+   "okunus": "essüdüsü",
+   "kok": "سدس",
+   "kokAnlam": "altıda bir",
+   "karsilik": "altıda biri"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانُوٓا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseler"
+  },
+  {
+   "kelime": "أَكْثَرَ",
+   "okunus": "eksera",
+   "kok": "كثر",
+   "kokAnlam": "çokluk, çok olma",
+   "karsilik": "daha çok"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu, şu",
+   "karsilik": "bundan"
+  },
+  {
+   "kelime": "فَهُمْ",
+   "okunus": "fehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "شُرَكَآءُ",
+   "okunus": "şürakâü",
+   "kok": "شرك",
+   "kokAnlam": "ortaklık",
+   "karsilik": "ortaktırlar"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ٱلثُّلُثِ",
+   "okunus": "essülüsi",
+   "kok": "ثلث",
+   "kokAnlam": "üçte bir; üçleme",
+   "karsilik": "üçte birde"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mim",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra, ardından",
+   "karsilik": "sonradır"
+  },
+  {
+   "kelime": "وَصِيَّةً",
+   "okunus": "vesıyyetin",
+   "kok": "وصي",
+   "kokAnlam": "vasiyet etme, buyurma",
+   "karsilik": "vasiyet edilen"
+  },
+  {
+   "kelime": "يُوصَىٰ",
+   "okunus": "yûsâ",
+   "kok": "وصي",
+   "kokAnlam": "vasiyet etme, buyurma",
+   "karsilik": "vasiyet edilen"
+  },
+  {
+   "kelime": "بِهَآ",
+   "okunus": "bihâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "دَيْنٍ",
+   "okunus": "deynin",
+   "kok": "دين",
+   "kokAnlam": "borç",
+   "karsilik": "borçtan"
+  },
+  {
+   "kelime": "غَيْرَ",
+   "okunus": "gayra",
+   "kok": "غير",
+   "kokAnlam": "başkalık, değişiklik",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "مُضَآرٍّ",
+   "okunus": "müdârrin",
+   "kok": "ضرر",
+   "kokAnlam": "zarar verme",
+   "karsilik": "zarar verici"
+  },
+  {
+   "kelime": "وَصِيَّةً",
+   "okunus": "vesıyyeten",
+   "kok": "وصي",
+   "kokAnlam": "vasiyet etme, buyurma",
+   "karsilik": "bir vasiyettir"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den, tarafından",
+   "karsilik": "tarafından"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "hakkıyla bilendir"
+  },
+  {
+   "kelime": "حَلِيمٌ",
+   "okunus": "halîmün",
+   "kok": "حلم",
+   "kokAnlam": "yumuşak davranma, hilm",
+   "karsilik": "yumuşak davranandır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayette çocuklar için belirlenen miras oranlarının ardından eşler ve kardeşler için oranları bildirir. Eşin payı, ölenin çocuğu olup olmamasına göre yarı-dörtte bir veya dörtte bir-sekizde bir arasında değişir. 'Rubu' ve 'sümün' kökleri sırasıyla dörtte bir ve sekizde biri anlatır.",
+  "Ayetin ikinci yarısı, çocuğu ve babası olmayan (kelâle) bir kişinin kardeşlerine düşen payı anlatır. 'Zarar verici olmaksızın' ifadesi, vasiyetin mirasçıları mağdur etmek için kullanılmaması gerektiğini vurgular. Klasik fıkıh, bu ayetteki kelâle hükmünü Nisâ suresinin son ayetiyle birlikte, ayrıntılı feraiz hesaplarının temeli sayar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:11",
+   "meal": "Allah, çocuklarınız hakkında, erkeğe iki kızın payı kadarını buyurur.",
+   "baglanti": "4:11 çocuklar için miras oranını belirler; 4:12 aynı sistemi eşler ve kardeşler için tamamlar."
+  },
+  {
+   "ref": "2:282",
+   "meal": "...Yazan da şahitlik eden de zarar görmesin.",
+   "baglanti": "Nisâ 12'deki 'zarar verici olmaksızın' ifadesi, Bakara 282'deki bu ilkeyle aynı doğrultudadır: hukuki işlemlerde taraflardan hiçbiri zarara uğratılmamalıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu eşlerin ve kardeşlerin miras paylarıdır; ayrıntılı oranlar dinî bir hükümdür ve klasik fıkıh bunları geniş biçimde işlemiştir.",
+  "Günlük hayata taşınabilecek ders, vasiyet ve mirasla ilgili düzenlemeleri başkasına zarar verecek şekilde değil, adaletle yapmaktır. 'Zarar verici olmaksızın' ilkesi, yalnız miras değil her hukuki anlaşmada gözetilmesi gereken bir ölçüdür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Vasiyetini gözden geçir",
+   "aciklama": "Bir vasiyetin veya mali düzenlemenin varsa, kimseye haksızlık edip etmediğini bugün tekrar gözden geçir."
+  },
+  {
+   "baslik": "Borcunu kaydet",
+   "aciklama": "Unutulmuş küçük bir borcun varsa bugün not al; hesapların net olsun."
+  },
+  {
+   "baslik": "Adil paylaşım örneği ver",
+   "aciklama": "Ailende bir paylaşım anında, kimseyi kayırmadan adilce davranarak örnek ol."
+  }
+ ],
+ "bugununAdimi": "Bugün varsa bir vasiyet veya mali notunu gözden geçir; kimseye zarar vermediğinden emin ol.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/12"
+  }
+ ]
+}
