@@ -1,0 +1,75 @@
+{
+ "sure": 96,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "Bir kulu, namaz kılarken.",
+ "mealNotu": "'Abd' kökü kulluğu, 'salât' kökü namazı anlatır. Ayet, bir önceki ayetteki 'engelleyen' kişinin kimi engellediğini açıklar: namaz kılan bir kulu.",
+ "kokler": [
+  {
+   "kelime": "عَبْدًا",
+   "okunus": "abden",
+   "kok": "عبد",
+   "kokAnlam": "kulluk, kölelik; Allah'a bağlılık",
+   "karsilik": "bir kulu"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "صَلَّىٰٓ",
+   "okunus": "sallâ",
+   "kok": "صلو",
+   "kokAnlam": "namaz kılma, dua etme",
+   "karsilik": "namaz kılıyordu"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayetteki 'engelleyen' kişinin kime karşı bu tutumu sergilediğini açıklar: namaz kılan bir kul. 'Abd' kelimesi, kişinin Allah'a bağlılığını vurgular.",
+  "Ayet kısa ve nettir; engellenen eylem ibadettir. Klasik tefsir bu kulu Hz. Peygamber olarak açıklar, ancak ayetin genel ifadesi her devirde ibadeti engellenen kişiler için de bir uyarı taşır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "96:9",
+   "meal": "Engelleyeni gördün mü?",
+   "baglanti": "Bu ayet, bir önceki ayetteki engellemenin nesnesini açıklar: namaz kılan bir kul."
+  },
+  {
+   "ref": "2:114",
+   "meal": "Allah'ın mescitlerinde O'nun adının anılmasını engelleyenden daha zalim kim vardır?",
+   "baglanti": "Bakara suresindeki bu ayet, ibadeti engellemenin büyük bir zulüm olduğunu genel bir ilke olarak bildirir; Alak suresindeki somut olayla aynı temayı paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, namaz kılan bir kulun engellenmeye çalışılmasıdır; bu, tarihî bir olaya işaret eder.",
+  "Buradan çıkarılabilecek genel ders, ibadetin bir hak olduğu ve kimsenin bu hakkı engellememesi gerektiğidir. Bu, hem başkasına hem kendi ibadetine karşı gösterilecek saygıyı hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Namazına alan aç",
+   "aciklama": "Bugün namaz vaktinde, başka işlerin araya girmesine izin vermeden zaman ayır."
+  },
+  {
+   "baslik": "Birinin namazına saygı göster",
+   "aciklama": "Namaz kılan birini bugün gürültü veya acele ile rahatsız etme."
+  },
+  {
+   "baslik": "İbadet için alan aç",
+   "aciklama": "Ev veya iş yerinde ibadet için sessiz bir köşe ayırmayı düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün namaz vaktinde başka işlerin araya girmesine izin vermeden zaman ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/96/10"
+  }
+ ]
+}

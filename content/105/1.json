@@ -1,0 +1,103 @@
+{
+ "sure": 105,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Rabbinin, fil sahiplerine ne yaptığını görmedin mi?",
+ "mealNotu": "'Tera' kökü görmeyi/bilmeyi anlatır; ayet soru kalıbıyla anlatılan olayın herkesçe bilindiğini varsayar. 'Ashâb' kökü arkadaşlık/beraberlik anlamındadır; burada 'sahipleri, beraberindekiler' demektir.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuz soru) ...medin mi",
+   "karsilik": "...medin mi"
+  },
+  {
+   "kelime": "تَرَ",
+   "okunus": "tera",
+   "kok": "رأي",
+   "kokAnlam": "görme, bilme",
+   "karsilik": "görmedin"
+  },
+  {
+   "kelime": "كَيْفَ",
+   "okunus": "keyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "فَعَلَ",
+   "okunus": "feale",
+   "kok": "فعل",
+   "kokAnlam": "yapma, etme",
+   "karsilik": "yaptığını"
+  },
+  {
+   "kelime": "رَبُّكَ",
+   "okunus": "rabbüke",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbinin"
+  },
+  {
+   "kelime": "بِأَصْحَٰبِ",
+   "okunus": "biashâbi",
+   "kok": "صحب",
+   "kokAnlam": "arkadaşlık, beraberlik, sahiplik",
+   "karsilik": "sahiplerine"
+  },
+  {
+   "kelime": "ٱلْفِيلِ",
+   "okunus": "elfîli",
+   "kok": "فيل",
+   "kokAnlam": "fil",
+   "karsilik": "fil"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, Ebrehe'nin ordusunun Kâbe'yi yıkmak için fillerle Mekke'ye gelmesi olayını hatırlatarak başlar. Ayet, bu olayı bilen herkese, 'Rabbinin onlara ne yaptığını görmedin mi?' diye seslenir.",
+  "'Elem tera' (görmedin mi) kalıbı, anlatılan olayın dinleyiciler arasında bilindiğini varsayar. Klasik tefsir bu olayı Fil Vakası olarak açıklar; ayrıntılar sonraki ayetlerde verilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "106:1",
+   "meal": "Kureyş'i (Kâbe ile) alıştırdığı için,",
+   "baglanti": "Fil suresinin hemen ardından gelen Kureyş suresi, bu olayın Kureyş'e sağladığı güvenliği anlatır."
+  },
+  {
+   "ref": "3:97",
+   "meal": "Kim oraya (Kâbe'ye) girerse güvene ermiş olur.",
+   "baglanti": "Âl-i İmrân 97, Kâbe'nin Allah katındaki korunmuşluğunu vurgular; Fil suresindeki olay bu korumanın tarihte somutlaşmış bir örneğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, tarihte yaşanmış özel bir olaydır: Kâbe'yi yıkmaya gelen bir ordunun akıbeti.",
+  "Bugüne taşınabilecek ders, büyük ve yenilmez görünen tehditler karşısında bile ümitsizliğe kapılmamaktır. Tarih, güçlü görünen planların bir anda boşa çıkabileceğini gösterir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir tehdidi yeniden değerlendir",
+   "aciklama": "Bugün seni kaygılandıran büyük bir sorunu, gerçek boyutuyla yeniden değerlendir."
+  },
+  {
+   "baslik": "Sureyi öğren",
+   "aciklama": "Fil suresinin kısa kıssasını bugün birine anlat veya çocuğuna öğret."
+  },
+  {
+   "baslik": "Güvenliğin için şükret",
+   "aciklama": "Bugün yaşadığın yerin güvenliği için kısa bir şükür cümlesi kur."
+  }
+ ],
+ "bugununAdimi": "Bugün Fil suresinin kıssasını oku ve seni kaygılandıran bir konuda bu güvenden hatırlatma çıkar.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=105&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/105/1"
+  }
+ ]
+}

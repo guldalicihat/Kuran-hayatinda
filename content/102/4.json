@@ -1,0 +1,82 @@
+{
+ "sure": 102,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Sonra yine hayır, öyle değil! Yakında bileceksiniz.",
+ "mealNotu": "Aynı uyarının 'sümme' (sonra) bağlacıyla tekrarlanması, Kur'an üslubunda vurguyu artırmak, ciddiyeti pekiştirmek için kullanılır.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "bağlaç, sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "كَلَّا",
+   "okunus": "kellâ",
+   "kok": "—",
+   "kokAnlam": "caydırma, hayır",
+   "karsilik": "yine hayır, öyle değil"
+  },
+  {
+   "kelime": "سَوْفَ",
+   "okunus": "sevfe",
+   "kok": "—",
+   "kokAnlam": "gelecek zaman edatı",
+   "karsilik": "yakında"
+  },
+  {
+   "kelime": "تَعْلَمُونَ",
+   "okunus": "ta'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bileceksiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Aynı uyarı burada 'sümme' (sonra) bağlacıyla tekrarlanır. Bu tekrar, Kur'an üslubunda vurguyu artırmak, ciddiyeti pekiştirmek için kullanılır.",
+  "Klasik tefsir bu tekrarı iki farklı hesap anına -kabir hayatı ve mahşer günü- işaret ettiği şeklinde de açıklar. Her hâlükârda mesaj nettir: oyalanma sürse de gerçekle yüzleşme kaçınılmazdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "102:3",
+   "meal": "Hayır, öyle değil! Yakında bileceksiniz.",
+   "baglanti": "Bu ayet, bir önceki ayetteki uyarının birebir tekrarıdır; vurgu iki kat artırılır."
+  },
+  {
+   "ref": "102:1",
+   "meal": "Çoğaltma tutkusu sizi oyaladı.",
+   "baglanti": "Tekrarlanan bu uyarı, surenin başındaki oyalanmaya karşı bir cevap niteliği taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, aynı uyarının tekrarla pekiştirilmesidir; bu bir eylem değil, güçlü bir hatırlatmadır.",
+  "Bazı gerçekleri bir kez duymak yetmeyebilir; tekrar, insanın gaflet perdesini aralamasına yardımcı olur. Bu, önemli bir dersi zaman zaman kendine hatırlatmanın değerini gösterir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hatırlatıcı koy",
+   "aciklama": "Bugün kendine önemli bir hatırlatmayı -telefonuna, bir nota- yaz."
+  },
+  {
+   "baslik": "Tekrar oku",
+   "aciklama": "Bugün önemli bir öğüdü ikinci kez okuyarak pekiştir."
+  },
+  {
+   "baslik": "Gafletini fark et",
+   "aciklama": "Bugün hangi konuda kendini oyaladığını fark et."
+  }
+ ],
+ "bugununAdimi": "Bugün önemli bir hatırlatmayı yazılı olarak kendine not et ve sık göreceğin bir yere koy.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=102&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/102/4"
+  }
+ ]
+}

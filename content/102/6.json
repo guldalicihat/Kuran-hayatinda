@@ -1,0 +1,68 @@
+{
+ "sure": 102,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Cehennemi mutlaka göreceksiniz.",
+ "mealNotu": "'Cahîm' kökü (جحم) şiddetli alevlenmeyi anlatır. Bu ayet, önceki ayette yarım bırakılan cümlenin cevabını tamamlar.",
+ "kokler": [
+  {
+   "kelime": "لَتَرَوُنَّ",
+   "okunus": "leteravünne",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "mutlaka göreceksiniz"
+  },
+  {
+   "kelime": "ٱلْجَحِيمَ",
+   "okunus": "elcehîme",
+   "kok": "جحم",
+   "kokAnlam": "alevlenme, şiddetli ateş",
+   "karsilik": "cehennemi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetteki yarım bırakılan uyarının cevabı burada gelir: cehennem, kesin biçimde görülecektir. 'Cahîm' kökü şiddetli alevlenmeyi anlatır.",
+  "Bu görüş, klasik tefsire göre yalnız inkârcılara değil, herkese hitap eder; çünkü cehennemin yanından geçiş veya ona tanıklık, hesap gününün bir parçasıdır. Sonraki ayet bu görüşün daha da kesinleştiğini bildirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "19:71",
+   "meal": "İçinizden cehenneme uğramayacak hiç kimse yoktur...",
+   "baglanti": "Meryem suresi de herkesin cehenneme bir şekilde tanıklık edeceğini bildirir; Tekâsür'deki 'göreceksiniz' ifadesiyle örtüşür."
+  },
+  {
+   "ref": "102:5",
+   "meal": "Hayır, öyle değil! Kesin bir bilgiyle bilseydiniz...",
+   "baglanti": "Bu ayet, bir önceki ayette yarım bırakılan cümlenin cevabını tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu ahiretteki kesin bir gerçekleşmedir; bu doğrudan bir eylem tarif etmez.",
+  "Bu kesin uyarı, insanın hayatını sadece dünyevi kazanımlara göre değil, bu kesin geleceği de hesaba katarak düzenlemesi gerektiğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geleceği hesaba kat",
+   "aciklama": "Bugün bir kararını verirken sadece bugünü değil, sonunu da düşün."
+  },
+  {
+   "baslik": "Sığınma duası yap",
+   "aciklama": "Bugün cehennem azabından Allah'a sığınarak kısa bir dua et."
+  },
+  {
+   "baslik": "Uyarıyı paylaş",
+   "aciklama": "Bugün bu uyarıyı nazikçe bir yakınınla paylaş."
+  }
+ ],
+ "bugununAdimi": "Bugün, uzun vadeli sonucu düşünerek bir kararını gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=102&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/102/6"
+  }
+ ]
+}

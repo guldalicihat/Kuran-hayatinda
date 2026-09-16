@@ -1,0 +1,89 @@
+{
+ "sure": 107,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Yoksulu doyurmaya teşvik etmeyendir.",
+ "mealNotu": "'Yehuddu' kökü başkasını bir işe teşvik etme, kışkırtmadır; ayet burada kişinin bizzat yedirmemesinden çok, başkalarını da bu işe teşvik etmemesini eleştirir.",
+ "kokler": [
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...maz",
+   "karsilik": "ve ...maz"
+  },
+  {
+   "kelime": "يَحُضُّ",
+   "okunus": "yehuddu",
+   "kok": "حضض",
+   "kokAnlam": "teşvik etme, kışkırtma, gayrete getirme",
+   "karsilik": "teşvik eder"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine, -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "طَعَامِ",
+   "okunus": "taâmi",
+   "kok": "طعم",
+   "kokAnlam": "yemek, gıda",
+   "karsilik": "yemek"
+  },
+  {
+   "kelime": "ٱلْمِسْكِينِ",
+   "okunus": "elmiskîni",
+   "kok": "سكن",
+   "kokAnlam": "sakin olma; yoksul, çaresiz kalan",
+   "karsilik": "yoksulun"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette yetime kötü davranan kişi tanıtıldı; burada aynı kişinin bir başka özelliği verilir: yoksulu doyurmaya teşvik etmemek.",
+  "'Teşvik etmemek' ifadesi, yalnız bireysel cimriliği değil, toplumsal bir duyarsızlığı da işaret eder; kişi kendisi vermediği gibi başkalarını da vermeye özendirmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "69:34",
+   "meal": "O, büyük Allah'a iman etmezdi ve yoksulu doyurmaya teşvik etmezdi.",
+   "baglanti": "Hâkka 34, Mâûn 3'teki ifadeyi neredeyse aynı kelimelerle tekrar ederek bu tavrın imansızlıkla bağını gösterir."
+  },
+  {
+   "ref": "89:18",
+   "meal": "Yoksulu doyurmaya birbirinizi teşvik etmiyorsunuz.",
+   "baglanti": "Fecr 18, aynı kökü kullanarak yoksulu doyurmayı toplumsal bir sorumluluk olarak hatırlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, yoksulu doyurmaya teşvik etmemektir.",
+  "Bugüne taşınabilecek ders, sadece kendin vermekle kalmayıp çevrendekileri de yardıma teşvik etmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir yardım çağrısı paylaş",
+   "aciklama": "Bugün güvendiğin bir yardım kampanyasını çevrendekilerle paylaş."
+  },
+  {
+   "baslik": "Birini yardıma teşvik et",
+   "aciklama": "Bugün bir arkadaşını, birlikte bir yoksula yardım etmeye davet et."
+  },
+  {
+   "baslik": "Yemeğini paylaş",
+   "aciklama": "Bugün hazırladığın bir yemekten ihtiyaç sahibi birine de ayır."
+  }
+ ],
+ "bugununAdimi": "Bugün en az bir kişiyi, ihtiyaç sahibine yardım etme konusunda teşvik et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=107&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/107/3"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sure": 95,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "Allah, hükmedenlerin en iyi hükmedeni değil mi?",
+ "mealNotu": "Sure, olumsuz soru kalıbıyla kesin bir cevabı onaylatarak biter. 'Hükm' kökü hem yargı hem karar verme yetkisini anlatır; 'ahkem' bu yetkinin en üstün derecesini ifade eder.",
+ "kokler": [
+  {
+   "kelime": "أَلَيْسَ",
+   "okunus": "eleyse",
+   "kok": "ليس",
+   "kokAnlam": "(olumsuzluk) değil mi",
+   "karsilik": "değil mi"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِأَحْكَمِ",
+   "okunus": "biahkemi",
+   "kok": "حكم",
+   "kokAnlam": "en iyi hükmeden, en üstün karar veren",
+   "karsilik": "en iyi hükmedeni"
+  },
+  {
+   "kelime": "ٱلْحَٰكِمِينَ",
+   "okunus": "elhâkimîne",
+   "kok": "حكم",
+   "kokAnlam": "hükmedenler, karar verenler",
+   "karsilik": "hükmedenlerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, bir önceki ayetteki hesap gününü yalanlama sorusundan sonra, bu son ayette kesin bir cevap sunar: bütün hükmü verecek olan, hükmedenlerin en iyisi olan Allah'tır. Olumsuz soru kalıbı, dinleyende zaten bilinen bu gerçeği onaylatır.",
+  "Sure böylece incir ve zeytinden başlayıp insanın yaratılışına, düşme ihtimaline ve nihayet en âdil hükmü verecek olana uzanan bir bütünlük kurar. Klasik tefsir bu son ayeti, hesap gününün kaçınılmaz ve âdil olacağının bir güvencesi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:87",
+   "meal": "...sabredin, ta ki Allah aramızda hükmetsin; O, hükmedenlerin en hayırlısıdır.",
+   "baglanti": "A'râf suresindeki bu ayet aynı ifadeyle ('hayru'l-hâkimîn') biter; Allah'ın hükmünün en üstün ve en adil hüküm olduğu vurgusu burada da geçer."
+  },
+  {
+   "ref": "11:45",
+   "meal": "Nûh, Rabbine seslendi ve dedi ki: 'Rabbim... Sen hükmedenlerin en iyisisin.'",
+   "baglanti": "Hûd suresindeki bu duada Nûh, aynı ifadeyi ('ahkemu'l-hâkimîn') kullanır; Allah'ın hükmüne güvenmek, zor bir anda yapılan bir dua biçimine dönüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, en âdil hükmün Allah'a ait olduğudur; bu, hesap gününe dair bir güvence niteliğindedir.",
+  "Bugüne taşınabilecek ders, haksızlığa uğrayan veya bir haksızlık karşısında çaresiz kalan kişinin, nihai adaletin er ya da geç tecelli edeceğine güvenmesidir. Bu güven, insanı intikam almaya değil, sabra ve kendi adaletini gözetmeye yöneltir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Adaleti Allah'a bırak",
+   "aciklama": "Bugün çözemediğin bir haksızlık karşısında öfkelenmek yerine, adaletin nihayetinde yerini bulacağını hatırla."
+  },
+  {
+   "baslik": "Kendi hükmünü gözden geçir",
+   "aciklama": "Bugün birine karşı verdiğin bir yargıyı, adil olup olmadığını sorgulayarak yeniden düşün."
+  },
+  {
+   "baslik": "Sabırla bekle",
+   "aciklama": "Bugün sonucunu göremediğin bir çabanda, sabırla beklemeyi tercih et."
+  }
+ ],
+ "bugununAdimi": "Bugün çözemediğin bir haksızlık karşısında öfkelenmek yerine kısa bir dua ile Allah'ın adaletine güven.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=95&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/95/8"
+  }
+ ]
+}

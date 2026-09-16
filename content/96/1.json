@@ -1,0 +1,89 @@
+{
+ "sure": 96,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Yaratan Rabbinin adıyla oku.",
+ "mealNotu": "'Kara'e' kökü okumayı, 'ism' kökü adı, 'halaka' kökü yaratmayı anlatır. Bu ayet Kur'an'ın ilk inen ayeti olarak bilinir; 'oku' fiilinin nesnesi belirtilmez, bu yüzden mutlak bir okuma çağrısı olarak anlaşılır.",
+ "kokler": [
+  {
+   "kelime": "ٱقْرَأْ",
+   "okunus": "ikra'",
+   "kok": "قرأ",
+   "kokAnlam": "okuma",
+   "karsilik": "oku"
+  },
+  {
+   "kelime": "بِٱسْمِ",
+   "okunus": "bismi",
+   "kok": "سمو",
+   "kokAnlam": "ad, isim; yücelik",
+   "karsilik": "adıyla"
+  },
+  {
+   "kelime": "رَبِّكَ",
+   "okunus": "rabbike",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbinin"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ki O",
+   "karsilik": "ki O"
+  },
+  {
+   "kelime": "خَلَقَ",
+   "okunus": "haleka",
+   "kok": "خلق",
+   "kokAnlam": "yaratma, yoktan var etme",
+   "karsilik": "yarattı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Alak suresi, iniş sırasına göre Kur'an'ın ilk suresi kabul edilir ve bu ayet vahyin ilk emri olarak bilinir. Emir kipiyle başlar; 'oku' fiilinin nesi okunacağı belirtilmez, bu da okumanın kapsayıcı bir çağrı olduğunu düşündürür.",
+  "Okuma emri, 'Rabbinin adıyla' kaydıyla sınırlanır; bu, bilginin ve okumanın Allah'a dayandırılarak yapılmasını ister. Ayetin devamı, bu Rabbin aynı zamanda yaratan olduğunu hatırlatarak bilgiyi yaratılışa bağlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "96:3",
+   "meal": "Yine oku! Rabbin en cömert olandır.",
+   "baglanti": "Aynı 'oku' emri üç ayet sonra tekrarlanır; bu tekrar, okumanın önemini pekiştirir."
+  },
+  {
+   "ref": "87:1",
+   "meal": "Yüce Rabbinin adını tesbih et.",
+   "baglanti": "A'lâ suresindeki bu ayet de aynı 'Rabbinin adıyla' yapısını taşır; ibadetin ve eylemin Allah'ın adına dayanması ortak bir temadır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, vahyin ilk emri olarak okumaktır; bu, tarihî ve özel bir bağlamda gelmiştir.",
+  "Buradan çıkarılabilecek genel ders, öğrenmeye ve bilgiye doğru bir niyetle başlamaktır. Bir işe, bir derse veya bir okumaya başlarken niyeti Allah'a bağlamak, o işin yönünü belirler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Niyetle başla",
+   "aciklama": "Bugün bir kitap veya yazı okumaya başlarken kısa bir besmele veya niyet cümlesiyle başla."
+  },
+  {
+   "baslik": "Bilinçli bir okuma yap",
+   "aciklama": "Bugün on dakikanı, dikkatini vererek faydalı bir metin okumaya ayır."
+  },
+  {
+   "baslik": "Öğrendiğini paylaş",
+   "aciklama": "Bugün öğrendiğin küçük bir bilgiyi birine anlat."
+  }
+ ],
+ "bugununAdimi": "Bugün on dakikanı, niyetini belirleyerek faydalı bir metin okumaya ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/96/1"
+  }
+ ]
+}

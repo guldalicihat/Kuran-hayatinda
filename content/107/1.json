@@ -1,0 +1,82 @@
+{
+ "sure": 107,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Dini yalanlayanı gördün mü?",
+ "mealNotu": "'Din' kökü burada hem din hem hesap/ceza gününü çağrıştırır; klasik tefsir bu kelimeyi genelde 'ceza/hesap günü' olarak da açıklar. 'Eraeyte' (gördün mü) kalıbı, dikkat çekmek için kullanılan bir soru biçimidir.",
+ "kokler": [
+  {
+   "kelime": "أَرَءَيْتَ",
+   "okunus": "eraeyte",
+   "kok": "رأي",
+   "kokAnlam": "görme, bilme",
+   "karsilik": "gördün mü"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o ki, olan",
+   "karsilik": "olanı"
+  },
+  {
+   "kelime": "يُكَذِّبُ",
+   "okunus": "yükezzibü",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanlayan"
+  },
+  {
+   "kelime": "بِٱلدِّينِ",
+   "okunus": "bid dîni",
+   "kok": "دين",
+   "kokAnlam": "din; hesap günü, ceza",
+   "karsilik": "dini"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, dini yalanlayan kişinin kim olduğunu ve nasıl tanınacağını soru-cevap üslubuyla anlatmaya başlar.",
+  "'Eraeyte' kalıbı Kur'an'da genelde dikkat çekmek, düşündürmek için kullanılır; sonraki ayetler bu kişinin somut özelliklerini sayacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "82:9",
+   "meal": "Hayır! Siz hesap/ceza gününü yalanlıyorsunuz.",
+   "baglanti": "İnfitâr 9, aynı 'yalanlama' fiili ve 'din' kelimesini kullanarak Mâûn 1'deki tavrı tekrar eder."
+  },
+  {
+   "ref": "95:7",
+   "meal": "Böyleyken hangi şey sana dini yalanlatıyor?",
+   "baglanti": "Tîn 7, aynı ifadeyle insanı, dini/hesap gününü yalanlamaya iten şeyi sorgulatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dini/hesap gününü yalanlayan kişidir.",
+  "Bugüne taşınabilecek ders, inancın sadece sözde kalmayıp davranışa yansıması gerektiğidir; sonraki ayetler bu davranışları somutlaştıracaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "İnancını davranışla sına",
+   "aciklama": "Bugün bir davranışının, inandığını söylediğin değerlerle tutarlı olup olmadığını gözden geçir."
+  },
+  {
+   "baslik": "Hesap gününü hatırla",
+   "aciklama": "Bugün bir kararını verirken, bu kararın hesabını verebileceğini düşün."
+  },
+  {
+   "baslik": "Sureyi baştan sona oku",
+   "aciklama": "Mâûn suresini bugün mealiyle birlikte oku ve akışını takip et."
+  }
+ ],
+ "bugununAdimi": "Bugün Mâûn suresini oku ve inancınla davranışların arasında bir tutarsızlık olup olmadığını düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=107&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/107/1"
+  }
+ ]
+}

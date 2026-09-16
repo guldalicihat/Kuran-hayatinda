@@ -1,0 +1,96 @@
+{
+ "sure": 97,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Kadir gecesi bin aydan hayırlıdır.",
+ "mealNotu": "'Hayr' kökü iyilik ve üstünlüğü anlatır. Ayet, bir önceki ayette sorulan sorunun cevabını verir; bu gecenin değeri sayısal bir karşılaştırmayla somutlaştırılır.",
+ "kokler": [
+  {
+   "kelime": "لَيْلَةُ",
+   "okunus": "leyletü",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "gecesi"
+  },
+  {
+   "kelime": "ٱلْقَدْرِ",
+   "okunus": "elkadri",
+   "kok": "قدر",
+   "kokAnlam": "ölçü, değer, güç; takdir",
+   "karsilik": "Kadir"
+  },
+  {
+   "kelime": "خَيْرٌ",
+   "okunus": "hayrun",
+   "kok": "خير",
+   "kokAnlam": "iyilik, üstünlük",
+   "karsilik": "hayırlıdır"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَلْفِ",
+   "okunus": "elfi",
+   "kok": "ألف",
+   "kokAnlam": "bin; ülfet, alışma",
+   "karsilik": "bin"
+  },
+  {
+   "kelime": "شَهْرٍ",
+   "okunus": "şehrin",
+   "kok": "شهر",
+   "kokAnlam": "ay (zaman birimi)",
+   "karsilik": "aydan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayette sorulan sorunun cevabını verir: Kadir gecesi, bin aydan daha hayırlıdır. Bin ay yaklaşık seksen üç yıla denk gelir; bu karşılaştırma, gecenin büyüklüğünü somutlaştırmak için kullanılır.",
+  "Klasik tefsir bu ifadeyi, bu gecede yapılan ibadetin, bin ay boyunca yapılan ibadetten daha üstün bir sevaba vesile olabileceği şeklinde açıklar. Ayet, kesin bir sayı vermekten çok, gecenin değerini vurgulayan bir mübalağa üslubu taşır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "97:1",
+   "meal": "Şüphesiz biz onu Kadir gecesinde indirdik.",
+   "baglanti": "Bu ayet, bir önceki ayette bildirilen gecenin neden bu kadar değerli olduğunu açıklar: o, Kur'an'ın indirildiği gecedir."
+  },
+  {
+   "ref": "32:5",
+   "meal": "Bir günü, sizin saydığınıza göre bin yıl olan (Rab).",
+   "baglanti": "Secde suresindeki bu ayet de zamanla ilgili büyük bir karşılaştırma kullanır; Kadir gecesindeki 'bin ay' ifadesiyle benzer bir üslubu paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, belirli bir gecenin ibadet açısından olağanüstü bir değere sahip olduğudur; bu, herkesin her zaman erişebileceği bir fırsat değildir.",
+  "Bugüne taşınabilecek genel ders, zamanın niceliğinden çok niteliğinin önemli olabileceğidir. Uzun ama gelişigüzel geçen bir süre yerine, kısa ama bilinçli ve amaçlı geçirilen bir an daha değerli olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Niteliğe odaklan",
+   "aciklama": "Bugün uzun ama dikkatsiz geçirdiğin bir süre yerine, kısa ama tam dikkatle yapacağın bir işi seç."
+  },
+  {
+   "baslik": "Değerli anı planla",
+   "aciklama": "Bu hafta içinde, özellikle ibadete ayıracağın bir günü veya geceyi şimdiden belirle."
+  },
+  {
+   "baslik": "Zamanını say",
+   "aciklama": "Bugün zamanını nasıl geçirdiğini akşam kısaca gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün kısa ama tam dikkatle yapacağın bir işi seç ve onu öyle tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=97&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/97/3"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "sure": 97,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Şüphesiz biz onu Kadir gecesinde indirdik.",
+ "mealNotu": "'İnzal' kökü yukarıdan indirmeyi anlatır; ayette 'onu' zamiri açıkça belirtilmez, ancak bağlamdan ve klasik tefsirden Kur'an'a işaret ettiği anlaşılır. Bu yüzden meal zamiri olduğu gibi bırakır, isim eklemez.",
+ "kokler": [
+  {
+   "kelime": "إِنَّآ",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz biz",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "أَنزَلْنَٰهُ",
+   "okunus": "enzelnâhü",
+   "kok": "نزل",
+   "kokAnlam": "indirme, yukarıdan aşağı indirme",
+   "karsilik": "onu indirdik"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "لَيْلَةِ",
+   "okunus": "leyleti",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "gecesinde"
+  },
+  {
+   "kelime": "ٱلْقَدْرِ",
+   "okunus": "elkadri",
+   "kok": "قدر",
+   "kokAnlam": "ölçü, değer, güç; takdir",
+   "karsilik": "Kadir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kadir suresi, Kur'an'ın indirilişinin belirli bir geceyle ilişkilendirildiğini bildirerek başlar. 'İnzal' kökü, vahyin yukarıdan indirilmesini anlatır; ayette 'onu' zamiri, bağlamdan Kur'an'a işaret eder.",
+  "'Kadr' kökü ölçü, değer ve takdir anlamı taşır; bu geceye adını veren de bu köktür. Sonraki ayetler, bu gecenin değerini soru-cevap biçiminde açıklamaya devam eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:185",
+   "meal": "Kur'an'ın kendisinde indirildiği Ramazan ayı...",
+   "baglanti": "Bakara suresindeki bu ayet, Kadir gecesinin Ramazan ayı içinde olduğunu gösterir; iki ayet birlikte vahyin iniş zamanını çerçeveler."
+  },
+  {
+   "ref": "44:3",
+   "meal": "Şüphesiz biz onu mübarek bir gecede indirdik.",
+   "baglanti": "Duhân suresindeki bu ayet neredeyse aynı ifadeyi taşır; oradaki 'mübarek gece' ile buradaki 'Kadir gecesi'nin aynı geceye işaret ettiği kabul edilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın belirli bir gecede indirilmiş olmasıdır; bu, tarihî ve özel bir olaydır.",
+  "Bugüne taşınabilecek ders, bazı zamanların diğerlerinden daha değerli olabileceğidir. Bu farkındalık, zamanı gelişigüzel geçirmek yerine, değerli anları fark edip onlardan yararlanmaya çalışmayı öğütler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Değerli bir zaman ayır",
+   "aciklama": "Bugün günün içinde, ibadete veya düşünmeye ayıracağın özel bir zaman dilimi belirle."
+  },
+  {
+   "baslik": "Kur'an'a zaman ver",
+   "aciklama": "Bugün birkaç dakika Kur'an okumaya veya mealini incelemeye ayır."
+  },
+  {
+   "baslik": "Geceyi değerlendir",
+   "aciklama": "Bu gece yatmadan önce kısa bir dua veya zikirle günü kapat."
+  }
+ ],
+ "bugununAdimi": "Bugün birkaç dakikanı Kur'an okumaya veya mealini incelemeye ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=97&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/97/1"
+  }
+ ]
+}

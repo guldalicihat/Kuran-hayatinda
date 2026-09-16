@@ -1,0 +1,82 @@
+{
+ "sure": 99,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Yer kendi [şiddetli] sarsıntısıyla sarsıldığında,",
+ "mealNotu": "'Zilzal' kökü sarsma ve çalkalamayı anlatır; hem fiil hem isim olarak tekrarlanması sarsıntının şiddetini vurgular. 'Şiddetli' köşeli parantezle eklendi.",
+ "kokler": [
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "zaman, an",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "زُلْزِلَتِ",
+   "okunus": "zülzileti",
+   "kok": "زلزل",
+   "kokAnlam": "şiddetle sarsma, çalkalama",
+   "karsilik": "sarsıldığında"
+  },
+  {
+   "kelime": "ٱلْأَرْضُ",
+   "okunus": "el'erdu",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yer"
+  },
+  {
+   "kelime": "زِلْزَالَهَا",
+   "okunus": "zilzâlehâ",
+   "kok": "زلزل",
+   "kokAnlam": "şiddetle sarsma",
+   "karsilik": "kendi sarsıntısıyla"
+  }
+ ],
+ "neAnlatiyor": [
+  "Zilzal suresi kıyamet sahnesiyle başlar. 'Zilzal' kökünün hem fiil hem isim olarak art arda kullanılması, Arapçada yoğunluk ve şiddet bildirir; sarsıntının olağanüstülüğü vurgulanır.",
+  "'Zilzâlehâ' (kendi sarsıntısı) ifadesi, bu sarsıntının yerin alışıldık deprem hareketlerinden farklı, ona özgü ve olağanüstü bir sarsılış olduğuna işaret eder. Sure, bu sarsıntıyı takip eden sahneleri sırayla anlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "56:4",
+   "meal": "Yer şiddetle sarsıldığı zaman,",
+   "baglanti": "Vâkıa suresi de kıyameti yerin sarsılmasıyla başlatır; farklı bir kökle (recc) benzer bir açılış sahnesi çizilir."
+  },
+  {
+   "ref": "99:2",
+   "meal": "ve yer ağırlıklarını dışarı çıkardığında,",
+   "baglanti": "Bu ayet, sarsıntının hemen ardından gelen ikinci sahneyi anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu kıyamet anındaki kozmik bir olaydır; bu bugün gerçekleşmiş değil, gelecekte olacak bir sahnenin tasviridir.",
+  "Bu sahne, dünyanın da bir sonu olduğunu hatırlatarak insanı hazırlıklı olmaya çağırır. Sağlam gördüğümüz zemin bile bir gün sarsılacaksa, insanın güvenini yalnızca dünyaya bağlamaması gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kıyameti hatırla",
+   "aciklama": "Bugün bir anlığına dünyanın geçiciliğini düşün ve buna göre bir önceliğini gözden geçir."
+  },
+  {
+   "baslik": "Sağlam temele yatırım yap",
+   "aciklama": "Bugün kalıcı bir değer -bilgi, iyilik, ibadet- için zaman ayır."
+  },
+  {
+   "baslik": "Sureyi oku",
+   "aciklama": "Bugün Zilzal suresini anlamıyla birlikte oku."
+  }
+ ],
+ "bugununAdimi": "Bugün, yalnızca dünyaya bağladığın bir güveni fark et ve onu dengelemek için küçük bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=99&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/99/1"
+  }
+ ]
+}

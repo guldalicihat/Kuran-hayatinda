@@ -1,0 +1,82 @@
+{
+ "sure": 96,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Hayır! Gerçekten insan mutlaka azgınlaşır.",
+ "mealNotu": "'Kellâ' caydırıcı bir ünlemdir, önceki övgüden bir uyarıya geçişi işaretler. 'Tuğyan' kökü sınırı aşmayı, azgınlaşmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "كَلَّآ",
+   "okunus": "kellâ",
+   "kok": "—",
+   "kokAnlam": "(caydırma) hayır, asla",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "ٱلْإِنسَٰنَ",
+   "okunus": "el'insâne",
+   "kok": "أنس",
+   "kokAnlam": "insan; unutkanlık, ülfet",
+   "karsilik": "insan"
+  },
+  {
+   "kelime": "لَيَطْغَىٰٓ",
+   "okunus": "leyatğâ",
+   "kok": "طغي",
+   "kokAnlam": "sınırı aşma, azgınlaşma",
+   "karsilik": "mutlaka azgınlaşır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetlerde insanın öğretilme ve yükselme kapasitesi anlatıldıktan sonra, bu ayet bir uyarıya döner: insan bu imkânları kötüye kullanıp azgınlaşabilir. 'Kellâ' ünlemi, dikkat çekici bir geçiş işaretidir.",
+  "'Tuğyan' kökü, bir sınırı aşmayı, ölçüyü kaçırmayı anlatır. Bir sonraki ayet, bu azgınlaşmanın sebebini açıklar: insanın kendini ihtiyaçsız görmesi."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "96:7",
+   "meal": "Çünkü kendini ihtiyaçsız görür.",
+   "baglanti": "Bu ayet, azgınlaşmanın sebebini bir sonraki ayette açıklar: kendini yeterli, muhtaç olmayan biri olarak görmek."
+  },
+  {
+   "ref": "20:24",
+   "meal": "Firavun'a git; çünkü o azdı.",
+   "baglanti": "Tâhâ suresindeki bu ayet aynı 'tuğyan' kökünü taşır; Firavun, kendini yeterli görüp azgınlaşan insanın somut bir örneğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insanın imkân ve gücü karşısında azgınlaşma eğilimidir; bu genel bir uyarıdır.",
+  "Bugüne taşınabilecek ders, gücün ve imkânın arttığı anlarda daha dikkatli olmaktır. Başarı ve rahatlık, bazen insanı ölçüyü kaçırmaya sürükleyebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gücünü ölçülü kullan",
+   "aciklama": "Bugün elindeki bir imkânı (yetki, para, söz hakkı) kullanırken bir kez daha düşün."
+  },
+  {
+   "baslik": "Sınırını hatırla",
+   "aciklama": "Bir konuda haklı olduğunu düşündüğün anda bile, ölçüyü kaçırmamaya dikkat et."
+  },
+  {
+   "baslik": "Kendini denetle",
+   "aciklama": "Günün sonunda, bugün bir sınırı aşıp aşmadığını gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün elindeki bir imkânı kullanırken ölçülü davranmaya özellikle dikkat et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/96/6"
+  }
+ ]
+}

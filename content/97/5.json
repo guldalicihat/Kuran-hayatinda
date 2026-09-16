@@ -1,0 +1,89 @@
+{
+ "sure": 97,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "O gece, tan yeri ağarana kadar esenliktir.",
+ "mealNotu": "'Selâm' kökü esenlik ve güvenliği anlatır. Ayet, sureyi bir huzur bildirimiyle kapatır; gecenin süresi, şafak vaktine kadar tanımlanır.",
+ "kokler": [
+  {
+   "kelime": "سَلَٰمٌ",
+   "okunus": "selâmün",
+   "kok": "سلم",
+   "kokAnlam": "esenlik, barış, güvenlik",
+   "karsilik": "esenliktir"
+  },
+  {
+   "kelime": "هِىَ",
+   "okunus": "hiye",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) kadar",
+   "karsilik": "kadar"
+  },
+  {
+   "kelime": "مَطْلَعِ",
+   "okunus": "matlei",
+   "kok": "طلع",
+   "kokAnlam": "doğuş, ağarış",
+   "karsilik": "ağarmasına"
+  },
+  {
+   "kelime": "ٱلْفَجْرِ",
+   "okunus": "elfecri",
+   "kok": "فجر",
+   "kokAnlam": "tan yeri, şafak",
+   "karsilik": "tan yerinin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, meleklerin ve Rûh'un inişinden söz eden önceki ayetin ardından, o gecenin niteliğini bir kelimeyle özetleyerek biter: esenlik. 'Selâm' kökü, güvenlik ve huzuru anlatır.",
+  "Bu esenliğin süresi net bir sınırla belirtilir: tan yeri ağarana kadar. Sure, incir ve zeytine yeminle başlayan başka bir sureden farklı olarak, doğrudan bir müjdeyle, huzur bildirimiyle kapanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "97:4",
+   "meal": "Melekler ve Rûh, o gecede Rablerinin izniyle her iş için iner.",
+   "baglanti": "Bu ayet, bir önceki ayette anlatılan inişin sonucunu bildirir: o gece, meleklerin inişiyle birlikte esenlik dolu geçer."
+  },
+  {
+   "ref": "81:18",
+   "meal": "Nefeslenirken sabaha andolsun.",
+   "baglanti": "Tekvîr suresindeki bu ayet de şafak vaktine, sabaha işaret eder; Kadir suresindeki 'tan yeri ağarana kadar' ifadesiyle aynı zaman dilimine gönderme yapar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kadir gecesinin şafağa kadar esenlik dolu geçmesidir; bu, o geceye özgü bir niteliktir.",
+  "Bugüne taşınabilecek genel ders, esenliğin ve huzurun sadece dış şartlarla değil, içsel bir hâlle de ilgili olduğudur. Bir gecenin veya bir günün huzurlu geçmesi için niyet ve dikkat önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Huzurlu bir gece planla",
+   "aciklama": "Bu gece yatmadan önce ekranları bırakıp sessiz bir huzur anı yarat."
+  },
+  {
+   "baslik": "Esenlik dile",
+   "aciklama": "Bugün bir yakınına kısaca 'selâm' vererek esenlik dile."
+  },
+  {
+   "baslik": "Sabahı güzel karşıla",
+   "aciklama": "Yarın sabah uyandığında ilk işin kısa bir şükür cümlesi söylemek olsun."
+  }
+ ],
+ "bugununAdimi": "Bu gece yatmadan önce ekranları bırakıp birkaç dakika sessiz bir huzur anı yarat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=97&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/97/5"
+  }
+ ]
+}

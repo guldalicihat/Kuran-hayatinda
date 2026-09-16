@@ -1,0 +1,89 @@
+{
+ "sure": 102,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Hayır, öyle değil! Kesin bir bilgiyle bilseydiniz...",
+ "mealNotu": "'Yakîn' kökü (يقن) kesinliği, şüphenin ortadan kalkmasını anlatır. Cümle Arapçada yarım bırakılır; bu, ifadenin dehşetini artıran bir üsluptur.",
+ "kokler": [
+  {
+   "kelime": "كَلَّا",
+   "okunus": "kellâ",
+   "kok": "—",
+   "kokAnlam": "caydırma, hayır",
+   "karsilik": "hayır, öyle değil"
+  },
+  {
+   "kelime": "لَوْ",
+   "okunus": "lev",
+   "kok": "—",
+   "kokAnlam": "şart (eğer, -seydi)",
+   "karsilik": "-seydiniz"
+  },
+  {
+   "kelime": "تَعْلَمُونَ",
+   "okunus": "ta'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilseydiniz"
+  },
+  {
+   "kelime": "عِلْمَ",
+   "okunus": "ilme",
+   "kok": "علم",
+   "kokAnlam": "bilme, bilgi",
+   "karsilik": "bilgiyle"
+  },
+  {
+   "kelime": "ٱلْيَقِينِ",
+   "okunus": "elyekîni",
+   "kok": "يقن",
+   "kokAnlam": "kesinlik",
+   "karsilik": "kesin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Uyarı burada bir üst seviyeye taşınır: sadece bilmek değil, 'ilme'l-yakîn' yani şüphesiz, kesin bir bilgiyle bilmek. 'Yakîn' kökü kesinliği, şüphenin ortadan kalkmasını anlatır.",
+  "Cümle burada yarım bırakılır -şart cümlesinin cevabı zikredilmez-; bu, Arapça üslupta ifadenin dehşetini artıran bir tekniktir. Okuyucu, cevabı kendi zihninde tamamlamaya davet edilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "102:7",
+   "meal": "Sonra onu, kesin bir gözle mutlaka göreceksiniz.",
+   "baglanti": "Buradaki 'kesin bilgi' vurgusu, birkaç ayet sonra 'kesin görme' (ayne'l-yakîn) ifadesiyle daha da somutlaşır."
+  },
+  {
+   "ref": "56:95",
+   "meal": "Şüphesiz bu, kesin gerçeğin ta kendisidir.",
+   "baglanti": "Vâkıa suresi de aynı 'yakîn' kökünü kullanarak anlatılanın kesinliğini vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, kesin bilgiyle bilmenin insan davranışını nasıl değiştireceğine dair bir vurgudur; bu doğrudan bir eylem tarif etmez.",
+  "Bir gerçeği yüzeysel bilmekle ona kesin biçimde inanmak arasında fark vardır. İnsan, ölümün kesinliğini yüzeysel değil derinlemesine kavrasa, önceliklerini büyük ölçüde değiştirebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kesinliği hisset",
+   "aciklama": "Bugün bildiğin ama içselleştirmediğin bir gerçeği -ölüm, hesap- bir kez derinlemesine düşün."
+  },
+  {
+   "baslik": "Yüzeysellikten çık",
+   "aciklama": "Bugün bir konuda 'biliyorum' demekle yetinmeyip gerçekten üzerinde dur."
+  },
+  {
+   "baslik": "Emin ol",
+   "aciklama": "Bugün şüpheli bir konuda araştırma yaparak kesinliğe ulaşmaya çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün, bildiğin ama yüzeysel kaldığın bir gerçeği derinlemesine düşünüp bir davranışına yansıt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=102&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/102/5"
+  }
+ ]
+}

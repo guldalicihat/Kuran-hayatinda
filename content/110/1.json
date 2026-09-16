@@ -1,0 +1,89 @@
+{
+ "sure": 110,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Allah'ın yardımı ve fetih geldiğinde,",
+ "mealNotu": "'Fetih' kökü açmayı anlatır; burada çoğunlukla Mekke'nin fethi olarak anlaşılır. Ayet bir zaman cümlesinin başlangıcıdır, sonucu 2. ve 3. ayetlerde gelir.",
+ "kokler": [
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "جَآءَ",
+   "okunus": "câe",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "geldiğinde"
+  },
+  {
+   "kelime": "نَصْرُ",
+   "okunus": "nasru",
+   "kok": "نصر",
+   "kokAnlam": "yardım, zafer",
+   "karsilik": "yardımı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَٱلْفَتْحُ",
+   "okunus": "vel fethu",
+   "kok": "فتح",
+   "kokAnlam": "açma, fetih",
+   "karsilik": "ve fetih"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, Medine döneminin sonlarına doğru inmiş kısa bir suredir ve Allah'ın yardımı ile fethin geleceği bir anı işaret ederek başlar. Klasik tefsir bunu Mekke'nin fethiyle ilişkilendirir.",
+  "Ayet bir zaman cümlesinin ilk parçasıdır; asıl mesaj, bu büyük olayın gerçekleşmesinin ardından nasıl davranılması gerektiğini anlatan 2. ve 3. ayetlerde tamamlanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "48:1",
+   "meal": "Şüphesiz biz sana apaçık bir fetih verdik.",
+   "baglanti": "Fetih 1, Nasr suresindeki 'fetih' kelimesini doğrudan bir vaat olarak sunar; iki sure aynı gerçeği farklı zamanlarda ele alır."
+  },
+  {
+   "ref": "61:13",
+   "meal": "Allah'tan yardım ve yakın bir fetih; müminleri müjdele.",
+   "baglanti": "Saff 13, 'nasr' (yardım) ve 'fetih' kelimelerini birlikte kullanarak Nasr suresindeki müjdeyi tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, büyük bir yardımın ve zaferin gelişidir.",
+  "Bugüne taşınabilecek ders, büyük bir başarıya veya sevindirici bir habere ulaştığında bunun ardından nasıl davranılması gerektiğini önceden düşünmektir; sure bu davranışı sonraki ayetlerde öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir başarını hatırla",
+   "aciklama": "Bugün geçmişte yaşadığın bir başarıyı hatırla ve o günkü tavrını değerlendir."
+  },
+  {
+   "baslik": "Bekleyişini sabırla sürdür",
+   "aciklama": "Umduğun bir sonucu beklerken bugün sabrını koru."
+  },
+  {
+   "baslik": "Sureyi oku",
+   "aciklama": "Nasr suresini bugün kısa mealiyle birlikte oku."
+  }
+ ],
+ "bugununAdimi": "Bugün Nasr suresini oku ve bir başarı anında nasıl davranman gerektiğini not al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=110&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/110/1"
+  }
+ ]
+}

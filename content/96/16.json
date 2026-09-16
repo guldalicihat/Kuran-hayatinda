@@ -1,0 +1,75 @@
+{
+ "sure": 96,
+ "ayet": 16,
+ "durum": "taslak",
+ "meal": "O yalancı, günahkâr bir perçemdir.",
+ "mealNotu": "Ayet, bir önceki ayetteki 'perçem'i iki sıfatla niteler: yalancı ve günahkâr. 'Hatî'e' kökü hata etmeyi, bilerek günah işlemeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "نَاصِيَةٍ",
+   "okunus": "nâsıyetin",
+   "kok": "نصي",
+   "kokAnlam": "alın, perçem",
+   "karsilik": "bir perçem"
+  },
+  {
+   "kelime": "كَٰذِبَةٍ",
+   "okunus": "kâzibetin",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalancı"
+  },
+  {
+   "kelime": "خَاطِئَةٍ",
+   "okunus": "hâtıetin",
+   "kok": "خطأ",
+   "kokAnlam": "hata etme, bilerek günah işleme",
+   "karsilik": "günahkâr"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayette anılan perçemi iki sıfatla tanımlar: yalancı ve günahkâr. Nitelemenin perçeme değil, o perçemin sahibine ait olduğu açıktır; bu, kişinin sıfatlarının bedenine yansıtıldığı bir anlatım biçimidir.",
+  "Ayet, sözle ve davranışla süregelen bir yalan ve günah alışkanlığına işaret eder. Bir sonraki ayette, bu kişinin tehdide verdiği tepki, kendi çevresini çağırmaya kalkışması anlatılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "96:15",
+   "meal": "Hayır! Eğer vazgeçmezse, andolsun onu perçeminden yakalayıp sürükleyeceğiz.",
+   "baglanti": "Bu ayet, bir önceki ayette anılan tehdidin hedefini tanımlar: yalancı, günahkâr bir perçem."
+  },
+  {
+   "ref": "11:56",
+   "meal": "Hiçbir canlı yoktur ki Allah onun perçeminden tutmuş olmasın.",
+   "baglanti": "Hûd suresindeki bu ayet aynı 'nâsıye' kökünü taşır; bütün canlıların Allah'ın kontrolünde olduğu, buradaki tehdidin de bu kontrolden geldiğini hatırlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, yalan söyleme ve bilerek günah işleme alışkanlığının ağır bir şekilde nitelendirilmesidir.",
+  "Bugüne taşınabilecek ders, yalanın ve bile bile yapılan hatanın küçümsenecek bir şey olmadığıdır. Küçük görülen bir yalan bile, karakteri zamanla bu sıfatlarla tanımlanır hâle getirebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğruyu söyle",
+   "aciklama": "Bugün küçük görünen bir konuda bile yalana başvurmadan doğruyu söyle."
+  },
+  {
+   "baslik": "Bile bile hatadan kaçın",
+   "aciklama": "Yanlış olduğunu bildiğin küçük bir davranışı bugün tekrarlama."
+  },
+  {
+   "baslik": "Sözünü tart",
+   "aciklama": "Bugün söylediğin bir sözün doğruluğunu, söylemeden önce bir kez kontrol et."
+  }
+ ],
+ "bugununAdimi": "Bugün küçük görünen bir konuda bile yalana başvurmadan doğruyu söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=16"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/96/16"
+  }
+ ]
+}

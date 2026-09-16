@@ -1,0 +1,75 @@
+{
+ "sure": 94,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Ve senden yükünü indirmedik mi?",
+ "mealNotu": "Fiil bir önceki ayetteki olumsuz soru kalıbına 've' ile bağlıdır; bu yüzden meal aynı soru tonunu taşır. 'Vizr' kökü sırtta taşınan ağır yükü ve mecazen günahı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَوَضَعْنَا",
+   "okunus": "ve veda'nâ",
+   "kok": "وضع",
+   "kokAnlam": "koyma, bırakma; indirme",
+   "karsilik": "indirdik"
+  },
+  {
+   "kelime": "عَنكَ",
+   "okunus": "anke",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) senden",
+   "karsilik": "senden"
+  },
+  {
+   "kelime": "وِزْرَكَ",
+   "okunus": "vizrake",
+   "kok": "وزر",
+   "kokAnlam": "ağır yük; günah yükü",
+   "karsilik": "yükünü"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayetteki soru kalıbının devamıdır; aynı 'açmadık mı' sorusunun kapsamına girer. 'Vizr' kökü, sırtta taşınan ağır bir yükü, mecazen de günahı veya sorumluluğu anlatır.",
+  "Ayet, Peygamber'in risalet göreviyle birlikte taşıdığı ağır sorumluluğun hafifletildiğini bildirir. Bir sonraki ayet, bu yükün sırtı nasıl ağırlaştırdığını tasvir ederek aynı olayı tamamlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "94:3",
+   "meal": "O, senin sırtını çatırdatıyordu.",
+   "baglanti": "Bu ayetteki yük, bir sonraki ayette sırtı ağırlaştıran bir yük olarak somutlaşır; iki ayet aynı olayı anlatır."
+  },
+  {
+   "ref": "6:164",
+   "meal": "Hiç kimse başkasının günah yükünü yüklenmez.",
+   "baglanti": "'Vizr' kökü burada da yük anlamında geçer; genel ilke olarak herkes kendi yükünden sorumludur, İnşirâh'ta ise Allah'ın Peygamber'in özel yükünü kaldırdığı bildirilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in taşıdığı özel bir sorumluluk yükünün kaldırılmasıdır.",
+  "Buradan çıkarılabilecek genel ders şudur: herkesin taşıdığı bir yük vardır ve bu yük zamanla, bir destekle veya bir hatırlatmayla hafifleyebilir. Bu, yükü inkâr etmek değil, hafifleme umudunu diri tutmaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Taşıdığın yükü adlandır",
+   "aciklama": "Bugün seni yoran bir sorumluluğu tek cümleyle tanımla; adını koymak onu hafifletmenin ilk adımıdır."
+  },
+  {
+   "baslik": "Yükü paylaş",
+   "aciklama": "Taşıdığın bir sorumluluğun bir kısmını bugün birine devret veya yardım iste."
+  },
+  {
+   "baslik": "Hafiflemeyi kaydet",
+   "aciklama": "Geçmişte hafiflediğini hissettiğin bir dönemi hatırla ve bunu bir yere not et."
+  }
+ ],
+ "bugununAdimi": "Bugün seni yoran bir yükü tek cümleyle yaz ve bunun bir kısmını kiminle paylaşabileceğini belirle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=94&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/94/2"
+  }
+ ]
+}

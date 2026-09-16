@@ -1,0 +1,96 @@
+{
+ "sure": 99,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "O gün insanlar, amellerinin kendilerine gösterilmesi için bölük bölük çıkarlar.",
+ "mealNotu": "'Sudur' kökü (صدر) bir yerden geri dönüp çıkmayı anlatır; 'eştâten' (bölük bölük) kökü (شتت) dağınıklığı, ayrı ayrı olmayı taşır.",
+ "kokler": [
+  {
+   "kelime": "يَوْمَئِذٍ",
+   "okunus": "yevmeizin",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "يَصْدُرُ",
+   "okunus": "yasdüru",
+   "kok": "صدر",
+   "kokAnlam": "geri dönüp çıkma",
+   "karsilik": "çıkarlar"
+  },
+  {
+   "kelime": "ٱلنَّاسُ",
+   "okunus": "ennâsü",
+   "kok": "أنس",
+   "kokAnlam": "ünsiyet; insanlar",
+   "karsilik": "insanlar"
+  },
+  {
+   "kelime": "أَشْتَاتًا",
+   "okunus": "eştâten",
+   "kok": "شتت",
+   "kokAnlam": "dağınıklık, ayrı ayrı olma",
+   "karsilik": "bölük bölük"
+  },
+  {
+   "kelime": "لِّيُرَوْا۟",
+   "okunus": "liyürav",
+   "kok": "رأي",
+   "kokAnlam": "görme, gösterilme",
+   "karsilik": "gösterilmeleri için"
+  },
+  {
+   "kelime": "أَعْمَٰلَهُمْ",
+   "okunus": "a'mâlehüm",
+   "kok": "عمل",
+   "kokAnlam": "yapma, iş",
+   "karsilik": "amelleri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, hesap gününde insanların toplu hâlde değil, bölük bölük -farklı gruplar, farklı durumlar hâlinde- ortaya çıkacağını bildirir. 'Sudur' kökü bir yerden geri dönüp çıkmayı anlatır; burada mahşer yerinden ayrılışı ifade eder.",
+  "Bu çıkışın amacı amellerin gösterilmesidir. Klasik tefsir bu ayeti, herkesin kendi amel defteriyle, kendi durumuna göre ayrılacağı bir sahne olarak açıklar; iyiler ve kötüler bu noktada birbirinden ayrılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:59",
+   "meal": "Ey suçlular! Bugün ayrılın.",
+   "baglanti": "Yâsîn suresinde de hesap gününde insanların ayrılması emredilir; Zilzal'deki 'bölük bölük çıkma' bu ayrılışın görüntüsüdür."
+  },
+  {
+   "ref": "99:7",
+   "meal": "Kim zerre miktarı hayır işlerse onu görür.",
+   "baglanti": "Bu ayet, bir önceki ayette sözü edilen 'amellerin gösterilmesi'nin nasıl gerçekleştiğini açıklar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu kıyamet günündeki hesap sahnesidir; bugünkü bir eylemi doğrudan tarif etmez.",
+  "Ancak her insanın kendi amelinden sorumlu olduğu ve sonunda kendi durumuyla karşılaşacağı fikri, bugünden hesap bilinciyle yaşamayı teşvik eder. Başkasının amelinin değil, kendi amelinin sorumluluğunu taşımak önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Amel defterini düşün",
+   "aciklama": "Bugün yaptığın işlerin bir gün karşına çıkacağını hatırlayarak seçim yap."
+  },
+  {
+   "baslik": "Kendi sorumluluğuna odaklan",
+   "aciklama": "Bugün başkasının hatasını değil, kendi eksiğini düzeltmeye odaklan."
+  },
+  {
+   "baslik": "Gün sonu değerlendirmesi yap",
+   "aciklama": "Bugün akşam, o gün yaptığın işleri kısaca gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün yaptığın işlerden birini seç ve 'Bunu bu şekilde tekrar yapar mıyım?' diye sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=99&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/99/6"
+  }
+ ]
+}

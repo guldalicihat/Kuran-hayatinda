@@ -1,0 +1,75 @@
+{
+ "sure": 96,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Ya da takvayı emrediyorsa?",
+ "mealNotu": "'Emr' kökü emretmeyi, 'vikaye' kökünden gelen 'takvâ' korunma ve sakınmayı anlatır. Bu ayet, bir önceki ayetteki soruyu ikinci bir ihtimalle tamamlar.",
+ "kokler": [
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "أَمَرَ",
+   "okunus": "emera",
+   "kok": "أمر",
+   "kokAnlam": "emretme, buyurma",
+   "karsilik": "emrediyorsa"
+  },
+  {
+   "kelime": "بِٱلتَّقْوَىٰٓ",
+   "okunus": "bit tekvâ",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "takvayı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayetteki soruyu ikinci bir ihtimalle tamamlar: engellenen kişi doğru yolda olmakla kalmayıp başkalarını da takvaya çağırıyor olabilir. 'Takvâ' kökü sakınma ve korunmayı anlatır.",
+  "İki ayet birlikte, engelleyici kişinin ne kadar temelsiz bir tutum içinde olduğunu gösterir: hem kendisi doğru yolda olan hem de başkalarını iyiliğe çağıran bir kişiyi engellemeye çalışmaktadır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "96:11",
+   "meal": "Ne dersin, ya o doğru yol üzerindeyse?",
+   "baglanti": "Bu ayet, bir önceki ayetteki soruyu ikinci bir ihtimalle tamamlar; engellenen kişi hem doğru yolda olabilir hem de başkalarını iyiliğe çağırıyor olabilir."
+  },
+  {
+   "ref": "2:197",
+   "meal": "Azık edinin; en hayırlı azık takvadır.",
+   "baglanti": "Bakara suresindeki bu ayet aynı 'vikaye/takvâ' kökünü taşır; takvanın değeri burada da vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, başkalarını iyiliğe çağırmanın kıymetli bir davranış olduğudur.",
+  "Bugüne taşınabilecek ders, iyiliği tavsiye eden birine engel olmak yerine onu desteklemektir. Bir kişinin başkalarını doğruya çağırma çabası, kolayca göz ardı edilmemesi gereken bir değerdir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İyiliği tavsiye et",
+   "aciklama": "Bugün birine, ona faydalı olacak küçük bir tavsiyede bulun."
+  },
+  {
+   "baslik": "Tavsiyeye açık ol",
+   "aciklama": "Bugün sana verilen bir iyi niyetli tavsiyeyi savunmaya geçmeden dinle."
+  },
+  {
+   "baslik": "Destekleyici ol",
+   "aciklama": "Çevrende iyiliği tavsiye eden birini bugün sözle destekle."
+  }
+ ],
+ "bugununAdimi": "Bugün birine, ona gerçekten faydalı olacak küçük bir tavsiyede bulun.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/96/12"
+  }
+ ]
+}

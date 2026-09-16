@@ -1,0 +1,68 @@
+{
+ "sure": 101,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Nedir o Kâria?",
+ "mealNotu": "Bu soru kalıbı Kur'an'da önemli, kavranması güç konularda merak uyandırmak için kullanılır.",
+ "kokler": [
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "soru edatı",
+   "karsilik": "nedir"
+  },
+  {
+   "kelime": "ٱلْقَارِعَةُ",
+   "okunus": "elkâriatü",
+   "kok": "قرع",
+   "kokAnlam": "vurma, çarpma",
+   "karsilik": "o Kâria"
+  }
+ ],
+ "neAnlatiyor": [
+  "İlk ayetteki isim burada bir soruyla pekiştirilir: 'Nedir o Kâria?' Bu soru kalıbı Kur'an'da önemli, kavranması güç konularda merak uyandırmak için kullanılır.",
+  "Soru, cevabın hemen verilmeyip bir sonraki ayette daha da güçlü bir soruyla derinleştirilmesine zemin hazırlar. Bu üslup, kıyametin insan aklının alışık olduğu ölçülerin ötesinde olduğunu hissettirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "101:3",
+   "meal": "Bilir misin, nedir o Kâria?",
+   "baglanti": "Bu soru, bir sonraki ayette daha güçlü bir kalıpla tekrarlanarak konunun önemi katlanır."
+  },
+  {
+   "ref": "101:1",
+   "meal": "Kâria (çarpan felaket)!",
+   "baglanti": "Bu ayetteki soru, bir önceki ayette adı geçen Kâria'yı konu edinir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu kıyametin tanımlanamayacak kadar büyük olduğunu vurgulamaktır; bu bir soru biçiminde sunulur.",
+  "Bu üslup, bazı gerçeklerin basit bir cümleyle özetlenemeyeceğini hatırlatır. İnsan da hayatındaki büyük soruları -ölüm, amaç, sorumluluk- hafife almadan, ciddiyetle ele almalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Büyük soruyu sor",
+   "aciklama": "Bugün 'Bu hayatın amacı nedir?' sorusuna birkaç dakika ayır."
+  },
+  {
+   "baslik": "Merakını canlı tut",
+   "aciklama": "Bugün dini bir konuda merak ettiğin bir soruyu araştır."
+  },
+  {
+   "baslik": "Ciddiyetle yaklaş",
+   "aciklama": "Bugün önemli bir konuyu, geçiştirmeden ciddiyetle ele al."
+  }
+ ],
+ "bugununAdimi": "Bugün üzerinde düşünmekten kaçındığın büyük bir soruyu yazıp üzerine kısaca düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=101&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/101/2"
+  }
+ ]
+}

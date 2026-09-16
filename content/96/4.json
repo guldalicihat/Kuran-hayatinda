@@ -1,0 +1,75 @@
+{
+ "sure": 96,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "O, kalemle öğretendir.",
+ "mealNotu": "'Allem' kökü öğretmeyi, 'kalem' ise yazı aracını anlatır. Ayet, yazının ve öğretimin Allah'tan gelen bir nimet olduğunu bildirir.",
+ "kokler": [
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ki O",
+   "karsilik": "ki O"
+  },
+  {
+   "kelime": "عَلَّمَ",
+   "okunus": "alleme",
+   "kok": "علم",
+   "kokAnlam": "öğretme, bilgi verme",
+   "karsilik": "öğretti"
+  },
+  {
+   "kelime": "بِٱلْقَلَمِ",
+   "okunus": "bil kalemi",
+   "kok": "قلم",
+   "kokAnlam": "kalem, yazı aracı",
+   "karsilik": "kalemle"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayetteki 'en cömert Rab' ifadesini somutlaştırır: bu cömertlik, kalemle öğretmede kendini gösterir. Kalem, bilginin nesilden nesile aktarılmasını sağlayan bir araçtır.",
+  "Ayet, yazının insanlık tarihindeki önemine kısa ve öz bir işaret taşır. Bir sonraki ayet, bu öğretimin somut bir örneğini verir: insana bilmediğinin öğretilmesi."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:1",
+   "meal": "Nûn. Kaleme ve satır satır yazdıklarına andolsun.",
+   "baglanti": "Kalem suresi de kaleme yemin ederek başlar; aynı 'kalem' kökü iki surede de öne çıkar."
+  },
+  {
+   "ref": "96:5",
+   "meal": "İnsana bilmediği şeyi öğretti.",
+   "baglanti": "Bu ayet, kalemle öğretmenin somut bir örneğini bir sonraki ayette bulur: insana bilmediği şeyin öğretilmesi."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, yazı ve kalem yoluyla öğretimdir; bu, bilginin kalıcı hâle gelmesini sağlayan bir araçtır.",
+  "Bugüne taşınabilecek ders, yazmanın ve not almanın öğrenmeyi kalıcı kıldığıdır. Sözlü bilgi unutulabilir; yazılı bilgi kalır ve başkalarına aktarılabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir not tut",
+   "aciklama": "Bugün öğrendiğin veya düşündüğün önemli bir şeyi kâğıda ya da telefona yaz."
+  },
+  {
+   "baslik": "El yazısı dene",
+   "aciklama": "Bugün kısa bir metni bilgisayar yerine elle yazarak dene."
+  },
+  {
+   "baslik": "Bilgini kaydet",
+   "aciklama": "Bir işi nasıl yaptığını, başkasına faydalı olacak şekilde yazılı hâle getir."
+  }
+ ],
+ "bugununAdimi": "Bugün öğrendiğin önemli bir şeyi yazıya dök ve saklayacağın bir yere kaydet.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/96/4"
+  }
+ ]
+}

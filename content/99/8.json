@@ -1,0 +1,96 @@
+{
+ "sure": 99,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "Kim de zerre miktarı kötülük işlerse onu görür.",
+ "mealNotu": "Ayet, bir öncekinin tam karşıtı olarak aynı 'zerre' ölçüsünü kötülük için kullanır; adaletin eksiksiz işlediğini gösterir.",
+ "kokler": [
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "kim ki (şart)",
+   "karsilik": "kim de"
+  },
+  {
+   "kelime": "يَعْمَلْ",
+   "okunus": "ya'mel",
+   "kok": "عمل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "işlerse"
+  },
+  {
+   "kelime": "مِثْقَالَ",
+   "okunus": "miskâle",
+   "kok": "ثقل",
+   "kokAnlam": "ağırlık",
+   "karsilik": "miktarı"
+  },
+  {
+   "kelime": "ذَرَّةٍ",
+   "okunus": "zerratin",
+   "kok": "ذرر",
+   "kokAnlam": "zerre, en küçük parça",
+   "karsilik": "zerre"
+  },
+  {
+   "kelime": "شَرًّا",
+   "okunus": "şerran",
+   "kok": "شرر",
+   "kokAnlam": "kötülük",
+   "karsilik": "kötülük"
+  },
+  {
+   "kelime": "يَرَهُۥ",
+   "okunus": "yerahû",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "onu görür"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, bir önceki ayetin karşıtıyla biter: en küçük kötülük de görülür, kaybolmaz. Bu iki ayet birlikte, adaletin hem iyilikte hem kötülükte eksiksiz işlediğini gösterir.",
+  "Klasik tefsir, bu iki ayeti surenin özeti olarak görür: kıyamette hiçbir amel -iyi ya da kötü, büyük ya da küçük- karşılıksız kalmaz. Bu, sureyi başladığı kozmik sahneden insanın bireysel sorumluluğuna bağlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "99:7",
+   "meal": "Kim zerre miktarı hayır işlerse onu görür.",
+   "baglanti": "Bu ayetin tam karşıtıdır; iyilik ve kötülük aynı kesin ölçüyle kayıt altına alınır."
+  },
+  {
+   "ref": "4:40",
+   "meal": "Şüphesiz Allah zerre kadar haksızlık etmez; iyilik olursa onu kat kat artırır ve kendinden büyük bir ödül verir.",
+   "baglanti": "Nisâ suresi de aynı 'zerre' ölçüsünü kullanır; Allah'ın kötülüğü tam, iyiliği ise fazlasıyla karşıladığını ekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu ahiretteki hesaptır; ilkesi bugünden geçerlidir: küçük görülen bir kötülük de önemsizleştirilemez.",
+  "Günlük hayatta 'bu kadar küçük bir hata önemli değil' düşüncesi yanıltıcıdır. Küçük bir yalan, kırıcı bir söz, ihmal edilen bir hak; hepsi kayıt altındadır. Bu farkındalık, kişiyi küçük hatalarda bile dikkatli olmaya yöneltir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçük hatayı küçümseme",
+   "aciklama": "Bugün alışkanlık hâline gelmiş küçük bir kusurunu fark et ve düzeltmeye başla."
+  },
+  {
+   "baslik": "Söz ve davranışını tart",
+   "aciklama": "Bugün söyleyeceğin bir sözü, kırıcı olup olmadığını düşünerek söyle."
+  },
+  {
+   "baslik": "Telafi et",
+   "aciklama": "Bugün geçmişte yaptığın küçük bir haksızlığı telafi etmek için bir adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün, küçük gördüğün bir alışkanlığını -bir söz, bir ihmal- fark edip düzeltmeye başla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=99&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/99/8"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "sure": 96,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Engelleyeni gördün mü?",
+ "mealNotu": "'Nehy' kökü yasaklama, engellemeyi anlatır. Ayet, Mekke döneminde Peygamber'in namazını engellemeye çalışan bir kişiye işaret eder; klasik tefsir bunu genel olarak böyle açıklar, isim vermez.",
+ "kokler": [
+  {
+   "kelime": "أَرَءَيْتَ",
+   "okunus": "eraeyte",
+   "kok": "رأي",
+   "kokAnlam": "görme; ne dersin, gördün mü",
+   "karsilik": "gördün mü"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseyi ki",
+   "karsilik": "o kimseyi ki"
+  },
+  {
+   "kelime": "يَنْهَىٰ",
+   "okunus": "yenhâ",
+   "kok": "نهي",
+   "kokAnlam": "yasaklama, engelleme",
+   "karsilik": "engelliyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayetle sure, önceki genel uyarıdan somut bir olaya geçer: birinin bir kulu ibadetten alıkoymaya çalışması. 'Nehy' kökü yasaklama ve engellemeyi anlatır.",
+  "Klasik tefsir, bu ayetin Mekke döneminde Hz. Peygamber'in namazını engellemeye çalışan bir kişiye işaret ettiğini aktarır; ayet ismini belirtmez. Bir sonraki ayet, engellenen kişinin ne yaptığını açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "96:10",
+   "meal": "Bir kulu, namaz kılarken.",
+   "baglanti": "Bu ayet, engellenen kişinin kim olduğunu ve neyin engellendiğini açıklar: namaz kılan bir kul."
+  },
+  {
+   "ref": "8:34",
+   "meal": "Onlar Mescid-i Harâm'dan alıkoyarken, Allah onlara nasıl azap etmesin?",
+   "baglanti": "Enfâl suresindeki bu ayet de ibadeti engellemenin ağır bir suç olduğunu anlatır; aynı tema burada da işlenir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, birinin bir başkasını ibadetten alıkoymaya çalışmasıdır; bu, özel bir tarihî olaya işaret eder.",
+  "Buradan çıkarılabilecek genel ders, başkalarının ibadet ve inanç özgürlüğüne saygı göstermektir. Kimseyi, dinî bir görevini yerine getirmekten alıkoymaya çalışmak, bu ayette kınanan bir davranıştır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Başkasının ibadetine saygı göster",
+   "aciklama": "Bugün biri ibadet ederken onu rahatsız etmeden, alan tanı."
+  },
+  {
+   "baslik": "Engelleyici olma",
+   "aciklama": "Bugün birinin iyi bir işi yapmasına engel olabilecek bir tavrını fark edip düzelt."
+  },
+  {
+   "baslik": "Özgürlüğü destekle",
+   "aciklama": "Bir arkadaşının ibadet veya iyilik yapma isteğini bugün destekle."
+  }
+ ],
+ "bugununAdimi": "Bugün ibadet eden veya iyilik yapmak isteyen birine engel olmadan alan tanı.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/96/9"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sure": 96,
+ "ayet": 13,
+ "durum": "taslak",
+ "meal": "Ne dersin, ya [kendisi] yalanlayıp yüz çevirdiyse?",
+ "mealNotu": "'Kezb' kökü yalanlamayı, 'velâ' kökünden gelen 'tevellâ' yüz çevirmeyi anlatır. Özne ayette açık isimle belirtilmez; bağlamdan, ayet 9'da anılan engelleyici kişiye işaret ettiği anlaşılır, bu yüzden '[kendisi]' köşeli parantez içindedir.",
+ "kokler": [
+  {
+   "kelime": "أَرَءَيْتَ",
+   "okunus": "eraeyte",
+   "kok": "رأي",
+   "kokAnlam": "görme; ne dersin, düşün bakalım",
+   "karsilik": "ne dersin"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "ya"
+  },
+  {
+   "kelime": "كَذَّبَ",
+   "okunus": "kezzebe",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanladıysa"
+  },
+  {
+   "kelime": "وَتَوَلَّىٰٓ",
+   "okunus": "ve tevellâ",
+   "kok": "ولي",
+   "kokAnlam": "yüz çevirme, sırt dönme",
+   "karsilik": "ve yüz çevirdiyse"
+  }
+ ],
+ "neAnlatiyor": [
+  "Soru, bu ayette yönünü değiştirir: artık namaz kılan kula değil, onu engelleyen kişinin kendi tutumuna bakılır. 'Kezb' ve 'tevellâ' kökleri, yalanlama ve gerçekten yüz çevirmeyi anlatır.",
+  "Bu ihtimal, önceki iki ayette sorulan 'ya doğru yoldaysa, ya takvayı emrediyorsa' sorularının karşıtıdır. Ayet, engelleyici kişinin durumunu netleştirir: o, yalanlayan ve yüz çevirendir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "75:32",
+   "meal": "Ne doğruladı ne namaz kıldı; fakat yalanladı ve yüz çevirdi.",
+   "baglanti": "Kıyâmet suresindeki bu ayet aynı 'kezzebe ve tevellâ' ifadesini neredeyse birebir taşır; iki surede de aynı tutum kınanır."
+  },
+  {
+   "ref": "96:9",
+   "meal": "Engelleyeni gördün mü?",
+   "baglanti": "Bu ayet, sure başında tanıtılan engelleyici kişinin tutumunu netleştirir: yalanlama ve yüz çevirme."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, gerçeği yalanlayıp ondan yüz çevirmenin kınanan bir tutum olduğudur.",
+  "Bugüne taşınabilecek ders, bir gerçeği görmezden gelmenin veya ona sırt çevirmenin kalıcı bir çözüm olmadığıdır. Yüzleşmek, yalanlamaktan daha zor ama daha sağlam bir yoldur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir gerçekle yüzleş",
+   "aciklama": "Bugün görmezden geldiğin bir gerçeği kabul edip üzerine düşün."
+  },
+  {
+   "baslik": "Sırt çevirme",
+   "aciklama": "Zor bir konuşmadan kaçmak yerine bugün onu göze al."
+  },
+  {
+   "baslik": "Dürüstlüğünü sına",
+   "aciklama": "Bugün kendine karşı dürüst olup olmadığını bir konuda gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün görmezden geldiğin bir gerçeği kabul edip üzerine bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=13"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/96/13"
+  }
+ ]
+}

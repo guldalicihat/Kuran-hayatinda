@@ -1,0 +1,82 @@
+{
+ "sure": 94,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Demek ki güçlükle beraber bir kolaylık vardır.",
+ "mealNotu": "'Ma' edatı 'ile beraber' anlamındadır; zorluk ve kolaylığın aynı anda, iç içe bulunduğunu vurgular. 'Usr' ve 'yüsr' kökleri sırasıyla darlık/zorlanma ve kolaylık/rahatlığı anlatır.",
+ "kokler": [
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) demek ki, şüphesiz",
+   "karsilik": "demek ki"
+  },
+  {
+   "kelime": "مَعَ",
+   "okunus": "mea",
+   "kok": "—",
+   "kokAnlam": "(yer/beraberlik) ile beraber",
+   "karsilik": "ile beraber"
+  },
+  {
+   "kelime": "ٱلْعُسْرِ",
+   "okunus": "el'usri",
+   "kok": "عسر",
+   "kokAnlam": "darlık, zorlanma",
+   "karsilik": "güçlükle"
+  },
+  {
+   "kelime": "يُسْرًا",
+   "okunus": "yüsran",
+   "kok": "يسر",
+   "kokAnlam": "kolaylık, rahatlık",
+   "karsilik": "bir kolaylık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetlerde anlatılan ferahlatma ve yük kaldırma olaylarından sonra genel bir ilke koyar. 'Ma' edatı, güçlük ile kolaylığın art arda değil, aynı anda, iç içe bulunduğunu belirtir.",
+  "Ayet aynı sözcüklerle bir sonraki ayette tekrar edilir; bu tekrar, mesajı pekiştirir. Burada vurgu, zorluğun kalıcı olmadığı değil, kolaylığın zorlukla birlikte, ondan ayrılmaz biçimde var olduğudur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "94:6",
+   "meal": "Gerçekten güçlükle beraber bir kolaylık vardır.",
+   "baglanti": "Aynı cümle bir sonraki ayette tekit için tekrar edilir; iki ayet birlikte mesajı pekiştirir."
+  },
+  {
+   "ref": "2:286",
+   "meal": "Allah hiç kimseye gücünün üstünde bir yük yüklemez.",
+   "baglanti": "Zorlukla kolaylığın iç içeliği, kişinin gücünü aşan bir yükle karşılaşmayacağı ilkesiyle örtüşür; ikisi de dengeyi vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, genel bir ilke koyar: zorluk anları, kolaylığı da beraberinde taşır; bu, belirli bir olay değil evrensel bir kuraldır.",
+  "Bugüne taşınabilecek ders, zorlanılan bir anda çaresizliğe kapılmadan, aynı anda var olan çıkış yollarını aramaktır. Zorluk devam ederken bile küçük bir kolaylık fark edilebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zorluğun içindeki kolaylığı ara",
+   "aciklama": "Bugün karşılaştığın bir zorlukta, aynı anda var olan bir kolaylaştırıcı unsuru (bir kişi, bir araç, bir bilgi) bul."
+  },
+  {
+   "baslik": "Umutsuzluk cümlesini değiştir",
+   "aciklama": "'Bu iş imkânsız' dediğin bir anı, 'bunun bir kolay yanı olmalı' cümlesiyle değiştir."
+  },
+  {
+   "baslik": "Dengeyi hatırla",
+   "aciklama": "Zor bir günün sonunda, o günün içindeki tek bir kolaylığı yazılı olarak kaydet."
+  }
+ ],
+ "bugununAdimi": "Bugün yaşadığın bir zorlukta, aynı anda var olan bir kolaylığı bul ve yazıya dök.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=94&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/94/5"
+  }
+ ]
+}

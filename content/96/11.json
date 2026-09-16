@@ -1,0 +1,89 @@
+{
+ "sure": 96,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "Ne dersin, ya o doğru yol üzerindeyse?",
+ "mealNotu": "'Eraeyte' burada 'ne dersin' anlamında bir soru başlatıcıdır; konuşma, namaz kılan kulu engelleyen kişiye yöneltilir. 'Hüdâ' kökü doğru yolu, hidayeti anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَرَءَيْتَ",
+   "okunus": "eraeyte",
+   "kok": "رأي",
+   "kokAnlam": "görme; ne dersin, düşün bakalım",
+   "karsilik": "ne dersin"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "ya"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-ise"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "ٱلْهُدَىٰٓ",
+   "okunus": "elhüdâ",
+   "kok": "هدي",
+   "kokAnlam": "doğru yol, hidayet",
+   "karsilik": "doğru yol"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, namaz kılan kulu engelleyen kişiye yönelik somut bir sorgulamaya geçer. Bu ayet, o kişiye düşündürücü bir soru yöneltir: ya engellediği kişi aslında doğru yol üzerindeyse?",
+  "'Hüdâ' kökü doğru yolu, hidayeti anlatır. Soru, engelleyen kişinin hiç düşünmediği bir ihtimali gündeme getirir; bir sonraki ayet bu ihtimali ikinci bir soruyla genişletir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "96:12",
+   "meal": "Ya da takvayı emrediyorsa?",
+   "baglanti": "Bu ayet, aynı soru kalıbıyla devam eder; engellenen kişinin doğru yolda olma ihtimaline, başkalarını takvaya çağırma ihtimali eklenir."
+  },
+  {
+   "ref": "2:2",
+   "meal": "İşte bu kitap; onda şüphe yoktur, muttakiler için bir hidayettir.",
+   "baglanti": "Bakara suresindeki bu ayet aynı 'hüdâ' kökünü taşır; doğru yolun kaynağının Kur'an olduğu genel ilkesi burada da hatırlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir kişiyi eleştirmeden veya engellemeden önce onun haklı olma ihtimalini düşünmektir.",
+  "Bugüne taşınabilecek ders, birini yargılamadan önce durup düşünmektir. Hızlı bir tepki yerine, karşımızdakinin doğru olma ihtimalini gözden geçirmek, haksızlığı önler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yargılamadan önce düşün",
+   "aciklama": "Bugün birini eleştirmeden önce onun haklı olabileceği ihtimalini bir kez düşün."
+  },
+  {
+   "baslik": "Soru sor",
+   "aciklama": "Bir konuda hemen tepki vermek yerine, karşındakine önce bir soru sor."
+  },
+  {
+   "baslik": "Ön yargını fark et",
+   "aciklama": "Bugün birine karşı taşıdığın bir ön yargıyı fark edip sorgula."
+  }
+ ],
+ "bugununAdimi": "Bugün birini eleştirmeden önce, onun haklı olma ihtimalini bir kez düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/96/11"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sure": 100,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Şüphesiz insan, Rabbine karşı gerçekten nankördür.",
+ "mealNotu": "'Kenûd' kökü (كند) yalnız sözlü nankörlüğü değil, nimeti unutup kendi çıkarına kapanmayı da içerir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلْإِنسَٰنَ",
+   "okunus": "el'insâne",
+   "kok": "أنس",
+   "kokAnlam": "ünsiyet; insan",
+   "karsilik": "insan"
+  },
+  {
+   "kelime": "لِرَبِّهِۦ",
+   "okunus": "lirabbihî",
+   "kok": "ربب",
+   "kokAnlam": "sahiplik, terbiye etme",
+   "karsilik": "Rabbine karşı"
+  },
+  {
+   "kelime": "لَكَنُودٌ",
+   "okunus": "lekenûdün",
+   "kok": "كند",
+   "kokAnlam": "nankörlük, iyiliği örtme",
+   "karsilik": "gerçekten nankördür"
+  }
+ ],
+ "neAnlatiyor": [
+  "Beş ayetlik yemin dizisinden sonra sure asıl mesajına geçer: insan, Rabbine karşı nankördür. 'Kenûd' kökü yalnız sözlü nankörlüğü değil, nimeti unutup kendi çıkarına kapanmayı da içerir.",
+  "Klasik tefsir 'kenûd'u, nimetleri sayar ama şükretmez, musibeti sayar ama sabretmez biçiminde açıklar. Sonraki ayet bu nankörlüğün insanın kendisince de bilindiğini ekler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "100:8",
+   "meal": "Ve o, mal sevgisi için de gerçekten aşırı düşkündür.",
+   "baglanti": "Nankörlüğün somut bir görüntüsü birkaç ayet sonra verilir: mal sevgisindeki aşırılık."
+  },
+  {
+   "ref": "14:34",
+   "meal": "Allah'ın nimetini sayacak olsanız sayamazsınız. Gerçekten insan çok zalim, çok nankördür.",
+   "baglanti": "İbrahim suresindeki bu ayet de insanı benzer bir kalıpla -çok nankör- tanımlar; iki ayet aynı insan zaafına işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu insan tabiatındaki bir zaaftır: nimeti unutup şükürden uzaklaşma eğilimi.",
+  "Bu, herkesin kendinde gözlemleyebileceği bir hâldir. Bir nimete alışınca onu fark etmemek, yokluğunda ise hemen şikâyet etmek yaygın bir insan tutumudur; ayet bunu fark etmeye çağırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Nankörlüğünü fark et",
+   "aciklama": "Bugün alıştığın için fark etmediğin bir nimeti bul ve ona teşekkür et."
+  },
+  {
+   "baslik": "Şükür listesi tut",
+   "aciklama": "Bugün beş nimeti yazıp her biri için kısa bir şükür cümlesi kur."
+  },
+  {
+   "baslik": "Şikâyeti azalt",
+   "aciklama": "Bugün bir şikâyetini, aynı konudaki bir nimetle dengelemeye çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün alıştığın bir nimeti fark et ve onu kaybetmiş gibi bir kez düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=100&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/100/6"
+  }
+ ]
+}

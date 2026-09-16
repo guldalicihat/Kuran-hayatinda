@@ -1,0 +1,89 @@
+{
+ "sure": 96,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "İnsana bilmediği şeyi öğretti.",
+ "mealNotu": "Aynı 'ilm' kökü ayette hem 'öğretti' hem 'bilmiyordu' fiillerinde tekrarlanır; bu, öğrenmenin bilgisizlikten bilgiye geçiş olduğunu vurgular.",
+ "kokler": [
+  {
+   "kelime": "عَلَّمَ",
+   "okunus": "alleme",
+   "kok": "علم",
+   "kokAnlam": "öğretme, bilgi verme",
+   "karsilik": "öğretti"
+  },
+  {
+   "kelime": "ٱلْإِنسَٰنَ",
+   "okunus": "el'insâne",
+   "kok": "أنس",
+   "kokAnlam": "insan; unutkanlık, ülfet",
+   "karsilik": "insana"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi",
+   "karsilik": "-mediği"
+  },
+  {
+   "kelime": "يَعْلَمْ",
+   "okunus": "ya'lem",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "biliyordu"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki 'kalemle öğretme' ifadesinin somut bir örneğini verir: insan, hiç bilmediği şeyleri öğrenebilecek bir kapasiteyle yaratılmıştır. Aynı 'ilm' kökünün hem öğretme hem bilme fiilinde tekrarı, bu geçişi vurgular.",
+  "Ayet, insanın doğuştan sahip olmadığı bilgiyi sonradan kazanabileceğini bildirir. Bu, insanın öğrenme kapasitesinin Allah tarafından bahşedilen bir nimet olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:31",
+   "meal": "Ve Âdem'e bütün isimleri öğretti.",
+   "baglanti": "Bakara suresindeki bu ayet, insana öğretilen ilk somut örneği verir; aynı 'allem' kökü burada da geçer."
+  },
+  {
+   "ref": "96:4",
+   "meal": "O, kalemle öğretendir.",
+   "baglanti": "Bu ayet, bir önceki ayette anılan öğretme eyleminin sonucunu somutlaştırır: insan bilmediğini öğrenir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insanın öğrenme kapasitesinin bir nimet olduğudur.",
+  "Bugüne taşınabilecek ders, hiçbir şey bilmeden doğan insanın, öğrenmeye açık kaldığı sürece gelişebileceğidir. Bu, yaşın veya geçmişin öğrenmeye engel olmadığını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yeni bir şey öğren",
+   "aciklama": "Bugün hiç bilmediğin küçük bir bilgiyi veya beceriyi öğrenmeye çalış."
+  },
+  {
+   "baslik": "Bilmediğini kabul et",
+   "aciklama": "Bugün bir konuda bilmediğini fark ettiğinde, bunu itiraf edip öğrenmeye açık ol."
+  },
+  {
+   "baslik": "Birine öğret",
+   "aciklama": "Bildiğin bir şeyi bugün sabırla birine öğret."
+  }
+ ],
+ "bugununAdimi": "Bugün hiç bilmediğin küçük bir bilgiyi öğrenmeye çalış.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/96/5"
+  }
+ ]
+}

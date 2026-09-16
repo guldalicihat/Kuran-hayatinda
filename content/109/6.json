@@ -1,0 +1,82 @@
+{
+ "sure": 109,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Sizin dininiz size, benim dinim bana.",
+ "mealNotu": "Sure, önceki ayetlerdeki tekrarlanan reddin özetiyle biter; bu, zorlamayı değil, net bir ayrımı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "دِينُكُمْ",
+   "okunus": "dînüküm",
+   "kok": "دين",
+   "kokAnlam": "din",
+   "karsilik": "dininiz"
+  },
+  {
+   "kelime": "وَلِىَ",
+   "okunus": "ve liye",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ve bana",
+   "karsilik": "ve bana"
+  },
+  {
+   "kelime": "دِينِ",
+   "okunus": "dîni",
+   "kok": "دين",
+   "kokAnlam": "din",
+   "karsilik": "dinim"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, art arda gelen ret cümlelerinin ardından kısa ve kesin bir sonuç cümlesiyle kapanır: herkesin kendi dini kendine.",
+  "Bu ayet bazen 'dinde zorlama yoktur' ilkesiyle birlikte anılır; ancak burada vurgu, hoşgörüden çok net bir ayrımın ilanıdır. Klasik tefsir bunu, uzlaşma teklifine verilmiş kesin ve son bir cevap olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:256",
+   "meal": "Dinde zorlama yoktur; doğruluk sapıklıktan iyice ayrılmıştır.",
+   "baglanti": "Bakara 256, Kâfirûn'daki net ayrımı, zorlamanın olmadığı bir ilkeyle tamamlar."
+  },
+  {
+   "ref": "28:55",
+   "meal": "Bizim işlerimiz bize, sizin işleriniz size; size selam olsun, cahilleri aramayız.",
+   "baglanti": "Kasas 55, benzer bir ayrım ifadesini kullanarak müminlerin tartışmadan uzak durma tavrını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, inanç ayrımının net biçimde ilan edilmesidir.",
+  "Bugüne taşınabilecek ders, farklı inanç veya görüşteki insanlarla tartışmaya girmeden, kendi kimliğini koruyarak barış içinde yaşayabilmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Barışçıl sınır çiz",
+   "aciklama": "Bugün farklı düşünen biriyle, tartışmadan, kendi duruşunu koruyarak vedalaş."
+  },
+  {
+   "baslik": "Kimliğini koru",
+   "aciklama": "Bugün bir ortamda, kendi değerlerinden taviz vermeden uyum içinde bulunmaya çalış."
+  },
+  {
+   "baslik": "Sureyi tekrar oku",
+   "aciklama": "Kâfirûn suresini bugün baştan sona okuyup akışındaki netliği düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün Kâfirûn suresini baştan sona oku ve kendi duruşunu netleştiren bir cümleyi not al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=109&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/109/6"
+  }
+ ]
+}

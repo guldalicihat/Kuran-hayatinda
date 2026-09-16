@@ -1,0 +1,75 @@
+{
+ "sure": 102,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Hayır, öyle değil! Yakında bileceksiniz.",
+ "mealNotu": "'Kellâ' Kur'an'da caydırma, reddetme bildiren güçlü bir edattır. 'Sevfe ta'lemûn' (yakında bileceksiniz) bir uyarı ve tehdit taşır.",
+ "kokler": [
+  {
+   "kelime": "كَلَّا",
+   "okunus": "kellâ",
+   "kok": "—",
+   "kokAnlam": "caydırma, hayır",
+   "karsilik": "hayır, öyle değil"
+  },
+  {
+   "kelime": "سَوْفَ",
+   "okunus": "sevfe",
+   "kok": "—",
+   "kokAnlam": "gelecek zaman edatı",
+   "karsilik": "yakında"
+  },
+  {
+   "kelime": "تَعْلَمُونَ",
+   "okunus": "ta'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bileceksiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki iki ayetteki oyalanmaya sert bir 'kellâ' (hayır, öyle değil) ile karşı çıkar; bu edat Kur'an'da caydırma, reddetme bildiren güçlü bir üslup unsurudur.",
+  "'Sevfe ta'lemûn' (yakında bileceksiniz) ifadesi, bir uyarı ve tehdit taşır: yarışın sonunun sanıldığı gibi olmadığı, ölümden sonra anlaşılacaktır. Bu ifade bir sonraki ayette aynen tekrarlanarak vurgulanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "102:4",
+   "meal": "Sonra yine hayır, öyle değil! Yakında bileceksiniz.",
+   "baglanti": "Bu uyarı bir sonraki ayette birebir tekrarlanarak vurgusu güçlendirilir."
+  },
+  {
+   "ref": "6:135",
+   "meal": "De ki: Ey kavmim! Elinizden geleni yapın, ben de yapacağım. Yakında bileceksiniz...",
+   "baglanti": "En'âm suresinde de aynı 'yakında bileceksiniz' uyarısı, inkârcılara bir meydan okuma ve tehdit olarak yöneltilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, dünyevi yarışın sonucunun ölümden sonra netleşeceği uyarısıdır. Bu doğrudan bir eylem tarif etmez, güçlü bir uyarı niteliğindedir.",
+  "Bu uyarı, insanın bugünkü tercihlerinin sonuçlarını hemen göremeyeceğini, ama bir gün bu sonuçlarla yüzleşeceğini hatırlatır. Bu farkındalık, kararları daha bilinçli almaya teşvik eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sonuçları düşün",
+   "aciklama": "Bugün verdiğin bir kararın uzun vadeli sonucunu düşün."
+  },
+  {
+   "baslik": "Uyarıyı ciddiye al",
+   "aciklama": "Bugün göz ardı ettiğin bir uyarıyı yeniden değerlendir."
+  },
+  {
+   "baslik": "Bilinçli seç",
+   "aciklama": "Bugün bir tercihini, anlık isteğe değil sonucuna bakarak yap."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararını, 'Bunun sonucuyla nasıl yüzleşeceğim?' diye sorarak ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=102&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/102/3"
+  }
+ ]
+}

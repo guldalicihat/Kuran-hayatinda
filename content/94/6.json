@@ -1,0 +1,82 @@
+{
+ "sure": 94,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Gerçekten güçlükle beraber bir kolaylık vardır.",
+ "mealNotu": "Cümle bir önceki ayetle neredeyse aynıdır; burada 'inne' te'kid edatıyla aynı ilke pekiştirilerek tekrarlanır. Bu tekrar, ardından gelen 'işin bitince yeni işe koyul' çağrısına da zemin hazırlar.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten, şüphesiz",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "مَعَ",
+   "okunus": "mea",
+   "kok": "—",
+   "kokAnlam": "(yer/beraberlik) ile beraber",
+   "karsilik": "ile beraber"
+  },
+  {
+   "kelime": "ٱلْعُسْرِ",
+   "okunus": "el'usri",
+   "kok": "عسر",
+   "kokAnlam": "darlık, zorlanma",
+   "karsilik": "güçlükle"
+  },
+  {
+   "kelime": "يُسْرًا",
+   "okunus": "yüsran",
+   "kok": "يسر",
+   "kokAnlam": "kolaylık, rahatlık",
+   "karsilik": "bir kolaylık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayetteki cümleyi neredeyse aynen tekrarlar; farkı yalnızca te'kid edatındadır (feinne yerine inne). Klasik tefsir bu tekrarı, ilkenin önemini pekiştirmek için görür.",
+  "Tekrar aynı zamanda bir geçiş noktasıdır: kolaylık ilkesi iki kez vurgulandıktan sonra, sure bir sonraki ayette somut bir çağrıya döner: iş bitince yeni bir işe koyulmak. Böylece ilke, edilgen bir teselliden öte, harekete geçiren bir zemine dönüşür."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "94:5",
+   "meal": "Demek ki güçlükle beraber bir kolaylık vardır.",
+   "baglanti": "Bu ayet, bir önceki ayetin neredeyse birebir tekrarıdır; ikisi birlikte ilkeyi pekiştirir."
+  },
+  {
+   "ref": "65:7",
+   "meal": "Allah bir güçlükten sonra bir kolaylık yaratacaktır.",
+   "baglanti": "Talâk suresindeki bu ayet aynı iki kökü (usr-yüsr) kullanır; orada kolaylık zaman içinde 'sonra' gelirken, İnşirâh'ta zorlukla 'beraber' bulunur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, aynı ilkeyi tekrarla pekiştirir: zorlukla kolaylık birlikte var olur; bu, sabit ve tekrar vurgulanan bir kuraldır.",
+  "Bir ilkenin iki kez söylenmesi, günlük hayatta da unutulan gerçekleri hatırlatmanın değerine işaret eder. Zorlanılan bir dönemde bu ilkeyi kendine bir kez değil, gerektiğinde tekrar tekrar hatırlatmak faydalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "İlkeyi tekrar et",
+   "aciklama": "Zor bir anında 'güçlükle beraber kolaylık var' cümlesini kendine iki kez söyle."
+  },
+  {
+   "baslik": "Bir notu görünür yere as",
+   "aciklama": "Bu ilkeyi kısa bir notla masana veya telefonuna kaydet, zorlandığında bak."
+  },
+  {
+   "baslik": "Bir sonraki adımı planla",
+   "aciklama": "Zorluğun bittiğinde yapacağın bir sonraki işi bugünden not et."
+  }
+ ],
+ "bugununAdimi": "Bugün 'güçlükle beraber kolaylık var' cümlesini yazıp gözünün önüne bir yere koy.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=94&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/94/6"
+  }
+ ]
+}

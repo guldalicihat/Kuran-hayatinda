@@ -1,0 +1,82 @@
+{
+ "sure": 101,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "Bilir misin, nedir o?",
+ "mealNotu": "Bu tekrarlı soru kalıbı, surenin başındaki Kâria sorusuyla bir bütünlük oluşturur.",
+ "kokler": [
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "soru edatı",
+   "karsilik": "ve ne"
+  },
+  {
+   "kelime": "أَدْرَىٰكَ",
+   "okunus": "edrâke",
+   "kok": "دري",
+   "kokAnlam": "bilme, haberdar olma",
+   "karsilik": "sana bildirdi"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "soru edatı",
+   "karsilik": "nedir"
+  },
+  {
+   "kelime": "هِيَهْ",
+   "okunus": "hiyeh",
+   "kok": "—",
+   "kokAnlam": "o (zamir)",
+   "karsilik": "o"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, önceki ayette adı geçen Hâviye'nin ne olduğunu, başındaki gibi güçlü bir soru kalıbıyla tekrar sorar. Bu tekrar, surenin başındaki Kâria sorusuyla bir bütünlük oluşturur.",
+  "Klasik tefsir bu tekrarlı soru kalıbını, insan aklının kavramakta zorlanacağı bir gerçeğe dikkat çekme yöntemi olarak açıklar. Cevap, son ayette çok kısa ve kesin biçimde verilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "101:3",
+   "meal": "Bilir misin, nedir o Kâria?",
+   "baglanti": "Surenin başındaki bu soru kalıbı, sonunda Hâviye için tekrarlanarak bir çerçeve oluşturur."
+  },
+  {
+   "ref": "101:11",
+   "meal": "Kızgın bir ateştir.",
+   "baglanti": "Bu sorunun cevabı, hemen bir sonraki ayette kısaca verilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, cehennemin dehşetinin insan tasavvurunun ötesinde olduğunu vurgulayan bir sorudur.",
+  "Bu tekrar, ciddi konularda geçiştirici bir tavır yerine derinlemesine düşünmeyi öğretir. İnsan, sonuçlarını tam kavrayamadığı kararları da bu ciddiyetle ele almalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ciddiyetle sor",
+   "aciklama": "Bugün önemli bir konuda kendine 'Bunun sonucu ne olur?' diye sor."
+  },
+  {
+   "baslik": "Anlamadan geçme",
+   "aciklama": "Bugün tam anlamadığın bir dini kavramı araştırıp öğren."
+  },
+  {
+   "baslik": "Uyarıyı ciddiye al",
+   "aciklama": "Bugün aldığın bir uyarıyı -sağlık, ilişki, ibadet- ciddiye alıp bir adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün, sonucunu tam kestiremediğin bir kararını, aceleye getirmeden bir kez daha düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=101&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/101/10"
+  }
+ ]
+}

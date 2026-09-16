@@ -1,0 +1,82 @@
+{
+ "sure": 104,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Hutame'nin ne olduğunu sana ne bildirdi?",
+ "mealNotu": "'Edrâke' kökü bilgilendirmeyi anlatır; bu soru kalıbı Kur'an'da önemli, kavranması zor bir konuyu tanıtmadan önce dikkat çekmek için kullanılır.",
+ "kokler": [
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ve ne",
+   "karsilik": "ve ne"
+  },
+  {
+   "kelime": "أَدْرَىٰكَ",
+   "okunus": "edrâke",
+   "kok": "دري",
+   "kokAnlam": "bilme, haberdar etme",
+   "karsilik": "sana bildirdi"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "ٱلْحُطَمَةُ",
+   "okunus": "elhutametü",
+   "kok": "حطم",
+   "kokAnlam": "kırıp parçalama, ezme",
+   "karsilik": "Hutame"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette Hutame'ye atılma haber verilmişti; burada bu kelimenin ne kadar dehşetli bir şey olduğunu vurgulamak için soru sorulur.",
+  "'Mâ edrâke' kalıbı Kur'an'da genelde dinleyicinin bilmediği, büyük bir gerçeği tanıtmadan önce dikkat çekmek için kullanılır; sonraki ayet bu sorunun cevabını verecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "101:3",
+   "meal": "Kâria'nın ne olduğunu sana bildiren nedir?",
+   "baglanti": "Kâria 3, aynı 'mâ edrâke' kalıbını kullanarak büyük bir gerçeği tanıtmadan önce dikkat çeker."
+  },
+  {
+   "ref": "83:8",
+   "meal": "Siccîn'in ne olduğunu sana bildiren nedir?",
+   "baglanti": "Mutaffifîn 8, benzer bir soru kalıbıyla günahkârların akıbetini tanıtır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bilinmeyen ama ciddi bir gerçeği merak ettirip düşündürmektir.",
+  "Bugüne taşınabilecek ders, ciddiye almadığımız ama hakkında yeterince bilgimiz olmayan konuları (ölüm, hesap günü gibi) öğrenmeye zaman ayırmaktır. Merakla yaklaşmak, savsaklamaktan daha sağlıklıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilmediğin bir konuyu araştır",
+   "aciklama": "Bugün, hakkında yeterince bilgin olmayan ama önemli bir dini konuyu güvenilir bir kaynaktan oku."
+  },
+  {
+   "baslik": "Soru sormaktan çekinme",
+   "aciklama": "Aklına takılan bir soruyu bugün bilgili birine sor, geçiştirme."
+  },
+  {
+   "baslik": "Ciddiyetle düşün",
+   "aciklama": "Bugün beş dakika ayırıp ölüm sonrası hakkında sakin bir şekilde düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün ölüm ve hesap günü hakkında güvenilir bir kaynaktan kısa bir okuma yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=104&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/104/5"
+  }
+ ]
+}

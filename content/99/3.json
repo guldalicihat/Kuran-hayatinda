@@ -1,0 +1,82 @@
+{
+ "sure": 99,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "ve insan 'Buna ne oluyor?' dediğinde,",
+ "mealNotu": "'İnsân' kelimesi burada herkesi kapsayacak biçimde geneldir; soru, karşılaşılan olayın alışılmadık şiddetini gösterir.",
+ "kokler": [
+  {
+   "kelime": "وَقَالَ",
+   "okunus": "ve kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediğinde"
+  },
+  {
+   "kelime": "ٱلْإِنسَٰنُ",
+   "okunus": "el'insânü",
+   "kok": "أنس",
+   "kokAnlam": "ünsiyet; insan",
+   "karsilik": "insan"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "soru edatı",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "لَهَا",
+   "okunus": "lehâ",
+   "kok": "—",
+   "kokAnlam": "ona (edat + zamir)",
+   "karsilik": "oluyor ona"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sarsıntı ve yerin ağırlıklarını çıkarması karşısında insan şaşkınlıkla sorar: 'Buna ne oluyor?' Bu soru, insanın o güne dek alışık olmadığı bir olayla karşılaştığını gösterir.",
+  "'İnsân' kelimesi burada herkesi kapsayacak biçimde geneldir; sadece inkârcı değil, herkes bu sahne karşısında şaşkınlık yaşar. Sonraki ayet bu sorunun cevabını verir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "99:4",
+   "meal": "O gün yer, haberlerini anlatır;",
+   "baglanti": "İnsanın sorduğu 'Buna ne oluyor?' sorusunun cevabı hemen bir sonraki ayette gelir."
+  },
+  {
+   "ref": "75:10",
+   "meal": "İnsan o gün 'Kaçış nereye?' der.",
+   "baglanti": "Kıyamet suresinde de insan benzer bir şaşkınlıkla soru sorar; her iki sahnede de insanın çaresizliği bir soruyla ifade edilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu kıyamet anındaki insan tepkisidir; bugünün olayı değildir.",
+  "Ancak insanın büyük, kontrolü dışındaki olaylar karşısında şaşkınlığı bugün de tanıdıktır. Böyle anlarda soru sormak panikten çok anlamaya çalışmanın bir işaretidir; bu tutum kişiyi gerçeği görmeye yönlendirebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Şaşkınlığını sakinlikle karşıla",
+   "aciklama": "Bugün beklenmedik bir olayla karşılaşırsan, önce sakince ne olduğunu anlamaya çalış."
+  },
+  {
+   "baslik": "Soru sormaktan çekinme",
+   "aciklama": "Bugün anlamadığın bir konuda doğrudan soru sor."
+  },
+  {
+   "baslik": "Büyük resmi hatırla",
+   "aciklama": "Bugün küçük bir sıkıntı karşısında, hayatın bütününü düşünerek sakinleş."
+  }
+ ],
+ "bugununAdimi": "Bugün anlayamadığın bir durumu, panik yerine sakin bir soruyla ele al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=99&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/99/3"
+  }
+ ]
+}

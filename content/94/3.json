@@ -1,0 +1,75 @@
+{
+ "sure": 94,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "O, senin sırtını çatırdatıyordu.",
+ "mealNotu": "Ayet, bir önceki ayetteki 'yük' kelimesini niteleyen bir ilgi cümlesidir; tek başına okunduğunda da o yüke gönderme yapar. 'Nakd' kökü bozma, çözülme, ağırlıktan çatırdama anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "ٱلَّذِىٓ",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ki o",
+   "karsilik": "ki o"
+  },
+  {
+   "kelime": "أَنقَضَ",
+   "okunus": "enkada",
+   "kok": "نقض",
+   "kokAnlam": "bozma, çözülme; ağırlıktan çatırdama",
+   "karsilik": "çatırdatıyordu"
+  },
+  {
+   "kelime": "ظَهْرَكَ",
+   "okunus": "zahrake",
+   "kok": "ظهر",
+   "kokAnlam": "sırt, arka; görünme",
+   "karsilik": "sırtını"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki 'yük' kelimesini açıklayan bir sıfat cümlesidir. 'Nakd' kökü, bir şeyin ağırlığından çatırdayıp bozulmasını anlatır; burada bu, taşınan yükün ağırlığını somutlaştırır.",
+  "Ayet, Peygamber'in risalet öncesi ve esnasında taşıdığı sorumluluğun ağırlığına dair bir imge sunar. Klasik tefsir bunu, davetin başındaki zorlukların yükü olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "94:2",
+   "meal": "Ve senden yükünü indirmedik mi?",
+   "baglanti": "Bu ayet, bir önceki ayetteki yükü tanımlayan bir sıfat cümlesidir; ikisi birlikte tek bir anlatıyı oluşturur."
+  },
+  {
+   "ref": "93:3",
+   "meal": "Rabbin seni bırakmadı ve sana darılmadı.",
+   "baglanti": "Duhâ suresinin bu ayeti de aynı döneme, Peygamber'in yaşadığı zorluklara işaret eder; İnşirâh bu tesellinin devamı niteliğindedir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in sırtını çatırdatan ağır bir sorumluluktur.",
+  "Genel ders şudur: bir yük fark edilmeden taşınırsa insanı asıl yorar. Yükün ağırlığını kabul etmek, ondan kaçmadan çözüm aramanın ilk şartıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ağırlığı kabul et",
+   "aciklama": "Bugün seni yoran bir durumu küçümsemeden, olduğu gibi kabul et."
+  },
+  {
+   "baslik": "Bedenini dinle",
+   "aciklama": "Omuzlarındaki ve sırtındaki gerginliği fark et; birkaç dakika esneme yap."
+  },
+  {
+   "baslik": "Yardım istemeyi dene",
+   "aciklama": "Sırtındaki yükü tek başına taşımak yerine bugün bir kişiden somut yardım iste."
+  }
+ ],
+ "bugununAdimi": "Bugün seni en çok yoran sorumluluğu belirle ve bunun için tek bir kişiden yardım iste.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=94&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/94/3"
+  }
+ ]
+}

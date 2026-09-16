@@ -1,0 +1,89 @@
+{
+ "sure": 96,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "Bilmiyor mu ki Allah görüyor?",
+ "mealNotu": "Ayet, olumsuz soru kalıbıyla kesin bir gerçeği hatırlatır: Allah'ın her şeyi gördüğü bilgisi, engelleyici ve yalanlayıcı tutumun ne kadar temelsiz olduğunu gösterir.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuz soru) -medi mi, bilmiyor mu",
+   "karsilik": "bilmiyor mu"
+  },
+  {
+   "kelime": "يَعْلَم",
+   "okunus": "ya'lem",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "biliyor"
+  },
+  {
+   "kelime": "بِأَنَّ",
+   "okunus": "bienne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah; Allah",
+   "karsilik": "Allah'ı"
+  },
+  {
+   "kelime": "يَرَىٰ",
+   "okunus": "yerâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görüyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetlerde anlatılan yalanlama ve yüz çevirme tutumunun ardından, bu ayet kesin bir gerçeği hatırlatır: Allah her şeyi görür. Olumsuz soru kalıbı, bu gerçeğin zaten bilinmesi gerektiğini vurgular.",
+  "Ayet, gizli kalacağını düşünen her tutumun aslında Allah'ın bilgisi dahilinde olduğunu bildirir. Bu hatırlatma, sureyi bir tehdide, ardından da secde çağrısına bağlayan bir köprü işlevi görür."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "50:16",
+   "meal": "Biz insana şah damarından daha yakınız.",
+   "baglanti": "Kâf suresindeki bu ayet, Allah'ın insana yakınlığını ve onu her hâliyle bildiğini anlatır; buradaki 'görme' vurgusuyla aynı temayı paylaşır."
+  },
+  {
+   "ref": "2:110",
+   "meal": "Şüphesiz Allah yaptıklarınızı görür.",
+   "baglanti": "Bakara suresindeki bu ayet de Allah'ın gözetiminin kapsayıcılığını hatırlatır; her davranışın O'nun bilgisi dahilinde olduğunu bildirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah'ın her davranışı gördüğü gerçeğidir; bu, gizli kalacağını düşünülen tutumlar için bir uyarıdır.",
+  "Bugüne taşınabilecek ders, kimsenin görmediğini düşündüğümüz anlarda bile bu bilinci taşımaktır. Bu farkındalık, hem doğru davranmaya hem de vicdan rahatlığına katkı sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Görülüyor bilinciyle davran",
+   "aciklama": "Bugün kimsenin görmediğini düşündüğün bir anda bile doğru davran."
+  },
+  {
+   "baslik": "Gizli bir iyilik yap",
+   "aciklama": "Kimsenin bilmeyeceği küçük bir iyilik yap ve bunu kimseye söyleme."
+  },
+  {
+   "baslik": "İçini gözden geçir",
+   "aciklama": "Bugün yalnız kaldığın bir anda niyetlerini gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün kimsenin görmediğini düşündüğün bir anda, sanki görülüyormuşçasına doğru davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=96&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/96/14"
+  }
+ ]
+}

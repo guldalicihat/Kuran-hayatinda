@@ -1,0 +1,75 @@
+{
+ "sure": 98,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Onda dosdoğru yazılar vardır.",
+ "mealNotu": "'Kayyime' kökü (قوم) ayakta durmayı, sağlamlığı anlatır; burada eğrilikten uzak, sağlam hükümleri ifade eder.",
+ "kokler": [
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "içinde (edat + zamir)",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "كُتُبٌ",
+   "okunus": "kütübün",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "yazılar"
+  },
+  {
+   "kelime": "قَيِّمَةٌ",
+   "okunus": "kayyimetün",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, doğrulukta sağlamlık",
+   "karsilik": "dosdoğru"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu kısa ayet, önceki ayette geçen tertemiz sahifelerin içeriğini tanımlar: dosdoğru, sağlam ve eğrilikten uzak yazılar. 'Kayyime' kökü ayakta durmayı, sağlamlığı ifade eder.",
+  "Vahyin hem kaynağı -Allah'tan, temiz- hem içeriği -dosdoğru- burada birlikte vurgulanır. Klasik tefsir bunu, hüküm ve öğüt bakımından eğrilik taşımayan yazılar olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "39:28",
+   "meal": "Hiçbir eğriliği olmayan, Arapça bir Kur'an; umulur ki korunurlar.",
+   "baglanti": "'Kayyime' (dosdoğru) sıfatı, başka bir surede 'eğriliği olmayan' ifadesiyle karşılık bulur."
+  },
+  {
+   "ref": "98:2",
+   "meal": "Allah'tan gönderilen bir elçi; tertemiz sayfalar okur.",
+   "baglanti": "Bu ayet, az önce tanıtılan tertemiz sayfaların içeriğini anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu vahyin niteliğidir: dosdoğru, sağlam. Günlük hayata taşınabilecek ders, doğru ve sağlam bilgiye değer vermektir.",
+  "Kararlarını eğri büğrü, tutarsız bilgiye değil; sağlam, doğrulukla sınanmış kaynaklara dayandırmak, hem inanç hem günlük işlerde faydalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sağlam kaynağa yönel",
+   "aciklama": "Bugün bir konuda karar verirken en sağlam kaynağı seç."
+  },
+  {
+   "baslik": "Tutarlılığını kontrol et",
+   "aciklama": "Bugün söylediklerinin birbiriyle çeliştiği bir nokta var mı, düşün."
+  },
+  {
+   "baslik": "Bir ayet ezberle",
+   "aciklama": "Bugün kısa bir ayeti anlamıyla birlikte ezberle."
+  }
+ ],
+ "bugununAdimi": "Bugün okuduğun bir metnin ne kadar tutarlı ve sağlam olduğunu değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=98&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/98/3"
+  }
+ ]
+}

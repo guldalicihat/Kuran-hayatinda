@@ -1,0 +1,82 @@
+{
+ "sure": 101,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Bilir misin, nedir o Kâria?",
+ "mealNotu": "'Ve mâ edrâke' kalıbı Kur'an'da genellikle çok büyük, kavranması zor konularda kullanılır.",
+ "kokler": [
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "soru edatı",
+   "karsilik": "ve ne"
+  },
+  {
+   "kelime": "أَدْرَىٰكَ",
+   "okunus": "edrâke",
+   "kok": "دري",
+   "kokAnlam": "bilme, haberdar olma",
+   "karsilik": "sana bildirdi"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "soru edatı",
+   "karsilik": "nedir"
+  },
+  {
+   "kelime": "ٱلْقَارِعَةُ",
+   "okunus": "elkâriatü",
+   "kok": "قرع",
+   "kokAnlam": "vurma, çarpma",
+   "karsilik": "o Kâria"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki sorudan daha güçlü bir kalıpla devam eder: 'Ve mâ edrâke' (bilir misin) ifadesi Kur'an'da genellikle çok büyük, kavranması zor konularda kullanılır.",
+  "Bu kalıbın tekrarı, kıyametin dehşetinin insan tasavvurunun ötesinde olduğunu vurgular. Sonraki ayetler bu büyük olayı somut benzetmelerle -pervane gibi dağılan insanlar, atılmış yün gibi dağlar- tasvir etmeye başlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "101:4",
+   "meal": "O gün insanlar, [her yöne] yayılmış pervaneler gibi olur.",
+   "baglanti": "Bu soru kalıbının ardından, kıyamet sahnesi somut bir benzetmeyle tasvir edilmeye başlanır."
+  },
+  {
+   "ref": "97:2",
+   "meal": "Bilir misin nedir Kadir gecesi?",
+   "baglanti": "Kadir suresinde de aynı 've mâ edrâke' kalıbı kullanılır; Kur'an bu kalıbı büyüklüğü kavranamayan konularda tekrar eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu kıyametin büyüklüğünü vurgulayan tekrarlı bir sorudur; bu doğrudan bir eylem tarif etmez.",
+  "Bu tekrar, bazı gerçeklerin tek seferde kavranamayacağını, üzerinde durup düşünmek gerektiğini öğretir. Önemli konularda acele sonuca varmak yerine derinlemesine düşünmek, bu ayetin verdiği örtük bir derstir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Derinlemesine düşün",
+   "aciklama": "Bugün önemli bir konuyu yüzeysel geçmeden, biraz daha derin düşün."
+  },
+  {
+   "baslik": "Tekrar oku",
+   "aciklama": "Bugün bir ayeti veya bir öğretiyi birden fazla kez okuyarak anlamaya çalış."
+  },
+  {
+   "baslik": "Acele etme",
+   "aciklama": "Bugün önemli bir kararı hemen vermek yerine biraz zaman tanı."
+  }
+ ],
+ "bugununAdimi": "Bugün üzerinde yüzeysel düşündüğün bir konuyu, biraz daha derinlemesine ele al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=101&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/101/3"
+  }
+ ]
+}

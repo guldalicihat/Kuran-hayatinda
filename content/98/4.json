@@ -1,0 +1,131 @@
+{
+ "sure": 98,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Kendilerine kitap verilenler, ancak kendilerine apaçık delil geldikten sonra ayrılığa düştüler.",
+ "mealNotu": "'Teferruk' kökü (فرق) bölünme ve dağılmayı anlatır. Ayet, ayrılığın delil gelmeden önce değil, geldikten sonra ortaya çıktığını bildirir.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "تَفَرَّقَ",
+   "okunus": "teferraka",
+   "kok": "فرق",
+   "kokAnlam": "ayrılma, bölünme",
+   "karsilik": "ayrılığa düştü"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "أُوتُوا۟",
+   "okunus": "ûtû",
+   "kok": "أتي",
+   "kokAnlam": "verilme, gelme",
+   "karsilik": "verilenler"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "kitap"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "ancak, istisna",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den (edat)",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonralık",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi",
+   "karsilik": "(vakit ki)"
+  },
+  {
+   "kelime": "جَآءَتْهُمُ",
+   "okunus": "câethümü",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "kendilerine geldiğinde"
+  },
+  {
+   "kelime": "ٱلْبَيِّنَةُ",
+   "okunus": "elbeyyinetü",
+   "kok": "بين",
+   "kokAnlam": "açıklık, ayırt etme",
+   "karsilik": "apaçık delil"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, kitap ehlinin tarihine dair önemli bir gözlemi bildirir: aralarındaki ayrılık bilgisizlikten değil, tam tersine kendilerine apaçık delil geldikten sonra ortaya çıkmıştır. 'Teferruk' kökü bölünme ve dağılmayı anlatır.",
+  "Bu, delilin kendiliğinden birliği garanti etmediğini gösterir; insanların delile karşı tutumu belirleyicidir. Klasik tefsir bu ayrılığı, kitap ehlinin bildikleri hâlde birbirlerine karşı takındıkları farklı tutumlarla ilişkilendirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:213",
+   "meal": "İnsanlar tek bir ümmetti; Allah peygamberleri müjdeleyici ve uyarıcı olarak gönderdi... Kitap verilenler, kendilerine apaçık deliller geldikten sonra, aralarındaki kıskançlık yüzünden ayrılığa düştüler.",
+   "baglanti": "Bakara suresindeki bu ayet, aynı olguyu -delilden sonra ayrılık- daha geniş biçimde anlatır ve sebebini kıskançlık olarak belirtir."
+  },
+  {
+   "ref": "98:1",
+   "meal": "Kitap ehlinden ve müşriklerden inkâr edenler, kendilerine apaçık delil gelinceye kadar ayrılacak değillerdi.",
+   "baglanti": "İlk ayetteki bekleyiş, burada delilin gelmesinden sonraki ayrılıkla tamamlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu kitap ehlinin tarihî tutumudur. Buradan çıkan genel ders, doğru bilgiye sahip olmanın tek başına birliği sağlamadığıdır.",
+  "Bir toplulukta ayrılık çoğu zaman bilgi eksikliğinden değil, bilinen gerçeğe karşı farklı çıkar veya tutumlardan doğar. Bunu fark etmek, kişiyi kör bir grup taraftarlığından korur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ayrılık nedenini sorgula",
+   "aciklama": "Bugün bir anlaşmazlıkta gerçek sebebin bilgi eksikliği mi yoksa çıkar mı olduğunu düşün."
+  },
+  {
+   "baslik": "Ortak noktayı bul",
+   "aciklama": "Bugün farklı düşündüğün biriyle konuşurken önce ortak kabul ettiğiniz noktayı söyle."
+  },
+  {
+   "baslik": "Kıskançlığı fark et",
+   "aciklama": "Bugün bir tartışmada kıskançlığın rol oynayıp oynamadığını kendine sor."
+  }
+ ],
+ "bugununAdimi": "Bugün bir anlaşmazlığı, tarafların gerçekten neyi bildiğini sorarak çözmeye çalış.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=98&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/98/4"
+  }
+ ]
+}

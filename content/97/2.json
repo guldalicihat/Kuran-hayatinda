@@ -1,0 +1,89 @@
+{
+ "sure": 97,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Kadir gecesinin ne olduğunu sana ne bildirdi?",
+ "mealNotu": "'Dirâyet' kökünden gelen 'edrâ' bilgi edinmeyi, anlamayı ifade eder. Bu soru kalıbı, konunun insan kavrayışını aşan bir büyüklükte olduğuna işaret eder; Kur'an'da benzer sorular başka surelerde de kullanılır.",
+ "kokler": [
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ve ne",
+   "karsilik": "ve ne"
+  },
+  {
+   "kelime": "أَدْرَىٰكَ",
+   "okunus": "edrâke",
+   "kok": "دري",
+   "kokAnlam": "bilgi edinme, kavrama",
+   "karsilik": "sana bildirdi"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne",
+   "karsilik": "ne olduğunu"
+  },
+  {
+   "kelime": "لَيْلَةُ",
+   "okunus": "leyletü",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "gecesinin"
+  },
+  {
+   "kelime": "ٱلْقَدْرِ",
+   "okunus": "elkadri",
+   "kok": "قدر",
+   "kokAnlam": "ölçü, değer, güç; takdir",
+   "karsilik": "Kadir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette Kadir gecesinde Kur'an'ın indirildiği bildirildikten sonra, bu ayet bir soru sorar: bu gecenin ne olduğunu kim bilebilir? 'Edrâ' kökü kavrama ve bilgi edinmeyi anlatır.",
+  "Bu tür sorular Kur'an'da, konunun büyüklüğüne dikkat çekmek için kullanılır; cevap genellikle bir sonraki ayette verilir. Burada da bir sonraki ayet, gecenin değerini açıklığa kavuşturur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "97:3",
+   "meal": "Kadir gecesi bin aydan hayırlıdır.",
+   "baglanti": "Bu ayet, bir önceki ayette sorulan sorunun cevabını verir: Kadir gecesinin değeri, bin aydan daha hayırlı olmasındadır."
+  },
+  {
+   "ref": "101:3",
+   "meal": "Kâria'nın ne olduğunu sana ne bildirdi?",
+   "baglanti": "Kâria suresindeki bu ayet aynı soru kalıbını ('ve mâ edrâke') taşır; Kur'an'da önemli bir konuya dikkat çekmek için kullanılan ortak bir üsluptur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kadir gecesinin insan kavrayışını aşan bir değere sahip olduğudur.",
+  "Bugüne taşınabilecek ders, bazı değerlerin ilk bakışta anlaşılamayacak kadar büyük olabileceğidir. Bu, hem bu geceye hem de hayattaki fark edilmeyen değerli anlara karşı daha dikkatli olmayı öğütler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Değeri sorgula",
+   "aciklama": "Bugün küçük gördüğün bir anın aslında ne kadar değerli olabileceğini düşün."
+  },
+  {
+   "baslik": "Merakını canlı tut",
+   "aciklama": "Bilmediğin bir konuda bugün araştırma yaparak öğrenmeye çalış."
+  },
+  {
+   "baslik": "Büyük bir soruyu düşün",
+   "aciklama": "Bugün cevabını tam bilmediğin önemli bir soruyu bir kenara not et."
+  }
+ ],
+ "bugununAdimi": "Bugün küçük gördüğün bir anın gerçek değerini bir kez düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=97&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/97/2"
+  }
+ ]
+}

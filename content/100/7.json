@@ -1,0 +1,82 @@
+{
+ "sure": 100,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Ve o, buna gerçekten şahittir.",
+ "mealNotu": "'Şehîd' kökü (شهد) tanıklık etmeyi anlatır. Klasik tefsirde 'o' zamirinin insana mı yoksa Allah'a mı döndüğü konusunda iki görüş vardır; meal her iki okumayı da dışlamayacak şekilde verildi.",
+ "kokler": [
+  {
+   "kelime": "وَإِنَّهُۥ",
+   "okunus": "ve innehû",
+   "kok": "—",
+   "kokAnlam": "te'kid + zamir",
+   "karsilik": "ve o"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerine (edat)",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "işaret",
+   "karsilik": "buna"
+  },
+  {
+   "kelime": "لَشَهِيدٌ",
+   "okunus": "leşehîdün",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık etme",
+   "karsilik": "gerçekten şahittir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetteki nankörlüğe bir tanıklık ekler. 'Şehîd' kökü tanıklık etmeyi anlatır. Klasik tefsirde 'o' zamirinin kime döndüğü konusunda iki görüş vardır: bir görüşe göre insan kendi nankörlüğüne kendisi şahittir, diğerine göre Allah bu duruma şahittir.",
+  "Her iki okuma da aynı sonuca varır: insanın Rabbine karşı nankörlüğü gizli kalmayan, açık bir gerçektir. Sonraki ayet bu nankörlüğün somut bir örneğini -mal sevgisi- verir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "100:6",
+   "meal": "Şüphesiz insan, Rabbine karşı gerçekten nankördür.",
+   "baglanti": "Bu ayet, bir önceki ayetteki nankörlük hükmüne bir tanıklık ekler."
+  },
+  {
+   "ref": "17:14",
+   "meal": "Kitabını oku! Bugün nefsin sana karşı hesap sorucu olarak yeter.",
+   "baglanti": "İsrâ suresi de insanın kendi durumuna kendisinin tanık ve hesapçı olacağını anlatır; buradaki 'şahitlik' fikriyle örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu insanın nankörlüğüne dair bir tanıklıktır; bu doğrudan bir eylem tarif etmez.",
+  "Kişinin kendi davranışlarına dürüstçe tanıklık etmesi -kendini kandırmadan hâlini görmesi- olgunluğun bir işaretidir. Bu, kendini eleştirebilme becerisini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendine dürüst tanıklık et",
+   "aciklama": "Bugün bir davranışını, kendini savunmadan olduğu gibi değerlendir."
+  },
+  {
+   "baslik": "Bir eksiğini kabul et",
+   "aciklama": "Bugün bir zaafını kabul edip düzeltmek için tek bir adım at."
+  },
+  {
+   "baslik": "Aynaya bak",
+   "aciklama": "Bugün günün sonunda kendi hâlini kısaca gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir davranışını kendine karşı dürüstçe değerlendir ve gerekiyorsa düzelt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=100&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/100/7"
+  }
+ ]
+}

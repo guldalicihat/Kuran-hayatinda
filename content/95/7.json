@@ -1,0 +1,82 @@
+{
+ "sure": 95,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Öyleyse bundan sonra seni dini yalanlamaya ne sürüklüyor?",
+ "mealNotu": "'Kezb' kökü yalanlamayı, 'dîn' kökü ise burada hesap ve ceza gününü/dini anlatır. Soru, önceki ayetlerde anlatılan yaratılış ve karşılık delillerinden sonra dinleyene yöneltilen bir hesap sorusudur.",
+ "kokler": [
+  {
+   "kelime": "فَمَا",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "(soru) öyleyse ne",
+   "karsilik": "öyleyse ne"
+  },
+  {
+   "kelime": "يُكَذِّبُكَ",
+   "okunus": "yükezzibüke",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "seni yalanlamaya sürüklüyor"
+  },
+  {
+   "kelime": "بَعْدُ",
+   "okunus": "ba'dü",
+   "kok": "بعد",
+   "kokAnlam": "sonra, ardından",
+   "karsilik": "bundan sonra"
+  },
+  {
+   "kelime": "بِٱلدِّينِ",
+   "okunus": "bid dîni",
+   "kok": "دين",
+   "kokAnlam": "din; ceza ve hesap günü",
+   "karsilik": "dini"
+  }
+ ],
+ "neAnlatiyor": [
+  "İnsanın yaratılışındaki güzellik, düşme ihtimali ve iman edenlere vaat edilen kesintisiz mükâfat anlatıldıktan sonra, bu ayet dinleyene doğrudan bir soru yöneltir: bunca delilden sonra hesap gününü yalanlamaya ne sebep olabilir?",
+  "'Dîn' kelimesi burada hem din hem de hesap/ceza günü anlamını taşır. Soru kalıbı, cevabı zaten belli olan, düşünmeye çağıran bir üsluptur; Kur'an'da benzer sorular başka surelerde de tekrarlanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "82:9",
+   "meal": "Hayır! Siz dini/hesap gününü yalanlıyorsunuz.",
+   "baglanti": "İnfitâr suresindeki bu ayet aynı 'kezb' ve 'dîn' köklerini taşır; insanın yaratılış delillerine rağmen hesabı yalanlaması burada da eleştirilir."
+  },
+  {
+   "ref": "107:1",
+   "meal": "Dini yalanlayanı gördün mü?",
+   "baglanti": "Mâûn suresi de aynı ifadeyle ('yükezzibü bid-dîn') başlar; bu ayet orada kimin kastedildiğini (yetime kötü davranan, yoksulu doyurmayan) somutlaştırır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu bir hesap sorma sorusudur; kişiyi hesap gününü ciddiye almaya çağırır.",
+  "Bugüne taşınabilecek ders, gördüğümüz delillerle davranışlarımız arasında tutarlılık aramaktır. Yaratılışın, nimetlerin ve vicdanın işaret ettiği bir sorumluluğu görmezden gelmek, bu ayetin sorduğu soruyu güncel kılar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tutarlılığını gözden geçir",
+   "aciklama": "Bugün inandığın bir değerle davranışların arasında bir çelişki olup olmadığını düşün."
+  },
+  {
+   "baslik": "Hesap bilinciyle bir işi yap",
+   "aciklama": "Bugün yaptığın bir işi, hesabını verebileceğin şekilde yap."
+  },
+  {
+   "baslik": "Bir soruyu kendine sor",
+   "aciklama": "Bugün gördüğün bir nimeti, onu kime borçlu olduğunu düşünerek değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün yaptığın bir işi, sonunda hesabını rahatça verebileceğin şekilde yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=95&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/95/7"
+  }
+ ]
+}
