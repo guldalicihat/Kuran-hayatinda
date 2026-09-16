@@ -1,0 +1,75 @@
+{
+ "sure": 92,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Açığa çıktığında gündüze andolsun.",
+ "mealNotu": "'Tecellâ' kökü açığa çıkmayı, parlamayı anlatır. Gündüz burada, gecenin örttüğünü yeniden ortaya seren vakit olarak anılır.",
+ "kokler": [
+  {
+   "kelime": "وَٱلنَّهَارِ",
+   "okunus": "ven nehâri",
+   "kok": "نهر",
+   "kokAnlam": "gündüz, yayılan aydınlık",
+   "karsilik": "gündüze andolsun"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman edatı) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "تَجَلَّىٰ",
+   "okunus": "tecellâ",
+   "kok": "جلو",
+   "kokAnlam": "açığa çıkma, parlama, belirginleşme",
+   "karsilik": "açığa çıktığında"
+  }
+ ],
+ "neAnlatiyor": [
+  "İkinci yemin gündüze yöneliktir. 'Tecellâ' kökü açığa çıkmayı, parlamayı anlatır; gündüz, gecenin örttüğü karanlığı geride bırakıp ışığı görünür kılar.",
+  "Bu ayet, bir önceki gece yeminiyle bir çift oluşturarak zıtlık üzerinden bir vurgu kurar. Klasik tefsir, bu tür art arda gelen zıt yeminlerin, ardından gelen 'çabalarınız çeşit çeşittir' ayetine (4. ayet) bir hazırlık olduğunu belirtir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "91:3",
+   "meal": "Onu açığa çıkardığında gündüze andolsun.",
+   "baglanti": "Şems suresindeki gündüz yemini de aynı kökle (cellâ) kurulmuştur; iki sure aynı imgeyi paylaşır."
+  },
+  {
+   "ref": "92:1",
+   "meal": "Örttüğünde geceye andolsun.",
+   "baglanti": "Gündüz yemini, bir önceki ayetteki gece yeminiyle doğrudan karşıtlık oluşturur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu gündüzün, ışığı açığa çıkaran doğal işlevidir.",
+  "Gece-gündüz döngüsü, insana da hayatında dinlenme ve etkin çalışma vakitlerini dengelemesi gerektiğini hatırlatabilir; her ikisinin de kendine ait bir değeri vardır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gündüzü etkin kullan",
+   "aciklama": "Bugün gün ışığındayken önemli bir işini bitirmeye odaklan."
+  },
+  {
+   "baslik": "Dengeyi kur",
+   "aciklama": "Çalışma ve dinlenme vakitlerini bugün bilinçli olarak ayır."
+  },
+  {
+   "baslik": "Zıtlığı fark et",
+   "aciklama": "Gece ve gündüzün sana kattığı farklı şeyleri bir cümleyle düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün gün ışığındayken önemli bir işini bitirmeye odaklan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=92&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/92/2"
+  }
+ ]
+}

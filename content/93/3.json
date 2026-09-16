@@ -1,0 +1,89 @@
+{
+ "sure": 93,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Rabbin seni bırakmadı ve sana darılmadı.",
+ "mealNotu": "'Veddea' kökü terk edip bırakmayı; 'kalâ' kökü ise darılmayı, nefret etmeyi anlatır. Ayet, bu iki olumsuzluğu birlikte reddeder.",
+ "kokler": [
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "وَدَّعَكَ",
+   "okunus": "veddeake",
+   "kok": "ودع",
+   "kokAnlam": "terk etme, bırakma, veda etme",
+   "karsilik": "seni bırakmadı"
+  },
+  {
+   "kelime": "رَبُّكَ",
+   "okunus": "rabbüke",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbin"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) ve değil",
+   "karsilik": "ve -medi"
+  },
+  {
+   "kelime": "قَلَىٰ",
+   "okunus": "kalâ",
+   "kok": "قلي",
+   "kokAnlam": "darılma, nefret etme, hoşlanmama",
+   "karsilik": "darılmadı"
+  }
+ ],
+ "neAnlatiyor": [
+  "İki yeminin ardından sure, asıl mesajına geçer: Rabbin Peygamber'i bırakmamış, ona darılmamıştır. 'Veddea' terk etmeyi, 'kalâ' ise darılmayı anlatır; ayet bu iki olumsuz düşünceyi birlikte reddeder.",
+  "Bu ayet, klasik tefsire göre, bir süre vahyin kesildiği bir dönemde, bunun bir terk edilme olduğu düşüncesine karşı bir teselli olarak inmiştir. Kesin tarih veya süre belirtmeden, ayetin verdiği güvence şudur: bu sessizlik bir bırakılma değildir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "94:1",
+   "meal": "Senin göğsünü genişletmedik mi?",
+   "baglanti": "İnşirah suresinin bu açılışı, Duhâ suresiyle aynı teselli havasını taşır; iki sure birbirini tamamlayan bir bütün gibi okunur."
+  },
+  {
+   "ref": "93:4",
+   "meal": "Ahiret senin için ilk hayattan daha hayırlıdır.",
+   "baglanti": "Rabbin bırakmadığı güvencesi, bir sonraki ayette ahiretin dünyadan daha hayırlı olduğu müjdesiyle devam eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'e verilen özel bir tesellidir; bu, tarihî bir bağlama sahiptir.",
+  "Günlük hayata taşınabilecek ders, zor ve belirsiz bir dönemde yalnız veya terk edilmiş hissetmenin gerçeği yansıtmayabileceğidir; bir sessizlik dönemi, ilginin bittiği anlamına gelmez."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sabırlı ol",
+   "aciklama": "Bugün cevap bekleyen bir konuda sessizliği hemen olumsuz yorumlama."
+  },
+  {
+   "baslik": "Güveni tazele",
+   "aciklama": "Zor bir dönemde olduğunu hissediyorsan bunun geçici olabileceğini hatırla."
+  },
+  {
+   "baslik": "Birine destek ol",
+   "aciklama": "Yalnız hissettiğini düşündüğün birine bugün ulaş, onu terk edilmediğini hissettir."
+  }
+ ],
+ "bugununAdimi": "Yalnız hissettiğini düşündüğün birine bugün ulaşıp bir mesaj gönder.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/93/3"
+  }
+ ]
+}

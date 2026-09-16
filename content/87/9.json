@@ -1,0 +1,82 @@
+{
+ "sure": 87,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Öğüt fayda verecekse öğüt ver.",
+ "mealNotu": "'Zikr' kökü hatırlatma, öğüt vermeyi anlatır; 'nef'' kökü fayda vermeyi ifade eder.",
+ "kokler": [
+  {
+   "kelime": "فَذَكِّرْ",
+   "okunus": "fezekkir",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlatma, öğüt verme",
+   "karsilik": "öğüt ver"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "نَّفَعَتِ",
+   "okunus": "nefeati",
+   "kok": "نفع",
+   "kokAnlam": "fayda verme, yararlı olma",
+   "karsilik": "fayda verecekse"
+  },
+  {
+   "kelime": "ٱلذِّكْرَىٰ",
+   "okunus": "ezzikrâ",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlatma, öğüt",
+   "karsilik": "öğüt"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetlerdeki kolaylık vaadinden sonra Peygamber'e görevini hatırlatır: öğüt vermeye devam etmesi, çünkü öğüt fayda verecektir. 'Zikr' kökü hatırlatmayı, 'nef'' kökü faydayı anlatır.",
+  "Bazı yorumlar bu şartı, öğüdün her durumda fayda vereceğine, bazıları ise fayda verip vermeyeceğine bakılmaksızın öğüt görevinin sürmesi gerektiğine yorar. Sonraki ayetler, öğütten kimin yararlanıp kimin kaçınacağını açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "51:55",
+   "meal": "Öğüt ver, çünkü öğüt müminlere fayda verir.",
+   "baglanti": "Zâriyât suresindeki bu ayet aynı 'zikra' ve 'nef'' köklerini kullanarak öğüt vermenin müminler için faydalı olduğunu bildirir."
+  },
+  {
+   "ref": "87:10",
+   "meal": "İçi titreyerek korkan, öğüt alacaktır.",
+   "baglanti": "Bu ayetteki 'fayda verecekse' şartı, hemen sonraki ayette öğütten kimin yararlanacağı belirtilerek açıklığa kavuşur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'e öğüt verme görevinin hatırlatılmasıdır. Bu, tebliğ görevinin sürekliliğine işaret eder.",
+  "Buradan çıkan ders, iyi niyetle verilen öğüdün değerini ve zamanlamasını gözetmektir. Öğüt, kişinin alabileceği bir anda ve tarzda verilirse daha faydalı olur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yerinde bir öğüt ver",
+   "aciklama": "Bugün birine, onu incitmeden ve doğru zamanda faydalı bir öğüt ver."
+  },
+  {
+   "baslik": "Öğüdü kabul et",
+   "aciklama": "Sana verilen bir öğüdü savunmaya geçmeden önce dinle ve düşün."
+  },
+  {
+   "baslik": "Israrcı olma",
+   "aciklama": "Fayda vermediğini gördüğün bir uyarıyı tekrar tekrar dayatmak yerine bırak, ama umudunu kesme."
+  }
+ ],
+ "bugununAdimi": "Bugün birine, kırmadan ve kısaca faydalı bir öğüt ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=87&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/87/9"
+  }
+ ]
+}

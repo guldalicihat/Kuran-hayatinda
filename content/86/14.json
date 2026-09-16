@@ -1,0 +1,75 @@
+{
+ "sure": 86,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "O, bir şaka değildir.",
+ "mealNotu": "'Hezl' kökü şaka, ciddiyetsiz söz anlamındadır. Ayet, Kur'an'ın ciddiyetini ve gerçekliğini vurgular.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değildir",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "بِٱلْهَزْلِ",
+   "okunus": "bil hezli",
+   "kok": "هزل",
+   "kokAnlam": "şaka, ciddiyetsiz söz",
+   "karsilik": "bir şaka"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki 'ayırt edici söz' tanımını pekiştirir: Kur'an bir şaka veya boş söz değildir. 'Hezl' kökü ciddiyetsizliği anlatır; olumsuzlanarak Kur'an'ın tam tersi bir nitelikte olduğu vurgulanır.",
+  "Bu vurgu, Kur'an'a şüpheyle veya hafife alarak yaklaşanlara bir uyarıdır. Sonraki ayetler, buna rağmen bazı kişilerin tuzak kurmaya devam ettiğini anlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "86:13",
+   "meal": "Şüphesiz o, ayırt edici bir sözdür.",
+   "baglanti": "Bu ayet, bir önceki ayetteki 'ayırt edici söz' tanımını 'şaka değildir' diyerek tamamlar."
+  },
+  {
+   "ref": "38:87",
+   "meal": "O, âlemler için ancak bir öğüttür.",
+   "baglanti": "Sâd suresindeki bu ayet de Kur'an'ın ciddi ve evrensel bir öğüt olduğunu bildirerek 'şaka değildir' vurgusunu destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kur'an'ın ciddiyetidir. Bu bir iman ilkesi olup, Kur'an'ın hafife alınamayacağını bildirir.",
+  "Buradan çıkan ders, önemli sözleri ve verilen sözleri hafife almamaktır. Ciddiyetle söylenen bir söz, ciddiyetle karşılanmalı ve yerine getirilmelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Verdiğin sözü hatırla",
+   "aciklama": "Bugün birine verdiğin bir sözü gözden geçir ve onu yerine getirmek için adım at."
+  },
+  {
+   "baslik": "Ciddiyetle dinle",
+   "aciklama": "Bugün biri önemli bir şey anlatırken onu hafife almadan dikkatle dinle."
+  },
+  {
+   "baslik": "Şakayı yerinde kullan",
+   "aciklama": "Şaka yaparken karşındakinin ciddi olduğu bir konuyu hafife almadığından emin ol."
+  }
+ ],
+ "bugununAdimi": "Bugün unuttuğun veya ertelediğin bir sözünü hatırlayıp onu yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=86&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/86/14"
+  }
+ ]
+}

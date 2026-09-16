@@ -1,0 +1,68 @@
+{
+ "sure": 89,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Çifte ve teke andolsun.",
+ "mealNotu": "'Şef' kökü çift olmayı, 'vetr' kökü tek olmayı anlatır. Ayet hangi çift ve tekin kastedildiğini açıklamaz; meal buna sadık kalır.",
+ "kokler": [
+  {
+   "kelime": "وَٱلشَّفْعِ",
+   "okunus": "veş şef'i",
+   "kok": "شفع",
+   "kokAnlam": "çift, iki olma",
+   "karsilik": "çifte"
+  },
+  {
+   "kelime": "وَٱلْوَتْرِ",
+   "okunus": "vel vetri",
+   "kok": "وتر",
+   "kokAnlam": "tek, tek sayı",
+   "karsilik": "teke"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, fecir yeminler dizisinin üçüncüsüdür. Çift ve tek, sayı düzeninin iki temel biçimidir; her ikisine birlikte yemin edilmesi, yaratılıştaki düzenin bütününe dikkat çeker.",
+  "Klasik tefsir bu ifadeye farklı anlamlar yükler: bazıları bütün yaratılmışların çift, yalnız Allah'ın tek oluşuna, bazıları da namaz rekâtları gibi dini uygulamalara işaret eder demiştir. Ayetin kendisi bu yorumlardan hiçbirini kesinleştirmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "51:49",
+   "meal": "Her şeyden iki eş yarattık ki düşünüp öğüt alasınız.",
+   "baglanti": "Çift yaratılış teması burada açıkça ifade edilir; Fecr suresindeki 'şef' yeminiyle aynı gerçeğe işaret eder."
+  },
+  {
+   "ref": "112:1",
+   "meal": "De ki: O, Allah'tır, tektir.",
+   "baglanti": "'Vetr' (tek) kavramı, Allah'ın tekliğini vurgulayan bu ayetle klasik tefsirde ilişkilendirilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan sayı düzenine yapılan yemindir; günlük hayatla dolaysız bağı yoktur, ama düzenin bütünlüğüne dikkat çeker.",
+  "Hayattaki eşleşmeler (gece-gündüz, sağlık-hastalık) ve tek kalan gerçekler (ölüm, hesap günü gibi) üzerinde durmak, insana kendi konumunu hatırlatır. Bu ayet, çevredeki düzenin farkında olmayı teşvik eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir eşleşmeyi fark et",
+   "aciklama": "Bugün çevrende doğal bir çift bul (gece-gündüz gibi) ve bunun üzerine bir dakika düşün."
+  },
+  {
+   "baslik": "Tekliği hatırla",
+   "aciklama": "Hayatında tek ve değiştirilemez olan bir gerçeği (örneğin ölüm) bir cümleyle kendine hatırlat."
+  },
+  {
+   "baslik": "Düzeni yaz",
+   "aciklama": "Bugün gördüğün bir doğal düzeni (mevsim, gün-gece gibi) not defterine yaz."
+  }
+ ],
+ "bugununAdimi": "Bugün gördüğün bir çift-tek örneğini not al ve üzerine kısaca düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/89/3"
+  }
+ ]
+}

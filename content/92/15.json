@@ -1,0 +1,82 @@
+{
+ "sure": 92,
+ "ayet": 15,
+ "durum": "taslak",
+ "meal": "Ona ancak en azgın olan girer.",
+ "mealNotu": "'Sıla' kökü girmeyi, maruz kalmayı; 'eşkâ' ise en azgın, en bedbaht kişiyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يَصْلَىٰهَآ",
+   "okunus": "yaslâhâ",
+   "kok": "صلي",
+   "kokAnlam": "girme, ateşe maruz kalma",
+   "karsilik": "ona girer"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna edatı) ancak, -den başka",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ٱلْأَشْقَى",
+   "okunus": "el'eşkâ",
+   "kok": "شقو",
+   "kokAnlam": "azgınlık, bedbahtlık; en azgını",
+   "karsilik": "en azgın olan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayette uyarılan ateşe kimin gireceğini bildirir: en azgın olan. 'Eşkâ' kökü, Şems suresinde Semûd kavminin öncüsü için de kullanılan aynı kelimedir.",
+  "Bu ifade, cezanın rastgele değil, kişinin kendi azgınlığının bir sonucu olduğunu vurgular. Bir sonraki ayet, bu azgının kim olduğunu (yalanlayan ve yüz çeviren) tanımlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "91:12",
+   "meal": "Onların en azgını ortaya çıktığında.",
+   "baglanti": "Şems suresinde Semûd kavminin öncüsü için kullanılan aynı kök (eşkâ), burada ateşe girecek kişi için tekrarlanır."
+  },
+  {
+   "ref": "92:16",
+   "meal": "O ki yalanladı ve yüz çevirdi.",
+   "baglanti": "Bu ayetteki 'en azgın olan' kimliği, bir sonraki ayette yalanlama ve yüz çevirme eylemleriyle tanımlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ahiretteki cezanın kimin başına geleceğidir; bu, dinî bir bildirimdir.",
+  "Günlük hayatta bu, sonucun kişinin kendi tercihleriyle bağlantılı olduğunu hatırlatır; azgınlık ve inat, kişiyi kendi eliyle zorlu bir sona sürükleyebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İnadı fark et",
+   "aciklama": "Bugün bir konuda haksız yere inat ettiğini fark edersen geri adım at."
+  },
+  {
+   "baslik": "Sorumluluğu kabul et",
+   "aciklama": "Bir sonucun kendi tercihlerinle bağlantısını düşün."
+  },
+  {
+   "baslik": "Azgınlıktan kaçın",
+   "aciklama": "Bugün bir tartışmada ölçüyü aşmamaya özen göster."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda haksız yere inat ettiğini fark edersen geri adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=92&verse=15"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/92/15"
+  }
+ ]
+}

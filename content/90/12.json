@@ -1,0 +1,82 @@
+{
+ "sure": 90,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Sarp yokuşun ne olduğunu sana ne bildirdi?",
+ "mealNotu": "Bu kalıp, Kur'an'da önemli bir konuyu vurgulamak için sık kullanılır; 'akabe'nin önemini ve derinliğini anlatmak için bir soru cümlesiyle dikkat çekilir.",
+ "kokler": [
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "ne (soru)",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "أَدْرَىٰكَ",
+   "okunus": "edrâke",
+   "kok": "دري",
+   "kokAnlam": "bilme, haberdar etme",
+   "karsilik": "sana bildirdi"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ne (soru)",
+   "karsilik": "nedir"
+  },
+  {
+   "kelime": "ٱلْعَقَبَةُ",
+   "okunus": "el'akabetü",
+   "kok": "عقب",
+   "kokAnlam": "sarp yokuş, geçit",
+   "karsilik": "sarp yokuş"
+  }
+ ],
+ "neAnlatiyor": [
+  "11. ayette anılan 'sarp yokuş', burada özel bir vurguyla tekrar edilir. Bu soru kalıbı, konunun sıradan olmadığını, dikkatle anlaşılması gerektiğini gösterir.",
+  "Klasik tefsir, bu tür 've mâ edrâke' kalıplarının Kur'an'da genelde büyük ve önemli bir gerçeği tanıtmadan önce kullanıldığını belirtir. Sonraki ayetler bu sorunun cevabını verir: sarp yokuş, köle azat etmek veya açı doyurmaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "97:2",
+   "meal": "Kadir gecesinin ne olduğunu sana ne bildirdi?",
+   "baglanti": "Kadr suresinde de aynı kalıp kullanılır; her iki ayet de önemli bir gerçeği tanıtmadan önce dikkat çekici bir soru sorar."
+  },
+  {
+   "ref": "101:3",
+   "meal": "Kâria'nın ne olduğunu sana ne bildirdi?",
+   "baglanti": "Kâria suresinde de aynı vurgulu soru kalıbı geçer; Beled suresindeki 'akabe nedir' sorusuyla aynı üslubu paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, önemli bir gerçeğe dikkat çekmek için kullanılan vurgulu bir soru kalıbıdır; bu, konunun ciddiyetini gösterir.",
+  "Günlük hayatta bazı gerçekleri sıradan görüp üzerinde durmayız. Bu ayetin üslubu, önemli konulara durup düşünerek yaklaşmayı, onları hafife almamayı öğütler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önemli bir konuya odaklan",
+   "aciklama": "Bugün üzerinde durmadığın ama önemli olan bir konuya birkaç dakika ayır."
+  },
+  {
+   "baslik": "Bir soruyu derinleştir",
+   "aciklama": "Bugün kendine sorduğun bir soruyu yüzeysel geçmeden düşün."
+  },
+  {
+   "baslik": "Merakını canlı tut",
+   "aciklama": "Bugün bir Kur'an ayetinin anlamını merakla araştır."
+  }
+ ],
+ "bugununAdimi": "Bugün önemli ama ihmal ettiğin bir konuya birkaç dakika durup düşünerek ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=90&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/90/12"
+  }
+ ]
+}

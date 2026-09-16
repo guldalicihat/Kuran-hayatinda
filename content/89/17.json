@@ -1,0 +1,89 @@
+{
+ "sure": 89,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "Hayır! Bilakis siz yetime ikram etmiyorsunuz.",
+ "mealNotu": "'Kellâ' önceki yanlış anlayışı (nimet=onur, darlık=alçalma) reddeder. 'Tükrimûne' fiili aynı كرم kökünden gelir; 15. ayetteki 'ekrame' (ikram etti) ile bağlantılıdır.",
+ "kokler": [
+  {
+   "kelime": "كَلَّا",
+   "okunus": "kellâ",
+   "kok": "—",
+   "kokAnlam": "hayır, asla (caydırma edatı)",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "بَل",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "bilakis, aksine",
+   "karsilik": "bilakis"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-mıyorsunuz"
+  },
+  {
+   "kelime": "تُكْرِمُونَ",
+   "okunus": "tükrimûne",
+   "kok": "كرم",
+   "kokAnlam": "ikram etme, saygı gösterme, onurlandırma",
+   "karsilik": "ikram etmiyorsunuz"
+  },
+  {
+   "kelime": "ٱلْيَتِيمَ",
+   "okunus": "elyetîme",
+   "kok": "يتم",
+   "kokAnlam": "yetim, öksüz",
+   "karsilik": "yetime"
+  }
+ ],
+ "neAnlatiyor": [
+  "'Kellâ' (hayır) ifadesi, 15-16. ayetlerdeki yanlış anlayışı keskin biçimde reddeder. Asıl mesele nimet ya da darlık değil, insanın davranışlarıdır; ayet doğrudan bir eleştiriye geçer: yetime ikram etmemek.",
+  "'Tükrimûne' fiili, 15. ayette Allah'ın insana 'ikram ettiği' fiille aynı köktendir. Bu, ince bir karşılaştırma kurar: Allah insana ikram ederken, insan yetime aynı ikramı göstermez. Klasik tefsir bunu, nimetin şükrünün muhtaçlara iyilikle ödenmesi gerektiği şeklinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "93:9",
+   "meal": "Öyleyse yetimi sakın ezme.",
+   "baglanti": "Duhâ suresinde de yetime iyi davranmak doğrudan emredilir; Fecr suresindeki eleştiri bu emrin ihlal edildiğini gösterir."
+  },
+  {
+   "ref": "107:2",
+   "meal": "İşte o, yetimi itip kakan kimsedir.",
+   "baglanti": "Mâûn suresi de yetime kötü davranmayı dinin özünden uzaklaşmanın bir göstergesi sayar; aynı eleştiri burada tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu yetime karşı gösterilmeyen ikramdır; bu, toplumun en savunmasız kesimlerine yönelik sorumluluğu hatırlatır.",
+  "Yetim veya kimsesiz bir çocuğa değer vermek, ona zaman ayırmak, maddi destek olmak bu ayetin çağrısına uygun somut davranışlardır. Sadece acımak yetmez; ikram, saygı ve gerçek ilgi gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir yetime destek ol",
+   "aciklama": "Bugün bir yetim veya kimsesiz çocuğa yardım eden bir kuruma küçük bir katkı yap."
+  },
+  {
+   "baslik": "Değer verdiğini göster",
+   "aciklama": "Bugün ailende veya çevrende bir çocuğa özel zaman ayır."
+  },
+  {
+   "baslik": "İkramı somutlaştır",
+   "aciklama": "Bugün bir muhtaca sadece para değil, saygılı bir ilgiyle yaklaş."
+  }
+ ],
+ "bugununAdimi": "Bugün bir yetim veya kimsesiz çocuğa yardım eden bir kuruluşu araştır ve küçük bir katkı yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/89/17"
+  }
+ ]
+}

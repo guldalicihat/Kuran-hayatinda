@@ -1,0 +1,96 @@
+{
+ "sure": 87,
+ "ayet": 13,
+ "durum": "taslak",
+ "meal": "Sonra orada ne ölür ne de yaşar.",
+ "mealNotu": "Ayet, o ateşteki hâlin ne tam bir ölüm ne de gerçek bir hayat olduğunu, ikisi arasında sürekli bir azap olduğunu anlatır.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "يَمُوتُ",
+   "okunus": "yemûtü",
+   "kok": "موت",
+   "kokAnlam": "ölme",
+   "karsilik": "ölür"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) orada",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "يَحْيَىٰ",
+   "okunus": "yahyâ",
+   "kok": "حيي",
+   "kokAnlam": "yaşama, hayatta olma",
+   "karsilik": "yaşar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayette bildirilen büyük ateşteki hâli tasvir eder: kişi orada ne tam ölür ne de gerçek anlamda yaşar. Bu, acıdan kurtulacak bir ölümün de, rahat edecek bir hayatın da olmadığı sürekli bir azap hâlidir.",
+  "Bu tasvir, azabın süresizliğini ve şiddetini vurgular. Sonraki ayet, bundan sonra sureyi bambaşka bir yöne, kurtuluşa eren kişinin tanımına çevirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "20:74",
+   "meal": "Kim Rabbine günahkâr olarak gelirse, ona cehennem vardır; orada ne ölür ne de yaşar.",
+   "baglanti": "Tâhâ suresindeki bu ayet birebir aynı ifadeyle, günahkâr olarak gelen kişinin akıbetini tarif eder."
+  },
+  {
+   "ref": "35:36",
+   "meal": "İnkâr edenlere gelince, onlara cehennem ateşi vardır; ne öldürülüp kurtulurlar ne de azapları hafifletilir.",
+   "baglanti": "Fâtır suresindeki bu ayet de aynı 'ne ölür ne kurtulur' fikrini, azabın hafifletilmeyeceğini ekleyerek genişletir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ahiretteki sürekli azap hâlidir. Bu bir uyarı ayetidir; günlük hayata doğrudan bir kural koymaz.",
+  "Buradan çıkan ders, geçici bir rahatlık uğruna kalıcı bir zarara girmemektir. Anlık bir hazzın, uzun vadede çok daha büyük bir sıkıntıya yol açabileceğini hatırlamak önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Anlık hazzı sorgula",
+   "aciklama": "Bugün seni cezbeden anlık bir hazzın uzun vadeli bedelini düşün."
+  },
+  {
+   "baslik": "Kalıcı huzuru seç",
+   "aciklama": "Geçici bir rahatlık yerine bugün kalıcı bir huzur getirecek bir seçim yap."
+  },
+  {
+   "baslik": "Şükürle güne bak",
+   "aciklama": "Bugün yaşadığın anın bir nimet olduğunu fark edip buna şükret."
+  }
+ ],
+ "bugununAdimi": "Bugün anlık bir hazzı erteleyip yerine kalıcı fayda getirecek bir işi seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=87&verse=13"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/87/13"
+  }
+ ]
+}

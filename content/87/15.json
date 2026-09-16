@@ -1,0 +1,82 @@
+{
+ "sure": 87,
+ "ayet": 15,
+ "durum": "taslak",
+ "meal": "Rabbinin ismini anıp namaz kılan (da kurtulmuştur).",
+ "mealNotu": "'Zikr' kökü anmayı, 'salât' kökü namazı anlatır. Ayet, önceki ayetteki arınmanın somut bir ifadesidir.",
+ "kokler": [
+  {
+   "kelime": "وَذَكَرَ",
+   "okunus": "ve zekera",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama",
+   "karsilik": "ve anıp"
+  },
+  {
+   "kelime": "ٱسْمَ",
+   "okunus": "isme",
+   "kok": "سمو",
+   "kokAnlam": "isim, ad",
+   "karsilik": "ismini"
+  },
+  {
+   "kelime": "رَبِّهِۦ",
+   "okunus": "rabbihî",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbinin"
+  },
+  {
+   "kelime": "فَصَلَّىٰ",
+   "okunus": "fesallâ",
+   "kok": "صلو",
+   "kokAnlam": "namaz kılma, dua etme",
+   "karsilik": "namaz kıldı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki arınmış kişinin somut davranışını bildirir: Rabbinin ismini anmak ve namaz kılmak. 'Zikr' kökü anmayı, 'salât' kökü namazı anlatır.",
+  "Bu, arınmanın soyut bir hâl değil, ibadetle somutlaşan bir yaşayış olduğunu gösterir. Sonraki ayet, buna karşılık çoğu insanın dünya hayatını tercih ettiğini anlatarak bir tezat kurar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "87:14",
+   "meal": "Arınan kimse gerçekten kurtuluşa ermiştir.",
+   "baglanti": "Bu ayet, bir önceki ayetteki arınmanın somut bir görünümü olarak Rabbi anıp namaz kılmayı sunar."
+  },
+  {
+   "ref": "20:14",
+   "meal": "Şüphesiz ben Allah'ım; benden başka ilah yoktur. Bana kulluk et ve beni anmak için namaz kıl.",
+   "baglanti": "Tâhâ suresindeki bu ayet de namazı, Allah'ı anmanın somut bir yolu olarak tanıtır ve 87:15'i destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Rabbi anmanın ve namaz kılmanın kurtuluşla bağlantısıdır. Bu bir ibadet vurgusudur.",
+  "Buradan çıkan ders, iç dünyadaki arınmayı somut bir eyleme, düzenli ibadete dönüştürmektir. Sadece niyet değil, düzenli bir uygulama da gereklidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Namazını vaktinde kıl",
+   "aciklama": "Bugün bir namazını erteleyip aksatmak yerine vaktinde kılmaya özen göster."
+  },
+  {
+   "baslik": "Kısa bir zikirle an",
+   "aciklama": "Günün içinde birkaç kez Allah'ı kısaca anmaya zaman ayır."
+  },
+  {
+   "baslik": "Huzurla kıl",
+   "aciklama": "Bugün kıldığın bir namazı acele etmeden, huzurla kılmaya çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün bir namazını, dikkatini toplayarak ve acele etmeden kıl.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=87&verse=15"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/87/15"
+  }
+ ]
+}

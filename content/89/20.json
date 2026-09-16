@@ -1,0 +1,82 @@
+{
+ "sure": 89,
+ "ayet": 20,
+ "durum": "taslak",
+ "meal": "Ve malı aşırı bir sevgiyle seviyorsunuz.",
+ "mealNotu": "'Cemmâ' kökü çokluğu, taşkınlığı anlatır; burada mal sevgisinin ölçüsüz boyutuna işaret eder. Bu ayet, 17-19. ayetlerdeki üç eleştiriyi toparlayan bir sebep cümlesidir.",
+ "kokler": [
+  {
+   "kelime": "وَتُحِبُّونَ",
+   "okunus": "ve tühibbûne",
+   "kok": "حبب",
+   "kokAnlam": "sevme",
+   "karsilik": "ve seviyorsunuz"
+  },
+  {
+   "kelime": "ٱلْمَالَ",
+   "okunus": "elmâle",
+   "kok": "مول",
+   "kokAnlam": "mal, servet",
+   "karsilik": "malı"
+  },
+  {
+   "kelime": "حُبًّا",
+   "okunus": "hubben",
+   "kok": "حبب",
+   "kokAnlam": "sevgi",
+   "karsilik": "bir sevgiyle"
+  },
+  {
+   "kelime": "جَمًّا",
+   "okunus": "cemmen",
+   "kok": "جمم",
+   "kokAnlam": "çok, aşırı, taşkın",
+   "karsilik": "aşırı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki üç davranışın (yetime ikram etmeme, yoksulu doyurmayı teşvik etmeme, mirası haksızca yeme) altında yatan sebebi ortaya koyar: mala aşırı düşkünlük.",
+  "Mal sevgisi kendisi kötü değildir; ayetin eleştirdiği, bu sevginin ölçüsüzlüğü ve başkalarının hakkını gözetmeye engel oluşudur. Klasik tefsir, bu ayeti dünya malına duyulan aşırı bağlılığın ahiret sorumluluğunu unutturduğu şeklinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "100:8",
+   "meal": "Ve o, mal sevgisinde de gerçekten çok düşkündür.",
+   "baglanti": "Âdiyât suresinde de insanın mal sevgisindeki aşırılığı aynı temayla anlatılır; iki ayet birbirini tamamlar."
+  },
+  {
+   "ref": "3:14",
+   "meal": "Kadınlar, oğullar, yığın yığın biriktirilmiş altın ve gümüş, salma atlar, davarlar ve ekinler gibi nefsin arzuladığı şeyler insanlara süslü gösterildi.",
+   "baglanti": "Bu ayet dünya malına duyulan arzunun insana çekici gösterildiğini anlatır; Fecr suresindeki 'aşırı sevgi' ifadesiyle aynı gerçeğe işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu mal sevgisinin ölçüsüzlüğüdür; malın kendisi değil, ona duyulan aşırı bağlılık eleştirilir.",
+  "Kazanmak, biriktirmek ve güvence oluşturmak meşrudur; ancak bu, başkasının hakkını gözetmeyi engellememelidir. Harcama ve biriktirme alışkanlıklarını ara sıra gözden geçirmek, mal sevgisinin ölçüsünü korumaya yardımcı olur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Harcamanı gözden geçir",
+   "aciklama": "Bugün son bir haftalık harcamalarını gözden geçir, gereksiz olanı fark et."
+  },
+  {
+   "baslik": "Paylaşarak biriktir",
+   "aciklama": "Bugün biriktirdiğin bir miktarın küçük bir kısmını bir yardıma ayır."
+  },
+  {
+   "baslik": "Ölçünü sorgula",
+   "aciklama": "Bugün bir alışveriş kararında 'gerçekten ihtiyacım var mı' diye sor."
+  }
+ ],
+ "bugununAdimi": "Bugün bir harcama kararı vermeden önce, gerçekten ihtiyacın olup olmadığını yazılı olarak değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=20"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/89/20"
+  }
+ ]
+}

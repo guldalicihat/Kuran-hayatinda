@@ -1,0 +1,96 @@
+{
+ "sure": 90,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "İnsan, kendisine hiç kimsenin güç yetiremeyeceğini mi sanıyor?",
+ "mealNotu": "Bu ayet, 4. ayette anlatılan zorluk içindeki insanın yanlış bir tavrını sorgular: gücüne güvenip hesap vermeyeceğini sanmak.",
+ "kokler": [
+  {
+   "kelime": "أَيَحْسَبُ",
+   "okunus": "eyahsebü",
+   "kok": "حسب",
+   "kokAnlam": "sanma, zannetme; hesap etme",
+   "karsilik": "sanıyor mu"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "ki, -ması (bağlaç)",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "لَّن",
+   "okunus": "len",
+   "kok": "—",
+   "kokAnlam": "asla, hiç (kesin olumsuzluk)",
+   "karsilik": "asla"
+  },
+  {
+   "kelime": "يَقْدِرَ",
+   "okunus": "yekdira",
+   "kok": "قدر",
+   "kokAnlam": "güç yetirme, ölçme, takdir etme",
+   "karsilik": "güç yetiremeyecek"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "onun üzerine, ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "أَحَدٌ",
+   "okunus": "ehadün",
+   "kok": "أحد",
+   "kokAnlam": "bir, hiç kimse",
+   "karsilik": "hiç kimse"
+  }
+ ],
+ "neAnlatiyor": [
+  "Zorluk içinde yaratılan insan, bazen bu zorluklarla baş etme gücünü kendine mal edip kimseye hesap vermeyeceğini sanabilir. Ayet bu yanılgıyı soru şeklinde sorgular.",
+  "Klasik tefsir bu ayeti, insanın gücüne, servetine veya statüsüne güvenerek hesaba çekilmeyeceğini düşünmesinin eleştirisi olarak açıklar. Sonraki ayet bu tavrın somut bir örneğini (mal ile övünme) verir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "75:3",
+   "meal": "İnsan, kemiklerini bir araya toplayamayacağımızı mı sanır?",
+   "baglanti": "Kıyâme suresi de insanın yanlış bir 'sanma' içinde olduğunu, bu kez diriltilme konusunda sorgular; Beled suresindeki 'sanıyor mu' sorusuyla aynı üslubu paylaşır."
+  },
+  {
+   "ref": "96:6",
+   "meal": "Hayır, gerçekten insan azgınlık eder.",
+   "baglanti": "Alak suresi de insanın kendini yeterli görüp azgınlaştığını anlatır; Beled suresindeki 'kimse bana güç yetiremez' yanılgısıyla aynı tavrı işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu insanın kendi gücüne aşırı güvenip hesap vermeyeceğini sanması yanılgısıdır.",
+  "Güçlü, başarılı veya bağımsız hissetmek, insana yanlışlıkla sınırsız bir özgürlük hissi verebilir. Bu ayet, ne kadar güçlü olursak olalım, sorumluluğumuzun devam ettiğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sorumluluğunu hatırla",
+   "aciklama": "Bugün güçlü hissettiğin bir alanda bile sorumluluğunu unutma."
+  },
+  {
+   "baslik": "Hesap bilincini taşı",
+   "aciklama": "Bugün bir kararını, sonucundan sorumlu olacağını bilerek ver."
+  },
+  {
+   "baslik": "Alçakgönüllü kal",
+   "aciklama": "Bugün bir başarını, mütevazı bir dille anlat."
+  }
+ ],
+ "bugununAdimi": "Bugün güçlü hissettiğin bir konuda, sorumluluğunu unutmadığını gösteren bir davranış sergile.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=90&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/90/5"
+  }
+ ]
+}

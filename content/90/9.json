@@ -1,0 +1,68 @@
+{
+ "sure": 90,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Ve bir dil, iki dudak?",
+ "mealNotu": "Bu ayet 8. ayetin devamıdır (aynı 'kılmadık mı' sorusuna bağlanır): 'Ona iki göz, bir dil ve iki dudak vermedik mi?' Meal bu bağlamda okunmalıdır.",
+ "kokler": [
+  {
+   "kelime": "وَلِسَانًا",
+   "okunus": "ve lisânen",
+   "kok": "لسن",
+   "kokAnlam": "dil, konuşma organı",
+   "karsilik": "ve bir dil"
+  },
+  {
+   "kelime": "وَشَفَتَيْنِ",
+   "okunus": "ve şefeteyni",
+   "kok": "شفه",
+   "kokAnlam": "dudak",
+   "karsilik": "ve iki dudak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Nimet sayımı devam eder: göz nimetinden sonra dil ve dudaklar anılır. Bunlar konuşma, ifade etme ve iletişim kurma yeteneğinin araçlarıdır; insanı diğer canlılardan ayıran temel özelliklerden biridir.",
+  "Klasik tefsir bu organları, insanın doğru veya yanlış konuşma, hakkı söyleme veya gizleme gücüne sahip olduğunu hatırlatan bir bağlam içinde açıklar. Bu nimetler, sorumlulukla birlikte gelir; nasıl kullanıldığı önemlidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "55:4",
+   "meal": "Ona beyanı (açık ifadeyi) öğretti.",
+   "baglanti": "Rahmân suresi de insana konuşma ve ifade yeteneğinin bir nimet olarak verildiğini anlatır; Beled suresindeki 'dil' nimetiyle aynı gerçeğe işaret eder."
+  },
+  {
+   "ref": "50:18",
+   "meal": "İnsan hiçbir söz söylemez ki yanında onu kaydeden hazır bir gözetleyici bulunmasın.",
+   "baglanti": "Kâf suresi, dilin kullanımının kayıt altında olduğunu, dolayısıyla sorumluluk taşıdığını anlatır; Beled suresindeki dil nimetinin bir hatırlatıcı boyutu olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu konuşma yeteneğinin bir nimet olduğudur; bu, dilin hem bir armağan hem bir sorumluluk olduğunu hatırlatır.",
+  "Günlük hayatta söylediğimiz sözlerin başkalarını incitebileceğini veya iyileştirebileceğini unutabiliriz. Bu ayet, dili doğru, yapıcı ve dürüst kullanmanın önemine dolaylı bir çağrıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü tart",
+   "aciklama": "Bugün konuşmadan önce söyleyeceğin şeyin faydalı olup olmadığını düşün."
+  },
+  {
+   "baslik": "Güzel söz söyle",
+   "aciklama": "Bugün en az bir kişiye içten bir iyi söz söyle."
+  },
+  {
+   "baslik": "Sessiz kalmayı seç",
+   "aciklama": "Bugün gereksiz bir tartışmada söz söylemek yerine sessiz kalmayı dene."
+  }
+ ],
+ "bugununAdimi": "Bugün konuşmadan önce bir kez düşünme alışkanlığını uygula ve en az bir güzel söz söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=90&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/90/9"
+  }
+ ]
+}

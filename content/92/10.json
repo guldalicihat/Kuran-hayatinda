@@ -1,0 +1,68 @@
+{
+ "sure": 92,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "Onu güçlüğe kolayca sürükleyeceğiz.",
+ "mealNotu": "'Usr' kökü güçlüğü, zorluğu anlatır; 7. ayetteki kolaylığın tam karşıtıdır. Fiil aynı kalıptadır (yüsr yerine usr), bu da iki sonucun paralelliğini vurgular.",
+ "kokler": [
+  {
+   "kelime": "فَسَنُيَسِّرُهُۥ",
+   "okunus": "fesenüyessiruhû",
+   "kok": "يسر",
+   "kokAnlam": "kolaylaştırma, sürükleme",
+   "karsilik": "onu kolayca sürükleyeceğiz"
+  },
+  {
+   "kelime": "لِلْعُسْرَىٰ",
+   "okunus": "lil'usrâ",
+   "kok": "عسر",
+   "kokAnlam": "güçlük, zorluk",
+   "karsilik": "güçlüğe"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 8-9. ayetlerde tanıtılan cimri ve yalanlayan kişinin karşılığını bildirir: onun yolu güçlüğe doğru kolaylaştırılacaktır. Bu ifade, 7. ayetteki 'kolaya kolaylaştırma' ile aynı fiil kalıbını kullanır, yalnızca sonuç (usr/yüsr) değişir.",
+  "Bu paralellik, iki yolun da kişinin kendi tercihiyle 'kolaylaştığını', ancak birinin hayra birinin şerre doğru olduğunu vurgular. Klasik tefsir, bu güçlüğü kişinin kötü huylarının zamanla onu daha da zorlaştırması olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "92:7",
+   "meal": "Onu kolay olana kolaylıkla ulaştıracağız.",
+   "baglanti": "Bu ayetteki güçlüğe sürüklenme, veren ve sakınan kişiye vaat edilen kolaylığın tam karşıtıdır."
+  },
+  {
+   "ref": "94:5",
+   "meal": "Şüphesiz güçlükle beraber bir kolaylık vardır.",
+   "baglanti": "İnşirah suresi de aynı kökle (usr) güçlüğü anar, ancak orada kolaylığın güçlükle birlikte geldiği müjdelenir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, cimrilik ve yalanlamanın kişiyi zorlu bir yola sürüklemesidir.",
+  "Günlük hayatta bu, kötü bir alışkanlığın zamanla kendini nasıl derinleştirdiğiyle örtüşür; bir yanlışta ısrar etmek, işleri gittikçe zorlaştırır. Erken bir dönüş, bu güçlüğü hafifletebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kısır döngüyü kır",
+   "aciklama": "Seni zorlaştıran bir alışkanlığı bugün fark edip küçük bir değişiklik yap."
+  },
+  {
+   "baslik": "Erken müdahale et",
+   "aciklama": "Büyümeden önce bir sorunu bugün ele al."
+  },
+  {
+   "baslik": "Yolunu değiştir",
+   "aciklama": "Zorlaştığını hissettiğin bir alanda farklı bir yaklaşım dene."
+  }
+ ],
+ "bugununAdimi": "Bugün seni zorlaştıran bir alışkanlığı fark edip onda küçük bir değişiklik yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=92&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/92/10"
+  }
+ ]
+}

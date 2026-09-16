@@ -1,0 +1,82 @@
+{
+ "sure": 86,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Târık'ın ne olduğunu sana ne bildirdi?",
+ "mealNotu": "'Edrâ' kökü (د ر ي) bilme ve haberdar etmeyi anlatır. Bu soru kalıbı, Kur'an'da önemli bir konuyu tanıtmadan önce merak uyandırmak için kullanılır.",
+ "kokler": [
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "أَدْرَىٰكَ",
+   "okunus": "edrâke",
+   "kok": "دري",
+   "kokAnlam": "bilme, haberdar etme",
+   "karsilik": "sana bildirdi"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne, nedir",
+   "karsilik": "nedir"
+  },
+  {
+   "kelime": "ٱلطَّارِقُ",
+   "okunus": "ettâriku",
+   "kok": "طرق",
+   "kokAnlam": "vurma, gece kapı çalma; gece gelen",
+   "karsilik": "Târık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu soru kalıbı, bir önceki ayette adı geçen Târık'ın önemini vurgular. 'Edrâ' kökü bilgilenmeyi, haberdar olmayı anlatır; soru biçimi dinleyenin merakını artırır.",
+  "Kur'an'da bu tür sorular genellikle konunun büyüklüğüne işaret eder ve hemen ardından cevap gelir. Nitekim bir sonraki ayet, Târık'ın delici bir yıldız olduğunu açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "86:3",
+   "meal": "O, delen yıldızdır.",
+   "baglanti": "Bu ayette sorulan 'Târık nedir?' sorusunun cevabı hemen bir sonraki ayette verilir."
+  },
+  {
+   "ref": "97:2",
+   "meal": "Kadir gecesinin ne olduğunu sana bildiren nedir?",
+   "baglanti": "Aynı 'mâ edrâke' soru kalıbı burada da kullanılır; üslup, önemli bir konuyu tanıtmadan önce dikkat çekmektir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan Târık'ı tanıtmaktır; bunu bir soru ile yapar. Bu, bilgiyi doğrudan vermek yerine önce merak uyandırıp sonra açıklamanın bir örneğidir.",
+  "Günlük hayatta da bir konuyu anlatırken önce merak uyandırmak dinleyenin dikkatini artırır. Öğretirken veya bir şey paylaşırken bunu düşünebilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir soruyla başla",
+   "aciklama": "Bugün biriyle konuşurken, doğrudan bilgi vermek yerine önce kısa bir soru sor."
+  },
+  {
+   "baslik": "Bilmediğini itiraf et",
+   "aciklama": "Bilmediğin bir konuda 'bilmiyorum, öğreneceğim' de; bunu eksiklik değil dürüstlük olarak gör."
+  },
+  {
+   "baslik": "Merakını besle",
+   "aciklama": "Bugün seni meraklandıran bir konuyu araştırmaya birkaç dakika ayır."
+  }
+ ],
+ "bugununAdimi": "Bugün bir sohbete soru sorarak başla ve karşındakinin merakını gözlemle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=86&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/86/2"
+  }
+ ]
+}

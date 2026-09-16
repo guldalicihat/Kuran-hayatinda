@@ -1,0 +1,75 @@
+{
+ "sure": 92,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Şüphesiz doğru yolu göstermek bize aittir.",
+ "mealNotu": "'Hüdâ' kökü doğru yolu, rehberliği anlatır. Ayet, bu rehberliğin kimin sorumluluğunda olduğunu bildirir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid edatı) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "عَلَيْنَا",
+   "okunus": "aleynâ",
+   "kok": "—",
+   "kokAnlam": "(edat) bize aittir, üzerimizedir",
+   "karsilik": "bize aittir"
+  },
+  {
+   "kelime": "لَلْهُدَىٰ",
+   "okunus": "lelhüdâ",
+   "kok": "هدي",
+   "kokAnlam": "doğru yol, rehberlik",
+   "karsilik": "doğru yolu göstermek"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerde anlatılan iki yolun (kolaylık-güçlük) ardından, doğru yolu gösterme sorumluluğunun Allah'a ait olduğunu bildirir. 'Hüdâ' kökü rehberliği, doğru yola iletmeyi anlatır.",
+  "Bu ayet, insanın hem seçim hakkına sahip olduğunu hem de bu seçimi yapabilmesi için gerekli rehberliğin sağlandığını bir arada gösterir. Klasik tefsir, bu ayeti Allah'ın herkese doğru yolu açıkça bildirdiğinin bir ifadesi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "16:9",
+   "meal": "Doğru yolu göstermek Allah'a aittir; yolun eğrisi de vardır.",
+   "baglanti": "Nahl suresindeki bu ayet de doğru yolu göstermenin Allah'a ait bir sorumluluk olduğunu, aynı temayla bildirir."
+  },
+  {
+   "ref": "92:13",
+   "meal": "Şüphesiz ahiret de dünya da bizimdir.",
+   "baglanti": "Doğru yolu gösterme sorumluluğu, bir sonraki ayette hem dünyanın hem ahiretin Allah'a ait olduğu bilgisiyle tamamlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, doğru yolu gösterme sorumluluğunun Allah'a ait olduğudur.",
+  "Günlük hayatta bu, bir insanın doğru yolu ararken yalnız bırakılmadığını hatırlatır; kararsız kaldığı anlarda rehberlik arayışının boşa gitmeyeceğine dair bir güven verir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Rehberlik ara",
+   "aciklama": "Kararsız kaldığın bir konuda bugün doğru bir kaynaktan bilgi veya öğüt al."
+  },
+  {
+   "baslik": "Yolunu netleştir",
+   "aciklama": "Bugün hayatında takip ettiğin temel bir ilkeyi kısaca yaz."
+  },
+  {
+   "baslik": "Güven duy",
+   "aciklama": "Zor bir kararda tek başına olmadığını hatırlayıp cesaretlen."
+  }
+ ],
+ "bugununAdimi": "Kararsız kaldığın bir konuda bugün güvenilir bir kaynaktan öğüt al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=92&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/92/12"
+  }
+ ]
+}

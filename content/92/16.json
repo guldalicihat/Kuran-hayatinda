@@ -1,0 +1,75 @@
+{
+ "sure": 92,
+ "ayet": 16,
+ "durum": "taslak",
+ "meal": "O ki yalanladı ve yüz çevirdi.",
+ "mealNotu": "'Kezzebe' yalanlamayı, 'tevellâ' ise yüz çevirmeyi, sırt dönmeyi anlatır. Ayet, bir önceki ayetteki 'en azgın'ı tanımlar.",
+ "kokler": [
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o ki",
+   "karsilik": "o ki"
+  },
+  {
+   "kelime": "كَذَّبَ",
+   "okunus": "kezzebe",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama, gerçeği örtme",
+   "karsilik": "yalanladı"
+  },
+  {
+   "kelime": "وَتَوَلَّىٰ",
+   "okunus": "ve tevellâ",
+   "kok": "ولي",
+   "kokAnlam": "yüz çevirme, sırt dönme",
+   "karsilik": "ve yüz çevirdi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayette ateşe gireceği bildirilen 'en azgın' kişiyi tanımlar: yalanlayan ve yüz çeviren. İki eylem birlikte, hem inkârı hem de bu inkârdan sonra ilgisizliği anlatır.",
+  "Bu tanım, surenin 9. ayetindeki 'en güzeli yalanlayan' kişiyle bağlantılıdır; ayet, o profilin sonunda ateşe gireceğini netleştirir. Klasik tefsir, 'yüz çevirme'yi sadece inkâr değil, doğruyla ilgilenmeyi bırakma olarak da açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "92:9",
+   "meal": "Ve en güzeli yalanlarsa.",
+   "baglanti": "Bu ayetteki yalanlama, surenin başında tanıtılan yalanlayan profille aynı kişidir; sure onun akıbetini burada tamamlar."
+  },
+  {
+   "ref": "96:13",
+   "meal": "Ne dersin, eğer o [inkâr eden] yalanlamış ve yüz çevirmişse?",
+   "baglanti": "Alak suresindeki bu ayet, neredeyse aynı ifadeyle (kezzebe ve tevellâ) yalanlama ve yüz çevirmeyi bir arada anar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, doğruyu yalanlayıp ondan yüz çeviren kişinin tavrıdır.",
+  "Günlük hayatta bu, bir gerçeği hem reddedip hem de onunla ilgilenmeyi bırakmanın çifte bir kapanma olduğunu hatırlatır; doğruya açık kalmak, önce onu dinlemeyi reddetmemekle başlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kapını açık tut",
+   "aciklama": "Bugün katılmadığın bir görüşü bile dinlemeye açık ol."
+  },
+  {
+   "baslik": "İlgisizliği fark et",
+   "aciklama": "Önemli bir konudan kaçtığını hissedersen ona geri dön."
+  },
+  {
+   "baslik": "Doğruya yönel",
+   "aciklama": "Bugün bir gerçeği kabul etmekten kaçınmadığından emin ol."
+  }
+ ],
+ "bugununAdimi": "Bugün katılmadığın bir görüşü bile önce dinle, hemen reddetme.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=92&verse=16"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/92/16"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "sure": 86,
+ "ayet": 13,
+ "durum": "taslak",
+ "meal": "Şüphesiz o, ayırt edici bir sözdür.",
+ "mealNotu": "'Fasl' kökü ayırma, hak ile batılı birbirinden ayırmayı anlatır. Ayetteki 'o' zamiri Kur'an'a işaret eder.",
+ "kokler": [
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz o",
+   "karsilik": "şüphesiz o"
+  },
+  {
+   "kelime": "لَقَوْلٌ",
+   "okunus": "lekavlün",
+   "kok": "قول",
+   "kokAnlam": "söz, konuşma",
+   "karsilik": "elbette bir sözdür"
+  },
+  {
+   "kelime": "فَصْلٌ",
+   "okunus": "faslün",
+   "kok": "فصل",
+   "kokAnlam": "ayırma, hak ile batılı ayırma",
+   "karsilik": "ayırt edici"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki yeminlerden sonra bu ayet asıl konuya geçer: Kur'an, doğru ile yanlışı birbirinden ayıran kesin bir sözdür. 'Fasl' kökü ayırmayı, kesin çizgi koymayı anlatır.",
+  "Bu tanım, Kur'an'ın belirsiz veya tartışmaya açık bir söz olmadığını, net bir ölçü sunduğunu bildirir. Sonraki ayet bunu 'o bir şaka değildir' diyerek pekiştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "86:14",
+   "meal": "O, bir şaka değildir.",
+   "baglanti": "Bu ayetteki 'ayırt edici söz' tanımı, hemen ardından 'şaka değildir' ifadesiyle pekiştirilir."
+  },
+  {
+   "ref": "18:1",
+   "meal": "Hamd, kuluna Kitab'ı indiren ve onda hiçbir eğrilik yapmayan Allah'a mahsustur.",
+   "baglanti": "Kehf suresindeki bu ayet de Kur'an'ın dosdoğru, eğriliksiz bir kitap olduğunu bildirerek 'fasl' (ayırt edicilik) niteliğini destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kur'an'ın niteliğidir; onun kesin ve ayırt edici bir söz olduğu bildirilir. Bu bir iman ilkesidir.",
+  "Buradan çıkan ders, karar verirken net ölçütlere dayanmanın önemidir. Belirsizlik içinde kalmak yerine, doğru ile yanlışı ayıran açık bir çizgiye sahip olmak, kişiyi kararsızlıktan kurtarır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Net bir ölçüt belirle",
+   "aciklama": "Bugün kararsız kaldığın bir konuda, doğruyu yanlıştan ayıran net bir ölçüt yaz."
+  },
+  {
+   "baslik": "Belirsizliği azalt",
+   "aciklama": "Yarım kalmış, belirsiz bir konuşmayı bugün netleştir."
+  },
+  {
+   "baslik": "Kur'an'dan bir ayet oku",
+   "aciklama": "Bugün kısa bir süre ayırıp bir ayeti meali ile birlikte oku ve üzerinde düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün net bir cevap gerektiren bir konuda kararsız kalmayı bırak ve bir karar ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=86&verse=13"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/86/13"
+  }
+ ]
+}

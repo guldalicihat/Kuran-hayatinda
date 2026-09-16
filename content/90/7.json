@@ -1,0 +1,89 @@
+{
+ "sure": 90,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Kimsenin kendisini görmediğini mi sanıyor?",
+ "mealNotu": "Bu ayet, 5. ayetteki 'kimse bana güç yetiremez' sorusuna paralel ikinci bir sorudur; bu kez 'kimse beni görmedi' yanılgısını sorgular.",
+ "kokler": [
+  {
+   "kelime": "أَيَحْسَبُ",
+   "okunus": "eyahsebü",
+   "kok": "حسب",
+   "kokAnlam": "sanma, zannetme; hesap etme",
+   "karsilik": "sanıyor mu"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "ki, -ması (bağlaç)",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk (geçmiş)",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "يَرَهُۥٓ",
+   "okunus": "yerahû",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "onu görmedi"
+  },
+  {
+   "kelime": "أَحَدٌ",
+   "okunus": "ehadün",
+   "kok": "أحد",
+   "kokAnlam": "bir, hiç kimse",
+   "karsilik": "hiç kimse"
+  }
+ ],
+ "neAnlatiyor": [
+  "6. ayette malıyla övünen kişi, burada ikinci bir yanılgıyla tasvir edilir: sanki hiç kimse onu görmemiş gibi davranır. Bu, hem hesap vermeyeceğini sanmanın hem de gözetlenmediğini düşünmenin bir sonucudur.",
+  "Klasik tefsir bu ayeti, insanın Allah'ın her an kendisini gördüğünü unutmasının bir eleştirisi olarak açıklar. Sonraki ayetler Allah'ın insana verdiği somut nimetleri hatırlatarak bu unutkanlığı düzeltmeye çalışır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "96:14",
+   "meal": "Bilmez mi ki Allah şüphesiz görüyor?",
+   "baglanti": "Alak suresi de aynı temayı, Allah'ın her şeyi gördüğünü unutan bir insanı eleştirerek işler; Beled suresindeki 'kimse beni görmedi mi sanıyor' sorusuyla aynı gerçeğe işaret eder."
+  },
+  {
+   "ref": "4:1",
+   "meal": "Şüphesiz Allah, üzerinizde bir gözetleyicidir.",
+   "baglanti": "Nisâ suresi de Allah'ın insanları sürekli gözettiğini bildirir; Beled suresindeki eleştirilen unutkanlığın karşılığını verir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insanın gözetlenmediğini sanma yanılgısıdır; bu, davranışların hep bir tanığı olduğunu hatırlatır.",
+  "Kimsenin görmediğini düşünmek, insanı sorumsuz davranmaya itebilir. Bu ayet, yalnız kaldığımızda bile davranışlarımızın bir karşılığı olduğunu bilmenin önemini vurgular."
+ ],
+ "bugun": [
+  {
+   "baslik": "Görüldüğünü hatırla",
+   "aciklama": "Bugün yalnız olduğun bir anda, sanki görülüyormuş gibi doğru davran."
+  },
+  {
+   "baslik": "Gizli iyilik yap",
+   "aciklama": "Bugün kimsenin bilmediği küçük bir iyilik yap."
+  },
+  {
+   "baslik": "Bir alışkanlığını gözden geçir",
+   "aciklama": "Bugün kimse görmediğinde yaptığın bir davranışı sorgula."
+  }
+ ],
+ "bugununAdimi": "Bugün kimsenin görmediği bir anda, doğru olanı yaparak kendini sına.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=90&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/90/7"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "sure": 92,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Ve en güzeli yalanlarsa.",
+ "mealNotu": "'Kezzebe' kökü yalanlamayı anlatır; 6. ayetteki tasdik etmenin tam karşıtıdır. 'Husnâ' yine en güzel, en iyi olanı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَكَذَّبَ",
+   "okunus": "ve kezzebe",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama, gerçeği örtme",
+   "karsilik": "ve yalanlarsa"
+  },
+  {
+   "kelime": "بِٱلْحُسْنَىٰ",
+   "okunus": "bil husnâ",
+   "kok": "حسن",
+   "kokAnlam": "en güzel, en iyi olan",
+   "karsilik": "en güzeli"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 8. ayette tanıtılan cimri ve kendini ihtiyaçsız gören kişinin üçüncü özelliğini ekler: en güzeli yalanlamak. Bu, 6. ayetteki 'en güzeli tasdik eden' kişinin tam karşıtıdır.",
+  "Böylece sure, iki karşıt profil çizer: veren-sakınan-tasdik eden ile cimrilik eden-ihtiyaçsız gören-yalanlayan. Klasik tefsir, bu iki profili insan iradesinin iki farklı sonucu olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "92:6",
+   "meal": "Ve en güzeli tasdik ederse.",
+   "baglanti": "Bu ayetteki yalanlama, birkaç ayet önce anlatılan tasdik etmenin tam karşıtıdır; iki ayet bir çift oluşturur."
+  },
+  {
+   "ref": "10:26",
+   "meal": "Güzel davrananlara daha güzeli ve fazlası vardır.",
+   "baglanti": "Bu ayet, husnâyı tasdik edenin karşılığını anlatır; Leyl suresindeki yalanlamanın kaybettirdiği şeyi tersinden gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, en güzel olanı (doğruyu, Allah'ın vaadini) yalanlamaktır.",
+  "Günlük hayatta bu, bilerek doğruyu reddetmekle ilgilidir; bir gerçeği sırf işine gelmediği için inkâr etmek, kişiyi zamanla daha zor bir yola sürükleyebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğruyu kabul et",
+   "aciklama": "Bugün işine gelmese de doğru olduğunu bildiğin bir şeyi kabul et."
+  },
+  {
+   "baslik": "İnkârdan kaçın",
+   "aciklama": "Bir hatanı görmezden gelmek yerine açıkça tanı."
+  },
+  {
+   "baslik": "Güzeli teşvik et",
+   "aciklama": "Etrafındaki iyi bir davranışı fark edip takdir et."
+  }
+ ],
+ "bugununAdimi": "Bugün işine gelmese de doğru olduğunu bildiğin bir şeyi açıkça kabul et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=92&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/92/9"
+  }
+ ]
+}

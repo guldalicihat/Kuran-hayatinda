@@ -1,0 +1,75 @@
+{
+ "sure": 93,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Seni yolunu şaşırmış bulup doğru yola iletmedi mi?",
+ "mealNotu": "'Dâll' kökü yolunu şaşırmayı, kaybolmayı anlatır; burada bilgiye ve peygamberliğe dair bir açıklık öncesi hâl kastedilir, günahla ilgisi yoktur. 'Hedâ' kökü ise doğru yola iletmedir.",
+ "kokler": [
+  {
+   "kelime": "وَوَجَدَكَ",
+   "okunus": "ve vecedeke",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "ve seni buldu"
+  },
+  {
+   "kelime": "ضَآلًّا",
+   "okunus": "dâllen",
+   "kok": "ضلل",
+   "kokAnlam": "yolunu şaşırma, kaybolma, bilmeme",
+   "karsilik": "yolunu şaşırmış"
+  },
+  {
+   "kelime": "فَهَدَىٰ",
+   "okunus": "fehedâ",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme, rehberlik etme",
+   "karsilik": "ve doğru yola iletti"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki 'bulma-barındırma' örneğinin ardından ikinci bir örnek verir: yolunu şaşırmış bulup doğru yola iletme. 'Dâll' kökü burada, vahiyden önceki bir bilgisizlik veya arayış hâlini anlatır; bir günah veya sapkınlık değildir.",
+  "Bu ayet, Peygamber'in peygamberlikten önceki dönemde kitap ve şeriat bilgisine sahip olmadığını, ardından vahiy ile doğru yola iletildiğini hatırlatır. Klasik tefsir, bu ifadeyi Peygamber'in masumiyetine halel getirmeyecek şekilde, bilgiye ulaşmadan önceki bir arayış hâli olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "93:6",
+   "meal": "O seni yetim bulup barındırmadı mı?",
+   "baglanti": "Bu ayetteki 'bulma-yol gösterme' örneği, bir önceki ayetteki 'bulma-barındırma' örneğiyle aynı yapıyı tekrarlar."
+  },
+  {
+   "ref": "42:52",
+   "meal": "Sen kitap nedir, iman nedir bilmezdin; fakat biz onu bir nur kıldık, kullarımızdan dilediğimizi onunla doğru yola iletiriz.",
+   "baglanti": "Şûrâ suresindeki bu ayet de Peygamber'in vahiyden önce kitap ve iman bilgisine sahip olmadığını, ardından doğru yola iletildiğini anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in vahiyden önceki arayış hâli ve ardından doğru yola iletilmesidir; bu, tarihî ve kişisel bir hatırlatmadır.",
+  "Günlük hayata taşınabilecek ders, bir konuda bilgisiz veya kararsız olmanın normal bir başlangıç noktası olduğu, önemli olanın doğru yolu bulma çabasında olmaktır; herkesin bir arayış dönemi olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Arayışını kabul et",
+   "aciklama": "Bugün emin olmadığın bir konuda bunu kabul edip doğru bilgiye ulaşmaya çalış."
+  },
+  {
+   "baslik": "Rehberlik et",
+   "aciklama": "Bir konuda kararsız olan birine bugün yol gösterici bir bilgi paylaş."
+  },
+  {
+   "baslik": "Şükret",
+   "aciklama": "Bugün seni doğru bir konuda aydınlatan bir bilgiyi hatırlayıp şükret."
+  }
+ ],
+ "bugununAdimi": "Bugün emin olmadığın bir konuda doğru bilgiye ulaşmak için bir kaynağa başvur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/93/7"
+  }
+ ]
+}

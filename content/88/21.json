@@ -1,0 +1,82 @@
+{
+ "sure": 88,
+ "ayet": 21,
+ "durum": "taslak",
+ "meal": "Sen öğüt ver; sen ancak bir öğüt vericisin.",
+ "mealNotu": "'Zikr' kökü hatırlatma, öğüt vermeyi anlatır. Ayet, Peygamber'in görevini tanımlar.",
+ "kokler": [
+  {
+   "kelime": "فَذَكِّرْ",
+   "okunus": "fezekkir",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlatma, öğüt verme",
+   "karsilik": "sen öğüt ver"
+  },
+  {
+   "kelime": "إِنَّمَآ",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid + sınırlama) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "أَنتَ",
+   "okunus": "ente",
+   "kok": "—",
+   "kokAnlam": "(zamir) sen",
+   "karsilik": "sen"
+  },
+  {
+   "kelime": "مُذَكِّرٌ",
+   "okunus": "müzekkirun",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlatan, öğüt veren",
+   "karsilik": "bir öğüt vericisin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Yaratılış delillerine dikkat çekildikten sonra bu ayet, Peygamber'in görevini netleştirir: öğüt vermek. 'Zikr' kökü hatırlatmayı anlatır; görev, insanları zorlamak değil hatırlatmaktır.",
+  "Bu tanım, tebliğ görevinin sınırını da çizer: sonucu kontrol etmek Peygamber'in işi değildir, yalnızca doğru mesajı ulaştırmaktır. Sonraki ayet bunu 'sen onlar üzerinde bir zorba değilsin' diyerek pekiştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "88:22",
+   "meal": "Sen onlar üzerinde bir zorba değilsin.",
+   "baglanti": "Bu ayetteki 'öğüt verici' tanımı, hemen sonraki ayette 'zorba değilsin' ifadesiyle tamamlanır."
+  },
+  {
+   "ref": "50:45",
+   "meal": "Sen onlar üzerinde bir zorba değilsin; sen ancak Kur'an ile öğüt ver.",
+   "baglanti": "Kâf suresindeki bu ayet neredeyse aynı ifadeyle Peygamber'in görevinin öğüt vermekle sınırlı olduğunu bildirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in tebliğ görevinin sınırıdır. Bu, ona özel bir görev tanımıdır.",
+  "Buradan çıkan ders, birine öğüt verirken sonucu zorla kabul ettirmeye çalışmamaktır. Görev, doğru mesajı iyi niyetle ulaştırmaktır; kabul edip etmemek karşıdaki kişinin tercihidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Öğüdünü nazikçe ver",
+   "aciklama": "Bugün birine bir öğüt verirken, onu kabule zorlamadan nazikçe söyle."
+  },
+  {
+   "baslik": "Sonucu bırak",
+   "aciklama": "Verdiğin bir tavsiyenin kabul edilip edilmemesini kontrol etmeye çalışma."
+  },
+  {
+   "baslik": "Görevini hatırla",
+   "aciklama": "Bir konuda üzerine düşeni yaptıktan sonra, gerisini zorlamadan bırak."
+  }
+ ],
+ "bugununAdimi": "Bugün birine bir öğüt ver ve sonucunu zorlamadan ona bırak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=88&verse=21"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/88/21"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "sure": 87,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Sana (Kur'an'ı) okutacağız, artık unutmayacaksın.",
+ "mealNotu": "'Kıraat' kökü okumayı, 'nisyan' kökü unutmayı anlatır. Ayet, Peygamber'e Kur'an'ı unutmayacağı yönünde bir güvence verir.",
+ "kokler": [
+  {
+   "kelime": "سَنُقْرِئُكَ",
+   "okunus": "senükriüke",
+   "kok": "قرأ",
+   "kokAnlam": "okuma, okutma",
+   "karsilik": "sana okutacağız"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) artık ...mayacaksın",
+   "karsilik": "artık ...mayacaksın"
+  },
+  {
+   "kelime": "تَنسَىٰٓ",
+   "okunus": "tensâ",
+   "kok": "نسي",
+   "kokAnlam": "unutma",
+   "karsilik": "unutmayacaksın"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, dünya hayatının geçiciliğinden sonra kalıcı olan bir şeye, Kur'an'a geçer: Allah, Peygamber'e Kur'an'ı okutacağını ve onun bunu unutmayacağını bildirir. 'Kıraat' kökü okumayı, 'nisyan' kökü unutmayı anlatır.",
+  "Bu, vahyi aceleyle ezberlemeye çalışan Peygamber'e bir güvence, bir rahatlatmadır. Sonraki ayet, bu genel kuralın Allah'ın dilediği bir istisnası olabileceğini ekler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "75:17",
+   "meal": "Şüphesiz onu toplamak ve okutmak bize aittir.",
+   "baglanti": "Kıyâme suresindeki bu ayet de vahyin toplanması ve okutulmasının Allah'a ait bir iş olduğunu bildirerek 87:6'yı tamamlar."
+  },
+  {
+   "ref": "87:7",
+   "meal": "Ancak Allah'ın dilediği hariç. Şüphesiz O, açığı da bilir, gizli kalanı da.",
+   "baglanti": "Bu ayetteki 'unutmayacaksın' güvencesi, hemen sonraki ayette Allah'ın dilemesiyle sınırlandırılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın Peygamber'e unutulmayacak şekilde okutulmasıdır. Bu, vahyin korunmasına dair bir güvencedir.",
+  "Buradan çıkan ders, önemli bilgiyi kalıcı kılmak için tekrar ve düzenli çalışmanın değeridir. Kalıcı öğrenme, emek ve süreklilik ister."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ayeti ezberle",
+   "aciklama": "Bugün kısa bir ayeti veya sureyi tekrar ederek ezberlemeye çalış."
+  },
+  {
+   "baslik": "Tekrarı alışkanlık yap",
+   "aciklama": "Öğrendiğin önemli bir bilgiyi bugün bir kez daha gözden geçir."
+  },
+  {
+   "baslik": "Unutkanlığı tolere et",
+   "aciklama": "Unuttuğun bir şeyi kendine kızmadan not al ve tekrar öğren."
+  }
+ ],
+ "bugununAdimi": "Bugün kısa bir ayeti üç kez tekrar ederek ezberle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=87&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/87/6"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "sure": 93,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Sakinleştiğinde geceye andolsun.",
+ "mealNotu": "'Secâ' kökü sakinleşmeyi, durgunlaşmayı anlatır; gecenin karanlığının değil, sükûnetinin vurgulandığı bir ifadedir.",
+ "kokler": [
+  {
+   "kelime": "وَٱلَّيْلِ",
+   "okunus": "velleyli",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "geceye andolsun"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman edatı) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "سَجَىٰ",
+   "okunus": "secâ",
+   "kok": "سجو",
+   "kokAnlam": "sakinleşme, durgunlaşma, dinginleşme",
+   "karsilik": "sakinleştiğinde"
+  }
+ ],
+ "neAnlatiyor": [
+  "İkinci yemin geceye yöneliktir; ancak burada gecenin örtücü değil, sakinleştirici yönü vurgulanır. 'Secâ' kökü durgunlaşmayı, sükûnete ermeyi anlatır.",
+  "Kuşluk vakti ile sakin gece, birbirine zıt değil, tamamlayıcı iki hâl olarak anılır; ikisi de kendi vaktinde bir düzen taşır. Klasik tefsir, bu iki yemini, surenin ardından gelecek teselli mesajına bir giriş olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "93:1",
+   "meal": "Kuşluk vaktine andolsun.",
+   "baglanti": "Gece yemini, bir önceki ayetteki kuşluk vakti yeminiyle bir çift oluşturur; ikisi de günün farklı hâllerini anar."
+  },
+  {
+   "ref": "92:1",
+   "meal": "Örttüğünde geceye andolsun.",
+   "baglanti": "Leyl suresi de gece üzerine yeminle açılır; ancak orada gecenin örtücü yönü, burada sakinleştirici yönü öne çıkar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu gecenin, sükûnet getiren doğal hâlidir.",
+  "Gecenin sakinliği, insana günün telaşından uzaklaşıp içini dinlendirme fırsatı verir; bu ayet, bu sükûnetin kıymetini hatırlatabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sükûneti ara",
+   "aciklama": "Bu gece birkaç dakika sessizce oturup zihnini dinlendir."
+  },
+  {
+   "baslik": "Telaşı bırak",
+   "aciklama": "Günün koşuşturmasını akşam olunca geride bırakmaya çalış."
+  },
+  {
+   "baslik": "Huzuru fark et",
+   "aciklama": "Gecenin sakinliğinde hissettiğin huzuru bir cümleyle tarif et."
+  }
+ ],
+ "bugununAdimi": "Bu gece birkaç dakika sessizce oturup zihnini dinlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/93/2"
+  }
+ ]
+}

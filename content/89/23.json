@@ -1,0 +1,117 @@
+{
+ "sure": 89,
+ "ayet": 23,
+ "durum": "taslak",
+ "meal": "O gün cehennem getirilir; o gün insan hatırlar, ama artık hatırlamanın ona ne faydası olsun!",
+ "mealNotu": "'Ennâ lehüz zikrâ' ifadesi, hatırlamanın artık geç kaldığını, fayda vermeyeceğini anlatan bir soru-şaşkınlık kalıbıdır. Meal bu anlamı 'ama artık hatırlamanın ona ne faydası olsun' şeklinde vermiştir.",
+ "kokler": [
+  {
+   "kelime": "وَجِا۟ىٓءَ",
+   "okunus": "ve cîe",
+   "kok": "جيأ",
+   "kokAnlam": "getirilme, gelme",
+   "karsilik": "ve getirildiğinde"
+  },
+  {
+   "kelime": "يَوْمَئِذٍ",
+   "okunus": "yevmeizim",
+   "kok": "يوم",
+   "kokAnlam": "o gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "بِجَهَنَّمَ",
+   "okunus": "bicehenneme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Cehennem",
+   "karsilik": "cehennem"
+  },
+  {
+   "kelime": "يَوْمَئِذٍ",
+   "okunus": "yevmeizin",
+   "kok": "يوم",
+   "kokAnlam": "o gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "يَتَذَكَّرُ",
+   "okunus": "yetezekkeru",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlama, öğüt alma",
+   "karsilik": "hatırlar"
+  },
+  {
+   "kelime": "ٱلْإِنسَٰنُ",
+   "okunus": "el'insânü",
+   "kok": "أنس",
+   "kokAnlam": "insan; ünsiyet, alışkanlık",
+   "karsilik": "insan"
+  },
+  {
+   "kelime": "وَأَنَّىٰ",
+   "okunus": "ve ennâ",
+   "kok": "—",
+   "kokAnlam": "nasıl, nereden",
+   "karsilik": "ama nasıl"
+  },
+  {
+   "kelime": "لَهُ",
+   "okunus": "lehü",
+   "kok": "—",
+   "kokAnlam": "onun için",
+   "karsilik": "onun için"
+  },
+  {
+   "kelime": "ٱلذِّكْرَىٰ",
+   "okunus": "ezzikrâ",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlama, öğüt",
+   "karsilik": "hatırlamanın faydası olsun"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kıyamet sahnesi burada zirveye ulaşır: cehennem getirilir. Bu, o güne kadar unutulmuş veya göz ardı edilmiş bir gerçeğin artık kaçınılmaz biçimde karşısına çıkmasıdır.",
+  "İnsan o an hatırlar; ama bu hatırlama artık işe yaramaz, çünkü fırsat vakti geçmiştir. Klasik tefsir bunu, dünya hayatındayken öğüt almayı erteleyenlerin pişmanlığı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "75:34",
+   "meal": "Sana yazıklar olsun, yazıklar!",
+   "baglanti": "Kıyâme suresi de o gün gelecek pişmanlığı benzer bir üslupla anlatır; iki ayet de geç kalmış bir farkındalığın acısını işler."
+  },
+  {
+   "ref": "63:10",
+   "meal": "Ölüm gelip çatmadan önce size verdiğimiz rızıktan harcayın; yoksa 'Rabbim, beni yakın bir süreye kadar ertelesen de sadaka verip salihlerden olsam' der.",
+   "baglanti": "Münafikûn suresi de son anda gelen pişmanlığı ve o an dile getirilen boş temenniyi anlatır; Fecr suresindeki 'artık hatırlamanın faydası olsun' vurgusuyla aynı gerçeği paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıyamet gününde gelecek geç kalmış farkındalıktır; bu, öğüt almayı ertelemenin tehlikesini gösterir.",
+  "Günlük hayatta bir hatayı fark edip düzeltmeyi 'sonraya' bırakmak, çoğu zaman fırsatın kaçmasına yol açar. Bu ayet, önemli bir farkındalığı ya da değişimi bugün, vakit varken hayata geçirmenin değerini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ertelemeyi bırak",
+   "aciklama": "Bugün ertelediğin bir düzeltmeyi (özür, borç ödeme, alışkanlık değiştirme) hemen başlat."
+  },
+  {
+   "baslik": "Bir dersi şimdi al",
+   "aciklama": "Bugün geçmişte yaptığın bir hatadan çıkardığın dersi yazılı olarak not et."
+  },
+  {
+   "baslik": "Vakti değerlendir",
+   "aciklama": "Bugün elindeki zamanı, 'geç kalmadan' bilinciyle kullan."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir düzeltmeyi veya özrü, daha fazla geciktirmeden yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=23"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/89/23"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "sure": 88,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "O gün başka yüzler nimet içinde mutludur.",
+ "mealNotu": "'Naîm' kökü nimet, rahatlık ve mutluluğu anlatır. Bu ayet, önceki tasvirin tam karşıtı bir grubu tanıtır.",
+ "kokler": [
+  {
+   "kelime": "وُجُوهٌ",
+   "okunus": "vücûhün",
+   "kok": "وجه",
+   "kokAnlam": "yüz, ön taraf",
+   "karsilik": "başka yüzler"
+  },
+  {
+   "kelime": "يَوْمَئِذٍ",
+   "okunus": "yevmeizin",
+   "kok": "يوم",
+   "kokAnlam": "o gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "نَّاعِمَةٌ",
+   "okunus": "nâimetün",
+   "kok": "نعم",
+   "kokAnlam": "nimet, rahatlık, mutluluk",
+   "karsilik": "nimet içinde mutludur"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, azap tasvirinden sonra keskin bir dönüşle nimet içindeki yüzleri anlatmaya başlar. 'Naîm' kökü rahatlık ve mutluluğu anlatır; bu, önceki zillet içindeki yüzlerin tam karşıtıdır.",
+  "Bu karşıtlık, aynı günün iki farklı grup için nasıl bambaşka sonuçlar taşıyacağını gösterir. Sonraki ayetler, bu mutlu yüzlerin çabalarından hoşnut olduklarını ve yüce bir cennette bulunduklarını anlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "88:2",
+   "meal": "O gün birtakım yüzler zillet içinde eğilmiştir.",
+   "baglanti": "Bu ayetteki 'nimet içindeki yüzler', surenin başında anlatılan 'zillet içindeki yüzler'in tam karşıtı olarak sunulur."
+  },
+  {
+   "ref": "75:22",
+   "meal": "O gün bazı yüzler parlar.",
+   "baglanti": "Kıyâme suresindeki bu ayet de aynı 'wujûhun yawma'idhin' kalıbını kullanarak o gün bazı yüzlerin parlak ve mutlu olacağını bildirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyamet gününde bazı insanların nimet içinde mutlu olacağıdır. Bu bir müjde ayetidir.",
+  "Buradan çıkan ders, doğru bir hayatın sonunun huzur ve mutluluk olduğudur. Bu bilinç, zorlukla geçen bir çabanın karşılıksız kalmayacağına dair umut verir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Umutla çalış",
+   "aciklama": "Bugün yaptığın zorlu bir işi, karşılığının boşa gitmeyeceğine güvenerek sürdür."
+  },
+  {
+   "baslik": "Mutluluğu paylaş",
+   "aciklama": "Bugün etrafındaki birini küçük bir jestle mutlu et."
+  },
+  {
+   "baslik": "İç huzurunu koru",
+   "aciklama": "Bugün seni tedirgin eden bir düşünceyi, doğru bir hayatın sonunun güzel olacağına güvenerek sakinleştir."
+  }
+ ],
+ "bugununAdimi": "Bugün zorlukla sürdürdüğün bir işi, iyi bir sonucun geleceğine güvenerek tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=88&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/88/8"
+  }
+ ]
+}

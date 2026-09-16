@@ -1,0 +1,96 @@
+{
+ "sure": 89,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Bunda akıl sahibi biri için bir yemin var mı?",
+ "mealNotu": "'Hicr' kökü asıl olarak engellemeyi, alıkoymayı anlatır; burada kişiyi kötülükten alıkoyan akıl anlamında kullanılır. Cümle soru biçiminde olsa da anlamca onaylayıcıdır; klasik tefsir bunu 'elbette vardır' şeklinde açıklar.",
+ "kokler": [
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "(soru edatı) mi, var mı",
+   "karsilik": "var mı"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde, -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "işte bu, şu (işaret)",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "قَسَمٌ",
+   "okunus": "kasemün",
+   "kok": "قسم",
+   "kokAnlam": "yemin, ant",
+   "karsilik": "bir yemin"
+  },
+  {
+   "kelime": "لِّذِى",
+   "okunus": "lizî",
+   "kok": "—",
+   "kokAnlam": "sahibi (için)",
+   "karsilik": "sahibi için"
+  },
+  {
+   "kelime": "حِجْرٍ",
+   "okunus": "hicrin",
+   "kok": "حجر",
+   "kokAnlam": "engelleme, alıkoyma; akıl (kötülükten alıkoyan)",
+   "karsilik": "akıl"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki dört yemini bağlayan bir sonuç cümlesidir. Sorulan soru aslında bir onaylamadır: bu yeminlerde akıl sahibi biri için düşünmeye değer bir işaret vardır.",
+  "'Hicr' kelimesi kök olarak engellemeyi anlatır; burada insanı yanlıştan alıkoyan akıl kastedilir. Ayet, önceki yeminlerin boşuna olmadığını, düşünen biri için anlam taşıdığını vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "13:19",
+   "meal": "Rabbinden sana indirilenin hak olduğunu bilen kimse, kör olan gibi midir? Ancak akıl sahipleri öğüt alır.",
+   "baglanti": "'Akıl sahibi' vurgusu burada da tekrarlanır; Kur'an'daki delillerin ancak düşünenler için anlam taşıdığı teması ortaktır."
+  },
+  {
+   "ref": "39:9",
+   "meal": "De ki: Hiç bilenlerle bilmeyenler bir olur mu? Ancak akıl sahipleri öğüt alır.",
+   "baglanti": "Bu ayet de düşünüp öğüt almayı akıl sahibi olmaya bağlar; Fecr suresindeki 'hicr sahibi' ifadesiyle aynı vurguyu taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan akıl ve düşünmedir; önceki yeminlerin ancak düşünen biri için anlamlı olduğunu söyler.",
+  "Günlük hayatta çevremizdeki düzenli olayları (gece-gündüz, mevsimler) fark edip üzerine düşünmek, bu ayetin çağrısına uygun bir tutumdur. Her şeyi otomatik kabul etmek yerine ara sıra durup 'bunun anlamı ne' diye sormak, akıl sahibi olmanın bir gereğidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir doğa olayını düşün",
+   "aciklama": "Bugün gördüğün bir doğa olayı (gün doğumu gibi) üzerine bir dakika durup düşün."
+  },
+  {
+   "baslik": "Otomatik pilotu kapat",
+   "aciklama": "Günlük rutininden birini bugün bilinçli şekilde, fark ederek yap."
+  },
+  {
+   "baslik": "Bir soru sor",
+   "aciklama": "Bugün karşılaştığın bir olayla ilgili kendine 'bunun bana öğrettiği ne' diye sor."
+  }
+ ],
+ "bugununAdimi": "Bugün gün doğumunu veya batımını izle ve bir cümleyle ne düşündüğünü not et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/89/5"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sure": 89,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "Onlar ki ülkelerde azgınlık ettiler.",
+ "mealNotu": "'Tağâ' kökü haddi aşmayı, azgınlığı anlatır. Bu ayet, 6-10. ayetlerde sayılan Âd, Semûd ve Firavun'un ortak niteliğini açıklar.",
+ "kokler": [
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "o kimseler ki",
+   "karsilik": "onlar ki"
+  },
+  {
+   "kelime": "طَغَوْا۟",
+   "okunus": "tağav",
+   "kok": "طغي",
+   "kokAnlam": "azgınlık etme, haddi aşma",
+   "karsilik": "azgınlık ettiler"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde, -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْبِلَٰدِ",
+   "okunus": "elbilâdi",
+   "kok": "بلد",
+   "kokAnlam": "şehir, ülke, belde",
+   "karsilik": "ülkelerde"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki üç kavim ve hükümdar için ortak bir gerekçe sunar: hepsi bulundukları ülkelerde azgınlık etmiştir. 'Tağâ' kökü, sınırı aşma, ölçüyü kaçırma anlamı taşır.",
+  "Azgınlık burada sadece bireysel bir günah değil, toplumsal bir tutum olarak anlatılır. Klasik tefsir bunu, güç sahibi olmanın getirdiği sorumluluğu unutup zulme yönelmek şeklinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "20:24",
+   "meal": "Firavun'a git, çünkü o azdı.",
+   "baglanti": "Firavun'un azgınlığı burada da aynı kökle anlatılır; Fecr suresindeki genel ifadeyi somutlaştırır."
+  },
+  {
+   "ref": "96:6",
+   "meal": "Hayır, gerçekten insan azgınlık eder.",
+   "baglanti": "Alak suresinde de aynı kök insanın kendini yeterli görüp azgınlaşmasını anlatır; Fecr suresindeki toplumsal azgınlığın bireysel köküne işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu geçmiş toplumların ortak hatasıdır: sınırı aşmak, ölçüyü kaçırmak.",
+  "Güç, para veya statü arttıkça insanın sınırlarını unutması kolaylaşabilir. Bu ayet, elindeki imkân ne olursa olsun ölçülü davranmayı ve başkalarının haklarını gözetmeyi hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sınırını hatırla",
+   "aciklama": "Bugün bir konuda haddini aşıp aşmadığını kontrol et."
+  },
+  {
+   "baslik": "Gücünü ölçülü kullan",
+   "aciklama": "Elindeki bir imkânı bugün kimseyi ezmeden kullan."
+  },
+  {
+   "baslik": "Bir özeleştiri yap",
+   "aciklama": "Bugün son zamanlarda ölçüyü kaçırdığın bir davranışını yazıp düzeltmeye karar ver."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda haddi aşıp aşmadığını düşün ve gerekiyorsa bir düzeltme adımı at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/89/11"
+  }
+ ]
+}

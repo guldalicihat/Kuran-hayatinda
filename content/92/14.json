@@ -1,0 +1,75 @@
+{
+ "sure": 92,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "Sizi alevlenen bir ateşe karşı uyardım.",
+ "mealNotu": "'Enzertüküm' kökü uyarmayı; 'telezzâ' kökü ise alev alev yanmayı, alevlenmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "فَأَنذَرْتُكُمْ",
+   "okunus": "feenzertüküm",
+   "kok": "نذر",
+   "kokAnlam": "uyarma, sakındırma",
+   "karsilik": "sizi uyardım"
+  },
+  {
+   "kelime": "نَارًا",
+   "okunus": "nâran",
+   "kok": "نور",
+   "kokAnlam": "ateş",
+   "karsilik": "bir ateşe karşı"
+  },
+  {
+   "kelime": "تَلَظَّىٰ",
+   "okunus": "telezzâ",
+   "kok": "لظي",
+   "kokAnlam": "alev alev yanma, alevlenme",
+   "karsilik": "alevlenen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerdeki bilgilendirmeden sonra doğrudan bir uyarıya geçer: alevlenen bir ateş. 'Telezzâ' kökü, sürekli ve şiddetli bir yanışı anlatır.",
+  "Bu uyarı, bir sonraki ayette kimin bu ateşe gireceğinin açıklanmasıyla somutlaşır. Klasik tefsir, bu ateşin cehennem olduğunu ve uyarının bütün insanlığa yönelik olduğunu belirtir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "92:15",
+   "meal": "Ona ancak en azgın olan girer.",
+   "baglanti": "Bu ayetteki uyarı, hemen ardından bu ateşe kimin gireceğinin açıklanmasıyla tamamlanır."
+  },
+  {
+   "ref": "2:24",
+   "meal": "Yakıtı insanlar ve taşlar olan ateşten sakının.",
+   "baglanti": "Bakara suresindeki bu ayet de benzer bir uyarıyla, ateşten sakınmayı öğütler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ahiretteki ceza konusunda yapılan bir uyarıdır; bu, dinî bir bildirimdir.",
+  "Günlük hayatta bu, ciddi bir uyarıyı görmezden gelmemenin önemini hatırlatır; bir tehlike işareti geldiğinde onu hafife almadan tedbir almak, hem dünyevi hem manevi anlamda faydalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Uyarıyı ciddiye al",
+   "aciklama": "Bugün sana yapılan bir uyarıyı (sağlık, ilişki, iş) görmezden gelmeden değerlendir."
+  },
+  {
+   "baslik": "Riski azalt",
+   "aciklama": "Bildiğin bir tehlikeye karşı bugün küçük bir tedbir al."
+  },
+  {
+   "baslik": "Başkasını uyar",
+   "aciklama": "Bir yakınını, fark ettiğin bir riske karşı nazikçe uyar."
+  }
+ ],
+ "bugununAdimi": "Bugün göz ardı ettiğin bir uyarıyı ciddiye alıp bir tedbir al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=92&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/92/14"
+  }
+ ]
+}

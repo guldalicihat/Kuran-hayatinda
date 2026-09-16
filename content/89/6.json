@@ -1,0 +1,96 @@
+{
+ "sure": 89,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Rabbinin Âd kavmine nasıl yaptığını görmedin mi?",
+ "mealNotu": "'Tera' fiili 'görmek' kökünden gelir; burada bilgi sahibi olmak, haberdar olmak anlamında kullanılır. 'Âd' özel isim olarak bırakılmıştır.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk + soru) -medi mi",
+   "karsilik": "-medin mi"
+  },
+  {
+   "kelime": "تَرَ",
+   "okunus": "tera",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görmedin"
+  },
+  {
+   "kelime": "كَيْفَ",
+   "okunus": "keyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "فَعَلَ",
+   "okunus": "feale",
+   "kok": "فعل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "yaptığını"
+  },
+  {
+   "kelime": "رَبُّكَ",
+   "okunus": "rabbüke",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye",
+   "karsilik": "Rabbinin"
+  },
+  {
+   "kelime": "بِعَادٍ",
+   "okunus": "biâdin",
+   "kok": "عود",
+   "kokAnlam": "(özel isim) Âd kavmi",
+   "karsilik": "Âd kavmine"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayetle sûre, önceki beş yeminden sonra tarihsel bir örneğe geçer. Âd kavmi, güçlü bir uygarlık kurmuş ama azgınlığı yüzünden helak edilmiş eski bir kavimdir. Ayet, muhataba bu kıssayı 'görmedin mi' diyerek hatırlatır.",
+  "Takip eden ayetler Âd kavminin başkenti İrem'i, Semûd kavmini ve Firavun'u aynı örnek dizisinde sıralar. Klasik tefsir bu üç örneği, güç ve azgınlığın sonunun nasıl bittiğini gösteren bir uyarı dizisi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:65",
+   "meal": "Âd kavmine de kardeşleri Hûd'u gönderdik. Dedi ki: Ey kavmim! Allah'a kulluk edin, sizin O'ndan başka ilahınız yoktur.",
+   "baglanti": "Âd kavminin kıssası burada peygamberi Hûd ile birlikte anlatılır; Fecr suresi ise sonucuna, helakine dikkat çeker."
+  },
+  {
+   "ref": "41:15",
+   "meal": "Âd kavmi ise yeryüzünde haksız yere büyüklendiler ve 'bizden daha güçlü kim var' dediler.",
+   "baglanti": "Bu ayet Âd kavminin azgınlığının sebebini, güçlerine güvenerek büyüklenmelerini açıklar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu geçmiş bir kavmin akıbetidir; tarihten ders çıkarmaya çağırır.",
+  "Güç, başarı veya imkân sahibi olmak, insanı kibre sürükleyebilir. Bu ayet, geçmişten ders alarak bugünün gücünü ölçülü ve sorumlu kullanmayı hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir tarih dersi oku",
+   "aciklama": "Bugün geçmiş bir toplumun yükseliş ve çöküşünü kısaca araştır."
+  },
+  {
+   "baslik": "Gücünü ölçülü kullan",
+   "aciklama": "Bugün elindeki bir imkânı (yetki, güç, kaynak) başkasına zarar vermeden kullandığından emin ol."
+  },
+  {
+   "baslik": "Kibirden uzak dur",
+   "aciklama": "Bir başarını bugün kimseye üstünlük taslamadan paylaş."
+  }
+ ],
+ "bugununAdimi": "Bugün geçmiş bir kavmin veya medeniyetin çöküş sebebini kısaca araştır ve bir cümleyle not al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/89/6"
+  }
+ ]
+}

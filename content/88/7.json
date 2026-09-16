@@ -1,0 +1,96 @@
+{
+ "sure": 88,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "O ne besler ne de açlığı giderir.",
+ "mealNotu": "'Süman' kökü beslenmeyi, 'ganâ' kökü doyup ihtiyacın giderilmesini anlatır.",
+ "kokler": [
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "يُسْمِنُ",
+   "okunus": "yüsminü",
+   "kok": "سمن",
+   "kokAnlam": "besleme, semirtme",
+   "karsilik": "besler"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "يُغْنِى",
+   "okunus": "yüğnî",
+   "kok": "غني",
+   "kokAnlam": "ihtiyacı giderme, doyurma",
+   "karsilik": "giderir"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "جُوعٍ",
+   "okunus": "cûin",
+   "kok": "جوع",
+   "kokAnlam": "açlık",
+   "karsilik": "açlığı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayette anılan dari' bitkisinin gerçek anlamda faydasız olduğunu bildirir: ne besler ne de açlığı giderir. Bu, tam anlamıyla amacına hizmet etmeyen bir yiyecek tasviridir.",
+  "Bu tasvir, cehennemdeki çabanın ve orada verilenlerin tam bir boşluk, sonuçsuzluk taşıdığını gösterir. Sonraki ayetler, sureyi bambaşka bir yöne, nimet içindeki yüzlerin tasvirine çevirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "88:6",
+   "meal": "Onlar için dari' dikeninden başka yiyecek yoktur.",
+   "baglanti": "Bu ayet, bir önceki ayette anılan dari' bitkisinin neden faydasız olduğunu açıklar."
+  },
+  {
+   "ref": "88:8",
+   "meal": "O gün başka yüzler nimet içinde mutludur.",
+   "baglanti": "Bu ayetteki faydasız azaba karşılık, hemen sonraki ayette tam tersi bir hâl, nimet içindeki yüzler, anlatılmaya başlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ahiretteki yiyeceğin tam bir faydasızlık içinde olmasıdır. Bu bir uyarı ayetidir.",
+  "Buradan çıkan ders, hayatta gerçekten faydalı olanı, boş ve sonuçsuz olandan ayırt etmektir. Zaman ve emek harcadığın şeylerin gerçekten seni besleyip beslemediğini düşünmek önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Faydalı işi ayırt et",
+   "aciklama": "Bugün zamanını harcadığın bir aktivitenin sana gerçekten fayda sağlayıp sağlamadığını değerlendir."
+  },
+  {
+   "baslik": "Boş uğraşı bırak",
+   "aciklama": "Seni hiçbir yere götürmeyen bir alışkanlığı bugün fark edip azalt."
+  },
+  {
+   "baslik": "Besleyici bir şey seç",
+   "aciklama": "Bugün bedenini gerçekten besleyecek sağlıklı bir öğün tercih et."
+  }
+ ],
+ "bugununAdimi": "Bugün zamanını boşa harcayan bir alışkanlığın yerine gerçekten faydalı bir işe geç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=88&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/88/7"
+  }
+ ]
+}

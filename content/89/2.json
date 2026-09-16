@@ -1,0 +1,68 @@
+{
+ "sure": 89,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "On geceye andolsun.",
+ "mealNotu": "'Leyâl' kökü geceyi, 'aşr' kökü onu anlatır. Ayet hangi on gece olduğunu belirtmez; meal metne sadık kalır, yorum eklemez.",
+ "kokler": [
+  {
+   "kelime": "وَلَيَالٍ",
+   "okunus": "ve leyâlin",
+   "kok": "ليل",
+   "kokAnlam": "gece, geceler",
+   "karsilik": "geceye"
+  },
+  {
+   "kelime": "عَشْرٍ",
+   "okunus": "aşrin",
+   "kok": "عشر",
+   "kokAnlam": "on sayısı",
+   "karsilik": "on"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu, fecir yemininin devamıdır. 'On gece' ifadesi belirli bir sayıya işaret eder ama Kur'an metninde hangi geceler olduğu açıklanmaz.",
+  "Klasik tefsir bu ifadeyi çoğunlukla Zilhicce ayının ilk on gecesi olarak açıklar; ancak bu bir yorumdur, ayetin kendisi bunu belirtmez. Yeminler dizisi, zamanın değerli anlarına dikkat çekmeye devam eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:203",
+   "meal": "Sayılı günlerde Allah'ı anın.",
+   "baglanti": "Hac ile bağlantılı 'sayılı günler' ifadesi, klasik tefsirde Fecr suresindeki 'on gece' yorumuyla ilişkilendirilir."
+  },
+  {
+   "ref": "22:28",
+   "meal": "Kendilerine ait yararlara şahit olsunlar ve Allah'ın adını belli günlerde ansınlar diye.",
+   "baglanti": "Hac ibadetiyle bağlantılı belirli günler teması, 'on gece' yeminiyle aynı zaman dilimine işaret eder şeklinde yorumlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu belirli bir zaman dilimine yapılan yemindir; bu, insanın bazı günleri diğerlerinden daha değerli sayabileceğini hatırlatır.",
+  "Herkesin hayatında iş yoğunluğunun azaldığı, kendine dönebileceği belirli günler olabilir. Böyle günleri bilinçli şekilde değerlendirmeye veya dinlenmeye ayırmak, bu ayetin taşıdığı zaman bilincine uygun bir davranıştır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Takvimine bir 'değerli gün' ekle",
+   "aciklama": "Önümüzdeki on gün içinden birini seç, o günü özel bir amaç için ayır."
+  },
+  {
+   "baslik": "Zamanını say",
+   "aciklama": "Bugün elindeki saatleri nasıl geçirdiğini kısaca gözden geçir."
+  },
+  {
+   "baslik": "Bir hatırlatıcı kur",
+   "aciklama": "Değerli bulduğun bir günün başında seni hatırlatacak bir not veya alarm oluştur."
+  }
+ ],
+ "bugununAdimi": "Takviminde önümüzdeki on günden birini seç ve o günü özel bir amaca ayırdığını not et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=89&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/89/2"
+  }
+ ]
+}

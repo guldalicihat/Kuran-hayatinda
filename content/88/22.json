@@ -1,0 +1,75 @@
+{
+ "sure": 88,
+ "ayet": 22,
+ "durum": "taslak",
+ "meal": "Sen onlar üzerinde bir zorba değilsin.",
+ "mealNotu": "'Musaytır' kökü zorlama, baskı altına almayı anlatır. Ayet, Peygamber'in insanları zorla inandırma yetkisinin olmadığını bildirir.",
+ "kokler": [
+  {
+   "kelime": "لَّسْتَ",
+   "okunus": "leste",
+   "kok": "ليس",
+   "kokAnlam": "olmama, değilsin",
+   "karsilik": "değilsin"
+  },
+  {
+   "kelime": "عَلَيْهِم",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlar üzerinde",
+   "karsilik": "onlar üzerinde"
+  },
+  {
+   "kelime": "بِمُصَيْطِرٍ",
+   "okunus": "bimüsaytırin",
+   "kok": "سطر",
+   "kokAnlam": "zorlama, baskı altına alma",
+   "karsilik": "bir zorba"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki öğüt verme görevini netleştirir: Peygamber, insanları zorla inandıracak bir zorba değildir. 'Musaytır' kökü baskı ve zorlamayı anlatır.",
+  "Bu, dinde zorlama olmadığı ilkesini destekler; iman, gönülden bir kabul olmalıdır. Sonraki ayet, bu genel kuralın bir istisnasını, yüz çevirip inkâr edenin cezalandırılacağını bildirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "88:21",
+   "meal": "Sen öğüt ver; sen ancak bir öğüt vericisin.",
+   "baglanti": "Bu ayet, bir önceki ayetteki öğüt verme görevini, zorlama yetkisi olmadığını belirterek tamamlar."
+  },
+  {
+   "ref": "2:256",
+   "meal": "Dinde zorlama yoktur.",
+   "baglanti": "Bakara suresindeki bu ayet de dinde zorlamanın olmadığını açıkça bildirerek 88:22'deki 'zorba değilsin' ilkesini destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in tebliğ görevinin zorlama içermediğidir. Bu bir davet ve özgür irade ilkesidir.",
+  "Buradan çıkan ders, başkalarının inanç ve tercihlerine saygı göstermektir. Doğru bildiğimiz bir şeyi paylaşabiliriz, ama başkasını buna zorlamak bize düşmez."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zorlamadan paylaş",
+   "aciklama": "Bugün bir görüşünü, karşındakini zorlamadan, saygıyla paylaş."
+  },
+  {
+   "baslik": "Farklı görüşe saygı göster",
+   "aciklama": "Seninle aynı düşünmeyen birine bugün sabırla ve saygıyla yaklaş."
+  },
+  {
+   "baslik": "Baskıdan kaçın",
+   "aciklama": "Bir yakınını bir konuda ikna etmeye çalışırken baskı yerine anlayışla yaklaş."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda seninle aynı fikirde olmayan birine, zorlamadan ve saygıyla yaklaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=88&verse=22"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/88/22"
+  }
+ ]
+}

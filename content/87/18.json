@@ -1,0 +1,89 @@
+{
+ "sure": 87,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "Şüphesiz bu, önceki sahifelerde de vardır.",
+ "mealNotu": "'Suhuf' kökü sahife, yazılı kayıt anlamındadır. Ayet, bu ilkenin daha önceki vahiylerde de bulunduğunu bildirir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "لَفِى",
+   "okunus": "lefî",
+   "kok": "—",
+   "kokAnlam": "(edat) elbette ... içindedir",
+   "karsilik": "elbette ... vardır"
+  },
+  {
+   "kelime": "ٱلصُّحُفِ",
+   "okunus": "essuhufi",
+   "kok": "صحف",
+   "kokAnlam": "sahife, yazılı kayıt",
+   "karsilik": "sahifelerde"
+  },
+  {
+   "kelime": "ٱلْأُولَىٰ",
+   "okunus": "el'ûlâ",
+   "kok": "أول",
+   "kokAnlam": "önce olma, ilk",
+   "karsilik": "önceki"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetlerdeki ilkenin (arınma, ahiretin üstünlüğü) yeni bir şey olmadığını, önceki kutsal sahifelerde de bulunduğunu bildirir. 'Suhuf' kökü yazılı kayıtları anlatır.",
+  "Bu, Kur'an'ın mesajının önceki vahiylerle süreklilik taşıdığını gösterir. Sonraki ayet, bu sahifelerin İbrahim ve Musa'ya ait olduğunu belirterek örneği somutlaştırır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "87:19",
+   "meal": "İbrahim'in ve Musa'nın sahifelerinde.",
+   "baglanti": "Bu ayette anılan 'önceki sahifeler', hemen sonraki ayette İbrahim ve Musa'ya ait sahifeler olarak açıklanır."
+  },
+  {
+   "ref": "53:36",
+   "meal": "Yoksa Musa'nın sahifelerinde bulunanlar ona haber verilmedi mi?",
+   "baglanti": "Necm suresindeki bu ayet de aynı temayı, Musa'nın sahifelerindeki bilgiyi hatırlatarak işler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, temel ahlaki ve imani ilkelerin önceki vahiylerde de yer aldığıdır. Bu bir vahiy süreklilik vurgusudur.",
+  "Buradan çıkan ders, doğru olanın zamana ve kültüre göre değişmeyen, kalıcı bir öz taşıdığını görmektir. Arınma, ibadet ve ahireti önceleme gibi ilkeler her çağda geçerlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kalıcı değeri gör",
+   "aciklama": "Bugün uyduğun bir ilkenin zamansız ve evrensel olduğunu düşün."
+  },
+  {
+   "baslik": "Ortak zemini hatırla",
+   "aciklama": "Farklı inançlardan insanlarla konuşurken ortak ahlaki değerleri hatırla."
+  },
+  {
+   "baslik": "Tutarlı ol",
+   "aciklama": "Bugün savunduğun bir ilkeyi kendi davranışında da uygula."
+  }
+ ],
+ "bugununAdimi": "Bugün inandığın bir ilkeyi, söylemekle kalmayıp bir davranışınla göster.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=87&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/87/18"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "sure": 91,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Onu izlediğinde aya andolsun.",
+ "mealNotu": "'Telâ' kökü ardından gelmeyi, izlemeyi anlatır. Ayetteki 'onu' zamiri bir önceki ayette geçen güneşe döner; çünkü ay ışığını ondan yansıtır.",
+ "kokler": [
+  {
+   "kelime": "وَٱلْقَمَرِ",
+   "okunus": "vel kameri",
+   "kok": "قمر",
+   "kokAnlam": "ay",
+   "karsilik": "aya andolsun"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman edatı) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "تَلَىٰهَا",
+   "okunus": "telâhâ",
+   "kok": "تلو",
+   "kokAnlam": "ardından gelme, izleme, takip etme",
+   "karsilik": "onu izlediğinde"
+  }
+ ],
+ "neAnlatiyor": [
+  "İkinci yemin aya yöneliktir. 'Telâ' kökü ardından gelmeyi anlatır; ay, güneşin ardından gökte görünür ve ışığını ondan yansıtır.",
+  "Güneş-ay çifti, surenin ilerleyen ayetlerindeki gündüz-gece ve aydınlık-karanlık zıtlıklarına da zemin hazırlar. Klasik tefsir, bu art arda gelen kozmik yeminleri, konunun önemine yapılan bir vurgu olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "91:1",
+   "meal": "Güneşe ve onun kuşluk aydınlığına andolsun.",
+   "baglanti": "Bu ayetteki 'onu izlediğinde' ifadesindeki zamir, bir önceki ayette geçen güneşe döner."
+  },
+  {
+   "ref": "10:5",
+   "meal": "Güneşi bir ışık, ayı da bir nur kılan ve ayın evrelerini takdir eden O'dur.",
+   "baglanti": "Bu ayet, güneş ve ayın birbirine bağlı kozmik düzenini açıklar; Şems suresindeki yemin bu düzene işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu ayın gökteki hareketi ve güneşle ilişkisidir.",
+  "Ayın güneşe bağlı, düzenli hareketi insana da bir kaynağa bağlı kalarak ilerlemenin ve düzenli bir ritim kurmanın değerini hatırlatabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ayı gözlemle",
+   "aciklama": "Bu akşam ayı gökte bul ve bir dakika ışığına bak."
+  },
+  {
+   "baslik": "Bir ritim kur",
+   "aciklama": "Güne ve geceye göre değişen basit bir düzen (uyku, çalışma) belirle ve bugün uygula."
+  },
+  {
+   "baslik": "Bağlılığı hatırla",
+   "aciklama": "Bugün seni destekleyen bir kişiye veya kaynağa teşekkür et."
+  }
+ ],
+ "bugununAdimi": "Bu akşam ayı gökte bulup bir dakika ışığını izle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=91&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/91/2"
+  }
+ ]
+}

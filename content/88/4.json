@@ -1,0 +1,75 @@
+{
+ "sure": 88,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Kızgın bir ateşe girer.",
+ "mealNotu": "'Salâ' kökü ateşe girip yanmayı, 'hâmiye' kökü kızgınlığı, yüksek sıcaklığı anlatır.",
+ "kokler": [
+  {
+   "kelime": "تَصْلَىٰ",
+   "okunus": "taslâ",
+   "kok": "صلي",
+   "kokAnlam": "ateşe girme, yanma",
+   "karsilik": "girer"
+  },
+  {
+   "kelime": "نَارًا",
+   "okunus": "nâran",
+   "kok": "نور",
+   "kokAnlam": "ateş, ışık",
+   "karsilik": "bir ateşe"
+  },
+  {
+   "kelime": "حَامِيَةً",
+   "okunus": "hâmiyeten",
+   "kok": "حمي",
+   "kokAnlam": "kızgınlık, yüksek sıcaklık",
+   "karsilik": "kızgın"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki boşa giden çabanın karşılığını bildirir: kızgın bir ateşe girmek. 'Hâmiye' kökü yüksek sıcaklığı, dayanılmaz bir kızgınlığı anlatır.",
+  "Bu tasvir, dünyada yapılan yanlış tercihlerin sonucunun hafife alınamayacağını gösterir. Sonraki ayet, bu ateşin yanı sıra kaynar bir pınardan içirileceğini ekleyerek azabın boyutunu genişletir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "88:5",
+   "meal": "Kaynar bir pınardan içirilir.",
+   "baglanti": "Bu ayetteki ateşin yanına, hemen sonraki ayette kaynar bir içecek eklenir; azap iki yönden tasvir edilir."
+  },
+  {
+   "ref": "78:21",
+   "meal": "Şüphesiz cehennem, gözetleyen bir yerdir.",
+   "baglanti": "Nebe suresindeki bu ayet de cehennemin hazır ve gözetleyici bir konumda olduğunu bildirerek 88:4'teki uyarıyı destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ahiretteki ateş azabının tasviridir. Bu bir uyarı ayetidir.",
+  "Buradan çıkan ders, geçici bir rahatlık veya çıkar uğruna büyük bir bedel ödemekten kaçınmaktır. Yanlış bir yolun sonunun ne kadar ağır olabileceğini bilmek, doğru yolu seçmeyi kolaylaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bedeli düşün",
+   "aciklama": "Bugün cazip görünen ama yanlış bir seçimin bedelini önceden düşün."
+  },
+  {
+   "baslik": "Uyarıyı hatırla",
+   "aciklama": "Bir günahtan uzak durmak için bu ayetteki tasviri kısaca hatırla."
+  },
+  {
+   "baslik": "Ateşten Allah'a sığın",
+   "aciklama": "Bugün kısa bir dua ile ateş azabından Allah'a sığın."
+  }
+ ],
+ "bugununAdimi": "Bugün seni yanlışa çekebilecek bir durumdan bilinçli olarak uzak dur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=88&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/88/4"
+  }
+ ]
+}

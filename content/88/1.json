@@ -1,0 +1,82 @@
+{
+ "sure": 88,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Her şeyi kaplayacak olanın (Gâşiye'nin) haberi sana geldi mi?",
+ "mealNotu": "'Gâşiye' kökü kaplama, örtüp bürümeyi anlatır; kıyametin bu ismi, herkesi dehşetiyle kaplayacağı için verilmiştir. Adı özel isim olarak korunup parantez içinde açıklandı.",
+ "kokler": [
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "(soru) mi",
+   "karsilik": "mi"
+  },
+  {
+   "kelime": "أَتَىٰكَ",
+   "okunus": "etâke",
+   "kok": "أتي",
+   "kokAnlam": "gelme, ulaşma",
+   "karsilik": "sana geldi"
+  },
+  {
+   "kelime": "حَدِيثُ",
+   "okunus": "hadîsü",
+   "kok": "حدث",
+   "kokAnlam": "haber, söz",
+   "karsilik": "haberi"
+  },
+  {
+   "kelime": "ٱلْغَٰشِيَةِ",
+   "okunus": "elgâşiyeti",
+   "kok": "غشو",
+   "kokAnlam": "kaplama, örtüp bürüme",
+   "karsilik": "her şeyi kaplayacak olanın (Gâşiye'nin)"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, kıyameti 'Gâşiye', yani her şeyi kaplayan, bürüyen felaket olarak adlandırıp bunun haberini soran bir soruyla başlar. 'Gâşiye' kökü örtüp kaplamayı anlatır; bu isim kıyametin dehşetini herkesi saracak biçimde tasvir eder.",
+  "Bu soru kalıbı, dinleyicinin dikkatini önemli bir habere çekmek için kullanılır. Sonraki ayetler, o günün iki farklı yüz grubuyla, kaybedenler ve kazananlarla, tasvirine geçer."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "79:15",
+   "meal": "Musa'nın haberi sana geldi mi?",
+   "baglanti": "Nâziât suresindeki bu ayet aynı 'hel etâke hadîsü' soru kalıbını kullanır; burada bir kıssanın, Gâşiye'de ise kıyametin haberi sorulur."
+  },
+  {
+   "ref": "85:17",
+   "meal": "Orduların haberi sana geldi mi?",
+   "baglanti": "Bürûc suresindeki bu ayet de aynı soru kalıbıyla, geçmişte yaşanan bir olayın haberini sorar; üslup benzerliği iki sure arasında bir bağ kurar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyamet gününün haberidir. Bu, ahiret inancına bir giriş sorusudur.",
+  "Buradan çıkan ders, önemli bir habere karşı kayıtsız kalmamaktır. Hayatı kuşatacak büyük bir gerçeği duyduğunda onu ciddiye almak, gündelik telaşın ötesine bakmayı gerektirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önemli bir haberi ciddiye al",
+   "aciklama": "Bugün duyduğun önemli bir bilgiyi geçiştirmeden üzerinde düşün."
+  },
+  {
+   "baslik": "Büyük resmi hatırla",
+   "aciklama": "Gündelik işlerin arasında, hayatının büyük amacını bir kez hatırla."
+  },
+  {
+   "baslik": "Kıyameti anımsa",
+   "aciklama": "Bugün bir kararında, sonuçlarının ahirete uzandığını düşünerek hareket et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir karar verirken, 'Bu seçimimin ahiretteki karşılığı ne olur?' diye kendine sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=88&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/88/1"
+  }
+ ]
+}

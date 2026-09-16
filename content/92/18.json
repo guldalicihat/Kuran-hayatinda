@@ -1,0 +1,82 @@
+{
+ "sure": 92,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "O ki arınmak için malını verir.",
+ "mealNotu": "'Zekkâ' kökü arınmayı anlatır. Ayet, 17. ayetteki 'en çok sakınan' kişiyi, malını bu amaçla veren kişi olarak tanımlar.",
+ "kokler": [
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o ki",
+   "karsilik": "o ki"
+  },
+  {
+   "kelime": "يُؤْتِى",
+   "okunus": "yü'tî",
+   "kok": "أتي",
+   "kokAnlam": "verme, ulaştırma",
+   "karsilik": "verir"
+  },
+  {
+   "kelime": "مَالَهُۥ",
+   "okunus": "mâlehû",
+   "kok": "مول",
+   "kokAnlam": "mal, servet",
+   "karsilik": "malını"
+  },
+  {
+   "kelime": "يَتَزَكَّىٰ",
+   "okunus": "yetezekkâ",
+   "kok": "زكو",
+   "kokAnlam": "arınma, kendini temizleme",
+   "karsilik": "arınmak için"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayette 'en çok sakınan' olarak nitelenen kişiyi tanımlar: malını arınmak amacıyla veren kişi. Bu, gösteriş için değil, kendi nefsini arındırmak için yapılan bir vermedir.",
+  "Bu tanım, surenin 5. ayetindeki 'veren ve sakınan' kişiyle aynı profildir; sure onun kimliğini burada netleştirir. Klasik tefsir, bu ayeti sadaka ve zekâtın asıl amacının kişinin kendi nefsini arındırması olduğuna bir işaret olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "92:5",
+   "meal": "Kim [malını Allah yolunda] verir ve sakınırsa.",
+   "baglanti": "Bu ayetteki 'arınmak için veren' kişi, surenin başında tanıtılan veren ve sakınan kişiyle aynı profildir."
+  },
+  {
+   "ref": "9:103",
+   "meal": "Onların mallarından, kendilerini temizleyip arındıracağın bir sadaka al.",
+   "baglanti": "Tevbe suresindeki bu ayet, aynı kökle (zekâ) malı vermenin arınma amacı taşıdığını doğrudan bildirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, malı gösteriş için değil, kendi nefsini arındırmak amacıyla vermektir.",
+  "Günlük hayatta bu, bir iyiliği yaparken niyetin önemini hatırlatır; başkasına yardım ederken asıl kazananın, bu niyeti taşıyan kişinin kendisi olduğu unutulmamalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Niyetini sorgula",
+   "aciklama": "Bugün yaptığın bir iyiliğin gösteriş mi yoksa arınma niyeti mi taşıdığını düşün."
+  },
+  {
+   "baslik": "Sessizce ver",
+   "aciklama": "Bugün bir yardımı kimseye söylemeden yap."
+  },
+  {
+   "baslik": "Malını paylaş",
+   "aciklama": "Elindeki bir imkânı, arınma niyetiyle ihtiyaç sahibiyle paylaş."
+  }
+ ],
+ "bugununAdimi": "Bugün bir yardımı kimseye söylemeden, sadece arınma niyetiyle yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=92&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/92/18"
+  }
+ ]
+}

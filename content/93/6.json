@@ -1,0 +1,82 @@
+{
+ "sure": 93,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "O seni yetim bulup barındırmadı mı?",
+ "mealNotu": "'Vecede' kökü bulmayı, 'âvâ' kökü ise barındırmayı, sığınak vermeyi anlatır. Ayet, soru yoluyla bir hatırlatma yapar.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuz soru edatı) -medi mi",
+   "karsilik": "-medi mi"
+  },
+  {
+   "kelime": "يَجِدْكَ",
+   "okunus": "yecidke",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "seni buldu"
+  },
+  {
+   "kelime": "يَتِيمًا",
+   "okunus": "yetîmen",
+   "kok": "يتم",
+   "kokAnlam": "yetim, ebeveynini kaybetmiş",
+   "karsilik": "yetim"
+  },
+  {
+   "kelime": "فَـَٔاوَىٰ",
+   "okunus": "feâvâ",
+   "kok": "أوي",
+   "kokAnlam": "barındırma, sığınak verme",
+   "karsilik": "ve barındırdı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 3-5. ayetlerdeki teselliden sonra, geçmişte verilen somut nimetleri hatırlatmaya başlar. İlk örnek, Peygamber'in yetim kalıp barındırılmasıdır. 'Âvâ' kökü, bir sığınak, bir yuva vermeyi anlatır.",
+  "Bu hatırlatma, soru biçiminde gelir; bu, cevabı zaten bilinen bir gerçeği vurgulamanın bir yoludur. Klasik tefsir, bu ayeti Peygamber'in çocukluğunda yaşadığı yetimliğin ardından himaye altına alınmasına bir işaret olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "93:7",
+   "meal": "Seni yolunu şaşırmış bulup doğru yola iletmedi mi?",
+   "baglanti": "Bu ayetteki 'bulma-barındırma' örneği, hemen ardından aynı yapıyla tekrarlanan 'bulma-yol gösterme' örneğiyle devam eder."
+  },
+  {
+   "ref": "94:1",
+   "meal": "Senin göğsünü genişletmedik mi?",
+   "baglanti": "İnşirah suresi de aynı soru üslubuyla, Peygamber'e verilen nimetleri hatırlatarak devam eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in yetimliği ve bunun ardından himaye edilmesidir; bu, tarihî ve kişisel bir hatırlatmadır.",
+  "Günlük hayata taşınabilecek ders, geçmişte zor bir dönemden geçmiş olsa bile kişinin bir şekilde desteklendiğini, yalnız bırakılmadığını fark etmesidir; bu farkındalık, hem şükrü hem de başkasına aynı desteği verme isteğini besleyebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geçmişi hatırla",
+   "aciklama": "Bugün zor bir dönemde sana destek olan birini hatırlayıp teşekkür et."
+  },
+  {
+   "baslik": "Sığınak ol",
+   "aciklama": "Zor durumdaki birine bugün küçük de olsa bir destek ver."
+  },
+  {
+   "baslik": "Yetime dikkat et",
+   "aciklama": "Çevrende kimsesiz veya desteksiz birine bugün ilgi göster."
+  }
+ ],
+ "bugununAdimi": "Bugün zor bir dönemde sana destek olan birine teşekkür et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/93/6"
+  }
+ ]
+}

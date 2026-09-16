@@ -1,0 +1,75 @@
+{
+ "sure": 93,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "Seni fakir bulup zengin/yeterli kılmadı mı?",
+ "mealNotu": "'Âil' kökü fakirliği, yoksunluğu anlatır. 'Ağnâ' kökü ise zenginleştirmeyi, ihtiyaçtan kurtarmayı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَوَجَدَكَ",
+   "okunus": "ve vecedeke",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "ve seni buldu"
+  },
+  {
+   "kelime": "عَآئِلًا",
+   "okunus": "âilen",
+   "kok": "عيل",
+   "kokAnlam": "fakirlik, yoksunluk",
+   "karsilik": "fakir"
+  },
+  {
+   "kelime": "فَأَغْنَىٰ",
+   "okunus": "feağnâ",
+   "kok": "غني",
+   "kokAnlam": "zenginleştirme, ihtiyaçtan kurtarma",
+   "karsilik": "ve zengin kıldı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 6-7. ayetlerdeki iki örneğin ardından üçüncü bir nimeti hatırlatır: fakirlikten kurtarılıp yeterli kılınma. 'Ağnâ' kökü, hem maddi hem manevi bir zenginleşmeyi, ihtiyaçtan kurtulmayı anlatabilir.",
+  "Bu üç örnek (yetimlik-barınma, arayış-yol bulma, fakirlik-zenginleşme) birlikte, Peygamber'in hayatındaki geçmiş zorlukların hepsinin bir karşılığı olduğunu gösterir. Bir sonraki ayetten itibaren sure, bu nimetlerin bir sorumluluğa dönüşmesini ister."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "93:6",
+   "meal": "O seni yetim bulup barındırmadı mı?",
+   "baglanti": "Bu ayetteki 'bulma-zenginleştirme' örneği, surenin başındaki iki örnekle aynı yapıyı tekrarlayarak üçlemeyi tamamlar."
+  },
+  {
+   "ref": "24:32",
+   "meal": "Eğer fakir iseler Allah onları lütfundan zengin kılar.",
+   "baglanti": "Nûr suresindeki bu ayet de aynı kökle (ğaniya) Allah'ın fakiri zenginleştirme vaadini anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in geçmişteki maddi darlığının ardından yeterli kılınmasıdır; bu, tarihî bir hatırlatmadır.",
+  "Günlük hayata taşınabilecek ders, geçmişteki maddi zorlukların kalıcı olmadığı, sabırla ve çabayla bir çıkış yolunun bulunabileceğidir; bugünkü darlık, yarının garantisi değildir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geçmişi hatırla",
+   "aciklama": "Bugün geçmişte yaşadığın bir darlığı ve ondan nasıl çıktığını hatırla."
+  },
+  {
+   "baslik": "Yeterliliği fark et",
+   "aciklama": "Elindeki imkânların aslında yeterli olduğunu bir an düşün."
+  },
+  {
+   "baslik": "Darda olana destek ol",
+   "aciklama": "Maddi sıkıntı yaşayan birine bugün küçük bir destek ver."
+  }
+ ],
+ "bugununAdimi": "Bugün maddi sıkıntı yaşadığını bildiğin birine küçük bir destek ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/93/8"
+  }
+ ]
+}

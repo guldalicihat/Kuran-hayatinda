@@ -1,0 +1,75 @@
+{
+ "sure": 92,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Örttüğünde geceye andolsun.",
+ "mealNotu": "'Yağşâ' kökü örtmeyi, kaplamayı anlatır. Leyl suresi de Şems suresi gibi doğa yeminleriyle başlar; burada zamir açıkça belirtilmeden gece kendi başına anılır.",
+ "kokler": [
+  {
+   "kelime": "وَٱلَّيْلِ",
+   "okunus": "velleyli",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "geceye andolsun"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman edatı) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "يَغْشَىٰ",
+   "okunus": "yağşâ",
+   "kok": "غشو",
+   "kokAnlam": "örtme, kaplama, üzerini kapatma",
+   "karsilik": "örttüğünde"
+  }
+ ],
+ "neAnlatiyor": [
+  "Leyl suresi, Şems suresiyle benzer bir üslupla, gece üzerine yeminle başlar. 'Yağşâ' kökü örtmeyi anlatır; gece burada karanlığıyla dünyayı kaplayan bir vakit olarak anılır.",
+  "Bu ilk yemin, bir sonraki ayette gündüzle karşıtlık oluşturacak bir çift yeminin ilk parçasıdır. Klasik tefsir, sureyi açan bu doğa yeminlerinin, ardından gelen çaba ve seçim temasına dikkat çekmek için kullanıldığını belirtir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "91:4",
+   "meal": "Onu örttüğünde geceye andolsun.",
+   "baglanti": "Şems suresindeki gece yemini de aynı kökle (yağşâ) kurulmuştur; iki sure aynı imgeyi paylaşır."
+  },
+  {
+   "ref": "92:2",
+   "meal": "Açığa çıktığında gündüze andolsun.",
+   "baglanti": "Gece yemini, hemen ardından gelen gündüz yeminiyle bir çift oluşturur ve zıtlığı kurar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu gecenin, karanlığıyla dünyayı örten doğal işlevidir.",
+  "Gece vakti, insana günün koşuşturmasından uzaklaşıp dinlenme ve düşünme imkânı sunar; bu ayet, bu vaktin bir yemin konusu kadar değerli olduğunu hatırlatabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geceyi değerlendir",
+   "aciklama": "Bu gece uyumadan önce günü kısaca değerlendiren birkaç dakika ayır."
+  },
+  {
+   "baslik": "Karanlığı dinlenmeye çevir",
+   "aciklama": "Ekranları erken kapatıp gerçek bir dinlenmeye geç."
+  },
+  {
+   "baslik": "Sükûneti fark et",
+   "aciklama": "Gecenin sessizliğinde bir an durup çevreni dinle."
+  }
+ ],
+ "bugununAdimi": "Bu gece uyumadan önce günü kısaca değerlendiren birkaç dakika ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=92&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/92/1"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "sure": 91,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Onu örttüğünde geceye andolsun.",
+ "mealNotu": "'Yağşâ' kökü örtmeyi, kaplamayı anlatır. Zamir güneşe döner; gece, güneşin ışığını örter ve karanlığı yayar.",
+ "kokler": [
+  {
+   "kelime": "وَٱلَّيْلِ",
+   "okunus": "velleyli",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "geceye andolsun"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman edatı) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "يَغْشَىٰهَا",
+   "okunus": "yağşâhâ",
+   "kok": "غشو",
+   "kokAnlam": "örtme, kaplama, üzerini kapatma",
+   "karsilik": "onu örttüğünde"
+  }
+ ],
+ "neAnlatiyor": [
+  "Dördüncü yemin geceye yöneliktir. 'Yağşâ' kökü örtmeyi anlatır; gece, gündüzün açığa çıkardığı ışığı örter ve karanlığı yayar.",
+  "Böylece ilk dört ayet, güneş-ay ve gündüz-gece olmak üzere iki çift kozmik yemin oluşturur. Klasik tefsir, bu düzenli zıtlıkların, surenin ana temasındaki iyi-kötü ayrımına bir örnek teşkil ettiğini belirtir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "92:1",
+   "meal": "Örttüğünde geceye andolsun.",
+   "baglanti": "Leyl suresinin açılış yemini de aynı kökle (yağşâ) gecenin örtücü etkisini anlatır; iki sure aynı imgeyle başlar."
+  },
+  {
+   "ref": "91:3",
+   "meal": "Onu açığa çıkardığında gündüze andolsun.",
+   "baglanti": "Gecenin örtmesi, bir önceki ayette anlatılan gündüzün açığa çıkarmasıyla doğrudan karşıtlık oluşturur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu gecenin, güneşin ışığını örten doğal işlevidir.",
+  "Gecenin örtücü niteliği, insana dinlenme ve içe dönme vaktinin kıymetini hatırlatabilir; her şeyin sürekli açıkta olması gerekmez, bazı vakitler sakinleşmeye ayrılır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geceyi dinlenmeye ayır",
+   "aciklama": "Bu gece ekranları erken kapatıp gerçek bir dinlenme vakti ayır."
+  },
+  {
+   "baslik": "İçe dön",
+   "aciklama": "Günün gürültüsünden uzaklaşıp birkaç dakika sessizce düşün."
+  },
+  {
+   "baslik": "Dengeyi kur",
+   "aciklama": "Yarın için gündüz-gece dengesini (uyku saatini) bugünden planla."
+  }
+ ],
+ "bugununAdimi": "Bu gece telefonu erken bırakıp gerçek bir dinlenme vakti ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=91&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/91/4"
+  }
+ ]
+}

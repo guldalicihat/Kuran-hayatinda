@@ -1,0 +1,82 @@
+{
+ "sure": 90,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Bu şehre yemin ederim.",
+ "mealNotu": "Buradaki 'lâ', olumsuzluk değil, yemin cümlelerinde sık görülen bir te'kid (pekiştirme) edatıdır. 'Bu şehir' klasik tefsirde Mekke olarak anlaşılır.",
+ "kokler": [
+  {
+   "kelime": "لَآ",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(vurgu; yeminde te'kid)",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "أُقْسِمُ",
+   "okunus": "üksimü",
+   "kok": "قسم",
+   "kokAnlam": "yemin etme",
+   "karsilik": "yemin ederim"
+  },
+  {
+   "kelime": "بِهَٰذَا",
+   "okunus": "bihâzâ",
+   "kok": "—",
+   "kokAnlam": "bu (işaret zamiri)",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "ٱلْبَلَدِ",
+   "okunus": "elbeledi",
+   "kok": "بلد",
+   "kokAnlam": "şehir, ülke, belde",
+   "karsilik": "şehre"
+  }
+ ],
+ "neAnlatiyor": [
+  "Beled suresi, 'bu şehre' yemin ederek başlar. 'Lâ' harfi burada olumsuzluk değil, yeminin önemini vurgulayan bir pekiştirme edatıdır. Klasik tefsir 'bu şehir' ifadesini Mekke olarak açıklar.",
+  "Bir şehre yemin edilmesi, o mekânın Kur'an'daki önemine işaret eder. Sonraki ayetler bu şehrin, Peygamber'in orada bulunduğu bir dönemle bağlantılı olarak anıldığını gösterecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "95:3",
+   "meal": "Bu güvenli şehre andolsun.",
+   "baglanti": "Tîn suresinde de benzer bir şehir yemini vardır; klasik tefsir her ikisini de Mekke'ye işaret eden yeminler olarak açıklar."
+  },
+  {
+   "ref": "28:57",
+   "meal": "Onları, kendi katımızdan bir rızık olarak her şeyin ürününün toplandığı güvenli, dokunulmaz bir bölgede yerleşik kılmadık mı?",
+   "baglanti": "Bu ayet Mekke'nin güvenli bir bölge olarak Kureyş'e sunulan bir nimet olduğunu anlatır; Beled suresindeki şehir yeminiyle aynı mekâna işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu belirli bir mekâna (Mekke) yapılan yemindir; bu, bazı yerlerin taşıdığı manevi değere dikkat çeker.",
+  "Herkesin hayatında özel bir anlam taşıyan mekânlar olabilir: doğduğu şehir, büyüdüğü ev, bir ibadet yeri. Bu ayet, yaşadığımız mekânların kıymetini bilmeyi ve onlara saygıyla davranmayı hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bulunduğun yeri değerlendir",
+   "aciklama": "Bugün yaşadığın şehir veya mahalle için bir şükür cümlesi kur."
+  },
+  {
+   "baslik": "Bir mekânı araştır",
+   "aciklama": "Bugün senin için anlamlı bir yerin tarihini kısaca hatırla."
+  },
+  {
+   "baslik": "Çevrene sahip çık",
+   "aciklama": "Bugün yaşadığın çevreyi (sokak, park) temiz tutmak için küçük bir şey yap."
+  }
+ ],
+ "bugununAdimi": "Bugün yaşadığın yer için bir şükür cümlesi söyle ve çevrende küçük bir düzenleme yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=90&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/90/1"
+  }
+ ]
+}

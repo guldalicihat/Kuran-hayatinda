@@ -1,0 +1,82 @@
+{
+ "sure": 93,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "O hâlde yetime gelince, onu ezip küçümseme.",
+ "mealNotu": "'Kahr' kökü ezmeyi, baskı altına almayı anlatır. Ayet, 6. ayette hatırlatılan kişisel deneyimden hareketle bir emir verir.",
+ "kokler": [
+  {
+   "kelime": "فَأَمَّا",
+   "okunus": "feemmâ",
+   "kok": "—",
+   "kokAnlam": "(açıklama edatı) o hâlde -e gelince",
+   "karsilik": "o hâlde -e gelince"
+  },
+  {
+   "kelime": "ٱلْيَتِيمَ",
+   "okunus": "elyetîme",
+   "kok": "يتم",
+   "kokAnlam": "yetim, ebeveynini kaybetmiş",
+   "karsilik": "yetime"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuz emir edatı) sakın -me",
+   "karsilik": "sakın"
+  },
+  {
+   "kelime": "تَقْهَرْ",
+   "okunus": "tekher",
+   "kok": "قهر",
+   "kokAnlam": "ezme, baskı altına alma, küçümseme",
+   "karsilik": "ezip küçümseme"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 3-8. ayetlerdeki teselli ve hatırlatmalardan sonra, bunların bir sorumluluğa dönüşmesini ister: yetimi ezmemek. Bu, Peygamber'in kendi yetimlik deneyiminden (6. ayet) doğan somut bir emirdir.",
+  "'Kahr' kökü, sadece fiziksel değil, sözle veya tavırla küçümsemeyi de kapsar. Klasik tefsir, bu ayeti, kişinin gördüğü nimeti unutup zayıf durumdaki birine kötü davranmasının yasaklanması olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "93:6",
+   "meal": "O seni yetim bulup barındırmadı mı?",
+   "baglanti": "Peygamber'in kendi yetimlik deneyimi, burada yetime kötü davranmama emrinin temelini oluşturur."
+  },
+  {
+   "ref": "107:2",
+   "meal": "İşte yetimi itip kakan odur.",
+   "baglanti": "Mâûn suresindeki bu ayet, yetimi itip kakmayı dini yalanlamanın bir belirtisi sayar; Duhâ suresindeki emrin ağırlığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, yetime karşı ezici, küçümseyici bir tavır takınmamaktır.",
+  "Günlük hayatta bu, yalnızca yetimlerle sınırlı değil, zayıf, kimsesiz veya güçsüz konumdaki herkese genişletilebilecek bir ilkedir; kendi zorluklarını unutmayan kişi, başkasının zorluğuna daha duyarlı davranır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zayıfı koru",
+   "aciklama": "Bugün güçsüz veya kimsesiz bir kişiye kaba davranmaktan özellikle kaçın."
+  },
+  {
+   "baslik": "Yetime destek ol",
+   "aciklama": "Bir yetim ya da kimsesiz çocuğa yönelik bir yardım kuruluşuna destek olmayı araştır."
+  },
+  {
+   "baslik": "Geçmişini hatırla",
+   "aciklama": "Kendi zor günlerini hatırlayıp bugün birine o duyarlılıkla davran."
+  }
+ ],
+ "bugununAdimi": "Bugün bir yetim ya da kimsesiz çocuğa yönelik bir yardım kuruluşunu araştır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=93&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/93/9"
+  }
+ ]
+}

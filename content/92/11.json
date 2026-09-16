@@ -1,0 +1,96 @@
+{
+ "sure": 92,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "O çukura yuvarlandığında malı ona hiçbir fayda vermez.",
+ "mealNotu": "'Teraddâ' kökü aşağı düşmeyi, yuvarlanmayı anlatır; burada ölüm veya helak anlamındadır. Ayet, mal biriktirmenin bu anda hiçbir işe yaramayacağını bildirir.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve -mez"
+  },
+  {
+   "kelime": "يُغْنِى",
+   "okunus": "yüğnî",
+   "kok": "غني",
+   "kokAnlam": "fayda verme, zengin kılma, ihtiyacı giderme",
+   "karsilik": "fayda verir"
+  },
+  {
+   "kelime": "عَنْهُ",
+   "okunus": "anhü",
+   "kok": "—",
+   "kokAnlam": "(edat) ondan, ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "مَالُهُۥٓ",
+   "okunus": "mâlühû",
+   "kok": "مول",
+   "kokAnlam": "mal, servet",
+   "karsilik": "malı"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman edatı) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "تَرَدَّىٰٓ",
+   "okunus": "teraddâ",
+   "kok": "ردي",
+   "kokAnlam": "aşağı düşme, yuvarlanma, helak olma",
+   "karsilik": "o çukura yuvarlandığında"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, güçlüğe sürüklenen kişinin biriktirdiği malın, düşüş (ölüm veya helak) anında ona hiçbir fayda sağlamayacağını bildirir. 'Teraddâ' kökü aşağı yuvarlanmayı, çöküşü anlatır.",
+  "Bu ayet, 8. ayette anılan 'kendini ihtiyaçsız görme' tutumunun yanılgısını ortaya koyar; kişi malına güvenmiş, ama son anda bu güven boşa çıkmıştır. Klasik tefsir, bu ayeti mala aşırı güvenmenin sonu olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:88",
+   "meal": "O gün ne mal fayda verir ne de evlatlar.",
+   "baglanti": "Şu'arâ suresindeki bu ayet, aynı gerçeği, malın ve evlatların o an fayda vermeyeceğini açıkça bildirir."
+  },
+  {
+   "ref": "92:19",
+   "meal": "Onun yanında hiç kimsenin karşılığı ödenecek bir iyiliği yoktur.",
+   "baglanti": "Bu ayetteki malın faydasızlığı, ilerleyen ayetlerde anlatılan karşılıksız verme fikriyle tezat oluşturur; biri elde tutmanın, diğeri karşılıksız vermenin değerini gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ölüm veya çöküş anında biriktirilen malın fayda vermeyeceğidir.",
+  "Günlük hayatta bu, servete duyulan aşırı güvenin sınırlı olduğunu hatırlatır; mal biriktirmek yerine onu iyi bir amaçla kullanmak, kişiye kalıcı bir karşılık sağlayabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Malını anlamlı kullan",
+   "aciklama": "Bugün elindeki bir imkânı sadece biriktirmek yerine bir iyilik için kullan."
+  },
+  {
+   "baslik": "Güvenini gözden geçir",
+   "aciklama": "Neye ne kadar güvendiğini bir an düşün; maddi güvenceyi tek dayanak yapma."
+  },
+  {
+   "baslik": "Kalıcı olanı seç",
+   "aciklama": "Bugün kalıcı bir değeri (bilgi, iyilik, ilişki) biriktirmeye zaman ayır."
+  }
+ ],
+ "bugununAdimi": "Bugün elindeki bir imkânı sadece biriktirmek yerine bir iyilik için kullan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=92&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/92/11"
+  }
+ ]
+}
