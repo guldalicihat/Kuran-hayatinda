@@ -1,0 +1,250 @@
+{
+ "sure": 6,
+ "ayet": 50,
+ "durum": "taslak",
+ "meal": "De ki: Size, Allah'ın hazineleri yanımdadır demiyorum; gaybı da bilmem; size bir meleğim de demiyorum. Ben sadece bana vahyolunana uyarım. De ki: Kör ile gören bir olur mu? Hâlâ düşünmez misiniz?",
+ "mealNotu": "Bu ayet peygamberin görevinin sınırlarını üç olumsuzlamayla çizer: hazine sahibi değildir, gaybı bilmez, melek değildir. 'A'mâ' ve 'basîr' köklerindeki kör-gören karşıtlığı, hakikati görme ile görmeme arasındaki farkı somutlaştırır.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "لَّآ",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) demiyorum",
+   "karsilik": "demiyorum"
+  },
+  {
+   "kelime": "أَقُولُ",
+   "okunus": "ekûlü",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "demiyorum"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "عِندِى",
+   "okunus": "indî",
+   "kok": "عند",
+   "kokAnlam": "yan, kat",
+   "karsilik": "yanımdadır"
+  },
+  {
+   "kelime": "خَزَآئِنُ",
+   "okunus": "hazâinü",
+   "kok": "خزن",
+   "kokAnlam": "biriktirme, saklama; hazine",
+   "karsilik": "hazineleri"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَلَآ",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ne de",
+   "karsilik": "ve ne de"
+  },
+  {
+   "kelime": "أَعْلَمُ",
+   "okunus": "a'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilirim"
+  },
+  {
+   "kelime": "ٱلْغَيْبَ",
+   "okunus": "elgaybe",
+   "kok": "غيب",
+   "kokAnlam": "görünmeyen, bilinmeyen",
+   "karsilik": "gaybı"
+  },
+  {
+   "kelime": "وَلَآ",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ne de",
+   "karsilik": "ve ne de"
+  },
+  {
+   "kelime": "أَقُولُ",
+   "okunus": "ekûlü",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "demiyorum"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "إِنِّى",
+   "okunus": "innî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz ben",
+   "karsilik": "şüphesiz ben"
+  },
+  {
+   "kelime": "مَلَكٌ",
+   "okunus": "melekün",
+   "kok": "ملك",
+   "kokAnlam": "melek",
+   "karsilik": "bir meleğim"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "أَتَّبِعُ",
+   "okunus": "ettebiu",
+   "kok": "تبع",
+   "kokAnlam": "uyma, tabi olma",
+   "karsilik": "uyarım"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeye",
+   "karsilik": "şeye"
+  },
+  {
+   "kelime": "يُوحَىٰٓ",
+   "okunus": "yûhâ",
+   "kok": "وحي",
+   "kokAnlam": "vahyetme",
+   "karsilik": "vahyolunan"
+  },
+  {
+   "kelime": "إِلَىَّ",
+   "okunus": "ileyye",
+   "kok": "—",
+   "kokAnlam": "(edat) bana",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "(soru) mı",
+   "karsilik": "mı"
+  },
+  {
+   "kelime": "يَسْتَوِى",
+   "okunus": "yestevî",
+   "kok": "سوي",
+   "kokAnlam": "denk olma, eşitlenme",
+   "karsilik": "bir olur"
+  },
+  {
+   "kelime": "ٱلْأَعْمَىٰ",
+   "okunus": "el'a'mâ",
+   "kok": "عمي",
+   "kokAnlam": "körlük",
+   "karsilik": "kör"
+  },
+  {
+   "kelime": "وَٱلْبَصِيرُ",
+   "okunus": "vel besîru",
+   "kok": "بصر",
+   "kokAnlam": "görme",
+   "karsilik": "ve gören"
+  },
+  {
+   "kelime": "أَفَلَا",
+   "okunus": "efelâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) hâlâ değil mi",
+   "karsilik": "hâlâ ... değil misiniz"
+  },
+  {
+   "kelime": "تَتَفَكَّرُونَ",
+   "okunus": "tetefekkerûne",
+   "kok": "فكر",
+   "kokAnlam": "düşünme, tefekkür etme",
+   "karsilik": "düşünürsünüz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 48. ayette çizilen 'elçi yalnız müjdeleyici ve uyarıcıdır' sınırını genişletir: peygamber Allah'ın hazinelerine sahip değildir, gaybı bilmez, melek de değildir; sadece kendisine vahyolunana uyar. Bu üç olumsuzlama, peygamberlik makamının insan üstü bir güç değil, vahye bağlı bir aracılık olduğunu gösterir.",
+  "Ayetin sonundaki 'kör ile gören bir olur mu' sorusu, bu gerçekçi tanımı reddedip peygamberden mucizevi güçler bekleyenlerle, onu olduğu gibi kabul edenler arasındaki farkı anlatır. Klasik tefsir bunu, hakikati görebilenlerle göremeyenler arasındaki zihinsel farkın bir benzetmesi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:31",
+   "meal": "Size, 'Allah'ın hazineleri yanımdadır' demiyorum, gaybı da bilmem; 'Ben bir meleğim' de demiyorum; gözünüzde küçük gördüklerinize 'Allah onlara asla bir hayır vermez' de demem. Onların içlerinde olanı en iyi Allah bilir. Yoksa ben gerçekten zalimlerden olurum.",
+   "baglanti": "Neredeyse aynı üç olumsuzlama burada Nuh peygamberin diliyle tekrarlanır; bu, peygamberlik görevinin ortak ve değişmez bir sınırı olduğunu gösterir."
+  },
+  {
+   "ref": "7:188",
+   "meal": "De ki: Ben kendime, Allah'ın dilediği dışında ne bir fayda ne bir zarar verme gücüne sahibim. Gaybı bilseydim elbette daha çok hayır elde ederdim, bana kötülük de dokunmazdı. Ben, inanan bir topluluk için ancak bir uyarıcı ve müjdeciyim.",
+   "baglanti": "Gaybı bilmeme ve kendine bile fayda-zarar veremeyecek olma, burada daha açık gerekçelendirilir; peygamberin beşer sınırları vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, peygamberlik görevinin sınırlarıdır; bu, ilk muhataplar arasında peygamberden olağanüstü beklentiler taşıyanlara verilen bir cevaptır.",
+  "Bugüne taşınabilecek ders, bir kişiye -ister dini bir önder, ister başka bir otorite olsun- insan üstü beklentiler yüklememektir. Doğru rehberliği kabul etmek başka, rehberden sahip olmadığı güçleri beklemek başkadır; bu ayrımı netleştirmek hayal kırıklığını azaltır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Beklentini gerçekçi tut",
+   "aciklama": "Bugün birinden (uzman, önder, yakın) beklediğin bir şeyin onun gerçek sınırları içinde olup olmadığını değerlendir."
+  },
+  {
+   "baslik": "Vahye/bilgiye dayan",
+   "aciklama": "Bir konuda karar verirken bugün tahmin yerine elindeki güvenilir bilgiye (kaynağa) dayan."
+  },
+  {
+   "baslik": "Görmeyi seç",
+   "aciklama": "Bugün açıkça gördüğün bir doğruyu görmezden gelmeden, onu kabul ettiğini bir davranışınla göster."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kişiden taşıdığın gerçekçi olmayan bir beklentiyi fark et ve bırak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=50"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/50"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "sure": 6,
+ "ayet": 40,
+ "durum": "taslak",
+ "meal": "De ki: Söyleyin bakalım, size Allah'ın azabı ya da kıyamet gelse, doğru sözlü iseniz Allah'tan başkasına mı yalvarırsınız?",
+ "mealNotu": "'Eraeytekum' kalıbı 'söyleyin bakalım, ne dersiniz' anlamında bir meydan okumadır. 'Sâatü' kökü burada kıyamet anını, ansızın gelen sonu belirtir. Soru, iddiayı sınayan bir üsluptadır.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "أَرَءَيْتَكُمْ",
+   "okunus": "eraeyteküm",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "söyleyin bakalım"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَتَىٰكُمْ",
+   "okunus": "etâküm",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "size gelse"
+  },
+  {
+   "kelime": "عَذَابُ",
+   "okunus": "azâbü",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "azabı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "أَتَتْكُمُ",
+   "okunus": "etetkümü",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "size gelse"
+  },
+  {
+   "kelime": "ٱلسَّاعَةُ",
+   "okunus": "essâatü",
+   "kok": "سوع",
+   "kokAnlam": "an, vakit; kıyamet vakti",
+   "karsilik": "kıyamet"
+  },
+  {
+   "kelime": "أَغَيْرَ",
+   "okunus": "eğayra",
+   "kok": "غير",
+   "kokAnlam": "başka",
+   "karsilik": "başkasına mı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "تَدْعُونَ",
+   "okunus": "ted'ûne",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, dua etme",
+   "karsilik": "yalvarırsınız"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "صَٰدِقِينَ",
+   "okunus": "sâdikîne",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk",
+   "karsilik": "doğru sözlü"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette (39) hakikate kapalılıktan söz edilmişti; bu ayet müşriklere doğrudan bir soru yöneltir: gerçek bir tehlike anında -Allah'ın azabı ya da kıyametin gelmesi- kime yalvaracaklarını sorar. Soru, onların iddia ettiği ortakların gerçek bir güvenilirliği olup olmadığını test eder.",
+  "'Doğru sözlü iseniz' ifadesi, sorunun bir meydan okuma olduğunu gösterir: gerçek bir kriz anında bile o ortaklara mı yöneleceklerini iddia edebilirler mi? Cevap bir sonraki ayette (41) verilecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:67",
+   "meal": "Denizde başınıza bir sıkıntı geldiğinde, O'ndan başka yalvardıklarınız kaybolup gider; sizi kurtarıp karaya çıkarınca yüz çevirirsiniz. İnsan çok nankördür.",
+   "baglanti": "Aynı soru burada somut bir sahneyle -deniz tehlikesiyle- gösterilir; gerçek yalvarışın kime yöneldiği ortaya çıkar."
+  },
+  {
+   "ref": "29:65",
+   "meal": "Gemiye bindiklerinde, dini yalnız O'na has kılarak Allah'a yalvarırlar. Fakat onları kurtarıp karaya çıkarınca, bir de bakarsın ki ortak koşuyorlar.",
+   "baglanti": "6:40'ın sorduğu 'kime yalvarırsınız' sorusunun cevabı burada bir olayla anlatılır: tehlikede yalnız Allah'a yalvarılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kriz anında gerçek güvenin nereye yöneldiğidir; bu tartışma tarihsel olarak müşriklerin ortak koştuğu varlıklara yöneliktir.",
+  "Bugüne taşınabilecek ders, kendi hayatındaki 'gerçek kriz anı' testidir: büyük bir zorlukta içten içe kime ya da neye sığındığını fark etmek, günlük hayattaki öncelik ve güven sıralamasını netleştirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kriz anını hatırla",
+   "aciklama": "Geçmişte yaşadığın büyük bir zorlukta ilk kime ya da neye yöneldiğini bugün düşün."
+  },
+  {
+   "baslik": "Güven listeni gözden geçir",
+   "aciklama": "Zor bir günde aradığın üç şeyi (kişi, alışkanlık, sığınak) yaz ve bunların yerini sorgula."
+  },
+  {
+   "baslik": "Duayı ilk sıraya al",
+   "aciklama": "Bugün küçük bir sıkıntıda ilk tepkin olarak dua etmeyi dene."
+  }
+ ],
+ "bugununAdimi": "Bugün yaşadığın küçük bir sıkıntıda, ilk tepki olarak dua etmeyi seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=40"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/40"
+  }
+ ]
+}
