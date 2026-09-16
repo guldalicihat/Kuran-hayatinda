@@ -1,0 +1,166 @@
+{
+ "sure": 8,
+ "ayet": 38,
+ "durum": "taslak",
+ "meal": "İnkâr edenlere söyle: Eğer (küfürden) vazgeçerlerse geçmişleri bağışlanır; eğer (eski hâllerine) dönerlerse, öncekilerin başına gelen ilahi yasa zaten geçerliliğini korumaktadır.",
+ "mealNotu": "'(küfürden)' ve '(eski hâllerine)' köşeli parantez içindedir; 'yentehû' ve 'yeûdû' fiillerinin neyden vazgeçip neye döndüğü metinde açık belirtilmediği için eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "قُل",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "söyle"
+  },
+  {
+   "kelime": "لِّلَّذِينَ",
+   "okunus": "lillezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimselere ki",
+   "karsilik": "o kimselere ki"
+  },
+  {
+   "kelime": "كَفَرُوٓا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr ettiler"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart edatı) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يَنتَهُوا۟",
+   "okunus": "yentehû",
+   "kok": "نهي",
+   "kokAnlam": "vazgeçme, sona erdirme",
+   "karsilik": "vazgeçerlerse"
+  },
+  {
+   "kelime": "يُغْفَرْ",
+   "okunus": "yüğfer",
+   "kok": "غفر",
+   "kokAnlam": "örtme, bağışlama",
+   "karsilik": "bağışlanır"
+  },
+  {
+   "kelime": "لَهُم",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlar için",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şey",
+   "karsilik": "geçmişleri"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik edatı) muhakkak",
+   "karsilik": "muhakkak"
+  },
+  {
+   "kelime": "سَلَفَ",
+   "okunus": "selefe",
+   "kok": "سلف",
+   "kokAnlam": "geçmişte kalma, önce geçme",
+   "karsilik": "geçmiştir"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart edatı) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يَعُودُوا۟",
+   "okunus": "yeûdû",
+   "kok": "عود",
+   "kokAnlam": "geri dönme, tekrarlama",
+   "karsilik": "dönerlerse"
+  },
+  {
+   "kelime": "فَقَدْ",
+   "okunus": "fekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik edatı) muhakkak",
+   "karsilik": "muhakkak"
+  },
+  {
+   "kelime": "مَضَتْ",
+   "okunus": "medat",
+   "kok": "مضي",
+   "kokAnlam": "geçip gitme, geçerli olma",
+   "karsilik": "geçerliliğini korumaktadır"
+  },
+  {
+   "kelime": "سُنَّتُ",
+   "okunus": "sünnetü",
+   "kok": "سنن",
+   "kokAnlam": "yol, âdet, ilahi yasa",
+   "karsilik": "ilahi yasa"
+  },
+  {
+   "kelime": "ٱلْأَوَّلِينَ",
+   "okunus": "el'evvelîne",
+   "kok": "أول",
+   "kokAnlam": "önce olma, ilk",
+   "karsilik": "öncekilerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerde anlatılan sert sonuçların ardından bir çıkış yolu sunar: inkârcılar bu tutumdan vazgeçerse, geçmişleri bağışlanacaktır. Bu, kapının hâlâ açık olduğunu gösteren bir çağrıdır.",
+  "Ayet aynı zamanda bir uyarıyla biter: eski hâllerine dönerlerse, geçmişteki inatçı toplulukların başına gelen ilahi yasa onlar için de işlemeye devam edecektir. Klasik tefsir bu ayeti, tövbe kapısının her zaman açık olduğu, ama ısrarın da bir bedeli olduğu şeklinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:70",
+   "meal": "Ancak tövbe edip iman eden ve salih amel işleyenler başka; Allah onların kötülüklerini iyiliklere çevirir. Allah çok bağışlayıcı, çok merhametlidir.",
+   "baglanti": "Bu ayet, 8:38'deki 'vazgeçerlerse bağışlanır' vaadini genişletir; tövbenin sadece geçmişi silmekle kalmayıp kötülükleri iyiliğe çevirdiğini ekler."
+  },
+  {
+   "ref": "35:43",
+   "meal": "... Onlar, öncekilerin başına gelen ilahi yasadan başka bir şey mi bekliyorlar? Sen Allah'ın yasasında hiçbir değişiklik bulamazsın.",
+   "baglanti": "Bu ayet, 8:38'in son cümlesindeki 'sünnetül-evvelîn' (öncekilerin yasası) ifadesini aynı kelimelerle tekrarlar; ısrarın sonucunun tarih boyunca değişmediğini vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, savaş hâlindeki inkârcılara yönelik bir çağrı ve uyarıdır; bu, tarihsel ve özel bir bağlamdır.",
+  "Buradan çıkarılabilecek genel ders, bir yanlıştan vazgeçmenin her zaman bir kapı olarak açık kaldığı, ama aynı yanlışta ısrar etmenin de bir sonucu olduğudur. Geçmişte yapılan bir hatayı kapatmanın yolu, onu tekrarlamamaktır; ısrar, geçmişin bağışlanma ihtimalini de zorlaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Vazgeçmenin kapısını değerlendir",
+   "aciklama": "Bugün ısrarla sürdürdüğün ama yanlış olduğunu bildiğin bir tutumdan vazgeçmeyi düşün."
+  },
+  {
+   "baslik": "Geçmişi kapatacak bir adım at",
+   "aciklama": "Bugün geçmişte yaptığın bir hatayı, onu tekrarlamayarak kapatmaya çalış."
+  },
+  {
+   "baslik": "İsrarın bedelini hesapla",
+   "aciklama": "Bugün bir konuda ısrar etmenin uzun vadede sana neye mal olacağını düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün ısrarla sürdürdüğün, yanlış olduğunu bildiğin bir tutumdan vazgeç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=38"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/8/38"
+  }
+ ]
+}

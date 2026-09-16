@@ -1,0 +1,131 @@
+{
+ "sure": 8,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Hani siz Rabbinizden yardım diliyordunuz, O da size icabet etti: 'Ben size arka arkaya gelen bin melekle yardım göndereceğim.'",
+ "mealNotu": "'Testeğîsûne' kökü feryat ederek yardım istemeyi anlatır, sıradan bir talepten daha acildir. 'Mürdifîn' kökü art arda, birbirini takip ederek gelmeyi ifade eder.",
+ "kokler": [
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "تَسْتَغِيثُونَ",
+   "okunus": "testeğîsûne",
+   "kok": "غوث",
+   "kokAnlam": "yardım isteme, feryat etme",
+   "karsilik": "yardım diliyordunuz"
+  },
+  {
+   "kelime": "رَبَّكُمْ",
+   "okunus": "rabbeküm",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye",
+   "karsilik": "Rabbinizden"
+  },
+  {
+   "kelime": "فَٱسْتَجَابَ",
+   "okunus": "festecâbe",
+   "kok": "جوب",
+   "kokAnlam": "karşılık verme, icabet etme",
+   "karsilik": "O da icabet etti"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "أَنِّى",
+   "okunus": "ennî",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz ben",
+   "karsilik": "şüphesiz ben"
+  },
+  {
+   "kelime": "مُمِدُّكُم",
+   "okunus": "mümiddüküm",
+   "kok": "مدد",
+   "kokAnlam": "yardım gönderme, takviye",
+   "karsilik": "size yardım göndereceğim"
+  },
+  {
+   "kelime": "بِأَلْفٍ",
+   "okunus": "bielfin",
+   "kok": "ألف",
+   "kokAnlam": "bin; alışma",
+   "karsilik": "bin"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمَلَٰٓئِكَةِ",
+   "okunus": "elmelâiketi",
+   "kok": "ملك",
+   "kokAnlam": "elçilik, güç; melek",
+   "karsilik": "melekten"
+  },
+  {
+   "kelime": "مُرْدِفِينَ",
+   "okunus": "mürdifîne",
+   "kok": "ردف",
+   "kokAnlam": "arkasından gelme, ardı sıra",
+   "karsilik": "arka arkaya gelen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Bedir savaşı öncesi müminlerin Allah'a acil bir şekilde yardım istediği anı hatırlatır; bu dua, savaşın en zor anında yapılmış bir çağrıdır. Allah'ın cevabı, melek desteğiyle gelir.",
+  "Meleklerin savaşa katılma şekli klasik tefsirde farklı görüşlerle açıklanır; ancak ayetin asıl vurgusu, samimi bir yardım talebinin karşılıksız kalmadığıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:125",
+   "meal": "Evet, eğer sabreder ve sakınırsanız, onlar hemen üzerinize gelseler bile Rabbiniz size nişanlı beş bin melekle yardım eder.",
+   "baglanti": "Âl-i İmrân 125, sabır ve takva şartıyla beş bin melekle yardım vaadini anlatır; Enfâl 9'daki bin meleklik yardımla aynı temayı paylaşır."
+  },
+  {
+   "ref": "33:9",
+   "meal": "Ey iman edenler! Hani size ordular gelmişti de biz onların üzerine bir rüzgâr ve sizin görmediğiniz ordular göndermiştik.",
+   "baglanti": "Ahzâb 9, Hendek Savaşı'nda görünmeyen ordularla ve rüzgârla gelen yardımı anlatır; Enfâl 9'daki melek desteğiyle aynı 'görünmeyen yardım' temasını paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Bedir'de gelen ilahi yardımdır; bu tarihi ve mucizevi bir destektir.",
+  "Genel ders olarak, çaresiz kalındığında Allah'a yönelmenin ve bu yönelişin bir karşılığı olacağına güvenmenin önemi çıkarılabilir; yardım istemek zayıflık değil, doğru bir başvurudur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Çaresizlikte dua et",
+   "aciklama": "Bugün zorlandığın bir konuda, çözümü sadece kendi gücünde arama, açıkça dua et."
+  },
+  {
+   "baslik": "Yardım istemekten çekinme",
+   "aciklama": "Bugün bir konuda gerçekten yardıma ihtiyacın varsa, bunu birinden açıkça iste."
+  },
+  {
+   "baslik": "Cevabı bekle, umutsuzlanma",
+   "aciklama": "Dua ettiğin bir konuda hemen sonuç gelmese de umudunu kaybetme."
+  }
+ ],
+ "bugununAdimi": "Bugün çözemediğin bir konuyu açıkça dua ederek Allah'a söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/8/9"
+  }
+ ]
+}

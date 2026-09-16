@@ -1,0 +1,208 @@
+{
+ "sure": 7,
+ "ayet": 185,
+ "durum": "taslak",
+ "meal": "Göklerin ve yerin melekûtuna, Allah'ın yarattığı her şeye bakıp düşünmediler mi? Ve ecellerinin gerçekten yaklaşmış olması ihtimalini düşünmediler mi? Artık bundan sonra hangi söze inanacaklar?",
+ "mealNotu": "'Melekût' kökü (ملك) mülk ve hükümranlığı, görünenin ardındaki egemenlik boyutunu anlatır; 'yenzurû' (نظر) bakıp gözlemlemeyi, 'ecel' (أجل) belirlenmiş süreyi ifade eder. Ayet, evrenin yaratılışına bakmayı ve ölümün/kıyametin yakın olabileceğini düşünmeyi bir arada sunar.",
+ "kokler": [
+  {
+   "kelime": "أَوَلَمْ",
+   "okunus": "evelem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi mi",
+   "karsilik": "-medi mi"
+  },
+  {
+   "kelime": "يَنظُرُوا۟",
+   "okunus": "yenzurû",
+   "kok": "نظر",
+   "kokAnlam": "bakma, gözlemleme",
+   "karsilik": "bakıp düşünmediler mi"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de, içinde",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "مَلَكُوتِ",
+   "okunus": "melekûti",
+   "kok": "ملك",
+   "kokAnlam": "mülk, hükümranlık, egemenlik",
+   "karsilik": "melekûtuna"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "göklerin"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yerin"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şey",
+   "karsilik": "ve şeye"
+  },
+  {
+   "kelime": "خَلَقَ",
+   "okunus": "haleka",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yarattığı"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "şeye"
+  },
+  {
+   "kelime": "وَأَنْ",
+   "okunus": "ve en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ve ki",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "عَسَىٰٓ",
+   "okunus": "asâ",
+   "kok": "عسي",
+   "kokAnlam": "umulur, belki",
+   "karsilik": "belki"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç)",
+   "karsilik": "-dığını"
+  },
+  {
+   "kelime": "يَكُونَ",
+   "okunus": "yekûne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmuş"
+  },
+  {
+   "kelime": "قَدِ",
+   "okunus": "kadi",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "ٱقْتَرَبَ",
+   "okunus": "ikterabe",
+   "kok": "قرب",
+   "kokAnlam": "yaklaşma",
+   "karsilik": "yaklaşmış"
+  },
+  {
+   "kelime": "أَجَلُهُمْ",
+   "okunus": "ecelühüm",
+   "kok": "أجل",
+   "kokAnlam": "süre, belirlenmiş vakit",
+   "karsilik": "ecellerinin"
+  },
+  {
+   "kelime": "فَبِأَىِّ",
+   "okunus": "febieyyi",
+   "kok": "أيي",
+   "kokAnlam": "hangi",
+   "karsilik": "artık hangi"
+  },
+  {
+   "kelime": "حَدِيثٍۭ",
+   "okunus": "hadîsim",
+   "kok": "حدث",
+   "kokAnlam": "söz, haber",
+   "karsilik": "söze"
+  },
+  {
+   "kelime": "بَعْدَهُۥ",
+   "okunus": "ba'dehû",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "bundan sonra"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güvenip inanma",
+   "karsilik": "inanacaklar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet Peygamber'e yöneltilen delilik suçlamasını reddetmişti; bu ayet muhataplara, delilik iddiasını düşünmek yerine göklerin ve yerin yaratılışına, Allah'ın kudretine bakıp düşünmelerini öğütler.",
+  "'Ecel' kökü, her varlık için belirlenmiş bir süreyi anlatır; ayet, ölümün ne zaman geleceğinin bilinmediğini, bu yüzden gerçeği düşünüp kabul etmenin geciktirilmemesi gerektiğini hatırlatır. Klasik tefsir bu ayeti, evrendeki düzeni gözlemlemenin insanı imana götürecek bir yol olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:75",
+   "meal": "İşte böylece İbrahim'e göklerin ve yerin melekûtunu gösteriyorduk ki kesin bilgiyle inananlardan olsun.",
+   "baglanti": "'Melekût' kökü ortak; İbrahim'in gökler ve yerin egemenliğini tefekkür ederek kesin imana ulaşması, bu ayetteki çağrının somut bir örneğidir."
+  },
+  {
+   "ref": "16:61",
+   "meal": "Allah insanları zulümleri yüzünden hemen cezalandırsaydı, yeryüzünde hiçbir canlı bırakmazdı; fakat onları belirlenmiş bir süreye kadar erteler. Ecelleri geldiğinde ise ne bir an geri kalabilirler ne de öne geçebilirler.",
+   "baglanti": "'Ecel' kökü ortak; bu ayet ecelin kesin ve şaşmaz bir vakti olduğunu, 7:185'in ise bu vaktin yakınlaşmış olabileceğini düşünmeye çağırdığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, evrenin yaratılışını tefekkür etmek ve ecelin yakın olabileceğini düşünmektir; bu, ilk muhataplara yönelik bir uyarıdır.",
+  "Bugüne taşınabilecek ders, hayatın telaşı içinde büyük soruları -yaratılış, ölüm, anlam- ertelemeden düşünmektir; insan bazen gündelik işlerin arasında bu tür düşünmeyi hiç yapmaz."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gökyüzüne bak",
+   "aciklama": "Bugün birkaç dakika gökyüzünü izleyip yaratılışın büyüklüğü üzerine düşün."
+  },
+  {
+   "baslik": "Zamanın kısalığını hatırla",
+   "aciklama": "Bugün yapman gereken önemli bir şeyi ertelemeyi bırak."
+  },
+  {
+   "baslik": "Büyük soruya vakit ayır",
+   "aciklama": "Bugün beş dakika sessizce hayatının anlamı üzerine düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin önemli bir kararı veya işi bugün içinde tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=185"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/185"
+  }
+ ]
+}

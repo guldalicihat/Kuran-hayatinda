@@ -1,0 +1,313 @@
+{
+ "sure": 7,
+ "ayet": 187,
+ "durum": "taslak",
+ "meal": "Sana kıyamet saatini soruyorlar: Ne zaman gelip çatacak? De ki: Onun bilgisi ancak Rabbimin katındadır; onu vaktinde ortaya çıkaracak olan O'ndan başkası değildir. O, göklere ve yere ağır gelmiştir; size ansızın gelecektir. Sanki sen onu çok iyi biliyormuşsun gibi sana soruyorlar. De ki: Onun bilgisi ancak Allah katındadır, fakat insanların çoğu bunu bilmez.",
+ "mealNotu": "'Sâat' kökü (سوع) belirli bir vakti, burada kıyamet vaktini anlatır; 'yücellîhâ' (جلو) açığa çıkarmayı, 'bağteten' (بغت) ansızın gelmeyi ifade eder. Ayet, kıyamet vaktinin bilgisinin yalnız Allah'a ait olduğunu tekrarla vurgular.",
+ "kokler": [
+  {
+   "kelime": "يَسْـَٔلُونَكَ",
+   "okunus": "yes'elûneke",
+   "kok": "سأل",
+   "kokAnlam": "sorma",
+   "karsilik": "sana soruyorlar"
+  },
+  {
+   "kelime": "عَنِ",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "ٱلسَّاعَةِ",
+   "okunus": "essâati",
+   "kok": "سوع",
+   "kokAnlam": "vakit, kıyamet saati",
+   "karsilik": "kıyamet saatini"
+  },
+  {
+   "kelime": "أَيَّانَ",
+   "okunus": "eyyâne",
+   "kok": "—",
+   "kokAnlam": "(soru) ne zaman",
+   "karsilik": "ne zaman"
+  },
+  {
+   "kelime": "مُرْسَىٰهَا",
+   "okunus": "mürsâhâ",
+   "kok": "رسو",
+   "kokAnlam": "demir atma, gelip durma vakti",
+   "karsilik": "gelip çatacak"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "عِلْمُهَا",
+   "okunus": "ilmühâ",
+   "kok": "علم",
+   "kokAnlam": "bilgi",
+   "karsilik": "onun bilgisi"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "yan, kat",
+   "karsilik": "katındadır"
+  },
+  {
+   "kelime": "رَبِّى",
+   "okunus": "rabbî",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, Rab",
+   "karsilik": "Rabbimin"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "يُجَلِّيهَا",
+   "okunus": "yücellîhâ",
+   "kok": "جلو",
+   "kokAnlam": "açığa çıkarma, ortaya koyma",
+   "karsilik": "onu ortaya çıkaracak"
+  },
+  {
+   "kelime": "لِوَقْتِهَآ",
+   "okunus": "livektihâ",
+   "kok": "وقت",
+   "kokAnlam": "vakit",
+   "karsilik": "vaktinde"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) başka",
+   "karsilik": "O'ndan başkası"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "ثَقُلَتْ",
+   "okunus": "sekulet",
+   "kok": "ثقل",
+   "kokAnlam": "ağırlaşma, ağır gelme",
+   "karsilik": "ağır gelmiştir"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "göklere"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yere"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "gelmeyecektir"
+  },
+  {
+   "kelime": "تَأْتِيكُمْ",
+   "okunus": "te'tîküm",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "size gelecektir"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "بَغْتَةً",
+   "okunus": "bağteten",
+   "kok": "بغت",
+   "kokAnlam": "ansızın, aniden",
+   "karsilik": "ansızın"
+  },
+  {
+   "kelime": "يَسْـَٔلُونَكَ",
+   "okunus": "yes'elûneke",
+   "kok": "سأل",
+   "kokAnlam": "sorma",
+   "karsilik": "sana soruyorlar"
+  },
+  {
+   "kelime": "كَأَنَّكَ",
+   "okunus": "keenneke",
+   "kok": "—",
+   "kokAnlam": "(te'kid) sanki sen",
+   "karsilik": "sanki sen"
+  },
+  {
+   "kelime": "حَفِىٌّ",
+   "okunus": "hafiyyün",
+   "kok": "حفو",
+   "kokAnlam": "çok bilen, ısrarla ilgilenen",
+   "karsilik": "çok iyi biliyormuşsun"
+  },
+  {
+   "kelime": "عَنْهَا",
+   "okunus": "anhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ondan",
+   "karsilik": "gibi ondan"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "عِلْمُهَا",
+   "okunus": "ilmühâ",
+   "kok": "علم",
+   "kokAnlam": "bilgi",
+   "karsilik": "onun bilgisi"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "yan, kat",
+   "karsilik": "katındadır"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَلَٰكِنَّ",
+   "okunus": "ve lâkinne",
+   "kok": "—",
+   "kokAnlam": "(düzeltme) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "أَكْثَرَ",
+   "okunus": "eksera",
+   "kok": "كثر",
+   "kokAnlam": "çoğu, çokluk",
+   "karsilik": "çoğu"
+  },
+  {
+   "kelime": "ٱلنَّاسِ",
+   "okunus": "ennâsi",
+   "kok": "أنس",
+   "kokAnlam": "insanlar",
+   "karsilik": "insanların"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "bilmez"
+  },
+  {
+   "kelime": "يَعْلَمُونَ",
+   "okunus": "ya'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilmez"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetler tefekkür ve ecelin yakınlığından söz etmişti; bu ayet doğrudan kıyamet saatinin ne zaman kopacağı sorusuna geçer ve cevabın insan bilgisinin dışında olduğunu bildirir.",
+  "'Sekulet' kökü, bu bilginin göklere ve yere bile ağır geldiğini anlatır; yani bu, yaratılmışların taşıyamayacağı bir bilgidir. Ayet, insanların çoğunun bunu bilmediğini söyleyerek, bilinmeyeni merak etmek yerine hazırlıklı olmanın önemine işaret eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "33:63",
+   "meal": "İnsanlar sana kıyamet saatini soruyorlar. De ki: Onun bilgisi ancak Allah katındadır. Ne bilirsin, belki de kıyamet saati yakındır.",
+   "baglanti": "Aynı soruyu ve aynı cevabı -bilginin yalnız Allah katında olduğunu- neredeyse aynı ifadeyle tekrarlar."
+  },
+  {
+   "ref": "31:34",
+   "meal": "Şüphesiz kıyamet saatinin bilgisi Allah katındadır. Yağmuru O indirir, rahimlerde olanı O bilir. Hiç kimse yarın ne kazanacağını bilmez, hiç kimse hangi yerde öleceğini de bilmez. Şüphesiz Allah hakkıyla bilendir, her şeyden haberdardır.",
+   "baglanti": "Kıyamet vaktinin bilinmezliğini, insanın yarını ve ölüm yerini de bilemeyeceği gerçeğiyle genişletir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıyamet saatinin vaktidir; bu bilgi kesin olarak insana kapalı tutulmuştur.",
+  "Bugüne taşınabilecek ders, bilinmeyen bir tarihi tahmin etmeye çalışmak yerine, o an her zaman gelebilirmiş gibi hazırlıklı ve dikkatli yaşamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilinmeyeni bırak",
+   "aciklama": "Bugün cevabı sana verilmemiş bir konuda tahmin yürütüp vakit kaybetme."
+  },
+  {
+   "baslik": "Hazır ol",
+   "aciklama": "Bugün yapman gereken bir sorumluluğu 'zaman var' diyerek ertelemekten vazgeç."
+  },
+  {
+   "baslik": "Şükürle an",
+   "aciklama": "Bugün hâlâ vaktin olduğu için bir şükür anı ayır."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir sorumluluğu, o an her an gelebilirmiş gibi bugün tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=187"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/187"
+  }
+ ]
+}

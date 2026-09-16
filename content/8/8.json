@@ -1,0 +1,103 @@
+{
+ "sure": 8,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "Bu, suçlular hoşlanmasa da hakkı gerçekleştirmek ve bâtılı geçersiz kılmak içindir.",
+ "mealNotu": "'Mücrimûn' kökü suç işlemeyi anlatır; burada Bedir'deki inkârcılar kastedilir. 'Yübtıle' fiili, bâtılı sadece yenmek değil onu işlevsiz, geçersiz kılmayı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "لِيُحِقَّ",
+   "okunus": "liyühikka",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçek, sabit kılma",
+   "karsilik": "gerçekleştirmek için"
+  },
+  {
+   "kelime": "ٱلْحَقَّ",
+   "okunus": "elhakka",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçek",
+   "karsilik": "hakkı"
+  },
+  {
+   "kelime": "وَيُبْطِلَ",
+   "okunus": "ve yübtıle",
+   "kok": "بطل",
+   "kokAnlam": "boşa çıkarma, geçersiz kılma",
+   "karsilik": "ve geçersiz kılmak için"
+  },
+  {
+   "kelime": "ٱلْبَٰطِلَ",
+   "okunus": "elbâtıle",
+   "kok": "بطل",
+   "kokAnlam": "boş, asılsız, geçersiz",
+   "karsilik": "bâtılı"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) her ne kadar",
+   "karsilik": "her ne kadar"
+  },
+  {
+   "kelime": "كَرِهَ",
+   "okunus": "kerihe",
+   "kok": "كره",
+   "kokAnlam": "hoşlanmama, nefret etme",
+   "karsilik": "hoşlanmasa da"
+  },
+  {
+   "kelime": "ٱلْمُجْرِمُونَ",
+   "okunus": "elmücrimûne",
+   "kok": "جرم",
+   "kokAnlam": "suç işleme, günaha girme",
+   "karsilik": "suçlular"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayette anlatılan ilahi tercihin amacını özetler: Allah'ın Bedir'de müslümanları güçlü orduyla karşılaştırması, hakkın açıkça ortaya çıkması ve bâtılın geçersiz kılınması içindir.",
+  "'Suçlular hoşlanmasa da' ifadesi, hakkın herkesin onayına bağlı olmadığını, kendi başına bir gerçeklik taşıdığını vurgular. Klasik tefsir bunu, hakkın nihai olarak üstün geleceğinin bir vaadi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:81",
+   "meal": "De ki: Hak geldi, bâtıl yok oldu. Şüphesiz bâtıl yok olmaya mahkûmdur.",
+   "baglanti": "İsrâ 81, 'Hak geldi, bâtıl yok oldu' diyerek aynı hak-bâtıl çatışmasını özetler; Enfâl 8'deki amacı tek cümlede tekrarlar."
+  },
+  {
+   "ref": "21:18",
+   "meal": "Hayır, biz hakkı bâtılın üzerine atarız da onun beynini parçalar, bir de bakarsın o yok olup gitmiştir.",
+   "baglanti": "Enbiyâ 18, hakkın bâtılın üzerine atılıp onu yok ettiğini anlatır; Enfâl 8'deki 'bâtılı geçersiz kılma' ifadesiyle aynı imgeyi paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Bedir'de hakkın bâtıla karşı üstün gelmesidir; bu tarihi bir zafer bağlamındadır.",
+  "Genel ders olarak, doğru olanın herkesi memnun etmese de sonunda ortaya çıkacağı ve bunun kişiyi rahatsız etse bile doğru tarafta durmaktan alıkoymaması gerektiği çıkarılabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Onay beklemeden doğruyu söyle",
+   "aciklama": "Bugün, herkesin hoşuna gitmese de bildiğin doğruyu nazikçe ifade et."
+  },
+  {
+   "baslik": "Yanlışı yayma",
+   "aciklama": "Yanlış olduğunu bildiğin bir söylemi bugün onaylama veya yayma."
+  },
+  {
+   "baslik": "Sonucu Allah'a bırak",
+   "aciklama": "Doğru bir adım attıktan sonra, herkesin memnun olup olmayacağını dert etmeyi bırak."
+  }
+ ],
+ "bugununAdimi": "Bugün kimseyi memnun etmese bile, doğru bildiğin bir şeyi net biçimde söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/8/8"
+  }
+ ]
+}

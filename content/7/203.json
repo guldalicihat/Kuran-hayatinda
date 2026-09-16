@@ -1,0 +1,215 @@
+{
+ "sure": 7,
+ "ayet": 203,
+ "durum": "taslak",
+ "meal": "Onlara bir ayet (mucize) getirmediğinde, 'Onu kendin derleyip uydursaydın ya!' derler. De ki: Ben ancak Rabbimden bana vahyedilene uyarım. Bu (Kur'an), Rabbinizden gelen basiretlerdir; inanan bir topluluk için bir hidayet ve bir rahmettir.",
+ "mealNotu": "'Besâir' kökü (بصر) basireti, iç görüyü sağlayan kanıtları anlatır; 'ictebeytehâ' kökü (جبي) burada 'kendiliğinden derleyip uydurma' anlamında kullanılmıştır. Ayet, Peygamber'in vahiy dışında bir şey üretmediğini, Kur'an'ın bir insan ürünü olmadığını vurgular.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -ince",
+   "karsilik": "-ince"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "تَأْتِهِم",
+   "okunus": "te'tihim",
+   "kok": "أتي",
+   "kokAnlam": "getirme, gelme",
+   "karsilik": "onlara getirmedi"
+  },
+  {
+   "kelime": "بِـَٔايَةٍ",
+   "okunus": "biâyetin",
+   "kok": "أيي",
+   "kokAnlam": "ayet, mucize, işaret",
+   "karsilik": "bir ayet"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "لَوْلَا",
+   "okunus": "levlâ",
+   "kok": "—",
+   "kokAnlam": "(teşvik) değil miydi",
+   "karsilik": "ya"
+  },
+  {
+   "kelime": "ٱجْتَبَيْتَهَا",
+   "okunus": "ictebeytehâ",
+   "kok": "جبي",
+   "kokAnlam": "seçme, derleme, uydurma",
+   "karsilik": "onu kendin derleyip uydursaydın"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "إِنَّمَآ",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak",
+   "karsilik": "ben ancak"
+  },
+  {
+   "kelime": "أَتَّبِعُ",
+   "okunus": "ettebiu",
+   "kok": "تبع",
+   "kokAnlam": "uyma",
+   "karsilik": "uyarım"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeye",
+   "karsilik": "şeye"
+  },
+  {
+   "kelime": "يُوحَىٰٓ",
+   "okunus": "yûhâ",
+   "kok": "وحي",
+   "kokAnlam": "vahyetme",
+   "karsilik": "vahyedilene"
+  },
+  {
+   "kelime": "إِلَىَّ",
+   "okunus": "ileyye",
+   "kok": "—",
+   "kokAnlam": "(edat) bana",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّى",
+   "okunus": "rabbî",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, Rab",
+   "karsilik": "Rabbimden"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "بَصَآئِرُ",
+   "okunus": "besâiru",
+   "kok": "بصر",
+   "kokAnlam": "basiret, iç görü, kanıt",
+   "karsilik": "basiretlerdir"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّكُمْ",
+   "okunus": "rabbiküm",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, Rab",
+   "karsilik": "Rabbinizden"
+  },
+  {
+   "kelime": "وَهُدًى",
+   "okunus": "ve hüden",
+   "kok": "هدي",
+   "kokAnlam": "doğru yol, hidayet",
+   "karsilik": "ve bir hidayettir"
+  },
+  {
+   "kelime": "وَرَحْمَةٌ",
+   "okunus": "ve rahmetün",
+   "kok": "رحم",
+   "kokAnlam": "rahmet",
+   "karsilik": "ve bir rahmettir"
+  },
+  {
+   "kelime": "لِّقَوْمٍ",
+   "okunus": "likavmin",
+   "kok": "قوم",
+   "kokAnlam": "topluluk",
+   "karsilik": "bir topluluk için"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güvenip inanma",
+   "karsilik": "inanan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetler şeytani kışkırtma ve azgınlığa sürüklenme konularını işlemişti; bu ayet konuyu vahyin kaynağına getirir: muhataplar beklenen bir mucize gelmeyince Peygamber'i kendiliğinden bir şey uydurmakla suçlar, ayet ise bunu kesin bir dille reddeder.",
+  "'Besâir' kökü, Kur'an'ın sadece bir bilgi kaynağı değil, insana iç görü kazandıran bir rehber olduğunu anlatır. Klasik tefsir bu ayeti, Peygamber'in vahiy dışında konuşmadığının ve Kur'an'ın ilahi kaynaklı olduğunun bir delili olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:15",
+   "meal": "Onlara ayetlerimiz apaçık okunduğunda, bize kavuşmayı ummayanlar derler ki: Bundan başka bir Kur'an getir ya da bunu değiştir. De ki: Onu kendiliğimden değiştirmem olacak şey değildir; ben ancak bana vahyedilene uyarım. Rabbime karşı gelirsem, büyük bir günün azabından korkarım.",
+   "baglanti": "Aynı talebi -Kur'an'ın değiştirilmesi veya farklı bir şey getirilmesi- ve aynı cevabı -yalnız vahye uyma- tekrarlar."
+  },
+  {
+   "ref": "46:9",
+   "meal": "De ki: Ben, peygamberler içinde türedi biri değilim; bana ve size ne yapılacağını da bilmem; ben yalnızca bana vahyedilene uyarım; ben ancak apaçık bir uyarıcıyım.",
+   "baglanti": "Peygamber'in kendiliğinden bir şey söylemediğini, sadece vahye uyduğunu aynı ifadeyle doğrular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'e yöneltilen 'mucize getir veya kendin uydur' talebinin reddedilmesi ve Kur'an'ın vahiy kaynaklı olduğunun vurgulanmasıdır; bu tarihî bir tartışma bağlamıdır.",
+  "Bugüne taşınabilecek ders, bir kaynağın güvenilirliğinin, talep edilen her şeyi anında sağlamasıyla değil, tutarlılığı ve doğruluğuyla ölçülmesi gerektiğidir; beklenti karşılanmadı diye kaynağı hemen şüpheli ilan etmek yerine sabırla değerlendirmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sabırla değerlendir",
+   "aciklama": "Bugün beklediğin bir şey hemen gerçekleşmediğinde acele bir yargıya varma."
+  },
+  {
+   "baslik": "Kaynağa sadık kal",
+   "aciklama": "Bugün bir konuda güvendiğin doğru kaynağa -Kur'an, danışman- başvur."
+  },
+  {
+   "baslik": "Basireti çalıştır",
+   "aciklama": "Bugün bir kararında yalnızca hisle değil, düşünüp tartarak karar ver."
+  }
+ ],
+ "bugununAdimi": "Bugün bir karar öncesi güvenilir kaynağa danışıp aceleyle yargıya varmaktan kaçın.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=203"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/203"
+  }
+ ]
+}

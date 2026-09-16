@@ -1,0 +1,173 @@
+{
+ "sure": 8,
+ "ayet": 31,
+ "durum": "taslak",
+ "meal": "Ayetlerimiz kendilerine okunduğunda 'İşittik; istesek biz de bunun benzerini söyleriz, bu öncekilerin masallarından başka bir şey değildir' derler.",
+ "mealNotu": "'Esatîr' kelimesi 'masallar' olarak verilmiştir; kök anlamı yazıya geçirilmiş eski hikayeleri karşılar, meal buna sadıktır.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman edatı) -diğinde",
+   "karsilik": "-diğinde"
+  },
+  {
+   "kelime": "تُتْلَىٰ",
+   "okunus": "tütlâ",
+   "kok": "تلو",
+   "kokAnlam": "okuma, takip etme",
+   "karsilik": "okundu"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) kendilerine",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "ءَايَٰتُنَا",
+   "okunus": "âyâtünâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alâmet; ayet",
+   "karsilik": "ayetlerimiz"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik edatı) muhakkak",
+   "karsilik": "muhakkak"
+  },
+  {
+   "kelime": "سَمِعْنَا",
+   "okunus": "semi'nâ",
+   "kok": "سمع",
+   "kokAnlam": "işitme, duyma",
+   "karsilik": "işittik"
+  },
+  {
+   "kelime": "لَوْ",
+   "okunus": "lev",
+   "kok": "—",
+   "kokAnlam": "(şart edatı) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "نَشَآءُ",
+   "okunus": "neşâü",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "istesek"
+  },
+  {
+   "kelime": "لَقُلْنَا",
+   "okunus": "lekulnâ",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "biz de söyleriz"
+  },
+  {
+   "kelime": "مِثْلَ",
+   "okunus": "misle",
+   "kok": "مثل",
+   "kokAnlam": "benzeme, örnek",
+   "karsilik": "bunun benzerini"
+  },
+  {
+   "kelime": "هَٰذَآ",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "هَٰذَآ",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna edatı) başka",
+   "karsilik": "başka bir şey"
+  },
+  {
+   "kelime": "أَسَٰطِيرُ",
+   "okunus": "esâtîru",
+   "kok": "سطر",
+   "kokAnlam": "satır yazma; efsane, yazılı hikâye",
+   "karsilik": "masallarından"
+  },
+  {
+   "kelime": "ٱلْأَوَّلِينَ",
+   "okunus": "el'evvelîne",
+   "kok": "أول",
+   "kokAnlam": "önce olma, ilk",
+   "karsilik": "öncekilerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Kur'an ayetleri kendilerine okunduğunda inkârcıların verdiği tipik cevabı aktarır: önce 'İşittik' derler, sonra Kur'an'ın kendine özgü bir söz olmadığını, benzerinin kolayca söylenebileceğini iddia ederler. 'Esâtîr' kökü, yazıya geçirilmiş eski efsane ve hikâyeleri anlatır; bu iddia, Kur'an'ı geçmişte kalmış uydurma hikâyelerle bir tutar.",
+  "Ayet bu iddiayı doğrulamaz; sadece inkârcıların söylemini aktarır. Klasik tefsir bu ifadeyi, kişinin gerçeği kabul etmemek için büyük iddialarda bulunabileceğine, ancak bu iddianın fiilen bir benzerinin getirilememiş olmasıyla boşa çıktığına işaret olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:25",
+   "meal": "İçlerinden bazıları seni dinlemeye gelir; ama biz onların kalplerine, onu anlamalarını engelleyen kapaklar, kulaklarına da ağırlık koyduk... İnkâr edenler 'bu, öncekilerin masallarından başka bir şey değil' derler.",
+   "baglanti": "Bu ayet, 8:31'deki aynı ifadeyi ('esatîrul evvelîn') tekrarlar ve bu sözün aslında dinlemeye kapalı bir kalpten çıktığını gösterir."
+  },
+  {
+   "ref": "25:5",
+   "meal": "Dediler ki: 'Bu, onun yazdırdığı öncekilerin masallarıdır; sabah akşam ona okunuyor.'",
+   "baglanti": "Bu ayet, aynı iddianın daha ayrıntılı bir şeklini aktarır; ayetlerin kaynağını inkâr etmek için başvurulan tekrarlayan bir söylemdir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ilk inkârcıların Kur'an'a karşı geliştirdiği özel bir itirazdır; bu, tarihsel bir tartışmanın parçasıdır.",
+  "Buradan çıkarılabilecek genel ders, bir şeyi gerçekten değerlendirmeden 'bunu zaten biliyorum, bir şey değil' demenin, aslında dinlememenin bir biçimi olduğudur. Yeni bir bilgiyi veya öğüdü küçümseyerek geçiştirmek yerine, onu gerçekten değerlendirmek daha dürüst bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçümsediğin bir bilgiyi yeniden değerlendir",
+   "aciklama": "Bugün 'zaten biliyorum' diyerek geçiştirdiğin bir konuyu tekrar, önyargısız gözden geçir."
+  },
+  {
+   "baslik": "Kolay iddiada bulunma",
+   "aciklama": "Bugün bir konuda 'ben de yapardım' demeden önce gerçekten yapıp yapamayacağını dene."
+  },
+  {
+   "baslik": "Yeni bir fikri hemen reddetme",
+   "aciklama": "Bugün karşına çıkan yeni bir görüşü, hemen 'eskisi gibi' diyerek etiketlemeden dinle."
+  }
+ ],
+ "bugununAdimi": "Bugün 'zaten biliyorum' diyerek geçiştirdiğin bir konuyu yeniden, dikkatle incele.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=31"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/8/31"
+  }
+ ]
+}

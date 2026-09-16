@@ -1,0 +1,222 @@
+{
+ "sure": 8,
+ "ayet": 19,
+ "durum": "taslak",
+ "meal": "Eğer fetih istiyorsanız, işte fetih size geldi. Eğer vazgeçerseniz bu sizin için daha hayırlıdır. Eğer tekrar dönerseniz biz de döneriz; topluluğunuz çok da olsa size hiçbir fayda sağlamaz. Şüphesiz Allah müminlerle beraberdir.",
+ "mealNotu": "'Testeftihû' kökü fetih/zafer istemeyi anlatır; klasik tefsire göre Mekkeli müşriklerin savaş öncesi 'haklı olan taraf üstün gelsin' diye dua ettikleri rivayet edilir, bu ayet onlara cevap gibi okunur. 'Fi'e' kökü topluluk, birlik anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَسْتَفْتِحُوا۟",
+   "okunus": "testeftihû",
+   "kok": "فتح",
+   "kokAnlam": "açma, fetih isteme",
+   "karsilik": "fetih istiyorsanız"
+  },
+  {
+   "kelime": "فَقَدْ",
+   "okunus": "fekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "işte"
+  },
+  {
+   "kelime": "جَآءَكُمُ",
+   "okunus": "câekümü",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "size geldi"
+  },
+  {
+   "kelime": "ٱلْفَتْحُ",
+   "okunus": "elfethu",
+   "kok": "فتح",
+   "kokAnlam": "açma, fetih, zafer",
+   "karsilik": "fetih"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "تَنتَهُوا۟",
+   "okunus": "tentehû",
+   "kok": "نهي",
+   "kokAnlam": "son verme, vazgeçme",
+   "karsilik": "vazgeçerseniz"
+  },
+  {
+   "kelime": "فَهُوَ",
+   "okunus": "fehüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "خَيْرٌ",
+   "okunus": "hayrun",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "hayırlıdır"
+  },
+  {
+   "kelime": "لَّكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "تَعُودُوا۟",
+   "okunus": "teûdû",
+   "kok": "عود",
+   "kokAnlam": "dönme, tekrarlama",
+   "karsilik": "dönerseniz"
+  },
+  {
+   "kelime": "نَعُدْ",
+   "okunus": "neud",
+   "kok": "عود",
+   "kokAnlam": "dönme, tekrarlama",
+   "karsilik": "biz de döneriz"
+  },
+  {
+   "kelime": "وَلَن",
+   "okunus": "ve len",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) asla",
+   "karsilik": "ve asla"
+  },
+  {
+   "kelime": "تُغْنِىَ",
+   "okunus": "tüğniye",
+   "kok": "غني",
+   "kokAnlam": "zenginlik, yeterlilik; fayda verme",
+   "karsilik": "fayda vermeyecektir"
+  },
+  {
+   "kelime": "عَنكُمْ",
+   "okunus": "anküm",
+   "kok": "—",
+   "kokAnlam": "(edat) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "فِئَتُكُمْ",
+   "okunus": "fietüküm",
+   "kok": "فأي",
+   "kokAnlam": "topluluk, grup",
+   "karsilik": "topluluğunuz"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "hiçbir şey"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) her ne kadar",
+   "karsilik": "her ne kadar"
+  },
+  {
+   "kelime": "كَثُرَتْ",
+   "okunus": "kesürat",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "çok da olsa"
+  },
+  {
+   "kelime": "وَأَنَّ",
+   "okunus": "ve enne",
+   "kok": "—",
+   "kokAnlam": "(tekid) ve şüphesiz",
+   "karsilik": "ve şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مَعَ",
+   "okunus": "mea",
+   "kok": "—",
+   "kokAnlam": "(edat) ile beraber",
+   "karsilik": "beraberdir"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنِينَ",
+   "okunus": "elmü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; inanan",
+   "karsilik": "müminlerle"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Bedir'e çıkmadan önce zafer isteyen tarafa -klasik tefsire göre Mekkeli müşriklere- bir cevap niteliğindedir: istedikleri fetih gerçekleşmiş, ama bu onların lehine değil aleyhine sonuçlanmıştır. Ayet aynı zamanda tekrar saldırırlarsa aynı sonucun tekrarlanacağını bildirir.",
+  "'Topluluğunuz çok da olsa fayda vermez' ifadesi, sayısal çokluğun tek başına belirleyici olmadığını, asıl belirleyicinin Allah'ın müminlerle beraberliği olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "9:25",
+   "meal": "Andolsun Allah size Huneyn gününde yardım etmişti; hani çokluğunuz sizi böbürlendirmiş, fakat size hiçbir fayda vermemişti.",
+   "baglanti": "Tevbe 25, Huneyn'de çokluğun kendi başına fayda vermediğini anlatır; Enfâl 19'daki 'topluluğunuz çok da olsa fayda vermez' ifadesiyle aynı dersi verir."
+  },
+  {
+   "ref": "3:123",
+   "meal": "Andolsun, siz güçsüz iken Allah size Bedir'de yardım etmişti.",
+   "baglanti": "Âl-i İmrân 123, siz güçsüzken Allah'ın Bedir'de yardım ettiğini hatırlatır; Enfâl 19'daki 'Allah müminlerle beraberdir' vurgusunun tarihi kanıtıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Bedir savaşının sonucu ve bir uyarı niteliğindeki hitaptır; bu özel bir tarihi çatışma bağlamıdır.",
+  "Genel ders olarak, sayısal veya maddi üstünlüğün tek başına sonucu belirlemediği, asıl gücün doğru tarafta ve Allah'ın yardımıyla beraber olmakta olduğu çıkarılabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sayıya güvenme",
+   "aciklama": "Bugün bir işte kalabalık veya kaynak üstünlüğüne değil, doğruluğuna güven."
+  },
+  {
+   "baslik": "Vazgeçmeyi hayır bil",
+   "aciklama": "Israrla sürdürdüğün ama sonuç vermeyen bir çekişmeyi bugün bırakmayı düşün."
+  },
+  {
+   "baslik": "Doğru taraf ol",
+   "aciklama": "Bir anlaşmazlıkta, kazanmaktan çok haklı olan tarafta durmaya öncelik ver."
+  }
+ ],
+ "bugununAdimi": "Bugün bir çekişmede sayı veya güç üstünlüğü yerine haklılığa göre tavrını belirle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=19"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/8/19"
+  }
+ ]
+}

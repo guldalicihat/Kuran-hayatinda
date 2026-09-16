@@ -1,0 +1,96 @@
+{
+ "sure": 8,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "İşte bu; onu tadın. Şüphesiz kâfirler için bir de ateş azabı vardır.",
+ "mealNotu": "'Zâliküm' burada dünyadaki cezayı işaret eder; devamındaki 'ateş azabı' ise ahiretteki cezayı ekler. İki ceza birlikte anılır.",
+ "kokler": [
+  {
+   "kelime": "ذَٰلِكُمْ",
+   "okunus": "zâliküm",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "فَذُوقُوهُ",
+   "okunus": "fezûkûhü",
+   "kok": "ذوق",
+   "kokAnlam": "tatma, deneyimleme",
+   "karsilik": "onu tadın"
+  },
+  {
+   "kelime": "وَأَنَّ",
+   "okunus": "ve enne",
+   "kok": "—",
+   "kokAnlam": "(tekid) ve şüphesiz",
+   "karsilik": "ve şüphesiz"
+  },
+  {
+   "kelime": "لِلْكَٰفِرِينَ",
+   "okunus": "lilkâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "kâfirler için vardır"
+  },
+  {
+   "kelime": "عَذَابَ",
+   "okunus": "azâbe",
+   "kok": "عذب",
+   "kokAnlam": "acı, ceza",
+   "karsilik": "azabı"
+  },
+  {
+   "kelime": "ٱلنَّارِ",
+   "okunus": "ennâri",
+   "kok": "نور",
+   "kokAnlam": "ışık, ateş",
+   "karsilik": "ateş"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerde anlatılan dünyevi cezanın (Bedir'deki yenilgi ve korku) yanına bir de ahiret cezasını ekler. Bu, inkârda ısrar etmenin hem bu dünyada hem sonrasında bir bedeli olduğunu gösterir.",
+  "Kısa ve vurgulu cümle yapısı, uyarının kesinliğini ve ciddiyetini anlatır. Klasik tefsir bu ayeti, Bedir'de yenilen inkârcıların dünyevi cezasının ahiret azabıyla tamamlandığı şeklinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:181",
+   "meal": "Andolsun, 'Allah fakirdir, biz zenginiz' diyenlerin sözünü Allah işitti. Söylediklerini yazacağız ve 'tadın yakıcı azabı' diyeceğiz.",
+   "baglanti": "Âl-i İmrân 181, 'tadın yakıcı azabı' ifadesiyle aynı uyarıyı başka bir grup için tekrarlar; Enfâl 14'teki cezayla aynı kalıbı paylaşır."
+  },
+  {
+   "ref": "22:22",
+   "meal": "Her ne zaman oradan, o kederden çıkmak isteseler yine oraya geri çevrilirler; 'tadın yakıcı azabı' denir.",
+   "baglanti": "Hac 22, cehennemden çıkmak isteyenlerin geri çevrilip 'tadın yakıcı azabı' denileceğini anlatır; Enfâl 14'teki 'onu tadın' ifadesinin ahiretteki karşılığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Bedir'deki inkârcıların dünya ve ahiret cezasıdır; bu, savaş sonucu verilen özel bir hükümdür.",
+  "Genel ders olarak, bir tutumun sonuçlarının bazen hemen, bazen daha sonra ortaya çıkabileceği; kısa vadeli bir rahatlığın uzun vadeli bir bedeli olabileceği çıkarılabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bedeli düşün",
+   "aciklama": "Bugün bir kararının sadece kısa vadeli değil uzun vadeli sonucunu da düşün."
+  },
+  {
+   "baslik": "Erteleme bedelini fark et",
+   "aciklama": "Ertelediğin bir görevin bugünkü küçük rahatlığının, ileride nasıl bir yüke dönüşebileceğini yaz."
+  },
+  {
+   "baslik": "Uyarıyı ciddiye al",
+   "aciklama": "Bir konuda aldığın açık bir uyarıyı görmezden gelme, gereğini yap."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir sorumluluğun uzun vadeli bedelini yazıp, ona göre bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=8&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/8/14"
+  }
+ ]
+}
