@@ -1,0 +1,236 @@
+{
+ "sure": 2,
+ "ayet": 198,
+ "durum": "taslak",
+ "meal": "Rabbinizden bir lütuf aramanızda size bir günah yoktur. Arafat'tan akın ettiğinizde Meş'ar-i Harâm'ın yanında Allah'ı anın. O'nu, size gösterdiği gibi anın; siz bundan önce elbette sapkınlardandınız.",
+ "mealNotu": "'Fadl' (فضل) kökü fazlalık, lütuf, bağış anlamındadır; klasik tefsir bu ifadeyi hac esnasında ticaretle uğraşmanın günah olmadığına dair bir izin olarak açıklar. 'Efadtüm' fiili (فيض) taşma, akın etmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "لَيْسَ",
+   "okunus": "leyse",
+   "kok": "ليس",
+   "kokAnlam": "olumsuzluk fiili, değildir",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "جُنَاحٌ",
+   "okunus": "cünâhun",
+   "kok": "جنح",
+   "kokAnlam": "eğilme, sapma; günah",
+   "karsilik": "bir günah"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -manızda",
+   "karsilik": "-manızda"
+  },
+  {
+   "kelime": "تَبْتَغُوا۟",
+   "okunus": "tebteğû",
+   "kok": "بغي",
+   "kokAnlam": "isteme, arama",
+   "karsilik": "aramanızda"
+  },
+  {
+   "kelime": "فَضْلًا",
+   "okunus": "fadlen",
+   "kok": "فضل",
+   "kokAnlam": "fazlalık, lütuf, bağış",
+   "karsilik": "bir lütuf"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّكُمْ",
+   "okunus": "rabbiküm",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbinizden"
+  },
+  {
+   "kelime": "فَإِذَآ",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) artık -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "أَفَضْتُم",
+   "okunus": "efadtüm",
+   "kok": "فيض",
+   "kokAnlam": "taşma, akın etme",
+   "karsilik": "akın ettiğinizde"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "عَرَفَٰتٍ",
+   "okunus": "arafâtin",
+   "kok": "عرف",
+   "kokAnlam": "bilme, tanıma; Arafat",
+   "karsilik": "Arafat'tan"
+  },
+  {
+   "kelime": "فَٱذْكُرُوا۟",
+   "okunus": "fezkürû",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama",
+   "karsilik": "artık anın"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ı"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "yan, kat, nezd",
+   "karsilik": "yanında"
+  },
+  {
+   "kelime": "ٱلْمَشْعَرِ",
+   "okunus": "elmeş'ari",
+   "kok": "شعر",
+   "kokAnlam": "bilme, hissetme; işaret yeri",
+   "karsilik": "Meş'ar-i"
+  },
+  {
+   "kelime": "ٱلْحَرَامِ",
+   "okunus": "elharâmi",
+   "kok": "حرم",
+   "kokAnlam": "yasaklık, saygınlık, dokunulmazlık",
+   "karsilik": "Harâm'ın"
+  },
+  {
+   "kelime": "وَٱذْكُرُوهُ",
+   "okunus": "vezkürûhü",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama",
+   "karsilik": "ve O'nu anın"
+  },
+  {
+   "kelime": "كَمَا",
+   "okunus": "kemâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) gibi",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "هَدَىٰكُمْ",
+   "okunus": "hedâküm",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu gösterme, hidayet",
+   "karsilik": "size gösterdiği"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) ve şüphesiz",
+   "karsilik": "ve şüphesiz"
+  },
+  {
+   "kelime": "كُنتُم",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idiniz"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِهِۦ",
+   "okunus": "kablihî",
+   "kok": "قبل",
+   "kokAnlam": "önce olma",
+   "karsilik": "bundan önce"
+  },
+  {
+   "kelime": "لَمِنَ",
+   "okunus": "lemine",
+   "kok": "—",
+   "kokAnlam": "(edat, tekid) elbette -den",
+   "karsilik": "elbette -dendiniz"
+  },
+  {
+   "kelime": "ٱلضَّآلِّينَ",
+   "okunus": "eddâllîne",
+   "kok": "ضلل",
+   "kokAnlam": "yoldan sapma, şaşkınlık",
+   "karsilik": "sapkınlardan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet önce, hac esnasında geçim için lütuf (rızık) aramanın günah olmadığını belirtir; klasik tefsir bunu, hacılar arasında yapılan ticaretin günah sayılmayacağı şeklinde açıklar. Ardından Arafat'tan Müzdelife'ye (Meş'ar-i Harâm) akın edildiğinde Allah'ı anma emri gelir.",
+  "'Siz bundan önce elbette sapkınlardandınız' ifadesi, hidayetin bir lütuf olduğunu ve önceki hâlin bundan yoksunluk olduğunu hatırlatır. Klasik tefsir bu ifadeyi, hem cahiliye dönemindeki yanlış hac âdetlerine hem de genel olarak hidayetten önceki hâle işaret olarak yorumlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:197",
+   "meal": "Hac, bilinen aylardır... Azık edinin; kuşkusuz azığın en hayırlısı takvadır.",
+   "baglanti": "Bir önceki ayet hac esnasındaki davranış disiplinini anlatır; 198. ayet ise hac menzillerinde zikir ve geçim arayışına değinir."
+  },
+  {
+   "ref": "62:10",
+   "meal": "Namaz kılınınca artık yeryüzüne dağılın ve Allah'ın lütfundan arayın; Allah'ı çok anın ki kurtuluşa eresiniz.",
+   "baglanti": "Cuma suresindeki bu ayet, benzer biçimde geçim arayışını Allah'ı anmakla birlikte zikreder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu hac esnasındaki geçim arayışı ve belirli menzillerde Allah'ı anma emridir; bu özel bir ibadet dönemine dairdir.",
+  "Genel ders, ibadet ile geçim arayışının birbirine zıt olmadığıdır; bir işi yaparken hem çalışmak hem de o çalışmanın anlamını (şükür, zikir) hatırlamak birlikte yürüyebilir. Bir işte bulunurken maddi kaygıyı manevi farkındalıktan ayırmamak bu ayetten çıkarılabilecek bir derstir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Çalışırken zikri unutma",
+   "aciklama": "Bugün işinin arasında kısa bir anla Allah'ı anmaya zaman ayır."
+  },
+  {
+   "baslik": "Geçim kaygısını meşru gör",
+   "aciklama": "Rızık aramayı bir zaaf değil, meşru bir çaba olarak kabul et."
+  },
+  {
+   "baslik": "Hidayeti hatırla",
+   "aciklama": "Bir konuda önceki yanlış anlayışından ne kadar uzaklaştığını düşünüp şükret."
+  }
+ ],
+ "bugununAdimi": "Bugün, işinin arasında kısa bir molada Allah'ı anmaya bilinçli olarak zaman ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=198"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/198"
+  }
+ ]
+}

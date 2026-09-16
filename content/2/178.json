@@ -1,0 +1,313 @@
+{
+ "sure": 2,
+ "ayet": 178,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Öldürülenler hakkında size kısas farz kılındı: hüre karşı hür, köleye karşı köle, kadına karşı kadın. Kim kardeşi tarafından bir şey bağışlanırsa, artık uygun olanı izlemek ve ona güzellikle ödemek gerekir. Bu, Rabbinizden bir hafifletme ve bir rahmettir. Kim bundan sonra sınırı aşarsa, onun için elem verici bir azap vardır.",
+ "mealNotu": "'Kısas' kökü (قصص) eşit karşılık, iz sürmeyi anlatır. 'Şey'ün' (bir şey) ifadesi klasik tefsirde kısas hakkının bağışlanması olarak anlaşılır; 'ma'rûf' örfe uygun olanı, 'ihsan' güzel davranışı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi adılı) o kimseler ki",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "كُتِبَ",
+   "okunus": "kütibe",
+   "kok": "كتب",
+   "kokAnlam": "yazma; farz kılma",
+   "karsilik": "farz kılındı"
+  },
+  {
+   "kelime": "عَلَيْكُمُ",
+   "okunus": "aleykümü",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinize",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "ٱلْقِصَاصُ",
+   "okunus": "elkısâsu",
+   "kok": "قصص",
+   "kokAnlam": "iz sürme, eşit karşılık",
+   "karsilik": "kısas"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "ٱلْقَتْلَى",
+   "okunus": "elkatlâ",
+   "kok": "قتل",
+   "kokAnlam": "öldürme; öldürülenler",
+   "karsilik": "öldürülenler"
+  },
+  {
+   "kelime": "ٱلْحُرُّ",
+   "okunus": "elhurru",
+   "kok": "حرر",
+   "kokAnlam": "özgürlük, hürlük",
+   "karsilik": "hür"
+  },
+  {
+   "kelime": "بِٱلْحُرِّ",
+   "okunus": "bil hurri",
+   "kok": "حرر",
+   "kokAnlam": "özgürlük, hürlük",
+   "karsilik": "hüre karşı"
+  },
+  {
+   "kelime": "وَٱلْعَبْدُ",
+   "okunus": "vel abdü",
+   "kok": "عبد",
+   "kokAnlam": "kulluk, köle olma",
+   "karsilik": "ve köle"
+  },
+  {
+   "kelime": "بِٱلْعَبْدِ",
+   "okunus": "bil abdi",
+   "kok": "عبد",
+   "kokAnlam": "kulluk, köle olma",
+   "karsilik": "köleye karşı"
+  },
+  {
+   "kelime": "وَٱلْأُنثَىٰ",
+   "okunus": "vel ünsâ",
+   "kok": "أنث",
+   "kokAnlam": "dişilik",
+   "karsilik": "ve kadın"
+  },
+  {
+   "kelime": "بِٱلْأُنثَىٰ",
+   "okunus": "bil ünsâ",
+   "kok": "أنث",
+   "kokAnlam": "dişilik",
+   "karsilik": "kadına karşı"
+  },
+  {
+   "kelime": "فَمَنِ",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(şart) kim ki",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "عُفِىَ",
+   "okunus": "ufiye",
+   "kok": "عفو",
+   "kokAnlam": "affetme, bağışlama",
+   "karsilik": "bağışlanırsa"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona",
+   "karsilik": "kendisine"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) tarafından",
+   "karsilik": "tarafından"
+  },
+  {
+   "kelime": "أَخِيهِ",
+   "okunus": "ehîhi",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "kardeşi"
+  },
+  {
+   "kelime": "شَىْءٌ",
+   "okunus": "şey'ün",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "bir şey"
+  },
+  {
+   "kelime": "فَٱتِّبَاعٌۢ",
+   "okunus": "fettibâum",
+   "kok": "تبع",
+   "kokAnlam": "izleme, uyma",
+   "karsilik": "artık izlemek gerekir"
+  },
+  {
+   "kelime": "بِٱلْمَعْرُوفِ",
+   "okunus": "bil ma'rûfi",
+   "kok": "عرف",
+   "kokAnlam": "bilme, tanıma; örfe uygun olan",
+   "karsilik": "uygun olanı"
+  },
+  {
+   "kelime": "وَأَدَآءٌ",
+   "okunus": "ve edâün",
+   "kok": "أدي",
+   "kokAnlam": "yerine getirme, ödeme",
+   "karsilik": "ve ödemek gerekir"
+  },
+  {
+   "kelime": "إِلَيْهِ",
+   "okunus": "ileyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "بِإِحْسَٰنٍ",
+   "okunus": "biihsânin",
+   "kok": "حسن",
+   "kokAnlam": "güzellik, iyilik etme",
+   "karsilik": "güzellikle"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "تَخْفِيفٌ",
+   "okunus": "tahfîfün",
+   "kok": "خفف",
+   "kokAnlam": "hafifletme",
+   "karsilik": "bir hafifletmedir"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّكُمْ",
+   "okunus": "rabbiküm",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbinizden"
+  },
+  {
+   "kelime": "وَرَحْمَةٌ",
+   "okunus": "ve rahmetün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet, acıma",
+   "karsilik": "ve bir rahmettir"
+  },
+  {
+   "kelime": "فَمَنِ",
+   "okunus": "femeni",
+   "kok": "—",
+   "kokAnlam": "(şart) kim ki",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "ٱعْتَدَىٰ",
+   "okunus": "itedâ",
+   "kok": "عدو",
+   "kokAnlam": "düşmanlık, sınırı aşma",
+   "karsilik": "sınırı aşarsa"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "uzaklık, sonra olma",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bundan"
+  },
+  {
+   "kelime": "فَلَهُۥ",
+   "okunus": "felehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) artık onun için vardır",
+   "karsilik": "onun için vardır"
+  },
+  {
+   "kelime": "عَذَابٌ",
+   "okunus": "azâbün",
+   "kok": "عذب",
+   "kokAnlam": "acı verme, azap",
+   "karsilik": "bir azap"
+  },
+  {
+   "kelime": "أَلِيمٌ",
+   "okunus": "elîmün",
+   "kok": "ألم",
+   "kokAnlam": "acı, elem",
+   "karsilik": "elem verici"
+  }
+ ],
+ "neAnlatiyor": [
+  "177. ayetteki geniş birr tanımından sonra hukuki bir hüküm gelir: cana kıyma durumunda kısas. Kısas, adaleti dengede tutmak için eşit karşılık ilkesine dayanır; ayet aynı zamanda bağışlama kapısını açar ve bağışlanma durumunda uygun, güzel bir ödemeyi öngörür.",
+  "Klasik tefsir bu hükmü, önceki ümmetlerdeki daha katı kısas uygulamalarına göre bir hafifletme olarak açıklar. Hükmün uygulanma biçimindeki hukuki ayrıntılar dönem ve yoruma göre farklılık gösterebileceğinden burada kesin bir kural gibi sunulmaz."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:179",
+   "meal": "Kısasta sizin için hayat vardır, ey akıl sahipleri! Umulur ki sakınırsınız.",
+   "baglanti": "Hemen sonraki ayet, bu ayette anlatılan kısas hükmünün hikmetini, toplumsal hayatı koruma amacıyla açıklar."
+  },
+  {
+   "ref": "5:45",
+   "meal": "Onda [Tevrat'ta] cana can, göze göz, buruna burun, kulağa kulak, dişe diş karşılığını yazdık. Kim bunu bağışlarsa, bu kendisi için bir kefarettir.",
+   "baglanti": "Maide suresindeki bu ayet, kısas ilkesinin önceki kitaplarda da bulunduğunu ve bağışlamanın değerini benzer biçimde anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu özel bir hukuk alanıdır: cana kıyma karşısında uygulanan kısas hükmü. Bu, günümüz hukuk sistemlerinde farklı biçimlerde ele alınan tarihsel bir düzenlemedir.",
+  "Yine de buradan genel bir ders çıkarılabilir: karşılığın ölçülü olması ve bağışlamanın da bir değer taşıdığı. Bir haksızlığa uğradığında öç almak yerine ölçülü bir karşılık vermek veya bağışlamayı seçmek, günlük ilişkilere taşınabilecek bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Karşılığını ölçülü tut",
+   "aciklama": "Bir haksızlığa tepki verirken, tepkinin haksızlıkla orantılı kalmasına dikkat et."
+  },
+  {
+   "baslik": "Bağışlama seçeneğini değerlendir",
+   "aciklama": "Küçük bir kırgınlığı bugün öfkeyle değil, bağışlayarak kapat."
+  },
+  {
+   "baslik": "Güzellikle karşılık ver",
+   "aciklama": "Bir anlaşmazlıkta hakkını ararken üslubunu sert değil, ölçülü tut."
+  }
+ ],
+ "bugununAdimi": "Bugün küçük bir kırgınlığı, karşılık vermeden bağışlayarak kapat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=178"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/178"
+  }
+ ]
+}

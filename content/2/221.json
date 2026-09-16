@@ -1,0 +1,327 @@
+{
+ "sure": 2,
+ "ayet": 221,
+ "durum": "taslak",
+ "meal": "Müşrik kadınlarla, iman edinceye kadar evlenmeyin. Mümin bir cariye, sizi hayran bıraksa bile müşrik bir kadından daha hayırlıdır. Müşrik erkeklerle de, iman edinceye kadar (kadınlarınızı) evlendirmeyin. Mümin bir köle, sizi hayran bıraksa bile müşrik bir erkekten daha hayırlıdır. Onlar ateşe çağırır; Allah ise kendi izniyle cennete ve bağışlanmaya çağırır. Ayetlerini insanlara açıklar; düşünüp öğüt alsınlar diye.",
+ "mealNotu": "'A'cebe' kökü dış görünüşle veya konumla hayran bırakmayı anlatır; ayet, bu tür bir cazibenin iman karşısında belirleyici olmaması gerektiğini vurgular.",
+ "kokler": [
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve ... etmeyin"
+  },
+  {
+   "kelime": "تُنكِحُوا۟",
+   "okunus": "tenkihû",
+   "kok": "نكح",
+   "kokAnlam": "evlenme",
+   "karsilik": "evlenmeyin"
+  },
+  {
+   "kelime": "ٱلْمُشْرِكَٰتِ",
+   "okunus": "elmüşrikâti",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma; müşrik kadınlar",
+   "karsilik": "müşrik kadınlarla"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ta ki",
+   "karsilik": "ta ki"
+  },
+  {
+   "kelime": "يُؤْمِنَّ",
+   "okunus": "yü'minne",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma",
+   "karsilik": "iman edinceye kadar"
+  },
+  {
+   "kelime": "وَلَأَمَةٌ",
+   "okunus": "ve leemetün",
+   "kok": "أمو",
+   "kokAnlam": "cariye, kadın köle",
+   "karsilik": "andolsun ki bir cariye"
+  },
+  {
+   "kelime": "مُّؤْمِنَةٌ",
+   "okunus": "mü'minetün",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma; mümin",
+   "karsilik": "mümin olan"
+  },
+  {
+   "kelime": "خَيْرٌ",
+   "okunus": "hayrun",
+   "kok": "خير",
+   "kokAnlam": "hayır, iyilik",
+   "karsilik": "daha hayırlıdır"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "مُّشْرِكَةٍ",
+   "okunus": "müşriketin",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma; müşrik kadın",
+   "karsilik": "müşrik bir kadından"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) velev ki",
+   "karsilik": "velev ki"
+  },
+  {
+   "kelime": "أَعْجَبَتْكُمْ",
+   "okunus": "a'cebetküm",
+   "kok": "عجب",
+   "kokAnlam": "hayran bırakma, hoşa gitme",
+   "karsilik": "sizi hayran bıraksa"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve ... etmeyin"
+  },
+  {
+   "kelime": "تُنكِحُوا۟",
+   "okunus": "tünkihû",
+   "kok": "نكح",
+   "kokAnlam": "evlendirme",
+   "karsilik": "evlendirmeyin"
+  },
+  {
+   "kelime": "ٱلْمُشْرِكِينَ",
+   "okunus": "elmüşrikîne",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma; müşrik erkekler",
+   "karsilik": "müşrik erkeklerle"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ta ki",
+   "karsilik": "ta ki"
+  },
+  {
+   "kelime": "يُؤْمِنُوا۟",
+   "okunus": "yü'minû",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma",
+   "karsilik": "iman edinceye kadar"
+  },
+  {
+   "kelime": "وَلَعَبْدٌ",
+   "okunus": "ve leabdün",
+   "kok": "عبد",
+   "kokAnlam": "kulluk; köle",
+   "karsilik": "andolsun ki bir köle"
+  },
+  {
+   "kelime": "مُّؤْمِنٌ",
+   "okunus": "mü'minün",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma; mümin",
+   "karsilik": "mümin olan"
+  },
+  {
+   "kelime": "خَيْرٌ",
+   "okunus": "hayrun",
+   "kok": "خير",
+   "kokAnlam": "hayır, iyilik",
+   "karsilik": "daha hayırlıdır"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "مُّشْرِكٍ",
+   "okunus": "müşrikin",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma; müşrik erkek",
+   "karsilik": "müşrik bir erkekten"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) velev ki",
+   "karsilik": "velev ki"
+  },
+  {
+   "kelime": "أَعْجَبَكُمْ",
+   "okunus": "a'cebeküm",
+   "kok": "عجب",
+   "kokAnlam": "hayran bırakma, hoşa gitme",
+   "karsilik": "sizi hayran bıraksa"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "يَدْعُونَ",
+   "okunus": "yed'ûne",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, davet etme",
+   "karsilik": "çağırır"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلنَّارِ",
+   "okunus": "ennâri",
+   "kok": "نور",
+   "kokAnlam": "ışık; ateş",
+   "karsilik": "ateşe"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah ise"
+  },
+  {
+   "kelime": "يَدْعُوٓا۟",
+   "okunus": "yed'û",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, davet etme",
+   "karsilik": "çağırır"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْجَنَّةِ",
+   "okunus": "elcenneti",
+   "kok": "جنن",
+   "kokAnlam": "örtme; cennet",
+   "karsilik": "cennete"
+  },
+  {
+   "kelime": "وَٱلْمَغْفِرَةِ",
+   "okunus": "vel mağfirati",
+   "kok": "غفر",
+   "kokAnlam": "örtme, bağışlama",
+   "karsilik": "ve bağışlanmaya"
+  },
+  {
+   "kelime": "بِإِذْنِهِۦ",
+   "okunus": "biiznihî",
+   "kok": "أذن",
+   "kokAnlam": "izin verme",
+   "karsilik": "kendi izniyle"
+  },
+  {
+   "kelime": "وَيُبَيِّنُ",
+   "okunus": "ve yübeyyinü",
+   "kok": "بين",
+   "kokAnlam": "açıklık, açıklama",
+   "karsilik": "ve açıklar"
+  },
+  {
+   "kelime": "ءَايَٰتِهِۦ",
+   "okunus": "âyâtihî",
+   "kok": "أيي",
+   "kokAnlam": "işaret; ayet",
+   "karsilik": "ayetlerini"
+  },
+  {
+   "kelime": "لِلنَّاسِ",
+   "okunus": "lilnnâsi",
+   "kok": "أنس",
+   "kokAnlam": "ünsiyet; insanlar",
+   "karsilik": "insanlara"
+  },
+  {
+   "kelime": "لَعَلَّهُمْ",
+   "okunus": "leallehüm",
+   "kok": "—",
+   "kokAnlam": "(umut) umulur ki",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "يَتَذَكَّرُونَ",
+   "okunus": "yetezekkerûne",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama, öğüt alma",
+   "karsilik": "düşünüp öğüt alsınlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, evlilikte imanı temel ölçüt olarak koyar: müşrik bir kadın veya erkek, dış görünüş, servet ya da konumuyla ne kadar hayran bıraksa da, mümin bir köle ya da cariye ondan daha hayırlıdır. Bu, dönemin toplumsal statü algısına karşı iman değerinin öne çıkarılmasıdır.",
+  "Ayetin gerekçesi son cümlede açıklanır: müşrikler ateşe, Allah ise cennete ve bağışlanmaya çağırır. Klasik tefsir bu ayeti, evlilik gibi hayatı derinden etkileyen bir birlikteliğin, tarafların ortak bir değerler dünyasını paylaşmasının önemine dair bir uyarı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:5",
+   "meal": "Bugün size temiz olan şeyler helal kılındı; kendilerine kitap verilenlerin iffetli kadınları da size helaldir.",
+   "baglanti": "221. ayetteki müşriklerle evlenme yasağına karşılık, Ehl-i Kitap kadınlarla evliliğin farklı bir hükme tabi olduğunu gösterir."
+  },
+  {
+   "ref": "60:10",
+   "meal": "Ey iman edenler! Mümin kadınlar hicret ederek size geldiğinde onları imtihan edin... onları kâfirlere geri döndürmeyin.",
+   "baglanti": "İman ile evlilik bağının ilişkisini, mümin bir kadının inkârcı bir eşle birlikteliğinin sürdürülemeyeceğini gösteren başka bir örnekle pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu evlilikte dinî uyum meselesidir; bu, İslam hukukunun ayrıntılı bir alanıdır ve burada özetlenmemelidir.",
+  "Buradan taşınabilecek genel ders, hayatı paylaşacağın kişiyi seçerken görünüşe, statüye veya anlık hayranlığa değil, paylaşacağınız temel değerlere bakmanın önemidir. Bu ilke evlilikle sınırlı kalmayıp, kimlerle yakın dostluk kuracağımızı seçerken de düşünmeye değer bir uyarıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Değer uyumunu düşün",
+   "aciklama": "Yakın bir ilişkinde (arkadaşlık, ortaklık) ortak değerlerinizin ne kadar örtüştüğünü bugün değerlendir."
+  },
+  {
+   "baslik": "Yüzeysel cazibeye kanma",
+   "aciklama": "Bir kararında sadece görünüşe veya statüye bakıp bakmadığını bugün sorgula."
+  },
+  {
+   "baslik": "Doğru yola çağıran biri ol",
+   "aciklama": "Bugün çevrenden birine, zorlamadan, iyi bir söz veya örnekle güzelliği hatırlat."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ilişki veya ortaklık kararında, yüzeysel cazibe yerine paylaştığınız temel değere bak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=221"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/221"
+  }
+ ]
+}

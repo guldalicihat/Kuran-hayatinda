@@ -1,0 +1,334 @@
+{
+ "sure": 2,
+ "ayet": 228,
+ "durum": "taslak",
+ "meal": "Boşanmış kadınlar, kendi kendilerine üç kur' (âdet döngüsü) süresi kadar beklerler. Eğer Allah'a ve ahiret gününe iman ediyorlarsa, Allah'ın rahimlerinde yarattığını gizlemeleri kendilerine helal değildir. Kocaları, bu süre içinde bir düzeltme (barışma) isterlerse onları geri almaya daha layıktır. Kadınların, üzerlerindeki yükümlülüğün benzeri, örfe uygun şekilde bir hakkı vardır. Erkeklerin ise onlar üzerinde bir derecesi vardır. Allah güçlüdür, hüküm ve hikmet sahibidir.",
+ "mealNotu": "'Kur'' kökü hem âdet hem temizlik dönemini anlatabilir; burada iddet süresinin ölçü birimidir. Ayetin sonundaki 'derece' ifadesini klasik tefsir genellikle boşama yetkisi ve nafaka yükümlülüğüyle bağlantılı bir sorumluluk farkı olarak açıklar; bu kesin, tek bir okuma değildir.",
+ "kokler": [
+  {
+   "kelime": "وَٱلْمُطَلَّقَٰتُ",
+   "okunus": "vel mütallekâtü",
+   "kok": "طلق",
+   "kokAnlam": "salıverme; boşanmış kadınlar",
+   "karsilik": "boşanmış kadınlar"
+  },
+  {
+   "kelime": "يَتَرَبَّصْنَ",
+   "okunus": "yeterabbasne",
+   "kok": "ربص",
+   "kokAnlam": "bekleme, gözetleme",
+   "karsilik": "beklerler"
+  },
+  {
+   "kelime": "بِأَنفُسِهِنَّ",
+   "okunus": "bienfüsihinne",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi",
+   "karsilik": "kendi kendilerine"
+  },
+  {
+   "kelime": "ثَلَٰثَةَ",
+   "okunus": "selâsete",
+   "kok": "ثلث",
+   "kokAnlam": "üç",
+   "karsilik": "üç"
+  },
+  {
+   "kelime": "قُرُوٓءٍ",
+   "okunus": "kurûin",
+   "kok": "قرأ",
+   "kokAnlam": "okuma; kur' (âdet-temizlik dönemi)",
+   "karsilik": "kur' süresi kadar"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "يَحِلُّ",
+   "okunus": "yehillü",
+   "kok": "حلل",
+   "kokAnlam": "helal olma, çözülme",
+   "karsilik": "helal"
+  },
+  {
+   "kelime": "لَهُنَّ",
+   "okunus": "lehünne",
+   "kok": "—",
+   "kokAnlam": "onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -meleri",
+   "karsilik": "-meleri"
+  },
+  {
+   "kelime": "يَكْتُمْنَ",
+   "okunus": "yektümne",
+   "kok": "كتم",
+   "kokAnlam": "gizleme",
+   "karsilik": "gizlemeleri"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "-dığını"
+  },
+  {
+   "kelime": "خَلَقَ",
+   "okunus": "haleka",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yarattığını"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "أَرْحَامِهِنَّ",
+   "okunus": "erhâmihinne",
+   "kok": "رحم",
+   "kokAnlam": "rahim, acıma",
+   "karsilik": "rahimlerinde"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنَّ",
+   "okunus": "künne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseler"
+  },
+  {
+   "kelime": "يُؤْمِنَّ",
+   "okunus": "yü'minne",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma",
+   "karsilik": "iman ediyorlarsa"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَٱلْيَوْمِ",
+   "okunus": "vel yevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "ve gününe"
+  },
+  {
+   "kelime": "ٱلْءَاخِرِ",
+   "okunus": "el'âhıri",
+   "kok": "أخر",
+   "kokAnlam": "sonralık; ahiret",
+   "karsilik": "ahiret"
+  },
+  {
+   "kelime": "وَبُعُولَتُهُنَّ",
+   "okunus": "ve büûletühünne",
+   "kok": "بعل",
+   "kokAnlam": "kocalık, sahiplik",
+   "karsilik": "ve kocaları"
+  },
+  {
+   "kelime": "أَحَقُّ",
+   "okunus": "ehakku",
+   "kok": "حقق",
+   "kokAnlam": "haklılık; daha layık",
+   "karsilik": "daha layıktır"
+  },
+  {
+   "kelime": "بِرَدِّهِنَّ",
+   "okunus": "biraddihinne",
+   "kok": "ردد",
+   "kokAnlam": "geri döndürme",
+   "karsilik": "onları geri almaya"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "bu süre içinde"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) o",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَرَادُوٓا۟",
+   "okunus": "erâdû",
+   "kok": "رود",
+   "kokAnlam": "isteme",
+   "karsilik": "isterlerse"
+  },
+  {
+   "kelime": "إِصْلَٰحًا",
+   "okunus": "islâhan",
+   "kok": "صلح",
+   "kokAnlam": "düzeltme, iyileştirme",
+   "karsilik": "bir düzeltme (barışma)"
+  },
+  {
+   "kelime": "وَلَهُنَّ",
+   "okunus": "ve lehünne",
+   "kok": "—",
+   "kokAnlam": "ve onların",
+   "karsilik": "ve onların"
+  },
+  {
+   "kelime": "مِثْلُ",
+   "okunus": "mislü",
+   "kok": "مثل",
+   "kokAnlam": "benzeme, örnek olma",
+   "karsilik": "benzeri"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olan şey",
+   "karsilik": "olanın"
+  },
+  {
+   "kelime": "عَلَيْهِنَّ",
+   "okunus": "aleyhinne",
+   "kok": "—",
+   "kokAnlam": "üzerlerinde",
+   "karsilik": "üzerlerindeki"
+  },
+  {
+   "kelime": "بِٱلْمَعْرُوفِ",
+   "okunus": "bil ma'rûfi",
+   "kok": "عرف",
+   "kokAnlam": "bilinen, iyi olan; örf",
+   "karsilik": "örfe uygun şekilde"
+  },
+  {
+   "kelime": "وَلِلرِّجَالِ",
+   "okunus": "ve lilrricâli",
+   "kok": "رجل",
+   "kokAnlam": "erkek",
+   "karsilik": "erkeklerin ise"
+  },
+  {
+   "kelime": "عَلَيْهِنَّ",
+   "okunus": "aleyhinne",
+   "kok": "—",
+   "kokAnlam": "onlar üzerinde",
+   "karsilik": "onlar üzerinde"
+  },
+  {
+   "kelime": "دَرَجَةٌ",
+   "okunus": "deracetün",
+   "kok": "درج",
+   "kokAnlam": "derece, basamak",
+   "karsilik": "bir derecesi vardır"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَزِيزٌ",
+   "okunus": "azîzün",
+   "kok": "عزز",
+   "kokAnlam": "üstünlük, güç",
+   "karsilik": "güçlüdür"
+  },
+  {
+   "kelime": "حَكِيمٌ",
+   "okunus": "hakîmün",
+   "kok": "حكم",
+   "kokAnlam": "hüküm verme, hikmet",
+   "karsilik": "hüküm ve hikmet sahibidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, boşanmış bir kadının yeni bir evlilik için beklemesi gereken süreyi (iddet) üç kur' olarak belirler; bu sürede hamile olup olmadığını dürüstçe bildirmesi gerektiği vurgulanır, çünkü bu bilgi hem çocuğun soyu hem kocanın geri dönme hakkı için belirleyicidir.",
+  "Ayet, kocanın bu süre içinde barışma niyetiyle geri dönme önceliğine sahip olduğunu, ancak kadının da örfe uygun karşılıklı haklara sahip olduğunu belirtir. Klasik tefsir, sondaki 'derece' ifadesini genellikle erkeğin üstlendiği nafaka ve boşama sorumluluğuyla bağlantılı olarak açıklar; bu ayrıntı üzerinde farklı yorumlar vardır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "65:4",
+   "meal": "Kadınlarınızdan âdetten kesilmiş olanların iddeti, şüpheye düşerseniz, üç aydır; hamile olanların süresi ise doğum yapmalarıdır.",
+   "baglanti": "228. ayetteki genel iddet süresine (üç kur') istisna oluşturan durumları -âdetten kesilme, hamilelik- açıklar."
+  },
+  {
+   "ref": "2:229",
+   "meal": "Boşama iki defadır; sonra ya iyilikle tutmak ya da güzellikle bırakmaktır.",
+   "baglanti": "228. ayetteki 'kocalar geri almaya daha layıktır' hükmünün sınırını gösterir; bu geri alma hakkı sınırsız değildir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu boşanma sonrası iddet hukukudur; bu, evlilik hukukuna özgü ayrıntılı bir alandır ve burada kesin bir hüküm çıkarma amacı güdülmez.",
+  "Buradan taşınabilecek genel ders, önemli bilgileri -özellikle başkalarının hakkını ilgilendiren bilgileri- gizlememek gerektiğidir. Ayrıca karşılıklı hakların örfe (kabul edilebilir, adil bir ölçüye) uygun olması gerektiği ilkesi, her ilişkide geçerli bir adalet ölçüsüdür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önemli bir bilgiyi gizleme",
+   "aciklama": "Bir kararı etkileyecek bir bilgiyi, bugün ilgili kişiden saklamadan paylaş."
+  },
+  {
+   "baslik": "Karşılıklı hakkı gözet",
+   "aciklama": "Bir ilişkide sadece kendi hakkını değil, karşındakinin de hakkını bugün düşün."
+  },
+  {
+   "baslik": "Barışma kapısını açık tut",
+   "aciklama": "Bir anlaşmazlıkta, gururunu bırakıp barışma niyetini bugün göster."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararı etkileyecek bir bilgiyi, ilgili kişiyle dürüstçe paylaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=228"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/228"
+  }
+ ]
+}

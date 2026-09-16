@@ -1,0 +1,278 @@
+{
+ "sure": 2,
+ "ayet": 184,
+ "durum": "taslak",
+ "meal": "Sayılı günlerdedir. Sizden kim hasta veya yolcu olursa, tutamadığı günler sayısınca başka günlerde tutar. Oruca gücü ancak yetenlere ise bir yoksul doyumu kadar fidye [gerekir]. Kim gönüllü olarak hayır yaparsa, bu kendisi için daha hayırlıdır. Oruç tutmanız, eğer bilirseniz, sizin için daha hayırlıdır.",
+ "mealNotu": "'Yütîkûnehû' fiili gücü ancak yetmeyi anlatır; klasik tefsirde bu ifade, oruca dayanmakta ciddi zorluk çeken (yaşlı, iyileşmeyecek hasta gibi) kişilere yorulur. 'Hayran' kelimesi hem 'gönüllü iyilik' hem 'oruç' için kullanılmıştır; metne sadık kalınmıştır.",
+ "kokler": [
+  {
+   "kelime": "أَيَّامًا",
+   "okunus": "eyyâmen",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günlerdir"
+  },
+  {
+   "kelime": "مَّعْدُودَٰتٍ",
+   "okunus": "ma'dûdâtin",
+   "kok": "عدد",
+   "kokAnlam": "sayma, sayılı olma",
+   "karsilik": "sayılı"
+  },
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(şart) kim ki",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olursa"
+  },
+  {
+   "kelime": "مِنكُم",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "مَّرِيضًا",
+   "okunus": "merîdan",
+   "kok": "مرض",
+   "kokAnlam": "hastalık",
+   "karsilik": "hasta"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "سَفَرٍ",
+   "okunus": "seferin",
+   "kok": "سفر",
+   "kokAnlam": "yolculuk",
+   "karsilik": "yolculukta"
+  },
+  {
+   "kelime": "فَعِدَّةٌ",
+   "okunus": "feiddetün",
+   "kok": "عدد",
+   "kokAnlam": "sayma, sayılı olma",
+   "karsilik": "artık sayısınca [tutar]"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَيَّامٍ",
+   "okunus": "eyyâmin",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günlerde"
+  },
+  {
+   "kelime": "أُخَرَ",
+   "okunus": "ühara",
+   "kok": "أخر",
+   "kokAnlam": "sonra gelme, başka",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "وَعَلَى",
+   "okunus": "ve alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ve üzerine",
+   "karsilik": "ve üzerine düşer"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi adılı) o kimseler ki",
+   "karsilik": "o kimselerin"
+  },
+  {
+   "kelime": "يُطِيقُونَهُۥ",
+   "okunus": "yütîkûnehû",
+   "kok": "طوق",
+   "kokAnlam": "güç yetirme, dayanabilme",
+   "karsilik": "ona güç ancak yetenlerin"
+  },
+  {
+   "kelime": "فِدْيَةٌ",
+   "okunus": "fidyetün",
+   "kok": "فدي",
+   "kokAnlam": "fidye, bedel ödeme",
+   "karsilik": "bir fidye"
+  },
+  {
+   "kelime": "طَعَامُ",
+   "okunus": "taâmü",
+   "kok": "طعم",
+   "kokAnlam": "yiyecek, tat",
+   "karsilik": "doyumu"
+  },
+  {
+   "kelime": "مِسْكِينٍ",
+   "okunus": "miskînin",
+   "kok": "سكن",
+   "kokAnlam": "durgunluk, yoksulluk; yoksul",
+   "karsilik": "bir yoksul"
+  },
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(şart) kim ki",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "تَطَوَّعَ",
+   "okunus": "tetavvea",
+   "kok": "طوع",
+   "kokAnlam": "gönüllü olma, itaat",
+   "karsilik": "gönüllü olarak yaparsa"
+  },
+  {
+   "kelime": "خَيْرًا",
+   "okunus": "hayran",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "bir hayır"
+  },
+  {
+   "kelime": "فَهُوَ",
+   "okunus": "fehüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o hâlde bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "خَيْرٌ",
+   "okunus": "hayrun",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "daha hayırlıdır"
+  },
+  {
+   "kelime": "لَّهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) onun için",
+   "karsilik": "kendisi için"
+  },
+  {
+   "kelime": "وَأَن",
+   "okunus": "ve en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ve -meniz",
+   "karsilik": "ve -manız"
+  },
+  {
+   "kelime": "تَصُومُوا۟",
+   "okunus": "tesûmû",
+   "kok": "صوم",
+   "kokAnlam": "kendini alıkoyma, tutunma; oruç",
+   "karsilik": "oruç tutmanız"
+  },
+  {
+   "kelime": "خَيْرٌ",
+   "okunus": "hayrun",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "daha hayırlıdır"
+  },
+  {
+   "kelime": "لَّكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "تَعْلَمُونَ",
+   "okunus": "ta'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme, ilim",
+   "karsilik": "biliyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette farz kılınan oruç burada ayrıntılandırılır: sayılı günler için geçerlidir, hasta veya yolcu olan kişi tutamadığı günleri sonra telafi eder. Oruca dayanmakta ciddi güçlük çekenler için ise fidye (bir yoksulu doyurma) seçeneği getirilir.",
+  "Ayet gönüllü fazladan iyiliğin daha hayırlı olduğunu, ancak bilenler için orucun kendisinin en hayırlı seçenek olduğunu vurgular. Klasik tefsir, bu ayetteki fidye hükmünün sonraki ayetle (185) birlikte, özellikle sürekli güçsüz olanlara özgülendiğini açıklar; ayrıntılı uygulama yorumdan yoruma değişebilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:185",
+   "meal": "...kim hasta veya yolcu olursa, tutamadığı günler sayısınca başka günlerde tutar. Allah sizin için kolaylık ister, güçlük istemez.",
+   "baglanti": "Bir sonraki ayet, aynı hasta-yolcu istisnasını tekrarlayıp Allah'ın kolaylık istediğini ekleyerek pekiştirir."
+  },
+  {
+   "ref": "2:286",
+   "meal": "Allah hiç kimseye gücünün yetmeyeceği bir şey yüklemez.",
+   "baglanti": "Aynı surenin sonundaki bu ilke, 184. ayetteki hasta ve yolcu için tanınan kolaylığın genel bir prensibe dayandığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu oruç ibadetinin uygulanma şeklidir; hastalık ve yolculuk gibi özel durumlar için kolaylık tanınır. Bu, belirli bir ibadetin hükümlerine dairdir.",
+  "Genel ders, bir yükümlülüğü yerine getirirken kişinin gerçek gücünü gözetmenin bir zaaf değil, adalet olduğudur. Kendine veya başkasına bir görev verirken, o kişinin gerçekten taşıyabileceği ölçüyü dikkate almak bu ayetten çıkarılabilecek bir ilkedir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gücünü gerçekçi değerlendir",
+   "aciklama": "Bugün üstlendiğin bir görevde, gerçekten taşıyabileceğin ölçüyü dürüstçe belirle."
+  },
+  {
+   "baslik": "Zorlanana kolaylık tanı",
+   "aciklama": "Bir görevde zorlanan birine, onu yargılamadan alternatif bir kolaylık sun."
+  },
+  {
+   "baslik": "Fazladan bir iyilik yap",
+   "aciklama": "Zorunlu olmadığın hâlde gönüllü küçük bir iyilik yap ve bunun değerini fark et."
+  }
+ ],
+ "bugununAdimi": "Bugün, gücünün gerçekten yettiği ölçüde bir sorumluluk üstlen ve fazlasını erteleme.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=184"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/184"
+  }
+ ]
+}

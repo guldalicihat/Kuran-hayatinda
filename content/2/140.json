@@ -1,0 +1,264 @@
+{
+ "sure": 2,
+ "ayet": 140,
+ "durum": "taslak",
+ "meal": "Yoksa siz, 'İbrahim, İsmail, İshak, Yakub ve torunları Yahudi ya da Hristiyan idiler' mi diyorsunuz? De ki: 'Siz mi daha iyi bilirsiniz, yoksa Allah mı?' Allah'tan kendisine ait bir tanıklığı gizleyenden daha zalim kim vardır? Allah, yaptıklarınızdan habersiz değildir.",
+ "mealNotu": "'Keteme' kökü كتم, bilerek saklamayı anlatır. Soru cümlesi 'Siz mi daha iyi bilirsiniz, yoksa Allah mı?' şeklinde doğrudan çevrildi; bu, iddianın temelsizliğine dikkat çeker.",
+ "kokler": [
+  {
+   "kelime": "أَمِ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "تَقُولُونَ",
+   "okunus": "tekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "diyorsunuz"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "إِبْرَٰهِۦمَ",
+   "okunus": "ibrâhîme",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İbrahim"
+  },
+  {
+   "kelime": "وَإِسْمَٰعِيلَ",
+   "okunus": "ve ismâîle",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İsmail"
+  },
+  {
+   "kelime": "وَإِسْحَٰقَ",
+   "okunus": "ve ishâka",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İshak"
+  },
+  {
+   "kelime": "وَيَعْقُوبَ",
+   "okunus": "ve ya'kûbe",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "ve Yakub"
+  },
+  {
+   "kelime": "وَٱلْأَسْبَاطَ",
+   "okunus": "vel esbâta",
+   "kok": "سبط",
+   "kokAnlam": "torun, alt kol; Yakub'un torun kabileleri",
+   "karsilik": "ve torunları"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idiler"
+  },
+  {
+   "kelime": "هُودًا",
+   "okunus": "hûden",
+   "kok": "هود",
+   "kokAnlam": "Yahudi",
+   "karsilik": "Yahudi"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "نَصَٰرَىٰ",
+   "okunus": "nesârâ",
+   "kok": "نصر",
+   "kokAnlam": "yardım etme; Nasrânî, Hristiyan",
+   "karsilik": "Hristiyan"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "ءَأَنتُمْ",
+   "okunus": "eentüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz mi",
+   "karsilik": "siz mi"
+  },
+  {
+   "kelime": "أَعْلَمُ",
+   "okunus": "a'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "daha iyi bilirsiniz"
+  },
+  {
+   "kelime": "أَمِ",
+   "okunus": "emi",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah; özel ad Allah",
+   "karsilik": "Allah mı"
+  },
+  {
+   "kelime": "وَمَنْ",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(soru) ve kim",
+   "karsilik": "kim vardır"
+  },
+  {
+   "kelime": "أَظْلَمُ",
+   "okunus": "azlemü",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık etme, zulüm",
+   "karsilik": "daha zalim"
+  },
+  {
+   "kelime": "مِمَّن",
+   "okunus": "mimmen",
+   "kok": "—",
+   "kokAnlam": "(edat) kimseden",
+   "karsilik": "kimseden"
+  },
+  {
+   "kelime": "كَتَمَ",
+   "okunus": "keteme",
+   "kok": "كتم",
+   "kokAnlam": "bilerek saklama, gizleme",
+   "karsilik": "gizleyen"
+  },
+  {
+   "kelime": "شَهَٰدَةً",
+   "okunus": "şehâdeten",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık, şahitlik",
+   "karsilik": "bir tanıklığı"
+  },
+  {
+   "kelime": "عِندَهُۥ",
+   "okunus": "indehû",
+   "kok": "عند",
+   "kokAnlam": "yan, kat, nezd",
+   "karsilik": "kendisine ait"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah; özel ad Allah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değildir",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah; özel ad Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِغَٰفِلٍ",
+   "okunus": "biğâfilin",
+   "kok": "غفل",
+   "kokAnlam": "habersizlik, dalgınlık",
+   "karsilik": "habersiz"
+  },
+  {
+   "kelime": "عَمَّا",
+   "okunus": "ammâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -den şeyden",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma, eyleme",
+   "karsilik": "yaptıklarınızdan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerde geçen İbrahim, İsmail, İshak, Yakub ve torunlarının Yahudi ya da Hristiyan olduğu iddiasını doğrudan sorgular. Bu peygamberler, tarihsel olarak bu isimlerin ortaya çıkışından önce yaşamıştır; iddia, tarihsel bir çelişki içerir.",
+  "'Allah'tan bir tanıklığı gizleyenden daha zalim kim vardır' sorusu, bu iddiayı sürdürenlerin, kendi kutsal metinlerindeki gerçek bilgiyi bilerek sakladığını ima eder. Klasik tefsir, bu ayeti Kitap Ehli'nin kendi geleneğindeki bilgiyi çıkarına göre çarpıtmasına bir eleştiri olarak okur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:146",
+   "meal": "Kendilerine Kitap verdiklerimiz onu (hakkı), çocuklarını tanıdıkları gibi tanırlar; buna rağmen içlerinden bir grup, bile bile hakkı gizler.",
+   "baglanti": "'Tanıklığı gizleyenden daha zalim kim vardır' ifadesi, 146. ayette hakkı bile bile gizleyen grubun tarifiyle aynı temayı paylaşır."
+  },
+  {
+   "ref": "3:71",
+   "meal": "Ey Kitap Ehli! Niçin bile bile hakkı batılla karıştırıyor ve hakkı gizliyorsunuz?",
+   "baglanti": "Hakikati bilerek gizleme eleştirisi burada da tekrarlanır; her iki ayet de Kitap Ehli'nin elindeki bilgiyi çarpıtmasına dikkat çeker."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, tarihsel bir iddianın çürütülmesi ve bilinçli bilgi gizlemenin eleştirisidir. Günlük hayata taşınabilecek ders, elde bulunan doğru bilgiyi çıkar uğruna saklamanın veya çarpıtmanın büyük bir sorumluluk taşıdığıdır.",
+  "Bir kişi bazen bildiği bir gerçeği, kendi konumunu veya çıkarını korumak için söylemekten kaçınabilir. Bu ayet, bilinen bir gerçeği gizlemenin ciddi bir haksızlık olduğunu hatırlatır; doğruyu söylemek, rahatsız edici olsa bile bir sorumluluktur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bildiğin doğruyu söyle",
+   "aciklama": "Bugün, söylemekten çekindiğin ama doğru olduğunu bildiğin bir şeyi nazikçe ifade et."
+  },
+  {
+   "baslik": "İddiayı araştır",
+   "aciklama": "Bugün duyduğun bir iddiayı kabul etmeden önce kaynağını araştır."
+  },
+  {
+   "baslik": "Tarihsel doğruluğa dikkat et",
+   "aciklama": "Bugün bir konuda konuşurken, tarihsel sırayı ve gerçekleri karıştırmamaya özen göster."
+  }
+ ],
+ "bugununAdimi": "Bugün söylemekten çekindiğin ama doğru bildiğin bir şeyi, nazikçe birine ifade et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=140"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/140"
+  }
+ ]
+}

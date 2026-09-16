@@ -1,0 +1,362 @@
+{
+ "sure": 2,
+ "ayet": 185,
+ "durum": "taslak",
+ "meal": "Ramazan ayı, insanlara yol gösterici, hidayetten ve hak ile batılı ayırt etmekten açık deliller olarak Kur'an'ın kendisinde indirildiği aydır. Öyleyse içinizden kim bu aya ulaşırsa onu oruçlu geçirsin. Kim hasta veya yolcu olursa, tutamadığı günler sayısınca başka günlerde tutar. Allah sizin için kolaylık ister, sizin için güçlük istemez. Bu sayıyı tamamlamanızı, size doğru yolu gösterdiği için Allah'ı yüceltmenizi ister; umulur ki şükredersiniz.",
+ "mealNotu": "'Fürkân' kökü (فرق) ayırt etme, hak ile batılı birbirinden ayırma anlamındadır; 'hüdâ'dan (hidayet) ayrı bir vasıf olarak zikredilmiştir. 'Litükebbirû' fiili büyüklüğü ilan etmeyi anlatır; 'Allah'ı yüceltmenizi ister' olarak karşılanmıştır.",
+ "kokler": [
+  {
+   "kelime": "شَهْرُ",
+   "okunus": "şehru",
+   "kok": "شهر",
+   "kokAnlam": "ay (zaman birimi)",
+   "karsilik": "ayı"
+  },
+  {
+   "kelime": "رَمَضَانَ",
+   "okunus": "ramedâne",
+   "kok": "رمض",
+   "kokAnlam": "yakıcı sıcaklık; Ramazan ayı",
+   "karsilik": "Ramazan"
+  },
+  {
+   "kelime": "ٱلَّذِىٓ",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi adılı) o ki",
+   "karsilik": "ki o"
+  },
+  {
+   "kelime": "أُنزِلَ",
+   "okunus": "ünzile",
+   "kok": "نزل",
+   "kokAnlam": "indirme, iniş",
+   "karsilik": "indirildi"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat) onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانُ",
+   "okunus": "elkur'ânü",
+   "kok": "قرأ",
+   "kokAnlam": "okuma; Kur'an",
+   "karsilik": "Kur'an"
+  },
+  {
+   "kelime": "هُدًى",
+   "okunus": "hüden",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu gösterme, hidayet",
+   "karsilik": "yol gösterici olarak"
+  },
+  {
+   "kelime": "لِّلنَّاسِ",
+   "okunus": "lilnnâsi",
+   "kok": "أنس",
+   "kokAnlam": "ünsiyet, insan; insanlar",
+   "karsilik": "insanlara"
+  },
+  {
+   "kelime": "وَبَيِّنَٰتٍ",
+   "okunus": "ve beyyinâtin",
+   "kok": "بين",
+   "kokAnlam": "açıklık, ayrım; açık delil",
+   "karsilik": "ve açık deliller olarak"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْهُدَىٰ",
+   "okunus": "elhüdâ",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu gösterme, hidayet",
+   "karsilik": "hidayetten"
+  },
+  {
+   "kelime": "وَٱلْفُرْقَانِ",
+   "okunus": "vel fürkâni",
+   "kok": "فرق",
+   "kokAnlam": "ayırt etme, hak-batılı ayırma",
+   "karsilik": "ve hak ile batılı ayırt etmekten"
+  },
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(şart) kim ki",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "شَهِدَ",
+   "okunus": "şehide",
+   "kok": "شهد",
+   "kokAnlam": "şahit olma, hazır bulunma",
+   "karsilik": "ulaşırsa"
+  },
+  {
+   "kelime": "مِنكُمُ",
+   "okunus": "minkümü",
+   "kok": "—",
+   "kokAnlam": "(edat) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "ٱلشَّهْرَ",
+   "okunus": "eşşehra",
+   "kok": "شهر",
+   "kokAnlam": "ay (zaman birimi)",
+   "karsilik": "bu aya"
+  },
+  {
+   "kelime": "فَلْيَصُمْهُ",
+   "okunus": "felyesumhü",
+   "kok": "صوم",
+   "kokAnlam": "kendini alıkoyma, tutunma; oruç",
+   "karsilik": "artık onu oruçlu geçirsin"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) ve kim ki",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olursa"
+  },
+  {
+   "kelime": "مَرِيضًا",
+   "okunus": "merîdan",
+   "kok": "مرض",
+   "kokAnlam": "hastalık",
+   "karsilik": "hasta"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "سَفَرٍ",
+   "okunus": "seferin",
+   "kok": "سفر",
+   "kokAnlam": "yolculuk",
+   "karsilik": "yolculukta"
+  },
+  {
+   "kelime": "فَعِدَّةٌ",
+   "okunus": "feiddetün",
+   "kok": "عدد",
+   "kokAnlam": "sayma, sayılı olma",
+   "karsilik": "artık sayısınca [tutar]"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَيَّامٍ",
+   "okunus": "eyyâmin",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günlerde"
+  },
+  {
+   "kelime": "أُخَرَ",
+   "okunus": "ühara",
+   "kok": "أخر",
+   "kokAnlam": "sonra gelme, başka",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "يُرِيدُ",
+   "okunus": "yürîdü",
+   "kok": "رود",
+   "kokAnlam": "isteme, arzu etme",
+   "karsilik": "ister"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِكُمُ",
+   "okunus": "bikümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "ٱلْيُسْرَ",
+   "okunus": "elyüsra",
+   "kok": "يسر",
+   "kokAnlam": "kolaylık",
+   "karsilik": "kolaylığı"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve -mez"
+  },
+  {
+   "kelime": "يُرِيدُ",
+   "okunus": "yürîdü",
+   "kok": "رود",
+   "kokAnlam": "isteme, arzu etme",
+   "karsilik": "ister"
+  },
+  {
+   "kelime": "بِكُمُ",
+   "okunus": "bikümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "ٱلْعُسْرَ",
+   "okunus": "el'usra",
+   "kok": "عسر",
+   "kokAnlam": "güçlük, zorluk",
+   "karsilik": "güçlüğü"
+  },
+  {
+   "kelime": "وَلِتُكْمِلُوا۟",
+   "okunus": "ve litükmilû",
+   "kok": "كمل",
+   "kokAnlam": "tamamlama, eksiksiz kılma",
+   "karsilik": "ve tamamlamanızı ister"
+  },
+  {
+   "kelime": "ٱلْعِدَّةَ",
+   "okunus": "el'iddete",
+   "kok": "عدد",
+   "kokAnlam": "sayma, sayılı olma",
+   "karsilik": "sayıyı"
+  },
+  {
+   "kelime": "وَلِتُكَبِّرُوا۟",
+   "okunus": "ve litükebbirû",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük, ululama",
+   "karsilik": "ve yüceltmenizi ister"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ı"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -dığı için",
+   "karsilik": "-dığı için"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "هَدَىٰكُمْ",
+   "okunus": "hedâküm",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu gösterme, hidayet",
+   "karsilik": "size gösterdiği"
+  },
+  {
+   "kelime": "وَلَعَلَّكُمْ",
+   "okunus": "ve lealleküm",
+   "kok": "—",
+   "kokAnlam": "(tekid) ve umulur ki siz",
+   "karsilik": "ve umulur ki"
+  },
+  {
+   "kelime": "تَشْكُرُونَ",
+   "okunus": "teşkürûne",
+   "kok": "شكر",
+   "kokAnlam": "şükretme, teşekkür",
+   "karsilik": "şükredersiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetlerde farz kılınan orucun hangi ayda tutulacağını belirtir: Kur'an'ın indirilmeye başlandığı Ramazan ayı. Kur'an burada 'hüdâ' (yol gösterici) ve 'fürkân' (hak ile batılı ayırt eden) olarak nitelenir; bu iki vasıf, vahyin hem yön gösterici hem ayırt edici yönünü anlatır.",
+  "Ayet hasta ve yolcu için tutulamayan günlerin telafi edileceğini tekrarlar ve Allah'ın kolaylık istediğini, güçlük istemediğini açıkça vurgular. Klasik tefsir, orucun amacının yalnızca bir yükümlülük değil, kolaylık temelli bir ibadet ve şükür vesilesi olduğunu bu ayetten çıkarır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:183",
+   "meal": "Ey iman edenler! Sizden öncekilere farz kılındığı gibi, oruç size de farz kılındı; umulur ki sakınırsınız.",
+   "baglanti": "Orucun farz kılınışı bu ayette bildirilmişti; 185. ayet ise hangi ayda tutulacağını netleştirir."
+  },
+  {
+   "ref": "97:1",
+   "meal": "Şüphesiz biz onu (Kur'an'ı) Kadir gecesinde indirdik.",
+   "baglanti": "Kadr suresindeki bu ayet, Kur'an'ın indirilişinin Ramazan içindeki özel bir geceyle bağlantılı olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Ramazan orucu ve bu ayın Kur'an'ın indirilişiyle özel bağıdır; bu belirli bir ibadet dönemine dairdir.",
+  "Genel ders, Allah'ın kullarından istediği şeylerin temelinde kolaylığın, zorluğun değil, yattığıdır. Bir sorumluluğu yerine getirirken kendine veya başkasına aşırı katılık dayatmak yerine, makul kolaylıkları tanımak bu ayetten çıkarılabilecek bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kolaylığı tercih et",
+   "aciklama": "Bugün bir işi yaparken kendine gereksiz zorluk çıkarmadan, makul ve sürdürülebilir bir yol seç."
+  },
+  {
+   "baslik": "Bir rehberi tekrar oku",
+   "aciklama": "Sana yol gösteren bir metni (kitap, not, öğüt) bugün tekrar gözden geçir."
+  },
+  {
+   "baslik": "Şükrünü belirt",
+   "aciklama": "Bugün seni bir konuda doğru yola yönlendiren birine teşekkür et."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir görevi tamamlarken kendine gereksiz zorluk çıkarmadan en kolay doğru yolu seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=185"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/185"
+  }
+ ]
+}

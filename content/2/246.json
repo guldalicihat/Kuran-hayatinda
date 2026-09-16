@@ -1,0 +1,432 @@
+{
+ "sure": 2,
+ "ayet": 246,
+ "durum": "taslak",
+ "meal": "Musa'dan sonra İsrailoğullarının ileri gelenlerini görmedin mi? Hani peygamberlerine, 'Bize bir kral gönder de Allah yolunda savaşalım' demişlerdi. O da, 'Ya üzerinize savaş yazıldığında savaşmayacak olursanız?' demişti. Dediler ki: 'Bize ne olmuş ki Allah yolunda savaşmayalım; oysa yurtlarımızdan ve oğullarımızdan çıkarıldık.' Ama üzerlerine savaş yazılınca, içlerinden az bir kısmı dışında yüz çevirdiler. Allah zalimleri hakkıyla bilir.",
+ "mealNotu": "'Melâ' kökü topluluğun ileri gelenlerini, danışma meclisini anlatır. Ayetin ikinci yarısındaki tezat -önce ısrarla savaş istemek, sonra yüz çevirmek- sözle eylem arasındaki tutarsızlığı vurgular.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuz soru) -madın mı",
+   "karsilik": "-madın mı"
+  },
+  {
+   "kelime": "تَرَ",
+   "okunus": "tera",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görmedin mi"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْمَلَإِ",
+   "okunus": "elmelei",
+   "kok": "ملأ",
+   "kokAnlam": "doluluk; ileri gelenler, topluluğun önderleri",
+   "karsilik": "ileri gelenleri"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَنِىٓ",
+   "okunus": "benî",
+   "kok": "بني",
+   "kokAnlam": "oğulluk; oğulları",
+   "karsilik": "oğullarından"
+  },
+  {
+   "kelime": "إِسْرَٰٓءِيلَ",
+   "okunus": "isrâîle",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İsrail",
+   "karsilik": "İsrail"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra olma",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مُوسَىٰٓ",
+   "okunus": "mûsâ",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Musa",
+   "karsilik": "Musa'dan"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "demişlerdi"
+  },
+  {
+   "kelime": "لِنَبِىٍّ",
+   "okunus": "linebiyyin",
+   "kok": "نبأ",
+   "kokAnlam": "haber; haber getiren",
+   "karsilik": "bir peygambere"
+  },
+  {
+   "kelime": "لَّهُمُ",
+   "okunus": "lehümü",
+   "kok": "—",
+   "kokAnlam": "kendilerinin",
+   "karsilik": "kendilerinin"
+  },
+  {
+   "kelime": "ٱبْعَثْ",
+   "okunus": "ib'as",
+   "kok": "بعث",
+   "kokAnlam": "gönderme, harekete geçirme",
+   "karsilik": "gönder"
+  },
+  {
+   "kelime": "لَنَآ",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "bize",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "مَلِكًا",
+   "okunus": "meliken",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, hükümranlık; kral",
+   "karsilik": "bir kral"
+  },
+  {
+   "kelime": "نُقَٰتِلَ",
+   "okunus": "nükâtil",
+   "kok": "قتل",
+   "kokAnlam": "karşılıklı savaşma",
+   "karsilik": "savaşalım"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "(soru) mı",
+   "karsilik": "mı"
+  },
+  {
+   "kelime": "عَسَيْتُمْ",
+   "okunus": "aseytüm",
+   "kok": "عسي",
+   "kokAnlam": "umulur ki, olabilir ki",
+   "karsilik": "olabilir ki siz"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُتِبَ",
+   "okunus": "kütibe",
+   "kok": "كتب",
+   "kokAnlam": "yazma",
+   "karsilik": "yazılırsa"
+  },
+  {
+   "kelime": "عَلَيْكُمُ",
+   "okunus": "aleykümü",
+   "kok": "—",
+   "kokAnlam": "üzerinize",
+   "karsilik": "üzerinize"
+  },
+  {
+   "kelime": "ٱلْقِتَالُ",
+   "okunus": "elkıtâlü",
+   "kok": "قتل",
+   "kokAnlam": "öldürme; karşılıklı savaşma",
+   "karsilik": "savaş"
+  },
+  {
+   "kelime": "أَلَّا",
+   "okunus": "ellâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç+olumsuzluk) -memeniz",
+   "karsilik": "-memeniz"
+  },
+  {
+   "kelime": "تُقَٰتِلُوا۟",
+   "okunus": "tükâtilû",
+   "kok": "قتل",
+   "kokAnlam": "karşılıklı savaşma",
+   "karsilik": "savaşmayasınız"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ve ne",
+   "karsilik": "ve ne"
+  },
+  {
+   "kelime": "لَنَآ",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "bize",
+   "karsilik": "bize olurdu"
+  },
+  {
+   "kelime": "أَلَّا",
+   "okunus": "ellâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç+olumsuzluk) -memize",
+   "karsilik": "-memize"
+  },
+  {
+   "kelime": "نُقَٰتِلَ",
+   "okunus": "nükâtile",
+   "kok": "قتل",
+   "kokAnlam": "karşılıklı savaşma",
+   "karsilik": "savaşmayışımıza"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَقَدْ",
+   "okunus": "ve kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) oysa gerçekten",
+   "karsilik": "oysa"
+  },
+  {
+   "kelime": "أُخْرِجْنَا",
+   "okunus": "ühricnâ",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma, çıkarılma",
+   "karsilik": "çıkarıldık"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دِيَٰرِنَا",
+   "okunus": "diyârinâ",
+   "kok": "دور",
+   "kokAnlam": "ev, yurt",
+   "karsilik": "yurtlarımızdan"
+  },
+  {
+   "kelime": "وَأَبْنَآئِنَا",
+   "okunus": "ve ebnâinâ",
+   "kok": "بني",
+   "kokAnlam": "oğulluk; oğullar",
+   "karsilik": "ve oğullarımızdan"
+  },
+  {
+   "kelime": "فَلَمَّا",
+   "okunus": "felemmâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) ne zaman ki",
+   "karsilik": "ne zaman ki"
+  },
+  {
+   "kelime": "كُتِبَ",
+   "okunus": "kütibe",
+   "kok": "كتب",
+   "kokAnlam": "yazma",
+   "karsilik": "yazıldığında"
+  },
+  {
+   "kelime": "عَلَيْهِمُ",
+   "okunus": "aleyhimü",
+   "kok": "—",
+   "kokAnlam": "üzerlerine",
+   "karsilik": "üzerlerine"
+  },
+  {
+   "kelime": "ٱلْقِتَالُ",
+   "okunus": "elkıtâlü",
+   "kok": "قتل",
+   "kokAnlam": "öldürme; karşılıklı savaşma",
+   "karsilik": "savaş"
+  },
+  {
+   "kelime": "تَوَلَّوْا۟",
+   "okunus": "tevellev",
+   "kok": "ولي",
+   "kokAnlam": "dönme, yüz çevirme",
+   "karsilik": "yüz çevirdiler"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) hariç",
+   "karsilik": "hariç"
+  },
+  {
+   "kelime": "قَلِيلًا",
+   "okunus": "kalîlen",
+   "kok": "قلل",
+   "kokAnlam": "azlık",
+   "karsilik": "az bir kısmı"
+  },
+  {
+   "kelime": "مِّنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلِيمٌۢ",
+   "okunus": "alîmüm",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "hakkıyla bilir"
+  },
+  {
+   "kelime": "بِٱلظَّٰلِمِينَ",
+   "okunus": "biz zâlimîne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık; zalimler",
+   "karsilik": "zalimleri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, İsrailoğullarının Musa'dan sonraki bir döneminde yaşanan bir olayı anlatır: ileri gelenler, peygamberlerinden kendilerine savaşı yönetecek bir kral göndermesini isterler. Peygamber onları uyarır: savaş kesinleştiğinde geri çekilebilirler mi diye sorar. Onlar, yurtlarından çıkarılmış olmalarını gerekçe göstererek ısrarla savaşacaklarını söylerler.",
+  "Ancak savaş gerçekten yazılınca, içlerinden az bir kısmı hariç yüz çevirirler. Klasik tefsir bu ayeti, sözle verilen kararlılığın eylemde sınandığı, insan psikolojisine dair evrensel bir ibret olarak açıklar; Allah'ın 'zalimleri hakkıyla bilmesi' vurgusu, bu tutarsızlığın sorumsuzca geçiştirilemeyeceğini hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:24",
+   "meal": "Dediler ki: Ey Musa! Onlar orada olduğu sürece biz oraya asla girmeyiz; sen ve Rabbin gidin, savaşın, biz burada oturacağız.",
+   "baglanti": "246. ayetteki İsrailoğulları'nın sözle istekli görünüp eylemde geri çekilme örneğinin, Musa dönemindeki benzer bir tutumla akraba olduğunu gösterir."
+  },
+  {
+   "ref": "2:249",
+   "meal": "Talut, ordularla yola çıkınca dedi ki: Allah sizi bir nehirle deneyecek.",
+   "baglanti": "246. ayetin devamıdır; kral istenmesinin ardından gelen sınama sürecini anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, İsrailoğullarına dair tarihî bir kıssadır; belirli bir hukuki hüküm içermez, kıssanın verdiği ibrete odaklanılır.",
+  "Buradan çıkarılabilecek genel ders, kararlılığın sözle değil eylemde sınandığıdır. Bir işe 'ne olursa olsun yaparım' diyerek girişmek kolaydır; asıl zorluk, o iş gerçekten zorlaştığında sözümüzde durmaktır. Ayet, bu tutarsızlığa düşmemek için önceden kendimizi sınamayı öğütler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünle eylemini karşılaştır",
+   "aciklama": "Geçmişte verdiğin bir sözü, bugün ne kadar tuttuğunu dürüstçe değerlendir."
+  },
+  {
+   "baslik": "Zorlaşınca vazgeçme",
+   "aciklama": "Kolayken istekli olduğun bir işi, bugün zorlaştığında da sürdür."
+  },
+  {
+   "baslik": "Kararını gerçekçi ver",
+   "aciklama": "Yeni bir söz vermeden önce, zorlaştığında da tutup tutamayacağını bugün düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün geçmişte verdiğin ama zorlaştığı için yarım bıraktığın bir sözü tamamlamak için bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=246"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/246"
+  }
+ ]
+}

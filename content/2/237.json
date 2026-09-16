@@ -1,0 +1,299 @@
+{
+ "sure": 2,
+ "ayet": 237,
+ "durum": "taslak",
+ "meal": "Eğer onlara dokunmadan, ama kendilerine bir mehir belirleyerek boşarsanız, belirlediğinizin yarısı onlarındır; kadınların vazgeçmesi ya da nikâh bağı elinde olanın vazgeçmesi hariç. Sizin vazgeçmeniz takvaya daha yakındır. Aranızdaki iyiliği unutmayın. Şüphesiz Allah yaptıklarınızı hakkıyla görür.",
+ "mealNotu": "'Ukdetün nikâh' harfiyen 'nikâhın düğümü' demektir, evlilik bağını anlatır. Ayet, mehrin yarısını hak olarak belirlerken, tarafları bu haktan gönüllü vazgeçerek daha erdemli davranmaya teşvik eder.",
+ "kokler": [
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) ve eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "طَلَّقْتُمُوهُنَّ",
+   "okunus": "tallektümûhünne",
+   "kok": "طلق",
+   "kokAnlam": "salıverme, boşama",
+   "karsilik": "onları boşarsanız"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِ",
+   "okunus": "kabli",
+   "kok": "قبل",
+   "kokAnlam": "önce olma",
+   "karsilik": "önce"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -meden",
+   "karsilik": "-meden"
+  },
+  {
+   "kelime": "تَمَسُّوهُنَّ",
+   "okunus": "temessûhünne",
+   "kok": "مسس",
+   "kokAnlam": "dokunma, temas etme",
+   "karsilik": "onlara dokunmadan"
+  },
+  {
+   "kelime": "وَقَدْ",
+   "okunus": "ve kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "فَرَضْتُمْ",
+   "okunus": "feradtüm",
+   "kok": "فرض",
+   "kokAnlam": "belirleme, farz kılma",
+   "karsilik": "belirlemişseniz"
+  },
+  {
+   "kelime": "لَهُنَّ",
+   "okunus": "lehünne",
+   "kok": "—",
+   "kokAnlam": "onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "فَرِيضَةً",
+   "okunus": "ferîdaten",
+   "kok": "فرض",
+   "kokAnlam": "belirleme; mehir",
+   "karsilik": "bir mehir"
+  },
+  {
+   "kelime": "فَنِصْفُ",
+   "okunus": "fenisfü",
+   "kok": "نصف",
+   "kokAnlam": "yarı",
+   "karsilik": "yarısı"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyin",
+   "karsilik": "şeyin"
+  },
+  {
+   "kelime": "فَرَضْتُمْ",
+   "okunus": "feradtüm",
+   "kok": "فرض",
+   "kokAnlam": "belirleme",
+   "karsilik": "belirlediğinizin"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -si",
+   "karsilik": "-si"
+  },
+  {
+   "kelime": "يَعْفُونَ",
+   "okunus": "ya'fûne",
+   "kok": "عفو",
+   "kokAnlam": "affetme, vazgeçme",
+   "karsilik": "kadınların vazgeçmesi"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "يَعْفُوَا۟",
+   "okunus": "ya'füve",
+   "kok": "عفو",
+   "kokAnlam": "affetme, vazgeçme",
+   "karsilik": "vazgeçmesi"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimsenin",
+   "karsilik": "elinde olanın"
+  },
+  {
+   "kelime": "بِيَدِهِۦ",
+   "okunus": "biyedihî",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "elinde bulunan"
+  },
+  {
+   "kelime": "عُقْدَةُ",
+   "okunus": "ukdetü",
+   "kok": "عقد",
+   "kokAnlam": "bağlama, akit",
+   "karsilik": "nikâh bağı"
+  },
+  {
+   "kelime": "ٱلنِّكَاحِ",
+   "okunus": "ennikâhi",
+   "kok": "نكح",
+   "kokAnlam": "evlenme; nikâh",
+   "karsilik": "nikâhın"
+  },
+  {
+   "kelime": "وَأَن",
+   "okunus": "ve en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ve -niz",
+   "karsilik": "ve -niz"
+  },
+  {
+   "kelime": "تَعْفُوٓا۟",
+   "okunus": "ta'fû",
+   "kok": "عفو",
+   "kokAnlam": "affetme, vazgeçme",
+   "karsilik": "vazgeçmeniz"
+  },
+  {
+   "kelime": "أَقْرَبُ",
+   "okunus": "ekrabü",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık",
+   "karsilik": "daha yakındır"
+  },
+  {
+   "kelime": "لِلتَّقْوَىٰ",
+   "okunus": "lilttekvâ",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma; takva",
+   "karsilik": "takvaya"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve ... etmeyin"
+  },
+  {
+   "kelime": "تَنسَوُا۟",
+   "okunus": "tensevü",
+   "kok": "نسي",
+   "kokAnlam": "unutma",
+   "karsilik": "unutmayın"
+  },
+  {
+   "kelime": "ٱلْفَضْلَ",
+   "okunus": "elfadle",
+   "kok": "فضل",
+   "kokAnlam": "üstünlük, iyilik, lütuf",
+   "karsilik": "iyiliği"
+  },
+  {
+   "kelime": "بَيْنَكُمْ",
+   "okunus": "beyneküm",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında olma",
+   "karsilik": "aranızdaki"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) şeyi",
+   "karsilik": "yaptıklarınızı"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma, iş",
+   "karsilik": "yaptığınız"
+  },
+  {
+   "kelime": "بَصِيرٌ",
+   "okunus": "besîrun",
+   "kok": "بصر",
+   "kokAnlam": "görme",
+   "karsilik": "hakkıyla görür"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetten farklı bir durumu ele alır: mehir belirlenmiş ama gerdek yapılmamış bir evlilik boşanırsa, belirlenen mehrin yarısı kadına verilir. Ancak kadın kendi hakkından vazgeçebilir, ya da nikâh bağını elinde tutan koca tam mehri ödeyerek kendi payından vazgeçebilir.",
+  "Ayet, bu iki taraflı vazgeçme imkânını sunduktan sonra, kocanın (ya da genel olarak tarafların) vazgeçmesinin takvaya daha yakın olduğunu söyler; yani hakkını sonuna kadar almak yerine cömert davranmak daha erdemlidir. Klasik tefsir, 'aranızdaki iyiliği unutmayın' ifadesini, ayrılıkta bile güzel hatıraları ve nezaketi korumaya çağıran bir ilke olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:236",
+   "meal": "Kendilerine dokunmadan ya da bir mehir belirlemeden kadınları boşarsanız, size bir sakınca yoktur; onları örfe uygun bir geçimlikle faydalandırın.",
+   "baglanti": "237. ayetin öncesidir; 236. ayet mehir belirlenmemiş durumu, 237. ayet ise mehir belirlenmiş durumu tamamlar."
+  },
+  {
+   "ref": "4:4",
+   "meal": "Kadınlara mehirlerini gönül hoşluğuyla verin; eğer ondan bir kısmını gönül rızasıyla size bağışlarlarsa, onu afiyetle yiyin.",
+   "baglanti": "237. ayetteki mehir hakkının ve gönüllü vazgeçmenin, evlilik içindeki mehir hükmüyle de tutarlı olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, mehir belirlenmiş ama gerdek yapılmamış bir evliliğin boşanmasındaki mehir hükmüdür; bu, evlilik hukukuna özgü bir meseledir.",
+  "Buradan taşınabilecek genel ders, hakkımız olan bir şeyden -özellikle bir ayrılık anında- gönüllü vazgeçmenin daha erdemli bir davranış olduğudur. Sonuna kadar hakkımızı aramak yerine bazen cömertçe geri adım atmak, hem karşı tarafa hem kendi vicdanımıza iyi gelir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hakkından gönüllü vazgeç",
+   "aciklama": "Bugün haklı olduğun küçük bir konuda, ısrar etmek yerine gönüllü olarak geri adım at."
+  },
+  {
+   "baslik": "Güzel hatırayı koru",
+   "aciklama": "Sona eren bir ilişkide veya ortaklıkta, kötü değil iyi anıları hatırlamayı bugün tercih et."
+  },
+  {
+   "baslik": "Cömertliği erdem bil",
+   "aciklama": "Bugün bir alacağını veya hakkını, karşı tarafın durumunu düşünerek yumuşat."
+  }
+ ],
+ "bugununAdimi": "Bugün haklı olduğun küçük bir konuda ısrar etmek yerine, cömertçe geri adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=237"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/237"
+  }
+ ]
+}

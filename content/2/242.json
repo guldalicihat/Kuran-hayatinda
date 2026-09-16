@@ -1,0 +1,103 @@
+{
+ "sure": 2,
+ "ayet": 242,
+ "durum": "taslak",
+ "meal": "Allah size ayetlerini işte böyle açıklar; akledesiniz diye.",
+ "mealNotu": "Bu ayet 219. ayetteki aynı açılış formülünü ('Allah size ayetlerini işte böyle açıklar') tekrarlar; orada 'düşünesiniz' (tefekkür), burada 'akledesiniz' (akıl) fiili kullanılır.",
+ "kokler": [
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "يُبَيِّنُ",
+   "okunus": "yübeyyinü",
+   "kok": "بين",
+   "kokAnlam": "açıklık, açıklama",
+   "karsilik": "açıklar"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "ءَايَٰتِهِۦ",
+   "okunus": "âyâtihî",
+   "kok": "أيي",
+   "kokAnlam": "işaret; ayet",
+   "karsilik": "ayetlerini"
+  },
+  {
+   "kelime": "لَعَلَّكُمْ",
+   "okunus": "lealleküm",
+   "kok": "—",
+   "kokAnlam": "(umut) umulur ki",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "تَعْقِلُونَ",
+   "okunus": "ta'kılûne",
+   "kok": "عقل",
+   "kokAnlam": "akletme, aklını kullanma",
+   "karsilik": "akledesiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, boşanma, nafaka, iddet ve namaz gibi ayrıntılı hükümlerin ardından gelen kısa bir kapanış cümlesidir. Bu hükümlerin keyfi değil, akılla kavranabilir bir düzenin parçası olduğunu hatırlatır.",
+  "Klasik tefsir, bu tür kapanış ayetlerinin, uzun hüküm bölümlerinin ardından bir nefes molası ve konuyu bütünüyle düşünmeye davet olarak geldiğini açıklar. 'Akledesiniz diye' ifadesi, dinî hükümlerin sadece itaat için değil, anlaşılmak ve içselleştirilmek üzere verildiğini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:151",
+   "meal": "İşte size bunları emretti; umulur ki akledersiniz.",
+   "baglanti": "242. ayetteki 'akledesiniz diye' kapanışının, En'âm suresinde benzer bir hüküm listesinin ardından tekrarlanan biçimidir."
+  },
+  {
+   "ref": "2:219",
+   "meal": "Allah size ayetlerini işte böyle açıklar; düşünesiniz diye.",
+   "baglanti": "242. ayetle neredeyse birebir aynı cümle kalıbını taşır; aynı sûrede tekrarlanan bir kapanış formülüdür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, önceki hükümlerin akılla kavranması gerektiğine dair genel bir hatırlatmadır; belirli bir hukuki içeriği yoktur.",
+  "Günlük hayatta bu, bir kuralı sorgulamadan uygulamak yerine, onun amacını anlamaya çalışmanın değerini hatırlatır. Bir şeyi 'öyle denildiği için' değil, 'neden öyle olduğunu anladığım için' yapmak, daha kalıcı bir bağlılık oluşturur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir kuralın mantığını anla",
+   "aciklama": "Bugün uyduğun bir kuralın altında yatan mantığı kendine anlat, ezbere değil anlayarak uygula."
+  },
+  {
+   "baslik": "Düşünmeye zaman ayır",
+   "aciklama": "Yoğun bir günün arasına, sadece düşünmek için birkaç dakika ayır."
+  },
+  {
+   "baslik": "Bir yakınına bir hükmün hikmetini anlat",
+   "aciklama": "Bugün birine, bir kuralın neden var olduğunu, sadece 'böyle' demeden anlat."
+  }
+ ],
+ "bugununAdimi": "Bugün uyduğun bir kuralın veya kararın nedenini kendine yazılı olarak açıkla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=242"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/242"
+  }
+ ]
+}

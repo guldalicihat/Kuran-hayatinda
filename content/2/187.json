@@ -1,0 +1,509 @@
+{
+ "sure": 2,
+ "ayet": 187,
+ "durum": "taslak",
+ "meal": "Oruç gecesi kadınlarınıza yaklaşmak size helal kılındı. Onlar sizin için bir örtü, siz de onlar için bir örtüsünüz. Allah, kendinize [gizlice] ihanet ettiğinizi bildi de tövbenizi kabul etti ve sizi bağışladı. Artık onlara yaklaşın ve Allah'ın sizin için yazdığını arayın. Şafağın beyaz ipliği siyah iplikten ayırt edilinceye kadar yiyin, için; sonra geceye kadar orucu tamamlayın. Mescitlerde itikâfta iken onlara yaklaşmayın. Bunlar Allah'ın sınırlarıdır, onlara yaklaşmayın. Allah, ayetlerini insanlara böyle açıklar; umulur ki sakınırlar.",
+ "mealNotu": "'Libâs' kökü (لبس) örtünmeyi, birbirini tamamlamayı anlatır; 'siz onlar için, onlar sizin için bir örtüsünüz' ifadesi eşler arasındaki karşılıklı korumayı imler. 'Hayt' (iplik) ifadesi mecazi olup şafak vaktinin görünür aydınlanmasını anlatır.",
+ "kokler": [
+  {
+   "kelime": "أُحِلَّ",
+   "okunus": "ühille",
+   "kok": "حلل",
+   "kokAnlam": "çözme, çözülme; helal kılma",
+   "karsilik": "helal kılındı"
+  },
+  {
+   "kelime": "لَكُمُ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "لَيْلَةَ",
+   "okunus": "leylete",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "gecesinde"
+  },
+  {
+   "kelime": "ٱلصِّيَامَ",
+   "okunus": "essıyâmi",
+   "kok": "صوم",
+   "kokAnlam": "kendini alıkoyma, tutunma; oruç",
+   "karsilik": "oruç"
+  },
+  {
+   "kelime": "ٱلرَّفَثُ",
+   "okunus": "errafesü",
+   "kok": "رفث",
+   "kokAnlam": "cinsel yakınlaşma, mahrem söz",
+   "karsilik": "yaklaşmak"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e doğru",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "نِسَآئِكُمْ",
+   "okunus": "nisâiküm",
+   "kok": "نسو",
+   "kokAnlam": "kadın, eş",
+   "karsilik": "kadınlarınıza"
+  },
+  {
+   "kelime": "هُنَّ",
+   "okunus": "hünne",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "لِبَاسٌ",
+   "okunus": "libâsün",
+   "kok": "لبس",
+   "kokAnlam": "örtünme, giyinme",
+   "karsilik": "bir örtüdür"
+  },
+  {
+   "kelime": "لَكُمُ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "وَأَنتُمْ",
+   "okunus": "ve entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve siz",
+   "karsilik": "ve siz"
+  },
+  {
+   "kelime": "لِبَاسٌ",
+   "okunus": "libâsün",
+   "kok": "لبس",
+   "kokAnlam": "örtünme, giyinme",
+   "karsilik": "bir örtüsünüz"
+  },
+  {
+   "kelime": "لَّهُنَّ",
+   "okunus": "lehünne",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar için",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "عَلِمَ",
+   "okunus": "alime",
+   "kok": "علم",
+   "kokAnlam": "bilme, ilim",
+   "karsilik": "bildi"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "أَنَّكُمْ",
+   "okunus": "enneküm",
+   "kok": "—",
+   "kokAnlam": "(tekid) sizin -dığınızı",
+   "karsilik": "sizin -dığınızı"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-makta olduğunuzu"
+  },
+  {
+   "kelime": "تَخْتَانُونَ",
+   "okunus": "tahtânûne",
+   "kok": "خون",
+   "kokAnlam": "hıyanet etme, aldatma",
+   "karsilik": "kendinize ihanet"
+  },
+  {
+   "kelime": "أَنفُسَكُمْ",
+   "okunus": "enfüseküm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "kendinize"
+  },
+  {
+   "kelime": "فَتَابَ",
+   "okunus": "fetâbe",
+   "kok": "توب",
+   "kokAnlam": "dönme, tövbe kabul etme",
+   "karsilik": "artık tövbenizi kabul etti"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizin üzerinize",
+   "karsilik": "sizin"
+  },
+  {
+   "kelime": "وَعَفَا",
+   "okunus": "ve afâ",
+   "kok": "عفو",
+   "kokAnlam": "affetme, bağışlama",
+   "karsilik": "ve bağışladı"
+  },
+  {
+   "kelime": "عَنكُمْ",
+   "okunus": "anküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizden",
+   "karsilik": "sizi"
+  },
+  {
+   "kelime": "فَٱلْـَٰٔنَ",
+   "okunus": "fel âne",
+   "kok": "أون",
+   "kokAnlam": "şimdiki an",
+   "karsilik": "artık şimdi"
+  },
+  {
+   "kelime": "بَٰشِرُوهُنَّ",
+   "okunus": "bâşirûhünne",
+   "kok": "بشر",
+   "kokAnlam": "temas etme, yakınlaşma",
+   "karsilik": "onlara yaklaşın"
+  },
+  {
+   "kelime": "وَٱبْتَغُوا۟",
+   "okunus": "vebteğû",
+   "kok": "بغي",
+   "kokAnlam": "isteme, arama",
+   "karsilik": "ve arayın"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "كَتَبَ",
+   "okunus": "ketebe",
+   "kok": "كتب",
+   "kokAnlam": "yazma",
+   "karsilik": "yazdığı"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "لَكُمُ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "وَكُلُوا۟",
+   "okunus": "ve külû",
+   "kok": "أكل",
+   "kokAnlam": "yeme",
+   "karsilik": "ve yiyin"
+  },
+  {
+   "kelime": "وَٱشْرَبُوا۟",
+   "okunus": "veşrabû",
+   "kok": "شرب",
+   "kokAnlam": "içme",
+   "karsilik": "ve için"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "يَتَبَيَّنَ",
+   "okunus": "yetebeyyene",
+   "kok": "بين",
+   "kokAnlam": "açıklık, ayrım; ayırt olma",
+   "karsilik": "ayırt edilinceye"
+  },
+  {
+   "kelime": "لَكُمُ",
+   "okunus": "lekümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "ٱلْخَيْطِ",
+   "okunus": "elhaytu",
+   "kok": "خيط",
+   "kokAnlam": "iplik",
+   "karsilik": "iplik"
+  },
+  {
+   "kelime": "ٱلْأَبْيَضُ",
+   "okunus": "el'ebyedu",
+   "kok": "بيض",
+   "kokAnlam": "beyazlık",
+   "karsilik": "beyaz"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْخَيْطِ",
+   "okunus": "elhaytı",
+   "kok": "خيط",
+   "kokAnlam": "iplik",
+   "karsilik": "iplikten"
+  },
+  {
+   "kelime": "ٱلْأَسْوَدِ",
+   "okunus": "el'esvedi",
+   "kok": "سود",
+   "kokAnlam": "siyahlık",
+   "karsilik": "siyah"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْفَجْرِ",
+   "okunus": "elfecri",
+   "kok": "فجر",
+   "kokAnlam": "yarılma, çatlama; şafak",
+   "karsilik": "şafağın"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "أَتِمُّوا۟",
+   "okunus": "etimmû",
+   "kok": "تمم",
+   "kokAnlam": "tamamlama, eksiksiz kılma",
+   "karsilik": "tamamlayın"
+  },
+  {
+   "kelime": "ٱلصِّيَامَ",
+   "okunus": "essıyâme",
+   "kok": "صوم",
+   "kokAnlam": "kendini alıkoyma, tutunma; oruç",
+   "karsilik": "orucu"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "ٱلَّيْلِ",
+   "okunus": "elleyli",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "geceye"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve -meyin"
+  },
+  {
+   "kelime": "تُبَٰشِرُوهُنَّ",
+   "okunus": "tübâşirûhünne",
+   "kok": "بشر",
+   "kokAnlam": "temas etme, yakınlaşma",
+   "karsilik": "onlara yaklaşmayın"
+  },
+  {
+   "kelime": "وَأَنتُمْ",
+   "okunus": "ve entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz iken",
+   "karsilik": "siz iken"
+  },
+  {
+   "kelime": "عَٰكِفُونَ",
+   "okunus": "âkifûne",
+   "kok": "عكف",
+   "kokAnlam": "bir yerde kalma, adanma; itikâf",
+   "karsilik": "itikâfta"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْمَسَٰجِدِ",
+   "okunus": "elmesâcidi",
+   "kok": "سجد",
+   "kokAnlam": "secde etme; mescit",
+   "karsilik": "mescitlerde"
+  },
+  {
+   "kelime": "تِلْكَ",
+   "okunus": "tilke",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bunlar",
+   "karsilik": "işte bunlar"
+  },
+  {
+   "kelime": "حُدُودُ",
+   "okunus": "hudûdü",
+   "kok": "حدد",
+   "kokAnlam": "sınır belirleme, sınır",
+   "karsilik": "sınırlarıdır"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) artık -meyin",
+   "karsilik": "artık -meyin"
+  },
+  {
+   "kelime": "تَقْرَبُوهَا",
+   "okunus": "tekrabûhâ",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık",
+   "karsilik": "ona yaklaşmayın"
+  },
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "يُبَيِّنُ",
+   "okunus": "yübeyyinü",
+   "kok": "بين",
+   "kokAnlam": "açıklık, ayrım; açıklama",
+   "karsilik": "açıklar"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ءَايَٰتِهِۦ",
+   "okunus": "âyâtihî",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil; ayet",
+   "karsilik": "ayetlerini"
+  },
+  {
+   "kelime": "لِلنَّاسِ",
+   "okunus": "lilnnâsi",
+   "kok": "أنس",
+   "kokAnlam": "ünsiyet, insan; insanlar",
+   "karsilik": "insanlara"
+  },
+  {
+   "kelime": "لَعَلَّهُمْ",
+   "okunus": "leallehüm",
+   "kok": "—",
+   "kokAnlam": "(tekid) umulur ki onlar",
+   "karsilik": "umulur ki"
+  },
+  {
+   "kelime": "يَتَّقُونَ",
+   "okunus": "yettekûne",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "sakınırlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, orucun ilk yıllarında bazı müminlerin gece uykuya yattıktan sonra kendilerine yediceklerini, içeceklerini ve eşlerine yaklaşmayı yasak sayıp bu konuda güçlük çektiğini; ayetin bu güçlüğü kaldırdığını anlatır. Eşler arasındaki yakınlık 'örtü' benzetmesiyle, karşılıklı koruma ve tamamlama olarak tasvir edilir.",
+  "Ayet, oruç vaktinin sınırlarını da netleştirir: şafağın görünmesine kadar yiyip içmek, geceye kadar orucu tamamlamak ve itikâfta eşe yaklaşmamak. Klasik tefsir bu ayeti, hem bir kolaylaştırma hem de net sınırlar koyarak ibadetin disiplinini koruma olarak açıklar; 'Allah'ın sınırlarına yaklaşmayın' ifadesi bu sınırların önemsendiğini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:183",
+   "meal": "Ey iman edenler! Sizden öncekilere farz kılındığı gibi, oruç size de farz kılındı; umulur ki sakınırsınız.",
+   "baglanti": "Orucun farz kılınışından sonra bu ayet, uygulamadaki bir güçlüğü kaldırarak ibadeti kolaylaştırır."
+  },
+  {
+   "ref": "30:21",
+   "meal": "Kendileriyle huzur bulasınız diye sizin için kendi türünüzden eşler yaratması ve aranıza sevgi ile merhamet koyması, O'nun ayetlerindendir.",
+   "baglanti": "Rûm suresindeki bu ayet, eşler arasındaki yakınlığı 'huzur' ve 'sevgi' ile anlatarak 187. ayetteki 'örtü' benzetmesini tamamlayan bir bakış sunar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, oruç sırasında eşler arası yakınlığın hükmü ve orucun zaman sınırlarıdır; bu belirli bir ibadete dair özel hükümlerdir.",
+  "Genel ders olarak, bir kuralın hem kolaylaştırıcı hem sınır koyucu olabileceği görülür; güçlük fark edildiğinde düzeltilir, ama sınırsızlık da tanınmaz. Eşler arasındaki 'örtü' benzetmesi ise, yakın ilişkilerde karşılıklı koruma ve tamamlama fikrini günlük hayata taşınabilecek bir imge olarak sunar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yakınındakini 'örtün' bil",
+   "aciklama": "Bugün eşine veya yakınına, onun eksiğini örten, destekleyen bir davranış göster."
+  },
+  {
+   "baslik": "Bir güçlüğü fark edip düzelt",
+   "aciklama": "Uyguladığın bir kuralda gereksiz katılık varsa, bunu makul bir sınıra çek."
+  },
+  {
+   "baslik": "Zaman sınırına dikkat et",
+   "aciklama": "Bugün bir işin başlama ve bitiş zamanını net olarak belirle ve ona uy."
+  }
+ ],
+ "bugununAdimi": "Bugün, yakınındaki birine 'örtü' gibi davranarak onun bir eksiğini nazikçe kapat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=187"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/187"
+  }
+ ]
+}

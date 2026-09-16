@@ -1,0 +1,355 @@
+{
+ "sure": 2,
+ "ayet": 164,
+ "durum": "taslak",
+ "meal": "Şüphesiz göklerin ve yerin yaratılışında, gece ile gündüzün birbiri ardınca gelişinde, insanlara yarar sağlayan şeylerle denizde akıp giden gemilerde, Allah'ın gökten indirip kendisiyle yeryüzünü ölümünden sonra dirilttiği suda, orada her türlü canlıyı yaymasında, rüzgârları ve gökle yer arasında emre hazır bekleyen bulutları yönlendirmesinde, akıl eden bir topluluk için elbette deliller vardır.",
+ "mealNotu": "Bu uzun ayet, birçok yaratılış delilini tek cümlede birleştirir; meal akışı bozulmadan tüm unsurlar sırayla verildi. 'Ya'kılûn' fiili عقل, aklı kullanıp bağlantı kurmayı anlatır; 'akıl eden' bunu karşılar.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "خَلْقِ",
+   "okunus": "halkı",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yaratılışında"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gökyüzü",
+   "karsilik": "göklerin"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yerin"
+  },
+  {
+   "kelime": "وَٱخْتِلَٰفِ",
+   "okunus": "vehtilâfi",
+   "kok": "خلف",
+   "kokAnlam": "arkada kalma, ayrılık, farklılık",
+   "karsilik": "ve farklılığında"
+  },
+  {
+   "kelime": "ٱلَّيْلِ",
+   "okunus": "elleyli",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "gecenin"
+  },
+  {
+   "kelime": "وَٱلنَّهَارِ",
+   "okunus": "ven nehâri",
+   "kok": "نهر",
+   "kokAnlam": "akış, aydınlık; gündüz",
+   "karsilik": "ve gündüzün"
+  },
+  {
+   "kelime": "وَٱلْفُلْكِ",
+   "okunus": "vel fülki",
+   "kok": "فلك",
+   "kokAnlam": "gemi, dönen şey",
+   "karsilik": "ve gemilerde"
+  },
+  {
+   "kelime": "ٱلَّتِى",
+   "okunus": "elletî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki o",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "تَجْرِى",
+   "okunus": "tecrî",
+   "kok": "جري",
+   "kokAnlam": "akma, yürüme",
+   "karsilik": "akıp giden"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْبَحْرِ",
+   "okunus": "elbahri",
+   "kok": "بحر",
+   "kokAnlam": "deniz",
+   "karsilik": "denizde"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyle",
+   "karsilik": "şeyle"
+  },
+  {
+   "kelime": "يَنفَعُ",
+   "okunus": "yenfeu",
+   "kok": "نفع",
+   "kokAnlam": "fayda verme",
+   "karsilik": "yarar sağlayan"
+  },
+  {
+   "kelime": "ٱلنَّاسَ",
+   "okunus": "ennâse",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet",
+   "karsilik": "insanlara"
+  },
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şeyde",
+   "karsilik": "ve şeyde"
+  },
+  {
+   "kelime": "أَنزَلَ",
+   "okunus": "enzele",
+   "kok": "نزل",
+   "kokAnlam": "inme, indirme",
+   "karsilik": "indirdiği"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah; özel ad Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gökyüzü",
+   "karsilik": "gökten"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "مَّآءٍ",
+   "okunus": "mâin",
+   "kok": "موه",
+   "kokAnlam": "su",
+   "karsilik": "su"
+  },
+  {
+   "kelime": "فَأَحْيَا",
+   "okunus": "feahyâ",
+   "kok": "حيي",
+   "kokAnlam": "canlı olma, hayat",
+   "karsilik": "ve dirilttiği"
+  },
+  {
+   "kelime": "بِهِ",
+   "okunus": "bihi",
+   "kok": "—",
+   "kokAnlam": "(zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "ٱلْأَرْضَ",
+   "okunus": "el'erda",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yeryüzünü"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonra olma",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مَوْتِهَا",
+   "okunus": "mevtihâ",
+   "kok": "موت",
+   "kokAnlam": "ölme, ölüm",
+   "karsilik": "ölümünden"
+  },
+  {
+   "kelime": "وَبَثَّ",
+   "okunus": "ve besse",
+   "kok": "بثث",
+   "kokAnlam": "yayma, dağıtma",
+   "karsilik": "ve yaydığı"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) orada",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "كُلِّ",
+   "okunus": "külli",
+   "kok": "كلل",
+   "kokAnlam": "hep, bütün, her biri",
+   "karsilik": "her türlü"
+  },
+  {
+   "kelime": "دَآبَّةٍ",
+   "okunus": "dâbbetin",
+   "kok": "دبب",
+   "kokAnlam": "yürüyen canlı, hayvan",
+   "karsilik": "canlıyı"
+  },
+  {
+   "kelime": "وَتَصْرِيفِ",
+   "okunus": "ve tasrîfi",
+   "kok": "صرف",
+   "kokAnlam": "çevirme, yönlendirme",
+   "karsilik": "ve yönlendirmesinde"
+  },
+  {
+   "kelime": "ٱلرِّيَٰحِ",
+   "okunus": "erriyâhi",
+   "kok": "روح",
+   "kokAnlam": "esinti, rüzgâr, ruh",
+   "karsilik": "rüzgârları"
+  },
+  {
+   "kelime": "وَٱلسَّحَابِ",
+   "okunus": "ves sehâbi",
+   "kok": "سحب",
+   "kokAnlam": "sürükleme, bulut",
+   "karsilik": "ve bulutları"
+  },
+  {
+   "kelime": "ٱلْمُسَخَّرِ",
+   "okunus": "elmüsehhari",
+   "kok": "سخر",
+   "kokAnlam": "boyun eğdirilmiş, emre hazır",
+   "karsilik": "emre hazır bekleyen"
+  },
+  {
+   "kelime": "بَيْنَ",
+   "okunus": "beyne",
+   "kok": "بين",
+   "kokAnlam": "ara, aralık",
+   "karsilik": "arasında"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gökyüzü",
+   "karsilik": "gökle"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yer"
+  },
+  {
+   "kelime": "لَءَايَٰتٍ",
+   "okunus": "leâyâtin",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet; ayet, delil",
+   "karsilik": "elbette deliller vardır"
+  },
+  {
+   "kelime": "لِّقَوْمٍ",
+   "okunus": "likavmin",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk, kavim",
+   "karsilik": "bir topluluk için"
+  },
+  {
+   "kelime": "يَعْقِلُونَ",
+   "okunus": "ya'kılûne",
+   "kok": "عقل",
+   "kokAnlam": "aklı kullanma, bağ kurma",
+   "karsilik": "akıl eden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 163. ayette bildirilen tevhid iddiasını (Allah'ın tek ilah olması) somut delillerle destekler. Göklerin ve yerin yaratılışı, gece-gündüz döngüsü, denizde yol alan gemiler, gökten inen ve yeryüzünü canlandıran su, rüzgârların ve bulutların yönlendirilmesi; hepsi bu birliğin işaretleri olarak sıralanır.",
+  "Ayetin sonundaki 'akıl eden bir topluluk için' ifadesi, bu delillerin görülmesinin yalnız gözle bakmakla değil, düşünerek bağlantı kurmakla mümkün olduğunu vurgular. Klasik tefsir, bu ayeti Kur'an'ın en kapsamlı 'evrendeki delil' ayetlerinden biri sayar; benzer bir liste Âl-i İmran suresinde de tekrarlanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:190",
+   "meal": "Göklerin ve yerin yaratılışında, gece ile gündüzün birbiri ardınca gelişinde, akıl sahipleri için elbette deliller vardır.",
+   "baglanti": "Aynı iki delil -yaratılış ve gece-gündüz farkı- burada da tekrarlanır; 'akıl sahipleri' ifadesi 164. ayetteki 'akıl eden topluluk' ile örtüşür."
+  },
+  {
+   "ref": "16:65",
+   "meal": "Allah, gökten su indirdi de onunla yeryüzünü ölümünden sonra diriltti. Şüphesiz bunda, dinleyen bir topluluk için elbette bir ibret vardır.",
+   "baglanti": "Yağmurla yeryüzünün dirilmesi teması burada da işlenir; her iki ayet de tabiattaki bu döngüyü bir delil olarak sunar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan evrendeki düzenin Allah'ın varlığına ve birliğine işaret ettiğidir. Günlük hayata taşınabilecek ders, sıradan görülen doğa olaylarının (yağmur, rüzgâr, gece-gündüz) aslında düşünmeye değer birer işaret olduğudur.",
+  "İnsan günlük telaşında doğayı sıradanlaştırıp fark etmeden yaşayabilir. Bu ayet, bir yağmur damlasından bir bulut hareketine kadar her şeyin, durup düşünen biri için bir ibret taşıdığını hatırlatır; gözlem ve düşünme, imanı besleyen bir alışkanlıktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğayı gözlemle",
+   "aciklama": "Bugün gökyüzüne, rüzgâra veya bir bitkiye birkaç dakika dikkatle bak ve düşün."
+  },
+  {
+   "baslik": "Bir şükür listesi yap",
+   "aciklama": "Bugün doğadan yararlandığın üç şeyi (su, hava, güneş gibi) yaz ve şükret."
+  },
+  {
+   "baslik": "Düşünerek bak",
+   "aciklama": "Bugün sıradan gördüğün bir olayı (gün batımı gibi) yeniden, ilk kez görüyormuş gibi izle."
+  }
+ ],
+ "bugununAdimi": "Bugün gökyüzüne veya doğaya birkaç dakika dikkatle bak ve gördüklerin üzerine düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=164"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/164"
+  }
+ ]
+}

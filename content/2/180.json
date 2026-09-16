@@ -1,0 +1,166 @@
+{
+ "sure": 2,
+ "ayet": 180,
+ "durum": "taslak",
+ "meal": "Sizden birine ölüm geldiğinde, eğer bir hayır (mal) bırakıyorsa, anne-babaya ve yakınlara uygun biçimde vasiyette bulunması size farz kılındı. Bu, takva sahipleri üzerine bir haktır.",
+ "mealNotu": "'Hayr' kelimesi burada 'mal, servet' anlamında kullanılmıştır; kelimenin asıl anlamı 'iyilik'tir ama bağlamda mala işaret eder. 'Ma'rûf' örfe uygun, iyi bilineni ifade eder.",
+ "kokler": [
+  {
+   "kelime": "كُتِبَ",
+   "okunus": "kütibe",
+   "kok": "كتب",
+   "kokAnlam": "yazma; farz kılma",
+   "karsilik": "farz kılındı"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinize",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "geldiğinde"
+  },
+  {
+   "kelime": "حَضَرَ",
+   "okunus": "hadara",
+   "kok": "حضر",
+   "kokAnlam": "hazır olma, gelip çatma",
+   "karsilik": "geldiğinde"
+  },
+  {
+   "kelime": "أَحَدَكُمُ",
+   "okunus": "ehadekümü",
+   "kok": "أحد",
+   "kokAnlam": "birlik, bir; biriniz",
+   "karsilik": "birinize"
+  },
+  {
+   "kelime": "ٱلْمَوْتُ",
+   "okunus": "elmevtü",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölüm"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَرَكَ",
+   "okunus": "terake",
+   "kok": "ترك",
+   "kokAnlam": "bırakma, terk etme",
+   "karsilik": "bırakıyorsa"
+  },
+  {
+   "kelime": "خَيْرًا",
+   "okunus": "hayran",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır; mal",
+   "karsilik": "bir mal"
+  },
+  {
+   "kelime": "ٱلْوَصِيَّةُ",
+   "okunus": "elvesıyyetü",
+   "kok": "وصي",
+   "kokAnlam": "emanet bırakma, vasiyet",
+   "karsilik": "vasiyette bulunması"
+  },
+  {
+   "kelime": "لِلْوَٰلِدَيْنِ",
+   "okunus": "lilvâlideyni",
+   "kok": "ولد",
+   "kokAnlam": "doğurma, çocuk; ebeveyn",
+   "karsilik": "anne-babaya"
+  },
+  {
+   "kelime": "وَٱلْأَقْرَبِينَ",
+   "okunus": "vel ekrabîne",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık",
+   "karsilik": "ve yakınlara"
+  },
+  {
+   "kelime": "بِٱلْمَعْرُوفِ",
+   "okunus": "bil ma'rûfi",
+   "kok": "عرف",
+   "kokAnlam": "bilme, tanıma; örfe uygun olan",
+   "karsilik": "uygun biçimde"
+  },
+  {
+   "kelime": "حَقًّا",
+   "okunus": "hakkan",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, doğruluk, hak",
+   "karsilik": "bir haktır"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلْمُتَّقِينَ",
+   "okunus": "elmüttekîne",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma; takva",
+   "karsilik": "takva sahipleri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kısas hükmünden sonra ayet, ölüm hâlinde mal bırakma konusuna geçer. Kişinin, geride mal bırakıyorsa anne-babası ve yakınları için uygun biçimde vasiyette bulunması bir yükümlülük olarak bildirilir.",
+  "Klasik tefsire göre bu ayet, miras hükümlerinin (bkz. Nisâ suresi) belirlenmesinden önceki bir dönemi yansıtır; miras payları netleştikten sonra vasiyet hükmünün kapsamı da buna göre şekillenmiştir. Bu yüzden ayetin güncel hukuki uygulaması, sonraki ayetlerle birlikte değerlendirilir ve burada kesin bir hüküm gibi sunulmaz."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:181",
+   "meal": "Kim onu (vasiyeti), işittikten sonra değiştirirse, günahı ancak onu değiştirenler üzerinedir.",
+   "baglanti": "Hemen sonraki ayet, vasiyetin doğru biçimde uygulanmasının sorumluluğunu netleştirir."
+  },
+  {
+   "ref": "4:11",
+   "meal": "Allah size, çocuklarınız hakkında, erkeğe iki kadın payı kadar [pay] tavsiye eder...",
+   "baglanti": "Nisâ suresindeki miras ayetleri, Bakara 180'de bahsedilen vasiyet konusunu daha ayrıntılı hükümlerle tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu özel bir hukuk alanıdır: vasiyet ve miras. Bu, dönemin şartlarına göre şekillenmiş, sonraki ayetlerle tamamlanan bir düzenlemedir; güncel hukuki ayrıntılar burada kesin biçimde ele alınmaz.",
+  "Genel ders olarak, ölüm gibi kaçınılmaz bir gerçeği düşünüp geride kalanlar için düzeni önceden kurmanın önemi çıkarılabilir. Vasiyet veya miras planlaması yapmak, geride kalanlara karşı bir sorumluluk bilincidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önemli bir düzeni ertelemeyi bırak",
+   "aciklama": "Ailen için önemli olan ama ertelediğin bir düzenlemeyi (belge, sözlü anlaşma) bugün konuş."
+  },
+  {
+   "baslik": "Yakınlarınla açık ol",
+   "aciklama": "Geleceğe dair bir konuda ailenle net bir konuşma yap, belirsizliği azalt."
+  },
+  {
+   "baslik": "Sorumluluğunu yaz",
+   "aciklama": "Geride bırakacağın bir emaneti (bilgi, eşya, görev) kime nasıl aktaracağını not et."
+  }
+ ],
+ "bugununAdimi": "Bugün, ailenle konuşmayı ertelediğin bir düzenleme konusunu açmaya karar ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=180"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/180"
+  }
+ ]
+}

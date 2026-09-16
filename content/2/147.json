@@ -1,0 +1,103 @@
+{
+ "sure": 2,
+ "ayet": 147,
+ "durum": "taslak",
+ "meal": "Hak, Rabbindendir; artık sakın şüphecilerden olma.",
+ "mealNotu": "'Mümterîn' kökü مري, şüphe ve tartışmayı anlatır; 'şüpheciler' bunu karşılar. Kısa ve doğrudan bir hitap cümlesidir.",
+ "kokler": [
+  {
+   "kelime": "ٱلْحَقُّ",
+   "okunus": "elhakku",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, sabit olma; hak",
+   "karsilik": "hak"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّكَ",
+   "okunus": "rabbike",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbindendir"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) artık ...ma",
+   "karsilik": "artık ...ma"
+  },
+  {
+   "kelime": "تَكُونَنَّ",
+   "okunus": "tekûnenne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "sakın olma"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُمْتَرِينَ",
+   "okunus": "elmümterîne",
+   "kok": "مري",
+   "kokAnlam": "şüphe etme, tartışma",
+   "karsilik": "şüphecilerden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerde anlatılan kıble değişikliği ve Kitap Ehli'nin bilerek hakkı gizlemesi konularının ardından kısa ve net bir hatırlatma yapar: gelen bilgi, Rabden gelen haktır, bu konuda şüpheye kapılmamak gerekir.",
+  "'Sakın şüphecilerden olma' ifadesi doğrudan Peygamber'e yönelse de, klasik tefsir bu tür hitapların aslında bütün müminler için geçerli bir ilke olduğunu belirtir. Kısa oluşu, mesajın gücünü artırır; uzun açıklamalardan sonra gelen özlü bir sonuç cümlesidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:60",
+   "meal": "Gerçek, Rabbindendir; öyleyse şüphe edenlerden olma.",
+   "baglanti": "Neredeyse aynı ifade, Kur'an'da başka bir bağlamda (İsa hakkındaki tartışma) da tekrarlanır; bu, vahyin kesinliğine dair tekrarlanan bir hatırlatmadır."
+  },
+  {
+   "ref": "2:144",
+   "meal": "Kendilerine Kitap verilenler, bunun Rablerinden gelen hak olduğunu elbette bilirler.",
+   "baglanti": "Kıble değişikliğinin 'hak' oluşu 144. ayette de vurgulanmıştı; 147. ayet bunu kısa bir hatırlatmayla pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan vahyin kesinliğine dair bir uyarıdır. Günlük hayata taşınabilecek ders, doğru bilgiye ulaştıktan sonra gereksiz şüpheyle kararsız kalmamak, o bilgiye güvenerek hareket etmektir.",
+  "İnsan bazen elindeki net bilgiye rağmen, başkalarının itirazları karşısında kararsızlığa düşebilir. Bu ayet, sağlam bir temele dayanan bilgiye güvenip şüpheyle vakit kaybetmemenin önemini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kararsızlığı bırak",
+   "aciklama": "Bugün emin olduğun bir konuda, gereksiz şüpheyle vakit kaybetmeden karar ver."
+  },
+  {
+   "baslik": "Güvenini pekiştir",
+   "aciklama": "Bugün doğru bildiğin bir değeri, kısa bir cümleyle kendine tekrar et."
+  },
+  {
+   "baslik": "Net konuş",
+   "aciklama": "Bugün bir konuda net olduğun hâlde çekingen konuştuğun bir anı fark edip düzelt."
+  }
+ ],
+ "bugununAdimi": "Bugün emin olduğun bir konuda, gereksiz şüpheyle vakit kaybetmeden karar ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=147"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/147"
+  }
+ ]
+}

@@ -1,0 +1,474 @@
+{
+ "sure": 2,
+ "ayet": 249,
+ "durum": "taslak",
+ "meal": "Talut ordularla yola çıktığında dedi ki: 'Allah sizi bir nehirle sınayacaktır. Kim ondan içerse benden değildir; kim onu tatmazsa işte o bendendir; yalnız eliyle bir avuç dolusu alan başka.' Ama içlerinden az bir kısmı hariç, ondan içtiler. O ve beraberindeki iman edenler nehri geçtiğinde, dediler ki: 'Bugün bizim Calut'a ve ordusuna karşı gücümüz yok.' Allah'a kavuşacaklarını kesinlikle bilenler ise dediler ki: 'Nice az bir topluluk, Allah'ın izniyle çok bir topluluğa galip gelmiştir. Allah sabredenlerle beraberdir.'",
+ "mealNotu": "Bu ayette 'ibtilâ' (sınama) kökü kullanılır; nehir suyu, ordunun disiplinini ve sabrını ölçen bir sınav aracı olur. 'Yezunnûne' fiili burada şüpheli sanma değil, kesin bir bilgiyle inanmayı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "فَلَمَّا",
+   "okunus": "felemmâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) ne zaman ki",
+   "karsilik": "ne zaman ki"
+  },
+  {
+   "kelime": "فَصَلَ",
+   "okunus": "fesale",
+   "kok": "فصل",
+   "kokAnlam": "ayrılma, yola çıkma",
+   "karsilik": "yola çıktığında"
+  },
+  {
+   "kelime": "طَالُوتُ",
+   "okunus": "tâlûtü",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Talut",
+   "karsilik": "Talut"
+  },
+  {
+   "kelime": "بِٱلْجُنُودِ",
+   "okunus": "bil cünûdi",
+   "kok": "جند",
+   "kokAnlam": "ordu",
+   "karsilik": "ordularla"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مُبْتَلِيكُم",
+   "okunus": "mübtelîküm",
+   "kok": "بلو",
+   "kokAnlam": "sınama, deneme",
+   "karsilik": "sizi sınayacaktır"
+  },
+  {
+   "kelime": "بِنَهَرٍ",
+   "okunus": "bineherin",
+   "kok": "نهر",
+   "kokAnlam": "nehir",
+   "karsilik": "bir nehirle"
+  },
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(şart) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "شَرِبَ",
+   "okunus": "şeribe",
+   "kok": "شرب",
+   "kokAnlam": "içme",
+   "karsilik": "içerse"
+  },
+  {
+   "kelime": "مِنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "فَلَيْسَ",
+   "okunus": "feleyse",
+   "kok": "ليس",
+   "kokAnlam": "olmama",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "مِنِّىٓ",
+   "okunus": "minnî",
+   "kok": "—",
+   "kokAnlam": "benden",
+   "karsilik": "benden"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-mezse"
+  },
+  {
+   "kelime": "يَطْعَمْهُ",
+   "okunus": "yat'amhü",
+   "kok": "طعم",
+   "kokAnlam": "tatma, tadına bakma",
+   "karsilik": "onu tatmazsa"
+  },
+  {
+   "kelime": "فَإِنَّهُۥ",
+   "okunus": "feinnehû",
+   "kok": "—",
+   "kokAnlam": "(tekid) o zaman şüphesiz o",
+   "karsilik": "o zaman şüphesiz o"
+  },
+  {
+   "kelime": "مِنِّىٓ",
+   "okunus": "minnî",
+   "kok": "—",
+   "kokAnlam": "benden",
+   "karsilik": "bendendir"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "meni",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "ٱغْتَرَفَ",
+   "okunus": "igterafe",
+   "kok": "غرف",
+   "kokAnlam": "avuçlama, kepçeyle alma",
+   "karsilik": "avuçlayıp alırsa"
+  },
+  {
+   "kelime": "غُرْفَةًۢ",
+   "okunus": "gurfetem",
+   "kok": "غرف",
+   "kokAnlam": "avuç dolusu",
+   "karsilik": "bir avuç dolusu"
+  },
+  {
+   "kelime": "بِيَدِهِۦ",
+   "okunus": "biyedihî",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "eliyle"
+  },
+  {
+   "kelime": "فَشَرِبُوا۟",
+   "okunus": "feşeribû",
+   "kok": "شرب",
+   "kokAnlam": "içme",
+   "karsilik": "içtiler"
+  },
+  {
+   "kelime": "مِنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) hariç",
+   "karsilik": "hariç"
+  },
+  {
+   "kelime": "قَلِيلًا",
+   "okunus": "kalîlen",
+   "kok": "قلل",
+   "kokAnlam": "azlık",
+   "karsilik": "az bir kısmı"
+  },
+  {
+   "kelime": "مِّنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "فَلَمَّا",
+   "okunus": "felemmâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) ne zaman ki",
+   "karsilik": "ne zaman ki"
+  },
+  {
+   "kelime": "جَاوَزَهُۥ",
+   "okunus": "câvezehû",
+   "kok": "جوز",
+   "kokAnlam": "geçme, aşma",
+   "karsilik": "onu geçtiğinde"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ve kimseler",
+   "karsilik": "ve kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "مَعَهُۥ",
+   "okunus": "meahû",
+   "kok": "—",
+   "kokAnlam": "onunla beraber",
+   "karsilik": "onunla beraber"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "طَاقَةَ",
+   "okunus": "tâkate",
+   "kok": "طوق",
+   "kokAnlam": "güç, takat",
+   "karsilik": "gücümüz"
+  },
+  {
+   "kelime": "لَنَا",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "bize",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "ٱلْيَوْمَ",
+   "okunus": "elyevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bugün"
+  },
+  {
+   "kelime": "بِجَالُوتَ",
+   "okunus": "bicâlûte",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Calut",
+   "karsilik": "Calut'a karşı"
+  },
+  {
+   "kelime": "وَجُنُودِهِۦ",
+   "okunus": "ve cünûdihî",
+   "kok": "جند",
+   "kokAnlam": "ordu",
+   "karsilik": "ve ordusuna"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "يَظُنُّونَ",
+   "okunus": "yezunnûne",
+   "kok": "ظنن",
+   "kokAnlam": "sanma; kesin kanaat taşıma",
+   "karsilik": "kesinlikle bilenler"
+  },
+  {
+   "kelime": "أَنَّهُم",
+   "okunus": "ennehüm",
+   "kok": "—",
+   "kokAnlam": "(tekid) kendilerinin",
+   "karsilik": "kendilerinin"
+  },
+  {
+   "kelime": "مُّلَٰقُوا۟",
+   "okunus": "mülâkû",
+   "kok": "لقي",
+   "kokAnlam": "kavuşma, karşılaşma",
+   "karsilik": "kavuşacaklarını"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "كَم",
+   "okunus": "kem",
+   "kok": "—",
+   "kokAnlam": "(soru) nice",
+   "karsilik": "nice"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "فِئَةً",
+   "okunus": "fietin",
+   "kok": "فأي",
+   "kokAnlam": "topluluk, grup",
+   "karsilik": "topluluk"
+  },
+  {
+   "kelime": "قَلِيلَةٍ",
+   "okunus": "kalîletin",
+   "kok": "قلل",
+   "kokAnlam": "azlık",
+   "karsilik": "az"
+  },
+  {
+   "kelime": "غَلَبَتْ",
+   "okunus": "galebet",
+   "kok": "غلب",
+   "kokAnlam": "üstün gelme, yenme",
+   "karsilik": "galip geldi"
+  },
+  {
+   "kelime": "فِئَةً",
+   "okunus": "fieten",
+   "kok": "فأي",
+   "kokAnlam": "topluluk, grup",
+   "karsilik": "topluluğa"
+  },
+  {
+   "kelime": "كَثِيرَةًۢ",
+   "okunus": "kesîratem",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "çok"
+  },
+  {
+   "kelime": "بِإِذْنِ",
+   "okunus": "biizni",
+   "kok": "أذن",
+   "kokAnlam": "izin verme",
+   "karsilik": "izniyle"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مَعَ",
+   "okunus": "mea",
+   "kok": "—",
+   "kokAnlam": "beraber",
+   "karsilik": "beraberdir"
+  },
+  {
+   "kelime": "ٱلصَّٰبِرِينَ",
+   "okunus": "essâbirîne",
+   "kok": "صبر",
+   "kokAnlam": "tutma, dayanma; sabredenler",
+   "karsilik": "sabredenlerle"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Talut'un ordusunu bir nehirle sınamasını anlatır: susuzluğa dayanabilenler onunla kalacak, hemen içenler ise elenecektir. Bu sınav, orduyu disiplin ve sabır bakımından ayıklar; büyük çoğunluk sınavı geçemez, sadece küçük bir grup nehri geçer.",
+  "Nehri geçenler bile Calut'un büyük ordusu karşısında tereddüde düşer, ama Allah'a kavuşacaklarına kesin olarak inananlar, sayının değil Allah'ın izninin belirleyici olduğunu hatırlatan meşhur sözü söyler: nice az bir topluluk çok bir topluluğa galip gelmiştir. Klasik tefsir bu kıssayı, sabır ve iman gücünün sayısal üstünlükten daha belirleyici olduğuna dair güçlü bir örnek olarak aktarır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "8:65",
+   "meal": "Ey Peygamber! Müminleri savaşa teşvik et. Sizden sabırlı yirmi kişi olursa iki yüz kişiye galip gelirler; sizden yüz kişi olursa bin kişiye galip gelirler.",
+   "baglanti": "249. ayetteki 'nice az topluluk çok topluluğa galip gelmiştir' ilkesini, somut sayısal örneklerle açıklar."
+  },
+  {
+   "ref": "3:146",
+   "meal": "Nice peygamberle beraber birçok Allah dostu savaştı; Allah yolunda başlarına gelenlerden yılmadılar, zaaf göstermediler. Allah sabredenleri sever.",
+   "baglanti": "249. ayetteki 'Allah sabredenlerle beraberdir' ifadesini, sebat gösteren mümin topluluklarının ortak özelliği olarak pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, tarihî bir savaş öncesi disiplin sınavıdır; bu, özel bir askerî ve tarihî bağlamdır.",
+  "Buradan çıkarılabilecek genel ders, anlık bir hazzı erteleyebilme (öz disiplin) ile büyük bir hedefe ulaşma arasındaki bağlantıdır. Kısa vadeli rahatlığı (hemen içmek) tercih edenler çoğunluktadır; ama uzun vadeli hedefe odaklananlar azınlıkta kalsa da, asıl gücü onlar taşır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Anlık rahatlığı ertele",
+   "aciklama": "Bugün küçük bir hazzı erteleyip, daha büyük bir hedef için öz disiplin göster."
+  },
+  {
+   "baslik": "Azınlıkta olmaktan çekinme",
+   "aciklama": "Doğru bildiğin bir tutumda, çoğunluk farklı davransa bile bugün kararından şaşma."
+  },
+  {
+   "baslik": "Sayıya değil niyete güven",
+   "aciklama": "Bir işte yalnız veya az kişiyle olsan da, bugün niteliğe odaklanarak devam et."
+  }
+ ],
+ "bugununAdimi": "Bugün küçük bir anlık rahatlığı, daha büyük bir hedef için ertele.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=249"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/249"
+  }
+ ]
+}

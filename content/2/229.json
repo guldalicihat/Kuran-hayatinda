@@ -1,0 +1,376 @@
+{
+ "sure": 2,
+ "ayet": 229,
+ "durum": "taslak",
+ "meal": "Boşama iki defadır. Sonra ya iyilikle tutmak ya da güzellikle salıvermektir. Onlara verdiğinizden bir şey almanız size helal değildir; ancak ikisi de Allah'ın sınırlarını ayakta tutamayacaklarından korkarlarsa başka. Eğer siz de ikisinin Allah'ın sınırlarını ayakta tutamayacağından korkarsanız, kadının kendini kurtarmak için bir bedel vermesinde ikisine de bir sakınca yoktur. Bunlar Allah'ın sınırlarıdır; onları aşmayın. Kim Allah'ın sınırlarını aşarsa, işte onlar zalimlerin ta kendileridir.",
+ "mealNotu": "'Hudûdullah' ifadesi harfiyen 'Allah'ın sınırları' demektir; evlilikte karşılıklı hak ve sorumlulukları anlatır. 'İftedet' fiili, kadının kocasına bir bedel vererek boşanmayı satın almasını (klasik fıkıhta 'hul' denen durumu) ifade eder.",
+ "kokler": [
+  {
+   "kelime": "ٱلطَّلَٰقُ",
+   "okunus": "ettalâku",
+   "kok": "طلق",
+   "kokAnlam": "salıverme, boşama",
+   "karsilik": "boşama"
+  },
+  {
+   "kelime": "مَرَّتَانِ",
+   "okunus": "merratâni",
+   "kok": "مرر",
+   "kokAnlam": "geçiş, defa",
+   "karsilik": "iki defadır"
+  },
+  {
+   "kelime": "فَإِمْسَاكٌۢ",
+   "okunus": "feimsâküm",
+   "kok": "مسك",
+   "kokAnlam": "tutma, alıkoyma",
+   "karsilik": "sonra ya tutmak"
+  },
+  {
+   "kelime": "بِمَعْرُوفٍ",
+   "okunus": "bima'rûfin",
+   "kok": "عرف",
+   "kokAnlam": "bilinen, iyi olan; örf",
+   "karsilik": "iyilikle"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "تَسْرِيحٌۢ",
+   "okunus": "tesrîhum",
+   "kok": "سرح",
+   "kokAnlam": "salıverme, yayma",
+   "karsilik": "salıvermektir"
+  },
+  {
+   "kelime": "بِإِحْسَٰنٍ",
+   "okunus": "biihsânin",
+   "kok": "حسن",
+   "kokAnlam": "güzellik, iyilik yapma",
+   "karsilik": "güzellikle"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "يَحِلُّ",
+   "okunus": "yehillü",
+   "kok": "حلل",
+   "kokAnlam": "helal olma",
+   "karsilik": "helal"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -meniz",
+   "karsilik": "-meniz"
+  },
+  {
+   "kelime": "تَأْخُذُوا۟",
+   "okunus": "te'huzû",
+   "kok": "أخذ",
+   "kokAnlam": "alma",
+   "karsilik": "almanız"
+  },
+  {
+   "kelime": "مِمَّآ",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) şeyden",
+   "karsilik": "verdiğinizden"
+  },
+  {
+   "kelime": "ءَاتَيْتُمُوهُنَّ",
+   "okunus": "âteytümûhünne",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "onlara verdiğinizden"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "bir şey"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -si",
+   "karsilik": "-si"
+  },
+  {
+   "kelime": "يَخَافَآ",
+   "okunus": "yehâfâ",
+   "kok": "خوف",
+   "kokAnlam": "korkma",
+   "karsilik": "ikisinin korkması"
+  },
+  {
+   "kelime": "أَلَّا",
+   "okunus": "ellâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç+olumsuzluk) -memesi",
+   "karsilik": "-meyeceğinden"
+  },
+  {
+   "kelime": "يُقِيمَا",
+   "okunus": "yükîmâ",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; koruma",
+   "karsilik": "ikisinin ayakta tutamayacağından"
+  },
+  {
+   "kelime": "حُدُودَ",
+   "okunus": "hudûde",
+   "kok": "حدد",
+   "kokAnlam": "sınır belirleme",
+   "karsilik": "sınırlarını"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَإِنْ",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "خِفْتُمْ",
+   "okunus": "hıftüm",
+   "kok": "خوف",
+   "kokAnlam": "korkma",
+   "karsilik": "korkarsanız"
+  },
+  {
+   "kelime": "أَلَّا",
+   "okunus": "ellâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç+olumsuzluk) -meyeceği",
+   "karsilik": "-meyeceğinden"
+  },
+  {
+   "kelime": "يُقِيمَا",
+   "okunus": "yükîmâ",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; koruma",
+   "karsilik": "ikisinin ayakta tutamayacağından"
+  },
+  {
+   "kelime": "حُدُودَ",
+   "okunus": "hudûde",
+   "kok": "حدد",
+   "kokAnlam": "sınır belirleme",
+   "karsilik": "sınırlarını"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "جُنَاحَ",
+   "okunus": "cünâha",
+   "kok": "جنح",
+   "kokAnlam": "günah, sakınca",
+   "karsilik": "bir sakınca"
+  },
+  {
+   "kelime": "عَلَيْهِمَا",
+   "okunus": "aleyhimâ",
+   "kok": "—",
+   "kokAnlam": "ikisine",
+   "karsilik": "ikisine"
+  },
+  {
+   "kelime": "فِيمَا",
+   "okunus": "fîmâ",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) şeyde",
+   "karsilik": "konusunda"
+  },
+  {
+   "kelime": "ٱفْتَدَتْ",
+   "okunus": "iftedet",
+   "kok": "فدي",
+   "kokAnlam": "fidye verme, bedel ödeyerek kurtulma",
+   "karsilik": "kadının bedel vermesi"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "تِلْكَ",
+   "okunus": "tilke",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunlar",
+   "karsilik": "bunlar"
+  },
+  {
+   "kelime": "حُدُودَ",
+   "okunus": "hudûdü",
+   "kok": "حدد",
+   "kokAnlam": "sınır belirleme",
+   "karsilik": "sınırlarıdır"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve ... etmeyin"
+  },
+  {
+   "kelime": "تَعْتَدُوهَا",
+   "okunus": "ta'tedûhâ",
+   "kok": "عدو",
+   "kokAnlam": "haddi aşma",
+   "karsilik": "onları aşmayın"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "يَتَعَدَّ",
+   "okunus": "yeteadde",
+   "kok": "عدو",
+   "kokAnlam": "haddi aşma",
+   "karsilik": "aşarsa"
+  },
+  {
+   "kelime": "حُدُودَ",
+   "okunus": "hudûde",
+   "kok": "حدد",
+   "kokAnlam": "sınır belirleme",
+   "karsilik": "sınırlarını"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَأُو۟لَٰٓئِكَ",
+   "okunus": "feülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlardır"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمُونَ",
+   "okunus": "ezzâlimûne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık; zalimler",
+   "karsilik": "zalimlerin ta kendileri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, boşamaya bir çerçeve getirir: geri dönülebilir boşama en fazla iki defa olabilir; her defasında ya iyilikle bir arada kalınır ya da güzellikle ayrılınır. Kocanın, boşarken kadına verdiği mehri geri isteme hakkı yoktur; tek istisna, evliliğin karşılıklı hak ve sorumluluklarının (Allah'ın sınırlarının) artık korunamayacağının anlaşılması durumudur.",
+  "Bu istisnai durumda kadının, ayrılmak için kocasına bir bedel önermesi ('hul') meşru sayılır ve ikisine de günah yüklenmez. Klasik tefsir bu ayeti, boşanmanın keyfi bir tehdit aracına dönüştürülmesini engelleyen, hem erkeği hem kadını haksız kazançtan koruyan bir düzenleme olarak açıklar. Ayet, bu sınırları aşanları açıkça 'zalim' olarak nitelendirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:20",
+   "meal": "Bir eşi bırakıp yerine başka bir eş almak isterseniz, öbürüne yüklerle mehir vermiş olsanız bile ondan hiçbir şey almayın.",
+   "baglanti": "229. ayetteki 'verdiğinizden bir şey almayın' ilkesini pekiştirir; kadına verilen mehrin geri alınamayacağını genel bir kuralla tekrarlar."
+  },
+  {
+   "ref": "2:230",
+   "meal": "Eğer üçüncü kez boşarsa, kadın başka bir eşle evlenmedikçe artık ona helal olmaz.",
+   "baglanti": "229. ayetteki 'iki defalık' boşamanın ardından üçüncü boşamanın sonucunu, doğrudan devamı olarak açıklar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu boşanma hukukudur; bu, evlilik hukukuna özgü ayrıntılı bir alandır.",
+  "Buradan taşınabilecek genel ders, bir ilişkiyi bitirirken bile adaletli davranmanın önemidir. Ayrılık anları, öfke ve çıkar hesabıyla karşı tarafa haksızlık etme riskini artırır; ayet, en gergin anda bile 'sınırı aşmama' ilkesini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ayrılıkta adaleti gözet",
+   "aciklama": "Bir ilişkiyi bitirirken, öfkeyle değil adaletle davranmaya bugün özellikle dikkat et."
+  },
+  {
+   "baslik": "Haksız kazanç arama",
+   "aciklama": "Bir anlaşmazlıkta, karşı tarafın hakkı olan bir şeyi haksız yere almaktan bugün kaçın."
+  },
+  {
+   "baslik": "Bir sınırı tanı",
+   "aciklama": "Bir ilişkide veya anlaşmada, aşmaman gereken bir sınırı bugün kendine hatırlat."
+  }
+ ],
+ "bugununAdimi": "Bugün bir anlaşmazlıkta, kazanmak yerine adaletli olmayı seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=229"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/229"
+  }
+ ]
+}

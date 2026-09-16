@@ -1,0 +1,243 @@
+{
+ "sure": 2,
+ "ayet": 251,
+ "durum": "taslak",
+ "meal": "Böylece onları Allah'ın izniyle bozguna uğrattılar; Davud, Calut'u öldürdü. Allah ona hükümdarlığı ve hikmeti verdi, dilediği şeylerden ona öğretti. Eğer Allah'ın insanların bir kısmını bir kısmıyla savması olmasaydı, yeryüzü elbette bozulurdu. Ama Allah, âlemlere karşı büyük bir lütuf sahibidir.",
+ "mealNotu": "'Def'' kökü itme, savma anlamındadır; ayet burada haksızlığa karşı direnç göstermenin bir dengeleme mekanizması işlevi gördüğünü söyler; bu, kaosu değil dengeyi korumanın bir yoludur.",
+ "kokler": [
+  {
+   "kelime": "فَهَزَمُوهُم",
+   "okunus": "fehezemûhüm",
+   "kok": "هزم",
+   "kokAnlam": "bozguna uğratma",
+   "karsilik": "onları bozguna uğrattılar"
+  },
+  {
+   "kelime": "بِإِذْنِ",
+   "okunus": "biizni",
+   "kok": "أذن",
+   "kokAnlam": "izin verme",
+   "karsilik": "izniyle"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَقَتَلَ",
+   "okunus": "ve katele",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "ve öldürdü"
+  },
+  {
+   "kelime": "دَاوُۥدُ",
+   "okunus": "dâvûdü",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Davud",
+   "karsilik": "Davud"
+  },
+  {
+   "kelime": "جَالُوتَ",
+   "okunus": "câlûte",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Calut",
+   "karsilik": "Calut'u"
+  },
+  {
+   "kelime": "وَءَاتَىٰهُ",
+   "okunus": "ve âtâhü",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "ve ona verdi"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلْمُلْكَ",
+   "okunus": "elmülke",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, hükümranlık",
+   "karsilik": "hükümdarlığı"
+  },
+  {
+   "kelime": "وَٱلْحِكْمَةَ",
+   "okunus": "vel hikmete",
+   "kok": "حكم",
+   "kokAnlam": "hüküm verme, hikmet",
+   "karsilik": "ve hikmeti"
+  },
+  {
+   "kelime": "وَعَلَّمَهُۥ",
+   "okunus": "ve allemehû",
+   "kok": "علم",
+   "kokAnlam": "öğretme",
+   "karsilik": "ve ona öğretti"
+  },
+  {
+   "kelime": "مِمَّا",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) şeylerden",
+   "karsilik": "şeylerden"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilediği"
+  },
+  {
+   "kelime": "وَلَوْلَا",
+   "okunus": "ve levlâ",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer olmasaydı",
+   "karsilik": "eğer olmasaydı"
+  },
+  {
+   "kelime": "دَفْعُ",
+   "okunus": "def'u",
+   "kok": "دفع",
+   "kokAnlam": "itme, savma",
+   "karsilik": "savması"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "ٱلنَّاسَ",
+   "okunus": "ennâse",
+   "kok": "أنس",
+   "kokAnlam": "ünsiyet; insanlar",
+   "karsilik": "insanları"
+  },
+  {
+   "kelime": "بَعْضَهُم",
+   "okunus": "ba'dahüm",
+   "kok": "بعض",
+   "kokAnlam": "bazı, bir kısım",
+   "karsilik": "bazılarını"
+  },
+  {
+   "kelime": "بِبَعْضٍ",
+   "okunus": "biba'dın",
+   "kok": "بعض",
+   "kokAnlam": "bazı, bir kısım",
+   "karsilik": "bazılarıyla"
+  },
+  {
+   "kelime": "لَّفَسَدَتِ",
+   "okunus": "lefesedeti",
+   "kok": "فسد",
+   "kokAnlam": "bozulma",
+   "karsilik": "elbette bozulurdu"
+  },
+  {
+   "kelime": "ٱلْأَرْضُ",
+   "okunus": "el'erdu",
+   "kok": "أرض",
+   "kokAnlam": "yeryüzü",
+   "karsilik": "yeryüzü"
+  },
+  {
+   "kelime": "وَلَٰكِنَّ",
+   "okunus": "ve lâkinne",
+   "kok": "—",
+   "kokAnlam": "(düzeltme) ama",
+   "karsilik": "ama"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ذُو",
+   "okunus": "zû",
+   "kok": "—",
+   "kokAnlam": "sahip olan",
+   "karsilik": "sahibidir"
+  },
+  {
+   "kelime": "فَضْلٍ",
+   "okunus": "fadlin",
+   "kok": "فضل",
+   "kokAnlam": "üstünlük, lütuf",
+   "karsilik": "bir lütfun"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلْعَٰلَمِينَ",
+   "okunus": "el'âlemîne",
+   "kok": "علم",
+   "kokAnlam": "bilme; âlemler",
+   "karsilik": "âlemler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, kıssanın zaferle sonuçlanan kısmını anlatır: küçük topluluk Allah'ın izniyle galip gelir, genç Davud Calut'u öldürür. Allah bu vesileyle Davud'a hem hükümdarlık hem hikmet verir; bu, kıssanın başında sorgulanan liderlik meselesine bir cevap gibidir -Allah dilediğini yükseltir.",
+  "Ayetin son cümlesi kıssanın ötesine geçerek evrensel bir ilke koyar: Allah'ın insanların bir kısmını diğer bir kısmıyla savması (haksızlığa direnç, zorbalığa karşı koyma), yeryüzünün bozulmasını önler. Klasik tefsir bu ilkeyi, mutlak bir kaos yerine, iyiliğin kötülüğe karşı sürekli bir denge unsuru olarak var olduğunu gösteren bir açıklama olarak sunar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "22:40",
+   "meal": "Eğer Allah insanların bir kısmını diğer bir kısmıyla savmasaydı, manastırlar, kiliseler, havralar ve içinde Allah'ın adının çokça anıldığı mescitler elbette yıkılıp giderdi.",
+   "baglanti": "251. ayetle neredeyse aynı ilkeyi, 'insanların birbirini savması' formülüyle tekrarlar ve somut örneklerle açıklar."
+  },
+  {
+   "ref": "2:247",
+   "meal": "Peygamberleri onlara dedi ki: Allah, Talut'u size kral olarak gönderdi... Allah mülkünü dilediğine verir.",
+   "baglanti": "251. ayetteki Davud'a mülk ve hikmet verilmesini, 247. ayetteki 'Allah mülkünü dilediğine verir' ilkesiyle birlikte okumak gerektiğini gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, tarihî bir zaferin anlatımı ve bundan çıkarılan evrensel bir ilkedir; belirli bir hukuki hüküm içermez.",
+  "Buradan çıkarılabilecek genel ders, haksızlığa karşı sessiz kalmanın değil, ölçülü de olsa direnç göstermenin toplumsal dengeyi koruduğudur. Bireysel hayatta da, bir haksızlık karşısında tamamen pasif kalmak yerine, elimizden gelen ölçülü bir duruş sergilemek, çevremizdeki dengeyi korumaya katkı sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçük bir haksızlığa dur de",
+   "aciklama": "Bugün gördüğün küçük bir haksızlığa, ölçülü ve nazik bir şekilde itiraz et."
+  },
+  {
+   "baslik": "Zaferi tevazuyla karşıla",
+   "aciklama": "Bir başarı elde ettiğinde, bunu kendi gücüne değil Allah'ın yardımına bağla."
+  },
+  {
+   "baslik": "Dengeyi koru",
+   "aciklama": "Bir tartışmada, aşırıya kaçan tarafı dengeye getirecek bir söz söyle."
+  }
+ ],
+ "bugununAdimi": "Bugün gördüğün küçük bir haksızlığa, ölçülü ve nazik bir şekilde sessiz kalmadan tepki ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=251"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/251"
+  }
+ ]
+}

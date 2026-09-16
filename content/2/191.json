@@ -1,0 +1,229 @@
+{
+ "sure": 2,
+ "ayet": 191,
+ "durum": "taslak",
+ "meal": "Onları nerede yakalarsanız öldürün ve sizi çıkardıkları yerden siz de onları çıkarın. Fitne, öldürmekten daha ağırdır. Mescid-i Harâm'ın yanında, onlar sizinle savaşmadıkça, onlarla savaşmayın. Eğer sizinle savaşırlarsa, onları öldürün. İnkâr edenlerin cezası işte böyledir.",
+ "mealNotu": "'Fitne' kökü (فتن) sıkıntıya sokma, sınama, baskı ve zulümle inançtan döndürme anlamındadır; bu ayette savaşan tarafın baskı ve zulmüne işaret eder, tek başına 'karışıklık' değildir. Hüküm, o dönemki karşılıklı savaş durumuna özgüdür.",
+ "kokler": [
+  {
+   "kelime": "وَٱقْتُلُوهُمْ",
+   "okunus": "vektülûhüm",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "ve onları öldürün"
+  },
+  {
+   "kelime": "حَيْثُ",
+   "okunus": "haysü",
+   "kok": "حيث",
+   "kokAnlam": "yer, mekân",
+   "karsilik": "nerede"
+  },
+  {
+   "kelime": "ثَقِفْتُمُوهُمْ",
+   "okunus": "sekıftümûhüm",
+   "kok": "ثقف",
+   "kokAnlam": "yakalama, karşılaşma",
+   "karsilik": "yakalarsanız"
+  },
+  {
+   "kelime": "وَأَخْرِجُوهُم",
+   "okunus": "ve ahricûhüm",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, çıkarma",
+   "karsilik": "ve onları çıkarın"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "حَيْثُ",
+   "okunus": "haysü",
+   "kok": "حيث",
+   "kokAnlam": "yer, mekân",
+   "karsilik": "yerden"
+  },
+  {
+   "kelime": "أَخْرَجُوكُمْ",
+   "okunus": "ahracûküm",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, çıkarma",
+   "karsilik": "sizi çıkardıkları"
+  },
+  {
+   "kelime": "وَٱلْفِتْنَةُ",
+   "okunus": "vel fitnetü",
+   "kok": "فتن",
+   "kokAnlam": "sınama, baskı, zulümle döndürme",
+   "karsilik": "fitne"
+  },
+  {
+   "kelime": "أَشَدُّ",
+   "okunus": "eşeddü",
+   "kok": "شدد",
+   "kokAnlam": "şiddet, güç",
+   "karsilik": "daha ağırdır"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْقَتْلِ",
+   "okunus": "elkatli",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürmekten"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve -meyin"
+  },
+  {
+   "kelime": "تُقَٰتِلُوهُمْ",
+   "okunus": "tükâtilûhüm",
+   "kok": "قتل",
+   "kokAnlam": "öldürme; karşılıklı savaşma",
+   "karsilik": "onlarla savaşmayın"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "yan, kat, nezd",
+   "karsilik": "yanında"
+  },
+  {
+   "kelime": "ٱلْمَسْجِدِ",
+   "okunus": "elmescidi",
+   "kok": "سجد",
+   "kokAnlam": "secde etme; mescit",
+   "karsilik": "Mescid-i"
+  },
+  {
+   "kelime": "ٱلْحَرَامِ",
+   "okunus": "elharâmi",
+   "kok": "حرم",
+   "kokAnlam": "yasaklık, saygınlık, dokunulmazlık",
+   "karsilik": "Harâm'ın"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "يُقَٰتِلُوكُمْ",
+   "okunus": "yükâtilûküm",
+   "kok": "قتل",
+   "kokAnlam": "öldürme; karşılıklı savaşma",
+   "karsilik": "sizinle savaşana"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat) orada",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "قَٰتَلُوكُمْ",
+   "okunus": "kâtelûküm",
+   "kok": "قتل",
+   "kokAnlam": "öldürme; karşılıklı savaşma",
+   "karsilik": "sizinle savaşırlarsa"
+  },
+  {
+   "kelime": "فَٱقْتُلُوهُمْ",
+   "okunus": "fektülûhüm",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "artık onları öldürün"
+  },
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böyle",
+   "karsilik": "işte böyledir"
+  },
+  {
+   "kelime": "جَزَآءُ",
+   "okunus": "cezâü",
+   "kok": "جزي",
+   "kokAnlam": "karşılık, ceza",
+   "karsilik": "cezası"
+  },
+  {
+   "kelime": "ٱلْكَٰفِرِينَ",
+   "okunus": "elkâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr edenlerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki savunma amaçlı savaş izninin devamı olarak bu ayet, o dönemki belirli çatışma durumunun kurallarını anlatır. 'Fitne, öldürmekten daha ağırdır' ifadesi, inanç yüzünden insanları baskı altına almanın, doğrudan öldürmekten daha büyük bir kötülük sayıldığını belirtir.",
+  "Ayet, Mescid-i Harâm çevresinde saldırıya uğramadıkça savaşılmamasını, ancak saldırı gelirse karşılık verilmesini emreder. Klasik tefsir bu ayeti, Mekke döneminde müminlerin yurtlarından çıkarılması ve inançları yüzünden baskı görmesiyle ilgili tarihsel bir bağlamda açıklar; hükmün kapsamı ve uygulanışı o döneme özgü şartlarla sınırlıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:190",
+   "meal": "Sizinle savaşanlara karşı Allah yolunda savaşın; ama aşırı gitmeyin. Şüphesiz Allah aşırı gidenleri sevmez.",
+   "baglanti": "Bir önceki ayet savaşın sınırını koyar; 191. ayet ise o dönemki belirli bir çatışmanın kurallarını ayrıntılandırır."
+  },
+  {
+   "ref": "8:39",
+   "meal": "Fitne kalmayıncaya ve din tamamen Allah'ın oluncaya kadar onlarla savaşın.",
+   "baglanti": "Enfâl suresindeki bu ayet, 'fitne'nin ortadan kaldırılmasını savaşın amacı olarak benzer biçimde ifade eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, tarihsel bir savaş durumunun ayrıntılı kurallarıdır; bu, o döneme özgü şartlarla sınırlı özel bir hükümdür ve günümüze doğrudan aktarılmaz.",
+  "Yine de 'fitnenin öldürmekten ağır olması' fikri genel bir ilkeye işaret eder: birini inancından veya duruşundan dolayı baskı altına almak, doğrudan zarar vermekten bile daha yıkıcı olabilir. Bir kişiyi düşüncesi yüzünden dışlamak veya baskılamak yerine, farklılığa saygı göstermek bu ilkeyle uyumlu bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Baskıyı fark et",
+   "aciklama": "Bugün birini düşüncesi yüzünden baskı altına alıp almadığını gözden geçir."
+  },
+  {
+   "baslik": "Farklılığa saygı göster",
+   "aciklama": "Senden farklı düşünen birine bugün baskı değil, saygılı bir dinleme göster."
+  },
+  {
+   "baslik": "Karşılığı orana göre ver",
+   "aciklama": "Bir haksızlığa uğradığında, karşılığını orantılı ve sınırlı tut."
+  }
+ ],
+ "bugununAdimi": "Bugün, farklı düşünen birine baskı yerine saygılı bir dinleme göster.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=191"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/191"
+  }
+ ]
+}

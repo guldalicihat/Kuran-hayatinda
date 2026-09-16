@@ -1,0 +1,383 @@
+{
+ "sure": 2,
+ "ayet": 235,
+ "durum": "taslak",
+ "meal": "İddet bekleyen kadınlara üstü kapalı evlilik teklifinde bulunmanızda ya da içinizde bunu gizli tutmanızda size bir sakınca yoktur. Allah, onları anacağınızı bilmiştir. Ancak uygun bir söz söylemeniz dışında onlarla gizlice sözleşmeyin. Yazılı süre (iddet) sonuna ulaşıncaya kadar nikâh bağını kesinleştirmeyin. Bilin ki Allah içinizde olanı bilir; O'ndan sakının. Ve bilin ki Allah çok bağışlayandır, çok yumuşak davranandır.",
+ "mealNotu": "'Ta'rîd' kökü açık değil, üstü kapalı, ima yoluyla söylemeyi anlatır; ayet iddet bekleyen bir kadına doğrudan evlilik teklifini değil, dolaylı bir ima yoluyla niyet belirtmeyi caiz görür.",
+ "kokler": [
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve yoktur"
+  },
+  {
+   "kelime": "جُنَاحَ",
+   "okunus": "cünâha",
+   "kok": "جنح",
+   "kokAnlam": "günah, sakınca",
+   "karsilik": "bir sakınca"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "فِيمَا",
+   "okunus": "fîmâ",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) şeyde",
+   "karsilik": "konusunda"
+  },
+  {
+   "kelime": "عَرَّضْتُم",
+   "okunus": "arradtüm",
+   "kok": "عرض",
+   "kokAnlam": "ima etme, üstü kapalı söyleme",
+   "karsilik": "üstü kapalı ima ettiğiniz"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "خِطْبَةِ",
+   "okunus": "hıtbeti",
+   "kok": "خطب",
+   "kokAnlam": "evlilik teklifi",
+   "karsilik": "evlilik teklifinden"
+  },
+  {
+   "kelime": "ٱلنِّسَآءِ",
+   "okunus": "ennisâi",
+   "kok": "نسو",
+   "kokAnlam": "kadınlar",
+   "karsilik": "kadınlara"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "أَكْنَنتُمْ",
+   "okunus": "eknentüm",
+   "kok": "كنن",
+   "kokAnlam": "gizleme, içinde saklama",
+   "karsilik": "içinizde gizlediğiniz"
+  },
+  {
+   "kelime": "فِىٓ",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "أَنفُسِكُمْ",
+   "okunus": "enfüsiküm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi",
+   "karsilik": "kendinizde"
+  },
+  {
+   "kelime": "عَلِمَ",
+   "okunus": "alime",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilmiştir"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "أَنَّكُمْ",
+   "okunus": "enneküm",
+   "kok": "—",
+   "kokAnlam": "(tekid) sizin",
+   "karsilik": "sizin"
+  },
+  {
+   "kelime": "سَتَذْكُرُونَهُنَّ",
+   "okunus": "setezkürûnehünne",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama",
+   "karsilik": "onları anacağınızı"
+  },
+  {
+   "kelime": "وَلَٰكِن",
+   "okunus": "ve lâkin",
+   "kok": "—",
+   "kokAnlam": "(düzeltme) ama",
+   "karsilik": "ama"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-meyin"
+  },
+  {
+   "kelime": "تُوَاعِدُوهُنَّ",
+   "okunus": "tüvâidûhünne",
+   "kok": "وعد",
+   "kokAnlam": "sözleşme, vaat etme",
+   "karsilik": "onlarla sözleşmeyin"
+  },
+  {
+   "kelime": "سِرًّا",
+   "okunus": "sirran",
+   "kok": "سرر",
+   "kokAnlam": "gizlilik",
+   "karsilik": "gizlice"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -si",
+   "karsilik": "-si"
+  },
+  {
+   "kelime": "تَقُولُوا۟",
+   "okunus": "tekûlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "söylemeniz"
+  },
+  {
+   "kelime": "قَوْلًا",
+   "okunus": "kavlen",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "bir söz"
+  },
+  {
+   "kelime": "مَّعْرُوفًا",
+   "okunus": "ma'rûfen",
+   "kok": "عرف",
+   "kokAnlam": "bilinen, iyi olan; örf",
+   "karsilik": "uygun"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve ... etmeyin"
+  },
+  {
+   "kelime": "تَعْزِمُوا۟",
+   "okunus": "ta'zimû",
+   "kok": "عزم",
+   "kokAnlam": "kesin karar verme, azmetme",
+   "karsilik": "kesin karar vermeyin"
+  },
+  {
+   "kelime": "عُقْدَةَ",
+   "okunus": "ukdete",
+   "kok": "عقد",
+   "kokAnlam": "bağlama, akit",
+   "karsilik": "bağıtına"
+  },
+  {
+   "kelime": "ٱلنِّكَاحِ",
+   "okunus": "ennikâhi",
+   "kok": "نكح",
+   "kokAnlam": "evlenme; nikâh",
+   "karsilik": "nikâh"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ta ki",
+   "karsilik": "ta ki"
+  },
+  {
+   "kelime": "يَبْلُغَ",
+   "okunus": "yeblüğa",
+   "kok": "بلغ",
+   "kokAnlam": "ulaşma, erişme",
+   "karsilik": "ulaşıncaya kadar"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبُ",
+   "okunus": "elkitâbü",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı süre",
+   "karsilik": "yazılı süre"
+  },
+  {
+   "kelime": "أَجَلَهُۥ",
+   "okunus": "ecelehû",
+   "kok": "أجل",
+   "kokAnlam": "süre, vade",
+   "karsilik": "kendi sonuna"
+  },
+  {
+   "kelime": "وَٱعْلَمُوٓا۟",
+   "okunus": "velemû",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilin ki"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَعْلَمُ",
+   "okunus": "ya'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilir"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "olanı"
+  },
+  {
+   "kelime": "فِىٓ",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "içinizde"
+  },
+  {
+   "kelime": "أَنفُسِكُمْ",
+   "okunus": "enfüsiküm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi",
+   "karsilik": "kendinizde"
+  },
+  {
+   "kelime": "فَٱحْذَرُوهُ",
+   "okunus": "fehzerûhü",
+   "kok": "حذر",
+   "kokAnlam": "sakınma, çekinme",
+   "karsilik": "O'ndan sakının"
+  },
+  {
+   "kelime": "وَٱعْلَمُوٓا۟",
+   "okunus": "velemû",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "ve bilin ki"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَفُورٌ",
+   "okunus": "gafûrun",
+   "kok": "غفر",
+   "kokAnlam": "örtme, bağışlama",
+   "karsilik": "çok bağışlayandır"
+  },
+  {
+   "kelime": "حَلِيمٌ",
+   "okunus": "halîmün",
+   "kok": "حلم",
+   "kokAnlam": "yumuşaklık, fırsat tanıma",
+   "karsilik": "çok yumuşak davranandır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, iddet bekleyen bir kadına yönelik evlilik niyetinin nasıl ifade edilebileceğine dair ince bir sınır çizer: açık, kesinleşmiş bir teklif ve gizli sözleşme yasaktır, ama üstü kapalı bir ima veya içten geçirilen bir niyet caizdir. Allah, insanın böyle bir niyeti taşıyabileceğini zaten bildiğini söyleyerek bunu doğal karşılar.",
+  "Klasik tefsir, bu ayetin amacının iddet süresinin saygınlığını korumak olduğunu açıklar; nikâh akdi ancak iddet tamamlanınca kesinleştirilebilir. Ayet, insanın kalbinden geçenin Allah tarafından bilindiğini hatırlatarak, hem toplumsal kurala hem içsel dürüstlüğe birlikte dikkat çeker."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:234",
+   "meal": "İçinizden vefat edip eşler bırakanların eşleri, kendi kendilerine dört ay on gün beklerler.",
+   "baglanti": "235. ayetteki 'iddet süresi bitene kadar nikâh bağıtlanmasın' hükmünün hangi iddet süresine uygulandığını gösteren öncül ayettir."
+  },
+  {
+   "ref": "33:49",
+   "meal": "Ey iman edenler! Mümin kadınlarla evlenip sonra onlara dokunmadan boşarsanız, üzerlerinde sayacağınız bir iddet hakkınız yoktur.",
+   "baglanti": "İddet hükmünün, birlikte olunmamış bir evlilikte gerekmediğini göstererek 235. ayetteki iddet kuralının şartlarını netleştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, iddet bekleyen bir kadına evlilik niyetinin nasıl ve ne zaman ifade edilebileceğidir; bu, dönemin toplumsal hassasiyetlerini gözeten özel bir düzenlemedir.",
+  "Buradan taşınabilecek genel ders, hassas bir dönemden geçen birine yaklaşırken zamanlama ve üslup gözetmenin önemidir. Bir niyet ne kadar iyi olursa olsun, yanlış zamanda ve baskıcı bir şekilde ifade edilirse karşıdaki kişiye rahatsızlık verebilir; incelik ve sabır burada da bir erdemdir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zamanlamaya dikkat et",
+   "aciklama": "Zor bir dönemden geçen birine bir teklif veya beklenti iletmeden önce, bugün doğru zamanı bekle."
+  },
+  {
+   "baslik": "Üstü kapalı bir nezaket göster",
+   "aciklama": "Doğrudan söylemenin ağır kaçacağı bir durumda, bugün nazik ve dolaylı bir üslup kullan."
+  },
+  {
+   "baslik": "İçindeki niyeti kabul et",
+   "aciklama": "İçinden geçen bir düşünceyi bastırmak yerine, onu dürüstçe kabul edip doğru zamanda değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün hassas bir konuda birine yaklaşırken, doğrudan değil nazik ve dolaylı bir üslup seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=235"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/235"
+  }
+ ]
+}

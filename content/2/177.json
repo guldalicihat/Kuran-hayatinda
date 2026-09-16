@@ -1,0 +1,411 @@
+{
+ "sure": 2,
+ "ayet": 177,
+ "durum": "taslak",
+ "meal": "İyilik (birr), yüzlerinizi doğuya ve batıya çevirmeniz değildir. Fakat iyilik; Allah'a, ahiret gününe, meleklere, Kitab'a ve peygamberlere iman eden, malını sevmesine rağmen yakınlara, yetimlere, yoksullara, yolda kalmışa, isteyenlere ve boyunduruk altındakilere veren, namazı kılan ve zekâtı veren; söz verdiğinde sözünü tutan; sıkıntıda, hastalıkta ve savaş anında sabreden kimselerin [tutumudur]. İşte doğru olanlar bunlardır, işte takva sahipleri de bunlardır.",
+ "mealNotu": "'Birr' kökü (برر) iyiliği, doğruluğu ve bağlılığı birlikte taşır; tek bir 'iyi davranış'tan çok bütünlüklü bir duruşu anlatır. Cümlenin öznesi eksik olduğu için sonuna [tutumudur] eklenmiştir; 'rikâb' kökü köle azadını anlatır, burada 'boyunduruk altındakiler' olarak karşılanmıştır.",
+ "kokler": [
+  {
+   "kelime": "لَّيْسَ",
+   "okunus": "leyse",
+   "kok": "ليس",
+   "kokAnlam": "olumsuzluk fiili, değildir",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "ٱلْبِرَّ",
+   "okunus": "elbirra",
+   "kok": "برر",
+   "kokAnlam": "iyilik, doğruluk, bağlılık",
+   "karsilik": "iyilik"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -meniz",
+   "karsilik": "-meniz"
+  },
+  {
+   "kelime": "تُوَلُّوا۟",
+   "okunus": "tüvellû",
+   "kok": "ولي",
+   "kokAnlam": "yönelme, çevirme, yakın olma",
+   "karsilik": "çevirmeniz"
+  },
+  {
+   "kelime": "وُجُوهَكُمْ",
+   "okunus": "vücûheküm",
+   "kok": "وجه",
+   "kokAnlam": "yüz, yön",
+   "karsilik": "yüzlerinizi"
+  },
+  {
+   "kelime": "قِبَلَ",
+   "okunus": "kıbele",
+   "kok": "قبل",
+   "kokAnlam": "yön, karşı taraf",
+   "karsilik": "yönüne"
+  },
+  {
+   "kelime": "ٱلْمَشْرِقِ",
+   "okunus": "elmeşrikı",
+   "kok": "شرق",
+   "kokAnlam": "doğma, güneşin doğduğu yer",
+   "karsilik": "doğuya"
+  },
+  {
+   "kelime": "وَٱلْمَغْرِبِ",
+   "okunus": "vel mağribi",
+   "kok": "غرب",
+   "kokAnlam": "batma, güneşin battığı yer",
+   "karsilik": "ve batıya"
+  },
+  {
+   "kelime": "وَلَٰكِنَّ",
+   "okunus": "ve lâkinne",
+   "kok": "—",
+   "kokAnlam": "(tekid) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "ٱلْبِرَّ",
+   "okunus": "elbirra",
+   "kok": "برر",
+   "kokAnlam": "iyilik, doğruluk, bağlılık",
+   "karsilik": "iyilik"
+  },
+  {
+   "kelime": "مَنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimdir ki",
+   "karsilik": "kimin"
+  },
+  {
+   "kelime": "ءَامَنَ",
+   "okunus": "âmene",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman ettiği"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَٱلْيَوْمِ",
+   "okunus": "vel yevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "ve gününe"
+  },
+  {
+   "kelime": "ٱلْءَاخِرِ",
+   "okunus": "el'âhıri",
+   "kok": "أخر",
+   "kokAnlam": "sonra gelme, son",
+   "karsilik": "ahiret"
+  },
+  {
+   "kelime": "وَٱلْمَلَٰٓئِكَةِ",
+   "okunus": "vel melâiketi",
+   "kok": "ملك",
+   "kokAnlam": "elçilik, güç sahibi olma; melek",
+   "karsilik": "ve meleklere"
+  },
+  {
+   "kelime": "وَٱلْكِتَٰبِ",
+   "okunus": "vel kitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı olan, kitap",
+   "karsilik": "ve Kitab'a"
+  },
+  {
+   "kelime": "وَٱلنَّبِيِّۦنَ",
+   "okunus": "ven nebiyyîne",
+   "kok": "نبأ",
+   "kokAnlam": "haber; haber getiren",
+   "karsilik": "ve peygamberlere"
+  },
+  {
+   "kelime": "وَءَاتَى",
+   "okunus": "ve âtâ",
+   "kok": "أتي",
+   "kokAnlam": "gelme, verme",
+   "karsilik": "ve verdiği"
+  },
+  {
+   "kelime": "ٱلْمَالَ",
+   "okunus": "elmâle",
+   "kok": "مول",
+   "kokAnlam": "mal, servet",
+   "karsilik": "malı"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) rağmen, üzerine",
+   "karsilik": "-e rağmen"
+  },
+  {
+   "kelime": "حُبِّهِۦ",
+   "okunus": "hubbihî",
+   "kok": "حبب",
+   "kokAnlam": "sevgi, sevme",
+   "karsilik": "sevmesine"
+  },
+  {
+   "kelime": "ذَوِى",
+   "okunus": "zevî",
+   "kok": "—",
+   "kokAnlam": "(tekid) sahip olanlar",
+   "karsilik": "sahiplerine"
+  },
+  {
+   "kelime": "ٱلْقُرْبَىٰ",
+   "okunus": "elkurbâ",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık",
+   "karsilik": "yakınlığın"
+  },
+  {
+   "kelime": "وَٱلْيَتَٰمَىٰ",
+   "okunus": "vel yetâmâ",
+   "kok": "يتم",
+   "kokAnlam": "yalnızlık, öksüzlük; yetim",
+   "karsilik": "ve yetimlere"
+  },
+  {
+   "kelime": "وَٱلْمَسَٰكِينَ",
+   "okunus": "vel mesâkîne",
+   "kok": "سكن",
+   "kokAnlam": "durgunluk, yoksulluk; yoksul",
+   "karsilik": "ve yoksullara"
+  },
+  {
+   "kelime": "وَٱبْنَ",
+   "okunus": "vebne",
+   "kok": "بني",
+   "kokAnlam": "oğul, evlat",
+   "karsilik": "ve oğluna"
+  },
+  {
+   "kelime": "ٱلسَّبِيلِ",
+   "okunus": "essebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolun"
+  },
+  {
+   "kelime": "وَٱلسَّآئِلِينَ",
+   "okunus": "ves sâilîne",
+   "kok": "سأل",
+   "kokAnlam": "sorma, isteme",
+   "karsilik": "ve isteyenlere"
+  },
+  {
+   "kelime": "وَفِى",
+   "okunus": "ve fî",
+   "kok": "—",
+   "kokAnlam": "(edat) ve hakkında",
+   "karsilik": "ve -de"
+  },
+  {
+   "kelime": "ٱلرِّقَابِ",
+   "okunus": "errikâbi",
+   "kok": "رقب",
+   "kokAnlam": "boyun, gözetleme; köle azadı",
+   "karsilik": "boyunduruk altındakilerde"
+  },
+  {
+   "kelime": "وَأَقَامَ",
+   "okunus": "ve ekâme",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, ayakta tutma",
+   "karsilik": "ve dosdoğru kıldığı"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "dua, namaz",
+   "karsilik": "namazı"
+  },
+  {
+   "kelime": "وَءَاتَى",
+   "okunus": "ve âtâ",
+   "kok": "أتي",
+   "kokAnlam": "gelme, verme",
+   "karsilik": "ve verdiği"
+  },
+  {
+   "kelime": "ٱلزَّكَوٰةَ",
+   "okunus": "ezzekâte",
+   "kok": "زكو",
+   "kokAnlam": "arınma, temizlenme, artma",
+   "karsilik": "zekâtı"
+  },
+  {
+   "kelime": "وَٱلْمُوفُونَ",
+   "okunus": "vel mûfûne",
+   "kok": "وفي",
+   "kokAnlam": "sözünü tutma, yerine getirme",
+   "karsilik": "ve yerine getirenlerin"
+  },
+  {
+   "kelime": "بِعَهْدِهِمْ",
+   "okunus": "biahdihim",
+   "kok": "عهد",
+   "kokAnlam": "söz verme, sözleşme",
+   "karsilik": "sözlerini"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dıklarında"
+  },
+  {
+   "kelime": "عَٰهَدُوا۟",
+   "okunus": "âhedû",
+   "kok": "عهد",
+   "kokAnlam": "söz verme, sözleşme",
+   "karsilik": "söz verdikleri"
+  },
+  {
+   "kelime": "وَٱلصَّٰبِرِينَ",
+   "okunus": "ves sâbirîne",
+   "kok": "صبر",
+   "kokAnlam": "tutma, dayanma, direnme",
+   "karsilik": "ve sabredenlerin"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْبَأْسَآءِ",
+   "okunus": "elbe'sâi",
+   "kok": "بأس",
+   "kokAnlam": "sıkıntı, yoksulluk",
+   "karsilik": "sıkıntıda"
+  },
+  {
+   "kelime": "وَٱلضَّرَّآءِ",
+   "okunus": "ved darrâi",
+   "kok": "ضرر",
+   "kokAnlam": "zarar, hastalık",
+   "karsilik": "ve hastalıkta"
+  },
+  {
+   "kelime": "وَحِينَ",
+   "okunus": "ve hîne",
+   "kok": "حين",
+   "kokAnlam": "vakit, an",
+   "karsilik": "ve anında"
+  },
+  {
+   "kelime": "ٱلْبَأْسِ",
+   "okunus": "elbe'si",
+   "kok": "بأس",
+   "kokAnlam": "sıkıntı, şiddet, savaş",
+   "karsilik": "savaşın"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte bunlar"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi adılı) o kimseler ki",
+   "karsilik": "o kimselerdir ki"
+  },
+  {
+   "kelime": "صَدَقُوا۟",
+   "okunus": "sadekû",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, doğru olma",
+   "karsilik": "doğru oldular"
+  },
+  {
+   "kelime": "وَأُو۟لَٰٓئِكَ",
+   "okunus": "ve ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) ve işte onlar",
+   "karsilik": "ve işte bunlar"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlardır"
+  },
+  {
+   "kelime": "ٱلْمُتَّقُونَ",
+   "okunus": "elmüttekûne",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma; takva",
+   "karsilik": "takva sahipleri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetler kıble değişimi ve ehli kitabın tutumuyla ilgiliydi; bu ayet dini görünüşten öze doğru bir vurgu yapar: asıl iyilik (birr) yalnızca yön değiştirmek değil, imanı davranışla birleştirmektir. Ayet, 'birr' kelimesini iman esasları, malı paylaşma, ibadet, sözde durma ve sabır olmak üzere geniş bir çerçevede tanımlar.",
+  "İman edilecekler (Allah, ahiret, melekler, Kitap, peygamberler) sayıldıktan sonra malını sevmesine rağmen verme, namaz-zekât, söz tutma ve zorlukta sabır zikredilir. Klasik tefsir bu ayeti, dinin yalnızca şekil değil iman-ibadet-ahlak bütünlüğü olduğunu gösteren kapsamlı bir tanım olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:92",
+   "meal": "Sevdiğiniz şeylerden Allah yolunda harcamadıkça iyiliğe (birr) asla erişemezsiniz.",
+   "baglanti": "Farklı bir surede aynı kök (برر) ile, 'sevilen malı verme' unsuru tek başına vurgulanır; 177. ayette bu unsur geniş listenin bir parçasıdır."
+  },
+  {
+   "ref": "2:83",
+   "meal": "Anne-babaya, yakınlara, yetimlere ve yoksullara güzellikle davranın diye söz almıştık.",
+   "baglanti": "Aynı surede geçen bu ayet, 177. ayette sayılan yakınlara, yetimlere ve yoksullara iyilik unsurunun daha önce de vurgulandığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dini bir davranışın (kıbleye yönelme) tek başına yeterli olmadığı, gerçek iyiliğin iman, ibadet, paylaşma ve ahlakın birlikte yaşanması olduğudur.",
+  "Buradan çıkarılabilecek genel ders, dindarlığı yalnızca dış işaretlere (görünüş, ritüel) indirgememektir. İnancı; cömertlik, sözünde durma ve zorlukta sabırla somutlaştırmak, bu ayetteki 'birr' tanımına yaklaşmanın bir yoludur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sevdiğin bir şeyden ver",
+   "aciklama": "Bugün, kolayca vazgeçemeyeceğin bir şeyden (zaman, para, eşya) ihtiyacı olan birine ver."
+  },
+  {
+   "baslik": "Verdiğin bir sözü hatırla",
+   "aciklama": "Unutmaya yüz tuttuğun bir sözünü bugün yerine getir veya en azından karşı tarafa hatırlat."
+  },
+  {
+   "baslik": "Zorlukta sabrı seç",
+   "aciklama": "Bugün karşılaştığın bir sıkıntıda tepkisel değil, sabırlı bir tutum göstermeye çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün, sevdiğin bir şeyden ihtiyacı olan birine somut bir şey ayır ve ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=177"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/177"
+  }
+ ]
+}

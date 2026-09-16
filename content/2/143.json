@@ -1,0 +1,369 @@
+{
+ "sure": 2,
+ "ayet": 143,
+ "durum": "taslak",
+ "meal": "İşte böylece sizi orta/dengeli bir ümmet kıldık ki insanlara karşı tanıklar olasınız, Peygamber de size karşı tanık olsun. Senin üzerinde bulunduğun kıbleyi, ancak Peygamber'e uyanı, ökçesi üzerinde geri dönenden ayırt etmek için değiştirdik. Bu, Allah'ın doğru yola ilettikleri dışında herkese elbette ağır gelir. Allah imanınızı zayi edecek değildir; şüphesiz Allah, insanlara karşı çok şefkatli, çok merhametlidir.",
+ "mealNotu": "'Vasat' kökü وسط, orta noktayı, dengeyi ve aşırılıktan uzak olmayı anlatır. 'Yenkalibü alâ akıbeyhi' deyimi 'ökçesi üzerinde geri dönme' olarak birebir çevrilmiştir; dönekliği anlatan bir deyimdir.",
+ "kokler": [
+  {
+   "kelime": "وَكَذَٰلِكَ",
+   "okunus": "ve kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böylece",
+   "karsilik": "işte böylece"
+  },
+  {
+   "kelime": "جَعَلْنَٰكُمْ",
+   "okunus": "cealnâküm",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "sizi kıldık"
+  },
+  {
+   "kelime": "أُمَّةً",
+   "okunus": "ümmeten",
+   "kok": "أمم",
+   "kokAnlam": "topluluk, yönelme",
+   "karsilik": "bir ümmet"
+  },
+  {
+   "kelime": "وَسَطًا",
+   "okunus": "vesetan",
+   "kok": "وسط",
+   "kokAnlam": "orta, denge, aşırılıktan uzak olma",
+   "karsilik": "orta/dengeli"
+  },
+  {
+   "kelime": "لِّتَكُونُوا۟",
+   "okunus": "litekûnû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olasınız diye"
+  },
+  {
+   "kelime": "شُهَدَآءَ",
+   "okunus": "şühedâe",
+   "kok": "شهد",
+   "kokAnlam": "tanık olma, hazır bulunma",
+   "karsilik": "tanıklar"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e karşı",
+   "karsilik": "-e karşı"
+  },
+  {
+   "kelime": "ٱلنَّاسِ",
+   "okunus": "ennâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet",
+   "karsilik": "insanlara"
+  },
+  {
+   "kelime": "وَيَكُونَ",
+   "okunus": "ve yekûne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ve olsun"
+  },
+  {
+   "kelime": "ٱلرَّسُولَ",
+   "okunus": "errasûlü",
+   "kok": "رسل",
+   "kokAnlam": "gönderme; elçi",
+   "karsilik": "Peygamber de"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) size karşı",
+   "karsilik": "size karşı"
+  },
+  {
+   "kelime": "شَهِيدًا",
+   "okunus": "şehîden",
+   "kok": "شهد",
+   "kokAnlam": "tanık olma, hazır bulunma",
+   "karsilik": "tanık"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...değiliz",
+   "karsilik": "ve ...etmedik"
+  },
+  {
+   "kelime": "جَعَلْنَا",
+   "okunus": "cealnâ",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "kılmadık/değiştirdik"
+  },
+  {
+   "kelime": "ٱلْقِبْلَةَ",
+   "okunus": "elkıblete",
+   "kok": "قبل",
+   "kokAnlam": "karşısında olma; yönelinen yön",
+   "karsilik": "kıbleyi"
+  },
+  {
+   "kelime": "ٱلَّتِى",
+   "okunus": "elletî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki o",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "كُنتَ",
+   "okunus": "künte",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "senin bulunduğun"
+  },
+  {
+   "kelime": "عَلَيْهَآ",
+   "okunus": "aleyhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "لِنَعْلَمَ",
+   "okunus": "lina'leme",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilelim/ayırt edelim diye"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimi",
+   "karsilik": "kimin"
+  },
+  {
+   "kelime": "يَتَّبِعُ",
+   "okunus": "yettebiu",
+   "kok": "تبع",
+   "kokAnlam": "izleme, uyma",
+   "karsilik": "uyduğunu"
+  },
+  {
+   "kelime": "ٱلرَّسُولَ",
+   "okunus": "errasûle",
+   "kok": "رسل",
+   "kokAnlam": "gönderme; elçi",
+   "karsilik": "Peygamber'e"
+  },
+  {
+   "kelime": "مِمَّن",
+   "okunus": "mimmen",
+   "kok": "—",
+   "kokAnlam": "(edat) kimseden",
+   "karsilik": "kimden ayırt"
+  },
+  {
+   "kelime": "يَنقَلِبُ",
+   "okunus": "yenkalibü",
+   "kok": "قلب",
+   "kokAnlam": "çevirme, dönme",
+   "karsilik": "döndüğünü"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "عَقِبَيْهِ",
+   "okunus": "akıbeyhi",
+   "kok": "عقب",
+   "kokAnlam": "ardı, topuk, ökçe",
+   "karsilik": "ökçesi"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) ve gerçekten",
+   "karsilik": "ve gerçekten"
+  },
+  {
+   "kelime": "كَانَتْ",
+   "okunus": "kânet",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "لَكَبِيرَةً",
+   "okunus": "lekebîraten",
+   "kok": "كبر",
+   "kokAnlam": "büyük, ağır olma",
+   "karsilik": "elbette ağır"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "hidayete erdirdiği kimseler dışında"
+  },
+  {
+   "kelime": "هَدَى",
+   "okunus": "hedâ",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme",
+   "karsilik": "hidayete erdirdiği"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah; özel ad Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değildir",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olan"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah; özel ad Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لِيُضِيعَ",
+   "okunus": "liyüdîa",
+   "kok": "ضيع",
+   "kokAnlam": "zayi etme, kaybetme",
+   "karsilik": "zayi edecek"
+  },
+  {
+   "kelime": "إِيمَٰنَكُمْ",
+   "okunus": "îmâneküm",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; iman",
+   "karsilik": "imanınızı"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah; özel ad Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِٱلنَّاسِ",
+   "okunus": "bin nâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet",
+   "karsilik": "insanlara"
+  },
+  {
+   "kelime": "لَرَءُوفٌ",
+   "okunus": "leraûfün",
+   "kok": "رأف",
+   "kokAnlam": "şefkat, acıma",
+   "karsilik": "elbette çok şefkatlidir"
+  },
+  {
+   "kelime": "رَّحِيمٌ",
+   "okunus": "rahîmün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet, esirgeme",
+   "karsilik": "çok merhametlidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, ümmetin 'vasat' (orta, dengeli) bir topluluk olarak nitelenmesiyle başlar; bu denge, aşırılıklardan uzak, insanlara örnek ve tanık olabilecek bir konumu ifade eder. Ardından kıble değişiminin hikmeti açıklanır: bu değişiklik, Peygamber'e gerçekten uyanlarla sözde bağlılık gösterip geri dönenleri birbirinden ayırt etmek içindir.",
+  "Ayet, bu değişikliğin bazı insanlara ağır geleceğini kabul eder, ancak bunun Allah'ın hidayete erdirdiği kimseler için zor olmayacağını belirtir. Son cümle, önceki kıbleye (Kudüs'e) yönelerek kılınan namazların boşa gitmeyeceğine dair bir güvence taşır; Allah'ın rahmeti, geçmişteki samimi ibadeti zayi etmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:142",
+   "meal": "İnsanlardan beyinsizler, 'Onları üzerinde bulundukları kıblelerinden çeviren nedir?' diyecekler. De ki: 'Doğu da batı da Allah'ındır.'",
+   "baglanti": "142. ayette önceden haber verilen itiraz, 143. ayette kıble değişiminin hikmeti açıklanarak cevaplanır."
+  },
+  {
+   "ref": "3:110",
+   "meal": "Siz, insanlar için çıkarılmış en hayırlı ümmetsiniz; iyiliği emreder, kötülükten men eder ve Allah'a inanırsınız.",
+   "baglanti": "'Vasat ümmet' ve 'en hayırlı ümmet' nitelemeleri birbirine yakındır; her iki ayet de bu topluluğa insanlığa örnek olma görevi yükler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıble değişikliği ve bunun ümmete yüklediği tanıklık görevidir. Günlük hayata taşınabilecek ders, 'dengeli/vasat' olmanın, aşırılıklardan uzak, ölçülü bir duruş sergilemek anlamına geldiğidir.",
+  "Bir topluluk ya da kişi, bazen bir uca (aşırı katılık ya da aşırı gevşeklik) savrulabilir. Bu ayet, örnek olmanın dengeli bir tutumla mümkün olduğunu, ayrıca bir değişikliğin zor gelmesinin doğal olduğunu ama samimi bağlılığın bu zorluğu aşacağını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Dengeyi ara",
+   "aciklama": "Bugün bir konuda aşırıya kaçmadan, ölçülü bir tutum sergilemeye çalış."
+  },
+  {
+   "baslik": "Örnek davran",
+   "aciklama": "Bugün başkalarının seni izlediğini düşünerek, tutarlı bir davranış sergile."
+  },
+  {
+   "baslik": "Zorluğu kabul et",
+   "aciklama": "Bugün alışkanlığını değiştirmesi gereken bir konuda, zorluğu kabul edip yine de adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda aşırıya kaçmadan, dengeli ve örnek olacak bir davranış sergile.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=143"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/143"
+  }
+ ]
+}

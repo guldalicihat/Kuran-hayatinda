@@ -1,0 +1,565 @@
+{
+ "sure": 2,
+ "ayet": 196,
+ "durum": "taslak",
+ "meal": "Haccı ve umreyi Allah için tamamlayın. Eğer engellenirseniz, kolayınıza gelen bir kurban [gönderin]. Kurban yerine ulaşıncaya kadar başlarınızı tıraş etmeyin. Sizden kim hasta olur veya başında bir rahatsızlık bulunursa, oruç, sadaka veya kurbandan bir fidye [gerekir]. Güvene kavuştuğunuzda, kim umreyi hacca kadar sürdürürse, kolayına gelen bir kurban [kessin]. Bulamayan kimse hacda üç, döndüğünüzde de yedi gün olmak üzere tam on gün oruç tutsun. Bu [kolaylık], ailesi Mescid-i Harâm'da oturmayanlar içindir. Allah'tan sakının ve bilin ki Allah'ın cezası çetindir.",
+ "mealNotu": "Uzun ve ayrıntılı bir hac hükmü ayetidir; klasik tefsir bu hükümlerin kapsamını (temettu, ifrad, kıran gibi hac türleri ve kefaretleri) mezheplere göre farklı yorumlar. Burada ayetin genel akışı verilmiş, ayrıntılı fıkhi hükümler kesin gibi sunulmamıştır.",
+ "kokler": [
+  {
+   "kelime": "وَأَتِمُّوا۟",
+   "okunus": "ve etimmû",
+   "kok": "تمم",
+   "kokAnlam": "tamamlama, eksiksiz kılma",
+   "karsilik": "ve tamamlayın"
+  },
+  {
+   "kelime": "ٱلْحَجِّ",
+   "okunus": "elhacce",
+   "kok": "حجج",
+   "kokAnlam": "yönelme, ziyaret; hac",
+   "karsilik": "haccı"
+  },
+  {
+   "kelime": "وَٱلْعُمْرَةَ",
+   "okunus": "vel umrate",
+   "kok": "عمر",
+   "kokAnlam": "ziyaret etme, umre",
+   "karsilik": "ve umreyi"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah için"
+  },
+  {
+   "kelime": "فَإِنْ",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أُحْصِرْتُمْ",
+   "okunus": "ühsırtüm",
+   "kok": "حصر",
+   "kokAnlam": "engellenme, kuşatılma",
+   "karsilik": "engellenirseniz"
+  },
+  {
+   "kelime": "فَمَا",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) artık ne ki",
+   "karsilik": "artık"
+  },
+  {
+   "kelime": "ٱسْتَيْسَرَ",
+   "okunus": "isteysera",
+   "kok": "يسر",
+   "kokAnlam": "kolaylık",
+   "karsilik": "kolay gelen"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْهَدْىِ",
+   "okunus": "elhedyi",
+   "kok": "هدي",
+   "kokAnlam": "hediye; kurban",
+   "karsilik": "kurban"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve -meyin"
+  },
+  {
+   "kelime": "تَحْلِقُوا۟",
+   "okunus": "tahlikû",
+   "kok": "حلق",
+   "kokAnlam": "tıraş etme",
+   "karsilik": "tıraş etmeyin"
+  },
+  {
+   "kelime": "رُءُوسَكُمْ",
+   "okunus": "ruûseküm",
+   "kok": "رأس",
+   "kokAnlam": "baş",
+   "karsilik": "başlarınızı"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "يَبْلُغَ",
+   "okunus": "yeblüğa",
+   "kok": "بلغ",
+   "kokAnlam": "ulaşma, erişme",
+   "karsilik": "ulaşıncaya"
+  },
+  {
+   "kelime": "ٱلْهَدْىِ",
+   "okunus": "elhedyü",
+   "kok": "هدي",
+   "kokAnlam": "hediye; kurban",
+   "karsilik": "kurban"
+  },
+  {
+   "kelime": "مَحِلَّهُۥ",
+   "okunus": "mehillehû",
+   "kok": "حلل",
+   "kokAnlam": "çözme, çözülme; varış yeri",
+   "karsilik": "yerine"
+  },
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(şart) artık kim ki",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olursa"
+  },
+  {
+   "kelime": "مِنكُم",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "مَّرِيضًا",
+   "okunus": "merîdan",
+   "kok": "مرض",
+   "kokAnlam": "hastalık",
+   "karsilik": "hasta"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "بِهِۦٓ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "أَذًى",
+   "okunus": "ezen",
+   "kok": "أذي",
+   "kokAnlam": "rahatsızlık, eziyet",
+   "karsilik": "bir rahatsızlık"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّأْسِهِۦ",
+   "okunus": "ra'sihî",
+   "kok": "رأس",
+   "kokAnlam": "baş",
+   "karsilik": "başından"
+  },
+  {
+   "kelime": "فَفِدْيَةٌ",
+   "okunus": "fefidyetün",
+   "kok": "فدي",
+   "kokAnlam": "fidye, bedel ödeme",
+   "karsilik": "artık bir fidye [gerekir]"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "صِيَامٍ",
+   "okunus": "sıyâmin",
+   "kok": "صوم",
+   "kokAnlam": "kendini alıkoyma, tutunma; oruç",
+   "karsilik": "oruçtan"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "صَدَقَةٍ",
+   "okunus": "sadekatin",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, doğru olma; sadaka",
+   "karsilik": "sadakadan"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "نُسُكٍ",
+   "okunus": "nüsükin",
+   "kok": "نسك",
+   "kokAnlam": "ibadet, kurban",
+   "karsilik": "kurbandan"
+  },
+  {
+   "kelime": "فَإِذَآ",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) artık -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "أَمِنتُمْ",
+   "okunus": "emintüm",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet",
+   "karsilik": "güvene kavuştuğunuzda"
+  },
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(şart) artık kim ki",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "تَمَتَّعَ",
+   "okunus": "temettea",
+   "kok": "متع",
+   "kokAnlam": "yararlanma, faydalanma",
+   "karsilik": "yararlanırsa"
+  },
+  {
+   "kelime": "بِٱلْعُمْرَةِ",
+   "okunus": "bil umrati",
+   "kok": "عمر",
+   "kokAnlam": "ziyaret etme, umre",
+   "karsilik": "umreden"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "ٱلْحَجِّ",
+   "okunus": "elhacci",
+   "kok": "حجج",
+   "kokAnlam": "yönelme, ziyaret; hac",
+   "karsilik": "hacca"
+  },
+  {
+   "kelime": "فَمَا",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) artık ne ki",
+   "karsilik": "artık"
+  },
+  {
+   "kelime": "ٱسْتَيْسَرَ",
+   "okunus": "isteysera",
+   "kok": "يسر",
+   "kokAnlam": "kolaylık",
+   "karsilik": "kolay gelen"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْهَدْىِ",
+   "okunus": "elhedyi",
+   "kok": "هدي",
+   "kokAnlam": "hediye; kurban",
+   "karsilik": "kurban [kessin]"
+  },
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(şart) artık kim ki",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi",
+   "karsilik": "-mediyse"
+  },
+  {
+   "kelime": "يَجِدْ",
+   "okunus": "yecid",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulamadıysa"
+  },
+  {
+   "kelime": "فَصِيَامُ",
+   "okunus": "fesıyâmü",
+   "kok": "صوم",
+   "kokAnlam": "kendini alıkoyma, tutunma; oruç",
+   "karsilik": "artık oruç tutsun"
+  },
+  {
+   "kelime": "ثَلَٰثَةِ",
+   "okunus": "selâseti",
+   "kok": "ثلث",
+   "kokAnlam": "üç, üçleme",
+   "karsilik": "üç"
+  },
+  {
+   "kelime": "أَيَّامٍ",
+   "okunus": "eyyâmin",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gün"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْحَجِّ",
+   "okunus": "elhacci",
+   "kok": "حجج",
+   "kokAnlam": "yönelme, ziyaret; hac",
+   "karsilik": "hacda"
+  },
+  {
+   "kelime": "وَسَبْعَةٍ",
+   "okunus": "ve seb'atin",
+   "kok": "سبع",
+   "kokAnlam": "yedi",
+   "karsilik": "ve yedi gün"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "رَجَعْتُمْ",
+   "okunus": "raca'tüm",
+   "kok": "رجع",
+   "kokAnlam": "dönme, geri gelme",
+   "karsilik": "döndüğünüzde"
+  },
+  {
+   "kelime": "تِلْكَ",
+   "okunus": "tilke",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bunlar",
+   "karsilik": "işte bunlar"
+  },
+  {
+   "kelime": "عَشَرَةٌ",
+   "okunus": "aşeratün",
+   "kok": "عشر",
+   "kokAnlam": "on; on sayısı",
+   "karsilik": "on gündür"
+  },
+  {
+   "kelime": "كَامِلَةٌ",
+   "okunus": "kâmiletün",
+   "kok": "كمل",
+   "kokAnlam": "tamamlanma, eksiksiz olma",
+   "karsilik": "tam"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "لِمَن",
+   "okunus": "limen",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimin için ki",
+   "karsilik": "kimin için"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "يَكُنْ",
+   "okunus": "yekün",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-yse"
+  },
+  {
+   "kelime": "أَهْلُهُۥ",
+   "okunus": "ehlühû",
+   "kok": "أهل",
+   "kokAnlam": "aile, ehil olma",
+   "karsilik": "ailesi"
+  },
+  {
+   "kelime": "حَاضِرِى",
+   "okunus": "hâdırî",
+   "kok": "حضر",
+   "kokAnlam": "hazır olma, gelip çatma",
+   "karsilik": "oturanlarından"
+  },
+  {
+   "kelime": "ٱلْمَسْجِدِ",
+   "okunus": "elmescidi",
+   "kok": "سجد",
+   "kokAnlam": "secde etme; mescit",
+   "karsilik": "Mescid-i"
+  },
+  {
+   "kelime": "ٱلْحَرَامِ",
+   "okunus": "elharâmi",
+   "kok": "حرم",
+   "kokAnlam": "yasaklık, saygınlık, dokunulmazlık",
+   "karsilik": "Harâm'da"
+  },
+  {
+   "kelime": "وَٱتَّقُوا۟",
+   "okunus": "vettekû",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "ve sakının"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "وَٱعْلَمُوٓا۟",
+   "okunus": "velemû",
+   "kok": "علم",
+   "kokAnlam": "bilme, ilim",
+   "karsilik": "ve bilin"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "شَدِيدُ",
+   "okunus": "şedîdü",
+   "kok": "شدد",
+   "kokAnlam": "şiddet, güç",
+   "karsilik": "çetindir"
+  },
+  {
+   "kelime": "ٱلْعِقَابِ",
+   "okunus": "el'ikâbi",
+   "kok": "عقب",
+   "kokAnlam": "arkasından gelme; ceza, akıbet",
+   "karsilik": "cezası"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu uzun ayet, hac ve umre ibadetinin tamamlanması, engellenme durumunda kurban, hasta ya da rahatsızlığı olanlar için fidye ve umreyi hacca bağlayanlar için kurban veya oruç gibi ayrıntılı hükümleri sıralar. Ayetin genel çerçevesi, ibadeti tamamlamanın esas olduğunu, ancak zorluk hâlinde kolaylaştırıcı alternatiflerin bulunduğunu gösterir.",
+  "Klasik tefsir, ayetteki hac türleri (temettu, kıran, ifrad) ve kefaret miktarlarına dair ayrıntılı hükümleri farklı biçimlerde yorumlar; bu yüzden burada kesin bir fıkhi uygulama sunulmaz, yalnızca ayetin genel akışı aktarılır. Ayetin sonunda Allah'ın cezasının çetinliği hatırlatılarak ibadetin ciddiyetle ele alınması istenir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:158",
+   "meal": "Şüphesiz Safâ ile Merve Allah'ın işaretlerindendir. Kim Beyt'i hacceder veya umre yaparsa, ikisini tavaf etmesinde ona bir günah yoktur.",
+   "baglanti": "Aynı surede geçen bu ayet, hac ve umrenin temel unsurlarından birini (Safâ-Merve arasında tavaf) anlatarak 196. ayetteki hac hükümlerini tamamlar."
+  },
+  {
+   "ref": "3:97",
+   "meal": "Gücü yetenlerin Beyt'i haccetmesi, insanlar üzerinde Allah'ın bir hakkıdır.",
+   "baglanti": "Âl-i İmrân suresindeki bu ayet, hac yükümlülüğünün gücü yetenlere ait olduğunu belirterek 196. ayetteki hükümlerin temel şartını netleştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, hac ve umre ibadetinin özel ve ayrıntılı hükümleridir; bu, belirli bir ibadete dair fıkhi bir düzenlemedir ve burada kesin hukuki detaylarla sunulmaz.",
+  "Genel ders, bir ibadeti veya taahhüdü yarıda bırakmamaya çalışmak, ama engelle karşılaşıldığında da makul bir alternatif bulmaktır. Bir hedefe kilitlenip zorluk çıktığında tamamen vazgeçmek yerine, elindeki imkânla (kolayına geleni vererek) süreci tamamlamaya çalışmak bu ayetten çıkarılabilecek bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yarıda bırakma",
+   "aciklama": "Bugün, engelle karşılaştığın bir hedefi tamamen bırakmak yerine alternatif bir yolla sürdür."
+  },
+  {
+   "baslik": "Elindeki imkâna göre çöz",
+   "aciklama": "Bir sorunu çözerken elinde olanla, 'kolayına geleni' vererek ilerle."
+  },
+  {
+   "baslik": "Ciddiyeti hatırla",
+   "aciklama": "Üstlendiğin bir sorumluluğu, sonuçlarını düşünerek ciddiyetle sürdür."
+  }
+ ],
+ "bugununAdimi": "Bugün engelle karşılaştığın bir hedefi, elindeki en kolay imkânla ilerletmeye çalış.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=196"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/196"
+  }
+ ]
+}

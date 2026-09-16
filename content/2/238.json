@@ -1,0 +1,110 @@
+{
+ "sure": 2,
+ "ayet": 238,
+ "durum": "taslak",
+ "meal": "Namazları ve orta namazı koruyun. Allah'ın huzurunda gönülden boyun eğerek durun.",
+ "mealNotu": "'Vüstâ' kökü ortada olanı, en dengeli olanı ifade eder; klasik tefsirde hangi namaz olduğuna dair farklı görüşler vardır, kesin bir belirleme yapılmaz. 'Kânitîn' kökü sadece ayakta durmayı değil, içten bir teslimiyeti anlatır.",
+ "kokler": [
+  {
+   "kelime": "حَٰفِظُوا۟",
+   "okunus": "hâfizû",
+   "kok": "حفظ",
+   "kokAnlam": "koruma, gözetme",
+   "karsilik": "koruyun"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلصَّلَوَٰتِ",
+   "okunus": "essalevâti",
+   "kok": "صلو",
+   "kokAnlam": "namaz, dua",
+   "karsilik": "namazları"
+  },
+  {
+   "kelime": "وَٱلصَّلَوٰةِ",
+   "okunus": "ves salâti",
+   "kok": "صلو",
+   "kokAnlam": "namaz, dua",
+   "karsilik": "ve namazı"
+  },
+  {
+   "kelime": "ٱلْوُسْطَىٰ",
+   "okunus": "elvüstâ",
+   "kok": "وسط",
+   "kokAnlam": "orta, dengeli olma",
+   "karsilik": "orta olan"
+  },
+  {
+   "kelime": "وَقُومُوا۟",
+   "okunus": "ve kûmû",
+   "kok": "قوم",
+   "kokAnlam": "ayağa kalkma, durma",
+   "karsilik": "ve durun"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah için"
+  },
+  {
+   "kelime": "قَٰنِتِينَ",
+   "okunus": "kânitîne",
+   "kok": "قنت",
+   "kokAnlam": "boyun eğme, gönülden itaat",
+   "karsilik": "gönülden boyun eğerek"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerde anlatılan aile içi hükümlerin (boşanma, nafaka, mehir) ortasında ansızın namaza döner; bu, gündelik hayatın en karmaşık meselelerinin bile ibadet bilincinden kopuk ele alınmaması gerektiğini hissettirir. Namazları, özellikle 'orta namaz' olarak nitelenen birini korumak özellikle vurgulanır.",
+  "Klasik tefsir 'orta namaz'ın hangisi olduğu konusunda farklı görüşler nakleder (çoğunlukla ikindi namazına işaret edildiği söylenir), ama kesin bir isim vermeden ayetin asıl vurgusunun süreklilik ve içtenlik olduğunu belirtir. 'Kânitîn' ifadesi, namazın sadece bedensel bir hareket değil, gönülden bir teslimiyet olması gerektiğini hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:103",
+   "meal": "Şüphesiz namaz, müminler üzerine vakitleri belirlenmiş bir farz olarak yazılmıştır.",
+   "baglanti": "238. ayetteki 'namazları koruyun' emrinin, namazın vakitlere bağlı, düzenli bir yükümlülük olduğunu gösteren tamamlayıcısıdır."
+  },
+  {
+   "ref": "70:34",
+   "meal": "Ve onlar, namazlarına tam olarak riayet ederler.",
+   "baglanti": "238. ayetteki 'koruma' vurgusunu, kurtuluşa erenlerin bir özelliği olarak tekrar eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu namaza devamlılıktır; bu, ibadet hayatının merkezindeki bir konudur.",
+  "Günlük hayatta 'koruma' fiilinin seçilmesi anlamlıdır: namaz, yoğun günlerde ilk feda edilen şey olabilir. Ayet, yoğunluk arasında bile bu düzenliliği korumanın, hayatın karmaşasında bir denge noktası oluşturduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir namazı özellikle koru",
+   "aciklama": "Bugün en çok ihmal ettiğin bir namaz vaktini, alarm kurarak veya plan yaparak koru."
+  },
+  {
+   "baslik": "Huşuya dikkat et",
+   "aciklama": "Bugün kıldığın bir namazda, acele etmeden, gönülden bir bağla dur."
+  },
+  {
+   "baslik": "Yoğun günde önceliğini belirle",
+   "aciklama": "Yoğun bir günde, namaz vaktini diğer işlerin arasına sıkıştırmak yerine önceden planla."
+  }
+ ],
+ "bugununAdimi": "Bugün en çok ihmal ettiğin namaz vaktini, önceden bir hatırlatıcı kurarak koru.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=238"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/238"
+  }
+ ]
+}

@@ -1,0 +1,502 @@
+{
+ "sure": 2,
+ "ayet": 233,
+ "durum": "taslak",
+ "meal": "Anneler, emzirmeyi tamamlamak isteyen için, çocuklarını iki tam yıl emzirirler. Çocuk kendisi için doğrulan babanın üzerine ise, örfe uygun şekilde onların yiyeceği ve giyeceği düşer. Hiç kimse gücünün üzerinde bir şeyle yükümlü tutulmaz. Ne anne çocuğu yüzünden ne de baba çocuğu yüzünden zarar görsün. Vârise de bunun aynısı düşer. Eğer ikisi de karşılıklı rıza ve istişareyle sütten kesmeyi isterlerse, ikisine de bir sakınca yoktur. Çocuklarınızı bir süt anneye emzirtmek isterseniz, verdiğinizi örfe uygun şekilde teslim ettiğiniz sürece size de bir sakınca yoktur. Allah'tan sakının ve bilin ki Allah yaptıklarınızı hakkıyla görür.",
+ "mealNotu": "'Fisâl' kökü ayırmayı, burada sütten kesmeyi anlatır. Ayetteki 'kendisi için doğrulan' ifadesi babayı, soy bağının kendisine ait olduğu kişiyi belirtmek için kullanılmıştır.",
+ "kokler": [
+  {
+   "kelime": "وَٱلْوَٰلِدَٰتُ",
+   "okunus": "vel vâlidâtü",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; anneler",
+   "karsilik": "anneler"
+  },
+  {
+   "kelime": "يُرْضِعْنَ",
+   "okunus": "yürdı'ne",
+   "kok": "رضع",
+   "kokAnlam": "emzirme",
+   "karsilik": "emzirirler"
+  },
+  {
+   "kelime": "أَوْلَٰدَهُنَّ",
+   "okunus": "evlâdehünne",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; çocuklar",
+   "karsilik": "çocuklarını"
+  },
+  {
+   "kelime": "حَوْلَيْنِ",
+   "okunus": "havleyni",
+   "kok": "حول",
+   "kokAnlam": "yıl, dönme",
+   "karsilik": "iki yıl"
+  },
+  {
+   "kelime": "كَامِلَيْنِ",
+   "okunus": "kâmileyni",
+   "kok": "كمل",
+   "kokAnlam": "tamlık, eksiksiz olma",
+   "karsilik": "tam olarak"
+  },
+  {
+   "kelime": "لِمَنْ",
+   "okunus": "limen",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimse için",
+   "karsilik": "isteyen için"
+  },
+  {
+   "kelime": "أَرَادَ",
+   "okunus": "erâde",
+   "kok": "رود",
+   "kokAnlam": "isteme",
+   "karsilik": "isteyen"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -i",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "يُتِمَّ",
+   "okunus": "yütimme",
+   "kok": "تمم",
+   "kokAnlam": "tamamlama",
+   "karsilik": "tamamlamayı"
+  },
+  {
+   "kelime": "ٱلرَّضَاعَةَ",
+   "okunus": "erradâate",
+   "kok": "رضع",
+   "kokAnlam": "emzirme",
+   "karsilik": "emzirmeyi"
+  },
+  {
+   "kelime": "وَعَلَى",
+   "okunus": "ve alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine ise"
+  },
+  {
+   "kelime": "ٱلْمَوْلُودِ",
+   "okunus": "elmevlûdi",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; doğurulan (çocuk sahibi baba)",
+   "karsilik": "kendisi için doğrulan babanın"
+  },
+  {
+   "kelime": "لَّهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "ona",
+   "karsilik": "kendisi için"
+  },
+  {
+   "kelime": "رِزْقُهُنَّ",
+   "okunus": "rizkuhünne",
+   "kok": "رزق",
+   "kokAnlam": "rızık",
+   "karsilik": "onların yiyeceği"
+  },
+  {
+   "kelime": "وَكِسْوَتُهُنَّ",
+   "okunus": "ve kisvetühünne",
+   "kok": "كسو",
+   "kokAnlam": "giydirme; giysi",
+   "karsilik": "ve giyeceği"
+  },
+  {
+   "kelime": "بِٱلْمَعْرُوفِ",
+   "okunus": "bil ma'rûfi",
+   "kok": "عرف",
+   "kokAnlam": "bilinen, iyi olan; örf",
+   "karsilik": "örfe uygun şekilde"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-maz"
+  },
+  {
+   "kelime": "تُكَلَّفُ",
+   "okunus": "tükellefü",
+   "kok": "كلف",
+   "kokAnlam": "yükümlü kılma",
+   "karsilik": "yükümlü tutulmaz"
+  },
+  {
+   "kelime": "نَفْسٌ",
+   "okunus": "nefsün",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kişi",
+   "karsilik": "hiç kimse"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "وُسْعَهَا",
+   "okunus": "vüs'ahâ",
+   "kok": "وسع",
+   "kokAnlam": "genişlik, güç yetirme",
+   "karsilik": "gücü kadarından"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-sın"
+  },
+  {
+   "kelime": "تُضَآرَّ",
+   "okunus": "tüdârra",
+   "kok": "ضرر",
+   "kokAnlam": "zarar verme",
+   "karsilik": "zarar görmesin"
+  },
+  {
+   "kelime": "وَٰلِدَةٌۢ",
+   "okunus": "vâlidetün",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; anne",
+   "karsilik": "anne"
+  },
+  {
+   "kelime": "بِوَلَدِهَا",
+   "okunus": "biveledihâ",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; çocuk",
+   "karsilik": "çocuğu yüzünden"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve ne de"
+  },
+  {
+   "kelime": "مَوْلُودٌ",
+   "okunus": "mevlûdün",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; çocuk sahibi baba",
+   "karsilik": "çocuk sahibi baba"
+  },
+  {
+   "kelime": "لَّهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "kendisi için",
+   "karsilik": "kendisi için"
+  },
+  {
+   "kelime": "بِوَلَدِهِۦ",
+   "okunus": "biveledihî",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; çocuk",
+   "karsilik": "çocuğu yüzünden"
+  },
+  {
+   "kelime": "وَعَلَى",
+   "okunus": "ve alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine düşer"
+  },
+  {
+   "kelime": "ٱلْوَارِثِ",
+   "okunus": "elvârisi",
+   "kok": "ورث",
+   "kokAnlam": "miras alma; vâris",
+   "karsilik": "vârise de"
+  },
+  {
+   "kelime": "مِثْلُ",
+   "okunus": "mislü",
+   "kok": "مثل",
+   "kokAnlam": "benzeme, örnek olma",
+   "karsilik": "aynısı"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunun",
+   "karsilik": "bunun"
+  },
+  {
+   "kelime": "فَإِنْ",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَرَادَا",
+   "okunus": "erâdâ",
+   "kok": "رود",
+   "kokAnlam": "isteme",
+   "karsilik": "ikisi de isterse"
+  },
+  {
+   "kelime": "فِصَالًا",
+   "okunus": "fisâlen",
+   "kok": "فصل",
+   "kokAnlam": "ayırma, sütten kesme",
+   "karsilik": "sütten kesmeyi"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den dolayı",
+   "karsilik": "-den dolayı"
+  },
+  {
+   "kelime": "تَرَاضٍ",
+   "okunus": "terâdın",
+   "kok": "رضو",
+   "kokAnlam": "razı olma",
+   "karsilik": "karşılıklı rıza"
+  },
+  {
+   "kelime": "مِّنْهُمَا",
+   "okunus": "minhümâ",
+   "kok": "—",
+   "kokAnlam": "ikisinden",
+   "karsilik": "ikisinden"
+  },
+  {
+   "kelime": "وَتَشَاوُرٍ",
+   "okunus": "ve teşâvürin",
+   "kok": "شور",
+   "kokAnlam": "danışma, istişare",
+   "karsilik": "ve istişareden"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "جُنَاحَ",
+   "okunus": "cünâha",
+   "kok": "جنح",
+   "kokAnlam": "günah, sakınca",
+   "karsilik": "bir sakınca"
+  },
+  {
+   "kelime": "عَلَيْهِمَا",
+   "okunus": "aleyhimâ",
+   "kok": "—",
+   "kokAnlam": "ikisine",
+   "karsilik": "ikisine"
+  },
+  {
+   "kelime": "وَإِنْ",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) ve eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "أَرَدتُّمْ",
+   "okunus": "eradttüm",
+   "kok": "رود",
+   "kokAnlam": "isteme",
+   "karsilik": "isterseniz"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -yi",
+   "karsilik": "-yi"
+  },
+  {
+   "kelime": "تَسْتَرْضِعُوٓا۟",
+   "okunus": "testerdıû",
+   "kok": "رضع",
+   "kokAnlam": "emzirtme, süt anne tutma",
+   "karsilik": "bir süt anneye emzirtmeyi"
+  },
+  {
+   "kelime": "أَوْلَٰدَكُمْ",
+   "okunus": "evlâdeküm",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; çocuklar",
+   "karsilik": "çocuklarınızı"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "جُنَاحَ",
+   "okunus": "cünâha",
+   "kok": "جنح",
+   "kokAnlam": "günah, sakınca",
+   "karsilik": "bir sakınca"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) ne zaman ki",
+   "karsilik": "ne zaman ki"
+  },
+  {
+   "kelime": "سَلَّمْتُم",
+   "okunus": "sellemtüm",
+   "kok": "سلم",
+   "kokAnlam": "teslim etme, esenlik",
+   "karsilik": "teslim ederseniz"
+  },
+  {
+   "kelime": "مَّآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "ءَاتَيْتُم",
+   "okunus": "âteytüm",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "verdiğiniz"
+  },
+  {
+   "kelime": "بِٱلْمَعْرُوفِ",
+   "okunus": "bil ma'rûfi",
+   "kok": "عرف",
+   "kokAnlam": "bilinen, iyi olan; örf",
+   "karsilik": "örfe uygun şekilde"
+  },
+  {
+   "kelime": "وَٱتَّقُوا۟",
+   "okunus": "vettekû",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "sakının"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "وَٱعْلَمُوٓا۟",
+   "okunus": "velemû",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilin ki"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma, iş",
+   "karsilik": "yaptığınız"
+  },
+  {
+   "kelime": "بَصِيرٌ",
+   "okunus": "besîrun",
+   "kok": "بصر",
+   "kokAnlam": "görme",
+   "karsilik": "hakkıyla görür"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, boşanmış bir anne ile babanın ortak çocuğunun beslenmesi konusunda ayrıntılı bir çerçeve çizer: emzirme süresi iki tam yıldır, bu sürede annenin yiyecek ve giyeceği örfe uygun şekilde babaya aittir, ama bu yükümlülük kimsenin gücünü aşacak şekilde dayatılmaz. Anne veya baba, çocuk üzerinden birbirine zarar vermemelidir.",
+  "Ayet ayrıca esneklik de tanır: ebeveynler karşılıklı rıza ve istişareyle erken sütten kesmeye karar verebilir, ya da bir süt anne tutabilirler; yeter ki hak edilen ücret örfe uygun şekilde ödensin. Klasik tefsir bu ayeti, boşanmanın çocuğun bakımını ihmal etmeye gerekçe yapılamayacağını, kararların çocuğun yararı gözetilerek ve karşılıklı danışmayla alınması gerektiğini gösteren bir ilke olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "31:14",
+   "meal": "İnsana, anne babasına iyilik etmesini emrettik. Anası onu güçsüzlük üstüne güçsüzlükle taşıdı; sütten kesilmesi de iki yıl içindedir.",
+   "baglanti": "233. ayetteki iki yıllık emzirme süresini, anne babaya iyilik bağlamında bir kez daha hatırlatır."
+  },
+  {
+   "ref": "65:7",
+   "meal": "Eli geniş olan nafakayı genişliğine göre versin, rızkı daraltılmış olan da Allah'ın kendisine verdiğinden versin. Allah kimseyi verdiğinden fazlasıyla yükümlü tutmaz.",
+   "baglanti": "233. ayetteki 'hiç kimse gücünün üzerinde yükümlü tutulmaz' ilkesini, nafaka bağlamında aynı fikirle pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, boşanma sonrası çocuğun bakım ve nafaka sorumluluğunun ebeveynler arasında paylaşımıdır; bu, aile hukukuna özgü bir konudur.",
+  "Buradan çıkan genel ders, bir çocuğun -veya herhangi bir ortak sorumluluğun- yükünü, tarafların birbirine kırgınlığından bağımsız olarak, istişareyle ve adil şekilde paylaşmaktır. Anlaşmazlık olsa bile, üçüncü bir tarafı (çocuğu) mağdur etmemek temel ilkedir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ortak bir sorumluluğu istişareyle paylaş",
+   "aciklama": "Bugün paylaştığın bir sorumlulukta (çocuk, iş, bakım), tek taraflı değil karşılıklı istişareyle karar ver."
+  },
+  {
+   "baslik": "Gücünün üstünde yük almaktan kaçın",
+   "aciklama": "Bugün üstlendiğin bir sorumluluğun, gücünün üzerinde olup olmadığını dürüstçe değerlendir."
+  },
+  {
+   "baslik": "Anlaşmazlıkta masumu koru",
+   "aciklama": "Bir çekişmede etkilenen üçüncü bir kişi varsa, bugün onun zarar görmemesini önceliklendir."
+  }
+ ],
+ "bugununAdimi": "Bugün paylaştığın bir sorumluluk hakkında ilgili kişiyle oturup açıkça istişare et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=233"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/233"
+  }
+ ]
+}

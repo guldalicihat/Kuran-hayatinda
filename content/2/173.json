@@ -1,0 +1,229 @@
+{
+ "sure": 2,
+ "ayet": 173,
+ "durum": "taslak",
+ "meal": "O, size ancak leşi, kanı, domuz etini ve Allah'tan başkası adına kesileni haram kıldı. Ama kim çaresiz kalırsa -sınırı aşmamak ve haddi tecavüz etmemek şartıyla- ona günah yoktur. Şüphesiz Allah, çok bağışlayandır, çok merhametlidir.",
+ "mealNotu": "'Ühille' kökü هلل, kesim sırasında bir ismin yüksek sesle anılmasını anlatır. 'Bâğ' ve 'âd' kelimeleri, zaruret sınırını aşmama şartının iki yönünü (istek dışı zorunluluk ve ölçülü kalma) ifade eder.",
+ "kokler": [
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak, sadece",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "حَرَّمَ",
+   "okunus": "harrame",
+   "kok": "حرم",
+   "kokAnlam": "yasaklama, haram kılma",
+   "karsilik": "haram kıldı"
+  },
+  {
+   "kelime": "عَلَيْكُمُ",
+   "okunus": "aleykümü",
+   "kok": "—",
+   "kokAnlam": "(edat) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "ٱلْمَيْتَةَ",
+   "okunus": "elmeytete",
+   "kok": "موت",
+   "kokAnlam": "ölme, ölüm; leş",
+   "karsilik": "leşi"
+  },
+  {
+   "kelime": "وَٱلدَّمَ",
+   "okunus": "ved deme",
+   "kok": "دمو",
+   "kokAnlam": "kan",
+   "karsilik": "ve kanı"
+  },
+  {
+   "kelime": "وَلَحْمَ",
+   "okunus": "ve lahme",
+   "kok": "لحم",
+   "kokAnlam": "et",
+   "karsilik": "ve etini"
+  },
+  {
+   "kelime": "ٱلْخِنزِيرِ",
+   "okunus": "elhınzîri",
+   "kok": "خنزر",
+   "kokAnlam": "domuz",
+   "karsilik": "domuz"
+  },
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şeyi",
+   "karsilik": "ve şeyi"
+  },
+  {
+   "kelime": "أُهِلَّ",
+   "okunus": "ühille",
+   "kok": "هلل",
+   "kokAnlam": "yüksek sesle anılma (kesimde)",
+   "karsilik": "anılan"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "لِغَيْرِ",
+   "okunus": "liğayri",
+   "kok": "غير",
+   "kokAnlam": "başka, gayrı",
+   "karsilik": "başkası adına"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah; özel ad Allah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "فَمَنِ",
+   "okunus": "femeni",
+   "kok": "—",
+   "kokAnlam": "(şart) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "ٱضْطُرَّ",
+   "okunus": "idturra",
+   "kok": "ضرر",
+   "kokAnlam": "zarar, zorunlu kalma",
+   "karsilik": "çaresiz kalırsa"
+  },
+  {
+   "kelime": "غَيْرَ",
+   "okunus": "gayra",
+   "kok": "غير",
+   "kokAnlam": "başka, gayrı",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "بَاغٍ",
+   "okunus": "bâğın",
+   "kok": "بغي",
+   "kokAnlam": "istek dışına çıkma, aşma",
+   "karsilik": "istek dışı"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...maksızın",
+   "karsilik": "ve ...maksızın"
+  },
+  {
+   "kelime": "عَادٍ",
+   "okunus": "âdin",
+   "kok": "عدو",
+   "kokAnlam": "haddi aşma, düşmanlık",
+   "karsilik": "haddi aşmaksızın"
+  },
+  {
+   "kelime": "فَلَآ",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yoktur",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "إِثْمَ",
+   "okunus": "isme",
+   "kok": "أثم",
+   "kokAnlam": "günah, suç",
+   "karsilik": "günah"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah; özel ad Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَفُورٌ",
+   "okunus": "gafûrun",
+   "kok": "غفر",
+   "kokAnlam": "bağışlama, örtme",
+   "karsilik": "çok bağışlayandır"
+  },
+  {
+   "kelime": "رَّحِيمٌ",
+   "okunus": "rahîmün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet, esirgeme",
+   "karsilik": "çok merhametlidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerdeki helal-temiz rızık çağrısının ardından, haram kılınan dört şeyi sayar: leş, akıtılmış kan, domuz eti ve Allah'tan başkası adına kesilen hayvan. Bu liste, dönemin bazı keyfi yasaklarının aksine, sınırlı ve nettir.",
+  "Ayetin ikinci yarısı, zaruret hâlinde bu yasağın esnetilebileceğini bildirir; ancak bu esneklik, 'istek dışı ve haddi aşmamak' şartına bağlıdır -yani kişi bilerek arzu etmeden ve ihtiyacı kadarıyla sınırlı kalmalıdır. Klasik tefsir, bu şartın ayrıntılarını fıkıh kapsamında ele alır; ayet burada genel ilkeyi verir ve Allah'ın bağışlayıcılığını vurgulayarak biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:3",
+   "meal": "Leş, kan, domuz eti, Allah'tan başkası adına kesilen... size haram kılındı... Ama kim açlıktan bunalıp günaha meyletmeksizin çaresiz kalırsa, şüphesiz Allah çok bağışlayandır, çok merhametlidir.",
+   "baglanti": "Aynı dört haram madde ve zaruret istisnası, Mâide suresinde daha ayrıntılı bir listeyle birlikte tekrarlanır; 2:173 bu listenin özlü ilk bildirimidir."
+  },
+  {
+   "ref": "6:145",
+   "meal": "De ki: 'Bana vahyolunanda, leş, akıtılmış kan, domuz eti -ki bu gerçekten pistir- ve Allah'tan başkası adına, günaha saparak kesilenden başka, yiyene haram kılınmış bir şey bulamıyorum...'",
+   "baglanti": "Aynı dört haram madde burada da tekrarlanır; bu tekrar, listenin Kur'an genelinde tutarlı olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dinen yasaklanan yiyeceklerin sınırlı ve net bir listesi ile zaruret hâlindeki istisnadır; bu özel bir hukuki hükümdür ve ayrıntıları fıkıh kaynaklarında ele alınır. Günlük hayata taşınabilecek ders, dinin yasaklarının keyfi değil, ölçülü ve zaruret durumunda esnekliğe açık olduğudur.",
+  "Bir kişi zor bir durumda kaldığında, katı bir kuralın istisnasız uygulanması yıkıcı olabilir. Bu ayet, kuralların amacının insanı zora sokmak değil, onu korumak olduğunu; zaruret hâlinde ölçülü bir esnekliğin merhametin bir parçası olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ölçülü ol",
+   "aciklama": "Bugün bir kuralı uygularken, hem ilkeye bağlı kal hem de aşırı katılıktan kaçın."
+  },
+  {
+   "baslik": "Zaruret ile keyfi ayır",
+   "aciklama": "Bugün bir istisna yapman gerekiyorsa, bunun gerçek bir zaruret mi yoksa bahane mi olduğunu dürüstçe değerlendir."
+  },
+  {
+   "baslik": "Merhameti hatırla",
+   "aciklama": "Bugün bir kural ihlali gördüğünde, hemen yargılamadan önce durumu anlamaya çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kuralı uygularken, hem ilkene bağlı kal hem de gereksiz katılıktan kaçın.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=173"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/173"
+  }
+ ]
+}

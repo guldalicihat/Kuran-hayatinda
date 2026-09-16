@@ -1,0 +1,243 @@
+{
+ "sure": 2,
+ "ayet": 189,
+ "durum": "taslak",
+ "meal": "Sana hilâllerden sorarlar. De ki: Onlar insanlar ve hac için vakit ölçüleridir. İyilik (birr), evlere arkalarından gelmeniz değildir; fakat iyilik, sakınan kimsenin [tutumudur]. Evlere kapılarından gelin ve Allah'a karşı gelmekten sakının ki kurtuluşa eresiniz.",
+ "mealNotu": "'Mevâkît' kökü (وقت) vakit, ölçülü zaman anlamındadır; hilâllerin ay takvimindeki işlevini anlatır. 'Evlere arkalarından girmek' ifadesi, cahiliye dönemine ait bir âdete işaret eder; klasik tefsir bunu, ihramlıyken kapıdan değil arkadan girme âdeti olarak açıklar.",
+ "kokler": [
+  {
+   "kelime": "يَسْـَٔلُونَكَ",
+   "okunus": "yes'elûneke",
+   "kok": "سأل",
+   "kokAnlam": "sorma, isteme",
+   "karsilik": "sana sorarlar"
+  },
+  {
+   "kelime": "عَنِ",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْأَهِلَّةِ",
+   "okunus": "el'ehilleti",
+   "kok": "هلل",
+   "kokAnlam": "parlama, görünme; hilâl",
+   "karsilik": "hilâllerden"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "هِىَ",
+   "okunus": "hiye",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "مَوَٰقِيتُ",
+   "okunus": "mevâkîtü",
+   "kok": "وقت",
+   "kokAnlam": "vakit, ölçülü zaman",
+   "karsilik": "vakit ölçüleridir"
+  },
+  {
+   "kelime": "لِلنَّاسِ",
+   "okunus": "lilnnâsi",
+   "kok": "أنس",
+   "kokAnlam": "ünsiyet, insan; insanlar",
+   "karsilik": "insanlar için"
+  },
+  {
+   "kelime": "وَٱلْحَجِّ",
+   "okunus": "vel hacci",
+   "kok": "حجج",
+   "kokAnlam": "yönelme, ziyaret; hac",
+   "karsilik": "ve hac için"
+  },
+  {
+   "kelime": "وَلَيْسَ",
+   "okunus": "ve leyse",
+   "kok": "ليس",
+   "kokAnlam": "olumsuzluk fiili, değildir",
+   "karsilik": "ve değildir"
+  },
+  {
+   "kelime": "ٱلْبِرَّ",
+   "okunus": "elbirru",
+   "kok": "برر",
+   "kokAnlam": "iyilik, doğruluk, bağlılık",
+   "karsilik": "iyilik"
+  },
+  {
+   "kelime": "بِأَن",
+   "okunus": "bien",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -meniz",
+   "karsilik": "-meniz"
+  },
+  {
+   "kelime": "تَأْتُوا۟",
+   "okunus": "te'tû",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "gelmeniz"
+  },
+  {
+   "kelime": "ٱلْبُيُوتَ",
+   "okunus": "elbüyûte",
+   "kok": "بيت",
+   "kokAnlam": "ev, mekân",
+   "karsilik": "evlere"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ظُهُورِهَا",
+   "okunus": "zuhûrihâ",
+   "kok": "ظهر",
+   "kokAnlam": "sırt, arka; görünme",
+   "karsilik": "arkalarından"
+  },
+  {
+   "kelime": "وَلَٰكِنَّ",
+   "okunus": "ve lâkinne",
+   "kok": "—",
+   "kokAnlam": "(tekid) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "ٱلْبِرَّ",
+   "okunus": "elbirra",
+   "kok": "برر",
+   "kokAnlam": "iyilik, doğruluk, bağlılık",
+   "karsilik": "iyilik"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "meni",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimdir ki",
+   "karsilik": "kimin"
+  },
+  {
+   "kelime": "ٱتَّقَىٰ",
+   "okunus": "ittekâ",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "sakındığı"
+  },
+  {
+   "kelime": "وَأْتُوا۟",
+   "okunus": "ve tû",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "ve gelin"
+  },
+  {
+   "kelime": "ٱلْبُيُوتَ",
+   "okunus": "elbüyûte",
+   "kok": "بيت",
+   "kokAnlam": "ev, mekân",
+   "karsilik": "evlere"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَبْوَٰبِهَا",
+   "okunus": "ebvâbihâ",
+   "kok": "بوب",
+   "kokAnlam": "kapı",
+   "karsilik": "kapılarından"
+  },
+  {
+   "kelime": "وَٱتَّقُوا۟",
+   "okunus": "vettekû",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "ve sakının"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "لَعَلَّكُمْ",
+   "okunus": "lealleküm",
+   "kok": "—",
+   "kokAnlam": "(tekid) umulur ki siz",
+   "karsilik": "umulur ki"
+  },
+  {
+   "kelime": "تُفْلِحُونَ",
+   "okunus": "tüflihûne",
+   "kok": "فلح",
+   "kokAnlam": "kurtuluşa erme, başarma",
+   "karsilik": "kurtuluşa erersiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet önce hilâllerin işlevine dair bir soruyu yanıtlar: bunlar insanlar için ve özellikle hac için vakit ölçüleridir. Ardından, cahiliye dönemine ait bir âdete değinilir: bazı kişiler ihramda iken evlere kapıdan değil arkadan girerdi; ayet bunun bir dindarlık göstergesi olmadığını belirtir.",
+  "177. ayetteki gibi burada da 'birr' (iyilik) yeniden tanımlanır: dış görünüşteki bir âdet değil, takva (sakınma bilinci) asıl iyiliktir. Klasik tefsir bu ayeti, dini pratiklerin şekilden çok öz ve niyetle ölçülmesi gerektiğine dair bir uyarı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:177",
+   "meal": "İyilik, yüzlerinizi doğuya ve batıya çevirmeniz değildir... fakat iyilik, iman edip infak eden, ibadetini yerine getiren ve sabreden kimselerin [tutumudur].",
+   "baglanti": "Aynı surede daha önce geçen bu ayet, 'birr' kavramını benzer bir üslupla, şekil değil öz vurgusuyla tanımlar."
+  },
+  {
+   "ref": "36:39",
+   "meal": "Ayı ise, sonunda eski bir hurma dalı gibi oluncaya kadar konak yerleri belirledik.",
+   "baglanti": "Yâsîn suresindeki bu ayet, ayın evrelerinin bir düzen ve ölçü olduğunu anlatarak 189. ayetteki 'vakit ölçüleri' fikrini destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hilâllerin takvimsel işlevi ve dini bir âdetin şekilden öze taşınmasıdır; bu, cahiliye dönemine özgü bir davranışın düzeltilmesidir.",
+  "Genel ders, bir işi doğru kapıdan, yani doğru ve dürüst yoldan yapmanın önemidir. Bir hedefe ulaşırken kestirme veya alışılmadık yollar yerine, açık ve doğru yolu izlemek bu ayetten çıkarılabilecek bir ilkedir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğru kapıdan gir",
+   "aciklama": "Bugün bir işi yaparken kestirme değil, açık ve doğru yolu tercih et."
+  },
+  {
+   "baslik": "Şekli değil özü önemse",
+   "aciklama": "Bir görevi yaparken sadece görüntüyü değil, gerçek niyeti ve içeriği önceliklendir."
+  },
+  {
+   "baslik": "Zamanını ölçülü kullan",
+   "aciklama": "Bugün planlarını, ayın veya haftanın akışına uygun net bir zaman ölçüsüyle düzenle."
+  }
+ ],
+ "bugununAdimi": "Bugün bir işi, kestirme yol yerine doğru ve açık yoldan yaparak tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=189"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/189"
+  }
+ ]
+}

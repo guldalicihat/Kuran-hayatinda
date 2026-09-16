@@ -1,0 +1,278 @@
+{
+ "sure": 2,
+ "ayet": 145,
+ "durum": "taslak",
+ "meal": "Andolsun, kendilerine Kitap verilenlere her türlü ayeti/delili getirsen, yine de senin kıblene uymazlar; sen de onların kıblesine uyacak değilsin. Onlardan bir kısmı da başka bir kısmının kıblesine uymaz. Sana gelen bilgiden sonra eğer onların arzularına uyarsan, o zaman sen elbette zalimlerden olursun.",
+ "mealNotu": "'Ehvâ' kökü هوي, arzu ve isteği anlatır; 'arzularına uyarsan' bunu karşılar. Ayet, kıble konusundaki inatçı tutumun delil eksikliğinden değil, önyargıdan kaynaklandığını vurgular.",
+ "kokler": [
+  {
+   "kelime": "وَلَئِنِ",
+   "okunus": "ve lein",
+   "kok": "—",
+   "kokAnlam": "(şart) andolsun eğer",
+   "karsilik": "andolsun eğer"
+  },
+  {
+   "kelime": "أَتَيْتَ",
+   "okunus": "eteyte",
+   "kok": "أتي",
+   "kokAnlam": "gelme, getirme",
+   "karsilik": "getirsen"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kendilerine ... verilenlere"
+  },
+  {
+   "kelime": "أُوتُوا۟",
+   "okunus": "ûtû",
+   "kok": "أتي",
+   "kokAnlam": "gelme, verilme",
+   "karsilik": "verilenler"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "Kitap"
+  },
+  {
+   "kelime": "بِكُلِّ",
+   "okunus": "bikülli",
+   "kok": "كلل",
+   "kokAnlam": "hep, bütün",
+   "karsilik": "her türlü"
+  },
+  {
+   "kelime": "ءَايَةٍ",
+   "okunus": "âyetin",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet; ayet",
+   "karsilik": "ayeti/delili"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ...maz",
+   "karsilik": "...maz"
+  },
+  {
+   "kelime": "تَبِعُوا۟",
+   "okunus": "tebiû",
+   "kok": "تبع",
+   "kokAnlam": "izleme, uyma",
+   "karsilik": "uyarlar"
+  },
+  {
+   "kelime": "قِبْلَتَكَ",
+   "okunus": "kıbleteke",
+   "kok": "قبل",
+   "kokAnlam": "karşısında olma; yönelinen yön",
+   "karsilik": "senin kıblene"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...değilsin",
+   "karsilik": "ve ...değilsin"
+  },
+  {
+   "kelime": "أَنتَ",
+   "okunus": "ente",
+   "kok": "—",
+   "kokAnlam": "(zamir) sen",
+   "karsilik": "sen"
+  },
+  {
+   "kelime": "بِتَابِعٍ",
+   "okunus": "bitâbiin",
+   "kok": "تبع",
+   "kokAnlam": "izleme, uyma",
+   "karsilik": "uyacak"
+  },
+  {
+   "kelime": "قِبْلَتَهُمْ",
+   "okunus": "kıbletehüm",
+   "kok": "قبل",
+   "kokAnlam": "karşısında olma; yönelinen yön",
+   "karsilik": "onların kıblesine"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...değildir",
+   "karsilik": "ve ...değildir"
+  },
+  {
+   "kelime": "بَعْضُهُم",
+   "okunus": "ba'duhüm",
+   "kok": "بعض",
+   "kokAnlam": "bir kısım, parça",
+   "karsilik": "onlardan bir kısmı"
+  },
+  {
+   "kelime": "بِتَابِعٍ",
+   "okunus": "bitâbiin",
+   "kok": "تبع",
+   "kokAnlam": "izleme, uyma",
+   "karsilik": "uyacak"
+  },
+  {
+   "kelime": "قِبْلَةَ",
+   "okunus": "kıblete",
+   "kok": "قبل",
+   "kokAnlam": "karşısında olma; yönelinen yön",
+   "karsilik": "kıblesine"
+  },
+  {
+   "kelime": "بَعْضٍ",
+   "okunus": "ba'dın",
+   "kok": "بعض",
+   "kokAnlam": "bir kısım, parça",
+   "karsilik": "başka bir kısmının"
+  },
+  {
+   "kelime": "وَلَئِنِ",
+   "okunus": "ve leini",
+   "kok": "—",
+   "kokAnlam": "(şart) ve andolsun eğer",
+   "karsilik": "ve andolsun eğer"
+  },
+  {
+   "kelime": "ٱتَّبَعْتَ",
+   "okunus": "itteba'te",
+   "kok": "تبع",
+   "kokAnlam": "izleme, uyma",
+   "karsilik": "uyarsan"
+  },
+  {
+   "kelime": "أَهْوَآءَهُم",
+   "okunus": "ehvâehüm",
+   "kok": "هوي",
+   "kokAnlam": "arzu, istek, heves",
+   "karsilik": "onların arzularına"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mim",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra olma",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "جَآءَكَ",
+   "okunus": "câeke",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "sana gelen"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْعِلْمِ",
+   "okunus": "el'ilmi",
+   "kok": "علم",
+   "kokAnlam": "bilme, ilim",
+   "karsilik": "bilgiden"
+  },
+  {
+   "kelime": "إِنَّكَ",
+   "okunus": "inneke",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz sen",
+   "karsilik": "şüphesiz sen"
+  },
+  {
+   "kelime": "إِذًا",
+   "okunus": "izen",
+   "kok": "—",
+   "kokAnlam": "(cevap) o zaman",
+   "karsilik": "o zaman"
+  },
+  {
+   "kelime": "لَّمِنَ",
+   "okunus": "lemine",
+   "kok": "—",
+   "kokAnlam": "(edat) elbette -densin",
+   "karsilik": "elbette -densin"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمِينَ",
+   "okunus": "ezzâlimîne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık etme, zulüm",
+   "karsilik": "zalimlerden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, kıble değişikliğine itiraz eden Kitap Ehli'nin tutumunun delil eksikliğinden değil, önceden verilmiş bir karardan kaynaklandığını gösterir. Hangi delil getirilirse getirilsin, kıbleye uymayacaklarını belirterek, tartışmanın akılla değil inatla ilgili olduğunu vurgular.",
+  "Ayetin ikinci yarısı doğrudan Peygamber'e yöneliktir: sana gelen bilgiden sonra onların arzularına uyarsan zalimlerden olursun. Bu ağır uyarı, aslında herkes için geçerli bir ilkedir; doğru bilgiye ulaştıktan sonra bilinçli olarak ondan sapmak, ciddi bir haksızlıktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:110",
+   "meal": "Onların kalplerini ve gözlerini ters çeviririz; ilkin ona iman etmedikleri gibi, onları taşkınlıkları içinde bocalar bırakırız.",
+   "baglanti": "İnat eden bir kalbin delil görse de değişmeyeceği teması, burada 'kalpleri ters çevirme' ifadesiyle de anlatılır."
+  },
+  {
+   "ref": "2:120",
+   "meal": "Sen dinlerine uymadıkça ne Yahudiler ne de Hristiyanlar senden asla razı olmazlar. De ki: 'Şüphesiz doğru yol, Allah'ın yoludur.'",
+   "baglanti": "Aynı temayı -karşı tarafın hoşnutluğunu kazanmanın imkânsızlığı- bu ayet de taşır; Peygamber'in kendi doğrusundan sapmaması gerektiği vurgusu ortaktır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıble tartışmasında Kitap Ehli'nin inatçı tutumudur. Günlük hayata taşınabilecek ders, bazı insanların delil değil önyargıyla hareket ettiğini kabul edip, onları ikna etmeye enerji harcamak yerine kendi doğrusunda sebat etmektir.",
+  "Bir kişi bazen, doğru bildiği bir şeyi herkesi ikna etmek için gereğinden fazla zorlayabilir. Bu ayet, herkesin ikna olmayabileceğini, önemli olanın elindeki bilgiye sadık kalmak olduğunu hatırlatır; başkalarının onayı doğruluğun ölçütü değildir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İkna çabasını sınırla",
+   "aciklama": "Bugün, ikna olmayacağını gördüğün bir tartışmayı gereksiz yere uzatma."
+  },
+  {
+   "baslik": "Bilgine sadık kal",
+   "aciklama": "Bugün, doğru bildiğin bir konuda başkalarının baskısına rağmen tutumunu koru."
+  },
+  {
+   "baslik": "Önyargıyı fark et",
+   "aciklama": "Bugün bir konuda kendi önyargınla mı yoksa delillerle mi karar verdiğini sorgula."
+  }
+ ],
+ "bugununAdimi": "Bugün, ikna olmayacağını gördüğün bir tartışmayı gereksiz yere uzatmadan bırak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=145"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/145"
+  }
+ ]
+}

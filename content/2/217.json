@@ -1,0 +1,453 @@
+{
+ "sure": 2,
+ "ayet": 217,
+ "durum": "taslak",
+ "meal": "Sana haram aydan, onda savaşmaktan soruyorlar. De ki: Onda savaşmak büyük bir günahtır; ama Allah yolundan alıkoymak, O'nu inkâr etmek, Mescid-i Haram'dan ve halkını oradan çıkarmak, Allah katında daha büyüktür. Fitne, öldürmekten daha büyüktür. Onlar, güçleri yeterse sizi dininizden döndürünceye kadar sizinle savaşmaktan geri durmazlar. Sizden kim dininden döner ve kâfir olarak ölürse, işte onların amelleri dünyada da ahirette de boşa gitmiştir. Onlar ateşin halkıdır; orada sürekli kalıcıdırlar.",
+ "mealNotu": "'Fitne' kökü burada baskı, zulüm ve insanı dininden döndürmeye çalışma anlamındadır; salt kargaşa değildir. 'Habitat' kökü bir emeğin karşılıksız, boşa gitmesini anlatır.",
+ "kokler": [
+  {
+   "kelime": "يَسْـَٔلُونَكَ",
+   "okunus": "yes'elûneke",
+   "kok": "سأل",
+   "kokAnlam": "sorma",
+   "karsilik": "sana soruyorlar"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "ٱلشَّهْرِ",
+   "okunus": "eşşehri",
+   "kok": "شهر",
+   "kokAnlam": "ay, tanınma",
+   "karsilik": "ayı"
+  },
+  {
+   "kelime": "ٱلْحَرَامِ",
+   "okunus": "elharâmi",
+   "kok": "حرم",
+   "kokAnlam": "yasaklık, kutsallık",
+   "karsilik": "haram"
+  },
+  {
+   "kelime": "قِتَالٌ",
+   "okunus": "kıtâlin",
+   "kok": "قتل",
+   "kokAnlam": "öldürme; karşılıklı savaşma",
+   "karsilik": "onda savaşmayı"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "قِتَالٌ",
+   "okunus": "kıtâlün",
+   "kok": "قتل",
+   "kokAnlam": "öldürme; karşılıklı savaşma",
+   "karsilik": "onda savaşmak"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "كَبِيرٌ",
+   "okunus": "kebîrun",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük",
+   "karsilik": "büyük bir günahtır"
+  },
+  {
+   "kelime": "وَصَدٌّ",
+   "okunus": "ve saddün",
+   "kok": "صدد",
+   "kokAnlam": "alıkoyma, engelleme",
+   "karsilik": "ve alıkoymak"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolundan"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَكُفْرٌۢ",
+   "okunus": "ve küfrun",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği inkâr",
+   "karsilik": "ve O'nu inkâr etmek"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "وَٱلْمَسْجِدِ",
+   "okunus": "vel mescidi",
+   "kok": "سجد",
+   "kokAnlam": "secde etme; mescit",
+   "karsilik": "ve Mescid-i"
+  },
+  {
+   "kelime": "ٱلْحَرَامِ",
+   "okunus": "elharâmi",
+   "kok": "حرم",
+   "kokAnlam": "yasaklık, kutsallık",
+   "karsilik": "Haram'dan"
+  },
+  {
+   "kelime": "وَإِخْرَاجُ",
+   "okunus": "ve ihrâcü",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma",
+   "karsilik": "ve çıkarmak"
+  },
+  {
+   "kelime": "أَهْلِهِۦ",
+   "okunus": "ehlihî",
+   "kok": "أهل",
+   "kokAnlam": "ehil, halk",
+   "karsilik": "halkını"
+  },
+  {
+   "kelime": "مِنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "أَكْبَرُ",
+   "okunus": "ekberu",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük",
+   "karsilik": "daha büyüktür"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "kat, yan",
+   "karsilik": "katında"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَٱلْفِتْنَةُ",
+   "okunus": "vel fitnetü",
+   "kok": "فتن",
+   "kokAnlam": "sınama, baskı yapma",
+   "karsilik": "ve fitne"
+  },
+  {
+   "kelime": "أَكْبَرُ",
+   "okunus": "ekberu",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük",
+   "karsilik": "daha büyüktür"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْقَتْلِ",
+   "okunus": "elkatli",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürmekten"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يَزَالُونَ",
+   "okunus": "yezâlûne",
+   "kok": "زيل",
+   "kokAnlam": "sürekli olma (olumsuzlukla: durmama)",
+   "karsilik": "geri durmazlar"
+  },
+  {
+   "kelime": "يُقَٰتِلُونَكُمْ",
+   "okunus": "yükâtilûneküm",
+   "kok": "قتل",
+   "kokAnlam": "karşılıklı savaşma",
+   "karsilik": "sizinle savaşmaktan"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ta ki",
+   "karsilik": "ta ki"
+  },
+  {
+   "kelime": "يَرُدُّوكُمْ",
+   "okunus": "yeruddûküm",
+   "kok": "ردد",
+   "kokAnlam": "döndürme, çevirme",
+   "karsilik": "sizi döndürsünler"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دِينِكُمْ",
+   "okunus": "dîniküm",
+   "kok": "دين",
+   "kokAnlam": "din, boyun eğme",
+   "karsilik": "dininizden"
+  },
+  {
+   "kelime": "إِنِ",
+   "okunus": "ini",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "ٱسْتَطَٰعُوا۟",
+   "okunus": "istetâû",
+   "kok": "طوع",
+   "kokAnlam": "güç yetirme",
+   "karsilik": "güç yetirebilirlerse"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "يَرْتَدِدْ",
+   "okunus": "yertedid",
+   "kok": "ردد",
+   "kokAnlam": "dönme, geri dönme",
+   "karsilik": "dinden dönerse"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دِينِهِۦ",
+   "okunus": "dînihî",
+   "kok": "دين",
+   "kokAnlam": "din",
+   "karsilik": "dininden"
+  },
+  {
+   "kelime": "فَيَمُتْ",
+   "okunus": "feyemüt",
+   "kok": "موت",
+   "kokAnlam": "ölme",
+   "karsilik": "ve ölürse"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o durumdayken"
+  },
+  {
+   "kelime": "كَافِرٌ",
+   "okunus": "kâfirun",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği inkâr eden",
+   "karsilik": "kâfir olarak"
+  },
+  {
+   "kelime": "فَأُو۟لَٰٓئِكَ",
+   "okunus": "feülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte onların"
+  },
+  {
+   "kelime": "حَبِطَتْ",
+   "okunus": "habitat",
+   "kok": "حبط",
+   "kokAnlam": "boşa gitme, karşılıksız kalma",
+   "karsilik": "boşa gitmiştir"
+  },
+  {
+   "kelime": "أَعْمَٰلُهُمْ",
+   "okunus": "a'mâlühüm",
+   "kok": "عمل",
+   "kokAnlam": "yapma, iş; amel",
+   "karsilik": "amelleri"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "hem"
+  },
+  {
+   "kelime": "ٱلدُّنْيَا",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık; dünya",
+   "karsilik": "dünyada"
+  },
+  {
+   "kelime": "وَٱلْءَاخِرَةِ",
+   "okunus": "vel âhırati",
+   "kok": "أخر",
+   "kokAnlam": "sonralık; ahiret",
+   "karsilik": "hem ahirette"
+  },
+  {
+   "kelime": "وَأُو۟لَٰٓئِكَ",
+   "okunus": "ve ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "ve işte onlar"
+  },
+  {
+   "kelime": "أَصْحَٰبُ",
+   "okunus": "ashâbü",
+   "kok": "صحب",
+   "kokAnlam": "arkadaşlık; sahipler",
+   "karsilik": "halkıdır"
+  },
+  {
+   "kelime": "ٱلنَّارِ",
+   "okunus": "ennâri",
+   "kok": "نور",
+   "kokAnlam": "ışık; ateş",
+   "karsilik": "ateşin"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "خَٰلِدُونَ",
+   "okunus": "hâlidûne",
+   "kok": "خلد",
+   "kokAnlam": "süreklilik, kalıcılık",
+   "karsilik": "sürekli kalıcıdırlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, haram (saygın) aylarda savaşmanın hükmünü sorar ve önce onun büyük bir günah olduğunu kabul eder. Ancak hemen ardından, Allah yolundan alıkoymanın, inkârın, Mescid-i Haram'dan ve halkından mahrum bırakmanın Allah katında daha büyük bir kötülük olduğunu bildirir; böylece haksız saldırıya karşı savunma, mutlak bir kural gibi görünen haram ay yasağından ayrı değerlendirilir.",
+  "Ayetin ikinci yarısı, dinden döndürme çabasının (fitne) öldürmekten bile ağır sayıldığını ve dininden dönüp inkâr üzere ölenlerin amellerinin boşa gideceğini anlatır. Klasik tefsir bu ayeti, Bedir öncesi haram ayda yaşanan bir çatışmaya dair soruya cevap ve inanç özgürlüğüne yapılan baskının ağırlığını vurgulayan bir uyarı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "9:36",
+   "meal": "Allah katında ayların sayısı, gökleri ve yeri yarattığı günden beri on ikidir; bunlardan dördü haram (saygın) aylardır.",
+   "baglanti": "217. ayetteki 'haram ay' kavramının kaynağını gösterir; savaştan korunmuş sayılan dört aydan söz eder."
+  },
+  {
+   "ref": "8:39",
+   "meal": "Fitne kalmayıncaya ve din tamamen Allah'ın oluncaya kadar onlarla savaşın.",
+   "baglanti": "217. ayetteki 'fitne öldürmekten büyüktür' ilkesinin, savaşın amacının fitneyi ortadan kaldırmak olduğunu gösteren devamı niteliğindedir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, erken dönem Medine'sinde haram aylarda savaşın hükmü gibi özel bir hukuki ve tarihî meseledir; günümüze doğrudan bir savaş hükmü olarak taşınmaz.",
+  "Buradan çıkarılabilecek genel ders, bir kuralın harfine bakarken onun amacını gözden kaçırmamak gerektiğidir. Bir yasağa uymak önemlidir, ama o yasağın konuluş amacına aykırı bir haksızlığa göz yummak da doğru değildir; ayet, göreli kötülükleri tartmayı öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir kuralın amacını düşün",
+   "aciklama": "Bugün uyduğun bir kuralın neden var olduğunu kendine sor; sadece harfine değil amacına bak."
+  },
+  {
+   "baslik": "Baskıya karşı duyarlı ol",
+   "aciklama": "Birinin inancı veya kararı yüzünden baskı gördüğünü fark edersen, yanında ol."
+  },
+  {
+   "baslik": "Emeğinin boşa gitmemesini gözet",
+   "aciklama": "Bugün yaptığın bir iyiliği, sonradan bozacak bir tutumdan (kibir, gösteriş) kaçınarak koru."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararında, kuralın lafzı ile amacı çatışıyorsa, amacını önceleyerek karar ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=217"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/217"
+  }
+ ]
+}

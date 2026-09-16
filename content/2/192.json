@@ -1,0 +1,96 @@
+{
+ "sure": 2,
+ "ayet": 192,
+ "durum": "taslak",
+ "meal": "Eğer vazgeçerlerse, şüphesiz Allah bağışlayandır, esirgeyendir.",
+ "mealNotu": "Kısa bir ayettir; bir önceki ayette anlatılan savaş hükmüne doğrudan bağlıdır. 'İntehev' fiili (نهي) vazgeçme, geri durma anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feini",
+   "kok": "—",
+   "kokAnlam": "(şart) artık eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "ٱنتَهَوْا۟",
+   "okunus": "intehev",
+   "kok": "نهي",
+   "kokAnlam": "yasaklanma, vazgeçme, geri durma",
+   "karsilik": "vazgeçerlerse"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(tekid) artık şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَفُورٌ",
+   "okunus": "gafûrun",
+   "kok": "غفر",
+   "kokAnlam": "örtme, bağışlama",
+   "karsilik": "bağışlayandır"
+  },
+  {
+   "kelime": "رَّحِيمٌ",
+   "okunus": "rahîmün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet, acıma",
+   "karsilik": "esirgeyendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu kısa ayet, önceki ayetlerde anlatılan savaş hükmüne bir yumuşama getirir: karşı taraf saldırıdan vazgeçerse, savaş devam ettirilmez. Bu, hükmün amacının intikam değil, saldırıyı durdurmak olduğunu gösterir.",
+  "Ayetin Allah'ın bağışlayıcılığı ve esirgeyiciliğiyle bitmesi, geçmişte yapılanların da bağışlanabileceğine işaret eder. Klasik tefsir bu ayeti, düşmanlığın sürekli olmadığını, tarafın tutumu değiştiğinde ilişkinin de değişebileceğini gösteren bir ilke olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:193",
+   "meal": "Onlarla, fitne kalmayıncaya ve din yalnız Allah'ın oluncaya kadar savaşın. Eğer vazgeçerlerse, zalimlerden başkasına düşmanlık yoktur.",
+   "baglanti": "Hemen sonraki ayet, aynı 'vazgeçme' şartını tekrarlayıp düşmanlığın yalnız zalimlere karşı sürdürüleceğini ekler."
+  },
+  {
+   "ref": "8:61",
+   "meal": "Eğer barışa yanaşırlarsa sen de ona yanaş ve Allah'a güven.",
+   "baglanti": "Enfâl suresindeki bu ayet, karşı taraf barışa yöneldiğinde buna karşılık verilmesi gerektiğini benzer bir ilkeyle anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, tarihsel bir savaş durumunda karşı tarafın vazgeçmesi hâlinde çatışmanın sona ermesidir; bu özel bir hukuki-askeri bağlamdır.",
+  "Genel ders, bir anlaşmazlıkta karşı taraf geri adım attığında, o adımı görmezden gelmeden karşılık vermektir. Biri hatasından döndüğünde ona kapıyı kapatmak yerine bağışlayıcı davranmak, bu ayetten çıkarılabilecek bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geri adımı fark et",
+   "aciklama": "Bugün senden özür dileyen veya geri adım atan birine bunu görmezden gelmeden karşılık ver."
+  },
+  {
+   "baslik": "Düşmanlığı sürdürme",
+   "aciklama": "Sorun çözüldüğünde eski kırgınlığı bilerek uzatma."
+  },
+  {
+   "baslik": "Bağışlayıcı ol",
+   "aciklama": "Bugün, hatasını kabul eden birini bağışlamayı seç."
+  }
+ ],
+ "bugununAdimi": "Bugün, geri adım atan veya özür dileyen birine bağışlayıcı bir karşılık ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=192"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/192"
+  }
+ ]
+}

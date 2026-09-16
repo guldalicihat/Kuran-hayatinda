@@ -1,0 +1,264 @@
+{
+ "sure": 2,
+ "ayet": 214,
+ "durum": "taslak",
+ "meal": "Yoksa siz, sizden önce gelip geçenlerin başına gelen durum size gelmeden cennete gireceğinizi mi sandınız? Onlara öyle bir yoksulluk ve sıkıntı dokundu, öyle sarsıldılar ki, peygamber ve onunla beraber iman edenler 'Allah'ın yardımı ne zaman?' diyecek hale geldiler. İyi bilin ki Allah'ın yardımı yakındır.",
+ "mealNotu": "'Be'sâ' ve 'darrâ' kökleri sırasıyla yoksulluk/şiddet ve sıkıntı/zararı anlatır; birlikte hem dışsal hem içsel zorluğu kapsarlar. 'Zülzilû' kökü depremdeki sarsılmayla aynı köktendir; burada psikolojik sarsıntıyı anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "حَسِبْتُمْ",
+   "okunus": "hasibtüm",
+   "kok": "حسب",
+   "kokAnlam": "sanma, hesap etme",
+   "karsilik": "sandınız mı"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -eceğini",
+   "karsilik": "-eceğinizi"
+  },
+  {
+   "kelime": "تَدْخُلُوا۟",
+   "okunus": "tedhulû",
+   "kok": "دخل",
+   "kokAnlam": "girme",
+   "karsilik": "gireceğinizi"
+  },
+  {
+   "kelime": "ٱلْجَنَّةَ",
+   "okunus": "elcennete",
+   "kok": "جنن",
+   "kokAnlam": "örtme, gizlenme; bahçe, cennet",
+   "karsilik": "cennete"
+  },
+  {
+   "kelime": "وَلَمَّا",
+   "okunus": "ve lemmâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) henüz -memişken",
+   "karsilik": "oysa henüz size gelmedi"
+  },
+  {
+   "kelime": "يَأْتِكُم",
+   "okunus": "ye'tiküm",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "size gelmedi"
+  },
+  {
+   "kelime": "مَّثَلُ",
+   "okunus": "meselü",
+   "kok": "مثل",
+   "kokAnlam": "benzeme, örnek olma",
+   "karsilik": "hali, örneği"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimseler",
+   "karsilik": "kimselerin"
+  },
+  {
+   "kelime": "خَلَوْا۟",
+   "okunus": "halev",
+   "kok": "خلو",
+   "kokAnlam": "geçip gitme, boş kalma",
+   "karsilik": "geçip giden"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِكُم",
+   "okunus": "kabliküm",
+   "kok": "قبل",
+   "kokAnlam": "önce olma",
+   "karsilik": "sizden önce"
+  },
+  {
+   "kelime": "مَّسَّتْهُمُ",
+   "okunus": "messethümü",
+   "kok": "مسس",
+   "kokAnlam": "dokunma, değme",
+   "karsilik": "onlara dokundu"
+  },
+  {
+   "kelime": "ٱلْبَأْسَآءُ",
+   "okunus": "elbe'sâü",
+   "kok": "بأس",
+   "kokAnlam": "şiddet, yoksulluk, güçlük",
+   "karsilik": "yoksulluk"
+  },
+  {
+   "kelime": "وَٱلضَّرَّآءُ",
+   "okunus": "ved darrâü",
+   "kok": "ضرر",
+   "kokAnlam": "zarar, sıkıntı",
+   "karsilik": "ve sıkıntı"
+  },
+  {
+   "kelime": "وَزُلْزِلُوا۟",
+   "okunus": "ve zülzilû",
+   "kok": "زلزل",
+   "kokAnlam": "sarsılma, sallanma",
+   "karsilik": "öyle sarsıldılar"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) öyle ki, -e kadar",
+   "karsilik": "öyle ki"
+  },
+  {
+   "kelime": "يَقُولَ",
+   "okunus": "yekûle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "diyecek hale geldi"
+  },
+  {
+   "kelime": "ٱلرَّسُولُ",
+   "okunus": "errasûlü",
+   "kok": "رسل",
+   "kokAnlam": "gönderilme; elçi",
+   "karsilik": "peygamber"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ve kimseler",
+   "karsilik": "ve kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "مَعَهُۥ",
+   "okunus": "meahû",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onunla beraber",
+   "karsilik": "onunla beraber"
+  },
+  {
+   "kelime": "مَتَىٰ",
+   "okunus": "metâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne zaman",
+   "karsilik": "ne zaman"
+  },
+  {
+   "kelime": "نَصْرَ",
+   "okunus": "nasru",
+   "kok": "نصر",
+   "kokAnlam": "yardım etme",
+   "karsilik": "yardımı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "أَلَآ",
+   "okunus": "elâ",
+   "kok": "—",
+   "kokAnlam": "(dikkat edatı) iyi bilin ki",
+   "karsilik": "iyi bilin ki"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "نَصْرَ",
+   "okunus": "nasra",
+   "kok": "نصر",
+   "kokAnlam": "yardım etme",
+   "karsilik": "yardımı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "قَرِيبٌ",
+   "okunus": "karîbün",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık",
+   "karsilik": "yakındır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, müminlerin cennete kolayca, hiçbir sıkıntı yaşamadan gireceklerini sanmamaları gerektiğini hatırlatır. Önceki toplulukların başına yoksulluk, sıkıntı ve sarsıcı olaylar gelmiş; bu durum peygamberi ve ona inananları bile 'Allah'ın yardımı ne zaman gelecek?' diye sormaya götürmüştür.",
+  "Ancak bu soru bir umutsuzluk değil, zorluğun doruğunda yardımın yakınlığına dair bir hatırlatmayla cevaplanır. Klasik tefsir bu ayeti, Uhud gibi zor günlerin ardından inen bir teselli ve sabır çağrısı olarak açıklar; zorluk, imanın sahteliğinin değil sınanmasının işaretidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:2",
+   "meal": "İnsanlar, sadece 'İman ettik' demekle, hiç sınanmadan bırakılacaklarını mı sandılar?",
+   "baglanti": "214. ayetteki 'cennete böyle mi gireceğinizi sandınız' sorusuyla aynı uyarıyı, imanın mutlaka bir sınavdan geçeceğini vurgulayarak tekrarlar."
+  },
+  {
+   "ref": "2:155",
+   "meal": "Andolsun sizi biraz korku, açlık; mallardan, canlardan ve ürünlerden eksiltme ile deneriz. Sabredenleri müjdele.",
+   "baglanti": "214. ayetteki yoksulluk, sıkıntı ve sarsıntının müminler için bir sınav olduğunu somutlaştırır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş toplulukların ve ilk müminlerin yaşadığı ağır sınavlardır; bu tarihsel bir bağlamdır. Ancak ayetten çıkan mesaj evrenseldir: iyi bir sonuç beklemek, yol boyunca zorluk yaşanmayacağı anlamına gelmez.",
+  "Günlük hayatta bir hedefe, bir iyileşmeye veya bir hakka giden yolda sıkıntı yaşadığımızda, bunu 'yanlış yoldayım' işareti sanabiliriz. Ayet, zorluğun kendisinin bir başarısızlık göstergesi olmadığını, sabırla devam edenler için yardımın uzak olmadığını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zorluğu yeniden adlandır",
+   "aciklama": "Bugün karşılaştığın bir zorluğu 'her şey bitti' yerine 'henüz süreç tamamlanmadı' diye adlandır."
+  },
+  {
+   "baslik": "Sabrını sesli ifade et",
+   "aciklama": "Yorulduğun bir konuda, yakının Allah'ın yardımının yakın olduğunu hatırlatan bir cümle söyle, kendine de söyle."
+  },
+  {
+   "baslik": "Yarım bıraktığın bir işi bir adım ilerlet",
+   "aciklama": "Zorluk yüzünden askıya aldığın bir işi bugün küçük bir adımla yeniden başlat."
+  }
+ ],
+ "bugununAdimi": "Bugün zorlandığın bir konuda pes etmek yerine, 'yardım yakındır' diyerek bir adım daha at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=214"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/214"
+  }
+ ]
+}

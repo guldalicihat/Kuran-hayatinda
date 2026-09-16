@@ -1,0 +1,243 @@
+{
+ "sure": 2,
+ "ayet": 133,
+ "durum": "taslak",
+ "meal": "Yoksa siz, Yakub'a ölüm gelip çattığında, oğullarına 'Benden sonra kime kulluk edeceksiniz?' dediği zaman orada mıydınız? [Oğulları] dediler ki: 'Senin ilahına ve ataların İbrahim, İsmail ve İshak'ın ilahına, tek bir ilaha kulluk edeceğiz; biz O'na teslim olanlarız.'",
+ "mealNotu": "'Hadara' kökü حضر, hazır bulunmayı anlatır; 'ölüm gelip çattığında' bunu karşılar. Cevap cümlesindeki '[Oğulları]' ifadesi, konuşanı netleştirmek için köşeli parantezle eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "siz ... idiniz"
+  },
+  {
+   "kelime": "شُهَدَآءَ",
+   "okunus": "şühedâe",
+   "kok": "شهد",
+   "kokAnlam": "tanık olma, hazır bulunma",
+   "karsilik": "tanıklar/orada"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "حَضَرَ",
+   "okunus": "hadara",
+   "kok": "حضر",
+   "kokAnlam": "hazır olma, gelip çatma",
+   "karsilik": "gelip çattığında"
+  },
+  {
+   "kelime": "يَعْقُوبَ",
+   "okunus": "ya'kûbe",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "Yakub'a"
+  },
+  {
+   "kelime": "ٱلْمَوْتُ",
+   "okunus": "elmevtü",
+   "kok": "موت",
+   "kokAnlam": "ölme, ölüm",
+   "karsilik": "ölüm"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediği zaman"
+  },
+  {
+   "kelime": "لِبَنِيهِ",
+   "okunus": "libenîhi",
+   "kok": "بني",
+   "kokAnlam": "oğul, evlat",
+   "karsilik": "oğullarına"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne",
+   "karsilik": "kime"
+  },
+  {
+   "kelime": "تَعْبُدُونَ",
+   "okunus": "ta'büdûne",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme, boyun eğme",
+   "karsilik": "kulluk edeceksiniz"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "mim",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِى",
+   "okunus": "ba'dî",
+   "kok": "بعد",
+   "kokAnlam": "sonra olma",
+   "karsilik": "benden sonra"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "نَعْبُدُ",
+   "okunus": "na'büdü",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme, boyun eğme",
+   "karsilik": "kulluk edeceğiz"
+  },
+  {
+   "kelime": "إِلَٰهَكَ",
+   "okunus": "ilâheke",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "senin ilahına"
+  },
+  {
+   "kelime": "وَإِلَٰهَ",
+   "okunus": "ve ilâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "ve ilahına"
+  },
+  {
+   "kelime": "ءَابَآئِكَ",
+   "okunus": "âbâike",
+   "kok": "أبو",
+   "kokAnlam": "baba, ata",
+   "karsilik": "ataların"
+  },
+  {
+   "kelime": "إِبْرَٰهِۦمَ",
+   "okunus": "ibrâhîme",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İbrahim"
+  },
+  {
+   "kelime": "وَإِسْمَٰعِيلَ",
+   "okunus": "ve ismâîle",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İsmail"
+  },
+  {
+   "kelime": "وَإِسْحَٰقَ",
+   "okunus": "ve ishâka",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "ve İshak'ın"
+  },
+  {
+   "kelime": "إِلَٰهًا",
+   "okunus": "ilâhen",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "bir ilaha"
+  },
+  {
+   "kelime": "وَٰحِدًا",
+   "okunus": "vâhiden",
+   "kok": "وحد",
+   "kokAnlam": "birlik, teklik",
+   "karsilik": "tek"
+  },
+  {
+   "kelime": "وَنَحْنُ",
+   "okunus": "ve nahnü",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve biz",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) O'na",
+   "karsilik": "O'na"
+  },
+  {
+   "kelime": "مُسْلِمُونَ",
+   "okunus": "müslimûne",
+   "kok": "سلم",
+   "kokAnlam": "esenlik, boyun eğme; teslim olma",
+   "karsilik": "teslim olanlarız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Yakub'un ölüm döşeğinde oğullarına sorduğu en can alıcı soruyu aktarır: 'Benden sonra kime kulluk edeceksiniz?' Bu, dünyevi bir vasiyet değil, imanın devam edip etmeyeceğine dair bir sorudur. Oğulların cevabı, atalarının (İbrahim, İsmail, İshak) ilahına, tek bir ilaha bağlılıklarını ilan eder.",
+  "'Şühedâe' (tanık/hazır bulunanlar) sorusu, muhatapların o olayda bulunmadıklarını, dolayısıyla peygamberlerin dini hakkında konuşurken bilgiden çok iddiaya dayandıklarını hatırlatır. Ayet, sonraki ayetlerde gelecek olan 'İbrahim, İsmail, İshak ve Yakub Yahudi ya da Hristiyan mıydı?' tartışmasına da zemin hazırlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:132",
+   "meal": "İbrahim de bunu oğullarına vasiyet etti, Yakub da: 'Oğullarım! Şüphesiz Allah sizin için bu dini seçti; o hâlde ancak Müslümanlar olarak ölün.'",
+   "baglanti": "132. ayette özetlenen vasiyet, 133. ayette Yakub'un ölüm döşeğindeki somut diyaloğuyla ayrıntılandırılır."
+  },
+  {
+   "ref": "19:49",
+   "meal": "İbrahim onları ve Allah'tan başka taptıklarını terk edince, ona İshak'ı ve Yakub'u bağışladık; her birini peygamber kıldık.",
+   "baglanti": "İbrahim'in soyundan gelen İshak ve Yakub'un peygamberliği burada da doğrulanır; aile içinde aktarılan tevhid inancının kökeni anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bir babanın ölüm döşeğinde çocuklarına sorduğu en önemli sorudur. Günlük hayata taşınabilecek ders, hayatın sonunda geriye neyin bırakıldığının, kişinin gerçek önceliklerini ortaya koymasıdır.",
+  "İnsan genelde ölüm anını düşünmekten kaçınır; ama bu ayet, o anın gelecekte sorulacak en önemli sorunun cevabını netleştirdiğini gösterir. Bugünden, ardında bırakılacak değerleri düşünmek, o anı beklemeden bir hazırlıktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendine soruyu sor",
+   "aciklama": "Bugün kendine 'Ardımdan neyi bırakmak isterim?' sorusunu sor ve kısaca cevapla."
+  },
+  {
+   "baslik": "Aile bağını güçlendir",
+   "aciklama": "Bugün ailenle, değerler üzerine kısa ve samimi bir sohbet aç."
+  },
+  {
+   "baslik": "Bir soruyu netleştir",
+   "aciklama": "Bugün, sevdiklerinin senin neye inandığını bildiğinden emin ol; gerekirse açıkça söyle."
+  }
+ ],
+ "bugununAdimi": "Bugün kendine 'Ardımdan hangi değeri bırakmak isterim?' sorusunu sor ve bir cümleyle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=133"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/133"
+  }
+ ]
+}

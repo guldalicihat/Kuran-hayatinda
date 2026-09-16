@@ -1,0 +1,397 @@
+{
+ "sure": 2,
+ "ayet": 213,
+ "durum": "taslak",
+ "meal": "İnsanlar tek bir ümmetti. Allah, müjdeleyici ve uyarıcı olarak peygamberler gönderdi ve onlarla birlikte, insanlar arasında üzerinde ayrılığa düştükleri konularda hükmetsin diye hak ile Kitabı indirdi. Onda, ancak kendilerine Kitap verilenler, kendilerine apaçık deliller geldikten sonra aralarındaki azgınlıktan dolayı ayrılığa düştüler. Allah, iman edenleri, kendi izniyle, üzerinde ayrılığa düştükleri hak konusunda doğru yola iletti. Allah dilediğini dosdoğru bir yola iletir.",
+ "mealNotu": "'Bağy' kökü sıradan bir görüş ayrılığını değil, azgınlık ve çekememezlikten doğan haksız bölünmeyi anlatır. 'Beyyinat' kökü 'beyn' (ara, apaçık olma) köküyle aynıdır; delillerin açıklığını vurgular.",
+ "kokler": [
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma, bulunma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "ٱلنَّاسِ",
+   "okunus": "ennâsü",
+   "kok": "أنس",
+   "kokAnlam": "ünsiyet; insanlar",
+   "karsilik": "insanlar"
+  },
+  {
+   "kelime": "أُمَّةً",
+   "okunus": "ümmeten",
+   "kok": "أمم",
+   "kokAnlam": "topluluk, önder edinilen; ümmet",
+   "karsilik": "bir ümmet"
+  },
+  {
+   "kelime": "وَٰحِدَةً",
+   "okunus": "vâhideten",
+   "kok": "وحد",
+   "kokAnlam": "bir olma, teklik",
+   "karsilik": "tek"
+  },
+  {
+   "kelime": "فَبَعَثَ",
+   "okunus": "febease",
+   "kok": "بعث",
+   "kokAnlam": "gönderme, harekete geçirme",
+   "karsilik": "bunun üzerine gönderdi"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلنَّبِيِّۦنَ",
+   "okunus": "ennebiyyîne",
+   "kok": "نبأ",
+   "kokAnlam": "haber; haber getiren",
+   "karsilik": "peygamberleri"
+  },
+  {
+   "kelime": "مُبَشِّرِينَ",
+   "okunus": "mübeşşirîne",
+   "kok": "بشر",
+   "kokAnlam": "müjdeleme",
+   "karsilik": "müjdeleyici olarak"
+  },
+  {
+   "kelime": "وَمُنذِرِينَ",
+   "okunus": "ve münzirîne",
+   "kok": "نذر",
+   "kokAnlam": "uyarma, sakındırma",
+   "karsilik": "ve uyarıcı olarak"
+  },
+  {
+   "kelime": "وَأَنزَلَ",
+   "okunus": "ve enzele",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "ve indirdi"
+  },
+  {
+   "kelime": "مَعَهُمُ",
+   "okunus": "meahümü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlarla beraber",
+   "karsilik": "onlarla birlikte"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "Kitabı"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, sabit olan; hak",
+   "karsilik": "hak ile"
+  },
+  {
+   "kelime": "لِيَحْكُمَ",
+   "okunus": "liyahküme",
+   "kok": "حكم",
+   "kokAnlam": "hükmetme, karar verme",
+   "karsilik": "hükmetsin diye"
+  },
+  {
+   "kelime": "بَيْنَ",
+   "okunus": "beyne",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında olma",
+   "karsilik": "arasında"
+  },
+  {
+   "kelime": "ٱلنَّاسِ",
+   "okunus": "ennâsi",
+   "kok": "أنس",
+   "kokAnlam": "insanlar",
+   "karsilik": "insanların"
+  },
+  {
+   "kelime": "فِيمَا",
+   "okunus": "fîmâ",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) konusunda",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "ٱخْتَلَفُوا۟",
+   "okunus": "ihtelefû",
+   "kok": "خلف",
+   "kokAnlam": "ayrılığa düşme, arkada kalma",
+   "karsilik": "ayrılığa düştükleri"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "ٱخْتَلَفَ",
+   "okunus": "ihtelefe",
+   "kok": "خلف",
+   "kokAnlam": "ayrılığa düşme",
+   "karsilik": "ayrılığa düşmedi"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "başkası"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimseler",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "أُوتُوهُ",
+   "okunus": "ûtûhü",
+   "kok": "أتي",
+   "kokAnlam": "verilme, gelme",
+   "karsilik": "o Kitap verilenlerden"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra olma",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "-dığı"
+  },
+  {
+   "kelime": "جَآءَتْهُمُ",
+   "okunus": "câethümü",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "kendilerine geldiği"
+  },
+  {
+   "kelime": "ٱلْبَيِّنَٰتُ",
+   "okunus": "elbeyyinâtü",
+   "kok": "بين",
+   "kokAnlam": "açık olma; apaçık delil",
+   "karsilik": "apaçık deliller"
+  },
+  {
+   "kelime": "بَغْيًۢا",
+   "okunus": "bağyen",
+   "kok": "بغي",
+   "kokAnlam": "azgınlık, haddi aşma, çekememe",
+   "karsilik": "azgınlıkla"
+  },
+  {
+   "kelime": "بَيْنَهُمْ",
+   "okunus": "beynehüm",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında olma",
+   "karsilik": "aralarında"
+  },
+  {
+   "kelime": "فَهَدَى",
+   "okunus": "fehedâ",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme",
+   "karsilik": "böylece doğru yola iletti"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimseler",
+   "karsilik": "iman edenleri"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma",
+   "karsilik": "iman edenleri"
+  },
+  {
+   "kelime": "لِمَا",
+   "okunus": "limâ",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) konusunda",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "ٱخْتَلَفُوا۟",
+   "okunus": "ihtelefû",
+   "kok": "خلف",
+   "kokAnlam": "ayrılığa düşme",
+   "karsilik": "ayrılığa düştükleri"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْحَقِّ",
+   "okunus": "elhakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, sabit olan; hak",
+   "karsilik": "hakka dair"
+  },
+  {
+   "kelime": "بِإِذْنِهِۦ",
+   "okunus": "biiznihî",
+   "kok": "أذن",
+   "kokAnlam": "izin verme",
+   "karsilik": "kendi izniyle"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَهْدِى",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme",
+   "karsilik": "iletir"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "dilediğini"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilediğini"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e doğru",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "صِرَٰطٍ",
+   "okunus": "sırâtın",
+   "kok": "صرط",
+   "kokAnlam": "yol",
+   "karsilik": "bir yola"
+  },
+  {
+   "kelime": "مُّسْتَقِيمٍ",
+   "okunus": "müstekîmin",
+   "kok": "قوم",
+   "kokAnlam": "doğrulma, ayakta durma; dosdoğru",
+   "karsilik": "dosdoğru"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, insanlığın başlangıçta tek bir topluluk olduğunu anlatır. Allah bu tekliğin ardından müjdeleyici ve uyarıcı peygamberler göndermiş, onlarla birlikte insanların ihtilaf ettiği konularda aralarında hak ile hükmedecek bir Kitap indirmiştir.",
+  "Ancak Kitap verilenler, kendilerine apaçık deliller geldikten sonra bile aralarındaki azgınlık ve çekememezlik yüzünden ayrılığa düşmüşlerdir; bu, bilgisizlikten değil haksızlıktan kaynaklanan bir bölünmedir. Klasik tefsir bu ayeti, peygamberlik tarihinin özeti ve Kur'an'ın bu ayrılıklarda hakemlik görevi olarak açıklar. Allah, iman edenleri kendi izniyle bu ihtilaflarda hakka doğru iletir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:19",
+   "meal": "İnsanlar tek bir ümmetti, sonra ayrılığa düştüler.",
+   "baglanti": "Bakara 213'teki 'insanlar tek bir ümmetti' ifadesiyle aynı gerçeği, ayrılığın nasıl başladığını vurgulayarak tekrarlar."
+  },
+  {
+   "ref": "16:36",
+   "meal": "Andolsun, biz her ümmete, 'Allah'a kulluk edin, tâğuttan sakının' diye bir peygamber gönderdik.",
+   "baglanti": "213. ayetteki 'peygamberler gönderdi' ifadesinin kapsamını gösterir; her topluma bir uyarıcı gönderilmiştir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu peygamberlik tarihi ve vahyin insanlar arasındaki ihtilafları çözme amacıdır. Bu, tarihsel ve dinî bir çerçevedir; güncel bir hukuk kuralı değildir.",
+  "Buradan çıkarılabilecek ders, bilgi sahibi olmanın tek başına birliği sağlamadığıdır. Bir konuda gerçek ortaya çıktıktan sonra bile insanlar kıskançlık ve çıkar çatışması yüzünden ayrılığa düşebilir; bu yüzden bir tartışmada niyetimizi sorgulamak, sadece haklı olup olmadığımıza değil neden ısrar ettiğimize bakmak önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ayrılığın kaynağını sorgula",
+   "aciklama": "Bugün bir anlaşmazlıkta, gerçekten bilgi eksikliğinden mi yoksa inattan mı kaynaklandığını kendine sor."
+  },
+  {
+   "baslik": "Ortak zemini hatırla",
+   "aciklama": "Farklı düşündüğün biriyle konuşurken, aynı temel değerleri paylaştığınız bir noktayı önce dile getir."
+  },
+  {
+   "baslik": "Delili kabullenmeye açık ol",
+   "aciklama": "Bugün bir konuda sana gösterilen açık bir delili, gururuna yenilmeden kabul etmeyi dene."
+  }
+ ],
+ "bugununAdimi": "Bugün bir tartışmada haklı olduğun bir noktada ısrar etmek yerine, karşındakinin haklı olduğu kısmı önce teslim et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=2&verse=213"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/2/213"
+  }
+ ]
+}
