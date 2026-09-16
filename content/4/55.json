@@ -1,0 +1,131 @@
+{
+ "sure": 4,
+ "ayet": 55,
+ "durum": "taslak",
+ "meal": "Onlardan kimi ona iman etti, kimi de ondan yüz çevirdi. Alevli ateş olarak cehennem yeter.",
+ "mealNotu": "'Sadde' kökü صدد yüz çevirme, engelleme anlamı taşır. 'Seîr' kökü سعر alevlenmeyi, şiddetle tutuşan ateşi ifade eder.",
+ "kokler": [
+  {
+   "kelime": "فَمِنْهُم",
+   "okunus": "feminhüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimi",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "ءَامَنَ",
+   "okunus": "âmene",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman etti"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "وَمِنْهُم",
+   "okunus": "ve minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimi",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "صَدَّ",
+   "okunus": "sadde",
+   "kok": "صدد",
+   "kokAnlam": "yüz çevirme, engelleme",
+   "karsilik": "yüz çevirdi"
+  },
+  {
+   "kelime": "عَنْهُ",
+   "okunus": "anhü",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "وَكَفَىٰ",
+   "okunus": "ve kefâ",
+   "kok": "كفي",
+   "kokAnlam": "yeterli olma",
+   "karsilik": "yeter"
+  },
+  {
+   "kelime": "بِجَهَنَّمَ",
+   "okunus": "bicehenneme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) cehennem",
+   "karsilik": "cehennem"
+  },
+  {
+   "kelime": "سَعِيرًا",
+   "okunus": "seîran",
+   "kok": "سعر",
+   "kokAnlam": "alevlenme, şiddetli ateş",
+   "karsilik": "alevli ateş olarak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayette anlatılan İbrahim ailesine verilen kitap ve hikmet karşısında insanların iki farklı tepkisini özetler: bir kısmı iman etti, bir kısmı yüz çevirdi. Bu ayrım, aynı vahiy karşısında herkesin aynı tutumu almadığını gösterir.",
+  "Ayetin son cümlesi, yüz çevirenler için ciddi bir uyarı taşır; cehennemin şiddetli ateşi, bu tutumun sonucu olarak yeterli bir karşılık olarak nitelenir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "64:2",
+   "meal": "Sizi yaratan O'dur; kiminiz kâfirdir, kiminiz mümin.",
+   "baglanti": "Aynı vahiy ve yaratılış karşısında insanların iki farklı tutum aldığı burada da vurgulanır; Nisâ 55'teki ayrım bu genel gerçeğin bir örneğidir."
+  },
+  {
+   "ref": "67:11",
+   "meal": "Böylece günahlarını itiraf ederler. Artık (Allah'ın rahmetinden) uzak olsun o alevli ateşin halkı!",
+   "baglanti": "'Seîr' [alevli ateş] kelimesi burada da geçer; yüz çevirenlerin sonu aynı kelimeyle anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, vahiy karşısında insanların iman veya inkâr şeklindeki tercihidir; bu dinî bir konudur. Genel ders ise, aynı bilgiye ya da fırsata herkesin aynı tepkiyi vermeyeceğinin kabul edilmesidir.",
+  "Günlük hayatta, bir öğüt ya da doğru bilgi paylaştığında herkesin onu kabul etmeyebileceğini bilmek, hayal kırıklığını azaltır. Önemli olan, doğru olanı sunmak; kabul etmek ya da etmemek karşı tarafın seçimidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sonucu kontrol etmeye çalışma",
+   "aciklama": "Bugün bir öğüt verdiğinde, karşındakinin kararını kabul et, ısrar etme."
+  },
+  {
+   "baslik": "Kendi tercihini gözden geçir",
+   "aciklama": "Bildiğin bir doğruya karşı kendi tutumunu bugün samimice değerlendir."
+  },
+  {
+   "baslik": "Sabırlı ol",
+   "aciklama": "Fikrini kabul etmeyen birine karşı sabırlı ve saygılı kal."
+  }
+ ],
+ "bugununAdimi": "Bugün bir görüşünü paylaştıktan sonra, karşındakinin kararına saygı göster ve ısrar etme.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=55"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/55"
+  }
+ ]
+}

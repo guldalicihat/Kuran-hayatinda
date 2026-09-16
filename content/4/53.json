@@ -1,0 +1,124 @@
+{
+ "sure": 4,
+ "ayet": 53,
+ "durum": "taslak",
+ "meal": "Yoksa onların mülkten bir payı mı var? Öyle olsaydı insanlara bir çekirdek zarı kadar bile vermezlerdi.",
+ "mealNotu": "'Mülk' kökü ملك sahiplik ve yönetme gücünü anlatır. 'Nekîr' kökü نقر hurma çekirdeğinin üzerindeki küçük çukuru, yani çok küçük bir miktarı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onların",
+   "karsilik": "onların"
+  },
+  {
+   "kelime": "نَصِيبٌ",
+   "okunus": "nesîbün",
+   "kok": "نصب",
+   "kokAnlam": "pay, hisse",
+   "karsilik": "bir payı"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُلْكِ",
+   "okunus": "elmülki",
+   "kok": "ملك",
+   "kokAnlam": "sahiplik, yönetme gücü",
+   "karsilik": "mülkten"
+  },
+  {
+   "kelime": "فَإِذًا",
+   "okunus": "feizen",
+   "kok": "—",
+   "kokAnlam": "(cevap) öyle olsaydı",
+   "karsilik": "öyle olsaydı"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "-mezlerdi"
+  },
+  {
+   "kelime": "يُؤْتُونَ",
+   "okunus": "yü'tûne",
+   "kok": "أتي",
+   "kokAnlam": "gelme; verme",
+   "karsilik": "vermezlerdi"
+  },
+  {
+   "kelime": "ٱلنَّاسَ",
+   "okunus": "ennâse",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet",
+   "karsilik": "insanlara"
+  },
+  {
+   "kelime": "نَقِيرًا",
+   "okunus": "nekîran",
+   "kok": "نقر",
+   "kokAnlam": "çok küçük miktar, çekirdek zarı",
+   "karsilik": "bir çekirdek zarı kadar bile"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetlerde anlatılan kıskançlık ve büyüklenme tutumuna karşı bir soru sorar: bu kişilerin gerçekten bir mülk ve yönetim yetkisi mi var? Ayet, bunun olmadığını, cimri tutumlarından anlaşılabileceğini gösterir.",
+  "'Nekîr' [çekirdek zarı] ifadesi, verilecek en küçük şeyi bile esirgeyen bir cimriliği anlatmak için seçilmiş çarpıcı bir benzetmedir. Bu, gerçek bir yetkiye sahip olsalardı bile insanlara pay vermeyeceklerini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:26",
+   "meal": "De ki: Ey mülkün sahibi Allah'ım! Mülkü dilediğine verirsin, dilediğinden çekip alırsın.",
+   "baglanti": "Gerçek mülk sahipliğinin yalnız Allah'a ait olduğu burada açıkça belirtilir; Nisâ 53'teki soru bu gerçeğe dayanır."
+  },
+  {
+   "ref": "4:54",
+   "meal": "Yoksa Allah'ın kendi lütfundan insanlara verdiğini mi kıskanıyorlar? Oysa biz İbrahim ailesine kitabı ve hikmeti vermiştik; onlara büyük bir mülk de vermiştik.",
+   "baglanti": "Bu ayet, 53. ayetteki 'mülk' sorusunu doğrudan takip eder ve gerçek mülkün Allah'ın dilediğine verdiği bir lütuf olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir grubun sahip olmadığı bir yetkiyi kendine yakıştırmasıdır; bu tarihsel bir eleştiridir. Genel ders ise, sahip olunmayan bir güçle övünmenin ya da başkasına pay vermekten kaçınmanın boş bir tutum olduğudur.",
+  "Günlük hayatta, elindeki imkânı -küçük de olsa- paylaşmaktan kaçınmak, cimri bir tutumdur. Bu ayet, cömertliğin büyük servetle değil, elindekini paylaşma istekliliğiyle ölçüldüğünü hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçük bir payı paylaş",
+   "aciklama": "Bugün elindeki bir imkânı (zaman, bilgi, eşya) küçük de olsa biriyle paylaş."
+  },
+  {
+   "baslik": "Sahip olmadığın güçle övünme",
+   "aciklama": "Bir konuşmada gerçek yetkin olmayan bir konuda büyüklenmekten kaçın."
+  },
+  {
+   "baslik": "Cömertliği alışkanlık yap",
+   "aciklama": "Bugün kimseden beklemeden küçük bir iyilik yap."
+  }
+ ],
+ "bugununAdimi": "Bugün elindeki küçük bir imkânı, hiçbir karşılık beklemeden biriyle paylaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=53"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/53"
+  }
+ ]
+}

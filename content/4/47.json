@@ -1,0 +1,250 @@
+{
+ "sure": 4,
+ "ayet": 47,
+ "durum": "taslak",
+ "meal": "Ey kendilerine kitap verilenler! Yanınızdakini doğrulayıcı olarak indirdiğimize iman edin; yüzleri silip [yön kaybettirerek] arkalarına çevirmeden ya da Cumartesi halkını lânetlediğimiz gibi onları lânetlemeden önce. Allah'ın emri mutlaka yerine gelir.",
+ "mealNotu": "'Natmise vücûhen fenerudde-hâ alâ edbârihâ' [yüzleri silip arkalarına çevirmek] ifadesini klasik tefsir hem gerçek hem mecazi (yön ve konum kaybettirme) anlamda açıklar; burada ihtiyatla 'yön kaybettirerek' köşeli parantezle eklenmiştir. 'Musaddikan' kökü صدق doğrulama, önceki vahyi tasdik etmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "أُوتُوا۟",
+   "okunus": "ûtû",
+   "kok": "أتي",
+   "kokAnlam": "gelme; verilme",
+   "karsilik": "verilenler"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma, yazılı olan",
+   "karsilik": "kitap"
+  },
+  {
+   "kelime": "ءَامِنُوا۟",
+   "okunus": "âminû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman edin"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeye",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "نَزَّلْنَا",
+   "okunus": "nezzelnâ",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdiğimize"
+  },
+  {
+   "kelime": "مُصَدِّقًا",
+   "okunus": "müsaddikan",
+   "kok": "صدق",
+   "kokAnlam": "doğrulama, tasdik etme",
+   "karsilik": "doğrulayıcı olarak"
+  },
+  {
+   "kelime": "لِّمَا",
+   "okunus": "limâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeye",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "مَعَكُم",
+   "okunus": "meaküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sizinle beraber",
+   "karsilik": "yanınızdakini"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِ",
+   "okunus": "kabli",
+   "kok": "قبل",
+   "kokAnlam": "önce, öncelik",
+   "karsilik": "önce"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "نَّطْمِسَ",
+   "okunus": "natmise",
+   "kok": "طمس",
+   "kokAnlam": "silme, izini kaybettirme",
+   "karsilik": "silip"
+  },
+  {
+   "kelime": "وُجُوهًا",
+   "okunus": "vücûhen",
+   "kok": "وجه",
+   "kokAnlam": "yüz",
+   "karsilik": "yüzleri"
+  },
+  {
+   "kelime": "فَنَرُدَّهَا",
+   "okunus": "feneruddehâ",
+   "kok": "ردد",
+   "kokAnlam": "geri çevirme, döndürme",
+   "karsilik": "arkalarına çevirmeden"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "أَدْبَارِهَآ",
+   "okunus": "edbârihâ",
+   "kok": "دبر",
+   "kokAnlam": "arka, geri",
+   "karsilik": "arkalarına"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "نَلْعَنَهُمْ",
+   "okunus": "nel'anehüm",
+   "kok": "لعن",
+   "kokAnlam": "lânetleme, rahmetten uzaklaştırma",
+   "karsilik": "onları lânetlemeden"
+  },
+  {
+   "kelime": "كَمَا",
+   "okunus": "kemâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) gibi",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "لَعَنَّآ",
+   "okunus": "leannâ",
+   "kok": "لعن",
+   "kokAnlam": "lânetleme, rahmetten uzaklaştırma",
+   "karsilik": "lânetlediğimiz"
+  },
+  {
+   "kelime": "أَصْحَٰبَ",
+   "okunus": "ashâbe",
+   "kok": "صحب",
+   "kokAnlam": "arkadaşlık, sahiplik; halk",
+   "karsilik": "halkını"
+  },
+  {
+   "kelime": "ٱلسَّبْتِ",
+   "okunus": "essebti",
+   "kok": "سبت",
+   "kokAnlam": "dinlenme, Cumartesi günü",
+   "karsilik": "Cumartesi"
+  },
+  {
+   "kelime": "وَكَانَ",
+   "okunus": "ve kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dir"
+  },
+  {
+   "kelime": "أَمْرُ",
+   "okunus": "emru",
+   "kok": "أمر",
+   "kokAnlam": "emir, iş",
+   "karsilik": "emri"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "مَفْعُولًا",
+   "okunus": "mef'ûlen",
+   "kok": "فعل",
+   "kokAnlam": "yapma, gerçekleştirme",
+   "karsilik": "mutlaka yerine gelir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette sözleri çarpıtan bir tutum anlatılmıştı; bu ayet kitap ehline doğrudan bir çağrı yapar: yanlarındaki vahyi doğrulayan yeni vahye iman etmeleri istenir. Uyarı, ciddi bir sonuç imgesiyle desteklenir; klasik tefsir 'yüzleri silip arkalarına çevirme' ifadesini hem gerçek hem yön ve konum kaybettirme anlamında açıklar.",
+  "Ayet ayrıca 'Cumartesi halkı' örneğini hatırlatır; bu, önceki vahiyde geçen ve sınırı aşan bir topluluğun cezalandırılmasına gönderme yapar. Sonuç cümlesi -'Allah'ın emri mutlaka yerine gelir'- ayetin genel mesajını özetler: uyarı ciddiye alınmalıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:41",
+   "meal": "İndirdiğime, elinizdekini doğrulayıcı olarak iman edin; ona karşı ilk inkâr edenler olmayın.",
+   "baglanti": "Neredeyse aynı ifadeyle, kitap ehline önceki vahyi doğrulayan yeni vahye iman çağrısı burada da yapılır."
+  },
+  {
+   "ref": "7:163",
+   "meal": "Onlara, deniz kıyısındaki şehrin durumunu sor; Cumartesi (yasağı) konusunda haddi aşıyorlardı.",
+   "baglanti": "'Cumartesi halkı' ifadesinin arka planındaki olay burada anlatılır; Nisâ 47'deki gönderme bu kıssaya dayanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kitap ehline yöneltilen bir iman çağrısı ve ciddi bir uyarıdır; bu, tarihsel ve dinî bir bağlamdır. Genel ders ise, açık bir uyarı ya da fırsat karşısında geciktirmeden doğru adımı atmanın önemidir.",
+  "Bir kişiye elindeki bilgiyle çelişmeyen, aksine onu tamamlayan bir gerçek sunulduğunda, önyargıyla reddetmek yerine değerlendirmek gerekir. Ayet, ciddi sonuçları olan bir çağrıyı ertelememe fikrini de hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğruyu önyargısız değerlendir",
+   "aciklama": "Bugün karşına çıkan, bildiğinle çelişmeyen bir bilgiyi hemen reddetmeden düşün."
+  },
+  {
+   "baslik": "Uyarıyı ertelemeden ele al",
+   "aciklama": "Aldığın ciddi bir uyarıyı bugün içinde değerlendirip gerekeni yap."
+  },
+  {
+   "baslik": "Geçmişten ders çıkar",
+   "aciklama": "Bir hata örneğinden (kendi veya başkasının) bugün somut bir ders çıkar ve uygula."
+  }
+ ],
+ "bugununAdimi": "Bugün aldığın bir uyarıyı ertelemeden, önemine göre bir adım atarak karşılık ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=47"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/47"
+  }
+ ]
+}

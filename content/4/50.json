@@ -1,0 +1,124 @@
+{
+ "sure": 4,
+ "ayet": 50,
+ "durum": "taslak",
+ "meal": "Bak, Allah'a karşı nasıl yalan uyduruyorlar! Apaçık bir günah olarak bu yeter.",
+ "mealNotu": "'Yefterûne' kökü فري uydurmayı, gerçekte olmayan bir şeyi icat etmeyi anlatır. 'Kefâ' kökü كفي yeterli olmayı ifade eder; burada bu tutumun tek başına büyük bir günah olarak yettiği vurgulanır.",
+ "kokler": [
+  {
+   "kelime": "ٱنظُرْ",
+   "okunus": "inzur",
+   "kok": "نظر",
+   "kokAnlam": "bakma, gözetme",
+   "karsilik": "bak"
+  },
+  {
+   "kelime": "كَيْفَ",
+   "okunus": "keyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "يَفْتَرُونَ",
+   "okunus": "yefterûne",
+   "kok": "فري",
+   "kokAnlam": "uydurma, yalan yere icat etme",
+   "karsilik": "uyduruyorlar"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) karşı",
+   "karsilik": "karşı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "ٱلْكَذِبَ",
+   "okunus": "elkezibe",
+   "kok": "كذب",
+   "kokAnlam": "yalan",
+   "karsilik": "yalan"
+  },
+  {
+   "kelime": "وَكَفَىٰ",
+   "okunus": "ve kefâ",
+   "kok": "كفي",
+   "kokAnlam": "yeterli olma",
+   "karsilik": "yeter"
+  },
+  {
+   "kelime": "بِهِۦٓ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) bununla, buna",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "إِثْمًا",
+   "okunus": "ismen",
+   "kok": "أثم",
+   "kokAnlam": "günah",
+   "karsilik": "günah olarak"
+  },
+  {
+   "kelime": "مُّبِينًا",
+   "okunus": "mübînen",
+   "kok": "بين",
+   "kokAnlam": "açıklık, netlik",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette kendini temize çıkaranlardan söz edilmişti; bu ayet aynı çizgiyi devam ettirir ve bu tutumun aslında Allah'a karşı bir yalan uydurma olduğunu söyler. 'Yefterûne' kökü, gerçekte karşılığı olmayan bir iddiayı bilerek öne sürmeyi anlatır.",
+  "Ayetin son cümlesi, bu tutumun başka bir kanıta gerek kalmadan tek başına apaçık bir günah olduğunu vurgular; yani yalan uydurmanın kendisi, sonucundan bağımsız olarak ciddiye alınması gereken bir hatadır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:21",
+   "meal": "Allah'a karşı yalan uydurandan ya da ayetlerini yalanlayandan daha zalim kim vardır? Şüphesiz zalimler kurtuluşa eremezler.",
+   "baglanti": "Aynı tema burada da geçer; Allah'a yalan yakıştırmak en ağır haksızlıklardan biri olarak nitelenir."
+  },
+  {
+   "ref": "16:116",
+   "meal": "Dillerinizin yalan yere nitelendirmesiyle 'şu helâldir, şu haramdır' demeyin ki Allah'a karşı yalan uydurmuş olmayasınız.",
+   "baglanti": "Burada da Allah adına konuşurken dikkatli olma uyarısı yapılır; iki ayet aynı hassasiyeti farklı örneklerle anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah adına konuşurken ya da O'na bir şey yakıştırırken bilerek yalan söylemektir; bu ciddi bir dinî sorumluluktur. Genel ders ise, herhangi bir konuda emin olmadığın bir şeyi kesinmiş gibi sunmamaktır.",
+  "Günlük hayatta, bir konuda bilgin olmadığı hâlde kesin konuşmak, hem yanlış yönlendirir hem de güveni sarsar. Emin olmadığın konularda 'bilmiyorum' diyebilmek, dürüstlüğün bir parçasıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilmediğini söyle",
+   "aciklama": "Bugün emin olmadığın bir konuda 'bilmiyorum' demekten çekinme."
+  },
+  {
+   "baslik": "Kaynağını belirt",
+   "aciklama": "Bir bilgiyi aktarırken, onu nereden bildiğini de söyle."
+  },
+  {
+   "baslik": "Kesin dilden kaçın",
+   "aciklama": "Şüpheli olduğun konularda 'kesinlikle' yerine 'sanırım' gibi ifadeler kullan."
+  }
+ ],
+ "bugununAdimi": "Bugün emin olmadığın bir konuda konuşurken bunu açıkça belirt, kesinmiş gibi sunma.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=50"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/50"
+  }
+ ]
+}

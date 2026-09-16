@@ -1,0 +1,390 @@
+{
+ "sure": 4,
+ "ayet": 43,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Sarhoşken -ne söylediğinizi bilinceye kadar- namaza yaklaşmayın; cünüp iken de -yolcu olmanız dışında- gusledinceye kadar (yaklaşmayın). Eğer hasta olur ya da yolculukta olursanız, ya da sizden biri tuvaletten gelirse, ya da kadınlara dokunursanız, sonra da su bulamazsanız, temiz bir toprağa yönelip teyemmüm edin; yüzlerinizi ve ellerinizi meshedin. Şüphesiz Allah çok affeden, çok bağışlayandır.",
+ "mealNotu": "'Cünüb' kökü غسل değil كون kaynaklı bir haldir; burada gusül gerektiren durumu anlatır. 'Lâmestümü' kökü لمس dokunmayı ifade eder; klasik fıkıh bu ifadeyi kimi zaman doğrudan dokunma, kimi zaman cinsel ilişkinin bir kinayesi olarak açıklar, ayet metni bu ayrımı kesin biçimde belirlemez. 'Saîden tayyiben' [temiz bir toprağa] şeklinde köşeli parantezle tamamlanmıştır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "edenler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "-mayın"
+  },
+  {
+   "kelime": "تَقْرَبُوا۟",
+   "okunus": "tekrabû",
+   "kok": "قرب",
+   "kokAnlam": "yaklaşma",
+   "karsilik": "yaklaşmayın"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "namaz, dua, bağlantı kurma",
+   "karsilik": "namaza"
+  },
+  {
+   "kelime": "وَأَنتُمْ",
+   "okunus": "ve entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz iken"
+  },
+  {
+   "kelime": "سُكَٰرَىٰ",
+   "okunus": "sükârâ",
+   "kok": "سكر",
+   "kokAnlam": "sarhoşluk, aklın örtülmesi",
+   "karsilik": "sarhoşken"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "تَعْلَمُوا۟",
+   "okunus": "ta'lemû",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilinceye"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "تَقُولُونَ",
+   "okunus": "tekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "söylediğinizi"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "جُنُبًا",
+   "okunus": "cünüben",
+   "kok": "جنب",
+   "kokAnlam": "yan, taraf; gusül gerektiren hal",
+   "karsilik": "cünüp iken"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, dışında",
+   "karsilik": "dışında"
+  },
+  {
+   "kelime": "عَابِرِى",
+   "okunus": "âbirî",
+   "kok": "عبر",
+   "kokAnlam": "geçme, aşma",
+   "karsilik": "geçmekte olan"
+  },
+  {
+   "kelime": "سَبِيلٍ",
+   "okunus": "sebîlin",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolcu"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "تَغْتَسِلُوا۟",
+   "okunus": "tağtesilû",
+   "kok": "غسل",
+   "kokAnlam": "yıkanma, gusül",
+   "karsilik": "gusledinceye"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) ve eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُم",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olursanız"
+  },
+  {
+   "kelime": "مَّرْضَىٰٓ",
+   "okunus": "merdâ",
+   "kok": "مرض",
+   "kokAnlam": "hastalık",
+   "karsilik": "hasta"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَفَرٍ",
+   "okunus": "seferin",
+   "kok": "سفر",
+   "kokAnlam": "yolculuk, açığa çıkma",
+   "karsilik": "yolculukta"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "جَآءَ",
+   "okunus": "câe",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "geldiyse"
+  },
+  {
+   "kelime": "أَحَدٌ",
+   "okunus": "ehadün",
+   "kok": "أحد",
+   "kokAnlam": "bir, tek",
+   "karsilik": "biri"
+  },
+  {
+   "kelime": "مِّنكُم",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْغَآئِطِ",
+   "okunus": "elgâitı",
+   "kok": "غوط",
+   "kokAnlam": "çukur yer; tuvalet ihtiyacı için kullanılan örtülü ifade",
+   "karsilik": "tuvaletten"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "لَٰمَسْتُمُ",
+   "okunus": "lâmestümü",
+   "kok": "لمس",
+   "kokAnlam": "dokunma, temas etme",
+   "karsilik": "dokunduysanız"
+  },
+  {
+   "kelime": "ٱلنِّسَآءَ",
+   "okunus": "ennisâe",
+   "kok": "نسو",
+   "kokAnlam": "kadın",
+   "karsilik": "kadınlara"
+  },
+  {
+   "kelime": "فَلَمْ",
+   "okunus": "felem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve bulamadıysanız",
+   "karsilik": "sonra bulamazsanız"
+  },
+  {
+   "kelime": "تَجِدُوا۟",
+   "okunus": "tecidû",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulamazsanız"
+  },
+  {
+   "kelime": "مَآءً",
+   "okunus": "mâen",
+   "kok": "موه",
+   "kokAnlam": "su",
+   "karsilik": "su"
+  },
+  {
+   "kelime": "فَتَيَمَّمُوا۟",
+   "okunus": "feteyemmemû",
+   "kok": "يمم",
+   "kokAnlam": "yönelme, kasıtlı yönelme; teyemmüm",
+   "karsilik": "teyemmüm edin"
+  },
+  {
+   "kelime": "صَعِيدًا",
+   "okunus": "saîden",
+   "kok": "صعد",
+   "kokAnlam": "yeryüzü toprağı",
+   "karsilik": "bir toprağa"
+  },
+  {
+   "kelime": "طَيِّبًا",
+   "okunus": "tayyiben",
+   "kok": "طيب",
+   "kokAnlam": "temizlik, güzellik",
+   "karsilik": "temiz"
+  },
+  {
+   "kelime": "فَٱمْسَحُوا۟",
+   "okunus": "femsehû",
+   "kok": "مسح",
+   "kokAnlam": "meshetme, silme",
+   "karsilik": "meshedin"
+  },
+  {
+   "kelime": "بِوُجُوهِكُمْ",
+   "okunus": "bivücûhiküm",
+   "kok": "وجه",
+   "kokAnlam": "yüz",
+   "karsilik": "yüzlerinizi"
+  },
+  {
+   "kelime": "وَأَيْدِيكُمْ",
+   "okunus": "ve eydîküm",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "ellerinizi"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dır"
+  },
+  {
+   "kelime": "عَفُوًّا",
+   "okunus": "afüvven",
+   "kok": "عفو",
+   "kokAnlam": "affetme, silip geçme",
+   "karsilik": "çok affeden"
+  },
+  {
+   "kelime": "غَفُورًا",
+   "okunus": "gafûran",
+   "kok": "غفر",
+   "kokAnlam": "örtme, bağışlama",
+   "karsilik": "çok bağışlayandır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki bölümde ahiretteki hesap sahnesinden söz edilmişti; bu ayet ise günlük ibadet hayatına döner ve namaza yaklaşmanın belli hallerde ertelenmesini öğretir. Sarhoşken ve -yolcu olma durumu dışında- cünüp iken, kişi ne dediğini bilecek ya da gusledecek hale gelene kadar namaza yaklaşmaz. Su bulunamayan durumlarda ise temiz toprakla teyemmüm edilir; bu, ibadetin kolaylaştırılmasına dair bir örnektir.",
+  "'Lâmestümü' [dokundunuz] ifadesinin kapsamı hakkında klasik fıkıh farklı açıklamalar getirir; bazı yorumlar bunu doğrudan dokunma, bazıları ise cinsel ilişkinin bir kinayesi olarak açıklar. Ayetin ana vurgusu ise bu ayrıntıdan çok, temizliğin ibadetin bir şartı olduğu ve imkânsızlık durumunda kolaylaştırma sağlandığıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:6",
+   "meal": "Ey iman edenler! Namaza kalktığınızda yüzlerinizi ve dirseklere kadar ellerinizi yıkayın, başlarınızı meshedin, topuklara kadar ayaklarınızı da (yıkayın). Cünüp iseniz temizlenin (gusledin).",
+   "baglanti": "Aynı temizlik ve teyemmüm hükmü Mâide suresinde abdestle birlikte daha ayrıntılı anlatılır; iki ayet birbirini tamamlar."
+  },
+  {
+   "ref": "2:222",
+   "meal": "Şüphesiz Allah çokça tövbe edenleri sever, temizlenenleri de sever.",
+   "baglanti": "Bu ayet, temizliğin Allah katındaki değerine genel bir çerçeve çizer; Nisâ 43'teki somut temizlik emrinin arka planını oluşturur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, namaz öncesi bedensel temizlik ve bunun mümkün olmadığı durumlarda teyemmümle kolaylaştırılmasıdır; bu özel bir ibadet hükmüdür. Ancak ayette geçen 'ne söylediğini bilme' şartı, ibadetin bilinç ve dikkat gerektirdiğini de hatırlatır.",
+  "Günlük hayata taşınabilecek ders, bir işe hazırlıksız ve dikkatsiz girmemektir. Zihni dağınıkken önemli bir karar almak, ya da hazırlığı eksikken bir sorumluluğa başlamak, sonucu zayıflatır. Ayet, hem bedensel hem zihinsel hazır oluşun kıymetini birlikte gösterir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Namazına birkaç dakika ayır",
+   "aciklama": "Namaza başlamadan önce zihnini toplamak için birkaç saniye dur, ne yaptığının farkında ol."
+  },
+  {
+   "baslik": "Hazırlıksız girmediğin bir iş seç",
+   "aciklama": "Bugün önemli bir işe başlamadan önce gerekli hazırlığı (bilgi, araç, dinlenme) tamamla."
+  },
+  {
+   "baslik": "Kolaylaştırılmış bir çözümü kabul et",
+   "aciklama": "İdeal koşul yoksa elindeki en uygun alternatifi kullanmaktan çekinme; bunu erteleme sebebi yapma."
+  }
+ ],
+ "bugununAdimi": "Bugünkü bir namazına başlamadan önce on saniye durup zihnini topla, sonra namaza başla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=43"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/43"
+  }
+ ]
+}
