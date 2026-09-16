@@ -1,0 +1,495 @@
+{
+ "sure": 5,
+ "ayet": 110,
+ "durum": "taslak",
+ "meal": "Hani Allah şöyle demişti: 'Ey Meryem oğlu İsa! Senin ve annenin üzerindeki nimetimi hatırla. Hani seni Ruhu'l-Kudüs ile desteklemiştim; beşikte iken de yetişkin iken de insanlarla konuşuyordun. Hani sana Kitab'ı, hikmeti, Tevrat'ı ve İncil'i öğretmiştim. Hani iznimle çamurdan kuş biçiminde bir şey yapıyor, içine üflüyordun da iznimle kuş oluveriyordu; iznimle doğuştan körü ve alaca hastalığına tutulanı iyileştiriyor, iznimle ölüleri çıkarıyordun. Hani sana apaçık deliller getirdiğinde İsrailoğullarını senden geri çevirmiştim de içlerinden inkâr edenler, 'Bu apaçık bir büyüden başka bir şey değildir' demişlerdi.'",
+ "mealNotu": "Bu uzun ayette Allah, İsa'ya (a.s.) verdiği nimetleri kendi ağzından anar; ayet Kur'an'ın kendi ifadesidir, tarihsel yorum eklenmedi. 'Biiznî' (iznimle) ifadesi her mucizenin ardından tekrarlanır ve bu işlerin İsa'nın kendi gücüyle değil Allah'ın izniyle gerçekleştiğini vurgular.",
+ "kokler": [
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "demişti"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَٰعِيسَى",
+   "okunus": "yâ îsâ",
+   "kok": "—",
+   "kokAnlam": "(özel isim) ey İsa",
+   "karsilik": "ey İsa"
+  },
+  {
+   "kelime": "ٱبْنَ",
+   "okunus": "ibne",
+   "kok": "بني",
+   "kokAnlam": "oğul",
+   "karsilik": "oğlu"
+  },
+  {
+   "kelime": "مَرْيَمَ",
+   "okunus": "meryeme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Meryem",
+   "karsilik": "Meryem'in"
+  },
+  {
+   "kelime": "ٱذْكُرْ",
+   "okunus": "izkür",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama",
+   "karsilik": "hatırla"
+  },
+  {
+   "kelime": "نِعْمَتِى",
+   "okunus": "ni'metî",
+   "kok": "نعم",
+   "kokAnlam": "nimet, iyilik",
+   "karsilik": "nimetimi"
+  },
+  {
+   "kelime": "عَلَيْكَ",
+   "okunus": "aleyke",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) senin üzerinde",
+   "karsilik": "senin üzerindeki"
+  },
+  {
+   "kelime": "وَعَلَىٰ",
+   "okunus": "ve alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ve üzerinde",
+   "karsilik": "ve üzerindeki"
+  },
+  {
+   "kelime": "وَٰلِدَتِكَ",
+   "okunus": "vâlidetike",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; anne",
+   "karsilik": "annenin"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "أَيَّدتُّكَ",
+   "okunus": "eyyedttüke",
+   "kok": "أيد",
+   "kokAnlam": "destekleme, güçlendirme",
+   "karsilik": "seni desteklemiştim"
+  },
+  {
+   "kelime": "بِرُوحِ",
+   "okunus": "birûhi",
+   "kok": "روح",
+   "kokAnlam": "ruh",
+   "karsilik": "ruhu ile"
+  },
+  {
+   "kelime": "ٱلْقُدُسِ",
+   "okunus": "elkudüsi",
+   "kok": "قدس",
+   "kokAnlam": "kutsallık, temizlik",
+   "karsilik": "kutsal"
+  },
+  {
+   "kelime": "تُكَلِّمُ",
+   "okunus": "tükellimü",
+   "kok": "كلم",
+   "kokAnlam": "konuşma, söz söyleme",
+   "karsilik": "konuşuyordun"
+  },
+  {
+   "kelime": "ٱلنَّاسَ",
+   "okunus": "ennâse",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet",
+   "karsilik": "insanlarla"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْمَهْدِ",
+   "okunus": "elmehdi",
+   "kok": "مهد",
+   "kokAnlam": "beşik",
+   "karsilik": "beşikte"
+  },
+  {
+   "kelime": "وَكَهْلًا",
+   "okunus": "ve kehlen",
+   "kok": "كهل",
+   "kokAnlam": "olgunluk çağı, yetişkinlik",
+   "karsilik": "ve yetişkinken"
+  },
+  {
+   "kelime": "وَإِذْ",
+   "okunus": "ve iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) ve hani",
+   "karsilik": "ve hani"
+  },
+  {
+   "kelime": "عَلَّمْتُكَ",
+   "okunus": "allemtüke",
+   "kok": "علم",
+   "kokAnlam": "öğretme",
+   "karsilik": "sana öğretmiştim"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "Kitab'ı"
+  },
+  {
+   "kelime": "وَٱلْحِكْمَةَ",
+   "okunus": "vel hikmete",
+   "kok": "حكم",
+   "kokAnlam": "hikmet, isabetli hüküm",
+   "karsilik": "ve hikmeti"
+  },
+  {
+   "kelime": "وَٱلتَّوْرَىٰةَ",
+   "okunus": "vet tevrâte",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Tevrat",
+   "karsilik": "ve Tevrat'ı"
+  },
+  {
+   "kelime": "وَٱلْإِنجِيلَ",
+   "okunus": "vel incîle",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İncil",
+   "karsilik": "ve İncil'i"
+  },
+  {
+   "kelime": "وَإِذْ",
+   "okunus": "ve iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) ve hani",
+   "karsilik": "ve hani"
+  },
+  {
+   "kelime": "تَخْلُقُ",
+   "okunus": "tahlüku",
+   "kok": "خلق",
+   "kokAnlam": "yaratma, biçim verme",
+   "karsilik": "yapıyordun"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلطِّينِ",
+   "okunus": "ettîni",
+   "kok": "طين",
+   "kokAnlam": "çamur",
+   "karsilik": "çamurdan"
+  },
+  {
+   "kelime": "كَهَيْـَٔةِ",
+   "okunus": "kehey'eti",
+   "kok": "هيأ",
+   "kokAnlam": "biçim, suret",
+   "karsilik": "biçiminde"
+  },
+  {
+   "kelime": "ٱلطَّيْرِ",
+   "okunus": "ettayri",
+   "kok": "طير",
+   "kokAnlam": "kuş",
+   "karsilik": "kuş"
+  },
+  {
+   "kelime": "بِإِذْنِى",
+   "okunus": "biiznî",
+   "kok": "أذن",
+   "kokAnlam": "izin",
+   "karsilik": "iznimle"
+  },
+  {
+   "kelime": "فَتَنفُخُ",
+   "okunus": "fetenfühu",
+   "kok": "نفخ",
+   "kokAnlam": "üfleme",
+   "karsilik": "üflüyordun"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) içine",
+   "karsilik": "içine"
+  },
+  {
+   "kelime": "فَتَكُونُ",
+   "okunus": "fetekûnü",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oluveriyordu"
+  },
+  {
+   "kelime": "طَيْرًۢا",
+   "okunus": "tayram",
+   "kok": "طير",
+   "kokAnlam": "kuş",
+   "karsilik": "kuş"
+  },
+  {
+   "kelime": "بِإِذْنِى",
+   "okunus": "biiznî",
+   "kok": "أذن",
+   "kokAnlam": "izin",
+   "karsilik": "iznimle"
+  },
+  {
+   "kelime": "وَتُبْرِئُ",
+   "okunus": "ve tübriü",
+   "kok": "برأ",
+   "kokAnlam": "iyileştirme, kurtarma",
+   "karsilik": "ve iyileştiriyordun"
+  },
+  {
+   "kelime": "ٱلْأَكْمَهَ",
+   "okunus": "el'ekmehe",
+   "kok": "كمه",
+   "kokAnlam": "doğuştan kör olma",
+   "karsilik": "doğuştan körü"
+  },
+  {
+   "kelime": "وَٱلْأَبْرَصَ",
+   "okunus": "vel ebrasa",
+   "kok": "برص",
+   "kokAnlam": "alaca hastalığı",
+   "karsilik": "ve alaca hastalığına tutulanı"
+  },
+  {
+   "kelime": "بِإِذْنِى",
+   "okunus": "biiznî",
+   "kok": "أذن",
+   "kokAnlam": "izin",
+   "karsilik": "iznimle"
+  },
+  {
+   "kelime": "وَإِذْ",
+   "okunus": "ve iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) ve hani",
+   "karsilik": "ve hani"
+  },
+  {
+   "kelime": "تُخْرِجُ",
+   "okunus": "tühricü",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma",
+   "karsilik": "çıkarıyordun"
+  },
+  {
+   "kelime": "ٱلْمَوْتَىٰ",
+   "okunus": "elmevtâ",
+   "kok": "موت",
+   "kokAnlam": "ölüm; ölüler",
+   "karsilik": "ölüleri"
+  },
+  {
+   "kelime": "بِإِذْنِى",
+   "okunus": "biiznî",
+   "kok": "أذن",
+   "kokAnlam": "izin",
+   "karsilik": "iznimle"
+  },
+  {
+   "kelime": "وَإِذْ",
+   "okunus": "ve iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) ve hani",
+   "karsilik": "ve hani"
+  },
+  {
+   "kelime": "كَفَفْتُ",
+   "okunus": "kefeftü",
+   "kok": "كفف",
+   "kokAnlam": "engelleme, geri çevirme",
+   "karsilik": "geri çevirmiştim"
+  },
+  {
+   "kelime": "بَنِىٓ",
+   "okunus": "benî",
+   "kok": "بني",
+   "kokAnlam": "oğul; oğulları",
+   "karsilik": "oğullarını"
+  },
+  {
+   "kelime": "إِسْرَٰٓءِيلَ",
+   "okunus": "isrâîle",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İsrail",
+   "karsilik": "İsrail'in"
+  },
+  {
+   "kelime": "عَنكَ",
+   "okunus": "anke",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) senden",
+   "karsilik": "senden"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "جِئْتَهُم",
+   "okunus": "ci'tehüm",
+   "kok": "جيأ",
+   "kokAnlam": "gelme, getirme",
+   "karsilik": "onlara getirdiğinde"
+  },
+  {
+   "kelime": "بِٱلْبَيِّنَٰتِ",
+   "okunus": "bil beyyinâti",
+   "kok": "بين",
+   "kokAnlam": "açıklık, açık delil",
+   "karsilik": "apaçık delilleri"
+  },
+  {
+   "kelime": "فَقَالَ",
+   "okunus": "fekâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "demişti"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr edenler"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) içlerinden",
+   "karsilik": "içlerinden"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "هَٰذَآ",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "سِحْرٌ",
+   "okunus": "sihrun",
+   "kok": "سحر",
+   "kokAnlam": "büyü",
+   "karsilik": "bir büyüden"
+  },
+  {
+   "kelime": "مُّبِينٌ",
+   "okunus": "mübînün",
+   "kok": "بين",
+   "kokAnlam": "açıklık, açık olma",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, kıyamet günü Allah'ın İsa'ya (a.s.) kendisine ve annesine verdiği nimetleri hatırlattığı uzun bir sahneyi anlatır: Ruhu'l-Kudüs ile desteklenmesi, beşikte ve yetişkinlikte insanlarla konuşması, kendisine Kitap, hikmet, Tevrat ve İncil öğretilmesi. Ardından çamurdan kuş yapması, doğuştan körü ve alaca hastalığına tutulanı iyileştirmesi, ölüleri diriltmesi gibi olağanüstü işler sayılır; her birinin ardından 'iznimle' ifadesi tekrarlanır.",
+  "Bu tekrar, sayılan işlerin İsa'nın kendi gücünden değil, Allah'ın izniyle gerçekleştiğini vurgular. Ayet, İsrailoğullarından inkâr edenlerin bu delilleri 'apaçık bir büyü' diye nitelendirdiğini de aktarır. Klasik tefsir bu ayeti, İsa'ya verilen olağanüstü yetkilerin O'nun peygamberliğinin bir kanıtı olduğu, fakat bunun O'nu ilahlık makamına yükseltmediği; her mucizenin Allah'ın izniyle kayıtlı olduğu şeklinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:49",
+   "meal": "Ve İsrailoğullarına bir peygamber olarak gönderecek. O şöyle diyecek: Ben size Rabbinizden bir delille geldim; ben size çamurdan kuş biçiminde bir şey yapar, içine üflerim de Allah'ın izniyle kuş oluverir; Allah'ın izniyle doğuştan körü ve alaca hastalığına tutulanı iyileştirir, ölüleri diriltirim; evlerinizde ne yediğinizi ve ne biriktirdiğinizi de size haber veririm...",
+   "baglanti": "Bu ayet, İsa'nın kendi ağzından anlattığı mucizeleri içerir; 5:110'da ise aynı mucizeler Allah'ın İsa'ya hatırlatması biçiminde, İlahi izne bağlı olarak tekrar edilir."
+  },
+  {
+   "ref": "19:30",
+   "meal": "İsa dedi ki: Ben Allah'ın kuluyum. Bana Kitab'ı verdi ve beni bir peygamber yaptı.",
+   "baglanti": "Bu ayet, İsa'nın beşikte konuşmasının içeriğini aktarır; kendini doğrudan 'Allah'ın kulu' diye tanıtması, 5:110'daki beşikte konuşma mucizesini tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir peygambere verilen özel mucizelerdir ve bu, tarihe ait, tekrarlanamayan bir bağlamdır. Doğrudan bir günlük hayat uygulaması çıkarmak yerine ayetin vurgusuna bakmak daha isabetlidir: her başarı ve olağanüstü yetenek bile, sahibinin kendi gücünden değil, bir kaynaktan gelir.",
+  "İnsan, kendisine verilen bir yetenek veya başarıyı tümüyle kendi eseri gibi görmeye eğilimli olabilir. 'İznimle' vurgusunun tekrarı, en büyük başarıların bile bir izne, bir bağışa dayandığını hatırlatan bir tevazu dersi taşır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yeteneğini kaynağına bağla",
+   "aciklama": "Bugün bir başarını kutlarken, bu başarıyı mümkün kılan imkânları da fark et."
+  },
+  {
+   "baslik": "Büyüklenmeden konuş",
+   "aciklama": "Bir konuda başarılı olduğunda bunu abartmadan, sakin bir dille anlat."
+  },
+  {
+   "baslik": "Şükrünü belirt",
+   "aciklama": "Bugün elindeki bir yeteneğin veya imkânın kıymetini bilerek bir teşekkür cümlesi kur."
+  }
+ ],
+ "bugununAdimi": "Bugün bir başarını ya da yeteneğini, seni bu noktaya getiren imkânları hatırlayarak değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=110"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/110"
+  }
+ ]
+}

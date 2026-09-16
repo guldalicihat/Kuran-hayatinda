@@ -1,0 +1,411 @@
+{
+ "sure": 5,
+ "ayet": 106,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Birinize ölüm gelip çattığında, vasiyet sırasında aranızdaki şahitlik, sizden adaletli iki kişi[nin şahitliği] ya da yolculukta iken başınıza ölüm musibeti gelmişse sizden olmayan iki kişininkidir. Eğer şüphelenirseniz, namazdan sonra onları alıkoyarsınız da 'Yakınımız da olsa bunu hiçbir karşılığa değişmeyiz ve Allah'ın şahitliğini gizlemeyiz; yoksa o zaman elbette günahkârlardan oluruz' diye Allah adına yemin ederler.",
+ "mealNotu": "'Zevâ adlin minküm' ifadesi 'sizden adalet sahibi iki kişi' demektir; 'iki kişinin şahitliği' ifadesi anlamı netleştirmek için köşeli parantezle eklendi çünkü Arapça'da 'şehâdetü' kelimesi cümle başında tek geçer. 'Darabtüm fil ard' kökü yolculuğa çıkmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "شَهَٰدَةَ",
+   "okunus": "şehâdetü",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık, görüp bildirme",
+   "karsilik": "şahitliği"
+  },
+  {
+   "kelime": "بَيْنِكُمْ",
+   "okunus": "beyniküm",
+   "kok": "بين",
+   "kokAnlam": "ara, aralık",
+   "karsilik": "aranızdaki"
+  },
+  {
+   "kelime": "إِذًا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "حَضَرَ",
+   "okunus": "hadara",
+   "kok": "حضر",
+   "kokAnlam": "hazır olma, gelip çatma",
+   "karsilik": "gelip çattığında"
+  },
+  {
+   "kelime": "أَحَدَكُمُ",
+   "okunus": "ehadekümü",
+   "kok": "أحد",
+   "kokAnlam": "bir, biri",
+   "karsilik": "birinize"
+  },
+  {
+   "kelime": "ٱلْمَوْتِ",
+   "okunus": "elmevtü",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölüm"
+  },
+  {
+   "kelime": "حِينَ",
+   "okunus": "hîne",
+   "kok": "حين",
+   "kokAnlam": "vakit, an",
+   "karsilik": "sırasında"
+  },
+  {
+   "kelime": "ٱلْوَصِيَّةِ",
+   "okunus": "elvesıyyeti",
+   "kok": "وصي",
+   "kokAnlam": "vasiyet etme, tembih etme",
+   "karsilik": "vasiyet"
+  },
+  {
+   "kelime": "ٱثْنَانِ",
+   "okunus": "isnâni",
+   "kok": "ثني",
+   "kokAnlam": "ikilik, iki sayısı",
+   "karsilik": "iki kişi"
+  },
+  {
+   "kelime": "ذَوَا",
+   "okunus": "zevâ",
+   "kok": "—",
+   "kokAnlam": "(sahip) sahibi",
+   "karsilik": "sahibi"
+  },
+  {
+   "kelime": "عَدْلٍ",
+   "okunus": "adlin",
+   "kok": "عدل",
+   "kokAnlam": "denge, adalet",
+   "karsilik": "adalet"
+  },
+  {
+   "kelime": "مِّنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "ءَاخَرَانِ",
+   "okunus": "âharâni",
+   "kok": "أخر",
+   "kokAnlam": "başka, diğer",
+   "karsilik": "başka iki kişi"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "غَيْرِكُمْ",
+   "okunus": "gayriküm",
+   "kok": "غير",
+   "kokAnlam": "başkalık, gayrılık",
+   "karsilik": "sizin dışınızdan"
+  },
+  {
+   "kelime": "إِنِ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَنتُمْ",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "ضَرَبْتُمْ",
+   "okunus": "darabtüm",
+   "kok": "ضرب",
+   "kokAnlam": "vurma; yola çıkma, yolculuğa girme",
+   "karsilik": "yolculuğa çıkmışsanız"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yeryüzü, toprak",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "فَأَصَٰبَتْكُم",
+   "okunus": "feesâbetküm",
+   "kok": "صوب",
+   "kokAnlam": "isabet etme, gelip çatma",
+   "karsilik": "başınıza gelmişse"
+  },
+  {
+   "kelime": "مُّصِيبَةُ",
+   "okunus": "müsîbetü",
+   "kok": "صوب",
+   "kokAnlam": "isabet etme, musibet",
+   "karsilik": "musibeti"
+  },
+  {
+   "kelime": "ٱلْمَوْتِ",
+   "okunus": "elmevti",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölüm"
+  },
+  {
+   "kelime": "تَحْبِسُونَهُمَا",
+   "okunus": "tahbisûnehümâ",
+   "kok": "حبس",
+   "kokAnlam": "alıkoyma, tutma",
+   "karsilik": "onları alıkoyarsınız"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra, sonrası",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةِ",
+   "okunus": "essalâti",
+   "kok": "صلو",
+   "kokAnlam": "namaz, dua",
+   "karsilik": "namazdan"
+  },
+  {
+   "kelime": "فَيُقْسِمَانِ",
+   "okunus": "feyüksimâni",
+   "kok": "قسم",
+   "kokAnlam": "yemin etme, bölme",
+   "karsilik": "yemin ederler"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah adına"
+  },
+  {
+   "kelime": "إِنِ",
+   "okunus": "ini",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "ٱرْتَبْتُمْ",
+   "okunus": "urtebtüm",
+   "kok": "ريب",
+   "kokAnlam": "şüphe etme, kuşkulanma",
+   "karsilik": "şüphelenirseniz"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "-mayız"
+  },
+  {
+   "kelime": "نَشْتَرِى",
+   "okunus": "neşterî",
+   "kok": "شري",
+   "kokAnlam": "satın alma, karşılığında verme",
+   "karsilik": "değişmeyiz"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onunla",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "ثَمَنًا",
+   "okunus": "semenen",
+   "kok": "ثمن",
+   "kokAnlam": "bedel, değer",
+   "karsilik": "hiçbir karşılığa"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) -se bile",
+   "karsilik": "-se bile"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olsa"
+  },
+  {
+   "kelime": "ذَا",
+   "okunus": "zâ",
+   "kok": "—",
+   "kokAnlam": "(sahip) sahibi",
+   "karsilik": "sahibi"
+  },
+  {
+   "kelime": "قُرْبَىٰ",
+   "okunus": "kurbâ",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık, akrabalık",
+   "karsilik": "yakınlık"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve ne de"
+  },
+  {
+   "kelime": "نَكْتُمُ",
+   "okunus": "nektümü",
+   "kok": "كتم",
+   "kokAnlam": "gizleme, saklama",
+   "karsilik": "gizlemeyiz"
+  },
+  {
+   "kelime": "شَهَٰدَةَ",
+   "okunus": "şehâdete",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık, görüp bildirme",
+   "karsilik": "şahitliğini"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "إِنَّآ",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz biz",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "إِذًا",
+   "okunus": "izen",
+   "kok": "—",
+   "kokAnlam": "(cevap) o zaman",
+   "karsilik": "o zaman"
+  },
+  {
+   "kelime": "لَّمِنَ",
+   "okunus": "lemine",
+   "kok": "—",
+   "kokAnlam": "(edat) elbette -den",
+   "karsilik": "elbette -den"
+  },
+  {
+   "kelime": "ٱلْءَاثِمِينَ",
+   "okunus": "el'âsimîne",
+   "kok": "أثم",
+   "kokAnlam": "günah, günahkârlık",
+   "karsilik": "günahkârlardan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir kişi ölmek üzereyken vasiyetini iki şahitle güvence altına almayı düzenler. Normal şartlarda bu iki şahit, kişinin kendi topluluğundan adalet sahibi kimseler olmalıdır; yolculukta iken ölüm gelirse ve topluluktan kimse bulunmazsa, başkalarından iki şahit de yeterli görülür. 'Adl' kökü dengeyi ve adaleti, 'darabtüm fil ard' ifadesi ise yolculuğu anlatır.",
+  "Ayet, şüphe durumunda bu şahitlerin namazdan sonra yemin etmesini ister; yemin metni, yakınlık bile olsa şahitliği bir bedele değişmeyeceklerini, Allah'ın şahitliğini gizlemeyeceklerini içerir. Klasik tefsir bu ayeti, ölüm anında mal ve hakların korunması için titiz bir şahitlik usulü olarak açıklar; devamındaki ayetler bu usulün nasıl işleyeceğini ayrıntılandırır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:282",
+   "meal": "Ey iman edenler! Belirli bir süreye kadar birbirinize borçlandığınızda onu yazın. Aranızda adaletle bir yazıcı yazsın... Erkeklerinizden iki şahit tutun; eğer iki erkek yoksa, şahitlerden razı olacağınız bir erkek ve iki kadın olsun...",
+   "baglanti": "Kur'an'ın en uzun ayeti olan bu ayet de mali/hukuki işlerde şahitliği düzenler; 5:106'daki vasiyet şahitliği, bu genel ilkenin ölüm anına özel bir uygulamasıdır."
+  },
+  {
+   "ref": "65:2",
+   "meal": "Bekleme sürelerini bitirdiklerinde onları ya iyilikle tutun ya da iyilikle ayrılın. İçinizden adalet sahibi iki kişiyi şahit tutun ve şahitliği Allah için dosdoğru yapın...",
+   "baglanti": "'Zevey adlin minküm' (sizden adalet sahibi iki kişi) ifadesi burada da neredeyse aynı kalıpla geçer; iki adaletli şahit tutma usulü farklı bir hukuki konuda tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ölüm anında yapılan vasiyetin adaletli şahitlerle güvence altına alınmasıdır; bu özel bir hukuk konusudur. Genel ders, önemli kararların ve hakların, güvenilir ve tarafsız kişilerin tanıklığıyla belgelenmesinin değerine dairdir.",
+  "Miras ve vasiyet gibi konularda net ve yazılı/şahitli bir düzen kurmak, sonradan çıkabilecek anlaşmazlıkları önler. Yakınlık, şahitlikte doğruyu söylememek için bir gerekçe olmamalıdır; ayet bunu açıkça reddeder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Vasiyetini netleştir",
+   "aciklama": "Varsa önemli bir isteğini veya vasiyetini güvendiğin birine açıkça ve yazılı olarak bildir."
+  },
+  {
+   "baslik": "Şahitliği ciddiye al",
+   "aciklama": "Bir konuda şahitlik yapman istenirse, yakınlık gözetmeden bildiğin doğruyu söyle."
+  },
+  {
+   "baslik": "Önemli anlaşmaları belgele",
+   "aciklama": "Bugün sözlü kalan önemli bir anlaşmanı yazıya veya güvenilir bir tanığa bağla."
+  }
+ ],
+ "bugununAdimi": "Bugün üzerinde anlaşmazlık çıkabilecek bir konuyu, güvendiğin bir kişiye açıkça ve mümkünse yazılı olarak bildir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=106"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/106"
+  }
+ ]
+}

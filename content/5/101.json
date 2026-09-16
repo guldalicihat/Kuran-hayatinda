@@ -1,0 +1,229 @@
+{
+ "sure": 5,
+ "ayet": 101,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Açıklandığında sizi üzecek şeyler hakkında sormayın. Kur'an indirilirken onları sorarsanız size açıklanır. Allah onları affetmiştir. Allah çok bağışlayan, çok halimdir.",
+ "mealNotu": "'Tes'elû' kökü sormayı, 'tübde' kökü açığa çıkmayı anlatır. 'Afâ' kökü affetmeyi ifade eder; metin doğrudan 'onlardan (bu sorulardan)' der, [bu sorulardan] köşeli parantezle eklenmedi çünkü 'anhâ' zamiri zaten şeylere işaret eder.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı)",
+   "karsilik": "-mayın"
+  },
+  {
+   "kelime": "تَسْـَٔلُوا۟",
+   "okunus": "tes'elû",
+   "kok": "سأل",
+   "kokAnlam": "sorma, isteme",
+   "karsilik": "sormayın"
+  },
+  {
+   "kelime": "عَنْ",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "أَشْيَآءَ",
+   "okunus": "eşyâe",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "şeyler"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تُبْدَ",
+   "okunus": "tübde",
+   "kok": "بدو",
+   "kokAnlam": "ortaya çıkma, açığa çıkma",
+   "karsilik": "açıklanırsa"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "تَسُؤْكُمْ",
+   "okunus": "tesü'küm",
+   "kok": "سوأ",
+   "kokAnlam": "kötülük, üzme",
+   "karsilik": "sizi üzer"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) ve eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "تَسْـَٔلُوا۟",
+   "okunus": "tes'elû",
+   "kok": "سأل",
+   "kokAnlam": "sorma, isteme",
+   "karsilik": "sorarsanız"
+  },
+  {
+   "kelime": "عَنْهَا",
+   "okunus": "anhâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlar hakkında",
+   "karsilik": "onlar hakkında"
+  },
+  {
+   "kelime": "حِينَ",
+   "okunus": "hîne",
+   "kok": "حين",
+   "kokAnlam": "vakit, an",
+   "karsilik": "vaktinde"
+  },
+  {
+   "kelime": "يُنَزَّلُ",
+   "okunus": "yünezzelü",
+   "kok": "نزل",
+   "kokAnlam": "indirilme",
+   "karsilik": "indirilirken"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانُ",
+   "okunus": "elkur'ânü",
+   "kok": "قرأ",
+   "kokAnlam": "okuma; okunan kitap",
+   "karsilik": "Kur'an"
+  },
+  {
+   "kelime": "تُبْدَ",
+   "okunus": "tübde",
+   "kok": "بدو",
+   "kokAnlam": "ortaya çıkma, açığa çıkma",
+   "karsilik": "size açıklanır"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "عَفَا",
+   "okunus": "afâ",
+   "kok": "عفو",
+   "kokAnlam": "affetme, silme",
+   "karsilik": "affetti"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَنْهَا",
+   "okunus": "anhâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlardan",
+   "karsilik": "onları"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَفُورٌ",
+   "okunus": "gafûrun",
+   "kok": "غفر",
+   "kokAnlam": "örtme, bağışlama",
+   "karsilik": "çok bağışlayandır"
+  },
+  {
+   "kelime": "حَلِيمٌ",
+   "okunus": "halîmün",
+   "kok": "حلم",
+   "kokAnlam": "yumuşak davranma, öfkelenmeme",
+   "karsilik": "çok halimdir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, cevabı ağır bir yükümlülük getirecek veya insanı üzecek sorular sormamayı öğütler. 'Tes'elû' kökü sormayı, 'tübde' kökü bir şeyin açığa çıkmasını anlatır. Vahiy devam ederken sorulan bazı sorular, henüz gelmemiş bir hükmü zorlayarak yükü ağırlaştırabilir.",
+  "Ayet, 'Allah bunları affetti' diyerek geçmişte sorulmuş konuları kapatır. Klasik tefsir bu ayeti, hem gereksiz merakın hem de vahiy sürecine dair sınırı zorlayan soruların sakıncası olarak açıklar. Sonraki ayet, bu uyarıyı önceki bir topluluğun örneğiyle pekiştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:108",
+   "meal": "Yoksa siz de peygamberinize, daha önce Mûsâ'ya soru sorulduğu gibi sorular sormak mı istiyorsunuz? Kim imanı küfür ile değiştirirse, artık doğru yoldan sapmış olur.",
+   "baglanti": "'Sorma' kökü (سأل) burada da geçer; ayet, ümmetin peygamberinden gereksiz ve zorlayıcı sorular istememesini Mûsâ kıssasıyla hatırlatır."
+  },
+  {
+   "ref": "5:102",
+   "meal": "Sizden önce bir topluluk da onu sordu, sonra onu inkâr eder oldular.",
+   "baglanti": "5:101'in hemen ardından gelen bu ayet, aşırı soru sormanın önceki bir toplumda nasıl inkâra yol açtığını somut biçimde örnekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu vahiy döneminde soru sormanın sınırıdır; bu bağlam bugün birebir tekrarlanmaz. Fakat genel bir ilke çıkarılabilir: bazı sorular cevaplandığında insanı rahatlatmak yerine yükünü artırır.",
+  "Gereksiz yere kurcalamak, henüz olmamış bir sorunu büyütmek ya da başkasının özel hâlini didik didik etmek, insana fayda yerine sıkıntı getirebilir. Merakı, faydalı ve zamanı gelmiş sorulara yöneltmek daha sağlıklıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gereksiz kurcalamayı bırak",
+   "aciklama": "Bugün cevabını öğrenmenin sana fayda değil sıkıntı getireceği bir konuyu sormaktan vazgeç."
+  },
+  {
+   "baslik": "Zamanı gelmemiş soruyu ertele",
+   "aciklama": "Henüz gerçekleşmemiş bir durumla ilgili endişeni, gerçekleştiğinde ele almak üzere bir kenara bırak."
+  },
+  {
+   "baslik": "Merakını faydalıya yönelt",
+   "aciklama": "Bugün öğrenmek istediğin bir şeyi, sana veya başkasına gerçekten faydası olacak bir konuya yönlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün aklına gelen bir 'ya olursa' sorusunu yazılı olarak bırak ve şu an elindeki işe odaklan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=101"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/101"
+  }
+ ]
+}

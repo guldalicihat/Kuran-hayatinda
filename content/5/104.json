@@ -1,0 +1,222 @@
+{
+ "sure": 5,
+ "ayet": 104,
+ "durum": "taslak",
+ "meal": "Onlara, 'Allah'ın indirdiğine ve Resûl'e gelin' dendiğinde, 'Atalarımızı üzerinde bulduğumuz şey bize yeter' derler. Ataları hiçbir şey bilmiyor ve doğru yolu bulamıyor olsa da mı?",
+ "mealNotu": "'Hasbünâ' kökü (حسب) yeterlilik/hesap anlamı taşır, burada 'bize yeter' diye çevrildi. 'Evelev' ifadesindeki soru, [atalarının bilgisizliğine rağmen mi uyacaklar] anlamını taşır; bu köşeli parantezle eklenmedi çünkü cümle yapısı zaten soruyu içerir.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) ve -dığında",
+   "karsilik": "ve -dığında"
+  },
+  {
+   "kelime": "قِيلَ",
+   "okunus": "kîle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, denilme",
+   "karsilik": "denildiğinde"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "تَعَالَوْا۟",
+   "okunus": "teâlev",
+   "kok": "علو",
+   "kokAnlam": "yükselme; gelin (davet)",
+   "karsilik": "gelin"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şey",
+   "karsilik": "şeye"
+  },
+  {
+   "kelime": "أَنزَلَ",
+   "okunus": "enzele",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdiği"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَإِلَى",
+   "okunus": "ve ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ve -e",
+   "karsilik": "ve -e"
+  },
+  {
+   "kelime": "ٱلرَّسُولِ",
+   "okunus": "errasûli",
+   "kok": "رسل",
+   "kokAnlam": "gönderme; elçi",
+   "karsilik": "Resûl'e"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "حَسْبُنَا",
+   "okunus": "hasbünâ",
+   "kok": "حسب",
+   "kokAnlam": "hesap etme, yeterlilik",
+   "karsilik": "bize yeter"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "وَجَدْنَا",
+   "okunus": "vecednâ",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulduğumuz"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "ءَابَآءَنَآ",
+   "okunus": "âbâenâ",
+   "kok": "أبو",
+   "kokAnlam": "baba, ata",
+   "karsilik": "atalarımızı"
+  },
+  {
+   "kelime": "أَوَلَوْ",
+   "okunus": "evelev",
+   "kok": "—",
+   "kokAnlam": "(şart) -se de mi",
+   "karsilik": "-se de mi"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olsa"
+  },
+  {
+   "kelime": "ءَابَآؤُهُمْ",
+   "okunus": "âbâühüm",
+   "kok": "أبو",
+   "kokAnlam": "baba, ata",
+   "karsilik": "ataları"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "-mıyor"
+  },
+  {
+   "kelime": "يَعْلَمُونَ",
+   "okunus": "ya'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilmiyor"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "hiçbir şey"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve ne de"
+  },
+  {
+   "kelime": "يَهْتَدُونَ",
+   "okunus": "yehtedûne",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu bulma, hidayete erme",
+   "karsilik": "doğru yolu buluyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 'Allah'ın indirdiğine ve Resûl'e gelin' çağrısına karşı takınılan bir tavrı anlatır. Buna cevap olarak, 'Atalarımızı üzerinde bulduğumuz şey bize yeter' derler; 'hasbünâ' kökü burada yeterlilik iddiasını taşır.",
+  "Ayet, bu iddiayı bir soruyla çürütür: atalar hiçbir şey bilmiyor ve doğru yolu bulamıyor olsa da mı onlara uyulacak? 'Yehtedûne' kökü doğru yolu bulmayı anlatır. Klasik tefsir bu ayeti, geleneğe körü körüne bağlılığın, doğru bilgiye kapalı kalmaya yol açabileceği uyarısı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:170",
+   "meal": "Onlara, 'Allah'ın indirdiğine uyun' dendiğinde, 'Hayır, atalarımızı üzerinde bulduğumuz şeye uyarız' derler. Ataları hiçbir şey akletmiyor ve doğru yolu bulamıyor olsa da mı?",
+   "baglanti": "Bu ayet, 5:104 ile neredeyse aynı kalıpla, aynı uyarıyı tekrarlar; ikisi de ataların bilgisizliğine rağmen geleneğe sarılmayı eleştirir."
+  },
+  {
+   "ref": "31:21",
+   "meal": "Onlara, 'Allah'ın indirdiğine uyun' dendiğinde, 'Hayır, atalarımızı üzerinde bulduğumuz şeye uyarız' derler. Ya şeytan onları alevli ateşin azabına çağırıyorsa da mı?",
+   "baglanti": "Aynı kalıp burada farklı bir sonla biter; geleneğe bağlılığın bazen şeytanın çağrısına uymak anlamına gelebileceğini ekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, vahiy ve Resûl'e çağrılan bir topluluğun geleneğe sarılarak bu çağrıyı reddetmesidir. Bugüne taşınabilecek ders, bir görüşü sırf eskiden beri böyle yapılıyor diye savunmanın yeterli bir gerekçe olmadığıdır.",
+  "Aile veya çevreden gelen bir alışkanlığı sürdürmek doğal olabilir; fakat bu alışkanlık yanlışsa, sırf eskiden beri var olması onu doğru yapmaz. Doğruyu ararken atalardan gelen bilgiyi de gözden geçirmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Alışkanlığını sorgula",
+   "aciklama": "Ailenden veya çevrenden gelen bir alışkanlığı bugün 'doğru mu' diye sorgula."
+  },
+  {
+   "baslik": "Yeni bilgiye kapını aç",
+   "aciklama": "Eskiden beri doğru sandığın bir konuda yeni bir bilgiyle karşılaşırsan, hemen reddetmeden dinle."
+  },
+  {
+   "baslik": "Gerekçeni netleştir",
+   "aciklama": "Bir görüşünü savunurken 'çünkü böyle öğrendim' yerine somut bir gerekçe bul."
+  }
+ ],
+ "bugununAdimi": "Bugün sırf gelenek olduğu için sürdürdüğün bir alışkanlığı seç ve onun gerçekten doğru olup olmadığını araştır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=104"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/104"
+  }
+ ]
+}
