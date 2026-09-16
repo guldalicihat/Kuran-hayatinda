@@ -1,0 +1,166 @@
+{
+ "sure": 9,
+ "ayet": 126,
+ "durum": "taslak",
+ "meal": "Onlar her yıl bir veya iki kez sınandıklarını görmüyorlar mı? Sonra yine de ne tövbe ediyorlar ne de öğüt alıyorlar.",
+ "mealNotu": "'Yüftenûne' (فتن) kökü sınanma, imtihana tabi tutulma anlamındadır; 'yetûbûne' (توب) tövbe etme, dönme, 'yezzekkerûn' (ذكر) ise hatırlama ve öğüt alma anlamındadır. Ayet tekrar eden sınavlara rağmen değişmeyen bir tutumu anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَوَلَا",
+   "okunus": "evelâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk+soru) -mıyorlar mı",
+   "karsilik": "-mıyorlar mı"
+  },
+  {
+   "kelime": "يَرَوْنَ",
+   "okunus": "yeravne",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görüyorlar"
+  },
+  {
+   "kelime": "أَنَّهُمْ",
+   "okunus": "ennehüm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) kendilerinin",
+   "karsilik": "kendilerinin"
+  },
+  {
+   "kelime": "يُفْتَنُونَ",
+   "okunus": "yüftenûne",
+   "kok": "فتن",
+   "kokAnlam": "sınama, imtihan etme",
+   "karsilik": "sınandıklarını"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "كُلِّ",
+   "okunus": "külli",
+   "kok": "كلل",
+   "kokAnlam": "bütün, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "عَامٍ",
+   "okunus": "âmin",
+   "kok": "عوم",
+   "kokAnlam": "yıl",
+   "karsilik": "yıl"
+  },
+  {
+   "kelime": "مَّرَّةً",
+   "okunus": "merraten",
+   "kok": "مرر",
+   "kokAnlam": "kez, defa",
+   "karsilik": "bir kez"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "مَرَّتَيْنِ",
+   "okunus": "merrateyni",
+   "kok": "مرر",
+   "kokAnlam": "kez, defa",
+   "karsilik": "iki kez"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "yine de ...mıyorlar"
+  },
+  {
+   "kelime": "يَتُوبُونَ",
+   "okunus": "yetûbûne",
+   "kok": "توب",
+   "kokAnlam": "tövbe etme, dönme",
+   "karsilik": "tövbe etmiyorlar"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...mıyorlar",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "يَذَّكَّرُونَ",
+   "okunus": "yezzekkerûne",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlama, öğüt alma",
+   "karsilik": "öğüt alıyorlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Münafıkların tavrını anlatan önceki ayetlerin devamında bu ayet, onların yılda bir veya birkaç kez çeşitli sıkıntı, hastalık ya da olaylarla sınandığını, fakat bundan hiçbir ders çıkarmadığını anlatır; bir önceki ayette geçen 'kalbî hastalık' teması burada tekrarlayan uyarılara rağmen değişmeyen bir tutum olarak somutlaşır.",
+  "'Yüftenûne' (sınanma) kökü tekrar eden denemeleri, 'yetûbûne' (tövbe) ve 'yezzekkerûn' (öğüt alma) kökleri ise beklenen fakat gerçekleşmeyen tepkiyi anlatır. Ayet, hayattaki tekrarlayan uyarı ve zorlukların bir ders çıkarma fırsatı olduğunu, ama bu fırsatın her zaman değerlendirilmediğini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:2",
+   "meal": "İnsanlar, sadece 'iman ettik' demekle, hiç sınanmadan bırakılacaklarını mı sandılar?",
+   "baglanti": "9:126'daki tekrar eden sınanma teması, bu ayette de aynı 'fitne/sınama' köküyle genel bir ilke olarak dile getirilir: iman iddiası, sınavdan geçmeden kabul görmez."
+  },
+  {
+   "ref": "3:186",
+   "meal": "Mallarınız ve canlarınızla mutlaka sınanacaksınız...",
+   "baglanti": "9:126'daki yıllık sınanma bildirimi, bu ayette de mal ve canla imtihan olunacağı bildirilerek genişletilir; farklı kökle de olsa aynı 'sınanma' temasını paylaşırlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, tarihte belirli bir grubun -klasik tefsire göre münafıkların- tekrar eden sınavlara rağmen ders çıkarmama tutumunu eleştirmesidir.",
+  "Buradan çıkan genel ders, hayattaki tekrarlayan zorluk ve uyarıların birer hatırlatma fırsatı olduğudur; bugün yaşadığın bir sıkıntıdan ders çıkarıp aynı hatayı tekrarlamamaya çalışmak bu ayetin ruhuna uygun bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zorluktan ders çıkar",
+   "aciklama": "Yaşadığın bir sıkıntının sana ne öğrettiğini düşün, sadece geçmesini beklemekle yetinme."
+  },
+  {
+   "baslik": "Tekrarlayan uyarıları fark et",
+   "aciklama": "Hayatında tekrar eden bir sorun varsa, bunun bir hatırlatma olabileceğini düşünerek nedenini sorgula."
+  },
+  {
+   "baslik": "Öğüt almaya açık ol",
+   "aciklama": "Biri seni bir konuda uyardığında savunmaya geçmeden önce söylediğini gerçekten düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün yaşadığın bir zorluktan ne öğrenebileceğini düşün ve not al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=126"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/126"
+  }
+ ]
+}

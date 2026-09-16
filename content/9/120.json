@@ -1,0 +1,418 @@
+{
+ "sure": 9,
+ "ayet": 120,
+ "durum": "taslak",
+ "meal": "Medine halkına ve çevrelerindeki bedevîlere, Allah'ın Resûlü'nden geri kalmaları ve kendi canlarını onun canından üstün tutmaları yakışmaz. Çünkü Allah yolunda onlara isabet eden hiçbir susuzluk, hiçbir yorgunluk, hiçbir açlık; kâfirleri öfkelendirecek hiçbir adım atmaları ve düşmandan elde ettikleri hiçbir kazanç yoktur ki, bununla kendilerine salih bir amel yazılmış olmasın. Şüphesiz Allah, iyilik yapanların mükâfatını zayi etmez.",
+ "mealNotu": "'Yerğabû bienfüsihim an nefsihî' (kendi canlarını onun canından üstün tutmaları) ifadesi Peygamber'e sadakati anlatır. Ayette sayılan susuzluk, yorgunluk, açlık gibi her zorluğun 'kütibe' (yazıldı) fiiliyle bir salih amele dönüştüğü vurgulanır.",
+ "kokler": [
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mez",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma, varlık",
+   "karsilik": "yakışmaz"
+  },
+  {
+   "kelime": "لِأَهْلِ",
+   "okunus": "liehli",
+   "kok": "أهل",
+   "kokAnlam": "halk, ehil",
+   "karsilik": "halkına"
+  },
+  {
+   "kelime": "ٱلْمَدِينَةِ",
+   "okunus": "elmedîneti",
+   "kok": "مدن",
+   "kokAnlam": "şehir, medeniyet",
+   "karsilik": "Medine'nin"
+  },
+  {
+   "kelime": "وَمَنْ",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "حَوْلَهُم",
+   "okunus": "havlehüm",
+   "kok": "حول",
+   "kokAnlam": "çevre, etraf",
+   "karsilik": "çevrelerinde"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْأَعْرَابِ",
+   "okunus": "el'a'râbi",
+   "kok": "عرب",
+   "kokAnlam": "bedevî, çöl arabı",
+   "karsilik": "bedevîlerden"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -maları",
+   "karsilik": "-maları"
+  },
+  {
+   "kelime": "يَتَخَلَّفُوا۟",
+   "okunus": "yetehallefû",
+   "kok": "خلف",
+   "kokAnlam": "geride kalma, ardında bırakma",
+   "karsilik": "geri kalmaları"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّسُولِ",
+   "okunus": "rasûli",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi",
+   "karsilik": "Resûlü'nden"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -mamaları",
+   "karsilik": "ve -mamaları"
+  },
+  {
+   "kelime": "يَرْغَبُوا۟",
+   "okunus": "yerğabû",
+   "kok": "رغب",
+   "kokAnlam": "isteme, rağbet etme",
+   "karsilik": "üstün tutmamaları"
+  },
+  {
+   "kelime": "بِأَنفُسِهِمْ",
+   "okunus": "bienfüsihim",
+   "kok": "نفس",
+   "kokAnlam": "nefis, can",
+   "karsilik": "kendi canlarını"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "نَّفْسِهِۦ",
+   "okunus": "nefsihî",
+   "kok": "نفس",
+   "kokAnlam": "nefis, can",
+   "karsilik": "onun canından"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu böyledir",
+   "karsilik": "bu böyledir"
+  },
+  {
+   "kelime": "بِأَنَّهُمْ",
+   "okunus": "biennehüm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) çünkü onlara",
+   "karsilik": "çünkü onlara"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -maz",
+   "karsilik": "-maz"
+  },
+  {
+   "kelime": "يُصِيبُهُمْ",
+   "okunus": "yüsîbühüm",
+   "kok": "صوب",
+   "kokAnlam": "isabet etme, ulaşma",
+   "karsilik": "isabet etmez"
+  },
+  {
+   "kelime": "ظَمَأٌ",
+   "okunus": "zameün",
+   "kok": "ظمأ",
+   "kokAnlam": "susuzluk",
+   "karsilik": "hiçbir susuzluk"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "نَصَبٌ",
+   "okunus": "nesabün",
+   "kok": "نصب",
+   "kokAnlam": "yorgunluk, meşakkat",
+   "karsilik": "hiçbir yorgunluk"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "مَخْمَصَةٌ",
+   "okunus": "mahmesatün",
+   "kok": "خمص",
+   "kokAnlam": "açlık",
+   "karsilik": "hiçbir açlık"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -mazlar",
+   "karsilik": "ve -mazlar"
+  },
+  {
+   "kelime": "يَطَـُٔونَ",
+   "okunus": "yetaûne",
+   "kok": "وطأ",
+   "kokAnlam": "basma, ayak koyma",
+   "karsilik": "basmazlar"
+  },
+  {
+   "kelime": "مَوْطِئًا",
+   "okunus": "mevtıen",
+   "kok": "وطأ",
+   "kokAnlam": "basma, ayak koyma",
+   "karsilik": "hiçbir adım"
+  },
+  {
+   "kelime": "يَغِيظُ",
+   "okunus": "yeğîzu",
+   "kok": "غيظ",
+   "kokAnlam": "öfkelendirme",
+   "karsilik": "öfkelendiren"
+  },
+  {
+   "kelime": "ٱلْكُفَّارَ",
+   "okunus": "elküffâra",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "kâfirleri"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -mazlar",
+   "karsilik": "ve -mazlar"
+  },
+  {
+   "kelime": "يَنَالُونَ",
+   "okunus": "yenâlûne",
+   "kok": "نيل",
+   "kokAnlam": "ulaşma, elde etme",
+   "karsilik": "elde etmezler"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "عَدُوٍّ",
+   "okunus": "adüvvin",
+   "kok": "عدو",
+   "kokAnlam": "düşmanlık, düşman",
+   "karsilik": "düşmandan"
+  },
+  {
+   "kelime": "نَّيْلًا",
+   "okunus": "neylen",
+   "kok": "نيل",
+   "kokAnlam": "ulaşma, elde etme",
+   "karsilik": "hiçbir kazanç"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ki -olmasın",
+   "karsilik": "ki -olmasın"
+  },
+  {
+   "kelime": "كُتِبَ",
+   "okunus": "kütibe",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kayda geçirme",
+   "karsilik": "yazılmış olmasın"
+  },
+  {
+   "kelime": "لَهُم",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) kendilerine",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) bununla",
+   "karsilik": "bununla"
+  },
+  {
+   "kelime": "عَمَلٌ",
+   "okunus": "amelün",
+   "kok": "عمل",
+   "kokAnlam": "iş, amel",
+   "karsilik": "bir amel"
+  },
+  {
+   "kelime": "صَٰلِحٌ",
+   "okunus": "sâlihun",
+   "kok": "صلح",
+   "kokAnlam": "iyilik, salah",
+   "karsilik": "salih"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -maz",
+   "karsilik": "-maz"
+  },
+  {
+   "kelime": "يُضِيعُ",
+   "okunus": "yüdîu",
+   "kok": "ضيع",
+   "kokAnlam": "kaybolma, zayi etme",
+   "karsilik": "zayi etmez"
+  },
+  {
+   "kelime": "أَجْرَ",
+   "okunus": "ecra",
+   "kok": "أجر",
+   "kokAnlam": "ücret, mükâfat",
+   "karsilik": "mükâfatını"
+  },
+  {
+   "kelime": "ٱلْمُحْسِنِينَ",
+   "okunus": "elmühsinîne",
+   "kok": "حسن",
+   "kokAnlam": "iyilik, güzellik",
+   "karsilik": "iyilik yapanların"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Tebük Seferi bağlamında -Medine'de veya çevresinde oturup mazeretsiz sefere katılmayan bazı kimseleri kınayan önceki ayetlerin devamı olarak- Medine halkının ve çevresindeki bedevîlerin Peygamber'i yalnız bırakmalarının, kendi rahatlarını onun zorluğuna tercih etmelerinin doğru olmadığını bildirir.",
+  "Klasik tefsir, ayetin devamındaki susuzluk, yorgunluk, açlık gibi zorlukların her birinin -Allah yolunda çekildiği için- karşılıksız kalmayacağını, aksine bu zorlukların her birinin bir salih amel olarak yazılacağını anlattığını açıklar. Ayet, tarihî bir sefer bağlamında sadakat ve dayanışmayı över; 'Allah iyilik yapanların mükâfatını zayi etmez' ifadesiyle biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:172",
+   "meal": "Kendilerine yara isabet ettikten sonra Allah'ın ve Resûlü'nün çağrısına uyanlar -özellikle içlerinden iyilik yapıp Allah'a karşı gelmekten sakınanlar- için büyük bir mükâfat vardır.",
+   "baglanti": "3:172, zorluğa (yaraya) rağmen Peygamber'in çağrısına uyanların büyük bir mükâfat kazandığını anlatır; 9:120'deki -zorluklara rağmen Peygamber'in yanında yer alanların ödüllendirilmesi- temasıyla örtüşür."
+  },
+  {
+   "ref": "4:95",
+   "meal": "Özür sahibi olmaksızın oturan müminlerle, Allah yolunda mallarıyla ve canlarıyla cihad edenler bir olmaz. Allah, mallarıyla ve canlarıyla cihad edenleri, oturanlara göre derece bakımından üstün kılmıştır; Allah her birine güzel olanı vaad etmiştir, ama mücahitleri oturanlara büyük bir mükâfatla üstün kılmıştır.",
+   "baglanti": "4:95, mazeretsiz geride oturanlarla zorluğa katlanıp mücadele edenlerin bir tutulmayacağını anlatır; 9:120'deki, Peygamber'in yanında zorluğa katlananların ödüllendirilmesi ilkesini destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, Tebük Seferi'nde Medine halkının ve çevresindeki bedevîlerin Peygamber'i yalnız bırakmamaları, onun çektiği zorluğa ortak olmalarıdır; bu tarihî bir sefer bağlamına ait özel bir hükümdür.",
+  "Ayetten çıkarılabilecek evrensel ders, zor bir dönemden geçen birinin -bir lider, bir yakın, bir dava arkadaşı- yanında durmanın, kendi rahatını onun zorluğuna tercih etmemenin değerli olduğudur. Bugün, zorlanan birinin yanında durup durmadığını gözden geçirebilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zorlukta yanında dur",
+   "aciklama": "Bugün zor bir dönemden geçen bir yakınına -sözle veya küçük bir yardımla- yanında olduğunu hissettir."
+  },
+  {
+   "baslik": "Rahatını erteleyebil",
+   "aciklama": "Bir sorumluluk veya yakının ihtiyacı için bugün kendi konforundan küçük bir fedakârlık yap."
+  },
+  {
+   "baslik": "Emeğin karşılıksız kalmaz",
+   "aciklama": "Bugün, kimsenin fark etmediği ama zahmetli bir işi yaparken, bu emeğin boşa gitmediğini hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün zor bir dönemden geçen bir yakınının yanında olduğunu somut bir şekilde göster.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=120"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/120"
+  }
+ ]
+}
