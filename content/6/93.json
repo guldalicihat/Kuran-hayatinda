@@ -1,0 +1,397 @@
+{
+ "sure": 6,
+ "ayet": 93,
+ "durum": "taslak",
+ "meal": "Allah'a karşı yalan uydurandan, ya da kendisine hiçbir şey vahyolunmadığı halde 'Bana vahyolundu' diyenden, yahut 'Ben de Allah'ın indirdiği gibi indireceğim' diyenden daha zalim kim olabilir? Zalimleri, ölümün şiddetleri içindeyken, melekler de ellerini uzatmışken -'Canlarınızı çıkarın! Bugün, Allah hakkında gerçek olmayanı söylediğiniz ve O'nun ayetlerine karşı büyüklük tasladığınız için alçaltıcı bir azapla cezalandırılacaksınız' derken- bir görsen!",
+ "mealNotu": "'Gamerâtil mevt' kökü غمر, kaplayıp saran yoğun bir hâli anlatır; burada ölümün şiddetli anları kastedilir. 'Hûn' kökü هون, küçültücü, alçaltıcı azabı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(soru) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "أَظْلَمُ",
+   "okunus": "azlemü",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, zulüm; daha zalim",
+   "karsilik": "daha zalimdir"
+  },
+  {
+   "kelime": "مِمَّنِ",
+   "okunus": "mimmeni",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱفْتَرَىٰ",
+   "okunus": "ifterâ",
+   "kok": "فري",
+   "kokAnlam": "uydurma, yalan söyleme",
+   "karsilik": "uyduran"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerine",
+   "karsilik": "-e karşı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "كَذِبًا",
+   "okunus": "keziben",
+   "kok": "كذب",
+   "kokAnlam": "yalan",
+   "karsilik": "yalan"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "diyenden"
+  },
+  {
+   "kelime": "أُوحِىَ",
+   "okunus": "ûhiye",
+   "kok": "وحي",
+   "kokAnlam": "vahyetme, gizli haber verme",
+   "karsilik": "vahyolundu"
+  },
+  {
+   "kelime": "إِلَىَّ",
+   "okunus": "ileyye",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) bana",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "وَلَمْ",
+   "okunus": "ve lem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "oysa -medi"
+  },
+  {
+   "kelime": "يُوحَ",
+   "okunus": "yûha",
+   "kok": "وحي",
+   "kokAnlam": "vahyetme",
+   "karsilik": "vahyolunmadı"
+  },
+  {
+   "kelime": "إِلَيْهِ",
+   "okunus": "ileyhi",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "شَىْءٌ",
+   "okunus": "şey'ün",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "hiçbir şey"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(soru) kim",
+   "karsilik": "ya da kim"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "diyenden"
+  },
+  {
+   "kelime": "سَأُنزِلُ",
+   "okunus": "seünzilü",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "ben de indireceğim"
+  },
+  {
+   "kelime": "مِثْلَ",
+   "okunus": "misle",
+   "kok": "مثل",
+   "kokAnlam": "benzer, örnek",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "مَآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şeyin"
+  },
+  {
+   "kelime": "أَنزَلَ",
+   "okunus": "enzele",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdiği"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer, keşke",
+   "karsilik": "bir görsen"
+  },
+  {
+   "kelime": "تَرَىٰٓ",
+   "okunus": "terâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görsen"
+  },
+  {
+   "kelime": "إِذِ",
+   "okunus": "izi",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani, o an",
+   "karsilik": "o an ki"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمُونَ",
+   "okunus": "ezzâlimûne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık eden",
+   "karsilik": "zalimler"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "غَمَرَٰتِ",
+   "okunus": "gamerâti",
+   "kok": "غمر",
+   "kokAnlam": "yoğun, kaplayan sıkıntı",
+   "karsilik": "şiddetleri"
+  },
+  {
+   "kelime": "ٱلْمَوْتِ",
+   "okunus": "elmevti",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölümün"
+  },
+  {
+   "kelime": "وَٱلْمَلَٰٓئِكَةُ",
+   "okunus": "vel melâiketü",
+   "kok": "ملك",
+   "kokAnlam": "melek",
+   "karsilik": "melekler"
+  },
+  {
+   "kelime": "بَاسِطُوٓا۟",
+   "okunus": "bâsitû",
+   "kok": "بسط",
+   "kokAnlam": "açma, uzatma",
+   "karsilik": "uzatmışken"
+  },
+  {
+   "kelime": "أَيْدِيهِمْ",
+   "okunus": "eydîhim",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "ellerini"
+  },
+  {
+   "kelime": "أَخْرِجُوٓا۟",
+   "okunus": "ahricû",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma",
+   "karsilik": "çıkarın"
+  },
+  {
+   "kelime": "أَنفُسَكُمُ",
+   "okunus": "enfüsekümü",
+   "kok": "نفس",
+   "kokAnlam": "nefis, can",
+   "karsilik": "canlarınızı"
+  },
+  {
+   "kelime": "ٱلْيَوْمَ",
+   "okunus": "elyevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bugün"
+  },
+  {
+   "kelime": "تُجْزَوْنَ",
+   "okunus": "tüczevne",
+   "kok": "جزي",
+   "kokAnlam": "karşılığını verme",
+   "karsilik": "cezalandırılacaksınız"
+  },
+  {
+   "kelime": "عَذَابَ",
+   "okunus": "azâbe",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "azabıyla"
+  },
+  {
+   "kelime": "ٱلْهُونِ",
+   "okunus": "elhûni",
+   "kok": "هون",
+   "kokAnlam": "aşağılanma, zillet",
+   "karsilik": "alçaltıcı"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) sebebiyle",
+   "karsilik": "çünkü"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oluyordunuz"
+  },
+  {
+   "kelime": "تَقُولُونَ",
+   "okunus": "tekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "söylüyordunuz"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerine",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَيْرَ",
+   "okunus": "gayra",
+   "kok": "غير",
+   "kokAnlam": "başka, gayrı",
+   "karsilik": "olmayanı"
+  },
+  {
+   "kelime": "ٱلْحَقِّ",
+   "okunus": "elhakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, hak",
+   "karsilik": "gerçek"
+  },
+  {
+   "kelime": "وَكُنتُمْ",
+   "okunus": "ve küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ve oluyordunuz"
+  },
+  {
+   "kelime": "عَنْ",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "karşı"
+  },
+  {
+   "kelime": "ءَايَٰتِهِۦ",
+   "okunus": "âyâtihî",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "O'nun ayetlerine"
+  },
+  {
+   "kelime": "تَسْتَكْبِرُونَ",
+   "okunus": "testekbirûne",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük, büyüklenme",
+   "karsilik": "büyüklük taslıyordunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, üç tür yalanı sıralar: Allah'a iftira atmak, vahiy almadığı hâlde vahiy iddia etmek ve Allah'ın indirdiğine benzer bir söz üretebileceğini iddia etmek. Bu üçü de vahyin güvenilirliğine karşı işlenen ağır bir haksızlık olarak nitelenir.",
+  "Ardından sahne, zalimlerin ölüm anına geçer; melekler onlardan canlarını çıkarmalarını ister. Klasik tefsir bu tabloyu, dünyada Allah hakkında söylenen asılsız sözlerin ahiretteki karşılığı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:68",
+   "meal": "Allah'a karşı yalan uydurandan, ya da kendisine hak geldiğinde onu yalanlayandan daha zalim kim olabilir? Kâfirler için cehennemde bir konak yok mudur?",
+   "baglanti": "6:93'ün açılış cümlesiyle neredeyse aynıdır; Allah adına yalan söylemenin en büyük haksızlık olduğu vurgusu tekrarlanır."
+  },
+  {
+   "ref": "8:50",
+   "meal": "İnkâr edenlerin canını alırken melekler yüzlerine ve arkalarına vururken -'Yakıcı azabı tadın!'- bir görsen!",
+   "baglanti": "6:93'teki 'melekler ellerini uzatmışken' sahnesi, burada benzer bir ölüm anı tasviriyle bütünleşir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah adına yalan uydurmak ve sahte vahiy iddiasıdır; bu özel ve ağır bir günahtır, herkesin karşılaşacağı bir durum değildir.",
+  "Buradan genel bir ders çıkarılabilir: bir sözü, özellikle ciddi bir iddiayı, doğrulanmamışken kesin gerçekmiş gibi sunmak büyük bir sorumluluktur. Söylediğimiz sözün arkasında durabilmek, iddia ile gerçeği karıştırmamak günlük hayatta da önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İddia ile bilgiyi ayır",
+   "aciklama": "Bugün bir konuda kesin konuşmadan önce, bunun bir bilgi mi yoksa senin tahminin mi olduğunu kendine sor."
+  },
+  {
+   "baslik": "Büyüklenmeden dinle",
+   "aciklama": "Bugün bir eleştiriyi veya farklı görüşü, büyüklük taslamadan, açık bir zihinle dinle."
+  },
+  {
+   "baslik": "Söylediğin sözün sorumluluğunu al",
+   "aciklama": "Bugün emin olmadığın bir şeyi 'bilmiyorum' diyerek dürüstçe belirt."
+  }
+ ],
+ "bugununAdimi": "Bugün emin olmadığın bir konuda kesin konuşmak yerine 'bilmiyorum' veya 'emin değilim' demeyi dene.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=93"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/93"
+  }
+ ]
+}

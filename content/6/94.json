@@ -1,0 +1,257 @@
+{
+ "sure": 6,
+ "ayet": 94,
+ "durum": "taslak",
+ "meal": "Andolsun, sizi ilk defa yarattığımız gibi tek başınıza bize geldiniz; size verdiklerimizi arkanızda bıraktınız. İçinizde ortaklar olduğunu iddia ettiğiniz şefaatçilerinizi de yanınızda görmüyoruz. Andolsun, aranızdaki bağlar kesildi ve iddia ettiğiniz şeyler sizden kayboldu.",
+ "mealNotu": "'Havvelnâküm' kökü خول, sahiplik vererek bağışlanan malı anlatır; dünyada size verilenler kastedilir. 'Zeamtüm' kökü زعم, kanıtsız ve asılsız iddiayı anlatır; burada şefaatçi sanılan varlıklar için kullanılır.",
+ "kokler": [
+  {
+   "kelime": "وَلَقَدْ",
+   "okunus": "velekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) andolsun",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "جِئْتُمُونَا",
+   "okunus": "ci'tümûnâ",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "bize geldiniz"
+  },
+  {
+   "kelime": "فُرَٰدَىٰ",
+   "okunus": "fürâdâ",
+   "kok": "فرد",
+   "kokAnlam": "tek, yalnız",
+   "karsilik": "tek başınıza"
+  },
+  {
+   "kelime": "كَمَا",
+   "okunus": "kemâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) gibi",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "خَلَقْنَٰكُمْ",
+   "okunus": "haleknâküm",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "sizi yarattığımız"
+  },
+  {
+   "kelime": "أَوَّلَ",
+   "okunus": "evvele",
+   "kok": "أول",
+   "kokAnlam": "ilk, başlangıç",
+   "karsilik": "ilk"
+  },
+  {
+   "kelime": "مَرَّةٍ",
+   "okunus": "merratin",
+   "kok": "مرر",
+   "kokAnlam": "kez, defa",
+   "karsilik": "defa"
+  },
+  {
+   "kelime": "وَتَرَكْتُم",
+   "okunus": "ve teraktüm",
+   "kok": "ترك",
+   "kokAnlam": "bırakma, terk etme",
+   "karsilik": "ve bıraktınız"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şeyleri"
+  },
+  {
+   "kelime": "خَوَّلْنَٰكُمْ",
+   "okunus": "havvelnâküm",
+   "kok": "خول",
+   "kokAnlam": "bağışlama, mal verme",
+   "karsilik": "size verdiğimiz"
+  },
+  {
+   "kelime": "وَرَآءَ",
+   "okunus": "verâe",
+   "kok": "وري",
+   "kokAnlam": "arka, geri",
+   "karsilik": "arkanızda"
+  },
+  {
+   "kelime": "ظُهُورِكُمْ",
+   "okunus": "zuhûriküm",
+   "kok": "ظهر",
+   "kokAnlam": "sırt",
+   "karsilik": "sırtlarınızın"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "نَرَىٰ",
+   "okunus": "nerâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görmüyoruz"
+  },
+  {
+   "kelime": "مَعَكُمْ",
+   "okunus": "meaküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizinle beraber",
+   "karsilik": "yanınızda"
+  },
+  {
+   "kelime": "شُفَعَآءَكُمُ",
+   "okunus": "şüfeâekümü",
+   "kok": "شفع",
+   "kokAnlam": "aracılık etme, şefaat",
+   "karsilik": "şefaatçilerinizi"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "زَعَمْتُمْ",
+   "okunus": "zeamtüm",
+   "kok": "زعم",
+   "kokAnlam": "iddia etme",
+   "karsilik": "iddia ettiniz"
+  },
+  {
+   "kelime": "أَنَّهُمْ",
+   "okunus": "ennehüm",
+   "kok": "—",
+   "kokAnlam": "(tekid) onların olduğunu",
+   "karsilik": "onların"
+  },
+  {
+   "kelime": "فِيكُمْ",
+   "okunus": "fîküm",
+   "kok": "—",
+   "kokAnlam": "(edat) içinizde",
+   "karsilik": "içinizde"
+  },
+  {
+   "kelime": "شُرَكَٰٓؤُا۟",
+   "okunus": "şürakâü",
+   "kok": "شرك",
+   "kokAnlam": "ortak",
+   "karsilik": "ortaklar"
+  },
+  {
+   "kelime": "لَقَد",
+   "okunus": "lekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) andolsun",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "تَّقَطَّعَ",
+   "okunus": "tekattaa",
+   "kok": "قطع",
+   "kokAnlam": "kesilme, kopma",
+   "karsilik": "kesildi"
+  },
+  {
+   "kelime": "بَيْنَكُمْ",
+   "okunus": "beyneküm",
+   "kok": "بين",
+   "kokAnlam": "ara",
+   "karsilik": "aranızdaki (bağlar)"
+  },
+  {
+   "kelime": "وَضَلَّ",
+   "okunus": "ve dalle",
+   "kok": "ضلل",
+   "kokAnlam": "kaybolma, sapma",
+   "karsilik": "ve kayboldu"
+  },
+  {
+   "kelime": "عَنكُم",
+   "okunus": "anküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şeyler"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduğunuz"
+  },
+  {
+   "kelime": "تَزْعُمُونَ",
+   "okunus": "tez'umûne",
+   "kok": "زعم",
+   "kokAnlam": "iddia etme",
+   "karsilik": "iddia ediyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, kıyamet gününde insanın Allah'ın huzuruna yalnız, dünyada sahip olduğu her şeyden ayrılmış olarak geleceğini anlatır. 'İlk yaratılış gibi' ifadesi, doğumdaki çıplaklık ve yalnızlığın kıyamette de tekrarlanacağını gösterir.",
+  "Devamında, dünyada ortak koşulan ve şefaatçi sanılan varlıkların o gün ortada olmadığı vurgulanır. Klasik tefsir bu ayeti, dünyada kurulan sahte güven bağlarının ahirette bir işe yaramayacağı şeklinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "19:80",
+   "meal": "Onun söylediğine (mal ve evlada) biz varis oluruz; o bize tek başına gelir.",
+   "baglanti": "6:94'teki 'fürâdâ' (tek başına) gelme teması burada da tekrarlanır; dünyada biriktirilenin ahirette geride kaldığı fikri pekişir."
+  },
+  {
+   "ref": "35:14",
+   "meal": "Onlara dua etseniz çağrınızı duymazlar; duysalar bile size cevap veremezler. Kıyamet günü de sizin ortak koşmanızı inkâr ederler. Hiç kimse sana, her şeyden haberdar olan (Allah) gibi haber veremez.",
+   "baglanti": "6:94'te şefaatçilerin ortadan kaybolması, burada ortak koşulanların kıyamet günü bu ortaklığı reddetmesiyle tamamlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıyamet günü ve o günkü yalnızlıktır; bu, dünyevi bir olay değil ahiretle ilgili bir bildirimdir.",
+  "Buradan çıkarılabilecek ders, güvenimizi neye veya kime bağladığımızı gözden geçirmektir. Statü, mal veya başkalarının desteğine aşırı güvenmek yerine, kalıcı olan değerlere yönelmek bu ayetten alınabilecek bir uygulamadır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Güvendiğin şeyi gözden geçir",
+   "aciklama": "Bugün en çok güvendiğin şeyin (mal, konum, kişi) geçici mi kalıcı mı olduğunu düşün."
+  },
+  {
+   "baslik": "Yalnız kalınca ne yaptığına bak",
+   "aciklama": "Bugün destek olmadan tek başına bir kararı nasıl verdiğine dikkat et."
+  },
+  {
+   "baslik": "Asılsız bir iddiayı bırak",
+   "aciklama": "Bugün kanıtsız inandığın bir görüşü sorgula ve gerekirse düzelt."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararını, başkasının onayına değil kendi değerlendirmene dayanarak ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=94"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/94"
+  }
+ ]
+}

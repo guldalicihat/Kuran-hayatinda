@@ -1,0 +1,362 @@
+{
+ "sure": 6,
+ "ayet": 91,
+ "durum": "taslak",
+ "meal": "Onlar, 'Allah hiçbir beşere hiçbir şey indirmedi' dedikleri zaman, Allah'ı hakkıyla takdir edemediler. De ki: Musa'nın insanlara bir nur ve hidayet olarak getirdiği kitabı kim indirdi? Siz onu kâğıtlara dönüştürüp bir kısmını ortaya koyuyor, çoğunu gizliyorsunuz. Sizin de atalarınızın da bilmediği şeyler size öğretildi. De ki: Allah (indirdi). Sonra onları bırak, daldıkları bataklıkta oynayadursunlar.",
+ "mealNotu": "'Kaderû... hakka kadrihî' ifadesi قدر kökünden gelir; Allah'ı gereği gibi değerlendirmemeyi, O'nun kudretini küçümsemeyi anlatır. 'Karâtîs' kökü قرطس yazı sayfaları demektir; burada Tevrat'ın parça parça, seçilerek aktarılması eleştirilir.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "قَدَرُوا۟",
+   "okunus": "kaderû",
+   "kok": "قدر",
+   "kokAnlam": "ölçme, değer biçme, takdir etme",
+   "karsilik": "takdir ettiler"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ı"
+  },
+  {
+   "kelime": "حَقَّ",
+   "okunus": "hakka",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, hak, doğruluk",
+   "karsilik": "hakkıyla"
+  },
+  {
+   "kelime": "قَدْرِهِۦٓ",
+   "okunus": "kadrihî",
+   "kok": "قدر",
+   "kokAnlam": "ölçü, değer, kadir",
+   "karsilik": "O'nun değerini"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "(değil)"
+  },
+  {
+   "kelime": "أَنزَلَ",
+   "okunus": "enzele",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirmedi"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "بَشَرٍ",
+   "okunus": "beşerin",
+   "kok": "بشر",
+   "kokAnlam": "insan, beşer",
+   "karsilik": "hiçbir beşere"
+  },
+  {
+   "kelime": "مَنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "bir şey"
+  },
+  {
+   "kelime": "قُلِ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "مَنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(soru) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "أَنزَلَ",
+   "okunus": "enzele",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdi"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "kitabı"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki o",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "جَآءَ",
+   "okunus": "câe",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "getirdi"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "مُوسَىٰ",
+   "okunus": "mûsâ",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "Musa'nın"
+  },
+  {
+   "kelime": "نُورًا",
+   "okunus": "nûran",
+   "kok": "نور",
+   "kokAnlam": "aydınlık, nur",
+   "karsilik": "bir nur"
+  },
+  {
+   "kelime": "وَهُدًى",
+   "okunus": "ve hüden",
+   "kok": "هدي",
+   "kokAnlam": "doğru yol, hidayet",
+   "karsilik": "ve hidayet"
+  },
+  {
+   "kelime": "لِّلنَّاسِ",
+   "okunus": "lilnnâsi",
+   "kok": "أنس",
+   "kokAnlam": "insanlar",
+   "karsilik": "insanlara"
+  },
+  {
+   "kelime": "تَجْعَلُونَهُۥ",
+   "okunus": "tec'alûnehû",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "onu yapıyorsunuz"
+  },
+  {
+   "kelime": "قَرَاطِيسَ",
+   "okunus": "karâtîse",
+   "kok": "قرطس",
+   "kokAnlam": "yazı sayfası, kâğıt",
+   "karsilik": "kâğıtlar"
+  },
+  {
+   "kelime": "تُبْدُونَهَا",
+   "okunus": "tübdûnehâ",
+   "kok": "بدو",
+   "kokAnlam": "açığa çıkarma, gösterme",
+   "karsilik": "onu açığa vuruyorsunuz"
+  },
+  {
+   "kelime": "وَتُخْفُونَ",
+   "okunus": "ve tühfûne",
+   "kok": "خفي",
+   "kokAnlam": "gizleme",
+   "karsilik": "ve gizliyorsunuz"
+  },
+  {
+   "kelime": "كَثِيرًا",
+   "okunus": "kesîran",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "çoğunu"
+  },
+  {
+   "kelime": "وَعُلِّمْتُم",
+   "okunus": "ve ullimtüm",
+   "kok": "علم",
+   "kokAnlam": "öğretme",
+   "karsilik": "ve size öğretildi"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şeyler"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "(değil)"
+  },
+  {
+   "kelime": "تَعْلَمُوٓا۟",
+   "okunus": "ta'lemû",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilmediğiniz"
+  },
+  {
+   "kelime": "أَنتُمْ",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "sizin"
+  },
+  {
+   "kelime": "وَلَآ",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve ne de"
+  },
+  {
+   "kelime": "ءَابَآؤُكُمْ",
+   "okunus": "âbâüküm",
+   "kok": "أبو",
+   "kokAnlam": "baba, ata",
+   "karsilik": "atalarınızın"
+  },
+  {
+   "kelime": "قُلِ",
+   "okunus": "kuli",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ذَرْهُمْ",
+   "okunus": "zerhüm",
+   "kok": "وذر",
+   "kokAnlam": "bırakma, terk etme",
+   "karsilik": "onları bırak"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "خَوْضِهِمْ",
+   "okunus": "havdıhim",
+   "kok": "خوض",
+   "kokAnlam": "dalma, bataklığa girme",
+   "karsilik": "daldıkları"
+  },
+  {
+   "kelime": "يَلْعَبُونَ",
+   "okunus": "yel'abûne",
+   "kok": "لعب",
+   "kokAnlam": "oynama",
+   "karsilik": "oynayadursunlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, vahyi tümüyle inkâr edenlerin iddiasını konu alır: 'Allah hiçbir insana bir şey indirmedi.' Bu iddia, Musa'ya indirilen kitap hatırlatılarak çürütülür; çünkü muhataplar o kitabın varlığını zaten kabul etmektedir.",
+  "Devamında, kitabı kâğıt parçalarına bölüp işlerine geleni açıklayıp geri kalanını gizleyenler eleştirilir. Klasik tefsir bu ifadeyi, Ehl-i Kitab'ın kendi kitaplarını seçici biçimde aktarmasına yönelik bir eleştiri olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "22:74",
+   "meal": "Allah'ı hakkıyla takdir edemediler. Şüphesiz Allah, elbette kuvvetlidir, mutlak güç sahibidir.",
+   "baglanti": "6:91'in ilk cümlesiyle neredeyse aynı ifadeyi taşır; Allah'ı gereği gibi tanımamanın farklı bağlamlarda tekrar eden bir eleştiri olduğunu gösterir."
+  },
+  {
+   "ref": "2:53",
+   "meal": "Hani Musa'ya, doğru yolu bulasınız diye kitabı ve furkanı (hak ile bâtılı ayıran ölçüyü) vermiştik.",
+   "baglanti": "6:91'de sözü edilen 'Musa'nın getirdiği kitap' burada doğrudan anılır; ikisi birlikte okunduğunda Tevrat'ın nur ve hidayet işlevi netleşir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş vahyin varlığını inkâr etme ve elde bulunan kutsal metni seçici biçimde kullanma eleştirisidir; bu özel bir dini tartışma bağlamıdır.",
+  "Buradan genel bir ders çıkarılabilir: elimizdeki bilgiyi işimize geleni söyleyip geri kalanını gizleyerek aktarmak dürüst değildir. Bir konuyu başkasına anlatırken bütününü vermek, seçici aktarımdan kaçınmak bu ayetten alınabilecek bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilgiyi eksiksiz aktar",
+   "aciklama": "Bugün birine bir konu anlatırken, işine gelmeyen kısmını gizlemeden bütününü söyle."
+  },
+  {
+   "baslik": "Kaynağı sorgula",
+   "aciklama": "Duyduğun bir bilginin nereden geldiğini bugün bir kez kontrol et, körü körüne tekrarlama."
+  },
+  {
+   "baslik": "Allah'ı büyük bil",
+   "aciklama": "Bugün bir sıkıntı anında Allah'ın gücünü ve bilgisini küçümsemediğini hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuyu birine anlatırken bildiğin bütün gerçeği, eksiksiz ve dürüstçe paylaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=6&verse=91"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/6/91"
+  }
+ ]
+}
