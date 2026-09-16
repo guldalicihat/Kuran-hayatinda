@@ -1,0 +1,236 @@
+{
+ "sure": 9,
+ "ayet": 70,
+ "durum": "taslak",
+ "meal": "Kendilerinden öncekilerin -Nûh, Âd ve Semûd kavimlerinin, İbrahim'in kavminin, Medyen halkının ve altüst olan (Lût kavminin) şehirlerinin- haberi onlara gelmedi mi? Elçileri onlara apaçık delillerle geldi. Allah onlara haksızlık edecek değildi, fakat onlar kendilerine haksızlık ediyorlardı.",
+ "mealNotu": "'Mü'tefikât' kökü (أفك) altüst olmayı, alt üst edilmeyi anlatır ve Lût kavminin şehirlerine işaret eder. 'Yazlimûne' kökü (ظلم) haksızlık, kendine zarar verme anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "olumsuz soru, 'değil mi'",
+   "karsilik": "gelmedi mi"
+  },
+  {
+   "kelime": "يَأْتِهِمْ",
+   "okunus": "ye'tihim",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "onlara gelmedi mi"
+  },
+  {
+   "kelime": "نَبَأُ",
+   "okunus": "nebeü",
+   "kok": "نبأ",
+   "kokAnlam": "haber",
+   "karsilik": "haberi"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi, 'kimseler'",
+   "karsilik": "kimselerin"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat, '-den'",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِهِمْ",
+   "okunus": "kablihim",
+   "kok": "قبل",
+   "kokAnlam": "önce",
+   "karsilik": "kendilerinden önceki"
+  },
+  {
+   "kelime": "قَوْمِ",
+   "okunus": "kavmi",
+   "kok": "قوم",
+   "kokAnlam": "kavim, topluluk",
+   "karsilik": "kavminin"
+  },
+  {
+   "kelime": "نُوحٍ",
+   "okunus": "nûhin",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "Nûh'un"
+  },
+  {
+   "kelime": "وَعَادٍ",
+   "okunus": "ve âdin",
+   "kok": "عود",
+   "kokAnlam": "özel isim/kök",
+   "karsilik": "ve Âd'ın"
+  },
+  {
+   "kelime": "وَثَمُودَ",
+   "okunus": "ve semûde",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "ve Semûd'un"
+  },
+  {
+   "kelime": "وَقَوْمِ",
+   "okunus": "ve kavmi",
+   "kok": "قوم",
+   "kokAnlam": "kavim, topluluk",
+   "karsilik": "ve kavminin"
+  },
+  {
+   "kelime": "إِبْرَٰهِيمَ",
+   "okunus": "ibrâhîme",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İbrahim'in"
+  },
+  {
+   "kelime": "وَأَصْحَٰبِ",
+   "okunus": "ve ashâbi",
+   "kok": "صحب",
+   "kokAnlam": "arkadaşlık, halk",
+   "karsilik": "ve halkının"
+  },
+  {
+   "kelime": "مَدْيَنَ",
+   "okunus": "medyene",
+   "kok": "مدن",
+   "kokAnlam": "özel isim/kök",
+   "karsilik": "Medyen'in"
+  },
+  {
+   "kelime": "وَٱلْمُؤْتَفِكَٰتِ",
+   "okunus": "vel mü'tefikâti",
+   "kok": "أفك",
+   "kokAnlam": "altüst olma",
+   "karsilik": "ve altüst olan şehirlerin"
+  },
+  {
+   "kelime": "أَتَتْهُمْ",
+   "okunus": "etethüm",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "onlara geldi"
+  },
+  {
+   "kelime": "رُسُلُهُم",
+   "okunus": "rusülühüm",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi",
+   "karsilik": "elçileri"
+  },
+  {
+   "kelime": "بِٱلْبَيِّنَٰتِ",
+   "okunus": "bil beyyinâti",
+   "kok": "بين",
+   "kokAnlam": "açıklık, açık delil",
+   "karsilik": "apaçık delillerle"
+  },
+  {
+   "kelime": "فَمَا",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk, 'değildi'",
+   "karsilik": "değildi"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لِيَظْلِمَهُمْ",
+   "okunus": "liyazlimehüm",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık etme",
+   "karsilik": "onlara haksızlık edecek"
+  },
+  {
+   "kelime": "وَلَٰكِن",
+   "okunus": "ve lâkin",
+   "kok": "—",
+   "kokAnlam": "düzeltme, 'fakat'",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "كَانُوٓا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idiler"
+  },
+  {
+   "kelime": "أَنفُسَهُمْ",
+   "okunus": "enfüsehüm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendisi",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "يَظْلِمُونَ",
+   "okunus": "yazlimûne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık etme",
+   "karsilik": "haksızlık ediyorlardı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayette özel isim verilmeden anılan 'sizden öncekiler'i açıkça sayar: Nûh, Âd ve Semûd kavimleri, İbrahim'in kavmi, Medyen halkı ve Lût kavminin altüst olan şehirleri. Bu topluluklara elçiler apaçık delillerle geldi, fakat onlar yalanladılar.",
+  "Klasik tefsir bu ayeti, geçmiş milletlerin kıssalarından çıkarılan ortak bir sonucu vurgulayarak açıklar: helak, Allah'ın keyfi bir haksızlığı değil, o toplulukların kendi tercihlerinin bir sonucudur. 'Allah onlara haksızlık edecek değildi, fakat onlar kendilerine haksızlık ediyorlardı' ifadesi, sorumluluğun insanın kendi eylemlerinde olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "14:9",
+   "meal": "Sizden öncekilerin -Nûh, Âd ve Semûd kavimlerinin ve onlardan sonra gelip Allah'tan başka kimsenin bilmediği toplulukların- haberi size gelmedi mi? Elçileri onlara apaçık delillerle geldi, fakat onlar ellerini ağızlarına götürüp inkâr ettiklerini söylediler.",
+   "baglanti": "9:70'teki 'Nûh, Âd, Semûd' sıralamasını ve 'apaçık delillerle geldi' ifadesini neredeyse aynı kalıpla tekrarlayarak aynı tarihî dersi pekiştirir."
+  },
+  {
+   "ref": "11:101",
+   "meal": "Biz onlara haksızlık etmedik, fakat onlar kendilerine haksızlık ettiler; Rabbinin emri geldiğinde, Allah'ı bırakıp taptıkları ilahları kendilerine hiçbir fayda sağlamadı.",
+   "baglanti": "9:70'in son cümlesiyle -'Allah haksızlık etmedi, onlar kendilerine haksızlık ettiler'- neredeyse birebir aynı ifadeyi taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, tarihte yaşamış belirli kavimlerin elçileri yalanlamasının sonucudur; ayet somut bir tarih anlatımıdır ve güncel bir olayı tarif etmez.",
+  "Ayetten çıkarılabilecek evrensel ders, sonuçların çoğu zaman dışarıdan dayatılan bir cezadan değil, kişinin kendi tercihlerinden doğduğudur; bugün de bir kişi karşılaştığı bir sıkıntıyı değerlendirirken önce kendi seçimlerinin payını sorabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geçmiş kıssalardan ders çıkar",
+   "aciklama": "Bugün bu kavimlerden birinin kıssasını kısaca okuyup ortak dersini not al."
+  },
+  {
+   "baslik": "Sorumluluğu kendinde ara",
+   "aciklama": "Yaşadığın bir zorlukta, önce kendi tercihinin payını dürüstçe değerlendir."
+  },
+  {
+   "baslik": "Uyarıyı ciddiye al",
+   "aciklama": "Hayatındaki bir uyarı işaretini (bir söz, bir öğüt) görmezden gelmeden dikkate al."
+  }
+ ],
+ "bugununAdimi": "Bugün geçmiş kavimlerden birinin kıssasını okuyup kendi hayatın için bir ders çıkar.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=70"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/70"
+  }
+ ]
+}

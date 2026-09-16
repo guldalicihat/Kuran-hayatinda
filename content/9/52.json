@@ -1,0 +1,208 @@
+{
+ "sure": 9,
+ "ayet": 52,
+ "durum": "taslak",
+ "meal": "De ki: Bizim için iki güzellikten (şehadet ya da zaferden) başkasını mı bekliyorsunuz? Biz de sizin için, Allah'ın kendi katından veya bizim elimizle size bir azap dokundurmasını bekliyoruz. Öyleyse bekleyin, biz de sizinle birlikte bekleyenleriz.",
+ "mealNotu": "'Rabesa' kökü (ربص) beklemek, gözetlemektir; 'husneyeyn' ise 'iki güzel şeyden biri' -şehadet veya zafer- anlamına gelir. Ayet, müminlerin her sonucu kendileri için kazanç saydığı bir güven ifadesidir.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "(soru) mi",
+   "karsilik": "mi"
+  },
+  {
+   "kelime": "تَرَبَّصُونَ",
+   "okunus": "terabbesûne",
+   "kok": "ربص",
+   "kokAnlam": "bekleme, gözetleme",
+   "karsilik": "bekliyorsunuz"
+  },
+  {
+   "kelime": "بِنَآ",
+   "okunus": "binâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) bizim için",
+   "karsilik": "bizim için"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) -den başkasını",
+   "karsilik": "-den başkasını"
+  },
+  {
+   "kelime": "إِحْدَى",
+   "okunus": "ihdâ",
+   "kok": "أحد",
+   "kokAnlam": "biri",
+   "karsilik": "birini"
+  },
+  {
+   "kelime": "ٱلْحُسْنَيَيْنِ",
+   "okunus": "elhusneyeyni",
+   "kok": "حسن",
+   "kokAnlam": "iki güzellik",
+   "karsilik": "iki güzelden"
+  },
+  {
+   "kelime": "وَنَحْنُ",
+   "okunus": "ve nahnü",
+   "kok": "—",
+   "kokAnlam": "(zamir) biz de",
+   "karsilik": "biz de"
+  },
+  {
+   "kelime": "نَتَرَبَّصُ",
+   "okunus": "neterabbesu",
+   "kok": "ربص",
+   "kokAnlam": "bekleme, gözetleme",
+   "karsilik": "bekliyoruz"
+  },
+  {
+   "kelime": "بِكُمْ",
+   "okunus": "biküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesini",
+   "karsilik": "-mesini"
+  },
+  {
+   "kelime": "يُصِيبَكُمُ",
+   "okunus": "yüsîbekümü",
+   "kok": "صوب",
+   "kokAnlam": "isabet etme, dokunma",
+   "karsilik": "size dokundurmasını"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "بِعَذَابٍ",
+   "okunus": "biazâbin",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "bir azapla"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -dan",
+   "karsilik": "-dan"
+  },
+  {
+   "kelime": "عِندِهِۦٓ",
+   "okunus": "indihî",
+   "kok": "عند",
+   "kokAnlam": "kat, yan",
+   "karsilik": "kendi katından"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "بِأَيْدِينَا",
+   "okunus": "bieydînâ",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "bizim elimizle"
+  },
+  {
+   "kelime": "فَتَرَبَّصُوٓا۟",
+   "okunus": "feterabbesû",
+   "kok": "ربص",
+   "kokAnlam": "bekleme",
+   "karsilik": "öyleyse bekleyin"
+  },
+  {
+   "kelime": "إِنَّا",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz biz",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "مَعَكُم",
+   "okunus": "meaküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizinle beraber",
+   "karsilik": "sizinle beraber"
+  },
+  {
+   "kelime": "مُّتَرَبِّصُونَ",
+   "okunus": "müterabbisûne",
+   "kok": "ربص",
+   "kokAnlam": "bekleyenler",
+   "karsilik": "bekleyenleriz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, geri kalanların Müslümanların başına bir felaket gelmesini beklediği tarihî tutumuna, Peygamber'in ağzından verilen cevabı aktarır: müminler için iki sonuçtan biri (şehadet ya da zafer) zaten güzeldir, bu yüzden bekleyenlerin beklentisi boşunadır.",
+  "Klasik tefsir 'iki güzellik'i, savaşta ya galip gelip zafer kazanmak ya da şehit düşüp Allah katında yüksek bir makama ulaşmak olarak açıklar; bu, Tebük ve benzeri seferlere çıkan müminlerin risk algısını tersine çeviren, sonucun her halükârda hayır olduğunu gösteren bir bakış açısıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:169",
+   "meal": "Allah yolunda öldürülenleri sakın ölü sanma; bilakis onlar diridirler, Rableri katında rızıklanmaktadırlar.",
+   "baglanti": "9:52'deki 'iki güzellikten biri' olarak anılan şehadetin, ölüm değil Allah katında diri kalmak olduğunu açıklayarak bu güveni pekiştirir."
+  },
+  {
+   "ref": "4:74",
+   "meal": "Dünya hayatını ahiret karşılığında satanlar Allah yolunda savaşsınlar. Kim Allah yolunda savaşır da öldürülür veya galip gelirse, ona büyük bir ecir vereceğiz.",
+   "baglanti": "9:52'deki 'öldürülsün ya da galip gelsin, ikisi de güzeldir' fikrini doğrudan teyit eden bir vaadle aynı temayı işler."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, savaş meydanında ölüm ya da zaferin ikisinin de mümin için hayırlı sayıldığı, tehlike karşısındaki tarihî bir güven ifadesidir; günlük hayattaki sıradan risklerle bire bir aynı düzeyde değildir.",
+  "Ayetten çıkarılabilecek genel ders, doğru bir amaç uğruna atılan adımın sonucu ne olursa olsun bir kayıp sayılmayacağı güvenidir; bugün önemli ama riskli gördüğün bir adımı, sonucunu iyi bir şekilde yorumlayarak atabilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sonucu ikili değerlendir",
+   "aciklama": "Bugün önemli bir adım atarken, hem başarılı hem başarısız olma ihtimalinde de bir kazanım görmeye çalış."
+  },
+  {
+   "baslik": "Kötü beklentiye kapılma",
+   "aciklama": "Başkalarının senin başarısızlığını beklemesi seni yıldırmasın; kendi yolunda kararlılıkla ilerle."
+  },
+  {
+   "baslik": "Amacını netleştir",
+   "aciklama": "Bugün attığın bir adımın hangi doğru amaca hizmet ettiğini kendine hatırlat."
+  }
+ ],
+ "bugununAdimi": "Bugün riskli ama doğru bulduğun bir adımı, sonucunu güvenle karşılayarak at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=52"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/52"
+  }
+ ]
+}

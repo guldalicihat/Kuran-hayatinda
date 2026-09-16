@@ -1,0 +1,208 @@
+{
+ "sure": 9,
+ "ayet": 60,
+ "durum": "taslak",
+ "meal": "Sadakalar ancak fakirler, miskinler, bu işte çalışan görevliler, kalpleri ısındırılacak olanlar, köle ve esirleri özgürlüğe kavuşturma, borçlular, Allah yolunda olanlar ve yolda kalmışlar içindir; bu, Allah'tan bir farzdır. Allah hakkıyla bilendir, hüküm ve hikmet sahibidir.",
+ "mealNotu": "'Mesâkîn' kökü (سكن) hareketsiz kalan, ihtiyaç içinde sıkışıp kalan anlamındadır; 'müellefetü kulûbühüm' ifadesi (ألف) kalpleri İslam'a ısındırılacak kişileri, 'rikâb' (رقب) köle/esir azadını, 'garimîn' (غرم) borç yükü altındakileri anlatır. Ayet, zekâtın kimlere verileceğini sekiz sınıf halinde sayar.",
+ "kokler": [
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid, sınırlama) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ٱلصَّدَقَٰتُ",
+   "okunus": "essadekâtü",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, sadaka",
+   "karsilik": "sadakalar"
+  },
+  {
+   "kelime": "لِلْفُقَرَآءِ",
+   "okunus": "lilfükarâi",
+   "kok": "فقر",
+   "kokAnlam": "yoksulluk, fakirlik",
+   "karsilik": "fakirler içindir"
+  },
+  {
+   "kelime": "وَٱلْمَسَٰكِينِ",
+   "okunus": "vel mesâkîni",
+   "kok": "سكن",
+   "kokAnlam": "hareketsizlik, yoksulluk",
+   "karsilik": "ve miskinler"
+  },
+  {
+   "kelime": "وَٱلْعَٰمِلِينَ",
+   "okunus": "vel âmilîne",
+   "kok": "عمل",
+   "kokAnlam": "çalışma, iş yapma",
+   "karsilik": "ve çalışan görevliler"
+  },
+  {
+   "kelime": "عَلَيْهَا",
+   "okunus": "aleyhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) onun üzerinde",
+   "karsilik": "onun üzerinde"
+  },
+  {
+   "kelime": "وَٱلْمُؤَلَّفَةِ",
+   "okunus": "vel müellefeti",
+   "kok": "ألف",
+   "kokAnlam": "ısındırma, alıştırma",
+   "karsilik": "ve ısındırılacak olan"
+  },
+  {
+   "kelime": "قُلُوبُهُمْ",
+   "okunus": "kulûbühüm",
+   "kok": "قلب",
+   "kokAnlam": "kalp",
+   "karsilik": "kalpleri"
+  },
+  {
+   "kelime": "وَفِى",
+   "okunus": "ve fî",
+   "kok": "—",
+   "kokAnlam": "(edat) ve içinde",
+   "karsilik": "ve içinde"
+  },
+  {
+   "kelime": "ٱلرِّقَابِ",
+   "okunus": "errikâbi",
+   "kok": "رقب",
+   "kokAnlam": "boyun, köle azadı",
+   "karsilik": "kölelerin"
+  },
+  {
+   "kelime": "وَٱلْغَٰرِمِينَ",
+   "okunus": "vel gârimîne",
+   "kok": "غرم",
+   "kokAnlam": "borçlanma",
+   "karsilik": "ve borçlular"
+  },
+  {
+   "kelime": "وَفِى",
+   "okunus": "ve fî",
+   "kok": "—",
+   "kokAnlam": "(edat) ve içinde",
+   "karsilik": "ve içinde"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَٱبْنِ",
+   "okunus": "vebni",
+   "kok": "بني",
+   "kokAnlam": "oğul, evlat",
+   "karsilik": "ve oğlu"
+  },
+  {
+   "kelime": "ٱلسَّبِيلِ",
+   "okunus": "essebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolun"
+  },
+  {
+   "kelime": "فَرِيضَةً",
+   "okunus": "ferîdaten",
+   "kok": "فرض",
+   "kokAnlam": "farz kılma",
+   "karsilik": "bir farz olarak"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -dan",
+   "karsilik": "-dan"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilendir"
+  },
+  {
+   "kelime": "حَكِيمٌ",
+   "okunus": "hakîmün",
+   "kok": "حكم",
+   "kokAnlam": "hüküm, hikmet",
+   "karsilik": "hikmet sahibidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerde eleştiri konusu olan sadaka (zekât) dağıtımının aslında kişisel bir tercih değil, Allah'ın belirlediği sekiz sınıfa dayalı ilahî bir düzenleme olduğunu açıklar; bu, 9:58'deki keyfi itirazlara verilen dolaylı bir cevaptır.",
+  "Klasik tefsir bu sekiz sınıfı -fakir, miskin, zekât memuru, kalbi ısındırılacaklar, köle azadı, borçlular, Allah yolunda cihad/hizmet ve yolda kalmışlar- İslam'ın sosyal dayanışma ve adalet sistemi olarak açıklar; bu dağıtım Allah'tan bir farz olduğu için insan tercihine bırakılmamıştır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:177",
+   "meal": "...malını sevmesine rağmen yakınlara, yetimlere, yoksullara, yolda kalmışa, isteyenlere ve köle azadına verenler... işte bunlar doğru olanlardır ve takva sahipleridir.",
+   "baglanti": "9:60'taki sadaka sınıflarının -yoksul, yolcu, köle azadı- birçoğunu 'birr' (iyilik) tanımı içinde tekrarlayarak, zekâtın gerçek takvanın bir göstergesi olduğunu teyit eder."
+  },
+  {
+   "ref": "2:273",
+   "meal": "Sadakalar, kendini Allah yoluna adamış, yeryüzünde dolaşamayan fakirler içindir; iffetlerinden dolayı bilmeyen onları zengin sanır.",
+   "baglanti": "9:60'ta sayılan 'fakirler' sınıfını, kimsenin fark etmediği, isteyip dilenmeyen sabırlı yoksullar örneğiyle somutlaştırır."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, zekâtın kimlere verileceğini belirleyen fıkhi bir hükümdür; sekiz sınıf, İslam'ın ihtiyaç sahiplerini gözetme sistemini somut olarak tanımlar.",
+  "Ayetten çıkarılabilecek doğal ders, zekât ve sadaka verirken kime, neden verdiğini bilinçli seçmenin önemidir; bugün çevrendeki ihtiyaç sahiplerini -fakir, borçlu, yolda kalmış- bu sınıflandırmayla tanıyıp gözetebilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zekâtını bilinçli hesapla",
+   "aciklama": "Bugün zekât veya sadaka verirken, bu sekiz sınıftan hangisine ulaştığını bilinçli olarak düşün."
+  },
+  {
+   "baslik": "Borçlu bir tanıdığını gözet",
+   "aciklama": "Çevrende borç yükü altında olan birini fark edip, elinden geldiğince ona destek olmayı düşün."
+  },
+  {
+   "baslik": "İffetli yoksulu fark et",
+   "aciklama": "Dilenmeyen ama ihtiyaç içinde olan, belli etmeyen birini bugün fark etmeye çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün çevrendeki bir ihtiyaç sahibine -sözle sormadan- yardım ulaştırmanın bir yolunu bul.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=60"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/60"
+  }
+ ]
+}

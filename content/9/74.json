@@ -1,0 +1,376 @@
+{
+ "sure": 9,
+ "ayet": 74,
+ "durum": "taslak",
+ "meal": "Söylemediklerine Allah'a yemin ediyorlar; oysa andolsun ki küfür sözünü söylediler ve müslüman oluşlarından sonra inkâr ettiler; ulaşamadıkları bir şeye de niyetlendiler. Oysa Allah'ın ve Resûlünün kendi lütfundan onları zengin kılmış olmasından başka hoşnutsuzluk gösterecek bir şeyleri yoktu. Eğer tövbe ederlerse bu onlar için hayırlı olur; yok eğer yüz çevirirlerse, Allah onlara dünyada ve ahirette elem verici bir azapla azap eder. Onların yeryüzünde ne bir dostu ne de bir yardımcısı vardır.",
+ "mealNotu": "'Hemmû' kökü (همم) bir şeye niyetlenmeyi, teşebbüs etmeyi anlatır; ayet burada isim ve ayrıntı vermeden bir girişimden söz eder. Klasik tefsir bu ifadeyi Peygamber'e yönelik bir suikast girişimine bağlar, ancak ayetin kendisi olayı ayrıntılandırmaz.",
+ "kokler": [
+  {
+   "kelime": "يَحْلِفُونَ",
+   "okunus": "yahlifûne",
+   "kok": "حلف",
+   "kokAnlam": "yemin etme",
+   "karsilik": "yemin ediyorlar"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk, '-medikleri'",
+   "karsilik": "-medikleri şeye"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "söylemedikleri"
+  },
+  {
+   "kelime": "وَلَقَدْ",
+   "okunus": "ve lekad",
+   "kok": "—",
+   "kokAnlam": "kesinlik, 'andolsun'",
+   "karsilik": "andolsun ki"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "söylediler"
+  },
+  {
+   "kelime": "كَلِمَةَ",
+   "okunus": "kelimete",
+   "kok": "كلم",
+   "kokAnlam": "söz, kelime",
+   "karsilik": "sözünü"
+  },
+  {
+   "kelime": "ٱلْكُفْرِ",
+   "okunus": "elküfri",
+   "kok": "كفر",
+   "kokAnlam": "gerçeği örtme, inkâr",
+   "karsilik": "küfür"
+  },
+  {
+   "kelime": "وَكَفَرُوا۟",
+   "okunus": "ve keferû",
+   "kok": "كفر",
+   "kokAnlam": "gerçeği örtme, inkâr",
+   "karsilik": "ve inkâr ettiler"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "إِسْلَٰمِهِمْ",
+   "okunus": "islâmihim",
+   "kok": "سلم",
+   "kokAnlam": "teslimiyet, İslam",
+   "karsilik": "müslüman oluşlarından"
+  },
+  {
+   "kelime": "وَهَمُّوا۟",
+   "okunus": "ve hemmû",
+   "kok": "همم",
+   "kokAnlam": "niyetlenme, teşebbüs etme",
+   "karsilik": "ve niyetlendiler"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "ilgi, 'şeye'",
+   "karsilik": "bir şeye"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk, '-medikleri'",
+   "karsilik": "-medikleri"
+  },
+  {
+   "kelime": "يَنَالُوا۟",
+   "okunus": "yenâlû",
+   "kok": "نيل",
+   "kokAnlam": "ulaşma, erişme",
+   "karsilik": "ulaşamadıkları"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk, '-medi'",
+   "karsilik": "ve yoktu"
+  },
+  {
+   "kelime": "نَقَمُوٓا۟",
+   "okunus": "nekamû",
+   "kok": "نقم",
+   "kokAnlam": "hoşnutsuzluk gösterme, öç alma",
+   "karsilik": "hoşnutsuzluk gösterecekleri"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna, '-den başka'",
+   "karsilik": "-den başka"
+  },
+  {
+   "kelime": "أَنْ",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "bağlaç, '-mesi'",
+   "karsilik": "-mesinden"
+  },
+  {
+   "kelime": "أَغْنَىٰهُمُ",
+   "okunus": "ağnâhümü",
+   "kok": "غني",
+   "kokAnlam": "zenginlik, ihtiyaçsızlık",
+   "karsilik": "zengin kılmış olması"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَرَسُولُهُۥ",
+   "okunus": "ve rasûlühû",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi",
+   "karsilik": "ve Resûlünün"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat, '-den'",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "فَضْلِهِۦ",
+   "okunus": "fadlihî",
+   "kok": "فضل",
+   "kokAnlam": "lütuf, üstünlük",
+   "karsilik": "kendi lütfundan"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "şart, 'eğer'",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يَتُوبُوا۟",
+   "okunus": "yetûbû",
+   "kok": "توب",
+   "kokAnlam": "tövbe etme, geri dönme",
+   "karsilik": "tövbe ederlerse"
+  },
+  {
+   "kelime": "يَكُ",
+   "okunus": "yekü",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olur"
+  },
+  {
+   "kelime": "خَيْرًا",
+   "okunus": "hayran",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "hayırlı"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "zamir, 'onlar için'",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "şart, 've eğer'",
+   "karsilik": "yok eğer"
+  },
+  {
+   "kelime": "يَتَوَلَّوْا۟",
+   "okunus": "yetevellev",
+   "kok": "ولي",
+   "kokAnlam": "yüz çevirme",
+   "karsilik": "yüz çevirirlerse"
+  },
+  {
+   "kelime": "يُعَذِّبْهُمُ",
+   "okunus": "yüazzibhümü",
+   "kok": "عذب",
+   "kokAnlam": "azap etme",
+   "karsilik": "azap eder"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَذَابًا",
+   "okunus": "azâben",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "bir azapla"
+  },
+  {
+   "kelime": "أَلِيمًا",
+   "okunus": "elîmen",
+   "kok": "ألم",
+   "kokAnlam": "acı, elem",
+   "karsilik": "elem verici"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat, 'içinde'",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلدُّنْيَا",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık, dünya",
+   "karsilik": "dünyada"
+  },
+  {
+   "kelime": "وَٱلْءَاخِرَةِ",
+   "okunus": "vel âhırati",
+   "kok": "أخر",
+   "kokAnlam": "son, sonraki",
+   "karsilik": "ve ahirette"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk, 'yoktur'",
+   "karsilik": "ve yoktur"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "zamir, 'onlar için'",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat, 'içinde'",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yeryüzü, toprak",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat, '-den'",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "وَلِىٍّ",
+   "okunus": "veliyyin",
+   "kok": "ولي",
+   "kokAnlam": "dost, yakın",
+   "karsilik": "bir dost"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk, 've yoktur'",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "نَصِيرٍ",
+   "okunus": "nesîrin",
+   "kok": "نصر",
+   "kokAnlam": "yardım, destek",
+   "karsilik": "bir yardımcı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Tebük dönüşünde bazı kişilerin, ağır bir söz söylemediklerine dair Allah'a yemin ettiklerini, oysa gerçekte inkâr sözü söylediklerini ve bir girişimde bulunduklarını -ayrıntısını vermeden- anlatır. Klasik tefsir bu 'ulaşamadıkları şey'i Peygamber'e yönelik bir girişimle ilişkilendirir, ancak Kur'an metni kişi veya olay ismi vermez.",
+  "Ayetin asıl vurgusu, bu kişilerin hoşnutsuzluk gösterecek hiçbir haklı gerekçeleri olmadığıdır -çünkü Allah ve Resûlü onları kendi lütfundan zenginleştirmişti. Ayet, tövbe kapısını açık tutarak biter: tövbe edilirse bu hayırlı olur, yüz çevrilirse dünya ve ahirette acı bir azap söz konusu olur. Bu, kesin bir tarihî olaya işaret eden fakat ayrıntısı Kur'an'da açıklanmayan bir uyarıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "63:2",
+   "meal": "Yeminlerini kalkan edindiler de Allah yolundan alıkoydular; gerçekten yaptıkları şey ne kötüdür.",
+   "baglanti": "9:74'teki 'yemin ediyorlar' temasını aynı doğrultuda genişleterek, yeminin bir gerçeği örtmek için kullanılmasının münafıklığa özgü bir tutum olduğunu gösterir."
+  },
+  {
+   "ref": "66:8",
+   "meal": "Ey iman edenler! Allah'a içten bir tövbeyle (nasûh tövbesiyle) dönün; umulur ki Rabbiniz sizin kötülüklerinizi örter...",
+   "baglanti": "9:74'teki 'tövbe ederlerse bu onlar için hayırlı olur' vaadini, içten bir tövbenin sonucu ne olacağını açıklayarak tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, Medine döneminde belirli kişilerin yalan yere yemin etmesi ve isim verilmeyen bir girişimidir; ayrıntısı belirsiz bırakıldığı için bugün bu olayı spekülasyonla doldurmak yerine, ayetin kendi çerçevesiyle sınırlı kalmak gerekir.",
+  "Ayetten çıkarılabilecek evrensel ders, yalan yere yemin etmenin ağırlığı ve tövbe kapısının her zaman açık olduğudur; kişi bir yanlışın farkına vardığında, yüz çevirmek yerine geri dönüp düzeltmeyi seçebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yeminini ciddiye al",
+   "aciklama": "Bugün bir konuda kesin konuşmadan önce, söylediğinin doğruluğundan emin ol."
+  },
+  {
+   "baslik": "Tövbe kapısını hatırla",
+   "aciklama": "Fark ettiğin bir yanlıştan yüz çevirmek yerine, bugün içten bir dönüşle düzeltmeye çalış."
+  },
+  {
+   "baslik": "Nimeti gerekçe değil, şükür vesilesi yap",
+   "aciklama": "Sahip olduğun bir imkânı hoşnutsuzluk değil, şükür sebebi olarak gör."
+  }
+ ],
+ "bugununAdimi": "Bugün fark ettiğin bir yanlıştan yüz çevirmek yerine içten bir dönüşle onu düzelt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=9&verse=74"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/9/74"
+  }
+ ]
+}
