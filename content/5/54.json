@@ -1,0 +1,313 @@
+{
+ "sure": 5,
+ "ayet": 54,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! İçinizden kim dininden dönerse, [bilsin ki] Allah yakında, kendisinin sevdiği ve kendisini seven, müminlere karşı alçak gönüllü, kâfirlere karşı onurlu, Allah yolunda cihad eden ve hiçbir kınayıcının kınamasından korkmayan bir topluluk getirecektir. Bu, Allah'ın bir lütfudur; onu dilediğine verir. Allah, lütfu geniş olandır, hakkıyla bilendir.",
+ "mealNotu": "'Ezille' kökü ذلل olumsuz değil, alçak gönüllülüğü/yumuşaklığı anlatır. 'Levmete lâimin' ifadesi, kınayanın kınamasını vurgulayan bir pekiştirmedir.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler ki",
+   "karsilik": "kimseler ki"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman etme",
+   "karsilik": "iman ettiler"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(şart) kim ki",
+   "karsilik": "kim ki"
+  },
+  {
+   "kelime": "يَرْتَدَّ",
+   "okunus": "yertedde",
+   "kok": "ردد",
+   "kokAnlam": "geri dönme, dininden dönme",
+   "karsilik": "dininden dönerse"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) içinizden",
+   "karsilik": "içinizden"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دِينِهِۦ",
+   "okunus": "dînihî",
+   "kok": "دين",
+   "kokAnlam": "din, borç, ceza",
+   "karsilik": "kendi dininden"
+  },
+  {
+   "kelime": "فَسَوْفَ",
+   "okunus": "fesevfe",
+   "kok": "—",
+   "kokAnlam": "(gelecek) yakında",
+   "karsilik": "yakında"
+  },
+  {
+   "kelime": "يَأْتِى",
+   "okunus": "ye'tî",
+   "kok": "أتي",
+   "kokAnlam": "gelme, getirme",
+   "karsilik": "getirecektir"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِقَوْمٍ",
+   "okunus": "bikavmin",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "bir topluluk"
+  },
+  {
+   "kelime": "يُحِبُّهُمْ",
+   "okunus": "yühibbühüm",
+   "kok": "حبب",
+   "kokAnlam": "sevme, muhabbet",
+   "karsilik": "onları sever"
+  },
+  {
+   "kelime": "وَيُحِبُّونَهُۥٓ",
+   "okunus": "ve yühibbûnehû",
+   "kok": "حبب",
+   "kokAnlam": "sevme, muhabbet",
+   "karsilik": "ve onlar da O'nu sever"
+  },
+  {
+   "kelime": "أَذِلَّةٍ",
+   "okunus": "ezilletin",
+   "kok": "ذلل",
+   "kokAnlam": "alçak gönüllülük, yumuşaklık",
+   "karsilik": "alçak gönüllü"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e karşı",
+   "karsilik": "karşı"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنِينَ",
+   "okunus": "elmü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; iman eden",
+   "karsilik": "müminlere"
+  },
+  {
+   "kelime": "أَعِزَّةٍ",
+   "okunus": "eizzetin",
+   "kok": "عزز",
+   "kokAnlam": "üstünlük, onur, izzet",
+   "karsilik": "onurlu"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e karşı",
+   "karsilik": "karşı"
+  },
+  {
+   "kelime": "ٱلْكَٰفِرِينَ",
+   "okunus": "elkâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "kâfirlere"
+  },
+  {
+   "kelime": "يُجَٰهِدُونَ",
+   "okunus": "yücâhidûne",
+   "kok": "جهد",
+   "kokAnlam": "çaba, gayret, cihad",
+   "karsilik": "cihad ederler"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -maz",
+   "karsilik": "ve -maz"
+  },
+  {
+   "kelime": "يَخَافُونَ",
+   "okunus": "yehâfûne",
+   "kok": "خوف",
+   "kokAnlam": "korkma",
+   "karsilik": "korkmazlar"
+  },
+  {
+   "kelime": "لَوْمَةَ",
+   "okunus": "levmete",
+   "kok": "لوم",
+   "kokAnlam": "kınama",
+   "karsilik": "kınamasından"
+  },
+  {
+   "kelime": "لَآئِمٍ",
+   "okunus": "lâimin",
+   "kok": "لوم",
+   "kokAnlam": "kınama",
+   "karsilik": "hiçbir kınayıcının"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "فَضْلُ",
+   "okunus": "fadlü",
+   "kok": "فضل",
+   "kokAnlam": "üstünlük, lütuf",
+   "karsilik": "lütfudur"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "يُؤْتِيهِ",
+   "okunus": "yü'tîhi",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "onu verir"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kime",
+   "karsilik": "dilediğine"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilediği"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَٰسِعٌ",
+   "okunus": "vâsiun",
+   "kok": "وسع",
+   "kokAnlam": "genişlik, kapsayıcılık",
+   "karsilik": "lütfu geniş olandır"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "hakkıyla bilendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, dinden dönme (irtidat) durumunu ele alır ve Allah'ın, kendisinin sevdiği ve kendisini seven yeni bir topluluk getireceğini bildirir. Bu topluluğun nitelikleri sayılır: müminlere karşı alçak gönüllü (ذلل kökü), kâfirlere karşı onurlu (عزز kökü), Allah yolunda cihad eden ve kınamadan korkmayan.",
+  "Ayet, bu nitelikleri Allah'ın bir lütfu olarak tanımlar; bu lütuf dilediğine verilir. Klasik tefsir, bu ayeti, topluluğun bağlılığının kişilere değil ilkeye dayandığını, tek tek bireylerin ayrılması durumunda dahi davanın sahipsiz kalmayacağını anlatan bir güvence olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "47:25",
+   "meal": "Kendilerine hidayet apaçık belli olduktan sonra sırtlarını dönüp gerisin geri dönenlere gelince, şeytan onlara [bu davranışı] süslü göstermiş ve onları uzun emellere düşürmüştür.",
+   "baglanti": "İrtidat (dinden dönme) temasını paylaşır; bu davranışın arkasındaki aldanmayı anlatarak 5:54'teki uyarıyı tamamlar."
+  },
+  {
+   "ref": "3:86",
+   "meal": "İman ettikten, Resul'ün hak olduğuna şahitlik ettikten ve kendilerine apaçık deliller geldikten sonra inkâr eden bir topluluğu Allah nasıl doğru yola eriştirsin? Allah, zalimler topluluğunu doğru yola iletmez.",
+   "baglanti": "İmandan sonra inkâra dönmenin ağırlığını vurgulayarak 5:54'teki irtidat uyarısının ciddiyetini destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dinî bağlılık ve topluluk ile ilgilidir; bu özel bir inanç meselesidir.",
+  "Genel ders, bir değere veya ilkeye bağlılığın, başkalarının eleştirisinden korkarak değil içten bir sevgiyle sürdürülmesidir. Kınanma korkusuyla doğru bildiğinden vazgeçmemek, bu ayetteki 'kınayanın kınamasından korkmama' ilkesiyle örtüşür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kınamadan korkma",
+   "aciklama": "Bugün doğru bildiğin bir şeyi, eleştirilme korkusuyla gizleme."
+  },
+  {
+   "baslik": "Alçak gönüllü ve onurlu ol",
+   "aciklama": "Yakınlarına karşı yumuşak, ilkene karşı çıkanlara karşı ise net ve kararlı davran."
+  },
+  {
+   "baslik": "İçten bağlılık göster",
+   "aciklama": "Bir değere bağlılığını bugün gösteriş için değil, içten bir tercihle yaşa."
+  }
+ ],
+ "bugununAdimi": "Bugün, eleştirilme korkusu olmadan doğru bildiğin bir şeyi söyle veya yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=54"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/54"
+  }
+ ]
+}

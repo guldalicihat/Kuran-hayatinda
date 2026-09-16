@@ -1,0 +1,411 @@
+{
+ "sure": 5,
+ "ayet": 48,
+ "durum": "taslak",
+ "meal": "Sana da, önündeki Kitab'ı tasdik edici ve onu koruyup gözetici olarak Kitab'ı hak ile indirdik. Öyleyse aralarında Allah'ın indirdiğiyle hükmet; sana gelen haktan ayrılıp onların arzularına uyma. Her biriniz için bir şeriat (yol) ve bir yöntem (açık yol) kıldık. Allah dileseydi sizi tek bir ümmet yapardı; fakat size verdiği şeylerde sizi denemek istedi. Öyleyse hayırlı işlerde yarışın; hepinizin dönüşü Allah'adır; ayrılığa düştüğünüz şeyleri size haber verecektir.",
+ "mealNotu": "'Müheymin' kökü همن koruyup gözetme anlamı taşır. 'Şir'a' ve 'minhâc' kökleri (شرع, نهج) birbirine yakın 'yol' anlamları taşır; ayrı kelimeler oldukları için 'şeriat' ve 'yöntem' olarak ayrı çevrilmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَأَنزَلْنَآ",
+   "okunus": "ve enzelnâ",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdik"
+  },
+  {
+   "kelime": "إِلَيْكَ",
+   "okunus": "ileyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "Kitab'ı"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, hak",
+   "karsilik": "hak ile"
+  },
+  {
+   "kelime": "مُصَدِّقًا",
+   "okunus": "müsaddikan",
+   "kok": "صدق",
+   "kokAnlam": "doğrulama, tasdik etme",
+   "karsilik": "tasdik edici olarak"
+  },
+  {
+   "kelime": "لِّمَا",
+   "okunus": "limâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olana",
+   "karsilik": "olana"
+  },
+  {
+   "kelime": "بَيْنَ",
+   "okunus": "beyne",
+   "kok": "بين",
+   "kokAnlam": "arasında, ön",
+   "karsilik": "önünde bulunan"
+  },
+  {
+   "kelime": "يَدَيْهِ",
+   "okunus": "yedeyhi",
+   "kok": "يدي",
+   "kokAnlam": "el; önünde olan",
+   "karsilik": "kendinden önceki"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "Kitap"
+  },
+  {
+   "kelime": "وَمُهَيْمِنًا",
+   "okunus": "ve müheyminen",
+   "kok": "همن",
+   "kokAnlam": "koruma, gözetme, şahit olma",
+   "karsilik": "ve gözetici olarak"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onun üzerine",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "فَٱحْكُم",
+   "okunus": "fehküm",
+   "kok": "حكم",
+   "kokAnlam": "hükmetme",
+   "karsilik": "öyleyse hükmet"
+  },
+  {
+   "kelime": "بَيْنَهُم",
+   "okunus": "beynehüm",
+   "kok": "بين",
+   "kokAnlam": "arasında",
+   "karsilik": "aralarında"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ile",
+   "karsilik": "ile"
+  },
+  {
+   "kelime": "أَنزَلَ",
+   "okunus": "enzele",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdiği"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -ma",
+   "karsilik": "ve -ma"
+  },
+  {
+   "kelime": "تَتَّبِعْ",
+   "okunus": "tettebi'",
+   "kok": "تبع",
+   "kokAnlam": "uyma, peşinden gitme",
+   "karsilik": "uyma"
+  },
+  {
+   "kelime": "أَهْوَآءَهُمْ",
+   "okunus": "ehvâehüm",
+   "kok": "هوي",
+   "kokAnlam": "arzu, heves",
+   "karsilik": "onların arzularına"
+  },
+  {
+   "kelime": "عَمَّا",
+   "okunus": "ammâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den sapıp"
+  },
+  {
+   "kelime": "جَآءَكَ",
+   "okunus": "câeke",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "sana gelenden"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْحَقِّ",
+   "okunus": "elhakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, hak",
+   "karsilik": "hak olan"
+  },
+  {
+   "kelime": "لِكُلٍّ",
+   "okunus": "liküllin",
+   "kok": "كلل",
+   "kokAnlam": "hepsi, her biri",
+   "karsilik": "her biriniz için"
+  },
+  {
+   "kelime": "جَعَلْنَا",
+   "okunus": "cealnâ",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "kıldık"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "شِرْعَةً",
+   "okunus": "şir'aten",
+   "kok": "شرع",
+   "kokAnlam": "açık yol, kaynağa giden yol",
+   "karsilik": "bir şeriat (yol)"
+  },
+  {
+   "kelime": "وَمِنْهَاجًا",
+   "okunus": "ve minhâcen",
+   "kok": "نهج",
+   "kokAnlam": "belirgin, açık yol",
+   "karsilik": "ve bir yöntem (açık yol)"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "شَآءَ",
+   "okunus": "şâe",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dileseydi"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَجَعَلَكُمْ",
+   "okunus": "lecealeküm",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "sizi yapardı"
+  },
+  {
+   "kelime": "أُمَّةً",
+   "okunus": "ümmeten",
+   "kok": "أمم",
+   "kokAnlam": "topluluk, ümmet",
+   "karsilik": "tek bir ümmet"
+  },
+  {
+   "kelime": "وَٰحِدَةً",
+   "okunus": "vâhideten",
+   "kok": "وحد",
+   "kokAnlam": "birlik, teklik",
+   "karsilik": "bir"
+  },
+  {
+   "kelime": "وَلَٰكِن",
+   "okunus": "ve lâkin",
+   "kok": "—",
+   "kokAnlam": "(düzeltme) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "لِّيَبْلُوَكُمْ",
+   "okunus": "liyeblüveküm",
+   "kok": "بلو",
+   "kokAnlam": "sınama, deneme",
+   "karsilik": "sizi denemek için"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "مَآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyde",
+   "karsilik": "şeyde"
+  },
+  {
+   "kelime": "ءَاتَىٰكُمْ",
+   "okunus": "âtâküm",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "size verdiği"
+  },
+  {
+   "kelime": "فَٱسْتَبِقُوا۟",
+   "okunus": "festebikû",
+   "kok": "سبق",
+   "kokAnlam": "önce geçme, yarışma",
+   "karsilik": "öyleyse yarışın"
+  },
+  {
+   "kelime": "ٱلْخَيْرَٰتِ",
+   "okunus": "elhayrâti",
+   "kok": "خير",
+   "kokAnlam": "hayır, iyilik",
+   "karsilik": "hayırlı işlerde"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "مَرْجِعُكُمْ",
+   "okunus": "merciuküm",
+   "kok": "رجع",
+   "kokAnlam": "dönüş, geri gelme",
+   "karsilik": "dönüşünüz"
+  },
+  {
+   "kelime": "جَمِيعًا",
+   "okunus": "cemîan",
+   "kok": "جمع",
+   "kokAnlam": "toplama, hepsi",
+   "karsilik": "hepinizin"
+  },
+  {
+   "kelime": "فَيُنَبِّئُكُم",
+   "okunus": "feyünebbiüküm",
+   "kok": "نبأ",
+   "kokAnlam": "haber verme",
+   "karsilik": "size haber verecektir"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduğunuz"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "تَخْتَلِفُونَ",
+   "okunus": "tahtelifûne",
+   "kok": "خلف",
+   "kokAnlam": "ayrılığa düşme, ihtilaf",
+   "karsilik": "ayrılığa düştüğünüz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Kur'an'ın konumunu tanımlar: kendinden önceki kitapları (Tevrat, İncil) tasdik edici ve onları koruyup gözetici (müheymin). Peygamber'e, insanlar arasında Allah'ın indirdiğiyle hükmetmesi ve keyiflere uymaması emredilir.",
+  "Ayet, her topluluğa (ümmete) farklı bir şeriat ve yöntem verildiğini, Allah dileseydi hepsini tek bir ümmet yapabileceğini ama insanları verdikleriyle sınamak istediğini bildirir. Sonuç, tartışmak yerine hayırlı işlerde yarışmaktır; herkesin dönüşü Allah'adır ve ayrılığa düşülen konular orada açıklığa kavuşacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:148",
+   "meal": "Herkesin yöneldiği bir yön vardır. Öyleyse hayırlı işlerde yarışın. Nerede olursanız olun, Allah hepinizi bir araya getirir; şüphesiz Allah her şeye güç yetirendir.",
+   "baglanti": "'festebikul hayrat' ifadesi birebir tekrarlanır; farklı yol ve yönelişlerin, hayırda yarışmaya engel olmaması gerektiğini pekiştirir."
+  },
+  {
+   "ref": "16:93",
+   "meal": "Allah dileseydi sizi tek bir ümmet yapardı; fakat dilediğini saptırır, dilediğini doğru yola iletir. Yapmakta olduklarınızdan mutlaka sorguya çekileceksiniz.",
+   "baglanti": "'Allah dileseydi sizi tek bir ümmet yapardı' ifadesi neredeyse aynen tekrarlanır; farklılığın bir sınama olduğu fikrini destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, vahiyler arası ilişki ve farklı toplulukların farklı yollarıyla ilgilidir; bu geniş bir teolojik çerçevedir.",
+  "Buradan çıkarılabilecek genel ders, farklılıkları tartışma konusu yapmak yerine, iyi işlerde yarışmaya yönelmektir. Farklı görüş veya yönteme sahip insanlarla polemiğe girmek yerine, kimin daha çok hayır ürettiğine odaklanmak, günlük ilişkilerde de yapıcı bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tartışma yerine hayır üret",
+   "aciklama": "Bugün bir görüş ayrılığında tartışmayı uzatmak yerine, kendi payına düşen iyi işi yap."
+  },
+  {
+   "baslik": "Farklılığa saygı göster",
+   "aciklama": "Senden farklı bir yöntemle çalışan birine bugün saygıyla yaklaş."
+  },
+  {
+   "baslik": "Hesap gününü hatırla",
+   "aciklama": "Bir kararında, sonunda hesap vereceğini hatırlayarak dürüst davran."
+  }
+ ],
+ "bugununAdimi": "Bugün bir tartışmayı sürdürmek yerine, enerjini bir hayırlı işe yönelt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=48"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/48"
+  }
+ ]
+}

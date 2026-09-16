@@ -1,0 +1,271 @@
+{
+ "sure": 5,
+ "ayet": 45,
+ "durum": "taslak",
+ "meal": "Orada (Tevrat'ta) onlara şunu yazdık: cana can, göze göz, buruna burun, kulağa kulak, dişe diş [karşılıktır]; yaralar da kısastır. Kim bunu bağışlarsa, bu kendisi için bir keffarettir. Kim Allah'ın indirdiğiyle hükmetmezse, işte onlar zalimlerin ta kendileridir.",
+ "mealNotu": "'Kısas' kökü قصص karşılıklı denkliği anlatır; 'keffâret' kökü كفر (örtme) burada günahı örten bir iyilik anlamındadır. 'Tesaddeka' kökü صدق sadaka/bağış kökünden gelir, bağışlamayı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَكَتَبْنَا",
+   "okunus": "ve ketebnâ",
+   "kok": "كتب",
+   "kokAnlam": "yazma, farz kılma",
+   "karsilik": "yazdık"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "فِيهَآ",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onda",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ki, şüphesiz",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "ٱلنَّفْسَ",
+   "okunus": "ennefse",
+   "kok": "نفس",
+   "kokAnlam": "can, nefis",
+   "karsilik": "cana"
+  },
+  {
+   "kelime": "بِٱلنَّفْسِ",
+   "okunus": "bin nefsi",
+   "kok": "نفس",
+   "kokAnlam": "can, nefis",
+   "karsilik": "can [karşılıktır]"
+  },
+  {
+   "kelime": "وَٱلْعَيْنَ",
+   "okunus": "vel ayne",
+   "kok": "عين",
+   "kokAnlam": "göz",
+   "karsilik": "göze"
+  },
+  {
+   "kelime": "بِٱلْعَيْنِ",
+   "okunus": "bil ayni",
+   "kok": "عين",
+   "kokAnlam": "göz",
+   "karsilik": "göz [karşılıktır]"
+  },
+  {
+   "kelime": "وَٱلْأَنفَ",
+   "okunus": "vel enfe",
+   "kok": "أنف",
+   "kokAnlam": "burun",
+   "karsilik": "buruna"
+  },
+  {
+   "kelime": "بِٱلْأَنفِ",
+   "okunus": "bil enfi",
+   "kok": "أنف",
+   "kokAnlam": "burun",
+   "karsilik": "burun [karşılıktır]"
+  },
+  {
+   "kelime": "وَٱلْأُذُنَ",
+   "okunus": "vel üzüne",
+   "kok": "أذن",
+   "kokAnlam": "kulak",
+   "karsilik": "kulağa"
+  },
+  {
+   "kelime": "بِٱلْأُذُنِ",
+   "okunus": "bil üzüni",
+   "kok": "أذن",
+   "kokAnlam": "kulak",
+   "karsilik": "kulak [karşılıktır]"
+  },
+  {
+   "kelime": "وَٱلسِّنَّ",
+   "okunus": "ves sinne",
+   "kok": "سنن",
+   "kokAnlam": "diş",
+   "karsilik": "dişe"
+  },
+  {
+   "kelime": "بِٱلسِّنِّ",
+   "okunus": "bis sinni",
+   "kok": "سنن",
+   "kokAnlam": "diş",
+   "karsilik": "diş [karşılıktır]"
+  },
+  {
+   "kelime": "وَٱلْجُرُوحَ",
+   "okunus": "vel cürûha",
+   "kok": "جرح",
+   "kokAnlam": "yara",
+   "karsilik": "yaralar da"
+  },
+  {
+   "kelime": "قِصَاصٌ",
+   "okunus": "kısâsun",
+   "kok": "قصص",
+   "kokAnlam": "karşılıklı denklik, izi takip etme",
+   "karsilik": "kısastır"
+  },
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(şart) kim ki",
+   "karsilik": "kim ki"
+  },
+  {
+   "kelime": "تَصَدَّقَ",
+   "okunus": "tesaddeka",
+   "kok": "صدق",
+   "kokAnlam": "sadaka verme, bağışlama",
+   "karsilik": "bağışlarsa"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "فَهُوَ",
+   "okunus": "fehüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) işte o",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "كَفَّارَةٌ",
+   "okunus": "keffâratün",
+   "kok": "كفر",
+   "kokAnlam": "örtme, günahı örten iyilik",
+   "karsilik": "bir keffarettir"
+  },
+  {
+   "kelime": "لَّهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) kendisi için",
+   "karsilik": "kendisi için"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) ve kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi",
+   "karsilik": "-mezse"
+  },
+  {
+   "kelime": "يَحْكُم",
+   "okunus": "yahküm",
+   "kok": "حكم",
+   "kokAnlam": "hükmetme",
+   "karsilik": "hükmetmezse"
+  },
+  {
+   "kelime": "بِمَآ",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ile",
+   "karsilik": "ile"
+  },
+  {
+   "kelime": "أَنزَلَ",
+   "okunus": "enzele",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdiği"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَأُو۟لَٰٓئِكَ",
+   "okunus": "feülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlardır"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمُونَ",
+   "okunus": "ezzâlimûne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, zulüm",
+   "karsilik": "zalimlerin ta kendileri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 44. ayetin devamı olarak Tevrat'ta İsrailoğullarına yazılan bir hükmü aktarır: kısas. 'Kısas' kökü قصص karşılıklı denkliği anlatır; ayet can, göz, burun, kulak, diş ve yaralar için eşit karşılık ilkesini bildirir. Bu, ölçüsüz intikamı sınırlayan, cezayı suçla dengeleyen bir kuraldır.",
+  "Ayetin ikinci kısmı bağışlamayı teşvik eder: kısas hakkını bağışlayan kişi için bu bir keffaret (günahı örten bir iyilik) sayılır. Ayet yine 'Allah'ın indirdiğiyle hükmetmeyenler zalimlerdir' ifadesiyle biter; bu nakarat 44 ve 47. ayetlerde de tekrarlanır, her defasında farklı bir sıfatla (kâfir, zalim, fasık) sona erer. Klasik tefsir bu farkı, ihlalin niteliğine göre yapılan bir vurgu değişikliği olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:178",
+   "meal": "Ey iman edenler! Öldürülenler hakkında size kısas farz kılındı: hür hüre karşı, köle köleye karşı, kadın kadına karşı. Kim kardeşi tarafından bir şekilde bağışlanırsa, örfe uyulsun ve ona güzellikle ödeme yapılsın. Bu, Rabbinizden bir hafifletme ve rahmettir. Kim bundan sonra sınırı aşarsa, onun için elem verici bir azap vardır.",
+   "baglanti": "Aynı 'kısas' kökünü taşır; Kur'an burada kısası müminlere de farz kılarak 5:45'teki ilkeyi doğrudan teyit eder."
+  },
+  {
+   "ref": "17:33",
+   "meal": "Allah'ın haram kıldığı canı haksız yere öldürmeyin. Kim haksız yere öldürülürse, onun velisine bir yetki verdik; ancak o da öldürmede sınırı aşmasın; çünkü o, [zaten] yardım görmüştür.",
+   "baglanti": "Kısas hakkının, ölçüsüz bir intikama dönüşmemesi gerektiğini vurgular; 5:45'teki dengeyi tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, tarihsel bir ceza hukuku kuralıdır (kısas); bu, kişisel öç almadan farklı, ölçülü ve dengeli bir karşılık ilkesidir. Bu özel hukuki alanı genel bir tavsiyeye indirgemeden okumak gerekir.",
+  "Buradan çıkarılabilecek genel ders, haksızlığa verilecek karşılığın ölçüsünü kaçırmamak ve bağışlamanın değerini görmektir. Günlük hayatta bir haksızlığa uğradığında, tepkini adaletle sınırlı tutmak ve mümkünse bağışlamayı bir erdem olarak görmek, bu ayetin ruhuna uygun bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tepkini ölçülü tut",
+   "aciklama": "Bugün bir haksızlığa tepki verirken, karşılığını olayla orantılı tut, aşırıya kaçma."
+  },
+  {
+   "baslik": "Bir defasında bağışla",
+   "aciklama": "Küçük bir kırgınlığı bugün üzerinde durmadan bağışla ve konuyu kapat."
+  },
+  {
+   "baslik": "Adaleti savun, öfkeyi değil",
+   "aciklama": "Bir anlaşmazlıkta, kişisel öfkenle değil adil bir ölçüyle karar ver."
+  }
+ ],
+ "bugununAdimi": "Bugün seni kıran küçük bir şeyi, karşılık vermeden bağışla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=45"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/45"
+  }
+ ]
+}
