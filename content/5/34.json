@@ -1,0 +1,145 @@
+{
+ "sure": 5,
+ "ayet": 34,
+ "durum": "taslak",
+ "meal": "Ancak siz onlara güç yetirmeden önce tövbe edenler bunun dışındadır. Bilin ki Allah çok bağışlayandır, çok merhametlidir.",
+ "mealNotu": "'Tekdirû' kökü قدر güç yetirmeyi, yakalama gücüne sahip olmayı anlatır; bu yüzden 'yakalanmadan önce' değil 'güç yetirilmeden önce' denmiştir. Fiilin içerdiği 'siz' öznesi köşeli parantez olmadan doğal Türkçeye taşınmıştır.",
+ "kokler": [
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, dışında",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "تَابُوا۟",
+   "okunus": "tâbû",
+   "kok": "توب",
+   "kokAnlam": "dönme, tövbe etme",
+   "karsilik": "tövbe edenler"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِ",
+   "okunus": "kabli",
+   "kok": "قبل",
+   "kokAnlam": "önce, öncelik",
+   "karsilik": "önce"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -meden",
+   "karsilik": "-meden"
+  },
+  {
+   "kelime": "تَقْدِرُوا۟",
+   "okunus": "tekdirû",
+   "kok": "قدر",
+   "kokAnlam": "güç yetirme, kudret",
+   "karsilik": "güç yetirmeniz"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "فَٱعْلَمُوٓا۟",
+   "okunus": "felemû",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilin ki"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَفُورٌ",
+   "okunus": "gafûrun",
+   "kok": "غفر",
+   "kokAnlam": "örtme, bağışlama",
+   "karsilik": "çok bağışlayandır"
+  },
+  {
+   "kelime": "رَّحِيمٌ",
+   "okunus": "rahîmün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet",
+   "karsilik": "çok merhametlidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayette sayılan ağır cezalara bir istisna getirir: suç işleyenler yakalanmadan/güç yetirilmeden önce kendiliğinden tövbe ederlerse ceza hükmünün dışında tutulurlar. 'Tekdirû' kökü, gücün, yakalama imkânının olduğu ana işaret eder; istisna, bu imkân doğmadan önceki dönüşe aittir.",
+  "Klasik fıkıh bu istisnayı, hırabe suçunu işleyip yakalanmadan önce pişman olup teslim olanlara uygulanan bir hüküm olarak açıklar; ancak bu istisnanın hangi hakları (örneğin mağdurun hakkı) kapsayıp kapsamadığı âlimler arasında tartışmalıdır. Ayet, cezanın tek amacının cezalandırmak olmadığını, dönüşe kapı bıraktığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:17",
+   "meal": "Allah katında tövbe, ancak bilmeyerek kötülük işleyip sonra hemen tövbe edenler içindir; işte Allah bunların tövbesini kabul eder. Allah bilendir, hüküm ve hikmet sahibidir.",
+   "baglanti": "Tövbenin genel şartını (bilinçli pişmanlık, kısa sürede dönüş) anlatır; 5:34'teki 'güç yetirilmeden önce' ifadesiyle aynı yönde bir zamanlama vurgusu taşır."
+  },
+  {
+   "ref": "5:39",
+   "meal": "Kim zulmünden sonra tövbe eder ve durumunu düzeltirse, şüphesiz Allah onun tövbesini kabul eder. Şüphesiz Allah çok bağışlayandır, çok merhametlidir.",
+   "baglanti": "Aynı surede hırsızlık bağlamında tekrar eden bu ayet, tövbe ve düzelmenin cezayı hafifleten ortak ilkesini pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ağır bir suçtan sonra yakalanmadan önceki tövbenin hukuki hükmüdür; bu özel bir bağlamdır.",
+  "Buradan çıkarılabilecek genel ders, bir hatanın farkına varır varmaz, birisi seni yakalamadan ya da ifşa etmeden önce kendiliğinden düzeltme adımı atmanın değeridir. Erken ve samimi pişmanlık, hem vicdanı hem ilişkileri onarır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ertelediğin bir özrü ver",
+   "aciklama": "Fark edilmeden önce kendiliğinden düzeltmen gereken bir hatan varsa bugün adımını at."
+  },
+  {
+   "baslik": "Bahane aramadan kabul et",
+   "aciklama": "Bir yanlışını, başkası söylemeden önce kendin fark edip dile getir."
+  },
+  {
+   "baslik": "Düzeltme fırsatını değerlendir",
+   "aciklama": "Bir ilişkide bozduğun bir şeyi, iş işten geçmeden onarmak için somut bir adım planla."
+  }
+ ],
+ "bugununAdimi": "Bugün, kimse fark etmeden önce kendi kendine itiraf edip düzelteceğin bir konuyu seç ve ilk adımı at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=34"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/34"
+  }
+ ]
+}

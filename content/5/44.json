@@ -1,0 +1,341 @@
+{
+ "sure": 5,
+ "ayet": 44,
+ "durum": "taslak",
+ "meal": "Şüphesiz Tevrat'ı biz indirdik; onda hidayet ve nur vardır. Kendini Allah'a teslim etmiş peygamberler, yahudi olanlar için onunla hükmederlerdi; Rabbaniler ve bilginler de, Allah'ın kitabından korumakla görevlendirildikleri şeyle hükmeder ve ona şahit olurlardı. O hâlde insanlardan korkmayın, benden korkun; ayetlerimi az bir bedele satmayın. Kim Allah'ın indirdiğiyle hükmetmezse, işte onlar kâfirlerin ta kendileridir.",
+ "mealNotu": "'Rabbâniyyûn' kökü ربب terbiye eden, öğretici anlamındadır; 'Rabbaniler' olarak korunmuştur. 'Teşterû' kökü شري satın alma/değişmeyi anlatır; burada hükmü küçük bir dünyevi çıkara değişmemek vurgulanır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّآ",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz biz",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "أَنزَلْنَا",
+   "okunus": "enzelnâ",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdik"
+  },
+  {
+   "kelime": "ٱلتَّوْرَىٰةَ",
+   "okunus": "ettevrâte",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Tevrat",
+   "karsilik": "Tevrat'ı"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) içinde",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "هُدًى",
+   "okunus": "hüden",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme",
+   "karsilik": "hidayet"
+  },
+  {
+   "kelime": "وَنُورٌ",
+   "okunus": "ve nûrun",
+   "kok": "نور",
+   "kokAnlam": "ışık, aydınlık",
+   "karsilik": "ve nur vardır"
+  },
+  {
+   "kelime": "يَحْكُم",
+   "okunus": "yahkümü",
+   "kok": "حكم",
+   "kokAnlam": "hükmetme",
+   "karsilik": "hükmederlerdi"
+  },
+  {
+   "kelime": "بِهَا",
+   "okunus": "bihâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "ٱلنَّبِيُّونَ",
+   "okunus": "ennebiyyûne",
+   "kok": "نبأ",
+   "kokAnlam": "haber, peygamberlik",
+   "karsilik": "peygamberler"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler ki",
+   "karsilik": "kimseler ki"
+  },
+  {
+   "kelime": "أَسْلَمُوا۟",
+   "okunus": "eslemû",
+   "kok": "سلم",
+   "kokAnlam": "teslim olma, boyun eğme",
+   "karsilik": "Allah'a teslim olmuş"
+  },
+  {
+   "kelime": "لِلَّذِينَ",
+   "okunus": "lillezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler için",
+   "karsilik": "kimseler için"
+  },
+  {
+   "kelime": "هَادُوا۟",
+   "okunus": "hâdû",
+   "kok": "هود",
+   "kokAnlam": "yahudi olma",
+   "karsilik": "yahudi olan"
+  },
+  {
+   "kelime": "وَٱلرَّبَّٰنِيُّونَ",
+   "okunus": "ver rabbâniyyûne",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, öğretici",
+   "karsilik": "Rabbaniler"
+  },
+  {
+   "kelime": "وَٱلْأَحْبَارُ",
+   "okunus": "vel ahbâru",
+   "kok": "حبر",
+   "kokAnlam": "bilgin, âlim",
+   "karsilik": "ve bilginler de"
+  },
+  {
+   "kelime": "بِمَآ",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ile",
+   "karsilik": "ile"
+  },
+  {
+   "kelime": "ٱسْتُحْفِظُوا۟",
+   "okunus": "istühfizû",
+   "kok": "حفظ",
+   "kokAnlam": "koruma, gözetme",
+   "karsilik": "korumakla görevlendirildikleri"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "كِتَٰبِ",
+   "okunus": "kitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "kitabından"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَكَانُوا۟",
+   "okunus": "ve kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ve olurlardı"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "شُهَدَآءَ",
+   "okunus": "şühedâe",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik",
+   "karsilik": "şahit"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) o hâlde -mayın",
+   "karsilik": "o hâlde -mayın"
+  },
+  {
+   "kelime": "تَخْشَوُا۟",
+   "okunus": "tahşevü",
+   "kok": "خشي",
+   "kokAnlam": "korkma, çekinme",
+   "karsilik": "korkmayın"
+  },
+  {
+   "kelime": "ٱلنَّاسَ",
+   "okunus": "ennâse",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanlardan"
+  },
+  {
+   "kelime": "وَٱخْشَوْنِ",
+   "okunus": "vehşevni",
+   "kok": "خشي",
+   "kokAnlam": "korkma, çekinme",
+   "karsilik": "benden korkun"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -mayın",
+   "karsilik": "ve -mayın"
+  },
+  {
+   "kelime": "تَشْتَرُوا۟",
+   "okunus": "teşterû",
+   "kok": "شري",
+   "kokAnlam": "satın alma, değişme",
+   "karsilik": "satmayın"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِى",
+   "okunus": "biâyâtî",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "ayetlerimi"
+  },
+  {
+   "kelime": "ثَمَنًا",
+   "okunus": "semenen",
+   "kok": "ثمن",
+   "kokAnlam": "bedel, fiyat",
+   "karsilik": "bir bedele"
+  },
+  {
+   "kelime": "قَلِيلًا",
+   "okunus": "kalîlen",
+   "kok": "قلل",
+   "kokAnlam": "azlık",
+   "karsilik": "az"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mezse",
+   "karsilik": "-mezse"
+  },
+  {
+   "kelime": "يَحْكُم",
+   "okunus": "yahküm",
+   "kok": "حكم",
+   "kokAnlam": "hükmetme",
+   "karsilik": "hükmetmezse"
+  },
+  {
+   "kelime": "بِمَآ",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ile",
+   "karsilik": "ile"
+  },
+  {
+   "kelime": "أَنزَلَ",
+   "okunus": "enzele",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdiğiyle"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَأُو۟لَٰٓئِكَ",
+   "okunus": "feülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "ٱلْكَٰفِرُونَ",
+   "okunus": "elkâfirûne",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "kâfirlerin ta kendileridir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Tevrat'ın Allah katından indirilmiş bir hidayet ve nur kaynağı olduğunu, peygamberlerin, Rabbanilerin ve bilginlerin bu kitapla hükmettiğini anlatır. 'Rabbâniyyûn' kökü ربب terbiye eden, öğreten anlamına gelir; bu, bilgiyi hem koruyan hem öğreten bir topluluğu tarif eder.",
+  "Ayetin ikinci kısmı, bu bilgi sahiplerine doğrudan bir uyarıdır: insanlardan değil Allah'tan korkulmalı, ayetler küçük bir dünyevi çıkara satılmamalıdır. Klasik tefsir, bu uyarının özellikle hükmü çarpıtan veya gizleyen din bilginlerine yönelik olduğunu açıklar; ayet, Allah'ın indirdiğiyle hükmetmeyenleri 'kâfir' diye nitelendirerek konunun ciddiyetini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:79",
+   "meal": "Kendisine kitap, hüküm ve peygamberlik verilen bir insanın, insanlara 'Allah'ı bırakıp bana kul olun' demesi düşünülemez; ancak 'Öğrettiğiniz ve okuduğunuz kitap uyarınca Rabbaniler olun' der.",
+   "baglanti": "Aynı 'Rabbâniyyûn' kökünü taşır; bilgiyi öğreten ve ona bağlı kalan kimselerin nasıl olması gerektiğini tamamlayıcı biçimde anlatır."
+  },
+  {
+   "ref": "5:47",
+   "meal": "İncil ehli, Allah'ın onda indirdiğiyle hükmetsin. Kim Allah'ın indirdiğiyle hükmetmezse, işte onlar fasıkların ta kendileridir.",
+   "baglanti": "Aynı surede birkaç ayet sonra gelir; Tevrat ehlinden sonra İncil ehline yönelik aynı ilkeyi tekrarlayarak 5:44'teki hükmü genişletir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Tevrat'ın konumu ve onu taşıyanların sorumluluğudur; bu özel bir dinî-tarihî bağlamdır.",
+  "Buradan çıkarılabilecek genel ders, elinde bilgi veya sorumluluk bulunan kişinin, bunu küçük bir çıkar için çarpıtmaması veya gizlememesidir. Günlük hayatta bu, doğru bildiğin bir şeyi, kaybetme korkusuyla veya bir menfaat karşılığında sessizce görmezden gelmemeyi hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğruyu çıkar için satma",
+   "aciklama": "Bugün bildiğin bir doğruyu, küçük bir menfaat veya rahatlık uğruna saklama."
+  },
+  {
+   "baslik": "Bilgiyi doğru aktar",
+   "aciklama": "Bir konuda bildiğini paylaşırken, eksiksiz ve tarafsız aktarmaya özen göster."
+  },
+  {
+   "baslik": "Kimden çekindiğini gözden geçir",
+   "aciklama": "Bir kararında insanların ne diyeceğinden mi, yoksa doğru olandan mı çekindiğini bugün kendine sor."
+  }
+ ],
+ "bugununAdimi": "Bugün bildiğin bir doğruyu, kimseden çekinmeden ve çıkar gözetmeden olduğu gibi aktar.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=44"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/44"
+  }
+ ]
+}

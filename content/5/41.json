@@ -1,0 +1,523 @@
+{
+ "sure": 5,
+ "ayet": 41,
+ "durum": "taslak",
+ "meal": "Ey Peygamber! Kalpleri iman etmediği hâlde ağızlarıyla 'İnandık' diyen kimselerden ve yahudi olanlardan küfürde birbiriyle yarışanlar seni üzmesin. Onlar yalana çok kulak verirler, sana gelmeyen başka bir topluluk için çok dinlerler. Kelimeleri, yerlerinden sonra tahrif ederler. 'Eğer size bu verilirse onu alın, verilmezse sakının' derler. Allah bir kimsenin sapmasını dilerse, sen onun için Allah'a karşı hiçbir şeye güç yetiremezsin. İşte onlar, Allah'ın kalplerini temizlemek istemediği kimselerdir. Onlar için dünyada rezillik, ahirette de büyük bir azap vardır.",
+ "mealNotu": "'Yüsâriûne' kökü سرع hızla koşmayı, yarışmayı anlatır; 'küfürde yarışanlar' ifadesi buradan gelir. 'Semmâûne' kökü سمع aşırı, alışkanlık hâline gelmiş dinlemeyi ifade eder; iki kez tekrarı yalana ve haber toplamaya düşkünlüğü vurgular. 'Fitnetehû' [birinin sapması] anlamıyla karşılanmıştır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلرَّسُولُ",
+   "okunus": "errasûlü",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçilik",
+   "karsilik": "Peygamber"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mesin"
+  },
+  {
+   "kelime": "يَحْزُنكَ",
+   "okunus": "yahzünke",
+   "kok": "حزن",
+   "kokAnlam": "üzülme, hüzün",
+   "karsilik": "seni üzmesin"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "يُسَٰرِعُونَ",
+   "okunus": "yüsâriûne",
+   "kok": "سرع",
+   "kokAnlam": "hızla koşma, yarışma",
+   "karsilik": "küfürde yarışanlar"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْكُفْرِ",
+   "okunus": "elküfri",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "küfürde"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimselerden"
+  },
+  {
+   "kelime": "قَالُوٓا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "diyen"
+  },
+  {
+   "kelime": "ءَامَنَّا",
+   "okunus": "âmennâ",
+   "kok": "أمن",
+   "kokAnlam": "güven, inanma",
+   "karsilik": "inandık"
+  },
+  {
+   "kelime": "بِأَفْوَٰهِهِمْ",
+   "okunus": "biefvâhihim",
+   "kok": "فوه",
+   "kokAnlam": "ağız",
+   "karsilik": "ağızlarıyla"
+  },
+  {
+   "kelime": "وَلَمْ",
+   "okunus": "ve lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ama",
+   "karsilik": "ama"
+  },
+  {
+   "kelime": "تُؤْمِن",
+   "okunus": "tü'min",
+   "kok": "أمن",
+   "kokAnlam": "güven, inanma",
+   "karsilik": "iman etmemiştir"
+  },
+  {
+   "kelime": "قُلُوبَهُمْ",
+   "okunus": "kulûbühüm",
+   "kok": "قلب",
+   "kokAnlam": "kalp",
+   "karsilik": "kalpleri"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve mine",
+   "kok": "—",
+   "kokAnlam": "(edat) ve -den",
+   "karsilik": "ve -den"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimselerden"
+  },
+  {
+   "kelime": "هَادُوا۟",
+   "okunus": "hâdû",
+   "kok": "هود",
+   "kokAnlam": "yahudi olma",
+   "karsilik": "yahudi olan"
+  },
+  {
+   "kelime": "سَمَّٰعُونَ",
+   "okunus": "semmâûne",
+   "kok": "سمع",
+   "kokAnlam": "çok dinleme, kulak verme",
+   "karsilik": "yalana çok kulak verirler"
+  },
+  {
+   "kelime": "لِلْكَذِبِ",
+   "okunus": "lilkezibi",
+   "kok": "كذب",
+   "kokAnlam": "yalan",
+   "karsilik": "yalana"
+  },
+  {
+   "kelime": "سَمَّٰعُونَ",
+   "okunus": "semmâûne",
+   "kok": "سمع",
+   "kokAnlam": "çok dinleme, kulak verme",
+   "karsilik": "çok dinlerler"
+  },
+  {
+   "kelime": "لِقَوْمٍ",
+   "okunus": "likavmin",
+   "kok": "قوم",
+   "kokAnlam": "topluluk",
+   "karsilik": "bir topluluk için"
+  },
+  {
+   "kelime": "ءَاخَرِينَ",
+   "okunus": "âharîne",
+   "kok": "أخر",
+   "kokAnlam": "başka, sonraki",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medikleri",
+   "karsilik": "-medikleri"
+  },
+  {
+   "kelime": "يَأْتُوكَ",
+   "okunus": "ye'tûke",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "sana gelmedikleri"
+  },
+  {
+   "kelime": "يُحَرِّفُونَ",
+   "okunus": "yüharrifûne",
+   "kok": "حرف",
+   "kokAnlam": "çarpıtma, kaydırma",
+   "karsilik": "tahrif ederler"
+  },
+  {
+   "kelime": "ٱلْكَلِمَ",
+   "okunus": "elkelime",
+   "kok": "كلم",
+   "kokAnlam": "söz, kelime",
+   "karsilik": "kelimeleri"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مَوَاضِعِهِۦ",
+   "okunus": "mevâdıihî",
+   "kok": "وضع",
+   "kokAnlam": "yer, konulduğu yer",
+   "karsilik": "yerlerinden"
+  },
+  {
+   "kelime": "يَقُولُونَ",
+   "okunus": "yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أُوتِيتُمْ",
+   "okunus": "ûtîtüm",
+   "kok": "أتي",
+   "kokAnlam": "verilme",
+   "karsilik": "size verilirse"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "فَخُذُوهُ",
+   "okunus": "fehuzûhü",
+   "kok": "أخذ",
+   "kokAnlam": "alma",
+   "karsilik": "onu alın"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) ve eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "تُؤْتَوْهُ",
+   "okunus": "tü'tevhü",
+   "kok": "أتي",
+   "kokAnlam": "verilme",
+   "karsilik": "size verilmedi"
+  },
+  {
+   "kelime": "فَٱحْذَرُوا۟",
+   "okunus": "fehzerû",
+   "kok": "حذر",
+   "kokAnlam": "sakınma",
+   "karsilik": "sakının"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "يُرِدِ",
+   "okunus": "yüridi",
+   "kok": "رود",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "فِتْنَتَهُۥ",
+   "okunus": "fitnetehû",
+   "kok": "فتن",
+   "kokAnlam": "sınama, saptırma",
+   "karsilik": "onun sapmasını"
+  },
+  {
+   "kelime": "فَلَن",
+   "okunus": "felen",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) asla",
+   "karsilik": "asla"
+  },
+  {
+   "kelime": "تَمْلِكَ",
+   "okunus": "temlike",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, güç yetirme",
+   "karsilik": "güç yetiremezsin"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) onun için",
+   "karsilik": "onun için"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -e karşı",
+   "karsilik": "-e karşı"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "hiçbir şeye"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimselerdir"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "يُرِدِ",
+   "okunus": "yüridi",
+   "kok": "رود",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "istemedi"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -i",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "يُطَهِّرَ",
+   "okunus": "yütahhira",
+   "kok": "طهر",
+   "kokAnlam": "temizleme, arındırma",
+   "karsilik": "temizlemek"
+  },
+  {
+   "kelime": "قُلُوبَهُمْ",
+   "okunus": "kulûbehüm",
+   "kok": "قلب",
+   "kokAnlam": "kalp",
+   "karsilik": "kalplerini"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar için",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلدُّنْيَا",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakın olan, dünya",
+   "karsilik": "dünyada"
+  },
+  {
+   "kelime": "خِزْىٌ",
+   "okunus": "hızyün",
+   "kok": "خزي",
+   "kokAnlam": "rezillik, aşağılanma",
+   "karsilik": "rezillik"
+  },
+  {
+   "kelime": "وَلَهُمْ",
+   "okunus": "ve lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve onlar için",
+   "karsilik": "ve onlar için"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْءَاخِرَةِ",
+   "okunus": "el'âhırati",
+   "kok": "أخر",
+   "kokAnlam": "sonra olan, ahiret",
+   "karsilik": "ahirette"
+  },
+  {
+   "kelime": "عَذَابٌ",
+   "okunus": "azâbün",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "bir azap"
+  },
+  {
+   "kelime": "عَظِيمٌ",
+   "okunus": "azîmün",
+   "kok": "عظم",
+   "kokAnlam": "büyüklük",
+   "karsilik": "büyük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Medine döneminde Peygamber'i üzen bir tutumdan bahseder: bazı münafıklar ağızlarıyla iman ettiklerini söylerken kalpleri inanmamıştır; bazı yahudi çevrelerinden bir kesim de yalana kulak verip haber toplama, kelimeleri yerlerinden çarpıtma gibi davranışlar içindedir. 'Yüsâriûne' kökü سرع hızla koşmayı, aceleyle yarışmayı anlatır; küfre doğru gösterilen bu hızlı eğilimin Peygamber'i üzmemesi gerektiği bildirilir.",
+  "Klasik tefsir bu ayeti, dönemin bazı Medine yahudilerinin hukuki bir meselede Peygamber'e danışıp, işlerine gelen cevabı alırsa kabul edip gelmezse reddetme tutumuyla ilişkilendirir. Ayetin genel ilkesi, ikiyüzlü tutumların ve niyetlerin Allah katında bilindiği, Peygamber'in de bundan dolayı üzülmemesi gerektiğidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:8",
+   "meal": "İnsanlardan öyleleri vardır ki inanmadıkları hâlde, 'Allah'a ve ahiret gününe inandık' derler.",
+   "baglanti": "Ağızla söylenen iman ile kalpteki inançsızlık arasındaki aynı çelişkiyi anlatır."
+  },
+  {
+   "ref": "63:1",
+   "meal": "Münafıklar sana geldiklerinde, 'Şahitlik ederiz ki sen elbette Allah'ın Resûlüsün' derler. Allah da bilir ki sen elbette O'nun Resûlüsün; Allah şahitlik eder ki münafıklar kesinlikle yalancıdırlar.",
+   "baglanti": "Aynı ikiyüzlülük temasını Peygamber'e karşı doğrudan bir sahnede gösterir; sözle ifade edilen iddia ile içteki gerçek arasındaki fark tekrar vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber döneminde ikiyüzlü tutumlar sergileyen bazı gruplardır; bu özel bir tarihî bağlamdır.",
+  "Buradan çıkarılabilecek genel ders, sözle söylenenin kalpteki ile her zaman örtüşmeyebileceğidir. Günlük hayatta bu, başkalarının samimiyetsiz tutumları karşısında üzülüp yıkılmak yerine, doğru olanı yapmaya devam etmeyi hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü ve niyetini örtüştür",
+   "aciklama": "Bugün söylediğin bir sözle içindeki niyetin uyuşup uyuşmadığını kendine dürüstçe sor."
+  },
+  {
+   "baslik": "Başkasının ikiyüzlülüğüne takılma",
+   "aciklama": "Sana samimiyetsiz davranan biri karşısında üzülüp durmak yerine, kendi doğrularına odaklan."
+  },
+  {
+   "baslik": "Sözü çarpıtma",
+   "aciklama": "Bugün bir konuşmada başkasının sözünü kendi çıkarına göre çarpıtmadığından emin ol."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda söylediğin sözle niyetinin örtüştüğünden emin ol ve gerekirse düzelt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=41"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/41"
+  }
+ ]
+}

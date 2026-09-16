@@ -1,0 +1,236 @@
+{
+ "sure": 5,
+ "ayet": 42,
+ "durum": "taslak",
+ "meal": "Onlar yalana çok kulak verirler, haram yerler. Sana gelirlerse aralarında hükmet veya onlardan yüz çevir. Onlardan yüz çevirirsen sana hiçbir şeyle zarar veremezler. Eğer hükmedersen aralarında adaletle hükmet. Şüphesiz Allah adaletli davrananları sever.",
+ "mealNotu": "'Sühtü' kökü سحت haram, kirli kazancı anlatır; 'ekkâlûn' çok yeme, alışkanlık hâline getirmiş olmayı ifade eder. 'Kıst' kökü قسط adaleti, dengeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "سَمَّٰعُونَ",
+   "okunus": "semmâûne",
+   "kok": "سمع",
+   "kokAnlam": "çok dinleme, kulak verme",
+   "karsilik": "çok kulak verirler"
+  },
+  {
+   "kelime": "لِلْكَذِبِ",
+   "okunus": "lilkezibi",
+   "kok": "كذب",
+   "kokAnlam": "yalan",
+   "karsilik": "yalana"
+  },
+  {
+   "kelime": "أَكَّٰلُونَ",
+   "okunus": "ekkâlûne",
+   "kok": "أكل",
+   "kokAnlam": "yeme, çok yiyen",
+   "karsilik": "çok yerler"
+  },
+  {
+   "kelime": "لِلسُّحْتِ",
+   "okunus": "lilssühti",
+   "kok": "سحت",
+   "kokAnlam": "haram, kirli kazanç",
+   "karsilik": "haramı"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "جَآءُوكَ",
+   "okunus": "câûke",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "sana gelirlerse"
+  },
+  {
+   "kelime": "فَٱحْكُم",
+   "okunus": "fehküm",
+   "kok": "حكم",
+   "kokAnlam": "hükmetme",
+   "karsilik": "hükmet"
+  },
+  {
+   "kelime": "بَيْنَهُم",
+   "okunus": "beynehüm",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında",
+   "karsilik": "aralarında"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "أَعْرِضْ",
+   "okunus": "a'rid",
+   "kok": "عرض",
+   "kokAnlam": "yüz çevirme",
+   "karsilik": "yüz çevir"
+  },
+  {
+   "kelime": "عَنْهُمْ",
+   "okunus": "anhüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "وَإِنْ",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) ve eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "تُعْرِضْ",
+   "okunus": "tü'rid",
+   "kok": "عرض",
+   "kokAnlam": "yüz çevirme",
+   "karsilik": "yüz çevirirsen"
+  },
+  {
+   "kelime": "عَنْهُمْ",
+   "okunus": "anhüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "فَلَن",
+   "okunus": "felen",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) asla",
+   "karsilik": "asla"
+  },
+  {
+   "kelime": "يَضُرُّوكَ",
+   "okunus": "yedurrûke",
+   "kok": "ضرر",
+   "kokAnlam": "zarar verme",
+   "karsilik": "sana zarar veremezler"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "hiçbir şeyle"
+  },
+  {
+   "kelime": "وَإِنْ",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) ve eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "حَكَمْتَ",
+   "okunus": "hakemte",
+   "kok": "حكم",
+   "kokAnlam": "hükmetme",
+   "karsilik": "hükmedersen"
+  },
+  {
+   "kelime": "فَٱحْكُم",
+   "okunus": "fehküm",
+   "kok": "حكم",
+   "kokAnlam": "hükmetme",
+   "karsilik": "hükmet"
+  },
+  {
+   "kelime": "بَيْنَهُم",
+   "okunus": "beynehüm",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında",
+   "karsilik": "aralarında"
+  },
+  {
+   "kelime": "بِٱلْقِسْطِ",
+   "okunus": "bil kıstı",
+   "kok": "قسط",
+   "kokAnlam": "adalet, denge",
+   "karsilik": "adaletle"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يُحِبُّ",
+   "okunus": "yühibbü",
+   "kok": "حبب",
+   "kokAnlam": "sevme",
+   "karsilik": "sever"
+  },
+  {
+   "kelime": "ٱلْمُقْسِطِينَ",
+   "okunus": "elmüksitîne",
+   "kok": "قسط",
+   "kokAnlam": "adalet, denge",
+   "karsilik": "adaletli davrananları"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayette anlatılan yalana kulak veren kimselerin bir hukuki anlaşmazlıkla Peygamber'e gelmesi durumunu ele alır. 'Sühtü' kökü سحت haram, kirli kazancı anlatır; bu, önceki ayetteki tahrifat ve haber toplama davranışlarıyla bağlantılı bir ahlaki bozulmayı gösterir.",
+  "Ayetin merkezinde 'kıst' kökü قسط, yani adalet ve denge vardır: hükmetme ya da çekilme seçeneği tanınır, ama hükmedilecekse mutlaka adaletle hükmedilmesi emredilir. Bu, tarafların kimliğinden bağımsız, ilkeli bir adalet anlayışını ortaya koyar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:58",
+   "meal": "Şüphesiz Allah size emanetleri ehline vermenizi ve insanlar arasında hükmettiğinizde adaletle hükmetmenizi emreder. Allah size ne güzel öğüt veriyor. Şüphesiz Allah işitendir, görendir.",
+   "baglanti": "İnsanlar arasında hükmederken adaletin şart olduğunu aynı doğrudanlıkla anlatır; 5:42'deki 'bil kıst' emrini tamamlar."
+  },
+  {
+   "ref": "5:8",
+   "meal": "Ey iman edenler! Allah için hakkı ayakta tutanlar, adaletle şahitlik edenler olun. Bir topluluğa olan kininiz sizi adaletsizliğe sürüklemesin. Adaletli olun; bu takvaya daha yakındır.",
+   "baglanti": "Aynı surede, kişisel duyguların adaleti bozmaması gerektiğini vurgulayarak 5:42'deki hükmetme ilkesini pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hukuki bir anlaşmazlıkta hakemlik ve hükmetme durumudur; bu özel bir bağlamdır.",
+  "Buradan çıkarılabilecek genel ders, bir konuda karar verme yetkisi olduğunda, tarafın kim olduğuna bakmaksızın adaletle davranmaktır. Günlük hayatta bu, bir anlaşmazlıkta taraf tutmadan, doğru olanı söylemeyi gerektirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Taraf tutmadan karar ver",
+   "aciklama": "Bugün bir anlaşmazlıkta fikrini beyan ederken, kişisel yakınlığını bir kenara bırak."
+  },
+  {
+   "baslik": "Adaletsiz kazançtan uzak dur",
+   "aciklama": "Bugün haksız yoldan gelen bir kazancı reddet veya iade et."
+  },
+  {
+   "baslik": "Dedikoduya kulak verme",
+   "aciklama": "Bugün doğruluğundan emin olmadığın bir söylentiyi yaymadan önce sorgula."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda karar verirken, kişisel yakınlığını bir kenara bırakıp adaletle davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=42"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/42"
+  }
+ ]
+}
