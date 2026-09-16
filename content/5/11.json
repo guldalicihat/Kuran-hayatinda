@@ -1,0 +1,215 @@
+{
+ "sure": 5,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Allah'ın üzerinizdeki nimetini hatırlayın: Hani bir topluluk size el uzatmaya yeltenmişti de O, onların ellerini sizden çekmişti. Allah'tan sakının; müminler yalnız Allah'a tevekkül etsin.",
+ "mealNotu": "'Hemme' kökü kesin bir eyleme geçmeden önceki niyet ve yeltenmeyi anlatır. 'Keffe' kökü el çekme, engelleme anlamındadır; bu yüzden 'ellerini sizden çekti' denmiştir. Ayet hangi topluluk olduğunu belirtmez; bu ayrıntı ayette yoktur.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler ki",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "ٱذْكُرُوا۟",
+   "okunus": "uzkürû",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama",
+   "karsilik": "hatırlayın"
+  },
+  {
+   "kelime": "نِعْمَتَ",
+   "okunus": "ni'mete",
+   "kok": "نعم",
+   "kokAnlam": "nimet, iyilik",
+   "karsilik": "nimetini"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) üzerinize",
+   "karsilik": "üzerinizdeki"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani, o vakit",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "هَمَّ",
+   "okunus": "hemme",
+   "kok": "همم",
+   "kokAnlam": "niyet etme, yeltenme",
+   "karsilik": "yeltendi"
+  },
+  {
+   "kelime": "قَوْمٌ",
+   "okunus": "kavmün",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk, kavim",
+   "karsilik": "bir topluluk"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "يَبْسُطُوٓا۟",
+   "okunus": "yebsütû",
+   "kok": "بسط",
+   "kokAnlam": "açma, yayma, uzatma",
+   "karsilik": "uzatsınlar"
+  },
+  {
+   "kelime": "إِلَيْكُمْ",
+   "okunus": "ileyküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "أَيْدِيَهُمْ",
+   "okunus": "eydiyehüm",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "ellerini"
+  },
+  {
+   "kelime": "فَكَفَّ",
+   "okunus": "fekeffe",
+   "kok": "كفف",
+   "kokAnlam": "çekme, engelleme, el çekme",
+   "karsilik": "O da çekti"
+  },
+  {
+   "kelime": "أَيْدِيَهُمْ",
+   "okunus": "eydiyehüm",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "ellerini"
+  },
+  {
+   "kelime": "عَنكُمْ",
+   "okunus": "anküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "وَٱتَّقُوا۟",
+   "okunus": "vettekû",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "sakının"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "وَعَلَى",
+   "okunus": "ve alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "ve -e"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "فَلْيَتَوَكَّلِ",
+   "okunus": "felyetevekkeli",
+   "kok": "وكل",
+   "kokAnlam": "güvenip dayanma, tevekkül",
+   "karsilik": "tevekkül etsin"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنُونَ",
+   "okunus": "elmü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanan",
+   "karsilik": "müminler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, müminlere geçmişte yaşanan somut bir kurtuluşu hatırlatır: bir topluluk onlara zarar vermeye yeltenmiş, Allah bunu engellemiştir. 'Hemme' kökü, işin gerçekleşmeden önceki niyet aşamasını anlatır; tehlike büyümeden savuşturulmuştur.",
+  "Ayet, olayın ardından iki çağrıyla biter: takva (sakınma) ve tevekkül (Allah'a güvenip dayanma). Klasik tefsir bu ayeti, müminlerin karşılaştığı tehlikelerden birinde Allah'ın koruması olarak açıklar; olayın ayrıntısı ayette belirtilmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:7",
+   "meal": "Allah'ın üzerinizdeki nimetini ve 'işittik ve itaat ettik' dediğinizde sizi bağladığı sözünü anın. Allah'tan sakının; şüphesiz Allah göğüslerin içindekini hakkıyla bilir.",
+   "baglanti": "Aynı 'Allah'ın nimetini anın' çağrısı burada da tekrarlanır; 7. ayet sözü, 11. ayet ise somut bir korumayı hatırlatır."
+  },
+  {
+   "ref": "3:103",
+   "meal": "Hep birlikte Allah'ın ipine sımsıkı sarılın, ayrılığa düşmeyin. Allah'ın üzerinizdeki nimetini hatırlayın: Hani siz düşmandınız, O kalplerinizi kaynaştırdı da O'nun nimetiyle kardeşler oldunuz. Siz bir ateş çukurunun kenarındaydınız, O sizi ondan kurtardı.",
+   "baglanti": "Burada da 'Allah'ın nimetini hatırlayın' çağrısı, geçmişte yaşanan bir kurtuluşla birlikte anılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmişte yaşanan bir tehlikenin Allah'ın izniyle savuşturulmasıdır. Detaylar ayette verilmez; ders, olayın kendisinden çok verilen tepkiden çıkarılır.",
+  "Günlük hayata taşınabilecek ders, atlatılan bir zorluğu unutmamak ve ondan sonra hem sakınmayı hem güvenmeyi sürdürmektir. İnsan genelde tehlike geçince rahatlar ve tedbiri bırakır; ayet ikisini birlikte ister: hem Allah'tan sakın hem O'na güven."
+ ],
+ "bugun": [
+  {
+   "baslik": "Atlattığın bir zorluğu hatırla",
+   "aciklama": "Geçmişte kurtulduğun bir sıkıntıyı bugün düşün ve bunun için şükret."
+  },
+  {
+   "baslik": "Tedbiri bırakma",
+   "aciklama": "Bir tehlike geçtikten sonra bıraktığın bir önlemi bugün yeniden al."
+  },
+  {
+   "baslik": "Güvenle çalış",
+   "aciklama": "Elinden geleni yaptıktan sonra sonucu Allah'a bırakarak bugünkü işine odaklan."
+  }
+ ],
+ "bugununAdimi": "Bugün, geçmişte atlattığın bir zorluğu yazıp bunun için bir şükür cümlesi kur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/11"
+  }
+ ]
+}

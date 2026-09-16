@@ -1,0 +1,236 @@
+{
+ "sure": 5,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Allah için hakkı ayakta tutanlar, adaletle şahitlik edenler olun. Bir topluluğa duyduğunuz kin, sizi adaletsizliğe sürüklemesin. Adaletli olun; bu, takvaya daha yakındır. Allah'tan sakının; şüphesiz Allah yaptıklarınızdan hakkıyla haberdardır.",
+ "mealNotu": "'Kavvâmîn' kökü sürekli ayakta durmayı, hakkı gözetmeyi anlatır; 'şühedâ' tanıklık kökünden gelir. 'Yecrimenneküm' kökü bir şeye sürüklemeyi ifade eder; bu yüzden 'kin sizi adaletsizliğe sürüklemesin' denmiştir.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) o kimseler ki",
+   "karsilik": "kimseler ki"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "كُونُوا۟",
+   "okunus": "kûnû",
+   "kok": "كون",
+   "kokAnlam": "olma, bulunma",
+   "karsilik": "olun"
+  },
+  {
+   "kelime": "قَوَّٰمِينَ",
+   "okunus": "kavvâmîne",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; sürekli hakkı gözetme",
+   "karsilik": "hakkı ayakta tutanlar"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah için"
+  },
+  {
+   "kelime": "شُهَدَآءَ",
+   "okunus": "şühedâe",
+   "kok": "شهد",
+   "kokAnlam": "görme, tanıklık etme, şahitlik",
+   "karsilik": "şahitlik edenler"
+  },
+  {
+   "kelime": "بِٱلْقِسْطِ",
+   "okunus": "bil kıstı",
+   "kok": "قسط",
+   "kokAnlam": "adalet, hakkaniyetle bölüştürme",
+   "karsilik": "adaletle"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...masın",
+   "karsilik": "ve ...masın"
+  },
+  {
+   "kelime": "يَجْرِمَنَّكُمْ",
+   "okunus": "yecrimenneküm",
+   "kok": "جرم",
+   "kokAnlam": "suç işleme, bir şeye sürükleme",
+   "karsilik": "sizi sürüklemesin"
+  },
+  {
+   "kelime": "شَنَـَٔانُ",
+   "okunus": "şeneânü",
+   "kok": "شنأ",
+   "kokAnlam": "nefret etme, kin besleme",
+   "karsilik": "kin"
+  },
+  {
+   "kelime": "قَوْمٍ",
+   "okunus": "kavmin",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk, kavim",
+   "karsilik": "bir topluluğa"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine, karşı",
+   "karsilik": "karşı"
+  },
+  {
+   "kelime": "أَلَّا",
+   "okunus": "ellâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç+olumsuzluk) ...memesi",
+   "karsilik": "adil olmamaya"
+  },
+  {
+   "kelime": "تَعْدِلُوا۟",
+   "okunus": "ta'dilû",
+   "kok": "عدل",
+   "kokAnlam": "doğru olma, adaletli davranma",
+   "karsilik": "adil olmamanız"
+  },
+  {
+   "kelime": "ٱعْدِلُوا۟",
+   "okunus": "udilû",
+   "kok": "عدل",
+   "kokAnlam": "doğru olma, adaletli davranma",
+   "karsilik": "adaletli olun"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "أَقْرَبُ",
+   "okunus": "ekrabü",
+   "kok": "قرب",
+   "kokAnlam": "yakın olma",
+   "karsilik": "daha yakındır"
+  },
+  {
+   "kelime": "لِلتَّقْوَىٰ",
+   "okunus": "lilttekvâ",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "takvaya"
+  },
+  {
+   "kelime": "وَٱتَّقُوا۟",
+   "okunus": "vettekû",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "sakının"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "خَبِيرٌۢ",
+   "okunus": "habîrum",
+   "kok": "خبر",
+   "kokAnlam": "haber; her şeyden haberdar olma",
+   "karsilik": "hakkıyla haberdardır"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey ki",
+   "karsilik": "yaptığınız şeyden"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma, iş, çalışma",
+   "karsilik": "yaptıklarınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayet, Allah'ın nimetini ve müminlerin verdiği sözü hatırlatıyordu. Bu ayet ise o sözün somut karşılığını gösterir: Allah için hakkı ayakta tutmak ve adaletle tanıklık etmek. 'Kavvâmîn' kökü, tek seferlik değil sürekli bir duruşu anlatır.",
+  "Ayet, adaletin sınırını da netleştirir: bir topluluğa duyulan kin, kişiyi adaletsiz davranmaya sürüklememelidir. 'Ta'dilû' ve 'a'dilû' aynı kökten gelir; önce sapma uyarılır, sonra doğrudan emredilir. Klasik tefsir bu ayeti, düşmana karşı bile adaletin korunması gereken bir ilke olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:135",
+   "meal": "Ey iman edenler! Kendiniz, ana babanız ve yakınlarınız aleyhine de olsa adaleti gözeterek Allah için şahitlik edenler, hakkı ayakta tutanlar olun. Zengin de olsa fakir de olsa Allah ikisine de sizden daha yakındır; öyleyse adaletten ayrılmamak için nefsinizin arzusuna uymayın.",
+   "baglanti": "Aynı 'kavvâmîne... şühedâe lillâhi' ifadesi burada da geçer; orada yakınlık, burada düşmanlık adaletin önüne geçmemesi gereken duygu olarak anılır."
+  },
+  {
+   "ref": "16:90",
+   "meal": "Şüphesiz Allah, adaleti, iyiliği ve akrabaya vermeyi emreder; çirkin işleri, kötülüğü ve azgınlığı yasaklar. Düşünüp öğüt alasınız diye size öğüt verir.",
+   "baglanti": "Adalet emri burada genel bir ilke olarak konur; Mâide 8 bu ilkeyi düşmanlık duygusuna karşı özel olarak hatırlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, müminlerin Allah için adaletle tanıklık etmesidir; bu bir mahkeme tanıklığı da olabilir, günlük bir değerlendirme de. Ders şudur: sevmediğin biri hakkında bile doğruyu söylemek gerekir.",
+  "Kızgın olduğun, anlaşamadığın bir kişi hakkında konuşurken bu ayeti hatırlamak faydalıdır. Kin, gerçeği çarpıtmaya, hak etmediği bir suçlamayı büyütmeye ya da hak ettiği bir övgüyü esirgemeye yol açabilir. Adalet, duygudan bağımsız bir ölçü olarak kalmalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Anlaşamadığın biri hakkında konuş",
+   "aciklama": "Bugün, aranızda gerginlik olan biriyle ilgili konuşurken önce 'Bu adil bir değerlendirme mi?' diye kendine sor."
+  },
+  {
+   "baslik": "Bir şikâyeti tarafsız yaz",
+   "aciklama": "Bir sorunu anlatırken karşı tarafın haklı olduğu noktayı da yazıya ekle."
+  },
+  {
+   "baslik": "Kin biriktirmeyi fark et",
+   "aciklama": "İçinde büyüyen bir kırgınlık varsa, bunun kararlarını nasıl etkilediğini bugün gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kişi hakkında konuşurken, ondan hoşlanıp hoşlanmadığından bağımsız olarak yalnızca doğruyu söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/8"
+  }
+ ]
+}

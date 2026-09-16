@@ -1,0 +1,369 @@
+{
+ "sure": 5,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Andolsun, Allah İsrailoğullarının sağlam sözünü almıştı. İçlerinden on iki gözetmen görevlendirmiştik. Allah şöyle demişti: 'Ben sizinleyim. Eğer namazı dosdoğru kılar, zekâtı verir, elçilerime inanır, onlara destek olur ve Allah'a güzel bir borç verirseniz, kötülüklerinizi elbette örterim ve sizi altından ırmaklar akan cennetlere elbette koyarım. Ama bundan sonra sizden kim inkâr ederse, doğru yoldan sapmış olur.'",
+ "mealNotu": "'Mîsâk' kökü sağlam, bağlayıcı bir söz anlamı taşır. 'Nakîb' kökü araştırma ve gözetmeyi içerir; burada topluluğu temsil eden kişi anlamındadır. 'Ekradtümüllâhe kardan hasenen' ifadesi 'Allah'a güzel bir borç vermek' şeklinde çevrilmiştir; bu, infakı bir borca benzeten bir mecazdır.",
+ "kokler": [
+  {
+   "kelime": "وَلَقَدْ",
+   "okunus": "ve lekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik edatı) andolsun, gerçekten",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "أَخَذَ",
+   "okunus": "ehaze",
+   "kok": "أخذ",
+   "kokAnlam": "alma, tutma",
+   "karsilik": "aldı"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مِيثَٰقَ",
+   "okunus": "mîsâka",
+   "kok": "وثق",
+   "kokAnlam": "güvenilirlik, sağlamlık; sağlam söz",
+   "karsilik": "sağlam sözünü"
+  },
+  {
+   "kelime": "بَنِىٓ",
+   "okunus": "benî",
+   "kok": "بني",
+   "kokAnlam": "oğul, evlat",
+   "karsilik": "oğullarının"
+  },
+  {
+   "kelime": "إِسْرَٰٓءِيلَ",
+   "okunus": "isrâîle",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İsrail'in"
+  },
+  {
+   "kelime": "وَبَعَثْنَا",
+   "okunus": "ve beasnâ",
+   "kok": "بعث",
+   "kokAnlam": "gönderme, diriltme",
+   "karsilik": "ve gönderdik"
+  },
+  {
+   "kelime": "مِنْهُمُ",
+   "okunus": "minhümü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "ٱثْنَىْ",
+   "okunus": "isney",
+   "kok": "ثني",
+   "kokAnlam": "ikileme, iki",
+   "karsilik": "on"
+  },
+  {
+   "kelime": "عَشَرَ",
+   "okunus": "aşera",
+   "kok": "عشر",
+   "kokAnlam": "on",
+   "karsilik": "iki"
+  },
+  {
+   "kelime": "نَقِيبًا",
+   "okunus": "nekîben",
+   "kok": "نقب",
+   "kokAnlam": "delme, araştırma; gözetmen, temsilci",
+   "karsilik": "gözetmen"
+  },
+  {
+   "kelime": "وَقَالَ",
+   "okunus": "ve kâle",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "ve dedi"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "إِنِّى",
+   "okunus": "innî",
+   "kok": "—",
+   "kokAnlam": "(te'kid+zamir) şüphesiz ben",
+   "karsilik": "şüphesiz ben"
+  },
+  {
+   "kelime": "مَعَكُمْ",
+   "okunus": "meaküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizinle",
+   "karsilik": "sizinleyim"
+  },
+  {
+   "kelime": "لَئِنْ",
+   "okunus": "lein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَقَمْتُمُ",
+   "okunus": "ekamtümü",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; dosdoğru kılma",
+   "karsilik": "dosdoğru kılarsanız"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "dua, namaz",
+   "karsilik": "namazı"
+  },
+  {
+   "kelime": "وَءَاتَيْتُمُ",
+   "okunus": "ve âteytümü",
+   "kok": "أتي",
+   "kokAnlam": "gelme, verme",
+   "karsilik": "ve verirseniz"
+  },
+  {
+   "kelime": "ٱلزَّكَوٰةَ",
+   "okunus": "ezzekâte",
+   "kok": "زكو",
+   "kokAnlam": "arınma, temizlik; zekât",
+   "karsilik": "zekâtı"
+  },
+  {
+   "kelime": "وَءَامَنتُم",
+   "okunus": "ve âmentüm",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "ve inanırsanız"
+  },
+  {
+   "kelime": "بِرُسُلِى",
+   "okunus": "birusülî",
+   "kok": "رسل",
+   "kokAnlam": "gönderme; elçi",
+   "karsilik": "elçilerime"
+  },
+  {
+   "kelime": "وَعَزَّرْتُمُوهُمْ",
+   "okunus": "ve azzertümûhüm",
+   "kok": "عزر",
+   "kokAnlam": "destekleme, güçlendirme",
+   "karsilik": "ve onlara destek olursanız"
+  },
+  {
+   "kelime": "وَأَقْرَضْتُمُ",
+   "okunus": "ve ekradtümü",
+   "kok": "قرض",
+   "kokAnlam": "kesme, pay ayırma; borç verme",
+   "karsilik": "ve borç verirseniz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "قَرْضًا",
+   "okunus": "kardan",
+   "kok": "قرض",
+   "kokAnlam": "kesme, pay ayırma; borç",
+   "karsilik": "bir borç"
+  },
+  {
+   "kelime": "حَسَنًا",
+   "okunus": "hasenen",
+   "kok": "حسن",
+   "kokAnlam": "güzellik, iyilik",
+   "karsilik": "güzel"
+  },
+  {
+   "kelime": "لَّأُكَفِّرَنَّ",
+   "okunus": "leükeffiranne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; burada günahı örtme, bağışlama",
+   "karsilik": "elbette örterim"
+  },
+  {
+   "kelime": "عَنكُمْ",
+   "okunus": "anküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "سَيِّـَٔاتِكُمْ",
+   "okunus": "seyyiâtiküm",
+   "kok": "سوأ",
+   "kokAnlam": "kötülük, çirkinlik",
+   "karsilik": "kötülüklerinizi"
+  },
+  {
+   "kelime": "وَلَأُدْخِلَنَّكُمْ",
+   "okunus": "ve leüdhılenneküm",
+   "kok": "دخل",
+   "kokAnlam": "girme; sokma",
+   "karsilik": "ve sizi elbette koyarım"
+  },
+  {
+   "kelime": "جَنَّٰتٍ",
+   "okunus": "cennâtin",
+   "kok": "جنن",
+   "kokAnlam": "örtülü olma; bahçe, cennet",
+   "karsilik": "cennetlere"
+  },
+  {
+   "kelime": "تَجْرِى",
+   "okunus": "tecrî",
+   "kok": "جري",
+   "kokAnlam": "akma",
+   "karsilik": "akan"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "تَحْتِهَا",
+   "okunus": "tahtihâ",
+   "kok": "تحت",
+   "kokAnlam": "alt",
+   "karsilik": "altından"
+  },
+  {
+   "kelime": "ٱلْأَنْهَٰرُ",
+   "okunus": "el'enhâru",
+   "kok": "نهر",
+   "kokAnlam": "ırmak",
+   "karsilik": "ırmakların"
+  },
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) ama kim",
+   "karsilik": "ama kim"
+  },
+  {
+   "kelime": "كَفَرَ",
+   "okunus": "kefera",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği örtme, inkâr",
+   "karsilik": "inkâr ederse"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu, şu",
+   "karsilik": "bundan"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "فَقَدْ",
+   "okunus": "fekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "ضَلَّ",
+   "okunus": "dalle",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, yoldan çıkma",
+   "karsilik": "sapmıştır"
+  },
+  {
+   "kelime": "سَوَآءَ",
+   "okunus": "sevâe",
+   "kok": "سوي",
+   "kokAnlam": "eşitlik, doğruluk",
+   "karsilik": "doğrusundan"
+  },
+  {
+   "kelime": "ٱلسَّبِيلِ",
+   "okunus": "essebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolun"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, İsrailoğullarından alınan sağlam bir sözü ve onlardan seçilen on iki gözetmeni anlatır. Allah'ın verdiği söz açık şartlara bağlanır: namaz, zekât, elçilere iman, onlara destek ve Allah'a 'güzel bir borç' vermek. Karşılığında günahların örtülmesi ve cennete girme vaadi vardır.",
+  "Ayet, bu şartların tek taraflı olmadığını gösterir; sözleşme karşılıklıdır. Son cümle ise bir uyarıyla biter: bu sözden sonra inkâr eden, doğru yoldan sapmış olur. Klasik tefsir, bu ayeti Allah'a verilen sözün namaz, zekât ve peygamberlere destek gibi somut yükümlülüklerle sınandığı bir örnek olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:83",
+   "meal": "Hani İsrailoğullarından, 'Allah'tan başkasına kulluk etmeyeceksiniz; anaya babaya, yakınlara, yetimlere, yoksullara iyilik edeceksiniz; insanlara güzel söz söyleyeceksiniz; namazı kılıp zekâtı vereceksiniz' diye sağlam söz almıştık. Sonra pek azınız hariç yüz çevirdiniz; hâlâ da yüz çevirmektesiniz.",
+   "baglanti": "Aynı misakın ayrıntıları burada da geçer; namaz ve zekât her iki ayette de sözün somut şartları arasındadır."
+  },
+  {
+   "ref": "2:40",
+   "meal": "Ey İsrailoğulları! Size verdiğim nimetimi hatırlayın, bana verdiğiniz sözü yerine getirin ki ben de size verdiğim sözü yerine getireyim; ve yalnız benden korkun.",
+   "baglanti": "Sözün karşılıklılığı burada da vurgulanır: taraflardan biri sözünü tutarsa diğer taraf da tutar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, İsrailoğullarına özgü tarihsel bir sözleşmedir; ayrıntıları (on iki gözetmen gibi) o topluluğa özgüdür. Genel ders, verilen bir sözün somut ve ölçülebilir şartlara bağlanmasıdır.",
+  "Günlük hayata taşınabilecek ders, sözün soyut bir niyet değil, davranışla desteklenen bir taahhüt olmasıdır. 'Allah'a güzel bir borç vermek' ifadesi, verdiğin bir şeyin boşa gitmediğini, bir karşılığı olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Verdiğin bir sözü gözden geçir",
+   "aciklama": "Geçmişte verdiğin ama tam tutmadığın bir sözü bugün hatırla ve bir adım at."
+  },
+  {
+   "baslik": "Küçük bir 'güzel borç' ver",
+   "aciklama": "Bugün ihtiyacı olan birine karşılık beklemeden bir yardımda bulun."
+  },
+  {
+   "baslik": "Somut şart koy",
+   "aciklama": "Bir hedefini soyut bırakmak yerine bugün ölçülebilir bir adıma dönüştür."
+  }
+ ],
+ "bugununAdimi": "Bugün, verdiğin bir sözü tam olarak hangi davranışla tuttuğunu yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/12"
+  }
+ ]
+}

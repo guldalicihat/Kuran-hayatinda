@@ -1,0 +1,103 @@
+{
+ "sure": 5,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "İnkâr edip ayetlerimizi yalanlayanlara gelince, işte onlar cehennemin halkıdır.",
+ "mealNotu": "'Cehîm' kökü şiddetli alevlenmeyi anlatır, cehennemin bir adıdır. 'Ashâb' kökü halk, sürekli birlikte olma anlamındadır; bu yüzden 'cehennemin halkı' denmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimselere gelince",
+   "karsilik": "kimselere gelince"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği örtme, inkâr",
+   "karsilik": "inkâr edenler"
+  },
+  {
+   "kelime": "وَكَذَّبُوا۟",
+   "okunus": "ve kezzebû",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "ve yalanlayanlar"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِنَآ",
+   "okunus": "biâyâtinâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet; ayet",
+   "karsilik": "ayetlerimizi"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "أَصْحَٰبُ",
+   "okunus": "ashâbü",
+   "kok": "صحب",
+   "kokAnlam": "arkadaş olma, eşlik etme; halkı",
+   "karsilik": "halkıdır"
+  },
+  {
+   "kelime": "ٱلْجَحِيمِ",
+   "okunus": "elcehîmi",
+   "kok": "جحم",
+   "kokAnlam": "şiddetli alevlenme; cehennem",
+   "karsilik": "cehennemin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayetteki mağfiret ve büyük mükâfat vaadinin karşıtını sunar. İman edip salih amel işleyenlere verilen söz, inkâr edip ayetleri yalanlayanlar için tam tersine döner.",
+  "'Keferû' (inkâr ettiler) ve 'kezzebû' (yalanladılar) birlikte anılır; yalnız inanmamak değil, gerçeği bilerek reddetmek de vurgulanır. Klasik tefsir, bu iki ayeti mümin ile kâfirin akıbetini yan yana koyan bir karşılaştırma olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:39",
+   "meal": "Küfre sapıp ayetlerimizi yalanlayanlara gelince, işte onlar ateş halkıdır; onlar orada ebedî kalacaklardır.",
+   "baglanti": "Neredeyse aynı ifadeyle tekrar eden bu ayet, 'keferû ve kezzebû biâyâtinâ' kalıbının Kur'an'da sabit bir uyarı biçimi olduğunu gösterir."
+  },
+  {
+   "ref": "5:9",
+   "meal": "Allah, iman edip salih ameller işleyenlere vaadetti: onlara bağışlanma ve büyük bir mükâfat vardır.",
+   "baglanti": "Bu ayetin karşıtı olan 5:9, mükâfat ile cezayı yan yana koyarak seçimin sonucunu netleştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ahiretteki akıbettir; inkâr ve yalanlama bir arada anılır. Bu, yalnızca inanmamak değil, gerçeği bile bile reddetmekle ilgilidir.",
+  "Günlük hayatta bu, bir gerçeği görüp de kabul etmemekle ilgili bir uyarı olarak okunabilir. Kanıtını gördüğü hâlde inatla reddetmek, sadece bilmemekten farklı bir tutumdur. Kendini bu tür bir inatla sınamak faydalı olur."
+ ],
+ "bugun": [
+  {
+   "baslik": "İnat ettiğin bir gerçeği sorgula",
+   "aciklama": "Kanıtını gördüğün ama kabul etmek istemediğin bir konuyu bugün yeniden düşün."
+  },
+  {
+   "baslik": "Bir yanlışı düzelt",
+   "aciklama": "Bile bile sürdürdüğün küçük bir yanlışı bugün fark edip bırak."
+  },
+  {
+   "baslik": "Açık fikirli ol",
+   "aciklama": "Bugün bir tartışmada, karşı görüşü gerçekten dinleyip değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün, doğruluğunu bildiğin ama görmezden geldiğin bir gerçeği kabul et ve ona göre bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/10"
+  }
+ ]
+}

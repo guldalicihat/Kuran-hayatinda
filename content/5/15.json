@@ -1,0 +1,215 @@
+{
+ "sure": 5,
+ "ayet": 15,
+ "durum": "taslak",
+ "meal": "Ey Kitap Ehli! Kitaptan gizlemekte olduğunuz birçok şeyi size açıklayan elçimiz gerçekten geldi; birçoğunu da affediyor (geçiyor). Size Allah'tan bir nur ve apaçık bir kitap geldi.",
+ "mealNotu": "'Ya'fû' kökü affetme, geçiştirme anlamındadır; burada elçinin bazı şeyleri açıklamayıp geçmesi kastedilir. 'Kitâbün mübîn' ifadesi 'apaçık bir kitap' olarak çevrilmiştir; 'mübîn' aynı kökten (بين) gelir ve açıklığı vurgular.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَهْلَ",
+   "okunus": "yâ ehle",
+   "kok": "أهل",
+   "kokAnlam": "aile, halk, ehil olma",
+   "karsilik": "ey ehli"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "kitabın"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "جَآءَكُم",
+   "okunus": "câeküm",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "size geldi"
+  },
+  {
+   "kelime": "رَسُولُنَا",
+   "okunus": "rasûlünâ",
+   "kok": "رسل",
+   "kokAnlam": "gönderme; elçi",
+   "karsilik": "elçimiz"
+  },
+  {
+   "kelime": "يُبَيِّنُ",
+   "okunus": "yübeyyinü",
+   "kok": "بين",
+   "kokAnlam": "açık olma, açıklama",
+   "karsilik": "açıklıyor"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "كَثِيرًا",
+   "okunus": "kesîran",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "birçok şeyi"
+  },
+  {
+   "kelime": "مِّمَّا",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) -dığı şeylerden",
+   "karsilik": "-dığı şeylerin"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduğunuz"
+  },
+  {
+   "kelime": "تُخْفُونَ",
+   "okunus": "tühfûne",
+   "kok": "خفي",
+   "kokAnlam": "gizli olma, gizleme",
+   "karsilik": "gizlemekte"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "kitaptan"
+  },
+  {
+   "kelime": "وَيَعْفُوا۟",
+   "okunus": "ve ya'fû",
+   "kok": "عفو",
+   "kokAnlam": "affetme, silme, bağışlama",
+   "karsilik": "ve affediyor"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "كَثِيرٍ",
+   "okunus": "kesîrin",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "birçoğundan"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "جَآءَكُم",
+   "okunus": "câeküm",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "size geldi"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -dan",
+   "karsilik": "-dan"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "نُورٌ",
+   "okunus": "nûrun",
+   "kok": "نور",
+   "kokAnlam": "aydınlık, ışık",
+   "karsilik": "bir nur"
+  },
+  {
+   "kelime": "وَكِتَٰبٌ",
+   "okunus": "ve kitâbün",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "ve bir kitap"
+  },
+  {
+   "kelime": "مُّبِينٌ",
+   "okunus": "mübînün",
+   "kok": "بين",
+   "kokAnlam": "açık olma, açıklama",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Kitap Ehline seslenerek yeni bir elçinin geldiğini bildirir. Bu elçi, onların kendi kitaplarından gizledikleri birçok şeyi açıklar; aynı zamanda birçoğunu da geçiştirir.",
+  "Ayetin sonunda 'nur' ve 'apaçık kitap' birlikte anılır; ikisi de aydınlatma ve açıklık fikrini taşır. Klasik tefsir, bu ayeti önceki vahiylerde saklı tutulan veya unutulan bazı gerçeklerin yeniden ortaya konması olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:19",
+   "meal": "Ey Kitap Ehli! Peygamberlerin arası kesildiği bir dönemde, 'Bize ne müjdeci ne de uyarıcı geldi' demeyesiniz diye size gerçekleri açıklayan elçimiz geldi. İşte size müjdeci ve uyarıcı geldi; Allah her şeye güç yetirendir.",
+   "baglanti": "Hemen ardından gelen bu ayet, aynı 'size açıklayan elçimiz geldi' ifadesini tekrarlayıp elçinin gelişinin gerekçesini netleştirir."
+  },
+  {
+   "ref": "6:91",
+   "meal": "Allah'ı hakkıyla takdir edemediler; çünkü 'Allah, hiçbir beşere bir şey indirmedi' dediler. De ki: 'Mûsâ'nın insanlara nur ve hidayet olarak getirdiği Kitabı kim indirdi? Siz onu parça parça kâğıtlara dönüştürüp bir kısmını açıklıyor, çoğunu gizliyorsunuz.'",
+   "baglanti": "Kitabı gizleme teması burada da geçer; iki ayet birlikte vahyin saklanmasının eleştirildiğini gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş vahiylerdeki bazı gerçeklerin saklanmış olması ve yeni bir açıklamanın gelmesidir. Bu, belirli bir tarihsel duruma işaret eder.",
+  "Günlük hayata taşınabilecek ders, bilgiyi saklamak yerine paylaşmanın değeridir. Bildiğin faydalı bir şeyi başkasından gizlemek, ayetin eleştirdiği tutuma benzer; açık ve dürüst paylaşım ise güven inşa eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Faydalı bir bilgiyi paylaş",
+   "aciklama": "Bugün, birinin işine yarayacağını bildiğin ama söylemediğin bir bilgiyi paylaş."
+  },
+  {
+   "baslik": "Gereksiz ayrıntıyı geçiştir",
+   "aciklama": "Bir konuşmada, önemli olmayan bir ayrıntıyı büyütmek yerine asıl konuya odaklan."
+  },
+  {
+   "baslik": "Açıklığı seç",
+   "aciklama": "Bugün bir konuda net ve açık konuş; belirsizlik bırakma."
+  }
+ ],
+ "bugununAdimi": "Bugün, sakladığın ama paylaşman gereken bir bilgiyi birine açıkça söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=15"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/15"
+  }
+ ]
+}

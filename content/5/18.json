@@ -1,0 +1,264 @@
+{
+ "sure": 5,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "Yahudiler ve Hristiyanlar, 'Biz Allah'ın oğulları ve sevgilileriyiz' dediler. De ki: 'Öyleyse günahlarınız yüzünden size niçin azap ediyor?' Hayır, siz de O'nun yarattıklarından birer insansınız; dilediğini bağışlar, dilediğine azap eder. Göklerin, yerin ve ikisi arasındakilerin mülkü Allah'ındır; dönüş yalnız O'nadır.",
+ "mealNotu": "'Ebnâü' ve 'ehibbâü' kelimeleri 'oğullar' ve 'sevgililer' anlamındadır; ayet bu iddiayı aktarır, onaylamaz. 'Beşerun mimmen haleka' ifadesi 'O'nun yarattıklarından birer insan' şeklinde çevrilmiştir; bu, iddianın karşısına konan bir gerçektir.",
+ "kokler": [
+  {
+   "kelime": "وَقَالَتِ",
+   "okunus": "ve kâleti",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "ve dediler"
+  },
+  {
+   "kelime": "ٱلْيَهُودُ",
+   "okunus": "elyehûdü",
+   "kok": "هود",
+   "kokAnlam": "Yahudi olma",
+   "karsilik": "Yahudiler"
+  },
+  {
+   "kelime": "وَٱلنَّصَٰرَىٰ",
+   "okunus": "ven nesârâ",
+   "kok": "نصر",
+   "kokAnlam": "yardım etme; Hristiyan",
+   "karsilik": "ve Hristiyanlar"
+  },
+  {
+   "kelime": "نَحْنُ",
+   "okunus": "nahnü",
+   "kok": "—",
+   "kokAnlam": "(zamir) biz",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "أَبْنَٰٓؤُا۟",
+   "okunus": "ebnâü",
+   "kok": "بني",
+   "kokAnlam": "oğul",
+   "karsilik": "oğullarıyız"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَأَحِبَّٰٓؤُهُۥ",
+   "okunus": "ve ehibbâühû",
+   "kok": "حبب",
+   "kokAnlam": "sevme; sevgili",
+   "karsilik": "ve sevgilileriyiz"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "فَلِمَ",
+   "okunus": "felime",
+   "kok": "—",
+   "kokAnlam": "(soru) öyleyse niçin",
+   "karsilik": "öyleyse niçin"
+  },
+  {
+   "kelime": "يُعَذِّبُكُم",
+   "okunus": "yüazzibüküm",
+   "kok": "عذب",
+   "kokAnlam": "azap etme",
+   "karsilik": "size azap ediyor"
+  },
+  {
+   "kelime": "بِذُنُوبِكُم",
+   "okunus": "bizünûbiküm",
+   "kok": "ذنب",
+   "kokAnlam": "günah, suç",
+   "karsilik": "günahlarınız yüzünden"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) hayır, bilakis",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "أَنتُم",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "بَشَرٌ",
+   "okunus": "beşerun",
+   "kok": "بشر",
+   "kokAnlam": "insan",
+   "karsilik": "birer insansınız"
+  },
+  {
+   "kelime": "مِّمَّنْ",
+   "okunus": "mimmen",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) yarattıklarından",
+   "karsilik": "yarattıklarından"
+  },
+  {
+   "kelime": "خَلَقَ",
+   "okunus": "haleka",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yarattığı"
+  },
+  {
+   "kelime": "يَغْفِرُ",
+   "okunus": "yağfiru",
+   "kok": "غفر",
+   "kokAnlam": "örtme, bağışlama",
+   "karsilik": "bağışlar"
+  },
+  {
+   "kelime": "لِمَن",
+   "okunus": "limen",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) kime",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "وَيُعَذِّبُ",
+   "okunus": "ve yüazzibü",
+   "kok": "عذب",
+   "kokAnlam": "azap etme",
+   "karsilik": "ve azap eder"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "وَلِلَّهِ",
+   "okunus": "ve lillâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "ve Allah'ındır"
+  },
+  {
+   "kelime": "مُلْكُ",
+   "okunus": "mülkü",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, mülk",
+   "karsilik": "mülkü"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "göklerin"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yerin"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve ne varsa",
+   "karsilik": "ve ne varsa"
+  },
+  {
+   "kelime": "بَيْنَهُمَا",
+   "okunus": "beynehümâ",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında",
+   "karsilik": "ikisi arasında"
+  },
+  {
+   "kelime": "وَإِلَيْهِ",
+   "okunus": "ve ileyhi",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ve O'na",
+   "karsilik": "ve yalnız O'nadır"
+  },
+  {
+   "kelime": "ٱلْمَصِيرُ",
+   "okunus": "elmesîru",
+   "kok": "صير",
+   "kokAnlam": "dönme, varma; dönüş",
+   "karsilik": "dönüş"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Yahudi ve Hristiyan topluluklarından bazılarının kendilerini Allah'a özel bir yakınlıkla nitelendiren bir iddiasını aktarır: 'Biz Allah'ın oğulları ve sevgilileriyiz.' Bu iddia, kendini cezadan bağışık görme anlayışıyla ilişkilendirilir.",
+  "Ayet, bu iddiaya akli bir soruyla karşılık verir: eğer öyleyse, günahları yüzünden neden azap görüyorlar? Cevap nettir: onlar da Allah'ın yarattığı birer insandır; bağışlama ve azap O'nun dilemesine bağlıdır. Klasik tefsir, bu ayeti seçilmişlik iddiasının kişiyi sorumluluktan kurtarmadığını gösteren bir uyarı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:111",
+   "meal": "'Yahudi ya da Hristiyan olandan başkası asla cennete girmeyecek' dediler. Bu, onların kuruntularıdır. De ki: 'Doğru sözlü iseniz kesin delilinizi getirin.'",
+   "baglanti": "Aynı tema burada da geçer: bir topluluğa ait olmanın tek başına kurtuluş veya ayrıcalık sağladığı iddiası, delil istenerek reddedilir."
+  },
+  {
+   "ref": "62:6",
+   "meal": "De ki: 'Ey Yahudiler! Bütün insanlar bir yana, yalnız kendinizin Allah'ın dostları olduğunu iddia ediyorsanız, eğer doğru sözlü iseniz haydi ölümü isteyin.'",
+   "baglanti": "Ayrıcalıklı yakınlık iddiası burada da sınanır; gerçek bir yakınlık iddiasının bedelinden kaçınılmaması beklenir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, belirli bir dini kimliğin kendiliğinden ayrıcalık ve bağışıklık sağladığı iddiasıdır. Ayet bunu, herkesin aynı hesap ilkesine tabi olduğunu hatırlatarak reddeder.",
+  "Günlük hayata taşınabilecek ders, hiçbir aidiyetin -din, aile, grup- tek başına sorumluluktan muaf kılmayacağıdır. Bir gruba ait olmak güven verebilir, ama bu güven kişisel çabayı ve sorumluluğu ortadan kaldırmaz."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ayrıcalık beklentini sorgula",
+   "aciklama": "Bir konuda 'bana bir şey olmaz' diye düşündüğün bir alışkanlığını bugün gözden geçir."
+  },
+  {
+   "baslik": "Kimliğe değil davranışa bak",
+   "aciklama": "Bugün bir kişiyi değerlendirirken aidiyetine değil somut davranışına odaklan."
+  },
+  {
+   "baslik": "Sorumluluğunu üstlen",
+   "aciklama": "Ertelediğin bir sorumluluğu bugün 'birileri beni kayırır' beklentisi olmadan yerine getir."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir ayrıcalık beklediğin alanda sorumluluğunu tam olarak üstlen.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/18"
+  }
+ ]
+}

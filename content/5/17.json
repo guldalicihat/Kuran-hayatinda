@@ -1,0 +1,348 @@
+{
+ "sure": 5,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "Andolsun, 'Allah, Meryem oğlu Mesih'tir' diyenler kâfir olmuşlardır. De ki: 'Allah, Meryem oğlu Mesih'i, annesini ve yeryüzündekilerin hepsini helak etmek istese, O'na karşı kim herhangi bir şeye güç yetirebilir?' Göklerin, yerin ve ikisi arasındakilerin mülkü Allah'ındır; O, dilediğini yaratır. Allah her şeye hakkıyla güç yetirendir.",
+ "mealNotu": "'Yemlikü' kökü sahip olma, güç yetirme anlamındadır; ayet, Mesih'in bile Allah'ın iradesine karşı hiçbir güce sahip olmadığını vurgular. 'Yeşâü' fiili dilemeyi anlatır; Allah'ın yaratmasının O'nun dilemesine bağlı olduğunu gösterir.",
+ "kokler": [
+  {
+   "kelime": "لَّقَدْ",
+   "okunus": "lekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) andolsun",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "كَفَرَ",
+   "okunus": "kefera",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği örtme, inkâr",
+   "karsilik": "kâfir oldu"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler ki",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "قَالُوٓا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "diyenler"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "ٱلْمَسِيحَ",
+   "okunus": "elmesîhu",
+   "kok": "مسح",
+   "kokAnlam": "meshetme; Mesih",
+   "karsilik": "Mesih'tir"
+  },
+  {
+   "kelime": "ٱبْنَ",
+   "okunus": "ibnü",
+   "kok": "بني",
+   "kokAnlam": "oğul",
+   "karsilik": "oğlu"
+  },
+  {
+   "kelime": "مَرْيَمَ",
+   "okunus": "meryeme",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "Meryem'in"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "يَمْلِكُ",
+   "okunus": "yemlikü",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, güç yetirme",
+   "karsilik": "güç yetirebilir"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -e karşı",
+   "karsilik": "-e karşı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "herhangi bir şeye"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَرَادَ",
+   "okunus": "erâde",
+   "kok": "رود",
+   "kokAnlam": "isteme, arzu etme",
+   "karsilik": "istese"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "-mesini"
+  },
+  {
+   "kelime": "يُهْلِكَ",
+   "okunus": "yühlike",
+   "kok": "هلك",
+   "kokAnlam": "helak olma, yok olma",
+   "karsilik": "helak etmek"
+  },
+  {
+   "kelime": "ٱلْمَسِيحَ",
+   "okunus": "elmesîha",
+   "kok": "مسح",
+   "kokAnlam": "meshetme; Mesih",
+   "karsilik": "Mesih'i"
+  },
+  {
+   "kelime": "ٱبْنَ",
+   "okunus": "ibne",
+   "kok": "بني",
+   "kokAnlam": "oğul",
+   "karsilik": "oğlunu"
+  },
+  {
+   "kelime": "مَرْيَمَ",
+   "okunus": "meryeme",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "Meryem'in"
+  },
+  {
+   "kelime": "وَأُمَّهُۥ",
+   "okunus": "ve ümmehû",
+   "kok": "أمم",
+   "kokAnlam": "ana, topluluk; anne",
+   "karsilik": "ve annesini"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve kim",
+   "karsilik": "ve kim varsa"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "جَمِيعًا",
+   "okunus": "cemîan",
+   "kok": "جمع",
+   "kokAnlam": "toplama; hepsi",
+   "karsilik": "hepsini"
+  },
+  {
+   "kelime": "وَلِلَّهِ",
+   "okunus": "ve lillâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "ve Allah'ındır"
+  },
+  {
+   "kelime": "مُلْكُ",
+   "okunus": "mülkü",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, mülk",
+   "karsilik": "mülkü"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "göklerin"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yerin"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve ne varsa",
+   "karsilik": "ve ne varsa"
+  },
+  {
+   "kelime": "بَيْنَهُمَا",
+   "okunus": "beynehümâ",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında",
+   "karsilik": "ikisi arasında"
+  },
+  {
+   "kelime": "يَخْلُقُ",
+   "okunus": "yahlüku",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yaratır"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne",
+   "karsilik": "neyi"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "ve Allah"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "كُلِّ",
+   "okunus": "külli",
+   "kok": "كلل",
+   "kokAnlam": "bütünlük; her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "şeye"
+  },
+  {
+   "kelime": "قَدِيرٌ",
+   "okunus": "kadîrun",
+   "kok": "قدر",
+   "kokAnlam": "güç yetirme, ölçme",
+   "karsilik": "hakkıyla güç yetirendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 'Allah, Meryem oğlu Mesih'tir' inancını açıkça kâfirlik olarak nitelendirir. Ardından gelen soru bu iddiayı akli bir delille sınar: eğer Mesih ilah olsaydı, Allah onu ve annesini helak etmek istediğinde kimse buna engel olamazdı.",
+  "Ayet, göklerin, yerin ve aralarındakilerin mülkünün yalnız Allah'a ait olduğunu, O'nun dilediğini yarattığını hatırlatarak biter. Klasik tefsir, bu ayeti Hristiyanlıktaki İsa'nın ilahlığı inancına yönelik bir eleştiri olarak açıklar; bu, tarihsel bir itikat tartışmasıdır ve ayet burada akli bir karşı argüman sunar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:72",
+   "meal": "Andolsun, 'Allah, Meryem oğlu Mesih'tir' diyenler kesinlikle kâfir olmuştur. Oysa Mesih şöyle demişti: 'Ey İsrailoğulları! Benim de Rabbim, sizin de Rabbiniz olan Allah'a kulluk edin.' Kim Allah'a ortak koşarsa Allah ona cenneti haram kılmıştır, onun varacağı yer ateştir; zalimlerin yardımcısı yoktur.",
+   "baglanti": "Aynı ifadeyle tekrar eden bu ayet, Mesih'in kendisinin de Allah'a kulluğu emrettiğini aktararak 17. ayetteki eleştiriyi pekiştirir."
+  },
+  {
+   "ref": "4:171",
+   "meal": "Ey Kitap Ehli! Dininizde aşırı gitmeyin ve Allah hakkında ancak gerçeği söyleyin. Meryem oğlu İsa Mesih, ancak Allah'ın resulü, Meryem'e ulaştırdığı kelimesi ve O'ndan bir ruhtur. Allah'a ve resullerine iman edin, 'üçtür' demeyin; vazgeçin, sizin için hayırlı olur. Allah ancak tek bir ilahtır; O, çocuğu olmaktan münezzehtir. Göklerdeki ve yerdeki her şey O'nundur, vekil olarak Allah yeter.",
+   "baglanti": "Bu ayet, Mesih'in konumunu 'Allah'ın resulü ve kelimesi' olarak tanımlayarak 17. ayetteki ilahlık iddiasına karşı Kur'an'ın kendi çerçevesini sunar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, tarihsel bir itikadi tartışmadır; Hristiyanlıktaki İsa'nın ilahlığı inancına dair bir eleştiri içerir. Bu, dikkatli ve saygılı ele alınması gereken hassas bir konudur.",
+  "Ayetten çıkarılabilecek genel bir ders, güç ve yaratma konusunda hiçbir varlığın Allah'a ortak olamayacağıdır. Günlük hayatta bu, aşırı bağlılığın bir kişiyi veya şeyi sınırsız güce sahipmiş gibi görme noktasına vardırmaması gerektiği şeklinde düşünülebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sınırları hatırla",
+   "aciklama": "Bugün, aşırı güven duyduğun bir kişinin de sınırlı ve aciz olduğunu hatırla."
+  },
+  {
+   "baslik": "Kaynağı sorgula",
+   "aciklama": "Bir inancını, dayandığı delil açısından bugün sakin bir şekilde gözden geçir."
+  },
+  {
+   "baslik": "Saygılı konuş",
+   "aciklama": "Farklı bir inanca sahip biriyle konuşurken bugün saygılı ve ölçülü bir dil kullan."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir konuda aşırı bağlılık gösterdiğin bir noktayı fark edip ölçülü bir sınır koy.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=5&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/5/17"
+  }
+ ]
+}
