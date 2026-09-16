@@ -1,0 +1,110 @@
+{
+ "sure": 7,
+ "ayet": 204,
+ "durum": "taslak",
+ "meal": "Kur'an okunduğu zaman onu dinleyin ve susun ki merhamet olunasınız.",
+ "mealNotu": "'İnsât' kökü (نصت) yalnızca susmayı değil, kulak vererek susmayı anlatır; bu yüzden 'dinleyin' ve 'susun' emirleri tek bir tutumu birlikte tarif eder.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "zaman bağlacı: -dığı zaman",
+   "karsilik": "ve ... zaman"
+  },
+  {
+   "kelime": "قُرِئَ",
+   "okunus": "kurie",
+   "kok": "قرأ",
+   "kokAnlam": "okuma",
+   "karsilik": "okunduğunda"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانُ",
+   "okunus": "elkur'ânü",
+   "kok": "قرأ",
+   "kokAnlam": "okunan, toplanan (kitap): Kur'an",
+   "karsilik": "Kur'an"
+  },
+  {
+   "kelime": "فَٱسْتَمِعُوا۟",
+   "okunus": "festemiû",
+   "kok": "سمع",
+   "kokAnlam": "işitme, dikkatle dinleme",
+   "karsilik": "dinleyin"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "zamir: onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "وَأَنصِتُوا۟",
+   "okunus": "ve ensıtû",
+   "kok": "نصت",
+   "kokAnlam": "kulak verip sessiz kalma",
+   "karsilik": "ve susun"
+  },
+  {
+   "kelime": "لَعَلَّكُمْ",
+   "okunus": "lealleküm",
+   "kok": "—",
+   "kokAnlam": "umulur ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "تُرْحَمُونَ",
+   "okunus": "türhamûne",
+   "kok": "رحم",
+   "kokAnlam": "merhamet, esirgeme",
+   "karsilik": "merhamet olunasınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette müşriklerin 'Neden kendiliğinden bir ayet getirmiyorsun' itirazına, Peygamber'in ancak kendisine vahyedilene uyduğu söylenerek cevap verilmişti. Bu ayet, o vahyin -Kur'an'ın- okunduğu anda muhataptan ne beklendiğini anlatır.",
+  "'İstimâ' dikkatle işitmeyi, 'insât' ise kulak vererek sessiz kalmayı ifade eder; ikisi birlikte, Kur'an dinlenirken hem dıştan hem içten bir yoğunlaşmayı gerektirir. Klasik tefsir bu ayeti özellikle namazda imamın okuyuşunu dinlemekle, daha genel planda ise her Kur'an okunuşunda gösterilecek edeple ilişkilendirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "46:29",
+   "meal": "Cinlerden bir topluluğu Kur'an dinlemeleri için sana yöneltmiştik; ona geldiklerinde 'Susun' demişlerdi.",
+   "baglanti": "Aynı iki kök -dinleme ve susma- burada cinlerin tavrı olarak somutlaşır; 7:204'teki emrin nasıl uygulanacağını örnekler."
+  },
+  {
+   "ref": "39:18",
+   "meal": "Sözü dinleyip en güzeline uyanlar var ya, işte onlar Allah'ın doğru yola ilettiği kimselerdir.",
+   "baglanti": "Dinlemenin amacının yalnız susmak değil, işitileni benimseyip en güzeline uymak olduğunu gösterir; 204. ayetteki dinleme emrinin hedefini tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kur'an okunurken gösterilecek edeptir: konuşmayı kesip dikkatle dinlemek.",
+  "Bugüne taşınabilecek ders, yalnız Kur'an dinlerken değil, önemli bir sözü veya bir öğüdü dinlerken de araya girmeden, tam dikkatle kulak vermektir; sürekli konuşan veya dikkati dağılan biri gerçekten dinlemiş olmaz."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kur'an dinlerken telefonu bırak",
+   "aciklama": "Bugün bir Kur'an tilaveti dinlerken başka bir işle uğraşmadan, sadece dinle."
+  },
+  {
+   "baslik": "Sözü kesmeden dinle",
+   "aciklama": "Bugün biri konuşurken cevabını hazırlamak yerine önce onu sonuna kadar dinle."
+  },
+  {
+   "baslik": "Sessizliğe alan aç",
+   "aciklama": "Bugün günün bir bölümünde telefonu ve müziği kapatıp birkaç dakika sessiz kal."
+  }
+ ],
+ "bugununAdimi": "Bugün en az beş dakika, hiçbir şeyle meşgul olmadan Kur'an dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=7&verse=204"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/7/204"
+  }
+ ]
+}
