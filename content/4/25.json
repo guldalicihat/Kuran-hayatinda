@@ -1,0 +1,460 @@
+{
+ "sure": 4,
+ "ayet": 25,
+ "durum": "taslak",
+ "meal": "Sizden kim hür mümin kadınlarla evlenmeye imkân bulamazsa, ellerinizin altında sahip olduğunuz mümin genç kadınlarla evlensin. Allah imanınızı en iyi bilendir; hepiniz birbirinizdensiniz. Öyleyse sahiplerinin izniyle onlarla evlenin; iffetli, zina etmeyen, gizli dostlar edinmeyen kimseler olarak ücretlerini (mehirlerini) uygun bir şekilde verin. Evlendiklerinde bir çirkin iş yaparlarsa, onlara verilecek ceza, hür kadınlara verilecek cezanın yarısıdır. Bu [izin], içinizden sıkıntıya düşmekten korkanlar içindir. Sabretmeniz sizin için daha hayırlıdır. Allah çok bağışlayandır, çok merhametlidir.",
+ "mealNotu": "'Tavl' kökü imkân, güç ve servet anlamı taşır; hür bir kadınla evlenecek maddi ya da toplumsal imkâna sahip olmamayı ifade eder. Ayetteki 'ellerinizin altında sahip olduğunuz' ifadesi, Kur'an'ın indiği dönemdeki köle-efendi ilişkisine işaret eder; klasik fıkıh bu hükmü o günün tarihsel kölelik kurumu bağlamında ele alır. Eksik yüklem için 'izin' köşeli parantez içinde eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -memiş",
+   "karsilik": "-mezse"
+  },
+  {
+   "kelime": "يَسْتَطِعْ",
+   "okunus": "yestetı'",
+   "kok": "طوع",
+   "kokAnlam": "güç yetirme",
+   "karsilik": "güç yetiremezse"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "طَوْلًا",
+   "okunus": "tavlen",
+   "kok": "طول",
+   "kokAnlam": "güç, imkân, servet",
+   "karsilik": "imkâna"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesi",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "يَنكِحَ",
+   "okunus": "yenkiha",
+   "kok": "نكح",
+   "kokAnlam": "nikahlama, evlenme",
+   "karsilik": "evlenmeye"
+  },
+  {
+   "kelime": "ٱلْمُحْصَنَٰتِ",
+   "okunus": "elmühsanâti",
+   "kok": "حصن",
+   "kokAnlam": "korunma, iffet; hür kadın",
+   "karsilik": "hür kadınlarla"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنَٰتِ",
+   "okunus": "elmü'minâti",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "mümin"
+  },
+  {
+   "kelime": "فَمِن",
+   "okunus": "femin",
+   "kok": "—",
+   "kokAnlam": "(edat) o halde -den",
+   "karsilik": "o halde -den"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olan",
+   "karsilik": "sahip olduğunuz"
+  },
+  {
+   "kelime": "مَلَكَتْ",
+   "okunus": "meleket",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, mülk edinme",
+   "karsilik": "sahip olduğu"
+  },
+  {
+   "kelime": "أَيْمَٰنُكُم",
+   "okunus": "eymânüküm",
+   "kok": "يمن",
+   "kokAnlam": "sağ el, mülkiyet",
+   "karsilik": "elleriniz(in altındaki)"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "فَتَيَٰتِكُمُ",
+   "okunus": "feteyâtikümü",
+   "kok": "فتي",
+   "kokAnlam": "genç kız",
+   "karsilik": "genç kadınlarınızdan"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنَٰتِ",
+   "okunus": "elmü'minâti",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "mümin"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "أَعْلَمُ",
+   "okunus": "a'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "en iyi bilendir"
+  },
+  {
+   "kelime": "بِإِيمَٰنِكُم",
+   "okunus": "biîmâniküm",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "imanınızı"
+  },
+  {
+   "kelime": "بَعْضُكُم",
+   "okunus": "ba'duküm",
+   "kok": "بعض",
+   "kokAnlam": "bir kısım, biri",
+   "karsilik": "birbirinizdensiniz"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mim",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْضٍ",
+   "okunus": "ba'dın",
+   "kok": "بعض",
+   "kokAnlam": "bir kısım, biri",
+   "karsilik": "birbirinizden"
+  },
+  {
+   "kelime": "فَٱنكِحُوهُنَّ",
+   "okunus": "fenkihûhünne",
+   "kok": "نكح",
+   "kokAnlam": "nikahlama, evlenme",
+   "karsilik": "öyleyse onlarla evlenin"
+  },
+  {
+   "kelime": "بِإِذْنِ",
+   "okunus": "biizni",
+   "kok": "أذن",
+   "kokAnlam": "izin",
+   "karsilik": "izniyle"
+  },
+  {
+   "kelime": "أَهْلِهِنَّ",
+   "okunus": "ehlihinne",
+   "kok": "أهل",
+   "kokAnlam": "ehil, sahip; aile",
+   "karsilik": "sahiplerinin/ailelerinin"
+  },
+  {
+   "kelime": "وَءَاتُوهُنَّ",
+   "okunus": "ve âtûhünne",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "ve onlara verin"
+  },
+  {
+   "kelime": "أُجُورَهُنَّ",
+   "okunus": "ücûrahünne",
+   "kok": "أجر",
+   "kokAnlam": "ücret, karşılık",
+   "karsilik": "ücretlerini (mehirlerini)"
+  },
+  {
+   "kelime": "بِٱلْمَعْرُوفِ",
+   "okunus": "bil ma'rûfi",
+   "kok": "عرف",
+   "kokAnlam": "bilinen iyilik, örf",
+   "karsilik": "uygun bir şekilde"
+  },
+  {
+   "kelime": "مُحْصَنَٰتٍ",
+   "okunus": "mühsanâtin",
+   "kok": "حصن",
+   "kokAnlam": "korunma, iffet; iffetli",
+   "karsilik": "iffetli olarak"
+  },
+  {
+   "kelime": "غَيْرَ",
+   "okunus": "gayra",
+   "kok": "غير",
+   "kokAnlam": "başka, dışında",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "مُسَٰفِحَٰتٍ",
+   "okunus": "müsâfihâtin",
+   "kok": "سفح",
+   "kokAnlam": "yayma, akıtma; zina eden",
+   "karsilik": "zina eden"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...meyen",
+   "karsilik": "ve ...meyen"
+  },
+  {
+   "kelime": "مُتَّخِذَٰتِ",
+   "okunus": "müttehızâti",
+   "kok": "أخذ",
+   "kokAnlam": "edinme, alma",
+   "karsilik": "edinen"
+  },
+  {
+   "kelime": "أَخْدَانٍ",
+   "okunus": "ahdânin",
+   "kok": "خدن",
+   "kokAnlam": "gizli dost",
+   "karsilik": "gizli dostlar"
+  },
+  {
+   "kelime": "فَإِذَآ",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dıklarında"
+  },
+  {
+   "kelime": "أُحْصِنَّ",
+   "okunus": "ühsınne",
+   "kok": "حصن",
+   "kokAnlam": "korunma, iffet; evlenmiş olma",
+   "karsilik": "evlendiklerinde"
+  },
+  {
+   "kelime": "فَإِنْ",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَتَيْنَ",
+   "okunus": "eteyne",
+   "kok": "أتي",
+   "kokAnlam": "gelme, yapma",
+   "karsilik": "yaparlarsa"
+  },
+  {
+   "kelime": "بِفَٰحِشَةٍ",
+   "okunus": "bifâhişetin",
+   "kok": "فحش",
+   "kokAnlam": "çirkinlik, aşırılık",
+   "karsilik": "bir çirkin iş"
+  },
+  {
+   "kelime": "فَعَلَيْهِنَّ",
+   "okunus": "fealeyhinne",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onların üzerine",
+   "karsilik": "onlara (verilecek ceza)"
+  },
+  {
+   "kelime": "نِصْفُ",
+   "okunus": "nisfü",
+   "kok": "نصف",
+   "kokAnlam": "yarı",
+   "karsilik": "yarısıdır"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olan",
+   "karsilik": "olanın"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine (olan)"
+  },
+  {
+   "kelime": "ٱلْمُحْصَنَٰتِ",
+   "okunus": "elmühsanâti",
+   "kok": "حصن",
+   "kokAnlam": "korunma, iffet; hür kadın",
+   "karsilik": "hür kadınların"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْعَذَابِ",
+   "okunus": "el'azâbi",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "cezanın"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu [izin]"
+  },
+  {
+   "kelime": "لِمَنْ",
+   "okunus": "limen",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimin için",
+   "karsilik": "içindir"
+  },
+  {
+   "kelime": "خَشِىَ",
+   "okunus": "haşiye",
+   "kok": "خشي",
+   "kokAnlam": "korkma, çekinme",
+   "karsilik": "korkan"
+  },
+  {
+   "kelime": "ٱلْعَنَتَ",
+   "okunus": "el'anete",
+   "kok": "عنت",
+   "kokAnlam": "sıkıntı, zorluk, günaha düşme",
+   "karsilik": "sıkıntıya düşmekten"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "وَأَن",
+   "okunus": "ve en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ve ...meniz",
+   "karsilik": "ve ...manız"
+  },
+  {
+   "kelime": "تَصْبِرُوا۟",
+   "okunus": "tasbirû",
+   "kok": "صبر",
+   "kokAnlam": "sabretme, dayanma",
+   "karsilik": "sabretmeniz"
+  },
+  {
+   "kelime": "خَيْرٌ",
+   "okunus": "hayrun",
+   "kok": "خير",
+   "kokAnlam": "hayır, iyilik",
+   "karsilik": "daha hayırlıdır"
+  },
+  {
+   "kelime": "لَّكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَفُورٌ",
+   "okunus": "gafûrun",
+   "kok": "غفر",
+   "kokAnlam": "örtme, bağışlama",
+   "karsilik": "çok bağışlayandır"
+  },
+  {
+   "kelime": "رَّحِيمٌ",
+   "okunus": "rahîmün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet",
+   "karsilik": "çok merhametlidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 24. ayette geçen evlilik imkânlarını genişletir: hür bir mümin kadınla evlenecek imkânı olmayan kişiye, dönemin mülkiyet ilişkisi içindeki mümin bir kadınla evlenme izni verilir. 'Tavl' kökü burada maddi ya da toplumsal güç yetirmeyi anlatır.",
+  "Ayetin ortasındaki 'birbirinizdensiniz' ifadesi, klasik tefsire göre statü farkının insanlık ve iman bakımından bir üstünlük sebebi olmadığını hatırlatır. Ayetin sonundaki ceza farkı ve 'sabretmeniz daha hayırlıdır' vurgusu, bu iznin zorunluluk değil bir kolaylık olduğunu, sabrın tercih edilmesinin daha iyi olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:24",
+   "meal": "Evli kadınlar da haramdır; ancak sahip olduklarınız başka. Bunların dışında kalanlar iffetli yaşamak şartıyla size helal kılındı.",
+   "baglanti": "24. ayet evlilikte genel çerçeveyi çizer; 25. ayet imkânı olmayanlar için bu çerçeve içinde bir kolaylık sunar."
+  },
+  {
+   "ref": "2:221",
+   "meal": "Müşrik kadınlarla, iman etmedikçe evlenmeyin. İman etmiş bir cariye, hoşunuza gitse de müşrik bir kadından daha hayırlıdır.",
+   "baglanti": "25. ayetteki 'imanınızı en iyi bilen Allah'tır, birbirinizdensiniz' vurgusu, burada da imanın soy ve statüden önce geldiğini gösteren aynı ilkeyle örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, dönemin toplumsal ve hukuki şartları içinde evlilik imkânı bulamayanlara tanınan özel bir kolaylıktır; bugünün toplumsal yapısına birebir uygulanacak bir madde değildir.",
+  "Buradan çıkarılabilecek genel ders, statü ya da imkân farkının insanların değerini belirlemediğidir. Ayetin 'birbirinizdensiniz' vurgusu, kimseyi maddi durumuna göre küçük görmemeyi hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Statüye göre yargılama",
+   "aciklama": "Bugün karşılaştığın birini maddi durumuna veya konumuna göre değerlendirmekten kaçın."
+  },
+  {
+   "baslik": "Ortak insanlığı hatırla",
+   "aciklama": "Farklı bir toplumsal konumdaki biriyle bugün eşit bir saygıyla konuş."
+  },
+  {
+   "baslik": "Sabrı tercih et",
+   "aciklama": "Bugün bir konuda kolay ama tercih edilmeyen bir yol yerine, sabrı gerektiren doğru yolu seç."
+  }
+ ],
+ "bugununAdimi": "Bugün, statü ya da imkân farkı gözetmeden birine eşit bir saygıyla davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=25"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/25"
+  }
+ ]
+}

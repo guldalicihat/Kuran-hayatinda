@@ -1,0 +1,173 @@
+{
+ "sure": 4,
+ "ayet": 22,
+ "durum": "taslak",
+ "meal": "Babalarınızın nikahladığı kadınlarla evlenmeyin; geçmişte olan başka. Şüphesiz bu, çirkin bir iş, nefret uyandıran bir davranış ve ne kötü bir yoldu.",
+ "mealNotu": "'Mekt' kökü öfkeyle karışık nefreti anlatır; 'selefe' ise İslam'dan önce geçmiş, artık hesaba katılmayan durumları ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...meyin",
+   "karsilik": "ve ... almayın"
+  },
+  {
+   "kelime": "تَنكِحُوا۟",
+   "okunus": "tenkihû",
+   "kok": "نكح",
+   "kokAnlam": "nikahlama, evlenme",
+   "karsilik": "nikahlamayın"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimi ki",
+   "karsilik": "kadınları ki"
+  },
+  {
+   "kelime": "نَكَحَ",
+   "okunus": "nekeha",
+   "kok": "نكح",
+   "kokAnlam": "nikahlama, evlenme",
+   "karsilik": "nikahladığı"
+  },
+  {
+   "kelime": "ءَابَآؤُكُم",
+   "okunus": "âbâüküm",
+   "kok": "أبو",
+   "kokAnlam": "baba",
+   "karsilik": "babalarınızın"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلنِّسَآءِ",
+   "okunus": "ennisâi",
+   "kok": "نسو",
+   "kokAnlam": "kadın",
+   "karsilik": "kadınlardan"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olan",
+   "karsilik": "olan"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "سَلَفَ",
+   "okunus": "selefe",
+   "kok": "سلف",
+   "kokAnlam": "geçmiş olma, önceden olma",
+   "karsilik": "geçmişte"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz o",
+   "karsilik": "şüphesiz bu"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dı"
+  },
+  {
+   "kelime": "فَٰحِشَةً",
+   "okunus": "fâhişeten",
+   "kok": "فحش",
+   "kokAnlam": "çirkinlik, aşırılık",
+   "karsilik": "çirkin bir iş"
+  },
+  {
+   "kelime": "وَمَقْتًا",
+   "okunus": "ve mekten",
+   "kok": "مقت",
+   "kokAnlam": "nefret, öfkeyle kızma",
+   "karsilik": "ve nefret uyandıran bir davranış"
+  },
+  {
+   "kelime": "وَسَآءَ",
+   "okunus": "ve sâe",
+   "kok": "سوأ",
+   "kokAnlam": "kötü olma, kötüleşme",
+   "karsilik": "ve ne kötü"
+  },
+  {
+   "kelime": "سَبِيلًا",
+   "okunus": "sebîlen",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "bir yoldu"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, klasik fıkhın evlenilmesi haram akrabalar listesinin ilk maddesini getirir: babanın nikahladığı bir kadınla evlenmek. Cahiliye döneminde babanın ölümü ya da boşanması sonrası dul kalan eşiyle oğlunun evlenmesi âdeti vardı; ayet bunu kesin olarak yasaklar.",
+  "'Selefe' ifadesiyle İslam öncesi yaşanmış durumlar hesaba katılmaz; bundan sonrası için hüküm nettir. Klasik fıkıh, bu ayeti evlenilmesi haram olan akrabalık dereceleri listesinin açılışı olarak açıklar; devamı bir sonraki ayette ayrıntılandırılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:23",
+   "meal": "Anneleriniz, kızlarınız, kız kardeşleriniz, halalarınız, teyzeleriniz haram kılındı.",
+   "baglanti": "22. ayet tek bir yasağı bildirir; 23. ayet haram kılınan akrabalık derecelerini ayrıntılı biçimde sıralayarak konuyu tamamlar."
+  },
+  {
+   "ref": "4:19",
+   "meal": "Ey iman edenler! Kadınlara zorla mirasçı olmanız size helal değildir.",
+   "baglanti": "Cahiliye âdetinde babanın dul eşi de mirasla birlikte oğula geçen bir mal gibi görülürdü; 4:22 bu âdetin uzantısı olan evliliği açıkça yasaklar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu özel bir evlilik yasağıdır; klasik fıkıh bunu haramlık dereceleri arasında sayar, günlük hayata birebir uygulanacak bir madde değildir.",
+  "Buradan çıkarılabilecek genel ders, geçmişte kabul görmüş ama yanlış bir âdeti sürdürmek yerine, doğru bilgi geldiğinde onu terk etmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yanlış âdeti sorgula",
+   "aciklama": "Çevrende süregelen ama doğru olmadığını bildiğin bir âdeti bugün fark et ve ona uymamayı seç."
+  },
+  {
+   "baslik": "Doğru bilgiye göre davran",
+   "aciklama": "Bir konuda öğrendiğin doğru bilgiyi, eski alışkanlığına rağmen bugün uygulamaya başla."
+  },
+  {
+   "baslik": "Aile sınırlarına saygı",
+   "aciklama": "Aile içi ilişkilerinde saygı ve sınır gerektiren bir konuyu bugün netleştir."
+  }
+ ],
+ "bugununAdimi": "Bugün, doğru olmadığını bildiğin bir âdeti bırakıp doğru bildiğin şekilde davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=22"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/22"
+  }
+ ]
+}

@@ -1,0 +1,348 @@
+{
+ "sure": 4,
+ "ayet": 24,
+ "durum": "taslak",
+ "meal": "Evli kadınlar da [size haramdır]; ancak ellerinizin altında sahip olduklarınız başka. Bu, Allah'ın size yazdığı bir hükümdür. Bunların dışında kalanlar, iffetli yaşamak ve zina etmemek şartıyla mallarınızla istemeniz için size helal kılındı. Onlardan yararlandığınız (nikahladığınız) kimselere ücretlerini (mehirlerini) farz olarak verin. Farz belirlendikten sonra aranızda gönül rızasıyla anlaştığınız bir şeyde size günah yoktur. Şüphesiz Allah, hakkıyla bilendir, hüküm ve hikmet sahibidir.",
+ "mealNotu": "'Muhsanât' kökü (حصن) korunmuşluk ve iffeti anlatır; burada başkasının nikâhı altındaki evli kadınları ifade eder. Ayetteki 'ellerinizin altında sahip olduklarınız' ifadesi, Kur'an'ın indiği dönemde var olan bir mülkiyet ilişkisine işaret eder; klasik fıkıh bu ifadeyi kölelik kurumunun o günkü tarihsel şartları içinde ele alır. Eksik yüklem için 'size haramdır' köşeli parantez içinde eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَٱلْمُحْصَنَٰتُ",
+   "okunus": "vel mühsanâtü",
+   "kok": "حصن",
+   "kokAnlam": "korunma, iffet; evli kadın",
+   "karsilik": "ve evli kadınlar"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلنِّسَآءِ",
+   "okunus": "ennisâi",
+   "kok": "نسو",
+   "kokAnlam": "kadın",
+   "karsilik": "kadınlardan"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olan",
+   "karsilik": "sahip olduğunuz"
+  },
+  {
+   "kelime": "مَلَكَتْ",
+   "okunus": "meleket",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, mülk edinme",
+   "karsilik": "sahip olduğu"
+  },
+  {
+   "kelime": "أَيْمَٰنُكُمْ",
+   "okunus": "eymânüküm",
+   "kok": "يمن",
+   "kokAnlam": "sağ el, yemin; mülkiyet",
+   "karsilik": "elleriniz(in altındaki)"
+  },
+  {
+   "kelime": "كِتَٰبَ",
+   "okunus": "kitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma, yazı",
+   "karsilik": "yazılmış bir hüküm(dür)"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "وَأُحِلَّ",
+   "okunus": "ve ühille",
+   "kok": "حلل",
+   "kokAnlam": "helal olma, çözülme",
+   "karsilik": "ve helal kılındı"
+  },
+  {
+   "kelime": "لَكُم",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olan",
+   "karsilik": "bunların dışında kalanlar"
+  },
+  {
+   "kelime": "وَرَآءَ",
+   "okunus": "verâe",
+   "kok": "وري",
+   "kokAnlam": "arka, öte",
+   "karsilik": "ötesinde"
+  },
+  {
+   "kelime": "ذَٰلِكُمْ",
+   "okunus": "zâliküm",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunlar",
+   "karsilik": "bunların"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -meniz",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "تَبْتَغُوا۟",
+   "okunus": "tebteğû",
+   "kok": "بغي",
+   "kokAnlam": "isteme, arama",
+   "karsilik": "istemeniz"
+  },
+  {
+   "kelime": "بِأَمْوَٰلِكُم",
+   "okunus": "biemvâliküm",
+   "kok": "مول",
+   "kokAnlam": "mal",
+   "karsilik": "mallarınızla"
+  },
+  {
+   "kelime": "مُّحْصِنِينَ",
+   "okunus": "mühsınîne",
+   "kok": "حصن",
+   "kokAnlam": "korunma, iffet; iffetli olarak",
+   "karsilik": "iffetli olarak"
+  },
+  {
+   "kelime": "غَيْرَ",
+   "okunus": "gayra",
+   "kok": "غير",
+   "kokAnlam": "başka, dışında",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "مُسَٰفِحِينَ",
+   "okunus": "müsâfihîne",
+   "kok": "سفح",
+   "kokAnlam": "yayma, akıtma; zina eden",
+   "karsilik": "zina eden"
+  },
+  {
+   "kelime": "فَمَا",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi+şart) o halde",
+   "karsilik": "o halde"
+  },
+  {
+   "kelime": "ٱسْتَمْتَعْتُم",
+   "okunus": "istemta'tüm",
+   "kok": "متع",
+   "kokAnlam": "yararlanma, faydalanma",
+   "karsilik": "yararlandığınız (nikahladığınız)"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onunla",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "مِنْهُنَّ",
+   "okunus": "minhünne",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "فَـَٔاتُوهُنَّ",
+   "okunus": "feâtûhünne",
+   "kok": "أتي",
+   "kokAnlam": "verme, getirme",
+   "karsilik": "onlara verin"
+  },
+  {
+   "kelime": "أُجُورَهُنَّ",
+   "okunus": "ücûrahünne",
+   "kok": "أجر",
+   "kokAnlam": "ücret, karşılık",
+   "karsilik": "ücretlerini (mehirlerini)"
+  },
+  {
+   "kelime": "فَرِيضَةً",
+   "okunus": "ferîdaten",
+   "kok": "فرض",
+   "kokAnlam": "farz kılma, belirleme",
+   "karsilik": "farz olarak"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yoktur",
+   "karsilik": "ve yoktur"
+  },
+  {
+   "kelime": "جُنَاحَ",
+   "okunus": "cünâha",
+   "kok": "جنح",
+   "kokAnlam": "eğilme; günah, sakınca",
+   "karsilik": "günah"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "فِيمَا",
+   "okunus": "fîmâ",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "تَرَٰضَيْتُم",
+   "okunus": "terâdaytüm",
+   "kok": "رضو",
+   "kokAnlam": "karşılıklı razı olma",
+   "karsilik": "gönül rızasıyla anlaştığınız"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "mim",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ٱلْفَرِيضَةِ",
+   "okunus": "elferîdati",
+   "kok": "فرض",
+   "kokAnlam": "farz kılma, belirleme",
+   "karsilik": "farz belirlendikten"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dır"
+  },
+  {
+   "kelime": "عَلِيمًا",
+   "okunus": "alîmen",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "hakkıyla bilendir"
+  },
+  {
+   "kelime": "حَكِيمًا",
+   "okunus": "hakîmen",
+   "kok": "حكم",
+   "kokAnlam": "hüküm, hikmet",
+   "karsilik": "hüküm ve hikmet sahibidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 23. ayetteki haram akrabalar listesinin ardından, başkasının nikâhı altındaki evli bir kadınla evlenmenin de haram olduğunu bildirir. Ayetteki istisna, Kur'an'ın indiği dönemde var olan bir mülkiyet ilişkisine işaret eder; klasik fıkıh bu ifadeyi kölelik kurumunun o günkü tarihsel şartları içinde ele alır.",
+  "Ayetin devamı, evlilikte mehrin farz, yani kesin bir hak olduğunu ve bunun ancak karşılıklı rızayla değiştirilebileceğini vurgular. 'Ferîda' kökü, mehri gönüllü bir jest değil, belirlenmiş bir yükümlülük olarak tanımlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:23",
+   "meal": "Anneleriniz, kızlarınız, kız kardeşleriniz haram kılındı; iki kız kardeşi birlikte nikâhınız altında toplamanız da haramdır.",
+   "baglanti": "23. ayet nesep, süt ve evlilik yoluyla haram olan akrabaları sayar; 24. ayet listeye başkasının nikâhındaki evli kadını ekleyerek devam eder."
+  },
+  {
+   "ref": "4:4",
+   "meal": "Kadınlara mehirlerini gönül hoşluğuyla verin.",
+   "baglanti": "24. ayetteki 'ücretlerini farz olarak verin' ifadesi, mehrin kadının kesin hakkı olduğunu bildiren 4:4 ile aynı ilkeyi taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu evlilik hukukunun bir başka maddesidir: başkasının nikâhındaki bir kadınla evlenmenin yasaklanması ve mehrin farz oluşu; bu, döneminin toplumsal ve hukuki şartlarıyla iç içedir.",
+  "Buradan çıkarılabilecek genel ders, bir hakkı 'farz', yani kesin bir yükümlülük olarak görmek ve karşılıklı rıza dışında o hakkı eksiltmemektir. Üstlenilen bir sorumluluğu gönülsüzce ihmal etmemek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yükümlülüğünü hatırla",
+   "aciklama": "Bir anlaşmada üstlendiğin, ihmal etmeye başladığın bir sorumluluğu bugün yerine getir."
+  },
+  {
+   "baslik": "Rızayı gözet",
+   "aciklama": "Bir konuda karşı tarafla anlaşırken bugün gerçek rızasını al, dayatma yapma."
+  },
+  {
+   "baslik": "Hakkı eksiltme",
+   "aciklama": "Birine borçlu olduğun bir hakkı gönülsüzlükle küçültme veya erteleme."
+  }
+ ],
+ "bugununAdimi": "Bugün, birine karşı üstlendiğin bir yükümlülüğü eksiksiz yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=24"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/24"
+  }
+ ]
+}

@@ -1,0 +1,432 @@
+{
+ "sure": 4,
+ "ayet": 23,
+ "durum": "taslak",
+ "meal": "Anneleriniz, kızlarınız, kız kardeşleriniz, halalarınız, teyzeleriniz, erkek kardeşinizin kızları, kız kardeşinizin kızları, sizi emziren anneleriniz, süt kız kardeşleriniz, eşlerinizin anneleri, kendileriyle zifafa girdiğiniz eşlerinizden olup himayenizde bulunan üvey kızlarınız size haram kılındı. Eğer o eşlerinizle zifafa girmemişseniz, size bir günah yoktur. Kendi sulbünüzden olan oğullarınızın eşleri de [haramdır]. İki kız kardeşi birlikte nikâhınız altında toplamanız da [haramdır]; geçmişte olan başka. Şüphesiz Allah çok bağışlayandır, çok merhametlidir.",
+ "mealNotu": "'Rabâib' kökü (ربب) burada eşin önceki evlilikten olan üvey kızını anlatır. Cümlede iki kez eksik yüklem olduğu için 'haramdır' iki yerde köşeli parantez içinde eklenmiştir. Klasik fıkıh bu ayeti, nesep, süt ve evlilik yoluyla haram olan akrabalık dereceleri listesi olarak açıklar.",
+ "kokler": [
+  {
+   "kelime": "حُرِّمَتْ",
+   "okunus": "hurrimet",
+   "kok": "حرم",
+   "kokAnlam": "yasaklama, haram kılma",
+   "karsilik": "haram kılındı"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "أُمَّهَٰتُكُمْ",
+   "okunus": "ümmehâtüküm",
+   "kok": "أمم",
+   "kokAnlam": "anne; topluluk",
+   "karsilik": "anneleriniz"
+  },
+  {
+   "kelime": "وَبَنَاتُكُمْ",
+   "okunus": "ve benâtüküm",
+   "kok": "بني",
+   "kokAnlam": "yapı, inşa; kız evlat",
+   "karsilik": "ve kızlarınız"
+  },
+  {
+   "kelime": "وَأَخَوَٰتُكُم",
+   "okunus": "ve ehavâtüküm",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "ve kız kardeşleriniz"
+  },
+  {
+   "kelime": "وَعَمَّٰتُكُمْ",
+   "okunus": "ve ammâtüküm",
+   "kok": "عمم",
+   "kokAnlam": "genellik; babanın kız kardeşi, hala",
+   "karsilik": "ve halalarınız"
+  },
+  {
+   "kelime": "وَخَٰلَٰتُكُمْ",
+   "okunus": "ve hâlâtüküm",
+   "kok": "خول",
+   "kokAnlam": "velilik; annenin kız kardeşi, teyze",
+   "karsilik": "ve teyzeleriniz"
+  },
+  {
+   "kelime": "وَبَنَاتُ",
+   "okunus": "ve benâtü",
+   "kok": "بني",
+   "kokAnlam": "yapı, inşa; kız evlat",
+   "karsilik": "ve kızları"
+  },
+  {
+   "kelime": "ٱلْأَخِ",
+   "okunus": "el'ehı",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "erkek kardeşin"
+  },
+  {
+   "kelime": "وَبَنَاتُ",
+   "okunus": "ve benâtü",
+   "kok": "بني",
+   "kokAnlam": "yapı, inşa; kız evlat",
+   "karsilik": "ve kızları"
+  },
+  {
+   "kelime": "ٱلْأُخْتِ",
+   "okunus": "el'ühti",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "kız kardeşin"
+  },
+  {
+   "kelime": "وَأُمَّهَٰتُكُمُ",
+   "okunus": "ve ümmehâtükümü",
+   "kok": "أمم",
+   "kokAnlam": "anne; topluluk",
+   "karsilik": "ve anneleriniz"
+  },
+  {
+   "kelime": "ٱلَّٰتِى",
+   "okunus": "ellâtî",
+   "kok": "—",
+   "kokAnlam": "(ilgi, dişi çoğul) olanlar",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "أَرْضَعْنَكُمْ",
+   "okunus": "erda'neküm",
+   "kok": "رضع",
+   "kokAnlam": "emzirme, süt emme",
+   "karsilik": "sizi emzirdiler"
+  },
+  {
+   "kelime": "وَأَخَوَٰتُكُم",
+   "okunus": "ve ehavâtüküm",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "ve kız kardeşleriniz"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلرَّضَٰعَةِ",
+   "okunus": "erradâati",
+   "kok": "رضع",
+   "kokAnlam": "emzirme, süt emme",
+   "karsilik": "süt emme"
+  },
+  {
+   "kelime": "وَأُمَّهَٰتُ",
+   "okunus": "ve ümmehâtü",
+   "kok": "أمم",
+   "kokAnlam": "anne; topluluk",
+   "karsilik": "ve anneleri"
+  },
+  {
+   "kelime": "نِّسَآئِكُمُ",
+   "okunus": "nisâiküm",
+   "kok": "نسو",
+   "kokAnlam": "kadın, eş",
+   "karsilik": "eşlerinizin"
+  },
+  {
+   "kelime": "وَرَبَٰٓئِبُكُمُ",
+   "okunus": "ve rabâibükümü",
+   "kok": "ربب",
+   "kokAnlam": "sahiplik, yetiştirme; üvey kız",
+   "karsilik": "ve üvey kızlarınız"
+  },
+  {
+   "kelime": "ٱلَّٰتِى",
+   "okunus": "ellâtî",
+   "kok": "—",
+   "kokAnlam": "(ilgi, dişi) olan",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "حُجُورِكُم",
+   "okunus": "hucûriküm",
+   "kok": "حجر",
+   "kokAnlam": "kucak; himaye, koruma altı",
+   "karsilik": "himayenizde"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "نِّسَآئِكُمُ",
+   "okunus": "nisâikümü",
+   "kok": "نسو",
+   "kokAnlam": "kadın, eş",
+   "karsilik": "eşlerinizden"
+  },
+  {
+   "kelime": "ٱلَّٰتِى",
+   "okunus": "ellâtî",
+   "kok": "—",
+   "kokAnlam": "(ilgi, dişi) olan",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "دَخَلْتُم",
+   "okunus": "dehaltüm",
+   "kok": "دخل",
+   "kokAnlam": "girme; zifafa girme",
+   "karsilik": "zifafa girdiğiniz"
+  },
+  {
+   "kelime": "بِهِنَّ",
+   "okunus": "bihinne",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlarla",
+   "karsilik": "onlarla"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) henüz olmamış",
+   "karsilik": "-memişseniz"
+  },
+  {
+   "kelime": "تَكُونُوا۟",
+   "okunus": "tekûnû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmadıysanız"
+  },
+  {
+   "kelime": "دَخَلْتُم",
+   "okunus": "dehaltüm",
+   "kok": "دخل",
+   "kokAnlam": "girme; zifafa girme",
+   "karsilik": "zifafa girmiş"
+  },
+  {
+   "kelime": "بِهِنَّ",
+   "okunus": "bihinne",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlarla",
+   "karsilik": "onlarla"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yoktur",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "جُنَاحَ",
+   "okunus": "cünâha",
+   "kok": "جنح",
+   "kokAnlam": "eğilme; günah, sakınca",
+   "karsilik": "günah"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "وَحَلَٰٓئِلُ",
+   "okunus": "ve halâilü",
+   "kok": "حلل",
+   "kokAnlam": "çözülme; helal olan eş",
+   "karsilik": "ve eşleri"
+  },
+  {
+   "kelime": "أَبْنَآئِكُمُ",
+   "okunus": "ebnâikümü",
+   "kok": "بني",
+   "kokAnlam": "yapı, inşa; erkek evlat",
+   "karsilik": "oğullarınızın"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olanlar",
+   "karsilik": "ki olan"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَصْلَٰبِكُمْ",
+   "okunus": "aslâbiküm",
+   "kok": "صلب",
+   "kokAnlam": "sertlik; sırt, öz soy",
+   "karsilik": "kendi sulbünüzden"
+  },
+  {
+   "kelime": "وَأَن",
+   "okunus": "ve en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ve ...meniz",
+   "karsilik": "ve ... [haramdır]"
+  },
+  {
+   "kelime": "تَجْمَعُوا۟",
+   "okunus": "tecmeû",
+   "kok": "جمع",
+   "kokAnlam": "toplama, bir araya getirme",
+   "karsilik": "bir araya getirmeniz"
+  },
+  {
+   "kelime": "بَيْنَ",
+   "okunus": "beyne",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında",
+   "karsilik": "arasını"
+  },
+  {
+   "kelime": "ٱلْأُخْتَيْنِ",
+   "okunus": "el'ühteyni",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "iki kız kardeşin"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olan",
+   "karsilik": "olan"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "سَلَفَ",
+   "okunus": "selefe",
+   "kok": "سلف",
+   "kokAnlam": "geçmiş olma, önceden olma",
+   "karsilik": "geçmişte olan"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dır"
+  },
+  {
+   "kelime": "غَفُورًا",
+   "okunus": "gafûran",
+   "kok": "غفر",
+   "kokAnlam": "örtme, bağışlama",
+   "karsilik": "çok bağışlayan"
+  },
+  {
+   "kelime": "رَّحِيمًا",
+   "okunus": "rahîmen",
+   "kok": "رحم",
+   "kokAnlam": "merhamet",
+   "karsilik": "çok merhametli"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 22. ayette başlayan haram akrabalık listesini nesep (kan bağı), süt emme ve evlilik yoluyla oluşan yakınlıklar üzerinden ayrıntılandırır. Anne, kız, kız kardeş, hala, teyze, yeğen gibi kan bağı yakınlarının yanında, süt anne ve süt kız kardeş gibi süt yoluyla oluşan yakınlıklar da sayılır.",
+  "Ayet ayrıca eşin annesini, zifafa girilmiş eşten olan üvey kızı, oğlun eşini ve iki kız kardeşi aynı anda nikahlamayı da haram kılar. Klasik fıkıh bu listeyi süresiz haram olanlar ve geçici haram olanlar (iki kız kardeşi bir arada nikahlamak gibi, boşanma veya ölümle kalkabilen) olarak ikiye ayırır; ayetin sonundaki bağışlama vurgusu geçmişte bilmeden yapılan uygulamalara işaret eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:22",
+   "meal": "Babalarınızın nikahladığı kadınlarla evlenmeyin; geçmişte olan başka.",
+   "baglanti": "22. ayet listenin ilk maddesini verir; 23. ayet bunu nesep, süt ve evlilik yoluyla oluşan diğer yakın akrabalarla genişletir."
+  },
+  {
+   "ref": "4:24",
+   "meal": "Evli kadınlar da haramdır; ancak sahip olduklarınız başka. Bu, Allah'ın size yazdığı bir hükümdür.",
+   "baglanti": "23. ayet kimlerle evlenilemeyeceğini sayar; 24. ayet bu listenin dışında kalan kadınlarla evliliğin şartlarını anlatarak konuyu tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, İslam hukukunun evlenilmesi haram akrabalık derecelerini belirlemesidir; bu, günümüzde de aile hukukunda geçerliliğini koruyan özel bir alandır.",
+  "Buradan çıkarılabilecek genel ders, aile içi ilişkilerde net sınırların güven ve düzeni koruduğudur. Belirsiz veya sınırı zorlayan bir yakınlık yerine, açık ve düzenli bir aile yapısı kurmak hem bireyi hem toplumu korur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Aile sınırlarını öğren",
+   "aciklama": "Kendi ailende hangi yakınlıkların evlilik açısından haram sayıldığını bugün netleştir."
+  },
+  {
+   "baslik": "Süt kardeşliğini hatırla",
+   "aciklama": "Çocuğunu emziren ya da emzirdiğin bir aile varsa, oluşan süt yakınlığını bugün ailece konuş."
+  },
+  {
+   "baslik": "Net sınır koy",
+   "aciklama": "Aile içi bir ilişkide belirsiz kalmış bir sınırı bugün açıkça konuşarak netleştir."
+  }
+ ],
+ "bugununAdimi": "Bugün ailende evlilik açısından haram olan yakınlık derecelerini bir kez gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=23"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/23"
+  }
+ ]
+}

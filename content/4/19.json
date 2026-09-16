@@ -1,0 +1,292 @@
+{
+ "sure": 4,
+ "ayet": 19,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Kadınlara zorla mirasçı olmanız size helal değildir. Onlara verdiklerinizin bir kısmını geri almak için onları sıkıştırmayın; açık bir çirkin iş yapmaları başka. Onlarla iyilikle geçinin. Eğer onlardan hoşlanmazsanız, [bilin ki] hoşlanmadığınız bir şeyde Allah çok hayır yaratmış olabilir.",
+ "mealNotu": "'Kerhen' kökü zorlamayı, isteksizliği anlatır; ayet hem kadına zorla mirasçı olmayı hem de mehrini geri almak için onu sıkıştırmayı yasaklar. Cümlede özne belirsiz olduğundan 'bilin ki' köşeli parantez içinde eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olanlar",
+   "karsilik": "-olanlar"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "يَحِلُّ",
+   "okunus": "yehillü",
+   "kok": "حلل",
+   "kokAnlam": "helal olma, çözülme",
+   "karsilik": "helal"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesi",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "تَرِثُوا۟",
+   "okunus": "terisû",
+   "kok": "ورث",
+   "kokAnlam": "mirasçı olma, kalıt alma",
+   "karsilik": "mirasçı olmanız"
+  },
+  {
+   "kelime": "ٱلنِّسَآءَ",
+   "okunus": "ennisâe",
+   "kok": "نسو",
+   "kokAnlam": "kadın",
+   "karsilik": "kadınlara"
+  },
+  {
+   "kelime": "كَرْهًا",
+   "okunus": "kerhen",
+   "kok": "كره",
+   "kokAnlam": "zorlama, hoşlanmama",
+   "karsilik": "zorla"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...meyin",
+   "karsilik": "ve ... -meyin"
+  },
+  {
+   "kelime": "تَعْضُلُوهُنَّ",
+   "okunus": "ta'dulûhünne",
+   "kok": "عضل",
+   "kokAnlam": "engelleme, sıkıştırma",
+   "karsilik": "onları sıkıştırmayın"
+  },
+  {
+   "kelime": "لِتَذْهَبُوا۟",
+   "okunus": "litezhebû",
+   "kok": "ذهب",
+   "kokAnlam": "gitme, götürme",
+   "karsilik": "geri almak için"
+  },
+  {
+   "kelime": "بِبَعْضِ",
+   "okunus": "biba'dı",
+   "kok": "بعض",
+   "kokAnlam": "bir kısım, parça",
+   "karsilik": "bir kısmını"
+  },
+  {
+   "kelime": "مَآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şeyin"
+  },
+  {
+   "kelime": "ءَاتَيْتُمُوهُنَّ",
+   "okunus": "âteytümûhünne",
+   "kok": "أتي",
+   "kokAnlam": "verme, getirme",
+   "karsilik": "onlara verdiğiniz"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesi",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "يَأْتِينَ",
+   "okunus": "ye'tîne",
+   "kok": "أتي",
+   "kokAnlam": "gelme, yapma",
+   "karsilik": "yapmaları"
+  },
+  {
+   "kelime": "بِفَٰحِشَةٍ",
+   "okunus": "bifâhişetin",
+   "kok": "فحش",
+   "kokAnlam": "çirkinlik, aşırılık",
+   "karsilik": "açık bir çirkin iş"
+  },
+  {
+   "kelime": "مُّبَيِّنَةٍ",
+   "okunus": "mübeyyinetin",
+   "kok": "بين",
+   "kokAnlam": "açığa çıkma, açıklık",
+   "karsilik": "açık"
+  },
+  {
+   "kelime": "وَعَاشِرُوهُنَّ",
+   "okunus": "ve âşirûhünne",
+   "kok": "عشر",
+   "kokAnlam": "birlikte yaşama, geçinme",
+   "karsilik": "onlarla geçinin"
+  },
+  {
+   "kelime": "بِٱلْمَعْرُوفِ",
+   "okunus": "bil ma'rûfi",
+   "kok": "عرف",
+   "kokAnlam": "bilinen iyilik, örf",
+   "karsilik": "iyilikle"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَرِهْتُمُوهُنَّ",
+   "okunus": "kerihtümûhünne",
+   "kok": "كره",
+   "kokAnlam": "hoşlanmama, nefret",
+   "karsilik": "onlardan hoşlanmazsanız"
+  },
+  {
+   "kelime": "فَعَسَىٰٓ",
+   "okunus": "feasâ",
+   "kok": "عسي",
+   "kokAnlam": "umulur ki, olabilir",
+   "karsilik": "olabilir ki"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesi",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "تَكْرَهُوا۟",
+   "okunus": "tekrahû",
+   "kok": "كره",
+   "kokAnlam": "hoşlanmama, nefret",
+   "karsilik": "hoşlanmadığınız"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "bir şeyde"
+  },
+  {
+   "kelime": "وَيَجْعَلَ",
+   "okunus": "ve yec'ale",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "yaratmış olsun"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "خَيْرًا",
+   "okunus": "hayran",
+   "kok": "خير",
+   "kokAnlam": "hayır, iyilik",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "كَثِيرًا",
+   "okunus": "kesîran",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "çok"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, cahiliye döneminde kadının kendisinin bir miras malı gibi görülüp zorla nikahlanmasını ya da başkasıyla evlendirilmesini yasaklar. 'Kerhen' kökü, kadının rızası olmadan yapılan bir davranışı anlatır.",
+  "Ayrıca, kadına verilen mehrin bir kısmını geri almak için onu sıkıştırmak da yasaklanır; bu ancak açık bir çirkin davranışı varsa istisnadır. Ayetin sonu, anlık bir hoşnutsuzlukla acele karar vermemeyi öğütler; Allah'ın hoşlanılmayan bir durumda bile gizli bir hayır yaratabileceği hatırlatılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:4",
+   "meal": "Kadınlara mehirlerini gönül hoşluğuyla verin. Eğer gönül rızasıyla ondan bir kısmını size bağışlarlarsa, onu afiyetle için.",
+   "baglanti": "19. ayetteki 'verdiklerinizi geri almak için sıkıştırmayın' uyarısı, mehrin kadının hakkı olduğunu bildiren 4:4 ile birleşir."
+  },
+  {
+   "ref": "4:20",
+   "meal": "Bir eşin yerine başka bir eş almak isterseniz, ona yüklerle mal vermiş olsanız bile ondan hiçbir şey almayın.",
+   "baglanti": "19. ayetteki genel ilke, 20. ayette eş değiştirme durumu üzerinden somut bir örnekle pekiştirilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu evlilik ve mehir hukukudur; kadını zorla mirasçı olma nesnesi gibi görmeyi ve mehrini geri almak için sıkıştırmayı yasaklar.",
+  "Buradan çıkarılabilecek genel ders, bir ilişkide anlık hoşnutsuzlukla acele karar vermemek ve başkasının hakkı olan bir şeyi baskıyla geri almaya çalışmamaktır. Sabırlı ve adil davranış, görünmeyen bir hayrı da beraberinde getirebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Baskı kurma",
+   "aciklama": "Bugün yakınında olan birine, hakkı olan bir şeyi geri almak için baskı uygulama."
+  },
+  {
+   "baslik": "Acele karar verme",
+   "aciklama": "Bir ilişkide hoşnutsuzluk hissettiğinde bugün hemen kopmak yerine, bir gün düşünme payı tanı."
+  },
+  {
+   "baslik": "Gizli hayrı ara",
+   "aciklama": "Hoşlanmadığın bir durumda bugün, o durumun sende bıraktığı olası bir olumlu yanı bulmaya çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda anlık hoşnutsuzlukla acele karar vermeden önce bir gün bekle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=4&verse=19"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/4/19"
+  }
+ ]
+}
