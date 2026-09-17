@@ -20,7 +20,7 @@ alanlarından türetilir; uydurma veya ayet dışı bir mesaj eklenmez.
 | Facebook | "Tam açıklama: {link}" | Link doğrudan gönderiye konur. |
 | Instagram | "Tam açıklama ve bugünün adımı → bio'daki link." | Instagram caption'da tıklanabilir link çalışmaz; her zaman bio linkine yönlendirilir. |
 
-Link biçimi: `https://guldalicihat.github.io/Kuran-hayatinda/#/sure/{sure}/{ayet}`
+Link biçimi: `https://kuranhayatimda.com/#/sure/{sure}/{ayet}`
 
 ## Ek kurallar
 - Her gönderide **tam olarak bir** ayet işlenir; birden fazla ayet karıştırılmaz.

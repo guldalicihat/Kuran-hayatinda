@@ -24,6 +24,8 @@ jobs:
       - run: python3 scripts/check_data.py
       - run: npm ci
       - run: npm run build
+        env:
+          VITE_BASE: /   # özel alan adı (kuranhayatimda.com): site kök yolda yayınlanır
       - uses: actions/upload-pages-artifact@v3
         with: { path: dist }
   deploy:

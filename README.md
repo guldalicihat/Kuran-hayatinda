@@ -2,7 +2,7 @@
 
 Tüm sureler ve ayetler için Arapça metin, Türkçe okunuş, kök temelli meal ve günlük hayata bağlanan açıklamalar sunan, mobil görünümlü ve çevrimdışı çalışabilen web sitesi.
 
-Site: https://guldalicihat.github.io/Kuran-hayatinda/
+Site: https://kuranhayatimda.com/ (eski adres https://guldalicihat.github.io/Kuran-hayatinda/ buraya yönlenir)
 
 ## Özellikler
 - Sure listesi: Mushaf sırası veya iniş sırası (Mekki / Medeni bölümlü), Türkçe ad ve anlam, ayet sayısı.
@@ -35,6 +35,12 @@ npm install
 npm run dev
 ```
 `npm run build` üretim çıktısını `dist/` altına yazar. `main` dalına her gönderimde GitHub Actions siteyi yayınlar.
+
+## Alan adı
+Site GitHub Pages üzerinde `kuranhayatimda.com` özel alan adıyla yayınlanır (`public/CNAME`; derlemede `VITE_BASE=/`).
+DNS (alan adı sağlayıcısında): `@` için A kayıtları `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`;
+`www` için CNAME `guldalicihat.github.io`. HTTPS sertifikasını GitHub Pages otomatik verir (Settings → Pages → Enforce HTTPS).
+`kuranhayatimda.com.tr` sağlayıcı tarafında `https://kuranhayatimda.com` adresine yönlendirilir.
 
 ## Toplu içerik üretimi
 `scripts/generate_content.py` tüm ayetler için kök temelli meal ve açıklama üretir (Claude Message Batches API, %50 indirimli).
