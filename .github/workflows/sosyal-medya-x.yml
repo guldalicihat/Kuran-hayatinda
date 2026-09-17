@@ -1,8 +1,12 @@
 name: X'te otomatik paylaşım
 on:
   schedule:
-    # 08:00 ve 20:00 İstanbul saati (UTC+3) = 05:00 ve 17:00 UTC
+    # Günde 5 kez, İstanbul saatiyle (UTC+3) 08:00 - 11:00 - 14:00 - 17:00 - 20:00
+    # = UTC 05:00 - 08:00 - 11:00 - 14:00 - 17:00
     - cron: '0 5 * * *'
+    - cron: '0 8 * * *'
+    - cron: '0 11 * * *'
+    - cron: '0 14 * * *'
     - cron: '0 17 * * *'
   workflow_dispatch:
     inputs:
