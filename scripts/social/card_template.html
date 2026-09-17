@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html,body { width:1080px; height:1080px; }
+  body {
+    font-family: Georgia, 'Times New Roman', serif;
+    background:
+      radial-gradient(circle at 18% 12%, rgba(240,185,78,0.10), transparent 42%),
+      radial-gradient(circle at 85% 88%, rgba(240,185,78,0.08), transparent 45%),
+      linear-gradient(160deg, #1a1410 0%, #241c15 45%, #17120d 100%);
+    width:1080px; height:1080px;
+    position:relative;
+    overflow:hidden;
+  }
+  .frame {
+    position:absolute;
+    top:44px; left:44px; right:44px; bottom:44px;
+    border:1.5px solid rgba(240,185,78,0.55);
+  }
+  .corner {
+    position:absolute;
+    width:34px; height:34px;
+    border-color:#f0b94e;
+  }
+  .corner.tl { top:-1.5px; left:-1.5px; border-top:3px solid #f0b94e; border-left:3px solid #f0b94e; }
+  .corner.br { bottom:-1.5px; right:-1.5px; border-bottom:3px solid #f0b94e; border-right:3px solid #f0b94e; }
+
+  .brand {
+    position:absolute;
+    top:78px; left:0; right:0;
+    text-align:center;
+  }
+  .crescent {
+    display:inline-block;
+    width:30px; height:30px;
+    margin-bottom:10px;
+  }
+  .wordmark {
+    color:#e8c877;
+    font-size:21px;
+    letter-spacing:6px;
+    font-weight:700;
+    text-transform:uppercase;
+  }
+  .tagline {
+    margin-top:8px;
+    color:rgba(232,200,119,0.65);
+    font-size:14px;
+    letter-spacing:3px;
+    font-style:italic;
+    text-transform:uppercase;
+  }
+
+  .hook {
+    position:absolute;
+    top:0; left:110px; right:110px; bottom:0;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+  }
+  .hook p {
+    color:#f4ecdd;
+    font-size:50px;
+    line-height:1.45;
+    font-weight:400;
+  }
+  .hook em {
+    color:#f0b94e;
+    font-weight:700;
+    font-style:normal;
+  }
+
+  .footer {
+    position:absolute;
+    bottom:96px; left:0; right:0;
+    text-align:center;
+  }
+  .hr {
+    width:70px; height:1px;
+    background:rgba(240,185,78,0.5);
+    margin:0 auto 26px;
+  }
+  .cta {
+    display:inline-block;
+    background:linear-gradient(135deg,#f0b94e,#d99a2b);
+    color:#1a1410;
+    font-size:17px;
+    font-weight:700;
+    letter-spacing:2px;
+    padding:14px 34px;
+    border-radius:999px;
+  }
+</style>
+</head>
+<body>
+  <div class="frame">
+    <div class="corner tl"></div>
+    <div class="corner br"></div>
+  </div>
+
+  <div class="brand">
+    <svg class="crescent" viewBox="0 0 100 100">
+      <path d="M62 15 A38 38 0 1 0 62 85 A30 30 0 1 1 62 15 Z" fill="#e8c877"/>
+    </svg>
+    <div class="wordmark">Kur'an Hayatında</div>
+    <div class="tagline">Huzurun Doğru Yolu</div>
+  </div>
+
+  <div class="hook">
+    <p>{{SORU_HTML}}</p>
+  </div>
+
+  <div class="footer">
+    <div class="hr"></div>
+    <div class="cta">CEVAP AÇIKLAMADA</div>
+  </div>
+</body>
+</html>

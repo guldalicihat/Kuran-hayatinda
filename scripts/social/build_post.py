@@ -44,6 +44,40 @@ def gunluk_hayat_teaser(content):
     paragraf = gh[1] if len(gh) > 1 else gh[0]
     return first_sentence(paragraf)
 
+X_LIMIT = 280
+X_LINK_WEIGHT = 23  # X (t.co) her linki uzunluğundan bağımsız 23 karakter sayar
+
+
+def build_x_short(post):
+    """X'in standart (ücretsiz) hesap sınırı 280 karaktere sığan kısa format.
+    Meal, sabit kısımlardan (köprü+ref+link+hashtag) arta kalan bütçeye göre kısaltılır."""
+    s, a = post['sure'], post['ayet']
+    ch = load_chapter(s)
+    content = load_content(s, a)
+    ref = f"{ch['ad']} {a}"
+    link = SITE.format(s=s, a=a)
+    hashtag = "#Kuran #KuranHayatında"
+    koprusor = post['koprusor']
+    if len(koprusor) > 40:
+        koprusor = "Peki Kur'an bu konuda ne diyor?"
+
+    if not content:
+        return None
+    meal = content['meal']
+
+    def gövde_ile(m):
+        return f"{koprusor}\n\n\"{m}\"\n({ref})\n\n{link}\n\n{hashtag}"
+
+    sabit_uzunluk = len(gövde_ile('')) - len(link) + X_LINK_WEIGHT
+    butce = X_LIMIT - sabit_uzunluk
+
+    if len(meal) > butce:
+        kirpik = meal[:max(butce - 1, 0)].rsplit(' ', 1)[0] + '…'
+        meal = kirpik
+
+    return gövde_ile(meal)
+
+
 def build(post):
     s, a = post['sure'], post['ayet']
     ch = load_chapter(s)
@@ -66,6 +100,7 @@ def build(post):
     return {
         "sure": s, "ayet": a, "ref": ref, "soru": post['soru'],
         "gorsel_metni": post['soru'],
+        "x_kisa": build_x_short(post),
         "x": f"{gövde}\n\nDetaylı açıklama ve bugünün adımı için siteye bak: {link}\n\n{hashtags}",
         "facebook": f"{gövde}\n\nDetaylı açıklama ve bugünün adımı için siteye bak: {link}\n\n{hashtags}",
         "instagram": f"{gövde}\n\nDetaylı açıklama ve bugünün adımı için: {SITE_ADI} — {ref}\n\n{hashtags}",
@@ -91,8 +126,16 @@ def main():
     for post in posts:
         b = build(post)
         print(f"\n{'='*60}\n{b['ref']}  |  GÖRSEL: \"{b['gorsel_metni']}\"\n{'='*60}")
-        for plat in ('x', 'facebook', 'instagram'):
-            print(f"\n--- {plat.upper()} (caption) ---\n{b[plat]}")
+        link = SITE.format(s=b['sure'], a=b['ayet'])
+        for plat in ('x_kisa', 'x', 'facebook', 'instagram'):
+            if plat == 'x_kisa':
+                etiket = 'X (standart, X-ağırlıklı uzunluk)'
+                agirlikli = len(b[plat]) - len(link) + X_LINK_WEIGHT
+                uzunluk_notu = f"{agirlikli}/280 krk (X'in link=23 krk sayımıyla)"
+            else:
+                etiket = plat.upper()
+                uzunluk_notu = f"{len(b[plat])} krk"
+            print(f"\n--- {etiket} (caption, {uzunluk_notu}) ---\n{b[plat]}")
 
 if __name__ == '__main__':
     main()

@@ -1,0 +1,47 @@
+name: X'te otomatik paylaşım
+on:
+  schedule:
+    # 08:00 ve 20:00 İstanbul saati (UTC+3) = 05:00 ve 17:00 UTC
+    - cron: '0 5 * * *'
+    - cron: '0 17 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Gerçekten paylaşmadan sadece dene (dry-run)'
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: sosyal-medya-x
+  cancel-in-progress: false
+jobs:
+  paylas:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install tweepy playwright
+      - run: playwright install --with-deps chromium
+      - name: Sıradaki onaylı postu X'e paylaş
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            python3 scripts/social/publish_x.py --dry-run
+          else
+            python3 scripts/social/publish_x.py
+          fi
+      - name: Paylaşım kaydını commit'le
+        run: |
+          git config user.name "kuran-hayatinda-bot"
+          git config user.email "actions@github.com"
+          if ! git diff --quiet -- social/posted_log.json; then
+            git add social/posted_log.json
+            git commit -m "Sosyal medya: X paylaşım kaydı güncellendi [otomatik]"
+            git push
+          fi
