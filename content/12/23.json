@@ -1,0 +1,215 @@
+{
+ "sure": 12,
+ "ayet": 23,
+ "durum": "taslak",
+ "meal": "Evinde bulunduğu kadın, onu kendi nefsinden istedi/ondan murat almak istedi ve kapıları sımsıkı kilitledi, 'Haydi gel' dedi. Yûsuf: 'Allah'a sığınırım! Şüphesiz o (efendim), bana güzel davrandı, beni onurlu bir yerde tuttu. Gerçekten zalimler kurtuluşa eremez' dedi.",
+ "mealNotu": "'Râvedet' kökü (رود) bir kişiyi ısrarla ve gizlice bir isteğe yöneltmeye çalışmayı anlatır; ayet olayı doğrudan tasvir etmez, kısa ve dolaylı bir dille aktarır. 'Rabbî' (benim efendim) ifadesini klasik tefsir çoğunlukla Yûsuf'un efendisi (Azîz) olarak açıklar, bu yüzden [efendim] karşılığı verilmiştir; Allah'ı kastettiğine dair görüşler de vardır.",
+ "kokler": [
+  {
+   "kelime": "وَرَٰوَدَتْهُ",
+   "okunus": "ve râvedethü",
+   "kok": "رود",
+   "kokAnlam": "isteme, ayartmaya çalışma",
+   "karsilik": "onu nefsinden istedi"
+  },
+  {
+   "kelime": "ٱلَّتِى",
+   "okunus": "elletî",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "kadın ki"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat, 'içinde'",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "بَيْتِهَا",
+   "okunus": "beytihâ",
+   "kok": "بيت",
+   "kokAnlam": "ev",
+   "karsilik": "onun evinin"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "edat, '-den'",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "نَّفْسِهِۦ",
+   "okunus": "nefsihî",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendisi",
+   "karsilik": "kendi nefsinden"
+  },
+  {
+   "kelime": "وَغَلَّقَتِ",
+   "okunus": "ve gallekati",
+   "kok": "غلق",
+   "kokAnlam": "kilitleme, kapatma",
+   "karsilik": "ve kilitledi"
+  },
+  {
+   "kelime": "ٱلْأَبْوَٰبَ",
+   "okunus": "el'ebvâbe",
+   "kok": "بوب",
+   "kokAnlam": "kapı(lar)",
+   "karsilik": "kapıları"
+  },
+  {
+   "kelime": "وَقَالَتْ",
+   "okunus": "ve kâlet",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "ve dedi"
+  },
+  {
+   "kelime": "هَيْتَ",
+   "okunus": "heyte",
+   "kok": "هيت",
+   "kokAnlam": "'haydi gel' (davet nidası)",
+   "karsilik": "haydi gel"
+  },
+  {
+   "kelime": "لَكَ",
+   "okunus": "leke",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "مَعَاذَ",
+   "okunus": "meâze",
+   "kok": "عوذ",
+   "kokAnlam": "sığınma",
+   "karsilik": "sığınırım"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "te'kid, 'şüphesiz o'",
+   "karsilik": "şüphesiz o"
+  },
+  {
+   "kelime": "رَبِّىٓ",
+   "okunus": "rabbî",
+   "kok": "ربب",
+   "kokAnlam": "rab, efendi",
+   "karsilik": "benim efendim"
+  },
+  {
+   "kelime": "أَحْسَنَ",
+   "okunus": "ahsene",
+   "kok": "حسن",
+   "kokAnlam": "iyi/güzel davranma",
+   "karsilik": "güzel davrandı"
+  },
+  {
+   "kelime": "مَثْوَاىَ",
+   "okunus": "mesvâye",
+   "kok": "ثوي",
+   "kokAnlam": "kalınacak yer, ikamet",
+   "karsilik": "benim kalışımı"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "te'kid, 'şüphesiz'",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-maz"
+  },
+  {
+   "kelime": "يُفْلِحُ",
+   "okunus": "yüflihu",
+   "kok": "فلح",
+   "kokAnlam": "kurtuluşa erme, felaha erme",
+   "karsilik": "kurtuluşa erer"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمُونَ",
+   "okunus": "ezzâlimûne",
+   "kok": "ظلم",
+   "kokAnlam": "zulüm yapma",
+   "karsilik": "zalimler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Yûsuf suresinin 'Ahsenü'l-Kasas' (en güzel kıssa) olarak anıldığı en hassas sahnesini açar: Yûsuf'un içinde bulunduğu evin hanımı ona yönelir, kapıları kilitler ve onu davet eder. Ayet bunu son derece kısa ve iffetli bir dille, hiçbir ayrıntıya girmeden anlatır.",
+  "Yûsuf'un cevabı iki katmanlıdır: Önce Allah'a sığınır ('meâzallâh'), sonra da kendisine iyi davranan efendisine karşı bir vefa bilinciyle bunu reddeder. Son cümle ('zalimler kurtuluşa eremez') Yûsuf'un bu daveti kabul etmenin bir haksızlık olacağını gördüğünü, kararının hem imana hem ahlaka dayandığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "12:24",
+   "meal": "Andolsun kadın ona yöneldi; eğer Rabbinin apaçık delilini görmemiş olsaydı o da ona yönelirdi. İşte böylece ondan kötülüğü ve çirkinliği uzaklaştıralım diye (ona bu delili gösterdik). Şüphesiz o, bizim ihlasa erdirilmiş kullarımızdandı.",
+   "baglanti": "23. ayette anlatılan davet ve reddediş sahnesinin hemen ardından gelen bu ayet, Yûsuf'un içinde yaşadığı sınavın şiddetini ve Allah'ın onu nasıl koruduğunu tamamlayıcı biçimde anlatır."
+  },
+  {
+   "ref": "24:30",
+   "meal": "Mümin erkeklere söyle, gözlerini (harama bakmaktan) sakınsınlar ve iffetlerini korusunlar. Bu, onlar için daha temizdir. Şüphesiz Allah, onların yaptıklarından haberdardır.",
+   "baglanti": "Başka bir surede gelen bu genel iffet emri, 12:23'te Yûsuf'un bizzat sergilediği tavrın, yani bir davete karşı iffeti koruma tutumunun, mü'minler için de bir ilke olarak konduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Yûsuf'un çok özel ve ağır bir ayartılma anıyla karşılaşması ve buna karşı verdiği net tavırdır; bu, bir peygamberin iffetine dair özel bir sınavdır.",
+  "Buradan çıkan genel ders, bir kişinin haksız veya yanlış bir isteğe karşı ilk ve en sağlam sığınağının Allah'a sığınmak olduğudur. Bugün seni doğru bilmediğin bir şeye çeken bir durumla karşılaşırsan, Yûsuf'un 'Allah'a sığınırım' cevabını hatırlaman güçlü bir örnektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önce Allah'a sığın",
+   "aciklama": "Bugün seni yanlış bir şeye yönelten bir düşünce veya durumla karşılaşırsan, ilk tepkin içten bir sığınma cümlesi olsun."
+  },
+  {
+   "baslik": "İyiliğe vefa göster",
+   "aciklama": "Sana güvenen veya iyi davranan birine karşı bu güveni koruyarak davran."
+  },
+  {
+   "baslik": "Kararını netleştir",
+   "aciklama": "Doğru bulmadığın bir teklife karşı, Yûsuf gibi açık ve net bir şekilde hayır de."
+  }
+ ],
+ "bugununAdimi": "Bugün seni yanlış bir yöne çekebilecek bir durumda, net ve kararlı bir şekilde uzak dur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=23"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/12/23"
+  }
+ ]
+}
