@@ -1,0 +1,201 @@
+{
+ "sure": 11,
+ "ayet": 62,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'Ey Salih! Sen bundan önce aramızda umut beslenen biriydin. Şimdi bizi atalarımızın taptığına ibadet etmekten mi men ediyorsun? Doğrusu biz, bizi çağırdığın şey hakkında derin bir şüphe içindeyiz.'",
+ "mealNotu": "'Mercüvv' (رجو) kökü umut edileni, beklenileni anlatır; kavim, Salih'i bir önder olarak umut bağladıkları biri iken şimdi hayal kırıklığına uğradıklarını ima eder. 'Mürîb' (ريب) kökü kuşku uyandıran, tedirginlik veren anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "يَٰصَٰلِحُ",
+   "okunus": "yâ sâlihu",
+   "kok": "صلح",
+   "kokAnlam": "iyilik, düzgünlük",
+   "karsilik": "ey Salih"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "kesinlik",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "كُنتَ",
+   "okunus": "künte",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idin"
+  },
+  {
+   "kelime": "فِينَا",
+   "okunus": "fînâ",
+   "kok": "—",
+   "kokAnlam": "(edat) aramızda",
+   "karsilik": "aramızda"
+  },
+  {
+   "kelime": "مَرْجُوًّا",
+   "okunus": "mercüvven",
+   "kok": "رجو",
+   "kokAnlam": "umut, ümit besleme",
+   "karsilik": "umut beslenen"
+  },
+  {
+   "kelime": "قَبْلَ",
+   "okunus": "kable",
+   "kok": "قبل",
+   "kokAnlam": "öncelik",
+   "karsilik": "önce"
+  },
+  {
+   "kelime": "هَٰذَآ",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "işaret",
+   "karsilik": "bundan"
+  },
+  {
+   "kelime": "أَتَنْهَىٰنَآ",
+   "okunus": "etenhânâ",
+   "kok": "نهي",
+   "kokAnlam": "alıkoyma, men etme",
+   "karsilik": "bizi men mi ediyorsun"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "bağlaç",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "نَّعْبُدَ",
+   "okunus": "na'büde",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme",
+   "karsilik": "kulluk etmekten"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi",
+   "karsilik": "şeye"
+  },
+  {
+   "kelime": "يَعْبُدُ",
+   "okunus": "ya'büdü",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme",
+   "karsilik": "taptığı"
+  },
+  {
+   "kelime": "ءَابَآؤُنَا",
+   "okunus": "âbâünâ",
+   "kok": "أبو",
+   "kokAnlam": "babalık, ata",
+   "karsilik": "atalarımızın"
+  },
+  {
+   "kelime": "وَإِنَّنَا",
+   "okunus": "ve innenâ",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "ve şüphesiz biz"
+  },
+  {
+   "kelime": "لَفِى",
+   "okunus": "lefî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içindeyiz"
+  },
+  {
+   "kelime": "شَكٍّ",
+   "okunus": "şekkin",
+   "kok": "شكك",
+   "kokAnlam": "şüphe, tereddüt",
+   "karsilik": "bir şüphe"
+  },
+  {
+   "kelime": "مِّمَّا",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "تَدْعُونَآ",
+   "okunus": "ted'ûnâ",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, davet etme",
+   "karsilik": "bizi çağırdığın"
+  },
+  {
+   "kelime": "إِلَيْهِ",
+   "okunus": "ileyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "مُرِيبٍ",
+   "okunus": "mürîbin",
+   "kok": "ريب",
+   "kokAnlam": "kuşku, tereddüt uyandırma",
+   "karsilik": "derin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette Salih, kavmini tevhide ve istiğfara çağırmıştı; bu ayette kavmi ona hem bir sitem hem de reddediş yöneltir: daha önce ondan umut bekledikleri hâlde, şimdi atalarının dinine karşı çıkmasından rahatsızdırlar ve mesajından şüphe ettiklerini söylerler.",
+  "Klasik tefsir, 'sen aramızda umut beslenen biriydin' ifadesini, Salih'in kavmi arasında akıllı ve saygın biri olarak bilindiğine, ancak tevhid çağrısıyla bu itibarını -onlara göre- kaybettiğine işaret olarak açıklar. Bu, birçok peygamberin karşılaştığı ortak bir tepki kalıbıdır: toplumun beklentisiyle hakikatin çatışması."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "43:23",
+   "meal": "İşte böyle, senden önce hangi memlekete bir uyarıcı gönderdiysek, oranın şımarık zenginleri mutlaka: Biz babalarımızı bir din üzerinde bulduk, biz de onların izlerini izleyicileriz, dediler.",
+   "baglanti": "Zuhruf suresindeki bu ayet, 11:62'deki 'atalarımızın taptığı' gerekçesinin, tarih boyunca inkârcıların ortak savunması olduğunu gösterir."
+  },
+  {
+   "ref": "26:154",
+   "meal": "Sen de ancak bizim gibi bir insansın. Eğer doğru sözlülerden isen bize bir mucize getir.",
+   "baglanti": "Şuarâ suresinde Semûd kavminin Salih'e verdiği bu cevap, 11:62'deki 'şüphe içindeyiz' tavrının bir devamıdır; kavmin inanmak için önce kanıt talep ettiğini gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Semûd kavminin Salih'e olan önceki güvenlerini, onun tevhid çağrısı karşısında şüpheye çevirmesidir; bu, tarihî bir hayal kırıklığı ve reddediş sahnesidir.",
+  "Buradan çıkan ders, doğruyu söylediği için birinin itibarının sarsılabileceği, ama bunun doğruluğunu değiştirmeyeceğidir; bugün, popüler olmayan ama doğru bir şeyi söylerken çevrenin tepkisinden çekinmemek önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Popülerlik kaygısını bırak",
+   "aciklama": "Bugün doğru bildiğin bir şeyi, beğenilmeyecek olsa bile söylemekten çekinme."
+  },
+  {
+   "baslik": "Şüpheni araştır",
+   "aciklama": "Bir konuda şüphen varsa bugün onu araştırarak netleştirmeye çalış, önyargıyla reddetme."
+  },
+  {
+   "baslik": "Atalar sözünü sorgula",
+   "aciklama": "'Hep böyle yapılıyor' dediğin bir alışkanlığı bugün gerçekten doğru mu diye sorgula."
+  }
+ ],
+ "bugununAdimi": "Bugün popüler olmasa da doğru bildiğin bir şeyi açıkça söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=62"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/11/62"
+  }
+ ]
+}
