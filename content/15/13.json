@@ -1,0 +1,103 @@
+{
+ "sure": 15,
+ "ayet": 13,
+ "durum": "taslak",
+ "meal": "Ona iman etmezler; oysa öncekilerin sünneti (başlarına gelen akıbet) geçip gitmiştir.",
+ "mealNotu": "'Sünnet' kökü (سنن) burada Allah'ın geçmiş toplumlar hakkında işleyen değişmez kanununu/âdetini; 'halet' kökü (خلو) ise bu kanunun daha önce gerçekleşip geçtiğini ifade eder.",
+ "kokler": [
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-mezler"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "iman etme",
+   "karsilik": "iman ederler"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "zamir, 'ona'",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "وَقَدْ",
+   "okunus": "ve kad",
+   "kok": "—",
+   "kokAnlam": "kesinlik",
+   "karsilik": "oysa"
+  },
+  {
+   "kelime": "خَلَتْ",
+   "okunus": "halet",
+   "kok": "خلو",
+   "kokAnlam": "geçip gitme",
+   "karsilik": "geçip gitmiştir"
+  },
+  {
+   "kelime": "سُنَّةُ",
+   "okunus": "sünnetü",
+   "kok": "سنن",
+   "kokAnlam": "yol, kanun, âdet",
+   "karsilik": "sünneti"
+  },
+  {
+   "kelime": "ٱلْأَوَّلِينَ",
+   "okunus": "el'evvelîne",
+   "kok": "أول",
+   "kokAnlam": "öncekiler",
+   "karsilik": "öncekilerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette inkârın suçluların kalbine nasıl yerleştiği anlatıldıktan sonra bu ayet, bu kişilerin -tüm uyarılara rağmen- iman etmediklerini, oysa öncekilerin akıbetinin (sünnetinin) zaten bilinip geçtiğini bildirir. أمن (yü'minûne) kökü iman etme, سنن (sünnet) kökü ise değişmez kanun/âdet anlamındadır.",
+  "Klasik tefsir bu ayeti, geçmiş toplumların inkârları yüzünden uğradığı akıbetin herkesçe bilinen bir gerçek olduğunu, buna rağmen inkârcıların ders almadığını vurgulamak için açıklar. Bu, ibret almanın bilgiyle değil kalbin açıklığıyla ilgili olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "35:43",
+   "meal": "...Onlar, öncekilerin sünnetinden (başlarına gelenden) başka bir şey mi bekliyorlar? Sen Allah'ın sünnetinde asla bir değişiklik bulamazsın.",
+   "baglanti": "Bu ayet, 15:13'teki 'öncekilerin sünneti' ifadesini aynı kökle tekrarlayıp bu kanunun değişmezliğini vurgular."
+  },
+  {
+   "ref": "33:62",
+   "meal": "Bu, Allah'ın öncekiler hakkındaki sünnetidir (kanunudur); Allah'ın sünnetinde asla bir değişiklik bulamazsın.",
+   "baglanti": "Bu ayet de aynı ilkeyi, Allah'ın toplumlar hakkındaki kanununun değişmezliğini pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş toplumların akıbetinin (sünnetin) bilinen bir gerçek olmasına rağmen inkârcıların iman etmemesidir; bu tarihi bir gözlemdir.",
+  "Buradan çıkan ders, bilgi tek başına yeterli olmayabileceğidir; insan bir şeyi bilse de kalbi kapalıysa ders çıkarmayabilir. Bugün geçmiş tecrübelerden gerçekten ders çıkarmaya çalışmak, sadece bilmekten daha değerlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geçmişten gerçekten öğren",
+   "aciklama": "Bugün daha önce yaptığın bir hatayı sadece bilmekle kalma, tekrarlamamak için somut bir adım at."
+  },
+  {
+   "baslik": "Kalbini aç",
+   "aciklama": "Bir uyarıyı duyduğunda savunmaya geçmeden önce içtenlikle düşünmeye çalış."
+  },
+  {
+   "baslik": "Başkalarının tecrübesine kulak ver",
+   "aciklama": "Bugün bir büyüğünün veya tecrübeli birinin tavsiyesini ciddiye al."
+  }
+ ],
+ "bugununAdimi": "Bugün geçmişte yaptığın bir hatadan gerçek anlamda ders çıkarıp aynısını tekrar etmemeye karar ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=13"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/13"
+  }
+ ]
+}

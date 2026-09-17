@@ -1,0 +1,110 @@
+{
+ "sure": 15,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Doğru sözlülerden isen, bize melekleri getirsen ya!",
+ "mealNotu": "'Sâdikîn' kökü (صدق) doğru sözlü olmayı ifade eder; ayet, müşriklerin peygamberden somut bir mucize (meleklerin görünmesi) talep ettiğini aktarır.",
+ "kokler": [
+  {
+   "kelime": "لَّوْ",
+   "okunus": "lev",
+   "kok": "—",
+   "kokAnlam": "şart, teşvik edatı",
+   "karsilik": "-sen ya"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "neden değil"
+  },
+  {
+   "kelime": "تَأْتِينَا",
+   "okunus": "te'tînâ",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "bize getirsen"
+  },
+  {
+   "kelime": "بِٱلْمَلَٰٓئِكَةِ",
+   "okunus": "bil melâiketi",
+   "kok": "ملك",
+   "kokAnlam": "melek",
+   "karsilik": "melekleri"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "şart edatı",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتَ",
+   "okunus": "künte",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "isen"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلصَّٰدِقِينَ",
+   "okunus": "essâdikîne",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, doğru sözlülük",
+   "karsilik": "doğru sözlüler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette 'mecnun' ithamını yönelten müşrikler, bu ayette somut bir talepte bulunurlar: eğer doğru söylüyorsa, meleklerin görünür şekilde gelmesini isterler. أتي (te'tînâ) kökü gelme, ملك (melâike) kökü melekler, صدق (sâdikîn) kökü doğruluk anlamındadır.",
+  "Klasik tefsir bu talebi, inanmak için değil itiraz etmek için öne sürülen bir bahane olarak açıklar; çünkü bir sonraki ayet, meleklerin ancak hak ile -yani kesin bir hüküm anında- indirileceğini, o zaman da kimseye mühlet verilmeyeceğini bildirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:7",
+   "meal": "'Bu nasıl bir resul ki yemek yiyor, çarşılarda dolaşıyor; ona bir melek indirilip de kendisiyle birlikte uyarıcı olsaydı ya' dediler.",
+   "baglanti": "Bu ayet de aynı türden bir mucize/melek talebini, Kur'an'ın başka bir yerinde farklı bir gerekçeyle tekrarlar."
+  },
+  {
+   "ref": "25:21",
+   "meal": "Bize kavuşmayı ummayanlar dediler ki: 'Bize melekler indirilmeli değil miydi, ya da Rabbimizi görmeli değil miydik?'",
+   "baglanti": "Bu ayet, 15:7'deki melek talebiyle neredeyse aynı itirazı, farklı bir grubun ağzından tekrar eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, müşriklerin peygamberden somut, gözle görülür bir mucize (meleklerin gelişi) talep etmesidir; bu tarihi bir itiraz sahnesidir.",
+  "Buradan çıkan ders, bazı insanların ikna olmak için değil, itiraz etmek için bahane aradığıdır. Bugün elindeki delilleri görmezden gelip sürekli yeni 'kanıt' isteyen bir tutum yerine, önündeki gerçeği dürüstçe değerlendirmek daha faydalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bahane arama",
+   "aciklama": "Bugün bir gerçeği kabul etmemek için yeni bahaneler üretip üretmediğini kendine sor."
+  },
+  {
+   "baslik": "Elindeki delili değerlendir",
+   "aciklama": "Zaten sahip olduğun bilgi ve delilleri, yeni bir 'kanıt' beklemeden değerlendir."
+  },
+  {
+   "baslik": "Dürüst bir değerlendirme yap",
+   "aciklama": "Bir konuda karar vermeden önce, ön yargısız ve dürüst bir şekilde düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda karar vermeden önce, bahane üretip üretmediğini dürüstçe sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/7"
+  }
+ ]
+}

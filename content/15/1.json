@@ -1,0 +1,96 @@
+{
+ "sure": 15,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Elif-Lâm-Râ. Bunlar, Kitabın ve apaçık bir Kur'an'ın ayetleridir.",
+ "mealNotu": "Mukattaa harfleri (Elif-Lâm-Râ) Türkçeye çevrilmez, aynen okunur; klasik tefsir bu harflerin kesin anlamını Allah'a havale eder. 'Mübin' kökü (بين) açık, ayırt edici, gerçeği ortaya koyan anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "الٓر",
+   "okunus": "elif lâm râ",
+   "kok": "—",
+   "kokAnlam": "kesik harfler (mukattaa)",
+   "karsilik": "Elif-Lâm-Râ"
+  },
+  {
+   "kelime": "تِلْكَ",
+   "okunus": "tilke",
+   "kok": "—",
+   "kokAnlam": "işaret, 'bunlar/işte bu'",
+   "karsilik": "bunlar"
+  },
+  {
+   "kelime": "ءَايَٰتُ",
+   "okunus": "âyâtü",
+   "kok": "أيي",
+   "kokAnlam": "ayet, işaret",
+   "karsilik": "ayetleridir"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "Kitabın"
+  },
+  {
+   "kelime": "وَقُرْءَانٍ",
+   "okunus": "ve kur'ânin",
+   "kok": "قرأ",
+   "kokAnlam": "okuma, Kur'an",
+   "karsilik": "ve bir Kur'an'ın"
+  },
+  {
+   "kelime": "مُّبِينٍ",
+   "okunus": "mübînin",
+   "kok": "بين",
+   "kokAnlam": "açıklık, ayırt etme",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Hicr suresi, birçok Mekki surede olduğu gibi kesik harflerle (mukattaa) başlar; ardından bu ayetlerin 'Kitabın' ve 'apaçık bir Kur'an'ın' ayetleri olduğu vurgulanır. كتب (kitab) kökü yazılı, kayıtlı, belirlenmiş olanı; بين (mübin) kökü ise açık, ayırt edici, gerçeği net ortaya koyan anlamı taşır.",
+  "Klasik tefsir, bu girişin surenin devamında gelecek konulara -inkârcıların pişmanlığı, geçmiş toplumların akıbeti, yaratılışın delilleri- bir hazırlık olduğunu belirtir. Kur'an'ın 'mübin' sıfatıyla nitelenmesi, onun anlaşılır ve açık bir rehber olarak indirildiğini hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "12:1",
+   "meal": "Elif Lâm Râ. Bunlar apaçık Kitabın ayetleridir.",
+   "baglanti": "Aynı giriş kalıbı Yusuf suresinde de tekrarlanır; her iki ayet de Kur'an'ı 'apaçık kitap' olarak tanıtır."
+  },
+  {
+   "ref": "26:2",
+   "meal": "Bunlar apaçık Kitabın ayetleridir.",
+   "baglanti": "Şuarâ suresinin girişi neredeyse aynı ifadeyle Kur'an'ın açıklığını vurgular; bu ortak vurgu Kur'an'ın anlaşılır bir rehber olduğunu pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın 'Kitab' ve 'apaçık' (mübin) olarak tanıtılmasıdır; bu bir surenin girişidir, doğrudan bir hüküm veya kıssa içermez.",
+  "Buradan çıkan ders: Kur'an, anlaşılmaz kapalı bir metin değil, açık bir rehber olarak sunulur. Bugün onu okurken 'anlaşılmaz' önyargısıyla değil, açıklık vaadiyle yaklaşmak, okuma ve anlama çabasını artırabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugün bir sayfa oku",
+   "aciklama": "Kur'an'ın 'apaçık' sıfatına güvenerek bugün birkaç ayetini meal ile birlikte oku."
+  },
+  {
+   "baslik": "Anlamaya niyet et",
+   "aciklama": "Okurken sadece geçmek için değil, anlamak için bir ayet üzerinde durmayı dene."
+  },
+  {
+   "baslik": "Bir notu paylaş",
+   "aciklama": "Anladığın bir ayeti bugün birine kısaca anlat; bu, anlayışını pekiştirir."
+  }
+ ],
+ "bugununAdimi": "Bugün Kur'an'dan bir sayfa aç ve mealiyle birlikte oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/1"
+  }
+ ]
+}

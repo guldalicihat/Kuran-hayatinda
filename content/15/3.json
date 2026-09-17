@@ -1,0 +1,103 @@
+{
+ "sure": 15,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Bırak onları; yesinler, yararlansınlar, [boş] ümit onları oyalasın; yakında bilecekler.",
+ "mealNotu": "'Emel' kökü (أمل) dünyaya dair uzun ümit ve beklentileri anlatır; köşeli parantezdeki '[boş]' ifadesi bu umudun asılsızlığını vurgulamak için eklenmiştir, ayette doğrudan geçmez. 'Yülhi' kökü (لهو) oyalanma, asıl gerçeği unutturma anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "ذَرْهُمْ",
+   "okunus": "zerhüm",
+   "kok": "وذر",
+   "kokAnlam": "bırakma, terk etme",
+   "karsilik": "bırak onları"
+  },
+  {
+   "kelime": "يَأْكُلُوا۟",
+   "okunus": "ye'külû",
+   "kok": "أكل",
+   "kokAnlam": "yeme",
+   "karsilik": "yesinler"
+  },
+  {
+   "kelime": "وَيَتَمَتَّعُوا۟",
+   "okunus": "ve yetemetteû",
+   "kok": "متع",
+   "kokAnlam": "yararlanma, zevk alma",
+   "karsilik": "yararlansınlar"
+  },
+  {
+   "kelime": "وَيُلْهِهِمُ",
+   "okunus": "ve yülhihimü",
+   "kok": "لهو",
+   "kokAnlam": "oyalama, unutturma",
+   "karsilik": "onları oyalasın"
+  },
+  {
+   "kelime": "ٱلْأَمَلُ",
+   "okunus": "el'emelü",
+   "kok": "أمل",
+   "kokAnlam": "ümit, uzun beklenti",
+   "karsilik": "ümit"
+  },
+  {
+   "kelime": "فَسَوْفَ",
+   "okunus": "fesevfe",
+   "kok": "—",
+   "kokAnlam": "yakında (gelecek)",
+   "karsilik": "yakında"
+  },
+  {
+   "kelime": "يَعْلَمُونَ",
+   "okunus": "ya'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilecekler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette inkârcıların ileride pişman olacağı söylendikten sonra bu ayet, onların şimdilik dünya nimetleriyle oyalanmasına izin verildiğini bildirir. لهو (yülhi) kökü, kişiyi asıl önemli olandan alıkoyan oyalanmayı; أمل (emel) kökü ise uzun, çoğu zaman gerçekleşmeyen beklentileri ifade eder.",
+  "Klasik tefsir bu ayeti bir tehdit ve mühlet ayeti olarak açıklar: dünyada yiyip içip oyalanmaya devam edebilirler, ama sonunda gerçeği mutlaka öğrenecekler. 'Fesevfe ya'lemûn' (yakında bilecekler) ifadesi bu kaçınılmaz yüzleşmeye işaret eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "102:1",
+   "meal": "Çoklukla övünmek sizi oyaladı.",
+   "baglanti": "Aynı لهو (oyalanma) kökü burada da kullanılır; iki ayet de dünya nimetlerine, mal ve çoklukla övünmeye dalmanın insanı asıl gerçekten alıkoyduğunu anlatır."
+  },
+  {
+   "ref": "63:9",
+   "meal": "Ey iman edenler! Mallarınız ve evlatlarınız sizi Allah'ı anmaktan alıkoymasın; kim böyle yaparsa işte onlar ziyana uğrayanların ta kendileridir.",
+   "baglanti": "15:3 inkârcıların dünyaya dalıp oyalanmasını anlatırken, bu ayet müminlere aynı tuzağa düşmemeleri için uyarıda bulunur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, inkâr edenlerin dünya nimetleriyle -yiyerek, yararlanarak, uzun ümitlerle- oyalanmalarına şimdilik izin verilmesidir; bu bir tehdit ve mühlet ifadesidir, bir övgü değildir.",
+  "Buradan çıkan ders, dünya nimetlerinin kendisinin kötü olmadığı ama onlara dalıp asıl amacı unutmanın tehlikeli olduğudur. Bugün yeme, çalışma, plan yapma gibi meşru işlerin, seni daha önemli sorumluluklardan alıkoymamasına dikkat etmek önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Oyalanmayı fark et",
+   "aciklama": "Bugün seni asıl önemli işlerden alıkoyan bir alışkanlığını (telefon, dizi, boş plan) fark et."
+  },
+  {
+   "baslik": "Uzun ümidi dengelemek",
+   "aciklama": "Gelecek planları yaparken bugünkü sorumluluğunu (ibadet, görev) ihmal etme."
+  },
+  {
+   "baslik": "Bir sınır koy",
+   "aciklama": "Zevk aldığın bir şeye bugün makul bir zaman sınırı koy."
+  }
+ ],
+ "bugununAdimi": "Bugün seni oyalayan bir alışkanlığa zaman sınırı koy ve önce sorumluluğunu yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/3"
+  }
+ ]
+}

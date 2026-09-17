@@ -1,0 +1,110 @@
+{
+ "sure": 15,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'Ey kendisine Zikir indirilen! Sen mutlaka bir mecnunsun (cinlenmişsin).'",
+ "mealNotu": "'Zikr' kökü (ذكر) burada Kur'an'ı, hatırlatıcı öğüdü ifade eder; 'mecnun' kökü (جنن) örtülü, gizli, cin etkisinde olma anlamına gelir ve Mekkeli müşriklerin peygambere yönelttiği bir itham olarak tarihi bağlamda aktarılır.",
+ "kokler": [
+  {
+   "kelime": "وَقَالُوا۟",
+   "okunus": "ve kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler ki"
+  },
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "seslenme, 'ey'",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "kendisine"
+  },
+  {
+   "kelime": "نُزِّلَ",
+   "okunus": "nüzzile",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirilen"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلذِّكْرُ",
+   "okunus": "ezzikru",
+   "kok": "ذكر",
+   "kokAnlam": "zikir, hatırlatma, öğüt",
+   "karsilik": "Zikir"
+  },
+  {
+   "kelime": "إِنَّكَ",
+   "okunus": "inneke",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "şüphesiz sen"
+  },
+  {
+   "kelime": "لَمَجْنُونٌ",
+   "okunus": "lemecnûnün",
+   "kok": "جنن",
+   "kokAnlam": "cin çarpmışlık, delilik",
+   "karsilik": "mutlaka bir mecnunsun"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Mekkeli müşriklerin Hz. Peygamber'e -kendisine Kur'an (Zikir) indirilen kişi olarak- yönelttikleri bir itirazı aktarır. ذكر (zikir) kökü hatırlatma, öğüt anlamındadır; جنن (mecnun) kökü ise akıl karışıklığı, cin etkisinde olma imasını taşır ve dönemin inkârcılarının tipik bir suçlamasını yansıtır.",
+  "Klasik tefsir bu ayeti, peygamberlere yöneltilen 'delilik' ithamının yeni olmadığını, önceki toplumların da elçilerine benzer sözler söylediğini gösteren bir örnek olarak açıklar. Sonraki ayetler bu itirazın devamı niteliğinde mucize taleplerini de içerir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:2",
+   "meal": "Sen, Rabbinin nimeti sayesinde bir mecnun değilsin.",
+   "baglanti": "Bu ayet, 15:6'daki ithamın tam karşılığı olan bir cevap niteliğindedir; Kalem suresi aynı suçlamayı reddeder."
+  },
+  {
+   "ref": "52:29",
+   "meal": "Sen öğüt ver; sen Rabbinin nimetiyle ne bir kâhinsin ne de bir mecnun.",
+   "baglanti": "Bu ayet de aynı ithamı (mecnun) tekrar eder ve reddeder; iki ayet birlikte itirazın ve cevabının Kur'an içindeki bütünlüğünü gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Mekkeli müşriklerin Hz. Peygamber'e yönelttiği tarihi bir itirazdır; bu özel bir bağlam ve döneme aittir.",
+  "Buradan çıkan genel ders, doğru bir çağrının bazen anlaşılmayıp aşağılanabileceğidir. Bugün haklı olduğun bir konuda haksız bir eleştiriyle karşılaştığında, sabırla ve tutarlılıkla yoluna devam etmek önemli bir derstir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Haksız eleştiriye sabret",
+   "aciklama": "Bugün haklı bir duruşun için haksız bir söz duyarsan, sabırla karşılık ver."
+  },
+  {
+   "baslik": "Tutarlılığını koru",
+   "aciklama": "Başkalarının ithamına rağmen doğru bildiğin bir davranıştan vazgeçme."
+  },
+  {
+   "baslik": "Öfkeyle değil sükunetle yanıtla",
+   "aciklama": "Bugün seni kızdıran bir söze sakin bir üslupla cevap vermeyi dene."
+  }
+ ],
+ "bugununAdimi": "Bugün haksız bir eleştiriye öfkeyle değil, sakin bir tutarlılıkla karşılık ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/6"
+  }
+ ]
+}

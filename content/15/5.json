@@ -1,0 +1,103 @@
+{
+ "sure": 15,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Hiçbir ümmet ecelini öne alamaz, geciktiremez de.",
+ "mealNotu": "'Sebeka' kökü (سبق) öne geçme, 'ahhara' kökü (أخر) geriye bırakma anlamındadır; ayet, her toplumun ecelinin kesin ve değiştirilemez olduğunu vurgular.",
+ "kokler": [
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "تَسْبِقُ",
+   "okunus": "tesbiku",
+   "kok": "سبق",
+   "kokAnlam": "öne geçme, öne alma",
+   "karsilik": "öne alamaz"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "أُمَّةٍ",
+   "okunus": "ümmetin",
+   "kok": "أمم",
+   "kokAnlam": "topluluk, ümmet",
+   "karsilik": "ümmet"
+  },
+  {
+   "kelime": "أَجَلَهَا",
+   "okunus": "ecelehâ",
+   "kok": "أجل",
+   "kokAnlam": "ecel, belirli süre",
+   "karsilik": "ecelini"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve -mez de"
+  },
+  {
+   "kelime": "يَسْتَـْٔخِرُونَ",
+   "okunus": "yeste'hırûne",
+   "kok": "أخر",
+   "kokAnlam": "geciktirme, geri kalma",
+   "karsilik": "geciktirirler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette her şehrin 'bilinen bir yazısı' olduğu söylendikten sonra bu ayet, bu yazının (ecelin) kesinliğini pekiştirir: hiçbir toplum kendi sonunu ne öne alabilir ne erteleyebilir. سبق (tesbiku) kökü öne geçmeyi, أخر (yeste'hırûn) kökü ise geri bırakmayı ifade eder.",
+  "Klasik tefsir bu ayeti, Allah'ın koyduğu ilahi ölçünün (ecelin) insan iradesiyle değiştirilemeyeceğinin delili olarak açıklar. Bu, hem toplumların çöküşü hem de bireysel ölüm için geçerli evrensel bir ilkedir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:34",
+   "meal": "Her ümmetin bir eceli vardır; ecelleri geldiğinde ne bir an geri kalırlar ne de öne geçebilirler.",
+   "baglanti": "Bu ayet, 15:5'teki ilkeyi neredeyse aynı ifadelerle tekrarlar; her iki ayet de toplumsal ecelin değişmezliğini vurgular."
+  },
+  {
+   "ref": "63:11",
+   "meal": "Allah, eceli geldiğinde hiçbir kimseyi asla ertelemez; Allah, yaptıklarınızdan haberdardır.",
+   "baglanti": "Bu ayet aynı ilkeyi bireysel düzeyde tekrarlar; toplum da birey de ecelini geciktiremez."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, toplumların yıkılış veya var oluş sürelerinin (ecelinin) değişmez, kesin bir ölçüye bağlı olduğudur; bu tarihe ve toplumlara dair genel bir ilkedir.",
+  "Buradan çıkan ders, zamanın sınırlı ve elden kaçırılamaz olduğudur. Bugün elinde olan vakti, 'daha sonra yaparım' diye erteleyerek harcamak yerine, ecel gelmeden önce değerlendirmek gerektiğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zamanı say",
+   "aciklama": "Bugün elindeki vaktin sınırlı olduğunu hatırlayarak önemli bir işini ertelemeden yap."
+  },
+  {
+   "baslik": "Telaşı bırak",
+   "aciklama": "Sonucu senin elinde olmayan bir konuda, Allah'ın takdirine güvenerek telaşını azalt."
+  },
+  {
+   "baslik": "Hazırlığını yap",
+   "aciklama": "Ölüm ve hesap gününü hatırlatan küçük bir hazırlık (dua, tövbe, vasiyet düşüncesi) yap."
+  }
+ ],
+ "bugununAdimi": "Bugün erteleyip durduğun bir işi, zamanın sınırlı olduğunu hatırlayarak şimdi yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/5"
+  }
+ ]
+}
