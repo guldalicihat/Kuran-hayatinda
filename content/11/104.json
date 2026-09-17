@@ -1,0 +1,89 @@
+{
+ "sure": 11,
+ "ayet": 104,
+ "durum": "taslak",
+ "meal": "Biz onu (o günü) ancak sayılı bir süre için erteliyoruz.",
+ "mealNotu": "'Ecel' (أجل) kökü belirlenmiş süre, vade anlamındadır; 'ma'dûd' (عدد) kökü ise sayılmış, belirli bir sayıya bağlı olmayı ifade eder. Ayet, kıyametin ertelenmesinin keyfî değil, önceden belirlenmiş bir hesaba bağlı olduğunu vurgular.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve değil"
+  },
+  {
+   "kelime": "نُؤَخِّرُهُۥٓ",
+   "okunus": "nüehhıruhû",
+   "kok": "أخر",
+   "kokAnlam": "erteleme, geciktirme",
+   "karsilik": "onu erteliyoruz"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "لِأَجَلٍ",
+   "okunus": "liecelin",
+   "kok": "أجل",
+   "kokAnlam": "belirlenmiş süre, vade",
+   "karsilik": "bir süre için"
+  },
+  {
+   "kelime": "مَّعْدُودٍ",
+   "okunus": "ma'dûdin",
+   "kok": "عدد",
+   "kokAnlam": "sayılma, belirli sayı",
+   "karsilik": "sayılı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette kıyametin 'toplanma ve şahitlik günü' olduğu anlatılmıştı; bu kısa ayet, o günün neden hemen değil de belli bir vakte kadar ertelendiğini açıklar: erteleme keyfî değil, sayılı, belirlenmiş bir süreye bağlıdır.",
+  "Klasik tefsir bu ayeti, Allah'ın hem azameti hem de adaletiyle ilişkilendirir: kıyamet gecikmiş görünse de bu bir unutma ya da güçsüzlük değil, önceden takdir edilmiş bir hikmetli plandır. Bu, hem inkârcılara bir uyarı hem de müminlere sabır telkinidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:34",
+   "meal": "Her ümmetin bir eceli (belirlenmiş süresi) vardır; ecelleri geldiğinde ne bir an geri kalırlar ne de öne geçebilirler.",
+   "baglanti": "Araf suresindeki bu ayet 'ecel' (أجل) kökünü 11:104 ile paylaşır; her ikisi de belirlenen sürenin kesinliğini ve değişmezliğini vurgular."
+  },
+  {
+   "ref": "63:11",
+   "meal": "Allah, eceli geldiğinde hiç kimseyi asla ertelemez. Allah, yaptıklarınızdan hakkıyla haberdardır.",
+   "baglanti": "Münâfikûn suresindeki bu ayet de 'ecel' temasını işler; 11:104'teki 'sayılı bir süre için erteleme' ilkesinin, kişisel ecel boyutundaki karşılığıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyamet gününün ertelenmesinin belirli ve sayılı bir süreye bağlı olduğudur; bu itikadi bir bildirimdir.",
+  "Buradan çıkan ders, her şeyin bir vadesi olduğu ve bu vadenin ne erken ne geç geleceğidir; bugün sabırsızlıkla acele etmek ya da gecikmeyi umursamazlığa çevirmek yerine, zamanın Allah'ın takdirinde olduğunu bilerek hareket etmek, bu ayetin verdiği huzuru yansıtır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sabırlı ol",
+   "aciklama": "Bugün beklediğin bir şeyin gecikmesine sabırla yaklaş."
+  },
+  {
+   "baslik": "Zamanı boşa harcama",
+   "aciklama": "Sana verilen sürenin sınırlı olduğunu bilerek vaktini değerlendir."
+  },
+  {
+   "baslik": "Aceleyi bırak",
+   "aciklama": "Bir konuda sonucu zorlamak yerine doğru zamanını bekle."
+  }
+ ],
+ "bugununAdimi": "Bugün beklediğin bir şeyde acele etmeden, zamanın Allah'ın takdirinde olduğunu hatırlayarak sabret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=104"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/11/104"
+  }
+ ]
+}

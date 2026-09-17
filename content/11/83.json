@@ -1,0 +1,110 @@
+{
+ "sure": 11,
+ "ayet": 83,
+ "durum": "taslak",
+ "meal": "Bunlar, Rabbinin katında damgalanmıştı. Bunlar zalimlerden uzak değildir.",
+ "mealNotu": "'Müsevveme' (سوم) kökü işaretlenmiş, damgalanmış olmayı anlatır. 'Uzak değildir' ifadesi, klasik tefsire göre bu tür bir azabın her zaman zalimlerin ulaşabileceği bir mesafede olduğunu hatırlatır.",
+ "kokler": [
+  {
+   "kelime": "مُّسَوَّمَةً",
+   "okunus": "müsevvemeten",
+   "kok": "سوم",
+   "kokAnlam": "işaretlenme, damgalanma",
+   "karsilik": "damgalanmıştı"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "kat, huzur",
+   "karsilik": "katında"
+  },
+  {
+   "kelime": "رَبِّكَ",
+   "okunus": "rabbike",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, sahiplik",
+   "karsilik": "Rabbinin"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve değildir"
+  },
+  {
+   "kelime": "هِىَ",
+   "okunus": "hiye",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "bunlar"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمِينَ",
+   "okunus": "ezzâlimîne",
+   "kok": "ظلم",
+   "kokAnlam": "zulüm, haksızlık",
+   "karsilik": "zalimlerden"
+  },
+  {
+   "kelime": "بِبَعِيدٍ",
+   "okunus": "bibeîdin",
+   "kok": "بعد",
+   "kokAnlam": "uzaklık",
+   "karsilik": "uzak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette yağan taşlar anlatılmıştı; bu ayet o taşların niteliğini tamamlar: her biri Allah katında belirlenmiş, hedefine göre işaretlenmiştir. Bu, azabın rastgele değil, düzenli ve hesaplı bir şekilde gerçekleştiğini gösterir.",
+  "Klasik tefsir, 'zalimlerden uzak değildir' ifadesini iki şekilde açıklar: taşların o an oradaki zalimlerden uzak olmadığı, ya da bu tür bir azabın genel olarak her zalim için uzak bir ihtimal olmadığı. Her iki yorum da, sorumsuz davranışların sonuçsuz kalmayacağı mesajını taşır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "51:34",
+   "meal": "Rabbinin katında, ölçüyü kaçıranlar için damgalanmış (taşlar).",
+   "baglanti": "Zâriyât suresindeki bu ayet, Hûd 83'teki 'müsevveme' (damgalanmış) ifadesini, taşların kimlere yönelik olduğunu belirterek tamamlar: sınırı aşanlar (müsrifler)."
+  },
+  {
+   "ref": "29:35",
+   "meal": "Andolsun, biz ondan, aklını kullanan bir topluluk için apaçık bir işaret bıraktık.",
+   "baglanti": "Ankebût suresi, Hûd 83'te anlatılan olayın ardında bırakılan izin, akıl sahipleri için bir ibret levhası olduğunu ekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Lût kavmine yağan taşların Allah katında belirlenmiş, hesaplı bir ceza olduğudur; bu, tarihî bir topluluğun akıbetidir ve ibret amacıyla okunmalıdır.",
+  "Buradan çıkarılabilecek genel ders, hiçbir haksızlığın karşılıksız kalmayacağı, adaletin er ya da geç tecelli edeceğidir; bugün bir haksızlık karşısında umutsuzluğa kapılmak yerine, adaletin bir gün gerçekleşeceğine güvenmek teselli verir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Adalete güven",
+   "aciklama": "Bugün karşılaştığın bir haksızlıkta, adaletin er geç yerini bulacağına güven."
+  },
+  {
+   "baslik": "Sorumluluktan kaçma",
+   "aciklama": "Bugün bir yanlışının sonucundan kaçmak yerine sorumluluğunu üstlen."
+  },
+  {
+   "baslik": "İbret al",
+   "aciklama": "Bugün geçmiş bir olaydan ders çıkararak benzer bir hatadan kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün karşılaştığın bir haksızlıkta adalete güvenerek sabırlı ol.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=11&verse=83"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/11/83"
+  }
+ ]
+}
