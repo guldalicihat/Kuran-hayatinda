@@ -1,0 +1,110 @@
+{
+ "sure": 16,
+ "ayet": 98,
+ "durum": "taslak",
+ "meal": "Kur'an okuyacağın zaman, kovulmuş şeytandan Allah'a sığın.",
+ "mealNotu": "'عوذ' kökü sığınmayı, 'رجم' kökü taşlanmış/kovulmuş olmayı anlatır. Bu ayet, Kur'an okumaya başlarken 'euzü billahi mineş-şeytânir-racîm' demenin dayanağıdır.",
+ "kokler": [
+  {
+   "kelime": "فَإِذَا",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "zaman edatı (-dığında)",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "قَرَأْتَ",
+   "okunus": "kara'te",
+   "kok": "قرأ",
+   "kokAnlam": "okuma, Kur'an",
+   "karsilik": "okuduğun"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانَ",
+   "okunus": "elkur'âne",
+   "kok": "قرأ",
+   "kokAnlam": "okuma, Kur'an",
+   "karsilik": "Kur'an'ı"
+  },
+  {
+   "kelime": "فَٱسْتَعِذْ",
+   "okunus": "festeiz",
+   "kok": "عوذ",
+   "kokAnlam": "sığınma, korunma",
+   "karsilik": "sığın"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "edat (-den)",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلشَّيْطَٰنِ",
+   "okunus": "eşşeytâni",
+   "kok": "شطن",
+   "kokAnlam": "uzaklaşma, şeytanlık",
+   "karsilik": "şeytandan"
+  },
+  {
+   "kelime": "ٱلرَّجِيمِ",
+   "okunus": "erracîmi",
+   "kok": "رجم",
+   "kokAnlam": "taşlama, kovma",
+   "karsilik": "kovulmuş"
+  }
+ ],
+ "neAnlatiyor": [
+  "97. ayette iman edip salih amel işleyenlere verilecek karşılık anlatıldıktan sonra, bu ayet Kur'an okumanın adabına geçer. 'عوذ' kökünden 'festeiz' emri, kişiyi Kur'an okumaya başlamadan önce Allah'a sığınmaya çağırır; 'رجم' kökünden gelen 'racîm' ise şeytanın (Allah'ın rahmetinden) kovulmuş olma sıfatını anlatır.",
+  "Klasik tefsir bu ayeti, Kur'an okumanın bir ibadet ve dikkat işi olduğunu, bu yüzden okumaya başlamadan önce zihni ve kalbi hazırlayan bir sığınma cümlesiyle başlamak gerektiğini öğreten bir ayet olarak açıklar. Bu, korkutucu bir tehdit değil, okuyucuyu doğru bir hazırlıkla Kur'an'a yönelten bir çerçevedir; sonraki iki ayet (99-100) bu sığınmanın neden yeterli olduğunu açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:200",
+   "meal": "Eğer şeytandan bir kışkırtma seni dürtecek olursa, hemen Allah'a sığın; çünkü O, hakkıyla işitendir, hakkıyla bilendir.",
+   "baglanti": "Şeytanın kışkırtmasına karşı sığınmayı genel bir ilke olarak koyar; 16:98 bu ilkeyi özellikle Kur'an okuma anına uygular."
+  },
+  {
+   "ref": "23:97",
+   "meal": "De ki: Rabbim! Şeytanların kışkırtmalarından sana sığınırım.",
+   "baglanti": "Aynı sığınma tutumunu bir dua biçiminde ifade ederek 16:98'deki 'euzü' emrinin ruhunu somutlaştırır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an okumaya başlarken Allah'a sığınmaktır; bu dini bir okuma adabıdır.",
+  "Buradan çıkan genel ders, önemli ve dikkat isteyen bir işe başlarken zihni hazırlamanın değeridir. Herhangi bir işe, dikkatini dağıtacak şeylerden arınmış bir şekilde ve doğru bir niyetle başlamak, o işin sonucunu da etkiler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kur'an okurken euzü çek",
+   "aciklama": "Bugün Kur'an okumaya başlarken 'euzü billahi mineş-şeytânir-racîm' demeyi hatırla."
+  },
+  {
+   "baslik": "Zihnini hazırla",
+   "aciklama": "Bugün önemli bir işe başlamadan önce birkaç saniye durup zihnini toparla."
+  },
+  {
+   "baslik": "Dikkat dağıtıcıları uzaklaştır",
+   "aciklama": "Bugün odaklanman gereken bir anda, seni bölecek şeyleri bir kenara koy."
+  }
+ ],
+ "bugununAdimi": "Bugün Kur'an okumaya veya önemli bir işe başlamadan önce, kısa bir hazırlık anı ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=98"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/16/98"
+  }
+ ]
+}

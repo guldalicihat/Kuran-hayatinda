@@ -1,0 +1,229 @@
+{
+ "sure": 16,
+ "ayet": 80,
+ "durum": "taslak",
+ "meal": "Allah size evlerinizden bir huzur kıldı; hayvanların derilerinden, göç gününüzde ve konaklama gününüzde kolayca taşıyacağınız [çadır] evler kıldı; yünlerinden, yapağılarından ve kıllarından bir süreye kadar [kullanacağınız] ev eşyası ve geçimlik verdi.",
+ "mealNotu": "'Sekenen' kökü (سكن) huzur, dinginlik anlamındadır; ev burada sadece barınak değil, huzur bulunan bir yer olarak nitelenir. 'Esâs' kökü (أثث) ev eşyası, döşem anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah'ın özel adı",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "جَعَلَ",
+   "okunus": "ceale",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma, verme",
+   "karsilik": "kıldı"
+  },
+  {
+   "kelime": "لَكُم",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بُيُوتِكُمْ",
+   "okunus": "büyûtiküm",
+   "kok": "بيت",
+   "kokAnlam": "ev, mesken",
+   "karsilik": "evlerinizden"
+  },
+  {
+   "kelime": "سَكَنًا",
+   "okunus": "sekenen",
+   "kok": "سكن",
+   "kokAnlam": "huzur, sukunet, dinginlik",
+   "karsilik": "bir huzur"
+  },
+  {
+   "kelime": "وَجَعَلَ",
+   "okunus": "ve ceale",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma, verme",
+   "karsilik": "ve kıldı"
+  },
+  {
+   "kelime": "لَكُم",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "جُلُودِ",
+   "okunus": "cülûdi",
+   "kok": "جلد",
+   "kokAnlam": "deri",
+   "karsilik": "derilerinden"
+  },
+  {
+   "kelime": "ٱلْأَنْعَٰمِ",
+   "okunus": "el'en'âmi",
+   "kok": "نعم",
+   "kokAnlam": "evcil hayvan, davar",
+   "karsilik": "hayvanların"
+  },
+  {
+   "kelime": "بُيُوتًا",
+   "okunus": "büyûten",
+   "kok": "بيت",
+   "kokAnlam": "ev, mesken",
+   "karsilik": "evler [çadırlar]"
+  },
+  {
+   "kelime": "تَسْتَخِفُّونَهَا",
+   "okunus": "testehıffûnehâ",
+   "kok": "خفف",
+   "kokAnlam": "hafif bulma, hafifletme",
+   "karsilik": "hafif bulup taşırsınız"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gününde"
+  },
+  {
+   "kelime": "ظَعْنِكُمْ",
+   "okunus": "za'niküm",
+   "kok": "ظعن",
+   "kokAnlam": "göç, yolculuk",
+   "karsilik": "göçünüzün"
+  },
+  {
+   "kelime": "وَيَوْمَ",
+   "okunus": "ve yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "ve gününde"
+  },
+  {
+   "kelime": "إِقَامَتِكُمْ",
+   "okunus": "ikâmetiküm",
+   "kok": "قوم",
+   "kokAnlam": "ikamet etme, kalma",
+   "karsilik": "ikametinizin"
+  },
+  {
+   "kelime": "وَمِنْ",
+   "okunus": "ve min",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "ve -den"
+  },
+  {
+   "kelime": "أَصْوَافِهَا",
+   "okunus": "asvâfihâ",
+   "kok": "صوف",
+   "kokAnlam": "yün",
+   "karsilik": "yünlerinden"
+  },
+  {
+   "kelime": "وَأَوْبَارِهَا",
+   "okunus": "ve evbârihâ",
+   "kok": "وبر",
+   "kokAnlam": "yapağı",
+   "karsilik": "ve yapağılarından"
+  },
+  {
+   "kelime": "وَأَشْعَارِهَآ",
+   "okunus": "ve eş'ârihâ",
+   "kok": "شعر",
+   "kokAnlam": "kıl",
+   "karsilik": "ve kıllarından"
+  },
+  {
+   "kelime": "أَثَٰثًا",
+   "okunus": "esâsen",
+   "kok": "أثث",
+   "kokAnlam": "ev eşyası, döşem",
+   "karsilik": "ev eşyası"
+  },
+  {
+   "kelime": "وَمَتَٰعًا",
+   "okunus": "ve metâan",
+   "kok": "متع",
+   "kokAnlam": "geçimlik, yararlanılan şey",
+   "karsilik": "ve bir geçimlik"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "e kadar"
+  },
+  {
+   "kelime": "حِينٍ",
+   "okunus": "hînin",
+   "kok": "حين",
+   "kokAnlam": "süre, vakit",
+   "karsilik": "bir süreye"
+  }
+ ],
+ "neAnlatiyor": [
+  "78. ayetten itibaren sayılan nimetler listesi burada devam eder: bu kez barınma ve giyim-kuşam ihtiyaçları anlatılır. Evler sabit bir huzur mekânı, hayvan derilerinden yapılan çadırlar ise göçebe hayatta kolayca taşınabilen barınaklar olarak sunulur.",
+  "Yün, yapağı ve kıldan yapılan eşyalar da günlük yaşamın pratik ihtiyaçlarını karşılar. Ayet, en temel ihtiyaçlardan biri olan barınmayı, Allah'ın somut ve fark edilmesi kolay bir nimeti olarak hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "16:5",
+   "meal": "Hayvanları da O yarattı; onlarda sizin için bir ısınma ve [başka] faydalar vardır, onlardan yersiniz.",
+   "baglanti": "Aynı sure içinde daha önce sayılan hayvanlardan yararlanma nimetlerini (deri, yün, taşıma) burada ev ve barınak temasıyla tamamlar."
+  },
+  {
+   "ref": "6:96",
+   "meal": "...O geceyi bir sukunet kıldı, güneşi ve ayı da bir hesap ile...",
+   "baglanti": "'Sekenen' (huzur/sukunet) kökünü paylaşarak, gecenin dinlenme vakti olması ile evin huzur mekânı olması arasında aynı kavramsal bağı kurar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, barınma ve temel ihtiyaçların Allah'ın nimeti olarak sayılmasıdır.",
+  "Buradan çıkan güncel ders, sahip olduğumuz evi/barınağı ve günlük kullandığımız eşyaları sıradan görmeyip, bunların birer nimet olduğunu fark ederek şükretmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Evine şükret",
+   "aciklama": "Bugün evinde bulunduğun bir anda huzurun için şükret."
+  },
+  {
+   "baslik": "Sadeleştir",
+   "aciklama": "Bugün ihtiyacın olmayan bir eşyayı ihtiyacı olan birine ver."
+  },
+  {
+   "baslik": "Misafirini ağırla",
+   "aciklama": "Bugün evini/imkânını paylaşacak küçük bir davranışta bulun."
+  }
+ ],
+ "bugununAdimi": "Bugün evindeki bir nimet için bilinçli olarak şükret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=80"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/16/80"
+  }
+ ]
+}

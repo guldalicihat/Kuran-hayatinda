@@ -1,0 +1,131 @@
+{
+ "sure": 16,
+ "ayet": 85,
+ "durum": "taslak",
+ "meal": "Zulmedenler azabı gördüklerinde, [artık] onlardan azap hafifletilmeyecek ve onlara süre de verilmeyecektir.",
+ "mealNotu": "'Yühaffefü' kökü (خفف) hafifletmeyi, 'yünzarûne' kökü (نظر) burada bekletme/mühlet vermeyi anlatır; ayet iki olumsuzlukla azabın kesinliğini vurgular.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "zaman edatı",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "رَءَا",
+   "okunus": "raâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "gördüğünde"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "olanlar"
+  },
+  {
+   "kelime": "ظَلَمُوا۟",
+   "okunus": "zalemû",
+   "kok": "ظلم",
+   "kokAnlam": "zulmetme, haksızlık",
+   "karsilik": "zulmedenler"
+  },
+  {
+   "kelime": "ٱلْعَذَابَ",
+   "okunus": "el'azâbe",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "azabı"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "artık değil"
+  },
+  {
+   "kelime": "يُخَفَّفُ",
+   "okunus": "yühaffefü",
+   "kok": "خفف",
+   "kokAnlam": "hafifletme",
+   "karsilik": "hafifletilir"
+  },
+  {
+   "kelime": "عَنْهُمْ",
+   "okunus": "anhüm",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ve değil"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "يُنظَرُونَ",
+   "okunus": "yünzarûne",
+   "kok": "نظر",
+   "kokAnlam": "bakma, mühlet verme",
+   "karsilik": "süre verilir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette kıyamet günü inkârcılara izin verilmeyeceği ve özürlerinin kabul edilmeyeceği anlatılmıştı; bu ayet aynı sahneyi azabın kendisi üzerinden sürdürür.",
+  "Zalimler azabı gördüklerinde artık geri dönüş, erteleme ya da hafifletme imkânı kalmayacağı bildirilir; bu, dünyadaki fırsatların sona erdiği bir anın tasviridir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:162",
+   "meal": "Onlar orada [azapta] süreklidirler; kendilerinden azap hafifletilmez, onlara mühlet de verilmez.",
+   "baglanti": "Neredeyse birebir aynı ifadeyle 16:85'teki hükmü tekrarlayarak, azabın hafifletilmeyeceği ve süre verilmeyeceği ilkesini doğrular."
+  },
+  {
+   "ref": "16:88",
+   "meal": "İnkâr edip Allah yolundan alıkoyanlara, bozgunculukları sebebiyle azap üstüne azap arttırırız.",
+   "baglanti": "Aynı sure içinde birkaç ayet sonra bu azabın belirli bir grup için -inkâr edip başkalarını da yoldan alıkoyanlar için- katmerli olacağını ekleyerek 16:85'i tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu özel olarak ahiretteki azap ve zulmün sonucudur; bu dünyevi bir kıyas için değil, net bir uyarı için anlatılır.",
+  "Buradan çıkan güncel ders, fırsatların (tövbe, düzelme, özür dileme) sınırsız olmadığını, ertelemenin bir gün geç kalmaya dönüşebileceğini hatırlamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Fırsatı kaçırma",
+   "aciklama": "Bugün ertelediğin bir düzeltmeyi (tövbe, özür, borç ödeme) yap."
+  },
+  {
+   "baslik": "Zulümden uzak dur",
+   "aciklama": "Bugün kimseye haksızlık etmemeye özen göster."
+  },
+  {
+   "baslik": "Vicdanını dinle",
+   "aciklama": "Bugün bir haksızlığa şahit olursan sessiz kalma."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir düzeltmeyi veya özrü şimdi yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=85"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/16/85"
+  }
+ ]
+}

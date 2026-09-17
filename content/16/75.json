@@ -1,0 +1,243 @@
+{
+ "sure": 16,
+ "ayet": 75,
+ "durum": "taslak",
+ "meal": "Allah, hiçbir şeye gücü yetmeyen, [başkasının] mülkü olan bir köle ile, kendisini katımızdan güzel bir rızıkla rızıklandırdığımız, ondan gizlice ve açıkça infak eden [özgür] bir kimseyi örnek verir. Bunlar eşit olur mu? Hamd Allah'a mahsustur; hayır, onların çoğu bilmezler.",
+ "mealNotu": "'Memlûk' kökü (ملك) başkasının mülkiyetinde olmayı, 'darabe meselen' (ضرب-مثل) ise örnek/benzetme vermeyi anlatır. Ayet 'özgür' demez; bu, karşılaştırmadan çıkan anlam olduğu için köşeli parantezle eklendi.",
+ "kokler": [
+  {
+   "kelime": "ضَرَبَ",
+   "okunus": "darabe",
+   "kok": "ضرب",
+   "kokAnlam": "vurma; örnek/benzetme verme",
+   "karsilik": "örnek verir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah'ın özel adı",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مَثَلًا",
+   "okunus": "meselen",
+   "kok": "مثل",
+   "kokAnlam": "benzetme, örnek",
+   "karsilik": "bir örnek"
+  },
+  {
+   "kelime": "عَبْدًا",
+   "okunus": "abden",
+   "kok": "عبد",
+   "kokAnlam": "kulluk, kölelik",
+   "karsilik": "bir köle"
+  },
+  {
+   "kelime": "مَّمْلُوكًا",
+   "okunus": "memlûken",
+   "kok": "ملك",
+   "kokAnlam": "sahip olunma, mülkiyet",
+   "karsilik": "[başkasının] mülkü olan"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "يَقْدِرُ",
+   "okunus": "yekdiru",
+   "kok": "قدر",
+   "kokAnlam": "güç yetirme, ölçüp biçme",
+   "karsilik": "gücü yetmeyen"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "e"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "bir şeye"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "ve kimse ki"
+  },
+  {
+   "kelime": "رَّزَقْنَٰهُ",
+   "okunus": "razeknâhü",
+   "kok": "رزق",
+   "kokAnlam": "rızıklandırma, nasip verme",
+   "karsilik": "onu rızıklandırdık"
+  },
+  {
+   "kelime": "مِنَّا",
+   "okunus": "minnâ",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "katımızdan"
+  },
+  {
+   "kelime": "رِزْقًا",
+   "okunus": "rizkan",
+   "kok": "رزق",
+   "kokAnlam": "rızık, nasip",
+   "karsilik": "bir rızıkla"
+  },
+  {
+   "kelime": "حَسَنًا",
+   "okunus": "hasenen",
+   "kok": "حسن",
+   "kokAnlam": "güzellik, iyilik",
+   "karsilik": "güzel"
+  },
+  {
+   "kelime": "فَهُوَ",
+   "okunus": "fehüve",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "o da"
+  },
+  {
+   "kelime": "يُنفِقُ",
+   "okunus": "yünfiku",
+   "kok": "نفق",
+   "kokAnlam": "harcama, infak etme",
+   "karsilik": "infak eder"
+  },
+  {
+   "kelime": "مِنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "سِرًّا",
+   "okunus": "sirran",
+   "kok": "سرر",
+   "kokAnlam": "gizlilik, sır",
+   "karsilik": "gizlice"
+  },
+  {
+   "kelime": "وَجَهْرًا",
+   "okunus": "ve cehran",
+   "kok": "جهر",
+   "kokAnlam": "açıklık, aleniyet",
+   "karsilik": "ve açıkça"
+  },
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "soru edatı",
+   "karsilik": "mi?"
+  },
+  {
+   "kelime": "يَسْتَوُۥنَ",
+   "okunus": "yestevûne",
+   "kok": "سوي",
+   "kokAnlam": "eşit olma, denk olma",
+   "karsilik": "eşit olurlar"
+  },
+  {
+   "kelime": "ٱلْحَمْدُ",
+   "okunus": "elhamdü",
+   "kok": "حمد",
+   "kokAnlam": "övgü, şükür",
+   "karsilik": "hamd"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah'ın özel adı",
+   "karsilik": "Allah'a mahsustur"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "idrak edatı",
+   "karsilik": "hayır, aksine"
+  },
+  {
+   "kelime": "أَكْثَرُهُمْ",
+   "okunus": "ekseruhüm",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "onların çoğu"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "يَعْلَمُونَ",
+   "okunus": "ya'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilmezler"
+  }
+ ],
+ "neAnlatiyor": [
+  "73-74. ayetlerde Allah'tan başka hiçbir şeye gücü yetmeyen putlara tapmanın eleştirisi yapılmıştı; bu ayet o eleştiriyi somutlaştırmak için bir mesel verir: hiçbir şeye gücü yetmeyen bir köle ile, kendisine güzel bir rızık verilip ondan hem gizlice hem açıkça infak eden bir kimse. Bu mesel gerçek bir kişiyi veya grubu hedef almaz; klasik tefsir bunu, aciz varlıklarla (putlar) her şeye gücü yeten ve veren Allah arasındaki farkı göstermek için kullanılan soyut bir örnek olarak açıklar.",
+  "Ayet 'bunlar eşit olur mu?' sorusuyla devam eder ve cevabı kendisi verir: hamd yalnız Allah'a mahsustur, çünkü gücü ve rızkı veren O'dur. Son cümle ise bu apaçık farkın çoğu insan tarafından fark edilmediğini, bilgisizlikten değil düşünmemekten kaynaklanan bir gaflet olduğunu hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "16:76",
+   "meal": "Allah, mesel olarak yine iki adamı verir: biri dilsiz, hiçbir şeye gücü yetmez, efendisine yüktür; hiç bu, adaletle emreden ve dosdoğru bir yol üzerinde olan kimseyle eşit olur mu?",
+   "baglanti": "Bir sonraki ayette Allah aynı temayı ikinci bir meselle pekiştirir: güçsüz ve yararsız biriyle, doğru ve faydalı biri arasındaki fark."
+  },
+  {
+   "ref": "30:28",
+   "meal": "Allah size kendinizden bir örnek verir: Sahip olduğunuz kölelerden, size verdiğimiz rızıkta sizinle eşit ortaklarınız var mı ki, kendi aranızda birbirinizden çekindiğiniz gibi onlardan da çekinesiniz?",
+   "baglanti": "16:75'teki köle-özgür örneğine paralel biçimde, Rum suresi de mülkiyet ve eşitlik ilişkisi üzerinden Allah'a ortak koşmanın akıl dışılığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu tevhiddir: hiçbir şeye gücü yetmeyen aciz varlıklarla (putlar), her şeye gücü yeten ve rızık veren Allah'ı eşit tutmanın akıl dışılığı bir mesel üzerinden gösterilir.",
+  "Buradan çıkan güncel ders şudur: güvendiğimiz şeylerin gerçekte ne kadar 'gücü yettiğini' sorgulamak, ve elimizdeki imkânı -köledeki gibi zorla değil- gönüllü, hem gizli hem açık bir cömertlikle paylaşmak."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gücünü sorgula",
+   "aciklama": "Bugün güvendiğin bir şeyin veya kişinin gerçekte neye gücünün yettiğini düşün."
+  },
+  {
+   "baslik": "Gizli bir iyilik yap",
+   "aciklama": "Bugün kimseye söylemeden küçük bir yardım veya infakta bulun."
+  },
+  {
+   "baslik": "Şükrünü söyle",
+   "aciklama": "Bugün en az bir kez açıkça Allah'a hamd et."
+  }
+ ],
+ "bugununAdimi": "Bugün kimseye söylemeden küçük bir yardım yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=75"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/16/75"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "sure": 16,
+ "ayet": 109,
+ "durum": "taslak",
+ "meal": "Hiç şüphesiz onlar, ahirette ziyana uğrayanların ta kendileridir.",
+ "mealNotu": "'جرم' kökü bu kalıpta ('lâ cerame') kesinlik ifade eder; 'خسر' kökü kayıp ve ziyanı anlatır.",
+ "kokler": [
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı (kesinlik kalıbında)",
+   "karsilik": "hiç"
+  },
+  {
+   "kelime": "جَرَمَ",
+   "okunus": "cerame",
+   "kok": "جرم",
+   "kokAnlam": "suç, kesinlik",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "أَنَّهُمْ",
+   "okunus": "ennehüm",
+   "kok": "—",
+   "kokAnlam": "te'kid edatı (onların olması)",
+   "karsilik": "onların"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat (içinde)",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْءَاخِرَةِ",
+   "okunus": "el'âhırati",
+   "kok": "أخر",
+   "kokAnlam": "sonralık, ahiret",
+   "karsilik": "ahirette"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "zamir (onlar)",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "ٱلْخَٰسِرُونَ",
+   "okunus": "elhâsirûne",
+   "kok": "خسر",
+   "kokAnlam": "kayıp, ziyan",
+   "karsilik": "ziyana uğrayanların ta kendileridir"
+  }
+ ],
+ "neAnlatiyor": [
+  "108. ayette kalpleri, kulakları ve gözleri mühürlenmiş, gafil olarak nitelendirilen kişilerden bahsedilmişti; bu kısa ayet, onların nihai akıbetini özlü bir şekilde bildirir: ahirette kesin bir şekilde ziyana uğrayanlardır.",
+  "Klasik tefsir 'lâ cerame' ifadesini, kesinlik ve şüphesizlik bildiren bir pekiştirme kalıbı olarak açıklar. Ayet, önceki ayetlerde anlatılan tutumun (dünyayı ahirete tercih etme, gaflet) sonucunu tek bir kısa cümlede özetleyerek konuyu kapatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:22",
+   "meal": "Hiç şüphesiz onlar, ahirette en çok ziyana uğrayanlardır.",
+   "baglanti": "Neredeyse aynı ifadeyle ('lâ cerame ennehüm fil âhirati') aynı sonucu tekrarlayarak 16:109'u pekiştirir."
+  },
+  {
+   "ref": "18:104",
+   "meal": "Onlar, dünya hayatındaki çabaları boşa giden, oysa kendilerinin güzel iş yaptıklarını sanan kimselerdir.",
+   "baglanti": "Ziyana uğrayanların, kendi çabalarını yanlış bir yöne harcadıklarını fark etmemesini anlatarak 16:109'daki 'ziyan' kavramına bir boyut ekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, önceki ayetlerde anlatılan tutumun (hakikate kapanma, dünyayı tercih etme) ahiretteki sonucudur; bu dini bir sonuç bildirimidir.",
+  "Genel bir ders olarak, bir tutumun uzun vadeli sonucunu düşünmeden sürdürmenin büyük bir kayıpla sonuçlanabileceği söylenebilir. Kısa vadede fark edilmeyen bir yanlış yön, zamanla telafisi zor bir kayba dönüşebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yönünü kontrol et",
+   "aciklama": "Bugün üzerinde çalıştığın bir hedefin, seni gerçekten doğru yere götürüp götürmediğini gözden geçir."
+  },
+  {
+   "baslik": "Erken uyar",
+   "aciklama": "Bugün yanlış bir yönde ilerlediğini fark ettiğin bir konuda, erken bir düzeltme yap."
+  },
+  {
+   "baslik": "Boşa harcama",
+   "aciklama": "Bugün vaktini veya emeğini, sana gerçekten fayda sağlamayan bir şeye harcamaktan kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün üzerinde çalıştığın bir hedefin doğru yönde olup olmadığını kısaca gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=109"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/16/109"
+  }
+ ]
+}
