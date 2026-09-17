@@ -1,0 +1,229 @@
+{
+ "sure": 12,
+ "ayet": 65,
+ "durum": "taslak",
+ "meal": "Yüklerini açtıklarında sermayelerinin kendilerine geri verildiğini gördüler. Dediler ki: 'Ey babamız! Daha ne isteriz? İşte sermayemiz bize geri verilmiş. (Yine gidip) ailemize erzak getiririz, kardeşimizi koruruz ve bir deve yükü fazladan alırız. Bu, kolay bir ölçektir.'",
+ "mealNotu": "'Redde' (ردد) kökü geri çevirmeyi/iade etmeyi, 'zâde' (زيد) kökü artırmayı anlatır. Sermayelerinin geri verilmiş olması, kardeşler için hem bir şaşkınlık hem de babalarını ikna etmek için ek bir delildir.",
+ "kokler": [
+  {
+   "kelime": "وَلَمَّا",
+   "okunus": "ve lemmâ",
+   "kok": "—",
+   "kokAnlam": "zaman",
+   "karsilik": "-diğinde"
+  },
+  {
+   "kelime": "فَتَحُوا۟",
+   "okunus": "fetehû",
+   "kok": "فتح",
+   "kokAnlam": "açma",
+   "karsilik": "açtıklarında"
+  },
+  {
+   "kelime": "مَتَٰعَهُمْ",
+   "okunus": "metâahüm",
+   "kok": "متع",
+   "kokAnlam": "eşya, yük",
+   "karsilik": "yüklerini"
+  },
+  {
+   "kelime": "وَجَدُوا۟",
+   "okunus": "vecedû",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "gördüler"
+  },
+  {
+   "kelime": "بِضَٰعَتَهُمْ",
+   "okunus": "bidâatehüm",
+   "kok": "بضع",
+   "kokAnlam": "sermaye",
+   "karsilik": "sermayelerinin"
+  },
+  {
+   "kelime": "رُدَّتْ",
+   "okunus": "ruddet",
+   "kok": "ردد",
+   "kokAnlam": "geri çevirme, iade etme",
+   "karsilik": "geri verildiğini"
+  },
+  {
+   "kelime": "إِلَيْهِمْ",
+   "okunus": "ileyhim",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "يَٰٓأَبَانَا",
+   "okunus": "yâ ebânâ",
+   "kok": "أبو",
+   "kokAnlam": "baba",
+   "karsilik": "ey babamız"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "soru",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "نَبْغِى",
+   "okunus": "nebğî",
+   "kok": "بغي",
+   "kokAnlam": "isteme, arama",
+   "karsilik": "isteriz"
+  },
+  {
+   "kelime": "هَٰذِهِۦ",
+   "okunus": "hâzihî",
+   "kok": "—",
+   "kokAnlam": "işaret",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "بِضَٰعَتُنَا",
+   "okunus": "bidâatünâ",
+   "kok": "بضع",
+   "kokAnlam": "sermaye",
+   "karsilik": "sermayemiz"
+  },
+  {
+   "kelime": "رُدَّتْ",
+   "okunus": "ruddet",
+   "kok": "ردد",
+   "kokAnlam": "geri çevirme",
+   "karsilik": "geri verilmiş"
+  },
+  {
+   "kelime": "إِلَيْنَا",
+   "okunus": "ileynâ",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "وَنَمِيرُ",
+   "okunus": "ve nemîru",
+   "kok": "مير",
+   "kokAnlam": "erzak getirme",
+   "karsilik": "ailemize erzak getiririz"
+  },
+  {
+   "kelime": "أَهْلَنَا",
+   "okunus": "ehlenâ",
+   "kok": "أهل",
+   "kokAnlam": "aile",
+   "karsilik": "ailemize"
+  },
+  {
+   "kelime": "وَنَحْفَظُ",
+   "okunus": "ve nahfezu",
+   "kok": "حفظ",
+   "kokAnlam": "koruma",
+   "karsilik": "koruruz"
+  },
+  {
+   "kelime": "أَخَانَا",
+   "okunus": "ehânâ",
+   "kok": "أخو",
+   "kokAnlam": "kardeş",
+   "karsilik": "kardeşimizi"
+  },
+  {
+   "kelime": "وَنَزْدَادُ",
+   "okunus": "ve nezdâdü",
+   "kok": "زيد",
+   "kokAnlam": "artırma, fazlalaştırma",
+   "karsilik": "ve fazladan alırız"
+  },
+  {
+   "kelime": "كَيْلٌ",
+   "okunus": "keyle",
+   "kok": "كيل",
+   "kokAnlam": "ölçek",
+   "karsilik": "bir ölçek"
+  },
+  {
+   "kelime": "بَعِيرٍ",
+   "okunus": "beîrin",
+   "kok": "بعر",
+   "kokAnlam": "deve",
+   "karsilik": "deve (yükü)"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "işaret",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "كَيْلٌ",
+   "okunus": "keylün",
+   "kok": "كيل",
+   "kokAnlam": "ölçek",
+   "karsilik": "ölçektir"
+  },
+  {
+   "kelime": "يَسِيرٌ",
+   "okunus": "yesîrun",
+   "kok": "يسر",
+   "kokAnlam": "kolaylık",
+   "karsilik": "kolay bir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette Ya'kub'un tereddüdü anlatılmıştı; bu ayette kardeşler yüklerini açtıklarında erzak bedellerinin kendilerine geri verildiğini görürler. Bu beklenmedik durum, onlar için hem bir şaşkınlık hem de babalarını ikna etmek için yeni bir delildir.",
+  "Klasik tefsir, kardeşlerin bu gelişmeyi bir güven işareti olarak babalarına sunduklarını belirtir; onlar bunu hem ailelerine erzak getirmek hem kardeşlerini korumak hem de fazladan erzak almak için bir fırsat olarak görürler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "12:88",
+   "meal": "Onun yanına girdiklerinde dediler ki: 'Ey Aziz! Bize ve ailemize darlık dokundu; değersiz bir sermaye ile geldik. Bize ölçeği tam ver ve bize sadaka (bağış) ver. Şüphesiz Allah sadaka verenleri mükâfatlandırır.'",
+   "baglanti": "Bu ayette kardeşler yine az bir sermaye ile Yûsuf'un huzuruna gelir; 12:65'teki 'sermayemiz bize geri verilmiş' sevinci ile 12:88'deki daha zor durumları, kıssada tekrar eden bir 'sermaye/bidâa' motifidir."
+  },
+  {
+   "ref": "14:7",
+   "meal": "Hani Rabbiniz şöyle bildirmişti: 'Andolsun, şükrederseniz elbette size (nimetimi) artırırım; ama nankörlük ederseniz, şüphesiz azabım çok şiddetlidir.'",
+   "baglanti": "Bu ayetteki 'artırma' (زيد) vaadi, 12:65'te kardeşlerin 'bir deve yükü daha fazla alırız' (نزداد) demesiyle aynı köke dayanır; nimetin artması teması iki ayette de bulunur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kardeşlerin erzak bedellerinin kendilerine geri verildiğini fark etmeleridir; bu, özel bir kıssa detayıdır.",
+  "Buradan çıkan genel ders, beklenmedik bir iyiliği fark edip onu doğru değerlendirmektir. Bugün hayatında beklenmedik bir kolaylık veya iyilik yaşarsan, bunu fark edip şükretmen, bu ayetten çıkarılabilecek bir derstir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Beklenmedik iyiliği fark et",
+   "aciklama": "Bugün hayatında fark etmediğin küçük bir kolaylığı bulup şükret."
+  },
+  {
+   "baslik": "Fırsatı değerlendir",
+   "aciklama": "Önünde duran bir imkânı bugün geciktirmeden değerlendir."
+  },
+  {
+   "baslik": "Aileni önceliklendir",
+   "aciklama": "Bugün elindeki bir imkânı önce ailenin ihtiyacı için kullan."
+  }
+ ],
+ "bugununAdimi": "Bugün fark etmediğin küçük bir kolaylığı bulup buna şükret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=65"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/12/65"
+  }
+ ]
+}

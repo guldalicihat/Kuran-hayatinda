@@ -1,0 +1,96 @@
+{
+ "sure": 12,
+ "ayet": 74,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'Peki, eğer yalancı iseniz bunun cezası nedir?'",
+ "mealNotu": "'Cezâ' kökü (جزي) karşılık/ceza anlamındadır; bu, Mısırlı görevlilerin kardeşlere kendi hukuklarına göre önerecekleri cezayı sorduğu bir sorudur.",
+ "kokler": [
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "فَمَا",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "ilgi, 'nedir'",
+   "karsilik": "peki nedir"
+  },
+  {
+   "kelime": "جَزَٰٓؤُهُۥٓ",
+   "okunus": "cezâühû",
+   "kok": "جزي",
+   "kokAnlam": "ceza, karşılık",
+   "karsilik": "onun cezası"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "şart, 'eğer'",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "كَٰذِبِينَ",
+   "okunus": "kâzibîne",
+   "kok": "كذب",
+   "kokAnlam": "yalan söyleme",
+   "karsilik": "yalancılar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette kardeşler hırsız olmadıklarını söylemişti; bu ayette Mısırlı görevliler, eğer yalan söylüyorlarsa (gerçekten hırsız çıkarlarsa) uygulanacak cezayı kendi ağızlarından sormaktadır. Bu soru, kardeşlerin kendi hukuklarına göre cevap vermelerini sağlayan bir açılış cümlesidir.",
+  "Ayet kısa ama işlevseldir: Mısır yönetimi, suçu kanıtlamadan önce suçlanan tarafın kendi kuralını beyan etmesini ister. Bir sonraki ayette kardeşlerin bu soruya verdiği cevap, olayın seyrini belirleyecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:164",
+   "meal": "De ki: Allah'tan başka bir Rab mi arayayım? Oysa O, her şeyin Rabbidir. Herkesin kazandığı yalnız kendine aittir; hiçbir günahkâr başkasının günahını yüklenmez...",
+   "baglanti": "Bu ayetteki 'hiç kimse başkasının günahını yüklenmez' ilkesi, 12:74'te sorulan cezanın da yalnızca suçu işleyene ait olması gerektiği mantığını destekler."
+  },
+  {
+   "ref": "12:76",
+   "meal": "Bunun üzerine kardeşinin kabından önce onların kaplarını aramaya başladı, sonra kabı kardeşinin kabından çıkardı. İşte biz Yûsuf için böyle bir plan kurduk...",
+   "baglanti": "74. ayetteki 'cezası nedir' sorusunun uygulaması, 76. ayette Yûsuf'un kurduğu planla fiilen gerçekleşir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu bir hukuki sorgulamadır; taraflardan birine kendi cezasını beyan etmesi sorulur.",
+  "Buradan çıkan genel ders, bir kurala veya sözleşmeye bağlanmadan önce sonuçlarını iyi düşünmek gerektiğidir; bugün bir taahhütte bulunmadan önce, o taahhüdün bedelini göze alıp almadığını sorman, bu ayetten çıkarılabilecek bir derstir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Taahhüdünün bedelini düşün",
+   "aciklama": "Bugün bir söz verirken, o sözü tutamazsan ne olacağını da düşün."
+  },
+  {
+   "baslik": "Adil kuralı kendin belirle",
+   "aciklama": "Bir anlaşmazlıkta kendi önerdiğin kuralın adil olup olmadığını sorgula."
+  },
+  {
+   "baslik": "Aceleyle cevap verme",
+   "aciklama": "Bugün önemli bir soruya cevap vermeden önce bir an durup düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün bir söz vermeden önce, o sözün sonucunu göze alıp almadığını kendine sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=74"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/12/74"
+  }
+ ]
+}
