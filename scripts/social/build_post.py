@@ -14,8 +14,8 @@ Kullanım:
 """
 import argparse, glob, json, os, re
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-SITE = "https://guldalicihat.github.io/Kuran-hayatinda/#/sure/{s}/{a}"
-SITE_ADI = "guldalicihat.github.io/Kuran-hayatinda"
+SITE = "https://kuranhayatimda.com/#/sure/{s}/{a}"
+SITE_ADI = "kuranhayatimda.com"
 HASHTAG_SABIT = ["#Kuran", "#Ayet", "#KuranHayatında"]
 
 def load_chapter(s):
