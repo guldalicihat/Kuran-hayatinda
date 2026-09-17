@@ -78,7 +78,7 @@ export default function SettingsPage() {
       </Row>
       <Row>
         <p className="font-medium mb-1">Hakkında</p>
-        <p className="text-sm muted leading-relaxed">Arapça metin: Tanzil Uthmani. Kelime kökleri: Quranic Arabic Corpus. Okunuş: harekeli metinden kurala dayalı üretim. Meal ve açıklamalar: doğrulanmış köklerden yapay zekâ desteğiyle hazırlanan, "incelendi" işaretine kadar taslak sayılan metinler. Ayrıntı için depodaki KAYNAKLAR.md dosyasına bakın.</p>
+        <p className="text-sm muted leading-relaxed">Arapça metin: Tanzil Uthmani. Kelime kökleri: Quranic Arabic Corpus. Okunuş: harekeli metinden kurala dayalı üretim. Meal ve açıklamalar: doğrulanmış köklerden yapay zekâ desteğiyle hazırlanan metinler. Ayrıntı için depodaki KAYNAKLAR.md dosyasına bakın.</p>
       </Row>
     </div>
   )

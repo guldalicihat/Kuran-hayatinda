@@ -84,11 +84,6 @@ export default function AyahPage() {
       {content === undefined && <p className="p-6 text-center muted">Yükleniyor…</p>}
       {content && (
         <>
-          <div className="px-4 py-2 text-xs muted flex items-center gap-2">
-            <span className={`px-2 py-0.5 rounded-full ${content.durum === 'incelendi' ? 'accent' : ''}`} style={{ background: 'var(--accent-soft)' }}>
-              {content.durum === 'incelendi' ? 'İncelendi' : 'İnceleme bekliyor'}
-            </span>
-          </div>
           <Section no="1." title={`Ayetin meali — ${ch?.ad ?? ''} ${a}`}>
             <p className="text-[1.05em]">“{content.meal}”</p>
             {content.mealNotu && <p className="muted text-[0.95em]">{content.mealNotu}</p>}
