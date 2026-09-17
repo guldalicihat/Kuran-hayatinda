@@ -1,0 +1,215 @@
+{
+ "sure": 16,
+ "ayet": 61,
+ "durum": "taslak",
+ "meal": "Allah, insanları zulümleri yüzünden hemen cezalandırsaydı, yeryüzünde hiçbir canlı bırakmazdı. Fakat onlara belirlenmiş bir süreye kadar mühlet tanır. Süreleri geldiğinde ise ne bir an geciktirebilirler ne de öne alabilirler.",
+ "mealNotu": "'Ecel' kökü belirlenmiş bir süreyi/vadeyi ifade eder; ayet Allah'ın cezalandırmayı hemen değil, belirli bir vadeye erteleyen mühlet ilkesini anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "şart edatı",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يُؤَاخِذُ",
+   "okunus": "yüâhızü",
+   "kok": "أخذ",
+   "kokAnlam": "yakalama, hesaba çekme",
+   "karsilik": "cezalandırsaydı"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; özel ad Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلنَّاسَ",
+   "okunus": "ennâse",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanları"
+  },
+  {
+   "kelime": "بِظُلْمِهِم",
+   "okunus": "bizulmihim",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, zulüm",
+   "karsilik": "zulümleri yüzünden"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "-mazdı"
+  },
+  {
+   "kelime": "تَرَكَ",
+   "okunus": "terake",
+   "kok": "ترك",
+   "kokAnlam": "bırakma",
+   "karsilik": "bırakmazdı"
+  },
+  {
+   "kelime": "عَلَيْهَا",
+   "okunus": "aleyhâ",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "دَآبَّةٍ",
+   "okunus": "dâbbetin",
+   "kok": "دبب",
+   "kokAnlam": "yürüyen canlı",
+   "karsilik": "canlı"
+  },
+  {
+   "kelime": "وَلَٰكِن",
+   "okunus": "ve lâkin",
+   "kok": "—",
+   "kokAnlam": "düzeltme edatı",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "يُؤَخِّرُهُمْ",
+   "okunus": "yüehhıruhüm",
+   "kok": "أخر",
+   "kokAnlam": "erteleme, süre tanıma",
+   "karsilik": "onlara süre tanır"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "أَجَلٍ",
+   "okunus": "ecelin",
+   "kok": "أجل",
+   "kokAnlam": "belirlenmiş süre, vade",
+   "karsilik": "bir süreye"
+  },
+  {
+   "kelime": "مُّسَمًّى",
+   "okunus": "müsemmen",
+   "kok": "سمو",
+   "kokAnlam": "adlandırılmış, belirlenmiş",
+   "karsilik": "belirlenmiş"
+  },
+  {
+   "kelime": "فَإِذَا",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "zaman edatı",
+   "karsilik": "geldiğinde"
+  },
+  {
+   "kelime": "جَآءَ",
+   "okunus": "câe",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "geldiğinde"
+  },
+  {
+   "kelime": "أَجَلُهُمْ",
+   "okunus": "ecelühüm",
+   "kok": "أجل",
+   "kokAnlam": "belirlenmiş süre, vade",
+   "karsilik": "süreleri"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "-mazlar"
+  },
+  {
+   "kelime": "يَسْتَـْٔخِرُونَ",
+   "okunus": "yeste'hırûne",
+   "kok": "أخر",
+   "kokAnlam": "geciktirme, erteleme isteme",
+   "karsilik": "geciktiremezler"
+  },
+  {
+   "kelime": "سَاعَةً",
+   "okunus": "sâaten",
+   "kok": "سوع",
+   "kokAnlam": "an, kısa süre",
+   "karsilik": "bir an"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "يَسْتَقْدِمُونَ",
+   "okunus": "yestekdimûne",
+   "kok": "قدم",
+   "kokAnlam": "öne alma, çabuklaştırma isteme",
+   "karsilik": "öne alabilirler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki Allah'ın en yüce nitelikle anılması temasından, O'nun adaletine ve sabrına geçer. Klasik tefsir bunu, Allah'ın kulların zulümleri yüzünden onları hemen cezalandırmadığını, aksine belirli bir süreye kadar mühlet tanıdığını anlatan genel bir ilke ayeti olarak açıklar.",
+  "Ayetin ikinci kısmı bu mühletin sınırlı olduğunu vurgular: süre dolduğunda ne bir an ertelenebilir ne de öne alınabilir. Bu hem bir teselli (Allah hemen cezalandırmıyor) hem de bir uyarıdır (süre sonsuz değildir, mutlaka dolacaktır)."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "35:45",
+   "meal": "Allah insanları kazandıkları (günahlar) yüzünden hemen cezalandırsaydı, yeryüzünde hiçbir canlı bırakmazdı. Fakat onlara belirlenmiş bir süreye kadar mühlet tanır. Süreleri geldiğinde ise Allah kullarını hakkıyla görendir.",
+   "baglanti": "16:61 ile neredeyse aynı ifadeyi tekrarlayarak mühlet ilkesinin Kur'an'da tekrar eden temel bir öğreti olduğunu gösterir."
+  },
+  {
+   "ref": "7:34",
+   "meal": "Her ümmetin belirlenmiş bir süresi vardır; süreleri geldiğinde ise ne bir an geciktirebilirler ne de öne alabilirler.",
+   "baglanti": "16:61'in son cümlesini aynı ifadeyle tekrarlayarak bu ilkenin hem bireyler hem de toplumlar için geçerli olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah'ın insanları zulümleri yüzünden hemen cezalandırmayıp belirli bir süreye kadar mühlet tanımasıdır; bu itikadi bir ilkedir.",
+  "Buradan çıkan ders: bir hatanın hemen cezalandırılmaması, o hatanın önemsiz olduğu ya da unutulduğu anlamına gelmez. Mühlet, kişiye kendini düzeltme fırsatı olarak görülmelidir; bu fırsatı fark edip değerlendirmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Mühleti fırsat bil",
+   "aciklama": "Bugün ertelediğin bir tövbe ya da düzeltmeyi, elindeki zamanı bir fırsat sayarak öne al."
+  },
+  {
+   "baslik": "Sabrı hatırla",
+   "aciklama": "Bir haksızlığa uğradığında, hemen karşılık vermek yerine adaletin bir süreç olduğunu hatırla."
+  },
+  {
+   "baslik": "Zamanını değerlendir",
+   "aciklama": "Bugün, elindeki vaktin sınırlı olduğunu düşünerek bir sorumluluğunu geciktirmeden yerine getir."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir düzeltmeyi, elindeki zamanı bir mühlet bilerek şimdi yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=61"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/16/61"
+  }
+ ]
+}

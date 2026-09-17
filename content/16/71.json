@@ -1,0 +1,208 @@
+{
+ "sure": 16,
+ "ayet": 71,
+ "durum": "taslak",
+ "meal": "Allah, rızıkta kiminizi kiminizden üstün kıldı. Üstün kılınanlar, rızıklarını ellerinin altındakilere verip de bu konuda onlarla eşit olmaya razı değildir. Peki Allah'ın nimetini mi inkâr ediyorlar?",
+ "mealNotu": "Ayet, o dönemin toplumsal düzenindeki efendi-köle ilişkisini örnek göstererek bir mantık yürütür: insanlar kendi sahip oldukları rızkı bile başkalarıyla eşit paylaşmaya razı olmazken, Allah'a -kendi mülkünde- ortak koşmaları tutarsızdır. Ayet bu tarihsel örneği aktarır, günümüze dair bir hüküm koymaz.",
+ "kokler": [
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; özel ad Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "فَضَّلَ",
+   "okunus": "feddale",
+   "kok": "فضل",
+   "kokAnlam": "üstün kılma, fazlalık verme",
+   "karsilik": "üstün kıldı"
+  },
+  {
+   "kelime": "بَعْضَكُمْ",
+   "okunus": "ba'daküm",
+   "kok": "بعض",
+   "kokAnlam": "bazı, bir kısım",
+   "karsilik": "kiminizi"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "بَعْضٍ",
+   "okunus": "ba'dın",
+   "kok": "بعض",
+   "kokAnlam": "bazı, bir kısım",
+   "karsilik": "kiminizden"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلرِّزْقِ",
+   "okunus": "errizkı",
+   "kok": "رزق",
+   "kokAnlam": "rızık",
+   "karsilik": "rızıkta"
+  },
+  {
+   "kelime": "فَمَا",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "فُضِّلُوا۟",
+   "okunus": "füddılû",
+   "kok": "فضل",
+   "kokAnlam": "üstün kılınma",
+   "karsilik": "üstün kılınanlar"
+  },
+  {
+   "kelime": "بِرَآدِّى",
+   "okunus": "birâddî",
+   "kok": "ردد",
+   "kokAnlam": "geri veren, veren",
+   "karsilik": "verecek"
+  },
+  {
+   "kelime": "رِزْقِهِمْ",
+   "okunus": "rizkıhim",
+   "kok": "رزق",
+   "kokAnlam": "rızık",
+   "karsilik": "rızıklarını"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "kimselere"
+  },
+  {
+   "kelime": "مَلَكَتْ",
+   "okunus": "meleket",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, mülk edinme",
+   "karsilik": "sahip oldukları"
+  },
+  {
+   "kelime": "أَيْمَٰنُهُمْ",
+   "okunus": "eymânühüm",
+   "kok": "يمن",
+   "kokAnlam": "sağ el, mülkiyet",
+   "karsilik": "ellerinin altındakilere"
+  },
+  {
+   "kelime": "فَهُمْ",
+   "okunus": "fehüm",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "سَوَآءٌ",
+   "okunus": "sevâün",
+   "kok": "سوي",
+   "kokAnlam": "eşitlik, denklik",
+   "karsilik": "eşit"
+  },
+  {
+   "kelime": "أَفَبِنِعْمَةِ",
+   "okunus": "efebini'meti",
+   "kok": "نعم",
+   "kokAnlam": "nimet",
+   "karsilik": "peki nimetini mi"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; özel ad Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "يَجْحَدُونَ",
+   "okunus": "yechadûne",
+   "kok": "جحد",
+   "kokAnlam": "inkâr etme, bile bile reddetme",
+   "karsilik": "inkâr ediyorlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki yaratılış-yaşlanma temasından sonra, rızıktaki farklılığa geçer. Klasik tefsir bunu, rızıktaki eşitsizliğin bir imtihan olduğunu, insanların kendi imkânlarını başkalarıyla bile eşit paylaşmaya yanaşmadığını gösteren bir örnek olarak açıklar; burada 'ellerinin altındakiler' ifadesiyle o dönemin köle-efendi düzenine işaret edilir.",
+  "Ayetin sonu bir mantık sorusu sorar: insanlar kendi nimetlerini paylaşmaya bile razı olmazken, Allah'a ortak koşmaları -yani Allah'ın kendine has yetkisini başkalarıyla paylaştığını düşünmeleri- nasıl tutarlı olabilir? Bu, şirkin akıl yönünden de çelişkili olduğunu gösteren bir örnektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "43:32",
+   "meal": "Rabbinin rahmetini onlar mı paylaştırıyor? Dünya hayatında geçimliklerini aralarında biz paylaştırdık; birbirlerine iş gördürebilsinler diye kimini kiminden derecelerle üstün kıldık...",
+   "baglanti": "Rızıktaki farklılığın bir imtihan ve toplumsal düzenin bir parçası olduğunu anlatarak 16:71'in temelini açıklar."
+  },
+  {
+   "ref": "6:165",
+   "meal": "Sizi yeryüzünün halifeleri kılan, size verdikleriyle sizi sınamak için kiminizi kiminizden derecelerle üstün kılan O'dur...",
+   "baglanti": "Rızık ve imkânlardaki farklılığın bir imtihan olduğunu aynı 'derecelerle üstün kılma' ifadesiyle pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, rızıktaki farklılığın bir imtihan olduğu ve insanların kendi imkânlarını bile eşit paylaşmaya yanaşmadığıdır; ayet bunu, o dönemin köle-efendi ilişkisi üzerinden tarihsel bir örnekle anlatır.",
+  "Buradan çıkan ders: elindeki imkânı başkalarıyla paylaşmaya gönülsüz olmak insani bir zaaftır; bunu fark etmek, kişiyi elindeki nimeti daha cömertçe paylaşmaya ve Allah'a şükre yöneltebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Elindekini paylaş",
+   "aciklama": "Bugün elindeki bir imkânı (zaman, bilgi, yiyecek) ihtiyaç sahibi biriyle paylaş."
+  },
+  {
+   "baslik": "Kıskançlığı fark et",
+   "aciklama": "Bir şeyi paylaşmakta zorlandığın bir anı bugün fark edip nedenini düşün."
+  },
+  {
+   "baslik": "Nimeti say",
+   "aciklama": "Bugün sahip olduğun bir nimeti (rızık, sağlık, imkân) bilinçli olarak say ve şükret."
+  }
+ ],
+ "bugununAdimi": "Bugün elindeki bir imkânı ihtiyaç sahibi biriyle paylaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=71"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/16/71"
+  }
+ ]
+}
