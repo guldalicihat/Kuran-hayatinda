@@ -42,12 +42,17 @@ export default function AyahPage() {
   const refName = (ref: string) => { const r = parseRef(ref); const c = r && chapters.find(x => x.n === r[0]); return c ? `${c.ad} ${r![1]}` : ref }
   const share = async () => {
     const url = `${SITE}/#/sure/${n}/${a}`
-    const title = ch ? `${ch.ad} ${a} — Kur'an Hayatında` : "Kur'an Hayatında"
-    const text = content?.meal ? `"${content.meal}" (${ch?.ad ?? ''} ${a})` : title
+    const ref = `${ch?.ad ?? ''} ${a}`
+    const title = ch ? `${ref} — Kur'an Hayatında` : "Kur'an Hayatında"
+    const text = ayah && content?.meal
+      ? `${ayah.ar}\n${ayah.okunus}\n\n"${content.meal}"\n(${ref})\n\nKur'an Hayatında —`
+      : ayah
+        ? `${ayah.ar}\n${ayah.okunus}\n\n(${ref}) — Kur'an Hayatında`
+        : title
     if (navigator.share) {
       try { await navigator.share({ title, text, url }) } catch { /* kullanıcı paylaşımı iptal etti */ }
     } else {
-      try { await navigator.clipboard.writeText(url); setCopied(true); setTimeout(() => setCopied(false), 2000) } catch { /* pano erişimi yok */ }
+      try { await navigator.clipboard.writeText(`${text}\n${url}`); setCopied(true); setTimeout(() => setCopied(false), 2000) } catch { /* pano erişimi yok */ }
     }
   }
   return (
