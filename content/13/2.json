@@ -1,0 +1,236 @@
+{
+ "sure": 13,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Allah, gördüğünüz gibi gökleri direksiz yükselten, sonra Arş'a istiva eden, güneşi ve ayı buyruğuna boyun eğdiren Allah'tır. Her biri belirlenmiş bir süreye kadar akar gider. İşi düzenler, ayetleri ayrıntılı olarak açıklar ki Rabbinize kavuşacağınıza kesin olarak inanasınız.",
+ "mealNotu": "'İstiva ala'l-arş' ifadesinde Ehl-i sünnet, Allah'ın zatına yakışır, keyfiyeti (nasıllığı) insan aklıyla kavranamayan bir sıfat olduğunu, bunun bir yer kaplama ya da oturma anlamına gelmediğini kabul eder; klasik tefsir bu konuda teşbihten (benzetmeden) kaçınarak açıklama yapar. 'Amed' (direk) kelimesi köşeli parantezsiz, doğrudan görünen anlamıyla çevrilmiştir.",
+ "kokler": [
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, olan",
+   "karsilik": "-dir ki"
+  },
+  {
+   "kelime": "رَفَعَ",
+   "okunus": "rafea",
+   "kok": "رفع",
+   "kokAnlam": "yükseltme, kaldırma",
+   "karsilik": "yükseltti"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "gökleri"
+  },
+  {
+   "kelime": "بِغَيْرِ",
+   "okunus": "biğayri",
+   "kok": "غير",
+   "kokAnlam": "başkalık, -sız",
+   "karsilik": "-siz"
+  },
+  {
+   "kelime": "عَمَدٍ",
+   "okunus": "amedin",
+   "kok": "عمد",
+   "kokAnlam": "direk, destek",
+   "karsilik": "direk"
+  },
+  {
+   "kelime": "تَرَوْنَهَا",
+   "okunus": "teravnehâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "gördüğünüz gibi"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "bağlaç, sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ٱسْتَوَىٰ",
+   "okunus": "istevâ",
+   "kok": "سوي",
+   "kokAnlam": "istiva, doğrulma, hâkim olma",
+   "karsilik": "istiva etti"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "edat, üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلْعَرْشِ",
+   "okunus": "el'arşi",
+   "kok": "عرش",
+   "kokAnlam": "taht, Arş",
+   "karsilik": "Arş'ın"
+  },
+  {
+   "kelime": "وَسَخَّرَ",
+   "okunus": "ve sehhara",
+   "kok": "سخر",
+   "kokAnlam": "boyun eğdirme, emre amade kılma",
+   "karsilik": "ve boyun eğdirdi"
+  },
+  {
+   "kelime": "ٱلشَّمْسَ",
+   "okunus": "eşşemse",
+   "kok": "شمس",
+   "kokAnlam": "güneş",
+   "karsilik": "güneşi"
+  },
+  {
+   "kelime": "وَٱلْقَمَرَ",
+   "okunus": "vel kamera",
+   "kok": "قمر",
+   "kokAnlam": "ay",
+   "karsilik": "ve ayı"
+  },
+  {
+   "kelime": "كُلٌّ",
+   "okunus": "küllün",
+   "kok": "كلل",
+   "kokAnlam": "her biri, bütün",
+   "karsilik": "her biri"
+  },
+  {
+   "kelime": "يَجْرِى",
+   "okunus": "yecrî",
+   "kok": "جري",
+   "kokAnlam": "akma, cereyan etme",
+   "karsilik": "akar gider"
+  },
+  {
+   "kelime": "لِأَجَلٍ",
+   "okunus": "liecelin",
+   "kok": "أجل",
+   "kokAnlam": "süre, ecel",
+   "karsilik": "bir süreye kadar"
+  },
+  {
+   "kelime": "مُّسَمًّى",
+   "okunus": "müsemmen",
+   "kok": "سمو",
+   "kokAnlam": "isimlendirilme, belirlenme",
+   "karsilik": "belirlenmiş"
+  },
+  {
+   "kelime": "يُدَبِّرُ",
+   "okunus": "yüdebbiru",
+   "kok": "دبر",
+   "kokAnlam": "yönetme, tedbir alma",
+   "karsilik": "düzenler"
+  },
+  {
+   "kelime": "ٱلْأَمْرَ",
+   "okunus": "el'emra",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir",
+   "karsilik": "işi"
+  },
+  {
+   "kelime": "يُفَصِّلُ",
+   "okunus": "yüfessılü",
+   "kok": "فصل",
+   "kokAnlam": "ayırma, ayrıntılı açıklama",
+   "karsilik": "ayrıntılı olarak açıklar"
+  },
+  {
+   "kelime": "ٱلْءَايَٰتِ",
+   "okunus": "el'âyâti",
+   "kok": "أيي",
+   "kokAnlam": "ayet, işaret",
+   "karsilik": "ayetleri"
+  },
+  {
+   "kelime": "لَعَلَّكُم",
+   "okunus": "lealleküm",
+   "kok": "—",
+   "kokAnlam": "umut, te'kid, -esiniz diye",
+   "karsilik": "-esiniz diye"
+  },
+  {
+   "kelime": "بِلِقَآءِ",
+   "okunus": "bilikâi",
+   "kok": "لقي",
+   "kokAnlam": "kavuşma, karşılaşma",
+   "karsilik": "kavuşmanıza"
+  },
+  {
+   "kelime": "رَبِّكُمْ",
+   "okunus": "rabbiküm",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, rablik",
+   "karsilik": "Rabbinizle"
+  },
+  {
+   "kelime": "تُوقِنُونَ",
+   "okunus": "tûkınûne",
+   "kok": "يقن",
+   "kokAnlam": "kesin bilgi, yakîn",
+   "karsilik": "kesin olarak inanasınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, sureyi açan 'Kitap haktır' iddiasının ardından bu hakkın delillerine geçer: gözle görülen gökler ve gök cisimleri. 'Rafea' (yükseltme) ve 'sehhara' (boyun eğdirme) kökleri, göklerin ve güneş-ayın kendiliğinden değil, bir irade ile düzenlendiğini anlatır; 'yecrî li ecelin müsemmâ' (belirlenmiş bir süreye kadar akış) ise evrendeki düzenin geçici değil ölçülü olduğunu vurgular.",
+  "Ayetin sonundaki 'Rabbinize kavuşacağınıza kesin inanasınız diye' ifadesi, tabiattaki bu düzenin salt bilgi için değil, ahirete iman etmeye götüren bir delil olarak sunulduğunu gösterir. Klasik tefsir, 'istiva ala'l-arş' ifadesini Allah'ın yaratılmışlara benzemeyen, keyfiyeti bilinmeyen bir yüceliği olarak açıklar; ayetin asıl vurgusu ise gökleri ve gezegenleri yöneten gücün aynı zamanda hesap gününü de gerçekleştirecek güç olduğudur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "31:10",
+   "meal": "Allah gökleri, gördüğünüz gibi direksiz yarattı; yeryüzünde de sizi sarsmasın diye sabit dağlar yerleştirdi ve orada her türden canlıyı yaydı. Gökten su indirdik de yeryüzünde her güzel çiftten bitkiler bitirdik.",
+   "baglanti": "31:10'daki 'gökleri direksiz yaratma' ifadesi, 13:2'nin ilk cümlesiyle neredeyse kelimesi kelimesine aynıdır."
+  },
+  {
+   "ref": "7:54",
+   "meal": "Şüphesiz Rabbiniz, gökleri ve yeri altı günde yaratan, sonra Arş'a istiva eden Allah'tır. Gündüzü, durmadan onu kovalayan geceyle örter; güneşi, ayı ve yıldızları da buyruğuna boyun eğmiş olarak yaratmıştır. İyi bilin ki yaratmak da, emretmek de O'nundur. Âlemlerin Rabbi olan Allah ne yücedir.",
+   "baglanti": "7:54, 13:2'deki 'Arş'a istiva etti, güneşi ve ayı boyun eğdirdi' ifadelerini aynı sırayla ve daha geniş bir tasvirle tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, göklerin yaratılışı ve güneş-ayın düzenli hareketi üzerinden Allah'ın kudretine ve ahiret gerçeğine dikkat çekilmesidir; bu itikadi bir konudur ve doğrudan bir hukuk ya da davranış hükmü içermez.",
+  "Buradan çıkan genel ders, etrafımızdaki düzenin -gece gündüzün, mevsimlerin, gezegenlerin hareketinin- tesadüf olmadığını fark etmektir. Bugün gökyüzüne baktığında ya da güneşin doğup battığını gördüğünde, bunun arkasındaki düzeni bir an durup düşünmen, ayetin çağrısına karşılık verir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gökyüzüne bak",
+   "aciklama": "Bugün birkaç dakika gökyüzünü izle ve bu düzenin bir Yaratıcı'ya işaret ettiğini düşün."
+  },
+  {
+   "baslik": "Düzeni fark et",
+   "aciklama": "Hayatındaki bir düzenliliği (gündüz-gece, mevsimler) bugün bilinçli olarak fark et ve şükret."
+  },
+  {
+   "baslik": "Ahireti hatırla",
+   "aciklama": "Bugün bir işini yaparken, bir gün Rabbine kavuşacağını hatırlayarak niyetini gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün gökyüzünü izleyip bu düzenin Yaratıcısını bir cümleyle anarak günü bitir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/13/2"
+  }
+ ]
+}

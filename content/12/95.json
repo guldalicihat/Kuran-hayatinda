@@ -1,0 +1,96 @@
+{
+ "sure": 12,
+ "ayet": 95,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'Allah'a andolsun, sen hâlâ o eski yanılgının içindesin.'",
+ "mealNotu": "'Dalâl' kökü (ضلل) burada sapkınlık değil, gerçeği görememe/yanılma anlamındadır. Çevresindekiler, Ya'kub'un Yûsuf sevgisini hâlâ aşırı ve gerçekçi olmayan bir bağlılık olarak görürler.",
+ "kokler": [
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "تَٱللَّهِ",
+   "okunus": "tallâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, yemin edatıyla",
+   "karsilik": "Allah'a andolsun"
+  },
+  {
+   "kelime": "إِنَّكَ",
+   "okunus": "inneke",
+   "kok": "—",
+   "kokAnlam": "te'kid, 'gerçekten sen'",
+   "karsilik": "gerçekten sen"
+  },
+  {
+   "kelime": "لَفِى",
+   "okunus": "lefî",
+   "kok": "—",
+   "kokAnlam": "edat, 'içinde'",
+   "karsilik": "içindesin"
+  },
+  {
+   "kelime": "ضَلَٰلِكَ",
+   "okunus": "dalâlike",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, yanılma, gerçeği görememe",
+   "karsilik": "yanılgının"
+  },
+  {
+   "kelime": "ٱلْقَدِيمِ",
+   "okunus": "elkadîmi",
+   "kok": "قدم",
+   "kokAnlam": "eskilik, öncelik",
+   "karsilik": "eski"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ya'kub'un 'Yûsuf'un kokusunu duyuyorum' sözüne, yanındaki kişiler (klasik tefsir, bunların torunları veya çevresindekiler olduğunu belirtir, sadece on kardeş olması şart değildir) inanmaz ve onu eski alışkanlığıyla, yani Yûsuf'a olan aşırı bağlılığıyla suçlarlar.",
+  "'Dalâl' kökü, kıssada daha önce de geçmişti: kardeşler babalarının Yûsuf'u fazla sevmesini 'apaçık bir yanılgı' olarak nitelendirmişlerdi (12:8), şehirdeki kadınlar da Züleyha'nın aşkını aynı kökle tanımlamıştı (12:30). Burada da aynı kelime, yıllar sonra hâlâ aynı yanlış anlamayı taşır; oysa Ya'kub haklı çıkacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "12:30",
+   "meal": "Şehirdeki bazı kadınlar dediler ki: 'Azîz'in karısı, genç kölesinin nefsinden murad almak istiyor; onu aşkı yüzünden çılgınca sarmış. Doğrusu biz onu apaçık bir yanılgı içinde görüyoruz.'",
+   "baglanti": "12:95'te kullanılan 'dalâl' (yanılgı) kökü, 12:30'da şehir kadınlarının Züleyha hakkındaki sözlerinde de geçer; aynı kelime kıssada farklı kişiler için tekrarlanır."
+  },
+  {
+   "ref": "21:3",
+   "meal": "Kalpleri gaflette; zulmedenler gizlice fısıldaştılar: 'Bu da sizin gibi bir beşerden başka bir şey değil; siz göz göre göre büyüye mi geliyorsunuz?'",
+   "baglanti": "Bu ayette de insanlar, açık bir gerçeği kabul etmek yerine onu hemen yanlışlıkla nitelendirirler; 12:95'teki tepki de benzer bir aceleci yargılamadır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, çevresindekilerin Ya'kub'un sözünü ciddiye almayıp onu eski bir yanılgıyla suçlamasıdır; bu, kıssanın içindeki özel bir diyalogdur.",
+  "Buradan çıkan genel ders, bir kişinin güçlü inancının bazen başkaları tarafından yanlış anlaşılabileceğidir. Bugün birinin sana anlattığı bir şeyi hemen yargılamadan önce, onu daha iyi anlamaya çalışman, bu ayetten çıkarılabilecek bir derstir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Acele yargılama",
+   "aciklama": "Bugün birinin sözünü hemen reddetmeden önce onu anlamaya çalış."
+  },
+  {
+   "baslik": "Sabırlı ol",
+   "aciklama": "Yanlış anlaşıldığını hissettiğinde bugün sabırla açıklamaya devam et."
+  },
+  {
+   "baslik": "Önyargını sorgula",
+   "aciklama": "Bugün birine karşı taşıdığın bir önyargını fark edip sorgula."
+  }
+ ],
+ "bugununAdimi": "Bugün, birinin sözünü hemen yargılamadan önce durup onu gerçekten dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=95"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/12/95"
+  }
+ ]
+}

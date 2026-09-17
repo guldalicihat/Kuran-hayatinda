@@ -1,0 +1,159 @@
+{
+ "sure": 13,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Elif Lâm Mîm Râ. Bunlar Kitabın ayetleridir. Sana Rabbinden indirilen haktır; fakat insanların çoğu iman etmezler.",
+ "mealNotu": "Sure başındaki kesik harfler (mukattaa) hakkında kesin bir bilgi yoktur; klasik tefsir bunları Allah ile Rasûlü arasında bir sır olarak veya Kur'an'ın bu harflerden oluşup insanların benzerini getiremediğine bir işaret olarak açıklar. 'Hakk' kökü (حقق) burada 'sağlam, gerçek, yerinde' anlamını taşır.",
+ "kokler": [
+  {
+   "kelime": "الٓمٓر",
+   "okunus": "elif lâm mîm râ",
+   "kok": "—",
+   "kokAnlam": "mukattaa, kesik harfler",
+   "karsilik": "Elif Lâm Mîm Râ"
+  },
+  {
+   "kelime": "تِلْكَ",
+   "okunus": "tilke",
+   "kok": "—",
+   "kokAnlam": "işaret, bunlar/şunlar",
+   "karsilik": "bunlar"
+  },
+  {
+   "kelime": "ءَايَٰتُ",
+   "okunus": "âyâtü",
+   "kok": "أيي",
+   "kokAnlam": "ayet, alamet, işaret",
+   "karsilik": "ayetleridir"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "Kitabın"
+  },
+  {
+   "kelime": "وَٱلَّذِىٓ",
+   "okunus": "vellezî",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, olan",
+   "karsilik": "ve olan"
+  },
+  {
+   "kelime": "أُنزِلَ",
+   "okunus": "ünzile",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirilen"
+  },
+  {
+   "kelime": "إِلَيْكَ",
+   "okunus": "ileyke",
+   "kok": "—",
+   "kokAnlam": "edat, sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat, -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّكَ",
+   "okunus": "rabbike",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, rablik",
+   "karsilik": "Rabbinden"
+  },
+  {
+   "kelime": "ٱلْحَقُّ",
+   "okunus": "elhakku",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, sağlamlık",
+   "karsilik": "haktır"
+  },
+  {
+   "kelime": "وَلَٰكِنَّ",
+   "okunus": "ve lâkinne",
+   "kok": "—",
+   "kokAnlam": "düzeltme, te'kid",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "أَكْثَرَ",
+   "okunus": "eksera",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "çoğu"
+  },
+  {
+   "kelime": "ٱلنَّاسِ",
+   "okunus": "ennâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet",
+   "karsilik": "insanların"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-mezler"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "iman etme, güvenme",
+   "karsilik": "iman"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, birçok Mekkî surede olduğu gibi kesik harflerle açılır; ardından 'tilke âyâtül kitâb' (bunlar Kitabın ayetleridir) ifadesiyle konuşmanın konusu doğrudan Kur'an'ın kendisine çevrilir. 'Hakk' kökü, bu Kitabın rastgele bir söz değil, gerçeğe tam uyan, sağlam bir vahiy olduğunu vurgular.",
+  "Ayetin ikinci yarısı, hakikatin açık olmasının herkesin onu kabul edeceği anlamına gelmediğini hatırlatır: insanların çoğu iman etmez. Klasik tefsir bu tespiti, Kur'an boyunca tekrarlanan, kitlelerin çokluğunun doğruluğun ölçüsü olmadığını anlatan bir ilke olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:2",
+   "meal": "İşte bu Kitap; onda hiçbir şüphe yoktur. Muttakiler için bir hidayettir.",
+   "baglanti": "13:1'de Kitabın 'hak' olduğu vurgusu, 2:2'de aynı Kitabın 'şüphesiz' olduğu ifadesiyle aynı temel iddiayı taşır."
+  },
+  {
+   "ref": "34:6",
+   "meal": "Kendilerine ilim verilmiş olanlar, Rabbinden sana indirilenin hak olduğunu ve üstün, övgüye layık olan Allah'ın yoluna ilettiğini görürler.",
+   "baglanti": "34:6, 13:1'deki 'Rabbinden sana indirilen haktır' ifadesini, bunu görebilenlerin ilim sahipleri olduğunu ekleyerek tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın Allah katından indirilmiş, gerçeğe uygun bir kitap olduğu ve buna rağmen çoğu insanın iman etmediğidir; bu bir vahiy tanıtımı ve gerçekçi bir tespittir.",
+  "Buradan çıkan genel ders, bir şeyin doğruluğunun, ona inanan insan sayısına bağlı olmadığıdır. Bugün doğru bildiğin bir şeyi, etrafındaki çoğunluk farklı düşünse bile savunabilmen, bu ayetteki gerçekçi duruşla uyumludur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Çoğunluğa değil hakka bak",
+   "aciklama": "Bugün bir konuda doğru bildiğin şeyi, popüler olup olmadığına bakmadan savun."
+  },
+  {
+   "baslik": "Kur'an'a bir kez daha bak",
+   "aciklama": "Bugün Kur'an'dan bir bölüm oku ve onu 'Rabbinden gelen hak' bilerek dinle."
+  },
+  {
+   "baslik": "Sabırlı ol",
+   "aciklama": "Çevrende iman etmeyen ya da ilgisiz kalan biri varsa, bunun ayette de belirtilen bir gerçeklik olduğunu bilerek sabırla davran."
+  }
+ ],
+ "bugununAdimi": "Bugün Kur'an'dan bir sayfa oku ve okuduğunu 'Rabbimden gelen haktır' diyerek bitir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/13/1"
+  }
+ ]
+}

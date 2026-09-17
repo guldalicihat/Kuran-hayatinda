@@ -1,0 +1,201 @@
+{
+ "sure": 12,
+ "ayet": 101,
+ "durum": "taslak",
+ "meal": "'Rabbim! Bana mülkten (bir pay) verdin ve bana olayların/sözlerin yorumundan (bir bilgi) öğrettin. Ey göklerin ve yerin yaratıcısı! Sen dünyada da ahirette de benim velimsin (dostumsun). Beni müslüman olarak vefat ettir ve beni salihler arasına kat.'",
+ "mealNotu": "'Fâtır' kökü (فطر) yoktan var etmeyi, ilk kez yaratmayı ifade eder; 'te'vîlil ehâdîs' burada rüya ve olayların yorumlanması bilgisine işaret eder. Bu, Yûsuf'un tüm nimetlerin ardından Allah'a yönelttiği bir teslimiyet ve vefa duasıdır.",
+ "kokler": [
+  {
+   "kelime": "رَبِّ",
+   "okunus": "rabbi",
+   "kok": "ربب",
+   "kokAnlam": "rablik, terbiye etme",
+   "karsilik": "Rabbim"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "kesinlik edatı",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "ءَاتَيْتَنِى",
+   "okunus": "âteytenî",
+   "kok": "أتي",
+   "kokAnlam": "verme, getirme",
+   "karsilik": "bana verdin"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "edat, '-den'",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُلْكِ",
+   "okunus": "elmülki",
+   "kok": "ملك",
+   "kokAnlam": "mülk, hükümranlık",
+   "karsilik": "mülkten"
+  },
+  {
+   "kelime": "وَعَلَّمْتَنِى",
+   "okunus": "ve allemtenî",
+   "kok": "علم",
+   "kokAnlam": "öğretme, bilgi verme",
+   "karsilik": "ve bana öğrettin"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat, '-den'",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "تَأْوِيلِ",
+   "okunus": "te'vîli",
+   "kok": "أول",
+   "kokAnlam": "yorumlama, sonucuna varma",
+   "karsilik": "yorumundan"
+  },
+  {
+   "kelime": "ٱلْأَحَادِيثِ",
+   "okunus": "el'ehâdîsi",
+   "kok": "حدث",
+   "kokAnlam": "söz, olay, haber",
+   "karsilik": "olayların/sözlerin"
+  },
+  {
+   "kelime": "فَاطِرَ",
+   "okunus": "fâtıra",
+   "kok": "فطر",
+   "kokAnlam": "yoktan yaratma, ilk yaratma",
+   "karsilik": "yaratıcısı"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "gökler, yücelik",
+   "karsilik": "göklerin"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yerin"
+  },
+  {
+   "kelime": "أَنتَ",
+   "okunus": "ente",
+   "kok": "—",
+   "kokAnlam": "zamir, 'sen'",
+   "karsilik": "sen"
+  },
+  {
+   "kelime": "وَلِىِّۦ",
+   "okunus": "veliyyî",
+   "kok": "ولي",
+   "kokAnlam": "dostluk, yakınlık, koruyuculuk",
+   "karsilik": "velimsin"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat, 'içinde'",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلدُّنْيَا",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık, dünya hayatı",
+   "karsilik": "dünyada"
+  },
+  {
+   "kelime": "وَٱلْءَاخِرَةِ",
+   "okunus": "vel âhırati",
+   "kok": "أخر",
+   "kokAnlam": "sonralık, ahiret",
+   "karsilik": "ve ahirette"
+  },
+  {
+   "kelime": "تَوَفَّنِى",
+   "okunus": "teveffenî",
+   "kok": "وفي",
+   "kokAnlam": "vefat ettirme, canı alma",
+   "karsilik": "beni vefat ettir"
+  },
+  {
+   "kelime": "مُسْلِمًا",
+   "okunus": "müsliman",
+   "kok": "سلم",
+   "kokAnlam": "teslimiyet, İslam",
+   "karsilik": "müslüman olarak"
+  },
+  {
+   "kelime": "وَأَلْحِقْنِى",
+   "okunus": "ve elhiknî",
+   "kok": "لحق",
+   "kokAnlam": "kavuşturma, katma",
+   "karsilik": "ve beni kat"
+  },
+  {
+   "kelime": "بِٱلصَّٰلِحِينَ",
+   "okunus": "bis sâlihîne",
+   "kok": "صلح",
+   "kokAnlam": "iyilik, düzgünlük, salihlik",
+   "karsilik": "salihlere"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ailesiyle kavuştuktan ve tüm kıssanın parçaları tamamlandıktan sonra Yûsuf, aldığı her nimeti -mülkü ve rüya yorumu bilgisini- Allah'a nispet ederek dua eder. Bu dua, kıssanın en güzel ve en olgun anlarından biridir.",
+  "Yûsuf, dünyevi başarısının zirvesindeyken dünyaya değil ahirete yönelir; 'beni müslüman olarak vefat ettir, salihler arasına kat' diyerek en büyük arzusunun iyi bir son (hüsn-i hatime) olduğunu gösterir. Klasik tefsir, bu duayı bir müminin nimet anındaki en güzel tavrı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:83",
+   "meal": "'Rabbim! Bana hüküm (hikmet/hükümranlık) ver ve beni salihler arasına kat.'",
+   "baglanti": "İbrahim'in bu duasındaki 'beni salihler arasına kat' ifadesi, Yûsuf'un 12:101'deki duasında da kelimesi kelimesine geçer; iki peygamber de aynı isteği dile getirir."
+  },
+  {
+   "ref": "7:126",
+   "meal": "'Senin bizden hoşlanmayışın, sadece Rabbimizin ayetleri bize geldiğinde onlara iman etmemizden dolayıdır. Rabbimiz! Üzerimize sabır yağdır ve bizi müslüman olarak vefat ettir.'",
+   "baglanti": "Sihirbazların bu duasındaki 'bizi müslüman olarak vefat ettir' ifadesi, Yûsuf'un 12:101'deki 'beni müslüman olarak vefat ettir' duasıyla aynı içtenlikte bir son dileğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Yûsuf'un nimetlerinin zirvesindeyken Allah'a yönelttiği kişisel bir dua ve teslimiyet ifadesidir; bu, bir peygamberin kendine has bir anıdır.",
+  "Buradan çıkan genel ders, hayatın en güzel anlarında bile asıl hedefin Allah'a güzel bir şekilde kavuşmak olduğunu unutmamaktır. Bugün elde ettiğin bir başarının ya da nimetin ardından, bunu geçici bir dünya nimeti olarak görüp asıl hedefinin iyi bir son olduğunu hatırlaman, bu ayetten çıkarılabilecek bir derstir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Nimeti Allah'a bağla",
+   "aciklama": "Bugün sahip olduğun bir nimeti, kendine değil Allah'ın verdiğine bağla."
+  },
+  {
+   "baslik": "Hüsn-i hatime dile",
+   "aciklama": "Bugün duanda, iyi bir sonla Allah'a kavuşmayı iste."
+  },
+  {
+   "baslik": "Salihlere yakın ol",
+   "aciklama": "Bugün seni iyiye yönlendiren bir kişiyle vakit geçir veya onunla iletişime geç."
+  }
+ ],
+ "bugununAdimi": "Bugün, sahip olduğun bir nimeti düşünüp Allah'a şükrederek 'beni salihler arasına kat' anlamında kısa bir dua et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=101"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/12/101"
+  }
+ ]
+}

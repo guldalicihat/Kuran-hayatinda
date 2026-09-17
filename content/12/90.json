@@ -1,0 +1,215 @@
+{
+ "sure": 12,
+ "ayet": 90,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'Sen gerçekten Yûsuf musun?' Dedi ki: 'Ben Yûsuf'um, bu da kardeşim. Allah bize lütufta bulundu. Şüphesiz kim sakınır ve sabrederse, bilsin ki Allah muhsinlerin (iyilik yapanların) ecrini zayi etmez.'",
+ "mealNotu": "'Menne' kökü (منن) karşılıksız lütuf ve nimet vermeyi anlatır; 'mühsinîn' (حسن) iyilik yapanları, 'yasbir' (صبر) sabretmeyi ifade eder. Yûsuf, kendi kimliğini açıklarken başarısını değil, takva ve sabrın Allah katındaki karşılığını öne çıkarır.",
+ "kokler": [
+  {
+   "kelime": "قَالُوٓا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "أَءِنَّكَ",
+   "okunus": "einneke",
+   "kok": "—",
+   "kokAnlam": "te'kid, 'gerçekten sen'",
+   "karsilik": "gerçekten sen"
+  },
+  {
+   "kelime": "لَأَنتَ",
+   "okunus": "leente",
+   "kok": "—",
+   "kokAnlam": "zamir, vurgulu 'sen'",
+   "karsilik": "sen misin"
+  },
+  {
+   "kelime": "يُوسُفُ",
+   "okunus": "yûsüfü",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "Yûsuf"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "أَنَا۠",
+   "okunus": "ene",
+   "kok": "—",
+   "kokAnlam": "zamir, 'ben'",
+   "karsilik": "ben"
+  },
+  {
+   "kelime": "يُوسُفُ",
+   "okunus": "yûsüfü",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "Yûsuf'um"
+  },
+  {
+   "kelime": "وَهَٰذَآ",
+   "okunus": "ve hâzâ",
+   "kok": "—",
+   "kokAnlam": "işaret, 'bu'",
+   "karsilik": "ve bu"
+  },
+  {
+   "kelime": "أَخِى",
+   "okunus": "ehî",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "kardeşim"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "kesinlik edatı",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "menne",
+   "kok": "منن",
+   "kokAnlam": "karşılıksız lütuf, nimet verme",
+   "karsilik": "lütufta bulundu"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلَيْنَآ",
+   "okunus": "aleynâ",
+   "kok": "—",
+   "kokAnlam": "edat, 'bize'",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "te'kid, 'şüphesiz'",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, 'kim'",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "يَتَّقِ",
+   "okunus": "yettekı",
+   "kok": "وقي",
+   "kokAnlam": "sakınma, korunma, takva",
+   "karsilik": "sakınırsa"
+  },
+  {
+   "kelime": "وَيَصْبِرْ",
+   "okunus": "ve yasbir",
+   "kok": "صبر",
+   "kokAnlam": "sabretme, dayanma",
+   "karsilik": "ve sabrederse"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "te'kid, 'şüphesiz'",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يُضِيعُ",
+   "okunus": "yüdîu",
+   "kok": "ضيع",
+   "kokAnlam": "zayi etme, boşa çıkarma",
+   "karsilik": "zayi etmez"
+  },
+  {
+   "kelime": "أَجْرَ",
+   "okunus": "ecra",
+   "kok": "أجر",
+   "kokAnlam": "ücret, karşılık, mükâfat",
+   "karsilik": "ecrini"
+  },
+  {
+   "kelime": "ٱلْمُحْسِنِينَ",
+   "okunus": "elmühsinîne",
+   "kok": "حسن",
+   "kokAnlam": "iyilik yapma, güzel davranma",
+   "karsilik": "muhsinlerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kardeşler, Mısır'ın vezirinin karşılarındaki kişi olduğunu anlayamadan yıllarca yaşadıktan sonra, Yûsuf kendini açıklar. Önceki ayette babalarına ve kardeşlerine ne yaptıklarını hatırlatmıştı; şimdi şaşkın sorularına doğrudan cevap verir: 'Ben Yûsuf'um, bu da kardeşim.'",
+  "Yûsuf, kendi başarısını anlatmak yerine 'menne' (لütuf) kökünü kullanarak her şeyi Allah'a bağlar. Ardından genel bir ilke koyar: Kim takva (sakınma) ve sabrı bir arada yaşarsa, Allah onun iyiliğinin karşılığını zayi etmez. Klasik tefsir, bu ayeti Yûsuf kıssasının özeti niteliğinde bir ilke olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:115",
+   "meal": "Sabret! Çünkü şüphesiz Allah, iyilik edenlerin (muhsinlerin) ecrini zayi etmez.",
+   "baglanti": "12:90'daki 'Allah muhsinlerin ecrini zayi etmez' ifadesi, 11:115'te neredeyse aynı kelimelerle tekrarlanan, Kur'an'ın tekrarlayan bir vaadidir."
+  },
+  {
+   "ref": "39:10",
+   "meal": "De ki: Ey iman eden kullarım! Rabbinizden sakının. Bu dünyada iyilik edenlere güzellik vardır. Allah'ın arzı geniştir. Sabredenlere ecirleri hesapsız olarak ödenecektir.",
+   "baglanti": "Bu ayet, 12:90'daki sabır-takva-ecir bağlantısını, sabredenlere ecrin hesapsız verileceğini söyleyerek genişletir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Yûsuf'un yıllar sonra kardeşlerine kendini tanıtması ve bunu kendi becerisine değil Allah'ın lütfuna bağlamasıdır; bu, çok özel bir kıssanın doruk noktasıdır.",
+  "Buradan çıkan genel ders, başarıyı kişisel bir övünme değil bir lütuf olarak görmek ve takva ile sabrı birlikte yaşamaktır. Bugün bir başarı elde ettiğinde ya da zor bir süreci sabırla aştığında, bunu Allah'a nispet etmen ve bunun karşılıksız kalmayacağını hatırlaman, bu ayetten çıkarılabilecek bir derstir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Lütfu hatırla",
+   "aciklama": "Bugün bir başarını ya da nimetini kendi gücüne değil Allah'ın lütfuna bağla."
+  },
+  {
+   "baslik": "Sabrı sürdür",
+   "aciklama": "Zorlandığın bir işte bugün de sabrını koruyarak devam et."
+  },
+  {
+   "baslik": "Takvayı gözet",
+   "aciklama": "Bugün bir kararında, önce Allah'ın rızasını gözeterek hareket et."
+  }
+ ],
+ "bugununAdimi": "Bugün elde ettiğin küçük bir başarıyı, kendine değil Allah'ın lütfuna bağlayarak şükret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=90"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/12/90"
+  }
+ ]
+}
