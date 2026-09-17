@@ -5,7 +5,7 @@ import FilterInput from '../components/FilterInput'
 import AyetCard from '../components/AyetCard'
 import { loadChapters, loadContentIndex, loadMeals, loadSurah } from '../lib/data'
 import type { Chapter, ContentIndex, MealMap, Surah } from '../lib/types'
-import { useLastRead, useTags } from '../lib/store'
+import { useLastRead } from '../lib/store'
 
 function norm(s: string) { return s.toLocaleLowerCase('tr').replace(/[âîû']/g, c => ({ 'â': 'a', 'î': 'i', 'û': 'u', "'": '' }[c] ?? c)) }
 
@@ -17,7 +17,6 @@ export default function SurahPage() {
   const [meals, setMeals] = useState<MealMap>({})
   const [idx, setIdx] = useState<ContentIndex>({})
   const [q, setQ] = useState('')
-  const { tags } = useTags()
   const { mark } = useLastRead()
   useEffect(() => {
     setSurah(null)
@@ -52,7 +51,7 @@ export default function SurahPage() {
       )}
       {!surah && <p className="p-6 text-center muted">Yükleniyor…</p>}
       {items.map(a => (
-        <AyetCard key={a.n} sure={n} ayet={a} meal={meals[a.n]} hasContent={has.has(a.n)} tags={tags[`${n}:${a.n}`]} />
+        <AyetCard key={a.n} sure={n} ayet={a} meal={meals[a.n]} hasContent={has.has(a.n)} />
       ))}
       {surah && items.length === 0 && <p className="p-6 text-center muted">Eşleşen ayet yok.</p>}
     </div>

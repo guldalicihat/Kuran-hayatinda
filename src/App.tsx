@@ -4,8 +4,7 @@ import SurahList from './pages/SurahList'
 import SurahPage from './pages/SurahPage'
 import AyahPage from './pages/AyahPage'
 import SearchPage from './pages/SearchPage'
-import TagsPage from './pages/TagsPage'
-import NotesPage from './pages/NotesPage'
+import FavoritesPage from './pages/FavoritesPage'
 import SettingsPage from './pages/SettingsPage'
 
 export default function App() {
@@ -16,8 +15,7 @@ export default function App() {
         <Route path="/sure/:n" element={<SurahPage />} />
         <Route path="/sure/:n/:a" element={<AyahPage />} />
         <Route path="/ara" element={<SearchPage />} />
-        <Route path="/etiketler" element={<TagsPage />} />
-        <Route path="/notlar" element={<NotesPage />} />
+        <Route path="/favorilerim" element={<FavoritesPage />} />
         <Route path="/ayarlar" element={<SettingsPage />} />
       </Routes>
       <TabBar />

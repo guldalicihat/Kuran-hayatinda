@@ -69,7 +69,7 @@ export default function SettingsPage() {
         </ul>
       </Row>
       <Row>
-        <p className="mb-2">Yedekleme (etiketler, notlar, ayarlar)</p>
+        <p className="mb-2">Yedekleme (favoriler, ayarlar)</p>
         <div className="flex gap-2">
           <button onClick={download} className="px-4 py-2 rounded-xl bg-accent text-white tap">Dışa aktar</button>
           <button onClick={() => file.current?.click()} className="px-4 py-2 rounded-xl border hairline tap">İçe aktar</button>

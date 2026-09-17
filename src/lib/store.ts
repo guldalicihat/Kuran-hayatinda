@@ -1,8 +1,7 @@
-// Cihazda saklanan kullanıcı verisi: etiketler, notlar, son okunan yer.
+// Cihazda saklanan kullanıcı verisi: favoriler, son okunan yer.
 import { useCallback, useEffect, useState } from 'react'
 
-export type TagMap = Record<string, string[]>      // "8:65" -> ["sabır", "cesaret"]
-export type NoteMap = Record<string, string>       // "8:65" -> not metni
+export type FavoriteSet = string[]          // ["8:65", "2:255", ...]
 export interface LastRead { s: number; a: number; t: number }
 
 function read<T>(key: string, fallback: T): T {
@@ -21,21 +20,16 @@ function useStored<T>(key: string, fallback: T): [T, (v: T) => void] {
   const set = useCallback((n: T) => { write(key, n); setV(n) }, [key])
   return [v, set]
 }
-const EMPTY_TAGS: TagMap = {}; const EMPTY_NOTES: NoteMap = {}
+const EMPTY_FAVORITES: FavoriteSet = []
 
-export function useTags() {
-  const [tags, setTags] = useStored<TagMap>('kh:tags', EMPTY_TAGS)
-  const toggle = (key: string, tag: string) => {
-    const cur = tags[key] ?? []
-    const next = cur.includes(tag) ? cur.filter(t => t !== tag) : [...cur, tag]
-    const n = { ...tags }; if (next.length) n[key] = next; else delete n[key]; setTags(n)
+export function useFavorites() {
+  const [favorites, setFavorites] = useStored<FavoriteSet>('kh:favorites', EMPTY_FAVORITES)
+  const toggle = (key: string) => {
+    const next = favorites.includes(key) ? favorites.filter(k => k !== key) : [...favorites, key]
+    setFavorites(next)
   }
-  return { tags, toggle }
-}
-export function useNotes() {
-  const [notes, setNotes] = useStored<NoteMap>('kh:notes', EMPTY_NOTES)
-  const save = (key: string, text: string) => { const n = { ...notes }; if (text.trim()) n[key] = text; else delete n[key]; setNotes(n) }
-  return { notes, save }
+  const isFavorite = (key: string) => favorites.includes(key)
+  return { favorites, toggle, isFavorite }
 }
 export function useLastRead() {
   const [last, setLast] = useStored<LastRead | null>('kh:last', null)
@@ -43,12 +37,11 @@ export function useLastRead() {
   return { last, mark }
 }
 export function exportAll(): string {
-  return JSON.stringify({ tags: read('kh:tags', {}), notes: read('kh:notes', {}), settings: read('kh:settings', {}), last: read('kh:last', null) }, null, 2)
+  return JSON.stringify({ favorites: read('kh:favorites', []), settings: read('kh:settings', {}), last: read('kh:last', null) }, null, 2)
 }
 export function importAll(json: string) {
   const d = JSON.parse(json)
-  if (d.tags) write('kh:tags', d.tags)
-  if (d.notes) write('kh:notes', d.notes)
+  if (d.favorites) write('kh:favorites', d.favorites)
   if (d.settings) write('kh:settings', d.settings)
   if (d.last) write('kh:last', d.last)
 }
