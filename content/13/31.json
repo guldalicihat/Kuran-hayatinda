@@ -1,0 +1,411 @@
+{
+ "sure": 13,
+ "ayet": 31,
+ "durum": "taslak",
+ "meal": "Eğer kendisiyle dağların yürütüleceği, ya da kendisiyle yerin parçalanacağı, yahut kendisiyle ölülerin konuşturulacağı bir Kur'an olsaydı (yine iman etmezlerdi). Hayır, emrin tümü Allah'a aittir. İman edenler hâlâ bilmediler mi ki, Allah dileseydi insanların hepsini elbette hidayete erdirirdi? İnkâr edenlere gelince, yaptıkları yüzünden başlarına durmadan şiddetli bir bela çatar ya da yurtlarının yakınına iner; ta ki Allah'ın vaadi gelinceye kadar. Şüphesiz Allah, vaadinden dönmez.",
+ "mealNotu": "'Yey'esi' kökü (يأس) temelde 'ümidini kesmek' anlamındadır; bazı dilbilimciler ise bu kelimenin ayette 'bilmek' anlamında kullanıldığını, çünkü Arapların bir kısmının 'ye'is'i bu manada da kullandığını belirtir; klasik tefsir çoğunlukla 'hâlâ bilmediler mi' şeklinde açıklar. Baştaki üçlü şart cümlesi (dağların yürütülmesi, yerin parçalanması, ölülerin konuşturulması) gerçekleşmiş bir olay değil, tamamen varsayımsal bir örnektir.",
+ "kokler": [
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "şart edatı, eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "te'kid, ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "قُرْءَانًا",
+   "okunus": "kur'ânen",
+   "kok": "قرأ",
+   "kokAnlam": "okunan, toplanan; Kur'an",
+   "karsilik": "bir Kur'an"
+  },
+  {
+   "kelime": "سُيِّرَتْ",
+   "okunus": "süyyirat",
+   "kok": "سير",
+   "kokAnlam": "yürütme, yola koyma",
+   "karsilik": "kendisiyle yürütülse"
+  },
+  {
+   "kelime": "بِهِ",
+   "okunus": "bihi",
+   "kok": "—",
+   "kokAnlam": "zamir, onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "ٱلْجِبَالُ",
+   "okunus": "elcibâlü",
+   "kok": "جبل",
+   "kokAnlam": "dağ",
+   "karsilik": "dağlar"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "bağlaç, veya",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "قُطِّعَتْ",
+   "okunus": "kuttıat",
+   "kok": "قطع",
+   "kokAnlam": "kesme, parçalama",
+   "karsilik": "kendisiyle parçalansa"
+  },
+  {
+   "kelime": "بِهِ",
+   "okunus": "bihi",
+   "kok": "—",
+   "kokAnlam": "zamir, onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "ٱلْأَرْضُ",
+   "okunus": "el'erdu",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yer"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "bağlaç, veya",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "كُلِّمَ",
+   "okunus": "küllime",
+   "kok": "كلم",
+   "kokAnlam": "konuşma, söz söyleme",
+   "karsilik": "kendisiyle konuşturulsa"
+  },
+  {
+   "kelime": "بِهِ",
+   "okunus": "bihi",
+   "kok": "—",
+   "kokAnlam": "zamir, onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "ٱلْمَوْتَىٰ",
+   "okunus": "elmevtâ",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölüler"
+  },
+  {
+   "kelime": "بَل",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "idrak, hayır/bilakis",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "لِّلَّهِ",
+   "okunus": "lillehi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah'a aittir"
+  },
+  {
+   "kelime": "ٱلْأَمْرُ",
+   "okunus": "el'emru",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir",
+   "karsilik": "emrin tümü"
+  },
+  {
+   "kelime": "جَمِيعًا",
+   "okunus": "cemîan",
+   "kok": "جمع",
+   "kokAnlam": "toplanma, bütünü",
+   "karsilik": "tümüyle"
+  },
+  {
+   "kelime": "أَفَلَمْ",
+   "okunus": "efelem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk, hâlâ ... değil mi",
+   "karsilik": "hâlâ değil mi"
+  },
+  {
+   "kelime": "يَا۟يْـَٔسِ",
+   "okunus": "yey'esi",
+   "kok": "يأس",
+   "kokAnlam": "ümitsizlik; (bu bağlamda) bilme",
+   "karsilik": "bilmediler"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوٓا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "bağlaç, ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "لَّوْ",
+   "okunus": "lev",
+   "kok": "—",
+   "kokAnlam": "şart edatı, eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilese"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَهَدَى",
+   "okunus": "lehedâ",
+   "kok": "هدي",
+   "kokAnlam": "hidayet, doğru yola iletme",
+   "karsilik": "elbette hidayet ederdi"
+  },
+  {
+   "kelime": "ٱلنَّاسَ",
+   "okunus": "ennâse",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet",
+   "karsilik": "insanları"
+  },
+  {
+   "kelime": "جَمِيعًا",
+   "okunus": "cemîan",
+   "kok": "جمع",
+   "kokAnlam": "toplanma, bütünü",
+   "karsilik": "hepsini"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve olmaz"
+  },
+  {
+   "kelime": "يَزَالُ",
+   "okunus": "yezâlü",
+   "kok": "زيل",
+   "kokAnlam": "sürme, hâlâ devam etme",
+   "karsilik": "durmadan olur"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, kimseler",
+   "karsilik": "kimselere"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "inkâr edenlere"
+  },
+  {
+   "kelime": "تُصِيبُهُم",
+   "okunus": "tüsîbühüm",
+   "kok": "صوب",
+   "kokAnlam": "isabet etme",
+   "karsilik": "onlara isabet eder"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, şey ile",
+   "karsilik": "şey sebebiyle"
+  },
+  {
+   "kelime": "صَنَعُوا۟",
+   "okunus": "saneû",
+   "kok": "صنع",
+   "kokAnlam": "yapma, sanat",
+   "karsilik": "yaptıkları"
+  },
+  {
+   "kelime": "قَارِعَةٌ",
+   "okunus": "kâriatün",
+   "kok": "قرع",
+   "kokAnlam": "vurma, şiddetli bela",
+   "karsilik": "şiddetli bir bela"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "bağlaç, ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "تَحُلُّ",
+   "okunus": "tehullü",
+   "kok": "حلل",
+   "kokAnlam": "konma, inme",
+   "karsilik": "iner"
+  },
+  {
+   "kelime": "قَرِيبًا",
+   "okunus": "karîben",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık",
+   "karsilik": "yakınına"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat, -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دَارِهِمْ",
+   "okunus": "dârihim",
+   "kok": "دور",
+   "kokAnlam": "yurt, ev",
+   "karsilik": "yurtlarının"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "edat, ta ki",
+   "karsilik": "ta ki"
+  },
+  {
+   "kelime": "يَأْتِىَ",
+   "okunus": "ye'tiye",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "gelinceye kadar"
+  },
+  {
+   "kelime": "وَعْدُ",
+   "okunus": "va'dü",
+   "kok": "وعد",
+   "kokAnlam": "vaad, söz verme",
+   "karsilik": "vaadi"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid, şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-maz"
+  },
+  {
+   "kelime": "يُخْلِفُ",
+   "okunus": "yühlifü",
+   "kok": "خلف",
+   "kokAnlam": "geri kalma, sözden dönme",
+   "karsilik": "dönmez"
+  },
+  {
+   "kelime": "ٱلْمِيعَادَ",
+   "okunus": "elmîâde",
+   "kok": "وعد",
+   "kokAnlam": "vaad, sözleşme",
+   "karsilik": "vaadinden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayette Peygamber'in kendisinden önce geçmiş ümmetlere gönderilen resullerden biri olarak anlatıldığı bağlamın devamıdır. Burada, müşriklerin 'bize dağları yürüten, yeri parçalayan ya da ölüleri konuşturan bir mucize gelseydi inanırdık' türünden taleplerine hipotetik bir cevap verilir: Öyle bir Kur'an olsaydı bile yine iman etmezlerdi; çünkü emrin tamamı zaten Allah'a aittir, mucize dilemek O'nun elindedir, insanların isteğine bağlı değildir.",
+  "Ayetin devamı, imanın Allah'ın dilemesiyle ilgili olduğunu hatırlatır: Allah dileseydi bütün insanları hidayete erdirirdi, ama hikmeti gereği insanları imtihana bırakmıştır. İnkâr edenler için ise, yaptıkları yüzünden ya ansızın bir bela ya da yurtlarına yakın bir felaket eksik olmaz; bu, Allah'ın vaadinin -azap ya da zafer şeklinde- mutlaka gerçekleşeceğinin güvencesidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:111",
+   "meal": "Onlara melekleri indirseydik, ölüler onlarla konuşsaydı ve her şeyi karşılarına toplasaydık, Allah dilemedikçe yine iman edecek değillerdi; ama onların çoğu bilmez.",
+   "baglanti": "6:111, 13:31'deki 'mucize istese de inkârcıların iman etmeyeceği' vurgusunu, melek indirilmesi ve ölülerin konuşturulması örnekleriyle aynı şekilde anlatır."
+  },
+  {
+   "ref": "10:99",
+   "meal": "Rabbin dileseydi, yeryüzündekilerin hepsi elbette iman ederdi. O hâlde sen mi insanları mümin olmaları için zorlayacaksın?",
+   "baglanti": "10:99, 13:31'de geçen 'Allah dileseydi insanların hepsini hidayete erdirirdi' cümlesini benzer ifadeyle tekrarlayarak imanın Allah'ın dilemesine bağlı olduğunu pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Mekke müşriklerinin somut mucize talepleriyle iman etmeyi şarta bağlamasıdır; ayet bunun gerçek sebep olmadığını, asıl meselenin kalbin kabulü olduğunu gösterir.",
+  "Buradan çıkan genel ders, bazı insanların ikna olmamak için hep yeni bir delil, yeni bir kanıt istediğidir; oysa kalp kapalıysa hiçbir delil yetmez. Bugün sen de bir konuda ikna olmadığını söylerken, aslında kalbinin kapalı olup olmadığını sorgulayabilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bahaneyi fark et",
+   "aciklama": "Bugün bir konuda 'şu olsa inanırdım' dediğin bir bahanen varsa, gerçekten engel olup olmadığını sorgula."
+  },
+  {
+   "baslik": "Kalbini aç",
+   "aciklama": "Yeni bir delil beklemek yerine, bildiğin gerçeklere karşı kalbini açık tutmaya çalış."
+  },
+  {
+   "baslik": "Sabırlı ol",
+   "aciklama": "Bir haksızlıkla karşılaştığında, karşılığının er ya da geç geleceğine güvenerek sabret."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda ikna olmamak için ürettiğin bahaneyi yazıp gerçekten geçerli mi diye sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=31"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/13/31"
+  }
+ ]
+}

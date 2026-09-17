@@ -1,0 +1,369 @@
+{
+ "sure": 13,
+ "ayet": 16,
+ "durum": "taslak",
+ "meal": "De ki: Göklerin ve yerin Rabbi kimdir? De ki: Allah'tır. De ki: O'ndan başka, kendilerine bile ne bir fayda ne bir zarar verecek güce sahip olmayan veliler mi edindiniz? De ki: Kör ile gören eşit olur mu? Yahut karanlıklar ile nur eşit olur mu? Yoksa Allah'a, O'nun yarattığı gibi yaratan ortaklar mı buldular da bu yaratma kendilerine göre birbirine benzeşti? De ki: Allah her şeyin yaratıcısıdır; O tektir, mutlak galip olandır.",
+ "mealNotu": "'Yemlikûne' kökü (ملك) sahip olma ve güç yetirme anlamındadır; bu yüzden 'güce sahip olmayan' [ifadesi] eklendi. 'Vâhid' ve 'kahhâr' Allah'ın hem tekliğini hem her şeye galip gelişini vurgular; ayet boyunca tekrarlanan 'kul' (de ki) emri, Peygamber'e verilen bir tartışma yöntemidir.",
+ "kokler": [
+  {
+   "kelime": "قُلِ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "soru edatı, kim",
+   "karsilik": "kimdir"
+  },
+  {
+   "kelime": "رَّبُّ",
+   "okunus": "rabbü",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, sahiplik, rablık",
+   "karsilik": "Rabbi"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "göklerin"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yerin"
+  },
+  {
+   "kelime": "قُلِ",
+   "okunus": "kuli",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah'tır"
+  },
+  {
+   "kelime": "قُلِ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "أَفَٱتَّخَذْتُم",
+   "okunus": "efettehaztüm",
+   "kok": "أخذ",
+   "kokAnlam": "alma, edinme",
+   "karsilik": "edindiniz mi"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den edatı",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِهِۦٓ",
+   "okunus": "dûnihî",
+   "kok": "دون",
+   "kokAnlam": "aşağısı, ondan başkası",
+   "karsilik": "O'ndan başka"
+  },
+  {
+   "kelime": "أَوْلِيَآءَ",
+   "okunus": "evliyâe",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, koruyuculuk, velilik",
+   "karsilik": "veliler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يَمْلِكُونَ",
+   "okunus": "yemlikûne",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, güç yetirme",
+   "karsilik": "güç yetiremezler"
+  },
+  {
+   "kelime": "لِأَنفُسِهِمْ",
+   "okunus": "lienfüsihim",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "نَفْعًا",
+   "okunus": "nef'an",
+   "kok": "نفع",
+   "kokAnlam": "fayda, yarar",
+   "karsilik": "bir fayda"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "ضَرًّا",
+   "okunus": "darran",
+   "kok": "ضرر",
+   "kokAnlam": "zarar",
+   "karsilik": "bir zarara"
+  },
+  {
+   "kelime": "قُلِ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "soru edatı",
+   "karsilik": "mi"
+  },
+  {
+   "kelime": "يَسْتَوِى",
+   "okunus": "yestevî",
+   "kok": "سوي",
+   "kokAnlam": "eşit olma, denk olma",
+   "karsilik": "eşit olur"
+  },
+  {
+   "kelime": "ٱلْأَعْمَىٰ",
+   "okunus": "el'a'mâ",
+   "kok": "عمي",
+   "kokAnlam": "körlük",
+   "karsilik": "kör"
+  },
+  {
+   "kelime": "وَٱلْبَصِيرُ",
+   "okunus": "vel besîru",
+   "kok": "بصر",
+   "kokAnlam": "görme, basiret",
+   "karsilik": "ile gören"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "soru edatı",
+   "karsilik": "mi"
+  },
+  {
+   "kelime": "تَسْتَوِى",
+   "okunus": "testevî",
+   "kok": "سوي",
+   "kokAnlam": "eşit olma, denk olma",
+   "karsilik": "eşit olur"
+  },
+  {
+   "kelime": "ٱلظُّلُمَٰتُ",
+   "okunus": "ezzulümâtü",
+   "kok": "ظلم",
+   "kokAnlam": "karanlık",
+   "karsilik": "karanlıklar"
+  },
+  {
+   "kelime": "وَٱلنُّورُ",
+   "okunus": "ven nûru",
+   "kok": "نور",
+   "kokAnlam": "ışık, aydınlık",
+   "karsilik": "ile nur"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "جَعَلُوا۟",
+   "okunus": "cealû",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma, edinme",
+   "karsilik": "kıldılar"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "شُرَكَآءَ",
+   "okunus": "şürakâe",
+   "kok": "شرك",
+   "kokAnlam": "ortaklık",
+   "karsilik": "ortaklar"
+  },
+  {
+   "kelime": "خَلَقُوا۟",
+   "okunus": "halekû",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yarattılar"
+  },
+  {
+   "kelime": "كَخَلْقِهِۦ",
+   "okunus": "kehalkıhî",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "O'nun yarattığı gibi"
+  },
+  {
+   "kelime": "فَتَشَٰبَهَ",
+   "okunus": "feteşâbehe",
+   "kok": "شبه",
+   "kokAnlam": "benzeme, benzeşme",
+   "karsilik": "benzeşti"
+  },
+  {
+   "kelime": "ٱلْخَلْقُ",
+   "okunus": "elhalku",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yaratma (iş)"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "üzerlerinde edatı",
+   "karsilik": "onlara göre"
+  },
+  {
+   "kelime": "قُلِ",
+   "okunus": "kuli",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "خَٰلِقُ",
+   "okunus": "hâliku",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yaratıcısıdır"
+  },
+  {
+   "kelime": "كُلِّ",
+   "okunus": "külli",
+   "kok": "كلل",
+   "kokAnlam": "bütünlük, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "şeyin"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "zamir, o",
+   "karsilik": "ve O"
+  },
+  {
+   "kelime": "ٱلْوَٰحِدُ",
+   "okunus": "elvâhidü",
+   "kok": "وحد",
+   "kokAnlam": "birlik, teklik",
+   "karsilik": "tektir"
+  },
+  {
+   "kelime": "ٱلْقَهَّٰرُ",
+   "okunus": "elkahhâru",
+   "kok": "قهر",
+   "kokAnlam": "üstün gelme, galip olma, kahretme",
+   "karsilik": "mutlak galip olandır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Mekkeli müşriklere üst üste sorulan sorularla tevhidi ispat eder: göklerin ve yerin Rabbi kimdir sorusunun tek cevabı Allah'tır; O'ndan başka edinilen veliler kendilerine bile fayda ya da zarar veremeyen aciz varlıklardır. 'Kör ile gören', 'karanlıklar ile nur' benzetmeleri, tevhid ile şirkin; bilgiyle cehaletin asla eşit olamayacağını anlatır.",
+  "Ayetin sonunda müşriklerin öne sürdüğü sahte ortaklık iddiası sorgulanır: onların Allah'a ortak koştukları hiçbir şey, Allah'ın yaratması gibi bir yaratmaya sahip değildir; klasik tefsir bu benzetmenin yaratma iddiasının temelsizliğini gösterdiğini açıklar. Sonuç cümlesi ise ilkeyi özetler: Allah her şeyin tek yaratıcısı ve her şeye galip olandır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "35:19",
+   "meal": "Kör ile gören bir olmaz.",
+   "baglanti": "13:16'daki 'kör ile gören eşit olur mu' sorusunu, aynı kökle (عمي/بصر) kısa ve kesin bir hüküm olarak tekrarlar."
+  },
+  {
+   "ref": "39:62",
+   "meal": "Allah her şeyin yaratıcısıdır; O, her şey üzerine vekildir (gözetip koruyandır).",
+   "baglanti": "13:16'nın sonundaki 'Allah her şeyin yaratıcısıdır' hükmünü aynı kökle (خلق) doğrular ve O'nun her şeye vekil oluşunu ekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, göklerin ve yerin tek Rabbinin Allah olduğunu ve O'nun dışında edinilen velilerin aciz olduğunu ispat etmektir; bu, itikadi bir tevhid dersidir.",
+  "Buradan çıkan genel ders şudur: hayatında güvendiğin, yardım umduğun şeylerin gerçekten sana fayda ya da zarar verecek güce sahip olup olmadığını sorgula. Kör ile görenin bir olmaması gibi, bilgiyle karar vermek de bilgisizce sürüklenmekle bir değildir; bugün bir konuda net görmeye, gerçeği ile yanılgıyı ayırt etmeye çalış."
+ ],
+ "bugun": [
+  {
+   "baslik": "Güvendiğini sorgula",
+   "aciklama": "Bugün gerçekten fayda ya da zarar verebilecek olanla, sadece öyle göründüğü için güvendiğin şeyi ayırt et."
+  },
+  {
+   "baslik": "Görerek karar ver",
+   "aciklama": "Önemli bir kararında aceleyle değil, mesele üzerinde açıkça düşünerek 'gören' gibi hareket et."
+  },
+  {
+   "baslik": "Tek adrese yönel",
+   "aciklama": "Bugün bir ihtiyacın için önce Allah'a yönel, sonra sebeplere sarıl."
+  }
+ ],
+ "bugununAdimi": "Bugün güvendiğin bir şeyin gerçekten sana fayda verip veremeyeceğini bir kez daha düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=16"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/13/16"
+  }
+ ]
+}

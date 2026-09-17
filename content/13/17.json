@@ -1,0 +1,348 @@
+{
+ "sure": 13,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "Gökten bir su indirdi de vadiler kendi ölçülerince sel olup aktı; sel de üste çıkan bir köpük taşıdı. Süs eşyası ya da bir eşya elde etmek için ateşte erittikleri şeylerden de buna benzer bir köpük çıkar. Allah, hak ile batılı işte böyle örnekler. Köpüğe gelince, o atılıp gider; insanlara fayda veren ise yeryüzünde kalır. Allah, işte böyle örnekler verir.",
+ "mealNotu": "'Zebed' kökü köpüğü, 'seyl' kökü seli anlatır; ayet, hakla batılın karşılaştırılmasını maddi bir örnekle somutlaştırır. 'Kezâlike yadribullâh' ifadesi 'işte Allah böyle örnekler verir' anlamındadır ve iki kez tekrarlanarak vurgulanır.",
+ "kokler": [
+  {
+   "kelime": "أَنزَلَ",
+   "okunus": "enzele",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdi"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den edatı",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "gökten"
+  },
+  {
+   "kelime": "مَآءً",
+   "okunus": "mâen",
+   "kok": "موه",
+   "kokAnlam": "su",
+   "karsilik": "bir su"
+  },
+  {
+   "kelime": "فَسَالَتْ",
+   "okunus": "fesâlet",
+   "kok": "سيل",
+   "kokAnlam": "akma, sel olma",
+   "karsilik": "akıp gitti"
+  },
+  {
+   "kelime": "أَوْدِيَةٌۢ",
+   "okunus": "evdiyetün",
+   "kok": "ودي",
+   "kokAnlam": "vadi",
+   "karsilik": "vadiler"
+  },
+  {
+   "kelime": "بِقَدَرِهَا",
+   "okunus": "bikaderihâ",
+   "kok": "قدر",
+   "kokAnlam": "ölçü, takdir",
+   "karsilik": "kendi ölçüsünce"
+  },
+  {
+   "kelime": "فَٱحْتَمَلَ",
+   "okunus": "fehtemele",
+   "kok": "حمل",
+   "kokAnlam": "taşıma, yüklenme",
+   "karsilik": "taşıdı"
+  },
+  {
+   "kelime": "ٱلسَّيْلُ",
+   "okunus": "esseylü",
+   "kok": "سيل",
+   "kokAnlam": "akma, sel",
+   "karsilik": "sel"
+  },
+  {
+   "kelime": "زَبَدًا",
+   "okunus": "zebeden",
+   "kok": "زبد",
+   "kokAnlam": "köpük",
+   "karsilik": "bir köpük"
+  },
+  {
+   "kelime": "رَّابِيًا",
+   "okunus": "râbiyen",
+   "kok": "ربو",
+   "kokAnlam": "kabarma, artma",
+   "karsilik": "kabarmış"
+  },
+  {
+   "kelime": "وَمِمَّا",
+   "okunus": "ve mimmâ",
+   "kok": "—",
+   "kokAnlam": "edat, şeyden",
+   "karsilik": "ve şeylerden"
+  },
+  {
+   "kelime": "يُوقِدُونَ",
+   "okunus": "yûkıdûne",
+   "kok": "وقد",
+   "kokAnlam": "yakma, ateşleme",
+   "karsilik": "ateşte erittikleri"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "edat, onun üzerinde",
+   "karsilik": "onun üzerinde"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat, içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ٱلنَّارِ",
+   "okunus": "ennâri",
+   "kok": "نور",
+   "kokAnlam": "ateş, ışık",
+   "karsilik": "ateşte"
+  },
+  {
+   "kelime": "ٱبْتِغَآءَ",
+   "okunus": "ibtiğâe",
+   "kok": "بغي",
+   "kokAnlam": "isteme, arama",
+   "karsilik": "elde etmek için"
+  },
+  {
+   "kelime": "حِلْيَةٍ",
+   "okunus": "hilyetin",
+   "kok": "حلي",
+   "kokAnlam": "süs, ziynet",
+   "karsilik": "bir süs eşyası"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "bağlaç, ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "مَتَٰعٍ",
+   "okunus": "metâin",
+   "kok": "متع",
+   "kokAnlam": "eşya, fayda",
+   "karsilik": "bir eşya"
+  },
+  {
+   "kelime": "زَبَدٌ",
+   "okunus": "zebedün",
+   "kok": "زبد",
+   "kokAnlam": "köpük",
+   "karsilik": "bir köpük"
+  },
+  {
+   "kelime": "مِّثْلُهُۥ",
+   "okunus": "mislühû",
+   "kok": "مثل",
+   "kokAnlam": "benzer, misil",
+   "karsilik": "onun benzeri"
+  },
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "işaret, işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "يَضْرِبُ",
+   "okunus": "yadribü",
+   "kok": "ضرب",
+   "kokAnlam": "vurma, örnek verme",
+   "karsilik": "örnek verir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلْحَقَّ",
+   "okunus": "elhakka",
+   "kok": "حقق",
+   "kokAnlam": "hak, doğruluk",
+   "karsilik": "hakkı"
+  },
+  {
+   "kelime": "وَٱلْبَٰطِلَ",
+   "okunus": "vel bâtıle",
+   "kok": "بطل",
+   "kokAnlam": "boşluk, geçersizlik",
+   "karsilik": "ve batılı"
+  },
+  {
+   "kelime": "فَأَمَّا",
+   "okunus": "feemmâ",
+   "kok": "—",
+   "kokAnlam": "açıklama edatı, ise",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "ٱلزَّبَدُ",
+   "okunus": "ezzebedü",
+   "kok": "زبد",
+   "kokAnlam": "köpük",
+   "karsilik": "köpük"
+  },
+  {
+   "kelime": "فَيَذْهَبُ",
+   "okunus": "feyezhebü",
+   "kok": "ذهب",
+   "kokAnlam": "gitme",
+   "karsilik": "gider"
+  },
+  {
+   "kelime": "جُفَآءً",
+   "okunus": "cüfâen",
+   "kok": "جفأ",
+   "kokAnlam": "atılıp giden, değersiz",
+   "karsilik": "atılıp"
+  },
+  {
+   "kelime": "وَأَمَّا",
+   "okunus": "ve emmâ",
+   "kok": "—",
+   "kokAnlam": "açıklama edatı, ise",
+   "karsilik": "ve ise"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, olan",
+   "karsilik": "olan"
+  },
+  {
+   "kelime": "يَنفَعُ",
+   "okunus": "yenfeu",
+   "kok": "نفع",
+   "kokAnlam": "fayda verme",
+   "karsilik": "fayda veren"
+  },
+  {
+   "kelime": "ٱلنَّاسَ",
+   "okunus": "ennâse",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanlara"
+  },
+  {
+   "kelime": "فَيَمْكُثُ",
+   "okunus": "feyemküsü",
+   "kok": "مكث",
+   "kokAnlam": "kalma, sürme",
+   "karsilik": "kalır"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat, içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "işaret, işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "يَضْرِبُ",
+   "okunus": "yadribü",
+   "kok": "ضرب",
+   "kokAnlam": "vurma, örnek verme",
+   "karsilik": "verir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلْأَمْثَالَ",
+   "okunus": "el'emsâle",
+   "kok": "مثل",
+   "kokAnlam": "örnek, misal",
+   "karsilik": "örnekleri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetteki tevhid vurgusundan sonra hak ile batılın nasıl ayırt edileceğini çok güzel bir benzetmeyle anlatır: gökten inen yağmur vadileri doldurur, sel akarken üzerinde köpük taşır; süs eşyası dökmek için ateşte eritilen madenlerde de benzer bir köpük oluşur. Klasik tefsir bu köpüğü, göze çarpan ama geçici ve değersiz olan şeye; suyu ve saf madeni ise kalıcı ve faydalı olana benzetir.",
+  "Ayetin sonu bu benzetmeyi açıkça yorumlar: köpük atılıp gider, insanlara fayda veren ise yeryüzünde kalıcı olur. Bu, hak ile batılın kıyaslanmasıdır; batıl geçici bir görünüşe sahiptir ama sonunda yok olur, hak ise kalıcıdır. Ayet 'Allah işte böyle örnekler verir' diyerek bu benzetmenin genel bir ilke olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:81",
+   "meal": "De ki: Hak geldi, batıl yok oldu. Şüphesiz batıl, yok olmaya mahkûmdur.",
+   "baglanti": "13:17'deki 'köpük atılıp gider, fayda veren kalır' benzetmesinin sonucunu, hak-batıl diliyle doğrudan özetler."
+  },
+  {
+   "ref": "2:26",
+   "meal": "Şüphesiz Allah, bir sivrisineği, hatta ondan daha üstün olanı örnek vermekten çekinmez. İman edenler bunun Rablerinden gelen hak olduğunu bilirler; inkâr edenler ise 'Allah bu örnekle ne demek istedi?' derler. Allah bununla birçoklarını saptırır, birçoklarını da doğru yola iletir; onunla ancak fasıkları saptırır.",
+   "baglanti": "13:17'nin bitişindeki 'Allah işte böyle örnekler verir' ifadesiyle aynı ilkeyi, Allah'ın örnek vermesinin hikmetini açıklayarak tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu hak ile batılın; kalıcı olanla geçici olanın karşılaştırılmasıdır, doğa olayı üzerinden verilen bu benzetim tevhid mücadelesi bağlamındadır.",
+  "Bugüne taşınabilecek ders açık: hayatta göz alıcı, üste çıkan, gürültülü olan her şey kalıcı ya da değerli değildir; asıl değerli olan sessizce fayda verendir. Bir işte, bir tartışmada ya da bir tercihte, 'köpük mü yoksa gerçekten fayda veren mi?' diye sormak, seni geçici parıltılardan kalıcı olana yöneltir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Köpüğe kanma",
+   "aciklama": "Bugün göz alıcı ama içi boş bir şeye zaman ayırmak yerine, kalıcı fayda getirecek bir işe yönel."
+  },
+  {
+   "baslik": "Fayda soruşu",
+   "aciklama": "Bir kararı verirken kendine 'bu geçici bir görünüş mü, yoksa gerçekten fayda veren bir şey mi' diye sor."
+  },
+  {
+   "baslik": "Sabırla kal",
+   "aciklama": "Emeğinin karşılığını hemen görmesen de, gerçekten faydalı olanın kalıcı olacağına güven."
+  }
+ ],
+ "bugununAdimi": "Bugün göz alıcı ama gerçek faydası olmayan bir şeye ayırdığın zamanı, kalıcı fayda veren bir işe yönlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=13&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/13/17"
+  }
+ ]
+}
