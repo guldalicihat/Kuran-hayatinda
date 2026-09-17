@@ -1,0 +1,362 @@
+{
+ "sure": 14,
+ "ayet": 22,
+ "durum": "taslak",
+ "meal": "İş hükme bağlanınca şeytan der ki: 'Şüphesiz Allah size gerçek olan bir vaadde bulundu, ben de size vaadde bulundum ama sözümden caydım. Zaten benim sizin üzerinizde hiçbir gücüm yoktu; sadece sizi çağırdım, siz de bana uydunuz. Şimdi beni kınamayın, kendinizi kınayın! Ben sizin imdadınıza yetişecek değilim, siz de benim imdadıma yetişecek değilsiniz. Ben, daha önce beni [Allah'a] ortak koşmanızı da inkâr ederim.' Şüphesiz zalimler için can yakıcı bir azap vardır.",
+ "mealNotu": "'Sultan' kökü (سلط) burada güç, zorlayıcı yetki anlamındadır; şeytanın insanları zorlamadığını, sadece çağırdığını vurgular. 'Müsrih' kökü (صرخ) feryada yetişip kurtarma anlamındadır; şeytanın kendini de kimseyi de kurtaramayacağını anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَقَالَ",
+   "okunus": "ve kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "der"
+  },
+  {
+   "kelime": "ٱلشَّيْطَٰنُ",
+   "okunus": "eşşeytânü",
+   "kok": "شطن",
+   "kokAnlam": "uzaklaşma, azgınlık, şeytan",
+   "karsilik": "şeytan"
+  },
+  {
+   "kelime": "لَمَّا",
+   "okunus": "lemmâ",
+   "kok": "—",
+   "kokAnlam": "zaman edatı",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "قُضِىَ",
+   "okunus": "kudıye",
+   "kok": "قضي",
+   "kokAnlam": "hükme bağlama, bitirme",
+   "karsilik": "hükme bağlanınca"
+  },
+  {
+   "kelime": "ٱلْأَمْرُ",
+   "okunus": "el'emru",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir",
+   "karsilik": "iş"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَعَدَكُمْ",
+   "okunus": "veadeküm",
+   "kok": "وعد",
+   "kokAnlam": "söz verme, vaad",
+   "karsilik": "size vaad etti"
+  },
+  {
+   "kelime": "وَعْدَ",
+   "okunus": "va'de",
+   "kok": "وعد",
+   "kokAnlam": "vaad",
+   "karsilik": "vaadini"
+  },
+  {
+   "kelime": "ٱلْحَقِّ",
+   "okunus": "elhakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, hak",
+   "karsilik": "gerçek olan"
+  },
+  {
+   "kelime": "وَوَعَدتُّكُمْ",
+   "okunus": "ve veadttüküm",
+   "kok": "وعد",
+   "kokAnlam": "vaad etme",
+   "karsilik": "ben de size vaad ettim"
+  },
+  {
+   "kelime": "فَأَخْلَفْتُكُمْ",
+   "okunus": "feahleftüküm",
+   "kok": "خلف",
+   "kokAnlam": "sözden dönme, arkada bırakma",
+   "karsilik": "ama sözümden caydım"
+  },
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve yoktu"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "لِى",
+   "okunus": "liye",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "benim"
+  },
+  {
+   "kelime": "عَلَيْكُم",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "sizin üzerinizde"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "سُلْطَٰنٍ",
+   "okunus": "sültânin",
+   "kok": "سلط",
+   "kokAnlam": "güç, otorite, delil",
+   "karsilik": "bir güç"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna edatı",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "bağlaç",
+   "karsilik": "-mem"
+  },
+  {
+   "kelime": "دَعَوْتُكُمْ",
+   "okunus": "deavtüküm",
+   "kok": "دعو",
+   "kokAnlam": "çağırma",
+   "karsilik": "sizi çağırdım"
+  },
+  {
+   "kelime": "فَٱسْتَجَبْتُمْ",
+   "okunus": "festecebtüm",
+   "kok": "جوب",
+   "kokAnlam": "çağrıya uyma, cevap verme",
+   "karsilik": "siz de icabet ettiniz"
+  },
+  {
+   "kelime": "لِى",
+   "okunus": "lî",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "öyleyse -meyin"
+  },
+  {
+   "kelime": "تَلُومُونِى",
+   "okunus": "telûmûnî",
+   "kok": "لوم",
+   "kokAnlam": "kınama",
+   "karsilik": "beni kınamayın"
+  },
+  {
+   "kelime": "وَلُومُوٓا۟",
+   "okunus": "ve lûmû",
+   "kok": "لوم",
+   "kokAnlam": "kınama",
+   "karsilik": "kınayın"
+  },
+  {
+   "kelime": "أَنفُسَكُم",
+   "okunus": "enfüseküm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi",
+   "karsilik": "kendinizi"
+  },
+  {
+   "kelime": "مَّآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değilim"
+  },
+  {
+   "kelime": "أَنَا۠",
+   "okunus": "ene",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "ben"
+  },
+  {
+   "kelime": "بِمُصْرِخِكُمْ",
+   "okunus": "bimüsrihıküm",
+   "kok": "صرخ",
+   "kokAnlam": "feryada yetişme, imdada koşma",
+   "karsilik": "sizin imdadınıza yetişen"
+  },
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve değilsiniz"
+  },
+  {
+   "kelime": "أَنتُم",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "بِمُصْرِخِىَّ",
+   "okunus": "bimüsrihıyye",
+   "kok": "صرخ",
+   "kokAnlam": "feryada yetişme",
+   "karsilik": "benim imdadıma yetişen"
+  },
+  {
+   "kelime": "إِنِّى",
+   "okunus": "innî",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "şüphesiz ben"
+  },
+  {
+   "kelime": "كَفَرْتُ",
+   "okunus": "kefertü",
+   "kok": "كفر",
+   "kokAnlam": "inkâr etme",
+   "karsilik": "inkâr ederim"
+  },
+  {
+   "kelime": "بِمَآ",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "أَشْرَكْتُمُونِ",
+   "okunus": "eşraktümûni",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "beni ortak koşmanızı"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلُ",
+   "okunus": "kablü",
+   "kok": "قبل",
+   "kokAnlam": "önce, ön",
+   "karsilik": "daha önce"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمِينَ",
+   "okunus": "ezzâlimîne",
+   "kok": "ظلم",
+   "kokAnlam": "zulmetme, haksızlık",
+   "karsilik": "zalimler"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "için"
+  },
+  {
+   "kelime": "عَذَابٌ",
+   "okunus": "azâbün",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "bir azap"
+  },
+  {
+   "kelime": "أَلِيمٌ",
+   "okunus": "elîmün",
+   "kok": "ألم",
+   "kokAnlam": "acı verme, elem",
+   "karsilik": "can yakıcı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, kıyamet gününde -iş kesin hükme bağlandıktan sonra- şeytanın kendisine uyanlara yaptığı çarpıcı bir konuşmayı aktarır. Şeytan, Allah'ın vaadinin gerçek olduğunu itiraf eder, kendi vaadinden caydığını söyler ve en önemlisi, üzerlerinde hiçbir zorlayıcı gücü olmadığını, sadece çağırdığını, onların da kendi istekleriyle bu çağrıya uyduğunu açıkça belirtir. Kök سلط (sultan/güç) burada anahtar kelimedir: şeytan asla zorla saptırmaz, sadece davet eder; sorumluluk davete uyanın kendi tercihindedir.",
+  "Bu ayet klasik tefsirde, kıyamet günü hiçbir sapmanın 'şeytan beni kandırdı' bahanesiyle mazur görülemeyeceğinin delili olarak açıklanır; çünkü şeytanın kendisi bile bunu inkâr edip 'beni değil kendinizi kınayın' der. Bu, dünyada verilen her yanlış kararın nihayetinde kişinin kendi özgür tercihi olduğunu hatırlatan güçlü ve evrensel bir sorumluluk dersidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "59:16",
+   "meal": "[Onların durumu] tıpkı şeytanın durumu gibidir: insana 'İnkâr et' der; insan inkâr edince de 'Ben senden uzağım, ben alemlerin Rabbi olan Allah'tan korkarım' der.",
+   "baglanti": "14:22 ile aynı temayı, şeytanın önce çağırıp sonra kendini kurtarıp çağırdığı kişiyi terk etmesi ilkesini başka bir surede tekrarlar."
+  },
+  {
+   "ref": "36:60",
+   "meal": "Ey Ademoğulları! Ben size, şeytana kulluk etmeyin, o sizin için apaçık bir düşmandır diye and vermedim mi?",
+   "baglanti": "14:22'deki şeytanın itirafının tersinden, insanların baştan uyarılmış olduğunu, dolayısıyla bahaneye yer olmadığını hatırlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıyamet günü şeytanın kendisine uyanlardan bağını koparıp sorumluluğu reddetmesidir; bu gaybi bir sahnedir.",
+  "Ama buradan çıkan ders son derece güncel ve evrenseldir: seni yanlışa çağıran hiçbir güç (bir arkadaş, bir alışkanlık, bir ortam) seni zorlamaz; en sonunda 'hayır' diyebilme veya 'evet' deme kararı sana aittir. Bu yüzden bir yanlışın ardından önce kendi tercihini sorgulamak, başkasını suçlamaktan önce gelmelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bahane üretme",
+   "aciklama": "Bugün bir hatanı fark ettiğinde, önce 'kim beni buna sürükledi' değil 'ben neden kabul ettim' diye sor."
+  },
+  {
+   "baslik": "Çağrıyı fark et",
+   "aciklama": "Seni yanlışa çağıran bir sesi (kişi, alışkanlık, ortam) bugün fark edip bilinçli bir mesafe koy."
+  },
+  {
+   "baslik": "Kendi tercihini sahiplen",
+   "aciklama": "Aldığın küçük bir kararda bile, sonucunu üstlenerek karar ver."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda başkasını suçlamadan önce, o kararı neden kendi isteğinle verdiğini kendine sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=22"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/14/22"
+  }
+ ]
+}

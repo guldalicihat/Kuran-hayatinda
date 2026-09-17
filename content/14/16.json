@@ -1,0 +1,103 @@
+{
+ "sure": 14,
+ "ayet": 16,
+ "durum": "taslak",
+ "meal": "Onun önünde cehennem vardır; kendisine kanlı irin (gibi) bir sudan içirilir.",
+ "mealNotu": "Ayet, cehennem tasvirini kısa ve doğrudan bir dille anlatır; 'sadîd' (kanlı irin) kelimesi kök anlamına sadık çevrilmiştir, ayrıntı eklenmemiştir. Amaç bilgi vermektir, korkutucu bir tasvir eklenmemiştir.",
+ "kokler": [
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -in",
+   "karsilik": "-nin"
+  },
+  {
+   "kelime": "وَرَآئِهِۦ",
+   "okunus": "verâihî",
+   "kok": "وري",
+   "kokAnlam": "arka, öte",
+   "karsilik": "önünde"
+  },
+  {
+   "kelime": "جَهَنَّمُ",
+   "okunus": "cehennemü",
+   "kok": "—",
+   "kokAnlam": "özel isim, cehennem",
+   "karsilik": "cehennem vardır"
+  },
+  {
+   "kelime": "وَيُسْقَىٰ",
+   "okunus": "ve yüskâ",
+   "kok": "سقي",
+   "kokAnlam": "sulama, içirme",
+   "karsilik": "ve içirilir"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "مَّآءٍ",
+   "okunus": "mâin",
+   "kok": "موه",
+   "kokAnlam": "su",
+   "karsilik": "bir su"
+  },
+  {
+   "kelime": "صَدِيدٍ",
+   "okunus": "sadîdin",
+   "kok": "صدد",
+   "kokAnlam": "dönme, akma; irin/cerahat",
+   "karsilik": "kanlı irin (gibi)"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayette hüsrana uğrayan inatçı zorbanın akıbetini kısaca bildirir: önünde cehennem vardır. Bu, 13-15. ayetlerdeki zulüm ve inat tutumunun doğal bir sonucu olarak sunulur, ayrı bir tehdit sahnesi değildir.",
+  "Ayet, bu kişiye içirilecek şeyi tek kelimeyle tanımlar: 'sadîd' (kanlı irin). Klasik tefsir bunu cehennem halkının içeceği son derece kötü bir içecek olarak açıklar; ayet ayrıntıya girmez, kısa ve doğrudan bir bilgi verir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "47:15",
+   "meal": "...Bu, ateşte sürekli kalan ve kendilerine kaynar su içirilip bağırsakları parça parça olan kimse gibi midir?",
+   "baglanti": "47:15, 14:16'daki 'sulanma' fiilini aynı kökle tekrarlar; cennet ehlinin temiz ırmaklarıyla ateş ehlinin kaynar suyunu karşılaştırarak aynı bilgiyi başka bir bağlamda verir."
+  },
+  {
+   "ref": "18:29",
+   "meal": "...Yardım isteseler, erimiş maden gibi, yüzleri kavuran bir su ile kendilerine yardım edilir. Ne kötü bir içecektir o!",
+   "baglanti": "18:29, 14:16'daki cehennem suyunun kötülüğünü, 'erimiş maden gibi, yüzleri kavuran bir su' tasviriyle destekleyen başka bir ayettir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ahiretteki bir gerçeğin kısa bir bilgilendirmesidir; bu, gaybe iman konusudur, kişiyi korkutmak için değil sonucu bildirmek için verilir.",
+  "Buradan çıkan genel ders, seçimlerin sonuçsuz olmadığıdır. Bugün, küçük görünen bir tercihinin bile bir sonucu olduğunu hatırlayarak karar verebilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sonucu düşün",
+   "aciklama": "Bugün vereceğin bir kararın, küçük de olsa bir sonucu olduğunu hatırla."
+  },
+  {
+   "baslik": "Zorbalıktan uzak dur",
+   "aciklama": "Güç kullanarak birini ezmek yerine, adil davranmayı seç."
+  },
+  {
+   "baslik": "Gaybe imanını tazele",
+   "aciklama": "Görmediğin ama bildirilen bir gerçeğe (ahiret) olan inancını içinden bir kez tazele."
+  }
+ ],
+ "bugununAdimi": "Bugün vereceğin bir kararın sonucunu düşünerek hareket et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=14&verse=16"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/14/16"
+  }
+ ]
+}
