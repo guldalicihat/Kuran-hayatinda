@@ -86,7 +86,7 @@ export default function AyahPage() {
         <>
           <div className="px-4 py-2 text-xs muted flex items-center gap-2">
             <span className={`px-2 py-0.5 rounded-full ${content.durum === 'incelendi' ? 'accent' : ''}`} style={{ background: 'var(--accent-soft)' }}>
-              {content.durum === 'incelendi' ? 'İkinci yapay zekâ doğrulamasından geçti' : 'Yapay zekâ destekli taslak · inceleme bekliyor'}
+              {content.durum === 'incelendi' ? 'İncelendi' : 'İnceleme bekliyor'}
             </span>
           </div>
           <Section no="1." title={`Ayetin meali — ${ch?.ad ?? ''} ${a}`}>
