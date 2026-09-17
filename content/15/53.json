@@ -1,0 +1,103 @@
+{
+ "sure": 15,
+ "ayet": 53,
+ "durum": "taslak",
+ "meal": "Dediler: Korkma, biz seni bilgin bir oğulla müjdeliyoruz.",
+ "mealNotu": "'Beşşir' kökü (بشر) müjde vermeyi, 'alîm' kökü (علم) ise bilgi sahibi olmayı anlatır. Melekler, İbrahim'in korkusunu gidermek için önce 'korkma' der, sonra müjdeyi verirler.",
+ "kokler": [
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk/nehiy edatı",
+   "karsilik": "—"
+  },
+  {
+   "kelime": "تَوْجَلْ",
+   "okunus": "tevcel",
+   "kok": "وجل",
+   "kokAnlam": "içe işleyen ürperti, tedirginlik",
+   "karsilik": "korkma"
+  },
+  {
+   "kelime": "إِنَّا",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "te'kid, 'şüphesiz biz'",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "نُبَشِّرُكَ",
+   "okunus": "nübeşşiruke",
+   "kok": "بشر",
+   "kokAnlam": "müjde verme",
+   "karsilik": "seni müjdeliyoruz"
+  },
+  {
+   "kelime": "بِغُلَٰمٍ",
+   "okunus": "biğulâmin",
+   "kok": "غلم",
+   "kokAnlam": "genç erkek çocuk, oğul",
+   "karsilik": "bir oğulla"
+  },
+  {
+   "kelime": "عَلِيمٍ",
+   "okunus": "alîmin",
+   "kok": "علم",
+   "kokAnlam": "bilgi, bilme",
+   "karsilik": "bilgin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette İbrahim'in korkusunu dile getirmesine karşılık, bu ayette meleklerin cevabı gelir. وجل kökünden 'tevcel' ile önce onun korkusunu gidermeye çalışırlar, ardından بشر kökünden 'nübeşşiruke' ile asıl gelme sebeplerinden birini, müjdeyi açıklarlar.",
+  "غلم kökünden 'ğulâm' burada henüz doğmamış bir oğulu, علم kökünden 'alîm' ise bu çocuğun ileride bilgili, kavrayışlı bir kişi olacağını bildirir. Klasik tefsir bu müjdenin İshak peygambere işaret ettiğini belirtir; yaşlılık döneminde gelen bu haber, İbrahim için hem sevindirici hem de şaşırtıcı olacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "51:28",
+   "meal": "İçinde bir korku duydu; dediler ki: Korkma; ve ona bilgin bir oğul müjdelediler.",
+   "baglanti": "Zâriyât suresindeki bu ayet, 15:53'teki 'korkma, bilgin bir oğulla müjdeliyoruz' ifadesini neredeyse aynı kelimelerle tekrarlar."
+  },
+  {
+   "ref": "37:101",
+   "meal": "Biz de ona uysal bir oğul müjdeledik.",
+   "baglanti": "Sâffât suresindeki bu ayet, aynı 'müjdeleme' kalıbını (بشر kökü) farklı bir oğul (İsmail) ve farklı bir sıfatla (halîm) tekrarlayarak İbrahim'e verilen müjdelerin örüntüsünü gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, İbrahim'e meleklerce verilen bir oğul müjdesidir; bu, tarihi ve gaybe dair bir olaydır.",
+  "Buradan çıkan ders, iyi bir haberi iletirken önce karşıdaki kişinin kaygısını gidermenin güzel bir yöntem olduğudur. Melekler önce 'korkma' diyerek İbrahim'i rahatlatmış, sonra müjdeyi vermiştir; bu, günlük iletişimde de örnek alınabilecek bir incelik taşır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önce rahatlat",
+   "aciklama": "Bugün birine haber verirken, varsa endişesini önce gidermeye çalış."
+  },
+  {
+   "baslik": "Müjdeyi paylaş",
+   "aciklama": "Bugün birine gerçek ve güzel bir haberi nazikçe ilet."
+  },
+  {
+   "baslik": "Şaşırtan haberlere açık ol",
+   "aciklama": "Beklenmedik bir gelişme karşısında bugün hemen kapanmak yerine ihtimallere açık kal."
+  }
+ ],
+ "bugununAdimi": "Bugün bir haberi iletmeden önce karşındaki kişinin kaygısını gidermeye çalış.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=53"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/53"
+  }
+ ]
+}

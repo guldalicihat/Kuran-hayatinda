@@ -1,0 +1,110 @@
+{
+ "sure": 15,
+ "ayet": 48,
+ "durum": "taslak",
+ "meal": "Orada onlara hiçbir yorgunluk dokunmaz; onlar oradan çıkarılacak da değillerdir.",
+ "mealNotu": "'Nasab' kökü (نصب) bedensel yorgunluğu ve bitkinliği; 'muhracîn' kökü (خرج) ise çıkarılmayı anlatır. Ayet, cennet nimetinin hem yorulmaktan hem de kaybetme korkusundan uzak olduğunu bildirir.",
+ "kokler": [
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "hiç"
+  },
+  {
+   "kelime": "يَمَسُّهُمْ",
+   "okunus": "yemessühüm",
+   "kok": "مسس",
+   "kokAnlam": "dokunma, temas etme",
+   "karsilik": "onlara dokunmaz"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "edat, 'orada'",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "نَصَبٌ",
+   "okunus": "nesabün",
+   "kok": "نصب",
+   "kokAnlam": "yorgunluk, bitkinlik",
+   "karsilik": "yorgunluk"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı, 've değil'",
+   "karsilik": "ve değillerdir"
+  },
+  {
+   "kelime": "هُم",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "zamir, 'onlar'",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "مِّنْهَا",
+   "okunus": "minhâ",
+   "kok": "—",
+   "kokAnlam": "edat+zamir, 'oradan'",
+   "karsilik": "oradan"
+  },
+  {
+   "kelime": "بِمُخْرَجِينَ",
+   "okunus": "bimühracîne",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, çıkarılma",
+   "karsilik": "çıkarılacak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetlerde anlatılan kalp temizliği ve kardeşlik sahnesinin ardından bu ayet, cennet nimetinin sürekliliğine dikkat çeker. مسس kökünden 'yemessühüm' en ufak bir temasın bile olmayacağını, نصب kökünden 'nasab' ise dünyada herkesin bildiği o yorgunluk halini anlatır.",
+  "Ayetin ikinci kısmı خرج kökünden 'muhracîn' ile bir başka endişeyi giderir: cennetten çıkarılma korkusu. Klasik tefsir bu ayeti, dünya nimetlerinin aksine cennet nimetinin hem bedensel yorgunluk hem de kaybetme kaygısından tamamen arınmış olduğunun delili olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "35:35",
+   "meal": "O, lütfundan bizi kalıcı yurda yerleştirdi; orada bize ne bir yorgunluk dokunur ne de bir bitkinlik dokunur.",
+   "baglanti": "Fâtır suresindeki bu ayet, 15:48'deki 'yorgunluk dokunmaz' ifadesini aynı kökle (مسس، نصب) tekrarlayarak cennet ehlinin kendi ağzından bir şükür cümlesi olarak sunar."
+  },
+  {
+   "ref": "18:108",
+   "meal": "Orada ebedî kalacaklardır; oradan ayrılmak istemezler.",
+   "baglanti": "Kehf suresindeki bu ayet, 15:48'deki 'oradan çıkarılmazlar' güvencesini tamamlar; burada ayrıca cennet ehlinin zaten oradan ayrılmayı hiç istemeyeceği eklenir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu cennet nimetinin süreklilik ve kesintisizliğidir; bu, dünya nimetlerinin aksine bir özelliktir.",
+  "Buradan çıkan ders, dünyadaki en güzel şeylerin bile yorgunluk ve kaybetme kaygısı taşıdığıdır. Bu farkındalık, kişiyi geçici nimetlere aşırı bağlanmaktan alıkoyabilir ve kalıcı olana yönelmeyi hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yorgunluğunu Allah'a şikayet et",
+   "aciklama": "Bugün yorgun hissettiğinde bunu kısa bir dua ile Allah'a anlat ve sabret."
+  },
+  {
+   "baslik": "Geçiciliği hatırla",
+   "aciklama": "Sahip olduğun bir nimetin geçici olduğunu bugün fark edip ona aşırı bağlanmaktan kaçın."
+  },
+  {
+   "baslik": "Dinlenmeyi planla",
+   "aciklama": "Bugün kendine gerçek bir dinlenme zamanı ayırarak bedenine hakkını ver."
+  }
+ ],
+ "bugununAdimi": "Bugün yorgunluğunu fark ettiğinde durup kısa bir mola ver ve bunu bir şükür anına çevir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=48"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/48"
+  }
+ ]
+}

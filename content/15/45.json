@@ -1,0 +1,89 @@
+{
+ "sure": 15,
+ "ayet": 45,
+ "durum": "taslak",
+ "meal": "Şüphesiz takva sahipleri, cennetlerde ve pınarlardadır.",
+ "mealNotu": "'Müttakîn' kökü (وقي) korunma ve sakınmayı; 'uyûn' kökü (عين) göz ve mecazen pınarı anlatır. Ayet, önceki ayetlerdeki cehennem tasvirinin karşıtı olarak müttakilerin akıbetini bildirir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid, 'şüphesiz'",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلْمُتَّقِينَ",
+   "okunus": "elmüttekîne",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma, takva",
+   "karsilik": "takva sahipleri"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat, '-de/-da'",
+   "karsilik": "içindedirler"
+  },
+  {
+   "kelime": "جَنَّٰتٍ",
+   "okunus": "cennâtin",
+   "kok": "جنن",
+   "kokAnlam": "örtülü bahçe, cennet",
+   "karsilik": "cennetlerde"
+  },
+  {
+   "kelime": "وَعُيُونٍ",
+   "okunus": "ve uyûnin",
+   "kok": "عين",
+   "kokAnlam": "göz, pınar, kaynak",
+   "karsilik": "ve pınarlarda"
+  }
+ ],
+ "neAnlatiyor": [
+  "Cehennemin kapılarının anlatıldığı ayetlerin hemen ardından, bu ayet zıt bir tabloya geçer: takva sahiplerinin akıbeti. وقي kökünden 'müttakîn', kendini kötülükten koruyan, sakınan kimseleri anlatır; onların yeri جنن kökünden 'cennât' (bahçeler) ve عين kökünden 'uyûn' (pınarlar) ile tasvir edilir.",
+  "Ayetin kısalığı ve sadeliği dikkat çekicidir; uzun bir tasvir yerine iki kelimeyle (bahçeler ve pınarlar) huzurlu bir ortam çizilir. Klasik tefsir bu ayeti, bir sonraki ayetlerde gelecek daha ayrıntılı cennet sahnelerinin (esenlikle giriş, kin'in giderilmesi, yorgunluk olmaması) girişi olarak okur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "51:15",
+   "meal": "Şüphesiz takva sahipleri, cennetlerde ve pınarlardadır.",
+   "baglanti": "Zâriyât suresindeki bu ayet, 15:45 ile kelimesi kelimesine aynıdır; Kur'an'da aynı gerçek farklı surelerde aynı ifadeyle tekrarlanarak pekiştirilir."
+  },
+  {
+   "ref": "76:6",
+   "meal": "Bir pınar ki, Allah'ın kulları ondan içer, onu istedikleri gibi fışkırtıp akıtırlar.",
+   "baglanti": "İnsan suresindeki bu ayet, 15:45'teki 'pınarlar' ifadesini somutlaştırır ve bu pınarların cennet ehlinin serbestçe yönlendirebildiği kaynaklar olduğunu ekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ahiretteki cennet nimetidir; bu, dünyevi bir bahçe veya kaynaktan söz etmez, gaybe dair bir müjdedir.",
+  "Buradan çıkan ders, takvanın karşılıksız kalmadığıdır. Günlük hayatta küçük sakınmalar (haram lokmadan, yalandan, kul hakkından kaçınmak gibi) küçük görünse de, bu ayetin işaret ettiği büyük bir karşılığın parçasıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir sakınma seç",
+   "aciklama": "Bugün bilerek sakınacağın küçük bir günahı (dedikodu, yalan gibi) belirle."
+  },
+  {
+   "baslik": "Huzuru hatırla",
+   "aciklama": "Yorgun hissettiğinde bugün cennetin huzur dolu tasvirini hatırla ve sabret."
+  },
+  {
+   "baslik": "Şükür anı yaşa",
+   "aciklama": "Bugün içtiğin temiz bir su anında bu nimeti düşünüp kısa bir şükür cümlesi kur."
+  }
+ ],
+ "bugununAdimi": "Bugün küçük bir sakınmayı (bir yalanı, bir gıybeti) bilerek terk et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=45"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/45"
+  }
+ ]
+}

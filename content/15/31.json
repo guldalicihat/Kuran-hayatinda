@@ -1,0 +1,103 @@
+{
+ "sure": 15,
+ "ayet": 31,
+ "durum": "taslak",
+ "meal": "Ancak İblis hariç; o, secde edenlerle beraber olmaktan kaçındı.",
+ "mealNotu": "'Ebâ' kökü (أبي) sadece secde etmemeyi değil, bilinçli bir direniş ve reddedişi anlatır; ayet İblis'in tek istisna olarak topluluktan ayrıldığını vurgular.",
+ "kokler": [
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "إِبْلِيسَ",
+   "okunus": "iblîse",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İblis"
+  },
+  {
+   "kelime": "أَبَىٰٓ",
+   "okunus": "ebâ",
+   "kok": "أبي",
+   "kokAnlam": "kaçınma, direnme, reddetme",
+   "karsilik": "kaçındı/reddetti"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "bağlaç",
+   "karsilik": "-mekten"
+  },
+  {
+   "kelime": "يَكُونَ",
+   "okunus": "yekûne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmaktan"
+  },
+  {
+   "kelime": "مَعَ",
+   "okunus": "mea",
+   "kok": "—",
+   "kokAnlam": "yer",
+   "karsilik": "beraber"
+  },
+  {
+   "kelime": "ٱلسَّٰجِدِينَ",
+   "okunus": "essâcidîne",
+   "kok": "سجد",
+   "kokAnlam": "secde etme",
+   "karsilik": "secde edenler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Meleklerin toplu ve eksiksiz itaatinin hemen ardından tek bir istisna zikredilir: İblis. أبي kökü, sadece secde etmemeyi değil, bilinçli ve ısrarlı bir reddedişi anlatır; bu, meleklerin itaatiyle tam bir tezat oluşturur.",
+  "Klasik tefsir İblis'in cinlerden olup ibadetiyle meleklere katılmış bir varlık olduğunu, ancak asıl imtihanda -kibirlenerek- secde emrine karşı geldiğini belirtir. Ayet burada henüz sebep vermeden sadece reddedişi bildirir; sebep bir sonraki ayette sorulacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "20:116",
+   "meal": "Hani meleklere 'Âdem'e secde edin' demiştik; İblis hariç hepsi secde etti, o ise kaçındı.",
+   "baglanti": "Aynı 'ebâ' (kaçınma) fiilini birebir paylaşarak İblis'in reddedişini doğrular."
+  },
+  {
+   "ref": "18:50",
+   "meal": "Hani meleklere 'Âdem'e secde edin' demiştik; İblis hariç hepsi secde etti. O cinlerdendi, Rabbinin emrinin dışına çıktı.",
+   "baglanti": "İblis'in cin cinsinden olduğunu ve emre karşı geldiğini ekleyerek 15:31'deki reddedişin arka planını tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, İblis'in tek başına, bilinçli bir kararla topluluğun itaatinden ayrılmasıdır.",
+  "Buradan çıkan ders, herkesin doğru yaptığı bir şeyde bilinçli olarak geri durmanın, küçük görünse de büyük bir sapmanın başlangıcı olabileceğini fark etmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İyilikten geri durma",
+   "aciklama": "Bugün herkesin katıldığı bir iyi işten kibrinden dolayı geri durmadığından emin ol."
+  },
+  {
+   "baslik": "Reddedişini sorgula",
+   "aciklama": "Bugün bir kuralı içten içe reddettiğini fark edersen sebebini kendine dürüstçe sor."
+  },
+  {
+   "baslik": "Topluluktan kopma",
+   "aciklama": "Bugün bir topluluk kararına, haklı bir sebebin yoksa gereksiz yere direnme."
+  }
+ ],
+ "bugununAdimi": "Bugün herkesin katıldığı bir iyi işten kendini geri çekmediğinden emin ol.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=31"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/31"
+  }
+ ]
+}

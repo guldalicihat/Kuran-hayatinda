@@ -1,0 +1,96 @@
+{
+ "sure": 15,
+ "ayet": 60,
+ "durum": "taslak",
+ "meal": "Ancak karısı hariç; onun geride kalanlardan olacağını takdir ettik.",
+ "mealNotu": "'Kaddernâ' kökü (قدر) ölçme ve önceden belirlemeyi; 'gâbirîn' kökü (غبر) ise geride kalmayı anlatır. Ayet, Lut'un karısının kurtuluşa dahil olmadığını nötr bir dille bildirir; kıssanın gerekçesi 15:61'den sonra anlatılır.",
+ "kokler": [
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna, 'ancak'",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ٱمْرَأَتَهُۥ",
+   "okunus": "imraetehû",
+   "kok": "مرأ",
+   "kokAnlam": "kadın, eş",
+   "karsilik": "onun karısı"
+  },
+  {
+   "kelime": "قَدَّرْنَآ",
+   "okunus": "kaddernâ",
+   "kok": "قدر",
+   "kokAnlam": "ölçme, önceden belirleme, takdir etme",
+   "karsilik": "takdir ettik"
+  },
+  {
+   "kelime": "إِنَّهَا",
+   "okunus": "innehâ",
+   "kok": "—",
+   "kokAnlam": "te'kid, 'şüphesiz o'",
+   "karsilik": "şüphesiz o"
+  },
+  {
+   "kelime": "لَمِنَ",
+   "okunus": "lemine",
+   "kok": "—",
+   "kokAnlam": "edat, '-den'",
+   "karsilik": "-den olacaktır"
+  },
+  {
+   "kelime": "ٱلْغَٰبِرِينَ",
+   "okunus": "elgâbirîne",
+   "kok": "غبر",
+   "kokAnlam": "geride kalma",
+   "karsilik": "geride kalanlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette Lut'un ailesinin kurtarılacağı bildirilmişti; bu ayet tek bir istisnayı ekler: karısı. قدر kökünden 'kaddernâ' bunun rastgele değil, önceden belirlenmiş bir takdir olduğunu, غبر kökünden 'gâbirîn' ise onun kurtulanlarla birlikte gitmeyip geride kalacağını bildirir.",
+  "Klasik tefsir, bu istisnanın sebebini ilerleyen ayetlerde ve diğer surelerde açıklar; burada Kur'an sadece sonucu, nötr bir dille bildirir. Bu ayetin kısalığı, kıssanın bu noktada bir özet niteliğinde olduğunu, ayrıntıların 15:61'den itibaren geleceğini gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:171",
+   "meal": "Ancak geride kalanlar arasındaki bir kocakarı hariç.",
+   "baglanti": "Şuarâ suresindeki bu ayet, 15:60'taki 'gâbirîn' (geride kalanlar) ifadesini aynı kökle tekrarlayarak Lut'un karısının akıbetini teyit eder."
+  },
+  {
+   "ref": "7:83",
+   "meal": "Böylece onu ve ailesini kurtardık; karısı hariç, o geride kalanlardan oldu.",
+   "baglanti": "A'râf suresindeki bu ayet, 15:60'taki takdirin gerçekleştiğini, olayın sonucunda Lut'un karısının gerçekten geride kalanlardan olduğunu bildirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Lut'un karısının kurtuluşa dahil olmayacağının önceden takdir edildiğinin bildirilmesidir; bu, kıssanın ayrıntısı değil, sonucudur.",
+  "Buradan çıkan ders, aile bağının tek başına kurtarıcı olmadığıdır; kişinin kendi duruşu ve tercihi belirleyicidir. Bu, yakın çevredeki bir kötülüğe ortak olmamanın, sadece aynı evde veya ailede olmakla değil, kişinin kendi tutumuyla ilgili olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendi tutumunu gözden geçir",
+   "aciklama": "Bugün ailende veya çevrende yanlış bir tutuma sessizce ortak olup olmadığını sorgula."
+  },
+  {
+   "baslik": "Bağlamı tamamla",
+   "aciklama": "Bugün 15:61 ve sonrasını okuyarak bu istisnanın gerekçesini öğren."
+  },
+  {
+   "baslik": "Nötr dil kullan",
+   "aciklama": "Bu kıssayı biriyle konuşurken bugün abartısız, bilgilendirici bir dil kullan."
+  }
+ ],
+ "bugununAdimi": "Bugün yakın çevrendeki bir yanlışa sessizce ortak olup olmadığını dürüstçe sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=60"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/60"
+  }
+ ]
+}
