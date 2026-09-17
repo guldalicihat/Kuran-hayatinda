@@ -24,6 +24,8 @@ jobs:
         with: { python-version: '3.12' }
       - run: pip install tweepy playwright
       - run: playwright install --with-deps chromium
+      - name: Site verisini üret (chapters.json vb.)
+        run: python3 scripts/build_data.py
       - name: Sıradaki onaylı postu X'e paylaş
         env:
           X_API_KEY: ${{ secrets.X_API_KEY }}
