@@ -1,0 +1,208 @@
+{
+ "sure": 16,
+ "ayet": 115,
+ "durum": "taslak",
+ "meal": "Allah size ancak leşi, kanı, domuz etini ve Allah'tan başkası adına kesileni haram kıldı. Ama kim mecbur kalırsa, taşkınlık etmeden ve haddi aşmadan (yerse), şüphesiz Allah çok bağışlayan, çok merhamet edendir.",
+ "mealNotu": "'حرم' kökü yasaklamayı, 'بغي' ve 'عدو' kökleri ise haddi aşıp taşkınlık etmeyi anlatır. Zorda kalan (muztar) için tanınan istisna, ayetin sonunda Allah'ın bağışlayıcılığı ile pekiştirilir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "sınırlama edatı (ancak, yalnız)",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "حَرَّمَ",
+   "okunus": "harrame",
+   "kok": "حرم",
+   "kokAnlam": "yasaklama, haram kılma",
+   "karsilik": "haram kıldı"
+  },
+  {
+   "kelime": "عَلَيْكُمُ",
+   "okunus": "aleykümü",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "ٱلْمَيْتَةَ",
+   "okunus": "elmeytete",
+   "kok": "موت",
+   "kokAnlam": "ölüm; kendiliğinden ölmüş hayvan",
+   "karsilik": "leşi"
+  },
+  {
+   "kelime": "وَٱلدَّمَ",
+   "okunus": "ved deme",
+   "kok": "دمو",
+   "kokAnlam": "kan",
+   "karsilik": "ve kanı"
+  },
+  {
+   "kelime": "وَلَحْمَ",
+   "okunus": "ve lahme",
+   "kok": "لحم",
+   "kokAnlam": "et",
+   "karsilik": "ve etini"
+  },
+  {
+   "kelime": "ٱلْخِنزِيرِ",
+   "okunus": "elhınzîri",
+   "kok": "خنزر",
+   "kokAnlam": "domuz",
+   "karsilik": "domuz"
+  },
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "ve şeyi"
+  },
+  {
+   "kelime": "أُهِلَّ",
+   "okunus": "ühille",
+   "kok": "هلل",
+   "kokAnlam": "yüksek sesle anma, adına kesme",
+   "karsilik": "kesilen"
+  },
+  {
+   "kelime": "لِغَيْرِ",
+   "okunus": "liğayri",
+   "kok": "غير",
+   "kokAnlam": "başkası",
+   "karsilik": "başkası adına"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah'ın özel adı",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "onun için"
+  },
+  {
+   "kelime": "فَمَنِ",
+   "okunus": "femeni",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "ama kim"
+  },
+  {
+   "kelime": "ٱضْطُرَّ",
+   "okunus": "idturra",
+   "kok": "ضرر",
+   "kokAnlam": "zorda kalma, mecbur olma",
+   "karsilik": "mecbur kalırsa"
+  },
+  {
+   "kelime": "غَيْرَ",
+   "okunus": "gayra",
+   "kok": "غير",
+   "kokAnlam": "başka, -sız",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "بَاغٍ",
+   "okunus": "bâğın",
+   "kok": "بغي",
+   "kokAnlam": "azgınlık, haddi aşma, istek",
+   "karsilik": "taşkınlık"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "عَادٍ",
+   "okunus": "âdin",
+   "kok": "عدو",
+   "kokAnlam": "düşmanlık, haddi aşma",
+   "karsilik": "haddi aşmaksızın"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "te'kid edatı",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah'ın özel adı",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَفُورٌ",
+   "okunus": "gafûrun",
+   "kok": "غفر",
+   "kokAnlam": "bağışlama, örtme",
+   "karsilik": "çok bağışlayandır"
+  },
+  {
+   "kelime": "رَّحِيمٌ",
+   "okunus": "rahîmün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet, şefkat",
+   "karsilik": "çok merhamet edendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette helal ve temiz rızıktan yeme emri geldikten sonra bu ayet, haram kılınan dört şeyi sayar: leş (kendiliğinden ölmüş hayvan), akıtılmış kan, domuz eti ve Allah'tan başkası adına kesilen hayvan. 'إنما' (ancak, yalnız) edatı, haramın bu dördüyle sınırlı olduğunu vurgular. Ardından gelen istisna, gerçek bir zorunluluk (açlık, hayatî tehlike gibi) durumunda, kişi taşkınlık etmeden ve haddi aşmadan bunlardan yiyebileceğini bildirir; 'بغي' ve 'عدو' kökleri burada, ihtiyaç sınırını aşıp keyfi davranmamayı anlatır.",
+  "Klasik tefsir bu ayeti, İslam hukukunda zaruret halinin haramı geçici olarak kaldırdığı ilkesinin temel dayanaklarından biri olarak açıklar; can güvenliği tehlikedeyken, ihtiyaç kadarıyla sınırlı kalmak şartıyla bu yasak kalkar. Ayetin 'Allah çok bağışlayan, çok merhamet edendir' sözüyle bitmesi, bu istisnanın bir ceza değil, bir rahmet olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:173",
+   "meal": "Allah size ancak leşi, kanı, domuz etini ve Allah'tan başkası adına kesileni haram kıldı. Ama kim mecbur kalırsa, taşkınlık etmeden ve haddi aşmadan (yerse) ona günah yoktur. Şüphesiz Allah çok bağışlayan, çok merhamet edendir.",
+   "baglanti": "16:115 ile neredeyse birebir aynı ifadeyi taşır; aynı dört haram ve aynı zaruret istisnasının Kur'an'da tekrarlanan bir hüküm olduğunu gösterir."
+  },
+  {
+   "ref": "6:145",
+   "meal": "De ki: Bana vahyolunanda, leş, akıtılmış kan, domuz eti -ki o gerçekten pistir- ya da Allah'tan başkası adına kesilmiş bir fısk olması dışında, yiyen kimseye haram kılınmış bir şey bulamıyorum. Ama kim mecbur kalırsa, taşkınlık etmeden ve haddi aşmadan (yiyebilir); şüphesiz Rabbin çok bağışlayan, çok merhamet edendir.",
+   "baglanti": "Aynı dört haramı ve aynı zaruret istisnasını, 'De ki' hitabıyla daha açık bir gerekçelendirmeyle sunarak 16:115'i tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, İslam hukukunda yeme-içmeyle ilgili temel haramlar ve bunların zaruret halinde kalkması ilkesidir; bu, dini/hukuki bir hükümdür ve genel bir ahlak dersi olarak zorlanmamalıdır.",
+  "Buradan çıkarılabilecek genel ilke, kuralların gerçek bir zorunluluk karşısında esneyebileceği, ama bu esnekliğin sınırının 'ihtiyaç kadarı' olduğudur; bu, günlük hayatta da bir kuralı çiğnemek zorunda kalındığında bile ölçüyü kaçırmamak şeklinde genel bir tutuma dönüştürülebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yediğin gıdanın kaynağını bil",
+   "aciklama": "Bugün aldığın bir gıda ürününün içeriğini veya kaynağını kontrol et."
+  },
+  {
+   "baslik": "Zaruret ile keyfîliği ayır",
+   "aciklama": "Bugün bir kuralı esnetmen gerekiyorsa, bunu gerçekten ihtiyaç kadarla sınırla."
+  },
+  {
+   "baslik": "Rahmeti hatırla",
+   "aciklama": "Bugün bir hata veya zorunluluk anında Allah'ın bağışlayıcılığını hatırla, kendini gereksiz yere suçlama."
+  }
+ ],
+ "bugununAdimi": "Bugün aldığın bir gıda ürününün içeriğini kontrol et ve zorunlu bir istisnayı yalnız ihtiyaç kadarla sınırla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=115"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/16/115"
+  }
+ ]
+}

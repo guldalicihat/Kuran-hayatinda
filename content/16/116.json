@@ -1,0 +1,208 @@
+{
+ "sure": 16,
+ "ayet": 116,
+ "durum": "taslak",
+ "meal": "Dillerinizin yalan yere nitelendirdiği şey için, Allah'a karşı yalan uydurmak üzere 'bu helaldir, şu haramdır' demeyin. Şüphesiz Allah'a karşı yalan uyduranlar kurtuluşa eremezler.",
+ "mealNotu": "'وصف' kökü nitelendirmeyi, 'كذب' kökü yalanı, 'فري' kökü ise (iftera) yoktan bir şey uydurup Allah'a mal etmeyi anlatır. Ayet, dinde kendi kafasına göre hüküm koymayı ağır bir dille yasaklar.",
+ "kokler": [
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ve...meyin"
+  },
+  {
+   "kelime": "تَقُولُوا۟",
+   "okunus": "tekûlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "demeyin"
+  },
+  {
+   "kelime": "لِمَا",
+   "okunus": "limâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "şey için"
+  },
+  {
+   "kelime": "تَصِفُ",
+   "okunus": "tesıfü",
+   "kok": "وصف",
+   "kokAnlam": "nitelendirme, vasıflandırma",
+   "karsilik": "nitelendirdiği"
+  },
+  {
+   "kelime": "أَلْسِنَتُكُمُ",
+   "okunus": "elsinetükümü",
+   "kok": "لسن",
+   "kokAnlam": "dil",
+   "karsilik": "dillerinizin"
+  },
+  {
+   "kelime": "ٱلْكَذِبَ",
+   "okunus": "elkezibe",
+   "kok": "كذب",
+   "kokAnlam": "yalan",
+   "karsilik": "yalan yere"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "حَلَٰلٌ",
+   "okunus": "halâlün",
+   "kok": "حلل",
+   "kokAnlam": "izin verilmiş, helal",
+   "karsilik": "helaldir"
+  },
+  {
+   "kelime": "وَهَٰذَا",
+   "okunus": "ve hâzâ",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri",
+   "karsilik": "ve şu"
+  },
+  {
+   "kelime": "حَرَامٌ",
+   "okunus": "harâmün",
+   "kok": "حرم",
+   "kokAnlam": "yasaklanmış, haram",
+   "karsilik": "haramdır"
+  },
+  {
+   "kelime": "لِّتَفْتَرُوا۟",
+   "okunus": "litefterû",
+   "kok": "فري",
+   "kokAnlam": "uydurma, iftira etme",
+   "karsilik": "uydurmak üzere"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "karşı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah'ın özel adı",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "ٱلْكَذِبَ",
+   "okunus": "elkezibe",
+   "kok": "كذب",
+   "kokAnlam": "yalan",
+   "karsilik": "yalan"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid edatı",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "يَفْتَرُونَ",
+   "okunus": "yefterûne",
+   "kok": "فري",
+   "kokAnlam": "uydurma, iftira etme",
+   "karsilik": "uyduranlar"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "karşı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah'ın özel adı",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "ٱلْكَذِبَ",
+   "okunus": "elkezibe",
+   "kok": "كذب",
+   "kokAnlam": "yalan",
+   "karsilik": "yalan"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "-mezler"
+  },
+  {
+   "kelime": "يُفْلِحُونَ",
+   "okunus": "yüflihûne",
+   "kok": "فلح",
+   "kokAnlam": "kurtuluş, felah bulma",
+   "karsilik": "kurtuluşa eremezler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki iki ayette (16:114-115) helal ve haramın Allah tarafından belirlendiği net bir çerçeve çizildikten sonra bu ayet, bunun karşıtına -kişinin kendi diliyle keyfi olarak 'bu helal, şu haram' demesine- şiddetle karşı çıkar. 'وصف' kökünden 'tesıfü', dilin bir şeyi nitelendirmesini, burada ise dayanaksız bir şekilde hüküm uydurmasını anlatır; bu, 'فري' kökünden 'litefterû' ile Allah'a yalan isnat etmek (iftira) olarak nitelenir.",
+  "Klasik tefsir bu ayeti, dinde nass'a (Allah'ın açık hükmüne) dayanmadan kişisel görüşle helal-haram belirlemenin ağır bir günah olduğunun delili olarak açıklar. Ayetin sonundaki 'Allah'a karşı yalan uyduranlar kurtuluşa eremezler' ifadesi, bu tür bir tutumun sonucunun dünya ve ahirette bir kayıp olduğunu bildirir; burada kastedilen, dini bir otorite iddiasıyla keyfi hüküm koymaktır, sıradan bir kişisel tercih değildir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:59",
+   "meal": "De ki: Allah'ın size indirdiği rızıktan bir kısmını haram, bir kısmını helal kıldığınızı görmüyor musunuz? De ki: Allah mı size izin verdi, yoksa Allah'a iftira mı ediyorsunuz?",
+   "baglanti": "16:116'daki 'bu helal, şu haram deyip Allah'a iftira etme' uyarısını, doğrudan bir soru biçiminde tekrar ederek pekiştirir."
+  },
+  {
+   "ref": "6:140",
+   "meal": "Bilgisizce çocuklarını öldürenler ve Allah'ın kendilerine verdiği rızkı, Allah'a iftira ederek haram kılanlar gerçekten ziyana uğradılar; onlar doğru yoldan sapmışlardı.",
+   "baglanti": "16:116'daki iftira temasını, cahiliye dönemi örnekleriyle somutlaştırıp bu tutumun bir 'ziyan' (kayıp) olduğunu ekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dinde Allah'ın hükmü olmadan kişisel görüşle helal-haram belirlemenin yasak olmasıdır; bu, dini bir otorite iddiasıyla ilgili özel bir uyarıdır, sıradan kişisel tercihleri kapsamaz.",
+  "Bugüne taşınabilecek genel ders, bir konuda kesin bilgiye sahip olmadan 'bu kesinlikle doğrudur/yanlıştır' diye iddialı konuşmaktan kaçınmaktır; bu, din, bilim veya günlük hayatın her alanında, bilmediğini bildiği gibi sunmama ilkesi olarak, kimseyi hedef almadan uygulanabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilmediğini bildiği gibi sunma",
+   "aciklama": "Bugün emin olmadığın bir konuda kesin hüküm vermeden önce durup düşün."
+  },
+  {
+   "baslik": "Kaynağını belirt",
+   "aciklama": "Bugün bir bilgiyi paylaşırken kaynağını da söyle, kendi yorumunu ayırt et."
+  },
+  {
+   "baslik": "Kolay hüküm vermekten kaçın",
+   "aciklama": "Bugün bir şeyi hemen 'doğru' veya 'yanlış' diye etiketlemeden önce araştır."
+  }
+ ],
+ "bugununAdimi": "Bugün emin olmadığın bir konuda kesin hüküm vermeden önce, bilginin kaynağını kontrol et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=116"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/16/116"
+  }
+ ]
+}
