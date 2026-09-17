@@ -1,0 +1,110 @@
+{
+ "sure": 16,
+ "ayet": 47,
+ "durum": "taslak",
+ "meal": "Yahut onları korkuta korkuta, azar azar yakalamasından (güvende mi oldular)? Şüphesiz Rabbiniz çok şefkatli, çok merhametlidir.",
+ "mealNotu": "'Tehavvüf' kökü (خوف) korkutarak, azalta azalta yakalama anlamı taşır; klasik tefsir bunu 'uyarı üstüne uyarı ile yavaş yavaş yakalama' olarak açıklar. Ayet, uyarının ardından Allah'ın şefkatini (رأف) ve merhametini (رحم) hatırlatarak biter.",
+ "kokler": [
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "bağlaç",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "يَأْخُذَهُمْ",
+   "okunus": "ye'huzehüm",
+   "kok": "أخذ",
+   "kokAnlam": "alma, yakalama, tutma",
+   "karsilik": "onları yakalaması"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "üzere"
+  },
+  {
+   "kelime": "تَخَوُّفٍ",
+   "okunus": "tehavvüfin",
+   "kok": "خوف",
+   "kokAnlam": "korku; korkutarak azaltma",
+   "karsilik": "korkuta korkuta"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "te'kid edatı",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "رَبَّكُمْ",
+   "okunus": "rabbeküm",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, besleyip yetiştirme; rab",
+   "karsilik": "Rabbiniz"
+  },
+  {
+   "kelime": "لَرَءُوفٌ",
+   "okunus": "leraûfün",
+   "kok": "رأف",
+   "kokAnlam": "şefkat, incelikli merhamet",
+   "karsilik": "çok şefkatlidir"
+  },
+  {
+   "kelime": "رَّحِيمٌ",
+   "okunus": "rahîmün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet, esirgeme",
+   "karsilik": "çok merhametlidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "45-46. ayetlerdeki ani ve ağır yakalanma ihtimallerinin ardından bu ayet daha farklı bir biçimi anlatır: azar azar, korkuta korkuta yakalanmak. Klasik tefsir bunu, kişinin önce küçük uyarılar, kayıplar veya sıkıntılarla ikaz edilip fırsat verilmesi olarak açıklar.",
+  "Ayetin sonu dikkat çekicidir: bunca uyarı sayıldıktan sonra ayet, Allah'ın şefkatli ve merhametli olduğunu hatırlatarak biter. Bu, önceki ayetlerin bir tehdit değil, insanı hâlâ vakit varken uyandırmayı amaçlayan bir merhamet ifadesi olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:99",
+   "meal": "Allah'ın tedbirinden emin mi oldular? Allah'ın tedbirinden, ancak hüsrana uğrayan topluluk emin olur.",
+   "baglanti": "45-47. ayetler boyunca tekrarlanan 'emin olma' temasının özeti niteliğindedir; farklı yakalanma biçimlerinin hepsinin ortak mesajını taşır."
+  },
+  {
+   "ref": "29:40",
+   "meal": "Onların her birini kendi günahıyla yakaladık... Allah onlara zulmetmiyordu, fakat onlar kendilerine zulmediyorlardı.",
+   "baglanti": "Yakalanmanın farklı biçimlerinin, Allah'ın haksızlığından değil insanların kendi tercihlerinden kaynaklandığını göstererek 16:47'nin sonundaki merhamet vurgusuyla dengelenir: uyarı, zulüm değil fırsattır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kötülük yapanlara yönelik kademeli bir uyarı biçimidir; ancak ayet bunu Allah'ın merhametiyle birlikte anar.",
+  "Buradan çıkan ders, hayatta karşılaşılan küçük sıkıntıların, aksiliklerin bazen bir ceza değil bir uyarı, bir fırsat olabileceğidir. Küçük bir aksilik yaşandığında bunu bir öfke sebebi değil, kendini gözden geçirme fırsatı olarak görmek mümkündür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçük uyarıları önemse",
+   "aciklama": "Bugün yaşadığın küçük bir aksiliği, kendini gözden geçirmek için bir fırsat say."
+  },
+  {
+   "baslik": "Merhameti hatırla",
+   "aciklama": "Bugün bir hata yapan birine, sert değil şefkatli bir dille yaklaş."
+  },
+  {
+   "baslik": "Şükrünü tazele",
+   "aciklama": "Bugün başına henüz büyük bir sıkıntı gelmediği için Allah'a şükret."
+  }
+ ],
+ "bugununAdimi": "Bugün yaşadığın küçük bir aksiliği, öfkelenmeden kendini gözden geçirme fırsatı olarak değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=47"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/16/47"
+  }
+ ]
+}
