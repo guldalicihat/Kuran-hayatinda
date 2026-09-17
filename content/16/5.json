@@ -1,0 +1,110 @@
+{
+ "sure": 16,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Hayvanları da yarattı; onlarda sizin için ısınma ve [birçok] faydalar vardır ve onlardan yersiniz.",
+ "mealNotu": "'En'âm' (koyun, keçi, sığır, deve gibi evcil hayvanlar) kökü (ن ع م) nimet kökünden gelir. 'Dif'' kökü (د ف أ) özellikle yünden elde edilen ısınmayı ifade eder; anlamı netleştirmek için '[birçok]' köşeli parantezle eklendi.",
+ "kokler": [
+  {
+   "kelime": "وَٱلْأَنْعَٰمَ",
+   "okunus": "vel en'âme",
+   "kok": "نعم",
+   "kokAnlam": "nimet; evcil hayvan",
+   "karsilik": "hayvanları da"
+  },
+  {
+   "kelime": "خَلَقَهَا",
+   "okunus": "halekahâ",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yarattı"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "sizin için (zamir)",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "onda (edat)",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "دِفْءٌ",
+   "okunus": "dif'ün",
+   "kok": "دفأ",
+   "kokAnlam": "ısınma",
+   "karsilik": "ısınma"
+  },
+  {
+   "kelime": "وَمَنَٰفِعُ",
+   "okunus": "ve menâfiu",
+   "kok": "نفع",
+   "kokAnlam": "fayda, yarar",
+   "karsilik": "ve faydalar"
+  },
+  {
+   "kelime": "وَمِنْهَا",
+   "okunus": "ve minhâ",
+   "kok": "—",
+   "kokAnlam": "ondan (edat)",
+   "karsilik": "ve ondan"
+  },
+  {
+   "kelime": "تَأْكُلُونَ",
+   "okunus": "te'külûne",
+   "kok": "أكل",
+   "kokAnlam": "yeme",
+   "karsilik": "yersiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet insanın yaratılışını anlatmıştı; bu ayetle birlikte sure, insana verilen nimetleri saymaya başlar. En'âm (evcil hayvanlar), insanın hem giyim/ısınma hem de beslenme ihtiyacını karşılayan ilk nimet örneğidir.",
+  "'Dif'' (ısınma) kelimesi klasik tefsirde hayvanların yününden, kılından ve derisinden yapılan giysi ve örtüleri işaret eder olarak açıklanır. 'Menâfi' (faydalar) kelimesi ise süt, taşımacılık gibi diğer kullanım alanlarını genel biçimde kapsar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "23:21",
+   "meal": "Hayvanlarda da sizin için elbette bir ibret vardır; onların karınlarındakinden size içiririz, onlarda sizin için birçok faydalar vardır ve onlardan yersiniz.",
+   "baglanti": "Mü'minûn suresindeki bu ayet, 16:5 ile hemen hemen aynı kelimeleri (menâfi, te'külûn) kullanarak hayvanların insana sunduğu nimetleri aynı çerçevede özetler."
+  },
+  {
+   "ref": "40:79",
+   "meal": "Allah, bir kısmına binesiniz, bir kısmından da yiyesiniz diye sizin için hayvanları var edendir.",
+   "baglanti": "Mü'min suresindeki bu ayet, en'âmın hem binek hem gıda kaynağı olma yönünü vurgulayarak 16:5'teki nimet listesini tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, evcil hayvanların insana ısınma ve beslenme gibi somut faydalar sağladığıdır.",
+  "Bugüne taşınabilecek ders, günlük hayatta kullanılan yün, süt, et gibi ürünlerin arkasındaki nimeti fark etmek ve bunları israf etmeden, şükrederek kullanmaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Nimeti fark et",
+   "aciklama": "Bugün giydiğin bir kıyafeti veya yediğin bir yiyeceği hayvanlardan geldiğini düşünerek bir kez daha değerlendir."
+  },
+  {
+   "baslik": "İsrafı azalt",
+   "aciklama": "Bugün gıda israfını azaltacak küçük bir adım at, örneğin tabağındakini bitir."
+  },
+  {
+   "baslik": "Şükrü dile getir",
+   "aciklama": "Bugün bir öğün yemekten önce, o yemeğin arkasındaki nimet zincirine kısa bir şükür cümlesiyle dikkat çek."
+  }
+ ],
+ "bugununAdimi": "Bugün bir öğün öncesi, yediğin gıdanın arkasındaki nimeti düşünüp kısa bir şükür cümlesi kur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/16/5"
+  }
+ ]
+}

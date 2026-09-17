@@ -1,0 +1,103 @@
+{
+ "sure": 16,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "Yaratan, hiç yaratmayan gibi olur mu? Hâlâ öğüt almıyor musunuz?",
+ "mealNotu": "Soru, retorik bir tevhid delilidir: yaratma gücü olmayan (putlar), yaratan (Allah) ile bir tutulamaz. 'Tezekkerûn' kökü (ذ ك ر) hatırlama, öğüt alma anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "أَفَمَن",
+   "okunus": "efemen",
+   "kok": "—",
+   "kokAnlam": "yaratan mı (ilgi)",
+   "karsilik": "yaratan mı"
+  },
+  {
+   "kelime": "يَخْلُقُ",
+   "okunus": "yahlüku",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yaratan"
+  },
+  {
+   "kelime": "كَمَن",
+   "okunus": "kemen",
+   "kok": "—",
+   "kokAnlam": "gibi (ilgi)",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "يَخْلُقُ",
+   "okunus": "yahlüku",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yaratmayan"
+  },
+  {
+   "kelime": "أَفَلَا",
+   "okunus": "efelâ",
+   "kok": "—",
+   "kokAnlam": "hâlâ ...mıyorsunuz (olumsuzluk)",
+   "karsilik": "hâlâ ...mıyorsunuz"
+  },
+  {
+   "kelime": "تَذَكَّرُونَ",
+   "okunus": "tezekkerûne",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlama, öğüt alma",
+   "karsilik": "öğüt alıyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetler tek tek yaratılış delillerini (hayvanlar, bitkiler, gökler, deniz, dağlar, yıldızlar) saymıştı; bu ayet bunların hepsini tek bir keskin soruya bağlar: yaratma gücüne sahip olan Allah ile hiçbir şey yaratamayan bir tutulabilir mi? Soru, cevabı zaten belli olan retorik bir sorudur.",
+  "Klasik tefsir bu ayeti, müşriklerin taptığı putların hiçbir yaratma gücüne sahip olmadığını hatırlatan doğrudan bir tevhid delili olarak açıklar. Ayetin kısalığı ve gücü, önceki uzun nimet listesinden sonra bir sonuç cümlesi gibi okunur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:191",
+   "meal": "Hiçbir şey yaratamayan, kendileri de yaratılmış olan şeyleri mi (Allah'a) ortak koşuyorlar?",
+   "baglanti": "A'râf suresindeki bu ayet, 16:17'deki aynı mantığı (yaratamayan, yaratanla bir tutulamaz) putperestliğe açık bir eleştiri biçiminde tekrarlar."
+  },
+  {
+   "ref": "35:40",
+   "meal": "De ki: Allah'ı bırakıp taptığınız ortaklarınızı gördünüz mü? Gösterin bana, yerden ne yarattılar?...",
+   "baglanti": "Fâtır suresindeki bu ayet, putlardan somut bir yaratma delili istemesiyle 16:17'deki 'yaratan, yaratmayan gibi olur mu?' sorusunu pratik bir meydan okumaya dönüştürür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, yaratma gücüne sahip olan Allah ile hiçbir şey yaratamayan varlıkların bir tutulamayacağıdır; bu, doğrudan bir tevhid delilidir.",
+  "Bugüne taşınabilecek ders, hayatında güvendiğin, önem verdiğin şeylerin gerçekten yaratma gücüne sahip olup olmadığını sorgulamak; sonuçta her şeyin kaynağının tek bir yaratıcıya dayandığını hatırlamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Soruyu kendine sor",
+   "aciklama": "Bugün güvendiğin bir şeyin gerçekten yaratma gücüne sahip olup olmadığını düşün."
+  },
+  {
+   "baslik": "Yaratılışı gözlemle",
+   "aciklama": "Bugün etrafındaki bir nesneye bakıp onun nasıl var olduğunu zihninde takip et."
+  },
+  {
+   "baslik": "Ayeti ezberle",
+   "aciklama": "Bugün bu kısa ayeti (16:17) anlamıyla birlikte ezberlemeye çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün güvendiğin bir şeyin gerçek kaynağının kim olduğunu birkaç dakika düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/16/17"
+  }
+ ]
+}

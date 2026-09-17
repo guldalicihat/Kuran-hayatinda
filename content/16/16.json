@@ -1,0 +1,82 @@
+{
+ "sure": 16,
+ "ayet": 16,
+ "durum": "taslak",
+ "meal": "Ve nice işaretler [de koydu]; onlar yıldızla da yollarını bulurlar.",
+ "mealNotu": "Ayet, bir önceki ayetteki 'elkâ' (koydu) fiiline bağlı kısa bir devam cümlesi olduğu için '[de koydu]' köşeli parantezle eklendi.",
+ "kokler": [
+  {
+   "kelime": "وَعَلَٰمَٰتٍ",
+   "okunus": "ve alâmâtin",
+   "kok": "علم",
+   "kokAnlam": "bilgi; işaret",
+   "karsilik": "ve işaretler"
+  },
+  {
+   "kelime": "وَبِٱلنَّجْمِ",
+   "okunus": "ve bin necmi",
+   "kok": "نجم",
+   "kokAnlam": "yıldız",
+   "karsilik": "ve yıldızla da"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "onlar (zamir)",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "يَهْتَدُونَ",
+   "okunus": "yehtedûne",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu bulma, hidayet",
+   "karsilik": "yollarını bulurlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet dağlar, nehirler ve yolları saymış, 'doğru yolu bulasınız diye' demişti; bu ayet o listeyi tamamlar: yeryüzündeki işaretler ve gökteki yıldızlar, yön bulmanın iki temel aracıdır.",
+  "'Necm' (yıldız) ile yön bulma, özellikle çöl ve deniz yolculuklarında kullanılan geleneksel bir yöntemdir; klasik tefsir bunu, kervanların ve denizcilerin geceleri yıldızlara bakarak yönlerini tayin etmesi olarak açıklar. Ayet, kısa ama Nahl suresinin nimet listesi içinde önemli bir pratik faydaya işaret eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:97",
+   "meal": "Karanın ve denizin karanlıklarında kendileriyle yol bulasınız diye sizin için yıldızları yaratan O'dur; bilen bir topluluk için ayetleri ayrı ayrı açıkladık.",
+   "baglanti": "En'âm suresindeki bu ayet, 16:16'daki 'yıldızla yollarını bulurlar' ifadesini aynı kökle (هدي) ve daha ayrıntılı biçimde açıklayarak tamamlar."
+  },
+  {
+   "ref": "27:63",
+   "meal": "Karanın ve denizin karanlıklarında size yol gösteren, rahmetinin önünde rüzgârları müjdeci olarak gönderen kimdir? Allah ile birlikte bir ilah mı var?",
+   "baglanti": "Neml suresindeki bu ayet, yol bulma nimetini bir tevhid delili olarak sunup soru biçiminde vurgulayarak 16:16'daki yön bulma temasını tevhide bağlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, yeryüzündeki işaretler ve gökteki yıldızların insanlara yön bulma imkânı sağlamasıdır.",
+  "Bugüne taşınabilecek ders, bugün GPS ve haritaların kolaylaştırdığı yön bulmanın kökeninde bu tabii işaretlerin olduğunu fark etmek; teknolojinin kolaylığı karşısında bu temel nimeti unutmamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yıldızlara bak",
+   "aciklama": "Bugün açık bir gecede gökyüzüne bakıp yıldızların eskiden nasıl yön bulmada kullanıldığını düşün."
+  },
+  {
+   "baslik": "Yön duygunu güçlendir",
+   "aciklama": "Bugün bir yolculukta haritaya bakmadan önce yönünü tahmin etmeyi dene."
+  },
+  {
+   "baslik": "Eski yöntemleri araştır",
+   "aciklama": "Bugün eski denizcilerin veya kervancıların yıldızla yön bulma yöntemini kısaca araştır."
+  }
+ ],
+ "bugununAdimi": "Bugün bir yolculukta, haritaya bakmadan önce yönünü tahmin etmeyi dene.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=16"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/16/16"
+  }
+ ]
+}

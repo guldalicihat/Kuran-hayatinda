@@ -1,0 +1,110 @@
+{
+ "sure": 16,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "İnsanı bir damla sudan yarattı; buna rağmen o, apaçık bir tartışmacıdır.",
+ "mealNotu": "'Hasîm' kökü (خ ص م) çekişme, tartışma anlamındadır; 'mübîn' kökü (ب ي ن) açık, net olmayı ifade eder. Ayet, zayıf bir damla sudan yaratılan insanın buna rağmen açıkça itiraz ve tartışma yeteneği kazanmasındaki tezada dikkat çeker.",
+ "kokler": [
+  {
+   "kelime": "خَلَقَ",
+   "okunus": "haleka",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yarattı"
+  },
+  {
+   "kelime": "ٱلْإِنسَٰنَ",
+   "okunus": "el'insâne",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanı"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den (edat)",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "نُّطْفَةٍ",
+   "okunus": "nütfetin",
+   "kok": "نطف",
+   "kokAnlam": "damla, sızıntı",
+   "karsilik": "bir damla su"
+  },
+  {
+   "kelime": "فَإِذَا",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "bir de bakarsın ki (sürpriz)",
+   "karsilik": "bir de bakarsın ki"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "o (zamir)",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "خَصِيمٌ",
+   "okunus": "hasîmün",
+   "kok": "خصم",
+   "kokAnlam": "çekişme, tartışma, düşmanlık",
+   "karsilik": "bir tartışmacı"
+  },
+  {
+   "kelime": "مُّبِينٌ",
+   "okunus": "mübînün",
+   "kok": "بين",
+   "kokAnlam": "açıklık, netlik",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet göklerin ve yerin hak ile yaratıldığını anlatmıştı; bu ayet aynı temayı insanın kendi yaratılışına indirger. 'Nutfe' kökü (ن ط ف) damlamak, sızmak anlamındadır ve insanın başlangıçtaki fiziksel zayıflığını vurgular.",
+  "Ayetin vurgusu bir tezattır: böylesine küçük ve zayıf bir başlangıçtan yaratılan insan, kısa süre sonra açıkça tartışan, itiraz eden bir varlığa dönüşür. Klasik tefsir bunu, insanın Rabbine karşı bile delil getirmeye kalkışmasına bir işaret olarak açıklar; ancak ayetin lafzı genel olarak insan tabiatındaki bu çelişkiyi tasvir eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:77",
+   "meal": "İnsan, kendisini bir damla sudan yarattığımızı görmedi mi? Bir de bakarsın ki o, apaçık bir tartışmacıdır.",
+   "baglanti": "Yâsîn suresindeki bu ayet 16:4 ile neredeyse kelimesi kelimesine aynıdır; orada bu ifade, insanın yeniden yaratılışı inkâr etmesine karşı bir delil olarak kullanılır."
+  },
+  {
+   "ref": "96:2",
+   "meal": "İnsanı bir alak'tan (embriyodan) yarattı.",
+   "baglanti": "Alak suresindeki bu ayet, insanın yaratılış aşamalarından farklı bir evreyi (alak) anlatarak 16:4'teki 'nutfe' aşamasını tamamlayan bir bilgi sunar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insanın zayıf bir damla sudan yaratılmasına rağmen güçlü bir tartışma yeteneği kazanmasıdır.",
+  "Bugüne taşınabilecek ders, kişinin kendi aczini ve başlangıcını unutmadan, sahip olduğu akıl ve konuşma gücünü doğru ve alçakgönüllü kullanmasıdır; tartışma yeteneğini haklı bir itiraz için değil, kibirli bir inatlaşma için kullanmaktan sakınmalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Aczini hatırla",
+   "aciklama": "Bugün bir tartışmaya girmeden önce, kendi başlangıcının ne kadar küçük ve zayıf olduğunu bir an düşün."
+  },
+  {
+   "baslik": "İtirazını ölç",
+   "aciklama": "Bugün bir konuda haklı olduğunu düşündüğünde, bunu kibirle değil sakin bir dille ifade etmeye çalış."
+  },
+  {
+   "baslik": "Yaratılış aşamalarını öğren",
+   "aciklama": "Bugün insanın nutfeden başlayan yaratılış aşamalarını anlatan birkaç ayeti oku."
+  }
+ ],
+ "bugununAdimi": "Bugün bir tartışmaya girmeden önce, kendi aczini hatırlayıp sakin bir üslup seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/16/4"
+  }
+ ]
+}

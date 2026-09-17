@@ -1,0 +1,117 @@
+{
+ "sure": 16,
+ "ayet": 24,
+ "durum": "taslak",
+ "meal": "Onlara 'Rabbiniz ne indirdi?' denildiğinde, 'Öncekilerin masalları' dediler.",
+ "mealNotu": "'Esâtîr' kökü (سطر) satır satır yazılmış, düzmece eski hikâyeleri anlatır; burada müşriklerin vahyi küçümseyen sözü aktarılır, bir yargı ifadesi değildir.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "zaman edatı",
+   "karsilik": "ve ...dığında"
+  },
+  {
+   "kelime": "قِيلَ",
+   "okunus": "kîle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "denildi"
+  },
+  {
+   "kelime": "لَهُم",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "مَّاذَآ",
+   "okunus": "mâzâ",
+   "kok": "—",
+   "kokAnlam": "ne (soru)",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "أَنزَلَ",
+   "okunus": "enzele",
+   "kok": "نزل",
+   "kokAnlam": "indirme, vahiy",
+   "karsilik": "indirdi"
+  },
+  {
+   "kelime": "رَبُّكُمْ",
+   "okunus": "rabbüküm",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, sahiplik; Rab",
+   "karsilik": "Rabbiniz"
+  },
+  {
+   "kelime": "قَالُوٓا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "أَسَٰطِيرُ",
+   "okunus": "esâtîru",
+   "kok": "سطر",
+   "kokAnlam": "satır satır yazılmış eski hikâyeler",
+   "karsilik": "masalları"
+  },
+  {
+   "kelime": "ٱلْأَوَّلِينَ",
+   "okunus": "el'evvelîne",
+   "kok": "أول",
+   "kokAnlam": "öncelik, ilk olma",
+   "karsilik": "öncekilerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetlerde büyüklenen, inkârcı kalplerden bahsedildikten sonra bu ayet onların somut bir tepkisini aktarır: kendilerine vahyin içeriği sorulduğunda, ciddiye almadan 'eskilerin masalları' diyerek geçiştirirler. Bu, vahyi araştırmadan reddetme tavrının bir örneğidir.",
+  "Klasik tefsir bu sözü, Mekke müşriklerinin Kur'an'a karşı sık tekrarladıkları bir itiraz olarak açıklar; aynı ifade Kur'an'da başka yerlerde de geçer, bu da onun yaygın bir inkâr kalıbı olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:5",
+   "meal": "Dediler ki: (Bu,) onun yazdırdığı öncekilerin masallarıdır; sabah akşam ona okunmaktadır.",
+   "baglanti": "Aynı 'esâtîrul evvelîn' ifadesini kullanarak müşriklerin Kur'an'a karşı tekrarladığı aynı itirazı gösterir."
+  },
+  {
+   "ref": "6:25",
+   "meal": "...İnkâr edenler geldiklerinde seninle tartışırlar ve 'Bu, öncekilerin masallarından başka bir şey değildir' derler.",
+   "baglanti": "Aynı itirazın başka bir surede de tekrarlandığını göstererek bunun yaygın, kalıplaşmış bir inkâr sözü olduğunu doğrular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, müşriklerin vahyi ciddiye almadan geçiştirmesidir.",
+  "Buradan çıkan ders, yeni ya da anlaşılması güç bir gerçeği araştırmadan 'eski, önemsiz, zaten bilinen' diyerek hemen reddetmemek; önce anlamaya çalışmaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Peşin hükümden kaçın",
+   "aciklama": "Bugün bir fikri, hemen 'zaten biliyorum, önemli değil' demeden önce gerçekten dinle."
+  },
+  {
+   "baslik": "Kaynağa in",
+   "aciklama": "Bugün duyduğun bir bilgiyi kabul etmeden ya da reddetmeden önce kaynağına bak."
+  },
+  {
+   "baslik": "Bir ayeti araştır",
+   "aciklama": "Bugün Nahl sûresinin bu bölümünü meal ve kısa bir açıklamayla oku, geçiştirmeden üzerinde düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün karşılaştığın bir fikri hemen reddetmeden önce, onu anlamak için birkaç dakika ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=16&verse=24"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/16/24"
+  }
+ ]
+}
