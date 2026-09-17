@@ -1,0 +1,103 @@
+{
+ "sure": 12,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Andolsun, Yûsuf ve kardeşlerinde soranlar için ayetler/ibretler vardır.",
+ "mealNotu": "'Âyât' kökü (أيي) burada 'işaret, ibret' anlamındadır; 'sâilîn' kökü (سأل) soru sormayı, merakla araştırmayı ifade eder. Meal, kelimelere sadık kalınarak verildi.",
+ "kokler": [
+  {
+   "kelime": "لَّقَدْ",
+   "okunus": "lekad",
+   "kok": "—",
+   "kokAnlam": "kesinlik edatı, 'andolsun'",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "vardır"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat, 'de'",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "يُوسُفَ",
+   "okunus": "yûsüfe",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "Yûsuf"
+  },
+  {
+   "kelime": "وَإِخْوَتِهِۦٓ",
+   "okunus": "ve ihvetihî",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "ve kardeşlerinde"
+  },
+  {
+   "kelime": "ءَايَٰتٌ",
+   "okunus": "âyâtün",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet, ibret",
+   "karsilik": "ayetler/ibretler"
+  },
+  {
+   "kelime": "لِّلسَّآئِلِينَ",
+   "okunus": "lilssâilîne",
+   "kok": "سأل",
+   "kokAnlam": "soru sorma, isteme",
+   "karsilik": "soranlar için"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette Yûsuf'un seçileceği ve ona verilecek nimet anlatılmıştı; bu ayet bir ara cümle gibi, Yûsuf ve kardeşlerinin kıssasında 'soranlar için' yani araştıranlar, merak edip düşünenler için ibretler bulunduğunu bildirir. Böylece kıssanın sadece bir olaylar dizisi değil, düşünmeye açık bir 'işaret' olduğu vurgulanır.",
+  "Klasik tefsir 'sâilîn' ifadesini, bu kıssayı merak edip soran, ondan ders çıkarmaya çalışan kimseler olarak açıklar. Ayet, dinleyiciyi kıssanın devamına hazırlarken, ondan sadece bir hikâye değil bir ibret beklemesi gerektiğini de hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "12:111",
+   "meal": "Andolsun, onların kıssalarında akıl sahipleri için bir ibret vardır...",
+   "baglanti": "Surenin son ayeti, 12:7'deki 'ayetler/ibretler vardır' vurgusunu tekrarlayarak kıssanın baştan sona bir ibret taşıdığını teyit eder; bu ikisi kıssayı bir çerçeve gibi sarar."
+  },
+  {
+   "ref": "3:13",
+   "meal": "Karşı karşıya gelen iki topluluk sizin için bir ibret olmuştur... Şüphesiz bunda basiret sahipleri için gerçek bir ibret vardır.",
+   "baglanti": "Âl-i İmrân suresindeki bu ayet de yaşanmış bir olayı 'basiret sahipleri için ibret' olarak sunar; 12:7'deki 'soranlar için ayetler' ifadesiyle aynı düşünme çağrısını taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Yûsuf ve kardeşlerinin kıssasının ibret dolu olduğunun bildirilmesidir; bu, henüz anlatılmamış bir kıssaya okuyucuyu hazırlayan bir giriş cümlesidir.",
+  "Buradan çıkan ders, bir olayı sadece 'ne oldu' diye değil, 'bundan ne öğrenebilirim' diye okumaktır. Bugün karşılaştığın bir haber, hikâye veya olayı dinlerken, ondan çıkarabileceğin bir dersi de kendine sorman, bu ayetteki 'soran' tutumuna benzer."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir olaydan ders çıkar",
+   "aciklama": "Bugün duyduğun bir haberi veya hikâyeyi dinlerken, ondan çıkarabileceğin bir dersi kendine sor."
+  },
+  {
+   "baslik": "Merakını canlı tut",
+   "aciklama": "Bir konuda yüzeysel geçmek yerine, 'neden böyle oldu' diye bir adım daha sor."
+  },
+  {
+   "baslik": "Kıssayı takip et",
+   "aciklama": "Yûsuf kıssasını okumaya bugün devam ederek, her sahnede bir ibret ara."
+  }
+ ],
+ "bugununAdimi": "Bugün duyduğun bir haberi veya hikâyeyi dinlerken, ondan çıkarabileceğin bir dersi kendine sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/12/7"
+  }
+ ]
+}

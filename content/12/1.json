@@ -1,0 +1,89 @@
+{
+ "sure": 12,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Elif Lâm Râ. Bunlar, apaçık Kitabın ayetleridir.",
+ "mealNotu": "'Elif Lâm Râ' hurûf-ı mukattaadır, anlamı kesin bilinmez, olduğu gibi bırakıldı. 'Mübîn' kökü (بين) açıklığı, kendini ve gerçeği açıkça gösteren anlamını taşır; 'apaçık' diye çevrildi.",
+ "kokler": [
+  {
+   "kelime": "الٓر",
+   "okunus": "elif lâm râ",
+   "kok": "—",
+   "kokAnlam": "hurûf-ı mukattaa, anlamı kesin bilinmez",
+   "karsilik": "Elif Lâm Râ"
+  },
+  {
+   "kelime": "تِلْكَ",
+   "okunus": "tilke",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri, 'şu, bunlar'",
+   "karsilik": "bunlar"
+  },
+  {
+   "kelime": "ءَايَٰتُ",
+   "okunus": "âyâtü",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet; Kur'an ayeti",
+   "karsilik": "ayetleridir"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı kitap",
+   "karsilik": "Kitabın"
+  },
+  {
+   "kelime": "ٱلْمُبِينِ",
+   "okunus": "elmübîni",
+   "kok": "بين",
+   "kokAnlam": "açıklık; açıkça ortaya koyma",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Yûsuf suresi, aynı çoğu sure gibi, harflerden oluşan 'Elif Lâm Râ' ile açılır; ardından bu Kitabın ayetlerinin 'mübîn' yani apaçık olduğu bildirilir. 'Mübîn' kökü hem kendisinin açık olduğunu hem de gerçeği açıkça ortaya koyduğunu anlatır.",
+  "Bu giriş cümlesi, surenin geri kalanında anlatılacak uzun kıssanın bir Kitap ayeti, yani vahiy olduğunu baştan vurgular. Klasik tefsir, hurûf-ı mukattaanın anlamını kesin biçimde belirlemez; bu harflerin Kur'an'ın mucizevi diline ve Arapların bildiği harflerden örülü olmasına işaret ettiğini söyler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:1",
+   "meal": "Elif Lâm Râ. Bunlar, Kitabın ve apaçık bir Kur'an'ın ayetleridir.",
+   "baglanti": "Hicr suresi de aynı harflerle açılır ve 'Kitabın ayetleri' ifadesini neredeyse aynı şekilde kullanır; bu, Kur'an'daki giriş üslubunun ortak bir kalıbı olduğunu gösterir."
+  },
+  {
+   "ref": "26:2",
+   "meal": "Bunlar apaçık Kitabın ayetleridir.",
+   "baglanti": "Şuarâ suresinin girişi, 12:1'deki 'tilke âyâtül kitâbil mübîn' ifadesiyle birebir aynıdır; bu ortak açılış cümlesi birden çok surede Kitabın açıklığına dikkat çeker."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, okunacak surenin bir vahiy kitabı olduğunun ve açık/anlaşılır nitelikte olduğunun bildirilmesidir; bu itikadi bir girişten ibarettir.",
+  "Buradan çıkan ders, okuduğun bir metnin 'açık' olması için önce onu anlamaya niyetle, dikkatle yaklaşman gerektiğidir. Bugün bir şeyi okurken acele etmeden, anlamadan geçmeden okuma alışkanlığı kazanmak, bu ayetin hatırlattığı açıklık ilkesine uygun bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Dikkatle oku",
+   "aciklama": "Bugün Yûsuf suresini veya bir bölümünü, anlamını düşünerek, acele etmeden oku."
+  },
+  {
+   "baslik": "Anlaşılır konuş",
+   "aciklama": "Birine bir konuyu anlatırken karmaşık değil, açık ve net bir dil kullan."
+  },
+  {
+   "baslik": "Niyetle başla",
+   "aciklama": "Bir okuma veya öğrenme faaliyetine başlarken önce amacını kendine söyle."
+  }
+ ],
+ "bugununAdimi": "Bugün Yûsuf suresinden bir bölümü, anlamını düşünerek ve acele etmeden oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/12/1"
+  }
+ ]
+}

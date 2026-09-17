@@ -1,0 +1,229 @@
+{
+ "sure": 12,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "İşte böylece Rabbin seni seçecek, sana sözlerin/olayların yorumundan öğretecek ve daha önce ataların İbrahim ve İshak'a tamamladığı gibi nimetini sana ve Ya'kub soyuna tamamlayacaktır. Şüphesiz Rabbin hakkıyla bilendir, hüküm ve hikmet sahibidir.",
+ "mealNotu": "'Te'vîlü'l-ehâdîs' (تأويل الأحاديث) ifadesi kelime kelime 'sözlerin/olayların yorumu' anlamına gelir; Yûsuf'un ileride kazanacağı rüya yorumlama ve olayları kavrama yeteneğine işaret ettiği için 'sözlerin/olayların yorumu' şeklinde bırakıldı. 'Âl-i Ya'kûb' (Ya'kub ailesi/soyu) ifadesi 'Ya'kub soyu' olarak çevrildi.",
+ "kokler": [
+  {
+   "kelime": "وَكَذَٰلِكَ",
+   "okunus": "ve kezâlike",
+   "kok": "—",
+   "kokAnlam": "işaret, 'işte böylece'",
+   "karsilik": "işte böylece"
+  },
+  {
+   "kelime": "يَجْتَبِيكَ",
+   "okunus": "yectebîke",
+   "kok": "جبي",
+   "kokAnlam": "seçme, toplayıp seçme",
+   "karsilik": "seni seçecek"
+  },
+  {
+   "kelime": "رَبَّكَ",
+   "okunus": "rabbüke",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, sahiplik, Rab",
+   "karsilik": "Rabbin"
+  },
+  {
+   "kelime": "وَيُعَلِّمُكَ",
+   "okunus": "ve yüallimüke",
+   "kok": "علم",
+   "kokAnlam": "öğretme, bilgi verme",
+   "karsilik": "ve sana öğretecek"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat, 'den'",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "تَأْوِيلِ",
+   "okunus": "te'vîli",
+   "kok": "أول",
+   "kokAnlam": "yorumlama, aslına döndürme",
+   "karsilik": "yorumundan"
+  },
+  {
+   "kelime": "ٱلْأَحَادِيثِ",
+   "okunus": "el'ehâdîsi",
+   "kok": "حدث",
+   "kokAnlam": "söz, olay, haber",
+   "karsilik": "sözlerin/olayların"
+  },
+  {
+   "kelime": "وَيُتِمُّ",
+   "okunus": "ve yütimmü",
+   "kok": "تمم",
+   "kokAnlam": "tamamlama, eksiksiz kılma",
+   "karsilik": "ve tamamlayacaktır"
+  },
+  {
+   "kelime": "نِعْمَتَهُۥ",
+   "okunus": "ni'metehû",
+   "kok": "نعم",
+   "kokAnlam": "nimet, iyilik",
+   "karsilik": "nimetini"
+  },
+  {
+   "kelime": "عَلَيْكَ",
+   "okunus": "aleyke",
+   "kok": "—",
+   "kokAnlam": "edat, 'sana'",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "وَعَلَىٰٓ",
+   "okunus": "ve alâ",
+   "kok": "—",
+   "kokAnlam": "edat, 've -e'",
+   "karsilik": "ve -e"
+  },
+  {
+   "kelime": "ءَالِ",
+   "okunus": "âli",
+   "kok": "أول",
+   "kokAnlam": "aile, soy, mensuplar",
+   "karsilik": "soyuna"
+  },
+  {
+   "kelime": "يَعْقُوبَ",
+   "okunus": "ya'kûbe",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "Ya'kub"
+  },
+  {
+   "kelime": "كَمَآ",
+   "okunus": "kemâ",
+   "kok": "—",
+   "kokAnlam": "bağlaç, 'gibi'",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "أَتَمَّهَا",
+   "okunus": "etemmehâ",
+   "kok": "تمم",
+   "kokAnlam": "tamamlama, eksiksiz kılma",
+   "karsilik": "onu tamamladığı"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "edat, '-e'",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "أَبَوَيْكَ",
+   "okunus": "ebeveyke",
+   "kok": "أبو",
+   "kokAnlam": "baba, ata; iki ata",
+   "karsilik": "ataların"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat, 'den'",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلُ",
+   "okunus": "kablü",
+   "kok": "قبل",
+   "kokAnlam": "önce, öncesi",
+   "karsilik": "daha önce"
+  },
+  {
+   "kelime": "إِبْرَٰهِيمَ",
+   "okunus": "ibrâhîme",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İbrahim"
+  },
+  {
+   "kelime": "وَإِسْحَٰقَ",
+   "okunus": "ve ishâka",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "ve İshak"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid edatı, 'şüphesiz'",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "رَبَّكَ",
+   "okunus": "rabbeke",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, sahiplik, Rab",
+   "karsilik": "Rabbin"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilme, kavrama",
+   "karsilik": "hakkıyla bilendir"
+  },
+  {
+   "kelime": "حَكِيمٌ",
+   "okunus": "hakîmün",
+   "kok": "حكم",
+   "kokAnlam": "hüküm verme, hikmet",
+   "karsilik": "hüküm ve hikmet sahibidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette Ya'kub oğluna rüyayı gizli tutmasını öğütlemişti; bu ayette o öğüdün gerekçesi Allah'ın ağzından değil, surenin anlatımıyla verilir: Rabbin Yûsuf'u seçecek, ona 'te'vîlü'l-ehâdîs' (sözlerin/olayların yorumu) öğretecek ve İbrahim ile İshak'a verdiği nimeti tamamladığı gibi ona ve Ya'kub soyuna da nimetini tamamlayacaktır.",
+  "Bu ayet, kıssanın sonunda gerçekleşecek olayları -Yûsuf'un yüksek bir makama gelmesi ve rüya/olayları yorumlama yeteneği kazanması- baştan haber verir. Klasik tefsir bunu, Allah'ın seçtiği kulları için önceden bir plan ve nimet hazırladığının, İbrahim'den Ya'kub soyuna uzanan bir hattın parçası olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "12:101",
+   "meal": "Rabbim! Bana mülkten (bir pay) verdin ve sözlerin yorumundan öğrettin... Beni müslüman olarak öldür ve beni salihler arasına kat.",
+   "baglanti": "Surenin sonunda Yûsuf, kendisine verilen 'te'vîlü'l-ehâdîs' (sözlerin/olayların yorumu) nimetini Rabbine şükranla anar; bu, 12:6'daki vaadin gerçekleştiğini gösteren aynı ifadeli bir tamamlayıcı ayettir."
+  },
+  {
+   "ref": "6:84",
+   "meal": "Ona İshak'ı ve Ya'kub'u bağışladık, hepsine hidayet verdik... zürriyetinden Dâvud'u, Süleyman'ı, Eyyûb'u, Yûsuf'u, Musa'yı ve Harun'u da (hidayete erdirdik)... İşte iyilik yapanları böyle mükâfatlandırırız.",
+   "baglanti": "En'âm suresindeki bu ayet, İbrahim'den başlayıp İshak, Ya'kub ve Yûsuf'a uzanan peygamberlik ve nimet zincirini doğrular; 12:6'da anılan 'ataların İbrahim ve İshak'a tamamlanan nimet' ifadesiyle aynı soy hattına işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah'ın Yûsuf'u peygamberlik ve özel bir bilgi için seçeceğinin, atalarına verdiği nimeti onun soyunda da sürdüreceğinin bildirilmesidir; bu, peygamberler tarihine özgü bir vaaddir.",
+  "Buradan çıkan genel ders, bir nimetin veya yeteneğin zaman içinde, sabır ve süreç ile 'tamamlanabileceğidir'. Bugün henüz eksik gördüğün bir yeteneğini geliştirmek için küçük bir adım atman, bu ayetteki 'nimetin tamamlanması' fikrine uygun bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir yeteneğini geliştir",
+   "aciklama": "Bugün sende olan ama henüz olgunlaşmamış bir yeteneğe on-yirmi dakika ayır."
+  },
+  {
+   "baslik": "Süreçte sabret",
+   "aciklama": "Hemen sonuç alamadığın bir çabanı bırakmak yerine, bugün de küçük bir adım daha at."
+  },
+  {
+   "baslik": "Nimeti hatırla",
+   "aciklama": "Ailenden veya geçmişinden sana miras kalan iyi bir özelliği düşün ve bunun için şükret."
+  }
+ ],
+ "bugununAdimi": "Bugün sende olan ama henüz olgunlaşmamış bir yeteneğe yirmi dakika ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/12/6"
+  }
+ ]
+}

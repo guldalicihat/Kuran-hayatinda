@@ -1,0 +1,96 @@
+{
+ "sure": 12,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Şüphesiz biz onu, aklınızı kullanasınız diye, Arapça bir Kur'an olarak indirdik.",
+ "mealNotu": "'Enzelnâ' kökü (نزل) 'indirme' anlamındadır. 'Ta'kılûn' kökü (عقل) akletmeyi, aklı kullanarak kavramayı ifade eder; 'aklınızı kullanasınız diye' şeklinde çevrildi.",
+ "kokler": [
+  {
+   "kelime": "إِنَّآ",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "te'kid edatı, 'şüphesiz biz'",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "أَنزَلْنَٰهُ",
+   "okunus": "enzelnâhü",
+   "kok": "نزل",
+   "kokAnlam": "indirme, yukarıdan aşağıya gönderme",
+   "karsilik": "onu indirdik"
+  },
+  {
+   "kelime": "قُرْءَٰنًا",
+   "okunus": "kur'ânen",
+   "kok": "قرأ",
+   "kokAnlam": "okuma; okunan kitap, Kur'an",
+   "karsilik": "bir Kur'an olarak"
+  },
+  {
+   "kelime": "عَرَبِيًّا",
+   "okunus": "arabiyyen",
+   "kok": "عرب",
+   "kokAnlam": "Arap, Arapça",
+   "karsilik": "Arapça"
+  },
+  {
+   "kelime": "لَّعَلَّكُمْ",
+   "okunus": "lealleküm",
+   "kok": "—",
+   "kokAnlam": "umulur ki, -sın diye",
+   "karsilik": "-siniz diye"
+  },
+  {
+   "kelime": "تَعْقِلُونَ",
+   "okunus": "ta'kılûne",
+   "kok": "عقل",
+   "kokAnlam": "akletme, aklı kullanarak kavrama",
+   "karsilik": "aklınızı kullanasınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette Kitabın apaçık olduğu bildirilmişti; bu ayet o açıklığın bir sebebini verir: Kur'an, Araplara kendi dilleriyle, Arapça olarak indirilmiştir. Böylece muhatapları onu doğrudan anlayabilecek, akıllarını kullanarak üzerinde düşünebileceklerdir.",
+  "'Ta'kılûn' kökü yalnız bilgiyi almayı değil, onu akılla işleyip kavramayı anlatır. Klasik tefsir bu ayeti, Kur'an'ın indiği toplumun diliyle gelmesinin, anlaşılmayı ve üzerinde düşünülmeyi kolaylaştırmak için olduğu şeklinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "43:3",
+   "meal": "Şüphesiz biz onu, aklınızı kullanasınız diye, Arapça bir Kur'an kıldık.",
+   "baglanti": "Zuhruf suresindeki bu ayet, 12:2 ile neredeyse birebir aynı ifadeyi taşır; Kur'an'ın Arapça oluşu ile akletme çağrısı arasındaki bağı aynı kalıpla tekrar eder."
+  },
+  {
+   "ref": "39:28",
+   "meal": "Sakınsınlar diye hiçbir eğriliği olmayan Arapça bir Kur'an (indirdik).",
+   "baglanti": "Zümer suresi de Kur'an'ın Arapça ve dosdoğru (eğriliksiz) olmasını, insanların sakınmasına vesile olarak sunar; bu, 12:2'deki 'akletme' çağrısını tamamlayan bir vurgudur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın vahiy diliyle ilgilidir; Arapça indirilmesi, ilk muhataplarının onu anlamasını sağlamak içindir.",
+  "Buradan çıkan ders, bir mesajın gerçekten fayda vermesi için anlaşılır olması ve muhatabın akıl yürüterek onunla ilişki kurmasıdır. Bugün okuduğun bir ayeti veya meali sadece dinlemekle kalmayıp, üzerinde biraz düşünerek 'bu bana ne anlatıyor' diye sormak, bu ayetin işaret ettiği akletme çağrısına bir cevaptır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ayeti düşünerek oku",
+   "aciklama": "Bugün okuduğun bir ayetin altına, kendi cümlelerinle ne anladığını yaz."
+  },
+  {
+   "baslik": "Anlamadan geçme",
+   "aciklama": "Bir metinde anlamadığın bir kelime veya ifadeyle karşılaşınca anlamını araştır."
+  },
+  {
+   "baslik": "Aklınla süz",
+   "aciklama": "Duyduğun bir bilgiyi hemen kabul etmeden önce, mantıklı mı diye bir an düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün okuduğun bir ayetin altına, kendi cümlelerinle ne anladığını yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=12&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/12/2"
+  }
+ ]
+}
