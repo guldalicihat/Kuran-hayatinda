@@ -46,8 +46,8 @@ jobs:
         run: |
           git config user.name "kuran-hayatinda-bot"
           git config user.email "actions@github.com"
-          if ! git diff --quiet -- social/posted_log.json; then
-            git add social/posted_log.json
+          git add social/posted_log.json
+          if ! git diff --cached --quiet -- social/posted_log.json; then
             git commit -m "Sosyal medya: X paylaşım kaydı güncellendi [otomatik]"
             git push
           fi
