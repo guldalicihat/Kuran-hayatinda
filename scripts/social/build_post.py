@@ -49,33 +49,21 @@ X_LINK_WEIGHT = 23  # X (t.co) her linki uzunluğundan bağımsız 23 karakter s
 
 
 def build_x_short(post):
-    """X'in standart (ücretsiz) hesap sınırı 280 karaktere sığan kısa format.
-    Meal, sabit kısımlardan (köprü+ref+link+hashtag) arta kalan bütçeye göre kısaltılır."""
+    """X formatı: meal ASLA gösterilmez ve ASLA kırpılmaz (proje kuralı).
+    X'in standart hesabı 280 karakterle sınırlı olduğundan, ayet meali ve
+    'bugün ne yapmalısın' bölümü yalnız sitede, tam haliyle okunur; X'te
+    yalnızca kart (soru) + köprü cümlesi + doğrudan siteye link paylaşılır."""
     s, a = post['sure'], post['ayet']
-    ch = load_chapter(s)
     content = load_content(s, a)
-    ref = f"{ch['ad']} {a}"
+    if not content:
+        return None
     link = SITE.format(s=s, a=a)
     hashtag = "#Kuran #KuranHayatında"
     koprusor = post['koprusor']
-    if len(koprusor) > 40:
+    if len(koprusor) > 60:
         koprusor = "Peki Kur'an bu konuda ne diyor?"
 
-    if not content:
-        return None
-    meal = content['meal']
-
-    def gövde_ile(m):
-        return f"{koprusor}\n\n\"{m}\"\n({ref})\n\n{link}\n\n{hashtag}"
-
-    sabit_uzunluk = len(gövde_ile('')) - len(link) + X_LINK_WEIGHT
-    butce = X_LIMIT - sabit_uzunluk
-
-    if len(meal) > butce:
-        kirpik = meal[:max(butce - 1, 0)].rsplit(' ', 1)[0] + '…'
-        meal = kirpik
-
-    return gövde_ile(meal)
+    return f"{koprusor}\n\nCevap ve bugünün adımı için: {link}\n\n{hashtag}"
 
 
 def build(post):
