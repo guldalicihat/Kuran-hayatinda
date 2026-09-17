@@ -1,0 +1,110 @@
+{
+ "sure": 15,
+ "ayet": 74,
+ "durum": "taslak",
+ "meal": "Böylece (şehrin) üstünü altına getirdik ve üzerlerine pişmiş balçıktan taşlar yağdırdık.",
+ "mealNotu": "'Âliye/sâfile' (علو/سفل) kökleri yüksek ve alçağı, 'siccîl' (سجل) kökü ise sertleşmiş/pişmiş balçık taşını anlatır. Ayet, azabın fiziksel sonucunu sade bir dille bildirir.",
+ "kokler": [
+  {
+   "kelime": "فَجَعَلْنَا",
+   "okunus": "fecealnâ",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "böylece kıldık (getirdik)"
+  },
+  {
+   "kelime": "عَٰلِيَهَا",
+   "okunus": "âliyehâ",
+   "kok": "علو",
+   "kokAnlam": "yükseklik, üst kısım",
+   "karsilik": "onun üstünü"
+  },
+  {
+   "kelime": "سَافِلَهَا",
+   "okunus": "sâfilehâ",
+   "kok": "سفل",
+   "kokAnlam": "alçaklık, alt kısım",
+   "karsilik": "altına"
+  },
+  {
+   "kelime": "وَأَمْطَرْنَا",
+   "okunus": "ve emtarnâ",
+   "kok": "مطر",
+   "kokAnlam": "yağdırma",
+   "karsilik": "ve yağdırdık"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "edat, 'üzerlerine'",
+   "karsilik": "üzerlerine"
+  },
+  {
+   "kelime": "حِجَارَةً",
+   "okunus": "hicâraten",
+   "kok": "حجر",
+   "kokAnlam": "taş",
+   "karsilik": "taşlar"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat, '-den'",
+   "karsilik": "-dan"
+  },
+  {
+   "kelime": "سِجِّيلٍ",
+   "okunus": "siccîlin",
+   "kok": "سجل",
+   "kokAnlam": "sertleşmiş/pişmiş balçık",
+   "karsilik": "pişmiş balçıktan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette azabın gelişi (sayha) bildirilmişti; bu ayet, o azabın fiziksel sonucunu anlatır: şehrin altı üstüne getirilir ve üzerlerine özel bir taş yağmuru gönderilir. Ayet, olayı sade ve doğrudan bir dille aktarır.",
+  "Klasik tefsir bu iki azap türünün (alt üst olma ve taş yağması) birlikte, kavmin işledikleriyle orantılı, o güne kadar görülmemiş şiddette bir yıkım olduğunu belirtir. 'Siccîl' kelimesi Kur'an'da nadiren geçen, özel bir taş türünü ifade eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:82",
+   "meal": "Emrimiz geldiğinde, (o şehrin) üstünü altına getirdik ve üzerine, istif edilmiş pişmiş balçıktan taşlar yağdırdık.",
+   "baglanti": "Hûd suresi aynı olayı hemen hemen birebir aynı kelimelerle tekrar eder; bu, kıssanın iki surede tutarlı biçimde anlatıldığını gösterir."
+  },
+  {
+   "ref": "105:4",
+   "meal": "Onlara pişmiş balçıktan taşlar atıyorlardı.",
+   "baglanti": "Fîl suresinde, çok farklı bir olayda (Ebrehe'nin ordusu) yine aynı nadir kelime (سجيل) kullanılır; bu, ilahi cezanın farklı zamanlarda benzer bir araçla gerçekleştiğine işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kavme gelen azabın somut sonucunu bildirmesidir; bu, tarihî bir topluluğun akıbetine dair, ibret için aktarılan bir bilgidir.",
+  "Buradan çıkarılabilecek genel ders, toplumsal sınırları aşan bir gidişatın sonunda bedelsiz kalmadığıdır. Kişi, bu kıssayı bir toplumun ahlaki çöküşünün sonuçlarına dair tarihî bir uyarı olarak okuyabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sınırları hatırla",
+   "aciklama": "Bugün toplumsal veya kişisel sınırları aşan bir davranıştan uzak dur."
+  },
+  {
+   "baslik": "Bedelini düşün",
+   "aciklama": "Bugün bir kararının uzun vadeli sonuçlarını göz önünde bulundur."
+  },
+  {
+   "baslik": "Tarihten ibret al",
+   "aciklama": "Bugün bu kıssayı bir tarih dersi olarak, yargılamadan, ibretle oku."
+  }
+ ],
+ "bugununAdimi": "Bugün sonuçlarını düşünmeden aldığın bir kararı gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=74"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/74"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "sure": 15,
+ "ayet": 66,
+ "durum": "taslak",
+ "meal": "Ona şu işi bildirdik: Sabaha çıkarlarken bunların kökü kesilmiş olacaktır.",
+ "mealNotu": "'Kadaynâ' (قضي) kökü kesin hükme bağlamayı, 'dâbir' (دبر) kökü kökü/sonu, 'musbihîn' (صبح) kökü ise sabaha erişmeyi anlatır. Ayet, azabın zamanını (sabah vakti) önceden bildirir.",
+ "kokler": [
+  {
+   "kelime": "وَقَضَيْنَآ",
+   "okunus": "ve kadaynâ",
+   "kok": "قضي",
+   "kokAnlam": "kesin hükme bağlama, bildirme",
+   "karsilik": "ve bildirdik"
+  },
+  {
+   "kelime": "إِلَيْهِ",
+   "okunus": "ileyhi",
+   "kok": "—",
+   "kokAnlam": "edat, 'ona'",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri, 'şu'",
+   "karsilik": "şu"
+  },
+  {
+   "kelime": "ٱلْأَمْرَ",
+   "okunus": "el'emra",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir, durum",
+   "karsilik": "işi"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "te'kid, 'ki'",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "دَابِرَ",
+   "okunus": "dâbira",
+   "kok": "دبر",
+   "kokAnlam": "arka, son, kök",
+   "karsilik": "kökü"
+  },
+  {
+   "kelime": "هَٰٓؤُلَآءِ",
+   "okunus": "hâülâi",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri, 'bunlar'",
+   "karsilik": "bunların"
+  },
+  {
+   "kelime": "مَقْطُوعٌ",
+   "okunus": "mektûun",
+   "kok": "قطع",
+   "kokAnlam": "kesilmiş, kesme",
+   "karsilik": "kesilmiş olacak"
+  },
+  {
+   "kelime": "مُّصْبِحِينَ",
+   "okunus": "müsbihîne",
+   "kok": "صبح",
+   "kokAnlam": "sabaha erme",
+   "karsilik": "sabaha çıkarlarken"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette Lût'a kaçış talimatı verilmişti; bu ayet o talimatın arkasındaki kararı, yani kavmin sabah vakti tamamen yok edileceği hükmünü açıklar. 'Dâbir' kelimesi köklü bir bitişi, tam bir sonu anlatır.",
+  "Klasik tefsir bu ayeti, ilahi kararın kesinliğine ve zamanlamasına (sabah vakti) dikkat çeken bir bilgilendirme olarak açıklar. Bu, kıssanın sonundaki azap sahnesine (15:73-74) hazırlık niteliğindedir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "54:38",
+   "meal": "Andolsun, sabah erkenden kalıcı bir azap onları yakaladı.",
+   "baglanti": "Kamer suresi de aynı olayı, aynı kök (صبح: sabah) ile anlatarak azabın sabah vaktinde geldiğini doğrular."
+  },
+  {
+   "ref": "29:34",
+   "meal": "'Biz, yoldan çıkmaları sebebiyle bu şehir halkının üzerine gökten bir azap indireceğiz.'",
+   "baglanti": "Ankebût suresi, aynı kararın (azabın indirilmesi) elçiler tarafından önceden bildirildiğini, bunun kavmin kendi sapkınlıklarının bir sonucu olduğunu aktarır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kavmin tamamen yok edileceğine dair kesin ilahi hükmün bildirilmesidir; bu, tarihî bir topluluğun akıbetine dair bir haberdir.",
+  "Buradan çıkarılabilecek genel ders, önemli kararların bir vakti olduğu ve o vakit geldiğinde geri dönüşün mümkün olmadığıdır. Kişi, kendi hayatında da ciddi sonuçlar doğuracak bir eşiğe yaklaşırken bunu ciddiye almayı bu ayetten hatırlayabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zamanlamanın önemini fark et",
+   "aciklama": "Bugün ertelediğin bir kararın bir son tarihi olduğunu unutma."
+  },
+  {
+   "baslik": "Kesin kararlara saygı duy",
+   "aciklama": "Bugün aldığın önemli bir kararı gölgeleyecek tereddütlerden uzak dur."
+  },
+  {
+   "baslik": "Sabahı planla",
+   "aciklama": "Bugün yarın sabah yapman gereken önemli bir işi şimdiden planla."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin ve bir son tarihi olan bir işi bitirmek için harekete geç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=66"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/66"
+  }
+ ]
+}

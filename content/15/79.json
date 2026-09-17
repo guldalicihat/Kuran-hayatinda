@@ -1,0 +1,89 @@
+{
+ "sure": 15,
+ "ayet": 79,
+ "durum": "taslak",
+ "meal": "Bu yüzden onlardan intikam aldık; ikisi de (Lût kavminin şehri ile Eyke) apaçık bir yol[/kayıt] üzerindedir.",
+ "mealNotu": "'İntekamnâ' (نقم) kökü ceza vermeyi, karşılık vermeyi anlatır. 'İmâmim mübîn' ifadesini klasik tefsir hem 'apaçık bir ana yol' hem de 'apaçık bir kayıt/kitap' olarak açıklar; bu belirsizlik köşeli parantezle [Lût kavminin şehri ile Eyke] açıklığa kavuşturulmuştur.",
+ "kokler": [
+  {
+   "kelime": "فَٱنتَقَمْنَا",
+   "okunus": "fentekamnâ",
+   "kok": "نقم",
+   "kokAnlam": "intikam alma, ceza verme",
+   "karsilik": "bu yüzden intikam aldık"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "edat, 'onlardan'",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "وَإِنَّهُمَا",
+   "okunus": "ve innehümâ",
+   "kok": "—",
+   "kokAnlam": "te'kid, 'şüphesiz ikisi'",
+   "karsilik": "ve şüphesiz ikisi"
+  },
+  {
+   "kelime": "لَبِإِمَامٍ",
+   "okunus": "lebiimâmin",
+   "kok": "أمم",
+   "kokAnlam": "önder, kayıt, izlenen ana yol",
+   "karsilik": "elbette apaçık bir yol/kayıt üzerindedir"
+  },
+  {
+   "kelime": "مُّبِينٍ",
+   "okunus": "mübînin",
+   "kok": "بين",
+   "kokAnlam": "açıklık, belirginlik",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette Eyke halkının zalim olduğu bildirilmişti; bu ayet onların da (Lût kavmi gibi) cezalandırıldığını ve her iki topluluğun kalıntılarının hâlâ bilinen, apaçık bir yol veya kayıt üzerinde bulunduğunu bildirir.",
+  "Klasik tefsir 'imâmim mübîn' ifadesini iki şekilde açıklar: bazıları bunu, her iki harabenin de kervan yollarının üzerinde, herkesçe bilinen bir konumda olduğu; bazıları ise olayların ilahi bir kayıtta (Levh-i Mahfuz) açıkça yazılı olduğu şeklinde yorumlar. Ayet, bu iki anlamı da destekleyecek şekilde geneldir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:189",
+   "meal": "Onu (Şuayb'ı) yalanladılar; bunun üzerine gölge gününün azabı onları yakaladı. Gerçekten o, büyük bir günün azabıydı.",
+   "baglanti": "Şuarâ suresi, Eyke halkının aldığı cezanın (gölge günü azabı) somut şeklini anlatarak 15:79'daki 'intikam aldık' ifadesinin karşılığını gösterir."
+  },
+  {
+   "ref": "36:12",
+   "meal": "...Her şeyi apaçık bir kayıtta (imâmim mübîn) sayıp yazdık.",
+   "baglanti": "Yâsîn suresi, aynı ifadeyi (imâmim mübîn) farklı bir bağlamda kullanarak bu kelimenin 'her şeyin kaydedildiği apaçık bir kayıt' anlamına gelebileceğini destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Eyke halkının da cezalandırıldığının ve her iki topluluğun kalıntısının hâlâ bilinir olduğunun bildirilmesidir; bu, tarihî bir hatırlatmadır.",
+  "Buradan çıkarılabilecek genel ders, yapılan haksızlıkların iz bırakmadan kaybolmadığıdır; olaylar bir şekilde kayıt altında kalır. Kişi, davranışlarının bir karşılığı olduğunu unutmamayı bu ayetten hatırlayabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sorumluluğunu hatırla",
+   "aciklama": "Bugün yaptığın bir işin bir karşılığı olacağını bilerek hareket et."
+  },
+  {
+   "baslik": "Kayıt bilinciyle yaşa",
+   "aciklama": "Bugün önemli bir kararını, uzun vadede hesap vereceğini düşünerek al."
+  },
+  {
+   "baslik": "Geçmiş örnekleri incele",
+   "aciklama": "Bugün Şuayb kıssasını okuyarak Eyke halkının akıbetini öğren."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararını, sonuçlarının bir karşılığı olacağını bilerek al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=79"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/79"
+  }
+ ]
+}

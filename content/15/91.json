@@ -1,0 +1,82 @@
+{
+ "sure": 15,
+ "ayet": 91,
+ "durum": "taslak",
+ "meal": "Onlar ki, Kur'an'ı parça parça ettiler.",
+ "mealNotu": "'Idîn' kökü (عضو) organ, uzuv anlamına gelir; burada mecazen bir bütünü kesip parçalara ayırmayı ifade eder. Klasik tefsir bu ifadeyi, Kur'an'a bazı bölümlerini kabul edip bazılarını reddederek veya ona sihir/şiir gibi farklı etiketler yakıştırarak yaklaşanların tutumu olarak açıklar; kesin bir isim vermez.",
+ "kokler": [
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, 'onlar ki'",
+   "karsilik": "onlar ki"
+  },
+  {
+   "kelime": "جَعَلُوا۟",
+   "okunus": "cealû",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "kıldılar"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانَ",
+   "okunus": "elkur'âne",
+   "kok": "قرأ",
+   "kokAnlam": "okuma; Kur'an",
+   "karsilik": "Kur'an'ı"
+  },
+  {
+   "kelime": "عِضِينَ",
+   "okunus": "ıdîne",
+   "kok": "عضو",
+   "kokAnlam": "organ, parça, uzuv",
+   "karsilik": "parça parça"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette anılan 'bölücüler'in kim olduğu bu ayette netleşir: onlar, Kur'an'ı bir bütün olarak değil, parça parça ('ıdîn', kesilmiş organlar gibi) ele alan kimselerdi. Bu, kutsal metne dilediği bölümünü kabul edip dilediğini reddetme veya ona çelişkili etiketler yakıştırma tutumunu anlatır.",
+  "Klasik tefsir bu ifadeyi birkaç farklı biçimde açıklar; bazı yorumlara göre bu, vahyin bir kısmını kabul edip bir kısmını inkâr etmeyi, bazı yorumlara göre ise Kur'an'a sihir, şiir, kehanet gibi çeşitli etiketler yakıştırarak onu değersizleştirmeyi ifade eder. Ayet, kesin bir isim vermeden bu tutumu kınar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:91",
+   "meal": "Onlar Allah'ı hakkıyla takdir edemediler; çünkü 'Allah hiçbir beşere hiçbir şey indirmedi' dediler... Siz onu (Musa'ya indirilen Kitabı) kâğıtlar haline getirip bir kısmını açıklıyor, çoğunu gizliyorsunuz.",
+   "baglanti": "En'âm suresindeki bu ayet, kutsal bir metni parça parça edip bir kısmını gösterip bir kısmını gizleme tutumunu anlatarak 15:91'deki 'parçalama' fiiliyle aynı temayı paylaşır."
+  },
+  {
+   "ref": "2:85",
+   "meal": "Yoksa siz Kitabın bir kısmına inanıp bir kısmını inkâr mı ediyorsunuz? Sizden bunu yapanın cezası, dünya hayatında rezillikten başka bir şey değildir...",
+   "baglanti": "Bakara suresindeki bu ayet de vahyin bir kısmını kabul edip bir kısmını reddetme tutumunu doğrudan eleştirerek, 15:91'de anlatılan 'parçalayıcı' yaklaşımın ciddiyetini pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ı bütünlüğünden koparıp parça parça ele alan, ona farklı etiketler yakıştıran bir topluluğun tutumudur.",
+  "Buradan çıkan ders, bir mesajı ancak bütünlüğü içinde doğru anlaşılabileceğidir. Kişi, Kur'an'ı veya herhangi bir öğüdü okurken işine gelen ayeti alıp bağlamından koparmadan, bütünlüğü içinde anlamaya özen gösterebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bütün olarak oku",
+   "aciklama": "Bugün bir ayeti okurken öncesi ve sonrasıyla birlikte, bağlamından koparmadan anlamaya çalış."
+  },
+  {
+   "baslik": "Etiketlemekten kaçın",
+   "aciklama": "Bugün anlamadığın bir konuyu kolayca yargılayıp etiketlemek yerine önce öğrenmeye çalış."
+  },
+  {
+   "baslik": "Tutarlı ol",
+   "aciklama": "Bugün benimsediğin bir ilkeyi, işine gelmeyen durumda da tutarlı biçimde uygula."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuyu kolayca etiketlemek yerine, bağlamıyla birlikte bütünüyle anlamaya çalış.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=91"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/91"
+  }
+ ]
+}

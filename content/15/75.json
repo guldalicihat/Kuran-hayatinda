@@ -1,0 +1,89 @@
+{
+ "sure": 15,
+ "ayet": 75,
+ "durum": "taslak",
+ "meal": "Şüphesiz bunda, işaretlerden ibret çıkaranlar için ayetler vardır.",
+ "mealNotu": "'Mütevessimîn' (وسم) kökü, bir izden veya işaretten anlam çıkarma, firaset sahibi olma anlamındadır. Ayet, anlatılan kıssanın bir ibret kaynağı olduğunu vurgular.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid, 'şüphesiz'",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat, '-de'",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri, 'bunda'",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "لَءَايَٰتٍ",
+   "okunus": "leâyâtin",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet, delil",
+   "karsilik": "elbette ayetler (işaretler) vardır"
+  },
+  {
+   "kelime": "لِّلْمُتَوَسِّمِينَ",
+   "okunus": "lilmütevessimîne",
+   "kok": "وسم",
+   "kokAnlam": "iz sürme, işaretten anlam çıkarma",
+   "karsilik": "işaretlerden ibret çıkaranlar için"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette azabın fiziksel sonucu anlatılmıştı; bu ayet, olayın anlamına dikkat çeker: burada dikkatli bakabilenler için gerçek işaretler (ayetler) vardır. Anlatı burada bir ibret çağrısına döner.",
+  "Klasik tefsir 'mütevessimîn'i, dış görünüşten, izden veya olaydan doğru sonuç çıkarabilen, firaset sahibi kişiler olarak açıklar. Ayet, bu ibretin herkese değil, dikkatli bakanlara açık olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:35",
+   "meal": "Andolsun, ondan (o yıkılan şehirden) akıl eden bir topluluk için apaçık bir işaret bıraktık.",
+   "baglanti": "Ankebût suresi, aynı kıssanın geride apaçık bir işaret (ayet) bıraktığını, bunu 'akledenler' için bir ibret olarak nitelendirir."
+  },
+  {
+   "ref": "51:37",
+   "meal": "Orada, acı azaptan korkanlar için bir işaret bıraktık.",
+   "baglanti": "Zâriyât suresi de aynı kıssadan bahisle, geride bırakılan işaretin 'azaptan korkanlar' için bir ibret olduğunu bildirir; 15:75'teki 'mütevessimîn' ifadesini tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, anlatılan kıssanın dikkatli bakabilenler için bir ibret kaynağı olduğunu bildirmesidir; bu, tarihî bir olaya dair genel bir değerlendirmedir.",
+  "Buradan çıkarılabilecek genel ders, çevremizdeki olaylardan, tarihten ve işaretlerden anlam çıkarma becerisinin geliştirilmesi gereken bir yetenek olduğudur. Kişi, günlük hayatındaki küçük işaretleri fark etmeyi, sadece yüzeysel bakmamayı bu ayetten hatırlayabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İşaretleri oku",
+   "aciklama": "Bugün çevrende fark ettiğin küçük bir işaretin anlamını düşün."
+  },
+  {
+   "baslik": "Tarihten ders çıkar",
+   "aciklama": "Bugün bir tarihî olayı okuyup ondan güncel bir ders çıkar."
+  },
+  {
+   "baslik": "Dikkatli gözlemle",
+   "aciklama": "Bugün bir konuda yüzeysel bakmak yerine ayrıntılara dikkat et."
+  }
+ ],
+ "bugununAdimi": "Bugün çevrende fark ettiğin bir işaretin anlamını düşünüp bir not al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=75"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/75"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sure": 15,
+ "ayet": 90,
+ "durum": "taslak",
+ "meal": "Nitekim biz, (kitabı) bölük bölük edenlere indirdiğimiz gibi indirmiştik.",
+ "mealNotu": "'Kasm' kökü (قسم) bölmeyi, paylaştırmayı anlatır; 'müktesimîn' (bölücüler) hakkında klasik tefsir birden çok görüş nakleder. Cümle gramatik olarak bu ayetin devamındaki (91-93) uyarıyla bütünleşir; bu yüzden köşeli parantez içindeki '(kitabı)' bağlamdan çıkarılmıştır.",
+ "kokler": [
+  {
+   "kelime": "كَمَآ",
+   "okunus": "kemâ",
+   "kok": "—",
+   "kokAnlam": "gibi, nitekim (edat)",
+   "karsilik": "nitekim ... gibi"
+  },
+  {
+   "kelime": "أَنزَلْنَا",
+   "okunus": "enzelnâ",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdik"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerine, -e karşı",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلْمُقْتَسِمِينَ",
+   "okunus": "elmüktesimîne",
+   "kok": "قسم",
+   "kokAnlam": "bölme, paylaştırma",
+   "karsilik": "bölücülere"
+  }
+ ],
+ "neAnlatiyor": [
+  "Peygamber'in 'apaçık bir uyarıcı' olduğu ilan edildikten (89) sonra bu ayet, o uyarının ciddiyetini bir emsalle destekler: Allah, daha önce (kitabı veya azabı) 'bölücülere' de indirmişti. 'Müktesimîn' kelimesi için klasik tefsir, Kur'an'a kendi aralarında farklı roller bölüştürüp onu itibarsızlaştırmaya çalışan bir grup ya da kutsal metni parça parça kabul edip reddedenler gibi birkaç farklı yorum nakleder; kesin bir isim vermez.",
+  "Bu ayet gramatik olarak eksik bir cümledir ve anlamını, hemen ardından gelen 91-93. ayetlerle (Kur'an'ı parçalara ayıranlar ve onların hesaba çekileceği) tamamlar. Bu yüzden 90-93 arası tek bir uyarı bütünü olarak okunmalıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "74:24",
+   "meal": "Dedi ki: Bu, ancak nakledilegelen bir sihirdir.",
+   "baglanti": "Müddessir suresindeki bu ayet, Kur'an'ı türlü etiketlerle (sihir, şiir, söz) parçalayıp itibarsızlaştırmaya çalışan bir tutumu somut olarak gösterir; klasik tefsirde 'müktesimîn' yorumlarından biri bu tür bir tutuma işaret eder."
+  },
+  {
+   "ref": "16:24",
+   "meal": "Onlara 'Rabbiniz ne indirdi?' denildiğinde, 'Öncekilerin masalları' derler.",
+   "baglanti": "Nahl suresindeki bu ayet de indirilen vahyi küçümseyip farklı biçimlerde nitelendiren aynı tavrı gösterir; 15:90'daki 'bölücülere indirdiğimiz gibi' uyarısının arka planını aydınlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmişte vahyi kendi çıkarlarına göre parçalayan/bölen bir topluluğa yapılan bir hatırlatmadır; bu, ilerleyen ayetlerle tamamlanan bir uyarı cümlesidir.",
+  "Buradan çıkan ders, bir mesajı bütünlüğünden koparıp kendi işine gelen parçalarını alıp gerisini reddetmenin ciddi bir tutum olduğudur. Kişi, kendi hayatında bir öğüdü veya doğruyu seçici biçimde değil, bütünüyle ele almayı bu uyarıdan hatırlayabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bütünlüğü koru",
+   "aciklama": "Bugün okuduğun bir öğüdü veya haberi, işine gelen kısmını almak yerine bütünüyle değerlendir."
+  },
+  {
+   "baslik": "Seçici davranmaktan kaçın",
+   "aciklama": "Bugün bir tavsiyeyi kabul ederken kendi çıkarına göre parçalamadan, olduğu gibi düşün."
+  },
+  {
+   "baslik": "Devamını oku",
+   "aciklama": "Bugün 15:91-93'ü okuyarak bu uyarının tamamını takip et."
+  }
+ ],
+ "bugununAdimi": "Bugün aldığın bir öğüdü veya doğruyu, kendi işine gelen kısmını seçmeden bütünüyle değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=90"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/90"
+  }
+ ]
+}

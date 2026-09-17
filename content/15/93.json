@@ -1,0 +1,75 @@
+{
+ "sure": 15,
+ "ayet": 93,
+ "durum": "taslak",
+ "meal": "Yapmakta oldukları şeylerden (dolayı sorulacaklar).",
+ "mealNotu": "'Amel' kökü (عمل) yapma, davranış anlamındadır. Bu kısa ayet, bir önceki ayette anılan yeminli sorgunun konusunu (yapılan ameller) belirtir; bu yüzden fiil köşeli parantezle tamamlanmıştır.",
+ "kokler": [
+  {
+   "kelime": "عَمَّا",
+   "okunus": "ammâ",
+   "kok": "—",
+   "kokAnlam": "-den (edat) + 'şey' (ilgi zamiri)",
+   "karsilik": "şeyden"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olmak, var olmak",
+   "karsilik": "idiler"
+  },
+  {
+   "kelime": "يَعْمَلُونَ",
+   "okunus": "ya'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma, davranış, amel",
+   "karsilik": "yapıyorlardı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette 'onlara mutlaka soracağız' denildikten sonra bu ayet, o sorgunun konusunu tamamlar: yapmakta oldukları ameller. İki ayet birlikte, hem sorgunun kesinliğini hem de neyin sorgulanacağını bildiren tek bir cümle oluşturur.",
+  "Klasik tefsir, bu ifadeyi sadece söz ve inanç değil, fiilen yapılan her davranışın hesaba dahil olduğunu gösteren bir ilke olarak açıklar; bu, Kur'an'da tekrarlanan genel bir hesap ilkesidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "99:7",
+   "meal": "Kim zerre miktarı hayır işlerse onu görür.",
+   "baglanti": "Zilzâl suresindeki bu ayet, aynı kökü (عمل, 'amel') kullanarak en küçük bir davranışın bile hesaba dahil olduğunu bildirerek 15:93'teki sorgu ilkesini somutlaştırır."
+  },
+  {
+   "ref": "17:36",
+   "meal": "Hakkında bilgin olmayan şeyin ardına düşme; çünkü kulak, göz ve kalp, bunların hepsi ondan sorumludur.",
+   "baglanti": "İsrâ suresindeki bu ayet, sadece dışa yansıyan amellerin değil, kullanılan duyuların ve zihnin de sorumluluk alanına girdiğini ekleyerek 15:93'teki 'yapılan şeyler'in kapsamını genişletir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insanların hesaba çekileceği şeyin somut olarak yaptıkları ameller olduğudur; bu, bir önceki ayetteki yeminin tamamlayıcısıdır.",
+  "Buradan çıkan ders, inancın sadece sözle değil, fiili davranışlarla da ölçüleceğidir. Kişi, söylediği ile yaptığı arasında tutarlılık olup olmadığını bu ayetten hareketle gözden geçirebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Söz-eylem tutarlılığı",
+   "aciklama": "Bugün söylediğin bir şeyle yaptığın arasında tutarlılık olup olmadığını kontrol et."
+  },
+  {
+   "baslik": "Küçük ameli önemse",
+   "aciklama": "Bugün küçük gördüğün bir iyiliği veya kötülüğü önemseyerek davran."
+  },
+  {
+   "baslik": "Amel defterini düşün",
+   "aciklama": "Bugün yaptığın işlerin bir gün karşına çıkacağını düşünerek bir işini gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün söylediğin bir sözle yaptığın bir davranışın tutarlı olup olmadığını kontrol et ve gerekiyorsa düzelt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=93"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/93"
+  }
+ ]
+}

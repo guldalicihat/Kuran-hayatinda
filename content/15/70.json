@@ -1,0 +1,89 @@
+{
+ "sure": 15,
+ "ayet": 70,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'Seni herkes(le ilgilenmek)ten men etmedik mi?'",
+ "mealNotu": "'Nenheke' (نهي) kökü men etmeyi, yasaklamayı anlatır. Kavim, Lût'un misafirlerine sahip çıkmasına, daha önce kendisine yaptıkları bir uyarıyı hatırlatarak karşılık verir. Köşeli parantez [ilgilenmekten] bağlamı netleştirmek için eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "قَالُوٓا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "أَوَلَمْ",
+   "okunus": "evelem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk soru edatı",
+   "karsilik": "...medik mi"
+  },
+  {
+   "kelime": "نَنْهَكَ",
+   "okunus": "nenheke",
+   "kok": "نهي",
+   "kokAnlam": "men etme, yasaklama",
+   "karsilik": "seni men etmedik mi"
+  },
+  {
+   "kelime": "عَنِ",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "edat, '-den'",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْعَٰلَمِينَ",
+   "okunus": "el'âlemîne",
+   "kok": "علم",
+   "kokAnlam": "âlemler, herkes, insanlar",
+   "karsilik": "herkesle (ilgilenmekten)"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette Lût kavmini Allah'a karşı sakınmaya çağırmıştı; bu ayette kavim, ona daha önce yaptıkları bir uyarıyı hatırlatarak karşılık verir. Ayet, kavmin gerçek itirazının ne olduğunu ayrıntılandırmaz.",
+  "Klasik tefsir bu itirazı, kavmin Lût'u kendi tavırlarına karışmaktan, insanlara/misafirlere sahip çıkmaktan alıkoymaya çalıştıkları bir hatırlatma olarak açıklar. Şuarâ suresindeki paralel kıssa, bu itirazın arka planındaki tavrı daha açık gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:165",
+   "meal": "Siz insanlar arasından erkeklere mi gidiyorsunuz?",
+   "baglanti": "Şuarâ suresi, kavmin Lût'a yönelttiği bu itirazın arka planındaki genel tutumu, aynı 'âlemîn' kelimesiyle biraz daha açık şekilde ortaya koyar."
+  },
+  {
+   "ref": "26:166",
+   "meal": "Rabbinizin sizin için yarattığı eşlerinizi bırakıyorsunuz. Hayır, siz sınırı aşan bir topluluksunuz.",
+   "baglanti": "Aynı surede devam eden bu ayet, kavmin tutumunun 'sınırı aşma' olarak nitelendiğini bildirir; 15:70'teki itirazın neden geçersiz olduğunu tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kavmin Lût'a yönelik itirazını hatırlatmasıdır; bu, tarihî bir kıssanın gerilim anıdır.",
+  "Buradan çıkarılabilecek genel ders, doğru bir tavır sergileyen kişinin çoğu zaman toplumsal baskı ve itirazla karşılaşabileceğidir. Kişi, haklı bir duruşu sürdürürken karşılaşacağı tepkilere hazırlıklı olmayı bu sahneden hatırlayabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Baskıya rağmen dur",
+   "aciklama": "Bugün doğru bildiğin bir tavrı, eleştiri almaktan çekinmeden sürdür."
+  },
+  {
+   "baslik": "İtirazı değerlendir",
+   "aciklama": "Bugün sana yöneltilen bir eleştiriyi savunmaya geçmeden önce dinle ve düşün."
+  },
+  {
+   "baslik": "Sınırını koru",
+   "aciklama": "Bugün seni yanlış bir şeye ortak etmeye çalışan bir baskıya hayır de."
+  }
+ ],
+ "bugununAdimi": "Bugün haklı bir duruşunu, gelen bir itiraza rağmen sürdür.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=70"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/70"
+  }
+ ]
+}

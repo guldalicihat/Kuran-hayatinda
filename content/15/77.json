@@ -1,0 +1,89 @@
+{
+ "sure": 15,
+ "ayet": 77,
+ "durum": "taslak",
+ "meal": "Şüphesiz bunda, iman edenler için bir ayet vardır.",
+ "mealNotu": "Bu ayet, 15:75'teki 'mütevessimîn için ayetler vardır' ifadesini, 'iman edenler için bir ayet vardır' diyerek tamamlar. Aynı olay, farklı bir vurguyla iki kez ibret olarak anılır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid, 'şüphesiz'",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat, '-de'",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri, 'bunda'",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "لَءَايَةً",
+   "okunus": "leâyeten",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet, delil",
+   "karsilik": "elbette bir ayet vardır"
+  },
+  {
+   "kelime": "لِّلْمُؤْمِنِينَ",
+   "okunus": "lilmü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "iman etme, güvenme",
+   "karsilik": "iman edenler için"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette kıssanın somut izinin hâlâ durduğu bildirilmişti; bu ayet, o izin gerçek bir ibrete dönüşmesinin şartını koyar: iman. Aynı olay, herkes için değil, iman edenler için bir ayet (işaret) olur.",
+  "Klasik tefsir bu tekrarı (15:75 ve 15:77), aynı kıssadan iki farklı grup için iki farklı ders çıkarıldığı şeklinde açıklar: firaset sahipleri olayı fark eder, iman edenler ise ondan gerçek bir ibret alır. Bu, Kur'an'da kıssaların sonunda sıkça tekrarlanan bir kapanış cümlesidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:44",
+   "meal": "Allah, gökleri ve yeri hak ile yarattı. Şüphesiz bunda iman edenler için bir ayet vardır.",
+   "baglanti": "Ankebût suresi, aynı kapanış cümlesini ('inne fî zâlike le âyeten lilmü'minîn') birebir aynı kelimelerle, farklı bir bağlamda (yaratılış) tekrar eder; bu, Kur'an'da tekrar eden bir üslup kalıbıdır."
+  },
+  {
+   "ref": "26:8",
+   "meal": "Şüphesiz bunda bir ayet vardır; ama onların çoğu iman etmiş değildir.",
+   "baglanti": "Şuarâ suresindeki bu nakarat, farklı kıssaların sonunda tekrarlanarak aynı gerçeği vurgular: olaylar herkes için değil, ancak iman etmeye açık olanlar için gerçek bir ders taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, anlatılan kıssanın gerçek anlamda iman edenler için bir ibret taşıdığını bildirmesidir; bu, kıssanın kapanışına dair genel bir değerlendirmedir.",
+  "Buradan çıkarılabilecek genel ders, aynı olayı yaşayan veya duyan insanların ondan farklı sonuçlar çıkarabileceğidir. Kişi, bir olaydan gerçek bir ders çıkarmak için önce ona açık bir kalple yaklaşması gerektiğini bu ayetten hatırlayabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Açık kalple dinle",
+   "aciklama": "Bugün duyduğun bir kıssadan veya haberden gerçek bir ders çıkarmaya çalış."
+  },
+  {
+   "baslik": "Yüzeysel geçme",
+   "aciklama": "Bugün bir olayı sadece bilgi olarak değil, üzerinde düşünerek değerlendir."
+  },
+  {
+   "baslik": "İbreti paylaş",
+   "aciklama": "Bugün bu kıssadan çıkardığın bir dersi bir yakınınla paylaş."
+  }
+ ],
+ "bugununAdimi": "Bugün bir olaydan çıkardığın gerçek bir dersi bir yakınınla paylaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=15&verse=77"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/15/77"
+  }
+ ]
+}
