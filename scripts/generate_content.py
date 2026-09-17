@@ -141,7 +141,8 @@ def validate(s, a, d, counts):
     return errs
 
 def write_content(s, a, d):
-    d = {"sure": s, "ayet": a, "durum": "taslak", **{k: d[k] for k in SCHEMA['required']},
+    durum = d.get('durum', 'taslak')
+    d = {"sure": s, "ayet": a, "durum": durum, **{k: d[k] for k in SCHEMA['required']},
          "kaynaklar": [{"ad": "Quranic Arabic Corpus, kelime kelime çözümleme", "url": f"https://corpus.quran.com/wordbyword.jsp?chapter={s}&verse={a}"},
                        {"ad": "Quran.com, ayet sayfası", "url": f"https://quran.com/{s}/{a}"}]}
     os.makedirs(os.path.join(CONTENT, str(s)), exist_ok=True)
