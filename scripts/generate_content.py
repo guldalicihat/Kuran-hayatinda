@@ -38,7 +38,7 @@ SCHEMA = {
         "neAnlatiyor": {"type": "array", "items": {"type": "string"}, "description": "2 paragraf."},
         "kuraniKurana": {"type": "array", "items": {"type": "object", "properties": {
             "ref": {"type": "string", "description": "sure:ayet, örn. 8:66"}, "meal": {"type": "string"}, "baglanti": {"type": "string"}},
-            "required": ["ref", "meal", "baglanti"], "additionalProperties": False}, "description": "2 çapraz referans."},
+            "required": ["ref", "meal", "baglanti"], "additionalProperties": False}, "description": "2-4 çapraz referans."},
         "gunlukHayat": {"type": "array", "items": {"type": "string"}, "description": "2 paragraf."},
         "bugun": {"type": "array", "items": {"type": "object", "properties": {"baslik": {"type": "string"}, "aciklama": {"type": "string"}},
             "required": ["baslik", "aciklama"], "additionalProperties": False}, "description": "Tam 3 öneri."},
@@ -66,7 +66,7 @@ KURALLAR
 1. Meal, sana verilen kelime köklerine dayanır. Kökleri sen belirlemezsin; verilen kökleri Türkçeleştirirsin. Kelimelerde olmayan bir anlamı meale eklemen gerekiyorsa köşeli parantez içinde yaz: [yoluna]. Yorum ekleme; meal olabildiğince kelimelere sadık ve akıcı Türkçe olsun. Allah, Rab, Rahmân gibi özel adlar korunur.
 2. "kokler" listesi: ayetteki HER kelime için bir kayıt; sırayla, hiçbirini atlamadan. "kelime" alanı verilen harekeli Arapça biçimin aynısı, "okunus" verilen okunuş, "kok" verilen kök (kök yoksa "—"), "kokAnlam" kökün temel anlam alanı (3-6 kelime), "karsilik" bu ayetteki Türkçe karşılığı. Verilmeyen bir kök uydurma.
 3. "neAnlatiyor": 2 paragraf. Ayetin bağlamı (bir önceki ve sonraki ayetler verilir), kritik kelimelerin kök anlamı ve ayetin ana mesajı. Kesin olmayan bir şeyi kesin gibi yazma; tefsir görüşlerine yalnız "klasik tefsir ... olarak açıklar" gibi genel ifadeyle değin. Hadis alıntısı yapma, isim vererek tefsir metni alıntılama, tarih ve sayı uydurma.
-4. "kuraniKurana": tam 2 çapraz referans. Her biri gerçek bir ayet olmalı ("ref": "sure:ayet"). Mümkünse aynı kökü paylaşan veya konuyu açan ayetleri seç; en az biri, açıklanan ayetin dışındaki bir sureden olsun. "meal" alanına o ayetin kısa, sadık mealini yaz; "baglanti" alanına iki ayet arasındaki ilişkiyi 1-2 cümleyle yaz. Emin olmadığın ayet numarası verme.
+4. "kuraniKurana": 2 ila 4 arası çapraz referans (varsayılan 2; gerçekten güçlü ek referans bulursan 3-4'e çık, sayı doldurmak için zorlama). Her biri gerçek bir ayet olmalı ("ref": "sure:ayet"). Mümkünse aynı kökü paylaşan veya konuyu açan ayetleri seç; en az biri, açıklanan ayetin dışındaki bir sureden olsun. "meal" alanına o ayetin kısa, sadık mealini yaz; "baglanti" alanına iki ayet arasındaki ilişkiyi 1-2 cümleyle yaz. Emin olmadığın ayet numarası verme.
 5. "gunlukHayat": 2 paragraf. Ayetin doğrudan konusunu söyle; sonra bugüne taşınabilecek dersi ver. Ayetin konusu savaş, miras, hukuk gibi özel bir alansa bunu açıkça belirt ve dersi zorlamadan çıkar.
 6. "bugun": tam 3 öneri. Her biri somut, bugün yapılabilir, tek cümle "baslik" ve 1-2 cümle "aciklama". "bugununAdimi": tek cümle, ölçülebilir bir eylem.
 7. Dil: sade, açık Türkçe. Vaaz üslubu ve abartı yok. Cümleler kısa. "Sen" hitabı kullan. Türkçe imlaya dikkat et (â, î, û uzatmaları okunuşlarda korunur).
