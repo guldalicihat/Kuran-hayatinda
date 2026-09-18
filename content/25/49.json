@@ -1,0 +1,124 @@
+{
+ "sure": 25,
+ "ayet": 49,
+ "durum": "taslak",
+ "meal": "Onunla ölü bir beldeyi diriltmemiz ve yarattıklarımızdan birçok hayvanı ve insanı sulamamız için [bu suyu indirdik].",
+ "mealNotu": "'Beled' kökü belde/yer, 'meyyit' kökü ölüm anlamındadır; 'ölü belde' kuraklıktan bitki bitmeyen toprağı anlatır. Cümle önceki ayetteki su indirmenin amacını açıkladığı için başına '[bu suyu indirdik]' eklendi.",
+ "kokler": [
+  {
+   "kelime": "لِّنُحْۦِىَ",
+   "okunus": "linühîye",
+   "kok": "حيي",
+   "kokAnlam": "diriltme, canlandırma",
+   "karsilik": "diriltelim diye"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "zamir: onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "بَلْدَةً",
+   "okunus": "beldeten",
+   "kok": "بلد",
+   "kokAnlam": "belde, yer",
+   "karsilik": "bir beldeyi"
+  },
+  {
+   "kelime": "مَّيْتًا",
+   "okunus": "meyten",
+   "kok": "موت",
+   "kokAnlam": "ölüm, ölü",
+   "karsilik": "ölü"
+  },
+  {
+   "kelime": "وَنُسْقِيَهُۥ",
+   "okunus": "ve nüskıyehû",
+   "kok": "سقي",
+   "kokAnlam": "sulama",
+   "karsilik": "ve onu sulayalım diye"
+  },
+  {
+   "kelime": "مِمَّا",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "edat: -den",
+   "karsilik": "yarattıklarımızdan"
+  },
+  {
+   "kelime": "خَلَقْنَآ",
+   "okunus": "haleknâ",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yarattığımız"
+  },
+  {
+   "kelime": "أَنْعَٰمًا",
+   "okunus": "en'âmen",
+   "kok": "نعم",
+   "kokAnlam": "hayvan, davar",
+   "karsilik": "hayvanları"
+  },
+  {
+   "kelime": "وَأَنَاسِىَّ",
+   "okunus": "ve enâsiyye",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "ve insanları"
+  },
+  {
+   "kelime": "كَثِيرًا",
+   "okunus": "kesîran",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "birçok"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette gökten indirilen tertemiz sudan bahsedilmişti; bu ayet o suyun amacını açıklar: ölü toprağı diriltmek ve canlıları sulamak. 'Meyyit' (ölü) kelimesinin kullanılması, kuru toprağın gerçekten cansız gibi görülmesini, yağmurla yeniden 'dirilmesini' vurgular.",
+  "'En'âm' (hayvanlar) ve 'enâsiyy' (insanlar) birlikte anılarak suyun bütün canlılar için ortak bir ihtiyaç olduğu hatırlatılır. Toprağın ölümden sonra dirilmesi, aynı zamanda ahiretteki dirilişe işaret eden bir benzetme olarak da anlaşılabilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "30:19",
+   "meal": "Ölüden diriyi, diriden ölüyü çıkarır; yeryüzünü ölümünden sonra diriltir.",
+   "baglanti": "Toprağın 'ölümden sonra dirilmesi' ifadesiyle aynı imgeyi taşır, ahiret delili olarak sık kullanılan bir benzetmedir."
+  },
+  {
+   "ref": "36:33",
+   "meal": "Ölü toprak onlar için bir delildir; biz onu diriltir, ondan taneler çıkarırız da ondan yerler.",
+   "baglanti": "Ölü toprağın diriltilmesi ve ondan rızık çıkması temasını aynı kelimelerle genişletir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, yağmurun toprağı ve canlıları hayata döndürmesidir. İnsan ve hayvan aynı suya muhtaç kılınarak ortak bir bağımlılık hatırlatılır.",
+  "Bugüne taşınabilecek ders, hayatın devamının küçük görünen bir nimete (su) bağlı olduğunu unutmamaktır. Kuraklıkla yeşeren bir toprağı görmek bile bir diriliş örneğidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir bitkinin suya nasıl tepki verdiğini gözle",
+   "aciklama": "Bugün kurumuş bir toprağa veya bitkiye su verip kısa sürede nasıl canlandığını fark et."
+  },
+  {
+   "baslik": "Su ile hayat arasındaki bağı hatırla",
+   "aciklama": "Yemek yerken veya su içerken bunun arkasındaki yağmur-toprak-hasat zincirini bir an düşün."
+  },
+  {
+   "baslik": "Kuraklık yaşayan bir bölge için dua et",
+   "aciklama": "Bugün su sıkıntısı çeken bir yer için kısa bir dua et."
+  }
+ ],
+ "bugununAdimi": "Bugün suyla beslenen bir bitkiye veya hayvana dikkatle bak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=49"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/25/49"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "sure": 25,
+ "ayet": 56,
+ "durum": "taslak",
+ "meal": "Seni ancak bir müjdeleyici ve bir uyarıcı olarak gönderdik.",
+ "mealNotu": "'Mübeşşir' ve 'nezîr' kökleri sırasıyla müjde ve uyarı anlamındadır; ayet peygamberin görevini bu iki kelimeyle sınırlar.",
+ "kokler": [
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-medik"
+  },
+  {
+   "kelime": "أَرْسَلْنَٰكَ",
+   "okunus": "erselnâke",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi gönderme",
+   "karsilik": "seni göndermedik"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "مُبَشِّرًا",
+   "okunus": "mübeşşiran",
+   "kok": "بشر",
+   "kokAnlam": "müjde verme",
+   "karsilik": "bir müjdeleyici"
+  },
+  {
+   "kelime": "وَنَذِيرًا",
+   "okunus": "ve nezîran",
+   "kok": "نذر",
+   "kokAnlam": "uyarma",
+   "karsilik": "ve bir uyarıcı olarak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetlerde kâfirlerin tutumu anlatıldıktan sonra bu ayet Hz. Peygamber'e hitaben onun görevinin sınırını çizer: sadece müjdeleme ve uyarma. İnsanları zorla imana getirme veya hesaba çekme görevi ona verilmemiştir.",
+  "'Mübeşşir' kökü sevindirici haberi, 'nezîr' kökü ise uyarıyı anlatır. Bu ikili görev tanımı, Kur'an'da peygamberler için sıkça tekrarlanan bir kalıptır; sonuç Allah'a bırakılır, peygambere düşen yalnız tebliğdir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "33:45",
+   "meal": "Ey Peygamber! Biz seni bir şahit, bir müjdeleyici ve bir uyarıcı olarak gönderdik.",
+   "baglanti": "Aynı müjdeleyici-uyarıcı ikilisini, şahitlik görevini de ekleyerek genişletir."
+  },
+  {
+   "ref": "5:99",
+   "meal": "Peygambere düşen ancak tebliğ etmektir.",
+   "baglanti": "Peygamberin görevinin sınırlı (tebliğ, müjde, uyarı) olduğu, zorlama yetkisinin olmadığı ilkesini pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Hz. Peygamber'in görevinin sınırlarıdır: müjdelemek ve uyarmak, sonucu dayatmak değil.",
+  "Bugüne taşınabilecek ders, başkalarına doğruyu anlatırken sınırını bilmektir. Bir kişiyi ikna etmek bize düşer, ama sonucu ona ve Allah'a bırakmak gerekir; baskı yerine anlatım tercih edilmelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir konuda baskı yerine anlatımı seç",
+   "aciklama": "Bugün birine bir şeyi anlatırken zorlamadan, sadece bilgi vererek konuş."
+  },
+  {
+   "baslik": "İyi bir haberi paylaş",
+   "aciklama": "Bugün birine sevindirici, umut veren bir söz söyle."
+  },
+  {
+   "baslik": "Sonucu bırakmayı öğren",
+   "aciklama": "Elinden geleni yaptıktan sonra sonucu zorlamadan bekle."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kişiyle konuşurken baskı yapmadan, sadece anlatarak iletişim kur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=56"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/25/56"
+  }
+ ]
+}

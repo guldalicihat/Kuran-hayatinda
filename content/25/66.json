@@ -1,0 +1,82 @@
+{
+ "sure": 25,
+ "ayet": 66,
+ "durum": "taslak",
+ "meal": "Gerçekten o [cehennem], ne kötü bir karargâh ve ikametgâhtır.",
+ "mealNotu": "'Sâet' kökü kötülüğü anlatan bir fiildir; 'müstekarr' ve 'mükâm' kökleri sırasıyla kalınacak yer ve duraklama/ikamet yerini ifade eder. Zamirin işaret ettiği 'cehennem' bağlam gereği köşeli parantezle eklendi.",
+ "kokler": [
+  {
+   "kelime": "إِنَّهَا",
+   "okunus": "innehâ",
+   "kok": "—",
+   "kokAnlam": "te'kid: gerçekten o",
+   "karsilik": "gerçekten o"
+  },
+  {
+   "kelime": "سَآءَتْ",
+   "okunus": "sâet",
+   "kok": "سوأ",
+   "kokAnlam": "kötülük",
+   "karsilik": "ne kötüdür"
+  },
+  {
+   "kelime": "مُسْتَقَرًّا",
+   "okunus": "müstekarran",
+   "kok": "قرر",
+   "kokAnlam": "karar kılma, yerleşme",
+   "karsilik": "bir karargâh olarak"
+  },
+  {
+   "kelime": "وَمُقَامًا",
+   "okunus": "ve mükâmen",
+   "kok": "قوم",
+   "kokAnlam": "duruş yeri, ikamet",
+   "karsilik": "ve bir ikametgâh olarak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki cehennem azabından sığınma duasının devamı niteliğindedir; cehennemin ne kadar kötü bir yer olduğunu vurgular. 'Sâet' fiili, bunun sadece acı verici değil, aynı zamanda çirkin, istenmeyen bir yer olduğunu anlatır.",
+  "'Müstekarr' (karargâh, kalınacak yer) ve 'mükâm' (ikametgâh) kelimeleri, cehennemin geçici bir uğrak değil, kalıcı bir mekân olarak tasvir edildiğini gösterir. Bu, önceki ayetteki 'garâm' (kalıcı felaket) vurgusunu pekiştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "18:29",
+   "meal": "Şüphesiz biz zalimler için, duvarları çepeçevre kuşatan bir ateş hazırladık.",
+   "baglanti": "Cehennemin kalıcı ve çepeçevre kuşatan bir mekân olarak tasvir edildiği başka bir ayettir."
+  },
+  {
+   "ref": "14:29",
+   "meal": "Cehennemdir, ona atılırlar; ne kötü bir karar yeridir.",
+   "baglanti": "Neredeyse aynı ifadeyle cehennemin 'ne kötü bir yer' olduğunu tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, cehennemin kalıcı ve son derece kötü bir yer olarak nitelendirilmesidir. Bu, önceki ayetteki duanın gerekçesini açıklar.",
+  "Bugüne taşınabilecek ders, hayatı sadece dünya kazanımlarıyla değil, sonun nereye varacağını da düşünerek yaşamaktır. Bir yolun sonunun kötü olduğunu bilmek, o yoldan uzak durmayı kolaylaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir alışkanlığının sonunu düşün",
+   "aciklama": "Bugün seni yanlışa sürükleyebilecek bir alışkanlığın nereye varabileceğini bir an düşün."
+  },
+  {
+   "baslik": "Kalıcı olanı önceliklendir",
+   "aciklama": "Geçici bir zevk yerine bugün kalıcı bir iyilik yapmayı seç."
+  },
+  {
+   "baslik": "Sığınma duasını tekrar et",
+   "aciklama": "Dünkü duayı ('Rabbimiz, bizi cehennem azabından koru') bugün de bir kez tekrarla."
+  }
+ ],
+ "bugununAdimi": "Bugün seni yanlışa sürükleyen bir alışkanlığın sonunu bir an düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=66"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/25/66"
+  }
+ ]
+}

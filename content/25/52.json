@@ -1,0 +1,103 @@
+{
+ "sure": 25,
+ "ayet": 52,
+ "durum": "taslak",
+ "meal": "Öyleyse kâfirlere itaat etme; onlarla bununla [Kur'an ile] büyük bir mücadele yap.",
+ "mealNotu": "'Bihî' (onunla) zamiri klasik tefsirde yaygın olarak Kur'an'a işaret ettiği şeklinde açıklanır; köşeli parantezle '[Kur'an ile]' netleştirildi. 'Cihad' kökü çaba ve gayret anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "öyleyse"
+  },
+  {
+   "kelime": "تُطِعِ",
+   "okunus": "tütıi",
+   "kok": "طوع",
+   "kokAnlam": "itaat etme",
+   "karsilik": "itaat etme"
+  },
+  {
+   "kelime": "ٱلْكَٰفِرِينَ",
+   "okunus": "elkâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "kâfirlere"
+  },
+  {
+   "kelime": "وَجَٰهِدْهُم",
+   "okunus": "ve câhidhüm",
+   "kok": "جهد",
+   "kokAnlam": "çaba, gayret, mücadele",
+   "karsilik": "ve onlarla mücadele et"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "zamir: onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "جِهَادًا",
+   "okunus": "cihâden",
+   "kok": "جهد",
+   "kokAnlam": "çaba, mücadele",
+   "karsilik": "bir mücadele ile"
+  },
+  {
+   "kelime": "كَبِيرًا",
+   "okunus": "kebîran",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük",
+   "karsilik": "büyük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette Allah'ın tek bir evrensel uyarıcı gönderdiği anlatılmıştı; bu ayet o uyarıcıya görevini bildirir: kâfirlere itaat etmemek ve onlarla Kur'an aracılığıyla büyük bir mücadele yürütmek.",
+  "'Cihad' kökü çaba ve gayret anlamına gelir; ayette 'bihî' (onunla, yani Kur'an'la) ifadesiyle bu mücadelenin aracının vahiy olduğu belirtilir. Mekke döneminde inen bu ayet, silahlı savaştan önce sözlü ve fikri mücadeleye işaret eder; klasik tefsir bu ayeti Kur'an ile tebliğ mücadelesi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:8",
+   "meal": "Öyleyse yalanlayanlara itaat etme.",
+   "baglanti": "Aynı 'itaat etme' emrini, başka bir Mekki surede tekrarlayarak peygambere verilen tavrı pekiştirir."
+  },
+  {
+   "ref": "29:69",
+   "meal": "Bizim uğrumuzda mücadele edenlere, elbette yollarımızı gösteririz.",
+   "baglanti": "'Cihad' kökünün Allah yolunda çaba göstermek anlamında kullanıldığı başka bir örnektir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Hz. Peygamber'in inkârcılara boyun eğmemesi ve Kur'an'la fikri mücadele yürütmesidir. Bu, o dönemin özel bağlamıdır.",
+  "Bugüne taşınabilecek ders, doğru bildiğin bir şeyde çevrenin baskısına boyun eğmemek ve fikrini sağlam delillerle savunmaktır. Mücadele burada söz ve delille olur, öfkeyle değil."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir konuda baskıya boyun eğme",
+   "aciklama": "Bugün doğru bildiğin bir şeyi, çevrenin onayı olmasa da sakin bir dille savun."
+  },
+  {
+   "baslik": "Delillerle konuş",
+   "aciklama": "Bir tartışmada duygudan önce bilgiye ve delile dayanarak konuşmayı dene."
+  },
+  {
+   "baslik": "Kur'an'dan bir ayeti bugün anlamaya çalış",
+   "aciklama": "Kısa bir süre ayır, bir ayeti meal ve açıklamasıyla okuyup üzerinde düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün doğru bildiğin bir şeyi baskıya rağmen sakince savun.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=52"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/25/52"
+  }
+ ]
+}

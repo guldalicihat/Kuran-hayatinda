@@ -1,0 +1,117 @@
+{
+ "sure": 25,
+ "ayet": 72,
+ "durum": "taslak",
+ "meal": "Onlar, yalana şahitlik etmezler; boş sözün yanından geçtiklerinde vakarla geçerler.",
+ "mealNotu": "'Zûr' kökü yalan ve iftirayı, 'lağv' kökü ise anlamsız, boş sözü anlatır; 'kirâmen' (vakarla) ifadesi, bu boş sözlerle uğraşmadan onurlu bir tavırla uzaklaşmayı belirtir.",
+ "kokler": [
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri: ve onlar ki",
+   "karsilik": "ve onlar ki"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-mazlar"
+  },
+  {
+   "kelime": "يَشْهَدُونَ",
+   "okunus": "yeşhedûne",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik etme, tanıklık",
+   "karsilik": "şahitlik etmezler"
+  },
+  {
+   "kelime": "ٱلزُّورَ",
+   "okunus": "ezzûra",
+   "kok": "زور",
+   "kokAnlam": "yalan, iftira",
+   "karsilik": "yalana"
+  },
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "zaman: -dığında",
+   "karsilik": "ve ... zaman"
+  },
+  {
+   "kelime": "مَرُّوا۟",
+   "okunus": "merrû",
+   "kok": "مرر",
+   "kokAnlam": "geçme",
+   "karsilik": "geçtiklerinde"
+  },
+  {
+   "kelime": "بِٱللَّغْوِ",
+   "okunus": "bil lağvi",
+   "kok": "لغو",
+   "kokAnlam": "boş söz, anlamsız söz",
+   "karsilik": "boş sözün yanından"
+  },
+  {
+   "kelime": "مَرُّوا۟",
+   "okunus": "merrû",
+   "kok": "مرر",
+   "kokAnlam": "geçme",
+   "karsilik": "geçerler"
+  },
+  {
+   "kelime": "كِرَامًا",
+   "okunus": "kirâmen",
+   "kok": "كرم",
+   "kokAnlam": "onur, vakar, şeref",
+   "karsilik": "vakarla"
+  }
+ ],
+ "neAnlatiyor": [
+  "İbâdurrahmân'ın bir başka özelliği, yalan yere şahitlik etmemeleridir; 'zûr' kelimesi hem yalan söylemeyi hem yalana ortak olmayı kapsar. Bu, hem konuşmada hem tanıklıkta dürüstlüğü gerektirir.",
+  "Ayetin ikinci kısmı, boş ve anlamsız sözlerle (lağv) karşılaştıklarında bunlara dahil olmadan, vakarla geçip gitmelerini anlatır. Bu, hem zamanı boşa harcamamayı hem de faydasız tartışmalardan uzak durmayı öğütler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "23:3",
+   "meal": "Onlar, boş sözden yüz çevirenlerdir.",
+   "baglanti": "Mü'minûn suresinde müminlerin özellikleri arasında aynı 'boş sözden kaçınma' ilkesi tekrarlanır."
+  },
+  {
+   "ref": "28:55",
+   "meal": "Boş sözü işittiklerinde ondan yüz çevirirler, 'bizim işlerimiz bize, sizin işleriniz size' derler.",
+   "baglanti": "Boş söze karşı sessiz kalıp uzaklaşma tavrını aynı şekilde anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, yalan şahitlikten kaçınmak ve boş sözlerle vakit geçirmemektir. Bu, hem dürüstlük hem de zaman yönetimiyle ilgili bir ilkedir.",
+  "Bugüne taşınabilecek ders, dedikodu, boş tartışma veya yalan bilgiye ortak olmamak, bunlarla karşılaştığında sessizce ve saygıyla uzaklaşmaktır. Bu, hem kişiliği hem zamanı korur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir dedikoduya katılma",
+   "aciklama": "Bugün bir dedikodu ortamında sessiz kalıp konuyu değiştir veya uzaklaş."
+  },
+  {
+   "baslik": "Boş bir tartışmadan vakarla çekil",
+   "aciklama": "Anlamsız bir tartışmaya girdiğinde, kazanmaya çalışmadan sakince geri çekil."
+  },
+  {
+   "baslik": "Doğruluğunu emin olmadığın bir şeyi paylaşma",
+   "aciklama": "Bugün emin olmadığın bir bilgiyi başkasına aktarmadan önce doğrula."
+  }
+ ],
+ "bugununAdimi": "Bugün emin olmadığın bir bilgiyi doğrulamadan paylaşma.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=72"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/25/72"
+  }
+ ]
+}

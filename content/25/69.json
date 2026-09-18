@@ -1,0 +1,110 @@
+{
+ "sure": 25,
+ "ayet": 69,
+ "durum": "taslak",
+ "meal": "Kıyamet günü ona azap kat kat artırılır ve orada aşağılanmış olarak ebedi kalır.",
+ "mealNotu": "'Yüdâaf' kökü katlanmayı, 'yahlüd' kökü ebediliği, 'mühân' kökü ise aşağılanmayı anlatır; ayet önceki ayetteki üç büyük günahın cezasını devam ettirir.",
+ "kokler": [
+  {
+   "kelime": "يُضَٰعَفْ",
+   "okunus": "yüdâaf",
+   "kok": "ضعف",
+   "kokAnlam": "katlama, kat kat artırma",
+   "karsilik": "kat kat artırılır"
+  },
+  {
+   "kelime": "لَهُ",
+   "okunus": "lehü",
+   "kok": "—",
+   "kokAnlam": "zamir: ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "ٱلْعَذَابُ",
+   "okunus": "el'azâbü",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "azap"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "ٱلْقِيَٰمَةِ",
+   "okunus": "elkıyâmeti",
+   "kok": "قوم",
+   "kokAnlam": "kalkma, kıyam",
+   "karsilik": "kıyamet"
+  },
+  {
+   "kelime": "وَيَخْلُدْ",
+   "okunus": "ve yahlüd",
+   "kok": "خلد",
+   "kokAnlam": "ebedilik, kalıcılık",
+   "karsilik": "ve ebedi kalır"
+  },
+  {
+   "kelime": "فِيهِۦ",
+   "okunus": "fîhî",
+   "kok": "—",
+   "kokAnlam": "edat: onun içinde",
+   "karsilik": "onun içinde"
+  },
+  {
+   "kelime": "مُهَانًا",
+   "okunus": "mühânen",
+   "kok": "هون",
+   "kokAnlam": "aşağılanma, alçaltılma",
+   "karsilik": "aşağılanmış olarak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayette bahsedilen şirk, haksız cana kıyma ve zina günahlarının karşılığını anlatmaya devam eder. 'Yüdâaf' (kat kat artırılır) ifadesi, bu günahların cezasının ağır olduğunu vurgular.",
+  "'Yahlüd' (ebedi kalır) ve 'mühân' (aşağılanmış) kelimeleri, bu cezanın hem süresinin hem niteliğinin ağırlığını gösterir. Ayet, tövbe kapısının kapalı olduğunu söylemez; bir sonraki ayet hemen tövbe edenler için bir istisna getirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:93",
+   "meal": "Kim bir mümini kasten öldürürse cezası, içinde ebedi kalacağı cehennemdir.",
+   "baglanti": "Haksız cana kıymanın cezasının ağırlığını, benzer bir ebedilik vurgusuyla tekrarlar."
+  },
+  {
+   "ref": "33:65",
+   "meal": "Allah, kâfirlere içinde ebedi kalacakları bir ateş hazırlamıştır.",
+   "baglanti": "Ebedi kalma ve aşağılanma temasını, kâfirler için de genel bir ilke olarak tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, önceki ayette sayılan büyük günahların ahiretteki ağır karşılığıdır. Bu bir uyarı ayetidir, ayrı bir hüküm koymaz.",
+  "Bugüne taşınabilecek ders, büyük günahları hafife almamaktır. Bir sonraki ayetin hemen tövbe kapısını açması, bu uyarının umutsuzluğa değil, sorumluluğa çağırdığını gösterir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir günahı hafife almadığını göster",
+   "aciklama": "Bugün küçük gördüğün ama aslında ciddi bir hatayı bir kez ciddiye al."
+  },
+  {
+   "baslik": "Ahiret bilinciyle bir kararı gözden geçir",
+   "aciklama": "Bugün vereceğin bir kararda bunun ahiretteki karşılığını bir an düşün."
+  },
+  {
+   "baslik": "Tövbe kapısının açık olduğunu unutma",
+   "aciklama": "Geçmiş bir hatan varsa bugün kısa bir tövbe cümlesi söyle."
+  }
+ ],
+ "bugununAdimi": "Bugün geçmiş bir hatan için kısa bir tövbe cümlesi söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=69"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/25/69"
+  }
+ ]
+}
