@@ -52,5 +52,13 @@ jobs:
           git add social/posted_log.json
           if ! git diff --cached --quiet -- social/posted_log.json; then
             git commit -m "Sosyal medya: X paylaşım kaydı güncellendi [otomatik]"
-            git push
+            for i in 1 2 3 4 5; do
+              if git push; then
+                break
+              fi
+              echo "Push reddedildi (muhtemelen main ilerledi), rebase edip tekrar deneniyor ($i/5)..."
+              git fetch origin main
+              git rebase origin/main
+              sleep 3
+            done
           fi
