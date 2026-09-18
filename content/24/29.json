@@ -1,0 +1,173 @@
+{
+ "sure": 24,
+ "ayet": 29,
+ "durum": "taslak",
+ "meal": "İçinde oturulmayan ve size ait bir eşya bulunan evlere girmenizde bir sakınca yoktur. Allah, açığa vurduklarınızı da gizlediklerinizi de bilir.",
+ "mealNotu": "'Cünâh' جنح kökü sakınca/günah anlamındadır. Ayet, önceki genel izin kuralına bir istisna getirir.",
+ "kokler": [
+  {
+   "kelime": "لَّيْسَ",
+   "okunus": "leyse",
+   "kok": "ليس",
+   "kokAnlam": "olumsuzluk fiili, değildir",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinize",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "جُنَاحٌ",
+   "okunus": "cünâhun",
+   "kok": "جنح",
+   "kokAnlam": "sakınca, günah",
+   "karsilik": "bir sakınca"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesinde",
+   "karsilik": "girmenizde"
+  },
+  {
+   "kelime": "تَدْخُلُوا۟",
+   "okunus": "tedhulû",
+   "kok": "دخل",
+   "kokAnlam": "girme",
+   "karsilik": "girmenizde"
+  },
+  {
+   "kelime": "بُيُوتًا",
+   "okunus": "büyûten",
+   "kok": "بيت",
+   "kokAnlam": "ev, mesken",
+   "karsilik": "evlere"
+  },
+  {
+   "kelime": "غَيْرَ",
+   "okunus": "gayra",
+   "kok": "غير",
+   "kokAnlam": "başkalık, değişiklik",
+   "karsilik": "olmayan"
+  },
+  {
+   "kelime": "مَسْكُونَةٍ",
+   "okunus": "meskûnetin",
+   "kok": "سكن",
+   "kokAnlam": "yerleşme, sakinlik",
+   "karsilik": "oturulan"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "مَتَٰعٌ",
+   "okunus": "metâun",
+   "kok": "متع",
+   "kokAnlam": "yararlanma, eşya",
+   "karsilik": "bir eşya bulunan"
+  },
+  {
+   "kelime": "لَّكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size ait",
+   "karsilik": "size ait"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَعْلَمُ",
+   "okunus": "ya'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilgi, bilme",
+   "karsilik": "bilir"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "تُبْدُونَ",
+   "okunus": "tübdûne",
+   "kok": "بدو",
+   "kokAnlam": "açığa çıkma, gösterme",
+   "karsilik": "açığa vurduğunuz"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şeyi",
+   "karsilik": "ve şeyi"
+  },
+  {
+   "kelime": "تَكْتُمُونَ",
+   "okunus": "tektümûne",
+   "kok": "كتم",
+   "kokAnlam": "gizleme, saklama",
+   "karsilik": "gizlediğiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki iki ayetteki izin isteme kuralına bir istisna getirir: içinde kimsenin oturmadığı, ortak kullanılan veya eşya bulundurulan mekanlara girmekte sakınca yoktur. Bu, kuralın herkesin özel meskeni için geçerli olduğunu, genel kullanım alanları için farklı bir hüküm bulunduğunu gösterir.",
+  "Ayetin sonu, Allah'ın açık ve gizli her şeyi bildiğini hatırlatarak, bu istisnanın bir kaçamak veya kötüye kullanma aracı olmaması gerektiğini ima eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "24:27",
+   "meal": "Ey iman edenler! Kendi evleriniz dışındaki evlere, geldiğinizi hissettirip ev sahiplerine selam vermedikçe girmeyin.",
+   "baglanti": "24:27'deki genel izin kuralına burada bir istisna getirilir; ayrım, evin oturulan bir mesken olup olmamasına dayanır."
+  },
+  {
+   "ref": "2:284",
+   "meal": "Göklerde ve yerde ne varsa Allah'ındır. İçinizdekini açığa vursanız da gizleseniz de Allah sizi onunla hesaba çeker.",
+   "baglanti": "Açık ve gizli her şeyin Allah katında bilinmesi ilkesi burada da tekrarlanır; 24:29'daki son cümleyle aynı vurguyu taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, mahremiyet kuralının hangi durumlarda geçerli olmadığıdır.",
+  "Bugüne taşınabilecek ders, kuralları uygularken aşırıya kaçmadan mantıklı ayrımlar yapabilmektir. Her durumu aynı katılıkta ele almak yerine, bağlamı gözetmek de bir tür anlayıştır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bağlamı gözet",
+   "aciklama": "Bugün bir kuralı uygularken, durumun gerçek bağlamını da dikkate al."
+  },
+  {
+   "baslik": "Ortak alanlara saygılı kullan",
+   "aciklama": "Paylaşılan bir alanı bugün gereksiz yere işgal etmeden kullan."
+  },
+  {
+   "baslik": "Gizli-açık ayrımı yapma",
+   "aciklama": "Görünmeyen bir yerde de, bugün görünen yerdeki gibi dürüst davran."
+  }
+ ],
+ "bugununAdimi": "Bugün, kimsenin göremeyeceği bir ortamda da davranışlarını aynı dürüstlükle sürdür.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=29"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/24/29"
+  }
+ ]
+}

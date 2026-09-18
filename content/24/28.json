@@ -1,0 +1,208 @@
+{
+ "sure": 24,
+ "ayet": 28,
+ "durum": "taslak",
+ "meal": "Eğer orada kimseyi bulamazsanız, size izin verilinceye kadar oraya girmeyin. Eğer size 'geri dönün' denirse, dönün; bu sizin için daha temizdir. Allah yaptıklarınızı hakkıyla bilendir.",
+ "mealNotu": "'Ezkâ' زكو kökünden, 'daha temiz/daha uygun' anlamındadır; aynı kök 24:30'da 'ezkâ lehüm' olarak da geçer.",
+ "kokler": [
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "-mazsanız"
+  },
+  {
+   "kelime": "تَجِدُوا۟",
+   "okunus": "tecidû",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulamazsanız"
+  },
+  {
+   "kelime": "فِيهَآ",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) orada",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "أَحَدًا",
+   "okunus": "ehaden",
+   "kok": "أحد",
+   "kokAnlam": "birlik, tek",
+   "karsilik": "kimseyi"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "girmeyin"
+  },
+  {
+   "kelime": "تَدْخُلُوهَا",
+   "okunus": "tedhulûhâ",
+   "kok": "دخل",
+   "kokAnlam": "girme",
+   "karsilik": "oraya girmeyin"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "يُؤْذَنَ",
+   "okunus": "yü'zene",
+   "kok": "أذن",
+   "kokAnlam": "izin verme, işitme",
+   "karsilik": "izin verilene"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) ve eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "قِيلَ",
+   "okunus": "kîle",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "denirse"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "lekümü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "ٱرْجِعُوا۟",
+   "okunus": "urciû",
+   "kok": "رجع",
+   "kokAnlam": "geri dönme",
+   "karsilik": "geri dönün"
+  },
+  {
+   "kelime": "فَٱرْجِعُوا۟",
+   "okunus": "ferciû",
+   "kok": "رجع",
+   "kokAnlam": "geri dönme",
+   "karsilik": "dönün"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "أَزْكَىٰ",
+   "okunus": "ezkâ",
+   "kok": "زكو",
+   "kokAnlam": "arınma, temizlik, gelişme",
+   "karsilik": "daha temizdir"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(edat) şeyi",
+   "karsilik": "yaptıklarınızı"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "yaptıklarınız"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilgi, bilme",
+   "karsilik": "hakkıyla bilendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki izin isteme kuralının devamıdır: evde kimse bulunmazsa izin verilene kadar girilmemeli, geri dönülmesi istenirse itiraz etmeden dönülmelidir. Bu, mahremiyet kuralının uygulanmasında ısrarcı olmamayı da öğretir.",
+  "'Bu sizin için daha temizdir' ifadesi, bu kuralın sadece bir görgü değil, kişiyi ahlaki olarak da arındıran bir davranış olduğunu vurgular. Ayetin sonu, Allah'ın her davranışı bildiğini hatırlatarak bu kurala uymayı içsel bir sorumluluğa bağlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "24:27",
+   "meal": "Ey iman edenler! Kendi evleriniz dışındaki evlere, geldiğinizi hissettirip ev sahiplerine selam vermedikçe girmeyin.",
+   "baglanti": "Bir önceki ayetteki izin isteme kuralının doğal devamıdır; izin alınamadığında ısrar edilmemesi gerektiğini ekler."
+  },
+  {
+   "ref": "4:86",
+   "meal": "Bir selamla selamlandığınızda, siz de ondan daha güzeliyle karşılık verin ya da aynıyla karşılık verin.",
+   "baglanti": "Selamlaşma ve karşılıklı nezaket ilkesi burada da vurgulanır; 24:27-28'deki selam ve izin kurallarının genel çerçevesini oluşturur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, izin isteme sürecinde nasıl davranılması gerektiğidir.",
+  "Bugüne taşınabilecek ders, bir 'hayır' cevabını olgunlukla kabul etmektir. Bir isteğin geri çevrilmesi karşısında ısrar etmek yerine saygıyla geri çekilmek, hem karşındakine hem kendine değer verdiğini gösterir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hayırı kabul et",
+   "aciklama": "Bugün bir isteğine 'hayır' dendiğinde, ısrar etmeden saygıyla geri çekil."
+  },
+  {
+   "baslik": "Israrcı olma",
+   "aciklama": "Girmek istediğin bir ortamda izin verilmiyorsa, bugün bunu olgunlukla karşıla."
+  },
+  {
+   "baslik": "Sabırla bekle",
+   "aciklama": "Bir cevabı beklerken, bugün acele etmeden sabret."
+  }
+ ],
+ "bugununAdimi": "Bugün bir isteğine olumsuz cevap alırsan, ısrar etmeden saygıyla kabul et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=28"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/24/28"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "sure": 24,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Beşincisi de, eğer yalancılardan ise Allah'ın lanetinin kendi üzerine olmasıdır.",
+ "mealNotu": "Kısa ayet, önceki ayetin devamıdır; 'beşinci' (خامسة) kelimesi dört yeminin ardından gelen beşinci beyanı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَٱلْخَٰمِسَةُ",
+   "okunus": "vel hâmisetü",
+   "kok": "خمس",
+   "kokAnlam": "beş sayısı",
+   "karsilik": "beşincisi"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz ki",
+   "karsilik": "şüphesiz ki"
+  },
+  {
+   "kelime": "لَعْنَتَ",
+   "okunus": "la'nete",
+   "kok": "لعن",
+   "kokAnlam": "uzaklaştırma, lanetleme",
+   "karsilik": "laneti"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "kendi üzerine"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "var olma, olma",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْكَٰذِبِينَ",
+   "okunus": "elkâzibîne",
+   "kok": "كذب",
+   "kokAnlam": "yalan söyleme",
+   "karsilik": "yalancılar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayette başlayan dört yeminlik sürece beşinci bir beyan ekler: koca, eğer yalan söylüyorsa Allah'ın lanetinin üzerine olmasını kabul eder. Bu, yeminin ağırlığını artıran son bir tekiddir.",
+  "Bu beşinci beyan, sürecin sadece sözlü bir iddia olmadığını, kişinin kendi üzerine ağır bir sonucu davet ederek konuştuğunu gösterir. Sonraki ayette aynı yapı kadın tarafı için tekrarlanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "24:9",
+   "meal": "Kadının beşincisi de, eğer kocası doğrulardan ise Allah'ın gazabının kendi üzerine olmasıdır.",
+   "baglanti": "24:7'nin kadın tarafındaki karşılığıdır; aynı yapı iki taraf için de simetrik şekilde kurulur."
+  },
+  {
+   "ref": "3:61",
+   "meal": "...sonra dua edelim de Allah'ın lanetini yalancıların üzerine kılalım.",
+   "baglanti": "Mübahele ayeti olarak bilinen bu ayette de, taraflardan yalan söyleyenin üzerine Allah'ın lanetini davet etme yöntemi görülür; 24:7'deki yeminin mantığına benzer."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir önceki ayetteki liân sürecinin tamamlayıcı bir parçasıdır.",
+  "Genel ders, yalan söylemenin sadece insanlar karşısında değil Allah katında da ağır bir sorumluluk olduğudur. Kimse görmese bile Allah'ın bildiği gerçeği unutmamak, konuşurken dürüst kalmayı kolaylaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünde dürüst kal",
+   "aciklama": "Bugün kimsenin bilmediği bir konuda bile doğruyu söylemeyi seç."
+  },
+  {
+   "baslik": "Yalanı büyütme",
+   "aciklama": "Küçük bir yalanı örtmek için yeni bir yalan söylemekten bugün kaçın."
+  },
+  {
+   "baslik": "Görülmesem de doğruyum de",
+   "aciklama": "Kimse seni denetlemese bile, bugün bir kararını dürüstçe ver."
+  }
+ ],
+ "bugununAdimi": "Bugün, kimsenin bilmeyeceği küçük bir konuda bile doğruyu söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/24/7"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "sure": 24,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "(Bu,) indirdiğimiz ve [hükümlerini] farz kıldığımız bir suredir. İçinde, düşünüp öğüt alasınız diye apaçık ayetler indirdik.",
+ "mealNotu": "'Sûre' kökü سور, çevrili/sınırlı bir bölüm anlamına gelir; burada surenin kendisine işaret eder. 'Farz kıldık' (فرض) kesin olarak belirlemeyi anlatır, köşeli parantezdeki '[hükümlerini]' bu belirlemenin neye dair olduğunu netleştirir. 'Tezekkür' kökü ذكر, hatırlama ve öğüt almayı birlikte taşır.",
+ "kokler": [
+  {
+   "kelime": "سُورَةٌ",
+   "okunus": "sûratün",
+   "kok": "سور",
+   "kokAnlam": "sınırlı bölge, çevrili bölüm; sure",
+   "karsilik": "sure"
+  },
+  {
+   "kelime": "أَنزَلْنَٰهَا",
+   "okunus": "enzelnâhâ",
+   "kok": "نزل",
+   "kokAnlam": "inme, indirme",
+   "karsilik": "onu indirdik"
+  },
+  {
+   "kelime": "وَفَرَضْنَٰهَا",
+   "okunus": "ve feradnâhâ",
+   "kok": "فرض",
+   "kokAnlam": "kesin olarak belirleme, farz kılma",
+   "karsilik": "ve onu farz kıldık"
+  },
+  {
+   "kelime": "وَأَنزَلْنَا",
+   "okunus": "ve enzelnâ",
+   "kok": "نزل",
+   "kokAnlam": "inme, indirme",
+   "karsilik": "ve indirdik"
+  },
+  {
+   "kelime": "فِيهَآ",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ءَايَٰتٍۭ",
+   "okunus": "âyâtim",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil; ayet",
+   "karsilik": "ayetler"
+  },
+  {
+   "kelime": "بَيِّنَٰتٍ",
+   "okunus": "beyyinâtin",
+   "kok": "بين",
+   "kokAnlam": "açıklık, ayırt edicilik",
+   "karsilik": "apaçık"
+  },
+  {
+   "kelime": "لَّعَلَّكُمْ",
+   "okunus": "lealleküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) umulur ki",
+   "karsilik": "umulur ki siz"
+  },
+  {
+   "kelime": "تَذَكَّرُونَ",
+   "okunus": "tezekkerûne",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama, öğüt alma",
+   "karsilik": "düşünüp öğüt alırsınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Nur suresinin girişidir ve surenin niteliğini tanımlar: Allah tarafından indirilmiş, hükümleri kesin olarak belirlenmiş (farz kılınmış) bir suredir. 'Feradnâhâ' fiili, surede gelecek hükümlerin bağlayıcı olduğunu, seçime bırakılmadığını gösterir. Sonraki ayetlerde bu hükümlerin bir kısmı -zina ve iftira cezaları gibi- ayrıntılı biçimde gelir.",
+  "'Apaçık ayetler' ifadesi, gelecek hükümlerin kapalı veya yoruma açık olmadığını, açık bir dille bildirildiğini vurgular. Amaç ise 'tezekkür' yani insanların bu ayetleri düşünüp öğüt almasıdır; bilgi sadece bilgi olarak kalmaz, davranışa dönüşmesi beklenir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "38:29",
+   "meal": "(Bu Kur'an,) ayetlerini düşünsünler ve akıl sahipleri öğüt alsınlar diye sana indirdiğimiz mübarek bir kitaptır.",
+   "baglanti": "Nur suresinin girişindeki 'öğüt alasınız diye' ifadesiyle aynı amacı, Kur'an'ın genel bir ilkesi olarak tekrarlar."
+  },
+  {
+   "ref": "33:38",
+   "meal": "Allah'ın kendisine farz kıldığı bir şeyde Peygamber'e bir güçlük yoktur.",
+   "baglanti": "Aynı 'farz kılma' (فرض) kökü burada Peygamber'e verilen bir hüküm için kullanılır; Nur suresindeki 'farz kıldık' ifadesiyle aynı köktendir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, gelecek surenin bir hükümler suresi olduğunun ilanıdır; bu, kişisel bir tavsiye değil surenin kendi tanıtımıdır.",
+  "Bugüne taşınabilecek ders, bir hükmü sadece duyup geçmek değil, üzerinde düşünüp hayata geçirmektir. Bir kuralı öğrendiğinde 'bu neden böyle' diye durup düşünmek, onu unutmaktan çok daha kalıcı bir öğrenme sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ayeti durup düşün",
+   "aciklama": "Bugün okuduğun bir ayeti hızlıca geçme; anlamı üzerinde birkaç dakika dur."
+  },
+  {
+   "baslik": "Öğrendiğini yaz",
+   "aciklama": "Bugün öğrendiğin bir dini bilgiyi tek cümleyle not al, böylece unutmazsın."
+  },
+  {
+   "baslik": "Kalıcı bir alışkanlık seç",
+   "aciklama": "Bu ayetin 'öğüt alma' çağrısını, bugün küçük bir davranış değişikliğine dönüştür."
+  }
+ ],
+ "bugununAdimi": "Bugün okuduğun bir ayeti akşam tekrar hatırla ve ondan çıkardığın bir dersi kaydet.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/24/1"
+  }
+ ]
+}

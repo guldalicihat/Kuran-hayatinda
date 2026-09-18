@@ -1,0 +1,600 @@
+{
+ "sure": 24,
+ "ayet": 31,
+ "durum": "taslak",
+ "meal": "Mümin kadınlara da söyle: gözlerini [haramdan] sakınsınlar, ırzlarını korusunlar; ziynetlerini, kendiliğinden görünen dışında, açığa vurmasınlar. Baş örtülerini yakalarının üzerine salsınlar. Ziynetlerini, kocalarından, babalarından, kocalarının babalarından, oğullarından, kocalarının oğullarından, kardeşlerinden, kardeşlerinin oğullarından, kız kardeşlerinin oğullarından, kendi kadınlarından, ellerinin altında bulunanlardan, cinsel isteği olmayan hizmetçi erkeklerden veya kadınların mahrem yerlerinin henüz farkında olmayan çocuklardan başkasına göstermesinler. Gizledikleri ziynetleri bilinsin diye ayaklarını yere vurmasınlar. Ey müminler, hep birlikte Allah'a tövbe edin ki kurtuluşa eresiniz.",
+ "mealNotu": "Ayet çok sayıda mahrem kişiyi tek tek sayar; meal bu listeyi kelimelere sadık kalarak vermiştir. 'Hımâr' خمر kökü örtme/başörtüsü, 'cüyûb' جيب kökü yaka/göğüs açıklığı anlamındadır. 'Ellerinin altında bulunanlar' ifadesi ملك kökünden 'sahip olunan' (dönemin köle/cariye kurumuna işaret eden) bir ifadedir, ayetin kendi diliyle aktarılmıştır. '[Haramdan]' köşeli parantezle eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَقُل",
+   "okunus": "ve kul",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "ve söyle"
+  },
+  {
+   "kelime": "لِّلْمُؤْمِنَٰتِ",
+   "okunus": "lilmü'minâti",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; iman eden",
+   "karsilik": "mümin kadınlara"
+  },
+  {
+   "kelime": "يَغْضُضْنَ",
+   "okunus": "yağdudne",
+   "kok": "غضض",
+   "kokAnlam": "kısma, indirme (bakışı)",
+   "karsilik": "sakınsınlar"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَبْصَٰرِهِنَّ",
+   "okunus": "ebsârihinne",
+   "kok": "بصر",
+   "kokAnlam": "görme, göz",
+   "karsilik": "gözlerini"
+  },
+  {
+   "kelime": "وَيَحْفَظْنَ",
+   "okunus": "ve yahfazne",
+   "kok": "حفظ",
+   "kokAnlam": "koruma, saklama",
+   "karsilik": "ve korusunlar"
+  },
+  {
+   "kelime": "فُرُوجَهُنَّ",
+   "okunus": "fürûcehünne",
+   "kok": "فرج",
+   "kokAnlam": "mahrem bölge, ırz",
+   "karsilik": "ırzlarını"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يُبْدِينَ",
+   "okunus": "yübdîne",
+   "kok": "بدو",
+   "kokAnlam": "açığa çıkma, gösterme",
+   "karsilik": "açığa vurmasınlar"
+  },
+  {
+   "kelime": "زِينَتِهِنَّ",
+   "okunus": "zînetehünne",
+   "kok": "زين",
+   "kokAnlam": "süs, ziynet",
+   "karsilik": "ziynetlerini"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) -den başka",
+   "karsilik": "-den başka"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "ظَهَرَ",
+   "okunus": "zahera",
+   "kok": "ظهر",
+   "kokAnlam": "açığa çıkma, görünme",
+   "karsilik": "görünen"
+  },
+  {
+   "kelime": "مِنْهَا",
+   "okunus": "minhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ondan",
+   "karsilik": "kendiliğinden"
+  },
+  {
+   "kelime": "وَلْيَضْرِبْنَ",
+   "okunus": "ve lyadribne",
+   "kok": "ضرب",
+   "kokAnlam": "vurma, örtme (örtüyü çekmek)",
+   "karsilik": "ve salsınlar"
+  },
+  {
+   "kelime": "بِخُمُرِهِنَّ",
+   "okunus": "bihumürihinne",
+   "kok": "خمر",
+   "kokAnlam": "örtme, başörtüsü",
+   "karsilik": "baş örtülerini"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "جُيُوبِهِنَّ",
+   "okunus": "cüyûbihinne",
+   "kok": "جيب",
+   "kokAnlam": "yaka, göğüs açıklığı",
+   "karsilik": "yakalarının"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يُبْدِينَ",
+   "okunus": "yübdîne",
+   "kok": "بدو",
+   "kokAnlam": "açığa çıkma, gösterme",
+   "karsilik": "göstermesinler"
+  },
+  {
+   "kelime": "زِينَتِهِنَّ",
+   "okunus": "zînetehünne",
+   "kok": "زين",
+   "kokAnlam": "süs, ziynet",
+   "karsilik": "ziynetlerini"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) -den başka",
+   "karsilik": "-den başka"
+  },
+  {
+   "kelime": "لِبُعُولَتِهِنَّ",
+   "okunus": "libüûletihinne",
+   "kok": "بعل",
+   "kokAnlam": "koca, sahip",
+   "karsilik": "kocalarından"
+  },
+  {
+   "kelime": "أَوِ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "ءَابَآئِهِنَّ",
+   "okunus": "âbâihinne",
+   "kok": "أبو",
+   "kokAnlam": "baba",
+   "karsilik": "babalarından"
+  },
+  {
+   "kelime": "أَوِ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "ءَابَآءِ",
+   "okunus": "âbâi",
+   "kok": "أبو",
+   "kokAnlam": "baba",
+   "karsilik": "babalarından"
+  },
+  {
+   "kelime": "بُعُولَتِهِنَّ",
+   "okunus": "büûletihinne",
+   "kok": "بعل",
+   "kokAnlam": "koca, sahip",
+   "karsilik": "kocalarının"
+  },
+  {
+   "kelime": "أَوِ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "أَبْنَآئِهِنَّ",
+   "okunus": "ebnâihinne",
+   "kok": "بني",
+   "kokAnlam": "oğul; inşa etme",
+   "karsilik": "oğullarından"
+  },
+  {
+   "kelime": "أَوِ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "أَبْنَآءِ",
+   "okunus": "ebnâi",
+   "kok": "بني",
+   "kokAnlam": "oğul; inşa etme",
+   "karsilik": "oğullarından"
+  },
+  {
+   "kelime": "بُعُولَتِهِنَّ",
+   "okunus": "büûletihinne",
+   "kok": "بعل",
+   "kokAnlam": "koca, sahip",
+   "karsilik": "kocalarının"
+  },
+  {
+   "kelime": "أَوِ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "إِخْوَٰنِهِنَّ",
+   "okunus": "ihvânihinne",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "kardeşlerinden"
+  },
+  {
+   "kelime": "أَوِ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "بَنِىٓ",
+   "okunus": "benî",
+   "kok": "بني",
+   "kokAnlam": "oğul; inşa etme",
+   "karsilik": "oğullarından"
+  },
+  {
+   "kelime": "إِخْوَٰنِهِنَّ",
+   "okunus": "ihvânihinne",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "kardeşlerinin"
+  },
+  {
+   "kelime": "أَوِ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "بَنِىٓ",
+   "okunus": "benî",
+   "kok": "بني",
+   "kokAnlam": "oğul; inşa etme",
+   "karsilik": "oğullarından"
+  },
+  {
+   "kelime": "أَخَوَٰتِهِنَّ",
+   "okunus": "ehavâtihinne",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "kız kardeşlerinin"
+  },
+  {
+   "kelime": "أَوِ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "نِسَآئِهِنَّ",
+   "okunus": "nisâihinne",
+   "kok": "نسو",
+   "kokAnlam": "kadınlar",
+   "karsilik": "kendi kadınlarından"
+  },
+  {
+   "kelime": "أَوِ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "kimselerden"
+  },
+  {
+   "kelime": "مَلَكَتْ",
+   "okunus": "meleket",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, mülk edinme",
+   "karsilik": "sahip olduğu"
+  },
+  {
+   "kelime": "أَيْمَٰنُهُنَّ",
+   "okunus": "eymânühünne",
+   "kok": "يمن",
+   "kokAnlam": "sağ el, yemin, mülkiyet",
+   "karsilik": "ellerinin altında bulunan"
+  },
+  {
+   "kelime": "أَوِ",
+   "okunus": "evi",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "ٱلتَّٰبِعِينَ",
+   "okunus": "ettâbiîne",
+   "kok": "تبع",
+   "kokAnlam": "izleme, tabi olma",
+   "karsilik": "hizmetçilerden"
+  },
+  {
+   "kelime": "غَيْرِ",
+   "okunus": "gayri",
+   "kok": "غير",
+   "kokAnlam": "başkalık, değişiklik",
+   "karsilik": "olmayan"
+  },
+  {
+   "kelime": "أُو۟لِى",
+   "okunus": "ülî",
+   "kok": "—",
+   "kokAnlam": "sahip olan",
+   "karsilik": "sahibi"
+  },
+  {
+   "kelime": "ٱلْإِرْبَةِ",
+   "okunus": "el'irbeti",
+   "kok": "أرب",
+   "kokAnlam": "istek, cinsel arzu",
+   "karsilik": "cinsel isteği"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلرِّجَالِ",
+   "okunus": "erricâli",
+   "kok": "رجل",
+   "kokAnlam": "erkek",
+   "karsilik": "erkeklerden"
+  },
+  {
+   "kelime": "أَوِ",
+   "okunus": "evi",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "ٱلطِّفْلِ",
+   "okunus": "ettıfli",
+   "kok": "طفل",
+   "kokAnlam": "çocukluk",
+   "karsilik": "çocuklardan"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "يَظْهَرُوا۟",
+   "okunus": "yazherû",
+   "kok": "ظهر",
+   "kokAnlam": "açığa çıkma, görünme",
+   "karsilik": "henüz farkında"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "عَوْرَٰتِ",
+   "okunus": "avrâti",
+   "kok": "عور",
+   "kokAnlam": "mahrem yer, açık nokta",
+   "karsilik": "mahrem yerlerinin"
+  },
+  {
+   "kelime": "ٱلنِّسَآءِ",
+   "okunus": "ennisâi",
+   "kok": "نسو",
+   "kokAnlam": "kadınlar",
+   "karsilik": "kadınların"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يَضْرِبْنَ",
+   "okunus": "yadribne",
+   "kok": "ضرب",
+   "kokAnlam": "vurma, örtme (örtüyü çekmek)",
+   "karsilik": "vurmasınlar"
+  },
+  {
+   "kelime": "بِأَرْجُلِهِنَّ",
+   "okunus": "biercülihinne",
+   "kok": "رجل",
+   "kokAnlam": "ayak",
+   "karsilik": "ayaklarını"
+  },
+  {
+   "kelime": "لِيُعْلَمَ",
+   "okunus": "liyü'leme",
+   "kok": "علم",
+   "kokAnlam": "bilgi, bilme",
+   "karsilik": "bilinsin diye"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "ziynetleri"
+  },
+  {
+   "kelime": "يُخْفِينَ",
+   "okunus": "yühfîne",
+   "kok": "خفي",
+   "kokAnlam": "gizleme, saklı olma",
+   "karsilik": "gizledikleri"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "زِينَتِهِنَّ",
+   "okunus": "zînetihinne",
+   "kok": "زين",
+   "kokAnlam": "süs, ziynet",
+   "karsilik": "ziynetlerinden"
+  },
+  {
+   "kelime": "وَتُوبُوٓا۟",
+   "okunus": "ve tûbû",
+   "kok": "توب",
+   "kokAnlam": "dönme, tövbe etme",
+   "karsilik": "ve tövbe edin"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "جَمِيعًا",
+   "okunus": "cemîan",
+   "kok": "جمع",
+   "kokAnlam": "toplanma, bir araya gelme",
+   "karsilik": "hep birlikte"
+  },
+  {
+   "kelime": "أَيُّهَ",
+   "okunus": "eyyühe",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنُونَ",
+   "okunus": "elmü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; iman eden",
+   "karsilik": "müminler"
+  },
+  {
+   "kelime": "لَعَلَّكُمْ",
+   "okunus": "lealleküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) umulur ki",
+   "karsilik": "umulur ki siz"
+  },
+  {
+   "kelime": "تُفْلِحُونَ",
+   "okunus": "tüflihûne",
+   "kok": "فلح",
+   "kokAnlam": "kurtuluşa erme, felah bulma",
+   "karsilik": "kurtuluşa erersiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki bakış ve iffet emrini mümin kadınlar için tekrarlar ve ayrıca ziynetin kimlere gösterilebileceğini ayrıntılı bir liste ile bildirir. Bu liste; koca, yakın akraba (baba, kayınpeder, oğul, kardeş, yeğen gibi), kadınlar, hizmetli konumundakiler ve henüz mahremiyet farkında olmayan çocuklardan oluşur. Baş örtüsünün yaka üzerine salınması emri de bu bölümde geçer.",
+  "Ayetin sonundaki 'ayaklarını yere vurmasınlar' ifadesi, gizlenen bir ziynetin dikkat çekecek şekilde ortaya çıkarılmamasını ister; bu da ayetin genel amacının dikkat çekmeyi değil sakınmayı hedeflediğini gösterir. Ayet, tüm müminlere topluca tövbe çağrısıyla biter; bu, konunun bireysel bir kusurdan çok toplumsal bir bilinç meselesi olarak sunulduğunu ima eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "24:30",
+   "meal": "Mümin erkeklere söyle: gözlerini sakınsınlar ve ırzlarını korusunlar.",
+   "baglanti": "Bir önceki ayette erkekler için verilen bakış ve iffet emri, burada mümin kadınlar için ayrıntılandırılarak tekrarlanır."
+  },
+  {
+   "ref": "33:59",
+   "meal": "Ey Peygamber! Eşlerine, kızlarına ve mümin kadınlara söyle: örtülerini üstlerine salsınlar. Bu, onların tanınıp incitilmemeleri için daha uygundur.",
+   "baglanti": "Örtünme ile ilgili bir başka ayet olan bu ayet, benzer bir amaçla (tanınma ve saygı görme) örtünmeyi teşvik eder; 24:31'deki başörtüsü emrini tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, mümin kadınların iffet, örtünme ve ziynetin kime gösterilebileceğine dair bir hükümdür; bu, dönemin toplumsal yapısı içinde ayrıntılı bir mahremiyet çerçevesi çizer.",
+  "Genel olarak çıkarılabilecek ders, kişisel sınırların bilinçli belirlenmesi ve mahremiyetin güvenilir, yakın çevreyle sınırlı tutulmasıdır. Bu, sadece giyimle sınırlı değil, kiminle ne kadar paylaşım yapılacağına dair genel bir sınır bilincidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sınırlarını bilinçli belirle",
+   "aciklama": "Bugün kiminle ne kadar paylaşım yaptığını gözden geçir."
+  },
+  {
+   "baslik": "Dikkat çekmeyi amaçlama",
+   "aciklama": "Bugün bir davranışını, gereksiz dikkat çekmek için değil kendi huzurun için seç."
+  },
+  {
+   "baslik": "Güvenilir çevrende rahat ol",
+   "aciklama": "Bugün, güvendiğin yakın çevrende olduğun gibi rahat hissetmenin kıymetini bil."
+  }
+ ],
+ "bugununAdimi": "Bugün, kişisel sınırlarını kiminle nasıl paylaştığını bilinçli olarak gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=31"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/24/31"
+  }
+ ]
+}

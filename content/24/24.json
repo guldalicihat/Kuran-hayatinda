@@ -1,0 +1,117 @@
+{
+ "sure": 24,
+ "ayet": 24,
+ "durum": "taslak",
+ "meal": "O gün dilleri, elleri ve ayakları, yapmış oldukları şeylere karşı aleyhlerinde şahitlik edecektir.",
+ "mealNotu": "'Yevme' يوم kökü 'gün' anlamındadır, burada kıyamet gününe işaret eder.",
+ "kokler": [
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "تَشْهَدُ",
+   "okunus": "teşhedü",
+   "kok": "شهد",
+   "kokAnlam": "hazır bulunma, tanıklık etme",
+   "karsilik": "şahitlik edecektir"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) aleyhlerine",
+   "karsilik": "aleyhlerinde"
+  },
+  {
+   "kelime": "أَلْسِنَتُهُمْ",
+   "okunus": "elsinetühüm",
+   "kok": "لسن",
+   "kokAnlam": "dil, lisan",
+   "karsilik": "dilleri"
+  },
+  {
+   "kelime": "وَأَيْدِيهِمْ",
+   "okunus": "ve eydîhim",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "ve elleri"
+  },
+  {
+   "kelime": "وَأَرْجُلُهُم",
+   "okunus": "ve ercülühüm",
+   "kok": "رجل",
+   "kokAnlam": "ayak",
+   "karsilik": "ve ayakları"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeye",
+   "karsilik": "şeylere karşı"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "var olma, olma",
+   "karsilik": "olmuş oldukları"
+  },
+  {
+   "kelime": "يَعْمَلُونَ",
+   "okunus": "ya'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "yapmış"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki ahiret azabının nasıl gerçekleşeceğine dair bir detay verir: o gün kişinin kendi organları -dili, elleri, ayakları- aleyhine şahitlik edecektir. Bu, dünyada gizlenebilen bir günahın ahirette gizlenemeyeceğini gösterir.",
+  "İftira bağlamında bu ayet özellikle anlamlıdır: dil ile söylenen bir yalan, o gün yine dilin kendisi tarafından ifşa edilir. Ayet bir tasvirdir; ayrıntısına dair başka bir açıklama içermez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:65",
+   "meal": "O gün ağızlarını mühürleriz; elleri bize konuşur, ayakları da yaptıklarına şahitlik eder.",
+   "baglanti": "Neredeyse aynı sahneyi anlatan bu ayet, 24:24'teki organların şahitliğini daha ayrıntılı bir tasvirle destekler."
+  },
+  {
+   "ref": "41:20",
+   "meal": "Nihayet oraya geldiklerinde, kulakları, gözleri ve derileri, yapmakta olduklarına karşı aleyhlerinde şahitlik eder.",
+   "baglanti": "Organların şahitliği burada farklı organlarla anlatılır; aynı ahiret sahnesinin tamamlayıcı bir versiyonudur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ahiretteki bir hesap sahnesidir.",
+  "Bugüne taşınabilecek ders, hiçbir şeyin gerçekte gizli kalmadığı bilincidir. Kimse görmese de, söylediğin bir söz veya yaptığın bir davranış bir gün ortaya çıkacaktır; bu bilinç, davranışlarında dürüst olman için güçlü bir hatırlatıcıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gizli sandığını unutma",
+   "aciklama": "Bugün kimsenin görmediğini düşündüğün bir anda bile doğru davran."
+  },
+  {
+   "baslik": "Dilini koru",
+   "aciklama": "Bugün söyleyeceğin bir sözün, bir gün karşına çıkabileceğini düşünerek konuş."
+  },
+  {
+   "baslik": "Elini ayağını hesaba kat",
+   "aciklama": "Bugün yaptığın bir işi, sanki bir şahit izliyormuş gibi yap."
+  }
+ ],
+ "bugununAdimi": "Bugün, kimsenin görmediğini düşündüğün bir anda bile en doğru şekilde davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=24"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/24/24"
+  }
+ ]
+}

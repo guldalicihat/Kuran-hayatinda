@@ -1,0 +1,250 @@
+{
+ "sure": 24,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "O ağır iftirayı getirenler, sizden bir topluluktur. Bunu kendiniz için kötü sanmayın; aksine o sizin için bir hayırdır. Onlardan her kişiye kazandığı günah kadar [ceza] vardır. Onlardan bu günahın büyüğünü üstlenen kimseye de büyük bir azap vardır.",
+ "mealNotu": "'İfk' kökü أفك gerçeği çevirme, yalan/iftira anlamındadır; burada belirli bir olaya işaret eder ama ayet olayın ayrıntısını anlatmaz. 'Tevellâ kibrahû' ifadesi 'günahın büyük payını üstlenmek' şeklinde çevrilmiştir; 'kibr' كبر kökü büyüklük/büyük pay anlamındadır. 'Ceza' kelimesi köşeli parantezle eklenmiştir, çünkü Arapça cümlede fiilsiz bırakılmıştır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler ki",
+   "karsilik": "kimseler ki"
+  },
+  {
+   "kelime": "جَآءُو",
+   "okunus": "câû",
+   "kok": "جيأ",
+   "kokAnlam": "gelme, getirme",
+   "karsilik": "getirdiler"
+  },
+  {
+   "kelime": "بِٱلْإِفْكِ",
+   "okunus": "bil ifki",
+   "kok": "أفك",
+   "kokAnlam": "gerçeği çevirme, yalan, iftira",
+   "karsilik": "o ağır iftirayı"
+  },
+  {
+   "kelime": "عُصْبَةٌ",
+   "okunus": "usbetün",
+   "kok": "عصب",
+   "kokAnlam": "bağlanma, sıkı topluluk",
+   "karsilik": "bir topluluktur"
+  },
+  {
+   "kelime": "مِّنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "-mayın"
+  },
+  {
+   "kelime": "تَحْسَبُوهُ",
+   "okunus": "tahsebûhü",
+   "kok": "حسب",
+   "kokAnlam": "hesaplama, sanma",
+   "karsilik": "onu sanmayın"
+  },
+  {
+   "kelime": "شَرًّا",
+   "okunus": "şerran",
+   "kok": "شرر",
+   "kokAnlam": "kötülük, şer",
+   "karsilik": "kötü"
+  },
+  {
+   "kelime": "لَّكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizin için",
+   "karsilik": "kendiniz için"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) aksine, bilakis",
+   "karsilik": "aksine"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "خَيْرٌ",
+   "okunus": "hayrun",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "bir hayırdır"
+  },
+  {
+   "kelime": "لَّكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "لِكُلِّ",
+   "okunus": "likülli",
+   "kok": "كلل",
+   "kokAnlam": "bütünlük, her biri",
+   "karsilik": "her birine"
+  },
+  {
+   "kelime": "ٱمْرِئٍ",
+   "okunus": "imriin",
+   "kok": "مرأ",
+   "kokAnlam": "kişi, insan",
+   "karsilik": "kişiden"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne ise",
+   "karsilik": "kadar"
+  },
+  {
+   "kelime": "ٱكْتَسَبَ",
+   "okunus": "iktesebe",
+   "kok": "كسب",
+   "kokAnlam": "kazanma, elde etme",
+   "karsilik": "kazandığı günah"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْإِثْمِ",
+   "okunus": "el'ismi",
+   "kok": "أثم",
+   "kokAnlam": "günah, suç",
+   "karsilik": "günahtan"
+  },
+  {
+   "kelime": "وَٱلَّذِى",
+   "okunus": "vellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimse ki",
+   "karsilik": "ve kimse ki"
+  },
+  {
+   "kelime": "تَوَلَّىٰ",
+   "okunus": "tevellâ",
+   "kok": "ولي",
+   "kokAnlam": "üstlenme, yakınlık, veli olma",
+   "karsilik": "üstlendi"
+  },
+  {
+   "kelime": "كِبْرَهُۥ",
+   "okunus": "kibrahû",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük, büyük pay",
+   "karsilik": "onun büyüğünü"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onun için",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "عَذَابٌ",
+   "okunus": "azâbün",
+   "kok": "عذب",
+   "kokAnlam": "acı, azap",
+   "karsilik": "azap vardır"
+  },
+  {
+   "kelime": "عَظِيمٌ",
+   "okunus": "azîmün",
+   "kok": "عظم",
+   "kokAnlam": "büyüklük, azamet",
+   "karsilik": "büyük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, müminler arasında yayılan ağır bir iftira olayına değinir; olayın kendisi burada anlatılmaz, yalnız sonuçları ve tavır alınması gereken tutum bildirilir. 'Bunu kötü sanmayın, aksine hayırdır' ifadesi, böyle zor bir sınavın müminler için açığa çıkarıcı ve arındırıcı bir yönü olduğuna işaret eder.",
+  "Ayet, iftiraya katılanların hepsinin aynı derecede sorumlu olmadığını, herkesin kendi payına düşen günahla sorumlu tutulacağını, işin başını çekenin ise daha büyük bir azapla karşılaşacağını bildirir. Klasik tefsir bu olayın kim hakkında indiğini aktarır; ayetin kendisi isim vermez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:112",
+   "meal": "Kim bir hata veya günah işler de sonra bunu suçsuz birinin üzerine atarsa, gerçekten büyük bir iftira ve apaçık bir günah yüklenmiş olur.",
+   "baglanti": "İftiranın büyük bir günah olduğu ilkesi burada da tekrarlanır; 24:11'deki 'büyük azap' vurgusunu destekler."
+  },
+  {
+   "ref": "49:12",
+   "meal": "Ey iman edenler! Zannın çoğundan sakının; çünkü zannın bir kısmı günahtır. Birbirinizin kusurunu araştırmayın, kiminiz kiminizi arkasından çekiştirmesin.",
+   "baglanti": "İftiranın yayılmasında rol oynayan zan ve gıybeti yasaklayan bu ayet, 24:11'deki olayın önlenmesi gereken zeminine işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, müminler arasında yayılan asılsız bir iddiadır; ayet olayın tarihi ayrıntısını değil, ona nasıl tepki verilmesi gerektiğini öğretir.",
+  "Bugüne taşınabilecek ders, asılsız bir söylenti duyduğunda hemen inanıp yaymak yerine temkinli davranmaktır. Herkesin kendi payı kadar sorumlu tutulacağı ilkesi, bir söylentiye katılmanın da bir sorumluluk taşıdığını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Söylentiye hemen inanma",
+   "aciklama": "Bugün duyduğun bir iddiayı, doğrulamadan kesin bilgi gibi kabul etme."
+  },
+  {
+   "baslik": "Yaymadan önce düşün",
+   "aciklama": "Bir haberi paylaşmadan önce, bugün kaynağını ve doğruluğunu sorgula."
+  },
+  {
+   "baslik": "Payını üstlen",
+   "aciklama": "Bir dedikoduya katıldıysan, bugün bunun senin de bir sorumluluğun olduğunu kabul et."
+  }
+ ],
+ "bugununAdimi": "Bugün doğrulamadığın bir haberi veya söylentiyi kimseye aktarmayacaksın.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/24/11"
+  }
+ ]
+}
