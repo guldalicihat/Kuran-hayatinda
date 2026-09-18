@@ -113,12 +113,20 @@ export default function AyahPage() {
           <Section no="3." title="Kur'an'ı Kur'an'a sor">
             {content.kuraniKurana.map((r, i) => {
               const pr = parseRef(r.ref)
-              return (
-                <div key={i} className="rounded-xl p-3" style={{ background: 'var(--bg)' }}>
-                  <p className="font-medium">{pr ? <Link to={`/sure/${pr[0]}/${pr[1]}`} className="accent">{refName(r.ref)}</Link> : r.ref} — Meal:</p>
+              const body = (
+                <>
+                  <p className="font-medium flex items-center justify-between gap-2">
+                    <span className={pr ? 'accent' : undefined}>{refName(r.ref)} — Meal:</span>
+                    {pr && <span className="accent shrink-0">›</span>}
+                  </p>
                   <p className="mt-1">“{r.meal}”</p>
                   <p className="mt-1 muted"><span className="font-medium">Bağlantısı:</span> {r.baglanti}</p>
-                </div>
+                </>
+              )
+              return pr ? (
+                <Link key={i} to={`/sure/${pr[0]}/${pr[1]}`} className="block rounded-xl p-3 tap" style={{ background: 'var(--bg)' }}>{body}</Link>
+              ) : (
+                <div key={i} className="rounded-xl p-3" style={{ background: 'var(--bg)' }}>{body}</div>
               )
             })}
           </Section>
