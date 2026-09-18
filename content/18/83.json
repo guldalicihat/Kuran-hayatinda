@@ -1,0 +1,117 @@
+{
+ "sure": 18,
+ "ayet": 83,
+ "durum": "taslak",
+ "meal": "Sana Zülkarneyn'i sorarlar. De ki: Size ondan bir hatırlatma okuyacağım.",
+ "mealNotu": "'Zülkarneyn' tamlaması 'karn' kökünden gelir; kök hem 'boynuz' hem 'çağ/nesil' anlamı taşır, bu yüzden isim 'iki çağın/iki boynuzun sahibi' diye açılabilir; mealde özel isim olarak bırakılmıştır. Kimliği hakkında ayette bilgi verilmez; burada kesin bir tarihî kimlik iddia edilmemektedir.",
+ "kokler": [
+  {
+   "kelime": "وَيَسْـَٔلُونَكَ",
+   "okunus": "ve yes'elûneke",
+   "kok": "سأل",
+   "kokAnlam": "sorma",
+   "karsilik": "sana sorarlar"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "ذِى",
+   "okunus": "zî",
+   "kok": "—",
+   "kokAnlam": "(isim) sahibi",
+   "karsilik": "sahibi"
+  },
+  {
+   "kelime": "ٱلْقَرْنَيْنِ",
+   "okunus": "elkarneyni",
+   "kok": "قرن",
+   "kokAnlam": "boynuz; çağ, nesil",
+   "karsilik": "iki çağın (Zülkarneyn)"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "سَأَتْلُوا۟",
+   "okunus": "seetlû",
+   "kok": "تلو",
+   "kokAnlam": "okuma, aktarma, ardınca gelme",
+   "karsilik": "okuyacağım"
+  },
+  {
+   "kelime": "عَلَيْكُم",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "مِّنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "ذِكْرًا",
+   "okunus": "zikran",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlatma",
+   "karsilik": "bir hatırlatma"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayetle, Hızır ve Musa kıssasının (78-82) ardından yeni bir bölüm başlar: insanlar Zülkarneyn hakkında soru sorar, Peygambere ondan bir 'zikir' (hatırlatma/anlatı) okuması emredilir.",
+  "Zülkarneyn'in tarihte kim olduğu Kur'an'da açıkça belirtilmez; bu konuda çeşitli görüşler öne sürülmüştür ama ayetin kendisi bir tarihî kimlik vermez. Anlatının amacı bir tarih dersi değil, güç sahibi ve salih bir yöneticinin örnekliğidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "18:9",
+   "meal": "Yoksa sen, Ashab-ı Kehf ve Rakîm'in bizim ayetlerimizden şaşılacak bir şey olduğunu mu sandın?",
+   "baglanti": "Aynı surede geçen bu ayet gibi 83. ayet de, insanların merak ettiği olağanüstü bir kıssanın anlatılacağını bildirir."
+  },
+  {
+   "ref": "17:85",
+   "meal": "Sana ruh hakkında sorarlar. De ki: Ruh, Rabbimin emrindendir; size ancak az bir bilgi verilmiştir.",
+   "baglanti": "İki ayet de aynı 'sana sorarlar - de ki' kalıbını kullanır; sorulan konuda sınırlı ama yeterli bir cevap verilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu bir tarihî/kıssa anlatımına giriştir, güncel bir hüküm bildirmez.",
+  "Buradan çıkarılabilecek ders, merak edilen konularda bilgiye dayanan, ölçülü cevap vermektir; bilmediğimiz ayrıntıları uydurmadan, elimizdeki güvenilir bilgiyle yetinmek."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilmediğini uydurma",
+   "aciklama": "Bugün bir soruya cevap veremiyorsan, 'bilmiyorum' demekten çekinme."
+  },
+  {
+   "baslik": "Merakı doğru kaynağa yönlendir",
+   "aciklama": "Bir konuda merak ettiğin bir şeyi bugün güvenilir bir kaynaktan araştır."
+  },
+  {
+   "baslik": "Ölçülü anlat",
+   "aciklama": "Bugün bir konuyu anlatırken, bildiğinle bilmediğini birbirine karıştırma."
+  }
+ ],
+ "bugununAdimi": "Bugün cevabını bilmediğin bir soruda tahmini kesinmiş gibi sunmak yerine, 'emin değilim' demeye karar ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=83"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/18/83"
+  }
+ ]
+}

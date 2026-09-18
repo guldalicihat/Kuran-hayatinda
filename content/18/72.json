@@ -1,0 +1,110 @@
+{
+ "sure": 18,
+ "ayet": 72,
+ "durum": "taslak",
+ "meal": "Dedi ki: 'Sana, benimle beraber olmaya asla sabredemezsin, demedim mi?'",
+ "mealNotu": "Bu ayet 67. ayetin neredeyse aynı ifadesini tekrarlar; kök seçimleri de aynı şekilde korunmuştur.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil miydi",
+   "karsilik": "demedim mi"
+  },
+  {
+   "kelime": "أَقُلْ",
+   "okunus": "ekul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "demedim mi"
+  },
+  {
+   "kelime": "إِنَّكَ",
+   "okunus": "inneke",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz sen",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "لَن",
+   "okunus": "len",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) asla",
+   "karsilik": "asla"
+  },
+  {
+   "kelime": "تَسْتَطِيعَ",
+   "okunus": "testetîa",
+   "kok": "طوع",
+   "kokAnlam": "güç yetirme",
+   "karsilik": "güç yetiremezsin"
+  },
+  {
+   "kelime": "مَعِىَ",
+   "okunus": "meiye",
+   "kok": "—",
+   "kokAnlam": "(yer) benimle beraber",
+   "karsilik": "benimle beraber olmaya"
+  },
+  {
+   "kelime": "صَبْرًا",
+   "okunus": "sabran",
+   "kok": "صبر",
+   "kokAnlam": "sabır",
+   "karsilik": "sabretmeye"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kul, Musa'ya daha önce söylediği uyarıyı hatırlatır: 'Sana, benimle beraber olmaya sabredemezsin, demedim mi?' Bu, 67. ayetteki ilk uyarının, ilk zorlanmanın hemen ardından tekrarlanmasıdır.",
+  "Bu tekrar, sadece bir hatırlatma değil, aynı zamanda 70. ayetteki anlaşmanın da hatırlatılmasıdır; kul, Musa'yı suçlamadan, önceden söylenmiş bir gerçeği yeniden dile getirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "18:60",
+   "meal": "Hani Musa, gencine şöyle demişti: İki denizin birleştiği yere ulaşıncaya kadar durmayacağım.",
+   "baglanti": "Bu ayet, Kehf 72'de sabrı zorlanan Musa'nın başlangıçtaki kararlılığıyla tezat oluşturur; azimli çıkış ile karşılaşılan zorluk yan yana durur."
+  },
+  {
+   "ref": "3:186",
+   "meal": "Mallarınız ve canlarınızla mutlaka imtihan edileceksiniz... sabreder ve sakınırsanız, işte bu, azmi gerektiren işlerdendir.",
+   "baglanti": "Bu ayet, sabrın bir imtihan ve azim gerektiren bir konu olduğunu bildirir; Kehf 72'de Musa'nın sabrının test edildiği ana denk düşer."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, verilen bir sözün ilk kez zorlanmasının ardından yapılan sakin bir hatırlatmadır; bu, kıssanın akışına özgü bir andır.",
+  "Bugüne taşınabilecek ders, birinin sözünü tutamadığında onu küçük düşürmeden, sakin bir dille hatırlatmanın olgun bir tavır olduğudur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sakin hatırlat",
+   "aciklama": "Biri bir sözünü tutamadığında, onu kırmadan nazikçe hatırlat."
+  },
+  {
+   "baslik": "Suçlamadan konuş",
+   "aciklama": "Bugün bir hatayı, kişiyi suçlamadan dile getirmeyi dene."
+  },
+  {
+   "baslik": "Fırsat tanı",
+   "aciklama": "Sözünü tutamayan birine yeni bir fırsat ver."
+  }
+ ],
+ "bugununAdimi": "Bugün, sözünü tutamayan birini kırmadan nazikçe hatırlat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=72"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/18/72"
+  }
+ ]
+}

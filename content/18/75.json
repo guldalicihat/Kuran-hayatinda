@@ -1,0 +1,117 @@
+{
+ "sure": 18,
+ "ayet": 75,
+ "durum": "taslak",
+ "meal": "Dedi ki: 'Sana, benimle beraber olmaya asla sabredemezsin, demedim mi?'",
+ "mealNotu": "Bu ayet 67 ve 72. ayetlerin ifadesini üçüncü kez tekrarlar; kök seçimleri aynı şekilde korunmuştur.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil miydi",
+   "karsilik": "demedim mi"
+  },
+  {
+   "kelime": "أَقُل",
+   "okunus": "ekul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "demedim mi"
+  },
+  {
+   "kelime": "لَّكَ",
+   "okunus": "leke",
+   "kok": "—",
+   "kokAnlam": "(zamir) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "إِنَّكَ",
+   "okunus": "inneke",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz sen",
+   "karsilik": "sen"
+  },
+  {
+   "kelime": "لَن",
+   "okunus": "len",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) asla",
+   "karsilik": "asla"
+  },
+  {
+   "kelime": "تَسْتَطِيعَ",
+   "okunus": "testetîa",
+   "kok": "طوع",
+   "kokAnlam": "güç yetirme",
+   "karsilik": "güç yetiremezsin"
+  },
+  {
+   "kelime": "مَعِىَ",
+   "okunus": "meiye",
+   "kok": "—",
+   "kokAnlam": "(yer) benimle beraber",
+   "karsilik": "benimle beraber olmaya"
+  },
+  {
+   "kelime": "صَبْرًا",
+   "okunus": "sabran",
+   "kok": "صبر",
+   "kokAnlam": "sabır",
+   "karsilik": "sabretmeye"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kul, üçüncü kez aynı uyarıyı tekrarlar: 'Sana, benimle beraber olmaya sabredemezsin, demedim mi?' Bu, aynı cümlenin (67, 72, 75. ayetler) üçüncü tekrarıdır; ancak bu kez daha ağır bir olayın (bir çocuğun öldürülmesi) ardından gelir.",
+  "Bu tekrar, sabrın sınırının artık gerçekten zorlandığını, ilişkinin bir sonraki ayette (76) ayrılıkla noktalanacağını hazırlar; kul, hâlâ suçlamadan, sadece daha önce söylenmiş gerçeği yineler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "18:72",
+   "meal": "Dedi ki: Sana, benimle beraber olmaya asla sabredemezsin, demedim mi?",
+   "baglanti": "Bu ayet, Kehf 75'in bir önceki tekrarıdır; aynı cümle burada üçüncü kez, daha ağır bir olayın ardından söylenir."
+  },
+  {
+   "ref": "39:10",
+   "meal": "...sabredenlere ödülleri hesapsız ödenecektir.",
+   "baglanti": "Bu ayet sabrın büyük bir ödülü olduğunu bildirir; Kehf 75'te Musa'nın sabrının ikinci kez zorlanması, bu genel ilkeyle birlikte okunabilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, sabrın ikinci kez de zorlanmasının ardından yapılan bir hatırlatmadır; bu, kıssanın gerilimini artıran bir andır.",
+  "Bugüne taşınabilecek ders, bir uyarının tekrar tekrar gerçekleşmesi durumunda, ilişkinin sınırlarını yeniden gözden geçirmenin makul olduğudur; bu, hem kendine hem karşındakine karşı dürüst olmayı gerektirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sınırlarını gözden geçir",
+   "aciklama": "Tekrarlanan bir sorun varsa, bugün bu durumu yeniden değerlendir."
+  },
+  {
+   "baslik": "Sabrını koru",
+   "aciklama": "Zor bir anda bile, sakin bir dille konuşmaya devam et."
+  },
+  {
+   "baslik": "Dürüst kal",
+   "aciklama": "Bir durumun artık sürdürülemez olduğunu fark edersen bunu açıkça söyle."
+  }
+ ],
+ "bugununAdimi": "Bugün, tekrarlanan bir sorunla ilgili durumunu dürüstçe gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=75"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/18/75"
+  }
+ ]
+}
