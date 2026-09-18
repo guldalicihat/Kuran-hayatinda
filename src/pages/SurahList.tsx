@@ -9,7 +9,13 @@ import { useLastRead } from '../lib/store'
 
 function norm(s: string) { return s.toLocaleLowerCase('tr').replace(/[âîû']/g, c => ({ 'â': 'a', 'î': 'i', 'û': 'u', "'": '' }[c] ?? c)) }
 
-let savedScrollY = 0
+const SCROLL_KEY = 'kh:sure-list-scroll'
+function readScrollY(): number {
+  try { return Number(localStorage.getItem(SCROLL_KEY)) || 0 } catch { return 0 }
+}
+function writeScrollY(y: number) {
+  try { localStorage.setItem(SCROLL_KEY, String(y)) } catch { /* yoksay */ }
+}
 
 export default function SurahList() {
   const [chapters, setChapters] = useState<Chapter[]>([])
@@ -19,14 +25,14 @@ export default function SurahList() {
   const restored = useRef(false)
   useEffect(() => { loadChapters().then(setChapters) }, [])
   useEffect(() => {
-    const onScroll = () => { savedScrollY = window.scrollY }
+    const onScroll = () => { writeScrollY(window.scrollY) }
     window.addEventListener('scroll', onScroll, { passive: true })
     return () => window.removeEventListener('scroll', onScroll)
   }, [])
   useEffect(() => {
     if (!restored.current && chapters.length > 0) {
       restored.current = true
-      window.scrollTo(0, savedScrollY)
+      window.scrollTo(0, readScrollY())
     }
   }, [chapters])
   const list = useMemo(() => {
