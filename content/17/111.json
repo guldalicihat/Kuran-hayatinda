@@ -1,0 +1,201 @@
+{
+ "sure": 17,
+ "ayet": 111,
+ "durum": "taslak",
+ "meal": "De ki: Hamd, çocuk edinmeyen, mülkünde ortağı olmayan ve aczden dolayı bir yardımcıya da ihtiyacı bulunmayan Allah'a mahsustur. O'nu tekbir ile yücelt.",
+ "mealNotu": "Ayet, İsrâ suresini Allah'ın çocuktan, ortaktan ve aczden münezzeh olduğunu bildiren bir hamd ve tekbir çağrısıyla kapatır; itikadi ifade nötr ve saygılı bir dille aktarılmıştır.",
+ "kokler": [
+  {
+   "kelime": "وَقُلِ",
+   "okunus": "ve kuli",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "ve de ki"
+  },
+  {
+   "kelime": "ٱلْحَمْدُ",
+   "okunus": "elhamdü",
+   "kok": "حمد",
+   "kokAnlam": "övgü, şükür",
+   "karsilik": "hamd"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "ulûhiyet; Allah",
+   "karsilik": "Allah'a mahsustur"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) O ki",
+   "karsilik": "O ki"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "يَتَّخِذْ",
+   "okunus": "yettehız",
+   "kok": "أخذ",
+   "kokAnlam": "alma, edinme",
+   "karsilik": "edinmedi"
+  },
+  {
+   "kelime": "وَلَدًا",
+   "okunus": "veleden",
+   "kok": "ولد",
+   "kokAnlam": "doğurma, çocuk",
+   "karsilik": "çocuk"
+  },
+  {
+   "kelime": "وَلَمْ",
+   "okunus": "ve lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "ve -medi"
+  },
+  {
+   "kelime": "يَكُن",
+   "okunus": "yekün",
+   "kok": "كون",
+   "kokAnlam": "olma, var olma",
+   "karsilik": "olmadı"
+  },
+  {
+   "kelime": "لَّهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) O'nun",
+   "karsilik": "O'nun"
+  },
+  {
+   "kelime": "شَرِيكٌ",
+   "okunus": "şerîkün",
+   "kok": "شرك",
+   "kokAnlam": "ortaklık",
+   "karsilik": "ortağı"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْمُلْكِ",
+   "okunus": "elmülki",
+   "kok": "ملك",
+   "kokAnlam": "güç, mülk, egemenlik",
+   "karsilik": "mülkte"
+  },
+  {
+   "kelime": "وَلَمْ",
+   "okunus": "ve lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "ve -medi"
+  },
+  {
+   "kelime": "يَكُن",
+   "okunus": "yekün",
+   "kok": "كون",
+   "kokAnlam": "olma, var olma",
+   "karsilik": "olmadı"
+  },
+  {
+   "kelime": "لَّهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) O'nun",
+   "karsilik": "O'nun"
+  },
+  {
+   "kelime": "وَلِىٌّ",
+   "okunus": "veliyyün",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, dostluk, yardımcı",
+   "karsilik": "bir yardımcı"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلذُّلِّ",
+   "okunus": "ezzülli",
+   "kok": "ذلل",
+   "kokAnlam": "güçsüzlük, aciz",
+   "karsilik": "aczden"
+  },
+  {
+   "kelime": "وَكَبِّرْهُ",
+   "okunus": "ve kebbirhü",
+   "kok": "كبر",
+   "kokAnlam": "büyükleme, yüceltme",
+   "karsilik": "ve O'nu yücelt"
+  },
+  {
+   "kelime": "تَكْبِيرًۢا",
+   "okunus": "tekbîran",
+   "kok": "كبر",
+   "kokAnlam": "büyükleme, yüceltme",
+   "karsilik": "gereği gibi tekbir ile"
+  }
+ ],
+ "neAnlatiyor": [
+  "İsrâ suresinin bu son ayeti, önceki ayetteki (110) Allah'a hangi güzel isimle seslenilirse seslenilsin aynı zâta yönelindiği açıklamasının ardından, sureyi bir hamd ve tekbir çağrısıyla kapatır. Ayet, Allah'ın üç niteliğini birlikte anar: çocuk edinmemesi, mülkünde ortağı olmaması ve aczden dolayı bir yardımcıya muhtaç olmaması. Bu üç ifade, dönemin bazı inanışlarındaki yanlış tasavvurlara (melekleri veya başka varlıkları Allah'a ortak koşma, evlat nispet etme) itikadi bir cevap niteliği taşır.",
+  "'Zülü'l-min ezzülli' ifadesi, Allah'ın hiçbir eksiklik veya güçsüzlük sebebiyle bir yardımcıya ihtiyaç duymadığını anlatır. Ayetin son emri 'O'nu tekbir ile yücelt' (كبّره تكبيرا), sureyi bir eylem çağrısıyla, Allah'ın büyüklüğünü tanıma ve dile getirme çağrısıyla sonlandırır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "19:35",
+   "meal": "Allah'ın çocuk edinmesi düşünülemez; O bundan münezzehtir. Bir işe hükmettiğinde ona sadece 'ol' der, o da hemen oluverir.",
+   "baglanti": "Bu ayet de Allah'ın çocuk edinmekten münezzeh olduğunu anlatır; İsrâ 111'deki 'lem yettehız veleden' ifadesiyle aynı itikadi ilkeyi paylaşır."
+  },
+  {
+   "ref": "25:2",
+   "meal": "Göklerin ve yerin mülkü kendisinin olan, çocuk edinmeyen, mülkünde ortağı bulunmayan, her şeyi yaratıp bir ölçüyle takdir eden Allah, yücedir.",
+   "baglanti": "Bu ayet neredeyse aynı ifadelerle ('lem yettehız veleden... lem yekün lehû şerîkün fil mülk') İsrâ 111'in ilk iki niteliğini tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan itikadidir: Allah'ın çocuktan, ortaktan ve aczden münezzeh olduğu. Bu, günlük hayata birebir uygulanacak bir davranış kalıbı değil, bir inanç ilkesidir ve bu haliyle saygıyla ele alınmalıdır.",
+  "Ayetin son cümlesindeki 'O'nu yücelt' çağrısından çıkarılabilecek genel bir ders, hayatın başlangıcını ve sonunu bir övgü ve saygı ifadesiyle çerçevelemenin, insana bir denge ve huzur duygusu kazandırabileceğidir. Bir işi hamd ile başlatıp bitirmek, sahiplenme ve şükür duygusunu güçlendirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir işi şükürle bitir",
+   "aciklama": "Bugün tamamladığın bir işin ardından kısa bir şükür veya hamd cümlesi söyle."
+  },
+  {
+   "baslik": "Büyüklüğü hatırla",
+   "aciklama": "Günün bir anında, kendi gücünün sınırlı olduğunu hatırlayıp bir tevazu anı yaşa."
+  },
+  {
+   "baslik": "Günü hamd ile kapat",
+   "aciklama": "Akşam, günü değerlendirirken bir hamd/şükür cümlesiyle günü sonlandır."
+  }
+ ],
+ "bugununAdimi": "Bugünü, kısa bir şükür veya hamd cümlesiyle sonlandır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=111"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/17/111"
+  }
+ ]
+}

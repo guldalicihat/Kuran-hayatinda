@@ -1,0 +1,215 @@
+{
+ "sure": 17,
+ "ayet": 99,
+ "durum": "taslak",
+ "meal": "Gökleri ve yeri yaratan Allah'ın, onların benzerini yaratmaya gücünün yettiğini görmediler mi? O, onlar için kendisinde hiç şüphe olmayan bir süre koymuştur; yine de zalimler inkârdan başkasını kabul etmediler.",
+ "mealNotu": "Ayet, önceki ayetteki dirilme inkârına akli bir cevap sunar: ilk yaratan, yeniden yaratmaya elbette kadirdir.",
+ "kokler": [
+  {
+   "kelime": "أَوَلَمْ",
+   "okunus": "evelem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -madılar mı",
+   "karsilik": "-madılar mı"
+  },
+  {
+   "kelime": "يَرَوْا۟",
+   "okunus": "yerav",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görmediler mi"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ulûhiyet; Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki O",
+   "karsilik": "ki O"
+  },
+  {
+   "kelime": "خَلَقَ",
+   "okunus": "haleka",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yarattı"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "gökleri"
+  },
+  {
+   "kelime": "وَٱلْأَرْضَ",
+   "okunus": "vel erda",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yeri"
+  },
+  {
+   "kelime": "قَادِرٌ",
+   "okunus": "kâdirun",
+   "kok": "قدر",
+   "kokAnlam": "güç yetirme, takdir etme",
+   "karsilik": "gücü yetendir"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzere",
+   "karsilik": "üzere"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "يَخْلُقَ",
+   "okunus": "yahlüka",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yaratmaya"
+  },
+  {
+   "kelime": "مِثْلَهُمْ",
+   "okunus": "mislehüm",
+   "kok": "مثل",
+   "kokAnlam": "benzer, örnek",
+   "karsilik": "onların benzerini"
+  },
+  {
+   "kelime": "وَجَعَلَ",
+   "okunus": "ve ceale",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "ve koydu"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar için",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "أَجَلًا",
+   "okunus": "ecelen",
+   "kok": "أجل",
+   "kokAnlam": "süre, vade",
+   "karsilik": "bir süre"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "yok"
+  },
+  {
+   "kelime": "رَيْبَ",
+   "okunus": "raybe",
+   "kok": "ريب",
+   "kokAnlam": "şüphe, kuşku",
+   "karsilik": "şüphe"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat) onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "فَأَبَى",
+   "okunus": "feebâ",
+   "kok": "أبي",
+   "kokAnlam": "kaçınma, reddetme",
+   "karsilik": "yine de reddetti"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمُونَ",
+   "okunus": "ezzâlimûne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, zulüm",
+   "karsilik": "zalimler"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) sadece",
+   "karsilik": "sadece"
+  },
+  {
+   "kelime": "كُفُورًا",
+   "okunus": "küfûran",
+   "kok": "كفر",
+   "kokAnlam": "örtme, nankörlük, inkâr",
+   "karsilik": "inkârı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki (98) 'kemik ve toz olduktan sonra nasıl diriltileceğiz' itirazına akli bir cevap verir: gökleri ve yeri yoktan yaratan Allah'ın, insanı yeniden yaratmaya gücünün yetmemesi düşünülemez. Bu, ilk yaratmanın ikinci yaratmadan daha zor olduğu bir mantığa dayanır.",
+  "Ayet ayrıca herkes için belirlenmiş, şüphe götürmeyen bir 'ecel' (süre/vade) olduğunu hatırlatır. Buna rağmen zalimlerin inkârda direnmesi, ayetin sonunda üzülerek bildirilir; klasik tefsir bunu, akli delillerin bile bazı kimseleri ikna etmeye yetmediği bir inat hali olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:81",
+   "meal": "Gökleri ve yeri yaratan, onların benzerini yaratmaya kadir değil midir? Evet! O, en üstün yaratıcıdır, hakkıyla bilendir.",
+   "baglanti": "Bu ayet İsrâ 99 ile neredeyse aynı ifadeyi taşır; aynı akli delili tekrarlar."
+  },
+  {
+   "ref": "46:33",
+   "meal": "Gökleri ve yeri yaratan ve onları yaratmaktan yorulmayan Allah'ın, ölüleri diriltmeye gücünün yettiğini görmediler mi? Evet! Şüphesiz O her şeye kadirdir.",
+   "baglanti": "Bu ayet de aynı delili, gökleri-yeri yaratmanın ölüleri diriltmeye kadir olmayı gerektirdiğini, farklı bir üslupla sunar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu itikadi bir meseledir: yeniden diriliş inancının akli temeli. Bu doğrudan günlük bir eylem alanı değildir. Ancak ayetteki mantık -büyük bir işi yapabilenin küçüğünü de yapabileceği- günlük hayata da uyarlanabilir bir akıl yürütmedir.",
+  "Zor bir işi daha önce başarmış birinin, benzer ama daha küçük bir işi de başarabileceğine güvenmek makuldür. Bu ayet, geçmişteki büyük bir başarıyı unutup küçük bir şeyi imkânsız görmenin tutarsız bir tavır olduğunu dolaylı olarak hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geçmiş başarıyı hatırla",
+   "aciklama": "Bugün, daha önce başardığın zor bir işi hatırlayıp benzer bir zorluğa güvenle yaklaş."
+  },
+  {
+   "baslik": "Tutarlılığını gözden geçir",
+   "aciklama": "Büyük bir şeye inanıp küçük bir şeyi imkânsız gördüğün bir çelişkini fark et."
+  },
+  {
+   "baslik": "Süreye saygı göster",
+   "aciklama": "Zamanın sınırlı olduğunu hatırlayarak bugünü değerlendirmeye çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün daha önce başardığın zor bir işi hatırlayıp benzer bir zorluğa güvenle yaklaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=99"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/17/99"
+  }
+ ]
+}
