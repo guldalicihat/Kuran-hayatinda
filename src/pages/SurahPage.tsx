@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
-import { useLocation, useParams } from 'react-router-dom'
+import { Link, useLocation, useParams } from 'react-router-dom'
 import Header from '../components/Header'
 import FilterInput from '../components/FilterInput'
 import AyetCard from '../components/AyetCard'
@@ -14,6 +14,7 @@ export default function SurahPage() {
   const loc = useLocation()
   const [surah, setSurah] = useState<Surah | null>(null)
   const [ch, setCh] = useState<Chapter | undefined>()
+  const [chapters, setChapters] = useState<Chapter[]>([])
   const [meals, setMeals] = useState<MealMap>({})
   const [idx, setIdx] = useState<ContentIndex>({})
   const [q, setQ] = useState('')
@@ -21,7 +22,7 @@ export default function SurahPage() {
   useEffect(() => {
     setSurah(null)
     loadSurah(n).then(setSurah)
-    loadChapters().then(cs => setCh(cs.find(c => c.n === n)))
+    loadChapters().then(cs => { setChapters(cs); setCh(cs.find(c => c.n === n)) })
     loadMeals(n).then(setMeals)
     loadContentIndex().then(setIdx)
   }, [n])
@@ -39,6 +40,8 @@ export default function SurahPage() {
     return surah.ayetler.filter(a => !nq || String(a.n) === q.trim() || norm(a.okunus).includes(nq) || norm(meals[a.n] ?? '').includes(nq))
   }, [surah, q, meals])
   const has = new Set(idx[String(n)] ?? [])
+  const prevCh = n > 1 ? chapters.find(c => c.n === n - 1) : undefined
+  const nextCh = n < 114 ? chapters.find(c => c.n === n + 1) : undefined
   return (
     <div className="safe-bottom">
       <Header title={ch?.ad ?? '…'} back="/" backLabel="Sureler" />
@@ -54,6 +57,12 @@ export default function SurahPage() {
         <AyetCard key={a.n} sure={n} ayet={a} meal={meals[a.n]} hasContent={has.has(a.n)} />
       ))}
       {surah && items.length === 0 && <p className="p-6 text-center muted">Eşleşen ayet yok.</p>}
+      {surah && (prevCh || nextCh) && (
+        <div className="flex justify-between px-4 py-4">
+          {prevCh ? <Link to={`/sure/${prevCh.n}`} className="accent tap">‹ {prevCh.ad}</Link> : <span />}
+          {nextCh ? <Link to={`/sure/${nextCh.n}`} className="accent tap">{nextCh.ad} ›</Link> : <span />}
+        </div>
+      )}
     </div>
   )
 }
