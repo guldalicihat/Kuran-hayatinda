@@ -1,0 +1,159 @@
+{
+ "sure": 17,
+ "ayet": 68,
+ "durum": "taslak",
+ "meal": "Karanın bir tarafını sizinle birlikte yerin dibine geçirmesinden yahut üzerinize taş yağdıran bir kasırga göndermesinden güvende misiniz? Sonra kendinize bir vekil de bulamazsınız.",
+ "mealNotu": "'Yahsife' kökü yere batırma, gömme anlamındadır; 'hâsıb' taş/çakıl yağdıran şiddetli rüzgardır.",
+ "kokler": [
+  {
+   "kelime": "أَفَأَمِنتُمْ",
+   "okunus": "efeemintüm",
+   "kok": "أمن",
+   "kokAnlam": "güvende olma, emin olma",
+   "karsilik": "güvende misiniz"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesi",
+   "karsilik": "-mesinden"
+  },
+  {
+   "kelime": "يَخْسِفَ",
+   "okunus": "yahsife",
+   "kok": "خسف",
+   "kokAnlam": "yere batırma, gömme",
+   "karsilik": "yerin dibine geçirmesi"
+  },
+  {
+   "kelime": "بِكُمْ",
+   "okunus": "biküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizinle birlikte",
+   "karsilik": "sizinle birlikte"
+  },
+  {
+   "kelime": "جَانِبَ",
+   "okunus": "cânibe",
+   "kok": "جنب",
+   "kokAnlam": "taraf, yan",
+   "karsilik": "bir tarafını"
+  },
+  {
+   "kelime": "ٱلْبَرِّ",
+   "okunus": "elberri",
+   "kok": "برر",
+   "kokAnlam": "kara, kuru toprak",
+   "karsilik": "karanın"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "يُرْسِلَ",
+   "okunus": "yürsile",
+   "kok": "رسل",
+   "kokAnlam": "gönderme",
+   "karsilik": "göndermesi"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinize",
+   "karsilik": "üzerinize"
+  },
+  {
+   "kelime": "حَاصِبًا",
+   "okunus": "hâsıben",
+   "kok": "حصب",
+   "kokAnlam": "taş yağdıran şiddetli rüzgar",
+   "karsilik": "taş yağdıran bir kasırga"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ...maz",
+   "karsilik": "...maz"
+  },
+  {
+   "kelime": "تَجِدُوا۟",
+   "okunus": "tecidû",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulamazsınız"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) kendinize",
+   "karsilik": "kendinize"
+  },
+  {
+   "kelime": "وَكِيلًا",
+   "okunus": "vekîlen",
+   "kok": "وكل",
+   "kokAnlam": "vekil, güvenilen kişi",
+   "karsilik": "bir vekil de"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette denizden kurtulup karaya çıkan insanın nankörlüğünden söz edilmişti; bu ayet, karanın da güvenli bir sığınak olmadığını sorar biçiminde hatırlatır. 'Yahsife' kökü yere batırma anlamındadır; ayet, Allah'ın dilediğinde karayı da bir tehlike yeri kılabileceğini vurgular.",
+  "'Hâsıb' kökü taş yağdıran şiddetli rüzgarı anlatır; ayet bu iki olasılığı bir güvenlik sorgusu şeklinde sunar. Klasik tefsir bu ayeti, insanın Allah'ın gücü karşısında hiçbir zaman mutlak bir güvenlik içinde olmadığını hatırlatan bir uyarı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "67:16",
+   "meal": "Gökte olanın sizi yere batırmasından güvende misiniz? Bir de bakarsınız ki o (yer) sarsılıp çalkalanır.",
+   "baglanti": "Mülk suresindeki bu ayet, İsrâ 68'deki 'yerin dibine geçirme' tehlikesini aynı 'yahsife' kökü ve aynı soru kalıbıyla tekrarlar."
+  },
+  {
+   "ref": "29:40",
+   "meal": "Onların her birini kendi günahı sebebiyle yakaladık; kimine taş yağdıran bir kasırga gönderdik, kimini korkunç bir ses yakaladı, kimini yerin dibine geçirdik, kimini de suda boğduk; Allah onlara zulmetmiyordu, onlar kendilerine zulmediyorlardı.",
+   "baglanti": "Ankebût suresindeki bu ayet, İsrâ 68'de sorulan 'yere batırma' ve 'taş yağdıran kasırga' tehlikelerinin geçmiş kavimlerin başına gerçekten geldiğini örnekleriyle gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, doğal afetler karşısında insanın güvenliğinin göreceli olduğudur; özellikle deprem ve fırtına gibi olaylara işaret eder. Ders, güvenliği sağlamlık hissiyle karıştırmamak, tedbir almakla birlikte asıl güvenin Allah'a dayandığını unutmamaktır.",
+  "Günlük hayatta, sağlam bir binada ya da tanıdık bir yerde olmanın kişiyi her tehlikeden koruduğunu düşünmek yanıltıcı olabilir; bu ayet, tedbirle birlikte tevazuyu birleştirmeyi öğütler. Afet bölgelerinde yaşayanlar için bu ayet ayrıca hazırlıklı olma bilincini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Afetlere karşı hazırlıklı ol",
+   "aciklama": "Evinde temel bir acil durum çantası olup olmadığını bugün kontrol et."
+  },
+  {
+   "baslik": "Güveni tevazuyla birleştir",
+   "aciklama": "Kendini tamamen güvende hissettiğin bir konuda, bu güvenin sınırlı olduğunu hatırla."
+  },
+  {
+   "baslik": "Doğa olaylarını ibretle izle",
+   "aciklama": "Haberlerde bir doğal afet gördüğünde, sadece üzülmekle kalmayıp kendi tedbirlerini gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün evindeki afet güvenliğini (acil çıkış, temel malzemeler) bir kez gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=68"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/17/68"
+  }
+ ]
+}
