@@ -1,0 +1,110 @@
+{
+ "sure": 20,
+ "ayet": 70,
+ "durum": "taslak",
+ "meal": "Sihirbazlar hemen secdeye kapandılar. Dediler ki: Harun'un ve Musa'nın Rabbine iman ettik.",
+ "mealNotu": "'لقي' kökü burada atılma/kapanma anlamında secdeye geçişi anlatır; sihirbazların kendi kullandıkları 'atma' fiilinin imanla ters yönde tekrarlanması dikkat çekicidir.",
+ "kokler": [
+  {
+   "kelime": "فَأُلْقِىَ",
+   "okunus": "feülkıye",
+   "kok": "لقي",
+   "kokAnlam": "atılma, kapanma",
+   "karsilik": "hemen kapandılar"
+  },
+  {
+   "kelime": "ٱلسَّحَرَةُ",
+   "okunus": "esseharatü",
+   "kok": "سحر",
+   "kokAnlam": "sihir, büyü",
+   "karsilik": "sihirbazlar"
+  },
+  {
+   "kelime": "سُجَّدًا",
+   "okunus": "sücceden",
+   "kok": "سجد",
+   "kokAnlam": "secde etme",
+   "karsilik": "secdeye"
+  },
+  {
+   "kelime": "قَالُوٓا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "ءَامَنَّا",
+   "okunus": "âmennâ",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman ettik"
+  },
+  {
+   "kelime": "بِرَبِّ",
+   "okunus": "birabbi",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, Rablik",
+   "karsilik": "Rabbine"
+  },
+  {
+   "kelime": "هَٰرُونَ",
+   "okunus": "hârûne",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Harun",
+   "karsilik": "Harun'un"
+  },
+  {
+   "kelime": "وَمُوسَىٰ",
+   "okunus": "ve mûsâ",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Musa",
+   "karsilik": "ve Musa'nın"
+  }
+ ],
+ "neAnlatiyor": [
+  "Musa'nın asası, sihirbazların gösterdiği yanılsamayı yuttuğunda (69), sihir konusunda uzman olan bu kişiler gördüklerinin bir hile olamayacağını hemen anlarlar; kendi mesleklerinin sınırlarını bildikleri için gerçek bir mucizeyle karşılaştıklarını fark ederler ve derhal secdeye kapanıp iman ederler.",
+  "'Harun'un ve Musa'nın Rabbi' ifadesi, iman ettikleri gücün Musa'nın kişisel gücü değil, onun ve kardeşinin de bağlı olduğu Rab olduğunu netleştirir. Sonraki ayette (71) Firavun'un bu imana verdiği sert tepki anlatılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:46",
+   "meal": "Sihirbazlar secdeye kapandılar.",
+   "baglanti": "Şuarâ sûresindeki bu ayet, aynı kıssanın paralel anlatımında sihirbazların secdeye kapanma anını aynı şekilde aktarır."
+  },
+  {
+   "ref": "7:121",
+   "meal": "Dediler ki: Âlemlerin Rabbine iman ettik.",
+   "baglanti": "A'râf sûresindeki bu ayet, sihirbazların iman sözünü, kıssanın bir başka anlatımında benzer şekilde verir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, sihirbazların gerçek mucizeyi görünce derhal iman etmesidir.",
+  "Günlük hayata taşınabilecek ders, bir konuda uzman olan kişinin, kendi alanının sınırlarını en iyi bilenin de o kişi olduğu ve gerçek bir hakikatle karşılaştığında bunu kabul edecek dürüstlüğe sahip olması gerektiğidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gerçeği kabul et",
+   "aciklama": "Bugün önceki fikrinle çelişse bile, açıkça gördüğün bir gerçeği kabul etmekten çekinme."
+  },
+  {
+   "baslik": "Uzmanlığını dürüstçe kullan",
+   "aciklama": "Bugün bildiğin bir konuda, çıkarına aykırı olsa da doğruyu söyle."
+  },
+  {
+   "baslik": "Anında karar ver",
+   "aciklama": "Bugün doğru olduğuna kesin kanaat getirdiğin bir konuda ertelemeden adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün açıkça gördüğün bir gerçeği, önceki görüşünle çelişse bile kabul et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=70"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/70"
+  }
+ ]
+}

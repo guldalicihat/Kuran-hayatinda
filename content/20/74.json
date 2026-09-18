@@ -1,0 +1,145 @@
+{
+ "sure": 20,
+ "ayet": 74,
+ "durum": "taslak",
+ "meal": "Şüphesiz kim Rabbine suçlu olarak gelirse, onun için cehennem vardır; orada ne ölür ne de yaşar.",
+ "mealNotu": "'موت' ve 'حيي' köklerinin bir arada, olumsuz olarak kullanılması, ne ölümün rahatlığını ne yaşamın devamını bulamama halini anlatır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(şart) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "يَأْتِ",
+   "okunus": "ye'ti",
+   "kok": "أتي",
+   "kokAnlam": "gelme, verilme",
+   "karsilik": "gelirse"
+  },
+  {
+   "kelime": "رَبَّهُۥ",
+   "okunus": "rabbehû",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, Rablik",
+   "karsilik": "Rabbine"
+  },
+  {
+   "kelime": "مُجْرِمًا",
+   "okunus": "mücrimen",
+   "kok": "جرم",
+   "kokAnlam": "suç işleme",
+   "karsilik": "suçlu olarak"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) onun için",
+   "karsilik": "onun için vardır"
+  },
+  {
+   "kelime": "جَهَنَّمَ",
+   "okunus": "cehenneme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) cehennem",
+   "karsilik": "cehennem"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "يَمُوتُ",
+   "okunus": "yemûtü",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölür"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) orada",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "يَحْيَىٰ",
+   "okunus": "yahyâ",
+   "kok": "حيي",
+   "kokAnlam": "hayat, yaşam",
+   "karsilik": "yaşar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sihirbazların sözünden (73) sonra ayet, genel bir ilkeye geçer: Rabbine günahkâr/suçlu olarak gelenin akıbeti cehennemdir. 'مجرم' kökü, sadece hata değil bilinçli bir suç işleme halini anlatır.",
+  "'Ne ölür ne yaşar' ifadesi, azabın sürekliliğini, ne ölümle bitecek ne de normal bir hayata dönüşecek bir hal olduğunu vurgular; bu, sonraki ayette (75) anlatılacak mümin akıbetiyle tam bir tezat oluşturur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "87:13",
+   "meal": "Sonra orada ne ölür ne de yaşar.",
+   "baglanti": "A'lâ sûresindeki bu ayet, en büyük ateşe girecek kişinin haliyle ilgili neredeyse aynı ifadeyi kullanır."
+  },
+  {
+   "ref": "35:36",
+   "meal": "İnkâr edenler için cehennem ateşi vardır; ne ölümlerine hükmedilir ki ölsünler, ne de azapları hafifletilir.",
+   "baglanti": "Fâtır sûresindeki bu ayet, aynı temayı -ne ölüp kurtulma ne de rahatlama- farklı kelimelerle genişleterek anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, günahkâr olarak Rabbine gelen kişinin cehennemdeki sürekli ve rahatsız edici halidir.",
+  "Günlük hayata taşınabilecek ders, bir işin sonucundan kaçmanın mümkün olmadığı, bilinçli bir kötülüğün er ya da geç bir karşılığı olacağıdır. Bu farkındalık, kişiyi seçimlerinde sorumlu davranmaya teşvik eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sorumluluğunu üstlen",
+   "aciklama": "Bugün bilinçli olarak yaptığın bir yanlışın sonucundan kaçmak yerine onu üstlen."
+  },
+  {
+   "baslik": "Kaçışı hesaba katma",
+   "aciklama": "Bugün bir işin sonucunu görmezden gelerek rahatlamayı seçme."
+  },
+  {
+   "baslik": "Bilinçli seç",
+   "aciklama": "Bugün önemli bir kararında, bilerek yanlış yapmaktan kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün bilinçli olarak yaptığın bir yanlışın sonucundan kaçmadan onu üstlen.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=74"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/74"
+  }
+ ]
+}

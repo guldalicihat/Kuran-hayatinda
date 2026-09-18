@@ -1,0 +1,110 @@
+{
+ "sure": 20,
+ "ayet": 78,
+ "durum": "taslak",
+ "meal": "Firavun, ordularıyla onları takip etti; denizden onları kaplayan ne ise, kapladı.",
+ "mealNotu": "'غشو' fiilinin tekrarı ve 'مَا' ile belirsiz bırakılması, olayın dehşetini doğrudan tarif etmek yerine örtük bir sessizlikle anlatır.",
+ "kokler": [
+  {
+   "kelime": "فَأَتْبَعَهُمْ",
+   "okunus": "feetbeahüm",
+   "kok": "تبع",
+   "kokAnlam": "izleme, takip etme",
+   "karsilik": "onları takip etti"
+  },
+  {
+   "kelime": "فِرْعَوْنُ",
+   "okunus": "fir'avnü",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Firavun",
+   "karsilik": "Firavun"
+  },
+  {
+   "kelime": "بِجُنُودِهِۦ",
+   "okunus": "bicünûdihî",
+   "kok": "جند",
+   "kokAnlam": "ordu, asker",
+   "karsilik": "ordularıyla"
+  },
+  {
+   "kelime": "فَغَشِيَهُم",
+   "okunus": "feğaşiyehüm",
+   "kok": "غشو",
+   "kokAnlam": "kaplama, bürüme",
+   "karsilik": "onları kapladı"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْيَمِّ",
+   "okunus": "elyemmi",
+   "kok": "يمم",
+   "kokAnlam": "büyük deniz",
+   "karsilik": "denizden"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne ise",
+   "karsilik": "ne ise"
+  },
+  {
+   "kelime": "غَشِيَهُمْ",
+   "okunus": "gaşiyehüm",
+   "kok": "غشو",
+   "kokAnlam": "kaplama, bürüme",
+   "karsilik": "kapladı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Firavun, kaçan İsrailoğullarının peşine ordusuyla düşer; ama deniz, onları -tam olarak tarif edilmeyen bir şekilde- kaplar/kuşatır. 'مَا غَشِيَهُمْ' ifadesindeki belirsizlik, boğulma sahnesinin doğrudan tarif edilmek yerine örtük bırakıldığını gösterir.",
+  "Bu ayet, Musa'ya verilen 'yetişilmekten korkma' güvencesinin (77) gerçekleştiğini, Firavun'un gücünün deniz karşısında hiçbir işe yaramadığını anlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:90",
+   "meal": "İsrailoğullarını denizden geçirdik; Firavun ve askerleri zulüm ve düşmanlıkla peşlerine düştü, ta ki boğulma anı gelince...",
+   "baglanti": "Yûnus sûresindeki bu ayet, aynı kovalamaca sahnesini, Firavun'un boğulma anına kadar getirerek anlatır."
+  },
+  {
+   "ref": "44:24",
+   "meal": "Denizi durgun/açık bırak; çünkü onlar boğulacak bir ordudur.",
+   "baglanti": "Duhân sûresindeki bu ayet, Musa'ya denizle ilgili verilen bir başka talimatı aktararak, Firavun ordusunun akıbetinin önceden bildirildiğini gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Firavun'un ordusuyla İsrailoğullarını kovalarken denizde boğulmasıdır.",
+  "Günlük hayata taşınabilecek ders, gücünü ve sayısını haksız bir amaç için kullananın, sonunda o gücün kendisine fayda vermeyeceğidir. Zulüm, ne kadar güçlü görünürse görünsün kalıcı bir üstünlük sağlamaz."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gücünü doğru kullan",
+   "aciklama": "Bugün elindeki imkânı, haksız bir amaç için değil doğru bir amaç için kullan."
+  },
+  {
+   "baslik": "Israrı sorgula",
+   "aciklama": "Bugün yanlış olduğunu bildiğin bir yolda ısrar etmek yerine geri adım atmayı düşün."
+  },
+  {
+   "baslik": "Sonuca güven",
+   "aciklama": "Bugün haksızlığa uğradığın bir konuda, adaletin er ya da geç yerini bulacağına güven."
+  }
+ ],
+ "bugununAdimi": "Bugün elindeki bir gücü veya imkânı, adil ve doğru bir amaç için kullan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=78"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/78"
+  }
+ ]
+}

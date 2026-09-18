@@ -1,0 +1,89 @@
+{
+ "sure": 20,
+ "ayet": 79,
+ "durum": "taslak",
+ "meal": "Firavun, kavmini saptırdı; doğru yola iletmedi.",
+ "mealNotu": "'ضلل' ve 'هدي' kökleri zıt anlamlı bir çift oluşturur; ayet, Firavun'un iddia ettiği önderliğin tam tersi bir sonuç doğurduğunu vurgular.",
+ "kokler": [
+  {
+   "kelime": "وَأَضَلَّ",
+   "okunus": "ve edalle",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, saptırma",
+   "karsilik": "ve saptırdı"
+  },
+  {
+   "kelime": "فِرْعَوْنُ",
+   "okunus": "fir'avnü",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Firavun",
+   "karsilik": "Firavun"
+  },
+  {
+   "kelime": "قَوْمَهُۥ",
+   "okunus": "kavmehû",
+   "kok": "قوم",
+   "kokAnlam": "toplum, kavim",
+   "karsilik": "kavmini"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "هَدَىٰ",
+   "okunus": "hedâ",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme",
+   "karsilik": "doğru yola iletmedi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kısa ve keskin bir hüküm cümlesi: Firavun, kendini kavminin önderi/rehberi olarak görse de, onları gerçekte saptırmış, doğru yola iletmemiştir. Bu, boğulma sahnesinin (78) hemen ardından gelen bir değerlendirmedir.",
+  "Ayet, gücün ve iddianın kendiliğinden doğru yol göstermeye yetmediğini, sonucun -boğulma- bu yanlış önderliğin bir kanıtı olduğunu ima eder. Sonraki ayetlerde (80-82) anlatım İsrailoğullarına ve onlara verilen nimetlere döner."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:97",
+   "meal": "Firavun'un emrine uydular; oysa Firavun'un emri doğru/akıllıca değildi.",
+   "baglanti": "Hûd sûresindeki bu ayet, Firavun'un önderliğinin gerçekte doğru bir yol göstermediğini aynı olay bağlamında teyit eder."
+  },
+  {
+   "ref": "28:41",
+   "meal": "Onları ateşe çağıran önderler kıldık.",
+   "baglanti": "Kasas sûresindeki bu ayet, Firavun ve benzeri önderlerin akıbetini, kavimlerini saptırma sonucuyla birlikte anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Firavun'un kendini önder gösterirken aslında kavmini saptırmış olmasıdır.",
+  "Günlük hayata taşınabilecek ders, bir kişinin sözde otoritesinin veya iddiasının, onu gerçekten doğru bir rehber yapmadığıdır. Kimin peşinden gidildiği, o kişinin gerçekten nereye götürdüğüne bakılarak anlaşılır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Rehberini sorgula",
+   "aciklama": "Bugün fikrine veya yönlendirmesine güvendiğin birinin, seni gerçekten doğruya mı götürdüğünü düşün."
+  },
+  {
+   "baslik": "Söz ile eylemi kıyasla",
+   "aciklama": "Bugün birinin söylediğiyle yaptığı arasındaki tutarlılığa dikkat et."
+  },
+  {
+   "baslik": "Sorumlu önder ol",
+   "aciklama": "Bugün bir konuda yönlendirdiğin biri varsa, onu doğru bilgiyle yönlendirdiğinden emin ol."
+  }
+ ],
+ "bugununAdimi": "Bugün fikrine güvendiğin birinin seni gerçekten doğruya götürüp götürmediğini düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=79"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/79"
+  }
+ ]
+}
