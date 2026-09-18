@@ -1,0 +1,222 @@
+{
+ "sure": 18,
+ "ayet": 110,
+ "durum": "taslak",
+ "meal": "De ki: Ben de ancak sizin gibi bir beşerim; bana, ilahınızın tek bir ilah olduğu vahyediliyor. Kim Rabbine kavuşmayı umuyorsa, salih bir amel işlesin ve Rabbine kulluk ederken hiç kimseyi ortak koşmasın.",
+ "mealNotu": "'Beşer' (بشر) kelimesi Peygamber'in de insanlar gibi bir insan olduğunu, mucizevi bir ayrıcalığının olmadığını vurgular. 'Yüşrik' (شرك) ortak koşma kökünden gelir; ayet, kulluğun tek şart olarak şirksizliği gerektirdiğini belirtir.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "إِنَّمَآ",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak, sadece",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "أَنَا۠",
+   "okunus": "ene",
+   "kok": "—",
+   "kokAnlam": "(zamir) ben",
+   "karsilik": "ben"
+  },
+  {
+   "kelime": "بَشَرٌ",
+   "okunus": "beşerun",
+   "kok": "بشر",
+   "kokAnlam": "insan, beşer",
+   "karsilik": "bir beşerim"
+  },
+  {
+   "kelime": "مِّثْلُكُمْ",
+   "okunus": "mislüküm",
+   "kok": "مثل",
+   "kokAnlam": "benzer, misil",
+   "karsilik": "sizin gibi"
+  },
+  {
+   "kelime": "يُوحَىٰٓ",
+   "okunus": "yûhâ",
+   "kok": "وحي",
+   "kokAnlam": "vahyetme, gizli bildirme",
+   "karsilik": "vahyediliyor"
+  },
+  {
+   "kelime": "إِلَىَّ",
+   "okunus": "ileyye",
+   "kok": "—",
+   "kokAnlam": "(edat) bana",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "أَنَّمَآ",
+   "okunus": "ennemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten, ancak",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "إِلَٰهُكُمْ",
+   "okunus": "ilâhüküm",
+   "kok": "أله",
+   "kokAnlam": "ilah, tapılan",
+   "karsilik": "ilahınız"
+  },
+  {
+   "kelime": "إِلَٰهٌ",
+   "okunus": "ilâhün",
+   "kok": "أله",
+   "kokAnlam": "ilah, tapılan",
+   "karsilik": "bir ilahtır"
+  },
+  {
+   "kelime": "وَٰحِدٌ",
+   "okunus": "vâhidün",
+   "kok": "وحد",
+   "kokAnlam": "bir, tek olma",
+   "karsilik": "tek"
+  },
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(ilgi) artık kim",
+   "karsilik": "artık kim"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "يَرْجُوا۟",
+   "okunus": "yercû",
+   "kok": "رجو",
+   "kokAnlam": "umma, ümit etme",
+   "karsilik": "umuyorsa"
+  },
+  {
+   "kelime": "لِقَآءَ",
+   "okunus": "likâe",
+   "kok": "لقي",
+   "kokAnlam": "kavuşma, karşılaşma",
+   "karsilik": "kavuşmayı"
+  },
+  {
+   "kelime": "رَبِّهِۦٓ",
+   "okunus": "rabbihî",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, Rab",
+   "karsilik": "Rabbine"
+  },
+  {
+   "kelime": "فَلْيَعْمَلْ",
+   "okunus": "felya'mel",
+   "kok": "عمل",
+   "kokAnlam": "yapma, iş, amel",
+   "karsilik": "işlesin"
+  },
+  {
+   "kelime": "عَمَلًا",
+   "okunus": "amelen",
+   "kok": "عمل",
+   "kokAnlam": "yapma, iş, amel",
+   "karsilik": "bir amel"
+  },
+  {
+   "kelime": "صَٰلِحًا",
+   "okunus": "sâlihan",
+   "kok": "صلح",
+   "kokAnlam": "iyi olma, düzgün olma",
+   "karsilik": "salih"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...mesin",
+   "karsilik": "ve ...masın"
+  },
+  {
+   "kelime": "يُشْرِكْ",
+   "okunus": "yüşrik",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma, paylaşma",
+   "karsilik": "ortak koşmasın"
+  },
+  {
+   "kelime": "بِعِبَادَةِ",
+   "okunus": "biibâdeti",
+   "kok": "عبد",
+   "kokAnlam": "kulluk, kul olma",
+   "karsilik": "kulluğunda"
+  },
+  {
+   "kelime": "رَبِّهِۦٓ",
+   "okunus": "rabbihî",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, Rab",
+   "karsilik": "Rabbine"
+  },
+  {
+   "kelime": "أَحَدًۢا",
+   "okunus": "ehadem",
+   "kok": "أحد",
+   "kokAnlam": "bir, birlik, tek",
+   "karsilik": "hiç kimseyi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kehf suresinin bu son ayeti, Peygamber'e kendi konumunu açıkça tanımlamasını emreder: o da diğer insanlar gibi bir beşerdir, farkı yalnız kendisine vahiy gelmesidir. Bu, Peygamber'e olağanüstü, insanüstü bir güç atfedilmesini önler ve mesajın özünü -tek ilah inancı- öne çıkarır.",
+  "Ayet, kavuşma (ahiret) umudunu taşıyan herkes için iki şart sıralar: salih amel işlemek ve Rabbe kulluk ederken hiç kimseyi ortak koşmamak. Böylece sure, hem Ashab-ı Kehf hem Zülkarneyn kıssalarında işlenen tevhid temasını, sade ve doğrudan bir çağrıyla noktalar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "41:6",
+   "meal": "De ki: Ben de ancak sizin gibi bir beşerim; bana, ilahınızın tek bir ilah olduğu vahyediliyor; artık O'na yönelin ve O'ndan bağışlanma dileyin.",
+   "baglanti": "Neredeyse birebir aynı ifade burada da geçer; iki ayet birlikte, Peygamber'in beşer oluşu ile tevhid çağrısının Kur'an'ın genelinde tekrarlanan bir ilke olduğunu gösterir."
+  },
+  {
+   "ref": "4:48",
+   "meal": "Şüphesiz Allah, kendisine ortak koşulmasını bağışlamaz; bundan başkasını dilediği kimse için bağışlar.",
+   "baglanti": "Aynı شرك kökü burada da geçer; 110. ayetteki 'ortak koşmasın' emrinin ne kadar ciddi bir uyarı olduğunu pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in beşer oluşu, vahyin kaynağı ve kulluğun iki temel şartıdır: salih amel ve şirksizlik; bu doğrudan inanç ve ibadet alanıyla ilgilidir.",
+  "Buradan çıkan genel ders, büyük hedeflere -burada ahirete kavuşma umuduna- ulaşmanın hem doğru işi yapmayı hem de niyeti bölmemeyi gerektirdiğidir. Bir amacı gerçekten önemsiyorsak, ona hem emekle hem de saf bir niyetle yönelmemiz gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Niyetini sadeleştir",
+   "aciklama": "Bugün yaptığın bir işi, kimin beğenisi için değil neden yaptığını netleştirerek yap."
+  },
+  {
+   "baslik": "Salih bir amel seç",
+   "aciklama": "Bugün küçük ama gerçekten iyi olan bir işi eksiksiz tamamla."
+  },
+  {
+   "baslik": "Abartılı beklentiden kaçın",
+   "aciklama": "Bugün bir kişiden veya şeyden olağanüstü bir beklenti içine girmediğini kontrol et."
+  }
+ ],
+ "bugununAdimi": "Bugün yaptığın bir işte niyetini netleştir ve onu sade bir amaçla tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=110"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/18/110"
+  }
+ ]
+}
