@@ -1,0 +1,110 @@
+{
+ "sure": 23,
+ "ayet": 99,
+ "durum": "taslak",
+ "meal": "Nihayet onlardan birine ölüm geldiğinde, 'Rabbim! Beni geri döndür' der.",
+ "mealNotu": "'Urciûni' (رجع kökü) geri döndürme anlamındadır; ayet bu sözün kimin ağzından çıktığını genel bırakır.",
+ "kokler": [
+  {
+   "kelime": "حَتَّىٰٓ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "başlangıç, nihayet",
+   "karsilik": "nihayet"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "zaman edatı",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "جَآءَ",
+   "okunus": "câe",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "geldiğinde"
+  },
+  {
+   "kelime": "أَحَدَهُمُ",
+   "okunus": "ehadehümü",
+   "kok": "أحد",
+   "kokAnlam": "bir, tek",
+   "karsilik": "onlardan birine"
+  },
+  {
+   "kelime": "ٱلْمَوْتُ",
+   "okunus": "elmevtü",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölüm"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "der"
+  },
+  {
+   "kelime": "رَبِّ",
+   "okunus": "rabbi",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, rabb",
+   "karsilik": "Rabbim"
+  },
+  {
+   "kelime": "ٱرْجِعُونِ",
+   "okunus": "urciûni",
+   "kok": "رجع",
+   "kokAnlam": "geri döndürme",
+   "karsilik": "beni geri döndür"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetlerdeki tartışmadan sonra ölüm anına geçer. Ölüm birine geldiğinde, kişi 'Rabbim, beni geri döndür' diye seslenir.",
+  "'Urciûni' (رجع kökü) geri döndürme anlamındadır; bu, kişinin dünyaya dönme isteğini dile getiren bir yalvarıştır. Ayet, kimin bu sözü söylediğini genel bırakır, ek bir ayrıntı vermez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "63:10",
+   "meal": "Herhangi birinize ölüm gelip de 'Rabbim, beni yakın bir süreye kadar geciktirsen de sadaka versem ve salihlerden olsam' demeden önce, size verdiğimiz rızıktan harcayın.",
+   "baglanti": "Ölüm anındaki benzer bir geri bırakılma talebini aynı temayla anlatır."
+  },
+  {
+   "ref": "6:27",
+   "meal": "Ateşin karşısında durduruldukları zaman, 'Keşke dünyaya geri döndürülsek de Rabbimizin ayetlerini yalanlamasak ve müminlerden olsak' derler.",
+   "baglanti": "Benzer bir 'geri döndür' talebini farklı bir sahnede, ateşle karşılaşma anında tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, ölüm anında dile getirilen bir geri dönüş isteğidir.",
+  "Bu, dünyada fırsat varken iyi işler yapmanın, o an geldikten sonra ertelemenin bir anlamı kalmayacağının hatırlatıcısı olarak taşınabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Fırsatı erteleme",
+   "aciklama": "Yapmayı düşündüğün iyi bir işi, 'sonra yaparım' diyerek erteleme, bugün yap."
+  },
+  {
+   "baslik": "Zamanın kıymetini bil",
+   "aciklama": "Bugün elindeki vakti, geri gelmeyeceğini bilerek değerlendir."
+  },
+  {
+   "baslik": "Pişmanlığı önceden düşün",
+   "aciklama": "Bugün, ileride pişman olabileceğin bir ihmali şimdi gider."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir iyiliği, sonraya bırakmadan yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=99"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/99"
+  }
+ ]
+}

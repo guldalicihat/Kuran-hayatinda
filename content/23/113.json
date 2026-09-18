@@ -1,0 +1,110 @@
+{
+ "sure": 23,
+ "ayet": 113,
+ "durum": "taslak",
+ "meal": "Derler ki: 'Bir gün veya bir günün bir parçası kadar kaldık; sayanlara sor.'",
+ "mealNotu": "'Âddîn' (عدد kökü) sayanlar anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "لَبِثْنَا",
+   "okunus": "lebisnâ",
+   "kok": "لبث",
+   "kokAnlam": "kalma, durma",
+   "karsilik": "kaldık"
+  },
+  {
+   "kelime": "يَوْمًا",
+   "okunus": "yevmen",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bir gün"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "bağlaç",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "بَعْضَ",
+   "okunus": "ba'da",
+   "kok": "بعض",
+   "kokAnlam": "kısım, bazısı",
+   "karsilik": "bir parçası"
+  },
+  {
+   "kelime": "يَوْمٍ",
+   "okunus": "yevmin",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günün"
+  },
+  {
+   "kelime": "فَسْـَٔلِ",
+   "okunus": "fes'eli",
+   "kok": "سأل",
+   "kokAnlam": "sorma",
+   "karsilik": "sor"
+  },
+  {
+   "kelime": "ٱلْعَآدِّينَ",
+   "okunus": "el'âddîne",
+   "kok": "عدد",
+   "kokAnlam": "sayma",
+   "karsilik": "sayanlara"
+  }
+ ],
+ "neAnlatiyor": [
+  "112. ayetteki soruya cevap olarak, kişiler dünyada 'bir gün ya da bir günün bir parçası' kadar kaldıklarını söylerler; bu, dünya hayatının onlara ne kadar kısa geldiğini gösterir.",
+  "'Sayanlara sor' demeleri, kendi hesaplarına da güvenemeyecek kadar sürenin kısa algılandığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "30:55",
+   "meal": "Kıyametin kopacağı gün, suçlular bir saatten fazla kalmadıklarına yemin ederler.",
+   "baglanti": "Aynı kısa algılama temasını benzer bir yeminle anlatır."
+  },
+  {
+   "ref": "17:52",
+   "meal": "...dünyada pek az kaldığınızı sanırsınız.",
+   "baglanti": "Dünyada kalış süresinin çok kısa hissedileceği fikrini aynı şekilde tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, dünyada kalış süresinin geriye dönüldüğünde çok kısa algılanmasıdır.",
+  "Ders olarak, elimizdeki zamanı, sonunda çok kısa görüneceğini bilerek değerlendirmek çıkarılabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugünü değerli say",
+   "aciklama": "Bugünün, geriye dönüp baktığında bir 'gün' bile sayılmayacak kadar kısa olduğunu hatırla."
+  },
+  {
+   "baslik": "Zamanı ölç",
+   "aciklama": "Bugün ne kadar zaman harcadığını fark et, boşa geçeni azalt."
+  },
+  {
+   "baslik": "Anı kaçırma",
+   "aciklama": "Bugün önemli bir anı, ertelemeden değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugünü, geri gelmeyecek bir gün olarak değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=113"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/113"
+  }
+ ]
+}

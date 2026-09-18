@@ -1,0 +1,166 @@
+{
+ "sure": 23,
+ "ayet": 100,
+ "durum": "taslak",
+ "meal": "'Ki geride bıraktığım şeyde salih bir amel işleyeyim.' Hayır, bu onun söylediği [boş] bir sözden ibarettir. Onların arkalarında, diriltilecekleri güne kadar bir berzah vardır.",
+ "mealNotu": "'Kellâ' (hayır, asla) bir önceki dileğin kabul edilmediğini bildirir. 'Kelimetün' sadece 'söz' demektir; boşluğu bağlamdan anlaşıldığı için köşeli parantezle belirtildi. 'Berzah' iki durum arasındaki engel/ara bölgeyi anlatır, ayette başka ayrıntı verilmez.",
+ "kokler": [
+  {
+   "kelime": "لَعَلِّىٓ",
+   "okunus": "leallî",
+   "kok": "—",
+   "kokAnlam": "umut, belki",
+   "karsilik": "ki belki ben"
+  },
+  {
+   "kelime": "أَعْمَلُ",
+   "okunus": "a'melü",
+   "kok": "عمل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "işleyeyim"
+  },
+  {
+   "kelime": "صَٰلِحًا",
+   "okunus": "sâlihan",
+   "kok": "صلح",
+   "kokAnlam": "iyilik, salih olma",
+   "karsilik": "salih bir amel"
+  },
+  {
+   "kelime": "فِيمَا",
+   "okunus": "fîmâ",
+   "kok": "—",
+   "kokAnlam": "içinde edatı",
+   "karsilik": "içinde/şeyde"
+  },
+  {
+   "kelime": "تَرَكْتُ",
+   "okunus": "teraktü",
+   "kok": "ترك",
+   "kokAnlam": "bırakma",
+   "karsilik": "geride bıraktığım"
+  },
+  {
+   "kelime": "كَلَّآ",
+   "okunus": "kellâ",
+   "kok": "—",
+   "kokAnlam": "caydırma, hayır asla",
+   "karsilik": "hayır, asla"
+  },
+  {
+   "kelime": "إِنَّهَا",
+   "okunus": "innehâ",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "şüphesiz o"
+  },
+  {
+   "kelime": "كَلِمَةٌ",
+   "okunus": "kelimetün",
+   "kok": "كلم",
+   "kokAnlam": "söz",
+   "karsilik": "bir sözdür"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "قَآئِلُهَا",
+   "okunus": "kâilühâ",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "onu söyleyendir"
+  },
+  {
+   "kelime": "وَمِن",
+   "okunus": "ve min",
+   "kok": "—",
+   "kokAnlam": "-den edatı",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "وَرَآئِهِم",
+   "okunus": "verâihim",
+   "kok": "وري",
+   "kokAnlam": "arka, öte",
+   "karsilik": "arkalarında"
+  },
+  {
+   "kelime": "بَرْزَخٌ",
+   "okunus": "berzehun",
+   "kok": "برزخ",
+   "kokAnlam": "engel, ara bölge",
+   "karsilik": "bir berzah"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "kadar edatı",
+   "karsilik": "kadar"
+  },
+  {
+   "kelime": "يَوْمِ",
+   "okunus": "yevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gününe"
+  },
+  {
+   "kelime": "يُبْعَثُونَ",
+   "okunus": "yüb'asûne",
+   "kok": "بعث",
+   "kokAnlam": "diriltme, gönderme",
+   "karsilik": "diriltilecekleri"
+  }
+ ],
+ "neAnlatiyor": [
+  "99. ayetteki yalvarışın devamıdır: kişi, geride bıraktığı yerde salih bir amel işlemek için geri gönderilmeyi ister. Ayet, bu isteğin kabul edilmeyeceğini 'kellâ' (hayır, asla) sözüyle keser ve bunun sadece söylenen bir söz olduğunu belirtir.",
+  "Ardından, ölenlerin arkasında, yeniden diriltilecekleri güne kadar bir 'berzah' (برزخ kökü, engel/ara durum) bulunduğu söylenir; berzahın niteliği hakkında ayette başka bir ayrıntı verilmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "32:12",
+   "meal": "Suçlular, Rablerinin huzurunda başlarını öne eğmiş olarak, 'Rabbimiz, gördük ve işittik; şimdi bizi geri döndür de salih bir amel işleyelim, artık kesin olarak inandık' derler.",
+   "baglanti": "Aynı geri gönderilme ve salih amel işleme talebini neredeyse aynı ifadeyle tekrarlar."
+  },
+  {
+   "ref": "39:58",
+   "meal": "Ya da azabı gördüğünde, 'Keşke benim için bir kez daha (dünyaya dönme) fırsatı olsaydı da iyilerden olsaydım' demesin diye.",
+   "baglanti": "Aynı 'bir daha fırsat' dileğini, azabı görme anına bağlayarak paralel bir şekilde anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, ölüm anındaki geri dönüş isteğinin kabul edilmediği ve bunun sadece söylenmiş bir söz olarak kaldığıdır.",
+  "Ders olarak, iyi bir işi 'sonra yaparım' diyerek ertelemenin, o an geldiğinde bir işe yaramayacağı çıkarılabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ertelemeyi bırak",
+   "aciklama": "Yapmayı planladığın iyi bir işi bugüne al, yarına bırakma."
+  },
+  {
+   "baslik": "Sözü eyleme çevir",
+   "aciklama": "'Bir gün yaparım' dediğin bir niyeti bugün küçük bir adımla başlat."
+  },
+  {
+   "baslik": "Bugünü son gün gibi düşün",
+   "aciklama": "Bugünü, yapmak istediğin iyiliği erteleyemeyeceğin bir gün gibi yaşa."
+  }
+ ],
+ "bugununAdimi": "Bugün 'sonra yaparım' dediğin bir iyiliği şimdi yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=100"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/100"
+  }
+ ]
+}

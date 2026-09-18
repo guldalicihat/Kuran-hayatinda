@@ -1,0 +1,110 @@
+{
+ "sure": 23,
+ "ayet": 105,
+ "durum": "taslak",
+ "meal": "Ayetlerim size okunmuyor muydu da siz onları yalanlıyordunuz?",
+ "mealNotu": "'Tütlâ' (تلو kökü) okuma, 'tükezzibûn' (كذب kökü) yalanlama anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk soru edatı",
+   "karsilik": "değil miydi"
+  },
+  {
+   "kelime": "تَكُنْ",
+   "okunus": "tekün",
+   "kok": "كون",
+   "kokAnlam": "olmak",
+   "karsilik": "—"
+  },
+  {
+   "kelime": "ءَايَٰتِى",
+   "okunus": "âyâtî",
+   "kok": "أيي",
+   "kokAnlam": "ayet, işaret",
+   "karsilik": "ayetlerim"
+  },
+  {
+   "kelime": "تُتْلَىٰ",
+   "okunus": "tütlâ",
+   "kok": "تلو",
+   "kokAnlam": "okuma",
+   "karsilik": "okunuyor"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "size edatı",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "فَكُنتُم",
+   "okunus": "feküntüm",
+   "kok": "كون",
+   "kokAnlam": "olmak",
+   "karsilik": "ve siz oluyordunuz"
+  },
+  {
+   "kelime": "بِهَا",
+   "okunus": "bihâ",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "onları"
+  },
+  {
+   "kelime": "تُكَذِّبُونَ",
+   "okunus": "tükezzibûne",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanlıyordunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, cehennem ehline yöneltilen bir sorudur: ayetler kendilerine okunmuyor muydu da onları yalanlıyorlardı? 'Tütlâ' (تلو kökü) okuma, 'tükezzibûn' (كذب kökü) yalanlama anlamındadır.",
+  "Soru, azabın sebebini hatırlatır: mesajın ulaşmamış olması değil, ulaştığı halde yalanlanmış olmasıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "39:71",
+   "meal": "Size kendi içinizden, Rabbinizin ayetlerini okuyan ve bu gününüzle karşılaşacağınızı uyaran peygamberler gelmedi mi?",
+   "baglanti": "Mesajın ulaştırıldığını hatırlatan benzer bir soru içerir."
+  },
+  {
+   "ref": "67:9",
+   "meal": "Onlar, 'Evet, bize bir uyarıcı geldi ama biz yalanladık' derler.",
+   "baglanti": "Mesajın geldiği ama yalanlandığı itirafını doğrudan paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, kendilerine okunan ayetleri yalanlayanlara yöneltilen bir hesap sorusudur.",
+  "Ders olarak, doğru bir bilgiye ulaştıktan sonra onu görmezden gelmenin sorumluluğu ortadan kaldırmadığı çıkarılabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bildiğini görmezden gelme",
+   "aciklama": "Bugün doğru olduğunu bildiğin bir şeyi, işine gelmediği için görmezden gelme."
+  },
+  {
+   "baslik": "Mesajı ciddiye al",
+   "aciklama": "Bugün sana ulaşan doğru bir uyarıyı, alışkanlıkla bir kenara atma."
+  },
+  {
+   "baslik": "Yalanlamadan önce düşün",
+   "aciklama": "Bir bilgiyi hemen reddetmeden önce, üzerinde biraz düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün doğru bildiğin bir şeyi işine gelmediği için görmezden gelme.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=105"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/105"
+  }
+ ]
+}

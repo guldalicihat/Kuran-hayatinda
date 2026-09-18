@@ -1,0 +1,124 @@
+{
+ "sure": 23,
+ "ayet": 101,
+ "durum": "taslak",
+ "meal": "Sur'a üflendiğinde, o gün artık aralarında soylar olmaz ve birbirlerine soru sormazlar.",
+ "mealNotu": "'Ensâb' (نسب kökü) soy bağlarını anlatır; 'yetesâelûn' (سأل kökü) birbirine sorma anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "فَإِذَا",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "zaman edatı",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "نُفِخَ",
+   "okunus": "nüfiha",
+   "kok": "نفخ",
+   "kokAnlam": "üfleme",
+   "karsilik": "üflendiğinde"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içine edatı",
+   "karsilik": "-a"
+  },
+  {
+   "kelime": "ٱلصُّورِ",
+   "okunus": "essûri",
+   "kok": "صور",
+   "kokAnlam": "sur, boru",
+   "karsilik": "sur'a"
+  },
+  {
+   "kelime": "فَلَآ",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "artık olmaz"
+  },
+  {
+   "kelime": "أَنسَابَ",
+   "okunus": "ensâbe",
+   "kok": "نسب",
+   "kokAnlam": "soy, nesep",
+   "karsilik": "soylar"
+  },
+  {
+   "kelime": "بَيْنَهُمْ",
+   "okunus": "beynehüm",
+   "kok": "بين",
+   "kokAnlam": "ara, arası",
+   "karsilik": "aralarında"
+  },
+  {
+   "kelime": "يَوْمَئِذٍ",
+   "okunus": "yevmeizin",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ve olmaz"
+  },
+  {
+   "kelime": "يَتَسَآءَلُونَ",
+   "okunus": "yetesâelûne",
+   "kok": "سأل",
+   "kokAnlam": "sorma",
+   "karsilik": "birbirlerine sormazlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, dünya hayatının bitişini ve ahiretin başlangıcını 'sur'a üfleniş' (نفخ kökü) ile anlatır. O gün, dünyadaki soy bağları (نسب kökü) bir değer taşımaz; insanlar birbirine soy sormaz.",
+  "'Yetesâelûn' (سأل kökü) birbirine sorma anlamındadır; ayet, dünyada önemli sayılan soy ve akrabalık bağlarının, o gün kişiyi kurtaracak bir dayanak olmadığını vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:51",
+   "meal": "Sur'a üflenince, işte o zaman onlar kabirlerinden kalkıp Rablerine koşarlar.",
+   "baglanti": "Aynı sur'a üfleniş imgesini, kalkışın başlangıcı olarak paylaşır."
+  },
+  {
+   "ref": "80:34",
+   "meal": "O gün kişi kardeşinden, annesinden, babasından, eşinden ve çocuklarından kaçar.",
+   "baglanti": "Soy ve yakınlık bağlarının o gün önemini yitirmesi temasını doğrudan destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, kıyamet gününde soy ve akrabalık bağlarının bir değer taşımamasıdır.",
+  "Ders olarak, kişinin asıl güvencesinin soyu veya statüsü değil, kendi yaptıkları olduğu hatırlanabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendi payına odaklan",
+   "aciklama": "Bugün, birinin adını veya soyunu değil, kendi yaptığın işi önemli say."
+  },
+  {
+   "baslik": "Statüye güvenme",
+   "aciklama": "Bir işte, tanıdığın kişilere değil kendi çabana güven."
+  },
+  {
+   "baslik": "Bağları doğru değerlendir",
+   "aciklama": "Bugün bir ilişkini, sağladığı çıkardan değil kendi değerinden dolayı önemse."
+  }
+ ],
+ "bugununAdimi": "Bugün bir işte, tanıdıklarına değil kendi emeğine güven.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=101"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/101"
+  }
+ ]
+}

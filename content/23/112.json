@@ -1,0 +1,103 @@
+{
+ "sure": 23,
+ "ayet": 112,
+ "durum": "taslak",
+ "meal": "[Allah] der: 'Yeryüzünde kaç yıl kaldınız?'",
+ "mealNotu": "Sözü söyleyen bağlamdan Allah olduğu anlaşıldığı için köşeli parantezle belirtildi.",
+ "kokler": [
+  {
+   "kelime": "قَٰلَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "der"
+  },
+  {
+   "kelime": "كَمْ",
+   "okunus": "kem",
+   "kok": "—",
+   "kokAnlam": "soru edatı",
+   "karsilik": "kaç"
+  },
+  {
+   "kelime": "لَبِثْتُمْ",
+   "okunus": "lebistüm",
+   "kok": "لبث",
+   "kokAnlam": "kalma, durma",
+   "karsilik": "kaldınız"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde edatı",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yeryüzü",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "عَدَدَ",
+   "okunus": "adede",
+   "kok": "عدد",
+   "kokAnlam": "sayı",
+   "karsilik": "sayısınca"
+  },
+  {
+   "kelime": "سِنِينَ",
+   "okunus": "sinîne",
+   "kok": "سنو",
+   "kokAnlam": "yıl",
+   "karsilik": "yıl"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, hesap gününde sorulan bir soruyu aktarır: 'Yeryüzünde kaç yıl kaldınız?' Bu soru, dünya hayatının süresine dair bir hesap sorma niteliğindedir.",
+  "Ayet, önceki ayetlerdeki mükâfat ve ceza sahnelerinden sonra, dünya hayatının süresini gündeme getirerek onun kısalığına dikkat çekmeye hazırlık yapar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "79:46",
+   "meal": "Kıyameti gördükleri gün, sanki dünyada bir akşam vakti ya da kuşluk vaktinden başka kalmamış gibi olurlar.",
+   "baglanti": "Dünyada kalış süresinin kısa algılanacağı fikrini paylaşır."
+  },
+  {
+   "ref": "20:104",
+   "meal": "İçlerinde en akıllı olanları, 'Sadece bir gün kaldınız' der.",
+   "baglanti": "Aynı soruyu ve benzer bir cevabı içerir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, hesap gününde dünyada kalış süresinin sorulmasıdır.",
+  "Ders olarak, dünya hayatının, geriye dönüp bakıldığında ne kadar kısa görüneceği hatırlanabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zamanı boşa harcama",
+   "aciklama": "Bugün vaktini, geriye dönüp pişman olacağın şekilde harcama."
+  },
+  {
+   "baslik": "Süreyi anlamlandır",
+   "aciklama": "Bugün elindeki zamanı, bir anlam katarak geçir."
+  },
+  {
+   "baslik": "Kısa vadeli düşünme",
+   "aciklama": "Bir kararını sadece bugünü değil, uzun vadeyi düşünerek ver."
+  }
+ ],
+ "bugununAdimi": "Bugün vaktini, geriye dönüp pişman olmayacağın bir şekilde kullan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=112"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/112"
+  }
+ ]
+}
