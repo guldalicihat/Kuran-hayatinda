@@ -1,0 +1,117 @@
+{
+ "sure": 22,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Ey insanlar! Rabbinizden sakının. Şüphesiz o Saat'in sarsıntısı büyük bir şeydir.",
+ "mealNotu": "'İttekû' kökü وقي korunma ve sakınmayı anlatır; 'takva' bu kökten türer. 'Zelzele' kökü زلزل, tekrarlı yapısıyla şiddetli sarsmayı ifade eder; 'Sâat' burada kıyamet gününü belirten özel bir kullanımdır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلنَّاسُ",
+   "okunus": "ennâsü",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet; insanlar",
+   "karsilik": "insanlar"
+  },
+  {
+   "kelime": "ٱتَّقُوا۟",
+   "okunus": "uttekû",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "sakının"
+  },
+  {
+   "kelime": "رَبَّكُمْ",
+   "okunus": "rabbeküm",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, besleyip yetiştirme; Rab",
+   "karsilik": "Rabbinizden"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "زَلْزَلَةَ",
+   "okunus": "zelzelete",
+   "kok": "زلزل",
+   "kokAnlam": "şiddetle sarsma",
+   "karsilik": "sarsıntısı"
+  },
+  {
+   "kelime": "ٱلسَّاعَةِ",
+   "okunus": "essâati",
+   "kok": "سوع",
+   "kokAnlam": "an, vakit; kıyamet saati",
+   "karsilik": "o Saat'in"
+  },
+  {
+   "kelime": "شَىْءٌ",
+   "okunus": "şey'ün",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "bir şeydir"
+  },
+  {
+   "kelime": "عَظِيمٌ",
+   "okunus": "azîmün",
+   "kok": "عظم",
+   "kokAnlam": "büyüklük, azamet",
+   "karsilik": "büyük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Hac suresi, insanlığa doğrudan seslenen çarpıcı bir uyarıyla açılır: kıyamet saatinin sarsıntısı öylesine büyük bir şeydir ki, bundan korunmak (takva) çağrısı hemen ardından gelir. 'Sâat' kelimesi burada kıyamet gününün özel bir adı olarak kullanılır.",
+  "'Zelzele' kelimesinin Arapçadaki tekrarlı yapısı, sarsıntının şiddetini ve sürekliliğini vurgular; aynı kök daha sonra Zilzal suresinin adını da oluşturur. Ayet, bir sonraki ayette bu sarsıntının somut sahnelerle anlatılmasına zemin hazırlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "99:1",
+   "meal": "Yer, o şiddetli sarsıntısıyla sarsıldığında,",
+   "baglanti": "'Zelzele' kökü Zilzal suresinin ilk ayetidir; kıyametin sarsıntısı burada yerin sarsılması olarak somutlaşır."
+  },
+  {
+   "ref": "33:11",
+   "meal": "İşte orada müminler imtihan edilmiş ve şiddetli bir sarsıntıyla sarsılmışlardı.",
+   "baglanti": "Aynı 'zelzele' kökü burada dünyevi bir imtihan sarsıntısı için kullanılır; kıyametin sarsıntısı bunun en büyüğüdür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıyamet gününün dehşeti ve bu dehşet karşısında Rabbe sığınma çağrısıdır; bir dünya hükmü değil, bir uyarıdır.",
+  "Büyük ve kesin bir olayı hatırlamak, günlük tercihlere bir ölçü kazandırabilir. Kıyametin büyüklüğünü aklında tutmak, küçük hesaplara ve geçici kaygılara gereğinden fazla önem vermemeyi hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kıyamet ayetini düşünerek oku",
+   "aciklama": "Bugün bu ayeti oku ve tasvir ettiği sahneyi bir an düşün."
+  },
+  {
+   "baslik": "Sakınma niyetini tazele",
+   "aciklama": "Bugün bir kararını verirken 'Rabbim ne ister' diye sorarak seç."
+  },
+  {
+   "baslik": "Sonsuzluğu hatırla",
+   "aciklama": "Bugün yaptığın bir işi 'bunun ahirette bir karşılığı var mı' diye sorarak değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararını verirken kısaca dur ve 'Bu, Rabbimin sakınmamı istediği şey mi?' diye sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/22/1"
+  }
+ ]
+}

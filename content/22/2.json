@@ -1,0 +1,208 @@
+{
+ "sure": 22,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "O gün, onu gördüğünüzde, emzikli her kadın emzirdiğini unutur, her gebe kadın karnındakini düşürür. İnsanları sarhoş görürsün, oysa onlar sarhoş değildir; fakat Allah'ın azabı çok şiddetlidir.",
+ "mealNotu": "'Tezhelü' kökü ذهل, dehşetten dolayı bilincin dağılıp unutmayı anlatır. 'Tedau' kökü وضع burada bağlam gereği 'düşürmek/doğurmak' anlamındadır. 'Sükârâ' kökü سكر sarhoşluğu anlatır; ayet bunun gerçek sarhoşluk olmadığını, dehşetten kaynaklandığını ekler.",
+ "kokler": [
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "تَرَوْنَهَا",
+   "okunus": "teravnehâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "onu göreceğiniz"
+  },
+  {
+   "kelime": "تَذْهَلُ",
+   "okunus": "tezhelü",
+   "kok": "ذهل",
+   "kokAnlam": "şaşkınlıkla unutma, dehşetten gaflete düşme",
+   "karsilik": "unutur"
+  },
+  {
+   "kelime": "كُلُّ",
+   "okunus": "küllü",
+   "kok": "كلل",
+   "kokAnlam": "bütün, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "مُرْضِعَةٍ",
+   "okunus": "mürdıatin",
+   "kok": "رضع",
+   "kokAnlam": "emzirme",
+   "karsilik": "emzikli kadın"
+  },
+  {
+   "kelime": "عَمَّآ",
+   "okunus": "ammâ",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) -den şeyi",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "أَرْضَعَتْ",
+   "okunus": "erdaat",
+   "kok": "رضع",
+   "kokAnlam": "emzirme",
+   "karsilik": "emzirdiğini"
+  },
+  {
+   "kelime": "وَتَضَعُ",
+   "okunus": "ve tedau",
+   "kok": "وضع",
+   "kokAnlam": "koyma; (burada) doğurma, düşürme",
+   "karsilik": "düşürür"
+  },
+  {
+   "kelime": "كُلُّ",
+   "okunus": "küllü",
+   "kok": "كلل",
+   "kokAnlam": "bütün, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "ذَاتِ",
+   "okunus": "zâti",
+   "kok": "—",
+   "kokAnlam": "(izafet) sahibi olan",
+   "karsilik": "sahibi olan"
+  },
+  {
+   "kelime": "حَمْلٍ",
+   "okunus": "hamlin",
+   "kok": "حمل",
+   "kokAnlam": "taşıma, yük, gebelik",
+   "karsilik": "gebelik"
+  },
+  {
+   "kelime": "حَمْلَهَا",
+   "okunus": "hamlehâ",
+   "kok": "حمل",
+   "kokAnlam": "taşıma, yük, gebelik",
+   "karsilik": "karnındakini"
+  },
+  {
+   "kelime": "وَتَرَى",
+   "okunus": "ve terâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görürsün"
+  },
+  {
+   "kelime": "ٱلنَّاسَ",
+   "okunus": "ennâse",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet; insanlar",
+   "karsilik": "insanları"
+  },
+  {
+   "kelime": "سُكَٰرَىٰ",
+   "okunus": "sükârâ",
+   "kok": "سكر",
+   "kokAnlam": "sarhoşluk",
+   "karsilik": "sarhoş"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "oysa değildir"
+  },
+  {
+   "kelime": "هُم",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "بِسُكَٰرَىٰ",
+   "okunus": "bisükârâ",
+   "kok": "سكر",
+   "kokAnlam": "sarhoşluk",
+   "karsilik": "sarhoş"
+  },
+  {
+   "kelime": "وَلَٰكِنَّ",
+   "okunus": "ve lâkinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "عَذَابَ",
+   "okunus": "azâbe",
+   "kok": "عذب",
+   "kokAnlam": "azap, acı",
+   "karsilik": "azabı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "شَدِيدٌ",
+   "okunus": "şedîdün",
+   "kok": "شدد",
+   "kokAnlam": "şiddet, sıkılık",
+   "karsilik": "şiddetlidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki 'büyük sarsıntı' burada somut sahnelerle anlatılır: kıyametin dehşeti öylesine büyüktür ki, en güçlü doğal bağlar bile o an kopar. Emzikli bir annenin bebeğini emzirdiğini unutması, hamile bir kadının karnındakini düşürmesi, insan doğasındaki en temel içgüdülerin bile dehşet karşısında dağıldığını gösterir.",
+  "İnsanların sarhoş gibi görünüp aslında sarhoş olmaması, sahnenin gerçekliğini pekiştirir: bu hâl içkiden değil, doğrudan o günün dehşetinden kaynaklanır. Ayet, bunun nedenini son cümlede açıklar: Allah'ın azabı çok şiddetlidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "73:17",
+   "meal": "Eğer inkâr ederseniz, çocukları ihtiyarlatan bir günden kendinizi nasıl korursunuz?",
+   "baglanti": "Kıyamet gününün dehşeti burada çocukları saçı ağarmış hale getiren bir etki olarak anlatılır; 22:2'deki emzikli ve gebe kadın tasviriyle aynı dehşeti farklı bir sahneyle pekiştirir."
+  },
+  {
+   "ref": "79:34",
+   "meal": "Her şeyi kaplayan büyük felaket geldiğinde,",
+   "baglanti": "Kıyametin insanları alt üst eden şiddetini anlatan başka bir sahnedir; 22:2'deki dehşet tablosuyla aynı günü tasvir eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıyamet gününün dehşetidir; günlük bir hüküm değil, o günün büyüklüğünü kavratan bir tasvirdir.",
+  "En güçlü doğal bağların bile o gün kopacağının hatırlatılması, dünyadaki bağlara aşırı güvenmemeyi, asıl güvenin Allah'a olması gerektiğini öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ayeti tasavvur ederek oku",
+   "aciklama": "Bu ayeti bugün oku ve tasvir ettiği sahneyi bir an düşün."
+  },
+  {
+   "baslik": "Bir yakınına değer ver",
+   "aciklama": "Bugün sevdiğin birine, o bağın kıymetini bilerek zaman ayır."
+  },
+  {
+   "baslik": "Ahiret bilincini tazele",
+   "aciklama": "Bugün bir işini yaparken 'dünya geçici' diye hatırla, telaşını hafiflet."
+  }
+ ],
+ "bugununAdimi": "Bugün bir işini yaparken içinden 'dünya geçici' diyerek telaşını bir kez hafiflet.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/22/2"
+  }
+ ]
+}

@@ -1,0 +1,537 @@
+{
+ "sure": 22,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Ey insanlar! Eğer diriliş konusunda kuşku içindeyseniz, [bilin ki] şüphesiz biz sizi topraktan, sonra bir damladan, sonra bir kan pıhtısından, sonra şekli belirmiş ve belirmemiş bir et parçasından yarattık; size açıklayalım diye. Dilediğimizi belirlenmiş bir süreye kadar rahimlerde tutarız; sonra sizi bir çocuk olarak çıkarırız, sonra olgunluk çağınıza eresiniz diye. Kiminiz vefat ettirilir, kiminiz de bilgiden sonra hiçbir şey bilmesin diye ömrün en düşkün çağına döndürülür. Yeryüzünü de kupkuru görürsün; fakat üzerine suyu indirdiğimizde harekete geçer, kabarır ve her güzel çiftten bitirir.",
+ "mealNotu": "Sırasıyla 'türâb' (toprak), 'nutfe' (damla), 'alaka' (asılı kan pıhtısı) ve 'mudga' (çiğnenmiş et parçası) kökleri insanın yaratılış aşamalarını anlatır. 'Eşüddeküm' kökü شدد güç ve olgunluk çağını, 'erzelü'l-umur' kökü رذل ömrün en düşkün dönemini ifade eder; '[bilin ki]' gibi bağlayıcı ek akıcılık için köşeli parantezle eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلنَّاسُ",
+   "okunus": "ennâsü",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet; insanlar",
+   "karsilik": "insanlar"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma, bulunma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "رَيْبٍ",
+   "okunus": "raybin",
+   "kok": "ريب",
+   "kokAnlam": "kuşku, şüphe",
+   "karsilik": "kuşku"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْبَعْثِ",
+   "okunus": "elba'si",
+   "kok": "بعث",
+   "kokAnlam": "gönderme; diriltme",
+   "karsilik": "diriliş"
+  },
+  {
+   "kelime": "فَإِنَّا",
+   "okunus": "feinnâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz biz",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "خَلَقْنَٰكُم",
+   "okunus": "haleknâküm",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "sizi yarattık"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "تُرَابٍ",
+   "okunus": "türâbin",
+   "kok": "ترب",
+   "kokAnlam": "toprak",
+   "karsilik": "toprak"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "نُّطْفَةٍ",
+   "okunus": "nütfetin",
+   "kok": "نطف",
+   "kokAnlam": "damlama; nutfe, meni damlası",
+   "karsilik": "bir damladan"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "عَلَقَةٍ",
+   "okunus": "alekatin",
+   "kok": "علق",
+   "kokAnlam": "asılma, yapışma; kan pıhtısı",
+   "karsilik": "bir kan pıhtısından"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "مُّضْغَةٍ",
+   "okunus": "müdğatin",
+   "kok": "مضغ",
+   "kokAnlam": "çiğneme; çiğnenmiş et parçası",
+   "karsilik": "bir et parçasından"
+  },
+  {
+   "kelime": "مُخَلَّقَةٍ",
+   "okunus": "mühallekatin",
+   "kok": "خلق",
+   "kokAnlam": "yaratma, şekillendirme",
+   "karsilik": "şekli belirmiş"
+  },
+  {
+   "kelime": "وَغَيْرِ",
+   "okunus": "ve gayri",
+   "kok": "غير",
+   "kokAnlam": "başkalık, -sız; olmayan",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "مُخَلَّقَةٍ",
+   "okunus": "mühallekatin",
+   "kok": "خلق",
+   "kokAnlam": "yaratma, şekillendirme",
+   "karsilik": "belirmemiş"
+  },
+  {
+   "kelime": "لِّنُبَيِّنَ",
+   "okunus": "linübeyyine",
+   "kok": "بين",
+   "kokAnlam": "açıklığa kavuşturma, açıklama",
+   "karsilik": "size açıklayalım diye"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "وَنُقِرُّ",
+   "okunus": "ve nükırru",
+   "kok": "قرر",
+   "kokAnlam": "yerleştirme, karar kılma",
+   "karsilik": "ve tutarız"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْحَامِ",
+   "okunus": "el'erhâmi",
+   "kok": "رحم",
+   "kokAnlam": "rahim, merhamet",
+   "karsilik": "rahimlerde"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "نَشَآءُ",
+   "okunus": "neşâü",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilediğimizi"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "أَجَلٍ",
+   "okunus": "ecelin",
+   "kok": "أجل",
+   "kokAnlam": "süre, vade",
+   "karsilik": "bir süreye"
+  },
+  {
+   "kelime": "مُّسَمًّى",
+   "okunus": "müsemmen",
+   "kok": "سمو",
+   "kokAnlam": "adlandırma; belirlenmiş",
+   "karsilik": "belirlenmiş"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "نُخْرِجُكُمْ",
+   "okunus": "nühricüküm",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, çıkarma",
+   "karsilik": "sizi çıkarırız"
+  },
+  {
+   "kelime": "طِفْلًا",
+   "okunus": "tıflen",
+   "kok": "طفل",
+   "kokAnlam": "çocukluk",
+   "karsilik": "bir çocuk olarak"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "لِتَبْلُغُوٓا۟",
+   "okunus": "liteblüğû",
+   "kok": "بلغ",
+   "kokAnlam": "erişme, ulaşma",
+   "karsilik": "eresiniz diye"
+  },
+  {
+   "kelime": "أَشُدَّكُمْ",
+   "okunus": "eşüddeküm",
+   "kok": "شدد",
+   "kokAnlam": "şiddet, güç; olgunluk çağı",
+   "karsilik": "olgunluk çağınıza"
+  },
+  {
+   "kelime": "وَمِنكُم",
+   "okunus": "ve minküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizden",
+   "karsilik": "sizden kiminiz"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "يُتَوَفَّىٰ",
+   "okunus": "yüteveffâ",
+   "kok": "وفي",
+   "kokAnlam": "tamamlama; vefat ettirilme",
+   "karsilik": "vefat ettirilir"
+  },
+  {
+   "kelime": "وَمِنكُم",
+   "okunus": "ve minküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizden",
+   "karsilik": "sizden kiminiz de"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "يُرَدُّ",
+   "okunus": "yüraddü",
+   "kok": "ردد",
+   "kokAnlam": "geri çevirme, döndürme",
+   "karsilik": "döndürülür"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "أَرْذَلِ",
+   "okunus": "erzeli",
+   "kok": "رذل",
+   "kokAnlam": "aşağılık, düşkün",
+   "karsilik": "en düşkün"
+  },
+  {
+   "kelime": "ٱلْعُمُرِ",
+   "okunus": "el'umüri",
+   "kok": "عمر",
+   "kokAnlam": "ömür, yaşam süresi",
+   "karsilik": "ömrün"
+  },
+  {
+   "kelime": "لِكَيْلَا",
+   "okunus": "likeylâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç+olumsuzluk) -mesin diye",
+   "karsilik": "-mesin diye"
+  },
+  {
+   "kelime": "يَعْلَمَ",
+   "okunus": "ya'leme",
+   "kok": "علم",
+   "kokAnlam": "bilme, bilgi",
+   "karsilik": "bilsin"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "mim",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "عِلْمٍ",
+   "okunus": "ilmin",
+   "kok": "علم",
+   "kokAnlam": "bilgi, ilim",
+   "karsilik": "bilgiden"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "hiçbir şey"
+  },
+  {
+   "kelime": "وَتَرَى",
+   "okunus": "ve terâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görürsün"
+  },
+  {
+   "kelime": "ٱلْأَرْضَ",
+   "okunus": "el'erda",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yeri"
+  },
+  {
+   "kelime": "هَامِدَةً",
+   "okunus": "hâmideten",
+   "kok": "همد",
+   "kokAnlam": "sönme, kuruyup hareketsiz kalma",
+   "karsilik": "kupkuru"
+  },
+  {
+   "kelime": "فَإِذَآ",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) ne zaman ki",
+   "karsilik": "ama ne zaman ki"
+  },
+  {
+   "kelime": "أَنزَلْنَا",
+   "okunus": "enzelnâ",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdiğimizde"
+  },
+  {
+   "kelime": "عَلَيْهَا",
+   "okunus": "aleyhâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onun üzerine",
+   "karsilik": "onun üzerine"
+  },
+  {
+   "kelime": "ٱلْمَآءَ",
+   "okunus": "elmâe",
+   "kok": "موه",
+   "kokAnlam": "su",
+   "karsilik": "suyu"
+  },
+  {
+   "kelime": "ٱهْتَزَّتْ",
+   "okunus": "ihtezzet",
+   "kok": "هزز",
+   "kokAnlam": "sarsılma, harekete geçme",
+   "karsilik": "harekete geçer"
+  },
+  {
+   "kelime": "وَرَبَتْ",
+   "okunus": "ve rabet",
+   "kok": "ربو",
+   "kokAnlam": "büyüme, kabarma",
+   "karsilik": "kabarır"
+  },
+  {
+   "kelime": "وَأَنۢبَتَتْ",
+   "okunus": "ve embetet",
+   "kok": "نبت",
+   "kokAnlam": "bitirme, bitki çıkarma",
+   "karsilik": "bitirir"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "كُلِّ",
+   "okunus": "külli",
+   "kok": "كلل",
+   "kokAnlam": "bütün, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "زَوْجٍۭ",
+   "okunus": "zevcim",
+   "kok": "زوج",
+   "kokAnlam": "çift, eş",
+   "karsilik": "çiftten"
+  },
+  {
+   "kelime": "بَهِيجٍ",
+   "okunus": "behîcin",
+   "kok": "بهج",
+   "kokAnlam": "güzellik, parlaklık",
+   "karsilik": "güzel"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetlerde tanıtılan kıyametin dehşetinden sonra, dirilişten kuşku duyanlara kendi yaratılışlarını hatırlatır. İnsanın toprak, damla, kan pıhtısı ve et parçası aşamalarından geçerek yaratılması, aynı gücün yeniden diriltmeye de yeteceğinin bir kanıtı olarak sunulur. Doğum, büyüme, olgunluk ve yaşlılık evrelerinin sayılması, hayatın her aşamasının bir düzen içinde ilerlediğini gösterir.",
+  "Ayetin sonundaki kuru toprağın yağmurla canlanması örneği, aynı dirilişin bir benzetmesidir: nasıl ölü toprak suyla yeniden hareketlenip bitki çıkarıyorsa, ölü bedenler de aynı şekilde yeniden diriltilebilir. Klasik tefsir bu ayeti, dirilişi gözlemle temellendiren bir delil ayeti olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "23:14",
+   "meal": "Sonra o damlayı bir kan pıhtısı yaptık, kan pıhtısını bir et parçası yaptık, onu kemiklere dönüştürdük, kemiklere de et giydirdik; sonra onu başka bir yaratılışla inşa ettik. Yaratanların en güzeli olan Allah ne yücedir.",
+   "baglanti": "22:5'teki nutfe-alaka-mudga aşamaları burada daha ayrıntılı anlatılır; aynı yaratılış süreci iki surede de delil olarak sunulur."
+  },
+  {
+   "ref": "30:19",
+   "meal": "Ölüden diriyi çıkarır, diriden ölüyü çıkarır ve yeryüzünü ölümünden sonra diriltir; işte siz de böyle çıkarılacaksınız.",
+   "baglanti": "Kuru toprağın yağmurla canlanması burada da dirilişe delil gösterilir; 22:5'in son cümlesiyle aynı benzetmeyi paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu insanın yaratılış aşamaları ve bunun dirilişe delil oluşudur; bilimsel bir açıklama değil, imanı pekiştiren bir hatırlatmadır.",
+  "Hayatın her aşamasının (çocukluk, olgunluk, yaşlılık) bir düzen içinde ilerlediğini görmek, bulunduğun yaş dönemini kabullenmeyi ve elindeki zamanı boşa harcamamayı hatırlatabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yaratılış mucizesini düşün",
+   "aciklama": "Bugün kendi bedenini, bu aşamalardan geçtiğini düşünerek bir an değerlendir."
+  },
+  {
+   "baslik": "Bulunduğun yaş dönemini kabullen",
+   "aciklama": "Bugün kendi yaşındaki bir zorluğu veya kazanımı, hayatın doğal bir evresi olarak kabul et."
+  },
+  {
+   "baslik": "Zamanının geçiciliğini hatırla",
+   "aciklama": "Bugün yapacağın bir işi, ömrün sınırlı olduğu bilinciyle erteleme."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir işi, ömrün sınırlı olduğunu hatırlayarak şimdi yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/22/5"
+  }
+ ]
+}
