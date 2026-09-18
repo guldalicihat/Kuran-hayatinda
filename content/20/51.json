@@ -1,0 +1,89 @@
+{
+ "sure": 20,
+ "ayet": 51,
+ "durum": "taslak",
+ "meal": "(Firavun) dedi ki: Öyleyse önceki nesillerin hali nedir?",
+ "mealNotu": "'Bâl' kelimesi hal, durum anlamındadır; 'karûn' ise nesil, çağ anlamına gelen 'karn' kelimesinin çoğuludur.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "فَمَا",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) öyleyse ne",
+   "karsilik": "öyleyse ne"
+  },
+  {
+   "kelime": "بَالُ",
+   "okunus": "bâlü",
+   "kok": "بول",
+   "kokAnlam": "hal, durum, zihin",
+   "karsilik": "hali"
+  },
+  {
+   "kelime": "ٱلْقُرُونِ",
+   "okunus": "elkurûni",
+   "kok": "قرن",
+   "kokAnlam": "nesil, çağ, kuşak",
+   "karsilik": "nesillerin"
+  },
+  {
+   "kelime": "ٱلْأُولَىٰ",
+   "okunus": "el'ûlâ",
+   "kok": "أول",
+   "kokAnlam": "önce, ilk",
+   "karsilik": "önceki"
+  }
+ ],
+ "neAnlatiyor": [
+  "Firavun, Musa'nın Rab tanımını duyduktan sonra yeni bir soru sorar: eğer her şeye yol gösteren bir Rab varsa, o zaman kendisinden önce yaşayıp da bu yol göstericiliği bilmeden ölen nesillerin durumu ne olacaktır? 'Bâl' kelimesi burada hal, akıbet anlamındadır.",
+  "Bu soru, yine bir itiraz ya da köşeye sıkıştırma girişimi olarak okunabilir; Firavun, Musa'nın söylediklerini çürütmek için geçmiş nesilleri örnek gösterir. Sonraki ayette Musa'nın bu soruya verdiği ölçülü cevap yer alacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:69",
+   "meal": "Onlara İbrahim'in haberini de oku.",
+   "baglanti": "Şuarâ sûresindeki bu ayet, geçmiş nesillerin (burada İbrahim'in kavminin) kıssasının hatırlatılmasının Kur'an'da sık kullanılan bir yöntem olduğunu gösterir."
+  },
+  {
+   "ref": "22:46",
+   "meal": "Yeryüzünde dolaşmadılar mı ki akledecek kalpleri, işitecek kulakları olsun; onlarda gözler değil, göğüslerdeki kalpler körelir.",
+   "baglanti": "Hac sûresindeki bu ayet, geçmiş nesillerin akıbetinin ibret için hatırlanması gerektiğini, Firavun'un sorusuyla dolaylı bağlantılı bir ilke olarak sunar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Firavun'un Musa'ya geçmiş nesillerin durumunu sormasıdır; bu, tarihî bir diyalog anıdır.",
+  "Günlük hayata taşınabilecek ders, zor bir soruyla karşılaşıldığında paniklemeden, konuyu bilgiye havale eden bir cevap arayışının değerli olduğudur. Her sorunun hemen cevaplanması gerekmez; bazen bilgiyi olduğu yere, yani Allah'a havale etmek en doğru cevaptır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zor soruyu sindir",
+   "aciklama": "Bugün cevabını bilmediğin bir soruyla karşılaşırsan, hemen tepki vermek yerine düşünmeye zaman ayır."
+  },
+  {
+   "baslik": "Geçmişten ibret al",
+   "aciklama": "Bugün geçmişte yaşanmış bir olaydan ders çıkarmaya çalış."
+  },
+  {
+   "baslik": "Bilgiyi doğru yere havale et",
+   "aciklama": "Bugün cevabını bilmediğin bir konuda, 'bilmiyorum' demeyi göze al."
+  }
+ ],
+ "bugununAdimi": "Bugün cevabını bilmediğin bir soruda, dürüstçe 'bilmiyorum' diyebil.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=51"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/51"
+  }
+ ]
+}

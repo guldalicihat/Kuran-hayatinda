@@ -1,0 +1,110 @@
+{
+ "sure": 20,
+ "ayet": 44,
+ "durum": "taslak",
+ "meal": "Ona yumuşak bir söz söyleyin; belki öğüt alır veya [Allah'tan] korkar.",
+ "mealNotu": "'Yahşâ' fiilinin nesnesi ayette belirtilmez; bağlamdan anlaşıldığı için köşeli parantezle '[Allah'tan]' eklenmiştir. 'Leyyin' kökü yumuşaklığı, sertliğin zıttını anlatır.",
+ "kokler": [
+  {
+   "kelime": "فَقُولَا",
+   "okunus": "fekûlâ",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz",
+   "karsilik": "söyleyin"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "قَوْلًا",
+   "okunus": "kavlen",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz",
+   "karsilik": "bir söz"
+  },
+  {
+   "kelime": "لَّيِّنًا",
+   "okunus": "leyyinen",
+   "kok": "لين",
+   "kokAnlam": "yumuşaklık",
+   "karsilik": "yumuşak"
+  },
+  {
+   "kelime": "لَّعَلَّهُۥ",
+   "okunus": "leallehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) belki o",
+   "karsilik": "belki o"
+  },
+  {
+   "kelime": "يَتَذَكَّرُ",
+   "okunus": "yetezekkeru",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama, zikretme",
+   "karsilik": "öğüt alır"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "يَخْشَىٰ",
+   "okunus": "yahşâ",
+   "kok": "خشي",
+   "kokAnlam": "çekinme, saygıyla korkma",
+   "karsilik": "korkar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Musa ve Harun'a görevlerini nasıl yerine getirecekleri konusunda üslup talimatı verir: sert değil, yumuşak bir söz. 'Leyyin' kökü sertliğin zıddıdır; en azgın kişiye bile önce yumuşak söz denenmesi emredilir.",
+  "Ayetin sonundaki 'belki öğüt alır veya korkar' ifadesi, sonucun kesin olmadığını, ama denemenin gerekli olduğunu gösterir. Bu, davetin amacının kişiyi köşeye sıkıştırmak değil, ona düşünme ve dönüş fırsatı vermek olduğunu ortaya koyar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "87:9",
+   "meal": "Öyleyse hatırlat; eğer hatırlatma fayda verirse.",
+   "baglanti": "A'lâ sûresindeki bu ayet, aynı 'öğüt alma' (zikr/tezekkür) kökünü kullanarak, hatırlatmanın koşullu ama gerekli bir görev olduğunu gösterir."
+  },
+  {
+   "ref": "87:10",
+   "meal": "Allah'tan korkan, öğütten yararlanacaktır.",
+   "baglanti": "A'lâ sûresindeki bu ayet, Firavun için umulan 'korkma' (haşyet) sonucunun, genel bir ilke olarak da geçerli olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Musa ve Harun'un Firavun'a yumuşak bir dille konuşmalarının emredilmesidir.",
+  "Günlük hayata taşınabilecek ders, en zor ve haksız kişilerle bile konuşurken sertlik yerine önce yumuşak bir üslup denemenin, gerçek bir değişim ihtimalini artırdığıdır. Bu, tavizden çok stratejik ve merhametli bir yaklaşımdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yumuşak dil dene",
+   "aciklama": "Bugün zor bir kişiyle konuşurken, sert değil yumuşak bir üslup kullan."
+  },
+  {
+   "baslik": "Öfkeyi ertele",
+   "aciklama": "Bugün sinirlenebileceğin bir anda, önce sakin bir cümle kurmayı dene."
+  },
+  {
+   "baslik": "Fırsat tanı",
+   "aciklama": "Bugün hatalı davranan birine, onu köşeye sıkıştırmadan bir düşünme fırsatı ver."
+  }
+ ],
+ "bugununAdimi": "Bugün zorlandığın bir kişiyle, sert değil yumuşak bir dille konuş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=44"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/44"
+  }
+ ]
+}

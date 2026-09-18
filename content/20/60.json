@@ -1,0 +1,96 @@
+{
+ "sure": 20,
+ "ayet": 60,
+ "durum": "taslak",
+ "meal": "Böylece Firavun dönüp gitti, sonra hilesini/tuzağını topladı, sonra geldi.",
+ "mealNotu": "'Keyd' kökü, gizli plan, tuzak, hile anlamındadır; Firavun'un hazırlığının niyetini ortaya koyar.",
+ "kokler": [
+  {
+   "kelime": "فَتَوَلَّىٰ",
+   "okunus": "fetevellâ",
+   "kok": "ولي",
+   "kokAnlam": "dönme, yüz çevirme, yakın olma",
+   "karsilik": "böylece döndü/gitti"
+  },
+  {
+   "kelime": "فِرْعَوْنُ",
+   "okunus": "fir'avnü",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Firavun",
+   "karsilik": "Firavun"
+  },
+  {
+   "kelime": "فَجَمَعَ",
+   "okunus": "fecemea",
+   "kok": "جمع",
+   "kokAnlam": "toplama, bir araya getirme",
+   "karsilik": "sonra topladı"
+  },
+  {
+   "kelime": "كَيْدَهُۥ",
+   "okunus": "keydehû",
+   "kok": "كيد",
+   "kokAnlam": "tuzak, hile, plan",
+   "karsilik": "kendi hilesini/tuzağını"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "أَتَىٰ",
+   "okunus": "etâ",
+   "kok": "أتي",
+   "kokAnlam": "gelme, verilme",
+   "karsilik": "geldi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Musa'nın belirlediği buluşma teklifine Firavun'un fiilen verdiği cevabı anlatır: geri dönüp, elindeki tüm imkânları -sihirbazlarını ve planlarını- toplayarak hazırlanır. 'Keyd' kökü, açık bir mücadele değil, gizli bir plan, hile anlamındadır; bu, Firavun'un işin başından beri adil değil, kazanmaya odaklı bir niyet taşıdığını gösterir.",
+  "Ayet, sahnenin sihirbazlarla karşılaşmaya doğru ilerlediğini bildirerek kıssanın bu bölümünü tamamlar. Firavun'un gücünü ve düzenini 'toplaması', bir sonraki ayetlerde anlatılacak büyük yüzleşmenin hazırlığıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "20:64",
+   "meal": "Öyleyse hilenizi/planınızı toplayın, sonra sıra halinde gelin.",
+   "baglanti": "Aynı sûrenin ilerleyen bir ayeti, burada anılan 'hilesini topladı' ifadesinin devamı olarak, sihirbazlara verilen benzer bir talimatı aktarır."
+  },
+  {
+   "ref": "3:54",
+   "meal": "Onlar tuzak kurdular, Allah da tuzaklarına karşılık verdi; Allah, tuzak kuranlara karşı en hayırlı olandır.",
+   "baglanti": "Âl-i İmrân sûresindeki bu ayet, Firavun'un burada kurduğu tuzağın da sonunda Allah'ın iradesi karşısında boşa çıkacağına dair genel bir ilkeyi hatırlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Firavun'un Musa'ya karşı sihirbazlarını ve hilesini toplayarak hazırlanmasıdır.",
+  "Günlük hayata taşınabilecek ders, doğru bir davaya karşı bazen açık değil, gizli ve hileli yöntemlerle karşı konulabileceğidir. Bu farkındalık, kişiyi hem tedbirli olmaya hem de sonuçta gerçeğin ortaya çıkacağına güvenmeye teşvik eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hileye karşı tedbirli ol",
+   "aciklama": "Bugün bir konuda, açık olmayan bir yaklaşımla karşılaşırsan dikkatli ve tedbirli davran."
+  },
+  {
+   "baslik": "Sabırla bekle",
+   "aciklama": "Bugün haksız bir hazırlığa karşı, telaşlanmadan doğru zamanı bekle."
+  },
+  {
+   "baslik": "Kendi hazırlığını yap",
+   "aciklama": "Bugün önemli bir yüzleşme öncesi, kendi hazırlığını sakin bir şekilde tamamla."
+  }
+ ],
+ "bugununAdimi": "Bugün açık olmayan bir yaklaşımla karşılaşırsan, telaşlanmadan dikkatli ve sakin davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=60"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/60"
+  }
+ ]
+}

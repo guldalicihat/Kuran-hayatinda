@@ -1,0 +1,124 @@
+{
+ "sure": 20,
+ "ayet": 48,
+ "durum": "taslak",
+ "meal": "Bize vahyedildi ki azap, yalanlayan ve yüz çevirenin üzerinedir.",
+ "mealNotu": "'Kezzebe' ve 'tevellâ' kökleri, sırasıyla yalanlamayı ve yüz çevirmeyi anlatır; bu iki tutum azabın sebebi olarak birlikte zikredilir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّا",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz biz",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik edatı) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "أُوحِىَ",
+   "okunus": "ûhiye",
+   "kok": "وحي",
+   "kokAnlam": "vahyetme, gizlice bildirme",
+   "karsilik": "vahyedildi"
+  },
+  {
+   "kelime": "إِلَيْنَآ",
+   "okunus": "ileynâ",
+   "kok": "—",
+   "kokAnlam": "(edat) bize",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "ٱلْعَذَابَ",
+   "okunus": "el'azâbe",
+   "kok": "عذب",
+   "kokAnlam": "azap etme, acı verme",
+   "karsilik": "azap"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerinedir"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "كَذَّبَ",
+   "okunus": "kezzebe",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama, yalan söyleme",
+   "karsilik": "yalanlarsa"
+  },
+  {
+   "kelime": "وَتَوَلَّىٰ",
+   "okunus": "ve tevellâ",
+   "kok": "ولي",
+   "kokAnlam": "dönme, yüz çevirme, yakın olma",
+   "karsilik": "ve yüz çevirirse"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayette Firavun'a söylenecek sözün son kısmıdır: davetin arkasında bir uyarı da vardır. 'Kezzebe' yalanlamayı, 'tevellâ' ise bilerek yüz çevirmeyi anlatır; azap, sadece inanmamakla değil, açık kanıta rağmen bilerek reddetmekle ilişkilendirilir.",
+  "Bu ayet, davetin hem müjde hem uyarı içerdiğini gösterir: bir önceki ayette 'selam hidayete uyanadır' denilmiş, burada da karşı tarafın seçimine göre bir sonuç bildirilmiştir. Sonuç, kişinin kendi tutumuna bağlıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "92:16",
+   "meal": "O ki yalanladı ve yüz çevirdi.",
+   "baglanti": "Leyl sûresindeki bu ayet, 'kezzebe' ve 'tevellâ' kelimelerini birebir aynı sırayla kullanarak, en bedbaht kişinin tanımını yapar."
+  },
+  {
+   "ref": "4:56",
+   "meal": "Şüphesiz ayetlerimizi inkâr edenleri ateşe sokacağız.",
+   "baglanti": "Nisâ sûresindeki bu ayet, ayetleri bilerek reddedenlerin azapla karşılaşacağı ilkesini genel bir çerçevede tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Musa ve Harun'un Firavun'a, yalanlama ve yüz çevirmenin bir bedeli olduğunu haber vermeleridir; bu, ilahi bir uyarıdır ve kişilerin kendi başlarına başkalarına azap vaat etmesi anlamına gelmez.",
+  "Günlük hayata taşınabilecek ders, açık bir gerçeğe bilerek sırt çevirmenin sonuçsuz kalmayacağıdır. Bu, kişiyi hem kendi tutumunu gözden geçirmeye hem de gerçeklere dürüstçe yaklaşmaya teşvik eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gerçeği kabul et",
+   "aciklama": "Bugün fark ettiğin ama görmezden geldiğin bir gerçeği kabul etmeye çalış."
+  },
+  {
+   "baslik": "Yüz çevirmeyi bırak",
+   "aciklama": "Bugün bilerek ertelediğin bir sorumluluğa yönel."
+  },
+  {
+   "baslik": "Uyarıyı ciddiye al",
+   "aciklama": "Bugün sana yapılan haklı bir uyarıyı savunmaya geçmeden dinle."
+  }
+ ],
+ "bugununAdimi": "Bugün bilerek görmezden geldiğin bir gerçeği kabul edip ona göre davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=48"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/48"
+  }
+ ]
+}
