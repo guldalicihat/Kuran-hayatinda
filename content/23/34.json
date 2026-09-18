@@ -1,0 +1,103 @@
+{
+ "sure": 23,
+ "ayet": 34,
+ "durum": "taslak",
+ "meal": "Andolsun, eğer sizin gibi bir beşere itaat ederseniz, o zaman kesinlikle kaybedenlerden olursunuz.",
+ "mealNotu": "'Hâsirûn' kökü ticari kayıp ve ziyanı anlatan 'hasr' kökünden gelir; burada mecazen manevi kayıp/hüsran anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "وَلَئِنْ",
+   "okunus": "ve lein",
+   "kok": "—",
+   "kokAnlam": "(şart+kesinlik) andolsun eğer",
+   "karsilik": "andolsun eğer"
+  },
+  {
+   "kelime": "أَطَعْتُم",
+   "okunus": "eta'tüm",
+   "kok": "طوع",
+   "kokAnlam": "boyun eğme, itaat",
+   "karsilik": "itaat ederseniz"
+  },
+  {
+   "kelime": "بَشَرًا",
+   "okunus": "beşeran",
+   "kok": "بشر",
+   "kokAnlam": "insan, beşer",
+   "karsilik": "bir beşere"
+  },
+  {
+   "kelime": "مِّثْلَكُمْ",
+   "okunus": "misleküm",
+   "kok": "مثل",
+   "kokAnlam": "benzerlik",
+   "karsilik": "sizin gibi"
+  },
+  {
+   "kelime": "إِنَّكُمْ",
+   "okunus": "inneküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz siz",
+   "karsilik": "şüphesiz siz"
+  },
+  {
+   "kelime": "إِذًا",
+   "okunus": "izen",
+   "kok": "—",
+   "kokAnlam": "(cevap) o zaman",
+   "karsilik": "o zaman"
+  },
+  {
+   "kelime": "لَّخَٰسِرُونَ",
+   "okunus": "lehâsirûne",
+   "kok": "خسر",
+   "kokAnlam": "kayıp, ziyan",
+   "karsilik": "kesinlikle kaybedenlersiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "İleri gelenler, elçiye itaat etmenin kavmi hüsrana sürükleyeceğini iddia eder; oysa gerçekte tam tersi doğrudur. Bu, inkârcıların kendi mantıklarını tersyüz ederek elçiyi değil kendilerini haklı çıkarma çabasıdır.",
+  "'Hâsirûn' (kaybedenler) ifadesi Kur'an'da sıkça gerçek kaybın ahirette ortaya çıkacağını vurgulamak için kullanılır; burada ironik biçimde inkârcıların iddiası, aslında kendi durumlarını tarif eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "39:15",
+   "meal": "De ki: Gerçek kaybedenler, kıyamet günü kendilerini ve ailelerini ziyana uğratanlardır.",
+   "baglanti": "Aynı 'hâsirûn' kökünü taşır; gerçek kaybın ne olduğunu, inkârcıların iddiasının tersine tanımlar."
+  },
+  {
+   "ref": "7:178",
+   "meal": "Allah kimi doğru yola iletirse doğru yolu bulmuştur; kimi de saptırırsa işte onlar kaybedenlerdir.",
+   "baglanti": "Kaybedenlerin kim olduğunu netleştirir; itaat edilmesi gereken şeyin doğru yol olduğunu vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, doğru sözün reddedilme gerekçesi olarak 'sıradan bir insana neden uyalım' mantığıdır.",
+  "Bugün de bir öğüdü, sadece söyleyen kişi 'bizim gibi biri' diye küçümseyip reddetmek yaygındır; oysa sözün doğruluğu söyleyenin statüsüne bağlı değildir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözü değil doğruluğunu değerlendir",
+   "aciklama": "Bugün bir tavsiyeyi, kim söylediğine değil doğru olup olmadığına göre değerlendir."
+  },
+  {
+   "baslik": "Kaybı doğru tanımla",
+   "aciklama": "Bugün bir kararında, kısa vadeli kazancı değil uzun vadeli sonucu düşün."
+  },
+  {
+   "baslik": "İtaat ettiğin şeyi gözden geçir",
+   "aciklama": "Bugün alışkanlıkla yaptığın bir şeyin gerçekten doğru olup olmadığını sorgula."
+  }
+ ],
+ "bugununAdimi": "Bugün bir tavsiyeyi veya uyarıyı, kim söylediğine bakmadan doğruluğuna göre değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=34"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/34"
+  }
+ ]
+}

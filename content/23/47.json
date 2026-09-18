@@ -1,0 +1,103 @@
+{
+ "sure": 23,
+ "ayet": 47,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'Kavimleri bize kulluk edip dururken, bizim gibi iki beşere mi iman edeceğiz?'",
+ "mealNotu": "'Kavmühümâ lenâ âbidûn' cümlesi Arapçada hal (durum) cümlesidir; Mûsâ ve Hârûn'un kavmi (İsrailoğulları) Firavun'a kulluk ederken bu iki kişiye nasıl inanılacağı sorulur.",
+ "kokler": [
+  {
+   "kelime": "فَقَالُوٓا۟",
+   "okunus": "fekâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "أَنُؤْمِنُ",
+   "okunus": "enü'minü",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman edecek miyiz"
+  },
+  {
+   "kelime": "لِبَشَرَيْنِ",
+   "okunus": "libeşerayni",
+   "kok": "بشر",
+   "kokAnlam": "insan, beşer",
+   "karsilik": "iki beşere"
+  },
+  {
+   "kelime": "مِثْلِنَا",
+   "okunus": "mislinâ",
+   "kok": "مثل",
+   "kokAnlam": "benzerlik",
+   "karsilik": "bizim gibi"
+  },
+  {
+   "kelime": "وَقَوْمُهُمَا",
+   "okunus": "ve kavmühümâ",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "kavimleri"
+  },
+  {
+   "kelime": "لَنَا",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "bize",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "عَٰبِدُونَ",
+   "okunus": "âbidûne",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme, ibadet",
+   "karsilik": "kulluk edip dururken"
+  }
+ ],
+ "neAnlatiyor": [
+  "Firavun ve çevresi, Mûsâ ve Hârûn'a inanmayı reddetme gerekçesini iki noktada toplar: ikisinin de sıradan birer beşer olması ve kendi kavimlerinin (İsrailoğulları) zaten Firavun'a boyun eğen bir topluluk olması. Bu, 33. ayetteki 'bizim gibi bir beşer' itirazının Firavun'un ağzında tekrarıdır.",
+  "'Kavimleri bize kulluk etmektedir' ifadesi, Firavun'un kendini ilahlaştıran konumunu örtük biçimde gösterir; bu, Kur'an'ın başka yerlerinde açıkça 'en yüce rabbiniz benim' demesiyle netleşen bir tavırdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "79:24",
+   "meal": "Dedi ki: 'Ben sizin en yüce Rabbinizim.'",
+   "baglanti": "Firavun'un kendini ilah ilan etme kibrini, farklı bir surede açıkça gösterir."
+  },
+  {
+   "ref": "43:54",
+   "meal": "Firavun kavmini küçümsedi/aldattı, onlar da ona itaat ettiler; çünkü onlar fasık bir topluluktu.",
+   "baglanti": "Kavminin Firavun'a itaatini, farklı bir surede doğrudan anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Firavun'un statü ve çoğunluk gerekçesiyle hakikati reddetmesidir.",
+  "Bugüne taşınabilecek ders, 'herkes böyle yapıyor' ya da 'bize kimse itiraz edemez' mantığının doğruyu görmeye engel olabileceğidir; çoğunluğun ya da gücün yanında olması bir şeyi doğru yapmaz."
+ ],
+ "bugun": [
+  {
+   "baslik": "Çoğunluğa değil doğruya bak",
+   "aciklama": "Bugün bir konuda, 'herkes böyle yapıyor' gerekçesini sorgula."
+  },
+  {
+   "baslik": "Statüyle doğruyu karıştırma",
+   "aciklama": "Bugün bir fikri, kimin söylediğine değil içeriğine göre değerlendir."
+  },
+  {
+   "baslik": "Gücünü kötüye kullanma",
+   "aciklama": "Bugün elindeki bir avantajı, başkasını susturmak için kullanma."
+  }
+ ],
+ "bugununAdimi": "Bugün 'herkes böyle yapıyor' dediğin bir alışkanlığını gözden geçir ve doğruluğunu sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=47"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/47"
+  }
+ ]
+}

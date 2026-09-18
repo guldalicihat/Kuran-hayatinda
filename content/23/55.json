@@ -1,0 +1,103 @@
+{
+ "sure": 23,
+ "ayet": 55,
+ "durum": "taslak",
+ "meal": "Onlara mal ve evlatla verdiğimiz bu desteği mi sanıyorlar,",
+ "mealNotu": "Bu ayet, cümlesini 56. ayetle tamamlar; 'ennemâ' bağlacı soruyu ileriye taşır, bu yüzden meal burada bilinçli olarak yarım bırakılmıştır.",
+ "kokler": [
+  {
+   "kelime": "أَيَحْسَبُونَ",
+   "okunus": "eyahsebûne",
+   "kok": "حسب",
+   "kokAnlam": "sayma, sanma, hesap etme",
+   "karsilik": "sanıyorlar mı"
+  },
+  {
+   "kelime": "أَنَّمَا",
+   "okunus": "ennemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid+ilgi) gerçekten ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "نُمِدُّهُم",
+   "okunus": "nümiddühüm",
+   "kok": "مدد",
+   "kokAnlam": "uzatma, destek verme, yardım",
+   "karsilik": "onlara verdiğimiz destek"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "onunla",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "مَّالٍ",
+   "okunus": "mâlin",
+   "kok": "مول",
+   "kokAnlam": "mal, servet",
+   "karsilik": "mal"
+  },
+  {
+   "kelime": "وَبَنِينَ",
+   "okunus": "ve benîne",
+   "kok": "بني",
+   "kokAnlam": "oğulluk, evlat",
+   "karsilik": "ve evlat"
+  }
+ ],
+ "neAnlatiyor": [
+  "54. ayette inkârcıları kendi hallerine bırakma emrinin ardından bu ayet, onların sahip olduğu mal ve evlat bolluğunun gerçek anlamını sorgulatır. Soru, 56. ayetle birlikte tamamlanan tek bir cümledir.",
+  "Bu, Mekke döneminde sıkça karşılaşılan bir yanılgıya işaret eder: dünyevi bolluğun, Allah katında bir üstünlük veya sevgi göstergesi olduğu sanısı. Kur'an bu düşünceyi ilerleyen ayette açıkça reddeder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "34:35",
+   "meal": "Dediler ki: 'Biz mal ve evlatça daha çoğuz, biz azaba uğratılacak da değiliz.'",
+   "baglanti": "Aynı yanılgının doğrudan ifadesini, farklı bir surede gösterir."
+  },
+  {
+   "ref": "9:55",
+   "meal": "Onların malları ve evlatları seni imrendirmesin; Allah bunlarla ancak dünya hayatında onlara azap etmek ister.",
+   "baglanti": "Mal ve evlat bolluğunun aldatıcı olabileceğini, farklı bir surede açıkça gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, mal ve evlat çokluğunun bir üstünlük ya da ödül sanılmasıdır.",
+  "Bugüne taşınabilecek ders, maddi bolluğu otomatik olarak Allah'ın rızası ya da bir başarı göstergesi saymamaktır; asıl ölçü davranış ve niyettir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bolluğu ölçü sanma",
+   "aciklama": "Bugün, maddi durumunla başkasını veya kendini yargılamaktan kaçın."
+  },
+  {
+   "baslik": "Gerçek ölçüyü hatırla",
+   "aciklama": "Bugün bir başarıyı, sadece maddi kazançla değil doğruluk ve iyilikle değerlendir."
+  },
+  {
+   "baslik": "Şükrü doğru yerde ara",
+   "aciklama": "Bugün sahip olduğun bir imkânı, bir sınav olarak gör, bir üstünlük olarak değil."
+  }
+ ],
+ "bugununAdimi": "Bugün bir başarını, maddi kazancına değil doğru davranışına bağlı olarak değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=55"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/55"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "sure": 23,
+ "ayet": 42,
+ "durum": "taslak",
+ "meal": "Sonra onların ardından başka nesiller var ettik.",
+ "mealNotu": "31. ayetteki tekil 'karn' burada çoğul 'kurûn' olarak gelir; bu, tek bir nesil değil art arda birçok neslin helak olup yenilerinin gelmesini anlatır.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "bağlaç, sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "أَنشَأْنَا",
+   "okunus": "enşe'nâ",
+   "kok": "نشأ",
+   "kokAnlam": "oluşturma, var etme",
+   "karsilik": "var ettik"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "بَعْدِهِمْ",
+   "okunus": "ba'dihim",
+   "kok": "بعد",
+   "kokAnlam": "sonralık, ardından",
+   "karsilik": "onların ardından"
+  },
+  {
+   "kelime": "قُرُونًا",
+   "okunus": "kurûnen",
+   "kok": "قرن",
+   "kokAnlam": "nesil, kuşak, çağ",
+   "karsilik": "başka nesiller"
+  },
+  {
+   "kelime": "ءَاخَرِينَ",
+   "okunus": "âharîne",
+   "kok": "أخر",
+   "kokAnlam": "başkalık",
+   "karsilik": "başka"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki kavmin helakinden (41. ayet) sonra Kur'an, bunun tek seferlik bir olay olmadığını, art arda birçok neslin gelip geçtiğini bildirir. Bu, 43-44. ayetlerde açıklanacak genel bir ilahi kanunun girişidir: her ümmetin bir eceli ve kendi elçisi vardır.",
+  "Tekrar eden 'sonra var ettik' ifadesi, 31. ayetle kasıtlı bir paralellik kurar; ancak burada çoğul kullanılarak tarih boyunca tekrarlanan bir örüntüye işaret edilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:6",
+   "meal": "Kendilerinden önce nice nesilleri helak ettiğimizi görmediler mi...",
+   "baglanti": "Aynı kök, farklı bir surede geçmiş nesillerin ardı ardına helakine dair genel ilkeyi vurgular."
+  },
+  {
+   "ref": "23:31",
+   "meal": "Sonra onların ardından başka bir nesil var ettik.",
+   "baglanti": "Aynı surede, aynı ifadenin tekil hali; buradaki çoğula geçiş, bu örüntünün tekrarlandığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, tarihte art arda gelip geçen toplumlardır.",
+  "Bugüne taşınabilecek ders, hiçbir neslin veya toplumun kalıcı olmadığıdır; bu bilinç, kişiyi geçici güç ve statüye aşırı bağlanmaktan alıkoyabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kalıcı olanı önceliklendir",
+   "aciklama": "Bugün zamanını harcarken, kalıcı bir değer mi yoksa geçici bir şey mi ürettiğini düşün."
+  },
+  {
+   "baslik": "Tarihten ders çıkar",
+   "aciklama": "Bugün, geçmiş bir toplumun hatasından kendi hayatına bir ders çıkar."
+  },
+  {
+   "baslik": "Nesiller arası sorumluluğu hatırla",
+   "aciklama": "Bugün, senden sonrakilere bırakacağın bir örnek davranışı gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün, kalıcı bir değer üretecek küçük bir iş yap (bir bilgi paylaş, bir yardımda bulun).",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=42"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/42"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "sure": 23,
+ "ayet": 45,
+ "durum": "taslak",
+ "meal": "Sonra Mûsâ'yı ve kardeşi Hârûn'u, ayetlerimizle ve apaçık bir delille gönderdik.",
+ "mealNotu": "'Sultan' kökü hem güç/otorite hem de açık delil anlamına gelir; burada mucizevi kanıt kastedildiği için 'delil' tercih edildi.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "bağlaç",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "أَرْسَلْنَا",
+   "okunus": "erselnâ",
+   "kok": "رسل",
+   "kokAnlam": "gönderme",
+   "karsilik": "gönderdik"
+  },
+  {
+   "kelime": "مُوسَىٰ",
+   "okunus": "mûsâ",
+   "kok": "—",
+   "kokAnlam": "(özel isim)",
+   "karsilik": "Mûsâ'yı"
+  },
+  {
+   "kelime": "وَأَخَاهُ",
+   "okunus": "ve ehâhü",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "ve kardeşi"
+  },
+  {
+   "kelime": "هَٰرُونَ",
+   "okunus": "hârûne",
+   "kok": "—",
+   "kokAnlam": "(özel isim)",
+   "karsilik": "Hârûn'u"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِنَا",
+   "okunus": "biâyâtinâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil; ayet",
+   "karsilik": "ayetlerimizle"
+  },
+  {
+   "kelime": "وَسُلْطَٰنٍ",
+   "okunus": "ve sültânin",
+   "kok": "سلط",
+   "kokAnlam": "güç, otorite, delil",
+   "karsilik": "ve bir delille"
+  },
+  {
+   "kelime": "مُّبِينٍ",
+   "okunus": "mübînin",
+   "kok": "بين",
+   "kokAnlam": "açıklık, netlik",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Anlatı, Nuh kıssası ve isimsiz nesillerden sonra bilinen bir örneğe, Mûsâ ve Hârûn'un Firavun'a gönderilişine geçer. Bu, önceki genel ilkenin (her ümmete bir elçi, 44. ayet) somut ve tarihsel bir örneğidir.",
+  "'Ayetlerimiz ve apaçık bir delil' ifadesi, Mûsâ'ya verilen mucizeleri işaret eder; bu ayet ayrıntıya girmeden sadece genel çerçeveyi verir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "20:43",
+   "meal": "İkiniz Firavun'a gidin; çünkü o azmıştır.",
+   "baglanti": "Mûsâ ve Hârûn'un birlikte Firavun'a gönderilişini, farklı bir surede doğrudan görevlendirme sözüyle anlatır."
+  },
+  {
+   "ref": "28:35",
+   "meal": "Kardeşinle seni güçlendireceğiz ve ikinize öyle bir delil vereceğiz ki...",
+   "baglanti": "'Sultan' (güçlü delil) kökü ortak; farklı bir surede aynı desteğin verildiği bildirilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Mûsâ ve Hârûn'un birlikte peygamber olarak gönderilişidir.",
+  "Buradan çıkarılabilecek genel ders, zor bir görevde yalnız değil, güvenilir bir yardımcı ile birlikte hareket etmenin gücüdür; kardeşlik ve dayanışma büyük sorumlulukları taşımayı kolaylaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yalnız yürüme",
+   "aciklama": "Bugün zor bir işte, güvendiğin biriyle iş birliği yap."
+  },
+  {
+   "baslik": "Delilini hazırla",
+   "aciklama": "Bugün savunduğun bir görüşü, net ve anlaşılır delillerle destekle."
+  },
+  {
+   "baslik": "Kardeşine destek ol",
+   "aciklama": "Bugün bir yakınına, yükünü hafifletecek somut bir destek ver."
+  }
+ ],
+ "bugununAdimi": "Bugün zorlandığın bir işte, güvendiğin birinden yardım iste.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=45"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/45"
+  }
+ ]
+}

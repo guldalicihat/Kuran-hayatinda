@@ -1,0 +1,117 @@
+{
+ "sure": 23,
+ "ayet": 35,
+ "durum": "taslak",
+ "meal": "Size, öldüğünüz, toprak ve kemik olduğunuzda tekrar çıkarılacağınızı mı vaat ediyor?",
+ "mealNotu": "'Muhracûn' kökü çıkma/çıkarma anlamındaki 'huruc' kökünden gelir; burada topraktan tekrar diriltilip çıkarılmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَيَعِدُكُمْ",
+   "okunus": "eyeidüküm",
+   "kok": "وعد",
+   "kokAnlam": "söz verme, vaat",
+   "karsilik": "size mi vaat ediyor"
+  },
+  {
+   "kelime": "أَنَّكُم",
+   "okunus": "enneküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "مِتُّمْ",
+   "okunus": "mittüm",
+   "kok": "موت",
+   "kokAnlam": "ölme",
+   "karsilik": "öldüğünüzde"
+  },
+  {
+   "kelime": "وَكُنتُمْ",
+   "okunus": "ve küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ve olduğunuzda"
+  },
+  {
+   "kelime": "تُرَابًا",
+   "okunus": "türâben",
+   "kok": "ترب",
+   "kokAnlam": "toprak",
+   "karsilik": "toprak"
+  },
+  {
+   "kelime": "وَعِظَٰمًا",
+   "okunus": "ve izâmen",
+   "kok": "عظم",
+   "kokAnlam": "kemik",
+   "karsilik": "ve kemik"
+  },
+  {
+   "kelime": "أَنَّكُم",
+   "okunus": "enneküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "مُّخْرَجُونَ",
+   "okunus": "mühracûne",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, dışarı çıkarma",
+   "karsilik": "çıkarılacaksınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "İleri gelenler burada diriliş inancını alay konusu yapar: ölüp toprak ve kemiğe dönüştükten sonra yeniden çıkarılmanın imkânsız olduğunu ima ederler. Bu, 33. ayette geçen 'ahiret buluşmasını yalanlama'nın somut gerekçesidir.",
+  "Ayetin üslubu soru biçimindedir; bu, inkârcıların diriliş fikrini akıl dışı bulduklarını göstermek için kullanılan alaycı bir tondur. Sonraki ayet (36) bu alayı sürdürür."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:78",
+   "meal": "Kim diriltecek şu çürümüş kemikleri? dedi. De ki: Onları ilk defa yaratan diriltecek.",
+   "baglanti": "Aynı diriliş inkarı ve 'kemik' teması, Yâsîn suresinde açık bir cevapla birlikte geçer."
+  },
+  {
+   "ref": "50:3",
+   "meal": "Öldüğümüz ve toprak olduğumuzda mı (yeniden döneceğiz)? Bu, uzak bir dönüştür dediler.",
+   "baglanti": "Toprak ve tekrar çıkarılma itirazının neredeyse birebir paraleli, farklı bir surede geçer."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan diriliş inkarıdır; bu özel bir itikadi konudur.",
+  "Buradan çıkarılabilecek genel ders, ölümü ve sonrasını 'imkânsız' ya da 'uzak' görüp gündelik hayattan tamamen dışlamamaktır; ölüm sonrası hesap bilinci bugünkü tercihleri şekillendirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ölümü unutma",
+   "aciklama": "Bugün bir kararında 'Bu tercihimin hesabını verebilir miyim?' diye kendine sor."
+  },
+  {
+   "baslik": "İnkarı ciddiye alma alışkanlığından kaçın",
+   "aciklama": "Bugün önemli bir gerçeği sırf zor kabul edilir diye reddetme."
+  },
+  {
+   "baslik": "Bedenin geçiciliğini hatırla",
+   "aciklama": "Bugün bedenine gösterdiğin özenin yanında kalıcı olan iyiliklere de zaman ayır."
+  }
+ ],
+ "bugununAdimi": "Bugün yapacağın bir işi 'Bunun hesabını verebilir miyim?' sorusuyla değerlendirerek yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=35"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/35"
+  }
+ ]
+}

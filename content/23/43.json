@@ -1,0 +1,103 @@
+{
+ "sure": 23,
+ "ayet": 43,
+ "durum": "taslak",
+ "meal": "Hiçbir ümmet kendi ecelinin önüne geçemez, onu geciktiremezler de.",
+ "mealNotu": "'Ecel' kökü belirlenmiş süreyi/vadeyi anlatır; burada her toplumun kendine ait bir helak/son vaktinin olduğu vurgulanır.",
+ "kokler": [
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "تَسْبِقُ",
+   "okunus": "tesbiku",
+   "kok": "سبق",
+   "kokAnlam": "önce geçme, öne geçme",
+   "karsilik": "önüne geçemez"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(nekre pekiştirici) hiçbir",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "أُمَّةٍ",
+   "okunus": "ümmetin",
+   "kok": "أمم",
+   "kokAnlam": "topluluk, ümmet",
+   "karsilik": "ümmet"
+  },
+  {
+   "kelime": "أَجَلَهَا",
+   "okunus": "ecelehâ",
+   "kok": "أجل",
+   "kokAnlam": "süre, belirlenmiş vakit",
+   "karsilik": "kendi ecelinin"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يَسْتَـْٔخِرُونَ",
+   "okunus": "yeste'hırûne",
+   "kok": "أخر",
+   "kokAnlam": "geriye bırakma, geciktirme",
+   "karsilik": "geciktiremezler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetlerde anlatılan helak kıssalarının ardındaki genel ilkeyi açıklar: her ümmetin belirlenmiş bir süresi (ecel) vardır; bu süre ne öne alınır ne geciktirilir.",
+  "Bu ilke, sadece toplumlar için değil bireyler için de Kur'an'da tekrarlanan bir kuraldır; zaman, ilahi takdire göre işler, insan isteğiyle değişmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:34",
+   "meal": "Her ümmetin bir eceli vardır; ecelleri geldiğinde ne bir an geri kalırlar ne de öne geçebilirler.",
+   "baglanti": "Neredeyse birebir aynı ifade; farklı bir surede aynı ilkeyi tekrarlar."
+  },
+  {
+   "ref": "63:11",
+   "meal": "Allah, eceli geldiğinde hiç kimseyi asla ertelemez.",
+   "baglanti": "Aynı ilkeyi bireysel düzeyde, farklı bir surede ifade eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu toplumların belirlenmiş süresidir; ancak ilke genel bir zaman/kader gerçeğine işaret eder.",
+  "Bugüne taşınabilecek ders, zamanı erteleyerek veya acele ederek kontrol edemeyeceğimiz gerçeğini kabul edip elimizdeki anı iyi değerlendirmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Anı değerlendir",
+   "aciklama": "Bugün elindeki zamanı, sonsuza kadar sürecekmiş gibi değil, sınırlı bir emanet gibi kullan."
+  },
+  {
+   "baslik": "Kontrol edemeyeceğini bırak",
+   "aciklama": "Bugün değiştiremeyeceğin bir zamanlamayı kabullenip enerjini elindeki işe ver."
+  },
+  {
+   "baslik": "Sabırla bekle",
+   "aciklama": "Bugün sonucunu göremediğin bir çabada sabırlı ol; her şeyin bir vakti olduğunu hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün, sonucunu acele beklediğin bir konuda sabırlı davranmayı dene.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=43"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/43"
+  }
+ ]
+}

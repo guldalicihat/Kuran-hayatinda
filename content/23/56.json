@@ -1,0 +1,103 @@
+{
+ "sure": 23,
+ "ayet": 56,
+ "durum": "taslak",
+ "meal": "onlara hayırlarda koşturuyoruz mu [sanıyorlar]? Hayır, onlar farkında değiller.",
+ "mealNotu": "55-56. ayetler tek cümledir; buradaki '[sanıyorlar]' ifadesi önceki ayetten devam eden soruyu tamamlamak için köşeli parantezle eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "نُسَارِعُ",
+   "okunus": "nüsâriu",
+   "kok": "سرع",
+   "kokAnlam": "hız, acele, koşma",
+   "karsilik": "koşturuyoruz"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "-de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْخَيْرَٰتِ",
+   "okunus": "elhayrâti",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "hayırlarda"
+  },
+  {
+   "kelime": "بَل",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) hayır, aksine",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değiller"
+  },
+  {
+   "kelime": "يَشْعُرُونَ",
+   "okunus": "yeş'urûne",
+   "kok": "شعر",
+   "kokAnlam": "fark etme, hissetme, bilme",
+   "karsilik": "farkında"
+  }
+ ],
+ "neAnlatiyor": [
+  "55. ayette başlayan soru burada tamamlanır ve doğrudan reddedilir: inkârcıların sahip olduğu mal ve evlat, onlara verilen bir ödül/hayır yarışı değildir. 'Hayır, aksine' edatı, önceki yanlış varsayımı kesin biçimde çürütür.",
+  "Ayet, onların bu gerçeğin 'farkında olmadığını' söyleyerek, sorunun bilgi eksikliğinden çok bir gaflet/algı sorunu olduğunu vurgular; bu da 54. ayetteki 'gamra' (sersemlik) temasıyla örtüşür."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:178",
+   "meal": "İnkâr edenler, kendilerine mühlet vermemizin nefisleri için hayırlı olduğunu sanmasınlar; onlara ancak günahlarını artırsınlar diye mühlet veriyoruz.",
+   "baglanti": "Mal/mühlet bolluğunun yanıltıcı olabileceği temasını, farklı bir surede destekler."
+  },
+  {
+   "ref": "63:9",
+   "meal": "Mallarınız ve evlatlarınız sizi Allah'ı anmaktan alıkoymasın.",
+   "baglanti": "Mal ve evladın bir gaflet sebebi olabileceği uyarısını, farklı bir surede tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, dünyevi bolluğun bir mükâfat sanılmasının yanlışlığıdır.",
+  "Bugüne taşınabilecek ders, elindeki imkânların artmasını her zaman 'doğru yoldayım' göstergesi saymamak, bunun bir sınav da olabileceğini akılda tutmaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bolluğu sınav bil",
+   "aciklama": "Bugün artan bir imkânını, gurur değil sorumluluk vesilesi say."
+  },
+  {
+   "baslik": "Farkındalığını artır",
+   "aciklama": "Bugün bir nimetin seni yanlış bir rahatlığa sürükleyip sürüklemediğini düşün."
+  },
+  {
+   "baslik": "Gafleti fark et",
+   "aciklama": "Bugün, günlük telaşın seni asıl önemli şeyden uzaklaştırıp uzaklaştırmadığını sorgula."
+  }
+ ],
+ "bugununAdimi": "Bugün sahip olduğun bir imkânı, gurur yerine bir sorumluluk olarak ele al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=56"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/56"
+  }
+ ]
+}

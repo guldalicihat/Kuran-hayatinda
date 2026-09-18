@@ -1,0 +1,138 @@
+{
+ "sure": 23,
+ "ayet": 38,
+ "durum": "taslak",
+ "meal": "O, Allah'a karşı yalan uyduran bir adamdan başkası değildir; biz ona iman edecek değiliz.",
+ "mealNotu": "'İfterâ' kökü kasıtlı uydurma/iftirayı anlatır; 'yalan uyduran' ifadesiyle bu ayrım korunmuştur.",
+ "kokler": [
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "ancak",
+   "karsilik": "başkası"
+  },
+  {
+   "kelime": "رَجُلٌ",
+   "okunus": "racülün",
+   "kok": "رجل",
+   "kokAnlam": "erkek, adam",
+   "karsilik": "bir adamdan"
+  },
+  {
+   "kelime": "ٱفْتَرَىٰ",
+   "okunus": "ifterâ",
+   "kok": "فري",
+   "kokAnlam": "uydurma, iftira",
+   "karsilik": "uyduran"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerine",
+   "karsilik": "-a karşı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "كَذِبًا",
+   "okunus": "keziben",
+   "kok": "كذب",
+   "kokAnlam": "yalan",
+   "karsilik": "yalan"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "نَحْنُ",
+   "okunus": "nahnü",
+   "kok": "—",
+   "kokAnlam": "(zamir) biz",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "بِمُؤْمِنِينَ",
+   "okunus": "bimü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman edecek"
+  }
+ ],
+ "neAnlatiyor": [
+  "İleri gelenlerin son iddiası, elçinin Allah adına yalan söylediği ve ona asla iman etmeyecekleridir. Bu, 33-37. ayetlerde sıralanan itirazların (sıradan insan olması, dirilişin imkânsızlığı) doğal sonucu olarak sunulur.",
+  "'İftira' suçlaması, Kur'an'da peygamberlere yöneltilen tekrarlayan bir itham biçimidir; ayet bunu doğrudan çürütmez, sonraki ayette elçinin Rabbine sığınmasıyla (39. ayet) cevap verir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "34:8",
+   "meal": "Yoksa o Allah'a karşı yalan mı uydurdu, yoksa onda bir delilik mi var? dediler.",
+   "baglanti": "Elçiye yöneltilen 'iftira' ithamının, farklı bir kıssada da tekrarlanan bir örüntü olduğunu gösterir."
+  },
+  {
+   "ref": "23:44",
+   "meal": "Sonra elçilerimizi ardı ardına gönderdik. Her ümmete elçisi geldiğinde onu yalanladılar.",
+   "baglanti": "Aynı surede, yalanlamanın tek bir kavme özgü olmadığı, tekrarlayan bir örüntü olduğu netleşir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, doğru sözü söyleyen kişiye yöneltilen asılsız bir iftira suçlamasıdır.",
+  "Bugüne taşınabilecek ders, birini suçlamadan önce delil aramak ve haksız yere 'yalancı' damgası vurmaktan kaçınmaktır; aynı şekilde doğru söylediğin halde haksız suçlamaya uğrarsan sabretmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İtham etmeden önce düşün",
+   "aciklama": "Bugün birini suçlamadan önce, elindeki delili gözden geçir."
+  },
+  {
+   "baslik": "Haksız söze sabret",
+   "aciklama": "Bugün haksız bir eleştiriyle karşılaşırsan, hemen karşılık vermek yerine sakin kal."
+  },
+  {
+   "baslik": "Doğruyu savun",
+   "aciklama": "Bugün, kendinden emin olduğun doğru bir bilgiyi, tepki çekeceğini bilsen de nazikçe paylaş."
+  }
+ ],
+ "bugununAdimi": "Bugün birini eleştirmeden önce, iddiana dair somut bir delilin olup olmadığını kontrol et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=38"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/38"
+  }
+ ]
+}
