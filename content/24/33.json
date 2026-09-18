@@ -1,0 +1,390 @@
+{
+ "sure": 24,
+ "ayet": 33,
+ "durum": "taslak",
+ "meal": "Nikâh (imkânı) bulamayanlar, Allah kendi lütfundan onları zenginleştirinceye kadar iffetli kalsınlar. Ellerinizin altında bulunanlardan mükâtebe isteyenlere gelince, onlarda bir hayır bilirseniz onlarla mükâtebe yapın ve Allah'ın size verdiği malından onlara verin. Dünya hayatının geçici menfaatini elde etmek için, iffetli kalmak isteyen cariyelerinizi fuhşa zorlamayın. Kim onları zorlarsa, şüphesiz Allah onların zorlanmasından sonra çok bağışlayan, çok merhamet edendir.",
+ "mealNotu": "'Kitâb' kökü كتب burada yazılı belge, yani 'mükâtebe' (köle-efendi arasında yazılı özgürlük anlaşması) anlamındadır; 'tehassun' kökü حصن korunma/iffetli kalmayı ifade eder. [imkânı] köşeli parantezle eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَلْيَسْتَعْفِفِ",
+   "okunus": "ve lyesta'fifi",
+   "kok": "عفف",
+   "kokAnlam": "iffetli olma, kendini tutma",
+   "karsilik": "iffetli olsun(lar)"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olanlar",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-mayan"
+  },
+  {
+   "kelime": "يَجِدُونَ",
+   "okunus": "yecidûne",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulanlar"
+  },
+  {
+   "kelime": "نِكَاحًا",
+   "okunus": "nikâhan",
+   "kok": "نكح",
+   "kokAnlam": "nikâh, evlenme",
+   "karsilik": "nikâh (imkânı)"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ta ki",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "يُغْنِيَهُمُ",
+   "okunus": "yüğniyehümü",
+   "kok": "غني",
+   "kokAnlam": "zenginleştirme, ihtiyaçsız kılma",
+   "karsilik": "zenginleştirinceye kadar"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "فَضْلِهِۦ",
+   "okunus": "fadlihî",
+   "kok": "فضل",
+   "kokAnlam": "lütuf, fazlalık",
+   "karsilik": "kendi lütfundan"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "ve ... olanlar",
+   "karsilik": "ve kimseler"
+  },
+  {
+   "kelime": "يَبْتَغُونَ",
+   "okunus": "yebteğûne",
+   "kok": "بغي",
+   "kokAnlam": "isteme, arama",
+   "karsilik": "isteyenler"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı belge",
+   "karsilik": "mükâtebe (yazılı anlaşma)"
+  },
+  {
+   "kelime": "مِمَّا",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "-dan",
+   "karsilik": "-dan"
+  },
+  {
+   "kelime": "مَلَكَتْ",
+   "okunus": "meleket",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, mülkiyet",
+   "karsilik": "sahip olduğu"
+  },
+  {
+   "kelime": "أَيْمَٰنُكُمْ",
+   "okunus": "eymânüküm",
+   "kok": "يمن",
+   "kokAnlam": "sağ el; sahiplik",
+   "karsilik": "ellerinizin (altındakilerden)"
+  },
+  {
+   "kelime": "فَكَاتِبُوهُمْ",
+   "okunus": "fekâtibûhüm",
+   "kok": "كتب",
+   "kokAnlam": "yazma, yazılı sözleşme yapma",
+   "karsilik": "onlarla mükâtebe yapın"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "عَلِمْتُمْ",
+   "okunus": "alimtüm",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilirseniz"
+  },
+  {
+   "kelime": "فِيهِمْ",
+   "okunus": "fîhim",
+   "kok": "—",
+   "kokAnlam": "onlarda",
+   "karsilik": "onlarda"
+  },
+  {
+   "kelime": "خَيْرًا",
+   "okunus": "hayran",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "bir hayır"
+  },
+  {
+   "kelime": "وَءَاتُوهُم",
+   "okunus": "ve âtûhüm",
+   "kok": "أتي",
+   "kokAnlam": "verme, getirme",
+   "karsilik": "onlara verin"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "مَّالِ",
+   "okunus": "mâli",
+   "kok": "مول",
+   "kokAnlam": "mal, servet",
+   "karsilik": "malından"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "ٱلَّذِىٓ",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "ki o",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "ءَاتَىٰكُمْ",
+   "okunus": "âtâküm",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "size verdiği"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "ve ... değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "تُكْرِهُوا۟",
+   "okunus": "tükrihû",
+   "kok": "كره",
+   "kokAnlam": "zorlama, mecbur etme",
+   "karsilik": "zorlamayın"
+  },
+  {
+   "kelime": "فَتَيَٰتِكُمْ",
+   "okunus": "feteyâtiküm",
+   "kok": "فتي",
+   "kokAnlam": "genç kadın, cariye",
+   "karsilik": "cariyelerinizi"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "-e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْبِغَآءِ",
+   "okunus": "elbiğâi",
+   "kok": "بغي",
+   "kokAnlam": "fuhuş, aşırı istek",
+   "karsilik": "fuhşa"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَرَدْنَ",
+   "okunus": "eradne",
+   "kok": "رود",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "istiyorlarsa"
+  },
+  {
+   "kelime": "تَحَصُّنًا",
+   "okunus": "tehassunen",
+   "kok": "حصن",
+   "kokAnlam": "korunma, iffetli kalma",
+   "karsilik": "iffetli kalmayı"
+  },
+  {
+   "kelime": "لِّتَبْتَغُوا۟",
+   "okunus": "litebteğû",
+   "kok": "بغي",
+   "kokAnlam": "isteme, arama",
+   "karsilik": "elde etmek için"
+  },
+  {
+   "kelime": "عَرَضَ",
+   "okunus": "arada",
+   "kok": "عرض",
+   "kokAnlam": "geçici mal, menfaat",
+   "karsilik": "geçici menfaatini"
+  },
+  {
+   "kelime": "ٱلْحَيَوٰةِ",
+   "okunus": "elhayâti",
+   "kok": "حيي",
+   "kokAnlam": "hayat, yaşam",
+   "karsilik": "hayatının"
+  },
+  {
+   "kelime": "ٱلدُّنْيَا",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakın, aşağı; dünya",
+   "karsilik": "dünya"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "يُكْرِههُّنَّ",
+   "okunus": "yükrihhhünne",
+   "kok": "كره",
+   "kokAnlam": "zorlama",
+   "karsilik": "onları zorlarsa"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "mim",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "إِكْرَٰهِهِنَّ",
+   "okunus": "ikrâhihinne",
+   "kok": "كره",
+   "kokAnlam": "zorlama",
+   "karsilik": "onların zorlanmasından"
+  },
+  {
+   "kelime": "غَفُورٌ",
+   "okunus": "gafûrun",
+   "kok": "غفر",
+   "kokAnlam": "bağışlama, örtme",
+   "karsilik": "çok bağışlayan"
+  },
+  {
+   "kelime": "رَّحِيمٌ",
+   "okunus": "rahîmün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet",
+   "karsilik": "çok merhamet edendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "32. ayette evlenmenin teşvik edilmesinin ardından bu ayet, evlenme imkânı bulamayanlara bir yol gösterir: Allah kendilerini zenginleştirinceye kadar iffetli kalmaları istenir. Ardından, döneminin bir kurumu olan kölelik bağlamında, efendisiyle yazılı bir özgürlük anlaşması (mükâtebe) yapmak isteyen kölelere bu imkânın tanınması ve kendilerine maddi destek verilmesi emredilir.",
+  "Ayetin ikinci kısmı, cariyelerin dünya hayatının geçici bir menfaati (kazanç) karşılığında fuhşa zorlanmasını açıkça yasaklar; bu, kölelik döneminin sosyal koşullarına ait özel bir hükümdür. Zorlananlar için Allah'ın bağışlayıcılığı vurgulanarak ayet biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "24:32",
+   "meal": "İçinizden bekârları, kölelerinizden ve cariyelerinizden salih olanları evlendirin; eğer fakir iseler Allah onları lütfundan zengin eder.",
+   "baglanti": "Bir önceki ayette evlilik teşvik edildikten sonra 33. ayet, imkânı olmayanların ne yapması gerektiğini tamamlar."
+  },
+  {
+   "ref": "4:25",
+   "meal": "İçinizden hür mümin kadınlarla evlenmeye gücü yetmeyen kimse, ellerinizin altındaki mümin cariyelerinizden alsın.",
+   "baglanti": "Evlenme imkânı sınırlı olanlar için tanınan kolaylık ve mülk edinilen kişilere (cariyelere) gösterilmesi gereken adalet, iki ayette de birlikte ele alınır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, evlenme imkânı bulamayanların iffetli kalması ve kölelik döneminin özel bir hukuku olan mükâtebedir; bu, günümüzde doğrudan karşılığı olmayan tarihsel bir kurumdur.",
+  "Bugüne taşınabilecek ders, imkânsızlık karşısında sabırla iffetli kalmak ve başkasının çaresizliğinden (ekonomik veya kişisel zorluğundan) kişisel çıkar sağlamamaktır. Ayet, zor durumdaki bir insanı kötü bir yola zorlamanın büyük bir haksızlık olduğunu açıkça gösterir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İmkânın olmayınca sabret",
+   "aciklama": "İstediğin bir şeye gücün yetmiyorsa, bu süreçte kendini kötü bir yola değil sabra yönlendir."
+  },
+  {
+   "baslik": "Çaresizlikten çıkar sağlama",
+   "aciklama": "Zor durumdaki birinin çaresizliğinden kişisel bir kazanç elde etmeye çalışmaktan bugün uzak dur."
+  },
+  {
+   "baslik": "Somut destek ol",
+   "aciklama": "İmkân bulmaya çalışan birine (iş, borç, tavsiye ile) bugün küçük bir destekte bulun."
+  }
+ ],
+ "bugununAdimi": "Bugün, zor durumdaki bir tanıdığına karşılık beklemeden küçük bir yardımda bulun.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=33"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/24/33"
+  }
+ ]
+}

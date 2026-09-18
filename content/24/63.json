@@ -1,0 +1,243 @@
+{
+ "sure": 24,
+ "ayet": 63,
+ "durum": "taslak",
+ "meal": "Peygamber'in çağrısını, aranızda birbirinizi çağırmanız gibi tutmayın. İçinizden gizlice sıvışıp ayrılanları Allah gerçekten bilir. Onun emrine aykırı davrananlar, başlarına bir fitne gelmesinden veya kendilerine acıklı bir azap isabet etmesinden sakınsınlar.",
+ "mealNotu": "'Yetesellelûne' kökü سلل gizlice sıyrılıp ayrılmayı anlatır; ayet, bu davranışın Allah tarafından bilindiğini ve ciddi bir sonuç doğurabileceğini vurgular.",
+ "kokler": [
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "-meyin",
+   "karsilik": "tutmayın"
+  },
+  {
+   "kelime": "تَجْعَلُوا۟",
+   "okunus": "tec'alû",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "tutmayın"
+  },
+  {
+   "kelime": "دُعَآءَ",
+   "okunus": "düâe",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, davet",
+   "karsilik": "çağrısını"
+  },
+  {
+   "kelime": "ٱلرَّسُولِ",
+   "okunus": "errasûli",
+   "kok": "رسل",
+   "kokAnlam": "elçi",
+   "karsilik": "Peygamber'in"
+  },
+  {
+   "kelime": "بَيْنَكُمْ",
+   "okunus": "beyneküm",
+   "kok": "بين",
+   "kokAnlam": "ara",
+   "karsilik": "aranızda"
+  },
+  {
+   "kelime": "كَدُعَآءِ",
+   "okunus": "kedüâi",
+   "kok": "دعو",
+   "kokAnlam": "çağırma",
+   "karsilik": "çağırmanız gibi"
+  },
+  {
+   "kelime": "بَعْضِكُم",
+   "okunus": "ba'dıküm",
+   "kok": "بعض",
+   "kokAnlam": "bir kısmınız",
+   "karsilik": "birbirinizi"
+  },
+  {
+   "kelime": "بَعْضًا",
+   "okunus": "ba'dan",
+   "kok": "بعض",
+   "kokAnlam": "bir kısmını",
+   "karsilik": "birbirinizi"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "يَعْلَمُ",
+   "okunus": "ya'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "kimseleri",
+   "karsilik": "kimseleri"
+  },
+  {
+   "kelime": "يَتَسَلَّلُونَ",
+   "okunus": "yetesellelûne",
+   "kok": "سلل",
+   "kokAnlam": "sıvışma, gizlice sıyrılma",
+   "karsilik": "sıvışanları"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "لِوَاذًا",
+   "okunus": "livâzen",
+   "kok": "لوذ",
+   "kokAnlam": "sığınarak, gizlenerek",
+   "karsilik": "gizlice"
+  },
+  {
+   "kelime": "فَلْيَحْذَرِ",
+   "okunus": "felyahzeri",
+   "kok": "حذر",
+   "kokAnlam": "sakınma, çekinme",
+   "karsilik": "sakınsınlar"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "يُخَالِفُونَ",
+   "okunus": "yühâlifûne",
+   "kok": "خلف",
+   "kokAnlam": "aykırı davranma, karşı gelme",
+   "karsilik": "aykırı davrananlar"
+  },
+  {
+   "kelime": "عَنْ",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَمْرِهِۦٓ",
+   "okunus": "emrihî",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir",
+   "karsilik": "onun emrine"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "تُصِيبَهُمْ",
+   "okunus": "tüsîbehüm",
+   "kok": "صوب",
+   "kokAnlam": "isabet etme",
+   "karsilik": "kendilerine isabet eder(sin)"
+  },
+  {
+   "kelime": "فِتْنَةٌ",
+   "okunus": "fitnetün",
+   "kok": "فتن",
+   "kokAnlam": "sınav, bela, fitne",
+   "karsilik": "bir fitne"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "يُصِيبَهُمْ",
+   "okunus": "yüsîbehüm",
+   "kok": "صوب",
+   "kokAnlam": "isabet etme",
+   "karsilik": "kendilerine isabet eder"
+  },
+  {
+   "kelime": "عَذَابٌ",
+   "okunus": "azâbün",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "bir azap"
+  },
+  {
+   "kelime": "أَلِيمٌ",
+   "okunus": "elîmün",
+   "kok": "ألم",
+   "kokAnlam": "elem, acı",
+   "karsilik": "acıklı"
+  }
+ ],
+ "neAnlatiyor": [
+  "62. ayette ortak işten izinsiz ayrılmama ölçüsü verildikten sonra, burada aynı konu iki yönden pekiştirilir: Peygamber'in çağrısına gösterilen saygının sıradan bir çağrı gibi olmaması ve gizlice sıvışanların Allah tarafından bilindiği.",
+  "Ayet, bu davranışın ciddi bir sonuç doğurabileceğini belirtir; olay veya kişi ismi belirtmeden genel bir uyarı sunar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:59",
+   "meal": "Ey iman edenler! Allah'a itaat edin, Peygamber'e itaat edin ve sizden olan ulu'l-emre de itaat edin.",
+   "baglanti": "Peygamber'e ve meşru otoriteye gösterilecek itaatin genel çerçevesini sunarak 24:63'teki 'çağrısını sıradan tutmayın' uyarısını destekler."
+  },
+  {
+   "ref": "24:47",
+   "meal": "'Allah'a ve Peygamber'e inandık ve itaat ettik' derler; sonra bunun ardından içlerinden bir grup yüz çevirir.",
+   "baglanti": "Aynı sûrede daha önce geçen söz-davranış tutarsızlığı, 24:63'teki gizlice sıvışma davranışıyla aynı zaafın farklı bir görünümüdür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, meşru bir çağrıya/otoriteye saygı ve gizlice sıvışmamaktır.",
+  "Bugüne taşınabilecek ders, bir sorumluluktan gizlice kaçmanın, görünmese de fark edilen bir davranış olduğunu bilmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Açıkça izin iste",
+   "aciklama": "Bugün bir görevden gizlice kaçmak yerine açıkça izin iste."
+  },
+  {
+   "baslik": "Meşru çağrıyı hafife alma",
+   "aciklama": "Bugün meşru bir çağrıya (toplantı, görev) hafife almadan katıl."
+  },
+  {
+   "baslik": "Bilindiğini unutma",
+   "aciklama": "Kimse görmese de Allah'ın her hâlini bildiğini bugün hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün bir görevden ayrılman gerekirse, gizlice değil açıkça izin isteyerek ayrıl.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=63"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/24/63"
+  }
+ ]
+}

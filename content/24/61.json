@@ -1,0 +1,586 @@
+{
+ "sure": 24,
+ "ayet": 61,
+ "durum": "taslak",
+ "meal": "Köre güçlük yoktur, topala güçlük yoktur, hastaya güçlük yoktur; kendi evlerinizden, babalarınızın evlerinden, annelerinizin evlerinden, erkek kardeşlerinizin evlerinden, kız kardeşlerinizin evlerinden, amcalarınızın evlerinden, halalarınızın evlerinden, dayılarınızın evlerinden, teyzelerinizin evlerinden, anahtarına sahip olduğunuz yerlerden ya da dostunuzun evinden yemenizde de size güçlük yoktur. Toplu ya da ayrı ayrı yemenizde size bir günah yoktur. Evlere girdiğinizde, Allah katından mübarek ve güzel bir esenlik dileği olarak birbirinize selam verin. Allah size ayetleri işte böyle açıklar; umulur ki akıl erdirirsiniz.",
+ "mealNotu": "'Harac' kökü حرج güçlük/darlık anlamındadır; mazeretli kişilere ve yakın akraba evlerinde yemek konusunda tanınan geniş kolaylık, ayetin kendi ifadesiyle aktarılmış, ek fıkhi ayrıntı eklenmemiştir.",
+ "kokler": [
+  {
+   "kelime": "لَيْسَ",
+   "okunus": "leyse",
+   "kok": "ليس",
+   "kokAnlam": "değildir",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْأَعْمَىٰ",
+   "okunus": "el'a'mâ",
+   "kok": "عمي",
+   "kokAnlam": "körlük",
+   "karsilik": "köre"
+  },
+  {
+   "kelime": "حَرَجٌ",
+   "okunus": "haracün",
+   "kok": "حرج",
+   "kokAnlam": "güçlük, darlık",
+   "karsilik": "güçlük"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "ve değildir",
+   "karsilik": "ve ne de"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْأَعْرَجِ",
+   "okunus": "el'a'raci",
+   "kok": "عرج",
+   "kokAnlam": "topallık",
+   "karsilik": "topala"
+  },
+  {
+   "kelime": "حَرَجٌ",
+   "okunus": "haracün",
+   "kok": "حرج",
+   "kokAnlam": "güçlük",
+   "karsilik": "güçlük"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "ve değildir",
+   "karsilik": "ve ne de"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْمَرِيضِ",
+   "okunus": "elmerîdı",
+   "kok": "مرض",
+   "kokAnlam": "hastalık",
+   "karsilik": "hastaya"
+  },
+  {
+   "kelime": "حَرَجٌ",
+   "okunus": "haracün",
+   "kok": "حرج",
+   "kokAnlam": "güçlük",
+   "karsilik": "güçlük"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "ve değildir",
+   "karsilik": "ve ne de"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "أَنفُسِكُمْ",
+   "okunus": "enfüsiküm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi",
+   "karsilik": "kendinize"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "تَأْكُلُوا۟",
+   "okunus": "te'külû",
+   "kok": "أكل",
+   "kokAnlam": "yeme",
+   "karsilik": "yemenizde"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "mim",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بُيُوتِكُمْ",
+   "okunus": "büyûtiküm",
+   "kok": "بيت",
+   "kokAnlam": "ev",
+   "karsilik": "kendi evlerinizden"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "بُيُوتِ",
+   "okunus": "büyûti",
+   "kok": "بيت",
+   "kokAnlam": "ev",
+   "karsilik": "evlerinden"
+  },
+  {
+   "kelime": "ءَابَآئِكُمْ",
+   "okunus": "âbâiküm",
+   "kok": "أبو",
+   "kokAnlam": "baba",
+   "karsilik": "babalarınızın"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "بُيُوتِ",
+   "okunus": "büyûti",
+   "kok": "بيت",
+   "kokAnlam": "ev",
+   "karsilik": "evlerinden"
+  },
+  {
+   "kelime": "أُمَّهَٰتِكُمْ",
+   "okunus": "ümmehâtiküm",
+   "kok": "أمم",
+   "kokAnlam": "anne",
+   "karsilik": "annelerinizin"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "بُيُوتِ",
+   "okunus": "büyûti",
+   "kok": "بيت",
+   "kokAnlam": "ev",
+   "karsilik": "evlerinden"
+  },
+  {
+   "kelime": "إِخْوَٰنِكُمْ",
+   "okunus": "ihvâniküm",
+   "kok": "أخو",
+   "kokAnlam": "erkek kardeş",
+   "karsilik": "erkek kardeşlerinizin"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "بُيُوتِ",
+   "okunus": "büyûti",
+   "kok": "بيت",
+   "kokAnlam": "ev",
+   "karsilik": "evlerinden"
+  },
+  {
+   "kelime": "أَخَوَٰتِكُمْ",
+   "okunus": "ehavâtiküm",
+   "kok": "أخو",
+   "kokAnlam": "kız kardeş",
+   "karsilik": "kız kardeşlerinizin"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "بُيُوتِ",
+   "okunus": "büyûti",
+   "kok": "بيت",
+   "kokAnlam": "ev",
+   "karsilik": "evlerinden"
+  },
+  {
+   "kelime": "أَعْمَٰمِكُمْ",
+   "okunus": "a'mâmiküm",
+   "kok": "عمم",
+   "kokAnlam": "amca",
+   "karsilik": "amcalarınızın"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "بُيُوتِ",
+   "okunus": "büyûti",
+   "kok": "بيت",
+   "kokAnlam": "ev",
+   "karsilik": "evlerinden"
+  },
+  {
+   "kelime": "عَمَّٰتِكُمْ",
+   "okunus": "ammâtiküm",
+   "kok": "عمم",
+   "kokAnlam": "hala",
+   "karsilik": "halalarınızın"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "بُيُوتِ",
+   "okunus": "büyûti",
+   "kok": "بيت",
+   "kokAnlam": "ev",
+   "karsilik": "evlerinden"
+  },
+  {
+   "kelime": "أَخْوَٰلِكُمْ",
+   "okunus": "ahvâliküm",
+   "kok": "خول",
+   "kokAnlam": "dayı",
+   "karsilik": "dayılarınızın"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "بُيُوتِ",
+   "okunus": "büyûti",
+   "kok": "بيت",
+   "kokAnlam": "ev",
+   "karsilik": "evlerinden"
+  },
+  {
+   "kelime": "خَٰلَٰتِكُمْ",
+   "okunus": "hâlâtiküm",
+   "kok": "خول",
+   "kokAnlam": "teyze",
+   "karsilik": "teyzelerinizin"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "şey",
+   "karsilik": "anahtarına sahip olduğunuz (yer)"
+  },
+  {
+   "kelime": "مَلَكْتُم",
+   "okunus": "melektüm",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, mülkiyet",
+   "karsilik": "sahip olduğunuz"
+  },
+  {
+   "kelime": "مَّفَاتِحَهُۥٓ",
+   "okunus": "mefâtihahû",
+   "kok": "فتح",
+   "kokAnlam": "anahtar; açma",
+   "karsilik": "onun anahtarına"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "صَدِيقِكُمْ",
+   "okunus": "sadîkıküm",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk; dost, samimi arkadaş",
+   "karsilik": "dostunuzun (evinden)"
+  },
+  {
+   "kelime": "لَيْسَ",
+   "okunus": "leyse",
+   "kok": "ليس",
+   "kokAnlam": "değildir",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "جُنَاحٌ",
+   "okunus": "cünâhun",
+   "kok": "جنح",
+   "kokAnlam": "günah, sakınca",
+   "karsilik": "bir günah"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "تَأْكُلُوا۟",
+   "okunus": "te'külû",
+   "kok": "أكل",
+   "kokAnlam": "yeme",
+   "karsilik": "yemenizde"
+  },
+  {
+   "kelime": "جَمِيعًا",
+   "okunus": "cemîan",
+   "kok": "جمع",
+   "kokAnlam": "toplu, birlikte",
+   "karsilik": "toplu"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "أَشْتَاتًا",
+   "okunus": "eştâten",
+   "kok": "شتت",
+   "kokAnlam": "dağınık, ayrı ayrı",
+   "karsilik": "ayrı ayrı"
+  },
+  {
+   "kelime": "فَإِذَا",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "-dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "دَخَلْتُم",
+   "okunus": "dehaltüm",
+   "kok": "دخل",
+   "kokAnlam": "girme",
+   "karsilik": "girdiğiniz"
+  },
+  {
+   "kelime": "بُيُوتًا",
+   "okunus": "büyûten",
+   "kok": "بيت",
+   "kokAnlam": "ev",
+   "karsilik": "evlere"
+  },
+  {
+   "kelime": "فَسَلِّمُوا۟",
+   "okunus": "fesellimû",
+   "kok": "سلم",
+   "kokAnlam": "esenlik, selam verme",
+   "karsilik": "selam verin"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "-e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "أَنفُسِكُمْ",
+   "okunus": "enfüsiküm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi",
+   "karsilik": "kendinize/birbirinize"
+  },
+  {
+   "kelime": "تَحِيَّةً",
+   "okunus": "tehiyyeten",
+   "kok": "حيي",
+   "kokAnlam": "hayat; esenlik dileği, selam",
+   "karsilik": "bir esenlik dileği olarak"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "عِندِ",
+   "okunus": "indi",
+   "kok": "عند",
+   "kokAnlam": "kat, nezd",
+   "karsilik": "katından"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مُبَٰرَكَةً",
+   "okunus": "mübâraketen",
+   "kok": "برك",
+   "kokAnlam": "bereket",
+   "karsilik": "mübarek"
+  },
+  {
+   "kelime": "طَيِّبَةً",
+   "okunus": "tayyibeten",
+   "kok": "طيب",
+   "kokAnlam": "güzel, temiz, hoş",
+   "karsilik": "ve güzel"
+  },
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "يُبَيِّنُ",
+   "okunus": "yübeyyinü",
+   "kok": "بين",
+   "kokAnlam": "açıklama",
+   "karsilik": "açıklar"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَكُمُ",
+   "okunus": "lekümü",
+   "kok": "—",
+   "kokAnlam": "sizin için",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "ٱلْءَايَٰتِ",
+   "okunus": "el'âyâti",
+   "kok": "أيي",
+   "kokAnlam": "ayet",
+   "karsilik": "ayetleri"
+  },
+  {
+   "kelime": "لَعَلَّكُمْ",
+   "okunus": "lealleküm",
+   "kok": "—",
+   "kokAnlam": "umulur ki",
+   "karsilik": "umulur ki"
+  },
+  {
+   "kelime": "تَعْقِلُونَ",
+   "okunus": "ta'kılûne",
+   "kok": "عقل",
+   "kokAnlam": "akıl, akletme",
+   "karsilik": "akıl erdirirsiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "60. ayetteki yaşlı kadınlara tanınan kolaylıktan sonra, burada engelli veya hasta olanlara ve çeşitli akraba evlerinde yemek yeme konusunda geniş bir kolaylık listesi verilir.",
+  "Ayet, katı bir çekingenliğin gereksiz olduğunu, evlere girerken de selamla esenlik dilenmesi gerektiğini söyler; sayılan akrabalık ve mazeret listesi ayetin kendi ifadesiyle aktarılmış, ek bir yorum eklenmemiştir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "24:27",
+   "meal": "Ey iman edenler! Kendi evleriniz dışındaki evlere, geldiğinizi haber verip ev halkına selam vermeden girmeyin.",
+   "baglanti": "Eve girerken selam verme kuralı, 24:61'deki 'evlere girdiğinizde selam verin' emrinin aynı sûredeki önceki bir örneğidir."
+  },
+  {
+   "ref": "4:36",
+   "meal": "Allah'a kulluk edin ve O'na hiçbir şeyi ortak koşmayın; ana-babaya, akrabaya, yetimlere, yoksullara, yakın komşuya iyilik edin.",
+   "baglanti": "Akraba ve yakın çevreye iyilikle davranma emri, 24:61'de sayılan geniş akrabalık listesiyle aynı ilişki ağını (akrabalık bağları) konu edinir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, yakın akraba evlerinde rahatça yemek yiyebilme ve eve girerken selam verme adabıdır; bu özel bir aile içi kolaylık ve adap konusudur.",
+  "Bugüne taşınabilecek ders, yakın çevrende gereksiz çekingenlik yerine sıcak ve güvenli ilişkiler kurmak, eve girerken selam vermeyi alışkanlık haline getirmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Eve girerken selam ver",
+   "aciklama": "Bugün bir eve girerken (kendi evin dahil) selam ver."
+  },
+  {
+   "baslik": "Akrabanla sıcak ilişki kur",
+   "aciklama": "Bir akrabanla bugün rahat ve sıcak bir sohbet kur."
+  },
+  {
+   "baslik": "Gereksiz çekingenliği bırak",
+   "aciklama": "Bugün mazeretli birine gereksiz çekinmeden kolaylık göster."
+  }
+ ],
+ "bugununAdimi": "Bugün girdiğin her eve (kendi evin dahil) bilinçli olarak selam ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=61"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/24/61"
+  }
+ ]
+}

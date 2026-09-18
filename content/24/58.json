@@ -1,0 +1,397 @@
+{
+ "sure": 24,
+ "ayet": 58,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Ellerinizin altında bulunanlar ve içinizden henüz erginlik çağına ermemiş olanlar, sabah namazından önce, öğle vakti elbiselerinizi çıkardığınızda ve yatsı namazından sonra olmak üzere üç kez sizden izin istesinler. Bunlar sizin için üç mahrem vakittir. Bu vakitlerin dışında ne size ne onlara bir sakınca yoktur; birbirinizin yanına sık girip çıkarsınız. Allah size ayetleri işte böyle açıklar. Allah hakkıyla bilendir, hüküm ve hikmet sahibidir.",
+ "mealNotu": "'Avrât' kökü عور burada mahremiyetin özellikle önem taşıdığı vakitleri ifade eder, 'mahrem vakit' ile karşılanmıştır; 'tavvâfûne' kökü طوف sık girip çıkmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "olanlar",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "iman etme",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "لِيَسْتَـْٔذِنكُمُ",
+   "okunus": "liyeste'zinkümü",
+   "kok": "أذن",
+   "kokAnlam": "izin isteme",
+   "karsilik": "sizden izin istesin(ler)"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "مَلَكَتْ",
+   "okunus": "meleket",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, mülkiyet",
+   "karsilik": "sahip olduğu"
+  },
+  {
+   "kelime": "أَيْمَٰنُكُمْ",
+   "okunus": "eymânüküm",
+   "kok": "يمن",
+   "kokAnlam": "sağ el; sahiplik",
+   "karsilik": "elleriniz(in altındaki)"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "ve kimseler",
+   "karsilik": "ve kimseler"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "-medi",
+   "karsilik": "-memiş"
+  },
+  {
+   "kelime": "يَبْلُغُوا۟",
+   "okunus": "yeblüğû",
+   "kok": "بلغ",
+   "kokAnlam": "erişme, ulaşma",
+   "karsilik": "erişmemiş"
+  },
+  {
+   "kelime": "ٱلْحُلُمَ",
+   "okunus": "elhulüme",
+   "kok": "حلم",
+   "kokAnlam": "erginlik, buluğ çağı",
+   "karsilik": "erginlik çağına"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "ثَلَٰثُ",
+   "okunus": "selâse",
+   "kok": "ثلث",
+   "kokAnlam": "üç",
+   "karsilik": "üç"
+  },
+  {
+   "kelime": "مَرَّٰتٍ",
+   "okunus": "merrâtin",
+   "kok": "مرر",
+   "kokAnlam": "kez, defa",
+   "karsilik": "kez (vakitte)"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِ",
+   "okunus": "kabli",
+   "kok": "قبل",
+   "kokAnlam": "önce",
+   "karsilik": "önce"
+  },
+  {
+   "kelime": "صَلَوٰةِ",
+   "okunus": "salâti",
+   "kok": "صلو",
+   "kokAnlam": "namaz",
+   "karsilik": "namazından"
+  },
+  {
+   "kelime": "ٱلْفَجْرِ",
+   "okunus": "elfecri",
+   "kok": "فجر",
+   "kokAnlam": "şafak, tan",
+   "karsilik": "sabah"
+  },
+  {
+   "kelime": "وَحِينَ",
+   "okunus": "ve hîne",
+   "kok": "حين",
+   "kokAnlam": "vakit, an",
+   "karsilik": "ve vakti"
+  },
+  {
+   "kelime": "تَضَعُونَ",
+   "okunus": "tedaûne",
+   "kok": "وضع",
+   "kokAnlam": "koyma, çıkarma",
+   "karsilik": "çıkardığınız"
+  },
+  {
+   "kelime": "ثِيَابَكُم",
+   "okunus": "siyâbeküm",
+   "kok": "ثوب",
+   "kokAnlam": "elbise",
+   "karsilik": "elbiselerinizi"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلظَّهِيرَةِ",
+   "okunus": "ezzahîrati",
+   "kok": "ظهر",
+   "kokAnlam": "öğle vakti",
+   "karsilik": "öğle"
+  },
+  {
+   "kelime": "وَمِنۢ",
+   "okunus": "ve mim",
+   "kok": "—",
+   "kokAnlam": "ve -den",
+   "karsilik": "ve sonra"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "صَلَوٰةِ",
+   "okunus": "salâti",
+   "kok": "صلو",
+   "kokAnlam": "namaz",
+   "karsilik": "namazından"
+  },
+  {
+   "kelime": "ٱلْعِشَآءِ",
+   "okunus": "el'işâi",
+   "kok": "عشو",
+   "kokAnlam": "yatsı, akşam karanlığı",
+   "karsilik": "yatsı"
+  },
+  {
+   "kelime": "ثَلَٰثُ",
+   "okunus": "selâsü",
+   "kok": "ثلث",
+   "kokAnlam": "üç",
+   "karsilik": "üç"
+  },
+  {
+   "kelime": "عَوْرَٰتٍ",
+   "okunus": "avrâtin",
+   "kok": "عور",
+   "kokAnlam": "mahrem/gizli vakit, avret",
+   "karsilik": "mahrem vakittir"
+  },
+  {
+   "kelime": "لَكُمُ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "لَيْسَ",
+   "okunus": "leyse",
+   "kok": "ليس",
+   "kokAnlam": "değildir",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "عَلَيْكُم",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "sizin üzerinize",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "ve olumsuzluk",
+   "karsilik": "ve ne de"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "onların üzerine",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "جُنَاحٌۢ",
+   "okunus": "cünâhum",
+   "kok": "جنح",
+   "kokAnlam": "günah, sakınca",
+   "karsilik": "bir sakınca"
+  },
+  {
+   "kelime": "بَعْدَهُنَّ",
+   "okunus": "ba'dehünne",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "bu (vakitlerin) dışında"
+  },
+  {
+   "kelime": "طَوَّٰفُونَ",
+   "okunus": "tavvâfûne",
+   "kok": "طوف",
+   "kokAnlam": "dönüp dolaşma, sık girip çıkma",
+   "karsilik": "sık girip çıkanlarsınız"
+  },
+  {
+   "kelime": "عَلَيْكُم",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "sizin yanınıza",
+   "karsilik": "birbirinizin yanına"
+  },
+  {
+   "kelime": "بَعْضُكُمْ",
+   "okunus": "ba'duküm",
+   "kok": "بعض",
+   "kokAnlam": "bir kısmınız",
+   "karsilik": "bazınız"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "-e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "بَعْضٍ",
+   "okunus": "ba'dın",
+   "kok": "بعض",
+   "kokAnlam": "bir kısmı",
+   "karsilik": "diğerinin"
+  },
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "يُبَيِّنُ",
+   "okunus": "yübeyyinü",
+   "kok": "بين",
+   "kokAnlam": "açıklama",
+   "karsilik": "açıklar"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَكُمُ",
+   "okunus": "lekümü",
+   "kok": "—",
+   "kokAnlam": "sizin için",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "ٱلْءَايَٰتِ",
+   "okunus": "el'âyâti",
+   "kok": "أيي",
+   "kokAnlam": "ayet",
+   "karsilik": "ayetleri"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "hakkıyla bilendir"
+  },
+  {
+   "kelime": "حَكِيمٌ",
+   "okunus": "hakîmün",
+   "kok": "حكم",
+   "kokAnlam": "hikmet, hüküm",
+   "karsilik": "hüküm ve hikmet sahibidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "56. ayetteki namaz-zekât-itaat çağrısından sonra, burada eve girişte mahremiyetle ilgili bir izin kuralı anlatılır: ev halkının hizmetindeki kişiler ve henüz ergin olmayan çocuklar, üç özel vakitte (sabah namazından önce, öğle istirahatinde, yatsıdan sonra) izin istemelidir.",
+  "Ayet, bu üç vaktin dışında sıkça girip çıkmanın sakıncalı olmadığını da belirtir; çünkü ev halkı zaten birbirinin yanına sık girip çıkar. Ayetin kendi sınırları dışına çıkılmadan, sadece burada belirtilen üç vakit ve gerekçe (mahremiyet) aktarılmıştır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "24:27",
+   "meal": "Ey iman edenler! Kendi evleriniz dışındaki evlere, geldiğinizi haber verip ev halkına selam vermeden girmeyin.",
+   "baglanti": "Aynı sûrede daha önce geçen izin isteme ve selam verme kuralı, 24:58'deki ev içi mahremiyet kuralının bir öncüsü niteliğindedir."
+  },
+  {
+   "ref": "33:53",
+   "meal": "Ey iman edenler! Peygamber'in evlerine, yemeğe çağrılmadıkça vaktine bakmaksızın girmeyin... bir şey istediğinizde perde arkasından isteyin.",
+   "baglanti": "Mahremiyetin gözetildiği izin ve perde kuralları, 24:58'deki ev içi izin isteme adabıyla aynı temayı paylaşan farklı bir sûre örneğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ev içinde mahremiyete saygı ve izin isteme adabıdır; bu özel bir aile içi hukuk ve adap konusudur.",
+  "Bugüne taşınabilecek ders, ev halkının (çocuklar dahil) birbirinin mahremiyetine saygı göstermesi, bunun sevgiyi azaltmayan bir nezaket kuralı olduğudur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kapıyı çalma alışkanlığı",
+   "aciklama": "Bugün bir odaya girerken kapıyı çalma veya haber verme alışkanlığını uygula."
+  },
+  {
+   "baslik": "Mahrem anlara saygı göster",
+   "aciklama": "Ev halkının mahrem anlarına bugün özellikle saygı göster."
+  },
+  {
+   "baslik": "Çocuğuna adabı öğret",
+   "aciklama": "Bir çocuğa izin isteme adabını bugün kısaca hatırlat."
+  }
+ ],
+ "bugununAdimi": "Bugün evde bir kapıyı çalıp izin isteyerek gir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=58"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/24/58"
+  }
+ ]
+}

@@ -1,0 +1,320 @@
+{
+ "sure": 24,
+ "ayet": 55,
+ "durum": "taslak",
+ "meal": "Allah, sizden iman edip salih ameller işleyenlere, kendilerinden öncekileri nasıl yeryüzünde halef kıldıysa onları da halef kılacağını, onlar için razı olduğu dinlerini kendilerine sağlam bir şekilde yerleştireceğini ve korkularının ardından onları güvene dönüştüreceğini vaad etti. Bana kulluk ederler, bana hiçbir şeyi ortak koşmazlar. Kim bundan sonra inkâr ederse, işte onlar fasıkların ta kendileridir.",
+ "mealNotu": "'Yestahlifennehüm' kökü خلف halef kılma/yerine geçirme anlamındadır; bazı meallerde 'hâkim/iktidar kılma' olarak yorumlanır, ancak kelimenin doğrudan anlamı yerine geçirmedir.",
+ "kokler": [
+  {
+   "kelime": "وَعَدَ",
+   "okunus": "veade",
+   "kok": "وعد",
+   "kokAnlam": "vaad etme",
+   "karsilik": "vaad etti"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "olanlar",
+   "karsilik": "kimselere"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "iman etme",
+   "karsilik": "iman edip"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "وَعَمِلُوا۟",
+   "okunus": "ve amilû",
+   "kok": "عمل",
+   "kokAnlam": "yapma, amel",
+   "karsilik": "ve yapanlara"
+  },
+  {
+   "kelime": "ٱلصَّٰلِحَٰتِ",
+   "okunus": "essâlihâti",
+   "kok": "صلح",
+   "kokAnlam": "iyi, düzgün olma",
+   "karsilik": "salih amelleri"
+  },
+  {
+   "kelime": "لَيَسْتَخْلِفَنَّهُمْ",
+   "okunus": "leyestahlifennehüm",
+   "kok": "خلف",
+   "kokAnlam": "halef kılma, yerine geçirme",
+   "karsilik": "onları mutlaka halef kılacağını"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "كَمَا",
+   "okunus": "kemâ",
+   "kok": "—",
+   "kokAnlam": "gibi",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "ٱسْتَخْلَفَ",
+   "okunus": "istahlefe",
+   "kok": "خلف",
+   "kokAnlam": "halef kılma",
+   "karsilik": "halef kıldığı"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "olanları",
+   "karsilik": "kimseleri"
+  },
+  {
+   "kelime": "مِّنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِهِمْ",
+   "okunus": "kablihim",
+   "kok": "قبل",
+   "kokAnlam": "önce",
+   "karsilik": "kendilerinden önceki"
+  },
+  {
+   "kelime": "وَلَيُمَكِّنَنَّ",
+   "okunus": "ve leyümekkinenne",
+   "kok": "مكن",
+   "kokAnlam": "yerleştirme, güç/imkân verme",
+   "karsilik": "ve mutlaka sağlam yerleştireceğini"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "onlar için",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "دِينَهُمُ",
+   "okunus": "dînehümü",
+   "kok": "دين",
+   "kokAnlam": "din",
+   "karsilik": "dinlerini"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "ki o",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "ٱرْتَضَىٰ",
+   "okunus": "irtedâ",
+   "kok": "رضو",
+   "kokAnlam": "razı olma",
+   "karsilik": "razı olduğu"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "onlar için",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "وَلَيُبَدِّلَنَّهُم",
+   "okunus": "ve leyübeddilennehüm",
+   "kok": "بدل",
+   "kokAnlam": "değiştirme, dönüştürme",
+   "karsilik": "ve onları mutlaka dönüştüreceğini"
+  },
+  {
+   "kelime": "مِّنۢ",
+   "okunus": "mim",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "خَوْفِهِمْ",
+   "okunus": "havfihim",
+   "kok": "خوف",
+   "kokAnlam": "korku",
+   "karsilik": "korkularının"
+  },
+  {
+   "kelime": "أَمْنًا",
+   "okunus": "emnen",
+   "kok": "أمن",
+   "kokAnlam": "güven",
+   "karsilik": "güvene"
+  },
+  {
+   "kelime": "يَعْبُدُونَنِى",
+   "okunus": "ya'büdûnenî",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme",
+   "karsilik": "bana kulluk ederler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "-mazlar",
+   "karsilik": "-mazlar"
+  },
+  {
+   "kelime": "يُشْرِكُونَ",
+   "okunus": "yüşrikûne",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "ortak koşmazlar"
+  },
+  {
+   "kelime": "بِى",
+   "okunus": "bî",
+   "kok": "—",
+   "kokAnlam": "bana",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "hiçbir şeyi"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "كَفَرَ",
+   "okunus": "kefera",
+   "kok": "كفر",
+   "kokAnlam": "inkâr etme",
+   "karsilik": "inkâr ederse"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "bu",
+   "karsilik": "bundan"
+  },
+  {
+   "kelime": "فَأُو۟لَٰٓئِكَ",
+   "okunus": "feülâike",
+   "kok": "—",
+   "kokAnlam": "işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "onlar",
+   "karsilik": "kendileridir"
+  },
+  {
+   "kelime": "ٱلْفَٰسِقُونَ",
+   "okunus": "elfâsikûne",
+   "kok": "فسق",
+   "kokAnlam": "yoldan çıkma, fısk",
+   "karsilik": "fasıklar"
+  }
+ ],
+ "neAnlatiyor": [
+  "53-54. ayetlerdeki itaat çağrısının ardından, itaat edip iman edenlere büyük bir vaad verilir: yeryüzünde halef kılınma, din güvencesi ve korkudan güvene geçiş.",
+  "Ayet, bu vaadin şartını da netleştirir: sadece Allah'a kulluk, hiçbir şeyi ortak koşmama. Bundan sonra inkâr edenler ise fasıklar olarak nitelenir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:129",
+   "meal": "Umulur ki Rabbiniz düşmanınızı yok edecek ve sizi yeryüzünde halef kılacak, sonra nasıl davranacağınıza bakacaktır.",
+   "baglanti": "Aynı 'halef kılma' (istahlefe) kökünün kullanıldığı bu ayet, 24:55'teki vaadin geçmişte de verildiğini gösterir."
+  },
+  {
+   "ref": "21:105",
+   "meal": "Zikirden sonra Zebur'da da yazmıştık ki yeryüzüne iyi kullarım varis olacaktır.",
+   "baglanti": "Yeryüzünün salih kullara verileceği vaadi, 24:55'teki halef kılma vaadiyle aynı temayı paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, iman ve salih amel karşılığında verilen güvenlik ve istikrar vaadidir.",
+  "Bugüne taşınabilecek ders, güvenliğin ve istikrarın koşulunun samimi kulluk ve şirkten uzak durmak olduğunu hatırlamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçük bir salih amel ekle",
+   "aciklama": "Bugün gününe küçük bir salih amel (yardım, doğruluk) ekle."
+  },
+  {
+   "baslik": "Güvenini sağlam zemine dayandır",
+   "aciklama": "Güven duygunu bugün geçici şeyler yerine Allah'a dayandırmaya çalış."
+  },
+  {
+   "baslik": "Sadece rızasını gözet",
+   "aciklama": "Bir işte bugün sadece Allah'ın rızasını gözetmeye çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün gününe, sadece Allah rızası için yapılan küçük bir iyilik ekle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=55"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/24/55"
+  }
+ ]
+}

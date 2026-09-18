@@ -1,0 +1,390 @@
+{
+ "sure": 24,
+ "ayet": 35,
+ "durum": "taslak",
+ "meal": "Allah, göklerin ve yerin nûrudur. O'nun nûrunun örneği, içinde bir kandil bulunan bir kandillik gibidir; kandil bir cam içindedir, cam sanki inci gibi parlayan bir yıldızdır. Bu, ne doğuya ne batıya ait mübarek bir zeytin ağacından tutuşturulur; onun yağı, kendisine ateş dokunmasa bile neredeyse ışık verecektir. Nûr üstüne nûrdur. Allah dilediğini kendi nûruna yöneltir. Allah insanlara örnekler verir. Allah her şeyi hakkıyla bilendir.",
+ "mealNotu": "'Mişkât' kandil konulan oyuk/yuva anlamındadır, 'kandillik' ile karşılanmıştır. Bu ayet, meşhur 'Nûr Ayeti' olarak bilinir; temsildeki her unsur (kandillik, cam, zeytin ağacı) kelimesi kelimesine çevrilmiş, ek yorum eklenmemiştir.",
+ "kokler": [
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "نُورٍ",
+   "okunus": "nûru",
+   "kok": "نور",
+   "kokAnlam": "ışık, nûr",
+   "karsilik": "nûrudur"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yücelik; gök",
+   "karsilik": "göklerin"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yerin"
+  },
+  {
+   "kelime": "مَثَلُ",
+   "okunus": "meselü",
+   "kok": "مثل",
+   "kokAnlam": "örnek, benzetme",
+   "karsilik": "örneği"
+  },
+  {
+   "kelime": "نُورِهِۦ",
+   "okunus": "nûrihî",
+   "kok": "نور",
+   "kokAnlam": "ışık, nûr",
+   "karsilik": "kendi nûrunun"
+  },
+  {
+   "kelime": "كَمِشْكَوٰةٍ",
+   "okunus": "kemişkâtin",
+   "kok": "شكو",
+   "kokAnlam": "oyuk, kandil yuvası",
+   "karsilik": "bir kandillik gibidir"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "مِصْبَاحٌ",
+   "okunus": "misbâhun",
+   "kok": "صبح",
+   "kokAnlam": "aydınlık, kandil",
+   "karsilik": "bir kandil (bulunan)"
+  },
+  {
+   "kelime": "ٱلْمِصْبَاحُ",
+   "okunus": "elmisbâhu",
+   "kok": "صبح",
+   "kokAnlam": "kandil",
+   "karsilik": "kandil"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "içindedir"
+  },
+  {
+   "kelime": "زُجَاجَةٍ",
+   "okunus": "zücâcetin",
+   "kok": "زجج",
+   "kokAnlam": "cam",
+   "karsilik": "bir cam"
+  },
+  {
+   "kelime": "ٱلزُّجَاجَةُ",
+   "okunus": "ezzücâcetü",
+   "kok": "زجج",
+   "kokAnlam": "cam",
+   "karsilik": "cam"
+  },
+  {
+   "kelime": "كَأَنَّهَا",
+   "okunus": "keennehâ",
+   "kok": "—",
+   "kokAnlam": "sanki o",
+   "karsilik": "sanki"
+  },
+  {
+   "kelime": "كَوْكَبٌ",
+   "okunus": "kevkebün",
+   "kok": "كوكب",
+   "kokAnlam": "yıldız",
+   "karsilik": "bir yıldız"
+  },
+  {
+   "kelime": "دُرِّىٌّ",
+   "okunus": "dürriyyün",
+   "kok": "درر",
+   "kokAnlam": "inci gibi parlak",
+   "karsilik": "inci gibi parlayan"
+  },
+  {
+   "kelime": "يُوقَدُ",
+   "okunus": "yûkadü",
+   "kok": "وقد",
+   "kokAnlam": "tutuşturma, yakılma",
+   "karsilik": "tutuşturulur"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "شَجَرَةٍ",
+   "okunus": "şeceratin",
+   "kok": "شجر",
+   "kokAnlam": "ağaç",
+   "karsilik": "bir ağaçtan"
+  },
+  {
+   "kelime": "مُّبَٰرَكَةٍ",
+   "okunus": "mübâraketin",
+   "kok": "برك",
+   "kokAnlam": "bereket",
+   "karsilik": "mübarek"
+  },
+  {
+   "kelime": "زَيْتُونَةٍ",
+   "okunus": "zeytûnetin",
+   "kok": "زيت",
+   "kokAnlam": "zeytin",
+   "karsilik": "zeytin"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "شَرْقِيَّةٍ",
+   "okunus": "şerkıyyetin",
+   "kok": "شرق",
+   "kokAnlam": "doğu",
+   "karsilik": "doğuya (ait)"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "ve olumsuzluk",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "غَرْبِيَّةٍ",
+   "okunus": "garbiyyetin",
+   "kok": "غرب",
+   "kokAnlam": "batı",
+   "karsilik": "batıya (ait)"
+  },
+  {
+   "kelime": "يَكَادُ",
+   "okunus": "yekâdü",
+   "kok": "كود",
+   "kokAnlam": "neredeyse",
+   "karsilik": "neredeyse"
+  },
+  {
+   "kelime": "زَيْتُهَا",
+   "okunus": "zeytühâ",
+   "kok": "زيت",
+   "kokAnlam": "zeytinyağı",
+   "karsilik": "onun yağı"
+  },
+  {
+   "kelime": "يُضِىٓءُ",
+   "okunus": "yüdîü",
+   "kok": "ضوأ",
+   "kokAnlam": "ışık verme, parlama",
+   "karsilik": "ışık verecek"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "şayet",
+   "karsilik": "şayet"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "-medi",
+   "karsilik": "-mese"
+  },
+  {
+   "kelime": "تَمْسَسْهُ",
+   "okunus": "temseshü",
+   "kok": "مسس",
+   "kokAnlam": "dokunma",
+   "karsilik": "ona dokunmasa"
+  },
+  {
+   "kelime": "نَارٌ",
+   "okunus": "nârun",
+   "kok": "نور",
+   "kokAnlam": "ateş",
+   "karsilik": "bir ateş"
+  },
+  {
+   "kelime": "نُورٍ",
+   "okunus": "nûrun",
+   "kok": "نور",
+   "kokAnlam": "nûr, ışık",
+   "karsilik": "nûr"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "نُورٍ",
+   "okunus": "nûrin",
+   "kok": "نور",
+   "kokAnlam": "nûr",
+   "karsilik": "nûrdur"
+  },
+  {
+   "kelime": "يَهْدِى",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "hidayet, yol gösterme",
+   "karsilik": "yöneltir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لِنُورِهِۦ",
+   "okunus": "linûrihî",
+   "kok": "نور",
+   "kokAnlam": "nûr",
+   "karsilik": "kendi nûruna"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "kimi",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "وَيَضْرِبُ",
+   "okunus": "ve yadribü",
+   "kok": "ضرب",
+   "kokAnlam": "vurma; örnek verme",
+   "karsilik": "ve verir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلْأَمْثَٰلَ",
+   "okunus": "el'emsâle",
+   "kok": "مثل",
+   "kokAnlam": "örnek",
+   "karsilik": "örnekleri"
+  },
+  {
+   "kelime": "لِلنَّاسِ",
+   "okunus": "lilnnâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanlar için"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِكُلِّ",
+   "okunus": "bikülli",
+   "kok": "كلل",
+   "kokAnlam": "her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "hakkıyla bilendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "34. ayetteki 'açıklayıcı ayetler' vurgusundan sonra, bu ayette Allah'ın nûru mecazi bir temsille anlatılır: kandillik, cam, zeytin ağacından gelen parlak yağ, nûr üstüne nûr. Klasik tefsir bu temsili, hidayetin katman katman aydınlanması olarak açıklar; ayrıntılara girmeden genel çerçeve aktarılmıştır.",
+  "Ayetin sonu, bu nûrun herkese eşit ulaşmadığını, Allah'ın dilediğini kendi nûruna yönelttiğini belirtir. Bu, sonraki ayetlerde (36-37) anlatılacak, Allah'ı anan ve tesbih eden kimselerin bu nûrdan pay aldığını gösteren bir geçiş niteliği taşır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:1",
+   "meal": "Hamd, gökleri ve yeri yaratan, karanlıkları ve nûru var eden Allah'a mahsustur.",
+   "baglanti": "Karanlık ve nûrun ikisinin de Allah'ın yaratması olduğunu belirterek, 24:35'teki nûr vurgusuna kaynak bir çerçeve sunar."
+  },
+  {
+   "ref": "57:28",
+   "meal": "Ey iman edenler! Allah'a karşı gelmekten sakının ve Peygamber'ine iman edin ki size rahmetinden iki pay versin ve size kendisiyle yürüyeceğiniz bir nûr versin.",
+   "baglanti": "Allah'ın müminlere bir 'nûr' bahşetmesi, 24:35'teki 'Allah dilediğini kendi nûruna yöneltir' ifadesinin somut bir örneğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah'ın nûrunun mecazi bir temsille anlatılmasıdır; bu, sembolik bir dildir ve harfi harfine bir tasvir değildir.",
+  "Bugüne taşınabilecek ders, hidayetin bir bağış olduğunu ve kalbi bu aydınlığa açık tutmanın önemini hatırlamaktır. Kalp, kandillik gibi hazır tutulursa gelen nûru daha iyi alabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kararsız kaldığın konuda yönel",
+   "aciklama": "Bugün kararsız kaldığın bir işte kısa bir dua veya istihareyle Allah'a yönel."
+  },
+  {
+   "baslik": "Kalbini karartan alışkanlığı fark et",
+   "aciklama": "Seni gaflete iten bir alışkanlığını bugün fark edip bir adım geri çek."
+  },
+  {
+   "baslik": "Bildiğin bir öğüdü paylaş",
+   "aciklama": "Sana faydalı olmuş bir öğüdü bugün başka birine kısaca aktar."
+  }
+ ],
+ "bugununAdimi": "Bugün, kararsız kaldığın bir konuda kısa bir dua ile Allah'a yönel ve sonra karar ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=35"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/24/35"
+  }
+ ]
+}

@@ -1,0 +1,320 @@
+{
+ "sure": 24,
+ "ayet": 43,
+ "durum": "taslak",
+ "meal": "Görmedin mi, Allah bulutu sevk eder, sonra aralarını birleştirir, sonra onu bir yığın haline getirir; derken yağmurun onun arasından çıktığını görürsün. Gökten, içinde dolu bulunan dağlar (gibi bulutlar) indirir de onu dilediğine isabet ettirir, dilediğinden de çevirir. Şimşeğinin parıltısı neredeyse gözleri alıp götürür.",
+ "mealNotu": "'Cibâl' (dağlar) kelimesi burada gökteki büyük bulut kütlelerini benzetme yoluyla anlatır; kelimenin harfi anlamı korunmuş, [gibi bulutlar] ile açıklık eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "değil mi",
+   "karsilik": "görmedin mi"
+  },
+  {
+   "kelime": "تَرَ",
+   "okunus": "tera",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görmedin"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يُزْجِى",
+   "okunus": "yüzcî",
+   "kok": "زجو",
+   "kokAnlam": "sevk etme, sürükleme",
+   "karsilik": "sevk eder"
+  },
+  {
+   "kelime": "سَحَابًا",
+   "okunus": "sehâben",
+   "kok": "سحب",
+   "kokAnlam": "bulut",
+   "karsilik": "bulutu"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "يُؤَلِّفُ",
+   "okunus": "yüellifü",
+   "kok": "ألف",
+   "kokAnlam": "birleştirme, kaynaştırma",
+   "karsilik": "birleştirir"
+  },
+  {
+   "kelime": "بَيْنَهُۥ",
+   "okunus": "beynehû",
+   "kok": "بين",
+   "kokAnlam": "arası",
+   "karsilik": "aralarını"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "يَجْعَلُهُۥ",
+   "okunus": "yec'alühû",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "onu yapar"
+  },
+  {
+   "kelime": "رُكَامًا",
+   "okunus": "rukâmen",
+   "kok": "ركم",
+   "kokAnlam": "üst üste yığma",
+   "karsilik": "bir yığın (halinde)"
+  },
+  {
+   "kelime": "فَتَرَى",
+   "okunus": "feterâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görürsün"
+  },
+  {
+   "kelime": "ٱلْوَدْقَ",
+   "okunus": "elvedka",
+   "kok": "ودق",
+   "kokAnlam": "yağmur",
+   "karsilik": "yağmuru"
+  },
+  {
+   "kelime": "يَخْرُجُ",
+   "okunus": "yahrucü",
+   "kok": "خرج",
+   "kokAnlam": "çıkma",
+   "karsilik": "çıktığını"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "خِلَٰلِهِۦ",
+   "okunus": "hılâlihî",
+   "kok": "خلل",
+   "kokAnlam": "ara, aralık",
+   "karsilik": "onun arasından"
+  },
+  {
+   "kelime": "وَيُنَزِّلُ",
+   "okunus": "ve yünezzilü",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "ve indirir"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "gök",
+   "karsilik": "gökten"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "جِبَالٍ",
+   "okunus": "cibâlin",
+   "kok": "جبل",
+   "kokAnlam": "dağ",
+   "karsilik": "dağlar(dan)"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "mim",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَرَدٍ",
+   "okunus": "beradin",
+   "kok": "برد",
+   "kokAnlam": "dolu",
+   "karsilik": "dolu"
+  },
+  {
+   "kelime": "فَيُصِيبُ",
+   "okunus": "feyüsîbü",
+   "kok": "صوب",
+   "kokAnlam": "isabet ettirme",
+   "karsilik": "isabet ettirir"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "onunla",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "kime",
+   "karsilik": "kime"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "وَيَصْرِفُهُۥ",
+   "okunus": "ve yasrifühû",
+   "kok": "صرف",
+   "kokAnlam": "çevirme, uzaklaştırma",
+   "karsilik": "ve onu çevirir"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "kimden",
+   "karsilik": "kimden"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "isteme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "يَكَادُ",
+   "okunus": "yekâdü",
+   "kok": "كود",
+   "kokAnlam": "neredeyse",
+   "karsilik": "neredeyse"
+  },
+  {
+   "kelime": "سَنَا",
+   "okunus": "senâ",
+   "kok": "سنو",
+   "kokAnlam": "parıltı, ışık",
+   "karsilik": "parıltısı"
+  },
+  {
+   "kelime": "بَرْقِهِۦ",
+   "okunus": "berkıhî",
+   "kok": "برق",
+   "kokAnlam": "şimşek",
+   "karsilik": "onun şimşeğinin"
+  },
+  {
+   "kelime": "يَذْهَبُ",
+   "okunus": "yezhebü",
+   "kok": "ذهب",
+   "kokAnlam": "gitme, götürme",
+   "karsilik": "alıp götürür"
+  },
+  {
+   "kelime": "بِٱلْأَبْصَٰرِ",
+   "okunus": "bil ebsâri",
+   "kok": "بصر",
+   "kokAnlam": "görme, göz",
+   "karsilik": "gözleri"
+  }
+ ],
+ "neAnlatiyor": [
+  "41. ayetteki gök-yer tesbihinin ardından, burada Allah'ın kudreti bulutların oluşumu, yağmur, dolu ve şimşek gibi doğa olaylarıyla somutlaştırılır.",
+  "Ayet, bu olayların rastgele değil Allah'ın sevk ve tedbiriyle gerçekleştiğini vurgular; 'dilediğine isabet ettirir, dilediğinden çevirir' ifadesi, doğa olaylarının da bir düzen ve iradeye bağlı olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "30:48",
+   "meal": "Allah rüzgârları gönderir, onlar bulutu harekete geçirir; Allah onu gökte dilediği gibi yayar ve parça parça kılar; derken yağmurun arasından çıktığını görürsün.",
+   "baglanti": "Bulut oluşumu ve yağmurun çıkışı neredeyse aynı ifadelerle burada da anlatılır; iki ayet birbirini doğrudan tamamlar."
+  },
+  {
+   "ref": "13:12",
+   "meal": "Size korku ve umut olsun diye şimşeği gösteren ve yağmur yüklü bulutları oluşturan O'dur.",
+   "baglanti": "Şimşek ve bulutun birlikte anılması, 24:43'teki tasviri destekleyen ve korku-umut boyutunu ekleyen bir paralel ayettir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bulut, yağmur, dolu ve şimşek gibi doğa olaylarının Allah'ın kudretine işaret etmesidir.",
+  "Bugüne taşınabilecek ders, günlük hayatta karşılaşılan hava olaylarını sıradan görmeyip ibret nazarıyla izlemektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gökyüzüne bir dakika bak",
+   "aciklama": "Bugün gökyüzüne veya havaya bir dakika dikkatle bak, düzenini fark et."
+  },
+  {
+   "baslik": "Yağmuru nimet olarak gör",
+   "aciklama": "Yağmur yağarsa bunu sıradan değil bir nimet olarak düşün."
+  },
+  {
+   "baslik": "Doğa olayını bir cümleyle an",
+   "aciklama": "Hava durumunu konuşurken bugün bir cümleyle Allah'ın kudretini hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün gökyüzüne bir dakika bakıp bulutların düzenini fark et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=43"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/24/43"
+  }
+ ]
+}

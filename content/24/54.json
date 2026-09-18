@@ -1,0 +1,215 @@
+{
+ "sure": 24,
+ "ayet": 54,
+ "durum": "taslak",
+ "meal": "De ki: Allah'a itaat edin, Peygamber'e de itaat edin. Eğer yüz çevirirseniz, ona yüklenen kendi sorumluluğu, size yüklenen de kendi sorumluluğunuzdur. Eğer ona itaat ederseniz doğru yolu bulursunuz. Peygamber'e düşen, ancak apaçık tebliğdir.",
+ "mealNotu": "'Hummile' kökü حمل yüklenen sorumluluğu anlatır; ayet, herkesin kendi sorumluluğundan hesaba çekileceğini vurgular.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "أَطِيعُوا۟",
+   "okunus": "etîû",
+   "kok": "طوع",
+   "kokAnlam": "itaat etme",
+   "karsilik": "itaat edin"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَأَطِيعُوا۟",
+   "okunus": "ve etîû",
+   "kok": "طوع",
+   "kokAnlam": "itaat etme",
+   "karsilik": "ve itaat edin"
+  },
+  {
+   "kelime": "ٱلرَّسُولِ",
+   "okunus": "errasûle",
+   "kok": "رسل",
+   "kokAnlam": "elçi",
+   "karsilik": "Peygamber'e"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَوَلَّوْا۟",
+   "okunus": "tevellev",
+   "kok": "ولي",
+   "kokAnlam": "yüz çevirme",
+   "karsilik": "yüz çevirirseniz"
+  },
+  {
+   "kelime": "فَإِنَّمَا",
+   "okunus": "feinnemâ",
+   "kok": "—",
+   "kokAnlam": "şüphesiz ancak",
+   "karsilik": "şüphesiz ancak"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "onun üzerine(dir)",
+   "karsilik": "ona ait"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "şey",
+   "karsilik": "yüklenen"
+  },
+  {
+   "kelime": "حُمِّلَ",
+   "okunus": "hummile",
+   "kok": "حمل",
+   "kokAnlam": "yükleme, taşıma",
+   "karsilik": "yüklenen"
+  },
+  {
+   "kelime": "وَعَلَيْكُم",
+   "okunus": "ve aleyküm",
+   "kok": "—",
+   "kokAnlam": "ve sizin üzerinize(dir)",
+   "karsilik": "ve size ait"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "şey",
+   "karsilik": "yüklenen"
+  },
+  {
+   "kelime": "حُمِّلْتُمْ",
+   "okunus": "hummiltüm",
+   "kok": "حمل",
+   "kokAnlam": "yükleme",
+   "karsilik": "size yüklenen"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "ve eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "تُطِيعُوهُ",
+   "okunus": "tütîûhü",
+   "kok": "طوع",
+   "kokAnlam": "itaat etme",
+   "karsilik": "ona itaat ederseniz"
+  },
+  {
+   "kelime": "تَهْتَدُوا۟",
+   "okunus": "tehtedû",
+   "kok": "هدي",
+   "kokAnlam": "hidayet bulma",
+   "karsilik": "doğru yolu bulursunuz"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "ve değildir",
+   "karsilik": "ve değildir"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلرَّسُولِ",
+   "okunus": "errasûli",
+   "kok": "رسل",
+   "kokAnlam": "elçi",
+   "karsilik": "Peygamber'in"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "başka",
+   "karsilik": "başka (bir şey)"
+  },
+  {
+   "kelime": "ٱلْبَلَٰغُ",
+   "okunus": "elbelâğu",
+   "kok": "بلغ",
+   "kokAnlam": "ulaştırma, tebliğ",
+   "karsilik": "tebliğ(den)"
+  },
+  {
+   "kelime": "ٱلْمُبِينُ",
+   "okunus": "elmübînü",
+   "kok": "بين",
+   "kokAnlam": "açık, apaçık",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "53. ayetteki yeminle söz verenlerin ardından, burada net bir çağrı yapılır: Allah'a ve Peygamber'e itaat. Ayet, sorumluluğun karşılıklı olduğunu, herkesin kendi payından sorumlu olduğunu belirtir.",
+  "Hüküm/itaat konusu ayetin kendi ifadesiyle burada tamamlanır: Peygamber'in görevi sadece apaçık tebliğdir; itaat edilip edilmemesinin sorumluluğu kişinin kendisine aittir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:32",
+   "meal": "De ki: Allah'a ve Peygamber'e itaat edin; eğer yüz çevirirlerse şüphesiz Allah kâfirleri sevmez.",
+   "baglanti": "Aynı çağrı ('Allah'a ve Peygamber'e itaat edin') ve yüz çevirme uyarısı, 24:54'ün doğrudan bir paraleli olarak öne çıkar."
+  },
+  {
+   "ref": "64:12",
+   "meal": "Allah'a itaat edin, Peygamber'e itaat edin; eğer yüz çevirirseniz bilin ki Peygamberimize düşen sadece apaçık tebliğdir.",
+   "baglanti": "Neredeyse birebir aynı ifadelerle 24:54'ü tekrarlayan, çok güçlü bir paralel ayettir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, itaat ve sorumluluğun kişiye özgü olmasıdır.",
+  "Bugüne taşınabilecek ders, kendi sorumluluğunu başkasına yıkmadan üstlenmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sorumluluğunu üstlen",
+   "aciklama": "Bugün kendi sorumluluğunu tam olarak üstlen."
+  },
+  {
+   "baslik": "Başkasını mazeret yapma",
+   "aciklama": "Başkasının hatasını bugün kendine mazeret yapma."
+  },
+  {
+   "baslik": "Doğru rehbere başvur",
+   "aciklama": "Bir konuda doğru yolu bulmak için bugün gerçek bir kaynağa (Kur'an, güvenilir bilgi) başvur."
+  }
+ ],
+ "bugununAdimi": "Bugün kendi sorumluluğun olan bir işi, başkasını suçlamadan tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=54"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/24/54"
+  }
+ ]
+}

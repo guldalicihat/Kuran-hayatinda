@@ -1,0 +1,285 @@
+{
+ "sure": 24,
+ "ayet": 40,
+ "durum": "taslak",
+ "meal": "Yahut (onların amelleri) derin bir denizdeki karanlıklar gibidir; onu dalga üstüne dalga kaplar, üstünde de bir bulut vardır; karanlıklar birbiri üstünedir. (İçindeki kişi) elini çıkarsa neredeyse onu göremez. Allah kime bir nûr vermemişse, artık onun için hiçbir nûr yoktur.",
+ "mealNotu": "'Lem yeked yerâhâ' kalıbı 'neredeyse görmez, görmeye ramak kalır' anlamındadır; akıcılık için 'neredeyse onu göremez' denmiştir.",
+ "kokler": [
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "كَظُلُمَٰتٍ",
+   "okunus": "kezulümâtin",
+   "kok": "ظلم",
+   "kokAnlam": "karanlık",
+   "karsilik": "karanlıklar gibidir"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "بَحْرٍ",
+   "okunus": "bahrin",
+   "kok": "بحر",
+   "kokAnlam": "deniz",
+   "karsilik": "bir deniz(in)"
+  },
+  {
+   "kelime": "لُّجِّىٍّ",
+   "okunus": "lücciyyin",
+   "kok": "لجج",
+   "kokAnlam": "derin, dalgalı",
+   "karsilik": "derin"
+  },
+  {
+   "kelime": "يَغْشَىٰهُ",
+   "okunus": "yağşâhü",
+   "kok": "غشو",
+   "kokAnlam": "örtme, kaplama",
+   "karsilik": "onu kaplar"
+  },
+  {
+   "kelime": "مَوْجٌ",
+   "okunus": "mevcün",
+   "kok": "موج",
+   "kokAnlam": "dalga",
+   "karsilik": "bir dalga"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "فَوْقِهِۦ",
+   "okunus": "fevkıhî",
+   "kok": "فوق",
+   "kokAnlam": "üst",
+   "karsilik": "üstünden"
+  },
+  {
+   "kelime": "مَوْجٌ",
+   "okunus": "mevcün",
+   "kok": "موج",
+   "kokAnlam": "dalga",
+   "karsilik": "(başka) bir dalga"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "فَوْقِهِۦ",
+   "okunus": "fevkıhî",
+   "kok": "فوق",
+   "kokAnlam": "üst",
+   "karsilik": "onun üstünden"
+  },
+  {
+   "kelime": "سَحَابٌ",
+   "okunus": "sehâbün",
+   "kok": "سحب",
+   "kokAnlam": "bulut",
+   "karsilik": "bir bulut (vardır)"
+  },
+  {
+   "kelime": "ظُلُمَٰتٌۢ",
+   "okunus": "zulümâtüm",
+   "kok": "ظلم",
+   "kokAnlam": "karanlık",
+   "karsilik": "karanlıklar"
+  },
+  {
+   "kelime": "بَعْضُهَا",
+   "okunus": "ba'duhâ",
+   "kok": "بعض",
+   "kokAnlam": "bir kısmı",
+   "karsilik": "biri"
+  },
+  {
+   "kelime": "فَوْقَ",
+   "okunus": "fevka",
+   "kok": "فوق",
+   "kokAnlam": "üstünde",
+   "karsilik": "üstünde"
+  },
+  {
+   "kelime": "بَعْضٍ",
+   "okunus": "ba'dın",
+   "kok": "بعض",
+   "kokAnlam": "bir kısmı",
+   "karsilik": "diğerinin"
+  },
+  {
+   "kelime": "إِذَآ",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "-dığında",
+   "karsilik": "çıkardığında"
+  },
+  {
+   "kelime": "أَخْرَجَ",
+   "okunus": "ahrace",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma",
+   "karsilik": "çıkarsa"
+  },
+  {
+   "kelime": "يَدَهُۥ",
+   "okunus": "yedehû",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "elini"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "-medi",
+   "karsilik": "neredeyse"
+  },
+  {
+   "kelime": "يَكَدْ",
+   "okunus": "yeked",
+   "kok": "كود",
+   "kokAnlam": "neredeyse",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يَرَىٰهَا",
+   "okunus": "yerâhâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "onu görür"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "ve kim",
+   "karsilik": "ve kime"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "-medi",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "يَجْعَلِ",
+   "okunus": "yec'ali",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "vermedi"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "نُورًا",
+   "okunus": "nûran",
+   "kok": "نور",
+   "kokAnlam": "nûr, ışık",
+   "karsilik": "bir nûr"
+  },
+  {
+   "kelime": "فَمَا",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "artık yoktur",
+   "karsilik": "artık yoktur"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "ona",
+   "karsilik": "onun için"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "نُّورٍ",
+   "okunus": "nûrin",
+   "kok": "نور",
+   "kokAnlam": "nûr",
+   "karsilik": "hiç nûr"
+  }
+ ],
+ "neAnlatiyor": [
+  "39. ayetteki serap temsilinden sonra ikinci bir temsil sunulur: derin deniz karanlığı. Dalga üstüne dalga, üstünde de bulut olan bu tasvir, katman katman bir karanlığı anlatır.",
+  "Bu ayet, 35. ayetteki nûr üstüne nûr temsiliyle zıtlık oluşturur: müminin aydınlığa karşılık inkârcının karanlık üstüne karanlıkta kalması. Ayet, hidayetin Allah'tan gelen bir bağış olduğunu vurgulayarak biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:257",
+   "meal": "Allah, iman edenlerin velisidir; onları karanlıklardan nûra çıkarır. İnkâr edenlerin velileri ise tâğuttur; onları nûrdan karanlıklara çıkarırlar.",
+   "baglanti": "Nûr ve karanlık arasındaki bu karşıtlık, 24:35'teki nûr temsili ile 24:40'taki karanlık temsilinin birlikte okunmasını destekler."
+  },
+  {
+   "ref": "6:39",
+   "meal": "Ayetlerimizi yalanlayanlar, karanlıklar içindeki sağırlar ve dilsizlerdir.",
+   "baglanti": "İnkârın bir 'karanlık' hali olarak tasvir edilmesi, 24:40'taki derin deniz karanlığı temsiliyle aynı imgeyi paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, imansızlığın/hidayetsizliğin katman katman bir karanlık olarak temsil edilmesidir.",
+  "Bugüne taşınabilecek ders, kişinin kendi kalbini karartan davranışlardan kaçınıp doğru bilgi ve doğru yol arayışında olmasıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Karanlığa çeken dürtüyü durdur",
+   "aciklama": "Bugün seni kötü bir alışkanlığa çeken bir dürtüyü fark edip durdur."
+  },
+  {
+   "baslik": "Doğru kaynaktan bilgi al",
+   "aciklama": "Bir konuda net görüş sahibi olmak için bugün güvenilir bir kaynaktan bilgi al."
+  },
+  {
+   "baslik": "Kolay yola değil doğruya yönel",
+   "aciklama": "Nefsinin/şeytanın kolay gösterdiği yola değil, doğru bildiğin yola bugün yönel."
+  }
+ ],
+ "bugununAdimi": "Bugün, seni yanlış bir yola çeken bir dürtüyü fark ettiğin an dur ve doğru bildiğin şeyi yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=40"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/24/40"
+  }
+ ]
+}

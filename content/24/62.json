@@ -1,0 +1,327 @@
+{
+ "sure": 24,
+ "ayet": 62,
+ "durum": "taslak",
+ "meal": "Müminler ancak Allah'a ve Peygamber'ine iman eden, onunla birlikte ortak bir iş üzerindeyken ondan izin istemeden ayrılıp gitmeyen kimselerdir. Senden izin isteyenler, işte Allah'a ve Peygamber'ine iman edenler onlardır. Kendi işlerinin bir kısmı için senden izin istediklerinde, onlardan dilediğine izin ver ve onlar için Allah'tan bağışlanma dile. Şüphesiz Allah çok bağışlayandır, çok merhamet edendir.",
+ "mealNotu": "'Emrin câmiin' (ortak/toplu iş) ifadesi, topluluğu ilgilendiren bir işi anlatır; ayet, gerçek imanın bu tür bir işte gösterilen düzenle de ölçüldüğünü vurgular.",
+ "kokler": [
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنُونَ",
+   "okunus": "elmü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "iman etme",
+   "karsilik": "müminler"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "olanlardır",
+   "karsilik": "kimselerdir"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "iman etme",
+   "karsilik": "iman eden"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَرَسُولِهِۦ",
+   "okunus": "ve rasûlihî",
+   "kok": "رسل",
+   "kokAnlam": "elçi",
+   "karsilik": "ve Peygamber'ine"
+  },
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "-dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldukları"
+  },
+  {
+   "kelime": "مَعَهُۥ",
+   "okunus": "meahû",
+   "kok": "—",
+   "kokAnlam": "onunla",
+   "karsilik": "onunla birlikte"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerinde",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "أَمْرٍ",
+   "okunus": "emrin",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir",
+   "karsilik": "bir iş"
+  },
+  {
+   "kelime": "جَامِعٍ",
+   "okunus": "câmiin",
+   "kok": "جمع",
+   "kokAnlam": "toplama, ortak",
+   "karsilik": "ortak"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "-medi",
+   "karsilik": "-meden"
+  },
+  {
+   "kelime": "يَذْهَبُوا۟",
+   "okunus": "yezhebû",
+   "kok": "ذهب",
+   "kokAnlam": "gitme",
+   "karsilik": "ayrılıp gitmeden"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "-e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "يَسْتَـْٔذِنُوهُ",
+   "okunus": "yeste'zinûhü",
+   "kok": "أذن",
+   "kokAnlam": "izin isteme",
+   "karsilik": "ondan izin isteyene"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "يَسْتَـْٔذِنُونَكَ",
+   "okunus": "yeste'zinûneke",
+   "kok": "أذن",
+   "kokAnlam": "izin isteme",
+   "karsilik": "senden izin isteyen"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "kimseler",
+   "karsilik": "kimselerdir"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "iman etme",
+   "karsilik": "iman eden"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَرَسُولِهِۦ",
+   "okunus": "ve rasûlihî",
+   "kok": "رسل",
+   "kokAnlam": "elçi",
+   "karsilik": "ve Peygamber'ine"
+  },
+  {
+   "kelime": "فَإِذَا",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "-dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "ٱسْتَـْٔذَنُوكَ",
+   "okunus": "iste'zenûke",
+   "kok": "أذن",
+   "kokAnlam": "izin isteme",
+   "karsilik": "senden izin istediklerinde"
+  },
+  {
+   "kelime": "لِبَعْضِ",
+   "okunus": "liba'dı",
+   "kok": "بعض",
+   "kokAnlam": "bir kısmı",
+   "karsilik": "bir kısmı için"
+  },
+  {
+   "kelime": "شَأْنِهِمْ",
+   "okunus": "şe'nihim",
+   "kok": "شأن",
+   "kokAnlam": "iş, durum",
+   "karsilik": "kendi işlerinin"
+  },
+  {
+   "kelime": "فَأْذَن",
+   "okunus": "fe'zen",
+   "kok": "أذن",
+   "kokAnlam": "izin verme",
+   "karsilik": "izin ver"
+  },
+  {
+   "kelime": "لِّمَن",
+   "okunus": "limen",
+   "kok": "—",
+   "kokAnlam": "kime",
+   "karsilik": "kime"
+  },
+  {
+   "kelime": "شِئْتَ",
+   "okunus": "şi'te",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilersen"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "وَٱسْتَغْفِرْ",
+   "okunus": "vestağfir",
+   "kok": "غفر",
+   "kokAnlam": "bağışlanma dileme",
+   "karsilik": "ve bağışlanma dile"
+  },
+  {
+   "kelime": "لَهُمُ",
+   "okunus": "lehümü",
+   "kok": "—",
+   "kokAnlam": "onlar için",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَفُورٌ",
+   "okunus": "gafûrun",
+   "kok": "غفر",
+   "kokAnlam": "bağışlama",
+   "karsilik": "çok bağışlayandır"
+  },
+  {
+   "kelime": "رَّحِيمٌ",
+   "okunus": "rahîmün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet",
+   "karsilik": "çok merhamet edendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "61. ayetteki akraba evlerinde rahatça bulunma kolaylığının ardından, burada ortak veya toplu bir işte bulunurken izinsiz ayrılmamanın imanla ilişkilendirildiği bir ölçü verilir.",
+  "Ayet, gerçek imanın topluluğa bağlılık ve düzenle de kendini gösterdiğini vurgular; olay veya kişi belirtmeden genel bir ilke sunar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "49:15",
+   "meal": "Müminler ancak Allah'a ve Peygamber'ine iman eden, sonra şüpheye düşmeyen, Allah yolunda mallarıyla ve canlarıyla cihad edenlerdir; işte onlar doğru sözlü olanların ta kendileridir.",
+   "baglanti": "'İnnemel mü'minûne' (müminler ancak...) kalıbıyla başlayan bu ayet, 24:62'nin aynı üslupla verdiği tanımı destekleyen doğrudan bir paraleldir."
+  },
+  {
+   "ref": "8:24",
+   "meal": "Ey iman edenler! Size hayat verecek şeye çağırdığında Allah'a ve Peygamber'e icabet edin.",
+   "baglanti": "Peygamber'in çağrısına ve topluluk işine gösterilen itaat, 24:62'deki ortak işte bulunma sorumluluğuyla aynı temayı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ortak bir işte (toplantı, görev, topluluk) bulunurken izinsiz ayrılmamaktır.",
+  "Bugüne taşınabilecek ders, bir sorumluluğu üstlendiğinde işi yarım bırakıp izinsiz çekilmemek, topluluğa karşı sorumluluk bilinciyle hareket etmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Toplantıdan izinsiz ayrılma",
+   "aciklama": "Bugün katıldığın bir toplantı veya işten izinsiz ayrılma."
+  },
+  {
+   "baslik": "Yarım bırakma",
+   "aciklama": "Üstlendiğin bir sorumluluğu bugün yarım bırakmadan tamamla."
+  },
+  {
+   "baslik": "Görülmesen de sözünü tut",
+   "aciklama": "Kimse fark etmese bile, sözünü tutmanın değerli olduğunu bugün hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün katıldığın bir işten veya toplantıdan izinsiz ayrılma.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=24&verse=62"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/24/62"
+  }
+ ]
+}
