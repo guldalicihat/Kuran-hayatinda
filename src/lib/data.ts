@@ -1,4 +1,5 @@
 import type { Chapter, Content, ContentIndex, ContentSearchRow, MealMap, SearchRow, Surah } from './types'
+import type { Sort } from './settings'
 
 const base = import.meta.env.BASE_URL
 const cache = new Map<string, Promise<unknown>>()
@@ -21,4 +22,12 @@ export const loadContent = (s: number, a: number) => get<Content>(`content/${s}/
 export function parseRef(ref: string): [number, number] | null {
   const m = ref.match(/^(\d+):(\d+)$/)
   return m ? [Number(m[1]), Number(m[2])] : null
+}
+
+// SurahList'te gösterilen sırayla aynı: mushaf'ta sure numarasına göre,
+// iniş sırasında önce mekki'ler sonra medeni'ler (her biri kendi içinde iniş sırasına göre).
+export function orderChapters(chapters: Chapter[], sort: Sort): Chapter[] {
+  if (sort !== 'nuzul') return [...chapters].sort((a, b) => a.n - b.n)
+  const byNuzul = [...chapters].sort((a, b) => a.nuzul - b.nuzul)
+  return [...byNuzul.filter(c => c.tip === 'mekki'), ...byNuzul.filter(c => c.tip === 'medeni')]
 }

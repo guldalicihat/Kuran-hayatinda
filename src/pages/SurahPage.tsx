@@ -3,9 +3,10 @@ import { Link, useLocation, useParams } from 'react-router-dom'
 import Header from '../components/Header'
 import FilterInput from '../components/FilterInput'
 import AyetCard from '../components/AyetCard'
-import { loadChapters, loadContentIndex, loadMeals, loadSurah } from '../lib/data'
+import { loadChapters, loadContentIndex, loadMeals, loadSurah, orderChapters } from '../lib/data'
 import type { Chapter, ContentIndex, MealMap, Surah } from '../lib/types'
 import { useLastRead } from '../lib/store'
+import { useSettings } from '../lib/settings'
 
 function norm(s: string) { return s.toLocaleLowerCase('tr').replace(/[âîû']/g, c => ({ 'â': 'a', 'î': 'i', 'û': 'u', "'": '' }[c] ?? c)) }
 
@@ -19,6 +20,7 @@ export default function SurahPage() {
   const [idx, setIdx] = useState<ContentIndex>({})
   const [q, setQ] = useState('')
   const { mark } = useLastRead()
+  const { s: settings } = useSettings()
   useEffect(() => {
     setSurah(null)
     loadSurah(n).then(setSurah)
@@ -40,8 +42,10 @@ export default function SurahPage() {
     return surah.ayetler.filter(a => !nq || String(a.n) === q.trim() || norm(a.okunus).includes(nq) || norm(meals[a.n] ?? '').includes(nq))
   }, [surah, q, meals])
   const has = new Set(idx[String(n)] ?? [])
-  const prevCh = n > 1 ? chapters.find(c => c.n === n - 1) : undefined
-  const nextCh = n < 114 ? chapters.find(c => c.n === n + 1) : undefined
+  const ordered = useMemo(() => orderChapters(chapters, settings.sort), [chapters, settings.sort])
+  const orderIdx = ordered.findIndex(c => c.n === n)
+  const prevCh = orderIdx > 0 ? ordered[orderIdx - 1] : undefined
+  const nextCh = orderIdx >= 0 && orderIdx < ordered.length - 1 ? ordered[orderIdx + 1] : undefined
   return (
     <div className="safe-bottom">
       <Header title={ch?.ad ?? '…'} back="/" backLabel="Sureler" />

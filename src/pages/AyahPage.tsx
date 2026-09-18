@@ -1,9 +1,10 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import Header from '../components/Header'
-import { loadChapters, loadContent, loadContentIndex, loadSurah, parseRef } from '../lib/data'
+import { loadChapters, loadContent, loadContentIndex, loadSurah, orderChapters, parseRef } from '../lib/data'
 import type { Ayah, Chapter, Content } from '../lib/types'
 import { useFavorites, useLastRead } from '../lib/store'
+import { useSettings } from '../lib/settings'
 
 const SITE = 'https://kuranhayatimda.com'
 
@@ -42,6 +43,7 @@ export default function AyahPage() {
   const [content, setContent] = useState<Content | null | undefined>(undefined)
   const [chapters, setChapters] = useState<Chapter[]>([])
   const { isFavorite, toggle } = useFavorites(); const { mark } = useLastRead()
+  const { s: settings } = useSettings()
   const key = `${n}:${a}`
   const fav = isFavorite(key)
   const [copied, setCopied] = useState(false)
@@ -56,8 +58,12 @@ export default function AyahPage() {
     mark(n, a); window.scrollTo(0, 0)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [n, a])
-  const prev = a > 1 ? `/sure/${n}/${a - 1}` : n > 1 ? `/sure/${n - 1}/${chapters.find(c => c.n === n - 1)?.ayet ?? 1}` : null
-  const next = ch && a < ch.ayet ? `/sure/${n}/${a + 1}` : n < 114 ? `/sure/${n + 1}/1` : null
+  const ordered = useMemo(() => orderChapters(chapters, settings.sort), [chapters, settings.sort])
+  const orderIdx = ordered.findIndex(c => c.n === n)
+  const prevCh = orderIdx > 0 ? ordered[orderIdx - 1] : undefined
+  const nextCh = orderIdx >= 0 && orderIdx < ordered.length - 1 ? ordered[orderIdx + 1] : undefined
+  const prev = a > 1 ? `/sure/${n}/${a - 1}` : prevCh ? `/sure/${prevCh.n}/${prevCh.ayet}` : null
+  const next = ch && a < ch.ayet ? `/sure/${n}/${a + 1}` : nextCh ? `/sure/${nextCh.n}/1` : null
   const refName = (ref: string) => { const r = parseRef(ref); const c = r && chapters.find(x => x.n === r[0]); return c ? `${c.ad} ${r![1]}` : ref }
   const share = async () => {
     const url = `${SITE}/#/sure/${n}/${a}`
