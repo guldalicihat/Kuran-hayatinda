@@ -1,0 +1,82 @@
+{
+ "sure": 20,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Musa'nın haberi sana geldi mi?",
+ "mealNotu": "'Hadîs' kökü حدث, haber, olay anlatısı demektir; burada Kur'an'daki 'hadis' terimiyle (peygamber sözü) karıştırılmamalıdır, kelimenin genel sözlük anlamı kullanılmıştır.",
+ "kokler": [
+  {
+   "kelime": "وَهَلْ",
+   "okunus": "ve hel",
+   "kok": "—",
+   "kokAnlam": "(soru edatı) mı",
+   "karsilik": "mi"
+  },
+  {
+   "kelime": "أَتَىٰكَ",
+   "okunus": "etâke",
+   "kok": "أتي",
+   "kokAnlam": "gelme, ulaşma",
+   "karsilik": "sana geldi"
+  },
+  {
+   "kelime": "حَدِيثُ",
+   "okunus": "hadîsü",
+   "kok": "حدث",
+   "kokAnlam": "haber, anlatı, olay",
+   "karsilik": "haberi"
+  },
+  {
+   "kelime": "مُوسَىٰٓ",
+   "okunus": "mûsâ",
+   "kok": "—",
+   "kokAnlam": "(özel isim)",
+   "karsilik": "Musa'nın"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, sûrenin Allah tanıtımından Musa kıssasına geçişini bir soruyla yapar. 'Hadîs' kökü حدث, bir haberi veya anlatıyı ifade eder; soru, dinleyiciyi gelecek anlatıya hazırlayan bir giriş cümlesidir, gerçek anlamda bilgi istemez.",
+  "Bu tür soru cümleleri Kur'an'da sık kullanılır; dinleyicinin dikkatini konuya çekmek ve anlatının önemine işaret etmek içindir. Ayetin hemen ardından, Musa'nın Tûr'daki ateş kıssası anlatılmaya başlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "79:15",
+   "meal": "Musa'nın haberi sana geldi mi?",
+   "baglanti": "Nâziât sûresi de Musa kıssasına neredeyse aynı ifadeyle başlar; bu, Kur'an'da tekrar eden bir giriş kalıbıdır."
+  },
+  {
+   "ref": "85:17",
+   "meal": "Orduların haberi sana geldi mi?",
+   "baglanti": "Bürûc sûresindeki bu ayet de aynı soru kalıbını, farklı bir kıssaya giriş için kullanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, gelecek Musa kıssasına bir giriş yapmaktır; başlı başına bir hüküm içermez.",
+  "Günlük hayata taşınabilecek ders, bir konuyu anlatmadan önce dinleyenin ilgisini çekmenin değeridir. Bir bilgiyi ya da öğüdü doğrudan sıralamak yerine, önce merak uyandırmak, dinleyenin konuya daha açık olmasını sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir kıssayı baştan oku",
+   "aciklama": "Bugün Musa kıssasının bu bölümünü (9-30. ayetler) sırayla oku."
+  },
+  {
+   "baslik": "Bir konuşmaya ilgiyle başla",
+   "aciklama": "Bugün önemli bir konuyu anlatırken önce kısa bir soruyla dinleyicinin ilgisini çek."
+  },
+  {
+   "baslik": "Bir peygamber kıssasını araştır",
+   "aciklama": "Bugün Musa'nın hayatından bir bölümü daha okuyup öğren."
+  }
+ ],
+ "bugununAdimi": "Bugün Tâhâ sûresinin 9-30. ayetlerini meal ile birlikte tek seferde oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/9"
+  }
+ ]
+}

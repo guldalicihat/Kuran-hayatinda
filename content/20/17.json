@@ -1,0 +1,77 @@
+{
+ "sure": 20,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "O sağ elindeki nedir, ey Musa?",
+ "mealNotu": "Doğrudan bir soru cümlesidir, yorum eklenmemiştir.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(soru edatı) nedir",
+   "karsilik": "nedir"
+  },
+  {
+   "kelime": "تِلْكَ",
+   "okunus": "tilke",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri) o, şu",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "بِيَمِينِكَ",
+   "okunus": "biyemînike",
+   "kok": "يمن",
+   "kokAnlam": "sağ el, sağ taraf",
+   "karsilik": "sağ elindeki"
+  },
+  {
+   "kelime": "يَٰمُوسَىٰ",
+   "okunus": "yâ mûsâ",
+   "kok": "—",
+   "kokAnlam": "(nida, özel isim)",
+   "karsilik": "ey Musa"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, uzun uyarının ardından sahneyi değiştirir ve Musa'ya elindeki nesne hakkında sade bir soru sorulur. Bu, sonraki ayetlerde gerçekleşecek asa mucizesine bir giriş niteliğindedir.",
+  "Sorunun cevabı zaten bilinen bir şeydir (asa); buradaki amaç bilgi almak değil, Musa'yı kendi elindeki sıradan nesnenin büyük bir işarete dönüşeceği ana hazırlamaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:107",
+   "meal": "Bunun üzerine asasını attı; birden o apaçık bir yılan oluverdi.",
+   "baglanti": "Bu ayet, Tâhâ 17'deki soru sonrasında gerçekleşecek olan asa mucizesinin bir başka sûredeki anlatımıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Musa'ya elindeki asa hakkında sorulan basit bir sorudur.",
+  "Günlük hayata taşınabilecek ders, bazen en sıradan ve elimizin altındaki bir şeyin, fark edilmeyen bir değere veya işleve sahip olabileceğidir. Musa'nın elindeki asa, göründüğünden çok daha fazlasını taşıyacaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Elindekini fark et",
+   "aciklama": "Bugün sıradan gördüğün bir imkânının aslında ne kadar değerli olduğunu düşün."
+  },
+  {
+   "baslik": "Bir soruyu sadeleştir",
+   "aciklama": "Bugün karmaşık bir konuyu, birine sade bir soruyla anlatmayı dene."
+  },
+  {
+   "baslik": "Kıssayı takip et",
+   "aciklama": "Bugün 18-23. ayetleri okuyup asa mucizesinin devamını öğren."
+  }
+ ],
+ "bugununAdimi": "Bugün elindeki sıradan bir imkânı, ondan nasıl daha iyi faydalanabileceğini düşünerek gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/17"
+  }
+ ]
+}

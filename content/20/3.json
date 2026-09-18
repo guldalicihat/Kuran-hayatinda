@@ -1,0 +1,82 @@
+{
+ "sure": 20,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Ancak içi saygıyla ürperen kimse için bir hatırlatma [olarak indirdik].",
+ "mealNotu": "'Tezkire' kökü ذكر'den gelir, hatırlatma anlamındadır. 'Yahşâ' kökü خشي, korkuyla karışık derin bir saygıyı anlatır; burada 'içi saygıyla ürperen' ifadesiyle karşılanmıştır. Cümle bir önceki ayetten devam ettiği için [olarak indirdik] köşeli parantezle eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna edatı) ancak, yalnız",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "تَذْكِرَةً",
+   "okunus": "tezkiraten",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlatma, anma",
+   "karsilik": "bir hatırlatma"
+  },
+  {
+   "kelime": "لِّمَن",
+   "okunus": "limen",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimse için",
+   "karsilik": "kimse için"
+  },
+  {
+   "kelime": "يَخْشَىٰ",
+   "okunus": "yahşâ",
+   "kok": "خشي",
+   "kokAnlam": "içten gelen korku, saygıyla ürperme",
+   "karsilik": "içi saygıyla ürperen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayetteki olumsuzlamayı tamamlar: Kur'an sıkıntı vermek için değil, 'tezkire' yani hatırlatma olarak indirilmiştir. Tezkire kökü ذكر, unutulanı yeniden hatırlatmayı anlatır; bu da Kur'an'ın insana yabancı bir şey öğretmekten çok, zaten bildiği ya da fıtratında olan bir şeyi hatırlatmak üzere geldiğini gösterir.",
+  "Bu hatırlatma herkes için aynı etkiyi yapmaz; ayet bunu 'yahşâ' yani içten saygıyla ürperen kimseye bağlar. Bu kök, dıştan gelen bir korkudan çok, kişinin kendi içinde duyduğu derin bir saygıyı anlatır. Böylece ayet, Kur'an'ın etkisinin, onu okuyanın iç tutumuyla ilişkili olduğunu ima eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "87:9",
+   "meal": "Öyleyse, eğer hatırlatma fayda verirse hatırlat.",
+   "baglanti": "Aynı 'zikr' kökü burada da geçer; Kur'an'ın hatırlatma işlevi bu ayette de vurgulanır."
+  },
+  {
+   "ref": "87:10",
+   "meal": "İçi saygıyla ürperen kimse öğüt alacaktır.",
+   "baglanti": "Bu ayet, Tâhâ 3'teki 'yahşâ' kelimesiyle aynı kökü kullanır ve hatırlatmadan yararlanacak kişiyi aynı şekilde tanımlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kur'an'ın işlevidir: O bir hatırlatmadır, zorlama aracı değildir.",
+  "Günlük hayata taşınabilecek ders şudur: Bir öğüdün veya uyarının etkili olması, onu alanın iç tutumuna bağlıdır. İçinde saygı ve duyarlılık olmayan birine yapılan hatırlatma çoğu zaman karşılık bulmaz; bu yüzden hem kendi iç tutumumuzu hem de bir öğüdü nasıl ilettiğimizi gözden geçirmek faydalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir hatırlatmayı içine sindir",
+   "aciklama": "Bugün okuduğun bir ayeti sadece bilgi olarak değil, kendine yönelik bir hatırlatma olarak düşün."
+  },
+  {
+   "baslik": "İç tutumunu kontrol et",
+   "aciklama": "Bir uyarı aldığında önce savunmaya geçmeden, saygıyla dinlemeyi dene."
+  },
+  {
+   "baslik": "Nazik bir hatırlatma yap",
+   "aciklama": "Bir yakınına, zorlamadan ve yargılamadan, kısa ve nazik bir hatırlatmada bulun."
+  }
+ ],
+ "bugununAdimi": "Bugün aldığın bir uyarıyı savunmaya geçmeden, saygıyla dinleyip üzerinde bir dakika düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/3"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "sure": 20,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Kur'an'ı sana, sıkıntıya düşesin diye indirmedik.",
+ "mealNotu": "'Teşkâ' fiili 'şakave' kökünden gelir; bedbahtlık, sıkıntı, zorlanma anlamındadır. Burada 'sıkıntıya düşesin' ifadesiyle karşılanmıştır; bazı meallerde geçen 'bedbaht olasın' ifadesi de aynı köke dayanır.",
+ "kokler": [
+  {
+   "kelime": "مَآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "(değil)"
+  },
+  {
+   "kelime": "أَنزَلْنَا",
+   "okunus": "enzelnâ",
+   "kok": "نزل",
+   "kokAnlam": "indirme, aşağı gönderme",
+   "karsilik": "indirmedik"
+  },
+  {
+   "kelime": "عَلَيْكَ",
+   "okunus": "aleyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana, üzerine",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانَ",
+   "okunus": "elkur'âne",
+   "kok": "قرأ",
+   "kokAnlam": "okuma, toplama; okunan kitap",
+   "karsilik": "Kur'an'ı"
+  },
+  {
+   "kelime": "لِتَشْقَىٰٓ",
+   "okunus": "liteşkâ",
+   "kok": "شقو",
+   "kokAnlam": "sıkıntı, bedbahtlık, zorlanma",
+   "karsilik": "sıkıntıya düşesin diye"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayetteki kesik harflerin hemen ardından Kur'an'ın gönderiliş amacını açıklamaya başlar. 'Teşkâ' kökü, zorlanma ve bedbahtlığı anlatır; ayet, Kur'an'ın böyle bir sıkıntı vermek için indirilmediğini söyler. Bu, sûrenin devamında gelecek olan 'sadece hatırlatma' vurgusunun ilk cümlesidir.",
+  "Ayetin kendisi tarihsel bir olay anlatmaz, genel bir ilke koyar: Kur'an'ın amacı insanı yıpratmak değildir. Ayetin devamı (3. ayet) bu amacı 'hatırlatma' olarak netleştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:185",
+   "meal": "Allah sizin için kolaylık ister, sizin için zorluk istemez.",
+   "baglanti": "Aynı ilke burada da görülür: Allah'ın insan için istediği kolaylıktır, zorluk ve sıkıntı değil."
+  },
+  {
+   "ref": "94:6",
+   "meal": "Şüphesiz güçlükle beraber bir kolaylık vardır.",
+   "baglanti": "Zorluk ve kolaylık dengesine dair bu ayet, Kur'an'ın insana sıkıntı için değil kolaylık için geldiği fikrini destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kur'an'ın iniş amacıdır: Kur'an, insanı yormak, bunaltmak için değil, hatırlatmak için gelmiştir.",
+  "Bu, günlük hayata şöyle taşınabilir: Bir kuralı ya da öğüdü uygularken kendini ya da başkasını aşırı yormak, asıl amacı gölgeler. İbadeti veya bir sorumluluğu, taşınamayacak bir yüke dönüştürmemek, ayetin ruhuna uygun bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir alışkanlığını gözden geçir",
+   "aciklama": "Kendini gereksiz yere yorduğun bir ibadet ya da rutin var mı, bugün düşün."
+  },
+  {
+   "baslik": "Ölçülü bir hedef koy",
+   "aciklama": "Bugün üstlendiğin bir işte, kendini bitirmeyecek gerçekçi bir tempo belirle."
+  },
+  {
+   "baslik": "Birine kolaylaştırıcı ol",
+   "aciklama": "Bir arkadaşına bir konuda zorlaştırmak yerine kolaylaştırıcı bir öneri sun."
+  }
+ ],
+ "bugununAdimi": "Bugün kendini gereksiz yere yorduğun bir alışkanlığı belirle ve onu daha ölçülü hale getirecek tek bir değişiklik yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/2"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "sure": 20,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "Şüphesiz ben, Allah'ım; benden başka ilah yoktur. Öyleyse bana kulluk et ve beni anmak için namazı kıl.",
+ "mealNotu": "'Li zikrî' ifadesi hem 'beni anmak için' hem de 'benim anılmam için' okunabilir; burada birinci anlam tercih edilmiştir, klasik mealler arasında bu iki okuyuş da bulunur.",
+ "kokler": [
+  {
+   "kelime": "إِنَّنِىٓ",
+   "okunus": "innenî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz ben",
+   "karsilik": "şüphesiz ben"
+  },
+  {
+   "kelime": "أَنَا۠",
+   "okunus": "enâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) ben",
+   "karsilik": "ben"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; tapınılan",
+   "karsilik": "Allah'ım"
+  },
+  {
+   "kelime": "لَآ",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yoktur",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "إِلَٰهَ",
+   "okunus": "ilâhe",
+   "kok": "أله",
+   "kokAnlam": "ilah, tapınılan varlık",
+   "karsilik": "ilah"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) başka, ancak",
+   "karsilik": "benden başka"
+  },
+  {
+   "kelime": "أَنَا۠",
+   "okunus": "ene",
+   "kok": "—",
+   "kokAnlam": "(zamir) ben",
+   "karsilik": "(başka ilah yok) ben"
+  },
+  {
+   "kelime": "فَٱعْبُدْنِى",
+   "okunus": "febüdnî",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme, ibadet",
+   "karsilik": "bana kulluk et"
+  },
+  {
+   "kelime": "وَأَقِمِ",
+   "okunus": "ve ekımi",
+   "kok": "قوم",
+   "kokAnlam": "doğrultma, ayakta tutma, ikame etme",
+   "karsilik": "ve kıl"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "dua, namaz",
+   "karsilik": "namazı"
+  },
+  {
+   "kelime": "لِذِكْرِىٓ",
+   "okunus": "lizikrî",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama",
+   "karsilik": "beni anmak için"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Musa'ya seslenen Rabbinin kimliğini açıkça bildirir ve doğrudan iki emir verir: kulluk etmek ve namazı kılmak. 'Lâ ilâhe illâ ene' ifadesi tevhidin özünü, en yalın haliyle ortaya koyar; bu, sûrenin başında 8. ayette geçen 'Allah, O'ndan başka ilah yoktur' ifadesinin Musa'ya bizzat söylenmiş biçimidir.",
+  "Namazın 'zikr' yani anma ile ilişkilendirilmesi dikkat çekicidir; 'salât' kökü صلو dua ve bağlanmayı, 'zikr' kökü ذكر ise hatırlamayı anlatır. Ayet, namazın işlevini bu şekilde tanımlar: Allah'ı hatırlamanın, unutmamanın bir aracı."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:45",
+   "meal": "Namazı kıl; çünkü namaz çirkin işlerden ve kötülükten alıkoyar. Allah'ı anmak elbette en büyüktür.",
+   "baglanti": "Bu ayet de namaz ile Allah'ı anma arasındaki bağı kurar; Tâhâ 14'teki 'namazı beni anmak için kıl' ifadesiyle örtüşür."
+  },
+  {
+   "ref": "51:56",
+   "meal": "Ben cinleri ve insanları, ancak bana kulluk etsinler diye yarattım.",
+   "baglanti": "Bu ayet, Tâhâ 14'teki 'bana kulluk et' emrinin, insanın yaratılış amacıyla bağlantısını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu tevhid inancı ve namaz emridir.",
+  "Günlük hayata taşınabilecek ders, namazın sadece bir görev değil, Allah'ı hatırlama aracı olarak görülmesidir. Namazı günün belli anlarına yerleştirmek, kişiyi günlük telaş içinde asıl amacından uzaklaşmaktan alıkoyabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Namazı zamanında kıl",
+   "aciklama": "Bugün vakit namazlarından birini, işini bırakıp erken kılmaya özen göster."
+  },
+  {
+   "baslik": "Namazda anlamına odaklan",
+   "aciklama": "Bugün kıldığın bir namazda okuduğun duaların anlamını düşünerek kıl."
+  },
+  {
+   "baslik": "Günün içine bir hatırlatma koy",
+   "aciklama": "Bugün telefonuna veya masana, namaz vaktini hatırlatacak küçük bir not bırak."
+  }
+ ],
+ "bugununAdimi": "Bugün bir vakit namazını, işini bırakıp zamanında ve anlamını düşünerek kıl.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/14"
+  }
+ ]
+}

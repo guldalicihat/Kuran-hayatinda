@@ -1,0 +1,96 @@
+{
+ "sure": 20,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Yeri ve yüce gökleri yaratandan [bu Kur'an] bir indirmedir.",
+ "mealNotu": "Cümle 2. ayetten devam eder; akışı Türkçede tamamlamak için [bu Kur'an] köşeli parantezle eklenmiştir. 'Ulâ' kökü علو, yücelik ve yükseklik anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "تَنزِيلًا",
+   "okunus": "tenzîlen",
+   "kok": "نزل",
+   "kokAnlam": "indirme, aşağı gönderme",
+   "karsilik": "bir indirmedir"
+  },
+  {
+   "kelime": "مِّمَّنْ",
+   "okunus": "mimmen",
+   "kok": "—",
+   "kokAnlam": "(edat) -den, kimden",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "خَلَقَ",
+   "okunus": "haleka",
+   "kok": "خلق",
+   "kokAnlam": "yaratma, yoktan var etme",
+   "karsilik": "yaratan"
+  },
+  {
+   "kelime": "ٱلْأَرْضَ",
+   "okunus": "el'erda",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yeri"
+  },
+  {
+   "kelime": "وَٱلسَّمَٰوَٰتِ",
+   "okunus": "ves semâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yücelik; gök",
+   "karsilik": "ve gökleri"
+  },
+  {
+   "kelime": "ٱلْعُلَى",
+   "okunus": "el'ulâ",
+   "kok": "علو",
+   "kokAnlam": "yükseklik, yücelik",
+   "karsilik": "yüce"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Kur'an'ın kimden geldiğini tanımlar: Yeri ve yüce gökleri yaratan. 'Halk' kökü خلق yoktan var etmeyi, 'ulâ' kökü علو ise yüceliği anlatır. Ayet böylece Kur'an'ın kaynağının büyüklüğüne dikkat çeker; bu, 2. ayetteki 'sıkıntı için indirilmedi' ifadesine güç katar, çünkü bu denli büyük bir kaynaktan gelen bir söz güvenle karşılanmalıdır.",
+  "Gökler ve yer vurgusu, Kur'an'da yaratılışın büyüklüğüne dikkat çekmek için sık kullanılan bir kalıptır. Bir sonraki ayet bu yaratıcının Arş üzerinde 'istivâ' ettiğini söyleyerek bu tanımı sürdürür; 4 ve 5. ayetler birlikte, Kur'an'ı gönderenin kim olduğunu tanıtan bir giriş oluşturur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:54",
+   "meal": "Rabbiniz, gökleri ve yeri altı günde yaratan, sonra Arş üzerine istivâ eden Allah'tır.",
+   "baglanti": "Bu ayet de yaratılış ile Arş üzerindeki istivâyı birlikte anar; Tâhâ 4-5'teki sıralamayla aynı yapıdadır."
+  },
+  {
+   "ref": "41:12",
+   "meal": "Böylece onları iki günde yedi gök olarak tamamladı ve her göğe kendi işini vahyetti.",
+   "baglanti": "Göklerin yaratılışına dair bu ayet, Tâhâ 4'teki 'yüce gökleri yaratan' ifadesini daha ayrıntılı biçimde açıklar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kur'an'ın kaynağıdır: yeri ve gökleri yaratan Allah.",
+  "Günlük hayata taşınabilecek ders, aldığımız bir sözün veya öğüdün kaynağına dikkat etmektir. Bir söz ne kadar büyük ve güvenilir bir kaynaktan geliyorsa, ona o kadar ciddiyetle yaklaşmak gerekir; bu ayet, Kur'an'a yaklaşırken taşınması gereken ciddiyeti hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir doğa gözlemi yap",
+   "aciklama": "Bugün gökyüzüne birkaç dakika bakıp büyüklüğü üzerine düşün."
+  },
+  {
+   "baslik": "Kaynağına dikkat et",
+   "aciklama": "Bugün okuduğun bir haberin veya bilginin kaynağını sorgula."
+  },
+  {
+   "baslik": "Bir ayeti ciddiyetle oku",
+   "aciklama": "Bugün bir ayeti hızlı geçmeden, kaynağının büyüklüğünü düşünerek oku."
+  }
+ ],
+ "bugununAdimi": "Bugün gökyüzüne birkaç dakika bakıp yaratılışın büyüklüğü üzerine sessizce düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/4"
+  }
+ ]
+}

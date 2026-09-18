@@ -1,0 +1,103 @@
+{
+ "sure": 20,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Sözü açıktan söylesen de [Allah bilir]; çünkü O, gizliyi de gizliden daha gizli olanı da bilir.",
+ "mealNotu": "'Sirr' gizliyi, 'ahfâ' ise سرr'den daha derin, daha gizli olanı anlatır; bazı yorumlar 'ahfâ'yı henüz kalbe bile doğmamış düşünce olarak açıklar, ayet bunun için kesin bir tanım vermez. Cümle akışını tamamlamak için [Allah bilir] köşeli parantezle eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart edatı) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَجْهَرْ",
+   "okunus": "techer",
+   "kok": "جهر",
+   "kokAnlam": "yüksek sesle söyleme, açığa vurma",
+   "karsilik": "açıktan söylesen"
+  },
+  {
+   "kelime": "بِٱلْقَوْلِ",
+   "okunus": "bil kavli",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "sözü"
+  },
+  {
+   "kelime": "فَإِنَّهُۥ",
+   "okunus": "feinnehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) çünkü o",
+   "karsilik": "çünkü O"
+  },
+  {
+   "kelime": "يَعْلَمُ",
+   "okunus": "ya'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilir"
+  },
+  {
+   "kelime": "ٱلسِّرَّ",
+   "okunus": "essirra",
+   "kok": "سرر",
+   "kokAnlam": "gizli, saklı",
+   "karsilik": "gizliyi"
+  },
+  {
+   "kelime": "وَأَخْفَى",
+   "okunus": "ve ahfâ",
+   "kok": "خفي",
+   "kokAnlam": "gizli olan; daha gizli",
+   "karsilik": "ve daha gizli olanı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Allah'ın bilgisinin sınırsızlığını anlatır. 'Cehr' kökü جهر açığa vurmayı, yüksek sesle söylemeyi anlatır; ayet, sesli ya da sessiz söylenen her sözün Allah katında fark etmediğini belirtir. Çünkü O, 'sirr' yani gizliyi ve 'ahfâ' yani gizliden de gizli olanı bilir.",
+  "'Ahfâ' kelimesinin tam olarak neyi kastettiği konusunda klasik tefsirde farklı açıklamalar vardır; kimi bunu henüz kişinin kendisinin bile fark etmediği bir düşünce olarak yorumlar. Ayet kesin bir tanım vermediği için burada da bu belirsizlik korunur; asıl vurgu, Allah'ın bilgisinin insanın kendi bilincinin ötesine kadar uzandığıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "13:10",
+   "meal": "İçinizden sözü gizleyen de açığa vuran da, geceye bürünüp saklanan da gündüz açıkça yürüyen de O'nun için birdir.",
+   "baglanti": "Bu ayet de gizli ile açık söz arasında Allah katında fark olmadığını anlatır; Tâhâ 7'deki fikri farklı kelimelerle tekrarlar."
+  },
+  {
+   "ref": "64:4",
+   "meal": "Göklerde ve yerde olanı bilir; gizlediğinizi de açığa vurduğunuzu da bilir.",
+   "baglanti": "Bu ayet de Allah'ın gizli ve açık her şeyi bilmesini anlatır; Tâhâ 7'deki 'sirr' ve açık söz vurgusuyla örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Allah'ın ilminin kapsamıdır; sesli ya da içten geçen her şeyi bilmesidir.",
+  "Günlük hayata taşınabilecek ders, davranış tutarlılığıdır. İnsan çoğu zaman başkalarının duyacağı sözlere dikkat eder ama kalbinden geçenlere aynı özeni göstermeyebilir; bu ayet, içten geçenin de açığa vurulanın da aynı değerde görüldüğünü hatırlatarak iç ve dış tutarlılığa dikkat çeker."
+ ],
+ "bugun": [
+  {
+   "baslik": "İçinden geçeni gözden geçir",
+   "aciklama": "Bugün kimseye söylemediğin ama içinden geçirdiğin bir düşünceyi fark edip üzerine düşün."
+  },
+  {
+   "baslik": "Gizli bir iyilik yap",
+   "aciklama": "Bugün kimsenin bilmediği küçük bir iyilik yap."
+  },
+  {
+   "baslik": "Söz ile niyeti eşitle",
+   "aciklama": "Bugün söylediğin bir sözün, içinden geçenle aynı olmasına özen göster."
+  }
+ ],
+ "bugununAdimi": "Bugün kimsenin görmediği bir anında, sanki biri seni izliyormuş gibi davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/7"
+  }
+ ]
+}
