@@ -1,0 +1,208 @@
+{
+ "sure": 18,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "Onları uyanık sanırsın, oysa uykudadırlar; biz onları sağa sola çeviririz. Köpekleri de eşikte ön ayaklarını uzatmıştır. Onlara baksaydın, dönüp kaçardın ve içini korku doldururdu.",
+ "mealNotu": "Uyku süresi ve duruşuna dair ayrıntılar kesinleştirilmeden, ayetin kendi ifadesiyle aktarılmıştır.",
+ "kokler": [
+  {
+   "kelime": "وَتَحْسَبُهُمْ",
+   "okunus": "ve tahsebühüm",
+   "kok": "حسب",
+   "kokAnlam": "sanma, zannetme",
+   "karsilik": "onları sanırsın"
+  },
+  {
+   "kelime": "أَيْقَاظًا",
+   "okunus": "eykâzan",
+   "kok": "يقظ",
+   "kokAnlam": "uyanıklık",
+   "karsilik": "uyanık"
+  },
+  {
+   "kelime": "وَهُمْ",
+   "okunus": "ve hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) oysa onlar",
+   "karsilik": "oysa onlar"
+  },
+  {
+   "kelime": "رُقُودٌ",
+   "okunus": "rukûdün",
+   "kok": "رقد",
+   "kokAnlam": "uyku, uyuma",
+   "karsilik": "uykudadırlar"
+  },
+  {
+   "kelime": "وَنُقَلِّبُهُمْ",
+   "okunus": "ve nükallibühüm",
+   "kok": "قلب",
+   "kokAnlam": "çevirme, döndürme",
+   "karsilik": "biz onları çeviririz"
+  },
+  {
+   "kelime": "ذَاتَ",
+   "okunus": "zâte",
+   "kok": "—",
+   "kokAnlam": "(yer) tarafına",
+   "karsilik": "tarafına"
+  },
+  {
+   "kelime": "ٱلْيَمِينِ",
+   "okunus": "elyemîni",
+   "kok": "يمن",
+   "kokAnlam": "sağ, uğur",
+   "karsilik": "sağ"
+  },
+  {
+   "kelime": "وَذَاتَ",
+   "okunus": "ve zâte",
+   "kok": "—",
+   "kokAnlam": "(yer) ve tarafına",
+   "karsilik": "ve tarafına"
+  },
+  {
+   "kelime": "ٱلشِّمَالِ",
+   "okunus": "eşşimâli",
+   "kok": "شمل",
+   "kokAnlam": "sol",
+   "karsilik": "sol"
+  },
+  {
+   "kelime": "وَكَلْبُهُم",
+   "okunus": "ve kelbühüm",
+   "kok": "كلب",
+   "kokAnlam": "köpek",
+   "karsilik": "köpekleri de"
+  },
+  {
+   "kelime": "بَٰسِطٌ",
+   "okunus": "bâsitun",
+   "kok": "بسط",
+   "kokAnlam": "uzatma, yayma",
+   "karsilik": "uzatmıştır"
+  },
+  {
+   "kelime": "ذِرَاعَيْهِ",
+   "okunus": "zirâayhi",
+   "kok": "ذرع",
+   "kokAnlam": "kol, ön ayak",
+   "karsilik": "iki ön ayağını"
+  },
+  {
+   "kelime": "بِٱلْوَصِيدِ",
+   "okunus": "bil vesîdi",
+   "kok": "وصد",
+   "kokAnlam": "eşik, kapı önü",
+   "karsilik": "eşikte"
+  },
+  {
+   "kelime": "لَوِ",
+   "okunus": "levi",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "ٱطَّلَعْتَ",
+   "okunus": "ittala'te",
+   "kok": "طلع",
+   "kokAnlam": "bakma, görme",
+   "karsilik": "baksaydın"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "لَوَلَّيْتَ",
+   "okunus": "levelleyte",
+   "kok": "ولي",
+   "kokAnlam": "dönme, yüz çevirme",
+   "karsilik": "dönerdin"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "فِرَارًا",
+   "okunus": "firâran",
+   "kok": "فرر",
+   "kokAnlam": "kaçma",
+   "karsilik": "kaçarcasına"
+  },
+  {
+   "kelime": "وَلَمُلِئْتَ",
+   "okunus": "ve lemüli'te",
+   "kok": "ملأ",
+   "kokAnlam": "dolma, doldurma",
+   "karsilik": "ve dolardın"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "رُعْبًا",
+   "okunus": "ru'ben",
+   "kok": "رعب",
+   "kokAnlam": "korku, dehşet",
+   "karsilik": "korkuyla"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, gençlerin görünüşte uyanık gibi durdukları ama aslında derin bir uykuda olduklarını, Allah'ın onları sağa sola çevirdiğini anlatır. Klasik tefsir bu çevirmeyi, bedenlerinin toprağa zarar vermeden korunması için bir hikmet olarak açıklar; ayette kesin bir gerekçe verilmez.",
+  "Köpeklerinin de eşikte beklediği, sahnenin bir yabancı için ürkütücü görüneceği belirtilir. Bu ayrıntılar, kıssanın olağanüstü ama gerçek olduğunu vurgulamak içindir; uyuma süresi ve duruşları hakkında ayet kesin bir bilgi vermez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "8:43",
+   "meal": "Hani Allah onları sana rüyanda az gösteriyordu; sana çok gösterseydi elbette çekinir, iş hakkında çekişirdiniz; fakat Allah kurtardı, şüphesiz O gönüllerde olanı bilendir.",
+   "baglanti": "Allah'ın bir görüntüyü dilediği şekilde gösterip algıyı yönlendirmesi bakımından Kehf 18'deki 'onları uyanık sanırsın' ifadesiyle aynı ilkeyi paylaşır."
+  },
+  {
+   "ref": "18:11",
+   "meal": "Bunun üzerine mağarada onların kulaklarını [adeta] kapayarak sayılı yıllarca [onları] uyuttuk.",
+   "baglanti": "Aynı surede geçen bu ayet, Kehf 18'de tasvir edilen uyku halinin nasıl başladığını anlatarak sahneyi tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, uyuyan gençlerin görünüşünün ve Allah'ın onları koruma altına almasının tasviridir; uyku süresi ve duruşlarına dair ayrıntılar kesinleştirilmeden aktarılır.",
+  "Günlük hayata ders, dış görünüşe bakarak kesin hüküm vermemektir; bir kişi ya da durum hakkında tam bilgimiz olmadan yargıya varmaktan kaçınmak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Görünüşe aldanma",
+   "aciklama": "Bugün bir kişi ya da durum hakkında, dıştan göründüğünden farklı bir gerçek olabileceğini hatırla."
+  },
+  {
+   "baslik": "Emin olmadan yargılama",
+   "aciklama": "Tam bilgin olmayan bir konuda hüküm vermeden önce dur."
+  },
+  {
+   "baslik": "Korumaya şükret",
+   "aciklama": "Senin fark etmediğin bir şekilde korunduğun bir anı düşünüp şükret."
+  }
+ ],
+ "bugununAdimi": "Bugün, dış görünüşe bakarak bir kişi hakkında hızlı yargıya varmaktan kaçın.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/18/18"
+  }
+ ]
+}

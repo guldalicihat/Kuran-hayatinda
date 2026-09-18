@@ -1,0 +1,124 @@
+{
+ "sure": 18,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Yoksa sen, Mağara ve Rakîm ashabının, ayetlerimizden şaşılacak biri olduğunu mu sandın?",
+ "mealNotu": "'Rakîm' kökü yazma/kaydetme anlamına gelir; klasik tefsir bunu bir yazıt, levha ya da yer adı gibi farklı şekillerde açıklar, ayet bunu netleştirmez.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "حَسِبْتَ",
+   "okunus": "hasibte",
+   "kok": "حسب",
+   "kokAnlam": "sanma, zannetme",
+   "karsilik": "sandın"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "أَصْحَٰبَ",
+   "okunus": "ashâbe",
+   "kok": "صحب",
+   "kokAnlam": "arkadaş, sahip olma",
+   "karsilik": "ashabının"
+  },
+  {
+   "kelime": "ٱلْكَهْفِ",
+   "okunus": "elkehfi",
+   "kok": "كهف",
+   "kokAnlam": "mağara",
+   "karsilik": "mağara"
+  },
+  {
+   "kelime": "وَٱلرَّقِيمِ",
+   "okunus": "ver rakîmi",
+   "kok": "رقم",
+   "kokAnlam": "yazma, kaydetme",
+   "karsilik": "ve Rakîm"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduğunu"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ءَايَٰتِنَا",
+   "okunus": "âyâtinâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet, delil",
+   "karsilik": "ayetlerimizden"
+  },
+  {
+   "kelime": "عَجَبًا",
+   "okunus": "aceben",
+   "kok": "عجب",
+   "kokAnlam": "şaşılacak, hayret verici",
+   "karsilik": "şaşılacak biri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Kehf suresinin ana kıssasına giriş yapar. 'Ashab-ı Kehf' (Mağara arkadaşları) ve 'Rakîm' birlikte anılır; klasik tefsir Rakîm'i bir yazıt, levha ya da bir yer adı olarak açıklar, konu üzerinde kesin bir bilgi yoktur. Ayetin sorusu retoriktir: bu olay Allah'ın ayetlerinden biridir, ama Allah'ın kudreti düşünüldüğünde tek başına olağanüstü sayılacak bir şey değildir.",
+  "Bu, sonraki ayetlerde anlatılacak kıssanın girişidir; sayı, isim ya da tarih verilmeden konuya başlanır. Ayetin vurgusu, olayın kendisinden çok, onun Allah'ın kudretine işaret eden bir 'ayet' olmasıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:259",
+   "meal": "Ya da bir kasabaya uğrayan, 'Allah bunu ölümünden sonra nasıl diriltir?' diyen kimse gibisini görmedin mi? Bunun üzerine Allah onu yüz yıl öldürdü, sonra diriltti.",
+   "baglanti": "Uzun bir süre sonra diriltilme/uyandırılma mucizesi bakımından Ashab-ı Kehf kıssasına benzer bir başka 'ayet' örneğidir."
+  },
+  {
+   "ref": "29:44",
+   "meal": "Allah gökleri ve yeri hak ile yarattı; şüphesiz bunda mü'minler için bir ayet vardır.",
+   "baglanti": "Kehf 9'daki 'ayetlerimizden' ifadesiyle aynı şekilde, Allah'ın yarattıklarının birer ibret olduğunu hatırlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu Ashab-ı Kehf kıssasına giriştir; bu, Allah'ın kudretini gösteren özel bir olaydır, günlük sıradan bir tecrübe değildir.",
+  "Günlük hayata ders, Allah'ın yarattığı her şeyin bir ayet (ibret/işaret) olduğunu, olağanüstü görünen olaylar karşısında hayretle değil düşünerek yaklaşmak gerektiğini hatırlamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir kıssayı düşün",
+   "aciklama": "Bugün Ashab-ı Kehf kıssasını oku ve ondan çıkarabileceğin bir dersi not et."
+  },
+  {
+   "baslik": "Ayetlere dikkat kesil",
+   "aciklama": "Etrafındaki bir doğa olayını, ders çıkarma niyetiyle gözlemle."
+  },
+  {
+   "baslik": "Kesin konuşmaktan kaçın",
+   "aciklama": "Detayını bilmediğin bir kıssa hakkında kesin sayı ya da isim vermekten kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün, kesin bilgin olmayan bir kıssa ayrıntısını uydurmadan, bildiğin kadarıyla anlat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/18/9"
+  }
+ ]
+}

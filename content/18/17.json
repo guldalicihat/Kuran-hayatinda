@@ -1,0 +1,292 @@
+{
+ "sure": 18,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "Güneşi görürsün: doğduğunda mağaralarının sağ tarafına yönelir, battığında da sol taraflarından geçip gider; kendileri ise mağaranın geniş bir boşluğundadır. Bu, Allah'ın ayetlerindendir. Allah kime hidayet ederse, doğru yolu bulan odur; kimi de saptırırsa, artık ona doğru yolu gösterecek bir dost bulamazsın.",
+ "mealNotu": "'Tezâveru' ve 'tekridu' kökleri güneş ışığının mağaraya doğrudan girmeden yön değiştirmesini anlatır; bu, gençlerin bedenlerinin güneşten korunduğuna işaret eder, klasik tefsir bunu mağaranın konumuyla açıklar.",
+ "kokler": [
+  {
+   "kelime": "وَتَرَى",
+   "okunus": "ve terâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görürsün"
+  },
+  {
+   "kelime": "ٱلشَّمْسَ",
+   "okunus": "eşşemse",
+   "kok": "شمس",
+   "kokAnlam": "güneş",
+   "karsilik": "güneşi"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -diğinde",
+   "karsilik": "-diğinde"
+  },
+  {
+   "kelime": "طَلَعَت",
+   "okunus": "taleat",
+   "kok": "طلع",
+   "kokAnlam": "doğma, yükselme",
+   "karsilik": "doğduğunda"
+  },
+  {
+   "kelime": "تَّزَٰوَرُ",
+   "okunus": "tezâveru",
+   "kok": "زور",
+   "kokAnlam": "yön değiştirme, kaçınma",
+   "karsilik": "yönelir"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "كَهْفِهِمْ",
+   "okunus": "kehfihim",
+   "kok": "كهف",
+   "kokAnlam": "mağara",
+   "karsilik": "mağaraları"
+  },
+  {
+   "kelime": "ذَاتَ",
+   "okunus": "zâte",
+   "kok": "—",
+   "kokAnlam": "(yer) tarafına",
+   "karsilik": "tarafına"
+  },
+  {
+   "kelime": "ٱلْيَمِينِ",
+   "okunus": "elyemîni",
+   "kok": "يمن",
+   "kokAnlam": "sağ, uğur",
+   "karsilik": "sağ"
+  },
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) ve -diğinde",
+   "karsilik": "ve -diğinde"
+  },
+  {
+   "kelime": "غَرَبَت",
+   "okunus": "garabet",
+   "kok": "غرب",
+   "kokAnlam": "batma",
+   "karsilik": "battığında"
+  },
+  {
+   "kelime": "تَّقْرِضُهُمْ",
+   "okunus": "tekriduhüm",
+   "kok": "قرض",
+   "kokAnlam": "kırpma, kesip geçme",
+   "karsilik": "geçip gider"
+  },
+  {
+   "kelime": "ذَاتَ",
+   "okunus": "zâte",
+   "kok": "—",
+   "kokAnlam": "(yer) tarafına",
+   "karsilik": "tarafına"
+  },
+  {
+   "kelime": "ٱلشِّمَالِ",
+   "okunus": "eşşimâli",
+   "kok": "شمل",
+   "kokAnlam": "sol",
+   "karsilik": "sol"
+  },
+  {
+   "kelime": "وَهُمْ",
+   "okunus": "ve hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve onlar",
+   "karsilik": "kendileri ise"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "فَجْوَةٍ",
+   "okunus": "fecvetin",
+   "kok": "فجو",
+   "kokAnlam": "açıklık, geniş boşluk",
+   "karsilik": "geniş bir boşlukta"
+  },
+  {
+   "kelime": "مِّنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-dendir"
+  },
+  {
+   "kelime": "ءَايَٰتِ",
+   "okunus": "âyâti",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet, delil",
+   "karsilik": "ayetlerinden"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "يَهْدِ",
+   "okunus": "yehdi",
+   "kok": "هدي",
+   "kokAnlam": "hidayet, doğru yolu gösterme",
+   "karsilik": "hidayet ederse"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "فَهُوَ",
+   "okunus": "fehüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) işte o",
+   "karsilik": "işte o"
+  },
+  {
+   "kelime": "ٱلْمُهْتَدِ",
+   "okunus": "elmühtedi",
+   "kok": "هدي",
+   "kokAnlam": "hidayet, doğru yolu bulma",
+   "karsilik": "doğru yolu bulan"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve kim",
+   "karsilik": "kimi de"
+  },
+  {
+   "kelime": "يُضْلِلْ",
+   "okunus": "yüdlil",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, saptırma",
+   "karsilik": "saptırırsa"
+  },
+  {
+   "kelime": "فَلَن",
+   "okunus": "felen",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) artık asla",
+   "karsilik": "artık"
+  },
+  {
+   "kelime": "تَجِدَ",
+   "okunus": "tecide",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulamazsın"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "وَلِيًّا",
+   "okunus": "veliyyen",
+   "kok": "ولي",
+   "kokAnlam": "dost, yakınlık",
+   "karsilik": "bir dost"
+  },
+  {
+   "kelime": "مُّرْشِدًا",
+   "okunus": "mürşiden",
+   "kok": "رشد",
+   "kokAnlam": "doğru yola götüren",
+   "karsilik": "gösterecek"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, mağaranın konumunu tasvir eder: güneş ışığı doğrudan içeri girmeyecek şekilde bir düzen vardır. Bu ayrıntı, gençlerin bedenlerinin güneşten korunmasına işaret eder; klasik tefsir bunu Allah'ın bir lütfu olarak açıklar, mağaranın tam yeri ve yönü hakkında kesin bir bilgi verilmez.",
+  "Ayet, bu doğa olayını 'Allah'ın ayetlerinden' sayarak hidayet-dalalet ilkesiyle bağlar: hidayeti veren de saptıran da Allah'tır, insan bunu kendi başına belirleyemez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:178",
+   "meal": "Allah kimi hidayete erdirirse, doğru yolu bulan odur; kimi de saptırırsa, işte onlar hüsrana uğrayanlardır.",
+   "baglanti": "Neredeyse birebir aynı ifadeyle aynı hidayet-dalalet ilkesini tekrarlar."
+  },
+  {
+   "ref": "41:37",
+   "meal": "Gece, gündüz, güneş ve ay O'nun ayetlerindendir; güneşe de aya da secde etmeyin, onları yaratan Allah'a secde edin.",
+   "baglanti": "Güneşin de 'Allah'ın ayetlerinden' biri olarak anılması bakımından Kehf 17'deki ifadeyle örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, mağaranın konumunun tasviri ve bunun Allah'ın ayetlerinden biri olarak sunulmasıdır; ayrıca hidayet-dalalet ilkesi hatırlatılır.",
+  "Günlük hayata ders, doğadaki ince detayları (güneşin, gölgenin hareketi gibi) fark edip bunları Allah'ın ayetleri olarak okumak; hidayeti kendi başımıza değil Allah'tan dilemektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğayı gözlemle",
+   "aciklama": "Bugün güneşin doğuşunu ya da batışını izleyip bu gözlemi kısa bir dua ile ibadete çevir."
+  },
+  {
+   "baslik": "Hidayet için dua et",
+   "aciklama": "Bugünkü duanda doğru yolda kalmayı dile."
+  },
+  {
+   "baslik": "İnce bir detayı fark et",
+   "aciklama": "Günlük hayatında fark etmediğin küçük bir düzeni (doğa, beden, zaman) bugün dikkatle gözlemle."
+  }
+ ],
+ "bugununAdimi": "Bugün, doğada fark ettiğin bir düzeni Allah'ın bir ayeti olarak düşünüp kısa bir dua et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/18/17"
+  }
+ ]
+}

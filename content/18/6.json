@@ -1,0 +1,131 @@
+{
+ "sure": 18,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Bu söze [Kur'an'a] iman etmezlerse, belki de sen arkalarından üzülüp kendini eritircesine tüketeceksin.",
+ "mealNotu": "[Kur'an'a] eklemesi bağlamdan gelir; 'hadis' kelimesi burada Kur'an'ı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "فَلَعَلَّكَ",
+   "okunus": "felealleke",
+   "kok": "—",
+   "kokAnlam": "(te'kid) belki de sen",
+   "karsilik": "belki de sen"
+  },
+  {
+   "kelime": "بَٰخِعٌ",
+   "okunus": "bâhıun",
+   "kok": "بخع",
+   "kokAnlam": "kendini tüketme, eritme",
+   "karsilik": "eritircesine tüketen"
+  },
+  {
+   "kelime": "نَّفْسَكَ",
+   "okunus": "nefseke",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "kendini"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ardından",
+   "karsilik": "arkalarından"
+  },
+  {
+   "kelime": "ءَاثَٰرِهِمْ",
+   "okunus": "âsârihim",
+   "kok": "أثر",
+   "kokAnlam": "iz, eser",
+   "karsilik": "izleri"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mezlerse"
+  },
+  {
+   "kelime": "يُؤْمِنُوا۟",
+   "okunus": "yü'minû",
+   "kok": "أمن",
+   "kokAnlam": "iman etme, güvenme",
+   "karsilik": "iman etmezlerse"
+  },
+  {
+   "kelime": "بِهَٰذَا",
+   "okunus": "bihâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) buna",
+   "karsilik": "buna"
+  },
+  {
+   "kelime": "ٱلْحَدِيثِ",
+   "okunus": "elhadîsi",
+   "kok": "حدث",
+   "kokAnlam": "söz, haber",
+   "karsilik": "söze"
+  },
+  {
+   "kelime": "أَسَفًا",
+   "okunus": "esefen",
+   "kok": "أسف",
+   "kokAnlam": "üzüntü, hasret",
+   "karsilik": "üzülüp"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Hz. Peygamber'e hitap eder ve onun, insanların Kur'an'a iman etmemesi karşısında duyduğu derin üzüntüye işaret eder. 'Bâhıun nefseke' (kendini eritircesine tüketen) ifadesi, bu üzüntünün ne denli yoğun olabileceğini anlatan güçlü bir mecazdır.",
+  "Ayet, bir yandan bu üzüntüyü anlayışla karşılarken bir yandan da örtük bir teselli taşır: insanların iman etmemesi, peygamberin görevinin başarısızlığı anlamına gelmez. Bu tesellinin benzer ifadeleri Kur'an'ın başka yerlerinde de tekrarlanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:3",
+   "meal": "Mü'min olmuyorlar diye neredeyse kendini eritircesine üzeceksin.",
+   "baglanti": "Neredeyse birebir aynı ifadeyle ('bâhıun nefseke') aynı teselliyi tekrarlar."
+  },
+  {
+   "ref": "35:8",
+   "meal": "...Öyleyse onlar için canın hasretlerle tükenmesin; şüphesiz Allah, onların yaptıklarını hakkıyla bilendir.",
+   "baglanti": "Aynı teselli temasını, Allah'ın her şeyi bildiği vurgusuyla tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu Hz. Peygamber'e özgü bir durumdur: insanların iman etmemesi karşısında duyduğu derin üzüntü.",
+  "Günlük hayata taşınabilecek genel ders, başkalarının tercihlerinden aşırı derecede kendini sorumlu tutup tükenmek yerine, elimizden geleni yaptıktan sonra sonucu Allah'a bırakmaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kontrolünde olmayanı bırak",
+   "aciklama": "Bugün, değiştiremeyeceğin bir kişinin tutumu için kendini üzüp tüketmeyi bırak."
+  },
+  {
+   "baslik": "Görevini yap, sonucu bırak",
+   "aciklama": "Bir konuda elinden geleni yaptıktan sonra sonucunu kaygıyla takip etmek yerine rahatla."
+  },
+  {
+   "baslik": "Kendine nazik ol",
+   "aciklama": "Başkasının hatası için kendini fazla yıpratmadığın bir gün geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün, elinden gelmeyen bir konuda kendini üzmeyi bırakıp elindeki göreve odaklan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/18/6"
+  }
+ ]
+}
