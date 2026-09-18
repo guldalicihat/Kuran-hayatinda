@@ -1,0 +1,110 @@
+{
+ "sure": 20,
+ "ayet": 126,
+ "durum": "taslak",
+ "meal": "Allah dedi: İşte böyle. Sana ayetlerimiz geldi de sen onları unuttun; bugün de sen öylece unutulursun.",
+ "mealNotu": "'Nesiye' kökü, ilk geçtiğinde kişinin ayetleri kasıtlı olarak önemsememesini, ikinci geçtiğinde ise bunun karşılığı olan terk edilmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "أَتَتْكَ",
+   "okunus": "etetke",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "sana geldi"
+  },
+  {
+   "kelime": "ءَايَٰتُنَا",
+   "okunus": "âyâtünâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil; ayet",
+   "karsilik": "ayetlerimiz"
+  },
+  {
+   "kelime": "فَنَسِيتَهَا",
+   "okunus": "fenesîtehâ",
+   "kok": "نسي",
+   "kokAnlam": "unutma",
+   "karsilik": "de sen onları unuttun"
+  },
+  {
+   "kelime": "وَكَذَٰلِكَ",
+   "okunus": "ve kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) ve işte böyle",
+   "karsilik": "ve işte böyle"
+  },
+  {
+   "kelime": "ٱلْيَوْمَ",
+   "okunus": "elyevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bugün"
+  },
+  {
+   "kelime": "تُنسَىٰ",
+   "okunus": "tünsâ",
+   "kok": "نسي",
+   "kokAnlam": "unutma",
+   "karsilik": "unutulursun"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetteki 'ben görüyordum' itirazına verilen cevaptır bu: kişi dünyada Allah'ın ayetleri kendisine geldiğinde onları unutmuş (önemsememiş), şimdi de aynı şekilde unutulmaktadır. Burada 'unutma' iki kez farklı taraflardan kullanılır: önce kişinin unutması, sonra onun unutulması.",
+  "Bu karşılıklı unutma, adaletin bir yansımasıdır: kişi dünyada neyi ihmal ettiyse, ahirette de o ihmal ona geri döner. Klasik tefsir bunu 'yaptığının aynısıyla karşılık görme' ilkesi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "45:34",
+   "meal": "Bugün sizi unuturuz, tıpkı sizin bu gününüze kavuşmayı unuttuğunuz gibi...",
+   "baglanti": "Neredeyse aynı ifadeyle, unutmanın karşılıklı sonucunu tekrarlar."
+  },
+  {
+   "ref": "7:51",
+   "meal": "...dinlerini eğlence ve oyun edinenler, dünya hayatı onları aldattı; bugün biz de, onların bu günlerine kavuşmayı unuttukları gibi onları unuturuz...",
+   "baglanti": "Unutmanın sebebini (dünya hayatının aldatması) ekleyerek aynı ilkeyi genişletir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, dünyada Allah'ın ayetlerine karşı gösterilen ilgisizliğin ahiretteki karşılığıdır; bu bir tehdit değil bir adalet ilkesidir.",
+  "Günlük hayatta bu, önemsemediğin bir şeyin er ya da geç seni de önemsizleştirebileceğini hatırlatır. Bir öğüdü, bir uyarıyı sürekli erteleyip unutmak, o öğüdün senin hayatındaki yerini de zayıflatır; ölüm sonrası bir hesabın olduğunu unutmamak bu ihmali azaltabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sürekli ertelediğin bir hatırlatmayı bugün dikkate al",
+   "aciklama": "Kendine bir süredir söyleyip durduğun ama uygulamadığın bir öğüdü bugün hayata geçir."
+  },
+  {
+   "baslik": "İhmal ettiğin bir ilişkiyi hatırla",
+   "aciklama": "Uzun süredir aramadığın birine bugün kısa bir mesaj at."
+  },
+  {
+   "baslik": "Önemsemediğin bir alışkanlığı yeniden değerlendir",
+   "aciklama": "Bugün, 'zaten önemli değil' deyip bıraktığın bir şeyin gerçekten önemsiz olup olmadığını düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir hatırlatmayı dikkate al ve uygula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=126"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/126"
+  }
+ ]
+}
