@@ -1,0 +1,318 @@
+{
+ "sure": 22,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "Görmedin mi ki göklerde olanlar ve yerde olanlar, güneş, ay, yıldızlar, dağlar, ağaçlar, hareket eden canlılar ve insanlardan birçoğu Allah'a secde eder; birçoğunun üzerine de azap hak olmuştur. Allah kimi alçaltırsa, artık onu şereflendirecek kimse yoktur. Şüphesiz Allah dilediğini yapar.",
+ "mealNotu": "'Yescüdü' kökü (سجد) boyun eğme ve teslimiyeti anlatır; gök cisimleri ve doğa için 'secde' fiziksel değil, yaratılış kanununa mutlak uyum anlamındadır. 'Yühini' (هون) kökü alçaltma, hor kılma anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk soru edatı",
+   "karsilik": "-medin mi"
+  },
+  {
+   "kelime": "تَرَ",
+   "okunus": "tera",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "gördün"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "يَسْجُدُ",
+   "okunus": "yescüdü",
+   "kok": "سجد",
+   "kokAnlam": "secde etme, boyun eğme",
+   "karsilik": "secde eder"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yücelik, gök",
+   "karsilik": "göklerde"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yerde"
+  },
+  {
+   "kelime": "وَٱلشَّمْسُ",
+   "okunus": "veş şemsü",
+   "kok": "شمس",
+   "kokAnlam": "güneş",
+   "karsilik": "ve güneş"
+  },
+  {
+   "kelime": "وَٱلْقَمَرُ",
+   "okunus": "vel kameru",
+   "kok": "قمر",
+   "kokAnlam": "ay",
+   "karsilik": "ve ay"
+  },
+  {
+   "kelime": "وَٱلنُّجُومُ",
+   "okunus": "ven nücûmü",
+   "kok": "نجم",
+   "kokAnlam": "yıldız",
+   "karsilik": "ve yıldızlar"
+  },
+  {
+   "kelime": "وَٱلْجِبَالُ",
+   "okunus": "vel cibâlü",
+   "kok": "جبل",
+   "kokAnlam": "dağ",
+   "karsilik": "ve dağlar"
+  },
+  {
+   "kelime": "وَٱلشَّجَرُ",
+   "okunus": "veş şeceru",
+   "kok": "شجر",
+   "kokAnlam": "ağaç",
+   "karsilik": "ve ağaçlar"
+  },
+  {
+   "kelime": "وَٱلدَّوَآبُّ",
+   "okunus": "ved devâbbü",
+   "kok": "دبب",
+   "kokAnlam": "yerde yürüyen canlı",
+   "karsilik": "ve hareket eden canlılar"
+  },
+  {
+   "kelime": "وَكَثِيرٌ",
+   "okunus": "ve kesîrun",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "ve birçoğu"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلنَّاسِ",
+   "okunus": "ennâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanlardan"
+  },
+  {
+   "kelime": "وَكَثِيرٌ",
+   "okunus": "ve kesîrun",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "ve birçoğunun"
+  },
+  {
+   "kelime": "حَقَّ",
+   "okunus": "hakka",
+   "kok": "حقق",
+   "kokAnlam": "gerçekleşme, hak olma",
+   "karsilik": "hak oldu"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلْعَذَابُ",
+   "okunus": "el'azâbü",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "azap"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "ve kimi"
+  },
+  {
+   "kelime": "يُهِنِ",
+   "okunus": "yühini",
+   "kok": "هون",
+   "kokAnlam": "alçaltma, hor kılma",
+   "karsilik": "alçaltırsa"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "فَمَا",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "artık yoktur"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "onun için"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "مُّكْرِمٍ",
+   "okunus": "mükrimin",
+   "kok": "كرم",
+   "kokAnlam": "şereflendirme, ikram etme",
+   "karsilik": "şereflendiren"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَفْعَلُ",
+   "okunus": "yef'alü",
+   "kok": "فعل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "yapar"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilerse"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, göklerde ve yerde olan her şeyin -insanlardan ve güneş, ay, yıldız, dağ, ağaç, canlılardan- Allah'a secde ettiğini söyler. Buradaki secde, namazdaki gibi iradi bir eylem değil, yaratılış kanununa mutlak uyumdur: her varlık, konulduğu düzene boyun eğerek dolaylı biçimde Rabbine teslim olur. İnsanlar için ise durum farklıdır; bir kısmı bilerek, isteyerek secde eder, bir kısmı ise inkârı seçtiği için üzerine azap hak olmuştur.",
+  "Ayetin son bölümü, Allah'ın alçalttığı kimseyi hiç kimsenin yeniden yükseltemeyeceğini bildirir. Bu, dünyevi güç, itibar ya da makamın geçiciliğine işaret eder; gerçek şeref ve ikram, ancak Allah'tan gelir. Ayet 'Allah dilediğini yapar' diyerek bu hükmün O'nun mutlak iradesine bağlı olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "13:15",
+   "meal": "Göklerde ve yerde bulunanlar da gölgeleri de sabah akşam ister istemez Allah'a secde ederler.",
+   "baglanti": "Aynı 'göktekiler ve yerdekiler secde eder' teması burada da geçer; secde kavramının evrensel, iradi olmayan boyutu vurgulanır."
+  },
+  {
+   "ref": "16:49",
+   "meal": "Göklerde ne varsa, yerde hareket eden ne varsa ve melekler, büyüklenmeden Allah'a secde ederler.",
+   "baglanti": "Aynı liste (gökler, yer, canlılar) burada meleklerle birlikte tekrarlanır; büyüklenmeme vurgusu, 22:18'deki alçaltılan-şereflendirilen karşıtlığıyla örtüşür."
+  },
+  {
+   "ref": "41:37",
+   "meal": "Güneşe ve aya secde etmeyin; onları yaratan Allah'a secde edin, eğer yalnız O'na kulluk ediyorsanız.",
+   "baglanti": "Güneş ve ayın kendisi Allah'a secde eden varlıklardır; bu yüzden onlara değil onları yaratana secde edilmesi gerektiği hatırlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bütün yaratılmışların Allah'a boyun eğdiği gerçeğidir. Güneşin doğup batması, mevsimlerin dönmesi, bir tohumun büyümesi; hepsi konulan kanuna eksiksiz uyar. İnsan da bu düzenin bir parçasıdır, ama ona seçim hakkı verilmiştir: bilerek secde etmek ya da inkârı seçmek.",
+  "Ayetin ikinci kısmı, dünyevi şerefin ve itibarın Allah'ın elinde olduğunu hatırlatır. Bir insan ne kadar güçlü görünürse görünsün, gerçek değeri ancak Rabbinin katında belli olur. Bu, başarı ya da makam karşısında şımarmamak, kaybedince de çaresizliğe düşmemek için bir denge noktasıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğaya bilinçle bak",
+   "aciklama": "Bugün gökyüzüne ya da bir ağaca bakarken, onun da kendi yoluyla Allah'a boyun eğdiğini bir an düşün."
+  },
+  {
+   "baslik": "Secdede bilinçli ol",
+   "aciklama": "Bugün namazında secdeye vardığında, sadece bedenen değil bilerek boyun eğdiğini hatırla."
+  },
+  {
+   "baslik": "Övgü beklemeden yap",
+   "aciklama": "Bugün bir iyiliği, kimse görmese de ve övülmeyi beklemeden yap; gerçek değerin Allah katında olduğunu unutma."
+  }
+ ],
+ "bugununAdimi": "Bugün secdede en az on saniye sessizce kal ve yalnızca Allah'a boyun eğdiğini hisset.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/22/18"
+  }
+ ]
+}

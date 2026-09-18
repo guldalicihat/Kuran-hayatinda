@@ -1,0 +1,213 @@
+{
+ "sure": 22,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "İman edenler, Yahudi olanlar, Sâbiîler, Hıristiyanlar, Mecûsîler ve şirk koşanlar; şüphesiz Allah, kıyamet günü aralarında ayırıp hükmeder. Şüphesiz Allah her şeye şahittir.",
+ "mealNotu": "'Yefsılü' kökü (فصل) kesin bir ayırma ve hükme bağlamayı anlatır; bu yüzden yalnız 'hükmeder' değil 'aralarında ayırıp hükmeder' tercih edildi. Din/topluluk adları (Yahudi, Sâbiî, Hıristiyan, Mecûsî) ayetteki özgün adlandırmalar korunarak verildi.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid, gerçekten",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "ve kimseler"
+  },
+  {
+   "kelime": "هَادُوا۟",
+   "okunus": "hâdû",
+   "kok": "هود",
+   "kokAnlam": "geri dönme; Yahudi olma",
+   "karsilik": "Yahudi olanlar"
+  },
+  {
+   "kelime": "وَٱلصَّٰبِـِٔينَ",
+   "okunus": "ves sâbiîne",
+   "kok": "صبأ",
+   "kokAnlam": "bir dinden çıkıp başkasına geçme; Sâbiîler",
+   "karsilik": "Sâbiîler"
+  },
+  {
+   "kelime": "وَٱلنَّصَٰرَىٰ",
+   "okunus": "ven nesârâ",
+   "kok": "نصر",
+   "kokAnlam": "yardım etme; Hıristiyanlar",
+   "karsilik": "Hıristiyanlar"
+  },
+  {
+   "kelime": "وَٱلْمَجُوسَ",
+   "okunus": "vel mecûse",
+   "kok": "مجس",
+   "kokAnlam": "Mecûsîler",
+   "karsilik": "Mecûsîler"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "ve kimseler"
+  },
+  {
+   "kelime": "أَشْرَكُوٓا۟",
+   "okunus": "eşrakû",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "şirk koşanlar"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid, gerçekten",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَفْصِلُ",
+   "okunus": "yefsılü",
+   "kok": "فصل",
+   "kokAnlam": "ayırma, kesin hükme bağlama",
+   "karsilik": "aralarında ayırıp hükmeder"
+  },
+  {
+   "kelime": "بَيْنَهُمْ",
+   "okunus": "beynehüm",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında olma",
+   "karsilik": "aralarında"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "ٱلْقِيَٰمَةِ",
+   "okunus": "elkıyâmeti",
+   "kok": "قوم",
+   "kokAnlam": "ayağa kalkma, doğrulma",
+   "karsilik": "kıyamet"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid, gerçekten",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerine, -e",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "كُلِّ",
+   "okunus": "külli",
+   "kok": "كلل",
+   "kokAnlam": "bütünlük, her biri",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "şeye"
+  },
+  {
+   "kelime": "شَهِيدٌ",
+   "okunus": "şehîdün",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık etme, görüp bilme",
+   "karsilik": "şahittir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, farklı din ve inanç gruplarını tek tek sayar: iman edenler, Yahudiler, Sâbiîler, Hıristiyanlar, Mecûsîler ve Allah'a ortak koşanlar. Bir önceki ayette Allah'ın apaçık ayetler indirdiği ve dilediğini doğru yola ilettiği belirtilmişti; burada ise bütün bu grupların nihai kaderi tek bir mercie, kıyamet gününe bırakılır. 'Yefsılü' fiili, taraflar arasında kesin, geri dönüşü olmayan bir ayrımı anlatır; yani hüküm dünyada değil, o günde verilecektir.",
+  "Ayetin sonu, 'Allah her şeye şahittir' diyerek bu hükmün keyfî değil, tam bilgiye dayalı olacağını vurgular. Hiçbir inanç ya da davranış O'ndan gizli kalmaz. Klasik tefsir bu ayeti, dünyada insanların birbirini kesin biçimde yargılayamayacağı, asıl ayırt edici hükmün Allah'a ait olduğu şeklinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:62",
+   "meal": "İman edenler, Yahudi olanlar, Hıristiyanlar ve Sâbiîlerden Allah'a ve ahiret gününe inanıp salih amel işleyenlerin mükâfatı Rablerinin katındadır; onlara korku yoktur, onlar üzülmeyecekler de.",
+   "baglanti": "Aynı din grupları burada da sayılır; fakat vurgu hükme değil, iman ve salih amel sahiplerinin mükâfatınadır."
+  },
+  {
+   "ref": "77:38",
+   "meal": "İşte bu, yalanlamakta olduğunuz ayırma (fasl) günüdür.",
+   "baglanti": "'Yevmü'l-fasl' ifadesi, 22:17'deki 'yefsılü' fiiliyle aynı kökten gelir; kıyamet günü kesin ayrımın günü olarak tanımlanır."
+  },
+  {
+   "ref": "22:69",
+   "meal": "Allah, kıyamet günü aranızda anlaşmazlığa düştüğünüz konularda hükmedecektir.",
+   "baglanti": "Aynı sure içinde tekrar eden bir tema: dünyadaki anlaşmazlıkların nihai çözümü kıyamet gününe bırakılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, farklı inanç gruplarının nihai hükmünün Allah'a ait olduğudur; bu, insanın başka bir insanın kalbindeki inancı kesin olarak yargılama yetkisine sahip olmadığını hatırlatır. Günlük hayatta farklı inançtan insanlarla karşılaşıldığında bu bilinç, kibirli bir yargılayıcı tavrı önler.",
+  "Aynı zamanda ayet, 'her şeye şahit olan Allah' vurgusuyla, hesabın er ya da geç görüleceğini de hatırlatır. Bu, insanın kendi tutumuna dikkat etmesi için bir dayanaktır: başkasını yargılamak yerine kendi hesabını düşünmek."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yargılamayı bırak",
+   "aciklama": "Bugün farklı düşünen/inanan biri hakkında kesin bir yargıda bulunmak yerine, 'asıl hüküm Allah'a ait' de ve sus."
+  },
+  {
+   "baslik": "Kendi hesabını düşün",
+   "aciklama": "Bugün bir işini yaparken, kimse görmese de Allah'ın gördüğünü bir kez hatırla."
+  },
+  {
+   "baslik": "Farklı biriyle saygıyla konuş",
+   "aciklama": "Bugün senden farklı inanan biriyle konuşurken saygılı bir üslup seç."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kişi hakkında kesin bir dini yargıda bulunmak yerine, 'asıl hüküm Allah'a ait' diyerek konuyu kapat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/22/17"
+  }
+ ]
+}

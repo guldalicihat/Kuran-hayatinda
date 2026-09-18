@@ -1,0 +1,110 @@
+{
+ "sure": 22,
+ "ayet": 29,
+ "durum": "taslak",
+ "meal": "Sonra kirlerini gidersinler, adaklarını yerine getirsinler ve o eski Ev'i tavaf etsinler.",
+ "mealNotu": "'Tefes' kökü (تفث) ihram süresince biriken kir/hâlin giderilmesini anlatır. 'Atîk' (عتق) eski, özgür, saygın anlamındadır; Kâbe için kullanılan bir sıfattır.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "bağlaç, sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "لْيَقْضُوا۟",
+   "okunus": "lyekdû",
+   "kok": "قضي",
+   "kokAnlam": "tamamlama, yerine getirme",
+   "karsilik": "gidersinler"
+  },
+  {
+   "kelime": "تَفَثَهُمْ",
+   "okunus": "tefesehüm",
+   "kok": "تفث",
+   "kokAnlam": "kir, ihram hâli",
+   "karsilik": "kirlerini"
+  },
+  {
+   "kelime": "وَلْيُوفُوا۟",
+   "okunus": "ve lyûfû",
+   "kok": "وفي",
+   "kokAnlam": "yerine getirme, vefa",
+   "karsilik": "ve yerine getirsinler"
+  },
+  {
+   "kelime": "نُذُورَهُمْ",
+   "okunus": "nüzûrahüm",
+   "kok": "نذر",
+   "kokAnlam": "adak",
+   "karsilik": "adaklarını"
+  },
+  {
+   "kelime": "وَلْيَطَّوَّفُوا۟",
+   "okunus": "ve lyettavvefû",
+   "kok": "طوف",
+   "kokAnlam": "tavaf etme, dolaşma",
+   "karsilik": "ve tavaf etsinler"
+  },
+  {
+   "kelime": "بِٱلْبَيْتِ",
+   "okunus": "bil beyti",
+   "kok": "بيت",
+   "kokAnlam": "ev, Kâbe",
+   "karsilik": "Ev'i"
+  },
+  {
+   "kelime": "ٱلْعَتِيقِ",
+   "okunus": "el'atîkı",
+   "kok": "عتق",
+   "kokAnlam": "eski, özgür, saygın",
+   "karsilik": "o eski"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, hac menâsikinin devamını anlatır: kurban kesiminin ardından yapılacak üç eylem sayılır. Önce 'tefes'in giderilmesi -ihram süresince biriken hâlin temizlenmesi-, sonra adakların yerine getirilmesi, sonunda da Kâbe'nin tavaf edilmesi.",
+  "Bu üç eylem, hac ibadetinin son aşamalarını oluşturur. Kâbe burada 'el-Beytü'l-Atîk' (eski, saygın Ev) olarak anılır; klasik tefsir bu sıfatı, Kâbe'nin çok eski bir geçmişe sahip ve hiçbir zorba tarafından tam anlamıyla ele geçirilememiş olmasıyla açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:196",
+   "meal": "Haccı ve umreyi Allah için tamamlayın.",
+   "baglanti": "Hac ibadetinin eksiksiz tamamlanması emri burada da geçer; 22:29'daki adım adım tamamlama sahnesiyle örtüşür."
+  },
+  {
+   "ref": "76:7",
+   "meal": "Onlar adaklarını yerine getirirler ve kötülüğü yaygın olan bir günden korkarlar.",
+   "baglanti": "Adağı yerine getirme (îfâ-i nezr) teması burada da geçer; söz verilen bir şeyi tamamlamanın önemi vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan hac menâsikiyle ilgili özel bir alandır. Ancak 'adakları yerine getirme' vurgusu, verilen sözde durmanın genel bir ilke olduğunu hatırlatır.",
+  "Günlük hayatta üstlenilen bir sorumluluğu ya da verilen bir sözü sonuna kadar götürmek, sadece dinî bir adak için değil, her taahhüt için geçerli bir değerdir. Ayrıca fiziksel ve manevi temizliğe özen göstermek de ibadetin bir parçasıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü hatırla",
+   "aciklama": "Bugün verdiğin küçük bir sözü ya da vaadi hatırla ve yerine getir."
+  },
+  {
+   "baslik": "Yarım işi tamamla",
+   "aciklama": "Bugün üzerinde kalan bir sorumluluğu bitirmeye çalış, yarım bırakma."
+  },
+  {
+   "baslik": "Temizliğine özen göster",
+   "aciklama": "Bugün hem bedenine hem çevrene karşı temizlik konusunda özenli ol."
+  }
+ ],
+ "bugununAdimi": "Bugün unuttuğun ya da ertelediğin bir sözünü yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=29"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/22/29"
+  }
+ ]
+}

@@ -1,0 +1,222 @@
+{
+ "sure": 22,
+ "ayet": 30,
+ "durum": "taslak",
+ "meal": "İşte böyle. Kim Allah'ın yasaklarına/saygın kıldıklarına saygı gösterirse, bu Rabbinin katında kendisi için hayırlıdır. Size okunanlar dışında hayvanlar helal kılındı. Artık putlardan kaynaklanan pislikten kaçının ve yalan sözden kaçının.",
+ "mealNotu": "'Hurumât' kökü (حرم) saygın kılınan, dokunulmaz olan şeyleri anlatır. 'Kavlez zûr' (زور) yalan, sahte sözdür; 'rics' (رجس) ise pislik, iğrençlik anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "işaret, işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "يُعَظِّمْ",
+   "okunus": "yüazzım",
+   "kok": "عظم",
+   "kokAnlam": "büyükleme, saygı gösterme",
+   "karsilik": "saygı gösterirse"
+  },
+  {
+   "kelime": "حُرُمَٰتِ",
+   "okunus": "hurumâti",
+   "kok": "حرم",
+   "kokAnlam": "saygın kılınan, dokunulmaz şeyler",
+   "karsilik": "yasaklarına"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَهُوَ",
+   "okunus": "fehüve",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "خَيْرٌ",
+   "okunus": "hayrun",
+   "kok": "خير",
+   "kokAnlam": "hayır, iyilik",
+   "karsilik": "hayırlıdır"
+  },
+  {
+   "kelime": "لَّهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "kendisi için"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "kat, yan",
+   "karsilik": "katında"
+  },
+  {
+   "kelime": "رَبِّهِۦ",
+   "okunus": "rabbihî",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme",
+   "karsilik": "Rabbinin"
+  },
+  {
+   "kelime": "وَأُحِلَّتْ",
+   "okunus": "ve ühillet",
+   "kok": "حلل",
+   "kokAnlam": "helal kılma, çözme",
+   "karsilik": "ve helal kılındı"
+  },
+  {
+   "kelime": "لَكُمُ",
+   "okunus": "lekümü",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "ٱلْأَنْعَٰمُ",
+   "okunus": "el'en'âmü",
+   "kok": "نعم",
+   "kokAnlam": "evcil hayvan, davar",
+   "karsilik": "hayvanlar"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna",
+   "karsilik": "dışında"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "olanlar"
+  },
+  {
+   "kelime": "يُتْلَىٰ",
+   "okunus": "yütlâ",
+   "kok": "تلو",
+   "kokAnlam": "okunma, ardınca gelme",
+   "karsilik": "okunan"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "فَٱجْتَنِبُوا۟",
+   "okunus": "fectenibû",
+   "kok": "جنب",
+   "kokAnlam": "kaçınma, yandan uzaklaşma",
+   "karsilik": "artık kaçının"
+  },
+  {
+   "kelime": "ٱلرِّجْسَ",
+   "okunus": "erricse",
+   "kok": "رجس",
+   "kokAnlam": "pislik, iğrençlik",
+   "karsilik": "pislikten"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْأَوْثَٰنِ",
+   "okunus": "el'evsâni",
+   "kok": "وثن",
+   "kokAnlam": "put",
+   "karsilik": "putlardan"
+  },
+  {
+   "kelime": "وَٱجْتَنِبُوا۟",
+   "okunus": "vectenibû",
+   "kok": "جنب",
+   "kokAnlam": "kaçınma, yandan uzaklaşma",
+   "karsilik": "ve kaçının"
+  },
+  {
+   "kelime": "قَوْلَ",
+   "okunus": "kavle",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "sözden"
+  },
+  {
+   "kelime": "ٱلزُّورِ",
+   "okunus": "ezzûri",
+   "kok": "زور",
+   "kokAnlam": "yalan, sahtelik",
+   "karsilik": "yalan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, hac menâsikinin ardından genel bir ilkeye geçer: Allah'ın koyduğu yasaklara/saygın kıldığı şeylere (hurumât) saygı göstermenin kişinin kendi hayrına olduğu vurgulanır. Ardından, önceden okunanlar dışındaki hayvanların helal kılındığı hatırlatılır.",
+  "Ayetin son kısmı iki kaçınmayı bir araya getirir: putlardan kaynaklanan pislikten kaçınmak ve yalan sözden kaçınmak. Klasik tefsir bu ikisinin yan yana anılmasını, şirkin (putlara tapınmanın) ve yalanın kökeninde benzer bir sahtelik bulunmasıyla açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:1",
+   "meal": "Ey iman edenler, akitlerinizi yerine getirin. İhramdayken avlanmayı helal saymamak kaydıyla, size okunanlar dışında hayvanlar helal kılındı.",
+   "baglanti": "Neredeyse aynı ifade burada da geçer; hayvanların helal kılınması ve istisnaların okunması teması ortaktır."
+  },
+  {
+   "ref": "25:72",
+   "meal": "Onlar yalana (zûr) şahitlik etmezler; boş sözle karşılaştıklarında onurluca geçip giderler.",
+   "baglanti": "'Kavlez zûr' (yalan söz) kökü burada da geçer; yalandan uzak durmak müminin bir vasfı olarak anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, dinî sınırlara saygı ve dürüstlüktür. Bir yasağa sadece cezadan korkarak değil, içten bir saygıyla uymak, ayetin vurguladığı ilk ilkedir.",
+  "İkinci ilke ise yalandan kaçınmaktır. Günlük hayatta söylenen küçük yalanlar bile bu ilkeyle çelişir; ayet, doğruluğu putlardan kaçınmakla aynı cümlede anarak onun ciddiyetine işaret eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sınıra saygıyla uy",
+   "aciklama": "Bugün bir kuralı ya da sınırı, sadece cezadan kaçınmak için değil, içten bir saygıyla koru."
+  },
+  {
+   "baslik": "Doğru konuş",
+   "aciklama": "Bugün söyleyeceğin her sözün doğru olduğundan emin ol, küçük yalanlardan bile kaçın."
+  },
+  {
+   "baslik": "Yanlışa ortak olma",
+   "aciklama": "Bugün bir yalana veya haksız söze sessiz kalarak ortak olma, doğruyu destekle."
+  }
+ ],
+ "bugununAdimi": "Bugün söyleyeceğin her cümlenin doğru olup olmadığını bir kez kontrol et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=30"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/22/30"
+  }
+ ]
+}

@@ -1,0 +1,229 @@
+{
+ "sure": 22,
+ "ayet": 25,
+ "durum": "taslak",
+ "meal": "İnkâr edenler ve Allah'ın yolundan ve yerli olsun dışarıdan gelen olsun, insanlar için eşit kıldığımız Mescid-i Haram'dan alıkoyanlar; kim orada zulümle haktan sapmak isterse, ona acı bir azap tattırırız.",
+ "mealNotu": "'Sevâen' kökü (سوي) eşitliği anlatır; Mescid-i Haram'ın yerli ve dışarıdan gelen herkes için eşit bir ibadet yeri olduğu vurgulanır. 'İlhâd' (لحد) kökü, doğru yoldan sapmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği inkâr etme",
+   "karsilik": "inkâr edenler"
+  },
+  {
+   "kelime": "وَيَصُدُّونَ",
+   "okunus": "ve yesuddûne",
+   "kok": "صدد",
+   "kokAnlam": "alıkoyma, engelleme",
+   "karsilik": "ve alıkoyanlar"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolundan"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَٱلْمَسْجِدِ",
+   "okunus": "vel mescidi",
+   "kok": "سجد",
+   "kokAnlam": "secde yeri, mescid",
+   "karsilik": "ve Mescid'den"
+  },
+  {
+   "kelime": "ٱلْحَرَامِ",
+   "okunus": "elharâmi",
+   "kok": "حرم",
+   "kokAnlam": "saygın, dokunulmaz",
+   "karsilik": "Haram"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "ki onu"
+  },
+  {
+   "kelime": "جَعَلْنَٰهُ",
+   "okunus": "cealnâhü",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "kıldık"
+  },
+  {
+   "kelime": "لِلنَّاسِ",
+   "okunus": "lilnnâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanlar için"
+  },
+  {
+   "kelime": "سَوَآءً",
+   "okunus": "sevâen",
+   "kok": "سوي",
+   "kokAnlam": "eşit, denk",
+   "karsilik": "eşit"
+  },
+  {
+   "kelime": "ٱلْعَٰكِفُ",
+   "okunus": "el'âkifü",
+   "kok": "عكف",
+   "kokAnlam": "orada kalıcı olan, mukim",
+   "karsilik": "orada mukim olan"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "وَٱلْبَادِ",
+   "okunus": "vel bâdi",
+   "kok": "بدو",
+   "kokAnlam": "dışarıdan gelen",
+   "karsilik": "ve dışarıdan gelen"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "يُرِدْ",
+   "okunus": "yürid",
+   "kok": "رود",
+   "kokAnlam": "isteme",
+   "karsilik": "isterse"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "بِإِلْحَادٍۭ",
+   "okunus": "biilhâdim",
+   "kok": "لحد",
+   "kokAnlam": "sapma, doğru yoldan ayrılma",
+   "karsilik": "sapmayı"
+  },
+  {
+   "kelime": "بِظُلْمٍ",
+   "okunus": "bizulmin",
+   "kok": "ظلم",
+   "kokAnlam": "zulüm, haksızlık",
+   "karsilik": "zulümle"
+  },
+  {
+   "kelime": "نُّذِقْهُ",
+   "okunus": "nüzikhü",
+   "kok": "ذوق",
+   "kokAnlam": "tattırma",
+   "karsilik": "ona tattırırız"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "عَذَابٍ",
+   "okunus": "azâbin",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "bir azap"
+  },
+  {
+   "kelime": "أَلِيمٍ",
+   "okunus": "elîmin",
+   "kok": "ألم",
+   "kokAnlam": "acı, elem",
+   "karsilik": "acı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet yeni bir konuya geçer: Mescid-i Haram (Kâbe ve çevresi). Önce, inkâr edip insanları Allah yolundan ve bu ibadet yerinden alıkoyanlar kınanır. Ardından Mescid-i Haram'ın özel bir niteliği vurgulanır: yerli olan da dışarıdan gelen de orada eşittir; kimsenin bir üstünlüğü yoktur.",
+  "Ayetin son kısmı, orada zulümle haktan sapmak isteyene acı bir azabın tattırılacağını bildirir. Bu, hem o mekânın saygınlığına yönelik bir uyarı hem de niyetin bile önemli olduğuna dair bir hatırlatmadır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:125",
+   "meal": "Biz Beyt'i insanlar için toplanma yeri ve güvenli bir yer kıldık.",
+   "baglanti": "Kâbe'nin herkes için eşit, ortak bir mekân olarak kılınması teması burada da geçer."
+  },
+  {
+   "ref": "48:25",
+   "meal": "İnkâr edip sizi Mescid-i Haram'dan ve bekletilen kurbanlıkları yerine ulaşmaktan alıkoyanlar onlardır.",
+   "baglanti": "İnsanları Mescid-i Haram'dan alıkoyma eylemi burada da aynı şekilde kınanır; iki ayet aynı olayı farklı bağlamlarda anar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan Kâbe ve hac ile ilgili özel bir alandır; herkesin bu mekânda eşit olduğu vurgulanır. Buradan çıkarılabilecek genel ders, ibadet ve hak konusunda eşit muamele ilkesidir.",
+  "Kimseyi bir hakkından, bir ortamdan ya da bir imkândan haksız yere alıkoymamak; bu, günlük hayatta da geçerli bir adalet ilkesidir. Ayetin son kısmındaki 'zulümle sapma' uyarısı ise niyetin de önemli olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Erişimi engelleme",
+   "aciklama": "Bugün bir ortamda kimsenin hakkına ya da erişimine engel olmadığından emin ol."
+  },
+  {
+   "baslik": "Eşit davran",
+   "aciklama": "Bugün karşılaştığın insanlara, tanıdık ya da yabancı fark etmeden eşit ve adil davran."
+  },
+  {
+   "baslik": "Niyetini kontrol et",
+   "aciklama": "Bugün bir kararında, kimse görmese bile adaletten sapmadığından emin ol."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararında, kimse görmese bile adaletten sapmamaya özellikle dikkat et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=25"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/22/25"
+  }
+ ]
+}

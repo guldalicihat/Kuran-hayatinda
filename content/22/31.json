@@ -1,0 +1,201 @@
+{
+ "sure": 22,
+ "ayet": 31,
+ "durum": "taslak",
+ "meal": "Allah'a yönelmiş hanifler olarak, O'na hiçbir şeyi ortak koşmadan. Kim Allah'a ortak koşarsa, sanki gökten düşmüş de kendisini kuş kapıvermiş, ya da rüzgâr onu uzak bir yere sürükleyip atmış gibidir.",
+ "mealNotu": "'Hunefâe' kökü (حنف) doğru yola, tevhide eğilmeyi anlatır. Benzetmedeki 'harra' (خرر) düşme, 'tehvî' (هوي) ise uçurumdan sürüklenerek düşme anlamındadır; ikisi farklı fiillerle iki ayrı ihtimali (kuşun kapması / rüzgârın sürüklemesi) anlatır.",
+ "kokler": [
+  {
+   "kelime": "حُنَفَآءَ",
+   "okunus": "hunefâe",
+   "kok": "حنف",
+   "kokAnlam": "hakka yönelme, doğru yola eğilim",
+   "karsilik": "hanifler olarak"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "غَيْرَ",
+   "okunus": "gayra",
+   "kok": "غير",
+   "kokAnlam": "başka, dışında",
+   "karsilik": "olmadan"
+  },
+  {
+   "kelime": "مُشْرِكِينَ",
+   "okunus": "müşrikîne",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşan",
+   "karsilik": "ortak koşan"
+  },
+  {
+   "kelime": "بِهِ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "O'na"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "يُشْرِكْ",
+   "okunus": "yüşrik",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "ortak koşarsa"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "فَكَأَنَّمَا",
+   "okunus": "fekeennemâ",
+   "kok": "—",
+   "kokAnlam": "benzetme edatı",
+   "karsilik": "sanki"
+  },
+  {
+   "kelime": "خَرَّ",
+   "okunus": "harra",
+   "kok": "خرر",
+   "kokAnlam": "düşme, yere yıkılma",
+   "karsilik": "düşmüş de"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "yücelik, gök",
+   "karsilik": "gökten"
+  },
+  {
+   "kelime": "فَتَخْطَفُهُ",
+   "okunus": "fetahtafühü",
+   "kok": "خطف",
+   "kokAnlam": "kapma, hızla alma",
+   "karsilik": "kendisini kapıvermiş"
+  },
+  {
+   "kelime": "ٱلطَّيْرُ",
+   "okunus": "ettayru",
+   "kok": "طير",
+   "kokAnlam": "kuş",
+   "karsilik": "kuş"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "تَهْوِى",
+   "okunus": "tehvî",
+   "kok": "هوي",
+   "kokAnlam": "sürükleyerek düşürme",
+   "karsilik": "sürükleyip atmış"
+  },
+  {
+   "kelime": "بِهِ",
+   "okunus": "bihi",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "ٱلرِّيحُ",
+   "okunus": "errîhu",
+   "kok": "روح",
+   "kokAnlam": "rüzgâr",
+   "karsilik": "rüzgâr"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içine",
+   "karsilik": "içine"
+  },
+  {
+   "kelime": "مَكَانٍ",
+   "okunus": "mekânin",
+   "kok": "كون",
+   "kokAnlam": "yer, mekân",
+   "karsilik": "bir yere"
+  },
+  {
+   "kelime": "سَحِيقٍ",
+   "okunus": "sehîkın",
+   "kok": "سحق",
+   "kokAnlam": "uzak, ıssız",
+   "karsilik": "uzak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki iki ayette (putlardan ve yalan sözden kaçınma) verilen emrin devamında, doğru tutumu tanımlar: Allah'a hiçbir şeyi ortak koşmadan, hanif olarak (yalnız O'na yönelerek) yaşamak. 'Hanif' kökü, sapmadan doğru yola eğilmeyi anlatır.",
+  "Ayetin ikinci kısmı, şirkin durumunu çarpıcı bir benzetmeyle anlatır: Allah'a ortak koşan biri, sanki gökten düşmüş de bir kuşun kapıp götürdüğü ya da rüzgârın uzak bir yere sürükleyip attığı biri gibidir. Bu benzetme, şirkin verdiği dayanaksızlık, parçalanmışlık ve çaresizlik hissini somutlaştırır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "31:32",
+   "meal": "Onları dağlar gibi dalgalar sardığında, dini yalnız Allah'a has kılarak O'na yalvarırlar; ama onları kurtarıp karaya çıkarınca içlerinden bir kısmı orta yolu tutar.",
+   "baglanti": "Zorluk anında saf tevhide (ihlasa) dönme, rahatlayınca yeniden şirke kayma teması; 22:31'deki hanif olma çağrısının zıddını gösterir."
+  },
+  {
+   "ref": "39:29",
+   "meal": "Allah bir örnek verdi: biri, birbiriyle çekişen ortakların malı olan bir köle; diğeri ise yalnız bir kişiye ait bir köle. Bu ikisi eşit olur mu?",
+   "baglanti": "Şirk ile tevhid arasındaki fark burada da bir benzetmeyle anlatılır; çok efendiye bağlı olmanın verdiği dağınıklık, 22:31'deki düşüş benzetmesiyle aynı fikri taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu tevhid ve şirktir; ancak verdiği benzetme günlük hayata da taşınabilir bir görü sunar. Birbiriyle çelişen çok sayıda değere, beklentiye ya da otoriteye bağlanmak, insanı da benzer bir dağınıklığa sürükler.",
+  "Tek bir doğru eksene (Allah'ın rızasına) bağlı kalmak ise bir bütünlük ve güven duygusu verir. Bu, günlük kararlarda önceliklerin net olması, çelişkili beklentiler arasında sürüklenmemesi anlamına gelir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önceliklerini gözden geçir",
+   "aciklama": "Bugün birbiriyle çelişen hedeflerin olup olmadığına bak, varsa birini önceliklendir."
+  },
+  {
+   "baslik": "Doğruyu gözeterek karar ver",
+   "aciklama": "Bugün bir kararını, kimse görmese de sadece doğru olduğu için ver."
+  },
+  {
+   "baslik": "Tek eksene bağlan",
+   "aciklama": "Bugün bir işini, başkalarının beğenisini değil sadece Allah'ın rızasını gözeterek yap."
+  }
+ ],
+ "bugununAdimi": "Bugün bir işini, kimse görmese de sadece doğru olduğu için yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=31"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/22/31"
+  }
+ ]
+}
