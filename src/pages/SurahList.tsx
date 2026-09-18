@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import Header from '../components/Header'
 import FilterInput from '../components/FilterInput'
@@ -9,12 +9,26 @@ import { useLastRead } from '../lib/store'
 
 function norm(s: string) { return s.toLocaleLowerCase('tr').replace(/[âîû']/g, c => ({ 'â': 'a', 'î': 'i', 'û': 'u', "'": '' }[c] ?? c)) }
 
+let savedScrollY = 0
+
 export default function SurahList() {
   const [chapters, setChapters] = useState<Chapter[]>([])
   const [q, setQ] = useState('')
   const { s } = useSettings()
   const { last } = useLastRead()
+  const restored = useRef(false)
   useEffect(() => { loadChapters().then(setChapters) }, [])
+  useEffect(() => {
+    const onScroll = () => { savedScrollY = window.scrollY }
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+  useEffect(() => {
+    if (!restored.current && chapters.length > 0) {
+      restored.current = true
+      window.scrollTo(0, savedScrollY)
+    }
+  }, [chapters])
   const list = useMemo(() => {
     const f = chapters.filter(c => !q || norm(c.ad).includes(norm(q)) || norm(c.anlam).includes(norm(q)) || String(c.n) === q.trim())
     return s.sort === 'nuzul' ? [...f].sort((a, b) => a.nuzul - b.nuzul) : f
