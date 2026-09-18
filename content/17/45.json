@@ -1,0 +1,138 @@
+{
+ "sure": 17,
+ "ayet": 45,
+ "durum": "taslak",
+ "meal": "Kur'an okuduğunda, seninle ahirete iman etmeyenlerin arasına görünmez bir perde kılarız.",
+ "mealNotu": "'Hicab' perde, 'mestur' örtülü/gizli anlamındadır; ikisi birlikte 'görünmez perde' anlamını verir. Ayet, inkarcıların Kur'an'ı anlayamamasının nedenini somut bir engelle anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "zaman: ne zaman, olduğunda",
+   "karsilik": "ve ...dığında"
+  },
+  {
+   "kelime": "قَرَأْتَ",
+   "okunus": "kara'te",
+   "kok": "قرأ",
+   "kokAnlam": "okuma",
+   "karsilik": "okuduğun"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانَ",
+   "okunus": "elkur'âne",
+   "kok": "قرأ",
+   "kokAnlam": "okuma, okunan; Kur'an",
+   "karsilik": "Kur'an'ı"
+  },
+  {
+   "kelime": "جَعَلْنَا",
+   "okunus": "cealnâ",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "kılarız"
+  },
+  {
+   "kelime": "بَيْنَكَ",
+   "okunus": "beyneke",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında",
+   "karsilik": "seninle"
+  },
+  {
+   "kelime": "وَبَيْنَ",
+   "okunus": "ve beyne",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında",
+   "karsilik": "arasına"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri: onlar ki",
+   "karsilik": "-lerin"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-me-"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman etme",
+   "karsilik": "iman etmeyenlerin"
+  },
+  {
+   "kelime": "بِٱلْءَاخِرَةِ",
+   "okunus": "bil âhırati",
+   "kok": "أخر",
+   "kokAnlam": "son, sonraki; ahiret",
+   "karsilik": "ahirete"
+  },
+  {
+   "kelime": "حِجَابًا",
+   "okunus": "hicâben",
+   "kok": "حجب",
+   "kokAnlam": "perde, örtme",
+   "karsilik": "bir perde"
+  },
+  {
+   "kelime": "مَّسْتُورًا",
+   "okunus": "mestûran",
+   "kok": "ستر",
+   "kokAnlam": "örtülü, gizli",
+   "karsilik": "görünmez"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayette göklerin, yerin ve her şeyin Allah'ı tespih ettiği ama bunu anlamadığımız belirtildikten sonra gelir; burada da benzer bir 'anlayamama' teması işlenir. 'Hicab' kökü perde, engel anlamına gelir; ayet, Kur'an okunduğunda ahirete inanmayanlarla Peygamber arasına görünmez (mestur) bir perdenin konulduğunu söyler.",
+  "Bu perde fiziksel değildir; sonraki ayette (46) bu durumun kalplerdeki örtüler ve kulaklardaki ağırlıkla açıklandığı görülür. Ayetin mesajı, bir mesajı anlamamanın bazen dinleyenin kendi kapalılığından kaynaklanabileceğidir; klasik tefsir bunu kişinin inkârcı tutumunun doğal bir sonucu olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "41:5",
+   "meal": "Dediler ki: 'Kalplerimiz senin çağırdığın şeye kapalıdır, kulaklarımızda ağırlık, aramızda da bir perde vardır.'",
+   "baglanti": "Fussilet suresindeki bu ayet, inkârcıların kendi ağızlarından aynı 'perde' (hicab) imgesini kullandığını gösterir; İsrâ 45'teki perde burada onların kendi itirafıyla doğrulanır."
+  },
+  {
+   "ref": "2:7",
+   "meal": "Allah onların kalplerini ve kulaklarını mühürlemiştir; gözlerinde de bir perde vardır. Onlar için büyük bir azap vardır.",
+   "baglanti": "Bakara suresindeki bu ayet, aynı anlama-engeli temasını mühür ve perde imgeleriyle pekiştirir; ısrarlı inkârın sonucu olarak anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ı dinleyip de inanmayanlarla Peygamber arasındaki özel bir durumdur; bu, herkesin başına gelen sıradan bir anlama güçlüğü değildir. Ancak ayetin arka planındaki ilke geneldir: bir mesajı önyargıyla dinleyen kişi, onu anlamakta gerçekten zorlanır.",
+  "Günlük hayatta, bir konuşmayı veya eleştiriyi 'zaten haklı değil' diye baştan reddederek dinlersek, söylenenin özünü kaçırırız. Bu ayetten çıkarılabilecek genel ders, açık bir zihinle dinlemenin anlamanın ön koşulu olduğudur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önyargısız dinle",
+   "aciklama": "Bugün bir konuşmayı, sonucunu baştan biliyormuş gibi değil, gerçekten anlamaya çalışarak dinle."
+  },
+  {
+   "baslik": "Kapalı kalbi fark et",
+   "aciklama": "Bir konuda inatla kapandığını hissettiğinde, bunun anlamanı nasıl engellediğini düşün."
+  },
+  {
+   "baslik": "Bir metni yeniden oku",
+   "aciklama": "Daha önce anlamadığını düşündüğün bir metni, bugün sabırla tekrar oku."
+  }
+ ],
+ "bugununAdimi": "Bugün bir tartışmada karşı tarafı, cevap hazırlamadan önce sonuna kadar dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=45"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/17/45"
+  }
+ ]
+}

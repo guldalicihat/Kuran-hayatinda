@@ -1,0 +1,117 @@
+{
+ "sure": 17,
+ "ayet": 52,
+ "durum": "taslak",
+ "meal": "Sizi çağıracağı gün, O'na hamd ederek çağrısına uyarsınız ve dünyada sadece az bir süre kaldığınızı sanırsınız.",
+ "mealNotu": "'Testecîbûne' çağrıya icabet etmeyi, 'lebistüm' ise (dünyada) kalmayı anlatır. Ayet, diriliş anındaki çağrıya nasıl uyulacağını ve dünyadaki sürenin nasıl algılanacağını anlatır.",
+ "kokler": [
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gün"
+  },
+  {
+   "kelime": "يَدْعُوكُمْ",
+   "okunus": "yed'ûküm",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, davet etme",
+   "karsilik": "sizi çağıracağı"
+  },
+  {
+   "kelime": "فَتَسْتَجِيبُونَ",
+   "okunus": "fetestecîbûne",
+   "kok": "جوب",
+   "kokAnlam": "cevap verme, icabet etme",
+   "karsilik": "uyacaksınız"
+  },
+  {
+   "kelime": "بِحَمْدِهِۦ",
+   "okunus": "bihamdihî",
+   "kok": "حمد",
+   "kokAnlam": "övgü, hamd etme",
+   "karsilik": "O'na hamd ederek"
+  },
+  {
+   "kelime": "وَتَظُنُّونَ",
+   "okunus": "ve tezunnûne",
+   "kok": "ظنن",
+   "kokAnlam": "sanma, zannetme",
+   "karsilik": "ve sanacaksınız"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk (in nafiye)",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "لَّبِثْتُمْ",
+   "okunus": "lebistüm",
+   "kok": "لبث",
+   "kokAnlam": "kalma, bekleme",
+   "karsilik": "kaldığınızı"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna",
+   "karsilik": "sadece"
+  },
+  {
+   "kelime": "قَلِيلًا",
+   "okunus": "kalîlen",
+   "kok": "قلل",
+   "kokAnlam": "az",
+   "karsilik": "az bir süre"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetlerde (49-51) diriliş şüphesi ve cevabı anlatılmıştı; bu ayet, o günün nasıl gerçekleşeceğini betimler: insanlar çağrıldıklarında hamd ederek (itirazsız) bu çağrıya uyacaklardır. 'O'na hamd ederek' ifadesi, o an itirazın mümkün olmadığını, gerçeğin artık apaçık göründüğünü ima eder.",
+  "Ayetin son kısmı, insanların dünyada geçirdikleri süreyi çok kısa (az) sanacaklarını belirtir. Bu, dünya hayatının, ahiretin uzunluğu yanında ne kadar kısa kalacağına dair bir vurgudur; klasik tefsir bunu, insanın kıyamet günü zaman algısının değişmesi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "20:104",
+   "meal": "Onların söylediklerini biz en iyi biliriz; içlerinde en akıllı olanları, 'Sadece bir gün kaldınız' der.",
+   "baglanti": "Tâhâ suresindeki bu ayet, İsrâ 52'deki 'az bir süre kaldıklarını sanacaklar' ifadesiyle aynı temayı, dünyadaki sürenin kısa algılanacağı şeklinde işler."
+  },
+  {
+   "ref": "23:113",
+   "meal": "Derler ki: 'Bir gün ya da bir günün bir kısmı kadar kaldık; sayanlara sor.'",
+   "baglanti": "Mü'minûn suresindeki bu ayet de aynı motifi, insanların kıyamet günü dünyada geçirdikleri süreyi çok kısa hissedeceklerini vurgulayarak tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıyamet günü ve o günkü zaman algısıdır; bu, şu an test edilebilecek bir deneyim değildir. Ancak 'zamanın geçmesi sonradan kısa görünür' gözlemi, günlük hayatta da geçerlidir.",
+  "Çoğu insan, geçmişe baktığında yılların ne kadar hızlı geçtiğini fark eder. Bu ayetten çıkarılabilecek genel ders, elimizdeki zamanın kıymetini, geçtikten sonra değil, şimdi bilmemiz gerektiğidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zamanın kıymetini bugün bil",
+   "aciklama": "Bu haftanın nasıl geçtiğini düşün ve kalan zamanını daha bilinçli kullanmaya karar ver."
+  },
+  {
+   "baslik": "Ertelemeyi bırak",
+   "aciklama": "'Sonra yaparım' dediğin bir işi bugün, zaman az sanki, hemen yap."
+  },
+  {
+   "baslik": "Günü değerlendir",
+   "aciklama": "Akşam olduğunda bugünü nasıl geçirdiğini birkaç cümleyle değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün, erteleyip durduğun bir işi zaman azmış gibi davranarak şimdi yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=52"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/17/52"
+  }
+ ]
+}
