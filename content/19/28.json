@@ -1,0 +1,131 @@
+{
+ "sure": 19,
+ "ayet": 28,
+ "durum": "taslak",
+ "meal": "'Ey Harun'un kızkardeşi! Senin baban kötü bir adam değildi, annen de iffetsiz biri değildi.'",
+ "mealNotu": "'Harun'un kızkardeşi' ifadesi, klasik tefsire göre soyca veya dindarlıkça salih bir aileden geldiğini anlatan bir hitaptır. 'Sû' kökü سوأ kötülüğü, 'bağıyy' kökü بغي iffetsizliği anlatır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأُخْتَ",
+   "okunus": "yâ ühte",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik (kızkardeş)",
+   "karsilik": "Ey kızkardeşi"
+  },
+  {
+   "kelime": "هَٰرُونَ",
+   "okunus": "hârûne",
+   "kok": "—",
+   "kokAnlam": "özel isim: Harun",
+   "karsilik": "Harun'un"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değildi"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma, var olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "أَبُوكِ",
+   "okunus": "ebûki",
+   "kok": "أبو",
+   "kokAnlam": "baba",
+   "karsilik": "baban"
+  },
+  {
+   "kelime": "ٱمْرَأَ",
+   "okunus": "imrae",
+   "kok": "مرأ",
+   "kokAnlam": "kişi, adam",
+   "karsilik": "bir adam"
+  },
+  {
+   "kelime": "سَوْءٍ",
+   "okunus": "sev'in",
+   "kok": "سوأ",
+   "kokAnlam": "kötülük",
+   "karsilik": "kötü"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve değildi"
+  },
+  {
+   "kelime": "كَانَتْ",
+   "okunus": "kânet",
+   "kok": "كون",
+   "kokAnlam": "olma, var olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "أُمُّكِ",
+   "okunus": "ümmüki",
+   "kok": "أمم",
+   "kokAnlam": "anne",
+   "karsilik": "annen"
+  },
+  {
+   "kelime": "بَغِيًّا",
+   "okunus": "beğıyyen",
+   "kok": "بغي",
+   "kokAnlam": "iffetsizlik, zina",
+   "karsilik": "iffetsiz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kavmi, Meryem'e sitemini sürdürür ve onu ailesinin temiz geçmişiyle karşılaştırır: babası kötü biri değildi, annesi de iffetsiz değildi. Bu sözler, onların şaşkınlığının, Meryem'in tanınan iyi bir aileden gelmesiyle daha da arttığını gösterir.",
+  "Bu sitem dolu sözler, Meryem'e doğrudan bir suçlama yöneltir; ama Meryem susma yemini gereği cevap vermez. Çözüm, bir sonraki ayette beklenmedik bir şekilde gelecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "66:12",
+   "meal": "İmran kızı Meryem de böyledir; o iffetini korumuştu, biz de ona ruhumuzdan üfledik.",
+   "baglanti": "Tahrim suresi, kavminin burada şüpheyle yaklaştığı iffeti, açıkça ve kesin bir dille doğrular."
+  },
+  {
+   "ref": "3:37",
+   "meal": "Rabbi onu güzel bir kabulle kabul buyurdu, onu güzel bir bitki gibi yetiştirdi ve Zekeriyya'yı ona kefil kıldı.",
+   "baglanti": "Al-i İmran suresi, Meryem'in burada anılan temiz aile ortamının, daha önceki güzel yetişme sürecinin bir devamı olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Meryem'e yöneltilen toplumsal bir sitem ve dolaylı bir suçlamadır; bu, onun kıssasına özgü zorlu bir andır.",
+  "Buradan çıkarılabilecek genel ders, bir kişinin geçmişi ve ailesi ne kadar iyi olursa olsun, yine de haksız bir şüpheyle karşılaşabileceğidir. Böyle bir durumda sabır ve güven, en güçlü duruş biçimidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Aile itibarına saygı göster",
+   "aciklama": "Bugün birinin ailesi hakkında konuşurken, temkinli ve saygılı bir dil kullan."
+  },
+  {
+   "baslik": "Haksız suçlamayı sabırla karşıla",
+   "aciklama": "Bugün haksız bir suçlamayla karşılaşırsan, hemen öfkelenmeden sabırla yaklaş."
+  },
+  {
+   "baslik": "Geçmişe haksızlık etme",
+   "aciklama": "Bugün birinin geçmişini, elinde kesin bilgi olmadan yargılama."
+  }
+ ],
+ "bugununAdimi": "Bugün hakkında kesin bilgin olmayan bir konuda, birini veya ailesini yargılamaktan kaçın.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=28"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/28"
+  }
+ ]
+}

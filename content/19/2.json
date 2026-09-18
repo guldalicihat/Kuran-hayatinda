@@ -1,0 +1,89 @@
+{
+ "sure": 19,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "[Bu], Rabbinin, kulu Zekeriyya'ya olan rahmetinin anılmasıdır.",
+ "mealNotu": "Ayet doğrudan bir isim tamlamasıyla başladığı için köşeli parantezle '[Bu]' eklenmiştir. 'Zikr' kökü anma ve hatırlamayı, 'rahmet' kökü esirgeme ve merhameti anlatır.",
+ "kokler": [
+  {
+   "kelime": "ذِكْرُ",
+   "okunus": "zikru",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama",
+   "karsilik": "anılmasıdır"
+  },
+  {
+   "kelime": "رَحْمَتِ",
+   "okunus": "rahmeti",
+   "kok": "رحم",
+   "kokAnlam": "merhamet, esirgeme",
+   "karsilik": "rahmetinin"
+  },
+  {
+   "kelime": "رَبِّكَ",
+   "okunus": "rabbike",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbinin"
+  },
+  {
+   "kelime": "عَبْدَهُۥ",
+   "okunus": "abdehû",
+   "kok": "عبد",
+   "kokAnlam": "kulluk, kul olma",
+   "karsilik": "kulu"
+  },
+  {
+   "kelime": "زَكَرِيَّآ",
+   "okunus": "zekeriyyâ",
+   "kok": "—",
+   "kokAnlam": "özel isim: Zekeriyya",
+   "karsilik": "Zekeriyya'ya"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kesik harflerin ardından sure, Rabbinin kulu Zekeriyya'ya gösterdiği rahmeti anmakla başlar. Zekeriyya'nın 'kul' olarak anılması, onun önce her şeyden çok Allah'a bağlı bir kişi olduğunu vurgular; ardından gelecek dua sahnesi bu kulluğun bir örneğidir.",
+  "Bu ayet aynı zamanda anlatılacak kıssanın çerçevesini çizer: Bundan sonrası, Zekeriyya'nın gizlice ettiği bir duanın ve bu duaya verilen cevabın anlatımıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:38",
+   "meal": "Orada Zekeriyya Rabbine dua etti: 'Rabbim! Bana katından tertemiz bir nesil bağışla; şüphesiz sen duayı işitensin' dedi.",
+   "baglanti": "Al-i İmran suresi, burada 'rahmet' olarak anılan olayı, Zekeriyya'nın kendi duasının sözleriyle aktarır."
+  },
+  {
+   "ref": "21:89",
+   "meal": "Zekeriyya'yı da an; hani o Rabbine 'Rabbim, beni tek başıma bırakma, sen varislerin en hayırlısısın' diye seslenmişti.",
+   "baglanti": "Enbiya suresi de aynı kıssayı, Zekeriyya'nın yalnız kalma endişesiyle özetler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Allah'ın belirli bir kuluna gösterdiği özel bir rahmetin hatırlanmasıdır; bu, Zekeriyya'nın kıssasına özgü bir olaydır.",
+  "Buradan çıkarılabilecek genel ders, hayatındaki iyilikleri ve karşılık bulan duaları unutmamak, onları zaman zaman hatırlayıp şükretmektir. Bir kulun Allah'a bağlılığı, sadece istekte bulunmakla değil, verilenleri anmakla da güçlenir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir duanı hatırla",
+   "aciklama": "Geçmişte kabul olduğunu düşündüğün bir duayı bugün hatırla ve şükret."
+  },
+  {
+   "baslik": "Kulluk bilincini tazele",
+   "aciklama": "Bugün bir işe başlarken kendini önce Allah'ın kulu olarak hatırla."
+  },
+  {
+   "baslik": "Bir iyiliği not et",
+   "aciklama": "Bugün sana gösterilen küçük bir iyiliği bir kâğıda yaz."
+  }
+ ],
+ "bugununAdimi": "Bugün, geçmişte karşılık bulduğunu düşündüğün bir duan için Allah'a kısa bir şükür cümlesi söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/2"
+  }
+ ]
+}

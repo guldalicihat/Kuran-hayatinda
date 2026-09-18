@@ -1,0 +1,89 @@
+{
+ "sure": 19,
+ "ayet": 22,
+ "durum": "taslak",
+ "meal": "Ona gebe kaldı ve onunla uzak bir yere çekildi.",
+ "mealNotu": "'Hamele' kökü حمل gebe kalmayı, taşımayı anlatır. 'Kasıyy' kökü قصو uzaklığı belirtir; ayet, mekânın neresi olduğunu belirtmez.",
+ "kokler": [
+  {
+   "kelime": "فَحَمَلَتْهُ",
+   "okunus": "fehamelethü",
+   "kok": "حمل",
+   "kokAnlam": "taşıma, gebe kalma",
+   "karsilik": "ona gebe kaldı"
+  },
+  {
+   "kelime": "فَٱنتَبَذَتْ",
+   "okunus": "fentebezet",
+   "kok": "نبذ",
+   "kokAnlam": "bir kenara çekilme, uzaklaşma",
+   "karsilik": "çekildi"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "مَكَانًا",
+   "okunus": "mekânen",
+   "kok": "كون",
+   "kokAnlam": "yer, mekân",
+   "karsilik": "bir yere"
+  },
+  {
+   "kelime": "قَصِيًّا",
+   "okunus": "kasıyyen",
+   "kok": "قصو",
+   "kokAnlam": "uzaklık",
+   "karsilik": "uzak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerde anlatılan müjdenin gerçekleştiğini sade bir dille bildirir: Meryem gebe kalmıştır. Ayrıntıya girmeden, doğrudan sonuca geçilir.",
+  "Ardından Meryem, bu durumla uzak bir yere çekilir. Bu çekilme, hem mahremiyet arayışını hem de yaklaşan zor bir sürece (doğuma) hazırlanmayı ima eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "23:50",
+   "meal": "Meryem oğlunu ve annesini de bir ayet kıldık; onları yüksekçe, oturmaya elverişli ve suyu bulunan bir tepeye yerleştirdik.",
+   "baglanti": "Mü'minûn suresi, anne ve çocuğun daha sonraki bir aşamada yerleştirildiği güvenli bir yeri anlatarak bu uzaklaşma sahnesini tamamlar."
+  },
+  {
+   "ref": "19:16",
+   "meal": "Kitapta Meryem'i de an; hani o, ailesinden ayrılıp doğu tarafında bir yere çekilmişti.",
+   "baglanti": "Aynı surede daha önce geçen çekilme sahnesiyle burada aynı 'intibâz' kökü tekrar kullanılır; iki sahne arasında bir bağ kurulur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Meryem'in gebeliği ve bu süreçte uzak bir yere çekilmesidir; bu, doğrudan onun kıssasına özgü bir sahnedir.",
+  "Buradan çıkarılabilecek genel ders, zor bir sürece girerken sakin ve mahrem bir alan aramanın doğal bir ihtiyaç olduğudur. Her insan, büyük bir yükü taşırken kendine güvenli bir alan bulmaya çalışabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Güvenli bir alan bul",
+   "aciklama": "Bugün zorlandığın bir konuda, sakince düşünebileceğin bir yer veya an belirle."
+  },
+  {
+   "baslik": "Yükünü paylaşacak birini düşün",
+   "aciklama": "Bugün taşıdığın bir sorumluluğu, güvendiğin biriyle paylaşmayı düşün."
+  },
+  {
+   "baslik": "Hazırlığını yap",
+   "aciklama": "Bugün yaklaşan zor bir sürece, önceden küçük bir hazırlıkla adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün zor bir konu için kendine sakin, dikkat dağıtmayan bir çalışma veya düşünme alanı ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=22"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/22"
+  }
+ ]
+}

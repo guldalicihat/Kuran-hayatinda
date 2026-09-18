@@ -1,0 +1,131 @@
+{
+ "sure": 19,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "Bunun üzerine mihraptan kavminin karşısına çıktı ve onlara sabah akşam tesbih etmelerini işaret etti.",
+ "mealNotu": "'Evhâ' kökü وحي burada konuşma yerine işaretle bildirmeyi anlatır; çünkü Zekeriyya konuşamıyordu. Bu yüzden 'vahyetti' değil 'işaret etti' karşılığı tercih edilmiştir.",
+ "kokler": [
+  {
+   "kelime": "فَخَرَجَ",
+   "okunus": "feharace",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, dışarı çıkma",
+   "karsilik": "çıktı"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -in üzerine, karşısına",
+   "karsilik": "karşısına"
+  },
+  {
+   "kelime": "قَوْمِهِۦ",
+   "okunus": "kavmihî",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "kavminin"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمِحْرَابِ",
+   "okunus": "elmihrâbi",
+   "kok": "حرب",
+   "kokAnlam": "mihrap, ibadet yeri",
+   "karsilik": "mihraptan"
+  },
+  {
+   "kelime": "فَأَوْحَىٰٓ",
+   "okunus": "feevhâ",
+   "kok": "وحي",
+   "kokAnlam": "işaretle veya gizlice bildirme",
+   "karsilik": "işaret etti"
+  },
+  {
+   "kelime": "إِلَيْهِمْ",
+   "okunus": "ileyhim",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "سَبِّحُوا۟",
+   "okunus": "sebbihû",
+   "kok": "سبح",
+   "kokAnlam": "tesbih etme, yüceltme",
+   "karsilik": "tesbih edin"
+  },
+  {
+   "kelime": "بُكْرَةً",
+   "okunus": "bükraten",
+   "kok": "بكر",
+   "kokAnlam": "sabah, erken vakit",
+   "karsilik": "sabah"
+  },
+  {
+   "kelime": "وَعَشِيًّا",
+   "okunus": "ve aşiyyen",
+   "kok": "عشو",
+   "kokAnlam": "akşam, günün sonu",
+   "karsilik": "akşam"
+  }
+ ],
+ "neAnlatiyor": [
+  "İşaret gerçekleşir: Zekeriyya mihraptan çıkıp kavminin karşısına gelir, fakat konuşamamaktadır. Bu durumu görenlere, konuşarak değil işaretle bir şey anlatır: sabah akşam Allah'ı tesbih etmelerini ister.",
+  "Bu sahne, Zekeriyya'nın kendi sevincini ve şükrünü, konuşamadığı halde başkalarına yönlendirmesini gösterir. Konuşamaması onu tamamen susturmaz; iletişim kurmanın başka bir yolunu bulur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:37",
+   "meal": "Rabbi onu güzel bir kabulle kabul buyurdu, onu güzel bir bitki gibi yetiştirdi ve Zekeriyya'yı ona kefil kıldı. Zekeriyya ne zaman mihraba girse yanında bir rızık bulurdu.",
+   "baglanti": "Al-i İmran suresi, aynı mihrabı, Zekeriyya'nın Meryem'i ziyaret ettiği yer olarak da anar."
+  },
+  {
+   "ref": "33:42",
+   "meal": "Sabah akşam O'nu tesbih edin.",
+   "baglanti": "Ahzâb suresi, Zekeriyya'nın kavmine işaret ettiği bu tesbih çağrısını, tüm müminlere yönelik genel bir öğüt olarak tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bir peygamberin geçici olarak konuşamadığı bir durumda bile ibadete çağrıda bulunmasıdır; bu, özel bir mucize sahnesidir.",
+  "Buradan çıkan ders, bir engelin insanı iyiliği hatırlatmaktan tamamen alıkoymaması gerektiğidir. Söz söyleyemediğinde bile davranışla, işaretle veya örnek olarak doğru olanı gösterebilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sabah akşam an",
+   "aciklama": "Bugün sabah ve akşam birer dakika ayırıp Allah'ı anarak güne başla ve bitir."
+  },
+  {
+   "baslik": "Sözsüz de hatırlat",
+   "aciklama": "Bugün bir iyiliği, söz söylemeden, örnek davranışla birine hatırlat."
+  },
+  {
+   "baslik": "Engelin önüne geçme",
+   "aciklama": "Bugün seni zorlayan bir engeli, alternatif bir yolla aşmayı dene."
+  }
+ ],
+ "bugununAdimi": "Bugün sabah ve akşam olmak üzere, kısa bir zikir veya dua cümlesini iki kez tekrarla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/11"
+  }
+ ]
+}
