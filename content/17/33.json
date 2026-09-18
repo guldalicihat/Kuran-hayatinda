@@ -1,0 +1,208 @@
+{
+ "sure": 17,
+ "ayet": 33,
+ "durum": "taslak",
+ "meal": "Allah'ın haram kıldığı canı haksız bir sebep dışında öldürmeyin. Kim haksız yere (mazlum olarak) öldürülürse, Biz onun velisine bir yetki verdik; ama o da öldürmede aşırı gitmesin. Çünkü o [veli], zaten desteklenmiş/yardım görmüştür.",
+ "mealNotu": "'Sultân' kelimesi burada kısas veya hesap sorma yetkisi anlamındadır; ayet velinin bu yetkiyi kullanırken ölçüyü aşmamasını (kısasta aşırıya gitmemesini) ister.",
+ "kokler": [
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve...ma"
+  },
+  {
+   "kelime": "تَقْتُلُوا۟",
+   "okunus": "tektülû",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürmeyin"
+  },
+  {
+   "kelime": "ٱلنَّفْسَ",
+   "okunus": "ennefse",
+   "kok": "نفس",
+   "kokAnlam": "nefis, can",
+   "karsilik": "canı"
+  },
+  {
+   "kelime": "ٱلَّتِى",
+   "okunus": "elletî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "حَرَّمَ",
+   "okunus": "harrame",
+   "kok": "حرم",
+   "kokAnlam": "haram kılma, dokunulmazlık",
+   "karsilik": "haram kıldığı"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah, Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) dışında",
+   "karsilik": "dışında"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, hak",
+   "karsilik": "haklı bir sebep"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim ki",
+   "karsilik": "kim ki"
+  },
+  {
+   "kelime": "قُتِلَ",
+   "okunus": "kutile",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürülürse"
+  },
+  {
+   "kelime": "مَظْلُومًا",
+   "okunus": "mazlûmen",
+   "kok": "ظلم",
+   "kokAnlam": "zulüm, haksızlık",
+   "karsilik": "haksız yere (mazlum olarak)"
+  },
+  {
+   "kelime": "فَقَدْ",
+   "okunus": "fekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) o zaman",
+   "karsilik": "o zaman"
+  },
+  {
+   "kelime": "جَعَلْنَا",
+   "okunus": "cealnâ",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "Biz kıldık"
+  },
+  {
+   "kelime": "لِوَلِيِّهِۦ",
+   "okunus": "liveliyyihî",
+   "kok": "ولي",
+   "kokAnlam": "veli, yakın, koruyucu",
+   "karsilik": "velisine"
+  },
+  {
+   "kelime": "سُلْطَٰنًا",
+   "okunus": "sültânen",
+   "kok": "سلط",
+   "kokAnlam": "yetki, güç, otorite",
+   "karsilik": "bir yetki"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ama...mesin"
+  },
+  {
+   "kelime": "يُسْرِف",
+   "okunus": "yüsrif",
+   "kok": "سرف",
+   "kokAnlam": "aşırı gitme, israf",
+   "karsilik": "aşırı gitmesin"
+  },
+  {
+   "kelime": "فِّى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْقَتْلِ",
+   "okunus": "elkatli",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürmede"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) çünkü o",
+   "karsilik": "çünkü o"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dir"
+  },
+  {
+   "kelime": "مَنصُورًا",
+   "okunus": "mensûran",
+   "kok": "نصر",
+   "kokAnlam": "yardım etme, destekleme",
+   "karsilik": "desteklenmiştir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki zina yasağından sonra, insan hayatının dokunulmazlığını konu alır. 'Allah'ın haram kıldığı canı öldürmeyin' ifadesi, cana kıymanın temelde yasak olduğunu, ancak 'haklı bir sebep' (kısas, savaş hukuku gibi) dışında bu yasağın istisnasız geçerli olduğunu belirtir.",
+  "Ayetin ikinci kısmı, haksız yere öldürülen bir kişinin velisine hukuki bir yetki (kısas talep etme hakkı) tanır, fakat bu yetkinin de sınırının olduğunu, öldürmede aşırıya gidilmemesi gerektiğini vurgular. Klasik tefsir bu ayeti, kısas ve adil yargılama ilkesinin temellerinden biri olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:32",
+   "meal": "Kim bir cana kıymamış veya yeryüzünde bozgunculuk çıkarmamış birini öldürürse, sanki bütün insanları öldürmüş gibi olur; kim de bir canı kurtarırsa, sanki bütün insanları kurtarmış gibi olur.",
+   "baglanti": "Mâide suresindeki bu ayet, insan hayatının değerini en güçlü şekilde vurgulayarak İsrâ 33'teki 'haksız yere can almayın' ilkesinin ahlaki temelini gösterir."
+  },
+  {
+   "ref": "2:178",
+   "meal": "Ey iman edenler, öldürülenler hakkında size kısas farz kılındı: hür hüre, köle köleye, kadın kadına karşılıktır.",
+   "baglanti": "Bakara suresindeki bu ayet, kısasın hukuki çerçevesini detaylandırarak İsrâ 33'teki 'velisine bir yetki verdik' ifadesinin nasıl uygulanacağını tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, cana kıyma yasağı ve kısas hukukudur; bu, bireysel intikam değil, düzenli bir hukuki süreci işaret eder ve günümüz hukuk sistemlerindeki adil yargılanma ilkesiyle de örtüşür.",
+  "Günlük hayata taşınabilecek ders, bir haksızlığa uğranıldığında bile tepkinin ölçüsüz olmaması gerektiğidir; ayetin 'aşırı gitmesin' uyarısı, öfkeyle hareket etmek yerine adil ve ölçülü bir yol izlemeyi öğütler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Öfkeni ölçülü tut",
+   "aciklama": "Bugün haksızlığa uğradığında tepkini ölçüsüz bir şekilde büyütmemeye özen göster."
+  },
+  {
+   "baslik": "Adil bir çözüm ara",
+   "aciklama": "Bir anlaşmazlıkta intikam yerine adil bir çözüm yolunu tercih et."
+  },
+  {
+   "baslik": "Can güvenliğine değer ver",
+   "aciklama": "Çevrende bir can güvenliği veya haksızlık meselesine bugün duyarlı davran."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir haksızlıkla karşılaştığında ölçüyü aşmadan, adil bir tepki vermeye özen göster.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=33"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/17/33"
+  }
+ ]
+}

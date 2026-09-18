@@ -1,0 +1,117 @@
+{
+ "sure": 17,
+ "ayet": 27,
+ "durum": "taslak",
+ "meal": "Şüphesiz savurganlar, şeytanların kardeşleridir. Şeytan ise Rabbine karşı çok nankördür.",
+ "mealNotu": "'Kefûr' kökü örtme, nankörlük anlamındadır; burada şeytanın Allah'a olan nimetleri örten, nankör tavrı vurgulanır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلْمُبَذِّرِينَ",
+   "okunus": "elmübezzirîne",
+   "kok": "بذر",
+   "kokAnlam": "tohum saçma, savurma",
+   "karsilik": "savurganlar"
+  },
+  {
+   "kelime": "كَانُوٓا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dırlar"
+  },
+  {
+   "kelime": "إِخْوَٰنَ",
+   "okunus": "ihvâne",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "kardeşleridir"
+  },
+  {
+   "kelime": "ٱلشَّيَٰطِينِ",
+   "okunus": "eşşeyâtîni",
+   "kok": "شطن",
+   "kokAnlam": "şeytan, uzaklaşma",
+   "karsilik": "şeytanların"
+  },
+  {
+   "kelime": "وَكَانَ",
+   "okunus": "ve kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ve...-dir"
+  },
+  {
+   "kelime": "ٱلشَّيْطَٰنُ",
+   "okunus": "eşşeytânü",
+   "kok": "شطن",
+   "kokAnlam": "şeytan, uzaklaşma",
+   "karsilik": "şeytan"
+  },
+  {
+   "kelime": "لِرَبِّهِۦ",
+   "okunus": "lirabbihî",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, sahip, Rab",
+   "karsilik": "Rabbine"
+  },
+  {
+   "kelime": "كَفُورًا",
+   "okunus": "kefûran",
+   "kok": "كفر",
+   "kokAnlam": "örtme, nankörlük, inkâr",
+   "karsilik": "çok nankördür"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki savurganlık yasağının gerekçesini verir. 'Mübezzirîn' (savurganlar) ile 'şeytanların kardeşleri' arasında kurulan benzetme, savurganlığın sadece maddi bir hata değil, ahlaki bir yakınlık kurduğunu anlatır.",
+  "Ayetin ikinci kısmı, şeytanın kendisinin de Rabbine karşı 'kefûr' (çok nankör) olduğunu hatırlatır; klasik tefsir bu bağlantıyı, savurganlığın nimetin kıymetini bilmeme, yani bir tür nankörlük olduğu şeklinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:141",
+   "meal": "Yiyin, ürün verdiğinde onun ürününden, hasat günü de hakkını (yoksula) verin ve israf etmeyin; çünkü O, israf edenleri sevmez.",
+   "baglanti": "En'âm suresindeki bu ayet, israf etmemeyi doğrudan Allah'ın sevmediği bir davranış olarak nitelendirir; İsrâ 27'deki 'savurganlar şeytanın kardeşidir' ifadesiyle aynı yasağı farklı bir açıdan pekiştirir."
+  },
+  {
+   "ref": "7:31",
+   "meal": "Ey Ademoğulları, her mescide gidişinizde güzel giyiminizi kuşanın; yiyin için ama israf etmeyin, çünkü O, israf edenleri sevmez.",
+   "baglanti": "A'râf suresindeki bu ayet, yeme içmede bile ölçüyü aşmamayı öğütleyerek İsrâ 27'deki savurganlık yasağının kapsamını günlük hayata taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, malı gereksiz ve ölçüsüzce harcamanın ahlaki ağırlığıdır; bu, sadece dini bir ayrıntı değil, kaynakların adaletli kullanımıyla ilgili bir ilkedir.",
+  "Günlük hayatta tüketim alışkanlıkları, gösteriş harcamaları ve gereksiz israf, bu ayetin bugüne taşınabilecek en somut alanıdır; harcamadan önce gerçekten ihtiyaç olup olmadığını sormak, bu ayetin pratik bir yansıması olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gereksiz bir harcamayı ertele",
+   "aciklama": "Bugün almayı düşündüğün ama ihtiyacın olmayan bir şeyi satın almadan önce bir gün bekle."
+  },
+  {
+   "baslik": "İsrafı fark et",
+   "aciklama": "Evinde veya işinde gereksiz yere tüketilen bir şeyi (yiyecek, enerji) bugün gözden geçir."
+  },
+  {
+   "baslik": "Tasarrufunu paylaş",
+   "aciklama": "İsraf etmeyerek biriktirdiğin bir miktarı ihtiyaç sahibine yönlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün, gereksiz bir harcamadan vazgeçerek o kaynağı israf etmeden değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=27"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/17/27"
+  }
+ ]
+}
