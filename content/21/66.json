@@ -1,0 +1,131 @@
+{
+ "sure": 21,
+ "ayet": 66,
+ "durum": "taslak",
+ "meal": "Dedi ki: 'Allah'ı bırakıp size hiçbir fayda ve zarar vermeyen şeylere mi tapıyorsunuz?'",
+ "mealNotu": "Meal, kelimelere sadık; ek yorum gerekmedi.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "أَفَتَعْبُدُونَ",
+   "okunus": "efeta'büdûne",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme, tapma",
+   "karsilik": "hâlâ tapıyor musunuz"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِ",
+   "okunus": "dûni",
+   "kok": "دون",
+   "kokAnlam": "aşağısında, ötesinde",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tanrı, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şeylere"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-meyen"
+  },
+  {
+   "kelime": "يَنفَعُكُمْ",
+   "okunus": "yenfeuküm",
+   "kok": "نفع",
+   "kokAnlam": "fayda verme",
+   "karsilik": "size fayda vermeyen"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "hiçbir şey"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يَضُرُّكُمْ",
+   "okunus": "yedurruküm",
+   "kok": "ضرر",
+   "kokAnlam": "zarar verme",
+   "karsilik": "zarar vermeyen"
+  }
+ ],
+ "neAnlatiyor": [
+  "İbrahim, kavmin inadı karşısında asıl meseleye döner: Allah'ı bırakıp fayda ya da zarar veremeyen şeylere tapmanın anlamsızlığı. 'Nef'' (fayda) ve 'darr' (zarar) kökleri burada putların hiçbir işlevi olmadığını, sadece taş olduklarını vurgular.",
+  "Bu argüman Kur'an'da tevhid çağrısının temel dayanaklarından biridir; bir varlığa tapınmanın anlamlı olması için o varlığın gerçekten fayda ya da zarar verebilme gücüne sahip olması gerekir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:76",
+   "meal": "De ki: Allah'ı bırakıp da size ne zarar ne de fayda verebilecek şeylere mi tapıyorsunuz? Oysa işiten ve bilen yalnız Allah'tır.",
+   "baglanti": "21:66'daki argümanın neredeyse birebir aynısı, Maide suresinde tekrarlanır."
+  },
+  {
+   "ref": "10:106",
+   "meal": "Allah'ı bırakıp sana fayda da zarar da vermeyecek şeylere yalvarma; eğer böyle yaparsan şüphesiz zalimlerden olursun.",
+   "baglanti": "Aynı fayda/zarar argümanı, burada doğrudan bir uyarıya dönüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, İbrahim'in putperestliğin mantıksızlığını gösteren doğrudan sorusudur.",
+  "Bugüne taşınabilecek ders, hayatımızda güvendiğimiz, zaman ve emek ayırdığımız şeylerin gerçekten bize fayda sağlayıp sağlamadığını sorgulamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Güvendiğini sorgula",
+   "aciklama": "Bugün en çok güvendiğin şeyin, seni gerçekten koruyup korumadığını düşün."
+  },
+  {
+   "baslik": "Boş yatırımı fark et",
+   "aciklama": "Zaman veya emek harcadığın ama karşılığı olmayan bir alışkanlığı bugün fark et."
+  },
+  {
+   "baslik": "Gerçek kaynağa yönel",
+   "aciklama": "Bir sıkıntın olduğunda, önce Allah'a yönelmeyi dene; sonra çözüm ara."
+  }
+ ],
+ "bugununAdimi": "Bugün zaman ve emek verdiğin bir şeyin, sana gerçekten fayda sağlayıp sağlamadığını sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=66"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/21/66"
+  }
+ ]
+}

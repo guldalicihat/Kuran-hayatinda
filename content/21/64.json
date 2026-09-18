@@ -1,0 +1,103 @@
+{
+ "sure": 21,
+ "ayet": 64,
+ "durum": "taslak",
+ "meal": "Bunun üzerine kendi nefislerine döndüler ve dediler ki: 'Doğrusu zalim olan sizsiniz.'",
+ "mealNotu": "'Enfüs' kökü (نفس) burada 'kendi özlerine, vicdanlarına' dönme anlamında kullanıldı; meal kelimeye sadık kalarak 'nefislerine' karşılığını korudu.",
+ "kokler": [
+  {
+   "kelime": "فَرَجَعُوٓا۟",
+   "okunus": "feraceû",
+   "kok": "رجع",
+   "kokAnlam": "dönme, başvurma",
+   "karsilik": "bunun üzerine döndüler"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "أَنفُسِهِمْ",
+   "okunus": "enfüsihim",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "kendi nefislerine"
+  },
+  {
+   "kelime": "فَقَالُوٓا۟",
+   "okunus": "fekâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "ve dediler"
+  },
+  {
+   "kelime": "إِنَّكُمْ",
+   "okunus": "inneküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten siz",
+   "karsilik": "doğrusu siz"
+  },
+  {
+   "kelime": "أَنتُمُ",
+   "okunus": "entümü",
+   "kok": "—",
+   "kokAnlam": "(zamir, pekiştirme) sizsiniz",
+   "karsilik": "sizsiniz"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمُونَ",
+   "okunus": "ezzâlimûne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, zulüm",
+   "karsilik": "zalim olan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kavim, İbrahim'in sorusuyla yüzleşince bir an için kendi nefislerine döner (رجع kökü, dönme/başvurma) ve birbirlerine 'Zalim olan sizsiniz' derler. Bu, içsel bir farkındalık anıdır; putların konuşamadığını, dolayısıyla onlara tapmanın anlamsız olduğunu kısaca kabul ederler.",
+  "'Nefs' kökü (نفس) burada insanın kendi özüne, iç sesine dönüşünü anlatır; ne var ki bu farkındalık kalıcı olmayacak, sonraki ayette eski inatlarına döneceklerdir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:23",
+   "meal": "Dediler ki: Rabbimiz, biz kendimize zulmettik; eğer bizi bağışlamaz ve bize merhamet etmezsen, kesinlikle hüsrana uğrayanlardan oluruz.",
+   "baglanti": "Âdem ile Havva'nın 'kendimize zulmettik' itirafı, aynı nefis+zulüm kök kombinasyonuyla 21:64'teki itirafa paralellik taşır."
+  },
+  {
+   "ref": "26:97",
+   "meal": "Vallahi biz apaçık bir sapıklık içindeymişiz.",
+   "baglanti": "Kur'an'da inkârcıların, gerçekle geç de olsa yüzleşip kendi hatalarını itiraf ettiği başka bir sahne."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, kavmin bir an için kendi hatalarını fark edip bunu birbirlerine itiraf etmesidir.",
+  "Bugüne taşınabilecek ders, bir hatayı fark ettiğimiz an geçiştirmeden, o farkındalığı kalıcı bir değişime dönüştürmektir; çünkü içsel bir itiraf tek başına yeterli değildir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Farkındalığı eyleme çevir",
+   "aciklama": "Bugün fark ettiğin bir hatanı, içinden kabul etmekle kalma; düzeltmek için bir adım at."
+  },
+  {
+   "baslik": "İçsel sesi dinle",
+   "aciklama": "Bir konuda tereddüt ettiğinde, ilk anki dürüst düşünceni not al."
+  },
+  {
+   "baslik": "Geri dönme",
+   "aciklama": "Doğru olduğunu bildiğin bir farkındalıktan, rahatına düşkünlük yüzünden vazgeçme."
+  }
+ ],
+ "bugununAdimi": "Bugün fark ettiğin bir hatayı, içinden kabul etmekle kalma; düzeltmek için somut bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=64"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/21/64"
+  }
+ ]
+}

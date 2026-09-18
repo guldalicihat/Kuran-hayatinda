@@ -1,0 +1,117 @@
+{
+ "sure": 21,
+ "ayet": 65,
+ "durum": "taslak",
+ "meal": "Sonra yine eski hallerine döndüler: 'Andolsun, bunların konuşmadığını sen de bilirsin.'",
+ "mealNotu": "'Nükisû' (başları öne eğildi) ifadesine, anlam bütünlüğü için [eski hallerine döndüler] açıklaması eklendi; kelime tersine çevrilmeyi, inatla eski tutuma dönmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "نُكِسُوا۟",
+   "okunus": "nükisû",
+   "kok": "نكس",
+   "kokAnlam": "tersine çevirme, baş eğdirme",
+   "karsilik": "eski hallerine döndüler"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "رُءُوسِهِمْ",
+   "okunus": "ruûsihim",
+   "kok": "رأس",
+   "kokAnlam": "baş",
+   "karsilik": "başları"
+  },
+  {
+   "kelime": "لَقَدْ",
+   "okunus": "lekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) andolsun",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "عَلِمْتَ",
+   "okunus": "alimte",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilirsin"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mediğini"
+  },
+  {
+   "kelime": "هَٰٓؤُلَآءِ",
+   "okunus": "hâülâi",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunlar",
+   "karsilik": "bunların"
+  },
+  {
+   "kelime": "يَنطِقُونَ",
+   "okunus": "yentıkûne",
+   "kok": "نطق",
+   "kokAnlam": "konuşma, söz söyleme",
+   "karsilik": "konuşmadığını"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kavim, az önceki içsel itiraflarına rağmen eski tavırlarına geri döner ('başları öne eğildi' ifadesi inat ve çaresizliği anlatır) ve İbrahim'e 'Zaten bunların konuşmadığını biliyorsun' derler. Bu, 63. ayette İbrahim'in kurduğu tuzağın onları köşeye sıkıştırdığını, ama inatlarından vazgeçmediklerini gösterir.",
+  "'Nükisû' kökü (نكس) bir şeyi tersine çevirmeyi, baş aşağı etmeyi anlatır; burada mecazi olarak akletmekten vazgeçip eski alışkanlığa dönmeyi ifade eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "21:63",
+   "meal": "Dedi ki: Hayır, bunu şu büyükleri yapmıştır; eğer konuşabiliyorlarsa onlara sorun.",
+   "baglanti": "Kavmin burada söylediği 'bunlar konuşmaz' sözü, İbrahim'in bir önceki ayette kurduğu tuzağın onları köşeye sıkıştırdığını gösterir."
+  },
+  {
+   "ref": "6:25",
+   "meal": "Onlardan seni dinleyenler vardır; ama kalpleri üzerine, onu anlamalarına engel perdeler, kulaklarına da ağırlık koyduk.",
+   "baglanti": "Gerçeği görüp anladığı hâlde inatla ona sırt çevirmenin başka bir örneği."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, kavmin doğruyu görmelerine rağmen inatla eski tutumlarına dönmesidir.",
+  "Bugüne taşınabilecek ders, bir gerçeği görüp anladıktan sonra rahatlık ya da alışkanlık uğruna ona sırt çevirmemektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İnadı bırak",
+   "aciklama": "Bugün haklı olmadığını fark ettiğin bir konuda, sadece alışkanlıktan ısrar etme."
+  },
+  {
+   "baslik": "Geri adım at",
+   "aciklama": "Yanıldığını gördüğün an, gururunu bir kenara bırakıp bunu kabul et."
+  },
+  {
+   "baslik": "Aklını işlet",
+   "aciklama": "Bir konuda karar verirken, alışkanlığın değil aklının söylediğini dinle."
+  }
+ ],
+ "bugununAdimi": "Bugün yanıldığını fark ettiğin bir konuda, gururunu bırakıp bunu açıkça kabul et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=65"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/21/65"
+  }
+ ]
+}
