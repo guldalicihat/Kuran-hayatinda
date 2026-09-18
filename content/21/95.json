@@ -1,0 +1,103 @@
+{
+ "sure": 21,
+ "ayet": 95,
+ "durum": "taslak",
+ "meal": "Helak ettiğimiz bir şehre haramdır (kesin engeldir): onlar artık dönmezler.",
+ "mealNotu": "'Harâm' kökü (حرم) burada yasaklamaktan çok 'imkânsız kılınmış, kesin engellenmiş' anlamındadır; meal bu genel karşılığı kullandı.",
+ "kokler": [
+  {
+   "kelime": "وَحَرَٰمٌ",
+   "okunus": "ve harâmün",
+   "kok": "حرم",
+   "kokAnlam": "yasaklanmış, imkânsız kılınmış",
+   "karsilik": "haramdır (kesin engeldir)"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "قَرْيَةٍ",
+   "okunus": "karyetin",
+   "kok": "قري",
+   "kokAnlam": "şehir, yerleşim",
+   "karsilik": "bir şehre"
+  },
+  {
+   "kelime": "أَهْلَكْنَٰهَآ",
+   "okunus": "ehleknâhâ",
+   "kok": "هلك",
+   "kokAnlam": "helak etme, yok etme",
+   "karsilik": "helak ettiğimiz"
+  },
+  {
+   "kelime": "أَنَّهُمْ",
+   "okunus": "ennehüm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ki onlar",
+   "karsilik": "ki onlar"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mez",
+   "karsilik": "-mezler"
+  },
+  {
+   "kelime": "يَرْجِعُونَ",
+   "okunus": "yerciûne",
+   "kok": "رجع",
+   "kokAnlam": "dönme, geri gelme",
+   "karsilik": "dönmezler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, helak edilmiş bir topluluğun akıbetine dair kısa ve yoğun bir ifadedir: 'harâm' (kesin engellenmiş) kelimesiyle, böyle bir topluluğun bir daha eski haline dönemeyeceği bildirilir.",
+  "Klasik tefsir bu ifadeyi genellikle, helak edilen bir topluluğun bir daha dünya hayatına veya tevbe fırsatına dönemeyeceği şeklinde açıklar. Ayetin devamı (96-97), bu geri dönüşsüzlüğü kıyamet sahnesine bağlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:31",
+   "meal": "Kendilerinden önce nice nesilleri helak ettiğimizi, onların bir daha kendilerine dönmediğini görmediler mi?",
+   "baglanti": "Yâsîn suresi, neredeyse aynı ifadeyle ('lâ yerciûn') geçmiş toplulukların geri dönmediğini vurgular."
+  },
+  {
+   "ref": "6:6",
+   "meal": "Kendilerinden önce nice nesilleri helak ettiğimizi görmediler mi? Onları yeryüzünde size vermediğimiz imkânlarla yerleştirmiştik.",
+   "baglanti": "En'âm suresi, helak edilen toplulukların önceki güçlerine rağmen yok olduğunu hatırlatarak aynı uyarıyı genişletir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, toplumsal helakin geri döndürülemezliğidir; bu tarihsel/toplumsal bir uyarıdır, bireysel bir günlük olay değildir.",
+  "Günlük hayata taşınabilecek ders, fırsatların ve zamanın geri gelmeyeceği bilinciyle, elde bulunan imkânı (düzeltme, tevbe fırsatını) ertelememektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Fırsatı ertelemeyeceğini bil",
+   "aciklama": "Bugün düzeltmen gereken bir şeyi yarına bırakma."
+  },
+  {
+   "baslik": "Geçmişten ders çıkar",
+   "aciklama": "Bugün bir hata yaptığını fark edersen hemen düzeltme yoluna gir."
+  },
+  {
+   "baslik": "Zamanın geri gelmeyeceğini hatırla",
+   "aciklama": "Bugün elindeki fırsatı, 'sonra da yaparım' demeden değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir düzeltmeyi (özür, iyileştirme) şimdi yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=95"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/21/95"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "sure": 21,
+ "ayet": 98,
+ "durum": "taslak",
+ "meal": "Şüphesiz siz ve Allah'ı bırakıp taptıklarınız, cehennemin yakıtısınız; siz oraya varacaksınız.",
+ "mealNotu": "'Hasab' kökü (حصب) yakıt olarak atılan odun/taş anlamındadır; meal bunu 'yakıt' olarak verdi. 'Vârid' kökü (ورد) bir yere varma/girme anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّكُمْ",
+   "okunus": "inneküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz siz",
+   "karsilik": "şüphesiz siz"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şeyler",
+   "karsilik": "ve şeyler"
+  },
+  {
+   "kelime": "تَعْبُدُونَ",
+   "okunus": "ta'büdûne",
+   "kok": "عبد",
+   "kokAnlam": "tapma, kulluk etme",
+   "karsilik": "taptıklarınız"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِ",
+   "okunus": "dûni",
+   "kok": "دون",
+   "kokAnlam": "aşağısında, dışında olma",
+   "karsilik": "bırakıp"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah, tanrı",
+   "karsilik": "Allah'ı"
+  },
+  {
+   "kelime": "حَصَبُ",
+   "okunus": "hasabü",
+   "kok": "حصب",
+   "kokAnlam": "yakıt, atılan odun",
+   "karsilik": "yakıtısınız"
+  },
+  {
+   "kelime": "جَهَنَّمَ",
+   "okunus": "cehenneme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) cehennemin",
+   "karsilik": "cehennemin"
+  },
+  {
+   "kelime": "أَنتُمْ",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "لَهَا",
+   "okunus": "lehâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona",
+   "karsilik": "oraya"
+  },
+  {
+   "kelime": "وَٰرِدُونَ",
+   "okunus": "vâridûne",
+   "kok": "ورد",
+   "kokAnlam": "varma, girme",
+   "karsilik": "varacaksınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Mekkeli müşriklere doğrudan bir uyarıdır: hem kendileri hem taptıkları putlar cehennem yakıtı olacaktır. Bu, putperestlerin 'tanrılarımız bize şefaat eder' iddiasına sert bir cevaptır.",
+  "Ayetin devamı bu ifadeyi açar: eğer bu putlar gerçekten ilah olsaydı cehenneme girmezlerdi; onların da oraya girmesi, ilah olmadıklarının bir kanıtı olarak sunulur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:24",
+   "meal": "İnsanların ve taşların yakıt olduğu, kâfirler için hazırlanmış ateşten sakının.",
+   "baglanti": "Bakara suresi, aynı 'yakıt' teması ve taşların (putların) da bu yakıta dahil edilmesiyle örtüşür."
+  },
+  {
+   "ref": "19:82",
+   "meal": "Hayır! O taptıkları, onların ibadetlerini inkâr edecek ve onlara karşı düşman kesilecekler.",
+   "baglanti": "Meryem suresi, tapılan varlıkların tapanlara fayda vermeyeceğini, tersine karşı çıkacağını bildirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan müşriklere ve putlara yöneliktir; bu bir günlük eylem talimatı değil, bir inanç uyarısıdır.",
+  "Yine de çıkarılabilecek genel ders, Allah'tan başka güvendiğin, bel bağladığın şeylerin (para, statü, insan onayı) seni sonunda kurtaramayacağı bilincidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Güvendiğin şeyi sorgula",
+   "aciklama": "Bugün bel bağladığın bir şeyin (para, itibar) seni gerçekten kurtarıp kurtaramayacağını düşün."
+  },
+  {
+   "baslik": "Asıl sığınağı belirle",
+   "aciklama": "Bir sıkıntında ilk kime veya neye yöneldiğine dikkat et."
+  },
+  {
+   "baslik": "Yanlış rehberi bırak",
+   "aciklama": "Bugün, seni yanlışa çeken bir alışkanlığı fark edip bir adım geri çekil."
+  }
+ ],
+ "bugununAdimi": "Bugün bel bağladığın bir şeyi (para, kişi, alışkanlık) sorgula ve gerçek önceliğini gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=98"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/21/98"
+  }
+ ]
+}

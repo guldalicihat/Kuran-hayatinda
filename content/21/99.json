@@ -1,0 +1,117 @@
+{
+ "sure": 21,
+ "ayet": 99,
+ "durum": "taslak",
+ "meal": "Eğer bunlar gerçekten ilah olsaydı oraya girmezlerdi; oysa hepsi orada sürekli kalacaklardır.",
+ "mealNotu": "'Hâlid' kökü (خلد) süreklilik, ebedîlik anlamındadır; ayet putların ve tapanların cehennemde kalıcılığını bu kökle vurgular.",
+ "kokler": [
+  {
+   "kelime": "لَوْ",
+   "okunus": "lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olsaydı"
+  },
+  {
+   "kelime": "هَٰٓؤُلَآءِ",
+   "okunus": "hâülâi",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunlar",
+   "karsilik": "bunlar"
+  },
+  {
+   "kelime": "ءَالِهَةً",
+   "okunus": "âliheten",
+   "kok": "أله",
+   "kokAnlam": "ilah, tanrı",
+   "karsilik": "ilah"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mez",
+   "karsilik": "-mezlerdi"
+  },
+  {
+   "kelime": "وَرَدُوهَا",
+   "okunus": "veradûhâ",
+   "kok": "ورد",
+   "kokAnlam": "varma, girme",
+   "karsilik": "oraya girmezlerdi"
+  },
+  {
+   "kelime": "وَكُلٌّ",
+   "okunus": "ve küllün",
+   "kok": "كلل",
+   "kokAnlam": "bütün, her biri",
+   "karsilik": "oysa hepsi"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "خَٰلِدُونَ",
+   "okunus": "hâlidûne",
+   "kok": "خلد",
+   "kokAnlam": "süreklilik, ebedîlik",
+   "karsilik": "sürekli kalacaklardır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 98. ayetteki iddiaya bir mantık yürütmesiyle devam eder: gerçek bir ilah, kendisine tapanları koruyabilmeli ve cehenneme girmemelidir; oysa bu putlar da cehenneme girmektedir - bu da onların ilah olmadığının kanıtı olarak sunulur.",
+  "'Hepsi orada süreklidir' ifadesi hem tapılanları hem tapanları kapsayabilir; ayet, sahte ilahlara güvenmenin sonucunun geçici değil kalıcı bir kayıp olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "46:28",
+   "meal": "Allah'ı bırakıp yakınlık aracı edindikleri ilahlar onlara yardım etseydi ya! Ama onlardan kaybolup gittiler.",
+   "baglanti": "Ahkâf suresi, sahte ilahların yardım edememesini aynı mantıkla anlatır."
+  },
+  {
+   "ref": "29:41",
+   "meal": "Allah'tan başka veliler edinenlerin durumu, kendine bir ev edinen örümceğin durumu gibidir; evlerin en çürüğü de şüphesiz örümcek evidir.",
+   "baglanti": "Ankebût suresi, sahte sığınakların gerçekte ne kadar güvencesiz olduğunu bir benzetmeyle gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu yine putperestliğin mantıksal çürütülmesidir; bireysel günlük bir davranış değil, bir inanç eleştirisidir.",
+  "Günlük hayata taşınabilecek ders, bir şeyin gerçekten güvenilir olup olmadığını, onun sonucuna -seni gerçekten koruyup korumadığına- bakarak değerlendirmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sonuca bak",
+   "aciklama": "Bugün güvendiğin bir şeyin seni gerçekten koruyup korumadığını sonuçlarıyla değerlendir."
+  },
+  {
+   "baslik": "Sahte güvenceyi fark et",
+   "aciklama": "Geçici bir rahatlık veren ama kalıcı fayda sağlamayan bir alışkanlığını sorgula."
+  },
+  {
+   "baslik": "Kalıcı olanı seç",
+   "aciklama": "Bugün, geçici bir hazzı kalıcı bir kayba tercih etmediğinden emin ol."
+  }
+ ],
+ "bugununAdimi": "Bugün güvendiğin bir şeyin seni gerçekten koruyup korumadığını bir kez daha düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=99"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/21/99"
+  }
+ ]
+}

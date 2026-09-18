@@ -1,0 +1,131 @@
+{
+ "sure": 21,
+ "ayet": 108,
+ "durum": "taslak",
+ "meal": "De ki: Bana ancak, sizin ilahınızın tek bir ilah olduğu vahyediliyor; artık siz teslim oluyor musunuz?",
+ "mealNotu": "'Müslim' kökü (سلم) teslim olma, boyun eğme anlamındadır; meal bu temel anlamı korudu.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "يُوحَىٰٓ",
+   "okunus": "yûhâ",
+   "kok": "وحي",
+   "kokAnlam": "vahyetme, gizli bildirme",
+   "karsilik": "vahyediliyor"
+  },
+  {
+   "kelime": "إِلَىَّ",
+   "okunus": "ileyye",
+   "kok": "—",
+   "kokAnlam": "(edat) bana",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "أَنَّمَآ",
+   "okunus": "ennemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ki ancak",
+   "karsilik": "ki ancak"
+  },
+  {
+   "kelime": "إِلَٰهُكُمْ",
+   "okunus": "ilâhüküm",
+   "kok": "أله",
+   "kokAnlam": "ilah, tanrı",
+   "karsilik": "sizin ilahınız"
+  },
+  {
+   "kelime": "إِلَٰهٌ",
+   "okunus": "ilâhün",
+   "kok": "أله",
+   "kokAnlam": "ilah, tanrı",
+   "karsilik": "bir ilahtır"
+  },
+  {
+   "kelime": "وَٰحِدٌ",
+   "okunus": "vâhidün",
+   "kok": "وحد",
+   "kokAnlam": "tek olma, birlik",
+   "karsilik": "tek"
+  },
+  {
+   "kelime": "فَهَلْ",
+   "okunus": "fehel",
+   "kok": "—",
+   "kokAnlam": "(soru) artık mı",
+   "karsilik": "artık mı"
+  },
+  {
+   "kelime": "أَنتُم",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "مُّسْلِمُونَ",
+   "okunus": "müslimûne",
+   "kok": "سلم",
+   "kokAnlam": "teslim olma, boyun eğme",
+   "karsilik": "teslim oluyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, surenin kapanışına doğru mesajı en yalın haliyle özetler: Peygambere vahyedilen özün merkezinde tevhid, tek ilah inancı vardır.",
+  "Soru cümlesiyle ('artık siz teslim oluyor musunuz?') biten ayet, bilgiyi aktarmakla yetinmez, muhataptan bir karar ve tepki bekler; bu, Kur'an'ın çoğu tevhid vurgusunda görülen bir üsluptur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "18:110",
+   "meal": "De ki: Ben de ancak sizin gibi bir insanım; bana sadece ilahınızın tek bir ilah olduğu vahyediliyor.",
+   "baglanti": "Kehf suresi, neredeyse aynı ifadeyle tevhid mesajını tekrarlar ve buna Peygamberin beşer olduğu vurgusunu ekler."
+  },
+  {
+   "ref": "41:6",
+   "meal": "De ki: Ben de ancak sizin gibi bir insanım; bana, ilahınızın tek bir ilah olduğu vahyediliyor. Artık ona yönelin ve ondan bağışlanma dileyin.",
+   "baglanti": "Fussilet suresi, aynı kalıbı 'ona yönelin' çağrısıyla tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu tevhid inancının özlü bir ifadesidir; bu bir bilgi ve inanç bildirimidir.",
+  "Günlük hayata taşınabilecek ders, inancın karmaşık değil, temelde yalın bir öze -tek ilah, ona teslimiyet- dayandığıdır; bu yalınlığı korumak, gereksiz karmaşadan kaçınmayı öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önceliğini netleştir",
+   "aciklama": "Bugün kararlarını tek bir doğru ölçüye göre ver, dağınık motivasyonlardan kaçın."
+  },
+  {
+   "baslik": "Teslimiyeti göster",
+   "aciklama": "Bir konuda direnmek yerine, doğru bildiğine boyun eğ."
+  },
+  {
+   "baslik": "Sadeliği koru",
+   "aciklama": "Bugün bir işini gereksiz karmaşıklaştırmadan en sade haliyle yap."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararını, tek bir doğru ilkeye göre sadeleştirerek ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=108"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/21/108"
+  }
+ ]
+}
