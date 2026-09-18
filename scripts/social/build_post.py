@@ -63,7 +63,7 @@ def build_x_short(post):
     if len(koprusor) > 60:
         koprusor = "Peki Kur'an bu konuda ne diyor?"
 
-    return f"{koprusor}\n\nCevap ve bugünün adımı için: {link}\n\n{hashtag}"
+    return f"{koprusor} Cevap ve bugünün adımı için: {link}\n\n{hashtag}"
 
 
 def build(post):
