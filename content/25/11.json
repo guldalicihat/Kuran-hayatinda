@@ -1,0 +1,110 @@
+{
+ "sure": 25,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "Hayır, onlar kıyamet saatini yalanladılar. Biz de kıyamet saatini yalanlayanlar için alevli bir ateş hazırladık.",
+ "mealNotu": "'Sâat' kökü (سوع) burada kıyameti, 'seîr' kökü (سعر) tutuşup alevlenen ateşi anlatır. Ayet, önceki itirazların ötesinde daha köklü bir inkârı, kıyameti yalanlamayı gündeme getirir.",
+ "kokler": [
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "idrak, aksine",
+   "karsilik": "hayır, aksine"
+  },
+  {
+   "kelime": "كَذَّبُوا۟",
+   "okunus": "kezzebû",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanladılar"
+  },
+  {
+   "kelime": "بِٱلسَّاعَةِ",
+   "okunus": "bis sâati",
+   "kok": "سوع",
+   "kokAnlam": "vakit, saat, kıyamet",
+   "karsilik": "kıyamet saatini"
+  },
+  {
+   "kelime": "وَأَعْتَدْنَا",
+   "okunus": "ve a'tednâ",
+   "kok": "عتد",
+   "kokAnlam": "hazırlama",
+   "karsilik": "ve hazırladık"
+  },
+  {
+   "kelime": "لِمَن",
+   "okunus": "limen",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri: kimse için",
+   "karsilik": "kim için"
+  },
+  {
+   "kelime": "كَذَّبَ",
+   "okunus": "kezzebe",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanlarsa"
+  },
+  {
+   "kelime": "بِٱلسَّاعَةِ",
+   "okunus": "bis sâati",
+   "kok": "سوع",
+   "kokAnlam": "vakit, saat, kıyamet",
+   "karsilik": "kıyamet saatini"
+  },
+  {
+   "kelime": "سَعِيرًا",
+   "okunus": "seîran",
+   "kok": "سعر",
+   "kokAnlam": "alevlenme, tutuşma",
+   "karsilik": "alevli bir ateş"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetler müşriklerin peygambere ve Kur'an'a yönelik itirazlarını sıralamıştı; 11. ayet 'bel' (aksine) edatıyla asıl meseleye geçer: onların gerçek sorunu ayrıntılı itirazlar değil, kıyameti tümüyle yalanlamalarıdır.",
+  "'Seîr' kökü, alevlenip tutuşan ateşi anlatır; ayet bu yalanlamanın karşılığının hazır beklediğini, cezanın rastgele değil önceden hazırlanmış olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "76:4",
+   "meal": "Şüphesiz biz kâfirler için zincirler, demir halkalar ve alevli bir ateş hazırladık.",
+   "baglanti": "Aynı 'hazırladık' (a'tednâ) fiili ve 'alevli ateş' (seîr) ifadesiyle, kıyameti yalanlayanlara vaad edilen azabı doğrudan teyit eder."
+  },
+  {
+   "ref": "42:18",
+   "meal": "Kıyametin kopacağına inanmayanlar onun çabuk gelmesini isterler; iman edenler ise ondan korkar ve onun gerçek olduğunu bilirler.",
+   "baglanti": "Kıyameti yalanlamanın, imanın tam karşıtı bir tavır olduğunu başka bir açıdan gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıyameti ve ahireti inkâr etmektir; müşriklerin asıl sorunu ayrıntılı itirazlar değil bu temel red oluşudur.",
+  "Bugüne taşınabilecek ders, hayatın bir sona bağlı olduğunu unutup sanki hiç hesap verilmeyecekmiş gibi yaşamanın büyük bir yanılgı olduğudur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sonu hatırla",
+   "aciklama": "Bugün bir kararını verirken, bu hayatın sonsuz olmadığını bir an düşün."
+  },
+  {
+   "baslik": "Hesap vereceğini unutma",
+   "aciklama": "Yaptığın bir işi, sanki hiç sorulmayacakmış gibi değil, hesabı sorulacakmış gibi yap."
+  },
+  {
+   "baslik": "Ertelemeyi bırak",
+   "aciklama": "Yapman gereken önemli bir şeyi bugüne kadar ertelediysen, şimdi bir adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün 'bu hayat sonsuz değil' diyerek bir işini ciddiyetle ele al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/25/11"
+  }
+ ]
+}

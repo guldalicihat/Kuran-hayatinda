@@ -1,0 +1,117 @@
+{
+ "sure": 25,
+ "ayet": 30,
+ "durum": "taslak",
+ "meal": "Peygamber dedi ki: 'Ey Rabbim! Kavmim bu Kur'an'ı terk edilmiş bıraktı.'",
+ "mealNotu": "'Hicr' kökü (هجر) terk etmeyi, ilgiyi kesmeyi anlatır. Ayet, peygamberin kendi kavminin Kur'an'a karşı gösterdiği ilgisizliği Allah'a şikâyet ettiği bir cümledir.",
+ "kokler": [
+  {
+   "kelime": "وَقَالَ",
+   "okunus": "ve kâle",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "ٱلرَّسُولُ",
+   "okunus": "errasûlü",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçilik",
+   "karsilik": "peygamber"
+  },
+  {
+   "kelime": "يَٰرَبِّ",
+   "okunus": "yâ rabbi",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, sahiplik",
+   "karsilik": "ey Rabbim"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "tekid",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "قَوْمِى",
+   "okunus": "kavmî",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "kavmim"
+  },
+  {
+   "kelime": "ٱتَّخَذُوا۟",
+   "okunus": "ittehazû",
+   "kok": "أخذ",
+   "kokAnlam": "alma, edinme",
+   "karsilik": "kıldı"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "işaret",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانَ",
+   "okunus": "elkur'âne",
+   "kok": "قرأ",
+   "kokAnlam": "okuma",
+   "karsilik": "Kur'an'ı"
+  },
+  {
+   "kelime": "مَهْجُورًا",
+   "okunus": "mehcûran",
+   "kok": "هجر",
+   "kokAnlam": "terk etme, ayrılma",
+   "karsilik": "terk edilmiş"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetler dünyada zikirden uzaklaşmanın kıyamette yol açacağı pişmanlığı anlatmıştı; 30. ayet bu temayı somutlaştırır: peygamberin kendisi, kavminin Kur'an'a sırt çevirmesini Allah'a şikâyet eder.",
+  "Bu kısa ama etkili ayet, Kur'an'a karşı ilgisizliğin yalnızca okumamak değil, onu anlamamak, üzerinde düşünmemek ve hayata geçirmemek gibi farklı biçimlerde de olabileceğini akla getirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "47:24",
+   "meal": "Onlar Kur'an'ı düşünmüyorlar mı, yoksa kalpleri kilitli mi?",
+   "baglanti": "Kur'an'dan yüz çevirmenin bir başka boyutunu, düşünmemek üzerinden anlatır."
+  },
+  {
+   "ref": "7:3",
+   "meal": "Rabbinizden size indirilene uyun, O'ndan başka dostlara uymayın; ne kadar da az öğüt alıyorsunuz.",
+   "baglanti": "Kur'an'a uymamanın insanları öğütten uzaklaştırdığını benzer bir üslupla tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir toplumun kendisine indirilen kitaba karşı ilgisiz kalmasıdır.",
+  "Bugüne taşınabilecek ders, elindeki bir rehberi (Kur'an'ı) sadece rafta tutmak değil, gerçekten okuyup anlamaya çalışmanın önemini hatırlamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sayfayı açık tut",
+   "aciklama": "Bugün elindeki Kur'an'ı bir kenara koymak yerine kısa bir bölümünü oku."
+  },
+  {
+   "baslik": "Anlamaya çalış",
+   "aciklama": "Okuduğun bir ayetin mealine bakıp ne anlattığını gerçekten düşün."
+  },
+  {
+   "baslik": "İlgisizliği fark et",
+   "aciklama": "Hayatında ilgisiz kaldığın önemli bir şeyi bugün fark edip ona zaman ayır."
+  }
+ ],
+ "bugununAdimi": "Bugün Kur'an'dan kısa bir bölüm okuyup üzerinde düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=30"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/25/30"
+  }
+ ]
+}

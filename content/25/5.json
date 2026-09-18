@@ -1,0 +1,117 @@
+{
+ "sure": 25,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "'Öncekilerin masalları, onları yazdırmış da sabah akşam kendisine okunup duruyor' dediler.",
+ "mealNotu": "'Esâtîr' kökü (سطر, satıra dizilmiş yazı) burada eskilerin efsanelerini anlatır; 'tümlâ' kökü (ملو) dikte edilip okunmayı ifade eder. Müşrikler Kur'an'ı bu şekilde suçlarlar.",
+ "kokler": [
+  {
+   "kelime": "وَقَالُوٓا۟",
+   "okunus": "ve kâlû",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "أَسَٰطِيرُ",
+   "okunus": "esâtîru",
+   "kok": "سطر",
+   "kokAnlam": "satır, yazı, efsane",
+   "karsilik": "masalları"
+  },
+  {
+   "kelime": "ٱلْأَوَّلِينَ",
+   "okunus": "el'evvelîne",
+   "kok": "أول",
+   "kokAnlam": "öncelik, ilk",
+   "karsilik": "öncekilerin"
+  },
+  {
+   "kelime": "ٱكْتَتَبَهَا",
+   "okunus": "iktetebehâ",
+   "kok": "كتب",
+   "kokAnlam": "yazma",
+   "karsilik": "onları yazdırmış"
+  },
+  {
+   "kelime": "فَهِىَ",
+   "okunus": "fehiye",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "o da"
+  },
+  {
+   "kelime": "تُمْلَىٰ",
+   "okunus": "tümlâ",
+   "kok": "ملو",
+   "kokAnlam": "dikte etme, okuma",
+   "karsilik": "okunup duruyor"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "kendisine"
+  },
+  {
+   "kelime": "بُكْرَةً",
+   "okunus": "bükraten",
+   "kok": "بكر",
+   "kokAnlam": "sabah, erken vakit",
+   "karsilik": "sabah"
+  },
+  {
+   "kelime": "وَأَصِيلًا",
+   "okunus": "ve esîlen",
+   "kok": "أصل",
+   "kokAnlam": "ikindi, akşam vakti",
+   "karsilik": "ve akşam"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet Kur'an'ı 'uydurma' olarak nitelendiren iddiayı aktarmıştı; 5. ayet aynı grubun bir başka iddiasını ekler: Kur'an'ın öncekilerin masallarından derlenip her sabah akşam kendisine okunduğunu ileri sürerler.",
+  "'Esâtîr' kökü yazılı efsaneleri, 'tümlâ' kökü dikte edilmeyi anlatır. Bu iddia da bir önceki gibi doğrudan reddedilmeden aktarılır, okuyucunun tutarsızlığı görmesi beklenir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:25",
+   "meal": "Onu dinlediklerinde kalplerine perde koyduk... 'Bu, eskilerin masallarından başka bir şey değildir' derler.",
+   "baglanti": "Aynı 'esâtîru'l-evvelîn' iddiasını, başka bir surede aynı ifadeyle tekrarlar."
+  },
+  {
+   "ref": "46:17",
+   "meal": "Ana babasına 'Beni mi diriltmekle tehdit ediyorsunuz?' diyen kimse 'Bu eskilerin masallarından başka bir şey değildir' der.",
+   "baglanti": "Aynı suçlamanın vahyi reddeden farklı kişiler tarafından da tekrarlandığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu yine vahyin kaynağına yönelik bir ithamdır, bu kez 'eskilerin masalı' suçlamasıdır.",
+  "Bugüne taşınabilecek ders, yeni ve rahatsız edici bir fikri araştırmadan 'zaten bilinen bir şey' diye küçümsemenin kolay ama yüzeysel bir tavır olduğudur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçümsemeden önce incele",
+   "aciklama": "Bugün yeni duyduğun bir fikri 'zaten biliyordum' diyerek geçiştirmeden önce anlamaya çalış."
+  },
+  {
+   "baslik": "Kaynağı araştır",
+   "aciklama": "Bir bilgiyi kabul etmeden önce nereden geldiğine bak, sadece ilk tepkine güvenme."
+  },
+  {
+   "baslik": "Sabır göster",
+   "aciklama": "Anlamadığın bir konuda hemen hüküm vermek yerine biraz zaman ayır."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda ilk tepkini vermeden önce bir kez daha düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/25/5"
+  }
+ ]
+}

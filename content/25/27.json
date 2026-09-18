@@ -1,0 +1,131 @@
+{
+ "sure": 25,
+ "ayet": 27,
+ "durum": "taslak",
+ "meal": "O gün zalim, ellerini ısırıp der ki: 'Keşke elçiyle birlikte bir yol tutsaydım!'",
+ "mealNotu": "'Add' kökü (عضض) ısırmayı, pişmanlıktan parmak ısırmayı anlatır. Ayet, kıyamet günü zalimin derin pişmanlığını, ellerini ısırma gibi güçlü bir bedensel imgeyle anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَيَوْمَ",
+   "okunus": "ve yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "يَعَضُّ",
+   "okunus": "yeaddu",
+   "kok": "عضض",
+   "kokAnlam": "ısırma",
+   "karsilik": "ısırır"
+  },
+  {
+   "kelime": "ٱلظَّالِمُ",
+   "okunus": "ezzâlimü",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, zulüm",
+   "karsilik": "zalim"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "يَدَيْهِ",
+   "okunus": "yedeyhi",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "ellerini"
+  },
+  {
+   "kelime": "يَقُولُ",
+   "okunus": "yekûlü",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "der"
+  },
+  {
+   "kelime": "يَٰلَيْتَنِى",
+   "okunus": "yâ leytenî",
+   "kok": "—",
+   "kokAnlam": "temenni: keşke",
+   "karsilik": "keşke"
+  },
+  {
+   "kelime": "ٱتَّخَذْتُ",
+   "okunus": "ittehaztü",
+   "kok": "أخذ",
+   "kokAnlam": "alma, edinme",
+   "karsilik": "tutsaydım"
+  },
+  {
+   "kelime": "مَعَ",
+   "okunus": "mea",
+   "kok": "—",
+   "kokAnlam": "beraberlik",
+   "karsilik": "ile birlikte"
+  },
+  {
+   "kelime": "ٱلرَّسُولِ",
+   "okunus": "errasûli",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçilik",
+   "karsilik": "elçiyle"
+  },
+  {
+   "kelime": "سَبِيلًا",
+   "okunus": "sebîlen",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "bir yol"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet kıyamet gününün kâfirler için ne kadar zorlu olacağını anlatmıştı; 27. ayet bu zorluğun somut bir örneğini verir: zalim, o gün elçiyle birlikte doğru yolu tutmadığı için derin bir pişmanlık duyar.",
+  "'Ellerini ısırma' ifadesi, sözle anlatılamayacak kadar büyük bir pişmanlığı bedensel bir tepkiyle gösterir; ayet bu sahneyle dünyadaki seçimlerin kıyamette geri alınamayacağını vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "39:56",
+   "meal": "Kişi 'Allah'ın yanında aşırı gitmemden dolayı yazıklar olsun bana!' der.",
+   "baglanti": "Kıyamet günündeki pişmanlık ifadelerinden biri olarak, benzer bir 'keşke' temasını tekrarlar."
+  },
+  {
+   "ref": "6:27",
+   "meal": "Ateşin karşısında durduruldukları vakit 'Ah, keşke dünyaya geri döndürülsek de Rabbimizin ayetlerini yalanlamasak' derler.",
+   "baglanti": "Kıyamette geri dönüp doğru yolu tutma isteğini benzer bir 'keşke' cümlesiyle aynı temada anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, doğru yolu bilerek reddetmenin kıyamette yol açacağı pişmanlıktır.",
+  "Bugüne taşınabilecek ders, bugün elindeki doğru bir rehberlik fırsatını değerlendirmemenin, yarın telafisi olmayan bir pişmanlığa dönüşebileceğidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Fırsatı kaçırma",
+   "aciklama": "Bugün elindeki doğru bir rehberliği (bir öğüt, bir uyarı) görmezden gelme."
+  },
+  {
+   "baslik": "Pişmanlığı bekleme",
+   "aciklama": "Yarın pişman olacağın bir şeyi bugünden düzeltmeye çalış."
+  },
+  {
+   "baslik": "Doğru yolu seç",
+   "aciklama": "Bugün kolay ama yanlış olanla zor ama doğru olan arasında doğru olanı seç."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin doğru bir adımı şimdi at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=27"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/25/27"
+  }
+ ]
+}

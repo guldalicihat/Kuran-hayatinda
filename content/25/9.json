@@ -1,0 +1,117 @@
+{
+ "sure": 25,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Bak, senin için nasıl örnekler verdiler de saptılar; artık bir yol bulmaya güçleri yetmiyor.",
+ "mealNotu": "'Darabû'l-emsâl' kalıbı (ضرب + مثل) benzetme/örnek yapmak anlamına gelir; burada müşriklerin peygamber için ürettikleri çelişkili nitelemeleri kastediyor. 'Dalâl' kökü (ضلل) yoldan sapmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "ٱنظُرْ",
+   "okunus": "inzur",
+   "kok": "نظر",
+   "kokAnlam": "bakma, görme",
+   "karsilik": "bak"
+  },
+  {
+   "kelime": "كَيْفَ",
+   "okunus": "keyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıllık",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "ضَرَبُوا۟",
+   "okunus": "darabû",
+   "kok": "ضرب",
+   "kokAnlam": "vurma, örnek verme",
+   "karsilik": "örnekler verdiler"
+  },
+  {
+   "kelime": "لَكَ",
+   "okunus": "leke",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "senin için"
+  },
+  {
+   "kelime": "ٱلْأَمْثَٰلَ",
+   "okunus": "el'emsâle",
+   "kok": "مثل",
+   "kokAnlam": "benzetme, örnek",
+   "karsilik": "benzetmeleri"
+  },
+  {
+   "kelime": "فَضَلُّوا۟",
+   "okunus": "fedallû",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, yolunu kaybetme",
+   "karsilik": "saptılar"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "artık ... değiller"
+  },
+  {
+   "kelime": "يَسْتَطِيعُونَ",
+   "okunus": "yestetîûne",
+   "kok": "طوع",
+   "kokAnlam": "itaat, güç yetirme",
+   "karsilik": "güç yetiremiyorlar"
+  },
+  {
+   "kelime": "سَبِيلًا",
+   "okunus": "sebîlen",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "bir yola"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki iki ayette müşriklerin peygambere yönelttiği çelişkili itirazlar (yemek yiyor, çarşıda dolaşıyor, hazinesi yok, büyülenmiş) sayılmıştı; 9. ayet bu itirazların tutarsızlığına dikkat çeker.",
+  "'Darabû'l-emsâl' ifadesi, onların ürettikleri her yeni benzetmenin aslında bir sapma olduğunu, doğru bir sonuca varamadıklarını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:48",
+   "meal": "Bak, senin için nasıl örnekler verdiler de saptılar; artık bir yol bulamıyorlar.",
+   "baglanti": "Neredeyse birebir aynı ifadeyle İsrâ suresinde de aynı sahneyi tekrarlar; müşriklerin itirazlarının ortak bir kalıp olduğunu gösterir."
+  },
+  {
+   "ref": "7:179",
+   "meal": "Kalpleri olup da anlamayan, gözleri olup da görmeyenler... işte onlar hayvanlar gibidir, hatta daha da şaşkındırlar.",
+   "baglanti": "Doğru yolu bulamayan bu kişilerin durumunu aynı 'sapma' temasıyla başka bir açıdan tasvir eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, müşriklerin birbiriyle çelişen itirazlar üretmesi ve bu yüzden doğru yola varamamasıdır.",
+  "Bugüne taşınabilecek ders, bir fikri reddetmek için sürekli yeni gerekçeler üretmenin, aslında o fikri anlamaktan kaçmanın bir yolu olabileceğidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Çelişkini fark et",
+   "aciklama": "Bir konuda birbirini tutmayan gerekçeler öne sürüp sürmediğini bugün kontrol et."
+  },
+  {
+   "baslik": "Gerçek itirazını bul",
+   "aciklama": "Bir fikre karşı çıkıyorsan asıl sebebinin ne olduğunu kendine dürüstçe sor."
+  },
+  {
+   "baslik": "Israrla doğru yolu ara",
+   "aciklama": "Bir konuda kafan karıştığında pes etmek yerine sorup öğrenmeye devam et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda gerçek itirazının ne olduğunu kendine yazılı olarak sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/25/9"
+  }
+ ]
+}

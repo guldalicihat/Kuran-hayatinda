@@ -1,0 +1,103 @@
+{
+ "sure": 25,
+ "ayet": 39,
+ "durum": "taslak",
+ "meal": "Her birine örnekler verdik, ve her birini de kökünden yok ettik.",
+ "mealNotu": "'Tebr' kökü (تبر) bir şeyi kökünden, tamamen yok etmeyi anlatır. Ayet, 38. ayette sayılan kavimlerin her birine önce uyarılar ve örnekler verildiğini, ama inatla reddettiklerinde kökten yok edildiklerini özetler.",
+ "kokler": [
+  {
+   "kelime": "وَكُلًّا",
+   "okunus": "ve küllen",
+   "kok": "كلل",
+   "kokAnlam": "bütünlük, her biri",
+   "karsilik": "her birine"
+  },
+  {
+   "kelime": "ضَرَبْنَا",
+   "okunus": "darabnâ",
+   "kok": "ضرب",
+   "kokAnlam": "vurma, örnek verme",
+   "karsilik": "örnekler verdik"
+  },
+  {
+   "kelime": "لَهُ",
+   "okunus": "lehü",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "ٱلْأَمْثَٰلَ",
+   "okunus": "el'emsâle",
+   "kok": "مثل",
+   "kokAnlam": "benzetme, örnek",
+   "karsilik": "benzetmeleri"
+  },
+  {
+   "kelime": "وَكُلًّا",
+   "okunus": "ve küllen",
+   "kok": "كلل",
+   "kokAnlam": "bütünlük, her biri",
+   "karsilik": "ve her birini"
+  },
+  {
+   "kelime": "تَبَّرْنَا",
+   "okunus": "tebbernâ",
+   "kok": "تبر",
+   "kokAnlam": "kökünden yok etme, param parça etme",
+   "karsilik": "kökünden yok ettik"
+  },
+  {
+   "kelime": "تَتْبِيرًا",
+   "okunus": "tetbîran",
+   "kok": "تبر",
+   "kokAnlam": "kökünden yok etme",
+   "karsilik": "tam bir yok edişle"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet birçok kavmin adını saymıştı; 39. ayet bu kavimlerin ortak akıbetini özetler: her birine uyarı niteliğinde örnekler/deliller verilmiş, ama inat etmeleri üzerine hepsi kökünden yok edilmiştir.",
+  "'Tebbernâ tetbîrâ' ifadesindeki tekrar, yok edişin kesinliğini ve şiddetini vurgular; bu, sadece bir ceza değil, geri dönüşü olmayan bir sonuçtur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:16",
+   "meal": "Bir ülkeyi helak etmek istediğimizde, oranın varlıklılarına iyilikleri emrederiz de onlar orada kötülük işlerler; böylece o ülke hakkındaki söz gerçekleşir, onu darmadağın ederiz.",
+   "baglanti": "Helakin, önce bir fırsat/uyarı verildikten sonra gerçekleştiğini benzer bir mantıkla açıklar."
+  },
+  {
+   "ref": "29:40",
+   "meal": "Her birini kendi günahıyla yakaladık; kimine taş yağdıran bir kasırga, kimine korkunç bir ses, kimini yerin dibine geçirme, kimini de boğulma.",
+   "baglanti": "Helak edilen kavimlerin her birinin farklı ama kesin bir cezayla yok edildiğini, buradaki listeyi tamamlayarak gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, uyarılara rağmen inat eden kavimlerin kesin bir şekilde yok edilmesidir.",
+  "Bugüne taşınabilecek ders, sana verilen bir uyarıyı, bir fırsatı görmezden gelmenin bedelinin ağır olabileceğini hatırlamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Fırsatı değerlendir",
+   "aciklama": "Bugün sana verilen bir uyarıyı veya öğüdü değerlendirip harekete geç."
+  },
+  {
+   "baslik": "İnat etme",
+   "aciklama": "Yanlış olduğunu bildiğin bir tutumda ısrar etmekten vazgeç."
+  },
+  {
+   "baslik": "Zamanında düzelt",
+   "aciklama": "Küçük bir hatayı, büyümeden önce bugün düzelt."
+  }
+ ],
+ "bugununAdimi": "Bugün sana verilen bir uyarıyı dikkate alıp küçük bir değişiklik yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=39"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/25/39"
+  }
+ ]
+}

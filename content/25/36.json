@@ -1,0 +1,117 @@
+{
+ "sure": 25,
+ "ayet": 36,
+ "durum": "taslak",
+ "meal": "Dedik ki: 'İkiniz, ayetlerimizi yalanlayan kavme gidin.' Sonunda onları yerle bir ettik.",
+ "mealNotu": "'Demr' kökü (دمر) tam bir yıkımı, kökten helak etmeyi anlatır. Ayet, Musa ve Harun'un Firavun'un kavmine gönderilişini ve o kavmin ayetleri yalanlaması sonucu helak edilişini özetler.",
+ "kokler": [
+  {
+   "kelime": "فَقُلْنَا",
+   "okunus": "fekulnâ",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "dedik"
+  },
+  {
+   "kelime": "ٱذْهَبَآ",
+   "okunus": "izhebâ",
+   "kok": "ذهب",
+   "kokAnlam": "gitme",
+   "karsilik": "ikiniz gidin"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْقَوْمِ",
+   "okunus": "elkavmi",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "kavme"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "ki onlar"
+  },
+  {
+   "kelime": "كَذَّبُوا۟",
+   "okunus": "kezzebû",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanladılar"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِنَا",
+   "okunus": "biâyâtinâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "ayetlerimizi"
+  },
+  {
+   "kelime": "فَدَمَّرْنَٰهُمْ",
+   "okunus": "fedemmernâhüm",
+   "kok": "دمر",
+   "kokAnlam": "yıkma, helak etme",
+   "karsilik": "sonunda onları yerle bir ettik"
+  },
+  {
+   "kelime": "تَدْمِيرًا",
+   "okunus": "tedmîran",
+   "kok": "دمر",
+   "kokAnlam": "yıkma, helak etme",
+   "karsilik": "tam bir yıkımla"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet Musa'ya Kitap verildiğini ve Harun'un ona yardımcı kılındığını anlatmıştı; 36. ayet bu ikilinin görevini özetler: ayetleri yalanlayan bir kavme (Firavun ve halkına) gönderilirler.",
+  "Kıssa burada çok kısa tutulur, sadece sonucuyla anılır: o kavim, yalanlaması yüzünden tam bir yıkımla helak edilmiştir. Bu özetleme, surenin asıl amacının tarihi ayrıntı vermek değil, ibret çıkarmak olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:10",
+   "meal": "Rabbin Musa'ya 'Zalimler kavmine, Firavun'un kavmine git; sakınmayacaklar mı?' diye seslenmişti.",
+   "baglanti": "Musa'nın zalim bir kavme gönderilişini, aynı olayın başka bir surede anlatılan versiyonuyla tamamlar."
+  },
+  {
+   "ref": "7:136",
+   "meal": "Bunun üzerine onlardan intikam aldık, onları denizde boğduk; çünkü ayetlerimizi yalanlamışlardı.",
+   "baglanti": "Firavun kavminin ayetleri yalanlaması sonucu helak edilişini doğrudan teyit eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Firavun kavminin ayetleri yalanlaması ve bunun sonucunda helak olmasıdır.",
+  "Bugüne taşınabilecek ders, gerçeği ısrarla reddetmenin er ya da geç bir bedeli olduğunu hatırlamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gerçeği reddetmekte ısrar etme",
+   "aciklama": "Bugün kabul etmekte zorlandığın bir gerçeği, inatla reddetmek yerine üzerinde düşün."
+  },
+  {
+   "baslik": "Uyarıyı ciddiye al",
+   "aciklama": "Sana yapılan haklı bir uyarıyı görmezden gelme."
+  },
+  {
+   "baslik": "Geçmişten ders çıkar",
+   "aciklama": "Bugün, geçmişte yanlış giden bir şeyden ders çıkarıp aynı hatayı tekrarlama."
+  }
+ ],
+ "bugununAdimi": "Bugün sana yapılan bir uyarıyı ciddiye alıp buna göre davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=25&verse=36"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/25/36"
+  }
+ ]
+}
