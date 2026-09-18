@@ -1,25 +1,26 @@
 {
  "sure": 8,
  "ayet": 66,
+ "durum": "incelendi",
  "meal": "Şimdi Allah yükünüzü hafifletti ve sizde bir zayıflık olduğunu bildi. Artık sizden sabırlı yüz kişi olursa iki yüz kişiye galip gelirler; sizden bin kişi olursa Allah'ın izniyle iki bin kişiye galip gelirler. Allah sabredenlerle beraberdir.",
  "mealNotu": "'Haffefe' kökü hafifletmeyi, 'da'f' kökü zayıflığı anlatır. 'Yükünüzü' kelimesi Arapçada açıkça geçmez; 'sizden hafifletti' ifadesinin Türkçede tamamlanması için konmuştur. 'İzin' kökü (e-z-n) işitmeyle ilgilidir; izin, işitilip onaylanan şeydir.",
  "kokler": [
   {
-   "kelime": "ٱلْـَٰٔنَ",
+   "kelime": "ٱلْـَٰٔنَ",
    "okunus": "el'âne",
    "kok": "أون",
    "kokAnlam": "şimdi, şu an",
    "karsilik": "şimdi"
   },
   {
-   "kelime": "خَفَّفَ",
+   "kelime": "خَفَّفَ",
    "okunus": "haffefe",
    "kok": "خفف",
    "kokAnlam": "hafifletme, yükü azaltma",
    "karsilik": "hafifletti"
   },
   {
-   "kelime": "ٱللَّهُ",
+   "kelime": "ٱللَّهِ",
    "okunus": "allâhü",
    "kok": "أله",
    "kokAnlam": "tapınılan, ilah",
@@ -40,7 +41,7 @@
    "karsilik": "ve bildi"
   },
   {
-   "kelime": "أَنَّ",
+   "kelime": "أَنَّ",
    "okunus": "enne",
    "kok": "—",
    "kokAnlam": "(pekiştirme) ki",
@@ -75,7 +76,7 @@
    "karsilik": "olursa"
   },
   {
-   "kelime": "مِّا۟ئَةٌ",
+   "kelime": "مِّا۟ئَةٌ",
    "okunus": "mietün",
    "kok": "مأي",
    "kokAnlam": "yüz",
@@ -89,7 +90,7 @@
    "karsilik": "sabırlı"
   },
   {
-   "kelime": "يَغْلِبُوا۟",
+   "kelime": "يَغْلِبُوٓا۟",
    "okunus": "yağlibû",
    "kok": "غلب",
    "kokAnlam": "üstün gelme, yenme",
@@ -131,7 +132,7 @@
    "karsilik": "beraberdir"
   },
   {
-   "kelime": "ٱلصَّٰبِرِينَ",
+   "kelime": "ٱلصَّٰبِرِينَ",
    "okunus": "essâbirîne",
    "kok": "صبر",
    "kokAnlam": "tutma, dayanma, direnme",
@@ -173,7 +174,6 @@
   }
  ],
  "bugununAdimi": "Bugün seni zorlayan bir planı yarıya indir ve o yarıyı bugün tamamla.",
- "durum": "taslak",
  "kaynaklar": [
   {
    "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",

@@ -1,25 +1,26 @@
 {
  "sure": 8,
  "ayet": 65,
+ "durum": "incelendi",
  "meal": "Ey Peygamber! Müminleri savaşa teşvik et. Sizden sabırlı yirmi kişi olursa iki yüz kişiye galip gelirler; sizden yüz kişi olursa inkâr edenlerden bin kişiye galip gelirler. Çünkü onlar, derinlemesine kavramayan bir topluluktur.",
  "mealNotu": "Kök temelli meal. 'Kıtâl' kökü doğrudan savaşmayı anlatır; 'hakkı ve akıbeti' gibi ifadeler bazı meallerde yer alan yorum ekleridir, burada yoktur. 'Yefkahûn' fiili fıkıh kökünden gelir ve derinlemesine anlamayı ifade eder; bu yüzden yalnız 'anlamayan' değil 'derinlemesine kavramayan' denmiştir.",
  "kokler": [
   {
-   "kelime": "يَٰٓأَيُّهَا",
+   "kelime": "يَٰٓأَيُّهَا",
    "okunus": "yâ eyyühâ",
    "kok": "أيي",
    "kokAnlam": "(nida) ey",
    "karsilik": "ey"
   },
   {
-   "kelime": "ٱلنَّبِىُّ",
+   "kelime": "ٱلنَّبِىُّ",
    "okunus": "ennebiyyü",
    "kok": "نبأ",
    "kokAnlam": "haber; haber getiren",
    "karsilik": "Peygamber"
   },
   {
-   "kelime": "حَرِّضِ",
+   "kelime": "حَرِّضِ",
    "okunus": "harridı",
    "kok": "حرض",
    "kokAnlam": "teşvik etme, isteklendirme, gayrete getirme",
@@ -61,7 +62,7 @@
    "karsilik": "olursa"
   },
   {
-   "kelime": "مِّنكُمْ",
+   "kelime": "مِّنكُم",
    "okunus": "minküm",
    "kok": "—",
    "kokAnlam": "(edat + zamir) sizden",
@@ -82,7 +83,7 @@
    "karsilik": "sabırlı kişi"
   },
   {
-   "kelime": "يَغْلِبُوا۟",
+   "kelime": "يَغْلِبُوٓا۟",
    "okunus": "yağlibû",
    "kok": "غلب",
    "kokAnlam": "üstün gelme, yenme",
@@ -96,7 +97,7 @@
    "karsilik": "iki yüze"
   },
   {
-   "kelime": "مِّا۟ئَةٌ",
+   "kelime": "مِّا۟ئَةٌ",
    "okunus": "mietün",
    "kok": "مأي",
    "kokAnlam": "yüz",
@@ -166,7 +167,6 @@
   }
  ],
  "bugununAdimi": "Ertelediğin bir işi seç; bugün tamamlayacağın küçük kısmını yaz ve uygulamaya başla.",
- "durum": "taslak",
  "kaynaklar": [
   {
    "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
