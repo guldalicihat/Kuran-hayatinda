@@ -1,0 +1,110 @@
+{
+ "sure": 21,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "Andolsun, size içinde zikriniz olan bir kitap indirdik. Hâlâ akletmiyor musunuz?",
+ "mealNotu": "'Zikruküm' ifadesi 'zikir' kökünden gelir; hem 'sizin öğüdünüz' hem de 'sizin anılışınız, şerefiniz' anlamına gelebilir, burada [size seslenen öğüt/hatırlatma] anlamı esas alınmıştır. 'Ta'kılûn' (عقل) fiili akletmeyi, bağı kurup anlamayı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "لَقَدْ",
+   "okunus": "lekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) andolsun, gerçekten",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "أَنزَلْنَآ",
+   "okunus": "enzelnâ",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdik"
+  },
+  {
+   "kelime": "إِلَيْكُمْ",
+   "okunus": "ileyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "كِتَٰبًا",
+   "okunus": "kitâben",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "bir kitap"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ذِكْرُكُمْ",
+   "okunus": "zikruküm",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlatma, anma, öğüt",
+   "karsilik": "zikriniz [öğüdünüz]"
+  },
+  {
+   "kelime": "أَفَلَا",
+   "okunus": "efelâ",
+   "kok": "—",
+   "kokAnlam": "(soru + olumsuzluk) hâlâ ...mı değil",
+   "karsilik": "hâlâ ...mı"
+  },
+  {
+   "kelime": "تَعْقِلُونَ",
+   "okunus": "ta'kılûne",
+   "kok": "عقل",
+   "kokAnlam": "akletme, bağ kurup anlama",
+   "karsilik": "akletmiyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki bölümde anlatılan geçmiş kavimlerin akıbetinden sonra, muhataplara doğrudan seslenir: onlara da içinde kendileri için öğüt ve hatırlatma taşıyan bir kitap indirilmiştir. Bu, geçmişteki uyarıların bir devamı, ama aynı zamanda yeni bir fırsattır.",
+  "'Hâlâ akletmiyor musunuz' sorusu, kitaptaki mesajın anlaşılması için sadece dinlemenin değil, düşünüp bağ kurmanın gerektiğini vurgular. Ayet böylece 1-9 arasındaki uyarıları, akıl kullanma çağrısıyla toparlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "43:44",
+   "meal": "Şüphesiz bu (Kur'an), senin için de kavmin için de bir zikirdir (şereftir); yakında sorgulanacaksınız.",
+   "baglanti": "Aynı kök ve tema burada tekrarlanır: Kur'an, indirildiği topluma bir zikir (öğüt ve şeref) olarak sunulur."
+  },
+  {
+   "ref": "38:29",
+   "meal": "Bu, sana indirdiğimiz mübarek bir kitaptır; ayetlerini düşünsünler ve akıl sahipleri öğüt alsın diye.",
+   "baglanti": "21:10'daki 'akletmiyor musunuz' sorusu, burada kitabın indiriliş amacı olarak açıkça belirtilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın indiriliş amacıdır: insanlara öğüt ve hatırlatma olması. Bu, doğrudan vahiyle ilgili bir konudur.",
+  "Günlük hayata taşınabilecek ders, bir metni ya da öğüdü sadece okumakla yetinmeyip üzerinde düşünmektir. Akletmek, duyduğunu hayatındaki karşılığıyla ilişkilendirmek demektir; bu, okumayı anlamlı kılan adımdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Okuduğun üzerine düşün",
+   "aciklama": "Bugün okuduğun bir ayeti veya öğüdü, sadece geçmeden, kendi hayatınla ilişkilendirerek düşün."
+  },
+  {
+   "baslik": "Anlamadan geçme",
+   "aciklama": "Anlamadığın bir konuyu bugün araştır, sadece tekrarlayıp geçme."
+  },
+  {
+   "baslik": "Bir öğüdü uygula",
+   "aciklama": "Bugün öğrendiğin bir öğüdü, en azından bir kere somut bir davranışa dönüştür."
+  }
+ ],
+ "bugununAdimi": "Bugün okuduğun bir ayetin anlamını, kendi hayatındaki bir örnekle birlikte bir cümleyle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/21/10"
+  }
+ ]
+}

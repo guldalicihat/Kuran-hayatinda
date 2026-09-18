@@ -1,0 +1,89 @@
+{
+ "sure": 21,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "Dediler: 'Eyvah bize! Gerçekten biz zalimler olmuştuk.'",
+ "mealNotu": "'Veylenâ' ifadesi bir feryat, çaresizlik ünlemidir; 'eyvah bize' bu duyguyu karşılamak için kullanıldı. 'Künnâ zâlimîn' ifadesi geçmiş zamanla, artık değişmeyecek bir itirafı anlatır.",
+ "kokler": [
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "يَٰوَيْلَنَآ",
+   "okunus": "yâ veylenâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) eyvah bize",
+   "karsilik": "eyvah bize"
+  },
+  {
+   "kelime": "إِنَّا",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten biz",
+   "karsilik": "gerçekten biz"
+  },
+  {
+   "kelime": "كُنَّا",
+   "okunus": "künnâ",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idik"
+  },
+  {
+   "kelime": "ظَٰلِمِينَ",
+   "okunus": "zâlimîne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık etme, zulüm",
+   "karsilik": "zalimler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, kaçan ve geri çağrılan topluluğun son sözünü aktarır: artık her şey bittikten sonra gelen bir itiraf. 'Eyvah bize, gerçekten biz zalimlermişiz' cümlesi, geç kalmış bir pişmanlığı anlatır.",
+  "Bu itiraf, önceki ayetlerdeki alay ve inkârla tam bir tezat oluşturur. Klasik tefsir, bu sahneyi, imanın ve tevbenin ancak fırsat varken bir değer taşıdığına, azap anındaki itirafın artık fayda vermediğine örnek olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:5",
+   "meal": "Kendilerine azabımız geldiğinde onların sözü, sadece 'Biz gerçekten zalimlermişiz' demekten başka olmadı.",
+   "baglanti": "Neredeyse aynı itiraf burada da geçer; azap anındaki geç kalmış pişmanlığın tekrar eden bir kalıbı olduğunu gösterir."
+  },
+  {
+   "ref": "23:65",
+   "meal": "'Bugün feryat etmeyin; şüphesiz siz bizim katımızdan yardım olunmazsınız.'",
+   "baglanti": "21:14'teki feryada, başka bir surede doğrudan cevap olarak, artık yardımın mümkün olmadığı bildirilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, azap anında dile getirilen ama artık fayda vermeyen bir pişmanlık itirafıdır. Bu, geçmiş bir kıssanın son sahnesidir.",
+  "Günlük hayata taşınabilecek ders, bir hatayı fark etmenin değerinin, onu düzeltme fırsatı varken olduğudur. İş işten geçtikten sonra söylenen 'keşke' sözleri, elbette bir farkındalık taşır ama artık değiştirme gücü kalmamış olur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geç kalmadan itiraf et",
+   "aciklama": "Bugün fark ettiğin bir hatanı, iş işten geçmeden, hemen düzeltmeye çalış."
+  },
+  {
+   "baslik": "Pişmanlığı harekete çevir",
+   "aciklama": "'Keşke böyle yapmasaydım' dediğin bir şeyi, bugün somut bir değişiklikle telafi et."
+  },
+  {
+   "baslik": "Fırsatın kıymetini bil",
+   "aciklama": "Bir şeyi düzeltme imkânın hâlâ varken, bunu ertelemeden değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün, geç kalmadan önce, ertelediğin bir özrü ya da düzeltmeyi şimdi yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/21/14"
+  }
+ ]
+}

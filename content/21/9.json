@@ -1,0 +1,110 @@
+{
+ "sure": 21,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Sonra onlara verdiğimiz sözü doğruladık (yerine getirdik); onları ve dilediğimiz kimseleri kurtardık, haddi aşanları ise helak ettik.",
+ "mealNotu": "'Sadaknâ' kökü (صدق) doğru olmayı, sözünde durmayı anlatır; burada vaadin gerçekleşmesi kastedilir. 'Müsrifîn' kelimesi (سرف) israf/haddi aşma kökünden gelir; hem kaynağı boşa harcamayı hem de sınırı aşmayı içerir.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "صَدَقْنَٰهُمُ",
+   "okunus": "sadeknâhümü",
+   "kok": "صدق",
+   "kokAnlam": "doğru olma, sözünde durma",
+   "karsilik": "onlara doğruladık"
+  },
+  {
+   "kelime": "ٱلْوَعْدَ",
+   "okunus": "elva'de",
+   "kok": "وعد",
+   "kokAnlam": "söz verme, vaad",
+   "karsilik": "vaadi"
+  },
+  {
+   "kelime": "فَأَنجَيْنَٰهُمْ",
+   "okunus": "feenceynâhüm",
+   "kok": "نجو",
+   "kokAnlam": "kurtarma, kurtuluşa erdirme",
+   "karsilik": "onları kurtardık"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve kimi",
+   "karsilik": "ve kimi"
+  },
+  {
+   "kelime": "نَّشَآءُ",
+   "okunus": "neşâü",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilersek"
+  },
+  {
+   "kelime": "وَأَهْلَكْنَا",
+   "okunus": "ve ehleknâ",
+   "kok": "هلك",
+   "kokAnlam": "yok etme, helak etme",
+   "karsilik": "ve helak ettik"
+  },
+  {
+   "kelime": "ٱلْمُسْرِفِينَ",
+   "okunus": "elmüsrifîne",
+   "kok": "سرف",
+   "kokAnlam": "israf etme, haddi aşma",
+   "karsilik": "haddi aşanları"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, elçilerin insan oluşuyla ilgili anlatımdan, gönderildikleri toplumların akıbetine geçer: Allah, elçilerine verdiği yardım vaadini yerine getirmiş, onları ve iman edenleri kurtarmış, haddi aşanları ise helak etmiştir.",
+  "'Müsrifîn' (haddi aşanlar) ifadesi, helakin sebebinin sadece inkâr değil, sınırı aşan bir tutum olduğunu vurgular. Bu, sonraki ayetlerde anlatılacak kavim kıssalarına bir geçiş cümlesidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:103",
+   "meal": "Sonra biz elçilerimizi ve iman edenleri kurtarırız; üzerimize bir haktır bu, iman edenleri kurtarmak.",
+   "baglanti": "Aynı ilke burada da tekrarlanır: elçileri ve onlara inananları kurtarmak, Allah'ın değişmeyen bir vaadidir."
+  },
+  {
+   "ref": "54:34",
+   "meal": "Biz de Lût'un ailesi dışında üzerlerine taş yağdıran bir kasırga gönderdik; onları seher vaktinde katımızdan bir nimet olarak kurtardık.",
+   "baglanti": "Kurtuluş vaadinin somut bir örneğini gösterir; 21:9'daki genel ilke burada tek bir kıssada gerçekleşir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş elçilerin kavimlerine verilen kurtuluş ve helak vaadidir. Bu, tarihsel ve ilahi bir hükme dair bir bildirimdir.",
+  "Buradan çıkarılabilecek genel ders, sınırı aşan (müsrif) bir yaşayışın er ya da geç bir karşılığı olduğudur. Kaynakları, ilişkileri veya imkânları ölçüsüz kullanmak, kısa vadede fark edilmese de birikimli bir bedeli olan bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir israfını azalt",
+   "aciklama": "Bugün zaman, para veya yiyecek konusunda bir israfını fark et ve o an küçült."
+  },
+  {
+   "baslik": "Sınırını bil",
+   "aciklama": "Bir konuda haddi aştığını hissettiğin anda dur ve neden orada durman gerektiğini düşün."
+  },
+  {
+   "baslik": "Sözünde dur",
+   "aciklama": "Bugün birine verdiğin küçük bir sözü, Allah'ın vaadini yerine getirmesi gibi eksiksiz yerine getir."
+  }
+ ],
+ "bugununAdimi": "Bugün, tükettiğin bir şeyde (zaman, para, yiyecek) fark ettiğin bir israfı azalt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/21/9"
+  }
+ ]
+}

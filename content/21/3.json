@@ -1,0 +1,159 @@
+{
+ "sure": 21,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Kalpleri oyalanmış haldedir. Zulmedenler gizlice fısıldaştılar: 'Bu, sizin gibi bir beşerden başka bir şey mi? Siz göz göre göre sihre mi geliyorsunuz?'",
+ "mealNotu": "'Lâhiyeten' kelimesi 'lehv' kökünden gelir, oyalanmayı ve asıl meseleden uzaklaşmayı anlatır. 'Tübsırûne' (بصر) fiili görme kökünden gelir; 'göz göre göre' ifadesi bu köke dayanır, [bile bile] anlamını taşır.",
+ "kokler": [
+  {
+   "kelime": "لَاهِيَةً",
+   "okunus": "lâhiyeten",
+   "kok": "لهو",
+   "kokAnlam": "oyalanma, asıl işten uzaklaşma",
+   "karsilik": "oyalanmış halde"
+  },
+  {
+   "kelime": "قُلُوبُهُمْ",
+   "okunus": "kulûbühüm",
+   "kok": "قلب",
+   "kokAnlam": "kalp",
+   "karsilik": "kalpleri"
+  },
+  {
+   "kelime": "وَأَسَرُّوا۟",
+   "okunus": "ve eserrû",
+   "kok": "سرر",
+   "kokAnlam": "gizleme, saklama",
+   "karsilik": "gizlice fısıldaştılar"
+  },
+  {
+   "kelime": "ٱلنَّجْوَى",
+   "okunus": "ennecvâ",
+   "kok": "نجو",
+   "kokAnlam": "gizli konuşma, fısıltı",
+   "karsilik": "fısıltıyı"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) -ler ki",
+   "karsilik": "-ler ki"
+  },
+  {
+   "kelime": "ظَلَمُوا۟",
+   "okunus": "zalemû",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık etme, zulüm",
+   "karsilik": "zulmedenler"
+  },
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "(soru) mı",
+   "karsilik": "mı"
+  },
+  {
+   "kelime": "هَٰذَآ",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) başka değil",
+   "karsilik": "başka değil"
+  },
+  {
+   "kelime": "بَشَرٌ",
+   "okunus": "beşerun",
+   "kok": "بشر",
+   "kokAnlam": "insan, beşer",
+   "karsilik": "bir beşerden"
+  },
+  {
+   "kelime": "مِّثْلُكُمْ",
+   "okunus": "mislüküm",
+   "kok": "مثل",
+   "kokAnlam": "benzer, örnek",
+   "karsilik": "sizin gibi"
+  },
+  {
+   "kelime": "أَفَتَأْتُونَ",
+   "okunus": "efete'tûne",
+   "kok": "أتي",
+   "kokAnlam": "gelme, yönelme",
+   "karsilik": "geliyor musunuz"
+  },
+  {
+   "kelime": "ٱلسِّحْرَ",
+   "okunus": "essihra",
+   "kok": "سحر",
+   "kokAnlam": "sihir, büyü",
+   "karsilik": "sihre"
+  },
+  {
+   "kelime": "وَأَنتُمْ",
+   "okunus": "ve entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) oysa siz",
+   "karsilik": "oysa siz"
+  },
+  {
+   "kelime": "تُبْصِرُونَ",
+   "okunus": "tübsırûne",
+   "kok": "بصر",
+   "kokAnlam": "görme, gözle idrak etme",
+   "karsilik": "göz göre göre görüyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki 'oyun oynayarak dinleme' tavrının kaynağına iner: kalpler oyalanmış, asıl meseleden kopmuştur. Zulmedenler, bu oyalanmışlık içinde birbirlerine gizlice, alay dolu sorular fısıldarlar: peygamberin sadece kendileri gibi bir insan olduğunu, getirdiğinin de sihir olduğunu ileri sürerler.",
+  "'Göz göre göre' ifadesi, bu itirazın bilgisizlikten değil, inatla gerçeği görmezden gelmekten kaynaklandığını gösterir. Klasik tefsir bu ayeti, Mekke müşriklerinin vahiy karşısındaki tekrarlanan itirazlarından biri olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:7",
+   "meal": "Dediler ki: 'Bu ne biçim peygamber, yemek yiyor ve çarşılarda dolaşıyor?'",
+   "baglanti": "Aynı itiraz burada da tekrarlanır: peygamberin sıradan bir insan olması, onlara göre elçiliğine engel gösterilir."
+  },
+  {
+   "ref": "74:24",
+   "meal": "Sonra dedi ki: 'Bu, nakledilegelen bir sihirden başka bir şey değildir.'",
+   "baglanti": "Sihir suçlaması, Kur'an'da tekrar eden bir itham olarak geçer; 21:3'teki 'sihre mi geliyorsunuz' sorusunun bir başka örneğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Mekke müşriklerinin peygamberi ve vahyi reddetme biçimidir. Konuşulan şey özel bir tarihi tartışmadır; ancak arkasındaki tutum -gerçeği görüp bile bile inkâr etmek- genel bir insan zaafına işaret eder.",
+  "Günlük hayatta bunun karşılığı, doğruluğu açık olan bir şeye, sırf rahatsız edici olduğu için kulak tıkamaktır. Ayet, kalbin oyalanmasının önce dikkati dağıttığını, sonra da açık gerçeği görmezden gelmeye götürdüğünü hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kalbini oyalanmadan ayır",
+   "aciklama": "Bugün önemli bir konuyu düşünürken dikkatini dağıtan şeyi bir kenara bırak."
+  },
+  {
+   "baslik": "Bile bile inkârdan kaçın",
+   "aciklama": "Doğru olduğunu bildiğin ama işine gelmeyen bir şeyi kabul etmekten kaçınıp kaçınmadığını gözden geçir."
+  },
+  {
+   "baslik": "Alaycı üsluptan uzak dur",
+   "aciklama": "Bugün bir konuda ciddi bir eleştiri yapman gerekiyorsa, alayla değil açık ve dürüst konuşarak yap."
+  }
+ ],
+ "bugununAdimi": "Bugün, görmezden geldiğin ama doğruluğunu bildiğin bir konuyu yazıya dök ve ona nasıl yaklaşacağına karar ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/21/3"
+  }
+ ]
+}

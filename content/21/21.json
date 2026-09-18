@@ -1,0 +1,103 @@
+{
+ "sure": 21,
+ "ayet": 21,
+ "durum": "taslak",
+ "meal": "Yoksa onlar, yerden, [ölüleri] diriltebilecek ilahlar mı edindiler?",
+ "mealNotu": "'Yünşirûn' kökü (نشر) yayma ve diriltmeyi anlatır; burada ölüleri diriltme gücü kastedilir, bu yüzden köşeli parantezle [ölüleri] eklendi. 'Emi' (yoksa) sorusu, önceki ayetlerdeki gerçek tevhid tablosundan sonra sahte ilahlara alaycı bir geçiş yapar.",
+ "kokler": [
+  {
+   "kelime": "أَمِ",
+   "okunus": "emi",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "ٱتَّخَذُوٓا۟",
+   "okunus": "ittehazû",
+   "kok": "أخذ",
+   "kokAnlam": "edinme, alma",
+   "karsilik": "edindiler"
+  },
+  {
+   "kelime": "ءَالِهَةً",
+   "okunus": "âliheten",
+   "kok": "أله",
+   "kokAnlam": "ilah, tapınılan",
+   "karsilik": "ilahlar"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yerden"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar [o ilahlar]"
+  },
+  {
+   "kelime": "يُنشِرُونَ",
+   "okunus": "yünşirûne",
+   "kok": "نشر",
+   "kokAnlam": "yayma, diriltme",
+   "karsilik": "diriltebilecek"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 19-20. ayetlerde anlatılan meleklerin gerçek konumundan sonra, müşriklerin yerden -yani topraktan yontulmuş putlardan- edindiği sahte ilahları sorgular: bu ilahlar, ölüleri diriltmek gibi bir güce sahip midir?",
+  "Soru, kendi cevabını taşır: cansız maddeden yapılmış bir put, diriltme gücüne sahip olamaz. Bu, ilahlığın en temel şartlarından birinin -yaratma ve diriltme gücü- sahte ilahlarda bulunmadığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:3",
+   "meal": "Onlar, O'ndan başka, hiçbir şey yaratamayan, kendileri yaratılmış olan, kendilerine bile ne zarar ne yarar veremeyen, öldürmeye, diriltmeye ve yeniden diriltmeye güç yetiremeyen ilahlar edindiler.",
+   "baglanti": "21:21'deki soru burada ayrıntılı bir listeyle cevaplanır: sahte ilahların ne yaratma, ne zarar-yarar, ne de diriltme gücü vardır."
+  },
+  {
+   "ref": "46:5",
+   "meal": "Allah'ı bırakıp da kıyamete kadar kendisine cevap veremeyecek şeylere yalvarandan daha sapık kim olabilir?",
+   "baglanti": "Diriltme gücü olmayan ilahların aynı zamanda dua ve seslenişe de cevap veremediğini vurgulayarak konuyu genişletir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, putperestlerin edindiği sahte ilahların güçsüzlüğüdür. Bu, doğrudan tevhid ve şirk karşıtlığıyla ilgili bir konudur.",
+  "Günlük hayata taşınabilecek ders, güç yakıştırdığımız şeylerin gerçekten o gücü taşıyıp taşımadığını sorgulamaktır. İnsan bazen parayı, statüyü veya bir kişiyi, sanki hayatı ve ölümü elinde tutan bir güçmüş gibi büyütebilir; bu ayet, gerçek gücün kaynağını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Abarttığın gücü sorgula",
+   "aciklama": "Bugün, aşırı önem verdiğin bir şeyin (para, itibar, kişi) gerçekte ne kadar güce sahip olduğunu düşün."
+  },
+  {
+   "baslik": "Gerçek kaynağa yönel",
+   "aciklama": "Bir ihtiyacın olduğunda, önce Allah'a yönelmeyi unutmadan araçlara başvur."
+  },
+  {
+   "baslik": "Boş güvenceden vazgeç",
+   "aciklama": "Güvendiğin ama aslında sana fayda ya da zarar veremeyecek bir şeye olan aşırı bağlılığını azalt."
+  }
+ ],
+ "bugununAdimi": "Bugün, aşırı güvendiğin bir şeyin (eşya, kişi, statü) gerçek sınırlarını bir cümleyle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=21"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/21/21"
+  }
+ ]
+}

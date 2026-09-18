@@ -1,0 +1,110 @@
+{
+ "sure": 21,
+ "ayet": 26,
+ "durum": "taslak",
+ "meal": "'Rahmân çocuk edindi' dediler. O, bundan münezzehtir. Hayır, [melekler] ikram edilmiş kullardır.",
+ "mealNotu": "'Veled' kökü (ولد) doğurma yoluyla çocuk sahibi olmayı anlatır; Allah'a yakıştırılan bu iddia, hemen 'sübhânehû' (O münezzehtir) ile reddedilir. 'Mükramûn' kelimesi (كرم) ikram edilmiş, şereflendirilmiş olmayı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَقَالُوا۟",
+   "okunus": "ve kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "ٱتَّخَذَ",
+   "okunus": "ittehaze",
+   "kok": "أخذ",
+   "kokAnlam": "edinme, alma",
+   "karsilik": "edindi"
+  },
+  {
+   "kelime": "ٱلرَّحْمَٰنُ",
+   "okunus": "errahmânü",
+   "kok": "رحم",
+   "kokAnlam": "esirgeme, rahmet",
+   "karsilik": "Rahmân"
+  },
+  {
+   "kelime": "وَلَدًا",
+   "okunus": "veleden",
+   "kok": "ولد",
+   "kokAnlam": "doğurma, çocuk sahibi olma",
+   "karsilik": "çocuk"
+  },
+  {
+   "kelime": "سُبْحَٰنَهُۥ",
+   "okunus": "sübhânehû",
+   "kok": "سبح",
+   "kokAnlam": "tenzih etme, eksiklikten uzak tutma",
+   "karsilik": "O münezzehtir"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) hayır, aksine",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "عِبَادٌ",
+   "okunus": "ibâdün",
+   "kok": "عبد",
+   "kokAnlam": "kulluk eden, kul",
+   "karsilik": "kullardır"
+  },
+  {
+   "kelime": "مُّكْرَمُونَ",
+   "okunus": "mükramûne",
+   "kok": "كرم",
+   "kokAnlam": "ikram etme, şereflendirme",
+   "karsilik": "ikram edilmiş"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 19-20. ayetlerde anlatılan meleklerin gerçek konumuna dönerek, müşriklerin 'Rahmân çocuk edindi' iddiasını (meleklerin Allah'ın kızları olduğu inancını) reddeder. Bu iddia, hem Allah'ın münezzeh oluşuna hem de meleklerin gerçek kimliğine aykırıdır.",
+  "Meleklerin 'ikram edilmiş kullar' olarak tanımlanması, onların ne ilah ne de Allah'ın çocuğu, sadece şereflendirilmiş, itaatkâr varlıklar olduğunu netleştirir. Sonraki iki ayet, bu kulluğun niteliğini -sözde öne geçmeme, emirle hareket etme- anlatarak konuyu tamamlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "43:19",
+   "meal": "Onlar, Rahmân'ın kulları olan melekleri dişi saydılar. Onların yaratılışına şahit mi oldular? Onların tanıklığı yazılacak ve sorguya çekilecekler.",
+   "baglanti": "Aynı iddia -meleklerin Allah'a yakıştırılan bir kimlik taşıması- burada da reddedilir; melekler yine 'kullar' olarak tanımlanır."
+  },
+  {
+   "ref": "19:88",
+   "meal": "'Rahmân çocuk edindi' dediler.",
+   "baglanti": "Aynı iddia, neredeyse aynı kelimelerle başka bir surede de aktarılır; devamındaki ayetler bu sözün ne denli ağır bir iddia olduğunu anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah'a çocuk yakıştırılmasının reddi ve meleklerin gerçek konumudur. Bu, doğrudan bir tevhid ve akide konusudur.",
+  "Buradan çıkarılabilecek genel ders, birine layık olmayan bir sıfat yakıştırmaktan kaçınmaktır. İnsan, ister Allah hakkında ister başkaları hakkında konuşurken, bilmediği veya doğru olmayan bir iddiayı kolayca tekrarlamamalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Asılsız sözü tekrar etme",
+   "aciklama": "Bugün doğruluğundan emin olmadığın bir sözü, araştırmadan başkasına aktarma."
+  },
+  {
+   "baslik": "Değeri hak edene ver",
+   "aciklama": "Bir kişiye veya göreve, hak ettiği kadar değer ver; ne eksik ne abartılı."
+  },
+  {
+   "baslik": "Kulluğu bir ikram bil",
+   "aciklama": "Bugün yaptığın bir ibadeti, yük değil sana verilmiş bir ikram olarak düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün, doğruluğundan emin olmadığın bir söylentiyi araştırmadan biriyle paylaşmaktan kaçın.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=26"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/21/26"
+  }
+ ]
+}

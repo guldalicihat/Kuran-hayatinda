@@ -1,0 +1,103 @@
+{
+ "sure": 21,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "İnsanların hesabı yaklaştı; oysa onlar gaflet içinde yüz çevirmektedirler.",
+ "mealNotu": "'İkterabe' kökü (قرب) sadece yaklaşmayı değil, iftiâl kalıbıyla gitgide yaklaşmayı anlatır. 'Mu'ridûn' kelimesi 'arz' kökünden gelir; yüzünü bir şeyden çevirip başka yöne dönmeyi ifade eder, bu yüzden 'yüz çevirenler' denmiştir.",
+ "kokler": [
+  {
+   "kelime": "ٱقْتَرَبَ",
+   "okunus": "ikterabe",
+   "kok": "قرب",
+   "kokAnlam": "yakın olma, yaklaşma",
+   "karsilik": "yaklaştı"
+  },
+  {
+   "kelime": "لِلنَّاسِ",
+   "okunus": "lilnnâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet kuran varlık",
+   "karsilik": "insanların"
+  },
+  {
+   "kelime": "حِسَابُهُمْ",
+   "okunus": "hisâbühüm",
+   "kok": "حسب",
+   "kokAnlam": "sayma, hesap etme",
+   "karsilik": "hesabı"
+  },
+  {
+   "kelime": "وَهُمْ",
+   "okunus": "ve hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve onlar",
+   "karsilik": "oysa onlar"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "غَفْلَةٍ",
+   "okunus": "gafletin",
+   "kok": "غفل",
+   "kokAnlam": "farkında olmama, dalgınlık",
+   "karsilik": "gaflet"
+  },
+  {
+   "kelime": "مُّعْرِضُونَ",
+   "okunus": "mü'ridûne",
+   "kok": "عرض",
+   "kokAnlam": "yüz çevirme, sırt dönme",
+   "karsilik": "yüz çevirenlerdir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, insanların hesap gününe ne kadar yakın olduklarını vurgulayarak başlar. 'İkterabe' fiili, bu yaklaşmanın uzak bir ihtimal değil, gitgide gerçekleşen bir süreç olduğunu anlatır. Buna karşılık insanların çoğu 'gaflet' içindedir; yani bu yaklaşan gerçeğin farkında değildir.",
+  "'Mu'ridûn' kelimesi, sadece bilmemeyi değil, bilinse bile yüz çevirmeyi anlatır. Ayet böylece iki farklı tavrı birleştirir: hem gaflet (dalgınlık) hem de bilinçli yüz çevirme. Sonraki ayetler bu tavrın nasıl ortaya çıktığını, vahyi oyun gibi karşılamakla açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "21:97",
+   "meal": "Gerçek vaad yaklaştığında, işte o zaman inkâr edenlerin gözleri donup kalacak.",
+   "baglanti": "Aynı surede aynı kök (قرب) tekrar kullanılır; sondaki bu ayet, 1. ayetteki yaklaşan hesabın somut sahnesini gösterir."
+  },
+  {
+   "ref": "54:1",
+   "meal": "Kıyamet saati yaklaştı, ay yarıldı.",
+   "baglanti": "Aynı 'yaklaşma' kökü başka bir surede kıyametin kendisi için kullanılır; 21:1'deki 'hesabın yaklaşması' ile aynı gerçeğe işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıyamet ve hesap gününün yakınlığıdır. Bu, soyut bir zaman hesabı değil, insanın günlük tavrıyla ilgili bir uyarıdır: hesap uzak bir ihtimal gibi görülüp ertelenebiliyor.",
+  "Günlük hayatta bu gaflet, işlerin hiç bitmeyecekmiş gibi planlanmasında, önemli kararların hep ertelenmesinde kendini gösterir. Ayetin daveti, hesabı unutmadan ama korkuyla felç olmadan, bugünün sorumluluğunu bugün almaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir işi ertelemeyi bırak",
+   "aciklama": "Sürekli 'sonra yaparım' dediğin bir işi bugün küçük bir adımla başlat."
+  },
+  {
+   "baslik": "Günü hesap bilinciyle kapat",
+   "aciklama": "Akşam, bugün yaptıklarını kısaca gözden geçir; bu hayatın sonsuz olmadığını hatırla."
+  },
+  {
+   "baslik": "Bir dikkat dağıtıcıyı azalt",
+   "aciklama": "Bugün seni asıl önemli işlerden alıkoyan bir alışkanlığa süre sınırı koy."
+  }
+ ],
+ "bugununAdimi": "Bugün, ertelediğin en önemli işi belirle ve ona en az on dakika ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/21/1"
+  }
+ ]
+}

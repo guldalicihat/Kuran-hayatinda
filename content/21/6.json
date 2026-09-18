@@ -1,0 +1,110 @@
+{
+ "sure": 21,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Onlardan önce, helak ettiğimiz hiçbir şehir [halkı] iman etmemişti. Şimdi bunlar mı iman edecekler?",
+ "mealNotu": "'Karye' kelimesi hem şehri hem şehir halkını anlatır; burada halk kastedildiği için [halkı] köşeli parantezle eklendi. Cümledeki soru, 'efehüm yü'minûn', alaycı-şaşkın bir vurgu taşır; bu nedenle 'şimdi bunlar mı' ifadesiyle çevrildi.",
+ "kokler": [
+  {
+   "kelime": "مَآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) hiç, değil",
+   "karsilik": "hiç"
+  },
+  {
+   "kelime": "ءَامَنَتْ",
+   "okunus": "âmenet",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "iman etmedi"
+  },
+  {
+   "kelime": "قَبْلَهُم",
+   "okunus": "kablehüm",
+   "kok": "قبل",
+   "kokAnlam": "önce olma",
+   "karsilik": "onlardan önce"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَرْيَةٍ",
+   "okunus": "karyetin",
+   "kok": "قري",
+   "kokAnlam": "şehir, yerleşim yeri",
+   "karsilik": "hiçbir şehir"
+  },
+  {
+   "kelime": "أَهْلَكْنَٰهَآ",
+   "okunus": "ehleknâhâ",
+   "kok": "هلك",
+   "kokAnlam": "yok etme, helak etme",
+   "karsilik": "onu helak ettiğimiz"
+  },
+  {
+   "kelime": "أَفَهُمْ",
+   "okunus": "efehüm",
+   "kok": "—",
+   "kokAnlam": "(soru + zamir) peki onlar mı",
+   "karsilik": "şimdi bunlar mı"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "iman edecekler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerdeki mucize talebine dolaylı bir cevap verir: geçmişte helak edilen topluluklar da benzer taleplerde bulunmuş, kendilerine gelenler karşısında iman etmemişlerdi. Yani mucize gelse bile inatçı bir tavrın değişmeyeceği ima edilir.",
+  "'Efehüm yü'minûn' sorusu, geçmişin tekrarlanan sonucunu şimdiki muhataplara hatırlatan bir uyarıdır. Klasik tefsir bu ayeti, geçmiş kavimlerin kıssasına (11-15. ayetler) bir giriş olarak da okur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:13",
+   "meal": "Sizden önceki nesilleri, zulmettiklerinde helak ettik; elçileri onlara apaçık deliller getirmişti, fakat iman edecek değillerdi. İşte suçlu topluluğu böyle cezalandırırız.",
+   "baglanti": "Aynı gerçek burada daha açık anlatılır: geçmiş toplulukların helakinin sebebi, kendilerine gelen delillere rağmen iman etmemeleridir."
+  },
+  {
+   "ref": "7:96",
+   "meal": "Eğer o memleketlerin halkı iman edip sakınsalardı, elbette üzerlerine gökten ve yerden bereketler açardık; fakat yalanladılar, biz de onları kazandıklarıyla yakaladık.",
+   "baglanti": "Helakin sebebinin iman etmemek olduğunu, alternatif bir sonuçla (bereketle) karşılaştırarak gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş toplulukların iman etmeyişi ve helakidir. Bu, tarihsel bir gerçek olarak aktarılır; ancak taşıdığı ilke, delilin çokluğunun tek başına ikna etmeye yetmediğidir.",
+  "Günlük hayatta bu, bir kişinin ikna olmak istemediğinde ne kadar açık delil sunulursa sunulsun tavrını değiştirmemesine benzer. Ayet, sonunda herkesin kendi tercihiyle karşı karşıya kaldığını ve bu tercihin bir karşılığı olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "İnadını fark et",
+   "aciklama": "Bugün bir konuda haklı olduğun söylenmesine rağmen sırf inattan direttiğin bir noktayı gözden geçir."
+  },
+  {
+   "baslik": "Geçmişten ders çıkar",
+   "aciklama": "Başkalarının yaptığı bir hatayı, aynı şekilde tekrar etmemek için bugün somut bir önlem al."
+  },
+  {
+   "baslik": "Hayatın sonlu olduğunu hatırla",
+   "aciklama": "Bugün, bu dünyadaki fırsatların sonsuz olmadığını düşünerek önemli bir kararını geciktirme."
+  }
+ ],
+ "bugununAdimi": "Bugün, ikna olmamakta inat ettiğin bir konuyu tekrar, önyargısız şekilde düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/21/6"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "sure": 21,
+ "ayet": 20,
+ "durum": "taslak",
+ "meal": "Gece gündüz [O'nu] tesbih ederler, hiç ara vermezler.",
+ "mealNotu": "'Yüsebbihûn' kökü (سبح) tesbih etmeyi, Allah'ı her türlü eksiklikten tenzih etmeyi anlatır. 'Yeftürûn' (فتر) gevşemeyi, ara vermeyi ifade eder; olumsuzlukla birlikte kesintisizliği vurgular.",
+ "kokler": [
+  {
+   "kelime": "يُسَبِّحُونَ",
+   "okunus": "yüsebbihûne",
+   "kok": "سبح",
+   "kokAnlam": "tesbih etme, tenzih etme",
+   "karsilik": "tesbih ederler"
+  },
+  {
+   "kelime": "ٱلَّيْلَ",
+   "okunus": "elleyle",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "gece"
+  },
+  {
+   "kelime": "وَٱلنَّهَارَ",
+   "okunus": "ven nehâra",
+   "kok": "نهر",
+   "kokAnlam": "gündüz",
+   "karsilik": "ve gündüz"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "يَفْتُرُونَ",
+   "okunus": "yeftürûne",
+   "kok": "فتر",
+   "kokAnlam": "gevşeme, ara verme",
+   "karsilik": "ara verirler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 19. ayetteki meleklerin büyüklenmeyen ve yorulmayan kulluğunu, somut bir eylemle tamamlar: gece gündüz kesintisiz tesbih. 'Yeftürûn' fiilinin olumsuzlanması, bu ibadetin hiçbir ara veya fasıla kabul etmediğini gösterir.",
+  "Bu iki ayet (19-20) birlikte, meleklerin Allah'a olan kulluğunu büyüklenmeme, yorulmama ve kesintisizlik olmak üzere üç yönden tanımlar. Sonraki ayetler bu tablodan hareketle, yerden edinilmiş sahte ilahların böyle bir güce sahip olamayacağını sorar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "41:38",
+   "meal": "Eğer büyüklük taslarlarsa bilsinler ki, Rabbinin katındakiler O'nu gece gündüz tesbih ederler, hiç usanmazlar.",
+   "baglanti": "Aynı tema -meleklerin kesintisiz tesbihi- burada da 'usanmazlar' ifadesiyle tekrarlanır."
+  },
+  {
+   "ref": "24:41",
+   "meal": "Göklerdeki ve yerdeki her şeyin, saf saf uçan kuşların bile Allah'ı tesbih ettiğini görmedin mi? Her biri kendi duasını ve tesbihini bilir.",
+   "baglanti": "21:20'deki meleklerin tesbihi, burada bütün yaratılmışların ortak bir tesbihi olarak genişletilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, meleklerin kesintisiz tesbihidir. Bu, doğrudan bir melek ve ibadet konusudur.",
+  "Buradan çıkarılabilecek genel ders, düzenliliğin değeridir. Bir iyi alışkanlığı gece gündüz demeden, aksatmadan sürdürmek, meleklerin bu örneğinden ilham alınabilecek bir tutumdur; küçük ama sürekli bir çaba, büyük ama düzensiz bir çabadan daha kalıcıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçük bir zikri düzenli yap",
+   "aciklama": "Bugün kısa bir zikir veya duayı, sabah ve akşam olmak üzere iki kez tekrarla."
+  },
+  {
+   "baslik": "Süreklilik kur",
+   "aciklama": "Bıraktığın faydalı bir alışkanlığı bugün yeniden, küçük bir ölçüde başlat."
+  },
+  {
+   "baslik": "Ara vermeden devam et",
+   "aciklama": "Zor bir günde bile, üzerinde çalıştığın önemli bir işi tamamen bırakmadan sürdür."
+  }
+ ],
+ "bugununAdimi": "Bugün, sabah ve akşam olmak üzere aynı kısa zikri veya duayı iki kez tekrarla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=20"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/21/20"
+  }
+ ]
+}
