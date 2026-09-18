@@ -1,0 +1,82 @@
+{
+ "sure": 20,
+ "ayet": 93,
+ "durum": "taslak",
+ "meal": "Bana uymamak için mi? Yoksa emrime karşı mı geldin?",
+ "mealNotu": "'تبع' kökü izlemeyi/uymayı, 'عصي' kökü karşı gelmeyi/isyanı anlatır; Musa bir önceki sorusunu (92) daha keskin bir suçlamayla sürdürür.",
+ "kokler": [
+  {
+   "kelime": "أَلَّا",
+   "okunus": "ellâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa değil mi",
+   "karsilik": "-memek için mi"
+  },
+  {
+   "kelime": "تَتَّبِعَنِ",
+   "okunus": "tettebiani",
+   "kok": "تبع",
+   "kokAnlam": "uyma, tabi olma",
+   "karsilik": "bana uymamak"
+  },
+  {
+   "kelime": "أَفَعَصَيْتَ",
+   "okunus": "efeasayte",
+   "kok": "عصي",
+   "kokAnlam": "karşı gelme, isyan",
+   "karsilik": "yoksa karşı mı geldin"
+  },
+  {
+   "kelime": "أَمْرِى",
+   "okunus": "emrî",
+   "kok": "أمر",
+   "kokAnlam": "emir, iş",
+   "karsilik": "emrime"
+  }
+ ],
+ "neAnlatiyor": [
+  "Musa'nın kardeşine sorusu burada sertleşir; artık sadece 'neden engellemedin' değil, doğrudan 'emrime karşı mı geldin' diye sorar. Bu, Musa'nın öfkesinin dozunun arttığını gösterir.",
+  "Ayet kısa ve yoğundur; bir önceki soruyla (92) birlikte okunduğunda Musa'nın, kendisi Tûr'a giderken Harun'a bıraktığı talimata uyup uymadığını sorguladığı anlaşılır. Cevap sonraki ayette (94) gelir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:35",
+   "meal": "Andolsun, Musa'ya Kitab'ı verdik ve kardeşi Harun'u ona yardımcı kıldık.",
+   "baglanti": "Furkân sûresindeki bu ayet, Harun'un Musa'ya yardımcı olarak görevlendirildiğini hatırlatır; bu ayetteki 'emrime karşı mı geldin' sorusunun arka planını oluşturur."
+  },
+  {
+   "ref": "20:94",
+   "meal": "Ey annemin oğlu, saçımı sakalımı tutma...",
+   "baglanti": "Bu ayetin hemen devamı olan bir sonraki ayet, Harun'un bu soruya cevabını verir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Musa'nın Harun'un kendisine verdiği talimata uyup uymadığını sorgulamasıdır.",
+  "Günlük hayata taşınabilecek ders, öfkeliyken sorduğumuz soruların bazen gerçek niyetimizden daha sert çıkabileceğidir; cevabı dinlemeden önce bu kadar keskin bir suçlamaya varmak, temkinli olmamız için bir hatırlatmadır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sert bir soru sormadan önce dur",
+   "aciklama": "Bugün kızgın bir anında birine sert bir soru yöneltmeden önce bir nefes al."
+  },
+  {
+   "baslik": "Cevabı dinlemeye hazır ol",
+   "aciklama": "Bugün bir şeyi sorguladığında, cevabı gerçekten dinle."
+  },
+  {
+   "baslik": "Talimatına ne kadar uyulduğunu kontrol et",
+   "aciklama": "Bugün birine verdiğin bir görevin nasıl gittiğini nazikçe sor."
+  }
+ ],
+ "bugununAdimi": "Bugün öfkeliyken bir soru sormadan önce bir kez durup düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=93"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/93"
+  }
+ ]
+}

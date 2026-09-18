@@ -1,0 +1,103 @@
+{
+ "sure": 20,
+ "ayet": 92,
+ "durum": "taslak",
+ "meal": "Dedi ki: Ey Harun, onların saptığını gördüğünde seni alıkoyan neydi?",
+ "mealNotu": "'منع' kökü engelleme, alıkoymayı anlatır; Musa, Harun'un neden müdahale etmediğini sorar.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "يَٰهَٰرُونُ",
+   "okunus": "yâ hârûnü",
+   "kok": "—",
+   "kokAnlam": "(özel isim) ey Harun",
+   "karsilik": "ey Harun"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "مَنَعَكَ",
+   "okunus": "meneake",
+   "kok": "منع",
+   "kokAnlam": "engelleme, alıkoyma",
+   "karsilik": "seni alıkoydu"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "رَأَيْتَهُمْ",
+   "okunus": "raeytehüm",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "onları gördüğünde"
+  },
+  {
+   "kelime": "ضَلُّوٓا۟",
+   "okunus": "dallû",
+   "kok": "ضلل",
+   "kokAnlam": "sapma",
+   "karsilik": "saptılar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Musa döndüğünde önce kavmiyle değil kardeşi Harun'la hesaplaşır; onun sapmayı gördüğü halde neden harekete geçmediğini sorar. Bu soru, Musa'nın Harun'u bir sorumluluk sahibi olarak gördüğünü ve ondan hesap sorduğunu gösterir.",
+  "Ancak bu, Musa'nın öfkesinin ilk anıdır; Harun'un cevabı (94. ayette) durumun göründüğünden farklı olduğunu ortaya koyacaktır - Harun aslında müdahale etmiş ama dinlenmemiştir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:150",
+   "meal": "Kardeşinin başını tutup kendine doğru çekmeye başladı; Harun: Ey anamın oğlu, dedi.",
+   "baglanti": "A'râf sûresindeki bu ayet, Musa'nın Harun'a olan bu tepkisinin fiziksel boyutunu da anlatır."
+  },
+  {
+   "ref": "20:94",
+   "meal": "Ey annemin oğlu, saçımı sakalımı tutma; ben senin 'İsrailoğulları arasında ayrılık çıkardın' demenden korktum.",
+   "baglanti": "Bu ayetin hemen devamı olan bir sonraki ayet, Harun'un buradaki soruya vereceği cevaptır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Musa'nın kardeşine kavmin sapmasını neden engellemediğini sormasıdır.",
+  "Günlük hayata taşınabilecek ders, bir yanlışla karşılaştığımızda önce sorumlu kişiye sorup durumu anlamanın, doğrudan suçlamaktan daha adil bir yaklaşım olduğudur; Musa'nın sorusu bir itham değil bir açıklama talebidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sorumluyu suçlamadan önce sor",
+   "aciklama": "Bugün bir aksaklıkta, ilgili kişiye önce ne olduğunu sor, hemen suçlama."
+  },
+  {
+   "baslik": "Neden müdahale etmediğini düşün",
+   "aciklama": "Bugün bir yanlışa şahit olduğun halde sessiz kaldığın bir an oldu mu, hatırla."
+  },
+  {
+   "baslik": "Hesap sormayı adil yap",
+   "aciklama": "Bugün birinden hesap sorman gerekirse, önce onun bakış açısını dinle."
+  }
+ ],
+ "bugununAdimi": "Bugün bir yanlışa şahit olduğunda neden sessiz kaldığını kendine dürüstçe sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=92"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/92"
+  }
+ ]
+}

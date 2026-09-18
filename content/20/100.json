@@ -1,0 +1,110 @@
+{
+ "sure": 20,
+ "ayet": 100,
+ "durum": "taslak",
+ "meal": "Kim ondan [zikirden] yüz çevirirse, şüphesiz o, kıyamet günü ağır bir yük yüklenecektir.",
+ "mealNotu": "'عرض' kökü yüz çevirmeyi, 'وزر' kökü ağır bir yükü/günahı anlatır.",
+ "kokler": [
+  {
+   "kelime": "مَّنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "أَعْرَضَ",
+   "okunus": "a'rada",
+   "kok": "عرض",
+   "kokAnlam": "yüz çevirme",
+   "karsilik": "yüz çevirirse"
+  },
+  {
+   "kelime": "عَنْهُ",
+   "okunus": "anhü",
+   "kok": "—",
+   "kokAnlam": "(edat) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "فَإِنَّهُۥ",
+   "okunus": "feinnehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz o",
+   "karsilik": "şüphesiz o"
+  },
+  {
+   "kelime": "يَحْمِلُ",
+   "okunus": "yahmilü",
+   "kok": "حمل",
+   "kokAnlam": "taşıma, yüklenme",
+   "karsilik": "taşıyacaktır"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "ٱلْقِيَٰمَةِ",
+   "okunus": "elkıyâmeti",
+   "kok": "قوم",
+   "kokAnlam": "kıyam, diriliş",
+   "karsilik": "kıyamet"
+  },
+  {
+   "kelime": "وِزْرًا",
+   "okunus": "vizran",
+   "kok": "وزر",
+   "kokAnlam": "ağır yük, günah",
+   "karsilik": "ağır bir yük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette (99) Kur'an'ın bir hatırlatma (zikir) olarak verildiği bildirilmişti; bu ayet ondan yüz çevirmenin sonucunu bildirir - kıyamet günü taşınacak bir yük.",
+  "Bu, Musa kıssasından genel bir uyarıya geçiştir; sonraki ayette (101) bu yükün kalıcılığı ve ağırlığı daha da vurgulanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:31",
+   "meal": "...sırtlarında yükleriyle (günahlarıyla) birlikte.",
+   "baglanti": "En'âm sûresindeki bu ayet, aynı 'yük taşıma' imgesini kıyamet günü pişmanlığı bağlamında kullanır."
+  },
+  {
+   "ref": "18:57",
+   "meal": "Kendisine Rabbinin ayetleri hatırlatılıp da onlardan yüz çeviren kimseden daha zalim kim olabilir?",
+   "baglanti": "Kehf sûresindeki bu ayet, zikirden yüz çevirmenin aynı temasını başka bir açıdan işler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'dan (zikirden) yüz çevirmenin kıyamet günü bir yük olarak geri döneceğidir.",
+  "Günlük hayata taşınabilecek ders, bir hatırlatmayı görmezden gelmenin bedelsiz olmadığıdır; bugün göz ardı ettiğimiz küçük bir uyarı, birikerek ağır bir yüke dönüşebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Görmezden geldiğin bir uyarıyı hatırla",
+   "aciklama": "Bugün daha önce duyup önemsemediğin bir uyarıyı yeniden düşün."
+  },
+  {
+   "baslik": "Küçük ihmalleri biriktirme",
+   "aciklama": "Bugün ertelediğin küçük bir sorumluluğu, birikmeden hallet."
+  },
+  {
+   "baslik": "Ahiret hesabını hatırla",
+   "aciklama": "Bugün bir kararında, bu dünyanın geçici olduğunu ve bir hesap gününün geleceğini bir an hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin ve biriktirdiğin küçük bir sorumluluğu şimdi hallet.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=100"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/20/100"
+  }
+ ]
+}
