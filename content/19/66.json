@@ -1,0 +1,110 @@
+{
+ "sure": 19,
+ "ayet": 66,
+ "durum": "taslak",
+ "meal": "İnsan der ki: Ben öldüğümde gerçekten diri olarak çıkarılacak mıyım?",
+ "mealNotu": "Soru edatı 'eizâ mâ' ile 'lesevfe' (gerçekten ...-ecek mi) birlikte inkârı andıran bir şaşkınlık ifade eder; ayet insanın öldükten sonra dirilmeyi imkânsız gördüğünü aktarır.",
+ "kokler": [
+  {
+   "kelime": "وَيَقُولُ",
+   "okunus": "ve yekûlü",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "der ki"
+  },
+  {
+   "kelime": "ٱلْإِنسَٰنُ",
+   "okunus": "el'insânü",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insan"
+  },
+  {
+   "kelime": "أَءِذَا",
+   "okunus": "eizâ",
+   "kok": "—",
+   "kokAnlam": "zaman",
+   "karsilik": "gerçekten mi"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "-dığımda"
+  },
+  {
+   "kelime": "مِتُّ",
+   "okunus": "mittü",
+   "kok": "موت",
+   "kokAnlam": "ölme",
+   "karsilik": "öldüğümde"
+  },
+  {
+   "kelime": "لَسَوْفَ",
+   "okunus": "lesevfe",
+   "kok": "—",
+   "kokAnlam": "gelecek zamanı vurgulama",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "أُخْرَجُ",
+   "okunus": "ühracü",
+   "kok": "خرج",
+   "kokAnlam": "çıkarılma",
+   "karsilik": "çıkarılacağım"
+  },
+  {
+   "kelime": "حَيًّا",
+   "okunus": "hayyen",
+   "kok": "حيي",
+   "kokAnlam": "canlılık",
+   "karsilik": "diri olarak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Konu değişir; şimdi öldükten sonra dirilmeyi reddeden insanın itirazı aktarılır: 'Ben öldüğümde gerçekten diri olarak mı çıkarılacağım?'",
+  "Bu soru, alaycı bir şaşkınlık taşır; 'hayyen' (diri olarak) kelimesi cümlenin sonuna vurgulu biçimde konarak dirilişin ne kadar akıl dışı görüldüğünü öne çıkarır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:78",
+   "meal": "Kendi yaratılışını unutup bize bir örnek getirdi: 'Şu çürümüş kemikleri kim diriltecek?' dedi.",
+   "baglanti": "Yâsîn sûresi, aynı itirazı başka bir örnekle aktarır."
+  },
+  {
+   "ref": "75:3",
+   "meal": "İnsan, kemiklerini asla bir araya toplayamayacağımızı mı sanır?",
+   "baglanti": "Kıyâme sûresi, aynı inkarcı tavrı doğrudan sorgulayarak paralel kurar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, öldükten sonra dirilmeye duyulan inançsızlık ve şaşkınlıktır; bu tarihsel bir tartışmadır, günlük hayatta doğrudan bir hukuk kuralı değildir.",
+  "Ders: geleceğe dair büyük bir gerçeği sadece hayal gücünün sınırına göre reddetmek yerine, bilmediğimiz şeyler karşısında alçakgönüllü durmak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Aceleyle reddetme",
+   "aciklama": "Bugün anlamadığın bir konuda hemen inkâr etmek yerine düşünme fırsatı ver kendine."
+  },
+  {
+   "baslik": "Ölümü hatırla",
+   "aciklama": "Bugün bir an durup hayatının sonlu olduğunu düşün."
+  },
+  {
+   "baslik": "Hazırlığını gözden geçir",
+   "aciklama": "Bugün ahiret için yaptığın bir hazırlığı (iyilik, tövbe) gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün, anlayamadığın bir gerçeği hemen reddetmek yerine üzerinde sessizce düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=66"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/66"
+  }
+ ]
+}

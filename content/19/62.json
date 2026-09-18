@@ -1,0 +1,131 @@
+{
+ "sure": 19,
+ "ayet": 62,
+ "durum": "taslak",
+ "meal": "Orada boş söz işitmezler, yalnız 'selam' işitirler. Orada sabah akşam rızıkları hazırdır.",
+ "mealNotu": "'Lağv' kökü لغو anlamsız, boş sözü; 'selam' kökü سلم esenlik ve barışı anlatır. 'Bükreten ve aşiyyâ' [sabah akşam] ifadesi cennette rızkın sürekliliğini anlatır.",
+ "kokler": [
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": ""
+  },
+  {
+   "kelime": "يَسْمَعُونَ",
+   "okunus": "yesmeûne",
+   "kok": "سمع",
+   "kokAnlam": "işitme",
+   "karsilik": "işitmezler"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "لَغْوًا",
+   "okunus": "lağven",
+   "kok": "لغو",
+   "kokAnlam": "boş söz",
+   "karsilik": "boş söz"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna",
+   "karsilik": "yalnız"
+  },
+  {
+   "kelime": "سَلَٰمًا",
+   "okunus": "selâmen",
+   "kok": "سلم",
+   "kokAnlam": "esenlik, barış",
+   "karsilik": "selam"
+  },
+  {
+   "kelime": "وَلَهُمْ",
+   "okunus": "ve lehüm",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "ve onlar için vardır"
+  },
+  {
+   "kelime": "رِزْقُهُمْ",
+   "okunus": "rizkuhüm",
+   "kok": "رزق",
+   "kokAnlam": "rızık",
+   "karsilik": "rızıkları"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "بُكْرَةً",
+   "okunus": "bükraten",
+   "kok": "بكر",
+   "kokAnlam": "sabah erken",
+   "karsilik": "sabah"
+  },
+  {
+   "kelime": "وَعَشِيًّا",
+   "okunus": "ve aşiyyen",
+   "kok": "عشو",
+   "kokAnlam": "akşam",
+   "karsilik": "ve akşam"
+  }
+ ],
+ "neAnlatiyor": [
+  "Adn cennetinin iki özelliği anlatılır: orada boş, incitici söz duyulmaz, sadece 'selam' duyulur.",
+  "'Bükreten ve aşiyyâ' (sabah akşam) ifadesi rızkın sürekliliğini anlatır; klasik tefsir bunu zamanın dünyadaki gibi yorucu bir döngü olmadan sürekli bir bolluğu simgelediği şeklinde de açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "56:26",
+   "meal": "Sadece 'Selâm, selâm' derler.",
+   "baglanti": "Vâkıa sûresi, cennette boş sözün yerini selamın aldığını neredeyse aynı ifadeyle anlatır."
+  },
+  {
+   "ref": "78:35",
+   "meal": "Orada ne boş bir söz işitirler ne de yalan.",
+   "baglanti": "Nebe sûresi, cennetin bu iki özelliğinden birini (boş sözden arınmışlık) aynı dille tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu cennetteki huzurun iki boyutudur: incitici sözden arınmışlık ve kesintisiz rızık.",
+  "Ders: bugünkü konuşmalarda boş ve incitici sözden kaçınıp selamı, esenlik dilini tercih etmek, bu huzurun küçük bir yansımasıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Boş sözden kaçın",
+   "aciklama": "Bugün dedikodu veya incitici bir söz yerine sus ya da güzel söz söyle."
+  },
+  {
+   "baslik": "Selamı yay",
+   "aciklama": "Bugün karşılaştığın kişilere içtenlikle selam ver."
+  },
+  {
+   "baslik": "Rızka şükret",
+   "aciklama": "Bugün sabah ve akşam sofranı, sana verilen rızkı düşünerek şükranla değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün ağzından çıkan her sözü, boş söz mü esenlik sözü mü olduğunu düşünerek seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=62"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/62"
+  }
+ ]
+}

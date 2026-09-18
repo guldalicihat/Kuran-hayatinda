@@ -1,0 +1,117 @@
+{
+ "sure": 19,
+ "ayet": 71,
+ "durum": "taslak",
+ "meal": "İçinizden ona (cehenneme) varmayacak hiç kimse yoktur. Bu, Rabbinin kesinleşmiş bir hükmüdür.",
+ "mealNotu": "'Vürûd' kökü ورد bir yere ulaşıp varmayı anlatır; klasik tefsir bu varışı müminler için güvenli bir geçiş, kâfirler için içine giriş olarak açıklar, ancak ayet bu ayrımı açıkça belirtmez.",
+ "kokler": [
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "مِّنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "içinizden"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "وَارِدُهَا",
+   "okunus": "vâridühâ",
+   "kok": "ورد",
+   "kokAnlam": "varma, ulaşma",
+   "karsilik": "ona varmayacak"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dir"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "رَبِّكَ",
+   "okunus": "rabbike",
+   "kok": "ربب",
+   "kokAnlam": "Rab",
+   "karsilik": "Rabbinin"
+  },
+  {
+   "kelime": "حَتْمًا",
+   "okunus": "hatmen",
+   "kok": "حتم",
+   "kokAnlam": "kesinlik",
+   "karsilik": "kesinleşmiş"
+  },
+  {
+   "kelime": "مَّقْضِيًّا",
+   "okunus": "mekdıyyen",
+   "kok": "قضي",
+   "kokAnlam": "hükme bağlanmış",
+   "karsilik": "bir hüküm"
+  }
+ ],
+ "neAnlatiyor": [
+  "Herkesin cehenneme 'varacağı' (vârid) bildirilir; bu, Rabbin kesin ve hükme bağlanmış bir kararıdır.",
+  "Ayet, bu varışın niteliğini (geçiş mi, giriş mi) açıklamaz; klasik tefsir konuyu farklı yorumlarla ele alır, ancak Kur'an'ın kendisi bu ayrıntıyı vermez; kesin olmayanı kesin gibi aktarmamak gerekir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "21:98",
+   "meal": "Siz de, Allah'tan başka taptıklarınız da cehennem odunusunuz; siz oraya gireceksiniz.",
+   "baglanti": "Enbiyâ sûresi, benzer bir 'cehenneme varış' teması içerir."
+  },
+  {
+   "ref": "37:23",
+   "meal": "...cehennemin yoluna götürün. Onları durdurun, çünkü sorguya çekilecekler.",
+   "baglanti": "Sâffât sûresi, toplanma ve cehenneme yönlendirilme sahnesini paralel bir dille anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, ahiretteki kesin bir hükümdür; ayrıntısı belirsiz bırakıldığı için burada üzerinde spekülasyon yapılmaz.",
+  "Ders: kesinleşmiş bir hükmün varlığı, hayatın bir gün mutlaka hesaba dönüşeceğini hatırlatır; bugünkü seçimler bu hesabı hafifletebilir ya da ağırlaştırabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hesabı hatırla",
+   "aciklama": "Bugün bir kararında, bunun bir gün hesabının sorulacağını hatırla."
+  },
+  {
+   "baslik": "Kesin olmayanı uydurma",
+   "aciklama": "Bugün ayrıntısını bilmediğin bir konuda tahmin yürütüp kesin konuşmaktan kaçın."
+  },
+  {
+   "baslik": "Hazırlığını artır",
+   "aciklama": "Bugün hesap gününe hazırlık olacak bir iyilik yap."
+  }
+ ],
+ "bugununAdimi": "Bugün bilmediğin bir ayrıntıyı kesinmiş gibi anlatmak yerine, bildiğinle yetin.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=71"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/71"
+  }
+ ]
+}

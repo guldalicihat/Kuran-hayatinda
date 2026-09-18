@@ -1,0 +1,89 @@
+{
+ "sure": 19,
+ "ayet": 86,
+ "durum": "taslak",
+ "meal": "Suçluları da susamış olarak cehenneme süreriz.",
+ "mealNotu": "'Virdâ' kökü ورد normalde suya susayarak varmayı anlatır; ayet burada ironik bir tezat kurar, suçlular su yerine cehenneme sürülür.",
+ "kokler": [
+  {
+   "kelime": "وَنَسُوقُ",
+   "okunus": "ve nesûku",
+   "kok": "سوق",
+   "kokAnlam": "sürme",
+   "karsilik": "süreriz"
+  },
+  {
+   "kelime": "ٱلْمُجْرِمِينَ",
+   "okunus": "elmücrimîne",
+   "kok": "جرم",
+   "kokAnlam": "suç işleme",
+   "karsilik": "suçluları"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "جَهَنَّمَ",
+   "okunus": "cehenneme",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "cehenneme"
+  },
+  {
+   "kelime": "وِرْدًا",
+   "okunus": "virden",
+   "kok": "ورد",
+   "kokAnlam": "susamış olarak suya varma",
+   "karsilik": "susamış olarak"
+  }
+ ],
+ "neAnlatiyor": [
+  "85. ayetteki onurlu heyetin tam karşıtı olarak, suçluların cehenneme 'sürüldüğü' anlatılır.",
+  "'Virden' kelimesi normalde susamış hayvanların suya koşarcasına gitmesini anlatır; burada bu beklenti tersine döner, susuzlukla koşulan yer bir kurtuluş değil cehennemdir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "39:71",
+   "meal": "İnkâr edenler grup grup cehenneme sevk edilir.",
+   "baglanti": "Zümer sûresi, aynı 'sevk edilme' fiiliyle suçluların akıbetini paralel bir dille anlatır."
+  },
+  {
+   "ref": "21:98",
+   "meal": "Siz de, Allah'tan başka taptıklarınız da cehennem odunusunuz; siz oraya gireceksiniz.",
+   "baglanti": "Enbiyâ sûresi, benzer bir cehenneme sürülme sahnesi sunar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, suçun (günahın) sonunda hoş olmayan bir sürüklenişle karşılık bulacağıdır.",
+  "Ders: bugün bir günaha yönelirken, onun peşinde koşmanın nereye vardığını düşünmek caydırıcı olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Peşinde koştuğunu sorgula",
+   "aciklama": "Bugün hevesle peşinden gittiğin bir şeyin seni nereye götürdüğünü düşün."
+  },
+  {
+   "baslik": "Suçtan uzak dur",
+   "aciklama": "Bugün küçük bir haksızlıktan bile kaçın."
+  },
+  {
+   "baslik": "Yönünü kontrol et",
+   "aciklama": "Bugün bir alışkanlığının seni nereye sürüklediğini gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün hevesle peşinden gittiğin bir şeyin seni nereye götürdüğünü sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=86"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/86"
+  }
+ ]
+}

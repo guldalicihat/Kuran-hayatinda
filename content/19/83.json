@@ -1,0 +1,117 @@
+{
+ "sure": 19,
+ "ayet": 83,
+ "durum": "taslak",
+ "meal": "Görmedin mi, biz şeytanları inkârcıların üzerine gönderdik; onları alabildiğine kışkırtıyorlar.",
+ "mealNotu": "'Ezz' kökü أزز şiddetli bir kışkırtma, tahrik etmeyi anlatır; ayet, inkârcıların içindeki azgınlığın (69. ayetteki 'itiyy') bir sebebini gösterir.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "görmedin mi"
+  },
+  {
+   "kelime": "تَرَ",
+   "okunus": "tera",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görmedin"
+  },
+  {
+   "kelime": "أَنَّآ",
+   "okunus": "ennâ",
+   "kok": "—",
+   "kokAnlam": "tekid",
+   "karsilik": "ki biz"
+  },
+  {
+   "kelime": "أَرْسَلْنَا",
+   "okunus": "erselnâ",
+   "kok": "رسل",
+   "kokAnlam": "gönderme",
+   "karsilik": "gönderdik"
+  },
+  {
+   "kelime": "ٱلشَّيَٰطِينَ",
+   "okunus": "eşşeyâtîne",
+   "kok": "شطن",
+   "kokAnlam": "şeytan",
+   "karsilik": "şeytanları"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلْكَٰفِرِينَ",
+   "okunus": "elkâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "inkâr",
+   "karsilik": "inkârcıların"
+  },
+  {
+   "kelime": "تَؤُزُّهُمْ",
+   "okunus": "teüzzühüm",
+   "kok": "أزز",
+   "kokAnlam": "kışkırtma, tahrik etme",
+   "karsilik": "onları kışkırtıyorlar"
+  },
+  {
+   "kelime": "أَزًّا",
+   "okunus": "ezzen",
+   "kok": "أزز",
+   "kokAnlam": "kışkırtma",
+   "karsilik": "alabildiğine"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir soru cümlesiyle, inkârcıların üzerine şeytanların gönderildiği ve onları sürekli kışkırttığı hatırlatılır.",
+  "'Ezzen' kelimesinin tekrarı (fiil ve mastar birlikte) bu kışkırtmanın şiddetini vurgular; bu, inkârın sadece kişisel bir tercih değil, aynı zamanda dışarıdan gelen bir teşvikle beslendiğini gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "43:36",
+   "meal": "Kim Rahmân'ın zikrinden yüz çevirirse, ona bir şeytan musallat ederiz; o artık onun yakın dostu olur.",
+   "baglanti": "Zuhruf sûresi, aynı temayı 'musallat olma' fiiliyle tekrarlar."
+  },
+  {
+   "ref": "7:27",
+   "meal": "...şeytanı, kendisine inanmayanlara dost kıldık.",
+   "baglanti": "A'râf sûresi, inkârın şeytanla kurulan bir bağla desteklendiğini benzer biçimde anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, inkâr ve azgınlığın bir teşvikle, bir kışkırtmayla beslendiğidir; bu gaybî bir bilgidir, ayrıntısı bilinmez.",
+  "Ders: bugün içimizde ani ve şiddetli bir kötülük dürtüsü hissettiğimizde, bunun kaynağını sorgulayıp ona karşı uyanık durmak faydalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Dürtüyü fark et",
+   "aciklama": "Bugün seni kötüye iten ani bir dürtü hissettiğinde dur ve düşün."
+  },
+  {
+   "baslik": "Kışkırtmaya kapılma",
+   "aciklama": "Bugün seni kızdıran bir söze anında tepki vermek yerine sakinleş."
+  },
+  {
+   "baslik": "Uyanık ol",
+   "aciklama": "Bugün bir kararında, iç sesinin seni nereye çektiğini fark et."
+  }
+ ],
+ "bugununAdimi": "Bugün seni kötüye iten ani bir dürtüye karşı, hemen tepki vermeden önce dur ve düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=83"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/83"
+  }
+ ]
+}

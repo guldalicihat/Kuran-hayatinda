@@ -1,0 +1,103 @@
+{
+ "sure": 19,
+ "ayet": 78,
+ "durum": "taslak",
+ "meal": "O, gaybı mı gördü, yoksa Rahmân katında bir söz mü aldı?",
+ "mealNotu": "'Talea' kökü طلع gaybı görüp bilmeyi, 'ahd' kökü عهد verilmiş bir sözü/güvenceyi anlatır; ayet, önceki iddianın hiçbir dayanağı olmadığını iki soruyla ortaya koyar.",
+ "kokler": [
+  {
+   "kelime": "أَطَّلَعَ",
+   "okunus": "ettalea",
+   "kok": "طلع",
+   "kokAnlam": "yukarıdan bakma, görme",
+   "karsilik": "gördü mü"
+  },
+  {
+   "kelime": "ٱلْغَيْبَ",
+   "okunus": "elgaybe",
+   "kok": "غيب",
+   "kokAnlam": "görünmezlik, gayb",
+   "karsilik": "gaybı"
+  },
+  {
+   "kelime": "أَمِ",
+   "okunus": "emi",
+   "kok": "—",
+   "kokAnlam": "bağlaç",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "ٱتَّخَذَ",
+   "okunus": "ittehaze",
+   "kok": "أخذ",
+   "kokAnlam": "edinme",
+   "karsilik": "aldı mı"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "kat, yan",
+   "karsilik": "katında"
+  },
+  {
+   "kelime": "ٱلرَّحْمَٰنِ",
+   "okunus": "errahmâni",
+   "kok": "رحم",
+   "kokAnlam": "rahmet",
+   "karsilik": "Rahmân'ın"
+  },
+  {
+   "kelime": "عَهْدًا",
+   "okunus": "ahden",
+   "kok": "عهد",
+   "kokAnlam": "söz, ahit",
+   "karsilik": "bir söz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki kendinden emin iddiaya karşı iki soru sorulur: bu kişi geleceği mi görebildi, yoksa Rahmân'dan böyle bir söz mü aldı?",
+  "Sorular, iddianın ne bilgiye ne de bir güvenceye dayandığını, sadece boş bir varsayım olduğunu ortaya koyar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "27:65",
+   "meal": "De ki: Göklerde ve yerde gaybı Allah'tan başka kimse bilmez.",
+   "baglanti": "Neml sûresi, gaybın sadece Allah'a ait olduğunu doğrudan doğrular."
+  },
+  {
+   "ref": "43:80",
+   "meal": "Yoksa onların sırlarını ve gizli konuşmalarını işitmediğimizi mi sanıyorlar? Hayır, yanlarındaki elçilerimiz yazıyor.",
+   "baglanti": "Zuhruf sûresi, Allah'ın bilgisinin kapsamlılığını benzer bir soru kalıbıyla anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, geleceğe dair bilinmeyen bir şeyi kesin biliyormuş gibi konuşmanın dayanaksızlığıdır.",
+  "Ders: bugün bilmediğimiz bir konuda (özellikle geleceğe dair) kesin iddialarda bulunmak yerine temkinli olmak, hem doğruluk hem tevazu gerektirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geleceği garanti etme",
+   "aciklama": "Bugün geleceğe dair kesin bir söz vermek yerine 'inşallah' diyebilmeyi hatırla."
+  },
+  {
+   "baslik": "Dayanağını sorgula",
+   "aciklama": "Bugün bir iddiada bulunmadan önce dayanağının ne olduğunu düşün."
+  },
+  {
+   "baslik": "Bilmediğini kabul et",
+   "aciklama": "Bugün bilmediğin bir konuda açıkça bilmediğini söyle."
+  }
+ ],
+ "bugununAdimi": "Bugün geleceğe dair bir iddiada bulunurken 'inşallah' demeyi unutma.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=78"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/78"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "sure": 19,
+ "ayet": 77,
+ "durum": "taslak",
+ "meal": "Ayetlerimizi inkâr edip 'Elbette bana mal ve evlat verilecek' diyeni gördün mü?",
+ "mealNotu": "'Îtâ' kökü أتي verilmeyi anlatır; ayet, dünyevi refahı ahiretteki kurtuluşun kanıtı sayan bir kişinin iddiasını aktarır.",
+ "kokler": [
+  {
+   "kelime": "أَفَرَءَيْتَ",
+   "okunus": "eferaeyte",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "gördün mü"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "kimseyi"
+  },
+  {
+   "kelime": "كَفَرَ",
+   "okunus": "kefera",
+   "kok": "كفر",
+   "kokAnlam": "inkâr",
+   "karsilik": "inkâr eden"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِنَا",
+   "okunus": "biâyâtinâ",
+   "kok": "أيي",
+   "kokAnlam": "ayet",
+   "karsilik": "ayetlerimizi"
+  },
+  {
+   "kelime": "وَقَالَ",
+   "okunus": "ve kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "ve diyen"
+  },
+  {
+   "kelime": "لَأُوتَيَنَّ",
+   "okunus": "leûteyenne",
+   "kok": "أتي",
+   "kokAnlam": "verilme",
+   "karsilik": "elbette bana verilecek"
+  },
+  {
+   "kelime": "مَالًا",
+   "okunus": "mâlen",
+   "kok": "مول",
+   "kokAnlam": "mal",
+   "karsilik": "mal"
+  },
+  {
+   "kelime": "وَوَلَدًا",
+   "okunus": "ve veleden",
+   "kok": "ولد",
+   "kokAnlam": "çocuk, evlat",
+   "karsilik": "ve evlat"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kur'an'ın verdiği bilgiye göre, ayetleri inkâr eden biri, mal ve evlat sahibi olacağına dair kendinden emin bir iddiada bulunur.",
+  "Bu iddia, dünyevi bir beklentiyi ahiretteki kurtuluşun garantisi sayan bir yanılgıyı gösterir; sonraki ayetler bu iddianın dayanaksızlığını sorgulayacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:14",
+   "meal": "Mal ve oğullar sahibi oldu diye mi (Allah'ın ayetlerini yalanlıyor)?",
+   "baglanti": "Kalem sûresi, neredeyse aynı konuyu, mal ve evlat sahipliğinin kibre dönüştüğü bir bağlamda ele alır."
+  },
+  {
+   "ref": "34:35",
+   "meal": "Dediler ki: Biz malca ve evlatça daha çoğuz; bize azap edilecek değiliz.",
+   "baglanti": "Sebe' sûresi, aynı iddiayı bir topluluğun ağzından aktarır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, dünyevi kazancı ahiretteki kurtuluşun kanıtı sanmanın yanlışlığıdır.",
+  "Ders: bugün sahip olunan mal ve imkanların, kişinin doğruluğuna dair bir garanti olmadığını hatırlamak, kibri ve yanlış güveni önler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kazancı garanti sanma",
+   "aciklama": "Bugün maddi bir başarını, manevi bir üstünlük sanmaktan kaçın."
+  },
+  {
+   "baslik": "İddiayı sorgula",
+   "aciklama": "Bugün kendinden emin olduğun bir konuda, dayanağını gözden geçir."
+  },
+  {
+   "baslik": "Şükrü koru",
+   "aciklama": "Bugün sahip olduğun bir imkanı kibirle değil şükürle an."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kazancını kibirle değil şükürle değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=77"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/77"
+  }
+ ]
+}

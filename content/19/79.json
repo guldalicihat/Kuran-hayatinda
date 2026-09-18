@@ -1,0 +1,117 @@
+{
+ "sure": 19,
+ "ayet": 79,
+ "durum": "taslak",
+ "meal": "Hayır! Söylediğini yazacağız ve onun azabını gitgide artıracağız.",
+ "mealNotu": "'Kellâ' güçlü bir reddir; 'medd' kökü مدد burada 75. ayetteki 'süre uzatma' anlamının tersine, azabın uzatılıp artırılmasını anlatır.",
+ "kokler": [
+  {
+   "kelime": "كَلَّا",
+   "okunus": "kellâ",
+   "kok": "—",
+   "kokAnlam": "caydırma",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "سَنَكْتُبُ",
+   "okunus": "senektübü",
+   "kok": "كتب",
+   "kokAnlam": "yazma",
+   "karsilik": "yazacağız"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "يَقُولُ",
+   "okunus": "yekûlü",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "söylediği"
+  },
+  {
+   "kelime": "وَنَمُدُّ",
+   "okunus": "ve nemüddü",
+   "kok": "مدد",
+   "kokAnlam": "uzatma, artırma",
+   "karsilik": "ve artıracağız"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "onun için"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْعَذَابِ",
+   "okunus": "el'azâbi",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "azabını"
+  },
+  {
+   "kelime": "مَدًّا",
+   "okunus": "medden",
+   "kok": "مدد",
+   "kokAnlam": "uzatma",
+   "karsilik": "gitgide"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki iddiaya kesin bir 'hayır' ile cevap verilir: kişinin söylediği söz kayda geçirilecek ve karşılığında azabı artırılacaktır.",
+  "Aynı 'medd' kökünün burada azap için kullanılması dikkat çekicidir; 75. ayette sapkına tanınan süre, burada sözün karşılığı olan azabın artışına dönüşür."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:12",
+   "meal": "Şüphesiz biz ölüleri diriltiriz; onların yaptıklarını ve bıraktıkları eserleri yazarız; her şeyi apaçık bir kitapta saydık.",
+   "baglanti": "Yâsîn sûresi, insanın söz ve işlerinin kayıt altına alındığı fikrini doğrular."
+  },
+  {
+   "ref": "78:29",
+   "meal": "Biz her şeyi bir kitapta sayıp yazmışızdır.",
+   "baglanti": "Nebe sûresi, aynı 'her şeyin yazılması' fikrini kısa ve net bir cümleyle tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, söylenen sözlerin bile kayıt altına alındığı ve bir karşılığının olduğudur.",
+  "Ders: bugün ağzımızdan çıkan her söz, boş bir şey değil, kaydedilen ve karşılığı olan bir eylemdir; bu bilinçle konuşmak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü tart",
+   "aciklama": "Bugün söyleyeceğin bir sözü, kayda geçtiğini düşünerek tart."
+  },
+  {
+   "baslik": "Boş iddiadan kaçın",
+   "aciklama": "Bugün dayanaksız bir iddiada bulunmaktan kaçın."
+  },
+  {
+   "baslik": "Kaydı hatırla",
+   "aciklama": "Bugün bir söz söylerken, bunun unutulmayacağını hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün söyleyeceğin her sözü, kayda geçtiğini bilerek seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=79"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/79"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sure": 19,
+ "ayet": 88,
+ "durum": "taslak",
+ "meal": "'Rahmân çocuk edindi' dediler.",
+ "mealNotu": "'İttehaze' kökü أخذ edinmeyi, 'veled' kökü ولد soydan gelen çocuğu anlatır; ayet, bu iddiayı doğrudan aktarır, sonraki ayetler ona sert bir cevap verir.",
+ "kokler": [
+  {
+   "kelime": "وَقَالُوا۟",
+   "okunus": "ve kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "ٱتَّخَذَ",
+   "okunus": "ittehaze",
+   "kok": "أخذ",
+   "kokAnlam": "edinme",
+   "karsilik": "edindi"
+  },
+  {
+   "kelime": "ٱلرَّحْمَٰنُ",
+   "okunus": "errahmânü",
+   "kok": "رحم",
+   "kokAnlam": "rahmet",
+   "karsilik": "Rahmân"
+  },
+  {
+   "kelime": "وَلَدًا",
+   "okunus": "veleden",
+   "kok": "ولد",
+   "kokAnlam": "çocuk, evlat",
+   "karsilik": "çocuk"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sûrenin en sert reddiyelerinden biri burada başlar: bazı kimselerin 'Rahmân çocuk edindi' iddiası aktarılır. Ayet bu sözü aynen nakleder, herhangi bir yorum eklemez.",
+  "Bu iddia, Allah'ı doğum ve soy gibi yaratılmışlara özgü bir niteliğe indirgediği için, ilerleyen ayetlerde çok ağır bir dille reddedilecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "112:3",
+   "meal": "Doğurmadı ve doğurulmadı.",
+   "baglanti": "İhlâs sûresi, bu iddiaya en özlü ve doğrudan cevabı verir."
+  },
+  {
+   "ref": "21:26",
+   "meal": "'Rahmân çocuk edindi' dediler; hâşâ, O bundan münezzehtir. Hayır, onlar (melekler) şerefli kılınmış kullardır.",
+   "baglanti": "Enbiyâ sûresi, aynı iddiayı aynı fiille aktarıp doğrudan reddeder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Allah'a çocuk isnat edilmesi iddiasıdır; bu tarihsel bir inanç eleştirisidir.",
+  "Ders: bugün bir konuda, özellikle Allah hakkında konuşurken, delilsiz ve temelsiz bir iddiayı tekrarlamamak gerekir; söz söylemeden önce dayanağını düşünmek önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İddiayı sorgula",
+   "aciklama": "Bugün duyduğun bir iddiayı, doğrulamadan tekrar etmekten kaçın."
+  },
+  {
+   "baslik": "Allah hakkında dikkatli konuş",
+   "aciklama": "Bugün Allah'a dair bir söz söylerken temkinli ve saygılı ol."
+  },
+  {
+   "baslik": "Kaynağını ara",
+   "aciklama": "Bugün bir bilgiyi paylaşmadan önce kaynağını araştır."
+  }
+ ],
+ "bugununAdimi": "Bugün doğrulamadığın bir iddiayı başkasına aktarmaktan kaçın.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=88"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/88"
+  }
+ ]
+}

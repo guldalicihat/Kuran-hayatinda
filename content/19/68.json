@@ -1,0 +1,110 @@
+{
+ "sure": 19,
+ "ayet": 68,
+ "durum": "taslak",
+ "meal": "Rabbine andolsun ki onları ve şeytanları mutlaka toplayacağız, sonra onları diz çökmüş halde cehennemin çevresine getireceğiz.",
+ "mealNotu": "'Haşr' kökü حشر toplayıp bir araya getirmeyi, 'cüsûv' kökü جثو diz üstü çökmeyi anlatır; ayet dirilişten sonraki toplanma sahnesini tasvir eder.",
+ "kokler": [
+  {
+   "kelime": "فَوَرَبِّكَ",
+   "okunus": "feverabbike",
+   "kok": "ربب",
+   "kokAnlam": "Rab",
+   "karsilik": "Rabbine andolsun"
+  },
+  {
+   "kelime": "لَنَحْشُرَنَّهُمْ",
+   "okunus": "lenahşürannehüm",
+   "kok": "حشر",
+   "kokAnlam": "toplama",
+   "karsilik": "onları mutlaka toplayacağız"
+  },
+  {
+   "kelime": "وَٱلشَّيَٰطِينَ",
+   "okunus": "veş şeyâtîne",
+   "kok": "شطن",
+   "kokAnlam": "şeytan",
+   "karsilik": "ve şeytanları"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "bağlaç",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "لَنُحْضِرَنَّهُمْ",
+   "okunus": "lenühdırannehüm",
+   "kok": "حضر",
+   "kokAnlam": "hazır etme, getirme",
+   "karsilik": "onları getireceğiz"
+  },
+  {
+   "kelime": "حَوْلَ",
+   "okunus": "havle",
+   "kok": "حول",
+   "kokAnlam": "etraf",
+   "karsilik": "çevresine"
+  },
+  {
+   "kelime": "جَهَنَّمَ",
+   "okunus": "cehenneme",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "cehennemin"
+  },
+  {
+   "kelime": "جِثِيًّا",
+   "okunus": "cisiyyen",
+   "kok": "جثو",
+   "kokAnlam": "diz üstü çökme",
+   "karsilik": "diz çökmüş halde"
+  }
+ ],
+ "neAnlatiyor": [
+  "Öldükten sonra dirilmeyi reddedenlere karşı bir yemin ile cevap verilir: hem inkârcılar hem onları saptıran şeytanlar mutlaka toplanacaktır.",
+  "'Cisiyyen' (diz üstü çökmüş) ifadesi, o topluluğun cehennemin çevresinde acz ve korku içindeki bekleyişini canlı bir sahne olarak resmeder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:97",
+   "meal": "Kıyamet günü onları yüzükoyun, kör, dilsiz ve sağır olarak haşrederiz; varacakları yer cehennemdir.",
+   "baglanti": "İsrâ sûresi, benzer bir haşir sahnesini farklı ayrıntılarla tasvir eder."
+  },
+  {
+   "ref": "43:36",
+   "meal": "Kim Rahmân'ın zikrinden yüz çevirirse, ona bir şeytan musallat ederiz; o artık onun yakın dostu olur.",
+   "baglanti": "Zuhruf sûresi, inkârcı ile şeytanın birlikteliğini bu ayetle aynı temada anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, ahiretteki toplu hesap sahnesidir; bu doğrudan gündelik bir kural değil bir uyarı sahnesidir.",
+  "Ders: bugün kimin peşinden gidildiği (kötü bir arkadaş, bir alışkanlık) yarın birlikte hesaba çekilmeye yol açabilir; bu yüzden takip edilen yol önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Takip ettiğini gözden geçir",
+   "aciklama": "Bugün seni kötüye sürükleyen bir etkiyi (kişi, alışkanlık) fark et."
+  },
+  {
+   "baslik": "Sahneyi hayal et",
+   "aciklama": "Bugün bir yanlışa yönelirken, bunun hesabını düşün."
+  },
+  {
+   "baslik": "Doğru yola sarıl",
+   "aciklama": "Bugün küçük bir doğru seçimle, yanlış bir alışkanlığı kırmaya çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün seni yanlışa sürükleyen bir etkiden bilinçli olarak uzak dur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=68"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/68"
+  }
+ ]
+}
