@@ -1,0 +1,103 @@
+{
+ "sure": 21,
+ "ayet": 38,
+ "durum": "taslak",
+ "meal": "'Doğru sözlü iseniz, bu vaad ne zaman?' derler.",
+ "mealNotu": "Kısa ve doğrudan bir soru cümlesidir; 37. ayetteki acelecilik temasının somut bir örneğidir.",
+ "kokler": [
+  {
+   "kelime": "وَيَقُولُونَ",
+   "okunus": "ve yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "ve derler"
+  },
+  {
+   "kelime": "مَتَىٰ",
+   "okunus": "metâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne zaman",
+   "karsilik": "ne zaman"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "ٱلْوَعْدُ",
+   "okunus": "elva'dü",
+   "kok": "وعد",
+   "kokAnlam": "vaad",
+   "karsilik": "vaad"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "صَٰدِقِينَ",
+   "okunus": "sâdikîne",
+   "kok": "صدق",
+   "kokAnlam": "doğru sözlü olma",
+   "karsilik": "doğru sözlü"
+  }
+ ],
+ "neAnlatiyor": [
+  "37. ayette insanın acelecilik tabiatına değinilmişti; 38. ayet bunun somut bir örneğini verir: inkârcılar, kıyamet veya azap vaadinin ne zaman gerçekleşeceğini alaycı bir tonla sorar. Bu soru, iman etmek için değil, alay etmek için sorulur.",
+  "Klasik tefsir bu tür soruları, gaybe iman etmek istemeyen bir meydan okuma olarak açıklar. Ayetin devamında (39-40. ayetler) bu sorunun cevabı, vaadin ansızın geleceği şeklinde verilecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "67:25",
+   "meal": "'Eğer doğru sözlü iseniz, bu vaad ne zaman?' derler.",
+   "baglanti": "21:38 ile neredeyse birebir aynı ifadeyi taşır; aynı meydan okuma sorusunun başka bir surede tekrarıdır."
+  },
+  {
+   "ref": "36:48",
+   "meal": "'Eğer doğru sözlüyseniz, bu vaad ne zaman gerçekleşecek?' derler.",
+   "baglanti": "Aynı soru kalıbının bir başka tekrarıdır; inkârcıların kıyamet vaadine karşı ortak tavrını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyamet vaadinin inkârcılar tarafından alay konusu edilmesidir; bu doğrudan bir ahiret meselesidir.",
+  "Günlük hayata taşınabilecek ders, tarihini bilmediğin ama kesin olduğunu bildiğin bir şey (ölüm, hesap günü) için sabırsız bir meydan okumaya değil, hazırlıklı olmaya yönelmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tarihini bilmesen de hazırlan",
+   "aciklama": "Bugün, geleceği kesin ama zamanı belirsiz bir şey için (ölüm gibi) küçük bir hazırlık yap."
+  },
+  {
+   "baslik": "Alaycı bir soruya sakin cevap ver",
+   "aciklama": "Biri seninle alay edercesine soru sorarsa, sakin ve net cevap vermeye çalış."
+  },
+  {
+   "baslik": "Sabırsız meydan okumadan kaçın",
+   "aciklama": "Bir şeyi kanıtlamak için acele meydan okumak yerine, zamanı beklemeyi öğren."
+  }
+ ],
+ "bugununAdimi": "Bugün, zamanı belirsiz ama gerçekleşeceği kesin bir şey için küçük bir hazırlık yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=38"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/21/38"
+  }
+ ]
+}

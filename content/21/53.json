@@ -1,0 +1,89 @@
+{
+ "sure": 21,
+ "ayet": 53,
+ "durum": "taslak",
+ "meal": "Dediler ki: Biz atalarımızı bunlara tapar bulduk.",
+ "mealNotu": "'Vecednâ' kökü (وجد) bulmayı anlatır; kavmin cevabı akli bir gerekçe değil, sadece atalara uyma (taklit) ile verilir.",
+ "kokler": [
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "وَجَدْنَآ",
+   "okunus": "vecednâ",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulduk"
+  },
+  {
+   "kelime": "ءَابَآءَنَا",
+   "okunus": "âbâenâ",
+   "kok": "أبو",
+   "kokAnlam": "baba, ata",
+   "karsilik": "atalarımızı"
+  },
+  {
+   "kelime": "لَهَا",
+   "okunus": "lehâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "عَٰبِدِينَ",
+   "okunus": "âbidîne",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme, tapma",
+   "karsilik": "tapar"
+  }
+ ],
+ "neAnlatiyor": [
+  "52. ayetteki soruya kavmin verdiği cevap budur: akli bir gerekçe değil, sadece 'atalarımızı böyle bulduk' savunması. 'Vecednâ' kökü, bunun bir düşünme sonucu değil, hazır bulunmuş bir alışkanlık olduğunu vurgular.",
+  "Klasik tefsir bu tür cevabı, körü körüne atalara uyma (taklit) örneği olarak gösterir; kavim, İbrahim'in sorusuna bir mantık değil, bir gelenek sunar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:170",
+   "meal": "Onlara 'Allah'ın indirdiğine uyun' dendiğinde, 'Hayır, atalarımızı üzerinde bulduğumuz şeye uyarız' derler. Ataları bir şey akletmiyor ve doğru yolu bulamıyor idiyseler de mi?",
+   "baglanti": "21:53'teki 'atalarımızı bulduk' cevabıyla aynı mantığı, akletmeyen ataya uymanın eleştirisiyle birlikte tekrarlar."
+  },
+  {
+   "ref": "43:23",
+   "meal": "Biz atalarımızı bir din üzerinde bulduk, biz de onların izlerinden gidiyoruz.",
+   "baglanti": "Aynı 'atalarımızı bulduk' cevabının, başka bir peygamber kıssasındaki tekrarıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kavmin İbrahim'in sorusuna akli değil geleneksel bir cevap vermesidir.",
+  "Günlük hayata taşınabilecek ders, 'hep böyle yapılırdı' mantığının tek başına bir gerekçe olmadığıdır. Bir davranışın doğruluğu, eskiliğinden gelmez."
+ ],
+ "bugun": [
+  {
+   "baslik": "'Hep böyle' mantığını sorgula",
+   "aciklama": "Bugün 'hep böyle yapılırdı' dediğin bir davranışı, gerçekten doğru mu diye bir kez düşün."
+  },
+  {
+   "baslik": "Nedenini bilerek yap",
+   "aciklama": "Bir işi neden yaptığını bilmiyorsan, bugün bunu araştır."
+  },
+  {
+   "baslik": "Taklitten öte geç",
+   "aciklama": "Sadece çevrenin yaptığı için değil, kendi kanaatinle bir seçim yap."
+  }
+ ],
+ "bugununAdimi": "Bugün 'hep böyle yapılırdı' dediğin bir davranışı, gerçekten doğru mu diye bir kez sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=53"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/21/53"
+  }
+ ]
+}
