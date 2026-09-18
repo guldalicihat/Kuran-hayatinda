@@ -20,3 +20,4 @@ export interface Content {
 export type ContentIndex = Record<string, number[]>
 export type MealMap = Record<string, string>
 export type SearchRow = [number, number, string]
+export type ContentSearchRow = [sure: number, ayet: number, meal: string, extra: string]

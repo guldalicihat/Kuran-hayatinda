@@ -1,4 +1,4 @@
-import type { Chapter, Content, ContentIndex, MealMap, SearchRow, Surah } from './types'
+import type { Chapter, Content, ContentIndex, ContentSearchRow, MealMap, SearchRow, Surah } from './types'
 
 const base = import.meta.env.BASE_URL
 const cache = new Map<string, Promise<unknown>>()
@@ -15,6 +15,7 @@ export const loadSurah = (n: number) => get<Surah>(`data/surah/${n}.json`)
 export const loadSearch = () => get<SearchRow[]>('data/search.json')
 export const loadContentIndex = () => get<ContentIndex>('content/index.json').catch(() => ({} as ContentIndex))
 export const loadMeals = (n: number) => get<MealMap>(`data/meal/${n}.json`).catch(() => ({} as MealMap))
+export const loadContentSearch = () => get<ContentSearchRow[]>('data/content-search.json').catch(() => [] as ContentSearchRow[])
 export const loadContent = (s: number, a: number) => get<Content>(`content/${s}/${a}.json`)
 
 export function parseRef(ref: string): [number, number] | null {

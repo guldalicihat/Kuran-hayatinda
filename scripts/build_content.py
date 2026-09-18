@@ -13,13 +13,23 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, 'content')
 PUB = os.path.join(ROOT, 'public', 'content')
 MEAL = os.path.join(ROOT, 'public', 'data', 'meal')
+CONTENT_SEARCH = os.path.join(ROOT, 'public', 'data', 'content-search.json')
 REQUIRED = ['sure', 'ayet', 'durum', 'meal', 'kokler', 'neAnlatiyor', 'kuraniKurana', 'gunlukHayat', 'bugun', 'bugununAdimi']
+
+def searchable_extra(d):
+    """Meal dışındaki açıklama metinlerini arama için tek satırda birleştirir."""
+    parts = list(d.get('neAnlatiyor', [])) + list(d.get('gunlukHayat', []))
+    for b in d.get('bugun', []):
+        parts.append(f"{b['baslik']}: {b['aciklama']}")
+    if d.get('bugununAdimi'):
+        parts.append(d['bugununAdimi'])
+    return ' '.join(parts)
 
 def main():
     if os.path.isdir(PUB): shutil.rmtree(PUB)
     if os.path.isdir(MEAL): shutil.rmtree(MEAL)
     os.makedirs(PUB); os.makedirs(MEAL)
-    index = {}; meals = {}; n = 0
+    index = {}; meals = {}; content_search = []; n = 0
     for path in sorted(glob.glob(os.path.join(SRC, '*', '*.json'))):
         d = json.load(open(path, encoding='utf-8'))
         missing = [k for k in REQUIRED if k not in d]
@@ -42,11 +52,14 @@ def main():
         json.dump(d, open(os.path.join(PUB, str(s), f'{a}.json'), 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
         index.setdefault(str(s), []).append(a)
         meals.setdefault(str(s), {})[str(a)] = d['meal']
+        content_search.append([s, a, d['meal'], searchable_extra(d)])
         n += 1
     for s in index: index[s].sort()
     json.dump(index, open(os.path.join(PUB, 'index.json'), 'w', encoding='utf-8'), ensure_ascii=False)
     for s, m in meals.items():
         json.dump(m, open(os.path.join(MEAL, f'{s}.json'), 'w', encoding='utf-8'), ensure_ascii=False)
+    content_search.sort(key=lambda r: (r[0], r[1]))
+    json.dump(content_search, open(CONTENT_SEARCH, 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
     print(f'{n} açıklama, {len(index)} sure derlendi')
 
 if __name__ == '__main__':
