@@ -1,9 +1,16 @@
-import { useDeferredValue, useEffect, useMemo, useState } from 'react'
+import { useDeferredValue, useEffect, useMemo, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import Header from '../components/Header'
-import FilterInput from '../components/FilterInput'
 import { loadChapters, loadContentSearch, loadSearch, parseRef } from '../lib/data'
 import type { Chapter, ContentSearchRow, SearchRow } from '../lib/types'
+
+function SearchIcon({ size = 18 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="muted shrink-0">
+      <path d="M10.5 4a6.5 6.5 0 110 13 6.5 6.5 0 010-13zM15.5 15.5L21 21" />
+    </svg>
+  )
+}
 
 function norm(s: string) { return s.toLocaleLowerCase('tr').replace(/[âîû']/g, c => ({ 'â': 'a', 'î': 'i', 'û': 'u', "'": '' }[c] ?? c)) }
 
@@ -28,6 +35,7 @@ interface Result { sure: number; ayet: number; okunus: string; meal?: string; ma
 export default function SearchPage() {
   const [q, setQ] = useState('')
   const dq = useDeferredValue(q)
+  const inputRef = useRef<HTMLInputElement>(null)
   const [rows, setRows] = useState<SearchRow[]>([])
   const [chapters, setChapters] = useState<Chapter[]>([])
   const [contentRows, setContentRows] = useState<ContentSearchRow[]>([])
@@ -62,11 +70,28 @@ export default function SearchPage() {
     }
     return out
   }, [dq, rows, content])
+  const empty = q.trim().length === 0
+  const box = (
+    <label className="flex items-center gap-3 rounded-full px-4 card border hairline tap" style={{ boxShadow: empty ? '0 1px 6px rgba(0,0,0,.08)' : undefined, paddingTop: empty ? 14 : 10, paddingBottom: empty ? 14 : 10 }}>
+      <SearchIcon size={empty ? 20 : 18} />
+      <input ref={inputRef} value={q} onChange={e => setQ(e.target.value)} placeholder="Kur'anda ara"
+        className="flex-1 bg-transparent outline-none" style={{ fontSize: empty ? 17 : 16 }} />
+      {q && <button onClick={() => { setQ(''); inputRef.current?.focus() }} className="muted text-sm tap">Temizle</button>}
+    </label>
+  )
   return (
     <div className="safe-bottom">
       <Header title="Ara" />
-      <FilterInput value={q} onChange={setQ} placeholder="Okunuş, meal, açıklama veya 8:65" />
-      <p className="px-4 pb-2 text-xs muted">Okunuş, meal ve açıklamalarda (günlük hayat, bugün yapabilirsin vb.) arar. Sure:ayet biçiminde (örn. 8:65) doğrudan gider.</p>
+      {empty ? (
+        <div className="flex flex-col items-center px-6" style={{ paddingTop: '14vh' }}>
+          <img src={`${import.meta.env.BASE_URL}icon.svg`} width={56} height={56} className="rounded-2xl mb-3" alt="" />
+          <h1 className="text-[20px] font-semibold mb-5">Kur'an Hayatında</h1>
+          <div className="w-full max-w-[420px]">{box}</div>
+          <p className="text-xs muted mt-4 text-center max-w-[320px]">Okunuş, meal ve açıklamalarda (günlük hayat, bugün yapabilirsin vb.) arar.<br />Sure:ayet biçiminde (örn. 8:65) doğrudan gider.</p>
+        </div>
+      ) : (
+        <div className="px-4 py-2">{box}</div>
+      )}
       <ul className="card">
         {results.map(r => (
           <li key={`${r.sure}:${r.ayet}`} className="border-b hairline">
@@ -83,7 +108,7 @@ export default function SearchPage() {
           </li>
         ))}
       </ul>
-      {dq.trim().length >= 2 && results.length === 0 && <p className="p-6 text-center muted">Sonuç yok.</p>}
+      {!empty && dq.trim().length >= 2 && results.length === 0 && <p className="p-6 text-center muted">Sonuç yok.</p>}
     </div>
   )
 }
