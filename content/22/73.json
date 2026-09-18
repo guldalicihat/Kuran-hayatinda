@@ -1,0 +1,250 @@
+{
+ "sure": 22,
+ "ayet": 73,
+ "durum": "taslak",
+ "meal": "Ey insanlar! Bir örnek verildi, onu dinleyin: Allah'ı bırakıp yalvardıklarınız, bunun için bir araya toplansalar bile, asla bir sinek bile yaratamazlar. Sinek onlardan bir şey kapsa, onu ondan geri de alamazlar. İsteyen de âciz, istenen de âciz.",
+ "mealNotu": "Kök temelli meal; ek yorum yok.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلنَّاسُ",
+   "okunus": "ennâsü",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanlar"
+  },
+  {
+   "kelime": "ضُرِبَ",
+   "okunus": "duribe",
+   "kok": "ضرب",
+   "kokAnlam": "vurma; örnek verme",
+   "karsilik": "verildi"
+  },
+  {
+   "kelime": "مَثَلٌ",
+   "okunus": "meselün",
+   "kok": "مثل",
+   "kokAnlam": "benzetme, örnek, mesel",
+   "karsilik": "bir örnek"
+  },
+  {
+   "kelime": "فَٱسْتَمِعُوا۟",
+   "okunus": "festemiû",
+   "kok": "سمع",
+   "kokAnlam": "dinleme, işitme",
+   "karsilik": "dinleyin"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "تَدْعُونَ",
+   "okunus": "ted'ûne",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, yalvarma",
+   "karsilik": "yalvardıklarınız"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -dan",
+   "karsilik": "-dan"
+  },
+  {
+   "kelime": "دُونِ",
+   "okunus": "dûni",
+   "kok": "دون",
+   "kokAnlam": "aşağı, başka",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah, Allah",
+   "karsilik": "Allah'ı"
+  },
+  {
+   "kelime": "لَن",
+   "okunus": "len",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) asla ...mayacak",
+   "karsilik": "asla"
+  },
+  {
+   "kelime": "يَخْلُقُوا۟",
+   "okunus": "yahlükû",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yaratamazlar"
+  },
+  {
+   "kelime": "ذُبَابًا",
+   "okunus": "zübâben",
+   "kok": "ذبب",
+   "kokAnlam": "sinek",
+   "karsilik": "bir sinek"
+  },
+  {
+   "kelime": "وَلَوِ",
+   "okunus": "ve levi",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer ... olsa bile",
+   "karsilik": "olsalar bile"
+  },
+  {
+   "kelime": "ٱجْتَمَعُوا۟",
+   "okunus": "ictemeû",
+   "kok": "جمع",
+   "kokAnlam": "toplanma, bir araya gelme",
+   "karsilik": "bir araya toplansalar"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) bunun için",
+   "karsilik": "bunun için"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يَسْلُبْهُمُ",
+   "okunus": "yeslübhümü",
+   "kok": "سلب",
+   "kokAnlam": "kapıp alma, çalma",
+   "karsilik": "onlardan kapsa"
+  },
+  {
+   "kelime": "ٱلذُّبَابُ",
+   "okunus": "ezzübâbü",
+   "kok": "ذبب",
+   "kokAnlam": "sinek",
+   "karsilik": "sinek"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "bir şey",
+   "karsilik": "bir şey"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mazlar",
+   "karsilik": "-mazlar"
+  },
+  {
+   "kelime": "يَسْتَنقِذُوهُ",
+   "okunus": "yestenkızûhü",
+   "kok": "نقذ",
+   "kokAnlam": "kurtarma, geri alma",
+   "karsilik": "onu geri alamazlar"
+  },
+  {
+   "kelime": "مِنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "ضَعُفَ",
+   "okunus": "daufe",
+   "kok": "ضعف",
+   "kokAnlam": "zayıflık, güçsüzlük",
+   "karsilik": "âcizdir"
+  },
+  {
+   "kelime": "ٱلطَّالِبُ",
+   "okunus": "ettâlibü",
+   "kok": "طلب",
+   "kokAnlam": "isteme, arama",
+   "karsilik": "isteyen de"
+  },
+  {
+   "kelime": "وَٱلْمَطْلُوبُ",
+   "okunus": "vel matlûbü",
+   "kok": "طلب",
+   "kokAnlam": "istenen",
+   "karsilik": "istenen de"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu meşhur temsil ayeti, Allah'ı bırakıp tapınılan varlıkların aczini en çarpıcı biçimde gösterir: hepsi bir araya gelseler bile küçücük bir sinek bile yaratamazlar. Üstelik sinek onlardan bir şey kapsa, onu geri almaktan bile aciz kalırlar. Klasik tefsir bu ayeti, put ve benzeri şeylere tapınmanın akla aykırılığını gösteren bir mesel olarak açıklar.",
+  "Ayet, hem isteyen (tapınan) hem de istenen (tapınılan) tarafı 'âciz' olarak niteleyerek biter. Böylece en basit bir yaratma eylemini bile gerçekleştiremeyen varlıkların ilahlık iddiasının anlamsızlığı vurgulanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:3",
+   "meal": "Onlar, Allah'ı bırakıp hiçbir şey yaratamayan, kendileri yaratılmış olan, kendilerine bile ne zarar ne yarar verebilen, öldürmeye, yaşatmaya ve yeniden diriltmeye güçleri yetmeyen ilahlar edindiler.",
+   "baglanti": "Aynı 'yaratamama' ve 'acizlik' teması burada daha geniş bir listeyle tekrarlanır."
+  },
+  {
+   "ref": "35:40",
+   "meal": "De ki: Allah'ı bırakıp yalvardıklarınızı gördünüz mü? Bana gösterin, onlar yeryüzünde ne yaratmışlar?",
+   "baglanti": "Tapınılan varlıklardan somut bir yaratma delili istenmesi, 22:73'teki sinek örneğiyle aynı mantığı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah'tan başka yalvarılan varlıkların en küçük bir yaratma gücüne bile sahip olmadığıdır; bu, tevhid inancının temel bir delilidir.",
+  "Bugüne taşınabilecek ders, gücümüzün ve umudumuzun sınırlarını doğru tanımaktır. İnsanın da, güvendiği başka birçok şeyin de aslında en küçük bir olay karşısında ne kadar çaresiz kalabileceğini hatırlamak, gerçek güvenin nereye bağlanması gerektiğini gösterir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gerçek gücü tanı",
+   "aciklama": "Bugün bir sorunda, geçici çözümler yerine gerçek gücün kimde olduğunu hatırlayarak dua et."
+  },
+  {
+   "baslik": "Küçük bir yaratılışa bak",
+   "aciklama": "Bir böceği ya da küçük bir canlıyı gözlemleyip, onun bile ne kadar karmaşık bir yaratılışa sahip olduğunu düşün."
+  },
+  {
+   "baslik": "Boş güvenden vazgeç",
+   "aciklama": "Aşırı güvendiğin ama aslında aciz olan bir dayanağını bugün fark et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir sıkıntında, ilk elden insanlara veya eşyaya değil, gerçek gücün sahibine yönelerek dua et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=73"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/22/73"
+  }
+ ]
+}

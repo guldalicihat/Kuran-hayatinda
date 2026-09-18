@@ -1,0 +1,367 @@
+{
+ "sure": 22,
+ "ayet": 78,
+ "durum": "taslak",
+ "meal": "Allah yolunda, hakkını vererek cihad edin. O, sizi seçti ve dinde üzerinize hiçbir güçlük yüklemedi; babanız İbrahim'in dinini (verdi). O, hem daha önce hem bunda [bu Kur'an'da] size 'müslümanlar' adını verdi ki Peygamber size şahit olsun, siz de insanlara şahit olasınız. Öyleyse namazı kılın, zekâtı verin ve Allah'a sarılın. O, sizin mevlanızdır. O, ne güzel mevlâ, ne güzel yardımcıdır!",
+ "mealNotu": "'Hâzâ' (bu) zamiri, açık isim taşımadığı için köşeli parantezle [bu Kur'an'da] olarak açıklandı; bağlam, önceki vahiylere ek olarak bu vahyi de kastettiğini gösterir. 'Harac' kökü darlık ve güçlüğü anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَجَٰهِدُوا۟",
+   "okunus": "ve câhidû",
+   "kok": "جهد",
+   "kokAnlam": "çaba, gayret, cihad",
+   "karsilik": "cihad edin"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah, Allah",
+   "karsilik": "Allah yolunda"
+  },
+  {
+   "kelime": "حَقَّ",
+   "okunus": "hakka",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, hakkıyla, layıkıyla",
+   "karsilik": "hakkını vererek"
+  },
+  {
+   "kelime": "جِهَادِهِۦ",
+   "okunus": "cihâdihî",
+   "kok": "جهد",
+   "kokAnlam": "çaba, gayret, cihad",
+   "karsilik": "O'nun cihadının"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) O",
+   "karsilik": "O"
+  },
+  {
+   "kelime": "ٱجْتَبَىٰكُمْ",
+   "okunus": "ictebâküm",
+   "kok": "جبي",
+   "kokAnlam": "seçme, süzüp ayırma",
+   "karsilik": "sizi seçti"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...etmedi",
+   "karsilik": "ve etmedi"
+  },
+  {
+   "kelime": "جَعَلَ",
+   "okunus": "ceale",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "yüklemedi"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinize",
+   "karsilik": "üzerinize"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلدِّينِ",
+   "okunus": "eddîni",
+   "kok": "دين",
+   "kokAnlam": "din",
+   "karsilik": "dinde"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "حَرَجٍ",
+   "okunus": "haracin",
+   "kok": "حرج",
+   "kokAnlam": "darlık, sıkıntı, güçlük",
+   "karsilik": "güçlük"
+  },
+  {
+   "kelime": "مِّلَّةَ",
+   "okunus": "millete",
+   "kok": "ملل",
+   "kokAnlam": "din, yol, millet",
+   "karsilik": "dinini"
+  },
+  {
+   "kelime": "أَبِيكُمْ",
+   "okunus": "ebîküm",
+   "kok": "أبو",
+   "kokAnlam": "baba",
+   "karsilik": "babanız"
+  },
+  {
+   "kelime": "إِبْرَٰهِيمَ",
+   "okunus": "ibrâhîme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İbrahim",
+   "karsilik": "İbrahim'in"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) O",
+   "karsilik": "O"
+  },
+  {
+   "kelime": "سَمَّىٰكُمُ",
+   "okunus": "semmâkümü",
+   "kok": "سمو",
+   "kokAnlam": "isim verme, adlandırma",
+   "karsilik": "size adını verdi"
+  },
+  {
+   "kelime": "ٱلْمُسْلِمِينَ",
+   "okunus": "elmüslimîne",
+   "kok": "سلم",
+   "kokAnlam": "teslimiyet, esenlik; müslüman",
+   "karsilik": "müslümanlar"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلُ",
+   "okunus": "kablü",
+   "kok": "قبل",
+   "kokAnlam": "önce",
+   "karsilik": "önceden"
+  },
+  {
+   "kelime": "وَفِى",
+   "okunus": "ve fî",
+   "kok": "—",
+   "kokAnlam": "(edat) ve -de",
+   "karsilik": "ve -de"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "لِيَكُونَ",
+   "okunus": "liyekûne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olsun diye"
+  },
+  {
+   "kelime": "ٱلرَّسُولُ",
+   "okunus": "errasûlü",
+   "kok": "رسل",
+   "kokAnlam": "elçi, gönderilen",
+   "karsilik": "Peygamber"
+  },
+  {
+   "kelime": "شَهِيدًا",
+   "okunus": "şehîden",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik",
+   "karsilik": "şahit"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "وَتَكُونُوا۟",
+   "okunus": "ve tekûnû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ve siz olasınız"
+  },
+  {
+   "kelime": "شُهَدَآءَ",
+   "okunus": "şühedâe",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik",
+   "karsilik": "şahitler"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلنَّاسِ",
+   "okunus": "ennâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanlara"
+  },
+  {
+   "kelime": "فَأَقِيمُوا۟",
+   "okunus": "feekîmû",
+   "kok": "قوم",
+   "kokAnlam": "ayakta tutma, ikame etme",
+   "karsilik": "öyleyse kılın"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "namaz, dua",
+   "karsilik": "namazı"
+  },
+  {
+   "kelime": "وَءَاتُوا۟",
+   "okunus": "ve âtû",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "ve verin"
+  },
+  {
+   "kelime": "ٱلزَّكَوٰةَ",
+   "okunus": "ezzekâte",
+   "kok": "زكو",
+   "kokAnlam": "arınma, temizlik; zekât",
+   "karsilik": "zekâtı"
+  },
+  {
+   "kelime": "وَٱعْتَصِمُوا۟",
+   "okunus": "vetesımû",
+   "kok": "عصم",
+   "kokAnlam": "sıkı tutunma, korunma",
+   "karsilik": "ve sarılın"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah, Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) O",
+   "karsilik": "O"
+  },
+  {
+   "kelime": "مَوْلَىٰكُمْ",
+   "okunus": "mevlâküm",
+   "kok": "ولي",
+   "kokAnlam": "dost, sahip, yardımcı, mevla",
+   "karsilik": "sizin mevlanızdır"
+  },
+  {
+   "kelime": "فَنِعْمَ",
+   "okunus": "feni'me",
+   "kok": "نعم",
+   "kokAnlam": "ne güzel",
+   "karsilik": "ne güzeldir"
+  },
+  {
+   "kelime": "ٱلْمَوْلَىٰ",
+   "okunus": "elmevlâ",
+   "kok": "ولي",
+   "kokAnlam": "mevla, dost, sahip",
+   "karsilik": "o mevlâ"
+  },
+  {
+   "kelime": "وَنِعْمَ",
+   "okunus": "ve ni'me",
+   "kok": "نعم",
+   "kokAnlam": "ne güzel",
+   "karsilik": "ve ne güzeldir"
+  },
+  {
+   "kelime": "ٱلنَّصِيرُ",
+   "okunus": "ennesîru",
+   "kok": "نصر",
+   "kokAnlam": "yardım eden",
+   "karsilik": "o yardımcı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, kapanışında müminlere Allah yolunda hakkıyla cihad etme emriyle başlar; ardından Allah'ın onları seçtiği, dinde üzerlerine güçlük yüklemediği ve bu dinin babaları İbrahim'in dini/yolu olduğu hatırlatılır. 'Harac' kökü sıkıntı ve darlık anlamına gelir; bu ifade, dinin insan tabiatına ağır gelecek yükler koymadığını bildirir.",
+  "Ayet, 'müslüman' isminin hem geçmişte hem bu vahiyde verildiğini, Peygamber'in ümmete, ümmetin de insanlığa şahit olacağını bildirir. Kapanışta namaz, zekât ve Allah'a sarılma emredilir; O'nun en güzel mevlâ ve yardımcı olduğu vurgulanarak sure sona erer."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:143",
+   "meal": "Böylece sizi orta (dengeli) bir ümmet kıldık ki insanlara şahit olasınız, Peygamber de size şahit olsun.",
+   "baglanti": "Aynı 'insanlara şahit olma, Peygamberin de size şahit olması' ifadesi burada da geçer; 22:78'in doğrudan paraleli."
+  },
+  {
+   "ref": "2:185",
+   "meal": "...Allah sizin için kolaylık ister, güçlük istemez.",
+   "baglanti": "Dinde güçlük değil kolaylık istenmesi ilkesi, 22:78'deki 'dinde üzerinize hiçbir güçlük kılmadı' ifadesiyle aynı temayı taşır."
+  },
+  {
+   "ref": "16:123",
+   "meal": "Sonra sana, 'Hanif olan İbrahim'in dinine (milletine) uy' diye vahyettik; o, müşriklerden değildi.",
+   "baglanti": "'Millete ebîküm İbrahim' (babanız İbrahim'in dini) ifadesi burada da doğrudan geçer."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dinin insana ağır gelecek bir yük olarak değil, kolaylık üzere konulduğu ve müminlerin bu dinde hem ibadetle hem şahitlikle sorumlu olduğudur.",
+  "Bugüne taşınabilecek ders, dini yaşarken kendine ya da başkasına gereksiz güçlük çıkarmamaktır. Aşırılığa kaçmadan, orta yolu ve kolaylığı gözeterek ibadet ve iyi işleri sürdürmek, bu ayetin ruhuna uygun bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kolaylığı seç",
+   "aciklama": "Bugün bir ibadetini ya da iyi bir işini yaparken, kendine gereksiz zorluk çıkarmadan en kolay ve sürdürülebilir yolu seç."
+  },
+  {
+   "baslik": "Şahitliğini hatırla",
+   "aciklama": "Bugün davranışlarınla, gördüğün insanlara iyi bir örnek olduğunu hatırlayarak hareket et."
+  },
+  {
+   "baslik": "Allah'a sarıl",
+   "aciklama": "Zor bir anında, ilk elden panik yapmak yerine, Allah'a sarılmayı (dua, sabır) tercih et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ibadetini, kendine gereksiz güçlük çıkarmadan, en kolay ve düzenli şekilde yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=78"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/22/78"
+  }
+ ]
+}

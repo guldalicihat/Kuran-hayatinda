@@ -1,0 +1,131 @@
+{
+ "sure": 22,
+ "ayet": 77,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Rükû edin, secde edin, Rabbinize kulluk edin ve hayır işleyin ki kurtuluşa eresiniz.",
+ "mealNotu": "Kök temelli meal; ek yorum yok.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma",
+   "karsilik": "iman eden"
+  },
+  {
+   "kelime": "ٱرْكَعُوا۟",
+   "okunus": "urkeû",
+   "kok": "ركع",
+   "kokAnlam": "eğilme, rükû",
+   "karsilik": "rükû edin"
+  },
+  {
+   "kelime": "وَٱسْجُدُوا۟",
+   "okunus": "vescüdû",
+   "kok": "سجد",
+   "kokAnlam": "yere kapanma, secde",
+   "karsilik": "secde edin"
+  },
+  {
+   "kelime": "وَٱعْبُدُوا۟",
+   "okunus": "vebüdû",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme",
+   "karsilik": "kulluk edin"
+  },
+  {
+   "kelime": "رَبَّكُمْ",
+   "okunus": "rabbeküm",
+   "kok": "ربب",
+   "kokAnlam": "sahiplik, terbiye etme, Rab",
+   "karsilik": "Rabbinize"
+  },
+  {
+   "kelime": "وَٱفْعَلُوا۟",
+   "okunus": "vef'alû",
+   "kok": "فعل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "işleyin"
+  },
+  {
+   "kelime": "ٱلْخَيْرَ",
+   "okunus": "elhayra",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "لَعَلَّكُمْ",
+   "okunus": "lealleküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ki siz ...esiniz",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "تُفْلِحُونَ",
+   "okunus": "tüflihûne",
+   "kok": "فلح",
+   "kokAnlam": "kurtuluş, felah, başarı",
+   "karsilik": "kurtuluşa eresiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure sonuna doğru gelen bu ayet, önceki ayetlerdeki tevhid ve ilim vurgularından sonra doğrudan müminlere bir çağrı yapar: rükû, secde ve genel kulluk ile birlikte hayır işlemeyi de emreder.",
+  "'Tüflihûn' (kurtuluşa eresiniz) ifadesi, bu ibadet ve hayırların birlikte yapılmasının felaha (gerçek başarıya) vesile olacağını bildirir; yani ibadet ile toplumsal iyilik burada yan yana anılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "23:1",
+   "meal": "Müminler gerçekten kurtuluşa ermiştir.",
+   "baglanti": "Aynı 'felah' (kurtuluş) kavramı burada da müminlerin niteliği olarak anılır; 22:77'deki vaadin bir açılımıdır."
+  },
+  {
+   "ref": "2:43",
+   "meal": "Namazı kılın, zekâtı verin, rükû edenlerle birlikte rükû edin.",
+   "baglanti": "Rükû ve namaz emri burada da benzer şekilde geçer; ibadetin toplu ve düzenli boyutuna işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ibadetin (rükû, secde, kulluk) hayırlı işlerle birlikte yürütülmesi gerektiğidir; bu, dinin hem ibadet hem ahlak boyutunu bir arada anar.",
+  "Bugüne taşınabilecek ders, namaz gibi ibadetleri günlük hayattaki iyilikten ayırmamaktır. İbadet ile hayır, birbirini tamamlayan iki yön olarak görülmelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İbadeti hayırla tamamla",
+   "aciklama": "Bugün kıldığın bir namazın ardından, küçük de olsa bir hayır işi ekle."
+  },
+  {
+   "baslik": "Kulluğu ihmal etme",
+   "aciklama": "Yoğun bir gün olsa bile, bugün Rabbine ayıracağın bir vakti atlamamaya özen göster."
+  },
+  {
+   "baslik": "Hayrı fırsat bil",
+   "aciklama": "Bugün karşına çıkan küçük bir yardım fırsatını değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün kıldığın bir namazın ardından, birine somut bir iyilik yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=77"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/22/77"
+  }
+ ]
+}
