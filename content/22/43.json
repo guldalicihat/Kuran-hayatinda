@@ -1,0 +1,82 @@
+{
+ "sure": 22,
+ "ayet": 43,
+ "durum": "taslak",
+ "meal": "İbrahim'in kavmi ve Lût'un kavmi de (yalanlamıştı).",
+ "mealNotu": "Ayet, önceki cümlenin devamı olarak yalanlayan kavimler listesine İbrahim'in ve Lût'un kavimlerini ekler; fiil önceki ayetten (kezzebet) taşınır.",
+ "kokler": [
+  {
+   "kelime": "وَقَوْمُ",
+   "okunus": "ve kavmü",
+   "kok": "قوم",
+   "kokAnlam": "kavim, topluluk",
+   "karsilik": "ve kavmi"
+  },
+  {
+   "kelime": "إِبْرَٰهِيمَ",
+   "okunus": "ibrâhîme",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İbrahim'in"
+  },
+  {
+   "kelime": "وَقَوْمُ",
+   "okunus": "ve kavmü",
+   "kok": "قوم",
+   "kokAnlam": "kavim, topluluk",
+   "karsilik": "ve kavmi"
+  },
+  {
+   "kelime": "لُوطٍ",
+   "okunus": "lûtın",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "Lût'un"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu kısa ayet, önceki ayetteki yalanlayan kavimler listesini sürdürür. Nûh, Âd ve Semûd'un ardından İbrahim'in kavmi ve Lût'un kavmi eklenir; her ikisi de kendilerine gönderilen elçiyi reddeden topluluklardır.",
+  "İbrahim'in kavmi onu ateşe atmaya kalkışmış, Lût'un kavmi ise kendisine gelen uyarıyı dinlememiştir. Liste, tek bir dönemle ya da coğrafyayla sınırlı olmadığını, inkârın farklı zamanlarda tekrarlanan bir tutum olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "9:70",
+   "meal": "Kendilerinden öncekilerin haberi onlara gelmedi mi? Nûh kavmi, Âd, Semûd, İbrahim kavmi, Medyen halkı ve altüst olan (Lût kavminin) şehirleri...",
+   "baglanti": "22:42-44'te sıralanan aynı kavimler burada da neredeyse aynı sırayla anılır; bu liste ile paralel okunabilir."
+  },
+  {
+   "ref": "26:160",
+   "meal": "Lût kavmi de elçileri yalanladı.",
+   "baglanti": "Lût kavminin yalanlaması burada ayrı bir ayette de doğrudan belirtilir; 22:43'teki kısa ifadeyi açar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, geçmiş kavimlerin elçilerini yalanlamasının tarihî bir listesidir; bu, dönemin dinleyicilerine yönelik somut bir hatırlatmadır.",
+  "Buradan çıkan genel ders, inkârın tek bir topluma özgü olmadığıdır. Günlük hayatta bu, farklı zaman ve yerlerde benzer yanlışların tekrarlanabileceğini, dolayısıyla geçmişten ders çıkarmanın önemini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tarihten ders çıkar",
+   "aciklama": "Bugün bir haberde ya da hikâyede geçmişten bir örneği okuduğunda, ondan çıkarılacak dersi düşün."
+  },
+  {
+   "baslik": "Tekrarlanan hatayı fark et",
+   "aciklama": "Bugün kendi hayatında tekrar ettiğin bir hatayı fark etmeye çalış."
+  },
+  {
+   "baslik": "Israrla doğruyu anlat",
+   "aciklama": "Bugün bir konuda doğru bildiğini, ilk seferde anlaşılmasa da sakince tekrar anlat."
+  }
+ ],
+ "bugununAdimi": "Bugün geçmişte tekrarladığın küçük bir hatayı fark edip bir kez tekrarlamamaya karar ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=43"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/22/43"
+  }
+ ]
+}

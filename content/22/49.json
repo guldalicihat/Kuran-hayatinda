@@ -1,0 +1,110 @@
+{
+ "sure": 22,
+ "ayet": 49,
+ "durum": "taslak",
+ "meal": "De ki: Ey insanlar! Ben sizin için ancak apaçık bir uyarıcıyım.",
+ "mealNotu": "'Nezîr' kökü (نذر) uyarmayı anlatır. Ayet, Peygamber'in görevini tek bir sözcükle, 'apaçık uyarıcı' olarak tanımlar.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "nida edatı",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلنَّاسُ",
+   "okunus": "ennâsü",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanlar"
+  },
+  {
+   "kelime": "إِنَّمَآ",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "أَنَا۠",
+   "okunus": "ene",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "ben"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "zamir",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "نَذِيرٌ",
+   "okunus": "nezîrun",
+   "kok": "نذر",
+   "kokAnlam": "uyarma",
+   "karsilik": "bir uyarıcıyım"
+  },
+  {
+   "kelime": "مُّبِينٌ",
+   "okunus": "mübînün",
+   "kok": "بين",
+   "kokAnlam": "açıklama, apaçık olma",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetler zalim kavimlerin akıbetini ve mühlet-hesap ilişkisini anlatmıştı; bu ayet Peygamber'in görevini hatırlatarak konuyu toparlar. Peygamber'den, kendisinin ne olduğunu, ne olmadığını açıkça söylemesi istenir: o yalnızca apaçık bir uyarıcıdır.",
+  "'İnnemâ' (ancak) edatı, görevi sınırlayan ve netleştiren bir vurgu taşır; Peygamber azabı getiren, hesabı gören değil, sadece uyaran kimsedir. Bu, önceki ayetlerdeki 'azabı çabuk isteme' tavrına da dolaylı bir cevaptır: azap Peygamber'in elinde değildir, o sadece haber verir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "46:9",
+   "meal": "De ki: Ben, peygamberlerin ilki değilim; bana ve size ne yapılacağını da bilmem; ben ancak bana vahyedilene uyarım. Ben ancak apaçık bir uyarıcıyım.",
+   "baglanti": "Neredeyse aynı ifade ('ben ancak apaçık bir uyarıcıyım') burada da geçer; Peygamber'in görev tanımını aynı sözlerle tekrarlar."
+  },
+  {
+   "ref": "5:99",
+   "meal": "Elçiye düşen, ancak tebliğ etmektir; Allah, açığa vurduğunuzu da gizlediğinizi de bilir.",
+   "baglanti": "Peygamber'in görevinin sınırlarını (yalnız bildirmek) burada da vurgular; 22:49'daki 'ancak' ifadesiyle aynı ilkeyi taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan Peygamber'in görev tanımıdır; onun ne yaptığı ve ne yapmadığı konusunda net bir sınır çizer.",
+  "Buradan çıkan genel ders, bir uyarıyı iletmenin sorumluluğu ile sonucunu belirlemenin sorumluluğunun farklı şeyler olduğudur. Günlük hayatta bu, birine doğruyu söylemenin görevimiz olduğunu, ama o kişinin bu doğruyu kabul edip etmemesinin bizim elimizde olmadığını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Uyarını net söyle",
+   "aciklama": "Bugün birine söylemen gereken bir uyarıyı, netçe ama nazikçe ilet."
+  },
+  {
+   "baslik": "Sonucu üstlenme",
+   "aciklama": "Bugün ilettiğin bir uyarının nasıl karşılandığını kontrol etmeye çalışmadan bırak."
+  },
+  {
+   "baslik": "Görevini hatırla",
+   "aciklama": "Bugün bir konuda üzerine düşeni yap; gerisini Allah'a bırak."
+  }
+ ],
+ "bugununAdimi": "Bugün birine iletmen gereken bir doğruyu, sonucunu düşünmeden net bir şekilde söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=22&verse=49"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/22/49"
+  }
+ ]
+}
