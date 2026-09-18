@@ -1,0 +1,215 @@
+{
+ "sure": 18,
+ "ayet": 26,
+ "durum": "taslak",
+ "meal": "De ki: Onların ne kadar kaldıklarını Allah daha iyi bilir. Göklerin ve yerin gaybı O'nundur. O, ne güzel görür, ne güzel işitir! Onların O'ndan başka hiçbir dostu/koruyucusu yoktur; O, hükmüne hiç kimseyi ortak etmez.",
+ "mealNotu": "'Ebsır bihî ve esmi'' ifadesi, hayranlık kipiyle Allah'ın görme ve işitmesinin mükemmelliğini anlatır; meal bunu 'ne güzel görür, ne güzel işitir' şeklinde verir.",
+ "kokler": [
+  {
+   "kelime": "قُلِ",
+   "okunus": "kuli",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, ibadet edilen",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "أَعْلَمُ",
+   "okunus": "a'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "daha iyi bilir"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne kadar",
+   "karsilik": "ne kadar"
+  },
+  {
+   "kelime": "لَبِثُوا۟",
+   "okunus": "lebisû",
+   "kok": "لبث",
+   "kokAnlam": "kalma, bekleme",
+   "karsilik": "kaldıklarını"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) O'nundur",
+   "karsilik": "O'nundur"
+  },
+  {
+   "kelime": "غَيْبُ",
+   "okunus": "gaybü",
+   "kok": "غيب",
+   "kokAnlam": "görünmeyen, bilinmeyen",
+   "karsilik": "gaybı"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "gök, yücelik",
+   "karsilik": "göklerin"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yerin"
+  },
+  {
+   "kelime": "أَبْصِرْ",
+   "okunus": "ebsır",
+   "kok": "بصر",
+   "kokAnlam": "görme",
+   "karsilik": "O ne güzel görür"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) O'nu",
+   "karsilik": "O'nu"
+  },
+  {
+   "kelime": "وَأَسْمِعْ",
+   "okunus": "ve esmi'",
+   "kok": "سمع",
+   "kokAnlam": "işitme",
+   "karsilik": "ve ne güzel işitir"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "لَهُم",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onların",
+   "karsilik": "onların"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِهِۦ",
+   "okunus": "dûnihî",
+   "kok": "دون",
+   "kokAnlam": "aşağı, dışında, başka",
+   "karsilik": "O'ndan başka"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) hiç",
+   "karsilik": "hiç"
+  },
+  {
+   "kelime": "وَلِىٍّ",
+   "okunus": "veliyyin",
+   "kok": "ولي",
+   "kokAnlam": "dost, koruyucu, yakın olan",
+   "karsilik": "bir dostu/koruyucusu"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve...maz",
+   "karsilik": "ve...maz"
+  },
+  {
+   "kelime": "يُشْرِكُ",
+   "okunus": "yüşrikü",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "ortak etmez"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "حُكْمِهِۦٓ",
+   "okunus": "hukmihî",
+   "kok": "حكم",
+   "kokAnlam": "hüküm, karar verme",
+   "karsilik": "hükmüne"
+  },
+  {
+   "kelime": "أَحَدًا",
+   "okunus": "ehaden",
+   "kok": "أحد",
+   "kokAnlam": "bir, tek, herhangi biri",
+   "karsilik": "hiç kimseyi"
+  }
+ ],
+ "neAnlatiyor": [
+  "25. ayette Ashab-ı Kehf'in mağarada kalış süresi bildirildikten sonra bu ayet, o sürenin gerçek bilgisinin yalnız Allah'a ait olduğunu vurgular. Göklerin ve yerin gaybı O'na aittir; hiçbir ayrıntı O'nun görme ve işitmesinden kaçmaz.",
+  "Ayetin sonu, konuyu sayısal ayrıntıdan çıkarıp tevhide bağlar: Allah'tan başka hiçbir veli (koruyucu, dost) yoktur ve O, hükmünde/hükümranlığında kimseyi ortak koşmaz. Bu, hem Ashab-ı Kehf kıssasının hem de surenin genel temasının bir özeti gibidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "72:26",
+   "meal": "Gaybı bilen O'dur; gaybını kimseye açık göstermez.",
+   "baglanti": "Cin 26, gayb bilgisinin yalnız Allah'a ait olduğunu söyler; Kehf 26'daki 'göklerin ve yerin gaybı O'nundur' ifadesiyle aynı hakikati paylaşır."
+  },
+  {
+   "ref": "6:57",
+   "meal": "De ki: Ben Rabbimden gelen açık bir delil üzereyim... Hüküm yalnız Allah'ındır; O, hakkı anlatır ve O, ayırt edenlerin en hayırlısıdır.",
+   "baglanti": "En'âm 57'deki 'hüküm yalnız Allah'ındır' ifadesi, Kehf 26'daki 'hükmünde hiç kimseyi ortak etmez' cümlesiyle aynı kökten (حكم) aynı ilkeyi vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin konusu doğrudan Ashab-ı Kehf'in kaldığı süreyle ilgili olsa da, asıl vurgu Allah'ın bilgisinin ve hükmünün eşsizliğidir.",
+  "Günlük hayatta, bilmediğimiz konularda kesin iddialarda bulunmak yerine 'Allah daha iyi bilir' diyebilmek ve nihai kararların/hükümlerin Allah'a ait olduğunu hatırlamak, hem tevazu hem güven kaynağıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilmediğini Allah'a bırak",
+   "aciklama": "Bugün cevabını bilmediğin bir konuyu araştırmak yerine merakını Allah'a havale et, sonra öğrenmeye çalış."
+  },
+  {
+   "baslik": "Nihai hükmü hatırla",
+   "aciklama": "Bir konuda kendi kararını verirken, asıl hükmün Allah'a ait olduğunu unutma."
+  },
+  {
+   "baslik": "Allah'ın görmesine güven",
+   "aciklama": "Kimsenin görmediğini düşündüğün bir anda, Allah'ın gördüğünü hatırlayarak davran."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir konuda 'Allah daha iyi bilir' diyerek kesin hükümden kaçın.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=26"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/18/26"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "sure": 18,
+ "ayet": 23,
+ "durum": "taslak",
+ "meal": "Hiçbir şey için 'Ben bunu yarın mutlaka yapacağım' deme,",
+ "mealNotu": "'Fâilün' kökü (فعل) yapmayı, burada kesin bir gelecek vaadini ifade eder; ayet geleceğe dair kesin konuşmayı sakındırır. Bu ayet, hükmünü tamamlayan 24. ayetle birlikte okunmalıdır.",
+ "kokler": [
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve...ma",
+   "karsilik": "ve...ma"
+  },
+  {
+   "kelime": "تَقُولَنَّ",
+   "okunus": "tekûlenne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "sakın deme"
+  },
+  {
+   "kelime": "لِشَا۟ىْءٍ",
+   "okunus": "lişey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "hiçbir şey için"
+  },
+  {
+   "kelime": "إِنِّى",
+   "okunus": "innî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz ben",
+   "karsilik": "ben"
+  },
+  {
+   "kelime": "فَاعِلٌ",
+   "okunus": "fâilün",
+   "kok": "فعل",
+   "kokAnlam": "yapan, yapma",
+   "karsilik": "mutlaka yapacağım"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunu",
+   "karsilik": "bunu"
+  },
+  {
+   "kelime": "غَدًا",
+   "okunus": "gaden",
+   "kok": "غدو",
+   "kokAnlam": "yarın, gelecek gün",
+   "karsilik": "yarın"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette Ashab-ı Kehf'in sayısı hakkındaki tartışmalar ele alındıktan sonra bu ayet farklı bir konuya geçer: gelecekle ilgili kesin konuşma. 'Lâ tekûlenne' (sakın deme) ifadesiyle Hz. Peygamber'e -ve onun şahsında tüm inananlara- gelecekte bir şeyi kesin olarak yapacağını söylememesi emredilir.",
+  "Bu kısa ayet, hemen ardından gelen 24. ayetle tamamlanan tek bir hükmün ilk yarısıdır. Klasik tefsir, bu ayetin inişini Hz. Peygamber'in bir soruya kesin cevap vereceğini söylemesi ve vahyin bir süre gecikmesiyle ilişkilendirir; ancak ayetin kendisi bu ayrıntıyı vermez, sadece genel bir ilke koyar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "31:34",
+   "meal": "Hiç kimse yarın ne kazanacağını bilemez ve hiç kimse hangi yerde öleceğini bilemez; şüphesiz Allah hakkıyla bilendir, hakkıyla haberdardır.",
+   "baglanti": "Lokmân 34, insanın yarın hakkında kesin bilgisi olmadığını söyler; Kehf 23'teki 'yarın mutlaka yapacağım deme' uyarısı aynı gerçeğe dayanır."
+  },
+  {
+   "ref": "7:188",
+   "meal": "De ki: Allah dilemedikçe kendime bir fayda ya da zarar verme gücüm yoktur. Gaybı bilseydim elbette hayrı çoğaltırdım.",
+   "baglanti": "A'râf 188'de Hz. Peygamber bile geleceği bilmediğini söyler; Kehf 23'teki geleceğe dair kesin konuşma yasağı bu sınırlılığın doğal bir sonucudur."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, gelecekle ilgili kesin ifadeler kullanmaktır; kişisel plan ve sözlerle ilgilidir.",
+  "Günlük hayata dersi açıktır: kontrolümüz dışındaki bir geleceği garanti eder gibi konuşmak yerine, elimizden geleni yapıp sonucu Allah'a bırakan bir dil kullanmaktır. Bu, hem tevazu hem de gerçekçi bir bakış açısı kazandırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kesin dilden kaçın",
+   "aciklama": "Bugün 'kesinlikle yapacağım' yerine 'yapmayı planlıyorum' gibi bir dil kullanmayı dene."
+  },
+  {
+   "baslik": "Planını esnek tut",
+   "aciklama": "Yarınki bir planını yazarken sonucun senin elinde olmadığını hatırla."
+  },
+  {
+   "baslik": "Söz verirken düşün",
+   "aciklama": "Kesin bir söz vermeden önce, gerçekten kontrolünde olup olmadığını değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir söz verirken kesin bir dil yerine ihtiyatlı bir dil kullan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=23"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/18/23"
+  }
+ ]
+}

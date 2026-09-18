@@ -1,0 +1,285 @@
+{
+ "sure": 18,
+ "ayet": 22,
+ "durum": "taslak",
+ "meal": "(İnsanlardan bazıları) 'Onlar üç kişidir, dördüncüleri köpekleridir' diyecekler; (bazıları da) 'Beş kişidir, altıncıları köpekleridir' diyecekler -ki bu, bilinmeyen hakkında tahminde bulunmaktır-; (bazıları da) 'Yedi kişidir, sekizincileri köpekleridir' diyecekler. De ki: Rabbim onların sayısını daha iyi bilir; onları pek az kişi bilir. Öyleyse onlar hakkında yüzeysel bir tartışmanın dışına çıkma ve onlar hakkında hiç kimseye bir şey sorup durma.",
+ "mealNotu": "'Racmem bil gaybi' ifadesi (racm: taş atma, gayb: bilinmeyen) bilinmeyen bir konuda tahminde bulunmayı anlatır; meale 'bilinmeyen hakkında tahminde bulunmaktır' şeklinde aktarıldı. Ayetin kendisi kesin bir sayı vermez, bilgiyi Allah'a havale eder.",
+ "kokler": [
+  {
+   "kelime": "سَيَقُولُونَ",
+   "okunus": "seyekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "diyecekler"
+  },
+  {
+   "kelime": "ثَلَٰثَةٌ",
+   "okunus": "selâsetün",
+   "kok": "ثلث",
+   "kokAnlam": "üç sayısı",
+   "karsilik": "üç kişidir"
+  },
+  {
+   "kelime": "رَّابِعُهُمْ",
+   "okunus": "râbiuhüm",
+   "kok": "ربع",
+   "kokAnlam": "dördüncü",
+   "karsilik": "dördüncüleri"
+  },
+  {
+   "kelime": "كَلْبُهُمْ",
+   "okunus": "kelbühüm",
+   "kok": "كلب",
+   "kokAnlam": "köpek",
+   "karsilik": "köpekleridir"
+  },
+  {
+   "kelime": "وَيَقُولُونَ",
+   "okunus": "ve yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "diyecekler"
+  },
+  {
+   "kelime": "خَمْسَةٌ",
+   "okunus": "hamsetün",
+   "kok": "خمس",
+   "kokAnlam": "beş sayısı",
+   "karsilik": "beş kişidir"
+  },
+  {
+   "kelime": "سَادِسُهُمْ",
+   "okunus": "sâdisühüm",
+   "kok": "سدس",
+   "kokAnlam": "altıncı",
+   "karsilik": "altıncıları"
+  },
+  {
+   "kelime": "كَلْبُهُمْ",
+   "okunus": "kelbühüm",
+   "kok": "كلب",
+   "kokAnlam": "köpek",
+   "karsilik": "köpekleridir"
+  },
+  {
+   "kelime": "رَجْمًۢا",
+   "okunus": "racmem",
+   "kok": "رجم",
+   "kokAnlam": "taş atma; tahmin etme",
+   "karsilik": "tahminde bulunmaktır"
+  },
+  {
+   "kelime": "بِٱلْغَيْبِ",
+   "okunus": "bil gaybi",
+   "kok": "غيب",
+   "kokAnlam": "görünmeyen, bilinmeyen",
+   "karsilik": "bilinmeyen hakkında"
+  },
+  {
+   "kelime": "وَيَقُولُونَ",
+   "okunus": "ve yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "diyecekler"
+  },
+  {
+   "kelime": "سَبْعَةٌ",
+   "okunus": "seb'atün",
+   "kok": "سبع",
+   "kokAnlam": "yedi sayısı",
+   "karsilik": "yedi kişidir"
+  },
+  {
+   "kelime": "وَثَامِنُهُمْ",
+   "okunus": "ve sâminühüm",
+   "kok": "ثمن",
+   "kokAnlam": "sekizinci",
+   "karsilik": "ve sekizincileri"
+  },
+  {
+   "kelime": "كَلْبُهُمْ",
+   "okunus": "kelbühüm",
+   "kok": "كلب",
+   "kokAnlam": "köpek",
+   "karsilik": "köpekleridir"
+  },
+  {
+   "kelime": "قُل",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "رَّبِّىٓ",
+   "okunus": "rabbî",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, sahip, Rab",
+   "karsilik": "Rabbim"
+  },
+  {
+   "kelime": "أَعْلَمُ",
+   "okunus": "a'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "daha iyi bilir"
+  },
+  {
+   "kelime": "بِعِدَّتِهِم",
+   "okunus": "biiddetihim",
+   "kok": "عدد",
+   "kokAnlam": "sayı, sayma",
+   "karsilik": "onların sayısını"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "يَعْلَمُهُمْ",
+   "okunus": "ya'lemühüm",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "onları bilen"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "قَلِيلٌ",
+   "okunus": "kalîlün",
+   "kok": "قلل",
+   "kokAnlam": "az, az sayıda",
+   "karsilik": "pek az kişi"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) o halde...ma",
+   "karsilik": "öyleyse yapma"
+  },
+  {
+   "kelime": "تُمَارِ",
+   "okunus": "tümâri",
+   "kok": "مري",
+   "kokAnlam": "tartışma, çekişme",
+   "karsilik": "tartışma"
+  },
+  {
+   "kelime": "فِيهِم",
+   "okunus": "fîhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlar hakkında",
+   "karsilik": "onlar hakkında"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) dışında",
+   "karsilik": "dışında"
+  },
+  {
+   "kelime": "مِرَآءً",
+   "okunus": "mirâen",
+   "kok": "مري",
+   "kokAnlam": "tartışma",
+   "karsilik": "bir tartışmanın"
+  },
+  {
+   "kelime": "ظَٰهِرًا",
+   "okunus": "zâhiran",
+   "kok": "ظهر",
+   "kokAnlam": "görünen, yüzeysel",
+   "karsilik": "yüzeysel"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve...ma",
+   "karsilik": "ve...ma"
+  },
+  {
+   "kelime": "تَسْتَفْتِ",
+   "okunus": "testefti",
+   "kok": "فتي",
+   "kokAnlam": "görüş sorma, fetva isteme",
+   "karsilik": "sorup durma"
+  },
+  {
+   "kelime": "فِيهِم",
+   "okunus": "fîhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlar hakkında",
+   "karsilik": "onlar hakkında"
+  },
+  {
+   "kelime": "مِّنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "أَحَدًا",
+   "okunus": "ehaden",
+   "kok": "أحد",
+   "kokAnlam": "bir, tek, herhangi biri",
+   "karsilik": "hiç kimseye"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ashab-ı Kehf'in bulunmasından sonra ortaya çıkan ikinci tartışma sayılarıyla ilgilidir. Ayet, insanların söyleyecekleri üç farklı görüşü sırayla aktarır: üç kişi, beş kişi, yedi kişi (her seferinde köpekleriyle birlikte bir fazlası söylenir). İlk iki görüş için ayet 'bilinmeyen hakkında tahminde bulunmaktır' der; üçüncü görüş (yedi kişi) için aynı nitelemeyi tekrarlamaz. Klasik tefsir bunu, üçüncü görüşün diğerlerine göre isabete daha yakın olabileceğine bir işaret olarak yorumlar, fakat ayet kesin bir sayı bildirmez.",
+  "Ayetin devamı, Hz. Peygamber'e 'Rabbim onların sayısını daha iyi bilir; onları pek az kişi bilir' demesini emreder ve bu konuda yüzeysel bir tartışmanın ötesine geçmemesini, kimseden ısrarla görüş sormamasını öğütler. Ayetin kendi üslubuna sadık kalınarak burada kesin bir sayı iddia edilmez; mesajın odağı sayı değil, gayb bilgisinin sınırlılığıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:59",
+   "meal": "Gaybın anahtarları O'nun katındadır, onları O'ndan başkası bilmez.",
+   "baglanti": "En'âm 59, gayb bilgisinin yalnız Allah'a ait olduğunu vurgular; Kehf 22'deki 'Rabbim onların sayısını daha iyi bilir' ifadesi bu ilkenin somut bir uygulamasıdır."
+  },
+  {
+   "ref": "17:85",
+   "meal": "Sana ruh hakkında soruyorlar. De ki: Ruh, Rabbimin emrindendir; size ilimden ancak az bir şey verilmiştir.",
+   "baglanti": "İsrâ 85, insana verilen bilginin sınırlı olduğunu söyler; Kehf 22'de 'onları pek az kişi bilir' ifadesi aynı sınırlılığı, Ashab-ı Kehf'in sayısı özelinde hatırlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin konusu, tarihi bir olayın (mağara arkadaşlarının sayısı) etrafındaki spekülatif tartışmalardır; ayet bize kesin bir sayı vermez ve zaten bunu istemez.",
+  "Günlük hayatta, elimizde kesin bilgi olmayan konularda ısrarla tartışmaya girmek yerine 'Allah/Rabbim daha iyi bilir' diyebilmek hem alçakgönüllülüğü hem de gereksiz enerji kaybından kurtulmayı sağlar; bu ayet, merakı bastırmadan sınırlarını bilmeyi öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilmediğini kabul et",
+   "aciklama": "Kesin cevabını bilmediğin bir tartışmada 'bilmiyorum, Allah daha iyi bilir' demeyi dene."
+  },
+  {
+   "baslik": "Ayrıntıda boğulma",
+   "aciklama": "Asıl mesajı gölgeleyen küçük ayrıntı tartışmalarına bugün girme."
+  },
+  {
+   "baslik": "Israrcı soruşturmayı bırak",
+   "aciklama": "Cevabı olmayan birine aynı soruyu ısrarla sormak yerine konuyu kapat."
+  }
+ ],
+ "bugununAdimi": "Bugün, kesin bilgin olmayan bir ayrıntı üzerinde tartışmayı bırakıp konuyu kapat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=18&verse=22"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/18/22"
+  }
+ ]
+}
