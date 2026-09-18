@@ -16,6 +16,25 @@ function Section({ no, title, children }: { no?: string; title: string; children
   )
 }
 
+function FavShareRow({ fav, onToggle, onShare, copied }: { fav: boolean; onToggle: () => void; onShare: () => void; copied: boolean }) {
+  return (
+    <div className="card border-b hairline px-4 py-2 flex items-center gap-2">
+      <button onClick={onToggle} className={`flex-1 flex items-center justify-center gap-1.5 py-2 rounded-xl border hairline tap ${fav ? 'bg-accent text-white border-transparent' : ''}`}>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill={fav ? 'currentColor' : 'none'} stroke="currentColor" strokeWidth="1.8">
+          <path d="M12 20.5s-7.5-4.6-10-9.3C.5 8 2 4.5 5.5 4c2-.3 3.7.6 5 2.2C11.8 4.6 13.5 3.7 15.5 4c3.5.5 5 4 3.5 7.2-2.5 4.7-10 9.3-10 9.3z" strokeLinejoin="round" />
+        </svg>
+        {fav ? 'Favorilerde' : 'Favorilere ekle'}
+      </button>
+      <button onClick={onShare} className="flex-1 flex items-center justify-center gap-1.5 py-2 rounded-xl border hairline tap">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+          <path d="M12 3v12M8 7l4-4 4 4M5 13v6a2 2 0 002 2h10a2 2 0 002-2v-6" />
+        </svg>
+        {copied ? 'Bağlantı kopyalandı' : 'Paylaş'}
+      </button>
+    </div>
+  )
+}
+
 export default function AyahPage() {
   const p = useParams(); const n = Number(p.n); const a = Number(p.a)
   const [ch, setCh] = useState<Chapter | undefined>()
@@ -65,20 +84,7 @@ export default function AyahPage() {
             <div className="divider" />
             <p className="okunus">{ayah.okunus}</p>
           </section>
-          <div className="card border-b hairline px-4 py-2 flex items-center gap-2">
-            <button onClick={() => toggle(key)} className={`flex-1 flex items-center justify-center gap-1.5 py-2 rounded-xl border hairline tap ${fav ? 'bg-accent text-white border-transparent' : ''}`}>
-              <svg width="18" height="18" viewBox="0 0 24 24" fill={fav ? 'currentColor' : 'none'} stroke="currentColor" strokeWidth="1.8">
-                <path d="M12 20.5s-7.5-4.6-10-9.3C.5 8 2 4.5 5.5 4c2-.3 3.7.6 5 2.2C11.8 4.6 13.5 3.7 15.5 4c3.5.5 5 4 3.5 7.2-2.5 4.7-10 9.3-10 9.3z" strokeLinejoin="round" />
-              </svg>
-              {fav ? 'Favorilerde' : 'Favorilere ekle'}
-            </button>
-            <button onClick={share} className="flex-1 flex items-center justify-center gap-1.5 py-2 rounded-xl border hairline tap">
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-                <path d="M12 3v12M8 7l4-4 4 4M5 13v6a2 2 0 002 2h10a2 2 0 002-2v-6" />
-              </svg>
-              {copied ? 'Bağlantı kopyalandı' : 'Paylaş'}
-            </button>
-          </div>
+          <FavShareRow fav={fav} onToggle={() => toggle(key)} onShare={share} copied={copied} />
         </>
       )}
       {content === undefined && <p className="p-6 text-center muted">Yükleniyor…</p>}
@@ -151,6 +157,7 @@ export default function AyahPage() {
           </Section>
         </>
       )}
+      {ayah && <FavShareRow fav={fav} onToggle={() => toggle(key)} onShare={share} copied={copied} />}
       <div className="flex justify-between px-4 py-4">
         {prev ? <Link to={prev} className="accent tap">‹ Önceki ayet</Link> : <span />}
         {next ? <Link to={next} className="accent tap">Sonraki ayet ›</Link> : <span />}
