@@ -1,0 +1,229 @@
+{
+ "sure": 17,
+ "ayet": 23,
+ "durum": "taslak",
+ "meal": "Rabbin, yalnız kendisine kulluk etmenizi ve ana-babaya iyilik etmenizi kesin olarak hükmetti. Onlardan biri ya da her ikisi senin yanında yaşlılığa erişirse, onlara 'öf' bile deme, onları azarlama; onlara güzel/saygın bir söz söyle.",
+ "mealNotu": "'Kadâ' kökü (ق ض ي) kesin hüküm, kararlaştırma anlamındadır; Allah'ın emrinin bağlayıcılığını vurgular. 'İhsân' kökü (ح س ن) yükümlülüğün ötesinde gönülden iyilik etmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَقَضَىٰ",
+   "okunus": "ve kadâ",
+   "kok": "قضي",
+   "kokAnlam": "kesin hüküm verme, kararlaştırma",
+   "karsilik": "hükmetti"
+  },
+  {
+   "kelime": "رَبُّكَ",
+   "okunus": "rabbüke",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye",
+   "karsilik": "Rabbin"
+  },
+  {
+   "kelime": "أَلَّا",
+   "okunus": "ellâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki...olmasın",
+   "karsilik": "yalnız...diye"
+  },
+  {
+   "kelime": "تَعْبُدُوٓا۟",
+   "okunus": "ta'büdû",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme, tapınma",
+   "karsilik": "kulluk etmenizi"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) başkasına değil",
+   "karsilik": "yalnız"
+  },
+  {
+   "kelime": "إِيَّاهُ",
+   "okunus": "iyyâhü",
+   "kok": "—",
+   "kokAnlam": "(zamir) O'ndan başkasına",
+   "karsilik": "kendisine"
+  },
+  {
+   "kelime": "وَبِٱلْوَٰلِدَيْنِ",
+   "okunus": "ve bil vâlideyni",
+   "kok": "ولد",
+   "kokAnlam": "doğurma; ana-baba",
+   "karsilik": "ve ana-babaya"
+  },
+  {
+   "kelime": "إِحْسَٰنًا",
+   "okunus": "ihsânen",
+   "kok": "حسن",
+   "kokAnlam": "gönülden iyilik etme, güzel davranma",
+   "karsilik": "iyilik etmenizi"
+  },
+  {
+   "kelime": "إِمَّا",
+   "okunus": "immâ",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يَبْلُغَنَّ",
+   "okunus": "yeblüğanne",
+   "kok": "بلغ",
+   "kokAnlam": "erişme, ulaşma",
+   "karsilik": "erişirse"
+  },
+  {
+   "kelime": "عِندَكَ",
+   "okunus": "indeke",
+   "kok": "عند",
+   "kokAnlam": "yan, kat, huzur",
+   "karsilik": "senin yanında"
+  },
+  {
+   "kelime": "ٱلْكِبَرَ",
+   "okunus": "elkibera",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük, yaşlılık",
+   "karsilik": "yaşlılığa"
+  },
+  {
+   "kelime": "أَحَدُهُمَآ",
+   "okunus": "ehadühümâ",
+   "kok": "أحد",
+   "kokAnlam": "bir, biri",
+   "karsilik": "onlardan biri"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "كِلَاهُمَا",
+   "okunus": "kilâhümâ",
+   "kok": "كلو",
+   "kokAnlam": "her ikisi",
+   "karsilik": "her ikisi"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(edat) o zaman ...me",
+   "karsilik": "o zaman ...deme"
+  },
+  {
+   "kelime": "تَقُل",
+   "okunus": "tekul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "deme"
+  },
+  {
+   "kelime": "لَّهُمَا",
+   "okunus": "lehümâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "أُفٍّ",
+   "okunus": "üffin",
+   "kok": "أفف",
+   "kokAnlam": "bıkkınlık ünlemi, öf",
+   "karsilik": "öf"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...me",
+   "karsilik": "ve ...me"
+  },
+  {
+   "kelime": "تَنْهَرْهُمَا",
+   "okunus": "tenherhümâ",
+   "kok": "نهر",
+   "kokAnlam": "sertçe azarlama, kovma",
+   "karsilik": "onları azarlama"
+  },
+  {
+   "kelime": "وَقُل",
+   "okunus": "ve kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "ve söyle"
+  },
+  {
+   "kelime": "لَّهُمَا",
+   "okunus": "lehümâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "قَوْلًا",
+   "okunus": "kavlen",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "bir söz"
+  },
+  {
+   "kelime": "كَرِيمًا",
+   "okunus": "kerîmen",
+   "kok": "كرم",
+   "kokAnlam": "değerli, saygın, güzel",
+   "karsilik": "güzel/saygın"
+  }
+ ],
+ "neAnlatiyor": [
+  "22. ayetteki tevhid emrinin hemen ardından gelen bu ayet, ana-babaya iyiliği kesin bir hüküm olarak bildirir. 'Kadâ' kökü, bu emrin diğer öğütlerden farklı olarak bağlayıcı bir hüküm niteliği taşıdığını gösterir; ayet, ana-babanın özellikle yaşlılık döneminde evladından göreceği tavrı somutlaştırır.",
+  "'Üff' kelimesi, dile getirilebilecek en küçük bıkkınlık ifadesidir; ayet bunu bile yasaklayarak saygının sınırını en aza indirger. 'Nehr' kökü azarlama, sert çıkışmayı; 'kerîm' kökü ise onurlandırıcı, saygılı sözü anlatır. Klasik tefsir, ana-baba hakkının tevhidden hemen sonra zikredilmesini bu hakkın önemine bir işaret olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "31:14",
+   "meal": "Biz insana, ana-babasına iyilik etmesini tavsiye ettik. Annesi onu güçsüzlük üstüne güçsüzlükle taşıdı... 'Bana ve ana-babana şükret' [dedik]. Dönüş yalnız Banadır.",
+   "baglanti": "Lokman 14, İsrâ 23'teki ana-babaya iyilik emrinin gerekçesini, annenin çektiği zorluğu hatırlatarak genişletir."
+  },
+  {
+   "ref": "46:15",
+   "meal": "Biz insana ana-babasına iyilik etmesini tavsiye ettik... Kırk yaşına erişince dedi ki: 'Rabbim! Bana ve ana-babama verdiğin nimete şükretmemi... nasip et.'",
+   "baglanti": "Ahkâf 15, İsrâ 23'teki ihsan emrini, yetişkin bir evladın kendi ağzından yükselen bir şükür duasına dönüştürerek somutlaştırır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ana-babaya karşı tutumdur; özellikle onlar yaşlanıp evlada muhtaç hâle geldiğinde.",
+  "Günlük hayatta, sabrın en çok zorlandığı anlar genelde en yakınlarımızla yaşanır. Ayet, sabırsızlık anında bile öf bile dememeyi, sesi yükseltmemeyi ve saygılı bir dil kullanmayı bir ölçü olarak koyar; bakım yükünü sevgiyle taşımanın da bir parçası olarak."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ana-babanı ara",
+   "aciklama": "Bugün ana-babanı (ya da yaşça büyük birini) ara ve sabırla, sözünü kesmeden dinle."
+  },
+  {
+   "baslik": "Sesini yumuşat",
+   "aciklama": "Bugün onlarla konuşurken, en yorgun anında bile ses tonunu bilerek yumuşat."
+  },
+  {
+   "baslik": "Küçük bir iyilik yap",
+   "aciklama": "Bugün onlar için küçük, somut bir iyilik yap: bir işini hallet, bir ihtiyacını sor."
+  }
+ ],
+ "bugununAdimi": "Bugün ana-babanı ya da yaşça büyük bir yakınını ara ve öf demeden, sabırla dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=23"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/17/23"
+  }
+ ]
+}
