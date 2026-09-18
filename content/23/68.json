@@ -1,0 +1,124 @@
+{
+ "sure": 23,
+ "ayet": 68,
+ "durum": "taslak",
+ "meal": "Bu sözü hiç düşünmediler mi? Yoksa onlara, önceki atalarına gelmeyen bir şey mi geldi?",
+ "mealNotu": "'Yeddebberû' kökü, bir sözün ardını, sonucunu derinlemesine düşünmeyi anlatır; burada Kur'an üzerinde düşünmeme eleştirilir.",
+ "kokler": [
+  {
+   "kelime": "أَفَلَمْ",
+   "okunus": "efelem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk, hiç ... etmediler mi",
+   "karsilik": "hiç ... etmediler mi"
+  },
+  {
+   "kelime": "يَدَّبَّرُوا۟",
+   "okunus": "yeddebberû",
+   "kok": "دبر",
+   "kokAnlam": "derinlemesine düşünme, sonucunu görme",
+   "karsilik": "düşündüler"
+  },
+  {
+   "kelime": "ٱلْقَوْلَ",
+   "okunus": "elkavle",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "sözü"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "yoksa bağlacı",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "جَآءَهُم",
+   "okunus": "câehüm",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "onlara geldi"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, şey",
+   "karsilik": "bir şey"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "يَأْتِ",
+   "okunus": "ye'ti",
+   "kok": "أتي",
+   "kokAnlam": "gelme, verilme",
+   "karsilik": "gelmeyen"
+  },
+  {
+   "kelime": "ءَابَآءَهُمُ",
+   "okunus": "âbâehümü",
+   "kok": "أبو",
+   "kokAnlam": "babalar, atalar",
+   "karsilik": "atalarına"
+  },
+  {
+   "kelime": "ٱلْأَوَّلِينَ",
+   "okunus": "el'evvelîne",
+   "kok": "أول",
+   "kokAnlam": "ilk, önceki",
+   "karsilik": "önceki"
+  }
+ ],
+ "neAnlatiyor": [
+  "İnkârı, büyüklenmeyle Kur'an'ı terk etmelerinin anlatıldığı ayetlerin ardından, burada bu tavrın sebebi sorgulanır: sorun sözün kendisinde mi, yoksa hiç düşünülmemesinde mi? 'Yeddebberû' kelimesi, yüzeysel duymanın ötesinde, bir sözün anlamını ve sonucunu takip etmeyi anlatır.",
+  "İkinci soru, bu insanlara daha önce hiç peygamber ve kitap gelmemiş olabileceği ihtimalini reddeder; aksine atalarına da benzer uyarılar gelmiştir, dolayısıyla bu yabancı veya alışılmadık bir durum değildir. Sonraki ayetler bu inkârın gerçek sebebini sorgulamaya devam eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "47:24",
+   "meal": "Onlar Kur'an'ı düşünmüyorlar mı? Yoksa kalpleri üzerinde kilitler mi var?",
+   "baglanti": "Aynı 'düşünmeme' eleştirisini, kalbin kapalılığı imgesiyle birlikte tekrar eder."
+  },
+  {
+   "ref": "4:82",
+   "meal": "Onlar hâlâ Kur'an'ı düşünmüyorlar mı? Eğer o Allah'tan başkası tarafından olsaydı, onda birçok çelişki bulurlardı.",
+   "baglanti": "Kur'an üzerinde düşünmenin, onun tutarlılığını görmeye götüreceğini vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bir sözü yüzeysel duyup geçmek yerine üzerinde düşünmektir.",
+  "Günlük hayata taşınabilecek ders, önemli bir bilgi veya uyarıyla karşılaştığında onu hemen reddetmeden önce gerçekten üzerinde düşünmeye vakit ayırmaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Düşünmeden reddetme",
+   "aciklama": "Bugün ilk anda tuhaf gelen bir fikri, hemen reddetmeden önce birkaç dakika düşün."
+  },
+  {
+   "baslik": "Okuduğunu sindir",
+   "aciklama": "Bugün okuduğun bir ayeti veya sözü, geçip gitmeden bir kez daha düşün."
+  },
+  {
+   "baslik": "Yeni gelene önyargısız bak",
+   "aciklama": "Alışkın olmadığın bir görüşü, sırf yabancı diye peşinen reddetme."
+  }
+ ],
+ "bugununAdimi": "Bugün okuduğun bir ayet veya sözü, en az bir dakika durup üzerinde düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=68"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/68"
+  }
+ ]
+}

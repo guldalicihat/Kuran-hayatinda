@@ -1,0 +1,117 @@
+{
+ "sure": 23,
+ "ayet": 66,
+ "durum": "taslak",
+ "meal": "Andolsun, ayetlerim size okunuyordu da siz gerisin geri (topuklarınız üzerinde) dönüyordunuz.",
+ "mealNotu": "'Akıb' kökü topuk, 'tenkisûn' ise gerisin geri çekilmeyi anlatır; bu, Kur'an okunduğunda sırt çevirip uzaklaşmayı somut bir görüntüyle canlandırır.",
+ "kokler": [
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "kesinlik, andolsun",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "كَانَتْ",
+   "okunus": "kânet",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "ءَايَٰتِى",
+   "okunus": "âyâtî",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet, ayet",
+   "karsilik": "ayetlerim"
+  },
+  {
+   "kelime": "تُتْلَىٰ",
+   "okunus": "tütlâ",
+   "kok": "تلو",
+   "kokAnlam": "okuma, takip etme",
+   "karsilik": "okunuyordu"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "size edatı",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "فَكُنتُمْ",
+   "okunus": "feküntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "siz idiniz"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerinde edatı",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "أَعْقَٰبِكُمْ",
+   "okunus": "a'kâbiküm",
+   "kok": "عقب",
+   "kokAnlam": "topuk, ardıl",
+   "karsilik": "topuklarınız"
+  },
+  {
+   "kelime": "تَنكِصُونَ",
+   "okunus": "tenkisûne",
+   "kok": "نكص",
+   "kokAnlam": "gerisin geri dönme, geri çekilme",
+   "karsilik": "dönenlerdiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Azap anında feryat edenlere, dünyadayken ayetler okunduğunda nasıl bir tavır sergiledikleri hatırlatılır: sırtlarını dönüp uzaklaşıyorlardı. 'Topuklarınız üzerinde dönme' ifadesi, hızlı ve kararlı bir kaçışı, adeta ayetlerden ürkerek geri çekilmeyi resmeder.",
+  "Bu ayet, önceki ayetteki cezanın sebepsiz olmadığını, kişilerin kendi seçimlerinin sonucu olduğunu gösterir. Sonraki ayet bu geri çekilmenin, büyüklenme ve saçma sözlerle birlikte yaşandığını ekler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "74:50",
+   "meal": "Sanki onlar ürkmüş yaban eşekleridir.",
+   "baglanti": "Kur'an'dan kaçışı benzer bir imgeyle, ürkerek kaçma sahnesiyle anlatır."
+  },
+  {
+   "ref": "8:23",
+   "meal": "Eğer Allah onlarda bir hayır olduğunu bilseydi, onlara işittirirdi; işittirse bile yine yüz çevirerek dönerlerdi.",
+   "baglanti": "Gerçeği duyduktan sonra yüz çevirme davranışını benzer biçimde anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, hakikatle karşılaşınca ondan uzaklaşmayı tercih etmektir.",
+  "Günlük hayata taşınabilecek ders, doğru bir sözü veya uyarıyı duyduğunda ondan kaçmak yerine durup dinlemek, rahatsız edici de olsa yüzleşmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Rahatsız eden sözden kaçma",
+   "aciklama": "Bugün seni rahatsız eden ama doğru olan bir sözü duyduğunda, hemen konuyu değiştirmek yerine dinle."
+  },
+  {
+   "baslik": "Kaçtığın bir gerçeği yüzleş",
+   "aciklama": "Uzun süredir görmezden geldiğin bir konuyu bugün ele al."
+  },
+  {
+   "baslik": "Öğüde açık ol",
+   "aciklama": "Bugün birinin sana yaptığı bir hatırlatmayı savunmaya geçmeden dinle."
+  }
+ ],
+ "bugununAdimi": "Bugün seni rahatsız eden bir uyarıyı, kaçmadan sonuna kadar dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=66"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/66"
+  }
+ ]
+}

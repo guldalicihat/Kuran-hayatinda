@@ -1,0 +1,82 @@
+{
+ "sure": 23,
+ "ayet": 67,
+ "durum": "taslak",
+ "meal": "Büyüklük taslayarak, gece sohbetlerinde onu (Kur'an'ı) kötüleyerek terk ediyordunuz.",
+ "mealNotu": "'Sâmir' kökü gece sohbeti anlamındadır; 'tehcürûn' fiili hem terk etmeyi hem de kötü, saçma söz söylemeyi (hezeyanı) taşıyabilir, burada ikisi de dikkate alınmıştır.",
+ "kokler": [
+  {
+   "kelime": "مُسْتَكْبِرِينَ",
+   "okunus": "müstekbirîne",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük, büyüklenme",
+   "karsilik": "büyüklük taslayarak"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "zamir, onunla",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "سَٰمِرًا",
+   "okunus": "sâmiran",
+   "kok": "سمر",
+   "kokAnlam": "gece sohbeti, gece toplantısı",
+   "karsilik": "gece sohbetlerinde"
+  },
+  {
+   "kelime": "تَهْجُرُونَ",
+   "okunus": "tehcürûne",
+   "kok": "هجر",
+   "kokAnlam": "terk etme; kötü söz söyleme",
+   "karsilik": "terk ediyor/kötülüyordunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette anlatılan, ayetlerden sırt çevirip kaçış, burada iki sebeple açıklanır: büyüklenme ve gece toplantılarında Kur'an'ı kötüleyerek konuşma. Bu, sadece pasif bir ilgisizlik değil, aktif bir küçümseme ve alay tavrıdır.",
+  "'Sâmir' kelimesinin gece sohbeti anlamı, Mekke döneminde inkârcıların geceleri bir araya gelip Kur'an ve Peygamber hakkında konuştuklarını, bunun kibirli bir tavırla yapıldığını gösterir. Klasik tefsir, bu ayeti Mekkeli müşriklerin Kabe çevresindeki gece toplantılarıyla ilişkilendirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:5",
+   "meal": "Ve dediler ki: 'Bu, onun yazdırdığı öncekilerin masallarıdır; sabah akşam kendisine okunmaktadır.'",
+   "baglanti": "İnkârcıların Kur'an'ı küçümseyerek konu ettikleri bir başka sahneyi gösterir."
+  },
+  {
+   "ref": "16:23",
+   "meal": "Şüphesiz Allah, onların gizlediklerini de açığa vurduklarını da bilir; O büyüklük taslayanları sevmez.",
+   "baglanti": "Büyüklenmenin, hakkı kabul etmemenin temel sebeplerinden biri olarak anıldığı bir başka ayettir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, doğru bir sözü kibirle küçümseyip alay konusu etmektir.",
+  "Günlük hayata taşınabilecek ders, kendimize ters gelen bir uyarıyı, tartışma ortamlarında hemen küçümsemek yerine önce ciddiye almaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçümsemeden dinle",
+   "aciklama": "Bugün katılmadığın bir görüşü, alaya almadan önce anlamaya çalış."
+  },
+  {
+   "baslik": "Kibri fark et",
+   "aciklama": "Bir tartışmada haklı çıkma isteğinin, doğruyu görmeni engelleyip engellemediğini sorgula."
+  },
+  {
+   "baslik": "Sohbetini gözden geçir",
+   "aciklama": "Bugün bir sohbette, başkasını veya bir değeri küçümseyen bir söz söylersen, hemen düzelt."
+  }
+ ],
+ "bugununAdimi": "Bugün bir tartışmada, karşı fikri küçümsemeden önce sonuna kadar dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=67"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/67"
+  }
+ ]
+}

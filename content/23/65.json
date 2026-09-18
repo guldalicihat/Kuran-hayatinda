@@ -1,0 +1,103 @@
+{
+ "sure": 23,
+ "ayet": 65,
+ "durum": "taslak",
+ "meal": "Bugün feryat etmeyin, çünkü siz bizden yardım görmezsiniz.",
+ "mealNotu": "'Nasr' kökü yardım, zafer anlamındadır; burada azap anında hiçbir yardımın gelmeyeceği bildirilir. Aynı fiil önceki ayetle bağlanarak feryadın artık boşuna olduğunu vurgular.",
+ "kokler": [
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "تَجْـَٔرُوا۟",
+   "okunus": "tec'erû",
+   "kok": "جأر",
+   "kokAnlam": "çaresizce feryat etme",
+   "karsilik": "feryat etmeyin"
+  },
+  {
+   "kelime": "ٱلْيَوْمَ",
+   "okunus": "elyevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bugün"
+  },
+  {
+   "kelime": "إِنَّكُم",
+   "okunus": "inneküm",
+   "kok": "—",
+   "kokAnlam": "te'kid, şüphesiz siz",
+   "karsilik": "şüphesiz siz"
+  },
+  {
+   "kelime": "مِّنَّا",
+   "okunus": "minnâ",
+   "kok": "—",
+   "kokAnlam": "bizden edatı",
+   "karsilik": "bizden"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "تُنصَرُونَ",
+   "okunus": "tünsarûne",
+   "kok": "نصر",
+   "kokAnlam": "yardım, zafer",
+   "karsilik": "yardım görmezsiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Azap anında çaresizce feryat edenlere, bu feryadın artık bir fayda sağlamayacağı bildirilir. 'Bugün' ifadesi, fırsatın geçtiği, artık geri dönüşün olmadığı bir ânı işaret eder.",
+  "'Yardım görmezsiniz' ifadesi, dünyada güvendikleri gücün, servetin veya insanların o gün hiçbir işe yaramayacağını anlatır. Bu, önceki ayetteki şımarık refahın gerçek bir güvenceye dönüşmediğini gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "30:57",
+   "meal": "O gün zulmedenlere özürleri fayda vermez, onlardan Allah'ı razı etmeleri de istenmez.",
+   "baglanti": "Azap anında mazeretin ve yardımın fayda vermemesi temasını paylaşır."
+  },
+  {
+   "ref": "40:52",
+   "meal": "O gün zalimlere özürleri fayda vermez; lanet onlaradır ve kötü yurt onlarındır.",
+   "baglanti": "Aynı 'artık geç kalınmış an' temasını başka bir surede tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, fırsat kaçtıktan sonra pişmanlığın fayda vermeyeceğidir.",
+  "Günlük hayata taşınabilecek ders, bir şeyi düzeltme fırsatı varken harekete geçmek, iş işten geçtikten sonra pişman olmayı beklememektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Fırsat varken düzelt",
+   "aciklama": "Bugün ertelediğin bir özür veya düzeltmeyi, fırsat elindeyken yap."
+  },
+  {
+   "baslik": "Geç kalmadan uyar",
+   "aciklama": "Bir yakınını yanlış giden bir konuda, vakit varken nazikçe uyar."
+  },
+  {
+   "baslik": "Güvendiğin şeyi gözden geçir",
+   "aciklama": "Bugün gerçekten neye güvendiğini düşün; geçici olanla kalıcı olanı ayırt et."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir düzeltmeyi veya özrü, daha geç olmadan yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=65"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/65"
+  }
+ ]
+}

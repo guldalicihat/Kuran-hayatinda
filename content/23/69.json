@@ -1,0 +1,103 @@
+{
+ "sure": 23,
+ "ayet": 69,
+ "durum": "taslak",
+ "meal": "Yoksa peygamberlerini tanımadılar da bu yüzden mi onu inkâr ediyorlar?",
+ "mealNotu": "'Ya'rifû' kökü tanıma, bilme anlamındadır; ayet, inkârın sebebinin peygamberin güvenilirliğinin bilinmemesi olmadığını, aksine iyi tanınmasına rağmen reddedildiğini ima eder.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "yoksa bağlacı",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "يَعْرِفُوا۟",
+   "okunus": "ya'rifû",
+   "kok": "عرف",
+   "kokAnlam": "tanıma, bilme",
+   "karsilik": "tanımadılar"
+  },
+  {
+   "kelime": "رَسُولَهُمْ",
+   "okunus": "rasûlehüm",
+   "kok": "رسل",
+   "kokAnlam": "elçi, gönderilen",
+   "karsilik": "peygamberlerini"
+  },
+  {
+   "kelime": "فَهُمْ",
+   "okunus": "fehüm",
+   "kok": "—",
+   "kokAnlam": "zamir, bu yüzden onlar",
+   "karsilik": "bu yüzden onlar"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "zamir, onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "مُنكِرُونَ",
+   "okunus": "münkirûne",
+   "kok": "نكر",
+   "kokAnlam": "tanımama, inkâr etme",
+   "karsilik": "inkâr edenlerdir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu soru, bir öncekiyle birlikte inkârın olası sebeplerini tek tek eler: önce 'Kur'an düşünülmedi mi' sorusu, ardından 'peygamber tanınmıyor mu' sorusu sorulur. Her iki soru da olumsuz cevabı beklemez; aksine, gerçek sebebin başka bir yerde olduğunu ima eder.",
+  "Tarihî bağlamda Mekke halkı, Peygamberin dürüstlüğünü ve güvenilirliğini yıllarca yakından bilmekteydi; bu yüzden soru, 'onu tanımadıkları için mi inkâr ediyorlar' diye sorulduğunda, cevabın 'hayır, tanıyorlar ama yine de inkâr ediyorlar' olduğu anlaşılır. Sonraki ayet bu inkârın asıl sebebi olarak başka bir ithamı gündeme getirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:33",
+   "meal": "Biz biliyoruz ki onların söyledikleri seni gerçekten üzüyor; onlar aslında seni yalanlamıyorlar, fakat zalimler Allah'ın ayetlerini bile bile inkâr ediyorlar.",
+   "baglanti": "Peygamberin şahsının değil, getirdiği mesajın bilerek reddedildiğini açıkça belirtir."
+  },
+  {
+   "ref": "28:47",
+   "meal": "Sana bir kitap göndermeseydik 'Rabbimiz, bize de bir elçi gönderseydin de ayetlerine uysaydık' derlerdi.",
+   "baglanti": "Elçi gönderilmesinin bir mazeret bırakmama amacına hizmet ettiğini gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, güvenilirliği bilinen bir kişinin sözünün, sırf başka sebeplerle reddedilmesidir.",
+  "Günlük hayata taşınabilecek ders, bir kişiyi veya sözü reddederken gerçek sebebimizin ne olduğunu dürüstçe kendimize sormaktır; bazen sebep bilgi eksikliği değil, inatçılık olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gerçek sebebi sorgula",
+   "aciklama": "Bugün bir öneriyi reddederken, asıl sebebinin ne olduğunu kendine dürüstçe sor."
+  },
+  {
+   "baslik": "Güvenilir kişiyi dinle",
+   "aciklama": "Dürüstlüğünü bildiğin birinin uyarısını, keyfince görmezden gelme."
+  },
+  {
+   "baslik": "İnatla haklılığı ayır",
+   "aciklama": "Bir tartışmada, sadece geri adım atmamak için ısrar edip etmediğini kontrol et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda direndiğinde, direnme sebebinin gerçek bir itiraz mı yoksa sadece inat mı olduğunu kendine sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=69"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/69"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "sure": 23,
+ "ayet": 84,
+ "durum": "taslak",
+ "meal": "De ki: 'Yeryüzü ve içindekiler kime aittir, eğer biliyorsanız?'",
+ "mealNotu": "Bu ayetle başlayan üç soru-cevap dizisi ('kime aittir?'), inkârcıların kendi kabul ettikleri gerçeklerden yola çıkarak öldükten sonra dirilmeyi reddetmelerinin tutarsızlığını gösterir.",
+ "kokler": [
+  {
+   "kelime": "قُل",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "لِّمَنِ",
+   "okunus": "limeni",
+   "kok": "—",
+   "kokAnlam": "kime ait edatı",
+   "karsilik": "kime aittir"
+  },
+  {
+   "kelime": "ٱلْأَرْضُ",
+   "okunus": "el'erdu",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yeryüzü"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "ilgi, ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "فِيهَآ",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "içinde edatı",
+   "karsilik": "içindekiler"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "şart, eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "تَعْلَمُونَ",
+   "okunus": "ta'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "biliyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Efsane iddiasına karşı Peygambere, muhataplarına sorması için bir soru öğretilir: yeryüzü ve içindekiler kime aittir? Bu soru, tartışmayı inkârcıların da kabul edeceği ortak bir zeminde başlatır; çünkü onlar da yaratıcının Allah olduğunu genelde kabul ederler.",
+  "Bu soru, 85. ayette 'Allah'ındır' cevabıyla karşılık bulacak ve ardından 'hâlâ düşünmüyor musunuz' sorusuyla tutarsızlıkları gösterilecektir: yaratanın gücünü kabul edip yeniden yaratma (diriltme) gücünü reddetmek akla aykırıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:61",
+   "meal": "Andolsun, onlara 'Gökleri ve yeri kim yarattı, güneşi ve ayı kim emrine boyun eğdirdi?' diye sorsan, mutlaka 'Allah' derler.",
+   "baglanti": "Aynı sorgulama yöntemini, müşriklerin de kabul ettiği bir gerçekten yola çıkarak kullanır."
+  },
+  {
+   "ref": "31:25",
+   "meal": "Andolsun, onlara 'Gökleri ve yeri kim yarattı?' diye sorsan, mutlaka 'Allah' derler.",
+   "baglanti": "Aynı soru-cevap yöntemini, benzer bir üslupla başka bir surede tekrar eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bir tartışmada karşı tarafın da kabul ettiği ortak bir noktadan başlayarak tutarlılığını sorgulamaktır.",
+  "Günlük hayata taşınabilecek ders, bir fikri savunurken kendi kabul ettiğimiz temel ilkelerle çelişip çelişmediğimizi kontrol etmek, tutarlı davranmaya çalışmaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tutarlılığını kontrol et",
+   "aciklama": "Bugün bir konudaki görüşünün, kendi kabul ettiğin başka bir ilkeyle çelişip çelişmediğini kontrol et."
+  },
+  {
+   "baslik": "Ortak zeminden başla",
+   "aciklama": "Bir tartışmada, karşı tarafla anlaştığın bir noktadan başlayarak konuşmayı dene."
+  },
+  {
+   "baslik": "Sahiplik bilincini taşı",
+   "aciklama": "Bugün kullandığın bir şeyin gerçek sahibinin Allah olduğunu bir an hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün bir tartışmada, karşı tarafla ortak kabul ettiğin bir noktadan başlayarak konuşmayı dene.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=84"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/84"
+  }
+ ]
+}

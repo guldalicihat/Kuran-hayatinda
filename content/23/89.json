@@ -1,0 +1,89 @@
+{
+ "sure": 23,
+ "ayet": 89,
+ "durum": "taslak",
+ "meal": "'Allah'ındır' diyecekler. De ki: 'Öyleyse nasıl büyüleniyorsunuz (aklınız nasıl çeliniyor)?'",
+ "mealNotu": "'Tüsharûn' kökü büyülenme, aklın etkilenip yanıltılmasıdır; soru, gerçeği kabul edenlerin yine de yanlış sonuçlara sürüklenmesindeki şaşırtıcı tutarsızlığı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "سَيَقُولُونَ",
+   "okunus": "seyekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "diyecekler"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, Allah",
+   "karsilik": "Allah'ındır"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "فَأَنَّىٰ",
+   "okunus": "feennâ",
+   "kok": "—",
+   "kokAnlam": "soru, öyleyse nasıl",
+   "karsilik": "öyleyse nasıl"
+  },
+  {
+   "kelime": "تُسْحَرُونَ",
+   "okunus": "tüsharûne",
+   "kok": "سحر",
+   "kokAnlam": "büyülenme, aklın etkilenmesi",
+   "karsilik": "büyüleniyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Üç soru-cevap dizisinin sonunda ('yeryüzü kimin', 'gökler ve Arş kimin', 'her şeyin hükümranlığı kimin'), muhataplar her defasında 'Allah'ındır' diyerek gerçeği kabul etmiş olur. Ama bu kabule rağmen öldükten sonra dirilmeyi ve tevhidi reddetmeleri, akılları başka bir şeyle etkilenmiş gibi bir tutarsızlık olarak sunulur.",
+  "'Tüsharûn' kelimesinin büyülenme anlamı, bu kişilerin bilgisizlikten değil, bir tür aldanmadan, gerçeği görmelerine rağmen ondan sapmaktan muzdarip olduklarını anlatır. Sonraki ayet, Peygamberin getirdiğinin hak olduğunu ve onların yalancı olduğunu söyleyerek bu bölümü sonuçlandırır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "43:87",
+   "meal": "Andolsun, onlara kendilerini kimin yarattığını sorsan, mutlaka 'Allah' derler; öyleyse nasıl (haktan) döndürülüyorlar?",
+   "baglanti": "Aynı 'kabul ediyorlar ama yine de sapıyorlar' tutarsızlığını, benzer bir soruyla tekrar eder."
+  },
+  {
+   "ref": "2:9",
+   "meal": "Allah'ı ve iman edenleri aldatmaya çalışırlar; oysa yalnız kendilerini aldatırlar, farkında değildirler.",
+   "baglanti": "Kişinin kendi aklını yanıltarak kendi kendini aldatması temasını farklı bir bağlamda anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bilinen bir gerçeğe rağmen aklın başka yönlere çekilip yanıltılabilmesidir.",
+  "Günlük hayata taşınabilecek ders, doğru bilgiye sahip olsak bile alışkanlık, çevre baskısı veya nefsin isteğiyle bu bilgiden sapabileceğimizi fark etmek ve buna karşı uyanık olmaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sapmayı fark et",
+   "aciklama": "Bugün doğru bildiğin bir şeyden neden saptığını, hangi etkiyle uzaklaştığını sorgula."
+  },
+  {
+   "baslik": "Nefsin oyununu tanı",
+   "aciklama": "Bir konuda kolay yolu seçerken, bunun nefsin bir aldatması olup olmadığını düşün."
+  },
+  {
+   "baslik": "Bilgiyle davranışı birleştir",
+   "aciklama": "Bugün bildiğin bir doğruyu, davranışına tam olarak yansıt."
+  }
+ ],
+ "bugununAdimi": "Bugün doğru bildiğin ama uzak durduğun bir davranışın, seni neyin uzaklaştırdığını yazılı olarak düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=89"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/89"
+  }
+ ]
+}

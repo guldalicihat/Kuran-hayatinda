@@ -1,0 +1,89 @@
+{
+ "sure": 23,
+ "ayet": 85,
+ "durum": "taslak",
+ "meal": "'Allah'ındır' diyecekler. De ki: 'Hâlâ düşünüp öğüt almıyor musunuz?'",
+ "mealNotu": "'Tezekkerûn' kökü hatırlama, öğüt alma anlamındadır; soru, muhatapların verdikleri doğru cevap ile davranışları arasındaki tutarsızlığı fark etmelerini ister.",
+ "kokler": [
+  {
+   "kelime": "سَيَقُولُونَ",
+   "okunus": "seyekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "diyecekler"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, Allah",
+   "karsilik": "Allah'ındır"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "أَفَلَا",
+   "okunus": "efelâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk, hâlâ ... etmiyor musunuz",
+   "karsilik": "hâlâ ... etmiyor musunuz"
+  },
+  {
+   "kelime": "تَذَكَّرُونَ",
+   "okunus": "tezekkerûne",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlama, öğüt alma",
+   "karsilik": "düşünüp öğüt alıyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "84. ayetteki soruya, muhatapların kaçınılmaz olarak vereceği cevap burada bildirilir: yeryüzü ve içindekiler Allah'ındır. Bu, onların da içten içe gerçeği kabul ettiklerini, ama davranışlarında bunu yansıtmadıklarını gösterir.",
+  "'Hâlâ düşünüp öğüt almıyor musunuz' sorusu, bu kabulle davranışları arasındaki çelişkiyi gün yüzüne çıkarır: yaratıcı gücü kabul ettikleri hâlde, aynı gücün onları yeniden diriltebileceğini reddetmeleri tutarsızdır. Bu soru dizisi, sonraki iki ayette 'sakınmıyor musunuz' ve 'nasıl aldatılıyorsunuz' sorularıyla devam eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "43:87",
+   "meal": "Andolsun, onlara kendilerini kimin yarattığını sorsan, mutlaka 'Allah' derler; öyleyse nasıl (haktan) döndürülüyorlar?",
+   "baglanti": "Aynı 'kabul ediyorlar ama tutarsız davranıyorlar' temasını, benzer bir soru-cevap yapısıyla tekrar eder."
+  },
+  {
+   "ref": "39:38",
+   "meal": "Andolsun, onlara 'Gökleri ve yeri kim yarattı?' diye sorsan, mutlaka 'Allah' derler.",
+   "baglanti": "Yaratıcı gücün itirafla kabul edildiği, ama sonuçlarının kabul edilmediği başka bir örnektir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bilinen bir gerçeği kabul etmekle bu gerçeğin gereğini yerine getirmek arasındaki farktır.",
+  "Günlük hayata taşınabilecek ders, doğru olduğunu bildiğimiz bir şeyi sadece kabul etmekle yetinmemek, onu davranışa dönüştürmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bildiğini uygula",
+   "aciklama": "Bugün doğru olduğunu bildiğin ama uygulamadığın bir davranışı, bir kez de olsa hayata geçir."
+  },
+  {
+   "baslik": "Çelişkini fark et",
+   "aciklama": "İnandığın bir değerle günlük davranışların arasında bir çelişki olup olmadığını gözden geçir."
+  },
+  {
+   "baslik": "Öğüt al, unutma",
+   "aciklama": "Bugün okuduğun bir hatırlatmayı, sadece bilgi olarak değil, üzerinde durup düşünerek al."
+  }
+ ],
+ "bugununAdimi": "Bugün doğru olduğunu bildiğin ama ihmal ettiğin bir davranışı, bugün bir kez uygula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=85"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/85"
+  }
+ ]
+}

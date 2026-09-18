@@ -1,0 +1,89 @@
+{
+ "sure": 23,
+ "ayet": 90,
+ "durum": "taslak",
+ "meal": "Hayır, biz onlara hakkı getirdik ve şüphesiz onlar yalancıdırlar.",
+ "mealNotu": "Bu ayet, 68-89 arasındaki soru-cevap ve itiraz dizisini sonuçlandırır: getirilen şey gerçektir (hak), iddia edenlerin sözleri ise yalandır.",
+ "kokler": [
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "idrak, hayır aksine",
+   "karsilik": "hayır, aksine"
+  },
+  {
+   "kelime": "أَتَيْنَٰهُم",
+   "okunus": "eteynâhüm",
+   "kok": "أتي",
+   "kokAnlam": "getirme, verme",
+   "karsilik": "onlara getirdik"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, hak",
+   "karsilik": "hakkı"
+  },
+  {
+   "kelime": "وَإِنَّهُمْ",
+   "okunus": "ve innehüm",
+   "kok": "—",
+   "kokAnlam": "te'kid, ve şüphesiz onlar",
+   "karsilik": "ve şüphesiz onlar"
+  },
+  {
+   "kelime": "لَكَٰذِبُونَ",
+   "okunus": "lekâzibûne",
+   "kok": "كذب",
+   "kokAnlam": "yalan söyleme",
+   "karsilik": "yalancıdırlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 68. ayetten başlayan uzun bir bölümü ('düşünmediler mi', 'peygamberi tanımadılar mı', 'delilik mi diyorlar', efsane iddiası, üç soru-cevap dizisi) özetleyerek kapatır. Sonuç nettir: getirilen mesaj haktır, ona 'efsane' veya 'büyü' diyenler ise yalan söylemektedir.",
+  "'Hakkı getirdik' ifadesi 71. ayette de geçmişti ('bel eteynâhüm bizikrihim'); burada aynı fiil tekrarlanarak konu baştan sona bir bütünlük kazanır. Bu ayetle, inkârcıların itirazlarına verilen cevap tamamlanmış olur ve sonraki ayetlerde konu Allah'ın birliğine, çocuk ve ortak edinmekten uzak oluşuna geçer."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "34:49",
+   "meal": "De ki: 'Hak geldi; artık batıl ne bir şey ortaya çıkarabilir ne de geri getirebilir.'",
+   "baglanti": "Hakkın geldiğinde batılın geçersiz kaldığı fikrini benzer bir kesinlikle ifade eder."
+  },
+  {
+   "ref": "17:81",
+   "meal": "De ki: 'Hak geldi, batıl yok oldu; şüphesiz batıl yok olmaya mahkûmdur.'",
+   "baglanti": "Hak ile batılın karşılaşmasının kaçınılmaz sonucunu benzer bir vurguyla anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, doğru olanın nihayetinde ortaya çıkacağı, ona karşı ileri sürülen asılsız iddiaların ise yalan olarak kalacağıdır.",
+  "Günlük hayata taşınabilecek ders, doğru bildiğimiz bir şeyi savunurken kararlı olmak, çevreden gelen asılsız itirazların bizi yıldırmasına izin vermemektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğruda kararlı kal",
+   "aciklama": "Bugün doğru bildiğin bir şeyi, haksız bir eleştiri karşısında savunmaktan çekinme."
+  },
+  {
+   "baslik": "Asılsız iddiayı sınavdan geçir",
+   "aciklama": "Duyduğun bir iddiayı hemen kabul etmeden önce, gerçekten dayanağı olup olmadığını araştır."
+  },
+  {
+   "baslik": "Hakkı yalanla karıştırma",
+   "aciklama": "Bugün bir konuda, çok tekrarlanan bir sözün doğru olduğu yanılgısına düşme."
+  }
+ ],
+ "bugununAdimi": "Bugün duyduğun bir iddiayı, kabul etmeden önce gerçekten dayanağı olup olmadığını araştır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=90"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/90"
+  }
+ ]
+}

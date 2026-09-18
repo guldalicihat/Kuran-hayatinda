@@ -1,0 +1,124 @@
+{
+ "sure": 23,
+ "ayet": 70,
+ "durum": "taslak",
+ "meal": "Yoksa 'onda delilik var' mı diyorlar? Hayır, o kendilerine hakkı getirdi, fakat onların çoğu haktan hoşlanmayanlardır.",
+ "mealNotu": "'Cinnet' kökü, cin kökünden gelir ve akıl karışıklığı, delilik anlamındadır; ayet bu ithamı reddederek gerçek sebebin haktan hoşlanmama olduğunu söyler.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "yoksa bağlacı",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "يَقُولُونَ",
+   "okunus": "yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "diyorlar"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "zamir, onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "جِنَّةٌۢ",
+   "okunus": "cinnetün",
+   "kok": "جنن",
+   "kokAnlam": "gizlenme; akıl karışıklığı, delilik",
+   "karsilik": "delilik"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "idrak, hayır aksine",
+   "karsilik": "hayır, aksine"
+  },
+  {
+   "kelime": "جَآءَهُم",
+   "okunus": "câehüm",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "onlara getirdi"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, hak",
+   "karsilik": "hakkı"
+  },
+  {
+   "kelime": "وَأَكْثَرُهُمْ",
+   "okunus": "ve ekseruhüm",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "ve onların çoğu"
+  },
+  {
+   "kelime": "لِلْحَقِّ",
+   "okunus": "lilhakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, hak",
+   "karsilik": "hakka"
+  },
+  {
+   "kelime": "كَٰرِهُونَ",
+   "okunus": "kârihûne",
+   "kok": "كره",
+   "kokAnlam": "hoşlanmama, tiksinme",
+   "karsilik": "hoşlanmayanlardır"
+  }
+ ],
+ "neAnlatiyor": [
+  "İnkârın sebeplerini sıralayan sorulara üçüncüsü eklenir: peygambere yöneltilen 'delilik' ithamı. Ayet bu ithamı doğrudan reddeder: sorun peygamberin sözünde bir tutarsızlık değil, getirdiği gerçeğin muhataplarca istenmemesidir.",
+  "'Hakka hoşlanmayanlardır' ifadesi, inkârın çoğu zaman bilgi eksikliğinden değil, gerçeğin getirdiği sorumluluktan kaçıştan kaynaklandığını gösterir. Bu, 68-70. ayetlerdeki üç sorunun ortak sonucu gibidir: mesele akıl, tanıma veya delilik değil, isteksizliktir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "34:8",
+   "meal": "Yoksa o, Allah'a karşı yalan mı uydurdu, yoksa onda delilik mi var?",
+   "baglanti": "Aynı 'delilik' ithamını, başka bir surede benzer bir soru kalıbıyla tekrar eder."
+  },
+  {
+   "ref": "81:22",
+   "meal": "Arkadaşınız (Muhammed) deli değildir.",
+   "baglanti": "Aynı ithamı doğrudan reddeden başka bir ayettir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, doğru bir sözü kabul etmemek için akla gelen ilk ithamı ileri sürmektir.",
+  "Günlük hayata taşınabilecek ders, katılmadığımız bir görüşü kişiye saldırarak (etiketleyerek) değil, içeriğiyle tartışarak ele almaktır; asıl direncimizin sebebini de kendimize dürüstçe sormaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kişiye değil söze bak",
+   "aciklama": "Bugün bir görüşü eleştirirken, kişiyi karalamak yerine söylediği söze odaklan."
+  },
+  {
+   "baslik": "İsteksizliğini fark et",
+   "aciklama": "Bir gerçeği reddederken, gerçekten mi inanmadığını yoksa sadece istemediğin için mi reddettiğini sorgula."
+  },
+  {
+   "baslik": "Etiketlemeden dinle",
+   "aciklama": "Bugün katılmadığın bir kişiyi hemen bir sıfatla damgalamadan, söylediğini dinle."
+  }
+ ],
+ "bugununAdimi": "Bugün katılmadığın bir görüşü, kişiyi etiketlemeden, yalnızca içeriğiyle değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=70"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/70"
+  }
+ ]
+}

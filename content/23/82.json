@@ -1,0 +1,110 @@
+{
+ "sure": 23,
+ "ayet": 82,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'Biz öldüğümüz, toprak ve kemik olduğumuzda mı, gerçekten mi diriltileceğiz?'",
+ "mealNotu": "'Meb'ûsûn' kökü gönderilme, diriltilip kaldırılma anlamındadır; ayet, öldükten sonra dirilmeyi imkânsız gören şaşkınlık dolu bir soruyu aktarır.",
+ "kokler": [
+  {
+   "kelime": "قَالُوٓا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "أَءِذَا",
+   "okunus": "eizâ",
+   "kok": "—",
+   "kokAnlam": "soru + zaman, -dığımızda mı",
+   "karsilik": "-dığımızda mı"
+  },
+  {
+   "kelime": "مِتْنَا",
+   "okunus": "mitnâ",
+   "kok": "موت",
+   "kokAnlam": "ölme",
+   "karsilik": "öldüğümüz"
+  },
+  {
+   "kelime": "وَكُنَّا",
+   "okunus": "ve künnâ",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ve olduğumuz"
+  },
+  {
+   "kelime": "تُرَابًا",
+   "okunus": "türâben",
+   "kok": "ترب",
+   "kokAnlam": "toprak",
+   "karsilik": "toprak"
+  },
+  {
+   "kelime": "وَعِظَٰمًا",
+   "okunus": "ve izâmen",
+   "kok": "عظم",
+   "kokAnlam": "kemik",
+   "karsilik": "ve kemik"
+  },
+  {
+   "kelime": "أَءِنَّا",
+   "okunus": "einnâ",
+   "kok": "—",
+   "kokAnlam": "soru + te'kid, gerçekten biz mi",
+   "karsilik": "gerçekten biz mi"
+  },
+  {
+   "kelime": "لَمَبْعُوثُونَ",
+   "okunus": "lemeb'ûsûne",
+   "kok": "بعث",
+   "kokAnlam": "gönderilme, diriltilip kaldırılma",
+   "karsilik": "diriltileceğiz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette 'öncekilerin dediği gibi dediler' ifadesiyle özetlenen itiraz, burada açıkça dile getirilir: ölüp toprak ve kemik haline geldikten sonra yeniden dirilmenin imkânsız olduğu düşüncesi. Bu, öldükten sonra dirilişi akla aykırı bulan yaygın bir itirazdır.",
+  "Soru kalıbının tekrarlı yapısı ('eizâ... einnâ') şaşkınlık ve alaycı bir imkânsızlık vurgusu taşır. Sonraki ayet bu itirazın, atalardan miras kalan bir inanç olduğunu, yeni bir delile dayanmadığını ekler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:78",
+   "meal": "Kendi yaratılışını unutarak bize bir örnek verdi: 'Şu çürümüş kemikleri kim diriltecek?' dedi.",
+   "baglanti": "Aynı itirazın, kişinin kendi yaratılışını unutmasından kaynaklandığını gösterir."
+  },
+  {
+   "ref": "17:49",
+   "meal": "Dediler ki: 'Biz kemik ve ufalanmış toprak olduğumuzda mı, gerçekten mi yeni bir yaratılışla diriltileceğiz?'",
+   "baglanti": "Aynı itirazın neredeyse aynı ifadelerle başka bir surede tekrarlandığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, aklın alışık olmadığı bir gerçeği, sırf tuhaf geldiği için imkânsız görmektir.",
+  "Günlük hayata taşınabilecek ders, ilk bakışta akıl almaz görünen bir bilgiyi hemen reddetmeden önce, onun ardındaki mantığı anlamaya çalışmaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "İmkânsız deme, düşün",
+   "aciklama": "Bugün ilk anda imkânsız gelen bir şeyi, hemen reddetmeden önce bir kez daha düşün."
+  },
+  {
+   "baslik": "İlk yaratılışı hatırla",
+   "aciklama": "Bir şeyin nasıl var olduğunu düşünürken, hiçten var edilmenin de büyük bir mucize olduğunu hatırla."
+  },
+  {
+   "baslik": "Şaşkınlığı alaycılığa çevirme",
+   "aciklama": "Anlamadığın bir konuda alay etmek yerine, meraklı bir soru sormayı tercih et."
+  }
+ ],
+ "bugununAdimi": "Bugün ilk anda akıl almaz gelen bir konuda, hemen reddetmeden önce sebebini araştır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=82"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/82"
+  }
+ ]
+}

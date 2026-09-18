@@ -1,0 +1,96 @@
+{
+ "sure": 23,
+ "ayet": 81,
+ "durum": "taslak",
+ "meal": "Hayır, onlar da öncekilerin dediği gibi dediler.",
+ "mealNotu": "Ayet kısa ve dönüştürücü bir geçiş cümlesidir; inkârcıların itirazlarının yeni değil, geçmiş toplumların itirazlarının bir tekrarı olduğunu bildirir.",
+ "kokler": [
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "idrak, hayır aksine",
+   "karsilik": "hayır, aksine"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "مِثْلَ",
+   "okunus": "misle",
+   "kok": "مثل",
+   "kokAnlam": "benzer, örnek",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi, şey",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediği"
+  },
+  {
+   "kelime": "ٱلْأَوَّلُونَ",
+   "okunus": "el'evvelûne",
+   "kok": "أول",
+   "kokAnlam": "ilk, önceki",
+   "karsilik": "öncekilerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Gece-gündüz ve hayat-ölüm delillerinin ardından gelen bu kısa ayet, sözü tekrar inkârcılara döndürür. Onların akıl yürütmemesinin sebebi yeni bir itiraz değil, geçmişte de defalarca dile getirilmiş, aynı kalıptaki bir itirazdır.",
+  "Bu ayet, sonraki ayetlerde açıklanacak somut itirazın (öldükten sonra dirilmeyi reddetme) bir giriş cümlesidir. 'Öncekilerin dediği gibi' ifadesi, inkârın tarih boyunca hep aynı kalıpları tekrarladığını, yeni bir delil veya mantık getirmediğini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "46:17",
+   "meal": "...O da 'Öf size! Benden önce nice nesiller gelip geçmişken, siz bana beni tekrar diriltileceğimi mi vaad ediyorsunuz?' der.",
+   "baglanti": "Öldükten sonra dirilmeyi reddeden aynı itiraz kalıbının, farklı bir bağlamda tekrarlandığını gösterir."
+  },
+  {
+   "ref": "37:16",
+   "meal": "'Biz öldüğümüz, toprak ve kemik olduğumuzda mı gerçekten diriltileceğiz?'",
+   "baglanti": "Aynı itirazın, neredeyse aynı kelimelerle başka bir surede tekrarlandığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bir itirazın eski olması ve tekrar edilmesinin, onu doğru kılmayacağıdır.",
+  "Günlük hayata taşınabilecek ders, çevremizde sıkça duyduğumuz bir itirazı veya şüpheyi, sırf yaygın olduğu için sorgulamadan kabul etmemektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yaygın sözü sorgula",
+   "aciklama": "Bugün sık duyduğun ama hiç sorgulamadığın bir görüşü, gerçekten doğru mu diye düşün."
+  },
+  {
+   "baslik": "Tekrarı delil sanma",
+   "aciklama": "Bir fikrin çok tekrarlanması onu doğru yapmaz; bunu bugün bir kez hatırla."
+  },
+  {
+   "baslik": "Kendi aklınla düşün",
+   "aciklama": "Bir konuda herkesin dediğini tekrar etmek yerine, kendi aklınla bir kez daha değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün sık duyduğun ama sorgulamadan kabul ettiğin bir görüşü, bir kez de kendi aklınla değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=81"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/81"
+  }
+ ]
+}
