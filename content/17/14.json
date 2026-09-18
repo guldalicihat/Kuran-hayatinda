@@ -1,0 +1,103 @@
+{
+ "sure": 17,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "Kitabını oku! Bugün, hesap görücü olarak sana nefsin yeter.",
+ "mealNotu": "'Kefâ' kökü yetme, kâfi gelme anlamındadır. 'Hasîban' kökü hesap gören, hesaba çeken anlamına gelir.",
+ "kokler": [
+  {
+   "kelime": "ٱقْرَأْ",
+   "okunus": "ikra'",
+   "kok": "قرأ",
+   "kokAnlam": "okuma",
+   "karsilik": "oku"
+  },
+  {
+   "kelime": "كِتَٰبَكَ",
+   "okunus": "kitâbeke",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "kitabını"
+  },
+  {
+   "kelime": "كَفَىٰ",
+   "okunus": "kefâ",
+   "kok": "كفي",
+   "kokAnlam": "yetme, kâfi gelme",
+   "karsilik": "yeter"
+  },
+  {
+   "kelime": "بِنَفْسِكَ",
+   "okunus": "binefsike",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi",
+   "karsilik": "nefsin"
+  },
+  {
+   "kelime": "ٱلْيَوْمَ",
+   "okunus": "elyevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bugün"
+  },
+  {
+   "kelime": "عَلَيْكَ",
+   "okunus": "aleyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "حَسِيبًا",
+   "okunus": "hasîben",
+   "kok": "حسب",
+   "kokAnlam": "hesap görücü",
+   "karsilik": "hesap görücü olarak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayette bahsedilen kitabın kişiye kıyamet günü nasıl sunulacağını anlatır: kişiye 'kitabını oku' denir. Bu, doğrudan kişinin kendi amel kaydıyla yüzleşmesidir.",
+  "Ayetin en dikkat çekici kısmı, kişinin kendi nefsinin kendisine karşı hesap görücü olarak yeteceğinin bildirilmesidir. Bu, insanın kendi eylemlerinin en iyi şahidi olduğunu, başka bir tanığa ihtiyaç kalmayacak kadar açık bir hesaplaşma olacağını vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "69:19",
+   "meal": "Kitabı sağ eliyle verilen kimse der ki: 'Alın, kitabımı okuyun!'",
+   "baglanti": "Kıyamette kişinin kendi kitabını okuma sahnesini doğrudan tasvir eder; İsrâ 14'teki 'kitabını oku' emriyle aynı olayı anlatır."
+  },
+  {
+   "ref": "75:14",
+   "meal": "Hayır, insan kendi nefsine karşı bir şahittir.",
+   "baglanti": "İnsanın kendi eylemlerine karşı kendi kendinin şahidi olduğunu bildirir; İsrâ 14'teki 'nefsin sana hesap görücü olarak yeter' ifadesiyle aynı ilkeyi paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıyamet günündeki bireysel hesaplaşmadır; bu ahiret inancına dair bir bildirimdir.",
+  "Günlük hayatta, kendi vicdanımızın en dürüst hesap görücümüz olduğunu bilmek, başkalarının bizi nasıl gördüğünden çok, kendi içimizdeki doğruluğa önem vermemizi sağlar. Bu, günlük öz değerlendirme alışkanlığı için de bir çağrı olarak okunabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendi gününü değerlendir",
+   "aciklama": "Bugünün sonunda, yaptıklarını dürüstçe gözden geçir."
+  },
+  {
+   "baslik": "Vicdanınla yüzleş",
+   "aciklama": "Bugün bir konuda kendine karşı dürüst ol, kimse görmese bile doğruyu yap."
+  },
+  {
+   "baslik": "Kayıt tutma alışkanlığı edin",
+   "aciklama": "Bugün küçük bir günlük veya not tutarak, gününü bilinçli takip et."
+  }
+ ],
+ "bugununAdimi": "Bugünün sonunda, gününü dürüstçe gözden geçiren birkaç dakika ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/17/14"
+  }
+ ]
+}

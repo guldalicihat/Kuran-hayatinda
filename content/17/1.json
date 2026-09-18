@@ -1,0 +1,201 @@
+{
+ "sure": 17,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Kulunu bir gece Mescid-i Haram'dan, çevresini bereketli kıldığı Mescid-i Aksa'ya götüren [Allah] her türlü eksiklikten uzaktır. Bu, ona ayetlerimizden bir kısmını göstermek içindir. Şüphesiz O, hakkıyla işitendir, hakkıyla görendir.",
+ "mealNotu": "'Esrâ' kökü gece yürütme/götürme anlamındadır; ayet Hz. Peygamber'in bir gece Mescid-i Haram'dan Mescid-i Aksa'ya götürülüşünü anlatır. 'Sübhâne' Allah'ı her türlü eksiklikten tenzih eden bir ifadedir.",
+ "kokler": [
+  {
+   "kelime": "سُبْحَٰنَ",
+   "okunus": "sübhâne",
+   "kok": "سبح",
+   "kokAnlam": "eksiklikten uzak olma, tenzih",
+   "karsilik": "eksiklikten uzaktır"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) o ki",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "أَسْرَىٰ",
+   "okunus": "esrâ",
+   "kok": "سري",
+   "kokAnlam": "gece yürüyüşü, gece götürme",
+   "karsilik": "gece yürüttü"
+  },
+  {
+   "kelime": "بِعَبْدِهِۦ",
+   "okunus": "biabdihî",
+   "kok": "عبد",
+   "kokAnlam": "kul, kölelik",
+   "karsilik": "kulunu"
+  },
+  {
+   "kelime": "لَيْلًا",
+   "okunus": "leylen",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "bir gece"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمَسْجِدِ",
+   "okunus": "elmescidi",
+   "kok": "سجد",
+   "kokAnlam": "secde etme; secde edilen yer",
+   "karsilik": "Mescid-i"
+  },
+  {
+   "kelime": "ٱلْحَرَامِ",
+   "okunus": "elharâmi",
+   "kok": "حرم",
+   "kokAnlam": "yasak, dokunulmaz, saygın",
+   "karsilik": "Haram'dan"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْمَسْجِدِ",
+   "okunus": "elmescidi",
+   "kok": "سجد",
+   "kokAnlam": "secde etme; secde edilen yer",
+   "karsilik": "Mescid-i"
+  },
+  {
+   "kelime": "ٱلْأَقْصَا",
+   "okunus": "el'eksâ",
+   "kok": "قصو",
+   "kokAnlam": "uzak, en uzak",
+   "karsilik": "Aksa'ya"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) o ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "بَٰرَكْنَا",
+   "okunus": "bâraknâ",
+   "kok": "برك",
+   "kokAnlam": "bereketlendirme",
+   "karsilik": "bereketli kıldığımız"
+  },
+  {
+   "kelime": "حَوْلَهُۥ",
+   "okunus": "havlehû",
+   "kok": "حول",
+   "kokAnlam": "çevre, etraf",
+   "karsilik": "çevresini"
+  },
+  {
+   "kelime": "لِنُرِيَهُۥ",
+   "okunus": "linüriyehû",
+   "kok": "رأي",
+   "kokAnlam": "görme, gösterme",
+   "karsilik": "ona göstermemiz için"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ءَايَٰتِنَآ",
+   "okunus": "âyâtinâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet, delil",
+   "karsilik": "ayetlerimizden"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz o",
+   "karsilik": "şüphesiz O"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "O"
+  },
+  {
+   "kelime": "ٱلسَّمِيعُ",
+   "okunus": "essemîu",
+   "kok": "سمع",
+   "kokAnlam": "işitme",
+   "karsilik": "hakkıyla işitendir"
+  },
+  {
+   "kelime": "ٱلْبَصِيرُ",
+   "okunus": "elbesîru",
+   "kok": "بصر",
+   "kokAnlam": "görme",
+   "karsilik": "hakkıyla görendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, İsrâ suresinin ilk ayetidir ve Hz. Peygamber'in bir gece Mescid-i Haram'dan (Mekke) Mescid-i Aksa'ya (Kudüs) götürülüşünü anlatır. 'Esrâ' kökü özellikle gece yürüyüşünü ifade eder; bu yolculuğun nasıl gerçekleştiği ayette ayrıntılandırılmaz, klasik tefsir bunu Allah'ın kudretiyle gerçekleşen olağanüstü bir olay olarak açıklar.",
+  "Ayetin vurgusu, bu yolculuğun amacıdır: 'ona ayetlerimizden bir kısmını göstermek için.' Mescid-i Aksa'nın çevresinin 'bereketli kılındığı' belirtilir; bu, bölgenin peygamberler tarihindeki önemine işaret eder. Ayet, 'Sübhâne' (tenzih) ifadesiyle başlayarak, anlatılacak olayın büyüklüğü karşısında Allah'ı her türlü eksiklikten uzak tutar ve O'nun hakkıyla işiten, hakkıyla gören olduğunu hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "53:18",
+   "meal": "Andolsun, Rabbinin en büyük ayetlerinden bir kısmını gördü.",
+   "baglanti": "Necm suresindeki bu ayet, Hz. Peygamber'in gördüğü büyük ayetlerden bahseder; İsrâ 1'deki 'ona ayetlerimizden gösterelim diye' ifadesiyle aynı olayın farklı bir yönünü tamamlar."
+  },
+  {
+   "ref": "17:60",
+   "meal": "Hani sana, 'Rabbin insanları kuşatmıştır' demiştik. Sana gösterdiğimiz rüyayı da, Kur'an'da lanetlenen ağacı da sadece insanlar için bir imtihan kıldık; biz onları korkutuyoruz ama bu onların büyük bir azgınlığını artırmaktan başka bir işe yaramıyor.",
+   "baglanti": "Aynı surede yer alan bu ayet, 1. ayette anlatılan gösterinin insanlar için bir imtihan olduğunu belirterek konuyu tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin doğrudan konusu, Hz. Peygamber'e özgü olağanüstü bir olaydır; bu herkesin yaşayabileceği sıradan bir tecrübe değildir. Ayetin 'Sübhâne' ile başlaması, insanın akıl sınırlarını aşan olaylar karşısında önce Allah'ı tenzih etmesi gerektiğini gösterir.",
+  "Günlük hayatta, anlayamadığımız veya açıklayamadığımız bir olayla karşılaştığımızda acele hüküm vermek yerine tevazu ile yaklaşmak, bu ayetin genel bir dersi olarak çıkarılabilir. Ayrıca 'bereketli kılınan çevre' ifadesi, belirli mekânların ve zamanların değerine dikkat çeker."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir mucizeye tevazuyla yaklaş",
+   "aciklama": "Aklının tam kavrayamadığı bir konuda hemen inkâr etmek yerine önce araştır, sonra hüküm ver."
+  },
+  {
+   "baslik": "Kutsal mekânlara saygı göster",
+   "aciklama": "Bugün, değerli bildiğin bir mekânın ya da anın kıymetini bilerek davran."
+  },
+  {
+   "baslik": "Allah'ı tenzih ederek başla",
+   "aciklama": "Büyük bir işe başlarken, Allah'ın eksiksizliğini hatırlayan bir cümleyle başla."
+  }
+ ],
+ "bugununAdimi": "Bugün, anlayamadığın bir konuda hemen yargıya varmak yerine önce öğrenmeye çalış.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/17/1"
+  }
+ ]
+}

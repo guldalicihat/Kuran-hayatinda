@@ -1,0 +1,110 @@
+{
+ "sure": 17,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "İnsan, hayrı istediği gibi şerri de ister; insan pek acelecidir.",
+ "mealNotu": "'Yed'u' kökü hem çağırma hem isteme/dua anlamına gelir; ayet insanın kötülüğü de aynı istekle çağırabildiğini anlatır. 'Acûlen' kökü aşırı acelecilik anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "وَيَدْعُ",
+   "okunus": "ve yed'u",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, isteme, dua etme",
+   "karsilik": "ister"
+  },
+  {
+   "kelime": "ٱلْإِنسَٰنُ",
+   "okunus": "el'insânü",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insan"
+  },
+  {
+   "kelime": "بِٱلشَّرِّ",
+   "okunus": "biş şerri",
+   "kok": "شرر",
+   "kokAnlam": "kötülük, şer",
+   "karsilik": "şerri"
+  },
+  {
+   "kelime": "دُعَآءَهُۥ",
+   "okunus": "düâehû",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, isteme, dua",
+   "karsilik": "istediği gibi"
+  },
+  {
+   "kelime": "بِٱلْخَيْرِ",
+   "okunus": "bil hayri",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "hayrı"
+  },
+  {
+   "kelime": "وَكَانَ",
+   "okunus": "ve kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dir"
+  },
+  {
+   "kelime": "ٱلْإِنسَٰنُ",
+   "okunus": "el'insânü",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insan"
+  },
+  {
+   "kelime": "عَجُولًا",
+   "okunus": "acûlen",
+   "kok": "عجل",
+   "kokAnlam": "acelecilik",
+   "karsilik": "pek aceleci"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, insan tabiatına dair genel bir gözlem sunar: insan, hayrı istediği gibi -bazen öfke veya sabırsızlıkla- şerri de ister. 'Yed'u' (çağırma/dua) kökünün hem hayır hem şer için kullanılması, insanın isteklerinin her zaman kendi lehine olmadığını gösterir.",
+  "Ayetin sonu, bu davranışın kökenini 'acûl' (aceleci) sıfatıyla açıklar. Bu, insanın genel bir zaafı olarak sunulur; sabırsızlık, bazen zararlı bir şeyi bilmeden istemeye yol açabilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "21:37",
+   "meal": "İnsan aceleden yaratılmıştır. Size ayetlerimi göstereceğim; acele etmeyin.",
+   "baglanti": "İnsanın acelecilik tabiatını aynı şekilde bildirir; İsrâ 11'deki 'acûlen' ifadesiyle aynı temayı paylaşır."
+  },
+  {
+   "ref": "17:18",
+   "meal": "Kim çabuk geçeni (dünyayı) isterse, orada dilediğimiz kimseye dilediğimiz kadarını çabucak veririz; sonra ona cehennemi hazırlarız, kınanmış ve kovulmuş olarak oraya girer.",
+   "baglanti": "Aynı surede yer alan bu ayet, 'çabuk isteme' temasını dünya-ahiret tercihi bağlamında sürdürür; İsrâ 11'deki acelecilik vurgusuyla bağlantılıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu insan tabiatının genel bir özelliğidir; herkesi kapsayan bir gözlemdir.",
+  "Günlük hayatta, öfkeyle veya sabırsızlıkla söylenen bir beddua ya da alınan aceleci bir karar, insanın kendi zararına olabilir. Bu ayet, bir şeyi istemeden önce durup düşünmenin önemini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Aceleyle karar verme",
+   "aciklama": "Bugün önemli bir kararı vermeden önce birkaç dakika bekle ve tekrar düşün."
+  },
+  {
+   "baslik": "Öfkeyle konuşma",
+   "aciklama": "Bugün sinirlendiğinde, ağzından kötü bir söz çıkmadan önce sus ve sakinleş."
+  },
+  {
+   "baslik": "Sabrı pratiğe dök",
+   "aciklama": "Bugün seni sabırsızlandıran bir durumda bilinçli olarak yavaşla."
+  }
+ ],
+ "bugununAdimi": "Bugün, aceleyle bir şey istemeden ya da söylemeden önce durup düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/17/11"
+  }
+ ]
+}

@@ -1,0 +1,201 @@
+{
+ "sure": 17,
+ "ayet": 15,
+ "durum": "taslak",
+ "meal": "Kim doğru yola girerse, ancak kendi lehine girmiş olur; kim de saparsa, ancak kendi aleyhine sapmış olur. Hiçbir günahkâr, başkasının günah yükünü taşımaz. Biz, bir peygamber göndermedikçe azap edici değiliz.",
+ "mealNotu": "'İhtedâ' ve 'dalle' kökleri sırasıyla doğru yolu bulma ve sapmayı anlatır; her ikisi de kişinin kendi sorumluluğunda kalır. 'Vizr' kökü yük, günah anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "مَّنِ",
+   "okunus": "meni",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "ٱهْتَدَىٰ",
+   "okunus": "ihtedâ",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola girme",
+   "karsilik": "doğru yola girerse"
+  },
+  {
+   "kelime": "فَإِنَّمَا",
+   "okunus": "feinnemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "يَهْتَدِى",
+   "okunus": "yehtedî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola girme",
+   "karsilik": "doğru yola girmiş olur"
+  },
+  {
+   "kelime": "لِنَفْسِهِۦ",
+   "okunus": "linefsihî",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi",
+   "karsilik": "kendi lehine"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kim de"
+  },
+  {
+   "kelime": "ضَلَّ",
+   "okunus": "dalle",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, yoldan çıkma",
+   "karsilik": "saparsa"
+  },
+  {
+   "kelime": "فَإِنَّمَا",
+   "okunus": "feinnemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "يَضِلُّ",
+   "okunus": "yedıllü",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, yoldan çıkma",
+   "karsilik": "sapmış olur"
+  },
+  {
+   "kelime": "عَلَيْهَا",
+   "okunus": "aleyhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) kendi aleyhine",
+   "karsilik": "kendi aleyhine"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ...maz",
+   "karsilik": "-maz"
+  },
+  {
+   "kelime": "تَزِرُ",
+   "okunus": "teziru",
+   "kok": "وزر",
+   "kokAnlam": "yük taşıma, günah yüklenme",
+   "karsilik": "taşımaz"
+  },
+  {
+   "kelime": "وَازِرَةٌ",
+   "okunus": "vâziratün",
+   "kok": "وزر",
+   "kokAnlam": "yük taşıyan",
+   "karsilik": "hiçbir günahkâr"
+  },
+  {
+   "kelime": "وِزْرَ",
+   "okunus": "vizra",
+   "kok": "وزر",
+   "kokAnlam": "yük, günah",
+   "karsilik": "yükünü"
+  },
+  {
+   "kelime": "أُخْرَىٰ",
+   "okunus": "ührâ",
+   "kok": "أخر",
+   "kokAnlam": "başkası, diğeri",
+   "karsilik": "başkasının"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değiliz",
+   "karsilik": "değiliz"
+  },
+  {
+   "kelime": "كُنَّا",
+   "okunus": "künnâ",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "—"
+  },
+  {
+   "kelime": "مُعَذِّبِينَ",
+   "okunus": "müazzibîne",
+   "kok": "عذب",
+   "kokAnlam": "azap etme",
+   "karsilik": "azap edici"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -medikçe",
+   "karsilik": "-medikçe"
+  },
+  {
+   "kelime": "نَبْعَثَ",
+   "okunus": "neb'ase",
+   "kok": "بعث",
+   "kokAnlam": "gönderme",
+   "karsilik": "gönderelim"
+  },
+  {
+   "kelime": "رَسُولًا",
+   "okunus": "rasûlen",
+   "kok": "رسل",
+   "kokAnlam": "gönderilen elçi, resul",
+   "karsilik": "bir peygamber"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, hidayet ve sapkınlığın sonucunun kişinin kendisine ait olduğunu bildirir; bu, 7. ayetteki 'iyilik-kötülük kendine' ilkesinin hidayet bağlamındaki tekrarıdır. Ardından, hiçbir günahkârın başkasının günahını yüklenmeyeceği ilkesi eklenir.",
+  "Ayetin son cümlesi önemli bir adalet ilkesi koyar: Allah, bir peygamber göndermeden hiç kimseyi azaplandırmaz. Bu, azabın ancak açık bir uyarı ve tebliğden sonra gerçekleşeceğini, kimsenin bilgisi olmadan sorumlu tutulmayacağını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:164",
+   "meal": "De ki: Allah'tan başka bir Rab mi arayayım? Oysa O, her şeyin Rabbidir. Herkesin kazandığı yalnız kendisine aittir; hiçbir günahkâr başkasının günah yükünü taşımaz.",
+   "baglanti": "Hiçbir günahkârın başkasının yükünü taşımayacağı ilkesini aynı ifadeyle bildirir; İsrâ 15'teki cümleyle neredeyse birebir örtüşür."
+  },
+  {
+   "ref": "28:59",
+   "meal": "Rabbin, kendilerine ayetlerimizi okuyan bir peygamber göndermedikçe şehirleri helak edici değildir; biz, halkı zalim olmadıkça şehirleri helak edici de değiliz.",
+   "baglanti": "Peygamber gönderilmeden azap edilmeyeceği ilkesini aynı şekilde bildirir; İsrâ 15'in son cümlesiyle doğrudan örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu ahiretteki bireysel sorumluluk ve adalet ilkesidir; bu, herkesi ilgilendiren genel bir hükümdür.",
+  "Günlük hayatta, kendi doğru ve yanlışlarımızın sorumluluğunu başkasına yıkmadan üstlenmek, bu ayetin doğrudan çağrısıdır. Aynı şekilde başkalarını, bilmedikleri bir konuda haksız yere suçlamamak da bu adalet ilkesinden çıkan bir derstir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sorumluluğunu üstlen",
+   "aciklama": "Bugün bir hatanı başkasına yıkmadan kabul et."
+  },
+  {
+   "baslik": "Haksız suçlamadan kaçın",
+   "aciklama": "Bugün birini, bilmediği bir konuda suçlamadan önce durumu anlamaya çalış."
+  },
+  {
+   "baslik": "Uyarmadan yargılama",
+   "aciklama": "Bugün birine bir konuda önce nazikçe bilgi ver, sonra beklenti oluştur."
+  }
+ ],
+ "bugununAdimi": "Bugün bir hatanı, başkasına yıkmadan kendi sorumluluğunda kabul et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=15"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/17/15"
+  }
+ ]
+}

@@ -1,0 +1,215 @@
+{
+ "sure": 17,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "İyilik ederseniz kendinize iyilik etmiş olursunuz; kötülük ederseniz de yine kendinize etmiş olursunuz. İkincinin vaadi geldiğinde, yüzlerinizi kötü duruma düşürsünler, daha önce girdikleri gibi mescide girsinler ve ele geçirdikleri her şeyi tamamen yerle bir etsinler diye [gönderdik].",
+ "mealNotu": "'Ahsentüm' ve 'ese'tüm' kökleri iyilik ve kötülük etmeyi anlatır; ayet amel-karşılık ilkesini net şekilde bildirir. 'Liyütebbirû' kökü yerle bir etme, tamamen mahvetme anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَحْسَنتُمْ",
+   "okunus": "ahsentüm",
+   "kok": "حسن",
+   "kokAnlam": "iyilik etme, güzel yapma",
+   "karsilik": "iyilik ederseniz"
+  },
+  {
+   "kelime": "أَحْسَنتُمْ",
+   "okunus": "ahsentüm",
+   "kok": "حسن",
+   "kokAnlam": "iyilik etme, güzel yapma",
+   "karsilik": "iyilik etmiş olursunuz"
+  },
+  {
+   "kelime": "لِأَنفُسِكُمْ",
+   "okunus": "lienfüsiküm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi",
+   "karsilik": "kendinize"
+  },
+  {
+   "kelime": "وَإِنْ",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَسَأْتُمْ",
+   "okunus": "ese'tüm",
+   "kok": "سوأ",
+   "kokAnlam": "kötülük etme",
+   "karsilik": "kötülük ederseniz"
+  },
+  {
+   "kelime": "فَلَهَا",
+   "okunus": "felehâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) yine kendisine",
+   "karsilik": "yine kendinize"
+  },
+  {
+   "kelime": "فَإِذَا",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) geldiğinde",
+   "karsilik": "geldiğinde"
+  },
+  {
+   "kelime": "جَآءَ",
+   "okunus": "câe",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "geldi"
+  },
+  {
+   "kelime": "وَعْدُ",
+   "okunus": "va'dü",
+   "kok": "وعد",
+   "kokAnlam": "söz verme, vaat",
+   "karsilik": "vaadi"
+  },
+  {
+   "kelime": "ٱلْءَاخِرَةِ",
+   "okunus": "el'âhırati",
+   "kok": "أخر",
+   "kokAnlam": "sonraki, ikinci",
+   "karsilik": "ikincinin"
+  },
+  {
+   "kelime": "لِيَسُۥٓـُٔوا۟",
+   "okunus": "liyesûû",
+   "kok": "سوأ",
+   "kokAnlam": "kötüleştirme",
+   "karsilik": "kötü duruma düşürsünler diye"
+  },
+  {
+   "kelime": "وُجُوهَكُمْ",
+   "okunus": "vücûheküm",
+   "kok": "وجه",
+   "kokAnlam": "yüz",
+   "karsilik": "yüzlerinizi"
+  },
+  {
+   "kelime": "وَلِيَدْخُلُوا۟",
+   "okunus": "ve liyedhulû",
+   "kok": "دخل",
+   "kokAnlam": "girme",
+   "karsilik": "girsinler diye"
+  },
+  {
+   "kelime": "ٱلْمَسْجِدَ",
+   "okunus": "elmescide",
+   "kok": "سجد",
+   "kokAnlam": "secde edilen yer",
+   "karsilik": "mescide"
+  },
+  {
+   "kelime": "كَمَا",
+   "okunus": "kemâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) gibi",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "دَخَلُوهُ",
+   "okunus": "dehalûhü",
+   "kok": "دخل",
+   "kokAnlam": "girme",
+   "karsilik": "ona girdikleri"
+  },
+  {
+   "kelime": "أَوَّلَ",
+   "okunus": "evvele",
+   "kok": "أول",
+   "kokAnlam": "ilk",
+   "karsilik": "ilk"
+  },
+  {
+   "kelime": "مَرَّةٍ",
+   "okunus": "merratin",
+   "kok": "مرر",
+   "kokAnlam": "kere, defa",
+   "karsilik": "kez"
+  },
+  {
+   "kelime": "وَلِيُتَبِّرُوا۟",
+   "okunus": "ve liyütebbirû",
+   "kok": "تبر",
+   "kokAnlam": "yerle bir etme, mahvetme",
+   "karsilik": "yerle bir etsinler diye"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "عَلَوْا۟",
+   "okunus": "alev",
+   "kok": "علو",
+   "kokAnlam": "üstün gelme, ele geçirme",
+   "karsilik": "ele geçirdikleri"
+  },
+  {
+   "kelime": "تَتْبِيرًا",
+   "okunus": "tetbîran",
+   "kok": "تبر",
+   "kokAnlam": "yerle bir etme",
+   "karsilik": "tamamen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet önce genel bir ilke koyar: iyilik de kötülük de sonuçta kişinin kendisine döner. Ardından 4. ayette bildirilen ikinci bozgunculuğun cezasına geçer: gönderilenler mescide, daha önce girdikleri gibi tekrar girerler ve ele geçirdikleri her şeyi yerle bir ederler. Ayet, olayların öznesini isimlendirmeden anlatır; klasik tefsir bu ikinci olayı genellikle önceki büyük yıkımla ilişkilendirir, ancak ayrıntı ayette verilmez.",
+  "Ayetin ilk cümlesi ('iyilik kendinize, kötülük kendinize') aslında tüm anlatının çerçevesini çizer: bozgunculuk sonucunda gelen yıkım, dışarıdan dayatılan keyfi bir ceza değil, yapılan işin doğal karşılığıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "41:46",
+   "meal": "Kim salih amel işlerse kendi lehinedir; kim kötülük ederse kendi aleyhinedir. Rabbin kullara asla zulmedici değildir.",
+   "baglanti": "İyilik ve kötülüğün karşılığının kişinin kendisine ait olduğu ilkesini aynı şekilde ifade eder; İsrâ 7'nin ilk cümlesiyle doğrudan örtüşür."
+  },
+  {
+   "ref": "17:15",
+   "meal": "Kim doğru yola girerse, sadece kendi lehine girmiş olur; kim de saparsa, ancak kendi aleyhine sapmış olur. Hiçbir günahkâr başkasının günah yükünü taşımaz.",
+   "baglanti": "Aynı surede yer alan bu ayet, 7. ayetteki 'iyilik-kötülük kendine' ilkesini hidayet ve sapkınlık bağlamında tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin ikinci kısmı, tarihî bir cezalandırma olayına özgüdür ve genel bir kurala dönüştürülmemelidir. İlk cümlesi ise evrensel bir ilkedir.",
+  "Günlük hayatta, yaptığımız her iyiliğin ve kötülüğün önce kendi hayatımızı etkilediğini bilmek, davranışlarımızı sorumluluk bilinciyle seçmemizi sağlar. Bu ilke, başkasını suçlamadan önce kendi payımıza düşeni görmemize yardımcı olur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendi payını gör",
+   "aciklama": "Bugün bir sorunda başkasını suçlamadan önce kendi katkını düşün."
+  },
+  {
+   "baslik": "Bir iyiliği kendine yatırım bil",
+   "aciklama": "Bugün yaptığın bir iyiliğin aslında önce sana fayda getirdiğini hatırla."
+  },
+  {
+   "baslik": "Küçük bir kötülükten vazgeç",
+   "aciklama": "Bugün alışkanlık haline gelmiş küçük bir kötü davranıştan bilinçli olarak kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün yaptığın her işte, sonucun önce kendine döneceğini hatırlayarak seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=17&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/17/7"
+  }
+ ]
+}
