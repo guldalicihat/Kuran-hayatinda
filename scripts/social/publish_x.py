@@ -9,10 +9,13 @@ Sıradaki onaylı sosyal medya postunu X'e (Twitter) paylaşır:
 Gerekli ortam değişkenleri (GitHub Secrets üzerinden gelir):
   X_API_KEY, X_API_SECRET, X_ACCESS_TOKEN, X_ACCESS_TOKEN_SECRET
 
+Kart formatı varsayılan olarak dikey (story, 1080x1920) — kullanıcı onayıyla standart
+yapıldı. Eski kare formata dönmek gerekirse --square kullanılır.
+
 Kullanım:
-  python3 scripts/social/publish_x.py            # gerçekten paylaşır
+  python3 scripts/social/publish_x.py            # gerçekten paylaşır (dikey kart)
   python3 scripts/social/publish_x.py --dry-run   # paylaşmadan sadece üretir/gösterir
-  python3 scripts/social/publish_x.py --story     # kare yerine dikey (story) kart kullanır
+  python3 scripts/social/publish_x.py --square    # dikey yerine eski kare kart kullanır
 """
 import datetime
 import json
@@ -41,7 +44,7 @@ def log_posted(sure, ayet, platform, extra=None):
 
 def main():
     dry_run = '--dry-run' in sys.argv
-    story = '--story' in sys.argv
+    story = '--square' not in sys.argv
 
     post = pick_next('x')
     if post is None:

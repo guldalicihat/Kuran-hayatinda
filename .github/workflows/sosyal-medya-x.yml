@@ -14,8 +14,8 @@ on:
         description: 'Gerçekten paylaşmadan sadece dene (dry-run)'
         type: boolean
         default: false
-      story:
-        description: 'Kare yerine dikey (story) kart kullan (deneme amaçlı)'
+      square:
+        description: 'Dikey (story) yerine eski kare kart kullan'
         type: boolean
         default: false
 permissions:
@@ -43,7 +43,7 @@ jobs:
         run: |
           ARGS=""
           if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
-          if [ "${{ inputs.story }}" = "true" ]; then ARGS="$ARGS --story"; fi
+          if [ "${{ inputs.square }}" = "true" ]; then ARGS="$ARGS --square"; fi
           python3 scripts/social/publish_x.py $ARGS
       - name: Paylaşım kaydını commit'le
         run: |
