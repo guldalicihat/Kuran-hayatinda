@@ -12,6 +12,7 @@ Gerekli ortam değişkenleri (GitHub Secrets üzerinden gelir):
 Kullanım:
   python3 scripts/social/publish_x.py            # gerçekten paylaşır
   python3 scripts/social/publish_x.py --dry-run   # paylaşmadan sadece üretir/gösterir
+  python3 scripts/social/publish_x.py --story     # kare yerine dikey (story) kart kullanır
 """
 import datetime
 import json
@@ -40,6 +41,7 @@ def log_posted(sure, ayet, platform, extra=None):
 
 def main():
     dry_run = '--dry-run' in sys.argv
+    story = '--story' in sys.argv
 
     post = pick_next('x')
     if post is None:
@@ -53,7 +55,7 @@ def main():
         return 1
 
     img_path = f"/tmp/x_card_{post['sure']}_{post['ayet']}.png"
-    render_card(post['soru'], img_path)
+    render_card(post['soru'], img_path, story=story)
     print(f"Kart üretildi: {img_path}")
     print(f"Caption ({len(caption)} krk ham):\n{caption}\n")
 

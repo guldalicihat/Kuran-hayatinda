@@ -14,6 +14,10 @@ on:
         description: 'Gerçekten paylaşmadan sadece dene (dry-run)'
         type: boolean
         default: false
+      story:
+        description: 'Kare yerine dikey (story) kart kullan (deneme amaçlı)'
+        type: boolean
+        default: false
 permissions:
   contents: write
 concurrency:
@@ -37,11 +41,10 @@ jobs:
           X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
           X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
         run: |
-          if [ "${{ inputs.dry_run }}" = "true" ]; then
-            python3 scripts/social/publish_x.py --dry-run
-          else
-            python3 scripts/social/publish_x.py
-          fi
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          if [ "${{ inputs.story }}" = "true" ]; then ARGS="$ARGS --story"; fi
+          python3 scripts/social/publish_x.py $ARGS
       - name: Paylaşım kaydını commit'le
         run: |
           git config user.name "kuran-hayatinda-bot"
