@@ -82,16 +82,12 @@ export default function SearchPage() {
   return (
     <div className="safe-bottom">
       <Header title="Ara" />
-      {empty ? (
-        <div className="flex flex-col items-center px-6" style={{ paddingTop: '14vh' }}>
-          <img src={`${import.meta.env.BASE_URL}icon.svg`} width={56} height={56} className="rounded-2xl mb-3" alt="" />
-          <h1 className="text-[20px] font-semibold mb-5">Kur'an Hayatında</h1>
-          <div className="w-full max-w-[420px]">{box}</div>
-          <p className="text-xs muted mt-4 text-center max-w-[320px]">Okunuş, meal ve açıklamalarda (günlük hayat, bugün yapabilirsin vb.) arar.<br />Sure:ayet biçiminde (örn. 8:65) doğrudan gider.</p>
-        </div>
-      ) : (
-        <div className="px-4 py-2">{box}</div>
-      )}
+      <div className={empty ? 'flex flex-col items-center px-6' : 'px-4 py-2'} style={empty ? { paddingTop: '14vh' } : undefined}>
+        {empty && <img src={`${import.meta.env.BASE_URL}icon.svg`} width={56} height={56} className="rounded-2xl mb-3" alt="" />}
+        {empty && <h1 className="text-[20px] font-semibold mb-5">Kur'an Hayatında</h1>}
+        <div className={empty ? 'w-full max-w-[420px]' : undefined}>{box}</div>
+        {empty && <p className="text-xs muted mt-4 text-center max-w-[320px]">Okunuş, meal ve açıklamalarda (günlük hayat, bugün yapabilirsin vb.) arar.<br />Sure:ayet biçiminde (örn. 8:65) doğrudan gider.</p>}
+      </div>
       <ul className="card">
         {results.map(r => (
           <li key={`${r.sure}:${r.ayet}`} className="border-b hairline">
