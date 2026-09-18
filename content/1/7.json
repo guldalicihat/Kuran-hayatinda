@@ -1,6 +1,7 @@
 {
  "sure": 1,
  "ayet": 7,
+ "durum": "taslak",
  "meal": "Kendilerine nimet verdiklerinin yoluna; gazaba uğramışların ve sapmışların [yoluna] değil.",
  "mealNotu": "'Gayr' kelimesi 'başka, dışında' anlamındadır ve 'değil' ile karşılanmıştır. 'Mağdûb' edilgen kalıptır: 'gazaba uğramış'. '[yoluna]' eklemesi Türkçe akış içindir; Arapçada 'sırât' kelimesi tekrar edilmez.",
  "kokler": [
@@ -12,7 +13,7 @@
    "karsilik": "yoluna"
   },
   {
-   "kelime": "ٱلَّذِينَ",
+   "kelime": "ٱلَّذِينَ",
    "okunus": "ellezîne",
    "kok": "—",
    "kokAnlam": "(ilgi zamiri) o kimseler ki",
@@ -61,7 +62,7 @@
    "karsilik": "ve ne de"
   },
   {
-   "kelime": "ٱلضَّآلِّينَ",
+   "kelime": "ٱلضَّآلِّينَ",
    "okunus": "eddâllîne",
    "kok": "ضلل",
    "kokAnlam": "yolu kaybetme, sapma, şaşırma",
@@ -82,6 +83,11 @@
    "ref": "2:16",
    "meal": "İşte onlar, hidayet karşılığında sapıklığı satın alanlardır; ticaretleri kâr etmemiş ve doğru yolu bulamamışlardır.",
    "baglanti": "'Sapma' (d-l-l) kökü burada bilinçli bir tercih olarak anlatılır: hidayeti verip sapıklığı almak."
+  },
+  {
+   "ref": "5:77",
+   "meal": "Daha önce sapmış, birçoğunu da saptırmış, dosdoğru yoldan uzaklaşmış bir topluluğun heveslerine uymayın.",
+   "baglanti": "'Sapanlar' (dâllîn) ile aynı kökü paylaşan bu ayet, yoldan sapmış bir topluluğa uyulmamasını öğütler."
   }
  ],
  "gunlukHayat": [
@@ -103,7 +109,6 @@
   }
  ],
  "bugununAdimi": "Bugün, yolunu örnek aldığın bir iyi insanın bir davranışını birebir uygula.",
- "durum": "taslak",
  "kaynaklar": [
   {
    "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",

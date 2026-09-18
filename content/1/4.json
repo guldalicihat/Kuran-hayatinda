@@ -1,6 +1,7 @@
 {
  "sure": 1,
  "ayet": 4,
+ "durum": "taslak",
  "meal": "Din (karşılık ve hesap) gününün sahibidir.",
  "mealNotu": "'Dîn' kökü borç, karşılık, hesap ve itaat düzeni anlamlarını taşır; bu yüzden 'din günü' hem 'hesap günü' hem 'karşılık günü'dür. Parantez içindeki açıklama kökten gelir, ekleme değildir.",
  "kokler": [
@@ -19,7 +20,7 @@
    "karsilik": "gününün"
   },
   {
-   "kelime": "ٱلدِّينِ",
+   "kelime": "ٱلدِّينِ",
    "okunus": "eddîni",
    "kok": "دين",
    "kokAnlam": "borç, karşılık, hesap; boyun eğilen düzen",
@@ -40,6 +41,11 @@
    "ref": "3:26",
    "meal": "De ki: Ey mülkün sahibi Allah'ım! Mülkü dilediğine verirsin, dilediğinden çekip alırsın.",
    "baglanti": "Mülkün gerçek sahibi Allah'tır; dünyadaki sahiplikler geçici ve emanettir."
+  },
+  {
+   "ref": "40:16",
+   "meal": "Bugün mülk kimindir? Bir olan, mutlak galip olan Allah'ındır.",
+   "baglanti": "Kıyamet günü mülkün yalnız Allah'a ait olacağını anlatan bu ayet, 'din gününün sahibi' ifadesinin somut karşılığıdır."
   }
  ],
  "gunlukHayat": [
@@ -61,7 +67,6 @@
   }
  ],
  "bugununAdimi": "Bugün kimsenin görmediği bir yerde, yalnız Allah'ın bildiğini düşünerek doğru olanı yap.",
- "durum": "taslak",
  "kaynaklar": [
   {
    "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",

@@ -1,6 +1,7 @@
 {
  "sure": 1,
  "ayet": 1,
+ "durum": "taslak",
  "meal": "Rahmân ve Rahîm olan Allah'ın adıyla.",
  "mealNotu": "Kök temelli meal. 'Rahmân' ve 'Rahîm' aynı kökten (r-h-m) gelir; ilki merhametin genişliğini, ikincisi sürekliliğini anlatır. Köşeli parantez içinde kelime yoktur; meal doğrudan kelimelere dayanır.",
  "kokler": [
@@ -12,21 +13,21 @@
    "karsilik": "adıyla"
   },
   {
-   "kelime": "ٱللَّهِ",
+   "kelime": "ٱللَّهِ",
    "okunus": "allâhi",
    "kok": "أله",
    "kokAnlam": "tapınılan, kendisine yönelinen; ilah",
    "karsilik": "Allah'ın"
   },
   {
-   "kelime": "ٱلرَّحْمَٰنِ",
+   "kelime": "ٱلرَّحْمَٰنِ",
    "okunus": "errahmâni",
    "kok": "رحم",
    "kokAnlam": "rahim, şefkat, koruyup gözeten merhamet",
    "karsilik": "Rahmân (merhameti her şeyi kuşatan)"
   },
   {
-   "kelime": "ٱلرَّحِيمِ",
+   "kelime": "ٱلرَّحِيمِ",
    "okunus": "errahîmi",
    "kok": "رحم",
    "kokAnlam": "rahim, şefkat, koruyup gözeten merhamet",
@@ -47,6 +48,11 @@
    "ref": "17:110",
    "meal": "De ki: İster Allah diye çağırın, ister Rahmân diye çağırın; hangisiyle çağırırsanız [çağırın], en güzel isimler O'nundur.",
    "baglanti": "Rahmân, Allah'ın özel adlarından biridir; besmeledeki iki merhamet vasfı bu ayetle birlikte okunmalıdır."
+  },
+  {
+   "ref": "11:41",
+   "meal": "Nûh, gemiye binenlere dedi ki: 'Onun yüzüp gitmesi de, demir atması da Allah'ın adıyladır.'",
+   "baglanti": "Nûh'un gemiye binerken söylediği bu söz, besmelenin Kur'an'da bir işe başlarken tekrar geçtiği bir başka yerdir."
   }
  ],
  "gunlukHayat": [
@@ -68,7 +74,6 @@
   }
  ],
  "bugununAdimi": "Bugün başlayacağın önemli bir işi seç; başlamadan önce niyetini bir cümleyle yaz ve öyle başla.",
- "durum": "taslak",
  "kaynaklar": [
   {
    "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",

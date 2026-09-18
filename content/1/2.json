@@ -1,6 +1,7 @@
 {
  "sure": 1,
  "ayet": 2,
+ "durum": "taslak",
  "meal": "Hamd, âlemlerin Rabbi Allah'a mahsustur.",
  "mealNotu": "'Hamd' kökü, şükürle karışık övgüyü anlatır; yalnız 'övgü' ya da yalnız 'şükür' değildir. 'Rab' kökü sahiplik ve yetiştirmeyi birlikte taşır. 'Mahsustur' ifadesi, Arapçadaki 'li' (için/ait) edatının karşılığıdır.",
  "kokler": [
@@ -12,14 +13,14 @@
    "karsilik": "hamd"
   },
   {
-   "kelime": "لِلَّهِ",
+   "kelime": "لِلَّهِ",
    "okunus": "lillâhi",
    "kok": "أله",
    "kokAnlam": "tapınılan, ilah",
    "karsilik": "Allah'a aittir"
   },
   {
-   "kelime": "رَبِّ",
+   "kelime": "رَبِّ",
    "okunus": "rabbi",
    "kok": "ربب",
    "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
@@ -47,6 +48,11 @@
    "ref": "10:10",
    "meal": "Orada duaları 'Sübhânsın Allah'ım'dır; birbirlerine esenlik dilekleri 'selâm'dır ve son çağrıları 'Hamd, âlemlerin Rabbi Allah'a mahsustur' [demek] olur.",
    "baglanti": "Fâtiha'nın bu cümlesi, cennet ehlinin son sözü olarak da geçer. Hamd, hem başlangıç hem varış sözüdür."
+  },
+  {
+   "ref": "6:1",
+   "meal": "Hamd, gökleri ve yeri yaratan, karanlıkları ve aydınlığı var eden Allah'a mahsustur.",
+   "baglanti": "En'âm suresi de tıpkı Fâtiha gibi 'elhamdülillah' ile açılır; burada hamd, yaratma fiiliyle gerekçelendirilir."
   }
  ],
  "gunlukHayat": [
@@ -68,7 +74,6 @@
   }
  ],
  "bugununAdimi": "Bugün akşam yatmadan önce günün en küçük nimetini bul ve onun için 'Elhamdülillâh' de.",
- "durum": "taslak",
  "kaynaklar": [
   {
    "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",

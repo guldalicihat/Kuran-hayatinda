@@ -1,11 +1,12 @@
 {
  "sure": 1,
  "ayet": 5,
+ "durum": "taslak",
  "meal": "Yalnız sana kulluk ederiz ve yalnız senden yardım dileriz.",
  "mealNotu": "Arapçada 'iyyâke' zamirinin fiilden önce gelmesi 'yalnız sana' vurgusunu verir; 'yalnız' kelimesi bu dil kuralının karşılığıdır, ekleme değildir. 'Nesteîn' fiili (istiâne) yardım isteme anlamındadır.",
  "kokler": [
   {
-   "kelime": "إِيَّاكَ",
+   "kelime": "إِيَّاكَ",
    "okunus": "iyyâke",
    "kok": "—",
    "kokAnlam": "(zamir) yalnız sana",
@@ -19,7 +20,7 @@
    "karsilik": "kulluk ederiz"
   },
   {
-   "kelime": "وَإِيَّاكَ",
+   "kelime": "وَإِيَّاكَ",
    "okunus": "ve iyyâke",
    "kok": "—",
    "kokAnlam": "(zamir) ve yalnız senden",
@@ -47,6 +48,11 @@
    "ref": "2:45",
    "meal": "Sabır ve namazla yardım isteyin. Şüphesiz bu, saygıyla boyun eğenlerden başkasına ağır gelir.",
    "baglanti": "'Yardım isteme' aynı kökle (a-v-n) burada yöntemiyle anlatılır: sabır ve namaz, Allah'tan yardım istemenin araçlarıdır."
+  },
+  {
+   "ref": "39:11",
+   "meal": "De ki: Ben, dini yalnızca Allah'a halis kılarak O'na kulluk etmekle emrolundum.",
+   "baglanti": "Bu ayet ibadeti yalnız Allah'a has kılma emrini açıkça verir; 'yalnız sana kulluk ederiz' ifadesinin gerekçesidir."
   }
  ],
  "gunlukHayat": [
@@ -68,7 +74,6 @@
   }
  ],
  "bugununAdimi": "Bugün bir işi bitirdikten sonra 'Yalnız senden yardım dilerim' cümlesini kurarak dua et.",
- "durum": "taslak",
  "kaynaklar": [
   {
    "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",

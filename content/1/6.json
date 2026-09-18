@@ -1,6 +1,7 @@
 {
  "sure": 1,
  "ayet": 6,
+ "durum": "taslak",
  "meal": "Bizi dosdoğru yola ilet.",
  "mealNotu": "'Sırât' kökü geniş ve açık yolu, 'müstakîm' kökü ayakta duran ve eğrilmeyen şeyi anlatır; 'dosdoğru yol' bu iki kökün birleşimidir. 'İhdinâ' fiili hidayet kökünden gelir ve hem 'yolu göster' hem 'yola ulaştır' anlamı taşır.",
  "kokler": [
@@ -12,7 +13,7 @@
    "karsilik": "bizi ilet"
   },
   {
-   "kelime": "ٱلصِّرَٰطَ",
+   "kelime": "ٱلصِّرَٰطَ",
    "okunus": "essırâta",
    "kok": "صرط",
    "kokAnlam": "geniş, açık ve düz yol",
@@ -40,6 +41,11 @@
    "ref": "42:52",
    "meal": "Şüphesiz sen, dosdoğru bir yola iletiyorsun.",
    "baglanti": "Fâtiha'da istenen hidayet, Peygamber'in tebliğiyle somutlaşır: yol, vahiyle gösterilmiştir."
+  },
+  {
+   "ref": "6:161",
+   "meal": "De ki: Rabbim beni dosdoğru bir yola, İbrahim'in hanif dinine iletti.",
+   "baglanti": "Peygamberin kendisi için tarif ettiği bu 'dosdoğru yol', Fâtiha'daki dua ile aynı sıratı işaret eder."
   }
  ],
  "gunlukHayat": [
@@ -61,7 +67,6 @@
   }
  ],
  "bugununAdimi": "Bugün gün içinde bir kez durup 'Şu an gittiğim yön doğru mu?' diye kendine sor ve gerekiyorsa düzelt.",
- "durum": "taslak",
  "kaynaklar": [
   {
    "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",

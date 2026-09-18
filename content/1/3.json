@@ -1,18 +1,19 @@
 {
  "sure": 1,
  "ayet": 3,
+ "durum": "taslak",
  "meal": "[O] Rahmân'dır, Rahîm'dir.",
  "mealNotu": "Ayet, ikinci ayetteki 'Allah' kelimesinin iki sıfatını tekrar eder. '[O]' eklemesi Türkçe cümle kurmak için konmuştur; Arapçada sıfatlar doğrudan Allah lafzına bağlanır.",
  "kokler": [
   {
-   "kelime": "ٱلرَّحْمَٰنِ",
+   "kelime": "ٱلرَّحْمَٰنِ",
    "okunus": "errahmâni",
    "kok": "رحم",
    "kokAnlam": "rahim, şefkat, koruyup gözeten merhamet",
    "karsilik": "Rahmân (merhameti her şeyi kuşatan)"
   },
   {
-   "kelime": "ٱلرَّحِيمِ",
+   "kelime": "ٱلرَّحِيمِ",
    "okunus": "errahîmi",
    "kok": "رحم",
    "kokAnlam": "rahim, şefkat, koruyup gözeten merhamet",
@@ -33,6 +34,11 @@
    "ref": "6:54",
    "meal": "Rabbiniz rahmeti kendi üzerine yazmıştır.",
    "baglanti": "Merhamet, Allah'ın kendine ilke edindiği bir vasıftır; Fâtiha'daki tekrar bu ilkeyi hatırlatır."
+  },
+  {
+   "ref": "55:1",
+   "meal": "Rahmân.",
+   "baglanti": "Rahmân suresi bu adla açılır; devamında Allah'ın öğretme, yaratma ve rızıklandırma gibi rahmet tecellileri sayılır."
   }
  ],
  "gunlukHayat": [
@@ -54,7 +60,6 @@
   }
  ],
  "bugununAdimi": "Bugün bir kişiye, karşılık beklemeden ve sebep aramadan küçük bir iyilik yap.",
- "durum": "taslak",
  "kaynaklar": [
   {
    "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
