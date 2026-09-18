@@ -1,0 +1,103 @@
+{
+ "sure": 23,
+ "ayet": 30,
+ "durum": "taslak",
+ "meal": "Şüphesiz bunda ayetler (ibretler) vardır; biz gerçekten deneyenleriz.",
+ "mealNotu": "'Âyet' kökü (أيي) işaret/delil anlamı taşır. 'İbtilâ' kökü (بلو) denemeyi, sınamayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid: şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "işaret: bu, şu",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "لَءَايَٰتٍ",
+   "okunus": "leâyâtin",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil, alamet",
+   "karsilik": "ayetler"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "te'kid: gerçekten",
+   "karsilik": "ve gerçekten"
+  },
+  {
+   "kelime": "كُنَّا",
+   "okunus": "künnâ",
+   "kok": "كون",
+   "kokAnlam": "olma, bulunma",
+   "karsilik": "-dık"
+  },
+  {
+   "kelime": "لَمُبْتَلِينَ",
+   "okunus": "lemübtelîne",
+   "kok": "بلو",
+   "kokAnlam": "deneme, sınama, imtihan etme",
+   "karsilik": "deneyenleriz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Nûh kıssasının bu bölümü, genel bir sonuçla kapanır: bu olayda ibret alınacak işaretler vardır. 'Âyet' kökü hem Kur'an'ın bir cümlesini hem de bir delil/işareti anlatır; kıssa burada bir 'ayet' olarak nitelenir.",
+  "'İbtilâ' kökü sınama/deneme anlamı taşır; ayet, tufanın hem Nûh'un kavmi için hem de -daha genel olarak- insanlık için bir imtihan olduğunu vurgular. Kıssa, sadece geçmişte kalan bir olay değil, her okuyan için düşündürücü bir örnektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:15",
+   "meal": "Onu ve gemidekileri kurtardık ve bunu âlemlere bir ibret kıldık.",
+   "baglanti": "Aynı Nûh kıssası burada 'ibret/ayet' olarak nitelenir; Mü'minûn'daki sonuç cümlesiyle aynı vurguyu taşır."
+  },
+  {
+   "ref": "21:35",
+   "meal": "Her canlı ölümü tadacaktır; sizi hayır ve şerle sınayarak deneriz.",
+   "baglanti": "Aynı 'sınama' teması burada genel bir ilke olarak konur; Nûh kıssası da bu sınamanın tarihteki bir örneğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Nûh kıssasının genel bir ders/ibret olarak sunulmasıdır; bu, sadece geçmişe dair bir bilgi değil, bugüne de bakan bir uyarıdır.",
+  "Günlük derste bu, başımıza gelen zorlukların da birer sınama olabileceğini, bunlardan ders çıkarmanın mümkün olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kıssadan ders çıkar",
+   "aciklama": "Bugün Nûh kıssasından kendine bir ders seç ve not al."
+  },
+  {
+   "baslik": "Sınamayı kabullen",
+   "aciklama": "Bugün karşılaştığın bir zorluğu, sabırla karşılanacak bir sınama olarak gör."
+  },
+  {
+   "baslik": "İbret gözüyle oku",
+   "aciklama": "Bugün bir haberde veya olayda, sana ne öğrettiğini düşünerek bak."
+  }
+ ],
+ "bugununAdimi": "Bugün bu kıssayı bir kez baştan sona (23:23-30) okuyup kendi hayatınla bağlantı kur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=30"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/30"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "sure": 23,
+ "ayet": 15,
+ "durum": "taslak",
+ "meal": "Sonra siz, bunun ardından mutlaka öleceksiniz.",
+ "mealNotu": "'Ba'd' kökü (بعد) sonralığı; 'meyyit' kökü (موت) ölümü anlatır. Ayet, yaratılış sürecinin kesin bir sonla biteceğini vurgular.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "bağlaç: sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "إِنَّكُم",
+   "okunus": "inneküm",
+   "kok": "—",
+   "kokAnlam": "te'kid: şüphesiz siz",
+   "karsilik": "şüphesiz siz"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonra, ardından",
+   "karsilik": "bunun ardından"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri: bu, şu",
+   "karsilik": "bunun"
+  },
+  {
+   "kelime": "لَمَيِّتُونَ",
+   "okunus": "lemeyyitûne",
+   "kok": "موت",
+   "kokAnlam": "ölüm, ölme",
+   "karsilik": "mutlaka öleceksiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "12-14. ayetlerde anlatılan uzun yaratılış süreci, burada kısa ve kesin bir cümleyle noktalanır: bu hayat ölümle sona erecektir. 'Meyyit' kökü ölümü doğrudan bildirir.",
+  "Ayetin kısalığı, yaratılışın ayrıntılı anlatımıyla tam bir tezat oluşturur; hayat uzun aşamalarla kurulur, ama ölüm tek bir kelimeyle gelir. Bu, dünyanın geçiciliğine dair sade ve doğrudan bir hatırlatmadır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:185",
+   "meal": "Her canlı ölümü tadacaktır.",
+   "baglanti": "Aynı 'mevt' kökü burada da geçer; ölümün kaçınılmazlığı Kur'an'da tekrarlanan bir gerçektir."
+  },
+  {
+   "ref": "39:30",
+   "meal": "Şüphesiz sen de öleceksin, onlar da ölecekler.",
+   "baglanti": "Aynı 'meyyit' kökü burada peygambere de hitaben kullanılır; ölüm istisnasız herkes içindir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan ölümün kesinliğidir; bu, korkutmak için değil, gerçekçi bir hatırlatma olarak söylenir.",
+  "Günlük derste bu, hayatı ölümü unutarak değil, onu hesaba katarak yaşamayı öğretir; zaman ve imkân sınırlıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ölümü hatırla, ertelemeyi bırak",
+   "aciklama": "Bugün erteleyip durduğun önemli bir işi (özür dileme, vasiyet, hak ödeme) bir adım ilerlet."
+  },
+  {
+   "baslik": "Zamanını değerlendir",
+   "aciklama": "Bugün bir saatini, kalıcı bir fayda sağlayacak şekilde geçir."
+  },
+  {
+   "baslik": "Hazırlığını gözden geçir",
+   "aciklama": "Bugün ahirete hazırlık olarak yaptığın bir şeyi (dua, sadaka, tövbe) tekrarla."
+  }
+ ],
+ "bugununAdimi": "Bugün, ölümü hatırlatan bu ayeti bir kez yüksek sesle oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=15"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/15"
+  }
+ ]
+}

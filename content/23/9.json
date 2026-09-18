@@ -1,0 +1,89 @@
+{
+ "sure": 23,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Onlar ki namazlarını korurlar (vaktinde devam ettirirler).",
+ "mealNotu": "İkinci ayette namaz 'huşû' ile anılmıştı; burada aynı namaz 'muhâfaza' (حفظ) kökü ile, sürekliliği ve vaktine riayetiyle anlatılır.",
+ "kokler": [
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "bağlaç + ilgi zamiri: ve onlar ki",
+   "karsilik": "ve onlar ki"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "zamir: onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "edat: üzerinde",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "صَلَوَٰتِهِمْ",
+   "okunus": "salevâtihim",
+   "kok": "صلو",
+   "kokAnlam": "bağlanma, dua etme, namaz kılma",
+   "karsilik": "namazlarını"
+  },
+  {
+   "kelime": "يُحَافِظُونَ",
+   "okunus": "yühâfizûne",
+   "kok": "حفظ",
+   "kokAnlam": "koruma, gözetme, devam ettirme, muhafaza etme",
+   "karsilik": "koruyanlardır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Liste açıldığı yere, namaza geri döner; ama bu kez vurgu içteki huşûdan değil, dıştaki sürekliliktendir. 'Muhâfaza' kökü, namazı vaktinde ve düzenli kılmayı, ihmal etmemeyi anlatır.",
+  "2. ayetteki huşû (içerik) ile bu ayetteki muhâfaza (süreklilik), namazın hem niteliğini hem niceliğini tamamlar. Liste böylece namazla başlar, namazla kapanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:238",
+   "meal": "Namazlara ve orta namaza dikkatle devam edin.",
+   "baglanti": "Aynı 'muhâfaza' kökü burada da namaz için kullanılır; namaza sürekli önem vermek tekrarlanan bir emirdir."
+  },
+  {
+   "ref": "70:34",
+   "meal": "Onlar ki namazlarını korurlar (devam ettirirler).",
+   "baglanti": "Bu ayet Meâric suresinde birebir tekrarlanır; namaza devam, kurtuluş listesinin hem başında hem sonunda vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu namazın sürekliliğidir; tek seferlik bir huşû değil, düzenli bir alışkanlık istenir.",
+  "Günlük derste bu, namazı güne göre değil güne rağmen kılmak demektir; yoğunluk ya da yorgunluk bahane olmaz."
+ ],
+ "bugun": [
+  {
+   "baslik": "Vakti sabitle",
+   "aciklama": "Bugün namaz vakitlerini hatırlatacak bir alarm ya da rutin oluştur."
+  },
+  {
+   "baslik": "Aksatmayı fark et",
+   "aciklama": "Bugün bir namazı erteleme isteği hissedersen, nedenini kendine sor."
+  },
+  {
+   "baslik": "Küçük bir süreklilik kur",
+   "aciklama": "Bugün bir namazı, başka bir işi bekletip önce kılarak önceliklendir."
+  }
+ ],
+ "bugununAdimi": "Bugün bütün namazlarını vaktinde, ertelemeden kıl.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/9"
+  }
+ ]
+}

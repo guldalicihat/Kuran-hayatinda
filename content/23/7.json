@@ -1,0 +1,103 @@
+{
+ "sure": 23,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Kim bunun ötesini ararsa, işte onlar haddi aşanlardır.",
+ "mealNotu": "'Beğâ' kökü (بغي) arayış/istek anlamı taşır; 'adv' kökü (عدو) burada sınırı aşma, haddi aşma anlamındadır (asıl anlamı düşmanlık/koşma).",
+ "kokler": [
+  {
+   "kelime": "فَمَنِ",
+   "okunus": "femeni",
+   "kok": "—",
+   "kokAnlam": "bağlaç + ilgi zamiri: kim ki",
+   "karsilik": "kim ki"
+  },
+  {
+   "kelime": "ٱبْتَغَىٰ",
+   "okunus": "ibteğâ",
+   "kok": "بغي",
+   "kokAnlam": "arama, isteme, talep etme",
+   "karsilik": "ararsa"
+  },
+  {
+   "kelime": "وَرَآءَ",
+   "okunus": "verâe",
+   "kok": "وري",
+   "kokAnlam": "arka, ötesi, gerisi",
+   "karsilik": "ötesini"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri: şu, bu",
+   "karsilik": "bunun"
+  },
+  {
+   "kelime": "فَأُو۟لَٰٓئِكَ",
+   "okunus": "feülâike",
+   "kok": "—",
+   "kokAnlam": "bağlaç + işaret zamiri: işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "zamir: onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "ٱلْعَادُونَ",
+   "okunus": "el'âdûne",
+   "kok": "عدو",
+   "kokAnlam": "sınırı aşma, haddi aşma, düşmanlık",
+   "karsilik": "haddi aşanlardır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 5-6. ayetlerdeki iffet sınırının dışına çıkanı tanımlar. 'Beğâ' kökü bir arayışı, bir talebi anlatır; burada meşru sınırın ötesini arama kastedilir.",
+  "'Adv' kökü aslında düşmanlık/sınırı aşma anlamı taşır; burada meşru sınırı aşanların o sınırla âdeta çatıştığı ima edilir. Ayet, önceki iki ayette çizilen çerçevenin gelişigüzel bir kısıtlama olmadığını, net bir sınır olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "70:31",
+   "meal": "Kim bunun ötesini ararsa, işte onlar haddi aşanlardır.",
+   "baglanti": "Bu ayet Meâric suresinde birebir tekrarlanır; iffet sınırının tanımı aynı ifadeyle pekiştirilir."
+  },
+  {
+   "ref": "2:229",
+   "meal": "Bunlar Allah'ın koyduğu sınırlardır; onları aşmayın.",
+   "baglanti": "Aynı 'adv' kökü burada 'sınırı aşmayın' emriyle geçer; haddi aşma kavramı Kur'an'da tutarlı bir uyarı olarak yer alır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan iffet sınırının ihlalidir; ama ilke olarak Allah'ın çizdiği her sınırın ötesine geçmenin genel bir tanımını da verir.",
+  "Günlük derste bu, meşru olanla olmayanı karıştırmadan net bir çizgi tutmak demektir; sınırı esnetmek, ayete göre haddi aşmaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sınırını yaz",
+   "aciklama": "Bugün bir konuda kendi meşru sınırını net bir cümleyle tanımla."
+  },
+  {
+   "baslik": "Gri alanı sorgula",
+   "aciklama": "Bugün 'acaba' dediğin bir davranışın sınırı aşıp aşmadığını düşün."
+  },
+  {
+   "baslik": "Şeytanın gerekçesine kanma",
+   "aciklama": "Bugün bir sınırı aşman için içinden geçen bahaneyi fark et ve ona uyma."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda, 'bu benim sınırımı aşıyor mu' diye kendine bir kez sor ve cevaba göre davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/7"
+  }
+ ]
+}

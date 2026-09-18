@@ -1,0 +1,75 @@
+{
+ "sure": 23,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Gerçekten mü'minler kurtuluşa ermiştir.",
+ "mealNotu": "'Kad' kökü kesinlik/vurgu bildirir, 'gerçekten' ile karşılanır. 'Eflaha' kökü aslında toprağı sürüp ürün almayı, oradan başarıya ulaşmayı anlatır; burada bu başarı 'kurtuluş' olarak karşılanır.",
+ "kokler": [
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "kesinlik, vurgu edatı (gerçekten, muhakkak)",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "أَفْلَحَ",
+   "okunus": "efleha",
+   "kok": "فلح",
+   "kokAnlam": "toprağı sürüp ürün alma; oradan başarıya, kurtuluşa ulaşma",
+   "karsilik": "kurtuluşa ermiştir"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنُونَ",
+   "okunus": "elmü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, güven içinde olma, iman etme",
+   "karsilik": "mü'minler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 23. sure olan Mü'minûn'un açılış cümlesidir; sure adını da bu ayetten alır. 'Eflaha' kökü kelime kökeninde toprağı sürüp ekip ürün almayı anlatır; oradan 'başarıya, kurtuluşa ulaşma' anlamına geçmiştir. Ayet, 'kad' edatıyla bu sonucu kesin bir hükümle bildirir.",
+  "Mü'min kelimesi 'emn' kökünden gelir; güven içinde olmayı ve iman etmeyi birlikte taşır. Ayet, kurtuluşu soyut bir vaat olarak bırakmaz; hemen ardından gelen on ayet bu kurtuluşun hangi somut nitelikleri gerektirdiğini sayar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "87:14",
+   "meal": "Kim arınırsa gerçekten kurtuluşa ermiştir.",
+   "baglanti": "'Eflaha' kökü burada da geçer; kurtuluş, arınma (tezkiye) ile bağlanır."
+  },
+  {
+   "ref": "91:9",
+   "meal": "Nefsini arındıran kesinlikle kurtuluşa ermiştir.",
+   "baglanti": "Aynı kökle nefsini arındıranın kurtuluşu vurgulanır; Mü'minûn'daki nitelik listesi bu arınmanın davranışa yansımasıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan kimin kurtuluşa erdiğidir: inanç sahiplerinin nihai başarısı. Bu iddia soyut kalmaz; sonraki ayetlerde sayılan somut davranışlarla ölçülür.",
+  "Günlük hayata taşınabilecek ders şudur: başarıyı yalnız dünyevi kazançla değil, bu ayetlerde sayılan nitelikleri taşıyıp taşımadığınla değerlendir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendi listeni çıkar",
+   "aciklama": "Bugün sonraki ayetlerde sayılan nitelikleri (huşu, iffet, emanet vb.) oku ve kendinde hangisinin eksik olduğunu not et."
+  },
+  {
+   "baslik": "Kurtuluşu yeniden tanımla",
+   "aciklama": "Bugün kendi başarı tanımını gözden geçir; kariyer/para mı, yoksa Kur'an'ın tarif ettiği kurtuluş mu ağır basıyor."
+  },
+  {
+   "baslik": "Gerçek kazancı hatırla",
+   "aciklama": "Bugün bir kararında, 'bu beni ahirette kurtuluşa mı yaklaştırır' diye kendine sor."
+  }
+ ],
+ "bugununAdimi": "Bugün sonraki ayetlerde sayılan niteliklerden birini seç ve bir kez bilinçli olarak uygula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/1"
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "sure": 23,
+ "ayet": 25,
+ "durum": "taslak",
+ "meal": "O, ancak kendisinde bir cinnet bulunan bir adamdır; bir süreye kadar onu bekleyin.",
+ "mealNotu": "'Cinnet' kökü (جنن) örtülmeyi, akıl örtülmesini/deliliği anlatır. 'Terabbüs' kökü (ربص) bekleme, gözetlemeyi ifade eder.",
+ "kokler": [
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk: değil",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "zamir: o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna: ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "رَجُلٌۢ",
+   "okunus": "racülüm",
+   "kok": "رجل",
+   "kokAnlam": "adam, erkek",
+   "karsilik": "bir adamdır"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "onda",
+   "karsilik": "kendisinde"
+  },
+  {
+   "kelime": "جِنَّةٌ",
+   "okunus": "cinnetün",
+   "kok": "جنن",
+   "kokAnlam": "örtülme; delilik, cin çarpması",
+   "karsilik": "bir cinnet"
+  },
+  {
+   "kelime": "فَتَرَبَّصُوا۟",
+   "okunus": "feterabbesû",
+   "kok": "ربص",
+   "kokAnlam": "bekleme, gözetleme",
+   "karsilik": "bekleyin"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "edat: -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "حِينٍ",
+   "okunus": "hînin",
+   "kok": "حين",
+   "kokAnlam": "belli bir süre, zaman",
+   "karsilik": "bir süre"
+  }
+ ],
+ "neAnlatiyor": [
+  "İtirazlar sürer; kavmin ileri gelenleri Nûh'u akıl hastası ilan eder. 'Cinnet' kökü, aklın örtülmesi/karışması anlamı taşır; bu, doğru sözü reddetmenin klasik bir yoludur -mesajı değil, mesajcıyı itibarsızlaştırmak.",
+  "'Terabbüs' kökü bekleme/gözetlemeyi anlatır; kavmi, Nûh'un 'cinnetinin' kendiliğinden geçeceğini umarak zaman kazanmayı önerir. Bu, ciddi bir cevap vermek yerine sorunu erteleme tavrıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:184",
+   "meal": "Arkadaşlarında bir delilik olmadığını hiç düşünmediler mi?",
+   "baglanti": "Aynı 'cinnet' kökü burada da geçer; peygamberi akıl hastalığıyla itham etmek, inkârcıların tekrarlanan bir taktiğidir."
+  },
+  {
+   "ref": "34:8",
+   "meal": "Allah'a yalan mı uydurdu, yoksa onda delilik mi var?",
+   "baglanti": "Aynı itham burada başka bir peygamber için tekrarlanır; Kur'an bu suçlamayı tutarlı bir inkâr kalıbı olarak gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, doğru bir sözü reddetmek için mesajcıyı itibarsızlaştırma taktiğidir; bu, tarihte tekrar eden bir insan davranışıdır.",
+  "Günlük derste bu, bir eleştiriyi ya da uyarıyı duyduğumuzda içeriğine mi yoksa söyleyen kişiye mi odaklandığımızı sorgulamayı öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Mesaja odaklan",
+   "aciklama": "Bugün seni eleştiren birinin sözünü, kişiliğine değil söylediğine bakarak değerlendir."
+  },
+  {
+   "baslik": "Erteleme taktiğine düşme",
+   "aciklama": "Bugün önemli bir kararı, 'zamanla geçer' diyerek ertelemek yerine ele al."
+  },
+  {
+   "baslik": "Sabırlı ol",
+   "aciklama": "Bugün haksız bir suçlamaya uğrarsan, hemen karşılık vermek yerine sakin kal."
+  }
+ ],
+ "bugununAdimi": "Bugün seni eleştiren bir sözü, kim söylediğine değil ne söylediğine bakarak bir kez değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=25"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/25"
+  }
+ ]
+}

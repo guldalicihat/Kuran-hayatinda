@@ -1,0 +1,89 @@
+{
+ "sure": 23,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Onlar ki boş şeyden yüz çevirenlerdir.",
+ "mealNotu": "'Lağv' kökü, faydasız ve anlamsız söz ya da işi anlatır; 'i'râz' kökü (عرض) yüz çevirmeyi, ilgilenmemeyi imler.",
+ "kokler": [
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "bağlaç + ilgi zamiri: ve onlar ki",
+   "karsilik": "ve onlar ki"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "zamir: onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "عَنِ",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "edat: -den, hakkında",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱللَّغْوِ",
+   "okunus": "ellağvi",
+   "kok": "لغو",
+   "kokAnlam": "boş söz, anlamsız, faydasız konuşma/iş",
+   "karsilik": "boş şeyden"
+  },
+  {
+   "kelime": "مُعْرِضُونَ",
+   "okunus": "mü'ridûne",
+   "kok": "عرض",
+   "kokAnlam": "yüz çevirme, ilgilenmeme, yönünü değiştirme",
+   "karsilik": "yüz çevirenlerdir"
+  }
+ ],
+ "neAnlatiyor": [
+  "İkinci nitelik, namazdaki huşûdan günlük hayata geçer: boş sözden ve boş işten uzak durmak. 'Lağv' kökü, hem anlamsız konuşmayı hem amaçsız, faydasız eylemi kapsar.",
+  "'İ'râz' kökü etken bir tavrı anlatır; sadece boş şeye katılmamak değil, ondan bilerek yüz çevirmektir. Bu, önceki ayetteki namaz huşûsunun günlük hayata yansımasıdır: dikkatin, değeri olmayan şeyden korunması."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:72",
+   "meal": "Onlar yalana şahitlik etmezler; boş bir şeyle karşılaştıklarında vakarla geçip giderler.",
+   "baglanti": "Aynı 'lağv' kökü burada da geçer; boştan uzak durmak Kur'an'da tutarlı bir mü'min niteliği olarak tekrarlanır."
+  },
+  {
+   "ref": "28:55",
+   "meal": "Boş sözü işittiklerinde ondan yüz çevirirler.",
+   "baglanti": "Hem 'lağv' hem 'i'râz' kökü burada birlikte geçer; Mü'minûn'daki ifadenin benzeri başka bir surede de tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, değersiz söz ve uğraşlardan bilinçli uzaklaşmadır; dedikodu, amaçsız tartışma, boş vakit geçirme bu kapsama girer.",
+  "Günlük derste bu, zamanı ve dikkati nereye harcadığını gözden geçirmek anlamına gelir; her ortamda kalmak zorunda değilsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir boş konuşmadan çık",
+   "aciklama": "Bugün amaçsız bir dedikodu ya da tartışmaya girdiğinde, nazikçe konuyu değiştir ya da ortamdan ayrıl."
+  },
+  {
+   "baslik": "Ekran zamanını süz",
+   "aciklama": "Bugün telefonunda amaçsız gezindiğin bir uygulamayı fark edip kapat."
+  },
+  {
+   "baslik": "Zamanın geçiciliğini hatırla",
+   "aciklama": "Bugün boşa harcadığın on dakikayı fark ettiğinde, bu dakikaların geri gelmeyeceğini hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kez, katılmak üzere olduğun boş bir konuşmadan bilerek uzaklaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/3"
+  }
+ ]
+}

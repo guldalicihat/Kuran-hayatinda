@@ -1,0 +1,89 @@
+{
+ "sure": 23,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "Onlar ki emanetlerine ve ahitlerine riayet edenlerdir.",
+ "mealNotu": "'Emanet' kökü (أمن) güven kökünden gelir; 'ahd' kökü (عهد) söz/antlaşmayı anlatır. 'Râ'i' kökü (رعي) gözetme, koruma, riayet etmeyi imler.",
+ "kokler": [
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "bağlaç + ilgi zamiri: ve onlar ki",
+   "karsilik": "ve onlar ki"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "zamir: onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "لِأَمَٰنَٰتِهِمْ",
+   "okunus": "liemânâtihim",
+   "kok": "أمن",
+   "kokAnlam": "güven, emanet, güvenilirlik",
+   "karsilik": "emanetlerine"
+  },
+  {
+   "kelime": "وَعَهْدِهِمْ",
+   "okunus": "ve ahdihim",
+   "kok": "عهد",
+   "kokAnlam": "söz, antlaşma, taahhüt",
+   "karsilik": "ve ahitlerine"
+  },
+  {
+   "kelime": "رَٰعُونَ",
+   "okunus": "râûne",
+   "kok": "رعي",
+   "kokAnlam": "gözetme, koruma, çobanlık etme, riayet etme",
+   "karsilik": "riayet edenlerdir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Beşinci nitelik, emanet ve ahde bağlılıktır. Emanet kökü güven kökünden gelir; başkasının sana güvenerek bıraktığı her şeyi (mal, sır, görev) kapsar. Ahd kökü ise verilen sözü, yapılan antlaşmayı anlatır.",
+  "'Râ'i' kökü, bir çobanın sürüsünü gözetmesi gibi sürekli bir dikkat ve sorumluluğu imler. Emanet ve ahid burada tek bir eylem değil, kalıcı bir tutum olarak tanımlanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:58",
+   "meal": "Allah size emanetleri ehline vermenizi emreder.",
+   "baglanti": "Aynı 'emanet' kökü burada bir emir olarak geçer; emanete riayet Kur'an'da tekrarlanan bir sorumluluktur."
+  },
+  {
+   "ref": "17:34",
+   "meal": "Ahdi yerine getirin; çünkü ahid sorumluluk gerektirir.",
+   "baglanti": "Aynı 'ahd' kökü burada da geçer; verilen sözün hesabının sorulacağı vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu güvenilirliktir: sana bırakılana ve verdiğin söze bağlı kalmak. Bu hem maddi emanetleri hem sırları hem de sözleşmeleri kapsar.",
+  "Günlük derste bu, küçük görünen sözleri de ciddiye almak demektir; 'önemsiz' bir söz de ahid kapsamındadır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir sözünü tut",
+   "aciklama": "Bugün verdiğin küçük bir sözü (randevu, teslim tarihi) tam vaktinde yerine getir."
+  },
+  {
+   "baslik": "Emaneti geri ver",
+   "aciklama": "Bugün elinde duran birine ait bir eşyayı ya da bilgiyi sahibine iade et."
+  },
+  {
+   "baslik": "Unutulan bir sözü hatırla",
+   "aciklama": "Bugün geçmişte verip unuttuğun bir sözü hatırla ve telafi et."
+  }
+ ],
+ "bugununAdimi": "Bugün verdiğin bir sözü, hatırlatılmadan, kendiliğinden yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/8"
+  }
+ ]
+}

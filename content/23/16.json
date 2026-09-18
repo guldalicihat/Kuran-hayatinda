@@ -1,0 +1,89 @@
+{
+ "sure": 23,
+ "ayet": 16,
+ "durum": "taslak",
+ "meal": "Sonra siz, kıyamet günü mutlaka diriltileceksiniz.",
+ "mealNotu": "'Yevm' kökü (يوم) günü; 'kıyâmet' kökü (قوم) kalkmayı/ayağa kalkmayı; 'ba's' kökü (بعث) diriltilip gönderilmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "bağlaç: sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "إِنَّكُمْ",
+   "okunus": "inneküm",
+   "kok": "—",
+   "kokAnlam": "te'kid: şüphesiz siz",
+   "karsilik": "şüphesiz siz"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün, zaman dilimi",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "ٱلْقِيَٰمَةِ",
+   "okunus": "elkıyâmeti",
+   "kok": "قوم",
+   "kokAnlam": "kalkma, ayağa kalkma, toplanma",
+   "karsilik": "kıyametin"
+  },
+  {
+   "kelime": "تُبْعَثُونَ",
+   "okunus": "tüb'asûne",
+   "kok": "بعث",
+   "kokAnlam": "diriltilip kaldırma, gönderme, uyandırma",
+   "karsilik": "diriltileceksiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ölümle biten anlatım burada devam eder: ölüm son değildir, kıyamet gününde yeniden diriliş vardır. 'Ba's' kökü hem uyandırmayı hem yeniden göndermeyi/kaldırmayı anlatır.",
+  "12-16. ayetler böylece tam bir döngü çizer: yaratılış, ölüm, diriliş. Bu sıralama, hayatın rastgele değil bir amaç ve hesap çerçevesinde kurulduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "22:7",
+   "meal": "Kıyamet saati şüphesiz gelecektir; Allah kabirlerdekileri diriltecektir.",
+   "baglanti": "Aynı 'kıyâmet' ve diriliş teması burada da geçer; kıyametin kesinliği Kur'an'da tekrarlanan bir vurgudur."
+  },
+  {
+   "ref": "36:79",
+   "meal": "De ki: Onları ilk defa yaratan diriltecektir; O, her yaratılışı bilendir.",
+   "baglanti": "Çürümüş kemiklerin nasıl diriltileceği sorusuna, ilk yaratılışı hatırlatarak cevap verilir; Mü'minûn'daki yaratılış anlatımıyla aynı mantığı paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan öldükten sonra dirilmektir; bu, hesap gününe olan inancın temelidir.",
+  "Günlük derste bu, davranışların sonuçsuz kalmayacağı bilincini taşımaktır; her seçim bir gün karşına çıkacaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hesabı düşün",
+   "aciklama": "Bugün bir davranışını yapmadan önce, 'bunun hesabını nasıl veririm' diye bir an düşün."
+  },
+  {
+   "baslik": "Sonsuzluğu hatırla",
+   "aciklama": "Bugün bir kararında, sonucun sadece dünyada değil ahirette de olduğunu hatırla."
+  },
+  {
+   "baslik": "Umutla hazırlan",
+   "aciklama": "Bugün diriliş inancını, korku değil sorumluluk bilinciyle bir kez hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün bir davranışını, 'kıyamet günü bundan hesaba çekilsem ne derim' sorusuna göre gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=16"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/16"
+  }
+ ]
+}

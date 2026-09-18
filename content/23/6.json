@@ -1,0 +1,124 @@
+{
+ "sure": 23,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Ancak eşleri ya da ellerinin sahip olduğu hariç; çünkü onlar bu konuda kınanmazlar.",
+ "mealNotu": "'Zevc' kökü eşi anlatır; 'meleket eymânühüm' ifadesi, ayetin indiği dönemin toplumsal-hukuki bir kategorisi olan sahiplik ilişkisini belirtir. 'Lâm' kökü kınamayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna: ancak, dışında",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "edat: üzerine, üzerinde",
+   "karsilik": "-den başka"
+  },
+  {
+   "kelime": "أَزْوَٰجِهِمْ",
+   "okunus": "ezvâcihim",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift, birlikte olan",
+   "karsilik": "eşleri"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "bağlaç: veya",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri: şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "مَلَكَتْ",
+   "okunus": "meleket",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, mülkiyet, güç yetirme",
+   "karsilik": "sahip olduğu"
+  },
+  {
+   "kelime": "أَيْمَٰنُهُمْ",
+   "okunus": "eymânühüm",
+   "kok": "يمن",
+   "kokAnlam": "sağ el; mecazen sahiplik/güvence",
+   "karsilik": "elleri"
+  },
+  {
+   "kelime": "فَإِنَّهُمْ",
+   "okunus": "feinnehüm",
+   "kok": "—",
+   "kokAnlam": "te'kid: çünkü onlar",
+   "karsilik": "çünkü onlar"
+  },
+  {
+   "kelime": "غَيْرُ",
+   "okunus": "gayru",
+   "kok": "غير",
+   "kokAnlam": "başkası, dışında olma",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "مَلُومِينَ",
+   "okunus": "melûmîne",
+   "kok": "لوم",
+   "kokAnlam": "kınama, ayıplama",
+   "karsilik": "kınananlardan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki iffet korumasının istisnasını açıklar: eş ve -âyetin indiği dönemde var olan- meşru sahiplik ilişkisi bu korumanın dışındadır. 'Meleket eymânühüm' ifadesi, o çağın toplumsal-hukuki bir kategorisine işaret eder.",
+  "Ayet, bu iki meşru çerçevenin ötesine geçeni kınama kapsamı dışında bırakmaz; nitekim bir sonraki ayet bunun ötesine gideni 'haddi aşan' olarak tanımlar. Klasik tefsir bu ayeti dönemin hukuki yapısı içinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "70:30",
+   "meal": "Ancak eşleri ya da ellerinin sahip olduğu hariç; bu konuda onlar kınanmazlar.",
+   "baglanti": "Bu ayetin neredeyse birebir aynısı Meâric suresinde de geçer; iffet tanımı Kur'an'da tutarlı biçimde tekrarlanır."
+  },
+  {
+   "ref": "24:33",
+   "meal": "Ellerinizin altında bulunanlardan hürriyetlerini satın almak isteyenlerle, bir hayır görürseniz anlaşma yapın.",
+   "baglanti": "Aynı ifade (meleket eymânühüm) burada özgürleşme/anlaşma bağlamında geçer; Kur'an bu ilişkiye dair başka ayetlerde özgürleştirmeyi teşvik eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, o dönemin toplumsal-hukuki yapısı içinde meşru cinsel ilişki çerçevesidir; bu özel bir hukuki/tarihsel bağlamdır, 'meleket eymânühüm' kategorisi günümüz toplumsal düzeninde fiilen yoktur.",
+  "Buradan çıkarılabilecek genel ders, meşruiyetin keyfi değil belirli sınırlarla tanımlandığıdır; kişi kendi sınırını, kuralsız bir özgürlük değil, tanımlı bir çerçevede yaşar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sınırı öğren, uygula",
+   "aciklama": "Bugün kendi hayatındaki meşru-gayrimeşru ayrımını netleştiren bir konuda bilgini tazele."
+  },
+  {
+   "baslik": "Eşine değer ver",
+   "aciklama": "Bugün eşinle (varsa) ilişkini, ayetin çizdiği saygı çerçevesinde bir kez daha değerlendir."
+  },
+  {
+   "baslik": "Kınamadan önce düşün",
+   "aciklama": "Bugün birini yargılamadan önce, ölçünün keyfi mi yoksa net bir kurala mı dayandığını sorgula."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda kendi sınırını duygudan değil net bir ölçüden hareketle belirle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/6"
+  }
+ ]
+}

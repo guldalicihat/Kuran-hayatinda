@@ -1,0 +1,75 @@
+{
+ "sure": 23,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "İşte onlar, varislerdir.",
+ "mealNotu": "'Vâris' kökü (ورث) miras almayı anlatır; ayet burada mirasın ne olduğunu henüz söylemez, bunu bir sonraki ayet açar.",
+ "kokler": [
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri: işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "zamir: onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "ٱلْوَٰرِثُونَ",
+   "okunus": "elvârisûne",
+   "kok": "ورث",
+   "kokAnlam": "miras alma, varis olma, devralma",
+   "karsilik": "varislerdir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Dokuz ayet boyunca sayılan nitelikler burada bir sonuca bağlanır: bu nitelikleri taşıyanlar 'vâris' olarak adlandırılır. 'Vâris' kökü, bir önceki sahipten devralmayı anlatır.",
+  "Ayet henüz neyin mirasçısı olduklarını söylemez; gerilim bir sonraki ayete taşınır. Bu, dinleyicinin merakını ayet ayet ilerleten bir anlatım biçimidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:43",
+   "meal": "Size seslenilir: İşte size miras verilen cennet budur.",
+   "baglanti": "Aynı 'vâris' kökü burada cennetin miras olarak verilmesiyle bağlanır; bir sonraki ayetin (Firdevs) zeminini hazırlar."
+  },
+  {
+   "ref": "39:74",
+   "meal": "Bizi buraya (cennete) varis kıldı, cennette dilediğimiz yerde konaklarız.",
+   "baglanti": "Cennete varis olma teması burada da geçer; mü'minlerin kazandığı miras cennettir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, sayılan niteliklerin karşılığıdır; bu nitelikleri taşıyanlar bir mirasın sahibi olur.",
+  "Günlük derste bu, kazanımın rastgele değil, önceki ayetlerde sayılan davranışların doğal sonucu olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Mirasını hak et",
+   "aciklama": "Bugün önceki ayetlerdeki nitelikleri kendi hayatında somutlaştıracak bir davranışı seç."
+  },
+  {
+   "baslik": "Sonucu değil sebebi düşün",
+   "aciklama": "Bugün bir hedefe ulaşmak istediğinde, önce gereken çabayı gösterdiğinden emin ol."
+  },
+  {
+   "baslik": "Sabırla bekle",
+   "aciklama": "Bugün bir çabanın karşılığını hemen göremesen de sürdürmeye devam et."
+  }
+ ],
+ "bugununAdimi": "Bugün 2-9. ayetlerdeki nitelikleri tekrar oku ve hangisini bugün uygulayacağını seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=23&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/23/10"
+  }
+ ]
+}
