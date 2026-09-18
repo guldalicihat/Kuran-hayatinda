@@ -1,0 +1,117 @@
+{
+ "sure": 19,
+ "ayet": 34,
+ "durum": "taslak",
+ "meal": "İşte, hakkında şüphe edip durdukları gerçek söz budur: Meryem oğlu İsa.",
+ "mealNotu": "'Mira' kökü مري şüpheyi, çekişmeyi; 'hakk' kökü حقق tartışmasız gerçekliği anlatır. Ayet başta [budur] diye çevrilen 'zâlike' ile önceki anlatılanı özetler.",
+ "kokler": [
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "işaret",
+   "karsilik": "işte budur"
+  },
+  {
+   "kelime": "عِيسَى",
+   "okunus": "îsâ",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İsa"
+  },
+  {
+   "kelime": "ٱبْنُ",
+   "okunus": "ibnü",
+   "kok": "بني",
+   "kokAnlam": "oğulluk, soy",
+   "karsilik": "oğlu"
+  },
+  {
+   "kelime": "مَرْيَمَ",
+   "okunus": "meryeme",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "Meryem'in"
+  },
+  {
+   "kelime": "قَوْلَ",
+   "okunus": "kavle",
+   "kok": "قول",
+   "kokAnlam": "söz, söyleme",
+   "karsilik": "sözüdür"
+  },
+  {
+   "kelime": "ٱلْحَقِّ",
+   "okunus": "elhakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, hak",
+   "karsilik": "gerçek"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "ki o"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat) onda",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "يَمْتَرُونَ",
+   "okunus": "yemterûne",
+   "kok": "مري",
+   "kokAnlam": "şüphe etme, çekişme",
+   "karsilik": "şüphe ediyorlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "'Zâlike' (işte budur) ifadesiyle sure, az önce anlatılanı özetler: Meryem oğlu İsa'nın kimliği, üzerinde durulmadan geçilecek bir konu değil, 'gerçek söz'dür. 'Hakk' kökü حقق sağlam, tartışmasız gerçekliği anlatır.",
+  "Ayet, İsa hakkında şüphe edip durduğunu belirttiği kimseleri de anar. 'Mira' kökü مري şüpheyi, çekişmeyi anlatır. Kur'an, olağanüstü doğumu ve beşikte konuşmayı anlattıktan sonra, bu konudaki tartışmaların İsa'nın kimliğini değiştirmeyeceğini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:60",
+   "meal": "Gerçek, Rabbinden gelendir; öyleyse şüphe edenlerden olma.",
+   "baglanti": "Âl-i İmrân suresi de İsa'yı anlattıktan sonra aynı köke bağlı bir ifadeyle, onun kimliği hakkında şüpheye düşülmemesini öğütler."
+  },
+  {
+   "ref": "4:171",
+   "meal": "Ey Kitap ehli, dininizde aşırı gitmeyin ve Allah hakkında ancak gerçeği söyleyin. Meryem oğlu İsa Mesih, ancak Allah'ın resulüdür.",
+   "baglanti": "Nisa suresi, İsa hakkındaki 'gerçek söz'ün ne olduğunu, aşırılığa düşmeden tarif eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan İsa'nın kimliği hakkındaki tarihsel ihtilaftır; bu, itikadi bir tartışmadır.",
+  "Buradan çıkarılabilecek genel ders, bazı konularda gerçek net olsa da insanların yine de ihtilafa düşebileceğidir. Gerçek, tartışmanın sürmesiyle değişmez."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir gerçeği netleştir",
+   "aciklama": "Bugün etrafında yanlış anlaşılan bir konuyu net bir dille açıkla."
+  },
+  {
+   "baslik": "Şüpheyle tartışmayı ayır",
+   "aciklama": "Bugün emin olduğun bir gerçeği, gereksiz tartışmaya sokmadan savun."
+  },
+  {
+   "baslik": "Kaynağa dön",
+   "aciklama": "Bugün emin olmadığın bir konuda doğrudan güvenilir kaynağa başvur."
+  }
+ ],
+ "bugununAdimi": "Bugün üzerinde şüphe ettiğin bir konuyu, güvenilir bir kaynaktan araştırıp netleştir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=34"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/34"
+  }
+ ]
+}

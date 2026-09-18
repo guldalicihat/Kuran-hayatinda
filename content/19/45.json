@@ -1,0 +1,131 @@
+{
+ "sure": 19,
+ "ayet": 45,
+ "durum": "taslak",
+ "meal": "Babacığım, sana Rahmân'dan bir azabın dokunmasından, böylece şeytana dost olmandan korkuyorum.",
+ "mealNotu": "'Havf' kökü خوف korkuyu, 'veliyy' kökü ولي yakın dostluğu anlatır. İbrahim'in korkusu kişisel değil babası içindir.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَبَتِ",
+   "okunus": "yâ ebeti",
+   "kok": "أبو",
+   "kokAnlam": "babalık",
+   "karsilik": "babacığım"
+  },
+  {
+   "kelime": "إِنِّىٓ",
+   "okunus": "innî",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "gerçekten ben"
+  },
+  {
+   "kelime": "أَخَافُ",
+   "okunus": "ehâfü",
+   "kok": "خوف",
+   "kokAnlam": "korku",
+   "karsilik": "korkuyorum"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "bağlaç",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "يَمَسَّكَ",
+   "okunus": "yemesseke",
+   "kok": "مسس",
+   "kokAnlam": "dokunma",
+   "karsilik": "sana dokunur"
+  },
+  {
+   "kelime": "عَذَابٌ",
+   "okunus": "azâbün",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "bir azap"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلرَّحْمَٰنِ",
+   "okunus": "errahmâni",
+   "kok": "رحم",
+   "kokAnlam": "rahmet",
+   "karsilik": "Rahmân"
+  },
+  {
+   "kelime": "فَتَكُونَ",
+   "okunus": "fetekûne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "böylece olursun"
+  },
+  {
+   "kelime": "لِلشَّيْطَٰنِ",
+   "okunus": "lilşşeytâni",
+   "kok": "شطن",
+   "kokAnlam": "şeytanlık",
+   "karsilik": "şeytana"
+  },
+  {
+   "kelime": "وَلِيًّا",
+   "okunus": "veliyyen",
+   "kok": "ولي",
+   "kokAnlam": "dostluk, yakınlık",
+   "karsilik": "dost"
+  }
+ ],
+ "neAnlatiyor": [
+  "İbrahim, tehdit değil endişe diliyle konuşur: babasına bir azabın dokunmasından korktuğunu söyler. 'Havf' kökü خوف korkuyu anlatır; bu korku, kişisel değil babası içindir.",
+  "Endişesinin sonucu da nettir: böyle giderse şeytana dost (veli) olur. 'Veliyy' kökü ولي yakın dostluğu anlatır. İbrahim, babasının bir sonuçla karşılaşacağını suçlamadan hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "43:36",
+   "meal": "Kim Rahmân'ın zikrinden yüz çevirirse, ona bir şeytan musallat ederiz; o da onun yakın dostu olur.",
+   "baglanti": "Zuhruf suresi, İbrahim'in babası için duyduğu endişeyi genel bir ilke olarak açıklar: Rahmân'dan uzaklaşan, şeytana yakınlaşır."
+  },
+  {
+   "ref": "4:38",
+   "meal": "Kime şeytan arkadaş olursa, ne kötü bir arkadaştır o!",
+   "baglanti": "Nisa suresi, İbrahim'in babası için korktuğu şeytana dost olma durumunun ne kadar kötü bir sonuç olduğunu doğrudan söyler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, İbrahim'in babasının akıbeti için duyduğu içten kaygıdır; bu, davetin sertlik değil sevgiyle yapıldığını gösterir.",
+  "Buradan çıkarılabilecek genel ders, bir uyarının en güçlü hâlinin karşıdakine duyulan gerçek bir endişeden doğduğudur. Korku burada kişisel çıkar değil, sevdiği kişinin geleceğidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Endişeni ifade et",
+   "aciklama": "Bugün bir yakının hakkında duyduğun endişeyi, suçlamadan ona söyle."
+  },
+  {
+   "baslik": "Sonuçları hatırlat",
+   "aciklama": "Bugün bir kararın olası sonucunu, tehdit değil bilgi olarak paylaş."
+  },
+  {
+   "baslik": "Sevgiyle uyar",
+   "aciklama": "Bugün bir uyarıyı, sevgi ve içtenlikle ilet."
+  }
+ ],
+ "bugununAdimi": "Bugün bir yakınına, onun için duyduğun gerçek bir endişeyi içtenlikle dile getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=45"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/45"
+  }
+ ]
+}

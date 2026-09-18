@@ -1,0 +1,117 @@
+{
+ "sure": 19,
+ "ayet": 44,
+ "durum": "taslak",
+ "meal": "Babacığım, şeytana tapma. Çünkü şeytan Rahmân'a isyankâr olmuştur.",
+ "mealNotu": "'Şeytan' kökü شطن uzaklaşmayı/sapmayı, 'asâ' kökü عصي isyanı anlatır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَبَتِ",
+   "okunus": "yâ ebeti",
+   "kok": "أبو",
+   "kokAnlam": "babalık",
+   "karsilik": "babacığım"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk (nehiy)",
+   "karsilik": ""
+  },
+  {
+   "kelime": "تَعْبُدِ",
+   "okunus": "ta'büdi",
+   "kok": "عبد",
+   "kokAnlam": "tapma",
+   "karsilik": "tapma"
+  },
+  {
+   "kelime": "ٱلشَّيْطَٰنَ",
+   "okunus": "eşşeytâne",
+   "kok": "شطن",
+   "kokAnlam": "şeytanlık, uzaklaşma",
+   "karsilik": "şeytana"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "çünkü"
+  },
+  {
+   "kelime": "ٱلشَّيْطَٰنَ",
+   "okunus": "eşşeytâne",
+   "kok": "شطن",
+   "kokAnlam": "şeytanlık",
+   "karsilik": "şeytan"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmuştur"
+  },
+  {
+   "kelime": "لِلرَّحْمَٰنِ",
+   "okunus": "lilrrahmâni",
+   "kok": "رحم",
+   "kokAnlam": "rahmet",
+   "karsilik": "Rahmân'a"
+  },
+  {
+   "kelime": "عَصِيًّا",
+   "okunus": "asıyyen",
+   "kok": "عصي",
+   "kokAnlam": "isyan",
+   "karsilik": "isyankâr"
+  }
+ ],
+ "neAnlatiyor": [
+  "İbrahim'in daveti sertleşir: 'Şeytana tapma.' 'Şeytan' kökü شطن uzaklaşmayı, sapmayı anlatır. Bu ifade, babanın taptığı putları doğrudan şeytana bağlar.",
+  "Gerekçe açıktır: şeytan Rahmân'a isyankârdır. 'Asâ' kökü عصي isyanı anlatır. İbrahim, artık dolaylı bir soru değil, doğrudan bir uyarı yapar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:60",
+   "meal": "Ey Âdemoğulları, size şunu emretmedim mi: Şeytana tapmayın, çünkü o sizin için apaçık bir düşmandır?",
+   "baglanti": "Yasin suresi, İbrahim'in babasına yönelttiği bu uyarıyı, tüm insanlığa yönelik genel bir ilke olarak tekrarlar."
+  },
+  {
+   "ref": "7:27",
+   "meal": "Ey Âdemoğulları, şeytan sizi, ana babanızı cennetten çıkardığı gibi sınamasın.",
+   "baglanti": "A'râf suresi, şeytanın insanı yoldan çıkarmadaki tarihsel rolünü hatırlatarak bu uyarının ciddiyetini pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, putperestliğin arkasındaki gerçek gücün şeytan olduğunun ortaya konmasıdır; bu, İbrahim'in davetindeki üçüncü adımdır.",
+  "Buradan çıkarılabilecek genel ders, bazı alışkanlıkların arkasında fark edilmeyen bir sapma olabileceğidir. Bir şeye bağlılığın kaynağını sorgulamak, o bağlılığı değerlendirmenin ilk adımıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir bağlılığın kaynağını sorgula",
+   "aciklama": "Bugün alışkanlık haline gelmiş bir davranışının nereden geldiğini düşün."
+  },
+  {
+   "baslik": "Net bir sınır koy",
+   "aciklama": "Bugün seni yanlışa sürükleyen bir şeye karşı net bir sınır belirle."
+  },
+  {
+   "baslik": "Bir uyarıyı ciddiye al",
+   "aciklama": "Bugün sana yapılan iyi niyetli bir uyarıyı savunmaya geçmeden dinle."
+  }
+ ],
+ "bugununAdimi": "Bugün seni yanlış bir yöne çeken bir alışkanlığa karşı net bir sınır koy.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=44"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/44"
+  }
+ ]
+}

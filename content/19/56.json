@@ -1,0 +1,110 @@
+{
+ "sure": 19,
+ "ayet": 56,
+ "durum": "taslak",
+ "meal": "Kitap'ta İdris'i de an. Şüphesiz o, doğruluğu tam bir peygamberdi.",
+ "mealNotu": "İdris hakkında Kur'an'da verilen bilgi çok sınırlıdır; ayet ayrıntıya girmeden onun konumunu bildirir.",
+ "kokler": [
+  {
+   "kelime": "وَٱذْكُرْ",
+   "okunus": "vezkür",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama",
+   "karsilik": "an"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "kitap",
+   "karsilik": "Kitap'ta"
+  },
+  {
+   "kelime": "إِدْرِيسَ",
+   "okunus": "idrîse",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İdris'i"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "şüphesiz o"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "صِدِّيقًا",
+   "okunus": "sıddîkan",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, özü sözü bir olma",
+   "karsilik": "doğruluğu tam"
+  },
+  {
+   "kelime": "نَّبِيًّا",
+   "okunus": "nebiyyen",
+   "kok": "نبأ",
+   "kokAnlam": "peygamberlik",
+   "karsilik": "bir peygamber"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, İdris'in kıssasına kısaca değinir: 'sıddîk' ve 'nebî' olarak anılır. İdris hakkında Kur'an'da verilen bilgi çok sınırlıdır; bu, ayrıntıya girmeden onun konumunu bildirir.",
+  "İbrahim (41) ve İdris için kullanılan 'sıddîk' sıfatı ortaktır; bu, sûrenin farklı peygamberleri benzer erdemlerle birbirine bağladığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "21:85",
+   "meal": "İsmail'i, İdris'i ve Zülkifl'i de an; hepsi sabredenlerdendi.",
+   "baglanti": "Enbiya suresi, İdris'i İsmail'le birlikte anarak onun da sabır vasfıyla nitelendiğini ekler."
+  },
+  {
+   "ref": "19:41",
+   "meal": "Kitap'ta İbrahim'i de an. Şüphesiz o, doğruluğu tam bir peygamberdi.",
+   "baglanti": "Aynı surede İbrahim için kullanılan 'sıddîk' sıfatı, burada İdris için de tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, İdris'in Kur'an'da kısaca anılan doğruluğudur; hakkında ayrıntı verilmediği için burada da yorum eklenmeden aktarılır.",
+  "Buradan çıkarılabilecek genel ders, bir kişinin değerinin, hakkında anlatılan hikâyenin uzunluğuyla değil niteliğiyle ölçüldüğüdür. Kısa bir anılış bile güçlü bir vasıfla dolu olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Az ama öz konuş",
+   "aciklama": "Bugün bir konuda uzun anlatmak yerine, özlü ve doğru konuş."
+  },
+  {
+   "baslik": "Sessiz bir örneği fark et",
+   "aciklama": "Bugün çevrende sessizce iyilik yapan birini fark edip takdir et."
+  },
+  {
+   "baslik": "Doğruluğunu koru",
+   "aciklama": "Bugün küçük bir konuda bile doğruyu söylemekten vazgeçme."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuşmanı, gereksiz uzatmadan, doğru ve öz tut.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=56"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/56"
+  }
+ ]
+}

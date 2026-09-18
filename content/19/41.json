@@ -1,0 +1,110 @@
+{
+ "sure": 19,
+ "ayet": 41,
+ "durum": "taslak",
+ "meal": "Kitap'ta İbrahim'i de an. Şüphesiz o, doğruluğu tam bir peygamberdi.",
+ "mealNotu": "'Zikr' kökü ذكر anmayı, 'sıddîk' kökü صدق doğrulukta üst düzeyde olmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَٱذْكُرْ",
+   "okunus": "vezkür",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama",
+   "karsilik": "an"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "Kitap'ta"
+  },
+  {
+   "kelime": "إِبْرَٰهِيمَ",
+   "okunus": "ibrâhîme",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İbrahim'i"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "şüphesiz o"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "صِدِّيقًا",
+   "okunus": "sıddîkan",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, özü sözü bir olma",
+   "karsilik": "doğruluğu tam"
+  },
+  {
+   "kelime": "نَّبِيًّا",
+   "okunus": "nebiyyen",
+   "kok": "نبأ",
+   "kokAnlam": "haber, peygamberlik",
+   "karsilik": "bir peygamber"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure şimdi İbrahim'in kıssasına geçer: 'Kitap'ta İbrahim'i de an.' 'Zikr' kökü ذكر anmayı, hatırlatmayı anlatır; bu kalıp, Zekeriyya, Meryem ve az sonra Musa, İsmail ve İdris için de tekrarlanır.",
+  "İbrahim, 'sıddîk' ve 'nebî' olarak nitelenir. 'Sıddîk' kökü صدق, doğrulukta üst düzeyde olmayı anlatır. Bu tanım, hemen ardından anlatılacak babasıyla olan zorlu diyalogun zeminini hazırlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:125",
+   "meal": "Kim, iyilik yaparak yüzünü Allah'a teslim eder ve hanif olarak İbrahim'in yoluna uyarsa (bilsin ki) Allah İbrahim'i dost edinmiştir.",
+   "baglanti": "Nisa suresi, İbrahim'in bu doğruluğunun en üst ifadesini, Allah'ın onu 'halil' (dost) edinmesiyle anlatır."
+  },
+  {
+   "ref": "19:56",
+   "meal": "Kitap'ta İdris'i de an. Şüphesiz o, doğruluğu tam bir peygamberdi.",
+   "baglanti": "Aynı surede birkaç ayet sonra İdris için de aynı 'sıddîk' sıfatı kullanılır; sure bu ortak nitelikle peygamberleri birbirine bağlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, İbrahim'in Kur'an'da anılma nedeni olan doğruluğudur; bu, onun peygamberlik vasfının özetidir.",
+  "Buradan çıkarılabilecek genel ders, doğruluğun bir defalık bir davranış değil, süreklilik gerektiren bir karakter olduğudur. Az sonra anlatılacak zorlu diyalog da bu doğruluğun bir sınavıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir sözünü tut",
+   "aciklama": "Bugün verdiğin küçük bir sözü hatırlayarak yerine getir."
+  },
+  {
+   "baslik": "Doğruluğunu koru",
+   "aciklama": "Bugün zor bir durumda bile gerçeği çarpıtmadan anlat."
+  },
+  {
+   "baslik": "Bir örneği hatırla",
+   "aciklama": "Bugün kararsız kaldığın bir anda, saygı duyduğun birinin tutumunu örnek al."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda, kolay olanı değil doğru olanı seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=41"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/41"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "sure": 19,
+ "ayet": 54,
+ "durum": "taslak",
+ "meal": "Kitap'ta İsmail'i de an. Şüphesiz o, sözünde duran biriydi; hem resul hem peygamberdi.",
+ "mealNotu": "'Sıdk' kökü صدق, sözünde durmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَٱذْكُرْ",
+   "okunus": "vezkür",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama",
+   "karsilik": "an"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "kitap",
+   "karsilik": "Kitap'ta"
+  },
+  {
+   "kelime": "إِسْمَٰعِيلَ",
+   "okunus": "ismâîle",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İsmail'i"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "şüphesiz o"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "صَادِقَ",
+   "okunus": "sâdika",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, sözünde durma",
+   "karsilik": "sözünde duran"
+  },
+  {
+   "kelime": "ٱلْوَعْدِ",
+   "okunus": "elva'di",
+   "kok": "وعد",
+   "kokAnlam": "söz verme, vaad",
+   "karsilik": "(verdiği) sözde"
+  },
+  {
+   "kelime": "وَكَانَ",
+   "okunus": "ve kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ve idi"
+  },
+  {
+   "kelime": "رَسُولًا",
+   "okunus": "rasûlen",
+   "kok": "رسل",
+   "kokAnlam": "elçilik",
+   "karsilik": "bir resul"
+  },
+  {
+   "kelime": "نَّبِيًّا",
+   "okunus": "nebiyyen",
+   "kok": "نبأ",
+   "kokAnlam": "peygamberlik",
+   "karsilik": "ve peygamber"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, İsmail'in kıssasına geçer: 'sözünde duran' (sâdıka'l-va'd) ve hem resul hem nebî olarak nitelenir. 'Sıdk' kökü صدق, sözünde durmayı anlatır.",
+  "Bu tanım, ayrıntı vermeden İsmail'in temel özelliğini öne çıkarır: verdiği sözü tutmak. Bu, hemen sonraki ayette ailesine yönelik somut bir sorumlulukla tamamlanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "37:102",
+   "meal": "Yanında koşma çağına erişince (İbrahim) dedi ki: 'Yavrucuğum, rüyamda seni boğazladığımı görüyorum, bir düşün, ne dersin?' (İsmail) dedi ki: 'Babacığım, sana emredileni yap; Allah dilerse beni sabredenlerden bulacaksın.'",
+   "baglanti": "Saffât suresi, İsmail'in verdiği sözde ne kadar ciddi durduğunu en zor sınavda gösterir."
+  },
+  {
+   "ref": "2:127",
+   "meal": "İbrahim ve İsmail, Ev'in (Kâbe'nin) temellerini yükseltiyorlardı: 'Rabbimiz, bizden kabul et; şüphesiz sen işitensin, bilensin.'",
+   "baglanti": "Bakara suresi, İsmail'in babasıyla birlikte üstlendiği bir başka sorumluluğu, Kâbe'nin inşasını anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, İsmail'in sözünde durma erdemidir; bu, onun peygamberlik vasıflarının özetidir.",
+  "Buradan çıkarılabilecek genel ders, verilen bir sözün en zor şartlarda bile tutulması gerektiğidir. İsmail'in örneği, sözünde durmanın küçük bir erdem olmadığını, bir karakter meselesi olduğunu gösterir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir sözünü hatırla ve tut",
+   "aciklama": "Bugün unutmuş olabileceğin bir sözünü hatırlayıp yerine getir."
+  },
+  {
+   "baslik": "Zor bir sözde bile dur",
+   "aciklama": "Bugün tutması zor gelen bir sözünü, yine de yerine getirmeye çalış."
+  },
+  {
+   "baslik": "Ortak bir işe katkı sun",
+   "aciklama": "Bugün bir aile veya topluluk işine küçük bir katkıda bulun."
+  }
+ ],
+ "bugununAdimi": "Bugün verdiğin bir sözü, ne kadar zor olsa da yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=54"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/19/54"
+  }
+ ]
+}
