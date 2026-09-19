@@ -1,0 +1,96 @@
+{
+ "sure": 55,
+ "ayet": 37,
+ "durum": "taslak",
+ "meal": "Gök yarılıp da erimiş yağ/boyanmış deri gibi kıpkırmızı bir gül olduğunda [ne olacağını düşünün].",
+ "mealNotu": "'İnşikak' kökü yarılmayı anlatır. 'Verde' kökü gülü/gül rengini, 'dihan' kökü erimiş yağı veya boyanmış deriyi anlatır; ikisi de kızıllık ve akışkanlık çağrıştırır. Cümle bir şart yapısıdır; sonucu açık yazılmadığı için köşeli parantezle tamamlandı.",
+ "kokler": [
+  {
+   "kelime": "فَإِذَا",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "(zaman/şart) ...dığı zaman",
+   "karsilik": "...dığında"
+  },
+  {
+   "kelime": "ٱنشَقَّتِ",
+   "okunus": "inşekkati",
+   "kok": "شقق",
+   "kokAnlam": "yarılma, çatlama, ikiye ayrılma",
+   "karsilik": "yarılıp"
+  },
+  {
+   "kelime": "ٱلسَّمَآءُ",
+   "okunus": "essemâü",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "gök"
+  },
+  {
+   "kelime": "فَكَانَتْ",
+   "okunus": "fekânet",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduğunda"
+  },
+  {
+   "kelime": "وَرْدَةً",
+   "okunus": "verdeten",
+   "kok": "ورد",
+   "kokAnlam": "gül, gül rengi, kızıllık",
+   "karsilik": "kıpkırmızı bir gül"
+  },
+  {
+   "kelime": "كَٱلدِّهَانِ",
+   "okunus": "ked dihâni",
+   "kok": "دهن",
+   "kokAnlam": "erimiş yağ, boyanmış deri",
+   "karsilik": "erimiş yağ/boyanmış deri gibi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Cin ve insanın kaçamayacağı ve azabın tasvir edildiği ayetlerden sonra, sure kıyametin en büyük kozmik sahnelerinden birine geçer: göğün yarılması. 'İnşikak' kökü, göğün bütünlüğünün bozulup ikiye ayrılmasını anlatır. Bu, sağlam ve değişmez sanılan gök düzeninin bile bir sonu olduğunu gösterir.",
+  "'Verde' (gül) ve 'dihan' (erimiş yağ/boyanmış deri) benzetmeleri, göğün o anki hâlini hem renk hem doku bakımından tarif eder; kıpkırmızı, akışkan bir görünüm. Ayet bu tasviri betimlemekle yetinir, ayrıntılı bir açıklama eklemez; okuyucuyu bu sahneyi düşünmeye çağırır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "84:1",
+   "meal": "Gök yarıldığı zaman...",
+   "baglanti": "Göğün yarılması burada da aynı kökle, kıyametin bir işareti olarak anılır."
+  },
+  {
+   "ref": "70:8",
+   "meal": "O gün gök, erimiş maden gibi olur.",
+   "baglanti": "Göğün rengi ve dokusu burada da benzer bir görüntüyle, erimiş bir maddeye benzetilerek anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu kıyamet gününde göğün alacağı hâldir; doğrudan bir davranış tavsiyesi içermez.",
+  "Günlük hayatta bu, en sağlam, en değişmez sanılan şeylerin bile bir gün sona ereceğini hatırlatır; bu bilinç, dünyaya aşırı güvenmemeyi öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sağlam sandığını sorgula",
+   "aciklama": "Bugün hiç değişmeyecek sandığın bir şeyin de geçici olduğunu düşün."
+  },
+  {
+   "baslik": "Kıyameti hatırla",
+   "aciklama": "Bugün bir an durup, bu büyük günün geleceğini düşün."
+  },
+  {
+   "baslik": "Hazırlığını artır",
+   "aciklama": "Bugün o gün için hazırlık sayılacak küçük bir ibadeti yap."
+  }
+ ],
+ "bugununAdimi": "Bugün kısa bir an ayırıp kıyametin gerçekliğini düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=37"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/55/37"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "sure": 55,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Kur'ân'ı öğretti.",
+ "mealNotu": "'Allem' kökü öğretmeyi, bilgi aktarmayı anlatır. Fail (özne) açıkça yazılmaz, önceki ayetten 'Rahmân' olarak devam eder.",
+ "kokler": [
+  {
+   "kelime": "عَلَّمَ",
+   "okunus": "alleme",
+   "kok": "علم",
+   "kokAnlam": "öğretme, bilgi verme",
+   "karsilik": "öğretti"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانَ",
+   "okunus": "elkur'âne",
+   "kok": "قرأ",
+   "kokAnlam": "okuma, toplama; okunan kitap",
+   "karsilik": "Kur'ân'ı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, Rahmân isminden hemen sonra ilk nimet olarak Kur'ân'ın öğretilmesini sayar. 'Allem' kökü, sadece bilgiyi ulaştırmayı değil, kavratmayı da içeren bir öğretmeyi anlatır. Kur'ân'ın önce zikredilmesi, onun insan için en temel rehberlik nimeti olduğunu gösterir.",
+  "Fiilin öznesi olan 'O' zamiri açık yazılmaz; bir önceki ayetteki 'Rahmân' ismiyle bağlanır. Böylece Kur'ân'ın öğretilmesi doğrudan Rahmân'ın bir eseri olarak sunulur; insanın kendi çabasıyla ulaştığı bir bilgi değil, bir lütuf olarak."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "75:17",
+   "meal": "Şüphesiz onu [göğsünde] toplamak ve okutmak bize aittir.",
+   "baglanti": "Kur'ân'ın öğretilmesi ve okunması, burada da doğrudan Allah'a ait bir iş olarak anlatılır."
+  },
+  {
+   "ref": "2:151",
+   "meal": "Nitekim size, kendi içinizden, size ayetlerimizi okuyan, sizi arındıran, size Kitab'ı ve hikmeti öğreten bir peygamber gönderdik.",
+   "baglanti": "Kur'ân'ın öğretilmesi burada peygamber aracılığıyla somutlaşır; Rahmân 2 bu öğretimin kaynağını, Bakara 151 aracını anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu Kur'ân'ın Allah tarafından öğretilmesidir; bu doğrudan bir vahiy ve rehberlik nimetidir.",
+  "Günlük hayatta bu nimetin karşılığı, Kur'ân'ı bir kenarda duran bir kitap olarak değil, öğrenilmesi gereken bir rehber olarak görmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ayet öğren",
+   "aciklama": "Bugün kısa bir ayeti anlamıyla birlikte öğren."
+  },
+  {
+   "baslik": "Anlamına bak",
+   "aciklama": "Bugün namazda okuduğun bir sureyi mealinden oku."
+  },
+  {
+   "baslik": "Öğrendiğini paylaş",
+   "aciklama": "Bugün öğrendiğin bir ayeti birine kısaca anlat."
+  }
+ ],
+ "bugununAdimi": "Bugün Kur'ân'dan kısa bir bölümü mealiyle birlikte oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/55/2"
+  }
+ ]
+}

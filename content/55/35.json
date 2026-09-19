@@ -1,0 +1,110 @@
+{
+ "sure": 55,
+ "ayet": 35,
+ "durum": "taslak",
+ "meal": "İkinizin üzerine ateşten bir alev ve [eriyik] bakır/duman gönderilir de kendinizi kurtaramazsınız.",
+ "mealNotu": "'Şüvaz' kökü dumansız, saf alevi anlatır. 'Nuhas' hem erimiş bakırı hem de dumanı anlatabilir; iki anlam da klasik tefsirde geçtiği için birlikte verildi. 'Nasr' kökü yardım/zafer anlamındadır; burada 'kendini kurtaramama, yardım görememe' olarak karşılandı.",
+ "kokler": [
+  {
+   "kelime": "يُرْسَلُ",
+   "okunus": "yürselü",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, salma",
+   "karsilik": "gönderilir"
+  },
+  {
+   "kelime": "عَلَيْكُمَا",
+   "okunus": "aleykümâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ikinizin üzerine",
+   "karsilik": "ikinizin üzerine"
+  },
+  {
+   "kelime": "شُوَاظٌ",
+   "okunus": "şüvâzun",
+   "kok": "شوظ",
+   "kokAnlam": "dumansız, saf ateş alevi",
+   "karsilik": "bir alev"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "نَّارٍ",
+   "okunus": "nârin",
+   "kok": "نور",
+   "kokAnlam": "ateş",
+   "karsilik": "ateşten"
+  },
+  {
+   "kelime": "وَنُحَاسٌ",
+   "okunus": "ve nühâsün",
+   "kok": "نحس",
+   "kokAnlam": "erimiş bakır; duman",
+   "karsilik": "ve bakır/duman"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ...mazsınız",
+   "karsilik": "de ...mazsınız"
+  },
+  {
+   "kelime": "تَنتَصِرَانِ",
+   "okunus": "tentesırâni",
+   "kok": "نصر",
+   "kokAnlam": "yardım görme, kendini kurtarma, zafer kazanma",
+   "karsilik": "kendinizi kurtaramazsınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette cin ve insanın göklerin/yerin sınırlarından kaçamayacağı anlatılmıştı; bu ayet, kaçmaya kalkışılırsa karşılaşılacak sonucu tasvir eder. 'Şüvaz' kökü dumansız, saf bir alevi; 'nuhas' ise klasik tefsirde hem erimiş bakırı hem de yoğun dumanı anlatır.",
+  "'Tentesıran' (kendinizi kurtaramazsınız) ifadesi, bu durumdan hiçbir yardımla, hiçbir güçle kaçılamayacağını anlatır. Ayet, bir önceki ayetteki meydan okumanın (kaçabilirseniz kaçın) doğal sonucunu, abartıya kaçmadan, kısa ve kesin bir cümleyle tamamlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "73:12",
+   "meal": "Şüphesiz katımızda bukağılar, alevli bir ateş vardır.",
+   "baglanti": "Ateşle ilgili bu tasvir burada da benzer bir kesinlikle anlatılır; Rahmân 35'teki alev ifadesiyle aynı temadadır."
+  },
+  {
+   "ref": "40:71",
+   "meal": "Hani boyunlarında demir halkalar ve zincirler olduğu hâlde sürüklenecekler.",
+   "baglanti": "Kaçamama ve çaresizlik teması burada da geçer; Rahmân 35'teki 'kendinizi kurtaramazsınız' ifadesiyle aynı sahneyi tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, hesap gününde suçlular için hazırlanmış bir azap sahnesidir; dünyevi bir tavsiye alanı değildir.",
+  "Günlük hayatta bu ayetten çıkarılabilecek ölçülü ders, kaçılamayacak bir sonucu göze alıp yanlışta ısrar etmemek, uyarıları ciddiye almaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Uyarıyı ciddiye al",
+   "aciklama": "Bugün seni uyaran bir sözü, savunmaya geçmeden dinle."
+  },
+  {
+   "baslik": "Isrardan vazgeç",
+   "aciklama": "Bugün yanlış olduğunu bildiğin bir tutumda ısrar etmekten vazgeç."
+  },
+  {
+   "baslik": "Ahireti hatırla",
+   "aciklama": "Bugün bir kararını, kaçılamayacak bir hesabı düşünerek ver."
+  }
+ ],
+ "bugununAdimi": "Bugün yanlış olduğunu bildiğin küçük bir ısrarı bırak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=35"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/55/35"
+  }
+ ]
+}

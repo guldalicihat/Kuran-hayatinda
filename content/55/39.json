@@ -1,0 +1,110 @@
+{
+ "sure": 55,
+ "ayet": 39,
+ "durum": "taslak",
+ "meal": "İşte o gün, ne insana ne cine günahından sorulur.",
+ "mealNotu": "'Sü'al' kökü sormayı, sorgulamayı anlatır. Burada olumsuzlanan, bilgi almak için sorma anlamındaki sorgulamadır; klasik tefsir bunu, suçun zaten belirtilerden anlaşıldığı, sorgulamaya gerek kalmadığı şeklinde açıklar; bu, Kur'an'ın başka yerlerinde geçen hesap sorma ayetleriyle çelişmez.",
+ "kokler": [
+  {
+   "kelime": "فَيَوْمَئِذٍ",
+   "okunus": "feyevmeizin",
+   "kok": "يوم",
+   "kokAnlam": "gün; o gün",
+   "karsilik": "işte o gün"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ...maz",
+   "karsilik": "...maz"
+  },
+  {
+   "kelime": "يُسْـَٔلُ",
+   "okunus": "yüs'elü",
+   "kok": "سأل",
+   "kokAnlam": "isteme, sorma, sorgulama",
+   "karsilik": "sorulur"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında, -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ذَنۢبِهِۦٓ",
+   "okunus": "zembihî",
+   "kok": "ذنب",
+   "kokAnlam": "günah, suç",
+   "karsilik": "günahından"
+  },
+  {
+   "kelime": "إِنسٌ",
+   "okunus": "insün",
+   "kok": "أنس",
+   "kokAnlam": "ünsiyet kurma; insan",
+   "karsilik": "insana"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "جَآنٌّ",
+   "okunus": "cânnün",
+   "kok": "جنن",
+   "kokAnlam": "gizlenme, örtülü olma; cin",
+   "karsilik": "cine"
+  }
+ ],
+ "neAnlatiyor": [
+  "Göğün yarılması sahnesinden sonra, sure hesap gününün bir başka yönünü anlatır: o gün ne insana ne cine günahı hakkında ayrıca sorulmayacaktır. Bu, hesabın olmayacağı anlamına gelmez; klasik tefsir bunu, suçun o gün insanın yüzündeki belirtiden zaten belli olacağı, bu yüzden ayrıca bilgi almak için sorulmayacağı şeklinde açıklar.",
+  "Bu ifade, Kur'an'ın başka ayetlerinde geçen 'elbette hepsi sorguya çekilecek' ifadeleriyle çelişmez; oradaki sorgulama kınama ve hesaba çekme amaçlıdır, buradaki ise bilgi edinmek için soru sormadır. O gün her şey zaten açık ve bellidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "77:35",
+   "meal": "İşte bu, konuşamayacakları gündür.",
+   "baglanti": "O gün konuşmaya, açıklama yapmaya izin verilmemesi, Rahmân 39'daki 'sorulmaz' ifadesiyle aynı sahneyi anlatır."
+  },
+  {
+   "ref": "36:65",
+   "meal": "O gün ağızlarını mühürleriz; elleri bize konuşur, ayakları da yaptıklarına şahitlik eder.",
+   "baglanti": "Bu ayet, neden ayrıca sorulmayacağını açıklar: beden organlarının kendisi zaten şahitlik edecektir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan hesap gününün bir sahnesidir; o gün suçun gizlenemeyeceğidir.",
+  "Günlük hayatta bu, bir davranışın gizli kalacağını sanmanın yanıltıcı olduğunu hatırlatır; her şey, bir gün açıkça ortaya çıkacaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gizli sandığını gözden geçir",
+   "aciklama": "Bugün kimsenin bilmediğini sandığın bir davranışını gözden geçir."
+  },
+  {
+   "baslik": "Şeffaf ol",
+   "aciklama": "Bugün bir konuda saklamak yerine açık davran."
+  },
+  {
+   "baslik": "Allah'ın gördüğünü hatırla",
+   "aciklama": "Bugün yalnız kaldığın bir anda bile doğru davran."
+  }
+ ],
+ "bugununAdimi": "Bugün kimsenin görmediğini düşündüğün bir anında, Allah'ın gördüğü bilinciyle davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=39"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/55/39"
+  }
+ ]
+}

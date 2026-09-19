@@ -1,0 +1,82 @@
+{
+ "sure": 55,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "Öyleyse Rabbinizin hangi nimetini yalanlarsınız?",
+ "mealNotu": "'Âlâ' kökü nimeti, iyiliği anlatır; çoğulu 'âlâi' burada 'nimetler' anlamındadır. 'Rabbikümâ' ve 'tükezzibân' Arapçadaki ikil (tesniye) çekimiyle gelir; Türkçede ikil olmadığı için 'Rabbiniz' ve 'yalanlarsınız' ile karşılanmıştır; bu ikil hitap, cin ve insan topluluklarına birlikte yöneliktir.",
+ "kokler": [
+  {
+   "kelime": "فَبِأَىِّ",
+   "okunus": "febieyyi",
+   "kok": "أيي",
+   "kokAnlam": "seçme, hangisi; soru sıfatı",
+   "karsilik": "öyleyse hangi"
+  },
+  {
+   "kelime": "ءَالَآءِ",
+   "okunus": "âlâi",
+   "kok": "ألو",
+   "kokAnlam": "nimet, iyilik, lütuf",
+   "karsilik": "nimetini"
+  },
+  {
+   "kelime": "رَبِّكُمَا",
+   "okunus": "rabbikümâ",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, yetiştiren, sahip",
+   "karsilik": "Rabbinizin (ikinizin)"
+  },
+  {
+   "kelime": "تُكَذِّبَانِ",
+   "okunus": "tükezzibâni",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama, gerçeği örtme",
+   "karsilik": "yalanlarsınız (ikiniz)"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu nakarat, iki doğu ve iki batının Rabbi olma vurgusunun hemen ardından gelir. Nimet burada, her günün ve her mevsimin kendine özgü ama düzenli bir doğuş-batış akışına sahip olmasıdır; bu döngü sayesinde zaman, mevsim ve yön bilinir.",
+  "Bu düzenin fark edilmesi kolay değildir; çoğu insan güneşin her gün aynı yerden doğduğunu sanır. Soru, bu ince ama sürekli değişen düzenin de bir yalanlanabilir nimet olduğunu hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "70:40",
+   "meal": "Doğuların ve batıların Rabbine yemin ederim ki, biz elbette güç yetireniz.",
+   "baglanti": "Burada çoğul biçimde geçen 'doğular ve batılar' ifadesi, Rahmân 17'deki ikil kullanımı daha da genişletir; Allah'ın gücü bu düzenle birlikte anılır."
+  },
+  {
+   "ref": "2:115",
+   "meal": "Doğu da batı da Allah'ındır; nereye dönerseniz Allah'ın yüzü (huzuru) oradadır.",
+   "baglanti": "Doğu ve batının Allah'a ait olması burada yön kavramının ötesine geçirilir; Rahmân suresinin ilerleyen ayetlerindeki 'vechü Rabbike' (Rabbinin yüzü) ifadesine de bir hazırlıktır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, güneşin mevsimlere göre değişen doğuş-batış düzenidir.",
+  "Günlük hayatta bu, zamanın farkında olmayı, her günün bir öncekiyle aynı olmadığını, ama hepsinin aynı düzene bağlı olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir yön belirle",
+   "aciklama": "Bugün bulunduğun yerden doğu ve batı yönünü fark et."
+  },
+  {
+   "baslik": "Zamanı fark et",
+   "aciklama": "Bugün saatlerin nasıl geçtiğini, gün ışığının değişimini gözlemle."
+  },
+  {
+   "baslik": "Düzenine sadık kal",
+   "aciklama": "Bugün kendi günlük düzenini (uyku, iş, ibadet) aksatmadan sürdür."
+  }
+ ],
+ "bugununAdimi": "Bugün gün ışığının değişimini bir kez fark ederek, zamanın akışına şükret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/55/18"
+  }
+ ]
+}

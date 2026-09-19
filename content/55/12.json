@@ -1,0 +1,82 @@
+{
+ "sure": 55,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Yapraklı taneli ekin ve güzel kokulu bitkiler [de vardır].",
+ "mealNotu": "'Habb' kökü taneyi/tohumu, 'asf' kökü yaprağı veya samanı anlatır. 'Reyhan' kökü güzel koku ve rahatlık kökünden gelir, hoş kokulu bitkileri kapsar.",
+ "kokler": [
+  {
+   "kelime": "وَٱلْحَبُّ",
+   "okunus": "vel habbü",
+   "kok": "حبب",
+   "kokAnlam": "tane, tohum",
+   "karsilik": "ve tane(li ekin)"
+  },
+  {
+   "kelime": "ذُو",
+   "okunus": "zû",
+   "kok": "—",
+   "kokAnlam": "sahibi, -li",
+   "karsilik": "sahibi"
+  },
+  {
+   "kelime": "ٱلْعَصْفِ",
+   "okunus": "el'asfi",
+   "kok": "عصف",
+   "kokAnlam": "yaprak, saman, ekin sapı",
+   "karsilik": "yaprağın (samanın)"
+  },
+  {
+   "kelime": "وَٱلرَّيْحَانُ",
+   "okunus": "ver rayhânü",
+   "kok": "روح",
+   "kokAnlam": "güzel koku, rahatlık; hoş kokulu bitki",
+   "karsilik": "ve güzel kokulu bitkiler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Meyve ve hurmadan sonra sayılan ikinci nimet grubu, tahıl ve güzel kokulu bitkilerdir. 'Habb', insanın temel besini olan taneyi anlatır; 'asf' ise onu saran yaprağı ya da hayvan yemi olan samanı. Böylece aynı bitkinin hem insan hem hayvan için ayrı bir yararı olduğu ima edilir.",
+  "'Reyhan' kelimesi 'ruh' kökünden gelir ve rahatlık, ferahlık hissi veren güzel kokuyu anlatır. Bu, sofradaki besinlerin yanında, sadece güzel koku ve estetik için var edilmiş bitkilerin de sayılmasıyla, nimetin yalnız karın doyurmakla sınırlı olmadığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:141",
+   "meal": "Çardaklı ve çardaksız bahçeleri, hurmaları, ürünleri çeşit çeşit ekinleri, zeytini ve narı, birbirine benzer ve benzemez biçimde yaratan O'dur.",
+   "baglanti": "Tahıl ve meyve çeşitliliği burada da bir arada anılır; Rahmân 11-12'deki sayım bu geniş listenin özetidir."
+  },
+  {
+   "ref": "26:7",
+   "meal": "Yeryüzüne bakmadılar mı, orada her güzel çiftten nice bitkiler yetiştirdik.",
+   "baglanti": "Bitkilerin çeşitliliği ve güzelliği burada da düşünmeye çağıran bir vurguyla anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu tahıl (ekmeğin kaynağı) ve güzel kokulu bitkilerdir; biri temel besin, diğeri estetik bir nimettir.",
+  "Günlük hayatta ekmek gibi sade bir nimeti hafife almamak, bir çiçeğin veya bahçenin kokusunu fark etmek, bu ayetin işaret ettiği iki farklı nimet türünü günlük hayata taşımaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ekmeği değerli tut",
+   "aciklama": "Bugün ekmeği israf etmeden, hakkını vererek tüket."
+  },
+  {
+   "baslik": "Bir kokuyu fark et",
+   "aciklama": "Bugün bir çiçeğin veya bitkinin kokusuna birkaç saniye dur."
+  },
+  {
+   "baslik": "Sade bir nimeti say",
+   "aciklama": "Bugün sofrandaki en sade besini bile bir nimet olarak fark et."
+  }
+ ],
+ "bugununAdimi": "Bugün ekmek veya tahıl bazlı bir besini israf etmeden tüket.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/55/12"
+  }
+ ]
+}

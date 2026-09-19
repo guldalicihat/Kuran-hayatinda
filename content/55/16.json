@@ -1,0 +1,82 @@
+{
+ "sure": 55,
+ "ayet": 16,
+ "durum": "taslak",
+ "meal": "Öyleyse Rabbinizin hangi nimetini yalanlarsınız?",
+ "mealNotu": "'Âlâ' kökü nimeti, iyiliği anlatır; çoğulu 'âlâi' burada 'nimetler' anlamındadır. 'Rabbikümâ' ve 'tükezzibân' Arapçadaki ikil (tesniye) çekimiyle gelir; Türkçede ikil olmadığı için 'Rabbiniz' ve 'yalanlarsınız' ile karşılanmıştır; bu ikil hitap, cin ve insan topluluklarına birlikte yöneliktir.",
+ "kokler": [
+  {
+   "kelime": "فَبِأَىِّ",
+   "okunus": "febieyyi",
+   "kok": "أيي",
+   "kokAnlam": "seçme, hangisi; soru sıfatı",
+   "karsilik": "öyleyse hangi"
+  },
+  {
+   "kelime": "ءَالَآءِ",
+   "okunus": "âlâi",
+   "kok": "ألو",
+   "kokAnlam": "nimet, iyilik, lütuf",
+   "karsilik": "nimetini"
+  },
+  {
+   "kelime": "رَبِّكُمَا",
+   "okunus": "rabbikümâ",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, yetiştiren, sahip",
+   "karsilik": "Rabbinizin (ikinizin)"
+  },
+  {
+   "kelime": "تُكَذِّبَانِ",
+   "okunus": "tükezzibâni",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama, gerçeği örtme",
+   "karsilik": "yalanlarsınız (ikiniz)"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu nakarat, insanın çamurdan, cinin ateşten yaratılmasının hemen ardından gelir. Vurgu, yaratılışın kendisidir: hiçbir varlık kendi kendine var olmamıştır; her ikisi de belirli bir maddeden, belirli bir amaçla yaratılmıştır.",
+  "Sorunun burada tekrar cin ve insana birlikte yöneltilmesi, iki farklı maddeden yaratılmış olsalar da her ikisinin de aynı yalanlama sorumluluğuyla karşı karşıya olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "38:71",
+   "meal": "Hani Rabbin meleklere demişti: 'Ben çamurdan bir insan yaratacağım.'",
+   "baglanti": "İnsanın yaratılışının meleklere bildirildiği bu sahne, Rahmân 14'teki özet ifadenin arka planını gösterir."
+  },
+  {
+   "ref": "38:76",
+   "meal": "[İblis] dedi ki: 'Ben ondan hayırlıyım; beni ateşten, onu ise çamurdan yarattın.'",
+   "baglanti": "Cinin/İblis'in ateşten yaratılmış olması burada bir övünme vesilesi yapılır; Rahmân 15 bu maddeyi nötr biçimde anar, öfkeyle değil."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan yaratılış nimetidir; insanın da cinin de var oluşu kendi tercihleri değil, bir lütuftur.",
+  "Günlük hayatta bu, kendi varlığını sorgulamadan önce, onun bir amaçla ve özenle yaratıldığını kabul etmeyi hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Varlığına şükret",
+   "aciklama": "Bugün var olduğun için kısaca şükret, bunu tesadüf sayma."
+  },
+  {
+   "baslik": "Maddene değil amacına bak",
+   "aciklama": "Bugün kendini başkasıyla kıyaslarken, aslın değil amacın üzerinden düşün."
+  },
+  {
+   "baslik": "Yaratılış farkını kabul et",
+   "aciklama": "Bugün farklı yaratılmış olmanın bir üstünlük değil, bir emanet olduğunu hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün kendi varlığını bir tesadüf değil, bir emanet olarak görüp buna göre davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=16"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/55/16"
+  }
+ ]
+}

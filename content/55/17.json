@@ -1,0 +1,82 @@
+{
+ "sure": 55,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "İki doğunun Rabbi ve iki batının Rabbi[dir].",
+ "mealNotu": "'Meşrik' ve 'mağrib' kökleri doğuş ve batış yerlerini anlatır; ikil (tesniye) biçimde gelmesi, klasik tefsirde çoğunlukla yaz ve kış mevsimlerindeki güneşin doğuş-batış noktalarındaki değişime yorulur, kesin bir astronomik iddia olarak değil, genel bir yorum olarak aktarılır.",
+ "kokler": [
+  {
+   "kelime": "رَبُّ",
+   "okunus": "rabbü",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, yetiştiren, sahip",
+   "karsilik": "Rabbi"
+  },
+  {
+   "kelime": "ٱلْمَشْرِقَيْنِ",
+   "okunus": "elmeşrikayni",
+   "kok": "شرق",
+   "kokAnlam": "doğuş yeri, gün doğusu",
+   "karsilik": "iki doğunun"
+  },
+  {
+   "kelime": "وَرَبُّ",
+   "okunus": "ve rabbü",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, yetiştiren, sahip",
+   "karsilik": "ve Rabbi"
+  },
+  {
+   "kelime": "ٱلْمَغْرِبَيْنِ",
+   "okunus": "elmağribeyni",
+   "kok": "غرب",
+   "kokAnlam": "batış yeri, gün batısı",
+   "karsilik": "iki batının"
+  }
+ ],
+ "neAnlatiyor": [
+  "Güneş ve ayın hesaplı hareketinden sonra (5. ayet), sure burada tekrar gökyüzüne döner ve Allah'ı 'iki doğunun ve iki batının Rabbi' olarak anar. 'Meşrik' ve 'mağrib' kelimelerinin ikil (tesniye) kullanılması dikkat çekicidir; tekil değil, ikili bir sayı verilmiştir.",
+  "Klasik tefsir bu ikilliği çoğunlukla yılın en uzun ve en kısa günlerindeki güneşin doğuş ve batış noktalarındaki kayma ile açıklar; yaz ve kış güneşin ufukta farklı noktalardan doğup battığı gözlemine işaret edildiği söylenir. Ayet kesin bir astronomik açıklama vermez, yalnız bu düzenin Rabbi olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:28",
+   "meal": "Musa dedi ki: 'Doğunun, batının ve ikisi arasındakilerin Rabbidir; eğer aklınızı kullansanız.'",
+   "baglanti": "Burada 'doğu ve batı' tekil biçimde anılır; Rahmân 17'deki ikil kullanım, bu genel ifadenin daha ayrıntılı bir biçimidir."
+  },
+  {
+   "ref": "73:9",
+   "meal": "O, doğunun ve batının Rabbidir; O'ndan başka ilah yoktur, öyleyse O'nu vekil edinin.",
+   "baglanti": "Aynı tema burada tevhid vurgusuyla birleşir; Rahmân 17 bu rububiyeti ayrıca ikil sayıyla zenginleştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu güneşin doğuş ve batış noktalarındaki mevsimsel değişimin de Allah'ın düzeninde olduğudur.",
+  "Günlük hayatta bu, her günün, güneşin biraz farklı bir noktadan doğup battığı bir gün olduğunu fark etmeyi, bu değişen ama düzenli akışın bir nimet olduğunu hatırlamayı sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gün doğumunu fark et",
+   "aciklama": "Bugün güneşin doğuşunu veya batışını birkaç dakika izle."
+  },
+  {
+   "baslik": "Mevsim değişimini düşün",
+   "aciklama": "Bugün içinde bulunduğun mevsimin getirdiği bir farkı fark et."
+  },
+  {
+   "baslik": "Düzenli bir güne başla",
+   "aciklama": "Bugün güne, gökteki düzene uygun, erken ve planlı başla."
+  }
+ ],
+ "bugununAdimi": "Bugün güneşin doğuşunu veya batışını fark ederek bir an dur, düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/55/17"
+  }
+ ]
+}

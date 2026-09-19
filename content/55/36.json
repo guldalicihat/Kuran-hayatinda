@@ -1,0 +1,82 @@
+{
+ "sure": 55,
+ "ayet": 36,
+ "durum": "taslak",
+ "meal": "Öyleyse Rabbinizin hangi nimetini yalanlarsınız?",
+ "mealNotu": "'Âlâ' kökü nimeti, iyiliği anlatır; çoğulu 'âlâi' burada 'nimetler' anlamındadır. 'Rabbikümâ' ve 'tükezzibân' Arapçadaki ikil (tesniye) çekimiyle gelir; Türkçede ikil olmadığı için 'Rabbiniz' ve 'yalanlarsınız' ile karşılanmıştır; bu ikil hitap, cin ve insan topluluklarına birlikte yöneliktir.",
+ "kokler": [
+  {
+   "kelime": "فَبِأَىِّ",
+   "okunus": "febieyyi",
+   "kok": "أيي",
+   "kokAnlam": "seçme, hangisi; soru sıfatı",
+   "karsilik": "öyleyse hangi"
+  },
+  {
+   "kelime": "ءَالَآءِ",
+   "okunus": "âlâi",
+   "kok": "ألو",
+   "kokAnlam": "nimet, iyilik, lütuf",
+   "karsilik": "nimetini"
+  },
+  {
+   "kelime": "رَبِّكُمَا",
+   "okunus": "rabbikümâ",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, yetiştiren, sahip",
+   "karsilik": "Rabbinizin (ikinizin)"
+  },
+  {
+   "kelime": "تُكَذِّبَانِ",
+   "okunus": "tükezzibâni",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama, gerçeği örtme",
+   "karsilik": "yalanlarsınız (ikiniz)"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu nakarat, alev ve bakır/duman azabının hemen ardından gelir. Bu tekrar, diğerlerinden farklı bir yerde durur: burada nimet, azabın kendisi değil, ondan önce açıkça uyarılmış olmaktır. Kimse 'bilmiyordum' diyemeyecek kadar net bir uyarı yapılmıştır.",
+  "Bir tehlikeyi önceden haber vermek, bir çeşit merhamettir; sure bu sert sahneyi bile bir nimet çerçevesinde sorar, çünkü uyarı insanı hazırlıklı kılar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "77:31",
+   "meal": "Ne gölgelendirir ne de alevden korur.",
+   "baglanti": "Azaptan kaçacak bir sığınağın olmaması burada da aynı kesinlikle anlatılır; Rahmân 35'teki 'kendinizi kurtaramazsınız' ifadesiyle örtüşür."
+  },
+  {
+   "ref": "14:16",
+   "meal": "Ardından cehennem vardır; kendisine irinli sudan içirilir.",
+   "baglanti": "Ateşle ilgili azap sahneleri burada da benzer bir üslupla, abartısız anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, hesap gününde bekleyen sonucun önceden haber verilmiş olmasıdır.",
+  "Günlük hayatta bu, bir uyarıyı duyduğunda görmezden gelmemeyi, ciddiye almayı hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Uyarana kulak ver",
+   "aciklama": "Bugün seni iyilik için uyaran birine kızmadan teşekkür et."
+  },
+  {
+   "baslik": "Riski görmezden gelme",
+   "aciklama": "Bugün fark ettiğin bir riski, ertelemeden ele al."
+  },
+  {
+   "baslik": "Şeytanın yoluna uyma",
+   "aciklama": "Bugün kolay ama yanlış bir yolu değil, zor ama doğru olanı seç."
+  }
+ ],
+ "bugununAdimi": "Bugün kolay ama yanlış bir seçenek yerine, zor ama doğru olanı seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=36"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/55/36"
+  }
+ ]
+}

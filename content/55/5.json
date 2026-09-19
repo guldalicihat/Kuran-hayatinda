@@ -1,0 +1,75 @@
+{
+ "sure": 55,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Güneş ve ay bir hesaba göre[dir].",
+ "mealNotu": "'Husban' kökü hesap etmeyi, ölçülü bir düzeni anlatır. Cümlede yüklem açık yazılmaz; hareket/döngü anlamı bağlamdan anlaşıldığı için köşeli parantezle eklendi.",
+ "kokler": [
+  {
+   "kelime": "ٱلشَّمْسُ",
+   "okunus": "eşşemsü",
+   "kok": "شمس",
+   "kokAnlam": "güneş",
+   "karsilik": "güneş"
+  },
+  {
+   "kelime": "وَٱلْقَمَرُ",
+   "okunus": "vel kameru",
+   "kok": "قمر",
+   "kokAnlam": "ay",
+   "karsilik": "ve ay"
+  },
+  {
+   "kelime": "بِحُسْبَانٍ",
+   "okunus": "bihusbânin",
+   "kok": "حسب",
+   "kokAnlam": "hesap etme, ölçülü düzen",
+   "karsilik": "bir hesaba göredir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Yer nimetlerinden önce, sure gökteki iki büyük işarete döner: güneş ve ay. 'Husban' kökü, rastgele değil ölçülü, hesaplı bir hareketi anlatır; bu iki gök cismi sabit bir düzene göre hareket eder.",
+  "Bu ayet, insanın zamanı ölçmesini, mevsimleri ve günleri hesaplamasını mümkün kılan düzenin kaynağını gösterir. Güneş ve ayın hareketindeki bu kesin hesap, sonraki ayetlerdeki mizan (denge) temasına da bir giriş sayılabilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:5",
+   "meal": "Güneşi bir ışık, ayı bir nur kılan ve yılların sayısını ve hesabı bilesiniz diye ona menziller takdir eden O'dur.",
+   "baglanti": "Aynı 'hesap' kökü burada da geçer; güneş ve ayın hareketinin amacı, zamanın hesaplanabilmesi olarak açıklanır."
+  },
+  {
+   "ref": "36:39",
+   "meal": "Ay için de menziller tayin ettik; nihayet o, eski hurma salkımının çubuğu gibi (incelmiş) döner.",
+   "baglanti": "Ayın belirli evrelerle hareket ettiği burada ayrıntılandırılır; Rahmân 5'teki 'hesap' ifadesinin somut örneğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu güneş ve ayın hesaplı hareketidir; bu, doğrudan gözlemlenebilen bir düzendir.",
+  "Günlük hayatta bu düzen sayesinde vakit, gün, ay ve mevsim hesaplanır. Bu, zamanı boşa harcamamak için bir hatırlatıcı olabilir; her gün, kendinden önce hesaplanmış bir düzenin parçasıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zamanını planla",
+   "aciklama": "Bugün gününü küçük bir plana göre geçir; zamanın hesaplı aktığını unutma."
+  },
+  {
+   "baslik": "Bir gün batımını izle",
+   "aciklama": "Bugün güneşin batışını birkaç dakika izleyip bu düzeni düşün."
+  },
+  {
+   "baslik": "Vaktini boşa harcama",
+   "aciklama": "Bugün amaçsızca geçirdiğin bir saati fark et ve onu anlamlı bir işe çevir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir vaktini, boşa geçirmeden, belirlediğin bir işe ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/55/5"
+  }
+ ]
+}
