@@ -1,0 +1,110 @@
+{
+ "sure": 27,
+ "ayet": 29,
+ "durum": "taslak",
+ "meal": "[Melike] dedi ki: 'Ey ileri gelenler! Gerçekten bana çok değerli bir mektup bırakıldı.'",
+ "mealNotu": "Köşeli parantezdeki [Melike] ifadesi, bir önceki ayetten devam eden bağlamı netleştirmek için eklendi. 'Kerîm' kökü, değerlilik ve saygınlığı birlikte anlatır.",
+ "kokler": [
+  {
+   "kelime": "قَالَتْ",
+   "okunus": "kâlet",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلْمَلَؤُا۟",
+   "okunus": "elmeleü",
+   "kok": "ملأ",
+   "kokAnlam": "doluluk; ileri gelenler",
+   "karsilik": "ileri gelenler"
+  },
+  {
+   "kelime": "إِنِّىٓ",
+   "okunus": "innî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten bana",
+   "karsilik": "gerçekten bana"
+  },
+  {
+   "kelime": "أُلْقِىَ",
+   "okunus": "ülkıye",
+   "kok": "لقي",
+   "kokAnlam": "bırakılma, ulaştırılma",
+   "karsilik": "bırakıldı"
+  },
+  {
+   "kelime": "إِلَىَّ",
+   "okunus": "ileyye",
+   "kok": "—",
+   "kokAnlam": "(edat) bana",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "كِتَٰبٌ",
+   "okunus": "kitâbün",
+   "kok": "كتب",
+   "kokAnlam": "yazı, kitap, mektup",
+   "karsilik": "bir mektup"
+  },
+  {
+   "kelime": "كَرِيمٌ",
+   "okunus": "kerîmün",
+   "kok": "كرم",
+   "kokAnlam": "değerlilik, saygınlık",
+   "karsilik": "değerli"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sahne şimdi Sebe melikesinin sarayına taşınır. Mektup ulaşınca melike hemen tek başına karar vermez; ileri gelenlerini çağırıp durumu onlarla paylaşır. Bu, kıssanın ilerleyen ayetlerinde görülecek istişareci tutumunun ilk işaretidir.",
+  "Mektubu 'kerîm' (değerli) diye nitelemesi, onun içeriğinden çok biçiminden -kimden geldiği, nasıl sunulduğu- kaynaklanan bir izlenim olabilir; devam eden ayetler mektubun içeriğini (besmele ve davet) açıklayacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "27:30",
+   "meal": "Gerçekten o, Süleyman'dandır ve gerçekten o, Rahman ve Rahim olan Allah'ın adıyladır.",
+   "baglanti": "Aynı surenin hemen sonraki ayeti, melikenin sözünü ettiği mektubun içeriğini aktararak bu sahneyi tamamlar."
+  },
+  {
+   "ref": "34:15",
+   "meal": "Andolsun, Sebe halkı için yurtlarında bir ayet vardı.",
+   "baglanti": "Sebe suresi, bu mektubu alan topluluğun kimliğini ve yaşadığı refahı ayrıca tanıtır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bir liderin önemli bir haberi tek başına değil, danışarak ele almasıdır. Bugüne taşınabilecek ders, önemli bir karar veya bilgiyle karşılaştığında bunu güvendiğin kişilerle paylaşmanın değeridir.",
+  "Sen de önemli bir haberi aldığında, hemen tek başına bir sonuca varmak yerine güvendiğin birine danışabilirsin. Bu, hem daha isabetli bir karar almanı sağlar hem de kararın sorumluluğunu paylaşır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önemli bir konuda danış",
+   "aciklama": "Bugün karşılaştığın önemli bir haberi veya kararı, güvendiğin biriyle paylaş."
+  },
+  {
+   "baslik": "Tek başına karar vermekten kaçın",
+   "aciklama": "Büyük bir kararı vermeden önce en az bir kişinin görüşünü al."
+  },
+  {
+   "baslik": "Değerli bir bilgiyi ciddiye al",
+   "aciklama": "Sana ulaşan önemli bir bilgiyi hafife almadan üzerinde düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün önemli bir konuda karar vermeden önce güvendiğin birine danış.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=29"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/29"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "sure": 27,
+ "ayet": 27,
+ "durum": "taslak",
+ "meal": "[Süleyman] dedi ki: 'Doğru mu söyledin yoksa yalancılardan mı oldun, göreceğiz.'",
+ "mealNotu": "Köşeli parantezdeki [Süleyman] ifadesi, önceki ayetlerden devam eden özneyi netleştirmek için eklendi.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "سَنَنظُرُ",
+   "okunus": "senenzuru",
+   "kok": "نظر",
+   "kokAnlam": "bakma, görme",
+   "karsilik": "göreceğiz"
+  },
+  {
+   "kelime": "أَصَدَقْتَ",
+   "okunus": "esadekte",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk",
+   "karsilik": "doğru mu söyledin"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "كُنتَ",
+   "okunus": "künte",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldun"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْكَٰذِبِينَ",
+   "okunus": "elkâzibîne",
+   "kok": "كذب",
+   "kokAnlam": "yalan",
+   "karsilik": "yalancılardan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Süleyman, hüdhüdün getirdiği ilginç haberi hemen kabul etmez; onu doğrulukla sınayacağını söyler. Bu tepki, 21. ayetteki tehdidinde bıraktığı adil çerçeveyle tutarlıdır: hüdhüde önce delil getirme fırsatı tanımıştı, şimdi de getirdiği delili değerlendirir.",
+  "Ayetin devamında (28. ayet) Süleyman bu doğrulamayı somut bir yönteme bağlayacaktır: bir mektup göndermek ve tepkiyi gözlemlemek. Bu, büyük bir güce sahip olan birinin bile bilgiyi kontrolsüz kabul etmediğini, temkinli davrandığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "49:6",
+   "meal": "Ey iman edenler! Size bir fasık bir haberle gelirse, onu araştırın; bilmeden bir topluluğa zarar verip sonra pişman olmayasınız.",
+   "baglanti": "Hucurât suresi, bir haberi hemen kabul etmeden araştırmayı emreder; Süleyman'ın tutumu bu ilkenin erken bir örneğidir."
+  },
+  {
+   "ref": "27:22",
+   "meal": "Çok geçmeden geldi ve dedi ki: Senin bilmediğin bir şeyi öğrendim ve sana Sebe'den kesin bir haber getirdim.",
+   "baglanti": "Aynı surede birkaç ayet önce hüdhüdün kendi iddiası 'kesin' diye nitelenmişti; Süleyman'ın burada yine de sınaması, iddianın kendiliğinden yeterli olmadığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bir bilginin doğruluğunu sınama kararlılığıdır. Bugüne taşınabilecek ders, sana ulaşan bir haberi -ne kadar ilginç veya güvenilir görünürse görünsün- doğrulamadan yaymamak veya ona göre karar vermemektir.",
+  "Sen de bugün duyduğun bir bilgiyi hemen kabul etmek yerine, kısa bir süre için 'bunu nasıl doğrulayabilirim' diye düşünebilirsin. Bu küçük bir gecikme, yanlış bir bilgiye dayanarak yanlış bir karar vermeni önleyebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir bilgiyi doğrula",
+   "aciklama": "Bugün duyduğun bir haberi, harekete geçmeden önce başka bir kaynaktan kontrol et."
+  },
+  {
+   "baslik": "Acele karar verme",
+   "aciklama": "Önemli bir kararı, elindeki bilgiyi teyit etmeden verme."
+  },
+  {
+   "baslik": "Adil bir değerlendirme yap",
+   "aciklama": "Birinin sana anlattığı bir şeyi değerlendirirken önyargısız davran."
+  }
+ ],
+ "bugununAdimi": "Bugün sana ulaşan bir haberi, ona göre hareket etmeden önce bir kez doğrula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=27"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/27"
+  }
+ ]
+}

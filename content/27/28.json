@@ -1,0 +1,131 @@
+{
+ "sure": 27,
+ "ayet": 28,
+ "durum": "taslak",
+ "meal": "Bu mektubumla git, onu kendilerine ulaştır; sonra onlardan biraz uzaklaş ve ne sonuca varacaklarına bak.",
+ "mealNotu": "'Yerciûn' fiili رجع kökünden gelir; burada mektuba nasıl bir tepki vereceklerini, ne karara varacaklarını anlatır, 'ulaştır' ile 'sonuca varmak' fiilleri aynı çeviriye kavuşturulmadı.",
+ "kokler": [
+  {
+   "kelime": "ٱذْهَب",
+   "okunus": "izheb",
+   "kok": "ذهب",
+   "kokAnlam": "gitme",
+   "karsilik": "git"
+  },
+  {
+   "kelime": "بِّكِتَٰبِى",
+   "okunus": "bikitâbî",
+   "kok": "كتب",
+   "kokAnlam": "yazı, kitap, mektup",
+   "karsilik": "mektubumla"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "فَأَلْقِهْ",
+   "okunus": "feelkıh",
+   "kok": "لقي",
+   "kokAnlam": "bırakma, ulaştırma",
+   "karsilik": "onu ulaştır"
+  },
+  {
+   "kelime": "إِلَيْهِمْ",
+   "okunus": "ileyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "تَوَلَّ",
+   "okunus": "tevelle",
+   "kok": "ولي",
+   "kokAnlam": "dönme, uzaklaşma",
+   "karsilik": "uzaklaş"
+  },
+  {
+   "kelime": "عَنْهُمْ",
+   "okunus": "anhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "فَٱنظُرْ",
+   "okunus": "fenzur",
+   "kok": "نظر",
+   "kokAnlam": "bakma",
+   "karsilik": "bak"
+  },
+  {
+   "kelime": "مَاذَا",
+   "okunus": "mâzâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "يَرْجِعُونَ",
+   "okunus": "yerciûne",
+   "kok": "رجع",
+   "kokAnlam": "dönme, sonuca varma",
+   "karsilik": "sonuca varacaklarına"
+  }
+ ],
+ "neAnlatiyor": [
+  "Süleyman, doğrulama sürecini bir mektup göndererek somutlaştırır. Hüdhüde verdiği talimat üç aşamalıdır: mektubu ulaştır, biraz geri çekil, sonra tepkilerini gözlemle. Bu, doğrudan müdahale etmek yerine önce gözlem yapmayı tercih eden temkinli bir yaklaşımdır.",
+  "'Tevelle anhüm' (onlardan uzaklaş) ifadesi, hüdhüdün onların tepkisini olduğu gibi, müdahalesiz görmesini sağlamak içindir. Bu küçük ayrıntı, doğru bir bilgiye ulaşmanın bazen araya girmeden, sadece izlemekle mümkün olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "27:29",
+   "meal": "Melike dedi ki: Ey ileri gelenler! Gerçekten bana çok değerli bir mektup bırakıldı.",
+   "baglanti": "Aynı surenin hemen sonraki ayeti, bu mektubun ulaştığı anı ve melikenin ona verdiği tepkiyi anlatarak Süleyman'ın talimatının sonucunu gösterir."
+  },
+  {
+   "ref": "34:13",
+   "meal": "Süleyman'a dilediği gibi mihraplar, heykeller ve büyük çanaklar yaparlardı; ey Davud ailesi, şükür için çalışın.",
+   "baglanti": "Sebe suresi, Süleyman'a verilen imkânların genişliğini anlatır; bu genişlik, onun bir mektupla uzak bir ülkeye ulaşabilecek bir otoriteye sahip olduğunu da açıklar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bir haberi doğrulamak için izlenen yöntemdir: iletmek, geri çekilmek, gözlemlemek. Bugüne taşınabilecek ders, bir konuda net bir sonuca varmak istediğinde bazen doğrudan müdahale etmek yerine sabırla gözlemlemenin daha isabetli olduğudur.",
+  "Sen de bir mesajı ilettikten sonra karşındakinin tepkisini görmeden önce sonucu tahmin etmeye çalışmak yerine, ona zaman ve alan tanıyabilirsin. Bu, hem karşındaki kişiye saygı gösterir hem de senin daha sağlıklı bir değerlendirme yapmanı sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Mesajını ilet, sonra bekle",
+   "aciklama": "Bugün önemli bir mesajı ilettikten sonra, cevabı zorlamadan bekle."
+  },
+  {
+   "baslik": "Gözlemle, hemen yorum yapma",
+   "aciklama": "Bir durumu değerlendirirken, önce sessizce gözlemlemeyi dene."
+  },
+  {
+   "baslik": "Alan tanı",
+   "aciklama": "Bir konuda karşındaki kişiye düşünmesi için zaman ve alan ver."
+  }
+ ],
+ "bugununAdimi": "Bugün ilettiğin bir mesajın ardından, cevabı zorlamadan sabırla bekle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=28"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/28"
+  }
+ ]
+}

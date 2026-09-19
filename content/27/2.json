@@ -1,0 +1,75 @@
+{
+ "sure": 27,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "[O,] müminler için bir hidayet ve müjdedir.",
+ "mealNotu": "Ayette özne açıkça belirtilmez; bağlam önceki ayetteki 'Kur'an ve apaçık kitab'a işaret ettiği için özne [O] olarak köşeli parantezle eklendi.",
+ "kokler": [
+  {
+   "kelime": "هُدًى",
+   "okunus": "hüden",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu bulma, rehberlik",
+   "karsilik": "bir hidayet(tir)"
+  },
+  {
+   "kelime": "وَبُشْرَىٰ",
+   "okunus": "ve büşrâ",
+   "kok": "بشر",
+   "kokAnlam": "müjde, sevindirici haber",
+   "karsilik": "ve müjdedir"
+  },
+  {
+   "kelime": "لِلْمُؤْمِنِينَ",
+   "okunus": "lilmü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "müminler için"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayette tanıtılan kitabın iki temel işlevini sayar: hidayet (doğru yolu gösterme) ve müjde (sevindirici haber). Her iki nitelik de 'müminler için' kaydıyla anılır; kitabın rehberlik ve müjde yönü, ona güvenerek yaklaşanlarda karşılığını bulur.",
+  "'Hüdâ' kökü yol gösterme, doğru istikameti bulma anlamındadır; 'büşrâ' kökü ise sevindiren, yüzü aydınlatan haberi ifade eder. Kur'an burada yalnızca bir bilgi kaynağı değil, hem yön gösteren hem de sevindiren bir kitap olarak tanıtılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:2",
+   "meal": "Bu, kendisinde şüphe olmayan kitaptır; muttakiler için bir hidayettir.",
+   "baglanti": "Bakara suresi de kitabı benzer şekilde 'hüden' (hidayet) diye tanımlar; burada muhatap müminler, orada muttakiler olarak anılır."
+  },
+  {
+   "ref": "16:89",
+   "meal": "Sana her şeyi açıklayan kitabı; bir hidayet, bir rahmet ve müslümanlar için bir müjde olarak indirdik.",
+   "baglanti": "Nahl suresindeki bu ayet, 'hüden' ve 'büşrâ' kelimelerini neredeyse aynı sırayla bir arada kullanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan Kur'an'ın niteliğidir. Bugüne taşınabilecek ders, ondan hem bir yol gösterici hem de iyi bir haber beklemektir; yalnızca yasak ve emirler listesi olarak değil.",
+  "Bir rehbere güvenerek yaklaşmak, onun sana bir şey söyleyeceğini kabul etmekle başlar. Kur'an'ı okurken kendine 'burada beni nereye yönlendiriyor, hangi müjdeyi veriyor' diye sorman, okumanı daha canlı hale getirebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ayeti kararına uygula",
+   "aciklama": "Bugün okuduğun bir ayetten, bugünkü bir tercihine uygulayabileceğin tek bir noktayı bul."
+  },
+  {
+   "baslik": "Güzel bir haberi paylaş",
+   "aciklama": "Kur'an'dan öğrendiğin sevindirici bir noktayı yakınlarından biriyle paylaş."
+  },
+  {
+   "baslik": "Yönünü gözden geçir",
+   "aciklama": "Günün sonunda bugünkü seçimlerinin seni doğru yöne mi götürdüğünü kısaca düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün okuduğun bir ayetin sana nasıl bir yol gösterdiğini tek cümleyle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/2"
+  }
+ ]
+}

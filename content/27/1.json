@@ -1,0 +1,96 @@
+{
+ "sure": 27,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Tâ, Sîn. Bunlar, Kur'an'ın ve apaçık bir kitabın ayetleridir.",
+ "mealNotu": "Sure, Kur'an'da bazı surelerin başında bulunan 'mukattaa harfleri' ile açılır; bu harflerin kesin anlamı bilinmediği için 'Tâ Sîn' olduğu gibi bırakıldı. 'Mübîn' kökü (بين) 'açık, ayırt edici' demektir.",
+ "kokler": [
+  {
+   "kelime": "طسٓ",
+   "okunus": "tâ sîn",
+   "kok": "—",
+   "kokAnlam": "(mukattaa) Kur'an'a özgü kesik harfler",
+   "karsilik": "Tâ, Sîn"
+  },
+  {
+   "kelime": "تِلْكَ",
+   "okunus": "tilke",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunlar, şunlar",
+   "karsilik": "bunlar"
+  },
+  {
+   "kelime": "ءَايَٰتُ",
+   "okunus": "âyâtü",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet; ayet",
+   "karsilik": "ayetleridir"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانِ",
+   "okunus": "elkur'âni",
+   "kok": "قرأ",
+   "kokAnlam": "okuma; Kur'an",
+   "karsilik": "Kur'an'ın"
+  },
+  {
+   "kelime": "وَكِتَابٍ",
+   "okunus": "ve kitâbin",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "ve bir kitabın"
+  },
+  {
+   "kelime": "مُّبِينٍ",
+   "okunus": "mübînin",
+   "kok": "بين",
+   "kokAnlam": "açıklık, ayırt etme",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, Arap alfabesinden iki harfle -Tâ ve Sîn- açılır. Kur'an'da yirmi dokuz surenin başında bulunan bu tür 'mukattaa' harflerinin anlamı kesin olarak bilinmez; klasik tefsir bunlar hakkında farklı görüşler nakleder. Ayet, bu harflerden hemen sonra okunmakta olan metnin Kur'an'ın ve apaçık bir kitabın ayetleri olduğunu söyler.",
+  "'Kitap' ve 'Kur'an' burada aynı vahyin iki yönüne işaret eder: yazılı metin ve okunan söz. 'Mübîn' kökü açıklığı, ayırt ediciliği anlatır; yani bu kitap kapalı değil, anlaşılır ve hakkı batıldan ayırt eder niteliktedir. Neml suresi, Musa, Süleyman ve geçmiş toplulukların kıssaları üzerinden ilerleyecek mesajını böylece daha ilk ayette çerçeveler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:1",
+   "meal": "Elif, Lâm, Râ. Bunlar kitabın ve apaçık bir Kur'an'ın ayetleridir.",
+   "baglanti": "Hicr suresinin açılışı, 27:1'deki 'kitap ve apaçık Kur'an' ifadesiyle neredeyse aynı kalıbı kullanır."
+  },
+  {
+   "ref": "26:2",
+   "meal": "Bunlar apaçık kitabın ayetleridir.",
+   "baglanti": "Şuarâ suresi de mukattaa harflerinden sonra aynı 'tilke âyâtü'l-kitâbi'l-mübîn' kalıbıyla başlar; Şuarâ, Neml ve Kasas sureleri bu açılışı paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, okunmakta olan bu kitabın niteliğidir: açık, ayırt edici bir metin. Bugüne taşınabilecek ders, Kur'an'ı kapalı bir metin gibi değil, anlaşılmak üzere okunan bir kitap olarak ele almaktır.",
+  "Bir metni 'apaçık' kabul etmek, onu okurken anlamaya çalışmayı da gerektirir. Sen de bir ayeti okuduğunda sadece geçmek yerine, ne dediğini anlamaya çalışarak durabilirsin; bu, kitabın kendi tanımladığı 'mübîn' niteliğine uygun bir okuma biçimidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir sureyi mealiyle oku",
+   "aciklama": "Bugün Neml suresinin ilk birkaç ayetini hem Arapçasıyla hem mealiyle oku."
+  },
+  {
+   "baslik": "Anlamadığın bir kelimeyi not et",
+   "aciklama": "Okurken takıldığın bir ifadeyi yaz, sonra kökünü veya anlamını araştır."
+  },
+  {
+   "baslik": "Kısa bir özet çıkar",
+   "aciklama": "Okuduğun bölümün ana fikrini tek cümleyle kendi kelimelerinle yaz."
+  }
+ ],
+ "bugununAdimi": "Bugün Neml suresinin ilk üç ayetini mealiyle birlikte oku ve ana fikrini bir cümleyle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/1"
+  }
+ ]
+}

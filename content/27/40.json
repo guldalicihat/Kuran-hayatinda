@@ -1,0 +1,320 @@
+{
+ "sure": 27,
+ "ayet": 40,
+ "durum": "taslak",
+ "meal": "Kendisinde kitaptan bir ilim olan kişi dedi ki: 'Ben onu, gözünü açıp kapamadan sana getiririm.' [Süleyman] onu yanında yerleşmiş görünce dedi ki: 'Bu, Rabbimin lütfundandır; şükür mü edeceğim yoksa nankörlük mü edeceğim diye beni sınamak içindir. Kim şükrederse ancak kendisi için şükretmiş olur; kim de nankörlük ederse, şüphesiz Rabbim hiçbir şeye muhtaç değildir, cömerttir.'",
+ "mealNotu": "Köşeli parantezdeki [Süleyman] ifadesi, cümlenin öznesini netleştirmek için eklendi. 'Kitaptan bir ilim' ifadesinin kime ait olduğu ayette açıklanmaz; klasik tefsir bu konuda farklı görüşler nakleder, kesin bir isim verilmez.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki o kişi",
+   "karsilik": "kendisinde"
+  },
+  {
+   "kelime": "عِندَهُۥ",
+   "okunus": "indehû",
+   "kok": "عند",
+   "kokAnlam": "kat, yan",
+   "karsilik": "olan"
+  },
+  {
+   "kelime": "عِلْمٌ",
+   "okunus": "ilmün",
+   "kok": "علم",
+   "kokAnlam": "bilgi",
+   "karsilik": "bir ilim"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazı, kitap",
+   "karsilik": "kitaptan"
+  },
+  {
+   "kelime": "أَنَا۠",
+   "okunus": "ene",
+   "kok": "—",
+   "kokAnlam": "(zamir) ben",
+   "karsilik": "ben"
+  },
+  {
+   "kelime": "ءَاتِيكَ",
+   "okunus": "âtîke",
+   "kok": "أتي",
+   "kokAnlam": "getirme",
+   "karsilik": "sana getiririm"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "قَبْلَ",
+   "okunus": "kable",
+   "kok": "قبل",
+   "kokAnlam": "önce",
+   "karsilik": "önce"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -meden",
+   "karsilik": "-meden"
+  },
+  {
+   "kelime": "يَرْتَدَّ",
+   "okunus": "yertedde",
+   "kok": "ردد",
+   "kokAnlam": "geri dönme",
+   "karsilik": "geri dönmesinden"
+  },
+  {
+   "kelime": "إِلَيْكَ",
+   "okunus": "ileyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "طَرْفُكَ",
+   "okunus": "tarfüke",
+   "kok": "طرف",
+   "kokAnlam": "göz ucu, bakış",
+   "karsilik": "gözünün"
+  },
+  {
+   "kelime": "فَلَمَّا",
+   "okunus": "felemmâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) gördüğünde",
+   "karsilik": "gördüğünde"
+  },
+  {
+   "kelime": "رَءَاهُ",
+   "okunus": "raâhü",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "onu gördü"
+  },
+  {
+   "kelime": "مُسْتَقِرًّا",
+   "okunus": "müstekırran",
+   "kok": "قرر",
+   "kokAnlam": "yerleşme, karar kılma",
+   "karsilik": "yerleşmiş halde"
+  },
+  {
+   "kelime": "عِندَهُۥ",
+   "okunus": "indehû",
+   "kok": "عند",
+   "kokAnlam": "kat, yan",
+   "karsilik": "kendi yanında"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -dendir",
+   "karsilik": "-dendir"
+  },
+  {
+   "kelime": "فَضْلِ",
+   "okunus": "fadli",
+   "kok": "فضل",
+   "kokAnlam": "lütuf, üstünlük",
+   "karsilik": "lütfundandır"
+  },
+  {
+   "kelime": "رَبِّى",
+   "okunus": "rabbî",
+   "kok": "ربب",
+   "kokAnlam": "Rab",
+   "karsilik": "Rabbimin"
+  },
+  {
+   "kelime": "لِيَبْلُوَنِىٓ",
+   "okunus": "liyeblüvenî",
+   "kok": "بلو",
+   "kokAnlam": "deneme, sınama",
+   "karsilik": "beni sınamak içindir"
+  },
+  {
+   "kelime": "ءَأَشْكُرُ",
+   "okunus": "eeşküru",
+   "kok": "شكر",
+   "kokAnlam": "şükretme",
+   "karsilik": "şükür mü edeceğim"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "أَكْفُرُ",
+   "okunus": "ekfüru",
+   "kok": "كفر",
+   "kokAnlam": "nankörlük, inkâr",
+   "karsilik": "nankörlük mü edeceğim"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "شَكَرَ",
+   "okunus": "şekera",
+   "kok": "شكر",
+   "kokAnlam": "şükretme",
+   "karsilik": "şükrederse"
+  },
+  {
+   "kelime": "فَإِنَّمَا",
+   "okunus": "feinnemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "يَشْكُرُ",
+   "okunus": "yeşküru",
+   "kok": "شكر",
+   "kokAnlam": "şükretme",
+   "karsilik": "şükretmiş olur"
+  },
+  {
+   "kelime": "لِنَفْسِهِۦ",
+   "okunus": "linefsihî",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi",
+   "karsilik": "kendisi için"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "كَفَرَ",
+   "okunus": "kefera",
+   "kok": "كفر",
+   "kokAnlam": "nankörlük",
+   "karsilik": "nankörlük ederse"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "رَبِّى",
+   "okunus": "rabbî",
+   "kok": "ربب",
+   "kokAnlam": "Rab",
+   "karsilik": "Rabbim"
+  },
+  {
+   "kelime": "غَنِىٌّ",
+   "okunus": "ganiyyün",
+   "kok": "غني",
+   "kokAnlam": "zenginlik, ihtiyaçsızlık",
+   "karsilik": "hiçbir şeye muhtaç değildir"
+  },
+  {
+   "kelime": "كَرِيمٌ",
+   "okunus": "kerîmün",
+   "kok": "كرم",
+   "kokAnlam": "cömertlik, değerlilik",
+   "karsilik": "cömerttir"
+  }
+ ],
+ "neAnlatiyor": [
+  "İfritin teklifinin ardından, kendisinde kitaptan bir ilim olan başka biri çok daha hızlı bir teklif sunar: göz açıp kapayıncaya kadar kısa bir sürede tahtı getirebileceğini söyler. Tahtı gerçekten yanında hazır gören Süleyman, bunu kendi başarısı değil, doğrudan Allah'ın bir lütfu ve sınaması olarak değerlendirir.",
+  "Ayetin son cümlesi, şükür ve nankörlüğün sonucunu netleştirir: şükreden kendi yararına şükreder, nankörlük eden de bilmelidir ki Allah hiçbir şeye muhtaç değildir. Süleyman, elde ettiği bu olağanüstü sonucu bir övünme değil bir sınav olarak görmesiyle, surenin başından beri süregelen 'nimet karşısında şükür' temasını tamamlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "31:12",
+   "meal": "Kim şükrederse ancak kendisi için şükretmiş olur; kim nankörlük ederse, şüphesiz Allah hiçbir şeye muhtaç değildir, övgüye layıktır.",
+   "baglanti": "Lokman suresindeki bu cümle, Neml 40'ın son kısmıyla neredeyse kelimesi kelimesine aynıdır; şükrün kişinin kendi yararına olduğu ilkesi iki surede de aynı şekilde ifade edilir."
+  },
+  {
+   "ref": "14:7",
+   "meal": "Rabbiniz şöyle bildirmişti: Şükrederseniz elbette size artırırım; nankörlük ederseniz, şüphesiz azabım çok şiddetlidir.",
+   "baglanti": "İbrahim suresi, şükür ile nankörlüğün sonuçlarını daha açık bir dille anlatır; Süleyman'ın burada kendine sorduğu 'şükür mü, nankörlük mü' sorusunun ağırlığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, olağanüstü bir sonuç elde eden Süleyman'ın buna verdiği tepkidir; bu tepki bir övünme değil bir öz sorgulamadır. Bugüne taşınabilecek ders, büyük bir başarı elde ettiğinde bunu kendi gücüne değil, bir imkâna bağlı olarak görmenin önemidir.",
+  "Sen de beklenmedik bir şekilde kolay gelen bir başarı veya imkânla karşılaştığında, hemen kendini övmek yerine 'bunu nasıl kullanacağım, şükür mü nankörlük mü göstereceğim' diye kendine sorabilirsin. Bu küçük bir duraklama, seni büyük bir nimeti hoyratça kullanmaktan koruyabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir başarını sorgula",
+   "aciklama": "Bugün kolayca elde ettiğin bir sonucu, kendi başarın olarak görmek yerine bir imkân olarak düşün."
+  },
+  {
+   "baslik": "Şükrünü göster",
+   "aciklama": "Bugün sana verilen bir nimet için, somut bir şekilde -sözle veya davranışla- şükret."
+  },
+  {
+   "baslik": "Nankörlükten kaçın",
+   "aciklama": "Sahip olduğun bir şeyi hafife almak yerine, onun değerini bilerek kullan."
+  }
+ ],
+ "bugununAdimi": "Bugün sana kolayca gelen bir imkân veya sonuç için somut bir şekilde şükret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=40"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/40"
+  }
+ ]
+}

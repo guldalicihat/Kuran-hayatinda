@@ -1,0 +1,103 @@
+{
+ "sure": 27,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Şüphesiz sen, hikmet sahibi ve hakkıyla bilen [Allah'ın] katından bu Kur'an'a kavuşturuluyorsun.",
+ "mealNotu": "Köşeli parantezdeki [Allah'ın] ifadesi, ayette özel isim geçmediği ama 'ledün' (kat) kelimesinin bağlamdan kime ait olduğunun belli olduğu için eklendi. 'Letülekkâ' pasif fiili 'kavuşturuluyorsun/ulaştırılıyorsun' diye çevrildi.",
+ "kokler": [
+  {
+   "kelime": "وَإِنَّكَ",
+   "okunus": "ve inneke",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz sen",
+   "karsilik": "şüphesiz sen"
+  },
+  {
+   "kelime": "لَتُلَقَّى",
+   "okunus": "letülekkâ",
+   "kok": "لقي",
+   "kokAnlam": "buluşma, karşılaşma; ulaştırılma",
+   "karsilik": "kavuşturuluyorsun"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانَ",
+   "okunus": "elkur'âne",
+   "kok": "قرأ",
+   "kokAnlam": "okuma; Kur'an",
+   "karsilik": "Kur'an'a"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "لَّدُنْ",
+   "okunus": "ledün",
+   "kok": "لدن",
+   "kokAnlam": "kat, nezd",
+   "karsilik": "katından"
+  },
+  {
+   "kelime": "حَكِيمٍ",
+   "okunus": "hakîmin",
+   "kok": "حكم",
+   "kokAnlam": "hüküm verme, hikmet",
+   "karsilik": "hikmet sahibi"
+  },
+  {
+   "kelime": "عَلِيمٍ",
+   "okunus": "alîmin",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "hakkıyla bilenin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Musa kıssasına geçmeden önce Peygamber'e doğrudan seslenir ve bu Kur'an'ın nereden geldiğini hatırlatır: hikmet sahibi ve hakkıyla bilen Allah'ın katından. 'Letülekkâ' fiili edilgendir; Kur'an'a kavuşma, Peygamber'in kendi çabasıyla değil, kendisine ulaştırılan bir vahiy olarak sunulur.",
+  "'Hakîm' ve 'alîm' isimleri birlikte anılır; biri işin yerli yerince, hikmetle düzenlenmesini, diğeri her şeyi kuşatan bilgiyi anlatır. Devamında anlatılacak Musa, Davud, Süleyman kıssaları da bu iki niteliğin -hikmet ve ilim- farklı örnekleri olarak okunabilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "42:52",
+   "meal": "Sana da emrimizden bir ruh (Kur'an) vahyettik; sen kitap nedir, iman nedir bilmezdin.",
+   "baglanti": "Şûrâ suresi de Kur'an'ın Peygamber'e dışarıdan, kendi bilgisi olmayan bir kaynaktan ulaştırıldığını anlatır."
+  },
+  {
+   "ref": "76:23",
+   "meal": "Şüphesiz Kur'an'ı sana parça parça biz indirdik.",
+   "baglanti": "İnsan suresi de Kur'an'ın kaynağını doğrudan Allah'a bağlar; 27:6'daki 'katından' ifadesiyle aynı vurguyu taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan vahyin kaynağıdır; bu, Peygamber'e özgü bir durumdur ve herkes için birebir tekrarlanamaz. Bugüne taşınabilecek ders, elindeki bu metnin kaynağına duyduğun güvenle ilgilidir.",
+  "Bir sözün kimden geldiğini bilmek, ona nasıl yaklaşacağını da belirler. Kur'an'ı okurken onun hikmet ve ilim sahibi bir kaynaktan geldiğini hatırlaman, okumana daha ciddi bir dikkat katabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ayeti kaynağıyla birlikte oku",
+   "aciklama": "Bugün bir ayeti okurken, onun sana nasıl ulaştığını bir an düşün."
+  },
+  {
+   "baslik": "Güvenilir bir kaynaktan öğren",
+   "aciklama": "Bir dini konuda bugün öğrendiğin bilginin kaynağını sorgula, güvenilir mi kontrol et."
+  },
+  {
+   "baslik": "Hikmetle karar ver",
+   "aciklama": "Bugün bir kararını verirken aceleyle değil, sonucunu düşünerek ver."
+  }
+ ],
+ "bugununAdimi": "Bugün okuduğun bir ayetin kime ve nasıl ulaştığını bir cümleyle kendine hatırlat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/6"
+  }
+ ]
+}
