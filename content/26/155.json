@@ -1,0 +1,117 @@
+{
+ "sure": 26,
+ "ayet": 155,
+ "durum": "taslak",
+ "meal": "Dedi ki: 'İşte bu bir dişi devedir; onun bir su içme hakkı var, sizin de belli bir günün su içme hakkı var.'",
+ "mealNotu": "'Nâka' kelimesi نوق kökünden dişi deve; 'şirb' (شرب) su içme/içme hakkı anlamındadır. Deve ile kavim arasında su kullanımı sıraya bağlanır.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dedi ki"
+  },
+  {
+   "kelime": "هَٰذِهِۦ",
+   "okunus": "hâzihî",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "نَاقَةٌ",
+   "okunus": "nâkatün",
+   "kok": "نوق",
+   "kokAnlam": "dişi deve",
+   "karsilik": "bir dişi devedir"
+  },
+  {
+   "kelime": "لَّهَا",
+   "okunus": "lehâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onun",
+   "karsilik": "onun"
+  },
+  {
+   "kelime": "شِرْبُ",
+   "okunus": "şirbün",
+   "kok": "شرب",
+   "kokAnlam": "içme, su içme hakkı",
+   "karsilik": "bir su içme hakkı var"
+  },
+  {
+   "kelime": "وَلَكُمْ",
+   "okunus": "ve leküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ve sizin",
+   "karsilik": "ve sizin"
+  },
+  {
+   "kelime": "شِرْبُ",
+   "okunus": "şirbü",
+   "kok": "شرب",
+   "kokAnlam": "içme, su içme hakkı",
+   "karsilik": "su içme hakkı"
+  },
+  {
+   "kelime": "يَوْمٍ",
+   "okunus": "yevmin",
+   "kok": "يوم",
+   "kokAnlam": "gün, zaman",
+   "karsilik": "bir günün"
+  },
+  {
+   "kelime": "مَّعْلُومٍ",
+   "okunus": "ma'lûmin",
+   "kok": "علم",
+   "kokAnlam": "bilme, bilinen; belli, belirli",
+   "karsilik": "belli"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kavmin mucize talebine karşılık Sâlih'e verilen mucize, olağanüstü bir dişi devedir. Onun varlığı, kavim ile paylaşacağı su kaynağı üzerinden somut bir düzene bağlanır: deve belli bir gün suyu kullanır, kavim başka bir gün kullanır.",
+  "Bu düzenleme, mucizenin soyut bir gösteri değil, günlük hayata dokunan, sınanabilir bir işaret olduğunu gösterir. Sonraki ayetler, bu düzene uyulmasının şart koşulduğunu netleştirecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:73",
+   "meal": "İşte bu, Allah'ın devesi, sizin için bir mucizedir; onu bırakın, Allah'ın arzında yesin; ona kötülükle dokunmayın, yoksa sizi acı bir azap yakalar.",
+   "baglanti": "A'râf suresi, aynı deveyi 'Allah'ın devesi' olarak niteler ve ona dokunmama uyarısını ekler; burada ise su paylaşımı düzeni anlatılır."
+  },
+  {
+   "ref": "54:28",
+   "meal": "Onlara suyun aralarında paylaştırıldığını bildir; her içme hakkı sırasında hazır bulunsun.",
+   "baglanti": "Kamer suresi bu su paylaşım düzenini doğrudan 'suyun paylaştırılması' olarak açıklar; iki ayet birbirini tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Sâlih'e verilen mucize deve ve onunla ilgili bir su paylaşım düzenidir; bu özel ve tarihsel bir olaydır. Bugüne taşınabilecek ders, ortak bir kaynağı paylaşırken belirlenen kurallara uymanın önemidir.",
+  "Su, arazi, zaman gibi ortak kaynaklar paylaşılırken adil bir sıra veya kural konması, çatışmayı önler. Bu ayet, böyle bir düzenin ne kadar açık ve bağlayıcı olması gerektiğini gösterir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ortak kurala uy",
+   "aciklama": "Bugün paylaştığın bir kaynağı (araç, mutfak, zaman) belirlenen sıraya göre kullan."
+  },
+  {
+   "baslik": "Başkasının hakkına dokunma",
+   "aciklama": "Bugün bir ortak alanda, başkasına ayrılmış bir hakkı ihlal etmemeye özen göster."
+  },
+  {
+   "baslik": "Adil bir düzen öner",
+   "aciklama": "Bir paylaşım sorunu varsa, bugün net ve adil bir sıra önererek çözüm ara."
+  }
+ ],
+ "bugununAdimi": "Bugün paylaştığın bir kaynakta, sana ayrılan sırayı veya payı aşmadan kullan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=155"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/155"
+  }
+ ]
+}

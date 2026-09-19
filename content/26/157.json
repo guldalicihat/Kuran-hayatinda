@@ -1,0 +1,75 @@
+{
+ "sure": 26,
+ "ayet": 157,
+ "durum": "taslak",
+ "meal": "Onu kesip yaraladılar, sonra pişman oldular.",
+ "mealNotu": "'Feakarûhâ' fiili عقر kökünden, hayvanı kesme/sakatlama anlamındadır; 'nâdimîn' (ندم) pişmanlık bildirir.",
+ "kokler": [
+  {
+   "kelime": "فَعَقَرُوهَا",
+   "okunus": "feakarûhâ",
+   "kok": "عقر",
+   "kokAnlam": "hayvanı kesme, sakatlama, boğazlama",
+   "karsilik": "onu kesip yaraladılar"
+  },
+  {
+   "kelime": "فَأَصْبَحُوا۟",
+   "okunus": "feasbehû",
+   "kok": "صبح",
+   "kokAnlam": "sabaha erme; bir hale dönüşme",
+   "karsilik": "sonra oldular"
+  },
+  {
+   "kelime": "نَٰدِمِينَ",
+   "okunus": "nâdimîne",
+   "kok": "ندم",
+   "kokAnlam": "pişmanlık",
+   "karsilik": "pişman"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kavim, açık uyarıya rağmen deveyi kesip yaralar; bu, en ağır ihlalin gerçekleştiği andır. Fiil çoğul olarak gelir; bu, eylemi bir kişinin değil, kavmin ortak sorumluluğu olarak sunar (ileriki ayetlerde tek kişinin yaptığı da anlatılır, ama burada topluluk aynı akıbeti paylaşır).",
+  "Pişmanlık, eylemden sonra gelir; ama bu pişmanlık artık geri dönüşü olmayan bir eylemin ardından duyulur. Bu sıralama, önce uyarılmış olmalarına rağmen davranmadan önce düşünmediklerini gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "91:14",
+   "meal": "Onu yalanladılar ve deveyi kestiler; Rableri de günahları yüzünden onları helâk edip yerle bir etti.",
+   "baglanti": "Şems suresi aynı olayı 'yalanlama' ve 'kesme' fiilleriyle birlikte anar; sonucunu da doğrudan helak olarak açıklar."
+  },
+  {
+   "ref": "54:29",
+   "meal": "Derken arkadaşlarına seslendiler, o da (deveyi) yakalayıp kesti.",
+   "baglanti": "Kamer suresi, deveyi kesen kişinin kavmin çağrısıyla harekete geçtiğini anlatır; topluluğun ortak sorumluluğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, açık bir uyarıya rağmen işlenen ağır bir ihlal ve ardından duyulan pişmanlıktır. Bugüne taşınabilecek ders, pişmanlığın eylemden sonra değil, eylemden önce düşünüldüğünde bir değer taşıdığıdır.",
+  "Bir davranışın sonucunu ancak o davranıştan sonra fark etmek, çoğu zaman geç kalmış bir farkındalıktır. Karar anında durup düşünmek, sonradan pişman olmaktan daha değerlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önce düşün, sonra yap",
+   "aciklama": "Bugün pişman olabileceğin bir kararı vermeden önce bir an durup düşün."
+  },
+  {
+   "baslik": "Grup baskısına dikkat et",
+   "aciklama": "Bugün bir topluluk içinde, herkes yapıyor diye yanlış bir işe katılmaktan kaçın."
+  },
+  {
+   "baslik": "Geç kalmadan durdur",
+   "aciklama": "Yanlış bir yöne giden bir durumu, iş işten geçmeden bugün durdurmaya çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararını uygulamadan önce, sonucunu bir kez baştan sona düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=157"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/157"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "sure": 26,
+ "ayet": 167,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'Ey Lût! Eğer vazgeçmezsen kesinlikle sürülüp çıkarılanlardan olacaksın.'",
+ "mealNotu": "'Tentehi' fiili نهي kökünden, vazgeçme/son verme; 'mühracîn' (خرج) sürülüp çıkarılanlar anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "لَئِن",
+   "okunus": "lein",
+   "kok": "—",
+   "kokAnlam": "(şart+te'kid) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değilse",
+   "karsilik": "-mezsen"
+  },
+  {
+   "kelime": "تَنتَهِ",
+   "okunus": "tentehi",
+   "kok": "نهي",
+   "kokAnlam": "yasaklama, vazgeçme, son verme",
+   "karsilik": "vazgeçmezsen"
+  },
+  {
+   "kelime": "يَٰلُوطُ",
+   "okunus": "yâ lûtu",
+   "kok": "—",
+   "kokAnlam": "(nida+özel isim) ey Lût",
+   "karsilik": "ey Lût"
+  },
+  {
+   "kelime": "لَتَكُونَنَّ",
+   "okunus": "letekûnenne",
+   "kok": "كون",
+   "kokAnlam": "olmak, bulunmak",
+   "karsilik": "kesinlikle olacaksın"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-dan"
+  },
+  {
+   "kelime": "ٱلْمُخْرَجِينَ",
+   "okunus": "elmühracîne",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, çıkarılma",
+   "karsilik": "sürülüp çıkarılanlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kavim, Lût'un uyarısına içerikle cevap vermek yerine doğrudan tehditle karşılık verir: eğer bu sözlerinden vazgeçmezse şehirden sürülecektir. Bu, Nûh'un kavminin de benzer bir tehdit sözü (116. ayet) kullanmasıyla aynı kalıptadır.",
+  "Tehdidin 'sürgün' üzerinden yapılması, kavmin Lût'u kendi topluluklarından biri olarak değil, artık dışlanması gereken bir yabancı gibi görmeye başladığını gösterir; bu, çağrının reddedilişinin son aşamasıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:116",
+   "meal": "Dediler ki: 'Ey Nûh! Eğer vazgeçmezsen mutlaka taşlananlardan olacaksın.'",
+   "baglanti": "Nûh kıssasında da aynı yapıda bir tehdit cümlesi geçer; kavimler farklı olsa da tepki kalıbı benzerdir."
+  },
+  {
+   "ref": "7:82",
+   "meal": "Kavminin cevabı ancak 'Onları memleketinizden çıkarın; çünkü onlar temiz kalmak isteyen insanlarmış' demek oldu.",
+   "baglanti": "A'râf suresi, aynı sürgün tehdidinin gerekçesini de verir: Lût'un ailesinin farklı bir ahlaki duruşu, alay konusu edilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Lût'a yöneltilen bir sürgün tehdidedir. Bugüne taşınabilecek ders, doğru bir duruşun bazen dışlanma tehdidiyle karşılaşabileceği, ama bunun duruşu değiştirmek için bir sebep olmadığıdır.",
+  "Bir grup içinde farklı ve doğru bir tavır sergilemek, bazen dışlanma riskini de beraberinde getirir. Bu riski göze almak, ilkeli durmanın bir parçasıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Baskıya boyun eğme",
+   "aciklama": "Bugün seni dışlamakla tehdit eden bir baskıya karşı, doğru bildiğinden vazgeçme."
+  },
+  {
+   "baslik": "Yalnız kalmayı göze al",
+   "aciklama": "Bir grup içinde azınlıkta kalsan da bugün ilkeni korumaktan vazgeçme."
+  },
+  {
+   "baslik": "Tehdide sakin cevap ver",
+   "aciklama": "Sana yöneltilen bir tehdide bugün öfkeyle değil, kararlılıkla karşılık ver."
+  }
+ ],
+ "bugununAdimi": "Bugün seni caydırmaya çalışan bir baskıya rağmen, doğru bildiğin duruşunu koru.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=167"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/167"
+  }
+ ]
+}

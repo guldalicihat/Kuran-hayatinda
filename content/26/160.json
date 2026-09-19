@@ -1,0 +1,82 @@
+{
+ "sure": 26,
+ "ayet": 160,
+ "durum": "taslak",
+ "meal": "Lût kavmi de gönderilen elçileri yalanladı.",
+ "mealNotu": "141. ayetle aynı kalıptadır; burada özne Lût kavmidir. 105/123/141 ile birlikte surenin dördüncü kıssa girişidir.",
+ "kokler": [
+  {
+   "kelime": "كَذَّبَتْ",
+   "okunus": "kezzebet",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama; şiddetli yalanlama",
+   "karsilik": "yalanladı"
+  },
+  {
+   "kelime": "قَوْمُ",
+   "okunus": "kavmü",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk, kavim",
+   "karsilik": "kavmi"
+  },
+  {
+   "kelime": "لُوطٍ",
+   "okunus": "lûtın",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Lût peygamber",
+   "karsilik": "Lût"
+  },
+  {
+   "kelime": "ٱلْمُرْسَلِينَ",
+   "okunus": "elmürselîne",
+   "kok": "رسل",
+   "kokAnlam": "gönderme; elçi",
+   "karsilik": "gönderilen elçileri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, aynı kalıpla dördüncü kıssaya geçer: Nûh, Hûd, Sâlih'in ardından şimdi Lût'un kavmi anlatılır. Yine 'mürselîn' (gönderilenler) çoğul kullanılır; tek bir elçiyi yalanlamak, taşıdığı ortak mesajı yalanlamaktır.",
+  "Lût, İbrahim'in yeğeni olarak bilinir ve kendisine has bir bölgeye, ahlaki açıdan sapmış bir topluma gönderilir. Devam eden ayetler, bu kavmin özgün günahını açıkça anlatacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:141",
+   "meal": "Semûd (kavmi) de gönderilen elçileri yalanladı.",
+   "baglanti": "Aynı kalıbın bir önceki kıssada Semûd için kullanılmasıyla, sure boyunca tekrar eden anlatı yapısının bir parçası olduğunu gösterir."
+  },
+  {
+   "ref": "7:80",
+   "meal": "Lût'u da (gönderdik). Kavmine demişti ki: Sizden önce âlemlerden hiç kimsenin yapmadığı hayasızlığı mı yapıyorsunuz?",
+   "baglanti": "Bu ayet, 160. ayette özetle anılan yalanlamanın arkasındaki kavmin ahlaki durumunu doğrudan tanımlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Lût kavminin kendisine gönderilen elçiyi reddetmesidir. Bugüne taşınabilecek ders, bir toplumun yaygın bir yanlışı benimsediğinde, bu yanlışı düzeltmeye çağıran sesi de reddetme eğiliminde olduğudur.",
+  "Bir toplulukta yerleşmiş bir alışkanlık ne kadar yaygınsa, ona karşı çıkan doğru sesin kabul görmesi o kadar zorlaşır. Bu durum, doğruyu savunanın cesaretini değil, ısrarını gerektirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yaygın yanlışı sorgula",
+   "aciklama": "Bugün çevrende çok yaygın olduğu için sorgulanmayan bir davranışı bir kez düşün."
+  },
+  {
+   "baslik": "Reddedilmekten çekinme",
+   "aciklama": "Doğru bildiğin bir şeyi söylerken, kabul görmeyebileceğini bilerek de olsa söylemekten çekinme."
+  },
+  {
+   "baslik": "Sabırlı ol",
+   "aciklama": "Bir uyarının hemen kabul görmeyebileceğini bugün hatırla, sabırla yeniden anlatmayı dene."
+  }
+ ],
+ "bugununAdimi": "Bugün çevrende yaygın ama yanlış bir alışkanlığı, kimseyi kırmadan nazikçe sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=160"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/160"
+  }
+ ]
+}

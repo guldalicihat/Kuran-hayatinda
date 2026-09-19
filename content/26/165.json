@@ -1,0 +1,82 @@
+{
+ "sure": 26,
+ "ayet": 165,
+ "durum": "taslak",
+ "meal": "Âlemler içinden erkeklere mi yaklaşıyorsunuz?",
+ "mealNotu": "'Zükrân' kelimesi ذكر kökünden, erkekler anlamındadır. Ayet, kavmin alışılmışın dışına çıkan bir davranışını soru biçiminde eleştirir; hukuki bir ceza hükmü içermez, yalnız fiili sorgular.",
+ "kokler": [
+  {
+   "kelime": "أَتَأْتُونَ",
+   "okunus": "ete'tûne",
+   "kok": "أتي",
+   "kokAnlam": "gelme, yaklaşma",
+   "karsilik": "yaklaşıyor musunuz"
+  },
+  {
+   "kelime": "ٱلذُّكْرَانَ",
+   "okunus": "ezzükrâne",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlatma, anma; erkek",
+   "karsilik": "erkeklere"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den, içinden",
+   "karsilik": "içinden"
+  },
+  {
+   "kelime": "ٱلْعَٰلَمِينَ",
+   "okunus": "el'âlemîne",
+   "kok": "علم",
+   "kokAnlam": "bilme, bilinen; âlemler",
+   "karsilik": "âlemler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Lût, kavmine yönelttiği genel çağrının ardından, onların özgün ve alışılmadık bir davranışını doğrudan soru biçiminde dile getirir: bütün insanlar arasından, neden erkeklere yöneliyorlar? Soru, kınama içeren bir üslupla, ama doğrudan tanımlayıcı bir dille sorulur.",
+  "'Âlemlerden' ifadesi, bu davranışın o güne kadar hiçbir toplulukta görülmediğini vurgular; kavmin bu konuda bir ilk olduğu, sonraki ayetlerde de tekrarlanan bir noktadır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:81",
+   "meal": "Siz kadınları bırakıp şehvetle erkeklere mi yaklaşıyorsunuz? Doğrusu siz ölçüyü aşan bir kavimsiniz.",
+   "baglanti": "A'râf suresinde aynı eleştiri, 166. ayetteki 'sınırı aşan' ifadesiyle birlikte tek ayette verilir."
+  },
+  {
+   "ref": "29:28",
+   "meal": "Lût'u da (gönderdik). Kavmine demişti ki: Gerçekten siz, sizden önce âlemlerden hiç kimsenin yapmadığı bir hayasızlığı yapıyorsunuz.",
+   "baglanti": "Ankebût suresi, aynı 'âlemlerden önce hiç kimsenin yapmadığı' vurgusunu doğrudan tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Lût kavminin kendine özgü bir ahlaki sapmasıdır; ayet bunu doğrudan kendi ifadesiyle sorgular, ek bir hukuki hüküm getirmez. Bugüne taşınabilecek genel ders, bir toplumda yaygınlaşan bir davranışın, yaygın olması sebebiyle doğru sayılmayacağıdır.",
+  "Bir davranış ne kadar çok kişi tarafından benimsenirse benimsensin, bu onu meşru kılmaz. Doğruluk ölçüsü, yaygınlık değil, temel ilkelerle uyumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yaygınlığı ölçü sanma",
+   "aciklama": "Bugün 'herkes yapıyor' diye düşündüğün bir şeyin, bu yüzden doğru olmadığını hatırla."
+  },
+  {
+   "baslik": "Kendi sınırını koru",
+   "aciklama": "Çevrenin baskısına rağmen bugün kendi değerlerinden ödün vermemeye özen göster."
+  },
+  {
+   "baslik": "Yargılamadan uzak dur",
+   "aciklama": "Bu ayeti okurken, başkalarını yargılamak yerine önce kendi tutarlılığını gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda 'herkes böyle yapıyor' düşüncesiyle verdiğin bir kararı yeniden gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=165"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/165"
+  }
+ ]
+}

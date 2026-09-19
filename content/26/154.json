@@ -1,0 +1,131 @@
+{
+ "sure": 26,
+ "ayet": 154,
+ "durum": "taslak",
+ "meal": "Sen ancak bizim gibi bir insansın; eğer doğrulardansan bir ayet (mucize) getir.",
+ "mealNotu": "'Beşer' kökü بشر, insan/beşer anlamındadır; 'âyet' (أيي) burada mucize, açık işaret anlamında kullanılmıştır.",
+ "kokler": [
+  {
+   "kelime": "مَآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "أَنتَ",
+   "okunus": "ente",
+   "kok": "—",
+   "kokAnlam": "(zamir) sen",
+   "karsilik": "sen"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "بَشَرٌ",
+   "okunus": "beşerun",
+   "kok": "بشر",
+   "kokAnlam": "insan, beşer",
+   "karsilik": "bir insansın"
+  },
+  {
+   "kelime": "مِّثْلُنَا",
+   "okunus": "mislünâ",
+   "kok": "مثل",
+   "kokAnlam": "benzeme, örnek",
+   "karsilik": "bizim gibi"
+  },
+  {
+   "kelime": "فَأْتِ",
+   "okunus": "fe'ti",
+   "kok": "أتي",
+   "kokAnlam": "gelme, getirme",
+   "karsilik": "getir"
+  },
+  {
+   "kelime": "بِـَٔايَةٍ",
+   "okunus": "biâyetin",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil; ayet, mucize",
+   "karsilik": "bir ayet"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتَ",
+   "okunus": "künte",
+   "kok": "كون",
+   "kokAnlam": "olmak, bulunmak",
+   "karsilik": "isen"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-dan"
+  },
+  {
+   "kelime": "ٱلصَّٰدِقِينَ",
+   "okunus": "essâdikîne",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, doğru sözlülük",
+   "karsilik": "doğrular"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kavim, Sâlih'in kendilerinden farklı olmadığını, sıradan bir insan olduğunu öne sürerek onu peygamberliğe layık görmez. Ardından, iddiasının doğruluğunu kanıtlamak için somut bir mucize talep ederler.",
+  "Bu itiraz, önceki elçilere yöneltilen 'sen de bizim gibi bir beşersin' itirazıyla aynıdır; insanların peygamberlerden beklediği, kendilerinden üstün, olağanüstü bir varlık olmasıdır. Oysa Kur'an'da elçiler hep insanlar arasından seçilmiştir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "14:10",
+   "meal": "Elçileri dedi ki: 'Gökleri ve yeri yaratan Allah hakkında şüphe mi var?'... Onlar dediler ki: 'Siz de bizim gibi bir beşerden başka bir şey değilsiniz.'",
+   "baglanti": "Aynı itiraz, İbrahim suresinde farklı kavimlerin elçilerine yönelttiği ortak bir itiraz olarak geçer."
+  },
+  {
+   "ref": "17:94",
+   "meal": "İnsanlara hidayet geldiğinde, onların inanmasına engel olan tek şey 'Allah bir beşeri mi elçi gönderdi?' demeleridir.",
+   "baglanti": "Elçinin insan olmasının bir itiraz sebebi yapılması, İsrâ suresinde de aynı mantıkla eleştirilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, kavmin Sâlih'ten mucize talep ederek onu sınamasıdır. Bugüne taşınabilecek ders, bir sözün doğruluğunu, söyleyenin unvanına veya olağanüstülüğüne göre değil, içeriğine göre değerlendirmek gerektiğidir.",
+  "Bazen bir doğruyu, söyleyen kişi 'sıradan' göründüğü için reddetmek insan doğasında vardır. Oysa doğru, kimin söylediğinden bağımsız olarak doğrudur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaynağa değil içeriğe bak",
+   "aciklama": "Bugün duyduğun bir doğru sözü, kim söylediğine bakmadan değerlendir."
+  },
+  {
+   "baslik": "Sıradanlığı küçümseme",
+   "aciklama": "Bugün 'sıradan' gördüğün birinin söylediği değerli bir şeyi fark etmeye çalış."
+  },
+  {
+   "baslik": "Kanıt bekleme bahanesi yapma",
+   "aciklama": "Zaten açık olan bir doğruyu, gereksiz ek kanıt bekleyerek ertelemekten bugün kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün birinin söylediği doğru bir sözü, kişiyi sıradan bulduğun için görmezden gelme.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=154"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/154"
+  }
+ ]
+}

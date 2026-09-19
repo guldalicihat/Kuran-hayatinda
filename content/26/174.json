@@ -1,0 +1,110 @@
+{
+ "sure": 26,
+ "ayet": 174,
+ "durum": "taslak",
+ "meal": "Şüphesiz bunda kesin bir işaret vardır; onların çoğu mümin değildi.",
+ "mealNotu": "121. ayetle aynı ifadedir; burada Lût kıssasının kapanışında, Semûd'dan farklı bir kavmin aynı sonla bitmesini bağlar.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunda, şunda",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "لَءَايَةً",
+   "okunus": "leâyeten",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil; ayet",
+   "karsilik": "kesin bir işaret vardır"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve değildi"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olmak, bulunmak",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "أَكْثَرُهُم",
+   "okunus": "ekseruhüm",
+   "kok": "كثر",
+   "kokAnlam": "çokluk, çoğunluk",
+   "karsilik": "onların çoğu"
+  },
+  {
+   "kelime": "مُّؤْمِنِينَ",
+   "okunus": "mü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "mümin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Lût kıssası da, sureyi baştan sona bağlayan aynı kapanış cümlesiyle biter: bunda kesin bir işaret vardır, ama çoğu iman etmedi. Bu tekrar, farklı kavimlerin farklı günahlarına rağmen, sonucun aynı ilkeye (uyarı-inkâr-helak) bağlı olduğunu gösterir.",
+  "'Onların çoğu mümin değildi' ifadesi burada da, Lût ve ailesi gibi kurtulan bir azınlığın varlığını hatırlatır; helak, topluluğun tamamına değil, ısrarla reddedenlere gelmiştir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:158",
+   "meal": "Bunun üzerine azap onları yakaladı. Şüphesiz bunda kesin bir işaret vardır; onların çoğu mümin değildi.",
+   "baglanti": "Semûd kıssasının kapanışı da aynı son cümleyle biter; sure boyunca her kıssa aynı ilkeyle sonuçlanır."
+  },
+  {
+   "ref": "29:35",
+   "meal": "Andolsun ki biz ondan (o beldeden), aklını kullanan bir topluluk için apaçık bir işaret bıraktık.",
+   "baglanti": "Ankebût suresi, Lût kavminin kalıntılarının sonraki nesiller için görülebilir bir işaret olarak bırakıldığını ekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Lût kıssasının bir ibret olarak sunulmasıdır. Bugüne taşınabilecek ders, farklı hataların farklı sonuçları olsa da, ısrarlı bir reddin er ya da geç bir bedeli olduğudur.",
+  "Bir kıssa okunduğunda, sadece geçmişteki bir olay olarak değil, benzer bir ısrarın günümüzde de aynı mantıkla sonuçlanabileceği bir uyarı olarak da düşünülebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kıssayı kendine uyarla",
+   "aciklama": "Bugün bu kıssadan, kendi hayatındaki bir ısrarlı yanlışa dair bir ders çıkar."
+  },
+  {
+   "baslik": "İşareti gör",
+   "aciklama": "Çevrende gördüğün bir ibret verici olayı, bugün sadece izlemekle kalmayıp ders çıkararak değerlendir."
+  },
+  {
+   "baslik": "Azınlıkta olsan da doğrulan",
+   "aciklama": "Doğru bildiğin bir şeyde yalnız kalsan bile bugün o duruşunu sürdür."
+  }
+ ],
+ "bugununAdimi": "Bugün bu kıssadan çıkardığın bir dersi, kendi hayatındaki bir alışkanlığa uygula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=174"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/174"
+  }
+ ]
+}
