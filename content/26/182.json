@@ -1,0 +1,75 @@
+{
+ "sure": 26,
+ "ayet": 182,
+ "durum": "taslak",
+ "meal": "Doğru teraziyle tartın.",
+ "mealNotu": "'Kıstâs' kelimesi Arapçaya başka dilden geçmiş, adalet ölçeğini ifade eden özel bir terazi adıdır; 'müstakîm' kökü doğruluğu, dengede olmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَزِنُوا۟",
+   "okunus": "ve zinû",
+   "kok": "وزن",
+   "kokAnlam": "tartma, denge",
+   "karsilik": "ve tartın"
+  },
+  {
+   "kelime": "بِٱلْقِسْطَاسِ",
+   "okunus": "bil kıstâsi",
+   "kok": "قسطس",
+   "kokAnlam": "(ödünç kelime) hassas terazi, adalet ölçeği",
+   "karsilik": "teraziyle"
+  },
+  {
+   "kelime": "ٱلْمُسْتَقِيمِ",
+   "okunus": "elmüstekîmi",
+   "kok": "قوم",
+   "kokAnlam": "doğru olma, dosdoğru durma",
+   "karsilik": "doğru"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 181. ayetteki 'ölçüyü tam tutun' emrini 'tartıyı doğru yapın' ile tamamlar. Ölçü (kayl) hacimsel, tartı (vezn) ağırlıkla ilgilidir; ikisi birlikte ticarette adaletin iki temel aracını oluşturur.",
+  "'Müstakîm' kelimesi Kur'an'da sık geçen 'sırât-ı müstakîm' (dosdoğru yol) ifadesindeki kökle aynıdır; burada somut bir terazinin doğruluğu için kullanılması, ahlaki doğruluğun günlük hayattaki bir aletle bile bağlantılı olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "55:9",
+   "meal": "Tartıyı adaletle tutun ve teraziyi eksik tutmayın.",
+   "baglanti": "Aynı emir Rahmân suresinde evrenin dengesiyle birlikte anılır; terazideki adalet kozmik dengeyle ilişkilendirilir."
+  },
+  {
+   "ref": "6:152",
+   "meal": "Ölçüyü ve tartıyı adaletle tam yapın.",
+   "baglanti": "En'âm suresinde bu emir, yetimin malına yaklaşmama ve doğru söz söyleme gibi başka ahlaki emirlerle birlikte sayılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu yine ticarettir; burada özellikle tartı aletinin doğruluğuna vurgu vardır.",
+  "Bugüne taşınabilecek ders, yalnızca aletin değil insanın kendi ölçütlerinin de doğru olması gerektiğidir. Bir işi değerlendirirken, kendi lehine hafif, başkasının aleyhine ağır tartma eğilimine dikkat etmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Adil değerlendir",
+   "aciklama": "Bugün bir tartışmada, kendi tarafını değil olayın kendisini tart."
+  },
+  {
+   "baslik": "Çifte standarttan kaçın",
+   "aciklama": "Kendine uyguladığın ölçüyü, bugün başkasına da aynen uygula."
+  },
+  {
+   "baslik": "Basit bir kontrol yap",
+   "aciklama": "Elindeki bir ölçüm aracı varsa (terazi, hesap), bugün doğruluğunu kontrol et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda kendine uyguladığın ölçüyü, başkası için de aynı şekilde uygula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=182"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/182"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "sure": 26,
+ "ayet": 190,
+ "durum": "taslak",
+ "meal": "Şüphesiz bunda kesin bir ibret vardır; yine de onların çoğu iman etmiş değildi.",
+ "mealNotu": "'Âyet' kökü işaret ve delil anlamı taşır; bağlama uygun olarak 'ibret' ile karşılanmıştır, sure boyunca tekrarlanan nakarat cümlesidir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunda",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "لَءَايَةً",
+   "okunus": "leâyeten",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet, delil",
+   "karsilik": "kesin bir ibret"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "ama...değildi"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "أَكْثَرُهُم",
+   "okunus": "ekseruhüm",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "onların çoğu"
+  },
+  {
+   "kelime": "مُّؤْمِنِينَ",
+   "okunus": "mü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman etme",
+   "karsilik": "iman etmiş"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, sure boyunca her kıssanın sonunda tekrarlanan kapanış cümlesidir; burada Şuayb ve Eyke halkının kıssasını kapatır. Ticaret ahlakı üzerine kurulu bu kıssada 'ibret' özellikle somut bir alanla, günlük hayatın dürüstlükle iç içe geçtiği bir alanla ilgilidir.",
+  "'Onların çoğu iman etmiş değildi' ifadesi, kıssanın herkes için değil bir çoğunluk için geçerli olduğunu hatırlatır; her toplulukta iman edenler de vardır, ama bu ayet çoğunluğun tepkisine odaklanır. Bu, Kur'an'ın helak kıssalarında sık tekrarlanan bir gerçekçiliktir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:89",
+   "meal": "Ey kavmim! Bana karşı gelişiniz, sizi Nuh kavminin, Hud kavminin veya Salih kavminin başına gelenin benzerine uğratmasın.",
+   "baglanti": "Şuayb'ın kendi ağzından, önceki toplulukların akıbetini hatırlatan uyarısı; bu ayetteki 'ibret' vurgusunu doğrudan destekler."
+  },
+  {
+   "ref": "12:103",
+   "meal": "Sen ne kadar özlesen de, insanların çoğu iman edecek değildir.",
+   "baglanti": "'Çoğu iman etmiş değildi' ifadesi, Yusuf suresinde daha genel bir ilke olarak tekrar edilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ticaret ahlakı uyarısının sonunda çıkarılan genel bir derstir: açık bir uyarı bile herkesi ikna etmeyebilir.",
+  "Bugüne taşınabilecek ders, doğru olanı yapmanın çoğunluğun onayına bağlı olmadığıdır. Etrafındaki çoğu kişi dürüstlüğü önemsemese bile, bu senin dürüst davranmaman için bir gerekçe olamaz."
+ ],
+ "bugun": [
+  {
+   "baslik": "Çoğunluğa değil doğruya bak",
+   "aciklama": "Bugün bir konuda çoğunluğun yaptığı değil doğru olanı yap."
+  },
+  {
+   "baslik": "Kendi payına düş",
+   "aciklama": "Bir grup içinde yanlış bir uygulama varsa, sen kendi payına düşeni düzelt."
+  },
+  {
+   "baslik": "Örnek ol, beklemeden",
+   "aciklama": "Bugün, kimse önce senden bekleyip beklemediğine bakmadan doğru olanı ilk sen yap."
+  }
+ ],
+ "bugununAdimi": "Bugün etrafındakiler yapmasa da, ölçüde ve sözünde dürüst davranmaya devam et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=190"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/190"
+  }
+ ]
+}

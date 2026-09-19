@@ -1,0 +1,82 @@
+{
+ "sure": 26,
+ "ayet": 192,
+ "durum": "taslak",
+ "meal": "Şüphesiz bu [Kur'an], âlemlerin Rabbinin gerçekten indirmesidir;",
+ "mealNotu": "Ayetteki zamir ('o') Kur'an'a işaret eder; ayette adı geçmediği için köşeli parantezle [Kur'an] eklenmiştir. 'Tenzîl' kökü, yukarıdan aşağıya, aşamalı indirmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَإِنَّهُۥ",
+   "okunus": "ve innehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid+zamir) ve şüphesiz o",
+   "karsilik": "ve şüphesiz o"
+  },
+  {
+   "kelime": "لَتَنزِيلُ",
+   "okunus": "letenzîlü",
+   "kok": "نزل",
+   "kokAnlam": "aşağı indirme, vahiy",
+   "karsilik": "gerçekten indirmesidir"
+  },
+  {
+   "kelime": "رَبِّ",
+   "okunus": "rabbi",
+   "kok": "ربب",
+   "kokAnlam": "sahiplik, terbiye etme",
+   "karsilik": "Rabbinin"
+  },
+  {
+   "kelime": "ٱلْعَٰلَمِينَ",
+   "okunus": "el'âlemîne",
+   "kok": "علم",
+   "kokAnlam": "bilme, işaret; âlem",
+   "karsilik": "âlemlerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, geçmiş peygamberlerin kıssalarını anlattıktan sonra konuyu değiştirir ve doğrudan Kur'an'ın kendisine, onun nasıl indirildiğine geçer. Bu geçiş önceki kıssalarla bağlantılıdır: her elçiye bir mesaj indirilmiştir, şimdi sıra bu son mesajın kaynağını açıklamaya gelir.",
+  "'Tenzîl' kelimesi, vahyin aşamalı ve yukarıdan aşağıya bir iniş olduğunu anlatır. 'Âlemlerin Rabbi' ifadesi ise, bu indirmenin tek bir topluluğa değil bütün varlığa yönelik bir kaynaktan geldiğini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "69:43",
+   "meal": "O, âlemlerin Rabbinden bir indirmedir.",
+   "baglanti": "Hâkka suresinde de Kur'an için birebir aynı ifade kullanılır; iki ayet aynı gerçeği farklı bağlamlarda tekrarlar."
+  },
+  {
+   "ref": "32:2",
+   "meal": "Bu Kitabın indirilişinde hiçbir şüphe yoktur; o, âlemlerin Rabbindendir.",
+   "baglanti": "Secde suresinin açılışı da aynı kaynağı, hiçbir şüpheye yer bırakmadan tekrar vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kur'an'ın kaynağıdır; bu, tarihsel bir olay değil bir inanç ilkesidir.",
+  "Bugüne taşınabilecek ders, okuduğun bir metnin kaynağını bilmenin ona nasıl yaklaşacağını belirlediğidir. Bir sözün kimden geldiğini bilmek, onu ciddiye alıp almama konusunda fark yaratır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaynağı düşünerek oku",
+   "aciklama": "Bugün Kur'an'dan bir bölüm okurken, bunun kimden geldiğini hatırlayarak oku."
+  },
+  {
+   "baslik": "Ciddiyetle yaklaş",
+   "aciklama": "Bir gün içinde okuduğun metinler arasında, Kur'an'a ayırdığın zamanı bugün gözden geçir."
+  },
+  {
+   "baslik": "Kaynağını sorgula",
+   "aciklama": "Bugün paylaşacağın veya inanacağın bir bilginin kaynağını bir kez kontrol et."
+  }
+ ],
+ "bugununAdimi": "Bugün Kur'an'dan kısa bir bölümü, kaynağını hatırlayarak ve dikkatle oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=192"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/192"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sure": 26,
+ "ayet": 196,
+ "durum": "taslak",
+ "meal": "Şüphesiz o [Kur'an'ın haberi], öncekilerin kitaplarında da gerçekten vardır.",
+ "mealNotu": "Zamir yine Kur'an'a işaret eder; ayette adı geçmediği için köşeli parantez kullanılmıştır. 'Zübür' kökü yazılı sayfa/kitap anlamındadır, çoğuldur.",
+ "kokler": [
+  {
+   "kelime": "وَإِنَّهُۥ",
+   "okunus": "ve innehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid+zamir) ve şüphesiz o",
+   "karsilik": "ve şüphesiz o"
+  },
+  {
+   "kelime": "لَفِى",
+   "okunus": "lefî",
+   "kok": "—",
+   "kokAnlam": "(edat) gerçekten içinde",
+   "karsilik": "gerçekten vardır"
+  },
+  {
+   "kelime": "زُبُرِ",
+   "okunus": "zübüri",
+   "kok": "زبر",
+   "kokAnlam": "yazılı sayfa, kitap",
+   "karsilik": "kitaplarında"
+  },
+  {
+   "kelime": "ٱلْأَوَّلِينَ",
+   "okunus": "el'evvelîne",
+   "kok": "أول",
+   "kokAnlam": "önce olma, ilk",
+   "karsilik": "öncekilerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Kur'an'ın tamamen yeni ve öncesiz bir şey olmadığını, önceki kutsal kitaplarda da bahsinin geçtiğini bildirir. Bu, hem Kur'an'ın ilahî mesajlar zincirinin devamı olduğunu hem de onu bekleyen bir hazırlığın var olduğunu gösterir.",
+  "'Zübür' kelimesi, geçmiş peygamberlere verilen sahifeleri ve kitapları kapsar. Ayet, bu kitapların içeriğinin ayrıntısını vermez; sadece Kur'an'ın gelişinin bir sürpriz olmadığını, önceden haber verildiğini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "87:18",
+   "meal": "Şüphesiz bu, önceki sahifelerde de vardır.",
+   "baglanti": "A'lâ suresinde de aynı ilke, İbrahim ve Musa'nın sahifelerine atıfla tekrarlanır."
+  },
+  {
+   "ref": "20:133",
+   "meal": "Öncekilerin sahifelerindeki açık delil onlara gelmedi mi?",
+   "baglanti": "Tâ-Hâ suresinde de önceki kitapların bir delil olarak sunulduğu vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın önceki vahiylerle olan bağlantısıdır; bu, tarihsel ve teolojik bir konudur.",
+  "Bugüne taşınabilecek ders, hakikatin süreklilik taşıdığıdır. Doğru bir mesaj aniden ortaya çıkmaz; genelde önceden iz bırakır, hazırlık yapar. Bu, bir değişim veya doğru bir karar için de geçerlidir; genelde ansızın değil, birikerek olgunlaşır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sürekliliği fark et",
+   "aciklama": "Bugün hayatındaki iyi bir değişimin, aslında uzun zamandır nasıl hazırlandığını düşün."
+  },
+  {
+   "baslik": "Ortak zemini ara",
+   "aciklama": "Farklı inançtan biriyle konuşurken bugün, ortak değerleri de fark etmeye çalış."
+  },
+  {
+   "baslik": "Birikimli ilerle",
+   "aciklama": "Bugün küçük bir adımla, uzun vadeli bir hedefine bir tuğla daha koy."
+  }
+ ],
+ "bugununAdimi": "Bugün, uzun süredir üzerinde çalıştığın bir hedefe küçük bir adım daha ekle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=196"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/196"
+  }
+ ]
+}

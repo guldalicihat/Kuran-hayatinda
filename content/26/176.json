@@ -1,0 +1,82 @@
+{
+ "sure": 26,
+ "ayet": 176,
+ "durum": "taslak",
+ "meal": "Eyke halkı da gönderilen elçileri yalanladı.",
+ "mealNotu": "'Ashâb' kökü sahiplenmeyi ve bir yere bağlı topluluğu anlatır, burada 'halkı' ile karşılanmıştır. Ayette tek elçi Şuayb anılacak olsa da fiil çoğul 'mürselîn' (elçiler) ile gelir; bir elçiyi yalanlamak bütün elçileri yalanlamak sayıldığından, kelimeye ekleme yapılmamıştır.",
+ "kokler": [
+  {
+   "kelime": "كَذَّبَ",
+   "okunus": "kezzebe",
+   "kok": "كذب",
+   "kokAnlam": "yalan sayma, yalanlama",
+   "karsilik": "yalanladı"
+  },
+  {
+   "kelime": "أَصْحَٰبُ",
+   "okunus": "ashâbü",
+   "kok": "صحب",
+   "kokAnlam": "arkadaşlık, sahiplenme; birlikte olan topluluk",
+   "karsilik": "halkı"
+  },
+  {
+   "kelime": "لْـَٔيْكَةِ",
+   "okunus": "l'eyketi",
+   "kok": "—",
+   "kokAnlam": "(özel ad) Eyke, sık ağaçlık/koru",
+   "karsilik": "Eyke"
+  },
+  {
+   "kelime": "ٱلْمُرْسَلِينَ",
+   "okunus": "elmürselîne",
+   "kok": "رسل",
+   "kokAnlam": "gönderme; gönderilmiş elçi",
+   "karsilik": "elçileri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Şuarâ suresinde art arda anlatılan geçmiş toplulukların sonuncusu olan Eyke halkının kıssasını açar. Eyke, sık ağaçlık bir bölgede yaşayan bir topluluğun adıdır; bazı müfessirler bunu Medyen halkıyla aynı ya da komşu bir topluluk olarak açıklar. Sure boyunca Nuh, Hud, Salih ve Lut kıssalarında tekrarlanan kalıp burada da sürer: bir halk, gönderilen elçileri yalanladı.",
+  "Fiilin çoğul gelmesi (mürselîn) önemlidir: onlara tek bir elçi, Şuayb gönderilmiş olsa da, onu yalanlamak elçilerin ortak çağrısını reddetmek anlamına gelir; çünkü her elçinin temel mesajı aynıdır. Bu, sonraki ayetlerde Şuayb'ın sözleriyle birlikte okununca daha açık hale gelir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:78",
+   "meal": "Eyke halkı da gerçekten zalimdi.",
+   "baglanti": "Aynı topluluk başka bir surede doğrudan 'zalim' olarak nitelenir; bu ayetteki yalanlamanın sonucu orada açıkça belirtilir."
+  },
+  {
+   "ref": "7:85",
+   "meal": "Medyen halkına da kardeşleri Şuayb'ı gönderdik.",
+   "baglanti": "Şuayb'ın çağrısının Medyen'e yapılan hâli; iki anlatım birbirini tamamlar ve aynı ahlaki mesajı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş bir topluluğun kendisine gönderilen uyarıyı reddetmesidir; bu tarihsel bir olaydır.",
+  "Bugüne taşınabilecek ders, bir hakikat çağrısını 'bize ait değil' diye reddetmenin, aslında çağrının kendisini değil taşıyıcısını sorun etmek olduğudur. Doğru bir söz, onu söyleyen kişiyi sevmediğin için yanlış olmaz."
+ ],
+ "bugun": [
+  {
+   "baslik": "Fikri, söyleyene göre değil doğruluğuna göre tart",
+   "aciklama": "Bugün duyduğun bir uyarıyı, kimden geldiğine değil içeriğine bakarak değerlendir."
+  },
+  {
+   "baslik": "Önyargını fark et",
+   "aciklama": "Hoşlanmadığın biri haklı bir şey söylediğinde, bunu kabul edip etmediğini kendine sor."
+  },
+  {
+   "baslik": "Toplu reddi bırak",
+   "aciklama": "Bir kişiye kızıp onun söylediği her şeyi reddetme alışkanlığını bugün bir kez kır."
+  }
+ ],
+ "bugununAdimi": "Bugün, hoşlanmadığın birinden gelen bir uyarıyı içeriğine bakarak yeniden değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=176"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/176"
+  }
+ ]
+}

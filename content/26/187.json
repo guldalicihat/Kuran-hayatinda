@@ -1,0 +1,117 @@
+{
+ "sure": 26,
+ "ayet": 187,
+ "durum": "taslak",
+ "meal": "Eğer doğru sözlülerden isen, haydi üzerimize gökten bir parça düşür.",
+ "mealNotu": "'Kisef' kökü kesit/parçayı anlatır; halkın istediği somut, doğaüstü bir kanıttır. 'Haydi' kelimesi emir tonunu belirginleştirmek için eklenmiştir; fiil zaten emir kipinde olduğundan köşeli parantez gerektirmez.",
+ "kokler": [
+  {
+   "kelime": "فَأَسْقِطْ",
+   "okunus": "feeskıt",
+   "kok": "سقط",
+   "kokAnlam": "düşme, düşürme",
+   "karsilik": "düşür"
+  },
+  {
+   "kelime": "عَلَيْنَا",
+   "okunus": "aleynâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) üzerimize",
+   "karsilik": "üzerimize"
+  },
+  {
+   "kelime": "كِسَفًا",
+   "okunus": "kisefen",
+   "kok": "كسف",
+   "kokAnlam": "parça, kesit",
+   "karsilik": "bir parça"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "gökten"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتَ",
+   "okunus": "künte",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "isen"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلصَّٰدِقِينَ",
+   "okunus": "essâdikîne",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, doğru sözlü olma",
+   "karsilik": "doğru sözlülerden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Halk, Şuayb'ın uyarısına inanmak yerine somut, yıkıcı bir mucize talep eder: gökten bir parçanın üzerlerine düşmesi. Bu, iman etmek için değil meydan okumak için sorulan bir istektir; cevabın ne olacağı onlar için önemli değildir, amaçları elçiyi köşeye sıkıştırmaktır.",
+  "Bu tavır, Mekke müşriklerinin Peygamber'e yönelttiği benzer taleplerle örtüşür. Kur'an'da bu tür talepler genelde reddedilmez ama hemen yerine de getirilmez; çünkü mucize, inanmak isteyene bir işaret, inanmak istemeyene ise bir bahane olur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:92",
+   "meal": "Yahut iddia ettiğin gibi göğü üzerimize parça parça düşürünceye kadar sana inanmayız.",
+   "baglanti": "Mekke müşriklerinin Peygamber'e yönelttiği, neredeyse aynı kelimelerle ifade edilen bir meydan okuma; aynı inkârcı taktik farklı bir çağda tekrarlanır."
+  },
+  {
+   "ref": "8:32",
+   "meal": "Eğer bu gerçekten senin katından gelen hak ise, üzerimize gökten taş yağdır ya da bize acı bir azap getir.",
+   "baglanti": "Benzer bir meydan okuma Mekke'nin ileri gelenlerinden de gelir; iki ayet inkârın somut mucize talebiyle örtüştüğünü gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir elçiye yöneltilen alaycı ve meydan okuyucu bir taleptir.",
+  "Bugüne taşınabilecek ders, bir tartışmada karşı tarafı ikna etmek yerine köşeye sıkıştırmaya çalışmanın gerçek bir diyaloğu değil bir güç gösterisini amaçladığıdır. İnanmak istemeyen biri için hiçbir kanıt yeterli olmayabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İkna değil köşeye sıkıştırma tuzağından kaçın",
+   "aciklama": "Bugün bir tartışmada, karşındakini mahcup etmek yerine gerçekten anlamaya çalış."
+  },
+  {
+   "baslik": "Meydan okumaya meydan okumayla cevap verme",
+   "aciklama": "Sana yöneltilen alaycı bir soruya sakin ve net cevap ver."
+  },
+  {
+   "baslik": "Kanıt yeterli olmayabilir, sabırlı ol",
+   "aciklama": "Bir konuda ne kadar delil sunsan da ikna olmayan biriyle karşılaştığında sabrını koru."
+  }
+ ],
+ "bugununAdimi": "Bugün bir tartışmada, karşındakini köşeye sıkıştırmak yerine sakin bir cevap vermeyi dene.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=187"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/187"
+  }
+ ]
+}

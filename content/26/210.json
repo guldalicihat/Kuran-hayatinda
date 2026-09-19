@@ -1,0 +1,82 @@
+{
+ "sure": 26,
+ "ayet": 210,
+ "durum": "taslak",
+ "meal": "Onu [Kur'an'ı] şeytanlar indirmedi.",
+ "mealNotu": "Zamir Kur'an'a işaret eder, ayette adı geçmediği için köşeli parantez kullanılmıştır. 'Şatn' kökü haktan uzaklaşmayı, azgınlığı anlatır; buradan türeyen 'şeytan' ismi bu köke bağlıdır.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "تَنَزَّلَتْ",
+   "okunus": "tenezzelet",
+   "kok": "نزل",
+   "kokAnlam": "aşağı inme, adım adım inme",
+   "karsilik": "indirmedi"
+  },
+  {
+   "kelime": "بِهِ",
+   "okunus": "bihi",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "ٱلشَّيَٰطِينُ",
+   "okunus": "eşşeyâtînü",
+   "kok": "شطن",
+   "kokAnlam": "uzaklaşma, azgınlık; şeytan",
+   "karsilik": "şeytanlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki bölümde anlatılan vahyin kaynağını (192-195: âlemlerin Rabbi, Ruhu'l-Emin aracılığıyla, Peygamber'in kalbine) netleştirdikten sonra olası bir yanlış anlamayı doğrudan reddeder: bu Kur'an'ı şeytanlar indirmedi. Böyle bir itham, döneminde bazı kişilerin Peygamber'i kâhinlere veya şairlere benzeterek sözlerinin şeytani bir kaynaktan geldiğini iddia etmesine bir cevap niteliğindedir.",
+  "Ayet bu iddiayı ayrıntılı bir tartışmaya girmeden, kısa ve kesin bir reddiyeyle karşılar. Sonraki ayetler (bu aralığın dışında, 211-212) bu reddin gerekçesini de ekler: şeytanların böyle bir şeye ne gücü yeter ne de bu onların görevidir; onlar vahyi işitmekten zaten uzak tutulmuştur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "81:25",
+   "meal": "O (Kur'an), kovulmuş şeytanın sözü değildir.",
+   "baglanti": "Tekvîr suresinde de aynı reddiye, farklı bir ifadeyle tekrarlanır; iki ayet aynı ithamı aynı kesinlikle karşılar."
+  },
+  {
+   "ref": "26:212",
+   "meal": "Şüphesiz onlar, (vahyi) işitmekten kesinlikle uzak tutulmuşlardır.",
+   "baglanti": "Bu ayetin hemen ardından gelen açıklama, şeytanların neden Kur'an'ı indiremeyeceğinin gerekçesini verir: işitme imkânından mahrum bırakılmışlardır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın kaynağına yönelik bir ithamın reddedilmesidir; bu, doğrudan bir inanç meselesidir.",
+  "Bugüne taşınabilecek ders, bir kaynağı değerlendirirken kulaktan dolma iddialara değil doğrudan içeriğe ve delile bakmanın önemidir. Asılsız bir iddia tekrarlandıkça gerçek gibi görünebilir; bu yüzden iddiaları sorgulamak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İddiayı sorgula, tekrar etme",
+   "aciklama": "Bugün duyduğun ama doğruluğunu bilmediğin bir iddiayı, kontrol etmeden başkasına aktarma."
+  },
+  {
+   "baslik": "Kaynağa dön",
+   "aciklama": "Bir konuda emin olmak istediğinde, bugün dedikodu yerine asıl kaynağa bak."
+  },
+  {
+   "baslik": "Nefsin ve şeytanın fısıltısına kapılma",
+   "aciklama": "Bugün, seni kolay yola çeken bir düşünceyi fark ettiğinde, bir an durup gerçekten doğru mu diye sor."
+  }
+ ],
+ "bugununAdimi": "Bugün doğruluğundan emin olmadığın bir iddiayı, kaynağına inmeden başkasına aktarma.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=210"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/210"
+  }
+ ]
+}

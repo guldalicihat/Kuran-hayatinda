@@ -1,0 +1,117 @@
+{
+ "sure": 26,
+ "ayet": 186,
+ "durum": "taslak",
+ "meal": "Sen de bizim gibi bir insandan başka bir şey değilsin; doğrusu biz seni yalancılardan sanıyoruz.",
+ "mealNotu": "'Beşer' kökü türsel olarak insanı anlatır; halkın burada Şuayb'ın insan oluşunu bir eksiklik gibi sunması ayetin doğrudan ifadesidir, ekleme yapılmamıştır.",
+ "kokler": [
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "ve...değilsin"
+  },
+  {
+   "kelime": "أَنتَ",
+   "okunus": "ente",
+   "kok": "—",
+   "kokAnlam": "(zamir) sen",
+   "karsilik": "sen"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "başka bir şey"
+  },
+  {
+   "kelime": "بَشَرٌ",
+   "okunus": "beşerun",
+   "kok": "بشر",
+   "kokAnlam": "insan, insan türü",
+   "karsilik": "insan"
+  },
+  {
+   "kelime": "مِّثْلُنَا",
+   "okunus": "mislünâ",
+   "kok": "مثل",
+   "kokAnlam": "benzeme, örnek",
+   "karsilik": "bizim gibi"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten",
+   "karsilik": "ve doğrusu"
+  },
+  {
+   "kelime": "نَّظُنُّكَ",
+   "okunus": "nezunnüke",
+   "kok": "ظنن",
+   "kokAnlam": "sanma, zannetme",
+   "karsilik": "seni sanıyoruz"
+  },
+  {
+   "kelime": "لَمِنَ",
+   "okunus": "lemine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْكَٰذِبِينَ",
+   "okunus": "elkâzibîne",
+   "kok": "كذب",
+   "kokAnlam": "yalan söyleme, yalancı",
+   "karsilik": "yalancılardan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Halkın ikinci itirazı, Şuayb'ın sıradan bir insan olmasıdır. Onlara göre bir elçinin kendilerinden farklı, olağanüstü bir varlık olması beklenirdi; sıradan bir insanın elçilik iddiası onlara göre inandırıcı değildir.",
+  "Bu itiraz, sure boyunca farklı kıssalarda tekrarlanan bir kalıptır: elçinin insan oluşu çoğu zaman inkârın gerekçesi olarak sunulur. Oysa Kur'an'ın başka yerlerinde bu mantık tersine çevrilir: bir elçinin insanlardan olması, onun insanlara örnek ve anlaşılır olması için gereklidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:27",
+   "meal": "Kavminin ileri gelen kâfirleri dediler ki: 'Biz seni ancak bizim gibi bir insan görüyoruz.'",
+   "baglanti": "Nuh'un kavminin de aynı gerekçeyle elçiliği reddetmesi; itiraz kalıbı farklı kıssalarda tekrarlanır."
+  },
+  {
+   "ref": "14:11",
+   "meal": "Elçileri onlara dedi ki: 'Biz de sizin gibi bir beşerden başka bir şey değiliz, fakat Allah kullarından dilediğine lütfeder.'",
+   "baglanti": "Elçilerin kendileri bu itirazı kabul eder ama bunu bir eksiklik değil, Allah'ın seçimiyle açıklarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir elçinin sıradan insan oluşunun inkâr gerekçesi yapılmasıdır.",
+  "Bugüne taşınabilecek ders, bir fikrin doğruluğunu onu söyleyenin statüsüne veya olağanüstülüğüne bakarak değil, fikrin kendisine bakarak değerlendirmek gerektiğidir. 'Sıradan biri bunu bilemez' önyargısı çoğu zaman haklı bir sözü reddetmenin bahanesidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Statüye değil söze bak",
+   "aciklama": "Bugün, 'sıradan biri' dediğin birinin söylediği bir doğruyu görmezden gelme."
+  },
+  {
+   "baslik": "Kendi sıradanlığını mazeret yapma",
+   "aciklama": "Senin de bir doğruyu söyleyebileceğine inan; kim olduğun, söylediğinin doğruluğunu değiştirmez."
+  },
+  {
+   "baslik": "Önyargını test et",
+   "aciklama": "Bir kişiyi konumuna göre değil, söylediğine göre bugün yeniden değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün 'sıradan' gördüğün birinin söylediği bir doğruyu ciddiye al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=186"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/186"
+  }
+ ]
+}

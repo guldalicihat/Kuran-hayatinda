@@ -1,0 +1,89 @@
+{
+ "sure": 26,
+ "ayet": 198,
+ "durum": "taslak",
+ "meal": "Eğer biz onu Arapça bilmeyenlerden birine indirseydik de,",
+ "mealNotu": "'A'cem' kökü, açık ve düzgün konuşamamayı, dolayısıyla Arapça bilmeyen kişiyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "نَزَّلْنَٰهُ",
+   "okunus": "nezzelnâhü",
+   "kok": "نزل",
+   "kokAnlam": "aşağı indirme",
+   "karsilik": "onu indirseydik"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "بَعْضِ",
+   "okunus": "ba'dı",
+   "kok": "بعض",
+   "kokAnlam": "bazı, bir kısmı",
+   "karsilik": "birine"
+  },
+  {
+   "kelime": "ٱلْأَعْجَمِينَ",
+   "okunus": "el'a'cemîne",
+   "kok": "عجم",
+   "kokAnlam": "dilsizlik, Arapça konuşamama; yabancı",
+   "karsilik": "Arapça bilmeyenlerden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet bir varsayım kurar: Kur'an, Arapça bilmeyen biri üzerinden gelseydi ne olurdu? Bu soru, 195. ayetteki 'apaçık Arapça dil' vurgusuyla bağlantılıdır ve inkârcıların olası bir itirazını önceden karşılar.",
+  "Varsayımın amacı, mesajın reddedilme nedeninin dil ya da anlaşılırlık olmadığını göstermektir. Sonraki ayet (199) bu varsayımı tamamlayarak, dil ne olursa olsun sonucun değişmeyeceğini söyler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "41:44",
+   "meal": "Eğer biz onu yabancı dilde bir Kur'an kılsaydık, derlerdi ki: 'Ayetleri açıklanmalı değil miydi? Arap'a yabancı dilde mi?'",
+   "baglanti": "Fussilet suresinde neredeyse aynı varsayım, inkârcıların olası itirazıyla birlikte daha ayrıntılı anlatılır."
+  },
+  {
+   "ref": "16:103",
+   "meal": "İşaret ettikleri kişinin dili yabancıdır, bu ise apaçık bir Arapça dildir.",
+   "baglanti": "Kur'an'ın bir yabancı tarafından öğretildiği iddiasına karşı, onun açık Arapçasının bu iddiayı çürüttüğü vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir varsayımsal senaryo üzerinden inkârın gerçek nedenini sorgulamaktır.",
+  "Bugüne taşınabilecek ders, bir itirazın gerçek gerekçesini anlamaya çalışmaktır. Bazen bir kişi bir fikri reddederken öne sürdüğü gerekçe (anlaşılmazlık, dil, üslup) asıl neden değildir; asıl direnç başka bir yerden gelir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gerçek gerekçeyi ara",
+   "aciklama": "Bugün biri bir teklifini reddettiğinde, söylediği gerekçenin gerçek neden olup olmadığını düşün."
+  },
+  {
+   "baslik": "Bahaneyle nedeni ayır",
+   "aciklama": "Kendi direncinin arkasındaki gerçek nedeni bugün kendine dürüstçe sor."
+  },
+  {
+   "baslik": "Anlaşılır ol, sonuçları zorlamaya çalışma",
+   "aciklama": "Bugün bir konuyu olabildiğince açık anlat, ama karşındakinin kabul etmemesini kendine dert etme."
+  }
+ ],
+ "bugununAdimi": "Bugün bir itirazın arkasındaki gerçek nedeni anlamaya çalış, ilk söylenen gerekçeyle yetinme.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=198"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/198"
+  }
+ ]
+}

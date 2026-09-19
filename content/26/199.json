@@ -1,0 +1,96 @@
+{
+ "sure": 26,
+ "ayet": 199,
+ "durum": "taslak",
+ "meal": "onu onlara okusaydı, yine ona iman edecek değillerdi.",
+ "mealNotu": "198. ayetin devamıdır; varsayımın sonucunu bildirir. 'Mü'min' kökü güven ve iman etmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "فَقَرَأَهُۥ",
+   "okunus": "fekaraehû",
+   "kok": "قرأ",
+   "kokAnlam": "okuma",
+   "karsilik": "onu okusaydı"
+  },
+  {
+   "kelime": "عَلَيْهِم",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "...değillerdi"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idiler"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "مُؤْمِنِينَ",
+   "okunus": "mü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman etme",
+   "karsilik": "iman edecek"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet bir önceki varsayımı tamamlar: Kur'an'ı Arapça bilmeyen biri, hatta bunu okusa bile, o toplum yine de iman etmeyecekti. Bu, meselenin dilsel anlaşılırlık değil kalplerin kabule kapalı olması olduğunu gösterir.",
+  "Bu vurgu, sonraki ayetlerde (200-201) inkârın kalplerde bir yerleşme olarak tarif edilmesiyle devam eder. Sorun, mesajın açıklığında değil onu almaya hazır olup olmamaktadır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:111",
+   "meal": "Eğer biz onlara melekleri indirseydik, ölüler onlarla konuşsaydı ve her şeyi karşılarına toplasaydık, Allah dilemedikçe yine iman edecek değillerdi.",
+   "baglanti": "En'âm suresinde de aynı ilke, daha büyük mucizeler üzerinden tekrarlanır: kanıtın büyüklüğü inatçı bir kalbi değiştirmeye yetmez."
+  },
+  {
+   "ref": "6:25",
+   "meal": "Kalpleri üzerine, onu anlamalarına engel örtüler koyduk.",
+   "baglanti": "İnanmamanın nedeninin bazen kalbin kendisinde olduğu, burada da benzer bir dille anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir mesajın açıklığının tek başına ikna etmeye yetmediğidir; bu bir inanç meselesidir.",
+  "Bugüne taşınabilecek ders, birini ikna etmeye çalışırken bazen sorunun anlatım biçiminde değil karşı tarafın açık olup olmamasında olduğunu kabul etmektir. Bu, boşuna kendini suçlamamak için önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendini suçlama",
+   "aciklama": "Bugün anlatamadığın bir konuda, her zaman senin anlatım biçiminin sorun olmayabileceğini kabul et."
+  },
+  {
+   "baslik": "Kalbini aç tut",
+   "aciklama": "Bugün bir doğruyu duyduğunda, ilk tepki olarak reddetmek yerine düşünmeye açık ol."
+  },
+  {
+   "baslik": "Israrı bırak, sabrı seç",
+   "aciklama": "Bugün ikna edemediğin biriyle tartışmayı uzatmak yerine, ona zaman tanı."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda kendi kalbinin ne kadar açık olduğunu dürüstçe değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=199"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/199"
+  }
+ ]
+}

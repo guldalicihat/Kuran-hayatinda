@@ -1,0 +1,96 @@
+{
+ "sure": 26,
+ "ayet": 177,
+ "durum": "taslak",
+ "meal": "Hani Şuayb onlara: 'Sakınmıyor musunuz?' demişti.",
+ "mealNotu": "'Tettekûn' kökü (vikaye: korunma) burada soru kalıbıyla bir sitem taşır; 'sakınmıyor musunuz' ifadesi bu soru-sitemi karşılar. Diğer kıssalarda aynı kalıp tekrarlanır; burada yalnız Şuayb'ın adı farklıdır.",
+ "kokler": [
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman zarfı) hani, o zaman",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "demişti"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "شُعَيْبٌ",
+   "okunus": "şüaybün",
+   "kok": "—",
+   "kokAnlam": "(özel ad) Şuayb",
+   "karsilik": "Şuayb"
+  },
+  {
+   "kelime": "أَلَا",
+   "okunus": "elâ",
+   "kok": "—",
+   "kokAnlam": "(soru+olumsuzluk) değil mi",
+   "karsilik": "-mıyor musunuz"
+  },
+  {
+   "kelime": "تَتَّقُونَ",
+   "okunus": "tettekûne",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma, kendini koruma",
+   "karsilik": "sakınmıyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, sure boyunca tekrarlanan 'elçi geldi, aynı soruyla halkına seslendi' kalıbının Şuayb'a ait bölümünü açar. Diğer kıssalarda olduğu gibi burada da elçi, halkına 'kardeşiniz' diye tanıtılmaz; sadece adıyla, Şuayb olarak anılır. Bazı müfessirler bunu, Eyke halkının Medyen'den ayrı bir topluluk olabileceğine işaret olarak yorumlar, ama kesin bir bilgi değildir.",
+  "'Sakınmıyor musunuz?' sorusu bir suçlama değil bir hatırlatmadır: sanki hâlâ vakit varken kendine gel demek gibidir. Bu, korkutucu bir tehditten çok sorumluluk bilincine çağrıdır ve sonraki ayetlerde Şuayb'ın kendini tanıtmasıyla devam eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:161",
+   "meal": "Hani kardeşleri Lût onlara demişti: 'Sakınmaz mısınız?'",
+   "baglanti": "Aynı surede tekrarlanan bu çağrı kalıbı her elçinin ortak açılış sözüdür; farklı kıssalarda aynı ilkeyi hatırlatır."
+  },
+  {
+   "ref": "11:84",
+   "meal": "Medyen halkına da kardeşleri Şuayb'ı gönderdik. Dedi ki: 'Ey kavmim, Allah'a kulluk edin.'",
+   "baglanti": "Şuayb'ın Medyen'e yaptığı çağrının daha geniş hâli; burada 'sakının' vurgusu orada tevhid çağrısıyla birlikte gelir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bir toplumun uyarıya ihtiyaç duyduğu bir andır; Şuayb bunu doğrudan bir soru ile açar.",
+  "Bugüne taşınabilecek ders, bir uyarıyı almanın gecikmeden önce en değerli olduğudur. Kendine 'sakınıyor muyum?' diye sormak, hata büyümeden önce durup bakmayı sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendine bir soru sor",
+   "aciklama": "Bugün bir kararını, 'bu doğru mu?' diye durup sorarak ver."
+  },
+  {
+   "baslik": "Erken uyarıyı ciddiye al",
+   "aciklama": "Yakının sana bir konuda uyarıda bulunduysa, savunmaya geçmeden önce dinle."
+  },
+  {
+   "baslik": "Vakit varken düzelt",
+   "aciklama": "Ertelediğin küçük bir yanlışı, bugün, daha büyümeden düzelt."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararını vermeden önce kendine 'sakınıyor muyum?' diye sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=177"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/177"
+  }
+ ]
+}

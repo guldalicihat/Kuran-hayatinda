@@ -1,0 +1,75 @@
+{
+ "sure": 26,
+ "ayet": 195,
+ "durum": "taslak",
+ "meal": "apaçık bir Arapça dille.",
+ "mealNotu": "'Mübîn' kökü açıklığı, ayırt edilebilirliği anlatır; burada dilin anlaşılırlığına vurgu yapar. Bu ayet 192-195 arası tek cümlenin son parçasıdır.",
+ "kokler": [
+  {
+   "kelime": "بِلِسَانٍ",
+   "okunus": "bilisânin",
+   "kok": "لسن",
+   "kokAnlam": "dil, konuşma",
+   "karsilik": "bir dille"
+  },
+  {
+   "kelime": "عَرَبِىٍّ",
+   "okunus": "arabiyyin",
+   "kok": "عرب",
+   "kokAnlam": "Arap, Arapça",
+   "karsilik": "Arapça"
+  },
+  {
+   "kelime": "مُّبِينٍ",
+   "okunus": "mübînin",
+   "kok": "بين",
+   "kokAnlam": "açıklık, ayırt olma",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "192-195 arası tek cümlenin son parçası, vahyin hangi dilde geldiğini belirtir: apaçık bir Arapça. Bu, mesajın ilk muhatapları için anlaşılır olması gerektiğini vurgular; bir uyarı, ancak anlaşıldığında görevini yerine getirebilir.",
+  "'Mübîn' (apaçık) kelimesi Kur'an'da sık tekrarlanan bir niteliktir; hem dilin açıklığına hem mesajın kendisinin belirsiz olmadığına işaret eder. Bu vurgu, ilerideki ayetlerde (198-199) Arapça bilmeyen birine indirilseydi ne olacağı sorusuyla birlikte daha da anlam kazanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "12:2",
+   "meal": "Biz onu Arapça bir Kur'an olarak indirdik ki akledesiniz.",
+   "baglanti": "Arapça oluşun amacı burada açıkça belirtilir: akletmek, anlamak; Şuarâ'daki 'apaçık' vurgusunu tamamlar."
+  },
+  {
+   "ref": "43:3",
+   "meal": "Biz onu, akıl erdiresiniz diye Arapça bir Kur'an kıldık.",
+   "baglanti": "Aynı amaç Zuhruf suresinde de tekrarlanır; dilin açıklığı ile anlamanın açıklığı birbirine bağlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, vahyin anlaşılır bir dille geldiğidir; bu, ilk muhataplarla ilgili bir gerçektir.",
+  "Bugüne taşınabilecek ders, bir mesajı iletirken açıklığın önemidir. Karmaşık ve anlaşılmaz konuşmak bazen bilgiyi gizlemenin bir yolu olabilir; oysa doğru bir çağrı anlaşılır olmayı hedefler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Açık konuş",
+   "aciklama": "Bugün önemli bir konuyu birine anlatırken, dolaylı değil açık ve anlaşılır ol."
+  },
+  {
+   "baslik": "Anlaşıldığından emin ol",
+   "aciklama": "Bir şey anlattıktan sonra bugün karşındakine, doğru anlayıp anlamadığını sor."
+  },
+  {
+   "baslik": "Kur'an'ı anlayarak oku",
+   "aciklama": "Bugün okuduğun bir ayetin mealine de bakarak anlamını kavramaya çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün okuduğun bir ayetin mealini de oku, sadece Arapçasını geçme.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=195"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/195"
+  }
+ ]
+}

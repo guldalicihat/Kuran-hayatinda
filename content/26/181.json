@@ -1,0 +1,96 @@
+{
+ "sure": 26,
+ "ayet": 181,
+ "durum": "taslak",
+ "meal": "Ölçüyü tam tutun ve eksiltenlerden olmayın.",
+ "mealNotu": "'Vefa' kökü eksiksiz yerine getirmeyi, 'husran' kökü ise eksiltip zarara uğratmayı anlatır; bu iki kök karşıt kutuplar olarak ayette yan yana kullanılmıştır.",
+ "kokler": [
+  {
+   "kelime": "أَوْفُوا۟",
+   "okunus": "evfû",
+   "kok": "وفي",
+   "kokAnlam": "tam yapma, vefa, eksiksiz yerine getirme",
+   "karsilik": "tam tutun"
+  },
+  {
+   "kelime": "ٱلْكَيْلَ",
+   "okunus": "elkeyle",
+   "kok": "كيل",
+   "kokAnlam": "ölçme, ölçek",
+   "karsilik": "ölçüyü"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve...değil",
+   "karsilik": "ve...olmayın"
+  },
+  {
+   "kelime": "تَكُونُوا۟",
+   "okunus": "tekûnû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmayın"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُخْسِرِينَ",
+   "okunus": "elmühsirîne",
+   "kok": "خسر",
+   "kokAnlam": "zarar, eksiltme, kayıp",
+   "karsilik": "eksiltenlerden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Şuayb'ın çağrısı burada somut bir alana, ticaret ahlakına iner: ölçüde eksiltme yapmamak. 'Evfû' (tam tutun) fiili, bir sözü veya ölçüyü eksiksiz yerine getirmeyi anlatan kökten gelir; bu da ölçünün bir tür verilmiş söz gibi görülmesini sağlar.",
+  "'Muhsirîn' (eksiltenler), başkasının hakkını küçülterek kendine haksız kazanç sağlayanları anlatır. Eyke halkının bu konuda uyarılması, o toplumda ölçü ve tartıda hile yapmanın yaygın bir sorun olduğuna işaret eder; klasik tefsir bunu topluluğun temel günahlarından biri olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "83:1",
+   "meal": "Ölçüde ve tartıda hile yapanların vay hâline!",
+   "baglanti": "Mutaffifîn suresinin açılışı, tam olarak bu ayetteki uyarının bir sonraki adımıdır: hile yapanların akıbeti."
+  },
+  {
+   "ref": "17:35",
+   "meal": "Ölçtüğünüz zaman tastamam ölçün, doğru teraziyle tartın; bu daha hayırlı ve sonuç bakımından daha güzeldir.",
+   "baglanti": "Aynı ilke burada hem ölçü hem tartı için, sonucuyla birlikte tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ticarettir: alışverişte ölçüde eksiltme yapmamak. Bu, dönemin Eyke halkının somut bir günahına işaret eder.",
+  "Bugüne taşınabilecek ders çok geniştir: fatura kesmede, hizmet sunmada, verilen sözde eksik bırakmamak. Ölçüde dürüstlük güvenin temelidir; küçük bir eksiltme bile zamanla büyük bir güvensizliğe dönüşür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tam ölç, tam ver",
+   "aciklama": "Bugün bir alışverişte veya iş teslim ederken, sözünde durduğun kadarını değil tam hakkını ver."
+  },
+  {
+   "baslik": "Küçük hileyi büyütme",
+   "aciklama": "Fark edilmeyecek küçük bir eksiltmeye bugün bilerek girme."
+  },
+  {
+   "baslik": "Kimse görmese de dürüst ol",
+   "aciklama": "Kontrol edilmeyeceğini bildiğin bir işte bile ölçüyü tam tut; Allah'ın gördüğünü unutma."
+  }
+ ],
+ "bugununAdimi": "Bugün yaptığın bir işte veya alışverişte, kontrol edilmeyecek olsa bile eksiksiz davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=181"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/181"
+  }
+ ]
+}

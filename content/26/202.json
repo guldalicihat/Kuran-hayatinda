@@ -1,0 +1,89 @@
+{
+ "sure": 26,
+ "ayet": 202,
+ "durum": "taslak",
+ "meal": "O [azap] onlara ansızın gelir, onlar farkında değilken.",
+ "mealNotu": "Zamir 'o', bir önceki ayetteki azaba işaret eder; köşeli parantez içinde [azap] eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "فَيَأْتِيَهُم",
+   "okunus": "feye'tiyehüm",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "onlara gelir"
+  },
+  {
+   "kelime": "بَغْتَةً",
+   "okunus": "bağteten",
+   "kok": "بغت",
+   "kokAnlam": "ansızın, hiç beklenmedik biçimde gelme",
+   "karsilik": "ansızın"
+  },
+  {
+   "kelime": "وَهُمْ",
+   "okunus": "ve hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "...değilken"
+  },
+  {
+   "kelime": "يَشْعُرُونَ",
+   "okunus": "yeş'urûne",
+   "kok": "شعر",
+   "kokAnlam": "hissetme, farkına varma",
+   "karsilik": "farkında"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, azabın gelişinin ne zaman ve nasıl olacağını tasvir eder: habersizce, hiç beklenmedik bir anda. 'Bağteten' (ansızın) kelimesi hazırlıksız yakalanmayı vurgular.",
+  "'Onlar farkında değilken' ifadesi, bu kişilerin uyarılara rağmen gaflet içinde yaşamaya devam ettiklerini gösterir. Uyarı defalarca gelmiş olsa da, günlük hayatın telaşı içinde bu uyarı unutulmuş, ciddiye alınmamıştır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "12:107",
+   "meal": "Onlara, kendilerini kuşatıcı bir azabın Allah'tan gelmesinden yahut kıyametin ansızın gelmesinden, kendileri farkında değilken emin mi oldular?",
+   "baglanti": "Yusuf suresinde aynı 've hüm lâ yeş'urûn' (onlar farkında değilken) ifadesiyle biten benzer bir uyarı yer alır."
+  },
+  {
+   "ref": "7:187",
+   "meal": "O, size ancak ansızın gelecektir.",
+   "baglanti": "Kıyamet saatinin ansızın gelişi, A'râf suresinde de aynı kelimeyle (bağteten) tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, azabın ansızın ve hazırlıksızken gelmesidir; bu, kıyamet ve hesap inancıyla ilgilidir.",
+  "Bugüne taşınabilecek ders, günlük telaş içinde önemli konuları sürekli erteleyip farkında olmadan zaman kaybetmemektir. Hazırlıklı olmak, ansızın gelen her türlü değişikliğe (sağlık, kayıp, fırsat) karşı bir denge sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Farkındalığını artır",
+   "aciklama": "Bugün, günlük telaş içinde unuttuğun önemli bir sorumluluğu hatırla."
+  },
+  {
+   "baslik": "Hazırlıksız yakalanma",
+   "aciklama": "Erteleyip ertelemediğin bir konuda bugün küçük bir hazırlık yap."
+  },
+  {
+   "baslik": "Ölüm ansızın gelir bilinciyle yaşa",
+   "aciklama": "Bugün, her şeyin bir gün ansızın bitebileceğini hatırlayarak önceliklerini gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün, uzun süredir ertelediğin ve ansızın önemli hâle gelebilecek bir konuda küçük bir hazırlık yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=202"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/202"
+  }
+ ]
+}

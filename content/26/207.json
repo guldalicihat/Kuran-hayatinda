@@ -1,0 +1,96 @@
+{
+ "sure": 26,
+ "ayet": 207,
+ "durum": "taslak",
+ "meal": "yararlandırıldıkları şey onlara hiçbir fayda sağlamaz.",
+ "mealNotu": "205-207 arası tek cümlenin sonucudur. 'Ğınâ' kökü yeterlilik ve ihtiyaçsızlığı anlatır; 'fayda sağlamaz' bunu karşılar.",
+ "kokler": [
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "...sağlamaz"
+  },
+  {
+   "kelime": "أَغْنَىٰ",
+   "okunus": "ağnâ",
+   "kok": "غني",
+   "kokAnlam": "zenginlik, yeterlilik, ihtiyaçsızlık",
+   "karsilik": "fayda sağlamaz"
+  },
+  {
+   "kelime": "عَنْهُم",
+   "okunus": "anhüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlardan",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idiler"
+  },
+  {
+   "kelime": "يُمَتَّعُونَ",
+   "okunus": "yümetteûne",
+   "kok": "متع",
+   "kokAnlam": "yararlandırılma",
+   "karsilik": "yararlandırıldıkları"
+  }
+ ],
+ "neAnlatiyor": [
+  "205-206'daki varsayımın sonucu burada açıklanır: uzun yıllar süren nimet ve rahatlık, azap geldiğinde hiçbir işe yaramaz. Bu, dünya nimetinin sahibini asıl hesaptan koruyamayacağını açıkça ortaya koyar.",
+  "'Yümetteûn' (yararlandırıldıkları) fiili, bu nimetlerin kişinin kendi başarısı değil kendisine verilmiş bir imkân olduğunu hatırlatır. Verilen bir şeyin doğru kullanılmadığında sahibine hiçbir koruma sağlamayacağı vurgulanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:88",
+   "meal": "O gün ne mal fayda verir ne oğullar,",
+   "baglanti": "Aynı surede İbrahim'in duasında geçen bu ifade, malın ve evladın hesap gününde fayda sağlamayacağı ilkesini aynı temayla taşır."
+  },
+  {
+   "ref": "3:116",
+   "meal": "İnkâr edenlerin malları da evlatları da, Allah'a karşı kendilerine hiçbir şekilde fayda sağlamaz.",
+   "baglanti": "Âl-i İmrân suresinde aynı kök (ğınâ) kullanılarak, malın Allah'a karşı hiçbir koruma sağlamadığı doğrudan belirtilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dünya nimetinin hesap günü hiçbir fayda sağlamamasıdır; bu, ahiret inancına dairdir.",
+  "Bugüne taşınabilecek ders, sahip olunan imkânları yalnızca biriktirmek için değil doğru bir amaçla kullanmanın önemidir. Elde tutulan bir nimet, doğru kullanılmadığında gerçek bir değere dönüşmez."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sahip olduğunu amaçla kullan",
+   "aciklama": "Bugün elindeki bir imkânı (zaman, para, yetenek) anlamlı bir amaç için kullan."
+  },
+  {
+   "baslik": "Biriktirmeyi tek hedef yapma",
+   "aciklama": "Bugün, yalnızca biriktirmek için değil paylaşmak için de bir adım at."
+  },
+  {
+   "baslik": "Sonsuz ahireti hatırla",
+   "aciklama": "Bugün, bu dünyada sahip olduklarının ahirette ne işe yarayacağını bir kez düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün elindeki bir imkânı, sadece biriktirmek yerine anlamlı bir amaç için kullan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=207"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/207"
+  }
+ ]
+}

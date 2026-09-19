@@ -1,0 +1,89 @@
+{
+ "sure": 26,
+ "ayet": 200,
+ "durum": "taslak",
+ "meal": "İşte böyle, biz onu [inkârı] suçluların kalplerinin içine soktuk.",
+ "mealNotu": "'Onu' zamirinin neye işaret ettiği ayette açık değildir; bağlama göre (198-199'daki iman etmeyiş) 'inkârı' anlamı verilmiştir, bu köşeli parantezle belirtilmiştir. Klasik tefsir bu zamiri Kur'an'ın hakikatine duyulan direnç veya yalanlama olarak da açıklar.",
+ "kokler": [
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "سَلَكْنَٰهُ",
+   "okunus": "seleknâhü",
+   "kok": "سلك",
+   "kokAnlam": "yol açma, sokma, geçirme",
+   "karsilik": "onu soktuk"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içine",
+   "karsilik": "içine"
+  },
+  {
+   "kelime": "قُلُوبِ",
+   "okunus": "kulûbi",
+   "kok": "قلب",
+   "kokAnlam": "kalp, gönül",
+   "karsilik": "kalplerinin"
+  },
+  {
+   "kelime": "ٱلْمُجْرِمِينَ",
+   "okunus": "elmücrimîne",
+   "kok": "جرم",
+   "kokAnlam": "suç işleme",
+   "karsilik": "suçluların"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayette anlatılan 'iman etmeyecekler' gerçeğinin nasıl işlediğini anlatır: inkâr, sanki bir yol gibi kalplere 'sokulur'. 'Selk' kökü, bir şeyi bir yerden geçirmeyi, bir yola sokmayı anlatır; burada inkârın kalbe adım adım yerleştiği bir süreç tasvir edilir.",
+  "Bu ifade, Allah'ın zorla inkâr ettirdiği anlamına gelmez; klasik tefsir bunu, sürekli reddedilen bir hakikatin, reddeden kişinin kalbinde giderek yerleşen bir tutuma dönüşmesi olarak açıklar. Süreç kişinin kendi tercihiyle başlar, sonucu ise kalpte kökleşir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:12",
+   "meal": "Onu (aynı yalanlama tutumunu) suçluların kalplerine böyle sokarız.",
+   "baglanti": "Hicr suresinde neredeyse birebir aynı ifadeyle, aynı kök (selk) kullanılarak tekrarlanır; iki ayet aynı ilkeyi paylaşır."
+  },
+  {
+   "ref": "83:14",
+   "meal": "Hayır, kazanmakta oldukları (günahlar) kalplerinin üzerinde pas tutmuştur.",
+   "baglanti": "Mutaffifîn suresinde, tekrarlanan günahların kalbi nasıl kapladığı anlatılır; bu, 200. ayetteki 'sokma' sürecinin bir başka tasviridir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, inkârın veya yanlışın kalpte nasıl yerleştiğidir; bu bir inanç ve ahlak meselesidir.",
+  "Bugüne taşınabilecek ders, küçük ve tekrarlanan yanlış tercihlerin zamanla karakterin bir parçası hâline gelebileceğidir. Bir yanlışı ilk seferinde fark edip durdurmak, onun kalbe yerleşmesini önlemenin en etkili yoludur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tekrarlanan yanlışı fark et",
+   "aciklama": "Bugün sık tekrarladığın küçük bir yanlışı fark et ve durdurmaya çalış."
+  },
+  {
+   "baslik": "İlk adımda dur",
+   "aciklama": "Bir kötü alışkanlığın ilk işaretini bugün gördüğünde, devam etmeden dur."
+  },
+  {
+   "baslik": "Kalbini koru",
+   "aciklama": "Bugün seni yanlışa alıştırabilecek bir ortamdan veya alışkanlıktan uzak dur."
+  }
+ ],
+ "bugununAdimi": "Bugün sık tekrarladığın küçük bir yanlışı fark edip bir kez durdur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=200"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/200"
+  }
+ ]
+}

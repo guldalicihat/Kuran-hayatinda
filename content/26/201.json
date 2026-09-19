@@ -1,0 +1,103 @@
+{
+ "sure": 26,
+ "ayet": 201,
+ "durum": "taslak",
+ "meal": "Acı veren azabı görünceye kadar ona iman etmezler.",
+ "mealNotu": "'Elem' kökü acıyı anlatır; 'acı veren' ifadesi 'elîm' sıfatını karşılar.",
+ "kokler": [
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "...etmezler"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman etme",
+   "karsilik": "iman etmezler"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ta ki",
+   "karsilik": "ta ki"
+  },
+  {
+   "kelime": "يَرَوُا۟",
+   "okunus": "yeravü",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görünceye"
+  },
+  {
+   "kelime": "ٱلْعَذَابَ",
+   "okunus": "el'azâbe",
+   "kok": "عذب",
+   "kokAnlam": "azap, şiddetli sıkıntı",
+   "karsilik": "azabı"
+  },
+  {
+   "kelime": "ٱلْأَلِيمَ",
+   "okunus": "el'elîme",
+   "kok": "ألم",
+   "kokAnlam": "acı, elem",
+   "karsilik": "acı veren"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, kalplerine yerleşen inkârın sonucunu anlatır: bu kişiler ancak azabı gözleriyle görünceye kadar iman etmeyeceklerdir. Bu, imanın artık bir seçim değil, kaçınılmaz bir gerçekle karşılaşma sonucu geldiği bir anı tasvir eder.",
+  "Böyle bir imanın kıymeti tartışmalıdır; çünkü seçim özgürlüğü ortadan kalktığında kabul etmek zorunlu hâle gelir. Kur'an'ın başka yerlerinde de, azabı gördükten sonraki imanın fayda vermeyeceği açıkça belirtilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:96",
+   "meal": "Rablerinin sözü haklarında gerçekleşmiş olanlar, kendilerine bütün deliller gelse bile, acı veren azabı görünceye kadar iman etmezler.",
+   "baglanti": "Yunus suresinde neredeyse birebir aynı ifadeyle tekrarlanır; iki ayet aynı kalıcı direnci anlatır."
+  },
+  {
+   "ref": "40:85",
+   "meal": "Ama azabımızı gördüklerinde imanları kendilerine fayda vermedi.",
+   "baglanti": "Mü'min suresinde, azabı gördükten sonraki imanın sonucu açıkça belirtilir: artık fayda sağlamaz."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, iman etmenin en anlamlı zamanının henüz vakit varken ve seçme özgürlüğü mevcutken olduğudur.",
+  "Bugüne taşınabilecek ders, bir gerçeği yalnızca sonuçlarıyla yüzleşince kabul etmenin geç kalmış bir kabul olduğudur. Sağlık, ilişki, ibadet gibi konularda da 'olay olduktan sonra' değil 'olmadan önce' harekete geçmek değer taşır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Vakit varken karar ver",
+   "aciklama": "Bugün, sonucuyla karşılaşmadan önce erteleme alışkanlığı olan bir konuda karar ver."
+  },
+  {
+   "baslik": "Ölüm ve ahiret bilinciyle bak",
+   "aciklama": "Bugün, 'bu dünya sonsuz değil' diyerek bir önceliğini gözden geçir."
+  },
+  {
+   "baslik": "Geç kalmadan adım at",
+   "aciklama": "Bir konuda 'zaten sonunda anlarım' demek yerine, bugün şimdiden harekete geç."
+  }
+ ],
+ "bugununAdimi": "Bugün, ertelediğin bir kararı, sonucuyla karşılaşmadan önce şimdiden ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=201"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/201"
+  }
+ ]
+}
