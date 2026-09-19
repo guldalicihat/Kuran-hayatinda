@@ -1,0 +1,89 @@
+{
+ "sure": 30,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Kıyamet koptuğu gün, suçlular umutsuzluğa düşer.",
+ "mealNotu": "'Sâat' burada kıyamet anı anlamındadır. 'Yüblisü' kökü, tüm umudunu yitirip suskunlaşmayı, çaresizce şaşkına dönmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَيَوْمَ",
+   "okunus": "ve yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "ve gün"
+  },
+  {
+   "kelime": "تَقُومُ",
+   "okunus": "tekûmü",
+   "kok": "قوم",
+   "kokAnlam": "ayağa kalkma, kopma, gerçekleşme",
+   "karsilik": "koptuğu"
+  },
+  {
+   "kelime": "ٱلسَّاعَةُ",
+   "okunus": "essâatü",
+   "kok": "سوع",
+   "kokAnlam": "an, vakit; kıyamet anı",
+   "karsilik": "kıyamet"
+  },
+  {
+   "kelime": "يُبْلِسُ",
+   "okunus": "yüblisü",
+   "kok": "بلس",
+   "kokAnlam": "umutsuzluğa düşme, çaresizce susma",
+   "karsilik": "umutsuzluğa düşer"
+  },
+  {
+   "kelime": "ٱلْمُجْرِمُونَ",
+   "okunus": "elmücrimûne",
+   "kok": "جرم",
+   "kokAnlam": "suç işleme",
+   "karsilik": "suçlular"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetteki yaratma-tekrarlama ilkesinden sonra, bu tekrarın son aşamasına, kıyamet gününe geçer. O gün geldiğinde suçlular, yani inkâr ve isyanda ısrar edenler, tam bir umutsuzluğa ve çaresizliğe düşerler.",
+  "'Yüblisü' kelimesi, İblis adının da kökeniyle ilişkilendirilen, tüm ümidini yitirip konuşamaz hale gelmeyi anlatan güçlü bir ifadedir. Bu ayet, sonraki ayetlerde anlatılacak sahte şefaatçilerin ve pişmanlığın habercisi gibidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:31",
+   "meal": "Kıyamet ansızın gelip çattığında, o günün kötülüğünden dolayı ağırlıklarını sırtlarında taşıyarak 'yazıklar olsun bize' diyenler gerçekten hüsrana uğramışlardır.",
+   "baglanti": "En'âm suresinde de kıyametin ansızın gelişi, suçluların pişmanlık ve çaresizliğiyle birlikte anlatılır."
+  },
+  {
+   "ref": "45:27",
+   "meal": "Kıyamet koptuğu gün, işte o gün batıl peşinde koşanlar hüsrana uğrayacaklardır.",
+   "baglanti": "Câsiye suresinde de aynı 'kıyamet koptuğu gün' kalıbı, hüsran vurgusuyla tekrar eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayet doğrudan kıyamet gününü ve suçluların o gündeki halini anlatır; gündelik bir hüküm değildir.",
+  "Buradan çıkan ders, bugünün seçimlerinin o günkü hali belirlediğidir. Şimdi umutsuzluğa düşmeden önce, bugünden yapılan küçük iyi tercihlerin o gün için bir dayanak olacağını hatırlamak faydalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "O günü hatırla",
+   "aciklama": "Bugün bir yanlışa yönelirken, kıyamet gününün hesap gününü olduğunu bir an hatırla."
+  },
+  {
+   "baslik": "Umutsuzluğa düşürecek işi bırak",
+   "aciklama": "Seni pişman edecek bir davranışı bugün, işlemeden önce bırakmayı dene."
+  },
+  {
+   "baslik": "Şimdiden hazırlan",
+   "aciklama": "Bugün küçük bir iyilik yaparak, o gün için bir hazırlık biriktir."
+  }
+ ],
+ "bugununAdimi": "Bugün yapmayı düşündüğün bir yanlışı, o günü hatırlayarak bırak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/30/12"
+  }
+ ]
+}

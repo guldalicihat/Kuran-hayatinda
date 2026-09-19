@@ -1,0 +1,201 @@
+{
+ "sure": 30,
+ "ayet": 24,
+ "durum": "taslak",
+ "meal": "O'nun ayetlerinden biri de, size şimşeği hem korku hem umut vererek göstermesi ve gökten su indirip onunla yeryüzünü ölümünden sonra diriltmesidir. Şüphesiz bunda, akıl eden bir topluluk için ibretler vardır.",
+ "mealNotu": "'Havf' korkuyu, 'tama'' umut ve isteği anlatır; şimşek hem yıldırım korkusu hem yağmur umudu taşır. Ayet 'li-kavmin ya'kılûn' (akıl edenler için) diyerek akletmeyi şart koşar.",
+ "kokler": [
+  {
+   "kelime": "وَمِنْ",
+   "okunus": "ve min",
+   "kok": "—",
+   "kokAnlam": "-den, -dan",
+   "karsilik": "ve ... biri"
+  },
+  {
+   "kelime": "ءَايَٰتِهِۦ",
+   "okunus": "âyâtihî",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil; ayet",
+   "karsilik": "O'nun ayetlerinden"
+  },
+  {
+   "kelime": "يُرِيكُمُ",
+   "okunus": "yürîkümü",
+   "kok": "رأي",
+   "kokAnlam": "görme, gösterme",
+   "karsilik": "size gösterir"
+  },
+  {
+   "kelime": "ٱلْبَرْقَ",
+   "okunus": "elberka",
+   "kok": "برق",
+   "kokAnlam": "şimşek, parıltı",
+   "karsilik": "şimşeği"
+  },
+  {
+   "kelime": "خَوْفًا",
+   "okunus": "havfen",
+   "kok": "خوف",
+   "kokAnlam": "korku",
+   "karsilik": "korku"
+  },
+  {
+   "kelime": "وَطَمَعًا",
+   "okunus": "ve tamean",
+   "kok": "طمع",
+   "kokAnlam": "umut, istek, açgözlü bekleyiş",
+   "karsilik": "ve umut vererek"
+  },
+  {
+   "kelime": "وَيُنَزِّلُ",
+   "okunus": "ve yünezzilü",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "ve indirir"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den, -dan",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "gökten"
+  },
+  {
+   "kelime": "مَآءً",
+   "okunus": "mâen",
+   "kok": "موه",
+   "kokAnlam": "su",
+   "karsilik": "su"
+  },
+  {
+   "kelime": "فَيُحْىِۦ",
+   "okunus": "feyühyî",
+   "kok": "حيي",
+   "kokAnlam": "canlılık, hayat verme, diriltme",
+   "karsilik": "ve diriltir"
+  },
+  {
+   "kelime": "بِهِ",
+   "okunus": "bihi",
+   "kok": "—",
+   "kokAnlam": "onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "ٱلْأَرْضَ",
+   "okunus": "el'erda",
+   "kok": "أرض",
+   "kokAnlam": "yeryüzü, toprak",
+   "karsilik": "yeryüzünü"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonra, ardından",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مَوْتِهَآ",
+   "okunus": "mevtihâ",
+   "kok": "موت",
+   "kokAnlam": "ölüm, ölü olma",
+   "karsilik": "onun ölümünden"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "gerçekten, kuşkusuz; pekiştirme edatı",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "bunda, işaret zamiri",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "لَءَايَٰتٍ",
+   "okunus": "leâyâtin",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil; ayet",
+   "karsilik": "elbette ibretler"
+  },
+  {
+   "kelime": "لِّقَوْمٍ",
+   "okunus": "likavmin",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "bir topluluk için"
+  },
+  {
+   "kelime": "يَعْقِلُونَ",
+   "okunus": "ya'kılûne",
+   "kok": "عقل",
+   "kokAnlam": "akıl etme, düşünüp kavrama",
+   "karsilik": "akıl eden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, beşinci büyük 'ayet' olarak şimşek ve yağmuru sayar. Şimşek, hem yıldırım düşme korkusu hem de yağmur getireceği umudunu birlikte taşıyan, gündelik hayatta herkesin tanıdığı bir doğa olayıdır.",
+  "Bu şimşeği takip eden yağmur, kurumuş toprağı yeniden diriltir; bu da 19. ayette geçen 'diri-ölü' temasının bir başka görünümüdür. Ayet, bu döngüyü 'akıl eden bir topluluk için' bir ibret olarak sunar; yani sadece gözlemlemek değil, üzerinde akıl yürütmek gerekir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "13:12",
+   "meal": "Size şimşeği korku ve umut olsun diye gösteren ve yağmur yüklü bulutları oluşturan O'dur.",
+   "baglanti": "Ra'd suresinde neredeyse aynı ifade, şimşeğin korku ve umut boyutunu aynı şekilde anlatır."
+  },
+  {
+   "ref": "7:57",
+   "meal": "Rahmetinin önünde rüzgârları müjdeci olarak gönderen O'dur... Onunla ölü bir beldeye su indiririz de onunla her türlü meyveyi çıkarırız. İşte ölüleri de böyle çıkarırız.",
+   "baglanti": "A'râf suresi de yağmurla ölü toprağın dirilmesini, ölülerin dirilişine bir benzetme olarak aynı mantıkla anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayet doğrudan şimşek, yağmur ve toprağın canlanması gibi doğa olaylarını, Allah'ın kudretine bir delil olarak sunar.",
+  "Bugün de bir fırtınada hem endişe hem rahmet beklentisi birlikte yaşanabilir. Bu ayet, doğa olaylarına sadece pratik bir gözle değil, düşündürücü bir gözle bakmayı, onlarda bir anlam aramayı öğütler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hava olayını düşünerek izle",
+   "aciklama": "Bugün bir yağmur ya da fırtınayı izlerken, bunun bir tesadüf değil bir düzen olduğunu düşün."
+  },
+  {
+   "baslik": "Korku ve umudu dengede tut",
+   "aciklama": "Zor bir durumda bugün, hem temkinli hem umutlu olmayı dene, ikisini bir arada taşı."
+  },
+  {
+   "baslik": "Bir rahmete şükret",
+   "aciklama": "Bugün faydalandığın bir doğal kaynağı (su, yağmur) fark edip ona şükret."
+  }
+ ],
+ "bugununAdimi": "Bugün gökyüzünde bir değişiklik (bulut, yağmur, şimşek) gördüğünde, bir an durup üzerinde düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=24"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/30/24"
+  }
+ ]
+}

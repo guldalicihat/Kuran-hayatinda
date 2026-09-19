@@ -1,0 +1,110 @@
+{
+ "sure": 30,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "Göklerde ve yerde hamd yalnız O'nadır; günün sonunda ve öğleye erdiğinizde de.",
+ "mealNotu": "'Hamd' kökü şükürle karışık övgüyü anlatır. Ayet, 17. ayetteki tesbih çağrısını, göklerdeki-yerdeki hamd ve iki vakit daha (ikindi, öğle) ekleyerek tamamlar.",
+ "kokler": [
+  {
+   "kelime": "وَلَهُ",
+   "okunus": "ve lehü",
+   "kok": "—",
+   "kokAnlam": "ve ona ait, ona mahsus",
+   "karsilik": "ve O'nadır"
+  },
+  {
+   "kelime": "ٱلْحَمْدُ",
+   "okunus": "elhamdü",
+   "kok": "حمد",
+   "kokAnlam": "övme; nimet karşısında şükürle övme",
+   "karsilik": "hamd"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "göklerde"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yeryüzü, toprak",
+   "karsilik": "ve yerde"
+  },
+  {
+   "kelime": "وَعَشِيًّا",
+   "okunus": "ve aşiyyen",
+   "kok": "عشو",
+   "kokAnlam": "günün sonu, akşama doğru vakit",
+   "karsilik": "ve günün sonunda"
+  },
+  {
+   "kelime": "وَحِينَ",
+   "okunus": "ve hîne",
+   "kok": "حين",
+   "kokAnlam": "an, vakit, zaman",
+   "karsilik": "ve vakit"
+  },
+  {
+   "kelime": "تُظْهِرُونَ",
+   "okunus": "tüzhirûne",
+   "kok": "ظهر",
+   "kokAnlam": "dışa yansıma; öğle vaktine erme",
+   "karsilik": "öğleye erdiğinizde"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki 'akşam ve sabah tesbih edin' çağrısını genişletir: hamd, yani şükürle karışık övgü, göklerde ve yerde sadece Allah'a aittir; bu O'nun her an övülmeye layık olduğunu vurgular.",
+  "Ayetin ikinci yarısı, günlük ibadet vakitlerini iki vakit daha ekleyerek tamamlar: 'aşiyy' (günün sonu, akşam üstü) ve 'zuhr' (öğle vakti). Klasik tefsir bu dört vakti (sabah, öğle, ikindi, akşam-yatsı) günlük namaz vakitleriyle ilişkilendirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:78",
+   "meal": "Güneşin batıya kaymasından gecenin karanlığına kadar namazı kıl; bir de sabah namazını.",
+   "baglanti": "İsrâ suresi de gün içindeki namaz vakitlerini, güneşin hareketine göre benzer şekilde sıralar."
+  },
+  {
+   "ref": "1:2",
+   "meal": "Hamd, âlemlerin Rabbi Allah'a mahsustur.",
+   "baglanti": "Fâtiha'daki 'hamd yalnız Allah'a aittir' ifadesi burada göklerde ve yerde geçerli kılınarak evrensel bir boyut kazanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayet doğrudan bir ibadet ve zikir çağrısıdır; günün farklı vakitlerinde Allah'ı övmeyi konu alır.",
+  "Bugüne taşınabilecek ders, günü parçalara bölüp her parçada bir şükür anı yaratmaktır. Sabah, öğle, ikindi, akşam; günün doğal duraklarını bir hatırlama fırsatına çevirmek mümkündür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Öğle molasında bir şükür",
+   "aciklama": "Bugün öğle vaktinde işini bırakıp kısa bir şükür cümlesi kur."
+  },
+  {
+   "baslik": "Günü dört durakla böl",
+   "aciklama": "Sabah, öğle, ikindi, akşam; her birinde bir dakikalık bir hamd anı ayır."
+  },
+  {
+   "baslik": "Her yerde geçerli hamd",
+   "aciklama": "Nerede olursan ol, bugün bir kez 'Elhamdülillah' demeyi hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün öğle vaktinde, ne yapıyor olursan ol, kısa bir 'Elhamdülillah' de.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/30/18"
+  }
+ ]
+}

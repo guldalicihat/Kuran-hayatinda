@@ -1,0 +1,152 @@
+{
+ "sure": 30,
+ "ayet": 19,
+ "durum": "taslak",
+ "meal": "Diriyi ölüden çıkarır, ölüyü de diriden çıkarır; yeryüzünü ölümünden sonra diriltir. İşte siz de böyle çıkarılacaksınız.",
+ "mealNotu": "'Hayy' ve 'meyyit' kökleri diri ve ölüyü, 'yühyî' kökü diriltmeyi anlatır. Cümle sonundaki 'tühracûn' edilgen çatıda 'çıkarılacaksınız' demektir.",
+ "kokler": [
+  {
+   "kelime": "يُخْرِجُ",
+   "okunus": "yühricü",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma, dışarı getirme",
+   "karsilik": "çıkarır"
+  },
+  {
+   "kelime": "ٱلْحَىِّ",
+   "okunus": "elhayye",
+   "kok": "حيي",
+   "kokAnlam": "canlılık, diri olma",
+   "karsilik": "diriyi"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den, -dan",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمَيِّتَ",
+   "okunus": "elmeyyiti",
+   "kok": "موت",
+   "kokAnlam": "ölüm, ölü olma",
+   "karsilik": "ölüden"
+  },
+  {
+   "kelime": "وَيُخْرِجُ",
+   "okunus": "ve yühricü",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma, dışarı getirme",
+   "karsilik": "ve çıkarır"
+  },
+  {
+   "kelime": "ٱلْمَيِّتَ",
+   "okunus": "elmeyyite",
+   "kok": "موت",
+   "kokAnlam": "ölüm, ölü olma",
+   "karsilik": "ölüyü"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den, -dan",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْحَىِّ",
+   "okunus": "elhayyi",
+   "kok": "حيي",
+   "kokAnlam": "canlılık, diri olma",
+   "karsilik": "diriden"
+  },
+  {
+   "kelime": "وَيُحْىِ",
+   "okunus": "ve yühyi",
+   "kok": "حيي",
+   "kokAnlam": "canlılık, hayat verme, diriltme",
+   "karsilik": "ve diriltir"
+  },
+  {
+   "kelime": "ٱلْأَرْضَ",
+   "okunus": "el'erda",
+   "kok": "أرض",
+   "kokAnlam": "yeryüzü, toprak",
+   "karsilik": "yeryüzünü"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonra, ardından",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مَوْتِهَا",
+   "okunus": "mevtihâ",
+   "kok": "موت",
+   "kokAnlam": "ölüm, ölü olma",
+   "karsilik": "onun ölümünden"
+  },
+  {
+   "kelime": "وَكَذَٰلِكَ",
+   "okunus": "ve kezâlike",
+   "kok": "—",
+   "kokAnlam": "işte böyle, işaret ifadesi",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "تُخْرَجُونَ",
+   "okunus": "tühracûne",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma, dışarı getirme",
+   "karsilik": "çıkarılacaksınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, gündelik hayatta gözlemlenebilen bir tabiat kanununu hatırlatır: Allah diriyi ölüden, ölüyü de diriden çıkarır. Klasik tefsir bunu hem bitki tohumu-bitki ilişkisi gibi somut örneklerle hem de mümin-kâfir çocuk ilişkisi gibi mecazi anlamlarla açıklar.",
+  "Yeryüzünün kuraklıktan sonra yağmurla yeniden yeşermesi de aynı ilkenin bir başka örneğidir. Ayet, bu gözlemlenen canlanmayı, insanın öldükten sonra dirilmesine bir benzetme olarak sunar: 'işte siz de böyle çıkarılacaksınız.'"
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:27",
+   "meal": "Diriyi ölüden çıkarırsın, ölüyü de diriden çıkarırsın; dilediğine hesapsız rızık verirsin.",
+   "baglanti": "Âl-i İmrân suresinde neredeyse aynı ifade, Allah'ın mutlak kudretini anlatan bir dua bağlamında geçer."
+  },
+  {
+   "ref": "41:39",
+   "meal": "Yeryüzünü boynu bükük, kupkuru görürsün; üzerine su indirdiğimizde ise hareketlenir, kabarır. Onu dirilten, elbette ölüleri de diriltir.",
+   "baglanti": "Fussilet suresi, kuru toprağın yağmurla canlanmasını, ölülerin dirilişine doğrudan bir kanıt olarak sunar; bu ayetin mantığıyla aynıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayet, doğada gözlemlenen canlanma-ölme döngüsünü, öldükten sonra dirilişe bir işaret olarak anlatır.",
+  "Bugün de bir tohumun toprakta çürüyüp yeni bir bitki vermesi, kurak bir toprağın yağmurla yeşermesi gibi örnekler, umut ve yeniden başlamanın mümkün olduğunu hatırlatır. Bitmiş görünen bir şeyin yeniden canlanabileceğini bilmek teselli edicidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir doğa örneği izle",
+   "aciklama": "Bugün bir bitkiyi ya da filizlenen bir tohumu izleyip, canlanma-ölme döngüsünü düşün."
+  },
+  {
+   "baslik": "Bitmişi yeniden canlandır",
+   "aciklama": "Uzun süredir ihmal ettiğin bir ilişkiyi ya da alışkanlığı bugün küçük bir adımla yeniden canlandır."
+  },
+  {
+   "baslik": "Dirilişi hatırla",
+   "aciklama": "Bu doğal döngüyü görünce, kendi dirilişini de bir an aklına getir."
+  }
+ ],
+ "bugununAdimi": "Bugün etrafında bir canlanma örneği (yeşeren bir dal, doğan bir gün) fark edip bunu dirilişe bir işaret olarak düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=19"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/30/19"
+  }
+ ]
+}

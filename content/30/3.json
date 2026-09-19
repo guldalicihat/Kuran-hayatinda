@@ -1,0 +1,110 @@
+{
+ "sure": 30,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Yerin en yakın bir yerinde. Onlar, bu yenilgilerinin ardından galip geleceklerdir.",
+ "mealNotu": "'Ednâ' kökü hem 'en yakın' hem 'en alçak' anlamına gelebilir; klasik tefsir burada coğrafi yakınlığı (Arap yarımadasına yakın bir bölge) esas alır. Cümle anlamca 4. ayete bağlanır.",
+ "kokler": [
+  {
+   "kelime": "فِىٓ",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde, yer bildiren edat",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "أَدْنَى",
+   "okunus": "ednâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık; en yakın olma, alçak olma",
+   "karsilik": "en yakın"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yeryüzü, toprak",
+   "karsilik": "yerin"
+  },
+  {
+   "kelime": "وَهُم",
+   "okunus": "ve hüm",
+   "kok": "—",
+   "kokAnlam": "zamir: onlar",
+   "karsilik": "ve onlar"
+  },
+  {
+   "kelime": "مِّنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den; 'ba'di' ile birlikte 'ardından' anlamı verir",
+   "karsilik": "(ardından ifadesinde)"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra, ardından",
+   "karsilik": "ardından"
+  },
+  {
+   "kelime": "غَلَبِهِمْ",
+   "okunus": "galebihim",
+   "kok": "غلب",
+   "kokAnlam": "yenme, üstün gelme; burada 'galeb': yenilgi/mağlubiyet",
+   "karsilik": "yenilgilerinin"
+  },
+  {
+   "kelime": "سَيَغْلِبُونَ",
+   "okunus": "seyağlibûne",
+   "kok": "غلب",
+   "kokAnlam": "yenme, üstün gelme",
+   "karsilik": "galip gelecekler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette Rumların yenilgisi haber verilmişti; bu ayet önce yenilginin yaşandığı yeri ('yerin en yakınında') belirtir. Klasik tefsir bu ifadeyi, savaşın Arap yarımadasına yakın bir bölgede geçtiğine bağlar.",
+  "Ayetin ikinci ve asıl vurgulu kısmı ise şaşırtıcı bir haberdir: bu yenilgiye rağmen Rumlar tekrar galip geleceklerdir. Cümle 4. ayette 'birkaç yıl içinde' ifadesiyle tamamlanır; böylece Kur'an, henüz gerçekleşmemiş bir olayı gaybî bir haber olarak verir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:140",
+   "meal": "Böyle günleri biz insanlar arasında döndürür dururuz.",
+   "baglanti": "Yenilginin ardından galibiyetin gelmesi, zafer ve mağlubiyet günlerinin dönüp durması ilkesine örnektir."
+  },
+  {
+   "ref": "12:21",
+   "meal": "Allah, işinde galiptir; fakat insanların çoğu bilmez.",
+   "baglanti": "Sonucun kimin lehine döneceğini asıl belirleyenin Allah olduğu vurgusu, buradaki gaybî haberle aynı çerçevededir."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayet tarihsel bir olayın devamıdır; doğrudan bir hüküm içermez. Ama bir yenilginin son söz olmadığını, tersine dönebileceğini gösterir.",
+  "Bugün de bir başarısızlığın ardından 'artık bitti' demek yerine, toparlanma ihtimaline açık kalmak makul bir tutumdur. Sonucu bilmiyor olman, umudu bırakman için sebep değildir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yenilgiyi son saymama",
+   "aciklama": "Bugün yaşadığın bir kaybı, 'bundan sonra toparlanabilirim' diyerek değerlendir."
+  },
+  {
+   "baslik": "Uzak sonuçlara güven",
+   "aciklama": "Şu an göremediğin bir gelişmenin ileride tersine dönebileceğini hatırla, umutsuzluğa kapılma."
+  },
+  {
+   "baslik": "Sabırlı bir adım at",
+   "aciklama": "Bugün yarım bıraktığın bir işe, sonucu hemen görmesen de küçük bir adım daha at."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda erken pes ettiğini fark edersen, ona bir kez daha, küçük bir adımla dön.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/30/3"
+  }
+ ]
+}

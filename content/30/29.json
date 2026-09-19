@@ -1,0 +1,166 @@
+{
+ "sure": 30,
+ "ayet": 29,
+ "durum": "taslak",
+ "meal": "Hayır! Zulmedenler, bilgisizce kendi arzularına uydular. Allah'ın saptırdığını kim doğru yola iletebilir? Onların hiçbir yardımcısı da yoktur.",
+ "mealNotu": "'Hevâ' kökü nefsin arzusunu, isteğini anlatır. 'Edalle' fiili, kişinin kendi tercihiyle sapması sonucu Allah'ın onu sapkınlığında bırakması anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "بَلِ",
+   "okunus": "beli",
+   "kok": "—",
+   "kokAnlam": "hayır, bilakis; idrak/aktarma edatı",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "ٱتَّبَعَ",
+   "okunus": "ittebea",
+   "kok": "تبع",
+   "kokAnlam": "peşinden gitme, uyma",
+   "karsilik": "uydular"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri: -ler ki",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ظَلَمُوٓا۟",
+   "okunus": "zalemû",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık etme, yerinden çıkarma",
+   "karsilik": "zulmedenler"
+  },
+  {
+   "kelime": "أَهْوَآءَهُم",
+   "okunus": "ehvâehüm",
+   "kok": "هوي",
+   "kokAnlam": "arzu, istek, düşkünlük",
+   "karsilik": "kendi arzularına"
+  },
+  {
+   "kelime": "بِغَيْرِ",
+   "okunus": "biğayri",
+   "kok": "غير",
+   "kokAnlam": "başkalık; -sız, olmaksızın",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "عِلْمٍ",
+   "okunus": "ilmin",
+   "kok": "علم",
+   "kokAnlam": "bilgi, bilme",
+   "karsilik": "bilgi"
+  },
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "kim, ilgi zamiri",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "يَهْدِى",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme, hidayet etme",
+   "karsilik": "doğru yola iletebilir"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "kimi, ilgi zamiri",
+   "karsilik": "kimseyi"
+  },
+  {
+   "kelime": "أَضَلَّ",
+   "okunus": "edalle",
+   "kok": "ضلل",
+   "kokAnlam": "yolunu kaybettirme, saptırma",
+   "karsilik": "saptırdığı"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "ve yok, olumsuzluk",
+   "karsilik": "ve yoktur"
+  },
+  {
+   "kelime": "لَهُم",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "onlara, onlar için",
+   "karsilik": "onların"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den, -dan",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "نَّٰصِرِينَ",
+   "okunus": "nâsırîne",
+   "kok": "نصر",
+   "kokAnlam": "yardım etme, zafere ulaştırma",
+   "karsilik": "yardımcısı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki akılcı örneklere rağmen, zulmedenlerin (müşriklerin) doğru yolu neden bulamadığını açıklar: bunlar bilgiye değil, kendi nefsani arzularına uymuşlardır. Yani sorun bilgi eksikliği değil, bilgiyi bile bile göz ardı etmektir.",
+  "'Allah'ın saptırdığını kim doğru yola iletebilir?' sorusu, kişinin kendi ısrarlı tercihiyle sapması sonucunda Allah'ın onu bu sapkınlığında bıraktığını, artık kimsenin onu zorla doğru yola getiremeyeceğini vurgular. Ayet, bu kişiler için hiçbir yardımcının olmadığını söyleyerek biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "45:23",
+   "meal": "Kendi arzusunu ilah edinen, Allah'ın bir bilgiye dayanarak saptırdığı, kulağını ve kalbini mühürlediği kimseyi gördün mü?",
+   "baglanti": "Câsiye suresi de nefsin arzusunu ilah edinmenin sapkınlığa nasıl yol açtığını, aynı ifadeyle anlatır."
+  },
+  {
+   "ref": "4:88",
+   "meal": "Allah'ın saptırdığı kimseye sen mi doğru yolu göstereceksin? Allah'ın saptırdığı kimse için asla bir yol bulamazsın.",
+   "baglanti": "Nisâ suresi de aynı ilkeyi, Allah'ın saptırdığı kişiye kimsenin yol gösteremeyeceğini net bir şekilde tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayet doğrudan, doğru bilgiye rağmen nefsin arzusuna uyarak sapmayı, bunun sonuçlarını anlatır.",
+  "Bugüne taşınabilecek ders, bir konuda doğruyu bildiğin halde sırf isteğine uyduğun için yanlış yapmanın, cehaletten daha ağır bir sorumluluk taşıdığıdır. Kendi arzunu bir ölçüt haline getirmek yerine, bilgiyle hareket etmek daha güvenlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Arzuna değil bilgine bak",
+   "aciklama": "Bugün bir kararda, sadece istediğin şeyi değil, doğru bildiğin şeyi öne çıkar."
+  },
+  {
+   "baslik": "Nefsin sesini fark et",
+   "aciklama": "Bir isteğin seni yanlışa çekerken bugün, bunun nefsin arzusu olduğunu fark edip dur."
+  },
+  {
+   "baslik": "Israrlı yanlıştan dön",
+   "aciklama": "Uzun süredir bile bile yaptığın küçük bir yanlıştan bugün vazgeçmeyi dene."
+  }
+ ],
+ "bugununAdimi": "Bugün bir isteğinle doğru bildiğin şey çatıştığında, doğru olanı seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=29"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/30/29"
+  }
+ ]
+}
