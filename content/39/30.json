@@ -1,0 +1,82 @@
+{
+ "sure": 39,
+ "ayet": 30,
+ "durum": "taslak",
+ "meal": "Şüphesiz sen öleceksin, onlar da ölecekler.",
+ "mealNotu": "Ayet çok kısa ve doğrudan bir cümledir; 'meyyit' kelimesi, henüz ölmemiş ama ölümü kesin olan kişi için de kullanılır, bu yüzden 'öleceksin' diye çevrilmiştir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّكَ",
+   "okunus": "inneke",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz sen",
+   "karsilik": "şüphesiz sen"
+  },
+  {
+   "kelime": "مَيِّتٌ",
+   "okunus": "meyyitün",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "öleceksin"
+  },
+  {
+   "kelime": "وَإِنَّهُم",
+   "okunus": "ve innehüm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ve şüphesiz onlar",
+   "karsilik": "onlar da"
+  },
+  {
+   "kelime": "مَّيِّتُونَ",
+   "okunus": "meyyitûne",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölecekler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu çok kısa ayet, Peygambere ve onun karşısındaki herkese, ölümün kesinliğini hatırlatır. Bu hitap, ne Peygamberin ne de muhataplarının bu dünyada kalıcı olmadığını, herkesin aynı sona doğru gittiğini bildirir.",
+  "Ayet, önceki ayetteki tevhid-şirk karşılaştırmasından sonra, tartışmanın nihayetinde ölümle son bulacağını hatırlatarak bir sonraki ayete zemin hazırlar: ölümden sonra herkes Allah'ın huzurunda hesaplaşacaktır. Bu kısalık, mesajın ağırlığını daha da vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:185",
+   "meal": "Her can ölümü tadacaktır. Kıyamet günü ecirleriniz eksiksiz ödenecektir.",
+   "baglanti": "Âl-i İmrân suresi, ölümün evrenselliğini bildirip bunu kıyamet günündeki karşılıkla birlikte anar; Zümer 30-31'in özetini verir."
+  },
+  {
+   "ref": "21:34",
+   "meal": "Senden önce hiçbir beşere ölümsüzlük vermedik. Sen ölürsen, onlar sonsuza mı kalacaklar?",
+   "baglanti": "Enbiyâ suresi de hiçbir insana, peygamberler dahil, ölümsüzlük verilmediğini aynı netlikte bildirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, herkesin, Peygamber dahil, öleceği gerçeğidir. Bu, istisnasız bir kuraldır.",
+  "Günlük hayata taşınabilecek ders, ölümü unutulmuş bir gerçek olmaktan çıkarıp hayatın bir parçası olarak kabul etmektir. Ölümü hatırlamak, insanı gereksiz kibirden ve dünyaya aşırı bağlanmaktan korur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ölümü hatırla",
+   "aciklama": "Bugün bir an durup, kendi ölümünün kesinliğini düşün."
+  },
+  {
+   "baslik": "Vaktini değerlendir",
+   "aciklama": "Ölümün hatırlatmasıyla, bugün erteleme yerine önemli bir işi şimdi yap."
+  },
+  {
+   "baslik": "Hazırlığını gözden geçir",
+   "aciklama": "Ahirete hazırlık olarak yaptığın bir şeyi bugün gözden geçir veya başlat."
+  }
+ ],
+ "bugununAdimi": "Bugün erteleyip durduğun bir hazırlığı, ölümü hatırlayarak şimdi yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=30"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/39/30"
+  }
+ ]
+}

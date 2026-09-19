@@ -1,0 +1,215 @@
+{
+ "sure": 39,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Gökleri ve yeri hak ile yarattı. Geceyi gündüzün üzerine sarar, gündüzü de gecenin üzerine sarar. Güneşi ve ayı, boyun eğdirilmiş kıldı; her biri belirlenmiş bir süreye kadar akıp gider. İyi bilin ki O, Azîz ve çok bağışlayandır.",
+ "mealNotu": "'Yükevviru' fiili 'kevr' kökünden gelir ve bir şeyi sarıp dolamayı anlatır; burada gece ile gündüzün birbirinin üzerine sarılması olarak çevrilmiştir. 'Müsemmâ' ise 'adı konmuş, belirlenmiş' anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "خَلَقَ",
+   "okunus": "haleka",
+   "kok": "خلق",
+   "kokAnlam": "yoktan var etme, yaratma",
+   "karsilik": "yarattı"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "gökleri"
+  },
+  {
+   "kelime": "وَٱلْأَرْضَ",
+   "okunus": "vel erda",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yeri"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, doğru, yerinde olan",
+   "karsilik": "hak ile"
+  },
+  {
+   "kelime": "يُكَوِّرُ",
+   "okunus": "yükevviru",
+   "kok": "كور",
+   "kokAnlam": "sarıp dolama",
+   "karsilik": "sarar"
+  },
+  {
+   "kelime": "ٱلَّيْلِ",
+   "okunus": "elleyle",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "geceyi"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلنَّهَارَ",
+   "okunus": "ennehâri",
+   "kok": "نهر",
+   "kokAnlam": "gündüz",
+   "karsilik": "gündüzün"
+  },
+  {
+   "kelime": "وَيُكَوِّرُ",
+   "okunus": "ve yükevviru",
+   "kok": "كور",
+   "kokAnlam": "sarıp dolama",
+   "karsilik": "sarar"
+  },
+  {
+   "kelime": "ٱلنَّهَارَ",
+   "okunus": "ennehâra",
+   "kok": "نهر",
+   "kokAnlam": "gündüz",
+   "karsilik": "gündüzü"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلَّيْلِ",
+   "okunus": "elleyli",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "gecenin"
+  },
+  {
+   "kelime": "وَسَخَّرَ",
+   "okunus": "ve sehhara",
+   "kok": "سخر",
+   "kokAnlam": "boyun eğdirme, hizmete verme",
+   "karsilik": "boyun eğdirilmiş kıldı"
+  },
+  {
+   "kelime": "ٱلشَّمْسَ",
+   "okunus": "eşşemse",
+   "kok": "شمس",
+   "kokAnlam": "güneş",
+   "karsilik": "güneşi"
+  },
+  {
+   "kelime": "وَٱلْقَمَرَ",
+   "okunus": "vel kamera",
+   "kok": "قمر",
+   "kokAnlam": "ay",
+   "karsilik": "ve ayı"
+  },
+  {
+   "kelime": "كُلٌّ",
+   "okunus": "küllün",
+   "kok": "كلل",
+   "kokAnlam": "her, bütün",
+   "karsilik": "her biri"
+  },
+  {
+   "kelime": "يَجْرِى",
+   "okunus": "yecrî",
+   "kok": "جري",
+   "kokAnlam": "akma, seyretme",
+   "karsilik": "akıp gider"
+  },
+  {
+   "kelime": "لِأَجَلٍ",
+   "okunus": "liecelin",
+   "kok": "أجل",
+   "kokAnlam": "süre, belirlenmiş vakit",
+   "karsilik": "bir süreye"
+  },
+  {
+   "kelime": "مُّسَمًّى",
+   "okunus": "müsemmen",
+   "kok": "سمو",
+   "kokAnlam": "adı konmuş, belirlenmiş",
+   "karsilik": "belirlenmiş"
+  },
+  {
+   "kelime": "أَلَا",
+   "okunus": "elâ",
+   "kok": "—",
+   "kokAnlam": "(uyarı edatı) iyi bilin ki",
+   "karsilik": "iyi bilin ki"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "O"
+  },
+  {
+   "kelime": "ٱلْعَزِيزُ",
+   "okunus": "el'azîzü",
+   "kok": "عزز",
+   "kokAnlam": "güç, üstünlük, yenilmezlik",
+   "karsilik": "Azîz"
+  },
+  {
+   "kelime": "ٱلْغَفَّٰرُ",
+   "okunus": "elgaffâru",
+   "kok": "غفر",
+   "kokAnlam": "örtme, bağışlama",
+   "karsilik": "çok bağışlayandır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayette Allah'ın tekliğine yapılan vurgudan sonra, O'nun yaratma gücünü somut örneklerle gösterir. Gökler ve yer boş yere değil, 'hak ile' yani gerçek bir amaç ve düzenle yaratılmıştır. Gece ile gündüzün birbirinin üzerine sarılması ifadesi, ikisinin birbirini takip edişindeki düzeni, sanki bir örtünün diğerinin üstüne sarılması gibi betimler.",
+  "Güneş ve ayın 'boyun eğdirilmiş' olması, bu gök cisimlerinin kendi başlarına buyruk olmadığını, belirlenmiş bir düzen içinde hareket ettiğini gösterir. Ayet, Allah'ın Azîz (üstün) ve Gaffâr (çok bağışlayan) isimleriyle biter; yaratmadaki mutlak güç ile bağışlama sıfatı birlikte anılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:40",
+   "meal": "Ne güneşin aya yetişmesi mümkündür, ne de gece gündüzü geçebilir; her biri bir yörüngede yüzüp gider.",
+   "baglanti": "Yâsîn suresi de gece-gündüz ve güneş-ay düzenini, her birinin kendi yörüngesinde akıp gitmesiyle anlatır."
+  },
+  {
+   "ref": "7:54",
+   "meal": "Rabbiniz, gökleri ve yeri altı günde yaratan, sonra Arş'a istiva eden Allah'tır. Geceyi, durmadan onu kovalayan gündüze bürüyüp örter; güneşi, ayı ve yıldızları emrine boyun eğmiş olarak yaratmıştır.",
+   "baglanti": "A'râf suresi de gece ile gündüzün birbirini örtmesini ve güneş-ayın boyun eğdirilmesini aynı sırayla anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, evrendeki düzenin Allah'ın yaratmasına dayandığıdır. Gece-gündüz döngüsü ve gök cisimlerinin hareketi, insanın alışkanlıkla fark etmediği ama sürekli işleyen bir düzendir.",
+  "Günlük hayata taşınabilecek ders, sıradanlaşan şeylere yeniden dikkat etmektir. Her gün tekrarlanan gece ve gündüz geçişi, aslında hiç durmayan bir yaratma işaretidir; bunu fark etmek, günü daha bilinçli karşılamayı sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gün batımını izle",
+   "aciklama": "Bugün gün batarken birkaç dakika durup geceyle gündüzün geçişini fark et."
+  },
+  {
+   "baslik": "Düzeni fark et",
+   "aciklama": "Saatine bakarken, güneşin ve ayın belirli bir süreye göre hareket ettiğini bir an düşün."
+  },
+  {
+   "baslik": "Sıradanı yeniden gör",
+   "aciklama": "Her gün gördüğün bir doğa olayını bugün ilk kez görüyormuş gibi fark et."
+  }
+ ],
+ "bugununAdimi": "Bugün gün batımını veya gün doğumunu birkaç dakika izleyerek düzeni düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/39/5"
+  }
+ ]
+}

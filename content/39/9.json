@@ -1,0 +1,222 @@
+{
+ "sure": 39,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Yoksa gecenin saatlerinde secde ederek ve ayakta durarak boyun eğen, ahiretten sakınan ve Rabbinin rahmetini uman kimse mi (daha hayırlıdır)? De ki: Hiç bilenlerle bilmeyenler bir olur mu? Ancak akıl sahipleri öğüt alır.",
+ "mealNotu": "'Kânit' kelimesi, sürekli boyun eğerek itaat etmeyi anlatır; burada 'boyun eğen' diye çevrilmiştir. Ayetin başındaki karşılaştırma, önceki ayetteki nankör kişiyle örtük olarak kurulur; bu yüzden '(daha hayırlıdır)' köşeli değil parantez içinde eklenmiştir çünkü cümle asıl yapısında eksiltilidir.",
+ "kokler": [
+  {
+   "kelime": "أَمَّنْ",
+   "okunus": "emmen",
+   "kok": "—",
+   "kokAnlam": "(bağlaç+ilgi) yoksa kimse",
+   "karsilik": "yoksa kimse"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "قَٰنِتٌ",
+   "okunus": "kânitün",
+   "kok": "قنت",
+   "kokAnlam": "sürekli boyun eğerek itaat",
+   "karsilik": "boyun eğen"
+  },
+  {
+   "kelime": "ءَانَآءَ",
+   "okunus": "ânâe",
+   "kok": "أني",
+   "kokAnlam": "vakit, saat",
+   "karsilik": "saatlerinde"
+  },
+  {
+   "kelime": "ٱلَّيْلِ",
+   "okunus": "elleyli",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "gecenin"
+  },
+  {
+   "kelime": "سَاجِدًا",
+   "okunus": "sâciden",
+   "kok": "سجد",
+   "kokAnlam": "secde etme, yere kapanma",
+   "karsilik": "secde ederek"
+  },
+  {
+   "kelime": "وَقَآئِمًا",
+   "okunus": "ve kâimen",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, kalkma",
+   "karsilik": "ve ayakta durarak"
+  },
+  {
+   "kelime": "يَحْذَرُ",
+   "okunus": "yahzeru",
+   "kok": "حذر",
+   "kokAnlam": "sakınma, korkma",
+   "karsilik": "sakınan"
+  },
+  {
+   "kelime": "ٱلْءَاخِرَةَ",
+   "okunus": "el'âhırate",
+   "kok": "أخر",
+   "kokAnlam": "sonra olma, ahiret",
+   "karsilik": "ahiretten"
+  },
+  {
+   "kelime": "وَيَرْجُوا۟",
+   "okunus": "ve yercû",
+   "kok": "رجو",
+   "kokAnlam": "umut etme, ummak",
+   "karsilik": "ve uman"
+  },
+  {
+   "kelime": "رَحْمَةَ",
+   "okunus": "rahmete",
+   "kok": "رحم",
+   "kokAnlam": "merhamet, esirgeme",
+   "karsilik": "rahmetini"
+  },
+  {
+   "kelime": "رَبِّهِۦ",
+   "okunus": "rabbihî",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye",
+   "karsilik": "Rabbinin"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "(soru) mi",
+   "karsilik": "mi"
+  },
+  {
+   "kelime": "يَسْتَوِى",
+   "okunus": "yestevî",
+   "kok": "سوي",
+   "kokAnlam": "eşit olma, denk olma",
+   "karsilik": "bir olur"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi adılı) kimseler",
+   "karsilik": "bilenlerle"
+  },
+  {
+   "kelime": "يَعْلَمُونَ",
+   "okunus": "ya'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilenler"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi adılı) kimseler",
+   "karsilik": "ve kimseler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ...mez",
+   "karsilik": "...meyenler"
+  },
+  {
+   "kelime": "يَعْلَمُونَ",
+   "okunus": "ya'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilmeyenler"
+  },
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak, sadece",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "يَتَذَكَّرُ",
+   "okunus": "yetezekkeru",
+   "kok": "ذكر",
+   "kokAnlam": "öğüt alma, hatırlama",
+   "karsilik": "öğüt alır"
+  },
+  {
+   "kelime": "أُو۟لُوا۟",
+   "okunus": "ülû",
+   "kok": "—",
+   "kokAnlam": "(isim) sahipleri",
+   "karsilik": "sahipleri"
+  },
+  {
+   "kelime": "ٱلْأَلْبَٰبِ",
+   "okunus": "el'elbâbi",
+   "kok": "لبب",
+   "kokAnlam": "öz akıl, temiz kavrayış",
+   "karsilik": "akıl"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayetteki nimet gelince şükrü unutan, ortak koşan kişinin karşısına, gecenin saatlerinde secde ederek ve ayakta durarak Allah'a yönelen, ahiretten sakınan ve rahmetini uman kimseyi koyar. 'Kânit' kelimesi, bu boyun eğişin süreklilik taşıdığını, tek seferlik bir davranış olmadığını gösterir.",
+  "Ayetin en çok bilinen cümlesi, 'hiç bilenlerle bilmeyenler bir olur mu' sorusudur. Burada kastedilen bilgi, salt bilgi değil; Allah'ı tanıyan, O'na yönelen ve ahireti bilinçle karşılayan kişinin bilgisidir. Ayet, bu farkı ancak akıl sahiplerinin kavrayabileceğini söyleyerek biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "13:19",
+   "meal": "Rabbinden sana indirilenin hak olduğunu bilen kimse, kör olan kimse gibi midir? Ancak akıl sahipleri öğüt alır.",
+   "baglanti": "Ra'd suresi de aynı 'bilenle bilmeyen bir olmaz' mantığını kurar ve aynı 'akıl sahipleri' ifadesiyle biter."
+  },
+  {
+   "ref": "32:16",
+   "meal": "Onların yanları yataklarından uzaklaşır; korkuyla ve umutla Rablerine dua ederler ve kendilerine verdiğimiz rızıktan infak ederler.",
+   "baglanti": "Secde suresi, gece kalkıp dua eden kullardaki aynı korku-umut dengesini betimler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, gece ibadetine devam eden, ahiret bilinciyle yaşayan kişi ile bunlardan habersiz yaşayan kişi arasındaki farktır. Bu fark, dış görünüşte değil, kalpteki bilinçte kendini gösterir.",
+  "Günlük hayata taşınabilecek ders, bilgiyi sadece bilgi olarak değil, davranışa dönüşen bir bilinç olarak görmektir. Gece kısa da olsa bir an durup dua etmek, gündüzün telaşında unutulan bu bilinci tazeler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gece bir an dur",
+   "aciklama": "Bugün gece yatmadan önce birkaç dakika sessizce dua et veya düşün."
+  },
+  {
+   "baslik": "Bilgi ile davran",
+   "aciklama": "Bildiğin doğru bir şeyi, bugün en az bir kez davranışına yansıt."
+  },
+  {
+   "baslik": "Ahireti hatırla",
+   "aciklama": "Günün bir anında, bu dünyanın geçici, ahiretin kalıcı olduğunu kısaca hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün gece yatmadan önce birkaç dakika sessizce Rabbine yönel.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/39/9"
+  }
+ ]
+}

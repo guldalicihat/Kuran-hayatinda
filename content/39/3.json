@@ -1,0 +1,285 @@
+{
+ "sure": 39,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "İyi bilin ki halis din yalnız Allah'ındır. O'nu bırakıp veliler edinenler, 'Biz onlara, bizi Allah'a daha çok yaklaştırsınlar diye kulluk ediyoruz' derler. Şüphesiz Allah, anlaşmazlığa düştükleri konuda aralarında hükmedecektir. Şüphesiz Allah, yalan söyleyen ve nankörlükte direnen kimseyi doğru yola iletmez.",
+ "mealNotu": "'Zülfâ' kelimesi 'zelefe' (yaklaşma) kökünden gelir ve 'yakınlık' anlamı taşır; [bizi] köşeli parantezle eklenmiştir çünkü fiilin öznesi metinde açık değildir. 'Keffâr' kökü, nankörlükte ısrarı, sürekliliği anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَلَا",
+   "okunus": "elâ",
+   "kok": "—",
+   "kokAnlam": "(uyarı edatı) iyi bilin ki",
+   "karsilik": "iyi bilin ki"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan tek ilah",
+   "karsilik": "Allah'ındır"
+  },
+  {
+   "kelime": "ٱلدِّينُ",
+   "okunus": "eddînü",
+   "kok": "دين",
+   "kokAnlam": "boyun eğme, din, ceza/karşılık",
+   "karsilik": "din"
+  },
+  {
+   "kelime": "ٱلْخَالِصُ",
+   "okunus": "elhâlisu",
+   "kok": "خلص",
+   "kokAnlam": "arıtma, saf kılma, halis kılma",
+   "karsilik": "halis olan"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi adılı) kimseler",
+   "karsilik": "kimseler ise"
+  },
+  {
+   "kelime": "ٱتَّخَذُوا۟",
+   "okunus": "ittehazû",
+   "kok": "أخذ",
+   "kokAnlam": "alma, edinme",
+   "karsilik": "edindiler"
+  },
+  {
+   "kelime": "مَنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِهِۦٓ",
+   "okunus": "dûnihî",
+   "kok": "دون",
+   "kokAnlam": "aşağı, ondan başka",
+   "karsilik": "O'ndan başka"
+  },
+  {
+   "kelime": "أَوْلِيَآءَ",
+   "okunus": "evliyâe",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, dostluk, koruyuculuk",
+   "karsilik": "veliler"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ...değil",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "نَعْبُدُهُمْ",
+   "okunus": "na'büdühüm",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme, boyun eğerek hizmet",
+   "karsilik": "onlara kulluk ediyoruz"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, sadece",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "لِيُقَرِّبُونَآ",
+   "okunus": "liyükarribûnâ",
+   "kok": "قرب",
+   "kokAnlam": "yaklaştırma, yakın kılma",
+   "karsilik": "bizi yaklaştırsınlar diye"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan tek ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "زُلْفَىٰٓ",
+   "okunus": "zülfâ",
+   "kok": "زلف",
+   "kokAnlam": "yakınlık, yaklaşma",
+   "karsilik": "daha çok"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan tek ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَحْكُمُ",
+   "okunus": "yahkümü",
+   "kok": "حكم",
+   "kokAnlam": "hüküm, hikmet, yerli yerince yapma",
+   "karsilik": "hükmedecektir"
+  },
+  {
+   "kelime": "بَيْنَهُمْ",
+   "okunus": "beynehüm",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında olma",
+   "karsilik": "aralarında"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi adılı) şey",
+   "karsilik": "konuda"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onların"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "يَخْتَلِفُونَ",
+   "okunus": "yahtelifûne",
+   "kok": "خلف",
+   "kokAnlam": "ayrılığa düşme, anlaşmazlık",
+   "karsilik": "anlaşmazlığa düştükleri"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan tek ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ...maz",
+   "karsilik": "-maz"
+  },
+  {
+   "kelime": "يَهْدِى",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme, hidayet",
+   "karsilik": "doğru yola iletmez"
+  },
+  {
+   "kelime": "مَنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi adılı) kimse",
+   "karsilik": "kimseyi"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "كَٰذِبٌ",
+   "okunus": "kâzibün",
+   "kok": "كذب",
+   "kokAnlam": "yalan söyleme",
+   "karsilik": "yalan söyleyen"
+  },
+  {
+   "kelime": "كَفَّارٌ",
+   "okunus": "keffârun",
+   "kok": "كفر",
+   "kokAnlam": "örtme; nankörlükte ısrar",
+   "karsilik": "nankörlükte direnen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, müşriklerin putlara tapmasını gerekçelendirdikleri sözü aktarır ve reddeder. Onlara göre putlar, kendilerini Allah'a 'yaklaştıran' aracılardır; ama ayet en başta 'halis din yalnız Allah'ındır' diyerek bu aracılık iddiasını geçersiz kılar. Şirk, doğrudan Allah'ı inkâr değil, çoğu zaman O'na 'yaklaşma' bahanesiyle işlenir.",
+  "Ayetin sonu, bu tartışmanın kıyamette Allah tarafından çözüleceğini ve yalan söyleyip nankörlükte direnen kişinin hidayete eremeyeceğini bildirir. 'Keffâr' kökü, tek seferlik bir inkârı değil, nankörlükte süreklilik gösteren bir tutumu anlatır; hidayetin önündeki engel imkânsızlık değil, ısrarlı bir kapanmadır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:18",
+   "meal": "Onlar, Allah'ı bırakıp kendilerine zarar da fayda da vermeyen şeylere kulluk ederler ve 'Bunlar Allah katında bizim şefaatçilerimizdir' derler.",
+   "baglanti": "Yunus suresi de aynı 'aracılık' iddiasını, şefaat diliyle aktarır; ikisi de bu gerekçenin geçersizliğini vurgular."
+  },
+  {
+   "ref": "29:17",
+   "meal": "Siz Allah'ı bırakıp yalnızca putlara tapıyor, yalan uyduruyorsunuz.",
+   "baglanti": "Ankebût suresi de putlara tapmanın, gerçekte bir uydurma ve boş bir gerekçe olduğunu söyler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, müşriklerin putlara tapma gerekçesidir; bu özel bir tarihi ve inanç bağlamıdır. Ancak ayetin işaret ettiği bir zihniyet bugün de sürebilir: bir şeye aşırı bağlanmayı, 'Allah'a daha çok yaklaşmak için' diye meşrulaştırmak.",
+  "Günlük hayata taşınabilecek ders, bir davranışı dini bir gerekçeyle süslerken gerçek amacı sorgulamaktır. Bir aracıya, bir kişiye ya da bir alışkanlığa verilen önem, Allah'a yakınlaşmayı değil ondan uzaklaşmayı sağlıyorsa, gerekçe ne kadar iyi niyetli görünürse görünsün yeniden düşünülmelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Aracıyı sorgula",
+   "aciklama": "Bir konuda 'böyle yapınca Allah'a daha yakın olurum' dediğin bir alışkanlığın varsa, gerçekten öyle mi diye düşün."
+  },
+  {
+   "baslik": "Doğrudan yönel",
+   "aciklama": "Bugün bir talebini, aracısız, doğrudan dua ile Allah'a ilet."
+  },
+  {
+   "baslik": "Gerekçeni dürüstçe tart",
+   "aciklama": "Bir davranışını 'dinî' bir sebeple açıklıyorsan, bunun gerçek niyetini kendine karşı dürüstçe kontrol et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir isteğini, hiçbir aracı düşünmeden doğrudan Allah'a dua ederek dile getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/39/3"
+  }
+ ]
+}

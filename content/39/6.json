@@ -1,0 +1,311 @@
+{
+ "sure": 39,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Sizi tek bir candan yarattı, sonra ondan eşini var etti ve sizin için hayvanlardan sekiz eş indirdi. Sizi annelerinizin karınlarında, üç karanlık içinde, yaratmadan sonra bir yaratmayla yaratır. İşte bu, Rabbiniz Allah'tır; mülk O'nundur. O'ndan başka ilah yoktur. Öyleyse nasıl döndürülüyorsunuz?",
+ "mealNotu": "'Zulümât' kelimesi karanlıklar demektir; ayette 'üç karanlık' olarak geçer, klasik tefsir bunu karın, rahim ve döl kesesi olarak açıklar; burada ayetin kendi ifadesiyle 'üç karanlık' denilmiştir. 'Enzele' (indirdi) fiili burada hayvanların insana bir nimet olarak verilmesini anlatır.",
+ "kokler": [
+  {
+   "kelime": "خَلَقَكُم",
+   "okunus": "halekaküm",
+   "kok": "خلق",
+   "kokAnlam": "yoktan var etme, yaratma",
+   "karsilik": "sizi yarattı"
+  },
+  {
+   "kelime": "مِّنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "نَّفْسٍ",
+   "okunus": "nefsin",
+   "kok": "نفس",
+   "kokAnlam": "can, kişi, benlik",
+   "karsilik": "bir candan"
+  },
+  {
+   "kelime": "وَٰحِدَةٍ",
+   "okunus": "vâhidetin",
+   "kok": "وحد",
+   "kokAnlam": "birlik, tek oluş",
+   "karsilik": "tek"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "جَعَلَ",
+   "okunus": "ceale",
+   "kok": "جعل",
+   "kokAnlam": "kılma, var etme",
+   "karsilik": "var etti"
+  },
+  {
+   "kelime": "مِنْهَا",
+   "okunus": "minhâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "زَوْجَهَا",
+   "okunus": "zevcehâ",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift",
+   "karsilik": "eşini"
+  },
+  {
+   "kelime": "وَأَنزَلَ",
+   "okunus": "ve enzele",
+   "kok": "نزل",
+   "kokAnlam": "yukarıdan aşama aşama indirme",
+   "karsilik": "ve indirdi"
+  },
+  {
+   "kelime": "لَكُم",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "مِّنۢ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْأَنْعَٰمِ",
+   "okunus": "el'en'âmi",
+   "kok": "نعم",
+   "kokAnlam": "nimet; evcil hayvanlar",
+   "karsilik": "hayvanlardan"
+  },
+  {
+   "kelime": "ثَمَٰنِيَةَ",
+   "okunus": "semâniyete",
+   "kok": "ثمن",
+   "kokAnlam": "sekiz sayısı",
+   "karsilik": "sekiz"
+  },
+  {
+   "kelime": "أَزْوَٰجٍ",
+   "okunus": "ezvâcin",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift",
+   "karsilik": "eş"
+  },
+  {
+   "kelime": "يَخْلُقُكُمْ",
+   "okunus": "yahlükuküm",
+   "kok": "خلق",
+   "kokAnlam": "yoktan var etme, yaratma",
+   "karsilik": "sizi yaratır"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "بُطُونِ",
+   "okunus": "bütûni",
+   "kok": "بطن",
+   "kokAnlam": "karın, iç",
+   "karsilik": "karınlarında"
+  },
+  {
+   "kelime": "أُمَّهَٰتِكُمْ",
+   "okunus": "ümmehâtiküm",
+   "kok": "أمم",
+   "kokAnlam": "annelik",
+   "karsilik": "annelerinizin"
+  },
+  {
+   "kelime": "خَلْقًا",
+   "okunus": "halkan",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "bir yaratmayla"
+  },
+  {
+   "kelime": "مِّنۢ",
+   "okunus": "mim",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "خَلْقٍ",
+   "okunus": "halkın",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yaratmadan"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ظُلُمَٰتٍ",
+   "okunus": "zulümâtin",
+   "kok": "ظلم",
+   "kokAnlam": "karanlık",
+   "karsilik": "karanlık"
+  },
+  {
+   "kelime": "ثَلَٰثٍ",
+   "okunus": "selâsin",
+   "kok": "ثلث",
+   "kokAnlam": "üç sayısı",
+   "karsilik": "üç"
+  },
+  {
+   "kelime": "ذَٰلِكُمُ",
+   "okunus": "zâlikümü",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan tek ilah",
+   "karsilik": "Allah'tır"
+  },
+  {
+   "kelime": "رَبُّكُمْ",
+   "okunus": "rabbüküm",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye",
+   "karsilik": "Rabbiniz"
+  },
+  {
+   "kelime": "لَهُ",
+   "okunus": "lehü",
+   "kok": "—",
+   "kokAnlam": "(zamir) O'nun",
+   "karsilik": "O'nundur"
+  },
+  {
+   "kelime": "ٱلْمُلْكُ",
+   "okunus": "elmülkü",
+   "kok": "ملك",
+   "kokAnlam": "hükümranlık, sahiplik",
+   "karsilik": "mülk"
+  },
+  {
+   "kelime": "لَآ",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yoktur",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "إِلَٰهَ",
+   "okunus": "ilâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan ilah",
+   "karsilik": "ilah"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "O'ndan"
+  },
+  {
+   "kelime": "فَأَنَّىٰ",
+   "okunus": "feennâ",
+   "kok": "—",
+   "kokAnlam": "(soru) nasıl",
+   "karsilik": "öyleyse nasıl"
+  },
+  {
+   "kelime": "تُصْرَفُونَ",
+   "okunus": "tüsrafûne",
+   "kok": "صرف",
+   "kokAnlam": "çevrilme, döndürülme",
+   "karsilik": "döndürülüyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, tek bir kaynaktan çoğalan insanlığın ve hayvanların yaratılışını anlatır. İnsanın tek bir candan, onun eşinin de ondan yaratılması, çoğalmanın Allah'ın belirlediği bir düzenle başladığını gösterir. Ardından hayvanlardan sekiz eşin insana verilmesi, bu düzenin insanın hayatını sürdürmesine hizmet ettiğini bildirir.",
+  "Ayetin devamı, her insanın anne karnında 'üç karanlık içinde, yaratmadan sonra bir yaratmayla' oluşturulduğunu söyler; ayet burada bir aşamalar dizisine işaret eder ama ayrıntısını vermez. Ayet, bu yaratma gücünü hatırlattıktan sonra 'işte bu Rabbinizdir, mülk O'nundur' diyerek dinleyiciyi tevhide, tek ilaha yönelmeye çağırır ve 'nasıl döndürülüyorsunuz' sorusuyla biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:1",
+   "meal": "Ey insanlar! Sizi tek bir candan yaratan, ondan eşini var eden ve ikisinden birçok erkek ve kadın türeten Rabbinizden sakının.",
+   "baglanti": "Nisâ suresi de aynı 'tek candan yaratma' ifadesiyle başlar; insanlığın ortak kökenine dikkat çeker."
+  },
+  {
+   "ref": "6:143",
+   "meal": "Sekiz eş: koyundan iki, keçiden iki...",
+   "baglanti": "En'âm suresi, Zümer 6'daki 'hayvanlardan sekiz eş' ifadesini tür tür açarak somutlaştırır."
+  },
+  {
+   "ref": "22:5",
+   "meal": "Sizi topraktan, sonra bir damla sudan, sonra bir kan pıhtısından, sonra biçimlenmiş ve biçimlenmemiş bir çiğnem etten yarattık ki size açıklayalım.",
+   "baglanti": "Hac suresi, anne karnındaki yaratılışın aşamalarını daha ayrıntılı sıralayarak Zümer 6'daki 'yaratmadan sonra yaratma' ifadesini açar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insanın ve hayvanların yaratılış düzenidir; anne karnındaki gelişim de bu düzenin bir parçası olarak anılır. Bu, tıbbi bir açıklama değil, yaratılıştaki aşamalılığa dikkat çeken bir hatırlatmadır.",
+  "Günlük hayata taşınabilecek ders, kendi varoluşunun tesadüf olmadığını hatırlamaktır. Her insanın anne karnında aşama aşama, korunaklı bir ortamda var edildiğini düşünmek, hem kendi hayatına hem yeni doğan bir bebeğe bakışı değiştirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendi başlangıcını düşün",
+   "aciklama": "Bugün bir dakika, kendi yaratılışının aşama aşama gerçekleştiğini düşün."
+  },
+  {
+   "baslik": "Bir anneye teşekkür et",
+   "aciklama": "Annenle veya çocuğu olan biriyle, taşıma sürecinin zorluğunu konuşarak şükrünü ifade et."
+  },
+  {
+   "baslik": "Tek ilaha yönel",
+   "aciklama": "Bugün bir kararını verirken, yalnızca Allah'ın hükmüne uygun olup olmadığına bak."
+  }
+ ],
+ "bugununAdimi": "Bugün annenle konuş veya onu bir kez arayıp hatırını sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/39/6"
+  }
+ ]
+}

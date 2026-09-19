@@ -1,0 +1,271 @@
+{
+ "sure": 39,
+ "ayet": 21,
+ "durum": "taslak",
+ "meal": "Görmedin mi, Allah gökten bir su indirdi de onu yerdeki kaynaklara akıttı; sonra onunla renkleri çeşit çeşit ekinler çıkarır. Sonra kurur da sen onu sararmış görürsün; sonra da onu kırılıp ufalanmış bir hale getirir. Şüphesiz bunda akıl sahipleri için gerçekten bir öğüt vardır.",
+ "mealNotu": "'Yenâbî' kelimesi 'nab' kökünden gelir ve fışkıran kaynakları anlatır. 'Hutâmâ' kelimesi, kırılıp ufalanmış, çerçöp haline gelmiş şeyi ifade eder; burada bitkinin sonunu betimler.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ...medin mi",
+   "karsilik": "...medin mi"
+  },
+  {
+   "kelime": "تَرَ",
+   "okunus": "tera",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görmedin mi"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ki",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan tek ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "أَنزَلَ",
+   "okunus": "enzele",
+   "kok": "نزل",
+   "kokAnlam": "yukarıdan aşama aşama indirme",
+   "karsilik": "indirdi"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "gökten"
+  },
+  {
+   "kelime": "مَآءً",
+   "okunus": "mâen",
+   "kok": "موه",
+   "kokAnlam": "su",
+   "karsilik": "bir su"
+  },
+  {
+   "kelime": "فَسَلَكَهُۥ",
+   "okunus": "feselekehû",
+   "kok": "سلك",
+   "kokAnlam": "yol açma, akıtma",
+   "karsilik": "de onu akıttı"
+  },
+  {
+   "kelime": "يَنَٰبِيعَ",
+   "okunus": "yenâbîa",
+   "kok": "نبع",
+   "kokAnlam": "fışkırma, kaynak",
+   "karsilik": "kaynaklara"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-deki"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yerdeki"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "يُخْرِجُ",
+   "okunus": "yühricü",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma",
+   "karsilik": "çıkarır"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "زَرْعًا",
+   "okunus": "zer'an",
+   "kok": "زرع",
+   "kokAnlam": "ekin, ekme",
+   "karsilik": "ekinler"
+  },
+  {
+   "kelime": "مُّخْتَلِفًا",
+   "okunus": "mühtelifen",
+   "kok": "خلف",
+   "kokAnlam": "ayrılık, farklılık",
+   "karsilik": "çeşit çeşit"
+  },
+  {
+   "kelime": "أَلْوَٰنُهُۥ",
+   "okunus": "elvânühû",
+   "kok": "لون",
+   "kokAnlam": "renk",
+   "karsilik": "renkleri"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "يَهِيجُ",
+   "okunus": "yehîcü",
+   "kok": "هيج",
+   "kokAnlam": "kuruma, solup canlılığını yitirme",
+   "karsilik": "kurur"
+  },
+  {
+   "kelime": "فَتَرَىٰهُ",
+   "okunus": "feterâhü",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "de sen onu görürsün"
+  },
+  {
+   "kelime": "مُصْفَرًّا",
+   "okunus": "müsferran",
+   "kok": "صفر",
+   "kokAnlam": "sararma",
+   "karsilik": "sararmış"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "يَجْعَلُهُۥ",
+   "okunus": "yec'alühû",
+   "kok": "جعل",
+   "kokAnlam": "kılma, var etme",
+   "karsilik": "onu hale getirir"
+  },
+  {
+   "kelime": "حُطَٰمًا",
+   "okunus": "hutâmen",
+   "kok": "حطم",
+   "kokAnlam": "kırılıp ufalanma",
+   "karsilik": "kırılıp ufalanmış bir"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "لَذِكْرَىٰ",
+   "okunus": "lezikrâ",
+   "kok": "ذكر",
+   "kokAnlam": "öğüt, hatırlatma",
+   "karsilik": "gerçekten bir öğüt"
+  },
+  {
+   "kelime": "لِأُو۟لِى",
+   "okunus": "liülî",
+   "kok": "—",
+   "kokAnlam": "(isim) sahipleri için",
+   "karsilik": "sahipleri için"
+  },
+  {
+   "kelime": "ٱلْأَلْبَٰبِ",
+   "okunus": "el'elbâbi",
+   "kok": "لبب",
+   "kokAnlam": "öz akıl, temiz kavrayış",
+   "karsilik": "akıl vardır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, gökten inen suyun yeraltı kaynaklarına akmasından başlayarak, ekinlerin yeşerip renklenmesini, sonra kuruyup sararmasını ve nihayet ufalanıp toza dönüşmesini bir sahne gibi anlatır. Bu döngü, 'görmedin mi' sorusuyla başlar; dinleyiciyi zaten tanık olduğu bir olguyu yeniden, ibret gözüyle görmeye çağırır.",
+  "Bitkinin canlanıp sonra solması, dünya hayatının kısa süreli görkeminin bir benzetmesidir. Ayet bunu açıkça söylemese de, 'akıl sahipleri için bunda bir öğüt vardır' diyerek dinleyicinin bu benzetmeyi kendisi çıkarmasını ister; su-bitki döngüsü, kısa süreli olan her canlılığın bir sonu olduğunu hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "18:45",
+   "meal": "Onlara dünya hayatının örneğini ver: Gökten indirdiğimiz bir su gibidir ki, onunla yeryüzünün bitkisi birbirine karışır, sonra rüzgârların savurduğu çerçöpe döner.",
+   "baglanti": "Kehf suresi, aynı su-bitki benzetmesini doğrudan 'dünya hayatının örneği' olarak sunar; Zümer 21'deki ima burada açıkça söylenir."
+  },
+  {
+   "ref": "57:20",
+   "meal": "...tıpkı bir yağmur gibi ki, bitirdiği bitki çiftçilerin hoşuna gider, sonra kurur, onu sararmış görürsün, sonra da çerçöp olur.",
+   "baglanti": "Hadîd suresi, neredeyse aynı kelimelerle (kurur, sararmış, çerçöp) dünya hayatının geçiciliğini anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, su ve bitki döngüsü üzerinden verilen bir doğa tasviridir; bu tasvir, akıl sahiplerini bir öğüt çıkarmaya çağırır.",
+  "Günlük hayata taşınabilecek ders, gördüğün canlılığın ve başarının kalıcı olmadığını hatırlamaktır. Bir bahçenin yeşerip sonra solması gibi, bu dünyadaki her görkem de bir gün son bulur; bunu bilmek, dünyaya bağlanmayı dengeler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir bitkiyi izle",
+   "aciklama": "Bugün bir bitkiye veya ağaca bakarken, onun büyüme ve solma döngüsünü düşün."
+  },
+  {
+   "baslik": "Geçiciliği hatırla",
+   "aciklama": "Bugün elde ettiğin bir başarıya sevinirken, bunun da bir gün geçeceğini unutma."
+  },
+  {
+   "baslik": "Kalıcı olana yatırım yap",
+   "aciklama": "Bugün, geçici bir kazanç yerine kalıcı bir iyilik için zaman ayır."
+  }
+ ],
+ "bugununAdimi": "Bugün bir bitkiye veya ağaca bakıp, dünya hayatının geçiciliğini birkaç saniye düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=21"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/39/21"
+  }
+ ]
+}

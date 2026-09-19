@@ -1,0 +1,292 @@
+{
+ "sure": 39,
+ "ayet": 23,
+ "durum": "taslak",
+ "meal": "Allah, sözün en güzelini, birbirine benzer ve ikişerli bir kitap olarak indirdi. Rablerinden korkanların derileri ondan ürperir; sonra derileri ve kalpleri Allah'ı anmaya yumuşar. İşte bu, Allah'ın hidayetidir; onunla dilediğini doğru yola iletir. Allah kimi saptırırsa, artık onu doğru yola iletecek kimse yoktur.",
+ "mealNotu": "'Müteşâbih' kelimesi, ayetlerin üslup ve mesaj bakımından birbirine benzemesini anlatır. 'Mesânî' kelimesi 'ikişerli, tekrar eden' anlamındadır; klasik tefsir bunu kıssaların ve konuların tekrarlı, ahenkli anlatımı olarak açıklar.",
+ "kokler": [
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan tek ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "نَزَّلَ",
+   "okunus": "nezzele",
+   "kok": "نزل",
+   "kokAnlam": "aşama aşama indirme",
+   "karsilik": "indirdi"
+  },
+  {
+   "kelime": "أَحْسَنَ",
+   "okunus": "ahsene",
+   "kok": "حسن",
+   "kokAnlam": "güzel davranma, iyilik",
+   "karsilik": "en güzelini"
+  },
+  {
+   "kelime": "ٱلْحَدِيثِ",
+   "okunus": "elhadîsi",
+   "kok": "حدث",
+   "kokAnlam": "söz, haber, yeni olma",
+   "karsilik": "sözün"
+  },
+  {
+   "kelime": "كِتَٰبًا",
+   "okunus": "kitâben",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı kitap",
+   "karsilik": "bir kitap olarak"
+  },
+  {
+   "kelime": "مُّتَشَٰبِهًا",
+   "okunus": "müteşâbihen",
+   "kok": "شبه",
+   "kokAnlam": "benzeşme, benzerlik",
+   "karsilik": "birbirine benzer"
+  },
+  {
+   "kelime": "مَّثَانِىَ",
+   "okunus": "mesâniye",
+   "kok": "ثني",
+   "kokAnlam": "ikileme, tekrarlanma",
+   "karsilik": "ve ikişerli"
+  },
+  {
+   "kelime": "تَقْشَعِرُّ",
+   "okunus": "tekşeirru",
+   "kok": "قشعر",
+   "kokAnlam": "ürperme, tüyleri diken diken olma",
+   "karsilik": "ürperir"
+  },
+  {
+   "kelime": "مِنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "جُلُودُ",
+   "okunus": "cülûdü",
+   "kok": "جلد",
+   "kokAnlam": "deri",
+   "karsilik": "derileri"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi adılı) kimseler",
+   "karsilik": "kimselerin"
+  },
+  {
+   "kelime": "يَخْشَوْنَ",
+   "okunus": "yahşevne",
+   "kok": "خشي",
+   "kokAnlam": "saygıyla korkma, çekinme",
+   "karsilik": "korkanların"
+  },
+  {
+   "kelime": "رَبَّهُمْ",
+   "okunus": "rabbehüm",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye",
+   "karsilik": "Rablerinden"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "تَلِينُ",
+   "okunus": "telînü",
+   "kok": "لين",
+   "kokAnlam": "yumuşama",
+   "karsilik": "yumuşar"
+  },
+  {
+   "kelime": "جُلُودُهُمْ",
+   "okunus": "cülûdühüm",
+   "kok": "جلد",
+   "kokAnlam": "deri",
+   "karsilik": "derileri"
+  },
+  {
+   "kelime": "وَقُلُوبُهُمْ",
+   "okunus": "ve kulûbühüm",
+   "kok": "قلب",
+   "kokAnlam": "kalp, gönül",
+   "karsilik": "ve kalpleri"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ذِكْرِ",
+   "okunus": "zikri",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama",
+   "karsilik": "anmaya"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan tek ilah",
+   "karsilik": "Allah'ı"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "هُدَى",
+   "okunus": "hüdâ",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme, hidayet",
+   "karsilik": "hidayetidir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan tek ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "يَهْدِى",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme, hidayet",
+   "karsilik": "doğru yola iletir"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi adılı) kimse",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi adılı) ve kimi",
+   "karsilik": "ve kimi"
+  },
+  {
+   "kelime": "يُضْلِلِ",
+   "okunus": "yüdlili",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, saptırma",
+   "karsilik": "saptırırsa"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan tek ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "فَمَا",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) artık yoktur",
+   "karsilik": "artık yoktur"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) onun için",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "هَادٍ",
+   "okunus": "hâdin",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme, hidayet",
+   "karsilik": "iletecek kimse"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Kur'an'ın kendi niteliğini tanımlar: sözün en güzeli, birbirine benzer (müteşâbih) ve ikişerli (mesânî) bir kitaptır. Klasik tefsir 'mesânî'yi, kıssaların, öğütlerin ve konuların tekrarlı, ahenkli bir üslupla anlatılması olarak açıklar. Bu tekrar, mesajın kalıcı biçimde zihinlere yerleşmesini sağlar.",
+  "Ayetin en çok bilinen kısmı, Rablerinden korkanların bu kitabı dinlerken derilerinin ürpermesi, sonra kalplerinin Allah'ı anmaya yumuşamasıdır. Bu iki aşamalı tepki -önce ürperme, sonra yumuşama- korku ile huzurun birlikte yaşandığı bir hidayet deneyimini anlatır. Ayet, bu hidayetin Allah'tan geldiğini ve O'nun saptırdığı kimseyi kimsenin doğru yola iletemeyeceğini bildirerek biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "8:2",
+   "meal": "Müminler ancak o kimselerdir ki, Allah anıldığında kalpleri titrer, ayetleri okunduğunda imanları artar.",
+   "baglanti": "Enfâl suresi de Allah'ın anılmasıyla kalplerin titremesini anlatır; Zümer 23'teki 'ürperme' tepkisiyle aynı duyguyu paylaşır."
+  },
+  {
+   "ref": "13:28",
+   "meal": "İman edip kalpleri Allah'ı anmakla huzur bulanlar var ya, iyi bilin ki kalpler ancak Allah'ı anmakla huzur bulur.",
+   "baglanti": "Ra'd suresi, Zümer 23'teki 'kalplerin yumuşayıp Allah'ı anmaya dönmesi' sürecinin sonucunu, huzur bulma olarak tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın üslubu ve onu dinleyen müminin verdiği tepkidir; bu tepki, korku ile huzurun birlikte yaşandığı bir duygu değişimidir.",
+  "Günlük hayata taşınabilecek ders, Kur'an'ı sadece bilgi olarak değil, kalbe dokunan bir söz olarak dinlemektir. Bir ayeti okurken ya da dinlerken içinde bir ürperme ya da yumuşama hissetmek, bu ayetin tarif ettiği canlı bir tepkidir; bunu fark etmek, okumayı derinleştirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Dikkatle dinle",
+   "aciklama": "Bugün bir ayeti, sadece okumak için değil, içinde ne hissettiğini fark etmek için dinle."
+  },
+  {
+   "baslik": "Tepkini fark et",
+   "aciklama": "Bir ayet seni etkilediğinde, o anı görmezden gelmeden bir kaç saniye üzerinde dur."
+  },
+  {
+   "baslik": "Huzuru ara",
+   "aciklama": "Zihnin dağınıkken, birkaç dakika sessizce zikir veya dua ederek sakinleşmeyi dene."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ayeti sesli olarak oku ve içinde uyandırdığı duyguyu fark et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=23"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/39/23"
+  }
+ ]
+}

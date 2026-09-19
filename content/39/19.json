@@ -1,0 +1,124 @@
+{
+ "sure": 39,
+ "ayet": 19,
+ "durum": "taslak",
+ "meal": "Azap sözü hakkında kesinleşmiş kimseyi mi (kurtaracaksın)? Ateşteki kimseyi sen mi kurtaracaksın?",
+ "mealNotu": "'Hakka' fiili burada 'kesinleşti, gerçekleşti' anlamındadır. Cümle bir soru şeklinde olup, açık cevabı 'hayır'dır; bu yüzden '(kurtaracaksın)' köşeli parantez yerine parantez içinde belirtilmiştir çünkü cümle yapısı zaten soru formunda tamamlanmıştır.",
+ "kokler": [
+  {
+   "kelime": "أَفَمَنْ",
+   "okunus": "efemen",
+   "kok": "—",
+   "kokAnlam": "(ilgi adılı) kimse mi",
+   "karsilik": "kimseyi mi"
+  },
+  {
+   "kelime": "حَقَّ",
+   "okunus": "hakka",
+   "kok": "حقق",
+   "kokAnlam": "gerçekleşme, kesinleşme",
+   "karsilik": "kesinleşmiş"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) onun üzerine",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "كَلِمَةُ",
+   "okunus": "kelimetü",
+   "kok": "كلم",
+   "kokAnlam": "söz, kelime",
+   "karsilik": "sözü"
+  },
+  {
+   "kelime": "ٱلْعَذَابِ",
+   "okunus": "el'azâbi",
+   "kok": "عذب",
+   "kokAnlam": "azap, ceza",
+   "karsilik": "azap"
+  },
+  {
+   "kelime": "أَفَأَنتَ",
+   "okunus": "efeente",
+   "kok": "—",
+   "kokAnlam": "(zamir) sen mi",
+   "karsilik": "sen mi"
+  },
+  {
+   "kelime": "تُنقِذُ",
+   "okunus": "tünkızü",
+   "kok": "نقذ",
+   "kokAnlam": "kurtarma",
+   "karsilik": "kurtaracaksın"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi adılı) kimse",
+   "karsilik": "kimseyi"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-deki"
+  },
+  {
+   "kelime": "ٱلنَّارِ",
+   "okunus": "ennâri",
+   "kok": "نور",
+   "kokAnlam": "ateş",
+   "karsilik": "ateş"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki hidayete erenlerin karşısına, azap sözü kendisi için kesinleşmiş kimseyi koyar. Soru biçimindeki cümle, Peygamberin herkesi kurtaramayacağını, hidayetin zorla verilemeyeceğini açıkça gösterir.",
+  "Ayet, Peygamberin görevinin sınırını hatırlatır: o bir tebliğcidir, kimseyi zorla doğru yola sokamaz veya ateşten çekip çıkaramaz. Bu, önceki ayetlerdeki 'sözü dinleyip en güzeline uyanlar' ile 'azabı hak edenler' arasındaki temel farkı, kişinin kendi tercihinin belirlediğini gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "28:56",
+   "meal": "Şüphesiz sen, sevdiğini doğru yola iletemezsin; fakat Allah dilediğini doğru yola iletir.",
+   "baglanti": "Kasas suresi de hidayetin Peygamberin elinde olmadığını, Allah'a ait olduğunu aynı netlikte bildirir."
+  },
+  {
+   "ref": "39:71",
+   "meal": "İnkâr edenler, cehenneme bölük bölük sürülür...",
+   "baglanti": "Aynı surenin ilerleyen bir ayeti, burada sözü edilen 'ateşteki kimse'nin akıbetini sahne olarak gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamberin hidayet konusundaki sınırlı görevidir; bu, tebliğ ile zorlamanın farkını gösteren özel bir bağlamdır.",
+  "Günlük hayata taşınabilecek ders, başkasını değiştirme çabasında sınırını bilmektir. Bir yakınını doğru yola çağırabilirsin, öğüt verebilirsin; ama son kararı onun vermesi gerektiğini kabul etmek, hem sana hem ona huzur verir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sınırını bil",
+   "aciklama": "Bir yakınını değiştirmeye çalıştığın bir konuda, bugün baskı yerine sabırla öğüt vermeyi seç."
+  },
+  {
+   "baslik": "Görevini yap, sonucu bırak",
+   "aciklama": "Bugün doğru bir şeyi anlat, ama sonucunu zorlamadan kişiye bırak."
+  },
+  {
+   "baslik": "Kendi tercihini gözden geçir",
+   "aciklama": "Bugün kendi seçimlerinin, seni hangi sona götürdüğünü bir an düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün bir yakınına, zorlamadan, sakin bir dille bir öğüt ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=19"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/39/19"
+  }
+ ]
+}

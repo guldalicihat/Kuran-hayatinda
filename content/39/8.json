@@ -1,0 +1,292 @@
+{
+ "sure": 39,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "İnsana bir zarar dokunduğunda, Rabbine yönelerek O'na dua eder. Sonra kendisine bir nimet verdiğinde, önceden kendisine yalvarmış olduğunu unutur ve O'nun yolundan saptırmak için Allah'a ortaklar koşar. De ki: Nankörlüğünle biraz yararlan; şüphesiz sen ateş halkındansın.",
+ "mealNotu": "'Havvele' fiili 'havl' kökünden gelir ve bir şeyi birinden diğerine geçirip vermeyi anlatır; burada 'nimet verdiğinde' diye çevrilmiştir. 'Endâd' kelimesi, Allah'a denk tutulan ortaklar anlamına gelir.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) ...dığında",
+   "karsilik": "...dığında"
+  },
+  {
+   "kelime": "مَسَّ",
+   "okunus": "messe",
+   "kok": "مسس",
+   "kokAnlam": "dokunma, değme",
+   "karsilik": "dokunduğunda"
+  },
+  {
+   "kelime": "ٱلْإِنسَٰنَ",
+   "okunus": "el'insâne",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet kurma",
+   "karsilik": "insana"
+  },
+  {
+   "kelime": "ضُرٌّ",
+   "okunus": "durrun",
+   "kok": "ضرر",
+   "kokAnlam": "zarar, sıkıntı",
+   "karsilik": "bir zarar"
+  },
+  {
+   "kelime": "دَعَا",
+   "okunus": "deâ",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, dua etme",
+   "karsilik": "dua eder"
+  },
+  {
+   "kelime": "رَبَّهُۥ",
+   "okunus": "rabbehû",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye",
+   "karsilik": "Rabbine"
+  },
+  {
+   "kelime": "مُنِيبًا",
+   "okunus": "münîben",
+   "kok": "نوب",
+   "kokAnlam": "dönme, yönelme",
+   "karsilik": "yönelerek"
+  },
+  {
+   "kelime": "إِلَيْهِ",
+   "okunus": "ileyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) O'na",
+   "karsilik": "O'na"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) ...dığında",
+   "karsilik": "...dığında"
+  },
+  {
+   "kelime": "خَوَّلَهُۥ",
+   "okunus": "havvelehû",
+   "kok": "خول",
+   "kokAnlam": "bahşetme, nimet verme",
+   "karsilik": "kendisine verdiğinde"
+  },
+  {
+   "kelime": "نِعْمَةً",
+   "okunus": "ni'meten",
+   "kok": "نعم",
+   "kokAnlam": "nimet, iyilik",
+   "karsilik": "bir nimet"
+  },
+  {
+   "kelime": "مِّنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) kendisinden",
+   "karsilik": "kendisinden"
+  },
+  {
+   "kelime": "نَسِىَ",
+   "okunus": "nesiye",
+   "kok": "نسي",
+   "kokAnlam": "unutma",
+   "karsilik": "unutur"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi adılı) şey",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma, bulunma",
+   "karsilik": "olduğunu"
+  },
+  {
+   "kelime": "يَدْعُوٓا۟",
+   "okunus": "yed'û",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, dua etme",
+   "karsilik": "yalvarmış"
+  },
+  {
+   "kelime": "إِلَيْهِ",
+   "okunus": "ileyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) O'na",
+   "karsilik": "kendisine"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلُ",
+   "okunus": "kablü",
+   "kok": "قبل",
+   "kokAnlam": "önce, öncelik",
+   "karsilik": "önceden"
+  },
+  {
+   "kelime": "وَجَعَلَ",
+   "okunus": "ve ceale",
+   "kok": "جعل",
+   "kokAnlam": "kılma, var etme",
+   "karsilik": "ve koşar"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan tek ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "أَندَادًا",
+   "okunus": "endâden",
+   "kok": "ندد",
+   "kokAnlam": "denk tutma, eş koşma",
+   "karsilik": "ortaklar"
+  },
+  {
+   "kelime": "لِّيُضِلَّ",
+   "okunus": "liyüdılle",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, saptırma",
+   "karsilik": "saptırmak için"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "سَبِيلِهِۦ",
+   "okunus": "sebîlihî",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "O'nun yolundan"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "تَمَتَّعْ",
+   "okunus": "temetta'",
+   "kok": "متع",
+   "kokAnlam": "yararlanma, geçici zevk alma",
+   "karsilik": "yararlan"
+  },
+  {
+   "kelime": "بِكُفْرِكَ",
+   "okunus": "biküfrike",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, nankörlük",
+   "karsilik": "nankörlüğünle"
+  },
+  {
+   "kelime": "قَلِيلًا",
+   "okunus": "kalîlen",
+   "kok": "قلل",
+   "kokAnlam": "azlık",
+   "karsilik": "biraz"
+  },
+  {
+   "kelime": "إِنَّكَ",
+   "okunus": "inneke",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz sen",
+   "karsilik": "şüphesiz sen"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-densin"
+  },
+  {
+   "kelime": "أَصْحَٰبِ",
+   "okunus": "ashâbi",
+   "kok": "صحب",
+   "kokAnlam": "arkadaşlık, birlikte olma",
+   "karsilik": "halkındansın"
+  },
+  {
+   "kelime": "ٱلنَّارِ",
+   "okunus": "ennâri",
+   "kok": "نور",
+   "kokAnlam": "ateş",
+   "karsilik": "ateş"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, insanın darda kaldığında Allah'a yönelmesini, ama nimete kavuşunca bu yönelişi unutmasını anlatır. 'Münîb' kelimesi, tövbe ederek dönmeyi ifade eder; sıkıntı anında insan içtenlikle Allah'a döner, fakat bu içtenlik nimetle birlikte kaybolabilir.",
+  "Ayetin devamında, unutmanın ötesine geçilip Allah'a ortaklar koşulması anlatılır; bu, sadece bir nankörlük değil, başkalarını da yoldan saptırma sonucu doğurur. Ayet, bu tavrı 'de ki: nankörlüğünle biraz yararlan' sözüyle uyarır; 'biraz' kelimesi, dünya nimetinin geçiciliğine işaret eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "30:33",
+   "meal": "İnsanlara bir zarar dokunduğunda, Rablerine yönelerek O'na dua ederler; sonra kendilerine bir rahmet tattırdığında, içlerinden bir grup Rablerine ortak koşar.",
+   "baglanti": "Rûm suresi, aynı davranış örüntüsünü, sıkıntıda yönelip nimette şirke düşme olarak neredeyse aynı sırayla anlatır."
+  },
+  {
+   "ref": "10:12",
+   "meal": "İnsana bir zarar dokunduğunda, yan üzeri yatarken de, otururken de, ayaktayken de bize dua eder; ama biz zararını giderince, sanki bize hiç dua etmemiş gibi yoluna devam eder.",
+   "baglanti": "Yûnus suresi de aynı unutkanlığı, farklı bedensel durumlarla zenginleştirerek anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insanın sıkıntıda Allah'a yönelip rahatladığında bu yönelişi unutmasıdır. Bu, çoğu insanın hayatında zaman zaman yaşadığı bir örüntüdür.",
+  "Günlük hayata taşınabilecek ders, zorluk geçtikten sonra da bağlılığı sürdürmektir. Dua, yalnız sıkıntı anının değil, rahatlığın da bir parçası olmalıdır; nimet geldiğinde şükrü unutmamak, bu ayetin işaret ettiği asıl uyarıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Rahatlığını hatırla",
+   "aciklama": "Geçen bir sıkıntıdan kurtulduğun bir anı hatırla ve o an ettiğin duayı bugün de tekrar et."
+  },
+  {
+   "baslik": "Nimeti fark et",
+   "aciklama": "Bugün sorunsuz geçen bir anını, dua etmeden geçmeden önce fark et ve şükret."
+  },
+  {
+   "baslik": "Geçiciliği hatırla",
+   "aciklama": "Bir konuda rahatladığında, bu rahatlığın geçici olduğunu ve asıl kalıcı olanın ahiret olduğunu bir an düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir sıkıntın geçtiğinde ettiğin duayı, sıkıntı geçtikten sonra da bir kez daha tekrarla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/39/8"
+  }
+ ]
+}

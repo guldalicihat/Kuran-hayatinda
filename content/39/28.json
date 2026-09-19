@@ -1,0 +1,103 @@
+{
+ "sure": 39,
+ "ayet": 28,
+ "durum": "taslak",
+ "meal": "Arapça, hiç eğriliği olmayan bir Kur'an olarak; belki sakınırlar.",
+ "mealNotu": "'İvec' kelimesi eğrilik, çarpıklık anlamındadır; burada Kur'an'ın anlatımında hiçbir tutarsızlık ve çelişki olmadığını bildirir.",
+ "kokler": [
+  {
+   "kelime": "قُرْءَانًا",
+   "okunus": "kur'ânen",
+   "kok": "قرأ",
+   "kokAnlam": "okuma; Kur'an",
+   "karsilik": "bir Kur'an olarak"
+  },
+  {
+   "kelime": "عَرَبِيًّا",
+   "okunus": "arabiyyen",
+   "kok": "عرب",
+   "kokAnlam": "Arapça, açık ifade",
+   "karsilik": "Arapça"
+  },
+  {
+   "kelime": "غَيْرَ",
+   "okunus": "gayra",
+   "kok": "غير",
+   "kokAnlam": "başka, dışında",
+   "karsilik": "olmayan"
+  },
+  {
+   "kelime": "ذِى",
+   "okunus": "zî",
+   "kok": "—",
+   "kokAnlam": "(isim) sahibi",
+   "karsilik": "sahibi"
+  },
+  {
+   "kelime": "عِوَجٍ",
+   "okunus": "ivecin",
+   "kok": "عوج",
+   "kokAnlam": "eğrilik, çarpıklık",
+   "karsilik": "eğriliği"
+  },
+  {
+   "kelime": "لَّعَلَّهُمْ",
+   "okunus": "leallehüm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) umulur ki",
+   "karsilik": "belki"
+  },
+  {
+   "kelime": "يَتَّقُونَ",
+   "okunus": "yettekûne",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "sakınırlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu kısa ayet, önceki ayette anlatılan örneklerle dolu Kur'an'ın iki özelliğini vurgular: Arapça oluşu ve hiçbir eğriliğinin bulunmaması. Arapça olması, ilk muhatapların onu doğrudan anlayabilmesini sağlar; eğriliğinin olmaması ise mesajın tutarlı ve çelişkisiz olduğunu bildirir.",
+  "Ayet, bu netliğin amacını 'belki sakınırlar' diyerek açıklar. Anlaşılır ve tutarlı bir mesaj, insanın bahane üretmesini zorlaştırır; kişi 'anlamadım' diyemez, çünkü mesaj açıktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "12:2",
+   "meal": "Şüphesiz biz onu, akıl erdiresiniz diye Arapça bir Kur'an olarak indirdik.",
+   "baglanti": "Yûsuf suresi de Kur'an'ın Arapça indirilişini, anlaşılırlık amacıyla ilişkilendirir."
+  },
+  {
+   "ref": "18:1",
+   "meal": "Hamd, kuluna Kitabı indiren ve onda hiçbir eğrilik bırakmayan Allah'a mahsustur.",
+   "baglanti": "Kehf suresi de Kur'an'da 'hiçbir eğrilik' olmadığını, aynı 'ivec' kelimesiyle doğrudan bildirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın dilinin açıklığı ve mesajının tutarlılığıdır; bu, Kur'an'ın kendine dair bir tanıklığıdır.",
+  "Günlük hayata taşınabilecek ders, açık ve net olmanın değeridir. Konuşurken veya bir konuyu anlatırken eğriliksiz, dolambaçsız olmak, karşındaki kişinin seni doğru anlamasını kolaylaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Net konuş",
+   "aciklama": "Bugün bir konuşmanda, dolambaçlı ifadeler yerine açık ve net cümleler kur."
+  },
+  {
+   "baslik": "Anlamadan geçme",
+   "aciklama": "Bir ayeti anlamadan geçtiğinde, bugün anlamına bakmak için birkaç dakika ayır."
+  },
+  {
+   "baslik": "Tutarlı ol",
+   "aciklama": "Söylediklerinle yaptıkların arasında bir çelişki olup olmadığını bugün kontrol et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda, dolambaçsız ve açık bir şekilde konuş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=28"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/39/28"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "sure": 39,
+ "ayet": 40,
+ "durum": "taslak",
+ "meal": "Kendisini rezil edecek azabın kime geleceğini ve üzerine kalıcı bir azabın kime ineceğini.",
+ "mealNotu": "Ayet, önceki ayetteki 'yakında bileceksiniz' cümlesinin nesnesidir; iki durum sıralanır: rezil eden azap ve kalıcı azap.",
+ "kokler": [
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi adılı) kim",
+   "karsilik": "kime"
+  },
+  {
+   "kelime": "يَأْتِيهِ",
+   "okunus": "ye'tîhi",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "geleceğini"
+  },
+  {
+   "kelime": "عَذَابٌ",
+   "okunus": "azâbün",
+   "kok": "عذب",
+   "kokAnlam": "azap, ceza",
+   "karsilik": "azabın"
+  },
+  {
+   "kelime": "يُخْزِيهِ",
+   "okunus": "yühzîhi",
+   "kok": "خزي",
+   "kokAnlam": "rezillik, aşağılanma",
+   "karsilik": "kendisini rezil edecek"
+  },
+  {
+   "kelime": "وَيَحِلُّ",
+   "okunus": "ve yehillü",
+   "kok": "حلل",
+   "kokAnlam": "inme, konma",
+   "karsilik": "ve ineceğini"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "عَذَابٌ",
+   "okunus": "azâbün",
+   "kok": "عذب",
+   "kokAnlam": "azap, ceza",
+   "karsilik": "bir azabın"
+  },
+  {
+   "kelime": "مُّقِيمٌ",
+   "okunus": "mükîmün",
+   "kok": "قوم",
+   "kokAnlam": "kalıcı olma, sürekli kalma",
+   "karsilik": "kalıcı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki 'yakında bileceksiniz' sözünün içeriğini tamamlar: kimin rezil edici bir azapla karşılaşacağını, kimin üzerine kalıcı bir azabın ineceğini. İki azap türü anılır: biri kişiyi küçük düşüren, rezil eden bir azap; diğeri hiç bitmeyen, kalıcı bir azap.",
+  "Bu ayetle sure, ilk kırk ayetlik bölümünün özetini yapmış olur: tevhid çağrısını reddeden, Allah'a ortak koşan ve Peygamberi yalanlayanların akıbeti budur. Ayet, bir tehditten çok, gerçekleşecek bir sonucun kesin bildirimidir; bundan sonraki ayetler bu temayı farklı açılardan sürdürür."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:93",
+   "meal": "...Kime rezil edici bir azap geleceğini ve kimin yalancı olduğunu yakında bileceksiniz. Gözetleyin, ben de sizinle beraber gözetleyeceğim.",
+   "baglanti": "Hûd suresi, aynı 'rezil edici azap' ifadesini, neredeyse birebir aynı kelimelerle kullanır; iki ayet birbirinin tamamlayıcısı gibidir."
+  },
+  {
+   "ref": "11:39",
+   "meal": "Yakında bileceksiniz, rezil edici azap kime gelecek ve kalıcı bir azap kimin üzerine inecek.",
+   "baglanti": "Hûd suresi, Nûh kıssasında da aynı iki azap türünü -rezil eden ve kalıcı olan- birebir aynı ifadeyle sıralar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, tevhidi reddedenlerin karşılaşacağı iki tür azabın bildirilmesidir; bu, bir uyarı ve kesin bir sonuç bildirimidir.",
+  "Günlük hayata taşınabilecek ders, kısa vadeli bir rahatlığın, uzun vadede rezillik ve kalıcı bir kayıpla sonuçlanabileceğini bilmektir. Bir yanlışta ısrar etmek yerine, bu sonucu hatırlayarak zamanında geri dönmek, kişiyi büyük bir pişmanlıktan korur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sonucu düşün",
+   "aciklama": "Bugün bir yanlışta ısrar ediyorsan, bunun uzun vadeli sonucunu bir an düşün."
+  },
+  {
+   "baslik": "Zamanında dön",
+   "aciklama": "Geri dönmen gereken bir konuda, bugünden adım at, ertelemeden."
+  },
+  {
+   "baslik": "Kalıcıyı seç",
+   "aciklama": "Geçici bir rahatlık yerine, bugün kalıcı bir iyiliği tercih et."
+  }
+ ],
+ "bugununAdimi": "Bugün ısrar ettiğin küçük bir yanlıştan geri dönmeye karar ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=40"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/39/40"
+  }
+ ]
+}

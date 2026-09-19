@@ -1,0 +1,96 @@
+{
+ "sure": 39,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Kitabın indirilişi, Azîz ve Hakîm olan Allah'tandır.",
+ "mealNotu": "'Tenzîl' kökü, bir şeyi yukarıdan aşama aşama indirmeyi anlatır; 'İndirme' diye çevrilse de asıl vurgu bu kademeliliktedir. 'Azîz' güç ve üstünlüğü, 'Hakîm' her işi yerli yerinde yapmayı taşır.",
+ "kokler": [
+  {
+   "kelime": "تَنزِيلُ",
+   "okunus": "tenzîlü",
+   "kok": "نزل",
+   "kokAnlam": "yukarıdan aşama aşama indirme",
+   "karsilik": "indirilişi"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı kitap",
+   "karsilik": "Kitabın"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-tandır"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan tek ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلْعَزِيزِ",
+   "okunus": "el'azîzi",
+   "kok": "عزز",
+   "kokAnlam": "güç, üstünlük, yenilmezlik",
+   "karsilik": "Azîz"
+  },
+  {
+   "kelime": "ٱلْحَكِيمِ",
+   "okunus": "elhakîmi",
+   "kok": "حكم",
+   "kokAnlam": "hüküm, hikmet, yerli yerince yapma",
+   "karsilik": "Hakîm olan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Zümer suresi, Kur'an'ın kaynağını bildirerek başlar. 'Tenzîl' kökü, kitabın insan sözü olmadığını, yukarıdan aşama aşama indirildiğini anlatır. Bu indirilişin kimden geldiği hemen ardından açıklanır: Azîz ve Hakîm olan Allah'tan.",
+  "'Azîz' ismi, kimsenin gücüne karşı koyamayacağı bir üstünlüğü; 'Hakîm' ismi ise her hükmün, her emrin yerli yerinde ve amaca uygun olduğunu bildirir. Sure boyunca işlenecek tevhid, kulluk ve ahiret konuları, bu iki sıfatın gölgesinde ele alınır: Kitap, gücü ve hikmeti sonsuz olandan gelir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "45:2",
+   "meal": "Kitabın indirilişi, Azîz ve Hakîm olan Allah'tandır.",
+   "baglanti": "Câsiye suresi de aynı cümleyle açılır; bu, birden fazla surenin girişinde tekrarlanan bir vurgudur."
+  },
+  {
+   "ref": "32:2",
+   "meal": "Kitabın indirilişinde hiç şüphe yoktur; âlemlerin Rabbindendir.",
+   "baglanti": "Secde suresi aynı temayı, Rab isminin âlemlere genişliğiyle birleştirerek verir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kur'an'ın kaynağıdır: o, güçlü ve hikmetli olan Allah'tan gelir. Bu, okuyanın kitaba nasıl yaklaşacağını da belirler; sıradan bir metin değil, hikmetle indirilmiş bir sözdür.",
+  "Günlük hayata taşınabilecek ders, okuduğun şeyin kaynağına dikkat etmektir. Kur'an'ı okurken 'bu, hikmetli ve güçlü olandan geliyor' bilinciyle okumak, okumayı sıradan bir bilgi edinmeden çıkarıp ciddiye almaya dönüştürür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugün bir sayfa oku",
+   "aciklama": "Kur'an'dan bir sayfa aç ve 'bu söz Hakîm olandan geliyor' diyerek dikkatle oku."
+  },
+  {
+   "baslik": "Hikmeti ara",
+   "aciklama": "Okuduğun ayette neden böyle söylendiğini düşün, aceleyle geçme."
+  },
+  {
+   "baslik": "Kaynağı hatırla",
+   "aciklama": "Bir konuda karar verirken, Kur'an'ın hükmünün hikmetli olduğunu unutma."
+  }
+ ],
+ "bugununAdimi": "Bugün Kur'an'dan okuduğun bir ayeti, 'bu hikmetli bir sözdür' diyerek bir kez daha düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/39/1"
+  }
+ ]
+}
