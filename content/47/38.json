@@ -1,0 +1,257 @@
+{
+ "sure": 47,
+ "ayet": 38,
+ "durum": "taslak",
+ "meal": "İşte sizler, Allah yolunda infak etmeye çağrılıyorsunuz; kiminiz cimrilik ediyor. Kim cimrilik ederse ancak kendi nefsine karşı cimrilik etmiş olur. Allah hiçbir şeye muhtaç değildir, siz ise muhtaçsınız. Eğer yüz çevirirseniz, [Allah] yerinize sizden başka bir topluluk getirir; sonra onlar sizin gibi olmazlar.",
+ "mealNotu": "'İnfak' kökü نفق Allah yolunda harcamayı, 'ganî' kökü غني hiçbir şeye muhtaç olmamayı, 'istibdâl' kökü بدل yerine başkasını koymayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "هَٰٓأَنتُمْ",
+   "okunus": "hâentüm",
+   "kok": "—",
+   "kokAnlam": "(işaret + zamir) işte siz",
+   "karsilik": "işte sizler"
+  },
+  {
+   "kelime": "هَٰٓؤُلَآءِ",
+   "okunus": "hâülâi",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri) şunlar",
+   "karsilik": "şunlar"
+  },
+  {
+   "kelime": "تُدْعَوْنَ",
+   "okunus": "tüd'avne",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, davet etme",
+   "karsilik": "çağrılıyorsunuz"
+  },
+  {
+   "kelime": "لِتُنفِقُوا۟",
+   "okunus": "litünfikû",
+   "kok": "نفق",
+   "kokAnlam": "tükenme; Allah yolunda harcama",
+   "karsilik": "infak etmeniz için"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "(özel isim) Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَمِنكُم",
+   "okunus": "feminküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sizden kimi",
+   "karsilik": "sizden kimi"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kim",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "يَبْخَلُ",
+   "okunus": "yebhalü",
+   "kok": "بخل",
+   "kokAnlam": "cimrilik",
+   "karsilik": "cimrilik eder"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "يَبْخَلُ",
+   "okunus": "yebhal",
+   "kok": "بخل",
+   "kokAnlam": "cimrilik",
+   "karsilik": "cimrilik ederse"
+  },
+  {
+   "kelime": "فَإِنَّمَا",
+   "okunus": "feinnemâ",
+   "kok": "—",
+   "kokAnlam": "(tekid + sınırlama) şüphesiz ancak",
+   "karsilik": "şüphesiz ancak"
+  },
+  {
+   "kelime": "يَبْخَلُ",
+   "okunus": "yebhalü",
+   "kok": "بخل",
+   "kokAnlam": "cimrilik",
+   "karsilik": "cimrilik etmiş olur"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -e karşı",
+   "karsilik": "-e karşı"
+  },
+  {
+   "kelime": "نَّفْسِهِۦ",
+   "okunus": "nefsihî",
+   "kok": "نفس",
+   "kokAnlam": "kendilik, nefis, can",
+   "karsilik": "kendi nefsine"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "(özel isim) Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلْغَنِىُّ",
+   "okunus": "elganiyyü",
+   "kok": "غني",
+   "kokAnlam": "hiçbir şeye muhtaç olmama, zenginlik",
+   "karsilik": "hiçbir şeye muhtaç değildir"
+  },
+  {
+   "kelime": "وَأَنتُمُ",
+   "okunus": "ve entümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz ise",
+   "karsilik": "siz ise"
+  },
+  {
+   "kelime": "ٱلْفُقَرَآءُ",
+   "okunus": "elfükarâü",
+   "kok": "فقر",
+   "kokAnlam": "yoksulluk, muhtaçlık",
+   "karsilik": "muhtaçlarsınız"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart edatı) ve eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "تَتَوَلَّوْا۟",
+   "okunus": "tetevellev",
+   "kok": "ولي",
+   "kokAnlam": "geri dönme, yüz çevirme",
+   "karsilik": "yüz çevirirseniz"
+  },
+  {
+   "kelime": "يَسْتَبْدِلْ",
+   "okunus": "yestebdil",
+   "kok": "بدل",
+   "kokAnlam": "değiştirme, yerine başkasını koyma",
+   "karsilik": "yerinize getirir"
+  },
+  {
+   "kelime": "قَوْمًا",
+   "okunus": "kavmen",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk, kavim",
+   "karsilik": "bir topluluk"
+  },
+  {
+   "kelime": "غَيْرَكُمْ",
+   "okunus": "gayraküm",
+   "kok": "غير",
+   "kokAnlam": "başkalık, değişiklik",
+   "karsilik": "sizden başka"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) ...mazlar",
+   "karsilik": "...mazlar"
+  },
+  {
+   "kelime": "يَكُونُوٓا۟",
+   "okunus": "yekûnû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmazlar"
+  },
+  {
+   "kelime": "أَمْثَٰلَكُم",
+   "okunus": "emsâleküm",
+   "kok": "مثل",
+   "kokAnlam": "benzerlik, örnek",
+   "karsilik": "sizin gibi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Surenin bu kapanış ayeti, önceki ayette geçen ölçülü infak isteğine rağmen bazılarının yine de cimrilik ettiğini söyler ve buna sert bir hatırlatmayla karşılık verir: cimrilik eden, aslında kendi nefsine karşı cimrilik etmiş olur; çünkü infakın faydası döner dolaşır kişinin kendisine ulaşır.",
+  "Ayet, Allah'ın hiçbir şeye muhtaç olmadığını, muhtaç olanın insan olduğunu vurgulayarak bu ilişkiyi netleştirir. Son cümle, yüz çevirenlerin yerine başka bir topluluğun getirilebileceğini söyleyerek, surenin baştan beri işlediği itaat-iman temasını güçlü bir uyarıyla kapatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:180",
+   "meal": "Allah'ın kendilerine verdiği maldan cimrilik edenler, bunun kendileri için hayırlı olduğunu sanmasınlar; hayır, bu onlar için kötüdür.",
+   "baglanti": "Cimriliğin kişinin kendi aleyhine olduğu fikrini benzer biçimde vurgular."
+  },
+  {
+   "ref": "35:15",
+   "meal": "Ey insanlar, sizler Allah'a muhtaçsınız; Allah ise her bakımdan zengin ve övgüye layık olandır.",
+   "baglanti": "Aynı 'ganî' ve 'fakir' karşıtlığını neredeyse aynı kelimelerle taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah yolunda infak ve buna karşı gösterilen cimriliktir; ayet bunun sonucunun kişinin kendisine döneceğini söyler.",
+  "Günlük hayatta da, paylaşmaktan kaçınmak kişiyi geçici olarak rahatlatsa da, uzun vadede kişiyi cömertlik ve bereketten mahrum bırakır. Vermek, aslında önce veren kişiye fayda sağlar; bu farkındalık, cimrilikten kurtulmayı kolaylaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugün küçük bir infakla başla",
+   "aciklama": "Büyük bir bağış beklemeden, bugün elinden gelen küçük bir yardımı yap."
+  },
+  {
+   "baslik": "Cimrilik ettiğin bir alanı fark et",
+   "aciklama": "Sadece parada değil, zaman veya emek konusunda cimrilik ettiğin bir alanı bugün gözden geçir."
+  },
+  {
+   "baslik": "Vermenin sana döneceğini hatırla",
+   "aciklama": "Bugün yaptığın bir iyiliğin, karşılığını beklemeden, önce kendine fayda verdiğini düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün, büyük bir bağış beklemeden elinden gelen küçük bir yardımı yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=38"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/47/38"
+  }
+ ]
+}

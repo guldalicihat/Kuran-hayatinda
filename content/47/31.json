@@ -1,0 +1,110 @@
+{
+ "sure": 47,
+ "ayet": 31,
+ "durum": "taslak",
+ "meal": "Andolsun sizi deneyeceğiz ki içinizden çaba gösterenleri ve sabredenleri ortaya çıkaralım; haberlerinizi de [böylece] sınayacağız.",
+ "mealNotu": "'Cihad' kökü جهد güç yetirip çaba/gayret göstermeyi anlatır. 'Belâ/ibtilâ' kökü بلو deneme ve sınamayı, 'ahbâr' kökü خبر kişinin durumunu ve gerçek hâlini ifade eder; '[böylece]' bağlacı cümlenin akışını netleştirmek için eklendi.",
+ "kokler": [
+  {
+   "kelime": "وَلَنَبْلُوَنَّكُمْ",
+   "okunus": "ve leneblüvenneküm",
+   "kok": "بلو",
+   "kokAnlam": "deneme, sınama",
+   "karsilik": "andolsun sizi deneyeceğiz"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ta ki",
+   "karsilik": "ta ki"
+  },
+  {
+   "kelime": "نَعْلَمَ",
+   "okunus": "na'leme",
+   "kok": "علم",
+   "kokAnlam": "bilme, ortaya çıkma",
+   "karsilik": "ortaya çıkaralım"
+  },
+  {
+   "kelime": "ٱلْمُجَٰهِدِينَ",
+   "okunus": "elmücâhidîne",
+   "kok": "جهد",
+   "kokAnlam": "güç yetirip çaba gösterme, gayret",
+   "karsilik": "çaba gösterenleri"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) içinizden",
+   "karsilik": "içinizden"
+  },
+  {
+   "kelime": "وَٱلصَّٰبِرِينَ",
+   "okunus": "ves sâbirîne",
+   "kok": "صبر",
+   "kokAnlam": "tutma, dayanma, direnme",
+   "karsilik": "ve sabredenleri"
+  },
+  {
+   "kelime": "وَنَبْلُوَا۟",
+   "okunus": "ve neblüve",
+   "kok": "بلو",
+   "kokAnlam": "deneme, sınama",
+   "karsilik": "ve deneyeceğiz"
+  },
+  {
+   "kelime": "أَخْبَارَكُمْ",
+   "okunus": "ahbâraküm",
+   "kok": "خبر",
+   "kokAnlam": "haber, durum",
+   "karsilik": "haberlerinizi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, imtihanın amacını sade bir şekilde açıklar: Allah insanları dener, ta ki içlerinden gerçekten çaba gösterenler ve sabredenler ortaya çıksın. İmtihan burada, kişinin sözde iddiasını değil, fiilî tutumunu görünür kılan bir süreç olarak anlatılır.",
+  "'Ahbâr' kelimesi, kişinin gerçek durumunu, samimiyetinin sınav anında nasıl ortaya çıktığını ifade eder. Ayet, herhangi bir güncel yorum eklenmeden, kendi ifadesiyle sabır ve azmin imtihanla ortaya çıkacağını vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:2",
+   "meal": "İnsanlar, sadece 'iman ettik' demekle, sınanmadan bırakılacaklarını mı sandılar?",
+   "baglanti": "İmanın söz olarak iddia edilmesinin yeterli olmadığını, mutlaka bir imtihandan geçileceğini aynı şekilde vurgular."
+  },
+  {
+   "ref": "2:155",
+   "meal": "Andolsun sizi biraz korku, açlık, mallardan, canlardan eksiltmekle deneriz; sabredenleri müjdele.",
+   "baglanti": "Aynı 'sabır' kökünü ve imtihan temasını paylaşır; sabredenlerin ayırt edileceği vurgusu ortaktır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu imtihandır; burada özellikle çaba gösterme ve sabır ölçü alınır. Bu, kişinin gerçek tutumunun zorluk anında ortaya çıktığını hatırlatır.",
+  "Günlük hayatta da bir işin veya kararın değeri, kolay zamanlarda değil, zorlaştığında gösterilen sebatta belli olur. Zorluk, kişiyi tanımanın -hatta kişinin kendini tanımasının- bir yoludur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugünkü zorluğu bir imtihan olarak gör",
+   "aciklama": "Karşılaştığın bir zorluğu şikâyet konusu yapmak yerine, sabrını sınayan bir fırsat olarak değerlendir."
+  },
+  {
+   "baslik": "Yarım bıraktığın bir çabayı sürdür",
+   "aciklama": "Zorlaştığı için bıraktığın bir işi bugün küçük bir adımla yeniden ele al."
+  },
+  {
+   "baslik": "Sabrını görünür kıl",
+   "aciklama": "Bugün sabırsızlanacağın bir anda, tepkini bir nefes erteleyerek göster."
+  }
+ ],
+ "bugununAdimi": "Bugün zorlaştığı için bıraktığın bir çabayı küçük bir adımla yeniden sürdür.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=31"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/47/31"
+  }
+ ]
+}

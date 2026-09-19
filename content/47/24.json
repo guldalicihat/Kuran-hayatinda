@@ -1,0 +1,108 @@
+{
+ "sure": 47,
+ "ayet": 24,
+ "durum": "taslak",
+ "meal": "Onlar Kur'an'ı derinlemesine düşünmüyorlar mı, yoksa kalpler[in] üzerinde kilitleri mi var?",
+ "mealNotu": "'Tedebbür' kökü دبر bir şeyin arkasını, sonucunu düşünmeyi, derinlemesine tefekkürü anlatır. 'Kufl' kökü قفل kilit demektir; ayet burada kalbi kilitli bir kapıya benzetir.",
+ "kokler": [
+  {
+   "kelime": "أَفَلَا",
+   "okunus": "efelâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk + soru) hâlâ ...mı?",
+   "karsilik": "hâlâ ...mı"
+  },
+  {
+   "kelime": "يَتَدَبَّرُونَ",
+   "okunus": "yetedebberûne",
+   "kok": "دبر",
+   "kokAnlam": "arkasını/sonucunu düşünme, derinlemesine tefekkür",
+   "karsilik": "düşünmüyorlar"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانَ",
+   "okunus": "elkur'âne",
+   "kok": "قرأ",
+   "kokAnlam": "okuma; Kur'an",
+   "karsilik": "Kur'an'ı"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "قُلُوبٍ",
+   "okunus": "kulûbin",
+   "kok": "قلب",
+   "kokAnlam": "kalp, gönül",
+   "karsilik": "kalplerin"
+  },
+  {
+   "kelime": "أَقْفَالُهَآ",
+   "okunus": "ekfâlühâ",
+   "kok": "قفل",
+   "kokAnlam": "kilit",
+   "karsilik": "kilitleri mi var"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, doğrudan bir tefekkür çağrısıdır: Kur'an'ı yüzeysel okumak yerine, üzerinde derinlemesine düşünmeyi ister. 'Tedebbür' kökü, bir sözün sonucunu, hükmünü ve anlamını arkasına kadar takip etmeyi anlatır; bu, tek seferlik bir okumadan daha fazlasını gerektirir.",
+  "Ayetin ikinci kısmı, düşünmemenin bir sebebi olabileceğini sorar: kalplerin kilitli olması. Bu, kalbin dışarıdan gelen hakikate kapalı hale gelmesini anlatan bir benzetmedir; kilitli bir kapı gibi, anlam içeri giremez. Klasik tefsir bu kilitlenmeyi, inatla hakikate karşı direnmenin bir sonucu olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:82",
+   "meal": "Kur'an'ı düşünmüyorlar mı? Eğer o Allah'tan başkasından olsaydı, onda birçok çelişki bulurlardı.",
+   "baglanti": "Aynı 'tedebbür' fiiliyle, Kur'an üzerinde düşünmeye aynı çağrıyı yapar."
+  },
+  {
+   "ref": "2:7",
+   "meal": "Allah onların kalplerini ve kulaklarını mühürlemiştir; gözlerinde de bir perde vardır.",
+   "baglanti": "Kalbin hakikate kapanmasını, farklı bir mecazla -mühürleme- benzer şekilde anlatır."
+  },
+  {
+   "ref": "83:14",
+   "meal": "Hayır, kazandıkları şeyler kalplerinin üzerine pas tutmuştur.",
+   "baglanti": "Kalbin kapanmasının davranışların birikmesiyle oluştuğunu gösterir; 'kilit' benzetmesini tamamlayan bir başka mecazdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kur'an okumadır; fakat verdiği ders daha geniştir: bir metni hızlıca geçmek ile onun üzerinde durup düşünmek farklı şeylerdir. Anlam, çoğu zaman ikinci bir bakışta ortaya çıkar.",
+  "Günlük hayatta da bir sözü, bir öğüdü veya bir uyarıyı dinleyip geçmek kolaydır; onu gerçekten düşünmek ayrı bir çabadır. Kalbin kapanmaması için, okunanın üzerinde durmaya zaman ayırmak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ayeti bugün yavaşça oku ve üzerinde dur",
+   "aciklama": "Hızlıca geçmek yerine, tek bir ayeti al ve ne anlattığını kendi cümlelerinle düşün."
+  },
+  {
+   "baslik": "Anladığın bir ayeti hayatına uygula",
+   "aciklama": "Bugün okuduğun bir ayetten çıkardığın dersi, somut bir davranışa dönüştür."
+  },
+  {
+   "baslik": "Kısa bir not tut",
+   "aciklama": "Okuduğun bir ayetle ilgili aklına gelen bir düşünceyi bugün birkaç cümleyle yaz."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ayeti yavaşça oku, üzerinde dur ve aklına gelen bir düşünceyi not al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=24"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/47/24"
+  }
+ ]
+}

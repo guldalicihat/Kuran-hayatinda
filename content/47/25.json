@@ -1,0 +1,166 @@
+{
+ "sure": 47,
+ "ayet": 25,
+ "durum": "taslak",
+ "meal": "Kendilerine hidayet açıkça belli olduktan sonra arkalarına dönenlere, şeytan [yaptıklarını] süslü gösterdi ve onlara umut/mühlet verdi.",
+ "mealNotu": "'Sevvele' kökü سول nefsin veya şeytanın bir şeyi cazip ve makul gösterme anlamındadır; parantez içindeki '[yaptıklarını]' bu süslemenin neyle ilgili olduğunu netleştirmek için eklendi. 'Emlâ' kökü ملو uzun süre mühlet ve umut vermeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid edatı) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimseler",
+   "karsilik": "kimselere"
+  },
+  {
+   "kelime": "ٱرْتَدُّوا۟",
+   "okunus": "urteddû",
+   "kok": "ردد",
+   "kokAnlam": "geri dönme, döndürülme",
+   "karsilik": "arkalarına dönenlere"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "أَدْبَٰرِهِم",
+   "okunus": "edbârihim",
+   "kok": "دبر",
+   "kokAnlam": "arka, art",
+   "karsilik": "arkalarına"
+  },
+  {
+   "kelime": "مِّنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra, ardından",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "تَبَيَّنَ",
+   "okunus": "tebeyyene",
+   "kok": "بين",
+   "kokAnlam": "açıklık, belli olma",
+   "karsilik": "açıkça belli olduktan"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehümü",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "ٱلْهُدَى",
+   "okunus": "elhüdâ",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu gösterme, hidayet",
+   "karsilik": "hidayet"
+  },
+  {
+   "kelime": "ٱلشَّيْطَٰنُ",
+   "okunus": "eşşeytânü",
+   "kok": "شطن",
+   "kokAnlam": "uzak düşme, azgınlık; şeytan",
+   "karsilik": "şeytan"
+  },
+  {
+   "kelime": "سَوَّلَ",
+   "okunus": "sevvele",
+   "kok": "سول",
+   "kokAnlam": "cazip gösterme, süsleme",
+   "karsilik": "süslü gösterdi"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "وَأَمْلَىٰ",
+   "okunus": "ve emlâ",
+   "kok": "ملو",
+   "kokAnlam": "uzatma, süre tanıma, mühlet verme",
+   "karsilik": "ve umut/mühlet verdi"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlara",
+   "karsilik": "onlara"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, hidayet kendilerine açıkça belli olduktan sonra ondan geri dönenlerin durumunu anlatır. Ayet, bu geri dönüşün arkasında şeytanın bir rolü olduğunu söyler: şeytan onların yaptıklarını kendilerine cazip ve makul gösterir.",
+  "'Emlâ' kelimesi, şeytanın kişiye uzun bir süre, bir tür boş umut ve erteleme duygusu vermesini anlatır; kişi bu sayede yanlış yolda kalmayı sorun etmez hale gelir. Bu, hidayetten sonra geri dönüşün ani değil, aşamalı ve içten içe cazip gösterilerek gerçekleştiğine işaret eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "8:48",
+   "meal": "Hani şeytan onlara yaptıklarını süslü göstermiş ve 'Bugün insanlardan size galip gelecek yok' demişti.",
+   "baglanti": "Şeytanın davranışları cazip gösterme rolünü benzer şekilde anlatır; konuyu açan güçlü bir paralel."
+  },
+  {
+   "ref": "2:268",
+   "meal": "Şeytan sizi fakirlikle korkutur ve size çirkinliği emreder.",
+   "baglanti": "Şeytanın insanı yanlış bir yola yönlendirme biçimini, farklı bir örnekle tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hidayetten sonra geri dönenlerin durumu ve bu geri dönüşte şeytanın süsleme rolüdür. Bu özel ve ciddi bir durumdur; ancak işaret ettiği mekanizma günlük hayatta da karşımıza çıkar.",
+  "Bir yanlışı sürdürmek, çoğu zaman ansızın değil, içten içe 'bu kadarı sorun değil' düşüncesiyle, adım adım cazip hale gelerek olur. Bu süreci fark etmek, ona kapılmamak için ilk adımdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendine 'bu kadarı sorun değil' dediğin bir şeyi sorgula",
+   "aciklama": "Küçük görüp göz yumduğun bir alışkanlığı bugün yeniden değerlendir."
+  },
+  {
+   "baslik": "Erteleme dürtüsüne karşı bir sınır koy",
+   "aciklama": "'Sonra düzeltirim' dediğin bir konuda bugün somut bir adım at, ertelemeyi kes."
+  },
+  {
+   "baslik": "Şeytanın/nefsin cazip gösterdiği bir şeyden bugün uzak dur",
+   "aciklama": "İçinden gelen ama doğru olmadığını bildiğin bir isteğe bugün 'hayır' de."
+  }
+ ],
+ "bugununAdimi": "Kendine 'bu kadarı sorun değil' dediğin bir alışkanlığı bugün fark edip bir adım geri çek.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=25"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/47/25"
+  }
+ ]
+}

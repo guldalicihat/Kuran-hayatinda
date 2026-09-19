@@ -1,0 +1,103 @@
+{
+ "sure": 47,
+ "ayet": 27,
+ "durum": "taslak",
+ "meal": "Melekler canlarını alırken, yüzlerine ve sırtlarına vururken hâlleri nasıl olacak?",
+ "mealNotu": "'Teveffâ' kökü وفي bir şeyi eksiksiz alma, burada canı tam olarak alma anlamındadır. Ayet sade bir dille anlatılmış; abartılı bir ifadeye gerek olmadığından metne ekleme yapılmadı.",
+ "kokler": [
+  {
+   "kelime": "فَكَيْفَ",
+   "okunus": "fekeyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl, ne şekilde",
+   "karsilik": "nasıl olacak"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman edatı) vakit ki",
+   "karsilik": "vakit ki"
+  },
+  {
+   "kelime": "تَوَفَّتْهُمُ",
+   "okunus": "teveffethümü",
+   "kok": "وفي",
+   "kokAnlam": "eksiksiz alma, canı alma",
+   "karsilik": "canlarını aldığında"
+  },
+  {
+   "kelime": "ٱلْمَلَٰٓئِكَةُ",
+   "okunus": "elmelâiketü",
+   "kok": "ملك",
+   "kokAnlam": "elçi, melek",
+   "karsilik": "melekler"
+  },
+  {
+   "kelime": "يَضْرِبُونَ",
+   "okunus": "yadribûne",
+   "kok": "ضرب",
+   "kokAnlam": "vurma",
+   "karsilik": "vururken"
+  },
+  {
+   "kelime": "وُجُوهَهُمْ",
+   "okunus": "vücûhehüm",
+   "kok": "وجه",
+   "kokAnlam": "yüz",
+   "karsilik": "yüzlerine"
+  },
+  {
+   "kelime": "وَأَدْبَٰرَهُمْ",
+   "okunus": "ve edbârahüm",
+   "kok": "دبر",
+   "kokAnlam": "arka, art",
+   "karsilik": "ve sırtlarına"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetlerde anlatılan hidayetten dönüp şeytanın süslemesine kapılanların can verme anındaki durumunu sorar. Ayet sade bir dille, meleklerin canlarını alırken yüzlerine ve sırtlarına vurduğu bir sahne tarif eder; bu, o kişilerin hâlinin nasıl olacağına dair bir uyarıdır.",
+  "Ayetin üslubu doğrudan ve özlüdür; ayrıntıya girmeden, tek bir soru cümlesiyle bir uyarı yapar. Bu tür ifadeler Kur'an'da ölüm anının ciddiyetini hatırlatmak için kullanılır; ayeti dehşet diliyle abartmadan, kendi ölçülü ifadesiyle okumak gerekir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "8:50",
+   "meal": "İnkâr edenlerin canlarını alırken melekler yüzlerine ve arkalarına vururken bir görsen; 'tadın yakıcı azabı' derler.",
+   "baglanti": "Neredeyse aynı ifadeyi -yüze ve arkaya vurma- taşır; aynı sahnenin başka bir surede tekrarıdır."
+  },
+  {
+   "ref": "6:93",
+   "meal": "Melekler ellerini uzatmış, 'Canlarınızı çıkarın' derken zalimleri bir görsen.",
+   "baglanti": "Can verme anındaki meleklerle karşılaşma sahnesini benzer biçimde tasvir eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ölüm anıdır; bu, dünya hayatının bir gün mutlaka sona ereceğini hatırlatan ciddi bir uyarıdır. Ayet burada belirli bir tutumun -hidayetten dönmenin- sonucunu anlatır.",
+  "Günlük hayata taşınabilecek ders, ölümü unutmadan yaşamaktır. Ölüm anının nasıl geçeceği, bugünkü tercihlerle ilgilidir; bu bilinç, kişiyi daha dikkatli ve hazırlıklı olmaya yöneltir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugün ölümü hatırla, ertelediğin bir hazırlığı yap",
+   "aciklama": "Bir vasiyet, bir borç ödemesi veya bir vedalaşma gibi ertelediğin bir konuyu bugün ele al."
+  },
+  {
+   "baslik": "Bir kırgınlığı bugün çöz",
+   "aciklama": "Bir kişiyle aranızdaki bir küskünlüğü, 'zaman var' demeden bugün gider."
+  },
+  {
+   "baslik": "Bugünkü bir davranışını hesap bilinciyle gözden geçir",
+   "aciklama": "Bir tercih yapmadan önce, bunun hesabını nasıl vereceğini bir an düşün."
+  }
+ ],
+ "bugununAdimi": "Ertelediğin bir vedalaşmayı veya hazırlığı bugün, ölümü hatırlayarak yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=27"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/47/27"
+  }
+ ]
+}
