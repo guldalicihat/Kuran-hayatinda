@@ -1,5 +1,5 @@
-import { useEffect, useMemo, useState } from 'react'
-import { Link, useParams } from 'react-router-dom'
+import { useEffect, useMemo, useRef, useState } from 'react'
+import { Link, useLocation, useNavigationType, useParams } from 'react-router-dom'
 import Header from '../components/Header'
 import { loadChapters, loadContent, loadContentIndex, loadSurah, orderChapters, parseRef } from '../lib/data'
 import type { Ayah, Chapter, Content } from '../lib/types'
@@ -7,6 +7,18 @@ import { useFavorites, useLastRead } from '../lib/store'
 import { useSettings } from '../lib/settings'
 
 const SITE = 'https://kuranhayatimda.com'
+
+const SCROLL_KEY = 'kh:ayah-scroll'
+function readScrollMap(): Record<string, number> {
+  try { return JSON.parse(sessionStorage.getItem(SCROLL_KEY) || '{}') } catch { return {} }
+}
+function writeScrollY(path: string, y: number) {
+  try {
+    const map = readScrollMap()
+    map[path] = y
+    sessionStorage.setItem(SCROLL_KEY, JSON.stringify(map))
+  } catch { /* yoksay */ }
+}
 
 function Section({ no, title, children }: { no?: string; title: string; children: React.ReactNode }) {
   return (
@@ -38,6 +50,11 @@ function FavShareRow({ fav, onToggle, onShare, copied }: { fav: boolean; onToggl
 
 export default function AyahPage() {
   const p = useParams(); const n = Number(p.n); const a = Number(p.a)
+  const location = useLocation()
+  const navType = useNavigationType()
+  const restoredRef = useRef(false)
+  const pathRef = useRef(location.pathname)
+  pathRef.current = location.pathname
   const [ch, setCh] = useState<Chapter | undefined>()
   const [ayah, setAyah] = useState<Ayah | undefined>()
   const [content, setContent] = useState<Content | null | undefined>(undefined)
@@ -48,6 +65,12 @@ export default function AyahPage() {
   const fav = isFavorite(key)
   const [copied, setCopied] = useState(false)
   useEffect(() => {
+    const onScroll = () => writeScrollY(pathRef.current, window.scrollY)
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+  useEffect(() => {
+    restoredRef.current = false
     setContent(undefined); setAyah(undefined)
     loadChapters().then(cs => { setChapters(cs); setCh(cs.find(c => c.n === n)) })
     loadSurah(n).then(s => setAyah(s.ayetler.find(x => x.n === a)))
@@ -55,9 +78,18 @@ export default function AyahPage() {
       if ((idx[String(n)] ?? []).includes(a)) loadContent(n, a).then(setContent).catch(() => setContent(null))
       else setContent(null)
     })
-    mark(n, a); window.scrollTo(0, 0)
+    mark(n, a)
+    if (navType !== 'POP') window.scrollTo(0, 0)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [n, a])
+  useEffect(() => {
+    if (navType === 'POP' && !restoredRef.current && ayah && content !== undefined) {
+      restoredRef.current = true
+      const y = readScrollMap()[location.pathname]
+      if (y) requestAnimationFrame(() => window.scrollTo(0, y))
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [ayah, content])
   const ordered = useMemo(() => orderChapters(chapters, settings.sort), [chapters, settings.sort])
   const orderIdx = ordered.findIndex(c => c.n === n)
   const prevCh = orderIdx > 0 ? ordered[orderIdx - 1] : undefined

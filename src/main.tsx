@@ -8,6 +8,8 @@ import { SettingsProvider } from './lib/settings'
 
 registerSW({ immediate: true })
 
+if ('scrollRestoration' in history) history.scrollRestoration = 'manual'
+
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <SettingsProvider>
