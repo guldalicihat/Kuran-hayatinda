@@ -1,0 +1,131 @@
+{
+ "sure": 72,
+ "ayet": 25,
+ "durum": "taslak",
+ "meal": "De ki: Bilmiyorum, size vaad edilen yakın mı, yoksa Rabbim onun için uzun bir süre mi koyacak.",
+ "mealNotu": "'Emed' kökü belirlenmiş bir vadeyi, uzun bir süreyi anlatır; bu ayet Hz. Peygamber'in kıyametin vaktini bilmediğini açıkça ilan eder.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "أَدْرِىٓ",
+   "okunus": "edrî",
+   "kok": "دري",
+   "kokAnlam": "bilme, vakıf olma",
+   "karsilik": "bilmiyorum"
+  },
+  {
+   "kelime": "أَقَرِيبٌ",
+   "okunus": "ekarîbün",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık",
+   "karsilik": "yakın mı"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri (şey)",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "تُوعَدُونَ",
+   "okunus": "tûadûne",
+   "kok": "وعد",
+   "kokAnlam": "vaad etme",
+   "karsilik": "size vaad edilen"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "bağlaç (yoksa)",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "يَجْعَلُ",
+   "okunus": "yec'alü",
+   "kok": "جعل",
+   "kokAnlam": "kılma, koyma",
+   "karsilik": "koyacak mı"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) onun için",
+   "karsilik": "onun için"
+  },
+  {
+   "kelime": "رَبِّىٓ",
+   "okunus": "rabbî",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, terbiye etme, Rab",
+   "karsilik": "Rabbim"
+  },
+  {
+   "kelime": "أَمَدًا",
+   "okunus": "emedâ",
+   "kok": "أمد",
+   "kokAnlam": "belirlenmiş süre, vade",
+   "karsilik": "uzun bir süre"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayette Hz. Peygamber, kıyametin ne zaman geleceğini bilmediğini açıkça ilan eder. 'Emed' kökü uzun, belirlenmiş bir süreyi anlatır.",
+  "Ayetin mesajı, gaybe dair zaman bilgisinin yalnızca Allah'a ait olduğudur; bu, ilerleyen ayetlerde (26-28) açıkça vurgulanacak temanın bir ön habercisidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:187",
+   "meal": "Sana kıyametin ne zaman kopacağını soruyorlar. De ki: Onun bilgisi ancak Rabbimin katındadır.",
+   "baglanti": "Kıyametin vaktinin sadece Allah katında olduğunu, 72:25'teki 'bilmiyorum' itirafıyla aynı şekilde belirtir."
+  },
+  {
+   "ref": "33:63",
+   "meal": "İnsanlar sana kıyametin vaktini soruyor. De ki: Onun bilgisi Allah katındadır.",
+   "baglanti": "Aynı ilkeyi tekrarlayarak, kıyamet vaktinin gaybe ait olduğunu pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu özeldir: kıyametin vaktinin bilinemezliğidir; bu, gaybe ait bir konudur.",
+  "Buradan çıkan genel ders, geleceğin belirsizliğini kabullenip elindeki zamanı iyi değerlendirmektir; 'ne zaman olacak' sorusuyla vakit kaybetmek yerine bugünkü sorumluluğa odaklanmak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugüne odaklan",
+   "aciklama": "Yarını merak etmek yerine, bugün elindeki sorumluluğa odaklan."
+  },
+  {
+   "baslik": "Zamanı boşa harcama",
+   "aciklama": "Dünya hayatının geçici olduğunu düşünerek bugün vaktini anlamlı bir işe ayır."
+  },
+  {
+   "baslik": "Belirsizliği kabullen",
+   "aciklama": "Bilmediğin bir sonucu tahmin etmeye çalışmak yerine, elindeki adıma odaklan."
+  }
+ ],
+ "bugununAdimi": "Bugün 'ne zaman olacak' diye beklemek yerine, elindeki bir sorumluluğa hemen başla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=72&verse=25"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/72/25"
+  }
+ ]
+}

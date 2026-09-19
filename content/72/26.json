@@ -1,0 +1,103 @@
+{
+ "sure": 72,
+ "ayet": 26,
+ "durum": "taslak",
+ "meal": "(O,) gaybı bilendir; kendi gaybını hiç kimseye açmaz.",
+ "mealNotu": "'Gayb' kökü görünmeyen, bilinmeyeni anlatır; 'zuhur' kökü açığa çıkmayı/bildirmeyi ifade eder.",
+ "kokler": [
+  {
+   "kelime": "عَٰلِمُ",
+   "okunus": "âlimü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilendir"
+  },
+  {
+   "kelime": "ٱلْغَيْبِ",
+   "okunus": "elgaybi",
+   "kok": "غيب",
+   "kokAnlam": "görünmeyen, bilinmeyen",
+   "karsilik": "gaybı"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "hiç ... maz"
+  },
+  {
+   "kelime": "يُظْهِرُ",
+   "okunus": "yüzhiru",
+   "kok": "ظهر",
+   "kokAnlam": "açığa çıkma, görünme",
+   "karsilik": "açığa çıkarmaz"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(yön) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "غَيْبِهِۦٓ",
+   "okunus": "gaybihî",
+   "kok": "غيب",
+   "kokAnlam": "görünmeyen, bilinmeyen",
+   "karsilik": "kendi gaybını"
+  },
+  {
+   "kelime": "أَحَدًا",
+   "okunus": "ehaden",
+   "kok": "أحد",
+   "kokAnlam": "bir, tek, herhangi biri",
+   "karsilik": "hiç kimseye"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Allah'ın gaybı bilen olduğunu ve bu bilgiyi kimseyle paylaşmadığını bildirir. 'Gayb' kökü, insan ve cin bilgisinin ulaşamadığı, görünmeyen alanı anlatır.",
+  "Ayetin mesajı açıktır: gayb bilgisi tamamen Allah'a mahsustur. Bu ilke, kimsenin -falcı, kâhin ya da medyum dahil- gaybı bilme iddiasının gerçeği yansıtmadığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "27:65",
+   "meal": "De ki: Göklerde ve yerde Allah'tan başka kimse gaybı bilmez.",
+   "baglanti": "72:26'daki 'gaybı bilendir' ilkesini en net şekilde tekrarlayan bir ayettir."
+  },
+  {
+   "ref": "6:59",
+   "meal": "Gaybın anahtarları O'nun katındadır, onları O'ndan başkası bilmez.",
+   "baglanti": "Gaybe dair bilginin tamamen Allah'a ait olduğunu, 'anahtar' benzetmesiyle pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, gaybın yalnız Allah'a ait olmasıdır.",
+  "Buradan çıkan ders, fal, medyumluk, kehanet gibi gaybı bilme iddialarının asılsız olduğudur; insan, geleceğe dair belirsizliği kabullenip merakını bu tür yollarla gidermeye çalışmamalı, Allah'a güvenmelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gaybı yalnız Allah'a bırak",
+   "aciklama": "Bugün geleceğe dair bir merakını fala, yıldıza ya da medyuma değil, Allah'a duaya yönelt."
+  },
+  {
+   "baslik": "Belirsizliğe tevekkülle bak",
+   "aciklama": "Bilmediğin bir sonucu merak ettiğinde, endişelenmek yerine elindeki adımı at, gerisini Allah'a bırak."
+  },
+  {
+   "baslik": "Asılsız iddiaya kapılma",
+   "aciklama": "Gaybı bildiğini iddia eden bir söz duyduğunda, bunun gerçeği yansıtmadığını hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün geleceğe dair bir merakını, fal ya da benzeri bir yol yerine duayla Allah'a bırak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=72&verse=26"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/72/26"
+  }
+ ]
+}

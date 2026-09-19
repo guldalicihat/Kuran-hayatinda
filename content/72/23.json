@@ -1,0 +1,166 @@
+{
+ "sure": 72,
+ "ayet": 23,
+ "durum": "taslak",
+ "meal": "Ancak Allah'tan gelen bir tebliğ ve O'nun mesajlarını (ulaştırabilirim). Kim Allah'a ve Resûlüne isyan ederse, ona cehennem ateşi vardır; orada sonsuza dek kalıcıdırlar.",
+ "mealNotu": "'Belağ' kökü ulaştırma/tebliği, 'risalat' kökü mesajları anlatır; ayetin ilk kısmı önceki ayetle (22) bağlantılı bir istisna cümlesidir.",
+ "kokler": [
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna (ancak)",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "بَلَٰغًا",
+   "okunus": "belâğan",
+   "kok": "بلغ",
+   "kokAnlam": "ulaştırma, tebliğ etme",
+   "karsilik": "bir tebliğ"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(başlangıç) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَرِسَٰلَٰتِهِۦ",
+   "okunus": "ve risâlâtihî",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, mesaj/elçilik",
+   "karsilik": "ve O'nun mesajlarını"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "şart edatı (kim)",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "يَعْصِ",
+   "okunus": "ya'sı",
+   "kok": "عصي",
+   "kokAnlam": "isyan etme, karşı gelme",
+   "karsilik": "isyan ederse"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah; Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَرَسُولَهُۥ",
+   "okunus": "ve rasûlehû",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, mesaj/elçilik",
+   "karsilik": "ve Resûlüne"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) artık gerçekten",
+   "karsilik": "artık"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona",
+   "karsilik": "ona vardır"
+  },
+  {
+   "kelime": "نَارَ",
+   "okunus": "nâra",
+   "kok": "نور",
+   "kokAnlam": "ateş, aydınlık",
+   "karsilik": "ateşi"
+  },
+  {
+   "kelime": "جَهَنَّمَ",
+   "okunus": "cehenneme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) cehennem",
+   "karsilik": "cehennem"
+  },
+  {
+   "kelime": "خَٰلِدِينَ",
+   "okunus": "hâlidîne",
+   "kok": "خلد",
+   "kokAnlam": "süreklilik, kalıcılık",
+   "karsilik": "kalıcı olarak"
+  },
+  {
+   "kelime": "فِيهَآ",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(yer) onda",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "أَبَدًا",
+   "okunus": "ebedâ",
+   "kok": "أبد",
+   "kokAnlam": "süreklilik, sonsuzluk",
+   "karsilik": "sonsuza dek"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 21-22. ayetlerin devamıdır: Hz. Peygamber'in görevinin sadece Allah'tan gelen mesajı ulaştırmak (tebliğ) olduğu, kendi başına bir zarar-fayda gücüne sahip olmadığı belirtildikten sonra, bu tebliğe isyan edenin akıbeti bildirilir.",
+  "Ayetin mesajı, görev ile sorumluluğun ayrımıdır: Peygamberin görevi sınırlıdır (tebliğ), ama mesajı kabul etmek ya da etmemek kişinin kendi tercihidir ve bir sonucu vardır. Bu sonuç, Kur'an'ın kendi ifadesiyle aktarılır, ayrıntısına girilmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:92",
+   "meal": "Bilin ki Resûlümüzün görevi sadece apaçık bir tebliğdir.",
+   "baglanti": "Peygamberin görevinin sadece tebliğden ibaret olduğunu, 72:23'teki 'ancak bir tebliğ' ifadesiyle aynı şekilde belirtir."
+  },
+  {
+   "ref": "4:14",
+   "meal": "Kim Allah'a ve Resûlüne isyan eder, O'nun sınırlarını aşarsa, onu içinde ebedi kalacağı bir ateşe sokar.",
+   "baglanti": "Neredeyse aynı ifadeyle, Allah'a ve Resûlüne isyanın sonucunu 72:23 ile aynı şekilde anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, tebliğ görevi ile isyanın ahiretteki sonucudur; bu, Kur'an'ın kendi bildirdiği bir ahiret hükmüdür.",
+  "Buradan çıkan genel ders, bir sözü/mesajı ilettikten sonra sonucun kişinin kendi tercihine bağlı olduğudur; bu ilke günlük hayatta da -örneğin öğüt verirken- hatırlanabilir: görev iletmek, sonuç Allah'a aittir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Öğüdünü ilet, sonucu bırak",
+   "aciklama": "Bugün birine iyi bir öğüt verdiğinde, kabul edip etmemesini ona ve Allah'a bırak, ısrarcı olma."
+  },
+  {
+   "baslik": "Görevini eksiksiz yap",
+   "aciklama": "Sana düşen bir sorumluluğu (bir bilgiyi iletmek gibi) bugün eksiksiz yerine getir."
+  },
+  {
+   "baslik": "Sonucu sahiplenme",
+   "aciklama": "Başkasının kararının sonucunu kendi üzerine almak yerine, kendi görevini yaptığını bilerek rahatla."
+  }
+ ],
+ "bugununAdimi": "Bugün iletmen gereken bir sözü ya da bilgiyi eksiksiz ilet, sonucunu zorlamadan bırak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=72&verse=23"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/72/23"
+  }
+ ]
+}

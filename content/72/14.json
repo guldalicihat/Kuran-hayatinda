@@ -1,0 +1,124 @@
+{
+ "sure": 72,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "'Doğrusu içimizde müslüman olanlar da var, haktan sapanlar da. Kim müslüman olursa, işte onlar doğru yolu araştırıp bulmuşlardır.'",
+ "mealNotu": "'Kasit' kökü (قسط) haktan sapmayı, haksızlığa yönelmeyi anlatır (aynı kökten 'muksit' ise adil demektir); 'teharri' kökü araştırıp bularak elde etmeyi ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَأَنَّا",
+   "okunus": "ve ennâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ve gerçekten biz",
+   "karsilik": "doğrusu"
+  },
+  {
+   "kelime": "مِنَّا",
+   "okunus": "minnâ",
+   "kok": "—",
+   "kokAnlam": "(başlangıç) bizden",
+   "karsilik": "içimizde"
+  },
+  {
+   "kelime": "ٱلْمُسْلِمُونَ",
+   "okunus": "elmüslimûne",
+   "kok": "سلم",
+   "kokAnlam": "teslim olma, esenlik",
+   "karsilik": "müslüman olanlar"
+  },
+  {
+   "kelime": "وَمِنَّا",
+   "okunus": "ve minnâ",
+   "kok": "—",
+   "kokAnlam": "(başlangıç) ve bizden",
+   "karsilik": "ve içimizde"
+  },
+  {
+   "kelime": "ٱلْقَٰسِطُونَ",
+   "okunus": "elkâsitûne",
+   "kok": "قسط",
+   "kokAnlam": "haktan sapma, adaletsizlik",
+   "karsilik": "haktan sapanlar"
+  },
+  {
+   "kelime": "فَمَنْ",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "şart edatı (kim)",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "أَسْلَمَ",
+   "okunus": "esleme",
+   "kok": "سلم",
+   "kokAnlam": "teslim olma, esenlik",
+   "karsilik": "müslüman olursa"
+  },
+  {
+   "kelime": "فَأُو۟لَٰٓئِكَ",
+   "okunus": "feülâike",
+   "kok": "—",
+   "kokAnlam": "işaret (işte onlar)",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "تَحَرَّوْا۟",
+   "okunus": "teharrav",
+   "kok": "حري",
+   "kokAnlam": "araştırıp bularak elde etme",
+   "karsilik": "araştırıp bulmuşlardır"
+  },
+  {
+   "kelime": "رَشَدًا",
+   "okunus": "raşeden",
+   "kok": "رشد",
+   "kokAnlam": "doğru yol, olgunluk",
+   "karsilik": "doğru yolu"
+  }
+ ],
+ "neAnlatiyor": [
+  "Cinler, kendi içlerinde de -tıpkı 11. ayette söyledikleri gibi- müslüman olanlar (teslim olanlar) ile haktan sapanlar bulunduğunu tekrar dile getiriyorlar, ama bu kez teslimiyetin sonucuna vurgu yapıyorlar. 'Kasit' kökü haktan sapmayı, 'teharri' kökü ise arayıp bularak elde etmeyi anlatır.",
+  "Ayetin mesajı, hidayetin edilgen bir şey olmadığıdır: müslüman olan, yani teslim olan kimse, doğru yolu araştırıp bulmuş sayılır. Teslimiyet, arayışın bir sonucudur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:69",
+   "meal": "Bizim uğrumuzda çaba gösterenlere, elbette yollarımızı gösteririz.",
+   "baglanti": "Doğru yolu bulmanın samimi bir arayış ve çabayla ilişkili olduğunu anlatarak 72:14'teki 'araştırıp bulma' ifadesini destekler."
+  },
+  {
+   "ref": "61:5",
+   "meal": "Onlar eğrildiler, Allah da kalplerini eğriltti.",
+   "baglanti": "Haktan sapmanın (kasit) sonucuna dikkat çekerek 72:14'teki ayrımın diğer tarafını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, teslimiyet ve doğru yolu arama çabasıdır.",
+  "Buradan çıkan ders, hidayetin pasif bir şekilde beklenecek bir şey olmadığı, kişinin doğruyu samimiyetle araştırması gerektiğidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğrusunu araştır",
+   "aciklama": "Bugün emin olmadığın bir konuda doğrusunu samimiyetle araştır, kolay cevaba razı olma."
+  },
+  {
+   "baslik": "Teslimiyetini göster",
+   "aciklama": "Bir konuda doğrunun ne olduğunu öğrendiğinde, ona göre davranarak teslimiyetini göster."
+  },
+  {
+   "baslik": "Arayışını sürdür",
+   "aciklama": "Dini bilgini artıracak küçük bir adım at, örneğin bir ayetin tefsirini oku."
+  }
+ ],
+ "bugununAdimi": "Bugün emin olmadığın bir konuda doğrusunu bulmak için araştırma yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=72&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/72/14"
+  }
+ ]
+}
