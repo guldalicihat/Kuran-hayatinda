@@ -1,0 +1,173 @@
+{
+ "sure": 35,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Allah, rüzgârları gönderendir; böylece [rüzgâr] bir bulutu kaldırır, biz de onu ölü bir beldeye sürer, onunla yeri ölümünden sonra diriltiriz. İşte yeniden diriliş de böyledir.",
+ "mealNotu": "'[rüzgâr]' özne belirtmek için köşeli parantezle eklendi; fiil ayette rüzgâra atıfla 'tüsîru' (kaldırır) olarak gelir. Anlatım Allah'ın tekil 'ersele'sinden çoğul 'biz' diline geçer; bu ayetin kendi üslup değişikliğidir, meal aynen korudu.",
+ "kokler": [
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلَّذِىٓ",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) o ki",
+   "karsilik": "O ki"
+  },
+  {
+   "kelime": "أَرْسَلَ",
+   "okunus": "ersele",
+   "kok": "رسل",
+   "kokAnlam": "gönderme",
+   "karsilik": "gönderdi"
+  },
+  {
+   "kelime": "ٱلرِّيَٰحَ",
+   "okunus": "erriyâha",
+   "kok": "روح",
+   "kokAnlam": "esinti, ruh; rüzgar",
+   "karsilik": "rüzgârları"
+  },
+  {
+   "kelime": "فَتُثِيرُ",
+   "okunus": "fetüsîru",
+   "kok": "ثور",
+   "kokAnlam": "harekete geçirme, kaldırma",
+   "karsilik": "böylece kaldırır"
+  },
+  {
+   "kelime": "سَحَابًا",
+   "okunus": "sehâben",
+   "kok": "سحب",
+   "kokAnlam": "sürükleme; bulut",
+   "karsilik": "bir bulutu"
+  },
+  {
+   "kelime": "فَسُقْنَٰهُ",
+   "okunus": "fesüknâhü",
+   "kok": "سوق",
+   "kokAnlam": "sürme, sevk etme",
+   "karsilik": "biz de onu sürdük"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "بَلَدٍ",
+   "okunus": "beledin",
+   "kok": "بلد",
+   "kokAnlam": "belde, ülke",
+   "karsilik": "bir beldeye"
+  },
+  {
+   "kelime": "مَّيِّتٍ",
+   "okunus": "meyyitin",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölü"
+  },
+  {
+   "kelime": "فَأَحْيَيْنَا",
+   "okunus": "feahyeynâ",
+   "kok": "حيي",
+   "kokAnlam": "diri olma, canlanma",
+   "karsilik": "böylece dirilttik"
+  },
+  {
+   "kelime": "بِهِ",
+   "okunus": "bihi",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "ٱلْأَرْضَ",
+   "okunus": "el'erda",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yeri"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مَوْتِهَا",
+   "okunus": "mevtihâ",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölümünden"
+  },
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böyledir",
+   "karsilik": "işte böyledir"
+  },
+  {
+   "kelime": "ٱلنُّشُورُ",
+   "okunus": "ennüşûru",
+   "kok": "نشر",
+   "kokAnlam": "yayılma, dirilip kalkma",
+   "karsilik": "yeniden diriliş"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, rüzgârların bulutları sürükleyip ölü bir toprağa taşımasını ve orada yağmurla toprağın dirilmesini anlatır. Bu doğa olayı somut ve gözlemlenebilir bir örnektir.",
+  "Ayetin sonu bu örneği doğrudan bir kıyasa bağlar: 'İşte yeniden diriliş de böyledir.' Ölü toprağın canlanması, öldükten sonra dirilişin (nüşûr) bir kıyası olarak sunulur; ayet burada kıyasın kendisini yapar, ek bir açıklama gerektirmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:57",
+   "meal": "O, rüzgârları rahmetinin önünden müjdeci olarak gönderendir; nihayet ağır bulutları yüklenince, onu ölü bir beldeye sürer, onunla su indirir, o suyla her türlü meyveyi çıkarırız. İşte ölüleri de böyle çıkarırız.",
+   "baglanti": "35:9 ile neredeyse aynı kelime ve yapıyı (rüzgâr, bulut, ölü belde) paylaşır; sonucu 'ölüleri çıkarma' olarak açıkça diriliş diliyle bağlar."
+  },
+  {
+   "ref": "30:50",
+   "meal": "Allah'ın rahmetinin eserlerine bak: yeri ölümünden sonra nasıl diriltiyor. Şüphesiz O, ölüleri de mutlaka diriltecektir.",
+   "baglanti": "35:9'daki 'yeri ölümünden sonra diriltme' ifadesiyle aynı kalıbı taşır ve bunu doğrudan öldükten sonra dirilişe bağlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğa üzerinden verilen bir diriliş delilidir; rüzgâr, bulut, yağmur ve ölü toprağın canlanması gözle görülen bir döngüdür.",
+  "Günlük hayata taşınabilecek ders, göz önünde olan ama üzerinde durup düşünmediğimiz doğa olaylarını bir işaret olarak görmektir; 'nasıl olsa hep böyle olur' demek yerine bunun bir kudret göstergesi olduğunu hatırlamak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğadaki bir işareti fark et",
+   "aciklama": "Bugün gökyüzünü veya bir bitkiyi görünce, bunun arkasındaki düzeni bir an düşün."
+  },
+  {
+   "baslik": "Dirilişi hatırla",
+   "aciklama": "Ölü toprağın yeşermesi gibi, senin de bir gün diriltileceğini unutma."
+  },
+  {
+   "baslik": "Umudunu yeşert",
+   "aciklama": "Zor bir dönemdeysen, ölü toprağın bile dirildiğini hatırlayıp umudunu tazele."
+  }
+ ],
+ "bugununAdimi": "Bugün dışarıda bir bitki veya toprak parçasına bakıp kısa bir dua et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/35/9"
+  }
+ ]
+}

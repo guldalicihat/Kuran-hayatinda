@@ -1,0 +1,131 @@
+{
+ "sure": 35,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Eğer seni yalanlıyorlarsa, [bil ki] senden önceki elçiler de gerçekten yalanlanmıştı. Bütün işler Allah'a döndürülür.",
+ "mealNotu": "'[bil ki]' akışı Türkçede netleştirmek için köşeli parantezle eklendi, ayette doğrudan yok. 'Türceu' edilgen fiili 'döndürülür' olarak korundu.",
+ "kokler": [
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يُكَذِّبُوكَ",
+   "okunus": "yükezzibûke",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "seni yalanlıyorlarsa"
+  },
+  {
+   "kelime": "فَقَدْ",
+   "okunus": "fekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "كُذِّبَتْ",
+   "okunus": "küzzibet",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanlanmıştı"
+  },
+  {
+   "kelime": "رُسُلٌ",
+   "okunus": "rusülün",
+   "kok": "رسل",
+   "kokAnlam": "gönderilme, elçilik",
+   "karsilik": "elçiler"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِكَ",
+   "okunus": "kablike",
+   "kok": "قبل",
+   "kokAnlam": "önce, öncelik",
+   "karsilik": "senden önceki"
+  },
+  {
+   "kelime": "وَإِلَى",
+   "okunus": "ve ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ve -e",
+   "karsilik": "ve -e"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "تُرْجَعُ",
+   "okunus": "türceu",
+   "kok": "رجع",
+   "kokAnlam": "dönme, geri gelme",
+   "karsilik": "döndürülür"
+  },
+  {
+   "kelime": "ٱلْأُمُورُ",
+   "okunus": "el'ümûru",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir",
+   "karsilik": "bütün işler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet tevhid delillerini hatırlatmıştı; bu ayet Peygamber'e yalanlanma karşısında bir teselli sunar: yalanlanmak yeni bir şey değildir, önceki elçiler de aynı durumla karşılaşmıştır.",
+  "Ayet 'bütün işlerin Allah'a döndürüleceği' vurgusuyla biter; bu, yalanlayanların hesabının da nihayette Allah'a ait olduğunu, sonucun O'nun elinde bulunduğunu hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:34",
+   "meal": "Senden önceki elçiler de gerçekten yalanlanmıştı; yalanlanmalarına ve eziyet görmelerine sabrettiler, ta ki yardımımız onlara gelene kadar.",
+   "baglanti": "35:4'ün açılış cümlesiyle neredeyse birebir aynıdır; teselliyi sabır ve yardımın gelişiyle tamamlar."
+  },
+  {
+   "ref": "42:53",
+   "meal": "İyi bilin ki bütün işler sonunda Allah'a döner.",
+   "baglanti": "35:4'ün son cümlesiyle aynı ilkeyi taşır: her işin nihai dönüşü Allah'adır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan peygamberlik tarihidir: yalanlanma, elçilere özgü tekrar eden bir tecrübedir.",
+  "Günlük hayata taşınabilecek ders, doğru bildiğin bir şeyi yaptığında karşılaştığın haksız tepkilerin yalnızca sana özgü olmadığını bilmektir; sonucu kontrol edemesen de bunu Allah'a bırakmak rahatlatıcıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Haksız bir tepkiyi büyütme",
+   "aciklama": "Bugün seni yanlış anlayan biri olursa, hemen tepki vermeden bir nefes al."
+  },
+  {
+   "baslik": "Sonucu değil çabanı sahiplen",
+   "aciklama": "Elinden geleni yaptığın bir işte, nasıl karşılanacağını kontrol edemeyeceğini kabul et."
+  },
+  {
+   "baslik": "İşin sonucunu Allah'a bırak",
+   "aciklama": "Bugün canını sıkan bir meselede, hesabının da sonunda Allah'a döneceğini düşünüp içini rahatlat."
+  }
+ ],
+ "bugununAdimi": "Bugün seni üzen bir tepkiyi, sonucu Allah'a bırakarak bir kez daha düşün ve sakinleş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/35/4"
+  }
+ ]
+}

@@ -1,0 +1,250 @@
+{
+ "sure": 35,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "İki deniz bir olmaz: biri tatlı, susuzluk giderici, içimi kolaydır; diğeri tuzlu, acıdır. Yine de her birinden taze et yer, kuşanacağınız süs eşyası çıkarırsınız. Gemilerin de O'nun lütfundan aramanız için, suyu yara yara orada gittiğini görürsün. Umulur ki şükredersiniz.",
+ "mealNotu": "'el-Bahrâni' (iki deniz) tatlı-tuzlu su ayrımı için kullanılır; ayet ikisini de 'bahr' diye adlandırır, tatlı su için ayrı bir kelime tercih edilmedi çünkü kelimenin kendisi böyledir. 'Umulur ki' ifadesi 'lealle' edatının doğrudan karşılığıdır.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) hiç",
+   "karsilik": "hiç"
+  },
+  {
+   "kelime": "يَسْتَوِى",
+   "okunus": "yestevî",
+   "kok": "سوي",
+   "kokAnlam": "eşit olma, denk olma",
+   "karsilik": "eşit olmaz"
+  },
+  {
+   "kelime": "ٱلْبَحْرَانِ",
+   "okunus": "elbahrâni",
+   "kok": "بحر",
+   "kokAnlam": "deniz",
+   "karsilik": "iki deniz"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "عَذْبٌ",
+   "okunus": "azbün",
+   "kok": "عذب",
+   "kokAnlam": "tatlılık",
+   "karsilik": "tatlıdır"
+  },
+  {
+   "kelime": "فُرَاتٌ",
+   "okunus": "fürâtün",
+   "kok": "فرت",
+   "kokAnlam": "tatlı, susuzluğu giderici",
+   "karsilik": "susuzluk giderici"
+  },
+  {
+   "kelime": "سَآئِغٌ",
+   "okunus": "sâiğun",
+   "kok": "سوغ",
+   "kokAnlam": "içimi kolay olma",
+   "karsilik": "içimi kolay"
+  },
+  {
+   "kelime": "شَرَابُهُۥ",
+   "okunus": "şerâbühû",
+   "kok": "شرب",
+   "kokAnlam": "içme, içecek",
+   "karsilik": "içeceği"
+  },
+  {
+   "kelime": "وَهَٰذَا",
+   "okunus": "ve hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) ve bu",
+   "karsilik": "ve bu"
+  },
+  {
+   "kelime": "مِلْحٌ",
+   "okunus": "milhun",
+   "kok": "ملح",
+   "kokAnlam": "tuz",
+   "karsilik": "tuzludur"
+  },
+  {
+   "kelime": "أُجَاجٌ",
+   "okunus": "ücâcün",
+   "kok": "أجج",
+   "kokAnlam": "acılık, yakıcılık",
+   "karsilik": "acıdır"
+  },
+  {
+   "kelime": "وَمِن",
+   "okunus": "ve min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "ikisinden de"
+  },
+  {
+   "kelime": "كُلٍّ",
+   "okunus": "küllin",
+   "kok": "كلل",
+   "kokAnlam": "her, bütün",
+   "karsilik": "her birinden"
+  },
+  {
+   "kelime": "تَأْكُلُونَ",
+   "okunus": "te'külûne",
+   "kok": "أكل",
+   "kokAnlam": "yeme",
+   "karsilik": "yersiniz"
+  },
+  {
+   "kelime": "لَحْمًا",
+   "okunus": "lahmen",
+   "kok": "لحم",
+   "kokAnlam": "et",
+   "karsilik": "taze et"
+  },
+  {
+   "kelime": "طَرِيًّا",
+   "okunus": "tariyyen",
+   "kok": "طرو",
+   "kokAnlam": "tazelik",
+   "karsilik": "taze"
+  },
+  {
+   "kelime": "وَتَسْتَخْرِجُونَ",
+   "okunus": "ve testahricûne",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma, dışarı alma",
+   "karsilik": "ve çıkarırsınız"
+  },
+  {
+   "kelime": "حِلْيَةً",
+   "okunus": "hilyeten",
+   "kok": "حلي",
+   "kokAnlam": "süs, ziynet",
+   "karsilik": "süs eşyası"
+  },
+  {
+   "kelime": "تَلْبَسُونَهَا",
+   "okunus": "telbesûnehâ",
+   "kok": "لبس",
+   "kokAnlam": "giyme, kuşanma",
+   "karsilik": "onu kuşanırsınız"
+  },
+  {
+   "kelime": "وَتَرَى",
+   "okunus": "ve terâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "ve görürsün"
+  },
+  {
+   "kelime": "ٱلْفُلْكَ",
+   "okunus": "elfülke",
+   "kok": "فلك",
+   "kokAnlam": "gemi",
+   "karsilik": "gemilerin"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat) onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "مَوَاخِرَ",
+   "okunus": "mevâhıra",
+   "kok": "مخر",
+   "kokAnlam": "suyu yara yara gitme",
+   "karsilik": "suyu yararak gittiğini"
+  },
+  {
+   "kelime": "لِتَبْتَغُوا۟",
+   "okunus": "litebteğû",
+   "kok": "بغي",
+   "kokAnlam": "arama, isteme",
+   "karsilik": "aramanız için"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "فَضْلِهِۦ",
+   "okunus": "fadlihî",
+   "kok": "فضل",
+   "kokAnlam": "lütuf, fazlalık",
+   "karsilik": "O'nun lütfundan"
+  },
+  {
+   "kelime": "وَلَعَلَّكُمْ",
+   "okunus": "ve lealleküm",
+   "kok": "—",
+   "kokAnlam": "(tekid/umut) umulur ki",
+   "karsilik": "ve umulur ki"
+  },
+  {
+   "kelime": "تَشْكُرُونَ",
+   "okunus": "teşkürûne",
+   "kok": "شكر",
+   "kokAnlam": "şükretme",
+   "karsilik": "şükredersiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet iki tür suyu ('iki deniz') karşılaştırır: biri tatlı ve içilebilir, diğeri tuzlu ve acı. Bu fark açıkça vurgulanır; ancak devamında ikisinden de ortak nimetler (taze et, süs eşyası, gemi yolculuğu) çıkarıldığı belirtilir.",
+  "Ayet, farklı görünen iki şeyin bile Allah'ın lütfundan pay taşıyabileceğini gösterir. Sonda 'umulur ki şükredersiniz' ifadesiyle, bu nimetlerin fark edilip şükre vesile olması istenir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:53",
+   "meal": "İki denizi salıveren O'dur: biri tatlı, susuzluk giderici; diğeri tuzlu, acıdır. İkisinin arasına da bir engel ve aşılmaz bir sınır koymuştur.",
+   "baglanti": "35:12'nin ilk yarısıyla neredeyse aynı ifadeyi taşır; tatlı-tuzlu su ayrımına, ikisinin karışmaması detayını ekler."
+  },
+  {
+   "ref": "16:14",
+   "meal": "Denizi de sizin emrinize O verdi ki ondan taze et yiyesiniz ve kuşanacağınız süs eşyası çıkarasınız; gemilerin orada suyu yararak gittiğini görürsün; O'nun lütfundan aramanız ve şükretmeniz içindir.",
+   "baglanti": "35:12'nin ikinci yarısıyla neredeyse birebir aynı ifadeleri (et, süs eşyası, gemi, lütuf, şükür) taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğadaki farklı nimet kaynaklarıdır (tatlı su, tuzlu su) ve bunların hepsinden çıkan faydalardır.",
+  "Günlük hayata taşınabilecek ders, farklı görünen imkânların her birinin kendine göre bir değeri olabileceğini fark etmektir; sadece bir kaynağa değil, önündeki çeşitli imkânlara şükretmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Fark ettiğin bir nimeti say",
+   "aciklama": "Bugün içtiğin suyun tadını fark et ve kısaca şükret."
+  },
+  {
+   "baslik": "Farklı olanı küçümseme",
+   "aciklama": "Senden farklı bir imkâna veya duruma sahip birini bugün yargılamadan düşün."
+  },
+  {
+   "baslik": "Şükrü söze dök",
+   "aciklama": "Bugün yediğin bir yemek için, yemeden önce içinden bir teşekkür cümlesi kur."
+  }
+ ],
+ "bugununAdimi": "Bugün bir bardak su içerken, bu nimeti fark edip Allah'a şükret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/35/12"
+  }
+ ]
+}

@@ -1,0 +1,292 @@
+{
+ "sure": 35,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "Allah sizi topraktan, sonra bir damladan (nutfe) yarattı; sonra sizi eşler kıldı. Hiçbir dişi O'nun bilgisi olmadan hamile kalmaz, doğurmaz da. Bir ömür sahibine ömür verilmesi de, onun ömründen eksiltilmesi de ancak bir kitapta [yazılıdır]. Şüphesiz bu, Allah'a göre kolaydır.",
+ "mealNotu": "'[yazılıdır]' köşeli parantezle eklendi; 'fî kitâbin' (bir kitapta) ifadesinin fiili ayette geçmez, akış için tamamlandı. 'Yüammeru' ve 'yünkasu' edilgen fiilleri, ayetin kendi ifadesiyle 'ömür verilmez/eksiltilmez' olarak çevrildi; yorum eklenmedi.",
+ "kokler": [
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "خَلَقَكُم",
+   "okunus": "halekaküm",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "sizi yarattı"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "تُرَابٍ",
+   "okunus": "türâbin",
+   "kok": "ترب",
+   "kokAnlam": "toprak",
+   "karsilik": "topraktan"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "نُّطْفَةٍ",
+   "okunus": "nütfetin",
+   "kok": "نطف",
+   "kokAnlam": "damla, meni",
+   "karsilik": "bir damladan (nutfe)"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "جَعَلَكُمْ",
+   "okunus": "cealeküm",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "sizi kıldı"
+  },
+  {
+   "kelime": "أَزْوَٰجًا",
+   "okunus": "ezvâcen",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift",
+   "karsilik": "eşler"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) hiçbir",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "تَحْمِلُ",
+   "okunus": "tahmilü",
+   "kok": "حمل",
+   "kokAnlam": "taşıma, hamile olma",
+   "karsilik": "hamile kalmaz"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أُنثَىٰ",
+   "okunus": "ünsâ",
+   "kok": "أنث",
+   "kokAnlam": "dişi olma",
+   "karsilik": "dişi"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "تَضَعُ",
+   "okunus": "tedau",
+   "kok": "وضع",
+   "kokAnlam": "koyma, bırakma; doğurma",
+   "karsilik": "doğurur"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "بِعِلْمِهِۦ",
+   "okunus": "biilmihî",
+   "kok": "علم",
+   "kokAnlam": "bilgi",
+   "karsilik": "O'nun bilgisiyle"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) hiç",
+   "karsilik": "hiç"
+  },
+  {
+   "kelime": "يُعَمَّرُ",
+   "okunus": "yüammeru",
+   "kok": "عمر",
+   "kokAnlam": "ömür, yaşama",
+   "karsilik": "ömür verilmez"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "مُّعَمَّرٍ",
+   "okunus": "müammerin",
+   "kok": "عمر",
+   "kokAnlam": "ömür verilen",
+   "karsilik": "bir ömür sahibine"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "يُنقَصُ",
+   "okunus": "yünkasu",
+   "kok": "نقص",
+   "kokAnlam": "eksilme, azalma",
+   "karsilik": "eksiltilir"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "عُمُرِهِۦٓ",
+   "okunus": "umürihî",
+   "kok": "عمر",
+   "kokAnlam": "ömür",
+   "karsilik": "onun ömründen"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "كِتَٰبٍ",
+   "okunus": "kitâbin",
+   "kok": "كتب",
+   "kokAnlam": "yazı, kitap",
+   "karsilik": "bir kitapta"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e göre",
+   "karsilik": "-e göre"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَسِيرٌ",
+   "okunus": "yesîrun",
+   "kok": "يسر",
+   "kokAnlam": "kolaylık",
+   "karsilik": "kolaydır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet insanın yaratılış aşamalarını sayar: toprak, sonra bir damla (nutfe), sonra eşler haline gelme. Ardından hamilelik ve doğumun Allah'ın bilgisi dışında gerçekleşmediği vurgulanır.",
+  "Ayetin ikinci yarısı ömürle ilgilidir: bir kişinin uzun yaşaması da, ömründen eksilmesi de bir kitapta [yazılıdır]. Ayet bunun ne şekilde gerçekleştiğine dair ayrıntı vermez; yalnız bunun Allah katında bir kayıt meselesi olduğunu ve O'na göre kolay olduğunu söyler. Klasik tefsir bu kaydı Levh-i Mahfûz'a bağlı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "22:5",
+   "meal": "Ey insanlar, eğer yeniden dirilişten şüphedeyseniz, şüphesiz biz sizi topraktan, sonra bir damladan yarattık.",
+   "baglanti": "35:11'in açılışıyla neredeyse aynı ifadeyi taşır; yaratılış aşamalarını diriliş konusuyla bağlar."
+  },
+  {
+   "ref": "57:22",
+   "meal": "Yeryüzünde ve kendi nefislerinizde meydana gelen hiçbir musibet yoktur ki, biz onu yaratmadan önce bir kitapta olmasın. Şüphesiz bu, Allah'a göre kolaydır.",
+   "baglanti": "35:11'in son cümlesiyle ('inne zâlike alallâhi yesîr') birebir aynıdır; her şeyin bir kitapta yazılı olduğu ilkesini pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu yaratılış aşamaları ve ömrün Allah katında yazılı olmasıdır; bu kader konusuna girer, ayetin kendi ifadesiyle 'bir kitapta' olduğu söylenir, ayrıntıya girilmez.",
+  "Günlük hayata taşınabilecek ders, hayatının uzunluğunu veya kısalığını kontrol edemeyeceğini kabul etmek, ama elindeki zamanı iyi kullanmayı kendi sorumluluğun olarak görmektir; kaderi bahane edip çaba göstermemek yanlış anlaşılmış bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugünkü zamanını bilinçli kullan",
+   "aciklama": "Ömrünün ne kadar olduğunu bilmediğini hatırlayıp, bugünü boşa geçirmemeye çalış."
+  },
+  {
+   "baslik": "Bedenini bir emanet gibi gör",
+   "aciklama": "Sağlığına dikkat ederken, bunun sana verilmiş bir emanet olduğunu düşün."
+  },
+  {
+   "baslik": "Elinde olmayanı bırak, elindekine odaklan",
+   "aciklama": "Kontrol edemediğin şeyler için kaygılanmak yerine, bugün yapabileceğin işe odaklan."
+  }
+ ],
+ "bugununAdimi": "Bugün, zamanını nasıl geçirdiğini akşam kısaca gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/35/11"
+  }
+ ]
+}

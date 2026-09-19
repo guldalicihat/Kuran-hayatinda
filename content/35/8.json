@@ -1,0 +1,229 @@
+{
+ "sure": 35,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "Kötü ameli kendisine süslü gösterilip de onu güzel gören kimse mi [doğru yoldakiyle bir olur]? Şüphesiz Allah dilediğini saptırır, dilediğini hidayete erdirir. Öyleyse onlar için canın hasretlerle gitmesin. Şüphesiz Allah, onların yaptıklarını hakkıyla bilendir.",
+ "mealNotu": "Ayet 'efemen' ile başlayan bir soru cümlesidir; karşılaştırma unsuru (bir sonrakiyle bir mi olur) ayette açıkça yazılmadığından '[doğru yoldakiyle bir olur]' köşeli parantezle eklendi. 'Yüdıllü' ve 'yehdî' fiilleri ayetin kendi ifadesiyle, yorum eklenmeden çevrildi.",
+ "kokler": [
+  {
+   "kelime": "أَفَمَن",
+   "okunus": "efemen",
+   "kok": "—",
+   "kokAnlam": "(ilgi+soru) kimse mi",
+   "karsilik": "şu kimse mi"
+  },
+  {
+   "kelime": "زُيِّنَ",
+   "okunus": "züyyine",
+   "kok": "زين",
+   "kokAnlam": "süsleme",
+   "karsilik": "süslü gösterildi"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) kendisine",
+   "karsilik": "kendisine"
+  },
+  {
+   "kelime": "سُوٓءُ",
+   "okunus": "sûü",
+   "kok": "سوأ",
+   "kokAnlam": "kötülük",
+   "karsilik": "kötü olan"
+  },
+  {
+   "kelime": "عَمَلِهِۦ",
+   "okunus": "amelihî",
+   "kok": "عمل",
+   "kokAnlam": "yapma, iş",
+   "karsilik": "ameli"
+  },
+  {
+   "kelime": "فَرَءَاهُ",
+   "okunus": "feraâhü",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "de onu gördü"
+  },
+  {
+   "kelime": "حَسَنًا",
+   "okunus": "hasenen",
+   "kok": "حسن",
+   "kokAnlam": "güzellik, iyilik",
+   "karsilik": "güzel"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يُضِلُّ",
+   "okunus": "yüdıllü",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, yolunu kaybetme",
+   "karsilik": "saptırır"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseyi",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "dileme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "وَيَهْدِى",
+   "okunus": "ve yehdî",
+   "kok": "هدي",
+   "kokAnlam": "hidayet, doğru yolu gösterme",
+   "karsilik": "ve hidayete erdirir"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseyi",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "dileme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) sakın",
+   "karsilik": "sakın"
+  },
+  {
+   "kelime": "تَذْهَبْ",
+   "okunus": "tezheb",
+   "kok": "ذهب",
+   "kokAnlam": "gitme, yok olma",
+   "karsilik": "gitmesin"
+  },
+  {
+   "kelime": "نَفْسُكَ",
+   "okunus": "nefsüke",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "canın"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlar için",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "حَسَرَٰتٍ",
+   "okunus": "haserâtin",
+   "kok": "حسر",
+   "kokAnlam": "hasret, üzüntü, pişmanlık",
+   "karsilik": "hasretlerle"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلِيمٌۢ",
+   "okunus": "alîmüm",
+   "kok": "علم",
+   "kokAnlam": "bilgi",
+   "karsilik": "hakkıyla bilendir"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) şeyi",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "يَصْنَعُونَ",
+   "okunus": "yasneûne",
+   "kok": "صنع",
+   "kokAnlam": "yapma, sanat, işleme",
+   "karsilik": "yaptıklarını"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet iman-amel ile inkârın sonuçlarını karşılaştırmıştı; bu ayet kötü ameli kendisine güzel gösterilen, onu iyi sanan bir kişiyi örnek verir. Ayet burada kalbin nasıl yanılabileceğini, kötülüğün bazen 'güzel' görünebileceğini anlatır.",
+  "'Yüdıllü men yeşâü ve yehdî men yeşâü' ifadesi ayetin kendi cümlesidir; sapma ve hidayetin Allah'a nispet edilmesi konusunda tefsirler kulun seçimiyle ilişkisini tartışır, burada ayetin lafzı ötesine geçilmez. Ayet, Peygamber'e bu tür kişiler için üzülüp tükenmemesini söyleyerek biter; Allah'ın onların yaptıklarını bildiği vurgulanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "27:4",
+   "meal": "Ahirete inanmayanlara, işledikleri işleri süslü gösterdik de onlar körü körüne bocalayıp dururlar.",
+   "baglanti": "35:8'deki 'zeyyene' (süsleme) kökünü paylaşır; kötü işin kişiye güzel gösterilmesinin ahireti inkârla ilişkisini ekler."
+  },
+  {
+   "ref": "18:104",
+   "meal": "Dünya hayatındaki çabaları boşa gitmiş, kendilerini güzel iş yaptıklarını sanan kimselerdir.",
+   "baglanti": "35:8'deki 'sûe amelihî ... hasenen' (kötüyü güzel görme) temasını, çabası boşa giden kişi örneğiyle somutlaştırır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bir kişinin kötü amelini kendine güzel gösterip onu böyle görebilmesidir; bu manevi bir yanılma halidir, hukuki bir konu değildir.",
+  "Günlük hayata taşınabilecek ders, 'bana göre doğru' hissinin her zaman gerçekten doğru olmayabileceğini bilmektir; kendi değerlendirmeni ara sıra dışarıdan bir ölçüyle kontrol etmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "'Doğru geliyor' hissini kontrol et",
+   "aciklama": "Bugün bir kararını verirken, sadece içine doğduğu için değil, gerçekten doğru mu diye bir kez sorgula."
+  },
+  {
+   "baslik": "Yargılamak yerine hayır dile",
+   "aciklama": "Yanlış yaptığını düşündüğün birine öfkelenmek yerine, onun için hayır dile."
+  },
+  {
+   "baslik": "Akşam kendi amelini gözden geçir",
+   "aciklama": "Bugün yaptığın bir işin gerçekten iyi mi yoksa sadece sana öyle görünen bir şey mi olduğunu düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün verdiğin bir kararı, akşam bir kez daha dışarıdan bakar gibi gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/35/8"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sure": 35,
+ "ayet": 19,
+ "durum": "taslak",
+ "meal": "Kör ile gören bir olmaz.",
+ "mealNotu": "Kısa bir ayet, ekleme yapılmadan çevrildi.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) hiç",
+   "karsilik": "hiç"
+  },
+  {
+   "kelime": "يَسْتَوِى",
+   "okunus": "yestevî",
+   "kok": "سوي",
+   "kokAnlam": "eşit olma",
+   "karsilik": "eşit olmaz"
+  },
+  {
+   "kelime": "ٱلْأَعْمَىٰ",
+   "okunus": "el'a'mâ",
+   "kok": "عمي",
+   "kokAnlam": "körlük",
+   "karsilik": "kör"
+  },
+  {
+   "kelime": "وَٱلْبَصِيرُ",
+   "okunus": "vel besîru",
+   "kok": "بصر",
+   "kokAnlam": "görme, basiret",
+   "karsilik": "ve gören"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 18. ayetteki adalet ve sorumluluk anlatımından sonra bir dizi benzetmeye geçer. İlk benzetme kör ile göreni karşılaştırır; bu, hakikati görebilenle göremeyen arasındaki farkı somutlaştırır.",
+  "Klasik tefsir bu benzetmeyi genellikle iman ile inkâr, hakla batıl arasındaki farkı anlatmak için kullanılan bir örnek olarak açıklar; ayetin kendisi bu yorumu açıkça yazmaz, sadece kısa ve vurgulu bir karşılaştırma sunar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "13:16",
+   "meal": "De ki: Hiç kör ile gören bir olur mu? Yahut karanlıklarla aydınlık bir olur mu?",
+   "baglanti": "35:19-20'deki kör-gören ve karanlık-aydınlık benzetmelerinin ikisini birden aynı ayette taşır."
+  },
+  {
+   "ref": "6:50",
+   "meal": "De ki: Hiç kör ile gören bir olur mu? Hiç düşünmez misiniz?",
+   "baglanti": "35:19'daki karşılaştırmayı aynı kalıpla tekrarlar, düşünmeye çağırarak tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, hakikati görebilenle göremeyen arasındaki farkın büyüklüğüdür; bu, fiziksel körlükten çok manevi bir görüş farkına işaret eder.",
+  "Günlük hayata taşınabilecek ders, gördüğünü (doğruyu, uyarıyı, fırsatı) fark etmeye çalışmaktır; bir konuda 'görmezden gelmenin' bilerek kör olmaya benzediğini hatırlamak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Görmezden geldiğin bir gerçeği kabul et",
+   "aciklama": "Bugün fark ettiğin ama göz ardı ettiğin bir gerçeği kabul et."
+  },
+  {
+   "baslik": "Net görebilmek için dur ve düşün",
+   "aciklama": "Bir konuda hızlı karar vermeden önce, meseleye net bakabilmek için bir an dur."
+  },
+  {
+   "baslik": "Gördüğün bir iyiliği paylaş",
+   "aciklama": "Bugün fark ettiğin bir güzelliği birine anlat."
+  }
+ ],
+ "bugununAdimi": "Bugün göz ardı ettiğin bir gerçeği yazıp, onunla nasıl yüzleşeceğini düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=19"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/35/19"
+  }
+ ]
+}

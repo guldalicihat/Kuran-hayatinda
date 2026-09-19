@@ -1,0 +1,297 @@
+{
+ "sure": 35,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "Hiçbir günahkâr başkasının günah yükünü taşımaz. Yükü ağır [bir kimse], kendi yükünü [taşımaya] çağırsa, yakınlığı olsa bile ondan hiçbir şey taşınmaz. Sen ancak Rablerinden görmedikleri halde içten korkan ve namazı dosdoğru kılanları uyarırsın. Kim arınırsa ancak kendi lehine arınır. Dönüş Allah'adır.",
+ "mealNotu": "'Müskaletün' (yükü ağır olan kişi) ve 'ted'u ... ilâ himlihâ' (kendi yükünü [taşımaya] çağırsa) ifadeleri, akışın Türkçede anlaşılması için köşeli parantezle tamamlandı; kelimelerin kendisine ekleme yapılmadı. Ayetin adalet ilkesi (herkesin kendi günahından sorumlu olması) doğrudan, yorum katılmadan çevrildi.",
+ "kokler": [
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) hiç",
+   "karsilik": "hiç"
+  },
+  {
+   "kelime": "تَزِرُ",
+   "okunus": "teziru",
+   "kok": "وزر",
+   "kokAnlam": "yük taşıma, günah yükü",
+   "karsilik": "yük taşımaz"
+  },
+  {
+   "kelime": "وَازِرَةٌ",
+   "okunus": "vâziratün",
+   "kok": "وزر",
+   "kokAnlam": "yük taşıyan",
+   "karsilik": "hiçbir günahkâr"
+  },
+  {
+   "kelime": "وِزْرَ",
+   "okunus": "vizra",
+   "kok": "وزر",
+   "kokAnlam": "günah yükü",
+   "karsilik": "günah yükünü"
+  },
+  {
+   "kelime": "أُخْرَىٰ",
+   "okunus": "ührâ",
+   "kok": "أخر",
+   "kokAnlam": "başka, diğer",
+   "karsilik": "başkasının"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَدْعُ",
+   "okunus": "ted'u",
+   "kok": "دعو",
+   "kokAnlam": "çağırma",
+   "karsilik": "çağırsa"
+  },
+  {
+   "kelime": "مُثْقَلَةٌ",
+   "okunus": "müskaletün",
+   "kok": "ثقل",
+   "kokAnlam": "ağırlık, yük",
+   "karsilik": "yükü ağır [bir kimse]"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "حِمْلِهَا",
+   "okunus": "himlihâ",
+   "kok": "حمل",
+   "kokAnlam": "taşıma, yük",
+   "karsilik": "kendi yükünü"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) hiç",
+   "karsilik": "hiç"
+  },
+  {
+   "kelime": "يُحْمَلْ",
+   "okunus": "yühmel",
+   "kok": "حمل",
+   "kokAnlam": "taşıma, yüklenme",
+   "karsilik": "taşınmaz"
+  },
+  {
+   "kelime": "مِنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "شَىْءٌ",
+   "okunus": "şey'ün",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "hiçbir şey"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) velev ki",
+   "karsilik": "velev ki"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olsa"
+  },
+  {
+   "kelime": "ذَا",
+   "okunus": "zâ",
+   "kok": "—",
+   "kokAnlam": "(sahip anlamında) sahibi",
+   "karsilik": "sahibi"
+  },
+  {
+   "kelime": "قُرْبَىٰٓ",
+   "okunus": "kurbâ",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık",
+   "karsilik": "yakınlığın"
+  },
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(tekid) ancak",
+   "karsilik": "sen ancak"
+  },
+  {
+   "kelime": "تُنذِرُ",
+   "okunus": "tünziru",
+   "kok": "نذر",
+   "kokAnlam": "uyarma",
+   "karsilik": "uyarırsın"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseleri",
+   "karsilik": "kimseleri"
+  },
+  {
+   "kelime": "يَخْشَوْنَ",
+   "okunus": "yahşevne",
+   "kok": "خشي",
+   "kokAnlam": "korkma, saygıyla çekinme",
+   "karsilik": "içten korkan"
+  },
+  {
+   "kelime": "رَبَّهُم",
+   "okunus": "rabbehüm",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, Rab",
+   "karsilik": "Rablerinden"
+  },
+  {
+   "kelime": "بِٱلْغَيْبِ",
+   "okunus": "bil gaybi",
+   "kok": "غيب",
+   "kokAnlam": "gayb, görünmeyen",
+   "karsilik": "görmedikleri halde"
+  },
+  {
+   "kelime": "وَأَقَامُوا۟",
+   "okunus": "ve ekâmû",
+   "kok": "قوم",
+   "kokAnlam": "ayakta tutma, ikame etme",
+   "karsilik": "ve dosdoğru kılan"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "namaz, dua",
+   "karsilik": "namazı"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "تَزَكَّىٰ",
+   "okunus": "tezekkâ",
+   "kok": "زكو",
+   "kokAnlam": "arınma, temizlenme",
+   "karsilik": "arınırsa"
+  },
+  {
+   "kelime": "فَإِنَّمَا",
+   "okunus": "feinnemâ",
+   "kok": "—",
+   "kokAnlam": "(tekid) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "يَتَزَكَّىٰ",
+   "okunus": "yetezekkâ",
+   "kok": "زكو",
+   "kokAnlam": "arınma",
+   "karsilik": "kendi için arınır"
+  },
+  {
+   "kelime": "لِنَفْسِهِۦ",
+   "okunus": "linefsihî",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "kendi lehine"
+  },
+  {
+   "kelime": "وَإِلَى",
+   "okunus": "ve ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ve -e",
+   "karsilik": "ve -e"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "ٱلْمَصِيرُ",
+   "okunus": "elmesîru",
+   "kok": "صير",
+   "kokAnlam": "dönüş, varış",
+   "karsilik": "dönüştür"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet çok önemli bir adalet ilkesini açıkça söyler: hiçbir günahkâr başkasının günah yükünü taşımaz. Yükü ağır olan biri, bu yükü paylaşması için bir yakınını çağırsa bile, o yakınlık ne kadar güçlü olursa olsun, ondan hiçbir şey taşınmaz.",
+  "Ayetin ikinci yarısı Peygamber'in görevini tanımlar: o ancak görmedikleri halde Rablerinden içten korkan ve namazı dosdoğru kılanları uyarır. Sonda arınmanın (tezekkî) faydasının kişinin kendisine ait olduğu, dönüşün de Allah'a olduğu vurgulanır; bu fikirler aynı bireysel sorumluluk ilkesi etrafında birleşir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:15",
+   "meal": "Hiçbir günahkâr başkasının günah yükünü taşımaz.",
+   "baglanti": "35:18'in ilk cümlesiyle birebir aynıdır; bu ilke Kur'an'da birden çok surede aynı lafızla tekrarlanır."
+  },
+  {
+   "ref": "6:164",
+   "meal": "Hiç kimse başkasının günahını yüklenmez.",
+   "baglanti": "Aynı adalet ilkesini, 'her nefsin kazandığı kendinedir' cümlesinin devamında tekrar eder."
+  },
+  {
+   "ref": "41:46",
+   "meal": "Kim salih amel işlerse kendi lehinedir, kim kötülük yaparsa kendi aleyhinedir.",
+   "baglanti": "35:18'deki 'kim arınırsa ancak kendi lehine arınır' ilkesiyle aynı mantığı, iyi ve kötü amel üzerinden genelleştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu çok belirgin bir adalet ilkesidir: kimse başkasının günahının sorumluluğunu taşımaz, en yakın biri bile bu yükü senin yerine alamaz.",
+  "Günlük hayata taşınabilecek ders, sorumluluğu başkasına yıkmamak veya başkasının hatasını üstüne almamaktır; herkesin kendi seçimlerinden sorumlu olduğunu bilerek hem kendi davranışına özen göstermek hem de başkasını yargılarken adil olmak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendi hatanı başkasına yükleme",
+   "aciklama": "Bugün bir hatanı fark ettiğinde, sorumluluğu üstlen, başkasını suçlama."
+  },
+  {
+   "baslik": "Taşıyamayacağın yükü kabullen",
+   "aciklama": "Sevdiğin birinin yanlış bir seçimini düzeltemiyorsan, bunun senin sorumluluğun olmadığını kabul et, ama onun için dua et."
+  },
+  {
+   "baslik": "İçten bir korkuyu taşı",
+   "aciklama": "Bugün kimse görmese de, Rabbinden içten korkarak doğru olanı yap."
+  }
+ ],
+ "bugununAdimi": "Bugün bir sorumluluğu üstlenip, onu başkasına yıkmadan tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/35/18"
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "sure": 35,
+ "ayet": 15,
+ "durum": "taslak",
+ "meal": "Ey insanlar! Siz Allah'a muhtaçsınız; Allah ise hiçbir şeye muhtaç değildir, övgüye layık olandır.",
+ "mealNotu": "'el-Ganiyy' kökü ihtiyaçsızlığı, zenginliği anlatır; 'hiçbir şeye muhtaç değildir' olarak açıldı çünkü Türkçede 'zengin' kelimesi tek başına bu anlamı tam karşılamaz.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلنَّاسُ",
+   "okunus": "ennâsü",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanlar"
+  },
+  {
+   "kelime": "أَنتُمُ",
+   "okunus": "entümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "ٱلْفُقَرَآءُ",
+   "okunus": "elfükarâü",
+   "kok": "فقر",
+   "kokAnlam": "fakirlik, muhtaçlık",
+   "karsilik": "muhtaçsınız"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "ٱلْغَنِىُّ",
+   "okunus": "elganiyyü",
+   "kok": "غني",
+   "kokAnlam": "zenginlik, ihtiyaçsızlık",
+   "karsilik": "hiçbir şeye muhtaç değildir"
+  },
+  {
+   "kelime": "ٱلْحَمِيدُ",
+   "okunus": "elhamîdü",
+   "kok": "حمد",
+   "kokAnlam": "övgü",
+   "karsilik": "övgüye layıktır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, insanla Allah arasındaki temel ilişkiyi net bir cümleyle özetler: insan muhtaçtır, Allah hiçbir şeye muhtaç değildir. Bu, sure boyunca anlatılan yaratma, rızık, hidayet gibi konuların özetlenmiş bir sonucudur.",
+  "'el-Hamîd' (övgüye layık) sıfatı, ayetin başındaki 'elhamdü lillâh' (1. ayet) ifadesiyle bir bütünlük oluşturur; hamdin gerçek sahibi, hiçbir şeye ihtiyacı olmayan Allah'tır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "47:38",
+   "meal": "Allah hiçbir şeye muhtaç değildir, siz ise muhtaçsınız.",
+   "baglanti": "35:15'teki cümleyle neredeyse birebir aynıdır, farklı bir surede aynı ilkeyi tekrarlar."
+  },
+  {
+   "ref": "14:8",
+   "meal": "Musa dedi ki: Siz ve yeryüzündekilerin hepsi nankörlük etseniz, şüphesiz Allah hiçbir şeye muhtaç değildir, övgüye layıktır.",
+   "baglanti": "35:15'teki 'el-ganiyy el-hamîd' ikilisini aynı şekilde bir arada kullanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu insanın Allah'a olan mutlak muhtaçlığıdır; bu genel bir tevhid ilkesidir.",
+  "Günlük hayata taşınabilecek ders, ne kadar güçlü veya bağımsız hissedersen hisset, temelde muhtaç olduğunu unutmamaktır; bu bilinç kibri değil alçakgönüllülüğü besler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ihtiyacını Allah'a söyle",
+   "aciklama": "Bugün kendine yetmediğini hissettiğin bir konuda, bunu içinden Allah'a aç."
+  },
+  {
+   "baslik": "Bağımsızlık hissine kapılma",
+   "aciklama": "Başarılı olduğun bir anda bile, sonunda Allah'a muhtaç olduğunu hatırla."
+  },
+  {
+   "baslik": "Muhtaç birine yardım et",
+   "aciklama": "Bugün senden yardım isteyen birine, kendi muhtaçlığını hatırlayarak elini uzat."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ihtiyacını, gururuna yenilmeden birinden veya Allah'tan açıkça iste.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=15"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/35/15"
+  }
+ ]
+}

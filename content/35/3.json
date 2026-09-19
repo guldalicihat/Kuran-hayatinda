@@ -1,0 +1,201 @@
+{
+ "sure": 35,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Ey insanlar! Allah'ın üzerinizdeki nimetini hatırlayın. Allah'tan başka sizi gökten ve yerden rızıklandıran bir yaratıcı var mı? O'ndan başka ilah yoktur. Öyleyse nasıl [haktan] döndürülüyorsunuz?",
+ "mealNotu": "'Tü'fekûne' kökü (أفك) bir şeyi ters çevirmeyi/saptırmayı anlatır; neden döndürüldükleri ayette belirtilmediği için '[haktan]' köşeli parantezle eklendi. 'Hâlik' ve 'yerzükuküm' ayrı ayrı, ekleme yapılmadan korundu.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلنَّاسُ",
+   "okunus": "ennâsü",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet",
+   "karsilik": "insanlar"
+  },
+  {
+   "kelime": "ٱذْكُرُوا۟",
+   "okunus": "uzkürû",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama",
+   "karsilik": "hatırlayın"
+  },
+  {
+   "kelime": "نِعْمَتَ",
+   "okunus": "ni'mete",
+   "kok": "نعم",
+   "kokAnlam": "nimet, iyilik",
+   "karsilik": "nimetini"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) üzerinize",
+   "karsilik": "üzerinizdeki"
+  },
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "(soru) var mı",
+   "karsilik": "var mı"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) hiç",
+   "karsilik": "hiç"
+  },
+  {
+   "kelime": "خَٰلِقٍ",
+   "okunus": "hâlikın",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yaratıcı"
+  },
+  {
+   "kelime": "غَيْرُ",
+   "okunus": "gayru",
+   "kok": "غير",
+   "kokAnlam": "başka, gayrı",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "يَرْزُقُكُم",
+   "okunus": "yerzükuküm",
+   "kok": "رزق",
+   "kokAnlam": "rızık verme",
+   "karsilik": "sizi rızıklandıran"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "gökten"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yerden"
+  },
+  {
+   "kelime": "لَآ",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "إِلَٰهَ",
+   "okunus": "ilâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "ilah"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "O'ndan"
+  },
+  {
+   "kelime": "فَأَنَّىٰ",
+   "okunus": "feennâ",
+   "kok": "—",
+   "kokAnlam": "(soru) nasıl, nereye",
+   "karsilik": "öyleyse nasıl"
+  },
+  {
+   "kelime": "تُؤْفَكُونَ",
+   "okunus": "tü'fekûne",
+   "kok": "أفك",
+   "kokAnlam": "çevirme, saptırma",
+   "karsilik": "döndürülüyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayet Allah'ın rahmetini tutacak veya açacak kimse olmadığını söylemişti; bu ayet insanlığa doğrudan seslenerek o nimeti hatırlamalarını ister. Ardından soru sorulur: gökten ve yerden rızık veren, Allah'tan başka bir yaratıcı var mı?",
+  "'Hâlik' (yaratıcı) ve rızık veren kavramları birlikte anılır; yaratma ve rızıklandırma tek elde toplanır. Ayet bu açık gerçeğe rağmen insanların nasıl döndürüldüğünü sorarak biter; bu soru bir şaşkınlık ve uyarı ifadesidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "34:24",
+   "meal": "De ki: Sizi göklerden ve yerden kim rızıklandırıyor? De ki: Allah.",
+   "baglanti": "35:3'teki soruyla aynı içeriği taşır: rızkın tek kaynağının Allah olduğunu, karşı tarafa bile kabul ettirilebilecek açıklıkta sorar."
+  },
+  {
+   "ref": "16:17",
+   "meal": "Hiç yaratan, yaratamayan gibi olur mu? Düşünmüyor musunuz?",
+   "baglanti": "'Hâlikın gayrullah' sorusuyla aynı temayı, yaratma-yaratamama karşıtlığı üzerinden pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu tevhiddir: rızık ve yaratmanın tek kaynağı Allah'tır, bu nimeti hatırlamak istenir.",
+  "Günlük hayata taşınabilecek ders, sahip olduğun her şeyin (yiyecek, hava, imkân) kaynağını unutmamaktır; bir öğün önce ya da günün başında kısa bir hatırlama alışkanlığı edinmek bu ayetten çıkarılabilecek somut bir uygulamadır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugünkü rızkını fark et",
+   "aciklama": "Yediğin ilk öğünde, önündekinin nereden geldiğini bir an düşün."
+  },
+  {
+   "baslik": "Otomatikleşen bir nimeti hatırla",
+   "aciklama": "Nefes almak, su içmek gibi fark etmeden yaptığın bir şeye bugün dikkat çek."
+  },
+  {
+   "baslik": "Kaynağı doğru bil",
+   "aciklama": "Bir ihtiyacın karşılandığında, teşekkürünü nihayetinde rızık verene de yönelt."
+  }
+ ],
+ "bugununAdimi": "Bugün bir öğün öncesi, önündeki rızkın kaynağını düşünüp içinden şükret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/35/3"
+  }
+ ]
+}

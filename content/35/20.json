@@ -1,0 +1,82 @@
+{
+ "sure": 35,
+ "ayet": 20,
+ "durum": "taslak",
+ "meal": "Ne karanlıklar ne de aydınlık [bir olur].",
+ "mealNotu": "'[bir olur]' bir önceki ayetteki 'yestevî' (eşit olmaz) fiili buraya da sirayet ettiği için köşeli parantezle eklendi; ayette fiil tekrar edilmez.",
+ "kokler": [
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "ٱلظُّلُمَٰتُ",
+   "okunus": "ezzulümâtü",
+   "kok": "ظلم",
+   "kokAnlam": "karanlık, zulüm",
+   "karsilik": "karanlıklar"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "ٱلنُّورُ",
+   "okunus": "ennûru",
+   "kok": "نور",
+   "kokAnlam": "ışık, nur",
+   "karsilik": "aydınlık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 19. ayetteki 'kör ile gören bir olmaz' benzetmesinin devamıdır; aynı yapı burada karanlık ile aydınlık üzerinden tekrarlanır.",
+  "Karanlık ve aydınlık benzetmesi, kör-gören benzetmesinden farklı bir açıdan aynı gerçeği vurgular: bir tarafta belirsizlik ve yol bulamama, diğer tarafta netlik ve doğru yön. Ayet burada da yalnız karşılaştırmayı sunar, ayrıntıya girmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "13:16",
+   "meal": "Yahut karanlıklarla aydınlık bir olur mu?",
+   "baglanti": "35:20'deki karanlık-aydınlık karşılaştırmasını, kör-gören örneğiyle birlikte aynı ayette taşır."
+  },
+  {
+   "ref": "6:1",
+   "meal": "Hamd, gökleri ve yeri yaratan, karanlıkları ve aydınlığı var eden Allah'a mahsustur.",
+   "baglanti": "'Zulümât' ve 'nûr' kelimelerini aynı şekilde bir arada kullanır; ikisinin de Allah'ın yaratması olduğunu hatırlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, önceki ayetle aynı ilkenin (hakikatle batılın bir olmaması) farklı bir örnekle tekrarıdır.",
+  "Günlük hayata taşınabilecek ders, belirsizlik ile netlik arasındaki farkı fark etmektir; bir konuda kafan karışıksa, aceleyle karar vermek yerine doğru bilgiye ve doğru kaynağa yönelmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Belirsiz bir konuda bilgi ara",
+   "aciklama": "Kafanın karıştığı bir meselede, bugün güvenilir bir kaynaktan bilgi al."
+  },
+  {
+   "baslik": "Karanlıkta kalan bir konuyu netleştir",
+   "aciklama": "Anlaşılmamış bir konuyu, bugün açıkça konuşarak netleştir."
+  },
+  {
+   "baslik": "Aydınlık tarafta kalmaya çalış",
+   "aciklama": "Bugün seni belirsizliğe çeken bir alışkanlıktan uzak dur."
+  }
+ ],
+ "bugununAdimi": "Bugün net olmayan bir konuyu araştırıp bir adım netleştir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=20"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/35/20"
+  }
+ ]
+}

@@ -1,0 +1,222 @@
+{
+ "sure": 35,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "Kim izzeti istiyorsa [bilsin ki] izzet tümüyle Allah'a aittir. Güzel söz O'na yükselir, salih ameli de yükseltir. Kötülüklerle tuzak kuranlara gelince, onlara şiddetli bir azap vardır; işte onların tuzağı boşa çıkar.",
+ "mealNotu": "'[bilsin ki]' cümlenin Türkçede akıcı bağlanması için köşeli parantezle eklendi. 'Yerfeuhû' fiilinin öznesi tartışmalıdır (amel mi kelamı yükseltir, yoksa Allah mı ameli yükseltir); ayetin lafzı korunarak 'onu yükseltir' şeklinde çevrildi, tercih zorlanmadı.",
+ "kokler": [
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "يُرِيدُ",
+   "okunus": "yürîdü",
+   "kok": "رود",
+   "kokAnlam": "isteme, arama",
+   "karsilik": "istiyor"
+  },
+  {
+   "kelime": "ٱلْعِزَّةُ",
+   "okunus": "el'izzete",
+   "kok": "عزز",
+   "kokAnlam": "güç, üstünlük, izzet",
+   "karsilik": "izzeti"
+  },
+  {
+   "kelime": "فَلِلَّهِ",
+   "okunus": "felillâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "bilsin ki Allah'a aittir"
+  },
+  {
+   "kelime": "ٱلْعِزَّةُ",
+   "okunus": "el'izzetü",
+   "kok": "عزز",
+   "kokAnlam": "güç, üstünlük, izzet",
+   "karsilik": "izzet"
+  },
+  {
+   "kelime": "جَمِيعًا",
+   "okunus": "cemîan",
+   "kok": "جمع",
+   "kokAnlam": "toplama, bütün",
+   "karsilik": "tümüyle"
+  },
+  {
+   "kelime": "إِلَيْهِ",
+   "okunus": "ileyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) O'na",
+   "karsilik": "O'na"
+  },
+  {
+   "kelime": "يَصْعَدُ",
+   "okunus": "yas'adü",
+   "kok": "صعد",
+   "kokAnlam": "yükselme, çıkma",
+   "karsilik": "yükselir"
+  },
+  {
+   "kelime": "ٱلْكَلِمُ",
+   "okunus": "elkelimü",
+   "kok": "كلم",
+   "kokAnlam": "söz, kelam",
+   "karsilik": "söz"
+  },
+  {
+   "kelime": "ٱلطَّيِّبُ",
+   "okunus": "ettayyibü",
+   "kok": "طيب",
+   "kokAnlam": "temizlik, güzellik",
+   "karsilik": "güzel"
+  },
+  {
+   "kelime": "وَٱلْعَمَلُ",
+   "okunus": "vel amelü",
+   "kok": "عمل",
+   "kokAnlam": "yapma, iş",
+   "karsilik": "ve amel"
+  },
+  {
+   "kelime": "ٱلصَّٰلِحُ",
+   "okunus": "essâlihu",
+   "kok": "صلح",
+   "kokAnlam": "iyi olma, düzelme",
+   "karsilik": "salih"
+  },
+  {
+   "kelime": "يَرْفَعُهُۥ",
+   "okunus": "yerfeuhû",
+   "kok": "رفع",
+   "kokAnlam": "yükseltme",
+   "karsilik": "onu yükseltir"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve kimseler",
+   "karsilik": "ve kimseler"
+  },
+  {
+   "kelime": "يَمْكُرُونَ",
+   "okunus": "yemkürûne",
+   "kok": "مكر",
+   "kokAnlam": "tuzak kurma, hile",
+   "karsilik": "tuzak kurarlar"
+  },
+  {
+   "kelime": "ٱلسَّيِّـَٔاتِ",
+   "okunus": "esseyyiâti",
+   "kok": "سوأ",
+   "kokAnlam": "kötülük",
+   "karsilik": "kötülüklerle"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "عَذَابٌ",
+   "okunus": "azâbün",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "bir azap"
+  },
+  {
+   "kelime": "شَدِيدٌ",
+   "okunus": "şedîdün",
+   "kok": "شدد",
+   "kokAnlam": "şiddet",
+   "karsilik": "şiddetli"
+  },
+  {
+   "kelime": "وَمَكْرُ",
+   "okunus": "ve mekru",
+   "kok": "مكر",
+   "kokAnlam": "tuzak, hile",
+   "karsilik": "ve tuzağı"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onların",
+   "karsilik": "işte onların"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "يَبُورُ",
+   "okunus": "yebûru",
+   "kok": "بور",
+   "kokAnlam": "boşa gitme, yok olma",
+   "karsilik": "boşa çıkar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, gerçek izzetin (güç, üstünlük) yalnız Allah'a ait olduğunu söyleyerek başlar; bunu isteyenler önce bunu bilmelidir. Ardından güzel söz ve salih amelin Allah'a doğru yükseldiği anlatılır.",
+  "Ayetin ikinci yarısı karşıt bir örnek verir: kötülüklerle tuzak kuranlar. Onlar için şiddetli azap vardır ve kurdukları tuzak sonunda boşa çıkar; 'yebûr' kökü kâr getirmeyen, batan bir işi de çağrıştırır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "63:8",
+   "meal": "İzzet Allah'a, Peygamberine ve müminlere aittir.",
+   "baglanti": "35:10'daki 'izzet tümüyle Allah'a aittir' ilkesini aynı kökle (عزز) tekrarlar."
+  },
+  {
+   "ref": "3:54",
+   "meal": "Onlar tuzak kurdular, Allah da tuzak kurdu (karşılık verdi); Allah tuzak kuranların en hayırlısıdır.",
+   "baglanti": "35:10'daki 'mekr' (tuzak) kökünü paylaşır; kötülükle tuzak kuranların sonunda Allah'ın karşılığıyla boşa çıkacağını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu gerçek üstünlüğün/gücün kaynağıdır: insanlar arası statü değil, Allah katındaki değer. Güzel söz ve iyi davranış bu değere işaret eder.",
+  "Günlük hayata taşınabilecek ders, saygınlık veya güç ararken bunu hile, dedikodu veya manipülasyonla değil, doğru söz ve iyi işle aramaktır; kısa vadede işe yarayan hileli yolların uzun vadede boşa çıkacağını bilmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Güzel bir söz söyle",
+   "aciklama": "Bugün birine, gösteriş için değil, gerçekten iyi niyetle güzel bir söz söyle."
+  },
+  {
+   "baslik": "Hileli bir kestirmeden vazgeç",
+   "aciklama": "Bir işte kolay ama dürüst olmayan bir yol seni cezbediyorsa, bugün ondan uzak dur."
+  },
+  {
+   "baslik": "Değerini nerede aradığını gözden geçir",
+   "aciklama": "Bugün, saygı görmek için başvurduğun yolun doğru olup olmadığını düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kişiye, karşılık beklemeden içten bir güzel söz söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/35/10"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sure": 35,
+ "ayet": 21,
+ "durum": "taslak",
+ "meal": "Ne gölge ne de kavurucu sıcak [bir olur].",
+ "mealNotu": "'[bir olur]' önceki ayetlerdeki 'yestevî' fiiline bağlı olarak köşeli parantezle eklendi.",
+ "kokler": [
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "ٱلظِّلُّ",
+   "okunus": "ezzıllü",
+   "kok": "ظلل",
+   "kokAnlam": "gölge",
+   "karsilik": "gölge"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "ٱلْحَرُورُ",
+   "okunus": "elharûru",
+   "kok": "حرر",
+   "kokAnlam": "sıcaklık, kavurucu sıcak",
+   "karsilik": "kavurucu sıcak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 19-20. ayetlerdeki benzetme dizisini gölge ile kavurucu sıcak üzerinden sürdürür. Bu, diziyi tamamlayan üçüncü örnektir.",
+  "Gölge dinlendirici, rahatlatıcı bir sığınağı; kavurucu sıcak ise yorucu, tüketici bir durumu temsil eder. Ayet dizisi (kör-gören, karanlık-aydınlık, gölge-sıcaklık) birlikte okunduğunda, hak ile batılın, iman ile inkârın sonuçlarındaki farkı somut duyusal örneklerle anlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:57",
+   "meal": "Onları koyu bir gölgeye sokarız.",
+   "baglanti": "35:21'deki 'zıll' (gölge) kökünü paylaşır; gölgenin cennet nimeti bağlamında rahatlatıcı bir imge olarak kullanıldığını gösterir."
+  },
+  {
+   "ref": "76:13",
+   "meal": "Orada koltuklara yaslanmış olarak ne yakıcı bir sıcak ne de dondurucu bir soğuk görürler.",
+   "baglanti": "35:21'deki gölge-sıcaklık karşıtlığıyla aynı temayı, cennet ehlinin aşırı sıcak ve soğuktan korunması üzerinden tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu yine hak ile batıl, huzur ile sıkıntı arasındaki farkın bir benzetmesidir.",
+  "Günlük hayata taşınabilecek ders, rahatlatıcı olanla yorucu/tüketici olan arasındaki farkı seçimlerinde de gözetmektir; hangi alışkanlığın seni dinlendirdiğini, hangisinin tükettiğini fark etmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Seni dinlendiren bir şeye zaman ayır",
+   "aciklama": "Bugün seni gerçekten dinlendiren bir aktiviteye kısa bir süre ayır."
+  },
+  {
+   "baslik": "Seni tüketen bir alışkanlığı fark et",
+   "aciklama": "Enerjini boşa harcayan bir alışkanlığını bugün fark edip azaltmayı dene."
+  },
+  {
+   "baslik": "Sıkıntıda sabret, huzurda şükret",
+   "aciklama": "Zor bir anında sabret, rahat bir anında şükret."
+  }
+ ],
+ "bugununAdimi": "Bugün seni yoran bir alışkanlığa bir kez 'dur' de.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=21"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/35/21"
+  }
+ ]
+}
