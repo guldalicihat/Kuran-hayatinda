@@ -1,0 +1,110 @@
+{
+ "sure": 54,
+ "ayet": 28,
+ "durum": "taslak",
+ "meal": "Onlara haber ver: Su aralarında paylaştırılmıştır; her içme sırasında (kimin sırasıysa) hazır bulunur.",
+ "mealNotu": "'Şirb' kökü su içme payını/nöbetini, 'muhtadar' kökü ise o sırada hazır bulunmayı anlatır; bu yüzden sadece 'su' değil 'su içme nöbeti' denmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَنَبِّئْهُمْ",
+   "okunus": "ve nebbi'hüm",
+   "kok": "نبأ",
+   "kokAnlam": "haber verme",
+   "karsilik": "haber ver (onlara)"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ki, gerçekten",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "ٱلْمَآءَ",
+   "okunus": "elmâe",
+   "kok": "موه",
+   "kokAnlam": "su",
+   "karsilik": "su"
+  },
+  {
+   "kelime": "قِسْمَةٌۢ",
+   "okunus": "kısmetüm",
+   "kok": "قسم",
+   "kokAnlam": "paylaştırma, pay",
+   "karsilik": "paylaştırılmıştır"
+  },
+  {
+   "kelime": "بَيْنَهُمْ",
+   "okunus": "beynehüm",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında",
+   "karsilik": "aralarında"
+  },
+  {
+   "kelime": "كُلُّ",
+   "okunus": "küllü",
+   "kok": "كلل",
+   "kokAnlam": "her, bütün",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شِرْبٍ",
+   "okunus": "şirbin",
+   "kok": "شرب",
+   "kokAnlam": "içme, içme payı/nöbeti",
+   "karsilik": "içme nöbetinde"
+  },
+  {
+   "kelime": "مُّحْتَضَرٌ",
+   "okunus": "mühtedarun",
+   "kok": "حضر",
+   "kokAnlam": "hazır bulunma",
+   "karsilik": "hazır bulunur"
+  }
+ ],
+ "neAnlatiyor": [
+  "Semud kavmine Salih peygamber gönderilmiş, onlardan istedikleri mucize olarak dişi bir deve çıkarılmıştı. Bu ayet, devenin ve halkın su kullanımını düzenler: su günler arasında paylaştırılır, sırası gelen o gün suyu kullanır.",
+  "'Şirb' ve 'muhtadar' kelimelerinin seçimi önemlidir; sadece suyun varlığı değil, kimin ne zaman hazır bulunacağı belirlenmiş bir düzen anlatılır. Bu, devenin de topluluğun da ortak kaynağı adil şekilde paylaştığı bir tertip kurulduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:155",
+   "meal": "Dedi ki: İşte bu bir dişi devedir; onun bir su içme hakkı var, sizin de belli bir günün su içme hakkı var.",
+   "baglanti": "Salih'in kavmine söylediği bu söz, 54:28'deki su paylaşımı düzenlemesinin aynı kıssadaki karşılığıdır."
+  },
+  {
+   "ref": "91:13",
+   "meal": "Allah'ın elçisi onlara: Allah'ın devesine ve onun su içme hakkına dokunmayın, dedi.",
+   "baglanti": "Su nöbetinin bir emirle korunduğunu, dokunulmaması gerektiğini gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ortak bir kaynağın (su) topluluk içinde adil biçimde paylaşımıdır; bu toplumsal bir düzenlemedir.",
+  "Günümüze taşınabilecek ders, ortak kaynakları (su, zaman, sıra) paylaşırken haksızlık etmemektir; kimse görmese de sırasını aşmamak bir adalet meselesidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sırana sadık kal",
+   "aciklama": "Ortak kullanılan bir şeyde (mutfak, araç, sıra) bugün tam payına düşenle yetin."
+  },
+  {
+   "baslik": "Paylaşımı önceden konuş",
+   "aciklama": "Ev veya işte ortak kullanılan bir kaynak varsa net bir düzen belirleyin."
+  },
+  {
+   "baslik": "Görülmesen de adil ol",
+   "aciklama": "Kimsenin bilmediği bir sırada bile hakkından fazlasını almamaya bugün özen göster."
+  }
+ ],
+ "bugununAdimi": "Bugün ortak kullandığın bir kaynakta (su, araç, zaman) tam payına düşenle yetin.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=28"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/28"
+  }
+ ]
+}

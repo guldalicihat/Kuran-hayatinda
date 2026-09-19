@@ -1,0 +1,82 @@
+{
+ "sure": 54,
+ "ayet": 30,
+ "durum": "taslak",
+ "meal": "Azabım ve uyarılarım nasıl oldu?",
+ "mealNotu": "Soru kökü 'keyfe' ile kurulan bu kısa ifade, hemen sonraki ayette anlatılan helakin öncesinde bir taahhüt cümlesidir; ekleme yapılmamıştır.",
+ "kokler": [
+  {
+   "kelime": "فَكَيْفَ",
+   "okunus": "fekeyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldu"
+  },
+  {
+   "kelime": "عَذَابِى",
+   "okunus": "azâbî",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "azabım"
+  },
+  {
+   "kelime": "وَنُذُرِ",
+   "okunus": "ve nüzüri",
+   "kok": "نذر",
+   "kokAnlam": "uyarma, uyarı",
+   "karsilik": "ve uyarılarım"
+  }
+ ],
+ "neAnlatiyor": [
+  "Semud'un deveyi kesmesinin hemen ardından gelen bu kısa soru, dinleyiciyi bir sonraki ayette anlatılacak cezaya hazırlar; geçmişte gerçekleşmiş bir sonucu vurgulayan retorik bir sorudur.",
+  "'Nüzür' kelimesi hem uyarma eylemini hem uyarıları kapsar; Semud'a önceden peygamber ve mucize aracılığıyla uyarı yapılmıştı, bu yüzden azap ansızın değil, reddedilen bir uyarının ardından gelmiştir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "54:31",
+   "meal": "Şüphesiz biz onların üzerine tek bir ses gönderdik; böylece ağıl yapımcısının kuru çalı çırpısı gibi oldular.",
+   "baglanti": "30. ayetteki sorunun cevabı, hemen bir sonraki ayette verilir."
+  },
+  {
+   "ref": "41:13",
+   "meal": "Eğer yüz çevirirlerse de ki: Sizi, Âd ve Semud'un çarpıldığı yıldırım gibi bir azapla uyardım.",
+   "baglanti": "Aynı Semud azabına başka bir surede yapılan doğrudan gönderme."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş bir toplumun kendisine yapılan uyarıyı önemsememesinin sonucudur.",
+  "Günlük hayata taşınabilecek ders, bir uyarıyı görmezden gelmenin bedelinin genelde uyarı anında değil sonrasında ortaya çıkmasıdır; bu yüzden uyarılara zamanında kulak vermek önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Aldığın bir uyarıyı gözden geçir",
+   "aciklama": "İş, sağlık veya ilişkide sana yapılan bir uyarıyı bir kenara atmadan bugün tekrar düşün."
+  },
+  {
+   "baslik": "Sonucu düşünerek karar ver",
+   "aciklama": "Bugün alacağın bir kararın olası sonucunu önceden değerlendir."
+  },
+  {
+   "baslik": "Ahiretin de bir hesap günü olduğunu unutma",
+   "aciklama": "Dünyada görmezden geldiğin bir uyarının karşılığının bir gün sorulacağını hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün, uzun süredir ertelediğin bir uyarıyı (sağlık, iş, ilişki) yeniden ele al ve bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=30"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/30"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "sure": 54,
+ "ayet": 36,
+ "durum": "taslak",
+ "meal": "Andolsun, [Lût] onları bizim yakalayışımıza karşı uyarmıştı da onlar uyarılar hakkında kuşkuyla tartıştılar.",
+ "mealNotu": "Fail açıkça belirtilmediği için '[Lût]' köşeli parantezle eklendi; bağlamdan bellidir. 'Batşe' kökü şiddetle yakalamayı, 'temârâ' kökü ise şüphe ile tartışmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَلَقَدْ",
+   "okunus": "ve lekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) andolsun",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "أَنذَرَهُم",
+   "okunus": "enzerahüm",
+   "kok": "نذر",
+   "kokAnlam": "uyarma",
+   "karsilik": "[Lût] onları uyarmıştı"
+  },
+  {
+   "kelime": "بَطْشَتَنَا",
+   "okunus": "batşetenâ",
+   "kok": "بطش",
+   "kokAnlam": "şiddetle yakalama, çarpma",
+   "karsilik": "bizim yakalayışımıza karşı"
+  },
+  {
+   "kelime": "فَتَمَارَوْا۟",
+   "okunus": "fetemârav",
+   "kok": "مري",
+   "kokAnlam": "şüphe ile tartışma, kuşkulanma",
+   "karsilik": "kuşkuyla tartıştılar"
+  },
+  {
+   "kelime": "بِٱلنُّذُرِ",
+   "okunus": "bin nüzüri",
+   "kok": "نذر",
+   "kokAnlam": "uyarı, uyarıcı",
+   "karsilik": "uyarılar hakkında"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Lût'un kavmini önceden açıkça uyardığını, ama onların bu uyarıyı ciddiye almayıp tartışmaya girdiğini anlatır. Bu, cezanın ansızın değil, reddedilen bir uyarının ardından geldiğini gösterir.",
+  "'Temârâ' kökü, kesin bir reddi değil, sürekli şüphe besleyip tartışmayı ifade eder; kavim net bir 'hayır' değil, sürekli erteleyen bir kuşkuculuk içindeydi."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:33",
+   "meal": "Elçilerimiz Lût'a gelince onların yüzünden üzüldü, göğsü daraldı.",
+   "baglanti": "Uyarının kavim tarafından kuşkuyla karşılanmasının, Lût'a verdiği sıkıntıyı gösterir."
+  },
+  {
+   "ref": "11:77",
+   "meal": "Elçilerimiz Lût'a gelince onların yüzünden üzüldü, göğsü daraldı ve 'Bu çetin bir gün' dedi.",
+   "baglanti": "Aynı sahnenin başka bir surede anlatılan, uyarının ciddiyetle karşılanmadığını gösteren hâli."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu bir uyarının kuşkuyla karşılanıp önemsenmemesidir.",
+  "Günümüze taşınabilecek ders, bazı insanların bir uyarıyı doğrudan reddetmediği, sürekli 'emin misin, abartıyor olabilirsin' diyerek erteleyebildiğidir; bu da sonuçta reddetmekle aynı yere varabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ertelemeyi fark et",
+   "aciklama": "Bir konuda sürekli 'sonra düşünürüm' dediğin bir uyarı varsa bugün ona gerçekten bak."
+  },
+  {
+   "baslik": "Kuşkuyu bahane etme",
+   "aciklama": "Bir tavsiyeyi 'emin değilim' diyerek sürekli geciktirip geciktirmediğini sorgula."
+  },
+  {
+   "baslik": "Net bir karar ver",
+   "aciklama": "Bugün asılı bıraktığın bir konuda kesin bir adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün, uzun süredir 'sonra bakarım' dediğin bir uyarıya kesin bir yanıt ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=36"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/36"
+  }
+ ]
+}

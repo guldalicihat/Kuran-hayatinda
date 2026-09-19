@@ -1,0 +1,110 @@
+{
+ "sure": 54,
+ "ayet": 31,
+ "durum": "taslak",
+ "meal": "Şüphesiz biz onların üzerine tek bir [korkunç] ses gönderdik; böylece ağıl yapımcısının kuru çalı çırpısı gibi oldular.",
+ "mealNotu": "'Sayha' kökü şiddetli, tek bir sesi anlatır; anlaşılırlık için '[korkunç]' parantez içinde eklendi. 'Heşîm' kuruyup ufalanan bitki artığını, 'muhtazır' ise hayvan ağılı yapan kişiyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّآ",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz biz",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "أَرْسَلْنَا",
+   "okunus": "erselnâ",
+   "kok": "رسل",
+   "kokAnlam": "gönderme",
+   "karsilik": "gönderdik"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "onların üzerine",
+   "karsilik": "onların üzerine"
+  },
+  {
+   "kelime": "صَيْحَةً",
+   "okunus": "sayhaten",
+   "kok": "صيح",
+   "kokAnlam": "haykırma, şiddetli ses",
+   "karsilik": "tek bir [korkunç] ses"
+  },
+  {
+   "kelime": "وَٰحِدَةً",
+   "okunus": "vâhideten",
+   "kok": "وحد",
+   "kokAnlam": "tek, bir",
+   "karsilik": "tek"
+  },
+  {
+   "kelime": "فَكَانُوا۟",
+   "okunus": "fekânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldular"
+  },
+  {
+   "kelime": "كَهَشِيمِ",
+   "okunus": "keheşîmi",
+   "kok": "هشم",
+   "kokAnlam": "ufalanmış kuru bitki, çalı çırpı",
+   "karsilik": "kuru çalı çırpısı gibi"
+  },
+  {
+   "kelime": "ٱلْمُحْتَظِرِ",
+   "okunus": "elmühtezıri",
+   "kok": "حظر",
+   "kokAnlam": "ağıl, çit yapma",
+   "karsilik": "ağıl yapımcısının"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Semud'a gelen cezanın nasıl gerçekleştiğini anlatır: tek bir şiddetli ses onları yok etmeye yetmiştir. Bu, önceki ayetteki 'azabım nasıl oldu' sorusunun cevabıdır.",
+  "Benzetme dikkat çekicidir: bir zamanlar canlı olan bir topluluk, aniden ağılda biriken kuru, ufalanmış çalı çırpı gibi tasvir edilir. Bu, ölümün ne kadar ani ve kesin geldiğini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "91:14",
+   "meal": "Onu yalanladılar ve deveyi kestiler; bu yüzden Rableri, günahları sebebiyle üzerlerine azabı çökertti ve orayı dümdüz etti.",
+   "baglanti": "Aynı azabın başka bir surede, cezanın kesinliği üzerinden anlatılan hâli."
+  },
+  {
+   "ref": "69:5",
+   "meal": "Semud ise şiddetli bir sesle helak edildi.",
+   "baglanti": "Semud'un helakinin tek bir sesle gerçekleştiğini doğrudan doğrulayan başka bir ayet."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu geçmişte yaşanmış bir toplumsal helaktir.",
+  "Günümüze taşınabilecek ders, büyük bir sonucun her zaman uzun bir süreçle gelmesi gerekmediğidir; bazen tek bir an her şeyi değiştirir, bu da tedbiri ertelememe gerekliliğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Anlık bir riski küçümseme",
+   "aciklama": "'Bana bir şey olmaz' dediğin bir alışkanlığı bugün gözden geçir."
+  },
+  {
+   "baslik": "Hazırlıksız yakalanma",
+   "aciklama": "Önemli bir konuda (sağlık, güvenlik) alman gereken basit bir önlemi bugün al."
+  },
+  {
+   "baslik": "Dünyanın geçiciliğini hatırla",
+   "aciklama": "Bir topluluğun bir anda yok olabildiğini görmek, dünya hayatının da kalıcı olmadığını hatırlatır."
+  }
+ ],
+ "bugununAdimi": "Bugün, ertelediğin küçük bir güvenlik veya sağlık önlemini uygulamaya koy.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=31"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/31"
+  }
+ ]
+}

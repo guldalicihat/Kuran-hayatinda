@@ -1,0 +1,117 @@
+{
+ "sure": 54,
+ "ayet": 34,
+ "durum": "taslak",
+ "meal": "Şüphesiz biz onların üzerine taş yağdıran bir fırtına gönderdik; yalnız Lût ailesini seher vaktinde kurtardık.",
+ "mealNotu": "'Hâsıb' kökü taş savuran rüzgârı/fırtınayı anlatır. 'Âl' kökü aile/yakınları, 'sehar' ise gecenin son vaktini, seheri ifade eder.",
+ "kokler": [
+  {
+   "kelime": "إِنَّآ",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz biz",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "أَرْسَلْنَا",
+   "okunus": "erselnâ",
+   "kok": "رسل",
+   "kokAnlam": "gönderme",
+   "karsilik": "gönderdik"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "onların üzerine",
+   "karsilik": "onların üzerine"
+  },
+  {
+   "kelime": "حَاصِبًا",
+   "okunus": "hâsıben",
+   "kok": "حصب",
+   "kokAnlam": "taş savuran rüzgâr, fırtına",
+   "karsilik": "taş yağdıran bir fırtına"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, yalnız",
+   "karsilik": "yalnız"
+  },
+  {
+   "kelime": "ءَالَ",
+   "okunus": "âle",
+   "kok": "أول",
+   "kokAnlam": "aile, yakınlar",
+   "karsilik": "ailesini"
+  },
+  {
+   "kelime": "لُوطٍ",
+   "okunus": "lûtın",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Lût",
+   "karsilik": "Lût"
+  },
+  {
+   "kelime": "نَّجَّيْنَٰهُم",
+   "okunus": "necceynâhüm",
+   "kok": "نجو",
+   "kokAnlam": "kurtarma",
+   "karsilik": "kurtardık"
+  },
+  {
+   "kelime": "بِسَحَرٍ",
+   "okunus": "biseharin",
+   "kok": "سحر",
+   "kokAnlam": "seher vakti",
+   "karsilik": "seher vaktinde"
+  }
+ ],
+ "neAnlatiyor": [
+  "Lût kavmine gönderilen ceza, taş yağdıran bir fırtına olarak anlatılır. Lût ve ailesi ise bu felaketten önce seher vaktinde kurtarılmıştır.",
+  "'Necceynâhüm' kökünün kullanımı, kurtuluşun rastlantı değil doğrudan bir müdahale olduğunu vurgular. Seher vaktinin seçilmesi, felaketin sabaha karşı geldiğine de işaret eder (devamındaki ayetlerde açıklanır)."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:74",
+   "meal": "Şehrin üstünü altına getirdik, üzerlerine pişmiş çamurdan taşlar yağdırdık.",
+   "baglanti": "Taş yağdıran fırtınanın nasıl gerçekleştiğine dair ayrıntıyı verir."
+  },
+  {
+   "ref": "11:81",
+   "meal": "Onlara isabet eden şey, sabah vaktinde size de isabet edecek; sabah yakın değil mi?",
+   "baglanti": "Meleklerin Lût'a söylediği bu söz, azabın seher/sabah vaktinde geleceğini önceden bildirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu bir toplumun cezalandırılması ve içinden dürüst olanların kurtarılmasıdır.",
+  "Günümüze taşınabilecek ders, bir topluluk içinde yanlışa katılmayan kişinin, o topluluğun genel akıbetinden ayrı tutulmasıdır; bu, kişisel sorumluluğun toplu sorumluluktan bağımsız olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Çoğunluğa değil doğruya bak",
+   "aciklama": "Bugün bir grupta yanlış bir eğilim varsa, sırf çoğunluk öyle yapıyor diye katılma."
+  },
+  {
+   "baslik": "Ayrı durabileceğini bil",
+   "aciklama": "Bir ortamda herkes yanlış yapsa bile senin farklı davranabileceğini unutma."
+  },
+  {
+   "baslik": "Erken uyanıklığı değerli tut",
+   "aciklama": "Lût ailesinin seherde kurtarılması gibi, günün erken saatlerini önemli işler için kullan."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir grup içinde katılmak istemediğin bir yanlışa açıkça hayır de.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=34"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/34"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "sure": 54,
+ "ayet": 35,
+ "durum": "taslak",
+ "meal": "Katımızdan bir nimet olarak. Şükredeni biz işte böyle ödüllendiririz.",
+ "mealNotu": "'Ni'me' kökü nimet/lütuf, 'cezâ' kökü karşılık verme, 'şeker' kökü ise şükretmedir. Cümle önceki ayetteki kurtuluşun sebebini açıklar.",
+ "kokler": [
+  {
+   "kelime": "نِّعْمَةً",
+   "okunus": "ni'meten",
+   "kok": "نعم",
+   "kokAnlam": "nimet, lütuf",
+   "karsilik": "bir nimet olarak"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "عِندِنَا",
+   "okunus": "indinâ",
+   "kok": "عند",
+   "kokAnlam": "kat, yan",
+   "karsilik": "katımızdan"
+  },
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "نَجْزِى",
+   "okunus": "neczî",
+   "kok": "جزي",
+   "kokAnlam": "karşılık verme",
+   "karsilik": "ödüllendiririz"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimi",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "شَكَرَ",
+   "okunus": "şekera",
+   "kok": "شكر",
+   "kokAnlam": "şükretme",
+   "karsilik": "şükrettiyse"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet önceki ayette anlatılan kurtuluşun sebebini açıklar: Lût ailesinin kurtarılması, Allah katından bir nimettir ve şükredenlerin karşılığının nasıl verildiğine bir örnektir.",
+  "'Kezâlike' (işte böyle) ifadesi, bu kurtuluşun tek seferlik bir istisna değil, Allah'ın şükredenlere karşı genel bir tutumunun örneği olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:59",
+   "meal": "Ancak Lût ailesi başka; onların hepsini elbette kurtaracağız.",
+   "baglanti": "Lût ailesinin kurtuluşunun bir istisna olarak önceden bildirildiğini gösterir."
+  },
+  {
+   "ref": "7:83",
+   "meal": "Onu ve ailesini kurtardık; yalnız karısı geride kalanlardan oldu.",
+   "baglanti": "Kurtuluşun kapsamını ve şükrün sonuçlarını başka bir surede tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir zorluktan kurtuluşun bir nimet olduğu ve bunun şükürle ilişkilendirildiğidir.",
+  "Günümüze taşınabilecek ders, bir sıkıntıdan kurtulduğunda bunu 'şanslıydım' diye geçiştirmek yerine bir nimet olarak görüp şükretmenin bakış açısını değiştirmesidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir kurtuluşu fark et",
+   "aciklama": "Bugün başına gelmeyen kötü bir şeyi (kaza, hastalık, kayıp) düşün ve buna şükret."
+  },
+  {
+   "baslik": "Şükrü söze dök",
+   "aciklama": "Bir nimeti içinden geçirmek yerine bugün birine veya Allah'a açıkça ifade et."
+  },
+  {
+   "baslik": "Şükrü davranışa çevir",
+   "aciklama": "Sahip olduğun bir imkânı bugün başka birine yardım için kullan."
+  }
+ ],
+ "bugununAdimi": "Bugün fark ettiğin bir nimet için en az bir kez açıkça şükret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=35"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/35"
+  }
+ ]
+}

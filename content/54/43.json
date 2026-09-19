@@ -1,0 +1,117 @@
+{
+ "sure": 54,
+ "ayet": 43,
+ "durum": "taslak",
+ "meal": "Sizin inkârcılarınız onlardan daha mı hayırlıdır, yoksa sizin için kitaplarda [böyle] bir beraat mi var?",
+ "mealNotu": "'Beraat' kökü temize çıkmayı, 'zübür' kökü ise kitaplar/sayfalar anlamındadır. 'Böyle' kelimesi anlaşılırlık için parantez içinde eklendi; önceki kavimlerin akıbetine gönderme yapılır.",
+ "kokler": [
+  {
+   "kelime": "أَكُفَّارُكُمْ",
+   "okunus": "eküffâruküm",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "sizin inkârcılarınız"
+  },
+  {
+   "kelime": "خَيْرٌ",
+   "okunus": "hayrun",
+   "kok": "خير",
+   "kokAnlam": "hayır, iyi",
+   "karsilik": "daha mı hayırlıdır"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكُمْ",
+   "okunus": "ülâiküm",
+   "kok": "—",
+   "kokAnlam": "(işaret) onlar",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "لَكُم",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "بَرَآءَةٌ",
+   "okunus": "berâetün",
+   "kok": "برأ",
+   "kokAnlam": "temize çıkma, beraat",
+   "karsilik": "bir beraat"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "-de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلزُّبُرِ",
+   "okunus": "ezzübüri",
+   "kok": "زبر",
+   "kokAnlam": "kitaplar, sayfalar",
+   "karsilik": "kitaplarda"
+  }
+ ],
+ "neAnlatiyor": [
+  "Nûh, Semud, Lût ve Firavun kavimlerinin anlatımından sonra ayet doğrudan Mekkelilere döner ve retorik bir soru sorar: onlar bu helak edilen kavimlerden daha mı üstündür, yoksa ellerinde kendilerini bu akıbetten muaf tutacak ilahi bir belge mi var?",
+  "Soru, cevabı zaten belli olan bir uyarıdır; hiçbir topluluk geçmiş kavimlerden yapısal olarak 'daha hayırlı' değildir ve hiç kimsenin elinde böyle bir muafiyet belgesi yoktur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "47:13",
+   "meal": "Nice memleketler vardı ki, seni çıkaran memleketten daha güçlüydü; onları helak ettik, onlara yardım eden olmadı.",
+   "baglanti": "Mekkelilerin geçmiş kavimlerden daha güçlü olmadığını doğrudan gösterir."
+  },
+  {
+   "ref": "8:54",
+   "meal": "Firavun ailesinin ve onlardan öncekilerin gidişi gibi: Rablerinin ayetlerini yalanladılar, biz de günahları sebebiyle onları helak ettik.",
+   "baglanti": "Aynı kıyaslamayı Firavun kavmi üzerinden yaparak, aynı sebebin aynı sonucu doğuracağını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmişte helak olan kavimlerle o günün Mekkelilerinin kıyaslanmasıdır.",
+  "Günümüze taşınabilecek ders, kimsenin kendini 'bana bir şey olmaz' diye ayrıcalıklı görmemesi gerektiğidir; aynı sebep aynı sonucu doğurur, kişi veya topluluk fark etmez."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendini istisna sanma",
+   "aciklama": "Bir kuralın/sonucun 'bana uygulanmayacağını' düşündüğün bir alanı bugün sorgula."
+  },
+  {
+   "baslik": "Geçmişten ders çıkar",
+   "aciklama": "Başkalarının yaşadığı bir hatayı kendi hayatında tekrarlamamak için bugün bir önlem al."
+  },
+  {
+   "baslik": "Ayrıcalık beklentisinden vazgeç",
+   "aciklama": "Bir konuda 'ben farklıyım' demek yerine aynı ölçüyü kendine de uygula."
+  }
+ ],
+ "bugununAdimi": "Bugün, kendini bir kuraldan istisna saydığın bir alanı fark et ve düzelt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=43"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/43"
+  }
+ ]
+}

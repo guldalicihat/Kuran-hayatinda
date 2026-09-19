@@ -1,0 +1,89 @@
+{
+ "sure": 54,
+ "ayet": 49,
+ "durum": "taslak",
+ "meal": "Şüphesiz biz her şeyi bir ölçüyle (kaderle) yarattık.",
+ "mealNotu": "'Kader' kökü ölçü, belirlenmiş miktar/plan anlamındadır; parantez içindeki '(kaderle)' bu kökün Türkçedeki en yaygın karşılığını netleştirmek için eklendi, kelimenin kendi anlamının dışında değildir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّا",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz biz",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "كُلَّ",
+   "okunus": "külle",
+   "kok": "كلل",
+   "kokAnlam": "her, bütün",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "خَلَقْنَٰهُ",
+   "okunus": "haleknâhü",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yarattık"
+  },
+  {
+   "kelime": "بِقَدَرٍ",
+   "okunus": "bikaderin",
+   "kok": "قدر",
+   "kokAnlam": "ölçü, belirlenmiş miktar, kader",
+   "karsilik": "bir ölçüyle (kaderle)"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, sure boyunca anlatılan helak kıssalarının ardından genel bir ilke bildirir: evrendeki her şey bir ölçüye, bir plana göre yaratılmıştır. Bu, hem fiziksel evren hem de anlatılan kavimlerin başına gelenler için geçerlidir; hiçbir şey rastgele değildir.",
+  "'Kader' kelimesi burada Allah'ın her şeyi önceden bilmesi ve belirli bir ölçüyle var etmesi anlamındadır. Klasik tefsir bu ayeti kader inancının temel dayanaklarından biri olarak açıklar; bu, insanın kendi seçimlerinden ve fiillerinden sorumlu olmadığı anlamına gelmez, Kur'an başka birçok ayette insanın iradesine ve sorumluluğuna da açıkça vurgu yapar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:2",
+   "meal": "Her şeyi yarattı ve ona bir ölçü (kader) belirledi.",
+   "baglanti": "Aynı kader ilkesinin, Allah'ın mülkü bağlamında tekrarlandığı klasik bir ayet."
+  },
+  {
+   "ref": "87:3",
+   "meal": "Ölçüp biçen ve doğru yolu gösteren.",
+   "baglanti": "Yaratmanın hem bir ölçüye göre hem de bir yol göstermeyle birlikte olduğunu ekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, yaratılan her şeyin bir ölçüye/plana göre var olduğudur; bu bir kader ayetidir.",
+  "Günümüze taşınabilecek ders, her şeyin bir ölçüsü olduğunu bilmenin insanı ne kadercilikle sorumluluktan kaçmaya ne de her şeyi kendi elinde sanmaya götürmesi gerektiğidir; ikisi arasında dengeli bir bilinç, hem çaba göstermeyi hem sonucu Allah'a bırakmayı birlikte taşır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Elinden geleni yap, sonucu bırak",
+   "aciklama": "Bugün üzerine düşeni yaptıktan sonra sonucu zorlamadan bekle."
+  },
+  {
+   "baslik": "Kaderi bahane etme",
+   "aciklama": "'Nasıl olsa kaderimdeyse olur' diyerek bugün ihmal ettiğin bir sorumluluğu üstlen."
+  },
+  {
+   "baslik": "Ölçüyü fark et",
+   "aciklama": "Etrafındaki bir düzeni (doğa, beden, zaman) gözlemleyip bunun bir ölçüyle var olduğunu düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün, sonucu Allah'a bırakırken kendi üzerine düşen çabayı eksiksiz yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=49"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/49"
+  }
+ ]
+}

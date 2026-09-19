@@ -1,0 +1,103 @@
+{
+ "sure": 54,
+ "ayet": 32,
+ "durum": "taslak",
+ "meal": "Andolsun, Kur'an'ı öğüt almak için kolaylaştırdık. Var mı öğüt alan?",
+ "mealNotu": "'Yessernâ' kökü kolaylaştırmayı, 'zikr' ve 'müddekir' kökleri ise anma/öğüt alma eylemini anlatır. Ayet, Semud kıssasının hemen ardından tekrarlanan bir çağrı cümlesidir.",
+ "kokler": [
+  {
+   "kelime": "وَلَقَدْ",
+   "okunus": "ve lekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) andolsun",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "يَسَّرْنَا",
+   "okunus": "yessernâ",
+   "kok": "يسر",
+   "kokAnlam": "kolaylaştırma",
+   "karsilik": "kolaylaştırdık"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانَ",
+   "okunus": "elkur'âne",
+   "kok": "قرأ",
+   "kokAnlam": "okuma, Kur'an",
+   "karsilik": "Kur'an'ı"
+  },
+  {
+   "kelime": "لِلذِّكْرِ",
+   "okunus": "lilzzikri",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama, öğüt",
+   "karsilik": "öğüt almak için"
+  },
+  {
+   "kelime": "فَهَلْ",
+   "okunus": "fehel",
+   "kok": "—",
+   "kokAnlam": "(soru) var mı",
+   "karsilik": "var mı"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "مُّدَّكِرٍ",
+   "okunus": "müddekirin",
+   "kok": "ذكر",
+   "kokAnlam": "öğüt alan, hatırlayan",
+   "karsilik": "öğüt alan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Semud kavminin başına gelen felaketin hemen ardından gelen bu ayet, anlatılan kıssanın boşuna anlatılmadığını, Kur'an'ın öğüt almayı kolaylaştıracak şekilde indirildiğini hatırlatır. Bu cümle sure boyunca birkaç kez tekrarlanır; her tekrar farklı bir kavmin kıssasının sonunda gelir.",
+  "'Yessernâ' kökünün seçimi önemlidir: Kur'an anlaşılmaz veya ulaşılmaz değildir, öğüt alınması için kolaylaştırılmıştır. Soru cümlesi ('var mı öğüt alan?') bir davettir, suçlama değildir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "44:58",
+   "meal": "Biz onu (Kur'an'ı) senin dilinle kolaylaştırdık ki öğüt alsınlar.",
+   "baglanti": "Kur'an'ın öğüt almak için kolaylaştırılması ilkesinin başka bir surede tekrarı."
+  },
+  {
+   "ref": "19:97",
+   "meal": "Biz onu (Kur'an'ı) senin dilinle kolaylaştırdık ki onunla takva sahiplerini müjdeleyesin ve inatçı bir topluluğu uyarasın.",
+   "baglanti": "Kolaylaştırmanın hem müjde hem uyarı amacına hizmet ettiğini gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kur'an'ın anlaşılır ve öğüt alınabilir kılınmasıdır.",
+  "Günümüze taşınabilecek ders, okunan bir kıssadan (burada Semud'un hikâyesinden) pay çıkarmanın, sadece bilgi edinmekten farklı olduğudur; kişi kendine 'bu benim için ne anlatıyor?' diye sormalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir kıssayı kendine uygula",
+   "aciklama": "Bugün okuduğun bir ayet veya kıssadan kendi hayatına dair bir ders çıkar."
+  },
+  {
+   "baslik": "Anlaşılmaz demeden önce dene",
+   "aciklama": "Zor geldiğini düşündüğün bir konuyu anlamak için küçük bir adım at (bir meal, bir açıklama oku)."
+  },
+  {
+   "baslik": "Öğüdü ertelemeden not al",
+   "aciklama": "Bugün fark ettiğin bir öğüdü unutmamak için bir yere yaz."
+  }
+ ],
+ "bugununAdimi": "Bugün okuduğun bir ayetten çıkardığın bir dersi bir cümleyle not al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=32"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/32"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "sure": 54,
+ "ayet": 44,
+ "durum": "taslak",
+ "meal": "Yoksa 'Biz galip gelen bir topluluğuz' mu diyorlar?",
+ "mealNotu": "'Cemî' kökü topluluk, 'nasr' kökü ise yardım/galip gelme anlamındadır. Soru, Mekkelilerin kibirli bir iddiasını aktarır.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "يَقُولُونَ",
+   "okunus": "yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "deme",
+   "karsilik": "diyorlar"
+  },
+  {
+   "kelime": "نَحْنُ",
+   "okunus": "nahnü",
+   "kok": "—",
+   "kokAnlam": "biz",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "جَمِيعٌ",
+   "okunus": "cemîun",
+   "kok": "جمع",
+   "kokAnlam": "topluluk, birlik",
+   "karsilik": "bir topluluğuz"
+  },
+  {
+   "kelime": "مُّنتَصِرٌ",
+   "okunus": "müntesırun",
+   "kok": "نصر",
+   "kokAnlam": "yardım görme, galip gelme",
+   "karsilik": "galip gelen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Mekkelilerin kendi güçlerine dair kibirli bir iddiasını aktarır: kendilerini yenilmez, galip bir topluluk olarak görürler. Bu iddia, önceki ayetteki 'kitaplarda beraatınız mı var?' sorusunun devamıdır.",
+  "Soru cümlesinin yapısı, bu iddianın asılsız olduğunu daha söylenirken ima eder; hemen sonraki ayet bu iddiaya doğrudan cevap verir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "38:11",
+   "meal": "Onlar, burada bozguna uğratılacak, (geçmiş) topluluklardan kalma bitmiş bir ordudur.",
+   "baglanti": "Mekkelilerin galiplik iddiasına Sad suresinde verilen doğrudan cevaptır."
+  },
+  {
+   "ref": "3:12",
+   "meal": "İnkâr edenlere de ki: Yakında yenilgiye uğrayacaksınız ve toplanıp cehenneme sürüleceksiniz.",
+   "baglanti": "Galiplik iddiasının tam tersine, yenilgi ve toplanma haberini verir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu bir topluluğun kendi gücüne aşırı güvenmesidir.",
+  "Günümüze taşınabilecek ders, 'biz kazanırız, bize bir şey olmaz' gibi toptan bir özgüvenin gerçekçi bir değerlendirmenin önüne geçebileceğidir; güç iddiası sonucu garanti etmez."
+ ],
+ "bugun": [
+  {
+   "baslik": "Aşırı özgüveni fark et",
+   "aciklama": "Bir konuda 'kesinlikle kazanırım/haklıyım' dediğin bir yeri bugün yeniden değerlendir."
+  },
+  {
+   "baslik": "Sonucu Allah'a bırak",
+   "aciklama": "Elinden geleni yaptıktan sonra, sonucu kesin görmek yerine Allah'a havale et."
+  },
+  {
+   "baslik": "Gerçekçi ol",
+   "aciklama": "Bir işte gücünü olduğundan fazla göstermeden, gerçek durumunu kabul et."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir konudaki aşırı özgüvenini gerçekçi bir değerlendirmeyle dengele.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=44"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/44"
+  }
+ ]
+}

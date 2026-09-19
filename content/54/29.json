@@ -1,0 +1,82 @@
+{
+ "sure": 54,
+ "ayet": 29,
+ "durum": "taslak",
+ "meal": "Arkadaşlarını çağırdılar; o da işe girişti ve [deveyi] kesti.",
+ "mealNotu": "'Teâtâ' kökü bir işe elini uzatıp girişmeyi, 'akara' kökü ise deveyi keserek öldürmeyi anlatır. Ayette 'deve' kelimesi açıkça geçmediği için köşeli parantez içinde eklendi; bağlam önceki ayetlerden bellidir.",
+ "kokler": [
+  {
+   "kelime": "فَنَادَوْا۟",
+   "okunus": "fenâdev",
+   "kok": "ندي",
+   "kokAnlam": "çağırma, seslenme",
+   "karsilik": "çağırdılar"
+  },
+  {
+   "kelime": "صَاحِبَهُمْ",
+   "okunus": "sâhibehüm",
+   "kok": "صحب",
+   "kokAnlam": "arkadaş, yol arkadaşı",
+   "karsilik": "arkadaşlarını"
+  },
+  {
+   "kelime": "فَتَعَاطَىٰ",
+   "okunus": "feteâtâ",
+   "kok": "عطو",
+   "kokAnlam": "el uzatma, girişme",
+   "karsilik": "girişti"
+  },
+  {
+   "kelime": "فَعَقَرَ",
+   "okunus": "feakara",
+   "kok": "عقر",
+   "kokAnlam": "kesme (deve kesme)",
+   "karsilik": "[deveyi] kesti"
+  }
+ ],
+ "neAnlatiyor": [
+  "Semud kavmi, mucize deveye rağmen sabırsızlanmış; içlerinden biri arkadaşlarını çağırıp bu işe kalkışmış ve deveyi kesmiştir. Ayet olayı kısaca, ayrıntıya girmeden anlatır.",
+  "'Teâtâ' kökünün seçilmesi önemlidir; bir kararsızlıktan sonra işe girişmeyi ifade eder. Fiil tekil kullanılsa da olay, kavmin ortak razı olduğu bir eylem olarak anlatılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "91:14",
+   "meal": "Onu yalanladılar ve deveyi kestiler; bu yüzden Rableri, günahları sebebiyle üzerlerine azabı çökertti ve orayı dümdüz etti.",
+   "baglanti": "54:29'daki kesme eyleminin doğrudan sonucunu anlatır."
+  },
+  {
+   "ref": "7:77",
+   "meal": "Deveyi kestiler ve Rablerinin buyruğuna karşı geldiler.",
+   "baglanti": "Deveyi kesmenin aynı zamanda ilahi buyruğa açık bir isyan olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Semud kavminin kendilerine verilen bir mucizeyi/emri çiğnemesidir.",
+  "Günümüze taşınabilecek ders, bir topluluk içinde biri kötü bir işe kalkıştığında sessiz kalanların da bu işe ortak olabileceğidir; net bir çizgi koymak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sessiz onay verme",
+   "aciklama": "Çevrende yanlış bir işe girişilirken seyirci kalmak yerine bugün görüşünü söyle."
+  },
+  {
+   "baslik": "Ortak bir sınırı hatırla",
+   "aciklama": "Evde veya işte üzerinde anlaşılmış bir kurala bugün saygı göster, bozma."
+  },
+  {
+   "baslik": "Anlık dürtüyle hareket etme",
+   "aciklama": "Kararsız kaldığın bir konuda aceleyle yanlış adım atmadan önce dur ve düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün, çevrende biri ortak bir kurala aykırı davranırsa sessiz kalmayıp görüşünü belirt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=29"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/29"
+  }
+ ]
+}

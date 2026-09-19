@@ -1,0 +1,82 @@
+{
+ "sure": 54,
+ "ayet": 33,
+ "durum": "taslak",
+ "meal": "Lût kavmi uyarıcıları yalanladı.",
+ "mealNotu": "'Kezzebet' kökü yalanlamayı, 'nüzür' kökü uyarıcı/uyarı anlamını taşır; kısa ve doğrudan bir giriş cümlesidir.",
+ "kokler": [
+  {
+   "kelime": "كَذَّبَتْ",
+   "okunus": "kezzebet",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanladı"
+  },
+  {
+   "kelime": "قَوْمُ",
+   "okunus": "kavmü",
+   "kok": "قوم",
+   "kokAnlam": "kavim, topluluk",
+   "karsilik": "kavmi"
+  },
+  {
+   "kelime": "لُوطٍۭ",
+   "okunus": "lûtım",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Lût",
+   "karsilik": "Lût"
+  },
+  {
+   "kelime": "بِٱلنُّذُرِ",
+   "okunus": "bin nüzüri",
+   "kok": "نذر",
+   "kokAnlam": "uyarma, uyarıcı",
+   "karsilik": "uyarıcıları"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, Nûh ve Semud kavimlerinin ardından şimdi Lût kavmine geçer. Bu ayet, önceki kıssalardaki gibi kısa bir giriş cümlesidir: kavim, kendilerine gönderilen uyarıyı yalanlamıştır.",
+  "'Nüzür' kelimesinin çoğul kullanımı dikkat çekicidir; tek bir uyarı değil, Lût'un tekrar eden çağrısı ve uyarıları kastedilir. Devamındaki ayetler bu yalanlamanın sonucunu anlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:160",
+   "meal": "Lût kavmi de elçileri yalanladı.",
+   "baglanti": "Aynı yalanlama, Şuarâ suresinde de aynı ifadeyle tekrarlanır."
+  },
+  {
+   "ref": "29:28",
+   "meal": "Lût, kavmine şöyle demişti: Siz öyle bir çirkinlik yapıyorsunuz ki sizden önce âlemlerden hiç kimse yapmamıştı.",
+   "baglanti": "Yalanlanan uyarının içeriğine, kavmin daha önce görülmemiş bir çirkinlik işlediğine dair ayrıntı verir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu bir toplumun kendisine gelen uyarıyı toptan reddetmesidir.",
+  "Günümüze taşınabilecek ders, bir uyarıyı sadece 'kim söylüyor' diye değil, mesajın kendisini değerlendirerek dinlemek gerektiğidir; kaynağı beğenmemek mesajı geçersiz kılmaz."
+ ],
+ "bugun": [
+  {
+   "baslik": "Mesajı kaynaktan ayır",
+   "aciklama": "Bugün birinden hoşlanmadığın için haklı bir uyarısını görmezden gelip gelmediğini düşün."
+  },
+  {
+   "baslik": "Yalanlamadan önce dinle",
+   "aciklama": "Yeni duyduğun bir eleştiriyi hemen reddetmeden bir kez daha değerlendir."
+  },
+  {
+   "baslik": "Peşin hükümden kaçın",
+   "aciklama": "Bir konuda karar vermeden önce, konuyu gerçekten anlayıp anlamadığını sorgula."
+  }
+ ],
+ "bugununAdimi": "Bugün, daha önce reddettiğin bir uyarıyı veya eleştiriyi yeniden ve önyargısız değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=33"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/33"
+  }
+ ]
+}
