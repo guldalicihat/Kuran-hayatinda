@@ -5,6 +5,7 @@ import { loadChapters, loadContent, loadContentIndex, loadSurah, orderChapters, 
 import type { Ayah, Chapter, Content } from '../lib/types'
 import { useFavorites, useLastRead } from '../lib/store'
 import { useSettings } from '../lib/settings'
+import { usePageMeta } from '../lib/seo'
 
 const SITE = 'https://kuranhayatimda.com'
 
@@ -113,6 +114,7 @@ export default function AyahPage() {
     }
   }
   const canGoBack = location.key !== 'default'
+  usePageMeta(ch ? `${ch.ad} ${a}. Ayet` : '', content?.meal)
   return (
     <div className="safe-bottom">
       <Header title={ch ? `${ch.ad} ${a}` : '…'} back={canGoBack ? '' : `/sure/${n}`} backLabel={canGoBack ? 'Geri' : (ch?.ad ?? 'Sure')} />

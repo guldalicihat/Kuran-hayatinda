@@ -7,6 +7,7 @@ import { loadChapters, loadContentIndex, loadMeals, loadSurah, orderChapters } f
 import type { Chapter, ContentIndex, MealMap, Surah } from '../lib/types'
 import { useLastRead } from '../lib/store'
 import { useSettings } from '../lib/settings'
+import { usePageMeta } from '../lib/seo'
 
 function norm(s: string) { return s.toLocaleLowerCase('tr').replace(/[âîû']/g, c => ({ 'â': 'a', 'î': 'i', 'û': 'u', "'": '' }[c] ?? c)) }
 
@@ -46,6 +47,10 @@ export default function SurahPage() {
   const orderIdx = ordered.findIndex(c => c.n === n)
   const prevCh = orderIdx > 0 ? ordered[orderIdx - 1] : undefined
   const nextCh = orderIdx >= 0 && orderIdx < ordered.length - 1 ? ordered[orderIdx + 1] : undefined
+  usePageMeta(
+    ch ? `${ch.ad} Suresi` : '',
+    ch ? `${ch.ad} suresi (${ch.ayet} ayet, ${ch.tip === 'mekki' ? 'Mekki' : 'Medeni'}) — kök temelli Türkçe meal ve her ayetin günlük hayatla bağlantısını kuran açıklamalar.` : undefined,
+  )
   return (
     <div className="safe-bottom">
       <Header title={ch?.ad ?? '…'} back={loc.key !== 'default' ? '' : '/'} backLabel={loc.key !== 'default' ? 'Geri' : 'Sureler'} />
