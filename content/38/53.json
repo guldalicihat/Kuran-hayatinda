@@ -1,0 +1,89 @@
+{
+ "sure": 38,
+ "ayet": 53,
+ "durum": "taslak",
+ "meal": "İşte hesap günü için size vadedilen budur.",
+ "mealNotu": "Ayet, önceki tasvirin bir vaat olarak muttakilere hitaben söylendiğini bildirir; 'size' zamiri ayette açıkça yer almasa da fiil çekiminde vardır.",
+ "kokler": [
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şeydir"
+  },
+  {
+   "kelime": "تُوعَدُونَ",
+   "okunus": "tûadûne",
+   "kok": "وعد",
+   "kokAnlam": "vaat etme, söz verme",
+   "karsilik": "vadedildiğiniz"
+  },
+  {
+   "kelime": "لِيَوْمِ",
+   "okunus": "liyevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü için"
+  },
+  {
+   "kelime": "ٱلْحِسَابِ",
+   "okunus": "elhisâbi",
+   "kok": "حسب",
+   "kokAnlam": "hesap etme, sayma",
+   "karsilik": "hesap"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu kısa ayet, cennet tasvirini bir vaat olarak sunar: anlatılanlar hesap günü için verilen bir sözdür. 'Hesap günü' ifadesi, önceki nimetlerin bedelsiz değil, bir hesaba bağlı olarak verildiğini hatırlatır.",
+  "Ayet, hesap gününün ne zaman olduğuna dair bir ayrıntı vermez; yalnız bunun gerçekleşeceğini bildirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "40:17",
+   "meal": "Bugün her nefis kazandığının karşılığını görür. Bugün haksızlık yoktur. Şüphesiz Allah, hesabı çabuk görendir.",
+   "baglanti": "Mü'min suresi, 'hesap günü'nün adalet ilkesini açıklayarak 38:53'teki vaadin dayanağını gösterir."
+  },
+  {
+   "ref": "21:47",
+   "meal": "Kıyamet günü için adalet terazileri koyarız; hiçbir kimseye zerre kadar haksızlık edilmez.",
+   "baglanti": "Enbiyâ suresi, hesabın adaletle yapılacağını vurgulayarak bu vaadin güvenilirliğini pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ahiretteki bir vaattir; ancak 'hesap günü' vurgusu dünyadaki davranışlarla doğrudan bağlantılıdır.",
+  "Genel ders, her günün bir hesaba dönüşeceğinin bilinmesidir; bu bilinç kişiyi keyfî değil, sorumlu davranmaya yöneltir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugünün hesabını akşam ver",
+   "aciklama": "Gün sonunda bugün yaptıklarını kısaca gözden geçir; neyi düzeltebileceğini düşün."
+  },
+  {
+   "baslik": "Bir sözünü tut",
+   "aciklama": "Bugün birine verdiğin bir sözü zamanında yerine getir."
+  },
+  {
+   "baslik": "Hesap bilinciyle hareket et",
+   "aciklama": "Bir kararı verirken bugün 'bunun hesabını verebilir miyim' diye kendine sor."
+  }
+ ],
+ "bugununAdimi": "Bugün akşam, günü kısaca gözden geçirip bir şeyi düzeltmeye karar ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=53"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/38/53"
+  }
+ ]
+}

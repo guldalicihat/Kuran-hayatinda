@@ -1,0 +1,131 @@
+{
+ "sure": 38,
+ "ayet": 60,
+ "durum": "taslak",
+ "meal": "Onlar dediler ki: 'Hayır, asıl size merhaba yok! Onu bize siz sundunuz. Ne kötü bir durak!'",
+ "mealNotu": "Ayet, önceki sözlere verilen karşılığı aktarır; 'onu' zamiri bağlamdan azabı işaret eder.",
+ "kokler": [
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) hayır, aksine",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "أَنتُمْ",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "asıl siz"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "yok"
+  },
+  {
+   "kelime": "مَرْحَبًۢا",
+   "okunus": "merhabem",
+   "kok": "رحب",
+   "kokAnlam": "genişlik, hoş karşılama",
+   "karsilik": "merhaba"
+  },
+  {
+   "kelime": "بِكُمْ",
+   "okunus": "biküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "أَنتُمْ",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "قَدَّمْتُمُوهُ",
+   "okunus": "kaddemtümûhü",
+   "kok": "قدم",
+   "kokAnlam": "önceleme, önden sunma",
+   "karsilik": "onu sundunuz"
+  },
+  {
+   "kelime": "لَنَا",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) bize",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "فَبِئْسَ",
+   "okunus": "febi'se",
+   "kok": "بأس",
+   "kokAnlam": "kötü olma",
+   "karsilik": "ne kötüdür"
+  },
+  {
+   "kelime": "ٱلْقَرَارُ",
+   "okunus": "elkarâru",
+   "kok": "قرر",
+   "kokAnlam": "yerleşme, karar kılma",
+   "karsilik": "durak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Merhaba almayan grup, kendilerini karşılayana aynı sözle cevap verir: asıl merhaba onlara yok, çünkü bu azabı önlerine onlar getirmiştir. Karşılıklı bir suçlama başlar.",
+  "'Kaddemtümûhü' (onu siz sundunuz) ifadesi, birinin diğerini yoldan çıkardığına dair bir itham taşır. Sahne, sorumluluğu karşı tarafa atma çabasını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:39",
+   "meal": "Öndekiler de sonrakilere derler ki: 'Sizin bize bir üstünlüğünüz yoktu; öyleyse kazandığınıza karşılık azabı tadın.'",
+   "baglanti": "A'râf suresi, gruplar arasındaki benzer bir karşılıklı sözleşmeyi aktarır."
+  },
+  {
+   "ref": "34:31",
+   "meal": "Alt tabakadakiler, büyüklük taslayanlara derler ki: 'Eğer siz olmasaydınız, biz iman edenler olurduk.'",
+   "baglanti": "Sebe' suresi, cehennemdeki suçlamanın bir başka biçimini, izleyenlerin önderlerini suçlamasını anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ahiretteki bir karşılıklı suçlama sahnesidir; dünyada uygulanacak bir kural değildir.",
+  "Genel ders, hatayı başkasına atmanın kolay ama kalıcı bir çözüm olmadığıdır; herkes kendi seçiminden sorumludur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sorumluluk alma alışkanlığı",
+   "aciklama": "Bugün bir hatanı başkasına atmadan, önce kendi payını kabul et."
+  },
+  {
+   "baslik": "Suçlamadan önce dinle",
+   "aciklama": "Bir anlaşmazlıkta bugün önce karşındakini dinle, hemen suçlamaya geçme."
+  },
+  {
+   "baslik": "Etkilediğin kişiyi düşün",
+   "aciklama": "Sözünün veya örnek davranışının başkasını nereye yönlendirdiğini bugün düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda kendi payını kabul edip, kimseyi suçlamadan bir çözüm öner.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=60"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/38/60"
+  }
+ ]
+}

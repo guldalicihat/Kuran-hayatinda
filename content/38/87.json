@@ -1,0 +1,89 @@
+{
+ "sure": 38,
+ "ayet": 87,
+ "durum": "taslak",
+ "meal": "O, ancak âlemler için bir öğüttür.",
+ "mealNotu": "Ayet, Kur'an'ın (veya bu surenin) evrensel bir öğüt olduğunu, belli bir topluluğa özgü olmadığını kısa bir cümleyle bildirir.",
+ "kokler": [
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) -dan başka",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ذِكْرٌ",
+   "okunus": "zikrun",
+   "kok": "ذكر",
+   "kokAnlam": "anma, öğüt",
+   "karsilik": "bir öğüttür"
+  },
+  {
+   "kelime": "لِّلْعَٰلَمِينَ",
+   "okunus": "lil'âlemîne",
+   "kok": "علم",
+   "kokAnlam": "bilgi; âlem, dünyalar",
+   "karsilik": "âlemler için"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 86. ayetteki 'ücret istemem' cümlesinin devamı olarak, mesajın kime ait olduğunu netleştirir: bu bir öğüt, ama yalnız muhataplara değil, tüm âlemlere yöneliktir.",
+  "'Zikr' kelimesi surenin 49. ayetinde de geçmişti; sure hem muttakiler için güzel bir sonu hem de herkes için genel bir öğüdü aynı kelimeyle birbirine bağlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "81:27",
+   "meal": "O, âlemler için ancak bir öğüttür.",
+   "baglanti": "Tekvîr suresi, birebir aynı ifadeyle Kur'an'ın evrensel bir öğüt olduğunu tekrarlar."
+  },
+  {
+   "ref": "68:52",
+   "meal": "O, âlemler için ancak bir öğüttür.",
+   "baglanti": "Kalem suresi de aynı cümleyi tekrarlayarak bu vurgunun sureler arasında tutarlı bir tema olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kur'an'ın evrensel niteliğidir; günlük bir hüküm içermez.",
+  "Genel ders, doğru bir öğüdün belirli bir gruba değil, herkese fayda sağlayacak şekilde paylaşılmasıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Öğüdü herkese açık tut",
+   "aciklama": "Bugün öğrendiğin faydalı bir bilgiyi, yalnız yakınlarınla değil, ihtiyacı olan başka biriyle de paylaş."
+  },
+  {
+   "baslik": "Ayrım gözetme",
+   "aciklama": "Bugün bir iyiliği yaparken kime yaptığına bakmadan, hak eden herkese eşit davran."
+  },
+  {
+   "baslik": "Evrensel bir ilkeyi uygula",
+   "aciklama": "Bugün 'herkes için iyi olan nedir' diye düşünerek bir kararını gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün öğrendiğin faydalı bir bilgiyi, ihtiyacı olan bir kişiyle paylaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=87"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/38/87"
+  }
+ ]
+}

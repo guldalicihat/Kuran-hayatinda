@@ -1,0 +1,89 @@
+{
+ "sure": 38,
+ "ayet": 55,
+ "durum": "taslak",
+ "meal": "İşte böyle. Şüphesiz azgınlar için de kötü bir dönüş yeri vardır.",
+ "mealNotu": "Ayet, 49. ayetteki 'meâb' (dönüş yeri) kelimesini burada zıt bir grupla, azgınlarla tekrar eder; karşıtlık bilinçli kurulmuştur.",
+ "kokler": [
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "وَإِنَّ",
+   "okunus": "ve inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "لِلطَّٰغِينَ",
+   "okunus": "lilttâğîne",
+   "kok": "طغي",
+   "kokAnlam": "azgınlık, haddi aşma",
+   "karsilik": "azgınlar için"
+  },
+  {
+   "kelime": "لَشَرَّ",
+   "okunus": "leşerra",
+   "kok": "شرر",
+   "kokAnlam": "kötülük, şer",
+   "karsilik": "gerçekten kötü"
+  },
+  {
+   "kelime": "مَـَٔابٍ",
+   "okunus": "meâbin",
+   "kok": "أوب",
+   "kokAnlam": "dönüş, geri gelme",
+   "karsilik": "bir dönüş yeri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Muttakiler için güzel bir dönüş yeri anlatıldıktan sonra, ayet karşıt tarafa geçer: azgınlar için de bir dönüş yeri vardır, ama bu kötüdür. Sonraki üç ayet bu kötü sonu tasvir eder.",
+  "'Tâğîn' (azgınlar), haddi aşan, sınırları tanımayan kişilerdir. Ayet burada bir isim vermeden genel bir tanım yapar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "13:25",
+   "meal": "Allah'a verdikleri sözü bozanlar, Allah'ın birleştirilmesini emrettiği şeyi kesenler ve yeryüzünde bozgunculuk yapanlar; işte lanet onlaradır ve kötü yurt da onlarındır.",
+   "baglanti": "Ra'd suresi, 'kötü yurt' ifadesini aynı kökle kullanarak 38:55'teki azgınların akıbetini bir davranış grubuyla eşleştirir."
+  },
+  {
+   "ref": "40:52",
+   "meal": "O gün zalimlerin mazereti fayda vermez; lanet onlaradır ve kötü yurt da onlarındır.",
+   "baglanti": "Mü'min suresi de aynı 'kötü yurt' ifadesiyle azgınların/zalimlerin akıbetini tasdik eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ahiretteki bir akıbettir; kimseye dünyada bir ceza öngörmez.",
+  "Genel ders, haddi aşmanın (tuğyan) bedelinin olduğunu bilmek ve sınırları gözetmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir sınırını gözden geçir",
+   "aciklama": "Bugün öfke, söz veya harcamada haddi aşıp aşmadığını kendine sor."
+  },
+  {
+   "baslik": "Haddini bilerek konuş",
+   "aciklama": "Bir tartışmada bugün karşındakinin hakkını gözeterek, ölçülü konuş."
+  },
+  {
+   "baslik": "Akıbeti düşün",
+   "aciklama": "Bugün alacağın bir kararın, uzun vadede seni nereye götüreceğini bir kez düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda haddini aşmamaya özellikle dikkat et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=55"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/38/55"
+  }
+ ]
+}

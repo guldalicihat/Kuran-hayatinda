@@ -1,0 +1,82 @@
+{
+ "sure": 38,
+ "ayet": 67,
+ "durum": "taslak",
+ "meal": "De ki: 'O, büyük bir haberdir.'",
+ "mealNotu": "'Nebe' kökü haber anlamındadır; ayet burada anlatılanların, özellikle tevhid ve ahiret mesajının önemini vurgular.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "نَبَؤٌا۟",
+   "okunus": "nebeün",
+   "kok": "نبأ",
+   "kokAnlam": "haber, bilgi",
+   "karsilik": "bir haberdir"
+  },
+  {
+   "kelime": "عَظِيمٌ",
+   "okunus": "azîmün",
+   "kok": "عظم",
+   "kokAnlam": "büyüklük, azamet",
+   "karsilik": "büyük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet kısa ama vurgulu bir cümledir: anlatılanlar sıradan bir söz değil, 'büyük bir haber'dir. Bu, Kur'an'ın veya az önce anlatılan tevhid/ahiret mesajının önemine işaret eder.",
+  "Ayetin kısalığı, mesajın kendi ağırlığıyla yeterince güçlü olduğunu, uzun açıklamalara ihtiyaç duymadığını hissettirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "78:2",
+   "meal": "Hakkında anlaşmazlığa düştükleri o büyük haber hakkında mı?",
+   "baglanti": "Nebe suresi tam olarak aynı 'nebeün azîm' ifadesiyle başlar; iki ayet aynı kelimeyle aynı konuyu, kıyamet ve tevhid mesajını işaret eder."
+  },
+  {
+   "ref": "15:9",
+   "meal": "Şüphesiz o zikri (Kur'an'ı) kesinlikle biz indirdik; onun koruyucusu da elbette biziz.",
+   "baglanti": "Hicr suresi, bu 'büyük haber'in korunacağını bildirerek onun kalıcı önemini teyit eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu vahyin önemine dikkat çekmektir; günlük bir hüküm içermez.",
+  "Genel ders, önemli bir mesajı hafife almamaktır; bazı sözler sıradan değil, hayatı etkileyecek ağırlıktadır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önemli bir mesajı ciddiye al",
+   "aciklama": "Bugün duyduğun veya okuduğun bir uyarıyı geçiştirmeden üzerinde düşün."
+  },
+  {
+   "baslik": "Kur'an'dan bir bölüm oku",
+   "aciklama": "Bugün birkaç dakikanı ayırıp Kur'an'dan kısa bir bölüm oku."
+  },
+  {
+   "baslik": "Sözünün ağırlığını düşün",
+   "aciklama": "Bugün söyleyeceğin önemli bir sözü, hafife almadan, düşünerek söyle."
+  }
+ ],
+ "bugununAdimi": "Bugün birkaç dakika ayırıp Kur'an'dan bir bölüm oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=67"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/38/67"
+  }
+ ]
+}

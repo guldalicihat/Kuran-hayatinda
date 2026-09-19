@@ -1,0 +1,82 @@
+{
+ "sure": 38,
+ "ayet": 88,
+ "durum": "taslak",
+ "meal": "Andolsun, onun haberini bir süre sonra mutlaka bileceksiniz.",
+ "mealNotu": "'Hîn' belirsiz bir süreyi anlatır; ayet kesin bir tarih vermeden bu haberin ileride doğrulanacağını bildirir.",
+ "kokler": [
+  {
+   "kelime": "وَلَتَعْلَمُنَّ",
+   "okunus": "ve leta'lemünne",
+   "kok": "علم",
+   "kokAnlam": "bilgi, bilme",
+   "karsilik": "mutlaka bileceksiniz"
+  },
+  {
+   "kelime": "نَبَأَهُۥ",
+   "okunus": "nebeehû",
+   "kok": "نبأ",
+   "kokAnlam": "haber, bilgi",
+   "karsilik": "onun haberini"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonra, ardından",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "حِينٍۭ",
+   "okunus": "hînim",
+   "kok": "حين",
+   "kokAnlam": "süre, vakit",
+   "karsilik": "bir süre"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, 67. ayette 'büyük bir haber' diye tanıtılan mesaja dönerek kapanır: bu haberin doğruluğu, bir süre sonra herkes tarafından anlaşılacaktır. Ayet bu sürenin ne kadar olduğunu belirtmez.",
+  "Bu kapanış, sureyi baştaki 'büyük haber' vurgusuna bağlayarak, anlatılanların zamanla doğrulanacak bir gerçeklik taşıdığını hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:67",
+   "meal": "Her haberin gerçekleşeceği bir zaman vardır; yakında bileceksiniz.",
+   "baglanti": "En'âm suresi, 38:88'deki 'bir süre sonra bileceksiniz' ifadesiyle aynı yapıyı taşıyan bir uyarı sunar."
+  },
+  {
+   "ref": "78:5",
+   "meal": "Hayır, yakında bilecekler!",
+   "baglanti": "Nebe suresi de aynı 'büyük haber' temasının devamında, gerçeğin zamanla ortaya çıkacağını kısa bir tehditle tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu vahyin doğrulanacağı bir zamandır; günlük bir hüküm içermez.",
+  "Genel ders, bugün emin olunmayan bir gerçeğin zamanla ortaya çıkabileceğidir; bu bilinç sabırlı ve tutarlı olmayı öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sabırla doğruyu bekle",
+   "aciklama": "Bugün hemen anlaşılmayan bir gerçeği kanıtlamaya çalışmak yerine, zamanla ortaya çıkmasına izin ver."
+  },
+  {
+   "baslik": "Ahiretin geleceğini hatırla",
+   "aciklama": "Bugün bir anlığına, şu an göremediğin ama gerçekleşecek olan ahireti düşün."
+  },
+  {
+   "baslik": "Tutarlı kal",
+   "aciklama": "İnandığın bir doğruyu, sonucu hemen görünmese de bugün savunmaya devam et."
+  }
+ ],
+ "bugununAdimi": "Bugün doğru bildiğin bir şeyi, sonucunu hemen görmesen de sabırla sürdür.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=88"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/38/88"
+  }
+ ]
+}
