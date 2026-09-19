@@ -1,0 +1,96 @@
+{
+ "sure": 26,
+ "ayet": 74,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'Hayır, ama atalarımızı böyle yapar bulduk.'",
+ "mealNotu": "'Vecednâ' وجد kökü bulmayı, hazır bulmayı anlatır; kavim İbrahim'in sorularına doğrudan cevap vermek yerine, alışkanlığın devralındığını söyler.",
+ "kokler": [
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "dediler ki"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) hayır, aksine",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "وَجَدْنَآ",
+   "okunus": "vecednâ",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulduk"
+  },
+  {
+   "kelime": "ءَابَآءَنَا",
+   "okunus": "âbâenâ",
+   "kok": "أبو",
+   "kokAnlam": "baba, ata",
+   "karsilik": "atalarımızı"
+  },
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) böyle, bunun gibi",
+   "karsilik": "böyle"
+  },
+  {
+   "kelime": "يَفْعَلُونَ",
+   "okunus": "yef'alûne",
+   "kok": "فعل",
+   "kokAnlam": "yapma, eyleme",
+   "karsilik": "yaparlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "İbrahim'in üç sorusuna -duyma, fayda, zarar- kavim hiçbir cevap veremez; sadece atalarını böyle yapar bulduklarını tekrarlar. 'Bel' (hayır/aksine) kelimesi, konuyu değiştirdiklerini gösterir.",
+  "Bu cevap, 71. ayette söylenenin aynısıdır; kavim aynı gerekçeye geri döner. Klasik tefsir, bunu delilsiz bir inancın taklit yoluyla nasıl nesilden nesile aktarıldığının bir örneği olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "43:23",
+   "meal": "Biz atalarımızı bir din üzerinde bulduk, biz de onların izinden gidiyoruz.",
+   "baglanti": "Zuhruf suresi, aynı gerekçenin İbrahim'in kavmiyle sınırlı olmadığını, gönderilen her uyarıcının karşısında tekrarlandığını gösterir."
+  },
+  {
+   "ref": "2:170",
+   "meal": "Onlara 'Allah'ın indirdiğine uyun' denildiğinde, 'Hayır, atalarımızı üzerinde bulduğumuz şeye uyarız' derler; ataları bir şey akıl etmeyen ve doğru yolu bulamayan kimseler olsa da mı?",
+   "baglanti": "Bakara suresi, atalara körü körüne uymanın akıl ve hidayetten yoksun olabileceğini açıkça sorar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kavmin sorulara cevap veremeyip alışkanlığa sığınmasıdır.",
+  "Bugüne taşınabilecek ders, bir soruya cevap veremediğinde 'hep böyle yapılırdı' demenin, o soruyu cevaplamak olmadığıdır. Gerçek bir cevap, gerekçe ister; sadece geçmişe atıf yapmak yeterli değildir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gerekçeni ara",
+   "aciklama": "Bugün bir görüşünü savunurken 'hep böyleydi' demek yerine gerçek bir gerekçe bulmaya çalış."
+  },
+  {
+   "baslik": "Aile alışkanlığını değerlendir",
+   "aciklama": "Ailenden devraldığın bir tutumu bugün iyi mi kötü mü diye ayrı ayrı düşün."
+  },
+  {
+   "baslik": "Cevapsız kalmayı fark et",
+   "aciklama": "Bir tartışmada cevap veremediğini fark ettiğinde, bunu kabul etmekten çekinme."
+  }
+ ],
+ "bugununAdimi": "Bugün 'hep böyle yapılırdı' diyerek savunduğun bir görüşün gerçek bir gerekçesi var mı diye kendine sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=74"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/74"
+  }
+ ]
+}

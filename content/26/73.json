@@ -1,0 +1,82 @@
+{
+ "sure": 26,
+ "ayet": 73,
+ "durum": "taslak",
+ "meal": "Yahut size fayda veya zarar veriyorlar mı?",
+ "mealNotu": "'Nefeûneküm' نفع ve 'yedurrûne' ضرر kökleri fayda ve zararı karşılıklı anlatır; soru dizisi böylece duymaktan etki edebilme gücüne genişler.",
+ "kokler": [
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "يَنفَعُونَكُمْ",
+   "okunus": "yenfeûneküm",
+   "kok": "نفع",
+   "kokAnlam": "fayda verme",
+   "karsilik": "size fayda veriyorlar"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "يَضُرُّونَ",
+   "okunus": "yedurrûne",
+   "kok": "ضرر",
+   "kokAnlam": "zarar verme",
+   "karsilik": "zarar veriyorlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "İbrahim'in sorusu bir adım daha ilerler: putlar duymasalar bile, en azından bir fayda ya da zarar verebiliyorlar mı? Soru, tapınmanın mantıklı bir temelinin olup olmadığını arar.",
+  "Fayda ve zarar verme gücü, bir varlığın gerçekten güvenilip bağlanılacak bir 'ilah' olup olmadığının en somut ölçüsüdür. İbrahim, kavminin cevap veremeyeceği bir soruyu art arda sorarak onları kendi mantıklarıyla yüzleştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:106",
+   "meal": "Allah'ı bırakıp sana fayda da zarar da veremeyecek şeylere yalvarma; eğer böyle yaparsan şüphesiz zalimlerden olursun.",
+   "baglanti": "Yûnus suresi, aynı 'fayda-zarar' ölçüsünü doğrudan bir uyarıya dönüştürür; İbrahim'in sorusu burada bir emre bağlanır."
+  },
+  {
+   "ref": "21:66",
+   "meal": "Dedi ki: 'Size de, Allah'ı bırakıp taptıklarınıza da yazıklar olsun; hâlâ akıl etmeyecek misiniz?'",
+   "baglanti": "Enbiyâ suresinde İbrahim aynı mantığı sonuçlandırır ve kavmini akıl etmeye çağırır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, putların fayda ya da zarar verme gücünden yoksun olduğudur.",
+  "Bugüne taşınabilecek ders, bir şeye güvenmeden önce onun gerçekten elinde bir güç olup olmadığını değerlendirmektir. Kişi bazen kendisine ne fayda ne zarar veremeyecek şeylere -bir eşyaya, bir söylentiye, bir batıl inanışa- gereğinden fazla önem verebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gücü olanı ayırt et",
+   "aciklama": "Bugün bir konuda kaygılandığında, o şeyin sana gerçekten fayda ya da zarar verecek gücü olup olmadığını düşün."
+  },
+  {
+   "baslik": "Boş inanışı sorgula",
+   "aciklama": "Bir uğur ya da uğursuzluk inancını bugün aklınla bir kez gözden geçir."
+  },
+  {
+   "baslik": "Gerçek fayda kaynağını hatırla",
+   "aciklama": "Bugün sana gelen bir iyiliğin asıl kimden geldiğini bir an düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün fazla önem verdiğin ama aslında sana ne fayda ne zarar veremeyecek bir şeyi belirle ve önemini küçült.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=73"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/73"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "sure": 26,
+ "ayet": 103,
+ "durum": "taslak",
+ "meal": "Şüphesiz bunda bir ayet vardır; ama onların çoğu mümin değildi.",
+ "mealNotu": "'Âyeten' أيي kökü işaret, delil anlamına gelir; İbrahim kıssasının kapanışı, kıssanın kendisini bir 'ayet' olarak nitelendirir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) şu, bu",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "لَءَايَةً",
+   "okunus": "leâyeten",
+   "kok": "أيي",
+   "kokAnlam": "ayet, işaret, delil",
+   "karsilik": "bir ayet vardır"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değildi",
+   "karsilik": "ve değildi"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldu"
+  },
+  {
+   "kelime": "أَكْثَرُهُم",
+   "okunus": "ekseruhüm",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "onların çoğu"
+  },
+  {
+   "kelime": "مُّؤْمِنِينَ",
+   "okunus": "mü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, güvenerek inanan",
+   "karsilik": "mümin"
+  }
+ ],
+ "neAnlatiyor": [
+  "İbrahim kıssası, sure boyunca tekrar eden bir nakaratla kapanır: bu kıssada bir ayet/ibret vardır, ama kavminin çoğu iman etmedi. Burada 8-9. ayetlerdeki aynı nakarattan farklı olarak, ibret bizzat İbrahim'in mücadelesi ve kavminin akıbetidir.",
+  "İbrahim, kavmine üç yalın soruyla (duyma, fayda, zarar) meydan okumuş, kendi Rabbini tanıtmış, bağışlanma ve iyi anılma için dua etmişti; buna rağmen çoğunluk iman etmedi. Bu, delilin varlığıyla insanın onu kabul etmesi arasındaki farkı bir kez daha gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:83",
+   "meal": "İşte bu, kavmine karşı İbrahim'e verdiğimiz delilimizdir; dilediğimizi derecelerle yükseltiriz.",
+   "baglanti": "En'âm suresi, İbrahim'in kavmine karşı sunduğu delili doğrudan 'huccet/delil' olarak adlandırır; burada 'ayet' denilen şey de bu delildir."
+  },
+  {
+   "ref": "37:83",
+   "meal": "Şüphesiz İbrahim de o yoldan gidenlerdendi.",
+   "baglanti": "Sâffât suresi, İbrahim'i Nuh'un yolundan gidenler arasında sayar; bu bağ, Şu'arâ'da İbrahim kıssasının hemen ardından Nuh kıssasına geçilmesiyle örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, İbrahim kıssasının bir ibret olduğu ama kavminin çoğunun iman etmediğidir.",
+  "Bugüne taşınabilecek ders, güçlü ve tutarlı bir delil sunmanın bile herkesi ikna etmeye yetmeyebileceğidir. Bir şeyi doğru anlatmak elindedir; karşı tarafın onu kabul etmesi ise ayrı bir meseledir, bu yüzden sonucu değil çabayı kendi ölçün yap."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sonucu değil çabayı ölç",
+   "aciklama": "Bugün bir konuda emek verip karşılığını hemen alamadığında, çabanın kendisinin değerli olduğunu hatırla."
+  },
+  {
+   "baslik": "İbret al",
+   "aciklama": "Bugün okuduğun bir kıssadan kendi hayatın için bir ders çıkar."
+  },
+  {
+   "baslik": "Israrla anlat",
+   "aciklama": "Doğru bildiğin bir şeyi, ilk seferde kabul görmese de sabırla anlatmaya devam et."
+  }
+ ],
+ "bugununAdimi": "Bugün emek verdiğin bir işte, karşılığını hemen görmesen de çabanın kendisinin değerli olduğunu kendine hatırlat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=103"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/103"
+  }
+ ]
+}

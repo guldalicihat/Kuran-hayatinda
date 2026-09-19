@@ -1,0 +1,75 @@
+{
+ "sure": 26,
+ "ayet": 76,
+ "durum": "taslak",
+ "meal": "Siz ve önceki atalarınız?",
+ "mealNotu": "'Ekdemûn' قدم kökünden, öncelik ve eskiliği anlatır; ayet, önceki ayetteki soruyu kavmin tüm geçmişini kapsayacak şekilde genişletir.",
+ "kokler": [
+  {
+   "kelime": "أَنتُمْ",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "وَءَابَآؤُكُمُ",
+   "okunus": "ve âbâükümü",
+   "kok": "أبو",
+   "kokAnlam": "baba, ata",
+   "karsilik": "ve atalarınız"
+  },
+  {
+   "kelime": "ٱلْأَقْدَمُونَ",
+   "okunus": "el'ekdemûne",
+   "kok": "قدم",
+   "kokAnlam": "öncelik, eskilik",
+   "karsilik": "önceki"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu kısa ayet, 75. ayetteki soruyu tamamlar: İbrahim'in sorduğu 'taptığınız şeyi düşündünüz mü' sorusu, hem bugünkü kavmi hem de en eski atalarını kapsar.",
+  "İbrahim böylece, 'atalarımızı böyle bulduk' savunmasının aslında bir cevap değil, sorunun daha da geriye, tüm bir soy zincirine taşınması olduğunu gösterir; taklit zincirinin başında da aynı sorgulanmamışlık vardır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "34:43",
+   "meal": "Onlara ayetlerimiz açıkça okunduğunda derler ki: 'Bu, sizi atalarınızın taptığından çevirmek isteyen bir adamdır.'",
+   "baglanti": "Sebe' suresi, atalara bağlılığın, gönderilen her uyarıya karşı ortak bir savunma biçimi olduğunu gösterir."
+  },
+  {
+   "ref": "43:22",
+   "meal": "Hayır, dediler ki: 'Biz atalarımızı bir din üzerinde bulduk, biz de onların izinde doğru yola gidiyoruz.'",
+   "baglanti": "Zuhruf suresi, 'atalar' savunmasının hem bugünkü kuşağı hem eskileri kapsayan aynı mantığını tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, sorgulamanın kavmin tüm atalarını da kapsayacak şekilde genişletilmesidir.",
+  "Bugüne taşınabilecek ders, 'herkes hep böyle yaptı' savunmasının, geçmişe gidildikçe daha da zayıfladığıdır. Bir düşüncenin eski olması, onu doğru kılmaz; eskiliğin kendisi bir delil değildir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Eskiliği delil sanma",
+   "aciklama": "Bugün 'çok eskiden beri böyle' dediğin bir görüşün, eskiliği dışında bir dayanağı var mı diye düşün."
+  },
+  {
+   "baslik": "Kuşaklar arası konuş",
+   "aciklama": "Ailende nesilden nesile aktarılan bir tutumu bugün büyüklerinle konuş, nedenini sor."
+  },
+  {
+   "baslik": "Kendi zincirini kır",
+   "aciklama": "Sağlıksız bulduğun ama ailede süregelen bir alışkanlığı, bugün kendi hayatında değiştirmeye başla."
+  }
+ ],
+ "bugununAdimi": "Bugün ailende nesilden nesile aktarılan bir alışkanlığın gerçek gerekçesini bir büyüğüne sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=76"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/76"
+  }
+ ]
+}

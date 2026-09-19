@@ -1,0 +1,103 @@
+{
+ "sure": 26,
+ "ayet": 102,
+ "durum": "taslak",
+ "meal": "'Keşke bizim için bir geri dönüş olsaydı da müminlerden olsaydık.'",
+ "mealNotu": "'Kerraten' كرر kökü tekrarı, geri dönüşü anlatır; azgınlar burada artık imkânsız olan bir temenniyi dile getirir.",
+ "kokler": [
+  {
+   "kelime": "فَلَوْ",
+   "okunus": "felev",
+   "kok": "—",
+   "kokAnlam": "(şart, temenni) keşke",
+   "karsilik": "keşke"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) olsaydı",
+   "karsilik": "olsaydı"
+  },
+  {
+   "kelime": "لَنَا",
+   "okunus": "lenâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) bizim için",
+   "karsilik": "bizim için"
+  },
+  {
+   "kelime": "كَرَّةً",
+   "okunus": "kerraten",
+   "kok": "كرر",
+   "kokAnlam": "tekrar, geri dönüş",
+   "karsilik": "bir geri dönüş"
+  },
+  {
+   "kelime": "فَنَكُونَ",
+   "okunus": "fenekûne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olsaydık"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنِينَ",
+   "okunus": "elmü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, güvenerek inanan",
+   "karsilik": "müminlerden"
+  }
+ ],
+ "neAnlatiyor": [
+  "İtirafın son cümlesi bir temennidir: azgınlar, dünyaya bir kez daha dönüp mümin olmayı dilerler. Ancak bu dilek, kıyametin gerçekleştiği o anda artık imkânsızdır; sadece geç kalmış bir pişmanlığı ifade eder.",
+  "Bu temenni, Kur'an'da farklı sahnelerde tekrar eden bir motiftir; ölüm ve hesap anında insanın 'bir fırsat daha' istemesi, hep aynı gerçeği hatırlatır: fırsat, yaşarken elde iken değerlendirilmelidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:27",
+   "meal": "Ateşin karşısında durduruldukları vakit görsen: 'Keşke geri döndürülsek de Rabbimizin ayetlerini yalanlamasak ve müminlerden olsak' derler.",
+   "baglanti": "En'âm suresi, cehennem karşısındaki bu temenniyi neredeyse aynı ifadeyle -müminlerden olma dileği- aktarır."
+  },
+  {
+   "ref": "23:99",
+   "meal": "Onlardan birine ölüm geldiğinde der ki: 'Rabbim, beni geri döndür; belki bıraktığım yerde salih bir amel işlerim.'",
+   "baglanti": "Mü'minûn suresi, aynı 'geri dönüş' temennisinin ölüm anında da dile getirildiğini gösterir; ikisi de artık geç kalmış bir isteği anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, azgınların artık imkânsız olan bir geri dönüş temennisidir.",
+  "Bugüne taşınabilecek ders, 'bir gün düzeltirim' diyerek ertelemenin riskli olduğudur. Fırsat elindeyken -bugün- değerlendirilmeyen bir iyilik, yarın sadece bir temenni olarak kalabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugünü fırsat bil",
+   "aciklama": "Yarına ertelediğin bir iyiliği bugün yapmaya çalış."
+  },
+  {
+   "baslik": "Temenniyi eyleme çevir",
+   "aciklama": "'Keşke şunu yapsaydım' dediğin bir şeyi bugün gerçekten yapmaya başla."
+  },
+  {
+   "baslik": "Zamanın kıymetini hatırla",
+   "aciklama": "Bugün elindeki zamanın geri gelmeyeceğini bir an düşün ve onu iyi kullan."
+  }
+ ],
+ "bugununAdimi": "Bugün 'bir gün yaparım' diyerek ertelediğin bir iyiliği şimdi yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=102"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/102"
+  }
+ ]
+}

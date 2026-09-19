@@ -1,0 +1,89 @@
+{
+ "sure": 26,
+ "ayet": 75,
+ "durum": "taslak",
+ "meal": "Dedi ki: 'Peki, taptığınız şeyi hiç düşündünüz mü?'",
+ "mealNotu": "'Eferaeytüm' رأي kökünden, gözlemlemeyi ve üzerinde düşünmeyi anlatır; soru kalıbı sonraki ayetle birlikte tek bir cümle oluşturur.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "dedi ki"
+  },
+  {
+   "kelime": "أَفَرَءَيْتُم",
+   "okunus": "eferaeytüm",
+   "kok": "رأي",
+   "kokAnlam": "görme, düşünüp değerlendirme",
+   "karsilik": "hiç düşündünüz mü"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şey",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduğunuz"
+  },
+  {
+   "kelime": "تَعْبُدُونَ",
+   "okunus": "ta'büdûne",
+   "kok": "عبد",
+   "kokAnlam": "kulluk, tapınma",
+   "karsilik": "tapıyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "İbrahim, kavminin cevapsız kalmasının ardından tartışmayı yeni bir düzeye taşır: 'Taptığınız şeyi hiç düşündünüz mü?' Bu soru, hem kendilerinin hem de atalarının taptıklarını kapsayan geniş bir sorgulamaya kapı açar.",
+  "Cümle, sonraki ayetteki 'siz ve önceki atalarınız' ifadesiyle tamamlanır. İbrahim burada yalnız kendi kavmini değil, taklit zincirinin tamamını -en eski atadan bugüne- sorgulamaya dahil eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "37:95",
+   "meal": "Dedi ki: 'Kendi yonttuğunuz şeylere mi tapıyorsunuz?'",
+   "baglanti": "Sâffât suresinde İbrahim, aynı sorgulamayı putların insan eliyle yapıldığını hatırlatarak daha da somutlaştırır."
+  },
+  {
+   "ref": "6:74",
+   "meal": "Hani İbrahim, babası Âzer'e demişti ki: 'Sen putları ilahlar mı ediniyorsun? Doğrusu ben seni ve kavmini apaçık bir sapıklık içinde görüyorum.'",
+   "baglanti": "En'âm suresi, İbrahim'in bu sorgulamaya babasıyla başladığını gösterir; iki anlatım birbirini tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, İbrahim'in kavmini taptıkları şey üzerinde düşünmeye çağırmasıdır.",
+  "Bugüne taşınabilecek ders, zaman ayırıp inandığın ya da bağlandığın şeyi gerçekten 'düşünüp düşünmediğini' sormaktır. Çoğu zaman bir şeye bağlılık, üzerinde hiç durup düşünülmeden sürer gider."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir kez dur ve düşün",
+   "aciklama": "Bugün üzerinde hiç durup düşünmediğin bir inancını ya da tutumunu beş dakika sessizce değerlendir."
+  },
+  {
+   "baslik": "Soruyu kendine yönelt",
+   "aciklama": "'Neden buna inanıyorum, neden bunu yapıyorum' sorusunu bugün en az bir konuda kendine sor."
+  },
+  {
+   "baslik": "Cevabı yazıya dök",
+   "aciklama": "Düşündüğün bir konunun cevabını bugün kısa bir not olarak yaz."
+  }
+ ],
+ "bugununAdimi": "Bugün üzerinde hiç düşünmediğin bir bağlılığını seç ve beş dakika onun üzerine düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=75"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/75"
+  }
+ ]
+}

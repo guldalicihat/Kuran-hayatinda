@@ -1,0 +1,96 @@
+{
+ "sure": 26,
+ "ayet": 71,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'Putlara tapıyoruz, onlara tapmaya devam ediyoruz.'",
+ "mealNotu": "'Zallü' ظلل kökü sürekliliği, bir halde ısrarla kalmayı anlatır; bu yüzden yalnız 'tapıyoruz' değil 'tapmaya devam ediyoruz' denmiştir. 'Âkifîn' عكف kökü bir şeye bağlanıp ondan ayrılmamayı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "dediler ki"
+  },
+  {
+   "kelime": "نَعْبُدُ",
+   "okunus": "na'büdü",
+   "kok": "عبد",
+   "kokAnlam": "kulluk, tapınma",
+   "karsilik": "tapıyoruz"
+  },
+  {
+   "kelime": "أَصْنَامًا",
+   "okunus": "asnâmen",
+   "kok": "صنم",
+   "kokAnlam": "put, heykel",
+   "karsilik": "putlara"
+  },
+  {
+   "kelime": "فَنَظَلُّ",
+   "okunus": "fenezallü",
+   "kok": "ظلل",
+   "kokAnlam": "sürekli bir halde kalma",
+   "karsilik": "tapmaya devam ediyoruz"
+  },
+  {
+   "kelime": "لَهَا",
+   "okunus": "lehâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "عَٰكِفِينَ",
+   "okunus": "âkifîne",
+   "kok": "عكف",
+   "kokAnlam": "bir şeye bağlanıp ayrılmama",
+   "karsilik": "bağlı kalanlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "İbrahim'in sorusuna kavminin cevabı gelir: putlara taptıklarını ve bu tapınmayı sürekli sürdürdüklerini söylerler. Cevapta bir gerekçe yoktur, yalnızca alışkanlığın ısrarla devam ettirilmesi vardır.",
+  "'Âkifîn' kelimesi, bir yere veya bir davranışa kendini kapatıp bağlanmayı anlatır; kavim, putlara neden taptığını değil, o bağlılığı nasıl sürdürdüğünü anlatmayı tercih eder. Bu, ilerleyen ayetlerde İbrahim'in sorularıyla iyice görünür hale gelecek bir savunmasızlığın ilk işaretidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "21:53",
+   "meal": "Dediler ki: 'Atalarımızı bunlara tapar bulduk.'",
+   "baglanti": "Enbiyâ suresindeki aynı sahnede kavim, tapınmalarının gerekçesini yine atalarına dayandırır; iki anlatım birbirini tamamlar."
+  },
+  {
+   "ref": "7:138",
+   "meal": "İsrailoğulları'nın yanından geçtikleri bir kavim, kendi putlarına tapıyordu; dediler ki: 'Ey Musa, bunların ilahları gibi bize de bir ilah yap.'",
+   "baglanti": "A'râf suresi, put tapımının İbrahim'in kavmiyle sınırlı olmadığını, başka topluluklarda da aynı ısrarla sürdüğünü gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, İbrahim'in kavminin putlara tapma alışkanlığını sürdürmesidir.",
+  "Bugüne taşınabilecek ders, bir davranışı 'öyle alıştık' diyerek sürdürmenin, onu doğru kılmadığıdır. Bir şeye bağlı kalmak, o şeyin gerçekten doğru ya da faydalı olduğunu göstermez; bağlılığın nedenini ara sıra sorgulamak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Alışkanlığının nedenini yaz",
+   "aciklama": "Bugün sürdürdüğün bir alışkanlığın gerçek nedenini bir cümleyle yaz; 'öyle alıştım' yeterli bir cevap mı düşün."
+  },
+  {
+   "baslik": "Bağlılığını gözden geçir",
+   "aciklama": "Zamanını en çok verdiğin şeyin, seni nereye götürdüğünü bugün bir kez düşün."
+  },
+  {
+   "baslik": "Sorgulamaya açık ol",
+   "aciklama": "Bugün biri sana 'neden böyle yapıyorsun' diye sorarsa savunmaya geçmeden, önce cevabı kendine sor."
+  }
+ ],
+ "bugununAdimi": "Bugün 'öyle alıştım' diyerek sürdürdüğün bir davranışı seç ve gerçekten gerekli mi diye değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=71"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/71"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "sure": 26,
+ "ayet": 90,
+ "durum": "taslak",
+ "meal": "Cennet, takva sahiplerine yaklaştırılır.",
+ "mealNotu": "'Üzlifet' زلف kökü yaklaştırmayı anlatır; 'müttekîn' وقي kökünden, korunan, sakınan kimseleri ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَأُزْلِفَتِ",
+   "okunus": "ve üzlifeti",
+   "kok": "زلف",
+   "kokAnlam": "yaklaştırma",
+   "karsilik": "ve yaklaştırıldı"
+  },
+  {
+   "kelime": "ٱلْجَنَّةُ",
+   "okunus": "elcennetü",
+   "kok": "جنن",
+   "kokAnlam": "örtülü bahçe, cennet",
+   "karsilik": "cennet"
+  },
+  {
+   "kelime": "لِلْمُتَّقِينَ",
+   "okunus": "lilmüttekîne",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "takva sahiplerine"
+  }
+ ],
+ "neAnlatiyor": [
+  "Anlatım, İbrahim'in duasından kıyamet sahnesinin doğrudan tasvirine geçer. Cennet, takva sahiplerine yaklaştırılır; onlar için görünür ve erişilir kılınır.",
+  "Bu sahne, 89. ayetteki 'selim kalple gelen kurtulur' sözünün somut bir karşılığıdır. Selim kalple gelenler, aynı zamanda takva sahibi olanlardır; cennetin onlara yaklaştırılması, o duanın kabulünün görsel bir tasviridir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "81:13",
+   "meal": "Cennet yaklaştırıldığında.",
+   "baglanti": "Tekvîr suresi, kıyamet sahnelerini sıralarken aynı fiili -yaklaştırma- neredeyse birebir aynı ifadeyle kullanır."
+  },
+  {
+   "ref": "50:31",
+   "meal": "Cennet de takva sahiplerine, uzak olmaksızın yaklaştırılır.",
+   "baglanti": "Kâf suresi, aynı sahneyi 'uzak olmaksızın' ifadesiyle pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyamet gününde cennetin takva sahiplerine yaklaştırılmasıdır.",
+  "Bugüne taşınabilecek ders, takvanın -sakınmanın, dikkatli yaşamanın- uzak bir hedefe değil, gerçek bir yakınlığa götürdüğünü bilmektir. Bugünkü küçük sakınmalar, yarının yakınlığını hazırlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir sakınma göster",
+   "aciklama": "Bugün yapmak isteyip de zararlı olduğunu bildiğin küçük bir şeyden kendini alıkoy."
+  },
+  {
+   "baslik": "Yakınlığı hayal et",
+   "aciklama": "Bugün kısa bir an, çabalarının seni nereye yaklaştırdığını düşün."
+  },
+  {
+   "baslik": "Takvayı somutlaştır",
+   "aciklama": "Bugün bir haramdan ya da şüpheli bir işten uzak durarak takvanı somut bir davranışa dök."
+  }
+ ],
+ "bugununAdimi": "Bugün zararlı olduğunu bildiğin küçük bir şeyden bilinçli olarak uzak dur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=90"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/90"
+  }
+ ]
+}

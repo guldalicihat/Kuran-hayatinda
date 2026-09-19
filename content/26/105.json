@@ -1,0 +1,82 @@
+{
+ "sure": 26,
+ "ayet": 105,
+ "durum": "taslak",
+ "meal": "Nuh'un kavmi de gönderilen elçileri yalanladı.",
+ "mealNotu": "'Kezzebet' كذب kökü yalanlamayı anlatır; 'mürselîn' مرسلين çoğul kullanılır, çünkü tek bir elçiyi yalanlamak, gönderilen tüm elçileri yalanlamakla bir tutulur.",
+ "kokler": [
+  {
+   "kelime": "كَذَّبَتْ",
+   "okunus": "kezzebet",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanladı"
+  },
+  {
+   "kelime": "قَوْمُ",
+   "okunus": "kavmü",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk, kavim",
+   "karsilik": "kavmi"
+  },
+  {
+   "kelime": "نُوحٍ",
+   "okunus": "nûhin",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Nuh",
+   "karsilik": "Nuh'un"
+  },
+  {
+   "kelime": "ٱلْمُرْسَلِينَ",
+   "okunus": "elmürselîne",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi gönderme",
+   "karsilik": "gönderilen elçileri"
+  }
+ ],
+ "neAnlatiyor": [
+  "İbrahim kıssasının kapanışının hemen ardından, sure yeni bir kıssaya geçer: Nuh. Bu ayet, surenin tekrar eden yapısına uygun bir açılış cümlesidir; her yeni kıssa, kavmin elçiyi yalanlamasıyla başlar.",
+  "'Mürselîn' kelimesinin çoğul kullanılması dikkat çekicidir; oysa Nuh'un kavmine gönderilen tek bir peygamberdi. Klasik tefsir bunu, bir elçiyi yalanlamanın aslında tüm elçilerin getirdiği ortak mesajı -Allah'ın birliği, hesap günü- yalanlamak anlamına geldiği şeklinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "71:1",
+   "meal": "Şüphesiz biz Nuh'u kavmine, 'Kavmini, onlara acı bir azap gelmeden önce uyar' diye gönderdik.",
+   "baglanti": "Nuh suresi, bu ayette kısaca anılan gönderilişi baştan itibaren ayrıntılı olarak anlatır."
+  },
+  {
+   "ref": "25:37",
+   "meal": "Nuh kavmini de, elçileri yalanladıklarında suda boğduk ve onları insanlar için bir ibret kıldık.",
+   "baglanti": "Furkân suresi, bu yalanlamanın sonucunu -boğulma ve ibret olma- doğrudan bildirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Nuh'un kavminin kendilerine gönderilen elçiyi yalanlamasıdır.",
+  "Bugüne taşınabilecek ders, bir uyarıyı -tek bir kişiden de gelse- hemen reddetmeden önce üzerinde düşünmektir. Sure boyunca tekrarlanan bu örüntü, her nesle aynı temel mesajın farklı elçilerle ulaştığını ve reddedilme riskinin hep var olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Uyarıyı hemen reddetme",
+   "aciklama": "Bugün birinin sana yaptığı haklı bir uyarıyı, savunmaya geçmeden önce düşün."
+  },
+  {
+   "baslik": "Ortak mesajı hatırla",
+   "aciklama": "Bugün farklı peygamberlerin getirdiği ortak çağrının -Allah'ın birliği ve doğruluk- ne olduğunu bir düşün."
+  },
+  {
+   "baslik": "Nuh kıssasını oku",
+   "aciklama": "Bugün Nuh kıssasının devamını okuyarak bu uyarı-reddediş örüntüsünü takip et."
+  }
+ ],
+ "bugununAdimi": "Bugün sana yapılan haklı bir uyarıyı savunmaya geçmeden önce sakince düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=105"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/105"
+  }
+ ]
+}
