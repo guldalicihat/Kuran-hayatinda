@@ -1,0 +1,117 @@
+{
+ "sure": 43,
+ "ayet": 30,
+ "durum": "taslak",
+ "meal": "Hak kendilerine gelince, 'Bu bir sihirdir, biz onu inkâr ediyoruz' dediler.",
+ "mealNotu": "'Sihr' kökü büyü, göz boyama anlamındadır; müşrikler Kur'an'ı bu şekilde nitelendirerek reddetmişlerdir.",
+ "kokler": [
+  {
+   "kelime": "وَلَمَّا",
+   "okunus": "ve lemmâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -ince",
+   "karsilik": "-ince"
+  },
+  {
+   "kelime": "جَآءَهُمُ",
+   "okunus": "câehümü",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "kendilerine geldi"
+  },
+  {
+   "kelime": "ٱلْحَقُّ",
+   "okunus": "elhakku",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, hak",
+   "karsilik": "hak"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "سِحْرٌ",
+   "okunus": "sihrun",
+   "kok": "سحر",
+   "kokAnlam": "büyü, göz boyama",
+   "karsilik": "bir sihirdir"
+  },
+  {
+   "kelime": "وَإِنَّا",
+   "okunus": "ve innâ",
+   "kok": "—",
+   "kokAnlam": "(tekid) ve şüphesiz biz",
+   "karsilik": "ve biz"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "كَٰفِرُونَ",
+   "okunus": "kâfirûne",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "inkâr ediyoruz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayette anılan 'hak ve apaçık elçi'nin karşılandığı tepkiyi gösterir: Mekke müşrikleri, kendilerine gelen hakkı doğrudan reddederek onu sihir diye nitelendirmişlerdir. Bu, önceki ayetlerdeki 'sihirdir' suçlamasının (bk. 30. ayet öncesi bağlam) tekrarıdır.",
+  "'Biz onu inkâr ediyoruz' sözü, bu reddin bir bilgi eksikliğinden değil, bilinçli bir ret kararından kaynaklandığını gösterir. Sonraki ayetler (31-32), bu redde eşlik eden başka bir itirazı -Kur'an'ın neden büyük bir adama indirilmediğini- aktaracaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "38:4",
+   "meal": "Kendilerinden bir uyarıcı geldiğine şaştılar; kâfirler dediler ki: 'Bu bir sihirbazdır, yalancıdır.'",
+   "baglanti": "Bu ayet, Zuhruf 30'daki 'sihir' suçlamasının benzerini taşır; müşrikler hakkı sihirle açıklayarak reddetmiştir."
+  },
+  {
+   "ref": "21:3",
+   "meal": "Kalpleri oyalanmış olarak... zalimler gizlice fısıldaştılar: 'Bu, sizin gibi bir insandan başka biri mi? Göz göre göre sihre mi kapılacaksınız?'",
+   "baglanti": "Bu ayet de aynı 'sihir' itirazını, elçinin de kendileri gibi bir insan olduğu itirazıyla birleştirir; Zuhruf'un ilerleyen ayetlerindeki 'büyük adam' itirazına bir köprü kurar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hakkın gelmesine rağmen onun bilinçli biçimde reddedilmesidir; bu bir inkâr tutumunun anlatımıdır.",
+  "Buradan çıkarılabilecek ders, doğru bir şeyi sadece alışılmadık ya da rahatsız edici geldiği için hemen etiketleyip reddetmemektir. Yeni bir bilgi veya öneriyle karşılaştığında, onu incelemeden 'saçmalık' diye geçiştirmek yerine önce anlamaya çalışmak daha sağlıklıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Peşin hükümden kaçın",
+   "aciklama": "Bugün seni rahatsız eden bir fikri, incelemeden hemen reddetme; önce anlamaya çalış."
+  },
+  {
+   "baslik": "Etiketlemeden değerlendir",
+   "aciklama": "Bir görüşü 'saçma, anlamsız' diye etiketlemeden önce içeriğine bak."
+  },
+  {
+   "baslik": "Açık fikirli ol",
+   "aciklama": "Bugün seninkinden farklı bir görüşü, savunmaya geçmeden önce sonuna kadar dinle."
+  }
+ ],
+ "bugununAdimi": "Bugün seni rahatsız eden bir fikri, hemen reddetmeden önce sonuna kadar dinle veya oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=43&verse=30"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/43/30"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "sure": 43,
+ "ayet": 25,
+ "durum": "taslak",
+ "meal": "Bu yüzden onlardan intikam aldık; bak, yalanlayanların sonu nasıl oldu.",
+ "mealNotu": "'Nakm' kökü karşılık verme, intikam alma anlamındadır. 'Âkıbet' kökü sonuç, bir şeyin varacağı son nokta demektir.",
+ "kokler": [
+  {
+   "kelime": "فَٱنتَقَمْنَا",
+   "okunus": "fentekamnâ",
+   "kok": "نقم",
+   "kokAnlam": "karşılık verme, intikam alma",
+   "karsilik": "bu yüzden intikam aldık"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "فَٱنظُرْ",
+   "okunus": "fenzur",
+   "kok": "نظر",
+   "kokAnlam": "bakma",
+   "karsilik": "bak"
+  },
+  {
+   "kelime": "كَيْفَ",
+   "okunus": "keyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldu"
+  },
+  {
+   "kelime": "عَٰقِبَةُ",
+   "okunus": "âkıbetü",
+   "kok": "عقب",
+   "kokAnlam": "sonuç, akıbet",
+   "karsilik": "sonu"
+  },
+  {
+   "kelime": "ٱلْمُكَذِّبِينَ",
+   "okunus": "elmükezzibîne",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanlayanların"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 23-24. ayetlerde anlatılan direnişin sonucunu bildirir: elçiyi ve getirdiği doğruyu inatla reddedenler, sonunda ilahi karşılıkla (intikamla) karşılaştılar. Bu, hem geçmiş uyarıcıların hem de dolaylı olarak Hz. Muhammed'in (a.s.) muhataplarının akıbetine bir işarettir.",
+  "'Bak, yalanlayanların sonu nasıl oldu' ifadesi, dinleyiciyi tarihe bakmaya, geçmiş kavimlerin başına gelenlerden ibret almaya çağırır. Bu, Kur'an'da sıkça tekrarlanan bir formüldür ve kıssaların sonunda genellikle bir uyarı işlevi görür."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:11",
+   "meal": "De ki: Yeryüzünde gezin de yalanlayanların sonunun nasıl olduğuna bir bakın.",
+   "baglanti": "Bu ayet, Zuhruf 25'teki 'bak, yalanlayanların sonu nasıl oldu' ifadesiyle neredeyse birebir aynıdır; ikisi de aynı ibret çağrısını taşır."
+  },
+  {
+   "ref": "27:69",
+   "meal": "De ki: Yeryüzünde gezin de suçluların sonunun nasıl olduğuna bir bakın.",
+   "baglanti": "Bu ayet de aynı ibret formülünü tekrarlar; Kur'an'da kıssaların sonunda sıkça tekrarlanan bu çağrı, Zuhruf 25'te de aynı işlevi görür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş toplumların akıbetinden ibret alınmasıdır; bu bir tarih ve uyarı dersidir.",
+  "Buradan çıkarılabilecek ders, bir davranışın sonucunu görmeden onu sürdürmenin riskli olduğudur. Geçmişte benzer bir yolu seçenlerin nereye vardığına bakmak, bugünkü kararlarımızı daha bilinçli almamıza yardımcı olur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geçmişten ders çıkar",
+   "aciklama": "Bugün bir karar verirken, benzer bir yolu daha önce seçenlerin sonucunu düşün."
+  },
+  {
+   "baslik": "Israrı gözden geçir",
+   "aciklama": "Israrla sürdürdüğün ama sonucu iyi görünmeyen bir tutumu bugün yeniden değerlendir."
+  },
+  {
+   "baslik": "İbret alarak oku",
+   "aciklama": "Bugün bir kıssa okurken, sadece hikâyeyi değil ondan çıkan dersi de not et."
+  }
+ ],
+ "bugununAdimi": "Bugün ısrarla sürdürdüğün ama sonucu iyi olmayan bir tutumu belirle ve değiştirmek için bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=43&verse=25"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/43/25"
+  }
+ ]
+}

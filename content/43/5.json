@@ -1,0 +1,110 @@
+{
+ "sure": 43,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Siz aşırı giden bir topluluk oldunuz diye Zikri sizden tümüyle çekip mi alalım?",
+ "mealNotu": "'Darabe...safhan' kalıbı, bir şeyi bütünüyle bırakıp vazgeçmeyi anlatan bir deyimdir; burada Zikr'in (Kur'an, öğüt) geri çekilmesi anlamında kullanılmıştır. 'Müsrif' kökü ölçüyü aşmayı, aşırı gitmeyi ifade eder.",
+ "kokler": [
+  {
+   "kelime": "أَفَنَضْرِبُ",
+   "okunus": "efenadribü",
+   "kok": "ضرب",
+   "kokAnlam": "vurma; (deyimsel) bırakma, çekip alma",
+   "karsilik": "çekip mi alalım"
+  },
+  {
+   "kelime": "عَنكُمُ",
+   "okunus": "ankümü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "ٱلذِّكْرَ",
+   "okunus": "ezzikra",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlatma; öğüt",
+   "karsilik": "Zikri"
+  },
+  {
+   "kelime": "صَفْحًا",
+   "okunus": "safhan",
+   "kok": "صفح",
+   "kokAnlam": "yüz çevirme, tümüyle vazgeçme",
+   "karsilik": "tümüyle"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) diye",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldunuz"
+  },
+  {
+   "kelime": "قَوْمًا",
+   "okunus": "kavmen",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "bir topluluk"
+  },
+  {
+   "kelime": "مُّسْرِفِينَ",
+   "okunus": "müsrifîne",
+   "kok": "سرف",
+   "kokAnlam": "ölçüyü aşma, aşırı gitme",
+   "karsilik": "aşırı giden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, kınayıcı bir soru biçimindedir: Allah'ın öğüdünü (Zikr, yani Kur'an) sırf muhataplar ona yüz çevirip aşırı gittiler diye tümüyle geri çekmesi düşünülemez. Bu soru, aslında Kur'an'ın gönderilmeye devam edeceğini, insanların inkârının vahyi durdurmayacağını bildirir.",
+  "Ayet böylece hem müşriklerin inatçı tutumuna hem de Allah'ın rahmetinin devamlılığına işaret eder: öğüt, muhatapların tepkisine göre kesilmez. Bu, sonraki ayetlerde anlatılacak olan geçmiş peygamberlerin de aynı direnişle karşılaştığı bilgisine bir giriş oluşturur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:9",
+   "meal": "Şüphesiz Zikr'i biz indirdik, onu koruyacak olan da elbette biziz.",
+   "baglanti": "Bu ayet, Zuhruf 5'teki 'Zikr'i çekip mi alalım?' sorusunun cevabını dolaylı verir: Zikr indirilmiş ve korunacaktır, geri çekilmeyecektir."
+  },
+  {
+   "ref": "21:50",
+   "meal": "Bu (Kur'an) da, indirdiğimiz mübarek bir Zikirdir; şimdi onu inkâr mı ediyorsunuz?",
+   "baglanti": "Kur'an, burada da 'Zikr' olarak anılır ve muhatapların inkârına rağmen bir öğüt olarak sunulmaya devam ettiği vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, vahyin muhatapların tepkisinden bağımsız olarak devam edeceğidir; bu özel bir ilahi karardır.",
+  "Yine de buradan bir ders çıkarılabilir: doğru bir söz ya da öğüt, karşı tarafın önce ilgisiz kalması yüzünden hemen terk edilmemelidir. Israrcı olmadan, usanmadan hatırlatmaya devam etmek bu ayetin ruhuna uygun bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Usanmadan hatırlat",
+   "aciklama": "Bir kez ilgisiz karşılık bulan doğru bir sözü, uygun bir zamanda nazikçe tekrar hatırlat."
+  },
+  {
+   "baslik": "Aşırılıktan kaçın",
+   "aciklama": "Bugün bir konuda ölçüyü kaçırdığını fark edersen (öfke, harcama, söz) hemen dengeye dön."
+  },
+  {
+   "baslik": "Zikirden kopma",
+   "aciklama": "Gün içinde Kur'an'dan veya öğütten uzak kaldığını hissettiğin bir anda, kısa bir ayet veya dua ile bu bağı yenile."
+  }
+ ],
+ "bugununAdimi": "Bugün daha önce birine söylediğin ama karşılık bulmayan doğru bir sözü, nazikçe ve kısa biçimde bir kez daha hatırlat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=43&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/43/5"
+  }
+ ]
+}

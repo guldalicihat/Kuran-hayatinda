@@ -1,0 +1,110 @@
+{
+ "sure": 43,
+ "ayet": 21,
+ "durum": "taslak",
+ "meal": "Yoksa bundan önce onlara bir kitap verdik de ona mı sımsıkı sarılıyorlar?",
+ "mealNotu": "'Müstemsikûn' kökü sıkıca tutunmayı, sarılmayı anlatır. Ayet, müşriklerin iddialarını dayandıracakları önceden verilmiş bir vahiy olmadığını vurgular.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "ءَاتَيْنَٰهُمْ",
+   "okunus": "âteynâhüm",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "onlara verdik"
+  },
+  {
+   "kelime": "كِتَٰبًا",
+   "okunus": "kitâben",
+   "kok": "كتب",
+   "kokAnlam": "yazılı, kayıt altına alınmış söz; kitap",
+   "karsilik": "bir kitap"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِهِۦ",
+   "okunus": "kablihî",
+   "kok": "قبل",
+   "kokAnlam": "önce",
+   "karsilik": "bundan önce"
+  },
+  {
+   "kelime": "فَهُم",
+   "okunus": "fehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "de onlar"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "مُسْتَمْسِكُونَ",
+   "okunus": "müstemsikûne",
+   "kok": "مسك",
+   "kokAnlam": "sıkıca tutunma, sarılma",
+   "karsilik": "sımsıkı mı sarılıyorlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 20. ayetteki 'bilgisiz tahmin' eleştirisini sürdürür: müşriklerin şirk anlayışlarına dayanak olacak, önceden Allah tarafından verilmiş bir kitapları var mıdır? Sorunun cevabı bellidir: hayır, böyle bir kitap yoktur.",
+  "Bu soru, müşriklerin iddialarının ne akla ne de vahye dayandığını gösterir. Bir sonraki ayet, onların gerçek dayanağının ne olduğunu -atalarının yolu- açıklayacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "35:40",
+   "meal": "De ki: Allah'tan başka çağırdıklarınızı gördünüz mü? Bana gösterin, yerden ne yarattılar? Yoksa göklerde bir ortaklıkları mı var? Yoksa biz onlara bir kitap verdik de onlar ondan bir delil üzerinde midirler?",
+   "baglanti": "Bu ayet de aynı soruyu -bir kitaba dayanıp dayanmadıklarını- sorar; Zuhruf 21'deki mantığın bir benzeridir."
+  },
+  {
+   "ref": "68:37",
+   "meal": "Yoksa size ait bir kitap var da ondan mı okuyup öğreniyorsunuz?",
+   "baglanti": "Bu ayet de aynı soru kalıbını kullanarak müşriklerin iddialarının bir kitaba dayanmadığını vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, müşriklerin iddialarının hiçbir vahye dayanmadığının ortaya konmasıdır.",
+  "Buradan çıkarılabilecek ders, bir iddiada bulunurken 'buna dayanağım nedir?' diye sormaktır. Sağlam bir kaynağa dayanmayan bir görüşü, sanki kesin bir gerçekmiş gibi savunmak yanıltıcıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaynağını sorgula",
+   "aciklama": "Bugün paylaşacağın veya savunacağın bir bilginin gerçek bir kaynağa dayanıp dayanmadığını kontrol et."
+  },
+  {
+   "baslik": "Dayanaksız iddiayı yayma",
+   "aciklama": "Doğruluğundan emin olmadığın bir haberi bugün başkasına aktarmadan önce bir kez daha düşün."
+  },
+  {
+   "baslik": "Asıl kaynağa dön",
+   "aciklama": "Bir konuda Kur'an'ın ne dediğini merak edersen, yorumlardan önce ayetin kendisine bak."
+  }
+ ],
+ "bugununAdimi": "Bugün paylaşmadan önce bir bilginin kaynağını kontrol ettiğin bir örnek yaşa.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=43&verse=21"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/43/21"
+  }
+ ]
+}

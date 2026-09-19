@@ -1,0 +1,96 @@
+{
+ "sure": 43,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Şüphesiz biz onu, akledesiniz diye Arapça bir Kur'an yaptık.",
+ "mealNotu": "'Ceale' kökü yapma, kılma anlamındadır. 'Kur'ân' kelimesi 'karae' (okuma, bir araya toplama) kökünden gelir. 'Ta'kılûn' fiili 'akıl' kökünden olup düşünüp kavramayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّا",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(tekid) gerçekten, şüphesiz biz",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "جَعَلْنَٰهُ",
+   "okunus": "cealnâhü",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "onu kıldık"
+  },
+  {
+   "kelime": "قُرْءَٰنًا",
+   "okunus": "kur'ânen",
+   "kok": "قرأ",
+   "kokAnlam": "okuma; bir araya toplama, derleme",
+   "karsilik": "bir Kur'an"
+  },
+  {
+   "kelime": "عَرَبِيًّا",
+   "okunus": "arabiyyen",
+   "kok": "عرب",
+   "kokAnlam": "Arapça; açık ifade etme",
+   "karsilik": "Arapça"
+  },
+  {
+   "kelime": "لَّعَلَّكُمْ",
+   "okunus": "lealleküm",
+   "kok": "—",
+   "kokAnlam": "(umut/beklenti) umulur ki, diye",
+   "karsilik": "-siniz diye"
+  },
+  {
+   "kelime": "تَعْقِلُونَ",
+   "okunus": "ta'kılûne",
+   "kok": "عقل",
+   "kokAnlam": "akletme, düşünüp kavrama",
+   "karsilik": "akledesiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki yeminin cevabıdır: Kur'an, akledilsin diye Arapça olarak indirilmiştir. 'Ceale' (kıldı) fiili, Kur'an'ın belirli bir amaçla, belirli bir dilde şekillendirildiğini vurgular; 'ta'kılûn' fiili de bu dilin seçilmesinin amacının anlaşılıp üzerinde düşünülmesi olduğunu gösterir.",
+  "Arapça'nın seçilmesi, ilk muhatapların (Mekke halkının) dili olmasındandır; böylece mesaj doğrudan anlaşılabilir olur. Bu ayet, Kur'an'ın soyut bir sır kitabı değil, akılla kavranması istenen bir mesaj olduğunu ortaya koyar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "12:2",
+   "meal": "Şüphesiz biz onu, akledesiniz diye Arapça bir Kur'an olarak indirdik.",
+   "baglanti": "Yûsuf suresindeki bu ayet, Zuhruf 3. ayetle neredeyse kelimesi kelimesine aynıdır; Kur'an'ın Arapça oluşu ile akletme çağrısı birlikte tekrarlanır."
+  },
+  {
+   "ref": "20:113",
+   "meal": "Böylece biz onu Arapça bir Kur'an olarak indirdik ve onda uyarılardan çeşitli örnekler verdik; belki sakınırlar ya da onlara düşünme (zikr) doğurur.",
+   "baglanti": "Bu ayet de Kur'an'ın Arapça oluşunu, insanların anlayıp sakınmasıyla ilişkilendirir; Zuhruf 3'teki amaç ifadesini pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın diliyle ilgilidir; bunun günlük hayata dersi, anlaşılır iletişimin değeridir.",
+  "Bir mesajın amacına ulaşması için muhatabın anlayacağı dilde, açık biçimde anlatılması gerekir. Bu, hem Kur'an'ı okurken anlamaya çalışmanın hem de başkasıyla konuşurken açık olmanın bir ilkesidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Anlayarak oku",
+   "aciklama": "Bugün Kur'an okurken sadece harfleri değil, mealinden anlamını da takip et."
+  },
+  {
+   "baslik": "Açık konuş",
+   "aciklama": "Bir konuyu anlatırken karşındakinin anlayacağı en sade dili seç, gereksiz karmaşıklıktan kaçın."
+  },
+  {
+   "baslik": "Bir ayeti düşünerek bitir",
+   "aciklama": "Bugün okuduğun bir ayetin üzerinde birkaç dakika durup ne anlattığını kendi cümlelerinle özetle."
+  }
+ ],
+ "bugununAdimi": "Bugün okuduğun bir ayeti, mealiyle birlikte oku ve anlamını kendi cümlelerinle bir kağıda yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=43&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/43/3"
+  }
+ ]
+}

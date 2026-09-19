@@ -1,0 +1,110 @@
+{
+ "sure": 43,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Onlara bir peygamber gelmeye görsün, mutlaka onunla alay ederlerdi.",
+ "mealNotu": "'İllâ...kânû' kalıbı burada 'mutlaka' anlamı veren bir pekiştirmedir. 'İstihza' kökü alay etmeyi, küçümseyerek gülmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "—"
+  },
+  {
+   "kelime": "يَأْتِيهِم",
+   "okunus": "ye'tîhim",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "onlara gelmez"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "نَّبِىٍّ",
+   "okunus": "nebiyyin",
+   "kok": "نبأ",
+   "kokAnlam": "haber; haber getiren",
+   "karsilik": "peygamber"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, dışında",
+   "karsilik": "ancak, mutlaka"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olurlardı"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "يَسْتَهْزِءُونَ",
+   "okunus": "yestehziûne",
+   "kok": "هزأ",
+   "kokAnlam": "alay etme, küçümseyerek gülme",
+   "karsilik": "alay ederler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki 'nice peygamber gönderdik' ifadesinin devamıdır: gönderilen bu peygamberlerin ortak kaderi, kendi toplumları tarafından alay edilmek olmuştur. Ayet bunu istisnasız bir kural gibi ('mutlaka') ifade eder.",
+  "Bu bilgi, Hz. Muhammed'in (a.s.) yaşadığı alay ve inkârın, peygamberlik görevinin tarihinde tekrarlanan bir örüntü olduğunu gösterir. Sonraki ayet (8), bu alay edenlerin akıbetine değinerek konuyu tamamlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:11",
+   "meal": "Onlara hiçbir elçi gelmez ki, onunla alay etmiş olmasınlar.",
+   "baglanti": "Hicr suresindeki bu ayet, Zuhruf 7 ile neredeyse aynı ifadeyi taşır; her iki ayet de alayın peygamberlere karşı tekrarlanan bir tutum olduğunu bildirir."
+  },
+  {
+   "ref": "6:10",
+   "meal": "Senden önceki peygamberlerle de alay edildi de, onlarla alay edenleri, alay ettikleri şey kuşatıverdi.",
+   "baglanti": "Bu ayet, alayla karşılaşan geçmiş peygamberlerin sonunda alay ettikleri şeyin (azabın) kendilerini kuşattığını ekleyerek Zuhruf 7-8'in bütününü tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu peygamberlerin karşılaştığı alaydır; bu özel bir tarihsel/dini örüntüdür.",
+  "Buradan çıkarılabilecek ders, doğru bir şeyi savunurken alay edilmenin başlı başına bir yenilgi göstergesi olmadığıdır. Haklı bir duruş, karşı taraf alay etse bile terk edilmemelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Alaya aldırma",
+   "aciklama": "Bugün doğru bildiğin bir şeyi yaparken biri alay ederse, bunu tutumunu değiştirmek için bir sebep sayma."
+  },
+  {
+   "baslik": "Sakin kal",
+   "aciklama": "Alaycı bir söze öfkeyle değil, sakin ve kısa bir cevapla veya sessizlikle karşılık ver."
+  },
+  {
+   "baslik": "Kendi tutumunu gözden geçir",
+   "aciklama": "Başka birinin ciddiye aldığı bir konuda bugün alaycı bir tavır takınmadığından emin ol."
+  }
+ ],
+ "bugununAdimi": "Bugün alay edilmekten çekindiğin için ertelediğin doğru bir davranışı yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=43&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/43/7"
+  }
+ ]
+}

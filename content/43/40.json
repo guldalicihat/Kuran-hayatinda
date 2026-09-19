@@ -1,0 +1,131 @@
+{
+ "sure": 43,
+ "ayet": 40,
+ "durum": "taslak",
+ "meal": "Sağırlara sen mi işittireceksin, yahut körleri ve apaçık bir sapıklık içinde olanı sen mi doğru yola ileteceksin?",
+ "mealNotu": "Buradaki 'sağır' ve 'kör' ifadeleri, gerçek bir işitme/görme engelinden değil, gerçeği duymayı ve görmeyi bilerek reddeden bir tutumdan söz eder; Kur'an'da bu kelimeler sıkça bu mecazi anlamda kullanılır.",
+ "kokler": [
+  {
+   "kelime": "أَفَأَنتَ",
+   "okunus": "efeente",
+   "kok": "—",
+   "kokAnlam": "(zamir+soru) sen mi",
+   "karsilik": "sen mi"
+  },
+  {
+   "kelime": "تُسْمِعُ",
+   "okunus": "tüsmiu",
+   "kok": "سمع",
+   "kokAnlam": "işittirme",
+   "karsilik": "işittireceksin"
+  },
+  {
+   "kelime": "ٱلصُّمَّ",
+   "okunus": "essumme",
+   "kok": "صمم",
+   "kokAnlam": "sağırlık",
+   "karsilik": "sağırlara"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "تَهْدِى",
+   "okunus": "tehdî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme",
+   "karsilik": "doğru yola ileteceksin"
+  },
+  {
+   "kelime": "ٱلْعُمْىَ",
+   "okunus": "el'umye",
+   "kok": "عمي",
+   "kokAnlam": "körlük",
+   "karsilik": "körleri"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olan"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ضَلَٰلٍ",
+   "okunus": "dalâlin",
+   "kok": "ضلل",
+   "kokAnlam": "sapıklık, yoldan çıkma",
+   "karsilik": "sapıklık"
+  },
+  {
+   "kelime": "مُّبِينٍ",
+   "okunus": "mübînin",
+   "kok": "بين",
+   "kokAnlam": "ayırma, açıklama; açık",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki bölümde (36-39) anlatılan gerçeği görmezden gelenlerin durumunu bir soru ile özetler: Peygamber, gerçeği duymayı ve görmeyi bilerek reddeden bu insanları doğru yola iletmekle yükümlü değildir; çünkü bu, onların kendi tercihidir.",
+  "Bu soru, Peygambere bir teselli ve bir hatırlatmadır: herkesi ikna etmek, herkesi doğru yola getirmek onun görevi değildir; onun görevi tebliğdir. Hidayet, kişinin kendi kalp kapısını açmasıyla mümkündür; dışarıdan zorla açılamaz."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "27:80",
+   "meal": "Sen ölülere işittiremezsin, arkalarını dönüp giderlerken sağırlara da çağrıyı duyuramazsın.",
+   "baglanti": "Bu ayet, Zuhruf 40 ile neredeyse aynı ifadeyi taşır; ikisi de gerçeği reddeden kişiye 'işittirmenin' peygamberin elinde olmadığını bildirir."
+  },
+  {
+   "ref": "30:53",
+   "meal": "Sen körleri sapıklıklarından çevirip doğru yola iletemezsin; sen ancak ayetlerimize inananlara işittirebilirsin.",
+   "baglanti": "Bu ayet de aynı gerçeği tekrarlar ve ekler: gerçek işitme, ancak inanmaya açık olanlarda gerçekleşir; Zuhruf 40'taki soruyu tamamlayan bir açıklamadır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamberin inkârcıları ikna etme sorumluluğunun sınırlarıdır; bu bir tebliğ ilkesidir.",
+  "Buradan çıkarılabilecek ders, birini değiştirmenin veya ikna etmenin bizim elimizde olmadığıdır. Elimizden geleni (doğru sözü, güzel örneği) yapmak bize düşer; karşı tarafın kalbini açması ise onun kendi tercihidir. Bu, boşuna kendini tüketmemek için önemli bir sınırdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sorumluluğunu bil",
+   "aciklama": "Bugün birini ikna etmeye çalışırken, elinden geleni yaptıktan sonra sonucu ona bırak, kendini tüketme."
+  },
+  {
+   "baslik": "Israrı bırak",
+   "aciklama": "Defalarca söylediğin ama dinlenmeyen bir uyarıyı bugün baskıyla değil, sabırla tekrar et veya bırak."
+  },
+  {
+   "baslik": "Kendi görevini yap",
+   "aciklama": "Sonucu garanti edemesen bile, bugün doğru bildiğin bir şeyi söylemekten çekinme."
+  }
+ ],
+ "bugununAdimi": "Bugün ikna edemediğin bir konuda, sonucu zorlamadan elinden geleni yapıp bırakmayı dene.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=43&verse=40"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/43/40"
+  }
+ ]
+}

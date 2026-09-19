@@ -1,0 +1,103 @@
+{
+ "sure": 43,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Şüphesiz o, katımızdaki Ana Kitap'ta gerçekten yücedir, hikmet doludur.",
+ "mealNotu": "'Ümmü'l-Kitâb' harfiyen 'Kitab'ın anası/aslı' demektir; ayet bunun mahiyetine dair bir açıklama vermez, bu yüzden meal ayetin kendi ifadesiyle sınırlı tutulmuştur. 'Alî' kökü yüceliği, 'hakîm' kökü hikmet ve sağlamlığı anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَإِنَّهُۥ",
+   "okunus": "ve innehû",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz o",
+   "karsilik": "şüphesiz o"
+  },
+  {
+   "kelime": "فِىٓ",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "أُمِّ",
+   "okunus": "ümmi",
+   "kok": "أمم",
+   "kokAnlam": "ana, temel, asıl",
+   "karsilik": "Ana"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı, kayıt altına alınmış söz",
+   "karsilik": "Kitap'ta"
+  },
+  {
+   "kelime": "لَدَيْنَا",
+   "okunus": "ledeynâ",
+   "kok": "—",
+   "kokAnlam": "(yer) katımızda, yanımızda",
+   "karsilik": "katımızda"
+  },
+  {
+   "kelime": "لَعَلِىٌّ",
+   "okunus": "lealiyyün",
+   "kok": "علو",
+   "kokAnlam": "yükseklik, yücelik",
+   "karsilik": "gerçekten yücedir"
+  },
+  {
+   "kelime": "حَكِيمٌ",
+   "okunus": "hakîmün",
+   "kok": "حكم",
+   "kokAnlam": "hüküm, sağlamlık; hikmet",
+   "karsilik": "hikmet doludur"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki iki ayette Kur'an'ın Arapça ve akletmek için indirildiği söylenmişti; bu ayet, o Kur'an'ın kaynağının Allah katında, 'Ana Kitap'ta yüce ve hikmetli olduğunu bildirir. Böylece Kur'an'ın hem anlaşılır (Arapça) hem de köken olarak yüce bir kaynağa dayandığı bir arada vurgulanır.",
+  "Ayet, 'Ana Kitap'ın mahiyeti hakkında kendisi ötesinde bir açıklama vermez; bu yüzden burada da ayetin verdiği bilgiyle yetinilir: Kur'an, Allah katında yücedir ve hikmetlidir. 'Ümmü'l-Kitâb' ifadesi Kur'an'ın başka yerlerinde de geçer; her geçtiği yerde Kur'an'ın kaynağının yücelik ve sağlamlığına işaret eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "13:39",
+   "meal": "Allah dilediğini siler, dilediğini sabit bırakır; Ana Kitap O'nun katındadır.",
+   "baglanti": "Bu ayet de 'Ümmü'l-Kitâb' (Ana Kitap) ifadesini kullanır; her ikisi de bu Kitabın Allah katında olduğunu, konumunun yüce olduğunu bildirir."
+  },
+  {
+   "ref": "85:22",
+   "meal": "Hayır o, korunmuş bir Levha'dadır.",
+   "baglanti": "Kur'an'ın kaynağının yüce ve korunmuş bir konumda olduğu fikri burada da farklı bir ifadeyle ('Levh-i Mahfûz') tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kur'an'ın Allah katındaki konumudur; bu, gaybe ait bir bilgidir ve insanın günlük yaşamına doğrudan bir görev yüklemez.",
+  "Buradan çıkarılabilecek ders, elimizdeki Kitabın sıradan bir metin olmadığını hatırlamaktır. Bir şeyin değerini bilmek, ona gösterdiğin özeni de belirler; Kur'an'a bu bilinçle yaklaşmak, onu okuma ve anlama isteğini güçlendirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Değerini hatırla",
+   "aciklama": "Kur'an'ı eline aldığında bir an durup elindeki metnin senin için ne ifade ettiğini düşün."
+  },
+  {
+   "baslik": "Özenle sakla",
+   "aciklama": "Evindeki Kur'an nüshasını bugün düzenli, temiz bir yere koy."
+  },
+  {
+   "baslik": "Bilmediğini bilmekle yetin",
+   "aciklama": "'Ana Kitap'ın mahiyeti gibi gaybe dair bir konuda kesin hüküm vermek yerine, Kur'an'ın söylediğiyle yetinmeyi kendine ilke edin."
+  }
+ ],
+ "bugununAdimi": "Bugün Kur'an'ını eline al, bir an durup değerini düşün ve sonra bir sayfa oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=43&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/43/4"
+  }
+ ]
+}
