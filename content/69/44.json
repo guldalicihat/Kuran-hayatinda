@@ -1,0 +1,89 @@
+{
+ "sure": 69,
+ "ayet": 44,
+ "durum": "taslak",
+ "meal": "Eğer (o elçi) bize karşı bazı sözler uydurup söyleseydi,",
+ "mealNotu": "'Tekavvele' kökü قول, burada 'söz uydurma' anlamında yoğunlaştırılmış bir kiple kullanılır; ayet, Peygamber'in böyle bir şey yapmadığını, ama yapsaydı ne olacağını varsayımsal olarak anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer, ve eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "تَقَوَّلَ",
+   "okunus": "tekavvele",
+   "kok": "قول",
+   "kokAnlam": "söz uydurma, kendiliğinden söz üretme",
+   "karsilik": "uydurup söyleseydi"
+  },
+  {
+   "kelime": "عَلَيْنَا",
+   "okunus": "aleynâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) bize karşı",
+   "karsilik": "bize karşı"
+  },
+  {
+   "kelime": "بَعْضَ",
+   "okunus": "ba'da",
+   "kok": "بعض",
+   "kokAnlam": "bazı, bir kısım",
+   "karsilik": "bazı"
+  },
+  {
+   "kelime": "ٱلْأَقَاوِيلِ",
+   "okunus": "el'ekâvîli",
+   "kok": "قول",
+   "kokAnlam": "sözler, uydurulmuş sözler",
+   "karsilik": "sözleri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kur'an'ın ilahî kaynağını ilan eden ayetin ardından, sûre varsayımsal bir durumla bu iddiayı pekiştirir: eğer elçi bunu kendiliğinden uydursaydı ne olurdu? 'Tekavvele' kökü قول, söz uydurmayı, kendiliğinden bir söz üretmeyi anlatır; ayet bunu bir varsayım olarak sunar, gerçekleşmiş bir durum olarak değil.",
+  "Bu varsayım, sonraki üç ayette (45-47) ağır bir sonuçla tamamlanacaktır. Bu üslup, Kur'an'ın Peygamber'in kendi sözü olmadığını, aksine bu tür bir sapmanın imkânsız olduğunu güçlü bir mantıkla ortaya koyar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "53:3",
+   "meal": "O, hevâsından/kendiliğinden konuşmaz.",
+   "baglanti": "Necm sûresi, Peygamber'in kendiliğinden konuşmadığını doğrudan bildirir; 69:44'teki varsayımın neden imkânsız olduğunu açıklar."
+  },
+  {
+   "ref": "53:4",
+   "meal": "O(nun söylediği), ancak kendisine vahyedilen bir vahiydir.",
+   "baglanti": "Necm sûresinin devamı, Kur'an'ın tamamen vahiy kaynaklı olduğunu bildirir; 69:43-44'teki iddiayı pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın güvenilirliğine dair varsayımsal bir savunmanın başlangıcıdır; bu tarihsel bir tartışmaya cevap niteliğindedir.",
+  "Günlük hayata taşınabilecek ders, sözlerin ve emanetlerin doğruluğunun önemli olduğudur. Bu ayet dolaylı olarak, bir sözü kendiliğinden değiştirmenin ya da uydurmanın ağır bir sorumluluk taşıdığını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözüne sadık kal",
+   "aciklama": "Bugün, bir emaneti ya da sözü olduğu gibi aktarmaya özen göster."
+  },
+  {
+   "baslik": "Uydurmaktan kaçın",
+   "aciklama": "Bir konuda bilmediğin bir şeyi bilmiş gibi anlatmaktan bugün kaçın."
+  },
+  {
+   "baslik": "Güvenilirliği koru",
+   "aciklama": "Bugün verdiğin bir sözü tam olarak yerine getir."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir emaneti veya sözü aslına sadık kalarak aktar.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=44"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/69/44"
+  }
+ ]
+}

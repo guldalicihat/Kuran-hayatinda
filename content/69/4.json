@@ -1,0 +1,82 @@
+{
+ "sure": 69,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Semûd ve Âd (kavimleri), o şiddetle çarpan (felaketi) yalanladılar.",
+ "mealNotu": "'Kâria' kökü قرع, şiddetle vurma ve çarpmayı anlatır; burada kıyameti niteleyen bir isim olarak kullanılır. Semûd ve Âd özel isimler olduğu için kök karşılığı verilmemiştir.",
+ "kokler": [
+  {
+   "kelime": "كَذَّبَتْ",
+   "okunus": "kezzebet",
+   "kok": "كذب",
+   "kokAnlam": "yalan sayma, yalanlama",
+   "karsilik": "yalanladılar"
+  },
+  {
+   "kelime": "ثَمُودُ",
+   "okunus": "semûdü",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Semûd kavmi",
+   "karsilik": "Semûd"
+  },
+  {
+   "kelime": "وَعَادٌۢ",
+   "okunus": "ve âdüm",
+   "kok": "عود",
+   "kokAnlam": "(özel isim, kavim adı) dönme, tekrar eden",
+   "karsilik": "ve Âd"
+  },
+  {
+   "kelime": "بِٱلْقَارِعَةِ",
+   "okunus": "bil kâriati",
+   "kok": "قرع",
+   "kokAnlam": "şiddetle vurma, çarpma",
+   "karsilik": "o şiddetle çarpanı"
+  }
+ ],
+ "neAnlatiyor": [
+  "İlk üç ayette sorulan 'Hâkka nedir?' sorusundan sonra sûre, somut tarihî örneklere geçer: Semûd ve Âd kavimleri, kendilerine gelen uyarıyı, yani şiddetle çarpacak olan kıyameti (kâria) yalanladılar. 'Kâria' kökü قرع, ani ve şiddetli bir vuruşu, çarpmayı anlatır; kıyametin aniden ve sarsıcı biçimde geleceğine işaret eder.",
+  "Semûd ve Âd, Kur'an'da sıkça anılan, kendilerine peygamber gönderildiği halde inkârda direnen eski kavimlerdir. Ayet, bu kavimlerin sonunu ayrıntılandırmadan önce, önce onların ortak tavrını -yalanlamayı- öne çıkarır; devam eden ayetler bu yalanlamanın sonucunu anlatacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "91:11",
+   "meal": "Semûd kavmi, azgınlığı yüzünden (Salih peygamberi) yalanladı.",
+   "baglanti": "Şems sûresi Semûd'un yalanlamasının sebebini 'azgınlık' olarak verir; 69:4'teki genel ifadeyi somutlaştırır."
+  },
+  {
+   "ref": "89:6",
+   "meal": "Rabbinin Âd kavmine ne yaptığını görmedin mi?",
+   "baglanti": "Fecr sûresi Âd kavminin akıbetini hatırlatarak, burada adı geçen yalanlamanın sonucuna işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş iki kavmin kıyamet ve uyarı gerçeğini yalanlamasıdır; bu bir tarih anlatımı değil, bir uyarı örneğidir.",
+  "Buradan çıkan ders, açık bir uyarıyı reddetmenin sonucunun ağır olabileceğidir. Günlük hayatta insan, kendisine faydalı olacak bir uyarıyı görmezden gelme eğiliminde olabilir; bu ayet, böyle bir tavrın bedelsiz kalmadığını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir uyarıyı ciddiye al",
+   "aciklama": "Bugün görmezden geldiğin haklı bir uyarıyı yeniden düşün."
+  },
+  {
+   "baslik": "İnatla yüzleş",
+   "aciklama": "Bir konuda inatla doğruyu reddettiğin bir anını fark edip düzelt."
+  },
+  {
+   "baslik": "Geçmişten ders çıkar",
+   "aciklama": "Bugün, geçmiş bir hatandan ders çıkarıp tekrarlamamaya karar ver."
+  }
+ ],
+ "bugununAdimi": "Bugün, şu ana kadar görmezden geldiğin bir uyarıyı ciddiye alıp ona göre bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/69/4"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "sure": 69,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "Şimdi onlardan geriye kalan bir kimse görüyor musun?",
+ "mealNotu": "'Bâkıye' kökü بقي, kalıcılığı ve geriye kalmayı anlatır; ayet bu kökü olumsuz bir soru kalıbında kullanarak hiç kimsenin kalmadığını vurgular.",
+ "kokler": [
+  {
+   "kelime": "فَهَلْ",
+   "okunus": "fehel",
+   "kok": "—",
+   "kokAnlam": "(soru edatı) şimdi mi, acaba",
+   "karsilik": "şimdi"
+  },
+  {
+   "kelime": "تَرَىٰ",
+   "okunus": "terâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görüyor musun"
+  },
+  {
+   "kelime": "لَهُم",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlar için, onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "مِّنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَاقِيَةٍ",
+   "okunus": "bâkıyetin",
+   "kok": "بقي",
+   "kokAnlam": "kalıcılık, geriye kalma",
+   "karsilik": "geriye kalan bir kimse"
+  }
+ ],
+ "neAnlatiyor": [
+  "Semûd ve Âd kavimlerinin helakini anlatan ayetler, bu soruyla noktalanır: onlardan geriye kalan var mı? 'Bâkıye' kökü بقي, kalıcılığı ve geriye kalmayı anlatır; soru olumsuz bir cevabı zaten içinde barındırır -hayır, hiç kimse kalmamıştır.",
+  "Bu retorik soru, önceki ayetlerin anlattığı helak sahnesinin kesinliğini pekiştirir. Güçlü, kalabalık iki kavmin tamamen yok oluşu, insanın gücüne ve kalabalığına güvenmemesi gerektiğine dair örtük bir uyarı taşır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "53:50",
+   "meal": "Şüphesiz O, önceki Âd kavmini helak etti.",
+   "baglanti": "Necm sûresi Âd kavminin tamamen helak edildiğini doğrular; 69:8'deki 'geriye kalan var mı' sorusunun cevabını verir."
+  },
+  {
+   "ref": "46:25",
+   "meal": "Sabah olduğunda, sadece meskenlerinden başka bir şey görünmez oldu.",
+   "baglanti": "Ahkâf sûresi Âd kavminden geriye sadece boş yurtların kaldığını anlatır; 69:8'deki sorunun somut karşılığıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, iki büyük kavmin izinin bile kalmamasıdır; bu bir korkutma değil, güçlü görünen şeylerin geçiciliğine dair bir hatırlatmadır.",
+  "Günlük hayata taşınabilecek ders, insanın bugün sahip olduğu ne varsa -mal, güç, itibar- bir gün geride kalmayacağıdır. Bu bilinç, insanı kalıcı olana yatırım yapmaya yöneltir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kalıcı olanı düşün",
+   "aciklama": "Bugün, senden sonra kalıcı olabilecek bir iyilik yapmayı düşün."
+  },
+  {
+   "baslik": "Geçiciliği hatırla",
+   "aciklama": "Sahip olduğun bir şeyin bir gün elinden çıkacağını bir an düşün, ona göre bağlanma."
+  },
+  {
+   "baslik": "İz bırak",
+   "aciklama": "Bugün küçük de olsa, geriye kalacak faydalı bir iş yap."
+  }
+ ],
+ "bugununAdimi": "Bugün, geride kalıcı bir iz bırakacak küçük bir iyilik yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/69/8"
+  }
+ ]
+}

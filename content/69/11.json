@@ -1,0 +1,103 @@
+{
+ "sure": 69,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "Su azıp taştığında, sizi (atalarınızı) akıp giden gemide biz taşıdık.",
+ "mealNotu": "'Tağâ' kökü طغي burada suyun sınırı aşıp taşmasını anlatır (tufan); 'câriye' kökü جري ise akıp gitmeyi anlatır ve burada gemiyi niteler.",
+ "kokler": [
+  {
+   "kelime": "إِنَّا",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz biz",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "لَمَّا",
+   "okunus": "lemmâ",
+   "kok": "—",
+   "kokAnlam": "(zaman edatı) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "طَغَا",
+   "okunus": "tağâ",
+   "kok": "طغي",
+   "kokAnlam": "azma, sınırı aşma, taşma",
+   "karsilik": "azıp taştığında"
+  },
+  {
+   "kelime": "ٱلْمَآءُ",
+   "okunus": "elmâü",
+   "kok": "موه",
+   "kokAnlam": "su",
+   "karsilik": "su"
+  },
+  {
+   "kelime": "حَمَلْنَٰكُمْ",
+   "okunus": "hamelnâküm",
+   "kok": "حمل",
+   "kokAnlam": "taşıma, yüklenme",
+   "karsilik": "sizi taşıdık"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de, içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ٱلْجَارِيَةِ",
+   "okunus": "elcâriyeti",
+   "kok": "جري",
+   "kokAnlam": "akıp gitme, akan",
+   "karsilik": "akıp giden (gemi)"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Semûd, Âd, Firavun ve Lût kavminin akıbetinden sonra, Nûh tufanına değinir. 'Tağâ' kökü طغي, burada suyun sınırı aşıp taşmasını anlatır; su, önceki ayetlerde inkârcı toplulukları niteleyen aynı kökten bir fiille anılır -taşkınlık, sınırı aşma teması sûre boyunca sürer. Tufan, Allah'ın hem cezalandırma hem de kurtarma kudretini birlikte gösteren bir olaydır.",
+  "'Câriye' kökü جري, akıp gitmeyi anlatır ve burada Nûh'un gemisini niteler. Ayet, inananların bu gemide taşınarak kurtulduğunu hatırlatır; böylece hem geçmişteki bir azap hem de bir kurtuluş örneği, aynı sûrede yan yana anılmış olur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "54:14",
+   "meal": "Gemi, gözlerimizin önünde akıp gidiyordu; bu, inkâr edilen (Nûh)a bir mükâfat olarak yapıldı.",
+   "baglanti": "Kamer sûresi de gemiyi 'akıp giden' olarak niteler ve aynı olayı anlatır; 69:11'deki 'câriye' ifadesiyle örtüşür."
+  },
+  {
+   "ref": "11:37",
+   "meal": "Gemiyi bizim gözetimimizde ve vahyimize göre yap.",
+   "baglanti": "Hûd sûresi, geminin Allah'ın koruması altında yapıldığını anlatır; 69:11'deki kurtuluşun arka planını verir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Nûh tufanı ve inananların gemide kurtuluşudur; bu tarihsel bir olaydır, günümüze doğrudan bir hüküm getirmez.",
+  "Buradan çıkan ders, zorlu bir durumda Allah'ın kurtarma kudretinin, cezalandırma kudretiyle birlikte var olduğudur. Bu bilinç, insana zorluk anlarında umudunu kaybetmemeyi hatırlatabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Umudu koru",
+   "aciklama": "Bugün zor bir durumda olduğun bir konuda umudunu tazele."
+  },
+  {
+   "baslik": "Kurtuluşu hatırla",
+   "aciklama": "Geçmişte bir zorluktan kurtulduğun bir anı düşün ve şükret."
+  },
+  {
+   "baslik": "Kıssayı anlat",
+   "aciklama": "Nûh tufanı kıssasını bugün kısaca bir yakınına anlat."
+  }
+ ],
+ "bugununAdimi": "Bugün, geçmişte bir zorluktan kurtulduğun bir anı hatırlayıp şükret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/69/11"
+  }
+ ]
+}

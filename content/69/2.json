@@ -1,0 +1,68 @@
+{
+ "sure": 69,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Nedir o gerçekleşecek olan?",
+ "mealNotu": "Soru cümlesi, 1. ayette adı geçen 'el-Hâkka'yı tekrar alıp onun mahiyetini sorar; bu tekrar, konunun önemine vurgu yapan bilinen bir Kur'an üslubudur.",
+ "kokler": [
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne, nedir",
+   "karsilik": "nedir"
+  },
+  {
+   "kelime": "ٱلْحَآقَّةُ",
+   "okunus": "elhâkkatü",
+   "kok": "حقق",
+   "kokAnlam": "kesin olarak gerçekleşme, hak olma, vuku bulma",
+   "karsilik": "o gerçekleşecek olan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette adı konan 'el-Hâkka', burada soru cümlesiyle tekrar ele alınır: 'Nedir o gerçekleşecek olan?' Bu soru-cevap üslubu, dinleyenin zihnini konuya yoğunlaştırmak, merak uyandırmak için kullanılır; aynı kelimenin tekrarı, onun ne kadar büyük ve önemli bir mesele olduğunu hissettirir.",
+  "Ayet, doğrudan bir cevap vermez; asıl cevabı 3. ayetteki ikinci soru ve devamındaki kıssalar oluşturur. Bu, Kur'an'ın bazı konularda önce merak uyandırıp sonra açıklama yapma yöntemine bir örnektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "101:2",
+   "meal": "Nedir o kapıyı çarpan (kâria)?",
+   "baglanti": "Kâria sûresinde de aynı soru kalıbı kullanılır; iki sûre de kıyameti önce isimlendirip sonra 'nedir o?' diye sorarak vurgular."
+  },
+  {
+   "ref": "97:2",
+   "meal": "Kadir gecesinin ne olduğunu sana ne bildirdi?",
+   "baglanti": "Kadir sûresinde de benzer bir soru kalıbı, önemli bir gerçeğin insan idrakini aştığını anlatmak için kullanılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan kıyametin ne olduğu sorusudur; bu bir bilgi eksikliğinden değil, konunun büyüklüğünü vurgulamak için sorulan bir sorudur.",
+  "Günlük hayatta bazı gerçekler o kadar büyüktür ki, sıradan bir cümleyle geçiştirilemez; durup üzerinde düşünmeyi gerektirir. Bu ayet, kıyamet gibi bir konuda aceleyle geçmek yerine durup düşünmeyi örnekler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Soruyu kendine sor",
+   "aciklama": "Bugün 'kıyamet benim için ne anlama geliyor?' sorusunu bir kez kendine sor."
+  },
+  {
+   "baslik": "Acele etme",
+   "aciklama": "Önemli bir konuyu geçiştirmeden, bir dakikanı ayırıp üzerinde düşün."
+  },
+  {
+   "baslik": "Bir ayet oku",
+   "aciklama": "Bugün Hâkka sûresinin devamından birkaç ayet okuyarak soruya verilen cevabı takip et."
+  }
+ ],
+ "bugununAdimi": "Bugün, üzerinden geçiştirdiğin önemli bir soruyu durup gerçekten düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/69/2"
+  }
+ ]
+}

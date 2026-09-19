@@ -1,0 +1,103 @@
+{
+ "sure": 69,
+ "ayet": 41,
+ "durum": "taslak",
+ "meal": "O bir şair sözü değildir; ne kadar az iman ediyorsunuz!",
+ "mealNotu": "Ayet, Kur'an'ın kaynağına dair müşriklerin bir iddiasını -şairin sözü olduğu- reddeder; 'kalîlen mâ tü'minûn' ifadesi, onların imanının azlığına ya da hiç olmamasına şaşkınlık ve kınama içeren bir üsluptur.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değildir",
+   "karsilik": "ve değildir"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "بِقَوْلِ",
+   "okunus": "bikavli",
+   "kok": "قول",
+   "kokAnlam": "söz, söyleme",
+   "karsilik": "sözü"
+  },
+  {
+   "kelime": "شَاعِرٍ",
+   "okunus": "şâirin",
+   "kok": "شعر",
+   "kokAnlam": "şiir söyleme, şairlik",
+   "karsilik": "bir şairin"
+  },
+  {
+   "kelime": "قَلِيلًا",
+   "okunus": "kalîlen",
+   "kok": "قلل",
+   "kokAnlam": "azlık",
+   "karsilik": "ne kadar az"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi/vurgu) şey",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "تُؤْمِنُونَ",
+   "okunus": "tü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "iman etme, güvenme",
+   "karsilik": "iman ediyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Kur'an'ın kaynağına dair Mekke müşriklerinin ileri sürdüğü bir iddiayı doğrudan reddeder: Kur'an bir şair sözü değildir. Bu, dönemin müşriklerinin Peygamber'e yönelttikleri suçlamalardan biriydi; ayet, bunun asılsız olduğunu net biçimde bildirir.",
+  "Ayetin sonundaki 'ne kadar az iman ediyorsunuz' ifadesi, onların bu açık gerçeği görmezden gelme tutumuna bir şaşkınlık ve kınama içerir. Bu üslup, inkârın bilgi eksikliğinden değil, inatçı bir tutumdan kaynaklandığını ima eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:69",
+   "meal": "Biz ona (Peygamber'e) şiir öğretmedik; bu ona yakışmaz da. O, sadece bir öğüt ve apaçık bir Kur'an'dır.",
+   "baglanti": "Yâsîn sûresi, aynı iddiayı -şairlik- açıkça reddeder; 69:41'deki savunmayı pekiştirir."
+  },
+  {
+   "ref": "21:5",
+   "meal": "Hayır, dediler, bunlar karmakarışık hayallerdir; hayır, onu kendisi uydurdu; hayır, o bir şairdir.",
+   "baglanti": "Enbiyâ sûresi, müşriklerin Kur'an hakkında ileri sürdüğü çelişkili iddiaları sıralar; 69:41'deki reddin hangi iddiaya karşı geldiğini gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın kaynağına dair asılsız bir iddianın reddidir; bu tarihsel bir tartışmaya doğrudan cevaptır.",
+  "Günlük hayata taşınabilecek ders, açık bir gerçeği inatla reddetmenin, bilgi eksikliğinden değil bir tutum meselesinden kaynaklanabileceğidir. Bu, insanı kendi önyargılarını sorgulamaya davet eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önyargını sorgula",
+   "aciklama": "Bugün, bir konudaki önyargını gerçek bilgiyle karşılaştır."
+  },
+  {
+   "baslik": "Açık gerçeği kabul et",
+   "aciklama": "İnat ettiğin bir konuda bugün gerçeği kabul etmeye çalış."
+  },
+  {
+   "baslik": "Doğru bilgiye yönel",
+   "aciklama": "Bir iddiayı kabul etmeden önce bugün kaynağını araştır."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir konudaki önyargını bir kenara bırakıp gerçeği araştır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=41"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/69/41"
+  }
+ ]
+}

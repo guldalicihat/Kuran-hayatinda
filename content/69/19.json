@@ -1,0 +1,117 @@
+{
+ "sure": 69,
+ "ayet": 19,
+ "durum": "taslak",
+ "meal": "Kitabı sağından verilen ise, 'Alın, kitabımı okuyun!' der.",
+ "mealNotu": "'Yemin' kökü يمن sağ tarafı anlatır ve Kur'an'da genellikle iyi haberin, kurtuluşun işareti olarak kullanılır; ayet burada amel defterinin sağdan verilişini, sevinçle paylaşılan bir haber olarak sunar.",
+ "kokler": [
+  {
+   "kelime": "فَأَمَّا",
+   "okunus": "feemmâ",
+   "kok": "—",
+   "kokAnlam": "(açıklama edatı) ise, gelince",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "مَنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(şart ismi) kim",
+   "karsilik": "kim ki"
+  },
+  {
+   "kelime": "أُوتِىَ",
+   "okunus": "ûtiye",
+   "kok": "أتي",
+   "kokAnlam": "verilme, gelme",
+   "karsilik": "verilen"
+  },
+  {
+   "kelime": "كِتَٰبَهُۥ",
+   "okunus": "kitâbehû",
+   "kok": "كتب",
+   "kokAnlam": "kitap, yazılı belge, amel defteri",
+   "karsilik": "kitabı"
+  },
+  {
+   "kelime": "بِيَمِينِهِۦ",
+   "okunus": "biyemînihî",
+   "kok": "يمن",
+   "kokAnlam": "sağ taraf, sağ el",
+   "karsilik": "sağından"
+  },
+  {
+   "kelime": "فَيَقُولُ",
+   "okunus": "feyekûlü",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "der"
+  },
+  {
+   "kelime": "هَآؤُمُ",
+   "okunus": "hâümü",
+   "kok": "هاء",
+   "kokAnlam": "(ünlem) alın, buyurun",
+   "karsilik": "alın"
+  },
+  {
+   "kelime": "ٱقْرَءُوا۟",
+   "okunus": "ukraû",
+   "kok": "قرأ",
+   "kokAnlam": "okuma",
+   "karsilik": "okuyun"
+  },
+  {
+   "kelime": "كِتَٰبِيَهْ",
+   "okunus": "kitâbiyeh",
+   "kok": "كتب",
+   "kokAnlam": "kitap, yazılı belge, amel defteri",
+   "karsilik": "kitabımı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Arz sahnesinden sonra ayet, insanların iki gruba ayrılacağını gösteren sahneye geçer: kitabı (amel defteri) sağından verilenler. 'Yemin' kökü يمن, sağ tarafı anlatır ve Kur'an'da genellikle kurtuluşun, iyi haberin işareti olarak kullanılır. Bu kişi, sevinç içinde 'Alın, kitabımı okuyun!' diyerek başarısını herkesle paylaşmak ister.",
+  "Bu sahne, sûrenin devamında (21-24. ayetler) anlatılacak cennet nimetlerinin bir girişidir. Amel defterinin sağdan verilmesi, kişinin dünya hayatındaki tercihlerinin sonucudur; ayet bunu bir müjde sahnesi olarak, coşkulu bir üslupla anlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "84:7",
+   "meal": "Kitabı sağından verilen, kolay bir hesaba çekilecektir.",
+   "baglanti": "İnşikak sûresi aynı sahneyi anlatır ve sağdan verilen kitabın kolay bir hesapla sonuçlanacağını ekler; 69:19'daki sevinci açıklar."
+  },
+  {
+   "ref": "17:71",
+   "meal": "O gün her insan topluluğunu önderleriyle çağırırız; kime kitabı sağından verilirse, işte onlar kitaplarını okurlar.",
+   "baglanti": "İsrâ sûresi de kitabın sağdan verilmesini bir kurtuluş işareti olarak anar; 69:19'daki sahneyle aynı temayı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıyamet günü amel defterinin dağıtılmasıdır; bu bir tehdit sahnesi değil, iyi bir sonucun coşkulu bir müjdesidir.",
+  "Günlük hayata taşınabilecek ders, bugünkü tercihlerin o günkü sonucu belirlediğidir. Bu bilinç, insanı anlık kararlarında bile büyük resmi düşünmeye teşvik eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçük iyiliği büyüt",
+   "aciklama": "Bugün yapacağın küçük bir iyiliğin, kalıcı bir kayıt olduğunu düşün."
+  },
+  {
+   "baslik": "Amel defterini düşün",
+   "aciklama": "Bugünün sonunda, defterine ne yazıldığını bir an hayal et."
+  },
+  {
+   "baslik": "Sevinci paylaş",
+   "aciklama": "Bugün yaptığın güzel bir işi, gösterişsiz biçimde bir yakınınla paylaş."
+  }
+ ],
+ "bugununAdimi": "Bugün, amel defterine güzel bir kayıt düşecek küçük bir iyilik yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=19"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/69/19"
+  }
+ ]
+}

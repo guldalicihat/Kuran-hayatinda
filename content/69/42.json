@@ -1,0 +1,96 @@
+{
+ "sure": 69,
+ "ayet": 42,
+ "durum": "taslak",
+ "meal": "Bir kâhin sözü de değildir; ne kadar az öğüt alıyorsunuz!",
+ "mealNotu": "'Kâhin' kökü كهن gaipten haber verme iddiasındaki kişiyi anlatır; ayet bu iddiayı da reddeder. 'Tezekkerûn' kökü ذكر öğüt alıp düşünmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değildir",
+   "karsilik": "ve değildir"
+  },
+  {
+   "kelime": "بِقَوْلِ",
+   "okunus": "bikavli",
+   "kok": "قول",
+   "kokAnlam": "söz, söyleme",
+   "karsilik": "sözü"
+  },
+  {
+   "kelime": "كَاهِنٍ",
+   "okunus": "kâhinin",
+   "kok": "كهن",
+   "kokAnlam": "kâhinlik, gaipten haber verme iddiası",
+   "karsilik": "bir kâhinin"
+  },
+  {
+   "kelime": "قَلِيلًا",
+   "okunus": "kalîlen",
+   "kok": "قلل",
+   "kokAnlam": "azlık",
+   "karsilik": "ne kadar az"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi/vurgu) şey",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "تَذَكَّرُونَ",
+   "okunus": "tezekkerûne",
+   "kok": "ذكر",
+   "kokAnlam": "öğüt alma, hatırlayıp düşünme",
+   "karsilik": "öğüt alıyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Şairlik iddiasının ardından, bir başka suçlama da reddedilir: Kur'an bir kâhin sözü de değildir. Kâhinlik, o dönemde gaipten haber verdiğini iddia eden, çoğunlukla belirsiz ve çelişkili sözler söyleyen kişileri anlatırdı; ayet, Kur'an'ın bununla hiçbir ilgisi olmadığını vurgular.",
+  "Ayetin sonundaki 'ne kadar az öğüt alıyorsunuz' ifadesi, bir önceki ayetteki 'ne kadar az iman ediyorsunuz' ile paralel bir vurgu taşır, ama farklı bir eksikliğe işaret eder: iman etmemek bir tutum sorunuysa, öğüt alamamak bir düşünme ve idrak eksikliğidir. İki ayet birlikte, inkârın hem kalp hem akıl boyutunu eleştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "52:29",
+   "meal": "Sen öğüt ver; Rabbinin nimeti sayesinde sen ne bir kâhinsin ne de bir deli.",
+   "baglanti": "Tûr sûresi de aynı iki iddiayı -kâhinlik ve delilik- reddeder; 69:42'deki savunmayla aynı temayı paylaşır."
+  },
+  {
+   "ref": "81:22",
+   "meal": "Arkadaşınız (Muhammed) deli değildir.",
+   "baglanti": "Tekvîr sûresi de Peygamber'e yöneltilen asılsız bir suçlamayı reddeder; 69:40-42'deki savunma dizisiyle aynı bağlamdadır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'a yöneltilen bir başka asılsız iddianın reddidir; bu tarihsel bir savunma cümlesidir.",
+  "Günlük hayata taşınabilecek ders, duyduğun bir bilgiyi hemen kabul ya da red etmeden önce, üzerinde gerçekten düşünüp öğüt almaya çalışmaktır. Bu, yüzeysel değerlendirme yerine derin düşünmeyi teşvik eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Derin düşün",
+   "aciklama": "Bugün bir konuda yüzeysel değil, derinlemesine düşünmeye çalış."
+  },
+  {
+   "baslik": "Öğüt al",
+   "aciklama": "Bugün okuduğun bir ayetten kendine özel bir öğüt çıkar."
+  },
+  {
+   "baslik": "Asılsız iddiaya kanma",
+   "aciklama": "Doğrulanmamış bir iddiayı bugün paylaşmadan önce araştır."
+  }
+ ],
+ "bugununAdimi": "Bugün, bugün okuyacağın bir ayetten kendine özel bir öğüt çıkarıp not et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=42"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/69/42"
+  }
+ ]
+}

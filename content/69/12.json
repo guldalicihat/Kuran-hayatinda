@@ -1,0 +1,96 @@
+{
+ "sure": 69,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Bunu sizin için bir ibret kılalım ve belleyen bir kulak onu bellesin diye.",
+ "mealNotu": "'Vâiye' kökü وعي, işitileni akılda tutmayı, kavrayıp saklamayı anlatır; ayet, ibretin sadece işitilmesini değil, gerçekten kavranıp hayata geçirilmesini hedefler.",
+ "kokler": [
+  {
+   "kelime": "لِنَجْعَلَهَا",
+   "okunus": "linec'alehâ",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "onu kılalım diye"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "تَذْكِرَةً",
+   "okunus": "tezkiraten",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlatma, öğüt, ibret",
+   "karsilik": "bir ibret"
+  },
+  {
+   "kelime": "وَتَعِيَهَآ",
+   "okunus": "ve teiyehâ",
+   "kok": "وعي",
+   "kokAnlam": "kavrayıp saklama, belleme",
+   "karsilik": "onu bellesin"
+  },
+  {
+   "kelime": "أُذُنٌ",
+   "okunus": "üzünün",
+   "kok": "أذن",
+   "kokAnlam": "kulak",
+   "karsilik": "bir kulak"
+  },
+  {
+   "kelime": "وَٰعِيَةٌ",
+   "okunus": "vâiyetün",
+   "kok": "وعي",
+   "kokAnlam": "kavrayıp saklama, belleme",
+   "karsilik": "belleyen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayette anlatılan tufan kıssasının amacını açıklar: bu olay, sonraki nesiller için bir 'tezkire' -hatırlatma, ibret- kılınmıştır. 'Tezkire' kökü ذكر, unutulanı hatırlatmayı anlatır; Kur'an kıssaları genellikle bu amaçla, yani geçmişten ders çıkarmak için anlatılır.",
+  "Ayetin ikinci yarısı, bu ibretin sadece işitilmesinin yetmediğini vurgular: 'vâiye' -belleyen, kavrayıp saklayan- bir kulak gerekir. 'Vâiye' kökü وعي, duyduğunu unutmayıp akılda tutmayı, gereğini yapmayı anlatır; bu, pasif dinlemeyle etkin kavrayış arasındaki farka işaret eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "50:37",
+   "meal": "Şüphesiz bunda, kalbi olan yahut hazır bulunup kulak veren kimse için bir ibret vardır.",
+   "baglanti": "Kâf sûresi de kalp ve kulakla gerçek bir kavrayışın önemini vurgular; 69:12'deki 'vâiye' kavramıyla aynı temayı işler."
+  },
+  {
+   "ref": "29:15",
+   "meal": "Nûh'u ve gemidekileri kurtardık ve bunu âlemler için bir ibret kıldık.",
+   "baglanti": "Ankebût sûresi de aynı kıssayı 'ibret kılma' ifadesiyle anar; 69:11-12'deki anlatımın kaynağını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş kıssaların neden anlatıldığıdır: sadece bilgi için değil, gerçek bir ibret almak için.",
+  "Günlük hayata taşınabilecek ders, duyduğun veya okuduğun bir öğüdü sadece işitip geçmek yerine, gerçekten üzerinde düşünüp hayatına yansıtmandır. Bu, pasif bir dinleyici değil, etkin bir öğrenen olmayı gerektirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ibreti hayata geçir",
+   "aciklama": "Bugün duyduğun bir öğüdü sadece dinlemekle kalma, küçük bir davranışa dönüştür."
+  },
+  {
+   "baslik": "Dikkatle dinle",
+   "aciklama": "Bir sohbette bugün gerçekten dikkatle dinleyip söyleneni akılda tutmaya çalış."
+  },
+  {
+   "baslik": "Kıssadan öğüt çıkar",
+   "aciklama": "Bugün okuduğun bir kıssadan kendine özel bir ders çıkar ve yaz."
+  }
+ ],
+ "bugununAdimi": "Bugün duyduğun bir öğüdü unutmamak için yazıp bir kez daha oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=69&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/69/12"
+  }
+ ]
+}
