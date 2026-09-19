@@ -1,0 +1,122 @@
+{
+ "sure": 26,
+ "ayet": 213,
+ "durum": "taslak",
+ "meal": "Öyleyse Allah ile beraber başka bir ilaha yalvarma; yoksa azaba uğratılanlardan olursun.",
+ "mealNotu": "Ayet doğrudan Peygamber'e hitap eder; klasik tefsir bunu tüm inananlara yönelik genel bir tevhid ilkesi olarak okur. 'İlâhen âhara' ifadesi ayette açıkça geçtiği için köşeli parantez kullanılmamıştır.",
+ "kokler": [
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) öyleyse...ma",
+   "karsilik": "öyleyse...ma"
+  },
+  {
+   "kelime": "تَدْعُ",
+   "okunus": "ted'u",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, davet etme, yalvarma",
+   "karsilik": "yalvarma"
+  },
+  {
+   "kelime": "مَعَ",
+   "okunus": "mea",
+   "kok": "—",
+   "kokAnlam": "(edat) ile beraber",
+   "karsilik": "ile beraber"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan; Allah özel adı",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "إِلَٰهًا",
+   "okunus": "ilâhen",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "bir ilaha"
+  },
+  {
+   "kelime": "ءَاخَرَ",
+   "okunus": "âhara",
+   "kok": "أخر",
+   "kokAnlam": "sonra olma; başka, diğer",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "فَتَكُونَ",
+   "okunus": "fetekûne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "yoksa olursun"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُعَذَّبِينَ",
+   "okunus": "elmüazzebîne",
+   "kok": "عذب",
+   "kokAnlam": "azap etme, işkence etme",
+   "karsilik": "azaba uğratılanlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetlerde şeytanların vahiyle hiçbir ilgisinin olmadığı belirtildikten sonra, doğrudan bir tevhid emrine geçer. Hitap gramer olarak Peygamber'e yöneliktir, fakat klasik tefsir bunun aracılığıyla tüm inananlara yönelik genel bir ilke olduğunu belirtir.",
+  "'İlâhen âhara' (başka bir ilah) ifadesi, Kur'an'da tevhidi vurgulayan başka ayetlerde de (örn. 17:22, 28:88) neredeyse aynı kalıpla tekrarlanır. Ayet, bu emri bir uyarıyla bitirir: aksi bir tutum, azaba uğrayanlardan olmayı gerektirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "28:88",
+   "meal": "Allah ile birlikte başka bir ilaha yalvarma; O'ndan başka ilah yoktur.",
+   "baglanti": "Kasas suresindeki bu ayet, neredeyse birebir aynı kalıpla ('lâ ted'u meallâhi ilâhen âhar') aynı emri tekrarlar."
+  },
+  {
+   "ref": "17:22",
+   "meal": "Allah ile beraber başka bir ilah edinme, yoksa kınanmış ve yalnız bırakılmış olarak oturup kalırsın.",
+   "baglanti": "İsrâ suresinde de aynı yasak, farklı bir sonuç cümlesiyle (kınanma ve yalnız kalma) tekrarlanır."
+  },
+  {
+   "ref": "51:51",
+   "meal": "Allah ile beraber başka bir ilah edinmeyin; şüphesiz ben size O'ndan gelen apaçık bir uyarıcıyım.",
+   "baglanti": "Zâriyât suresi bu emri çoğul hitapla tekrarlar ve onu peygamberin uyarıcı görevine bağlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu tevhiddir: Allah'tan başka bir varlığa ilahlık yakıştırmamak, O'nunla birlikte başka bir şeye yönelmemek.",
+  "Bugüne taşınabilecek ders, hayatında Allah'ın yerine geçebilecek şeylere (para, statü, başka bir otorite) mutlak bir bağlılık göstermemektir. Bir şeye aşırı güvenmek, onu kalpte Allah'ın yerine koymak anlamına gelebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Neye güvendiğini sorgula",
+   "aciklama": "Bugün bir kararını verirken, aslında neye güvenerek hareket ettiğini kendine sor."
+  },
+  {
+   "baslik": "Tek bir otoriteye mutlak bağlanma",
+   "aciklama": "Bugün bir kişinin veya kurumun sözünü sorgusuz sualsiz kabul etmeden önce bir an düşün."
+  },
+  {
+   "baslik": "Dünyalık bir şeyi amaç haline getirme",
+   "aciklama": "Bugün peşinde koştuğun bir hedefin, hayatının asıl amacının yerine geçmediğinden emin ol."
+  }
+ ],
+ "bugununAdimi": "Bugün hayatında en çok yer kapladığını fark ettiğin bir şeyi yaz ve önceliklerini gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=213"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/213"
+  }
+ ]
+}

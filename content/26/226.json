@@ -1,0 +1,89 @@
+{
+ "sure": 26,
+ "ayet": 226,
+ "durum": "taslak",
+ "meal": "Ve onlar, yapmadıkları şeyleri söylerler.",
+ "mealNotu": "Meal, ayetteki kelimelere birebir sadık kalınarak oluşturulmuştur; ek bir yorum yoktur.",
+ "kokler": [
+  {
+   "kelime": "وَأَنَّهُمْ",
+   "okunus": "ve ennehüm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ve onların...olduğu",
+   "karsilik": "ve onlar"
+  },
+  {
+   "kelime": "يَقُولُونَ",
+   "okunus": "yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "söylerler"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey ki",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "يَفْعَلُونَ",
+   "okunus": "yef'alûne",
+   "kok": "فعل",
+   "kokAnlam": "yapma, iş, eylem",
+   "karsilik": "yaptıkları"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 224-225'te tarif edilen şairler tipinin son özelliğini ekler: söz ile eylem arasındaki tutarsızlık. Yapmadıkları, hatta bazen yapmayı hiç düşünmedikleri şeyleri söz olarak dile getirirler; bu, abartı, boş övünme veya tutulmayan iddialar biçiminde olabilir.",
+  "Bu üç özellik (224: sapkınları peşinden sürükleme, 225: amaçsız savrukluk, 226: söz-eylem tutarsızlığı) birlikte, sözün gücünü sorumsuzca kullanan bir tavrı eleştirir. Bir sonraki ayet (227) bu genel eleştiriye açık bir istisna getirerek bölümü ve sureyi tamamlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "61:2",
+   "meal": "Ey iman edenler! Yapmayacağınız şeyi niçin söylersiniz?",
+   "baglanti": "Saf suresindeki bu ayet, neredeyse birebir aynı ifadeyle ('mâ lâ tef'alûn'), fakat bu kez inananlara yöneltilmiş bir uyarı olarak aynı tutarsızlığı eleştirir."
+  },
+  {
+   "ref": "2:44",
+   "meal": "İnsanlara iyiliği emredip kendinizi unutuyor musunuz? Oysa siz Kitab'ı okuyorsunuz; hiç düşünmüyor musunuz?",
+   "baglanti": "Bakara suresi de söylediğini yapmamanın, başkasına öğüt verirken kendini unutmanın bir örneğini sunar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, söz ile eylem arasındaki tutarsızlığın eleştirilmesidir; bu genel bir ahlak ilkesidir.",
+  "Bugüne taşınabilecek ders, söylediğin ile yaptığın arasında fark bırakmamaktır. Yapmayacağın bir sözü vermek veya yapmadığın bir şeyle övünmek, güveni zamanla aşındırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Söz verirken düşün",
+   "aciklama": "Bugün bir söz vermeden önce, gerçekten yapıp yapamayacağını değerlendir."
+  },
+  {
+   "baslik": "Övünmeyi bırak",
+   "aciklama": "Bugün yapmadığın bir şeyi yapmış gibi anlatma."
+  },
+  {
+   "baslik": "Söylediğini yap",
+   "aciklama": "Bugün verdiğin küçük bir sözü (bir arama, bir teslim tarihi) eksiksiz yerine getir."
+  }
+ ],
+ "bugununAdimi": "Bugün daha önce verip yerine getirmediğin küçük bir sözü hatırla ve onu tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=226"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/226"
+  }
+ ]
+}

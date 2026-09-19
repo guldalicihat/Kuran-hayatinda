@@ -1,0 +1,89 @@
+{
+ "sure": 26,
+ "ayet": 211,
+ "durum": "taslak",
+ "meal": "Bu [Kur'an'ı indirmek] onlara yakışmaz; zaten güçleri de yetmez.",
+ "mealNotu": "'Bu' ifadesi 210. ayetteki Kur'an'ın indirilmesine işaret eder, ayette açık nesne olmadığı için köşeli parantez kullanılmıştır. 'Beğa' kökü burada 'yenbeği' fiiliyle yakışma/uygun olma anlamında, 'tav' kökü ise güç yetirme anlamında kullanılır.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "يَنۢبَغِى",
+   "okunus": "yembeğî",
+   "kok": "بغي",
+   "kokAnlam": "isteme, arama; haddi aşma; (bu fiilde) yakışma, uygun olma",
+   "karsilik": "yakışmaz"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "ve değildir"
+  },
+  {
+   "kelime": "يَسْتَطِيعُونَ",
+   "okunus": "yestetîûne",
+   "kok": "طوع",
+   "kokAnlam": "boyun eğme, itaat; güç yetirebilme",
+   "karsilik": "güçleri de yetmez"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 210. ayetteki reddiyeyi gerekçelendirir: Kur'an'ı şeytanların indirmediği söylendikten sonra, burada bunun nedeni açıklanır. 'Yenbeği' fiili, bir şeyin bir kimseye uygun düşmesi, yakışması anlamındadır; ayet böyle bir şeyin şeytanların doğasına ve konumuna hiç uymadığını söyler.",
+  "Ardından 'yestetîûn' (güç yetirme) fiiliyle ikinci bir gerekçe eklenir: uygun olmamasının ötesinde, buna maddi olarak güçleri de yoktur. Sonraki ayet (212) bu güçsüzlüğün nedenini açıklar: şeytanlar vahyi işitmekten zaten uzak tutulmuştur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:18",
+   "meal": "Ancak kulak hırsızlığı yapan olursa, onu da parlak bir alev izler.",
+   "baglanti": "Hicr suresindeki bu ayet, göğe sokulup kulak hırsızlığı yapmaya çalışan şeytanların kovulduğunu anlatır; bu da 211'deki 'güçleri yetmez' ifadesinin somut örneğidir."
+  },
+  {
+   "ref": "72:9",
+   "meal": "Oysa biz eskiden göğün dinlemeye elverişli yerlerinde otururduk; ama şimdi kim dinlemeye kalkışsa, kendini gözetleyen bir alevle karşılaşır.",
+   "baglanti": "Cin suresinde şeytanların ağzından anlatılan bu ayet, onların artık göğü dinleyemediğini, 211'in iddiasını doğrudan destekleyerek anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, şeytanların Kur'an'ı indirme ne yetkisine ne de gücüne sahip olmadığıdır; bu, vahyin kaynağıyla ilgili bir inanç meselesidir.",
+  "Bugüne taşınabilecek ders, bir şeyin sana 'yakışıp yakışmadığını' ve gücünün yetip yetmediğini birbirinden ayırt etmektir. Bazen bir şey senin doğana veya konumuna hiç uymaz; bunu fark etmek, boşuna güç harcamaktan seni kurtarır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sana yakışanı sorgula",
+   "aciklama": "Bugün yapacağın bir işin, kendi değerlerine gerçekten uyup uymadığını bir kez düşün."
+  },
+  {
+   "baslik": "Gücünün sınırını kabul et",
+   "aciklama": "Bugün yetiştiremeyeceğin bir işi üstlenmeden önce, gerçekten gücünün yetip yetmediğine dürüstçe bak."
+  },
+  {
+   "baslik": "Nefsin fısıltısına kapılma",
+   "aciklama": "Bugün seni yanlışa çeken bir düşünce geldiğinde, bunun sana hiç yakışmadığını hatırla ve uzak dur."
+  }
+ ],
+ "bugununAdimi": "Bugün üstlenip üstlenmeyeceğine karar veremediğin bir işi, gücünün gerçekten yetip yetmediğine bakarak netleştir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=211"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/211"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "sure": 26,
+ "ayet": 221,
+ "durum": "taslak",
+ "meal": "Sana, şeytanların kimin üzerine indiğini haber vereyim mi?",
+ "mealNotu": "'Nebe' kökü haber verme anlamındadır; meal bu köke sadık kalınarak oluşturulmuştur.",
+ "kokler": [
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "(soru edatı)",
+   "karsilik": "mi"
+  },
+  {
+   "kelime": "أُنَبِّئُكُمْ",
+   "okunus": "ünebbiüküm",
+   "kok": "نبأ",
+   "kokAnlam": "haber verme",
+   "karsilik": "size haber vereyim"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kimin"
+  },
+  {
+   "kelime": "تَنَزَّلُ",
+   "okunus": "tenezzelü",
+   "kok": "نزل",
+   "kokAnlam": "aşağı inme, adım adım inme",
+   "karsilik": "iner"
+  },
+  {
+   "kelime": "ٱلشَّيَٰطِينُ",
+   "okunus": "eşşeyâtînü",
+   "kok": "شطن",
+   "kokAnlam": "uzaklaşma, azgınlık; şeytan",
+   "karsilik": "şeytanlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 210-212'de 'Kur'an'ı şeytanlar indirmedi, çünkü işitmekten uzak tutulmuşlardır' denildikten sonra, konuyu tersinden sorarak sürdürür: peki şeytanlar gerçekten kimin üzerine iner? Soru üslubu, dikkat çekmek ve gelecek cevabı (222-223) merak uyandırarak sunmak içindir.",
+  "Bu soru-cevap yapısı, Kur'an'ın Peygamber'e yöneltilen 'sözlerin şeytani bir kaynaktan geliyor' ithamına verdiği sistemli bir cevabın parçasıdır: önce şeytanların vahiyle ilgisi kesin biçimde reddedilir (210-212), sonra onların gerçekte kime ulaştığı açıklanır (222-223)."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:210",
+   "meal": "Onu [Kur'an'ı] şeytanlar indirmedi.",
+   "baglanti": "Aynı surede birkaç ayet önce yapılan bu kesin reddiye, 221'deki sorunun zeminini oluşturur; ayet burada aynı 'tenezzelü' fiiliyle konuyu tersinden sorar."
+  },
+  {
+   "ref": "6:121",
+   "meal": "Şüphesiz şeytanlar, sizinle tartışmaları için dostlarına telkinde bulunurlar.",
+   "baglanti": "En'âm suresindeki bu ayet, şeytanların insanlara nasıl ulaştığını (telkin, fısıldama yoluyla) anlatarak 221'in sorusuna dolaylı bir açıklama sunar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, şeytanların kime ulaştığı sorusunu gündeme getirmesidir; cevap sonraki ayetlerde (222-223) verilir.",
+  "Bugüne taşınabilecek ders, bir fikrin veya sözün kaynağını sormanın önemidir. Bir düşünce nereden geliyor, kimin ağzından çıkıyor sorusu, onu kabul etmeden önce sorulması gereken bir sorudur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaynağı sor",
+   "aciklama": "Bugün seni etkileyen bir fikri kabul etmeden önce, nereden geldiğini düşün."
+  },
+  {
+   "baslik": "Telkine açık olma",
+   "aciklama": "Bugün seni kolay yola veya yalana iten bir düşünceyi fark ettiğinde, ona mesafe koy."
+  },
+  {
+   "baslik": "Şeytanın yoluna uyma",
+   "aciklama": "Bugün seni haksız bir söz söylemeye iten bir dürtü hissedersen, bir an durup vazgeç."
+  }
+ ],
+ "bugununAdimi": "Bugün kabul ettiğin bir fikrin veya söylentinin kaynağını bir kez sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=221"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/221"
+  }
+ ]
+}

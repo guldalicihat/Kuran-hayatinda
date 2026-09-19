@@ -1,0 +1,75 @@
+{
+ "sure": 26,
+ "ayet": 224,
+ "durum": "taslak",
+ "meal": "Şairlere gelince, onlara sapkınlar uyar.",
+ "mealNotu": "'Ğavî' kökü doğru yoldan sapmayı anlatır; meal bunu 'sapkınlar' olarak karşılamıştır. 'Şairlere gelince' ifadesi Arapçadaki konu vurgusunu (mübteda) yansıtmak için eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَٱلشُّعَرَآءُ",
+   "okunus": "veş şüarâü",
+   "kok": "شعر",
+   "kokAnlam": "şiir; bilme, hissetme",
+   "karsilik": "şairlere gelince"
+  },
+  {
+   "kelime": "يَتَّبِعُهُمُ",
+   "okunus": "yettebiuhümü",
+   "kok": "تبع",
+   "kokAnlam": "izleme, uyma, ardınca gitme",
+   "karsilik": "onlara uyar"
+  },
+  {
+   "kelime": "ٱلْغَاوُۥنَ",
+   "okunus": "elgâvûne",
+   "kok": "غوي",
+   "kokAnlam": "doğru yoldan sapma, azgınlık",
+   "karsilik": "sapkınlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, 221-223'te şeytanların yalancı-günahkârlara ulaştığını anlattıktan sonra, burada şairler konusuna geçer. Dönemin bazı kişileri Peygamber'in sözlerini şiire benzeterek onu şairlerden biri gibi göstermeye çalışıyordu; ayet bu benzetmeyi çürütmeye hazırlanır. 224. ayet, genel olarak şairlerin peşinden gidenlerin 'gâvûn' (doğru yoldan sapmışlar) olduğunu söyler.",
+  "Bu, tüm şiiri veya şairleri toptan kınayan bir hüküm değildir; 227. ayette iman eden, salih amel işleyen ve Allah'ı çok anan şairler için açık bir istisna getirilir. 224-226 arası, sözünün arkasında durmayan, tutarsız ve amaçsız bir şairlik tipini eleştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:69",
+   "meal": "Biz ona şiir öğretmedik; bu ona yakışmaz da. O, ancak bir öğüt ve apaçık bir Kur'an'dır.",
+   "baglanti": "Yâsîn suresi, Peygamber'in şair olmadığını doğrudan söyleyerek 224'ten başlayan şairler eleştirisinin arka planını netleştirir."
+  },
+  {
+   "ref": "69:41",
+   "meal": "O (Kur'an), bir şairin sözü değildir; ne kadar da az iman ediyorsunuz!",
+   "baglanti": "Hâkka suresi de aynı ayrımı, Kur'an'ın şiirden farklı bir kaynağa dayandığını vurgulayarak tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, döneminde şairlerin ardından giden, onları yol gösterici sayan bir kitlenin sapkınlığa yatkın olduğudur; bu 227'de istisnalanan bir genel eleştiridir.",
+  "Bugüne taşınabilecek ders, güzel söz söyleyen veya etkileyici konuşan herkesin ardından körü körüne gitmemektir. Söylenenin güzelliği, onun doğru olduğu anlamına gelmez; sözün içeriğine bakmak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Güzel söze değil doğruya bak",
+   "aciklama": "Bugün etkileyici bulduğun bir sözü, doğruluğunu düşünmeden kabul etme."
+  },
+  {
+   "baslik": "Kimi örnek aldığını gözden geçir",
+   "aciklama": "Bugün takip ettiğin birinin sözlerini, davranışlarıyla tutarlı olup olmadığına bakarak değerlendir."
+  },
+  {
+   "baslik": "Kör bir taraftar olma",
+   "aciklama": "Bugün bir görüşe katılırken, neden katıldığını kendine sor."
+  }
+ ],
+ "bugununAdimi": "Bugün beğendiğin bir sözü veya görüşü, kaynağının güvenilirliğine bakmadan paylaşmaktan kaçın.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=224"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/224"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sure": 26,
+ "ayet": 223,
+ "durum": "taslak",
+ "meal": "Kulak verip duyduklarını iletirler; oysa çoğu yalancıdır.",
+ "mealNotu": "'Yülkûn' fiili 'atma, bırakma' anlamına gelir; burada duyulanı aktarma bağlamında 'iletirler' olarak karşılanmıştır.",
+ "kokler": [
+  {
+   "kelime": "يُلْقُونَ",
+   "okunus": "yülkûne",
+   "kok": "لقي",
+   "kokAnlam": "atma, bırakma, ulaştırma",
+   "karsilik": "iletirler"
+  },
+  {
+   "kelime": "ٱلسَّمْعَ",
+   "okunus": "essem'a",
+   "kok": "سمع",
+   "kokAnlam": "işitme, duyma",
+   "karsilik": "duyduklarını"
+  },
+  {
+   "kelime": "وَأَكْثَرُهُمْ",
+   "okunus": "ve ekseruhüm",
+   "kok": "كثر",
+   "kokAnlam": "çoğalma, çokluk",
+   "karsilik": "çoğu"
+  },
+  {
+   "kelime": "كَٰذِبُونَ",
+   "okunus": "kâzibûne",
+   "kok": "كذب",
+   "kokAnlam": "yalan söyleme",
+   "karsilik": "yalancıdır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 222'de tanımlanan yalancı-günahkâr kişilere şeytanların nasıl ulaştığını tamamlar: onlar kulak hırsızlığıyla veya fısıltıyla elde ettikleri parça bilgiyi bu kişilere 'atarlar/iletirler'. 'Yülkûn' fiili, bir şeyi rastgele veya çabucak bırakmayı anlatır; bu, sağlam ve güvenilir bir bilgi aktarımı değildir.",
+  "Ayetin sonundaki 'çoğu yalancıdır' ifadesi, bu şekilde aktarılan bilginin güvenilmez olduğunu doğrudan söyler. Bu, 210-223 boyunca sürdürülen tartışmanın sonucudur: Kur'an, böyle güvenilmez ve parça parça aktarılan bir bilgi değil, doğrudan ve tam bir vahiydir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:18",
+   "meal": "Ancak kulak hırsızlığı yapan olursa, onu da parlak bir alev izler.",
+   "baglanti": "Hicr suresi, şeytanların bu şekilde çaldıkları 'işitme' parçasının nasıl elde edildiğini, kovalanarak anlatır."
+  },
+  {
+   "ref": "37:10",
+   "meal": "Ancak bir sözü kapan olursa, onu da delici bir alev izler.",
+   "baglanti": "Sâffât suresi de aynı sahneyi, kapılan tek bir sözün bile bedelli olduğunu vurgulayarak tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, şeytanların elde ettikleri parça bilgiyi güvenilmez kişilere aktarmasıdır; bu bir gayb konusudur.",
+  "Bugüne taşınabilecek ders, kulaktan dolma, kaynağı belirsiz bilgilerin çoğu zaman yanlış veya eksik olduğudur. Bir bilgiyi, nereden geldiğini bilmeden yaymak, yalanın yayılmasına ortak olmak anlamına gelebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kulaktan dolmayı yayma",
+   "aciklama": "Bugün doğruluğunu bilmediğin bir haberi paylaşmadan önce dur."
+  },
+  {
+   "baslik": "Parça bilgiyle karar verme",
+   "aciklama": "Bugün eksik duyduğun bir konuda, tam bilgiyi almadan yargıya varma."
+  },
+  {
+   "baslik": "Doğrulamadan güvenme",
+   "aciklama": "Bugün bir söylentiyi, kaynağını doğrulamadan gerçek kabul etme."
+  }
+ ],
+ "bugununAdimi": "Bugün paylaşmadan önce doğruluğunu kontrol edeceğin bir haberi seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=223"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/223"
+  }
+ ]
+}
