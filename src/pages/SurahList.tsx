@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import Header from '../components/Header'
 import FilterInput from '../components/FilterInput'
+import Segmented from '../components/Segmented'
 import { loadChapters } from '../lib/data'
 import type { Chapter } from '../lib/types'
 import { useSettings } from '../lib/settings'
@@ -20,7 +21,7 @@ function writeScrollY(y: number) {
 export default function SurahList() {
   const [chapters, setChapters] = useState<Chapter[]>([])
   const [q, setQ] = useState('')
-  const { s } = useSettings()
+  const { s, set } = useSettings()
   const { last } = useLastRead()
   const restored = useRef(false)
   useEffect(() => { loadChapters().then(setChapters) }, [])
@@ -47,6 +48,9 @@ export default function SurahList() {
     <div className="safe-bottom">
       <Header title="Sureler" right={<Link to="/ayarlar" className="accent text-[17px] tap px-1">Aa</Link>} />
       <FilterInput value={q} onChange={setQ} placeholder="Sure ara" />
+      <div className="flex justify-center mb-2">
+        <Segmented value={s.sort} options={[{ v: 'mushaf', ad: 'Sure No' }, { v: 'nuzul', ad: 'İniş' }]} onChange={sort => set({ sort })} />
+      </div>
       {lastCh && !q && (
         <Link to={`/sure/${last!.s}/${last!.a}`} className="mx-4 mb-2 flex items-center justify-between rounded-xl px-4 py-3 tap" style={{ background: 'var(--accent-soft)' }}>
           <span><span className="muted text-xs block">Kaldığın yer</span><span className="font-medium">{lastCh.ad} {last!.a}</span></span>
