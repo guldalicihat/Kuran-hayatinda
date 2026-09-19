@@ -1,0 +1,131 @@
+{
+ "sure": 27,
+ "ayet": 80,
+ "durum": "taslak",
+ "meal": "Şüphesiz sen ölülere işittiremezsin; arkalarını dönüp geri giderlerken sağırlara da çağrıyı işittiremezsin.",
+ "mealNotu": "Yalın kök çevirisidir; ek bir bracket kullanılmadı.",
+ "kokler": [
+  {
+   "kelime": "إِنَّكَ",
+   "okunus": "inneke",
+   "kok": "—",
+   "kokAnlam": "şüphesiz sen",
+   "karsilik": "şüphesiz sen"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-mezsin"
+  },
+  {
+   "kelime": "تُسْمِعُ",
+   "okunus": "tüsmiu",
+   "kok": "سمع",
+   "kokAnlam": "işittirme",
+   "karsilik": "işittiremezsin"
+  },
+  {
+   "kelime": "ٱلْمَوْتَىٰ",
+   "okunus": "elmevtâ",
+   "kok": "موت",
+   "kokAnlam": "ölüm, ölü",
+   "karsilik": "ölülere"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve -mezsin"
+  },
+  {
+   "kelime": "تُسْمِعُ",
+   "okunus": "tüsmiu",
+   "kok": "سمع",
+   "kokAnlam": "işittirme",
+   "karsilik": "işittiremezsin"
+  },
+  {
+   "kelime": "ٱلصُّمَّ",
+   "okunus": "essumme",
+   "kok": "صمم",
+   "kokAnlam": "sağırlık",
+   "karsilik": "sağırlara"
+  },
+  {
+   "kelime": "ٱلدُّعَآءَ",
+   "okunus": "eddüâe",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, çağrı",
+   "karsilik": "çağrıyı"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -diğinde",
+   "karsilik": "-diklerinde"
+  },
+  {
+   "kelime": "وَلَّوْا۟",
+   "okunus": "vellev",
+   "kok": "ولي",
+   "kokAnlam": "dönme, yüz çevirme",
+   "karsilik": "arkalarını dönüp"
+  },
+  {
+   "kelime": "مُدْبِرِينَ",
+   "okunus": "müdbirîne",
+   "kok": "دبر",
+   "kokAnlam": "arkaya dönme, geri çekilme",
+   "karsilik": "geri giderlerken"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Peygambere tevekkül emrinden sonra, inkârcıların gerçek durumunu bir benzetmeyle anlatır: onlar, kalben ölü ve sağır gibidirler. 'Tüsmiu' kökü سمع işittirme fiilidir; burada olumsuzlanarak, Peygamberin onları hakikate döndüremeyeceği vurgulanır.",
+  "'Arkalarını dönüp geri giderlerken' ifadesi, inkârcıların sadece duymamakla kalmayıp bilerek yüz çevirdiklerini gösterir. Bu, Peygamberin başarısızlığı değil muhatabın kapanmışlığıdır; teselli edici ve gerçekçi bir hatırlatmadır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "30:52",
+   "meal": "Şüphesiz sen ölülere işittiremezsin; arkalarını dönüp geri giderlerken sağırlara da çağrıyı işittiremezsin.",
+   "baglanti": "Rûm suresindeki bu ayet, Neml 80 ile kelimesi kelimesine aynıdır; aynı benzetme iki surede de tekrarlanır."
+  },
+  {
+   "ref": "35:22",
+   "meal": "Diriler ile ölüler bir olmaz. Şüphesiz Allah dilediğine işittirir; sen ise kabirlerde olanlara işittiren biri değilsin.",
+   "baglanti": "Fâtır suresi de aynı 'ölülere işittirme' benzetmesini kullanır; işittirmenin ancak Allah'ın dilemesiyle gerçekleşeceğini ekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, gerçeği duymaya kapalı olan kişilere hakikati anlatmanın sınırlarıdır. Bugüne taşınabilecek ders, herkesi ikna edemeyeceğini bilerek çabalamanın, sorumluluğun sonucu değil çabanın kendisi olduğunu anlamaktır.",
+  "Sen de bir öğüt verdiğinde karşındaki kişi dinlemiyorsa, bunu kendi başarısızlığın olarak görmek yerine, o kişinin kapalı olduğunu kabul edebilirsin. Bu, seni yormadan doğru olanı söylemeye devam etmeni sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sorumluluğunu bil",
+   "aciklama": "Bugün bir öğüt verdiğinde, sonucunu değil söylemeyi kendi görevin bil."
+  },
+  {
+   "baslik": "Israrı bırak",
+   "aciklama": "Bugün dinlemeyen birini ikna etmeye zorlamak yerine, ona zaman tanı."
+  },
+  {
+   "baslik": "Kendi kulağını aç",
+   "aciklama": "Bugün sana verilen bir öğüdü, yüz çevirmeden dinle."
+  }
+ ],
+ "bugununAdimi": "Bugün bir gerçeği söyledikten sonra, sonucunu zorlamadan Allah'a bırak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=80"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/80"
+  }
+ ]
+}

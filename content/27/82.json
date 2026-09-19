@@ -1,0 +1,166 @@
+{
+ "sure": 27,
+ "ayet": 82,
+ "durum": "taslak",
+ "meal": "Söz [vaad edilen şey] başlarına geldiğinde, onlara yerden bir dâbbe (canlı) çıkarırız; o, insanların ayetlerimize kesin olarak inanmadıklarını onlarla konuşarak [söyler].",
+ "mealNotu": "'Dâbbe' kelimesi bilerek Türkçeleştirilmedi; kelime 'yeryüzünde yürüyen canlı' anlamına gelir ama ayette niteliği açıklanmaz. '[vaad edilen şey]' ve '[söyler]' ifadeleri akıcılık için eklendi; bu ayet gaybî bir konudur, ayetin kendi ifadesinin ötesinde bir yorum eklenmedi.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -diğinde",
+   "karsilik": "-diğinde"
+  },
+  {
+   "kelime": "وَقَعَ",
+   "okunus": "vekaa",
+   "kok": "وقع",
+   "kokAnlam": "gerçekleşme, vuku bulma",
+   "karsilik": "gerçekleştiğinde"
+  },
+  {
+   "kelime": "ٱلْقَوْلُ",
+   "okunus": "elkavlü",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "söz"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerlerine",
+   "karsilik": "başlarına"
+  },
+  {
+   "kelime": "أَخْرَجْنَا",
+   "okunus": "ahracnâ",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma",
+   "karsilik": "çıkarırız"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "دَآبَّةً",
+   "okunus": "dâbbeten",
+   "kok": "دبب",
+   "kokAnlam": "yeryüzünde yürüyen canlı",
+   "karsilik": "bir dâbbe (canlı)"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer",
+   "karsilik": "yerden"
+  },
+  {
+   "kelime": "تُكَلِّمُهُمْ",
+   "okunus": "tükellimühüm",
+   "kok": "كلم",
+   "kokAnlam": "konuşma, söz söyleme",
+   "karsilik": "onlarla konuşur"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "ٱلنَّاسَ",
+   "okunus": "ennâse",
+   "kok": "أنس",
+   "kokAnlam": "insanlar",
+   "karsilik": "insanların"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olmak",
+   "karsilik": "idiler"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِنَا",
+   "okunus": "biâyâtinâ",
+   "kok": "أيي",
+   "kokAnlam": "ayet",
+   "karsilik": "ayetlerimize"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يُوقِنُونَ",
+   "okunus": "yûkınûne",
+   "kok": "يقن",
+   "kokAnlam": "kesin bilgiyle inanma",
+   "karsilik": "kesin olarak inanmaz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, kıyametin yaklaştığı bir anı gaybî ve sembolik bir dille anlatır. 'Vekaa el-kavl' (söz gerçekleşti) ifadesi, daha önce vaad edilen bir sonucun -bağlamsal olarak azap ya da kıyamet alametinin- gerçekleşme anını belirtir. 'Dâbbe' kelimesi, yeryüzünde hareket eden bir canlıyı ifade eder; ayet bu canlının niteliğini ayrıntılandırmaz.",
+  "Ayetin verdiği tek açık bilgi, bu canlının insanlara, onların Allah'ın ayetlerine kesin bir bilgiyle inanmadıklarını söyleyeceğidir. Klasik tefsir bu ayeti kıyamet alametlerinden biri olarak açıklar; ancak dâbbenin tam mahiyeti hakkında kesin bir bilgi ayette verilmez, bu yüzden burada da spekülatif bir yorum yapılmaz."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "47:18",
+   "meal": "Onlar, kıyametin ansızın kendilerine gelmesinden başka bir şey mi bekliyorlar? Onun alametleri zaten gelmiştir. Kendilerine geldiğinde ibret almaları neye yarar?",
+   "baglanti": "Muhammed suresi, kıyametin alametlerinin bir gün ortaya çıkacağını genel olarak bildirir; Neml 82'deki dâbbe de bu tür bir alamet olarak anlatılır."
+  },
+  {
+   "ref": "27:85",
+   "meal": "Zulümleri sebebiyle söz başlarına gelmiştir; artık konuşamazlar.",
+   "baglanti": "Aynı surenin birkaç ayet sonrasında geçen bu cümle, 'söz başlarına geldiğinde' ifadesinin nasıl sonuçlanacağını gösterir; dâbbenin çıkışı bu sürecin bir parçasıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, gaybe ve kıyamet alametlerine ait özel bir bilgidir; bu, günlük hayata doğrudan uygulanacak bir olay değildir. Bugüne taşınabilecek ders, ayetin verdiği mesajın özüyle ilgilidir: bazı insanlar apaçık deliller karşısında bile 'kesin bilgiyle' inanmaktan kaçınır.",
+  "Sen de bir gerçeği duyduğunda, onu yüzeysel bir bilgi olarak değil, 'yakîn' (kesin inanç) derecesinde içselleştirmeye çalışabilirsin. Şüphe ile bilgi arasındaki bu fark, imanın gücünü belirler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yüzeysel bilmekle yetinme",
+   "aciklama": "Bugün inandığını söylediğin bir konuyu, gerçekten içselleştirip içselleştirmediğini sorgula."
+  },
+  {
+   "baslik": "Alameti bekleme, hazırlan",
+   "aciklama": "Bugün kıyametin ne zaman geleceğini merak etmek yerine, kendi hazırlığına odaklan."
+  },
+  {
+   "baslik": "Kesin inancı güçlendir",
+   "aciklama": "Bugün imanınla ilgili bir şüphen varsa, onu araştırarak netleştirmeye çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün inandığın bir gerçeği, yüzeysel değil kesin bir bilgiyle sahiplenmeye çalış.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=82"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/82"
+  }
+ ]
+}

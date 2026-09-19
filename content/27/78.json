@@ -1,0 +1,110 @@
+{
+ "sure": 27,
+ "ayet": 78,
+ "durum": "taslak",
+ "meal": "Şüphesiz Rabbin, aralarında kendi hükmüyle hükmedecektir. O, mutlak güç sahibidir, hakkıyla bilendir.",
+ "mealNotu": "Yalın kök çevirisidir; ek bir bracket kullanılmadı.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "رَبَّكَ",
+   "okunus": "rabbeke",
+   "kok": "ربب",
+   "kokAnlam": "Rab",
+   "karsilik": "Rabbin"
+  },
+  {
+   "kelime": "يَقْضِى",
+   "okunus": "yekdî",
+   "kok": "قضي",
+   "kokAnlam": "hükmetme, karar verme",
+   "karsilik": "hükmedecektir"
+  },
+  {
+   "kelime": "بَيْنَهُم",
+   "okunus": "beynehüm",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında",
+   "karsilik": "aralarında"
+  },
+  {
+   "kelime": "بِحُكْمِهِۦ",
+   "okunus": "bihukmihî",
+   "kok": "حكم",
+   "kokAnlam": "hüküm, karar",
+   "karsilik": "kendi hükmüyle"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve o",
+   "karsilik": "ve o"
+  },
+  {
+   "kelime": "ٱلْعَزِيزُ",
+   "okunus": "el'azîzü",
+   "kok": "عزز",
+   "kokAnlam": "güç, üstünlük",
+   "karsilik": "mutlak güç sahibidir"
+  },
+  {
+   "kelime": "ٱلْعَلِيمُ",
+   "okunus": "el'alîmü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "hakkıyla bilendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki iki ayette anlatılan ihtilaf ve hidayet temasının doğal sonucu gibidir: nihai hüküm Allah'a aittir. 'Yekdî' kökü قضي, kesin karar verme, bir işi sonuçlandırma anlamındadır; burada insanlar arasındaki anlaşmazlıkların son sözünün Allah'a ait olduğu bildirilir.",
+  "'Azîz' (mutlak güç sahibi) ve 'Alîm' (hakkıyla bilen) isimlerinin birlikte gelmesi, bu hükmün hem güçle uygulanacağını hem de tam bilgiye dayanacağını gösterir. Böylece dünyada çözülemeyen anlaşmazlıklar, kıyamette adaletle sonuçlandırılacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "22:69",
+   "meal": "Allah, hakkında ihtilaf ettiğiniz konularda kıyamet günü aranızda hükmedecektir.",
+   "baglanti": "Hac suresindeki bu ayet, Neml 78'deki 'aralarında hükmedecek' ifadesini doğrudan ihtilaf edilen konulara bağlar; Neml 76'daki ihtilaf temasıyla da örtüşür."
+  },
+  {
+   "ref": "10:93",
+   "meal": "Andolsun, İsrailoğulları'nı hoş bir yerde yerleştirdik ve onları temiz rızıklarla besledik; kendilerine bilgi gelinceye kadar ihtilafa düşmediler. Şüphesiz Rabbin, ihtilaf ettikleri konularda kıyamet günü aralarında hükmedecektir.",
+   "baglanti": "Yûnus suresi, İsrailoğulları'nın ihtilafını doğrudan Neml 76-78'deki temayla birleştirir; hüküm günü aynı ifadeyle vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, insanlar arasındaki anlaşmazlıkların nihai çözümünün Allah'a ait olduğudur. Bugüne taşınabilecek ders, her haksızlığın bu dünyada çözülmeyebileceği ama sonunda adaletin yerini bulacağıdır.",
+  "Sen de çözemediğin bir anlaşmazlıkta, hemen intikam almak yerine adaletin er ya da geç yerini bulacağına güvenebilirsin. Bu bilinç, seni öfkeyle değil sabırla hareket etmeye yönlendirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Adaleti Allah'a bırak",
+   "aciklama": "Bugün çözemediğin bir haksızlıkta, hemen intikam almak yerine sabret."
+  },
+  {
+   "baslik": "Kendi hükmünü sorgula",
+   "aciklama": "Bugün birine haksız bir yargıda bulunmadığından emin ol."
+  },
+  {
+   "baslik": "Ahiret adaletini hatırla",
+   "aciklama": "Bugün bu dünyada çözülmeyen bir haksızlığın, ahirette mutlaka karşılık bulacağını hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün çözülmemiş bir anlaşmazlıkta, adaletin Allah'a ait olduğunu hatırlayarak sabret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=78"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/78"
+  }
+ ]
+}

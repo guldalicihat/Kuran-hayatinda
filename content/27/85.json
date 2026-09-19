@@ -1,0 +1,110 @@
+{
+ "sure": 27,
+ "ayet": 85,
+ "durum": "taslak",
+ "meal": "Zulmettikleri sebebiyle söz başlarına gelmiştir; artık onlar konuşamazlar.",
+ "mealNotu": "Yalın kök çevirisidir; ek bir bracket kullanılmadı.",
+ "kokler": [
+  {
+   "kelime": "وَوَقَعَ",
+   "okunus": "ve vekaa",
+   "kok": "وقع",
+   "kokAnlam": "gerçekleşme",
+   "karsilik": "gerçekleşmiştir"
+  },
+  {
+   "kelime": "ٱلْقَوْلُ",
+   "okunus": "elkavlü",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "söz"
+  },
+  {
+   "kelime": "عَلَيْهِم",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerlerine",
+   "karsilik": "başlarına"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) sebebiyle",
+   "karsilik": "sebebiyle"
+  },
+  {
+   "kelime": "ظَلَمُوا۟",
+   "okunus": "zalemû",
+   "kok": "ظلم",
+   "kokAnlam": "zulmetme",
+   "karsilik": "zulmettikleri"
+  },
+  {
+   "kelime": "فَهُمْ",
+   "okunus": "fehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) işte onlar",
+   "karsilik": "artık onlar"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-mazlar"
+  },
+  {
+   "kelime": "يَنطِقُونَ",
+   "okunus": "yentıkûne",
+   "kok": "نطق",
+   "kokAnlam": "konuşma, söz söyleme",
+   "karsilik": "konuşamazlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki sorgulamanın sonucunu bildirir: söz (azap) gerçekleşmiştir ve artık savunma yapacak söz kalmamıştır. 'Vekaa el-kavl' ifadesi, 82. ayette de geçen aynı kalıptır; burada bu sözün gerçekleşme sebebi açıkça 'zulümleri' olarak belirtilir.",
+  "'Yentıkûne' kökü نطق, konuşma, söz söyleme yetisini ifade eder; bunun olumsuzlanması, savunma ve itiraz hakkının artık kalmadığını gösterir. Bu, zulmün er ya da geç kişiyi savunmasız bırakacağının bir hatırlatmasıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "77:35",
+   "meal": "Bugün, konuşamayacakları bir gündür.",
+   "baglanti": "Mürselât suresindeki bu kısa ayet, Neml 85'teki 'artık konuşamazlar' ifadesiyle neredeyse aynı sahneyi anlatır; hesap gününde susma teması iki surede de tekrarlanır."
+  },
+  {
+   "ref": "36:65",
+   "meal": "Bugün onların ağızlarını mühürleriz; elleri bize konuşur, ayakları da yaptıklarına şahitlik eder.",
+   "baglanti": "Yâsîn suresi, konuşamamanın sebebini açıklar: ağızlar mühürlenir, bunun yerine organlar şahitlik eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, zulmün kıyamet gününde kişiyi söz söyleyemez hale getirecek bir sonuca götürdüğüdür. Bugüne taşınabilecek ders, haksızlık yaparken bulduğumuz mazeretlerin bir gün geçerliliğini yitireceğidir.",
+  "Sen de bir haksızlık yaptığında kendine mazeretler üretebilirsin; ama bu ayet, o mazeretlerin sonsuza kadar geçerli olmayacağını hatırlatır. Bugünden bir haksızlığı düzeltmek, yarın söz söyleyememekten daha iyidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Mazereti bırak",
+   "aciklama": "Bugün bir haksızlığın için ürettiğin mazereti bırakıp düzeltmeye çalış."
+  },
+  {
+   "baslik": "Zulümden kaçın",
+   "aciklama": "Bugün birine haksızlık etmemeye özellikle dikkat et."
+  },
+  {
+   "baslik": "Hesap anını hatırla",
+   "aciklama": "Bugün, bir gün savunma hakkın olmayacağını hatırlayarak şimdiden dürüst davran."
+  }
+ ],
+ "bugununAdimi": "Bugün bir haksızlığını, mazeret üretmeden düzeltmeye çalış.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=85"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/85"
+  }
+ ]
+}
