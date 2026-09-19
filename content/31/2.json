@@ -1,0 +1,82 @@
+{
+ "sure": 31,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Bunlar, hikmetli Kitab'ın ayetleridir.",
+ "mealNotu": "'Hakîm' kökü hem hikmetli hem sağlam, hükümleri yerli yerinde anlamını taşır; burada 'hikmetli' karşılığı tercih edilmiştir.",
+ "kokler": [
+  {
+   "kelime": "تِلْكَ",
+   "okunus": "tilke",
+   "kok": "—",
+   "kokAnlam": "işaret; bunlar, şunlar",
+   "karsilik": "bunlar"
+  },
+  {
+   "kelime": "ءَايَٰتُ",
+   "okunus": "âyâtü",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet; Kur'an ayeti",
+   "karsilik": "ayetleridir"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı olan, kitap",
+   "karsilik": "Kitab'ın"
+  },
+  {
+   "kelime": "ٱلْحَكِيمِ",
+   "okunus": "elhakîmi",
+   "kok": "حكم",
+   "kokAnlam": "hüküm verme, sağlamlık, hikmet",
+   "karsilik": "hikmetli"
+  }
+ ],
+ "neAnlatiyor": [
+  "İlk ayetteki kesik harflerin ardından bu ayet, sözü doğrudan Kitab'a bağlar. 'Ayetler' kelimesi hem Kur'an'ın tek tek cümlelerini hem de birer işaret, delil olduklarını birlikte taşır.",
+  "'Hakîm' kökü hüküm ve sağlamlık anlamı taşır; Kitab'ın hem hikmetli hem de sağlam, tutarlı olduğuna işaret eder. Sure, böylece kendi kaynağının niteliğini tanıtarak başlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:1",
+   "meal": "Elif. Lâm. Râ. Bunlar hikmetli Kitab'ın ayetleridir.",
+   "baglanti": "Yûnus suresi de aynı ifadeyle açılır; 'hikmetli Kitab' tanımlaması birkaç surede tekrarlanan ortak bir girişdir."
+  },
+  {
+   "ref": "36:2",
+   "meal": "Hikmetli Kur'an'a andolsun.",
+   "baglanti": "Yâsîn suresinde de Kur'an doğrudan 'hikmetli' sıfatıyla anılır; her iki ayet de kitabın hikmet yönünü öne çıkarır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, okuyacağın surenin bir 'hikmet kitabı'ndan geldiğini hatırlatır. Bu, ilerideki öğütlerin -Lokmân'ın oğluna verdiği öğütler dahil- boşuna değil, yerli yerinde ve sağlam bir temele dayandığını gösterir.",
+  "Günlük hayatta bir söze veya öğüde değer verirken kaynağına bakarız. Kur'an'ı okurken de onun hikmet kaynağından geldiğini bilerek okumak, ayetlere daha dikkatli yaklaşmayı sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hikmet ara",
+   "aciklama": "Bugün okuduğun bir ayette, o ayetin sana ne hikmet öğrettiğini kendi cümlenle yaz."
+  },
+  {
+   "baslik": "Kaynağı hatırla",
+   "aciklama": "Kur'an okurken bugün bir an dur, bu sözlerin kimden geldiğini düşün."
+  },
+  {
+   "baslik": "Sağlam bilgiye yönel",
+   "aciklama": "Bugün bir konuda karar verirken kulaktan dolma bilgi yerine güvenilir kaynağa bak."
+  }
+ ],
+ "bugununAdimi": "Bugün Lokmân suresini okurken 'hikmet' kelimesinin geçtiği her ayeti işaretle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=31&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/31/2"
+  }
+ ]
+}
