@@ -1,0 +1,124 @@
+{
+ "sure": 44,
+ "ayet": 41,
+ "durum": "taslak",
+ "meal": "O gün dost, dosta hiçbir şeyle fayda veremez; onlara yardım da edilmez.",
+ "mealNotu": "'Mevlâ' ولي kökünden, yakınlık ve dostluğu; 'yüğnî' غني kökünden ihtiyacı karşılama, fayda vermeyi ifade eder.",
+ "kokler": [
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "veremez"
+  },
+  {
+   "kelime": "يُغْنِى",
+   "okunus": "yüğnî",
+   "kok": "غني",
+   "kokAnlam": "ihtiyacı karşılama, fayda verme",
+   "karsilik": "fayda veremez"
+  },
+  {
+   "kelime": "مَّوْلًى",
+   "okunus": "mevlen",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, dostluk, veli",
+   "karsilik": "dost"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "مَّوْلًى",
+   "okunus": "mevlen",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, dostluk, veli",
+   "karsilik": "dosta"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "hiçbir şeyle"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve yok",
+   "karsilik": "ve ... da edilmez"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "يُنصَرُونَ",
+   "okunus": "yünsarûne",
+   "kok": "نصر",
+   "kokAnlam": "yardım etme",
+   "karsilik": "yardım"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Ayırt Etme Günü'nün nasıl bir gün olduğunu tarif eder: dünyada birbirine destek olan en yakın dostlar bile o gün birbirine fayda sağlayamaz. 'Yüğnî' kelimesi غني kökünden gelir; bir ihtiyacı karşılama, fayda verme anlamı taşır ve burada bunun mümkün olmadığı söylenir.",
+  "'Yünsarûn' kelimesi نصر kökünden gelir ve dışarıdan gelecek bir yardımı ifade eder; ayet bunun da olmayacağını ekler. Böylece o gün kişinin, dünyadaki dayanaklarından bağımsız, tek başına bir hesapla karşı karşıya kalacağı anlatılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:48",
+   "meal": "Öyle bir günden sakının ki, o gün hiç kimse başkası adına bir şey ödeyemez, kimseden şefaat kabul edilmez, kimseden bir fidye alınmaz, onlara yardım da edilmez.",
+   "baglanti": "Bakara suresindeki bu ayet, 44:41'de anlatılan 'kimse kimseye fayda veremez' fikrini daha ayrıntılı biçimde anlatır."
+  },
+  {
+   "ref": "82:19",
+   "meal": "O gün hiç kimse başkası için hiçbir şeye güç yetiremez; o gün emir yalnız Allah'ındır.",
+   "baglanti": "İnfitâr suresinin son ayeti de aynı günü, kimsenin kimseye yardım edemeyeceği bir gün olarak tanımlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyamet gününde dünyadaki dostlukların ve yardımlaşmaların geçerli olmayacağıdır.",
+  "Buradan çıkarılabilecek ders, kişinin sorumluluğunu başkasına devredemeyeceğidir. Dünyada dostlarına güvenmek elbette değerlidir, ama asıl hazırlığı kişi kendisi yapmalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sorumluluğunu başkasına yükleme",
+   "aciklama": "Bugün kendi yapman gereken bir işi başkasının üstlenmesini bekleme, kendin yap."
+  },
+  {
+   "baslik": "Tek başına hesap bilinci",
+   "aciklama": "Bir kararını verirken, sonunda bunun hesabını tek başına vereceğini bir an hatırla."
+  },
+  {
+   "baslik": "Dostluğunu dünyaya hapsetme",
+   "aciklama": "Bir arkadaşınla ilişkini, yalnız dünyalık çıkar üzerine değil samimiyet üzerine kur."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin kişisel bir sorumluluğu, başkasından beklemeden kendin tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=41"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/44/41"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "sure": 44,
+ "ayet": 36,
+ "durum": "taslak",
+ "meal": "Eğer doğru sözlü iseniz atalarımızı getirin.",
+ "mealNotu": "Ayet, müşriklerin dirilişi inkâr eden sözünün devamı olan alaycı bir meydan okumayı aynen aktarır; bu, Kur'an'ın kendi çağrısı değildir.",
+ "kokler": [
+  {
+   "kelime": "فَأْتُوا۟",
+   "okunus": "fe'tû",
+   "kok": "أتي",
+   "kokAnlam": "getirme, gelme",
+   "karsilik": "getirin"
+  },
+  {
+   "kelime": "بِـَٔابَآئِنَآ",
+   "okunus": "biâbâinâ",
+   "kok": "أبو",
+   "kokAnlam": "baba, ata",
+   "karsilik": "atalarımızı"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "صَٰدِقِينَ",
+   "okunus": "sâdikîne",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, doğru söyleme",
+   "karsilik": "doğru sözlü"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, iki ayet önce başlayan sözün son kısmını aktarır: müşrikler, dirilişin gerçek olduğunu iddia edenlere alaycı bir meydan okumayla cevap verir, ölmüş atalarını geri getirmelerini isterler. 'Sâdikîn' (doğru sözlüler) kelimesi صدق kökünden gelir; burada bir kanıt talebi gibi sunulsa da aslında imkânsız bir şart koşmaktır.",
+  "Bu söz, dirilişin Allah'ın bir sözü değil de insanların hemen bu dünyada gerçekleştirebileceği bir şey gibi sunulmasına dayanan bir yanlış anlamayı içerir. Kıyamet, insanların istediği anda gerçekleşecek bir gösteri değildir; bu ayet de yine bir iddianın aktarımıdır, Kur'an'ın onayı değildir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "45:25",
+   "meal": "Onlara ayetlerimiz apaçık okunduğunda, delilleri şundan başka bir şey değildir: Doğru sözlü iseniz atalarımızı getirin, derler.",
+   "baglanti": "Câsiye suresindeki bu ayet, 44:36 ile neredeyse aynı sözü, aynı meydan okuma kalıbıyla aktarır."
+  },
+  {
+   "ref": "37:17",
+   "meal": "Yoksa önceki atalarımız da mı?",
+   "baglanti": "Saffât suresindeki bu soru da aynı inkârcı grubun, atalarının dirilişini alaylı biçimde sorguladığı benzer bir sözdür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir inkâr sözünün aktarılmasıdır; imkânsız bir şart öne sürerek gerçek bir konuyu geçiştirme tavrıdır.",
+  "Buradan çıkarılabilecek genel ders, bir konuyu ciddiyetle tartışmak yerine yerine getirilemeyecek bir şart öne sürerek konuyu kapatmanın dürüst bir tartışma yolu olmadığıdır. Kişi kendi tartışmalarında da böyle bir tavırdan kaçınabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaçış şartı öne sürme",
+   "aciklama": "Bugün bir tartışmada, cevap vermek yerine imkânsız bir şart öne sürüp konuyu kapatmaktan kaçın."
+  },
+  {
+   "baslik": "Alaycı üsluptan uzak dur",
+   "aciklama": "Ciddi bir konuyu alayla geçiştirmek yerine düşünerek cevap vermeye çalış."
+  },
+  {
+   "baslik": "Gerçek soruyu ayırt et",
+   "aciklama": "Bir itirazın gerçekten bir cevap mı aradığını, yoksa konuyu kapatmak mı istediğini fark et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir tartışmada, konuyu kapatmak için değil anlamak için bir soru sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=36"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/44/36"
+  }
+ ]
+}

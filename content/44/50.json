@@ -1,0 +1,96 @@
+{
+ "sure": 44,
+ "ayet": 50,
+ "durum": "taslak",
+ "meal": "İşte bu, hakkında şüphe edip durduğunuz şeydir.",
+ "mealNotu": "'Temterûn' مري kökünden, şüphe etme ve tartışmayı ifade eder; ayet dünyada inkâr edilen şeyin ahirette gerçekleşmesine işaret eder.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "كُنتُم",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idiniz"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "تَمْتَرُونَ",
+   "okunus": "temterûne",
+   "kok": "مري",
+   "kokAnlam": "şüphe etme, tartışma",
+   "karsilik": "şüphe edip duruyordunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki alaycı sözün ardından, o kişiye dünyada inkâr ettiği şeyin şimdi gerçekleştiği hatırlatılır. 'Temterûn' fiili مري kökünden gelir; şüphe etmeyi, bir konuda ısrarla tartışmayı anlatır.",
+  "Ayet, bu sözle Duhân suresinin başındaki (34-36. ayetler) dirilişi inkâr eden iddiaya dolaylı biçimde geri döner: orada şüpheyle reddedilen diriliş, burada artık şüphe götürmez bir gerçek olarak karşılarına çıkar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "52:14",
+   "meal": "İşte bu, yalanlamakta olduğunuz ateştir.",
+   "baglanti": "Tûr suresindeki bu ayet de aynı 'işte bu' ifadesiyle, dünyada inkâr edilenin ahirette gerçek olarak karşılaşılmasını anlatır."
+  },
+  {
+   "ref": "45:32",
+   "meal": "Kıyamet saati geldiğinde, 'onun hakkında kuşkumuz yok' demiştiniz de siz sadece zannediyordunuz, kesin bilgi sahibi değildiniz.",
+   "baglanti": "Câsiye suresindeki bu ayet de aynı şüphe ve tartışma tavrını (temterûn ile aynı kökten olmasa da aynı temayı) hatırlatarak kıyametin geldiğinde bu şüphenin ortadan kalktığını anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dünyada şüpheyle karşılanan bir gerçeğin ahirette kesin biçimde ortaya çıkmasıdır.",
+  "Buradan çıkarılabilecek ders, bir konuda kesin bilgi olmadan ısrarla inkâr etmenin riskli olduğudur. Kişi emin olmadığı bir konuda kesin hüküm vermek yerine ihtiyatlı davranabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilmeden inkâr etme",
+   "aciklama": "Bugün tam bilmediğin bir konuda kesin bir şekilde 'yok' demekten kaçın."
+  },
+  {
+   "baslik": "Şüpheni araştırmayla gider",
+   "aciklama": "İçindeki bir şüpheyi, geçiştirmek yerine araştırarak netleştirmeye çalış."
+  },
+  {
+   "baslik": "Ahiret gerçeğini hatırla",
+   "aciklama": "Bugün, şüpheyle baktığın ama aslında bir gün karşına çıkacak gerçekleri bir an düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün, hakkında şüphe taşıdığın bir konuyu araştırıp bir adım netleştir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=50"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/44/50"
+  }
+ ]
+}

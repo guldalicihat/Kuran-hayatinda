@@ -1,0 +1,110 @@
+{
+ "sure": 44,
+ "ayet": 35,
+ "durum": "taslak",
+ "meal": "O, bizim ilk ölümümüzden başka bir şey değildir; biz diriltilecek de değiliz.",
+ "mealNotu": "Ayet, Mekkeli müşriklerin öldükten sonra dirilişi reddeden sözünü kendi lafzıyla aktarır; bu bir itiraz cümlesidir, Kur'an'ın kendi görüşü değildir. 'Münşerîn' نشر kökünden, diriltilip kaldırılma anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değildir",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "هِىَ",
+   "okunus": "hiye",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) başka",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "مَوْتَتُنَا",
+   "okunus": "mevtetünâ",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölümümüzden"
+  },
+  {
+   "kelime": "ٱلْأُولَىٰ",
+   "okunus": "el'ûlâ",
+   "kok": "أول",
+   "kokAnlam": "ilk, önce olan",
+   "karsilik": "ilk"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve değiliz"
+  },
+  {
+   "kelime": "نَحْنُ",
+   "okunus": "nahnü",
+   "kok": "—",
+   "kokAnlam": "(zamir) biz",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "بِمُنشَرِينَ",
+   "okunus": "bimünşerîne",
+   "kok": "نشر",
+   "kokAnlam": "yayma; diriltilip kaldırma",
+   "karsilik": "diriltilecek"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayette sözü edilen 'bunların dediği' iddiayı aynen aktarır: ölümden başka bir son yoktur, yeniden diriliş olmayacaktır. 'Münşerîn' kelimesi نشر kökünden gelir; bu kök yayma, açma anlamının yanında ölümden sonra diriltilip kaldırılmayı da ifade eder. Ayet bu iddiayı bir gerçek olarak değil, karşı çıkılan bir söz olarak aktarır.",
+  "Kur'an burada müşriklerin sözünü kendi ifadeleriyle nakleder; bu, Kur'an'ın onayladığı bir görüş değil, cevaplanacak bir itirazdır. Nitekim bir sonraki ayette bu iddiayı taşıyanlardan bir kanıt istenir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "23:37",
+   "meal": "Hayat ancak bu dünya hayatımızdır; ölürüz ve yaşarız, biz diriltilecek değiliz.",
+   "baglanti": "Mü'minûn suresindeki bu söz, 44:35'teki 'in hiye illâ... ve mâ nahnü bi-' kalıbıyla neredeyse aynı yapıda, aynı inkârı taşır."
+  },
+  {
+   "ref": "45:24",
+   "meal": "Hayat, ancak bu dünya hayatımızdır; ölürüz, yaşarız; bizi zamandan başka bir şey helak etmez.",
+   "baglanti": "Câsiye suresindeki bu ayet de aynı iddiayı, dirilişi reddeden aynı üslupla tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir inkâr sözünün aktarılmasıdır; bu Kur'an'ın kendi öğretisi değil, karşı çıkılan bir iddiadır.",
+  "Buradan çıkarılabilecek ders, ölümün son olduğu düşüncesinin kişiyi nasıl bir tutuma götürdüğünü fark etmektir. Ahiretin varlığına inanmak, kişinin bugünkü davranışlarını da etkiler; bu bilinç, sorumluluk duygusunu besler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ölümü son sanma",
+   "aciklama": "Bugün yaptığın bir işte, bu dünyanın son durak olmadığı bilincini bir an hatırla."
+  },
+  {
+   "baslik": "İddiayı sorgula",
+   "aciklama": "'Bundan sonrası yok' türü kesin iddiaları hemen kabul etmeden düşün."
+  },
+  {
+   "baslik": "Kararlarını ahiret bilinciyle tart",
+   "aciklama": "Bugün vereceğin bir kararı, sadece bu dünyayı değil sonrasını da düşünerek ver."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararını verirken, yalnızca bugünü değil sonrasını da bir kez düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=35"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/44/35"
+  }
+ ]
+}

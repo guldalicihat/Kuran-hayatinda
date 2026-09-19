@@ -1,0 +1,89 @@
+{
+ "sure": 44,
+ "ayet": 51,
+ "durum": "taslak",
+ "meal": "Şüphesiz takva sahipleri güvenli bir makamdadır.",
+ "mealNotu": "'Müttekîn' وقي kökünden, kendini koruyan/sakınan kimseleri; 'emîn' أمن kökünden güveni ifade eder.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلْمُتَّقِينَ",
+   "okunus": "elmüttekîne",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "takva sahipleri"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "مَقَامٍ",
+   "okunus": "mekâmin",
+   "kok": "قوم",
+   "kokAnlam": "durma, konum, makam",
+   "karsilik": "bir makamda"
+  },
+  {
+   "kelime": "أَمِينٍ",
+   "okunus": "emînin",
+   "kok": "أمن",
+   "kokAnlam": "güven",
+   "karsilik": "güvenli"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerde anlatılan azap sahnesinin karşısına, takva sahiplerinin durumunu koyar. 'Müttekîn' kelimesi وقي kökünden gelir; kendini kötülükten koruyan, sakınan kimseleri ifade eder. Onların bulunduğu yer 'emîn' (güvenli) olarak nitelenir; bu da أمن kökünden, korku ve tehlikenin olmadığı bir hali anlatır.",
+  "Bu ayetle sure, dehşetli bir sahneden huzurlu bir sahneye geçiş yapar. Sonraki ayetler bu güvenli makamın nasıl bir yer olduğunu ayrıntılandırır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:45",
+   "meal": "Şüphesiz takva sahipleri cennetlerde ve pınarlardadır.",
+   "baglanti": "Hicr suresindeki bu ayet, 44:51'deki 'takva sahipleri' ifadesiyle başlayan benzer bir cümle yapısı taşır ve konuyu cennetlerle devam ettirir."
+  },
+  {
+   "ref": "54:55",
+   "meal": "Güç ve doğruluk sahibi bir hükümdarın katında, hoşnutluk makamındadırlar.",
+   "baglanti": "Kamer suresindeki bu ayet de takva sahiplerinin bulunduğu yeri 'güvenli bir makam' fikrine yakın biçimde tanımlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, takva sahiplerine ahirette vaat edilen güvenli bir konumdur.",
+  "Buradan çıkarılabilecek ders, güvenin sakınmakla (takva ile) bağlantılı olduğudur. Kişi bugünkü hayatında da, doğru bildiği çizgiden sapmadıkça içsel bir huzur ve güven duygusu taşıyabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sakınmayı seç",
+   "aciklama": "Bugün seni yanlışa götürebilecek bir durumdan bilerek uzak dur."
+  },
+  {
+   "baslik": "Huzuru dışarıda arama",
+   "aciklama": "Güven duygusunu geçici şeylerde değil, doğru davranışlarında ara."
+  },
+  {
+   "baslik": "Ahiretteki güveni hatırla",
+   "aciklama": "Bugün, doğru yaşamanın seni ileride bir güvene ulaştıracağını bir an düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün, seni yanlışa sürükleyebilecek bir ortamdan bilinçli olarak uzak dur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=51"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/44/51"
+  }
+ ]
+}

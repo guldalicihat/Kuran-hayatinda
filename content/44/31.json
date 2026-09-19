@@ -1,0 +1,103 @@
+{
+ "sure": 44,
+ "ayet": 31,
+ "durum": "taslak",
+ "meal": "Firavun'dan. Çünkü o, büyüklük taslayan, haddi aşanlardan biriydi.",
+ "mealNotu": "Bu ayet bir önceki ayetin 'azaptan' ifadesine bağlanır: azap Firavun'dandır. 'Âliyen' (علو) yükseklik/kibirlenme, 'müsrifîn' (سرف) haddi aşma anlamı taşır.",
+ "kokler": [
+  {
+   "kelime": "مِّنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "فِرْعَوْنَ",
+   "okunus": "fir'avne",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Firavun",
+   "karsilik": "Firavun'dan"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) çünkü o",
+   "karsilik": "çünkü o"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "عَالِيًا",
+   "okunus": "âliyen",
+   "kok": "علو",
+   "kokAnlam": "yükseklik, büyüklük taslama",
+   "karsilik": "büyüklük taslayan"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُسْرِفِينَ",
+   "okunus": "elmüsrifîne",
+   "kok": "سرف",
+   "kokAnlam": "haddi aşma, israf",
+   "karsilik": "haddi aşanlardan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayette anılan 'alçaltıcı azabın' kaynağını belirtir: Firavun. 'Âliyen' kelimesi علو (yükseklik) kökünden gelir; burada gerçek bir üstünlük değil, haksız yere büyüklük taslamayı anlatır. 'Müsrifîn' ise سرف kökünden, sınırı aşan, ölçüyü kaçıran kimseleri ifade eder.",
+  "Böylece Firavun'un zulmünün kökeninde, kendini gerçekte olduğundan üstün görme ve haddi aşma olduğu vurgulanır. Klasik tefsir bu ayeti, Firavun'un kendini ilahlık iddiasına kadar götüren kibri olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "28:4",
+   "meal": "Şüphesiz Firavun o yerde büyüklenmiş ve halkını bölük bölük ayırmıştı; onlardan bir kesimi zayıf düşürüyor, oğullarını boğazlayıp kadınlarını sağ bırakıyordu. Şüphesiz o, bozgunculardandı.",
+   "baglanti": "Kasas suresindeki bu ayet, 44:31'de 'haddi aşanlardan' denilen Firavun'un büyüklenmesini somut biçimde anlatır."
+  },
+  {
+   "ref": "79:24",
+   "meal": "Ve dedi ki: Sizin en yüce Rabbiniz benim.",
+   "baglanti": "Nâziât'taki bu söz, 44:31'de anılan 'âliyen' (büyüklük taslama) sıfatının ulaştığı son noktayı, ilahlık iddiasını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, tarihi bir kişilik olan Firavun'un zulmünün sebebidir; büyüklenme ve haddi aşma.",
+  "Buradan çıkarılabilecek ders, gücün veya imkânın kişiyi haddini unutturmaması gerektiğidir. Kişi elindeki imkânı başkasına üstünlük taslamak için değil, ölçülü davranmak için kullanmalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Elindeki gücü ölçülü kullan",
+   "aciklama": "Bugün bir konuda üstünlüğün varsa, bunu karşındakini ezmeden kullanmaya dikkat et."
+  },
+  {
+   "baslik": "Kibri fark et",
+   "aciklama": "Bir kararında büyüklenme payı olup olmadığını kendine dürüstçe sor."
+  },
+  {
+   "baslik": "Haddini bilerek konuş",
+   "aciklama": "Bugün bir tartışmada, karşındakini küçümsemeden fikrini söyle."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuşmanda kimseyi küçümsemeden, ölçülü bir dille konuş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=31"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/44/31"
+  }
+ ]
+}

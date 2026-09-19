@@ -1,0 +1,75 @@
+{
+ "sure": 44,
+ "ayet": 34,
+ "durum": "taslak",
+ "meal": "Şüphesiz bunlar diyorlar ki:",
+ "mealNotu": "Ayet, bir sonraki iki ayette aktarılacak sözün girişidir; 'hâülâi' (bunlar) ile Mekkeli müşrikler kastedilir, ayet bunu isim vererek belirtmez.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "هَٰٓؤُلَآءِ",
+   "okunus": "hâülâi",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunlar",
+   "karsilik": "bunlar"
+  },
+  {
+   "kelime": "لَيَقُولُونَ",
+   "okunus": "leyekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz söyleme",
+   "karsilik": "diyorlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetlerde anlatılan İsrailoğulları kıssasından sonra muhatapları -Mekkeli müşrikleri- gündeme getirir. 'Hâülâi' (bunlar) sözü doğrudan o dönemin inkârcılarına işaret eder; kısa ve girişte durur, asıl söz iki ayet sonra aktarılır.",
+  "Ayetin işlevi, gelecek sözün kime ait olduğunu belirtmektir. Bu söz, bir sonraki iki ayette ölümden sonra dirilişi reddeden bir iddia olarak aktarılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "45:24",
+   "meal": "Dediler ki: Hayat, ancak bu dünya hayatımızdır; ölürüz, yaşarız; bizi zamandan başka bir şey helak etmez.",
+   "baglanti": "Câsiye suresindeki bu benzer iddia, 44:34'te sözü edilen 'bunların dediği' şeyin ne tür bir inkâr olduğunu gösteren paralel bir örnektir."
+  },
+  {
+   "ref": "37:16",
+   "meal": "Öldüğümüzde, toprak ve kemik yığını olduğumuzda mı, gerçekten biz mi diriltileceğiz?",
+   "baglanti": "Saffat suresindeki bu soru da aynı inkârcı grubun dirilişe şaşırarak itiraz ettiği benzer bir sözdür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir sözün kimin ağzından çıktığını belirtmektir; bu bir tarihi diyaloğun girişidir.",
+  "Buradan doğrudan bir ders çıkarmak yerine, bir sonraki ayetteki asıl iddiayı beklemek gerekir; bu ayet yalnız bir geçiş cümlesidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Söylenen sözün kaynağına dikkat et",
+   "aciklama": "Bugün duyduğun bir iddiayı kabul etmeden önce kimin söylediğine ve neye dayandığına bak."
+  },
+  {
+   "baslik": "Acele hüküm verme",
+   "aciklama": "Bir konuyu tam dinlemeden yargıya varmaktan kaçın."
+  },
+  {
+   "baslik": "Bağlamı tamamla",
+   "aciklama": "Yarım duyduğun bir bilgiyi tamamlamadan üzerine yorum yapma."
+  }
+ ],
+ "bugununAdimi": "Bugün bir haberi veya iddiayı paylaşmadan önce kaynağını kontrol et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=34"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/44/34"
+  }
+ ]
+}

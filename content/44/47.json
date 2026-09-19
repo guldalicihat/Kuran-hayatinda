@@ -1,0 +1,89 @@
+{
+ "sure": 44,
+ "ayet": 47,
+ "durum": "taslak",
+ "meal": "Onu tutun, cehennemin ortasına sürükleyin.",
+ "mealNotu": "'Fetilûhü' عتل kökünden, sertçe iterek sürüklemeyi ifade eder. Ayet buyruk kipinde, sahneyi sade biçimde aktarır.",
+ "kokler": [
+  {
+   "kelime": "خُذُوهُ",
+   "okunus": "huzûhü",
+   "kok": "أخذ",
+   "kokAnlam": "tutma, alma",
+   "karsilik": "onu tutun"
+  },
+  {
+   "kelime": "فَٱعْتِلُوهُ",
+   "okunus": "fetilûhü",
+   "kok": "عتل",
+   "kokAnlam": "sertçe sürükleme, iterek götürme",
+   "karsilik": "sürükleyin"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "سَوَآءِ",
+   "okunus": "sevâi",
+   "kok": "سوي",
+   "kokAnlam": "eşitlik, orta",
+   "karsilik": "ortasına"
+  },
+  {
+   "kelime": "ٱلْجَحِيمِ",
+   "okunus": "elcehîmi",
+   "kok": "جحم",
+   "kokAnlam": "şiddetli ateş, cehennem",
+   "karsilik": "cehennemin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, zakkum tasvirinin ardından bir buyruk sahnesine geçer: günahkâr kimse için 'onu tutun, cehennemin ortasına sürükleyin' emri verilir. 'Fetilûhü' kelimesi عتل kökünden gelir; sertçe, direnerek götürülen birini iterek sürüklemeyi anlatır.",
+  "Ayet burada duygusal bir tasvire değil, kısa ve doğrudan bir buyruğa yer verir. Bir sonraki ayet bu sahnenin devamını, başına ne döküleceğini anlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "37:23",
+   "meal": "Allah'ı bırakıp da tapmakta olduklarıyla birlikte, zulmedenleri ve eşlerini toplayın, sonra onları cehennemin yoluna götürün.",
+   "baglanti": "Saffât suresindeki bu ayet de benzer bir buyruk sahnesiyle, suçluların cehenneme götürülüşünü anlatır."
+  },
+  {
+   "ref": "69:30",
+   "meal": "Onu tutun, sonra onu bağlayın.",
+   "baglanti": "Hâkka suresindeki bu ayet, 44:47'deki 'onu tutun' emriyle neredeyse aynı kelimeyle başlar ve benzer bir sahneyi tarif eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ahiretteki bir ceza sahnesidir; bu bir kıssa veya benzetme değil, doğrudan bir uyarı sahnesidir.",
+  "Buradan çıkarılabilecek ders, sonuçların bir gün geri döndürülemez biçimde uygulanacağıdır. Bu bilinç, kişiyi bugünkü seçimlerinde daha dikkatli olmaya yöneltebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geri dönüşü olmayanı hatırla",
+   "aciklama": "Bugün bir kararını verirken, bazı sonuçların geri alınamayacağını bir an düşün."
+  },
+  {
+   "baslik": "Uyarıdan ders çıkar",
+   "aciklama": "Bu tür sert bir uyarıyı korkuya kapılmadan, düşünmeye vesile olarak kullan."
+  },
+  {
+   "baslik": "Bugünden düzelt",
+   "aciklama": "Ertelemeden, düzeltebileceğin bir hatanı bugün düzelt."
+  }
+ ],
+ "bugununAdimi": "Bugün, ertelediğin ve düzeltilmesi geri dönüşü zorlaştıracak bir hatanı ele al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=47"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/44/47"
+  }
+ ]
+}
