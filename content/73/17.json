@@ -1,0 +1,110 @@
+{
+ "sure": 73,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "Eğer inkâr ederseniz, çocukları ak saçlı kılacak bir günden nasıl korunacaksınız?",
+ "mealNotu": "'Vaka' kökü وقي korunmayı, sakınmayı anlatır; 'şeyb' kökü شيب saçların ağarmasını, ihtiyarlığı ifade eder. Meal, bu iki kökle ayetin sorusunu birebir yansıtır.",
+ "kokler": [
+  {
+   "kelime": "فَكَيْفَ",
+   "okunus": "fekeyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl",
+   "karsilik": "o halde nasıl"
+  },
+  {
+   "kelime": "تَتَّقُونَ",
+   "okunus": "tettekûne",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "korunacaksınız"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَفَرْتُمْ",
+   "okunus": "kefertüm",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği inkâr etme",
+   "karsilik": "inkâr ederseniz"
+  },
+  {
+   "kelime": "يَوْمًا",
+   "okunus": "yevmen",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bir günden"
+  },
+  {
+   "kelime": "يَجْعَلُ",
+   "okunus": "yec'alü",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "kılacak"
+  },
+  {
+   "kelime": "ٱلْوِلْدَٰنَ",
+   "okunus": "elvildâne",
+   "kok": "ولد",
+   "kokAnlam": "doğma, çocuk",
+   "karsilik": "çocukları"
+  },
+  {
+   "kelime": "شِيبًا",
+   "okunus": "şîben",
+   "kok": "شيب",
+   "kokAnlam": "saçların ağarması, ihtiyarlık",
+   "karsilik": "ak saçlı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki iki ayette anlatılan Firavun örneğinden sonra, doğrudan Mekke müşriklerine bir soru yöneltir: eğer inkârda ısrar ederlerse, o kadar ağır bir günden nasıl korunacaklardır? 'Çocukları ak saçlı kılan gün' ifadesi, günün dehşetini, en genç ve dinç olanları bile anında yaşlandıracak kadar ağır olduğunu anlatan bir benzetmedir.",
+  "Klasik tefsir bu ifadeyi, kıyamet gününün şiddetini güçlü bir imge ile anlatan bir üslup olarak açıklar. Soru cümlesi biçimindeki bu ayet, cevabı dinleyenin kendisine bırakır; doğrudan bir tehdit değil, düşünmeye çağıran bir sorudur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "22:2",
+   "meal": "O gün her emzikli kadın emzirdiğini unutur, her gebe kadın çocuğunu düşürür; insanları sarhoş gibi görürsün, oysa sarhoş değildirler; ama Allah'ın azabı çok şiddetlidir.",
+   "baglanti": "Kıyamet gününün şiddetinin insanı derinden etkileyecek kadar ağır olduğu burada da anlatılır; 73:17'deki 'çocukları ak saçlı kılan gün' imgesiyle aynı temayı paylaşır."
+  },
+  {
+   "ref": "74:9",
+   "meal": "İşte o gün, zor bir gündür.",
+   "baglanti": "Kıyamet gününün zorluğu burada kısa ve doğrudan ifade edilir; 73:17'deki soru cümlesiyle aynı uyarıyı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, inkârda ısrar edenlere yöneltilen bir uyarı sorusudur; bu, Mekke müşriklerine özel bir bağlamda söylenmiştir.",
+  "Buradan çıkan genel ders, büyük ve kaçınılmaz bir günün varlığını unutmadan yaşamaktır; bu bilinç, insanı bugünkü seçimlerinde daha dikkatli olmaya yöneltir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Büyük resmi unutma",
+   "aciklama": "Bugün küçük bir sıkıntıyla uğraşırken, hayatın bütününü ve sonunu bir an hatırla."
+  },
+  {
+   "baslik": "Ciddiyetle sorumluluk al",
+   "aciklama": "Bugün önemsiz gördüğün ama aslında değerli bir sorumluluğu ciddiyetle ele al."
+  },
+  {
+   "baslik": "Kendine bir soru sor",
+   "aciklama": "Bugün verdiğin bir kararın, uzun vadede seni nereye götüreceğini kendine sor."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararını verirken, 'bunun uzun vadeli sonucu ne olur' diye kendine sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=73&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/73/17"
+  }
+ ]
+}

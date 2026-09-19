@@ -1,0 +1,605 @@
+{
+ "sure": 73,
+ "ayet": 20,
+ "durum": "taslak",
+ "meal": "Şüphesiz Rabbin, senin ve seninle beraber olanlardan bir topluluğun, gecenin üçte ikisine yakınını, yarısını ve üçte birini kalktığını bilir. Geceyi ve gündüzü Allah ölçüp takdir eder. Sizin buna güç yetiremeyeceğinizi bildi de size döndü [yükünüzü hafifletti]. Artık Kur'an'dan kolayınıza geleni okuyun. İçinizden hastalar olacağını, başkalarının Allah'ın lütfundan aramak için yeryüzünde yol tepeceğini [yolculuk edeceğini], yine başkalarının Allah yolunda savaşacağını bildi. Öyleyse ondan kolayınıza geleni okuyun; namazı dosdoğru kılın, zekâtı verin ve Allah'a güzel bir borç verin. Kendiniz için önden gönderdiğiniz her hayrı, Allah katında daha hayırlı ve ödülce daha büyük olarak bulursunuz. Allah'tan bağışlanma dileyin; şüphesiz Allah çok bağışlayan, çok merhamet edendir.",
+ "mealNotu": "'Yadribûne fi'l-ard' (yeryüzünde yol tepmek) kökü ضرب, burada rızık/ticaret için yolculuk etmeyi anlatır; bu, aynı ayette ayrıca geçen ve 'kıtal' kökünden gelen 'Allah yolunda savaşma' ifadesinden farklı bir gruptur - biri geçim için yolculuğu, diğeri fiilen savaşı anlatır; meale her ikisi kendi anlamıyla, birbirine karıştırılmadan yansıtılmıştır. 'Tâbe aleyküm' ifadesi 'size döndü, tövbenizi kabul etti' anlamındadır; meale [yükünüzü hafifletti] köşeli parantezle eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "رَبَّكَ",
+   "okunus": "rabbeke",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, Rab",
+   "karsilik": "Rabbin"
+  },
+  {
+   "kelime": "يَعْلَمُ",
+   "okunus": "ya'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilir"
+  },
+  {
+   "kelime": "أَنَّكَ",
+   "okunus": "enneke",
+   "kok": "—",
+   "kokAnlam": "(te'kid) senin ... olduğunu",
+   "karsilik": "senin"
+  },
+  {
+   "kelime": "تَقُومُ",
+   "okunus": "tekûmü",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, kalkma",
+   "karsilik": "kalktığını"
+  },
+  {
+   "kelime": "أَدْنَىٰ",
+   "okunus": "ednâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık, yakın olma",
+   "karsilik": "yakınını"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ثُلُثَىِ",
+   "okunus": "sülüseyi",
+   "kok": "ثلث",
+   "kokAnlam": "üçte bir, üçte iki",
+   "karsilik": "üçte ikisine"
+  },
+  {
+   "kelime": "ٱلَّيْلَ",
+   "okunus": "elleyli",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "gecenin"
+  },
+  {
+   "kelime": "وَنِصْفَهُۥ",
+   "okunus": "ve nisfehû",
+   "kok": "نصف",
+   "kokAnlam": "yarı, yarısı",
+   "karsilik": "ve yarısını"
+  },
+  {
+   "kelime": "وَثُلُثَهُۥ",
+   "okunus": "ve sülüsehû",
+   "kok": "ثلث",
+   "kokAnlam": "üçte bir",
+   "karsilik": "ve üçte birini"
+  },
+  {
+   "kelime": "وَطَآئِفَةٌ",
+   "okunus": "ve tâifetün",
+   "kok": "طوف",
+   "kokAnlam": "dolaşan grup, topluluk",
+   "karsilik": "ve bir topluluk"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olanlar",
+   "karsilik": "seninle olanlardan"
+  },
+  {
+   "kelime": "مَعَكَ",
+   "okunus": "meake",
+   "kok": "—",
+   "kokAnlam": "(yer) seninle beraber",
+   "karsilik": "seninle beraber"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tanrı, ilah; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يُقَدِّرُ",
+   "okunus": "yükaddiru",
+   "kok": "قدر",
+   "kokAnlam": "ölçüp takdir etme",
+   "karsilik": "ölçüp takdir eder"
+  },
+  {
+   "kelime": "ٱلَّيْلَ",
+   "okunus": "elleyle",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "geceyi"
+  },
+  {
+   "kelime": "وَٱلنَّهَارَ",
+   "okunus": "ven nehâra",
+   "kok": "نهر",
+   "kokAnlam": "gündüz",
+   "karsilik": "ve gündüzü"
+  },
+  {
+   "kelime": "عَلِمَ",
+   "okunus": "alime",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bildi"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "لَّن",
+   "okunus": "len",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) asla, kesinlikle -meyecek",
+   "karsilik": "asla"
+  },
+  {
+   "kelime": "تُحْصُوهُ",
+   "okunus": "tühsûhü",
+   "kok": "حصي",
+   "kokAnlam": "sayıp hesaplama, tam olarak kavrama",
+   "karsilik": "buna güç yetiremeyeceksiniz"
+  },
+  {
+   "kelime": "فَتَابَ",
+   "okunus": "fetâbe",
+   "kok": "توب",
+   "kokAnlam": "geri dönme, tövbeyi kabul etme",
+   "karsilik": "size döndü (yükünüzü hafifletti)"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sizin üzerinize",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "فَٱقْرَءُوا۟",
+   "okunus": "fekraû",
+   "kok": "قرأ",
+   "kokAnlam": "okuma",
+   "karsilik": "artık okuyun"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "ne ki"
+  },
+  {
+   "kelime": "تَيَسَّرَ",
+   "okunus": "teyessera",
+   "kok": "يسر",
+   "kokAnlam": "kolaylaşma",
+   "karsilik": "kolayınıza geldi"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانِ",
+   "okunus": "elkur'âni",
+   "kok": "قرأ",
+   "kokAnlam": "okuma; okunan kitap",
+   "karsilik": "Kur'an'dan"
+  },
+  {
+   "kelime": "عَلِمَ",
+   "okunus": "alime",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bildi"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "سَيَكُونُ",
+   "okunus": "seyekûnü",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olacak"
+  },
+  {
+   "kelime": "مِنكُم",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sizden",
+   "karsilik": "içinizden"
+  },
+  {
+   "kelime": "مَّرْضَىٰ",
+   "okunus": "merdâ",
+   "kok": "مرض",
+   "kokAnlam": "hastalık",
+   "karsilik": "hastalar"
+  },
+  {
+   "kelime": "وَءَاخَرُونَ",
+   "okunus": "ve âharûne",
+   "kok": "أخر",
+   "kokAnlam": "diğeri, başkası",
+   "karsilik": "ve başkaları"
+  },
+  {
+   "kelime": "يَضْرِبُونَ",
+   "okunus": "yadribûne",
+   "kok": "ضرب",
+   "kokAnlam": "vurma; yeryüzünde yol tepme, yolculuk etme",
+   "karsilik": "yeryüzünde yol tepecek"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) de, içinde",
+   "karsilik": "de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yeryüzü",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "يَبْتَغُونَ",
+   "okunus": "yebteğûne",
+   "kok": "بغي",
+   "kokAnlam": "arama, isteme",
+   "karsilik": "arayarak"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "فَضْلِ",
+   "okunus": "fadli",
+   "kok": "فضل",
+   "kokAnlam": "lütuf, fazlalık",
+   "karsilik": "lütfundan"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tanrı, ilah; Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَءَاخَرُونَ",
+   "okunus": "ve âharûne",
+   "kok": "أخر",
+   "kokAnlam": "diğeri, başkası",
+   "karsilik": "ve başkaları"
+  },
+  {
+   "kelime": "يُقَٰتِلُونَ",
+   "okunus": "yükâtilûne",
+   "kok": "قتل",
+   "kokAnlam": "öldürme; karşılıklı savaşma",
+   "karsilik": "savaşacak"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) de, içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tanrı, ilah; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "فَٱقْرَءُوا۟",
+   "okunus": "fekraû",
+   "kok": "قرأ",
+   "kokAnlam": "okuma",
+   "karsilik": "öyleyse okuyun"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "ne ki"
+  },
+  {
+   "kelime": "تَيَسَّرَ",
+   "okunus": "teyessera",
+   "kok": "يسر",
+   "kokAnlam": "kolaylaşma",
+   "karsilik": "kolayınıza geldi"
+  },
+  {
+   "kelime": "مِنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "وَأَقِيمُوا۟",
+   "okunus": "ve ekîmû",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; dosdoğru kılma",
+   "karsilik": "ve dosdoğru kılın"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "namaz",
+   "karsilik": "namazı"
+  },
+  {
+   "kelime": "وَءَاتُوا۟",
+   "okunus": "ve âtû",
+   "kok": "أتي",
+   "kokAnlam": "verme, getirme",
+   "karsilik": "ve verin"
+  },
+  {
+   "kelime": "ٱلزَّكَوٰةَ",
+   "okunus": "ezzekâte",
+   "kok": "زكو",
+   "kokAnlam": "arınma, zekât",
+   "karsilik": "zekâtı"
+  },
+  {
+   "kelime": "وَأَقْرِضُوا۟",
+   "okunus": "ve ekridû",
+   "kok": "قرض",
+   "kokAnlam": "borç verme",
+   "karsilik": "ve borç verin"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tanrı, ilah; Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "قَرْضًا",
+   "okunus": "kardan",
+   "kok": "قرض",
+   "kokAnlam": "borç",
+   "karsilik": "bir borç"
+  },
+  {
+   "kelime": "حَسَنًا",
+   "okunus": "hasenen",
+   "kok": "حسن",
+   "kokAnlam": "iyilik, güzellik",
+   "karsilik": "güzel"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(şart) her ne",
+   "karsilik": "ve her ne ki"
+  },
+  {
+   "kelime": "تُقَدِّمُوا۟",
+   "okunus": "tükaddimû",
+   "kok": "قدم",
+   "kokAnlam": "önden gönderme",
+   "karsilik": "önden gönderirseniz"
+  },
+  {
+   "kelime": "لِأَنفُسِكُم",
+   "okunus": "lienfüsiküm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi öz varlığı",
+   "karsilik": "kendiniz için"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "خَيْرٍ",
+   "okunus": "hayrin",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "تَجِدُوهُ",
+   "okunus": "tecidûhü",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "onu bulursunuz"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "yan, kat",
+   "karsilik": "katında"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tanrı, ilah; Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "خَيْرًا",
+   "okunus": "hayran",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "daha hayırlı"
+  },
+  {
+   "kelime": "وَأَعْظَمَ",
+   "okunus": "ve a'zame",
+   "kok": "عظم",
+   "kokAnlam": "büyüklük",
+   "karsilik": "ve daha büyük"
+  },
+  {
+   "kelime": "أَجْرًا",
+   "okunus": "ecran",
+   "kok": "أجر",
+   "kokAnlam": "karşılık, ödül, ecir",
+   "karsilik": "ödülce"
+  },
+  {
+   "kelime": "وَٱسْتَغْفِرُوا۟",
+   "okunus": "vestağfirû",
+   "kok": "غفر",
+   "kokAnlam": "örtme, bağışlama dileme",
+   "karsilik": "ve bağışlanma dileyin"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tanrı, ilah; Allah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tanrı, ilah; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَفُورٌ",
+   "okunus": "gafûrun",
+   "kok": "غفر",
+   "kokAnlam": "örtme, çokça bağışlama",
+   "karsilik": "çok bağışlayandır"
+  },
+  {
+   "kelime": "رَّحِيمٌۢ",
+   "okunus": "rahîmüm",
+   "kok": "رحم",
+   "kokAnlam": "merhamet, esirgeme",
+   "karsilik": "çok merhamet edendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, surenin en uzun ayeti olup, açılıştaki gece kıyamı emrinin (73:2-4) zaman içinde nasıl uygulandığını ve nasıl hafifletildiğini anlatır. Allah, Hz. Peygamber ve beraberindeki bir topluluğun gecenin değişen bir kısmında (bazen üçte ikiye yakın, bazen yarısı, bazen üçte biri) kalktığını bildiğini belirtir; bu, ilk emrin kesin ve tek bir ölçüyle değil, uygulamada zamanla değişen bir yoğunlukla yerine getirildiğini gösterir. Ardından, insanların bu süreyi tam olarak hesaplayıp sürdüremeyeceğini bildiği için Allah'ın bu yükü hafiflettiği, artık Kur'an'dan 'kolayınıza geleni' okumanın yeterli olduğu belirtilir.",
+  "Ayet, bu hafifletmenin gerekçesini de sıralar: kimileri hasta olacak, kimileri geçim için yolculuk edecek, kimileri de Allah yolunda savaşacaktır; hayatın farklı sorumlulukları, herkesin aynı yoğunlukta gece ibadeti yapmasını güçleştirir. Bu yüzden ayeti, 'gece kıyamı şu kadar dakika farzdır' şeklinde kesin bir fıkhi ölçüye indirgemek yerine, başlangıçta ağırlaştırılan bir emrin, insanların farklı halleri gözetilerek kademeli şekilde kolaylaştırıldığı bir süreç olarak okumak daha isabetlidir. Ayet, namaz ve zekâtı da hatırlatarak bu hafifletmeyi ibadetlerin bütünüyle bir denge içinde anlatır ve bağışlanma dileğiyle biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:245",
+   "meal": "Kim Allah'a güzel bir borç verirse, Allah da onu kat kat fazlasıyla geri verir.",
+   "baglanti": "'Kardan hasenen' (güzel bir borç) ifadesi aynen burada da geçer; 73:20'deki 'Allah'a güzel bir borç verin' emrinin karşılığını gösterir."
+  },
+  {
+   "ref": "62:10",
+   "meal": "Namaz kılınınca yeryüzüne dağılın ve Allah'ın lütfundan arayın.",
+   "baglanti": "Yeryüzünde dolaşıp Allah'ın lütfundan (rızkı) arama teması burada da işlenir; 73:20'deki 'Allah'ın lütfundan aramak için yeryüzünde yol tepenler' ifadesiyle aynı temayı, ticaret ve geçim bağlamında paylaşır."
+  },
+  {
+   "ref": "2:185",
+   "meal": "Allah sizin için kolaylık ister, güçlük istemez.",
+   "baglanti": "Bu ilke, 73:20'de gece kıyamının hafifletilmesinin arkasındaki genel mantığı özetler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, gece ibadetinin zamanla hafifletilmesi ve bunun yanında namaz, zekât ve bağışlanma dileğinin hatırlatılmasıdır; hastalık, yolculuk ve Allah yolunda çaba gibi farklı hayat durumları burada gözetilir.",
+  "Buradan çıkan genel ders, dinin kişiyi gücünün üstünde bir yükümlülükle zorlamadığı, herkesin kendi durumuna göre elinden geleni yapmasının yeterli görüldüğüdür; bu, ibadetler kadar günlük sorumluluklar için de geçerli bir ilkedir - kendi haline uygun, sürdürülebilir bir ölçü belirlemek, tükenmekten iyidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gücünün üstünde bir hedef koyma",
+   "aciklama": "Bugün kendine, sürdüremeyeceğin değil, gerçekçi bir hedef belirle."
+  },
+  {
+   "baslik": "Kolayına geleni ihmal etme",
+   "aciklama": "Bugün 'tam olamıyorum' diyerek tamamen bıraktığın bir alışkanlığı, az da olsa sürdür."
+  },
+  {
+   "baslik": "Bir hayrını bugün önden gönder",
+   "aciklama": "Bugün küçük bir yardım veya bağışta bulun; karşılığını hemen görmesen de bunun bir karşılığı olduğunu bil."
+  }
+ ],
+ "bugununAdimi": "Bugün gücünün üstünde olmayan, ama düzenli sürdürebileceğin bir hedef belirle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=73&verse=20"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/73/20"
+  }
+ ]
+}

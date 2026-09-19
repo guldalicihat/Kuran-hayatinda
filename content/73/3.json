@@ -1,0 +1,89 @@
+{
+ "sure": 73,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Yarısı kadar, ya da ondan biraz eksilt,",
+ "mealNotu": "'Nısf' kökü نصف yarıyı, 'naks' kökü نقص eksilmeyi anlatır; ayet bir önceki ayetteki 'az bir kısmı hariç' ifadesini, yarı ölçüsü ve ondan biraz daha az olma seçeneğiyle netleştirir.",
+ "kokler": [
+  {
+   "kelime": "نِّصْفَهُۥٓ",
+   "okunus": "nisfehû",
+   "kok": "نصف",
+   "kokAnlam": "yarı, yarısı",
+   "karsilik": "yarısı"
+  },
+  {
+   "kelime": "أَوِ",
+   "okunus": "evi",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya, ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "ٱنقُصْ",
+   "okunus": "inkus",
+   "kok": "نقص",
+   "kokAnlam": "eksiltme, azaltma",
+   "karsilik": "eksilt"
+  },
+  {
+   "kelime": "مِنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "قَلِيلًا",
+   "okunus": "kalîlen",
+   "kok": "قلل",
+   "kokAnlam": "azlık, azalma",
+   "karsilik": "biraz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayette geçen 'az bir kısmı hariç' ifadesini somutlaştırır: gecenin yarısı kadar kalkış, ya da bundan biraz daha az. 'Nakas' kökü eksilmeyi, azaltmayı ifade eder; burada verilen esneklik, kesin tek bir ölçü yerine bir aralık sunar.",
+  "Sonraki ayet bu ölçüye bir üst sınır da ekleyecek ve isteyenin yarıdan fazlasını da yapabileceğini belirtecektir. Böylece bu üç ayet (2-4) birlikte, gece kıyamı için esnek bir çerçeve çizer; katı bir zorunluluk değil, kademeli bir yönlendirme sunulur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "73:20",
+   "meal": "Rabbin, senin ve beraberindekilerden bir topluluğun gecenin üçte ikisine yakınını, yarısını ve üçte birini kalktığını bilir; artık Kur'an'dan kolayınıza geleni okuyun.",
+   "baglanti": "Sure sonunda bu ölçüler tekrar anılır ve emir, insanların gücünü aşmayacak şekilde daha da kolaylaştırılır."
+  },
+  {
+   "ref": "17:79",
+   "meal": "Gecenin bir kısmında sana mahsus fazladan bir namaz olarak teheccüde kalk.",
+   "baglanti": "İsrâ suresindeki bu emir, Müzzemmil'de tarif edilen gece kıyamıyla aynı ibadete işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, gece kıyamının süresine dair bir esneklik tanımıdır; kesin bir zorunluluk yerine bir aralık verilir.",
+  "Buradan çıkan ders, bir sorumluluğu yerine getirirken kendine gerçekçi bir ölçü belirleyebilmektir; her şeyi ya tam ya hiç mantığıyla değil, durumuna göre ayarlanabilir bir hedefle ilerlemek sürdürülebilir olur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugünkü hedefini esnek belirle",
+   "aciklama": "Yapacağın bir işte kendine sabit değil, durumuna göre ayarlanabilir bir süre veya miktar belirle."
+  },
+  {
+   "baslik": "Az da olsa devam et",
+   "aciklama": "Bugün bir alışkanlığını tam yapamıyorsan, azaltarak da olsa sürdür, tamamen bırakma."
+  },
+  {
+   "baslik": "Kendine ölçülü bir hedef yaz",
+   "aciklama": "Abartılı bir hedef yerine bugün gerçekten tutturabileceğin bir ölçü belirle."
+  }
+ ],
+ "bugununAdimi": "Bugün bir alışkanlığın için 'tam ya da hiç' yerine ölçülü bir hedef yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=73&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/73/3"
+  }
+ ]
+}

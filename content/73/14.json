@@ -1,0 +1,110 @@
+{
+ "sure": 73,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "O gün yer ve dağlar sarsılır, dağlar akıp dağılan bir kum yığını olur.",
+ "mealNotu": "'Recf' kökü رجف şiddetli sarsıntıyı, 'heyl' kökü هيل akıp dökülmeyi, savrulmayı anlatır; 'kesîb' kum yığını demektir. Meal bu köklere sadık kalınarak verilmiştir.",
+ "kokler": [
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "تَرْجُفُ",
+   "okunus": "tercüfü",
+   "kok": "رجف",
+   "kokAnlam": "şiddetli sarsılma",
+   "karsilik": "sarsılır"
+  },
+  {
+   "kelime": "ٱلْأَرْضُ",
+   "okunus": "el'erdu",
+   "kok": "أرض",
+   "kokAnlam": "yeryüzü",
+   "karsilik": "yer"
+  },
+  {
+   "kelime": "وَٱلْجِبَالُ",
+   "okunus": "vel cibâlü",
+   "kok": "جبل",
+   "kokAnlam": "dağ",
+   "karsilik": "ve dağlar"
+  },
+  {
+   "kelime": "وَكَانَتِ",
+   "okunus": "ve kâneti",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ve olur"
+  },
+  {
+   "kelime": "ٱلْجِبَالُ",
+   "okunus": "elcibâlü",
+   "kok": "جبل",
+   "kokAnlam": "dağ",
+   "karsilik": "dağlar"
+  },
+  {
+   "kelime": "كَثِيبًا",
+   "okunus": "kesîben",
+   "kok": "كثب",
+   "kokAnlam": "kum yığını",
+   "karsilik": "bir kum yığını"
+  },
+  {
+   "kelime": "مَّهِيلًا",
+   "okunus": "mehîlen",
+   "kok": "هيل",
+   "kokAnlam": "akıp dökülme, savrulma",
+   "karsilik": "akıp dağılan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetlerdeki azap tasvirinin ardından, bu azabın gerçekleşeceği günü, kıyamet gününü tanıtır. 'Recf' kökü şiddetli bir sarsıntıyı, 'heyl' kökü ise katı bir yapının akışkan, savrulan bir hale gelmesini anlatır; dağlar gibi en sağlam görünen yapılar bile bu günde kum yığınına dönüşür.",
+  "Klasik tefsir bu tasviri, dünyadaki en sağlam ve değişmez görünen şeylerin bile o gün geçici olduğunu göstermek için anlamlı bulur. Bu ayet, önceki ayetlerdeki azap tasvirinin hangi zaman diliminde gerçekleşeceğini belirterek konuyu bağlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "101:5",
+   "meal": "Dağlar da atılmış, didik didik edilmiş yün gibi olur.",
+   "baglanti": "Dağların dağılıp hafifleyen bir hale gelmesi teması burada da işlenir; 73:14'teki 'kum yığını' benzetmesiyle aynı kıyamet sahnesini tasvir eder."
+  },
+  {
+   "ref": "20:105",
+   "meal": "Sana dağlar hakkında soruyorlar; de ki: Rabbim onları ufalayıp savuracak.",
+   "baglanti": "Dağların ufalanıp savrulması burada da anlatılır; 73:14'teki 'akıp dağılan kum yığını' tasviriyle aynı sahneyi tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyamet gününde yer ve dağların alacağı halin tasviridir; bu, dünyanın en sağlam gördüğümüz unsurlarının bile geçici olduğunu gösteren bir sahnedir.",
+  "Buradan çıkan ders, dünyadaki hiçbir maddi güvencenin kalıcı olmadığı bilincidir; insan, servetine, gücüne veya sağlamlığına güvenirken bunların bir gün son bulacağını unutmamalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Güvendiğin bir şeyin geçiciliğini hatırla",
+   "aciklama": "Bugün çok güvendiğin bir imkânın (mal, sağlık, güç) aslında geçici olduğunu bir an düşün."
+  },
+  {
+   "baslik": "Kalıcı olana yatırım yap",
+   "aciklama": "Bugün zamanını, kalıcı bir değeri olan bir işe ya da ilişkiye ayır."
+  },
+  {
+   "baslik": "Maddi güvenle böbürlenme",
+   "aciklama": "Sahip olduğun bir imkânla başkasına üstünlük taslamaktan bugün özellikle kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün en çok güvendiğin bir imkânın geçici olduğunu bir kez daha hatırla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=73&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/73/14"
+  }
+ ]
+}

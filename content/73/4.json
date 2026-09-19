@@ -1,0 +1,96 @@
+{
+ "sure": 73,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "ya da üzerine artır. Kur'an'ı tane tane, ağır ağır oku.",
+ "mealNotu": "'Zâde' kökü زيد artırmayı anlatır ve bir önceki ayetteki yarı ölçüsüne üst sınır ekler. 'Rettele' kökü رتل harfleri ayırarak, düzgün ve ağır ağır okumayı ifade eder; 'tertîlâ' bu okuyuşun tarzını pekiştirir.",
+ "kokler": [
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya, ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "زِدْ",
+   "okunus": "zid",
+   "kok": "زيد",
+   "kokAnlam": "artırma, fazlalaştırma",
+   "karsilik": "üzerine artır"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onun üzerine",
+   "karsilik": "onun üzerine"
+  },
+  {
+   "kelime": "وَرَتِّلِ",
+   "okunus": "ve rattili",
+   "kok": "رتل",
+   "kokAnlam": "harfleri ayırarak ağır ağır okuma",
+   "karsilik": "ve tane tane oku"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانَ",
+   "okunus": "elkur'âne",
+   "kok": "قرأ",
+   "kokAnlam": "okuma; okunan kitap",
+   "karsilik": "Kur'an'ı"
+  },
+  {
+   "kelime": "تَرْتِيلًا",
+   "okunus": "tertîlen",
+   "kok": "رتل",
+   "kokAnlam": "harfleri ayırarak ağır ağır okuma",
+   "karsilik": "tane tane okuyuşla"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki iki ayette verilen (yarı, yarıdan az) ölçüye bir de 'üzerine artırma' seçeneği ekleyerek gece kıyamı için tanınan esnekliği tamamlar. Ardından gelen 'Kur'an'ı tertîl ile oku' emri, hem bu gece kıyamının içeriğini (Kur'an okumak) hem de okuyuş tarzını (ağır ağır, harfleri belirgin şekilde) tarif eder.",
+  "'Tertîl' kökü aynı kökten gelen bir isimle pekiştirilerek (tertîlen) vurgulanır; bu, hızlı ve düşünmeden değil, anlaşılır ve düzenli bir okuyuşu işaret eder. Klasik tefsir bu emri, hem gece namazındaki kıraat hem de genel olarak Kur'an okuma âdâbı için geçerli bir ilke olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:32",
+   "meal": "İnkâr edenler dediler ki: 'Kur'an ona bir defada topluca indirilmeli değil miydi?' Biz onu böyle indirdik ki kalbini onunla sağlamlaştıralım; onu tane tane okuduk.",
+   "baglanti": "Aynı 'rettele' kökü burada Kur'an'ın iniş tarzı için kullanılır; 73:4'teki tertîl emri bu iniş tarzıyla uyumludur."
+  },
+  {
+   "ref": "17:106",
+   "meal": "Biz Kur'an'ı, insanlara ağır ağır okuman için kısımlara ayırdık ve onu safha safha indirdik.",
+   "baglanti": "Kur'an'ın parça parça ve ağır ağır indirilmesi, 73:4'teki tertîl emriyle aynı yavaş, anlaşılır okuyuş ilkesini paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kur'an okuyuşunun tarzıdır: hızlı değil, harfleri belirgin ve anlaşılır biçimde, ağır ağır okumak.",
+  "Buradan çıkan genel ders, yalnız Kur'an okumak için değil, önemli bir metni okurken ya da bir konuyu öğrenirken de aceleye getirmeden, anlayarak ilerlemenin değerine dairdir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugün bir şeyi yavaşça, anlayarak oku",
+   "aciklama": "Hızlıca göz gezdirdiğin bir metni bugün yavaşlatıp gerçekten anlayarak oku."
+  },
+  {
+   "baslik": "Kur'an'dan bir bölümü tane tane oku",
+   "aciklama": "Bugün birkaç ayeti aceleye getirmeden, anlamını düşünerek oku."
+  },
+  {
+   "baslik": "Acele ettiğin bir işi yavaşlat",
+   "aciklama": "Bugün hızlı bitirmeye çalıştığın bir işte bilinçli olarak yavaşla ve dikkatini artır."
+  }
+ ],
+ "bugununAdimi": "Bugün en az beş dakika, bir metni ya da ayeti aceleye getirmeden, tane tane oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=73&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/73/4"
+  }
+ ]
+}

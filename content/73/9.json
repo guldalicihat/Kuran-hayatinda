@@ -1,0 +1,117 @@
+{
+ "sure": 73,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Doğunun ve batının Rabbi'dir; O'ndan başka ilah yoktur. Öyleyse O'nu vekil edin.",
+ "mealNotu": "'Vekîl' kökü وكل güvenip işini bırakmayı, temsilci edinmeyi anlatır; meal bu kökle uyumlu olarak 'vekil edin' şeklinde verilmiştir.",
+ "kokler": [
+  {
+   "kelime": "رَّبُّ",
+   "okunus": "rabbü",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, Rab",
+   "karsilik": "Rabbi'dir"
+  },
+  {
+   "kelime": "ٱلْمَشْرِقِ",
+   "okunus": "elmeşrikı",
+   "kok": "شرق",
+   "kokAnlam": "doğma, doğu",
+   "karsilik": "doğunun"
+  },
+  {
+   "kelime": "وَٱلْمَغْرِبِ",
+   "okunus": "vel mağribi",
+   "kok": "غرب",
+   "kokAnlam": "batma, batı",
+   "karsilik": "ve batının"
+  },
+  {
+   "kelime": "لَآ",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "إِلَٰهَ",
+   "okunus": "ilâhe",
+   "kok": "أله",
+   "kokAnlam": "tanrı, ilah",
+   "karsilik": "ilah"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) başka, hariç",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "O'ndan"
+  },
+  {
+   "kelime": "فَٱتَّخِذْهُ",
+   "okunus": "fettehızhü",
+   "kok": "أخذ",
+   "kokAnlam": "alma, edinme",
+   "karsilik": "öyleyse O'nu edinin"
+  },
+  {
+   "kelime": "وَكِيلًا",
+   "okunus": "vekîlen",
+   "kok": "وكل",
+   "kokAnlam": "güvenip iş bırakma, vekil edinme",
+   "karsilik": "vekil"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerdeki zikir ve yöneliş emrinin gerekçesini genişletir: yönelinecek olan, doğunun da batının da Rabbi'dir ve O'ndan başka ilah yoktur. 'Meşrik' ve 'mağrib' ifadeleri, güneşin doğuş ve batış noktalarını kapsayarak Allah'ın hâkimiyetinin bütün yönleri kuşattığını anlatır.",
+  "'Vekîl' kökü, işini güvenle bırakabileceğin bir temsilciyi ifade eder; ayet, tevhid inancının pratik sonucunu ortaya koyar: yalnız var olduğuna inanılan değil, aynı zamanda güvenilip işlerin bırakıldığı bir Rab. Klasik tefsir bu ayeti, tevhidin hem inanç hem güven boyutunu birleştiren bir ifade olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:115",
+   "meal": "Doğu da batı da Allah'ındır; nereye dönerseniz Allah'ın yüzü (rızası) oradadır.",
+   "baglanti": "Doğu-batının Allah'a ait olması teması burada da işlenir; 73:9'daki 'doğunun ve batının Rabbi' ifadesiyle örtüşür."
+  },
+  {
+   "ref": "6:102",
+   "meal": "İşte Rabbiniz Allah budur; O'ndan başka ilah yoktur, her şeyin yaratıcısıdır; öyleyse O'na kulluk edin, O her şeye vekildir.",
+   "baglanti": "Aynı 'vekîl' kelimesiyle biten bu ayet, 73:9'daki tevhid ve güven vurgusunu güçlü biçimde tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah'ın tekliği ve O'na güvenilip işlerin bırakılmasıdır; bu, önceki ayetteki yöneliş emrinin gerekçesidir.",
+  "Buradan çıkan ders, kontrol edemediğin şeyler karşısında kaygıyı elinden geldiğince bırakıp, elinden geleni yaptıktan sonra sonucu güvenle Allah'a havale edebilmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Elinde olmayan bir şeyi bırak",
+   "aciklama": "Bugün kontrol edemediğin bir konudaki kaygını fark et ve elinden geleni yaptıktan sonra bırakmayı dene."
+  },
+  {
+   "baslik": "Bir işi yaptıktan sonra güvenle bekle",
+   "aciklama": "Bugün tamamladığın bir işin sonucunu sürekli kontrol etme isteğini bir kenara bırak."
+  },
+  {
+   "baslik": "Güven duyduğun birine iş bırak",
+   "aciklama": "Bugün bir işi güvendiğin birine devretmeyi dene, her şeyi tek başına taşımak zorunda değilsin."
+  }
+ ],
+ "bugununAdimi": "Bugün elinden geleni yaptığın bir konuda kaygıyı bırakmayı dene.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=73&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/73/9"
+  }
+ ]
+}

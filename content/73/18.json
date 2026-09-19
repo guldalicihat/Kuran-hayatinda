@@ -1,0 +1,96 @@
+{
+ "sure": 73,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "Gök, o günde yarılmıştır; O'nun vaadi yerine getirilmiştir.",
+ "mealNotu": "'Fatr' kökü فطر yarılmayı, çatlamayı anlatır; 'fiil' kökü فعل bir şeyin yapılıp gerçekleştirilmesini ifade eder. Geçmiş zaman kullanımı, olayın kesinliğini vurgulamak için meale 'yarılmıştır, yerine getirilmiştir' şeklinde yansıtılmıştır.",
+ "kokler": [
+  {
+   "kelime": "ٱلسَّمَآءُ",
+   "okunus": "essemâü",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "gök"
+  },
+  {
+   "kelime": "مُنفَطِرٌۢ",
+   "okunus": "münfetırum",
+   "kok": "فطر",
+   "kokAnlam": "yarılma, çatlama",
+   "karsilik": "yarılmıştır"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onunla, onda",
+   "karsilik": "o günde"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmuştur"
+  },
+  {
+   "kelime": "وَعْدُهُۥ",
+   "okunus": "va'dühû",
+   "kok": "وعد",
+   "kokAnlam": "söz verme, vaat",
+   "karsilik": "O'nun vaadi"
+  },
+  {
+   "kelime": "مَفْعُولًا",
+   "okunus": "mef'ûlen",
+   "kok": "فعل",
+   "kokAnlam": "yapma, gerçekleştirme",
+   "karsilik": "yerine getirilmiş"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetteki ağır günün bir başka boyutunu anlatır: gök yarılacak ve Allah'ın vaadi (kıyametin kopması) gerçekleşecektir. 'Fatr' kökü bir yapının bütünlüğünün bozulup çatlamasını anlatır; burada göğün bu güne kadar sağlam duran düzeninin bozulacağı ifade edilir.",
+  "Geçmiş zaman kipinin kullanılması ('kâne... mef'ûlâ'), bu olayın gerçekleşmesinin kesinliğini, sanki daha şimdiden olmuş gibi vurgulamak içindir. Klasik tefsir bu üslubu, Kur'an'da geleceğe dair kesin olayların bazen geçmiş zaman kipiyle anlatılmasının bir örneği olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "82:1",
+   "meal": "Gök yarıldığı zaman,",
+   "baglanti": "Aynı 'fatr' kökü burada da göğün yarılması için kullanılır; 73:18'deki 'münfetır' (yarılmış) ifadesiyle doğrudan aynı temayı paylaşır."
+  },
+  {
+   "ref": "19:61",
+   "meal": "...şüphesiz O'nun vaadi mutlaka yerine gelecektir.",
+   "baglanti": "Allah'ın vaadinin kesinliği burada da aynı vurguyla anlatılır; 73:18'deki 'vaadi yerine getirilmiştir' ifadesiyle aynı güveni taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyamet gününde göğün yarılacağı ve Allah'ın vaadinin kesin olarak gerçekleşeceğidir; bu, gaybe ait, insan gözlemiyle doğrulanamayacak bir bilgidir.",
+  "Buradan çıkan ders, Allah'ın verdiği sözün kesinliğine güvenmektir; tıpkı göğün bir gün yarılacağı gibi, hayatındaki doğru ve yanlışların da bir karşılığı olacağına güvenerek yaşamak."
+ ],
+ "bugun": [
+  {
+   "baslik": "Verdiğin sözü tut",
+   "aciklama": "Bugün birine verdiğin bir sözü, ne olursa olsun yerine getirmeye özen göster."
+  },
+  {
+   "baslik": "Kesin olana güven",
+   "aciklama": "Bugün belirsizlik içinde hissettiğinde, değişmeyen ilkelerine tutun."
+  },
+  {
+   "baslik": "Ertelemeyi bırak",
+   "aciklama": "Bugün 'bir gün yaparım' dediğin bir sözü şimdi yerine getir."
+  }
+ ],
+ "bugununAdimi": "Bugün birine verdiğin bir sözü, ertelemeden yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=73&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/73/18"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sure": 73,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Geceleyin kalk, ancak az bir kısmı hariç.",
+ "mealNotu": "'Kum' kökü قوم ayakta durmayı, kalkmayı anlatır; burada gece ibadeti için kalkışı ifade eder. 'İllâ kalîlâ' (az bir kısmı hariç) ifadesiyle gecenin tamamı değil büyük bölümü kastedilir.",
+ "kokler": [
+  {
+   "kelime": "قُمِ",
+   "okunus": "kumi",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, kalkma",
+   "karsilik": "kalk"
+  },
+  {
+   "kelime": "ٱلَّيْلَ",
+   "okunus": "elleyle",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "geceleyin"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) hariç, ancak",
+   "karsilik": "hariç"
+  },
+  {
+   "kelime": "قَلِيلًا",
+   "okunus": "kalîlen",
+   "kok": "قلل",
+   "kokAnlam": "azlık, azalma",
+   "karsilik": "az bir kısmı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki hitaptan hemen sonra gelen bu ayet, gece boyunca ayakta durmayı (kıyamı) emreder; 'illâ kalîlâ' ifadesiyle bu emre bir esneklik tanınır - gecenin tamamı değil, büyük kısmı kastedilir. Sonraki iki ayet bu oranı yarı, üçte bir gibi ölçülerle netleştirir.",
+  "Bu, surenin başında yer alan ve ilerleyen ayetlerde (özellikle 20. ayette) kademeli olarak hafifletilecek bir emirdir; sure, katı bir başlangıçtan kolaylaştırılmış bir sona doğru ilerler. Bu yüzden 73:2'yi tek başına, değişmez bir farz ölçüsü olarak okumak yerine, surenin bütünü içindeki gelişen bir çağrının ilk adımı olarak görmek daha isabetlidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "73:20",
+   "meal": "Rabbin, senin ve seninle olanlardan bir topluluğun gecenin üçte ikisine yakınını, yarısını ve üçte birini kalktığını bilir; Allah artık kolayınıza geleni okumanızı ister.",
+   "baglanti": "Bu surenin son ayeti, 73:2'de başlayan gece kıyamı emrini hatırlatıp önemli ölçüde hafifletir; emir zamanla kolaylaştırılmıştır."
+  },
+  {
+   "ref": "17:79",
+   "meal": "Gecenin bir kısmında sana mahsus fazladan bir namaz olarak teheccüde kalk; Rabbinin seni övülmüş bir makama ulaştırması umulur.",
+   "baglanti": "Gece kalkışı başka bir surede de Peygamber'e özel bir ibadet olarak anılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu gece ibadetidir; burada bahsedilen kalkış, tarihsel olarak surenin sonunda hafifletilen özel bir gece namazı uygulamasıdır.",
+  "Buradan çıkan genel ders, günün en sakin, kimsenin görmediği saatinde bile bir sorumluluk için kalkabilme iradesidir; bu irade yalnız ibadete değil, ertelediğin herhangi bir işe erken başlamaya da uygulanabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Erken bir vakti kendine ayır",
+   "aciklama": "Yarın herkesten önce uyanıp sessiz bir kısa süreyi kendine, düşünmeye ya da ibadete ayır."
+  },
+  {
+   "baslik": "Rahat uykunu biraz kısıtla",
+   "aciklama": "Bu gece alışılmış saatinden biraz erken kalkmayı dene, abartmadan."
+  },
+  {
+   "baslik": "Kimsenin görmediği anı değerlendir",
+   "aciklama": "Kimsenin seni izlemediği sessiz bir vakitte küçük bir iyilik yap ya da dua et."
+  }
+ ],
+ "bugununAdimi": "Yarın alarmını on beş dakika erkene kur ve o vakti sessizce değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=73&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/73/2"
+  }
+ ]
+}
