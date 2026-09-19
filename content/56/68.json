@@ -1,0 +1,82 @@
+{
+ "sure": 56,
+ "ayet": 68,
+ "durum": "taslak",
+ "meal": "İçtiğiniz suyu gördünüz mü?",
+ "mealNotu": "'Mâ' kökü (موه) suyu anlatır; ayet, ekin kanıtından sonra ikinci kanıt dizisini -su- başlatır.",
+ "kokler": [
+  {
+   "kelime": "أَفَرَءَيْتُمُ",
+   "okunus": "eferaeytümü",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "gördünüz mü"
+  },
+  {
+   "kelime": "ٱلْمَآءَ",
+   "okunus": "elmâe",
+   "kok": "موه",
+   "kokAnlam": "su",
+   "karsilik": "suyu"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ki o",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "تَشْرَبُونَ",
+   "okunus": "teşrabûne",
+   "kok": "شرب",
+   "kokAnlam": "içme",
+   "karsilik": "içtiğiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ekin kanıtından sonra sure, insanın hayatta kalması için en temel ihtiyaçlardan biri olan suya geçer. Yine aynı 'eferaeytüm' (gördünüz mü) kalıbı kullanılır; bu tekrar, kanıt dizisinin bir bütün olduğunu ve aynı yönteme -gözlemden düşünmeye- dayandığını gösterir.",
+  "Su, insanın en sık kullandığı ve en az üzerinde düşündüğü nimetlerden biridir. Ayet, bu sıradanlığı kırarak insanı, her gün içtiği suyun kaynağı üzerine düşünmeye çağırır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:48",
+   "meal": "Gökten tertemiz bir su indirdik.",
+   "baglanti": "Furkân suresinde de yağmur suyu, doğrudan Allah'ın indirdiği bir nimet olarak anlatılır."
+  },
+  {
+   "ref": "23:18",
+   "meal": "Gökten belli bir ölçüyle su indirdik, sonra onu yerde durdurduk.",
+   "baglanti": "Mü'minûn suresinde de suyun inişi ve yerde tutulması, insanın kontrolü dışında bir düzen olarak anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, günlük hayatta en sık kullanılan ama en az düşünülen nimetlerden biri olan suyun kaynağına dikkat çekmektir.",
+  "Bugüne taşınabilecek ders, sıradanlaşan bir nimeti yeniden fark etmektir. Musluğu her açtığında akan su, aslında büyük bir düzenin sonucudur; bu farkındalık şükrü artırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Su içerken bir an dur",
+   "aciklama": "Bugün su içerken, bu suyun nereden geldiğini bir an düşün ve şükret."
+  },
+  {
+   "baslik": "Suyu israf etme",
+   "aciklama": "Bugün musluğu gereksiz yere açık bırakmamaya özellikle dikkat et."
+  },
+  {
+   "baslik": "Suya erişemeyeni hatırla",
+   "aciklama": "Bugün temiz suya kolayca ulaşamayan biri için kısa bir dua et veya bir yardım düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün suyu israf etmemeye özellikle dikkat et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=68"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/56/68"
+  }
+ ]
+}

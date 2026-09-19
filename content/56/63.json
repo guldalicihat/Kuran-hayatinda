@@ -1,0 +1,75 @@
+{
+ "sure": 56,
+ "ayet": 63,
+ "durum": "taslak",
+ "meal": "Ektiğinizi gördünüz mü?",
+ "mealNotu": "'Harase' kökü (حرث) toprağı sürüp ekin ekmeyi anlatır; meal doğrudan bu karşılığı verir.",
+ "kokler": [
+  {
+   "kelime": "أَفَرَءَيْتُم",
+   "okunus": "eferaeytüm",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "gördünüz mü"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "ektiğinizi"
+  },
+  {
+   "kelime": "تَحْرُثُونَ",
+   "okunus": "tahrusûne",
+   "kok": "حرث",
+   "kokAnlam": "toprağı sürme, ekin ekme",
+   "karsilik": "ektiğiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Meni, ölüm ve ilk yaratılış kanıtlarından sonra sure yeni bir kanıt dizisine geçer: ekin. Aynı 'eferaeytüm' (gördünüz mü) kalıbı, 58. ayetteki meni sorusunda kullanıldığı gibi burada da tekrarlanarak insanı gözlemlediği bir şey üzerinde düşünmeye çağırır.",
+  "Bu ayet, ekmenin kendisine dikkat çeker; asıl soru bir sonraki ayette gelir. Klasik tefsir, bu ayetler dizisini insanın günlük hayatta sürekli gördüğü ama üzerinde düşünmediği doğa olaylarını Allah'ın varlığına delil olarak sunma yöntemi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "80:24",
+   "meal": "İnsan yediği yiyeceğe bir baksın.",
+   "baglanti": "Abese suresinde de insan, günlük olarak yediği yiyeceğin kaynağı üzerine düşünmeye çağrılır."
+  },
+  {
+   "ref": "6:99",
+   "meal": "Gökten su indiren de O'dur; onunla her türlü bitkiyi çıkardık.",
+   "baglanti": "En'âm suresinde de bitkilerin yetişmesi, su ile birlikte Allah'ın fiili olarak anlatılır; 56:63-67'deki ekin kanıtıyla aynı temadadır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, insanın her gün gördüğü ama üzerinde durup düşünmediği bir olaya, tarım faaliyetine dikkat çekmesidir.",
+  "Bugüne taşınabilecek ders, sıradanlaşan şeylere yeniden bakabilmektir. Her gün gördüğümüz bir şey, aslında üzerinde düşünüldüğünde büyük bir gerçeğe işaret edebilir; bu ayet, gözlemi düşünceye çevirme çağrısıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yediğin bir yemeğin kaynağına bak",
+   "aciklama": "Bugün yediğin bir sebze veya meyvenin nasıl yetiştiğini bir an düşün."
+  },
+  {
+   "baslik": "Sıradan bir anı fark et",
+   "aciklama": "Bugün her zaman gördüğün ama dikkat etmediğin bir şeye (bir bitki, bir ağaç) yeniden bak."
+  },
+  {
+   "baslik": "Bir tohum ek",
+   "aciklama": "Mümkünse bugün küçük bir tohum ya da fidan dikerek büyüme sürecine tanık ol."
+  }
+ ],
+ "bugununAdimi": "Bugün her gün gördüğün ama dikkat etmediğin bir bitkiye veya yiyeceğe bilinçli bir dakika ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=63"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/56/63"
+  }
+ ]
+}

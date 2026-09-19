@@ -1,0 +1,82 @@
+{
+ "sure": 56,
+ "ayet": 49,
+ "durum": "taslak",
+ "meal": "De ki: Şüphesiz öncekiler ve sonrakiler,",
+ "mealNotu": "'Evvelîn' ve 'âhırîn' kökleri zaman bakımından önce ve sonra gelenleri anlatır. Cümle 50. ayetteki yüklemle tamamlanır, bu yüzden virgülle biter.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz, gerçekten",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلْأَوَّلِينَ",
+   "okunus": "el'evvelîne",
+   "kok": "أول",
+   "kokAnlam": "öncelik, ilk olma",
+   "karsilik": "öncekiler"
+  },
+  {
+   "kelime": "وَٱلْءَاخِرِينَ",
+   "okunus": "vel âhırîne",
+   "kok": "أخر",
+   "kokAnlam": "sonra olma, geriye kalma",
+   "karsilik": "ve sonrakiler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette müşrikler, kendileri ve ataları öldükten sonra yeniden diriltilip diriltilmeyeceklerini alaycı bir soruyla dile getirmişti. Bu ayet, Peygamber'e o soruya doğrudan bir cevapla karşılık vermesini emreder: hem öncekiler hem sonrakiler, yani ilk insandan kıyamete kadar yaşamış herkes, aynı kaderi paylaşacaktır.",
+  "'Evvelîn' ve 'âhırîn' kelimeleri Kur'an'da sıkça birlikte kullanılır ve zaman farkı gözetmeksizin bütün insanlığı kapsar. Cümle burada tamamlanmaz; bir sonraki ayette hangi günde ve nasıl bir araya getirilecekleri açıklanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:12",
+   "meal": "De ki: Göklerde ve yerde olanlar kimindir? De ki: Allah'ındır. O, rahmeti kendi üzerine yazdı. Sizi, kendisinde şüphe olmayan kıyamet gününde mutlaka toplayacaktır.",
+   "baglanti": "Aynı 'de ki' emriyle başlayan bu ayet de bütün insanların kıyamet gününde kesin olarak toplanacağını bildirir."
+  },
+  {
+   "ref": "11:103",
+   "meal": "İşte bunda, âhiret azabından korkanlar için bir ibret vardır. O, insanların kendisi için bir araya toplanacağı bir gündür; o, herkesin şahit olacağı bir gündür.",
+   "baglanti": "İnsanların 'toplanacağı bir gün' ifadesi, 56:49-50'deki öncekilerin ve sonrakilerin toplanmasıyla aynı temayı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, yeniden dirilişin kime ait olduğu tartışmasına Kur'an'ın verdiği kesin cevaptır: bu, istisnasız herkesi kapsayan bir gerçektir.",
+  "Buradan çıkan günlük ders, kendini bu hesaptan muaf görmemektir. İnsan bazen 'bu bana uzak, sonra düşünürüm' diyerek ölümü ve hesabı erteler; oysa ayet, kimsenin bu toplanmanın dışında kalmayacağını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugünü 'sonra düşünürüm' demeden yaşa",
+   "aciklama": "Ahireti uzak bir konu gibi ertelemek yerine, bugün yapacağın bir işi bu bilinçle gözden geçir."
+  },
+  {
+   "baslik": "Bir yakınınla ölüm ve hesap konusunu konuş",
+   "aciklama": "Sohbet sırasında bu gerçeği ağır bir üslup kullanmadan, sade bir şekilde hatırlat."
+  },
+  {
+   "baslik": "Kısa bir öz değerlendirme yap",
+   "aciklama": "Bugün yaptıklarından, hesaba çekilse memnun olacağın bir davranışı not et."
+  }
+ ],
+ "bugununAdimi": "Bugün yaptığın işlerden birini, 'bunun hesabını versem ne derdim' diye kısaca gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=49"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/56/49"
+  }
+ ]
+}

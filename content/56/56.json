@@ -1,0 +1,82 @@
+{
+ "sure": 56,
+ "ayet": 56,
+ "durum": "taslak",
+ "meal": "İşte bu, din gününde onlara sunulan ziyafettir.",
+ "mealNotu": "'Nüzül' kökü (نزل) bir konuğa ilk sunulan ikramı anlatır; burada ironik biçimde zakkum ve kaynar su bu 'ikram' olarak nitelendirilir.",
+ "kokler": [
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "نُزُلُهُمْ",
+   "okunus": "nüzülühüm",
+   "kok": "نزل",
+   "kokAnlam": "inme, konaklama; konuğa sunulan ikram",
+   "karsilik": "onlara sunulan ziyafettir"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gününde"
+  },
+  {
+   "kelime": "ٱلدِّينِ",
+   "okunus": "eddîni",
+   "kok": "دين",
+   "kokAnlam": "din, ceza/hesap",
+   "karsilik": "din"
+  }
+ ],
+ "neAnlatiyor": [
+  "51-55. ayetlerde anlatılan zakkum yemeği, doldurulan karın ve içilen kaynar su, burada tek bir kelimeyle özetlenir: 'nüzül', yani konuğa sunulan ilk ikram. Bu kelimenin seçimi kasıtlı bir tezattır; normalde bir misafire sunulan güzel bir karşılama, burada acı bir cezayla eşleştirilir.",
+  "'Yevmed dîn' ifadesi, bu sahnenin hesap gününe ait olduğunu hatırlatır. Ayet, bir önceki sahneyi kapatırken, aynı zamanda cezanın rastgele değil, hesabın bir parçası olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "18:102",
+   "meal": "İnkâr edenler, beni bırakıp kullarımı dostlar mı edindiler sanıyorlar? Biz cehennemi kâfirlere bir konaklama yeri olarak hazırladık.",
+   "baglanti": "Kehf suresinde de cehennem, aynı ironik 'konaklama/ikram' anlamı taşıyan bir kelimeyle anılır."
+  },
+  {
+   "ref": "18:107",
+   "meal": "İman edip iyi işler yapanlara gelince, onlar için konaklama yeri Firdevs cennetleridir.",
+   "baglanti": "Aynı surede, iman edenlerin 'ikramı' cennet olarak anlatılır; bu karşıtlık 56:56'daki ironiyi daha da netleştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, ahiretteki bir ceza sahnesinin özetlenmesidir; buradaki 'ziyafet' ifadesi, bir övgü değil, acı bir ironidir.",
+  "Bugüne taşınabilecek ders, bir işin sonucunun, o işe hazırlanış şekliyle doğrudan ilgili olduğudur. İnsan bugün neyi 'hazırlıyorsa', yarın onunla karşılaşır; bu yüzden hazırlığın niteliği önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugün ne 'hazırladığını' düşün",
+   "aciklama": "Bugünkü tutum ve kararlarının, ileride önüne nasıl bir sonuç koyacağını kısaca düşün."
+  },
+  {
+   "baslik": "Küçük bir iyiliği bugüne ekle",
+   "aciklama": "Yarın karşına çıkmasını istediğin bir iyiliği bugün yap."
+  },
+  {
+   "baslik": "Hesap gününü unutma",
+   "aciklama": "Bir kararında, bunun hesap gününde önüne nasıl konacağını bir an düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün, yarın karşına çıkmasını isteyeceğin küçük bir iyilik yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=56"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/56/56"
+  }
+ ]
+}

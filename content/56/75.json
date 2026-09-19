@@ -1,0 +1,82 @@
+{
+ "sure": 56,
+ "ayet": 75,
+ "durum": "taslak",
+ "meal": "Hayır, yıldızların yerlerine yemin ederim.",
+ "mealNotu": "'Kasem' kökü yemin etmeyi, 'nücûm' kökü yıldızları, 'mevâki' kökü (وقع) yerleri/konumları anlatır. 'Felâ' burada olumsuzluk değil, yemini pekiştiren bir tekid edatı olarak yorumlanmıştır; klasik tefsirlerin çoğunluğu bu görüştedir.",
+ "kokler": [
+  {
+   "kelime": "فَلَآ",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk/tekid edatı) hayır, değil",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "أُقْسِمُ",
+   "okunus": "üksimü",
+   "kok": "قسم",
+   "kokAnlam": "yemin etme",
+   "karsilik": "yemin ederim"
+  },
+  {
+   "kelime": "بِمَوَٰقِعِ",
+   "okunus": "bimevâkıi",
+   "kok": "وقع",
+   "kokAnlam": "düşme, konum, yer",
+   "karsilik": "yerlerine"
+  },
+  {
+   "kelime": "ٱلنُّجُومِ",
+   "okunus": "ennücûmi",
+   "kok": "نجم",
+   "kokAnlam": "yıldız",
+   "karsilik": "yıldızların"
+  }
+ ],
+ "neAnlatiyor": [
+  "Yaratılış kanıtlarından ve tesbih emrinden sonra sure, yeni bir bölüme yıldızlara yemin ederek başlar. 'Felâ üksimü' kalıbı Kur'an'da başka yerlerde de görülür; bu, önce bir olumsuzlukla dikkat çekip ardından güçlü bir yemine geçen özel bir üsluptur. Kesin anlamı üzerinde farklı yorumlar bulunsa da, cümlenin işlevi bir yemin başlatmaktır.",
+  "'Mevâki' kelimesi yıldızların 'yerlerini', yani konumlarını, doğuş ve batış noktalarını anlatır. Ayet, gökyüzündeki bu düzenin kendisini bir yemin konusu yaparak, bir sonraki ayette bunun 'büyük bir yemin' olduğunu vurgulamaya hazırlanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "53:1",
+   "meal": "Battığı zaman yıldıza andolsun.",
+   "baglanti": "Necm suresi de aynı şekilde bir yıldıza yemin ederek başlar; gök cisimlerine yemin Kur'an'da tekrarlanan bir üsluptur."
+  },
+  {
+   "ref": "81:15",
+   "meal": "Hayır, yemin ederim o sinip gizlenen (gezegen)lere,",
+   "baglanti": "Tekvîr suresinde de aynı 'felâ üksimü' kalıbıyla gök cisimlerine yemin edilir; üslup benzerliği açıktır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu bir yemin başlangıcıdır; içeriği gökyüzündeki yıldızların düzenidir. Burada astronomik ayrıntıya girmeden, ayetin kendi vurgusuna sadık kalınmalıdır.",
+  "Bugüne taşınabilecek ders, gökyüzüne bakıp düzenini fark etmektir. Yıldızların yerlerinin bir yemin konusu yapılması, onların rastgele değil, hesaplı bir düzenin parçası olduğuna işaret eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gece gökyüzüne bak",
+   "aciklama": "Bugün mümkünse akşam birkaç dakika gökyüzüne bakıp düzenini fark et."
+  },
+  {
+   "baslik": "Büyük bir şeye küçük bir yemin gibi bak",
+   "aciklama": "Kur'an'ın önemli gördüğü bir konuya sen de kısaca önem ver, bugün bir sayfasını oku."
+  },
+  {
+   "baslik": "Düzeni fark et",
+   "aciklama": "Bugün çevrendeki bir düzeni (gökyüzü, mevsimler) fark edip bunun tesadüf olmadığını düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün akşam birkaç dakika gökyüzüne bakıp düzenini düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=75"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/56/75"
+  }
+ ]
+}

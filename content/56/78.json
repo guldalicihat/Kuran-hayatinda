@@ -1,0 +1,75 @@
+{
+ "sure": 56,
+ "ayet": 78,
+ "durum": "taslak",
+ "meal": "Korunmuş bir kitaptadır.",
+ "mealNotu": "'Kenn' kökü (كنن) gizlemeyi, saklamayı, korumayı anlatır; ayet Kur'an'ın bulunduğu kitabın niteliğini belirtir.",
+ "kokler": [
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içindedir"
+  },
+  {
+   "kelime": "كِتَٰبٍ",
+   "okunus": "kitâbin",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "bir kitapta"
+  },
+  {
+   "kelime": "مَّكْنُونٍ",
+   "okunus": "meknûnin",
+   "kok": "كنن",
+   "kokAnlam": "gizleme, saklama, koruma",
+   "karsilik": "korunmuş"
+  }
+ ],
+ "neAnlatiyor": [
+  "77. ayette Kur'an'ın şerefli olduğu belirtildikten sonra, burada onun 'korunmuş bir kitapta' bulunduğu eklenir. Klasik tefsir bu ifadeyi genellikle Levh-i Mahfûz'a (yani Allah katındaki asıl, korunmuş kayda) işaret olarak açıklar; bu konuda kesin ayrıntıya girmeden ayetin kendi vurgusu -korunmuşluk- öne çıkarılmalıdır.",
+  "'Meknûn' kelimesi, hem gizliliği hem de bozulmadan saklanmayı ifade eder. Bu, bir sonraki ayette gelecek 'ona ancak temizlenmiş olanlar dokunabilir' ifadesiyle birlikte, Kur'an'a yönelik büyük bir saygı ve koruma çerçevesi çizer."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "85:22",
+   "meal": "Korunmuş bir levhadadır.",
+   "baglanti": "Bürûc suresi de Kur'an'ın 'levh-i mahfûz'da bulunduğunu aynı 'korunmuş' vurgusuyla anlatır."
+  },
+  {
+   "ref": "43:4",
+   "meal": "Şüphesiz o, katımızdaki ana kitapta yüce ve hikmet doludur.",
+   "baglanti": "Zuhruf suresinde de Kur'an'ın Allah katındaki asıl kaynağının yüceliği ve korunmuşluğu vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Kur'an'ın kaynağının güvenilir ve korunmuş olduğudur; bu bir fıkhi hüküm değil, Kur'an'ın kendi konumu hakkında bir bilgidir.",
+  "Bugüne taşınabilecek ders, güvenilir bir kaynağa dayanmanın değeridir. İnsan hayatında da sağlam, değişmeyen referans noktalarına sahip olmak, kararlarını daha güvenli bir zemine oturtur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sağlam bir kaynağa yönel",
+   "aciklama": "Bugün bir konuda karar verirken, güvenilir ve sağlam bir kaynağa başvur."
+  },
+  {
+   "baslik": "Kur'an'ı bir referans olarak gör",
+   "aciklama": "Bugün karşılaştığın bir soruda, Kur'an'ın veya güvenilir bir dini kaynağın ne dediğine bak."
+  },
+  {
+   "baslik": "Güvenilirliğini koru",
+   "aciklama": "Bugün verdiğin bir sözü tutarak kendi güvenilirliğini pekiştir."
+  }
+ ],
+ "bugununAdimi": "Bugün verdiğin bir sözü tutarak kendi güvenilirliğini koru.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=78"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/56/78"
+  }
+ ]
+}

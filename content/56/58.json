@@ -1,0 +1,75 @@
+{
+ "sure": 56,
+ "ayet": 58,
+ "durum": "taslak",
+ "meal": "Akıttığınız meniyi hiç düşündünüz mü?",
+ "mealNotu": "'Temnûn' kökü (مني) döllenme sıvısının akıtılmasını anlatır; ayet mahrem bir konuyu sade, doğrudan bir soru cümlesiyle ele alır, ayrıntıya girmez.",
+ "kokler": [
+  {
+   "kelime": "أَفَرَءَيْتُم",
+   "okunus": "eferaeytüm",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "hiç düşündünüz mü"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "تُمْنُونَ",
+   "okunus": "tümnûne",
+   "kok": "مني",
+   "kokAnlam": "döllenme sıvısını akıtma",
+   "karsilik": "akıttığınız meniyi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette genel olarak insanın yaratılışına dikkat çekildikten sonra, burada bu yaratılışın başlangıç noktasına, döllenme maddesine işaret edilir. 'Eferaeytüm' kalıbı (gördünüz mü, düşündünüz mü), Kur'an'da sık kullanılan ve muhatabı gözlemlediği bir şey üzerinde düşünmeye çağıran bir sorudur.",
+  "Ayet, insanın kendi bedeninin en başlangıç hâlini, üzerinde hiç durup düşünmediği bir gerçeği hatırlatır. Amaç mahrem bir konuyu ayrıntılandırmak değil, bu küçük ve basit maddeden bir insanın nasıl var edildiğini sorgulatmaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "86:6",
+   "meal": "O, (fırlayarak) atılan bir sudan yaratıldı.",
+   "baglanti": "Târık suresinde de insanın yaratılış maddesi aynı sadelikle, ayrıntıya girilmeden hatırlatılır."
+  },
+  {
+   "ref": "23:13",
+   "meal": "Sonra onu sağlam bir karar yerinde bir damla hâline getirdik.",
+   "baglanti": "Mü'minûn suresinde de aynı başlangıç maddesi, insanın aşama aşama yaratılışının ilk adımı olarak anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, insanın biyolojik başlangıcının ne kadar küçük ve basit bir şey olduğudur; ayet bunu sade bir soruyla, mahremiyete saygılı bir dille anlatır.",
+  "Buradan çıkan ders, kibre kapılmamaktır. İnsan bazen kendi gücünü, zekasını veya başarısını büyütüp unutur ki en başta kendisi de küçücük bir maddeden var edilmiştir; bu hatırlama alçakgönüllülüğü besler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kibirlenen bir anını fark et",
+   "aciklama": "Bugün kendini bir konuda üstün görmeye başladığında, başlangıcını hatırla ve alçakgönüllü kal."
+  },
+  {
+   "baslik": "Bir yakınına teşekkür et",
+   "aciklama": "Varlığının bir yaratılış olduğunu hatırlayarak, bugün ailenden birine sevgini ifade et."
+  },
+  {
+   "baslik": "Vücuduna iyi davran",
+   "aciklama": "Bedeninin bir emanet olduğunu düşünerek bugün ona zarar veren bir alışkanlığa ara ver."
+  }
+ ],
+ "bugununAdimi": "Bugün kendini bir konuda üstün gördüğün bir anı fark edip alçakgönüllü bir tavırla karşılık ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=58"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/56/58"
+  }
+ ]
+}

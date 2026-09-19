@@ -1,0 +1,82 @@
+{
+ "sure": 56,
+ "ayet": 80,
+ "durum": "taslak",
+ "meal": "[O,] âlemlerin Rabbinden indirilmedir.",
+ "mealNotu": "'Tenzîl' kökü (نزل) indirmeyi anlatır; cümlenin öznesi (Kur'an) 77. ayetten geldiği için köşeli parantezle belirtilmiştir. 'Âlemîn' kelimesi de aynı 'ilim/bilinen varlıklar' anlam alanından (علم) gelir.",
+ "kokler": [
+  {
+   "kelime": "تَنزِيلٌ",
+   "okunus": "tenzîlün",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "bir indirilmedir"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّ",
+   "okunus": "rabbi",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, rablik",
+   "karsilik": "Rabbinden"
+  },
+  {
+   "kelime": "ٱلْعَٰلَمِينَ",
+   "okunus": "el'âlemîne",
+   "kok": "علم",
+   "kokAnlam": "bilgi, bilinen varlıklar; âlemler",
+   "karsilik": "âlemlerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "77-79. ayetlerde Kur'an'ın şerefli, korunmuş ve ancak temizlenmiş olanların dokunabildiği bir kitap olduğu anlatıldıktan sonra, bu ayet onun kaynağını açıklar: âlemlerin Rabbi. Bu, Kur'an'ın insan sözü olmadığını, bütün yaratılmışların Rabbinden geldiğini bildirir.",
+  "'Tenzîl' kelimesi, hem bir kerede değil süreç içinde indirilmeyi hem de yukarıdan aşağıya bir aktarımı ima eder. Bu ayet, sadece birkaç kelimeyle önceki üç ayetin (şeref, koruma, temizlik) kaynağını netleştirerek bölümü tamamlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:192",
+   "meal": "Şüphesiz o, âlemlerin Rabbinden indirilmedir.",
+   "baglanti": "Şuarâ suresinde neredeyse birebir aynı ifade geçer; bu, Kur'an'ın kendi kaynağını farklı surelerde aynı sözlerle tekrar bildirdiğini gösterir."
+  },
+  {
+   "ref": "69:43",
+   "meal": "Âlemlerin Rabbinden bir indirmedir.",
+   "baglanti": "Hâkka suresinde de aynı ifade tekrarlanır; üç ayrı surede aynı cümlenin geçmesi, bu vurgunun Kur'an genelinde önemli bir tema olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kur'an'ın kaynağının ilahi olduğudur; bu bir inanç ilkesidir.",
+  "Bugüne taşınabilecek ders, okunan veya dinlenen bir sözün kaynağına dikkat etmektir. Bir bilginin nereden geldiğini bilmek, ona nasıl yaklaşılacağını da belirler; Kur'an'ın kaynağını bilmek, ona verilen değeri şekillendirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir bilginin kaynağını sorgula",
+   "aciklama": "Bugün duyduğun bir bilginin nereden geldiğini merak edip kısaca araştır."
+  },
+  {
+   "baslik": "Kur'an'ın kaynağını hatırla",
+   "aciklama": "Bugün Kur'an okurken, onun âlemlerin Rabbinden geldiğini bilinçli olarak hatırla."
+  },
+  {
+   "baslik": "Güvenilir kaynağa yönel",
+   "aciklama": "Bugün önemli bir kararında, güvenilir olmayan değil, sağlam bir kaynağa danış."
+  }
+ ],
+ "bugununAdimi": "Bugün önemli bir bilgiyi paylaşmadan önce kaynağını kontrol et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=80"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/56/80"
+  }
+ ]
+}

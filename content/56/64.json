@@ -1,0 +1,89 @@
+{
+ "sure": 56,
+ "ayet": 64,
+ "durum": "taslak",
+ "meal": "Onu siz mi bitiriyorsunuz, yoksa bitiren biz miyiz?",
+ "mealNotu": "'Zera'a' kökü (زرع) tohumdan bitki çıkarmayı, büyütmeyi anlatır; soru 63. ayetteki 'ektiğiniz' fiiliyle 'bitirme' fiilini karşılaştırır.",
+ "kokler": [
+  {
+   "kelime": "ءَأَنتُمْ",
+   "okunus": "eentüm",
+   "kok": "—",
+   "kokAnlam": "(soru + zamir) siz mi",
+   "karsilik": "siz mi"
+  },
+  {
+   "kelime": "تَزْرَعُونَهُۥٓ",
+   "okunus": "tezraûnehû",
+   "kok": "زرع",
+   "kokAnlam": "tohumdan bitki çıkarma, büyütme",
+   "karsilik": "onu bitiriyorsunuz"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "نَحْنُ",
+   "okunus": "nahnü",
+   "kok": "—",
+   "kokAnlam": "(zamir) biz",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "ٱلزَّٰرِعُونَ",
+   "okunus": "ezzâriûne",
+   "kok": "زرع",
+   "kokAnlam": "tohumdan bitki çıkarma, büyütme",
+   "karsilik": "bitiren"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette hatırlatılan ekme eylemiyle, bu ayette sorulan 'bitirme' eylemi arasındaki fark önemlidir: insan tohumu toprağa bırakabilir, ama onu filizlendirip büyüten kendisi değildir. Bu ince ayrım, insanın sadece bir aracı olduğunu, asıl büyütme gücünün başka bir yerden geldiğini vurgular.",
+  "Ayet, 58-59. ayetlerdeki meni örneğiyle aynı mantığı izler: insan bir sürecin görünen parçasında bulunur ama sürecin asıl işleyişine hâkim değildir. Bu, insanın doğa üzerindeki kontrolünün sınırlı olduğunu hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:33",
+   "meal": "Ölü toprak onlar için bir delildir; biz onu dirilttik ve ondan taneler çıkardık, onlar da ondan yerler.",
+   "baglanti": "Yâsîn suresinde de bitkilerin toprağın 'diriltilmesiyle' çıktığı, bunun Allah'ın fiili olduğu anlatılır."
+  },
+  {
+   "ref": "13:4",
+   "meal": "...ve ekinler, hurmalıklar... aynı su ile sulanır, ama biz onların bir kısmını yemekte diğerlerine üstün kılarız.",
+   "baglanti": "Ra'd suresinde de aynı su ve toprakla farklı bitkilerin yetişmesinin, insanın kontrolü dışında bir düzenle gerçekleştiği vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, tarımsal üretimde insanın rolünün sınırlı olduğu, asıl büyütme gücünün Allah'a ait olduğudur.",
+  "Bugüne taşınabilecek ders, emek ile sonucu birbirinden ayırt etmektir. İnsan çabasını gösterir, tohumu eker, sular; ama sonucun gerçekleşmesi kendi elinde değildir. Bu farkındalık, hem çalışmaya teşvik eder hem de sonucu Allah'a bırakmayı öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Emek ile sonucu ayır",
+   "aciklama": "Bugün üzerinde çalıştığın bir işte, elinden geleni yap ama sonucu kaygıyla değil tevekkülle bekle."
+  },
+  {
+   "baslik": "Bir bitkinin büyümesini izle",
+   "aciklama": "Varsa evindeki bir saksı bitkisine bugün bakıp büyümenin ne kadar bağımsız bir süreç olduğunu fark et."
+  },
+  {
+   "baslik": "Aşırı kontrol isteğini bırak",
+   "aciklama": "Bugün sonucunu tam olarak kontrol edemediğin bir konuda kaygılanmayı azalt."
+  }
+ ],
+ "bugununAdimi": "Bugün üzerinde çalıştığın bir işte elinden geleni yap, sonucunu kaygılanmadan bekle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=64"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/56/64"
+  }
+ ]
+}

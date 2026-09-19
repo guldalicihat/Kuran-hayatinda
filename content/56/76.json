@@ -1,0 +1,89 @@
+{
+ "sure": 56,
+ "ayet": 76,
+ "durum": "taslak",
+ "meal": "Eğer bilirseniz, bu gerçekten büyük bir yemindir.",
+ "mealNotu": "'Azîm' kökü büyüklüğü anlatır; ayet, 75. ayetteki yemini doğrudan niteleyerek onun önemini vurgular.",
+ "kokler": [
+  {
+   "kelime": "وَإِنَّهُۥ",
+   "okunus": "ve innehû",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz o",
+   "karsilik": "ve şüphesiz o"
+  },
+  {
+   "kelime": "لَقَسَمٌ",
+   "okunus": "lekasemün",
+   "kok": "قسم",
+   "kokAnlam": "yemin etme",
+   "karsilik": "gerçekten bir yemindir"
+  },
+  {
+   "kelime": "لَّوْ",
+   "okunus": "lev",
+   "kok": "—",
+   "kokAnlam": "(şart edatı) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَعْلَمُونَ",
+   "okunus": "ta'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilgi, bilme",
+   "karsilik": "bilirseniz"
+  },
+  {
+   "kelime": "عَظِيمٌ",
+   "okunus": "azîmün",
+   "kok": "عظم",
+   "kokAnlam": "büyüklük",
+   "karsilik": "büyük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette yapılan yemin burada doğrudan nitelenir: bu, sıradan değil, büyük bir yemindir. Kur'an'da bir yeminin 'büyük' olarak nitelenmesi nadir görülen bir vurgudur; bu, konunun -Kur'an'ın kaynağı ve değeri- önemine işaret eder.",
+  "'Lev ta'lemûn' (eğer bilirseniz) ifadesi, bu büyüklüğün herkes tarafından hemen kavranamayacağını, üzerinde düşünmeyi gerektirdiğini ima eder. Ayet, bir sonraki ayette gelecek asıl konuya -Kur'an'ın şerefine- bir giriş niteliğindedir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:1",
+   "meal": "Nûn. Kaleme ve satır satır yazdıklarına andolsun.",
+   "baglanti": "Kalem suresi de yazı ve bilgiye yemin ederek başlar; yeminlerin genelde önemli bir konuya giriş olduğunu gösterir."
+  },
+  {
+   "ref": "90:1",
+   "meal": "Bu beldeye andolsun.",
+   "baglanti": "Beled suresinde de bir yemin, ardından gelecek önemli bir mesajın habercisi olur; aynı yapı burada da görülür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, az önce yapılan yeminin önemine dikkat çekmektir; bu bir bilgi aktarımıdır, günlük hayata dolaylı yoldan bağlanır.",
+  "Bugüne taşınabilecek ders, bir şeyin değerini anlamak için önce onun üzerinde düşünmek gerektiğidir. 'Bilirseniz' ifadesi, bilginin çabayla geldiğini, hazır gelmediğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Anlamadığın bir konuyu araştır",
+   "aciklama": "Bugün önemli olduğunu bildiğin ama tam anlamadığın bir konuda kısa bir araştırma yap."
+  },
+  {
+   "baslik": "Değerini bilmediğin bir şeyi fark et",
+   "aciklama": "Bugün sahip olduğun ama kıymetini tam bilmediğin bir şeyi (sağlık, zaman) düşün."
+  },
+  {
+   "baslik": "Kur'an'a bir dakika ayır",
+   "aciklama": "Bugün Kur'an'dan kısa bir bölüm oku veya dinle, önemini hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün Kur'an'dan kısa bir bölüm okuyarak veya dinleyerek bir dakika ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=76"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/56/76"
+  }
+ ]
+}

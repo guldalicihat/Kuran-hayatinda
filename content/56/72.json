@@ -1,0 +1,96 @@
+{
+ "sure": 56,
+ "ayet": 72,
+ "durum": "taslak",
+ "meal": "Onun ağacını siz mi var ettiniz, yoksa var eden biz miyiz?",
+ "mealNotu": "'Neşe'e' kökü (نشأ) yoktan var etmeyi, meydana getirmeyi anlatır; aynı kök 61 ve 62. ayetlerde de geçmişti.",
+ "kokler": [
+  {
+   "kelime": "ءَأَنتُمْ",
+   "okunus": "eentüm",
+   "kok": "—",
+   "kokAnlam": "(soru + zamir) siz mi",
+   "karsilik": "siz mi"
+  },
+  {
+   "kelime": "أَنشَأْتُمْ",
+   "okunus": "enşe'tüm",
+   "kok": "نشأ",
+   "kokAnlam": "yoktan var etme, meydana getirme",
+   "karsilik": "var ettiniz"
+  },
+  {
+   "kelime": "شَجَرَتَهَآ",
+   "okunus": "şeceratehâ",
+   "kok": "شجر",
+   "kokAnlam": "ağaç",
+   "karsilik": "onun ağacını"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "نَحْنُ",
+   "okunus": "nahnü",
+   "kok": "—",
+   "kokAnlam": "(zamir) biz",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "ٱلْمُنشِـُٔونَ",
+   "okunus": "elmünşiûne",
+   "kok": "نشأ",
+   "kokAnlam": "yoktan var etme, meydana getirme",
+   "karsilik": "var eden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette hatırlatılan ateşin arkasındaki asıl kaynak burada sorgulanır: ateşi mümkün kılan ağacı kim var etmiştir? Klasik tefsir, burada özellikle kuru ve yeşil dalları birbirine sürtülerek ateş çıkarılabilen bazı ağaç türlerine işaret edildiğini belirtir; ancak ayetin asıl vurgusu, herhangi bir ağacın var edilme sürecidir.",
+  "'Neşe'e' kökünün burada da kullanılması, 62. ayetteki 'ilk yaratılış' (en-neş'etü'l-ûlâ) ile aynı bağı kurar: hem insanın hem bitkinin var oluşu aynı yaratıcı güce dayanır. Ayet, insanın sadece var olanı kullandığını, var etmediğini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:80",
+   "meal": "Size yeşil ağaçtan ateş çıkaran O'dur; siz de ondan tutuşturursunuz.",
+   "baglanti": "Yâsîn suresi, ağacın yaratılışı ile ondan çıkan ateş arasındaki bağı doğrudan Allah'a bağlar; bu ayetin en yakın paraleli."
+  },
+  {
+   "ref": "6:95",
+   "meal": "Şüphesiz taneyi ve çekirdeği yaran Allah'tır; O, ölüden diriyi çıkarır.",
+   "baglanti": "En'âm suresinde de bitkisel hayatın başlangıcı doğrudan Allah'ın fiili olarak tanımlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, insanın kullandığı doğal malzemelerin (burada ağaç) kaynağının kendisine ait olmadığıdır.",
+  "Bugüne taşınabilecek ders, kullanılan her şeyin bir emanet olduğunu hatırlamaktır. İnsan doğadaki kaynakları işler, dönüştürür, ama onları var eden kendisi değildir; bu bilinç, doğaya ve kaynaklara saygıyı artırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kullandığın bir malzemenin kaynağını düşün",
+   "aciklama": "Bugün kullandığın ahşap, kağıt gibi bir malzemenin doğadan geldiğini fark et."
+  },
+  {
+   "baslik": "Doğaya saygılı bir seçim yap",
+   "aciklama": "Bugün gereksiz israf yerine, doğal kaynakları koruyan küçük bir tercih yap."
+  },
+  {
+   "baslik": "Emaneti fark et",
+   "aciklama": "Bugün kullandığın bir kaynağın aslında sana emanet olduğunu bir an hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün doğal bir kaynağı (kağıt, su, ahşap) israf etmeden kullanmaya özen göster.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=72"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/56/72"
+  }
+ ]
+}

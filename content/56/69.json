@@ -1,0 +1,103 @@
+{
+ "sure": 56,
+ "ayet": 69,
+ "durum": "taslak",
+ "meal": "Onu buluttan siz mi indiriyorsunuz, yoksa indiren biz miyiz?",
+ "mealNotu": "'Nezele' kökü (نزل) indirmeyi, 'müzn' kökü (مزن) yağmur yüklü bulutu anlatır.",
+ "kokler": [
+  {
+   "kelime": "ءَأَنتُمْ",
+   "okunus": "eentüm",
+   "kok": "—",
+   "kokAnlam": "(soru + zamir) siz mi",
+   "karsilik": "siz mi"
+  },
+  {
+   "kelime": "أَنزَلْتُمُوهُ",
+   "okunus": "enzeltümûhü",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "onu indirdiniz"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُزْنِ",
+   "okunus": "elmüzni",
+   "kok": "مزن",
+   "kokAnlam": "yağmur yüklü bulut",
+   "karsilik": "buluttan"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "نَحْنُ",
+   "okunus": "nahnü",
+   "kok": "—",
+   "kokAnlam": "(zamir) biz",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "ٱلْمُنزِلُونَ",
+   "okunus": "elmünzilûne",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indiren"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette hatırlatılan suyun kaynağı burada netleştirilir: yağmur yüklü bulut. Ayet, insanın bu bulutları oluşturmadığını ve ondan suyu indirmediğini, bunun tamamen Allah'ın fiili olduğunu vurgular.",
+  "Bu soru, 64. ayetteki 'onu siz mi bitiriyorsunuz' sorusuyla aynı yapıyı taşır. Sure, farklı doğa olaylarında aynı mantığı tekrarlayarak insanın hiçbir temel doğal süreç üzerinde gerçek bir kontrolü olmadığını pekiştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "30:48",
+   "meal": "Allah, rüzgârları gönderir, onlar bulutu harekete geçirir... sonra ondan yağmuru indirir.",
+   "baglanti": "Rûm suresinde yağmurun oluşum süreci ayrıntılı anlatılır; bu ayetteki 'indirme' fiili aynı sürecin özetidir."
+  },
+  {
+   "ref": "67:30",
+   "meal": "De ki: Söyleyin bakalım, suyunuz yerin dibine çekiliverse, size kim duru bir su getirebilir?",
+   "baglanti": "Mülk suresinin son ayeti de aynı soruyu farklı bir açıdan sorar; suyun devamının insanın elinde olmadığını hatırlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, yağmurun oluşumunun tamamen insanın kontrolü dışında, Allah'ın belirlediği bir düzenle gerçekleştiğidir.",
+  "Bugüne taşınabilecek ders, doğal döngülere güvenip onları veri saymak yerine, bu düzenin sürekli bir lütuf olduğunu hatırlamaktır. Yağmurun her yıl düzenli yağması bile başlı başına bir nimettir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir yağmuru fark et",
+   "aciklama": "Bugün ya da yakın zamanda yağan bir yağmuru, sıradan değil bir nimet olarak hatırla."
+  },
+  {
+   "baslik": "Doğal bir döngüyü araştır",
+   "aciklama": "Bugün suyun doğadaki döngüsü hakkında kısa bir şey oku veya düşün."
+  },
+  {
+   "baslik": "Kuraklık yaşayan bölgeleri hatırla",
+   "aciklama": "Bugün suya kolay erişimin bir nimet olduğunu, bundan yoksun bölgeleri düşünerek hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün su kaynaklarına kolay erişimin bir nimet olduğunu bir yakınınla paylaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=69"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/56/69"
+  }
+ ]
+}
