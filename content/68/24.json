@@ -1,0 +1,96 @@
+{
+ "sure": 68,
+ "ayet": 24,
+ "durum": "taslak",
+ "meal": "'Bugün oraya hiçbir yoksul girmesin' diye.",
+ "mealNotu": "'Miskîn' سكن kökünden yoksul, ihtiyaç sahibi kişiyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) diye",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ...masın",
+   "karsilik": "...masın"
+  },
+  {
+   "kelime": "يَدْخُلَنَّهَا",
+   "okunus": "yedhulennehâ",
+   "kok": "دخل",
+   "kokAnlam": "girme, içeri girme",
+   "karsilik": "oraya girmesin"
+  },
+  {
+   "kelime": "ٱلْيَوْمَ",
+   "okunus": "elyevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bugün"
+  },
+  {
+   "kelime": "عَلَيْكُم",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizin üzerinize",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "مِّسْكِينٌ",
+   "okunus": "miskînün",
+   "kok": "سكن",
+   "kokAnlam": "durgunluk, ihtiyaç içinde olma, yoksul",
+   "karsilik": "hiçbir yoksul"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki iki ayette fısıldaşılan planın asıl amacını açıkça ortaya koyar: bahçe sahiplerinin niyeti, o gün oraya hiçbir yoksulun girmesine izin vermemektir. Bu, önceki hasatlarda muhtemelen yoksullara bir pay ayırma âdetlerinin olduğunu, ama bu sefer bundan vazgeçmek istediklerini ima eder.",
+  "Klasik tefsir, bu tavrı açık bir cimrilik ve nankörlük örneği olarak okur; sahip oldukları bahçe, kendi çabalarının yanı sıra Allah'ın bir lütfudur, ama onlar bunu tamamen kendilerine ait görüp paylaşmaktan kaçınmışlardır. Bu niyet, kıssanın ahlaki merkezini oluşturur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "107:1",
+   "meal": "Dini yalanlayanı gördün mü?",
+   "baglanti": "Mâûn suresi de yoksulu doyurmaktan kaçınmayı, dini yalanlamanın bir belirtisi sayar; 68:24'teki tavır bu ilkeye tam bir örnektir."
+  },
+  {
+   "ref": "89:17",
+   "meal": "Hayır, doğrusu siz yetime ikram etmiyorsunuz.",
+   "baglanti": "Fecr suresindeki bu ayet de, muhtaç kişiye karşı gösterilen cimriliği kınar; 68:24'teki yoksulu dışlama niyetiyle aynı ahlaki uyarıyı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bahçe sahiplerinin yoksulları bile bile dışlama kararıdır; bu, kıssanın ahlaki dönüm noktasıdır.",
+  "Buradan çıkan ders, sahip olunan bir nimetten ihtiyaç sahiplerini kasıtlı olarak mahrum bırakmanın büyük bir sorumluluk taşıdığıdır; paylaşmaktan kaçınmak, bazen nimetin kendisini de tehlikeye atar."
+ ],
+ "bugun": [
+  {
+   "baslik": "İhtiyaç sahibini unutma",
+   "aciklama": "Bugün bir payını ayırırken, ihtiyacı olan birini bilerek dışlamaktan kaçın."
+  },
+  {
+   "baslik": "Alışılmış bir cömertliği sürdür",
+   "aciklama": "Daha önce yaptığın bir yardımı bugün kesmeden devam ettir."
+  },
+  {
+   "baslik": "Görmezden gelmeyi bırak",
+   "aciklama": "Bugün fark ettiğin bir ihtiyacı görmezden gelmek yerine küçük bir adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün bir payını ayırırken ihtiyacı olan birini bilerek dışlama.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=68&verse=24"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/68/24"
+  }
+ ]
+}

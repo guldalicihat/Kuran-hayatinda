@@ -1,0 +1,89 @@
+{
+ "sure": 68,
+ "ayet": 38,
+ "durum": "taslak",
+ "meal": "Onda dilediğinizi seçebileceğiniz bir hüküm mü var?",
+ "mealNotu": "'Tehayyerûn' خير kökünden seçmeyi, tercih etmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "لَمَا",
+   "okunus": "lemâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) elbette şey",
+   "karsilik": "her ne"
+  },
+  {
+   "kelime": "تَخَيَّرُونَ",
+   "okunus": "tehayyerûne",
+   "kok": "خير",
+   "kokAnlam": "seçme, tercih etme",
+   "karsilik": "dilediğinizi seçtiğiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayette sorulan 'kitabınız var mı' sorusunun içeriğine dair devam eder: o kitapta, diledikleri her şeyi seçip alabilecekleri bir hüküm mü vardır? Bu, karşı tarafın iddiasının ne kadar keyfi olduğunu vurgular; sanki hiçbir ilahi kaynağa dayanmadan, kendi arzularına göre bir hüküm uyduruyorlarmış gibi bir tablo çizilir.",
+  "Klasik tefsir bu ayeti, dinî ya da ahlaki bir iddianın keyfi bir arzuya değil, sağlam bir kaynağa dayanması gerektiğinin bir hatırlatması olarak açıklar. Sorular zinciri, bu tür bir keyfi hükmün hiçbir geçerliliği olmadığını göstermeye devam eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:37",
+   "meal": "Yoksa okuyup ders aldığınız bir kitabınız mı var?",
+   "baglanti": "37. ve 38. ayetler birlikte, iddianın hem bir kaynağı hem de o kaynakta böyle bir hüküm olup olmadığını sorgular."
+  },
+  {
+   "ref": "53:23",
+   "meal": "Bunlar, sizin ve atalarınızın taktığı, Allah'ın hiçbir delil indirmediği sadece isimlerden ibarettir; onlar sadece zanna ve nefislerinin arzusuna uyarlar.",
+   "baglanti": "Necm suresindeki bu ayet, dayanaksız bir inancın nefsin arzusuna dayandığını anlatır; 68:38'deki 'dilediğinizi seçme' eleştirisiyle aynı doğrultudadır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir hükmün keyfi bir arzuya değil sağlam bir kaynağa dayanması gerektiğinin vurgulanmasıdır.",
+  "Buradan çıkan ders, kendi işine gelen bir sonucu, hiçbir dayanağı olmadan 'doğru' ilan etmekten kaçınmaktır; bir görüşü savunurken onun gerçek bir temele dayanıp dayanmadığını sorgulamak önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İşine gelen bir görüşü sorgula",
+   "aciklama": "Bugün sana kolay geldiği için benimsediğin bir görüşü, gerçekten doğru olup olmadığı açısından bir kez gözden geçir."
+  },
+  {
+   "baslik": "Keyfi bir yorumdan kaçın",
+   "aciklama": "Bir konuda kendi işine gelecek şekilde yorum yapmak yerine, bugün dürüst bir değerlendirme yap."
+  },
+  {
+   "baslik": "Kaynağa dayan",
+   "aciklama": "Bir iddiada bulunurken bugün, bunu güvenilir bir kaynağa dayandırmaya özen göster."
+  }
+ ],
+ "bugununAdimi": "Bugün sana kolay geldiği için benimsediğin bir görüşü gerçekten doğru olup olmadığı açısından gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=68&verse=38"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/68/38"
+  }
+ ]
+}

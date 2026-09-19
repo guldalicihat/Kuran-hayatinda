@@ -1,0 +1,89 @@
+{
+ "sure": 68,
+ "ayet": 47,
+ "durum": "taslak",
+ "meal": "Yoksa gayb onların yanında mı, da onlar mı yazıyorlar?",
+ "mealNotu": "'Gayb' غيب kökünden görünmeyen, bilinmeyen anlamındadır; ayet, onların gaybı bildiklerine dair bir iddiaları olup olmadığını sorar.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "عِندَهُمُ",
+   "okunus": "indehümü",
+   "kok": "عند",
+   "kokAnlam": "yan, kat, huzur",
+   "karsilik": "onların yanında mı"
+  },
+  {
+   "kelime": "ٱلْغَيْبُ",
+   "okunus": "elgaybü",
+   "kok": "غيب",
+   "kokAnlam": "görünmeyen, bilinmeyen",
+   "karsilik": "gayb"
+  },
+  {
+   "kelime": "فَهُمْ",
+   "okunus": "fehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) da onlar",
+   "karsilik": "da onlar"
+  },
+  {
+   "kelime": "يَكْتُبُونَ",
+   "okunus": "yektübûne",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kayda geçirme",
+   "karsilik": "yazıyorlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, karşı çıkanlara yöneltilen soru dizisini bir başka soruyla sürdürür: yoksa gayb -görünmeyen, bilinmeyen alan- onların elinde midir de kendi hükümlerini oradan mı yazıp çıkarıyorlar? Bu, önceki ayetlerde sorulan 'kitabınız var mı, kefiliniz var mı' sorularıyla aynı doğrultuda, iddialarının hiçbir bilgiye dayanmadığını gösterir.",
+  "Klasik tefsir, bu ayeti, insanın gaybı bilme iddiasının aslında büyük bir küstahlık olduğunun bir hatırlatması olarak açıklar. Gayb bilgisi yalnızca Allah'a aittir; kimsenin bu alandan bir hüküm çıkarıp kesin konuşma hakkı yoktur. Bu ayetle 36. ayette başlayan soru dizisi tamamlanmış olur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "27:65",
+   "meal": "De ki: Göklerde ve yerde, Allah'tan başka hiç kimse gaybı bilmez.",
+   "baglanti": "Neml suresindeki bu ayet, gaybın yalnızca Allah'a ait olduğunu açıkça beyan eder; 68:47'deki soruyla aynı gerçeği doğrular."
+  },
+  {
+   "ref": "6:59",
+   "meal": "Gaybın anahtarları O'nun katındadır, onları O'ndan başkası bilmez.",
+   "baglanti": "En'âm suresindeki bu ayet de aynı ilkeyi tekrarlar; hiç kimsenin gaybı bilip ondan hüküm çıkaramayacağını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, karşı çıkanların iddialarının gaybı bilme gibi imkânsız bir dayanağa da sahip olmadığının gösterilmesidir; bu, 36-47. ayetler boyunca süren sorgulamanın son halkasıdır.",
+  "Buradan çıkan ders, geleceği veya bilinmeyeni bildiğini iddia ederek kesin konuşmaktan kaçınmaktır; insanın bilgisi sınırlıdır, bu sınırı kabul etmek alçakgönüllülüğün bir parçasıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilmediğini bilmediğini kabul et",
+   "aciklama": "Bugün geleceğe dair kesin bir iddiada bulunmak yerine, bilginin sınırını kabul et."
+  },
+  {
+   "baslik": "Gayb konusunda mütevazı ol",
+   "aciklama": "Kaderin veya geleceğin bir parçasını bildiğini iddia eden bir söze bugün temkinli yaklaş."
+  },
+  {
+   "baslik": "Allah'a güven",
+   "aciklama": "Bilmediğin bir konuda bugün endişelenmek yerine, sonucu Allah'a bırak."
+  }
+ ],
+ "bugununAdimi": "Bugün geleceğe dair kesin bir iddiada bulunmak yerine bilginin sınırını kabul et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=68&verse=47"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/68/47"
+  }
+ ]
+}

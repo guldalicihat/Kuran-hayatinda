@@ -1,0 +1,89 @@
+{
+ "sure": 68,
+ "ayet": 37,
+ "durum": "taslak",
+ "meal": "Yoksa okuyup ders aldığınız bir kitabınız mı var?",
+ "mealNotu": "'Tedrusûn' درس kökünden ders alma, okuyup inceleme anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin",
+   "karsilik": "sizin"
+  },
+  {
+   "kelime": "كِتَٰبٌ",
+   "okunus": "kitâbün",
+   "kok": "كتب",
+   "kokAnlam": "yazı, kitap",
+   "karsilik": "bir kitabınız"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "تَدْرُسُونَ",
+   "okunus": "tedrusûne",
+   "kok": "درس",
+   "kokAnlam": "ders alma, okuyup inceleme",
+   "karsilik": "ders aldığınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, iddialarının temelsizliğini göstermek için sorulara devam eder: acaba onların, içinde bu iddiayı (kötülerin müminlerle eşit ya da onlardan üstün tutulacağını) doğrulayan bir kitapları mı var? 'Dirâset' kökü, bir metni okuyup üzerinde çalışmayı, ders çıkarmayı anlatır.",
+  "Bu soru, ilahi bir kaynağa dayanmayan bir iddianın ne kadar asılsız olduğunu vurgular. Klasik tefsir, bu tür soruların, muhatabı kendi iddiasının kaynağını sorgulamaya zorlayan bir tartışma yöntemi olduğunu belirtir; art arda gelen sorular, iddianın hiçbir dayanağı olmadığını adım adım gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:38",
+   "meal": "Onda dilediğinizi seçebileceğiniz bir hüküm mü var?",
+   "baglanti": "37. ayetteki 'kitabınız var mı' sorusu, 38. ayette bu kitabın içeriğine dair bir soruyla devam eder; ikisi birlikte tek bir sorgulamayı oluşturur."
+  },
+  {
+   "ref": "52:32",
+   "meal": "Yoksa akılları mı onlara bunu emrediyor? Yoksa onlar azgın bir topluluk mudur?",
+   "baglanti": "Tûr suresindeki bu ayet de benzer bir sorgulama üslubuyla, karşı tarafın iddiasının hiçbir dayanağı olmadığını gösterir; 68:37 ile aynı üslubu paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kötülerin müminlerle eşit tutulacağı iddiasının hiçbir yazılı, ilahi dayanağı olmadığının sorgulanmasıdır.",
+  "Buradan çıkan ders, bir iddiada bulunmadan önce bu iddianın gerçek bir kaynağa mı yoksa sadece kişisel bir arzuya mı dayandığını sorgulamaktır; sağlam bir dayanağı olmayan bir görüş, ne kadar inandırıcı görünürse görünsün geçersizdir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İddianın kaynağını sor",
+   "aciklama": "Bugün duyduğun bir iddiayı kabul etmeden önce, bunun neye dayandığını sor."
+  },
+  {
+   "baslik": "Kendi görüşünü de sorgula",
+   "aciklama": "Savunduğun bir görüşün sağlam bir dayanağı olup olmadığını bugün bir kez gözden geçir."
+  },
+  {
+   "baslik": "Kaynağa dayanmayan bir beklentiden vazgeç",
+   "aciklama": "Sadece kendi arzuna dayanan bir beklentini bugün gerçekçi biçimde değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün duyduğun bir iddiayı kabul etmeden önce neye dayandığını sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=68&verse=37"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/68/37"
+  }
+ ]
+}

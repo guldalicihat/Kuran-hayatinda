@@ -1,0 +1,89 @@
+{
+ "sure": 68,
+ "ayet": 52,
+ "durum": "taslak",
+ "meal": "Oysa o (Kur'an), âlemler için ancak bir zikirdir (öğüt ve hatırlatmadır).",
+ "mealNotu": "'Zikr' ذكر kökünden anma, hatırlatma; burada Kur'an'ın kendisini işaret eder. 'Âlemîn' علم kökünden bütün varlıkları, insanları kapsar.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değildir",
+   "karsilik": "oysa değildir"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, sadece",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ذِكْرٌ",
+   "okunus": "zikrun",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlatma, öğüt",
+   "karsilik": "bir zikir(dir)"
+  },
+  {
+   "kelime": "لِّلْعَٰلَمِينَ",
+   "okunus": "lil'âlemîne",
+   "kok": "علم",
+   "kokAnlam": "bilgi, ilim; âlemler, bütün yaratılmışlar",
+   "karsilik": "âlemler için"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, kendisini son ayetinde tanımlayarak kapanır: bütün bu ithamlara ve düşmanlığa rağmen, Kur'an aslında sadece bir zikirdir -bütün insanlığa yönelik bir hatırlatma, bir öğüt. Bu, önceki ayetteki öfkeli tepkiyle tam bir tezat oluşturur; karşı çıkanlar onu bir delilik belirtisi sanırken, o aslında evrensel bir öğüttür.",
+  "'Zikr' kelimesi, surenin 44. ayetinde de 'bu sözü (hadîs) yalanlayan' ifadesiyle anılmıştı; burada aynı kavram, olumlu bir çerçevede tekrarlanır. Klasik tefsir, bu son ayeti, Kur'an'ın amacının kimseyi zorlamak değil, hatırlatmak ve öğüt vermek olduğunun bir özeti olarak okur; sure, sert bir polemikle değil, sakin ve kapsayıcı bir hatırlatmayla sona erer."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "81:27",
+   "meal": "O, âlemler için ancak bir öğüttür.",
+   "baglanti": "Tekvîr suresinin son ayeti, neredeyse aynı ifadeyle Kur'an'ı tanımlar; iki sure de aynı cümleyle kapanır."
+  },
+  {
+   "ref": "38:87",
+   "meal": "O, âlemler için ancak bir öğüttür.",
+   "baglanti": "Sâd suresi de aynı ifadeyle sona erer; bu, Kur'an'ın kendini tanımlarken sıkça kullandığı bir kapanış cümlesidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın bütün insanlığa yönelik bir hatırlatma ve öğüt olduğunun vurgulanmasıdır; bu, surenin genel bir özetle kapanmasıdır.",
+  "Buradan çıkan ders, Kur'an'ı bir baskı ya da tartışma aracı değil, kendini ve hayatını hatırlatan bir öğüt kaynağı olarak görmektir; bu hatırlatmaya açık olmak, günlük hayatta sürekli bir yenilenme fırsatı sunar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir öğüt olarak oku",
+   "aciklama": "Bugün okuduğun bir ayeti, sadece bilgi olarak değil kendine bir hatırlatma olarak oku."
+  },
+  {
+   "baslik": "Herkes için bir hatırlatma olduğunu hatırla",
+   "aciklama": "Kur'an'ın belli bir gruba değil, herkese seslendiğini bugün bir kez düşün."
+  },
+  {
+   "baslik": "Günü bir hatırlatmayla bitir",
+   "aciklama": "Gün sonunda bugün öğrendiğin bir öğüdü kısaca kendine tekrar et."
+  }
+ ],
+ "bugununAdimi": "Bugün okuduğun bir ayeti kendine bir hatırlatma olarak oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=68&verse=52"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/68/52"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "sure": 68,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "Mal ve oğullar sahibi olması (onu böyle azgın yapmasın diye).",
+ "mealNotu": "Ayet 'en kâne...' yapısıyla bir önceki cümleye bağlanır; parantez içindeki ifade, bu bağlantıyı Türkçede anlaşılır kılmak için eklendi. 'Mâl' مول mülkü, 'benîn' بني oğulları anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) diye, -mesi",
+   "karsilik": "olması"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olmak, var olmak",
+   "karsilik": "olması"
+  },
+  {
+   "kelime": "ذَا",
+   "okunus": "zâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) sahip",
+   "karsilik": "sahip"
+  },
+  {
+   "kelime": "مَالٍ",
+   "okunus": "mâlin",
+   "kok": "مول",
+   "kokAnlam": "mal, servet",
+   "karsilik": "mal"
+  },
+  {
+   "kelime": "وَبَنِينَ",
+   "okunus": "ve benîne",
+   "kok": "بني",
+   "kokAnlam": "oğul, evlat",
+   "karsilik": "ve oğullar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 10-13. ayetlerde sayılan kötü huyların bir sebebini işaret eder: kişinin mal ve çok sayıda oğul sahibi olması, onu şımartmış, kibirlendirmiş olabilir. Ayet, malın ve evlatların kendi başına bir üstünlük ölçüsü olmadığını, aksine yanlış kullanıldığında azgınlığa yol açabileceğini ima eder.",
+  "Klasik tefsir bu ayeti, 'servet ve kalabalık evlat sahibi olduğu için mi böyle kibirlendi ve doğruları küçümsedi' şeklinde bir soru olarak açıklar. Kur'an'ın başka yerlerinde de mal ve evlat çokluğunun, doğru kullanılmadığında kişiyi Allah'tan uzaklaştırabileceği hatırlatılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "18:34",
+   "meal": "Onun (bahçe sahibinin) başka bir meyvesi daha vardı; arkadaşına böbürlenerek dedi ki: 'Ben senden malca daha zengin, insanca da daha güçlüyüm.'",
+   "baglanti": "Kehf suresindeki bu ayet, mal ve güç sahibi olmanın kişiyi nasıl kibre sürükleyebileceğini benzer bir sahnede anlatır."
+  },
+  {
+   "ref": "34:35",
+   "meal": "Dediler ki: 'Bizim malımız ve evladımız daha çoktur; bize azap edilecek değiliz.'",
+   "baglanti": "Sebe' suresindeki bu ayet, mal ve evlat çokluğunun yanlış bir güven kaynağına dönüşmesini eleştirir; 68:14'teki imaya çok yakın bir sahnedir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, mal ve evlat çokluğunun bir kişiyi kibre ve kötü huylara sürükleyebileceğidir; bu, servet sahibi belirli bir kişiye özgü bir uyarıdır.",
+  "Buradan çıkan ders, sahip olunan imkânların bir üstünlük değil bir emanet ve imtihan olduğunu unutmamaktır; mal ve evlat arttıkça alçakgönüllülük ve sorumluluk da artmalıdır, kibir değil."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sahip olduğun bir imkânı emanet gibi gör",
+   "aciklama": "Bugün malını ya da imkânını bir üstünlük değil, hesabı sorulacak bir emanet olarak düşün."
+  },
+  {
+   "baslik": "Kibirlenmeye fırsat verme",
+   "aciklama": "Bir başarını ya da imkânını anlatırken bugün övünmeden, sade bir dil kullan."
+  },
+  {
+   "baslik": "Az sahip olanı hor görme",
+   "aciklama": "Bugün senden daha az imkânı olan birine karşı üstten bakan bir tavırdan kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün sahip olduğun bir imkânı üstünlük değil, emanet olarak gör.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=68&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/68/14"
+  }
+ ]
+}

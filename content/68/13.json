@@ -1,0 +1,82 @@
+{
+ "sure": 68,
+ "ayet": 13,
+ "durum": "taslak",
+ "meal": "Kaba, kötü huylu; üstelik bir de soysuz (o kişiye itaat etme).",
+ "mealNotu": "'Utüll' عتل kökünden kaba, katı, kötü huylu kişiyi; 'zenîm' زنم kökünden ait olmadığı bir yere sonradan eklenmiş, soyu şüpheli kişiyi anlatır. Cümle 68:10'daki 'itaat etme' fiiline bağlı olduğu için parantezle tamamlandı.",
+ "kokler": [
+  {
+   "kelime": "عُتُلٍّۭ",
+   "okunus": "utüllim",
+   "kok": "عتل",
+   "kokAnlam": "kabalık, katılık, sert huyluluk",
+   "karsilik": "kaba, kötü huylu"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonra, ardından",
+   "karsilik": "üstelik"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) şu, o",
+   "karsilik": "bunun ardından"
+  },
+  {
+   "kelime": "زَنِيمٍ",
+   "okunus": "zenîmin",
+   "kok": "زنم",
+   "kokAnlam": "sonradan eklenmiş, ait olmadığı yere katılmış",
+   "karsilik": "soysuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kötü karakter tasvirinin bu son ayetinde iki özellik daha eklenir: kabalık ve 'zenîm' olmak. 'Utüll' kelimesi hem beden hem huy bakımından kaba, katı, sert bir kişiliği anlatır. 'Zenîm' kelimesi ise sözlükte bir sürüye sonradan katılan, ona ait olmayan hayvanı ifade eder; mecazi olarak, ait olmadığı bir topluluğa sonradan katılmış, nesebi şüpheli kişi anlamında kullanılır. Kur'an metninde bu kişinin adı geçmez.",
+  "Klasik tefsirde bazı yorumcular bu tasviri Mekkeli belirli bir şahsa bağlamışsa da, Kur'an'ın kendisi hiçbir isim vermez; ayet, belirli bir kişiyi teşhir etmekten çok, bir araya gelmiş kötü huyların bütününü göstermeyi amaçlar. 10-13. ayetlerde sayılan bu sekiz özellik -çok yemin etme, aşağılık olma, kusur arama, söz taşıma, iyiliğe engel olma, saldırganlık, günahkârlık, kabalık- birlikte, kaçınılması gereken bir karakter portresi oluşturur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:10",
+   "meal": "Çok yemin eden, aşağılık her kişiye de itaat etme.",
+   "baglanti": "10-13. ayetler tek bir cümle örgüsü içinde birbirine bağlıdır; 'itaat etme' fiili bu ayetteki son iki sıfatı da kapsar."
+  },
+  {
+   "ref": "104:2",
+   "meal": "O ki mal toplar ve onu sayar durur.",
+   "baglanti": "Hümeze suresindeki bu ayet, kaba ve kötü huylu bir karakterin mal ve mevkiye güvenmesini anlatır; 68:14'e de zemin hazırlayan bir benzerlik taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kaba huylu ve toplumda kendine ait olmayan bir yere sonradan yerleşmiş bir kişinin özelliklerinin sayılmasıdır; Kur'an bu kişiyi isimlendirmez, genel bir uyarı olarak bırakır.",
+  "Buradan çıkan ders, 10-13. ayetlerde sayılan huyların (çok yemin etme, kusur arama, söz taşıma, cimrilik, saldırganlık, kabalık) hiçbirinin bir müminde bulunmaması gerektiğidir; bu liste, kişinin kendi karakterini sınaması için bir ölçüdür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaba bir tepkini yumuşat",
+   "aciklama": "Bugün birine sert bir üslupla değil, yumuşak bir dille cevap vermeyi dene."
+  },
+  {
+   "baslik": "10-13. ayetlerin listesiyle kendini sına",
+   "aciklama": "Bugün bu ayetlerde sayılan huylardan hangisine yakın olduğunu dürüstçe düşün."
+  },
+  {
+   "baslik": "Aidiyetini davranışınla kazan",
+   "aciklama": "Bir topluluğa ya da göreve, sözle değil tutarlı davranışlarınla ait olduğunu göster."
+  }
+ ],
+ "bugununAdimi": "Bugün 10-13. ayetlerde sayılan huylardan birine yakın olup olmadığını dürüstçe düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=68&verse=13"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/68/13"
+  }
+ ]
+}

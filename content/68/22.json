@@ -1,0 +1,103 @@
+{
+ "sure": 68,
+ "ayet": 22,
+ "durum": "taslak",
+ "meal": "'Devşirecekseniz erkenden ekininize gidin' diye.",
+ "mealNotu": "'İgdû' غدو kökünden erkenden gitmeyi, 'harsiküm' حرث kökünden ekilen tarlayı, ekini anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَنِ",
+   "okunus": "eni",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) diye",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "ٱغْدُوا۟",
+   "okunus": "igdû",
+   "kok": "غدو",
+   "kokAnlam": "erkenden gitme, sabah vakti hareket etme",
+   "karsilik": "erkenden gidin"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine, -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "حَرْثِكُمْ",
+   "okunus": "harsiküm",
+   "kok": "حرث",
+   "kokAnlam": "ekin, tarla, sürülmüş toprak",
+   "karsilik": "ekininize"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olmak, var olmak",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "صَٰرِمِينَ",
+   "okunus": "sârimîne",
+   "kok": "صرم",
+   "kokAnlam": "kesme, devşirme",
+   "karsilik": "devşirecek"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayetteki çağrının içeriğini aktarır: eğer devşirecekseniz erkenden ekininize gidin. Bu, hâlâ önceki geceki gizli planın devamıdır; amaç, yoksullar gelmeden, kimse fark etmeden ürünü toplamaktır. 'Hars' kelimesi ekilen, ürün beklenen tarlayı anlatır.",
+  "Bu sahne, insanın kendi hesabına göre kurduğu bir düzenin, henüz gerçekleşmemiş bir olayı (bahçenin harap olduğunu) hesaba katmadan devam ettirilmesini gösterir. Kıssa, bu tür bir planlamanın ne kadar kırılgan olduğunu bir sonraki ayette daha da netleştirecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:24",
+   "meal": "Bugün oraya hiçbir yoksul girmesin diye.",
+   "baglanti": "22. ayetteki 'erkenden gidin' çağrısı, 24. ayette açıklanan asıl niyeti -yoksulları dışlamayı- hazırlayan bir adımdır."
+  },
+  {
+   "ref": "12:17",
+   "meal": "Dediler ki: 'Ey babamız, biz yarışmaya gitmiştik, Yûsuf'u eşyamızın yanında bırakmıştık, onu kurt yemiş.'",
+   "baglanti": "Yûsuf suresindeki bu ayet de, bir grup insanın önceden kurduğu bir planı uygulamaya koyduğu bir sahneyi anlatır; her iki kıssada da insan planı ile gerçekleşen sonuç arasında büyük bir fark vardır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bahçe sahiplerinin yoksulları dışlamak amacıyla erkenden tarlaya gitme çağrısıdır.",
+  "Buradan çıkan ders, bir planı uygularken asıl niyetin ne olduğuna dikkat etmektir; iyi görünen bir çabanın (erken kalkıp çalışmak) arkasında kötü bir niyet (başkasını mahrum bırakmak) olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Niyetini gözden geçir",
+   "aciklama": "Bugün yaptığın bir işin asıl amacının ne olduğunu kendine dürüstçe sor."
+  },
+  {
+   "baslik": "Erken davranmayı iyi bir amaç için kullan",
+   "aciklama": "Bugün erken kalkıp yaptığın bir işi, başkasına faydalı olacak şekilde planla."
+  },
+  {
+   "baslik": "Dışlayıcı bir planı fark et",
+   "aciklama": "Bir grup içinde birini bilerek dışlayan bir planın parçası olmaktan bugün kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün yaptığın bir işin asıl niyetini kendine dürüstçe sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=68&verse=22"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/68/22"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "sure": 68,
+ "ayet": 41,
+ "durum": "taslak",
+ "meal": "Yoksa ortakları mı var? Doğru söylüyorlarsa ortaklarını getirsinler.",
+ "mealNotu": "'Şürakâ' شرك kökünden ortaklar anlamındadır; burada iddiayı destekleyecek tanıklar ya da güç ortakları kastedilir.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onların",
+   "karsilik": "onların"
+  },
+  {
+   "kelime": "شُرَكَآءُ",
+   "okunus": "şürakâü",
+   "kok": "شرك",
+   "kokAnlam": "ortaklık, paydaşlık",
+   "karsilik": "ortakları"
+  },
+  {
+   "kelime": "فَلْيَأْتُوا۟",
+   "okunus": "felye'tû",
+   "kok": "أتي",
+   "kokAnlam": "gelme, getirme",
+   "karsilik": "getirsinler"
+  },
+  {
+   "kelime": "بِشُرَكَآئِهِمْ",
+   "okunus": "bişürakâihim",
+   "kok": "شرك",
+   "kokAnlam": "ortaklık, paydaşlık",
+   "karsilik": "ortaklarını"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olmak, var olmak",
+   "karsilik": "iseler"
+  },
+  {
+   "kelime": "صَٰدِقِينَ",
+   "okunus": "sâdikîne",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, dürüstlük",
+   "karsilik": "doğru söylüyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sorular zinciri, iddiayı destekleyecek herhangi bir 'ortak' (tanık, güç birliği yapan bir kaynak) olup olmadığını sorarak devam eder. Eğer iddialarında gerçekten haklıysalar, bu iddiayı destekleyecek ortaklarını getirmeleri istenir. Bu, bomboş bir meydan okumadır; çünkü böyle bir dayanak yoktur.",
+  "Klasik tefsir, bu ayeti, temelsiz bir iddianın hiçbir tanık ya da kanıtla desteklenemeyeceğinin son bir gösterisi olarak açıklar. 36-41. ayetler boyunca sürdürülen soru dizisi burada tamamlanır; iddianın hiçbir kitaba, yemine, kefile veya tanığa dayanmadığı ortaya konmuş olur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:38",
+   "meal": "Onda dilediğinizi seçebileceğiniz bir hüküm mü var?",
+   "baglanti": "36-41. ayetler, birbirine bağlı bir sorgulama zinciridir; her ayet iddianın farklı bir dayanaksız yönünü gösterir."
+  },
+  {
+   "ref": "28:71",
+   "meal": "De ki: 'Söyleyin bakalım, Allah geceyi üzerinize kıyamet gününe kadar sürekli kılsaydı, Allah'tan başka size ışık getirecek bir ilah kim olabilirdi?'",
+   "baglanti": "Kasas suresindeki bu ayet de benzer bir meydan okuma üslubuyla, sahte ortakların hiçbir güce sahip olmadığını gösterir; 68:41'deki çağrıyla aynı yöntemi paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, temelsiz bir iddianın hiçbir tanık ya da kanıtla desteklenemediğinin gösterilmesidir; bu, 36-41. ayetler boyunca süren bir sorgulamanın sonudur.",
+  "Buradan çıkan ders, bir iddiada bulunurken bunu destekleyecek gerçek bir kanıt ya da tanık olup olmadığını sormaktır; kanıtsız bir iddia, ne kadar kararlı savunulursa savunulsun boş kalır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kanıt iste",
+   "aciklama": "Bugün duyduğun bir iddiayı kabul etmeden önce, bunu destekleyecek bir kanıt olup olmadığını sor."
+  },
+  {
+   "baslik": "Kendi iddianı kanıtla",
+   "aciklama": "Bir konuda ısrar ederken bugün, bu ısrarını destekleyecek somut bir gerekçe sun."
+  },
+  {
+   "baslik": "Boş bir iddiaya kapılma",
+   "aciklama": "Hiçbir dayanağı olmayan bir söze bugün kolayca inanmaktan kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün duyduğun bir iddiayı kabul etmeden önce onu destekleyecek bir kanıt olup olmadığını sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=68&verse=41"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/68/41"
+  }
+ ]
+}

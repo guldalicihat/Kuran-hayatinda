@@ -1,0 +1,117 @@
+{
+ "sure": 68,
+ "ayet": 42,
+ "durum": "taslak",
+ "meal": "O gün, işin ciddiyeti ortaya çıkar ve secdeye çağrılırlar, ama güç yetiremezler.",
+ "mealNotu": "'Yükşefü an sâk' deyimi harfi anlamıyla 'baldırın açılması' demektir, zorlu ve ciddi bir anı anlatan bir mecazdır; meale 'işin ciddiyeti ortaya çıkar' olarak yansıtıldı, harfi anlam mealNotu'nda belirtildi.",
+ "kokler": [
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "يُكْشَفُ",
+   "okunus": "yükşefü",
+   "kok": "كشف",
+   "kokAnlam": "açılma, ortaya çıkma",
+   "karsilik": "ortaya çıkar"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "سَاقٍ",
+   "okunus": "sâkın",
+   "kok": "سوق",
+   "kokAnlam": "baldır, bacak; iş, durum",
+   "karsilik": "baldır(ın)"
+  },
+  {
+   "kelime": "وَيُدْعَوْنَ",
+   "okunus": "ve yüd'avne",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, davet etme",
+   "karsilik": "ve çağrılırlar"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلسُّجُودِ",
+   "okunus": "essücûdi",
+   "kok": "سجد",
+   "kokAnlam": "secde etme, yere kapanma",
+   "karsilik": "secdeye"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ama ...maz",
+   "karsilik": "ama ...maz"
+  },
+  {
+   "kelime": "يَسْتَطِيعُونَ",
+   "okunus": "yestetîûne",
+   "kok": "طوع",
+   "kokAnlam": "güç yetirme, yapabilme",
+   "karsilik": "güç yetirebilirler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, kıyamet gününe dair bir sahneyle karşılıklarına devam eder. 'Yükşefü an sâk' (baldırın açılması) Arapçada işin son derece ciddileştiği, zorlu bir ana girildiği anlamına gelen bir deyimdir; ayet bunu somut bir olayla değil bu deyimle anlatır. O gün insanlar secdeye çağrılır, ama dünyada secde etmeyi reddedenler artık buna güç yetiremezler.",
+  "Bu sahne, 36-41. ayetlerde iddiaları sorgulanan kişilere verilen bir cevaptır: dünyada Allah'a secde etmekten kaçınanlar, ahirette bu imkânı bulamazlar. Klasik tefsir bu ayeti, dünyadaki bir seçimin ahirette geri alınamaz bir sonuca dönüştüğünün bir örneği olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:43",
+   "meal": "Gözleri düşkün, kendilerini bir zillet kaplamış olarak; oysa daha önce sapasağlamken secdeye çağrılıyorlardı.",
+   "baglanti": "42. ayetteki sahne, 43. ayette bu kişilerin dünyadaki fırsatı kaçırmış olmalarının hatırlatılmasıyla tamamlanır."
+  },
+  {
+   "ref": "75:29",
+   "meal": "Ve baldır baldıra dolaşır.",
+   "baglanti": "Kıyâme suresindeki bu ayet de aynı 'sâk' kelimesini ölüm anının şiddetini anlatmak için kullanır; iki ayet de bu kelimeyi zorlu bir anın imgesi olarak taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyamet gününün zorluğu ve dünyada secde etmeyi reddedenlerin o gün buna güç yetirememesidir; bu ahiret sahnesi doğrudan gözlemlenebilir bir olay değildir.",
+  "Buradan çıkan ders, ibadet için imkânın bugün elinde olduğunu, bu fırsatı ertelemenin bir gün geri alınamaz bir kayba dönüşebileceğini hatırlamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Secdeyi ertelemeyi bırak",
+   "aciklama": "Bugün namazını ya da bir secdeni geciktirmeden, vaktinde yerine getirmeye çalış."
+  },
+  {
+   "baslik": "Fırsatın kıymetini bil",
+   "aciklama": "Bugün ibadet edebilecek gücün ve sağlığın olduğunu, bunun her zaman böyle kalmayacağını hatırla."
+  },
+  {
+   "baslik": "Zorlu bir anı hatırla",
+   "aciklama": "Hayatın ciddi bir anında Allah'a yönelmenin ne kadar değerli olduğunu bugün düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ibadetini ertelemeden, vaktinde yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=68&verse=42"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/68/42"
+  }
+ ]
+}

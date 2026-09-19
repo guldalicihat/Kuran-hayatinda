@@ -1,0 +1,82 @@
+{
+ "sure": 68,
+ "ayet": 36,
+ "durum": "taslak",
+ "meal": "Size ne oluyor, nasıl hükmediyorsunuz?",
+ "mealNotu": "'Tahkümûn' حكم kökünden hüküm vermeyi, karar vermeyi anlatır; ayet, önceki sorudaki adaletsiz beklentiyi sorgular.",
+ "kokler": [
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "كَيْفَ",
+   "okunus": "keyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl, ne şekilde",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "تَحْكُمُونَ",
+   "okunus": "tahkümûne",
+   "kok": "حكم",
+   "kokAnlam": "hüküm verme, karar verme",
+   "karsilik": "hükmediyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu kısa ayet, önceki ayette sorulan sorunun devamı olarak, iyi ile kötünün eşit tutulacağını düşünenlere doğrudan seslenir: bu tür bir hükme nasıl varabiliyorlar? 'Hüküm' kökü, bir konuda karar verme, yargıda bulunma anlamındadır; ayet, bu yargının mantıksızlığını sorgular.",
+  "Klasik tefsir, bu ayeti, temelsiz bir varsayıma dayanarak kendilerini müminlerden üstün gören kişilere yöneltilmiş şaşkınlık dolu bir soru olarak açıklar. Ardından gelen ayetler, bu iddianın hiçbir dayanağı olmadığını art arda sorularla gösterecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:37",
+   "meal": "Yoksa okuyup ders aldığınız bir kitabınız mı var?",
+   "baglanti": "36. ayetteki 'nasıl hükmediyorsunuz' sorusu, 37. ayetten itibaren bu hükmün hiçbir dayanağı olmadığını gösteren bir dizi soruyla açılır."
+  },
+  {
+   "ref": "45:21",
+   "meal": "Yoksa kötülük işleyenler, kendilerini, iman edip salih ameller işleyenler gibi kılacağımızı mı sandılar?",
+   "baglanti": "Câsiye suresindeki bu ayet, aynı yanlış varsayımı sorgular; 68:36'daki şaşkınlıkla aynı doğrultudadır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, iyi ile kötünün eşit tutulacağını düşünen bir yargının mantıksızlığının sorgulanmasıdır.",
+  "Buradan çıkan ders, bir kanaate varmadan önce bu kanaatin neye dayandığını sorgulamaktır; temelsiz bir varsayımla verilen bir hüküm, ne kadar kesin görünürse görünsün yanlış olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kanaatinin dayanağını sorgula",
+   "aciklama": "Bugün kesin gibi gördüğün bir yargının, gerçekten neye dayandığını bir kez sorgula."
+  },
+  {
+   "baslik": "Kolay bir hükümden kaçın",
+   "aciklama": "Bir konuda hızlı bir hüküm vermeden önce bugün biraz daha düşün."
+  },
+  {
+   "baslik": "Adaletsiz bir beklentiyi fark et",
+   "aciklama": "Kendine haksız bir üstünlük tanıdığın bir düşüncen varsa bugün fark et."
+  }
+ ],
+ "bugununAdimi": "Bugün kesin gibi gördüğün bir yargının neye dayandığını bir kez sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=68&verse=36"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/68/36"
+  }
+ ]
+}

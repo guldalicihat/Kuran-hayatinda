@@ -1,0 +1,103 @@
+{
+ "sure": 68,
+ "ayet": 28,
+ "durum": "taslak",
+ "meal": "Ortancaları dedi ki: 'Ben size Allah'ı tesbih etmeniz gerektiğini söylememiş miydim?'",
+ "mealNotu": "'Evsat' وسط kökünden ortanca, en dengeli olanı; 'tüsebbihûn' سبح kökünden Allah'ı eksiklikten tenzih etmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söylemek, demek",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "أَوْسَطُهُمْ",
+   "okunus": "evsetuhüm",
+   "kok": "وسط",
+   "kokAnlam": "ortada olma, denge, ortanca",
+   "karsilik": "ortancaları"
+  },
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil miydim",
+   "karsilik": "değil miydim"
+  },
+  {
+   "kelime": "أَقُل",
+   "okunus": "ekul",
+   "kok": "قول",
+   "kokAnlam": "söylemek, demek",
+   "karsilik": "söyledim"
+  },
+  {
+   "kelime": "لَّكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "لَوْلَا",
+   "okunus": "levlâ",
+   "kok": "—",
+   "kokAnlam": "(teşvik) keşke, gerekmez miydi",
+   "karsilik": "gerekmez miydi"
+  },
+  {
+   "kelime": "تُسَبِّحُونَ",
+   "okunus": "tüsebbihûne",
+   "kok": "سبح",
+   "kokAnlam": "eksiklikten tenzih etme, tesbih",
+   "karsilik": "Allah'ı tesbih etmeniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "İçlerinden en dengeli, en akıllı olanı (evsat), diğerlerine asıl eksikliği hatırlatır: Allah'ı tesbih etmeleri, yani O'nu anıp eksiklikten tenzih etmeleri gerektiğini daha önce söylemişti. Bu, plan kurarken Allah'ın iznini ve takdirini hesaba katmayı unuttuklarına işaret eder; 18. ayette geçen 'istisna yapmama' eksikliğiyle aynı temaya bağlanır.",
+  "Bu söz, kıssanın dönüm noktasıdır: felaketin sebebi artık dışarıdan bir talihsizlik değil, kendi ihmalleri olarak görülmeye başlanır. Klasik tefsir, bu ortanca kişinin sözünü, topluluk içinde bile daha dengeli ve hatırlatıcı bir sesin bulunabileceğine dair bir örnek olarak okur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:18",
+   "meal": "Ve istisna yapmıyorlardı.",
+   "baglanti": "28. ayetteki 'Allah'ı tesbih etmeniz gerekmez miydi' hatırlatması, 18. ayette eksik bırakılan 'inşaAllah' bilincine doğrudan işaret eder."
+  },
+  {
+   "ref": "18:39",
+   "meal": "Bağına girdiğinde 'Mâşallah, kuvvet yalnız Allah'a aittir' desen olmaz mıydı?",
+   "baglanti": "Kehf suresindeki bu ayet de aynı eksikliği -Allah'ı anmadan bir nimete güvenmeyi- hatırlatır; iki kıssa aynı dersi paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, topluluk içinden birinin diğerlerine, felaketin sebebinin Allah'ı anmayı unutmaları olduğunu hatırlatmasıdır.",
+  "Buradan çıkan ders, bir grup içinde yanlışa giderken uyaran bir sesin değerli olduğu ve böyle bir uyarıyı dinlemenin önemli olduğudur; bazen bir topluluğu doğruya çağıran tek bir kişi yeterli olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Uyaran bir sesi dinle",
+   "aciklama": "Bugün seni bir hata konusunda uyaran birinin sözünü kolayca reddetme, üzerinde düşün."
+  },
+  {
+   "baslik": "Doğru bir hatırlatma yap",
+   "aciklama": "Bir grup içinde yanlış giden bir şey varsa bugün nazikçe hatırlat."
+  },
+  {
+   "baslik": "Allah'ı anmayı unutma",
+   "aciklama": "Bir işe başlarken ya da bir nimeti kullanırken bugün Allah'ı bir kez an."
+  }
+ ],
+ "bugununAdimi": "Bugün bir işe başlarken ya da bir nimeti kullanırken Allah'ı bir kez an.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=68&verse=28"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/68/28"
+  }
+ ]
+}
