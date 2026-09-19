@@ -1,0 +1,243 @@
+{
+ "sure": 42,
+ "ayet": 52,
+ "durum": "taslak",
+ "meal": "İşte böylece sana da katımızdan bir ruh (Kur'an) vahyettik. Sen, kitap nedir, iman nedir bilmiyordun; fakat biz onu kullarımızdan dilediğimizi kendisiyle hidayete erdirdiğimiz bir nur kıldık. Şüphesiz sen, dosdoğru bir yola yöneltirsin.",
+ "mealNotu": "'Rûh' kelimesi ayette Kur'an'ı karşılıyor; parantez içinde belirtilmiştir. 'Nûr' kökü aydınlatma, ışık anlamındadır. Ayetin gaybi tarafı (ruh kelimesinin tam mahiyeti) hakkında ek yorum eklenmemiştir.",
+ "kokler": [
+  {
+   "kelime": "وَكَذَٰلِكَ",
+   "okunus": "ve kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böylece",
+   "karsilik": "işte böylece"
+  },
+  {
+   "kelime": "أَوْحَيْنَآ",
+   "okunus": "evhaynâ",
+   "kok": "وحي",
+   "kokAnlam": "gizli, hızlı bildirim, vahiy",
+   "karsilik": "vahyettik"
+  },
+  {
+   "kelime": "إِلَيْكَ",
+   "okunus": "ileyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "رُوحًا",
+   "okunus": "rûhan",
+   "kok": "روح",
+   "kokAnlam": "ruh, can, hayat veren",
+   "karsilik": "bir ruh"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَمْرِنَا",
+   "okunus": "emrinâ",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir, buyruk",
+   "karsilik": "katımızdan"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "—"
+  },
+  {
+   "kelime": "كُنتَ",
+   "okunus": "künte",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "bilmiyordun"
+  },
+  {
+   "kelime": "تَدْرِى",
+   "okunus": "tedrî",
+   "kok": "دري",
+   "kokAnlam": "bilme, farkında olma",
+   "karsilik": "bilmiyordun"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبُ",
+   "okunus": "elkitâbü",
+   "kok": "كتب",
+   "kokAnlam": "yazma, yazılı şey, kitap",
+   "karsilik": "kitap"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "ٱلْإِيمَٰنُ",
+   "okunus": "el'îmânü",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; iman",
+   "karsilik": "iman"
+  },
+  {
+   "kelime": "وَلَٰكِن",
+   "okunus": "ve lâkin",
+   "kok": "—",
+   "kokAnlam": "(düzeltme) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "جَعَلْنَٰهُ",
+   "okunus": "cealnâhü",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "biz onu kıldık"
+  },
+  {
+   "kelime": "نُورًا",
+   "okunus": "nûran",
+   "kok": "نور",
+   "kokAnlam": "aydınlatma, ışık, nur",
+   "karsilik": "bir nur"
+  },
+  {
+   "kelime": "نَّهْدِى",
+   "okunus": "nehdî",
+   "kok": "هدي",
+   "kokAnlam": "yol gösterme, hidayet etme",
+   "karsilik": "hidayete erdirdiğimiz"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimi",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "نَّشَآءُ",
+   "okunus": "neşâü",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilersek"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "عِبَادِنَا",
+   "okunus": "ibâdinâ",
+   "kok": "عبد",
+   "kokAnlam": "kul, kulluk eden",
+   "karsilik": "kullarımızdan"
+  },
+  {
+   "kelime": "وَإِنَّكَ",
+   "okunus": "ve inneke",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz sen",
+   "karsilik": "şüphesiz sen"
+  },
+  {
+   "kelime": "لَتَهْدِىٓ",
+   "okunus": "letehdî",
+   "kok": "هدي",
+   "kokAnlam": "yol gösterme, hidayet etme",
+   "karsilik": "elbette yöneltirsin"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "صِرَٰطٍ",
+   "okunus": "sırâtın",
+   "kok": "صرط",
+   "kokAnlam": "yol, geniş ana yol",
+   "karsilik": "bir yola"
+  },
+  {
+   "kelime": "مُّسْتَقِيمٍ",
+   "okunus": "müstekîmin",
+   "kok": "قوم",
+   "kokAnlam": "doğruluk, dosdoğru olma",
+   "karsilik": "dosdoğru"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 51. ayetteki vahiy yollarının Peygamber'e uygulanışını anlatır: ona da 'bir ruh' (Kur'an) vahyedilmiştir. Ayet, Peygamber'in vahiyden önce kitap ve iman kavramlarını bu şekilde bilmediğini söyler; bu, vahyin dışarıdan, kendi bilgisi olmayan bir kaynaktan geldiğini vurgular.",
+  "Ayetin devamı, bu vahyin bir 'nur' kılındığını ve Allah'ın dilediği kullarını onunla hidayete erdirdiğini belirtir. Klasik tefsir bu ayeti, Kur'an'ın hem Peygamber için hem de onu izleyenler için bir aydınlatıcı, yol gösterici olduğu şeklinde açıklar; 'ruh' kelimesinin tam mahiyeti hakkında ise ayetin kendi ifadesinin ötesine geçilmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "16:2",
+   "meal": "Kullarından dilediğine, kendi emrinden bir ruh ile melekleri indirir.",
+   "baglanti": "Nahl suresindeki bu ayet, aynı 'ruh' ve 'emrimizden' ifadelerini kullanarak 42:52'deki vahiy tasvirini destekler."
+  },
+  {
+   "ref": "26:193",
+   "meal": "Onu, Ruhu'l-Emin senin kalbine indirmiştir.",
+   "baglanti": "Şuarâ suresindeki bu ayet, Kur'an'ın 'ruh' olarak kalbe indirilmesi temasını 42:52 ile aynı doğrultuda anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın Peygamber'e vahiy yoluyla verilişi ve onun daha önce kitap-iman bilgisine sahip olmayışıdır. Bu, Peygamberlik tarihine özgü bir bilgidir.",
+  "Buradan çıkarılabilecek genel ders, Kur'an'ın bir 'nur' (aydınlatıcı) olarak sunulmasıdır; kişi karanlıkta veya belirsizlikte hissettiğinde, bu metne yönelmenin bir yol gösterici arayışı olabileceğidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kur'an'ı bir nur olarak hayatına al",
+   "aciklama": "Bugün kısa bir bölüm okuyup, onu bir aydınlatıcı olarak günün bir kararında düşün."
+  },
+  {
+   "baslik": "Bilmediğin bir konuda alçakgönüllü ol",
+   "aciklama": "Bir konuda bilgin yoksa, biliyormuş gibi davranmak yerine bunu kabul et."
+  },
+  {
+   "baslik": "Bir kararsızlıkta doğru yolu ara",
+   "aciklama": "Kararsız kaldığın bir konuda, sadece kendi görüşünle değil, doğru bilgiyi arayarak ilerle."
+  }
+ ],
+ "bugununAdimi": "Bugün kısa bir Kur'an bölümü okuyup, bir kararında ondan yol gösterici bir ilke ara.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=52"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/52"
+  }
+ ]
+}

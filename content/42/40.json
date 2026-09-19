@@ -1,0 +1,152 @@
+{
+ "sure": 42,
+ "ayet": 40,
+ "durum": "taslak",
+ "meal": "Bir kötülüğün cezası, misli kadar bir kötülüktür. Ama kim affeder ve barışı sağlarsa, onun ödülü Allah'a aittir. Şüphesiz O, zalimleri sevmez.",
+ "mealNotu": "'Cezâü' kökü karşılık, ceza anlamındadır; ilk 'seyyie' kötülüğün kendisini, ikincisi ona verilen karşılığı anlatır. 'Asleha' kökü düzeltme, barışı sağlama anlamını taşır.",
+ "kokler": [
+  {
+   "kelime": "وَجَزَٰٓؤُا۟",
+   "okunus": "ve cezâü",
+   "kok": "جزي",
+   "kokAnlam": "karşılık, ceza",
+   "karsilik": "ve cezası"
+  },
+  {
+   "kelime": "سَيِّئَةٌ",
+   "okunus": "seyyietin",
+   "kok": "سوأ",
+   "kokAnlam": "kötülük, çirkinlik",
+   "karsilik": "bir kötülüğün"
+  },
+  {
+   "kelime": "سَيِّئَةٌ",
+   "okunus": "seyyietün",
+   "kok": "سوأ",
+   "kokAnlam": "kötülük, çirkinlik",
+   "karsilik": "bir kötülüktür"
+  },
+  {
+   "kelime": "مِّثْلُهَا",
+   "okunus": "mislühâ",
+   "kok": "مثل",
+   "kokAnlam": "benzeri, eşiti",
+   "karsilik": "onun misli"
+  },
+  {
+   "kelime": "فَمَنْ",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "ama kim"
+  },
+  {
+   "kelime": "عَفَا",
+   "okunus": "afâ",
+   "kok": "عفو",
+   "kokAnlam": "affetme, silme",
+   "karsilik": "affeder"
+  },
+  {
+   "kelime": "وَأَصْلَحَ",
+   "okunus": "ve asleha",
+   "kok": "صلح",
+   "kokAnlam": "düzeltme, iyileştirme, barıştırma",
+   "karsilik": "ve barışı sağlarsa"
+  },
+  {
+   "kelime": "فَأَجْرُهُۥ",
+   "okunus": "feecruhû",
+   "kok": "أجر",
+   "kokAnlam": "ücret, karşılık, ödül",
+   "karsilik": "onun ödülü"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "aittir"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ibadet edilen, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz o",
+   "karsilik": "şüphesiz O"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "يُحِبُّ",
+   "okunus": "yühibbü",
+   "kok": "حبب",
+   "kokAnlam": "sevme, hoşlanma",
+   "karsilik": "sevmez"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمِينَ",
+   "okunus": "ezzâlimîne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, karanlıkta bırakma, zulüm",
+   "karsilik": "zalimleri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayette anlatılan 'hakkını arama' ilkesinin sınırını çizer: karşılık, yapılan kötülüğün misli kadar olmalıdır, daha fazlası değil. Bu, adil bir ölçü koyar; hak arama, sınırsız bir intikama dönüşemez.",
+  "Ayetin devamı, bu hakkın kullanılmasının ötesinde daha üstün bir yolu gösterir: affetmek ve barışı sağlamak. Klasik tefsir bu ayeti, kısası (adil karşılığı) meşru kabul ederken affı daha faziletli bir tercih olarak sunduğu için önemli bir denge ayeti olarak açıklar; affeden kişinin ödülünün doğrudan Allah'a havale edilmesi bu tercihin değerini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "41:34",
+   "meal": "İyilikle kötülük bir olmaz. Sen kötülüğü en güzel şekilde sav; o zaman aranda düşmanlık bulunan kişi sanki sıcak bir dost oluverir.",
+   "baglanti": "Fussilet suresindeki bu ayet, 42:40'taki affetme tercihinin sonucunu, düşmanlığın dostluğa dönüşmesi olarak somutlaştırır."
+  },
+  {
+   "ref": "2:194",
+   "meal": "Kim size saldırırsa, siz de ona misliyle karşılık verin.",
+   "baglanti": "Bakara suresindeki bu ayet, 'misli kadar karşılık' ilkesini aynı ölçüyle teyit eder; 42:40 buna affı ekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, haksızlığa uğrayan birinin karşılık hakkının sınırlı olduğu ve affetmenin daha üstün bir seçenek olduğudur. Bu ilke hem bireysel ilişkilerde hem hukuki bağlamda geçerlidir.",
+  "Günlük hayatta, birinden gördüğün bir kötülüğe aynı ölçüde karşılık verme hakkın olsa da, affetmeyi seçmek hem ilişkiyi onarabilir hem de manevi bir kazanç sağlar. Ayet bunu bir zorunluluk değil, daha değerli bir tercih olarak sunar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugün bir kırgınlığı affetmeyi dene",
+   "aciklama": "Sana yapılan bir haksızlığa karşılık vermek yerine, affedip ilişkiyi onarmayı seç."
+  },
+  {
+   "baslik": "Karşılık verirken ölçüyü aşma",
+   "aciklama": "Bir tepki gösterirken, karşındakine yaptığından fazlasını yapmadığından emin ol."
+  },
+  {
+   "baslik": "Affının karşılığını Allah'tan bekle",
+   "aciklama": "Affettiğin bir kişiden teşekkür beklemeden, bunun manevi karşılığını düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün seni kıran bir kişiyi, karşılık beklemeden affetmeyi dene.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=40"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/40"
+  }
+ ]
+}

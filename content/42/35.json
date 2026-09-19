@@ -1,0 +1,117 @@
+{
+ "sure": 42,
+ "ayet": 35,
+ "durum": "taslak",
+ "meal": "Ayetlerimiz hakkında tartışanlar, kendileri için kaçacak bir yer olmadığını bilsinler.",
+ "mealNotu": "'Yücâdilûne' kökü tartışma, çekişmeyi anlatır. 'Mehîs' kökü kaçış, kurtuluş yeri anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "وَيَعْلَمَ",
+   "okunus": "ve ya'leme",
+   "kok": "علم",
+   "kokAnlam": "bilme, öğrenme",
+   "karsilik": "bilsinler"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler, olanlar",
+   "karsilik": "olanlar"
+  },
+  {
+   "kelime": "يُجَٰدِلُونَ",
+   "okunus": "yücâdilûne",
+   "kok": "جدل",
+   "kokAnlam": "tartışma, çekişme",
+   "karsilik": "tartışırlar"
+  },
+  {
+   "kelime": "فِىٓ",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "ءَايَٰتِنَا",
+   "okunus": "âyâtinâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil, ayet",
+   "karsilik": "ayetlerimiz"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "olmadığını"
+  },
+  {
+   "kelime": "لَهُم",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlar için",
+   "karsilik": "kendileri için"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "مَّحِيصٍ",
+   "okunus": "mehîsın",
+   "kok": "حيص",
+   "kokAnlam": "kaçış, kurtuluş, sığınacak yer",
+   "karsilik": "kaçacak yer"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, doğa ve kudret ayetlerinin (28-34) ardından, bu ayetler karşısında inkarla tartışanlara bir uyarı getirir. 'Yücâdilûne' fiili, delilleri kabul etmek yerine inatla çekişmeyi anlatır.",
+  "Ayetin sonu, bu tartışmacıların kaçacak hiçbir yerlerinin olmadığını bildirir. Klasik tefsir bunu, kıyamet gününde delillerle karşılaşan inkarcıların artık geri dönüşünün veya kaçışının mümkün olmadığı şeklinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "40:35",
+   "meal": "Onlar, kendilerine gelmiş bir delil olmaksızın Allah'ın ayetleri hakkında tartışırlar.",
+   "baglanti": "Mü'min suresindeki bu ayet de aynı kökle (mücadele) Allah'ın ayetleri hakkında tartışmayı konu edinir; 42:35'i tamamlar."
+  },
+  {
+   "ref": "41:40",
+   "meal": "Ayetlerimiz hakkında sapıklık edenler bize gizli kalmaz.",
+   "baglanti": "Fussilet suresindeki bu ayet, 42:35'teki 'kaçacak yer yok' fikrini, hiçbir şeyin Allah'tan gizli kalamayacağı ilkesiyle güçlendirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah'ın ayetlerine karşı inatla tartışıp kabul etmemektir; bu dini bir tartışma bağlamıdır. Ancak buradan genel bir ders çıkarılabilir: gerçeği kabul etmemek için inatla direnmek.",
+  "Günlük hayatta da bazen açık bir gerçeği, sırf kendi görüşünden vazgeçmemek için inatla reddetme eğilimi olabilir. Ayet, bu tür bir inadın sonunda bir kaçış yolu bırakmayacağını hatırlatır; kişiyi erken davranıp gerçeği kabul etmeye teşvik eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir tartışmada inadını bırakmayı dene",
+   "aciklama": "Haklı olduğunu bildiğin ama kabul etmekte zorlandığın bir konuda bugün geri adım at."
+  },
+  {
+   "baslik": "Bir gerçeği ertelemeden kabul et",
+   "aciklama": "Görmezden geldiğin ama farkında olduğun bir gerçeği bugün kendine itiraf et."
+  },
+  {
+   "baslik": "Kaçış olmadığını hatırla",
+   "aciklama": "Bir sorumluluktan kaçmaya çalıştığın bir anda, er ya da geç yüzleşeceğini aklında tut."
+  }
+ ],
+ "bugununAdimi": "Bugün bir tartışmada, haklı olmadığını fark ettiğin an geri adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=35"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/35"
+  }
+ ]
+}

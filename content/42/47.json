@@ -1,0 +1,201 @@
+{
+ "sure": 42,
+ "ayet": 47,
+ "durum": "taslak",
+ "meal": "Allah'tan geri çevrilmesi olmayan bir gün gelmeden önce Rabbinize icabet edin. O gün sizin için ne sığınacak bir yer vardır, ne de bir inkâr [imkânı].",
+ "mealNotu": "'Meradd' geri dönüş/çevrilme kökünden gelir. 'Nekîr' kökü inkâr etme, reddetme anlamındadır; parantez içinde 'imkânı' eklenerek cümle akıcı kılınmıştır.",
+ "kokler": [
+  {
+   "kelime": "ٱسْتَجِيبُوا۟",
+   "okunus": "istecîbû",
+   "kok": "جوب",
+   "kokAnlam": "cevap verme, çağrıya uyma",
+   "karsilik": "icabet edin"
+  },
+  {
+   "kelime": "لِرَبِّكُم",
+   "okunus": "lirabbiküm",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, yetiştiren, Rab",
+   "karsilik": "Rabbinize"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِ",
+   "okunus": "kabli",
+   "kok": "قبل",
+   "kokAnlam": "önce",
+   "karsilik": "önce"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "يَأْتِىَ",
+   "okunus": "ye'tiye",
+   "kok": "أتي",
+   "kokAnlam": "gelme, gelip ulaşma",
+   "karsilik": "gelmeden"
+  },
+  {
+   "kelime": "يَوْمٌ",
+   "okunus": "yevmün",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bir gün"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "olmayan"
+  },
+  {
+   "kelime": "مَرَدَّ",
+   "okunus": "meradde",
+   "kok": "ردد",
+   "kokAnlam": "geri dönüş, geri çevrilme",
+   "karsilik": "geri çevrilmesi"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onun için",
+   "karsilik": "onun için"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ibadet edilen, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "لَكُم",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "مَّلْجَإٍ",
+   "okunus": "melcein",
+   "kok": "لجأ",
+   "kokAnlam": "sığınma, sığınak",
+   "karsilik": "sığınacak yer"
+  },
+  {
+   "kelime": "يَوْمَئِذٍ",
+   "okunus": "yevmeizin",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "ve yoktur"
+  },
+  {
+   "kelime": "لَكُم",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "نَّكِيرٍ",
+   "okunus": "nekîrin",
+   "kok": "نكر",
+   "kokAnlam": "inkâr, reddetme",
+   "karsilik": "inkâr [imkânı]"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerdeki kıyamet günü tasvirinin ardından doğrudan bir çağrıya döner: o gün gelmeden önce Rabbinize icabet edin. 'Meradd' (geri çevrilme) kelimesi, o günün kesinliğini ve durdurulamazlığını vurgular.",
+  "Ayetin sonu, o gün ne bir sığınak ne de yapılanları inkâr etme imkânı olduğunu bildirir. Klasik tefsir bunu, dünyadaki fırsat zamanının sınırlı olduğuna, çağrıya bugünden cevap vermenin önemine dair bir uyarı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "42:38",
+   "meal": "Onlar, Rablerine icabet ederler...",
+   "baglanti": "Aynı surede daha önce mü'minlerin bir özelliği olarak sayılan 'icabet etme', burada herkese yöneltilen doğrudan bir çağrıya dönüşür."
+  },
+  {
+   "ref": "75:14",
+   "meal": "Aslında insan, kendi aleyhine kendi nefsinin şahididir.",
+   "baglanti": "Kıyâme suresindeki bu ayet, 42:47'deki 'inkâr imkânı olmaması' fikrini, kişinin kendi kendine şahit olacağı gerçeğiyle tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyamet günü gelmeden önce Allah'ın çağrısına cevap vermenin aciliyetidir. Bu, ertelenebilecek bir konu olarak sunulmaz.",
+  "Günlük hayatta bu, dini sorumlulukları 'bir gün yaparım' diye ertelemenin riskli olduğunu hatırlatır. Fırsat elde bulunduğu sürece değerlidir; o gün geldiğinde artık ne bir sığınak ne bir mazeret kalır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ertelediğin bir sorumluluğu bugüne al",
+   "aciklama": "'Bir gün yaparım' dediğin bir ibadeti veya görevi bugün başlat."
+  },
+  {
+   "baslik": "Zamanının sınırlı olduğunu hatırla",
+   "aciklama": "Bugün, elindeki vaktin sonsuz olmadığını düşünerek önceliklerini gözden geçir."
+  },
+  {
+   "baslik": "Bir çağrıya bugün cevap ver",
+   "aciklama": "Vicdanının seni bir konuda çağırdığını hissettiğinde, ertelemeden harekete geç."
+  }
+ ],
+ "bugununAdimi": "Ertelediğin bir ibadeti veya görevi bugün, hemen başlatarak yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=47"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/47"
+  }
+ ]
+}

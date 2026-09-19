@@ -1,0 +1,243 @@
+{
+ "sure": 42,
+ "ayet": 48,
+ "durum": "taslak",
+ "meal": "Eğer yüz çevirirlerse [bil ki] seni onların üzerine bir gözetleyici olarak göndermedik. Sana düşen sadece tebliğdir. Biz insana kendimizden bir rahmet tattırdığımızda onunla sevinir; ama elleriyle önceden yaptıkları yüzünden başlarına bir kötülük gelirse, işte o zaman insan çok nankördür.",
+ "mealNotu": "'Hafîz' kökü koruma, gözetme anlamındadır; burada sorumluluk yüklenen bir gözetleyici anlamında kullanılmıştır. 'Kefûr' kökü nankörlüğü, örtüp inkâr etmeyi yoğun biçimde anlatır. Cümle akışı için başa köşeli parantezle [bil ki] eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَعْرَضُوا۟",
+   "okunus": "a'radû",
+   "kok": "عرض",
+   "kokAnlam": "yüz çevirme, sırt dönme",
+   "karsilik": "yüz çevirirlerse"
+  },
+  {
+   "kelime": "فَمَآ",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "göndermedik"
+  },
+  {
+   "kelime": "أَرْسَلْنَٰكَ",
+   "okunus": "erselnâke",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi gönderme",
+   "karsilik": "seni gönderdik"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onların üzerine",
+   "karsilik": "onların üzerine"
+  },
+  {
+   "kelime": "حَفِيظًا",
+   "okunus": "hafîzan",
+   "kok": "حفظ",
+   "kokAnlam": "koruma, gözetme, saklama",
+   "karsilik": "bir gözetleyici olarak"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "عَلَيْكَ",
+   "okunus": "aleyke",
+   "kok": "—",
+   "kokAnlam": "(edat) senin üzerine",
+   "karsilik": "sana düşen"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "sadece"
+  },
+  {
+   "kelime": "ٱلْبَلَٰغُ",
+   "okunus": "elbelâğu",
+   "kok": "بلغ",
+   "kokAnlam": "ulaştırma, tebliğ etme",
+   "karsilik": "tebliğdir"
+  },
+  {
+   "kelime": "وَإِنَّآ",
+   "okunus": "ve innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz biz",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "إِذَآ",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -diğinde",
+   "karsilik": "-diğinde"
+  },
+  {
+   "kelime": "أَذَقْنَا",
+   "okunus": "ezeknâ",
+   "kok": "ذوق",
+   "kokAnlam": "tattırma, tadını verme",
+   "karsilik": "tattırdığımızda"
+  },
+  {
+   "kelime": "ٱلْإِنسَٰنَ",
+   "okunus": "el'insâne",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet kuran",
+   "karsilik": "insana"
+  },
+  {
+   "kelime": "مِنَّا",
+   "okunus": "minnâ",
+   "kok": "—",
+   "kokAnlam": "(edat) bizden",
+   "karsilik": "kendimizden"
+  },
+  {
+   "kelime": "رَحْمَةً",
+   "okunus": "rahmeten",
+   "kok": "رحم",
+   "kokAnlam": "merhamet, esirgeme",
+   "karsilik": "bir rahmet"
+  },
+  {
+   "kelime": "فَرِحَ",
+   "okunus": "feriha",
+   "kok": "فرح",
+   "kokAnlam": "sevinme, ferahlama",
+   "karsilik": "sevinir"
+  },
+  {
+   "kelime": "بِهَا",
+   "okunus": "bihâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "ama eğer"
+  },
+  {
+   "kelime": "تُصِبْهُمْ",
+   "okunus": "tüsıbhüm",
+   "kok": "صوب",
+   "kokAnlam": "isabet etme, gelip dokunma",
+   "karsilik": "başlarına gelirse"
+  },
+  {
+   "kelime": "سَيِّئَةٌۢ",
+   "okunus": "seyyietün",
+   "kok": "سوأ",
+   "kokAnlam": "kötülük, çirkinlik",
+   "karsilik": "bir kötülük"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(edat + ilgi) şu yüzden ki",
+   "karsilik": "yüzünden"
+  },
+  {
+   "kelime": "قَدَّمَتْ",
+   "okunus": "kaddemet",
+   "kok": "قدم",
+   "kokAnlam": "öne sürme, önceden yapma",
+   "karsilik": "önceden yaptıkları"
+  },
+  {
+   "kelime": "أَيْدِيهِمْ",
+   "okunus": "eydîhim",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "elleriyle"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) işte şüphesiz",
+   "karsilik": "işte o zaman şüphesiz"
+  },
+  {
+   "kelime": "ٱلْإِنسَٰنَ",
+   "okunus": "el'insâne",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet kuran",
+   "karsilik": "insan"
+  },
+  {
+   "kelime": "كَفُورٌ",
+   "okunus": "kefûrun",
+   "kok": "كفر",
+   "kokAnlam": "örtme; nankörlük, gerçeği örtme",
+   "karsilik": "çok nankördür"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 47. ayetteki çağrıya rağmen yüz çevirenler olursa, Peygamber'in görevinin sınırını hatırlatır: o bir gözetleyici, zorla inandıracak biri değil, sadece tebliğ edendir. Bu, Peygamber'e bir teselli ve sorumluluk sınırlaması sunar.",
+  "Ayetin ikinci kısmı, insanın genel bir psikolojik eğilimini anlatır: bir nimet geldiğinde sevinir, ama kendi eylemlerinin sonucu olarak bir kötülükle karşılaştığında nankörlüğe kapılır. Klasik tefsir bu ayeti, insanın nimeti kendinden, sıkıntıyı ise dışarıdan bilme eğilimine karşı bir uyarı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "88:21",
+   "meal": "Sen öğüt ver; sen ancak bir öğüt vericisin. Sen onların üzerinde bir zorba değilsin.",
+   "baglanti": "Gâşiye suresindeki bu ayet, 42:48'deki 'sadece tebliğ' ilkesini aynı netlikle tekrarlar."
+  },
+  {
+   "ref": "11:9",
+   "meal": "İnsana katımızdan bir rahmet tattırıp sonra onu ondan çekip alırsak, umutsuz bir nankör olur.",
+   "baglanti": "Hûd suresindeki bu ayet, insanın nimet karşısındaki sevinç-nankörlük döngüsünü 42:48 ile aynı temada anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in görev sınırı ve insanın genel bir davranış kalıbıdır: nimette sevinç, sıkıntıda nankörlük. Bu ikinci kısım, herkesin kendinde gözlemleyebileceği bir eğilimdir.",
+  "Günlük hayatta bu, bir şey iyi gittiğinde bunu kendi başarısına bağlayıp, kötü gittiğinde başkalarını veya şartları suçlama eğilimine işaret eder. Ayet, bu dengesizliği fark edip düzeltmeye davet eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir nimeti kaynağıyla birlikte hatırla",
+   "aciklama": "Bugün sevindiğin bir şeyde, bunun kendi başarından önce bir lütuf olduğunu düşün."
+  },
+  {
+   "baslik": "Bir sıkıntıda kendi payını inkâr etme",
+   "aciklama": "Karşılaştığın bir zorlukta, tamamen dışarıyı suçlamadan önce kendi payını da düşün."
+  },
+  {
+   "baslik": "Sonucu değil görevini önemse",
+   "aciklama": "Bir işte, karşındakinin tepkisinden çok kendi üzerine düşeni doğru yapmaya odaklan."
+  }
+ ],
+ "bugununAdimi": "Bugün sevindiğin bir şeyde, bunun bir lütuf olduğunu fark edip kısa bir şükür cümlesi kur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=48"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/48"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "sure": 42,
+ "ayet": 32,
+ "durum": "taslak",
+ "meal": "Denizde dağlar gibi akıp giden [gemiler] de O'nun ayetlerindendir.",
+ "mealNotu": "'Cevâri' kökü akıp gitmeyi anlatır, ayette açıkça 'gemiler' denmediği için köşeli parantez eklenmiştir; bağlamdan (deniz, dağlar gibi akış) gemi kastedildiği açıktır. 'A'lâm' kökü dağlar/yüksek işaretler anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "وَمِنْ",
+   "okunus": "ve min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-dendir"
+  },
+  {
+   "kelime": "ءَايَٰتِهِ",
+   "okunus": "âyâtihi",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil, ayet",
+   "karsilik": "O'nun ayetlerinden"
+  },
+  {
+   "kelime": "ٱلْجَوَارِ",
+   "okunus": "elcevâri",
+   "kok": "جري",
+   "kokAnlam": "akma, akıp gitme",
+   "karsilik": "akıp gidenler"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ٱلْبَحْرِ",
+   "okunus": "elbahri",
+   "kok": "بحر",
+   "kokAnlam": "deniz",
+   "karsilik": "denizin"
+  },
+  {
+   "kelime": "كَٱلْأَعْلَٰمِ",
+   "okunus": "kel a'lâmi",
+   "kok": "علم",
+   "kokAnlam": "yüksek işaret, dağ",
+   "karsilik": "dağlar gibi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, göklerin, yerin ve canlıların ardından üçüncü bir 'ayet' örneği verir: denizde dağlar gibi yükselerek akıp giden gemiler. 'Cevâri' kelimesi akışkan, sürekli hareket eden bir gidişi anlatır; devasa bir cismin su üzerinde akıp gitmesi, doğa yasalarının Allah'ın koyduğu bir düzen olduğunu gösterir.",
+  "Ayet kısa ve tek başına bir doğa gözlemi sunar; bir sonraki ayette bu manzaranın Allah'ın dilemesine bağlı olduğu açıklanır. Klasik tefsir bu üç ayeti (32-34) bir bütün olarak, denizcilik ve rüzgar üzerinden Allah'ın kudretine dikkat çeken bir dizi olarak okur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "55:24",
+   "meal": "Denizde dağlar gibi yükselen gemiler de O'nundur.",
+   "baglanti": "Rahmân suresindeki bu ayet, 42:32'deki 'dağlar gibi akıp giden' benzetmesini neredeyse aynı ifadeyle tekrarlar."
+  },
+  {
+   "ref": "36:41",
+   "meal": "Onlar için bir ayettir ki, biz onların soyunu dolu gemide taşıdık.",
+   "baglanti": "Yâsîn suresindeki bu ayet de gemiyi Allah'ın kudretine dair bir ayet (işaret) olarak sunar; aynı temayı farklı bir vurguyla destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu denizcilik ve gemilerdir; devasa ağırlıktaki bir yapının su üzerinde durması ve yol alması bir doğa yasasına, dolayısıyla bir düzene işaret eder.",
+  "Buradan çıkarılabilecek ders, günlük hayatta sıradanlaşan şeylere (bir uçağın uçması, bir geminin batmadan seyretmesi gibi) yeniden dikkatle bakabilmektir. Alışkanlık, bu düzenin farkında olmayı köreltmemelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sıradanlaştırdığın bir düzeni yeniden fark et",
+   "aciklama": "Bugün kullandığın bir taşıtın (araba, uçak, gemi) nasıl çalıştığını bir an düşün ve bunun bir düzen olduğunu hatırla."
+  },
+  {
+   "baslik": "Bir haberde doğa olaylarına dikkat et",
+   "aciklama": "Denizle, havayla ilgili bir haber veya görüntü gördüğünde, arkasındaki yasaları bir an düşün."
+  },
+  {
+   "baslik": "Kısa bir şükür anı yaşa",
+   "aciklama": "Bugün güvenle bir yere ulaştığında, bu güvenli yolculuğun farkında olarak kısa bir şükür cümlesi kur."
+  }
+ ],
+ "bugununAdimi": "Bugün bir yolculuğunda güvenle ulaştığın an, bilinçli bir şükür cümlesi kur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=32"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/32"
+  }
+ ]
+}

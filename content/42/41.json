@@ -1,0 +1,117 @@
+{
+ "sure": 42,
+ "ayet": 41,
+ "durum": "taslak",
+ "meal": "Kim kendisine yapılan zulümden sonra hakkını ararsa, işte onlar için [bundan dolayı] bir sorumluluk yoktur.",
+ "mealNotu": "'İntesara' kökü yardım isteyerek karşılık verme, hakkını arama anlamındadır. Cümlenin tam anlamı için köşeli parantezle [bundan dolayı] eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَلَمَنِ",
+   "okunus": "ve lemeni",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "ٱنتَصَرَ",
+   "okunus": "intesara",
+   "kok": "نصر",
+   "kokAnlam": "yardım isteme, karşılık verip hakkını arama",
+   "karsilik": "hakkını ararsa"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonra, arka",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ظُلْمِهِۦ",
+   "okunus": "zulmihî",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, karanlıkta bırakma, zulüm",
+   "karsilik": "kendisine yapılan zulümden"
+  },
+  {
+   "kelime": "فَأُو۟لَٰٓئِكَ",
+   "okunus": "feülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "عَلَيْهِم",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerlerine",
+   "karsilik": "üzerlerine"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "سَبِيلٍ",
+   "okunus": "sebîlin",
+   "kok": "سبل",
+   "kokAnlam": "yol, sorumluluk",
+   "karsilik": "sorumluluk"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 40. ayetteki misli karşılık ilkesini bir adım daha açar: zulme uğrayan kişi, ölçülü şekilde hakkını ararsa, bu ona bir suç veya sorumluluk yüklemez. Bu, mağduru koruyan bir ilkedir.",
+  "Ayet, hemen ardından gelen 42. ayetle birlikte okunmalıdır; orada asıl sorumluluğun kimde olduğu netleşir. Klasik tefsir bu iki ayeti, meşru savunma ile saldırganlık arasındaki çizgiyi belirleyen bir bütün olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:148",
+   "meal": "Allah, zulme uğrayanın dile getirmesi dışında, kötü sözün açıkça söylenmesini sevmez.",
+   "baglanti": "Nisâ suresindeki bu ayet, zulme uğrayana tanınan istisnai bir hakkı 42:41 ile aynı mantıkla gösterir."
+  },
+  {
+   "ref": "42:39",
+   "meal": "Onlar, kendilerine bir haksızlık dokunduğunda birbirlerine yardım ederek hakkını ararlar.",
+   "baglanti": "Aynı surede birkaç ayet önce geçen bu nitelik, 41. ayette hukuki bir güvenceyle desteklenir: hakkını arayanın üzerinde bir sorumluluk yoktur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, zulme uğrayan kişinin hakkını aramasının meşru olduğu, bunun bir suç sayılmayacağıdır. Bu, özellikle hukuki ve toplumsal adalet bağlamında bir ilkedir.",
+  "Günlük hayatta bu, haksızlığa uğradığında sessiz kalmak zorunda olmadığını, hakkını ölçülü biçimde savunabileceğini hatırlatır. Ancak bir sonraki ayetin de gösterdiği gibi, bu hak sınırsız değildir; adaletle sınırlıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Haklı bir itirazını çekinmeden dile getir",
+   "aciklama": "Bugün sana yapılan haksız bir uygulamaya karşı, saygılı ama net bir şekilde itiraz et."
+  },
+  {
+   "baslik": "Hakkını ararken adil kal",
+   "aciklama": "Bir anlaşmazlıkta, sadece kendi hakkını almaya odaklan, fazlasını istemekten kaçın."
+  },
+  {
+   "baslik": "Susmanın çözüm olmadığını hatırla",
+   "aciklama": "İçine attığın bir haksızlığı, uygun bir dille ilgili kişiye ilet."
+  }
+ ],
+ "bugununAdimi": "Bugün içine attığın bir haksızlığı, saygılı bir dille ilgili kişiye ilet.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=41"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/41"
+  }
+ ]
+}

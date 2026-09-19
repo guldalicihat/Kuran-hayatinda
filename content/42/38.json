@@ -1,0 +1,131 @@
+{
+ "sure": 42,
+ "ayet": 38,
+ "durum": "taslak",
+ "meal": "[Onlar], Rablerine icabet ederler, namazı dosdoğru kılarlar, işleri aralarında istişaredir (şûradır) ve kendilerine rızık verdiğimizden infak ederler.",
+ "mealNotu": "'İstecâbû' kökü çağrıya olumlu cevap vermeyi anlatır. 'Şûrâ' kökü danışma, görüş alışverişi anlamındadır ve surenin de adıdır; bu yüzden parantez içinde belirtilmiştir. Özne bağlamdan geldiği için başa [Onlar] eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve kimseler",
+   "karsilik": "ve olanlar"
+  },
+  {
+   "kelime": "ٱسْتَجَابُوا۟",
+   "okunus": "istecâbû",
+   "kok": "جوب",
+   "kokAnlam": "cevap verme, çağrıya uyma",
+   "karsilik": "icabet ederler"
+  },
+  {
+   "kelime": "لِرَبِّهِمْ",
+   "okunus": "lirabbihim",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, yetiştiren, Rab",
+   "karsilik": "Rablerine"
+  },
+  {
+   "kelime": "وَأَقَامُوا۟",
+   "okunus": "ve ekâmû",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, doğrulma, ikame etme",
+   "karsilik": "dosdoğru kılarlar"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "namaz, dua",
+   "karsilik": "namazı"
+  },
+  {
+   "kelime": "وَأَمْرُهُمْ",
+   "okunus": "ve emruhüm",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir",
+   "karsilik": "ve işleri"
+  },
+  {
+   "kelime": "شُورَىٰ",
+   "okunus": "şûrâ",
+   "kok": "شور",
+   "kokAnlam": "danışma, görüş alışverişi",
+   "karsilik": "istişaredir"
+  },
+  {
+   "kelime": "بَيْنَهُمْ",
+   "okunus": "beynehüm",
+   "kok": "بين",
+   "kokAnlam": "ara, aralık",
+   "karsilik": "aralarında"
+  },
+  {
+   "kelime": "وَمِمَّا",
+   "okunus": "ve mimmâ",
+   "kok": "—",
+   "kokAnlam": "(edat + ilgi) -den ki",
+   "karsilik": "ve -den"
+  },
+  {
+   "kelime": "رَزَقْنَٰهُمْ",
+   "okunus": "razeknâhüm",
+   "kok": "رزق",
+   "kokAnlam": "rızık verme, besleme",
+   "karsilik": "kendilerine rızık verdiğimiz"
+  },
+  {
+   "kelime": "يُنفِقُونَ",
+   "okunus": "yünfikûne",
+   "kok": "نفق",
+   "kokAnlam": "harcama, infak etme",
+   "karsilik": "infak ederler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, mü'minlerin niteliklerini sıralamaya devam eder: Rablerinin çağrısına icabet etmek, namazı dosdoğru kılmak, işlerini aralarında istişareyle (şûra) yürütmek ve kendilerine verilen rızıktan infak etmek. 'Şûrâ' kelimesi burada surenin adının da kaynağı olur; toplumsal işlerin tek kişinin kararına değil, ortak akla dayanması gerektiğini vurgular.",
+  "Klasik tefsir bu ayeti, hem bireysel ibadeti (namaz) hem toplumsal erdemi (istişare, infak) bir arada zikrettiği için önemli bir ayet olarak açıklar. İstişare, sadece yöneticiler için değil, ailede ve topluluk içindeki ortak kararlar için de bir ilke olarak okunur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:159",
+   "meal": "Onlarla iş konusunda istişare et; karar verdiğinde de Allah'a tevekkül et.",
+   "baglanti": "Âl-i İmrân suresindeki bu ayet, Peygamber'e doğrudan istişare emri verir; 42:38'deki genel ilkeyi Peygamber'in uygulaması üzerinden somutlaştırır."
+  },
+  {
+   "ref": "2:3",
+   "meal": "Onlar gaybe inanırlar, namazı dosdoğru kılarlar ve kendilerine verdiğimiz rızıktan infak ederler.",
+   "baglanti": "Bakara suresinin açılışındaki bu ayet, 'namaz - rızıktan infak' ikilisini 42:38 ile aynı ifadelerle tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, mü'min bir topluluğun nasıl işlediğidir: Allah'a bağlılık (namaz), ortak kararlarda danışma (şûra) ve paylaşma (infak). Bu üçü birlikte bir denge oluşturur.",
+  "Günlük hayatta bu ilke, aile içinde, iş yerinde veya bir topluluk içinde kararları tek başına dayatmak yerine danışarak almaya davet eder. İstişare, hem daha isabetli kararlar hem de birlikte hareket etme duygusu getirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir kararı bugün danışarak al",
+   "aciklama": "Tek başına vereceğin bir kararı, ailenden veya çalıştığın kişiden bir görüş alarak ver."
+  },
+  {
+   "baslik": "Namazına özen göster",
+   "aciklama": "Bugünkü namazlarından birini vaktinde ve dikkatle kıl."
+  },
+  {
+   "baslik": "Küçük bir infakta bulun",
+   "aciklama": "Elindeki imkanın bir kısmını, ihtiyacı olan birine bugün ayır."
+  }
+ ],
+ "bugununAdimi": "Bugün vereceğin bir kararda, en az bir kişiye danışıp fikrini al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=38"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/38"
+  }
+ ]
+}

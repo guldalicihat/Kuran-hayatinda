@@ -1,0 +1,159 @@
+{
+ "sure": 42,
+ "ayet": 33,
+ "durum": "taslak",
+ "meal": "Dilerse rüzgarı durdurur da [gemiler] denizin yüzeyinde durgun kalır. Şüphesiz bunda, çok sabreden çok şükreden herkes için elbette ayetler vardır.",
+ "mealNotu": "'Yüskini' kökü durdurma, sakinleştirme anlamındadır; özne olan gemiler ayette açık söylenmediği için köşeli parantez eklenmiştir. 'Ravâkid' kökü durgunluğu, hareketsizliği anlatır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يَشَأْ",
+   "okunus": "yeşe'",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "يُسْكِنِ",
+   "okunus": "yüskini",
+   "kok": "سكن",
+   "kokAnlam": "durma, sakinleşme",
+   "karsilik": "durdurur"
+  },
+  {
+   "kelime": "ٱلرِّيحَ",
+   "okunus": "errîha",
+   "kok": "روح",
+   "kokAnlam": "rüzgar, hareket eden hava",
+   "karsilik": "rüzgarı"
+  },
+  {
+   "kelime": "فَيَظْلَلْنَ",
+   "okunus": "feyazlelne",
+   "kok": "ظلل",
+   "kokAnlam": "devam etme, bir halde kalma",
+   "karsilik": "kalırlar"
+  },
+  {
+   "kelime": "رَوَاكِدَ",
+   "okunus": "ravâkide",
+   "kok": "ركد",
+   "kokAnlam": "durgunluk, hareketsizlik",
+   "karsilik": "durgun"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "ظَهْرِهِۦٓ",
+   "okunus": "zahrihî",
+   "kok": "ظهر",
+   "kokAnlam": "sırt, üst yüzey",
+   "karsilik": "onun yüzeyinde"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunda",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "لَءَايَٰتٍ",
+   "okunus": "leâyâtin",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil, ayet",
+   "karsilik": "elbette ayetler vardır"
+  },
+  {
+   "kelime": "لِّكُلِّ",
+   "okunus": "likülli",
+   "kok": "كلل",
+   "kokAnlam": "bütünlük, her biri",
+   "karsilik": "herkes için"
+  },
+  {
+   "kelime": "صَبَّارٍ",
+   "okunus": "sabbârin",
+   "kok": "صبر",
+   "kokAnlam": "sabretme, dayanma",
+   "karsilik": "çok sabreden"
+  },
+  {
+   "kelime": "شَكُورٍ",
+   "okunus": "şekûrin",
+   "kok": "شكر",
+   "kokAnlam": "şükretme, teşekkür",
+   "karsilik": "çok şükreden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki gemi manzarasının Allah'ın dilemesine bağlı olduğunu gösterir: rüzgar dilerse durur, gemiler de denizin yüzeyinde hareketsiz kalır. Bu, insanın teknolojisinin ve gücünün, doğa şartlarına bağlı ve sınırlı olduğunu hatırlatır.",
+  "Ayetin sonu, bu tür gözlemlerin herkese değil, 'çok sabreden çok şükreden' kişilere ayet (ibret) olduğunu söyler. Klasik tefsir, sabrı zorlukta dayanma, şükrü nimette Allah'ı anma olarak açıklar; ikisinin bir arada zikredilmesi, hem darlıkta hem bollukta Allah'ı hatırlayan dengeli bir kul tipine işaret eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "31:31",
+   "meal": "Görmedin mi, gemiler Allah'ın nimetiyle denizde akıp gider... Bunda çok sabreden çok şükreden herkes için ayetler vardır.",
+   "baglanti": "Lokmân suresindeki bu ayet, 42:33 ile hem konu hem de 'sabbârin şekûr' ifadesiyle neredeyse birebir örtüşür."
+  },
+  {
+   "ref": "30:46",
+   "meal": "Rüzgarları müjdeciler olarak göndermesi de O'nun ayetlerindendir... gemiler emriyle yüzsün diye.",
+   "baglanti": "Rûm suresindeki bu ayet, rüzgarın gemilerin hareketindeki rolünü, 42:33'ün rüzgarı durdurma temasıyla birlikte tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu deniz ve rüzgardır; insanın en güçlü aracı bile doğal şartlar elverişli olmadığında ilerleyemez. Bu, denizcilik gibi özel bir alanı anlatsa da, genel bir bağımlılık ilkesine işaret eder.",
+  "Buradan çıkarılabilecek ders, işlerin ilerlemesinin sadece kişinin çabasına değil, elinde olmayan şartlara da bağlı olduğunu kabul etmektir. Bu kabul, hem darlıkta sabretmeyi hem de işler yolunda gittiğinde şükretmeyi kolaylaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Elinde olmayan bir gecikmeye sabırla yaklaş",
+   "aciklama": "Bugün seni bekleten bir durum olursa, sinirlenmeden önce bunun elinde olmadığını hatırla."
+  },
+  {
+   "baslik": "İşlerin yolunda gittiği bir anı fark edip şükret",
+   "aciklama": "Bugün bir işin kolayca ilerlediği anda, bunun bir nimet olduğunu düşünüp kısaca şükret."
+  },
+  {
+   "baslik": "Sabır ve şükrü aynı günde birlikte dene",
+   "aciklama": "Hem zorlandığın hem kolaylık gördüğün bir anı bugün not et; ikisine de aynı bilinçle yaklaş."
+  }
+ ],
+ "bugununAdimi": "Bugün seni bekleten bir durumda, sinirlenmeden önce üç nefes alıp sabret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=33"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/33"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "sure": 42,
+ "ayet": 34,
+ "durum": "taslak",
+ "meal": "Yahut kazandıkları [günahlar] yüzünden onları batırır; O, çoğunu da affeder.",
+ "mealNotu": "'Yûbikhünne' kökü helak etme, batırma anlamındadır. 'Kesebû' kazanma kökünden gelir; ayette 'ne kazandıkları' açık söylenmediği için köşeli parantezle bağlam belirtilmiştir.",
+ "kokler": [
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yahut",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "يُوبِقْهُنَّ",
+   "okunus": "yûbikhünne",
+   "kok": "وبق",
+   "kokAnlam": "helak olma, batma",
+   "karsilik": "onları batırır"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(edat + ilgi) şu yüzden ki",
+   "karsilik": "yüzünden"
+  },
+  {
+   "kelime": "كَسَبُوا۟",
+   "okunus": "kesebû",
+   "kok": "كسب",
+   "kokAnlam": "kazanma, elde etme",
+   "karsilik": "kazandıkları"
+  },
+  {
+   "kelime": "وَيَعْفُ",
+   "okunus": "ve ya'fü",
+   "kok": "عفو",
+   "kokAnlam": "affetme, silme",
+   "karsilik": "affeder"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "كَثِيرٍ",
+   "okunus": "kesîrin",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "çoğunu"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki iki ayette anlatılan gemi manzarasının olumsuz olasılığını da gösterir: Allah dilerse, insanların kazandıkları (günahları) yüzünden gemileri batırabilir de. Bu, denizdeki güvenliğin insanın hakkı değil, bir lütuf olduğunu hatırlatır.",
+  "Ayetin sonu yine affı vurgular: kazanılanların çoğu affedilir. Bu ifade, 30. ayetteki 'başınıza gelen musibet ellerinizin kazandığı yüzündendir, çoğunu da affeder' ilkesini denizcilik bağlamında tekrarlar; klasik tefsir bunu, Allah'ın hem adil hem de bağışlayıcı olduğunu gösteren bir denge olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "30:41",
+   "meal": "İnsanların elleriyle kazandıkları yüzünden karada ve denizde bozulma ortaya çıktı.",
+   "baglanti": "Rûm suresindeki bu ayet, insan eylemlerinin deniz de dahil doğal dengeyi etkilediği fikrini 42:34 ile birlikte destekler."
+  },
+  {
+   "ref": "42:30",
+   "meal": "Başınıza gelen her musibet, ellerinizin kazandığı şeyler yüzündendir; O, çoğunu da affeder.",
+   "baglanti": "Aynı surede birkaç ayet önce geçen bu ilke, burada denizcilik örneğiyle somutlaştırılır; her iki ayet de affın genişliğiyle biter."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu deniz yolculuğundaki risktir; bir felaketin bazen insan kaynaklı ihmal veya hatalarla bağlantılı olabileceğini, ama Allah'ın affının bunun çok üstünde olduğunu anlatır.",
+  "Buradan çıkarılabilecek ders, güvenliği hafife almamak ve sorumluluk almaktır; ama bir aksilik yaşandığında da kendini veya başkasını acımasızca suçlamak yerine affı hatırlamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir sorumluluğu ihmal etmeden yerine getir",
+   "aciklama": "Bugün güvenliğinle ilgili küçük bir tedbiri (örneğin bir kontrolü) ertelemeden yap."
+  },
+  {
+   "baslik": "Bir hata sonrası kendini affet",
+   "aciklama": "Geçmişte yaptığın bir hatayı sürekli kendine hatırlatmak yerine, ders çıkarıp bırak."
+  },
+  {
+   "baslik": "Başına gelmeyen bir kötülük için şükret",
+   "aciklama": "Bugün yaşamadığın bir tehlikeyi düşün ve bunun bir lütuf olduğunu bil."
+  }
+ ],
+ "bugununAdimi": "Bugün ihmal ettiğin küçük bir güvenlik tedbirini gözden geçirip düzelt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=34"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/34"
+  }
+ ]
+}

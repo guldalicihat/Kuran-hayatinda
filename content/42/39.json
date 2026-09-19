@@ -1,0 +1,96 @@
+{
+ "sure": 42,
+ "ayet": 39,
+ "durum": "taslak",
+ "meal": "[Onlar], kendilerine bir haksızlık dokunduğunda birbirlerine yardım ederek hakkını ararlar.",
+ "mealNotu": "'Bağy' kökü haddi aşma, haksızlık, saldırganlık anlamındadır. 'Yentesırûne' kökü yardım isteyip karşılık verme, hakkını arama anlamını taşır; bu yüzden 'birbirlerine yardım ederek' eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve kimseler",
+   "karsilik": "ve olanlar"
+  },
+  {
+   "kelime": "إِذَآ",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -diğinde",
+   "karsilik": "-diğinde"
+  },
+  {
+   "kelime": "أَصَابَهُمُ",
+   "okunus": "esâbehümü",
+   "kok": "صوب",
+   "kokAnlam": "isabet etme, gelip dokunma",
+   "karsilik": "kendilerine dokunduğunda"
+  },
+  {
+   "kelime": "ٱلْبَغْىُ",
+   "okunus": "elbağyü",
+   "kok": "بغي",
+   "kokAnlam": "haddi aşma, haksızlık, saldırganlık",
+   "karsilik": "bir haksızlık"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "يَنتَصِرُونَ",
+   "okunus": "yentesırûne",
+   "kok": "نصر",
+   "kokAnlam": "yardım isteme, karşılık verip hakkını arama",
+   "karsilik": "hakkını ararlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, mü'min tasvirinin devamında, haksızlığa uğrandığında tepkisiz kalmayı değil, dayanışma içinde hakkını aramayı sayar. 'Yentesırûne' fiili, tek başına intikam almayı değil, birbirine destek olarak haksızlığa karşı durmayı anlatır.",
+  "Bu özellik, bundan sonraki ayetlerde (40-42) haksız yere zulmetmekle hak arama arasındaki sınırı çizen açıklamalarla dengelenir. Klasik tefsir bu ayeti, mü'minlerin zulme boyun eğmeyen ama sınırı da aşmayan bir duruşa sahip olması gerektiği şeklinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:227",
+   "meal": "İman edip salih ameller işleyenler, Allah'ı çok ananlar ve zulme uğradıktan sonra hakkını arayanlar müstesna.",
+   "baglanti": "Şuarâ suresindeki bu ayet, 'zulme uğradıktan sonra hakkını arama' ifadesini neredeyse aynı kalıpla tekrarlayarak 42:39'u destekler."
+  },
+  {
+   "ref": "16:126",
+   "meal": "Eğer ceza verecekseniz, size yapılanın misliyle ceza verin; sabrederseniz elbette bu sabredenler için daha hayırlıdır.",
+   "baglanti": "Nahl suresindeki bu ayet, hakkını arama ile ölçüyü aşmama dengesini 42:39'un devamındaki ayetlerle birlikte hatırlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, haksızlığa uğrayan bir topluluğun tepkisiz kalmak yerine birlikte hareket ederek hakkını arayabileceğidir. Bu, bireysel intikam değil, dayanışma ve meşru savunmaya işaret eder.",
+  "Günlük hayatta bu ilke, haksızlık karşısında sessiz kalmanın erdem olmadığını, ama tepkinin de ölçülü ve dayanışma içinde olması gerektiğini hatırlatır. Yalnız kalmak yerine destek aramak, hem adaleti sağlamak hem de öfkeyle hareket etmemek için önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir haksızlık karşısında sessiz kalma",
+   "aciklama": "Bugün tanık olduğun küçük bir haksızlıkta, uygun bir dille itiraz et veya destek ol."
+  },
+  {
+   "baslik": "Yalnız değil birlikte hareket et",
+   "aciklama": "Bir sorunun çözümünde tek başına öfkeyle davranmak yerine, güvendiğin birinden destek iste."
+  },
+  {
+   "baslik": "Ölçüyü aşmadan hakkını ara",
+   "aciklama": "Haklı olduğun bir konuda tepkini, karşındakine zulmetmeden ver."
+  }
+ ],
+ "bugununAdimi": "Bugün tanık olduğun küçük bir haksızlıkta sessiz kalmayıp uygun bir dille tepki göster.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=39"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/39"
+  }
+ ]
+}
