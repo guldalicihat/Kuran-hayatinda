@@ -1,8 +1,6 @@
-import { useRef } from 'react'
 import Header from '../components/Header'
 import Segmented from '../components/Segmented'
 import { ARABIC_FONTS, LATIN_FONTS, useSettings, type Layer } from '../lib/settings'
-import { exportAll, importAll } from '../lib/store'
 
 const LAYER_AD: Record<Layer, string> = { okunus: 'Okunuş', meal: 'Meal', ar: 'Arapça' }
 
@@ -17,14 +15,9 @@ function Toggle({ on, onChange }: { on: boolean; onChange: (v: boolean) => void 
 
 export default function SettingsPage() {
   const { s, set } = useSettings()
-  const file = useRef<HTMLInputElement>(null)
   const move = (l: Layer, dir: -1 | 1) => {
     const i = s.layers.indexOf(l); const j = i + dir; if (j < 0 || j >= s.layers.length) return
     const arr = [...s.layers]; [arr[i], arr[j]] = [arr[j], arr[i]]; set({ layers: arr })
-  }
-  const download = () => {
-    const blob = new Blob([exportAll()], { type: 'application/json' }); const a = document.createElement('a')
-    a.href = URL.createObjectURL(blob); a.download = 'kuran-hayatinda-yedek.json'; a.click()
   }
   return (
     <div className="safe-bottom">
@@ -67,14 +60,6 @@ export default function SettingsPage() {
             </li>
           ))}
         </ul>
-      </Row>
-      <Row>
-        <p className="mb-2">Yedekleme (favoriler, ayarlar)</p>
-        <div className="flex gap-2">
-          <button onClick={download} className="px-4 py-2 rounded-xl bg-accent text-white tap">Dışa aktar</button>
-          <button onClick={() => file.current?.click()} className="px-4 py-2 rounded-xl border hairline tap">İçe aktar</button>
-          <input ref={file} type="file" accept="application/json" className="hidden" onChange={async e => { const f = e.target.files?.[0]; if (f) { try { importAll(await f.text()); alert('Yedek yüklendi.') } catch { alert('Dosya okunamadı.') } } }} />
-        </div>
       </Row>
       <Row>
         <p className="font-medium mb-1">Hakkında</p>

@@ -36,12 +36,3 @@ export function useLastRead() {
   const mark = (s: number, a: number) => setLast({ s, a, t: Date.now() })
   return { last, mark }
 }
-export function exportAll(): string {
-  return JSON.stringify({ favorites: read('kh:favorites', []), settings: read('kh:settings', {}), last: read('kh:last', null) }, null, 2)
-}
-export function importAll(json: string) {
-  const d = JSON.parse(json)
-  if (d.favorites) write('kh:favorites', d.favorites)
-  if (d.settings) write('kh:settings', d.settings)
-  if (d.last) write('kh:last', d.last)
-}
