@@ -1,0 +1,131 @@
+{
+ "sure": 34,
+ "ayet": 26,
+ "durum": "taslak",
+ "meal": "De ki: 'Rabbimiz aramızı bir araya getirecek, sonra aramızda hak ile hükmedecektir. O, mutlak hâkimdir, hakkıyla bilendir.'",
+ "mealNotu": "'Fettâh' ismi (فتح) hem 'açan' hem 'hükmeden, karar veren' anlamına gelir; burada hüküm bağlamı olduğu için 'mutlak hâkim' karşılığı tercih edilmiştir.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "يَجْمَعُ",
+   "okunus": "yecmeu",
+   "kok": "جمع",
+   "kokAnlam": "toplama, bir araya getirme",
+   "karsilik": "bir araya getirecek"
+  },
+  {
+   "kelime": "بَيْنَنَا",
+   "okunus": "beynenâ",
+   "kok": "بين",
+   "kokAnlam": "arasında",
+   "karsilik": "aramızı"
+  },
+  {
+   "kelime": "رَبُّنَا",
+   "okunus": "rabbünâ",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, sahip",
+   "karsilik": "Rabbimiz"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "bağlaç",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "يَفْتَحُ",
+   "okunus": "yeftehu",
+   "kok": "فتح",
+   "kokAnlam": "açma, hükmetme",
+   "karsilik": "hükmedecek"
+  },
+  {
+   "kelime": "بَيْنَنَا",
+   "okunus": "beynenâ",
+   "kok": "بين",
+   "kokAnlam": "arasında",
+   "karsilik": "aramızda"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçek",
+   "karsilik": "hak ile"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "ve O",
+   "karsilik": "ve O"
+  },
+  {
+   "kelime": "ٱلْفَتَّاحُ",
+   "okunus": "elfettâhu",
+   "kok": "فتح",
+   "kokAnlam": "açma, hükmetme",
+   "karsilik": "mutlak hâkim"
+  },
+  {
+   "kelime": "ٱلْعَلِيمُ",
+   "okunus": "el'alîmü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "hakkıyla bilendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet her kişinin kendi amelinden sorulacağını bildirmişti; bu ayet bunun ne zaman ve nasıl olacağını açıklar: taraflar bir araya getirilecek, sonra aralarında hak ile hükmedilecektir.",
+  "Ayet, bu hükmün Allah'ın hem mutlak hâkim hem hakkıyla bilen sıfatlarıyla verileceğini belirterek, tartışmanın nihai çözümünün insanlar arası çekişmeyle değil, bilgiye dayalı adil bir hükümle olacağını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "22:69",
+   "meal": "Allah, kıyamet günü, aranızda ihtilaf ettiğiniz şeyler hakkında hükmedecektir.",
+   "baglanti": "Aynı tema; anlaşmazlıkların nihai çözümünün kıyamette Allah'ın hükmüyle olacağı burada da geçer."
+  },
+  {
+   "ref": "42:10",
+   "meal": "Anlaşmazlığa düştüğünüz herhangi bir şeyde hüküm Allah'a aittir.",
+   "baglanti": "Hükmün Allah'a ait olduğu ilkesi burada da aynı şekilde tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, inanç anlaşmazlıklarının nihai çözümünün Allah'ın hükmüne bırakılmasıdır.",
+  "Günlük hayata taşınabilecek ders, her anlaşmazlığı hemen kendi gücünle çözmek zorunda olmadığını, bazı meselelerin adil hükmünü zamana ve nihayetinde Allah'a bırakabileceğini hatırlamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Çözemediğin bir anlaşmazlığı bırak",
+   "aciklama": "Bugün üstesinden gelemediğin bir tartışmayı zorlamak yerine sabırla bekletmeyi dene."
+  },
+  {
+   "baslik": "Adil olmaya çalış",
+   "aciklama": "Bir konuda taraf tutarken, önce doğruyu düşün."
+  },
+  {
+   "baslik": "Nihai hesabı hatırla",
+   "aciklama": "Bugün haksızlığa uğradığını düşündüğün bir anda, hakkın er ya da geç ortaya çıkacağını hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün bir anlaşmazlıkta, hemen kendi hükmünü dayatmak yerine sabırla bekle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=26"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/34/26"
+  }
+ ]
+}

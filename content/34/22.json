@@ -1,0 +1,236 @@
+{
+ "sure": 34,
+ "ayet": 22,
+ "durum": "taslak",
+ "meal": "De ki: 'Allah'tan başka [ilah] iddia ettiklerinizi çağırın; onlar göklerde de yerde de zerre ağırlığınca bir şeye malik değildirler. Onların ikisinde de bir ortaklığı yoktur ve O'nun onlardan hiçbir yardımcısı yoktur.'",
+ "mealNotu": "'Min dûnillâh' kalıbı 'Allah'tan başka' anlamındadır; 'zeamtüm' (زعم) iddia etme, kesin bilgiye dayanmadan öne sürme kökündendir.",
+ "kokler": [
+  {
+   "kelime": "قُلِ",
+   "okunus": "kuli",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "ٱدْعُوا۟",
+   "okunus": "id'û",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, dua etme",
+   "karsilik": "çağırın"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "o kimseleri"
+  },
+  {
+   "kelime": "زَعَمْتُم",
+   "okunus": "zeamtüm",
+   "kok": "زعم",
+   "kokAnlam": "iddia etme, öne sürme",
+   "karsilik": "ileri sürdüğünüz"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِ",
+   "okunus": "dûni",
+   "kok": "دون",
+   "kokAnlam": "aşağısı, başkası",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değiller"
+  },
+  {
+   "kelime": "يَمْلِكُونَ",
+   "okunus": "yemlikûne",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, güç yetirme",
+   "karsilik": "malik"
+  },
+  {
+   "kelime": "مِثْقَالَ",
+   "okunus": "miskâle",
+   "kok": "ثقل",
+   "kokAnlam": "ağırlık",
+   "karsilik": "ağırlığınca"
+  },
+  {
+   "kelime": "ذَرَّةٍ",
+   "okunus": "zerratin",
+   "kok": "ذرر",
+   "kokAnlam": "zerre, toz tanesi",
+   "karsilik": "bir zerre"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "göklerde"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "ve olumsuzluk",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yerde"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "ve olumsuzluk",
+   "karsilik": "ve yoktur"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "onlara ait olma",
+   "karsilik": "onların"
+  },
+  {
+   "kelime": "فِيهِمَا",
+   "okunus": "fîhimâ",
+   "kok": "—",
+   "kokAnlam": "ikisinde",
+   "karsilik": "ikisinde de"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "شِرْكٍ",
+   "okunus": "şirkin",
+   "kok": "شرك",
+   "kokAnlam": "ortaklık",
+   "karsilik": "ortaklığı"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "ve olumsuzluk",
+   "karsilik": "ve yoktur"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "ona ait olma",
+   "karsilik": "O'nun"
+  },
+  {
+   "kelime": "مِنْهُم",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "ظَهِيرٍ",
+   "okunus": "zahîrin",
+   "kok": "ظهر",
+   "kokAnlam": "yardımcı, destekçi",
+   "karsilik": "yardımcısı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayet İblis'in insan üzerindeki sınırlı etkisini anlatmıştı; bu ayet konuyu müşriklerin taptığı varlıklara getirir. Onlardan bir çağrı yapılmasını ister, ardından onların hiçbir güce sahip olmadığını üç aşamada anlatır: göklerde-yerde zerre kadar mülkiyetleri, Allah'la ortaklıkları, Allah'a yardımcı olma güçleri yoktur.",
+  "Bu ayet, önceki ayetlerde geçen 'zerre ağırlığınca' ifadesini (3. ayet) tekrar kullanarak, hem Allah'ın bilgisinin hem de O'ndan başka hiçbir varlığın gücünün bu kadar küçük bir ölçüde bile kapsanamayacağını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "35:40",
+   "meal": "De ki: 'Allah'ı bırakıp taptıklarınızı gördünüz mü? Bana gösterin, yerden ne yarattılar? Yoksa onların göklerde bir ortaklığı mı var?'",
+   "baglanti": "Müşriklerin taptıklarının hiçbir yaratma ya da ortaklık gücüne sahip olmadığı teması aynı üslupla burada da işlenir."
+  },
+  {
+   "ref": "25:3",
+   "meal": "O'ndan başka, hiçbir şey yaratamayan, kendileri yaratılmış olan, kendilerine bile fayda-zarar sağlayamayan ilahlar edindiler.",
+   "baglanti": "Sahte ilahların hiçbir güce sahip olmadığı teması, burada daha ayrıntılı biçimde anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, müşriklerin Allah'tan başka taptıklarının gerçekte hiçbir güce sahip olmadığının vurgulanmasıdır.",
+  "Günlük hayata taşınabilecek ders, güvenip bel bağladığın şeylerin gerçek gücünün ne olduğunu sorgulamaktır; bir kişiye, bir mevkiye ya da bir eşyaya gücü yokmuşçasına aşırı güvenmek yanıltıcı olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Güvendiğin şeyi sorgula",
+   "aciklama": "Bugün çok güvendiğin bir imkânın (para, makam, kişi) gerçek sınırlarını düşün."
+  },
+  {
+   "baslik": "Asıl güce yönel",
+   "aciklama": "Bir ihtiyacın için bugün önce dua etmeyi dene."
+  },
+  {
+   "baslik": "Abartılı beklentiden kaçın",
+   "aciklama": "Bir kişiden ya da şeyden, veremeyeceği bir şeyi beklemekten vazgeç."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ihtiyacın olduğunda, önce Allah'a yönel, sonra sebeplere sarıl.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=22"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/34/22"
+  }
+ ]
+}

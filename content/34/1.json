@@ -1,0 +1,173 @@
+{
+ "sure": 34,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Hamd, göklerde ne varsa yerde ne varsa kendisine ait olan Allah'a mahsustur. Ahirette de hamd O'nundur. O, hüküm ve hikmet sahibidir, her şeyden haberdardır.",
+ "mealNotu": "'Hamd' kökü övgü ve şükranı birlikte anlatır; 'hakîm' hüküm/hikmet, 'habîr' ise haberdar olma köklerinden gelir, bu yüzden ikisi ayrı ayrı karşılanmıştır.",
+ "kokler": [
+  {
+   "kelime": "ٱلْحَمْدُ",
+   "okunus": "elhamdü",
+   "kok": "حمد",
+   "kokAnlam": "övgü, şükranla övme",
+   "karsilik": "hamd"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri",
+   "karsilik": "ki O"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "zamir + edat, ona ait olma",
+   "karsilik": "O'nundur"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, şey",
+   "karsilik": "ne varsa"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "göklerde"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "ve ne varsa",
+   "karsilik": "ve ne varsa"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yerde"
+  },
+  {
+   "kelime": "وَلَهُ",
+   "okunus": "ve lehü",
+   "kok": "—",
+   "kokAnlam": "ve ona ait olma",
+   "karsilik": "ve O'nundur"
+  },
+  {
+   "kelime": "ٱلْحَمْدُ",
+   "okunus": "elhamdü",
+   "kok": "حمد",
+   "kokAnlam": "övgü, şükranla övme",
+   "karsilik": "hamd"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْءَاخِرَةِ",
+   "okunus": "el'âhırati",
+   "kok": "أخر",
+   "kokAnlam": "sonraya kalma, son",
+   "karsilik": "ahirette"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "ve O",
+   "karsilik": "ve O"
+  },
+  {
+   "kelime": "ٱلْحَكِيمُ",
+   "okunus": "elhakîmü",
+   "kok": "حكم",
+   "kokAnlam": "hüküm, hikmet",
+   "karsilik": "hüküm ve hikmet sahibidir"
+  },
+  {
+   "kelime": "ٱلْخَبِيرُ",
+   "okunus": "elhabîru",
+   "kok": "خبر",
+   "kokAnlam": "haberdar olma, bilme",
+   "karsilik": "her şeyden haberdardır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure hamd ile açılır; göklerde ve yerde ne varsa hepsinin Allah'a ait olduğunu bildirir. 'Lehû mâ fis-semâvâti ve mâ fil-ard' ifadesi doğrudan bir mülkiyet vurgusudur; ardından bu mülkiyetin sadece dünyada değil ahirette de geçerli olduğu, 'lehül hamdü fil âhırati' ile eklenir.",
+  "Ayet, hakîm ve habîr isimleriyle biter. Böylece göklerin ve yerin sahibi olmak, keyfi bir güç değil, hikmete ve tam bilgiye dayalı bir hâkimiyet olarak sunulur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "42:4",
+   "meal": "Göklerde ne varsa, yerde ne varsa O'nundur. O yücedir, büyüktür.",
+   "baglanti": "Aynı 'göklerde ve yerdekiler O'nundur' ifadesi burada da geçer; mülkiyet vurgusu aynı kalıpla tekrarlanır."
+  },
+  {
+   "ref": "57:1",
+   "meal": "Göklerde ve yerde olan her şey Allah'ı tesbih eder; O, mutlak güç sahibidir, hüküm ve hikmet sahibidir.",
+   "baglanti": "Hem 'hakîm' ismi hem göktekilerin-yerdekilerin O'na ait olması teması, bu ayetle ortaktır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet doğrudan Allah'a hamdi ve göklerdeki-yerdeki her şeyin mülkiyetinin O'na ait olduğunu bildirir; bir emir ya da yasak içermez, bir övgü ve bildirimdir.",
+  "Günlük hayata taşınabilecek ders, sahip olduğun şeylerin gerçek sahibinin kim olduğunu hatırlamaktır. Bir şeyi elde ettiğinde ya da kaybettiğinde, bunun aslında geçici bir emanet olduğunu bilmek, sevinci de üzüntüyü de dengeler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sahip olduğunu düşündüğün bir şeyi gözden geçir",
+   "aciklama": "Elindeki bir şeye bak ve bunun geçici bir emanet olduğunu hatırla."
+  },
+  {
+   "baslik": "Güne hamd ile başla",
+   "aciklama": "Sabah kısaca 'elhamdülillah' de ve sebebini bir cümleyle kendine söyle."
+  },
+  {
+   "baslik": "Bir kararını hikmetle tart",
+   "aciklama": "Bugün vereceğin bir kararda sadece isteğini değil sonucunu da düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün sahip olduğun bir şeyi elinden çıksa ne hissedeceğini düşün ve gerçek sahibinin Allah olduğunu hatırla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/34/1"
+  }
+ ]
+}

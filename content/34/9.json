@@ -1,0 +1,257 @@
+{
+ "sure": 34,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Onlar önlerinde ve arkalarında bulunan gökyüzüne ve yeryüzüne bakmazlar mı? Dilesek onları yere batırır ya da üzerlerine gökten parçalar düşürürüz. Şüphesiz bunda, [Allah'a] yönelen her kul için kesin bir işaret vardır.",
+ "mealNotu": "'Münîb' kelimesi (نوب) tekrar tekrar dönme, yönelme kökünden gelir; burada 'Allah'a yönelen' anlamı köşeli parantezle netleştirilmiştir çünkü kelimenin kendisinde 'Allah'a' ibaresi yoktur.",
+ "kokler": [
+  {
+   "kelime": "أَفَلَمْ",
+   "okunus": "efelem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk soru",
+   "karsilik": "bakmazlar mı"
+  },
+  {
+   "kelime": "يَرَوْا۟",
+   "okunus": "yerav",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görmezler mi"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "-e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, ne",
+   "karsilik": "ne (var)"
+  },
+  {
+   "kelime": "بَيْنَ",
+   "okunus": "beyne",
+   "kok": "بين",
+   "kokAnlam": "arasında",
+   "karsilik": "önlerinde"
+  },
+  {
+   "kelime": "أَيْدِيهِمْ",
+   "okunus": "eydîhim",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "elleri(nin önü)"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "ve ne",
+   "karsilik": "ve ne (var)"
+  },
+  {
+   "kelime": "خَلْفَهُم",
+   "okunus": "halfehüm",
+   "kok": "خلف",
+   "kokAnlam": "arka",
+   "karsilik": "arkalarında"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "gök"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yer"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "şart edatı",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "نَّشَأْ",
+   "okunus": "neşe'",
+   "kok": "شيأ",
+   "kokAnlam": "dileme",
+   "karsilik": "dilersek"
+  },
+  {
+   "kelime": "نَخْسِفْ",
+   "okunus": "nahsif",
+   "kok": "خسف",
+   "kokAnlam": "batırma, yerin dibine geçirme",
+   "karsilik": "batırırız"
+  },
+  {
+   "kelime": "بِهِمُ",
+   "okunus": "bihimü",
+   "kok": "—",
+   "kokAnlam": "onları",
+   "karsilik": "onları"
+  },
+  {
+   "kelime": "ٱلْأَرْضَ",
+   "okunus": "el'erda",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yere"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "نُسْقِطْ",
+   "okunus": "nüskıt",
+   "kok": "سقط",
+   "kokAnlam": "düşürme",
+   "karsilik": "düşürürüz"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "üzerlerine",
+   "karsilik": "üzerlerine"
+  },
+  {
+   "kelime": "كِسَفًا",
+   "okunus": "kisefen",
+   "kok": "كسف",
+   "kokAnlam": "parça",
+   "karsilik": "parçalar"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "gökten"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "işaret",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "لَءَايَةً",
+   "okunus": "leâyeten",
+   "kok": "أيي",
+   "kokAnlam": "ayet, işaret",
+   "karsilik": "kesin bir işaret"
+  },
+  {
+   "kelime": "لِّكُلِّ",
+   "okunus": "likülli",
+   "kok": "كلل",
+   "kokAnlam": "her, bütün",
+   "karsilik": "her biri için"
+  },
+  {
+   "kelime": "عَبْدٍ",
+   "okunus": "abdin",
+   "kok": "عبد",
+   "kokAnlam": "kulluk",
+   "karsilik": "kul(un)"
+  },
+  {
+   "kelime": "مُّنِيبٍ",
+   "okunus": "münîbin",
+   "kok": "نوب",
+   "kokAnlam": "dönme, yönelme",
+   "karsilik": "yönelen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette ahirete iman etmeyenlerin azap ve sapıklık içinde olduğu söylenmişti; bu ayet onları gökyüzü ve yeryüzündeki düzene bakmaya, Allah'ın gücünü fark etmeye çağırır.",
+  "Yerin dibine batırma ya da gökten parça düşürme örnekleri, Allah'ın hem gökte hem yerde dilediğini yapabilecek güçte olduğunu somut biçimde anlatır; bu, ancak Allah'a yönelen kimseler için gerçek bir işarettir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "67:16",
+   "meal": "Gökte olanın sizi yere batırmayacağından emin misiniz? O zaman yeryüzü sarsıla sarsıla sizi içine çeker.",
+   "baglanti": "Aynı 'yere batırma' teması (خسف kökü) burada da geçer; Allah'ın bu gücü açıkça hatırlatılır."
+  },
+  {
+   "ref": "3:190",
+   "meal": "Göklerin ve yerin yaratılışında... akıl sahipleri için elbette işaretler vardır.",
+   "baglanti": "Göğe ve yere bakıp ibret almanın, akıl sahipleri için bir işaret olduğu teması ortaktır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet doğrudan gökyüzü ve yeryüzündeki düzene bakıp ibret almayı, Allah'ın gücünü fark etmeyi konu edinir.",
+  "Günlük hayata taşınabilecek ders, günlük telaşın içinde kaybolup çevreye, gökyüzüne bakmayı unutmamaktır; bunun bir tehdit değil bir hatırlatma ve yönelme fırsatı olduğunu bilmek."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gökyüzüne bak",
+   "aciklama": "Bugün birkaç dakika durup gökyüzünü izle, bunun bir tesadüf olmadığını düşün."
+  },
+  {
+   "baslik": "Güvende olduğun anı fark et",
+   "aciklama": "Ayakların yere sağlam bastığı bu günü, bunun bir lütuf olduğunu bilerek yaşa."
+  },
+  {
+   "baslik": "Bir konuda Allah'a yönel",
+   "aciklama": "İçinde biriken bir sıkıntıyı bugün dua ile Allah'a aç."
+  }
+ ],
+ "bugununAdimi": "Bugün gökyüzüne bakıp bir dakika sessizce düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/34/9"
+  }
+ ]
+}

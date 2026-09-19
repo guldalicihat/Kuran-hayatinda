@@ -1,0 +1,124 @@
+{
+ "sure": 34,
+ "ayet": 20,
+ "durum": "taslak",
+ "meal": "Andolsun, İblis onlar hakkındaki zannını doğruladı; müminlerden bir grup dışında hepsi ona uydu.",
+ "mealNotu": "Ayet fiil çekimiyle geçmiş zaman kipinde ('saddeka', 'ittebeû') verildiği için meal de geçmiş zamanla kurulmuştur.",
+ "kokler": [
+  {
+   "kelime": "وَلَقَدْ",
+   "okunus": "ve lekad",
+   "kok": "—",
+   "kokAnlam": "kesinlik edatı",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "صَدَّقَ",
+   "okunus": "saddeka",
+   "kok": "صدق",
+   "kokAnlam": "doğrulama, doğru çıkma",
+   "karsilik": "doğruladı"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "üzerlerinde",
+   "karsilik": "onlar hakkında"
+  },
+  {
+   "kelime": "إِبْلِيسُ",
+   "okunus": "iblîsü",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İblis"
+  },
+  {
+   "kelime": "ظَنَّهُۥ",
+   "okunus": "zannehû",
+   "kok": "ظنن",
+   "kokAnlam": "sanma, zan",
+   "karsilik": "zannını"
+  },
+  {
+   "kelime": "فَٱتَّبَعُوهُ",
+   "okunus": "fettebeûhü",
+   "kok": "تبع",
+   "kokAnlam": "tabi olma, uyma",
+   "karsilik": "ona uydular"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna",
+   "karsilik": "dışında"
+  },
+  {
+   "kelime": "فَرِيقًا",
+   "okunus": "ferîkan",
+   "kok": "فرق",
+   "kokAnlam": "grup, bölük",
+   "karsilik": "bir grup"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنِينَ",
+   "okunus": "elmü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanan",
+   "karsilik": "müminler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetler Sebe halkının nankörlüğünü ve dağılışını anlatmıştı; bu ayet bir adım geri giderek olayın arka planındaki genel bir gerçeği açıklar: İblis, insanlar hakkındaki zannını, çoğunun kendisine uyacağı zannını, doğru çıkarmıştır.",
+  "Ayet bunu mutlak bir güç olarak sunmaz; 'müminlerden bir grup dışında' ifadesi, İblis'in zannının herkes için geçerli olmadığını, gerçek imanı olanların bu genel eğilimin dışında kaldığını özellikle belirtir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "38:83",
+   "meal": "Ancak onlardan ihlâsa erdirilmiş kulların hariç.",
+   "baglanti": "İblis'in kendi ağzından, sadece halis kulları saptıramayacağını söylediği ayet; buradaki 'müminlerden bir grup dışında' ifadesiyle örtüşür."
+  },
+  {
+   "ref": "15:42",
+   "meal": "Şüphesiz kullarım üzerinde senin bir hakimiyetin yoktur; ancak sana uyan sapıklar hariç.",
+   "baglanti": "İblis'in gerçek kullar üzerinde bir gücü olmadığı ilkesi burada da net biçimde tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insanların çoğunun İblis'e uyduğu ama bir grubun bundan istisna tutulduğu genel bir tespittir.",
+  "Günlük hayata taşınabilecek ders, çoğunluğun yönelimine kapılmanın kolay, ama bilinçli bir duruşla bu genel akıntının dışında kalmanın mümkün olduğudur; bu, kişinin kendi tercihine bağlıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Çoğunluğu sorgula",
+   "aciklama": "Bugün herkesin yaptığı bir şeyi, doğru olup olmadığını düşünmeden taklit etme."
+  },
+  {
+   "baslik": "Kendi zayıf anını fark et",
+   "aciklama": "Kolay yola sapma isteği hissettiğinde bir an dur ve düşün."
+  },
+  {
+   "baslik": "Az ama sağlam bir grupta ol",
+   "aciklama": "Doğru bildiğin bir tutumda, kalabalık olmasa da ısrarcı ol."
+  }
+ ],
+ "bugununAdimi": "Bugün, çoğunluğun yaptığı ama içine sinmeyen bir şeyi yapmamayı seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=20"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/34/20"
+  }
+ ]
+}
