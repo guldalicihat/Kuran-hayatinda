@@ -1,0 +1,96 @@
+{
+ "sure": 50,
+ "ayet": 20,
+ "durum": "taslak",
+ "meal": "Sûra üfürülür; işte bu, tehdit edilen gündür.",
+ "mealNotu": "'Sûr' kökü genelde kıyametin başlangıcını bildiren üflemeyi ifade eder. 'Veîd' kökü önceden bildirilen tehdidi/uyarıyı anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَنُفِخَ",
+   "okunus": "ve nüfiha",
+   "kok": "نفخ",
+   "kokAnlam": "üfleme",
+   "karsilik": "üfürülür"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat (içine)",
+   "karsilik": "içine"
+  },
+  {
+   "kelime": "ٱلصُّورِ",
+   "okunus": "essûri",
+   "kok": "صور",
+   "kokAnlam": "sûr, boru",
+   "karsilik": "sûra"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "işaret (işte bu)",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "يَوْمُ",
+   "okunus": "yevmü",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gündür"
+  },
+  {
+   "kelime": "ٱلْوَعِيدِ",
+   "okunus": "elveîdi",
+   "kok": "وعد",
+   "kokAnlam": "söz verme; uyarı, tehdit",
+   "karsilik": "tehdit edilen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ölüm gerçeğinden sonra ayet kıyametin kopuşuna geçer: sûra üfürülür. Bu, önceki ayetlerde geçen 'veîd' (tehdit) kelimesiyle bağlantılıdır; önceden uyarılan gün gelmiştir.",
+  "Ayet, sahneyi ayrıntılandırmadan kısa ve vurgulu bir cümleyle bildirir; devamındaki ayetler bu günün sonuçlarını anlatmaya devam eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:51",
+   "meal": "Sûra üfürülür; bir de bakarsın kabirlerinden kalkıp Rablerine doğru akın ediyorlar.",
+   "baglanti": "Yâsîn suresi de sûra üfürülmesini kıyametin başlangıcı olarak anlatır; Kaf 20'deki aynı olayın bir başka anlatımıdır."
+  },
+  {
+   "ref": "39:68",
+   "meal": "Sûra üfürülür de Allah'ın diledikleri dışında göklerde ve yerde olan herkes düşüp bayılır; sonra ona bir daha üfürülür, bir de bakarsın ayakta bekleşiyorlar.",
+   "baglanti": "Zümer suresi sûra iki kez üfürüleceğini bildirir; Kaf suresinde de 42. ayette ikinci üfürüş anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan kıyametin kopuş anıdır; bu, insan iradesi dışında, önceden belirlenmiş bir zamanda gerçekleşecektir.",
+  "Günlük hayatta böyle kesin ve büyük bir günün geleceğini bilmek, hayatı sadece bugüne göre değil o güne göre de planlamayı gerektirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Büyük günü hatırla",
+   "aciklama": "Bugün her şeyin bir gün sona ereceğini hatırlayarak önceliklerini gözden geçir."
+  },
+  {
+   "baslik": "Hazırlığını kontrol et",
+   "aciklama": "Ahiret için yaptığın hazırlığı bugün bir kez gözden geçir."
+  },
+  {
+   "baslik": "Zamanı boşa harcama",
+   "aciklama": "Bugün anlamsız geçirdiğin bir zaman dilimini fark et ve azalt."
+  }
+ ],
+ "bugununAdimi": "Bugün hayatının bir gün sona ereceğini hatırlatan tek bir cümle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=20"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/20"
+  }
+ ]
+}

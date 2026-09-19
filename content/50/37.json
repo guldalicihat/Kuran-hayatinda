@@ -1,0 +1,145 @@
+{
+ "sure": 50,
+ "ayet": 37,
+ "durum": "taslak",
+ "meal": "Şüphesiz bunda, kalbi olan yahut hazır bulunarak kulak veren kimse için bir hatırlatma vardır.",
+ "mealNotu": "'Kalb' burada düşünen, anlayan idrak yeri anlamındadır. 'Şehîd' kökü burada hazır bulunmayı, dikkatle dinlemeyi ifade eder.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "te'kid edatı (şüphesiz)",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat (içinde)",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "işaret (bunda)",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "لَذِكْرَىٰ",
+   "okunus": "lezikrâ",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlama, anma",
+   "karsilik": "elbette bir hatırlatma"
+  },
+  {
+   "kelime": "لِمَن",
+   "okunus": "limen",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri (kimse için)",
+   "karsilik": "kimse için"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "vardır"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "onun (zamir)",
+   "karsilik": "onun"
+  },
+  {
+   "kelime": "قَلْبٌ",
+   "okunus": "kalbün",
+   "kok": "قلب",
+   "kokAnlam": "kalp, gönül",
+   "karsilik": "kalbi"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "bağlaç (yahut)",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "أَلْقَى",
+   "okunus": "elkâ",
+   "kok": "لقي",
+   "kokAnlam": "bırakma, yöneltme",
+   "karsilik": "verdi"
+  },
+  {
+   "kelime": "ٱلسَّمْعَ",
+   "okunus": "essem'a",
+   "kok": "سمع",
+   "kokAnlam": "işitme, kulak verme",
+   "karsilik": "kulağı"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "ve o (zamir)",
+   "karsilik": "ve o"
+  },
+  {
+   "kelime": "شَهِيدٌ",
+   "okunus": "şehîdün",
+   "kok": "شهد",
+   "kokAnlam": "hazır bulunma, şahitlik",
+   "karsilik": "hazır bulunan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Geçmiş kavimlerin akıbetinden sonra ayet, bu anlatının kimin için fayda vereceğini açıklar: düşünen bir kalbi olan veya dikkatle dinleyen kişi. Bu, 8. ayetteki 'münîb kul' temasının bir tekrarıdır.",
+  "Ayet, salt bilgi aktarmanın yetmediğini, dinleyenin de kalbini ve dikkatini açması gerektiğini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:179",
+   "meal": "...Kalpleri vardır, onunla kavramazlar; gözleri vardır, onunla görmezler; kulakları vardır, onunla işitmezler. İşte onlar hayvanlar gibidir, hatta daha da şaşkındırlar.",
+   "baglanti": "A'râf suresi, kalbini ve kulağını kullanmayanları anlatır; Kaf 37'deki 'kalbi olan' ifadesi tam da bu eksikliğin karşıtını tarif eder."
+  },
+  {
+   "ref": "36:11",
+   "meal": "Sen ancak zikre uyan ve görmediği halde Rahmân'dan korkan kimseyi uyarabilirsin.",
+   "baglanti": "Yâsîn suresi de öğüdün ancak açık bir kalple dinleyen kimseye fayda verdiğini bildirir; Kaf 37'deki 'hatırlatma' teması burada tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bir öğüdün fayda vermesi için dinleyenin kalbini ve dikkatini açması gerektiğidir.",
+  "Günlük hayatta bir şeyi duymakla onu gerçekten dinlemek farklıdır; dikkatle, düşünerek dinlemek öğüdün etkisini artırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Dikkatle dinle",
+   "aciklama": "Bugün birini dinlerken telefonunu bırak, tam dikkatini ver."
+  },
+  {
+   "baslik": "Duyduğunu düşün",
+   "aciklama": "Bugün okuduğun veya duyduğun bir öğüdü geçiştirme, üzerine düşün."
+  },
+  {
+   "baslik": "Kalbini aç",
+   "aciklama": "Bir öğüdü ilk anda reddetmeden önce anlamaya çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün bir sohbette veya okuduğun bir metinde tam dikkatle dinleyip bir not çıkar.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=37"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/37"
+  }
+ ]
+}

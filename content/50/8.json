@@ -1,0 +1,89 @@
+{
+ "sure": 50,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "[Bunlar,] Allah'a yönelen her kul için bir gösterme ve bir hatırlatmadır.",
+ "mealNotu": "Ayette özne belirtilmediği için önceki ayetlerdeki gök ve yer örneklerine işaret eden '[Bunlar]' köşeli parantezle eklendi. 'Tebsıra' kökü fark ettirmeyi, 'zikrâ' kökü hatırlatmayı, 'münîb' kökü Allah'a dönüp yönelmeyi ifade eder.",
+ "kokler": [
+  {
+   "kelime": "تَبْصِرَةً",
+   "okunus": "tebsıraten",
+   "kok": "بصر",
+   "kokAnlam": "görme, fark ettirme",
+   "karsilik": "bir gösterme"
+  },
+  {
+   "kelime": "وَذِكْرَىٰ",
+   "okunus": "ve zikrâ",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlama, anma",
+   "karsilik": "ve bir hatırlatma"
+  },
+  {
+   "kelime": "لِكُلِّ",
+   "okunus": "likülli",
+   "kok": "كلل",
+   "kokAnlam": "her biri için",
+   "karsilik": "her...için"
+  },
+  {
+   "kelime": "عَبْدٍ",
+   "okunus": "abdin",
+   "kok": "عبد",
+   "kokAnlam": "kulluk, kul olma",
+   "karsilik": "kul"
+  },
+  {
+   "kelime": "مُّنِيبٍ",
+   "okunus": "münîbin",
+   "kok": "نوب",
+   "kokAnlam": "dönme, yönelme",
+   "karsilik": "yönelen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, gök ve yerdeki yaratma örneklerinin amacını açıklar: bunlar gösterme (tebsıra) ve hatırlatma (zikrâ) içindir. Ancak bu, yalnız Allah'a yönelen, kalbi açık olan kullar için işe yarar.",
+  "'Münîb' kökü, hatasını fark edip Allah'a dönmeyi anlatır. Ayet, doğa örneklerinin herkes için değil, bakmaya ve düşünmeye hazır olan için bir uyarı olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "51:55",
+   "meal": "Sen yine de öğüt ver; çünkü öğüt müminlere fayda verir.",
+   "baglanti": "Zâriyât suresi de öğüdün herkese değil, kalbi açık olan inananlara fayda verdiğini söyler; Kaf 8'deki 'münîb kul' ifadesiyle aynı sınırlamayı taşır."
+  },
+  {
+   "ref": "39:9",
+   "meal": "Hiç bilenlerle bilmeyenler bir olur mu? Ancak akıl sahipleri öğüt alır.",
+   "baglanti": "Zümer suresi de öğütten yararlanmanın herkese değil akıl sahiplerine mahsus olduğunu vurgular; Kaf 8'deki 'münîb kul' vurgusuyla örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, gök ve yerdeki işaretlerin kimin için fayda verdiğidir; cevap Allah'a yönelen kuldur.",
+  "Günlük hayatta aynı manzarayı gören iki kişi farklı şeyler hissedebilir; biri sadece görür, diğeri düşünüp ders çıkarır. Fark, kalbin açık olup olmamasındadır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir işaretten ders çıkar",
+   "aciklama": "Bugün karşılaştığın sıradan bir manzaradan kendine bir ders çıkar."
+  },
+  {
+   "baslik": "Geri dön",
+   "aciklama": "Uzaklaştığını hissettiğin bir konuda bugün küçük bir adımla Allah'a yönel."
+  },
+  {
+   "baslik": "Sadece bakma, düşün",
+   "aciklama": "Bugün bir şeye bakarken 'Bu bana ne anlatıyor?' diye sor."
+  }
+ ],
+ "bugununAdimi": "Bugün gördüğün bir doğa manzarasından çıkardığın dersi tek cümleyle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/8"
+  }
+ ]
+}

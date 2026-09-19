@@ -1,0 +1,89 @@
+{
+ "sure": 50,
+ "ayet": 40,
+ "durum": "taslak",
+ "meal": "Gecenin bir bölümünde de O'nu tesbih et; secdelerin arkasından da.",
+ "mealNotu": "'Edbâr' kökü arka, son kısım anlamındadır; burada secdelerin hemen ardından yapılan tesbihi ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَمِنَ",
+   "okunus": "ve mine",
+   "kok": "—",
+   "kokAnlam": "edat (ve -den)",
+   "karsilik": "ve -de"
+  },
+  {
+   "kelime": "ٱلَّيْلِ",
+   "okunus": "elleyli",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "gecenin"
+  },
+  {
+   "kelime": "فَسَبِّحْهُ",
+   "okunus": "fesebbihhü",
+   "kok": "سبح",
+   "kokAnlam": "tenzih etme, tesbih",
+   "karsilik": "O'nu tesbih et"
+  },
+  {
+   "kelime": "وَأَدْبَٰرَ",
+   "okunus": "ve edbâra",
+   "kok": "دبر",
+   "kokAnlam": "arka, son kısım",
+   "karsilik": "ve arkasından"
+  },
+  {
+   "kelime": "ٱلسُّجُودِ",
+   "okunus": "essücûdi",
+   "kok": "سجد",
+   "kokAnlam": "secde etme, yere kapanma",
+   "karsilik": "secdelerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette sabah ve akşam vakitleri belirtilen tesbih emri burada gece vaktini ve secdelerin ardını da kapsayacak şekilde genişler.",
+  "Klasik tefsir 'secdelerin arkası'nı bazen namaz sonrası tesbihler, bazen nafile namazlar olarak açıklar; ayet bu ayrıntıyı kesinleştirmez, sade bir çağrı sunar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "52:49",
+   "meal": "Gecenin bir bölümünde ve yıldızların batışının ardından da O'nu tesbih et.",
+   "baglanti": "Tûr suresi de gece vaktinde tesbihi öğütler; Kaf 40'taki 'gecenin bir bölümünde de O'nu tesbih et' emriyle aynı vurguyu taşır."
+  },
+  {
+   "ref": "17:79",
+   "meal": "Gecenin bir kısmında da uyanıp, sana mahsus fazladan bir ibadet olarak namaz kıl; umulur ki Rabbin seni övülmüş bir makama ulaştırır.",
+   "baglanti": "İsrâ suresi de gece ibadetini özel bir mertebeye bağlar; Kaf 40'taki gece tesbihi bu ibadetin bir parçası olarak okunabilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, ibadetin güne yayılmış olması, sadece belirli anlarla sınırlı kalmamasıdır.",
+  "Günlük hayatta günün farklı vakitlerinde kısa da olsa Allah'ı anmak, hayatı bölük pörçük değil bütünlüklü bir bilinçle yaşamayı sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geceni de an",
+   "aciklama": "Bugün gece yatmadan önce kısa bir zikir veya dua ile günü kapat."
+  },
+  {
+   "baslik": "Namazın ardını değerlendir",
+   "aciklama": "Kıldığın bir namazın ardından birkaç saniye daha zikirle kal."
+  },
+  {
+   "baslik": "Günü böl",
+   "aciklama": "Bugün farklı saatlerde kısa aralıklarla Allah'ı anmayı dene."
+  }
+ ],
+ "bugununAdimi": "Bugün gece yatmadan önce birkaç dakika sessizce Allah'ı anarak günü bitir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=40"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/40"
+  }
+ ]
+}

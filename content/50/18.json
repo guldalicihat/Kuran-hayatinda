@@ -1,0 +1,110 @@
+{
+ "sure": 50,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "O hiçbir söz söylemez ki yanında hazır bir gözetleyici olmasın.",
+ "mealNotu": "'Rakîb' kökü gözetlemeyi, izlemeyi anlatır; 'atîd' kökü hazır bulunmayı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk (-mez)",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يَلْفِظُ",
+   "okunus": "yelfizu",
+   "kok": "لفظ",
+   "kokAnlam": "söyleme, ağızdan çıkarma",
+   "karsilik": "söyler"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat (hiçbir)",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "قَوْلٍ",
+   "okunus": "kavlin",
+   "kok": "قول",
+   "kokAnlam": "söz, söyleme",
+   "karsilik": "söz"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna edatı (ancak)",
+   "karsilik": "ki ... olmasın"
+  },
+  {
+   "kelime": "لَدَيْهِ",
+   "okunus": "ledeyhi",
+   "kok": "—",
+   "kokAnlam": "yanında (yer)",
+   "karsilik": "yanında"
+  },
+  {
+   "kelime": "رَقِيبٌ",
+   "okunus": "rakîbün",
+   "kok": "رقب",
+   "kokAnlam": "gözetleme, izleme",
+   "karsilik": "bir gözetleyici"
+  },
+  {
+   "kelime": "عَتِيدٌ",
+   "okunus": "atîdün",
+   "kok": "عتد",
+   "kokAnlam": "hazır bulunma",
+   "karsilik": "hazır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette tanıtılan kayıt görevi burada netleşir: insan hiçbir söz söylemez ki yanında bunu izleyen, hazır bekleyen bir gözetleyici olmasın.",
+  "Ayet bu bilgiyi kesin ama sade bir dille verir; meleklerin nasıl işlediğine dair spekülasyona girmeden, sadece hiçbir sözün gözetimsiz kalmadığını bildirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:61",
+   "meal": "O, kulları üzerinde galip ve hükümrandır; üzerinize koruyucular gönderir. Sonunda birinize ölüm geldiğinde elçilerimiz onun canını alır, onlar asla eksiklik yapmazlar.",
+   "baglanti": "En'âm suresi de insanın üzerinde görevli melekler bulunduğunu, onların eksiksiz iş gördüğünü bildirir; Kaf 18'deki 'hazır gözetleyici' ile aynı temaya işaret eder."
+  },
+  {
+   "ref": "82:11",
+   "meal": "Değerli yazıcılar (kâtiplerdir onlar).",
+   "baglanti": "İnfitâr suresi de bu gözetleyicileri 'değerli yazıcılar' olarak tanımlar; Kaf 18'deki 'rakîbün atîd' ifadesiyle aynı görevlilere işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, söylenen her sözün izlendiğidir.",
+  "Günlük hayatta bir söz söylerken bunun kaydedildiğini bilmek, boş, kırıcı veya yalan sözden kaçınmayı kolaylaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Söyleyeceğini tart",
+   "aciklama": "Bugün söyleyeceğin bir sözü ağzından çıkmadan önce bir kez düşün."
+  },
+  {
+   "baslik": "Yalandan kaçın",
+   "aciklama": "Bugün küçük bile olsa bir yalana başvurmamaya özen göster."
+  },
+  {
+   "baslik": "Kırıcı sözü ertele",
+   "aciklama": "Öfkeliyken söyleyeceğin bir sözü bugün bir süre beklet."
+  }
+ ],
+ "bugununAdimi": "Bugün bir gün boyunca söylediğin sözlerin kayıt altında olduğunu hatırlayarak konuş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/18"
+  }
+ ]
+}

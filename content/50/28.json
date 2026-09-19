@@ -1,0 +1,110 @@
+{
+ "sure": 50,
+ "ayet": 28,
+ "durum": "taslak",
+ "meal": "[Allah] der ki: Huzurumda çekişmeyin; ben size önceden uyarımı bildirmiştim.",
+ "mealNotu": "Söyleyen belirtilmediği için bağlamdan anlaşılan '[Allah]' köşeli parantezle eklendi. 'Tehâsum' kökü karşılıklı çekişmeyi, 'kaddemtü' kökü önceden göndermeyi/bildirmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı (-mayın)",
+   "karsilik": "-mayın"
+  },
+  {
+   "kelime": "تَخْتَصِمُوا۟",
+   "okunus": "tahtesımû",
+   "kok": "خصم",
+   "kokAnlam": "çekişme, tartışma",
+   "karsilik": "çekişin"
+  },
+  {
+   "kelime": "لَدَىَّ",
+   "okunus": "ledeyye",
+   "kok": "—",
+   "kokAnlam": "huzurumda (yer)",
+   "karsilik": "huzurumda"
+  },
+  {
+   "kelime": "وَقَدْ",
+   "okunus": "ve kad",
+   "kok": "—",
+   "kokAnlam": "kesinlik edatı",
+   "karsilik": "ve gerçekten"
+  },
+  {
+   "kelime": "قَدَّمْتُ",
+   "okunus": "kaddemtü",
+   "kok": "قدم",
+   "kokAnlam": "önceden gönderme, önceleme",
+   "karsilik": "önceden bildirdim"
+  },
+  {
+   "kelime": "إِلَيْكُم",
+   "okunus": "ileyküm",
+   "kok": "—",
+   "kokAnlam": "size (edat)",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "بِٱلْوَعِيدِ",
+   "okunus": "bil veîdi",
+   "kok": "وعد",
+   "kokAnlam": "söz verme; uyarı, tehdit",
+   "karsilik": "uyarımı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kişi ile onun yakını arasındaki karşılıklı suçlamaya Allah'ın cevabı gelir: bu tartışmanın artık bir faydası yoktur, çünkü uyarı zaten önceden yapılmıştı.",
+  "Bu ayet, kıyamet gününde mazeret üretmenin veya suçu başkasına atmanın işe yaramayacağını bildirir; uyarı dünyada iken elçiler aracılığıyla ulaştırılmıştı."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "35:37",
+   "meal": "...Size, düşünüp öğüt alacak kimsenin öğüt alacağı kadar ömür vermedik mi? Üstelik size bir uyarıcı da gelmişti. Öyleyse tadın azabı; zalimler için hiçbir yardımcı yoktur.",
+   "baglanti": "Fâtır suresi de kıyamet günü mazeretin geçerli olmadığını, çünkü uyarının önceden ulaştırıldığını bildirir; Kaf 28'deki 'önceden uyarımı bildirmiştim' ifadesiyle aynı gerçeği taşır."
+  },
+  {
+   "ref": "6:130",
+   "meal": "Ey cin ve insan topluluğu, içinizden size ayetlerimi anlatan ve bu gününüzle sizi uyaran elçiler gelmedi mi?",
+   "baglanti": "En'âm suresi de uyarının elçiler aracılığıyla önceden ulaştırıldığını hatırlatır; Kaf 28'deki mazeretsizlik burada da vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, kıyamet gününde artık çekişmenin ve mazeretin bir anlamı kalmadığıdır; çünkü uyarı önceden yapılmıştır.",
+  "Günlük hayatta bir uyarıyı aldıktan sonra 'bilmiyordum' dememek için, bugünden bildiğimiz doğrulara göre davranmak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Mazeret üretme",
+   "aciklama": "Bugün bir sorumluluğu, mazeret üretmeden yerine getir."
+  },
+  {
+   "baslik": "Bildiğini uygula",
+   "aciklama": "Doğru olduğunu bildiğin ama uygulamadığın bir şeyi bugün uygula."
+  },
+  {
+   "baslik": "Tartışmayı bırak",
+   "aciklama": "Bugün sonuçsuz bir tartışmaya girmek yerine üzerine düşeni yap."
+  }
+ ],
+ "bugununAdimi": "Bugün 'bilmiyordum' diyemeyeceğin bir gerçeği not al ve ona göre davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=28"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/28"
+  }
+ ]
+}

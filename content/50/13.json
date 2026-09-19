@@ -1,0 +1,82 @@
+{
+ "sure": 50,
+ "ayet": 13,
+ "durum": "taslak",
+ "meal": "Âd, Firavun ve Lût'un kavmi de [yalanladı].",
+ "mealNotu": "Fiil bir önceki ayetteki 'kezzebet'ten (yalanladı) devam ettiği için '[yalanladı]' köşeli parantezle eklendi. 'İhvân' kökü kardeşliği anlatır; burada soy kardeşliği değil, aynı topluma mensup olmayı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَعَادٌ",
+   "okunus": "ve âdün",
+   "kok": "عود",
+   "kokAnlam": "özel isim (Âd kavmi)",
+   "karsilik": "Âd da"
+  },
+  {
+   "kelime": "وَفِرْعَوْنُ",
+   "okunus": "ve fir'avnü",
+   "kok": "—",
+   "kokAnlam": "özel isim (Firavun)",
+   "karsilik": "Firavun da"
+  },
+  {
+   "kelime": "وَإِخْوَٰنُ",
+   "okunus": "ve ihvânü",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "kavmi"
+  },
+  {
+   "kelime": "لُوطٍ",
+   "okunus": "lûtın",
+   "kok": "—",
+   "kokAnlam": "özel isim (Lût)",
+   "karsilik": "Lût'un"
+  }
+ ],
+ "neAnlatiyor": [
+  "Liste devam eder: Âd kavmi, Firavun ve Lût'un kavmi de elçilerini yalanlamıştır. Yine isim düzeyinde, ayrıntıya girmeden anılır.",
+  "Bu kısa sayım dinleyiciye zaten bildiği kıssaları hatırlatır; sure, ayrıntılı anlatım yerine hızlı bir hatırlatmayı tercih eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "69:9",
+   "meal": "Firavun, ondan öncekiler ve altüst olan şehirler (Lût kavmi) hataya düştüler.",
+   "baglanti": "Hâkka suresi de Firavun'u ve Lût kavmini birlikte anar; Kaf 13'teki isim listesiyle aynı topluluklara işaret eder."
+  },
+  {
+   "ref": "26:123",
+   "meal": "Âd kavmi de gönderilen elçileri yalanladı.",
+   "baglanti": "Şuarâ suresi Âd kavminin yalanlamasını ayrı bir kıssa olarak anlatır; Kaf 13'te bu, kısa bir isim anışıyla hatırlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu yine tarihsel bir hatırlatmadır; güçlü bir hükümdar olan Firavun da dahil olmak üzere hiçbir topluluk inkârından dolayı ayrıcalık görmemiştir.",
+  "Günlük hayatta güç ve statünün, yanlış bir tutumu haklı çıkarmayacağını hatırlamak önemlidir; kim olursa olsun sorumluluk aynıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gücü haklılık sanma",
+   "aciklama": "Bugün, güçlü veya başarılı olmanın doğruyu göstermediğini hatırla."
+  },
+  {
+   "baslik": "Kendi payına bak",
+   "aciklama": "Elindeki imkân ne olursa olsun, bugün sorumluluğunu hatırla."
+  },
+  {
+   "baslik": "Kibirden kaçın",
+   "aciklama": "Bugün bir konuda üstünlük hissettiğinde bunu kibre dönüştürmemeye dikkat et."
+  }
+ ],
+ "bugununAdimi": "Bugün sahip olduğun bir imkânı kibre değil sorumluluğa vesile kıl.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=13"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/13"
+  }
+ ]
+}

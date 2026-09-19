@@ -1,0 +1,75 @@
+{
+ "sure": 50,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Kâf. Şanlı Kur'an'a andolsun.",
+ "mealNotu": "'Kâf' bağımsız bir Arap harfi olarak sure başında yer alan mukattaa harflerindendir; kesin anlamı bilinmediği için olduğu gibi bırakılmıştır. 'Mecîd' kökü şeref ve yüceliği anlatır, 'şanlı' olarak çevrilmiştir.",
+ "kokler": [
+  {
+   "kelime": "قٓ",
+   "okunus": "kâf",
+   "kok": "—",
+   "kokAnlam": "mukattaa harfi; bağımsız Arap harfi, kesin anlamı bilinmez",
+   "karsilik": "Kâf"
+  },
+  {
+   "kelime": "وَٱلْقُرْءَانِ",
+   "okunus": "vel kur'âni",
+   "kok": "قرأ",
+   "kokAnlam": "okuma, toplama; okunan/toplanan kitap",
+   "karsilik": "Kur'an'a andolsun"
+  },
+  {
+   "kelime": "ٱلْمَجِيدِ",
+   "okunus": "elmecîdi",
+   "kok": "مجد",
+   "kokAnlam": "şeref, yücelik, üstünlük",
+   "karsilik": "şanlı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, birçok surenin başında görülen 'mukattaa harfleri'nden biri olan 'Kâf' ile açılır. Bu harflerin kesin anlamı bilinmemektedir; klasik tefsir bu konuda kesin bir iddiada bulunmaz, bu yüzden burada da nötr bırakılmıştır.",
+  "Harfin ardından Kur'an'a, onun şanlı ve yüce oluşuna yemin edilir. Bu yemin, surenin asıl konusuna, yani öldükten sonra dirilişin gerçekliğine bir giriş niteliğindedir; ana mesaj ilerleyen ayetlerde açılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "38:1",
+   "meal": "Sâd. Öğütle dolu Kur'an'a andolsun.",
+   "baglanti": "Sâd suresi de tek bir mukattaa harfinden hemen sonra Kur'an'a yemin ederek açılır; Kaf suresiyle aynı yemin kalıbını taşır."
+  },
+  {
+   "ref": "36:2",
+   "meal": "Hikmet dolu Kur'an'a andolsun.",
+   "baglanti": "Yâsîn suresi de mukattaa harfinin ardından Kur'an'a andolsun diyerek başlar; her ikisinde de yemin Kur'an'ın bir vasfına dayanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, üzerine yemin edilen şeyin önemine dikkat çeker; burada yemin edilen Kur'an'ın kendisidir. Bu, okuyucuyu surenin asıl konusunun ciddiyetine hazırlar.",
+  "Günlük hayatta bir söze ya da yazıya 'şanlı' demek, ona değer verip ciddiye almakla ilgilidir. Kur'an okurken sayfaları hızlıca çevirmek yerine içindeki mesajı ciddiye almak asıl olandır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir bölümü dikkatle oku",
+   "aciklama": "Bugün Kur'an'dan kısa bir bölüm oku ve anlamını düşünerek, hızlıca geçmeden oku."
+  },
+  {
+   "baslik": "Bilinmeyeni kabul et",
+   "aciklama": "Mukattaa harfleri gibi kesin anlamı bilinmeyen bir konuda spekülasyona girmek yerine bunu olduğu gibi kabul et."
+  },
+  {
+   "baslik": "Surenin temasına hazırlan",
+   "aciklama": "Kaf suresi ölümü ve yeniden dirilişi anlatır; bugün ölümü hatırlayan kısa bir düşünceye zaman ayır."
+  }
+ ],
+ "bugununAdimi": "Bugün Kaf suresinden birkaç ayet oku ve ana temasını tek cümleyle not et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/1"
+  }
+ ]
+}

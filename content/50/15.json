@@ -1,0 +1,124 @@
+{
+ "sure": 50,
+ "ayet": 15,
+ "durum": "taslak",
+ "meal": "İlk yaratmada aciz mi kaldık? Hayır, onlar yeni bir yaratılıştan kuşku içindedirler.",
+ "mealNotu": "'Ayiye' kökü aciz kalmayı, güçsüzlüğü anlatır. 'Lebs' kökü karışıklık ve kuşkuyu ifade eder.",
+ "kokler": [
+  {
+   "kelime": "أَفَعَيِينَا",
+   "okunus": "efeayînâ",
+   "kok": "عيي",
+   "kokAnlam": "aciz kalma, güçsüzlük",
+   "karsilik": "aciz mi kaldık"
+  },
+  {
+   "kelime": "بِٱلْخَلْقِ",
+   "okunus": "bil halkı",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yaratmada"
+  },
+  {
+   "kelime": "ٱلْأَوَّلِ",
+   "okunus": "el'evveli",
+   "kok": "أول",
+   "kokAnlam": "ilk, öncelik",
+   "karsilik": "ilk"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "aksine, hayır (idrak edatı)",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "onlar (zamir)",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde (edat)",
+   "karsilik": "içindedir"
+  },
+  {
+   "kelime": "لَبْسٍ",
+   "okunus": "lebsin",
+   "kok": "لبس",
+   "kokAnlam": "karışıklık, kuşku",
+   "karsilik": "kuşku"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat (-den, dolayı)",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "خَلْقٍ",
+   "okunus": "halkın",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yaratılıştan"
+  },
+  {
+   "kelime": "جَدِيدٍ",
+   "okunus": "cedîdin",
+   "kok": "جدد",
+   "kokAnlam": "yenilik, tazelik",
+   "karsilik": "yeni"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, dirilişin akla yakınlığını doğrudan bir soruyla pekiştirir: İnsanı ilk kez yoktan yaratan Allah, onu ikinci kez yaratmaktan aciz olabilir mi? Cevap açıktır: hayır. Asıl sorun, müşriklerin bu yeni yaratılıştan, yani dirilişten duydukları kuşkudur.",
+  "Bu, Kaf suresinin ana argümanlarından biridir: ilk yaratılış zaten gerçekleşmiş bir mucizedir; onu inkâr etmeyen kişinin ikincisini inkâr etmesi tutarsızdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:79",
+   "meal": "De ki: Onları ilk defa yaratmış olan diriltecektir; O, her yaratmayı bilir.",
+   "baglanti": "Yâsîn suresi de aynı mantığı kurar: ilk yaratan, ikinci yaratmaya da gücü yeter; Kaf 15'teki soru bu ayette doğrudan cevaplanır."
+  },
+  {
+   "ref": "30:27",
+   "meal": "Yaratmayı ilk baştan yapan, sonra onu tekrarlayacak olan O'dur; bu O'na daha kolaydır.",
+   "baglanti": "Rûm suresi ilk yaratılışın tekrarının Allah için daha da kolay olduğunu söyler; Kaf 15'teki 'aciz mi kaldık' sorusunun cevabını güçlendirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan dirilişin akla aykırı olmadığıdır; ilk yaratılışı kabul eden birinin ikincisini reddetmesi tutarsızdır.",
+  "Günlük hayatta bir şeyin ilk kez nasıl var olduğunu düşünmek, onun tekrarının imkânsız olmadığını görmeyi kolaylaştırır; bu mantık şüpheye düştüğümüz konularda bize de rehberlik edebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Şüpheni mantıkla sına",
+   "aciklama": "Bugün 'olamaz' dediğin bir konuyu, ilk gerçekleştiğinde de aynı şekilde imkânsız görülüp görülmediğini düşünerek sorgula."
+  },
+  {
+   "baslik": "İlk yaratılışı hatırla",
+   "aciklama": "Bugün kendi varlığının bir zamanlar hiç yokken var olduğunu düşün."
+  },
+  {
+   "baslik": "Ahiret şüphesini bırak",
+   "aciklama": "Dirilişe dair içindeki bir tereddüdü bugün bu ayetin mantığıyla değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün kendi doğumunu düşün ve bunun dirilişin de mümkün olduğuna dair bir işaret olduğunu not et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=15"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/15"
+  }
+ ]
+}

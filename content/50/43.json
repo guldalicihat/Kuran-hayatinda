@@ -1,0 +1,96 @@
+{
+ "sure": 50,
+ "ayet": 43,
+ "durum": "taslak",
+ "meal": "Şüphesiz biz, biz diriltir ve öldürürüz; dönüş de yalnız bizedir.",
+ "mealNotu": "'Hayy' kökü hayat vermeyi, 'mesîr' kökü varış ve dönüşü anlatır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّا",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "te'kid edatı (şüphesiz biz)",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "نَحْنُ",
+   "okunus": "nahnü",
+   "kok": "—",
+   "kokAnlam": "biz (zamir)",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "نُحْىِۦ",
+   "okunus": "nühyî",
+   "kok": "حيي",
+   "kokAnlam": "hayat verme, diriltme",
+   "karsilik": "diriltiriz"
+  },
+  {
+   "kelime": "وَنُمِيتُ",
+   "okunus": "ve nümîtü",
+   "kok": "موت",
+   "kokAnlam": "öldürme",
+   "karsilik": "ve öldürürüz"
+  },
+  {
+   "kelime": "وَإِلَيْنَا",
+   "okunus": "ve ileynâ",
+   "kok": "—",
+   "kokAnlam": "bize (edat)",
+   "karsilik": "ve bizedir"
+  },
+  {
+   "kelime": "ٱلْمَصِيرُ",
+   "okunus": "elmesîru",
+   "kok": "صير",
+   "kokAnlam": "varış, dönüş",
+   "karsilik": "dönüş"
+  }
+ ],
+ "neAnlatiyor": [
+  "Diriliş sahnesinin ardından ayet, hayat ve ölümün yalnızca Allah'ın elinde olduğunu, her şeyin sonunda O'na döneceğini özetler. Bu, surenin ana argümanının kısa bir özetidir.",
+  "'Nahnü' (biz) zamirinin tekrarı, bu gücün yalnızca Allah'a ait olduğunu, başka hiçbir gücün bu işe ortak olmadığını vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:156",
+   "meal": "...Allah diriltir ve öldürür; Allah yaptıklarınızı görendir.",
+   "baglanti": "Âl-i İmrân suresi de hayat ve ölümün yalnız Allah'ın elinde olduğunu bildirir; Kaf 43'teki aynı ilkeyi tekrarlar."
+  },
+  {
+   "ref": "7:158",
+   "meal": "...O'ndan başka ilah yoktur; diriltir ve öldürür. Öyleyse Allah'a ve ümmî peygamber olan Resûlü'ne iman edin...",
+   "baglanti": "A'râf suresi de diriltme ve öldürmenin yalnız Allah'a ait olduğunu bildirir; Kaf 43 ile aynı gerçeği taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, hayat ve ölümün ve nihai dönüşün Allah'a ait olduğudur.",
+  "Günlük hayatta, hayatın kaynağının ve sonunun kendi elimizde olmadığını bilmek hem tevazu hem güven duygusu kazandırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kontrolü bırak",
+   "aciklama": "Bugün kontrol edemediğin bir konuda kaygılanmak yerine sonucu Allah'a bırak."
+  },
+  {
+   "baslik": "Hayatı hatırla",
+   "aciklama": "Bugün nefes alabildiğin için kısa bir şükür cümlesi kur."
+  },
+  {
+   "baslik": "Dönüşü unutma",
+   "aciklama": "Bir kararında, sonunda Allah'a döneceğini hatırlayarak hareket et."
+  }
+ ],
+ "bugununAdimi": "Bugün kontrol edemediğin bir kaygıyı, sonucu Allah'a bırakarak bir kenara koy.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=43"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/43"
+  }
+ ]
+}

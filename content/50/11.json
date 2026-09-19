@@ -1,0 +1,110 @@
+{
+ "sure": 50,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "Kullar için bir rızık olarak. Onunla ölü bir beldeyi dirilttik; çıkış işte böyledir.",
+ "mealNotu": "'Hurûc' kökü çıkmayı, ortaya çıkmayı anlatır; burada kabirden dirilip çıkmaya işaret eder. Ayet, ölü toprağın yağmurla dirilmesini öldükten sonra dirilişe benzetir.",
+ "kokler": [
+  {
+   "kelime": "رِّزْقًا",
+   "okunus": "rizkan",
+   "kok": "رزق",
+   "kokAnlam": "rızık, geçim",
+   "karsilik": "bir rızık olarak"
+  },
+  {
+   "kelime": "لِّلْعِبَادِ",
+   "okunus": "lil'ibâdi",
+   "kok": "عبد",
+   "kokAnlam": "kulluk, kul olma",
+   "karsilik": "kullar için"
+  },
+  {
+   "kelime": "وَأَحْيَيْنَا",
+   "okunus": "ve ahyeynâ",
+   "kok": "حيي",
+   "kokAnlam": "hayat verme, diriltme",
+   "karsilik": "dirilttik"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "onunla (zamir)",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "بَلْدَةً",
+   "okunus": "beldeten",
+   "kok": "بلد",
+   "kokAnlam": "belde, şehir",
+   "karsilik": "bir beldeyi"
+  },
+  {
+   "kelime": "مَّيْتًا",
+   "okunus": "meyten",
+   "kok": "موت",
+   "kokAnlam": "ölme",
+   "karsilik": "ölü"
+  },
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "işaret (işte böyle)",
+   "karsilik": "işte böyledir"
+  },
+  {
+   "kelime": "ٱلْخُرُوجُ",
+   "okunus": "elhurûcü",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, ortaya çıkma",
+   "karsilik": "çıkış"
+  }
+ ],
+ "neAnlatiyor": [
+  "Yağmur, bitki ve hurma örneklerinin amacı burada açıklanır: bunlar hem kullar için rızıktır hem de ölü toprağın nasıl canlandığının kanıtıdır. Ayetin sonundaki 'çıkış işte böyledir' ifadesi, kabirden dirilişin de aynı şekilde gerçekleşeceğini bildirir; bu, sure başında müşriklerin garip bulduğu dirilişe verilen doğrudan bir cevaptır.",
+  "Klasik tefsir, ölü toprağın yağmurla canlanmasını insanın ölümden sonra dirilmesine benzeterek akla yakın bir kıyas sunduğunu belirtir; ayet karmaşık bir açıklamaya girmeden bu basit gözlemi delil gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:57",
+   "meal": "Onunla ölmüş bir beldeye su indirir, onunla türlü türlü meyveler çıkarırız. İşte ölüleri de böyle çıkaracağız.",
+   "baglanti": "A'râf suresindeki bu ayet, Kaf 11'deki 'kezâlikel hurûc' (çıkış işte böyledir) ifadesiyle aynı kıyası, benzer kelimelerle kurar."
+  },
+  {
+   "ref": "30:19",
+   "meal": "Diriyi ölüden, ölüyü diriden çıkarır; yeryüzünü öldükten sonra diriltir. İşte siz de böyle çıkarılacaksınız.",
+   "baglanti": "Rûm suresi de yerin dirilmesini insanın dirilmesine kıyaslar; Kaf 11'deki 'çıkış' teması burada da tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan diriliş delilidir; yağmurla ölü toprağın canlanması, insanın öldükten sonra dirilmesine örnek gösterilir.",
+  "Günlük hayatta her bahar kuruyan bir toprağın yeniden yeşermesini görmek, aslında her yıl tekrarlanan küçük bir 'diriliş' örneğidir; bunu fark etmek imanı somutlaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğadaki dirilişi izle",
+   "aciklama": "Bugün kuru bir toprağın veya bitkinin canlanma sürecini fark et."
+  },
+  {
+   "baslik": "Kıyası düşün",
+   "aciklama": "Bugün 'ölü toprak nasıl dirilirse ben de öyle dirileceğim' cümlesini içinden bir kez söyle."
+  },
+  {
+   "baslik": "Şüpheni sorgula",
+   "aciklama": "İmkânsız gördüğün bir konuda, doğada gördüğün bir örnekle kıyas kurmayı dene."
+  }
+ ],
+ "bugununAdimi": "Bugün bir bitkinin yeşermesini gözlemle ve bunu diriliş inancınla ilişkilendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/11"
+  }
+ ]
+}

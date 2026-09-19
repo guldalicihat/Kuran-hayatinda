@@ -1,0 +1,117 @@
+{
+ "sure": 50,
+ "ayet": 44,
+ "durum": "taslak",
+ "meal": "O gün yer onlardan yarılıp ayrılır, hızla [çıkarlar]; bu, bize göre kolay bir toplanmadır.",
+ "mealNotu": "Fiilin öznesi bağlamdan anlaşıldığı için '[çıkarlar]' köşeli parantezle eklendi. 'Hasr' kökü toplama, bir araya getirmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "تَشَقَّقُ",
+   "okunus": "teşekkaku",
+   "kok": "شقق",
+   "kokAnlam": "yarılma, çatlama",
+   "karsilik": "yarılır"
+  },
+  {
+   "kelime": "ٱلْأَرْضُ",
+   "okunus": "el'erdu",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yer"
+  },
+  {
+   "kelime": "عَنْهُمْ",
+   "okunus": "anhüm",
+   "kok": "—",
+   "kokAnlam": "onlardan (edat)",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "سِرَاعًا",
+   "okunus": "sirâan",
+   "kok": "سرع",
+   "kokAnlam": "hız, çabukluk",
+   "karsilik": "hızla"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "işaret (bu)",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "حَشْرٌ",
+   "okunus": "haşrun",
+   "kok": "حشر",
+   "kokAnlam": "toplama, bir araya getirme",
+   "karsilik": "bir toplanmadır"
+  },
+  {
+   "kelime": "عَلَيْنَا",
+   "okunus": "aleynâ",
+   "kok": "—",
+   "kokAnlam": "bize göre (edat)",
+   "karsilik": "bize göre"
+  },
+  {
+   "kelime": "يَسِيرٌ",
+   "okunus": "yesîrun",
+   "kok": "يسر",
+   "kokAnlam": "kolaylık",
+   "karsilik": "kolay"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kıyamet sahnesi somutlaşır: yer yarılır, insanlar hızla topraktan çıkar. Ayet bunu Allah için 'kolay bir toplanma' olarak niteler; bu, 15. ve 38. ayetlerdeki güç ve sınırsızlık temasının bir devamıdır.",
+  "'Yesîr' (kolay) kelimesi, dirilişin insan için ne kadar büyük görünürse görünsün Allah için hiçbir zorluk taşımadığını vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "70:43",
+   "meal": "O gün onlar kabirlerinden hızla çıkarlar; sanki dikili taşlara doğru koşuyorlarmış gibi.",
+   "baglanti": "Meâric suresi de kabirden çıkışın hızını anlatır; Kaf 44'teki 'sirâan' (hızla) kelimesiyle aynı sahneyi tasvir eder."
+  },
+  {
+   "ref": "64:7",
+   "meal": "...De ki: Hayır, Rabbime andolsun, mutlaka diriltileceksiniz, sonra yaptıklarınız size haber verilecektir. Bu, Allah'a göre kolaydır.",
+   "baglanti": "Teğâbün suresi de dirilişin Allah için kolay olduğunu bildirir; Kaf 44'teki 'yesîr' (kolay) ifadesiyle aynı vurguyu taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan dirilişin kolaylığıdır; insan için büyük görünen bu olay Allah için sıradan bir iştir.",
+  "Günlük hayatta, kendi gözümüzde zor görünen bir şeyin Allah'ın gücü karşısında kolay olduğunu bilmek umut ve güven verir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zorluğu büyütme",
+   "aciklama": "Bugün kendine zor görünen bir işi, Allah'a güvenerek küçült."
+  },
+  {
+   "baslik": "Kolaylığa güven",
+   "aciklama": "Çözümsüz gördüğün bir konuda bir çıkış yolunun mümkün olduğuna inan."
+  },
+  {
+   "baslik": "Umutlu kal",
+   "aciklama": "Bugün, bir gün her şeyin yeniden düzeneceği bilinciyle umutlu kal."
+  }
+ ],
+ "bugununAdimi": "Bugün sana zor görünen bir işi, Allah'a güvenerek adım adım küçük parçalara böl.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=44"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/44"
+  }
+ ]
+}

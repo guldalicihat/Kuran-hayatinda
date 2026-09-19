@@ -1,0 +1,117 @@
+{
+ "sure": 50,
+ "ayet": 30,
+ "durum": "taslak",
+ "meal": "O gün cehenneme 'doldun mu?' deriz; o da 'daha var mı?' der.",
+ "mealNotu": "'İmtile' kökü dolmayı, 'mezîd' kökü fazlalığı, artmayı anlatır. Ayet bu çarpıcı diyaloğu kendi ifadesiyle, yorum katmadan aktarır.",
+ "kokler": [
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "نَقُولُ",
+   "okunus": "nekûlü",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "deriz"
+  },
+  {
+   "kelime": "لِجَهَنَّمَ",
+   "okunus": "licehenneme",
+   "kok": "—",
+   "kokAnlam": "özel isim (cehennem)",
+   "karsilik": "cehenneme"
+  },
+  {
+   "kelime": "هَلْ",
+   "okunus": "heli",
+   "kok": "—",
+   "kokAnlam": "soru edatı",
+   "karsilik": "mi"
+  },
+  {
+   "kelime": "ٱمْتَلَأْتِ",
+   "okunus": "imtele'ti",
+   "kok": "ملأ",
+   "kokAnlam": "dolma",
+   "karsilik": "doldun"
+  },
+  {
+   "kelime": "وَتَقُولُ",
+   "okunus": "ve tekûlü",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "ve der"
+  },
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "soru edatı",
+   "karsilik": "var mı"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat (-den)",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "مَّزِيدٍ",
+   "okunus": "mezîdin",
+   "kok": "زيد",
+   "kokAnlam": "artma, fazlalık",
+   "karsilik": "daha"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, cehennemin doluluğuna dair çarpıcı bir sahneyi kısa bir diyalogla anlatır; cehennem sorulduğunda 'daha var mı?' diye cevap verir. Bu, cehennemin genişliğini ve alacağı kişi sayısının çokluğunu vurgulayan bir ifadedir.",
+  "Klasik tefsir bu ifadeyi farklı biçimlerde yorumlasa da, ayetin kendisi bunu kısa ve doğrudan bir cümleyle bildirir; ayrıntılı bir tasvire girilmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "32:13",
+   "meal": "...Ama benden 'cehennemi hem cinlerden hem insanlardan tamamen dolduracağım' sözü kesinleşmiştir.",
+   "baglanti": "Secde suresi de cehennemin dolacağına dair kesin bir söz verildiğini bildirir; Kaf 30'daki 'doldun mu' sorusu bu sözün gerçekleşme anını tasvir eder."
+  },
+  {
+   "ref": "11:119",
+   "meal": "...Andolsun, cehennemi bütünüyle cinlerden ve insanlardan dolduracağım.",
+   "baglanti": "Hûd suresi de aynı sözü tekrarlar; Kaf 30'daki sahne bu vaadin bir tasviridir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan ahiretteki bir sahnedir; cehennemin büyüklüğüne ve inkârcı sayısının çokluğuna dikkat çeker.",
+  "Günlük hayatta bu sahneyi hatırlamak, kişiyi kendi tercihlerinin nereye götürebileceği konusunda düşünmeye sevk eder; korkutmak değil uyarmak amacıyla."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sonucu hayal etme, önle",
+   "aciklama": "Bugün yanlış bir yola girmeden önce sonucunu düşün."
+  },
+  {
+   "baslik": "Kalabalığa uyma",
+   "aciklama": "Bugün çoğunluğun yaptığı ama yanlış olan bir şeye katılmaktan kaçın."
+  },
+  {
+   "baslik": "Ciddiyetle düşün",
+   "aciklama": "Bu ayeti okurken hissettiğin ciddiyetin bir eylemde bugün karşılığını bulmasını sağla."
+  }
+ ],
+ "bugununAdimi": "Bugün yanlış olduğunu bildiğin bir davranışı bırakmak için tek bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=30"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/30"
+  }
+ ]
+}

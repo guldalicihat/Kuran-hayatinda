@@ -1,0 +1,89 @@
+{
+ "sure": 50,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "Uzun boylu hurma ağaçlarını da [bitirdik]; onların üst üste dizili tomurcukları vardır.",
+ "mealNotu": "Fiil bir önceki ayetten devam ettiği için '[bitirdik]' köşeli parantezle eklendi. 'Bâsikât' kökü yükseklik ve uzun boyluluğu, 'nadîd' kökü düzenli, üst üste dizilmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَٱلنَّخْلَ",
+   "okunus": "ven nahle",
+   "kok": "نخل",
+   "kokAnlam": "hurma ağacı",
+   "karsilik": "hurma ağaçlarını da"
+  },
+  {
+   "kelime": "بَاسِقَٰتٍ",
+   "okunus": "bâsikâtin",
+   "kok": "بسق",
+   "kokAnlam": "yükseklik, uzun boyluluk",
+   "karsilik": "uzun boylu"
+  },
+  {
+   "kelime": "لَّهَا",
+   "okunus": "lehâ",
+   "kok": "—",
+   "kokAnlam": "onların (zamir)",
+   "karsilik": "onların"
+  },
+  {
+   "kelime": "طَلْعٌ",
+   "okunus": "tal'un",
+   "kok": "طلع",
+   "kokAnlam": "tomurcuk, çıkan salkım",
+   "karsilik": "tomurcukları"
+  },
+  {
+   "kelime": "نَّضِيدٌ",
+   "okunus": "nadîdün",
+   "kok": "نضد",
+   "kokAnlam": "düzenli, üst üste dizilmiş",
+   "karsilik": "üst üste dizili"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bereketli yağmurun bitirdikleri arasında özellikle hurma ağacı öne çıkarılır; uzun gövdesi ve düzenli salkımlarıyla dikkat çekici bir örnektir.",
+  "Bu ayrıntılı tasvir dinleyicinin zihninde somut bir görüntü oluşturur; Arap yarımadasında tanıdık olan hurma ağacı, yaratılıştaki düzenin gözle görülür bir kanıtı olarak sunulur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "55:11",
+   "meal": "Orada meyveler ve salkımlı hurma ağaçları vardır.",
+   "baglanti": "Rahmân suresi de hurma ağacının salkımlarına dikkat çeker; Kaf 10'daki 'tal'un nadîd' (üst üste dizili tomurcuk) tasviriyle aynı görüntüyü paylaşır."
+  },
+  {
+   "ref": "6:99",
+   "meal": "Gökten su indiren O'dur; onunla her bitkiyi, ondan da salkım salkım hurma tomurcuklarını çıkarırız.",
+   "baglanti": "En'âm suresi hurmanın tomurcuklarını da aynı yağmur-bitki zincirinin parçası olarak sayar; Kaf 9-10 ile aynı sırayı izler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu hurma ağacının düzenli ve bereketli yapısıdır; bu, seyredenin dikkatini çeken somut bir örnektir.",
+  "Günlük hayatta karşılaştığımız bir ağacın, bir meyvenin yapısındaki düzeni fark etmek, tesadüf değil kasıtlı bir tasarımı hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ağacı incele",
+   "aciklama": "Bugün bir ağacın dallarındaki veya meyvelerindeki düzeni fark et."
+  },
+  {
+   "baslik": "Bir meyveyi şükranla ye",
+   "aciklama": "Bugün yediğin bir meyveyi yerken kısa bir şükür cümlesi kur."
+  },
+  {
+   "baslik": "Detaya bak",
+   "aciklama": "Bugün alışılmış bir bitkiye, ilk kez görüyormuş gibi dikkatlice bak."
+  }
+ ],
+ "bugununAdimi": "Bugün bir meyveyi yerken onun yetişme sürecini birkaç saniye düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/10"
+  }
+ ]
+}

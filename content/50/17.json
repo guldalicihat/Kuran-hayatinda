@@ -1,0 +1,110 @@
+{
+ "sure": 50,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "Hani sağda ve solda oturan iki alıcı (her söylediğini) alır.",
+ "mealNotu": "'Mütelekkıyân' kökü almayı, karşılamayı anlatır; burada meleklerin insanın söylediklerini almasını, kaydetmesini ifade eder. Ayet meleklerin nasıl yazdığına dair ayrıntı vermez; burada da ayetin kendi ifadesiyle sınırlı kalınmıştır.",
+ "kokler": [
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "zaman edatı (hani)",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "يَتَلَقَّى",
+   "okunus": "yetelekkâ",
+   "kok": "لقي",
+   "kokAnlam": "alma, karşılama",
+   "karsilik": "alır"
+  },
+  {
+   "kelime": "ٱلْمُتَلَقِّيَانِ",
+   "okunus": "elmütelekkıyâni",
+   "kok": "لقي",
+   "kokAnlam": "alma, karşılama",
+   "karsilik": "iki alıcı"
+  },
+  {
+   "kelime": "عَنِ",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "edat (-den)",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْيَمِينِ",
+   "okunus": "elyemîni",
+   "kok": "يمن",
+   "kokAnlam": "sağ taraf",
+   "karsilik": "sağda"
+  },
+  {
+   "kelime": "وَعَنِ",
+   "okunus": "ve ani",
+   "kok": "—",
+   "kokAnlam": "edat (ve -den)",
+   "karsilik": "ve -de"
+  },
+  {
+   "kelime": "ٱلشِّمَالِ",
+   "okunus": "eşşimâli",
+   "kok": "شمل",
+   "kokAnlam": "sol taraf",
+   "karsilik": "solda"
+  },
+  {
+   "kelime": "قَعِيدٌ",
+   "okunus": "kaîdün",
+   "kok": "قعد",
+   "kokAnlam": "oturma",
+   "karsilik": "oturan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, insanın nefsinin fısıltısını bile bilen Allah'ın, ayrıca iki melek görevlendirdiğini bildirir; bunlar sağda ve solda oturarak insanın söylediklerini kaydeder. Bu gaybî bir konudur; ayetin kendi ifadesiyle sınırlı aktarılmalıdır.",
+  "'Kaîd' (oturan) kelimesi, bu görevlilerin sürekli, hiç ayrılmadan bu görevde olduğunu ima eder; nasıl yazdıkları gibi ayrıntılar Kur'an'da belirtilmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "82:11",
+   "meal": "Değerli yazıcılar (kâtiplerdir onlar).",
+   "baglanti": "İnfitâr suresi de insanın üzerinde kayıt tutan melekleri 'değerli yazıcılar' olarak tanımlar; Kaf 17'deki 'sağda ve solda oturan iki alıcı' ile aynı görevlilere işaret eder."
+  },
+  {
+   "ref": "43:80",
+   "meal": "Yoksa onlar, bizim sırlarını ve gizli konuşmalarını duymadığımızı mı sanıyorlar? Hayır, yanlarındaki elçilerimiz (melekler) yazmaktadır.",
+   "baglanti": "Zuhruf suresi de meleklerin insanın gizli konuşmalarını bile kaydettiğini bildirir; Kaf 17-18'deki kayıt temasıyla örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, insanın sözlerinin görevli melekler tarafından kaydedilmesidir.",
+  "Günlük hayatta söylediğin her sözün bir yerde kayıtlı olduğunu bilmek, dile getirdiğin şeylere karşı daha dikkatli olmayı sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü tart",
+   "aciklama": "Bugün söylediğin bir sözü söylemeden önce bir kez düşün."
+  },
+  {
+   "baslik": "Boş sözden kaçın",
+   "aciklama": "Bugün gereksiz, faydasız bir konuşmayı azaltmayı dene."
+  },
+  {
+   "baslik": "Güzel söz seç",
+   "aciklama": "Bugün birine söyleyeceğin bir sözün güzel ve doğru olmasına özen göster."
+  }
+ ],
+ "bugununAdimi": "Bugün bir gün boyunca ağzından çıkan sözlere, kaydedildiğini bilerek daha dikkatli ol.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/17"
+  }
+ ]
+}

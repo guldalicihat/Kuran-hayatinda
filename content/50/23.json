@@ -1,0 +1,96 @@
+{
+ "sure": 50,
+ "ayet": 23,
+ "durum": "taslak",
+ "meal": "Yanındaki (görevli) der ki: İşte yanımdaki hazır olan budur.",
+ "mealNotu": "'Karîn' kökü yakınlık ve eşlik etmeyi anlatır; burada kayıt tutan görevliyi ifade eder. Ayet, bu görevlinin 21. ayetteki şahitle aynı olup olmadığını açıkça belirtmez.",
+ "kokler": [
+  {
+   "kelime": "وَقَالَ",
+   "okunus": "ve kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "قَرِينُهُۥ",
+   "okunus": "karînühû",
+   "kok": "قرن",
+   "kokAnlam": "yakınlık, eşlik etme",
+   "karsilik": "yanındaki"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "işaret (işte bu)",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri (şey)",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "لَدَىَّ",
+   "okunus": "ledeyye",
+   "kok": "—",
+   "kokAnlam": "yanımdaki (yer)",
+   "karsilik": "yanımdaki"
+  },
+  {
+   "kelime": "عَتِيدٌ",
+   "okunus": "atîdün",
+   "kok": "عتد",
+   "kokAnlam": "hazır bulunma",
+   "karsilik": "hazır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Mahşer sahnesinde, kişiye eşlik eden görevli, elindeki kaydı hazır olarak sunar. Bu, önceki ayetlerdeki kayıt temasının devamıdır.",
+  "Ayet kısa ve sade bir cümleyle, kaydın eksiksiz ve hazır olduğunu bildirir; ayrıntıya girmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:13",
+   "meal": "Her insanın amel defterini boynuna doladık; kıyamet günü onun için açılmış bulacağı bir kitap çıkarırız.",
+   "baglanti": "İsrâ suresi de her insanın amellerinin kayıtlı, hazır bir kitap halinde önüne konacağını bildirir; Kaf 23'teki 'yanımdaki hazır' ifadesiyle aynı gerçeği anlatır."
+  },
+  {
+   "ref": "69:19",
+   "meal": "Kitabı sağından verilen kişi der ki: Alın, kitabımı okuyun!",
+   "baglanti": "Hâkka suresi kaydın kişiye teslim edildiği anı anlatır; Kaf 23'teki hazır kayıt bu teslimin bir öncesidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, kişinin amellerinin eksiksiz kaydedilip o gün hazır olarak sunulmasıdır.",
+  "Günlük hayatta, bugün yaptığın işlerin bir gün önüne konacağını bilmek, işini savsaklamadan, eksiksiz yapmaya teşvik eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Eksiksiz yap",
+   "aciklama": "Bugün yarım bıraktığın bir işi tamamla."
+  },
+  {
+   "baslik": "Kaydını düşün",
+   "aciklama": "Bugün yaptığın bir işi, bir gün karşına çıkacakmış gibi özenle yap."
+  },
+  {
+   "baslik": "Şimdi hesaplaş",
+   "aciklama": "Akşam, bugün yaptıkların üzerine kısaca kendi kendine hesap sor."
+  }
+ ],
+ "bugununAdimi": "Bugün akşam, günün kısa bir muhasebesini yap ve bir cümleyle özetle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=23"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/23"
+  }
+ ]
+}

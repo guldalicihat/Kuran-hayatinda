@@ -1,0 +1,103 @@
+{
+ "sure": 50,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Öldüğümüzde ve toprak olduğumuzda mı [yeniden döndürüleceğiz]? Bu, uzak bir dönüştür.",
+ "mealNotu": "Ayet, müşriklerin sözünün devamıdır; soru kalıbını tamamlamak için '[yeniden döndürüleceğiz]' köşeli parantezle eklendi. 'Rec'un' kökü zaten 'dönüş' anlamını taşıdığından ayrıca fiil eklemeye gerek kalmadı; 'beîd' kökü ise uzaklığı, imkânsız görülmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَءِذَا",
+   "okunus": "eizâ",
+   "kok": "—",
+   "kokAnlam": "zaman edatı (...dığında)",
+   "karsilik": "...dığımızda mı"
+  },
+  {
+   "kelime": "مِتْنَا",
+   "okunus": "mitnâ",
+   "kok": "موت",
+   "kokAnlam": "ölme",
+   "karsilik": "öldük"
+  },
+  {
+   "kelime": "وَكُنَّا",
+   "okunus": "ve künnâ",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ve olduk"
+  },
+  {
+   "kelime": "تُرَابًا",
+   "okunus": "türâben",
+   "kok": "ترب",
+   "kokAnlam": "toprak",
+   "karsilik": "toprak"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "işaret (bu, şu)",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "رَجْعٌۢ",
+   "okunus": "rac'un",
+   "kok": "رجع",
+   "kokAnlam": "geri dönme",
+   "karsilik": "bir dönüştür"
+  },
+  {
+   "kelime": "بَعِيدٌ",
+   "okunus": "beîdün",
+   "kok": "بعد",
+   "kokAnlam": "uzaklık",
+   "karsilik": "uzak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, müşriklerin dirilişe karşı çıkışını doğrudan aktarır: öldükten ve toprak olduktan sonra tekrar var olmayı akıl dışı, imkânsıza yakın bulurlar. 'Beîd' kökü, bu dönüşü zihinlerince ulaşılmaz görmelerini anlatır.",
+  "Sure, bu itirazı önce aktarır, cevabını ise ilerleyen ayetlerde doğa örnekleriyle ve 15. ayetteki doğrudan soruyla verir. Klasik tefsir, bu ayeti müşriklerin dirilişi 'akıl almaz' bulduğu bir söz olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:49",
+   "meal": "Dediler ki: Biz kemik ve ufalanmış toprak olduğumuzda mı, gerçekten yeni bir yaratılışla diriltileceğiz?",
+   "baglanti": "İsrâ suresindeki bu itiraz da aynı 'toprak olduktan sonra dönüş' sorusunu, benzer kelimelerle dile getirir."
+  },
+  {
+   "ref": "79:11",
+   "meal": "'Çürümüş kemikler olduğumuz halde mi?' derler.",
+   "baglanti": "Nâziât suresindeki bu itiraz, Kaf 3'teki sorudaki aynı inkârı, dirilişi imkânsız görme tavrını yansıtır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan ahiret inancına yönelik bir itirazdır; kişi toprak olduktan sonra tekrar var olmayı akıl dışı bulur.",
+  "Bugün, ölümün ardından hesap verileceği bilinciyle yaşamak davranışları değiştirir. Bu ayet, o bilinci reddeden bir tavrı örnekler ve okuyucuyu tam tersi bir tutuma, yani ölümü ciddiye almaya çağırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ölümü hatırla",
+   "aciklama": "Bugün birkaç dakika ayırıp öldükten sonra ne ile karşılaşacağını düşün."
+  },
+  {
+   "baslik": "'Olamaz' dediğini sorgula",
+   "aciklama": "Kendi aklınca imkânsız gördüğün bir konuda, bilginin sınırlı olabileceğini kabul et."
+  },
+  {
+   "baslik": "Sonuca bakarak karar ver",
+   "aciklama": "Bugün yaptığın bir işi sadece dünyadaki sonucuyla değil, ahiretteki karşılığıyla da değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün ölüm ve sonrası hakkında birkaç dakika sessizce düşün, tek cümleyle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/3"
+  }
+ ]
+}

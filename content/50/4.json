@@ -1,0 +1,117 @@
+{
+ "sure": 50,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Toprağın onlardan neyi eksilttiğini elbette bilmişizdir; katımızda koruyucu bir kitap vardır.",
+ "mealNotu": "'Hafîz' kökü hem 'koruyan' hem 'iyi korunmuş' anlamına gelebilir; burada her şeyin kayıt altında tutulduğuna işaret eden 'koruyucu' anlamı tercih edildi. Ayet gaybî bir bilgiyi bildirir; sade aktarılmıştır.",
+ "kokler": [
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "kesinlik edatı",
+   "karsilik": "elbette"
+  },
+  {
+   "kelime": "عَلِمْنَا",
+   "okunus": "alimnâ",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilmişizdir"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri (ne)",
+   "karsilik": "neyi"
+  },
+  {
+   "kelime": "تَنقُصُ",
+   "okunus": "tenkusu",
+   "kok": "نقص",
+   "kokAnlam": "eksilme, azalma",
+   "karsilik": "eksiltiyor"
+  },
+  {
+   "kelime": "ٱلْأَرْضُ",
+   "okunus": "el'erdu",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "toprak"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "onlardan (edat+zamir)",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "وَعِندَنَا",
+   "okunus": "ve indenâ",
+   "kok": "عند",
+   "kokAnlam": "yanında olma, kat",
+   "karsilik": "ve katımızda"
+  },
+  {
+   "kelime": "كِتَٰبٌ",
+   "okunus": "kitâbün",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kayıt",
+   "karsilik": "bir kitap"
+  },
+  {
+   "kelime": "حَفِيظٌۢ",
+   "okunus": "hafîzun",
+   "kok": "حفظ",
+   "kokAnlam": "koruma, saklama",
+   "karsilik": "koruyucu"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetlerde müşriklerin toprak olduktan sonra dirilmeyi imkânsız görmesinden sonra bu ayet, toprağın bedenden neyi eksilttiğini Allah'ın bildiğini söyler. 'Tenkusu' kökü eksilmeyi, dağılmayı anlatır; beden çürüyüp dağılsa da bu bilgi Allah katında kaybolmaz.",
+  "'Kitâbun hafîz' ifadesi, Allah katında her şeyin kayıtlı olduğuna işaret eder; bu gaybî bir konudur ve ayetin kendi ifadesiyle sınırlı aktarılmalıdır. Ayet, dirilişin Allah'ın bilgisi dışında olmadığını, dolayısıyla imkânsız görülemeyeceğini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:12",
+   "meal": "Şüphesiz biz ölüleri diriltiriz; onların yaptıklarını ve bıraktıkları eserleri yazarız. Biz her şeyi apaçık bir kitapta saymışızdır.",
+   "baglanti": "Yâsîn suresindeki bu ayet de 'kitâb' ifadesiyle her şeyin kayıt altında olduğunu bildirir; Kaf 4'teki 'koruyucu kitap' ile aynı bilgiye işaret eder."
+  },
+  {
+   "ref": "34:3",
+   "meal": "Göklerde ve yerde zerre ağırlığınca bir şey Rabbinden gizli kalmaz; bundan daha küçüğü de daha büyüğü de apaçık bir kitaptadır.",
+   "baglanti": "Sebe suresi, Allah'ın bilgisinin kapsamını en küçük ayrıntıya kadar anlatır; Kaf 4'teki toprağın eksilttiğini bilme de bu kapsamlı ilmin bir örneğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet doğrudan Allah'ın her şeyi bilme ve kaydetme kudretini anlatır; bedenin çürümesi bu bilgiyi değiştirmez.",
+  "Günlük hayatta, yaptığın hiçbir şeyin kaybolmadığı bilinciyle hareket etmek davranışları etkiler. Gözden kaybolan bir şeyin Allah katında kayıtlı olduğunu hatırlamak sorumluluk duygusunu güçlendirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaydı hatırla",
+   "aciklama": "Bugün kimsenin görmediğini düşündüğün bir anda, aslında kayıt altında olduğunu hatırla."
+  },
+  {
+   "baslik": "Unutulmayacağını bil",
+   "aciklama": "Yaptığın küçük bir iyiliğin boşa gitmediğini düşünerek bugün bir iyilik yap."
+  },
+  {
+   "baslik": "Kaygını bırak",
+   "aciklama": "Kaybettiğini sandığın bir şeyin Allah katında bilindiğini düşünerek içini rahatlat."
+  }
+ ],
+ "bugununAdimi": "Bugün kimsenin görmediği bir anda da doğru davranmaya özen göster.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/4"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "sure": 50,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Onlardan önce Nûh kavmi, Ress halkı ve Semûd da yalanladı.",
+ "mealNotu": "'Ashâbü'r-Ress' özel bir topluluk adıdır; kimliği hakkında Kur'an ayrıntı vermez, bu yüzden sade 'Ress halkı' olarak aktarıldı.",
+ "kokler": [
+  {
+   "kelime": "كَذَّبَتْ",
+   "okunus": "kezzebet",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanladı"
+  },
+  {
+   "kelime": "قَبْلَهُمْ",
+   "okunus": "kablehüm",
+   "kok": "قبل",
+   "kokAnlam": "önce, öncesi",
+   "karsilik": "onlardan önce"
+  },
+  {
+   "kelime": "قَوْمُ",
+   "okunus": "kavmü",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "kavmi"
+  },
+  {
+   "kelime": "نُوحٍ",
+   "okunus": "nûhin",
+   "kok": "—",
+   "kokAnlam": "özel isim (Nûh)",
+   "karsilik": "Nûh'un"
+  },
+  {
+   "kelime": "وَأَصْحَٰبُ",
+   "okunus": "ve ashâbü",
+   "kok": "صحب",
+   "kokAnlam": "arkadaşlık, birlikte olma",
+   "karsilik": "ve halkı"
+  },
+  {
+   "kelime": "ٱلرَّسِّ",
+   "okunus": "errassi",
+   "kok": "رسس",
+   "kokAnlam": "kuyu; özel yer/topluluk adı",
+   "karsilik": "Ress"
+  },
+  {
+   "kelime": "وَثَمُودُ",
+   "okunus": "ve semûdü",
+   "kok": "—",
+   "kokAnlam": "özel isim (Semûd)",
+   "karsilik": "ve Semûd"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, dirilişi inkâr edenlere karşı tarihten örnekler sıralamaya başlar. Nûh kavmi, Ress halkı ve Semûd, elçilerini yalanlayan geçmiş topluluklardan birkaçıdır; ayet burada isim düzeyinde anar, ayrıntılı kıssa vermez.",
+  "Bu liste sonraki ayetlerde devam eder; amaç, inkârın yeni bir tavır olmadığını, tarih boyunca tekrarlandığını göstermektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:38",
+   "meal": "Âd'ı, Semûd'u, Ress halkını ve bunlar arasında daha nice nesilleri de [helak ettik].",
+   "baglanti": "Furkan suresi de aynı toplulukları -Semûd ve Ress halkı- birlikte anar; Kaf 12-14'teki isim listesiyle örtüşür."
+  },
+  {
+   "ref": "26:105",
+   "meal": "Nûh kavmi de gönderilen elçileri yalanladı.",
+   "baglanti": "Şuarâ suresi Nûh kavminin yalanlamasını ayrı bir kıssa olarak anlatır; Kaf 12'de bu, diğer kavimlerle birlikte kısaca sayılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan tarihsel bir hatırlatmadır; farklı dönemlerde yaşamış topluluklar aynı hatayı, elçiyi yalanlamayı tekrarlamıştır.",
+  "Günlük hayatta başkalarının hatalarından ders çıkarmak, aynı hatayı tekrarlamaktan koruyabilir; bu ayet de bir uyarı biçiminde geçmişe bakmayı öğütler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir hatayı tekrarlama",
+   "aciklama": "Başkalarının düştüğü bir hatayı bugün kendi hayatında fark edip tekrarlamamaya çalış."
+  },
+  {
+   "baslik": "Tarihten ders çıkar",
+   "aciklama": "Bugün okuduğun bir haberde veya tarihte, tekrar eden bir hatayı fark et."
+  },
+  {
+   "baslik": "İnatla ısrar etme",
+   "aciklama": "Yanlış olduğunu bildiğin bir tutumda bugün ısrar etmemeyi dene."
+  }
+ ],
+ "bugununAdimi": "Bugün geçmişte yaptığın bir hatayı yazıp, onu tekrarlamamak için bir kural belirle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/12"
+  }
+ ]
+}

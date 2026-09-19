@@ -1,0 +1,103 @@
+{
+ "sure": 50,
+ "ayet": 41,
+ "durum": "taslak",
+ "meal": "Çağırıcının yakın bir yerden sesleneceği günü bekleyip dinle.",
+ "mealNotu": "'Nidâ' kökü seslenmeyi, çağırmayı anlatır. Ayet, bu çağrının kimden geldiğine dair ayrıntı vermez.",
+ "kokler": [
+  {
+   "kelime": "وَٱسْتَمِعْ",
+   "okunus": "vestemi'",
+   "kok": "سمع",
+   "kokAnlam": "işitme, kulak verme",
+   "karsilik": "dinle"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "يُنَادِ",
+   "okunus": "yünâdi",
+   "kok": "ندي",
+   "kokAnlam": "seslenme, çağırma",
+   "karsilik": "seslenir"
+  },
+  {
+   "kelime": "ٱلْمُنَادِ",
+   "okunus": "elmünâdi",
+   "kok": "ندي",
+   "kokAnlam": "seslenme, çağırma",
+   "karsilik": "çağırıcının"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat (-den)",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "مَّكَانٍ",
+   "okunus": "mekânin",
+   "kok": "كون",
+   "kokAnlam": "yer, mekân",
+   "karsilik": "yer"
+  },
+  {
+   "kelime": "قَرِيبٍ",
+   "okunus": "karîbin",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık",
+   "karsilik": "yakın"
+  }
+ ],
+ "neAnlatiyor": [
+  "Peygambere sabır ve tesbih emredildikten sonra ayet, kıyametin ikinci aşamasına geçer: bir çağırıcının yakın bir yerden sesleneceği gün. Bu, ikinci sûr üfürülüşüyle ilişkili bir sahnedir.",
+  "'Yakın bir yer' ifadesi, bu seslenişin herkes tarafından net duyulacağını, uzaktan gelen belirsiz bir ses olmadığını anlatır; ayet ayrıntıya girmeden bu kesinliği vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:53",
+   "meal": "O, sadece tek bir haykırıştır; bir de bakarsın hepsi toplanıp önümüze getirilmiştir.",
+   "baglanti": "Yâsîn suresi de kıyametin tek bir sesle, ani bir toplanmayla geleceğini anlatır; Kaf 41'deki 'yakın bir yerden seslenme' bu anın bir parçasıdır."
+  },
+  {
+   "ref": "79:13",
+   "meal": "O, sadece tek bir haykırıştır.",
+   "baglanti": "Nâziât suresi de kıyametin bir tek sesle geleceğini bildirir; Kaf 41'deki çağrı bu haykırışla aynı olaya işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan kıyametin bir sahnesidir; herkesin duyacağı bir çağrı gelecektir.",
+  "Günlük hayatta önemli bir çağrıyı kaçırmamak için dikkatli olmak gerekir; bu ayet, en büyük çağrının o gün geleceğini hatırlatarak bugünden hazırlıklı olmayı öğütler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Çağrıyı kaçırma",
+   "aciklama": "Bugün önemli bir sorumluluğu veya daveti savsaklamadan yerine getir."
+  },
+  {
+   "baslik": "Dinlemeyi öğren",
+   "aciklama": "Bugün bir uyarıyı gerçekten dinleyip anlamaya çalış."
+  },
+  {
+   "baslik": "Hazır ol",
+   "aciklama": "Beklenmedik bir haberi karşılamaya bugün zihnen hazır ol."
+  }
+ ],
+ "bugununAdimi": "Bugün bir çağrıya (görev, davet, uyarı) zamanında ve dikkatle karşılık ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=41"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/41"
+  }
+ ]
+}

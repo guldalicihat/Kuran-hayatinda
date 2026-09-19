@@ -1,0 +1,124 @@
+{
+ "sure": 50,
+ "ayet": 27,
+ "durum": "taslak",
+ "meal": "Yakını der ki: Rabbimiz, ben onu azdırmadım; fakat o zaten derin bir sapıklık içindeydi.",
+ "mealNotu": "Burada 'karîn' kökü, 23. ayetteki kayıt tutan görevliden farklı olarak, kişinin dünyadaki yakın arkadaşını veya şeytanını ifade eder; bağlam bunu gösterir. 'Tuğyân' kökü azgınlığı, sınırı aşmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "قَرِينُهُۥ",
+   "okunus": "karînühû",
+   "kok": "قرن",
+   "kokAnlam": "yakınlık, eşlik etme",
+   "karsilik": "yakını"
+  },
+  {
+   "kelime": "رَبَّنَا",
+   "okunus": "rabbenâ",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme",
+   "karsilik": "Rabbimiz"
+  },
+  {
+   "kelime": "مَآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk (-madım)",
+   "karsilik": "-madım"
+  },
+  {
+   "kelime": "أَطْغَيْتُهُۥ",
+   "okunus": "atğaytühû",
+   "kok": "طغي",
+   "kokAnlam": "azgınlık, sınırı aşma",
+   "karsilik": "onu azdırdım"
+  },
+  {
+   "kelime": "وَلَٰكِن",
+   "okunus": "ve lâkin",
+   "kok": "—",
+   "kokAnlam": "düzeltme edatı (fakat)",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat (içinde)",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ضَلَٰلٍۭ",
+   "okunus": "dalâlin",
+   "kok": "ضلل",
+   "kokAnlam": "sapıklık, yoldan çıkma",
+   "karsilik": "bir sapıklık"
+  },
+  {
+   "kelime": "بَعِيدٍ",
+   "okunus": "beîdin",
+   "kok": "بعد",
+   "kokAnlam": "uzaklık",
+   "karsilik": "derin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayette, cehenneme atılan kişinin dünyadaki yakınının (klasik tefsirde şeytan olarak açıklanır) kendini savunması aktarılır: onu ben azdırmadım, kendisi zaten sapıklık içindeydi.",
+  "Bu savunma, sorumluluğu kişinin kendi tercihine yükler; şeytanın sadece çağırdığını, zorlamadığını anlatan bir ilkeyi yansıtır. Ayet bu savunmayı aktarır, ayrıntısını vermez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "14:22",
+   "meal": "Şeytan der ki: ...Benim sizin üzerinizde hiçbir gücüm yoktu; ben sadece sizi çağırdım, siz de hemen bana uydunuz. Şimdi beni kınamayın, kendinizi kınayın.",
+   "baglanti": "İbrahim suresindeki bu sözler, Kaf 27'deki 'ben onu azdırmadım' savunmasının aynısıdır; şeytan sorumluluğu tamamen kişiye bırakır."
+  },
+  {
+   "ref": "15:42",
+   "meal": "Şüphesiz kullarım üzerinde senin bir gücün yoktur; ancak sana uyan azgınlar müstesna.",
+   "baglanti": "Hicr suresi de şeytanın samimi kullar üzerinde zorlayıcı bir gücü olmadığını bildirir; Kaf 27'deki savunmayı destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan sorumluluğun kime ait olduğudur; şeytan çağırır ama seçim insana aittir.",
+  "Günlük hayatta bir yanlışı 'beni yönlendirdiler' diyerek başkasına yıkmak kolay bir kaçıştır; bu ayet, son kararın kendimize ait olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sorumluluğunu üstlen",
+   "aciklama": "Bugün bir hatanı başkasına yıkmadan kabul et."
+  },
+  {
+   "baslik": "Çağrıya kapılma",
+   "aciklama": "Bugün seni kötü bir işe teşvik eden bir düşünceye 'hayır' de."
+  },
+  {
+   "baslik": "Seçimini hatırla",
+   "aciklama": "Bir kararında, son sözün kendine ait olduğunu bugün hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün bir hatanı, başka birini suçlamadan kendi seçimin olarak kabul et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=27"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/27"
+  }
+ ]
+}

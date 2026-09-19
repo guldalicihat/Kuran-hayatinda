@@ -1,0 +1,82 @@
+{
+ "sure": 50,
+ "ayet": 25,
+ "durum": "taslak",
+ "meal": "Hayra çok engel olan, saldırgan, şüphe içinde olan [her nankörü].",
+ "mealNotu": "Bu ayet, 24. ayetteki 'keffârin anîd' tamlamasının devamı niteliğindedir; süreklilik için '[her nankörü]' köşeli parantezle eklendi. 'Mennâ' kökü engellemeyi, 'mürîb' kökü kuşku uyandırmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "مَّنَّاعٍ",
+   "okunus": "mennâin",
+   "kok": "منع",
+   "kokAnlam": "engelleme, alıkoyma",
+   "karsilik": "çok engel olan"
+  },
+  {
+   "kelime": "لِّلْخَيْرِ",
+   "okunus": "lilhayri",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "hayra"
+  },
+  {
+   "kelime": "مُعْتَدٍ",
+   "okunus": "mü'tedin",
+   "kok": "عدو",
+   "kokAnlam": "haddi aşma, saldırganlık",
+   "karsilik": "saldırgan"
+  },
+  {
+   "kelime": "مُّرِيبٍ",
+   "okunus": "mürîbin",
+   "kok": "ريب",
+   "kokAnlam": "şüphe, kuşku uyandırma",
+   "karsilik": "şüphe içinde olan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette cehenneme atılması emredilen kişinin nitelikleri burada sıralanır: hayra engel olan, haddi aşan, kuşkucu biri. Bu sıfatlar, kişinin sadece inanmamakla kalmayıp başkalarının da iyilik yapmasına engel olduğunu gösterir.",
+  "'Mürîb' kelimesi, kişinin kendi şüphesini başkalarına da yaymaya çalıştığını ima eder; ayet bu üç sıfatla kısa ama yoğun bir tablo çizer."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:12",
+   "meal": "Hayra engel olan, saldırgan, günahkâr.",
+   "baglanti": "Kalem suresi neredeyse aynı sıfatları -hayra engel olma ve saldırganlık- art arda sayar; Kaf 25 ile aynı karakter tarifini paylaşır."
+  },
+  {
+   "ref": "45:32",
+   "meal": "'Kıyamet nedir bilmiyoruz, sadece zannediyoruz; kesin bir bilgimiz yok' derdiniz.",
+   "baglanti": "Câsiye suresi, Kaf 25'teki 'mürîb' (kuşkucu) sıfatının somut bir örneğini, kıyamet karşısındaki kesin bilgisizlik ve şüpheyi anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, hayra engel olan ve şüphe yayan bir karakter tarifidir.",
+  "Günlük hayatta başkasının iyilik yapmasına engel olmak veya gereksiz kuşku yaymak, ayetin uyardığı bu tavırlardan biridir; bunun tersini, hayra yardımcı ve güven veren biri olmayı hedeflemek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hayra destek ol",
+   "aciklama": "Bugün birinin yapmak istediği bir iyiliğe engel olmak yerine destek ol."
+  },
+  {
+   "baslik": "Şüphe yayma",
+   "aciklama": "Bugün temelsiz bir şüpheyi başkasına aktarmaktan kaçın."
+  },
+  {
+   "baslik": "Sınırını aşma",
+   "aciklama": "Bugün bir konuda haddini aşmadan, ölçülü davran."
+  }
+ ],
+ "bugununAdimi": "Bugün birinin yapacağı bir iyiliğe, engel olmak yerine bir şekilde katkı sağla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=50&verse=25"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/50/25"
+  }
+ ]
+}
