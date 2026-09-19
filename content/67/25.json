@@ -1,0 +1,103 @@
+{
+ "sure": 67,
+ "ayet": 25,
+ "durum": "taslak",
+ "meal": "'Doğru sözlü iseniz, bu vaat ne zaman?' derler.",
+ "mealNotu": "'Va'd' kökü وعد söz verme, vaat anlamındadır; burada kıyametin ve azabın gerçekleşme zamanını sorgulayan alaycı bir soru olarak geçer.",
+ "kokler": [
+  {
+   "kelime": "وَيَقُولُونَ",
+   "okunus": "ve yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "ve derler"
+  },
+  {
+   "kelime": "مَتَىٰ",
+   "okunus": "metâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne zaman",
+   "karsilik": "ne zaman"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "ٱلْوَعْدُ",
+   "okunus": "elva'dü",
+   "kok": "وعد",
+   "kokAnlam": "vaat, söz verme",
+   "karsilik": "vaat"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "صَٰدِقِينَ",
+   "okunus": "sâdikîne",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk",
+   "karsilik": "doğru sözlü"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerdeki yaratılış ve haşr hatırlatmalarına karşı inkârcıların tepkisini aktarır. 'Bu vaat ne zaman?' sorusu, kıyamet ve hesap gününün gerçekleşmesini alaycı bir tavırla sorgulamaktır; bu, inanmadıkları için bir kanıt talep ediyor gibi görünen ama aslında inkârlarını sürdürmek isteyen bir tutumdur.",
+  "'Doğru sözlü iseniz' ifadesi, uyarıcıya yöneltilen bir meydan okumadır. Ayet bu soruyu doğrudan yanıtlamaz; devam eden ayetlerde bu bilginin yalnız Allah katında olduğu bildirilecektir. Klasik tefsir bu tür soruları, inkârcıların sabırsızlığının ve inatlarının bir göstergesi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:48",
+   "meal": "Doğru sözlü iseniz, bu vaat ne zaman gerçekleşecek? derler.",
+   "baglanti": "Yâsîn suresindeki bu ayet, 67:25'teki soruyu neredeyse birebir aynı kelimelerle tekrarlar."
+  },
+  {
+   "ref": "21:38",
+   "meal": "Doğru sözlü iseniz, bu vaat ne zaman? derler.",
+   "baglanti": "Enbiyâ suresindeki bu ayet de aynı alaycı soruyu, aynı kalıpla tekrar eder; Kur'an'da inkârcıların ortak bir tavrı olarak sık geçer."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, inkârcıların kıyamet uyarısına karşı sabırsız ve alaycı bir tepki vermesidir; bu, iman etmeyen bir tavrın tipik bir örneğidir.",
+  "Günlük hayata taşınabilecek ders, bir gerçeği sadece zamanlamasını bilmediği için reddetmenin aceleci bir tutum olduğudur. Bazı şeylerin ne zaman gerçekleşeceğini bilmemek, onun gerçekleşmeyeceği anlamına gelmez."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sabırlı ol",
+   "aciklama": "Bugün sonucunu hemen göremediğin bir konuda sabırsızlanmadan bekle."
+  },
+  {
+   "baslik": "Zamanı sorgulama",
+   "aciklama": "Bir gerçeği, ne zaman olacağını bilmediğin için reddetmekten kaçın."
+  },
+  {
+   "baslik": "Hazırlıklı ol",
+   "aciklama": "Ne zaman geleceğini bilmediğin bir hesap günü için bugün küçük bir hazırlık yap."
+  }
+ ],
+ "bugununAdimi": "Bugün sonucunu hemen göremediğin bir konuda sabırsızlanmadan bekle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=67&verse=25"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/67/25"
+  }
+ ]
+}
