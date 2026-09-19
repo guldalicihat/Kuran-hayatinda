@@ -1,0 +1,138 @@
+{
+ "sure": 40,
+ "ayet": 55,
+ "durum": "taslak",
+ "meal": "Sabret; şüphesiz Allah'ın vaadi haktır. Günahın için bağışlanma dile ve akşam sabah Rabbini hamd ile tesbih et.",
+ "mealNotu": "Ayet, sabrı, istiğfarı ve zikri Peygamber'e birlikte emreder.",
+ "kokler": [
+  {
+   "kelime": "فَٱصْبِرْ",
+   "okunus": "fesbir",
+   "kok": "صبر",
+   "kokAnlam": "tutma, dayanma, sabretme",
+   "karsilik": "sabret"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "وَعْدَ",
+   "okunus": "va'de",
+   "kok": "وعد",
+   "kokAnlam": "söz verme, vaad",
+   "karsilik": "vaadi"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "حَقٌّ",
+   "okunus": "hakkun",
+   "kok": "حقق",
+   "kokAnlam": "gerçek, hak",
+   "karsilik": "haktır"
+  },
+  {
+   "kelime": "وَٱسْتَغْفِرْ",
+   "okunus": "vestağfir",
+   "kok": "غفر",
+   "kokAnlam": "bağışlama, örtme",
+   "karsilik": "bağışlanma dile"
+  },
+  {
+   "kelime": "لِذَنۢبِكَ",
+   "okunus": "lizembike",
+   "kok": "ذنب",
+   "kokAnlam": "günah, suç",
+   "karsilik": "günahın için"
+  },
+  {
+   "kelime": "وَسَبِّحْ",
+   "okunus": "ve sebbih",
+   "kok": "سبح",
+   "kokAnlam": "yüceltme, tesbih etme",
+   "karsilik": "tesbih et"
+  },
+  {
+   "kelime": "بِحَمْدِ",
+   "okunus": "bihamdi",
+   "kok": "حمد",
+   "kokAnlam": "övgü, hamd",
+   "karsilik": "hamd ile"
+  },
+  {
+   "kelime": "رَبِّكَ",
+   "okunus": "rabbike",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, Rab",
+   "karsilik": "Rabbini"
+  },
+  {
+   "kelime": "بِٱلْعَشِىِّ",
+   "okunus": "bil aşiyyi",
+   "kok": "عشو",
+   "kokAnlam": "akşam, günün sonu",
+   "karsilik": "akşam"
+  },
+  {
+   "kelime": "وَٱلْإِبْكَٰرِ",
+   "okunus": "vel ibkâri",
+   "kok": "بكر",
+   "kokAnlam": "erken vakit, sabah",
+   "karsilik": "ve sabah"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Peygamber'e doğrudan hitap eder: 'Sabret, Allah'ın vaadi haktır.' 'Sabr' kökü, dayanma ve direnmeyi anlatır. Ardından 'günahın için istiğfar et' emri gelir; bu, Peygamber'in de sürekli Allah'a yönelmesi gerektiğini gösterir.",
+  "Son bölümde 'akşam sabah Rabbini hamd ile tesbih et' emri, günün iki ucunu -sabah ve akşamı- zikir ve tesbihle çerçevelemeyi öğütler. Ayet böylece sabır, istiğfar ve zikri bir arada sunar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "20:130",
+   "meal": "Onların söylediklerine sabret; güneşin doğuşundan önce ve batışından önce Rabbini hamd ile tesbih et.",
+   "baglanti": "Sabah-akşam tesbih emri bu ayette de neredeyse aynı ifadeyle geçer."
+  },
+  {
+   "ref": "47:19",
+   "meal": "Bil ki Allah'tan başka ilah yoktur; günahın için de, mümin erkekler ve mümin kadınlar için de bağışlanma dile.",
+   "baglanti": "İstiğfar emri, bu ayette de Peygamber'e ve müminlere birlikte yöneltilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Peygamber'e verilen sabır, istiğfar ve sabah-akşam tesbih emridir.",
+  "Bugüne taşınan ders: Zorlu bir süreçte sabretmek, hatalarını fark edip bağışlanma dilemek ve günü zikirle çerçevelemek, güçlü bir alışkanlık haline getirilebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Günü zikirle aç ve kapat",
+   "aciklama": "Sabah ve akşam birkaç dakikanı kısa bir zikir veya duaya ayır."
+  },
+  {
+   "baslik": "İstiğfarı alışkanlık yap",
+   "aciklama": "Bugün fark ettiğin küçük bir hatan için hemen bağışlanma dile."
+  },
+  {
+   "baslik": "Zorlukta sabrı seç",
+   "aciklama": "Bugün karşılaştığın bir sıkıntıda öfkelenmek yerine sabretmeyi dene."
+  }
+ ],
+ "bugununAdimi": "Bugün sabah ve akşam en az birer kez kısa bir istiğfar ve tesbih çek.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=55"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/40/55"
+  }
+ ]
+}

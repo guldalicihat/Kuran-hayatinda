@@ -1,0 +1,103 @@
+{
+ "sure": 40,
+ "ayet": 63,
+ "durum": "taslak",
+ "meal": "Allah'ın ayetlerini inkâr edenler, işte böyle çevrilir.",
+ "mealNotu": "'Yechadûne' kökü جحد bile bile inkâr etmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "يُؤْفَكُ",
+   "okunus": "yü'fekü",
+   "kok": "أفك",
+   "kokAnlam": "saptırılma, çevrilme",
+   "karsilik": "çevrilir"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) -enler",
+   "karsilik": "-enler"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olanlar"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِ",
+   "okunus": "biâyâti",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet; ayet",
+   "karsilik": "ayetlerini"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "يَجْحَدُونَ",
+   "okunus": "yechadûne",
+   "kok": "جحد",
+   "kokAnlam": "bile bile inkâr etme",
+   "karsilik": "inkâr edenler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetteki 'nasıl çevriliyorsunuz' sorusuna cevap gibidir: 'Allah'ın ayetlerini inkâr edenler işte böyle çevrilir.' 'Yechadûne' kökü جحد, bile bile inkâr etmeyi anlatır; bu, bilgisizlikten değil bilerek reddetmekten kaynaklanan bir sapmadır.",
+  "Ayet kısa ama vurguludur; inkârın bir sonucu olarak 'çevrilme' (haktan uzaklaşma) tekrar edilir, bu da bir döngü olduğunu gösterir: bile bile inkâr eden, giderek daha çok haktan uzaklaşır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:33",
+   "meal": "Biliyoruz ki söyledikleri seni gerçekten üzüyor; ama onlar seni yalanlamıyor, zalimler bile bile Allah'ın ayetlerini inkâr ediyorlar.",
+   "baglanti": "'Yechadûn' kökü burada da bilerek inkârı anlatır; iki ayet aynı kavramı paylaşır."
+  },
+  {
+   "ref": "27:14",
+   "meal": "Vicdanları kabul ettiği halde, zulüm ve büyüklenmeyle onları inkâr ettiler; bak, bozguncuların sonu nasıl oldu.",
+   "baglanti": "Bilerek inkâr etmenin (cehadû) örneği burada Firavun ve kavmiyle somutlaştırılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Allah'ın ayetlerini bile bile inkâr edenlerin haktan uzaklaşmasıdır.",
+  "Bugüne taşınan ders: İçinde bildiğin bir doğruyu inatla reddetmek, seni giderek doğrudan daha da uzaklaştırır; fark ettiğin bir gerçeği inatla görmezden gelme."
+ ],
+ "bugun": [
+  {
+   "baslik": "İnat etme",
+   "aciklama": "Bugün haklı olduğunu gördüğün bir noktada, sırf inat için karşı çıkmaktan vazgeç."
+  },
+  {
+   "baslik": "Vicdanını dinle",
+   "aciklama": "İçten içe doğru bildiğin bir şeyi, dışarıda inkâr etme."
+  },
+  {
+   "baslik": "Döngüyü kır",
+   "aciklama": "Bir konuda yanlış olduğunu bile bile ısrar ediyorsan, bugün bu döngüyü kırmaya karar ver."
+  }
+ ],
+ "bugununAdimi": "Bugün inatla sürdürdüğün bir tutumu gözden geçir ve gerekirse değiştir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=63"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/40/63"
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "sure": 40,
+ "ayet": 62,
+ "durum": "taslak",
+ "meal": "İşte bu, Rabbiniz Allah'tır; her şeyin yaratıcısıdır. O'ndan başka ilah yoktur. Öyleyse nasıl [haktan] çevriliyorsunuz?",
+ "mealNotu": "'Tü'fekûne' kökü أفك gerçekten saptırılmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "ذَٰلِكُمُ",
+   "okunus": "zâlikümü",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah'tır"
+  },
+  {
+   "kelime": "رَبُّكُمْ",
+   "okunus": "rabbüküm",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, Rab",
+   "karsilik": "Rabbiniz"
+  },
+  {
+   "kelime": "خَٰلِقُ",
+   "okunus": "hâliku",
+   "kok": "خلق",
+   "kokAnlam": "yaratma, biçimlendirme",
+   "karsilik": "yaratıcısıdır"
+  },
+  {
+   "kelime": "كُلِّ",
+   "okunus": "külli",
+   "kok": "كلل",
+   "kokAnlam": "bütün, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "şeyin"
+  },
+  {
+   "kelime": "لَّآ",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yoktur",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "إِلَٰهَ",
+   "okunus": "ilâhe",
+   "kok": "أله",
+   "kokAnlam": "ilah",
+   "karsilik": "ilah"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) başka",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "O'ndan"
+  },
+  {
+   "kelime": "فَأَنَّىٰ",
+   "okunus": "feennâ",
+   "kok": "—",
+   "kokAnlam": "(soru) öyleyse nasıl",
+   "karsilik": "öyleyse nasıl"
+  },
+  {
+   "kelime": "تُؤْفَكُونَ",
+   "okunus": "tü'fekûne",
+   "kok": "أفك",
+   "kokAnlam": "saptırılma, çevrilme",
+   "karsilik": "çevriliyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerde sayılan nimetlerin ardından şu sonucu çıkarır: 'İşte bu, Rabbiniz Allah'tır.' 'Hâliku külli şey' (her şeyin yaratıcısı) ifadesi, O'ndan başka yaratıcı olmadığını, dolayısıyla O'ndan başka ilah da olamayacağını gösterir.",
+  "Son soru 'Nasıl çevriliyorsunuz?' ('tü'fekûne' kökü أفك, gerçekten saptırılmayı anlatır) insanların açık delillere rağmen haktan uzaklaşmasına şaşırma ifadesidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:102",
+   "meal": "İşte Rabbiniz Allah budur; O'ndan başka ilah yoktur, her şeyin yaratıcısıdır. Öyleyse O'na kulluk edin.",
+   "baglanti": "Bu ayet neredeyse aynı cümleyle, Allah'ın tekliğini ve yaratıcılığını birlikte bildirir."
+  },
+  {
+   "ref": "35:3",
+   "meal": "Allah'tan başka size gökten ve yerden rızık veren bir yaratıcı var mı? O'ndan başka ilah yoktur; öyleyse nasıl çevriliyorsunuz?",
+   "baglanti": "Ayetin son cümlesi, bu ayette birebir aynı şekilde tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, sayılan nimetlerden yola çıkarak Allah'ın tekliğine ve yaratıcılığına dikkat çekmektir.",
+  "Bugüne taşınan ders: Etrafındaki düzeni gördükçe, bunun tesadüf olmadığını hatırla; bu farkındalık seni yanlış yönlere savrulmaktan korur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Nimeti kaynağına bağla",
+   "aciklama": "Bugün yararlandığın bir nimeti fark ettiğinde, onun kaynağını düşün."
+  },
+  {
+   "baslik": "Yanlış yöne savrulma",
+   "aciklama": "Bir konuda haktan uzaklaştığını hissettiğinde, kendini düzeltmek için durup düşün."
+  },
+  {
+   "baslik": "Tekliği hatırla",
+   "aciklama": "Güvendiğin, yöneldiğin şeylerin çokluğunu azaltıp asıl kaynağa yönel."
+  }
+ ],
+ "bugununAdimi": "Bugün gördüğün bir nimeti not edip kaynağını kendine hatırlat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=62"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/40/62"
+  }
+ ]
+}

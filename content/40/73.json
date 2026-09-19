@@ -1,0 +1,103 @@
+{
+ "sure": 40,
+ "ayet": 73,
+ "durum": "taslak",
+ "meal": "Sonra onlara denir ki: 'Ortak koştuklarınız nerede?'",
+ "mealNotu": "'Tüşrikûne' kökü شرك ortak koşmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "قِيلَ",
+   "okunus": "kîle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "denir"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "أَيْنَ",
+   "okunus": "eyne",
+   "kok": "—",
+   "kokAnlam": "(soru) nerede",
+   "karsilik": "nerede"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyler",
+   "karsilik": "şeyler"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduğunuz"
+  },
+  {
+   "kelime": "تُشْرِكُونَ",
+   "okunus": "tüşrikûne",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "ortak koştuğunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, azaptakilere sorulan bir soruyu aktarır: 'Ortak koştuklarınız nerede?' 'Tüşrikûne' kökü شرك, ortak koşmayı anlatır. Soru, dünyada güvendikleri sahte ilahların artık yanlarında olmadığını gösterir.",
+  "Bu soru, bir sonraki ayette verilecek cevabın zeminini hazırlar; azaptakiler güvendikleri şeylerin kendilerini terk ettiğini itiraf edeceklerdir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:22",
+   "meal": "Onların hepsini toplayacağımız gün, ortak koşanlara 'Nerede o iddia ettiğiniz ortaklarınız?' deriz.",
+   "baglanti": "Aynı soru, bu ayette de neredeyse aynı kelimelerle sorulur."
+  },
+  {
+   "ref": "28:62",
+   "meal": "O gün onlara seslenir: 'Bana ortak olduğunu iddia ettikleriniz nerede?'",
+   "baglanti": "Ortakların sorgulanması, bu ayette de aynı temada işlenir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, ahirette insanların dünyada güvendikleri sahte dayanakların sorgulanmasıdır.",
+  "Bugüne taşınan ders: Güvendiğin şeyin gerçekten seni koruyup koruyamayacağını bugünden düşün; geçici dayanaklara aşırı güvenme."
+ ],
+ "bugun": [
+  {
+   "baslik": "Güvendiğini sorgula",
+   "aciklama": "Bugün en çok güvendiğin şeyin gerçekte seni ne kadar koruyabileceğini düşün."
+  },
+  {
+   "baslik": "Sahte dayanaktan uzaklaş",
+   "aciklama": "Statü, para veya kişilere aşırı bağlanmak yerine, önceliğini doğru yere koy."
+  },
+  {
+   "baslik": "Asıl dayanağı bul",
+   "aciklama": "Bugün, geçici olmayan bir dayanağa yönel; doğruluğa, Allah'a güvenmeye öncelik ver."
+  }
+ ],
+ "bugununAdimi": "Bugün en çok güvendiğin şeyin listesini çıkar ve önceliğini gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=73"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/40/73"
+  }
+ ]
+}

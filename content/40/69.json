@@ -1,0 +1,124 @@
+{
+ "sure": 40,
+ "ayet": 69,
+ "durum": "taslak",
+ "meal": "Allah'ın ayetleri hakkında tartışanları görmedin mi? Nasıl da [haktan] çevriliyorlar?",
+ "mealNotu": "'Yusrafûn' kökü صرف, çevrilmeyi, yön değiştirmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medin mi",
+   "karsilik": "-medin mi"
+  },
+  {
+   "kelime": "تَرَ",
+   "okunus": "tera",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "gördün"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) -enleri",
+   "karsilik": "-enleri"
+  },
+  {
+   "kelime": "يُجَٰدِلُونَ",
+   "okunus": "yücâdilûne",
+   "kok": "جدل",
+   "kokAnlam": "karşılıklı çekişme, tartışma",
+   "karsilik": "tartışanları"
+  },
+  {
+   "kelime": "فِىٓ",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "ءَايَٰتِ",
+   "okunus": "âyâti",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet; ayet",
+   "karsilik": "ayetleri"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "أَنَّىٰ",
+   "okunus": "ennâ",
+   "kok": "—",
+   "kokAnlam": "(soru) nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "يُصْرَفُونَ",
+   "okunus": "yüsrafûne",
+   "kok": "صرف",
+   "kokAnlam": "çevrilme, yön değiştirme",
+   "karsilik": "çevriliyorlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Allah'ın ayetleri hakkında tartışanları Peygamber'e -ve dolayısıyla okuyucuya- hatırlatır: 'Görmedin mi?' ifadesi, gözlemlenebilir bir gerçeğe dikkat çeker.",
+  "'Yusrafûn' kökü صرف, çevrilmeyi, yön değiştirmeyi anlatır; bu kişiler açık delillere rağmen haktan başka yöne çevriliyorlar. Ayet, 40:56'daki benzer ifadeyi tekrar ederek konunun önemini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:4",
+   "meal": "Onlara Rablerinin ayetlerinden bir ayet gelmeyedursun, mutlaka ondan yüz çevirirler.",
+   "baglanti": "Ayetlerden yüz çevirme davranışı, burada da aynı şekilde eleştirilir."
+  },
+  {
+   "ref": "22:3",
+   "meal": "İnsanlardan kimi, hiçbir bilgisi olmadığı halde Allah hakkında tartışır ve her azgın şeytana uyar.",
+   "baglanti": "Delilsiz tartışmanın arkasındaki sapkınlık, bu ayette de aynı şekilde anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, açık delillere rağmen Allah'ın ayetleri hakkında tartışıp haktan uzaklaşanlardır.",
+  "Bugüne taşınan ders: Net bir doğruyla karşılaştığında ondan kaçmak yerine yüzleş; kaçınmak seni giderek haktan uzaklaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gerçekle yüzleş",
+   "aciklama": "Bugün kaçındığın bir doğruyla yüzleşmeyi dene."
+  },
+  {
+   "baslik": "Sapkın fikre uyma",
+   "aciklama": "Delilsiz, sadece iddiaya dayanan bir görüşe kapılmadan önce araştır."
+  },
+  {
+   "baslik": "Ayetlerden yüz çevirme",
+   "aciklama": "Bugün okuduğun bir ayeti veya doğruyu bir kenara atmadan üzerinde düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün kaçındığın bir konuyu araştırıp bir sonuca var.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=69"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/40/69"
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "sure": 40,
+ "ayet": 52,
+ "durum": "taslak",
+ "meal": "O gün zalimlere özürleri fayda vermez. Lanet onlarındır, yurdun kötüsü de onlarındır.",
+ "mealNotu": "'Ma'ziratühüm' kökü عذر mazeret, özür anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "يَنفَعُ",
+   "okunus": "yenfeu",
+   "kok": "نفع",
+   "kokAnlam": "fayda verme",
+   "karsilik": "fayda vermez"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمِينَ",
+   "okunus": "ezzâlimîne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, zulüm",
+   "karsilik": "zalimlere"
+  },
+  {
+   "kelime": "مَعْذِرَتُهُمْ",
+   "okunus": "ma'ziratühüm",
+   "kok": "عذر",
+   "kokAnlam": "mazeret, özür",
+   "karsilik": "özürleri"
+  },
+  {
+   "kelime": "وَلَهُمْ",
+   "okunus": "ve lehümü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ve onlarındır",
+   "karsilik": "ve onlarındır"
+  },
+  {
+   "kelime": "ٱللَّعْنَةُ",
+   "okunus": "ella'netü",
+   "kok": "لعن",
+   "kokAnlam": "lanet, uzaklaştırma",
+   "karsilik": "lanet"
+  },
+  {
+   "kelime": "وَلَهُمْ",
+   "okunus": "ve lehüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ve onlarındır",
+   "karsilik": "ve onlarındır"
+  },
+  {
+   "kelime": "سُوٓءُ",
+   "okunus": "sûü",
+   "kok": "سوأ",
+   "kokAnlam": "kötülük",
+   "karsilik": "kötüsü"
+  },
+  {
+   "kelime": "ٱلدَّارِ",
+   "okunus": "eddâri",
+   "kok": "دور",
+   "kokAnlam": "dönme, ev, yurt",
+   "karsilik": "yurdun"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, kıyamet gününü tanımlayan bir isim tamlamasıyla devam eder: 'Zalimlere özürlerinin fayda vermeyeceği gün.' 'Ma'ziratühüm' kökü عذر, mazeret ve özür anlamındadır; o gün hiçbir gerekçe kabul edilmez.",
+  "'Lânet' ve 'sûüd dâr' (yurdun kötüsü) ifadeleri yan yana anılır; zalimlerin hem Allah'ın rahmetinden uzaklaştırılması hem de kötü bir yerde kalması anlatılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "77:36",
+   "meal": "O gün özür dilemelerine izin verilmez.",
+   "baglanti": "Aynı gerçeği başka bir sureden doğrulayan bu ayet, kıyamette mazeretin geçersizliğini pekiştirir."
+  },
+  {
+   "ref": "30:57",
+   "meal": "O gün zalimlere mazeretleri fayda vermez, onlardan rıza istenmesi de artık söz konusu olmaz.",
+   "baglanti": "Bu ayet neredeyse aynı ifadeyle, özürlerin fayda vermeyeceği gerçeğini tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, kıyamet gününde zalimlerin mazeretlerinin dinlenmeyeceğidir.",
+  "Bugüne taşınan ders: Bir haksızlık yaptıysan, 'sonra özür dilerim' diye erteleme; düzeltmeyi bugünden, mazeret üretmeden yap."
+ ],
+ "bugun": [
+  {
+   "baslik": "Özrü ertelemeden söyle",
+   "aciklama": "Birine haksızlık ettiysen, bugün mazeret üretmeden özür dile."
+  },
+  {
+   "baslik": "Haksızlıktan uzak dur",
+   "aciklama": "Bir kararında adaletsiz davranmamaya bugün özellikle dikkat et."
+  },
+  {
+   "baslik": "Son ana bırakma",
+   "aciklama": "Düzeltebileceğin bir hatayı, fırsat elindeyken bugün düzelt; sonraya bırakma."
+  }
+ ],
+ "bugununAdimi": "Bugün, ertelediğin bir özrü doğrudan söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=52"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/40/52"
+  }
+ ]
+}

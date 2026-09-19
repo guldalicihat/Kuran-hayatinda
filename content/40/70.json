@@ -1,0 +1,117 @@
+{
+ "sure": 40,
+ "ayet": 70,
+ "durum": "taslak",
+ "meal": "Onlar, Kitab'ı ve elçilerimizi kendisiyle gönderdiğimiz şeyi yalanladılar. Yakında bileceklerdir.",
+ "mealNotu": "'Kezzebû' kökü كذب yalanlamayı; 'fesevfe ya'lemûn' ifadesi gecikmeli de olsa gelecek bir uyarıyı anlatır.",
+ "kokler": [
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) onlar ki",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "كَذَّبُوا۟",
+   "okunus": "kezzebû",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanladılar"
+  },
+  {
+   "kelime": "بِٱلْكِتَٰبِ",
+   "okunus": "bil kitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; kitap",
+   "karsilik": "Kitab'ı"
+  },
+  {
+   "kelime": "وَبِمَآ",
+   "okunus": "ve bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şeyi",
+   "karsilik": "ve şeyi"
+  },
+  {
+   "kelime": "أَرْسَلْنَا",
+   "okunus": "erselnâ",
+   "kok": "رسل",
+   "kokAnlam": "gönderme",
+   "karsilik": "gönderdiğimiz"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "رُسُلَنَا",
+   "okunus": "rusülenâ",
+   "kok": "رسل",
+   "kokAnlam": "gönderme; elçi",
+   "karsilik": "elçilerimizi"
+  },
+  {
+   "kelime": "فَسَوْفَ",
+   "okunus": "fesevfe",
+   "kok": "—",
+   "kokAnlam": "(gelecek) yakında",
+   "karsilik": "yakında"
+  },
+  {
+   "kelime": "يَعْلَمُونَ",
+   "okunus": "ya'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bileceklerdir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 'Kitab'ı ve elçilerin getirdiği şeyi yalanlayanlar' olarak tanımlanan bir grubu anlatır. 'Kezzebû' kökü كذب, yalanlamayı ifade eder.",
+  "'Fesevfe ya'lemûn' (yakında bilecekler) ifadesi, bu yalanlamanın sonucunun gecikmeli de olsa mutlaka görüleceğini bildiren bir uyarıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:135",
+   "meal": "De ki: Ey kavmim, elinizden geleni yapın, ben de yapacağım; yurdun sonunun kimin olacağını yakında bileceksiniz.",
+   "baglanti": "'Yakında bilecekler' uyarısı, bu ayette de aynı ifadeyle Peygamber'in ağzından tekrarlanır."
+  },
+  {
+   "ref": "26:6",
+   "meal": "Böylece onu yalanladılar; fakat alay ettikleri şeyin haberleri yakında kendilerine gelecektir.",
+   "baglanti": "Yalanlamanın sonucunun gecikmeli geleceği fikri, burada da aynı şekilde işlenir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, kitabı ve elçileri yalanlayanların akıbetinin zamanla ortaya çıkacağıdır.",
+  "Bugüne taşınan ders: Doğruyu şimdi reddetmenin bedelini görmemek, o bedelin olmadığı anlamına gelmez; sonucu göz ardı etmeden bugünden doğru tarafı seç."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sonucu görmesen de gerçeği kabul et",
+   "aciklama": "Bir doğruyu, hemen bir sonucu görmesen de bugün kabul et."
+  },
+  {
+   "baslik": "Yalanlamaktan kaçın",
+   "aciklama": "Delilin olmadığı bir konuda kesin bir şekilde 'yalan' demekten kaçın."
+  },
+  {
+   "baslik": "Zamanı bekle",
+   "aciklama": "Bir haksızlığın hemen düzelmediğini görünce sabırsızlanma, zamanla ortaya çıkacağını bil."
+  }
+ ],
+ "bugununAdimi": "Bugün üzerinde temkinli olduğun bir konuda hemen hüküm vermeden araştır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=70"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/40/70"
+  }
+ ]
+}
