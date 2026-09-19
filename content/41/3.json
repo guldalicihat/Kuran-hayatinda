@@ -1,0 +1,103 @@
+{
+ "sure": 41,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Bilen bir topluluk için Arapça bir Kur'an olarak ayetleri ayrıntılı biçimde açıklanmış bir Kitaptır.",
+ "mealNotu": "'Fussilet' kökü (فصل) sureye adını verir; burada ayetlerin ayrı ayrı, açık biçimde anlatılmasını ifade eder. 'Kavmin ya'lemûn' ifadesi 'bilen/bilgi sahibi bir topluluk' anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "كِتَٰبٌ",
+   "okunus": "kitâbün",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı olan, kitap",
+   "karsilik": "Kitaptır"
+  },
+  {
+   "kelime": "فُصِّلَتْ",
+   "okunus": "füssılet",
+   "kok": "فصل",
+   "kokAnlam": "ayırma, ayrıntılı biçimde açıklama",
+   "karsilik": "ayrıntılı biçimde açıklanmış"
+  },
+  {
+   "kelime": "ءَايَٰتُهُۥ",
+   "okunus": "âyâtühû",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet; ayet",
+   "karsilik": "ayetleri"
+  },
+  {
+   "kelime": "قُرْءَانًا",
+   "okunus": "kur'ânen",
+   "kok": "قرأ",
+   "kokAnlam": "okuma; toplayıp okunan söz, Kur'an",
+   "karsilik": "Kur'an olarak"
+  },
+  {
+   "kelime": "عَرَبِيًّا",
+   "okunus": "arabiyyen",
+   "kok": "عرب",
+   "kokAnlam": "açık ifade etme; Arapça",
+   "karsilik": "Arapça"
+  },
+  {
+   "kelime": "لِّقَوْمٍ",
+   "okunus": "likavmin",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk, kavim",
+   "karsilik": "bir topluluk için"
+  },
+  {
+   "kelime": "يَعْلَمُونَ",
+   "okunus": "ya'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette Kitabın Rahmân ve Rahîm'den indirildiği söylenmişti; bu ayet onu tanımlar: ayetleri ayrıntılı biçimde açıklanmış (fussilet) bir Kitap. Bu kelime sureye 'Fussilet' adını verir.",
+  "Kitap, Arapça bir Kur'an olarak nitelenir ve hedef kitlesi 'bilen bir topluluk' diye belirtilir. Bu, Kitabın anlaşılmak, üzerinde düşünülmek üzere indirildiğini gösterir; ayetlerin ayrıntılı açıklanması, muhatabın onu kavramasını kolaylaştırmak içindir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "12:2",
+   "meal": "Biz onu, aklınızı kullanasınız diye Arapça bir Kur'an olarak indirdik.",
+   "baglanti": "Kur'an'ın Arapça indirilişinin amacı, akledip anlaşılmaktır; Fussilet 3 bunu 'bilen bir topluluk' ifadesiyle tekrarlar."
+  },
+  {
+   "ref": "6:114",
+   "meal": "Hakem olarak Allah'tan başkasını mı arayayım? Oysa O, size Kitabı ayrıntılı biçimde açıklanmış olarak indirendir.",
+   "baglanti": "Aynı 'ayrıntılı açıklanmış Kitap' (mufassal) vurgusu En'âm suresinde de geçer; Fussilet'teki 'fussilet' ile aynı köktendir (فصل)."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kur'an'ın niteliğidir; onun anlaşılır, ayrıntılı ve belli bir dilde indirildiğini bildirir.",
+  "Buradan çıkan ders şudur: bir metni anlamak için önce onu öğrenmeye niyet etmek gerekir. Kur'an 'bilen' bir topluluğa hitap eder; yani okuyanından öğrenmeye açık olmasını ister."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir kelimeyi araştır",
+   "aciklama": "Bugün okuduğun bir ayette anlamadığın bir kelimeyi bul ve kökünü araştır."
+  },
+  {
+   "baslik": "Anlamına odaklan",
+   "aciklama": "Bir ayeti sadece okumakla kalma, mealini de okuyup ne anlattığını kendi cümlenle özetle."
+  },
+  {
+   "baslik": "Öğrendiğini paylaş",
+   "aciklama": "Bugün öğrendiğin bir ayet bilgisini birine kısaca anlat."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ayetin mealini oku ve içindeki bir kelimenin kökünü araştırıp not al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=41&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/41/3"
+  }
+ ]
+}

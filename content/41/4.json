@@ -1,0 +1,103 @@
+{
+ "sure": 41,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Müjdeleyici ve uyarıcı olarak. Ama onların çoğu yüz çevirdi; artık onlar işitmezler.",
+ "mealNotu": "'Beşîr' ve 'nezîr' bir önceki ayetteki Kitabın niteliğini tamamlayan iki sıfattır. 'Yesmeûn' burada fiziksel duymanın ötesinde 'kabul ederek dinleme'yi de çağrıştırır; meal fiilin temel karşılığında kaldı.",
+ "kokler": [
+  {
+   "kelime": "بَشِيرًا",
+   "okunus": "beşîran",
+   "kok": "بشر",
+   "kokAnlam": "müjdeleme; iyi haber verme",
+   "karsilik": "müjdeleyici"
+  },
+  {
+   "kelime": "وَنَذِيرًا",
+   "okunus": "ve nezîran",
+   "kok": "نذر",
+   "kokAnlam": "uyarma, sakındırma",
+   "karsilik": "ve uyarıcı"
+  },
+  {
+   "kelime": "فَأَعْرَضَ",
+   "okunus": "fea'rada",
+   "kok": "عرض",
+   "kokAnlam": "yüz çevirme, uzaklaşma",
+   "karsilik": "yüz çevirdi"
+  },
+  {
+   "kelime": "أَكْثَرُهُمْ",
+   "okunus": "ekseruhüm",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "onların çoğu"
+  },
+  {
+   "kelime": "فَهُمْ",
+   "okunus": "fehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) artık onlar",
+   "karsilik": "artık onlar"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mez",
+   "karsilik": "-mezler"
+  },
+  {
+   "kelime": "يَسْمَعُونَ",
+   "okunus": "yesmeûne",
+   "kok": "سمع",
+   "kokAnlam": "işitme, duyma",
+   "karsilik": "işitirler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette anlatılan Kitap, iki yönlü bir işlev taşır: müjdeleyici ve uyarıcı. Bu iki sıfat, Kur'an'ın hem umut hem sorumluluk verdiğini gösterir.",
+  "Ama bu açık davete rağmen çoğu insan yüz çevirmiştir; 'işitmezler' ifadesi kulakların çalışmadığını değil, gerçeği kabul etmeye kapalı olmayı anlatır. Bir sonraki ayet (5) bu kapanmayı 'kalpleri örtülü, kulakları ağır' diyerek somutlaştırır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:105",
+   "meal": "Biz onu hak ile indirdik, o da hak ile indi. Seni de ancak müjdeleyici ve uyarıcı olarak gönderdik.",
+   "baglanti": "Peygamberin görevi, İsrâ suresinde de aynı 'müjdeleyici ve uyarıcı' ikilisiyle özetlenir."
+  },
+  {
+   "ref": "6:25",
+   "meal": "Kalplerine, onu anlamalarına engel örtüler, kulaklarına da bir ağırlık koyduk; her ayeti görseler bile inanmazlar.",
+   "baglanti": "'İşitmezler' ifadesinin nasıl bir hâl olduğu En'âm suresinde daha açık tasvir edilir; gerçeği kabule kapalı olma durumu."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, peygamberin görevinin iki yönüdür: müjdelemek ve uyarmak.",
+  "Buradan çıkan ders, bir gerçeği duyduğunda önce kabul etmeye açık olmaktır. Sadece kulakla değil, kalple dinlemek; duyduğunu anlamsız gürültü gibi geçiştirmemek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Rahatsız eden bir sözü dinle",
+   "aciklama": "Bugün seni rahatsız eden haklı bir eleştiriyi savunmaya geçmeden önce sonuna kadar dinle."
+  },
+  {
+   "baslik": "Müjdeyi de gör",
+   "aciklama": "Kur'an'ın yalnız uyarı değil müjde de içerdiğini hatırlayıp bugün bir umut ayeti oku."
+  },
+  {
+   "baslik": "Yüz çevirmeyi fark et",
+   "aciklama": "Bugün bir uyarıdan kaçtığını fark edersen, bunun bilinçli bir tercih olduğunu kendine itiraf et."
+  }
+ ],
+ "bugununAdimi": "Bugün seni rahatsız eden bir uyarıyı savunmaya geçmeden önce baştan sona dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=41&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/41/4"
+  }
+ ]
+}

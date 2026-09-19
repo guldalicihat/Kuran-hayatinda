@@ -1,0 +1,82 @@
+{
+ "sure": 41,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "[Bu,] Rahmân ve Rahîm'den indirilmiştir.",
+ "mealNotu": "'[Bu,]' ibaresi köşeli parantezle eklendi; ayet nesnesiz bir cümle olarak gelir, öznesi hemen sonraki ayette 'Kitap' diye açıklanır. 'Rahmân' ve 'Rahîm' ikisi de aynı kökten (رحم) gelir; ikisi de korunarak aktarıldı.",
+ "kokler": [
+  {
+   "kelime": "تَنزِيلٌ",
+   "okunus": "tenzîlün",
+   "kok": "نزل",
+   "kokAnlam": "indirme, aşama aşama indirme",
+   "karsilik": "indirilmiştir"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلرَّحْمَٰنِ",
+   "okunus": "errahmâni",
+   "kok": "رحم",
+   "kokAnlam": "esirgeme, geniş kapsamlı rahmet",
+   "karsilik": "Rahmân"
+  },
+  {
+   "kelime": "ٱلرَّحِيمِ",
+   "okunus": "errahîmi",
+   "kok": "رحم",
+   "kokAnlam": "esirgeme, şefkat",
+   "karsilik": "Rahîm"
+  }
+ ],
+ "neAnlatiyor": [
+  "Mukattaa harflerinin hemen ardından bu ayet Kitabın kaynağını bildirir. 'Tenzîl' kökü, bir şeyin yukarıdan aşağıya, aşama aşama indirilmesini anlatır; burada Kur'an'ın kaynağının beşerî değil ilahî olduğu vurgulanır.",
+  "Ayet, Allah'ın iki ismini bir arada anar: Rahmân ve Rahîm. Klasik tefsir bu iki ismi genelde 'Rahmân'ı bütün yaratılana yönelik geniş rahmet, 'Rahîm'i müminlere yönelen sürekli rahmet olarak ayırır. Cümle, bir sonraki ayette 'Kitap' diye tamamlanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "40:2",
+   "meal": "Kitabın indirilişi, azîz ve alîm olan Allah'tandır.",
+   "baglanti": "Aynı yapıda başka bir sure de Kitabın Allah'tan indirildiğini bildirir; orada Allah'ın azîz-alîm sıfatları öne çıkar, burada Rahmân-Rahîm."
+  },
+  {
+   "ref": "1:1",
+   "meal": "Rahmân ve Rahîm olan Allah'ın adıyla.",
+   "baglanti": "Rahmân ve Rahîm isim ikilisi Kur'an'ın en çok tekrarlanan açılış ifadesidir; Fâtiha'nın ilk ayetinde de birlikte anılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kur'an'ın kaynağıdır: bu Kitap insan sözü değil, Rahmân ve Rahîm olan Allah'tan indirilmiştir.",
+  "Bir sözün kaynağını bilmek, ona nasıl yaklaşacağını belirler. Rahmân ve Rahîm'den geldiğini bilerek okumak, Kur'an'a şefkatle, güvenle yaklaşmayı kolaylaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaynağını hatırla",
+   "aciklama": "Bugün Kur'an okurken, önce 'Bu, Rahmân ve Rahîm'den indirilmiş bir söz' diye içinden geçir."
+  },
+  {
+   "baslik": "Yavaş oku",
+   "aciklama": "Bir sayfa okurken hızını yarıya indir; anlamadığın bir kelimede dur, araştır."
+  },
+  {
+   "baslik": "Rahmet diliyle konuş",
+   "aciklama": "Bugün bir kişiyle konuşurken sert değil, şefkatli bir üslup seç."
+  }
+ ],
+ "bugununAdimi": "Bugün en az on dakika, acele etmeden Fussilet suresinden meal oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=41&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/41/2"
+  }
+ ]
+}

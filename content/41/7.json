@@ -1,0 +1,110 @@
+{
+ "sure": 41,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Onlar ki zekâtı vermezler ve ahireti inkâr ederler.",
+ "mealNotu": "Ayet iki olumsuz nitelik sıralar; akıcılık için 'vermezler ve inkâr ederler' biçiminde birleştirildi, ayetteki tekrarlanan zamir vurgusu ('hüm...hüm') Türkçede ayrıca belirtilmedi.",
+ "kokler": [
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) onlar ki",
+   "karsilik": "onlar ki"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mez",
+   "karsilik": "-mezler"
+  },
+  {
+   "kelime": "يُؤْتُونَ",
+   "okunus": "yü'tûne",
+   "kok": "أتي",
+   "kokAnlam": "verme, getirme",
+   "karsilik": "verirler"
+  },
+  {
+   "kelime": "ٱلزَّكَوٰةَ",
+   "okunus": "ezzekâte",
+   "kok": "زكو",
+   "kokAnlam": "arınma, temizlik; zekât",
+   "karsilik": "zekâtı"
+  },
+  {
+   "kelime": "وَهُم",
+   "okunus": "ve hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve onlar",
+   "karsilik": "ve onlar"
+  },
+  {
+   "kelime": "بِٱلْءَاخِرَةِ",
+   "okunus": "bil âhırati",
+   "kok": "أخر",
+   "kokAnlam": "sonra olma; ahiret",
+   "karsilik": "ahireti"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "-dırlar"
+  },
+  {
+   "kelime": "كَٰفِرُونَ",
+   "okunus": "kâfirûne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr edenlerdir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki 'ortak koşanlar' uyarısının kimler olduğu burada somutlaşır: zekât vermeyen ve ahireti inkâr edenler.",
+  "'Zekât' kökü (زكو) arınma ve büyümeyi anlatır; vermemek yalnız malı paylaşmamak değil, bu arınmayı reddetmektir. Ahireti inkâr ile zekât vermemenin yan yana anılması, mal biriktirmekle hesap gününe inanmamak arasındaki bağa işaret eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "23:4",
+   "meal": "Onlar ki zekâtı öderler.",
+   "baglanti": "Burada zekât vermemek inkârcıların özelliği olarak anılırken, Mü'minûn suresinde zekât vermek müminlerin özelliği olarak sayılır; zıt bir örnek oluşturur."
+  },
+  {
+   "ref": "45:24",
+   "meal": "Dediler ki: Hayat ancak bu dünyadaki hayatımızdır; ölürüz ve yaşarız, bizi ancak zaman yok eder. Bu konuda hiçbir bilgileri yoktur; sadece zannederler.",
+   "baglanti": "Ahireti inkâr edenlerin dünya görüşü Câsiye suresinde daha ayrıntılı anlatılır; Fussilet 7'deki inkârın içeriğini açar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu mal paylaşımı (zekât) ve ahiret inancıdır.",
+  "Vermek ile inanmak arasındaki bağ buradan çıkarılabilecek derstir: sonsuzluğa inanan bir kalpten cömertlik daha kolay çıkar, çünkü verdiğinin karşılıksız kalmayacağını bilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir şey paylaş",
+   "aciklama": "Bugün elindeki bir şeyi (para, zaman, eşya) ihtiyacı olan biriyle paylaş."
+  },
+  {
+   "baslik": "Ahireti hatırla",
+   "aciklama": "Bir harcama kararı verirken, bunun sonsuz hayata göre ne kadar önemli olduğunu bir an düşün."
+  },
+  {
+   "baslik": "Cimriliği fark et",
+   "aciklama": "Vermek istemediğin bir anı fark edersen, bunun sebebini kendine dürüstçe sor."
+  }
+ ],
+ "bugununAdimi": "Bugün küçük bir miktarı bile olsa, ihtiyaç sahibi birine karşılıksız ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=41&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/41/7"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "sure": 41,
+ "ayet": 13,
+ "durum": "taslak",
+ "meal": "Eğer yüz çevirirlerse, de ki: 'Sizi, Âd ve Semûd'un başına gelen yıldırıma benzer bir yıldırıma karşı uyardım.'",
+ "mealNotu": "'Âd' ve 'Semûd' özel isimler olduğu için korunmuştur. 'Sâika' kökü hem gerçek yıldırımı hem ansızın gelen yok edici felaketi anlatır; meal 'yıldırım' karşılığında kaldı.",
+ "kokler": [
+  {
+   "kelime": "فَإِنْ",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَعْرَضُوا۟",
+   "okunus": "a'radû",
+   "kok": "عرض",
+   "kokAnlam": "yüz çevirme",
+   "karsilik": "yüz çevirirlerse"
+  },
+  {
+   "kelime": "فَقُلْ",
+   "okunus": "fekul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "أَنذَرْتُكُمْ",
+   "okunus": "enzertüküm",
+   "kok": "نذر",
+   "kokAnlam": "uyarma, sakındırma",
+   "karsilik": "sizi uyardım"
+  },
+  {
+   "kelime": "صَٰعِقَةِ",
+   "okunus": "sâikaten",
+   "kok": "صعق",
+   "kokAnlam": "yıldırım, ansızın gelen felaket",
+   "karsilik": "bir yıldırıma karşı"
+  },
+  {
+   "kelime": "مِّثْلَ",
+   "okunus": "misle",
+   "kok": "مثل",
+   "kokAnlam": "benzer",
+   "karsilik": "benzer"
+  },
+  {
+   "kelime": "صَٰعِقَةِ",
+   "okunus": "sâikati",
+   "kok": "صعق",
+   "kokAnlam": "yıldırım",
+   "karsilik": "yıldırımına"
+  },
+  {
+   "kelime": "عَادٍ",
+   "okunus": "âdin",
+   "kok": "عود",
+   "kokAnlam": "(özel isim) Âd kavmi",
+   "karsilik": "Âd'ın"
+  },
+  {
+   "kelime": "وَثَمُودَ",
+   "okunus": "ve semûde",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Semûd",
+   "karsilik": "ve Semûd'un"
+  }
+ ],
+ "neAnlatiyor": [
+  "Tevhid ve yaratılış delillerinin ardından ayet, inkârcıları geçmiş kavimlerin akıbetiyle uyarır. Âd ve Semûd, Kur'an'da sıkça anılan iki eski Arap kavmidir.",
+  "Ayet burada ayrıntılı bir kıssa anlatmaz; yalnız bir uyarı ve karşılaştırma yapar. Bu iki kavmin öyküsü Kur'an'ın başka surelerinde daha ayrıntılı anlatılır; burada yalnız akıbetlerine işaret edilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "89:6",
+   "meal": "Görmedin mi Rabbin Âd kavmine ne yaptı?",
+   "baglanti": "Âd kavminin akıbeti Fecr suresinde de kısa bir soru cümlesiyle hatırlatılır; Fussilet burada ayrıntıya girmeden yalnız uyarır."
+  },
+  {
+   "ref": "7:73",
+   "meal": "Semûd kavmine de kardeşleri Salih'i gönderdik. Dedi ki: Ey kavmim! Allah'a kulluk edin, sizin O'ndan başka ilahınız yoktur.",
+   "baglanti": "Semûd'a gönderilen uyarının ayrıntısı A'râf suresinde anlatılır; Fussilet burada yalnız sonucuna değinir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu geçmiş kavimlerin uyarılması ve bu uyarıyı reddetmeleridir.",
+  "Bir uyarıyı ciddiye almamanın bedelinin ağır olabileceğini bilmek, bugünkü uyarılara (sağlık, ilişkiler, sorumluluklar) karşı daha dikkatli olmayı öğütler; geçmişten ders çıkarmak, aynı hataları tekrarlamamayı sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir uyarıyı ciddiye al",
+   "aciklama": "Görmezden geldiğin bir uyarı (sağlık, iş, ilişki) varsa bugün onu yeniden değerlendir."
+  },
+  {
+   "baslik": "Geçmişten ders çıkar",
+   "aciklama": "Daha önce yaşadığın bir hatadan bugün somut bir ders çıkarıp not al."
+  },
+  {
+   "baslik": "Zamanın geçiciliğini hatırla",
+   "aciklama": "Güçlü görünen bir şeyin bile sonsuz olmadığını bugün bir an düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün görmezden geldiğin bir uyarıyı yazıya dök ve ona karşı yapacağın bir adımı belirle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=41&verse=13"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/41/13"
+  }
+ ]
+}
