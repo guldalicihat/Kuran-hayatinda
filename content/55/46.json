@@ -1,0 +1,89 @@
+{
+ "sure": 55,
+ "ayet": 46,
+ "durum": "taslak",
+ "meal": "Rabbinin huzurunda durmaktan korkan kimseye iki cennet vardır.",
+ "mealNotu": "'Makam' kökü (قوم) durma, ayakta duruşu anlatır; burada 'Rabbinin huzurunda durmak' olarak karşılanmıştır. Ayet 'iki cennet' der; bunun mahiyeti hakkında farklı tefsir görüşleri bulunur, ayetin kendi ifadesiyle sade bırakılmıştır.",
+ "kokler": [
+  {
+   "kelime": "وَلِمَنْ",
+   "okunus": "ve limen",
+   "kok": "—",
+   "kokAnlam": "(edat + ilgi) ve kim için",
+   "karsilik": "ve kim ... ise ona"
+  },
+  {
+   "kelime": "خَافَ",
+   "okunus": "hâfe",
+   "kok": "خوف",
+   "kokAnlam": "korkma, çekinme",
+   "karsilik": "korkarsa"
+  },
+  {
+   "kelime": "مَقَامَ",
+   "okunus": "mekâme",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, topluluk, makam",
+   "karsilik": "huzurunda durmaktan"
+  },
+  {
+   "kelime": "رَبِّهِۦ",
+   "okunus": "rabbihî",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, yetiştiren, sahip",
+   "karsilik": "Rabbinin"
+  },
+  {
+   "kelime": "جَنَّتَانِ",
+   "okunus": "cennetâni",
+   "kok": "جنن",
+   "kokAnlam": "örtme, gizleme; bahçe",
+   "karsilik": "iki cennet vardır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki bölümdeki azap sahnesinden sonra karşıt bir sahneye geçer: Rabbinin huzurunda hesap vermekten korkarak yaşayan kimseye iki cennet vaad edilir. 'Havf' (korku) burada ürkmekten çok bilinçli bir sorumluluk duygusunu anlatır.",
+  "Ayet 'iki cennet' der ve bunun ne olduğunu ayrıntılandırmaz; devamındaki ayetler bu cennetlerin özelliklerini sayar. Klasik tefsirde bu ifade farklı biçimlerde açıklanır, ancak ayetin kendisi sade biçimde 'iki cennet' der."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "79:40",
+   "meal": "Kim Rabbinin makamından korkar ve nefsini kötü heveslerden alıkoyarsa...",
+   "baglanti": "Aynı ifade -Rabbin makamından korkma- burada da geçer; devamında (79:41) cennetin bu kimsenin barınağı olduğu söylenir."
+  },
+  {
+   "ref": "39:73",
+   "meal": "Rablerinden korkanlar da bölük bölük cennete sevk edilir.",
+   "baglanti": "Rabden korkma ile cennete girme arasındaki bağlantıyı doğrulayan, başka bir sureden genel bir ayettir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan ahiret ödülüdür; burada bahsedilen korku, günlük hayatta hesap bilinciyle yaşamaya karşılık gelir.",
+  "Bir işi yaparken 'bunun hesabını verebilir miyim' diye sorman, seni yanlıştan alıkoyan bir iç denge kurar; bu, sürekli tedirginlik değil ölçülü bir sorumluluk bilincidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kararını hesap bilinciyle ver",
+   "aciklama": "Bugün vereceğin bir kararda, bunun hesabını verebilir misin diye kendine sor."
+  },
+  {
+   "baslik": "Korkuyu dengeye çevir",
+   "aciklama": "Yanlış yapma korkun seni felç etmesin, doğru yapmaya yönlendirsin."
+  },
+  {
+   "baslik": "Sonsuzluğu hatırla",
+   "aciklama": "Bugünün geçici, kalıcı olanın ahiret olduğunu bir an düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün vereceğin bir kararı, 'bunun hesabını Rabbime verebilir miyim' sorusuyla gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=46"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/55/46"
+  }
+ ]
+}

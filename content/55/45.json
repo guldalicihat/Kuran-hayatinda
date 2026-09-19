@@ -1,0 +1,82 @@
+{
+ "sure": 55,
+ "ayet": 45,
+ "durum": "taslak",
+ "meal": "Öyleyse Rabbinizin hangi nimetini yalanlarsınız?",
+ "mealNotu": "'Âlâ' kökü nimeti, iyiliği anlatır; çoğulu 'âlâi' burada 'nimetler' anlamındadır. 'Rabbikümâ' ve 'tükezzibân' Arapçadaki ikil (tesniye) çekimiyle gelir; Türkçede ikil olmadığı için 'Rabbiniz' ve 'yalanlarsınız' ile karşılanmıştır; bu ikil hitap cin ve insan topluluklarına birliktedir.",
+ "kokler": [
+  {
+   "kelime": "فَبِأَىِّ",
+   "okunus": "febieyyi",
+   "kok": "أيي",
+   "kokAnlam": "seçme, hangisi; soru sıfatı",
+   "karsilik": "öyleyse hangi"
+  },
+  {
+   "kelime": "ءَالَآءِ",
+   "okunus": "âlâi",
+   "kok": "ألو",
+   "kokAnlam": "nimet, iyilik, lütuf",
+   "karsilik": "nimetini"
+  },
+  {
+   "kelime": "رَبِّكُمَا",
+   "okunus": "rabbikümâ",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, yetiştiren, sahip",
+   "karsilik": "Rabbinizin (ikinizin)"
+  },
+  {
+   "kelime": "تُكَذِّبَانِ",
+   "okunus": "tükezzibâni",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama, gerçeği örtme",
+   "karsilik": "yalanlarsınız (ikiniz)"
+  }
+ ],
+ "neAnlatiyor": [
+  "Nakarat burada, cehennem ve kaynar su tasvirinin hemen ardından tekrarlanır. Azap sahnesinde 'nimet' kelimesinin geçmesi ilk bakışta şaşırtıcı görünebilir.",
+  "Aslında bu, Kur'an'ın ilginç bir üslup özelliğidir: cehennemin haber verilmesi korkutmak için değil, insanı ondan sakındırmak için bir uyarı nimetidir; önceden bilmek tedbir almayı mümkün kılar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "39:71",
+   "meal": "İnkâr edenler cehenneme bölük bölük sevk edilir... bekçileri: size içinizden bir uyarıcı gelmedi mi? der.",
+   "baglanti": "Cehennem ehline sorulan bu soru, uyarının önceden verildiğini ve bunun bir mazeret bırakmadığını gösterir."
+  },
+  {
+   "ref": "50:19",
+   "meal": "Ölüm sarhoşluğu gerçekten gelir de: işte bu, senin kaçıp durduğun şeydir, denir.",
+   "baglanti": "Kaçılan gerçeğin er ya da geç önüne çıkması, cehennemden kaçış olmadığını anlatan 43-44. ayetlerle aynı temayı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu tekrar, önceki iki ayetteki azap tasvirine karşı 'bunu neden yalanlıyorsunuz' sorusunu sorar; azabın haber verilmesi bile bir lütuftur çünkü insana hâlâ vakit varken uyarı fırsatı sunar.",
+  "Günlük hayatta da kötü bir sonucu önceden haber almak seni koruyan bir uyarıdır; bunu gereksiz bir tehdit gibi görmek yerine bir fırsat olarak değerlendirebilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Uyarıyı ciddiye al",
+   "aciklama": "Bugün aldığın bir uyarıyı görmezden gelmek yerine dikkate al."
+  },
+  {
+   "baslik": "Sonucu düşünerek adım at",
+   "aciklama": "Bir kararını vermeden önce olası kötü sonucunu bir kez yaz."
+  },
+  {
+   "baslik": "Küçük bir tedbir al",
+   "aciklama": "Korktuğun bir şeye karşı bugün küçük, somut bir önlem al."
+  }
+ ],
+ "bugununAdimi": "Bugün görmezden geldiğin bir uyarıyı yazılı olarak not et ve ona karşı bir tedbir al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=45"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/55/45"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "sure": 55,
+ "ayet": 41,
+ "durum": "taslak",
+ "meal": "Suçlular [yüzlerindeki] belirtiden tanınır; perçemlerinden ve ayaklarından yakalanırlar.",
+ "mealNotu": "'Sîmâ' kökü bir kişiyi ele veren, gizlenemeyen belirtiyi anlatır; 'yüzlerindeki' ifadesi köşeli parantezle eklendi çünkü kelimede yalnız 'onların belirtisi' vardır, 'yüz' sözü yoktur. 'Nâsiye' perçemi, alnın üst kısmındaki saçı anlatır.",
+ "kokler": [
+  {
+   "kelime": "يُعْرَفُ",
+   "okunus": "yü'rafü",
+   "kok": "عرف",
+   "kokAnlam": "bilme, tanıma",
+   "karsilik": "tanınır"
+  },
+  {
+   "kelime": "ٱلْمُجْرِمُونَ",
+   "okunus": "elmücrimûne",
+   "kok": "جرم",
+   "kokAnlam": "suç işleme, günah",
+   "karsilik": "suçlular"
+  },
+  {
+   "kelime": "بِسِيمَٰهُمْ",
+   "okunus": "bisîmâhüm",
+   "kok": "سوم",
+   "kokAnlam": "belirti, işaret, damga",
+   "karsilik": "belirtisinden"
+  },
+  {
+   "kelime": "فَيُؤْخَذُ",
+   "okunus": "feyü'hazü",
+   "kok": "أخذ",
+   "kokAnlam": "alma, yakalama, tutma",
+   "karsilik": "ve yakalanır"
+  },
+  {
+   "kelime": "بِٱلنَّوَٰصِى",
+   "okunus": "bin nevâsî",
+   "kok": "نصي",
+   "kokAnlam": "perçem, alın saçı",
+   "karsilik": "perçemlerinden"
+  },
+  {
+   "kelime": "وَٱلْأَقْدَامِ",
+   "okunus": "vel ekdâmi",
+   "kok": "قدم",
+   "kokAnlam": "ayak, öne geçme",
+   "karsilik": "ve ayaklarından"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayette 'o gün kimseye günahından sorulmaz' ifadesinin nedenini açıklar: suç zaten görünür haldedir, sorgulamaya gerek kalmadan suçlular yüzlerindeki belirtiden tanınacaktır. 'Sîmâ' kökü, bir kişiyi ele veren, saklanamayan işareti anlatır.",
+  "'Nâsiye' (perçem) ve ayaklardan yakalanma ifadesi, hem küçültücü hem güçsüz bırakan bir yakalanış biçimini anlatır; kişi ne kaçabilir ne de direnebilir. Klasik tefsir bunu suçlunun çaresizce sürüklenmesi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "96:15",
+   "meal": "Hayır, eğer vazgeçmezse, and olsun ki onu perçeminden yakalarız.",
+   "baglanti": "'Nâsiye'den (perçem) yakalama ifadesi aynı kökle burada da geçer; ısrarla yalanlayan suçlunun akıbeti anlatılır."
+  },
+  {
+   "ref": "36:65",
+   "meal": "O gün ağızlarını mühürleriz; elleri bize konuşur, ayakları da yaptıklarına şahitlik eder.",
+   "baglanti": "Beden organlarının kişiyi ele vermesi teması burada da geçer; ayaklar burada da öne çıkar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıyamet günü suçluların teşhisidir, dünyevi bir tavsiye alanı değildir.",
+  "Yine de çıkarılabilecek ders şudur: içte sakladığın bir şey er ya da geç dışa vurur; bugün gizlediğini sandığın bir tutum, davranışlarına sinmeye başlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "İçini dışına yansıt",
+   "aciklama": "Bugün doğru bulduğun bir düşünceyi, sözle değil bir davranışla göster."
+  },
+  {
+   "baslik": "Gizli alışkanlığını gözden geçir",
+   "aciklama": "Kimsenin bilmediğini sandığın bir tavrının aslında iz bıraktığını hatırla."
+  },
+  {
+   "baslik": "Allah'ın gördüğü bilinciyle hareket et",
+   "aciklama": "Kimse görmese de niyetinin görüldüğünü unutma; bugünkü bir kararını buna göre ver."
+  }
+ ],
+ "bugununAdimi": "Bugün kimsenin bilmediğini düşündüğün küçük bir davranışını, Allah'ın gördüğü bilinciyle düzelt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=41"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/55/41"
+  }
+ ]
+}

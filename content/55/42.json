@@ -1,0 +1,82 @@
+{
+ "sure": 55,
+ "ayet": 42,
+ "durum": "taslak",
+ "meal": "Öyleyse Rabbinizin hangi nimetini yalanlarsınız?",
+ "mealNotu": "'Âlâ' kökü nimeti, iyiliği anlatır; çoğulu 'âlâi' burada 'nimetler' anlamındadır. 'Rabbikümâ' ve 'tükezzibân' Arapçadaki ikil (tesniye) çekimiyle gelir; Türkçede ikil olmadığı için 'Rabbiniz' ve 'yalanlarsınız' ile karşılanmıştır; bu ikil hitap cin ve insan topluluklarına birliktedir.",
+ "kokler": [
+  {
+   "kelime": "فَبِأَىِّ",
+   "okunus": "febieyyi",
+   "kok": "أيي",
+   "kokAnlam": "seçme, hangisi; soru sıfatı",
+   "karsilik": "öyleyse hangi"
+  },
+  {
+   "kelime": "ءَالَآءِ",
+   "okunus": "âlâi",
+   "kok": "ألو",
+   "kokAnlam": "nimet, iyilik, lütuf",
+   "karsilik": "nimetini"
+  },
+  {
+   "kelime": "رَبِّكُمَا",
+   "okunus": "rabbikümâ",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, yetiştiren, sahip",
+   "karsilik": "Rabbinizin (ikinizin)"
+  },
+  {
+   "kelime": "تُكَذِّبَانِ",
+   "okunus": "tükezzibâni",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama, gerçeği örtme",
+   "karsilik": "yalanlarsınız (ikiniz)"
+  }
+ ],
+ "neAnlatiyor": [
+  "Nakarat burada, suçluların yüzlerindeki belirtiden tanınıp perçemlerinden ve ayaklarından yakalanmasının hemen ardından tekrarlanır. İlk bakışta sert bir azap sahnesinin peşinde 'nimet' kelimesinin geçmesi şaşırtıcı görünebilir.",
+  "Aslında bu, Kur'an'ın dikkat çeken bir üslup özelliğidir: suçluların akıbetinin önceden haber verilmesi, korkutmak için değil insanı bu sondan sakındırmak için bir uyarı nimetidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "67:8",
+   "meal": "Cehennem neredeyse öfkesinden çatlayacak; her bir grup içine atıldıkça bekçileri sorar: size bir uyarıcı gelmedi mi?",
+   "baglanti": "Her iki ayet de suçluların akıbetini önceden haber vermenin bir uyarı olduğunu gösterir; bilmek, tedbir alma fırsatı sunar."
+  },
+  {
+   "ref": "15:49",
+   "meal": "Kullarıma haber ver ki, ben elbette çok bağışlayanım, çok esirgeyenim.",
+   "baglanti": "Uyarı ile bağışlama birlikte anılır; azabın haber verilmesi bile merhametin bir parçasıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu tekrar, önceki ayetteki sert sahneye karşı 'bunu neden yalanlıyorsunuz' sorusunu sorar; suçun akıbetinin haber verilmesi bile bir lütuftur çünkü insana hâlâ vakit varken uyarı fırsatı sunar.",
+  "Günlük hayatta da kötü bir sonucu önceden haber almak seni koruyan bir uyarıdır; bunu gereksiz bir tehdit gibi değil bir fırsat olarak değerlendirebilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Uyarıyı bir hediye say",
+   "aciklama": "Bugün aldığın bir uyarıyı (sağlık, ilişki, iş) görmezden gelmek yerine ciddiye al."
+  },
+  {
+   "baslik": "Sonucu düşünerek karar ver",
+   "aciklama": "Bir kararını vermeden önce olası kötü sonucunu bir kez yaz."
+  },
+  {
+   "baslik": "Kaçınma değil hazırlık yap",
+   "aciklama": "Korktuğun bir şeyden kaçmak yerine ona karşı bugün küçük bir tedbir al."
+  }
+ ],
+ "bugununAdimi": "Bugün görmezden geldiğin bir uyarıyı not et ve ona karşı bir tedbir al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=42"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/55/42"
+  }
+ ]
+}

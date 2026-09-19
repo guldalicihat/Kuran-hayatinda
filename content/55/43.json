@@ -1,0 +1,96 @@
+{
+ "sure": 55,
+ "ayet": 43,
+ "durum": "taslak",
+ "meal": "İşte bu, suçluların yalanladığı cehennemdir.",
+ "mealNotu": "Kısa, kelimelere sadık bir ayet; ek yorum eklenmemiştir.",
+ "kokler": [
+  {
+   "kelime": "هَٰذِهِۦ",
+   "okunus": "hâzihî",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "جَهَنَّمُ",
+   "okunus": "cehennemü",
+   "kok": "—",
+   "kokAnlam": "(özel isim) cehennem",
+   "karsilik": "cehennemdir"
+  },
+  {
+   "kelime": "ٱلَّتِى",
+   "okunus": "elletî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "يُكَذِّبُ",
+   "okunus": "yükezzibü",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama, gerçeği örtme",
+   "karsilik": "yalanlar"
+  },
+  {
+   "kelime": "بِهَا",
+   "okunus": "bihâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "ٱلْمُجْرِمُونَ",
+   "okunus": "elmücrimûne",
+   "kok": "جرم",
+   "kokAnlam": "suç işleme, günah",
+   "karsilik": "suçlular"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette perçemlerinden ve ayaklarından yakalanan suçluların sürüklendiği yer burada adlandırılır: cehennem. Ayet, cehennemi inkâr etmenin bizzat suçlulara özgü bir tavır olduğunu 'yalanlayanlar' ifadesiyle vurgular.",
+  "'Hâzihî' (işte bu) işaret zamiri sahneyi somutlaştırır, sanki gösterilen bir yer tarif edilir. Klasik tefsir bunu, dünyada yalanlanan cehennemin ahirette gözler önüne serilmesi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "83:10",
+   "meal": "Yalanlayanların o gün vay haline!",
+   "baglanti": "'Yükezzibü' fiiliyle aynı kökten; cehennemi yalanlamanın akıbeti burada da anlatılır."
+  },
+  {
+   "ref": "67:6",
+   "meal": "Rablerini inkâr edenler için cehennem azabı vardır; ne kötü bir dönüş yeridir.",
+   "baglanti": "Cehennemin, inkâr ve yalanlama karşılığında hazırlanmış bir yer olduğunu doğrular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan ahiret gerçeğidir, günlük bir tavsiye alanı değildir.",
+  "Yine de çıkan ders şudur: bir şeyi inkâr etmek onu yok etmez; bugün de gerçeklerden kaçmak yerine yüzleşmek daha sağlıklıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaçmak yerine yüzleş",
+   "aciklama": "Bugün görmezden geldiğin zor bir gerçekle kısa süreliğine de olsa yüzleş."
+  },
+  {
+   "baslik": "Ahireti hatırlatacak bir not tut",
+   "aciklama": "Bir gün hesap vereceğini hatırlatacak tek bir cümle yaz, gözünün önünde tut."
+  },
+  {
+   "baslik": "Önce düşün, sonra reddet",
+   "aciklama": "Anlamadığın bir konuda hemen reddetmek yerine önce üzerinde düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün kaçındığın bir gerçekle birkaç dakika yüzleş ve ne hissettiğini yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=55&verse=43"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/55/43"
+  }
+ ]
+}
