@@ -1,0 +1,278 @@
+{
+ "sure": 65,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Onları, gücünüz ölçüsünce oturduğunuz yerin bir bölümünde barındırın; onları sıkıştırmak için zarar vermeyin. Eğer gebe iseler, doğuruncaya kadar onlara nafaka verin. Sizin için emzirirlerse, onlara ücretlerini verin ve aranızda güzellikle danışın. Eğer zorlanır (anlaşamaz)sanız, başka bir kadın onun için emzirecektir.",
+ "mealNotu": "'Sekene' kökü سكن barınma/yerleşmeyi, 'ücûr' kökü أجر karşılık/ücreti anlatır. 'Vücdiküm' (gücünüz/imkânınız) kelimesiyle barındırmanın kişinin imkânı ölçüsünde olduğu vurgulanır.",
+ "kokler": [
+  {
+   "kelime": "أَسْكِنُوهُنَّ",
+   "okunus": "eskinûhünne",
+   "kok": "سكن",
+   "kokAnlam": "yerleşme, oturma, barınma",
+   "karsilik": "onları barındırın"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat, -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "حَيْثُ",
+   "okunus": "haysü",
+   "kok": "حيث",
+   "kokAnlam": "yer, taraf",
+   "karsilik": "olan yerde"
+  },
+  {
+   "kelime": "سَكَنتُم",
+   "okunus": "sekentüm",
+   "kok": "سكن",
+   "kokAnlam": "yerleşme, oturma, barınma",
+   "karsilik": "oturduğunuz"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat, -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "وُجْدِكُمْ",
+   "okunus": "vücdiküm",
+   "kok": "وجد",
+   "kokAnlam": "bulma, imkân, varlık",
+   "karsilik": "gücünüz ölçüsünce"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ve -mayın"
+  },
+  {
+   "kelime": "تُضَآرُّوهُنَّ",
+   "okunus": "tüdârrûhünne",
+   "kok": "ضرر",
+   "kokAnlam": "zarar verme",
+   "karsilik": "onlara zarar vermeyin"
+  },
+  {
+   "kelime": "لِتُضَيِّقُوا۟",
+   "okunus": "litüdayyikû",
+   "kok": "ضيق",
+   "kokAnlam": "daraltma, sıkıştırma",
+   "karsilik": "sıkıştırmak için"
+  },
+  {
+   "kelime": "عَلَيْهِنَّ",
+   "okunus": "aleyhinne",
+   "kok": "—",
+   "kokAnlam": "edat, üzerlerine",
+   "karsilik": "onların üzerine"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "şart edatı, eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "كُنَّ",
+   "okunus": "künne",
+   "kok": "كون",
+   "kokAnlam": "olmak, varlık",
+   "karsilik": "iseler"
+  },
+  {
+   "kelime": "أُو۟لَٰتِ",
+   "okunus": "ülâti",
+   "kok": "—",
+   "kokAnlam": "sahip olanlar",
+   "karsilik": "sahibi"
+  },
+  {
+   "kelime": "حَمْلٍ",
+   "okunus": "hamlin",
+   "kok": "حمل",
+   "kokAnlam": "taşıma, yük, gebelik",
+   "karsilik": "gebelik"
+  },
+  {
+   "kelime": "فَأَنفِقُوا۟",
+   "okunus": "feenfikû",
+   "kok": "نفق",
+   "kokAnlam": "harcama, infak",
+   "karsilik": "onlara nafaka verin"
+  },
+  {
+   "kelime": "عَلَيْهِنَّ",
+   "okunus": "aleyhinne",
+   "kok": "—",
+   "kokAnlam": "edat, üzerlerine",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "edat, -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "يَضَعْنَ",
+   "okunus": "yeda'ne",
+   "kok": "وضع",
+   "kokAnlam": "koyma, bırakma, doğurma",
+   "karsilik": "doğuruncaya"
+  },
+  {
+   "kelime": "حَمْلَهُنَّ",
+   "okunus": "hamlehünne",
+   "kok": "حمل",
+   "kokAnlam": "taşıma, yük, gebelik",
+   "karsilik": "yüklerini"
+  },
+  {
+   "kelime": "فَإِنْ",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "şart edatı, eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَرْضَعْنَ",
+   "okunus": "erda'ne",
+   "kok": "رضع",
+   "kokAnlam": "emzirme",
+   "karsilik": "emzirirlerse"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "zamir, sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "فَـَٔاتُوهُنَّ",
+   "okunus": "feâtûhünne",
+   "kok": "أتي",
+   "kokAnlam": "gelme, verme",
+   "karsilik": "onlara verin"
+  },
+  {
+   "kelime": "أُجُورَهُنَّ",
+   "okunus": "ücûrahünne",
+   "kok": "أجر",
+   "kokAnlam": "karşılık, ücret",
+   "karsilik": "ücretlerini"
+  },
+  {
+   "kelime": "وَأْتَمِرُوا۟",
+   "okunus": "ve temirû",
+   "kok": "أمر",
+   "kokAnlam": "iş, danışma",
+   "karsilik": "ve aranızda danışın"
+  },
+  {
+   "kelime": "بَيْنَكُم",
+   "okunus": "beyneküm",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında",
+   "karsilik": "aranızda"
+  },
+  {
+   "kelime": "بِمَعْرُوفٍ",
+   "okunus": "bima'rûfin",
+   "kok": "عرف",
+   "kokAnlam": "bilinen, iyilik, örf",
+   "karsilik": "güzellikle"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "şart edatı, eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "تَعَاسَرْتُمْ",
+   "okunus": "teâsertüm",
+   "kok": "عسر",
+   "kokAnlam": "zorluk, güçlük",
+   "karsilik": "zorlanırsanız"
+  },
+  {
+   "kelime": "فَسَتُرْضِعُ",
+   "okunus": "fesetürdıu",
+   "kok": "رضع",
+   "kokAnlam": "emzirme",
+   "karsilik": "emzirecektir"
+  },
+  {
+   "kelime": "لَهُۥٓ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "zamir, onun için",
+   "karsilik": "onun için"
+  },
+  {
+   "kelime": "أُخْرَىٰ",
+   "okunus": "ührâ",
+   "kok": "أخر",
+   "kokAnlam": "sonra olma, başka",
+   "karsilik": "başka bir kadın"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, boşanmış ve iddet bekleyen kadının barındırılmasını, ona zarar verilerek sıkıştırılmamasını, gebeyse doğuma kadar nafakasının karşılanmasını ve ortak çocuğu emzirirse buna karşılık bir ücret verilmesini düzenler; anlaşmazlık halinde başka bir kadının emzirebileceği de belirtilir.",
+  "Ayet, bu süreçte tarafların 'güzellikle' (ma'ruf) danışmasını ister; bu, boşanma sonrasında bile kadının maddi güvencesinin ve saygınlığının korunmasını amaçlayan bir düzenlemedir. Uygulamadaki miktar ve ayrıntılar İslam hukuku geleneğinde farklı görüşlerle ele alınmıştır; burada ayetin kendi ifadesiyle yetinilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:233",
+   "meal": "Anneler çocuklarını iki tam yıl emzirirler... Babaya da onların (annelerin) yiyeceği, giyeceği örfe uygun olarak yüklenir.",
+   "baglanti": "Emzirme, nafaka ve 'ma'ruf' (örfe uygunluk) ilkesini birlikte içeren bu ayet, 65:6'daki düzenlemenin doğrudan devamı niteliğindedir."
+  },
+  {
+   "ref": "2:241",
+   "meal": "Boşanmış kadınlara örfe uygun bir geçimlik vermek, Allah'a karşı sorumluluk bilinci taşıyanlar üzerine bir borçtur.",
+   "baglanti": "Boşanan kadına geçimlik verme ilkesini genel olarak vurgulayan bu ayet, 65:6'daki barındırma ve nafaka emrini destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, boşanma sürecinde kadının barınma, nafaka ve emzirme ücretiyle ilgili maddi haklarının güvence altına alınmasıdır.",
+  "Buradan çıkan ders, bir ilişki bitse bile tarafların birbirine karşı sorumluluklarının (özellikle ortak çocuğa dair) bitmediği ve anlaşmazlıkların dayatma yerine güzellikle danışma yoluyla çözülmesi gerektiğidir. Bu ilke, günlük hayatta her türlü ortaklığın bitişinde adil davranma dersi verir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bitmiş bir ilişkide de adil ol",
+   "aciklama": "Bir ortaklık veya ilişki sona erdiğinde bile, karşı tarafın hakkını eksiksiz ver."
+  },
+  {
+   "baslik": "Danışarak çöz",
+   "aciklama": "Bir anlaşmazlığı tek başına dayatmak yerine, ilgili kişiyle güzellikle konuşup ortak bir çözüm bul."
+  },
+  {
+   "baslik": "Çocuğun iyiliğini önceleme",
+   "aciklama": "Bir ayrılık varsa bile, ortak sorumluluk altındaki çocuğun ihtiyaçlarını öncelikli tut."
+  }
+ ],
+ "bugununAdimi": "Bugün bir anlaşmazlıkta karşı tarafla güzellikle danışarak ortak bir çözüm ara.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=65&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/65/6"
+  }
+ ]
+}

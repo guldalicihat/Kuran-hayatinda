@@ -1,0 +1,264 @@
+{
+ "sure": 65,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Onlar bekleme sürelerinin sonuna yaklaştıklarında, ya onları güzellikle tutun ya da güzellikle ayrılın. Aranızdan adalet sahibi iki kişiyi şahit tutun ve şahitliği Allah için hakkıyla yerine getirin. İşte bu, Allah'a ve ahiret gününe iman eden kimseye verilen bir öğüttür. Kim Allah'tan sakınırsa, [Allah] ona bir çıkış yolu yaratır.",
+ "mealNotu": "'Mahrec' kökü خرج çıkma/çıkış anlamındadır; 'yec'al' fiilinin öznesi ayetin başındaki Allah'a atıfla anlaşıldığından [Allah] köşeli parantezle eklendi. 'Ma'ruf' kökü عرف örfte bilinen iyiliği, güzelliği anlatır.",
+ "kokler": [
+  {
+   "kelime": "فَإِذَا",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "zaman edatı, olduğunda",
+   "karsilik": "-dıkları zaman"
+  },
+  {
+   "kelime": "بَلَغْنَ",
+   "okunus": "belağne",
+   "kok": "بلغ",
+   "kokAnlam": "ulaşma, erişme",
+   "karsilik": "ulaştıklarında"
+  },
+  {
+   "kelime": "أَجَلَهُنَّ",
+   "okunus": "ecelehünne",
+   "kok": "أجل",
+   "kokAnlam": "süre, vade, belirlenmiş zaman",
+   "karsilik": "sürelerinin sonuna"
+  },
+  {
+   "kelime": "فَأَمْسِكُوهُنَّ",
+   "okunus": "feemsikûhünne",
+   "kok": "مسك",
+   "kokAnlam": "tutma, alıkoyma",
+   "karsilik": "ya onları tutun"
+  },
+  {
+   "kelime": "بِمَعْرُوفٍ",
+   "okunus": "bima'rûfin",
+   "kok": "عرف",
+   "kokAnlam": "bilinen, iyilik, örf",
+   "karsilik": "güzellikle"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "bağlaç, veya",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "فَارِقُوهُنَّ",
+   "okunus": "fârikûhünne",
+   "kok": "فرق",
+   "kokAnlam": "ayrılma, ayırma",
+   "karsilik": "onlardan ayrılın"
+  },
+  {
+   "kelime": "بِمَعْرُوفٍ",
+   "okunus": "bima'rûfin",
+   "kok": "عرف",
+   "kokAnlam": "bilinen, iyilik, örf",
+   "karsilik": "güzellikle"
+  },
+  {
+   "kelime": "وَأَشْهِدُوا۟",
+   "okunus": "ve eşhidû",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık etme, şahit olma",
+   "karsilik": "ve şahit tutun"
+  },
+  {
+   "kelime": "ذَوَىْ",
+   "okunus": "zevey",
+   "kok": "—",
+   "kokAnlam": "sahip olan, -li",
+   "karsilik": "sahiplerini"
+  },
+  {
+   "kelime": "عَدْلٍ",
+   "okunus": "adlin",
+   "kok": "عدل",
+   "kokAnlam": "denge, adalet",
+   "karsilik": "adalet"
+  },
+  {
+   "kelime": "مِّنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "edat, -den",
+   "karsilik": "aranızdan"
+  },
+  {
+   "kelime": "وَأَقِيمُوا۟",
+   "okunus": "ve ekîmû",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, ikame etme",
+   "karsilik": "ve ayakta tutun"
+  },
+  {
+   "kelime": "ٱلشَّهَٰدَةَ",
+   "okunus": "eşşehâdete",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık etme, şahitlik",
+   "karsilik": "şahitliği"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah için"
+  },
+  {
+   "kelime": "ذَٰلِكُمْ",
+   "okunus": "zâliküm",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri, o/bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "يُوعَظُ",
+   "okunus": "yûazu",
+   "kok": "وعظ",
+   "kokAnlam": "öğüt verme",
+   "karsilik": "öğüt verilir"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "zamir, onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, kim",
+   "karsilik": "kimseye ki"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olmak, varlık",
+   "karsilik": "olan"
+  },
+  {
+   "kelime": "يُؤْمِنُ",
+   "okunus": "yü'minü",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman etme",
+   "karsilik": "iman eder"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَٱلْيَوْمِ",
+   "okunus": "vel yevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "ve gününe"
+  },
+  {
+   "kelime": "ٱلْءَاخِرِ",
+   "okunus": "el'âhıri",
+   "kok": "أخر",
+   "kokAnlam": "sonra olma, son",
+   "karsilik": "ahiret"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "şart edatı, kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "يَتَّقِ",
+   "okunus": "yettekı",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "sakınırsa"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "يَجْعَل",
+   "okunus": "yec'al",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "kılar"
+  },
+  {
+   "kelime": "لَّهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "zamir, ona ait",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "مَخْرَجًا",
+   "okunus": "mahracen",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, çıkış",
+   "karsilik": "bir çıkış yolu"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayette anlatılan iddet sürecinin sona ermesiyle ilgili iki seçeneği düzenler: evlilik ilişkisini güzellikle sürdürmek ya da güzellikle ayrılmak. Ardından, bu kararın aranızdan adalet sahibi iki kişinin şahitliğiyle kayıt altına alınması ve şahitliğin Allah için dürüstçe yapılması emredilir.",
+  "Ayetin son cümlesi, 'kim Allah'tan sakınırsa ona bir çıkış yolu yaratır', doğrudan boşanma bağlamında söylenmiş olsa da, klasik tefsir bunu her türlü sıkıntıda geçerli evrensel bir ilke olarak da okur. Ayet böylece hem hukuki bir düzenlemeyi hem de imanın genel bir semeresini bir arada barındırır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:135",
+   "meal": "Ey iman edenler! Kendiniz, ana-babanız ve yakınlarınız aleyhine de olsa, adaleti ayakta tutan şahitler olun.",
+   "baglanti": "'Şehâdeti ayakta tutma' emri bu ayette de geçer; adaletle şahitlik ilkesinin boşanma sürecinde de geçerli olduğunu gösterir."
+  },
+  {
+   "ref": "2:282",
+   "meal": "...içinizden iki erkeği şahit tutun...",
+   "baglanti": "Şahit tutma ve şahitliği doğru yapma emri, Kur'an'da önemli hukuki işlemlerde tekrarlanan bir ilkedir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, boşanma sürecinde iki seçeneğin (barışma ya da ayrılma) net biçimde ortaya konması ve bu kararın güvenilir şahitlerle kayıt altına alınmasıdır.",
+  "Buradan çıkan ders, önemli kararları şeffaf ve adil şekilde, gizli saklı değil, hesap verebilir biçimde almaktır. Bu ilke sadece boşanmaya değil, günlük hayattaki her önemli anlaşmaya da uygulanabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kararını netleştir",
+   "aciklama": "Belirsizlikte bıraktığın bir konuyu bugün net ve adil bir karara bağla."
+  },
+  {
+   "baslik": "Şeffaf ol",
+   "aciklama": "Önemli bir anlaşmayı gizli değil, güvendiğin birinin bilgisi dahilinde yap."
+  },
+  {
+   "baslik": "Takvaya güven",
+   "aciklama": "Zorlandığın bir konuda Allah'a sığınarak bir çıkış yolu ara, çareyi yalnız kendi gücünde arama."
+  }
+ ],
+ "bugununAdimi": "Bugün belirsiz bıraktığın bir konuda net bir karar ver ve güvendiğin biriyle paylaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=65&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/65/2"
+  }
+ ]
+}

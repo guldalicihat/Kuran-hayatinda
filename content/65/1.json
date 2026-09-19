@@ -1,0 +1,341 @@
+{
+ "sure": 65,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Ey Peygamber! Kadınları boşadığınız zaman, onları iddetlerine karşı boşayın ve iddeti sayın; Rabbiniz olan Allah'tan sakının. Onları evlerinden çıkarmayın, kendileri de açık bir hayâsızlık yapmaları dışında çıkmasınlar. İşte bunlar Allah'ın sınırlarıdır. Kim Allah'ın sınırlarını aşarsa kendine zulmetmiş olur. Bilemezsin, belki Allah bundan sonra yeni bir durum ortaya çıkarır.",
+ "mealNotu": "'Tallektüm' ve 'iddet' kökleri طلق/عدد boşama eylemini ve sayılan bekleme süresini anlatır; 'hudûdullah' ifadesi 'Allah'ın sınırları' olarak birebir çevrildi. 'Fâhişetin mübeyyine' köşeli parantez eklenmeden 'açık bir hayâsızlık' olarak verildi.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "hitap edatı, ey",
+   "karsilik": "Ey"
+  },
+  {
+   "kelime": "ٱلنَّبِىُّ",
+   "okunus": "ennebiyyü",
+   "kok": "نبأ",
+   "kokAnlam": "haber verme; peygamberlik",
+   "karsilik": "Peygamber"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman edatı) olduğunda",
+   "karsilik": "-dığı zaman"
+  },
+  {
+   "kelime": "طَلَّقْتُمُ",
+   "okunus": "tallektümü",
+   "kok": "طلق",
+   "kokAnlam": "çözme, serbest bırakma; boşama",
+   "karsilik": "boşadığınız"
+  },
+  {
+   "kelime": "ٱلنِّسَآءَ",
+   "okunus": "ennisâe",
+   "kok": "نسو",
+   "kokAnlam": "kadın",
+   "karsilik": "kadınları"
+  },
+  {
+   "kelime": "فَطَلِّقُوهُنَّ",
+   "okunus": "fetallikûhünne",
+   "kok": "طلق",
+   "kokAnlam": "çözme, serbest bırakma; boşama",
+   "karsilik": "boşayın onları"
+  },
+  {
+   "kelime": "لِعِدَّتِهِنَّ",
+   "okunus": "liiddetihinne",
+   "kok": "عدد",
+   "kokAnlam": "sayma; sayılmış süre, iddet",
+   "karsilik": "iddetlerine karşı"
+  },
+  {
+   "kelime": "وَأَحْصُوا۟",
+   "okunus": "ve ahsû",
+   "kok": "حصي",
+   "kokAnlam": "sayma, hesaba katma",
+   "karsilik": "ve sayın"
+  },
+  {
+   "kelime": "ٱلْعِدَّةَ",
+   "okunus": "el'iddete",
+   "kok": "عدد",
+   "kokAnlam": "sayma; sayılmış süre, iddet",
+   "karsilik": "iddeti"
+  },
+  {
+   "kelime": "وَٱتَّقُوا۟",
+   "okunus": "vettekû",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "ve sakının"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "رَبَّكُمْ",
+   "okunus": "rabbeküm",
+   "kok": "ربب",
+   "kokAnlam": "sahiplik, terbiye etme, rablik",
+   "karsilik": "Rabbiniz olan"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "-mayın"
+  },
+  {
+   "kelime": "تُخْرِجُوهُنَّ",
+   "okunus": "tühricûhünne",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, çıkarma",
+   "karsilik": "onları çıkarmayın"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بُيُوتِهِنَّ",
+   "okunus": "büyûtihinne",
+   "kok": "بيت",
+   "kokAnlam": "ev, mesken",
+   "karsilik": "evlerinden"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ve -masınlar"
+  },
+  {
+   "kelime": "يَخْرُجْنَ",
+   "okunus": "yahrucne",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, çıkarma",
+   "karsilik": "kendileri çıkmasınlar"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna edatı",
+   "karsilik": "dışında"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "bağlaç",
+   "karsilik": "-meleri"
+  },
+  {
+   "kelime": "يَأْتِينَ",
+   "okunus": "ye'tîne",
+   "kok": "أتي",
+   "kokAnlam": "gelme, ortaya koyma",
+   "karsilik": "yapmaları"
+  },
+  {
+   "kelime": "بِفَٰحِشَةٍ",
+   "okunus": "bifâhişetin",
+   "kok": "فحش",
+   "kokAnlam": "çirkinlik, hayâsızlık",
+   "karsilik": "açık bir hayâsızlık"
+  },
+  {
+   "kelime": "مُّبَيِّنَةٍ",
+   "okunus": "mübeyyinetin",
+   "kok": "بين",
+   "kokAnlam": "açığa çıkma, açıklık",
+   "karsilik": "apaçık"
+  },
+  {
+   "kelime": "وَتِلْكَ",
+   "okunus": "ve tilke",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri, o/bunlar",
+   "karsilik": "işte bunlar"
+  },
+  {
+   "kelime": "حُدُودَ",
+   "okunus": "hudûdü",
+   "kok": "حدد",
+   "kokAnlam": "sınır, had",
+   "karsilik": "sınırlarıdır"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "şart edatı, kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "يَتَعَدَّ",
+   "okunus": "yeteadde",
+   "kok": "عدو",
+   "kokAnlam": "aşma, haddi aşma",
+   "karsilik": "aşarsa"
+  },
+  {
+   "kelime": "حُدُودَ",
+   "okunus": "hudûde",
+   "kok": "حدد",
+   "kokAnlam": "sınır, had",
+   "karsilik": "sınırlarını"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَقَدْ",
+   "okunus": "fekad",
+   "kok": "—",
+   "kokAnlam": "kesinlik edatı",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "ظَلَمَ",
+   "okunus": "zaleme",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık etme, zulüm",
+   "karsilik": "zulmetmiş olur"
+  },
+  {
+   "kelime": "نَفْسَهُۥ",
+   "okunus": "nefsehû",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "kendine"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "-mezsin"
+  },
+  {
+   "kelime": "تَدْرِى",
+   "okunus": "tedrî",
+   "kok": "دري",
+   "kokAnlam": "bilme, farkında olma",
+   "karsilik": "bilemezsin"
+  },
+  {
+   "kelime": "لَعَلَّ",
+   "okunus": "lealle",
+   "kok": "—",
+   "kokAnlam": "umut/te'kid edatı, belki",
+   "karsilik": "belki"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يُحْدِثُ",
+   "okunus": "yühdisü",
+   "kok": "حدث",
+   "kokAnlam": "ortaya çıkma, meydana getirme",
+   "karsilik": "ortaya çıkarır"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonra, uzaklık",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri, o",
+   "karsilik": "bundan"
+  },
+  {
+   "kelime": "أَمْرًا",
+   "okunus": "emran",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir, durum",
+   "karsilik": "bir durum"
+  }
+ ],
+ "neAnlatiyor": [
+  "Talâk suresi Medine'de inmiş, adından da anlaşılacağı gibi boşanmanın usulünü ve boşanma sonrası kadının haklarını düzenler. Sure, Peygamber'e (ve onun şahsında bütün müminlere) hitapla açılır: kadınlar boşanacaksa bu, iddet süresi gözetilerek yapılmalı, iddet dikkatle sayılmalı ve bütün bu süreç Allah'tan sakınma bilinciyle yürütülmelidir. Ayet, açık bir hayâsızlık isnadı olmadıkça kadının evden çıkarılmamasını, kendisinin de çıkmamasını emreder; bu, kadını koruyucu bir hüküm olarak öne çıkar.",
+  "Ayet bu düzenlemeyi 'hudûdullah' (Allah'ın sınırları) olarak niteler ve bu sınırı aşmanın kişinin kendine zulmü olacağını bildirir; sonda ise insanın öngöremeyeceği bir gelişmenin (örneğin bir yakınlaşma) olabileceğine işaret ederek acele etmemeyi telkin eder. İddetin süresi ve ayrıntılı uygulanışı konusunda İslam hukuku geleneğinde farklı görüşler bulunur; burada ayetin kendi lafzıyla yetinilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:229",
+   "meal": "Boşanma iki defadır. Sonra ya iyilikle tutmak ya da güzellikle salıvermektir... Bunlar Allah'ın koyduğu sınırlardır, onları aşmayın.",
+   "baglanti": "'Hudûdullah' (Allah'ın sınırları) ifadesi burada da geçer; boşanmanın belirli sınırlar içinde, keyfî olmayan bir süreç olduğunu pekiştirir."
+  },
+  {
+   "ref": "4:19",
+   "meal": "Ey iman edenler! Kadınlara zorla mirasçı olmaya kalkışmanız helâl değildir; onlara verdiklerinizin bir kısmını almak için de onları sıkıştırmayın.",
+   "baglanti": "Boşanma ve evlilik süreçlerinde kadına baskı ve zarar vermeyi yasaklayan bu ayet, 65:1'deki koruyucu tavrın genel bir ilkesini gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu boşanmanın usulüdür: iddet süresinin gözetilmesi, kadının evden çıkarılmaması ve sürecin Allah'a karşı sorumluluk bilinciyle yürütülmesi. Bu, özel bir aile hukuku düzenlemesidir.",
+  "Buradan çıkan genel ders, önemli ve geri dönüşü zor kararların öfkeyle, aceleyle değil, konulmuş sınırlara saygı göstererek alınması gerektiğidir. 'Belki Allah bundan sonra yeni bir durum ortaya çıkarır' ifadesi, bugün de bir anlaşmazlıkta kapıyı tamamen kapatmadan, sabırla beklemenin bir imkân doğurabileceğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Acele karar verme",
+   "aciklama": "Zor bir kararın eşiğindeysen, hemen değil biraz düşünüp ölçülü davranarak karar ver."
+  },
+  {
+   "baslik": "Sınırı aşma",
+   "aciklama": "Bir anlaşmazlıkta kendine zulmetmemek için adil ölçüyü aşmamaya dikkat et."
+  },
+  {
+   "baslik": "Evi güvenli bir yer yap",
+   "aciklama": "Evindeki biriyle anlaşmazlığın olsa da, onu çaresiz ya da güvensiz bırakacak bir tavırdan kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün bir anlaşmazlıkta hemen tepki vermeden önce durup düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=65&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/65/1"
+  }
+ ]
+}

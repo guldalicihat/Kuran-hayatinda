@@ -1,0 +1,103 @@
+{
+ "sure": 65,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Böylece işinin vebalini tattı; işinin sonucu bir hüsran oldu.",
+ "mealNotu": "'Vebâl' kökü وبل ağır sonucu, 'husr' kökü خسر kaybı ve hüsranı anlatır; her ikisi de kökün taşıdığı ağırlık vurgusuyla çevrildi.",
+ "kokler": [
+  {
+   "kelime": "فَذَاقَتْ",
+   "okunus": "fezâkat",
+   "kok": "ذوق",
+   "kokAnlam": "tatma",
+   "karsilik": "tattı"
+  },
+  {
+   "kelime": "وَبَالَ",
+   "okunus": "vebâle",
+   "kok": "وبل",
+   "kokAnlam": "ağır sonuç, vebal",
+   "karsilik": "vebalini"
+  },
+  {
+   "kelime": "أَمْرِهَا",
+   "okunus": "emrihâ",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir, durum",
+   "karsilik": "işinin"
+  },
+  {
+   "kelime": "وَكَانَ",
+   "okunus": "ve kâne",
+   "kok": "كون",
+   "kokAnlam": "olmak, varlık",
+   "karsilik": "ve oldu"
+  },
+  {
+   "kelime": "عَٰقِبَةُ",
+   "okunus": "âkıbetü",
+   "kok": "عقب",
+   "kokAnlam": "sonuç, akıbet",
+   "karsilik": "akıbeti"
+  },
+  {
+   "kelime": "أَمْرِهَا",
+   "okunus": "emrihâ",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir, durum",
+   "karsilik": "işinin"
+  },
+  {
+   "kelime": "خُسْرًا",
+   "okunus": "husran",
+   "kok": "خسر",
+   "kokAnlam": "kayıp, zarar, hüsran",
+   "karsilik": "bir hüsran"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 65:8'de anlatılan baş kaldıran memleketin akıbetini tamamlar: yaptığı işin ağır sonucunu (vebalini) tatmış ve nihayetinde hüsrana uğramıştır.",
+  "'Tatma' fiilinin kullanılması, sonucun kaçınılmaz ve doğrudan yaşanan bir gerçeklik olduğunu vurgular; bu ifade Kur'an'da sıkça, kişinin kendi seçiminin doğal sonucuyla yüzleşmesini anlatmak için kullanılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "64:5",
+   "meal": "Önce inkâr edenlerin haberi size gelmedi mi? Onlar işlerinin vebalini tattılar.",
+   "baglanti": "Neredeyse aynı ifadeyle ('vebâle emrihâ') geçen bu ayet, inkâr ve isyanın sonucunun 'tadılması' imgesini pekiştirir."
+  },
+  {
+   "ref": "59:15",
+   "meal": "Onlar, kendilerinden az önce gelip yaptıklarının vebalini tatmış olanlar gibidir.",
+   "baglanti": "Aynı 'vebâl tatma' imgesiyle, geçmişteki hataların sonucunun kaçınılmazlığını vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kötü bir seçimin sonucunun kaçınılmaz biçimde yaşanmasıdır.",
+  "Buradan çıkan ders, kişinin bugün verdiği kararların er ya da geç bir karşılığı olacağını bilmesidir; bu bilinç, hem büyük hem küçük kararlarda daha sorumlu davranmayı teşvik eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sonucu düşünerek karar ver",
+   "aciklama": "Bugün vereceğin bir kararın uzun vadeli sonucunu bir an düşün."
+  },
+  {
+   "baslik": "Kaçtığın sorumluluğu üstlen",
+   "aciklama": "Ertelediğin bir sorumluluğu, büyümeden bugün ele al."
+  },
+  {
+   "baslik": "Hüsrandan kaçınmanın yolu",
+   "aciklama": "Kısa vadeli bir kazanç için uzun vadeli bir değerden ödün vermekten kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün erteleyip durduğun bir sorumluluğu ele al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=65&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/65/9"
+  }
+ ]
+}

@@ -1,0 +1,292 @@
+{
+ "sure": 65,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "[Size] Allah'ın apaçık ayetlerini okuyan bir elçi de [gönderdi]; iman edip salih ameller işleyenleri karanlıklardan aydınlığa çıkarsın diye. Kim Allah'a iman eder ve salih amel işlerse, [Allah] onu, içinde ebedî kalacakları, altından ırmaklar akan cennetlere koyar. Allah gerçekten onun rızkını güzelleştirmiştir.",
+ "mealNotu": "Ayet, önceki ayetteki 'size bir zikir indirdi' ifadesinin devamı olduğundan, 'rasûlen' (bir elçi) kelimesinin fiili [gönderdi] köşeli parantezle tamamlandı. 'Zulümât-nûr' (karanlıklar-aydınlık) zıtlığı kök anlamıyla korundu.",
+ "kokler": [
+  {
+   "kelime": "رَّسُولًا",
+   "okunus": "rasûlen",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçilik",
+   "karsilik": "bir elçi"
+  },
+  {
+   "kelime": "يَتْلُوا۟",
+   "okunus": "yetlû",
+   "kok": "تلو",
+   "kokAnlam": "okuma, ardınca gitme, tilavet",
+   "karsilik": "okuyan"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "edat, üzerinize",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "ءَايَٰتِ",
+   "okunus": "âyâti",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alâmet, ayet",
+   "karsilik": "ayetlerini"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "مُبَيِّنَٰتٍ",
+   "okunus": "mübeyyinâtin",
+   "kok": "بين",
+   "kokAnlam": "açığa çıkma, açıklık",
+   "karsilik": "apaçık"
+  },
+  {
+   "kelime": "لِّيُخْرِجَ",
+   "okunus": "liyührice",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, çıkarma",
+   "karsilik": "çıkarmak için"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, olanlar",
+   "karsilik": "-anları"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman etme",
+   "karsilik": "iman edenleri"
+  },
+  {
+   "kelime": "وَعَمِلُوا۟",
+   "okunus": "ve amilû",
+   "kok": "عمل",
+   "kokAnlam": "yapma, işleme, amel",
+   "karsilik": "ve yapanları"
+  },
+  {
+   "kelime": "ٱلصَّٰلِحَٰتِ",
+   "okunus": "essâlihâti",
+   "kok": "صلح",
+   "kokAnlam": "iyi olma, düzelme, salih",
+   "karsilik": "salih amelleri"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "edat, -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلظُّلُمَٰتِ",
+   "okunus": "ezzulümâti",
+   "kok": "ظلم",
+   "kokAnlam": "karanlık, haksızlık",
+   "karsilik": "karanlıklardan"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "edat, -e doğru",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلنُّورِ",
+   "okunus": "ennûri",
+   "kok": "نور",
+   "kokAnlam": "aydınlık, nur",
+   "karsilik": "aydınlığa"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "şart edatı, kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "يُؤْمِنۢ",
+   "okunus": "yü'mim",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman etme",
+   "karsilik": "iman ederse"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَيَعْمَلْ",
+   "okunus": "ve ya'mel",
+   "kok": "عمل",
+   "kokAnlam": "yapma, işleme, amel",
+   "karsilik": "ve yaparsa"
+  },
+  {
+   "kelime": "صَٰلِحًا",
+   "okunus": "sâlihan",
+   "kok": "صلح",
+   "kokAnlam": "iyi olma, düzelme, salih",
+   "karsilik": "salih amel"
+  },
+  {
+   "kelime": "يُدْخِلْهُ",
+   "okunus": "yüdhılhü",
+   "kok": "دخل",
+   "kokAnlam": "girme, dahil etme",
+   "karsilik": "onu sokar"
+  },
+  {
+   "kelime": "جَنَّٰتٍ",
+   "okunus": "cennâtin",
+   "kok": "جنن",
+   "kokAnlam": "örtülü bahçe, cennet",
+   "karsilik": "cennetlere"
+  },
+  {
+   "kelime": "تَجْرِى",
+   "okunus": "tecrî",
+   "kok": "جري",
+   "kokAnlam": "akma, koşma",
+   "karsilik": "akan"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat, -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "تَحْتِهَا",
+   "okunus": "tahtihâ",
+   "kok": "تحت",
+   "kokAnlam": "alt, aşağı",
+   "karsilik": "altından"
+  },
+  {
+   "kelime": "ٱلْأَنْهَٰرُ",
+   "okunus": "el'enhâru",
+   "kok": "نهر",
+   "kokAnlam": "nehir, ırmak",
+   "karsilik": "ırmaklar"
+  },
+  {
+   "kelime": "خَٰلِدِينَ",
+   "okunus": "hâlidîne",
+   "kok": "خلد",
+   "kokAnlam": "kalıcılık, ebediyet",
+   "karsilik": "ebedî kalıcılar olarak"
+  },
+  {
+   "kelime": "فِيهَآ",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "edat, içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "أَبَدًا",
+   "okunus": "ebeden",
+   "kok": "أبد",
+   "kokAnlam": "sonsuzluk, ebediyet",
+   "karsilik": "sonsuza dek"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "kesinlik edatı",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "أَحْسَنَ",
+   "okunus": "ahsene",
+   "kok": "حسن",
+   "kokAnlam": "güzellik, iyilik",
+   "karsilik": "güzelleştirmiştir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "zamir, ona ait",
+   "karsilik": "onun"
+  },
+  {
+   "kelime": "رِزْقًا",
+   "okunus": "rizkan",
+   "kok": "رزق",
+   "kokAnlam": "rızık, nasip",
+   "karsilik": "rızkını"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 65:10'daki 'Allah size bir zikir (hatırlatma, yani Kur'an) indirdi' ifadesinin devamı olarak, bu hatırlatmayı tebliğ eden bir elçinin de gönderildiğini bildirir; elçinin görevi, iman edip salih amel işleyenleri 'karanlıklardan aydınlığa çıkarmak' olarak tanımlanır - bu, Kur'an'da sıkça geçen bir imgedir.",
+  "Ayet, iman ve salih amel birlikteliğinin sonucu olarak içinde ırmaklar akan, ebedî kalınacak cennetleri ve güzelleştirilmiş bir rızkı müjdeler; böylece surenin dünyevi hükümlerle (boşanma, nafaka) başlayan seyri, ahiretteki karşılıkla taçlandırılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "14:1",
+   "meal": "Elif, Lâm, Râ. Bu, insanları Rablerinin izniyle karanlıklardan aydınlığa çıkarman için sana indirdiğimiz bir kitaptır.",
+   "baglanti": "'Karanlıklardan aydınlığa çıkarma' imgesi burada da geçer; vahyin ve elçinin görevini aynı ifadeyle tanımlar."
+  },
+  {
+   "ref": "5:16",
+   "meal": "Allah onunla, rızasına uyanları esenlik yollarına iletir, onları izniyle karanlıklardan aydınlığa çıkarır.",
+   "baglanti": "Aynı 'zulümâttan nûra çıkarma' imgesini taşıyan bu ayet, vahyin insanı doğru yola ilettiğini pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, elçinin ve vahyin insanları karanlıktan aydınlığa çıkarma amacı ve iman-salih amel birlikteliğinin cennetle mükâfatlandırılmasıdır.",
+  "Buradan çıkan ders, bilginin (ayetlerin okunması) tek başına yetmeyeceği, ona iman ve salih amelin eşlik etmesi gerektiğidir; bugün elde edilen her doğru bilginin de bir davranışa dönüşmesi gerektiği hatırlanabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilgiyi amele dönüştür",
+   "aciklama": "Bugün öğrendiğin doğru bir şeyi, sadece bilmekle kalma, bir davranışa dönüştür."
+  },
+  {
+   "baslik": "Karanlıktan aydınlığa bir adım",
+   "aciklama": "İçinde bulunduğun bir belirsizlik veya kötü alışkanlıktan bugün küçük bir adımla uzaklaş."
+  },
+  {
+   "baslik": "Ahireti hatırla",
+   "aciklama": "Bugünün yorgunluğunda, kalıcı olanın ahiret olduğunu bir an düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün öğrendiğin bir doğruyu, en az bir davranışa dönüştür.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=65&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/65/11"
+  }
+ ]
+}

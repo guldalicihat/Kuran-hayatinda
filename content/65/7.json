@@ -1,0 +1,229 @@
+{
+ "sure": 65,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "İmkânı geniş olan, imkânına göre nafaka versin. Rızkı kendisine daraltılmış olan da Allah'ın kendisine verdiğinden versin. Allah hiç kimseyi verdiğinin dışında bir şeyle yükümlü kılmaz. Allah, bir güçlükten sonra bir kolaylık yaratacaktır.",
+ "mealNotu": "'Se'a' kökü وسع genişlik/imkânı, 'usr-yüsr' kökleri عسر/يسر zorluk ve kolaylığı anlatır. 'Yükellifü' kökü كلف gücün üstünde yük yüklemeyi ifade eder.",
+ "kokler": [
+  {
+   "kelime": "لِيُنفِقْ",
+   "okunus": "liyünfik",
+   "kok": "نفق",
+   "kokAnlam": "harcama, infak",
+   "karsilik": "nafaka versin"
+  },
+  {
+   "kelime": "ذُو",
+   "okunus": "zû",
+   "kok": "—",
+   "kokAnlam": "sahip olan",
+   "karsilik": "sahibi"
+  },
+  {
+   "kelime": "سَعَةٍ",
+   "okunus": "seatin",
+   "kok": "وسع",
+   "kokAnlam": "genişlik, imkân, bolluk",
+   "karsilik": "imkânın"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "edat, -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "سَعَتِهِۦ",
+   "okunus": "seatihî",
+   "kok": "وسع",
+   "kokAnlam": "genişlik, imkân, bolluk",
+   "karsilik": "imkânına göre"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "şart edatı, kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "قُدِرَ",
+   "okunus": "kudira",
+   "kok": "قدر",
+   "kokAnlam": "ölçü, güç yetirme, takdir",
+   "karsilik": "daraltılmışsa"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "edat, üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "رِزْقُهُۥ",
+   "okunus": "rizkuhû",
+   "kok": "رزق",
+   "kokAnlam": "rızık, nasip",
+   "karsilik": "rızkı"
+  },
+  {
+   "kelime": "فَلْيُنفِقْ",
+   "okunus": "felyünfik",
+   "kok": "نفق",
+   "kokAnlam": "harcama, infak",
+   "karsilik": "versin"
+  },
+  {
+   "kelime": "مِمَّآ",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "edat, -den olandan",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ءَاتَىٰهُ",
+   "okunus": "âtâhü",
+   "kok": "أتي",
+   "kokAnlam": "gelme, verme",
+   "karsilik": "ona verdiğinden"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "-maz"
+  },
+  {
+   "kelime": "يُكَلِّفُ",
+   "okunus": "yükellifü",
+   "kok": "كلف",
+   "kokAnlam": "yükümlü kılma, zorlama",
+   "karsilik": "yükümlü kılmaz"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "نَفْسًا",
+   "okunus": "nefsen",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "hiç kimseyi"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna edatı",
+   "karsilik": "dışında"
+  },
+  {
+   "kelime": "مَآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, şey",
+   "karsilik": "verdiği"
+  },
+  {
+   "kelime": "ءَاتَىٰهَا",
+   "okunus": "âtâhâ",
+   "kok": "أتي",
+   "kokAnlam": "gelme, verme",
+   "karsilik": "ona verdiği"
+  },
+  {
+   "kelime": "سَيَجْعَلُ",
+   "okunus": "seyec'alü",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "kılacaktır"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonra, uzaklık",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "عُسْرٍ",
+   "okunus": "usrin",
+   "kok": "عسر",
+   "kokAnlam": "zorluk, güçlük",
+   "karsilik": "bir güçlükten"
+  },
+  {
+   "kelime": "يُسْرًا",
+   "okunus": "yüsran",
+   "kok": "يسر",
+   "kokAnlam": "kolaylık",
+   "karsilik": "bir kolaylık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 65:6'da geçen nafaka emrinin devamı olarak, nafaka miktarının kişinin imkânına göre belirlenmesi gerektiğini ve kimsenin gücünün üstünde bir yükümlülük altına sokulmayacağını bildirir. İmkânı geniş olan imkânınca, kısıtlı olan da Allah'ın kendisine verdiğinden versin.",
+  "Ayet, 'Allah bir güçlükten sonra bir kolaylık yaratacaktır' cümlesiyle biter; bu, hem nafaka sıkıntısı çeken birine hem de genel olarak her zorlukla karşılaşan insana yönelik bir teselli ve vaad taşır. Ölçülülük ve adalet ilkesi burada hem hukuki hem manevi bir boyutla birleşir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:286",
+   "meal": "Allah hiç kimseyi gücünün yetmeyeceği şeyle yükümlü kılmaz.",
+   "baglanti": "Neredeyse birebir aynı ifadeyle, kimsenin gücünün üstünde sorumlu tutulmayacağı ilkesini tekrarlar."
+  },
+  {
+   "ref": "94:5",
+   "meal": "Şüphesiz güçlükle beraber bir kolaylık vardır.",
+   "baglanti": "'Usr' ve 'yüsr' kökleri aynı şekilde kullanılır; her güçlüğün yanında bir kolaylığın da bulunduğu vurgusunu pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, nafakanın kişinin gücü ölçüsünde verilmesi ve kimsenin gücünün üstünde yükümlü tutulmamasıdır.",
+  "Buradan çıkan ders, hem kendi sorumluluklarını yerine getirirken hem başkalarından bir şey beklerken 'güç ölçüsü' ilkesini hatırlamaktır; kimseye taşıyamayacağı bir yük yüklememek ve kendi gücünü aşan bir beklentiyle kendini yıpratmamak, günlük hayatta uygulanabilir bir ölçüdür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gücünle orantılı ver",
+   "aciklama": "Bir sorumluluğu yerine getirirken elindeki imkâna göre ver; kendini de karşındakini de zorlama."
+  },
+  {
+   "baslik": "Gücünün üstünde yük yükleme",
+   "aciklama": "Birinden bir şey isterken, onun gücünün üstünde bir beklenti içine girmediğinden emin ol."
+  },
+  {
+   "baslik": "Zorluktan sonra kolaylığı bekle",
+   "aciklama": "İçinde bulunduğun bir sıkıntının kalıcı olmadığını, bir kolaylığın geleceğini umutla hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün bir sorumluluğu, kendi gücünle orantılı, ne eksik ne fazla yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=65&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/65/7"
+  }
+ ]
+}
