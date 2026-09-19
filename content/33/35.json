@@ -1,0 +1,269 @@
+{
+ "sure": 33,
+ "ayet": 35,
+ "durum": "taslak",
+ "meal": "Şüphesiz müslüman erkekler ve müslüman kadınlar, mümin erkekler ve mümin kadınlar, gönülden itaat eden erkekler ve gönülden itaat eden kadınlar, doğru sözlü erkekler ve doğru sözlü kadınlar, sabreden erkekler ve sabreden kadınlar, huşû duyan erkekler ve huşû duyan kadınlar, sadaka veren erkekler ve sadaka veren kadınlar, oruç tutan erkekler ve oruç tutan kadınlar, mahrem yerlerini koruyan erkekler ve koruyan kadınlar, Allah'ı çokça anan erkekler ve anan kadınlar; işte Allah onlar için bir bağışlanma ve büyük bir mükâfat hazırlamıştır.",
+ "mealNotu": "Ayet on farklı niteliği erkek ve kadın için ayrı ayrı sayar; her kökün Türkçe karşılığı ayetteki sırayla korunmuştur. 'Kânitîn/kânitât' kökü (قنت) gönülden, sürekli itaati anlatır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلْمُسْلِمِينَ",
+   "okunus": "elmüslimîne",
+   "kok": "سلم",
+   "kokAnlam": "boyun eğme, teslim olma",
+   "karsilik": "müslüman erkekler"
+  },
+  {
+   "kelime": "وَٱلْمُسْلِمَٰتِ",
+   "okunus": "vel müslimâti",
+   "kok": "سلم",
+   "kokAnlam": "boyun eğme, teslim olma",
+   "karsilik": "ve müslüman kadınlar"
+  },
+  {
+   "kelime": "وَٱلْمُؤْمِنِينَ",
+   "okunus": "vel mü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; iman",
+   "karsilik": "mümin erkekler"
+  },
+  {
+   "kelime": "وَٱلْمُؤْمِنَٰتِ",
+   "okunus": "vel mü'minâti",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; iman",
+   "karsilik": "ve mümin kadınlar"
+  },
+  {
+   "kelime": "وَٱلْقَٰنِتِينَ",
+   "okunus": "vel kânitîne",
+   "kok": "قنت",
+   "kokAnlam": "gönülden itaat, süreklilik",
+   "karsilik": "gönülden itaat eden erkekler"
+  },
+  {
+   "kelime": "وَٱلْقَٰنِتَٰتِ",
+   "okunus": "vel kânitâti",
+   "kok": "قنت",
+   "kokAnlam": "gönülden itaat, süreklilik",
+   "karsilik": "ve gönülden itaat eden kadınlar"
+  },
+  {
+   "kelime": "وَٱلصَّٰدِقِينَ",
+   "okunus": "ves sâdikîne",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, sözde durma",
+   "karsilik": "doğru sözlü erkekler"
+  },
+  {
+   "kelime": "وَٱلصَّٰدِقَٰتِ",
+   "okunus": "ves sâdikâti",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, sözde durma",
+   "karsilik": "ve doğru sözlü kadınlar"
+  },
+  {
+   "kelime": "وَٱلصَّٰبِرِينَ",
+   "okunus": "ves sâbirîne",
+   "kok": "صبر",
+   "kokAnlam": "sabır, dayanma",
+   "karsilik": "sabreden erkekler"
+  },
+  {
+   "kelime": "وَٱلصَّٰبِرَٰتِ",
+   "okunus": "ves sâbirâti",
+   "kok": "صبر",
+   "kokAnlam": "sabır, dayanma",
+   "karsilik": "ve sabreden kadınlar"
+  },
+  {
+   "kelime": "وَٱلْخَٰشِعِينَ",
+   "okunus": "vel hâşiîne",
+   "kok": "خشع",
+   "kokAnlam": "huşû, boyun eğme, saygıyla eğilme",
+   "karsilik": "huşû duyan erkekler"
+  },
+  {
+   "kelime": "وَٱلْخَٰشِعَٰتِ",
+   "okunus": "vel hâşiâti",
+   "kok": "خشع",
+   "kokAnlam": "huşû, boyun eğme, saygıyla eğilme",
+   "karsilik": "ve huşû duyan kadınlar"
+  },
+  {
+   "kelime": "وَٱلْمُتَصَدِّقِينَ",
+   "okunus": "vel mütesaddikîne",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk; sadaka verme",
+   "karsilik": "sadaka veren erkekler"
+  },
+  {
+   "kelime": "وَٱلْمُتَصَدِّقَٰتِ",
+   "okunus": "vel mütesaddikâti",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk; sadaka verme",
+   "karsilik": "ve sadaka veren kadınlar"
+  },
+  {
+   "kelime": "وَٱلصَّٰٓئِمِينَ",
+   "okunus": "ves sâimîne",
+   "kok": "صوم",
+   "kokAnlam": "oruç tutma, tutunma",
+   "karsilik": "oruç tutan erkekler"
+  },
+  {
+   "kelime": "وَٱلصَّٰٓئِمَٰتِ",
+   "okunus": "ves sâimâti",
+   "kok": "صوم",
+   "kokAnlam": "oruç tutma, tutunma",
+   "karsilik": "ve oruç tutan kadınlar"
+  },
+  {
+   "kelime": "وَٱلْحَٰفِظِينَ",
+   "okunus": "vel hâfizîne",
+   "kok": "حفظ",
+   "kokAnlam": "koruma, muhafaza etme",
+   "karsilik": "koruyan erkekler"
+  },
+  {
+   "kelime": "فُرُوجَهُمْ",
+   "okunus": "fürûcehüm",
+   "kok": "فرج",
+   "kokAnlam": "mahrem yer, aralık",
+   "karsilik": "mahrem yerlerini"
+  },
+  {
+   "kelime": "وَٱلْحَٰفِظَٰتِ",
+   "okunus": "vel hâfizâti",
+   "kok": "حفظ",
+   "kokAnlam": "koruma, muhafaza etme",
+   "karsilik": "ve koruyan kadınlar"
+  },
+  {
+   "kelime": "وَٱلذَّٰكِرِينَ",
+   "okunus": "vez zâkirîne",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama",
+   "karsilik": "anan erkekler"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'ı"
+  },
+  {
+   "kelime": "كَثِيرًا",
+   "okunus": "kesîran",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "çokça"
+  },
+  {
+   "kelime": "وَٱلذَّٰكِرَٰتِ",
+   "okunus": "vez zâkirâti",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama",
+   "karsilik": "ve anan kadınlar"
+  },
+  {
+   "kelime": "أَعَدَّ",
+   "okunus": "eadde",
+   "kok": "عدد",
+   "kokAnlam": "sayma, hazırlama",
+   "karsilik": "hazırlamıştır"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَهُم",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar için",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "مَّغْفِرَةً",
+   "okunus": "mağfiraten",
+   "kok": "غفر",
+   "kokAnlam": "örtme, bağışlama",
+   "karsilik": "bir bağışlanma"
+  },
+  {
+   "kelime": "وَأَجْرًا",
+   "okunus": "ve ecran",
+   "kok": "أجر",
+   "kokAnlam": "ücret, karşılık, mükâfat",
+   "karsilik": "ve bir mükâfat"
+  },
+  {
+   "kelime": "عَظِيمًا",
+   "okunus": "azîmen",
+   "kok": "عظم",
+   "kokAnlam": "büyüklük, azamet",
+   "karsilik": "büyük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, iman ve iyi amelde erkek ile kadını tamamen eşit tutarak, on ayrı özelliği (müslüman olma, iman, itaat, doğruluk, sabır, huşû, sadaka, oruç, iffet, zikir) her iki cinsiyet için ayrı ayrı sayar. Bu, önceki ayetlerde Peygamber'in eşlerine özel hitaplardan sonra, tüm mümin erkek ve kadınlara yönelen genel ve kapsayıcı bir ayettir.",
+  "Ayet, bu on özelliği taşıyanlar için Allah'ın bağışlanma ve büyük bir mükâfat hazırladığını bildirerek biter. Klasik tefsir bu ayeti, bazı sahâbe kadınlarının Kur'an'da erkeklerin daha çok anıldığına dair dile getirdikleri bir soruya karşılık indiği yönünde nakledilen bir bağlamla ilişkilendirir; ancak ayetin kendisi bu ayrıntıyı içermez, yalnızca eşitleyici hükmü bildirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:124",
+   "meal": "Erkek ya da kadın, kim mümin olarak salih ameller işlerse, işte onlar cennete girerler ve onlara zerre kadar haksızlık edilmez.",
+   "baglanti": "İman ve amelde erkek-kadın eşitliği ilkesini, farklı bir sureden doğrudan destekler."
+  },
+  {
+   "ref": "16:97",
+   "meal": "Erkek ya da kadın, kim mümin olarak iyi bir iş yaparsa, ona güzel bir hayat yaşatırız.",
+   "baglanti": "Aynı eşitlik ilkesini, iyi amelin karşılığı üzerinden bir kez daha teyit eder."
+  },
+  {
+   "ref": "3:195",
+   "meal": "Rableri onlara icabet etti: İçinizden, erkek olsun kadın olsun, hiçbir çalışanın işini boşa çıkarmam; hep birbirinizdensiniz.",
+   "baglanti": "Erkek ve kadının amel karşısında eşit değerlendirildiğini, açık bir ilahi beyanla destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, iman ve ibadette erkek-kadın eşitliğinin on ayrı özellik üzerinden vurgulanmasıdır.",
+  "Bugüne taşınabilecek ders, bu on özelliğin her birinin (doğruluk, sabır, huşû, cömertlik, oruç, iffet, zikir gibi) günlük hayatta somut olarak yaşanabilir davranışlar olduğudur."
+ ],
+ "bugun": [
+  {
+   "baslik": "On özellikten birini seç",
+   "aciklama": "Ayetteki on özellikten (doğruluk, sabır, sadaka gibi) birini bugün somut bir davranışla uygula."
+  },
+  {
+   "baslik": "Zikri güne yay",
+   "aciklama": "Gün içinde birkaç kez, kısa da olsa Allah'ı anmaya zaman ayır."
+  },
+  {
+   "baslik": "Küçük bir sadaka ver",
+   "aciklama": "Bugün, büyüklüğüne bakmadan küçük bir sadaka ver."
+  }
+ ],
+ "bugununAdimi": "Bugün ayette sayılan özelliklerden birini seç ve onu somut bir davranışla uygula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=35"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/33/35"
+  }
+ ]
+}

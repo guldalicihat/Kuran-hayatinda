@@ -1,0 +1,159 @@
+{
+ "sure": 33,
+ "ayet": 16,
+ "durum": "taslak",
+ "meal": "De ki: Eğer ölümden ya da öldürülmekten kaçıyorsanız, kaçmak size fayda vermez; o zaman da ancak az bir süre yaşatılırsınız.",
+ "mealNotu": "'Firâr' kökü (فرر) kaçmayı; 'tümetteûne' (متع) faydalanma, yaşamdan pay almayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "قُل",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söz, söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "لَّن",
+   "okunus": "len",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) asla",
+   "karsilik": "asla"
+  },
+  {
+   "kelime": "يَنفَعَكُمُ",
+   "okunus": "yenfeakümü",
+   "kok": "نفع",
+   "kokAnlam": "fayda, yarar",
+   "karsilik": "size fayda vermez"
+  },
+  {
+   "kelime": "ٱلْفِرَارُ",
+   "okunus": "elfirâru",
+   "kok": "فرر",
+   "kokAnlam": "kaçma, firar",
+   "karsilik": "kaçmak"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "فَرَرْتُم",
+   "okunus": "ferartüm",
+   "kok": "فرر",
+   "kokAnlam": "kaçma, firar",
+   "karsilik": "kaçıyorsanız"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمَوْتِ",
+   "okunus": "elmevti",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölümden"
+  },
+  {
+   "kelime": "أَوِ",
+   "okunus": "evi",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "ٱلْقَتْلِ",
+   "okunus": "elkatli",
+   "kok": "قتل",
+   "kokAnlam": "öldürme, savaşma",
+   "karsilik": "öldürülmekten"
+  },
+  {
+   "kelime": "وَإِذًا",
+   "okunus": "ve izen",
+   "kok": "—",
+   "kokAnlam": "(cevap) o zaman",
+   "karsilik": "o zaman da"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -maz",
+   "karsilik": "-maz"
+  },
+  {
+   "kelime": "تُمَتَّعُونَ",
+   "okunus": "tümetteûne",
+   "kok": "متع",
+   "kokAnlam": "faydalanma, yaşamdan pay alma",
+   "karsilik": "yaşatılırsınız"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "قَلِيلًا",
+   "okunus": "kalîlen",
+   "kok": "قلل",
+   "kokAnlam": "azlık, azalma",
+   "karsilik": "az bir süre"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet önceki ayetlerin devamı olarak, ölüm ya da savaşta öldürülme korkusuyla kaçmanın gerçekte hiçbir kazanç sağlamayacağını bildirir; çünkü herkesin ömrü zaten sınırlıdır.",
+  "Ayet, kaçarak kazanılacak şeyin en fazla kısa bir süre olduğunu vurgular; bu, ölümden kaçışın anlamsızlığına dair genel bir ilkeyi de hatırlatır. Klasik tefsir bu ayeti, savaştan kaçan kimselere verilecek cevap olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "62:8",
+   "meal": "De ki: Sizin kendisinden kaçtığınız ölüm, muhakkak sizi bulacaktır.",
+   "baglanti": "Ölümden kaçmanın anlamsızlığını neredeyse aynı ifadeyle veren doğrudan bir paralel ayettir."
+  },
+  {
+   "ref": "4:78",
+   "meal": "Nerede olursanız olun, ölüm sizi bulur; sağlam kalelerde olsanız bile.",
+   "baglanti": "Aynı temayı, sağlam kalelere sığınma imgesiyle güçlendirerek destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, savaş ortamında ölümden kaçmanın faydasızlığıdır; özel bir bağlamdır.",
+  "Bugüne taşınabilecek genel ders, ölümün kaçınılmaz olduğu bilinciyle hayatı korku üzerine değil sorumluluk üzerine kurmaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Korkudan değil sorumluluktan hareket et",
+   "aciklama": "Bugün bir kararını, korkudan kaçarak değil doğru olanı yaparak ver."
+  },
+  {
+   "baslik": "Ölümü hatırla, ertelemeyi bırak",
+   "aciklama": "Sürekli ertelediğin önemli bir işi bugün başlat; zamanın sınırlı olduğunu unutma."
+  },
+  {
+   "baslik": "Kısa vadeli kaçışı sorgula",
+   "aciklama": "Bir sorundan kaçmanın seni sadece kısa süreliğine rahatlattığını, asıl çözümün yüzleşmek olduğunu düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün kaçtığın bir sorunla, kısa bir süre de olsa yüzleş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=16"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/33/16"
+  }
+ ]
+}

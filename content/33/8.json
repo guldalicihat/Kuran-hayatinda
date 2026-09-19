@@ -1,0 +1,110 @@
+{
+ "sure": 33,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "Doğrulara doğruluklarını sormak için [böyle yaptı]. Kâfirlere de acıklı bir azap hazırladı.",
+ "mealNotu": "Cümle bir önceki ayetteki 'sağlam söz alma' cümlesine bağlıdır; bu yüzden fiili tamamlamak için [böyle yaptı] eklenmiştir. 'Sıdk' kökü (صدق) doğruluğu, sözde durmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "لِّيَسْـَٔلَ",
+   "okunus": "liyes'ele",
+   "kok": "سأل",
+   "kokAnlam": "sorma, isteme",
+   "karsilik": "sormak için"
+  },
+  {
+   "kelime": "ٱلصَّٰدِقِينَ",
+   "okunus": "essâdikîne",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, sözde durma",
+   "karsilik": "doğrulara"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -i, -den",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "صِدْقِهِمْ",
+   "okunus": "sıdkıhim",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, sözde durma",
+   "karsilik": "doğruluklarını"
+  },
+  {
+   "kelime": "وَأَعَدَّ",
+   "okunus": "ve eadde",
+   "kok": "عدد",
+   "kokAnlam": "sayma, hazırlama",
+   "karsilik": "ve hazırladı"
+  },
+  {
+   "kelime": "لِلْكَٰفِرِينَ",
+   "okunus": "lilkâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "kâfirlere"
+  },
+  {
+   "kelime": "عَذَابًا",
+   "okunus": "azâben",
+   "kok": "عذب",
+   "kokAnlam": "azap, sıkıntı",
+   "karsilik": "bir azap"
+  },
+  {
+   "kelime": "أَلِيمًا",
+   "okunus": "elîmen",
+   "kok": "ألم",
+   "kokAnlam": "acı, elem",
+   "karsilik": "acıklı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 7. ayetteki 'ağır söz alma'nın amacını açıklar: doğru sözlü olanların doğruluklarının sorgulanması. Bu, verilen sözlerin hesabının sorulacağını gösterir.",
+  "Ayetin ikinci yarısı, sözünde durmayanlar için acıklı bir azap hazırlandığını bildirir; böylece sözde durma ile durmamanın sonucu karşılaştırılmış olur. Klasik tefsir 'sâdıkîn'i, hem peygamberler hem de onlara tabi olup sözünde duran müminler olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:119",
+   "meal": "Allah dedi ki: Bu, doğrulara doğruluklarının fayda verdiği gündür.",
+   "baglanti": "Aynı kök (صدق) ve kavramla, doğru sözlülüğün bir gün karşılık göreceği fikrini doğrudan destekler."
+  },
+  {
+   "ref": "9:119",
+   "meal": "Ey iman edenler! Allah'tan sakının ve sadıklarla beraber olun.",
+   "baglanti": "Doğru sözlü olmayı bir yaşam ilkesi olarak öneren, farklı bir sureden destekleyici bir ayettir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, doğru sözlülüğün hesabının sorulmasıdır; bağlam, peygamberlerden alınan sözle ilişkilidir.",
+  "Bugüne taşınabilecek ders, doğru sözlü olmanın ve sözünde durmanın bir gün hesabının sorulacağı bilincidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugün bir sözünü kontrol et",
+   "aciklama": "Daha önce verdiğin bir sözü tuttun mu, tutmadın mı bir gözden geçir."
+  },
+  {
+   "baslik": "Doğruyu söylemekten çekinme",
+   "aciklama": "Zor bir durumda bile bugün doğruyu söylemeyi tercih et."
+  },
+  {
+   "baslik": "Hesabı unutma",
+   "aciklama": "Söylediğin sözlerin bir gün sorulacağını hatırla, bunu bir uyarı olarak taşı."
+  }
+ ],
+ "bugununAdimi": "Bugün verdiğin bir sözü tutup tutmadığını gözden geçir; tutmadıysan onu tamamlamak için bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/33/8"
+  }
+ ]
+}

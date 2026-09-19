@@ -1,0 +1,201 @@
+{
+ "sure": 33,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Allah'ın üzerinizdeki nimetini hatırlayın; hani size ordular gelmişti de biz onların üzerine bir rüzgâr ve sizin görmediğiniz ordular göndermiştik. Allah yaptıklarınızı görendir.",
+ "mealNotu": "'Cünûd' kökü (جند) orduyu, 'rîh' (روح) rüzgârı anlatır. 'Görmediğiniz ordular' ifadesi ayette isim verilmeden geçer; ayetin kendi ifadesiyle aktarılmıştır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; iman etme",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "ٱذْكُرُوا۟",
+   "okunus": "uzkürû",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama",
+   "karsilik": "hatırlayın"
+  },
+  {
+   "kelime": "نِعْمَةَ",
+   "okunus": "ni'mete",
+   "kok": "نعم",
+   "kokAnlam": "nimet, iyilik",
+   "karsilik": "nimetini"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinize",
+   "karsilik": "üzerinizdeki"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "جَآءَتْكُمْ",
+   "okunus": "câetküm",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "size gelmişti"
+  },
+  {
+   "kelime": "جُنُودٌ",
+   "okunus": "cünûdün",
+   "kok": "جند",
+   "kokAnlam": "ordu, asker topluluğu",
+   "karsilik": "ordular"
+  },
+  {
+   "kelime": "فَأَرْسَلْنَا",
+   "okunus": "feerselnâ",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi",
+   "karsilik": "biz gönderdik"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerlerine",
+   "karsilik": "onların üzerine"
+  },
+  {
+   "kelime": "رِيحًا",
+   "okunus": "rîhan",
+   "kok": "روح",
+   "kokAnlam": "rüzgâr, esinti",
+   "karsilik": "bir rüzgâr"
+  },
+  {
+   "kelime": "وَجُنُودًا",
+   "okunus": "ve cünûden",
+   "kok": "جند",
+   "kokAnlam": "ordu, asker topluluğu",
+   "karsilik": "ve ordular"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi",
+   "karsilik": "-mediğiniz"
+  },
+  {
+   "kelime": "تَرَوْهَا",
+   "okunus": "teravhâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görmediğiniz"
+  },
+  {
+   "kelime": "وَكَانَ",
+   "okunus": "ve kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(edat+ilgi) şeyi",
+   "karsilik": "yaptıklarınızı"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma, işleme, amel",
+   "karsilik": "yaptıklarınız"
+  },
+  {
+   "kelime": "بَصِيرًا",
+   "okunus": "besîran",
+   "kok": "بصر",
+   "kokAnlam": "görme, basiret",
+   "karsilik": "görendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, sure adının da kaynağı olan Ahzâb (birleşik ordular) olayını hatırlatarak başlar: düşman kuvvetleri geldiğinde Allah'ın bir rüzgâr ve görünmeyen ordular gönderdiğini bildirir.",
+  "Ayet ayrıntıya girmeden, bu nimetin hatırlanmasını ister; yardım hem somut (rüzgâr) hem gizli (görünmeyen ordular) biçimde anlatılır. Klasik tefsir bu ayeti, müttefik kabile ordularının Medine'yi kuşattığı zorlu bir dönemin hatırlatılması olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "9:26",
+   "meal": "Sonra Allah, Resûlü'nün ve müminlerin üzerine sekînetini indirdi, sizin görmediğiniz ordular indirdi.",
+   "baglanti": "'Görmediğiniz ordular' ifadesini neredeyse birebir tekrarlayan, farklı bir savaş bağlamındaki paralel ayettir."
+  },
+  {
+   "ref": "8:9",
+   "meal": "Rabbinizden yardım istediğinizde, size, 'Ben peş peşe gelen bin melekle size yardım ediyorum' diye cevap vermişti.",
+   "baglanti": "Görünmeyen yardımın melekler yoluyla geldiğine dair başka bir savaş kıssasında geçen benzer bir örnektir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, tarihsel bir savaş sırasında Allah'ın gönderdiği görünen ve görünmeyen yardımdır; bu özel bir olaydır.",
+  "Bugüne taşınabilecek ders, zorlu bir durumda yardımın her zaman beklenen şekilde gelmeyebileceği, fark edilmeyen destekler de olabileceğidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Aldığın nimeti say",
+   "aciklama": "Bugün hayatında fark etmeden gelen bir kolaylığı ya da yardımı düşün ve bir yere not et."
+  },
+  {
+   "baslik": "Zor anında sabret",
+   "aciklama": "Şu an zorlandığın bir konuda hemen çözüm görünmese bile, farklı yollardan yardımın gelebileceğini hatırla."
+  },
+  {
+   "baslik": "Görünmeyeni hatırla",
+   "aciklama": "Her şeyi kendi gücünle başardığını düşünmek yerine, bugün fark etmediğin destekleri bir kez düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün fark etmeden aldığın bir yardımı ya da kolaylığı yazılı olarak not et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/33/9"
+  }
+ ]
+}

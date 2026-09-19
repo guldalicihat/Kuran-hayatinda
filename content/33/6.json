@@ -1,0 +1,257 @@
+{
+ "sure": 33,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Peygamber, müminlere kendi canlarından daha yakındır; eşleri de onların anneleridir. Akraba olanlar, Allah'ın kitabında, müminlerden ve muhacirlerden [daha çok] birbirlerine daha yakındırlar; dostlarınıza iyilik yapmanız hariç. Bu, kitapta satır satır yazılmıştır.",
+ "mealNotu": "'Evlâ' kökü (ولي) öncelik ve yakınlığı; 'ümmehât' (أمم) annelik statüsünü anlatır. Ayetin ikinci yarısındaki miras/akrabalık hükmü kısa bir cümle olduğu için 'daha çok' ifadesi köşeli parantez içinde eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "ٱلنَّبِىُّ",
+   "okunus": "ennebiyyü",
+   "kok": "نبأ",
+   "kokAnlam": "haber; haber getiren",
+   "karsilik": "Peygamber"
+  },
+  {
+   "kelime": "أَوْلَىٰ",
+   "okunus": "evlâ",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, öncelik, velilik",
+   "karsilik": "daha yakındır"
+  },
+  {
+   "kelime": "بِٱلْمُؤْمِنِينَ",
+   "okunus": "bil mü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; iman",
+   "karsilik": "müminlere"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَنفُسِهِمْ",
+   "okunus": "enfüsihim",
+   "kok": "نفس",
+   "kokAnlam": "nefis, can, kendi",
+   "karsilik": "kendi canlarından"
+  },
+  {
+   "kelime": "وَأَزْوَٰجُهُۥٓ",
+   "okunus": "ve ezvâcühû",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift",
+   "karsilik": "ve eşleri"
+  },
+  {
+   "kelime": "أُمَّهَٰتُهُمْ",
+   "okunus": "ümmehâtühüm",
+   "kok": "أمم",
+   "kokAnlam": "ana, anne",
+   "karsilik": "onların anneleridir"
+  },
+  {
+   "kelime": "وَأُو۟لُوا۟",
+   "okunus": "ve ülû",
+   "kok": "—",
+   "kokAnlam": "(isim) sahipleri",
+   "karsilik": "ve sahipleri"
+  },
+  {
+   "kelime": "ٱلْأَرْحَامِ",
+   "okunus": "el'erhâmi",
+   "kok": "رحم",
+   "kokAnlam": "rahim, akrabalık, merhamet",
+   "karsilik": "akrabalığın"
+  },
+  {
+   "kelime": "بَعْضُهُمْ",
+   "okunus": "ba'duhüm",
+   "kok": "بعض",
+   "kokAnlam": "bazı, kısım",
+   "karsilik": "bazıları"
+  },
+  {
+   "kelime": "أَوْلَىٰ",
+   "okunus": "evlâ",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, öncelik, velilik",
+   "karsilik": "daha yakındır"
+  },
+  {
+   "kelime": "بِبَعْضٍ",
+   "okunus": "biba'dın",
+   "kok": "بعض",
+   "kokAnlam": "bazı, kısım",
+   "karsilik": "bazılarına"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "كِتَٰبِ",
+   "okunus": "kitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "kitabında"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنِينَ",
+   "okunus": "elmü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; iman",
+   "karsilik": "müminlerden"
+  },
+  {
+   "kelime": "وَٱلْمُهَٰجِرِينَ",
+   "okunus": "vel mühâcirîne",
+   "kok": "هجر",
+   "kokAnlam": "terk etme, göç, hicret",
+   "karsilik": "ve muhacirlerden"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, hariç",
+   "karsilik": "hariç"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesi",
+   "karsilik": "-mesi"
+  },
+  {
+   "kelime": "تَفْعَلُوٓا۟",
+   "okunus": "tef'alû",
+   "kok": "فعل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "yapmanız"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "أَوْلِيَآئِكُم",
+   "okunus": "evliyâiküm",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, dostluk, velilik",
+   "karsilik": "dostlarınıza"
+  },
+  {
+   "kelime": "مَّعْرُوفًا",
+   "okunus": "ma'rûfen",
+   "kok": "عرف",
+   "kokAnlam": "bilme, tanıma; iyi, uygun",
+   "karsilik": "iyilik"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-dir"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "kitapta"
+  },
+  {
+   "kelime": "مَسْطُورًا",
+   "okunus": "mestûran",
+   "kok": "سطر",
+   "kokAnlam": "satır, yazılı olma",
+   "karsilik": "satır satır yazılmış"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet iki ayrı hüküm içerir. Birincisi, Peygamber'in müminler üzerindeki konumunun kişinin kendi nefsinden bile öncelikli olduğu ve eşlerinin müminlerin anneleri sayıldığıdır; ayet bu statüyü kendi ifadesiyle bildirir, ayrıntısını genişletmez. İkincisi, miras ve akrabalık konusunda kan bağı olan akrabaların Allah'ın kitabında birbirine önceliğine dairdir.",
+  "Ayetin sonunda dostlara iyilik yapmanın istisna tutulduğu belirtilir. Klasik tefsir bu ayeti, Medine'de Muhacirler ile Ensar arasında kurulan kardeşlik bağının, miras hükmünde kan akrabalığının yerini almadığını açıklayan bir düzeltme olarak yorumlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "9:128",
+   "meal": "Andolsun, size kendi içinizden öyle bir peygamber gelmiştir ki, sıkıntıya uğramanız ona ağır gelir; size düşkün, müminlere karşı şefkatli ve merhametlidir.",
+   "baglanti": "Peygamber'in müminlere olan özel yakınlığını ve şefkatini, farklı bir yönden doğrulayan bir ayettir."
+  },
+  {
+   "ref": "8:75",
+   "meal": "...Akraba olanlar, Allah'ın kitabında birbirlerine daha yakındırlar.",
+   "baglanti": "Ahzâb 6'daki akrabalık/miras cümlesiyle neredeyse birebir aynı ifadeyi taşır; Enfâl suresinin son ayetidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Peygamber'in müminler nezdindeki özel konumu ve akrabalık-miras hükümleridir; bu, dönemin Medine toplumundaki muhacir-ensar kardeşliği bağlamında özel bir hukuki düzenlemedir.",
+  "Bugüne taşınabilecek genel ders, toplumsal bağların (dostluk, arkadaşlık) kan akrabalığının yerini tam olarak alamayacağı, ama iyiliğin her ilişkide sürebileceğidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Akrabana sahip çık",
+   "aciklama": "Bugün bir akrabanla ilgilen; küçük bir iyilik yap ya da hâl hatır sor."
+  },
+  {
+   "baslik": "Dostluğu da iyilikle sürdür",
+   "aciklama": "Kan bağın olmayan yakın bir dostuna bugün bir iyilik yaparak bağını güçlendir."
+  },
+  {
+   "baslik": "Aidiyetini hatırla",
+   "aciklama": "Bugün ait olduğun topluluğa (aile, komşu, iş arkadaşları) karşı sorumluluğunu bir kez düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün bir akrabanı arayıp hâl hatır sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/33/6"
+  }
+ ]
+}

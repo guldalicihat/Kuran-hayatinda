@@ -1,0 +1,222 @@
+{
+ "sure": 33,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "De ki: Allah size bir kötülük dilerse sizi O'ndan koruyacak, yahut size bir rahmet dilerse [bunu engelleyecek] kimdir? Onlar kendilerine Allah'tan başka ne bir dost ne de bir yardımcı bulurlar.",
+ "mealNotu": "'Ya'sım' kökü (عصم) korumayı anlatır. İkinci cümlede rahmeti engelleme fikri metinde açık olmadığı için [bunu engelleyecek] köşeli parantezde belirtilmiştir.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söz, söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "ذَا",
+   "okunus": "zâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki o",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "يَعْصِمُكُم",
+   "okunus": "ya'sımüküm",
+   "kok": "عصم",
+   "kokAnlam": "koruma, sakınma",
+   "karsilik": "sizi korur"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَرَادَ",
+   "okunus": "erâde",
+   "kok": "رود",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "بِكُمْ",
+   "okunus": "biküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "سُوٓءًا",
+   "okunus": "sûen",
+   "kok": "سوأ",
+   "kokAnlam": "kötülük, çirkinlik",
+   "karsilik": "bir kötülük"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "yahut"
+  },
+  {
+   "kelime": "أَرَادَ",
+   "okunus": "erâde",
+   "kok": "رود",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "بِكُمْ",
+   "okunus": "biküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "رَحْمَةً",
+   "okunus": "rahmeten",
+   "kok": "رحم",
+   "kokAnlam": "merhamet, esirgeme",
+   "karsilik": "bir rahmet"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ... -maz",
+   "karsilik": "ve ... bulamazlar"
+  },
+  {
+   "kelime": "يَجِدُونَ",
+   "okunus": "yecidûne",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulurlar"
+  },
+  {
+   "kelime": "لَهُم",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) kendilerine",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِ",
+   "okunus": "dûni",
+   "kok": "دون",
+   "kokAnlam": "aşağı, öte, başka",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "وَلِيًّا",
+   "okunus": "veliyyen",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, dostluk, velilik",
+   "karsilik": "bir dost"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ... -maz",
+   "karsilik": "ve ne de"
+  },
+  {
+   "kelime": "نَصِيرًا",
+   "okunus": "nesîran",
+   "kok": "نصر",
+   "kokAnlam": "yardım, zafer",
+   "karsilik": "bir yardımcı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, korkudan kaçmanın anlamsızlığını sürdürerek, gerçek koruyucunun yalnızca Allah olduğunu vurgular. Ne bir kötülükten kaçış ne de bir rahmete engel olma, Allah'tan başka birinin elinde değildir.",
+  "Sonuç olarak insanın Allah'tan başka bir dost ve yardımcı bulamayacağı bildirilir. Klasik tefsir, bu ayeti savaştan kaçmanın Allah'ın takdirini değiştiremeyeceğine dair bir hatırlatma olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:17",
+   "meal": "Eğer Allah sana bir zarar dokundurursa, onu O'ndan başka giderecek yoktur; sana bir hayır dokundurursa da O her şeye kadirdir.",
+   "baglanti": "Kötülük ve hayrın yalnızca Allah'ın elinde olduğu ilkesini aynı doğrultuda tekrarlar."
+  },
+  {
+   "ref": "13:11",
+   "meal": "Allah bir topluluğa kötülük diledi mi, artık onu geri çevirecek yoktur; onların O'ndan başka bir yardımcısı da olmaz.",
+   "baglanti": "'Allah'tan başka yardımcı bulunmaz' fikrini, çok yakın bir ifadeyle destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insanın kaderini değiştirecek gerçek gücün yalnızca Allah'ta olduğudur.",
+  "Bugüne taşınabilecek ders, güvenlik arayışını doğru yere, yani Allah'a yöneltmek ve boş korkulara kapılmamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gerçek güvenceyi hatırla",
+   "aciklama": "Bugün seni kaygılandıran bir konuda, asıl güvencenin tedbirle birlikte Allah'a dayanmak olduğunu hatırla."
+  },
+  {
+   "baslik": "Boş korkuları bırak",
+   "aciklama": "Değiştiremeyeceğin bir konuda aşırı kaygılanmayı bırak."
+  },
+  {
+   "baslik": "Tedbirini al, teslim ol",
+   "aciklama": "Elinden gelen tedbiri aldıktan sonra kaygını bırakmayı dene."
+  }
+ ],
+ "bugununAdimi": "Bugün seni kaygılandıran bir konuda alabileceğin tek somut tedbiri al ve gerisini bırak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/33/17"
+  }
+ ]
+}
