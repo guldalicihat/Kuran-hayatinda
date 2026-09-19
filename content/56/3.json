@@ -1,0 +1,68 @@
+{
+ "sure": 56,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Alçaltıcıdır, yükselticidir.",
+ "mealNotu": "'Hâfida' kökü (خ ف ض) alçaltmayı, 'râfia' kökü (ر ف ع) yükseltmeyi anlatır. Fiil belirtilmediği için özne köşeli parantez içine alınmadı; klasik tefsir bunu 'kimini alçaltır, kimini yükseltir' şeklinde açıklar, ama bu yorum meale eklenmedi.",
+ "kokler": [
+  {
+   "kelime": "خَافِضَةٌ",
+   "okunus": "hâfidatün",
+   "kok": "خفض",
+   "kokAnlam": "alçaltma, aşağı indirme",
+   "karsilik": "alçaltıcıdır"
+  },
+  {
+   "kelime": "رَّافِعَةٌ",
+   "okunus": "râfiatün",
+   "kok": "رفع",
+   "kokAnlam": "yükseltme, yukarı kaldırma",
+   "karsilik": "yükselticidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, iki kısa kelimeyle o olayın etkisini özetler: alçaltan ve yükselten. Hâfida ve râfia kökleri, sırasıyla aşağı indirmeyi ve yukarı kaldırmayı anlatır. Ayet bunları açıklamaz; sûrenin devamı, insanların sağ ve sol ashabına, öncülere ayrılmasıyla bu alçalma ve yükselmenin kimlere ait olduğunu gösterir.",
+  "Kısa ve vurgulu ifade biçimi, kıyametin herkesi aynı seviyede bırakmayacağını, bir ayrışma getireceğini baştan hissettirir. Klasik tefsir bunu genellikle bazı kişilerin makamının düşürülmesi, bazılarının ise yükseltilmesi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "56:7",
+   "meal": "Ve siz üç sınıfa ayrıldığınızda:",
+   "baglanti": "Bu ayetteki 'alçaltıcı, yükseltici' vurgusu, birkaç ayet sonra üç grup halinde somutlaşır."
+  },
+  {
+   "ref": "101:6",
+   "meal": "Kimin tartıları ağır gelirse,",
+   "baglanti": "Kâria sûresi de kıyamet gününde bir ölçü ve ayrışmadan söz eder; oradaki tartı imgesi, buradaki alçaltma-yükseltme fikrine yakındır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu kıyamet gününün getireceği köklü değişimdir; günlük hayatta doğrudan bir talimat içermez. Ama 'bu dünyada yüksekte olan orada da yüksekte kalacak' güvencesi vermediğini hatırlatır.",
+  "Dünyada makam, servet veya itibarla ölçülen yükseklik, o gün geçerli olan ölçüyle aynı olmayabilir. Bu, insanı bugünkü statüsüne değil, davranışlarının niteliğine bakmaya yöneltir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Statüyü sorgula",
+   "aciklama": "Bugün, sahip olduğun bir unvan veya imkânın seni Allah katında otomatik yükseltmeyeceğini hatırla."
+  },
+  {
+   "baslik": "Alçakgönüllü bir davranış seç",
+   "aciklama": "Bugün, kendini üstün hissettiren bir durumda bilerek mütevazı davran."
+  },
+  {
+   "baslik": "Değeri işe göre ölç",
+   "aciklama": "Bugün yaptığın bir işi, görünen başarısına değil, niyetinin doğruluğuna göre değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün, dünyada seni yükselten bir imkânı, Allah'ın hoşnut olacağı bir davranışa dönüştür.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/56/3"
+  }
+ ]
+}

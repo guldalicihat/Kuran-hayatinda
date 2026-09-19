@@ -1,0 +1,75 @@
+{
+ "sure": 56,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Onun gerçekleşmesini yalanlayacak hiçbir şey yoktur.",
+ "mealNotu": "'Kâzibe' kökü (ك ذ ب) yalanlamayı anlatır; burada dişil isim kalıbıyla 'yalanlayıcı bir güç/haber' kastedilir. '[hiçbir şey]' köşeli parantez içine alınmadı çünkü 'leyse' (yoktur) fiili zaten öznesiz bir yokluk bildirir; Türkçede akıcılık için 'hiçbir şey' eklendi.",
+ "kokler": [
+  {
+   "kelime": "لَيْسَ",
+   "okunus": "leyse",
+   "kok": "ليس",
+   "kokAnlam": "olumsuzluk bildiren 'değildir/yoktur' fiili",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "لِوَقْعَتِهَا",
+   "okunus": "livek'atihâ",
+   "kok": "وقع",
+   "kokAnlam": "düşme, gerçekleşme",
+   "karsilik": "onun gerçekleşmesini"
+  },
+  {
+   "kelime": "كَاذِبَةٌ",
+   "okunus": "kâzibetün",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama, yalan söyleme",
+   "karsilik": "yalanlayacak (bir şey)"
+  }
+ ],
+ "neAnlatiyor": [
+  "Birinci ayet kıyameti 'kesin gerçekleşen olay' diye tanıttıktan sonra bu ayet, o gerçekleşmenin yalanlanamayacağını ekler. 'Kâzibe' kökü yalan söylemeyi anlatır; burada 'onun gerçekleşmesini yalan çıkaracak hiçbir güç yoktur' denir.",
+  "Vurgu, kıyametin inkâr edilebilir bir ihtimal olmadığıdır. İnsanlar dünyada onu yalanlayabilir, ama gerçekleştiği an bu yalanlama boşa çıkar; olayın kendisi hiçbir itirazı kabul etmeyecek kesinliktedir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "52:7",
+   "meal": "Şüphesiz Rabbinin azabı mutlaka gerçekleşecektir.",
+   "baglanti": "Tûr sûresinde de aynı kesinlik vurgusu, 'gerçekleşecektir' ifadesiyle tekrarlanır."
+  },
+  {
+   "ref": "56:1",
+   "meal": "O olay gerçekleştiğinde,",
+   "baglanti": "Bu ayet, bir önceki ayette adı geçen 'o olay'ın yalanlanamayacağını açıklayarak konuyu tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan kıyametin kesinliğidir. Günlük hayata dair açık bir hüküm içermez, ama insanın 'olmaz, gerçekleşmez' diyerek erteleyebileceği bir şey olmadığını hatırlatır.",
+  "Bir gerçeği yalanlamak, onu ortadan kaldırmaz; sadece kişinin ona hazırlıksız yakalanmasına yol açar. Bu ilke, kıyamet dışında da hayattaki pek çok kaçınılmaz sonuç için geçerlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaçındığın bir gerçeği kabul et",
+   "aciklama": "Görmezden geldiğin ama değişmeyecek bir gerçeği bugün kağıda yaz ve ona göre bir adım at."
+  },
+  {
+   "baslik": "Ahiret inancını tazele",
+   "aciklama": "Bugün bir dakika, ölümün ve ahiretin kesinliğini düşünerek niyetlerini gözden geçir."
+  },
+  {
+   "baslik": "Sözünle gerçeği çarpıtma",
+   "aciklama": "Bugün konuşurken bildiğin bir gerçeği yalanlamaktan veya küçültmekten kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün, uzun süredir yüzleşmediğin bir gerçeği kabul edip ona uygun tek bir küçük adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/56/2"
+  }
+ ]
+}

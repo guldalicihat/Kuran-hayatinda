@@ -1,0 +1,82 @@
+{
+ "sure": 56,
+ "ayet": 33,
+ "durum": "taslak",
+ "meal": "Ne tükenen ne de yasaklanan (meyveler).",
+ "mealNotu": "'Maktûa' kökü (ق ط ع) kesilmiş, tükenmiş olmayı; 'memnûa' kökü (م ن ع) engellenmiş, yasaklanmış olmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "مَقْطُوعَةٍ",
+   "okunus": "mektûatin",
+   "kok": "قطع",
+   "kokAnlam": "kesilmiş, tükenmiş",
+   "karsilik": "tükenen"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "مَمْنُوعَةٍ",
+   "okunus": "memnûatin",
+   "kok": "منع",
+   "kokAnlam": "engellenmiş, yasaklanmış",
+   "karsilik": "yasaklanan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki bol meyvenin iki temel özelliği bu ayette açıklanır: ne mevsimi biter gibi tükenir, ne de bir yasakla erişim engellenir. Maktûa kökü tükenmeyi, memnûa kökü ise engellenmeyi anlatır; ikisi birlikte bu nimetin tam ve sınırsız olduğunu gösterir.",
+  "Dünyadaki meyveler mevsimlik olur ve bazen erişim güçlükleri (fiyat, mülkiyet, mesafe) yaşanır; bu ayet, cennetteki meyvenin bu iki kısıtlamadan da azade olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "38:54",
+   "meal": "İşte bu, bizim rızkımızdır; ona hiç tükenme yoktur.",
+   "baglanti": "Sâd sûresi de cennet rızkının tükenmeyeceğini aynı temayla bildirir."
+  },
+  {
+   "ref": "13:35",
+   "meal": "Takva sahiplerine vaat edilen cennetin... meyveleri süreklidir.",
+   "baglanti": "Ra'd sûresi, meyvenin sürekliliğini vurgulayarak buradaki 'tükenmez' ifadesini destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu cennetteki meyvenin sınırsızlığıdır; günlük hayata dair doğrudan bir kural içermez. Ama dünyadaki her nimetin sınırlı olduğunu (biter, ya da erişim kısıtlanır) hatırlatarak şükrü artırır.",
+  "İnsan dünyada bir nimete kolayca ulaşınca onu hafife alabilir. Bu ayet, sınırsız bolluğun sadece ahirette olduğunu, dünyadaki her imkânın kıymetli ve geçici olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sınırlı nimete değer ver",
+   "aciklama": "Bugün kolayca ulaştığın bir nimeti hafife almadan, değerini bilerek kullan."
+  },
+  {
+   "baslik": "Erişimi kolaylaştır",
+   "aciklama": "Bugün bir imkâna ulaşmakta zorlanan birine yardımcı ol."
+  },
+  {
+   "baslik": "Kısıtlamayı kabullen",
+   "aciklama": "Bugün ulaşamadığın bir şeye üzülmek yerine, sabırla ve şükürle karşıla."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir imkâna ulaşmakta zorlanan birine elinden geldiğince yardımcı ol.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=33"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/56/33"
+  }
+ ]
+}

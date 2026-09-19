@@ -1,0 +1,96 @@
+{
+ "sure": 56,
+ "ayet": 25,
+ "durum": "taslak",
+ "meal": "Orada ne boş bir söz işitirler, ne de günaha sokan bir söz.",
+ "mealNotu": "'Lağv' kökü (ل غ و) boş, anlamsız sözü; 'te'sîm' kökü (أ ث م) günaha sürükleyen sözü anlatır.",
+ "kokler": [
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "-mezler"
+  },
+  {
+   "kelime": "يَسْمَعُونَ",
+   "okunus": "yesmeûne",
+   "kok": "سمع",
+   "kokAnlam": "işitme, duyma",
+   "karsilik": "işitirler"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "onun içinde, orada",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "لَغْوًا",
+   "okunus": "lağven",
+   "kok": "لغو",
+   "kokAnlam": "boş, anlamsız, yararsız söz",
+   "karsilik": "boş bir söz"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "تَأْثِيمًا",
+   "okunus": "te'sîmen",
+   "kok": "أثم",
+   "kokAnlam": "günaha sürükleyen söz",
+   "karsilik": "günaha sokan bir söz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Nimetlerin sayılmasından sonra sûre, cennet ortamının niteliğine bir boyut daha ekler: orada konuşulanlar tertemizdir. Lağv kökü boş, anlamsız sözü; te'sîm kökü ise günaha sürükleyen, insanı suça bulaştıran sözü anlatır. Bu ikisinin de bulunmaması, dünyada sık karşılaşılan dedikodu, yalan ve boş tartışmaların orada olmadığını gösterir.",
+  "Bu ayet, cennetin sadece fiziksel bir bolluk değil, aynı zamanda ruhsal bir huzur ortamı olduğunu vurgular. Bir sonraki ayet, orada işitilen tek sözün ne olduğunu belirterek bu tabloyu tamamlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "19:62",
+   "meal": "Orada boş söz işitmezler, yalnız 'selâm' işitirler.",
+   "baglanti": "Meryem sûresi, neredeyse aynı ifadeyle cennette boş sözün bulunmadığını ve yalnız selamın işitileceğini bildirir."
+  },
+  {
+   "ref": "78:35",
+   "meal": "Orada ne boş bir söz işitirler ne de yalan.",
+   "baglanti": "Nebe sûresi de aynı kalıpla ('lâ yesmeûne fîhâ lağven') cennet ehlinin duyduğu sözün temizliğini anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu cennetteki konuşma ortamıdır; günlük hayata dair doğrudan bir kural içermez. Ama boş ve günaha sokan sözün orada bulunmaması, dilin dünyada da böyle korunması gerektiğine dolaylı bir işaret taşır.",
+  "İnsan günün büyük kısmını konuşarak geçirir; bu konuşmaların çoğu zaman boşa veya zarara gittiği olur. Bu ayet, konuşmanın da bir amel olduğunu ve temiz tutulması gerektiğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Boş konuşmadan kaçın",
+   "aciklama": "Bugün amaçsız bir dedikoduya veya boş tartışmaya girmemeye özen göster."
+  },
+  {
+   "baslik": "Sözünü tart",
+   "aciklama": "Bugün söylemeden önce bir cümlenin günaha sürükleyip sürüklemediğini düşün."
+  },
+  {
+   "baslik": "Güzel söz seç",
+   "aciklama": "Bugün bir konuşmanda, kırıcı olabilecek bir cümle yerine güzel bir ifade kullan."
+  }
+ ],
+ "bugununAdimi": "Bugün, boşa gideceğini bildiğin bir konuşmaya girmemeyi seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=56&verse=25"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/56/25"
+  }
+ ]
+}
