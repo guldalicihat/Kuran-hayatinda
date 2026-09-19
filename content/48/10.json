@@ -1,0 +1,229 @@
+{
+ "sure": 48,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "Sana biat edenler, ancak Allah'a biat etmiş olurlar. Allah'ın eli onların elinin üzerindedir. Kim sözünü bozarsa, ancak kendi aleyhine bozmuş olur. Kim de Allah'a verdiği söze bağlı kalırsa, Allah ona büyük bir ödül verecektir.",
+ "mealNotu": "'Bey' kökü (بيع) söz verip bağlanmayı anlatır. 'Yed' kökü (يدي) eldir; 'Allah'ın eli onların elinin üzerindedir' ifadesi klasik tefsirde, Allah'ın bu biati bizzat gördüğünü, desteklediğini ve o biatin O'nun katında geçerli sayıldığını anlatan bir teşbih olarak açıklanır. Bu, mahiyeti bilinmeden (bilâ keyf), Allah'ı cisimleştirmeden anlaşılan mecazi bir ifadedir. 'Nekese' kökü (نكث) ipi çözme, sözden dönmeyi ifade eder.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "يُبَايِعُونَكَ",
+   "okunus": "yübâyiûneke",
+   "kok": "بيع",
+   "kokAnlam": "söz verip bağlanma, biat etme",
+   "karsilik": "sana biat edenler"
+  },
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(tekid) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "يُبَايِعُونَ",
+   "okunus": "yübâyiûne",
+   "kok": "بيع",
+   "kokAnlam": "söz verip bağlanma, biat etme",
+   "karsilik": "biat ederler"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "(özel isim) Allah'a",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "يَدُ",
+   "okunus": "yedü",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "eli"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "(özel isim) Allah'ın",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَوْقَ",
+   "okunus": "fevka",
+   "kok": "فوق",
+   "kokAnlam": "üst, üstünde olma",
+   "karsilik": "üzerindedir"
+  },
+  {
+   "kelime": "أَيْدِيهِمْ",
+   "okunus": "eydîhim",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "onların elinin"
+  },
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim ki",
+   "karsilik": "kim ki"
+  },
+  {
+   "kelime": "نَّكَثَ",
+   "okunus": "nekese",
+   "kok": "نكث",
+   "kokAnlam": "sözü bozma, ipi çözme",
+   "karsilik": "sözünü bozarsa"
+  },
+  {
+   "kelime": "فَإِنَّمَا",
+   "okunus": "feinnemâ",
+   "kok": "—",
+   "kokAnlam": "(tekid) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "يَنكُثُ",
+   "okunus": "yenküsü",
+   "kok": "نكث",
+   "kokAnlam": "sözü bozma, ipi çözme",
+   "karsilik": "sözünü bozar"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "aleyhine"
+  },
+  {
+   "kelime": "نَفْسِهِۦ",
+   "okunus": "nefsihî",
+   "kok": "نفس",
+   "kokAnlam": "kendilik, nefis",
+   "karsilik": "kendi"
+  },
+  {
+   "kelime": "وَمَنْ",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "أَوْفَىٰ",
+   "okunus": "evfâ",
+   "kok": "وفي",
+   "kokAnlam": "sözünü tam yerine getirme",
+   "karsilik": "yerine getirirse"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) -i",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "عَٰهَدَ",
+   "okunus": "âhede",
+   "kok": "عهد",
+   "kokAnlam": "söz verme, antlaşma yapma",
+   "karsilik": "sözleştiği"
+  },
+  {
+   "kelime": "عَلَيْهُ",
+   "okunus": "aleyhü",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "(özel isim) Allah'a",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "فَسَيُؤْتِيهِ",
+   "okunus": "feseyü'tîhi",
+   "kok": "أتي",
+   "kokAnlam": "verme, ulaştırma",
+   "karsilik": "verecektir"
+  },
+  {
+   "kelime": "أَجْرًا",
+   "okunus": "ecran",
+   "kok": "أجر",
+   "kokAnlam": "ödül, karşılık",
+   "karsilik": "büyük bir ödül"
+  },
+  {
+   "kelime": "عَظِيمًا",
+   "okunus": "azîmen",
+   "kok": "عظم",
+   "kokAnlam": "büyüklük",
+   "karsilik": "büyük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Peygamber'e yapılan bir biati anlatır; klasik tefsir bunu genellikle Hudeybiye'de gerçekleşen biatla ilişkilendirir. Bu biatin aynı zamanda Allah'a yapılmış sayıldığı bildirilir. 'Allah'ın eli onların elinin üzerindedir' ifadesi, Allah'ın bu sözleşmeye bizzat şahit olduğunu ve onu desteklediğini anlatan mecazi bir söyleyiştir; klasik tefsir bunu Allah'ın gücünü ve o biatin O'nun katındaki geçerliliğini gösteren bir teşbih olarak açıklar, fiziksel bir organ anlamı taşımaz.",
+  "Ayet, sözünü tutmayanın yalnız kendine zarar vereceğini, sözüne bağlı kalanın ise büyük bir ödülle karşılaşacağını bildirerek sorumluluğu bireye yükler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "60:12",
+   "meal": "Ey Peygamber! Mümin kadınlar, Allah'a hiçbir şeyi ortak koşmamak üzere sana biat etmeye geldiklerinde onların biatini kabul et.",
+   "baglanti": "Aynı 'biat' kökü ve konusu burada da geçer; Peygamber'e yapılan biatin kapsamı genişçe anlatılır."
+  },
+  {
+   "ref": "9:111",
+   "meal": "Şüphesiz Allah, müminlerden canlarını ve mallarını, karşılığında cennet olmak üzere satın almıştır.",
+   "baglanti": "Allah'a verilen bir söz ve bağlılık karşılığında büyük bir ödül vaadi burada da tekrarlanır; 48:10'daki sözleşme temasıyla örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu tarihî bir biat olayıdır; sözleşme ve sadakat ilkesini anlatır.",
+  "Ders: verdiğin sözü, sanki Allah'a karşı vermiş gibi ciddiye almak; sözünden dönmenin asıl zararının kendine olduğunu bilmek."
+ ],
+ "bugun": [
+  {
+   "baslik": "Verdiğin sözü hatırla",
+   "aciklama": "Bugün birine verdiğin küçük bir sözü, unutmadan yerine getir."
+  },
+  {
+   "baslik": "Sadakatini gözden geçir",
+   "aciklama": "Bir konuda söz verip tutmadığın bir şey varsa, bugün telafi et."
+  },
+  {
+   "baslik": "Sözünü ciddiye al",
+   "aciklama": "Önemli bir kararda, sözünü sadece karşındaki insana değil Allah'a karşı da verdiğini hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün unuttuğun ya da ertelediğin bir sözünü hatırlayıp yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/48/10"
+  }
+ ]
+}
