@@ -1,0 +1,117 @@
+{
+ "sure": 49,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Odaların arkasından [dışından] sana seslenenlerin çoğu akıl erdiremiyorlar.",
+ "mealNotu": "'Verâi' kökü arka, dış tarafı; 'yünâdûneke' kökü seslenmeyi, çağırmayı anlatır. Bu ayet, Peygamber'in evinin dışından bağırarak seslenen bir grubu konu eder.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "يُنَادُونَكَ",
+   "okunus": "yünâdûneke",
+   "kok": "ندي",
+   "kokAnlam": "seslenme, çağırma",
+   "karsilik": "sana seslenenler"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "وَرَآءِ",
+   "okunus": "verâi",
+   "kok": "وري",
+   "kokAnlam": "arka, dış taraf",
+   "karsilik": "arkasından [dışından]"
+  },
+  {
+   "kelime": "ٱلْحُجُرَٰتِ",
+   "okunus": "elhucürâti",
+   "kok": "حجر",
+   "kokAnlam": "oda",
+   "karsilik": "odaların"
+  },
+  {
+   "kelime": "أَكْثَرُهُمْ",
+   "okunus": "ekseruhüm",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "çoğu"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "يَعْقِلُونَ",
+   "okunus": "ya'kılûne",
+   "kok": "عقل",
+   "kokAnlam": "akletme, akıl erdirme",
+   "karsilik": "akıl erdirmezler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Peygamber'in evinin dışından, odaların arkasından yüksek sesle seslenen bir grubu konu eder. Bu, bir önceki iki ayette anlatılan sesi yükseltmeme edebinin somut bir örneğidir; burada mesele artık sadece ses tonu değil, zamanlama ve nezaket eksikliğidir.",
+  "'Yünâdûneke' kökü seslenmeyi, çağırmayı; 'ya'kılûne' kökü ise akletmeyi, akıl erdirmeyi anlatır. Ayet, bu tavrın düşüncesizce olduğunu, sabırla ve uygun biçimde davranmanın daha akıllıca olacağını ima eder; bir sonraki ayet bu ima ettiği alternatifi açıkça ortaya koyar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "49:5",
+   "meal": "Eğer onlar, sen yanlarına çıkıncaya kadar sabretselerdi, elbette kendileri için daha hayırlı olurdu.",
+   "baglanti": "Bir sonraki ayet, bu davranışın alternatifini gösterir: sabretmek, bağırıp çağırmaktan daha hayırlıdır."
+  },
+  {
+   "ref": "49:2",
+   "meal": "Ey iman edenler! Seslerinizi peygamberin sesinin üstüne yükseltmeyin...",
+   "baglanti": "Odaların dışından bağırarak seslenmek, surenin başında yasaklanan sesi yükseltme davranışının uç bir örneğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu özeldir: Peygamber'in evinin dışından bağırarak seslenen bir grup eleştirilir; bu, düşüncesizce ve saygısızca bir davranıştır.",
+  "Buradan çıkan genel ders, birinin kapısının önünde ya da meşgul olduğu bir anda bağırıp ısrar etmek yerine, nazik biçimde haber vermeyi ve uygun zamanı beklemeyi tercih etmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kapıda bağırma, nazikçe haber ver",
+   "aciklama": "Birine ulaşmak istediğinde ısrarla bağırmak yerine sakin ve nazik bir yol seç."
+  },
+  {
+   "baslik": "Sabırsızlığını fark et",
+   "aciklama": "Birinden hemen cevap almak istediğin bir anı fark et ve bir süre beklemeyi dene."
+  },
+  {
+   "baslik": "Uygun zamanı gözet",
+   "aciklama": "Birinin meşgul olduğu bir anda ısrar etmek yerine uygun zamanı bekle."
+  }
+ ],
+ "bugununAdimi": "Bugün birine ulaşmak istediğinde ısrar etmeden önce uygun bir zaman bekle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=49&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/49/4"
+  }
+ ]
+}

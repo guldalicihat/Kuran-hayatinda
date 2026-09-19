@@ -1,0 +1,271 @@
+{
+ "sure": 49,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Zannın çoğundan kaçının; çünkü zannın bir kısmı günahtır. Casusluk etmeyin, birbirinizin gıybetini etmeyin. Biriniz ölü kardeşinin etini yemekten hoşlanır mı? İşte bundan tiksindiniz! Allah'a karşı gelmekten sakının; şüphesiz Allah tövbeleri çokça kabul edendir, çok merhametlidir.",
+ "mealNotu": "'Yağteb' kökü gıybeti, arkadan konuşmayı anlatır. Ayet, gıybeti ölü kardeşin etini yemeye benzetir; bu benzetme kelimelere sadık biçimde korunmuştur.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "ٱجْتَنِبُوا۟",
+   "okunus": "ictenibû",
+   "kok": "جنب",
+   "kokAnlam": "yan, kaçınma, uzak durma",
+   "karsilik": "kaçının"
+  },
+  {
+   "kelime": "كَثِيرًا",
+   "okunus": "kesîran",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "çoğundan"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلظَّنِّ",
+   "okunus": "ezzanni",
+   "kok": "ظنن",
+   "kokAnlam": "zan, sanma",
+   "karsilik": "zannın"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "çünkü"
+  },
+  {
+   "kelime": "بَعْضَ",
+   "okunus": "ba'da",
+   "kok": "بعض",
+   "kokAnlam": "bazı, kimi",
+   "karsilik": "bazısı"
+  },
+  {
+   "kelime": "ٱلظَّنِّ",
+   "okunus": "ezzanni",
+   "kok": "ظنن",
+   "kokAnlam": "zan, sanma",
+   "karsilik": "zannın"
+  },
+  {
+   "kelime": "إِثْمٌ",
+   "okunus": "ismün",
+   "kok": "أثم",
+   "kokAnlam": "günah",
+   "karsilik": "günahtır"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç + olumsuzluk) ve değil",
+   "karsilik": "ve ... -meyin"
+  },
+  {
+   "kelime": "تَجَسَّسُوا۟",
+   "okunus": "tecessesû",
+   "kok": "جسس",
+   "kokAnlam": "gizlice araştırma, casusluk",
+   "karsilik": "casusluk etmeyin"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç + olumsuzluk) ve değil",
+   "karsilik": "ve ... -mesin"
+  },
+  {
+   "kelime": "يَغْتَب",
+   "okunus": "yağteb",
+   "kok": "غيب",
+   "kokAnlam": "gıybet etme, arkasından konuşma",
+   "karsilik": "gıybet etmesin"
+  },
+  {
+   "kelime": "بَّعْضُكُم",
+   "okunus": "ba'duküm",
+   "kok": "بعض",
+   "kokAnlam": "bazı, kimi",
+   "karsilik": "biriniz"
+  },
+  {
+   "kelime": "بَعْضًا",
+   "okunus": "ba'dan",
+   "kok": "بعض",
+   "kokAnlam": "bazı, kimi",
+   "karsilik": "diğerinin"
+  },
+  {
+   "kelime": "أَيُحِبُّ",
+   "okunus": "eyühibbü",
+   "kok": "حبب",
+   "kokAnlam": "sevme",
+   "karsilik": "ister mi"
+  },
+  {
+   "kelime": "أَحَدُكُمْ",
+   "okunus": "ehadüküm",
+   "kok": "أحد",
+   "kokAnlam": "biri",
+   "karsilik": "biriniz"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -i",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "يَأْكُلَ",
+   "okunus": "ye'küle",
+   "kok": "أكل",
+   "kokAnlam": "yeme",
+   "karsilik": "yemeyi"
+  },
+  {
+   "kelime": "لَحْمَ",
+   "okunus": "lahme",
+   "kok": "لحم",
+   "kokAnlam": "et",
+   "karsilik": "etini"
+  },
+  {
+   "kelime": "أَخِيهِ",
+   "okunus": "ehîhi",
+   "kok": "أخو",
+   "kokAnlam": "kardeş",
+   "karsilik": "kardeşinin"
+  },
+  {
+   "kelime": "مَيْتًا",
+   "okunus": "meyten",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölü [iken]"
+  },
+  {
+   "kelime": "فَكَرِهْتُمُوهُ",
+   "okunus": "fekerihtümûhü",
+   "kok": "كره",
+   "kokAnlam": "tiksinme, nefret etme",
+   "karsilik": "işte bundan tiksindiniz"
+  },
+  {
+   "kelime": "وَٱتَّقُوا۟",
+   "okunus": "vettekû",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "ve sakının"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "تَوَّابٌ",
+   "okunus": "tevvâbün",
+   "kok": "توب",
+   "kokAnlam": "tövbeyi kabul etme",
+   "karsilik": "tövbeleri çokça kabul edendir"
+  },
+  {
+   "kelime": "رَّحِيمٌ",
+   "okunus": "rahîmün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet",
+   "karsilik": "çok merhametlidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, müminler arasında üç davranışı açıkça yasaklar: kötü zan beslemek, casusluk yapmak (başkalarının gizli hâllerini araştırmak) ve gıybet etmek (arkasından konuşmak). 'Yağteb' kökü gıybeti, arkadan konuşmayı anlatır.",
+  "Ayet, gıybeti ölü bir kardeşin etini yemeye benzetir; bu çarpıcı benzetme, kendini savunamayan bir insanın arkasından konuşmanın ne kadar ağır bir davranış olduğunu gösterir. Ayet, bu ağırlığa rağmen Allah'ın tövbeleri çokça kabul eden ve merhametli olduğunu hatırlatarak biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "49:11",
+   "meal": "Bir topluluk başka bir topluluğu alaya almasın... kendinizi ayıplamayın, kötü lakap takmayın.",
+   "baglanti": "Bir önceki ayette anlatılan alay etme ve ayıplama, bu ayette zan ve gıybet yasağıyla aynı ahlaki bütünün parçası olur."
+  },
+  {
+   "ref": "24:12",
+   "meal": "Onu işittiğinizde, mümin erkeklerle mümin kadınların kendi vicdanlarıyla hüsn-i zanda bulunup 'Bu apaçık bir iftiradır' demeleri gerekmez miydi?",
+   "baglanti": "Bu ayet de bir söylenti karşısında kötü zan yerine iyi zannı, dolayısıyla 49:12'deki 'zannın çoğundan kaçının' ilkesini örnekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu üç şeyi yasaklamaktır: kötü zan, casusluk ve gıybet.",
+  "Bu, günlük hayata çok güçlü ve çarpıcı biçimde taşınabilir: ayetin gıybeti ölü bir kardeşin etini yemeye benzetmesi, bir insanın kendini savunamadığı bir anda arkasından konuşmanın ne kadar ağır bir günah olduğunu gösterir; bugün sosyal medyada veya sohbette birinin gıyabında olumsuz konuşmak da bu kapsama girer."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugün kimsenin arkasından konuşma",
+   "aciklama": "En az bir sohbette, orada olmayan biri hakkında olumsuz konuşmaktan kaçın."
+  },
+  {
+   "baslik": "Kötü zannını iyiye çevir",
+   "aciklama": "Biri hakkında olumsuz bir düşünce geldiğinde, önce iyi bir ihtimali düşün."
+  },
+  {
+   "baslik": "Gıybetin ağırlığını unutma",
+   "aciklama": "Ölü kardeşinin etini yemek istemeyeceğin gibi gıybetten de tiksin; bunu kimse duymasa da Allah'ın bildiğini hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün biri hakkında olumsuz bir şey duyduğunda konuyu değiştir veya iyi bir yorum ekle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=49&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/49/12"
+  }
+ ]
+}

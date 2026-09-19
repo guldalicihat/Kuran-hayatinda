@@ -1,0 +1,159 @@
+{
+ "sure": 49,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Allah'ın ve Resûlü'nün önüne geçmeyin. Allah'a karşı gelmekten sakının; şüphesiz Allah hakkıyla işitendir, hakkıyla bilendir.",
+ "mealNotu": "'Beyne yedeyi' (elinin önü) deyimi burada 'önüne geçmek, huzurda öne çıkmak' anlamındadır; meale idiomatik olarak 'önüne geçmeyin' şeklinde yansıtılmıştır. 'Tükaddimû' kökü öne geçmeyi, ileri sürmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "تُقَدِّمُوا۟",
+   "okunus": "tükaddimû",
+   "kok": "قدم",
+   "kokAnlam": "öne geçirme, ileri sürme",
+   "karsilik": "önüne geçmeyin"
+  },
+  {
+   "kelime": "بَيْنَ",
+   "okunus": "beyne",
+   "kok": "بين",
+   "kokAnlam": "ara, önü, arasında",
+   "karsilik": "önüne"
+  },
+  {
+   "kelime": "يَدَىِ",
+   "okunus": "yedeyi",
+   "kok": "يدي",
+   "kokAnlam": "el; (deyim) huzur, önü",
+   "karsilik": "huzuruna"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَرَسُولِهِۦ",
+   "okunus": "ve rasûlihî",
+   "kok": "رسل",
+   "kokAnlam": "gönderme; elçi",
+   "karsilik": "ve Resûlü'nün"
+  },
+  {
+   "kelime": "وَٱتَّقُوا۟",
+   "okunus": "vettekû",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "ve sakının"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "سَمِيعٌ",
+   "okunus": "semîun",
+   "kok": "سمع",
+   "kokAnlam": "işitme",
+   "karsilik": "hakkıyla işitendir"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "hakkıyla bilendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Hucurât suresi, müminlere Allah ve Resûlü karşısındaki edebi hatırlatarak başlar. 'Önüne geçmeyin' ifadesi, bir karara, söze ya da davranışa Allah'ın ve Peygamber'in bildirdiğini beklemeden, kendi hevesiyle öne geçmeyi kapsar; bu hem hüküm verme hem de saygı konusunda bir sınır çizer.",
+  "'Tükaddimû' kökü öne geçmeyi, ileri sürmeyi anlatır; 'beyne yedeyi' (elinin önü) ise Arapçada 'huzurunda, önünde' anlamına gelen bir deyimdir. Ayetin sonunda Allah'ın işiten ve bilen olduğunun hatırlatılması, bu edebin sadece dışa dönük bir görgü kuralı değil, farkında olunan bir bilinç meselesi olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "49:2",
+   "meal": "Ey iman edenler! Seslerinizi peygamberin sesinin üstüne yükseltmeyin...",
+   "baglanti": "Aynı edep teması bir sonraki ayette ses tonu üzerinden somutlaşır; 1 ve 2. ayetler birlikte Peygamber'e karşı tutumu tarif eder."
+  },
+  {
+   "ref": "4:59",
+   "meal": "Ey iman edenler! Allah'a itaat edin, Resûl'e ve sizden olan yetki sahiplerine itaat edin.",
+   "baglanti": "Allah ve Resûlü'nün önüne geçmemek, onlara itaat etmenin bir gereği olarak bu ayette de vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah'ın ve Peygamber'in bildirdiğinden önce davranmamak, kendi görüşünü ya da hevesini onların önüne geçirmemektir.",
+  "Bu ilke günlük hayata, otorite ve bilgi sahibi birinin sözünü dinlemeden acele karar vermeme, bir konuda emin olmadan hüküm vermeme dersi olarak taşınabilir; büyüklerin veya yetkili kişilerin sözünü beklemeden öne atılmamak da bu edebin bir yansımasıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Karar vermeden önce dinle",
+   "aciklama": "Bugün bir konuda hüküm vermeden önce ilgili bilgiyi veya yetkili kişinin sözünü bekle."
+  },
+  {
+   "baslik": "Aceleyle öne geçme",
+   "aciklama": "Bir toplantıda veya sohbette söz sırası gelmeden araya girme alışkanlığını fark et."
+  },
+  {
+   "baslik": "Kendi görüşünü mutlak sanma",
+   "aciklama": "Bir konuda emin olmadan, sanki kesin doğruymuş gibi konuşmaktan kaçın; Allah'ın bildiğini kendi bilgin sanma."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuşmada söz sırası gelmeden araya girmeden önce bir kere durup düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=49&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/49/1"
+  }
+ ]
+}

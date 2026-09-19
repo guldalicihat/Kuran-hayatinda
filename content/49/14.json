@@ -1,0 +1,243 @@
+{
+ "sure": 49,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "Bedeviler 'İman ettik' dediler. De ki: İman etmediniz, ama 'boyun eğdik [Müslüman olduk]' deyin; çünkü iman henüz kalplerinize girmedi. Eğer Allah'a ve Resûlü'ne itaat ederseniz, [Allah] amellerinizden hiçbir şey eksiltmez. Şüphesiz Allah çok bağışlayandır, çok merhametlidir.",
+ "mealNotu": "'Eslemnâ' kökü teslim olmayı, boyun eğmeyi anlatır; burada dıştan görünen İslam'a girişi ifade eder ve 'iman ettik' iddiasından ayrı tutulur. 'Yelitküm' kökü bir şeyi eksiltmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "قَالَتِ",
+   "okunus": "kâleti",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "ٱلْأَعْرَابُ",
+   "okunus": "el'a'râbü",
+   "kok": "عرب",
+   "kokAnlam": "bedevi Araplar",
+   "karsilik": "bedeviler"
+  },
+  {
+   "kelime": "ءَامَنَّا",
+   "okunus": "âmennâ",
+   "kok": "أمن",
+   "kokAnlam": "iman etme",
+   "karsilik": "iman ettik"
+  },
+  {
+   "kelime": "قُل",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi",
+   "karsilik": "-mediniz"
+  },
+  {
+   "kelime": "تُؤْمِنُوا۟",
+   "okunus": "tü'minû",
+   "kok": "أمن",
+   "kokAnlam": "iman etme",
+   "karsilik": "iman etmediniz"
+  },
+  {
+   "kelime": "وَلَٰكِن",
+   "okunus": "ve lâkin",
+   "kok": "—",
+   "kokAnlam": "(edat) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "قُولُوٓا۟",
+   "okunus": "kûlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "deyin"
+  },
+  {
+   "kelime": "أَسْلَمْنَا",
+   "okunus": "eslemnâ",
+   "kok": "سلم",
+   "kokAnlam": "teslim olma, boyun eğme",
+   "karsilik": "boyun eğdik [Müslüman olduk]"
+  },
+  {
+   "kelime": "وَلَمَّا",
+   "okunus": "ve lemmâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) henüz değil",
+   "karsilik": "henüz"
+  },
+  {
+   "kelime": "يَدْخُلِ",
+   "okunus": "yedhuli",
+   "kok": "دخل",
+   "kokAnlam": "girme",
+   "karsilik": "girmedi"
+  },
+  {
+   "kelime": "ٱلْإِيمَٰنُ",
+   "okunus": "el'îmânü",
+   "kok": "أمن",
+   "kokAnlam": "iman, güven",
+   "karsilik": "iman"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "قُلُوبِكُمْ",
+   "okunus": "kulûbiküm",
+   "kok": "قلب",
+   "kokAnlam": "kalp",
+   "karsilik": "kalplerinize"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart edatı) ve eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "تُطِيعُوا۟",
+   "okunus": "tütîû",
+   "kok": "طوع",
+   "kokAnlam": "itaat etme",
+   "karsilik": "itaat ederseniz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَرَسُولَهُۥ",
+   "okunus": "ve rasûlehû",
+   "kok": "رسل",
+   "kokAnlam": "elçi",
+   "karsilik": "ve Resûlü'ne"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يَلِتْكُم",
+   "okunus": "yelitküm",
+   "kok": "ليت",
+   "kokAnlam": "eksiltme",
+   "karsilik": "eksiltmez"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَعْمَٰلِكُمْ",
+   "okunus": "a'mâliküm",
+   "kok": "عمل",
+   "kokAnlam": "amel, iş",
+   "karsilik": "amellerinizden"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "hiçbir şey"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَفُورٌ",
+   "okunus": "gafûrun",
+   "kok": "غفر",
+   "kokAnlam": "bağışlama, örtme",
+   "karsilik": "çok bağışlayandır"
+  },
+  {
+   "kelime": "رَّحِيمٌ",
+   "okunus": "rahîmün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet",
+   "karsilik": "çok merhametlidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir grup bedevi Arabın 'iman ettik' demesine karşılık, imanın henüz kalplerine tam yerleşmediğini, bunun yerine 'boyun eğdik [Müslüman olduk]' demeleri gerektiğini söyler. Bu, belirli bir grubu aşağılayan değil, dille söylenen iman iddiası ile kalpte yerleşmiş imanın ayrı şeyler olabileceğini gösteren bir ayet olarak okunmalıdır.",
+  "'Eslemnâ' kökü teslim olmayı, dıştan boyun eğmeyi anlatır; bu, henüz kalbe tam yerleşmemiş bir iman aşamasını ifade eder. Ayet, itaat edilirse amellerin eksiltilmeyeceğini ve Allah'ın bağışlayan, merhametli olduğunu ekleyerek kapıyı kapatmaz; imanın gelişebileceğini gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "49:15",
+   "meal": "Müminler ancak, Allah'a ve Resûlü'ne iman edip sonra şüpheye düşmeyen, Allah yolunda mallarıyla ve canlarıyla çaba gösterenlerdir.",
+   "baglanti": "Bir sonraki ayet, bu ayette henüz tamamlanmamış olarak anlatılan imanın karşısına gerçek müminlerin tarifini koyarak ayrımı netleştirir."
+  },
+  {
+   "ref": "2:8",
+   "meal": "İnsanlardan, inanmadıkları hâlde 'Allah'a ve ahiret gününe inandık' diyenler vardır.",
+   "baglanti": "Dille söylenen iman iddiası ile kalpteki gerçek durumun farklı olabileceği teması, başka bir surede de işlenir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, sözle 'iman ettik' demenin kalpteki gerçek imanla aynı şey olmadığıdır.",
+  "Günlük hayata taşınabilecek ders, inandığını söylemenin kolay olduğu ama asıl meselenin bunun davranışa, itaate ve kalbe yansımasıdır; kişinin kendi imanını sözle değil eylemle sınaması gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü eylemle test et",
+   "aciklama": "Bugün inandığını söylediğin bir değeri (dürüstlük, sabır gibi) bir davranışında uygula."
+  },
+  {
+   "baslik": "Aceleyle iddia etme, adım adım ilerle",
+   "aciklama": "İmanını ya da erdemini bir anda tamamlanmış saymak yerine sürekli bir çaba olarak gör."
+  },
+  {
+   "baslik": "Kalbindekini Allah'ın bildiğini unutma",
+   "aciklama": "Dışarıya söylediklerinle kalbinde olan farklıysa, bunu kimseden gizleyemeyeceğini hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün söylediğin bir değeri en az bir davranışınla destekle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=49&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/49/14"
+  }
+ ]
+}

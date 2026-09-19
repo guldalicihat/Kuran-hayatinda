@@ -1,0 +1,250 @@
+{
+ "sure": 49,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Bilin ki içinizde Allah'ın Resûlü vardır. Eğer o, birçok işte size uysaydı, elbette sıkıntıya düşerdiniz. Fakat Allah size imanı sevdirdi ve onu kalplerinizde süsledi; inkârı, yoldan çıkmayı ve isyanı size çirkin gösterdi. İşte onlar doğru yolda olanlardır.",
+ "mealNotu": "'Leanittüm' kökü sıkıntıya, zorluğa düşmeyi anlatır. 'Errâşidûne' kökü doğru yolda, olgunlukta olmayı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَٱعْلَمُوٓا۟",
+   "okunus": "velemû",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilin ki"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِيكُمْ",
+   "okunus": "fîküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) içinizde",
+   "karsilik": "içinizde"
+  },
+  {
+   "kelime": "رَسُولَ",
+   "okunus": "rasûle",
+   "kok": "رسل",
+   "kokAnlam": "elçi",
+   "karsilik": "Allah'ın Resûlü"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "vardır"
+  },
+  {
+   "kelime": "لَوْ",
+   "okunus": "lev",
+   "kok": "—",
+   "kokAnlam": "(şart edatı) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يُطِيعُكُمْ",
+   "okunus": "yütîuküm",
+   "kok": "طوع",
+   "kokAnlam": "boyun eğme, itaat",
+   "karsilik": "size uysaydı"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "كَثِيرٍ",
+   "okunus": "kesîrin",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "birçok"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْأَمْرِ",
+   "okunus": "el'emri",
+   "kok": "أمر",
+   "kokAnlam": "iş, emir",
+   "karsilik": "işte"
+  },
+  {
+   "kelime": "لَعَنِتُّمْ",
+   "okunus": "leanittüm",
+   "kok": "عنت",
+   "kokAnlam": "sıkıntıya düşme, zora girme",
+   "karsilik": "elbette sıkıntıya düşerdiniz"
+  },
+  {
+   "kelime": "وَلَٰكِنَّ",
+   "okunus": "ve lâkinne",
+   "kok": "—",
+   "kokAnlam": "(edat) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "حَبَّبَ",
+   "okunus": "habbebe",
+   "kok": "حبب",
+   "kokAnlam": "sevdirme",
+   "karsilik": "sevdirdi"
+  },
+  {
+   "kelime": "إِلَيْكُمُ",
+   "okunus": "ileykümü",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "ٱلْإِيمَٰنَ",
+   "okunus": "el'îmâne",
+   "kok": "أمن",
+   "kokAnlam": "iman, güven",
+   "karsilik": "imanı"
+  },
+  {
+   "kelime": "وَزَيَّنَهُۥ",
+   "okunus": "ve zeyyenehû",
+   "kok": "زين",
+   "kokAnlam": "süsleme",
+   "karsilik": "ve onu süsledi"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "قُلُوبِكُمْ",
+   "okunus": "kulûbiküm",
+   "kok": "قلب",
+   "kokAnlam": "kalp",
+   "karsilik": "kalplerinizde"
+  },
+  {
+   "kelime": "وَكَرَّهَ",
+   "okunus": "ve kerrahe",
+   "kok": "كره",
+   "kokAnlam": "tiksindirme, çirkin gösterme",
+   "karsilik": "ve çirkin gösterdi"
+  },
+  {
+   "kelime": "إِلَيْكُمُ",
+   "okunus": "ileykümü",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "ٱلْكُفْرَ",
+   "okunus": "elküfra",
+   "kok": "كفر",
+   "kokAnlam": "inkâr, örtme",
+   "karsilik": "inkârı"
+  },
+  {
+   "kelime": "وَٱلْفُسُوقَ",
+   "okunus": "vel füsûka",
+   "kok": "فسق",
+   "kokAnlam": "yoldan çıkma",
+   "karsilik": "ve yoldan çıkmayı [fasıklığı]"
+  },
+  {
+   "kelime": "وَٱلْعِصْيَانَ",
+   "okunus": "vel isyâne",
+   "kok": "عصي",
+   "kokAnlam": "isyan, karşı gelme",
+   "karsilik": "ve isyanı"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) o kimseler",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlardır"
+  },
+  {
+   "kelime": "ٱلرَّٰشِدُونَ",
+   "okunus": "errâşidûne",
+   "kok": "رشد",
+   "kokAnlam": "doğru yolda olma, olgunluk",
+   "karsilik": "doğru yolda olanlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki tebeyyün emrinin ardından bu ayet, müminlere aralarında Allah'ın Resûlü'nün bulunmasının bir nimet olduğunu hatırlatır. Eğer Peygamber her istediklerine uysaydı, bu onlar için iyi değil, sıkıntı verici olurdu.",
+  "'Leanittüm' kökü sıkıntıya düşmeyi, 'errâşidûne' kökü ise doğru yolda, olgunlukta olmayı anlatır. Ayet, imanı sevmenin ve kötülükten tiksinmenin kulun kendi başarısı değil, Allah'ın kalbe yerleştirdiği bir lütuf olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:65",
+   "meal": "Hayır, Rabbine andolsun ki, aralarında çıkan anlaşmazlıkta seni hakem yapıp verdiğin hükme içlerinde hiçbir sıkıntı duymadan tam teslim olmadıkça iman etmiş olmazlar.",
+   "baglanti": "Bu ayet de Peygamber'in hükmüne içten teslimiyetin imanın gereği olduğunu anlatır; 49:7'deki 'size uysaydı sıkıntıya düşerdiniz' ifadesiyle aynı teslimiyet eksenindedir."
+  },
+  {
+   "ref": "49:15",
+   "meal": "Müminler ancak, Allah'a ve Resûlü'ne iman edip sonra şüpheye düşmeyen, Allah yolunda mallarıyla ve canlarıyla çaba gösterenlerdir.",
+   "baglanti": "Aynı surede birkaç ayet sonra gerçek müminlerin tarifi yapılır; 'doğru yolda olanlar' ifadesiyle konu bütünlük kazanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, sahabenin her isteğine Peygamber'in uymasının aslında iyi olmayacağı ve imanın kalpte Allah tarafından süslenmiş bir nimet olduğudur.",
+  "Günlük hayata taşınabilecek ders, her istediğimizin bize gerçekten iyi gelmeyebileceğini kabullenmek ve doğruyu sevip kötüden tiksinmeyi kendi başarımız değil, kıymetini bilmemiz gereken bir nimet olarak görmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İsteğinin her zaman en iyisi olmadığını kabul et",
+   "aciklama": "Bugün istediğin ama sana iyi gelmeyecek bir şeyden vazgeçmeyi dene."
+  },
+  {
+   "baslik": "Doğruyu sevme duygunu bir nimet bil",
+   "aciklama": "İyiyi kötüden ayırt edebildiğin bir anı fark et ve bunun için şükret."
+  },
+  {
+   "baslik": "Nefsinin her isteğine uyma",
+   "aciklama": "Nefsinin ya da hevesin bir şeyi istediğinde, önce bunun gerçekten doğru olup olmadığını düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün canının istediği ama iyi olmayan bir şeyden bilerek vazgeç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=49&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/49/7"
+  }
+ ]
+}

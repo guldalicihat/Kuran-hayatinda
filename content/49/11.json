@@ -1,0 +1,327 @@
+{
+ "sure": 49,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Bir topluluk başka bir topluluğu alaya almasın; belki onlar kendilerinden daha hayırlıdır. Kadınlar da başka kadınları alaya almasın; belki onlar kendilerinden daha hayırlıdır. Kendinizi [birbirinizi] ayıplamayın, birbirinize kötü lakaplar takmayın. İmandan sonra fasıklıkla anılmak ne kötüdür! Kim tövbe etmezse, işte onlar zalimlerin ta kendileridir.",
+ "mealNotu": "'Yeshar' kökü alay etmeyi, küçümsemeyi anlatır. 'Telmizû' kökü kusur bulup ayıplamayı ifade eder; 'enfüseküm' (kendinizi) burada 'birbirinizi' anlamındadır, çünkü müminler tek bir topluluk gibi görülür; bu köşeli parantezle [birbirinizi] olarak belirtilmiştir.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "-mesin"
+  },
+  {
+   "kelime": "يَسْخَرْ",
+   "okunus": "yeshar",
+   "kok": "سخر",
+   "kokAnlam": "alay etme, küçümseme",
+   "karsilik": "alaya almasın"
+  },
+  {
+   "kelime": "قَوْمٍ",
+   "okunus": "kavmün",
+   "kok": "قوم",
+   "kokAnlam": "topluluk",
+   "karsilik": "bir topluluk"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) ile, -den",
+   "karsilik": "ile"
+  },
+  {
+   "kelime": "قَوْمٍ",
+   "okunus": "kavmin",
+   "kok": "قوم",
+   "kokAnlam": "topluluk",
+   "karsilik": "bir topluluğu"
+  },
+  {
+   "kelime": "عَسَىٰٓ",
+   "okunus": "asâ",
+   "kok": "عسي",
+   "kokAnlam": "umulur ki",
+   "karsilik": "belki [de]"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki, diye",
+   "karsilik": "-dir"
+  },
+  {
+   "kelime": "يَكُونُوا۟",
+   "okunus": "yekûnû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olabilirler"
+  },
+  {
+   "kelime": "خَيْرًا",
+   "okunus": "hayran",
+   "kok": "خير",
+   "kokAnlam": "hayır, iyilik",
+   "karsilik": "daha hayırlı"
+  },
+  {
+   "kelime": "مِّنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç + olumsuzluk) ve değil",
+   "karsilik": "ve ... -mesin"
+  },
+  {
+   "kelime": "نِّسَآءٍ",
+   "okunus": "nisâün",
+   "kok": "نسو",
+   "kokAnlam": "kadın",
+   "karsilik": "kadınlar"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) ile, -den",
+   "karsilik": "ile"
+  },
+  {
+   "kelime": "نِّسَآءٍ",
+   "okunus": "nisâin",
+   "kok": "نسو",
+   "kokAnlam": "kadın",
+   "karsilik": "kadınları [alay etmesin]"
+  },
+  {
+   "kelime": "عَسَىٰٓ",
+   "okunus": "asâ",
+   "kok": "عسي",
+   "kokAnlam": "umulur ki",
+   "karsilik": "belki [de]"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki, diye",
+   "karsilik": "-dir"
+  },
+  {
+   "kelime": "يَكُنَّ",
+   "okunus": "yekünne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olabilirler"
+  },
+  {
+   "kelime": "خَيْرًا",
+   "okunus": "hayran",
+   "kok": "خير",
+   "kokAnlam": "hayır, iyilik",
+   "karsilik": "daha hayırlı"
+  },
+  {
+   "kelime": "مِّنْهُنَّ",
+   "okunus": "minhünne",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç + olumsuzluk) ve değil",
+   "karsilik": "ve ... -mayın"
+  },
+  {
+   "kelime": "تَلْمِزُوٓا۟",
+   "okunus": "telmizû",
+   "kok": "لمز",
+   "kokAnlam": "ayıplama, kusur bulma",
+   "karsilik": "ayıplamayın"
+  },
+  {
+   "kelime": "أَنفُسَكُمْ",
+   "okunus": "enfüseküm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendi",
+   "karsilik": "kendinizi [birbirinizi]"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç + olumsuzluk) ve değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "تَنَابَزُوا۟",
+   "okunus": "tenâbezû",
+   "kok": "نبز",
+   "kokAnlam": "lakap takma",
+   "karsilik": "birbirinize lakap takmayın"
+  },
+  {
+   "kelime": "بِٱلْأَلْقَٰبِ",
+   "okunus": "bil elkâbi",
+   "kok": "لقب",
+   "kokAnlam": "lakap",
+   "karsilik": "[kötü] lakaplarla"
+  },
+  {
+   "kelime": "بِئْسَ",
+   "okunus": "bi'se",
+   "kok": "بأس",
+   "kokAnlam": "kötü olma",
+   "karsilik": "ne kötüdür"
+  },
+  {
+   "kelime": "ٱلِٱسْمُ",
+   "okunus": "ulismü",
+   "kok": "سمو",
+   "kokAnlam": "isim, ad",
+   "karsilik": "isim"
+  },
+  {
+   "kelime": "ٱلْفُسُوقُ",
+   "okunus": "elfüsûku",
+   "kok": "فسق",
+   "kokAnlam": "yoldan çıkma",
+   "karsilik": "fasıklık [olarak anılmak]"
+  },
+  {
+   "kelime": "بَعْدَ",
+   "okunus": "ba'de",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ٱلْإِيمَٰنِ",
+   "okunus": "el'îmâni",
+   "kok": "أمن",
+   "kokAnlam": "iman, güven",
+   "karsilik": "imandan"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi",
+   "karsilik": "-mezse"
+  },
+  {
+   "kelime": "يَتُبْ",
+   "okunus": "yetüb",
+   "kok": "توب",
+   "kokAnlam": "tövbe etme, dönme",
+   "karsilik": "tövbe et"
+  },
+  {
+   "kelime": "فَأُو۟لَٰٓئِكَ",
+   "okunus": "feülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) o kimseler",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlardır"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمُونَ",
+   "okunus": "ezzâlimûne",
+   "kok": "ظلم",
+   "kokAnlam": "zulüm, haksızlık",
+   "karsilik": "zalimler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, müminler arasındaki alay etmeyi, ayıplamayı ve kötü lakap takmayı açıkça yasaklar. 'Yeshar' kökü alay etmeyi, küçümsemeyi; 'telmizû' kökü ise kusur bulup ayıplamayı anlatır.",
+  "Ayetin 'belki onlar kendilerinden daha hayırlıdır' ifadesi, alay edilen kişinin Allah katındaki değerinin bilinemeyeceğini hatırlatır. İmandan sonra fasıklıkla anılmak ağır bir uyarıyla nitelenir; tövbe etmeyenler için 'zalimler' ifadesi kullanılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "104:1",
+   "meal": "Arkadan çekiştirip yüzden alay eden herkesin vay haline!",
+   "baglanti": "Hümeze suresi, alay etme ve çekiştirme davranışını başka bir surede ağır bir uyarıyla kınar; aynı davranışın karşılığı gösterilir."
+  },
+  {
+   "ref": "49:12",
+   "meal": "Zannın çoğundan kaçının... birbirinizin gıybetini etmeyin.",
+   "baglanti": "Bir sonraki ayet, alay etme ve ayıplamayla bağlantılı olan zan ve gıybeti yasaklayarak aynı ahlaki çerçeveyi genişletir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, müminlerin birbiriyle alay etmesinin, birbirini ayıplamasının ve kötü lakap takmasının yasaklanmasıdır.",
+  "Bu, günlük hayata çok güçlü biçimde taşınabilir: birini dış görünüşü, konuşması veya bir eksiğiyle alay etmek, arkasından ya da yüzüne karşı küçük düşürücü lakaplar takmak, bugün de yaygın olan bir kötülüktür ve ayet bunu açıkça yasaklar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Şaka bile olsa alay etme",
+   "aciklama": "Bugün birini küçük düşürecek bir şaka yapmaktan kaçın."
+  },
+  {
+   "baslik": "Kötü lakabı bırak",
+   "aciklama": "Birine takılan aşağılayıcı bir lakabı kullanmayı bırak, adıyla çağır."
+  },
+  {
+   "baslik": "Küçümsediğin kişinin değerini bilemeyeceğini hatırla",
+   "aciklama": "Alay ettiğin kişinin Allah katında senden daha değerli olabileceğini unutma."
+  }
+ ],
+ "bugununAdimi": "Bugün kimseyle ilgili küçük düşürücü bir şaka yapmadığından veya lakap kullanmadığından emin ol.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=49&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/49/11"
+  }
+ ]
+}
