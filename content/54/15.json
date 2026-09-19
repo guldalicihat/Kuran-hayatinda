@@ -1,0 +1,96 @@
+{
+ "sure": 54,
+ "ayet": 15,
+ "durum": "taslak",
+ "meal": "Andolsun, onu bir ibret olarak bıraktık; var mı öğüt alan?",
+ "mealNotu": "'Terakna' kökü bırakmayı, kalıcı kılmayı anlatır; 'müddekir' kökü ise öğüt alan, ders çıkaran kimse demektir.",
+ "kokler": [
+  {
+   "kelime": "وَلَقَد",
+   "okunus": "ve lekad",
+   "kok": "—",
+   "kokAnlam": "kesinlik edatı",
+   "karsilik": "andolsun"
+  },
+  {
+   "kelime": "تَّرَكْنَٰهَآ",
+   "okunus": "teraknâhâ",
+   "kok": "ترك",
+   "kokAnlam": "bırakmak",
+   "karsilik": "onu bıraktık"
+  },
+  {
+   "kelime": "ءَايَةً",
+   "okunus": "âyeten",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ibret",
+   "karsilik": "bir ibret olarak"
+  },
+  {
+   "kelime": "فَهَلْ",
+   "okunus": "fehel",
+   "kok": "—",
+   "kokAnlam": "soru edatı",
+   "karsilik": "var mı"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "مُّدَّكِرٍ",
+   "okunus": "müddekirin",
+   "kok": "ذكر",
+   "kokAnlam": "öğüt alan, ders çıkaran",
+   "karsilik": "öğüt alan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, tufan kıssasının sonunda, bu olayın bir ibret olarak bırakıldığını bildirir. 'Terakna' kökü bırakmayı, kalıcı kılmayı anlatır; kıssa, sonraki nesiller için bir uyarı olarak tarihte durur.",
+  "'Fehel min müddekir' sorusu, ilk kez burada, Nûh kıssasının hemen ardından sorulur. Soru biçimindeki bu ifade, doğrudan bir emir değil, samimi bir davettir: bu ibretten kim ders çıkaracak?"
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:15",
+   "meal": "Onu ve gemidekileri kurtardık ve bunu âlemler için bir ibret kıldık.",
+   "baglanti": "Aynı 'ibret bırakma' fikri; Kamer 15'teki 'onu bir ibret bıraktık' ifadesiyle birebir örtüşür."
+  },
+  {
+   "ref": "26:121",
+   "meal": "Şüphesiz bunda bir ibret vardır, fakat onların çoğu inanmadı.",
+   "baglanti": "Tufan kıssasının sonunda tekrar eden 'ibret' vurgusu; ama yine de çoğunluğun inanmadığı hatırlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, geçmişin ibretlerinin unutulmaması için kayıt altında tutulduğunu hatırlatır. Kur'an'daki kıssalar, sadece tarih değil, güncel bir davettir.",
+  "Bugün de bir kişi, geçmiş kıssalardan ders çıkarıp çıkarmadığını kendine sorabilir. Bu, pasif bir okuma değil, aktif bir öz eleştiridir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir kıssadan ders çıkar",
+   "aciklama": "Bugün okuduğun bir kıssadan kendine bir ders çıkar."
+  },
+  {
+   "baslik": "Kendine sor",
+   "aciklama": "Bugün, 'ben bu ibretten ders alıyor muyum' diye kendine sor."
+  },
+  {
+   "baslik": "Dersi paylaş",
+   "aciklama": "Bugün bir yakınınla, öğüt aldığın bir kıssayı konuş."
+  }
+ ],
+ "bugununAdimi": "Bugün Nûh kıssasından çıkardığın bir dersi yazıya dök.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=15"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/15"
+  }
+ ]
+}

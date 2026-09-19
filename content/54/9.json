@@ -1,0 +1,117 @@
+{
+ "sure": 54,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Onlardan önce Nûh'un kavmi de yalanladı; kulumuzu yalanladılar, 'delidir' dediler ve o engellendi.",
+ "mealNotu": "'Mecnûn' kökü cin çarpmış, akıl dışı anlamındadır. 'Vezdücir' kökü ise engellenmeyi, kovulmayı, sindirilmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "كَذَّبَتْ",
+   "okunus": "kezzebet",
+   "kok": "كذب",
+   "kokAnlam": "yalanlamak",
+   "karsilik": "yalanladı"
+  },
+  {
+   "kelime": "قَبْلَهُمْ",
+   "okunus": "kablehüm",
+   "kok": "قبل",
+   "kokAnlam": "önce",
+   "karsilik": "onlardan önce"
+  },
+  {
+   "kelime": "قَوْمُ",
+   "okunus": "kavmü",
+   "kok": "قوم",
+   "kokAnlam": "kavim, topluluk",
+   "karsilik": "kavmi"
+  },
+  {
+   "kelime": "نُوحٍ",
+   "okunus": "nûhin",
+   "kok": "—",
+   "kokAnlam": "özel isim: Nûh",
+   "karsilik": "Nûh'un"
+  },
+  {
+   "kelime": "فَكَذَّبُوا۟",
+   "okunus": "fekezzebû",
+   "kok": "كذب",
+   "kokAnlam": "yalanlamak",
+   "karsilik": "yalanladılar"
+  },
+  {
+   "kelime": "عَبْدَنَا",
+   "okunus": "abdenâ",
+   "kok": "عبد",
+   "kokAnlam": "kul",
+   "karsilik": "kulumuzu"
+  },
+  {
+   "kelime": "وَقَالُوا۟",
+   "okunus": "ve kâlû",
+   "kok": "قول",
+   "kokAnlam": "söylemek",
+   "karsilik": "ve dediler"
+  },
+  {
+   "kelime": "مَجْنُونٌ",
+   "okunus": "mecnûnün",
+   "kok": "جنن",
+   "kokAnlam": "cin çarpmış, akıl dışı, deli",
+   "karsilik": "delidir"
+  },
+  {
+   "kelime": "وَٱزْدُجِرَ",
+   "okunus": "vezdücira",
+   "kok": "زجر",
+   "kokAnlam": "engellenmek, kovulmak, sindirilmek",
+   "karsilik": "ve engellendi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Nûh kavminin de tıpkı Mekkeliler gibi kendilerine gönderilen elçiyi yalanladığını anlatır. 'Abdenâ' (kulumuz) ifadesi Nûh'un Allah katındaki konumunu vurgular; buna rağmen kavmi onu 'mecnûn' yani akıl dışı biri olarak damgalamıştır.",
+  "'Vezdücir' kökü, Nûh'un sadece sözle değil, baskı ve tehditle de susturulmaya çalışıldığını anlatır. Bu, sonraki ayetlerde anlatılacak tufan kıssasının girişidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "71:1",
+   "meal": "Şüphesiz biz Nûh'u kavmine, 'Onlara acı bir azap gelmeden önce kavmini uyar' diye gönderdik.",
+   "baglanti": "Nûh'un gönderiliş amacını anlatır; Kamer 9'daki yalanlama, bu uyarı görevine verilen karşılıktır."
+  },
+  {
+   "ref": "7:59",
+   "meal": "Andolsun, Nûh'u kavmine gönderdik; dedi ki: Ey kavmim, Allah'a kulluk edin, sizin O'ndan başka ilahınız yoktur.",
+   "baglanti": "Nûh'un çağrısının içeriğini gösterir; kavminin yalanlaması bu çağrıya karşı gelmiştir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, doğru sözün her zaman kolay kabul görmediğini, bazen en iyi niyetli uyarının bile 'delilik' diye damgalanabileceğini gösterir. Bu, tarih boyunca tekrarlanan bir kalıptır.",
+  "Bugün de doğruyu söyleyen biri, alay veya baskıyla karşılaşabilir. Ayet, bu tepkinin doğrunun geçersizliğini değil, muhatabın kapalılığını gösterdiğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğruyu söyle",
+   "aciklama": "Bugün alay edilme riski olsa bile, bildiğin doğruyu nazikçe söyle."
+  },
+  {
+   "baslik": "Damgalamaktan kaçın",
+   "aciklama": "Bugün senden farklı düşünen birini hemen yargılamadan dinle."
+  },
+  {
+   "baslik": "Baskıya boyun eğme",
+   "aciklama": "Bugün doğru bildiğin bir konuda, çevre baskısına rağmen tutumundan taviz verme."
+  }
+ ],
+ "bugununAdimi": "Bugün doğru bildiğin bir şeyi, tepki çekme korkusuyla saklamadan söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/9"
+  }
+ ]
+}

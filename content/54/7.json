@@ -1,0 +1,110 @@
+{
+ "sure": 54,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Gözleri düşkün bir halde, sanki yayılmış çekirgeler gibi kabirlerden çıkarlar.",
+ "mealNotu": "'Huşşean' kökü boyun eğmeyi, saygıyla eğilmeyi; burada gözlerin düşkünlüğünü, zilletini anlatır. 'Cerâd' çekirge, 'münteşir' ise dağılmış demektir.",
+ "kokler": [
+  {
+   "kelime": "خُشَّعًا",
+   "okunus": "huşşean",
+   "kok": "خشع",
+   "kokAnlam": "boyun eğmek, düşkün ve zelil olmak",
+   "karsilik": "düşkün bir halde"
+  },
+  {
+   "kelime": "أَبْصَٰرُهُمْ",
+   "okunus": "ebsâruhüm",
+   "kok": "بصر",
+   "kokAnlam": "görme, göz",
+   "karsilik": "gözleri"
+  },
+  {
+   "kelime": "يَخْرُجُونَ",
+   "okunus": "yahrucûne",
+   "kok": "خرج",
+   "kokAnlam": "çıkmak",
+   "karsilik": "çıkarlar"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْأَجْدَاثِ",
+   "okunus": "el'ecdâsi",
+   "kok": "جدث",
+   "kokAnlam": "kabirler",
+   "karsilik": "kabirlerden"
+  },
+  {
+   "kelime": "كَأَنَّهُمْ",
+   "okunus": "keennehüm",
+   "kok": "—",
+   "kokAnlam": "sanki, benzetme edatı",
+   "karsilik": "sanki"
+  },
+  {
+   "kelime": "جَرَادٌ",
+   "okunus": "cerâdün",
+   "kok": "جرد",
+   "kokAnlam": "çekirge",
+   "karsilik": "çekirgeler"
+  },
+  {
+   "kelime": "مُّنتَشِرٌ",
+   "okunus": "münteşirun",
+   "kok": "نشر",
+   "kokAnlam": "yayılmak, dağılmak",
+   "karsilik": "yayılmış"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, kıyamet günü kabirlerden kalkış sahnesini betimler. 'Huşşean ebsâruhüm' ifadesi, insanların gözlerinin düşkün, korku ve zillet içinde olduğunu anlatır; bu, o günün dehşetini yansıtır.",
+  "Benzetme, dağılmış çekirgelere yapılır: sayıca çok, düzensiz ve hızlı hareket eden bir kalabalık görüntüsü. 'Ecdâs' kökü kabirleri anlatır; insanlar oradan aniden ve toplu halde çıkacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:51",
+   "meal": "Sûra üflenir; bir de bakarsın, kabirlerden çıkıp Rablerine doğru koşuşurlar.",
+   "baglanti": "Aynı 'kabirlerden çıkma' sahnesi; burada bu çıkışın sûra üflenmeyle başladığı eklenir."
+  },
+  {
+   "ref": "70:43",
+   "meal": "O gün, sanki dikili bir şeye koşuyorlarmış gibi kabirlerden hızla çıkarlar.",
+   "baglanti": "Neredeyse aynı sahne; hız ve toplu çıkış vurgusu Kamer 7'deki 'çekirgeler gibi' benzetmesiyle örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, kıyamet gününün ne denli ani ve toplu bir uyanış olacağını anlatır. Bu uzak bir tasvir değil, herkesin bir gün yaşayacağı bir gerçektir.",
+  "Bu sahne, insana bugünkü hazırlığının önemini hatırlatır. O gün gelmeden önce, kişi kendi hesabını bugünden düşünebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hazırlığını gözden geçir",
+   "aciklama": "Bugün, o güne nasıl hazırlandığını kısaca kendine sor."
+  },
+  {
+   "baslik": "Bir borç öde",
+   "aciklama": "Bugün birine olan bir borcunu, önüne geçmeden öde."
+  },
+  {
+   "baslik": "Sakin bir düşünce",
+   "aciklama": "Bugün beş dakika ayırıp bu hayatın sonunda seni nelerin beklediğini düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün unuttuğun bir hakkı veya borcu hatırlayıp öde.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/7"
+  }
+ ]
+}

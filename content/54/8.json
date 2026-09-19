@@ -1,0 +1,110 @@
+{
+ "sure": 54,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "Çağırana doğru boyunlarını uzatıp koşarlarken, kâfirler 'Bu, zor bir gündür' derler.",
+ "mealNotu": "'Mühtıîn' kökü boyun uzatarak, telaşla koşmayı anlatır. 'Asir' kökü zorluk, güçlük anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "مُّهْطِعِينَ",
+   "okunus": "mühtıîne",
+   "kok": "هطع",
+   "kokAnlam": "boyun uzatarak telaşla koşmak",
+   "karsilik": "boyunlarını uzatıp koşarak"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "-e, doğru",
+   "karsilik": "-e doğru"
+  },
+  {
+   "kelime": "ٱلدَّاعِ",
+   "okunus": "eddâi",
+   "kok": "دعو",
+   "kokAnlam": "çağıran",
+   "karsilik": "çağırana"
+  },
+  {
+   "kelime": "يَقُولُ",
+   "okunus": "yekûlü",
+   "kok": "قول",
+   "kokAnlam": "söylemek",
+   "karsilik": "der"
+  },
+  {
+   "kelime": "ٱلْكَٰفِرُونَ",
+   "okunus": "elkâfirûne",
+   "kok": "كفر",
+   "kokAnlam": "inkâr etmek",
+   "karsilik": "kâfirler"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri, bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "يَوْمٌ",
+   "okunus": "yevmün",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bir gündür"
+  },
+  {
+   "kelime": "عَسِرٌ",
+   "okunus": "asirun",
+   "kok": "عسر",
+   "kokAnlam": "zor, güç",
+   "karsilik": "zor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetteki çağrıya insanların nasıl koştuğunu anlatır. 'Mühtıîn' kökü, boyun uzatarak, çaresizce koşan bir hali betimler; bu, o günün baskısını ve kaçışsızlığını gösterir.",
+  "Kâfirlerin ağzından 'Bu zor bir gündür' cümlesi aktarılır. Dünyada yalanladıkları o gün, artık inkâr edilemeyecek bir gerçek olarak karşılarına çıkar; itiraf kendiliğinden gelir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "70:36",
+   "meal": "İnkâr edenlere ne oluyor ki, sağdan soldan boyunlarını uzatarak sana doğru koşuyorlar?",
+   "baglanti": "Aynı 'boyun uzatarak koşma' kökü; burada dünyada Peygamber'e alaycı bir kalabalık halinde koşmaları anlatılır."
+  },
+  {
+   "ref": "74:9",
+   "meal": "İşte o gün, zor bir gündür.",
+   "baglanti": "Kamer 8'deki 'zor bir gün' ifadesiyle birebir aynı; Müddessir'de de aynı gün aynı sıfatla anılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, dünyada peygamberlere alayla koşan kalabalıkların, kıyamet günü aynı tavırla ama bu kez çaresizlik içinde çağırana koştuğunu anlatır. Tavır aynı, anlam tam tersine döner.",
+  "Günlük hayatta insan bazen bir şeyi hafife alır, sonra aynı şeyin ciddiyetiyle aniden yüzleşir. Bu ayet, ciddiye alınması gereken şeyi zamanında ciddiye almanın önemini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hafife alma",
+   "aciklama": "Bugün hafife aldığın önemli bir konuyu ciddiye al."
+  },
+  {
+   "baslik": "Erken davran",
+   "aciklama": "Bugün son ana bırakmadan yapman gereken bir işi şimdi yap."
+  },
+  {
+   "baslik": "Zorluğun geçiciliği",
+   "aciklama": "Bugün zor bir günün olsa da, bunun geçici olduğunu hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün erteleyip zorlaştırdığın bir işi, şimdi kolayken bitir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/8"
+  }
+ ]
+}

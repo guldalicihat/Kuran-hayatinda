@@ -1,0 +1,103 @@
+{
+ "sure": 54,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Onlar bir mucize (âyet) görseler yüz çevirirler ve 'süregelen bir büyüdür' derler.",
+ "mealNotu": "'Âyet' kökü işaret ve delil anlamına gelir; burada somut bir mucizeyi belirtir. 'Müstemirr' kökü sürüp giden, devam eden anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "şart edatı",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يَرَوْا۟",
+   "okunus": "yerav",
+   "kok": "رأي",
+   "kokAnlam": "görmek",
+   "karsilik": "görseler"
+  },
+  {
+   "kelime": "ءَايَةً",
+   "okunus": "âyeten",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil, mucize",
+   "karsilik": "bir mucize"
+  },
+  {
+   "kelime": "يُعْرِضُوا۟",
+   "okunus": "yü'ridû",
+   "kok": "عرض",
+   "kokAnlam": "yüz çevirmek, yönelmemek",
+   "karsilik": "yüz çevirirler"
+  },
+  {
+   "kelime": "وَيَقُولُوا۟",
+   "okunus": "ve yekûlû",
+   "kok": "قول",
+   "kokAnlam": "söylemek",
+   "karsilik": "ve derler"
+  },
+  {
+   "kelime": "سِحْرٌ",
+   "okunus": "sihrun",
+   "kok": "سحر",
+   "kokAnlam": "büyü",
+   "karsilik": "bir büyüdür"
+  },
+  {
+   "kelime": "مُّسْتَمِرٌّ",
+   "okunus": "müstemirrun",
+   "kok": "مرر",
+   "kokAnlam": "sürüp gitmek, devam etmek, süregelen",
+   "karsilik": "süregelen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayette anlatılan mucizeye (ayın yarılması) inkarcıların tepkisini anlatır. 'Yü'ridu' kökü yüz çevirmeyi, kabul etmemeyi ifade eder. Gördükleri açık bir işarete rağmen inanmak yerine, onu 'süregelen bir büyü' olarak adlandırırlar.",
+  "Bu tepki, mucizenin kendisinin bile inatçı bir inkârı değiştiremeyeceğini gösterir. Klasik tefsirde ayetin, ayın yarılması mucizesini gören Mekkelilerin yine de inkârda direnmesini anlattığı belirtilir. Delil ile inanç arasındaki bağ tek yönlü değildir; kalp kapalıysa göz gördüğünü bile reddedebilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "74:24",
+   "meal": "'Bu, nakledilen bir büyüden başka bir şey değildir' dedi.",
+   "baglanti": "Aynı inkarcı tavır; gördükleri veya duydukları şeyi 'büyü' diye nitelendirme kalıbı burada da tekrarlanır."
+  },
+  {
+   "ref": "17:59",
+   "meal": "Bizi, mucizeler göndermekten alıkoyan şey, öncekilerin onları yalanlamış olmasından başka bir şey değildir.",
+   "baglanti": "Bu ayet, somut mucizelerin bile inatçı inkârı değiştirmediğini, Kamer 2'deki tepkiyle aynı gerçeği farklı bir açıdan doğrular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, açık bir delil görüldüğünde bile bazı insanların inanmak yerine inkârı seçebileceğini anlatır. Bu, mucizenin eksikliğinden değil, kalbin kapalılığından kaynaklanır.",
+  "Günümüzde de insan, karşısındaki açık bir gerçeği kabul etmek yerine kendi önyargısına uygun bir açıklama arayabilir. Bu ayet, kişinin kendi kalbini bu tür bir kapanmaya karşı sorgulamasını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önyargını sorgula",
+   "aciklama": "Bugün bir konuda hemen reddettiğin bir bilgiyi, neden reddettiğini kendine sor."
+  },
+  {
+   "baslik": "Gerçeği kabul et",
+   "aciklama": "Bugün haklı çıktığın bir tartışmada, inadına devam etmek yerine gerçeği kabul et."
+  },
+  {
+   "baslik": "Kalbini aç",
+   "aciklama": "Bugün kısa bir dua ile kalbinin gerçeğe kapanmamasını dile getir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir tartışmada haksız olduğunu fark edersen, hemen kabul et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/2"
+  }
+ ]
+}

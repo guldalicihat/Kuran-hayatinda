@@ -1,0 +1,96 @@
+{
+ "sure": 54,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "Âd [kavmi] de yalanladı; azabım ve uyarılarım nasıl oldu?",
+ "mealNotu": "Kısa bir geçiş cümlesiyle Nûh kıssasından Âd kıssasına geçilir; aynı soru kalıbı burada tekrar edilir.",
+ "kokler": [
+  {
+   "kelime": "كَذَّبَتْ",
+   "okunus": "kezzebet",
+   "kok": "كذب",
+   "kokAnlam": "yalanlamak",
+   "karsilik": "yalanladı"
+  },
+  {
+   "kelime": "عَادٌ",
+   "okunus": "âdün",
+   "kok": "عود",
+   "kokAnlam": "Âd kavmi (özel isim)",
+   "karsilik": "Âd"
+  },
+  {
+   "kelime": "فَكَيْفَ",
+   "okunus": "fekeyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olmak",
+   "karsilik": "oldu"
+  },
+  {
+   "kelime": "عَذَابِى",
+   "okunus": "azâbî",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "azabım"
+  },
+  {
+   "kelime": "وَنُذُرِ",
+   "okunus": "ve nüzüri",
+   "kok": "نذر",
+   "kokAnlam": "uyarı",
+   "karsilik": "ve uyarılarım"
+  }
+ ],
+ "neAnlatiyor": [
+  "Nûh kıssasından sonra sure, aynı kalıpla Âd kavmine geçer: 'Âd yalanladı.' Bu kısa cümle, önceki kıssada anlatılan uzun süreci tekrar etmeden, aynı sonucun başka bir kavimde de tekrarlandığını gösterir.",
+  "'Fekeyfe kâne azâbî ve nüzür' sorusu burada ikinci kez sorulur; ama bu kez muhatap Âd kavmidir. Tekrar, aynı ilahî yasanın farklı topluluklarda da işlediğini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:65",
+   "meal": "Âd kavmine de kardeşleri Hûd'u gönderdik. Dedi ki: Ey kavmim, Allah'a kulluk edin.",
+   "baglanti": "Âd kavmine gönderilen elçiyi ve çağrısının içeriğini anlatır; Kamer 18'deki yalanlamanın kime karşı olduğunu gösterir."
+  },
+  {
+   "ref": "26:123",
+   "meal": "Âd kavmi de gönderilen elçileri yalanladı.",
+   "baglanti": "Aynı yalanlama teması, Şuarâ suresinde de tekrar eder; Kamer 18'i doğrular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, aynı hatanın farklı topluluklarda tekrarlandığını gösterir. Yalanlama tek bir kavme özgü değil, insanlık tarihinde tekrar eden bir kalıptır.",
+  "Bugün de bir toplum veya birey, geçmişte başkalarının düştüğü aynı hataya düşebilir. Bu ayet, tarihten ders çıkarmanın önemini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tarihten ders çıkar",
+   "aciklama": "Bugün geçmişte yaşanmış bir hatayı, kendi hayatında tekrarlamamak için düşün."
+  },
+  {
+   "baslik": "Kalıbı kır",
+   "aciklama": "Bugün ailende veya çevrende tekrarlanan olumsuz bir alışkanlığı fark edip kırmaya çalış."
+  },
+  {
+   "baslik": "Uyarıyı dinle",
+   "aciklama": "Bugün sana yapılan bir uyarıyı, geçmiştekiler gibi reddetmeden dinle."
+  }
+ ],
+ "bugununAdimi": "Bugün tekrarladığını fark ettiğin bir hatayı durdurmak için bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/18"
+  }
+ ]
+}

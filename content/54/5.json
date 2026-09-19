@@ -1,0 +1,89 @@
+{
+ "sure": 54,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "[Bu,] eksiksiz bir hikmettir; fakat uyarılar [onlara] fayda vermiyor.",
+ "mealNotu": "'Bâliğa' kökü ulaşmayı, tam ve yeterli olmayı; 'tuğni' kökü ise fayda vermeyi, yetmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "حِكْمَةٌۢ",
+   "okunus": "hikmetüm",
+   "kok": "حكم",
+   "kokAnlam": "hikmet, sağlam bilgi ve karar",
+   "karsilik": "bir hikmettir"
+  },
+  {
+   "kelime": "بَٰلِغَةٌ",
+   "okunus": "bâliğatün",
+   "kok": "بلغ",
+   "kokAnlam": "ulaşmak, tam ve yeterli olmak",
+   "karsilik": "eksiksiz"
+  },
+  {
+   "kelime": "فَمَا",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "fakat ... vermiyor"
+  },
+  {
+   "kelime": "تُغْنِ",
+   "okunus": "tüğni",
+   "kok": "غني",
+   "kokAnlam": "fayda vermek, yetmek",
+   "karsilik": "fayda vermiyor"
+  },
+  {
+   "kelime": "ٱلنُّذُرُ",
+   "okunus": "ennüzüru",
+   "kok": "نذر",
+   "kokAnlam": "uyarı, uyarma",
+   "karsilik": "uyarılar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, geçmiş kavimlere gelen uyarıların kalitesizlikten değil, muhatabın kabul etmemesinden dolayı fayda vermediğini anlatır. 'Hikmetün bâliğa' ifadesi, bu uyarıların eksiksiz, tam ve ikna edici olduğunu belirtir.",
+  "'Tuğni' kökü, bir şeyin ihtiyacı karşılaması, yetmesi anlamındadır. Burada olumsuzlukla kullanılır: uyarılar kendi başına yetmiyor, çünkü dinleyen taraf kapalı kalıyor. Bu, mesajın değil, kalbin sorunudur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:101",
+   "meal": "De ki: Göklerde ve yerde neler var, bakın! Fakat iman etmeyen bir topluma âyetler ve uyarılar fayda vermez.",
+   "baglanti": "Neredeyse aynı ifade; Kamer 5'teki 'uyarılar fayda vermiyor' cümlesiyle aynı kökleri paylaşır."
+  },
+  {
+   "ref": "36:10",
+   "meal": "Onları uyarsan da uyarmasan da onlar için birdir, inanmazlar.",
+   "baglanti": "Aynı fikir: uyarının kendisi değil, muhatabın kapalılığı imanı engeller."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, doğru ve tam bir uyarının bile, dinlemeye kapalı bir kalpte iş görmediğini gösterir. Sorun mesajda değil, alıcıdadır.",
+  "Bugün de bir öğüt, ne kadar doğru ve yerinde olursa olsun, kişi dinlemeye kapalıysa fayda vermez. Bu, hem öğüt verirken sabrı hem de kendi kalbini açık tutmayı hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir öğüdü dinle",
+   "aciklama": "Bugün sana verilen bir öğüdü hemen reddetmeden, önce dinle ve düşün."
+  },
+  {
+   "baslik": "Israr etme",
+   "aciklama": "Bugün dinlemeyen birine öğüt verirken, kızmadan bir kez söyle ve bırak."
+  },
+  {
+   "baslik": "Kendine sor",
+   "aciklama": "Bugün, hangi doğru sözleri duymazdan geldiğini kendine sor."
+  }
+ ],
+ "bugununAdimi": "Bugün bir öğüdü, hemen savunmaya geçmeden en az bir dakika düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/5"
+  }
+ ]
+}

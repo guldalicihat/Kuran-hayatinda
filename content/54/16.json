@@ -1,0 +1,82 @@
+{
+ "sure": 54,
+ "ayet": 16,
+ "durum": "taslak",
+ "meal": "Azabım ve uyarılarım nasıl oldu?",
+ "mealNotu": "Soru biçiminde bir hatırlatmadır; 'fekeyfe kâne' kalıbı, sonucun herkesçe bilindiğini varsayarak sorulur.",
+ "kokler": [
+  {
+   "kelime": "فَكَيْفَ",
+   "okunus": "fekeyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olmak",
+   "karsilik": "oldu"
+  },
+  {
+   "kelime": "عَذَابِى",
+   "okunus": "azâbî",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "azabım"
+  },
+  {
+   "kelime": "وَنُذُرِ",
+   "okunus": "ve nüzüri",
+   "kok": "نذر",
+   "kokAnlam": "uyarı",
+   "karsilik": "ve uyarılarım"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, kıyaslayıcı bir soru sorar: 'Azabım ve uyarılarım nasıl oldu?' Bu soru, Nûh kavminin başına gelenin ne denli gerçek ve kesin olduğunu, muhatabın hayal gücüne değil hafızasına seslenerek hatırlatır.",
+  "'Fekeyfe kâne' kalıbı, sure boyunca tekrar edecek bir üsluptur; her kıssanın sonunda benzer bir soru sorulacak, ama her seferinde farklı bir kavmin akıbetine işaret edecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "89:13",
+   "meal": "Rabbin onların üzerine azap kamçısını yağdırdı.",
+   "baglanti": "Azabın nasıl gerçekleştiğini başka bir kavim örneğiyle anlatır; Kamer 16'daki soruya bir cevap niteliğindedir."
+  },
+  {
+   "ref": "7:4",
+   "meal": "Nice şehirleri helak ettik; azabımız onlara geceleyin ya da gündüz uykudayken geldi.",
+   "baglanti": "Azabın ansızın gelişini anlatır; Kamer 16'daki soru, bu ansızın gelişin sonucuna dikkat çeker."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, geçmişte yaşanmış bir olayı soru biçiminde hatırlatarak, dinleyeni kendi vicdanıyla baş başa bırakır. Cevap zaten bellidir; soru, düşünmeye çağırır.",
+  "Günlük hayatta da bazen en etkili uyarı, doğrudan bir emir değil, düşündürücü bir sorudur. Bu ayet, bu yöntemi örnekler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Soru sor",
+   "aciklama": "Bugün bir konuda birini uyarmak yerine, ona düşündürücü bir soru sor."
+  },
+  {
+   "baslik": "Geçmişi hatırla",
+   "aciklama": "Bugün geçmişte yaşanmış bir olayı düşünüp kendi hayatına dair bir sonuç çıkar."
+  },
+  {
+   "baslik": "Sonucu düşün",
+   "aciklama": "Bugün bir kararını verirken, 'sonucu nasıl olur' diye kendine sor."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararını vermeden önce, sonucunu kendine sorarak düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=54&verse=16"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/54/16"
+  }
+ ]
+}
