@@ -1,0 +1,201 @@
+{
+ "sure": 62,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Cuma günü namaza çağrıldığınızda, hemen Allah'ı anmaya koşun ve alışverişi bırakın; eğer bilirseniz bu sizin için daha hayırlıdır.",
+ "mealNotu": "'Cümüa' kökü جمع toplanmayı, bir araya gelmeyi anlatır; 'sa'y' kökü سعي, aceleyle değil kararlı bir çabayla gitmeyi ifade eder, meal bunu 'koşun' olarak verdi.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olanlar",
+   "karsilik": "olanlar"
+  },
+  {
+   "kelime": "ءَامَنُوٓا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "نُودِىَ",
+   "okunus": "nûdiye",
+   "kok": "ندي",
+   "kokAnlam": "seslenme, çağırma",
+   "karsilik": "çağrı yapıldığında"
+  },
+  {
+   "kelime": "لِلصَّلَوٰةِ",
+   "okunus": "lilssalâti",
+   "kok": "صلو",
+   "kokAnlam": "namaz, dua, bağlantı kurma",
+   "karsilik": "namaz için"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-nde"
+  },
+  {
+   "kelime": "يَوْمِ",
+   "okunus": "yevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "ٱلْجُمُعَةِ",
+   "okunus": "elcümüati",
+   "kok": "جمع",
+   "kokAnlam": "toplanma, bir araya gelme",
+   "karsilik": "Cuma (toplanma günü)"
+  },
+  {
+   "kelime": "فَٱسْعَوْا۟",
+   "okunus": "fes'av",
+   "kok": "سعي",
+   "kokAnlam": "koşma, çalışma, kararlı çaba",
+   "karsilik": "koşun"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ذِكْرِ",
+   "okunus": "zikri",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama, zikir",
+   "karsilik": "zikrine"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَذَرُوا۟",
+   "okunus": "ve zerû",
+   "kok": "وذر",
+   "kokAnlam": "bırakma, terk etme",
+   "karsilik": "ve bırakın"
+  },
+  {
+   "kelime": "ٱلْبَيْعَ",
+   "okunus": "elbey'a",
+   "kok": "بيع",
+   "kokAnlam": "satış, alışveriş",
+   "karsilik": "alışverişi"
+  },
+  {
+   "kelime": "ذَٰلِكُمْ",
+   "okunus": "zâliküm",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu, şu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "خَيْرٌ",
+   "okunus": "hayrun",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "daha hayırlıdır"
+  },
+  {
+   "kelime": "لَّكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "تَعْلَمُونَ",
+   "okunus": "ta'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "biliyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetler ölüm ve hesap gerçeğini hatırlatmıştı; bu ayet iman edenlere somut, haftalık bir uygulama emri verir: Cuma günü namaz çağrısı yapıldığında ticari işi bırakıp Allah'ı anmaya yönelmek. 'Sa'y' kökü, acele değil kararlı bir yöneliş anlamı taşır.",
+  "Ayetin verdiği temel mesaj, belirli bir vakitte dünyevi meşguliyeti -burada alışverişi- bir kenara bırakıp ibadete öncelik vermektir. Fıkhi ayrıntılar (namazın nasıl kılınacağı gibi) bu ayette yer almaz; ayet, önceliklerin doğru sıralanması ilkesini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "63:9",
+   "meal": "Ey iman edenler! Mallarınız ve evlatlarınız sizi Allah'ı zikretmekten alıkoymasın. Kim bunu yaparsa işte onlar ziyana uğrayanlardır.",
+   "baglanti": "Dünyevi meşguliyetin zikri engellememesi gerektiği ilkesini genelleştirerek, 62:9'daki 'alışverişi bırakın' emrinin arkasındaki mantığı açar."
+  },
+  {
+   "ref": "20:14",
+   "meal": "Ben Allah'ım; benden başka ilah yoktur. Öyleyse bana kulluk et ve beni anmak için namaz kıl.",
+   "baglanti": "Namazın temel amacının Allah'ı anmak olduğunu belirterek, 62:9'daki 'zikrine koşun' ifadesiyle namaz arasındaki bağı gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Cuma namazı vaktinde alışverişin bırakılıp ibadete yönelinmesidir; bu belirli bir vakte ve ibadete özgü bir emirdir.",
+  "Buradan çıkan genel ders, hayatın belirli anlarında dünyevi meşguliyeti bir kenara koyup önceliği hatırlamaktır. Bu yalnız Cuma'ya değil, günlük hayatta iş ile ibadet, meşguliyet ile bilinç arasındaki dengeye dair bir örnektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Vaktinde bırak",
+   "aciklama": "Bugün önemli bir işin ortasında bile, ibadet vakti geldiğinde işi bir kenara koy."
+  },
+  {
+   "baslik": "Önceliği netleştir",
+   "aciklama": "Bugün hangi işin sana daha çok zaman ayırdığını, hangisinin daha çok önem taşıdığını karşılaştır."
+  },
+  {
+   "baslik": "Zikri hatırla",
+   "aciklama": "Meşgul bir anında bile kısa bir anma için durup bir nefes al."
+  }
+ ],
+ "bugununAdimi": "Bugün bir işin ortasında ibadet vakti gelirse, işi erteleyip önce ibadete yönel.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=62&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/62/9"
+  }
+ ]
+}
