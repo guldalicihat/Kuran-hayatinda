@@ -1,0 +1,89 @@
+{
+ "sure": 26,
+ "ayet": 128,
+ "durum": "taslak",
+ "meal": "Her yüksek yere bir anıt dikip boş şeylerle mi eğleniyorsunuz?",
+ "mealNotu": "'Ta'besûn' kelimesi عبث kökünden, boş/anlamsız işle uğraşma anlamı taşır; 'rî' (ريع) ise yüksek yer, tepe anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "أَتَبْنُونَ",
+   "okunus": "etebnûne",
+   "kok": "بني",
+   "kokAnlam": "yapı kurma, inşa etme",
+   "karsilik": "mi dikiyorsunuz"
+  },
+  {
+   "kelime": "بِكُلِّ",
+   "okunus": "bikülli",
+   "kok": "كلل",
+   "kokAnlam": "bütünlük, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "رِيعٍ",
+   "okunus": "rîin",
+   "kok": "ريع",
+   "kokAnlam": "yüksek yer, tepe",
+   "karsilik": "yüksek yere"
+  },
+  {
+   "kelime": "ءَايَةً",
+   "okunus": "âyeten",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alâmet",
+   "karsilik": "bir anıt"
+  },
+  {
+   "kelime": "تَعْبَثُونَ",
+   "okunus": "ta'besûne",
+   "kok": "عبث",
+   "kokAnlam": "boş iş, anlamsızca uğraşma",
+   "karsilik": "boş şeylerle eğleniyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Hûd, kavminin davranışını doğrudan eleştirmeye başlar: her yüksek yere boş bir gösteriş uğruna bir anıt dikiyorlar.",
+  "Bu eleştiri, üretken bir inşadan değil, amaçsız bir gösterişten bahseder; klasik tefsir bu anıtları yol işaretleri veya gösteriş yapıları olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "89:7",
+   "meal": "Sütunlar sahibi İrem'e (ne yaptığını görmedin mi?)",
+   "baglanti": "Fecr suresi, Âd kavminin sütunlu, gösterişli şehir mimarisine işaret eder; aynı yapı sevdasının bir örneği."
+  },
+  {
+   "ref": "7:74",
+   "meal": "Düzlüklerde köşkler yapıyor, dağları evler haline oyuyorsunuz.",
+   "baglanti": "Semûd kavmine yöneltilen benzer bir eleştiri; farklı bir kavim olsa da aynı gösterişli inşa sevdası teması geçer."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetler, Âd kavminin yüksek yerlere gösterişli anıtlar dikmesini eleştirir.",
+  "Bugün de görünürlük arayışıyla yapılan gösterişli harcamalar aynı yanılgıyı taşıyabilir; asıl önemli olan, gösterişten çok gerçek faydadır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gösterişten kalıcıya yönel",
+   "aciklama": "Bugün bir harcamanı gösteriş için mi yoksa gerçek ihtiyaç için mi yaptığını sorgula."
+  },
+  {
+   "baslik": "Amaçsız bir işi bırak",
+   "aciklama": "Sadece görünmek için yaptığın bir işi bugün fark et ve azalt."
+  },
+  {
+   "baslik": "Kalıcı bir iş yap",
+   "aciklama": "Sadaka, ilim veya bir iyilik gibi kalıcı bir işe bugün küçük bir adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün yaptığın bir harcamanın gösteriş mi ihtiyaç mı olduğunu yazılı olarak değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=128"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/128"
+  }
+ ]
+}

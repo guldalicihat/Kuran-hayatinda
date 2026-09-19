@@ -1,0 +1,75 @@
+{
+ "sure": 26,
+ "ayet": 123,
+ "durum": "taslak",
+ "meal": "Âd (kavmi) elçileri yalanladı.",
+ "mealNotu": "'Kezzebet' kelimesi كذب kökünden gelir; tek bir elçi (Hûd) gönderilmiş olmasına rağmen çoğul 'elçileri' ifadesi kullanılır, çünkü bir elçiyi reddetmek tüm elçilerin ortak mesajını reddetmekle eş tutulur.",
+ "kokler": [
+  {
+   "kelime": "كَذَّبَتْ",
+   "okunus": "kezzebet",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanladı"
+  },
+  {
+   "kelime": "عَادٌ",
+   "okunus": "âdün",
+   "kok": "عود",
+   "kokAnlam": "dönme, geri gelme; (özel isim) Hûd'un kavminin adı",
+   "karsilik": "Âd (kavmi)"
+  },
+  {
+   "kelime": "ٱلْمُرْسَلِينَ",
+   "okunus": "elmürselîne",
+   "kok": "رسل",
+   "kokAnlam": "gönderilme, gönderme; elçi",
+   "karsilik": "elçileri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Anlatım yeni bir kıssaya geçer: Âd kavmi de kendilerine gönderilen elçileri yalanlamıştır.",
+  "Tek bir elçi (Hûd) gönderilmiş olsa da çoğul ifade ('elçileri') kullanılır; çünkü bir elçiyi reddetmek, Kur'an'ın anlatımında tüm elçilerin getirdiği ortak mesajı reddetmekle eş tutulur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:65",
+   "meal": "Âd kavmine de kardeşleri Hûd'u gönderdik. Dedi ki: Ey kavmim! Allah'a kulluk edin, sizin O'ndan başka ilahınız yoktur.",
+   "baglanti": "Aynı kıssanın A'raf suresindeki daha ayrıntılı anlatımı."
+  },
+  {
+   "ref": "11:50",
+   "meal": "Âd kavmine de kardeşleri Hûd'u gönderdik. Dedi ki: Ey kavmim! Allah'a kulluk edin, sizin O'ndan başka ilahınız yoktur.",
+   "baglanti": "Hûd suresi, aynı gönderilişi anlatır; kıssa burada daha geniş yer tutar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, önceki kıssadan (Nûh) sonra yeni bir topluma geçerken, sonucu önce özetler: Âd kavmi de elçilerini yalanladı.",
+  "Aynı hatanın farklı toplumlarda tekrarlandığını görmek, kişinin kendi tutumunu sorgulaması için bir fırsattır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tekrarlayan hatayı fark et",
+   "aciklama": "Bugün kendinde veya çevrende tekrar eden bir hatayı fark edip adını koy."
+  },
+  {
+   "baslik": "Geçmişten ders çıkar",
+   "aciklama": "Tarihte tekrar eden bir olayı okuyup ondan bir ders çıkar."
+  },
+  {
+   "baslik": "Yalanlamadan önce düşün",
+   "aciklama": "Bugün sana ulaşan bir uyarıyı hemen reddetmeden önce üzerinde düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün kendinde tekrar eden bir hatayı yazılı olarak fark et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=123"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/123"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "sure": 26,
+ "ayet": 121,
+ "durum": "taslak",
+ "meal": "Şüphesiz bunda kesin bir işaret vardır; onların çoğu mümin değildi.",
+ "mealNotu": "'Âyet' kelimesi أيي kökünden, işaret/delil anlamı taşır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunda, şunda",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "لَءَايَةً",
+   "okunus": "leâyeten",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil",
+   "karsilik": "kesin bir işaret vardır"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve değildi"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "أَكْثَرُهُم",
+   "okunus": "ekseruhüm",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "onların çoğu"
+  },
+  {
+   "kelime": "مُّؤْمِنِينَ",
+   "okunus": "mü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "mümin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kıssa, bunun kesin bir işaret (ayet) olduğunu, ama buna rağmen kavmin çoğunun iman etmediğini söyleyerek özetlenir.",
+  "Bu vurgu, delilin açıklığının tek başına iman için yeterli olmadığını, insanın kendi tercihinin de belirleyici olduğunu hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "12:103",
+   "meal": "Sen ne kadar istesen de insanların çoğu iman edecek değildir.",
+   "baglanti": "Yûsuf suresindeki bu genel ilke, Nûh kıssasının sonundaki 'çoğu mümin değildi' vurgusuyla aynı gerçeği tekrarlar."
+  },
+  {
+   "ref": "29:14",
+   "meal": "Andolsun, Nûh'u kendi kavmine gönderdik de içlerinde elli yılı eksik olmak üzere bin sene kaldı; sonunda onları zulümdeleri iken tufan yakaladı.",
+   "baglanti": "Ankebût suresi, aynı kıssaya Nûh'un kavmi arasında kaldığı uzun süreyi ekleyerek işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Kıssa, bunun kesin bir işaret olduğunu, ama buna rağmen kavmin çoğunun iman etmediğini söyleyerek özetlenir.",
+  "Açık bir delil veya ibret herkesi ikna etmeyebilir; bu, delilin zayıflığından değil, insanların çoğunun inanmaya yanaşmamasından kaynaklanır."
+ ],
+ "bugun": [
+  {
+   "baslik": "İbretten ders çıkar",
+   "aciklama": "Bugün etrafında gördüğün bir olaydan kendine bir ders çıkar."
+  },
+  {
+   "baslik": "Çoğunluğa değil doğruya bak",
+   "aciklama": "Bir konuda kalabalığın ne düşündüğüne değil, doğrunun ne olduğuna bak."
+  },
+  {
+   "baslik": "Herkesin ikna olmasını bekleme",
+   "aciklama": "Doğru bildiğin bir şeyi, herkes kabul etmese de yaşamaya devam et."
+  }
+ ],
+ "bugununAdimi": "Bugün çevrende gördüğün bir olaydan kendine yazılı bir ders çıkar.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=121"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/121"
+  }
+ ]
+}

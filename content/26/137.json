@@ -1,0 +1,89 @@
+{
+ "sure": 26,
+ "ayet": 137,
+ "durum": "taslak",
+ "meal": "Bu, öncekilerin âdetinden başka bir şey değildir.",
+ "mealNotu": "'Hulük' kelimesi خلق kökünden gelir; burada yaratılış değil 'âdet, gelenek' anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "هَٰذَآ",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "başka bir şey"
+  },
+  {
+   "kelime": "خُلُقُ",
+   "okunus": "hulüku",
+   "kok": "خلق",
+   "kokAnlam": "yaratılış; âdet, gelenek",
+   "karsilik": "âdetinden"
+  },
+  {
+   "kelime": "ٱلْأَوَّلِينَ",
+   "okunus": "el'evvelîne",
+   "kok": "أول",
+   "kokAnlam": "öncelik, ilk olma",
+   "karsilik": "öncekilerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kavim, tutumlarını savunmak için atalarının âdetine sarılır.",
+  "Bu savunma, Kur'an'da inkârcıların sık kullandığı bir gerekçedir: 'atalarımız böyle yapıyordu' demek, sorgulamadan kaçınmanın bir yoludur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "43:23",
+   "meal": "Biz atalarımızı bir din üzerinde bulduk, biz de onların izlerinden gidiyoruz.",
+   "baglanti": "Zuhruf suresi, aynı 'ataların yolu' gerekçesinin inkârcılarca tekrar edilen bir kalıp olduğunu gösterir."
+  },
+  {
+   "ref": "21:53",
+   "meal": "Dediler ki: Biz atalarımızı bunlara tapar bulduk.",
+   "baglanti": "Enbiyâ suresindeki İbrahim kıssasında da aynı taklit gerekçesi geçer."
+  }
+ ],
+ "gunlukHayat": [
+  "Kavim, tutumlarını savunmak için atalarının âdetine sarılır.",
+  "'Hep böyle yapılırdı' demek, bir şeyin doğru olduğu anlamına gelmez; geleneği sorgusuz kabul etmek yerine doğruluğunu ayrıca değerlendirmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geleneği sorgula",
+   "aciklama": "Bugün 'hep böyle yapılır' dediğin bir alışkanlığı neden yaptığını sorgula."
+  },
+  {
+   "baslik": "Kesin konuşmaktan kaçın",
+   "aciklama": "Bir konuda kesin ve sorgusuz konuşmak yerine ihtiyatlı ol."
+  },
+  {
+   "baslik": "Atalarının değil doğrunun izinden git",
+   "aciklama": "Bir kararını, sadece alışkanlık olduğu için değil doğru olduğu için ver."
+  }
+ ],
+ "bugununAdimi": "Bugün 'hep böyle yapılır' dediğin bir alışkanlığın sebebini yazılı olarak sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=137"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/137"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sure": 26,
+ "ayet": 129,
+ "durum": "taslak",
+ "meal": "Ebedî kalacakmışsınız gibi sağlam yapılar mı ediniyorsunuz?",
+ "mealNotu": "'Tahlüdûn' kelimesi خلد kökünden, ebedilik/sonsuza kalma anlamı taşır; 'mesâni' (صنع) ise sağlam yapılar, tesisler anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "وَتَتَّخِذُونَ",
+   "okunus": "ve tettehızûne",
+   "kok": "أخذ",
+   "kokAnlam": "alma, edinme",
+   "karsilik": "ve mi ediniyorsunuz"
+  },
+  {
+   "kelime": "مَصَانِعَ",
+   "okunus": "mesânia",
+   "kok": "صنع",
+   "kokAnlam": "yapma, imal etme",
+   "karsilik": "sağlam yapılar"
+  },
+  {
+   "kelime": "لَعَلَّكُمْ",
+   "okunus": "lealleküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) umulur ki, sanki",
+   "karsilik": "sanki"
+  },
+  {
+   "kelime": "تَخْلُدُونَ",
+   "okunus": "tahlüdûne",
+   "kok": "خلد",
+   "kokAnlam": "ebedilik, sonsuza kalma",
+   "karsilik": "ebedî kalacakmışsınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Hûd, kavminin sağlam yapılar kurarken sanki hiç ölmeyecekmiş gibi davrandığını söyler.",
+  "Bu ifade, maddi kalıcılık arayışının aslında bir yanılsama olduğunu, hiçbir yapının insanı ölümden koruyamayacağını hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "89:8",
+   "meal": "Ki ülkeler içinde onun benzeri yaratılmamıştı.",
+   "baglanti": "Fecr suresi, Âd kavminin eşi görülmemiş yapılarının bile onları kalıcı kılmadığını, sonunda helak olduklarını anlatan bağlamda geçer."
+  },
+  {
+   "ref": "28:79",
+   "meal": "Kârûn, ihtişamıyla kavminin karşısına çıktı; dünya hayatını isteyenler 'keşke bizim de olsa' dediler.",
+   "baglanti": "Kasas suresindeki Kârûn kıssası, servetin ebediymiş gibi gösterişle sergilenmesinin başka bir örneğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, Âd kavminin sanki hiç ölmeyecekmiş gibi sağlam yapılar kurmasını eleştirir.",
+  "Ölümü hatırlamak, bir kararı verirken 'bu, öldüğümde de anlamlı olacak mı?' diye sormayı sağlar; bu bilinç, gösterişten çok kalıcı olana yönelmeyi kolaylaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ölümü hatırla",
+   "aciklama": "Bugün bir kararını verirken 'bu, öldüğümde de anlamlı olacak mı?' diye sor."
+  },
+  {
+   "baslik": "Kalıcı bir iş yap",
+   "aciklama": "Sadaka, ilim veya bir iyilik gibi ölümden sonra da devam edecek bir işe bugün küçük bir adım at."
+  },
+  {
+   "baslik": "Geçiciliği fark et",
+   "aciklama": "Elindeki bir imkânın kalıcı olmadığını hatırlayarak bugün ona doğru şekilde değer ver."
+  }
+ ],
+ "bugununAdimi": "Bugün bir harcamanı veya kararını verirken 'bu kalıcı mı?' sorusunu kendine sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=129"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/129"
+  }
+ ]
+}

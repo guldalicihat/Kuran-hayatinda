@@ -1,0 +1,89 @@
+{
+ "sure": 26,
+ "ayet": 111,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'Sana, aşağı görülen kimseler uymuşken mi inanalım?'",
+ "mealNotu": "'Erzelûn' kelimesi رذل kökünden, düşük/aşağı görülen anlamı taşır; bu, ayetin kendi ifadesiyle kavmin taşıdığı bir sınıfsal önyargıdır, Kur'an'ın onayladığı bir yargı değildir.",
+ "kokler": [
+  {
+   "kelime": "قَالُوٓا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediler ki"
+  },
+  {
+   "kelime": "أَنُؤْمِنُ",
+   "okunus": "enü'minü",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "inanalım mı"
+  },
+  {
+   "kelime": "لَكَ",
+   "okunus": "leke",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "وَٱتَّبَعَكَ",
+   "okunus": "vettebeake",
+   "kok": "تبع",
+   "kokAnlam": "izleme, tabi olma",
+   "karsilik": "sana uymuşken"
+  },
+  {
+   "kelime": "ٱلْأَرْذَلُونَ",
+   "okunus": "el'erzelûne",
+   "kok": "رذل",
+   "kokAnlam": "düşüklük, aşağı görülme",
+   "karsilik": "aşağı görülen kimseler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kavim, Nûh'a inanmayı reddetme gerekçesi olarak kendisine uyanların toplumsal konumuna bakar; mesajın doğruluğuna değil, uyanların kim olduğuna bakarlar.",
+  "Bu itiraz, sonraki ayetlerde Nûh'un cevabıyla (112-113) karşılanır; Nûh, insanların iç dünyasını yargılama yetkisinin kendisinde olmadığını söyleyerek bu önyargıya karşı sınır çizer."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:27",
+   "meal": "Kavminin ileri gelen kâfirleri dediler ki: Biz seni sadece bizim gibi bir beşer görüyoruz; sana uyanları da içimizden ilk bakışta düşüncesizce uyan en aşağı kimseler olarak görüyoruz.",
+   "baglanti": "Aynı kıssanın Hûd suresindeki anlatımı; sınıfsal itiraz orada daha ayrıntılı geçer."
+  },
+  {
+   "ref": "6:53",
+   "meal": "Böylece onları birbiriyle imtihan ettik ki 'Allah aramızdan lütfunu bunlara mı verdi?' desinler.",
+   "baglanti": "Statüye dayalı bu tür bir imana kapalılığın başka bir örneği; zenginlerin fakir müminleri küçümsemesi teması."
+  }
+ ],
+ "gunlukHayat": [
+  "Kavim, bir görüşü onu savunan kişinin toplumsal statüsüne göre değerlendirir; bu, ayetin kendi ifadesiyle bir önyargıdır.",
+  "Bir fikri, kim söylediğine değil söylediği şeye bakarak değerlendirmek gerekir. Bugün bu tür bir önyargıyı fark edip düzeltebilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Fikri kaynağından ayır",
+   "aciklama": "Bugün bir fikri, kim söylediğine değil söylediği şeye bakarak değerlendir."
+  },
+  {
+   "baslik": "Bir önyargını fark et",
+   "aciklama": "Birini konumu ya da mesleği yüzünden hafife aldığın bir anı bugün hatırla ve düzelt."
+  },
+  {
+   "baslik": "Herkesi eşit dinle",
+   "aciklama": "Bugün bir toplantıda ya da sohbette, en sessiz veya en sıradan görünen kişiyi de dinle."
+  }
+ ],
+ "bugununAdimi": "Bugün bir fikri, kimin söylediğine değil ne söylediğine bakarak değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=111"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/111"
+  }
+ ]
+}

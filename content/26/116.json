@@ -1,0 +1,110 @@
+{
+ "sure": 26,
+ "ayet": 116,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'Ey Nûh! Eğer vazgeçmezsen mutlaka taşlananlardan olacaksın.'",
+ "mealNotu": "'Mercûmîn' kelimesi رجم kökünden, taşlanma anlamı taşır; 'tentehi' (نهي) ise vazgeçme, son verme anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediler ki"
+  },
+  {
+   "kelime": "لَئِن",
+   "okunus": "lein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi",
+   "karsilik": "-mezsen"
+  },
+  {
+   "kelime": "تَنتَهِ",
+   "okunus": "tentehi",
+   "kok": "نهي",
+   "kokAnlam": "vazgeçme, son verme",
+   "karsilik": "vazgeçmezsen"
+  },
+  {
+   "kelime": "يَٰنُوحُ",
+   "okunus": "yâ nûhu",
+   "kok": "—",
+   "kokAnlam": "(nida+özel isim) ey Nûh",
+   "karsilik": "ey Nûh"
+  },
+  {
+   "kelime": "لَتَكُونَنَّ",
+   "okunus": "letekûnenne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "mutlaka olacaksın"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-dan"
+  },
+  {
+   "kelime": "ٱلْمَرْجُومِينَ",
+   "okunus": "elmercûmîne",
+   "kok": "رجم",
+   "kokAnlam": "taşlama",
+   "karsilik": "taşlananlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kavim, Nûh'un çağrısına akılcı bir cevap vermek yerine doğrudan tehditle karşılık verir.",
+  "Bu tehdit, Kur'an'da başka peygamber kıssalarında da tekrarlanan bir örüntüdür: doğru söz, çoğu zaman ilk tepkide şiddetle karşılanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "19:46",
+   "meal": "(Babası) dedi ki: Ey İbrahim! Sen benim ilahlarımdan yüz mü çeviriyorsun? Eğer vazgeçmezsen, mutlaka seni taşlarım.",
+   "baglanti": "Aynı 'vazgeçmezsen taşlarım' tehdidi İbrahim'in babasının ağzından da geçer; benzer bir baskı kalıbı."
+  },
+  {
+   "ref": "36:18",
+   "meal": "Dediler ki: Doğrusu sizin yüzünüzden uğursuzluğa uğradık; eğer vazgeçmezseniz sizi mutlaka taşlarız.",
+   "baglanti": "Yâsîn suresindeki elçilere yapılan aynı tehdit; taşlama tehdidinin tekrar eden bir kalıp olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Kavim, Nûh'u susturmak için tehditle karşılık verir; doğru sözün karşısına şiddet tehdidiyle çıkarlar.",
+  "Haklı bir sözü söylemek bazen tepkiyle, hatta tehditle karşılanabilir; bu, sözün yanlış olduğu anlamına gelmez."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tepkiden korkma",
+   "aciklama": "Bugün doğru bildiğin bir şeyi, tepki çekeceğini bilsen de nazikçe söyle."
+  },
+  {
+   "baslik": "Sükûneti koru",
+   "aciklama": "Sana sert tepki veren birine aynı sertlikle karşılık verme."
+  },
+  {
+   "baslik": "Vazgeçirilmeye direnme",
+   "aciklama": "Doğru bildiğin bir tutumdan sırf baskı görmek yüzünden vazgeçme."
+  }
+ ],
+ "bugununAdimi": "Bugün doğru bildiğin bir şeyi, tepki alma korkusuyla susmadan söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=116"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/116"
+  }
+ ]
+}
