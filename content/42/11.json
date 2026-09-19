@@ -1,0 +1,187 @@
+{
+ "sure": 42,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "Gökleri ve yeri yoktan var edendir. Size kendinizden eşler, hayvanlardan da eşler yarattı; sizi bu şekilde çoğaltıyor. O'nun benzeri hiçbir şey yoktur. O, işitendir, görendir.",
+ "mealNotu": "'Fâtır' kökü, örneksiz ve yoktan var etmeyi anlatır; meale bu vurguyla aktarılmıştır. 'Leyse kemislihî şey'ün' (O'nun benzeri hiçbir şey yoktur) ifadesi, hiçbir cisme veya varlığa benzetilmeden, olduğu gibi çevrilmiştir. 'Semî' ve 'basîr' isimleri kök anlamlarıyla 'işiten' ve 'gören' olarak Türkçeleştirilmiştir.",
+ "kokler": [
+  {
+   "kelime": "فَاطِرُ",
+   "okunus": "fâtıru",
+   "kok": "فطر",
+   "kokAnlam": "yarma, yoktan var etme",
+   "karsilik": "yoktan var edendir"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök, gökler",
+   "karsilik": "gökleri"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak, arz",
+   "karsilik": "ve yeri"
+  },
+  {
+   "kelime": "جَعَلَ",
+   "okunus": "ceale",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "yarattı"
+  },
+  {
+   "kelime": "لَكُم",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَنفُسِكُمْ",
+   "okunus": "enfüsiküm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik, öz varlık",
+   "karsilik": "kendinizden"
+  },
+  {
+   "kelime": "أَزْوَٰجًا",
+   "okunus": "ezvâcen",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift",
+   "karsilik": "eşler"
+  },
+  {
+   "kelime": "وَمِنَ",
+   "okunus": "ve mine",
+   "kok": "—",
+   "kokAnlam": "(edat) ve -den",
+   "karsilik": "ve -den"
+  },
+  {
+   "kelime": "ٱلْأَنْعَٰمِ",
+   "okunus": "el'en'âmi",
+   "kok": "نعم",
+   "kokAnlam": "evcil hayvan, davar",
+   "karsilik": "hayvanlardan"
+  },
+  {
+   "kelime": "أَزْوَٰجًا",
+   "okunus": "ezvâcen",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift",
+   "karsilik": "eşler"
+  },
+  {
+   "kelime": "يَذْرَؤُكُمْ",
+   "okunus": "yezraüküm",
+   "kok": "ذرأ",
+   "kokAnlam": "yayma, çoğaltma, üretme",
+   "karsilik": "sizi çoğaltıyor"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) bu şekilde, onda",
+   "karsilik": "bu şekilde"
+  },
+  {
+   "kelime": "لَيْسَ",
+   "okunus": "leyse",
+   "kok": "ليس",
+   "kokAnlam": "olmama, değil olma",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "كَمِثْلِهِۦ",
+   "okunus": "kemislihî",
+   "kok": "مثل",
+   "kokAnlam": "benzer, örnek",
+   "karsilik": "O'nun benzeri gibi"
+  },
+  {
+   "kelime": "شَىْءٌ",
+   "okunus": "şey'ün",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "hiçbir şey"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve O",
+   "karsilik": "ve O"
+  },
+  {
+   "kelime": "ٱلسَّمِيعُ",
+   "okunus": "essemîu",
+   "kok": "سمع",
+   "kokAnlam": "işitme",
+   "karsilik": "işitendir"
+  },
+  {
+   "kelime": "ٱلْبَصِيرُ",
+   "okunus": "elbesîru",
+   "kok": "بصر",
+   "kokAnlam": "görme",
+   "karsilik": "görendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, göklerin ve yerin yoktan var edicisi olan Allah'ı tanıtır; 'Fâtır' ismi, hiçbir örneği olmadan yaratmayı anlatır. Ardından insanın ve hayvanların eşler hâlinde yaratıldığından, bunun çoğalmayı sağladığından söz eder. Bu, önceki ayetlerdeki tevhid vurgusunun yaratılışla desteklenmesidir.",
+  "Ayetin merkezinde tevhidin en güçlü ifadelerinden biri yer alır: 'O'nun benzeri hiçbir şey yoktur.' Bu cümle, Allah'ın yarattığı hiçbir şeye, hiçbir surete, hiçbir kavrama benzemediğini bildirir; O, yarattıklarından bütünüyle farklıdır. Ayet, bu tenzihin hemen ardından O'nun işiten ve gören olduğunu ekleyerek, benzersizliğin bilgisizlik değil tam bir bilme ve duyma ile birlikte olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "112:4",
+   "meal": "O'nun hiçbir dengi yoktur.",
+   "baglanti": "İhlâs suresinin son ayeti, aynı tenzih ilkesini en yalın hâliyle tekrar eder; Allah'ın hiçbir şeye benzemediği gerçeği iki surede de temel mesajdır."
+  },
+  {
+   "ref": "16:72",
+   "meal": "Allah size kendinizden eşler yarattı; eşlerinizden de sizin için oğullar ve torunlar yarattı...",
+   "baglanti": "Nahl suresi, 'kendinizden eşler' yaratılışını aynı ifadeyle tekrarlayıp bunun bir nimet olduğunu ekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah'ın yaratıcılığı ve benzersizliğidir; bu, akılla kavranacak ama hayalle sınırlandırılamayacak bir gerçektir.",
+  "Buradan çıkan bir ders, Allah'ı hiçbir şeye benzetmeden düşünmenin önemidir. İnsan bazen Allah'ı hayal edebileceği bir şekle indirger; oysa ayet bunun yanlış olduğunu açıkça söyler. Eşler hâlinde yaratılış ise, insanın kendi ailesine ve üreme düzenine bakıp bunun bir tesadüf değil, bilinçli bir düzen olduğunu fark etmesini sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Benzetmeden düşün",
+   "aciklama": "Allah hakkında bir imge kurmak yerine, O'nun hiçbir şeye benzemediğini bugün bir kez hatırla."
+  },
+  {
+   "baslik": "Düzeni fark et",
+   "aciklama": "Ailende veya doğada gördüğün bir eş-çift düzenine bakıp bunun rastgele olmadığını düşün."
+  },
+  {
+   "baslik": "İşitildiğini bil",
+   "aciklama": "Kimseye söylemediğin bir duan varsa, Allah'ın onu işittiğini hatırlayıp içinden dile getir."
+  }
+ ],
+ "bugununAdimi": "Bugün Allah hakkında bir hayal kurmak yerine, O'nun hiçbir şeye benzemediğini bir cümleyle kendine hatırlat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/11"
+  }
+ ]
+}

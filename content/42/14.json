@@ -1,0 +1,264 @@
+{
+ "sure": 42,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "Onlar, kendilerine bilgi geldikten sonra, aralarındaki kıskançlık yüzünden ayrılığa düştüler. Eğer Rabbinden, belirli bir süreye kadar geçmiş bir söz olmasaydı, aralarında hüküm kesinlikle verilmiş olurdu. Onlardan sonra Kitaba mirasçı kılınanlar da ondan derin bir şüphe içindedir.",
+ "mealNotu": "'Bağyen beynehüm' (aralarındaki kıskançlık/haksızlık) ifadesi, ayrılığın sebebini bilgisizlik değil kıskançlık olarak gösterir; bu ayrım korunmuştur. 'Kelimetün sebekat' (geçmiş bir söz) ifadesi, ayrıntısına girilmeden ayetin kendi diliyle aktarılmıştır.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "تَفَرَّقُوٓا۟",
+   "okunus": "teferrakû",
+   "kok": "فرق",
+   "kokAnlam": "ayrılma, bölünme",
+   "karsilik": "ayrılığa düştüler"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, ...den başka",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِ",
+   "okunus": "ba'di",
+   "kok": "بعد",
+   "kokAnlam": "sonra, ardından",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şey",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "جَآءَهُمُ",
+   "okunus": "câehümü",
+   "kok": "جيأ",
+   "kokAnlam": "gelme, ulaşma",
+   "karsilik": "kendilerine geldi"
+  },
+  {
+   "kelime": "ٱلْعِلْمُ",
+   "okunus": "el'ilmü",
+   "kok": "علم",
+   "kokAnlam": "bilme, bilgi",
+   "karsilik": "bilgi"
+  },
+  {
+   "kelime": "بَغْيًۢا",
+   "okunus": "bağyen",
+   "kok": "بغي",
+   "kokAnlam": "azgınlık, haksızlık, kıskançlık",
+   "karsilik": "kıskançlık yüzünden"
+  },
+  {
+   "kelime": "بَيْنَهُمْ",
+   "okunus": "beynehüm",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında",
+   "karsilik": "aralarındaki"
+  },
+  {
+   "kelime": "وَلَوْلَا",
+   "okunus": "ve levlâ",
+   "kok": "—",
+   "kokAnlam": "(şart) ve olmasaydı",
+   "karsilik": "olmasaydı"
+  },
+  {
+   "kelime": "كَلِمَةٌ",
+   "okunus": "kelimetün",
+   "kok": "كلم",
+   "kokAnlam": "söz, kelime",
+   "karsilik": "bir söz"
+  },
+  {
+   "kelime": "سَبَقَتْ",
+   "okunus": "sebekat",
+   "kok": "سبق",
+   "kokAnlam": "önce olma, geçme",
+   "karsilik": "geçmiş"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّكَ",
+   "okunus": "rabbike",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, Rab",
+   "karsilik": "Rabbinden"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "أَجَلٍ",
+   "okunus": "ecelin",
+   "kok": "أجل",
+   "kokAnlam": "süre, vade",
+   "karsilik": "bir süreye"
+  },
+  {
+   "kelime": "مُّسَمًّى",
+   "okunus": "müsemmen",
+   "kok": "سمو",
+   "kokAnlam": "isimlendirme, belirleme",
+   "karsilik": "belirli"
+  },
+  {
+   "kelime": "لَّقُضِىَ",
+   "okunus": "lekudıye",
+   "kok": "قضي",
+   "kokAnlam": "hükmetme, sonuçlandırma",
+   "karsilik": "hüküm verilmiş olurdu"
+  },
+  {
+   "kelime": "بَيْنَهُمْ",
+   "okunus": "beynehüm",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında",
+   "karsilik": "aralarında"
+  },
+  {
+   "kelime": "وَإِنَّ",
+   "okunus": "ve inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ve şüphesiz",
+   "karsilik": "ve şüphesiz"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olanlar",
+   "karsilik": "olanlar"
+  },
+  {
+   "kelime": "أُورِثُوا۟",
+   "okunus": "ûrisû",
+   "kok": "ورث",
+   "kokAnlam": "miras alma, mirasçı olma",
+   "karsilik": "mirasçı kılınanlar"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma, yazılı olan; kitap",
+   "karsilik": "Kitaba"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِهِمْ",
+   "okunus": "ba'dihim",
+   "kok": "بعد",
+   "kokAnlam": "sonra, ardından",
+   "karsilik": "onlardan sonra"
+  },
+  {
+   "kelime": "لَفِى",
+   "okunus": "lefî",
+   "kok": "—",
+   "kokAnlam": "(edat) elbette içinde",
+   "karsilik": "içindedir"
+  },
+  {
+   "kelime": "شَكٍّ",
+   "okunus": "şekkin",
+   "kok": "شكك",
+   "kokAnlam": "şüphe, kuşku",
+   "karsilik": "şüphe"
+  },
+  {
+   "kelime": "مِّنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "مُرِيبٍ",
+   "okunus": "mürîbin",
+   "kok": "ريب",
+   "kokAnlam": "kuşkulandırıcı, tedirgin edici",
+   "karsilik": "derin bir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette dini ayakta tutma ve ayrılığa düşmeme emri verilmişti; bu ayet, geçmişte bu emre rağmen ayrılığa düşenlerin durumunu anlatır. Ayrılığın sebebi bilgisizlik değildir; ayet açıkça 'kendilerine bilgi geldikten sonra' der ve nedeni 'aralarındaki kıskançlık' olarak gösterir.",
+  "Ayet, bu ayrılığın dünyada hemen cezalandırılmamasının sebebini de bildirir: Allah katından, belirli bir süreye kadar ertelemeyi içeren bir söz geçmiştir. Bu, mezhep veya fırka tartışmalarına girmeden, ayrılığa düşmenin ağır bir sorumluluk taşıdığını ve nihai hükmün Allah'a ait olduğunu hatırlatan genel bir ilkedir. Ayetin sonu, sonraki kuşakların da kitap konusunda derin bir şüphe içinde olduğunu ekler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:105",
+   "meal": "Kendilerine apaçık deliller geldikten sonra parçalanıp ayrılığa düşenler gibi olmayın...",
+   "baglanti": "Âl-i İmrân suresi, aynı uyarıyı doğrudan inananlara yöneltir; bilgiye rağmen ayrılığa düşmenin tehlikesi iki ayette de ortaktır."
+  },
+  {
+   "ref": "45:17",
+   "meal": "...Onlar, kendilerine bilgi geldikten sonra sadece aralarındaki kıskançlık yüzünden ayrılığa düştüler...",
+   "baglanti": "Câsiye suresi, aynı ifadeyi neredeyse birebir tekrarlayarak ayrılığın sebebinin bilgi eksikliği değil kıskançlık olduğunu bir kez daha vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş din mensuplarının bilgiye rağmen kıskançlıktan ayrılığa düşmesidir; bu, tarihsel ve inanç boyutu olan özel bir konudur.",
+  "Buradan çıkarılabilecek genel ders şudur: doğruyu bilmek tek başına birliği garanti etmez; kıskançlık ve kibir, bilgiye rağmen insanları ayırabilir. Bir topluluk içinde anlaşmazlık çıktığında, meselenin gerçekten bir bilgi eksikliği mi yoksa kişisel bir kıskançlık mı olduğunu ayırt etmek, çözüm bulmayı kolaylaştırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sebebi sorgula",
+   "aciklama": "Bir anlaşmazlıkta gerçek sebebin bilgi eksikliği mi yoksa kıskançlık mı olduğunu bugün kendine sor."
+  },
+  {
+   "baslik": "Kıskançlığını fark et",
+   "aciklama": "Birine karşı içinde bir kıskançlık hissettiğinde, bunu bugün kabul edip yumuşatmaya çalış."
+  },
+  {
+   "baslik": "Ertelemeyi hatırla",
+   "aciklama": "Bir haksızlığın hemen cezasız kaldığını görsen bile, hesabın er ya da geç görüleceğini unutma."
+  }
+ ],
+ "bugununAdimi": "Bugün bir anlaşmazlıkta kendi payına düşen kıskançlık veya inadı fark edip bir adım geri çekil.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/14"
+  }
+ ]
+}

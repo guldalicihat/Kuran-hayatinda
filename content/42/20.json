@@ -1,0 +1,208 @@
+{
+ "sure": 42,
+ "ayet": 20,
+ "durum": "taslak",
+ "meal": "Kim ahiret ekinini isterse, onun ekinini artırırız. Kim de dünya ekinini isterse, ona ondan veririz; ama onun ahirette hiçbir payı yoktur.",
+ "mealNotu": "'Hars' (ekin) kelimesi, çabanın karşılığını ürün olarak vermeyi anlatan bir benzetmedir; meale doğrudan yansıtılmıştır. 'Nezid' (artırırız) fiili, ahiret ekinine kat kat karşılık verildiğini bildirir.",
+ "kokler": [
+  {
+   "kelime": "مِن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olursa"
+  },
+  {
+   "kelime": "يُرِيدُ",
+   "okunus": "yürîdü",
+   "kok": "رود",
+   "kokAnlam": "isteme, arzulama",
+   "karsilik": "isteyen"
+  },
+  {
+   "kelime": "حَرْثَ",
+   "okunus": "harse",
+   "kok": "حرث",
+   "kokAnlam": "ekme, ekin",
+   "karsilik": "ekinini"
+  },
+  {
+   "kelime": "ٱلْءَاخِرَةِ",
+   "okunus": "el'âhırati",
+   "kok": "أخر",
+   "kokAnlam": "sonraki, ahiret",
+   "karsilik": "ahiret"
+  },
+  {
+   "kelime": "نَزِدْ",
+   "okunus": "nezid",
+   "kok": "زيد",
+   "kokAnlam": "artırma, fazlalaştırma",
+   "karsilik": "artırırız"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) onun",
+   "karsilik": "onun"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-nde"
+  },
+  {
+   "kelime": "حَرْثِهِۦ",
+   "okunus": "harsihî",
+   "kok": "حرث",
+   "kokAnlam": "ekme, ekin",
+   "karsilik": "ekininde"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olursa"
+  },
+  {
+   "kelime": "يُرِيدُ",
+   "okunus": "yürîdü",
+   "kok": "رود",
+   "kokAnlam": "isteme, arzulama",
+   "karsilik": "isteyen"
+  },
+  {
+   "kelime": "حَرْثَ",
+   "okunus": "harse",
+   "kok": "حرث",
+   "kokAnlam": "ekme, ekin",
+   "karsilik": "ekinini"
+  },
+  {
+   "kelime": "ٱلدُّنْيَا",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık, aşağı; dünya",
+   "karsilik": "dünya"
+  },
+  {
+   "kelime": "نُؤْتِهِۦ",
+   "okunus": "nü'tihî",
+   "kok": "أتي",
+   "kokAnlam": "verme, ulaştırma",
+   "karsilik": "ona veririz"
+  },
+  {
+   "kelime": "مِنْهَا",
+   "okunus": "minhâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ama yoktur",
+   "karsilik": "ama yoktur"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) onun",
+   "karsilik": "onun"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-nde"
+  },
+  {
+   "kelime": "ٱلْءَاخِرَةِ",
+   "okunus": "el'âhırati",
+   "kok": "أخر",
+   "kokAnlam": "sonraki, ahiret",
+   "karsilik": "ahirette"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) hiçbir",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "نَّصِيبٍ",
+   "okunus": "nesîbin",
+   "kok": "نصب",
+   "kokAnlam": "pay, hisse",
+   "karsilik": "payı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, insanın çabasını bir 'ekin' benzetmesiyle anlatır: kişi neyi isteyip onun için çalışırsa, o çabanın ürününü alır. Ahireti isteyip onun için çalışan kimsenin ekini artırılır; yani karşılığı kat kat verilir.",
+  "Dünyayı isteyip yalnız onun için çalışan kimseye ise dünyadan bir pay verilir, ama bu kişinin ahirette hiçbir payı olmaz. Ayet, burada dünya nimetlerini tamamen yasaklamaz; sadece bir kişinin asıl niyetinin ve çabasının nereye yöneldiğinin sonucu belirlediğini bildirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:18",
+   "meal": "Kim çarçabuk geçeni (dünyayı) isterse, orada dilediğimiz kimseye dilediğimiz kadar çabucak veririz...",
+   "baglanti": "İsrâ suresi, dünyayı isteyene verilen payın sınırlı ve dilenmiş kadar olduğunu aynı ilkeyle anlatır."
+  },
+  {
+   "ref": "17:19",
+   "meal": "Kim de ahireti isterse ve bir mümin olarak ona yaraşır bir çaba ile çalışırsa, işte böylelerinin çabası makbul bir çaba olur.",
+   "baglanti": "İsrâ suresindeki bu ayet, ahiret ekinini isteyip onun için çalışmanın karşılığının makbul olduğunu tamamlayıcı biçimde anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insanın çabasının hangi hedefe yönelik olduğu ve bunun karşılığıdır; bu, hem dünya hem ahiret hayatını ilgilendiren bir ilkedir.",
+  "Günlük hayata taşınabilecek ders, çalışırken niyetin nereye yöneldiğini gözden geçirmektir. Dünya için çalışmak yanlış değildir; ama sadece dünyaya odaklanıp ahireti tamamen unutmak, kişiyi kalıcı olandan mahrum bırakabilir. Dengeli bir niyet, hem bugünü hem yarını kazandırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Niyetini gözden geçir",
+   "aciklama": "Bugün yaptığın bir işe başlarken, bunu neden yaptığını kısaca kendine sor."
+  },
+  {
+   "baslik": "Ahiret için bir şey ek",
+   "aciklama": "Sadece dünyalık bir hedefin varsa, ona ahirete dönük küçük bir niyet ekle (örneğin yardımlaşarak yap)."
+  },
+  {
+   "baslik": "Geçiciliği hatırla",
+   "aciklama": "Bugün kazandığın bir şeyin dünyada kalıcı olmadığını, ama niyetinin karşılığının kalıcı olabileceğini düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün yaptığın bir işe, kazancının bir kısmını ahiret için bir iyiliğe dönüştürerek niyet kat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=20"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/20"
+  }
+ ]
+}

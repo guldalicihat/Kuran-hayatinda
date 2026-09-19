@@ -1,0 +1,222 @@
+{
+ "sure": 42,
+ "ayet": 22,
+ "durum": "taslak",
+ "meal": "Zalimleri, kazandıkları şeyden korkarak titrerken görürsün; o, mutlaka başlarına gelecektir. İman edip salih ameller işleyenler ise cennet bahçelerindedir; Rableri katında diledikleri her şey onlarındır. İşte bu, büyük lütfun ta kendisidir.",
+ "mealNotu": "'Vâkıun bihim' (mutlaka başlarına gelecek) ifadesi, azabın kaçınılmazlığını anlatır. 'Ravdâtü'l-cennât' (cennet bahçeleri) ifadesi doğrudan çevrilmiştir.",
+ "kokler": [
+  {
+   "kelime": "تَرَى",
+   "okunus": "terâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görürsün"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمِينَ",
+   "okunus": "ezzâlimîne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, zulüm",
+   "karsilik": "zalimleri"
+  },
+  {
+   "kelime": "مُشْفِقِينَ",
+   "okunus": "müşfikîne",
+   "kok": "شفق",
+   "kokAnlam": "korku ve saygıyla titreme",
+   "karsilik": "korkarak titrerken"
+  },
+  {
+   "kelime": "مِمَّا",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "(edat) şeyden",
+   "karsilik": "şeyden"
+  },
+  {
+   "kelime": "كَسَبُوا۟",
+   "okunus": "kesebû",
+   "kok": "كسب",
+   "kokAnlam": "kazanma, elde etme",
+   "karsilik": "kazandıkları"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "وَاقِعٌۢ",
+   "okunus": "vâkıum",
+   "kok": "وقع",
+   "kokAnlam": "düşme, gerçekleşme, başına gelme",
+   "karsilik": "mutlaka başlarına gelecektir"
+  },
+  {
+   "kelime": "بِهِمْ",
+   "okunus": "bihim",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ve olanlar",
+   "karsilik": "ve olanlar"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, güvenerek inanma",
+   "karsilik": "iman edip"
+  },
+  {
+   "kelime": "وَعَمِلُوا۟",
+   "okunus": "ve amilû",
+   "kok": "عمل",
+   "kokAnlam": "iş, amel, yapma",
+   "karsilik": "ve işleyenler"
+  },
+  {
+   "kelime": "ٱلصَّٰلِحَٰتِ",
+   "okunus": "essâlihâti",
+   "kok": "صلح",
+   "kokAnlam": "iyilik, düzgünlük, salih amel",
+   "karsilik": "salih amelleri"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-dedir"
+  },
+  {
+   "kelime": "رَوْضَاتِ",
+   "okunus": "ravdâti",
+   "kok": "روض",
+   "kokAnlam": "yeşil bahçe, çayırlık",
+   "karsilik": "bahçelerinde"
+  },
+  {
+   "kelime": "ٱلْجَنَّاتِ",
+   "okunus": "elcennâti",
+   "kok": "جنن",
+   "kokAnlam": "örtme, gizleme; bahçe, cennet",
+   "karsilik": "cennet"
+  },
+  {
+   "kelime": "لَهُم",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlarındır",
+   "karsilik": "onlarındır"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) her şey",
+   "karsilik": "her şey"
+  },
+  {
+   "kelime": "يَشَآءُونَ",
+   "okunus": "yeşâûne",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "diledikleri"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "yan, kat, nezd",
+   "karsilik": "katında"
+  },
+  {
+   "kelime": "رَبِّهِمْ",
+   "okunus": "rabbihim",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, Rab",
+   "karsilik": "Rableri"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) O",
+   "karsilik": "O"
+  },
+  {
+   "kelime": "ٱلْفَضْلُ",
+   "okunus": "elfadlü",
+   "kok": "فضل",
+   "kokAnlam": "lütuf, fazlalık, bağış",
+   "karsilik": "lütfun"
+  },
+  {
+   "kelime": "ٱلْكَبِيرُ",
+   "okunus": "elkebîru",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük",
+   "karsilik": "büyük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayette azap haber verilen zalimlerin kıyamet günündeki hâlini tasvir eder: kendi kazandıkları (işledikleri) yüzünden korkuyla titrerler; çünkü bu azabın kaçınılmaz biçimde başlarına geleceğini artık görürler.",
+  "Ayet, hemen ardından bunun karşıtını, iman edip salih amel işleyenlerin durumunu anlatır: onlar cennet bahçelerindedir ve Rableri katında diledikleri her şeye sahiptirler. Bu, ayetin 'büyük lütuf' dediği, karşılaştırmalı bir sondur; iki grubun akıbeti yan yana konarak vurgu güçlendirilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "50:35",
+   "meal": "Orada diledikleri her şey onlarındır; katımızda ise daha fazlası vardır.",
+   "baglanti": "Kâf suresi, cennet ehlinin 'diledikleri her şeye sahip olması' vaadini, Allah katında bundan da fazlasının bulunduğu ekiyle tamamlar."
+  },
+  {
+   "ref": "18:49",
+   "meal": "...'Eyvah bize! Bu kitaba ne olmuş ki, küçük büyük hiçbir şey bırakmadan hepsini sayıp dökmüş!' Onlar, yaptıklarını karşılarında bulurlar...",
+   "baglanti": "Kehf suresi, zalimlerin kendi kazandıklarıyla yüzleşmesini, kitabın önlerine konması sahnesiyle somutlaştırır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıyamet günündeki iki karşıt akıbettir; bu, tamamen ahiret bilgisine ait bir konudur.",
+  "Buradan çıkan ders, bugünkü kazancın (davranışların, seçimlerin) yarın karşına çıkacağını bilmektir. İnsan, kısa vadeli bir kazanç için yaptığı bir haksızlığın bir gün önüne konacağını hatırlarsa, davranışlarını daha dikkatli seçer."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kazancını gözden geçir",
+   "aciklama": "Bugün elde ettiğin bir kazancın haksız bir yolla olup olmadığını düşün."
+  },
+  {
+   "baslik": "Salih bir amel ekle",
+   "aciklama": "Bugün küçük bir iyilik yaparak salih amellerine bir tane daha ekle."
+  },
+  {
+   "baslik": "Sonu hatırla",
+   "aciklama": "Bir haksızlık yapmadan önce, bunun bir gün önüne konacağını hatırlayıp vazgeç."
+  }
+ ],
+ "bugununAdimi": "Bugün yapacağın bir işte, bunun yarın önüne konacağını düşünerek karar ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=22"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/22"
+  }
+ ]
+}

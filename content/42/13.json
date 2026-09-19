@@ -1,0 +1,320 @@
+{
+ "sure": 42,
+ "ayet": 13,
+ "durum": "taslak",
+ "meal": "O, Nuh'a vasiyet ettiğini, sana vahyettiğimizi, İbrahim'e, Musa'ya ve İsa'ya vasiyet ettiğimizi sizin için de dinden bir yol kıldı: 'Dini ayakta tutun ve onda ayrılığa düşmeyin' diye. Senin kendilerini çağırdığın şey, ortak koşanlara ağır geldi. Allah, dilediğini kendine seçer ve yöneleni de kendine iletir.",
+ "mealNotu": "'Şeraa' kökü bir yol açma, bir düzen koymayı anlatır; meale 'dinden bir yol kıldı' olarak yansıtılmıştır. Peygamber isimleri (Nuh, İbrahim, Musa, İsa) ayette özel isim olarak geçer, kök taşımaz. Ayet, hangi şeriatın hangi peygambere ait olduğuna dair ayrıntıya girmez; yalnız ortak vurguyu (dini ayakta tutmak, ayrılığa düşmemek) bildirir.",
+ "kokler": [
+  {
+   "kelime": "شَرَعَ",
+   "okunus": "şeraa",
+   "kok": "شرع",
+   "kokAnlam": "yol açma, düzen koyma",
+   "karsilik": "dinden bir yol kıldı"
+  },
+  {
+   "kelime": "لَكُم",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلدِّينَ",
+   "okunus": "eddîni",
+   "kok": "دين",
+   "kokAnlam": "din, boyun eğme, yol",
+   "karsilik": "dinden"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "وَصَّىٰ",
+   "okunus": "vessâ",
+   "kok": "وصي",
+   "kokAnlam": "vasiyet etme, buyurma",
+   "karsilik": "vasiyet ettiğini"
+  },
+  {
+   "kelime": "بِهِۦٓ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "نُوحًا",
+   "okunus": "nûhan",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Nuh",
+   "karsilik": "Nuh'a"
+  },
+  {
+   "kelime": "وَٱلَّذِىٓ",
+   "okunus": "vellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ve şeyi",
+   "karsilik": "ve şeyi"
+  },
+  {
+   "kelime": "أَوْحَيْنَآ",
+   "okunus": "evhaynâ",
+   "kok": "وحي",
+   "kokAnlam": "vahyetme, gizlice bildirme",
+   "karsilik": "sana vahyettiğimiz"
+  },
+  {
+   "kelime": "إِلَيْكَ",
+   "okunus": "ileyke",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ve şeyi",
+   "karsilik": "ve şeyi"
+  },
+  {
+   "kelime": "وَصَّيْنَا",
+   "okunus": "vessaynâ",
+   "kok": "وصي",
+   "kokAnlam": "vasiyet etme, buyurma",
+   "karsilik": "vasiyet ettiğimiz"
+  },
+  {
+   "kelime": "بِهِۦٓ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "إِبْرَٰهِيمَ",
+   "okunus": "ibrâhîme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İbrahim",
+   "karsilik": "İbrahim'e"
+  },
+  {
+   "kelime": "وَمُوسَىٰ",
+   "okunus": "ve mûsâ",
+   "kok": "—",
+   "kokAnlam": "(özel isim) ve Musa",
+   "karsilik": "Musa'ya"
+  },
+  {
+   "kelime": "وَعِيسَىٰٓ",
+   "okunus": "ve îsâ",
+   "kok": "—",
+   "kokAnlam": "(özel isim) ve İsa",
+   "karsilik": "ve İsa'ya"
+  },
+  {
+   "kelime": "أَنْ",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) diye",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "أَقِيمُوا۟",
+   "okunus": "ekîmû",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, doğrulma",
+   "karsilik": "ayakta tutun"
+  },
+  {
+   "kelime": "ٱلدِّينَ",
+   "okunus": "eddîne",
+   "kok": "دين",
+   "kokAnlam": "din, boyun eğme, yol",
+   "karsilik": "dini"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve yapmayın",
+   "karsilik": "ve düşmeyin"
+  },
+  {
+   "kelime": "تَتَفَرَّقُوا۟",
+   "okunus": "teteferrakû",
+   "kok": "فرق",
+   "kokAnlam": "ayrılma, bölünme",
+   "karsilik": "ayrılığa düşmeyin"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "كَبُرَ",
+   "okunus": "kebüra",
+   "kok": "كبر",
+   "kokAnlam": "büyüme, ağır gelme",
+   "karsilik": "ağır geldi"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْمُشْرِكِينَ",
+   "okunus": "elmüşrikîne",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma, paylaştırma",
+   "karsilik": "ortak koşanlara"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "تَدْعُوهُمْ",
+   "okunus": "ted'ûhüm",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, davet etme",
+   "karsilik": "kendilerini çağırdığın"
+  },
+  {
+   "kelime": "إِلَيْهِ",
+   "okunus": "ileyhi",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَجْتَبِىٓ",
+   "okunus": "yectebî",
+   "kok": "جبي",
+   "kokAnlam": "seçme, kendine ayırma",
+   "karsilik": "seçer"
+  },
+  {
+   "kelime": "إِلَيْهِ",
+   "okunus": "ileyhi",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) kendine",
+   "karsilik": "kendine"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimi",
+   "karsilik": "dilediğini"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "diler"
+  },
+  {
+   "kelime": "وَيَهْدِىٓ",
+   "okunus": "ve yehdî",
+   "kok": "هدي",
+   "kokAnlam": "yol gösterme, hidayet etme",
+   "karsilik": "ve iletir"
+  },
+  {
+   "kelime": "إِلَيْهِ",
+   "okunus": "ileyhi",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) kendine",
+   "karsilik": "kendine"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimi",
+   "karsilik": "yöneleni"
+  },
+  {
+   "kelime": "يُنِيبُ",
+   "okunus": "yünîbü",
+   "kok": "نوب",
+   "kokAnlam": "dönme, yönelme",
+   "karsilik": "yönelen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Nuh, İbrahim, Musa, İsa ve son olarak Peygamber'e verilen ortak bir ilkeyi bildirir: dini ayakta tutmak ve onda ayrılığa düşmemek. Ayet, bu peygamberlerin şeriatlarının ayrıntılarına girmez; ortak vurgu, tevhid temelli dinin sürekliliği ve bu konuda birlik içinde olma çağrısıdır.",
+  "Ayetin ikinci yarısı, bu çağrının ortak koşanlara neden ağır geldiğini açıklar: çünkü bu çağrı, onları alıştıkları çok tanrılı inançtan tek bir Rabbe yönelmeye davet eder. Ayet, bu yönelişin zorla değil, Allah'ın dilediğini kendine seçmesi ve yönelenleri kendine iletmesiyle gerçekleştiğini bildirerek biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:19",
+   "meal": "Şüphesiz Allah katında din İslâm'dır...",
+   "baglanti": "Âl-i İmrân suresi, burada peygamberler arasında ortak olduğu bildirilen dinin adını 'İslâm' (Allah'a teslim olma) olarak verir."
+  },
+  {
+   "ref": "21:92",
+   "meal": "Şüphesiz bu, tek bir ümmet olarak sizin ümmetinizdir; ben de sizin Rabbinizim, öyleyse bana kulluk edin.",
+   "baglanti": "Enbiyâ suresi, peygamberlerin ortak dinini 'tek ümmet' ifadesiyle özetler; 42:13'teki süreklilik teması burada da tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, peygamberler arasındaki dinî süreklilik ve birlik çağrısıdır; bu, tarihsel ve inanç boyutu olan bir konudur.",
+  "Buradan çıkan ders, esasın ne olduğunu unutmadan birlik içinde kalabilmektir. İnsanlar küçük konularda anlaşmazlığa düşebilir; ama temel ilkelerde ayrılığa düşmemek, bir topluluğun gücünü korur. Bu, aile, iş yeri veya herhangi bir topluluk için de geçerli bir ilkedir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ortak zemini hatırla",
+   "aciklama": "Bir tartışmada, karşındakiyle anlaştığınız ortak noktayı önce dile getir."
+  },
+  {
+   "baslik": "Küçük farkı büyütme",
+   "aciklama": "Bugün önemsiz bir konuda ayrılığa düşmek yerine birlikte kalmayı tercih et."
+  },
+  {
+   "baslik": "Yönelmeyi seç",
+   "aciklama": "Bir konuda doğruyu gördüğünde, alışkanlığını bırakıp o doğruya yönelmeyi kendine kolaylaştır."
+  }
+ ],
+ "bugununAdimi": "Bugün bir yakınınla küçük bir görüş ayrılığını büyütmeden, ortak noktanızı vurgulayarak konuş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=13"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/13"
+  }
+ ]
+}

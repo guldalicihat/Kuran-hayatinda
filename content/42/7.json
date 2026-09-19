@@ -1,0 +1,208 @@
+{
+ "sure": 42,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "İşte böylece sana, Ümmü'l-Kurâ'yı ve çevresindekileri uyarman için Arapça bir Kur'an vahyettik; kendisinde hiç şüphe olmayan toplanma gününü de uyarasın diye. Bir grup cennette, bir grup da alevli ateştedir.",
+ "mealNotu": "'Ümmü'l-Kurâ' (şehirlerin anası) kökten Mekke'ye işaret eder; meale doğrudan bu ifadeyle aktarılmıştır. 'Yevme'l-cem' (toplanma günü) kıyameti anlatır, açıklama için ayrıca bir kelime eklenmemiştir.",
+ "kokler": [
+  {
+   "kelime": "وَكَذَٰلِكَ",
+   "okunus": "ve kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) ve işte böyle",
+   "karsilik": "işte böylece"
+  },
+  {
+   "kelime": "أَوْحَيْنَآ",
+   "okunus": "evhaynâ",
+   "kok": "وحي",
+   "kokAnlam": "vahyetme, gizlice bildirme",
+   "karsilik": "vahyettik"
+  },
+  {
+   "kelime": "إِلَيْكَ",
+   "okunus": "ileyke",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "قُرْءَانًا",
+   "okunus": "kur'ânen",
+   "kok": "قرأ",
+   "kokAnlam": "okuma; okunan kitap",
+   "karsilik": "bir Kur'an"
+  },
+  {
+   "kelime": "عَرَبِيًّا",
+   "okunus": "arabiyyen",
+   "kok": "عرب",
+   "kokAnlam": "Arap, Arapça",
+   "karsilik": "Arapça"
+  },
+  {
+   "kelime": "لِّتُنذِرَ",
+   "okunus": "litünzira",
+   "kok": "نذر",
+   "kokAnlam": "uyarma, sakındırma",
+   "karsilik": "uyarman için"
+  },
+  {
+   "kelime": "أُمَّ",
+   "okunus": "ümme",
+   "kok": "أمم",
+   "kokAnlam": "ana, kaynak, topluluk",
+   "karsilik": "anasını"
+  },
+  {
+   "kelime": "ٱلْقُرَىٰ",
+   "okunus": "elkurâ",
+   "kok": "قري",
+   "kokAnlam": "köy, şehir, yerleşim",
+   "karsilik": "şehirlerin"
+  },
+  {
+   "kelime": "وَمَنْ",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ve kim",
+   "karsilik": "ve olanları"
+  },
+  {
+   "kelime": "حَوْلَهَا",
+   "okunus": "havlehâ",
+   "kok": "حول",
+   "kokAnlam": "çevre, etraf, dönme",
+   "karsilik": "onun çevresinde"
+  },
+  {
+   "kelime": "وَتُنذِرَ",
+   "okunus": "ve tünzira",
+   "kok": "نذر",
+   "kokAnlam": "uyarma, sakındırma",
+   "karsilik": "ve uyarman için"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "ٱلْجَمْعِ",
+   "okunus": "elcem'i",
+   "kok": "جمع",
+   "kokAnlam": "toplama, bir araya getirme",
+   "karsilik": "toplanma"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "رَيْبَ",
+   "okunus": "raybe",
+   "kok": "ريب",
+   "kokAnlam": "şüphe, kuşku",
+   "karsilik": "şüphe"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "فَرِيقٌ",
+   "okunus": "ferîkun",
+   "kok": "فرق",
+   "kokAnlam": "ayrılma, grup, bölük",
+   "karsilik": "bir grup"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْجَنَّةِ",
+   "okunus": "elcenneti",
+   "kok": "جنن",
+   "kokAnlam": "örtme, gizleme; bahçe, cennet",
+   "karsilik": "cennette"
+  },
+  {
+   "kelime": "وَفَرِيقٌ",
+   "okunus": "ve ferîkun",
+   "kok": "فرق",
+   "kokAnlam": "ayrılma, grup, bölük",
+   "karsilik": "ve bir grup"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلسَّعِيرِ",
+   "okunus": "esseîri",
+   "kok": "سعر",
+   "kokAnlam": "alevlenme, kızışma; alevli ateş",
+   "karsilik": "alevli ateştedir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, vahyin biçimini ve amacını netleştirir: Kur'an, Arapça olarak, önce 'Ümmü'l-Kurâ' (şehirlerin anası, yani Mekke) ve çevresindeki toplulukları uyarmak için indirilmiştir. Bu ifade, ilk muhatap kitleyi belirtir; Kur'an'ın evrensel çağrısı diğer ayetlerde ayrıca açıklanır.",
+  "Uyarının ikinci konusu, gerçekleşeceğinde hiç şüphe olmayan 'toplanma günü'dür, yani kıyamet ve hesap günü. Ayet, o günün sonucunu iki grupla özetler: bir grup cennette, bir grup alevli ateştedir. Bu ayrım, sonraki ayetlerde işlenecek olan iman-inkâr ayrımının bir özeti gibi durur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:92",
+   "meal": "...Bu, kendinden öncekini doğrulayan ve Ümmü'l-Kurâ'yı ve çevresini uyarman için indirdiğimiz mübarek bir Kitaptır...",
+   "baglanti": "Aynı 'Ümmü'l-Kurâ ve çevresini uyarma' ifadesi En'âm suresinde de geçer; Kur'an'ın ilk muhatap çevresini aynı sözlerle tanımlar."
+  },
+  {
+   "ref": "34:28",
+   "meal": "Biz seni ancak bütün insanlara müjdeleyici ve uyarıcı olarak gönderdik; fakat insanların çoğu bilmez.",
+   "baglanti": "Buradaki uyarı Mekke ve çevresiyle sınırlı görünse de Sebe' suresi, aynı görevin aslında bütün insanlığa yönelik olduğunu belirtir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu vahyin ilk muhatap çevresi ve kıyamet uyarısıdır; bu, tarihsel ve inanç boyutu olan bir konudur.",
+  "Buradan çıkan ders şudur: bir uyarı, önce yakın çevreden başlar ve oradan yayılır. Sen de bir doğruyu paylaşırken önce en yakınındaki insanları düşünebilir, hesap gününün kesinliğini kendi hayatına dair bir hatırlatma olarak taşıyabilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önce yakınından başla",
+   "aciklama": "Bugün öğrendiğin faydalı bir bilgiyi önce ailenden veya yakın çevrenden biriyle paylaş."
+  },
+  {
+   "baslik": "Hesap gününü hatırla",
+   "aciklama": "Bir kararını verirken, bu dünyanın geçici olduğunu ve bir gün hesap vereceğini bir an düşün."
+  },
+  {
+   "baslik": "Şüpheyi netliğe çevir",
+   "aciklama": "Ahiretle ilgili aklına takılan bir soruyu bugün güvenilir bir kaynaktan araştır."
+  }
+ ],
+ "bugununAdimi": "Bugün ailenden veya yakın çevrenden biriyle öğrendiğin faydalı bir bilgiyi paylaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/7"
+  }
+ ]
+}

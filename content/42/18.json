@@ -1,0 +1,208 @@
+{
+ "sure": 42,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "Ona inanmayanlar, onun çabucak gelmesini isterler; iman edenler ise ondan korkarak titrerler ve onun hak olduğunu bilirler. Dikkat edin, o saat hakkında tartışanlar gerçekten uzak bir sapkınlık içindedirler.",
+ "mealNotu": "'Yesta'cilü' (çabucak gelmesini isterler) fiili, inkârcıların kıyameti alay konusu yapıp aceleyle istemesini anlatır. 'Müşfikûn' kökü, hem korku hem saygıyla titremeyi birlikte taşır; 'korkarak titrerler' olarak çevrilmiştir.",
+ "kokler": [
+  {
+   "kelime": "يَسْتَعْجِلُ",
+   "okunus": "yesta'cilü",
+   "kok": "عجل",
+   "kokAnlam": "acele etme, çabuklaştırma",
+   "karsilik": "çabucak gelmesini isterler"
+  },
+  {
+   "kelime": "بِهَا",
+   "okunus": "bihâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) onun",
+   "karsilik": "onun"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olanlar",
+   "karsilik": "olanlar"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "-mayanlar"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, güvenerek inanma",
+   "karsilik": "inanmayanlar"
+  },
+  {
+   "kelime": "بِهَا",
+   "okunus": "bihâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ve olanlar",
+   "karsilik": "ve olanlar"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "مُشْفِقُونَ",
+   "okunus": "müşfikûne",
+   "kok": "شفق",
+   "kokAnlam": "korku ve saygıyla titreme",
+   "karsilik": "korkarak titrerler"
+  },
+  {
+   "kelime": "مِنْهَا",
+   "okunus": "minhâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "وَيَعْلَمُونَ",
+   "okunus": "ve ya'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "ve bilirler"
+  },
+  {
+   "kelime": "أَنَّهَا",
+   "okunus": "ennehâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) onun",
+   "karsilik": "onun"
+  },
+  {
+   "kelime": "ٱلْحَقُّ",
+   "okunus": "elhakku",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, doğruluk, hak",
+   "karsilik": "hak olduğunu"
+  },
+  {
+   "kelime": "أَلَآ",
+   "okunus": "elâ",
+   "kok": "—",
+   "kokAnlam": "(dikkat çekme edatı) dikkat edin",
+   "karsilik": "dikkat edin"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olanlar",
+   "karsilik": "olanlar"
+  },
+  {
+   "kelime": "يُمَارُونَ",
+   "okunus": "yümârûne",
+   "kok": "مري",
+   "kokAnlam": "tartışma, çekişme",
+   "karsilik": "tartışanlar"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "ٱلسَّاعَةِ",
+   "okunus": "essâati",
+   "kok": "سوع",
+   "kokAnlam": "saat, vakit; kıyamet",
+   "karsilik": "o saat"
+  },
+  {
+   "kelime": "لَفِى",
+   "okunus": "lefî",
+   "kok": "—",
+   "kokAnlam": "(edat) elbette içinde",
+   "karsilik": "içindedirler"
+  },
+  {
+   "kelime": "ضَلَٰلٍۭ",
+   "okunus": "dalâlim",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, yoldan çıkma",
+   "karsilik": "bir sapkınlık"
+  },
+  {
+   "kelime": "بَعِيدٍ",
+   "okunus": "beîdin",
+   "kok": "بعد",
+   "kokAnlam": "uzaklık",
+   "karsilik": "uzak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, kıyamet saati karşısında iki farklı tutumu karşılaştırır. İnanmayanlar, kıyameti bir alay konusu yaparak çabucak gelmesini isterler; sanki gerçekleşmeyecekmiş gibi davranırlar. Müminler ise tam tersine, o günden korkarak titrerler; çünkü onun hak, yani kesinlikle gerçekleşecek bir şey olduğunu bilirler.",
+  "Ayet, 'dikkat edin' uyarısıyla kıyamet hakkında tartışanların durumunu netleştirir: onlar, hakikatten uzak, derin bir sapkınlık içindedirler. Böylece ayet, kıyameti hafife almanın ya da onu inkâr etmenin, bir bilgi eksikliğinden çok bir sapma olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "21:49",
+   "meal": "Onlar, görmedikleri hâlde Rablerinden korkarlar ve kıyamet saatinden titrerler.",
+   "baglanti": "Enbiyâ suresi, müminlerin kıyamet karşısındaki aynı titreme hâlini, 'görmeden korkma' vurgusuyla tamamlar."
+  },
+  {
+   "ref": "22:55",
+   "meal": "İnkâr edenler ise, kıyamet ansızın kendilerine gelinceye veya kısır bir günün azabı gelinceye kadar, ondan kuşku içinde kalmaya devam ederler.",
+   "baglanti": "Hac suresi, inkârcıların kıyamet konusundaki kuşkusunun, ansızın gerçekleşene kadar süreceğini bildirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyamet karşısındaki inanç farkıdır; iman edenle etmeyenin tutumu birbirinden ayrılır.",
+  "Buradan çıkan ders, ciddi bir konuyu hafife almanın tehlikesidir. İnsan bazen büyük sonuçları olan bir gerçeği -ölüm, hesap günü gibi- şaka konusu yapabilir; oysa bu konularda temkinli ve saygılı bir tutum, insanı hazırlıklı kılar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ciddiyetini koru",
+   "aciklama": "Ölüm ve ahiretle ilgili bir konuyu bugün şakaya vurmadan ciddiyetle düşün."
+  },
+  {
+   "baslik": "Hazırlığını gözden geçir",
+   "aciklama": "Bugün kıyamet ve hesap günü için manevi hazırlığının ne durumda olduğunu bir an değerlendir."
+  },
+  {
+   "baslik": "Sapkınlıktan uzak dur",
+   "aciklama": "Kesin olan bir gerçeği inatla tartışmak yerine, onu kabul edip ona göre yaşamayı tercih et."
+  }
+ ],
+ "bugununAdimi": "Bugün ahiretle ilgili bir konuda kendine 'buna ne kadar hazırım?' diye sor ve bir cevap yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/18"
+  }
+ ]
+}

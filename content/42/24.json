@@ -1,0 +1,208 @@
+{
+ "sure": 42,
+ "ayet": 24,
+ "durum": "taslak",
+ "meal": "Yoksa onlar, 'Allah'a karşı yalan uydurdu' mu diyorlar? Allah dilerse senin kalbini mühürler. Allah, batılı siler ve kendi sözleriyle hakkı gerçekleştirir. Şüphesiz O, sinelerin özünü hakkıyla bilendir.",
+ "mealNotu": "'İfterâ' (uydurdu) fiili doğrudan çevrilmiştir. 'Yahtim alâ kalbike' (kalbini mühürler) ifadesi ayetin kendi lafzıyla korunmuş, ek bir yorum eklenmemiştir. 'Bizâtis sudûr' (sinelerin özü) ifadesi, kalpteki gizli niyeti anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "يَقُولُونَ",
+   "okunus": "yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "diyorlar mı"
+  },
+  {
+   "kelime": "ٱفْتَرَىٰ",
+   "okunus": "ifterâ",
+   "kok": "فري",
+   "kokAnlam": "uydurma, yalan söyleme",
+   "karsilik": "uydurdu"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e karşı",
+   "karsilik": "-e karşı"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "كَذِبًا",
+   "okunus": "keziben",
+   "kok": "كذب",
+   "kokAnlam": "yalan söyleme",
+   "karsilik": "yalan"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يَشَإِ",
+   "okunus": "yeşei",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَخْتِمْ",
+   "okunus": "yahtim",
+   "kok": "ختم",
+   "kokAnlam": "mühürleme, kapatma",
+   "karsilik": "mühürler"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -in üzerine",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "قَلْبِكَ",
+   "okunus": "kalbike",
+   "kok": "قلب",
+   "kokAnlam": "kalp, gönül",
+   "karsilik": "senin kalbini"
+  },
+  {
+   "kelime": "وَيَمْحُ",
+   "okunus": "ve yemhu",
+   "kok": "محو",
+   "kokAnlam": "silme, ortadan kaldırma",
+   "karsilik": "ve siler"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلْبَٰطِلَ",
+   "okunus": "elbâtıle",
+   "kok": "بطل",
+   "kokAnlam": "boşluk, asılsızlık, batıl",
+   "karsilik": "batılı"
+  },
+  {
+   "kelime": "وَيُحِقُّ",
+   "okunus": "ve yühikku",
+   "kok": "حقق",
+   "kokAnlam": "gerçekleştirme, hakkın gerçekleşmesi",
+   "karsilik": "ve gerçekleştirir"
+  },
+  {
+   "kelime": "ٱلْحَقَّ",
+   "okunus": "elhakka",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, doğruluk, hak",
+   "karsilik": "hakkı"
+  },
+  {
+   "kelime": "بِكَلِمَٰتِهِۦٓ",
+   "okunus": "bikelimâtihî",
+   "kok": "كلم",
+   "kokAnlam": "söz, kelime",
+   "karsilik": "kendi sözleriyle"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz O",
+   "karsilik": "şüphesiz O"
+  },
+  {
+   "kelime": "عَلِيمٌۢ",
+   "okunus": "alîmüm",
+   "kok": "علم",
+   "kokAnlam": "bilme, her şeyi bilme",
+   "karsilik": "hakkıyla bilendir"
+  },
+  {
+   "kelime": "بِذَاتِ",
+   "okunus": "bizâti",
+   "kok": "—",
+   "kokAnlam": "(izafet) özü, sahibi",
+   "karsilik": "özünü"
+  },
+  {
+   "kelime": "ٱلصُّدُورِ",
+   "okunus": "essudûri",
+   "kok": "صدر",
+   "kokAnlam": "göğüs, sine",
+   "karsilik": "sinelerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerdeki tebliğ ve müjde konusundan sonra, Peygamber'e yöneltilen bir iftirayı gündeme getirir: bazılarının onun Allah'a karşı yalan uydurduğunu söylemesi. Ayet, bu iddiaya karşı güçlü bir cevap verir: eğer böyle bir şey söz konusu olsaydı, Allah dilediğinde onun kalbini mühürleyebilirdi; yani vahiy O'nun kontrolü ve izniyle sürer.",
+  "Ayet, ardından genel bir ilkeye geçer: Allah batılı siler, kendi sözleriyle hakkı gerçekleştirir. Bu, yalnız bu iddiayla sınırlı değil, hakkın er ya da geç ortaya çıkacağını anlatan bir ilkedir. Ayet, Allah'ın sinelerin özünü, yani insanların içlerinde gizledikleri niyeti bile bildiğini hatırlatarak biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "69:44",
+   "meal": "Eğer o (Peygamber), bize atfen bazı sözler uydurmuş olsaydı, elbette onu kudretimizle yakalardık.",
+   "baglanti": "Hâkka suresi, aynı iftira ihtimaline karşı, eğer gerçek olsaydı Allah'ın hemen müdahale edeceğini daha ayrıntılı anlatır."
+  },
+  {
+   "ref": "17:81",
+   "meal": "De ki: 'Hak geldi, batıl yıkılıp gitti. Şüphesiz batıl, yıkılıp gitmeye mahkûmdur.'",
+   "baglanti": "İsrâ suresi, 'Allah batılı siler, hakkı gerçekleştirir' ilkesini, hakkın gelişiyle batılın yok olması olarak özetler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'e yöneltilen bir iftira ve buna verilen cevaptır; bu, özel bir tarihi bağlama aittir.",
+  "Buradan çıkarılabilecek genel ders, doğrunun er ya da geç ortaya çıkacağına güvenmektir. Haksız bir suçlamayla karşılaştığında, hemen kendini savunmaya çalışmak yerine, zamanla gerçeğin ortaya çıkacağına güvenip sabırlı kalmak bazen daha sağlıklı bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sabırla bekle",
+   "aciklama": "Haksız bir söze maruz kaldığında, hemen tepki vermek yerine gerçeğin ortaya çıkacağına güven."
+  },
+  {
+   "baslik": "Niyetini kontrol et",
+   "aciklama": "Allah'ın kalbindekini bildiğini hatırlayıp, bugün bir niyetini gözden geçir."
+  },
+  {
+   "baslik": "Yalandan uzak dur",
+   "aciklama": "Bugün küçük bir konuda bile olsa yalan söylemekten kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuşmanda, doğru olmayan hiçbir şey söylemeden konuşmaya özen göster.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=42&verse=24"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/42/24"
+  }
+ ]
+}
