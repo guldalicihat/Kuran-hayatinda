@@ -1,0 +1,117 @@
+{
+ "sure": 51,
+ "ayet": 28,
+ "durum": "taslak",
+ "meal": "İçine onlardan bir korku düştü. 'Korkma' dediler ve onu bilgili bir oğulla müjdelediler.",
+ "mealNotu": "'Evcese' kökü وجس, içte hissedilen, dışa vurulmayan bir korkuyu anlatır. 'Ğulâmin alîm' ifadesi, ileride bilgili/bilgin olacak bir erkek çocuğu müjdeler; ayet çocuğun ismini vermez.",
+ "kokler": [
+  {
+   "kelime": "فَأَوْجَسَ",
+   "okunus": "feevcese",
+   "kok": "وجس",
+   "kokAnlam": "içte hissedilen gizli korku",
+   "karsilik": "içine düştü"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "onlardan (edat + zamir)",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "خِيفَةً",
+   "okunus": "hîfeten",
+   "kok": "خوف",
+   "kokAnlam": "korku",
+   "karsilik": "bir korku"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "—"
+  },
+  {
+   "kelime": "تَخَفْ",
+   "okunus": "tehaf",
+   "kok": "خوف",
+   "kokAnlam": "korkma",
+   "karsilik": "korkma"
+  },
+  {
+   "kelime": "وَبَشَّرُوهُ",
+   "okunus": "ve beşşerûhü",
+   "kok": "بشر",
+   "kokAnlam": "müjdeleme, iyi haber verme",
+   "karsilik": "ve onu müjdelediler"
+  },
+  {
+   "kelime": "بِغُلَٰمٍ",
+   "okunus": "biğulâmin",
+   "kok": "غلم",
+   "kokAnlam": "erkek çocuk, delikanlı",
+   "karsilik": "bir oğulla"
+  },
+  {
+   "kelime": "عَلِيمٍ",
+   "okunus": "alîmin",
+   "kok": "علم",
+   "kokAnlam": "bilme, bilgi sahibi olma",
+   "karsilik": "bilgili"
+  }
+ ],
+ "neAnlatiyor": [
+  "Misafirlerin yemeğe el uzatmaması (27. ayetin devamında anlaşılan bir ayrıntı), İbrahim'in içine gizli bir korku düşürür. Misafirler bunu fark edip hemen 'Korkma' diyerek onu rahatlatırlar ve ardından bilgili bir oğul müjdesi verirler. Ayet, çocuğun ismini vermez; yalnızca 'bilgili bir oğul' der.",
+  "Bu sahne, korkudan sevince hızlı bir geçişi anlatır. Meleklerin önce korkuyu giderip sonra müjde vermesi, iyi haberin insana ancak güven ve huzur ortamında tam anlamıyla ulaştığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:53",
+   "meal": "Dediler: 'Korkma; biz sana bilgili bir oğlan çocuğu müjdeliyoruz.'",
+   "baglanti": "Neredeyse birebir aynı ifade Hicr suresinde de geçer; korku giderilip aynı müjde verilir."
+  },
+  {
+   "ref": "3:39",
+   "meal": "Melekler ona seslendi... 'Allah seni Yahya ile müjdeliyor.'",
+   "baglanti": "Meleklerin bir peygambere çocuk müjdelemesi teması burada Zekeriyya kıssasında da geçer; Zâriyât 28'deki müjde sahnesiyle benzer bir üsluptadır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, İbrahim'in içine düşen korkunun meleklerce giderilip bir müjdeyle karşılanmasıdır. Bu bir kıssa anlatımıdır.",
+  "Buradan çıkarılabilecek ders, birinin korkusunu veya tedirginliğini fark edip önce onu rahatlatmanın, sonra haberi vermenin değeridir. İyi haber bile, güven ortamı olmadan tam anlamıyla ulaşmaz."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önce güven ver",
+   "aciklama": "Bugün tedirgin birine bir haber verirken, önce onu rahatlatıp sonra konuş."
+  },
+  {
+   "baslik": "Korkuyu fark et",
+   "aciklama": "Bugün birinin gizli bir endişesini fark edip nazikçe sor."
+  },
+  {
+   "baslik": "Beklenmedik iyiliğe hazır ol",
+   "aciklama": "Bugün hayatına beklenmedik güzel bir gelişme gelirse, onu bir sınav gibi değil bir lütuf gibi karşıla."
+  }
+ ],
+ "bugununAdimi": "Bugün tedirgin gördüğün birine önce güven ver, sonra konuş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=28"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/28"
+  }
+ ]
+}

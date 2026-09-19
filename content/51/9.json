@@ -1,0 +1,82 @@
+{
+ "sure": 51,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Ondan, ancak [daha önce] saptırılmış olan kimse çevrilir.",
+ "mealNotu": "'Yü'feku' ve 'üfike' aynı أفك kökünden gelir; bir şeyin ters çevrilmesini, gerçekten saptırılmasını anlatır. 'Ondan' zamiri bağlamda Kur'an'a veya Peygamber'e işaret eder; klasik tefsir ayeti, ancak kalbi zaten sapmış olanın haktan yüz çevirdiği şeklinde açıklar.",
+ "kokler": [
+  {
+   "kelime": "يُؤْفَكُ",
+   "okunus": "yü'fekü",
+   "kok": "أفك",
+   "kokAnlam": "çevrilme, döndürülme, saptırılma",
+   "karsilik": "çevrilir"
+  },
+  {
+   "kelime": "عَنْهُ",
+   "okunus": "anhü",
+   "kok": "—",
+   "kokAnlam": "ondan (edat + zamir)",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "مَنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "kim (ilgi zamiri)",
+   "karsilik": "kimse"
+  },
+  {
+   "kelime": "أُفِكَ",
+   "okunus": "üfike",
+   "kok": "أفك",
+   "kokAnlam": "çevrilme, saptırılma",
+   "karsilik": "saptırılmış olan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette insanların çelişkili sözü anlatılmıştı; bu ayet, o çelişkinin kaynağını açıklar: haktan çevrilen kişi, aslında daha önceden kalbi saptırılmış olandır. 'Yü'feku' ve 'üfike' aynı kökten gelerek bir tür döngü kurar; saptırılmış olan kişi, hak karşısında da çevrilmeye devam eder.",
+  "Bu ayet, inkârın rastgele değil, kişinin önceden aldığı bir yönelimin sonucu olduğunu ima eder. Sonraki ayetlerde bu kişiler 'yalancı tahminciler' ve 'gaflette olanlar' olarak nitelenir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "9:30",
+   "meal": "Allah onları kahretsin, nasıl da haktan çevriliyorlar!",
+   "baglanti": "Aynı أفك kökü burada da geçer; hakikatten döndürülme durumu, Zâriyât 9'daki ifadeyle aynı kalıptır."
+  },
+  {
+   "ref": "29:61",
+   "meal": "Andolsun onlara 'Gökleri ve yeri kim yarattı, güneşi ve ayı kim buyruğu altına aldı?' diye sorsan, elbette 'Allah' derler. Öyleyse nasıl da haktan çevriliyorlar!",
+   "baglanti": "Kişinin gerçeği bildiği halde yine de haktan çevrilmesi, Zâriyât 9'daki 'saptırılmış olanın çevrilmesi' fikrini somutlaştırır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hakikate kapalı bir kalbin sürekli ondan uzaklaşmasıdır. Bu, dışarıdan gelen bir zorlama değil, kişinin kendi yöneliminin sonucudur.",
+  "Günlük hayatta bir konuda önceden karar vermiş, kapalı bir zihinle yaklaşmak, doğru bilgiyi bile görmezden gelmeye yol açabilir. Bu ayet, kalbi açık tutmanın, önyargıyla değil delille hareket etmenin önemini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önyargını sorgula",
+   "aciklama": "Bugün bir konuda daha baştan karar verip vermediğini fark et."
+  },
+  {
+   "baslik": "Delili dinle",
+   "aciklama": "Bugün bir tartışmada, karşı fikri kapalı bir zihinle değil gerçekten dinleyerek değerlendir."
+  },
+  {
+   "baslik": "Kalbini açık tut",
+   "aciklama": "Bugün yanlış bildiğin bir şeyde haklı çıktığını görürsen, inatla direnme, kabul et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda önyargılı olduğunu fark edersen, karşı görüşü gerçekten dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/9"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "sure": 51,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "Kahrolsun o yalan tahminde bulunanlar!",
+ "mealNotu": "'Kutile' kökü قتل öldürmeyi anlatır; burada gerçek öldürme değil, şiddetli bir beddua/kınama ifadesidir, 'kahrolsun' şeklinde çevrilir. 'Harrâsûn' kökü خرص, kesin bilgisi olmadan tahminle, kafadan atarak konuşmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "قُتِلَ",
+   "okunus": "kutile",
+   "kok": "قتل",
+   "kokAnlam": "öldürme; burada beddua/kınama ifadesi",
+   "karsilik": "kahrolsun"
+  },
+  {
+   "kelime": "ٱلْخَرَّٰصُونَ",
+   "okunus": "elharrâsûne",
+   "kok": "خرص",
+   "kokAnlam": "tahminle konuşma, kesin bilgisi olmadan yalan söyleme",
+   "karsilik": "yalan tahminde bulunanlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, haktan çevrilenlerin (9. ayet) kim olduğunu tanımlar: kesin bilgiye değil, tahmine ve varsayıma dayanarak konuşanlar. 'Kutile' burada gerçek bir öldürme değil, şiddetli bir kınama/beddua ifadesidir; Kur'an'da benzer nitelikteki kişiler hakkında sık kullanılır.",
+  "'Harrâsûn' kökü, bilmeden, kafadan atarak hüküm veren kişiyi anlatır; burada özellikle kıyamet ve vahiy hakkında bilgisizce konuşan, tahminle iddialarda bulunanlar kastedilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "74:19",
+   "meal": "Kahrolası, nasıl ölçtü biçti!",
+   "baglanti": "Aynı 'kutile' beddua kalıbı burada da geçer; bilmeden hüküm veren, kafadan konuşan bir kişi kınanır."
+  },
+  {
+   "ref": "80:17",
+   "meal": "Kahrolası insan, ne nankördür!",
+   "baglanti": "Aynı 'kutile' formülüyle insanın düşüncesizliği kınanır; Zâriyât 10'daki yalancı tahmincilere yönelik kınamayla aynı üsluptadır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kesin bilgisi olmadığı halde tahminle, kafadan atarak konuşan kişilerdir. Bu, özellikle önemli konularda (inanç, gaybi meseleler) ciddi bir tutum bozukluğu olarak kınanır.",
+  "Günlük hayatta da bilmediğimiz bir konuda kesin ifadeyle konuşmak, hem yanıltıcı hem sorumsuzcadır. Bu ayet, konuşmadan önce bilip bilmediğini sorgulamayı öğütler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilmiyorsan söyle",
+   "aciklama": "Bugün emin olmadığın bir konuda 'bilmiyorum' demekten çekinme."
+  },
+  {
+   "baslik": "Dedikoduyu bırak",
+   "aciklama": "Bugün doğruluğundan emin olmadığın bir haberi ya da söylentiyi başkasına aktarma."
+  },
+  {
+   "baslik": "Kaynağını sorgula",
+   "aciklama": "Bugün duyduğun bir bilgiyi paylaşmadan önce kaynağının güvenilir olup olmadığını kontrol et."
+  }
+ ],
+ "bugununAdimi": "Bugün emin olmadığın bir bilgiyi kontrol etmeden başkasına aktarma.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/10"
+  }
+ ]
+}

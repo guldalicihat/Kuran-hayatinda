@@ -1,0 +1,82 @@
+{
+ "sure": 51,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "Şüphesiz siz, çelişkili bir söz içindesiniz.",
+ "mealNotu": "'Muhtelif' kökü خلف, ayrılığı ve birbiriyle tutarsız olmayı anlatır. Ayet, muhatapların Kur'an ve peygamber hakkındaki sözlerinin birbiriyle çelişmesine işaret eder.",
+ "kokler": [
+  {
+   "kelime": "إِنَّكُمْ",
+   "okunus": "inneküm",
+   "kok": "—",
+   "kokAnlam": "gerçekten siz (tekid + zamir)",
+   "karsilik": "şüphesiz siz"
+  },
+  {
+   "kelime": "لَفِى",
+   "okunus": "lefî",
+   "kok": "—",
+   "kokAnlam": "kesinlikle içinde (edat + tekid)",
+   "karsilik": "kesinlikle içindesiniz"
+  },
+  {
+   "kelime": "قَوْلٍ",
+   "okunus": "kavlin",
+   "kok": "قول",
+   "kokAnlam": "söz, söylenen şey",
+   "karsilik": "bir söz"
+  },
+  {
+   "kelime": "مُّخْتَلِفٍ",
+   "okunus": "mühtelifin",
+   "kok": "خلف",
+   "kokAnlam": "ayrılık, farklılık, tutarsızlık",
+   "karsilik": "çelişkili"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette göğün düzenli yapısına yemin edilmişti; bu ayet, o düzenin tam tersine, insanların sözündeki tutarsızlığı gösterir. Kur'an ve Peygamber hakkında söylenenler birbirini tutmaz; klasik tefsir bunu, aynı kişilerin bazen 'şair', bazen 'sihirbaz', bazen 'mecnun' gibi farklı ve birbiriyle çelişen suçlamalarda bulunması olarak açıklar.",
+  "Gökteki düzenle insan sözündeki çelişki arasındaki karşıtlık, ayetin asıl vurgusudur: yaratılış tutarlıyken, inkârı haklı çıkarmaya çalışan sözler tutarsızdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:9",
+   "meal": "Bak, senin için nasıl örnekler verdiler de saptılar; artık bir yol bulamazlar.",
+   "baglanti": "İnkârcıların Peygamber hakkında birbirinden farklı, tutarsız benzetmeler yapması, Zâriyât 8'deki 'çelişkili söz' ifadesiyle aynı durumu anlatır."
+  },
+  {
+   "ref": "6:25",
+   "meal": "Seni dinler gibi yaparlar; ama derler ki: 'Bu, öncekilerin masallarından başka bir şey değildir.'",
+   "baglanti": "Farklı kişilerin Kur'an hakkında birbirinden kopuk, tutarsız iddialar öne sürmesi, çelişkili söz temasının bir örneğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Mekke döneminde Kur'an ve Peygamber hakkında söylenen tutarsız sözlerdir. Bu, özel bir tarihi bağlamdır.",
+  "Buradan çıkarılabilecek genel ders, sözün tutarlılığıdır. Bir konuda söylediklerin zamanla ve duruma göre birbirini yalanlıyorsa, bu içten değil, savunma amaçlı konuştuğunun bir işaretidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü gözden geçir",
+   "aciklama": "Bugün bir konuda söylediklerinin geçen haftakilerle çelişip çelişmediğini düşün."
+  },
+  {
+   "baslik": "Tutarlı ol",
+   "aciklama": "Bugün bir görüş bildirirken, önceki söylediklerinle çelişmemeye dikkat et."
+  },
+  {
+   "baslik": "Bahane aramayı bırak",
+   "aciklama": "Bugün bir konuda haksız olduğunu fark edersen, farklı bahaneler üretmek yerine bunu kabul et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda haksız olduğunu fark edersen, bahane üretmeden kabul et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/8"
+  }
+ ]
+}

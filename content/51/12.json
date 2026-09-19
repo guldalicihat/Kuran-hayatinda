@@ -1,0 +1,82 @@
+{
+ "sure": 51,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "'Din [hesap] günü ne zaman?' diye sorarlar.",
+ "mealNotu": "'Eyyâne' soru edatı 'ne zaman' anlamındadır. 'Dîn' kökü دين burada da 6. ayetteki gibi hesap ve karşılık gününü anlatır; bu yüzden köşeli parantezle netleştirilmiştir.",
+ "kokler": [
+  {
+   "kelime": "يَسْـَٔلُونَ",
+   "okunus": "yes'elûne",
+   "kok": "سأل",
+   "kokAnlam": "sorma",
+   "karsilik": "sorarlar"
+  },
+  {
+   "kelime": "أَيَّانَ",
+   "okunus": "eyyâne",
+   "kok": "—",
+   "kokAnlam": "ne zaman (soru edatı)",
+   "karsilik": "ne zaman"
+  },
+  {
+   "kelime": "يَوْمُ",
+   "okunus": "yevmü",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "ٱلدِّينِ",
+   "okunus": "eddîni",
+   "kok": "دين",
+   "kokAnlam": "din, hesap ve karşılık günü",
+   "karsilik": "din [hesap]"
+  }
+ ],
+ "neAnlatiyor": [
+  "Gaflet içinde umursamazlık edenler (11. ayet), şimdi hesap gününün ne zaman geleceğini sorarlar. Klasik tefsir, bu soruyu samimi bir merak değil, alaycı bir meydan okuma olarak açıklar; çünkü soranlar, o günün gerçekliğine zaten inanmamaktadır.",
+  "Ayet, soruyu aktarır ama hemen cevap vermez; cevap bir sonraki ayette gelir. Bu, Kur'an'da sık görülen bir üsluptur: önce muhatabın sorusu, sonra doğrudan karşılığı verilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "75:6",
+   "meal": "'Kıyamet günü ne zaman?' diye sorar.",
+   "baglanti": "Aynı soru kalıbı burada da tekrarlanır; her iki ayette de inkârcı bir alay tonuyla hesap gününün zamanı sorulur."
+  },
+  {
+   "ref": "79:42",
+   "meal": "Sana kıyametten sorarlar: 'Ne zaman gelip çatacak?'",
+   "baglanti": "Aynı 'ne zaman' sorusu burada da geçer; Zâriyât 12'deki alaycı soruyla aynı tutumu yansıtır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hesap gününün 'ne zaman' olacağına dair alaycı bir sorudur. Bu, samimi bir bilgi arayışı değil, gerçeği erteleme çabasıdır.",
+  "Günlük hayatta da bazen asıl mesele 'ne zaman olacak?' değil, 'ona nasıl hazırlanıyorum?' sorusudur. Zaman belirsizken hazırlıklı olmak, boş bir tarih beklemekten daha anlamlıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zamanı değil hazırlığı düşün",
+   "aciklama": "Bugün 'ne zaman olacak' diye merak ettiğin bir konuda, onun yerine 'hazır mıyım' diye sor."
+  },
+  {
+   "baslik": "Alaycı tavırdan uzak dur",
+   "aciklama": "Bugün ciddi bir konuyu alaya alarak geçiştirmekten kaçın."
+  },
+  {
+   "baslik": "Bugünü kullan",
+   "aciklama": "Belirsiz bir geleceği beklemek yerine, bugün yapabileceğin bir hazırlığı yap."
+  }
+ ],
+ "bugununAdimi": "Bugün 'ne zaman olacak' diye ertelediğin bir hazırlığı şimdi yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/12"
+  }
+ ]
+}

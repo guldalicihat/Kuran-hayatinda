@@ -1,0 +1,117 @@
+{
+ "sure": 51,
+ "ayet": 23,
+ "durum": "taslak",
+ "meal": "Göğün ve yerin Rabbine andolsun ki, bu [vaad], sizin konuştuğunuz kadar kesin bir gerçektir.",
+ "mealNotu": "'Nâtık' kökü نطق, açıkça konuşmayı anlatır. Ayet, vaadin gerçekliğini, insanın kendi konuşabildiğinden şüphe etmemesi kadar kesin bir benzetmeyle anlatır.",
+ "kokler": [
+  {
+   "kelime": "فَوَرَبِّ",
+   "okunus": "feverabbi",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbine andolsun"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "göğün"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yeryüzü, toprak",
+   "karsilik": "ve yerin"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "gerçekten o (tekid + zamir)",
+   "karsilik": "şüphesiz bu"
+  },
+  {
+   "kelime": "لَحَقٌّ",
+   "okunus": "lehakkun",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçek",
+   "karsilik": "kesinlikle gerçektir"
+  },
+  {
+   "kelime": "مِّثْلَ",
+   "okunus": "misle",
+   "kok": "مثل",
+   "kokAnlam": "benzer, gibi",
+   "karsilik": "kadar"
+  },
+  {
+   "kelime": "مَآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "şey (ilgi zamiri)",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "أَنَّكُمْ",
+   "okunus": "enneküm",
+   "kok": "—",
+   "kokAnlam": "gerçekten sizin (tekid + zamir)",
+   "karsilik": "sizin"
+  },
+  {
+   "kelime": "تَنطِقُونَ",
+   "okunus": "tentıkûne",
+   "kok": "نطق",
+   "kokAnlam": "açıkça konuşma",
+   "karsilik": "konuştuğunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, bu ayetle vaadin kesinliğini yeni bir yeminle pekiştirir: göğün ve yerin Rabbine andolsun. Benzetme çarpıcıdır: vaad edilen şey, insanın kendi konuşabildiğinden şüphe etmediği kadar kesindir. Kişi kendi sesini duyduğunda bunun gerçek olduğundan nasıl şüphe etmiyorsa, vaad edilen de öyle kesindir.",
+  "Bu ayet, 5-6. ayetlerdeki 'vaad edilen kesinlikle doğrudur' ifadesini, göğün ve yerin Rabbine yeminle tekrar vurgular. Böylece sure, kıyametin kesinliği konusunu üçüncü kez farklı bir yeminle pekiştirmiş olur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "56:95",
+   "meal": "Şüphesiz bu, kesin gerçeğin ta kendisidir.",
+   "baglanti": "Aynı kesinlik vurgusu (حق kökü) burada da geçer; Zâriyât 23'teki 'kesinlikle gerçektir' ifadesiyle aynı temayı taşır."
+  },
+  {
+   "ref": "44:7",
+   "meal": "Eğer kesin bilgiyle inanıyorsanız, göklerin, yerin ve ikisi arasındakilerin Rabbidir.",
+   "baglanti": "'Göklerin ve yerin Rabbi' ifadesi burada da geçer; Zâriyât 23'teki yeminle aynı ismi kullanır ve kesin inancın gerekliliğini vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, vaadin (hesap gününün) kesinliğidir; bu kesinlik, insanın kendi konuşmasından şüphe etmemesi kadar açık bir örnekle anlatılır.",
+  "Günlük hayatta bazı gerçekleri sorgulamadan kabul ederiz; kendi sesimizi duyduğumuzda gerçek olduğundan şüphe etmeyiz. Bu ayet, imanın da böyle bir netliğe ulaşabileceğini, şüpheyle değil kesin bir kanaatle yaşanabileceğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Şüpheni netliğe çevir",
+   "aciklama": "Bugün inancınla ilgili bir tereddüdünü, araştırarak veya düşünerek netliğe kavuşturmaya çalış."
+  },
+  {
+   "baslik": "Sözünle tutarlı ol",
+   "aciklama": "Bugün konuştuğun kadar kesin bir şekilde, davranışlarında da tutarlı ol."
+  },
+  {
+   "baslik": "Kesin bildiğini yaşa",
+   "aciklama": "Bugün kesin olarak doğru bildiğin bir şeyi, ertelemeden uygula."
+  }
+ ],
+ "bugununAdimi": "Bugün kesin olarak doğru bildiğin ama ertelediğin bir davranışı uygula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=23"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/23"
+  }
+ ]
+}

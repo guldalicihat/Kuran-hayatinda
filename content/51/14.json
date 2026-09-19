@@ -1,0 +1,103 @@
+{
+ "sure": 51,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "'Sınanmanızı [azabınızı] tadın! İşte bu, acele istemekte olduğunuz şeydir.'",
+ "mealNotu": "'Zûkû' kökü ذوق tatmayı, doğrudan deneyimlemeyi anlatır; azabın somut biçimde yaşanacağını vurgular. 'Fitnetekum' kelimesi bir önceki ayetteki فتن köküyle bağlantılıdır, burada 'azabınız' anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "ذُوقُوا۟",
+   "okunus": "zûkû",
+   "kok": "ذوق",
+   "kokAnlam": "tatma, doğrudan deneyimleme",
+   "karsilik": "tadın"
+  },
+  {
+   "kelime": "فِتْنَتَكُمْ",
+   "okunus": "fitneteküm",
+   "kok": "فتن",
+   "kokAnlam": "sınama, ateşte eritip azap görme",
+   "karsilik": "sınanmanızı [azabınızı]"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "bu (işaret zamiri)",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "o ki (ilgi zamiri)",
+   "karsilik": "olandır ki"
+  },
+  {
+   "kelime": "كُنتُم",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "siz idiniz"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "onunla (edat + zamir)",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "تَسْتَعْجِلُونَ",
+   "okunus": "testa'cilûne",
+   "kok": "عجل",
+   "kokAnlam": "acele etme, bir şeyi vaktinden önce isteme",
+   "karsilik": "acele istemekte"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, o gün ateşte sınananlara söylenecek sözü aktarır: 'Tadın! İşte bu, acele istediğiniz şeydir.' 'Testa'cilûn' kökü, dünyadayken alay ederek azabın hemen gelmesini isteyenlere işaret eder; klasik tefsir, müşriklerin 'eğer doğru söylüyorsan azabı hemen getir' türünden meydan okumalarını hatırlatır.",
+  "Böylece 12-14. ayetler bir bütün oluşturur: alaycı soru (12), o günün tasviri (13), ve o gün söylenecek söz (14). Bu, sabırsızca istenen bir şeyin, gerçekleştiğinde artık geri dönülemez olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "44:49",
+   "meal": "'Tat bakalım! Hani sen güçlü ve şerefli olandın.'",
+   "baglanti": "Aynı 'zûk' emri burada da alaycı bir üslupla tekrarlanır; dünyada güç sahibi görünenlerin azapla yüzleşmesi anlatılır."
+  },
+  {
+   "ref": "32:14",
+   "meal": "'Bu gününüze kavuşmayı unutmanıza karşılık tadın azabı; biz de sizi unuttuk. Yaptıklarınıza karşılık sonsuz azabı tadın.'",
+   "baglanti": "Aynı 'tadın' emri burada da geçer; unutmanın (gafletin) karşılığı olarak azabın tadılması, Zâriyât 14'teki sahneyle örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dünyada acele ile istenen bir şeyin (azabın) ahirette gerçekleşmesidir. Bu, özellikle inkârı alayla ifade edenlere yönelik bir cevaptır.",
+  "Buradan çıkarılabilecek genel ders, sabırsızlıkla bir şeyi zorlamanın bazen geri dönülmez sonuçlar doğurabileceğidir. Bir şeyi elde etmek için aceleci davranmadan önce, sonucunu düşünmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Acele etme",
+   "aciklama": "Bugün sabırsızlıkla bir sonuca varmak istediğin bir konuda, bir adım geride durup düşün."
+  },
+  {
+   "baslik": "Meydan okumaktan kaçın",
+   "aciklama": "Bugün bir tartışmada, 'madem haklısın göster' türünden gereksiz meydan okumalardan uzak dur."
+  },
+  {
+   "baslik": "Sonucu düşün",
+   "aciklama": "Bugün bir isteğinin gerçekleştiğinde seni nereye götüreceğini bir kez düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün sabırsızlandığın bir konuda, sonucu düşünmeden bir adım atmaktan kaçın.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/14"
+  }
+ ]
+}

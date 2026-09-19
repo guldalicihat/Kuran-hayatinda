@@ -1,0 +1,75 @@
+{
+ "sure": 51,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Din [hesap] günü de kesinlikle gerçekleşecektir.",
+ "mealNotu": "'Dîn' kökü دين burada 'hesap ve karşılık günü' anlamındadır; günlük dildeki 'din' kelimesinden farklı olduğu için köşeli parantezle netleştirilmiştir. 'Vâki' kökü وقع bir şeyin kaçınılmaz biçimde gerçekleşmesini anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَإِنَّ",
+   "okunus": "ve inne",
+   "kok": "—",
+   "kokAnlam": "gerçekten, kuşkusuz (tekid edatı)",
+   "karsilik": "ve şüphesiz"
+  },
+  {
+   "kelime": "ٱلدِّينَ",
+   "okunus": "eddîne",
+   "kok": "دين",
+   "kokAnlam": "din, hesap ve karşılık günü",
+   "karsilik": "din [hesap] günü"
+  },
+  {
+   "kelime": "لَوَٰقِعٌ",
+   "okunus": "levâkıun",
+   "kok": "وقع",
+   "kokAnlam": "düşme, vuku bulma, kaçınılmaz gerçekleşme",
+   "karsilik": "kesinlikle gerçekleşecektir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette 'size vaad edilen' genel bir ifadeyle geçmişti; bu ayet onu netleştirir: vaad edilen şey din (hesap) günüdür. 'Vâki' kökü, bir şeyin düşüp gerçekleşmesi gibi, engellenemez bir oluşu anlatır.",
+  "Böylece 1-6. ayetler bir bütün oluşturur: doğadaki görünmeyen düzene yemin edilir, ardından bu düzenin işaret ettiği kesin gerçek açıklanır. Sonraki ayetler (7-14), bu gerçeği inkâr edenlerin tutumunu ve karşılaşacakları sonucu anlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "82:17",
+   "meal": "Din [hesap] gününün ne olduğunu sana ne bildirdi?",
+   "baglanti": "Aynı 'yevmüd dîn' ifadesi burada da geçer; İnfitâr suresi bu günü daha ayrıntılı tasvir eder."
+  },
+  {
+   "ref": "56:1",
+   "meal": "Kıyamet [gerçekleşecek olan] koptuğunda,",
+   "baglanti": "'Vâkıa' kelimesi Zâriyât 6'daki 'levâkıun' ile aynı وقع kökündendir; ikisi de kıyametin kaçınılmaz gerçekleşişini anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, hesap gününün kesinliğidir. Bu, uzak bir ihtimal değil, doğadaki düzen kadar kaçınılmaz bir gerçek olarak sunulur.",
+  "Bir insanın yaptıklarının bir gün hesaba çekileceğini bilmesi, davranışlarını şekillendirir. Bu farkındalık, günlük kararlarda 'bunun bir karşılığı var mı?' diye sormayı öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hesabı hatırla",
+   "aciklama": "Bugün bir kararını verirken, bunun bir gün hesabının sorulacağını hatırla."
+  },
+  {
+   "baslik": "Ertelemeyi bırak",
+   "aciklama": "Kesin olduğunu bildiğin bir hazırlığı (bir hakkı ödemek, bir özür dilemek) bugüne al."
+  },
+  {
+   "baslik": "Gizliyi de düşün",
+   "aciklama": "Bugün kimsenin görmediği bir anında, Allah'ın gördüğünü hatırlayarak davran."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir hesabı (bir hak, bir özür) kapat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/6"
+  }
+ ]
+}

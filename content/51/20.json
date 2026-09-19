@@ -1,0 +1,82 @@
+{
+ "sure": 51,
+ "ayet": 20,
+ "durum": "taslak",
+ "meal": "Yeryüzünde, kesin bilgiyle inananlar için ayetler [işaretler] vardır.",
+ "mealNotu": "'Âyât' kökü أيي işaret/delil anlamındadır; burada 'ayetler' hem Kur'an ayetlerini hem yaratılıştaki delilleri çağrıştırdığı için [işaretler] eklenmiştir. 'Mûkınîn' kökü يقن, şüphesiz, kesin bir bilgiyle inanmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَفِى",
+   "okunus": "ve fî",
+   "kok": "—",
+   "kokAnlam": "ve içinde (edat)",
+   "karsilik": "ve vardır"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yeryüzü, toprak",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "ءَايَٰتٌ",
+   "okunus": "âyâtün",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil, ayet",
+   "karsilik": "ayetler [işaretler]"
+  },
+  {
+   "kelime": "لِّلْمُوقِنِينَ",
+   "okunus": "lilmûkınîne",
+   "kok": "يقن",
+   "kokAnlam": "kesin bilgiyle inanma, yakîn",
+   "karsilik": "kesin bilgiyle inananlar için"
+  }
+ ],
+ "neAnlatiyor": [
+  "Takva sahiplerinin tasviri (15-19. ayetler) bittikten sonra ayet, dikkati yeryüzüne çevirir: orada kesin bilgiyle inananlar için pek çok işaret vardır. 'Mûkın' kelimesi, şüpheyle değil kesin bir kanaatle inanan kişiyi anlatır; bu işaretleri herkes değil, arayan ve gören kişi fark eder.",
+  "Bu ayet, sonraki ayetle (21) birlikte bir çift oluşturur: önce dışarıdaki (yeryüzündeki) işaretler, sonra insanın kendi içindeki (nefsindeki) işaretler anlatılır. İkisi birlikte, Allah'ın varlığına dair kanıtların hem dışta hem içte bulunduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "45:4",
+   "meal": "Sizin yaratılışınızda ve yeryüzüne yaydığı canlılarda, kesin bilgiyle inanan bir topluluk için ayetler vardır.",
+   "baglanti": "Aynı 'mûkınîn' (kesin bilgiyle inananlar) ifadesi burada da geçer; yaratılıştaki delillerin ancak onlar tarafından görüldüğü vurgulanır."
+  },
+  {
+   "ref": "30:22",
+   "meal": "Göklerin ve yerin yaratılması, dillerinizin ve renklerinizin farklı olması O'nun ayetlerindendir; bunda bilenler için elbette ayetler vardır.",
+   "baglanti": "Yaratılıştaki çeşitlilik ve düzenin bir delil olması, Zâriyât 20'deki 'yeryüzündeki ayetler' temasıyla aynı çizgidedir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, yeryüzündeki yaratılış delillerinin kesin bilgiyle inananlar tarafından fark edilmesidir. Bu, herkesin aynı şekilde göreceği bir şey değildir; bakış açısına bağlıdır.",
+  "Günlük hayatta aynı manzarayı gören iki kişi farklı şeyler fark edebilir. Bu ayet, çevredeki sıradan görünen şeylere (bir bitki, bir toprak parçası, bir mevsim değişimi) dikkatle bakmayı, onlardaki düzeni görmeyi öğütler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir bitkiye bak",
+   "aciklama": "Bugün bir bitkiyi veya toprağı birkaç dakika dikkatle incele."
+  },
+  {
+   "baslik": "Mevsimi fark et",
+   "aciklama": "Bugün içinde bulunduğun mevsimin bir işaretini (bir yaprak, bir hava değişimi) fark et."
+  },
+  {
+   "baslik": "Sıradanı yeniden gör",
+   "aciklama": "Bugün her gün gördüğün ama dikkat etmediğin bir doğa parçasına yeniden bak."
+  }
+ ],
+ "bugununAdimi": "Bugün dışarıda gördüğün bir bitkiyi veya toprağı birkaç dakika dikkatle incele.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=20"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/20"
+  }
+ ]
+}

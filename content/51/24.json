@@ -1,0 +1,96 @@
+{
+ "sure": 51,
+ "ayet": 24,
+ "durum": "taslak",
+ "meal": "İbrahim'in ikrama layık [ağırlanan] misafirlerinin haberi sana geldi mi?",
+ "mealNotu": "'Hadîs' kökü حدث, haber/olay anlatan bir söz demektir. 'Mükramîn' kökü كرم, ikram edilen, saygıyla ağırlanan anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "soru edatı",
+   "karsilik": "mi"
+  },
+  {
+   "kelime": "أَتَىٰكَ",
+   "okunus": "etâke",
+   "kok": "أتي",
+   "kokAnlam": "gelme, ulaşma",
+   "karsilik": "sana geldi"
+  },
+  {
+   "kelime": "حَدِيثُ",
+   "okunus": "hadîsü",
+   "kok": "حدث",
+   "kokAnlam": "haber, anlatılan olay",
+   "karsilik": "haberi"
+  },
+  {
+   "kelime": "ضَيْفِ",
+   "okunus": "dayfi",
+   "kok": "ضيف",
+   "kokAnlam": "misafir, konuk",
+   "karsilik": "misafirlerinin"
+  },
+  {
+   "kelime": "إِبْرَٰهِيمَ",
+   "okunus": "ibrâhîme",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "İbrahim'in"
+  },
+  {
+   "kelime": "ٱلْمُكْرَمِينَ",
+   "okunus": "elmükramîne",
+   "kok": "كرم",
+   "kokAnlam": "ikram edilen, saygıyla ağırlanan",
+   "karsilik": "ikrama layık [ağırlanan]"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure burada yeni bir bölüme geçer: İbrahim'in misafirlerinin kıssası. Soru biçimindeki bu giriş ('haberi sana geldi mi?'), dikkat çekmek için kullanılan bir Kur'an üslubudur; anlatılacak olayın önemine işaret eder. 'Mükramîn' kelimesi, misafirlerin İbrahim tarafından şerefle ağırlandığını, aynı zamanda onların da şerefli (melek) olduğunu ima eder.",
+  "Bu kıssa, aynı zamanda daha önce Hûd ve Hicr surelerinde de anlatılır. Zâriyât'taki anlatım, İbrahim'in misafirperverliğini ve ardından gelen müjdeyi ele alır; kıssa 25-30. ayetler arasında devam eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:69",
+   "meal": "Andolsun elçilerimiz İbrahim'e müjdeyle geldi, 'Selam' dediler. O da 'Selam' dedi ve hemen kızartılmış bir buzağı getirdi.",
+   "baglanti": "Aynı kıssa Hûd suresinde de anlatılır; İbrahim'in misafirlerini ağırlaması burada da geçer."
+  },
+  {
+   "ref": "15:51",
+   "meal": "Onlara İbrahim'in misafirlerinden haber ver.",
+   "baglanti": "Hicr suresi de aynı kıssaya, Zâriyât 24'teki gibi bir haber verme çağrısıyla başlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, İbrahim'e gelen misafirlerin kıssasına giriştir. Bu, bir kıssa anlatımıdır; hüküm bildiren bir ayet değildir.",
+  "Kıssanın kendisinden çıkarılabilecek genel bir ders, misafire değer vermek ve onu şerefle karşılamaktır. Sonraki ayetler bu değerin somut örneklerini gösterecektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Misafire değer ver",
+   "aciklama": "Bugün evine gelen veya ziyaret ettiğin birine, elinden gelen en güzel ilgiyi göster."
+  },
+  {
+   "baslik": "Kıssayı düşün",
+   "aciklama": "Bugün İbrahim'in misafirlerini nasıl ağırladığını hatırlayarak, kendi misafirperverliğini gözden geçir."
+  },
+  {
+   "baslik": "Beklenmedik bir konuğu ağırla",
+   "aciklama": "Bugün beklemediğin bir ziyaretçi gelirse, onu sıkıntı değil bir fırsat olarak karşıla."
+  }
+ ],
+ "bugununAdimi": "Bugün biriyle karşılaştığında, ona misafirini ağırlar gibi sıcak davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=24"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/24"
+  }
+ ]
+}

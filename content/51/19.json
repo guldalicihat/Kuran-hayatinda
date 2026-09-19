@@ -1,0 +1,89 @@
+{
+ "sure": 51,
+ "ayet": 19,
+ "durum": "taslak",
+ "meal": "Mallarında, isteyenin ve [yoksun kalıp] istemeyenin bir hakkı vardır.",
+ "mealNotu": "'Sâil' kökü سأل isteyip dilenen kişiyi, 'mahrûm' kökü حرم ise istemeyip mahrum kalan kişiyi anlatır. 'Hakk' kökü حقق burada gönüllü bir bağıştan öte, gerçek bir payı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَفِىٓ",
+   "okunus": "ve fî",
+   "kok": "—",
+   "kokAnlam": "ve içinde (edat)",
+   "karsilik": "ve vardır"
+  },
+  {
+   "kelime": "أَمْوَٰلِهِمْ",
+   "okunus": "emvâlihim",
+   "kok": "مول",
+   "kokAnlam": "mal, servet",
+   "karsilik": "mallarında"
+  },
+  {
+   "kelime": "حَقٌّ",
+   "okunus": "hakkun",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçek pay",
+   "karsilik": "bir hak"
+  },
+  {
+   "kelime": "لِّلسَّآئِلِ",
+   "okunus": "lilssâili",
+   "kok": "سأل",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "isteyen için"
+  },
+  {
+   "kelime": "وَٱلْمَحْرُومِ",
+   "okunus": "vel mahrûmi",
+   "kok": "حرم",
+   "kokAnlam": "mahrum kalma, yoksun bırakılma",
+   "karsilik": "ve [yoksun kalıp] istemeyen için"
+  }
+ ],
+ "neAnlatiyor": [
+  "Takva sahiplerinin bir başka özelliği burada anlatılır: mallarında, isteyen kişinin de, istemeyip yoksun kalan kişinin de bir hakkı vardır. 'Hak' kelimesi, bunun gönüllü bir lütuf değil, gerçek bir pay olduğunu vurgular.",
+  "'Mahrûm' kelimesi özellikle dikkat çekicidir: bu, dilenmeyen ama ihtiyacı olan kişidir; utancından veya onurundan dolayı istemeyen biri olabilir. Ayet, yalnız açıkça isteyeni değil, sessizce yoksun kalanı da gözetmeyi öğütler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "70:25",
+   "meal": "İsteyen ve [yoksun kalıp] istemeyen için.",
+   "baglanti": "Mearic suresindeki bu ifade, Zâriyât 19'daki cümlenin neredeyse birebir tekrarıdır; iki ayet de mal hakkında aynı iki grubun hakkını anlatır."
+  },
+  {
+   "ref": "2:177",
+   "meal": "İyilik, malını sevdiği halde yakınlara, yetimlere, yoksullara, yolda kalmışa, isteyenlere ve köle azadına vermektir.",
+   "baglanti": "Mal üzerindeki bu hak, Bakara 177'de daha geniş bir liste hâlinde sayılır; Zâriyât 19'daki genel ilkenin somut örnekleridir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, maldaki bir hak olup gönüllü bağıştan farklıdır; isteyenin de istemeyip yoksun kalanın da bu haktan pay alması gerekir.",
+  "Günlük hayatta yalnız açıkça isteyene değil, sessizce ihtiyaç içinde olana da dikkat etmek gerekir. Bu, çevrende kimin gerçekten zor durumda olduğunu fark etmeyi, sormadan da yardım etmeyi öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sessiz ihtiyacı fark et",
+   "aciklama": "Bugün çevrende, istemeyen ama ihtiyacı olabilecek birini düşün ve ona yardım et."
+  },
+  {
+   "baslik": "Hakkını ayır",
+   "aciklama": "Bugün malından küçük bir kısmı, isteyen birine vermek üzere kenara ayır."
+  },
+  {
+   "baslik": "Malın geçiciliğini hatırla",
+   "aciklama": "Bugün elindeki malın sana emanet olduğunu, bir gün geride kalacağını hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün malından küçük bir kısmı ihtiyaç sahibi birine ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=19"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/19"
+  }
+ ]
+}

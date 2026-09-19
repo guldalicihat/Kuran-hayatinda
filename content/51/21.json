@@ -1,0 +1,82 @@
+{
+ "sure": 51,
+ "ayet": 21,
+ "durum": "taslak",
+ "meal": "Kendi nefislerinizde de [ayetler vardır]; hâlâ görmüyor musunuz?",
+ "mealNotu": "Bir önceki ayette geçen 'âyâtün' kelimesi burada tekrar edilmeden anlaşılır (îcâz); bu yüzden [ayetler vardır] köşeli parantez içindedir. 'Tübsırûn' kökü بصر, yalnız gözle görmeyi değil, kavrayarak görmeyi de anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَفِىٓ",
+   "okunus": "ve fî",
+   "kok": "—",
+   "kokAnlam": "ve içinde (edat)",
+   "karsilik": "ve vardır"
+  },
+  {
+   "kelime": "أَنفُسِكُمْ",
+   "okunus": "enfüsiküm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik, kişinin kendisi",
+   "karsilik": "kendi nefislerinizde"
+  },
+  {
+   "kelime": "أَفَلَا",
+   "okunus": "efelâ",
+   "kok": "—",
+   "kokAnlam": "hâlâ değil mi (soru + olumsuzluk)",
+   "karsilik": "hâlâ"
+  },
+  {
+   "kelime": "تُبْصِرُونَ",
+   "okunus": "tübsırûne",
+   "kok": "بصر",
+   "kokAnlam": "görme, kavrayarak görme, basiret",
+   "karsilik": "görmüyor musunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette yeryüzündeki işaretlerden söz edilmişti; bu ayet aynı işaretlerin insanın kendi bünyesinde de bulunduğunu söyler. 'Enfüs' kelimesi, kişinin kendi varlığını, bedenini ve iç dünyasını kapsar. 'Tübsırûn' fiili yalnız gözle bakmayı değil, görüp anlamayı, basiretle kavramayı anlatır.",
+  "Soru biçimindeki bu ifade ('görmüyor musunuz?'), bir kınama ve teşvik içerir: insan, kendi yaratılışındaki incelikleri görmezden geliyor olabilir. Bu, dışarıdaki delilleri ararken kendi içindeki en yakın delili atlamamak gerektiğini hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "41:53",
+   "meal": "Onlara ufuklarda ve kendi nefislerinde ayetlerimizi göstereceğiz; ta ki Kur'an'ın hak olduğu onlara iyice belli olsun.",
+   "baglanti": "Aynı 'enfüs' (nefisler) kelimesi burada da geçer; dışarıdaki ve içerideki delillerin birlikte gösterileceği vaad edilir."
+  },
+  {
+   "ref": "75:36",
+   "meal": "İnsan, başıboş bırakılacağını mı sanır?",
+   "baglanti": "İnsanın kendi varlığını ve amacını düşünmeye çağrılması, Zâriyât 21'deki 'kendi nefsinde görmüyor musun?' sorusuyla aynı tefekkür temasını taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insanın kendi bedenini ve varlığını düşünmeye çağrılmasıdır. Bu, dışarıya bakmadan önce, en yakın delilin kişinin kendisinde olduğunu hatırlatır.",
+  "Günlük hayatta insan, nefes alışını, kalbinin atışını, bedeninin işleyişini fark etmeden yaşar. Bir an durup bunları düşünmek, sıradan görünen bir bedenin aslında ne kadar hassas bir düzenle çalıştığını gösterir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Nefesini fark et",
+   "aciklama": "Bugün birkaç dakika sadece nefes alışını izle ve bunun bir düzen içinde işlediğini düşün."
+  },
+  {
+   "baslik": "Bedenine şükret",
+   "aciklama": "Bugün sağlıklı çalışan bir organını (göz, el, kalp) fark edip ona şükret."
+  },
+  {
+   "baslik": "Kendi hikâyeni düşün",
+   "aciklama": "Bugün nereden geldiğini, nasıl var olduğunu bir an düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün birkaç dakika ayırıp sessizce kendi nefes alışını ve kalp atışını fark et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=21"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/21"
+  }
+ ]
+}
