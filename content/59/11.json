@@ -1,0 +1,250 @@
+{
+ "sure": 59,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "Münafıklık edenleri görmedin mi? Kitap ehlinden inkâr eden kardeşlerine derler ki: 'Andolsun, eğer çıkarılırsanız biz de sizinle birlikte çıkarız; sizin aleyhinizde hiçbir kimseye asla itaat etmeyiz; eğer savaşa tutulursanız mutlaka size yardım ederiz.' Oysa Allah şahitlik eder ki onlar mutlaka yalancıdırlar.",
+ "mealNotu": "'Nâfekû' (nifak) kökü, içi ile dışı farklı olma, iki yüzlülük anlamındadır. Cümle bir soru kalıbıyla başladığı için 'görmedin mi' şeklinde çevrildi.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) ...görmedin mi",
+   "karsilik": "görmedin mi"
+  },
+  {
+   "kelime": "تَرَ",
+   "okunus": "tera",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "gördün"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimseleri",
+   "karsilik": "kimseleri"
+  },
+  {
+   "kelime": "نَافَقُوا۟",
+   "okunus": "nâfekû",
+   "kok": "نفق",
+   "kokAnlam": "iki yüzlülük, nifak",
+   "karsilik": "münafıklık edenler"
+  },
+  {
+   "kelime": "يَقُولُونَ",
+   "okunus": "yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "لِإِخْوَٰنِهِمُ",
+   "okunus": "liihvânihimü",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "kardeşlerine"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ki onlar",
+   "karsilik": "ki onlar"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "inkâr ettiler"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَهْلِ",
+   "okunus": "ehli",
+   "kok": "أهل",
+   "kokAnlam": "ehil, halk, sahip",
+   "karsilik": "ehlinden"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "kitap"
+  },
+  {
+   "kelime": "لَئِنْ",
+   "okunus": "lein",
+   "kok": "—",
+   "kokAnlam": "(şart edatı) andolsun eğer",
+   "karsilik": "andolsun eğer"
+  },
+  {
+   "kelime": "أُخْرِجْتُمْ",
+   "okunus": "ührictüm",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, çıkarma",
+   "karsilik": "çıkarılırsanız"
+  },
+  {
+   "kelime": "لَنَخْرُجَنَّ",
+   "okunus": "lenahrucenne",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, çıkarma",
+   "karsilik": "mutlaka çıkarız"
+  },
+  {
+   "kelime": "مَعَكُمْ",
+   "okunus": "meaküm",
+   "kok": "—",
+   "kokAnlam": "(mekân zarfı) sizinle birlikte",
+   "karsilik": "sizinle birlikte"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) ve asla",
+   "karsilik": "ve asla"
+  },
+  {
+   "kelime": "نُطِيعُ",
+   "okunus": "nütîu",
+   "kok": "طوع",
+   "kokAnlam": "itaat etme",
+   "karsilik": "itaat etmeyiz"
+  },
+  {
+   "kelime": "فِيكُمْ",
+   "okunus": "fîküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizin hakkınızda",
+   "karsilik": "sizin hakkınızda"
+  },
+  {
+   "kelime": "أَحَدًا",
+   "okunus": "ehaden",
+   "kok": "أحد",
+   "kokAnlam": "birlik, bir kimse",
+   "karsilik": "hiçbir kimseye"
+  },
+  {
+   "kelime": "أَبَدًا",
+   "okunus": "ebeden",
+   "kok": "أبد",
+   "kokAnlam": "süreklilik, ebediyet",
+   "karsilik": "asla"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart edatı) ve eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "قُوتِلْتُمْ",
+   "okunus": "kûtiltüm",
+   "kok": "قتل",
+   "kokAnlam": "öldürme, savaş",
+   "karsilik": "savaşa tutulursanız"
+  },
+  {
+   "kelime": "لَنَنصُرَنَّكُمْ",
+   "okunus": "lenensuranneküm",
+   "kok": "نصر",
+   "kokAnlam": "yardım etme, zafer",
+   "karsilik": "mutlaka size yardım ederiz"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "oysa Allah"
+  },
+  {
+   "kelime": "يَشْهَدُ",
+   "okunus": "yeşhedü",
+   "kok": "شهد",
+   "kokAnlam": "şahitlik etme",
+   "karsilik": "şahitlik eder"
+  },
+  {
+   "kelime": "إِنَّهُمْ",
+   "okunus": "innehüm",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz onlar",
+   "karsilik": "şüphesiz onlar"
+  },
+  {
+   "kelime": "لَكَٰذِبُونَ",
+   "okunus": "lekâzibûne",
+   "kok": "كذب",
+   "kokAnlam": "yalan söyleme",
+   "karsilik": "mutlaka yalancıdırlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, münafıkların kitap ehlinden inkâr eden 'kardeşlerine' (aynı safta durdukları kimselere) gizlice verdikleri destek sözünü anlatır: eğer sürülürlerse onlarla birlikte çıkacaklarını, kimseye itaat etmeyeceklerini, savaşta yardım edeceklerini söylerler.",
+  "Ayet bu sözlerin arkasında durmayacaklarını, Allah'ın bizzat şahitlik ettiği üzere yalancı olduklarını bildirir; söz ile eylem arasındaki bu çelişki, sonraki ayette açıkça gösterilecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "63:1",
+   "meal": "Münafıklar sana geldiklerinde: 'Senin gerçekten Allah'ın Resûlü olduğuna şahitlik ederiz' derler... Allah şahitlik eder ki münafıklar mutlaka yalancıdırlar.",
+   "baglanti": "'Allah şahitlik eder ki... yalancıdırlar' ifadesi iki ayette de aynıdır; münafıkların sözle destek göstermesinin özde yalan olduğu tekrar vurgulanır."
+  },
+  {
+   "ref": "3:167",
+   "meal": "...Ağızlarıyla, kalplerinde olmayanı söylüyorlardı. Allah onların gizlediğini en iyi bilendir.",
+   "baglanti": "Söz ile kalpteki gerçek arasındaki çelişki burada da anlatılır; münafıkların verdiği sözlerin içtenlikten yoksun olduğu vurgusu ortaktır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, tarihte belirli bir grup münafığın kitap ehline verdiği boş vaattir.",
+  "Genel ders şudur: söz ile eylemin tutarlı olması gerekir; bugün de verdiğimiz sözlerin arkasında durmak, boş vaatlerde bulunmamak bu ayetin evrensel bir uyarısıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü tut",
+   "aciklama": "Bugün verdiğin bir sözü hatırlayıp onu yerine getir."
+  },
+  {
+   "baslik": "Boş vaatte bulunma",
+   "aciklama": "Yerine getiremeyeceğin bir söz vermek yerine bugün dürüstçe konuş."
+  },
+  {
+   "baslik": "İçini dışına uydur",
+   "aciklama": "Bugün söylediğin bir şeyi, kalbinden geçenle karşılaştır."
+  }
+ ],
+ "bugununAdimi": "Bugün, yerine getiremeyeceğini bildiğin bir söz vermekten kaçın.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=59&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/59/11"
+  }
+ ]
+}
