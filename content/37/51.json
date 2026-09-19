@@ -1,0 +1,103 @@
+{
+ "sure": 37,
+ "ayet": 51,
+ "durum": "taslak",
+ "meal": "İçlerinden biri şöyle der: 'Benim [dünyada] bir yakın arkadaşım vardı.'",
+ "mealNotu": "'Karîn' kökü (قرن) eşleşme, bağlanma anlamındadır; yakın, sürekli birlikte olunan arkadaşı ifade eder. '[Dünyada]' ifadesi, anlatının akışından (geçmiş zaman, hatırlama) çıkarılıp köşeli parantezle eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "der"
+  },
+  {
+   "kelime": "قَآئِلٌ",
+   "okunus": "kâilün",
+   "kok": "قول",
+   "kokAnlam": "söyleyen, konuşan",
+   "karsilik": "biri"
+  },
+  {
+   "kelime": "مِّنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) içlerinden",
+   "karsilik": "içlerinden"
+  },
+  {
+   "kelime": "إِنِّى",
+   "okunus": "innî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten ben",
+   "karsilik": "gerçekten benim"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "vardı"
+  },
+  {
+   "kelime": "لِى",
+   "okunus": "lî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) benim için",
+   "karsilik": "benim"
+  },
+  {
+   "kelime": "قَرِينٌ",
+   "okunus": "karînün",
+   "kok": "قرن",
+   "kokAnlam": "yakın arkadaş, eş, bağlı olunan kişi",
+   "karsilik": "bir yakın arkadaşım"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 50. ayetteki soru-cevap sahnesinin içeriğini açmaya başlar: cennet ehlinden biri, dünyadaki bir arkadaşını hatırlar. 'Karîn' kelimesi, sıradan bir tanıdıktan çok, sürekli birlikte olunan, yakın bir dostu anlatır.",
+  "Bu girişten sonra gelecek ayetler, bu arkadaşın ne söylediğini aktaracaktır. Klasik tefsir, bu hatırlamanın kimlik belirtmeden, genel bir sahne olarak anlatıldığını; amacın belirli bir kişiyi teşhir etmek değil, bir ibret sahnesi sunmak olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "43:67",
+   "meal": "O gün, Allah'a karşı gelmekten sakınanlar dışında, dost olanlar birbirine düşmandır.",
+   "baglanti": "Bu ayet, 37:51'de anılan arkadaşlığın ahiretteki olası akıbetini önceden özetler."
+  },
+  {
+   "ref": "25:28",
+   "meal": "Eyvah bana! Keşke falancayı dost edinmeseydim.",
+   "baglanti": "Furkân suresinde de bir kişinin, kendisini yanlış yola sürükleyen bir dostundan pişmanlıkla söz ettiği bir sahne geçer; iki anlatı da dostluğun ahiretteki sonucuna dikkat çeker."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, dünyadaki bir dostluğun ahirette hatırlanmasıdır.",
+  "Bugüne taşınabilecek ders, kurduğun arkadaşlıkların seni nereye götürdüğünü düşünmektir. Bir dostluk, seni iyiye mi yoksa gaflete mi yaklaştırıyor; bu sorunun cevabı, uzun vadede önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Arkadaşlıklarını gözden geçir",
+   "aciklama": "Bugün, hangi arkadaşlığın seni iyiye, hangisinin kötüye yönelttiğini kısaca düşün."
+  },
+  {
+   "baslik": "İyi bir dostu ara",
+   "aciklama": "Bugün, seni gerçekten destekleyen bir arkadaşına ulaş, hal hatır sor."
+  },
+  {
+   "baslik": "Kendi etkini düşün",
+   "aciklama": "Bugün, kendinin bir başkasına nasıl bir arkadaş olduğunu düşün: yönlendirdiğin yön iyi mi?"
+  }
+ ],
+ "bugununAdimi": "Bugün, uzun süredir konuşmadığın iyi bir arkadaşına kısa bir mesaj at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=51"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/51"
+  }
+ ]
+}

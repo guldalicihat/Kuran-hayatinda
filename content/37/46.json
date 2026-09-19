@@ -1,0 +1,75 @@
+{
+ "sure": 37,
+ "ayet": 46,
+ "durum": "taslak",
+ "meal": "O kadeh bembeyazdır, içenlere lezzet verir.",
+ "mealNotu": "Ayet, önceki ayetteki kadehin niteliklerini anlatmaya devam eder; 'O kadeh' ifadesi bağlamdan anlaşılsa da akıcılık için köşeli parantezsiz eklenmiştir. 'Beyâz' kökü rengi, 'lezzet' kökü tadı, 'şürb' kökü içme eylemini anlatır.",
+ "kokler": [
+  {
+   "kelime": "بَيْضَآءَ",
+   "okunus": "beydâe",
+   "kok": "بيض",
+   "kokAnlam": "beyazlık, parlaklık",
+   "karsilik": "bembeyaz"
+  },
+  {
+   "kelime": "لَذَّةٍ",
+   "okunus": "lezzetin",
+   "kok": "لذذ",
+   "kokAnlam": "lezzet, tatlılık, haz",
+   "karsilik": "lezzet veren"
+  },
+  {
+   "kelime": "لِّلشَّٰرِبِينَ",
+   "okunus": "lilşşâribîne",
+   "kok": "شرب",
+   "kokAnlam": "içme, içenler",
+   "karsilik": "içenlere"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, kadehteki içeceğin görünüşünü (bembeyaz) ve etkisini (lezzet) birlikte verir. Dünyadaki bazı beyaz içeceklerin tadıyla ilgili çağrışımların aksine, burada beyazlık saflığı, lezzet ise kusursuz bir tadı işaret eder.",
+  "Ayetin sonu, bu lezzetin 'içenler için' olduğunu vurgular; yani tadın öznesi, onu tüketen kişidir. Bu ince vurgu, bir sonraki ayette gelecek olan zararsızlık vurgusuna zemin hazırlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "83:26",
+   "meal": "Onun mührü misktir; işte yarışanlar bunun için yarışsın.",
+   "baglanti": "Saflık ve lezzet vurgusu iki ayette de ortaktır; 83. ayetteki 'yarışsınlar' çağrısı, bu nimetin değerine işaret eder."
+  },
+  {
+   "ref": "47:15",
+   "meal": "...içenlere lezzet veren, tadı bozulmayan bir sütten ırmaklar...",
+   "baglanti": "Muhammed suresindeki bu tasvir, aynı 'lezzet' kelimesini ve cennetteki içeceklerin kalıcı, bozulmayan niteliğini paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu yine ahiretteki bir nimetin niteliğidir.",
+  "Bugüne taşınabilecek ders, bir şeyin sadece var olmasının değil, kaliteli ve zararsız olmasının da önemidir. Birine bir şey sunarken, miktardan çok niteliğe özen göstermek bu ayetin ruhuna yakındır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugün bir şeyi özenle hazırla",
+   "aciklama": "Birine sunacağın bir yemeği veya içeceği, alelacele değil, özenle hazırla."
+  },
+  {
+   "baslik": "Sadeliği fark et",
+   "aciklama": "Bugün içtiğin suyun veya çayın tadını, aceleye getirmeden fark ederek iç."
+  },
+  {
+   "baslik": "Kaliteyi miktara tercih et",
+   "aciklama": "Bugün bir işte, çok yapmak yerine iyi yapmayı seç."
+  }
+ ],
+ "bugununAdimi": "Bugün bir öğününü, telefonsuz ve aceleyle değil, tadını fark ederek ye.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=46"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/46"
+  }
+ ]
+}

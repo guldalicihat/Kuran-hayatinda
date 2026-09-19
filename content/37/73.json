@@ -1,0 +1,89 @@
+{
+ "sure": 37,
+ "ayet": 73,
+ "durum": "taslak",
+ "meal": "Bak, uyarılmış olanların sonu nasıl oldu.",
+ "mealNotu": "'Nazar' kökü (نظر) bakmayı, dikkatle incelemeyi anlatır. 'Âkıbe' kökü (عقب) sonucu, bir şeyin ardından geleni ifade eder.",
+ "kokler": [
+  {
+   "kelime": "فَٱنظُرْ",
+   "okunus": "fenzur",
+   "kok": "نظر",
+   "kokAnlam": "bakma, dikkatle inceleme",
+   "karsilik": "bak"
+  },
+  {
+   "kelime": "كَيْفَ",
+   "okunus": "keyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldu"
+  },
+  {
+   "kelime": "عَٰقِبَةُ",
+   "okunus": "âkıbetü",
+   "kok": "عقب",
+   "kokAnlam": "sonuç, akıbet",
+   "karsilik": "sonu"
+  },
+  {
+   "kelime": "ٱلْمُنذَرِينَ",
+   "okunus": "elmünzerîne",
+   "kok": "نذر",
+   "kokAnlam": "uyarılmış olanlar",
+   "karsilik": "uyarılmış olanların"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 72'de gönderilen uyarıcıların ardından, o uyarılan toplumların akıbetine dikkat çeker. 'Bak' emri, dinleyiciyi pasif bir dinleyici olmaktan çıkarıp, tarihsel gerçeklik üzerinde aktif olarak düşünmeye davet eder.",
+  "Klasik tefsir, bu ayeti, geçmiş toplumların yıkılışının somut örneklerine işaret ettiğini belirtir; burada isim verilmez, genel bir çağrı yapılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:11",
+   "meal": "De ki: 'Yeryüzünde dolaşın da yalanlayanların sonunun nasıl olduğuna bakın.'",
+   "baglanti": "En'âm suresindeki bu ayet, aynı bak ve gör çağrısını, somut bir gezinti önerisiyle destekler."
+  },
+  {
+   "ref": "30:9",
+   "meal": "Yeryüzünde dolaşıp, kendilerinden öncekilerin sonunun nasıl olduğuna bakmadılar mı?...",
+   "baglanti": "Rûm suresi de aynı çağrıyı tekrarlayarak, geçmişten ders çıkarmanın önemine vurgu yapar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, geçmiş toplumların akıbetinden ders çıkarma çağrısıdır.",
+  "Bugüne taşınabilecek ders, tarihten öğrenmenin değeridir. Yalnız kendi hatalarından değil, başkalarının veya geçmiş toplumların hatalarından da ders çıkarmak, aynı sonu yaşamaktan koruyabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir örnekten ders çıkar",
+   "aciklama": "Bugün, tanıdığın birinin veya bir toplumun yaşadığı bir hatadan somut bir ders çıkar."
+  },
+  {
+   "baslik": "Tarihe göz at",
+   "aciklama": "Bugün, geçmişte yaşanmış bir olay hakkında kısa bir araştırma yap."
+  },
+  {
+   "baslik": "Kendi izini düşün",
+   "aciklama": "Bugün, bugünkü tercihlerinin senin için nasıl bir sonuç hazırladığını bir kez düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün, geçmişte benzer bir hatayı yapıp kötü sonuç alan birinden somut bir ders çıkar ve yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=73"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/73"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "sure": 37,
+ "ayet": 56,
+ "durum": "taslak",
+ "meal": "[Ona döner ve] der ki: 'Allah'a yemin ederim, az kalsın beni de mahvedecektin.'",
+ "mealNotu": "'Rediye' kökü (ردي) düşürme, mahvetme, helak etmeyi anlatır. '[Ona döner ve]' ifadesi, sahnenin akışını netleştirmek için köşeli parantezle eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "der"
+  },
+  {
+   "kelime": "تَٱللَّهِ",
+   "okunus": "tallâhi",
+   "kok": "أله",
+   "kokAnlam": "Allah'a yemin",
+   "karsilik": "Allah'a yemin ederim"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) gerçekten, doğrusu",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "كِدتَّ",
+   "okunus": "kidtte",
+   "kok": "كود",
+   "kokAnlam": "neredeyse yapma, az kalsın",
+   "karsilik": "az kalsın"
+  },
+  {
+   "kelime": "لَتُرْدِينِ",
+   "okunus": "letürdîni",
+   "kok": "ردي",
+   "kokAnlam": "mahvetme, düşürme, helak etme",
+   "karsilik": "beni de mahvedecektin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, cennetteki kişinin, cehennemde gördüğü eski arkadaşına seslenişini anlatır. 'Redâ' kökü, birini uçurumdan düşürüp helak etmeyi ifade eder; kişi, o arkadaşının alaycı sorularının kendisini de aynı sona sürükleyebileceğini itiraf eder.",
+  "Bu ifade, bir yandan geçmişteki tehlikeyi hatırlatır, bir yandan da bundan kurtulmuş olmanın şükrünü taşır. Sonraki ayet bu şükrü açıkça dile getirecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:29",
+   "meal": "Andolsun ki beni, bana geldikten sonra zikirden (Kur'an'dan) saptırdı.",
+   "baglanti": "Furkân suresinde de bir kişi, kendisini yoldan çıkaran bir arkadaşından benzer bir pişmanlıkla söz eder; iki ayet de yanlış bir arkadaşlığın tehlikesine değinir."
+  },
+  {
+   "ref": "43:67",
+   "meal": "O gün, Allah'a karşı gelmekten sakınanlar dışında, dost olanlar birbirine düşmandır.",
+   "baglanti": "Bu ayet, 37:56'daki sahnenin arka planını özetler: yakın bir dostluk, yanlış yönde de etkili olabilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bir arkadaşlığın kişiyi yanlış yola sürükleyebilme tehlikesidir.",
+  "Bugüne taşınabilecek ders, çevrenin etkisini küçümsememektir. Kiminle vakit geçirdiğin, hangi fikirlere maruz kaldığın, zamanla senin düşüncelerini de şekillendirir; bu farkındalık, seçici davranmayı gerektirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Etkini fark et",
+   "aciklama": "Bugün, seni olumsuz yönde etkileyen bir arkadaşlığı veya alışkanlığı fark et."
+  },
+  {
+   "baslik": "Şükretmeyi unutma",
+   "aciklama": "Bugün, geçmişte seni kötü bir sondan koruyan bir şeyi (bir karar, bir kişi) hatırla ve şükret."
+  },
+  {
+   "baslik": "Etrafını seç",
+   "aciklama": "Bugün, vaktini seni iyiye yönelten biriyle geçirmeye özen göster."
+  }
+ ],
+ "bugununAdimi": "Bugün, seni olumsuz etkileyen bir konuşma veya ortamdan bilerek uzak dur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=56"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/56"
+  }
+ ]
+}

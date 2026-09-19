@@ -1,0 +1,75 @@
+{
+ "sure": 37,
+ "ayet": 42,
+ "durum": "taslak",
+ "meal": "Meyveler! Onlar ikram gören kimselerdir.",
+ "mealNotu": "Ayet, önceki ayetteki rızkı meyvelerle somutlaştırır. 'Mükramûn' kökü (كرم) yalnız iyi karşılanmayı değil, değer görerek ağırlanmayı anlatır; bu yüzden 'ikram gören' denmiştir.",
+ "kokler": [
+  {
+   "kelime": "فَوَٰكِهُ",
+   "okunus": "fevâkihü",
+   "kok": "فكه",
+   "kokAnlam": "meyve, lezzetli yiyecek",
+   "karsilik": "meyveler"
+  },
+  {
+   "kelime": "وَهُم",
+   "okunus": "ve hüm",
+   "kok": "—",
+   "kokAnlam": "(bağlaç+zamir) ve onlar",
+   "karsilik": "ve onlar"
+  },
+  {
+   "kelime": "مُّكْرَمُونَ",
+   "okunus": "mükramûne",
+   "kok": "كرم",
+   "kokAnlam": "cömertlik, onurlandırma; ikram edilmiş",
+   "karsilik": "ikram gören kimselerdir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu kısa ayet iki unsuru bir araya getirir: somut bir nimet (meyveler) ve bir statü (ikram görmek). 'Kerem' kökü Arapçada cömertlikle saygıyı birleştirir; bir şeyin 'kerîm' olması hem değerli hem de onurlu karşılandığı anlamına gelir.",
+  "Böylece cennet ehlinin aldığı, sadece bir ihtiyacın karşılanması değil, aynı zamanda bir saygı göstergesidir. Klasik tefsir bu ifadeyi, dünyada Allah yolunda güçlükle karşılaşan müminlerin ahirette bunun tam tersini, yani onur ve ikramı bulacağı şeklinde okur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "70:35",
+   "meal": "İşte onlar cennetlerde ikram görenlerdir.",
+   "baglanti": "Aynı 'mükramûn' ifadesi burada da geçer; iki ayet birlikte, ikramın müminler için tekrarlanan bir vaat olduğunu gösterir."
+  },
+  {
+   "ref": "56:21",
+   "meal": "Ve iştahlarının çektiğinden kuş eti.",
+   "baglanti": "Meyve teması burada da geçer; cennet ikramının çeşitliliğini ve kişinin isteğine göre şekillendiğini gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu yine ahiret nimetidir, ama burada özellikle 'ikram görme' fikri öne çıkar.",
+  "Günlük hayata taşınabilecek ders, hem ikram görmenin hem ikram etmenin değeridir. Birine sadece ihtiyacını karşılamak değil, onu onurlandıracak şekilde davranmak, bu ayetin ruhuna yakın bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugün birini ikramla karşıla",
+   "aciklama": "Eve gelen ya da yanına gelen birine, alışkanlığının ötesinde bir özenle davran."
+  },
+  {
+   "baslik": "Kendi emeğine saygı duy",
+   "aciklama": "Bugün yaptığın bir işi, sadece bitirmek için değil, iyi yapmak için biraz daha özenle tamamla."
+  },
+  {
+   "baslik": "Teşekkürü göster",
+   "aciklama": "Sana bir iyilik yapana bugün açıkça teşekkür et, karşılığını hemen unutma."
+  }
+ ],
+ "bugununAdimi": "Bugün bir misafirine veya yanındaki birine, sözlü teşekkürün ötesinde küçük bir ikramda bulun.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=42"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/42"
+  }
+ ]
+}

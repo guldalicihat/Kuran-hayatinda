@@ -1,0 +1,89 @@
+{
+ "sure": 37,
+ "ayet": 45,
+ "durum": "taslak",
+ "meal": "Kendilerine, tükenmez bir kaynaktan [doldurulmuş] bir kadeh dolaştırılır.",
+ "mealNotu": "'Tavaf' kökü (طوف) dönme/dolaşmayı anlatır; kadehin sürekli getirilip götürüldüğünü ima eder. 'Meîn' (kök عين), kaynağından akan, tükenmeyen suyu anlatır; 'doldurulmuş' ifadesi köşeli parantez içinde eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "يُطَافُ",
+   "okunus": "yütâfü",
+   "kok": "طوف",
+   "kokAnlam": "dönme, dolaşma, etrafında gezinme",
+   "karsilik": "dolaştırılır"
+  },
+  {
+   "kelime": "عَلَيْهِم",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "بِكَأْسٍ",
+   "okunus": "bike'sin",
+   "kok": "كأس",
+   "kokAnlam": "kadeh, içki kabı",
+   "karsilik": "bir kadeh"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "مَّعِينٍۭ",
+   "okunus": "meînim",
+   "kok": "عين",
+   "kokAnlam": "kaynak, göz; kendiliğinden akan tükenmez su",
+   "karsilik": "tükenmez bir kaynaktan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, cennet ehlinin ikramının bir başka boyutunu, kadehle sunulan içeceği anlatır. 'Tavaf' kökünün kullanılması, hizmetin sürekli ve zahmetsiz olduğunu; kadehin kendiliğinden, istenmeden dolaştığını gösterir.",
+  "'Meîn', kuyudan çekilen değil, kendiliğinden akan bir kaynağı anlatır; bu da cennetteki içeceğin tükenmeyeceğine işaret eder. Sonraki ayetler bu içeceğin niteliklerini (beyazlık, lezzet) ekleyerek tasviri tamamlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "76:6",
+   "meal": "Allah'ın kulları, onunla [istedikleri gibi] fışkırtarak akıttıkları bir kaynaktan içerler.",
+   "baglanti": "Kadehin içeriğinin kontrolü kişinin elinde olması, 37:45'teki 'tükenmez kaynak' fikrini tamamlar."
+  },
+  {
+   "ref": "83:25",
+   "meal": "Onlara mühürlü, saf bir içecekten içirilir.",
+   "baglanti": "Cennet içeceğinin özel ve saf oluşu, iki ayette de vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, ahiretteki bir ikram sahnesidir; dünyada birebir karşılığı yoktur.",
+  "Bugüne taşınabilecek ders, ikramın zahmetsiz ve gönülden olması gerektiğidir. Birine bir şey ikram ederken, onu bekletmeden, gönülden sunmak, cennetteki bu hizmet anlayışının küçük bir yansıması olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zahmetsiz bir ikramda bulun",
+   "aciklama": "Bugün birine, ondan istenmeden, kendiliğinden bir ikramda bulun (bir çay, bir yardım)."
+  },
+  {
+   "baslik": "Su içmeyi fark et",
+   "aciklama": "Bugün bir bardak su içerken, bu basit nimetin senin için ne kadar hayati olduğunu düşün."
+  },
+  {
+   "baslik": "Paylaşımı kolaylaştır",
+   "aciklama": "Elindeki bir şeyi paylaşırken, karşındakini minnet duymaya zorlamadan, doğal bir şekilde ikram et."
+  }
+ ],
+ "bugununAdimi": "Bugün evinde veya iş yerinde birine, hiçbir şey beklemeden bir içecek ikram et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=45"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/45"
+  }
+ ]
+}
