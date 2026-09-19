@@ -1,0 +1,67 @@
+name: Facebook ve Instagram'da otomatik paylaşım
+on:
+  schedule:
+    # Günde 1 kez, İstanbul saatiyle (UTC+3) 10:00 = UTC 07:00
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Gerçekten paylaşmadan sadece dene (dry-run)'
+        type: boolean
+        default: false
+      platform:
+        description: 'Hangi platform(lar)a paylaşılsın'
+        type: choice
+        options: [ikisi de, sadece facebook, sadece instagram]
+        default: ikisi de
+permissions:
+  contents: write
+concurrency:
+  group: sosyal-medya-meta
+  cancel-in-progress: false
+jobs:
+  paylas:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install requests playwright
+      - run: playwright install --with-deps chromium
+      - name: Site verisini üret (chapters.json vb.)
+        run: python3 scripts/build_data.py
+      - name: Facebook'a paylaş
+        if: ${{ github.event.inputs.platform != 'sadece instagram' }}
+        env:
+          FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
+          FACEBOOK_PAGE_ACCESS_TOKEN: ${{ secrets.FACEBOOK_PAGE_ACCESS_TOKEN }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          python3 scripts/social/publish_facebook.py $ARGS
+      - name: Instagram'a paylaş
+        if: ${{ github.event.inputs.platform != 'sadece facebook' }}
+        env:
+          INSTAGRAM_BUSINESS_ACCOUNT_ID: ${{ secrets.INSTAGRAM_BUSINESS_ACCOUNT_ID }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          python3 scripts/social/publish_instagram.py $ARGS
+      - name: Paylaşım kaydını commit'le
+        run: |
+          git config user.name "kuran-hayatinda-bot"
+          git config user.email "actions@github.com"
+          git add social/posted_log.json
+          if ! git diff --cached --quiet -- social/posted_log.json; then
+            git commit -m "Sosyal medya: Facebook/Instagram paylaşım kaydı güncellendi [otomatik]"
+            for i in 1 2 3 4 5; do
+              if git push; then
+                break
+              fi
+              echo "Push reddedildi (muhtemelen main ilerledi), rebase edip tekrar deneniyor ($i/5)..."
+              git fetch origin main
+              git rebase origin/main
+              sleep 3
+            done
+          fi
