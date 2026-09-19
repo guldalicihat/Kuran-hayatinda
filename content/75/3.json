@@ -1,0 +1,89 @@
+{
+ "sure": 75,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "İnsan, kemiklerini asla bir araya toplayamayacağımızı mı sanıyor?",
+ "mealNotu": "'Hasibe' kökü sanmayı, zannetmeyi; 'cem' kökü toplamayı, bir araya getirmeyi anlatır. Ayet, öldükten sonra dirilmeyi inkâr edenlerin bu zannını soru şeklinde aktarır.",
+ "kokler": [
+  {
+   "kelime": "أَيَحْسَبُ",
+   "okunus": "eyahsebü",
+   "kok": "حسب",
+   "kokAnlam": "sanma, zannetme, hesap etme",
+   "karsilik": "mı sanıyor"
+  },
+  {
+   "kelime": "ٱلْإِنسَٰنُ",
+   "okunus": "el'insânü",
+   "kok": "أنس",
+   "kokAnlam": "insan, unutkan/canlı varlık",
+   "karsilik": "insan"
+  },
+  {
+   "kelime": "أَلَّن",
+   "okunus": "ellen",
+   "kok": "—",
+   "kokAnlam": "asla ... olmayacağını (bağlaç)",
+   "karsilik": "asla ... olmayacağını"
+  },
+  {
+   "kelime": "نَّجْمَعَ",
+   "okunus": "necmea",
+   "kok": "جمع",
+   "kokAnlam": "toplama, bir araya getirme",
+   "karsilik": "toplayacağımızı"
+  },
+  {
+   "kelime": "عِظَامَهُۥ",
+   "okunus": "izâmehû",
+   "kok": "عظم",
+   "kokAnlam": "kemik",
+   "karsilik": "kemiklerini"
+  }
+ ],
+ "neAnlatiyor": [
+  "İki yeminden sonra sure, asıl konusuna geçer: öldükten sonra dirilmeyi inkâr eden insanın zannı. 'Hasibe' kökü sanmayı, zannetmeyi anlatır; ayet, insanın çürüyüp dağılan kemiklerinin bir daha bir araya getirilemeyeceğini düşündüğünü soru biçiminde dile getirir. Bu, inkârcıların dirilişe karşı sıkça öne sürdüğü bir itirazdır.",
+  "Soru, cevabını bir sonraki ayette bulur; burada henüz itiraz ortaya konur. 'Cem' kökü (toplama, bir araya getirme) hem bu ayette hem bir sonrakinde geçer ve insanın 'imkânsız' saydığı şeyin, Allah için ne denli kolay olduğunu vurgulayan bir zıtlık kurar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:78",
+   "meal": "Bize bir örnek verdi ve kendi yaratılışını unutarak dedi ki: 'Çürümüş kemikleri kim diriltecek?'",
+   "baglanti": "Yâsîn suresindeki bu itiraz, 75:3'teki zannın neredeyse aynısıdır; her iki ayet de kemiklerin yeniden yaratılamayacağı zannını konu eder."
+  },
+  {
+   "ref": "17:49",
+   "meal": "Dediler ki: 'Biz kemik ve ufalanmış toz olduğumuz zaman mı, gerçekten yeni bir yaratılışla mı diriltileceğiz?'",
+   "baglanti": "İsrâ suresindeki bu soru da aynı itirazı, kemik ve toz olma imgesiyle dile getirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dirilişi inkâr edenlerin öne sürdüğü bir zandır; bu, itikadi bir konudur ve ayet o zannı soru biçiminde aktarır.",
+  "Buradan çıkan ders, insanın kendi aklının sınırlarını mutlaklaştırmaması gerektiğidir. Bir şeyin kendi gözünde imkânsız görünmesi, onun gerçekten imkânsız olduğu anlamına gelmez; bu, hem inanç konularında hem günlük hayatta aceleyle 'olmaz' demeden önce düşünmeyi hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir 'olmaz' düşüncesini sorgula",
+   "aciklama": "Bugün 'bu asla olmaz' dediğin bir konuyu, neden öyle düşündüğünü sorarak bir kez daha gözden geçir."
+  },
+  {
+   "baslik": "Dirilişi hatırla",
+   "aciklama": "Bir gün yeniden diriltileceğini bildiğini, kısa bir anlığına hatırına getir."
+  },
+  {
+   "baslik": "Kibirden uzak dur",
+   "aciklama": "Bir konuda kesin konuştuğunda, bilginin sınırlı olabileceğini kabul ederek konuş."
+  }
+ ],
+ "bugununAdimi": "Bugün 'bu imkânsız' dediğin bir düşünceni, gerçekten imkânsız mı yoksa sadece alışkın olmadığın bir şey mi diye bir kez sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=75&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/75/3"
+  }
+ ]
+}

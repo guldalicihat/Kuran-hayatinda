@@ -1,0 +1,82 @@
+{
+ "sure": 75,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "Onu [kalbinde] toplamak ve okutmak bize aittir.",
+ "mealNotu": "'Cem' kökü toplamayı, 'kur'ân' kökü (ق ر أ) okumayı anlatır. 'Kalbinde' ifadesi bağlamdan gelir, köşeli parantezle işaretlenmiştir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "şüphesiz (te'kid edatı)",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "عَلَيْنَا",
+   "okunus": "aleynâ",
+   "kok": "—",
+   "kokAnlam": "bizim üzerimize (edat+zamir)",
+   "karsilik": "bize aittir"
+  },
+  {
+   "kelime": "جَمْعَهُۥ",
+   "okunus": "cem'ahû",
+   "kok": "جمع",
+   "kokAnlam": "toplama, bir araya getirme",
+   "karsilik": "onu toplamak"
+  },
+  {
+   "kelime": "وَقُرْءَانَهُۥ",
+   "okunus": "ve kur'ânehû",
+   "kok": "قرأ",
+   "kokAnlam": "okuma, bir araya toplayıp okuma",
+   "karsilik": "ve okutmak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayetteki 'acele etme' talimatının gerekçesini açıklar: vahyin Peygamber'in kalbinde toplanması ve doğru biçimde okunması, Allah'ın üstlendiği bir iştir. 'Cem' kökü toplamayı, 'kur'ân' kökü ise (aynı zamanda kitabın adı olan bu kelime) okumayı, bir araya getirip okumayı anlatır.",
+  "Bu güvence, Peygamber'in endişesini gidermeyi amaçlar: vahyi unutma ya da eksik alma korkusuyla acele etmesine gerek yoktur, çünkü onun kalbinde toplanması ve doğru okunması Allah tarafından garanti edilmiştir. Bu, Kur'an'ın korunmuşluğuna dair önemli bir ayettir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:9",
+   "meal": "Şüphesiz o zikri (Kur'an'ı) biz indirdik, onun koruyucusu da elbette biziz.",
+   "baglanti": "Hicr suresindeki bu ayet, Kur'an'ın korunmasını üstlenen Allah'ın güvencesini daha genel bir ifadeyle tekrarlar; 75:17'deki 'toplama' güvencesiyle aynı temaya bağlanır."
+  },
+  {
+   "ref": "87:6",
+   "meal": "Sana [Kur'an'ı] okutacağız da unutmayacaksın.",
+   "baglanti": "A'lâ suresi de aynı güvenceyi, unutmama vurgusuyla verir; 75:17'deki toplama işinin sonucu budur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın Peygamber'in kalbinde toplanıp okutulmasının Allah'ın güvencesi altında olduğudur; bu, vahiy sürecine özgü bir konudur.",
+  "Buradan çıkan genel ders, bir işi Allah'a güvenerek yapmanın insanın üzerindeki gereksiz kaygıyı hafifletmesidir. Elinden geleni yapan insan, sonucu tamamen kendi çabasına yüklemek yerine, bir ölçüde güvenerek hareket edebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaygını hafiflet",
+   "aciklama": "Bugün bir konuda taşıdığın aşırı kaygıyı, elinden geleni yaptıktan sonra bırakmayı dene."
+  },
+  {
+   "baslik": "Sonucu güvenle bekle",
+   "aciklama": "Çabaladığın bir işin sonucunu, güvenerek bekle, sürekli kontrol etme isteğini azalt."
+  },
+  {
+   "baslik": "Kur'an'a zaman ayır",
+   "aciklama": "Bugün Kur'an'dan kısa bir bölüm oku, korunmuş bir kitabı okuduğunun farkında ol."
+  }
+ ],
+ "bugununAdimi": "Bugün Kur'an'dan birkaç ayet oku ve anlamı üzerinde bir dakika düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=75&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/75/17"
+  }
+ ]
+}

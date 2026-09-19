@@ -1,0 +1,82 @@
+{
+ "sure": 75,
+ "ayet": 19,
+ "durum": "taslak",
+ "meal": "Sonra onu açıklamak da bize aittir.",
+ "mealNotu": "'Beyan' kökü açıklamayı, netleştirmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "sonra (bağlaç)",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "şüphesiz (te'kid edatı)",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "عَلَيْنَا",
+   "okunus": "aleynâ",
+   "kok": "—",
+   "kokAnlam": "bizim üzerimize (edat+zamir)",
+   "karsilik": "bize aittir"
+  },
+  {
+   "kelime": "بَيَانَهُۥ",
+   "okunus": "beyânehû",
+   "kok": "بين",
+   "kokAnlam": "açıklama, netleştirme",
+   "karsilik": "onu açıklamak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Vahyin toplanması ve okunmasından sonra, üçüncü bir güvence daha verilir: onun açıklanması da Allah'a aittir. 'Beyan' kökü açıklamayı, netleştirmeyi anlatır; bu, hem ayetlerin anlamının hem de zamanla uygulamalarının açığa çıkacağını gösterir.",
+  "Klasik tefsir bu ifadeyi, Kur'an'ın anlaşılmasının Peygamber'in kendi yorumuna bırakılmadığını, gerektiğinde Allah'ın ayetleri yine vahiy yoluyla açıklayacağını göstermesi olarak yorumlar. Böylece 16-19. ayetler bir bütün olarak, vahiy sürecinin baştan sona güvence altında olduğunu anlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "16:44",
+   "meal": "Sana da bu Kur'an'ı indirdik ki, kendilerine indirileni insanlara açıklayasın.",
+   "baglanti": "Nahl suresi Peygamber'in Kur'an'ı açıklama görevini anlatır; 75:19 ise bu açıklamanın kaynağının da Allah'a ait olduğunu vurgular."
+  },
+  {
+   "ref": "55:1",
+   "meal": "Rahmân,",
+   "baglanti": "Rahmân suresi 'Kur'an'ı öğretti' (55:2) diyerek devam eder; bu, 75:19'daki açıklama güvencesiyle aynı temaya, Allah'ın öğretici sıfatına bağlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın anlamının zamanla açıklanmasının Allah'ın güvencesi altında olduğudur; bu, vahiy sürecine dair bir açıklamadır.",
+  "Buradan çıkan genel ders, bir bilgiyi anlamanın zaman alabileceği, hemen her şeyin netleşmesinin gerekmediğidir. Bir konuyu tam anlamadığında sabırla beklemek, zamanla açıklığa kavuşacağına güvenmek, öğrenme sürecinde faydalı bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Anlaşılmayanı bekletme paniği yapma",
+   "aciklama": "Bugün anlamadığın bir ayeti ya da konuyu, hemen tam çözemesen de sabırla araştırmaya devam et."
+  },
+  {
+   "baslik": "Güvenilir kaynağa başvur",
+   "aciklama": "Bir konuyu anlamak için güvenilir bir tefsir ya da kaynağa bakmayı dene."
+  },
+  {
+   "baslik": "Anlamak için zaman ayır",
+   "aciklama": "Bugün okuduğun bir ayetin anlamı üzerinde birkaç dakika düşün, geçiştirme."
+  }
+ ],
+ "bugununAdimi": "Bugün anlamadığın bir ayetin açıklamasını güvenilir bir kaynaktan araştır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=75&verse=19"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/75/19"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sure": 75,
+ "ayet": 31,
+ "durum": "taslak",
+ "meal": "Ne doğruladı, ne de namaz kıldı.",
+ "mealNotu": "'Sadaka' kökü doğrulamayı, tasdik etmeyi; 'sallâ' kökü namaz kılmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "ne de (olumsuzluk)",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "صَدَّقَ",
+   "okunus": "saddeka",
+   "kok": "صدق",
+   "kokAnlam": "doğrulama, tasdik etme",
+   "karsilik": "doğruladı"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "ne de (olumsuzluk)",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "صَلَّىٰ",
+   "okunus": "sallâ",
+   "kok": "صلو",
+   "kokAnlam": "namaz kılma",
+   "karsilik": "namaz kıldı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ölüm sahnesinden sonra sure, dirilişi inkâr eden kişinin dünyadaki hâline geriye dönük bir bakış atar. 'Sadaka' kökü doğrulamayı, tasdiki anlatır; kişi ne getirilen gerçeği (peygamberi, Kur'an'ı) doğrulamış, ne de bunun gereği olan namazı kılmıştır. Bu iki eksiklik, iman ve amel bütünlüğünün kişide bulunmadığını gösterir.",
+  "Klasik tefsir bu ayeti, imanın (tasdik) ve amelin (namaz) bir arada anılması olarak açıklar; biri iç dünyaya, diğeri dışa yansıyan eyleme işaret eder. Bir sonraki ayette bu eksikliğin yerini neyin aldığı belirtilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "74:43",
+   "meal": "Onlara 'Sizi bu yakıcı ateşe sürükleyen nedir?' [diye sorulduğunda] derler ki: 'Namaz kılanlardan değildik.'",
+   "baglanti": "Müddessir suresi de cehennemliklerin namazı terk ettiğini, kendi ağızlarından itiraf ettirerek anlatır; 75:31'deki 'namaz kılmadı' ifadesiyle aynı eksikliğe işaret eder."
+  },
+  {
+   "ref": "96:9",
+   "meal": "Gördün mü, namaz kıldığında [o kulu] engelleyeni?",
+   "baglanti": "Alak suresi de namazı engellemeye çalışan bir tavırdan söz eder; 75:31'deki namazı terk etmiş kişi tipiyle aynı temaya bağlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dirilişi inkâr eden kişinin ne gerçeği doğruladığı ne de namaz kıldığıdır; bu, iman ve ibadetin birlikte eksikliğine işaret eder.",
+  "Buradan çıkan ders, imanın sözde kalmayıp amele, özellikle namaza yansıması gerektiğidir. Bu ayet, kişiyi kendi iman ve ibadet dengesini gözden geçirmeye çağırır; sadece inandığını söylemek değil, bunu yaşama geçirmek önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Namazını gözden geçir",
+   "aciklama": "Bugün namazlarını vaktinde ve özenle kılmaya dikkat et."
+  },
+  {
+   "baslik": "İnancını amele dök",
+   "aciklama": "İnandığın bir değeri, bugün somut bir davranışla göster."
+  },
+  {
+   "baslik": "Eksik bıraktığını tamamla",
+   "aciklama": "Kaçırdığın bir namazın varsa, bugün onu telafi etmeye çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün bir namazını, aceleye getirmeden, huzur içinde kıl.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=75&verse=31"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/75/31"
+  }
+ ]
+}

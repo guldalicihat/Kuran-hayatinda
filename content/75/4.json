@@ -1,0 +1,96 @@
+{
+ "sure": 75,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Evet, [toplarız]; onun parmak uçlarını bile [eksiksiz] düzenlemeye gücümüz yeter.",
+ "mealNotu": "'Kâdir' kökü güç yetirmeyi, 'sevviye' kökü düzenlemeyi, tam biçime kavuşturmayı anlatır. 'Toplarız' ifadesi bir önceki ayetteki soruya verilen cevabı tamamlamak için eklenmiştir; köşeli parantezle işaretlenmiştir.",
+ "kokler": [
+  {
+   "kelime": "بَلَىٰ",
+   "okunus": "belâ",
+   "kok": "—",
+   "kokAnlam": "evet (olumsuz soruya olumlu cevap)",
+   "karsilik": "evet"
+  },
+  {
+   "kelime": "قَٰدِرِينَ",
+   "okunus": "kâdirîne",
+   "kok": "قدر",
+   "kokAnlam": "güç yetirme, ölçüp biçme",
+   "karsilik": "güç yetirenler olarak"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "üzerine (edat)",
+   "karsilik": "...e"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "ki (bağlaç)",
+   "karsilik": "..meye"
+  },
+  {
+   "kelime": "نُّسَوِّىَ",
+   "okunus": "nüsevviye",
+   "kok": "سوي",
+   "kokAnlam": "düzenleme, eşitleme, tam biçime getirme",
+   "karsilik": "düzenlemeye"
+  },
+  {
+   "kelime": "بَنَانَهُۥ",
+   "okunus": "benânehû",
+   "kok": "بنن",
+   "kokAnlam": "parmak ucu",
+   "karsilik": "parmak uçlarını"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki soruya verilen kesin cevaptır bu ayet: evet, kemikler yeniden toplanacaktır. Ayet bununla da yetinmez; 'kâdirîn' (güç yetirenler) ve 'nüsevviye' (düzenleme, tam biçime getirme) kökleriyle, bu gücün sadece büyük kemikleri değil, parmak uçları gibi en küçük ayrıntıları bile eksiksiz yeniden düzenleyebilecek kadar kapsamlı olduğunu vurgular. 'Benân' kökü parmak ucu anlamına gelir; ayetin vurgusu, Allah'ın yaratma ve diriltme kudretinin en ince detaya kadar uzandığıdır.",
+  "Bu ayet zaman zaman parmak izinin her insanda farklı olduğu bilgisiyle ilişkilendirilerek modern bir 'bilimsel işaret' iddiasına konu edilir. Ancak ayetin metni ve bağlamı, parmak izinin benzersizliği gibi bir bilgi vermez; asıl vurgu, kemikleri toplamanın yanında parmak uçları gibi görece küçük ve ince bir ayrıntıyı bile yeniden düzenlemenin, Allah için hiç zor olmadığıdır. Klasik tefsir bu ayeti, dirilişin kapsamlılığını ve kudretin sınırsızlığını anlatan bir örnek olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:79",
+   "meal": "De ki: Onları ilk defa yaratan diriltecektir; O, her yaratmayı bilir.",
+   "baglanti": "Yâsîn suresindeki bu cevap da 75:3-4'teki soruya benzer bir cevap verir: ilk yaratmayı yapan, yeniden yaratmaya elbette kadirdir."
+  },
+  {
+   "ref": "17:51",
+   "meal": "Yahut gönlünüzde büyüyen başka bir yaratık olun (yine de diriltilirsiniz).",
+   "baglanti": "İsrâ suresi de dirilişin, insanın en imkânsız gördüğü hâllerde bile gerçekleşeceğini vurgular; 75:4'teki 'parmak uçları' vurgusuyla aynı temayı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah'ın diriltme kudretinin en küçük ayrıntıya kadar uzandığıdır; bu itikadi bir konudur ve modern bir bilimsel iddiaya dayanmaz.",
+  "Buradan çıkan ders, hiçbir şeyin Allah'ın bilgisi ve gücü dışında kalmadığıdır. İnsan kendi hayatında da küçük, önemsiz gördüğü ayrıntıların aslında bir bütünün parçası olduğunu, hiçbir şeyin gözden kaçmadığını hatırlayarak yaşayabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçük bir ayrıntıya özen göster",
+   "aciklama": "Bugün yaptığın bir işte, önemsiz gördüğün küçük bir detayı ihmal etmeden tamamla."
+  },
+  {
+   "baslik": "Gücün sınırsızlığını hatırla",
+   "aciklama": "Zor bir işle karşılaştığında, hiçbir şeyin Allah için zor olmadığını kısaca hatırına getir."
+  },
+  {
+   "baslik": "Abartılı iddialardan sakın",
+   "aciklama": "Bir dini konuda bilimsel bir iddia duyduğunda, hemen kabul etmeden kaynağını ve doğruluğunu araştır."
+  }
+ ],
+ "bugununAdimi": "Bugün bir işini bitirirken, gözden kaçırdığın küçük bir ayrıntıyı bulup düzelt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=75&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/75/4"
+  }
+ ]
+}

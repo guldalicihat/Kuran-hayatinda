@@ -1,0 +1,82 @@
+{
+ "sure": 75,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Hayır! Kıyamet gününe yemin ederim.",
+ "mealNotu": "Ayet başındaki 'lâ', burada olumsuzluk değil, yemini pekiştiren bir tenbih edatı olarak okunur; bu yaygın bir dilbilgisel yorumdur, tek okuyuş değildir. 'Kıyâme' kökü (ق و م) ayağa kalkmayı, dirilişi anlatır.",
+ "kokler": [
+  {
+   "kelime": "لَآ",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk/pekiştirme edatı",
+   "karsilik": "hayır (pekiştirme)"
+  },
+  {
+   "kelime": "أُقْسِمُ",
+   "okunus": "üksimü",
+   "kok": "قسم",
+   "kokAnlam": "yemin etme, bölme",
+   "karsilik": "yemin ederim"
+  },
+  {
+   "kelime": "بِيَوْمِ",
+   "okunus": "biyevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gününe"
+  },
+  {
+   "kelime": "ٱلْقِيَٰمَةِ",
+   "okunus": "elkıyâmeti",
+   "kok": "قوم",
+   "kokAnlam": "ayağa kalkma, dirilme",
+   "karsilik": "kıyametin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kıyâme suresi, adını ilk ayetteki 'kıyamet' kelimesinden alır ve doğrudan bir yeminle açılır. Mekke döneminde inen sure, öldükten sonra dirilmeyi inkâr edenlere karşı güçlü bir üslupla cevap verir. 'Kıyâme' kökü, bir şeyin ayağa kalkması, doğrulması anlamına gelir; kıyamet günü insanların kabirlerinden kalkıp Allah'ın huzurunda duracağı gündür.",
+  "Yeminle başlayan bu açılış, konunun önemine dikkat çeker; Kur'an'da önemli konular çoğu zaman bir yeminle vurgulanır. Kıyamete yemin edilmesi, onun kesinliğini ve gerçekliğini öne çıkarır; surenin devamında bu gerçeklik, önce inkârcıların itirazına, sonra da o günün sahnelerine bağlanarak işlenir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "22:7",
+   "meal": "Şüphesiz kıyamet [saati] gelecektir, onda hiç şüphe yoktur.",
+   "baglanti": "Hac suresindeki bu ayet, 75:1'de yemin edilen kıyametin kesinliğini doğrudan ifade eder."
+  },
+  {
+   "ref": "56:1",
+   "meal": "Kıyamet [gerçekleşmesi kaçınılmaz olan o olay] gerçekleştiğinde.",
+   "baglanti": "Vâkıa suresi de kıyameti aynı kesinlik vurgusuyla, 'gerçekleşecek olan' diyerek açar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyamet gününe yapılan bir yemindir; bu, o günün gerçekliğine dikkat çekmek içindir.",
+  "Buradan çıkan ders, hayatı yalnız bugünle sınırlı görmemektir. Bir gün hesabının sorulacağını bilmek, kişinin seçimlerine bir ölçü kazandırır; her şeyin sonunda bir hesaba döneceğini hatırlamak, davranışlarda bir denge oluşturur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir hesap sorusu sor kendine",
+   "aciklama": "Bugün yaptığın bir işi yaparken, 'bunun hesabını nasıl verebilirim?' diye kısaca düşün."
+  },
+  {
+   "baslik": "Geçicilik notu",
+   "aciklama": "Telefonuna ya da bir kağıda 'bir gün her şeyin hesabı var' diye kısa bir hatırlatma yaz."
+  },
+  {
+   "baslik": "Bir kararını gözden geçir",
+   "aciklama": "Bugün vereceğin bir kararı, sadece bugünü değil sonunu da düşünerek ver."
+  }
+ ],
+ "bugununAdimi": "Bugün bir işe başlamadan önce, 'bunun hesabı bana sorulacak' diye bir an dur ve düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=75&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/75/1"
+  }
+ ]
+}

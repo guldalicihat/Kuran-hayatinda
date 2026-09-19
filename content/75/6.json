@@ -1,0 +1,82 @@
+{
+ "sure": 75,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "'Kıyamet günü ne zaman?' diye sorar.",
+ "mealNotu": "Soru, inkârcıların dirilişi alaycı bir üslupla sorguladığı, Kur'an'da sık geçen bir itirazdır.",
+ "kokler": [
+  {
+   "kelime": "يَسْـَٔلُ",
+   "okunus": "yes'elü",
+   "kok": "سأل",
+   "kokAnlam": "sorma",
+   "karsilik": "sorar"
+  },
+  {
+   "kelime": "أَيَّانَ",
+   "okunus": "eyyâne",
+   "kok": "—",
+   "kokAnlam": "ne zaman (soru edatı)",
+   "karsilik": "ne zaman"
+  },
+  {
+   "kelime": "يَوْمُ",
+   "okunus": "yevmü",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "ٱلْقِيَٰمَةِ",
+   "okunus": "elkıyâmeti",
+   "kok": "قوم",
+   "kokAnlam": "ayağa kalkma, dirilme",
+   "karsilik": "kıyamet"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette günaha devam etmek isteyen insan, burada dirilişi alaycı bir soruyla sorgular: 'Kıyamet günü ne zaman?' Bu soru, gerçekten öğrenmek isteyen bir merak değil, dirilişin gerçekleşmeyeceğine dair bir inkârın üslubuyla sorulur; sanki bu gün hiç gelmeyecekmiş gibi bir tavırla dile getirilir.",
+  "Kur'an'ın başka yerlerinde de benzer sorular geçer; bu, Mekke döneminde dirilişi inkâr edenlerin sıkça tekrarladığı bir itirazdır. Sure, bu soruya doğrudan bir tarih vermez; bunun yerine kıyametin sahnelerini betimleyerek cevap verir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "79:42",
+   "meal": "Sana kıyametten soruyorlar: 'Ne zaman gerçekleşecek?'",
+   "baglanti": "Nâziât suresindeki bu ayet, 75:6'daki soruyla neredeyse aynı ifadeyi taşır; ikisi de inkârcıların aynı itirazını aktarır."
+  },
+  {
+   "ref": "7:187",
+   "meal": "Sana kıyamet saatinden soruyorlar: 'Ne zaman gelip çatacak?' De ki: Onun bilgisi ancak Rabbimin katındadır.",
+   "baglanti": "A'râf suresi bu soruya, vaktinin yalnız Allah katında bilindiği cevabını verir; Kıyâme suresi ise vakti değil, gerçekleşeceğini vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, inkârcıların kıyametin vaktini sorarak onu alaya alma tavrıdır.",
+  "Buradan çıkan ders, bir gerçeği reddetmek için onun ayrıntılarını (ne zaman, nasıl) bahane etmenin kolay bir yol olduğudur. Kişi, bir sorumluluktan kaçmak için gereksiz sorularla vakit kaybetmek yerine, asıl gerçeği kabul edip ona göre hazırlanmayı seçebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bahane üretme",
+   "aciklama": "Bugün bir sorumluluktan kaçmak için gereksiz bir soru ya da bahane üretme, doğrudan işe başla."
+  },
+  {
+   "baslik": "Hazır ol bilinci",
+   "aciklama": "'Ne zaman olacak' diye merak etmek yerine, 'hazır mıyım' diye kendine sor."
+  },
+  {
+   "baslik": "Alay yerine düşün",
+   "aciklama": "Anlamadığın bir konuyu alaya almak yerine, üzerine sakince düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün 'ne zaman olacak' diye ertelediğin bir hazırlığı, vaktini beklemeden şimdi yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=75&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/75/6"
+  }
+ ]
+}

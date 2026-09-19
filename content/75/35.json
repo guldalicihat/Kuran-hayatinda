@@ -1,0 +1,82 @@
+{
+ "sure": 75,
+ "ayet": 35,
+ "durum": "taslak",
+ "meal": "Yine sana yazıklar olsun, yazıklar olsun!",
+ "mealNotu": "Bir önceki ayetin 'sümme' (sonra/yine) ile tekrarıdır; tehdidin şiddetini ve kesinliğini artırır.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "sonra, yine (bağlaç)",
+   "karsilik": "yine"
+  },
+  {
+   "kelime": "أَوْلَىٰ",
+   "okunus": "evlâ",
+   "kok": "ولي",
+   "kokAnlam": "yaklaşma, çok yakın olma (tehdit kalıbı)",
+   "karsilik": "yazıklar olsun"
+  },
+  {
+   "kelime": "لَكَ",
+   "okunus": "leke",
+   "kok": "—",
+   "kokAnlam": "sana (edat+zamir)",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "فَأَوْلَىٰٓ",
+   "okunus": "feevlâ",
+   "kok": "ولي",
+   "kokAnlam": "yaklaşma, çok yakın olma (tehdit kalıbı)",
+   "karsilik": "yazıklar olsun"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki uyarı, burada 'sümme' (sonra, yine) bağlacıyla bir kez daha tekrarlanır. Bu tekrar, tesadüfi değildir; Kur'an'da bir uyarının art arda tekrarlanması, onun önemini ve kesinliğini pekiştirmek için kullanılan bir üsluptur. Burada tehdidin şiddeti, ilk seferkine göre daha da vurgulu hâle gelir.",
+  "Klasik tefsir, bu ikinci tekrarı, uyarının bir kez söylenip geçilecek bir söz olmadığını, ciddiyetle üzerinde durulması gereken bir gerçek olduğunu göstermesi olarak açıklar. 34 ve 35. ayetler birlikte, surenin bu bölümünün (31-35) en sert vurgusunu oluşturur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "102:3",
+   "meal": "Hayır! Yakında bileceksiniz!",
+   "baglanti": "Tekâsür suresi de benzer bir tekrarlı uyarı üslubu kullanır (aynı cümle iki kez tekrarlanır); 75:34-35'teki ikili tekrarla aynı vurgulama yöntemine sahiptir."
+  },
+  {
+   "ref": "94:5",
+   "meal": "Şüphesiz güçlükle beraber bir kolaylık vardır.",
+   "baglanti": "İnşirâh suresinde de bir ifade art arda iki kez tekrarlanarak pekiştirilir; bu, 75:34-35'teki tekrar üslubuyla aynı retorik yöntemi paylaşır (burada müjde için kullanılır, orada uyarı için)."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir önceki ayetteki uyarının tekrar edilerek pekiştirilmesidir; bu, itikadi bir tehdidin vurgusunu artıran bir üsluptur.",
+  "Buradan çıkan ders, önemli bir uyarının bir kez söylenip unutulmaması, üzerinde durulması gerektiğidir. Kişi de kendine ya da bir yakınına yaptığı önemli bir uyarıyı, gerektiğinde nazikçe tekrar ederek pekiştirebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önemli bir uyarını tekrarla",
+   "aciklama": "Kendine yaptığın önemli bir hatırlatmayı, bugün bir kez daha tekrar et, unutma."
+  },
+  {
+   "baslik": "Sabırla ısrar et",
+   "aciklama": "Bir yakınına yaptığın haklı bir uyarıyı, kırıcı olmadan bir kez daha nazikçe hatırlat."
+  },
+  {
+   "baslik": "Ciddiyeti koru",
+   "aciklama": "Önemsediğin bir konuda gevşekliğe düşmeden kararlılığını sürdür."
+  }
+ ],
+ "bugununAdimi": "Bugün kendine yaptığın önemli bir hatırlatmayı, bir kez daha tekrarla ve uygula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=75&verse=35"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/75/35"
+  }
+ ]
+}

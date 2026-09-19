@@ -1,0 +1,96 @@
+{
+ "sure": 75,
+ "ayet": 37,
+ "durum": "taslak",
+ "meal": "O, akıtılan bir meniden bir damla (nutfe) değil miydi?",
+ "mealNotu": "'Nutfe' kökü az miktarda sıvı, damla anlamına gelir; 'meniyy' kökü döl suyu, 'yümnâ' kökü akıtılma/dökülmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "değil miydi (olumsuz soru)",
+   "karsilik": "değil miydi"
+  },
+  {
+   "kelime": "يَكُ",
+   "okunus": "yekü",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "نُطْفَةً",
+   "okunus": "nütfeten",
+   "kok": "نطف",
+   "kokAnlam": "az sıvı, damla",
+   "karsilik": "bir damla (nutfe)"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den (edat)",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "مَّنِىٍّ",
+   "okunus": "meniyyin",
+   "kok": "مني",
+   "kokAnlam": "döl suyu",
+   "karsilik": "meniden"
+  },
+  {
+   "kelime": "يُمْنَىٰ",
+   "okunus": "yümnâ",
+   "kok": "مني",
+   "kokAnlam": "akıtılma, dökülme",
+   "karsilik": "akıtılan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki 'başıboş mu sanıyor?' sorusuna, insanın kendi başlangıcı üzerinden bir cevap verilmeye başlanır: insan, akıtılan basit bir sıvı damlasından (nutfe) başlamıştır. 'Nutfe' kökü, gözle zar zor görülebilecek küçüklükte bir sıvıyı anlatır; ayet bu küçük başlangıçla hesap gününe uzanan büyük süreç arasındaki farkı vurgular.",
+  "Klasik tefsir bu ayeti, insanın kendi yaratılışının ilk aşamasını hatırlaması, böylece kendi kökeni hakkında düşünmesi için bir çağrı olarak açıklar. Ayetin amacı, bu sürecin ayrıntılı bir biyolojik açıklamasını vermek değil, insanın bu denli basit bir başlangıçtan yaratılabilen bir gücün, onu yeniden diriltmeye de kadir olduğunu hissettirmektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "76:2",
+   "meal": "Biz insanı, karışım hâlindeki bir nutfeden yarattık; onu sınayalım diye işiten ve gören yaptık.",
+   "baglanti": "İnsân suresi de aynı 'nutfe' kökünden başlayan yaratılışı anlatır; 75:37'deki başlangıç noktasıyla aynı süreci işler."
+  },
+  {
+   "ref": "32:8",
+   "meal": "Sonra onun neslini, önemsiz bir sudan (meniden) yarattı.",
+   "baglanti": "Secde suresi de insanın soyunun basit bir sudan yaratıldığını hatırlatır; 75:37'deki aynı vurguyu tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insanın yaratılışının ilk aşamasının küçük bir sıvı damlası olduğudur; bu, insanın kendi kökenine dair bir hatırlatmadır.",
+  "Buradan çıkan ders, insanın böylesine küçük bir başlangıçtan bugünkü hâline geldiğini fark etmesinin, kibri kırması ve şükrü artırmasıdır. Kişi, kendini büyük ya da bağımsız görmek yerine, bu süreci bir hatırlatma olarak taşıyabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Başlangıcını hatırla",
+   "aciklama": "Bugün kendi yaratılışının küçük bir başlangıçtan geldiğini düşünüp şükret."
+  },
+  {
+   "baslik": "Kibri bırak",
+   "aciklama": "Kendini üstün gördüğün bir anda, bu küçük başlangıcı hatırlayarak alçakgönüllü ol."
+  },
+  {
+   "baslik": "Bedenine şükret",
+   "aciklama": "Bugün bedeninin bu sürece rağmen sağlıklı çalışmasına bir kez şükret."
+  }
+ ],
+ "bugununAdimi": "Bugün kendi yaratılışını düşünüp kısa bir şükür cümlesi kur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=75&verse=37"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/75/37"
+  }
+ ]
+}

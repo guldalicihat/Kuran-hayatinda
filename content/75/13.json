@@ -1,0 +1,96 @@
+{
+ "sure": 75,
+ "ayet": 13,
+ "durum": "taslak",
+ "meal": "O gün insana, öne sürdüğü ve geride bıraktığı [her şey] haber verilir.",
+ "mealNotu": "'Nebe' kökü haber vermeyi; 'kaddeme' öne sürmeyi, önceden yapmayı; 'ehhara' geciktirmeyi, geride bırakmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "يُنَبَّؤُا۟",
+   "okunus": "yünebbeü",
+   "kok": "نبأ",
+   "kokAnlam": "haber verme",
+   "karsilik": "haber verilir"
+  },
+  {
+   "kelime": "ٱلْإِنسَٰنُ",
+   "okunus": "el'insânü",
+   "kok": "أنس",
+   "kokAnlam": "insan, unutkan/canlı varlık",
+   "karsilik": "insana"
+  },
+  {
+   "kelime": "يَوْمَئِذٍۭ",
+   "okunus": "yevmeizim",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "şey ile (ilgi)",
+   "karsilik": "şeyle"
+  },
+  {
+   "kelime": "قَدَّمَ",
+   "okunus": "kaddeme",
+   "kok": "قدم",
+   "kokAnlam": "öne sürme, önceden yapma",
+   "karsilik": "öne sürdüğü"
+  },
+  {
+   "kelime": "وَأَخَّرَ",
+   "okunus": "ve ehhara",
+   "kok": "أخر",
+   "kokAnlam": "geciktirme, geride bırakma",
+   "karsilik": "ve geride bıraktığı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Rabbine varışın bildirilmesinden sonra, bu ayet o varışta neyin gündeme geleceğini açıklar: insanın hayatta öne sürdüğü (yaptığı) ve geride bıraktığı (yapmadığı ya da erteleyip terk ettiği) her şey. 'Kaddeme' ve 'ehhara' kökleri, insanın hem eylemlerini hem de eksik bıraktıklarını, ihmallerini birlikte kapsar.",
+  "Klasik tefsir bu ifadeyi, insanın yaşarken başlattığı ve sürdürdüğü işler kadar, örnek bırakıp ölümünden sonra da devam eden iyi ya da kötü etkiler olarak da açıklar. Ayet, hesabın sadece görünür eylemleri değil, ihmal edilenleri de kapsayan kapsamlı bir hesap olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:30",
+   "meal": "O gün herkes, yaptığı her iyiliği ve her kötülüğü hazır bulur.",
+   "baglanti": "Âl-i İmrân suresi de o gün insanın bütün yaptıklarıyla karşılaşacağını anlatır; 75:13'teki 'haber verilme' ile aynı hesap sahnesine işaret eder."
+  },
+  {
+   "ref": "17:13",
+   "meal": "Her insanın amel defterini boynuna bağladık; kıyamet günü onun için açılmış bulacağı bir kitap çıkarırız.",
+   "baglanti": "İsrâ suresi de insanın yaptıklarının kayıt altına alındığını anlatır; 75:13'te bu kayıt insana haber verilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyamet gününde insanın yaptığı ve yapmadığı her şeyin ona bildirileceğidir; bu itikadi bir hesap sahnesidir.",
+  "Buradan çıkan ders, sadece yaptıklarımızın değil, yapmayıp ertelediklerimizin, ihmal ettiklerimizin de bir karşılığı olduğudur. Bu, kişiyi hem eylemlerinde hem de sorumluluklarını erteleme alışkanlığında dikkatli olmaya çağırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ertelediğin bir sorumluluğu yaz",
+   "aciklama": "Bugün, uzun süredir erteleyip yapmadığın bir işi bir kağıda yaz ve ne zaman yapacağına karar ver."
+  },
+  {
+   "baslik": "Küçük iyiliği unutma",
+   "aciklama": "Bugün yapabileceğin küçük bir iyiliği, 'önemsiz' diye geçiştirmeden yap."
+  },
+  {
+   "baslik": "Hesap bilinciyle yaşa",
+   "aciklama": "Bugün yaptığın bir işin kayda geçtiğini bilerek, özenle yap."
+  }
+ ],
+ "bugununAdimi": "Bugün uzun süredir ertelediğin bir sorumluluğa ilk adımı at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=75&verse=13"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/75/13"
+  }
+ ]
+}

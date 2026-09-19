@@ -1,0 +1,96 @@
+{
+ "sure": 75,
+ "ayet": 16,
+ "durum": "taslak",
+ "meal": "Onu [Kur'an'ı] acele edip [ezberlemek için] dilini kıpırdatma.",
+ "mealNotu": "'Harake' kökü kıpırdatmayı anlatır; ayetin bağlamı, Hz. Peygamber'in vahiy kendisine indirilirken unutma korkusuyla acele ederek dudaklarını hareket ettirmesiyle ilgilidir. 'Onu' ve 'Kur'an'ı' ifadeleri bağlamdan gelir, köşeli parantezle işaretlenmiştir.",
+ "kokler": [
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı (yasaklama)",
+   "karsilik": "-me"
+  },
+  {
+   "kelime": "تُحَرِّكْ",
+   "okunus": "tüharrik",
+   "kok": "حرك",
+   "kokAnlam": "kıpırdatma, hareket ettirme",
+   "karsilik": "kıpırdatma"
+  },
+  {
+   "kelime": "بِهِۦٓ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "onunla (zamir)",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "لِسَانَكَ",
+   "okunus": "lisâneke",
+   "kok": "لسن",
+   "kokAnlam": "dil",
+   "karsilik": "dilini"
+  },
+  {
+   "kelime": "لِتَعْجَلَ",
+   "okunus": "lita'cele",
+   "kok": "عجل",
+   "kokAnlam": "acele etme",
+   "karsilik": "acele edip"
+  },
+  {
+   "kelime": "بِهِۦٓ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "onunla (zamir)",
+   "karsilik": "onunla"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure burada konu değiştirir ve doğrudan Hz. Peygamber'e seslenir. Bağlam, vahiy indirilirken Peygamber'in ayetleri unutma korkusuyla, Cebrail henüz okumasını bitirmeden dudaklarını hareket ettirip tekrar etmeye çalışmasıdır. 'Harake' kökü kıpırdatmayı, 'acele' kökü ise bu tekrar çabasındaki telaşı anlatır.",
+  "Bu ayet, tarihsel bir bağlamda, vahyin doğru ve eksiksiz alınması için Peygamber'e bir yöntem öğretir: acele etmemesi, çünkü vahyin hafızasında toplanması ve okutulması Allah'ın garantisi altındadır. Bu tarihi bağlam, ilerleyen ayetlerde (17-19) açıklanmaya devam eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "20:114",
+   "meal": "Sana onun vahyi tamamlanmadan önce Kur'an'ı [okumada] acele etme ve 'Rabbim, ilmimi artır' de.",
+   "baglanti": "Tâhâ suresindeki bu ayet, 75:16 ile aynı konuyu, vahiy sırasında acele etmeme talimatını, farklı bir bağlamda tekrarlar."
+  },
+  {
+   "ref": "87:6",
+   "meal": "Sana [Kur'an'ı] okutacağız da unutmayacaksın.",
+   "baglanti": "A'lâ suresi, Peygamber'in unutma endişesine doğrudan bir güvence verir; 75:16-17'deki acele etmeme talimatının gerekçesini oluşturur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Hz. Peygamber'in vahiy alma sürecine dair özel bir talimattır; bu, tarihsel ve Peygamber'e özgü bir bağlamdır.",
+  "Buradan çıkan genel bir ders çıkarılabilir: telaşla, aceleyle yapılan işler çoğu zaman eksik kalır. Sabırla, güvenerek yapılan bir iş, aceleyle yapılandan daha sağlam sonuç verir; bu, öğrenme ve iş yapma alışkanlıklarına da yansıtılabilir bir ilkedir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Acele etme",
+   "aciklama": "Bugün öğrenmeye çalıştığın bir şeyi, aceleyle değil, sindire sindire öğren."
+  },
+  {
+   "baslik": "Güvenerek bekle",
+   "aciklama": "Sonucunu hemen görmek istediğin bir işte, sabırla bekle."
+  },
+  {
+   "baslik": "Telaşını fark et",
+   "aciklama": "Bugün telaşla yaptığın bir işi, bir kez yavaşlayarak tekrar gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün aceleyle yapmak istediğin bir işi, bir nefes alıp yavaşlatarak yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=75&verse=16"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/75/16"
+  }
+ ]
+}
