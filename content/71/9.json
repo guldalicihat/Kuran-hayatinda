@@ -1,0 +1,103 @@
+{
+ "sure": 71,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "'Sonra ben onlara açıkça duyurdum ve onlara gizlice de söyledim.'",
+ "mealNotu": "'A'lentü' kökü açığa çıkarma, ilan etme; 'esrartü' kökü gizleme, gizlice söylemeyi anlatır; ayet iki zıt yöntemi bir arada sunar.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "إِنِّىٓ",
+   "okunus": "innî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten ben",
+   "karsilik": "gerçekten ben"
+  },
+  {
+   "kelime": "أَعْلَنتُ",
+   "okunus": "a'lentü",
+   "kok": "علن",
+   "kokAnlam": "açığa çıkarma, ilan etme",
+   "karsilik": "açıkça duyurdum"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "وَأَسْرَرْتُ",
+   "okunus": "ve esrartü",
+   "kok": "سرر",
+   "kokAnlam": "gizleme, gizlice söyleme",
+   "karsilik": "ve gizlice söyledim"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "إِسْرَارًا",
+   "okunus": "isrâran",
+   "kok": "سرر",
+   "kokAnlam": "gizleme, gizlice söyleme",
+   "karsilik": "gizlice"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Nûh'un davet yöntemlerini tamamlar: açık duyuru ve gizli, özel konuşma bir arada kullanılmıştır. Bu, her muhatabın farklı biçimde yaklaşılmaya ihtiyaç duyabileceğini gösteren bir örüntüdür.",
+  "Dört ayet boyunca (7-9) sayılan yöntemler -ısrarlı, açık, gizli- Nûh'un elinden gelen her yolu denediğini anlatır. Ayet, bir sonucun garanti edilemeyeceğini ama çabanın eksiksiz olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "16:125",
+   "meal": "Rabbinin yoluna hikmetle ve güzel öğütle çağır.",
+   "baglanti": "Nahl suresindeki bu ilke, farklı yöntemlerin bir arada kullanılması gerektiğini genel bir kural olarak koyar; Nûh'un yöntem çeşitliliği bu ilkenin erken bir örneğidir."
+  },
+  {
+   "ref": "20:44",
+   "meal": "Ona yumuşak söz söyleyin, belki öğüt alır veya korkar.",
+   "baglanti": "Firavun'a gönderilen bu emirde de yöntemin muhataba göre ayarlanması istenir; Nûh'un açık-gizli yöntem çeşitliliğiyle aynı mantığı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Nûh'un davet yöntemlerinin çeşitliliğidir.",
+  "Bugüne taşınabilecek ders, bir mesajı iletirken tek bir yönteme saplanıp kalmamaktır; bazen herkesin önünde, bazen özel bir ortamda konuşmak daha etkili olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ortamı doğru seç",
+   "aciklama": "Bugün önemli bir konuşmayı, kalabalık yerine uygun bir özel ortamda yap."
+  },
+  {
+   "baslik": "Farklı bir yol dene",
+   "aciklama": "Daha önce denemediğin bir iletişim biçimiyle (yazılı, yüz yüze) bir konuyu ilet."
+  },
+  {
+   "baslik": "Israrını çeşitlendir",
+   "aciklama": "Bir konuda vazgeçmeden, farklı zamanlarda ve biçimlerde hatırlat."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuyu, daha önce denemediğin bir yöntemle ilet.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=71&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/71/9"
+  }
+ ]
+}
