@@ -1,0 +1,215 @@
+{
+ "sure": 29,
+ "ayet": 29,
+ "durum": "taslak",
+ "meal": "Siz hâlâ erkeklere mi yaklaşıyorsunuz, yolu mu kesiyorsunuz ve toplantılarınızda çirkin işler mi yapıyorsunuz?' Kavminin cevabı ise, 'Doğru söyleyenlerden isen, bize Allah'ın azabını getir' demekten başka olmadı.",
+ "mealNotu": "'Tektaûnes-sebîl' ifadesi 'yolu kesmek' olarak, klasik anlamıyla hem yol güvenliğini bozmayı hem de üremeyi/nesli kesmeyi çağrıştıran bir ifade olarak korunmuştur.",
+ "kokler": [
+  {
+   "kelime": "أَئِنَّكُمْ",
+   "okunus": "einneküm",
+   "kok": "—",
+   "kokAnlam": "(tekid + soru) siz gerçekten mi",
+   "karsilik": "siz hâlâ mı"
+  },
+  {
+   "kelime": "لَتَأْتُونَ",
+   "okunus": "lete'tûne",
+   "kok": "أتي",
+   "kokAnlam": "gelme; yaklaşma",
+   "karsilik": "yaklaşıyorsunuz"
+  },
+  {
+   "kelime": "ٱلرِّجَالَ",
+   "okunus": "erricâle",
+   "kok": "رجل",
+   "kokAnlam": "erkek",
+   "karsilik": "erkeklere"
+  },
+  {
+   "kelime": "وَتَقْطَعُونَ",
+   "okunus": "ve tektaûne",
+   "kok": "قطع",
+   "kokAnlam": "kesme",
+   "karsilik": "ve kesiyorsunuz"
+  },
+  {
+   "kelime": "ٱلسَّبِيلَ",
+   "okunus": "essebîle",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolu"
+  },
+  {
+   "kelime": "وَتَأْتُونَ",
+   "okunus": "ve te'tûne",
+   "kok": "أتي",
+   "kokAnlam": "gelme; yapma",
+   "karsilik": "ve yapıyorsunuz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "نَادِيكُمُ",
+   "okunus": "nâdîkümü",
+   "kok": "ندي",
+   "kokAnlam": "meclis, toplantı yeri",
+   "karsilik": "toplantılarınızda"
+  },
+  {
+   "kelime": "ٱلْمُنكَرَ",
+   "okunus": "elmünkera",
+   "kok": "نكر",
+   "kokAnlam": "bilinmeyen, çirkin, kötü",
+   "karsilik": "çirkin işleri"
+  },
+  {
+   "kelime": "فَمَا",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "olmadı"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldu"
+  },
+  {
+   "kelime": "جَوَابَ",
+   "okunus": "cevâbe",
+   "kok": "جوب",
+   "kokAnlam": "cevap verme",
+   "karsilik": "cevabı"
+  },
+  {
+   "kelime": "قَوْمِهِۦٓ",
+   "okunus": "kavmihî",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk, kavim",
+   "karsilik": "kavminin"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesinden",
+   "karsilik": "demekten"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "demeleri"
+  },
+  {
+   "kelime": "ٱئْتِنَا",
+   "okunus": "itinâ",
+   "kok": "أتي",
+   "kokAnlam": "gelme; getirme",
+   "karsilik": "bize getir"
+  },
+  {
+   "kelime": "بِعَذَابِ",
+   "okunus": "biazâbi",
+   "kok": "عذب",
+   "kokAnlam": "azap etme",
+   "karsilik": "azabını"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart edatı) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتَ",
+   "okunus": "künte",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "isen"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلصَّٰدِقِينَ",
+   "okunus": "essâdikîne",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, doğru sözlülük",
+   "karsilik": "doğru söyleyenlerden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki 'hayasızlık' ifadesini somutlaştırır: erkeklere yönelme, yolu kesme (yol güvenliğini bozma) ve toplantılarında çirkin işler yapma. Bu üç davranış, Lût kavminin sapmasının farklı boyutlarını -cinsel, toplumsal, ahlaki- bir arada gösterir.",
+  "Kavminin cevabı ise bir uyarıyı ciddiye almak yerine meydan okumaktır: 'Doğru söylüyorsan azabı getir.' Bu, inkârın sadece reddetmekle kalmayıp alaycı bir tavra dönüştüğünü gösterir. Klasik tefsir bu tepkiyi, uyarıya kulak tıkamanın son aşaması -meydan okuma- olarak açıklar; bir sonraki ayetlerde bu meydan okumanın karşılığı gelir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:165",
+   "meal": "Siz, insanlar içinden erkeklere mi yaklaşıyorsunuz?",
+   "baglanti": "Şuarâ suresinde aynı uyarı, kavmin sapmasının ilk boyutunu -erkeklere yönelme- vurgulayarak tekrarlanır."
+  },
+  {
+   "ref": "11:82",
+   "meal": "Emrimiz gelince, o şehrin altını üstüne getirdik...",
+   "baglanti": "Hûd suresinde bu meydan okumanın sonucunu, şehrin alt üst edilmesiyle somut olarak gösteren devam ayetidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Lût kavminin işlediği somut davranışlar ve uyarıya verdikleri meydan okuyucu cevaptır. Bu, Kur'an'da özel bir konudur.",
+  "Buradan çıkarılabilecek genel ders, bir uyarıyı ciddiye almak yerine alaya alma tavrının, kişiyi doğru yoldan iyice uzaklaştırdığıdır. Bir eleştiriyi veya uyarıyı savunmaya geçip meydan okuyarak karşılamak yerine, önce üzerinde düşünmek daha sağlıklı bir tepkidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Uyarıyı meydan okumadan dinle",
+   "aciklama": "Bugün sana yapılan bir eleştiriyi, hemen reddetmeden önce sakince düşün."
+  },
+  {
+   "baslik": "Alaycı tepkiden kaçın",
+   "aciklama": "Haklı bir uyarıya, onu küçümseyerek değil ciddiye alarak karşılık ver."
+  },
+  {
+   "baslik": "Toplumsal bir yanlışa ortak olma",
+   "aciklama": "Bir grup içinde yapılan yanlış bir davranışa, sessizce katılmak yerine mesafeni koru."
+  }
+ ],
+ "bugununAdimi": "Bugün sana yapılan bir eleştiriyi savunmaya geçmeden önce sakince düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=29"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/29/29"
+  }
+ ]
+}
