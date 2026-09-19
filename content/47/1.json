@@ -1,0 +1,110 @@
+{
+ "sure": 47,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "İnkâr edip Allah yolundan alıkoyanların amellerini [Allah] boşa çıkarmıştır.",
+ "mealNotu": "'Sadd' kökü alıkoymayı, engellemeyi anlatır. 'Edalle' fiilinin öznesi cümlede ayrı bir kelimeyle belirtilmez, bu yüzden [Allah] köşeli parantez içinde eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) -enler, kimseler",
+   "karsilik": "-enlerin"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr edenler"
+  },
+  {
+   "kelime": "وَصَدُّوا۟",
+   "okunus": "ve saddû",
+   "kok": "صدد",
+   "kokAnlam": "engelleme, alıkoyma, yüz çevirme",
+   "karsilik": "ve alıkoyanlar"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol, gidilecek yol",
+   "karsilik": "yolundan"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; ibadet edilen",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "أَضَلَّ",
+   "okunus": "edalle",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, yolunu şaşırma; boşa çıkarma",
+   "karsilik": "boşa çıkardı"
+  },
+  {
+   "kelime": "أَعْمَٰلَهُمْ",
+   "okunus": "a'mâlehüm",
+   "kok": "عمل",
+   "kokAnlam": "yapma, iş, amel",
+   "karsilik": "amellerini"
+  }
+ ],
+ "neAnlatiyor": [
+  "Muhammed suresi Medine döneminde iner ve savaşla ilgili hükümler içerir. Sure, açılışta iki grubu karşılaştırarak başlar: inkâr edip insanları da Allah yolundan alıkoyanlar. 'Sadd' kökü yalnız inkârcı olmayı değil, başkalarını da o yoldan aktif biçimde çevirmeyi ifade eder.",
+  "'Edalle a'mâlehüm' (amellerini boşa çıkardı) ifadesi, sure boyunca tekrar eden bir tema olarak 8 ve 9. ayetlerde de geçer. Klasik tefsir bunu, inkârcıların dünyada yaptığı işlerin ahirette bir karşılık getirmeyeceği şeklinde açıklar; çünkü amelin kabulü imana bağlıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "16:88",
+   "meal": "İnkâr edip Allah yolundan alıkoyanlara, bozgunculuk çıkardıkları için azap üstüne azap artırırız.",
+   "baglanti": "47:1 ile aynı 'keferû ve saddû an sebîlillâh' ifadesiyle başlar; orada ceza azabın artışı, burada amellerin boşa çıkması olarak anlatılır."
+  },
+  {
+   "ref": "18:105",
+   "meal": "Onlar Rablerinin ayetlerini ve O'na kavuşmayı inkâr edenlerdir; bu yüzden amelleri boşa çıkmıştır, kıyamet günü onlar için bir terazi tutmayız.",
+   "baglanti": "'Amellerin boşa çıkması' ifadesi burada da geçer; iman ile amel arasındaki bağı aynı şekilde vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, inkâr edip başkalarını da Allah yolundan alıkoyanların işlediği amellerin karşılıksız kalmasıdır; bu bir savaş ya da hukuk hükmü değil, iman-amel ilişkisine dair genel bir ilkedir.",
+  "Günlük hayata taşınabilecek ders: yapılan bir işin değerini, o işin hangi niyet ve zeminde yapıldığı belirler. Başkasını iyi bir yoldan alıkoymak, kendi elinle yaptığın iyi işleri de gölgeler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Niyetini gözden geçir",
+   "aciklama": "Bugün bir işe başlarken kısaca 'bunu neden yapıyorum' diye sor kendine."
+  },
+  {
+   "baslik": "Birini bir iyilikten alıkoymadığından emin ol",
+   "aciklama": "Sözünle ya da tavrınla başkasının hayırlı bir adımını engelleyip engellemediğini düşün."
+  },
+  {
+   "baslik": "Görünmeyeni de görüldüğünü bil",
+   "aciklama": "Kimse görmese de yaptığın işin bir karşılığı olduğunu hatırla; bugün bir işini gösteriş için değil içtenlikle yap."
+  }
+ ],
+ "bugununAdimi": "Bugün yapacağın bir işe başlamadan önce niyetini kısaca kendine sesli söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/47/1"
+  }
+ ]
+}

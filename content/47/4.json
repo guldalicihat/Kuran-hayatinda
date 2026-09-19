@@ -1,0 +1,320 @@
+{
+ "sure": 47,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "İnkâr edenlerle (savaş meydanında) karşılaştığınızda boyunlarını vurun; onları iyice etkisiz hale getirdiğinizde bağı sıkı tutun (esir alın). Sonra ya karşılıksız salıverin ya da fidye karşılığı bırakın; ta ki savaş ağırlıklarını bıraksın. Bu böyledir; Allah dileseydi onlardan [kendisi] öç alırdı, fakat [böylece] sizi birbirinizle sınar. Allah yolunda öldürülenlerin amellerini [Allah] asla boşa çıkarmaz.",
+ "mealNotu": "'Lekîtüm' (karşılaştığınızda) ve 'harb' (savaş) kelimeleri, ayetin muharebe meydanındaki karşılaşmayı konu aldığını gösterir; 'mennen' (karşılıksız salıverme) ve 'fidâen' (fidye) seçenekleri esirlere yönelik iki seçenek sunar. Fail'i belirsiz fiillerde [Allah], bağlaç eksikliğinde [böylece] ve [kendisi] köşeli parantezle eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "فَإِذَا",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığınızda"
+  },
+  {
+   "kelime": "لَقِيتُمُ",
+   "okunus": "lekîtümü",
+   "kok": "لقي",
+   "kokAnlam": "karşılaşma, buluşma",
+   "karsilik": "karşılaştığınız"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) -enler, kimseler",
+   "karsilik": "-enlerle"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr edenlerle"
+  },
+  {
+   "kelime": "فَضَرْبَ",
+   "okunus": "fedarbe",
+   "kok": "ضرب",
+   "kokAnlam": "vurma; misal verme, öne sürme",
+   "karsilik": "vurun"
+  },
+  {
+   "kelime": "ٱلرِّقَابِ",
+   "okunus": "errikâbi",
+   "kok": "رقب",
+   "kokAnlam": "boyun; gözetleme, bekleme",
+   "karsilik": "boyunlarını"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(başlangıç) ta ki, nihayet",
+   "karsilik": "ta ki"
+  },
+  {
+   "kelime": "إِذَآ",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığınızda"
+  },
+  {
+   "kelime": "أَثْخَنتُمُوهُمْ",
+   "okunus": "eshantümûhüm",
+   "kok": "ثخن",
+   "kokAnlam": "ağırlaşma, çok yaralayıp güçsüzleştirme",
+   "karsilik": "onları iyice etkisiz kıldığınızda"
+  },
+  {
+   "kelime": "فَشُدُّوا۟",
+   "okunus": "feşüddû",
+   "kok": "شدد",
+   "kokAnlam": "sağlamlaştırma, sıkı tutma",
+   "karsilik": "sıkıca bağlayın"
+  },
+  {
+   "kelime": "ٱلْوَثَاقَ",
+   "okunus": "elvesâka",
+   "kok": "وثق",
+   "kokAnlam": "bağlama, sağlamlaştırma, güven",
+   "karsilik": "bağı"
+  },
+  {
+   "kelime": "فَإِمَّا",
+   "okunus": "feimmâ",
+   "kok": "—",
+   "kokAnlam": "(açıklama) ya",
+   "karsilik": "ya"
+  },
+  {
+   "kelime": "مَنًّۢا",
+   "okunus": "mennem",
+   "kok": "منن",
+   "kokAnlam": "lütuf, karşılıksız bağış; nimet",
+   "karsilik": "karşılıksız bırakma"
+  },
+  {
+   "kelime": "بَعْدُ",
+   "okunus": "ba'dü",
+   "kok": "بعد",
+   "kokAnlam": "sonra, ardından",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "وَإِمَّا",
+   "okunus": "ve immâ",
+   "kok": "—",
+   "kokAnlam": "(açıklama) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "فِدَآءً",
+   "okunus": "fidâen",
+   "kok": "فدي",
+   "kokAnlam": "fidye, kurtarma bedeli",
+   "karsilik": "fidye karşılığı"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ta ki",
+   "karsilik": "ta ki"
+  },
+  {
+   "kelime": "تَضَعَ",
+   "okunus": "tedaa",
+   "kok": "وضع",
+   "kokAnlam": "koyma, bırakma",
+   "karsilik": "bırakıncaya kadar"
+  },
+  {
+   "kelime": "ٱلْحَرْبُ",
+   "okunus": "elharbü",
+   "kok": "حرب",
+   "kokAnlam": "savaş, çarpışma",
+   "karsilik": "savaş"
+  },
+  {
+   "kelime": "أَوْزَارَهَا",
+   "okunus": "evzârahâ",
+   "kok": "وزر",
+   "kokAnlam": "ağırlık, yük; günah yükü",
+   "karsilik": "ağırlıklarını"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu, o",
+   "karsilik": "işte budur"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer... olsaydı",
+   "karsilik": "eğer... olsaydı"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dileseydi"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; ibadet edilen",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَٱنتَصَرَ",
+   "okunus": "lentesara",
+   "kok": "نصر",
+   "kokAnlam": "yardım etme, zafer kazandırma; kendiliğinden öç alma",
+   "karsilik": "öç alırdı"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "وَلَٰكِن",
+   "okunus": "ve lâkin",
+   "kok": "—",
+   "kokAnlam": "(düzeltme) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "لِّيَبْلُوَا۟",
+   "okunus": "liyeblüve",
+   "kok": "بلو",
+   "kokAnlam": "sınama, deneme",
+   "karsilik": "sınamak için"
+  },
+  {
+   "kelime": "بَعْضَكُم",
+   "okunus": "ba'daküm",
+   "kok": "بعض",
+   "kokAnlam": "bir kısım, bazısı",
+   "karsilik": "kiminizi"
+  },
+  {
+   "kelime": "بِبَعْضٍ",
+   "okunus": "biba'dın",
+   "kok": "بعض",
+   "kokAnlam": "bir kısım, bazısı",
+   "karsilik": "kiminizle"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve -enler",
+   "karsilik": "ve -olanlar"
+  },
+  {
+   "kelime": "قُتِلُوا۟",
+   "okunus": "kutilû",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürülenler"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِ",
+   "okunus": "sebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol, gidilecek yol",
+   "karsilik": "yolunda"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; ibadet edilen",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَلَن",
+   "okunus": "felen",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) asla ... değil",
+   "karsilik": "asla ... değil"
+  },
+  {
+   "kelime": "يُضِلَّ",
+   "okunus": "yüdılle",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, yolunu şaşırma; boşa çıkarma",
+   "karsilik": "boşa çıkarmaz"
+  },
+  {
+   "kelime": "أَعْمَٰلَهُمْ",
+   "okunus": "a'mâlehüm",
+   "kok": "عمل",
+   "kokAnlam": "yapma, iş, amel",
+   "karsilik": "amellerini"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Medine döneminde savunma savaşları içindeki müminlere, muharebe meydanında düşmanla karşılaşma durumunu düzenleyen bir hükümdür; sivillerle ilgili değildir, çarpışma anındaki askeri karşılaşmayı konu alır. Düşman iyice etkisiz hale getirildikten sonra ayet, esir alınanlara iki seçenek sunar: karşılıksız salıverme (menn) ya da fidye karşılığı bırakma (fidâ). Bu, savaşın Kur'an'da sınırsız değil, kurallı ve ölçülü bir eylem olarak sunulduğunu gösterir.",
+  "Ayetin devamı, Allah'ın dileseydi müminlerin savaşmasına gerek kalmadan inkârcılardan kendisi öç alabileceğini, ancak insanları birbiriyle sınamayı dilediğini belirtir. Son cümle, Allah yolunda öldürülenlerin amellerinin asla boşa gitmeyeceğini vurgular; bu tema, surenin 1. ayetindeki 'amellerin boşa çıkması' ifadesiyle bir zıtlık oluşturur. Klasik tefsir, bu ayeti savaş sonrası esirlerle ilgili uygulamalarla ilişkilendirerek açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:190",
+   "meal": "Sizinle savaşanlarla Allah yolunda savaşın, fakat aşırı gitmeyin; Allah aşırı gidenleri sevmez.",
+   "baglanti": "47:4, muharebedeki hükmü sınırlı ve kurallı biçimde tanımlar; 2:190 da savaşın ölçüsünü, saldırganlık sınırını aşmama ilkesiyle çizer."
+  },
+  {
+   "ref": "8:67",
+   "meal": "Yeryüzünde düşmanı tam anlamıyla etkisiz kılmadan, hiçbir peygamberin esirler edinmesi doğru olmaz; siz dünya malını istiyorsunuz, oysa Allah ahireti ister.",
+   "baglanti": "'Ashantümûhüm' (iyice etkisiz kılma) ile 8:67'deki aynı kök burada da geçer; her iki ayet de esir alma konusunu savaşın belirli aşamalarına bağlı olarak ele alır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu savaştır; Medine döneminde savunma savaşı veren müminlere, muharebe meydanındaki düşmanla karşılaşma ve esirlere nasıl davranılacağına dair özel bir hükümdür. Bu, günlük hayata birebir uygulanacak bir kural değildir.",
+  "Yine de ayetten genel bir ilke çıkar: güç eline geçtiğinde bile ölçülü davranmak ve karşı tarafa saygılı çıkış yolları sunmak. Bir anlaşmazlıkta üstün geldiğinde karşındakini ezmek yerine adil ve ölçülü bir çözüm aramak, bu ayetten zorlamadan çıkarılabilecek bir derstir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Üstün geldiğinde ölçülü kal",
+   "aciklama": "Bir tartışmayı kazandığında karşındakini küçük düşürmek yerine ona saygılı bir çıkış yolu bırak."
+  },
+  {
+   "baslik": "Bir anlaşmazlıkta aşırıya kaçma",
+   "aciklama": "Haklı olduğun bir durumda bile sınırı aşmamaya dikkat et."
+  },
+  {
+   "baslik": "Emeğinin karşılıksız kalmayacağını hatırla",
+   "aciklama": "Karşılığını hemen göremediğin bir işin boşa gitmediğini bugün kendine hatırlat."
+  }
+ ],
+ "bugununAdimi": "Bugün bir anlaşmazlıkta haklı olsan bile karşındakine ölçülü ve saygılı bir çıkış yolu bırak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/47/4"
+  }
+ ]
+}

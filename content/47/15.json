@@ -1,0 +1,362 @@
+{
+ "sure": 47,
+ "ayet": 15,
+ "durum": "taslak",
+ "meal": "Takva sahiplerine vadedilen cennetin durumu şöyledir: orada bozulmayan sudan ırmaklar, tadı değişmeyen sütten ırmaklar, içenlere lezzet veren şaraptan ırmaklar ve süzme baldan ırmaklar vardır. Onlar için orada her türlü meyve ve Rablerinden bir bağışlanma vardır. [Bunlar,] ateşte temelli kalan, kendilerine kaynar su içirilip bağırsakları parça parça kesilen kimse gibi midir?",
+ "mealNotu": "'Hamr' kelimesi burada cennet ırmağı bağlamında geçer; ayetin kendi ifadesiyle bu şarap 'lezzetli' (leẕẕetin) olarak nitelenir, dünyadaki içkinin sarhoşluk ve zarar veren yönü burada yoktur; bu, dünyada içkinin haram kılınmasıyla çelişmez. Cümlenin öznesi ayrı bir kelimeyle verilmediği için [Bunlar,] köşeli parantez içinde eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "مَّثَلُ",
+   "okunus": "meselü",
+   "kok": "مثل",
+   "kokAnlam": "benzetme, örnek, misal",
+   "karsilik": "durumu"
+  },
+  {
+   "kelime": "ٱلْجَنَّةِ",
+   "okunus": "elcenneti",
+   "kok": "جنن",
+   "kokAnlam": "örtme, gizleme; bahçe, cennet",
+   "karsilik": "cennetin"
+  },
+  {
+   "kelime": "ٱلَّتِى",
+   "okunus": "elletî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "وُعِدَ",
+   "okunus": "vüide",
+   "kok": "وعد",
+   "kokAnlam": "söz verme, vaat",
+   "karsilik": "vadedilen"
+  },
+  {
+   "kelime": "ٱلْمُتَّقُونَ",
+   "okunus": "elmüttekûne",
+   "kok": "وقي",
+   "kokAnlam": "koruma, sakınma; takva",
+   "karsilik": "takva sahiplerine"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) onda, içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "أَنْهَٰرٌ",
+   "okunus": "enhârun",
+   "kok": "نهر",
+   "kokAnlam": "ırmak, nehir",
+   "karsilik": "ırmaklar (vardır)"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "مَآءً",
+   "okunus": "mâin",
+   "kok": "موه",
+   "kokAnlam": "su",
+   "karsilik": "su"
+  },
+  {
+   "kelime": "غَيْرِ",
+   "okunus": "gayri",
+   "kok": "غير",
+   "kokAnlam": "başkalık, değişme",
+   "karsilik": "olmayan"
+  },
+  {
+   "kelime": "ءَاسِنٍ",
+   "okunus": "âsinin",
+   "kok": "أسن",
+   "kokAnlam": "bozulma, kokuşma (suyun)",
+   "karsilik": "bozuk"
+  },
+  {
+   "kelime": "وَأَنْهَٰرٌ",
+   "okunus": "ve enhârun",
+   "kok": "نهر",
+   "kokAnlam": "ırmak, nehir",
+   "karsilik": "ve ırmaklar"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "لَّبَنٍ",
+   "okunus": "lebenin",
+   "kok": "لبن",
+   "kokAnlam": "süt",
+   "karsilik": "süt"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değişmeyen",
+   "karsilik": "değişmeyen"
+  },
+  {
+   "kelime": "يَتَغَيَّرْ",
+   "okunus": "yeteğayyer",
+   "kok": "غير",
+   "kokAnlam": "başkalık, değişme",
+   "karsilik": "değişmeyen"
+  },
+  {
+   "kelime": "طَعْمُهُۥ",
+   "okunus": "ta'mühû",
+   "kok": "طعم",
+   "kokAnlam": "tat, lezzet; yeme",
+   "karsilik": "tadı"
+  },
+  {
+   "kelime": "وَأَنْهَٰرٌ",
+   "okunus": "ve enhârun",
+   "kok": "نهر",
+   "kokAnlam": "ırmak, nehir",
+   "karsilik": "ve ırmaklar"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "خَمْرٍ",
+   "okunus": "hamrin",
+   "kok": "خمر",
+   "kokAnlam": "örtme; şarap, sarhoşluk veren içki",
+   "karsilik": "şarap"
+  },
+  {
+   "kelime": "لَّذَّةٍ",
+   "okunus": "lezzetin",
+   "kok": "لذذ",
+   "kokAnlam": "lezzet, tatlılık",
+   "karsilik": "lezzetli"
+  },
+  {
+   "kelime": "لِّلشَّٰرِبِينَ",
+   "okunus": "lilşşâribîne",
+   "kok": "شرب",
+   "kokAnlam": "içme",
+   "karsilik": "içenler için"
+  },
+  {
+   "kelime": "وَأَنْهَٰرٌ",
+   "okunus": "ve enhârun",
+   "kok": "نهر",
+   "kokAnlam": "ırmak, nehir",
+   "karsilik": "ve ırmaklar"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "عَسَلٍ",
+   "okunus": "aselin",
+   "kok": "عسل",
+   "kokAnlam": "bal",
+   "karsilik": "bal"
+  },
+  {
+   "kelime": "مُّصَفًّى",
+   "okunus": "müsaffen",
+   "kok": "صفو",
+   "kokAnlam": "duruluk, saflık, süzülmüş olma",
+   "karsilik": "süzülmüş"
+  },
+  {
+   "kelime": "وَلَهُمْ",
+   "okunus": "ve lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara vardır",
+   "karsilik": "ve onlara vardır"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) orada",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "كُلِّ",
+   "okunus": "külli",
+   "kok": "كلل",
+   "kokAnlam": "bütünlük, her biri, tümü",
+   "karsilik": "her türlü"
+  },
+  {
+   "kelime": "ٱلثَّمَرَٰتِ",
+   "okunus": "essemerâti",
+   "kok": "ثمر",
+   "kokAnlam": "meyve, ürün",
+   "karsilik": "meyveden"
+  },
+  {
+   "kelime": "وَمَغْفِرَةٌ",
+   "okunus": "ve mağfiratün",
+   "kok": "غفر",
+   "kokAnlam": "örtme, bağışlama",
+   "karsilik": "ve bir bağışlanma"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّهِمْ",
+   "okunus": "rabbihim",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, besleyip yetiştirme; Rab",
+   "karsilik": "Rablerinden"
+  },
+  {
+   "kelime": "كَمَنْ",
+   "okunus": "kemen",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimse gibi (midir)",
+   "karsilik": "kimse gibi (midir)"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "خَٰلِدٌ",
+   "okunus": "hâlidün",
+   "kok": "خلد",
+   "kokAnlam": "süreklilik, ebedî kalma",
+   "karsilik": "sürekli kalan"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلنَّارِ",
+   "okunus": "ennâri",
+   "kok": "نور",
+   "kokAnlam": "ışık, alev; ateş",
+   "karsilik": "ateşte"
+  },
+  {
+   "kelime": "وَسُقُوا۟",
+   "okunus": "ve sükû",
+   "kok": "سقي",
+   "kokAnlam": "sulama, içirme",
+   "karsilik": "ve içirildiler"
+  },
+  {
+   "kelime": "مَآءً",
+   "okunus": "mâen",
+   "kok": "موه",
+   "kokAnlam": "su",
+   "karsilik": "bir su"
+  },
+  {
+   "kelime": "حَمِيمًا",
+   "okunus": "hamîmen",
+   "kok": "حمم",
+   "kokAnlam": "kaynama, ısı; kaynar su",
+   "karsilik": "kaynar"
+  },
+  {
+   "kelime": "فَقَطَّعَ",
+   "okunus": "fekattaa",
+   "kok": "قطع",
+   "kokAnlam": "kesme, parçalama",
+   "karsilik": "parça parça kesti"
+  },
+  {
+   "kelime": "أَمْعَآءَهُمْ",
+   "okunus": "em'âehüm",
+   "kok": "معي",
+   "kokAnlam": "bağırsak",
+   "karsilik": "bağırsaklarını"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet cenneti dört farklı ırmakla (su, süt, şarap, bal) betimler ve bunu takva sahiplerine yapılmış bir vaat olarak sunar. Her ırmağın niteliği, dünyadaki karşılığının eksikliğini gidermek üzere tarif edilir: su bozulmaz, süt tadı değişmez, bal süzülmüştür. Şaraba gelince, ayet onu 'içenlere lezzet veren' bir nitelikle anar; bu, dünyadaki alkolün sarhoşluk ve zarar veren yönünden farklı, cennete özgü bir nimet olarak tasvir edilir. Klasik tefsir bu farkı, ahiretteki nimetlerin dünyadaki isimdeş karşılıklarından nitelik olarak ayrı olduğunu belirterek açıklar; bu tasvir dünyada içkinin haram kılınmasıyla çelişmez.",
+  "Ayetin ikinci yarısı, bu tasviri ateşte temelli kalan ve kaynar suyla bağırsakları parçalanan kimseyle karşılaştırır. Bu sert karşıtlık, sure boyunca tekrarlanan iman-inkâr, cennet-cehennem karşılaştırmasının en somut örneklerinden biridir. 'Mağfiretün min rabbihim' (Rablerinden bir bağışlanma) ifadesi, bu nimetlerin yalnızca maddi bir ödül değil, manevi bir bağışlanmayla birlikte geldiğini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "37:47",
+   "meal": "Onda ne baş döndürme/sersemletme vardır, ne de onunla sarhoş olurlar.",
+   "baglanti": "47:15'teki 'şaraptan ırmaklar, içenlere lezzet verir' ifadesini tamamlar; bu ayet cennet şarabının dünyadaki gibi sarhoşluk veya baş ağrısı vermediğini açıkça belirtir."
+  },
+  {
+   "ref": "13:35",
+   "meal": "Takva sahiplerine vadedilen cennetin durumu şöyledir: altından ırmaklar akar, ürünleri ve gölgesi süreklidir. Bu, takva sahiplerinin akıbetidir; kâfirlerin akıbeti ise ateştir.",
+   "baglanti": "47:15 ile birebir aynı açılış ifadesini ('meselü'l-cenneti'lletî vuide'l-müttekûne') paylaşır; iki ayet de cenneti benzer bir üslupla tasvir eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, cennetin nimetlerinin (dört ırmak, meyveler, bağışlanma) cehennemdeki azapla karşılaştırılmasıdır; bu gayb alanına ait bir tasvirdir, kesinlik iddiasıyla değil Kur'an'ın kendi ifadesiyle aktarılır.",
+  "Günlük hayata taşınabilecek ders, kalıcı ve bozulmayan olanla geçici ve bozulan olanı ayırt etmektir. Bugün, peşinden koştuğun bir şeyin kalıcı mı yoksa geçici mi olduğunu düşünmek, bu ayetten zorlamadan çıkarılabilecek bir hatırlatmadır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kalıcı olanı geçiciye tercih et",
+   "aciklama": "Anlık bir zevk ile uzun vadede iyi olan bir şey arasında seçim yapman gerekirse, kalıcı olanı seç."
+  },
+  {
+   "baslik": "Bir nimeti fark et",
+   "aciklama": "Bugün suyunu içerken ya da yemeğini yerken, bunun bir nimet olduğunu bilerek şükret."
+  },
+  {
+   "baslik": "Bağışlanmayı hatırla",
+   "aciklama": "Bir hatanı kabul edip bugün onu düzeltmeye veya affetmeye niyet et."
+  }
+ ],
+ "bugununAdimi": "Bugün su içerken ya da bir yemek yerken, bunu bir nimet olarak fark edip kısaca şükret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=15"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/47/15"
+  }
+ ]
+}

@@ -1,0 +1,208 @@
+{
+ "sure": 47,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Şüphesiz Allah, iman edip salih ameller işleyenleri, altından ırmaklar akan cennetlere sokar. İnkâr edenler ise [dünyada] yararlanır ve hayvanların yediği gibi yerler; ateş ise onlar için bir barınaktır.",
+ "mealNotu": "'Yetemetteûne' (yararlanırlar) fiili, dünya nimetlerinden geçici zevk almayı anlatır; 'kemâ te'külü'l-en'âm' (hayvanların yediği gibi) benzetmesi, bu yararlanmanın bilinçsiz ve amaçsız oluşuna işaret eder. Ayetin metninde geçmeyen '[dünyada]' bağlamı netleştirmek için köşeli parantez içinde eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; ibadet edilen",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يُدْخِلُ",
+   "okunus": "yüdhılü",
+   "kok": "دخل",
+   "kokAnlam": "girme, içine alma",
+   "karsilik": "sokar"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) -enleri, kimseler",
+   "karsilik": "-enleri"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanan",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "وَعَمِلُوا۟",
+   "okunus": "ve amilû",
+   "kok": "عمل",
+   "kokAnlam": "yapma, iş, amel",
+   "karsilik": "ve işleyenler"
+  },
+  {
+   "kelime": "ٱلصَّٰلِحَٰتِ",
+   "okunus": "essâlihâti",
+   "kok": "صلح",
+   "kokAnlam": "iyi olma, düzgünlük, ıslah",
+   "karsilik": "salih amelleri"
+  },
+  {
+   "kelime": "جَنَّٰتٍ",
+   "okunus": "cennâtin",
+   "kok": "جنن",
+   "kokAnlam": "örtme, gizleme; bahçe, cennet",
+   "karsilik": "cennetlere"
+  },
+  {
+   "kelime": "تَجْرِى",
+   "okunus": "tecrî",
+   "kok": "جري",
+   "kokAnlam": "akma, koşma",
+   "karsilik": "akan"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "تَحْتِهَا",
+   "okunus": "tahtihâ",
+   "kok": "تحت",
+   "kokAnlam": "alt, altında olma",
+   "karsilik": "altından"
+  },
+  {
+   "kelime": "ٱلْأَنْهَٰرُ",
+   "okunus": "el'enhâru",
+   "kok": "نهر",
+   "kokAnlam": "ırmak, nehir",
+   "karsilik": "ırmaklar"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve -enler ise",
+   "karsilik": "ve -enler ise"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "inkâr edenler"
+  },
+  {
+   "kelime": "يَتَمَتَّعُونَ",
+   "okunus": "yetemetteûne",
+   "kok": "متع",
+   "kokAnlam": "yararlanma, zevk alma, geçici fayda",
+   "karsilik": "yararlanırlar"
+  },
+  {
+   "kelime": "وَيَأْكُلُونَ",
+   "okunus": "ve ye'külûne",
+   "kok": "أكل",
+   "kokAnlam": "yeme",
+   "karsilik": "ve yerler"
+  },
+  {
+   "kelime": "كَمَا",
+   "okunus": "kemâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) gibi",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "تَأْكُلُ",
+   "okunus": "te'külü",
+   "kok": "أكل",
+   "kokAnlam": "yeme",
+   "karsilik": "yediği"
+  },
+  {
+   "kelime": "ٱلْأَنْعَٰمُ",
+   "okunus": "el'en'âmü",
+   "kok": "نعم",
+   "kokAnlam": "nimet; evcil hayvan, davar",
+   "karsilik": "hayvanların"
+  },
+  {
+   "kelime": "وَٱلنَّارُ",
+   "okunus": "ven nâru",
+   "kok": "نور",
+   "kokAnlam": "ışık, alev; ateş",
+   "karsilik": "ateş ise"
+  },
+  {
+   "kelime": "مَثْوًى",
+   "okunus": "mesven",
+   "kok": "ثوي",
+   "kokAnlam": "kalma, ikamet etme; barınak",
+   "karsilik": "bir barınaktır"
+  },
+  {
+   "kelime": "لَّهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar için",
+   "karsilik": "onlar için"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, sure boyunca tekrarlanan iman-inkâr karşılaştırmasının en açık örneklerinden biridir: iman edip salih amel işleyenler ırmaklı cennetlere girerken, inkâr edenler dünyada geçici zevk alıp hayvanlar gibi yiyip içerler. 'Yetemetteûne' fiili, kökü itibariyle geçici, amaçsız bir faydalanmayı ifade eder.",
+  "'Kemâ te'külü'l-en'âm' (hayvanların yediği gibi) benzetmesi, klasik tefsirde inkârcıların hayatını yeme-içme ve anlık zevke indirgeyen, geleceği düşünmeyen bir tutum olarak açıklanır. Ayet, bu tutumun karşılığını 'ateş, onlar için bir barınaktır' cümlesiyle bitirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:14",
+   "meal": "İnsanlara kadın, evlat, yığılmış altın-gümüş, soylu atlar, davarlar ve ekin sevgisi çekici kılındı. Bunlar dünya hayatının geçici zevkleridir; oysa varılacak güzel yer Allah katındadır.",
+   "baglanti": "Aynı 'metâ' (geçici yararlanma) kökü burada da geçer; 47:12'deki inkârcıların dünya zevkiyle yetinmesi teması, dünya hayatının geçiciliğiyle açıklanır."
+  },
+  {
+   "ref": "9:38",
+   "meal": "Dünya hayatının yararı, ahiretin yanında çok azdır.",
+   "baglanti": "'Metâ' kökü burada da dünya zevkinin geçiciliğini anlatır; 47:12'deki inkârcıların bu geçici yararlanmayla yetinmesi teması aynı vurguyu taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, iman edip salih amel işleyenlerin cennetle, inkâr edenlerin ise dünyadaki geçici ve bilinçsiz bir yararlanmayla nitelendirilmesidir; bu bir kıyaslama ayetidir, belirli bir olayı anlatmaz.",
+  "Günlük hayata taşınabilecek ders, yeme-içme ve anlık zevklerin kendi başına bir amaç olmadığıdır. Bugün, günlük ihtiyaçlarını karşılarken bunun ötesinde bir amaç taşıyıp taşımadığını sormak, bu ayetten çıkarılabilecek bir derstir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir zevkini amaçsız bırakma",
+   "aciklama": "Yemek, dinlenme gibi günlük bir eylemini, bilinçli bir amaçla (şükür, sağlık, paylaşma) birleştir."
+  },
+  {
+   "baslik": "Anlık zevkin ötesini düşün",
+   "aciklama": "Bugün yaptığın bir şeyin, seni yarına nasıl taşıdığını kısaca düşün."
+  },
+  {
+   "baslik": "Bir nimeti fark ederek tüket",
+   "aciklama": "Bugün yediğin bir öğünde, bunun bir nimet olduğunu bilerek ye."
+  }
+ ],
+ "bugununAdimi": "Bugün bir öğününü, bunun bir nimet olduğunu hatırlayarak ve amaçsızca değil bilinçli ye.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=47&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/47/12"
+  }
+ ]
+}
