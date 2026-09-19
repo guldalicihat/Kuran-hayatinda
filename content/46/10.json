@@ -1,0 +1,222 @@
+{
+ "sure": 46,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "De ki: 'Söyleyin bakalım, eğer bu Kitap Allah katından ise ve siz onu inkâr ettiyseniz, İsrailoğullarından bir şahit de onun benzerine şahitlik edip iman ettiyse ve siz büyüklük tasladıysanız [haksızlık etmiş olmaz mısınız]? Şüphesiz Allah, zalimler topluluğunu doğru yola iletmez.'",
+ "mealNotu": "Cümlenin 'eğer ... ise' ile başlayan şart kısmının cevabı (asıl hüküm) Arapçada zikredilmez; klasik dilbilgisi bunu 'haksızlık etmiş olmaz mısınız' gibi bir ifadeyle tamamlar. Köşeli parantez, kelimelerde bulunmayan bu tamamlamayı gösterir. Ayet, İsrailoğullarından bir şahidin bu Kitab'ın benzerine (Tevrat'a) şahitlik edip iman etmesinden söz eder.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "أَرَءَيْتُمْ",
+   "okunus": "eraeytüm",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "söyleyin bakalım"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "مِّنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "عِندِ",
+   "okunus": "indi",
+   "kok": "عند",
+   "kokAnlam": "yan, kat",
+   "karsilik": "katından"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَكَفَرْتُم",
+   "okunus": "ve kefertüm",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "ve siz inkâr ettiyseniz"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "وَشَهِدَ",
+   "okunus": "ve şehide",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık etme, görme",
+   "karsilik": "ve şahitlik etti"
+  },
+  {
+   "kelime": "شَاهِدٌ",
+   "okunus": "şâhidün",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık etme, görme",
+   "karsilik": "bir şahit"
+  },
+  {
+   "kelime": "مِّنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَنِىٓ",
+   "okunus": "benî",
+   "kok": "بني",
+   "kokAnlam": "oğullar, evlatlar",
+   "karsilik": "oğullarından"
+  },
+  {
+   "kelime": "إِسْرَٰٓءِيلَ",
+   "okunus": "isrâîle",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İsrail",
+   "karsilik": "İsrail'in"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "مِثْلِهِۦ",
+   "okunus": "mislihî",
+   "kok": "مثل",
+   "kokAnlam": "benzer, örnek",
+   "karsilik": "onun benzerine"
+  },
+  {
+   "kelime": "فَـَٔامَنَ",
+   "okunus": "feâmene",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman etme",
+   "karsilik": "iman ettiyse"
+  },
+  {
+   "kelime": "وَٱسْتَكْبَرْتُمْ",
+   "okunus": "vestekbertüm",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük, büyüklenme",
+   "karsilik": "ve siz büyüklendiyseniz"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يَهْدِى",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "yol gösterme, hidayet",
+   "karsilik": "doğru yola iletmez"
+  },
+  {
+   "kelime": "ٱلْقَوْمَ",
+   "okunus": "elkavme",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk, kavim",
+   "karsilik": "topluluğu"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمِينَ",
+   "okunus": "ezzâlimîne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, zulüm",
+   "karsilik": "zalimler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Peygamber'in gaybı bilmediğini söylemesinin ardından bu ayet, inkârcılara yönelik bir mukayese sunar: kendilerinden önce kitap verilmiş bir toplulukta, benzer bir vahye şahitlik edip iman eden biri varken, Mekkeliler aynı şeyi reddediyor ve büyükleniyorlar.",
+  "Ayet, İsrailoğullarından bir şahidin varlığından söz eder; bunun ötesine geçip kimliği, zamanı veya sayısı hakkında kesin bir iddiada bulunmak ayetin kendi ifadesinin dışına çıkmak olur. Sonuç cümlesi nettir: Allah, zulmü seçen bir topluluğu doğru yola iletmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:15",
+   "meal": "Kim doğru yola girerse, ancak kendi lehine girer. Kim saparsa, ancak kendi aleyhine sapar. Hiçbir günahkâr, başkasının günah yükünü taşımaz...",
+   "baglanti": "İsrâ suresindeki bu ayet, Ahkâf 10'daki 'Allah zalimler topluluğunu doğru yola iletmez' hükmünün arkasındaki adalet ilkesini açar: herkes kendi tercihinin sonucunu taşır."
+  },
+  {
+   "ref": "6:33",
+   "meal": "Biliyoruz ki onların söyledikleri seni gerçekten üzüyor. Aslında onlar seni yalanlamıyorlar; zalimler, bile bile Allah'ın ayetlerini inkâr ediyorlar.",
+   "baglanti": "En'âm suresi de inkârın çoğu zaman delil eksikliğinden değil, bilinçli bir haksızlıktan kaynaklandığını anlatır; Ahkâf 10'daki 'zalimler' vurgusuyla örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş bir topluluktan iman eden bir şahitle inkâr eden bir topluluk arasındaki karşılaştırmadır; konu tarihsel ve teolojiktir.",
+  "Günlük hayata taşınabilecek ders, başkalarının kabul ettiği bir gerçeği sırf gurur veya alışkanlık yüzünden reddetmemektir. Büyüklenme, çoğu zaman gerçeği görmeyi engelleyen görünmez bir perdedir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gururunu sınırla",
+   "aciklama": "Bugün bir gerçeği kabul etmekte zorlanıyorsan, bunun gururdan mı kaynaklandığını kendine sor."
+  },
+  {
+   "baslik": "Başkasının örneğine bak",
+   "aciklama": "Bugün senden önce doğru bir yolu seçen birinin örneğinden ders çıkar."
+  },
+  {
+   "baslik": "Haksızlıktan kaçın",
+   "aciklama": "Bugün bir konuda haksız davrandığını fark edersen, bunu düzeltmeye çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün kabul etmeye direndiğin bir gerçeği, gururunu bir kenara bırakarak yeniden düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=46&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/46/10"
+  }
+ ]
+}

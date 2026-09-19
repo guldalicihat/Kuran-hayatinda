@@ -1,0 +1,222 @@
+{
+ "sure": 46,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "De ki: 'Ben türedi bir elçi değilim. Bana ve size ne yapılacağını da bilmiyorum. Ben sadece bana vahyedilene uyarım. Ben apaçık bir uyarıcıdan başka bir şey değilim.'",
+ "mealNotu": "'Bid' kökü daha önce benzeri görülmemiş, ilk defa ortaya çıkan anlamındadır; Peygamber'in 'türedi bir elçi değilim' demesi, kendisinden önce başka elçilerin geldiğini hatırlatır. 'Edrî' (bilme) fiili, gaybı bilmediğini açıkça ifade eder.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değilim"
+  },
+  {
+   "kelime": "كُنتُ",
+   "okunus": "küntü",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-im"
+  },
+  {
+   "kelime": "بِدْعًا",
+   "okunus": "bid'an",
+   "kok": "بدع",
+   "kokAnlam": "ilk kez ortaya çıkma, benzeri olmayan, türedi",
+   "karsilik": "türedi biri"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلرُّسُلِ",
+   "okunus": "errusüli",
+   "kok": "رسل",
+   "kokAnlam": "gönderme; elçi",
+   "karsilik": "elçiler"
+  },
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve bilmiyorum"
+  },
+  {
+   "kelime": "أَدْرِى",
+   "okunus": "edrî",
+   "kok": "دري",
+   "kokAnlam": "bilme, farkında olma",
+   "karsilik": "bilmiyorum"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "يُفْعَلُ",
+   "okunus": "yüf'alü",
+   "kok": "فعل",
+   "kokAnlam": "yapma",
+   "karsilik": "yapılacağını"
+  },
+  {
+   "kelime": "بِى",
+   "okunus": "bî",
+   "kok": "—",
+   "kokAnlam": "(zamir) bana",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "بِكُمْ",
+   "okunus": "biküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) sadece",
+   "karsilik": "-mem"
+  },
+  {
+   "kelime": "أَتَّبِعُ",
+   "okunus": "ettebiu",
+   "kok": "تبع",
+   "kokAnlam": "izleme, tabi olma, uyma",
+   "karsilik": "uyarım"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şeye"
+  },
+  {
+   "kelime": "يُوحَىٰٓ",
+   "okunus": "yûhâ",
+   "kok": "وحي",
+   "kokAnlam": "vahyetme, gizlice bildirme",
+   "karsilik": "vahyedilen"
+  },
+  {
+   "kelime": "إِلَىَّ",
+   "okunus": "ileyye",
+   "kok": "—",
+   "kokAnlam": "(edat) bana",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve değilim"
+  },
+  {
+   "kelime": "أَنَا۠",
+   "okunus": "ene",
+   "kok": "—",
+   "kokAnlam": "(zamir) ben",
+   "karsilik": "ben"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak...başka"
+  },
+  {
+   "kelime": "نَذِيرٌ",
+   "okunus": "nezîrun",
+   "kok": "نذر",
+   "kokAnlam": "uyarma, sakındırma",
+   "karsilik": "bir uyarıcı"
+  },
+  {
+   "kelime": "مُّبِينٌ",
+   "okunus": "mübînün",
+   "kok": "بين",
+   "kokAnlam": "ayırma, ayırt etme; açık",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Peygamber'e kendi konumunu son derece açık ve alçakgönüllü biçimde tarif etmesini emreder. 'Bid'' kökü, onun ilk ve tek örnek bir elçi olmadığını, kendisinden önce nice elçinin geldiğini bildirir.",
+  "Ayetin ortasındaki 'bana ve size ne yapılacağını bilmiyorum' ifadesi, Peygamber'in gaybı bilmediğinin açık bir beyanıdır; o yalnızca kendisine vahyedilene uyar. Bu, Peygamber'in konumunu abartmaya karşı Kur'an'ın kendi koyduğu bir sınırdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:188",
+   "meal": "De ki: 'Allah'ın dilediği dışında kendime bile ne bir fayda ne de bir zarar verme gücüm yoktur. Gaybı bilseydim daha çok hayır elde ederdim ve bana kötülük dokunmazdı. Ben, inanan bir topluluk için sadece bir uyarıcı ve müjdeleyiciyim.'",
+   "baglanti": "A'râf suresi de Peygamber'in gaybı bilmediğini ve yalnızca uyarıcı olduğunu aynı açıklıkla bildirir."
+  },
+  {
+   "ref": "18:110",
+   "meal": "De ki: 'Ben ancak sizin gibi bir insanım; bana, ilahınızın tek bir ilah olduğu vahyediliyor...'",
+   "baglanti": "Kehf suresi de Peygamber'in insan oluşunu ve yalnızca vahye uyduğunu vurgular; iki ayet de elçilik görevinin sınırlarını çizer."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Peygamber'in kendi konumunu tarif etmesidir: benzersiz değil, gaybı bilmeyen, sadece vahye uyan biri.",
+  "Günlük hayata taşınabilecek ders, bilmediğin bir şeyi bilir gibi konuşmamaktır. En saygın konumdaki bir elçi bile 'bilmiyorum' diyebiliyorsa, sıradan bir insanın her konuda kesin konuşması daha da temelsizdir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilmediğini kabul et",
+   "aciklama": "Bugün emin olmadığın bir konuda 'bilmiyorum' demeyi dene."
+  },
+  {
+   "baslik": "Elindekine uy",
+   "aciklama": "Bugün elindeki bilgiye ve doğru bildiğin yola sadık kal, spekülasyona kapılma."
+  },
+  {
+   "baslik": "Kendini abartma",
+   "aciklama": "Bugün bir konuda haddinden fazla iddialı konuşmadığından emin ol."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda tam emin olmadığını fark edersen, bunu açıkça söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=46&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/46/9"
+  }
+ ]
+}

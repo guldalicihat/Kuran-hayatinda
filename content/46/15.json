@@ -1,0 +1,369 @@
+{
+ "sure": 46,
+ "ayet": 15,
+ "durum": "taslak",
+ "meal": "Biz insana, anne babasına iyilik etmesini emrettik. Annesi onu zahmetle taşıdı ve zahmetle doğurdu. Taşınması ve sütten kesilmesi otuz aydır. Nihayet insan olgunluk çağına erip kırk yaşına ulaştığında der ki: 'Rabbim! Bana ve anne babama verdiğin nimete şükretmemi ve razı olacağın salih bir amel işlememi bana nasip et. Soyumu da benim için salih kıl. Şüphesiz sana tövbe ettim ve ben gerçekten sana teslim olanlardanım.'",
+ "mealNotu": "'Kürh' kökü zorluk ve isteksizce katlanmayı anlatır; anne için hem taşımanın hem doğumun ne denli zahmetli olduğunu vurgular. 'Fisâl' sütten kesmeyi anlatır. Otuz ay, hamilelik ve emzirme sürecinin toplamı olarak anılır; ayet kırk yaşını ayrı bir dönüm noktası olarak belirtir.",
+ "kokler": [
+  {
+   "kelime": "وَوَصَّيْنَا",
+   "okunus": "ve vessaynâ",
+   "kok": "وصي",
+   "kokAnlam": "tavsiye etme, emretme",
+   "karsilik": "emrettik"
+  },
+  {
+   "kelime": "ٱلْإِنسَٰنَ",
+   "okunus": "el'insâne",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet kurma",
+   "karsilik": "insana"
+  },
+  {
+   "kelime": "بِوَٰلِدَيْهِ",
+   "okunus": "bivâlideyhi",
+   "kok": "ولد",
+   "kokAnlam": "doğurma, doğurulma; ana-baba",
+   "karsilik": "anne babasına"
+  },
+  {
+   "kelime": "إِحْسَٰنًا",
+   "okunus": "ihsânen",
+   "kok": "حسن",
+   "kokAnlam": "güzellik, iyilik yapma",
+   "karsilik": "iyilik etmesini"
+  },
+  {
+   "kelime": "حَمَلَتْهُ",
+   "okunus": "hamelethü",
+   "kok": "حمل",
+   "kokAnlam": "taşıma, yüklenme",
+   "karsilik": "onu taşıdı"
+  },
+  {
+   "kelime": "أُمُّهُۥ",
+   "okunus": "ümmühû",
+   "kok": "أمم",
+   "kokAnlam": "anne",
+   "karsilik": "annesi"
+  },
+  {
+   "kelime": "كُرْهًا",
+   "okunus": "kürhen",
+   "kok": "كره",
+   "kokAnlam": "zorluk, hoşlanmama",
+   "karsilik": "zahmetle"
+  },
+  {
+   "kelime": "وَوَضَعَتْهُ",
+   "okunus": "ve vedaathü",
+   "kok": "وضع",
+   "kokAnlam": "koyma, bırakma; doğurma",
+   "karsilik": "ve onu doğurdu"
+  },
+  {
+   "kelime": "كُرْهًا",
+   "okunus": "kürhen",
+   "kok": "كره",
+   "kokAnlam": "zorluk, hoşlanmama",
+   "karsilik": "zahmetle"
+  },
+  {
+   "kelime": "وَحَمْلُهُۥ",
+   "okunus": "ve hamlühû",
+   "kok": "حمل",
+   "kokAnlam": "taşıma, yüklenme; hamilelik",
+   "karsilik": "ve onun taşınması"
+  },
+  {
+   "kelime": "وَفِصَٰلُهُۥ",
+   "okunus": "ve fisâlühû",
+   "kok": "فصل",
+   "kokAnlam": "ayırma; sütten kesme",
+   "karsilik": "ve sütten kesilmesi"
+  },
+  {
+   "kelime": "ثَلَٰثُونَ",
+   "okunus": "selâsûne",
+   "kok": "ثلث",
+   "kokAnlam": "üç; otuz",
+   "karsilik": "otuz"
+  },
+  {
+   "kelime": "شَهْرًا",
+   "okunus": "şehran",
+   "kok": "شهر",
+   "kokAnlam": "ay (zaman birimi)",
+   "karsilik": "aydır"
+  },
+  {
+   "kelime": "حَتَّىٰٓ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(başlangıç) nihayet",
+   "karsilik": "nihayet"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -diğinde",
+   "karsilik": "-diğinde"
+  },
+  {
+   "kelime": "بَلَغَ",
+   "okunus": "beleğa",
+   "kok": "بلغ",
+   "kokAnlam": "ulaşma, erişme",
+   "karsilik": "erip"
+  },
+  {
+   "kelime": "أَشُدَّهُۥ",
+   "okunus": "eşüddehû",
+   "kok": "شدد",
+   "kokAnlam": "güç, kuvvet; olgunluk çağı",
+   "karsilik": "olgunluk çağına"
+  },
+  {
+   "kelime": "وَبَلَغَ",
+   "okunus": "ve beleğa",
+   "kok": "بلغ",
+   "kokAnlam": "ulaşma, erişme",
+   "karsilik": "ve ulaştığında"
+  },
+  {
+   "kelime": "أَرْبَعِينَ",
+   "okunus": "erbeîne",
+   "kok": "ربع",
+   "kokAnlam": "dört; kırk",
+   "karsilik": "kırk"
+  },
+  {
+   "kelime": "سَنَةً",
+   "okunus": "seneten",
+   "kok": "سنو",
+   "kokAnlam": "yıl",
+   "karsilik": "yaşına"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "der ki"
+  },
+  {
+   "kelime": "رَبِّ",
+   "okunus": "rabbi",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbim"
+  },
+  {
+   "kelime": "أَوْزِعْنِىٓ",
+   "okunus": "evzi'nî",
+   "kok": "وزع",
+   "kokAnlam": "sevk etme, ilham etme, yöneltme",
+   "karsilik": "bana nasip et"
+  },
+  {
+   "kelime": "أَنْ",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -meyi",
+   "karsilik": "-meyi"
+  },
+  {
+   "kelime": "أَشْكُرَ",
+   "okunus": "eşküra",
+   "kok": "شكر",
+   "kokAnlam": "şükretme, teşekkür",
+   "karsilik": "şükretmemi"
+  },
+  {
+   "kelime": "نِعْمَتَكَ",
+   "okunus": "ni'meteke",
+   "kok": "نعم",
+   "kokAnlam": "nimet, iyilik",
+   "karsilik": "nimetine"
+  },
+  {
+   "kelime": "ٱلَّتِىٓ",
+   "okunus": "elletî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "أَنْعَمْتَ",
+   "okunus": "en'amte",
+   "kok": "نعم",
+   "kokAnlam": "nimet verme",
+   "karsilik": "verdiğin"
+  },
+  {
+   "kelime": "عَلَىَّ",
+   "okunus": "aleyye",
+   "kok": "—",
+   "kokAnlam": "(edat) bana",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "وَعَلَىٰ",
+   "okunus": "ve alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ve -e",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "وَٰلِدَىَّ",
+   "okunus": "vâlideyye",
+   "kok": "ولد",
+   "kokAnlam": "doğurma, doğurulma; ana-baba",
+   "karsilik": "anne babama"
+  },
+  {
+   "kelime": "وَأَنْ",
+   "okunus": "ve en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ve -meyi",
+   "karsilik": "ve -meyi"
+  },
+  {
+   "kelime": "أَعْمَلَ",
+   "okunus": "a'mele",
+   "kok": "عمل",
+   "kokAnlam": "yapma, iş görme",
+   "karsilik": "yapmamı"
+  },
+  {
+   "kelime": "صَٰلِحًا",
+   "okunus": "sâlihan",
+   "kok": "صلح",
+   "kokAnlam": "iyi olma, düzgünlük, salih amel",
+   "karsilik": "salih bir amel"
+  },
+  {
+   "kelime": "تَرْضَىٰهُ",
+   "okunus": "terdâhü",
+   "kok": "رضو",
+   "kokAnlam": "razı olma, hoşnutluk",
+   "karsilik": "razı olacağın"
+  },
+  {
+   "kelime": "وَأَصْلِحْ",
+   "okunus": "ve aslih",
+   "kok": "صلح",
+   "kokAnlam": "iyi olma, düzeltme",
+   "karsilik": "ve salih kıl"
+  },
+  {
+   "kelime": "لِى",
+   "okunus": "lî",
+   "kok": "—",
+   "kokAnlam": "(zamir) benim için",
+   "karsilik": "benim için"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde, hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "ذُرِّيَّتِىٓ",
+   "okunus": "zürriyyetî",
+   "kok": "ذرر",
+   "kokAnlam": "yayılma, üreme; soy, nesil",
+   "karsilik": "soyumu"
+  },
+  {
+   "kelime": "إِنِّى",
+   "okunus": "innî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz ben",
+   "karsilik": "şüphesiz ben"
+  },
+  {
+   "kelime": "تُبْتُ",
+   "okunus": "tübtü",
+   "kok": "توب",
+   "kokAnlam": "dönme, tövbe etme",
+   "karsilik": "tövbe ettim"
+  },
+  {
+   "kelime": "إِلَيْكَ",
+   "okunus": "ileyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "وَإِنِّى",
+   "okunus": "ve innî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ve şüphesiz ben",
+   "karsilik": "ve şüphesiz ben"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-denim"
+  },
+  {
+   "kelime": "ٱلْمُسْلِمِينَ",
+   "okunus": "elmüslimîne",
+   "kok": "سلم",
+   "kokAnlam": "barış, teslimiyet, İslam",
+   "karsilik": "teslim olanlardan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, insana anne babasına iyi davranmasını doğrudan bir emir olarak bildirir. Annenin çektiği zahmet iki kez 'kürhen' (zahmetle) kelimesiyle vurgulanır: hem taşırken hem doğururken. Hamilelik ve sütten kesme süresinin toplamının otuz ay olarak anılması, bu emeğin somut bir zaman dilimine yayıldığını gösterir.",
+  "Ayetin ikinci yarısı, kırk yaşına ulaşan bir insanın ağzından çok bilinen bir duaya yer verir: Allah'ın kendisine ve anne babasına verdiği nimete şükretmeyi, razı olunacak bir amel işlemeyi ve soyunun salih olmasını diler. Bu dua, ebeveyn hakkının bir yükümlülük olduğu kadar, şükrün de kişisel bir farkındalık gerektirdiğini gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:23",
+   "meal": "Rabbin, kendisinden başkasına kulluk etmemenizi ve anne babaya iyilik etmenizi emretti. Onlardan biri ya da ikisi senin yanında yaşlılığa erişirse, onlara 'öf' bile deme, onları azarlama; onlara güzel söz söyle.",
+   "baglanti": "İsrâ suresi, Allah'a kulluğun hemen ardından anne babaya iyiliği emreder; Ahkâf 15'teki 'ihsân' emrinin aynı köke dayandığı başka bir ayettir."
+  },
+  {
+   "ref": "31:14",
+   "meal": "Biz insana, anne babasına iyi davranmasını emrettik. Annesi onu, güçsüzlük üstüne güçsüzlükle taşıdı; sütten kesilmesi de iki yıl içindedir. 'Bana ve anne babana şükret; dönüş banadır.'",
+   "baglanti": "Lokmân suresi neredeyse aynı ifadelerle anne emeğini ve şükür emrini anlatır; iki ayet birbirini tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu anne babaya iyi davranma emri ve bunun gerekçesi olan anne emeğidir; ardından gelen dua, bu emeğin farkında olan bir evladın ağzından aktarılır.",
+  "Günlük hayata taşınabilecek ders açıktır: anne babanın emeğini hafife almamak, onlara iyilikle davranmak ve bu nimeti fark ederek şükretmektir. Kırk yaşına gelmiş biri için bu dua, hem geçmişe hem geleceğe yönelik bir sorumluluk hatırlatıcısıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Anne babana teşekkür et",
+   "aciklama": "Bugün anne babana -hayattaysa arayarak, değilse onlar için dua ederek- emeğine teşekkür et."
+  },
+  {
+   "baslik": "Duayı tekrarla",
+   "aciklama": "Bugün bu ayetteki duayı oku ve kendi kelimelerinle Allah'a şükrünü ilet."
+  },
+  {
+   "baslik": "Soyun için çalış",
+   "aciklama": "Bugün çocuklarına veya yakınlarındaki gençlere iyi bir örnek olacak bir davranış sergile."
+  }
+ ],
+ "bugununAdimi": "Bugün anne babana, hayattaysa ya da hatırasına, somut bir iyilikle karşılık ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=46&verse=15"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/46/15"
+  }
+ ]
+}
