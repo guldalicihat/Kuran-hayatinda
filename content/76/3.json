@@ -1,0 +1,98 @@
+{
+ "sure": 76,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Şüphesiz biz ona yolu gösterdik; ister şükreden olsun ister nankör (kefûr).",
+ "mealNotu": "'Hedeynâ' kökü doğru yola iletmeyi, 'sebîl' ise yolu anlatır. 'Şâkir' ve 'kefûr' kelimeleri zıt bir çift oluşturur: biri nimeti tanıyıp değerlendiren, diğeri onu örtüp inkâr edendir; bu zıtlık cümleye [ister ... ister] şeklinde bir seçenek yapısıyla yansıtılmıştır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّا",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "gerçekten, şüphesiz (te'kid)",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "هَدَيْنَٰهُ",
+   "okunus": "hedeynâhü",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletmek",
+   "karsilik": "ona gösterdik"
+  },
+  {
+   "kelime": "ٱلسَّبِيلَ",
+   "okunus": "essebîle",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolu"
+  },
+  {
+   "kelime": "إِمَّا",
+   "okunus": "immâ",
+   "kok": "—",
+   "kokAnlam": "ister ... ister (açıklama)",
+   "karsilik": "ister"
+  },
+  {
+   "kelime": "شَاكِرًا",
+   "okunus": "şâkiran",
+   "kok": "شكر",
+   "kokAnlam": "şükretmek, nimeti tanımak",
+   "karsilik": "şükreden"
+  },
+  {
+   "kelime": "وَإِمَّا",
+   "okunus": "ve immâ",
+   "kok": "—",
+   "kokAnlam": "ister ... ister (açıklama)",
+   "karsilik": "ister"
+  },
+  {
+   "kelime": "كَفُورًا",
+   "okunus": "kefûran",
+   "kok": "كفر",
+   "kokAnlam": "örtmek, nankörlük etmek",
+   "karsilik": "nankör"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayette anlatılan sınama fikrini netleştirir: Allah insana yolu göstermiştir, insan bu yolda ya şükreden ya da nankör olma yönünü kendisi seçer. 'Hedeynâ' fiili, hem aklî hem vahiyle gelen bir rehberliği kapsar; insanın doğru-yanlışı hiç bilmeden bırakılmadığını bildirir.",
+  "'Şâkir' ve 'kefûr' kelimeleri, insanın kendi tercihiyle vardığı iki uçtur; ayet burada bir zorlamadan söz etmez, seçimin insana ait olduğunu vurgular. Klasik tefsir bu ayeti, insana verilen irade ve sorumluluğun özeti olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "90:10",
+   "meal": "Ona iki yolu (hayır ve şer yollarını) göstermedik mi?",
+   "baglanti": "Beled suresi de insana iki yolun gösterildiğini anlatır; 76:3'teki 'yolu gösterdik' ifadesiyle aynı rehberlik gerçeğine işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu insana yol gösterilmiş olması ve bu yolda şükür ya da nankörlük arasında bir tercih yapabilmesidir; burada belirli bir hüküm değil, genel bir irade gerçeği anlatılır.",
+  "Bugüne taşınabilecek ders, kişinin her gün küçük kararlarla bu iki yoldan birine yaklaştığıdır. Bir nimeti fark edip teşekkür etmek ya da onu görmezden gelmek, aslında bu ayetin anlattığı seçimin günlük bir örneğidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir seçim anını fark et",
+   "aciklama": "Bugün küçük bir kararında, hangi yöne meylettiğini bir kez düşün."
+  },
+  {
+   "baslik": "Şükrü sözle söyle",
+   "aciklama": "Bugün bir nimeti fark ettiğinde bunu içinden değil, sesli ya da yazılı ifade et."
+  },
+  {
+   "baslik": "Nankörlüğe karşı dur",
+   "aciklama": "Bugün bir şeyden şikâyet etmeden önce onun sende bıraktığı iyi bir yanı ara."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararında hangi yolu seçtiğini fark et ve bunu kısaca not et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=76&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/76/3"
+  }
+ ]
+}

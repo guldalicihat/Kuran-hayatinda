@@ -1,0 +1,98 @@
+{
+ "sure": 76,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Onlar adaklarını yerine getirirler ve kötülüğü yaygın olan bir günden korkarlar.",
+ "mealNotu": "'Yûfûne' kökü sözünü tam olarak yerine getirmeyi; 'nezr' adağı anlatır. 'Müstetîr' kelimesi 'tayarân' (uçmak, yayılmak) kökünden gelir, o günün kötülüğünün her yeri kaplayacağını anlatır.",
+ "kokler": [
+  {
+   "kelime": "يُوفُونَ",
+   "okunus": "yûfûne",
+   "kok": "وفي",
+   "kokAnlam": "sözünü tutmak, yerine getirmek",
+   "karsilik": "yerine getirirler"
+  },
+  {
+   "kelime": "بِٱلنَّذْرِ",
+   "okunus": "bin nezri",
+   "kok": "نذر",
+   "kokAnlam": "adak",
+   "karsilik": "adaklarını"
+  },
+  {
+   "kelime": "وَيَخَافُونَ",
+   "okunus": "ve yehâfûne",
+   "kok": "خوف",
+   "kokAnlam": "korkmak",
+   "karsilik": "ve korkarlar"
+  },
+  {
+   "kelime": "يَوْمًا",
+   "okunus": "yevmen",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bir günden"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olmak",
+   "karsilik": "olan"
+  },
+  {
+   "kelime": "شَرُّهُۥ",
+   "okunus": "şerruhû",
+   "kok": "شرر",
+   "kokAnlam": "kötülük",
+   "karsilik": "kötülüğü"
+  },
+  {
+   "kelime": "مُسْتَطِيرًا",
+   "okunus": "müstetîran",
+   "kok": "طير",
+   "kokAnlam": "uçmak, yayılmak",
+   "karsilik": "yaygın"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayetle birlikte 'ebrâr' (iyiler) olarak nitelenenlerin dünyadaki tutumu anlatılmaya başlar. İlk özellikleri, verdikleri sözü, adaklarını tam olarak yerine getirmeleridir; bu, sözlerine bağlılıklarının bir göstergesidir.",
+  "İkinci özellik ise kıyamet gününden, kötülüğü her yeri saracak o günden korkmalarıdır. Bu korku, kişiyi felç eden bir kaygı değil, davranışlarını doğru tutmaya iten bilinçli bir tedbir olarak anlatılır. Klasik tefsir bu ayeti, sözünü tutan ve ahireti unutmayan insanın portresi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "22:29",
+   "meal": "Sonra kirlerini gidersinler, adaklarını yerine getirsinler ve o eski evi (Kâbe'yi) tavaf etsinler.",
+   "baglanti": "Hac suresi de adağın yerine getirilmesini bir kulluk göstergesi olarak anar; 76:7'deki 'yûfûne bin nezri' ifadesiyle aynı vurguyu paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, verilen sözlerin ve adakların tutulmasıdır; bu, dinî bir yükümlülük olan adak konusunu içerse de genel ders söz ve vaatlere bağlılıktır.",
+  "Bugüne taşınabilecek ders, kişinin verdiği sözü unutmaması, kolay olmasa da yerine getirmesidir. Bu, hem başkalarına verilen sözler hem de kişinin kendine yaptığı vaatler için geçerlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir sözünü hatırla",
+   "aciklama": "Bugün unutmaya yüz tuttuğun bir sözünü hatırla ve yerine getirmek için bir adım at."
+  },
+  {
+   "baslik": "Vaadini yaz",
+   "aciklama": "Bugün birine verdiğin bir sözü not al, unutmamak için."
+  },
+  {
+   "baslik": "O günü hatırla",
+   "aciklama": "Bugün bir kararında, hesap gününü kısaca aklına getir."
+  }
+ ],
+ "bugununAdimi": "Bugün unuttuğun bir sözünü hatırlayıp onu yerine getirmek için bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=76&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/76/7"
+  }
+ ]
+}
