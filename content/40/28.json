@@ -1,0 +1,327 @@
+{
+ "sure": 40,
+ "ayet": 28,
+ "durum": "taslak",
+ "meal": "Firavun ailesinden, imanını gizleyen mümin bir adam dedi ki: 'Rabbim Allah'tır dediği için bir adamı öldürecek misiniz? Oysa o, size Rabbinizden apaçık deliller getirdi. Eğer yalancıysa yalanı kendi aleyhinedir; eğer doğru söylüyorsa, size vadettiklerinin bir kısmı başınıza gelir. Şüphesiz Allah, aşırı giden yalancı kimseyi doğru yola iletmez.'",
+ "mealNotu": "Ayet bu kişiyi yalnızca 'Firavun ailesinden, imanını gizleyen mümin bir adam' diye tanıtır; Kur'an ona bir isim vermez, bu yüzden mealde de bir isim uydurulmamıştır.",
+ "kokler": [
+  {
+   "kelime": "وَقَالَ",
+   "okunus": "ve kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, konuşma",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "رَجُلٌ",
+   "okunus": "racülün",
+   "kok": "رجل",
+   "kokAnlam": "adam, erkek",
+   "karsilik": "bir adam"
+  },
+  {
+   "kelime": "مُّؤْمِنٌ",
+   "okunus": "mü'minün",
+   "kok": "أمن",
+   "kokAnlam": "güven, güvenerek inanma",
+   "karsilik": "mümin"
+  },
+  {
+   "kelime": "مَنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ءَالِ",
+   "okunus": "âli",
+   "kok": "أول",
+   "kokAnlam": "aile, yakınlar",
+   "karsilik": "ailesinden"
+  },
+  {
+   "kelime": "فِرْعَوْنَ",
+   "okunus": "fir'avne",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Firavun",
+   "karsilik": "Firavun"
+  },
+  {
+   "kelime": "يَكْتُمُ",
+   "okunus": "yektümü",
+   "kok": "كتم",
+   "kokAnlam": "gizleme, saklama",
+   "karsilik": "gizleyen"
+  },
+  {
+   "kelime": "إِيمَٰنَهُۥٓ",
+   "okunus": "îmânehû",
+   "kok": "أمن",
+   "kokAnlam": "güven, güvenerek inanma",
+   "karsilik": "imanını"
+  },
+  {
+   "kelime": "أَتَقْتُلُونَ",
+   "okunus": "etektülûne",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürecek misiniz"
+  },
+  {
+   "kelime": "رَجُلًا",
+   "okunus": "racülen",
+   "kok": "رجل",
+   "kokAnlam": "adam, erkek",
+   "karsilik": "bir adamı"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) diye",
+   "karsilik": "diye"
+  },
+  {
+   "kelime": "يَقُولَ",
+   "okunus": "yekûle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, konuşma",
+   "karsilik": "dediği için"
+  },
+  {
+   "kelime": "رَبِّىَ",
+   "okunus": "rabbiye",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, terbiye etme, Rab",
+   "karsilik": "Rabbim"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tır"
+  },
+  {
+   "kelime": "وَقَدْ",
+   "okunus": "ve kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) oysa",
+   "karsilik": "oysa"
+  },
+  {
+   "kelime": "جَآءَكُم",
+   "okunus": "câeküm",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "size getirdi"
+  },
+  {
+   "kelime": "بِٱلْبَيِّنَٰتِ",
+   "okunus": "bil beyyinâti",
+   "kok": "بين",
+   "kokAnlam": "açık olma, delil",
+   "karsilik": "apaçık delilleri"
+  },
+  {
+   "kelime": "مَنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّبِّكُمْ",
+   "okunus": "rabbiküm",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, terbiye etme, Rab",
+   "karsilik": "Rabbinizden"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يَكُ",
+   "okunus": "yekü",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "كَٰذِبًا",
+   "okunus": "kâziben",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama, yalancı olma",
+   "karsilik": "yalancı"
+  },
+  {
+   "kelime": "فَعَلَيْهِ",
+   "okunus": "fealeyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) kendi aleyhinedir",
+   "karsilik": "kendi aleyhinedir"
+  },
+  {
+   "kelime": "كَذِبُهُۥ",
+   "okunus": "kezibühû",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama, yalan",
+   "karsilik": "yalanı"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "يَكُ",
+   "okunus": "yekü",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ise"
+  },
+  {
+   "kelime": "صَادِقًا",
+   "okunus": "sâdikan",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, doğru söyleme",
+   "karsilik": "doğru söylüyor"
+  },
+  {
+   "kelime": "يُصِبْكُم",
+   "okunus": "yüsıbküm",
+   "kok": "صوب",
+   "kokAnlam": "isabet etme",
+   "karsilik": "başınıza gelir"
+  },
+  {
+   "kelime": "بَعْضُ",
+   "okunus": "ba'du",
+   "kok": "بعض",
+   "kokAnlam": "bazı, kısım",
+   "karsilik": "bir kısmı"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şeyin",
+   "karsilik": "şeyin"
+  },
+  {
+   "kelime": "يَعِدُكُمْ",
+   "okunus": "yeidüküm",
+   "kok": "وعد",
+   "kokAnlam": "vaat etme, söz verme",
+   "karsilik": "size vadettiği"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mez",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يَهْدِى",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yol gösterme",
+   "karsilik": "doğru yola iletmez"
+  },
+  {
+   "kelime": "مَنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimseyi",
+   "karsilik": "kimseyi"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "مُسْرِفٌ",
+   "okunus": "müsrifün",
+   "kok": "سرف",
+   "kokAnlam": "aşırı gitme, israf etme",
+   "karsilik": "aşırı giden"
+  },
+  {
+   "kelime": "كَذَّابٌ",
+   "okunus": "kezzâbün",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama, çok yalancı",
+   "karsilik": "yalancı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu uzun ayette, Firavun ailesinden -ama imanını o ana kadar gizli tutan- bir adam ortaya çıkıp Mûsâ'yı savunur. Kur'an ona isim vermez, yalnızca kimliğini 'Âl-i Firavun'dan mümin bir adam' olarak tanıtır. İlk sözü, kavmine mantıklı bir soru yöneltmektir: sadece 'Rabbim Allah'tır' dediği için bir adamı öldürmek doğru mudur?",
+  "Adam, Mûsâ'nın getirdiği delilleri hatırlatıp iki ihtimali de mantıkla değerlendirir: yalancıysa zaten kendi yalanının bedelini öder; doğruysa, uyardığı azabın bir kısmı onları bulabilir. Bu, aceleyle bir karar vermek yerine sabırla bekleyip sonucu görmeyi öneren temkinli bir akıl yürütmedir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "40:38",
+   "meal": "İman etmiş olan adam dedi ki: 'Ey kavmim! Bana uyun, sizi doğru yola ileteyim.'",
+   "baglanti": "Aynı mümin adamın konuşması, birkaç ayet sonra bu kez doğrudan bir davete dönüşerek sürer."
+  },
+  {
+   "ref": "36:20",
+   "meal": "Şehrin öbür ucundan bir adam koşarak geldi: 'Ey kavmim! Elçilere uyun' dedi.",
+   "baglanti": "Yâsîn suresinde de isimsiz, tek başına ortaya çıkıp elçiyi savunan bir adam örneği vardır; iki kıssa benzer bir cesaret sahnesi taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, güçlü bir çevrede imanını gizleyen birinin, doğru bildiği bir kişiyi savunmak için ortaya çıkmasıdır.",
+  "Günlük hayata taşınabilecek ders, haksızlığa uğrayan birini savunmak için her zaman aynı gruptan olmak gerekmediğidir. Bu adam, Firavun'un kendi ailesinden olmasına rağmen, kavminin çoğunluğuna karşı mantıklı ve cesur bir duruş sergiler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Haksızlığa ses çıkar",
+   "aciklama": "Bugün, çoğunluğun aksi yönde olduğu bir haksızlığa, elinden geldiğince ses çıkar."
+  },
+  {
+   "baslik": "Aceleyle karar verme",
+   "aciklama": "Bir kişi hakkında hüküm vermeden önce, iki ihtimali de sakin sakin düşün."
+  },
+  {
+   "baslik": "Cesur ol, ölçülü kal",
+   "aciklama": "Doğru bildiğini savunurken, öfkeyle değil mantıkla konuş."
+  }
+ ],
+ "bugununAdimi": "Bugün, haksız bir eleştiriye uğrayan birini, ölçülü bir sözle savun.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=28"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/40/28"
+  }
+ ]
+}

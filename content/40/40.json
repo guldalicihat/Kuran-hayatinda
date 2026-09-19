@@ -1,0 +1,215 @@
+{
+ "sure": 40,
+ "ayet": 40,
+ "durum": "taslak",
+ "meal": "Kim bir kötülük yaparsa, ancak onun dengiyle cezalandırılır. Kim de erkek veya kadından, mümin olarak bir iyilik yaparsa, işte onlar cennete girerler; orada hesapsız rızıklandırılırlar.",
+ "mealNotu": "'Min zekerin ev ünsâ' (erkek veya kadından) ifadesi, ayetteki karşılığın cinsiyete göre değişmediğini açıkça belirtir.",
+ "kokler": [
+  {
+   "kelime": "مِّن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "عَمِلَ",
+   "okunus": "amile",
+   "kok": "عمل",
+   "kokAnlam": "iş, amel yapma",
+   "karsilik": "yaparsa"
+  },
+  {
+   "kelime": "سَيِّئَةً",
+   "okunus": "seyyieten",
+   "kok": "سوأ",
+   "kokAnlam": "kötü olma, kötülük",
+   "karsilik": "bir kötülük"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mez",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يُجْزَىٰٓ",
+   "okunus": "yüczâ",
+   "kok": "جزي",
+   "kokAnlam": "karşılık verme, cezalandırma",
+   "karsilik": "cezalandırılır"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "مِثْلَهَا",
+   "okunus": "mislehâ",
+   "kok": "مثل",
+   "kokAnlam": "benzer, örnek",
+   "karsilik": "onun dengiyle"
+  },
+  {
+   "kelime": "وَمَنْ",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kim de",
+   "karsilik": "kim de"
+  },
+  {
+   "kelime": "عَمِلَ",
+   "okunus": "amile",
+   "kok": "عمل",
+   "kokAnlam": "iş, amel yapma",
+   "karsilik": "yaparsa"
+  },
+  {
+   "kelime": "صَٰلِحًا",
+   "okunus": "sâlihan",
+   "kok": "صلح",
+   "kokAnlam": "iyi olma, salih olma",
+   "karsilik": "bir iyilik"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ذَكَرٍ",
+   "okunus": "zekerin",
+   "kok": "ذكر",
+   "kokAnlam": "erkek",
+   "karsilik": "erkek"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "أُنثَىٰ",
+   "okunus": "ünsâ",
+   "kok": "أنث",
+   "kokAnlam": "kadın, dişi",
+   "karsilik": "kadından"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o iken",
+   "karsilik": "o iken"
+  },
+  {
+   "kelime": "مُؤْمِنٌ",
+   "okunus": "mü'minün",
+   "kok": "أمن",
+   "kokAnlam": "güven, güvenerek inanma",
+   "karsilik": "mümin"
+  },
+  {
+   "kelime": "فَأُو۟لَٰٓئِكَ",
+   "okunus": "feülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "يَدْخُلُونَ",
+   "okunus": "yedhulûne",
+   "kok": "دخل",
+   "kokAnlam": "girme",
+   "karsilik": "girerler"
+  },
+  {
+   "kelime": "ٱلْجَنَّةَ",
+   "okunus": "elcennete",
+   "kok": "جنن",
+   "kokAnlam": "örtme, gizlenme; bahçe, cennet",
+   "karsilik": "cennete"
+  },
+  {
+   "kelime": "يُرْزَقُونَ",
+   "okunus": "yürzekûne",
+   "kok": "رزق",
+   "kokAnlam": "rızıklanma, nasip alma",
+   "karsilik": "rızıklandırılırlar"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) orada",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "بِغَيْرِ",
+   "okunus": "biğayri",
+   "kok": "غير",
+   "kokAnlam": "başka, gayrı",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "حِسَابٍ",
+   "okunus": "hisâbin",
+   "kok": "حسب",
+   "kokAnlam": "hesap, sayma",
+   "karsilik": "hesap"
+  }
+ ],
+ "neAnlatiyor": [
+  "Mümin adamın konuşması, bir önceki ayetteki geçici-kalıcı karşılaştırmasını, iyilik-kötülük karşılığı üzerinden somutlaştırır: kötülüğün karşılığı yalnızca dengidir, ama iyiliğin karşılığı çok daha büyüktür -cennet ve hesapsız rızık.",
+  "'Erkek veya kadından' ifadesi, bu karşılığın cinsiyete göre değişmediğini, tek şartın iman ve salih amel olduğunu açıkça belirtir. Ayet, adaletin (kötülükte denklik) ile lütfun (iyilikte fazlasıyla karşılık) bir arada bulunduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:160",
+   "meal": "Kim bir iyilik getirirse, ona on katı vardır. Kim bir kötülük getirirse, o da sadece dengiyle cezalandırılır...",
+   "baglanti": "Aynı adalet-lütuf dengesini, iyiliğin on kat karşılık bulmasıyla daha da açar."
+  },
+  {
+   "ref": "16:97",
+   "meal": "Erkek veya kadın, kim mümin olarak salih amel işlerse, ona güzel bir hayat yaşatırız...",
+   "baglanti": "Aynı 'erkek veya kadın, mümin olarak salih amel' formülünü tekrarlayarak cinsiyet ayrımı yapılmadığını pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, amellerin ahiretteki karşılığındaki adalet ve lütuf dengesidir.",
+  "Günlük hayata taşınabilecek ders, iyiliğin küçük görünse bile büyük bir karşılığı olabileceği, kötülüğün ise sadece yaptığı kadarıyla sınırlı kalacağı bilincidir. Bu, hem umutsuzluğa hem kayıtsızlığa karşı dengeli bir bakış sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçük iyiliği hafife alma",
+   "aciklama": "Bugün küçük gördüğün bir iyiliği yine de yap; karşılığı büyük olabilir."
+  },
+  {
+   "baslik": "Cinsiyet ayrımı yapma",
+   "aciklama": "Bir işi değerlendirirken, kimin yaptığına değil ne yaptığına bak."
+  },
+  {
+   "baslik": "Dengeyi hatırla",
+   "aciklama": "Bir hata yaptığında, cezasının büyümeyeceğini ama iyiliğinin büyüyebileceğini hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün küçük gördüğün ama ihmal ettiğin bir iyiliği yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=40"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/40/40"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "sure": 40,
+ "ayet": 24,
+ "durum": "taslak",
+ "meal": "Firavun'a, Hâmân'a ve Karûn'a. Onlar ise 'Bu, yalancı bir sihirbazdır' dediler.",
+ "mealNotu": "Ayet üç ismi -Firavun, Hâmân, Karûn- birlikte anarak güç, siyasi otorite ve serveti inkârda birleştirir; meale herhangi bir yorum eklenmemiştir.",
+ "kokler": [
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "فِرْعَوْنَ",
+   "okunus": "fir'avne",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Firavun",
+   "karsilik": "Firavun'a"
+  },
+  {
+   "kelime": "وَهَٰمَٰنَ",
+   "okunus": "ve hâmâne",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Hâmân",
+   "karsilik": "ve Hâmân'a"
+  },
+  {
+   "kelime": "وَقَٰرُونَ",
+   "okunus": "ve kârûne",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Karûn",
+   "karsilik": "ve Karûn'a"
+  },
+  {
+   "kelime": "فَقَالُوا۟",
+   "okunus": "fekâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, konuşma",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "سَٰحِرٌ",
+   "okunus": "sâhirun",
+   "kok": "سحر",
+   "kokAnlam": "sihir, büyü",
+   "karsilik": "bir sihirbazdır"
+  },
+  {
+   "kelime": "كَذَّابٌ",
+   "okunus": "kezzâbün",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama, çok yalancı",
+   "karsilik": "yalancı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Mûsâ'nın gönderildiği üç kişiyi sayar: Firavun (hükümdar), Hâmân (yakın danışmanı) ve Karûn (zengin bir yakını). Bu üçlü, güç, siyasi otorite ve servetin bir arada inkâra karşı direnmesini simgeler.",
+  "Onların cevabı, gelen delili değerlendirmek yerine hemen bir suçlamaya dönüşür: 'yalancı bir sihirbaz.' Bu, önceki ayetlerde anlatılan 'apaçık delile rağmen inkâr etme' örüntüsünün Firavun'daki somut örneğidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "29:39",
+   "meal": "Karûn'u, Firavun'u ve Hâmân'ı da (yok ettik); andolsun Mûsâ onlara apaçık delillerle gelmişti de yeryüzünde büyüklendiler...",
+   "baglanti": "Aynı üçlüyü -Firavun, Hâmân, Karûn- bir arada anan başka bir ayettir."
+  },
+  {
+   "ref": "20:57",
+   "meal": "Dedi ki: 'Sen bizi sihrinle yurdumuzdan çıkarmaya mı geldin, ey Mûsâ?'",
+   "baglanti": "Firavun'un Mûsâ'yı sihirbazlıkla suçlamasının başka bir örneğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Mûsâ'nın gönderildiği güç, yönetim ve servet sahiplerinin onu hemen yalancılıkla suçlamasıdır.",
+  "Günlük hayata taşınabilecek ders, güç veya statü sahibi olmanın haklı olmak anlamına gelmediğidir. Bir eleştiriyi dinlemeden hemen 'yalan' diye etiketlemek yerine, önce onu değerlendirmek, bu ayetteki hataya düşmemeyi sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Etiketlemeden dinle",
+   "aciklama": "Bugün bir eleştiriyi duyduğunda, hemen reddetmeden önce dinle."
+  },
+  {
+   "baslik": "Gücünü doğru kullan",
+   "aciklama": "Elindeki bir yetkiyi veya imkânı, başkasını susturmak için değil doğruyu bulmak için kullan."
+  },
+  {
+   "baslik": "Suçlamadan önce düşün",
+   "aciklama": "Birini suçlamadan önce, iddianı gerçekten destekleyip desteklemediğini kontrol et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir eleştiriyi, hemen reddetmeden önce sonuna kadar dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=24"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/40/24"
+  }
+ ]
+}

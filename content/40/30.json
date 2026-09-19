@@ -1,0 +1,124 @@
+{
+ "sure": 40,
+ "ayet": 30,
+ "durum": "taslak",
+ "meal": "İman etmiş olan adam dedi ki: 'Ey kavmim! Ben sizin için (geçmiş) toplulukların günü gibi bir günden korkuyorum.'",
+ "mealNotu": "'Ahzâb' kökü grup, topluluk anlamındadır; burada peygamberlerine karşı birleşip direnen geçmiş kavimleri anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَقَالَ",
+   "okunus": "ve kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, konuşma",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "ٱلَّذِىٓ",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o ki",
+   "karsilik": "o ki"
+  },
+  {
+   "kelime": "ءَامَنَ",
+   "okunus": "âmene",
+   "kok": "أمن",
+   "kokAnlam": "güven, güvenerek inanma",
+   "karsilik": "iman etmiş olan"
+  },
+  {
+   "kelime": "يَٰقَوْمِ",
+   "okunus": "yâ kavmi",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "ey kavmim"
+  },
+  {
+   "kelime": "إِنِّىٓ",
+   "okunus": "innî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ben",
+   "karsilik": "ben"
+  },
+  {
+   "kelime": "أَخَافُ",
+   "okunus": "ehâfü",
+   "kok": "خوف",
+   "kokAnlam": "korku",
+   "karsilik": "korkuyorum"
+  },
+  {
+   "kelime": "عَلَيْكُم",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "مِّثْلَ",
+   "okunus": "misle",
+   "kok": "مثل",
+   "kokAnlam": "benzer, örnek",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "يَوْمِ",
+   "okunus": "yevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "ٱلْأَحْزَابِ",
+   "okunus": "el'ahzâbi",
+   "kok": "حزب",
+   "kokAnlam": "grup, topluluk, hizip",
+   "karsilik": "toplulukların"
+  }
+ ],
+ "neAnlatiyor": [
+  "Mümin adam, sözlerine devam ederek kavmini geçmiş toplulukların akıbetiyle uyarır. 'Ahzâb günü' ifadesi, ittifak kurup peygamberlerine karşı direnen geçmiş kavimlerin ortak sonunu işaret eder.",
+  "Bu uyarı, sonraki ayette Nûh, Âd ve Semûd kavimleriyle somutlaşacaktır. Adam, kendi kavmini soyut bir tehditle değil, tarihte gerçekleşmiş örneklerle uyarmaktadır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "40:31",
+   "meal": "Nûh kavminin, Âd'ın, Semûd'un ve onlardan sonrakilerin gidişi gibi. Allah, kullarına haksızlık etmek istemez.",
+   "baglanti": "Bir önceki ayetteki 'toplulukların günü' ifadesinin hangi kavimleri kastettiğini hemen ardından açıklar."
+  },
+  {
+   "ref": "38:12",
+   "meal": "Onlardan önce Nûh kavmi, Âd, kazıklar sahibi Firavun da yalanlamıştı.",
+   "baglanti": "Aynı kavimler listesini, benzer bir uyarı bağlamında tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, mümin adamın kavmini geçmiş toplulukların akıbetiyle uyarmasıdır.",
+  "Günlük hayata taşınabilecek ders, geçmişten ders çıkarmanın önemidir. Bir topluluk ya da kişi, benzer hatalara düşen başkalarının sonunu bilerek, aynı yola girmekten kaçınabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Uyarana kulak ver",
+   "aciklama": "Bugün seni iyi niyetle uyaran birinin sözünü ciddiye al."
+  },
+  {
+   "baslik": "Tarihi örnek al",
+   "aciklama": "Geçmişte yanlış giden bir örneği düşünüp, kendi hayatında benzer bir hataya düşmediğinden emin ol."
+  },
+  {
+   "baslik": "Toplumsal sorumluluk taşı",
+   "aciklama": "Bugün, çevrendeki insanları da düşünerek bir uyarıda bulun, sadece kendini değil."
+  }
+ ],
+ "bugununAdimi": "Bugün, geçmişte yaşanmış bir hatadan ders çıkarıp kendi hayatında bir düzeltme yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=30"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/40/30"
+  }
+ ]
+}

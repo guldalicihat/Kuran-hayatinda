@@ -1,0 +1,117 @@
+{
+ "sure": 40,
+ "ayet": 41,
+ "durum": "taslak",
+ "meal": "Ey kavmim! Nasıl oluyor da ben sizi kurtuluşa çağırıyorum, siz beni ateşe çağırıyorsunuz?",
+ "mealNotu": "'Necât' (kurtuluş) ile 'nâr' (ateş) kelimeleri ayette bilinçli olarak karşı karşıya konur; adamın şaşkınlığını bu karşıtlık taşır.",
+ "kokler": [
+  {
+   "kelime": "وَيَٰقَوْمِ",
+   "okunus": "ve yâkavmi",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "ey kavmim"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(soru) nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "لِىٓ",
+   "okunus": "lî",
+   "kok": "—",
+   "kokAnlam": "(zamir) bana ne oluyor ki",
+   "karsilik": "bana ne oluyor ki"
+  },
+  {
+   "kelime": "أَدْعُوكُمْ",
+   "okunus": "ed'ûküm",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, davet etme",
+   "karsilik": "sizi çağırıyorum"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلنَّجَوٰةِ",
+   "okunus": "ennecâti",
+   "kok": "نجو",
+   "kokAnlam": "kurtuluş, kurtulma",
+   "karsilik": "kurtuluşa"
+  },
+  {
+   "kelime": "وَتَدْعُونَنِىٓ",
+   "okunus": "ve ted'ûnenî",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, davet etme",
+   "karsilik": "siz beni çağırıyorsunuz"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلنَّارِ",
+   "okunus": "ennâri",
+   "kok": "نور",
+   "kokAnlam": "ateş, ışık",
+   "karsilik": "ateşe"
+  }
+ ],
+ "neAnlatiyor": [
+  "Mümin adam, kavmine bu kez duygusal ve şaşkınlık dolu bir soru yöneltir: kendisi onları kurtuluşa çağırırken, onlar onu neden ateşe çağırıyor? Bu soru, davetin tersine döndüğü paradoksu vurgular.",
+  "Bu ifade, adamın kavmiyle olan çatışmasının özünü basit ve anlaşılır bir karşıtlıkla özetler: kurtuluş mu, ateş mi? Sonraki iki ayet bu sorunun neden böyle olduğunu açıklayacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "14:22",
+   "meal": "...Beni önceden Allah'a çağırmıştınız, ben de size cevap verdim (demeyin)...",
+   "baglanti": "Kıyamette şeytanın insanlarla arasındaki benzer bir 'çağırma-suçlama' diyaloğunu hatırlatır."
+  },
+  {
+   "ref": "2:221",
+   "meal": "...Onlar ateşe çağırırlar; Allah ise izniyle cennete ve bağışlanmaya çağırır...",
+   "baglanti": "'Ateşe çağırma - cennete çağırma' karşıtlığını aynı temayla tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, mümin adamın kavmiyle arasındaki davet çatışmasıdır.",
+  "Günlük hayata taşınabilecek ders, iyi niyetle yaptığın bir uyarının bazen ters bir tepkiyle karşılanabileceğidir. Bu, uyarmaktan vazgeçmek için bir sebep değil, sabırla devam etmek için bir hatırlatmadır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sabırla devam et",
+   "aciklama": "Bugün iyi niyetle yaptığın bir uyarı reddedilse bile, ilişkiyi koparmadan sabırlı ol."
+  },
+  {
+   "baslik": "Yönünü sorgula",
+   "aciklama": "Bugün seni hangi yöne çektiğini bir alışkanlığında fark et."
+  },
+  {
+   "baslik": "Karşıtlığı netleştir",
+   "aciklama": "Bir konuda net bir tercih yapman gerektiğinde, iki yolu da açıkça düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün seni yanlış bir yöne çeken bir alışkanlığı fark edip ondan bir adım uzaklaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=41"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/40/41"
+  }
+ ]
+}

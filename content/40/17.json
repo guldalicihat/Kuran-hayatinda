@@ -1,0 +1,145 @@
+{
+ "sure": 40,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "Bugün her kişi kazandığıyla karşılık görür. Bugün haksızlık yoktur. Şüphesiz Allah, hesabı çabuk görendir.",
+ "mealNotu": "'Kesebet' (kazandı) kökü, kişinin kendi çabasıyla elde ettiğini anlatır; karşılığın rastgele değil, bizzat kazanılana göre verildiğini vurgular.",
+ "kokler": [
+  {
+   "kelime": "ٱلْيَوْمَ",
+   "okunus": "elyevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bugün"
+  },
+  {
+   "kelime": "تُجْزَىٰ",
+   "okunus": "tüczâ",
+   "kok": "جزي",
+   "kokAnlam": "karşılık verme, cezalandırma/ödüllendirme",
+   "karsilik": "karşılık görür"
+  },
+  {
+   "kelime": "كُلُّ",
+   "okunus": "küllü",
+   "kok": "كلل",
+   "kokAnlam": "bütün, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "نَفْسٍۭ",
+   "okunus": "nefsim",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kişi",
+   "karsilik": "kişi"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ile",
+   "karsilik": "ile"
+  },
+  {
+   "kelime": "كَسَبَتْ",
+   "okunus": "kesebet",
+   "kok": "كسب",
+   "kokAnlam": "kazanma, elde etme",
+   "karsilik": "kazandığı"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yoktur",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "ظُلْمَ",
+   "okunus": "zulme",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, zulüm",
+   "karsilik": "haksızlık"
+  },
+  {
+   "kelime": "ٱلْيَوْمَ",
+   "okunus": "elyevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bugün"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "سَرِيعُ",
+   "okunus": "serîu",
+   "kok": "سرع",
+   "kokAnlam": "hız, çabukluk",
+   "karsilik": "çabuk görendir"
+  },
+  {
+   "kelime": "ٱلْحِسَابِ",
+   "okunus": "elhisâbi",
+   "kok": "حسب",
+   "kokAnlam": "hesap, sayma",
+   "karsilik": "hesabı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetteki 'mülk kimindir?' sorusunun ardından bu ayet, o günün adalet ilkesini bildirir: herkes yalnızca kendi kazandığıyla karşılık görür; hiçbir haksızlık olmaz.",
+  "'Allah hesabı çabuk görendir' ifadesi, sayıca ne kadar çok olursa olsun hiç kimsenin hesabının diğerini bekletmeyeceğini anlatır. Bu, kıyamet sahnesinin kesinliğini ve adaletini pekiştiren bir kapanış cümlesidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "99:7",
+   "meal": "Kim zerre miktarı bir hayır işlerse onu görür; kim de zerre miktarı bir kötülük işlerse onu görür.",
+   "baglanti": "'Herkes kazandığıyla karşılık görür' ilkesini en küçük ölçekte somutlaştırır."
+  },
+  {
+   "ref": "21:47",
+   "meal": "Kıyamet günü için adalet terazilerini kurarız; hiçbir kimseye en küçük bir haksızlık yapılmaz...",
+   "baglanti": "'Bugün haksızlık yoktur' ilkesini terazi ve adalet imgesiyle genişletir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıyamette hesabın adil ve hızlı görüleceğidir.",
+  "Günlük hayata taşınabilecek ders, yaptığın her işin bir karşılığı olacağı bilincidir. Küçük bulduğun bir iyilik ya da kötülük bile kayıtsız kalmaz; bu farkındalık günlük seçimlerde daha dikkatli olmayı sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçüğü önemse",
+   "aciklama": "Bugün küçük gördüğün bir iyiliği yine de yap; hiçbiri boşa gitmez."
+  },
+  {
+   "baslik": "Hesaba hazırlan",
+   "aciklama": "Akşam, günü kısaca gözden geçir: ne kazandın, neyi kaybettin?"
+  },
+  {
+   "baslik": "Adaletli ol",
+   "aciklama": "Bugün bir kararında kendi çıkarını değil adaleti öncele."
+  }
+ ],
+ "bugununAdimi": "Bugün gün sonunda, o günkü söz ve davranışlarını birkaç dakika gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/40/17"
+  }
+ ]
+}

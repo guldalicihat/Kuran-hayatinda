@@ -1,0 +1,264 @@
+{
+ "sure": 40,
+ "ayet": 21,
+ "durum": "taslak",
+ "meal": "Yeryüzünde dolaşıp, kendilerinden öncekilerin sonunun nasıl olduğuna bakmadılar mı? Onlar, kuvvetçe ve yeryüzünde bıraktıkları izlerce kendilerinden daha güçlüydüler. Ama Allah onları günahları yüzünden yakaladı; onları Allah'a karşı koruyacak kimse olmadı.",
+ "mealNotu": "'Vâk' (وقي) kelimesi koruyucu, sakındıran kimse anlamındadır; ayet burada hiç kimsenin Allah'ın yakalamasına karşı koruyucu olamayacağını vurgular.",
+ "kokler": [
+  {
+   "kelime": "أَوَلَمْ",
+   "okunus": "evelem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -madılar mı",
+   "karsilik": "-madılar mı"
+  },
+  {
+   "kelime": "يَسِيرُوا۟",
+   "okunus": "yesîrû",
+   "kok": "سير",
+   "kokAnlam": "yürüme, yolculuk etme",
+   "karsilik": "dolaşıp"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "فَيَنظُرُوا۟",
+   "okunus": "feyenzurû",
+   "kok": "نظر",
+   "kokAnlam": "bakma, gözlemleme",
+   "karsilik": "bakmadılar"
+  },
+  {
+   "kelime": "كَيْفَ",
+   "okunus": "keyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldu"
+  },
+  {
+   "kelime": "عَٰقِبَةُ",
+   "okunus": "âkıbetü",
+   "kok": "عقب",
+   "kokAnlam": "son, akıbet",
+   "karsilik": "sonu"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olanların",
+   "karsilik": "kendilerinden öncekilerin"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olan"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِهِمْ",
+   "okunus": "kablihim",
+   "kok": "قبل",
+   "kokAnlam": "önce, evvel",
+   "karsilik": "önceki"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idiler"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "أَشَدَّ",
+   "okunus": "eşedde",
+   "kok": "شدد",
+   "kokAnlam": "şiddetli, güçlü olma",
+   "karsilik": "daha güçlü"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) kendilerinden",
+   "karsilik": "kendilerinden"
+  },
+  {
+   "kelime": "قُوَّةً",
+   "okunus": "kuvveten",
+   "kok": "قوي",
+   "kokAnlam": "güç, kuvvet",
+   "karsilik": "kuvvetçe"
+  },
+  {
+   "kelime": "وَءَاثَارًا",
+   "okunus": "ve âsâran",
+   "kok": "أثر",
+   "kokAnlam": "iz, eser",
+   "karsilik": "ve izlerce"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "فَأَخَذَهُمُ",
+   "okunus": "feehazehümü",
+   "kok": "أخذ",
+   "kokAnlam": "alma, yakalama",
+   "karsilik": "onları yakaladı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِذُنُوبِهِمْ",
+   "okunus": "bizünûbihim",
+   "kok": "ذنب",
+   "kokAnlam": "günah, suç",
+   "karsilik": "günahları yüzünden"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -madı",
+   "karsilik": "olmadı"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmadı"
+  },
+  {
+   "kelime": "لَهُم",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar için",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -e karşı",
+   "karsilik": "-e karşı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "وَاقٍ",
+   "okunus": "vâkın",
+   "kok": "وقي",
+   "kokAnlam": "koruma, sakındırma",
+   "karsilik": "koruyacak kimse"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure burada üslubu değiştirip dinleyiciye somut bir tarihsel gözlem çağrısı yapar: yeryüzünde dolaşıp geçmiş kavimlerin akıbetine bakmalarını ister. Bu kavimler, güç ve eser bırakma açısından muhataplardan daha üstündü; buna rağmen yok oldular.",
+  "'Allah onları günahları yüzünden yakaladı' ifadesi, yıkımın rastgele değil, işlenen günahların bir sonucu olduğunu söyler. Ayet, 'onları Allah'a karşı koruyacak kimse olmadı' diyerek, hiçbir gücün Allah'ın iradesine karşı koyamayacağını vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "30:9",
+   "meal": "Yeryüzünde dolaşıp kendilerinden öncekilerin sonunun nasıl olduğuna bakmadılar mı? Onlar kendilerinden daha güçlüydüler...",
+   "baglanti": "Neredeyse aynı ifadeyle, geçmiş kavimlerin akıbetine bakma çağrısını tekrarlar."
+  },
+  {
+   "ref": "35:44",
+   "meal": "Yeryüzünde dolaşıp kendilerinden öncekilerin sonunun nasıl olduğuna bakmadılar mı? Onlar kuvvetçe kendilerinden daha üstündü...",
+   "baglanti": "Aynı kalıbı tekrar ederek bu uyarının Kur'an'da sık tekrarlanan bir tema olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş güçlü kavimlerin günahları yüzünden yok olmasıdır; bir tarih ve ibret dersidir.",
+  "Günlük hayata taşınabilecek ders, güç ve başarının kalıcı bir güvence olmadığıdır. Bir kişi ya da toplum ne kadar güçlü görünse de, yanlış bir tutumda ısrar ederse bu güç onu korumaz; bu farkındalık güce güvenmek yerine doğru davranmaya yöneltir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tarihten ders çıkar",
+   "aciklama": "Bugün geçmişte yaşanmış bir çöküşü düşün ve nedenini sorgula."
+  },
+  {
+   "baslik": "Güce güvenme",
+   "aciklama": "Elindeki bir imkânın (para, statü, ilişki) seni koruyacağını sanmadan, doğru davranmaya odaklan."
+  },
+  {
+   "baslik": "İbretle bak",
+   "aciklama": "Fırsat bulursan tarihi bir yeri ya da belgeseli, ibret gözüyle izle."
+  }
+ ],
+ "bugununAdimi": "Bugün, gücüne güvenip yanlış yaptığın bir alanı fark edip düzelt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=21"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/40/21"
+  }
+ ]
+}

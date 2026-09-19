@@ -1,0 +1,96 @@
+{
+ "sure": 40,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Bu Kitabın indirilişi, azîz ve alîm olan Allah'tandır.",
+ "mealNotu": "'Tenzîl' kökü, bir şeyin yukarıdan aşağıya indirilmesini anlatır; burada Kitabın kaynağının Allah olduğu vurgulanır. 'Azîz' güç ve üstünlüğü, 'Alîm' her şeyi bilmeyi taşır.",
+ "kokler": [
+  {
+   "kelime": "تَنزِيلُ",
+   "okunus": "tenzîlü",
+   "kok": "نزل",
+   "kokAnlam": "indirme, aşama aşama indirme",
+   "karsilik": "indirilişi"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı olan, kitap",
+   "karsilik": "Kitabın"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-dandır"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلْعَزِيزِ",
+   "okunus": "el'azîzi",
+   "kok": "عزز",
+   "kokAnlam": "güç, üstünlük, yenilmezlik",
+   "karsilik": "azîz olan"
+  },
+  {
+   "kelime": "ٱلْعَلِيمِ",
+   "okunus": "el'alîmi",
+   "kok": "علم",
+   "kokAnlam": "bilme, her şeyi bilme",
+   "karsilik": "alîm olan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, mukattaa harflerinin hemen ardından Kitabın kaynağını bildirir. 'Tenzîl' kökü, bir şeyin yukarıdan aşağıya, aşama aşama indirilmesini anlatır; burada Kur'an'ın kaynağının beşerî değil ilahî olduğu vurgulanır.",
+  "Allah'ın burada iki ismi bir arada anılır: 'Azîz' (güçlü, yenilmez) ve 'Alîm' (her şeyi bilen). Bu, Kitabı indirenin hem gücünün hem bilgisinin sınırsız olduğunu, dolayısıyla Kitabın doğru bir bilgiyle indirildiğini gösterir. Sure ilerleyen ayette Allah'ın başka isimlerini sıralayarak bu girişi genişletir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "39:1",
+   "meal": "Kitabın indirilişi, azîz ve hakîm olan Allah'tandır.",
+   "baglanti": "Zümer suresi de aynı 'tenzîlü'l-kitâbi minallâh' kalıbıyla başlar; birçok sure Kitabın ilahî kaynağını böyle vurgulayarak açılır."
+  },
+  {
+   "ref": "41:2",
+   "meal": "Bu, Rahmân ve Rahîm olan Allah'tan indirilmiştir.",
+   "baglanti": "Hâ Mîm harfleriyle başlayan bir başka surede de aynı sırayla önce mukattaa harfleri, sonra Kitabın Allah'tan indirildiği bildirilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın kaynağıdır: bu Kitap insan sözü değil, Allah'tan indirilmiştir.",
+  "Bir metni okurken kaynağını bilmek, ona nasıl yaklaşacağını belirler. Kur'an'ın azîz ve alîm olan Allah'tan geldiğini bilerek okumak, onu hızlıca geçmek yerine dikkatle ve ciddiyetle okumaya sevk eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaynağını hatırla",
+   "aciklama": "Bugün Kur'an okurken, önce 'Bu, Allah'tan indirilmiş bir söz' diye içinden geçir."
+  },
+  {
+   "baslik": "Yavaş oku",
+   "aciklama": "Bir sayfa okurken hızını yarıya indir; anlamadığın bir kelimede dur, araştır."
+  },
+  {
+   "baslik": "Meal karşılaştır",
+   "aciklama": "Okuduğun bir ayetin farklı bir meâlini de oku, kelimelerin karşılığını gör."
+  }
+ ],
+ "bugununAdimi": "Bugün en az on dakika, acele etmeden Kur'an meali oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=40&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/40/2"
+  }
+ ]
+}
