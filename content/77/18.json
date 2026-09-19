@@ -1,0 +1,75 @@
+{
+ "sure": 77,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "İşte suçlulara böyle yaparız.",
+ "mealNotu": "'Fa'l' kökü yapma, işleme anlamındadır; 'mücrim' ise suç işleyen, günaha batan kişidir. Ayet, önceki iki ayette anlatılan helak yasasını genel bir kaideye bağlar.",
+ "kokler": [
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "işte böyle (işaret)",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "نَفْعَلُ",
+   "okunus": "nef'alü",
+   "kok": "فعل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "yaparız"
+  },
+  {
+   "kelime": "بِٱلْمُجْرِمِينَ",
+   "okunus": "bil mücrimîne",
+   "kok": "جرم",
+   "kokAnlam": "suç işleme, günaha batma",
+   "karsilik": "suçlulara"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki iki ayette anlatılan helak yasasını özetleyen bir kaide cümlesidir: 'İşte suçlulara böyle yaparız.' 'Mücrim' kelimesi, sadece inkâr eden değil, bilerek suç ve günah işleyen kişiyi anlatır; ayet bu yasanın genel-geçer olduğunu vurgular.",
+  "Bu üç ayetlik birim (16-18), kıyamet tasvirinden sonra geçmişe bir bakış sunarak, sonraki 'veyl' nakaratına -tarihsel örnekleri yalanlayanların vay hâline- zemin hazırlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:12",
+   "meal": "Onu (yalanlamayı) suçluların kalplerine böyle sokarız.",
+   "baglanti": "Aynı 'mücrim' kökü; suçlulara uygulanan ilahi yasanın bir başka görünümünü anlatır."
+  },
+  {
+   "ref": "54:47",
+   "meal": "Şüphesiz suçlular sapıklık ve çılgınlık içindedirler.",
+   "baglanti": "Aynı 'mücrim' kelimesiyle, suçlu tutumun sonuçlarına dair genel bir ilke tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmişteki helak yasasının suçlular için genel-geçer bir kaide olduğudur.",
+  "Buradan çıkan ders, davranışların sonuçsuz kalmadığı, bilerek sürdürülen yanlış bir tutumun er ya da geç bir karşılığı olduğu bilincidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilerek yaptığın bir hatayı durdur",
+   "aciklama": "Bugün bile bile sürdürdüğün küçük bir yanlışı bırakmaya karar ver."
+  },
+  {
+   "baslik": "Sonuçları düşün",
+   "aciklama": "Bugün bir kararının uzun vadeli sonucunu bir an düşünüp öyle karar ver."
+  },
+  {
+   "baslik": "Kendine dürüst ol",
+   "aciklama": "Bugün kendini haklı çıkarmak yerine, yanlışını olduğu gibi kabul et."
+  }
+ ],
+ "bugununAdimi": "Bugün bile bile sürdürdüğün küçük bir yanlışı fark edip bırak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=77&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/77/18"
+  }
+ ]
+}

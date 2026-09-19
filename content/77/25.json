@@ -1,0 +1,82 @@
+{
+ "sure": 77,
+ "ayet": 25,
+ "durum": "taslak",
+ "meal": "Yeryüzünü toplayıcı bir yer yapmadık mı?",
+ "mealNotu": "'Kifât' kökü toplama, barındırma, bir arada tutma anlamındadır; ayet yeryüzünün canlı ve ölüleri barındıran bir yapı olduğunu hatırlatır.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk soru edatı",
+   "karsilik": "...yapmadık mı?"
+  },
+  {
+   "kelime": "نَجْعَلِ",
+   "okunus": "nec'ali",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "yaptık"
+  },
+  {
+   "kelime": "ٱلْأَرْضَ",
+   "okunus": "el'erda",
+   "kok": "أرض",
+   "kokAnlam": "yeryüzü, toprak",
+   "karsilik": "yeryüzünü"
+  },
+  {
+   "kelime": "كِفَاتًا",
+   "okunus": "kifâten",
+   "kok": "كفت",
+   "kokAnlam": "toplama, barındırma, bir arada tutma",
+   "karsilik": "toplayıcı bir yer"
+  }
+ ],
+ "neAnlatiyor": [
+  "Yaratılış tasvirinin ardından sure, insanın üzerinde yaşadığı yeryüzüne döner. 'Kifât' kökü, bir şeyi toplayıp barındırmayı anlatır; ayet yeryüzünün hem yaşayanları hem de -ilerleyen ayette belirtileceği gibi- ölüleri barındıran bir yapı olduğunu soru biçiminde hatırlatır.",
+  "Bu ayet, insanın gündelik olarak üzerinde yürüdüğü toprağın, aslında hem hayatı hem ölümü barındıran özel bir düzen taşıdığına dikkat çeker; sonraki ayet bu ikili işlevi açıkça belirtecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "20:55",
+   "meal": "Sizi ondan (topraktan) yarattık, yine ona döndüreceğiz ve ondan bir kez daha çıkaracağız.",
+   "baglanti": "Yeryüzünün insanı hem barındıran hem geri alan bir yapı olması teması; 77:25'teki 'toplayıcı yer' ifadesiyle örtüşür."
+  },
+  {
+   "ref": "15:19",
+   "meal": "Yeryüzünü yayıp döşedik, onda sabit dağlar yerleştirdik ve orada her şeyi bir ölçüyle bitirdik.",
+   "baglanti": "Yeryüzünün düzenli, ölçülü bir yapı olarak yaratıldığı teması, 77:25-27'deki yeryüzü tasvirine zemin hazırlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, yeryüzünün canlıları ve ölüleri barındıran bir yapı olarak yaratılmasıdır.",
+  "Buradan çıkan ders, üzerinde yaşadığın toprağın sıradan bir zemin değil, özenle düzenlenmiş bir barınak olduğunu fark edip bu nimete karşı dikkatli, sorumlu davranmandır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bulunduğun yeri fark et",
+   "aciklama": "Bugün üzerinde yaşadığın toprağın bir nimet olduğunu bir an düşün."
+  },
+  {
+   "baslik": "Çevreye özen göster",
+   "aciklama": "Bugün etrafını kirletmemek için küçük bir davranış değişikliği yap."
+  },
+  {
+   "baslik": "Barınağına şükret",
+   "aciklama": "Bugün evinin ya da yaşadığın yerin güvenliği için kısaca şükret."
+  }
+ ],
+ "bugununAdimi": "Bugün üzerinde yaşadığın toprağın bir nimet olduğunu fark edip bir şükür cümlesi kur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=77&verse=25"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/77/25"
+  }
+ ]
+}

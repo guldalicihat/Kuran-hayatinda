@@ -1,0 +1,75 @@
+{
+ "sure": 77,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Hangi güne ertelendi?",
+ "mealNotu": "'Ecel' kökü bir şeyi belirli bir vadeye bırakmadır; soru, kıyametin belirli bir vadeye ertelendiğini hatırlatır.",
+ "kokler": [
+  {
+   "kelime": "لِأَىِّ",
+   "okunus": "lieyyi",
+   "kok": "أيي",
+   "kokAnlam": "hangi",
+   "karsilik": "hangi"
+  },
+  {
+   "kelime": "يَوْمٍ",
+   "okunus": "yevmin",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "güne"
+  },
+  {
+   "kelime": "أُجِّلَتْ",
+   "okunus": "üccilet",
+   "kok": "أجل",
+   "kokAnlam": "erteleme, vade belirleme",
+   "karsilik": "ertelendi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetlerde sayılan olayların hangi güne 'ertelendiğini' sorar. 'Ecel' kökü bir şeyi belirli bir vadeye bırakmayı anlatır; soru üslubu, cevabın hemen ardından geleceğini vurgulayan bir merak uyandırır.",
+  "Bu soru-cevap yapısı Kur'an'da sık görülen bir öğretim üslubudur: önce dikkat çekilir, sonra cevap verilir. Burada da amaç, kıyametin belirsiz değil, Allah katında bilinen kesin bir vadeye bağlı olduğunu vurgulamaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:34",
+   "meal": "Her ümmetin bir eceli vardır; o ecelleri geldiğinde ne bir an geri kalırlar ne de öne geçebilirler.",
+   "baglanti": "Aynı 'ecel' kökü, belirli bir vadenin kesinliğini anlatır; 77:12'deki 'hangi güne ertelendi' sorusunun cevabına zemin hazırlar."
+  },
+  {
+   "ref": "71:4",
+   "meal": "Allah'ın belirlediği ecel geldiğinde ertelenmez.",
+   "baglanti": "Aynı tema: ecelin/vadenin kesin ve değişmez olduğu vurgusu, 77:12'deki soruyla örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyametin belirli bir vadeye ertelenmiş olmasıdır.",
+  "Buradan çıkan ders, her şeyin bir vadesi olduğunu bilmek, kendi ecelinin de belirli olduğunu, bunu erteleyip durmak yerine hazırlıklı olman gerektiğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Vadeni hatırla",
+   "aciklama": "Bugün 'zamanım çok' düşüncesiyle ertelediğin bir hazırlığı bir adım ilerlet."
+  },
+  {
+   "baslik": "Sabırla bekle",
+   "aciklama": "Bugün cevabını hemen alamadığın bir konuda, doğru zamanı beklemeyi öğren."
+  },
+  {
+   "baslik": "Planını gözden geçir",
+   "aciklama": "Bugün uzun vadeli bir hedefin için attığın adımı kontrol et."
+  }
+ ],
+ "bugununAdimi": "Bugün erteleyip durduğun bir hazırlığa, kendi vaden bilinciyle bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=77&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/77/12"
+  }
+ ]
+}

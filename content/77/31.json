@@ -1,0 +1,96 @@
+{
+ "sure": 77,
+ "ayet": 31,
+ "durum": "taslak",
+ "meal": "Ne gölgelendirir ne de alevden korur.",
+ "mealNotu": "'Zalîl' gölgelendiren, serinleten; 'ganiye' ise fayda verme, koruma anlamındadır; ayet önceki ayetteki gölgenin aslında hiçbir koruma sağlamadığını netleştirir.",
+ "kokler": [
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "ظَلِيلٍ",
+   "okunus": "zalîlin",
+   "kok": "ظلل",
+   "kokAnlam": "gölgelendiren, serinleten",
+   "karsilik": "gölgelendiren"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "يُغْنِى",
+   "okunus": "yüğnî",
+   "kok": "غني",
+   "kokAnlam": "fayda verme, ihtiyaçtan kurtarma",
+   "karsilik": "korur"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den (edat)",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱللَّهَبِ",
+   "okunus": "allâhebi",
+   "kok": "لهب",
+   "kokAnlam": "alev, şiddetli ateş",
+   "karsilik": "alevden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette tanımlanan 'üç kollu gölge'nin gerçek niteliği burada açıklanır: bu gölge, ne serinletici bir gölgedir ne de alevden koruyacak bir kalkandır. Dünyadaki gölge kavramının tersine, burada isim var ama işlev yoktur; bu, aldatıcı bir görünümün ardındaki gerçek boşluğu vurgular.",
+  "Ayet, cehennem tasvirini abartılı bir korku diliyle değil, sade bir zıtlıkla anlatır: beklenen fayda (serinlik, koruma) yoktur. Bu, önceki ayetlerin nimetlerle (gölge, su, dağ) kurduğu bağı tersine çevirerek, yalanlamanın nasıl bir kayıpla sonuçlandığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "56:44",
+   "meal": "Ne serin ne de faydalı.",
+   "baglanti": "Vâkı'a suresinde de aynı zıtlık -gölgenin serinletmemesi- vurgulanır; 77:31 ile birebir aynı temayı taşır."
+  },
+  {
+   "ref": "18:29",
+   "meal": "Onlar için, duvarları çepeçevre kuşatmış alevli bir ateş hazırladık.",
+   "baglanti": "Cehennemin çevreleyici, kaçışsız bir ateş olarak tasviri, 77:31'deki 'alevden korumayan gölge' imgesini tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, cehennemdeki gölgenin hiçbir koruma sağlamamasıdır; bu gaybe dair bir tasvirdir.",
+  "Buradan çıkan ders, ismi 'gölge' olan ama işlevi olmayan şeylere -boş vaadlere, gerçek koruma sağlamayan sığınaklara- aldanmamaktır; asıl sığınağın ne olduğunu iyi ayırt etmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Boş vaadi ayırt et",
+   "aciklama": "Bugün sana koruma vaat eden ama aslında işe yaramayan bir alışkanlığı fark et."
+  },
+  {
+   "baslik": "Gerçek sığınağı ara",
+   "aciklama": "Bugün seni gerçekten rahatlatan bir değere (dua, güvenilir bir kişi) yönel."
+  },
+  {
+   "baslik": "İsme değil işleve bak",
+   "aciklama": "Bugün bir şeyi seçerken görünüşüne değil gerçek faydasına dikkat et."
+  }
+ ],
+ "bugununAdimi": "Bugün sana koruma vaat eden ama aslında işe yaramayan bir alışkanlığını fark et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=77&verse=31"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/77/31"
+  }
+ ]
+}

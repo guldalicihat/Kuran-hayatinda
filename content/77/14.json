@@ -1,0 +1,89 @@
+{
+ "sure": 77,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "Ayırma gününün ne olduğunu sana ne bildirdi?",
+ "mealNotu": "'Deraytu' kökü bilme, anlama anlamındadır; bu tür sorular Kur'an'da bir olayın büyüklüğünü, kelimelerin yetersiz kalacağını vurgulamak için kullanılır.",
+ "kokler": [
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "soru edatı",
+   "karsilik": "ve ne"
+  },
+  {
+   "kelime": "أَدْرَىٰكَ",
+   "okunus": "edrâke",
+   "kok": "دري",
+   "kokAnlam": "bilme, anlama, idrak etme",
+   "karsilik": "sana bildirdi"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "soru edatı",
+   "karsilik": "nedir"
+  },
+  {
+   "kelime": "يَوْمُ",
+   "okunus": "yevmü",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "ٱلْفَصْلِ",
+   "okunus": "elfasli",
+   "kok": "فصل",
+   "kokAnlam": "ayırma, kesin hüküm",
+   "karsilik": "ayırma [gününün]"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 'Ayırma Günü'nün büyüklüğünü vurgulamak için Kur'an'da sık kullanılan bir üslup kalıbıyla gelir: 'Sana ne bildirdi ki...' Bu soru kalıbı, konunun insan tasavvurunu aşan bir büyüklükte olduğunu, tarif etmenin yetersiz kalacağını anlatır.",
+  "Aynı üslup Kur'an'da başka surelerde de görülür; her defasında konunun önemine dikkat çekmek için kullanılır. Burada da amaç, 'Ayırma Günü'nün sıradan bir gün olmadığını, insanın tam olarak kavrayamayacağı bir gerçeklik taşıdığını hissettirmektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "101:3",
+   "meal": "Sana kâria'nın ne olduğunu bildiren nedir?",
+   "baglanti": "Aynı üslup kalıbı kullanılır; büyük bir kıyamet gerçeğinin insan kavrayışını aştığı vurgulanır."
+  },
+  {
+   "ref": "97:2",
+   "meal": "Kadir gecesinin ne olduğunu sana bildiren nedir?",
+   "baglanti": "Aynı soru kalıbı farklı bir konuda (Kadir gecesi) tekrarlanır; her ikisinde de amaç konunun büyüklüğünü hissettirmektir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Ayırma Günü'nün büyüklüğünün insan kavrayışını aştığını vurgulayan bir soru cümlesidir.",
+  "Buradan çıkan ders, bazı gerçekleri tam olarak kavrayamasan da onları ciddiye almanın, 'anlamadım o yüzden önemsemiyorum' dememenin bir tevazu göstergesi olduğudur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilmediğini kabul et",
+   "aciklama": "Bugün tam anlamadığın bir konuda büyüklenmeden 'bilmiyorum' demeyi dene."
+  },
+  {
+   "baslik": "Ciddiye al",
+   "aciklama": "Bugün küçümsediğin ama aslında önemli olan bir konuyu yeniden düşün."
+  },
+  {
+   "baslik": "Merakını harekete geçir",
+   "aciklama": "Bugün anlamlandıramadığın bir konuda araştırma yaparak bir adım öğren."
+  }
+ ],
+ "bugununAdimi": "Bugün tam kavrayamadığın ama önemli bir konuyu araştırmak için on dakika ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=77&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/77/14"
+  }
+ ]
+}

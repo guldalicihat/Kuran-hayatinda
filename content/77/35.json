@@ -1,0 +1,82 @@
+{
+ "sure": 77,
+ "ayet": 35,
+ "durum": "taslak",
+ "meal": "Bu, konuşamayacakları gündür.",
+ "mealNotu": "'Nutk' kökü konuşma anlamındadır; ayet o günün dehşetinden, kişinin söz söyleyemeyecek bir hale geleceğini sade bir ifadeyle anlatır.",
+ "kokler": [
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri (bu)",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "يَوْمُ",
+   "okunus": "yevmü",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gündür"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "-mayacakları"
+  },
+  {
+   "kelime": "يَنطِقُونَ",
+   "okunus": "yentıkûne",
+   "kok": "نطق",
+   "kokAnlam": "konuşma, söz söyleme",
+   "karsilik": "konuşamayacakları"
+  }
+ ],
+ "neAnlatiyor": [
+  "Cehennem sahnesinin ardından, sure o günün bir başka özelliğine döner: bu, kişilerin konuşamayacağı bir gündür. 'Nutk' kökü konuşma, söz söyleme anlamındadır; bu ifade, o günün dehşetinin insanı söz söyleyemeyecek kadar sarsacağını hatırlatır.",
+  "Bu ayet, Kur'an'ın başka yerlerinde geçen ve kişilerin dilleriyle değil organlarıyla şahitlik edeceği sahnelerle birlikte okunduğunda anlaşılır: konuşamamak, savunma yapamamak anlamına gelir; 36. ayet bu durumu 'mazeret bile sunamazlar' diyerek pekiştirecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:65",
+   "meal": "O gün ağızlarını mühürleriz; elleri bize konuşur, ayakları da yaptıklarına şahitlik eder.",
+   "baglanti": "Ağızların susturulup başka organların şahitlik etmesi teması, 77:35'teki 'konuşamayacakları gün' ifadesini somutlaştırır."
+  },
+  {
+   "ref": "78:38",
+   "meal": "O gün Ruh ve melekler saf saf dururlar; Rahmân'ın izin verdiği dışında kimse konuşamaz.",
+   "baglanti": "Aynı tema: o gün konuşma izninin sınırlı olduğu; 77:35'teki genel susma haliyle örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hesap gününde kişilerin söz söyleyemeyecek bir hale gelmesidir; bu gaybe dair bir haberdir.",
+  "Buradan çıkan ders, bugün elinde olan konuşma ve savunma imkânını, doğru ve dürüst bir şekilde kullanman gerektiğidir; o gün bu imkân olmayacaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü şimdi söyle",
+   "aciklama": "Bugün söylemen gereken doğru bir sözü ertelemeden söyle."
+  },
+  {
+   "baslik": "Savunmanı hazırla",
+   "aciklama": "Bugün bir hatanı düzeltmek için elindeki fırsatı şimdi değerlendir."
+  },
+  {
+   "baslik": "Sessizliği düşün",
+   "aciklama": "Bugün bir an sessiz kalıp hesap gününü hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün söylemen gereken doğru bir sözü ertelemeden söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=77&verse=35"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/77/35"
+  }
+ ]
+}

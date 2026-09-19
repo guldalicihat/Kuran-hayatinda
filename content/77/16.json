@@ -1,0 +1,75 @@
+{
+ "sure": 77,
+ "ayet": 16,
+ "durum": "taslak",
+ "meal": "Öncekileri helak etmedik mi?",
+ "mealNotu": "'Helâk' kökü yok etme, mahvetme anlamındadır; ayet geçmişte yaşanan bir yıkım gerçeğini soru biçiminde hatırlatır, belirli bir kavim adı anmaz.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk soru edatı (değil mi)",
+   "karsilik": "...etmedik mi?"
+  },
+  {
+   "kelime": "نُهْلِكِ",
+   "okunus": "nühliki",
+   "kok": "هلك",
+   "kokAnlam": "helak etme, yok etme, mahvetme",
+   "karsilik": "helak ettik"
+  },
+  {
+   "kelime": "ٱلْأَوَّلِينَ",
+   "okunus": "el'evvelîne",
+   "kok": "أول",
+   "kokAnlam": "ilk, önceki",
+   "karsilik": "öncekileri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Nakarattan sonra sure, kıyamet konusundan tarihsel bir uyarıya geçer: 'Öncekileri helak etmedik mi?' sorusu, geçmişte yaşayıp da uyarılara kulak asmayan toplulukların başına gelen yıkımı hatırlatır. Ayet belirli bir kavmin adını anmaz; 'evvelîn' (öncekiler) genel bir ifadedir.",
+  "'Helâk' kökü, bir topluluğun bütünüyle ortadan kalkmasını anlatır. Bu soru, dinleyiciyi kendi tarihine bakmaya, benzer bir sona uğramamak için ders çıkarmaya çağırır; ayrıntılı bir kıssa anlatmak yerine genel bir uyarı ilkesi sunar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "50:36",
+   "meal": "Biz onlardan önce nice nesilleri helak ettik ki, onlar kuvvetçe kendilerinden daha üstündü.",
+   "baglanti": "Aynı 'helâk' kökü ve aynı genel uyarı üslubu; belirli bir kavim adı vermeden geçmiş toplulukların yıkımını hatırlatır."
+  },
+  {
+   "ref": "22:45",
+   "meal": "Nice memleketleri, zulüm işlerken helak ettik; şimdi onların çatıları çökmüş durumda.",
+   "baglanti": "Aynı tema: geçmiş toplulukların zulümleri yüzünden helak edilmesi, 77:16'daki soruya somut bir zemin sunar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmişte uyarılara kulak asmayan toplulukların helak edilmiş olmasıdır; bu, belirli bir kavme dair ayrıntılı bir tarih anlatısı değil, genel bir uyarı ilkesidir.",
+  "Buradan çıkan ders, geçmişten ders çıkarmanın önemidir: benzer hatalar tekrarlandığında benzer sonuçların gelebileceğini bilmek, bugünkü tutumuna dikkat etmeni sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geçmişten ders çıkar",
+   "aciklama": "Bugün geçmişte yaptığın bir hatayı hatırlayıp tekrarlamamak için bir önlem al."
+  },
+  {
+   "baslik": "Uyarıya kulak ver",
+   "aciklama": "Bugün sana yapılan haklı bir eleştiriyi savunmaya geçmeden önce düşün."
+  },
+  {
+   "baslik": "Kibirden sakın",
+   "aciklama": "Bugün 'bana bir şey olmaz' rahatlığından uzak durup tedbirli davran."
+  }
+ ],
+ "bugununAdimi": "Bugün geçmişte tekrar ettiğin bir hatanı fark edip onu durdurmak için bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=77&verse=16"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/77/16"
+  }
+ ]
+}
