@@ -1,0 +1,264 @@
+{
+ "sure": 33,
+ "ayet": 55,
+ "durum": "taslak",
+ "meal": "Onlara [Peygamber eşlerine], babaları, oğulları, erkek kardeşleri, erkek kardeşlerinin oğulları, kız kardeşlerinin oğulları, kendi [mümin] kadınları ve elleri altında bulunanlar konusunda bir günah yoktur. Allah'tan sakının. Şüphesiz Allah her şeye şahittir.",
+ "mealNotu": "'Cünâh' kökü (جنح) günah/sakınca anlamındadır; ayet 53'teki hicab hükmüne bir istisna getirir, bu istisna sadece sayılan yakınlarla sınırlıdır.",
+ "kokler": [
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yoktur",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "جُنَاحَ",
+   "okunus": "cünâha",
+   "kok": "جنح",
+   "kokAnlam": "günah, sakınca",
+   "karsilik": "bir günah"
+  },
+  {
+   "kelime": "عَلَيْهِنَّ",
+   "okunus": "aleyhinne",
+   "kok": "—",
+   "kokAnlam": "(edat) onların üzerinde",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "فِىٓ",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "ءَابَآئِهِنَّ",
+   "okunus": "âbâihinne",
+   "kok": "أبو",
+   "kokAnlam": "baba",
+   "karsilik": "babaları"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "أَبْنَآئِهِنَّ",
+   "okunus": "ebnâihinne",
+   "kok": "بني",
+   "kokAnlam": "oğul, erkek çocuk",
+   "karsilik": "oğulları"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "إِخْوَٰنِهِنَّ",
+   "okunus": "ihvânihinne",
+   "kok": "أخو",
+   "kokAnlam": "erkek kardeş",
+   "karsilik": "erkek kardeşleri"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "أَبْنَآءِ",
+   "okunus": "ebnâi",
+   "kok": "بني",
+   "kokAnlam": "oğul, erkek çocuk",
+   "karsilik": "oğulları"
+  },
+  {
+   "kelime": "إِخْوَٰنِهِنَّ",
+   "okunus": "ihvânihinne",
+   "kok": "أخو",
+   "kokAnlam": "erkek kardeş",
+   "karsilik": "erkek kardeşlerinin"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "أَبْنَآءِ",
+   "okunus": "ebnâi",
+   "kok": "بني",
+   "kokAnlam": "oğul, erkek çocuk",
+   "karsilik": "oğulları"
+  },
+  {
+   "kelime": "أَخَوَٰتِهِنَّ",
+   "okunus": "ehavâtihinne",
+   "kok": "أخو",
+   "kokAnlam": "kız kardeş",
+   "karsilik": "kız kardeşlerinin"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "نِسَآئِهِنَّ",
+   "okunus": "nisâihinne",
+   "kok": "نسو",
+   "kokAnlam": "kadın",
+   "karsilik": "kendi kadınları"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "elleri altında bulunanlar"
+  },
+  {
+   "kelime": "مَلَكَتْ",
+   "okunus": "meleket",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, elde tutma",
+   "karsilik": "sahip oldukları"
+  },
+  {
+   "kelime": "أَيْمَٰنُهُنَّ",
+   "okunus": "eymânühünne",
+   "kok": "يمن",
+   "kokAnlam": "sağ el, sahiplik",
+   "karsilik": "elleri altında bulunanlar"
+  },
+  {
+   "kelime": "وَٱتَّقِينَ",
+   "okunus": "vettekîne",
+   "kok": "وقي",
+   "kokAnlam": "sakınma, korunma",
+   "karsilik": "sakının"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilah; Allah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilah; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmuştur"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "كُلِّ",
+   "okunus": "külli",
+   "kok": "كلل",
+   "kokAnlam": "her, bütün",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "şeye"
+  },
+  {
+   "kelime": "شَهِيدًا",
+   "okunus": "şehîden",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık etme, şahit olma",
+   "karsilik": "şahittir"
+  }
+ ],
+ "neAnlatiyor": [
+  "53. ayette Peygamber eşleriyle perde arkasından konuşma hükmü verilmişti; 55. ayet buna bir istisna getirir: babalar, oğullar, erkek kardeşler, yeğenler ve bazı yakınlarla bu perdeye gerek olmadığını söyler. Bu, hükmün mutlak değil, belirli yakınlık dereceleriyle sınırlı bir istisnası olduğunu gösterir.",
+  "Ayet, bu istisnadan sonra yine 'Allah'tan sakının' uyarısıyla biter ve Allah'ın her şeye şahit olduğunu hatırlatır. Bu, istisnanın bir gevşeklik değil, hâlâ bilinçli bir sınır içinde yaşanması gerektiğine işaret eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "24:31",
+   "meal": "...kocalarına, babalarına, kocalarının babalarına, oğullarına, kocalarının oğullarına, erkek kardeşlerine, erkek kardeşlerinin oğullarına, kız kardeşlerinin oğullarına [süslerini] göstermelerinde sakınca yoktur.",
+   "baglanti": "Nûr 31, mümin kadınlar için benzer bir yakınlar listesi sayar; 55. ayet aynı listeyi Peygamber eşleri özelinde tekrarlar."
+  },
+  {
+   "ref": "33:53",
+   "meal": "...eşlerinden bir şey istediğinizde onlardan perde arkasından isteyin.",
+   "baglanti": "53. ayetteki genel hicab hükmüne, 55. ayet belirli yakınlar için bir istisna getirir; ikisi birlikte okunmalıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin konusu, Peygamber eşlerinin hangi yakınlarıyla perdesiz görüşebileceğidir; Peygamber ailesine özgü bir düzenlemedir.",
+  "Genel olarak çıkarılabilecek ilke, bir kuralın istisnalarının da net ve tanımlı olması gerektiğidir; bir sınır konulduğunda, kimin bu sınırın dışında tutulacağı da açıkça belirlenmelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir kuralı uygularken istisnaları da netleştir",
+   "aciklama": "Bugün koyduğun bir sınırda, kime ne kadar esneklik tanıdığını kendine netleştir."
+  },
+  {
+   "baslik": "Yakınlarınla ilişkini gözden geçir",
+   "aciklama": "Bugün ailenden birine, ihmal ettiğin bir ilgiyi göster."
+  },
+  {
+   "baslik": "Kuralını tutarlı uygula",
+   "aciklama": "Bugün koyduğun bir sınırı, herkes için aynı şekilde uyguladığını kontrol et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kuralını uygularken, istisnalarını da net biçimde tanımladığını kontrol et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=55"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/33/55"
+  }
+ ]
+}

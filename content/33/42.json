@@ -1,0 +1,75 @@
+{
+ "sure": 33,
+ "ayet": 42,
+ "durum": "taslak",
+ "meal": "Ve O'nu sabah akşam tesbih edin (yüceltin).",
+ "mealNotu": "'Sebbeha' kökü (سبح) yüceltme/her türlü eksiklikten tenzih etme anlamındadır; 'bükra' ve 'asîl' sabah ve akşam vakitlerini belirtir.",
+ "kokler": [
+  {
+   "kelime": "وَسَبِّحُوهُ",
+   "okunus": "ve sebbihûhü",
+   "kok": "سبح",
+   "kokAnlam": "yüceltme, tenzih etme",
+   "karsilik": "ve O'nu tesbih edin"
+  },
+  {
+   "kelime": "بُكْرَةً",
+   "okunus": "bükraten",
+   "kok": "بكر",
+   "kokAnlam": "erken vakit, sabah",
+   "karsilik": "sabah"
+  },
+  {
+   "kelime": "وَأَصِيلًا",
+   "okunus": "ve esîlen",
+   "kok": "أصل",
+   "kokAnlam": "akşam vakti",
+   "karsilik": "ve akşam"
+  }
+ ],
+ "neAnlatiyor": [
+  "41. ayetteki genel zikir emri, burada 'sabah akşam' ifadesiyle zaman bakımından somutlaştırılır. Tesbih, Allah'ı her türlü eksiklikten uzak tutarak yüceltmeyi ifade eder.",
+  "Sabah ve akşamın anılması, günün başlangıç ve bitiş noktalarında bu bilinci tazelemeyi işaret eder; klasik tefsir bunu günlük namaz vakitleriyle de ilişkilendirir, ancak ayetin lafzı yalnız 'sabah akşam' der."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "76:25",
+   "meal": "Sabah akşam Rabbini zikret.",
+   "baglanti": "İnsan 25, aynı 'sabah akşam' zaman kalıbıyla Allah'ı anmayı emreder; 42. ayetteki tesbih çağrısıyla aynı vurguyu paylaşır."
+  },
+  {
+   "ref": "20:130",
+   "meal": "...Güneşin doğuşundan ve batışından önce Rabbini hamd ile tesbih et; gecenin bazı saatlerinde ve gündüzün uçlarında da...",
+   "baglanti": "Tâhâ 130, tesbihi günün belirli vakitlerine bağlar; 42. ayetteki 'sabah akşam' ifadesini destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, günün başında ve sonunda Allah'ı tesbih etmektir.",
+  "Günün başlangıcı ve bitişinde kısa bir duraksama, kişiye günü nasıl geçirdiğini değerlendirme fırsatı da verir. Bu, sadece sözlü bir tekrar değil, günün çerçevesini anlamlı kılan bir alışkanlık olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Güne tesbihle başla",
+   "aciklama": "Bugün güne başlarken birkaç saniye Allah'ı andığın bir cümle söyle."
+  },
+  {
+   "baslik": "Günü tesbihle kapat",
+   "aciklama": "Akşam, günü değerlendirirken kısa bir tesbih anı ayır."
+  },
+  {
+   "baslik": "Vakti bir değerlendirme sınırı yap",
+   "aciklama": "Sabah ve akşamı, günün nasıl geçtiğini gözden geçirdiğin iki sabit an haline getir."
+  }
+ ],
+ "bugununAdimi": "Bugün sabah ve akşam olmak üzere iki kez, kısa bir tesbihle güne ara ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=42"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/33/42"
+  }
+ ]
+}

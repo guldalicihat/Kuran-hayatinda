@@ -1,0 +1,159 @@
+{
+ "sure": 33,
+ "ayet": 63,
+ "durum": "taslak",
+ "meal": "İnsanlar sana kıyamet vaktinden (o Saat'ten) soruyorlar. De ki: Onun bilgisi ancak Allah katındadır. Sana ne bildirir, belki o Saat yakındır.",
+ "mealNotu": "'Sâat' kökü (سوع) 'an, vakit' anlamındadır, burada kıyamet vaktini belirtir; 'yüdrîke' (دري) bilme/haberdar olma anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "يَسْـَٔلُكَ",
+   "okunus": "yes'elüke",
+   "kok": "سأل",
+   "kokAnlam": "isteme, sorma",
+   "karsilik": "sana soruyorlar"
+  },
+  {
+   "kelime": "ٱلنَّاسُ",
+   "okunus": "ennâsü",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet",
+   "karsilik": "insanlar"
+  },
+  {
+   "kelime": "عَنِ",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "ٱلسَّاعَةَ",
+   "okunus": "essâati",
+   "kok": "سوع",
+   "kokAnlam": "vakit, an; kıyamet vakti",
+   "karsilik": "o Saat"
+  },
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "إِنَّمَا",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "عِلْمُهَا",
+   "okunus": "ilmühâ",
+   "kok": "علم",
+   "kokAnlam": "bilgi",
+   "karsilik": "onun bilgisi"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "kat, nezd",
+   "karsilik": "katındadır"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne",
+   "karsilik": "ve ne"
+  },
+  {
+   "kelime": "يُدْرِيكَ",
+   "okunus": "yüdrîke",
+   "kok": "دري",
+   "kokAnlam": "bilme, haberdar olma",
+   "karsilik": "sana bildirir"
+  },
+  {
+   "kelime": "لَعَلَّ",
+   "okunus": "lealle",
+   "kok": "—",
+   "kokAnlam": "(te'kid) belki",
+   "karsilik": "belki"
+  },
+  {
+   "kelime": "ٱلسَّاعَةَ",
+   "okunus": "essâate",
+   "kok": "سوع",
+   "kokAnlam": "vakit, an; kıyamet vakti",
+   "karsilik": "o Saat"
+  },
+  {
+   "kelime": "تَكُونُ",
+   "okunus": "tekûnü",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olur"
+  },
+  {
+   "kelime": "قَرِيبًا",
+   "okunus": "karîben",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık",
+   "karsilik": "yakın"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, insanların Peygamber'e yönelttiği bir soruya (kıyamet ne zaman kopacak) cevap verir: bu bilginin sadece Allah'a ait olduğu söylenir. Peygamber'den, kendisine sorulan bu soruyu bilmediğini açıkça söylemesi istenir.",
+  "Ayet, 'belki de yakındır' ifadesiyle, bilinmezliğin insanı gevşekliğe değil, hazırlıklı olmaya sevk etmesi gerektiğine işaret eder. Kıyametin vaktini bilmemek, onun gerçekliğini bilmemek anlamına gelmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:187",
+   "meal": "Sana kıyamet saatinden, ne zaman gelip çatacağından soruyorlar. De ki: Onun bilgisi ancak Rabbimin katındadır.",
+   "baglanti": "A'râf 187, aynı soruyu ve aynı cevabı içerir; 63. ayetle birebir aynı temayı paylaşır."
+  },
+  {
+   "ref": "31:34",
+   "meal": "Kıyamet saatinin bilgisi şüphesiz Allah katındadır.",
+   "baglanti": "Lokmân 34, kıyamet bilgisinin yalnız Allah'a ait olduğunu tekrar eden bir başka ayettir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyametin vaktinin bilinmezliğidir; bu bilgi kimseye verilmemiştir.",
+  "Bu bilinmezlik, kişiyi ne zaman olacağını tahmin etmeye değil, her an hazırlıklı olmaya yöneltir. Ölümün ve hesabın kesinliği, vaktinin bilinmemesiyle birlikte, günü boşa geçirmeme bilincini besler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugünü ertelemeden yaşa",
+   "aciklama": "Bugün 'yarın yaparım' dediğin önemli bir işi şimdi yap."
+  },
+  {
+   "baslik": "Bilmediğin bir şeyi bilmiyorum de",
+   "aciklama": "Bugün emin olmadığın bir konuda, tahminini kesin bilgi gibi sunmaktan kaçın."
+  },
+  {
+   "baslik": "Hazırlıklı ol, tahmin etme",
+   "aciklama": "Bugün sonunu bilmediğin bir sürecin ortasında bile, üzerine düşeni eksiksiz yap."
+  }
+ ],
+ "bugununAdimi": "Bugün 'zamanım var' diyerek ertelediğin bir işi, hemen bugün tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=63"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/33/63"
+  }
+ ]
+}

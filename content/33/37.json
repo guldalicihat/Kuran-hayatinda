@@ -1,0 +1,390 @@
+{
+ "sure": 33,
+ "ayet": 37,
+ "durum": "taslak",
+ "meal": "Hani sen, Allah'ın kendisine nimet verdiği, senin de kendisine nimet verdiğin kişiye: 'Eşini yanında tut, Allah'tan sakın' diyordun. Allah'ın açığa çıkaracağı şeyi içinde gizliyordun, insanlardan çekiniyordun; oysa kendisinden çekinmene Allah daha layıktı. Zeyd, ondan ilgisini kesince [onu boşayınca], biz onu seninle evlendirdik ki, evlatlıklarının kendilerinden ilgilerini kestikleri eşleriyle evlenmelerinde müminlere bir güçlük olmasın. Allah'ın emri yerine gelmiştir.",
+ "mealNotu": "'Vetar' kökü (وطر) ihtiyaç/ilgi anlamındadır; 'ondan ilgisini bitirince' ifadesi klasik olarak boşanmadan sonrasını anlattığı için köşeli parantez içinde [onu boşayınca] eklendi. 'Ed'iyâihim' kökü (دعو) evlatlık edinilenleri anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَإِذْ",
+   "okunus": "ve iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "تَقُولُ",
+   "okunus": "tekûlü",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "diyordun"
+  },
+  {
+   "kelime": "لِلَّذِىٓ",
+   "okunus": "lillezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseye",
+   "karsilik": "kimseye"
+  },
+  {
+   "kelime": "أَنْعَمَ",
+   "okunus": "en'ame",
+   "kok": "نعم",
+   "kokAnlam": "nimet verme",
+   "karsilik": "nimet verdiği"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah; Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "وَأَنْعَمْتَ",
+   "okunus": "ve en'amte",
+   "kok": "نعم",
+   "kokAnlam": "nimet verme",
+   "karsilik": "ve senin de nimet verdiğin"
+  },
+  {
+   "kelime": "عَلَيْهِ",
+   "okunus": "aleyhi",
+   "kok": "—",
+   "kokAnlam": "(edat) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "أَمْسِكْ",
+   "okunus": "emsik",
+   "kok": "مسك",
+   "kokAnlam": "tutma, alıkoyma",
+   "karsilik": "yanında tut"
+  },
+  {
+   "kelime": "عَلَيْكَ",
+   "okunus": "aleyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana/senin",
+   "karsilik": "kendine"
+  },
+  {
+   "kelime": "زَوْجَكَ",
+   "okunus": "zevceke",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift",
+   "karsilik": "eşini"
+  },
+  {
+   "kelime": "وَٱتَّقِ",
+   "okunus": "vettekı",
+   "kok": "وقي",
+   "kokAnlam": "sakınma, korunma",
+   "karsilik": "ve sakın"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilah; Allah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "وَتُخْفِى",
+   "okunus": "ve tühfî",
+   "kok": "خفي",
+   "kokAnlam": "gizleme",
+   "karsilik": "ve gizliyordun"
+  },
+  {
+   "kelime": "فِىٓ",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "نَفْسِكَ",
+   "okunus": "nefsike",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "kendinde"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah; Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "مُبْدِيهِ",
+   "okunus": "mübdîhi",
+   "kok": "بدو",
+   "kokAnlam": "açığa çıkarma, gösterme",
+   "karsilik": "açığa çıkaracağı"
+  },
+  {
+   "kelime": "وَتَخْشَى",
+   "okunus": "ve tahşâ",
+   "kok": "خشي",
+   "kokAnlam": "çekinme, korkma",
+   "karsilik": "ve çekiniyordun"
+  },
+  {
+   "kelime": "ٱلنَّاسَ",
+   "okunus": "ennâse",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet",
+   "karsilik": "insanlardan"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah; Allah",
+   "karsilik": "oysa Allah"
+  },
+  {
+   "kelime": "أَحَقُّ",
+   "okunus": "ehakku",
+   "kok": "حقق",
+   "kokAnlam": "hak, layık olma",
+   "karsilik": "daha layıktır"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesi",
+   "karsilik": "-mesi"
+  },
+  {
+   "kelime": "تَخْشَىٰهُ",
+   "okunus": "tahşâhü",
+   "kok": "خشي",
+   "kokAnlam": "çekinme, korkma",
+   "karsilik": "kendisinden çekinmene"
+  },
+  {
+   "kelime": "فَلَمَّا",
+   "okunus": "felemmâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -ince",
+   "karsilik": "-ince"
+  },
+  {
+   "kelime": "قَضَىٰ",
+   "okunus": "kadâ",
+   "kok": "قضي",
+   "kokAnlam": "hükmetme, tamamlama, bitirme",
+   "karsilik": "bitirince"
+  },
+  {
+   "kelime": "زَيْدٌ",
+   "okunus": "zeydün",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Zeyd",
+   "karsilik": "Zeyd"
+  },
+  {
+   "kelime": "مِّنْهَا",
+   "okunus": "minhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "وَطَرًا",
+   "okunus": "vetaran",
+   "kok": "وطر",
+   "kokAnlam": "ihtiyaç, ilgi, istek",
+   "karsilik": "ilgisini"
+  },
+  {
+   "kelime": "زَوَّجْنَٰكَهَا",
+   "okunus": "zevvecnâkehâ",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift, evlendirme",
+   "karsilik": "biz onu seninle evlendirdik"
+  },
+  {
+   "kelime": "لِكَىْ",
+   "okunus": "likey",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) olmasın",
+   "karsilik": "olmasın"
+  },
+  {
+   "kelime": "يَكُونَ",
+   "okunus": "yekûne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmasın"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "için"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنِينَ",
+   "okunus": "elmü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven; güvenerek inanan",
+   "karsilik": "müminlere"
+  },
+  {
+   "kelime": "حَرَجٌ",
+   "okunus": "haracün",
+   "kok": "حرج",
+   "kokAnlam": "güçlük, darlık, sıkıntı",
+   "karsilik": "bir güçlük"
+  },
+  {
+   "kelime": "فِىٓ",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "أَزْوَٰجِ",
+   "okunus": "ezvâci",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift",
+   "karsilik": "eşleri"
+  },
+  {
+   "kelime": "أَدْعِيَآئِهِمْ",
+   "okunus": "ed'iyâihim",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, edinilen evlatlık",
+   "karsilik": "evlatlıklarının"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "قَضَوْا۟",
+   "okunus": "kadav",
+   "kok": "قضي",
+   "kokAnlam": "hükmetme, tamamlama, bitirme",
+   "karsilik": "ilgilerini kestiklerinde"
+  },
+  {
+   "kelime": "مِنْهُنَّ",
+   "okunus": "minhünne",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "وَطَرًا",
+   "okunus": "vetaran",
+   "kok": "وطر",
+   "kokAnlam": "ihtiyaç, ilgi, istek",
+   "karsilik": "ilgilerini"
+  },
+  {
+   "kelime": "وَكَانَ",
+   "okunus": "ve kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ve olmuştur"
+  },
+  {
+   "kelime": "أَمْرُ",
+   "okunus": "emru",
+   "kok": "أمر",
+   "kokAnlam": "iş, buyruk, emir",
+   "karsilik": "emri"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah; Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "مَفْعُولًا",
+   "okunus": "mef'ûlen",
+   "kok": "فعل",
+   "kokAnlam": "yapma, gerçekleştirme",
+   "karsilik": "yerine gelmiş"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Peygamber'in evlatlık edindiği Zeyd ile eşinin ayrılık sürecine değinir. Peygamber, Zeyd'e eşini boşamaması yönünde tavsiyede bulunuyordu; ama içinde, Allah'ın ileride açığa çıkaracağı bir bilgiyi taşıyordu ve bu konuda insanların ne diyeceğinden çekiniyordu. Ayet burada, Allah'tan çekinmenin insanlardan çekinmekten daha öncelikli ve gerekli olduğunu hatırlatır; bu, ayetin kendi ifadesiyle verilen bir ilkedir, ayrıntısı anlatılmaz.",
+  "Zeyd eşinden ilgisini kesince, Allah bu kadını Peygamber ile evlendirdi. Ayetin kendisi bunun amacını açıkça söyler: evlatlıkların, kendilerinden ayrıldıkları eşleriyle evlenmelerinin müminler için bir güçlük oluşturmamasını göstermek. Bu, 4-5. ayetlerde geçen 'evlatlıklar gerçek oğul sayılmaz' ilkesinin fiilen de gösterilmesidir. Ayet, 'Allah'ın emri yerine gelmiştir' diyerek bunun ilahi bir takdir olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "33:5",
+   "meal": "Onları babalarına nispet ederek çağırın; bu, Allah katında daha adaletlidir. Eğer babalarını bilmiyorsanız, onlar din kardeşleriniz ve dostlarınızdır.",
+   "baglanti": "Evlatlıkların gerçek oğul sayılmadığı ilkesini koyan bu ayet, 37. ayetteki evliliğin amacını açıklayan temel dayanaktır."
+  },
+  {
+   "ref": "9:13",
+   "meal": "Onlardan mı korkuyorsunuz? Eğer mümin iseniz, kendisinden korkmanıza Allah daha layıktır.",
+   "baglanti": "Tevbe 13, aynı ilkeyi tekrarlar: insanlardan çekinmek yerine Allah'tan çekinmek önceliklidir; 37. ayetteki 'Allah'tan çekinmen daha gerekliydi' ifadesiyle aynı vurguyu taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in kendi özel hayatında yaşanan, dönemin evlatlık geleneğiyle ilgili bir olaydır; bu, genel bir evlilik kuralı değil, tarihsel ve Peygamber'e özgü bir bağlamdır.",
+  "Ayetten çıkarılabilecek genel ders, insanların ne diyeceği kaygısıyla Allah'ın açık bir hükmünü ertelememek ya da gizlememektir. Bir doğruyu bildiğinde, çevrenin tepkisinden çok, o doğruya bağlı kalmak öncelik olmalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğru bildiğini ertelemeden söyle",
+   "aciklama": "İnsanların ne düşüneceği kaygısıyla ertelediğin doğru bir sözü ya da adımı bugün gerçekleştir."
+  },
+  {
+   "baslik": "Çekindiğin şeyin kaynağını sorgula",
+   "aciklama": "Bir kararında insanların tepkisinden mi yoksa yanlış olmasından mı çekindiğini bugün ayırt et."
+  },
+  {
+   "baslik": "Kimse görmese de doğru olanı yap",
+   "aciklama": "Bugün küçük bir işte, kimse seni izlemese de doğru olanı yaptığını kontrol et."
+  }
+ ],
+ "bugununAdimi": "Bugün insanların ne diyeceğinden çekindiğin için ertelediğin bir doğruyu, bir kişiye açıkça söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=37"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/33/37"
+  }
+ ]
+}

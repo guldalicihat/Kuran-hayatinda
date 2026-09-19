@@ -1,0 +1,103 @@
+{
+ "sure": 33,
+ "ayet": 45,
+ "durum": "taslak",
+ "meal": "Ey Peygamber! Biz seni bir şahit, bir müjdeci ve bir uyarıcı olarak gönderdik.",
+ "mealNotu": "'Şâhid' kökü (شهد) tanıklık; 'mübeşşir' (بشر) müjdeleme; 'nezîr' (نذر) uyarma anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلنَّبِىُّ",
+   "okunus": "ennebiyyü",
+   "kok": "نبأ",
+   "kokAnlam": "haber; haber getiren, peygamber",
+   "karsilik": "Peygamber"
+  },
+  {
+   "kelime": "إِنَّآ",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz biz",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "أَرْسَلْنَٰكَ",
+   "okunus": "erselnâke",
+   "kok": "رسل",
+   "kokAnlam": "gönderme",
+   "karsilik": "seni gönderdik"
+  },
+  {
+   "kelime": "شَٰهِدًا",
+   "okunus": "şâhiden",
+   "kok": "شهد",
+   "kokAnlam": "tanıklık etme",
+   "karsilik": "bir şahit"
+  },
+  {
+   "kelime": "وَمُبَشِّرًا",
+   "okunus": "ve mübeşşiren",
+   "kok": "بشر",
+   "kokAnlam": "müjdeleme",
+   "karsilik": "ve bir müjdeci"
+  },
+  {
+   "kelime": "وَنَذِيرًا",
+   "okunus": "ve nezîren",
+   "kok": "نذر",
+   "kokAnlam": "uyarma",
+   "karsilik": "ve bir uyarıcı olarak"
+  }
+ ],
+ "neAnlatiyor": [
+  "40. ayette Peygamber'in konumu (Allah'ın Resulü ve son peygamber) belirtildikten sonra, burada bu görevin üç boyutu sayılır: şahitlik, müjdeleme ve uyarma. 'Şahit' ifadesi, Peygamber'in hem kendi toplumuna hem de kıyamet günü insanlığa tanıklık edeceği anlamını taşır.",
+  "'Mübeşşir' ve 'nezîr' kelimeleri, tebliğin iki yönünü anlatır: iyi haberi ve sonucun ciddiyetini birlikte iletmek. Bu üçlü görev tanımı, sonraki ayette (46) tamamlanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "48:8",
+   "meal": "Şüphesiz biz seni bir şahit, bir müjdeci ve bir uyarıcı olarak gönderdik.",
+   "baglanti": "Fetih 8, neredeyse aynı ifadeyle Peygamber'in görevini tanımlar; 45. ayetle birebir örtüşür."
+  },
+  {
+   "ref": "2:119",
+   "meal": "Şüphesiz biz seni hak ile bir müjdeci ve bir uyarıcı olarak gönderdik...",
+   "baglanti": "Bakara 119, müjdeci-uyarıcı ikilisini aynı şekilde kullanır; 45. ayetteki görev tanımının Kur'an genelinde tekrarlanan bir kalıp olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'e verilen özel bir görev tanımıdır; bu, herkesin üstlenebileceği bir peygamberlik görevi değildir.",
+  "Genel ders olarak, bir gerçeği paylaşırken hem olumlu hem uyarıcı yönünü dengeli aktarmak, yalnız iyi ya da yalnız kötü tarafı öne çıkarmamak bu ayetten çıkarılabilecek bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Konuşmanda dengeyi koru",
+   "aciklama": "Bugün bir konuyu anlatırken, hem olumlu hem dikkat edilmesi gereken yanını birlikte söyle."
+  },
+  {
+   "baslik": "Doğru bildiğine tanıklık et",
+   "aciklama": "Bugün şahit olduğun bir haksızlığı görmezden gelmeden, doğru bildiğini net biçimde ifade et."
+  },
+  {
+   "baslik": "Sözünü dengeli tut",
+   "aciklama": "Bugün bir uyarıda bulunman gerekirse, bunu umut kırmadan, yapıcı bir dille yap."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda hem gördüğün olumlu hem eksik yanı, dengeli biçimde bir kişiye aktar.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=45"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/33/45"
+  }
+ ]
+}

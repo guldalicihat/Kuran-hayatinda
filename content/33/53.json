@@ -1,0 +1,537 @@
+{
+ "sure": 33,
+ "ayet": 53,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Yemeğe çağrılmadan, [yemeğin] pişmesini beklemeksizin Peygamber'in evlerine girmeyin. Fakat çağrıldığınızda girin; yemeği yiyince de dağılın, sohbete dalıp oturmayın. Bu haliniz Peygamber'i rahatsız ediyordu; o sizden çekiniyordu, Allah ise gerçeği söylemekten çekinmez. [Peygamber'in] eşlerinden bir şey istediğinizde, onlardan perde arkasından isteyin; bu, sizin kalpleriniz ve onların kalpleri için daha temizdir. Sizin Allah'ın Resulünü rahatsız etmeniz ve ondan sonra eşlerini nikâhlamanız asla [caiz] olmaz. Şüphesiz bu, Allah katında büyük [bir günahtır].",
+ "mealNotu": "'Hicâb' kökü (حجب) perde/örtü anlamındadır; ayet, Peygamber'in evine girme adabı ve eşleriyle konuşma biçimiyle sınırlıdır, bu bağlam korunarak aktarılmıştır. 'Yestahyî' (حيي) kökünden 'çekinme, utanma' anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven; güvenerek inanma",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) girmeyin",
+   "karsilik": "girmeyin"
+  },
+  {
+   "kelime": "تَدْخُلُوا۟",
+   "okunus": "tedhulû",
+   "kok": "دخل",
+   "kokAnlam": "girme",
+   "karsilik": "girmeyin"
+  },
+  {
+   "kelime": "بُيُوتَ",
+   "okunus": "büyûte",
+   "kok": "بيت",
+   "kokAnlam": "ev",
+   "karsilik": "evlerine"
+  },
+  {
+   "kelime": "ٱلنَّبِىَّ",
+   "okunus": "ennebiyyi",
+   "kok": "نبأ",
+   "kokAnlam": "haber; haber getiren, peygamber",
+   "karsilik": "Peygamber'in"
+  },
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesi",
+   "karsilik": "-mesi"
+  },
+  {
+   "kelime": "يُؤْذَنَ",
+   "okunus": "yü'zene",
+   "kok": "أذن",
+   "kokAnlam": "izin verme",
+   "karsilik": "izin verilmesi"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "طَعَامٍ",
+   "okunus": "taâmin",
+   "kok": "طعم",
+   "kokAnlam": "yemek, tatma",
+   "karsilik": "bir yemek için"
+  },
+  {
+   "kelime": "غَيْرَ",
+   "okunus": "gayra",
+   "kok": "غير",
+   "kokAnlam": "başka, olmaksızın",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "نَٰظِرِينَ",
+   "okunus": "nâzırîne",
+   "kok": "نظر",
+   "kokAnlam": "bakma, bekleme",
+   "karsilik": "bekleyenler"
+  },
+  {
+   "kelime": "إِنَىٰهُ",
+   "okunus": "inâhü",
+   "kok": "أني",
+   "kokAnlam": "pişme, hazır olma vakti",
+   "karsilik": "pişmesini"
+  },
+  {
+   "kelime": "وَلَٰكِنْ",
+   "okunus": "ve lâkin",
+   "kok": "—",
+   "kokAnlam": "(düzeltme) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "دُعِيتُمْ",
+   "okunus": "düîtüm",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, davet etme",
+   "karsilik": "çağrıldığınızda"
+  },
+  {
+   "kelime": "فَٱدْخُلُوا۟",
+   "okunus": "fedhulû",
+   "kok": "دخل",
+   "kokAnlam": "girme",
+   "karsilik": "girin"
+  },
+  {
+   "kelime": "فَإِذَا",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -ince",
+   "karsilik": "-ince"
+  },
+  {
+   "kelime": "طَعِمْتُمْ",
+   "okunus": "taimtüm",
+   "kok": "طعم",
+   "kokAnlam": "yemek yeme, tatma",
+   "karsilik": "yediğinizde"
+  },
+  {
+   "kelime": "فَٱنتَشِرُوا۟",
+   "okunus": "fenteşirû",
+   "kok": "نشر",
+   "kokAnlam": "dağılma, yayılma",
+   "karsilik": "dağılın"
+  },
+  {
+   "kelime": "وَلَآ",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "مُسْتَـْٔنِسِينَ",
+   "okunus": "müste'nisîne",
+   "kok": "أنس",
+   "kokAnlam": "ünsiyet kurma, oturup sohbet etme",
+   "karsilik": "sohbete dalanlar olarak"
+  },
+  {
+   "kelime": "لِحَدِيثٍ",
+   "okunus": "lihadîsin",
+   "kok": "حدث",
+   "kokAnlam": "söz, sohbet",
+   "karsilik": "bir söze"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ذَٰلِكُمْ",
+   "okunus": "zâliküm",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "يُؤْذِى",
+   "okunus": "yü'zî",
+   "kok": "أذي",
+   "kokAnlam": "eziyet, rahatsız etme",
+   "karsilik": "rahatsız ediyordu"
+  },
+  {
+   "kelime": "ٱلنَّبِىَّ",
+   "okunus": "ennebiyye",
+   "kok": "نبأ",
+   "kokAnlam": "haber; haber getiren, peygamber",
+   "karsilik": "Peygamber'i"
+  },
+  {
+   "kelime": "فَيَسْتَحْىِۦ",
+   "okunus": "feyestahyî",
+   "kok": "حيي",
+   "kokAnlam": "çekinme, utanma",
+   "karsilik": "o da çekiniyordu"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah; Allah",
+   "karsilik": "Allah ise"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) çekinmez",
+   "karsilik": "çekinmez"
+  },
+  {
+   "kelime": "يَسْتَحْىِۦ",
+   "okunus": "yestahyî",
+   "kok": "حيي",
+   "kokAnlam": "çekinme, utanma",
+   "karsilik": "çekinmez"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْحَقِّ",
+   "okunus": "elhakkı",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçek",
+   "karsilik": "gerçeği söylemekten"
+  },
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "سَأَلْتُمُوهُنَّ",
+   "okunus": "seeltümûhünne",
+   "kok": "سأل",
+   "kokAnlam": "isteme, sorma",
+   "karsilik": "onlardan istediğinizde"
+  },
+  {
+   "kelime": "مَتَٰعًا",
+   "okunus": "metâan",
+   "kok": "متع",
+   "kokAnlam": "eşya, ihtiyaç",
+   "karsilik": "bir şey"
+  },
+  {
+   "kelime": "فَسْـَٔلُوهُنَّ",
+   "okunus": "fes'elûhünne",
+   "kok": "سأل",
+   "kokAnlam": "isteme, sorma",
+   "karsilik": "onlardan isteyin"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "وَرَآءِ",
+   "okunus": "verâi",
+   "kok": "وري",
+   "kokAnlam": "arka, gerisi",
+   "karsilik": "arkasından"
+  },
+  {
+   "kelime": "حِجَابٍ",
+   "okunus": "hicâbin",
+   "kok": "حجب",
+   "kokAnlam": "perde, örtü, engel",
+   "karsilik": "bir perde"
+  },
+  {
+   "kelime": "ذَٰلِكُمْ",
+   "okunus": "zâliküm",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "أَطْهَرُ",
+   "okunus": "atheru",
+   "kok": "طهر",
+   "kokAnlam": "temiz olma",
+   "karsilik": "daha temizdir"
+  },
+  {
+   "kelime": "لِقُلُوبِكُمْ",
+   "okunus": "likulûbiküm",
+   "kok": "قلب",
+   "kokAnlam": "kalp",
+   "karsilik": "kalpleriniz için"
+  },
+  {
+   "kelime": "وَقُلُوبِهِنَّ",
+   "okunus": "ve kulûbihinne",
+   "kok": "قلب",
+   "kokAnlam": "kalp",
+   "karsilik": "ve onların kalpleri için"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmaz"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -manız",
+   "karsilik": "-manız"
+  },
+  {
+   "kelime": "تُؤْذُوا۟",
+   "okunus": "tü'zû",
+   "kok": "أذي",
+   "kokAnlam": "eziyet, rahatsız etme",
+   "karsilik": "rahatsız etmeniz"
+  },
+  {
+   "kelime": "رَسُولَ",
+   "okunus": "rasûle",
+   "kok": "رسل",
+   "kokAnlam": "gönderme; elçi",
+   "karsilik": "Resulünü"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah; Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَلَآ",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve ne de"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -manız",
+   "karsilik": "-manız"
+  },
+  {
+   "kelime": "تَنكِحُوٓا۟",
+   "okunus": "tenkihû",
+   "kok": "نكح",
+   "kokAnlam": "nikahlanma, evlenme",
+   "karsilik": "nikahlamanız"
+  },
+  {
+   "kelime": "أَزْوَٰجَهُۥ",
+   "okunus": "ezvâcehû",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift",
+   "karsilik": "onun eşlerini"
+  },
+  {
+   "kelime": "مِنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَعْدِهِۦٓ",
+   "okunus": "ba'dihî",
+   "kok": "بعد",
+   "kokAnlam": "sonra",
+   "karsilik": "ondan sonra"
+  },
+  {
+   "kelime": "أَبَدًا",
+   "okunus": "ebeden",
+   "kok": "أبد",
+   "kokAnlam": "ebediyet, sonsuza kadar",
+   "karsilik": "asla"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ذَٰلِكُمْ",
+   "okunus": "zâliküm",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmuştur"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "kat, nezd",
+   "karsilik": "katında"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَظِيمًا",
+   "okunus": "azîmen",
+   "kok": "عظم",
+   "kokAnlam": "büyüklük",
+   "karsilik": "büyük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Peygamber'in evine ziyaret adabını düzenler: davet edilmeden girmemek, yemekten sonra oturup sohbete dalmamak. Ayetin kendi ifadesi, bu davranışların Peygamber'i rahatsız ettiğini, ama onun bunu söylemekten çekindiğini; Allah'ın ise gerçeği açıkça söylediğini belirtir.",
+  "Ayetin devamında, Peygamber'in eşlerinden bir ihtiyaç istenildiğinde bunun perde arkasından (hicab) yapılması emredilir; bu, ayetin kendi ifadesiyle her iki tarafın kalbi için daha temiz bir yoldur. Ayet, Peygamber'i rahatsız etmenin ve onun eşleriyle sonradan evlenmenin büyük bir günah olduğunu söyleyerek biter; klasik tefsir bu son hükmü Peygamber eşlerinin süreklilik arz eden özel konumuna bağlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "33:6",
+   "meal": "Peygamber, müminlere kendi nefislerinden daha önceliklidir; eşleri de onların anneleridir.",
+   "baglanti": "Peygamber eşlerinin 'müminlerin anneleri' sayılan özel konumu, 53. ayetteki hem hicab hem de onlarla evlenme yasağı hükmünün temelini oluşturur."
+  },
+  {
+   "ref": "24:27",
+   "meal": "Ey iman edenler! Kendi evleriniz dışındaki evlere, geldiğinizi haber verip ev halkına selam vermeden girmeyin.",
+   "baglanti": "Nûr 27, genel olarak başkasının evine izinsiz girmeme adabını anlatır; 53. ayet ise bunu özel olarak Peygamber'in evi bağlamında düzenler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in evine girme adabı ve eşleriyle ilişki biçimidir; bu, Peygamber'in evine özgü bir düzenlemedir, genel bir kadın-erkek ilişkisi kuralı olarak sunulmamalıdır.",
+  "Ayetten genel olarak çıkarılabilecek ders, başkasının evini ve zamanını gözetmek, davet edilmeden ısrarcı olmamak, ev sahibini rahatsız etmemektir. Bir yere davetli gittiğinde, ev sahibinin zamanına ve rahatına saygı göstermek bu ayetin ruhuyla örtüşür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ziyaretinde zamana dikkat et",
+   "aciklama": "Bugün birinin evine ya da işine, önceden haber vermeden ve vaktini gözeterek gitmemeye özen göster."
+  },
+  {
+   "baslik": "Sohbeti gereksiz uzatma",
+   "aciklama": "Bugün bir ziyaretinde, iş bitince gereksiz yere oturmadan ayrıl."
+  },
+  {
+   "baslik": "Rahatsız olduğun bir şeyi nazikçe söyle",
+   "aciklama": "Bugün rahatsız olduğun bir durumu, susmak yerine nazik ama net şekilde ifade et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ziyaretinde veya buluşmanda, karşındakinin zamanını ve rahatını önceden gözettiğini kontrol et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=53"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/33/53"
+  }
+ ]
+}

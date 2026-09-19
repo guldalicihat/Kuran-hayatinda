@@ -1,0 +1,481 @@
+{
+ "sure": 33,
+ "ayet": 50,
+ "durum": "taslak",
+ "meal": "Ey Peygamber! Mehirlerini verdiğin eşlerini, Allah'ın sana ganimet olarak verdiği, elinin altında bulunanları, seninle birlikte hicret eden amcanın kızlarını, halalarının kızlarını, dayının kızlarını, teyzelerinin kızlarını; bir de kendini Peygamber'e hibe eden ve Peygamber'in nikâhlamak istediği mümin bir kadını -müminler dışında sadece sana özgü olarak- sana helal kıldık. Müminlere, eşleri ve elleri altında bulunanlar hakkında neyi farz kıldığımızı biliyoruz; [bunu] sana bir güçlük olmasın diye [yaptık]. Allah çok bağışlayandır, çok merhametlidir.",
+ "mealNotu": "'Ahlelnâ' kökü (حلل) helal kılma anlamındadır. Bu ayet açıkça yalnız Peygamber'e özgü hükümler içerir; ayetin kendisi bunu 'müminler dışında sana özgü' (خالصة لك من دون المؤمنين) diyerek belirtir, bu yüzden meal genel bir evlilik hukuku gibi değil ayetin kendi çerçevesiyle aktarılmıştır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلنَّبِىُّ",
+   "okunus": "ennebiyyü",
+   "kok": "نبأ",
+   "kokAnlam": "haber; haber getiren, peygamber",
+   "karsilik": "Peygamber"
+  },
+  {
+   "kelime": "إِنَّآ",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz biz",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "أَحْلَلْنَا",
+   "okunus": "ahlelnâ",
+   "kok": "حلل",
+   "kokAnlam": "helal kılma",
+   "karsilik": "helal kıldık"
+  },
+  {
+   "kelime": "لَّكَ",
+   "okunus": "leke",
+   "kok": "—",
+   "kokAnlam": "(zamir) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "أَزْوَٰجَكَ",
+   "okunus": "ezvâceke",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift",
+   "karsilik": "eşlerini"
+  },
+  {
+   "kelime": "ٱلَّٰتِى",
+   "okunus": "ellâtî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kadınlar ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "ءَاتَيْتَ",
+   "okunus": "âteyte",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "verdiğin"
+  },
+  {
+   "kelime": "أُجُورَهُنَّ",
+   "okunus": "ücûrahünne",
+   "kok": "أجر",
+   "kokAnlam": "karşılık, mehir",
+   "karsilik": "mehirlerini"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şey",
+   "karsilik": "ve şeyi"
+  },
+  {
+   "kelime": "مَلَكَتْ",
+   "okunus": "meleket",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, elde tutma",
+   "karsilik": "sahip olduğun"
+  },
+  {
+   "kelime": "يَمِينُكَ",
+   "okunus": "yemînüke",
+   "kok": "يمن",
+   "kokAnlam": "sağ el, sahiplik",
+   "karsilik": "elinin altında bulunan"
+  },
+  {
+   "kelime": "مِمَّآ",
+   "okunus": "mimmâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَفَآءَ",
+   "okunus": "efâe",
+   "kok": "فيأ",
+   "kokAnlam": "ganimet olarak verme, geri döndürme",
+   "karsilik": "ganimet olarak verdiği"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah; Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "عَلَيْكَ",
+   "okunus": "aleyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "وَبَنَاتِ",
+   "okunus": "ve benâti",
+   "kok": "بني",
+   "kokAnlam": "kız çocuğu",
+   "karsilik": "ve kızlarını"
+  },
+  {
+   "kelime": "عَمِّكَ",
+   "okunus": "ammike",
+   "kok": "عمم",
+   "kokAnlam": "amca",
+   "karsilik": "amcanın"
+  },
+  {
+   "kelime": "وَبَنَاتِ",
+   "okunus": "ve benâti",
+   "kok": "بني",
+   "kokAnlam": "kız çocuğu",
+   "karsilik": "ve kızlarını"
+  },
+  {
+   "kelime": "عَمَّٰتِكَ",
+   "okunus": "ammâtike",
+   "kok": "عمم",
+   "kokAnlam": "hala",
+   "karsilik": "halalarının"
+  },
+  {
+   "kelime": "وَبَنَاتِ",
+   "okunus": "ve benâti",
+   "kok": "بني",
+   "kokAnlam": "kız çocuğu",
+   "karsilik": "ve kızlarını"
+  },
+  {
+   "kelime": "خَالِكَ",
+   "okunus": "hâlike",
+   "kok": "خول",
+   "kokAnlam": "dayı",
+   "karsilik": "dayının"
+  },
+  {
+   "kelime": "وَبَنَاتِ",
+   "okunus": "ve benâti",
+   "kok": "بني",
+   "kokAnlam": "kız çocuğu",
+   "karsilik": "ve kızlarını"
+  },
+  {
+   "kelime": "خَٰلَٰتِكَ",
+   "okunus": "hâlâtike",
+   "kok": "خول",
+   "kokAnlam": "teyze",
+   "karsilik": "teyzelerinin"
+  },
+  {
+   "kelime": "ٱلَّٰتِى",
+   "okunus": "ellâtî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kadınlar ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "هَاجَرْنَ",
+   "okunus": "hâcerne",
+   "kok": "هجر",
+   "kokAnlam": "hicret etme, göç etme",
+   "karsilik": "hicret eden"
+  },
+  {
+   "kelime": "مَعَكَ",
+   "okunus": "meake",
+   "kok": "—",
+   "kokAnlam": "(yer) seninle beraber",
+   "karsilik": "seninle birlikte"
+  },
+  {
+   "kelime": "وَٱمْرَأَةً",
+   "okunus": "vemraeten",
+   "kok": "مرأ",
+   "kokAnlam": "kadın",
+   "karsilik": "ve bir kadını"
+  },
+  {
+   "kelime": "مُّؤْمِنَةً",
+   "okunus": "mü'mineten",
+   "kok": "أمن",
+   "kokAnlam": "güven; güvenerek inanan (dişi)",
+   "karsilik": "mümin"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "وَهَبَتْ",
+   "okunus": "vehebet",
+   "kok": "وهب",
+   "kokAnlam": "hibe etme, bağışlama",
+   "karsilik": "hibe ederse"
+  },
+  {
+   "kelime": "نَفْسَهَا",
+   "okunus": "nefsehâ",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "kendini"
+  },
+  {
+   "kelime": "لِلنَّبِىِّ",
+   "okunus": "lilnnebiyyi",
+   "kok": "نبأ",
+   "kokAnlam": "haber; haber getiren, peygamber",
+   "karsilik": "Peygamber'e"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَرَادَ",
+   "okunus": "erâde",
+   "kok": "رود",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "isterse"
+  },
+  {
+   "kelime": "ٱلنَّبِىُّ",
+   "okunus": "ennebiyyü",
+   "kok": "نبأ",
+   "kokAnlam": "haber; haber getiren, peygamber",
+   "karsilik": "Peygamber"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesini",
+   "karsilik": "-mesini"
+  },
+  {
+   "kelime": "يَسْتَنكِحَهَا",
+   "okunus": "yestenkihahâ",
+   "kok": "نكح",
+   "kokAnlam": "nikahlanma, evlenme isteme",
+   "karsilik": "onu nikahlamak"
+  },
+  {
+   "kelime": "خَالِصَةً",
+   "okunus": "hâlisaten",
+   "kok": "خلص",
+   "kokAnlam": "sadece, özgü olma",
+   "karsilik": "sadece özgü olarak"
+  },
+  {
+   "kelime": "لَّكَ",
+   "okunus": "leke",
+   "kok": "—",
+   "kokAnlam": "(zamir) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِ",
+   "okunus": "dûni",
+   "kok": "دون",
+   "kokAnlam": "aşağısı, dışında olma",
+   "karsilik": "dışında"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنِينَ",
+   "okunus": "elmü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven; güvenerek inanan",
+   "karsilik": "müminlerin"
+  },
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "عَلِمْنَا",
+   "okunus": "alimnâ",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "biliyoruz"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "neyi"
+  },
+  {
+   "kelime": "فَرَضْنَا",
+   "okunus": "feradnâ",
+   "kok": "فرض",
+   "kokAnlam": "farz kılma, belirleme",
+   "karsilik": "farz kıldığımızı"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "فِىٓ",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "أَزْوَٰجِهِمْ",
+   "okunus": "ezvâcihim",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift",
+   "karsilik": "eşleri"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şey",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "مَلَكَتْ",
+   "okunus": "meleket",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, elde tutma",
+   "karsilik": "sahip oldukları"
+  },
+  {
+   "kelime": "أَيْمَٰنُهُمْ",
+   "okunus": "eymânühüm",
+   "kok": "يمن",
+   "kokAnlam": "sağ el, sahiplik",
+   "karsilik": "elleri altında bulunanlar"
+  },
+  {
+   "kelime": "لِكَيْلَا",
+   "okunus": "likeylâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) olmasın diye",
+   "karsilik": "olmasın diye"
+  },
+  {
+   "kelime": "يَكُونَ",
+   "okunus": "yekûne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmasın"
+  },
+  {
+   "kelime": "عَلَيْكَ",
+   "okunus": "aleyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "حَرَجٌ",
+   "okunus": "haracün",
+   "kok": "حرج",
+   "kokAnlam": "güçlük, darlık, sıkıntı",
+   "karsilik": "bir güçlük"
+  },
+  {
+   "kelime": "وَكَانَ",
+   "okunus": "ve kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ve olmuştur"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَفُورًا",
+   "okunus": "gafûren",
+   "kok": "غفر",
+   "kokAnlam": "bağışlama",
+   "karsilik": "çok bağışlayan"
+  },
+  {
+   "kelime": "رَّحِيمًا",
+   "okunus": "rahîmen",
+   "kok": "رحم",
+   "kokAnlam": "merhamet etme",
+   "karsilik": "çok merhametli"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, ayetin kendi ifadesiyle açıkça Peygamber'e özgü bir hüküm dizisi sayar: mehirlerini verdiği eşleri, savaş sonucu sahip olduğu cariyeler, kendisiyle birlikte hicret eden amca, hala, dayı ve teyze kızları, ve kendini ona hibe eden bir mümin kadın. Ayet bu son maddeyi özellikle vurgular: 'müminler dışında, sadece sana özgü olarak.'",
+  "Ayetin sonunda, müminler için farz kılınan (eşler ve cariyeler konusundaki) genel hükümlerin bilindiği, ancak bu özel düzenlemenin Peygamber'e bir güçlük olmasın diye yapıldığı belirtilir. Klasik tefsir bu ayeti, Peygamber'in konumuna özgü, müminlere teşmil edilmeyen istisnai hükümler olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "33:52",
+   "meal": "Bundan sonra kadınlarla evlenmen sana helal değildir; güzellikleri hoşuna gitse bile onları başka eşlerle değiştirmen de helal değildir; ancak elinin altında bulunanlar müstesna.",
+   "baglanti": "Hemen ardından gelen bu ayet, 50. ayetteki Peygamber'e özgü iznin ardından bir sınırlama getirir; ikisi birlikte Peygamber'e özel evlilik çerçevesini tamamlar."
+  },
+  {
+   "ref": "4:24",
+   "meal": "...Bunların dışında kalan kadınları, iffetli yaşamak ve zina etmemek üzere mallarınızla istemeniz size helal kılındı...",
+   "baglanti": "Nisâ 24, müminler için genel evlenme helallerini sayar; 50. ayet ise bunun yanında Peygamber'e özgü ek bir düzenleme getirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin konusu tamamen Peygamber'e özgü evlilik hükümleridir; ayetin kendisi bunu açıkça 'müminler dışında sana özgü' diyerek belirtir. Bu nedenle ayetten genel bir evlilik kuralı ya da günlük hayata dair bir uygulama çıkarılmaz.",
+  "Ayetin metninde vurgulanan nokta, bir kişiye -burada Peygamber'e- özgü bir hükmün, herkes için geçerli genel bir kural sayılmaması gerektiğidir. Bu ayrım, dini metinleri okurken hangi hükmün kime yönelik olduğuna dikkat etmenin önemini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir metni bağlamıyla oku",
+   "aciklama": "Bugün okuduğun bir dini ya da hukuki metnin kime, hangi bağlamda hitap ettiğine dikkat et."
+  },
+  {
+   "baslik": "Genelleme yapmadan önce kontrol et",
+   "aciklama": "Bugün bir kuralı başkasına aktarırken, onun genel mi yoksa özel bir duruma mı ait olduğunu netleştir."
+  },
+  {
+   "baslik": "Kaynağı doğrula",
+   "aciklama": "Bugün duyduğun bir dini hükmün Peygamber'e mi yoksa genele mi ait olduğunu güvenilir bir kaynaktan kontrol et."
+  }
+ ],
+ "bugununAdimi": "Bugün okuduğun bir dini hükmün kime yönelik olduğunu netleştirmeden başkasına aktarma.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=33&verse=50"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/33/50"
+  }
+ ]
+}
