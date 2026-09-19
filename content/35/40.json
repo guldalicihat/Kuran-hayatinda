@@ -1,0 +1,285 @@
+{
+ "sure": 35,
+ "ayet": 40,
+ "durum": "taslak",
+ "meal": "De ki: 'Allah'ı bırakıp yalvardığınız ortaklarınızı gördünüz mü? Gösterin bana, yerden ne yarattılar? Yoksa onların göklerde bir ortaklığı mı var? Yoksa biz onlara bir kitap verdik de onlar bundan gelen açık bir delil üzerinde midirler?' Hayır, zalimler birbirlerine aldatmadan başka bir şey vadetmiyorlar.",
+ "mealNotu": "'Şürakâ' kökü ortak koşmayı anlatır. 'Gurûr' kökü aldatma, yanıltıcı umut vermeyi ifade eder; müşriklerin birbirlerine verdiği vaatlerin içi boş olduğunu vurgular.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "أَرَءَيْتُمْ",
+   "okunus": "eraeytüm",
+   "kok": "رأي",
+   "kokAnlam": "görme, fark etme",
+   "karsilik": "gördünüz mü"
+  },
+  {
+   "kelime": "شُرَكَآءَكُمُ",
+   "okunus": "şürakâekümü",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma, paylaşma",
+   "karsilik": "ortaklarınızı"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "o kimseleri ki"
+  },
+  {
+   "kelime": "تَدْعُونَ",
+   "okunus": "ted'ûne",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, dua etme, yalvarma",
+   "karsilik": "yalvarıyorsunuz"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِ",
+   "okunus": "dûni",
+   "kok": "دون",
+   "kokAnlam": "aşağısında, dışında",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "أَرُونِى",
+   "okunus": "erûnî",
+   "kok": "رأي",
+   "kokAnlam": "görme, fark etme",
+   "karsilik": "gösterin bana"
+  },
+  {
+   "kelime": "مَاذَا",
+   "okunus": "mâzâ",
+   "kok": "—",
+   "kokAnlam": "(soru) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "خَلَقُوا۟",
+   "okunus": "halekû",
+   "kok": "خلق",
+   "kokAnlam": "yaratma, yoktan var etme",
+   "karsilik": "yarattılar"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yerden"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlar için",
+   "karsilik": "onların"
+  },
+  {
+   "kelime": "شِرْكٌ",
+   "okunus": "şirkün",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma, paylaşma",
+   "karsilik": "bir ortaklığı"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yücelik; gök",
+   "karsilik": "göklerde"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "ءَاتَيْنَٰهُمْ",
+   "okunus": "âteynâhüm",
+   "kok": "أتي",
+   "kokAnlam": "verme, ulaştırma",
+   "karsilik": "onlara verdik"
+  },
+  {
+   "kelime": "كِتَٰبًا",
+   "okunus": "kitâben",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kayda geçirme; kitap",
+   "karsilik": "bir kitap"
+  },
+  {
+   "kelime": "فَهُمْ",
+   "okunus": "fehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar mı"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinde",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "بَيِّنَتٍ",
+   "okunus": "beyyinetin",
+   "kok": "بين",
+   "kokAnlam": "açıklık, ayırt edici açık delil",
+   "karsilik": "açık bir delil"
+  },
+  {
+   "kelime": "مِّنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ondan",
+   "karsilik": "ondan gelen"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) hayır, aksine",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "يَعِدُ",
+   "okunus": "yeidü",
+   "kok": "وعد",
+   "kokAnlam": "vaat etme, söz verme",
+   "karsilik": "vadediyorlar"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمُونَ",
+   "okunus": "ezzâlimûne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık etme, yerinde olmayan şey yapma",
+   "karsilik": "zalimler"
+  },
+  {
+   "kelime": "بَعْضُهُم",
+   "okunus": "ba'duhüm",
+   "kok": "بعض",
+   "kokAnlam": "kısım, bir kısmı",
+   "karsilik": "birbirlerine"
+  },
+  {
+   "kelime": "بَعْضًا",
+   "okunus": "ba'dan",
+   "kok": "بعض",
+   "kokAnlam": "kısım, bir kısmı",
+   "karsilik": "birbirlerine"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, -den başka",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "غُرُورًا",
+   "okunus": "gurûran",
+   "kok": "غرر",
+   "kokAnlam": "aldatma, yanıltıcı umut verme",
+   "karsilik": "aldatmadan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette inkârın sonucunun yalnızca inkâr edene döneceği anlatılmıştı; bu ayet, o inkârın somut bir örneğine -Allah'tan başka varlıklara yalvarmaya- iner. Peygamber'e, müşriklerin taptıklarının hiçbir yaratma gücü, göklerde bir payı veya kendilerine verilmiş bir kitap dayanağı olmadığını sorması emredilir.",
+  "Sıralanan üç soru -yerde bir yaratma, göklerde bir ortaklık, elde bir delil- hiçbirine olumlu cevap verilemeyeceği için ayet kendi cevabını verir: zalimler birbirlerine sadece aldatıcı, içi boş vaatlerde bulunmaktadır. Klasik tefsir bunu, delilsiz inancın nihayetinde bir yanılsamadan ibaret olduğunun vurgusu olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "46:4",
+   "meal": "De ki: 'Allah'ı bırakıp taptıklarınızı gördünüz mü? Bana gösterin, yerden ne yarattılar? Yoksa onların göklerde bir ortaklığı mı var? Bana bundan önceki bir kitap ya da bir bilgi kalıntısı getirin, eğer doğru sözlüyseniz.'",
+   "baglanti": "35:40 ile neredeyse birebir aynı üç soruyu -yaratma, ortaklık, delil- taşıyan bir ayettir; aynı meydan okumanın başka bir surede tekrarıdır."
+  },
+  {
+   "ref": "7:191",
+   "meal": "Onlar, hiçbir şey yaratamayan, kendileri yaratılmış olan varlıkları mı ortak koşuyorlar?",
+   "baglanti": "Putların yaratma gücünden yoksun oluşunu, 35:40'taki 'yerden ne yarattılar' sorusuyla aynı mantıkla pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah'tan başka varlıklara tapınmanın hiçbir akli ve delile dayalı temeli olmadığıdır.",
+  "Bugüne taşınabilecek ders, bir inancı ya da beklentiyi sorgulamadan kabul etmemektir. Dayanaksız bir vaade ya da güvence yaratma iddiasına kapılmadan önce, gerçekten neye güç yetirebildiğini sormak önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Boş vaatlere temkinli yaklaş",
+   "aciklama": "Bugün sana verilen abartılı bir vaatle karşılaştığında, arkasında gerçek bir dayanak olup olmadığını sorgula."
+  },
+  {
+   "baslik": "Gücünü doğru yere bağla",
+   "aciklama": "Bir sıkıntı anında güvenini, gerçek gücü olmayan şeylere değil doğru kaynağa yönelt."
+  },
+  {
+   "baslik": "Delilsiz iddiaya kapılma",
+   "aciklama": "Bugün duyduğun bir iddiayı hemen kabul etmeden önce, dayanağının ne olduğunu düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün, dayanaksız bir vaade kapılmadan önce bir kez daha düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=40"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/35/40"
+  }
+ ]
+}

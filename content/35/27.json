@@ -1,0 +1,208 @@
+{
+ "sure": 35,
+ "ayet": 27,
+ "durum": "taslak",
+ "meal": "Görmedin mi ki Allah gökten su indirdi de onunla renkleri farklı farklı meyveler çıkardık. Dağlardan da beyaz ve kırmızı, renkleri farklı farklı katmanlar, bir de simsiyah olanlar vardır.",
+ "mealNotu": "'Cüded' kökü, dağlarda birbirinden ayrı uzanan yol/katman biçimindeki çizgileri anlatır; burada 'katman' olarak çevrilmiştir. 'Garâbîb' kökü karganın koyu siyahına benzeyen bir koyuluğu anlatır; bu yüzden 'simsiyah' denmiştir.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk-soru) değil mi",
+   "karsilik": "görmedin mi"
+  },
+  {
+   "kelime": "تَرَ",
+   "okunus": "tera",
+   "kok": "رأي",
+   "kokAnlam": "görme, fark etme",
+   "karsilik": "görmedin mi"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ki gerçekten",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah'ı"
+  },
+  {
+   "kelime": "أَنزَلَ",
+   "okunus": "enzele",
+   "kok": "نزل",
+   "kokAnlam": "indirme, aşağı gönderme",
+   "karsilik": "indirdi"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "yücelik; gök",
+   "karsilik": "gökten"
+  },
+  {
+   "kelime": "مَآءً",
+   "okunus": "mâen",
+   "kok": "موه",
+   "kokAnlam": "su",
+   "karsilik": "su"
+  },
+  {
+   "kelime": "فَأَخْرَجْنَا",
+   "okunus": "feahracnâ",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma, dışarı getirme",
+   "karsilik": "onunla çıkardık"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "ثَمَرَٰتٍ",
+   "okunus": "semerâtin",
+   "kok": "ثمر",
+   "kokAnlam": "meyve, ürün",
+   "karsilik": "meyveler"
+  },
+  {
+   "kelime": "مُّخْتَلِفًا",
+   "okunus": "mühtelifen",
+   "kok": "خلف",
+   "kokAnlam": "ardı ardına gelme; birbirinden farklı olma",
+   "karsilik": "renkleri farklı farklı"
+  },
+  {
+   "kelime": "أَلْوَٰنُهَا",
+   "okunus": "elvânühâ",
+   "kok": "لون",
+   "kokAnlam": "renk",
+   "karsilik": "renkleri"
+  },
+  {
+   "kelime": "وَمِنَ",
+   "okunus": "ve mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "ve -den"
+  },
+  {
+   "kelime": "ٱلْجِبَالِ",
+   "okunus": "elcibâli",
+   "kok": "جبل",
+   "kokAnlam": "dağ",
+   "karsilik": "dağlardan"
+  },
+  {
+   "kelime": "جُدَدٌۢ",
+   "okunus": "cüdedün",
+   "kok": "جدد",
+   "kokAnlam": "yol, çizgi, katman",
+   "karsilik": "katmanlar"
+  },
+  {
+   "kelime": "بِيضٌ",
+   "okunus": "bîdun",
+   "kok": "بيض",
+   "kokAnlam": "beyazlık",
+   "karsilik": "beyaz"
+  },
+  {
+   "kelime": "وَحُمْرٌ",
+   "okunus": "ve humrun",
+   "kok": "حمر",
+   "kokAnlam": "kırmızılık",
+   "karsilik": "ve kırmızı"
+  },
+  {
+   "kelime": "مُّخْتَلِفٌ",
+   "okunus": "mühtelifün",
+   "kok": "خلف",
+   "kokAnlam": "ardı ardına gelme; birbirinden farklı olma",
+   "karsilik": "renkleri farklı farklı"
+  },
+  {
+   "kelime": "أَلْوَٰنُهَا",
+   "okunus": "elvânühâ",
+   "kok": "لون",
+   "kokAnlam": "renk",
+   "karsilik": "renkleri"
+  },
+  {
+   "kelime": "وَغَرَابِيبُ",
+   "okunus": "ve garâbîbü",
+   "kok": "غرب",
+   "kokAnlam": "koyuluk, kararma (karganın rengine benzetme)",
+   "karsilik": "ve simsiyah olanlar"
+  },
+  {
+   "kelime": "سُودٌ",
+   "okunus": "sûdün",
+   "kok": "سود",
+   "kokAnlam": "siyahlık",
+   "karsilik": "kapkara"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, gökten inen suyun yeryüzünde nasıl birbirinden çok farklı renklerde meyveler çıkardığını hatırlatarak başlar. 'Elem tera' (görmedin mi) ifadesi, herkesin günlük hayatta şahit olduğu, ama üzerinde düşünmediği bir gerçeğe dikkat çeker.",
+  "Ardından dağlardaki farklı renkli katmanlara -beyaz, kırmızı, simsiyah- işaret edilir. Aynı sudan, aynı topraktan bu kadar çeşitliliğin çıkması, klasik tefsirde Allah'ın yaratmasındaki kudret ve incelik delillerinden biri olarak açıklanır; bir sonraki ayette bu çeşitlilik insanlara da taşınacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "16:13",
+   "meal": "Yeryüzünde sizin için yarattığı, renkleri türlü türlü olan şeyler de vardır. Şüphesiz bunda öğüt alan bir topluluk için bir işaret vardır.",
+   "baglanti": "Aynı 'muhtelifen elvânühû' (renkleri farklı farklı) ifadesiyle, yeryüzündeki çeşitliliğin bir ibret vesilesi olduğunu vurgular."
+  },
+  {
+   "ref": "39:21",
+   "meal": "Görmedin mi ki Allah gökten su indirdi de onu yerin damarlarına yerleştirdi; sonra onunla renkleri farklı farklı ekinler çıkarır.",
+   "baglanti": "35:27 ile aynı 'elem tera enne(A)llâhe enzele mines-semâi mâen' açılışını taşıyan, aynı temayı işleyen bir ayettir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu doğadaki renk ve tür çeşitliliğinin Allah'ın yaratmasına işaret etmesidir.",
+  "Bugüne taşınabilecek ders, günlük hayatta alışkanlıkla bakıp geçtiğin şeylerde durup düşünmektir. Aynı su, aynı toprak; ama bu kadar farklı sonuç -bu, dikkatle bakıldığında sıradanlığın içindeki olağanüstülüğü fark etmeyi öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugün bir doğa gözlemi yap",
+   "aciklama": "Yürürken gördüğün bir bitki, taş ya da meyvenin rengine, dokusuna birkaç saniye gerçekten bak."
+  },
+  {
+   "baslik": "Alışkanlığın körelttiği bir şeyi fark et",
+   "aciklama": "Her gün gördüğün ama artık dikkat etmediğin bir şeyi bugün yeniden fark etmeye çalış."
+  },
+  {
+   "baslik": "Çeşitliliği bir tesadüf gibi görme",
+   "aciklama": "Etrafındaki farklılıkları düşünürken bunların arkasındaki düzeni hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün dışarıda gördüğün bir bitki ya da taşın rengine, şekline gerçekten dikkat et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=27"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/35/27"
+  }
+ ]
+}

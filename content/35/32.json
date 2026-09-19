@@ -1,0 +1,201 @@
+{
+ "sure": 35,
+ "ayet": 32,
+ "durum": "taslak",
+ "meal": "Sonra kitabı, kullarımızdan seçtiklerimize miras bıraktık. Onlardan kimi kendine zulmeder, kimi orta yoldadır, kimi de Allah'ın izniyle hayırlarda öne geçendir. İşte bu, büyük lütfun ta kendisidir.",
+ "mealNotu": "'Muktesıd' kökü ölçülü, dengeli, orta yolda olma anlamındadır. 'Sâbik' kökü öne geçmeyi, yarışı kazanmayı anlatır; burada hayırlı işlerde öne geçenleri ifade eder. Üç grup da 'kitaba mirasçı kılınan seçilmiş kullar' tanımının içindedir.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "أَوْرَثْنَا",
+   "okunus": "evrasnâ",
+   "kok": "ورث",
+   "kokAnlam": "miras bırakma, devretme",
+   "karsilik": "miras bıraktık"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kayda geçirme; kitap",
+   "karsilik": "kitabı"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "kendilerine ki"
+  },
+  {
+   "kelime": "ٱصْطَفَيْنَا",
+   "okunus": "istafeynâ",
+   "kok": "صفو",
+   "kokAnlam": "arılık, süzülme; seçip arındırma",
+   "karsilik": "seçtiklerimize"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den, arasından",
+   "karsilik": "arasından"
+  },
+  {
+   "kelime": "عِبَادِنَا",
+   "okunus": "ibâdinâ",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme, kul olma",
+   "karsilik": "kullarımızdan"
+  },
+  {
+   "kelime": "فَمِنْهُمْ",
+   "okunus": "feminhüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlardan kimi",
+   "karsilik": "onlardan kimi"
+  },
+  {
+   "kelime": "ظَالِمٌ",
+   "okunus": "zâlimün",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık etme, yerinde olmayan şey yapma",
+   "karsilik": "kendine zulmedendir"
+  },
+  {
+   "kelime": "لِّنَفْسِهِۦ",
+   "okunus": "linefsihî",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik, canlılık",
+   "karsilik": "kendine"
+  },
+  {
+   "kelime": "وَمِنْهُمْ",
+   "okunus": "ve minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlardan kimi",
+   "karsilik": "ve onlardan kimi"
+  },
+  {
+   "kelime": "مُّقْتَصِدٌ",
+   "okunus": "müktesıdün",
+   "kok": "قصد",
+   "kokAnlam": "yönelme, ölçülü ve dengeli olma",
+   "karsilik": "orta yoldadır"
+  },
+  {
+   "kelime": "وَمِنْهُمْ",
+   "okunus": "ve minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onlardan kimi",
+   "karsilik": "ve onlardan kimi"
+  },
+  {
+   "kelime": "سَابِقٌۢ",
+   "okunus": "sâbikun",
+   "kok": "سبق",
+   "kokAnlam": "öne geçme, yarışı kazanma",
+   "karsilik": "öne geçendir"
+  },
+  {
+   "kelime": "بِٱلْخَيْرَٰتِ",
+   "okunus": "bil hayrâti",
+   "kok": "خير",
+   "kokAnlam": "iyilik, hayır",
+   "karsilik": "hayırlarda"
+  },
+  {
+   "kelime": "بِإِذْنِ",
+   "okunus": "biizni",
+   "kok": "أذن",
+   "kokAnlam": "izin verme, bildirme",
+   "karsilik": "izniyle"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o [ta kendisidir]"
+  },
+  {
+   "kelime": "ٱلْفَضْلُ",
+   "okunus": "elfadlü",
+   "kok": "فضل",
+   "kokAnlam": "üstünlük, fazladan verilen lütuf",
+   "karsilik": "büyük lütfun"
+  },
+  {
+   "kelime": "ٱلْكَبِيرُ",
+   "okunus": "elkebîru",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük",
+   "karsilik": "büyük [lütfun]"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette Kur'an'ın hak ve doğrulayıcı bir kitap olduğu anlatılmıştı; bu ayet o kitabın kullar arasından seçilenlere miras bırakıldığını bildirir. Klasik tefsir, burada 'seçilenler'i Peygamber'in ümmeti, yani kitaba mirasçı kılınan topluluk olarak açıklar.",
+  "Ayet bu mirasçıları üç grupta tasnif eder: kendine zulmeden, orta yolda olan ve hayırlarda öne geçen. Bu üç grup da 'kullarımızdan seçtiklerimiz' ifadesinin kapsamında yer alır; hemen sonraki ayette anlatılan Adn cennetlerine girişin bu üç grubu da içerdiği, klasik tefsirde yaygın bir görüş olarak nakledilir. Ayetin vurgusu, kusuru olsa bile bu kitaba bağlı kalanların Allah'ın büyük lütfuna mazhar olduğudur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:169",
+   "meal": "Onların ardından, kitaba mirasçı olan bir nesil geldi; onlar bu değersiz dünyanın geçici menfaatini alıp 'nasıl olsa bağışlanacağız' derlerdi.",
+   "baglanti": "Aynı 'kitaba mirasçı kılınma' teması üzerinden, mirasçı olmanın tek başına yeterli olmadığını, davranışla desteklenmesi gerektiğini hatırlatır."
+  },
+  {
+   "ref": "56:10",
+   "meal": "Önde olanlar ise önde olanlardır.",
+   "baglanti": "Vâkıa suresindeki 'sâbikûn' (öne geçenler) tasnifiyle, 35:32'deki 'hayırlarda öne geçen' grubunun aynı kavramla anıldığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kitaba mirasçı kılınan topluluğun kendi içinde üç farklı düzeyde bulunabileceğidir: kusurlu, dengeli ve öne geçmiş.",
+  "Bugüne taşınabilecek ders, kendini hangi grupta bulursan bul, umutsuzluğa kapılmamandır. Kendine zulmeden bile bu mirasın dışında bırakılmamıştır; önemli olan bulunduğun yerden daha iyiye doğru çaba göstermektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bulunduğun yeri dürüstçe gör",
+   "aciklama": "Bugün kendini bu üç gruptan hangisine daha yakın hissettiğini dürüstçe düşün; kendini yargılamadan sadece fark et."
+  },
+  {
+   "baslik": "Bir adım öne geçmeyi dene",
+   "aciklama": "Alışıldık iyiliklerinin dışında, bugün küçük bir hayırda biraz daha gayret göster."
+  },
+  {
+   "baslik": "Kusurun seni durdurmasın",
+   "aciklama": "Geçmişte kendine zulmettiğin bir konuda, bugünden itibaren düzeltmeye adım at; umutsuzluğa kapılma."
+  }
+ ],
+ "bugununAdimi": "Bugün, alışıldık iyiliklerinin ötesinde küçük bir hayırda daha fazla gayret göster.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=35&verse=32"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/35/32"
+  }
+ ]
+}
