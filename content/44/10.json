@@ -1,0 +1,96 @@
+{
+ "sure": 44,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "Öyleyse, göğün apaçık bir duman getireceği günü gözle.",
+ "mealNotu": "'Fertekıb' kökü gözetleyip bekleme, 'dühan' kökü duman anlamındadır. Sure adını bu ayetteki 'duhan' kelimesinden alır.",
+ "kokler": [
+  {
+   "kelime": "فَٱرْتَقِبْ",
+   "okunus": "fertekıb",
+   "kok": "رقب",
+   "kokAnlam": "gözetleme, bekleme, izleme",
+   "karsilik": "öyleyse gözle"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "تَأْتِى",
+   "okunus": "te'tî",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "getireceği"
+  },
+  {
+   "kelime": "ٱلسَّمَآءُ",
+   "okunus": "essemâü",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "göğün"
+  },
+  {
+   "kelime": "بِدُخَانٍ",
+   "okunus": "bidühânin",
+   "kok": "دخن",
+   "kokAnlam": "tütme, duman",
+   "karsilik": "bir duman"
+  },
+  {
+   "kelime": "مُّبِينٍ",
+   "okunus": "mübînin",
+   "kok": "بين",
+   "kokAnlam": "ayırma, ayırt etme; açık olma",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette inkârcıların şüphe içinde oyalandığı anlatılmıştı; bu ayet, onlara bir gün geleceğini, göğün 'apaçık bir duman' getireceğini bildirir. Sure, adını bu ayette geçen 'duhân' (duman) kelimesinden alır.",
+  "Ayetin kendisi, bu dumanın ne zaman ya da nasıl geleceğine dair bir ayrıntı vermez; sadece 'göğün getireceği apaçık bir duman' der. Klasik tefsirde bu konuda farklı görüşler nakledilmiştir; ayetin kendi ifadesiyle yetinmek, kesin bir senaryo eklememek daha doğrudur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "52:9",
+   "meal": "Göğün şiddetle çalkalanacağı gün.",
+   "baglanti": "Tûr suresi de göğün olağan halinden çıkacağı bir günü anlatır; Duhân'daki gök imgesiyle aynı eskatolojik atmosferi paylaşır."
+  },
+  {
+   "ref": "44:16",
+   "meal": "O büyük yakalayışla yakalayacağımız gün, şüphesiz biz intikam alanlarız.",
+   "baglanti": "Aynı surenin ilerleyen bir ayeti, bu 'gün' ifadesini büyük bir yakalayışla devam ettirir; ikisi de gelecekte gerçekleşecek şiddetli bir olayı 'gün' kelimesiyle tanıtır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, ileride gerçekleşecek ciddi bir olaydır; bunun ayrıntısını bilmek insanın elinde değildir, ama gelecek olduğunu bilmek önemlidir.",
+  "Bugüne taşınabilecek ders, geleceğe hazırlıksız yakalanmamaktır. Kesin bilinmeyen bir olayı merak konusu yapmak yerine, o gün geldiğinde pişman olmayacak bir hayat sürmeye odaklanmak daha faydalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hazırlıksız yakalanma",
+   "aciklama": "Bugün, 'yarın olsa hazır mıyım' diye kendine sor ve eksik bıraktığın bir şeyi tamamla."
+  },
+  {
+   "baslik": "Merakı doğru yöne çevir",
+   "aciklama": "Kıyamet alametleri hakkında spekülasyon yapmak yerine, bugün kendi davranışlarını düzeltmeye vakit ayır."
+  },
+  {
+   "baslik": "Ahireti unutma",
+   "aciklama": "Bugün yaptığın bir işin, sonsuz hayatta bir karşılığı olacağını hatırlayarak yap."
+  }
+ ],
+ "bugununAdimi": "Bugün, 'bu an son anım olsa pişman olur muydum' diye bir kez kendine sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/44/10"
+  }
+ ]
+}

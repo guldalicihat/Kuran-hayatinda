@@ -1,0 +1,96 @@
+{
+ "sure": 44,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "Katımızdan bir emir olarak. Şüphesiz biz gönderenleriz.",
+ "mealNotu": "'Emran' kelimesi bir önceki ayetteki 'emrin hakîm' ifadesini pekiştirir. 'Mürsilîn' kelimesi risalet (gönderme, elçilik) kökünden gelir; 'gönderenler' hem vahyi hem elçileri göndermeyi kapsar.",
+ "kokler": [
+  {
+   "kelime": "أَمْرًا",
+   "okunus": "emran",
+   "kok": "أمر",
+   "kokAnlam": "iş, buyruk, emir",
+   "karsilik": "bir emir olarak"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "عِندِنَآ",
+   "okunus": "indinâ",
+   "kok": "عند",
+   "kokAnlam": "yan, kat, huzur",
+   "karsilik": "katımızdan"
+  },
+  {
+   "kelime": "إِنَّا",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz, gerçekten",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "كُنَّا",
+   "okunus": "künnâ",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduk"
+  },
+  {
+   "kelime": "مُرْسِلِينَ",
+   "okunus": "mürsilîne",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi gönderme",
+   "karsilik": "gönderenler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu kısa ayet, önceki ayetteki 'hikmetli iş'in kaynağını açıklar: bu iş, doğrudan Allah katından gelen bir emirdir. Böylece o gecede belirlenen her şeyin kör bir tesadüf değil, bilinçli bir buyruk olduğu vurgulanır.",
+  "Ayetin ikinci kısmı, Allah'ın 'gönderenler' olduğunu, yani insanlığa elçi ve vahiy gönderme geleneğinin süregeldiğini bildirir. Bu, sonraki ayetlerde anlatılacak rahmet ve elçilik temasına bir geçiştir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "35:24",
+   "meal": "Şüphesiz biz seni hak ile müjdeleyici ve uyarıcı olarak gönderdik. Hiçbir ümmet yoktur ki içinde bir uyarıcı gelip geçmiş olmasın.",
+   "baglanti": "Fâtır suresi, her topluma bir uyarıcı gönderildiğini söyler; Duhân'daki 'biz gönderenleriz' ifadesi bu genel ilkeye dayanır."
+  },
+  {
+   "ref": "16:36",
+   "meal": "Andolsun, her ümmete 'Allah'a kulluk edin, tağuttan kaçının' diye bir resul gönderdik.",
+   "baglanti": "Nahl suresi de gönderme fiilini aynı kökten kullanarak elçi göndermenin evrensel bir düzen olduğunu bildirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, vahyin ve elçilerin ilahi bir emirle, kasıtlı olarak gönderildiğidir; bu, tesadüfi bir olay değildir.",
+  "Bugüne taşınabilecek ders, hayatındaki önemli yönlendirmelerin de bir amaca hizmet ettiğini düşünmektir. Bir söz, bir uyarı, bir öğüt sana ulaştığında bunu önemsemek, kaynağının bilinçli olduğunu kabul etmekle başlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir öğüdü ciddiye al",
+   "aciklama": "Bugün birinin sana verdiği haklı bir uyarıyı, savunmaya geçmeden düşün."
+  },
+  {
+   "baslik": "Bir sözü doğru yere ilet",
+   "aciklama": "Bugün öğrendiğin faydalı bir bilgiyi, ihtiyacı olan birine aktar."
+  },
+  {
+   "baslik": "Amaçsız bir günü sorgula",
+   "aciklama": "Bugünün sonunda, günü bir amaç için mi yoksa boşa mı geçirdiğini kendine sor."
+  }
+ ],
+ "bugununAdimi": "Bugün öğrendiğin faydalı bir bilgiyi bir kişiyle paylaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/44/5"
+  }
+ ]
+}

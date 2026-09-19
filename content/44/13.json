@@ -1,0 +1,103 @@
+{
+ "sure": 44,
+ "ayet": 13,
+ "durum": "taslak",
+ "meal": "Onlara öğüt nereden fayda versin? Oysa kendilerine apaçık bir elçi gelmişti.",
+ "mealNotu": "'Zikrâ' kökü hatırlama, öğüt alma anlamındadır. Ayet, azap anında verilen sözün geç kaldığını, çünkü daha önce zaten bir elçinin geldiğini vurgular.",
+ "kokler": [
+  {
+   "kelime": "أَنَّىٰ",
+   "okunus": "ennâ",
+   "kok": "—",
+   "kokAnlam": "(soru edatı) nereden, nasıl",
+   "karsilik": "nereden"
+  },
+  {
+   "kelime": "لَهُمُ",
+   "okunus": "lehümü",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "ٱلذِّكْرَىٰ",
+   "okunus": "ezzikrâ",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlama, öğüt alma",
+   "karsilik": "öğüt/hatırlama"
+  },
+  {
+   "kelime": "وَقَدْ",
+   "okunus": "ve kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik edatı) oysa, gerçekten",
+   "karsilik": "oysa"
+  },
+  {
+   "kelime": "جَآءَهُمْ",
+   "okunus": "câehüm",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "kendilerine gelmişti"
+  },
+  {
+   "kelime": "رَسُولٌ",
+   "okunus": "rasûlün",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi",
+   "karsilik": "bir elçi"
+  },
+  {
+   "kelime": "مُّبِينٌ",
+   "okunus": "mübînün",
+   "kok": "بين",
+   "kokAnlam": "ayırma, ayırt etme; açık olma",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette azap anında verilen 'iman edeceğiz' sözü aktarılmıştı; bu ayet, bu sözün artık bir fayda sağlamayacağını sorar gibi anlatır. 'Öğüt nereden fayda versin' ifadesi, fırsatın geçtiğine işaret eder.",
+  "Sebep açıkça belirtilir: onlara zaten daha önce apaçık bir elçi gelmişti. Öğüt alma fırsatı ellerindeyken değerlendirilmemiş, azap anına kadar bekletilmiştir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:30",
+   "meal": "Yazıklar olsun kullara! Kendilerine gelen her elçiyle mutlaka alay ederlerdi.",
+   "baglanti": "Yâsîn suresi de elçilerin gelmesine rağmen onlarla alay edilmesini anlatır; bu, Duhân 13'teki fırsatın kaçırılmasıyla aynı temayı paylaşır."
+  },
+  {
+   "ref": "43:30",
+   "meal": "Hak kendilerine gelince, 'Bu bir sihirdir, biz onu inkâr ediyoruz' dediler.",
+   "baglanti": "Zuhruf suresi de gerçek geldiğinde inkâr edilmesini anlatır; Duhân'daki geç kalmış öğüt talebi, bu daha önceki reddedişin bir sonucudur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, fırsat varken değerlendirilmeyen bir öğüttür; azap anında istenen öğüt artık iş görmez.",
+  "Bugüne taşınabilecek ders, elindeki fırsatları 'sonra değerlendiririm' diye ertelememektir. Bir öğüt, bir uyarı, bir imkân elindeyken kıymetini bilmek, o imkân geçtikten sonra pişmanlık duymaktan daha iyidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Elindeki fırsatı değerlendir",
+   "aciklama": "Bugün elinde olan bir imkânı (öğrenme, yardım etme, düzeltme) ertelemeden kullan."
+  },
+  {
+   "baslik": "Bir öğüdü şimdi dinle",
+   "aciklama": "Bugün sana verilen bir öğüdü savunmaya geçmeden, gerçekten dinle."
+  },
+  {
+   "baslik": "Geç kalmadan harekete geç",
+   "aciklama": "Uzun süredir 'zamanı gelince yaparım' dediğin bir işi bugün başlat."
+  }
+ ],
+ "bugununAdimi": "Bugün, ertelediğin bir öğüdü veya uyarıyı şimdi dikkate al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=13"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/44/13"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "sure": 44,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Apaçık Kitab'a andolsun.",
+ "mealNotu": "'Kitab' kökü yazılı olanı, 'mübin' kökü ise açık ve ayırt edici olanı anlatır; birlikte 'apaçık Kitab' ifadesini oluşturur.",
+ "kokler": [
+  {
+   "kelime": "وَٱلْكِتَٰبِ",
+   "okunus": "vel kitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, yazılı olan; kitap",
+   "karsilik": "Kitab'a andolsun"
+  },
+  {
+   "kelime": "ٱلْمُبِينِ",
+   "okunus": "elmübîni",
+   "kok": "بين",
+   "kokAnlam": "ayırma, ayırt etme; açık, gerçeği ortaya koyan",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir yeminle başlar. Kur'an'da bazı sureler, konunun önemine dikkat çekmek için böyle bir yeminle açılır; burada yemin edilen şey Kitab'ın kendisidir.",
+  "'Mübin' kelimesi, hem kendisinin açık olduğunu hem de hakkı batıldan ayırt ettiğini anlatır. Bu ayet, az sonra anlatılacak olan indirilişin önemine zemin hazırlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "43:2",
+   "meal": "Apaçık Kitab'a andolsun.",
+   "baglanti": "Zuhruf suresi de neredeyse aynı yeminle açılır; Hâ Mîm ile başlayan surelerde bu ifade tekrarlanan bir girizgâhtır."
+  },
+  {
+   "ref": "12:1",
+   "meal": "Elif Lâm Râ. Bunlar, apaçık Kitabın ayetleridir.",
+   "baglanti": "Yûsuf suresi de Kitab'ı aynı 'mübin' sıfatıyla tanıtır; bu, Kur'an'ın kendini nasıl tanımladığına dair ortak bir vurgudur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan Kur'an'ın kendisidir; okuyanına açık ve yol gösterici olma özelliğine dikkat çeker.",
+  "Bugüne taşınabilecek ders, elindeki kaynağın açık olmasını beklerken önce kendinin onu anlamaya çaba göstermesidir. Bir metni 'apaçık' bulmak, çoğu zaman onunla vakit geçirmeyi gerektirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir sayfa oku ve anlamına bak",
+   "aciklama": "Bugün Kur'an'dan bir sayfa oku ve mealine bakarak ne dediğini anla."
+  },
+  {
+   "baslik": "Anlaşılmayan bir kelimeyi araştır",
+   "aciklama": "Okuduğun bir ayette takıldığın bir kelimeyi bugün bir kaynaktan kontrol et."
+  },
+  {
+   "baslik": "Bir ayeti not al",
+   "aciklama": "Bugün seni etkileyen bir ayeti bir kağıda yaz ve gün içinde tekrar oku."
+  }
+ ],
+ "bugununAdimi": "Bugün en az bir ayeti mealiyle birlikte oku ve anladığını kendi cümlenle özetle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/44/2"
+  }
+ ]
+}

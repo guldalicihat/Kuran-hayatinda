@@ -1,0 +1,96 @@
+{
+ "sure": 44,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "Sonra ondan yüz çevirdiler ve 'öğretilmiş bir delidir' dediler.",
+ "mealNotu": "'Tevellev' kökü yüz çevirme, 'mecnûn' kökü ise gizlenme/örtülme anlamındaki cinn köküyle ilişkilidir; burada akıl dengesizliği ithamını anlatır.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "تَوَلَّوْا۟",
+   "okunus": "tevellev",
+   "kok": "ولي",
+   "kokAnlam": "dönme, yüz çevirme",
+   "karsilik": "yüz çevirdiler"
+  },
+  {
+   "kelime": "عَنْهُ",
+   "okunus": "anhü",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "وَقَالُوا۟",
+   "okunus": "ve kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "ve dediler"
+  },
+  {
+   "kelime": "مُعَلَّمٌ",
+   "okunus": "müallemün",
+   "kok": "علم",
+   "kokAnlam": "öğretme, bilme",
+   "karsilik": "öğretilmiş biri"
+  },
+  {
+   "kelime": "مَّجْنُونٌ",
+   "okunus": "mecnûnün",
+   "kok": "جنن",
+   "kokAnlam": "örtülme, gizlenme; akıl dengesinin örtülmesi",
+   "karsilik": "delidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Elçi geldiği halde (13. ayet), ona verilen tepki burada anlatılır: yüz çevirmek ve onu itham etmek. 'Öğretilmiş' ithamı, getirdiği mesajın kendisinden değil, başkasından öğrendiği bir şey olduğunu iddia eder.",
+  "'Mecnûn' ithamı ise akıl sağlığını sorgulayan ağır bir suçlamadır. Bu iki itham birbiriyle çelişir; hem 'birinden öğrenmiş' hem 'deli' demek, aynı anda tutarlı olamayan suçlamalardır, ama amaç mesajı itibarsızlaştırmaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:2",
+   "meal": "Sen, Rabbinin nimeti sayesinde mecnun değilsin.",
+   "baglanti": "Kalem suresi, aynı 'mecnun' ithamına doğrudan cevap verir; Allah, elçisini bu suçlamadan tenzih eder."
+  },
+  {
+   "ref": "25:4",
+   "meal": "İnkâr edenler dediler ki: 'Bu, ancak onun uydurduğu bir yalandır, ona bu konuda başka bir topluluk da yardım etmiştir.'",
+   "baglanti": "Furkân suresi de benzer bir itham nakleder; getirilen mesajın başkasından alındığı iddiası, Duhân 14'teki 'öğretilmiş' suçlamasıyla aynı mantığı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, elçiye yöneltilen haksız suçlamalardır; bu tarihsel bir olaydır ama haksız yere itham edilme durumu her çağda yaşanabilir.",
+  "Bugüne taşınabilecek ders, birini hemen yargılamadan önce dinlemektir. Bir kişiyi anlamadan, tutarsız gerekçelerle kötülemek, burada anlatılan tutumla benzerlik taşır; bundan kaçınmak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Peşin hükümden kaçın",
+   "aciklama": "Bugün birini yargılamadan önce, önce onu dinle ve gerekçesini anla."
+  },
+  {
+   "baslik": "Haksız bir suçlamayı düzelt",
+   "aciklama": "Birine haksız yere söylediğin bir sözün varsa, bugün bunu telafi et."
+  },
+  {
+   "baslik": "Tutarsız eleştiriyi fark et",
+   "aciklama": "Bugün bir konuda birbirini tutmayan iki eleştiri duyarsan, bunun art niyetten kaynaklanabileceğini düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün, hakkında peşin hüküm verdiğin bir kişiyi yeniden, önyargısız dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/44/14"
+  }
+ ]
+}

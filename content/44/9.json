@@ -1,0 +1,89 @@
+{
+ "sure": 44,
+ "ayet": 9,
+ "durum": "taslak",
+ "meal": "Hayır, onlar şüphe içinde oyalanıp oynuyorlar.",
+ "mealNotu": "'Şekk' kökü kararsızlığı, 'yel'abûn' kökü ise ciddiyetsiz oyalanmayı anlatır. Ayet, önceki ayetlerdeki açık delillere rağmen inkârcıların tutumunu özetler.",
+ "kokler": [
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak edatı) hayır, aksine",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "شَكٍّ",
+   "okunus": "şekkin",
+   "kok": "شكك",
+   "kokAnlam": "kararsızlık, şüphe",
+   "karsilik": "şüphe"
+  },
+  {
+   "kelime": "يَلْعَبُونَ",
+   "okunus": "yel'abûne",
+   "kok": "لعب",
+   "kokAnlam": "oyun, oyalanma, ciddiye almama",
+   "karsilik": "oyalanıyorlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetlerde açık bir tevhid delili sunulmuştu; bu ayet ise inkârcıların bu delillere karşı tutumunu anlatır. 'Hayır' ifadesi, beklenen imanın gerçekleşmediğini vurgular.",
+  "'Şekk' kelimesi, kararsızlığı ve emin olamamayı anlatır; 'yel'abûn' ise bu kararsızlığın ciddiye alınmayıp bir oyun gibi geçiştirildiğini gösterir. Bu, sadece bilgisizlik değil, bilinçli bir umursamazlıktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "43:83",
+   "meal": "Bırak onları; kendilerine vaat edilen günlerine kavuşuncaya kadar dalıp oynasınlar.",
+   "baglanti": "Zuhruf suresi de aynı 'yel'abûn' kökünü kullanarak inkârcıların bu oyalanmasını tarif eder."
+  },
+  {
+   "ref": "6:91",
+   "meal": "Sonra onları bırak, daldıkları bataklıkta oynayadursunlar.",
+   "baglanti": "En'âm suresi de benzer bir üslupla, hakikate karşı ciddiyetsiz tavrı 'oynama' fiiliyle anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, açık delillere rağmen inanmayı ertelemek ve konuyu ciddiye almamaktır; bu, doğrudan iman meselesiyle ilgilidir.",
+  "Bugüne taşınabilecek ders, önemli bir konuyu 'sonra düşünürüm' diyerek oyalanma alışkanlığından kaçınmaktır. Hayatın anlamı, ölüm ve hesap gibi konularda kararsızlıkta oyalanmak, bir tercih gibi görünse de aslında bir tercihi ertelemektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ertelediğin bir soruyu düşün",
+   "aciklama": "Bugün, cevabını ertelediğin önemli bir hayat sorusuna birkaç dakika ayır."
+  },
+  {
+   "baslik": "Ciddiyetsizliği fark et",
+   "aciklama": "Bugün önemli bir konuyu şakaya vurup geçiştirdiğin bir anı fark edersen, durup gerçekten düşün."
+  },
+  {
+   "baslik": "Bir kararı bugün ver",
+   "aciklama": "Uzun süredir askıda tuttuğun küçük bir kararı bugün netleştir."
+  }
+ ],
+ "bugununAdimi": "Bugün erteleyip durduğun bir konuda, en azından ilk adımı at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=9"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/44/9"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "sure": 44,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Şüphesiz biz onu mübarek bir gecede indirdik. Gerçekten biz uyarıcı olduk.",
+ "mealNotu": "'Mübarek' kökü bereketi, iyiliğin çoğalmasını anlatır. 'Münzirîn' kelimesi nezir (uyarma) kökündendir; 'uyarıcı olduk' ifadesi hem bu indirilişin hem de gönderilen elçilerin uyarma görevine işaret eder.",
+ "kokler": [
+  {
+   "kelime": "إِنَّا",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz, gerçekten",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "أَنزَلْنَٰهُ",
+   "okunus": "enzelnâhü",
+   "kok": "نزل",
+   "kokAnlam": "indirme, yukarıdan aşağı indirme",
+   "karsilik": "onu indirdik"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde, -de",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "لَيْلَةٍ",
+   "okunus": "leyletin",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "bir gecede"
+  },
+  {
+   "kelime": "مُّبَٰرَكَةٍ",
+   "okunus": "mübâraketin",
+   "kok": "برك",
+   "kokAnlam": "bereket, bolluk; iyiliğin kalıcı ve artan olması",
+   "karsilik": "mübarek"
+  },
+  {
+   "kelime": "إِنَّا",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz, gerçekten",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "كُنَّا",
+   "okunus": "künnâ",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduk"
+  },
+  {
+   "kelime": "مُنذِرِينَ",
+   "okunus": "münzirîne",
+   "kok": "نذر",
+   "kokAnlam": "sakındırma, uyarma",
+   "karsilik": "uyarıcı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Kur'an'ın 'mübarek bir gecede' indirildiğini bildirir. 'Mübarek' kökü, bir şeyde bereketin, kalıcı iyiliğin yerleşmesini anlatır; bu gece, indirilen söz sayesinde bereketli kılınmıştır. Ayetin kendisi bu geceye özel bir isim vermez, sadece 'mübarek gece' der.",
+  "Kur'an'ın başka bir yerinde, Kadir suresinde, Kur'an'ın 'Kadir gecesinde' indirildiği söylenir; bu yüzden klasik tefsirde bu iki ayet genellikle aynı geceye işaret ettiği görüşüyle birlikte okunur. Yine de Duhân'ın bu ayeti kendi ifadesiyle kalır ve kesin bir isim vermez. Ayetin ikinci kısmı, bu indirilişin bir uyarı olduğunu, yani insanları gaflet ve sorumsuzluktan sakındırma amacı taşıdığını vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "97:1",
+   "meal": "Şüphesiz biz onu Kadir gecesinde indirdik.",
+   "baglanti": "Kadir suresi, Kur'an'ın indirildiği geceyi doğrudan adlandırır; klasik tefsirde bu, Duhân 3'teki 'mübarek gece' ile genellikle ilişkilendirilir, fakat Duhân'ın kendi ifadesi bu ismi vermez."
+  },
+  {
+   "ref": "2:185",
+   "meal": "Ramazan ayı, Kur'an'ın kendisinde indirildiği, insanlara yol gösterici olan aydır.",
+   "baglanti": "Bakara suresi, Kur'an'ın indirildiği zamanı bir ay (Ramazan) olarak belirtir; Duhân'daki 'mübarek gece' bu ayın içindeki bir geceye işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın indiriliş zamanı ve amacıdır; bu bir tarihsel-vahiy olayıdır, herkesin yaşadığı sıradan bir gece değildir.",
+  "Buna rağmen çıkarılabilecek ders şudur: bereketli olarak nitelenen bir zaman, boşa geçirilmeye değmez. Kur'an'ın indirildiği geceler ve aylar geldiğinde bunu fark etmek, o vakti sıradan bir gün gibi geçirmemeyi hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bereketli bir vakti fark et",
+   "aciklama": "Bugün içinde bulunduğun günü veya haftayı sıradan geçirmek yerine bir amaç için değerlendir."
+  },
+  {
+   "baslik": "Bir kişiyi nazikçe uyar",
+   "aciklama": "Bugün bir yakınına, kırmadan ve nutuk çekmeden, fark ettiğin bir yanlışı hatırlat."
+  },
+  {
+   "baslik": "Kesin bilgiyle uydurma bilgiyi ayır",
+   "aciklama": "Bugün bir dinî konuda 'kesin' diye aktardığın bir bilgiyi gözden geçir; emin değilsen böyle söyle."
+  }
+ ],
+ "bugununAdimi": "Bugün akşam, o günün en bereketli anını hatırlayıp bunun için Allah'a şükret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=44&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/44/3"
+  }
+ ]
+}
