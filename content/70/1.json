@@ -1,0 +1,82 @@
+{
+ "sure": 70,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Bir soran, gerçekleşecek bir azabı sordu (istedi).",
+ "mealNotu": "'Seele' kökü hem sormayı hem istemeyi anlatır; buradaki bağlamda alaycı bir meydan okumaya yakındır. 'Vâki' kökü gerçekleşecek, düşecek olanı ifade eder.",
+ "kokler": [
+  {
+   "kelime": "سَأَلَ",
+   "okunus": "seele",
+   "kok": "سأل",
+   "kokAnlam": "sormak, istemek",
+   "karsilik": "sordu"
+  },
+  {
+   "kelime": "سَآئِلٌۢ",
+   "okunus": "sâilüm",
+   "kok": "سأل",
+   "kokAnlam": "soran, isteyen kişi",
+   "karsilik": "bir soran"
+  },
+  {
+   "kelime": "بِعَذَابٍ",
+   "okunus": "biazâbiv",
+   "kok": "عذب",
+   "kokAnlam": "azap, acı verici ceza",
+   "karsilik": "bir azabı"
+  },
+  {
+   "kelime": "وَاقِعٍ",
+   "okunus": "vâkı'in",
+   "kok": "وقع",
+   "kokAnlam": "düşmek, gerçekleşmek",
+   "karsilik": "gerçekleşecek"
+  }
+ ],
+ "neAnlatiyor": [
+  "Meâric suresi, Mekke döneminin sonlarına doğru inmiş bir suredir; açılışında birinin, gerçekleşecek bir azabı sorduğu/istediği anlatılır. Klasik tefsir bunu, Peygamber'in uyarılarına inanmayıp alayla 'öyleyse o azabı getir görelim' diyen bir kişinin tutumu olarak açıklar; kişinin kimliği Kur'an metninde geçmez.",
+  "'Sâil' kelimesi 'soru soran' anlamına gelse de burada 'isteyen' anlamındadır; kişi inanmadığı bir şeyi meydan okurcasına ister. Bu açılış, surenin ana temasını -kıyametin kaçınılmazlığını ve inkârcılar için kaçış olmadığını- baştan ortaya koyar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "8:32",
+   "meal": "'Allah'ım! Eğer bu senin katından gelen hak ise, üzerimize gökten taş yağdır ya da bize acıklı bir azap getir' demişlerdi.",
+   "baglanti": "Enfâl'de de inkârcılar, inanmadıkları için azabı alayla isterler; Meâric 1 aynı meydan okuma tutumunu anlatır."
+  },
+  {
+   "ref": "38:16",
+   "meal": "'Rabbimiz, hesap gününden önce payımızı hemen ver' dediler.",
+   "baglanti": "Burada da inkârcılar cezayı acele isteyerek alay ederler; Meâric 1'deki 'sâil' de benzer bir alaycı meydan okumadır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, birinin inanmadığı bir uyarıyı alayla meydan okuyarak istemesidir; bu tarihsel bir tutumu anlatır.",
+  "Bugüne taşınabilecek ders, bir uyarıyı ciddiye almadan meydan okumak yerine, üzerinde düşünmenin daha sağlıklı olduğudur; sonucu görmek için acele etmek yerine sabırla değerlendirmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir uyarıyı ciddiye al",
+   "aciklama": "Bugün duyduğun bir uyarıyı hemen reddetmek yerine bir kez daha düşün."
+  },
+  {
+   "baslik": "Acele hüküm vermekten kaçın",
+   "aciklama": "Bir konuda kesin yargıya varmadan önce bilgiyi tam almaya çalış."
+  },
+  {
+   "baslik": "Ahiretin gerçekliğini hatırla",
+   "aciklama": "Bugün, ertelediğin ama bir gün mutlaka karşına çıkacak hesap gününü bir kez düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün, hakkında hüküm verdiğin bir konuyu önyargısız yeniden gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=70&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/70/1"
+  }
+ ]
+}

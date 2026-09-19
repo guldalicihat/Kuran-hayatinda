@@ -1,0 +1,75 @@
+{
+ "sure": 70,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Şüphesiz onlar onu uzak görüyorlar.",
+ "mealNotu": "Zamir ('onu') bağlamdaki azap/kıyamet gününe işaret eder; 'baîd' kökü uzaklığı anlatır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّهُمْ",
+   "okunus": "innehüm",
+   "kok": "—",
+   "kokAnlam": "şüphesiz onlar (te'kid)",
+   "karsilik": "şüphesiz onlar"
+  },
+  {
+   "kelime": "يَرَوْنَهُۥ",
+   "okunus": "yeravnehû",
+   "kok": "رأي",
+   "kokAnlam": "görmek",
+   "karsilik": "onu görüyorlar"
+  },
+  {
+   "kelime": "بَعِيدًا",
+   "okunus": "beîden",
+   "kok": "بعد",
+   "kokAnlam": "uzaklık",
+   "karsilik": "uzak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, inkârcıların kıyameti ve azabı nasıl algıladığını anlatır: onlar bunu uzak, gerçekleşmesi imkânsız gibi görürler. Bu, 1. ayetteki alaycı meydan okumanın sebebini açıklar; inandıkları için değil, gerçekleşmeyeceğini düşündükleri için azabı istemişlerdir.",
+  "'Rey' kökü görmek, bir şeyi öyle algılamak anlamındadır; burada gerçek bir görme değil, bir kanaat, bir zihni konumdur. Bir sonraki ayet bu algıyı tam tersine çevirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "54:1",
+   "meal": "Kıyamet saati yaklaştı, ay yarıldı.",
+   "baglanti": "Bu ayet kıyametin yakınlığını bildirir; Meâric 6'daki 'uzak görme' algısının tam tersini gösterir."
+  },
+  {
+   "ref": "21:1",
+   "meal": "İnsanların hesap günü yaklaştı, oysa onlar hâlâ gaflet içinde yüz çeviriyorlar.",
+   "baglanti": "Burada da insanların kıyameti gaflet içinde uzak görmesi anlatılır; Meâric 6 aynı zihni tutumu betimler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, inkârcıların kıyameti zihinlerinde uzak bir ihtimal olarak görmeleridir.",
+  "Bugüne taşınabilecek ders, bir gerçeği 'henüz uzak' görmenin onu gerçekten uzak yapmadığıdır; ölüm ve hesap günü gibi kesin gerçekleri erteleme alışkanlığı kişiyi hazırlıksız yakalayabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Erteleme alışkanlığını sorgula",
+   "aciklama": "Bugün 'zamanı gelince düşünürüm' dediğin bir hazırlığı şimdi ele al."
+  },
+  {
+   "baslik": "Kısa vadeli bakışı kır",
+   "aciklama": "Bugün bir kararını sadece bugüne göre değil, uzun vadeye göre de düşün."
+  },
+  {
+   "baslik": "Hazır ol bilinciyle yaşa",
+   "aciklama": "Bugün, aniden karşına çıkabilecek bir hesap gününü bir an hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün, 'uzak' sandığın ama aslında ertelediğin bir hazırlığa başla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=70&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/70/6"
+  }
+ ]
+}

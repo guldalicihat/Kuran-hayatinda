@@ -1,0 +1,89 @@
+{
+ "sure": 70,
+ "ayet": 37,
+ "durum": "taslak",
+ "meal": "Sağdan ve soldan bölük bölük.",
+ "mealNotu": "'İzîn' kökü (عزو) küçük gruplara, bölüklere ayrılmayı anlatır; 36. ayetteki koşuşan kalabalığın nasıl dağıldığını tamamlar.",
+ "kokler": [
+  {
+   "kelime": "عَنِ",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "-den (edat)",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْيَمِينِ",
+   "okunus": "elyemîni",
+   "kok": "يمن",
+   "kokAnlam": "sağ, sağ taraf",
+   "karsilik": "sağdan"
+  },
+  {
+   "kelime": "وَعَنِ",
+   "okunus": "ve ani",
+   "kok": "—",
+   "kokAnlam": "ve -den (edat)",
+   "karsilik": "ve -den"
+  },
+  {
+   "kelime": "ٱلشِّمَالِ",
+   "okunus": "eşşimâli",
+   "kok": "شمل",
+   "kokAnlam": "sol, sol taraf",
+   "karsilik": "soldan"
+  },
+  {
+   "kelime": "عِزِينَ",
+   "okunus": "izîne",
+   "kok": "عزو",
+   "kokAnlam": "küçük grup, bölük",
+   "karsilik": "bölük bölük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 36. ayette anlatılan koşuşan inkârcıların nasıl bir düzende toplandıklarını tamamlar: sağdan ve soldan küçük gruplar (bölükler) halinde. Bu tasvir, dağınık, düzensiz bir merak ve toplanma halini betimler.",
+  "Sonraki ayet, bu kişilerin -inanmadıkları halde- cennete girmeyi umup ummadıklarını sorgulayan bir soruyla devam eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "74:49",
+   "meal": "Onlara ne oluyor ki öğütten yüz çeviriyorlar?",
+   "baglanti": "Müddessir suresindeki bu ayet de benzer bir kaçış/toplanma sahnesini anlatır; Meâric 36-37 ile aynı bağlamdadır."
+  },
+  {
+   "ref": "70:36",
+   "meal": "İnkâr edenlere ne oluyor ki sana doğru koşuşuyorlar,",
+   "baglanti": "Bu ayet Meâric 37'nin doğrudan bağlamıdır; 37. ayet, 36'daki koşuşmanın düzenini tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, inkârcıların Peygamber'in çevresinde dağınık gruplar halinde toplanmasıdır; bu tarihsel bir sahne tasviridir.",
+  "Bugüne taşınabilecek ders sınırlıdır; bu kısa tasvir ayeti, esasen 36. ayetle birlikte okunmalı, oradaki dersle (meraktan öteye geçip içtenlikle yaklaşmak) birlikte değerlendirilmelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Topluluk içinde amacını netleştir",
+   "aciklama": "Bugün katıldığın bir toplulukta, orada neden bulunduğunu düşün."
+  },
+  {
+   "baslik": "Dağınıklıktan kaçın",
+   "aciklama": "Bugün zihnini dağıtan şeylerden birini azaltmaya çalış."
+  },
+  {
+   "baslik": "Amaçlı bir araya gel",
+   "aciklama": "Bugün bir sohbeti, sadece vakit geçirmek için değil, öğrenmek için yap."
+  }
+ ],
+ "bugununAdimi": "Bugün katıldığın bir sohbette, gerçekten dinleyerek ve düşünerek yer al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=70&verse=37"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/70/37"
+  }
+ ]
+}

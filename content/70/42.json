@@ -1,0 +1,110 @@
+{
+ "sure": 70,
+ "ayet": 42,
+ "durum": "taslak",
+ "meal": "Bırak onları, kendilerine vaat edilen güne kavuşana kadar dalıp oynasınlar.",
+ "mealNotu": "Bu ifade neredeyse birebir Zuhruf suresinde de geçer (43:83); 'yehûdû' kökü (خوض) anlamsız, boş şeylere dalmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "فَذَرْهُمْ",
+   "okunus": "fezerhüm",
+   "kok": "وذر",
+   "kokAnlam": "bırakmak, terk etmek",
+   "karsilik": "bırak onları"
+  },
+  {
+   "kelime": "يَخُوضُوا۟",
+   "okunus": "yehûdû",
+   "kok": "خوض",
+   "kokAnlam": "boş şeye dalmak",
+   "karsilik": "dalsınlar"
+  },
+  {
+   "kelime": "وَيَلْعَبُوا۟",
+   "okunus": "ve yel'abû",
+   "kok": "لعب",
+   "kokAnlam": "oynamak",
+   "karsilik": "ve oynasınlar"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "-e kadar (edat)",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "يُلَٰقُوا۟",
+   "okunus": "yülâkû",
+   "kok": "لقي",
+   "kokAnlam": "kavuşmak, karşılaşmak",
+   "karsilik": "kavuşana"
+  },
+  {
+   "kelime": "يَوْمَهُمُ",
+   "okunus": "yevmehümü",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "güne"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "ki (ilgi)",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "يُوعَدُونَ",
+   "okunus": "yûadûne",
+   "kok": "وعد",
+   "kokAnlam": "vaat etmek",
+   "karsilik": "kendilerine vaat edilen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, inkârcılara karşı Peygamber'e -ve dolayısıyla müminlere- bir tavır önerir: onları, kendilerine vaat edilen güne kavuşana kadar boş şeylere dalıp oynamalarıyla baş başa bırakmak. Bu ifade neredeyse birebir Zuhruf suresinde de geçer (43:83); bu, benzer durumlarda Kur'an'ın tutarlı bir üslup kullandığını gösterir.",
+  "Bu tavır, pasif bir kayıtsızlık değil, sonucun kesinliğine güvenerek gereksiz bir tartışmaya girmemektir. 5. ayetteki 'güzel sabır' emriyle bu ayet arasında bir bütünlük vardır; sure, açıldığı sabır temasına burada yeniden döner."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "43:83",
+   "meal": "Bırak onları, kendilerine vaat edilen güne kavuşuncaya kadar dalsınlar, oynasınlar.",
+   "baglanti": "Zuhruf suresindeki bu ayet, Meâric 42 ile birebir aynı ifadeyi taşır."
+  },
+  {
+   "ref": "52:45",
+   "meal": "Bırak onları, çarpılacakları günlerine kavuşuncaya kadar.",
+   "baglanti": "Tur suresindeki bu ayet de aynı 'bırakma' tavrını, inkârcıların akıbetine kavuşana kadar tavsiye eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, inkârcıların boş uğraşlarıyla baş başa bırakılması, onlarla gereksiz bir tartışmaya girilmemesidir.",
+  "Bugüne taşınabilecek ders, her tartışmaya girmenin gerekli olmadığı, bazen sonucun kesinliğine güvenip sabırla beklemenin daha doğru bir tavır olduğudur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gereksiz tartışmadan kaçın",
+   "aciklama": "Bugün sonuçsuz bir tartışmaya girmek yerine sükûneti tercih et."
+  },
+  {
+   "baslik": "Sabırla bekle",
+   "aciklama": "Bugün bir konuda haklı olduğunu ispatlamak yerine zamana bırak."
+  },
+  {
+   "baslik": "Enerjini doğru yöne harca",
+   "aciklama": "Bugün boşa harcayacağın bir tartışma yerine, faydalı bir işe zaman ayır."
+  }
+ ],
+ "bugununAdimi": "Bugün, seni yormaktan başka işe yaramayan bir tartışmadan uzak dur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=70&verse=42"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/70/42"
+  }
+ ]
+}

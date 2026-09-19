@@ -1,0 +1,68 @@
+{
+ "sure": 70,
+ "ayet": 25,
+ "durum": "taslak",
+ "meal": "İsteyen ve (isteyemeyip) mahrum kalan için.",
+ "mealNotu": "'Sâil' isteyen/soran, 'mahrûm' ise isteyemeyecek kadar çekingen ya da imkânsız kalan kişidir; 24. ayetteki hakkın kime ait olduğunu tamamlar.",
+ "kokler": [
+  {
+   "kelime": "لِّلسَّآئِلِ",
+   "okunus": "lilssâili",
+   "kok": "سأل",
+   "kokAnlam": "sormak, istemek",
+   "karsilik": "isteyen için"
+  },
+  {
+   "kelime": "وَٱلْمَحْرُومِ",
+   "okunus": "vel mahrûmi",
+   "kok": "حرم",
+   "kokAnlam": "yoksun bırakmak, mahrum kalmak",
+   "karsilik": "ve mahrum kalan için"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 24. ayetteki 'belirli hak'kın kime ait olduğunu tamamlar: açıkça isteyen kişiye ve isteyemeyip mahrum kalana. 'Mahrûm' kökü, yoksul olduğu halde utanan ya da hiç fırsatı olmayan kişiyi de kapsayabilir.",
+  "Bu ayet, yardımın sadece elini açıp isteyene değil, ihtiyacı olduğu halde istemeyen ya da isteyemeyen kişiye de ulaşması gerektiğini vurgular; bu, sosyal duyarlılığın kapsamını genişleten bir ifadedir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "51:19",
+   "meal": "Onların mallarında isteyen ve mahrum kalan için bir hak vardır.",
+   "baglanti": "Zâriyât suresindeki bu ayet, Meâric 24-25 ile neredeyse birebir aynı ifadeyi taşır."
+  },
+  {
+   "ref": "2:273",
+   "meal": "Yoksullar için ki... iffetlerinden dolayı bilmeyen onları zengin sanır.",
+   "baglanti": "Bu ayet de utanıp isteyemeyen yoksulları anlatır; Meâric 25'teki 'mahrûm' kavramıyla aynı duyarlılığı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, yardımın kapsamının sadece açıkça isteyenle sınırlı olmadığıdır; utanıp istemeyenler de gözetilmelidir.",
+  "Bugüne taşınabilecek ders, çevredeki ihtiyaç sahiplerini fark etmek için dikkatli olmak, sadece isteyeni değil sessizce ihtiyaç içinde olanı da aramaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sessiz ihtiyacı fark et",
+   "aciklama": "Bugün çevrende, açıkça istemeyen ama ihtiyacı olabilecek birini düşün."
+  },
+  {
+   "baslik": "İsteyene geri çevirme",
+   "aciklama": "Bugün senden bir şey isteyen birine elinden geldiğince yardımcı ol."
+  },
+  {
+   "baslik": "Fark etmeden yardım et",
+   "aciklama": "Bugün, kimse bilmeden birine küçük bir destek ver."
+  }
+ ],
+ "bugununAdimi": "Bugün, ihtiyacını söylemeyen ama fark ettiğin birine sessizce yardım et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=70&verse=25"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/70/25"
+  }
+ ]
+}

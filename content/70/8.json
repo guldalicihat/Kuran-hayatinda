@@ -1,0 +1,82 @@
+{
+ "sure": 70,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "O gün gök, erimiş maden gibi olur.",
+ "mealNotu": "'Mühl' kökü erimiş maden/katran gibi akışkan, sıcak bir maddeyi anlatır; kıyamet gününde göğün alacağı hali tasvir eder.",
+ "kokler": [
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "تَكُونُ",
+   "okunus": "tekûnü",
+   "kok": "كون",
+   "kokAnlam": "olmak",
+   "karsilik": "olur"
+  },
+  {
+   "kelime": "ٱلسَّمَآءُ",
+   "okunus": "essemâü",
+   "kok": "سمو",
+   "kokAnlam": "gök, yükseklik",
+   "karsilik": "gök"
+  },
+  {
+   "kelime": "كَٱلْمُهْلِ",
+   "okunus": "kel mühli",
+   "kok": "مهل",
+   "kokAnlam": "erimiş maden/katran",
+   "karsilik": "erimiş maden gibi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, 5. ayetteki sabır emrinden sonra, o sabrın konusu olan kıyamet gününü tasvir etmeye başlar. Bu ayet, göğün o gün erimiş maden gibi olacağını anlatır; 'mühl' kökü akışkan, sıcak, erimiş bir maddeyi çağrıştırır.",
+  "Bu tasvir, dünyadaki düzenin -gök gibi sabit sanılan bir yapının bile- kıyamette tamamen değişeceğini anlatır. Kur'an'da göğün kıyametteki hali başka surelerde de farklı benzetmelerle anlatılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "55:37",
+   "meal": "Gök yarılıp da erimiş yağ gibi kızardığı zaman.",
+   "baglanti": "Bu ayet de göğün kıyamette akışkan, erimiş bir hale geleceğini anlatır; Meâric 8'deki 'erimiş maden' benzetmesine yakındır."
+  },
+  {
+   "ref": "84:1",
+   "meal": "Gök yarıldığı zaman.",
+   "baglanti": "Göğün kıyamette parçalanacağını bildiren bu ayet, Meâric 8'deki göğün değişimini anlatan tasvirle aynı temayı paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, kıyamet gününde göğün alacağı hâlin bir tasviridir; bu gaybe ait bir bilgidir.",
+  "Bugüne taşınabilecek ders, en sabit görünen şeylerin bile geçici olduğudur; kişi güvendiği şeylerin (mal, sağlık, düzen) kalıcı olmadığını bilerek asıl güvenilecek olana yönelebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geçiciliği hatırla",
+   "aciklama": "Bugün çok güvendiğin bir şeyin (eşya, konum) kalıcı olmadığını bir kez düşün."
+  },
+  {
+   "baslik": "Asıl güvene yönel",
+   "aciklama": "Bugün bir kaygını, değişmeyecek bir şeye değil, Allah'a bağlayarak hafiflet."
+  },
+  {
+   "baslik": "Bir hazırlık yap",
+   "aciklama": "Bugün, düzenin bozulacağı bir gün için yapabileceğin küçük bir manevi hazırlığı (dua, istiğfar) yap."
+  }
+ ],
+ "bugununAdimi": "Bugün, güvendiğin geçici bir şeye değil, kalıcı olana bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=70&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/70/8"
+  }
+ ]
+}
