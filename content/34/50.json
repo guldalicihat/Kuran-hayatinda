@@ -1,0 +1,166 @@
+{
+ "sure": 34,
+ "ayet": 50,
+ "durum": "taslak",
+ "meal": "De ki: 'Eğer saparsam, kendi aleyhime sapmış olurum; eğer doğru yolu bulursam, bu da Rabbimin bana vahyettiği sayesindedir. Şüphesiz O, işitendir, yakındır.'",
+ "mealNotu": "'Dalâl' ve 'hüdâ' kökleri (ضلل/هدي) sapma ile doğru yolu bulmayı karşılıklı verir; ayet Peygamber'in kişisel sorumluluğunu vurgular: sapmışsa bu kendi aleyhinedir, doğru yoldaysa bu da vahiy sayesindedir.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "ضَلَلْتُ",
+   "okunus": "daleltü",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, yoldan çıkma",
+   "karsilik": "saparsam"
+  },
+  {
+   "kelime": "فَإِنَّمَآ",
+   "okunus": "feinnemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "أَضِلُّ",
+   "okunus": "edıllü",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, yoldan çıkma",
+   "karsilik": "saparım"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "aleyhime"
+  },
+  {
+   "kelime": "نَفْسِى",
+   "okunus": "nefsî",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik",
+   "karsilik": "kendi"
+  },
+  {
+   "kelime": "وَإِنِ",
+   "okunus": "ve ini",
+   "kok": "—",
+   "kokAnlam": "(şart) ve eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "ٱهْتَدَيْتُ",
+   "okunus": "ihtedeytü",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu bulma, hidayet",
+   "karsilik": "doğru yolu bulursam"
+  },
+  {
+   "kelime": "فَبِمَا",
+   "okunus": "febimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey sayesinde",
+   "karsilik": "şu sayesindedir"
+  },
+  {
+   "kelime": "يُوحِىٓ",
+   "okunus": "yûhî",
+   "kok": "وحي",
+   "kokAnlam": "vahyetme",
+   "karsilik": "vahyettiği"
+  },
+  {
+   "kelime": "إِلَىَّ",
+   "okunus": "ileyye",
+   "kok": "—",
+   "kokAnlam": "(edat) bana",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "رَبِّىٓ",
+   "okunus": "rabbî",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, rablik",
+   "karsilik": "Rabbimin"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz O",
+   "karsilik": "şüphesiz O"
+  },
+  {
+   "kelime": "سَمِيعٌ",
+   "okunus": "semîun",
+   "kok": "سمع",
+   "kokAnlam": "işitme",
+   "karsilik": "işitendir"
+  },
+  {
+   "kelime": "قَرِيبٌ",
+   "okunus": "karîbün",
+   "kok": "قرب",
+   "kokAnlam": "yakınlık",
+   "karsilik": "yakındır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Peygamber'in kendi konumu hakkında son derece alçakgönüllü bir açıklama yapmasını sağlar: eğer o bir sapma içindeyse bunun sorumluluğu tamamen kendisine aittir; eğer doğru yoldaysa bu, kendi çabasından değil Rabbinin vahyinden kaynaklanır. Böylece Peygamber, kendini üstün ya da hatasız göstermez.",
+  "Ayetin sonundaki 'O işitendir, yakındır' ifadesi, Allah'ın hem Peygamber'in hem inkarcıların sözlerini işittiğini ve her şeye yakın olduğunu hatırlatır. Klasik tefsir bu ayeti, Peygamber'in tevazu ile konuşmasının, davetin kişisel bir iddiaya değil vahye dayandığını gösteren bir örnek olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:108",
+   "meal": "Kim doğru yola girerse kendi lehine girmiş olur; kim de saparsa ancak kendi aleyhine sapmış olur.",
+   "baglanti": "Sapma ve hidayetin sonucunun kişinin kendisine ait olduğu ilkesini aynı şekilde ifade eder."
+  },
+  {
+   "ref": "6:50",
+   "meal": "De ki: Ben size Allah'ın hazineleri yanımdadır demiyorum, gaybı da bilmem... Ben ancak bana vahyolunana uyarım.",
+   "baglanti": "Peygamber'in kendi bilgisinin sınırlı olduğunu, sadece vahye tabi olduğunu benzer bir tevazu ile ifade eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, doğru yol ile sapmanın sorumluluğunun kişinin kendisine ait olduğu, Peygamber'in de bunu kendi üzerinden örnekleyerek anlatmasıdır.",
+  "Bugüne taşınabilecek ders, hatanın sorumluluğunu üstlenmek, doğruyu bulunca da bunu kendi üstünlüğüne değil aldığın doğru bilgiye/rehberliğe bağlamaktır. Kibirlenmeden, ama sorumluluktan kaçmadan yaşamak bu ayetle uyumludur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hatanı kendine mal et",
+   "aciklama": "Bugün bir hatanı başkasına değil kendine bağla, düzeltmek için adım at."
+  },
+  {
+   "baslik": "Doğruyu kaynağına bağla",
+   "aciklama": "Doğru bir şey yaptığında bunu kibirle değil, aldığın rehberlikle açıkla."
+  },
+  {
+   "baslik": "İşitildiğini bil",
+   "aciklama": "Söylediğin bir sözün Allah tarafından işitildiğini bugün bir an hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün bir hatanın sorumluluğunu, başkasını suçlamadan kendi üzerine al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=50"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/34/50"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "sure": 34,
+ "ayet": 48,
+ "durum": "taslak",
+ "meal": "De ki: 'Şüphesiz Rabbim hakkı ortaya koyar; O, gaybları en iyi bilendir.'",
+ "mealNotu": "'Yekzif' kökü (قذف) fırlatmayı, güçlü ve ani bir şekilde ortaya koymayı anlatır; hakkın batılın üzerine güçlü bir darbe gibi indiğini ifade eder. 'Allâmü'l-guyûb' Allah'ın görünmeyen her şeyi bilen ismidir.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "رَبِّى",
+   "okunus": "rabbî",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, rablik",
+   "karsilik": "Rabbim"
+  },
+  {
+   "kelime": "يَقْذِفُ",
+   "okunus": "yekzifü",
+   "kok": "قذف",
+   "kokAnlam": "fırlatma, atma, ortaya koyma",
+   "karsilik": "ortaya koyar"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, hak",
+   "karsilik": "hakkı"
+  },
+  {
+   "kelime": "عَلَّٰمُ",
+   "okunus": "allâmü",
+   "kok": "علم",
+   "kokAnlam": "bilme, ilim",
+   "karsilik": "en iyi bilendir"
+  },
+  {
+   "kelime": "ٱلْغُيُوبِ",
+   "okunus": "elguyûbi",
+   "kok": "غيب",
+   "kokAnlam": "gizlilik, görünmezlik",
+   "karsilik": "gaybları"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu kısa ayet, önceki ayetlerdeki 'büyü, yalan, uydurma' gibi suçlamalara karşı Peygamber'in söyleyeceği bir cevap niteliğindedir: mesajın kaynağı, hakkı kuvvetle ortaya koyan ve gaybı tam olarak bilen Rabb'dir. 'Yekzifu' (fırlatır) ifadesi, hakkın batılı güçlü bir şekilde etkisiz kılacağı bir sonraki ayetin (49) de habercisidir.",
+  "'Gaybları en iyi bilen' vurgusu, Peygamber'in kendisinin gaybı bilmediğini, bilginin doğrudan Allah'tan geldiğini hatırlatır. Klasik tefsir bu ayeti, vahyin insan kaynaklı bir uydurma olmadığını, gaybı bilen Allah'tan geldiğini gösteren bir delil olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "21:18",
+   "meal": "Hayır, biz hakkı batılın üzerine fırlatırız da onun beynini parçalar, bir de bakarsın yok olup gitmiştir.",
+   "baglanti": "Aynı 'kazf/fırlatma' köküyle hakkın batılı yok ettiği imgesini paylaşır."
+  },
+  {
+   "ref": "72:26",
+   "meal": "O, gaybı bilendir; gaybını kimseye açık etmez, ancak razı olduğu bir elçiye açıklaması hariç.",
+   "baglanti": "Allah'ın gaybı bilme sıfatını ve bunu elçilerine bildirmesini tamamlayıcı biçimde anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, hakkın (vahyin/gerçeğin) kaynağının gaybı bilen Allah olduğu, Peygamber'in kendi uydurması olmadığıdır.",
+  "Bugüne taşınabilecek ders, bilmediğimiz şeyler hakkında kesin konuşmaktan kaçınmak, asıl bilginin sınırlı olduğumuzu kabul etmektir. Gaybı bilme iddiasında bulunmak yerine, bilgiyi güvenilir kaynaktan almak önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilmediğini kabul et",
+   "aciklama": "Bugün bilmediğin bir konuda kesin konuşmak yerine 'bilmiyorum' demeyi tercih et."
+  },
+  {
+   "baslik": "Kaynağı doğru seç",
+   "aciklama": "Bir bilgiyi paylaşmadan önce kaynağının güvenilir olup olmadığını kontrol et."
+  },
+  {
+   "baslik": "Gaybı Allah'a bırak",
+   "aciklama": "Geleceğe dair kaygılandığın bir konuyu, bilmediğini kabul edip Allah'a bırak."
+  }
+ ],
+ "bugununAdimi": "Bugün bilmediğin bir konuda kesin konuşmak yerine açıkça 'bilmiyorum' de.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=48"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/34/48"
+  }
+ ]
+}

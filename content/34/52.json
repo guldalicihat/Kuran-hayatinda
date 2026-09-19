@@ -1,0 +1,117 @@
+{
+ "sure": 34,
+ "ayet": 52,
+ "durum": "taslak",
+ "meal": "Ve derler ki: 'Ona iman ettik.' Fakat çok uzak bir yerden [imana] nasıl el uzatabilirler ki?",
+ "mealNotu": "'Tenâvüş' kökü (نوش) elle uzanıp bir şeye erişmeyi anlatır; ayet, azabı gördükten sonra söylenen 'iman ettik' sözünün artık ulaşılamayacak kadar uzak bir yerden el uzatmaya benzediğini, yani geçerli olmadığını vurgular. '[imana]' bağlamdan köşeli parantezle eklendi.",
+ "kokler": [
+  {
+   "kelime": "وَقَالُوٓا۟",
+   "okunus": "ve kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "ve derler"
+  },
+  {
+   "kelime": "ءَامَنَّا",
+   "okunus": "âmennâ",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "iman ettik"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "وَأَنَّىٰ",
+   "okunus": "ve ennâ",
+   "kok": "—",
+   "kokAnlam": "(soru) nasıl, nereden",
+   "karsilik": "ve nasıl"
+  },
+  {
+   "kelime": "لَهُمُ",
+   "okunus": "lehümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar için",
+   "karsilik": "onlar için (mümkün olsun)"
+  },
+  {
+   "kelime": "ٱلتَّنَاوُشُ",
+   "okunus": "ettenâvüşü",
+   "kok": "نوش",
+   "kokAnlam": "elle uzanıp alma, erişme",
+   "karsilik": "el uzatma"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "مَّكَانٍۭ",
+   "okunus": "mekânim",
+   "kok": "كون",
+   "kokAnlam": "yer, mekan",
+   "karsilik": "bir yerden"
+  },
+  {
+   "kelime": "بَعِيدٍ",
+   "okunus": "beîdin",
+   "kok": "بعد",
+   "kokAnlam": "uzaklık",
+   "karsilik": "uzak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki panik ve yakalanma sahnesinin devamıdır: azabı gördüklerinde inkarcılar 'iman ettik' derler, ama bu artık çok geç kalmış bir çabadır. Ayet bunu 'çok uzak bir yerden imana el uzatmaya' benzetir; yani artık ulaşılması imkansız bir mesafeden bir şeye erişmeye çalışmak gibidir.",
+  "Bu imge, tövbe ve iman kapısının belirli bir ana kadar açık olduğunu, azap görüldükten sonra söylenen imanın kabul edilmeyeceğini anlatır. Klasik tefsir bu ayeti, gerçek imanın seçim özgürlüğünün olduğu dünya hayatında gösterilmesi gerektiğine, azabı gördükten sonraki imanın artık bir anlam ifade etmediğine dair bir uyarı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "40:84",
+   "meal": "Azabımızı gördüklerinde 'yalnız Allah'a iman ettik' dediler.",
+   "baglanti": "Azabı gördükten sonraki imanın onlara fayda vermediğini (bir sonraki ayette) açıkça teyit eden benzer bir sahnedir."
+  },
+  {
+   "ref": "4:18",
+   "meal": "Tövbe, kötülükleri yapıp da içlerinden birine ölüm geldiğinde 'şimdi tövbe ettim' diyenler için değildir.",
+   "baglanti": "Son ana bırakılan tövbe/imanın geçersizliği ilkesini aynı şekilde vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, azabı gördükten sonra söylenen imanın artık kabul edilmeyeceği, tövbe kapısının belirli bir zamana kadar açık olduğudur.",
+  "Bugüne taşınabilecek ders, imanı ve tövbeyi ertelenecek bir şey olarak görmemektir. 'Sonra düzeltirim' düşüncesi, bu ayetin uyardığı 'çok uzak bir yerden el uzatma' durumuna dönüşebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugünü fırsat bil",
+   "aciklama": "Ertelediğin bir manevi karar varsa, bugünü o kararı vermek için bir fırsat bil."
+  },
+  {
+   "baslik": "Son ana bırakma",
+   "aciklama": "Bir özür ya da düzeltmeyi 'daha vaktim var' diyerek son ana bırakma."
+  },
+  {
+   "baslik": "Kapı açıkken adım at",
+   "aciklama": "Bugün, kapının hâlâ açık olduğunu bilerek küçük bir manevi adım at (dua, tövbe, iyilik)."
+  }
+ ],
+ "bugununAdimi": "Bugün, ertelediğin bir manevi kararı (tövbe, özür, ibadet) hemen bugün al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=52"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/34/52"
+  }
+ ]
+}

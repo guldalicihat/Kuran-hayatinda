@@ -1,0 +1,131 @@
+{
+ "sure": 34,
+ "ayet": 44,
+ "durum": "taslak",
+ "meal": "Oysa biz onlara okuyup inceleyecekleri kitaplar vermedik ve senden önce onlara bir uyarıcı göndermedik.",
+ "mealNotu": "'Yedrusûnehâ' kökü (درس) okuyup üzerinde çalışmayı anlatır; ayet, Mekkeli müşriklerin ellerinde önceden gelmiş bir kitapları ya da bir uyarıcı deneyimleri olmadığını, dolayısıyla itirazlarının bilgiye değil inatlaşmaya dayandığını vurgular.",
+ "kokler": [
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve ... vermedik"
+  },
+  {
+   "kelime": "ءَاتَيْنَٰهُم",
+   "okunus": "âteynâhüm",
+   "kok": "أتي",
+   "kokAnlam": "verme, getirme",
+   "karsilik": "onlara vermedik"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "كُتُبٍ",
+   "okunus": "kütübin",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "kitaplar"
+  },
+  {
+   "kelime": "يَدْرُسُونَهَا",
+   "okunus": "yedrusûnehâ",
+   "kok": "درس",
+   "kokAnlam": "okuma, inceleme, ders alma",
+   "karsilik": "okuyup inceledikleri"
+  },
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve ... göndermedik"
+  },
+  {
+   "kelime": "أَرْسَلْنَآ",
+   "okunus": "erselnâ",
+   "kok": "رسل",
+   "kokAnlam": "gönderme",
+   "karsilik": "göndermedik"
+  },
+  {
+   "kelime": "إِلَيْهِمْ",
+   "okunus": "ileyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "قَبْلَكَ",
+   "okunus": "kableke",
+   "kok": "قبل",
+   "kokAnlam": "önce, öncesi",
+   "karsilik": "senden önce"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "نَّذِيرٍ",
+   "okunus": "nezîrin",
+   "kok": "نذر",
+   "kokAnlam": "uyarma, sakındırma",
+   "karsilik": "bir uyarıcı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki üç itirazın (adam, yalan, büyü) hiçbir bilgi temeline dayanmadığını gösterir: Mekkeli müşriklerin ne inceleyip ders çıkaracakları bir kitapları vardı ne de daha önce kendilerine bir uyarıcı gönderilmişti. Yani reddettikleri şeyi karşılaştıracakları bir önceki tecrübeleri yoktu.",
+  "Bu durum, onların itirazının bilgiye dayalı bir eleştiri değil, doğrudan bir alışkanlık/inat reddi olduğunu ortaya koyar. Sonraki ayet (45), kendilerinden önceki toplumların da benzer şekilde yalanladığını ve bunun sonucunun ne olduğunu hatırlatacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "32:3",
+   "meal": "Yoksa 'onu uydurdu' mu diyorlar? Hayır, o Rabbinden gelen haktır; senden önce kendilerine bir uyarıcı gelmemiş bir kavmi uyarman için.",
+   "baglanti": "Aynı şekilde, uyarıcı gelmemiş bir topluma gönderilen vahyin gerçekliğini vurgular."
+  },
+  {
+   "ref": "36:6",
+   "meal": "Ataları uyarılmamış, bu yüzden kendileri de gaflette olan bir kavmi uyarasın diye.",
+   "baglanti": "Uyarıcı gelmemiş bir topluma uyarı gönderilmesi temasını aynı şekilde işler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Mekkeli müşriklerin itirazlarının önceden bir bilgi veya tecrübeye değil, doğrudan alışkanlığa/inata dayandığıdır.",
+  "Bugüne taşınabilecek ders, bir şeyi reddederken gerçekten bilgiye mi yoksa sadece alışkanlığa mı dayandığını sorgulamaktır. Yeni bir bilgiyi sırf tanıdık olmadığı için reddetmek, bu ayetin işaret ettiği tutumla benzerlik taşır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilgiye dayan, alışkanlığa değil",
+   "aciklama": "Bugün bir konuda karar verirken 'hep böyle bilirdim' yerine gerçek bilgiye bak."
+  },
+  {
+   "baslik": "Yeni bir bilgiye açık ol",
+   "aciklama": "Karşılaştığın yeni bir fikri, hemen tanıdık olmadığı için reddetme."
+  },
+  {
+   "baslik": "Öğrenmeye vakit ayır",
+   "aciklama": "Bugün üzerinde hiç düşünmediğin bir konuyu araştırmaya birkaç dakika ayır."
+  }
+ ],
+ "bugununAdimi": "Bugün, sadece alışkanlıktan reddettiğin bir fikri gerçekten araştır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=44"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/34/44"
+  }
+ ]
+}

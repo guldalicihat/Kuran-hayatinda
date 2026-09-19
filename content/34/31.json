@@ -1,0 +1,278 @@
+{
+ "sure": 34,
+ "ayet": 31,
+ "durum": "taslak",
+ "meal": "İnkar edenler dediler ki: 'Biz bu Kur'an'a da ondan önceki [kitab]a da asla inanmayız.' Sen o zalimleri Rablerinin huzurunda durduruldukları zaman bir görsen! Sözü birbirlerine geri çevirirler. Zayıf görülenler, büyüklük taslayanlara derler ki: 'Siz olmasaydınız biz mutlaka mümin olurduk.'",
+ "mealNotu": "'Beyne yedeyhi' (بين/يدي) deyimi 'önündeki, ondan önceki' anlamına gelir; burada önceki vahiylere işaret ettiği için köşeli parantezle '[kitab]a' eklendi. 'İstüd'ifû' ve 'istekberû' kökleri (ضعف/كبر) zayıf görülenler ile büyüklük taslayanları karşı karşıya koyar.",
+ "kokler": [
+  {
+   "kelime": "وَقَالَ",
+   "okunus": "ve kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler ki"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkar",
+   "karsilik": "inkar ettiler"
+  },
+  {
+   "kelime": "لَن",
+   "okunus": "len",
+   "kok": "—",
+   "kokAnlam": "(kesin olumsuzluk) asla",
+   "karsilik": "asla"
+  },
+  {
+   "kelime": "نُّؤْمِنَ",
+   "okunus": "nü'mine",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "inanmayız"
+  },
+  {
+   "kelime": "بِهَٰذَا",
+   "okunus": "bihâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) buna",
+   "karsilik": "buna"
+  },
+  {
+   "kelime": "ٱلْقُرْءَانِ",
+   "okunus": "elkur'âni",
+   "kok": "قرأ",
+   "kokAnlam": "okuma",
+   "karsilik": "Kur'an'a"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "ve olumsuzluk",
+   "karsilik": "ve ... de"
+  },
+  {
+   "kelime": "بِٱلَّذِى",
+   "okunus": "billezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olana",
+   "karsilik": "olana"
+  },
+  {
+   "kelime": "بَيْنَ",
+   "okunus": "beyne",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında olma",
+   "karsilik": "önünde"
+  },
+  {
+   "kelime": "يَدَيْهِ",
+   "okunus": "yedeyhi",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "ondan önceki"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَرَىٰٓ",
+   "okunus": "terâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görsen"
+  },
+  {
+   "kelime": "إِذِ",
+   "okunus": "izi",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani, o zaman",
+   "karsilik": "o zaman"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمُونَ",
+   "okunus": "ezzâlimûne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, zulüm",
+   "karsilik": "zalimler"
+  },
+  {
+   "kelime": "مَوْقُوفُونَ",
+   "okunus": "mevkûfûne",
+   "kok": "وقف",
+   "kokAnlam": "durdurulma, durma",
+   "karsilik": "durdurulmuş"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "yan, kat",
+   "karsilik": "huzurunda"
+  },
+  {
+   "kelime": "رَبِّهِمْ",
+   "okunus": "rabbihim",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, rablik",
+   "karsilik": "Rablerinin"
+  },
+  {
+   "kelime": "يَرْجِعُ",
+   "okunus": "yerciu",
+   "kok": "رجع",
+   "kokAnlam": "dönme, geri çevirme",
+   "karsilik": "geri çevirir"
+  },
+  {
+   "kelime": "بَعْضُهُمْ",
+   "okunus": "ba'duhüm",
+   "kok": "بعض",
+   "kokAnlam": "bir kısmı, bazısı",
+   "karsilik": "bazısı"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e doğru",
+   "karsilik": "diğerine"
+  },
+  {
+   "kelime": "بَعْضٍ",
+   "okunus": "ba'dın",
+   "kok": "بعض",
+   "kokAnlam": "bir kısmı, bazısı",
+   "karsilik": "bazısına"
+  },
+  {
+   "kelime": "ٱلْقَوْلَ",
+   "okunus": "elkavle",
+   "kok": "قول",
+   "kokAnlam": "söz, söyleme",
+   "karsilik": "sözü"
+  },
+  {
+   "kelime": "يَقُولُ",
+   "okunus": "yekûlü",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "der"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ٱسْتُضْعِفُوا۟",
+   "okunus": "istüd'ifû",
+   "kok": "ضعف",
+   "kokAnlam": "zayıflık, güçsüz görülme",
+   "karsilik": "zayıf görülenler"
+  },
+  {
+   "kelime": "لِلَّذِينَ",
+   "okunus": "lillezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimselere",
+   "karsilik": "kimselere"
+  },
+  {
+   "kelime": "ٱسْتَكْبَرُوا۟",
+   "okunus": "istekberû",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük, büyüklenme",
+   "karsilik": "büyüklük taslayanlar"
+  },
+  {
+   "kelime": "لَوْلَآ",
+   "okunus": "levlâ",
+   "kok": "—",
+   "kokAnlam": "(şart) olmasaydı",
+   "karsilik": "olmasaydınız"
+  },
+  {
+   "kelime": "أَنتُمْ",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "لَكُنَّا",
+   "okunus": "lekünnâ",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olurduk"
+  },
+  {
+   "kelime": "مُؤْمِنِينَ",
+   "okunus": "mü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güvenme, iman etme",
+   "karsilik": "mümin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu uzun ayet iki sahneyi birleştirir: önce inkarcıların Kur'an'ı ve ondan önceki vahyi kesin bir dille reddettiği söylenir; ardından kıyamet gününde bu zalimlerin Rablerinin huzurunda durdurulup birbirlerini suçladıkları bir sahneye geçilir. Zayıf görülenler ('müstad'afûn'), büyüklük taslayanlara ('müstekbirîn') 'siz olmasaydınız biz iman ederdik' diyerek sorumluluğu onlara yüklerler.",
+  "Bu geçiş, dünyadaki inkarın kökeninde genelde bir önder-takipçi ilişkisinin bulunduğunu, ama ahirette bu ilişkinin sadece karşılıklı suçlamaya dönüştüğünü gösterir. Sonraki iki ayet (32-33) bu diyaloğun devamını, büyüklenenlerin bu suçlamaya vereceği cevabı aktaracaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "14:21",
+   "meal": "Zayıf görülenler, büyüklük taslayanlara derler ki: Biz size tabi olmuştuk; şimdi Allah'ın azabından bir kısmını bizden savabilir misiniz?",
+   "baglanti": "Aynı müstad'af-müstekbir diyaloğunu, İbrahim suresinde benzer bir kıyamet sahnesinde tekrarlar."
+  },
+  {
+   "ref": "40:47",
+   "meal": "Ateşin içinde birbirleriyle çekişirlerken zayıf görülenler, büyüklenenlere der ki: Biz size uymuştuk; şimdi ateşten bir payı bizden savabilir misiniz?",
+   "baglanti": "Kıyamette güçlü ile zayıf arasındaki karşılıklı suçlamayı farklı bir surede yine gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, dünyada vahyi topluca reddeden inkarcıların, ahirette bu ortak tavrın sorumluluğunu birbirine yüklemesidir.",
+  "Bugüne taşınabilecek ders, bir topluluğun ya da akımın parçası olarak verdiğin kararların sorumluluğunun yine de sana ait kaldığıdır. 'Herkes öyle diyordu' savunması, ahirette geçerli bir mazeret değildir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Toplu kararda payını gör",
+   "aciklama": "Bugün bir grup kararına katılırken, kendi payına düşen sorumluluğu unutma."
+  },
+  {
+   "baslik": "Kime tabi olduğuna dikkat et",
+   "aciklama": "Fikir aldığın kişinin seni doğruya mı yanlışa mı yönlendirdiğini bugün bir düşün."
+  },
+  {
+   "baslik": "Hesap gününü hatırla",
+   "aciklama": "Bir gün herkesin kendi tercihinden sorulacağını bugün bir an aklında tut."
+  }
+ ],
+ "bugununAdimi": "Bugün bir grup kararında, kendi payına düşen sorumluluğu açıkça kabul et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=31"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/34/31"
+  }
+ ]
+}

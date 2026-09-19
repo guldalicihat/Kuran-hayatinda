@@ -1,0 +1,222 @@
+{
+ "sure": 34,
+ "ayet": 46,
+ "durum": "taslak",
+ "meal": "De ki: 'Ben size ancak bir tek şeyi öğütlüyorum: Allah için ikişer ikişer ve teker teker kalkıp sonra düşünmenizi. Arkadaşınızda delilikten eser yoktur; o, şiddetli bir azaptan önce size [gönderilmiş] bir uyarıcıdan başkası değildir.'",
+ "mealNotu": "'Va'z' kökü (وعظ) öğüt vermeyi, 'tefekkür' kökü (فكر) derin düşünmeyi anlatır. Ayet, ikişerli/teker teker kalkıp sakin şekilde düşünmeyi, toplu heyecan ve kalabalık etkisinden uzaklaşmayı öğütler. 'Cinnet' kökü (جنن) burada delilik anlamındadır. '[gönderilmiş]' bağlamdan köşeli parantezle eklendi.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "إِنَّمَآ",
+   "okunus": "innemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak",
+   "karsilik": "ben ancak"
+  },
+  {
+   "kelime": "أَعِظُكُم",
+   "okunus": "eizuküm",
+   "kok": "وعظ",
+   "kokAnlam": "öğüt verme, nasihat etme",
+   "karsilik": "size öğütlüyorum"
+  },
+  {
+   "kelime": "بِوَٰحِدَةٍ",
+   "okunus": "bivâhidetin",
+   "kok": "وحد",
+   "kokAnlam": "birlik, bir olma",
+   "karsilik": "bir tek şeyi"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "تَقُومُوا۟",
+   "okunus": "tekûmû",
+   "kok": "قوم",
+   "kokAnlam": "kalkma, ayağa kalkma",
+   "karsilik": "kalkmanızı"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah için"
+  },
+  {
+   "kelime": "مَثْنَىٰ",
+   "okunus": "mesnâ",
+   "kok": "ثني",
+   "kokAnlam": "ikişer, çift",
+   "karsilik": "ikişer ikişer"
+  },
+  {
+   "kelime": "وَفُرَٰدَىٰ",
+   "okunus": "ve fürâdâ",
+   "kok": "فرد",
+   "kokAnlam": "tek, yalnız",
+   "karsilik": "ve teker teker"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "تَتَفَكَّرُوا۟",
+   "okunus": "tetefekkerû",
+   "kok": "فكر",
+   "kokAnlam": "düşünme, tefekkür etme",
+   "karsilik": "düşünmenizi"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "بِصَاحِبِكُم",
+   "okunus": "bisâhibiküm",
+   "kok": "صحب",
+   "kokAnlam": "arkadaşlık, eşlik etme",
+   "karsilik": "arkadaşınızda"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "جِنَّةٍ",
+   "okunus": "cinnetin",
+   "kok": "جنن",
+   "kokAnlam": "gizlenme, cinlenme, delilik",
+   "karsilik": "delilik"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "başkası"
+  },
+  {
+   "kelime": "نَذِيرٌ",
+   "okunus": "nezîrun",
+   "kok": "نذر",
+   "kokAnlam": "uyarma, sakındırma",
+   "karsilik": "bir uyarıcıdan"
+  },
+  {
+   "kelime": "لَّكُم",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "بَيْنَ",
+   "okunus": "beyne",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında olma",
+   "karsilik": "önünde"
+  },
+  {
+   "kelime": "يَدَىْ",
+   "okunus": "yedey",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "önünde"
+  },
+  {
+   "kelime": "عَذَابٍ",
+   "okunus": "azâbin",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "bir azabın"
+  },
+  {
+   "kelime": "شَدِيدٍ",
+   "okunus": "şedîdin",
+   "kok": "شدد",
+   "kokAnlam": "şiddet, sertlik",
+   "karsilik": "şiddetli"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu, Sebe' suresinin en bilinen ayetlerinden biridir. Peygamber'e söyletilen tek öğüt şudur: insanlar ikişer ikişer ya da tek başlarına, sakin bir şekilde durup düşünsünler; kalabalığın ve toplu heyecanın etkisinden uzaklaşıp aklıselimle Peygamber'i ve mesajını değerlendirsinler. Ayet, bu düşünme sonucunda ulaşılacak net bir gerçeği de belirtir: onların 'arkadaşları' (Peygamber) deli değildir, o sadece bir uyarıcıdır.",
+  "'Bir tek şey öğütlüyorum' ifadesi, davetin karmaşık bir sistem değil, tek ve basit bir çağrıya (düşünmeye) dayandığını gösterir. Klasik tefsir bu ayeti, önyargısız, sakin ve bireysel bir düşünme çağrısı olarak; kalabalığın verdiği kör inanç ya da kör reddi kırmaya yönelik bir yöntem olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:184",
+   "meal": "Arkadaşlarında bir delilik olmadığını düşünmediler mi? O ancak apaçık bir uyarıcıdır.",
+   "baglanti": "Neredeyse aynı ifadeyle 'delilik yok, sadece uyarıcı' savunmasını tekrarlar."
+  },
+  {
+   "ref": "3:191",
+   "meal": "Ayakta, oturarak ve yanları üzerine yatarken Allah'ı anarlar; göklerin ve yerin yaratılışı üzerinde düşünürler.",
+   "baglanti": "Aynı 'tefekkür' kökünü, Allah'ı anma ve yaratılış üzerine düşünme bağlamında paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, insanları kalabalığın etkisinden uzak, sakin ve bireysel bir düşünmeye davet etmesidir; Peygamber'in akıl sağlığına dair asılsız bir suçlamayı da reddeder.",
+  "Bugüne taşınabilecek ders, önemli bir kararı verirken kalabalığın heyecanından uzaklaşıp yalnız ya da küçük bir grupla sakin sakin düşünmektir. Bir konuyu gerçekten anlamak için ara sıra tek başına, önyargısız düşünme fırsatı bulmak önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yalnız düşünme vakti ayır",
+   "aciklama": "Bugün bir konuda karar vermeden önce birkaç dakika yalnız başına, sakin şekilde düşün."
+  },
+  {
+   "baslik": "Kalabalığın etkisinden uzaklaş",
+   "aciklama": "Bir tartışmada kalabalığın verdiği heyecana kapılmadan, kendi aklınla değerlendir."
+  },
+  {
+   "baslik": "Önyargısız bak",
+   "aciklama": "Bugün bir konuya, daha önce ne düşündüğünü bir kenara bırakıp yeniden bak."
+  }
+ ],
+ "bugununAdimi": "Bugün önemli bir konuda, kalabalıktan uzak birkaç dakika yalnız düşünme vakti ayır.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=46"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/34/46"
+  }
+ ]
+}

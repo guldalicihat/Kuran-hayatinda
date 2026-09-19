@@ -1,0 +1,292 @@
+{
+ "sure": 34,
+ "ayet": 43,
+ "durum": "taslak",
+ "meal": "Onlara açık deliller olarak ayetlerimiz okunduğunda derler ki: 'Bu, sizi atalarınızın taptığından çevirmek isteyen bir adamdan başkası değildir.' Ve derler ki: 'Bu, uydurulmuş bir yalandan başka bir şey değildir.' İnkar edenler, kendilerine geldiğinde hak için: 'Bu, apaçık bir büyüden başka bir şey değildir' dediler.",
+ "mealNotu": "'Beyyinât' ve 'mübîn' aynı kökten (بين) gelir; ayetlerin açıklığını vurgular, ama inkarcılar bu açık delilleri 'adamın uydurması', 'iftira' ve 'büyü' gibi üç farklı ithamla reddeder.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "تُتْلَىٰ",
+   "okunus": "tütlâ",
+   "kok": "تلو",
+   "kokAnlam": "okuma, tilavet etme",
+   "karsilik": "okunduğunda"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "ءَايَٰتُنَا",
+   "okunus": "âyâtünâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "ayetlerimiz"
+  },
+  {
+   "kelime": "بَيِّنَٰتٍ",
+   "okunus": "beyyinâtin",
+   "kok": "بين",
+   "kokAnlam": "açıklık, ayırt edicilik",
+   "karsilik": "açık deliller olarak"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "هَٰذَآ",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "رَجُلٌ",
+   "okunus": "racülün",
+   "kok": "رجل",
+   "kokAnlam": "adam, erkek",
+   "karsilik": "bir adam"
+  },
+  {
+   "kelime": "يُرِيدُ",
+   "okunus": "yürîdü",
+   "kok": "رود",
+   "kokAnlam": "isteme, arzulama",
+   "karsilik": "isteyen"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "يَصُدَّكُمْ",
+   "okunus": "yesuddeküm",
+   "kok": "صدد",
+   "kokAnlam": "alıkoyma, çevirme",
+   "karsilik": "sizi çevirsin"
+  },
+  {
+   "kelime": "عَمَّا",
+   "okunus": "ammâ",
+   "kok": "—",
+   "kokAnlam": "(edat) şeyden",
+   "karsilik": "şeyden"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "يَعْبُدُ",
+   "okunus": "ya'büdü",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme, tapma",
+   "karsilik": "tapıyor"
+  },
+  {
+   "kelime": "ءَابَآؤُكُمْ",
+   "okunus": "âbâüküm",
+   "kok": "أبو",
+   "kokAnlam": "baba, ata",
+   "karsilik": "atalarınız"
+  },
+  {
+   "kelime": "وَقَالُوا۟",
+   "okunus": "ve kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "ve derler"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "هَٰذَآ",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "إِفْكٌ",
+   "okunus": "ifkün",
+   "kok": "أفك",
+   "kokAnlam": "yalan, iftira",
+   "karsilik": "bir yalan"
+  },
+  {
+   "kelime": "مُّفْتَرًى",
+   "okunus": "müfteran",
+   "kok": "فري",
+   "kokAnlam": "uydurma",
+   "karsilik": "uydurulmuş"
+  },
+  {
+   "kelime": "وَقَالَ",
+   "okunus": "ve kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "ve dediler"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler ki"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkar",
+   "karsilik": "inkar eden"
+  },
+  {
+   "kelime": "لِلْحَقِّ",
+   "okunus": "lilhakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, hak",
+   "karsilik": "hak için"
+  },
+  {
+   "kelime": "لَمَّا",
+   "okunus": "lemmâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "جَآءَهُمْ",
+   "okunus": "câehüm",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "kendilerine geldiğinde"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "هَٰذَآ",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "سِحْرٌ",
+   "okunus": "sihrun",
+   "kok": "سحر",
+   "kokAnlam": "büyü",
+   "karsilik": "bir büyü"
+  },
+  {
+   "kelime": "مُّبِينٌ",
+   "okunus": "mübînün",
+   "kok": "بين",
+   "kokAnlam": "açıklık, ayırt edicilik",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, vahyin açık deliller (beyyinât) olarak okunmasına rağmen inkarcıların onu reddetmek için art arda üç farklı itiraz öne sürdüğünü anlatır: önce Peygamber'i atalarının dininden çevirmeye çalışan sıradan bir adam olarak nitelerler, sonra vahyi 'uydurulmuş bir yalan' sayarlar, son olarak da 'apaçık bir büyü' derler.",
+  "Bu üç itirazın art arda sıralanması, inkarcıların tutarlı bir gerekçeye değil, hakikati reddetmek için değişen bahanelere sahip olduğunu gösterir. Klasik tefsir bu ayeti, hakka karşı direnen kişilerin genelde tek bir mantıklı itiraz yerine birbiriyle çelişen suçlamalara başvurduğuna dair bir örnek olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:4",
+   "meal": "İnkar edenler dediler ki: Bu, ancak onun uydurduğu bir yalandır.",
+   "baglanti": "Aynı 'uydurma yalan' suçlamasını, farklı gerekçelerle tekrarlayan benzer bir sahnedir."
+  },
+  {
+   "ref": "38:4",
+   "meal": "Kendilerinden bir uyarıcı geldiğine şaştılar; kafirler dediler ki: Bu bir büyücüdür, çok yalancıdır.",
+   "baglanti": "Peygamber'e yöneltilen 'büyücü' ithamını başka bir surede aynı şekilde gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, vahye karşı inkarcıların öne sürdüğü birbiriyle tutarsız üç itirazdır; bu özel bir tarihi tartışma bağlamıdır.",
+  "Bugüne taşınabilecek ders, bir gerçeği reddetmek isteyen kişinin genelde art arda farklı bahaneler ürettiğidir. Kendi tutumunu gözden geçirirken, bir fikri gerçekten mantıklı sebeplerle mi yoksa sadece kabul etmek istemediğin için mi reddettiğini sormak faydalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tutarlı bahaneyi sorgula",
+   "aciklama": "Bugün bir gerçeği reddederken kullandığın gerekçenin tutarlı olup olmadığını kontrol et."
+  },
+  {
+   "baslik": "Açık delile açık ol",
+   "aciklama": "Net bir kanıtla karşılaştığında, önyargınla değil delille karar ver."
+  },
+  {
+   "baslik": "Kolay etiketlemekten kaçın",
+   "aciklama": "Anlamadığın bir şeyi hemen 'saçma' ya da 'yalan' diye etiketlemeden önce düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir konuda önyargıyla değil delille karar verdiğin bir örnek yaşamaya çalış.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=43"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/34/43"
+  }
+ ]
+}

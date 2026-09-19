@@ -1,0 +1,110 @@
+{
+ "sure": 34,
+ "ayet": 49,
+ "durum": "taslak",
+ "meal": "De ki: 'Hak geldi; artık batıl ne [bir şey] başlatabilir ne de [onu] geri getirebilir.'",
+ "mealNotu": "'Bed'' ve 'avd' kökleri (بدأ/عود) bir şeyi ilk kez başlatma ile onu tekrar etmeyi/geri döndürmeyi anlatır; ayet batılın ne yeni bir şey ortaya koyabildiğini ne de eski gücüne dönebildiğini, yani tamamen etkisiz kaldığını bildirir. Köşeli parantezler fiillerin belirsiz nesnesini açıklığa kavuşturur.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "جَآءَ",
+   "okunus": "câe",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "geldi"
+  },
+  {
+   "kelime": "ٱلْحَقُّ",
+   "okunus": "elhakku",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, hak",
+   "karsilik": "hak"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve ... değil"
+  },
+  {
+   "kelime": "يُبْدِئُ",
+   "okunus": "yübdiü",
+   "kok": "بدأ",
+   "kokAnlam": "başlatma, ilk kez yapma",
+   "karsilik": "başlatabilir"
+  },
+  {
+   "kelime": "ٱلْبَٰطِلُ",
+   "okunus": "elbâtılü",
+   "kok": "بطل",
+   "kokAnlam": "boşluk, geçersizlik, batıl",
+   "karsilik": "batıl"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "ve ... değil"
+  },
+  {
+   "kelime": "يُعِيدُ",
+   "okunus": "yüîdü",
+   "kok": "عود",
+   "kokAnlam": "geri dönme, tekrarlama",
+   "karsilik": "geri getirebilir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu kısa ve vurgulu ayet, önceki ayetteki 'hakkı fırlatır' imgesinin sonucunu bildirir: hak geldiğinde batıl tamamen etkisizleşir, ne yeni bir şey başlatabilir ne de eski konumuna dönebilir. Bu, hak ile batıl arasındaki mücadelenin nihai sonucuna dair kesin bir hüküm cümlesidir.",
+  "Ayet, kısa ve vurucu yapısıyla, hakikatin geldiğinde yalanın/kötülüğün kalıcı bir direnç gösteremeyeceğini ilan eder. Klasik tefsir bu ayeti, hakkın galip geleceğine dair genel bir Kur'an ilkesinin özlü bir ifadesi olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:81",
+   "meal": "De ki: Hak geldi, batıl yok oldu. Şüphesiz batıl yok olmaya mahkumdur.",
+   "baglanti": "Neredeyse aynı temayı, 'hakkın gelişi-batılın yok oluşu' ilkesiyle birebir tekrarlar."
+  },
+  {
+   "ref": "21:18",
+   "meal": "Hayır, biz hakkı batılın üzerine fırlatırız da onun beynini parçalar, bir de bakarsın yok olup gitmiştir.",
+   "baglanti": "Hakkın batılı yok etme sürecini görsel bir imgeyle tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, hakikatin geldiğinde batılın kalıcı olamayacağı, sonunda yok olacağıdır; bu genel bir ilkedir.",
+  "Bugüne taşınabilecek ders, doğru ve dürüst olanın geçici görünse bile sonunda ayakta kalacağına güvenmektir. Yanlış bir şeyin kısa süreli üstünlüğü, kişiyi umutsuzluğa düşürmemelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğruya güven",
+   "aciklama": "Bugün zor görünen bir doğruyu savunmaktan vazgeçme; sonunda kalıcı olan odur."
+  },
+  {
+   "baslik": "Yanlışın geçiciliğini hatırla",
+   "aciklama": "Bir haksızlık karşısında sabırlı ol; onun kalıcı olmadığını bil."
+  },
+  {
+   "baslik": "Sabit kal",
+   "aciklama": "Bugün bir konuda hakla batıl arasında net bir tercih yap, ortada kalma."
+  }
+ ],
+ "bugununAdimi": "Bugün, doğru olduğuna inandığın bir şeyi, sonucu belirsiz görünse de savunmaya devam et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=34&verse=49"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/34/49"
+  }
+ ]
+}
