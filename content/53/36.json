@@ -1,0 +1,103 @@
+{
+ "sure": 53,
+ "ayet": 36,
+ "durum": "taslak",
+ "meal": "Yoksa Musa'nın sayfalarındakinden haberdar edilmedi mi?",
+ "mealNotu": "'Suhuf' kökü yazılı sayfaları, 'nübbe'' kökü haber verilmeyi anlatır. Ayet, Musa'ya verilen sayfalardaki bilgiye kısaca işaret eder; içeriği ayrıntılandırmaz.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "يُنَبَّأْ",
+   "okunus": "yünebbe'",
+   "kok": "نبأ",
+   "kokAnlam": "haber verme",
+   "karsilik": "haberdar edildi"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şeyle",
+   "karsilik": "şeyden"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "-deki"
+  },
+  {
+   "kelime": "صُحُفِ",
+   "okunus": "suhufi",
+   "kok": "صحف",
+   "kokAnlam": "yazılı sayfalar, belgeler",
+   "karsilik": "sayfalarındaki"
+  },
+  {
+   "kelime": "مُوسَىٰ",
+   "okunus": "mûsâ",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "Musa'nın"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki bölümdeki gaybı bilme iddiasından sonra, gerçek bilginin kaynağına dikkat çeker: önceki peygamberlere verilen sayfalar. 'Suhuf' kökü, yazılı, sayfa hâlinde verilen bilgiyi anlatır.",
+  "Ayet, Musa'nın sayfalarında ne olduğunu ayrıntılandırmaz; yalnızca böyle bir bilginin var olduğunu ve insanların bundan haberdar edildiğini hatırlatır. Vurgu, muhatapların bildikleri hâlde görmezden geldikleri bir bilgiye yöneliktir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "87:19",
+   "meal": "Şüphesiz bu, önceki sayfalarda, İbrahim'in ve Musa'nın sayfalarında da vardır.",
+   "baglanti": "Bu ayet, Necm 36-37'deki 'Musa'nın ve İbrahim'in sayfaları' ifadesiyle neredeyse aynı içeriği taşır ve iki ayeti birbirine bağlar."
+  },
+  {
+   "ref": "20:133",
+   "meal": "Onlara, önceki sayfalarda olanın açık kanıtı gelmedi mi?",
+   "baglanti": "Bu ayet de aynı kökü (suhuf) ve aynı fikri taşır: önceki vahiylerde zaten bulunan bir bilginin hatırlatılması."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, önceki peygamberlere verilen sayfalardaki bilgidir. Bunun bugüne dönük yönü, yeni bir şey duyduğunu sanıp aslında bilinen bir gerçeği yeniden keşfetmiş olabileceğini hatırlamaktır.",
+  "İnsan bazen bir uyarıyı ya da öğüdü ilk kez duyuyormuş gibi görmezden gelir; oysa bu bilgi çok daha önce de verilmiştir. Ayet, geçmişten gelen bilgiye kulak vermenin önemini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilinen bir öğüdü yeniden hatırla",
+   "aciklama": "Daha önce duyduğun ama unuttuğun bir dini öğüdü bugün tekrar düşün."
+  },
+  {
+   "baslik": "Geçmişten ders çıkar",
+   "aciklama": "Önceki nesillerin tecrübesinden öğrenilecek bir şeyi bugün kendi hayatına uygula."
+  },
+  {
+   "baslik": "Bildiğini görmezden gelme",
+   "aciklama": "Zaten bildiğin doğru bir şeyi, yeni değil diye önemsizleştirme."
+  }
+ ],
+ "bugununAdimi": "Bugün, uzun süredir bildiğin ama uygulamadığın bir öğüdü hayatına bir kez uygula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=36"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/36"
+  }
+ ]
+}

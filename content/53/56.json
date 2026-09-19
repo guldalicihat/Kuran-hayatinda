@@ -1,0 +1,89 @@
+{
+ "sure": 53,
+ "ayet": 56,
+ "durum": "taslak",
+ "meal": "Bu da önceki uyarıcılardan bir uyarıcıdır.",
+ "mealNotu": "'Nezîr' kökü uyarmayı, sakındırmayı anlatır. Ayet, bu Peygamber'in yeni bir tür değil, önceki uyarıcıların bir devamı olduğunu bildirir.",
+ "kokler": [
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "نَذِيرٌ",
+   "okunus": "nezîrun",
+   "kok": "نذر",
+   "kokAnlam": "uyarma, sakındırma",
+   "karsilik": "bir uyarıcıdır"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلنُّذُرِ",
+   "okunus": "ennüzüri",
+   "kok": "نذر",
+   "kokAnlam": "uyarıcılar",
+   "karsilik": "uyarıcılardan"
+  },
+  {
+   "kelime": "ٱلْأُولَىٰٓ",
+   "okunus": "el'ûlâ",
+   "kok": "أول",
+   "kokAnlam": "önceki, ilk",
+   "karsilik": "önceki"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki kavimlerin ve onlara gönderilen uyarıların hatırlatılmasından sonra, bu Peygamber'in konumunu belirtir: o da önceki uyarıcılar gibi bir uyarıcıdır. Bu, hem onun görevinin süreklilik taşıdığını hem de mesajının yeni bir icat olmadığını anlatır.",
+  "'Nezîr' kökü, kötü bir sonuçtan sakındırmayı anlatır; önceki ayetlerdeki helak kıssaları bu uyarının neden ciddiye alınması gerektiğini de gösterir. Ayet kısa ama doğrudan bir bağ kurar: geçmişteki uyarılar dinlenmediği için o kavimler helak oldu, şimdi de benzer bir uyarı gelmiştir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "35:24",
+   "meal": "Şüphesiz biz seni hak ile müjdeleyici ve uyarıcı olarak gönderdik; hiçbir ümmet yoktur ki içlerinde bir uyarıcı geçmiş olmasın.",
+   "baglanti": "Bu ayet, Necm 56'daki 'önceki uyarıcılardan bir uyarıcı' ifadesini doğrudan açıklar."
+  },
+  {
+   "ref": "46:9",
+   "meal": "De ki: Ben türedi bir peygamber değilim.",
+   "baglanti": "Bu ayet de aynı fikri, peygamberliğin yeni bir icat olmadığını vurgulayarak tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bu Peygamber'in uyarısının önceki uyarıcıların devamı olmasıdır. Bu, mesajın süreklilik ve tutarlılık taşıdığını gösterir.",
+  "Günlük hayatta bu, bir uyarıyı 'yeni, tuhaf bir şey' diye görmezden gelmemeyi öğretir. Aynı temel uyarı tarih boyunca farklı elçilerle tekrarlanmıştır; bu da onun ciddiye alınması gerektiğine işaret eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tekrarlanan bir uyarıyı önemse",
+   "aciklama": "Bugün birden fazla kez duyduğun bir öğüdü, artık alışkanlıktan değil ciddiye alarak dinle."
+  },
+  {
+   "baslik": "Süreklilik ilkesini hatırla",
+   "aciklama": "Bir değeri savunurken, bunun yeni değil köklü bir gelenek olduğunu hatırla."
+  },
+  {
+   "baslik": "Uyarıyı iletmekten çekinme",
+   "aciklama": "Bugün bir yakınına, iyiliğine olacak bir uyarıyı nazikçe ilet."
+  }
+ ],
+ "bugununAdimi": "Bugün daha önce de duyduğun ama ciddiye almadığın bir uyarıyı yeniden düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=56"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/56"
+  }
+ ]
+}

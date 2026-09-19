@@ -1,0 +1,75 @@
+{
+ "sure": 53,
+ "ayet": 34,
+ "durum": "taslak",
+ "meal": "Azıcık verip sonra kesileni mi?",
+ "mealNotu": "'Ekdâ' kökü sert bir zemine çarpıp ilerleyememeyi, mecazen bir işi -burada vermeyi- yarıda kesmeyi anlatır. Ayet, 33. ayetteki soruyu sürdürür; bu yüzden meal 'mi' ekiyle devam ettirilmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَأَعْطَىٰ",
+   "okunus": "ve a'tâ",
+   "kok": "عطو",
+   "kokAnlam": "verme, uzatma",
+   "karsilik": "verdi"
+  },
+  {
+   "kelime": "قَلِيلًا",
+   "okunus": "kalîlen",
+   "kok": "قلل",
+   "kokAnlam": "azlık",
+   "karsilik": "azıcık"
+  },
+  {
+   "kelime": "وَأَكْدَىٰٓ",
+   "okunus": "ve ekdâ",
+   "kok": "كدي",
+   "kokAnlam": "sertleşme; vermeyi kesme",
+   "karsilik": "sonra kesti"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayette tanıtılan yüz çeviren kişiyi tanımlamaya devam eder. 'Kalîlen' (azıcık) kelimesi, verilenin gerçekten az olduğunu vurgular.",
+  "'Ekdâ' kökü, bir kazı işinde sert kayaya çarpıp devam edememeyi anlatan bir kökten gelir; burada mecazen vermeyi yarıda kesmeyi ifade eder. Ayet, başlanan bir iyiliğin sürdürülmemesini eleştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "92:8",
+   "meal": "Kim de cimrilik eder ve kendini ihtiyaçsız görürse,",
+   "baglanti": "Bu ayet, az verip sonra kesmenin arkasındaki cimrilik ve kendini yeterli görme tavrını tamamlayıcı biçimde anlatır."
+  },
+  {
+   "ref": "70:21",
+   "meal": "Kendisine hayır dokunduğunda ise eli sıkıdır.",
+   "baglanti": "Bu ayet, insan tabiatındaki 'verip sonra kesme' eğilimini genel bir ilke olarak anlatır; 34. ayetteki tekil örnek bu genel tabiatın bir örneğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir iyiliğe başlayıp sonra onu kesmektir. Bu, hem maddi yardımı hem de bir söz ya da sorumluluğu yarıda bırakmayı kapsayabilecek genel bir tutumdur.",
+  "Günlük hayatta bir yardıma başlayıp sonra vazgeçmek, başlangıçtaki iyi niyeti gölgeler. Ayet, sürekliliğin de en az başlamak kadar değerli olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Verdiğin bir sözü sürdür",
+   "aciklama": "Daha önce üstlendiğin küçük bir yardımı yarıda bırakmadan bugün devam ettir."
+  },
+  {
+   "baslik": "Azını değil sürekliliğini önemse",
+   "aciklama": "Büyük ama tek seferlik bir iyilik yerine küçük ama düzenli bir katkıyı tercih et."
+  },
+  {
+   "baslik": "Cömertliğini nedensiz kesme",
+   "aciklama": "Bir yardımı keserken gerçek bir gerekçen olup olmadığını kendine sor."
+  }
+ ],
+ "bugununAdimi": "Yarıda bıraktığın bir yardımı veya sözü bugün yeniden sürdür.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=34"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/34"
+  }
+ ]
+}

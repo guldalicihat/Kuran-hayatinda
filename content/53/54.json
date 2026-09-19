@@ -1,0 +1,75 @@
+{
+ "sure": 53,
+ "ayet": 54,
+ "durum": "taslak",
+ "meal": "Onu, örttüğü şey kapladı.",
+ "mealNotu": "'Gaşşâ' kökü örtmeyi, kaplamayı anlatır; ayet, neyin örttüğünü kasıtlı olarak belirsiz bırakır ('mâ ğaşşâ': örttüğü şey). Bu belirsizlik korunmuş, ayrıntı eklenmemiştir.",
+ "kokler": [
+  {
+   "kelime": "فَغَشَّىٰهَا",
+   "okunus": "feğaşşâhâ",
+   "kok": "غشو",
+   "kokAnlam": "örtme, kaplama",
+   "karsilik": "onu örttü"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "غَشَّىٰ",
+   "okunus": "gaşşâ",
+   "kok": "غشو",
+   "kokAnlam": "örtme, kaplama",
+   "karsilik": "örttüyse"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 53. ayetteki altüst olan kasabaların üzerine bir şeyin çöktüğünü, onları örttüğünü anlatır. Arapçadaki 'mâ ğaşşâ' (örttüğü şey) ifadesi kasıtlı olarak belirsizdir; ayet bunun ne olduğunu açıklamaz.",
+  "Bu belirsizlik, olayın dehşetini vurgulamak için bilinçli bir üsluptur; ayet ayrıntıya girmeden, kaplayıp örten bir felaketten söz eder. Kıssa burada da kısa tutulmuştur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:74",
+   "meal": "Oranın üstünü altına getirdik ve üzerlerine pişmiş çamurdan taşlar yağdırdık.",
+   "baglanti": "Bu ayet, Necm 54'teki belirsiz bırakılan 'örten şeyin' ne olabileceğine dair bir açıklama sunar."
+  },
+  {
+   "ref": "26:173",
+   "meal": "Üzerlerine bir yağmur yağdırdık; uyarılanların yağmuru ne kötüydü.",
+   "baglanti": "Bu ayet de aynı olayı, gelen felaketin şiddetine vurgu yaparak anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, önceki ayette anılan kasabaların üzerine çöken belirsiz bir felakettir. Bu, insanın öngöremediği, aniden gelen sonuçların da mümkün olduğunu hatırlatır.",
+  "Günlük hayatta bu, tedbirli olmayı ve uyarılara kulak vermeyi teşvik eder. Bir sonucun ne zaman ve nasıl geleceği çoğu zaman önceden bilinmez."
+ ],
+ "bugun": [
+  {
+   "baslik": "Belirsizliğe karşı tedbirli ol",
+   "aciklama": "Bugün, sonucunu önceden bilemeyeceğin bir konuda gereken tedbiri al."
+  },
+  {
+   "baslik": "Ani değişime hazırlıklı ol",
+   "aciklama": "Planların bozulduğunda bugün paniklemeden, elindeki imkânla devam et."
+  },
+  {
+   "baslik": "Uyarıyı erken duyunca harekete geç",
+   "aciklama": "Bugün küçük bir uyarı işaretini görürsen, onu ertelemeden ele al."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir tedbiri, sonucunu beklemeden şimdi al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=54"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/54"
+  }
+ ]
+}

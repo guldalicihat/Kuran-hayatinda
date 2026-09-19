@@ -1,0 +1,82 @@
+{
+ "sure": 53,
+ "ayet": 55,
+ "durum": "taslak",
+ "meal": "Öyleyse Rabbinin nimetlerinin hangisi hakkında şüphe edip duruyorsun?",
+ "mealNotu": "'Âlâ' kökü nimetleri, 'temârâ' kökü şüphe edip tartışmayı anlatır. Ayet, önceki ayetlerde sıralanan güç ve nimet örneklerinden sonra, bunları inkâr etmenin ne kadar tutarsız olduğunu soru kipiyle sorar.",
+ "kokler": [
+  {
+   "kelime": "فَبِأَىِّ",
+   "okunus": "febieyyi",
+   "kok": "أيي",
+   "kokAnlam": "hangi",
+   "karsilik": "öyleyse hangi"
+  },
+  {
+   "kelime": "ءَالَآءِ",
+   "okunus": "âlâi",
+   "kok": "ألو",
+   "kokAnlam": "nimet, iyilik",
+   "karsilik": "nimetlerinin"
+  },
+  {
+   "kelime": "رَبِّكَ",
+   "okunus": "rabbike",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, sahip; Rab",
+   "karsilik": "Rabbinin"
+  },
+  {
+   "kelime": "تَتَمَارَىٰ",
+   "okunus": "tetemârâ",
+   "kok": "مري",
+   "kokAnlam": "şüphe etme, tartışma",
+   "karsilik": "şüphe edip duruyorsun"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 43-54. ayetlerde sıralanan yaratma, öldürme-diriltme, zengin etme ve geçmiş kavimlerin akıbeti gibi örneklerden sonra bir özet sorusu sorar: bunca nimet ve delil karşısında hangisinde şüphe ediliyor? 'Temârâ' kökü, inatla şüphe edip tartışmayı anlatır.",
+  "Bu soru, muhatabı düşünmeye ve hesap vermeye çağırır. Benzer bir soru kalıbı Rahmân suresinde defalarca tekrarlanır; burada tekil muhataba, orada ins ve cinne yöneliktir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "55:13",
+   "meal": "Öyleyse Rabbinizin nimetlerinden hangisini yalanlarsınız?",
+   "baglanti": "Bu ayet, Necm 55 ile neredeyse aynı kalıbı taşır; Rahmân suresinde bu soru ins ve cinne defalarca tekrarlanır."
+  },
+  {
+   "ref": "16:53",
+   "meal": "Sizde ne kadar nimet varsa Allah'tandır.",
+   "baglanti": "Bu ayet, 55. ayetteki 'nimetler' kelimesinin kapsamını açıklar: her nimetin tek kaynağı Allah'tır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, sıralanan nimet ve delillere rağmen şüphe etmenin tutarsızlığıdır. Bugüne taşınabilecek ders, sahip olunan nimetleri fark etmek ve bunları kaynağıyla birlikte hatırlamaktır.",
+  "Günlük hayatta insan alıştığı nimetleri fark etmez olur; sağlık, hayat, rızık gibi şeyler sıradanlaşır. Ayet, bu nimetlerden hangisinde şüphe edildiğini sorarak farkındalığı yeniden uyandırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir nimetini fark et",
+   "aciklama": "Bugün alıştığın ama fark etmediğin bir nimeti (sağlık, görme, rızık) bilinçli olarak düşün."
+  },
+  {
+   "baslik": "Şüpheni sorgula",
+   "aciklama": "İçinde bir şüphe varsa, bunun gerçek bir delile mi yoksa alışkanlığa mı dayandığını sorgula."
+  },
+  {
+   "baslik": "Şükrünü söze dök",
+   "aciklama": "Bugün bir nimetin için Allah'a açıkça teşekkür et."
+  }
+ ],
+ "bugununAdimi": "Bugün fark etmeden yaşadığın bir nimeti bilinçli olarak düşünüp şükret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=55"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/55"
+  }
+ ]
+}

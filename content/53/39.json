@@ -1,0 +1,96 @@
+{
+ "sure": 53,
+ "ayet": 39,
+ "durum": "taslak",
+ "meal": "İnsana, çalıştığından başka bir şey yoktur.",
+ "mealNotu": "'Sa'y' kökü koşarak çaba göstermeyi, çalışmayı anlatır. Ayet, bir önceki ayetteki bireysel sorumluluk ilkesini tamamlar: insan yalnız kendi çabasının karşılığını alır.",
+ "kokler": [
+  {
+   "kelime": "وَأَن",
+   "okunus": "ve en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ve ki",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "لَّيْسَ",
+   "okunus": "leyse",
+   "kok": "ليس",
+   "kokAnlam": "olmama, değildir",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "لِلْإِنسَٰنِ",
+   "okunus": "lil'insâni",
+   "kok": "أنس",
+   "kokAnlam": "insan, ünsiyet",
+   "karsilik": "insana"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) -den başka",
+   "karsilik": "-den başka"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "سَعَىٰ",
+   "okunus": "seâ",
+   "kok": "سعي",
+   "kokAnlam": "koşarak çaba gösterme, çalışma",
+   "karsilik": "çalıştığından"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Kur'an'ın en çok bilinen ilkelerinden biridir ve 38. ayetle birlikte okunur: kişi başkasının günahından sorumlu tutulmadığı gibi, kendi çabası dışında bir karşılık da almaz. 'Sa'y' kökü, koşarak, gayretle çalışmayı anlatır.",
+  "Bu ilke hem uyarıcı hem de teşvik edicidir: kimse başkasının emeğine güvenerek rahat edemez, ama kimse de kendi emeğinin karşılıksız kalacağından endişe etmez. Ayet, insanın kendi eylemleriyle baş başa olduğunu bildirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "99:7",
+   "meal": "Kim zerre miktarı hayır işlerse, onun karşılığını görür.",
+   "baglanti": "Bu ayet, 'insana çalışmasından başkası yoktur' ilkesinin nasıl işlediğini, en küçük iyiliğin bile karşılıksız kalmayacağını göstererek somutlaştırır."
+  },
+  {
+   "ref": "74:38",
+   "meal": "Her nefis, kazandığı şeye karşılık bir rehin gibidir.",
+   "baglanti": "Bu ayet de kişinin kendi kazandığıyla, kendi çabasıyla bağlı olduğunu, ondan ayrılamayacağını anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insanın karşılığını yalnız kendi çabasından alacağıdır. Bu, hem ahiretteki karşılık hem de dünyadaki emek-sonuç ilişkisi için geçerli bir ilkedir.",
+  "Günlük hayatta bu ilke, başkasının başarısına ya da bağlantısına güvenip kendi çabayı ihmal etmemeyi öğretir. Sonuç, harcanan emeğe göre şekillenir; kestirme yol arayışı bu ilkeyle çelişir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugünkü emeğini kendine yaz",
+   "aciklama": "Bir hedefin için bugün gerçekten harcadığın çabayı, başkasının yapacağını beklemeden sen üstlen."
+  },
+  {
+   "baslik": "Kestirmeye güvenme",
+   "aciklama": "Emek vermeden sonuç bekleme; bugün küçük de olsa gerçek bir adım at."
+  },
+  {
+   "baslik": "Ahiretteki karşılığı unutma",
+   "aciklama": "Bugün yaptığın iyiliğin küçük görünse de karşılıksız kalmayacağını hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün bir hedefin için, başkasına güvenmeden kendi emeğinle küçük bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=39"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/39"
+  }
+ ]
+}

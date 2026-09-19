@@ -1,0 +1,82 @@
+{
+ "sure": 53,
+ "ayet": 59,
+ "durum": "taslak",
+ "meal": "Şimdi bu söze mi şaşıyorsunuz?",
+ "mealNotu": "'Hadîs' kökü söz, haber anlamına gelir; burada Kur'an'a işaret eder. 'Acebe' kökü şaşırmayı, hayret etmeyi anlatır. Ayet, sureyi kapatan bölüme geçerken muhatapların tepkisini sorgular.",
+ "kokler": [
+  {
+   "kelime": "أَفَمِنْ",
+   "okunus": "efemin",
+   "kok": "—",
+   "kokAnlam": "(soru + edat) şimdi mi -den",
+   "karsilik": "şimdi mi"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "ٱلْحَدِيثِ",
+   "okunus": "elhadîsi",
+   "kok": "حدث",
+   "kokAnlam": "söz, haber",
+   "karsilik": "söze"
+  },
+  {
+   "kelime": "تَعْجَبُونَ",
+   "okunus": "ta'cebûne",
+   "kok": "عجب",
+   "kokAnlam": "şaşırma, hayret etme",
+   "karsilik": "şaşıyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, sureyi kapatan bölüme geçer ve muhatapların Kur'an'a (bu söze) karşı tutumunu sorgular: onu duyunca şaşırıp hayret mi ediyorlar? 'Hadîs' kelimesi burada bu vahyedilen sözü, yani Kur'an'ı işaret eder.",
+  "Bu soru, önceki ayetlerdeki uyarı ve delillerden sonra gelir; muhatapların tepkisinin yanlış yönde olduğunu ima eder. Şaşırmak yerine düşünüp kabul etmeleri beklenir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:2",
+   "meal": "İçlerinden bir adama vahyetmemiz, insanlar için şaşılacak bir şey mi oldu?",
+   "baglanti": "Bu ayet, aynı 'şaşırma' temasını, vahyin bir insana gelmesi bağlamında ele alır; Necm 59'daki soruyla aynı doğrultudadır."
+  },
+  {
+   "ref": "7:63",
+   "meal": "Sizi uyarması için içinizden bir adama Rabbinizden bir öğüt gelmesine mi şaştınız?",
+   "baglanti": "Bu ayet de vahye şaşırmanın aslında ne kadar yersiz olduğunu, aynı kökle (acebe) sorgulayarak gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, vahye karşı gösterilen şaşkınlık ve hayret tepkisidir. Bugüne taşınabilecek ders, doğru bir söz veya öğüt karşısında alaycı ya da şaşkın tepki vermek yerine düşünmenin gerektiğidir.",
+  "Günlük hayatta insan bazen kendisine yapılan bir uyarıyı ya da öğüdü, alışılmadık diye reddedebilir. Ayet, bu tür bir tepkinin doğru bir yaklaşım olmadığını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir öğüdü hemen reddetme",
+   "aciklama": "Bugün sana yapılan bir uyarıyı, garip ya da eski diye hemen reddetmeden önce düşün."
+  },
+  {
+   "baslik": "Önyargını sorgula",
+   "aciklama": "Bir fikri, kaynağına önyargıyla bakmadan, içeriğine göre değerlendir."
+  },
+  {
+   "baslik": "Şaşırmak yerine anlamaya çalış",
+   "aciklama": "Anlamadığın bir konuda alay etmek yerine, bugün araştırıp öğrenmeye çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün ilk tepkinle reddettiğin bir fikri, yeniden ve önyargısız düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=59"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/59"
+  }
+ ]
+}

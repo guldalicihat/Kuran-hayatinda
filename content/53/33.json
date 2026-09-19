@@ -1,0 +1,75 @@
+{
+ "sure": 53,
+ "ayet": 33,
+ "durum": "taslak",
+ "meal": "Şu yüz çevireni gördün mü?",
+ "mealNotu": "'Tevellâ' kökü, bir işe ilgiyi kesip sırtını dönmeyi anlatır. Ayet soru kipiyle başlar; kimden söz edildiği açıkça belirtilmez, sonraki iki ayet bu kişiyi tanımlamaya devam eder.",
+ "kokler": [
+  {
+   "kelime": "أَفَرَءَيْتَ",
+   "okunus": "eferaeyte",
+   "kok": "رأي",
+   "kokAnlam": "görme, haber alma",
+   "karsilik": "gördün mü"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ki o, kimse",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "تَوَلَّىٰ",
+   "okunus": "tevellâ",
+   "kok": "ولي",
+   "kokAnlam": "yüz çevirme, ilgi kesme",
+   "karsilik": "yüz çeviren"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayetle sure yeni bir bölüme geçer. Önceki ayetlerde büyük günahlardan kaçınıp küçük hatalarının bağışlanacağı kişilerden söz edilmişti; şimdi soru kipiyle bunun tam tersi bir tavır gündeme gelir.",
+  "'Tevellâ' fiili bir işe sırtını dönmeyi, ilgiyi kesmeyi anlatır. Ayet kimden söz ettiğini açıkça belirtmez; sonraki iki ayet bu kişiyi, verdiği azıcık şeyi kesmesi ve gaybı bildiğini iddia etmesiyle tanımlamaya devam eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "53:29",
+   "meal": "Öyleyse zikrimizden yüz çeviren ve dünya hayatından başkasını istemeyen kimseden sen de yüz çevir.",
+   "baglanti": "Aynı sure içinde geçen bu ayet aynı 'tevella' kökünü taşır; 33. ayetteki yüz çevirme tavrının kimin tavrı olduğuna dair bir ipucu verir."
+  },
+  {
+   "ref": "32:22",
+   "meal": "Kendisine Rabbinin ayetleri hatırlatılıp da sonra bunlardan yüz çeviren kimseden daha zalim kim olabilir?",
+   "baglanti": "Bu ayet, hatırlatmadan yüz çevirmenin ne denli ağır bir tavır olduğunu, sonucuyla birlikte gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir iyilikten vazgeçip yüz çeviren kişinin tavrıdır. Bu, dini ya da dünyevi herhangi bir sorumluluktan kaçınmaya da uyarlanabilir bir örnektir.",
+  "Günlük hayatta bir söz verip sonra nedensiz vazgeçmek ya da başlanan bir iyiliği yarıda bırakmak sık karşılaşılan bir durumdur. Ayet, bu tür tutarsızlığın fark edilir ve hesabı sorulur bir şey olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yarım bıraktığın bir iyiliği tamamla",
+   "aciklama": "Başlayıp bıraktığın bir yardımı veya sözü bugün tekrar ele al."
+  },
+  {
+   "baslik": "Vazgeçme sebebini kendine sor",
+   "aciklama": "Bir işten vazgeçtiysen, bunun gerçek bir sebep mi yoksa bahane mi olduğuna dürüstçe bak."
+  },
+  {
+   "baslik": "Gördüğünü unutma",
+   "aciklama": "Kimse görmese de yaptığın ve yapmadığın şeyin Allah tarafından görüldüğünü hatırla."
+  }
+ ],
+ "bugununAdimi": "Yarım bıraktığın bir sözü veya iyiliği bugün tamamlamak için bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=33"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/33"
+  }
+ ]
+}

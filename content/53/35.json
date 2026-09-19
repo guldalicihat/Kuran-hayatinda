@@ -1,0 +1,89 @@
+{
+ "sure": 53,
+ "ayet": 35,
+ "durum": "taslak",
+ "meal": "Gaybın bilgisi yanında da mı, o da görüyor mu?",
+ "mealNotu": "'Gayb' kökü, duyularla ve bilgiyle ulaşılamayan, örtülü olanı anlatır. Ayet, yüz çeviren kişinin görünmeyeni bildiğini iddia ederek tavrını meşrulaştırmaya çalıştığını soru kipiyle sorgular.",
+ "kokler": [
+  {
+   "kelime": "أَعِندَهُۥ",
+   "okunus": "eindehû",
+   "kok": "عند",
+   "kokAnlam": "yan, kat, nezd",
+   "karsilik": "yanında mı"
+  },
+  {
+   "kelime": "عِلْمُ",
+   "okunus": "ilmü",
+   "kok": "علم",
+   "kokAnlam": "bilme, bilgi",
+   "karsilik": "bilgisi"
+  },
+  {
+   "kelime": "ٱلْغَيْبِ",
+   "okunus": "elgaybi",
+   "kok": "غيب",
+   "kokAnlam": "gizli olma, görünmeme",
+   "karsilik": "gaybın"
+  },
+  {
+   "kelime": "فَهُوَ",
+   "okunus": "fehüve",
+   "kok": "—",
+   "kokAnlam": "(bağlaç + zamir) öyleyse o",
+   "karsilik": "da o"
+  },
+  {
+   "kelime": "يَرَىٰٓ",
+   "okunus": "yerâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görüyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 33-34. ayetlerde tanımlanan kişinin tavrının arkasındaki iddiayı sorgular: gaybı bildiğini mi düşünüyor da bu şekilde davranıyor? 'Ğayb' kökü, insanın kendi imkânlarıyla ulaşamayacağı, örtülü bilgiyi anlatır.",
+  "Kur'an'da tekrarlanan bir ilke, gaybın bilgisinin yalnız Allah'a ait olduğudur. Bu ayet, bir kişinin kendi tavrını -sanki sonucunu biliyormuş gibi- gaybi bir bilgiye dayandırmasını eleştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:59",
+   "meal": "Gaybın anahtarları O'nun katındadır, onları O'ndan başkası bilmez.",
+   "baglanti": "Bu ayet, 35. ayetteki soruya doğrudan cevap verir: gaybın bilgisi yalnız Allah'a aittir."
+  },
+  {
+   "ref": "27:65",
+   "meal": "De ki: Göklerde ve yerde olanlar gaybı bilmez, ancak Allah bilir.",
+   "baglanti": "Bu ayet de aynı ilkeyi, hiçbir yaratılmışın gaybı bilemeyeceğini açıkça belirterek pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, gaybı bilme iddiasıdır. Günlük hayatta bunun karşılığı, bilmediğimiz bir konuda kesin konuşmak ya da geleceği bildiğimizi varsayarak karar vermektir.",
+  "Bir işin sonucunu bilmediğin hâlde bildiğini varsaymak, hem yanlış kararlara hem de büyüklenmeye yol açar. Ayet, sınırlarını bilmenin de bir erdem olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilmediğini kabul et",
+   "aciklama": "Emin olmadığın bir konuda bugün kesin bir iddiada bulunmak yerine 'bilmiyorum' demeyi dene."
+  },
+  {
+   "baslik": "Geleceği garanti sayma",
+   "aciklama": "Bir planı, sonucunu kesin biliyormuş gibi değil, elinden geleni yapıp sonucu Allah'a bırakarak yürüt."
+  },
+  {
+   "baslik": "Emin olmadan hüküm verme",
+   "aciklama": "Bir kişi ya da olay hakkında yorum yapmadan önce elindeki bilginin ne kadar sağlam olduğunu düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün emin olmadığın bir konuda kesin konuşmak yerine bilmediğini açıkça söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=35"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/35"
+  }
+ ]
+}

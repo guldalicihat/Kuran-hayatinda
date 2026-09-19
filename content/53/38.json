@@ -1,0 +1,89 @@
+{
+ "sure": 53,
+ "ayet": 38,
+ "durum": "taslak",
+ "meal": "Hiçbir günahkâr, başkasının günah yükünü yüklenmez.",
+ "mealNotu": "'Vizr' kökü ağır bir yükü, burada günahın yükünü anlatır; 'vâzira' aynı kökten, yük taşıyan kişiyi ifade eder. Ayet, bireysel sorumluluk ilkesini açık ve kesin bir dille koyar.",
+ "kokler": [
+  {
+   "kelime": "أَلَّا",
+   "okunus": "ellâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki ... değildir",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "تَزِرُ",
+   "okunus": "teziru",
+   "kok": "وزر",
+   "kokAnlam": "ağır yük taşıma",
+   "karsilik": "yüklenmez"
+  },
+  {
+   "kelime": "وَازِرَةٌ",
+   "okunus": "vâziratün",
+   "kok": "وزر",
+   "kokAnlam": "yük taşıyan, günahkâr kimse",
+   "karsilik": "hiçbir günahkâr"
+  },
+  {
+   "kelime": "وِزْرَ",
+   "okunus": "vizra",
+   "kok": "وزر",
+   "kokAnlam": "ağır yük, günah",
+   "karsilik": "günah yükünü"
+  },
+  {
+   "kelime": "أُخْرَىٰ",
+   "okunus": "ührâ",
+   "kok": "أخر",
+   "kokAnlam": "başka, diğer",
+   "karsilik": "başkasının"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Kur'an'da birkaç kez tekrarlanan, çok bilinen ve önemli bir ilkeyi koyar: hiç kimse başkasının günahından sorumlu tutulmaz. 'Vizr' kökü ağır bir yükü anlatır; burada bu yük, kişinin kendi işlediği günahtır.",
+  "Bu ilke, bireysel sorumluluğun temelidir. Bir kişi ne kadar günahkâr olursa olsun, bu yükü bir başkasına devredemez; kimse de bir başkasının günahını üstlenerek onu hafifletemez. Ayet, sorumluluğun devredilemeyeceğini kesin bir dille bildirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:15",
+   "meal": "Kim doğru yolu bulursa kendi iyiliği için bulmuş olur; kim de saparsa kendi aleyhine sapmış olur. Hiçbir günahkâr başkasının günah yükünü yüklenmez.",
+   "baglanti": "Bu ayet, Necm 38'deki ifadeyi neredeyse aynı kelimelerle tekrarlar ve bireysel sorumluluk ilkesini pekiştirir."
+  },
+  {
+   "ref": "35:18",
+   "meal": "Hiçbir günahkâr başkasının günah yükünü yüklenmez. Yükü ağır olan biri onu taşımaya çağırsa bile, yakını da olsa ondan hiçbir şey yüklenilmez.",
+   "baglanti": "Bu ayet aynı ilkeyi, en yakın akraba için bile geçerli olduğunu ekleyerek genişletir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kişinin günah sorumluluğunun kendine ait olmasıdır. Bu ilke, hem ahiretteki hesap hem de dünyadaki adalet anlayışı için temel bir ölçüdür.",
+  "Günlük hayatta bu ilke, başkasının hatasını kendi üstüne almamayı, ama kendi hatasını da başkasına yıkmamayı öğretir. Kişi kendi seçimlerinin sorumluluğunu taşır; bu hem bir yük hem de bir özgürlüktür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendi hatanı üstlen",
+   "aciklama": "Bugün yaptığın bir hatayı başkasına yıkmadan açıkça kabul et."
+  },
+  {
+   "baslik": "Başkasının suçunu ona bırak",
+   "aciklama": "Senin olmayan bir hatanın sorumluluğunu üzerine alıp gereksiz suçluluk taşıma."
+  },
+  {
+   "baslik": "Karar verirken bunu hatırla",
+   "aciklama": "Bir işi yaparken, sonucunun hesabını başka kimsenin değil senin vereceğini unutma."
+  }
+ ],
+ "bugununAdimi": "Bugün kendine ait bir sorumluluğu, başkasına yıkmadan üstlen.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=38"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/38"
+  }
+ ]
+}
