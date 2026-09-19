@@ -1,0 +1,110 @@
+{
+ "sure": 52,
+ "ayet": 32,
+ "durum": "taslak",
+ "meal": "Yoksa bunu akılları mı emrediyor, yoksa onlar azgın bir topluluk mu?",
+ "mealNotu": "'Ahlâm' kökü (حلم) hem akıl hem rüya anlamına gelir; burada akıl anlamındadır. Ayet, tutarsız suçlamalarının kaynağının akıl mı yoksa azgınlık mı olduğunu sorar.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "yoksa (bağlaç)",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "تَأْمُرُهُمْ",
+   "okunus": "te'müruhüm",
+   "kok": "أمر",
+   "kokAnlam": "emretme, buyurma",
+   "karsilik": "emrediyor"
+  },
+  {
+   "kelime": "أَحْلَٰمُهُم",
+   "okunus": "ahlâmühüm",
+   "kok": "حلم",
+   "kokAnlam": "akıl, olgunluk",
+   "karsilik": "akılları"
+  },
+  {
+   "kelime": "بِهَٰذَآ",
+   "okunus": "bihâzâ",
+   "kok": "—",
+   "kokAnlam": "işaret: bununla",
+   "karsilik": "bunu"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "yoksa (bağlaç)",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "zamir: onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "قَوْمٌ",
+   "okunus": "kavmün",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "bir topluluk"
+  },
+  {
+   "kelime": "طَاغُونَ",
+   "okunus": "tâğûne",
+   "kok": "طغي",
+   "kokAnlam": "azgınlık, haddi aşma",
+   "karsilik": "azgın"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayetten itibaren sure, müşriklerin tutarsız iddialarını sıra sıra sorgulayan bir üsluba geçer. İlk soru, onların Peygamber'e yönelttiği çelişkili suçlamaların (kâhin, deli, şair) kaynağını sorar: bu tutarsızlığı akılları mı emrediyor, yoksa asıl sebep akıl değil de bir azgınlık, haddi aşma hali mi?",
+  "Soru, aslında bir cevabı da içinde barındırır: tutarlı bir akıl, aynı kişiyi aynı anda hem kâhin hem deli hem şair olarak nitelemez. Klasik tefsir bu ayeti, müşriklerin itirazlarının akli bir temele değil, inatçı bir direnişe dayandığını gösteren bir uyarı olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:44",
+   "meal": "Yoksa sen onların çoğunun işittiğini yahut akıllarını kullandığını mı sanıyorsun? Onlar hayvanlar gibidir, hatta yolca daha da şaşkındırlar.",
+   "baglanti": "Furkân suresi de aynı şekilde akıl kullanmama halini eleştirir; 52:32'deki 'akılları mı emrediyor' sorusunun cevabı burada daha açık verilir."
+  },
+  {
+   "ref": "68:36",
+   "meal": "Size ne oluyor, nasıl hüküm veriyorsunuz?",
+   "baglanti": "Kalem suresindeki bu soru da benzer bir üslupla, karşı tarafın tutarsız değerlendirmesini sorgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, müşriklerin Peygamber'e yönelik çelişkili suçlamalarının akılla değil inatla açıklanabileceğidir; bu doğrudan tarihi bir tartışma bağlamıdır.",
+  "Genel bir ders olarak buradan, bir görüşü savunurken tutarlılığın önemi çıkarılabilir. İnsan bazen bir şeye karşı çıkmak için birbirini tutmayan gerekçeler sıralar; bu, aslında sağlam bir akıl yürütmeden çok inatçı bir direncin işaretidir. Kendi düşüncemizi gözden geçirirken bu tutarlılığa dikkat etmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tutarlılığını sına",
+   "aciklama": "Bugün bir konudaki görüşünü, birbirini tutan gerekçelerle savunabiliyor musun kontrol et."
+  },
+  {
+   "baslik": "İnadı akılla karıştırma",
+   "aciklama": "Bugün bir tartışmada, sadece karşı çıkmak için değil gerçekten haklı olduğun için ısrar et."
+  },
+  {
+   "baslik": "Kendi çelişkini gör",
+   "aciklama": "Bugün bir konuda kendi söylediklerinin birbiriyle çelişip çelişmediğine bak."
+  }
+ ],
+ "bugununAdimi": "Bugün savunduğun bir görüşü, gerekçelerinin tutarlı olup olmadığını kontrol ederek gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=32"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/52/32"
+  }
+ ]
+}

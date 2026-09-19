@@ -1,0 +1,96 @@
+{
+ "sure": 52,
+ "ayet": 33,
+ "durum": "taslak",
+ "meal": "Yoksa 'Onu kendisi uydurdu' mu diyorlar? Hayır, onlar iman etmiyorlar.",
+ "mealNotu": "'Tekavvele' kökü (قول) 'kendiliğinden söz uydurma' anlamına gelir; 'bel' (hayır, aksine) ile başlayan ikinci cümle, asıl sorunun uydurma iddiası değil iman etmeme olduğunu ortaya koyar.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "yoksa (bağlaç)",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "يَقُولُونَ",
+   "okunus": "yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "diyorlar"
+  },
+  {
+   "kelime": "تَقَوَّلَهُۥ",
+   "okunus": "tekavvelehû",
+   "kok": "قول",
+   "kokAnlam": "kendiliğinden söz uydurma",
+   "karsilik": "onu kendisi uydurdu"
+  },
+  {
+   "kelime": "بَل",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "aksine, hayır (idrak)",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma, iman",
+   "karsilik": "iman ediyorlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki soru müşriklerin tutarsız suçlamalarının kaynağını sorgulamıştı; bu ayet doğrudan en ağır iddialardan birini ele alır: Kur'an'ı Peygamber'in kendisinin uydurduğu iddiası. Ayet bu iddiayı soru biçiminde aktarıp hemen ardından asıl sorunu ortaya koyar.",
+  "'Bel lâ yü'minûne' (hayır, onlar iman etmiyorlar) ifadesi, meselenin aslında bir delil eksikliği olmadığını gösterir. Uydurma iddiası, inanmamak için öne sürülen bir gerekçedir; asıl sebep ise kalplerindeki inanmama halidir. Klasik tefsir, bu ayeti müşriklerin itirazlarının çoğunun arkasında akli değil, iradi bir direnişin yattığına işaret olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "25:4",
+   "meal": "İnkâr edenler dediler ki: Bu, ancak onun uydurduğu bir yalandır; ona bu konuda başka bir topluluk da yardım etmiştir. Böylece onlar haksızlık ve iftiraya cüret ettiler.",
+   "baglanti": "Furkân suresinde de aynı 'uydurma' iddiası dile getirilir; burada iddianın kendisinin bir haksızlık olduğu vurgulanır."
+  },
+  {
+   "ref": "46:8",
+   "meal": "Yoksa 'Onu kendisi uydurdu' mu diyorlar? De ki: Eğer onu ben uydurmuşsam, Allah'a karşı bana hiçbir fayda sağlayamazsınız.",
+   "baglanti": "Ahkâf suresinde aynı suçlama, neredeyse aynı kelimelerle geçer; Peygamber'in bu iddiaya verdiği cevap orada açıkça belirtilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Kur'an'a yöneltilen 'uydurma' iddiası ve bunun arkasındaki asıl nedendir; bu doğrudan bir vahiy tartışmasıdır.",
+  "Buradan çıkan genel ders, bir gerçeği reddetmek isteyen kişinin bazen gerekçeyi değil, önce reddi seçtiğidir. Bir konuda ikna olmamak, çoğu zaman delil eksikliğinden değil, kabul etmek istememekten kaynaklanır. Bu, kendi direncimizi sorgularken hatırlanması gereken bir noktadır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gerekçeni sorgula",
+   "aciklama": "Bugün bir şeyi reddederken, gerçek sebebinin delil mi yoksa isteksizlik mi olduğuna bak."
+  },
+  {
+   "baslik": "Önyargıyı fark et",
+   "aciklama": "Bugün bir konuda önce karar verip sonra gerekçe aramadığından emin ol."
+  },
+  {
+   "baslik": "Açık kalple dinle",
+   "aciklama": "Bugün katılmadığın bir görüşü, hemen reddetmeden önce dikkatle dinle."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konudaki direncinin gerçek sebebini kendine dürüstçe sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=33"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/52/33"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "sure": 52,
+ "ayet": 36,
+ "durum": "taslak",
+ "meal": "Yoksa gökleri ve yeri onlar mı yarattı? Hayır, onlar kesin bilgiyle inanmıyorlar.",
+ "mealNotu": "'Yûkınûn' kökü (يقن) şüpheye yer bırakmayan kesin bir bilgiyi anlatır; ayet, sorunun bilgi eksikliğinden değil bu kesinliğe ulaşmamaktan kaynaklandığını vurgular.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "yoksa (bağlaç)",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "خَلَقُوا۟",
+   "okunus": "halekû",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yarattılar"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "gökleri"
+  },
+  {
+   "kelime": "وَٱلْأَرْضَ",
+   "okunus": "vel erda",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yeri"
+  },
+  {
+   "kelime": "بَل",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "aksine, hayır (idrak)",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "-"
+  },
+  {
+   "kelime": "يُوقِنُونَ",
+   "okunus": "yûkınûne",
+   "kok": "يقن",
+   "kokAnlam": "kesin bilgi, şüphesiz inanma",
+   "karsilik": "kesin bilgiyle inanmıyorlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette kendi yaratılışları sorgulanan müşriklere burada daha büyük bir ölçek sunulur: gökler ve yer. Eğer kendi varlıklarını açıklayamıyorlarsa, bütün evreni yaratmış olmaları hiç mümkün değildir. Soru, onları kendi iddialarının saçmalığıyla yüzleştirir.",
+  "Ayetin sonundaki 'hayır, onlar kesin bilgiyle inanmıyorlar' cümlesi, meselenin akıl yürütme eksikliği değil, ulaşılan bilgiyi kesin bir imana dönüştürememe olduğunu gösterir. Klasik tefsir, 'yakîn'i şüphenin tamamen ortadan kalktığı bir inanç düzeyi olarak açıklar; müşrikler delili görseler bile bu düzeye ulaşmamayı tercih etmişlerdir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "21:30",
+   "meal": "İnkâr edenler görmediler mi ki, göklerle yer bitişik bir halde iken biz onları ayırdık ve her canlı şeyi sudan yarattık? Hâlâ inanmıyorlar mı?",
+   "baglanti": "Enbiyâ suresi, aynı göklerin ve yerin yaratılışı delilini, ayrıca hayatın sudan yaratılışıyla birlikte sunar."
+  },
+  {
+   "ref": "31:25",
+   "meal": "Andolsun, onlara 'Gökleri ve yeri kim yarattı?' diye sorsan, mutlaka 'Allah' derler.",
+   "baglanti": "Lokmân suresi, aynı sorunun müşriklerin kendi ağzından bile 'Allah' cevabını aldığını gösterir; 52:36'daki retorik soru burada tarihi bir itirafla doğrulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan göklerin ve yerin yaratılışı ve bunun bilinmesiyle iman arasındaki farktır; bu itikadi bir konudur.",
+  "Buradan çıkan ders, bilmekle inanmanın aynı şey olmadığıdır. Birçok insan bir gerçeği bilir ama onu hayatına yön veren bir kesinliğe dönüştürmez. Bilgiyi, günlük kararları etkileyen bir kesinliğe taşımak, sadece kabul etmekten daha ileri bir adımdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilgini kesinliğe taşı",
+   "aciklama": "Bugün doğru olduğunu bildiğin ama uygulamadığın bir şeyi, bugün hayata geçir."
+  },
+  {
+   "baslik": "Gökyüzüne bak",
+   "aciklama": "Bugün bir an gökyüzüne bakıp bunun tesadüf olamayacağını düşün."
+  },
+  {
+   "baslik": "Şüpheni netliğe çevir",
+   "aciklama": "Bugün ertelediğin bir kararı, kesin bir sonuca bağlamaya çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün doğru olduğunu bildiğin ama ertelediğin bir şeyi, şüphesiz bir kararlılıkla yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=36"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/52/36"
+  }
+ ]
+}

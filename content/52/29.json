@@ -1,0 +1,110 @@
+{
+ "sure": 52,
+ "ayet": 29,
+ "durum": "taslak",
+ "meal": "(Ey Peygamber!) Öğüt ver; sen, Rabbinin nimeti sayesinde ne bir kâhinsin ne de bir delisin.",
+ "mealNotu": "'Kâhin' kökü (كهن) gaipten haber verdiğini iddia edeni, 'mecnûn' kökü (جنن) ise akli dengesini yitirdiği düşünülen kişiyi anlatır; ayet bu iki suçlamayı birlikte reddeder.",
+ "kokler": [
+  {
+   "kelime": "فَذَكِّرْ",
+   "okunus": "fezekkir",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlatma, öğüt verme",
+   "karsilik": "öğüt ver"
+  },
+  {
+   "kelime": "فَمَآ",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk: değilsin",
+   "karsilik": "değilsin"
+  },
+  {
+   "kelime": "أَنتَ",
+   "okunus": "ente",
+   "kok": "—",
+   "kokAnlam": "zamir: sen",
+   "karsilik": "sen"
+  },
+  {
+   "kelime": "بِنِعْمَتِ",
+   "okunus": "bini'meti",
+   "kok": "نعم",
+   "kokAnlam": "nimet, lütuf",
+   "karsilik": "nimeti sayesinde"
+  },
+  {
+   "kelime": "رَبِّكَ",
+   "okunus": "rabbike",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye",
+   "karsilik": "Rabbinin"
+  },
+  {
+   "kelime": "بِكَاهِنٍ",
+   "okunus": "bikâhinin",
+   "kok": "كهن",
+   "kokAnlam": "gaipten haber verdiğini iddia etme",
+   "karsilik": "kâhin"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk: ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "مَجْنُونٍ",
+   "okunus": "mecnûnin",
+   "kok": "جنن",
+   "kokAnlam": "cin çarpması, akıl bozukluğu; deli",
+   "karsilik": "deli"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayetle sure, cennet ehlinin sözlerinden Peygamber'e yönelik doğrudan bir hitaba geçer. Peygamber'e, tebliğine devam etmesi (öğüt vermesi) emredilirken, ona yöneltilen iki temel suçlama -kâhinlik ve delilik- tek cümlede reddedilir.",
+  "'Rabbinin nimeti sayesinde' ifadesi, bu reddin Peygamber'in kendi gücünden değil, Allah'ın ona verdiği akıl, tutarlılık ve doğrulukla geldiğini gösterir. Klasik tefsir, Mekke döneminde müşriklerin Peygamber'i açıklayamadıkları vahiy karşısında sırayla kâhin, şair, deli gibi sıfatlarla nitelemeye çalıştığını, bu ayetin bunlardan ikisine birden cevap verdiğini belirtir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:2",
+   "meal": "Sen, Rabbinin nimeti sayesinde deli değilsin.",
+   "baglanti": "Kalem suresinin açılışındaki bu ayet, neredeyse aynı kelimelerle aynı suçlamayı reddeder; iki sure aynı savunmayı farklı bağlamlarda tekrarlar."
+  },
+  {
+   "ref": "81:22",
+   "meal": "Arkadaşınız (Muhammed) deli değildir.",
+   "baglanti": "Tekvîr suresi de aynı iddiayı doğrudan reddeder; Peygamber'in akıl sağlığına yönelik suçlama Kur'an'da birden fazla yerde cevaplanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan Peygamber'e yöneltilen tarihsel bir suçlama ve bunun reddidir; bu, herkes için genelleştirilebilecek bir durum değildir.",
+  "Yine de buradan çıkan genel bir ders var: doğru bir söz söylerken karşındakinin anlayamadığı, açıklayamadığı bir şeyi kolayca yaftalamaya çalışması yeni bir durum değildir. Görevini bilerek yapan biri, anlaşılmasa da yoluna devam etmelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yaftaya takılma",
+   "aciklama": "Bugün haklı olduğun bir konuda, birinin seni kolayca etiketlemesine takılmadan devam et."
+  },
+  {
+   "baslik": "Görevini hatırlat",
+   "aciklama": "Bugün yapman gereken bir öğüdü, tepki çekse de nazikçe söylemekten çekinme."
+  },
+  {
+   "baslik": "Sağlam durana güven",
+   "aciklama": "Bugün emin olduğun bir doğruyu, başkasının anlamamasından etkilenmeden savun."
+  }
+ ],
+ "bugununAdimi": "Bugün doğru bildiğin bir şeyi, yanlış anlaşılma korkusuyla söylemekten vazgeçme.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=29"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/52/29"
+  }
+ ]
+}

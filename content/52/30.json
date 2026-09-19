@@ -1,0 +1,103 @@
+{
+ "sure": 52,
+ "ayet": 30,
+ "durum": "taslak",
+ "meal": "Yoksa 'O bir şairdir; zamanın felaketlerini ona getirsin diye bekliyoruz' mu diyorlar?",
+ "mealNotu": "'Reybe'l-menûn' ifadesi kelime kelime 'zamanın kuşkulu belası' anlamına gelir; burada ölümü ve zamanın getirdiği felaketleri bekleme anlamında bir deyim olarak 'zamanın felaketleri' şeklinde karşılanmıştır.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "yoksa (bağlaç)",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "يَقُولُونَ",
+   "okunus": "yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "diyorlar"
+  },
+  {
+   "kelime": "شَاعِرٌ",
+   "okunus": "şâirun",
+   "kok": "شعر",
+   "kokAnlam": "şiir söyleme, sezme",
+   "karsilik": "bir şairdir"
+  },
+  {
+   "kelime": "نَّتَرَبَّصُ",
+   "okunus": "neterabbesu",
+   "kok": "ربص",
+   "kokAnlam": "bekleme, gözetleme",
+   "karsilik": "bekliyoruz"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "zamir: ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "رَيْبَ",
+   "okunus": "raybe",
+   "kok": "ريب",
+   "kokAnlam": "şüphe, kuşkulu bela",
+   "karsilik": "felaketlerini"
+  },
+  {
+   "kelime": "ٱلْمَنُونِ",
+   "okunus": "elmenûni",
+   "kok": "منن",
+   "kokAnlam": "zamanın akışı, ölüm",
+   "karsilik": "zamanın"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette Peygamber'e yöneltilen kâhinlik ve delilik suçlamaları reddedildikten sonra bu ayette üçüncü bir suçlama gündeme gelir: şairlik. Müşrikler, Peygamber'in vahyini bir şiir gibi görüp onun başına zamanla bir felaket geleceğini, yani ölümüyle bu işin biteceğini bekleme tavrı içindedir.",
+  "'Reybe'l-menûn' deyimi, zamanın getirdiği belirsiz felaketleri, özellikle ölümü işaret eder. Bu, müşriklerin vahye karşı akli bir itiraz getiremeyip beklemeyi bir strateji olarak seçtiklerini gösterir; sanki zaman geçtikçe mesele kendiliğinden ortadan kalkacakmış gibi bir tavırdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "21:5",
+   "meal": "Hayır, dediler; bunlar karma karışık rüyalardır. Hayır, onu kendisi uydurdu. Hayır, o bir şairdir.",
+   "baglanti": "Enbiyâ suresinde de aynı 'şair' suçlaması, kararsız ve birbiriyle çelişen diğer iddialarla birlikte sayılır."
+  },
+  {
+   "ref": "36:69",
+   "meal": "Biz ona şiir öğretmedik; bu ona yakışmaz da. O, ancak bir öğüt ve apaçık bir Kur'an'dır.",
+   "baglanti": "Yâsîn suresi aynı suçlamayı doğrudan reddeder; Kur'an'ın şiirden farklı bir öğüt ve apaçık bir söz olduğunu vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Peygamber'e yöneltilen tarihsel bir itham ve bunun arkasındaki 'bekle görelim' tavrıdır; bu doğrudan bir tebliğ tartışmasıdır.",
+  "Buradan çıkarılabilecek genel bir ders, bir gerçeği kabul etmemek için bazen açık bir itiraz yerine sessizce beklemenin tercih edilmesidir. Bu tavır bugün de karşılaşılabilecek bir savunma biçimidir: cevap vermek yerine görmezden gelip zamanın kendiliğinden unutturmasını beklemek."
+ ],
+ "bugun": [
+  {
+   "baslik": "Beklemeyi bahane etme",
+   "aciklama": "Bugün karar vermen gereken bir konuda, 'zaman gösterir' diyerek erteleme."
+  },
+  {
+   "baslik": "Gerçeği görmezden gelme",
+   "aciklama": "Bugün doğruluğunu bildiğin bir şeyi, rahatsız edici diye yok saymaktan kaçın."
+  },
+  {
+   "baslik": "Sabırla doğruyu söyle",
+   "aciklama": "Bugün bir konuda haklı olduğun halde anlaşılmıyorsan, sakince tekrar açıkla."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir kararı, 'zaman gösterir' demeden şimdi ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=30"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/52/30"
+  }
+ ]
+}

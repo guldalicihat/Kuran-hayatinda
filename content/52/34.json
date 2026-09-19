@@ -1,0 +1,96 @@
+{
+ "sure": 52,
+ "ayet": 34,
+ "durum": "taslak",
+ "meal": "Eğer doğru sözlü iseler, onun benzeri bir söz getirsinler.",
+ "mealNotu": "'Hadîs' kökü (حدث) burada 'söz' anlamındadır; ayet, bir önceki ayetteki uydurma iddiasını somut bir teklifle sınar: iddia doğruysa, benzerini getirmeleri istenir.",
+ "kokler": [
+  {
+   "kelime": "فَلْيَأْتُوا۟",
+   "okunus": "felye'tû",
+   "kok": "أتي",
+   "kokAnlam": "gelme, getirme",
+   "karsilik": "getirsinler"
+  },
+  {
+   "kelime": "بِحَدِيثٍ",
+   "okunus": "bihadîsin",
+   "kok": "حدث",
+   "kokAnlam": "söz, haber",
+   "karsilik": "bir söz"
+  },
+  {
+   "kelime": "مِّثْلِهِۦٓ",
+   "okunus": "mislihî",
+   "kok": "مثل",
+   "kokAnlam": "benzer, denk",
+   "karsilik": "onun benzeri"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "eğer (şart)",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseler"
+  },
+  {
+   "kelime": "صَٰدِقِينَ",
+   "okunus": "sâdikîne",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, dürüstlük",
+   "karsilik": "doğru sözlü"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette müşriklerin 'onu kendisi uydurdu' iddiası dile getirilmişti. Bu ayet o iddiaya somut bir meydan okumayla cevap verir: eğer Kur'an gerçekten bir insan sözüyse ve onlar bu iddiada haklıysa, aynı nitelikte bir söz getirmeleri kolay olmalıdır.",
+  "Bu meydan okuma, Kur'an'da birkaç yerde tekrarlanan ve genellikle 'i'câzü'l-Kur'an' (Kur'an'ın benzersizliği) olarak adlandırılan bir temaya girer. Klasik tefsir, bu tür ayetleri, iddiayı sözle değil somut bir denemeyle test etme çağrısı olarak açıklar; itiraz sahiplerinden beklenen, konuşmak değil göstermektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:23",
+   "meal": "Eğer kulumuza indirdiğimizden şüphede iseniz, haydi onun benzeri bir sûre getirin ve eğer doğru sözlü iseniz Allah'tan başka şahitlerinizi de çağırın.",
+   "baglanti": "Bakara suresindeki bu ayet, aynı meydan okumayı 'sâdikîn' (doğru sözlü) ifadesiyle birlikte, daha ayrıntılı biçimde tekrarlar."
+  },
+  {
+   "ref": "17:88",
+   "meal": "De ki: Andolsun, bu Kur'an'ın bir benzerini getirmek üzere insanlar ve cinler bir araya gelseler, birbirlerine destek de olsalar, yine onun benzerini getiremezler.",
+   "baglanti": "İsrâ suresi aynı meydan okumayı daha geniş bir çerçevede, insan ve cin topluluğunun tamamını kapsayacak şekilde tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan Kur'an'a yönelik bir iddiayı test eden tarihsel bir meydan okumadır; bu özel bir vahiy tartışması alanıdır.",
+  "Buradan çıkan genel ders, iddia ile ispat arasındaki farktır. Bir şeyi kolayca söylemek, onu gerçekten yapabilmekten farklıdır. Günlük hayatta da bir iddiada bulunmadan önce onu gerçekten karşılayıp karşılayamayacağımızı düşünmek, sözümüzün kıymetini korur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Söz ile eylemi ölç",
+   "aciklama": "Bugün söylediğin bir iddiayı, gerçekten yapabileceğin bir şeyle destekle."
+  },
+  {
+   "baslik": "Kolay eleştiriden kaçın",
+   "aciklama": "Bugün bir işi eleştirirken, kendinin onu daha iyi yapıp yapamayacağını da düşün."
+  },
+  {
+   "baslik": "Değerini fark et",
+   "aciklama": "Bugün elindeki benzersiz bir imkânın (yeteneğin, fırsatın) kıymetini bir cümleyle kendine hatırlat."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda ileri sürdüğün bir iddiayı, somut bir adımla destekle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=34"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/52/34"
+  }
+ ]
+}

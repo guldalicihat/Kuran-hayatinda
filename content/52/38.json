@@ -1,0 +1,117 @@
+{
+ "sure": 52,
+ "ayet": 38,
+ "durum": "taslak",
+ "meal": "Yoksa onların, üzerine çıkıp (gaybı) dinledikleri bir merdivenleri mi var? Öyleyse dinleyenleri apaçık bir delil getirsin.",
+ "mealNotu": "'Süllem' kökü (سلم) tırmanılan bir merdiveni anlatır; ayet somut bir imkânsızlıkla, göğe çıkıp gaybı dinleme iddiasının hiçbir dayanağı olmadığını gösterir.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "yoksa (bağlaç)",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "zamir: onların",
+   "karsilik": "onların"
+  },
+  {
+   "kelime": "سُلَّمٌ",
+   "okunus": "süllemün",
+   "kok": "سلم",
+   "kokAnlam": "merdiven, tırmanma aracı",
+   "karsilik": "bir merdivenleri"
+  },
+  {
+   "kelime": "يَسْتَمِعُونَ",
+   "okunus": "yestemiûne",
+   "kok": "سمع",
+   "kokAnlam": "işitme, dinleme",
+   "karsilik": "dinledikleri"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "onun üzerinde (edat)",
+   "karsilik": "onun üzerinde"
+  },
+  {
+   "kelime": "فَلْيَأْتِ",
+   "okunus": "felye'ti",
+   "kok": "أتي",
+   "kokAnlam": "gelme, getirme",
+   "karsilik": "getirsin"
+  },
+  {
+   "kelime": "مُسْتَمِعُهُم",
+   "okunus": "müstemiuhüm",
+   "kok": "سمع",
+   "kokAnlam": "işitme, dinleme",
+   "karsilik": "dinleyenleri"
+  },
+  {
+   "kelime": "بِسُلْطَٰنٍ",
+   "okunus": "bisültânin",
+   "kok": "سلط",
+   "kokAnlam": "güç, açık delil, yetki",
+   "karsilik": "apaçık bir delil"
+  },
+  {
+   "kelime": "مُّبِينٍ",
+   "okunus": "mübînin",
+   "kok": "بين",
+   "kokAnlam": "açıklık, belli olma",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette evrenin hazinelerine sahip olmadıkları hatırlatılan müşriklere burada başka bir imkânsızlık sorulur: göğe çıkıp gayp bilgisi dinleyecekleri bir merdivenleri mi var? Bu soru, onların gayb hakkında konuşurken hangi kaynağa dayandıklarını sorgular.",
+  "Ayet, alaycı değil ayetin kendi mantık örgüsü içinde ilerler: eğer böyle bir iddiaları varsa, bunu destekleyecek apaçık bir delil getirmeleri istenir. Klasik tefsir bu ayeti, gaybe dair konuşan herkesin bir dayanak göstermesi gerektiğine, aksi halde bu sözlerin boş bir iddiadan ibaret kalacağına işaret olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:35",
+   "meal": "...eğer gücün yeterse, yerde bir delik ya da gökte bir merdiven arayıp onlara bir mucize getirsen (yine iman etmezler).",
+   "baglanti": "En'âm suresinde aynı 'süllem' (merdiven) kelimesi geçer; burada imkânsız bir çabanın bile onları ikna etmeyeceği vurgulanır."
+  },
+  {
+   "ref": "15:18",
+   "meal": "Ancak kulak hırsızlığı yapan olursa, onu da parlak bir alev izler.",
+   "baglanti": "Hicr suresi, göğe ait bilgiyi çalmaya çalışanların (şeytanların) bile engellendiğini anlatır; 52:38'deki 'göğe çıkıp dinleme' iddiasının imkânsızlığını farklı bir açıdan destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan gayb bilgisi iddiasının dayanaksızlığıdır; bu itikadi bir konudur.",
+  "Buradan çıkan genel ders, dayanaksız bir iddiada bulunmadan önce elimizde gerçekten bir delil olup olmadığını sormaktır. Bilmediğimiz bir şey hakkında kesin konuşmak, çoğu zaman kibrin bir işaretidir; bilmiyorum diyebilmek daha dürüst bir tavırdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilmediğini kabul et",
+   "aciklama": "Bugün emin olmadığın bir konuda, tahminini kesin bilgi gibi sunmaktan kaçın."
+  },
+  {
+   "baslik": "Delilsiz iddiada bulunma",
+   "aciklama": "Bugün bir iddia öne sürerken, onu destekleyecek somut bir gerekçe düşün."
+  },
+  {
+   "baslik": "Dedikoduya mesafe koy",
+   "aciklama": "Bugün bilmediğin bir konuda, dayanaksız bir söylentiyi aktarmaktan çekin."
+  }
+ ],
+ "bugununAdimi": "Bugün bilmediğin bir konuda, 'bilmiyorum' demeyi tercih et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=38"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/52/38"
+  }
+ ]
+}
