@@ -1,0 +1,117 @@
+{
+ "sure": 41,
+ "ayet": 41,
+ "durum": "taslak",
+ "meal": "Kendilerine geldiğinde bu Zikr'i (Kur'an'ı) inkâr edenler var ya... Şüphesiz o, çok değerli bir kitaptır.",
+ "mealNotu": "'Zikr' kökü ذكر, hem 'hatırlatma' hem Kur'an'ın isimlerinden biridir. 'Azîz' kökü عزز, hem 'değerli' hem 'güçlü, karşı konulamaz' anlamı taşır; ilk cümle klasik tefsirde bir hazif (anlamdan tamamlanan eksik cümle) olarak açıklanır.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "inkâr ettiler"
+  },
+  {
+   "kelime": "بِٱلذِّكْرِ",
+   "okunus": "biz zikri",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlama, anma",
+   "karsilik": "Zikr'i"
+  },
+  {
+   "kelime": "لَمَّا",
+   "okunus": "lemmâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "kendilerine geldiğinde"
+  },
+  {
+   "kelime": "جَآءَهُمْ",
+   "okunus": "câehüm",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "kendilerine geldiğinde"
+  },
+  {
+   "kelime": "وَإِنَّهُۥ",
+   "okunus": "ve innehû",
+   "kok": "—",
+   "kokAnlam": "(tekid) ve şüphesiz o",
+   "karsilik": "ve şüphesiz o"
+  },
+  {
+   "kelime": "لَكِتَٰبٌ",
+   "okunus": "lekitâbün",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "elbette bir kitaptır"
+  },
+  {
+   "kelime": "عَزِيزٌ",
+   "okunus": "azîzün",
+   "kok": "عزز",
+   "kokAnlam": "güç, izzet, ulaşılmazlık",
+   "karsilik": "değerli"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, kendilerine ulaştığında Kur'an'ı inkâr edenleri anar; cümle burada yarım bırakılmış gibi görünür (klasik tefsir bunu bir hazif olarak açıklar) ve doğrudan o kitabın kendi değerine dönülür: o, aziz bir kitaptır.",
+  "'Aziz' sıfatı, Kur'an'ın hem değerli hem de karşı konulamaz, bozulmaya dirençli olduğunu anlatır. Bu, sonraki ayette (42) açılacak olan 'batılın ona ulaşamaması' fikrinin girişidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:9",
+   "meal": "Şüphesiz o Zikr'i (Kur'an'ı) biz indirdik; onun koruyucusu da elbette biziz.",
+   "baglanti": "Aynı 'zikr' kelimesi burada da Kur'an için kullanılır; koruma vaadi, 41:41'deki 'aziz' sıfatının gerekçesidir."
+  },
+  {
+   "ref": "56:77",
+   "meal": "Şüphesiz o, değerli bir Kur'an'dır.",
+   "baglanti": "Kur'an'ın değerli/aziz olarak nitelendirilmesi burada da tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin konusu doğrudan Kur'an'ın değeri ve inkârcıların ona karşı tavrıdır.",
+  "Günlük ders, elindeki bu kitaba 'aziz' (değerli, güçlü) sıfatına yakışır bir ilgiyle yaklaşmaktır; onu sıradanlaştırmamak."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugün bir sayfa oku",
+   "aciklama": "Kur'an'dan kısa bir bölüm oku ve anlamı üzerinde birkaç dakika düşün."
+  },
+  {
+   "baslik": "Değerini hatırla",
+   "aciklama": "Elindeki mushafı ya da uygulamayı bugün özenle, dikkatle kullan."
+  },
+  {
+   "baslik": "Direnci fark et",
+   "aciklama": "Kur'an'daki bir ayete karşı içinde bir direnç hissedersen, önce onu anlamaya çalış, hemen reddetme."
+  }
+ ],
+ "bugununAdimi": "Bugün Kur'an'dan bir sayfa oku ve bir cümlesini not al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=41&verse=41"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/41/41"
+  }
+ ]
+}

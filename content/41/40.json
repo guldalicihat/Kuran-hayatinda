@@ -1,0 +1,236 @@
+{
+ "sure": 41,
+ "ayet": 40,
+ "durum": "taslak",
+ "meal": "Ayetlerimiz hakkında çarpıtma yapanlar, bize gizli kalmazlar. Ateşe atılan mı daha hayırlıdır, yoksa kıyamet günü güven içinde gelen mi? Dilediğinizi yapın; şüphesiz O, yaptıklarınızı hakkıyla görendir.",
+ "mealNotu": "'Yülhidûn' kökü لحد, aslında 'eğilme, yamultma' anlamındadır; burada ayetleri çarpıtma/yanlış yorumlama anlamında kullanılır. 'Ateşe atılan' ve 'güvenle gelen' karşılaştırması ayetin kendi retorik sorusudur, ekleme değildir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "يُلْحِدُونَ",
+   "okunus": "yülhidûne",
+   "kok": "لحد",
+   "kokAnlam": "eğilme, sapma; çarpıtma",
+   "karsilik": "çarpıtma yaparlar"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de/hakkında",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "ءَايَٰتِنَا",
+   "okunus": "âyâtinâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, gösterge, ayet",
+   "karsilik": "ayetlerimiz"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mazlar",
+   "karsilik": "-mazlar"
+  },
+  {
+   "kelime": "يَخْفَوْنَ",
+   "okunus": "yahfevne",
+   "kok": "خفي",
+   "kokAnlam": "gizlenme",
+   "karsilik": "gizli kalmazlar"
+  },
+  {
+   "kelime": "عَلَيْنَآ",
+   "okunus": "aleynâ",
+   "kok": "—",
+   "kokAnlam": "(edat) bize",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "أَفَمَن",
+   "okunus": "efemen",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimse mi",
+   "karsilik": "-mı kimse"
+  },
+  {
+   "kelime": "يُلْقَىٰ",
+   "okunus": "yülkâ",
+   "kok": "لقي",
+   "kokAnlam": "atılma, karşılaşma",
+   "karsilik": "atılan"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلنَّارِ",
+   "okunus": "ennâri",
+   "kok": "نور",
+   "kokAnlam": "ışık; alevlenen ateş",
+   "karsilik": "ateşe"
+  },
+  {
+   "kelime": "خَيْرٌ",
+   "okunus": "hayrun",
+   "kok": "خير",
+   "kokAnlam": "hayır, iyilik",
+   "karsilik": "daha hayırlı"
+  },
+  {
+   "kelime": "أَم",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "مَّن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimse",
+   "karsilik": "kimse"
+  },
+  {
+   "kelime": "يَأْتِىٓ",
+   "okunus": "ye'tî",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "gelen"
+  },
+  {
+   "kelime": "ءَامِنًا",
+   "okunus": "âminen",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet",
+   "karsilik": "güvenli olarak"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "ٱلْقِيَٰمَةِ",
+   "okunus": "elkıyâmeti",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, kıyam",
+   "karsilik": "kıyamet"
+  },
+  {
+   "kelime": "ٱعْمَلُوا۟",
+   "okunus": "umelû",
+   "kok": "عمل",
+   "kokAnlam": "eylem, iş yapma",
+   "karsilik": "yapın"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "شِئْتُمْ",
+   "okunus": "şi'tüm",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilediğiniz"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz O",
+   "karsilik": "şüphesiz O"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "yaptıklarınızı"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "eylem, iş yapma",
+   "karsilik": "yaptıklarınızı"
+  },
+  {
+   "kelime": "بَصِيرٌ",
+   "okunus": "besîrun",
+   "kok": "بصر",
+   "kokAnlam": "görme",
+   "karsilik": "hakkıyla görendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Allah'ın ayetlerini çarpıtanların bu çabasının Allah'tan gizli kalmadığını söyler. Ardından çarpıcı bir karşılaştırma yapılır: ateşe atılacak biri mi, yoksa kıyamette güven içinde gelecek biri mi daha iyidir?",
+  "'Dilediğinizi yapın' ifadesi bir tehdit-serbestlik üslubudur; klasik tefsir bunu insana tanınan bir seçim hakkı ama sonucun hesabının görüleceği bir uyarı olarak açıklar. Ayet 'O, yaptıklarınızı hakkıyla görür' diyerek biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:5",
+   "meal": "Yerde ve gökte hiçbir şey Allah'a gizli kalmaz.",
+   "baglanti": "Aynı 'gizli kalma' kökü burada da geçer; 41:40'taki 'bize gizli kalmazlar' ifadesini genel bir ilke olarak pekiştirir."
+  },
+  {
+   "ref": "99:8",
+   "meal": "Kim de zerre miktarı kötülük yapmışsa onu görür.",
+   "baglanti": "Amellerin karşılıksız kalmayacağı fikri, 41:40'taki 'yaptıklarınızı hakkıyla görür' ifadesiyle örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayetin konusu doğrudan ahiret hesabı ve amellerin görülmesidir.",
+  "Günlük ders, gizli yaptığını sandığın bir şeyin aslında görüldüğü bilincidir. Bu bilinç hem caydırıcı hem teselli edicidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Görülmediğini sandığın anı hatırla",
+   "aciklama": "Bugün kimsenin görmediği bir anda doğru olanı yap."
+  },
+  {
+   "baslik": "İki sonucu tart",
+   "aciklama": "Bir seçim yaparken bugün 'bu beni hangi sona götürür' diye sor."
+  },
+  {
+   "baslik": "Amelini gözden geçir",
+   "aciklama": "Akşam, bugün yaptığın işlerden pişman olacağın bir şey olup olmadığına bak."
+  }
+ ],
+ "bugununAdimi": "Bugün kimsenin görmediği bir anda, sanki görülüyormuş gibi davran.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=41&verse=40"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/41/40"
+  }
+ ]
+}
