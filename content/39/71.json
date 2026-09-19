@@ -1,0 +1,292 @@
+{
+ "sure": 39,
+ "ayet": 71,
+ "durum": "taslak",
+ "meal": "İnkâr edenler bölük bölük cehenneme sürülür. Oraya vardıklarında kapıları açılır ve bekçileri onlara: 'İçinizden size Rabbinizin ayetlerini okuyan ve bugüne kavuşacağınızı size haber veren peygamberler gelmedi mi?' der. Onlar: 'Evet, geldi' derler; fakat azap sözü inkârcılar üzerine hak olmuştur.",
+ "mealNotu": "'Zümer' kökü (زمر) bölük, grup, topluluk anlamındadır; surenin adı da bu kelimeden gelir. 'Hazenetühâ' kökü (خزن) koruma, saklama kökünden gelir, burada kapı bekçilerini ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَسِيقَ",
+   "okunus": "ve sîka",
+   "kok": "سوق",
+   "kokAnlam": "sürme, sevk etme",
+   "karsilik": "sürülür"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "كَفَرُوٓا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "inkâr edenler"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "جَهَنَّمَ",
+   "okunus": "cehenneme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) cehennem",
+   "karsilik": "cehenneme"
+  },
+  {
+   "kelime": "زُمَرًا",
+   "okunus": "zümeran",
+   "kok": "زمر",
+   "kokAnlam": "bölük, grup, topluluk",
+   "karsilik": "bölük bölük"
+  },
+  {
+   "kelime": "حَتَّىٰٓ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(başlangıç) nihayet",
+   "karsilik": "nihayet"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "vardıklarında"
+  },
+  {
+   "kelime": "جَآءُوهَا",
+   "okunus": "câûhâ",
+   "kok": "جيأ",
+   "kokAnlam": "gelme, varma",
+   "karsilik": "oraya vardıklarında"
+  },
+  {
+   "kelime": "فُتِحَتْ",
+   "okunus": "fütihat",
+   "kok": "فتح",
+   "kokAnlam": "açma",
+   "karsilik": "açılır"
+  },
+  {
+   "kelime": "أَبْوَٰبُهَا",
+   "okunus": "ebvâbühâ",
+   "kok": "بوب",
+   "kokAnlam": "kapı",
+   "karsilik": "kapıları"
+  },
+  {
+   "kelime": "وَقَالَ",
+   "okunus": "ve kâle",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "der"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "خَزَنَتُهَآ",
+   "okunus": "hazenetühâ",
+   "kok": "خزن",
+   "kokAnlam": "koruma, saklama",
+   "karsilik": "bekçileri"
+  },
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) gelmedi mi",
+   "karsilik": "gelmedi mi"
+  },
+  {
+   "kelime": "يَأْتِكُمْ",
+   "okunus": "ye'tiküm",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "size gelmedi mi"
+  },
+  {
+   "kelime": "رُسُلٌ",
+   "okunus": "rusülün",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçilik",
+   "karsilik": "peygamberler"
+  },
+  {
+   "kelime": "مِّنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat) içinizden",
+   "karsilik": "içinizden"
+  },
+  {
+   "kelime": "يَتْلُونَ",
+   "okunus": "yetlûne",
+   "kok": "تلو",
+   "kokAnlam": "okuma, ardınca gelme",
+   "karsilik": "okuyan"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "ءَايَٰتِ",
+   "okunus": "âyâti",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "ayetlerini"
+  },
+  {
+   "kelime": "رَبِّكُمْ",
+   "okunus": "rabbiküm",
+   "kok": "ربب",
+   "kokAnlam": "terbiye etme, Rab",
+   "karsilik": "Rabbinizin"
+  },
+  {
+   "kelime": "وَيُنذِرُونَكُمْ",
+   "okunus": "ve yünzirûneküm",
+   "kok": "نذر",
+   "kokAnlam": "uyarma",
+   "karsilik": "ve sizi uyaran"
+  },
+  {
+   "kelime": "لِقَآءَ",
+   "okunus": "likâe",
+   "kok": "لقي",
+   "kokAnlam": "kavuşma, karşılaşma",
+   "karsilik": "kavuşacağınızı"
+  },
+  {
+   "kelime": "يَوْمِكُمْ",
+   "okunus": "yevmiküm",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gününüze"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "بَلَىٰ",
+   "okunus": "belâ",
+   "kok": "—",
+   "kokAnlam": "(cevap) evet",
+   "karsilik": "evet"
+  },
+  {
+   "kelime": "وَلَٰكِنْ",
+   "okunus": "ve lâkin",
+   "kok": "—",
+   "kokAnlam": "(düzeltme) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "حَقَّتْ",
+   "okunus": "hakkat",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçeklik, gerçekleşme",
+   "karsilik": "hak olmuştur"
+  },
+  {
+   "kelime": "كَلِمَةُ",
+   "okunus": "kelimetü",
+   "kok": "كلم",
+   "kokAnlam": "söz, kelime",
+   "karsilik": "sözü"
+  },
+  {
+   "kelime": "ٱلْعَذَابِ",
+   "okunus": "el'azâbi",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "azap"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلْكَٰفِرِينَ",
+   "okunus": "elkâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "inkârcılar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayet (70) herkese amelinin karşılığının eksiksiz verileceğini söylemişti; bu ayet inkâr edenlerin bu karşılığı nasıl aldığını, cehenneme bölükler halinde sürülüşlerini tasvir eder.",
+  "Bekçilerin sorusu ve inkârcıların 'evet, geldi' cevabı, uyarının kendilerine gerçekten ulaştığını, ama buna rağmen inkâr ettiklerini itiraf ettirir. Klasik tefsir bu diyaloğu, kıyamette mazeret üretmenin mümkün olmadığını gösteren bir sahne olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "67:8",
+   "meal": "Cehennem neredeyse öfkeden çatlayacak gibi olur. Bekçileri onlara: Size bir uyarıcı gelmedi mi? diye sorar. Onlar: Evet, bize bir uyarıcı geldi, ama biz yalanladık, derler.",
+   "baglanti": "Neredeyse birebir aynı diyalog yapısını taşıyan bu ayet, 39:71'deki bekçi-inkârcı konuşmasını başka bir sureden doğrular."
+  },
+  {
+   "ref": "6:130",
+   "meal": "Ey cin ve insan topluluğu! İçinizden size ayetlerimi anlatan ve bu gününüzle sizi uyaran peygamberler gelmedi mi? derler: Evet, kendi aleyhimize şahitlik ederiz.",
+   "baglanti": "Neredeyse aynı soru cümlesini ('size peygamberler gelmedi mi') taşıyan bu ayet, 39:71'in bir başka suredeki paraleli niteliğindedir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu kıyamette inkârcıların cehenneme sevkidir; bu bir ahiret sahnesidir.",
+  "Bugüne taşınabilecek ders, kendine ulaşan bir doğruyu 'bana kimse söylemedi' diye reddetmemek, uyarı ve öğütlere kulak vermektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ulaşan bir öğüdü not al",
+   "aciklama": "Bugün sana ulaşan bir hatırlatmayı, 'zaten biliyordum' deyip geçmeden bir kenara yaz."
+  },
+  {
+   "baslik": "Mazeret üretme alışkanlığını fark et",
+   "aciklama": "Bir konuda 'kimse söylemedi' dediğin bir şeyi, aslında bildiğini kabul et."
+  },
+  {
+   "baslik": "Uyarıyı ciddiye al",
+   "aciklama": "Bugün, ileride hesabını vereceğin bir konuda şimdiden düzelt."
+  }
+ ],
+ "bugununAdimi": "Bugün sana ulaşmış ama önemsemediğin bir öğüdü, kenara atmadan bir kez ciddiye al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=71"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/39/71"
+  }
+ ]
+}

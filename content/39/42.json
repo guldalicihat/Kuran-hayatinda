@@ -1,0 +1,236 @@
+{
+ "sure": 39,
+ "ayet": 42,
+ "durum": "taslak",
+ "meal": "Allah, ölümleri anında canları alır; ölmemiş olanınkini de uykusunda alır. Sonra üzerine ölümü hükmettiğini tutar, diğerini ise belirlenmiş bir süreye kadar salıverir. Şüphesiz bunda düşünen bir topluluk için ayetler vardır.",
+ "mealNotu": "'Teveffâ' kökü (وفي) eksiksiz, tam olarak alma anlamı taşır; hem ölüm hem uyku için kullanılır. Ayet ikisi arasında dil düzeyinde bir benzerlik kurar, ayrıntıya girmez; canın nereye gittiği veya nasıl tutulduğuna dair bir tasvir eklenmemiştir.",
+ "kokler": [
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah özel adı",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَتَوَفَّى",
+   "okunus": "yeteveffâ",
+   "kok": "وفي",
+   "kokAnlam": "eksiksiz alma, canı alma",
+   "karsilik": "canları alır"
+  },
+  {
+   "kelime": "ٱلْأَنفُسَ",
+   "okunus": "el'enfüse",
+   "kok": "نفس",
+   "kokAnlam": "nefis, can",
+   "karsilik": "canları"
+  },
+  {
+   "kelime": "حِينَ",
+   "okunus": "hîne",
+   "kok": "حين",
+   "kokAnlam": "vakit, an",
+   "karsilik": "anında"
+  },
+  {
+   "kelime": "مَوْتِهَا",
+   "okunus": "mevtihâ",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölümü"
+  },
+  {
+   "kelime": "وَٱلَّتِى",
+   "okunus": "velletî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve olan",
+   "karsilik": "ve ölmemiş olanınkini"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "تَمُتْ",
+   "okunus": "temüt",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölmemiş"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "مَنَامِهَا",
+   "okunus": "menâmihâ",
+   "kok": "نوم",
+   "kokAnlam": "uyku",
+   "karsilik": "uykusunda"
+  },
+  {
+   "kelime": "فَيُمْسِكُ",
+   "okunus": "feyümsikü",
+   "kok": "مسك",
+   "kokAnlam": "tutma, alıkoyma",
+   "karsilik": "tutar"
+  },
+  {
+   "kelime": "ٱلَّتِى",
+   "okunus": "elletî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olanı",
+   "karsilik": "üzerine hükmettiğini"
+  },
+  {
+   "kelime": "قَضَىٰ",
+   "okunus": "kadâ",
+   "kok": "قضي",
+   "kokAnlam": "hükmetme, karar verme",
+   "karsilik": "hükmettiği"
+  },
+  {
+   "kelime": "عَلَيْهَا",
+   "okunus": "aleyhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلْمَوْتَ",
+   "okunus": "elmevte",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölümü"
+  },
+  {
+   "kelime": "وَيُرْسِلُ",
+   "okunus": "ve yürsilü",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, salıverme",
+   "karsilik": "salıverir"
+  },
+  {
+   "kelime": "ٱلْأُخْرَىٰٓ",
+   "okunus": "el'ührâ",
+   "kok": "أخر",
+   "kokAnlam": "diğer, öteki",
+   "karsilik": "diğerini"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "أَجَلٍ",
+   "okunus": "ecelin",
+   "kok": "أجل",
+   "kokAnlam": "belirlenmiş süre",
+   "karsilik": "bir süreye"
+  },
+  {
+   "kelime": "مُّسَمًّى",
+   "okunus": "müsemmen",
+   "kok": "سمو",
+   "kokAnlam": "adlandırma, belirleme",
+   "karsilik": "belirlenmiş"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu, şu",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "لَءَايَٰتٍ",
+   "okunus": "leâyâtin",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "ayetler vardır"
+  },
+  {
+   "kelime": "لِّقَوْمٍ",
+   "okunus": "likavmin",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "bir topluluk için"
+  },
+  {
+   "kelime": "يَتَفَكَّرُونَ",
+   "okunus": "yetefekkerûne",
+   "kok": "فكر",
+   "kokAnlam": "düşünme, tefekkür",
+   "karsilik": "düşünen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayet tebliğ sorumluluğundan bahsetmişti; bu ayet Allah'ın canlar üzerindeki tam yetkisine geçer. 'Teveffâ' kökü hem ölüm hem uyku için kullanılır; ayet uykuyu ölüme dilsel olarak benzetir ama ikisini birbirine eşitlemez.",
+  "Ölende Allah canı tutar ve geri vermez; uyuyanda ise belirlenmiş bir süreye (ecel) kadar salıverir, yani kişi uyanır. Klasik tefsir bunu, Allah'ın hayat, ölüm ve uyku üzerindeki mutlak tasarrufunun bir işareti olarak açıklar; ayet ruhun nereye gittiğine dair bir ayrıntı vermez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:60",
+   "meal": "O, geceleyin sizi öldürür (uyutur), gündüz ne yaptığınızı bilir; sonra belirlenmiş bir süre tamamlanınca sizi yine diriltir (uyandırır). Sonunda dönüşünüz O'nadır.",
+   "baglanti": "Aynı 'teveffâ' kökünü uyku için kullanarak, uyku-ölüm benzetmesini başka bir sureden doğrular."
+  },
+  {
+   "ref": "3:185",
+   "meal": "Her nefis ölümü tadacaktır.",
+   "baglanti": "Ayetin ilk yarısındaki ölüm gerçeğini, kısa ve kesin bir ilkeyle destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ölüm ve uyku üzerindeki ilahi tasarruftur; bu tıbbi ya da bilimsel bir açıklama değil, bir iman konusudur.",
+  "Bugüne taşınabilecek ders, her gece uyurken yaşanan bir tür teslimiyeti fark edebilmektir. Uyanmak, küçük bir yeniden başlangıç gibi görülebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yatmadan önce kısa bir öz değerlendirme yap",
+   "aciklama": "Bugün ne yaptığını kısaca gözden geçir; uyku, günü kapatan küçük bir mola gibidir."
+  },
+  {
+   "baslik": "Sabah uyanışını bir şükür anına çevir",
+   "aciklama": "Gözünü açtığında, güne yeniden başladığını fark ederek kısa bir şükür cümlesi kur."
+  },
+  {
+   "baslik": "Hayatın sonlu olduğunu bir kez hatırla",
+   "aciklama": "Bugün, bu dünyanın geçici olduğunu bir an düşün; bu seni önemli olana yönlendirir."
+  }
+ ],
+ "bugununAdimi": "Bu gece yatmadan önce, güne dair kısa bir öz değerlendirme yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=42"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/39/42"
+  }
+ ]
+}

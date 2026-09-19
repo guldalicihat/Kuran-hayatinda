@@ -1,0 +1,117 @@
+{
+ "sure": 39,
+ "ayet": 72,
+ "durum": "taslak",
+ "meal": "Onlara: 'İçinde ebedi kalmak üzere cehennemin kapılarından girin' denir. Büyüklük taslayanların yeri ne kötüdür!",
+ "mealNotu": "'Mütekebbirîn' kökü (كبر), 60. ayette de geçen 'büyüklük taslayanlar' ifadesiyle aynıdır; ayet, giriş sahnesini bu kişilerin akıbetiyle bağlar.",
+ "kokler": [
+  {
+   "kelime": "قِيلَ",
+   "okunus": "kîle",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "denir"
+  },
+  {
+   "kelime": "ٱدْخُلُوٓا۟",
+   "okunus": "udhulû",
+   "kok": "دخل",
+   "kokAnlam": "girme",
+   "karsilik": "girin"
+  },
+  {
+   "kelime": "أَبْوَٰبَ",
+   "okunus": "ebvâbe",
+   "kok": "بوب",
+   "kokAnlam": "kapı",
+   "karsilik": "kapılarından"
+  },
+  {
+   "kelime": "جَهَنَّمَ",
+   "okunus": "cehenneme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) cehennem",
+   "karsilik": "cehennemin"
+  },
+  {
+   "kelime": "خَٰلِدِينَ",
+   "okunus": "hâlidîne",
+   "kok": "خلد",
+   "kokAnlam": "kalıcılık, ebedilik",
+   "karsilik": "ebedi kalıcılar olarak"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "فَبِئْسَ",
+   "okunus": "febi'se",
+   "kok": "بأس",
+   "kokAnlam": "kötülük, fenalık",
+   "karsilik": "ne kötüdür"
+  },
+  {
+   "kelime": "مَثْوَى",
+   "okunus": "mesvâ",
+   "kok": "ثوي",
+   "kokAnlam": "barınma, kalma yeri",
+   "karsilik": "yeri"
+  },
+  {
+   "kelime": "ٱلْمُتَكَبِّرِينَ",
+   "okunus": "elmütekebbirîne",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük taslama",
+   "karsilik": "büyüklük taslayanların"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayet (71) inkâr edenlerin cehenneme sürülüşünü ve bekçilerle diyaloğunu anlatmıştı; bu ayet o sahnenin sonucunu, kapılardan girişi bildirir.",
+  "Ayet burada özellikle 'büyüklük taslayanlar' ifadesini kullanır; bu, 60. ve 65. ayetlerdeki kibir temasıyla bağlantılıdır. Klasik tefsir, kibrin inkârla birlikte sıkça anıldığını, çünkü kibrin çoğu zaman doğruyu kabul etmeyi engelleyen asıl sebep olduğunu belirtir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "40:76",
+   "meal": "Kapılarından, içinde ebedi kalmak üzere cehenneme girin. Büyüklük taslayanların yeri ne kötüdür!",
+   "baglanti": "Neredeyse birebir aynı ifadeyi taşıyan bu ayet, 39:72'yi başka bir sureden doğrudan tekrarlar."
+  },
+  {
+   "ref": "16:29",
+   "meal": "Öyleyse cehennemin kapılarından, içinde ebedi kalmak üzere girin. Büyüklük taslayanların yeri ne kötüdür!",
+   "baglanti": "Aynı kapanış cümlesini taşıyan bu ayet, ifadenin Kur'an'da tekrarlanan sabit bir formül olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu cehenneme girişin tasviridir; bir ahiret sahnesidir.",
+  "Bugüne taşınabilecek ders, kibrin kişiyi doğruyu kabul etmekten alıkoyan bir engel olduğunu bilip, günlük ilişkilerde alçakgönüllülüğü tercih etmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir özrü büyüklenmeden söyle",
+   "aciklama": "Bugün haksız olduğun bir konuda, gururunu bir kenara bırakıp özür dile."
+  },
+  {
+   "baslik": "Başkasının fikrine açık ol",
+   "aciklama": "Bir tartışmada, sadece kendi görüşünü değil karşındakinin de haklı olabileceğini düşün."
+  },
+  {
+   "baslik": "Kibri fark ettiğinde durdur",
+   "aciklama": "İçinde büyüklenme hissettiğin bir anda, bunu fark edip küçült."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda, büyüklenmeden geri adım atman gereken bir yerde bunu yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=72"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/39/72"
+  }
+ ]
+}

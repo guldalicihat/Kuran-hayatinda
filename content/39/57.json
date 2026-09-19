@@ -1,0 +1,117 @@
+{
+ "sure": 39,
+ "ayet": 57,
+ "durum": "taslak",
+ "meal": "Ya da 'Allah beni doğru yola iletseydi, elbette takva sahiplerinden olurdum' demesin.",
+ "mealNotu": "'Hedânî' kökü (هدي) doğru yola iletme anlamındadır. 'Müttekîn' kökü (وقي) korunma kökünden gelir, kendini kötülükten sakınanlar demektir.",
+ "kokler": [
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "تَقُولَ",
+   "okunus": "tekûle",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "demesin"
+  },
+  {
+   "kelime": "لَوْ",
+   "okunus": "lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah özel adı",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "هَدَىٰنِى",
+   "okunus": "hedânî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme",
+   "karsilik": "beni doğru yola iletseydi"
+  },
+  {
+   "kelime": "لَكُنتُ",
+   "okunus": "leküntü",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "elbette olurdum"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُتَّقِينَ",
+   "okunus": "elmüttekîne",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "takva sahiplerinden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 56. ayetteki pişmanlık sözlerinin ikincisidir. Burada kişi, sorumluluğu kendi tercihinden çıkarıp Allah'ın hidayet etmemesine bağlamaya çalışır.",
+  "Ayet bu sözü aktarır ama onaylamaz; bağlamı, kişinin kendi seçimlerinin sonucunu kabul etmek yerine mazeret üretmesini eleştirel biçimde gösterir. Klasik tefsir, 41. ayetteki 'kim doğru yola girerse kendi lehinedir, kim saparsa kendi aleyhinedir' ilkesiyle bu sözün çeliştiğini belirtir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "39:41",
+   "meal": "Kim doğru yola girerse kendi lehinedir, kim de saparsa kendi aleyhine sapmış olur.",
+   "baglanti": "Aynı surenin başındaki bu ilke, 57. ayetteki 'Allah beni iletmedi' mazeretinin surenin kendi mantığıyla çeliştiğini gösterir."
+  },
+  {
+   "ref": "6:148",
+   "meal": "Müşrikler diyecekler ki: Allah dileseydi ne biz ortak koşardık ne de atalarımız. De ki: Yanınızda bir bilgi var mı ki onu bize çıkarasınız? Siz ancak zanna uyuyorsunuz.",
+   "baglanti": "Sorumluluğu kadere yükleyen benzer bir mazeret örneğini, farklı bir sureden reddederek gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kişinin kendi tercihinin sonucunu başka bir sebebe yükleyerek sorumluluktan kaçma girişimidir.",
+  "Bugüne taşınabilecek ders, bir başarısızlığı ya da yanlışı dış sebeplere bağlamadan önce, kendi payını dürüstçe görmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Mazeret üretme, sorumluluk al",
+   "aciklama": "Bugün bir hatanı başka bir sebebe bağlamadan, kendi payını kabul et."
+  },
+  {
+   "baslik": "Elindeki fırsatı değerlendir",
+   "aciklama": "'Şartlar uygun olsaydı yapardım' dediğin bir şeyi, bugün mevcut şartlarla dene."
+  },
+  {
+   "baslik": "Kendini kandırma",
+   "aciklama": "İçten içe bildiğin bir gerçeği, kolay bir bahaneyle örtme."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda ürettiğin mazereti bırak ve elindeki şartlarla küçük bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=39&verse=57"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/39/57"
+  }
+ ]
+}
