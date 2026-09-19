@@ -1,0 +1,110 @@
+{
+ "sure": 28,
+ "ayet": 52,
+ "durum": "incelendi",
+ "meal": "Bundan önce kendilerine kitap verdiklerimiz, ona [Kur'an'a] iman ederler.",
+ "mealNotu": "'Ona' zamiri Kur'an'a işaret eder, bağlamdan anlaşıldığı için köşeli parantezle belirtildi.",
+ "kokler": [
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kendilerine ... olanlar",
+   "karsilik": "kendilerine ... verdiklerimiz"
+  },
+  {
+   "kelime": "ءَاتَيْنَٰهُمُ",
+   "okunus": "âteynâhümü",
+   "kok": "أتي",
+   "kokAnlam": "verme, ulaştırma",
+   "karsilik": "verdiğimiz"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazı, kitap",
+   "karsilik": "kitabı"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِهِۦ",
+   "okunus": "kablihî",
+   "kok": "قبل",
+   "kokAnlam": "önce, evvel",
+   "karsilik": "ondan önce"
+  },
+  {
+   "kelime": "هُم",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma, iman etme",
+   "karsilik": "iman ederler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Âyet, önceki bölümdeki inkârcı Mekkeli tepkinin tam tersi bir örneği verir: Kur'an'dan önce kendilerine kitap verilmiş olanlardan (Yahudi ve Hıristiyanlardan) bir kısmı, Kur'an geldiğinde ona iman eder. Bu, 48-50. âyetlerdeki inatçı reddin evrensel bir tutum olmadığını gösterir.",
+  "Bu iman, önceki kitaplardaki bilgiyle Kur'an'ın mesajı arasında bir tutarlılık gördükleri için gerçekleşir; sonraki âyetler (53-55) bu grubun tutumunu daha ayrıntılı anlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:199",
+   "meal": "Kitap ehlinden öyleleri var ki Allah'a, size indirilene ve kendilerine indirilene, Allah'a boyun eğerek iman ederler; Allah'ın âyetlerini az bir değere satmazlar.",
+   "baglanti": "Aynı grubu (Kur'an'a iman eden kitap ehli) daha ayrıntılı biçimde anlatır ve onların samimiyetini över."
+  },
+  {
+   "ref": "28:53",
+   "meal": "Kendilerine okununca 'Ona iman ettik, şüphesiz o Rabbimizden gelen haktır; biz zaten ondan önce de Müslümanlar idik' derler.",
+   "baglanti": "52. âyette adı geçen bu grubun sözlerini doğrudan aktararak konuyu genişletir."
+  }
+ ],
+ "gunlukHayat": [
+  "Âyetin konusu geçmiş kitap ehlinin Kur'an'a karşı tutumudur, tarihî bir bağlamdır. Genel ders, doğru bilgiye açık olan kişinin, önceki inancıyla çelişse bile gerçeği kabul edebilmesidir.",
+  "Günlük hayatta da elimize yeni, daha güvenilir bir bilgi ulaştığında eski kanaatimize inatla sarılmak yerine gerçeği tanımak, bu âyette övülen tutuma benzer bir olgunluktur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yeni bir bilgiye açık ol",
+   "aciklama": "Bugün eski bir kanaatinle çelişen ama daha güvenilir görünen bir bilgiyle karşılaşırsan inatla eskisinde ısrar etme."
+  },
+  {
+   "baslik": "Tutarlılığı ara",
+   "aciklama": "Bir konuda karar verirken, elindeki farklı bilgi kaynaklarının birbiriyle tutarlı olup olmadığına bak."
+  },
+  {
+   "baslik": "Doğruyu kabul etmekten çekinme",
+   "aciklama": "Bugün bir tartışmada haksız olduğunu fark edersen bunu açıkça kabul et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda fikrini değiştirmeni gerektiren bir bilgi görürsen, inat etmeden kabul et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=52"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/28/52"
+  }
+ ]
+}

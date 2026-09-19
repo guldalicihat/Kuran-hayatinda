@@ -1,0 +1,215 @@
+{
+ "sure": 28,
+ "ayet": 50,
+ "durum": "incelendi",
+ "meal": "Eğer sana cevap veremezlerse bil ki onlar sadece kendi arzularına uyuyorlar. Allah'tan bir yol gösterme olmaksızın kendi arzusuna uyandan daha sapık kim olabilir? Şüphesiz Allah, zalimler topluluğunu doğru yola iletmez.",
+ "mealNotu": "'Hevâ' kökü nefsin arzusunu, 'dalâl' kökünden 'edallü' ise en çok sapanı anlatır; Türkçede 'kendi arzusuna uyan' ifadesiyle karşılandı.",
+ "kokler": [
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi",
+   "karsilik": "-mezlerse"
+  },
+  {
+   "kelime": "يَسْتَجِيبُوا۟",
+   "okunus": "yestecîbû",
+   "kok": "جوب",
+   "kokAnlam": "cevap verme, karşılık verme",
+   "karsilik": "cevap veremezlerse"
+  },
+  {
+   "kelime": "لَكَ",
+   "okunus": "leke",
+   "kok": "—",
+   "kokAnlam": "(zamir) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "فَٱعْلَمْ",
+   "okunus": "felem",
+   "kok": "علم",
+   "kokAnlam": "bilme, öğrenme",
+   "karsilik": "bil ki"
+  },
+  {
+   "kelime": "أَنَّمَا",
+   "okunus": "ennemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ancak, sadece",
+   "karsilik": "sadece"
+  },
+  {
+   "kelime": "يَتَّبِعُونَ",
+   "okunus": "yettebiûne",
+   "kok": "تبع",
+   "kokAnlam": "tabi olma, uyma, ardınca gitme",
+   "karsilik": "uyuyorlar"
+  },
+  {
+   "kelime": "أَهْوَآءَهُمْ",
+   "okunus": "ehvâehüm",
+   "kok": "هوي",
+   "kokAnlam": "arzu, nefsin isteği",
+   "karsilik": "kendi arzularına"
+  },
+  {
+   "kelime": "وَمَنْ",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "أَضَلُّ",
+   "okunus": "edallü",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, yoldan çıkma",
+   "karsilik": "daha sapık"
+  },
+  {
+   "kelime": "مِمَّنِ",
+   "okunus": "mimmeni",
+   "kok": "—",
+   "kokAnlam": "(edat) -den, kimseden",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱتَّبَعَ",
+   "okunus": "ittebea",
+   "kok": "تبع",
+   "kokAnlam": "tabi olma, uyma, ardınca gitme",
+   "karsilik": "uyandan"
+  },
+  {
+   "kelime": "هَوَىٰهُ",
+   "okunus": "hevâhü",
+   "kok": "هوي",
+   "kokAnlam": "arzu, nefsin isteği",
+   "karsilik": "kendi arzusuna"
+  },
+  {
+   "kelime": "بِغَيْرِ",
+   "okunus": "biğayri",
+   "kok": "غير",
+   "kokAnlam": "-sız, başka",
+   "karsilik": "olmaksızın"
+  },
+  {
+   "kelime": "هُدًى",
+   "okunus": "hüden",
+   "kok": "هدي",
+   "kokAnlam": "doğru yol, hidayet",
+   "karsilik": "bir yol gösterme"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يَهْدِى",
+   "okunus": "yehdî",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme, hidayet verme",
+   "karsilik": "doğru yola iletmez"
+  },
+  {
+   "kelime": "ٱلْقَوْمَ",
+   "okunus": "elkavme",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "topluluğu"
+  },
+  {
+   "kelime": "ٱلظَّٰلِمِينَ",
+   "okunus": "ezzâlimîne",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık eden, zalim",
+   "karsilik": "zalim"
+  }
+ ],
+ "neAnlatiyor": [
+  "49. âyetteki meydan okuma (daha doğru bir kitap getirin) karşılıksız kalırsa, bu âyet sonucu açıklar: karşı taraf o zaman sadece kendi arzularına uyuyor demektir, gerçek bir delile değil. 'Hevâ' (nefsin arzusu) kökü, aklî bir gerekçeden çok isteğe göre hareket etmeyi anlatır.",
+  "Âyet, Allah'tan bir yol gösterme olmadan kendi arzusuna uyan kişiyi 'en sapık' olarak niteler ve zalimler topluluğunun hidayete erdirilmeyeceğini söyler. Burada 'zalim' kavramı, gerçeği bile bile reddeden kişiyi ifade eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "28:49",
+   "meal": "De ki: 'Eğer doğru sözlüyseniz, Allah katından bu ikisinden daha doğru yol gösteren bir kitap getirin de ben ona uyayım.'",
+   "baglanti": "Bu âyetteki 'sana cevap veremezlerse' ifadesi, hemen önceki âyetteki meydan okumanın doğal sonucudur."
+  },
+  {
+   "ref": "45:23",
+   "meal": "Kendi arzusunu ilah edineni gördün mü? Allah onu bir bilgi üzere saptırmıştır.",
+   "baglanti": "Aynı temayı (Allah'tan bir bilgi olmaksızın nefsin arzusuna uymanın sapkınlık olması) başka bir sûrede de doğrudan işler."
+  }
+ ],
+ "gunlukHayat": [
+  "Âyetin konusu Mekkelilerin inatçı itirazıdır; ama 'hevâ'ya (nefsin arzusuna) uyma teması evrenseldir. Bir görüşü delilsiz, sadece işine geldiği için savunmak günlük hayatta da sık görülen bir tutumdur.",
+  "Bir kararı verirken 'bunu neden istiyorum, gerçekten doğru mu yoksa sadece işime mi geliyor' diye sormak, bu âyetten çıkarılabilecek pratik bir sorgulamadır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir isteğini gerekçelendir",
+   "aciklama": "Bugün ısrarla istediğin bir şeyin, gerçek bir gerekçesi mi yoksa sadece canının çekmesi mi olduğunu ayırt et."
+  },
+  {
+   "baslik": "Nefsin ile delilini ayır",
+   "aciklama": "Bir tartışmada 'ben böyle istiyorum' ile 'bunun şu delili var' cümlelerini birbirine karıştırma."
+  },
+  {
+   "baslik": "Şeytanın/nefsin kolayına gitme",
+   "aciklama": "Bugün canının istediği ama doğru olmayan bir kısayolu seçmemeye çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün verdiğin bir kararı, 'bu gerçekten doğru mu yoksa sadece işime mi geliyor' diye tek cümleyle sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=28&verse=50"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/28/50"
+  }
+ ]
+}
