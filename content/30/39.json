@@ -1,0 +1,208 @@
+{
+ "sure": 30,
+ "ayet": 39,
+ "durum": "taslak",
+ "meal": "İnsanların malları içinde artsın diye faiz olarak verdiğiniz şey, Allah katında artmaz. Allah'ın rızasını isteyerek verdiğiniz zekât ise, işte onu verenler [sevaplarını] kat kat artıranlardır.",
+ "mealNotu": "'Yerbû' kökü (rbv) artma, büyümedir; hem faiz (ribâ) hem 'artma' fiili aynı kökten gelir, bu yüzden ayette bir ses ve anlam oyunu vardır: faiz artırmayı hedefler ama Allah katında artmaz. 'Müd'ifûn' kökü (dعf) kat kat katlama, çoğaltmadır; köşeli parantezle '[sevaplarını]' eklendi çünkü ayette neyin katlandığı açıkça belirtilmez.",
+ "kokler": [
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "ve şey",
+   "karsilik": "ve şey"
+  },
+  {
+   "kelime": "ءَاتَيْتُم",
+   "okunus": "âteytüm",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "verdiğiniz"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "olarak"
+  },
+  {
+   "kelime": "رِّبًا",
+   "okunus": "riben",
+   "kok": "ربو",
+   "kokAnlam": "artma, fazlalık, faiz",
+   "karsilik": "faiz"
+  },
+  {
+   "kelime": "لِّيَرْبُوَا۟",
+   "okunus": "liyerbüve",
+   "kok": "ربو",
+   "kokAnlam": "artma, büyüme",
+   "karsilik": "artsın diye"
+  },
+  {
+   "kelime": "فِىٓ",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "أَمْوَٰلِ",
+   "okunus": "emvâli",
+   "kok": "مول",
+   "kokAnlam": "mal, servet",
+   "karsilik": "malları"
+  },
+  {
+   "kelime": "ٱلنَّاسِ",
+   "okunus": "ennâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanların"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk",
+   "karsilik": "artmaz"
+  },
+  {
+   "kelime": "يَرْبُوا۟",
+   "okunus": "yerbû",
+   "kok": "ربو",
+   "kokAnlam": "artma",
+   "karsilik": "artmaz"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "yanında, katında",
+   "karsilik": "katında"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah, Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "ve şey",
+   "karsilik": "ve şey"
+  },
+  {
+   "kelime": "ءَاتَيْتُم",
+   "okunus": "âteytüm",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "verdiğiniz"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "olarak"
+  },
+  {
+   "kelime": "زَكَوٰةٍ",
+   "okunus": "zekâtin",
+   "kok": "زكو",
+   "kokAnlam": "arınma, temizlenme, zekât",
+   "karsilik": "zekât"
+  },
+  {
+   "kelime": "تُرِيدُونَ",
+   "okunus": "türîdûne",
+   "kok": "رود",
+   "kokAnlam": "isteme, arzulama",
+   "karsilik": "isteyerek"
+  },
+  {
+   "kelime": "وَجْهَ",
+   "okunus": "veche",
+   "kok": "وجه",
+   "kokAnlam": "yüz, rıza",
+   "karsilik": "yüzünü (rızasını)"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilah, Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَأُو۟لَٰٓئِكَ",
+   "okunus": "feülâike",
+   "kok": "—",
+   "kokAnlam": "işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "onlar",
+   "karsilik": "onlardır"
+  },
+  {
+   "kelime": "ٱلْمُضْعِفُونَ",
+   "okunus": "elmüd'ifûne",
+   "kok": "ضعف",
+   "kokAnlam": "kat kat katlama, çoğaltma",
+   "karsilik": "kat kat artıranlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, iki tür 'verme'yi karşılaştırır: insanların mallarında artsın diye verilen faiz ve Allah'ın rızası için verilen zekât. 'Rbv' kökü her ikisinde de geçer; faiz kelimenin sözlük anlamıyla 'artırmayı' hedefler ama Allah katında bir artış sağlamaz, oysa zekât asıl artışı getirir.",
+  "Ayet fıkhi bir faiz yasağı hükmü koymaktan çok, bir değer karşılaştırması yapar: insan gözünde kazanç gibi görünen faiz, Allah katında değersizdir; insan gözünde bir eksilme gibi görünen zekât ise, Allah katında kat kat çoğalır. Bu, dünya ölçüsüyle ahiret ölçüsünün farklı işlediğini gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:276",
+   "meal": "Allah faizi eksiltir, sadakaları ise bereketlendirir.",
+   "baglanti": "Aynı karşılaştırma -faizin eksilmesi, sadakanın artması- burada daha açık bir fiille tekrarlanır."
+  },
+  {
+   "ref": "2:261",
+   "meal": "Mallarını Allah yolunda harcayanların durumu, yedi başak bitiren bir tohum gibidir...",
+   "baglanti": "Zekât ve infakın 'kat kat artması' burada bir benzetmeyle somutlaştırılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, kazancı artırmanın iki yolunu karşılaştırır: başkasının parasından fazladan almak (faiz) ya da Allah rızası için vermek (zekât). Bu özel bir ekonomik-hukuki konudur; ayet burada fıkhi bir hüküm değil, bir değer ölçüsü sunar.",
+  "Bugün de insan, kazancını artırmanın en güvenli yolunun elinde tutmak veya faizle büyütmek olduğunu düşünebilir. Ayet, asıl büyümenin Allah rızası için verilen şeyde olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Niyetini gözden geçir",
+   "aciklama": "Bugün bir harcamanı veya birikimini, sadece kazanç mı yoksa rıza mı hedeflediğini düşünerek gözden geçir."
+  },
+  {
+   "baslik": "Küçük bir zekât/sadaka ver",
+   "aciklama": "Bugün elinden çıkan küçük bir yardımın, aslında bir eksilme değil bir çoğalma olduğunu hatırla."
+  },
+  {
+   "baslik": "Dünya ölçüsünü sorgula",
+   "aciklama": "Bugün 'kazanç' dediğin şeyin, Allah katında da bir kazanç olup olmadığını bir kez düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün, sırf artsın diye değil, Allah rızası için küçük bir yardımda bulun.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=39"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/30/39"
+  }
+ ]
+}

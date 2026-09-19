@@ -1,0 +1,117 @@
+{
+ "sure": 30,
+ "ayet": 44,
+ "durum": "taslak",
+ "meal": "Kim inkâr ederse, inkârı kendi aleyhinedir. Kim de salih amel işlerse, kendileri için [ahiretlerinde] yer hazırlamış olurlar.",
+ "mealNotu": "'Yemhedûn' kökü (mhd) yer düzleme, döşek hazırlama anlamındadır; burada salih amelin kişiye ahirette bir yer, bir döşek hazırladığı imgesi kullanılır. Köşeli parantezle '[ahiretlerinde]' eklendi çünkü bu, ayetin bağlamından (kıyamet günü ayeti) anlaşılan bir bilgidir.",
+ "kokler": [
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "كَفَرَ",
+   "okunus": "kefera",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr etme",
+   "karsilik": "inkâr ederse"
+  },
+  {
+   "kelime": "فَعَلَيْهِ",
+   "okunus": "fealeyhi",
+   "kok": "—",
+   "kokAnlam": "onun aleyhinedir",
+   "karsilik": "kendi aleyhinedir"
+  },
+  {
+   "kelime": "كُفْرُهُۥ",
+   "okunus": "küfruhû",
+   "kok": "كفر",
+   "kokAnlam": "inkâr, nankörlük",
+   "karsilik": "inkârı"
+  },
+  {
+   "kelime": "وَمَنْ",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "عَمِلَ",
+   "okunus": "amile",
+   "kok": "عمل",
+   "kokAnlam": "yapma, işleme, amel",
+   "karsilik": "işlerse"
+  },
+  {
+   "kelime": "صَٰلِحًا",
+   "okunus": "sâlihan",
+   "kok": "صلح",
+   "kokAnlam": "iyi, düzgün, yararlı",
+   "karsilik": "salih [amel]"
+  },
+  {
+   "kelime": "فَلِأَنفُسِهِمْ",
+   "okunus": "felienfüsihim",
+   "kok": "نفس",
+   "kokAnlam": "kendileri, nefisleri",
+   "karsilik": "kendileri için"
+  },
+  {
+   "kelime": "يَمْهَدُونَ",
+   "okunus": "yemhedûne",
+   "kok": "مهد",
+   "kokAnlam": "yer düzleme, döşek hazırlama",
+   "karsilik": "yer hazırlarlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetteki kıyamet gününün sonucunu netleştirir: inkârın zararı da salih amelin faydası da kişinin kendisinedir, başkasına dokunmaz. Bu, sorumluluğun kişisel olduğunu vurgulayan bir Kur'an ilkesidir.",
+  "'Yemhedûn' kökü, salih amel işleyenlerin kendilerine bir yer, bir zemin hazırladığı imgesini kullanır; sanki gelecekleri için şimdiden bir döşek sermektedirler. Bu imge, amelin sonucunun ahirette somut bir karşılığı olduğunu anlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "41:46",
+   "meal": "Kim salih amel işlerse kendi lehinedir; kim de kötülük yaparsa kendi aleyhinedir. Rabbin kullara zulmedici değildir.",
+   "baglanti": "Amelin sonucunun kişiye ait olduğu ilkesi, burada 'zulüm değildir' vurgusuyla pekiştirilir."
+  },
+  {
+   "ref": "17:15",
+   "meal": "Kim doğru yola girerse, ancak kendi lehine girmiş olur; kim de saparsa kendi aleyhine sapmış olur.",
+   "baglanti": "Hidayet ve sapmanın da kişisel sonucu olduğu, aynı ilkeyle burada tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, herkesin kendi amelinin sorumluluğunu taşıdığını hatırlatır. Başkasının inkârı veya günahı kişiyi etkilemez, kendi salih ameli de başkasına aktarılmaz.",
+  "Bugün insan bazen başkasının hatasından sorumlu hissedebilir ya da kendi iyiliğinin karşılığını hemen burada arayabilir. Ayet, herkesin kendi hesabını kendisinin vereceğini ve iyiliğin karşılığının ahirette hazır bir yer olarak bekleyeceğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendi hesabına bak",
+   "aciklama": "Bugün başkasının hatasıyla değil, kendi amelinle meşgul ol."
+  },
+  {
+   "baslik": "Küçük bir salih amel",
+   "aciklama": "Bugün küçük ama samimi bir iyilik yap; bunun kendi geleceğin için olduğunu bil."
+  },
+  {
+   "baslik": "Sorumluluğu kabul et",
+   "aciklama": "Bugün bir hatanı başkasına yıkmadan, kendi payını kabul et."
+  }
+ ],
+ "bugununAdimi": "Bugün yaptığın bir iyiliği, 'bu benim kendi yerim için' diyerek, karşılık beklemeden yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=44"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/30/44"
+  }
+ ]
+}

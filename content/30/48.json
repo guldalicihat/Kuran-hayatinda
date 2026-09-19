@@ -1,0 +1,250 @@
+{
+ "sure": 30,
+ "ayet": 48,
+ "durum": "taslak",
+ "meal": "Allah, rüzgârları gönderen, onlar da bulutu harekete geçirendir; derken onu dilediği gibi gökte yayar ve parça parça yapar; nihayet sen, aralarından yağmurun çıktığını görürsün. Onu kullarından dilediğine ulaştırınca, bir de bakarsın müjdelenmiş olurlar.",
+ "mealNotu": "'Tüsîru' kökü (svr) harekete geçirme, kaldırma; bulutun rüzgârla tahrik edilmesini anlatır. 'Yestebşirûn' kökü (bşr) sevinme, müjdelenmiş gibi mutlu olma anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah, Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "ki O",
+   "karsilik": "ki O"
+  },
+  {
+   "kelime": "يُرْسِلُ",
+   "okunus": "yürsilü",
+   "kok": "رسل",
+   "kokAnlam": "gönderme",
+   "karsilik": "gönderir"
+  },
+  {
+   "kelime": "ٱلرِّيَٰحَ",
+   "okunus": "erriyâha",
+   "kok": "روح",
+   "kokAnlam": "rüzgâr",
+   "karsilik": "rüzgârları"
+  },
+  {
+   "kelime": "فَتُثِيرُ",
+   "okunus": "fetüsîru",
+   "kok": "ثور",
+   "kokAnlam": "harekete geçirme, kaldırma",
+   "karsilik": "derken harekete geçirir"
+  },
+  {
+   "kelime": "سَحَابًا",
+   "okunus": "sehâben",
+   "kok": "سحب",
+   "kokAnlam": "bulut",
+   "karsilik": "bulutu"
+  },
+  {
+   "kelime": "فَيَبْسُطُهُۥ",
+   "okunus": "feyebsütuhû",
+   "kok": "بسط",
+   "kokAnlam": "yayma, açma",
+   "karsilik": "sonra onu yayar"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "gök, yükseklik",
+   "karsilik": "gökte"
+  },
+  {
+   "kelime": "كَيْفَ",
+   "okunus": "keyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "وَيَجْعَلُهُۥ",
+   "okunus": "ve yec'alühû",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "ve onu yapar"
+  },
+  {
+   "kelime": "كِسَفًا",
+   "okunus": "kisefen",
+   "kok": "كسف",
+   "kokAnlam": "parça, kesim",
+   "karsilik": "parça parça"
+  },
+  {
+   "kelime": "فَتَرَى",
+   "okunus": "feterâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "görürsün"
+  },
+  {
+   "kelime": "ٱلْوَدْقَ",
+   "okunus": "elvedka",
+   "kok": "ودق",
+   "kokAnlam": "yağmur",
+   "karsilik": "yağmurun"
+  },
+  {
+   "kelime": "يَخْرُجُ",
+   "okunus": "yahrucü",
+   "kok": "خرج",
+   "kokAnlam": "çıkma",
+   "karsilik": "çıktığını"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "خِلَٰلِهِۦ",
+   "okunus": "hılâlihî",
+   "kok": "خلل",
+   "kokAnlam": "ara, arasından",
+   "karsilik": "aralarından"
+  },
+  {
+   "kelime": "فَإِذَآ",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "olunca",
+   "karsilik": "olunca"
+  },
+  {
+   "kelime": "أَصَابَ",
+   "okunus": "esâbe",
+   "kok": "صوب",
+   "kokAnlam": "isabet ettirme, ulaştırma",
+   "karsilik": "ulaştırınca"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "onunla",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "kimseye",
+   "karsilik": "kimseye"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilediği"
+  },
+  {
+   "kelime": "مِنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "عِبَادِهِۦٓ",
+   "okunus": "ibâdihî",
+   "kok": "عبد",
+   "kokAnlam": "kul, kulluk eden",
+   "karsilik": "kullarından"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "sürpriz edatı",
+   "karsilik": "bir de bakarsın"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "يَسْتَبْشِرُونَ",
+   "okunus": "yestebşirûne",
+   "kok": "بشر",
+   "kokAnlam": "müjdelenmiş gibi sevinme",
+   "karsilik": "müjdelenmiş olurlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, yağmurun oluşum sürecini adım adım tasvir eder: rüzgâr gönderilir, bulutu harekete geçirir, bulut gökte yayılıp parçalanır, aralarından yağmur çıkar. Bu ayrıntılı tasvir, tabiattaki düzenin rastgele değil, ilahi bir işleyişle gerçekleştiğini gösterir.",
+  "Yağmurun ulaştığı kullar, onu bir müjde gibi karşılar; 'yestebşirûn' kökü bu sevinci anlatır. Ayet, kuru toprağa düşen yağmurun insanı sevindirmesiyle, ilerideki ayetlerde gelecek olan 'ölüleri diriltme' benzetmesine zemin hazırlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "35:9",
+   "meal": "Allah, rüzgârları gönderendir; onlar da bulutu kaldırır. Böylece biz onu ölü bir beldeye sevk eder ve onunla yeri ölümünden sonra diriltiriz.",
+   "baglanti": "Aynı yağmur süreci burada da tasvir edilir ve doğrudan 'diriltme' kelimesiyle ahirete bağlanır."
+  },
+  {
+   "ref": "25:48",
+   "meal": "Rüzgârları rahmetinin önünde müjdeci olarak gönderen O'dur; gökten tertemiz bir su indirdik.",
+   "baglanti": "Rüzgâr-bulut-yağmur zinciri, burada da aynı sırayla anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, yağmurun oluşumunu ayrıntılı anlatarak, sıradan bir doğa olayının arkasındaki hassas düzeni fark ettirir. Bu ayrıntı, tesadüfe değil, bir planlamaya işaret eder.",
+  "Bugün insan yağmuru sadece bir hava olayı olarak görebilir. Ayet, onu bir rahmet ve müjde olarak yeniden görmeyi, doğadaki her adımın bir hikmetle işlediğini fark etmeyi önerir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yağmuru gözlemle",
+   "aciklama": "Bugün yağmur yağarsa, oluşum sürecini bir an düşünüp bunun bir düzen olduğunu hatırla."
+  },
+  {
+   "baslik": "Sevinci Allah'a bağla",
+   "aciklama": "Bugün seni sevindiren bir şeyde, bunun bir rahmet olduğunu fark et."
+  },
+  {
+   "baslik": "Süreci fark et",
+   "aciklama": "Bugün her sonucun bir süreçten geçtiğini, aceleye getirilmediğini bir örnekle düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün gökyüzüne bir kez bakıp, bulutların ve havanın düzenli bir işleyişin parçası olduğunu düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=48"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/30/48"
+  }
+ ]
+}

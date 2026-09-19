@@ -1,0 +1,208 @@
+{
+ "sure": 30,
+ "ayet": 40,
+ "durum": "taslak",
+ "meal": "Allah, sizi yaratan, sonra sizi rızıklandıran, sonra sizi öldürecek, sonra sizi diriltecek olandır. Ortak koştuklarınızdan, bunlardan herhangi birini yapan var mı? O, onların ortak koştuklarından uzak ve yücedir.",
+ "mealNotu": "'Sübhânehû ve teâlâ' ifadesi (sbh - ulv köklerinden) Allah'ı her türlü eksiklik ve ortaktan tenzih etmeyi anlatır; klasik çeviride 'O, onların şirkinden münezzeh ve yücedir' şeklinde de geçer.",
+ "kokler": [
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah, Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "ki o",
+   "karsilik": "ki O"
+  },
+  {
+   "kelime": "خَلَقَكُمْ",
+   "okunus": "halekaküm",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "sizi yarattı"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "رَزَقَكُمْ",
+   "okunus": "razekaküm",
+   "kok": "رزق",
+   "kokAnlam": "rızık verme",
+   "karsilik": "sizi rızıklandırdı"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "يُمِيتُكُمْ",
+   "okunus": "yümîtüküm",
+   "kok": "موت",
+   "kokAnlam": "öldürme",
+   "karsilik": "sizi öldürecek"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "يُحْيِيكُمْ",
+   "okunus": "yühyîküm",
+   "kok": "حيي",
+   "kokAnlam": "diriltme, hayat verme",
+   "karsilik": "sizi diriltecek"
+  },
+  {
+   "kelime": "هَلْ",
+   "okunus": "hel",
+   "kok": "—",
+   "kokAnlam": "soru edatı",
+   "karsilik": "var mı"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "شُرَكَآئِكُم",
+   "okunus": "şürakâiküm",
+   "kok": "شرك",
+   "kokAnlam": "ortak",
+   "karsilik": "ortak koştuklarınızdan"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "يَفْعَلُ",
+   "okunus": "yef'alü",
+   "kok": "فعل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "yapan"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ذَٰلِكُم",
+   "okunus": "zâliküm",
+   "kok": "—",
+   "kokAnlam": "işte bu",
+   "karsilik": "bunlardan"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "سُبْحَٰنَهُۥ",
+   "okunus": "sübhânehû",
+   "kok": "سبح",
+   "kokAnlam": "tenzih etme, eksiklikten uzak tutma",
+   "karsilik": "O tenzihtir"
+  },
+  {
+   "kelime": "وَتَعَٰلَىٰ",
+   "okunus": "ve teâlâ",
+   "kok": "علو",
+   "kokAnlam": "yücelme, üstün olma",
+   "karsilik": "ve yücedir"
+  },
+  {
+   "kelime": "عَمَّا",
+   "okunus": "ammâ",
+   "kok": "—",
+   "kokAnlam": "şeyden",
+   "karsilik": "şeyden"
+  },
+  {
+   "kelime": "يُشْرِكُونَ",
+   "okunus": "yüşrikûne",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "ortak koştukları"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Allah'ın dört temel fiilini sırayla sayar: yaratma, rızıklandırma, öldürme, diriltme. Bu dörtlü, hayatın başından sonuna kadar bütün aşamalarını kapsar ve hepsinin tek elde -Allah'ın elinde- olduğunu gösterir.",
+  "Ardından gelen soru, ortak koşulan varlıklardan hiçbirinin bu fiillerden birini bile yapamayacağını vurgular. 'Sübhânehû ve teâlâ' ifadesi, Allah'ı bu türden acz içindeki ortaklardan tenzih ederek ayeti bitirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "35:3",
+   "meal": "Ey insanlar! Allah'ın üzerinizdeki nimetini hatırlayın. Allah'tan başka size gökten ve yerden rızık veren bir yaratıcı var mı?",
+   "baglanti": "Aynı meydan okuma üslubu, burada rızık verme fiili üzerinden tekrarlanır."
+  },
+  {
+   "ref": "7:191",
+   "meal": "Kendileri yaratılıp dururken hiçbir şey yaratamayan varlıkları mı ortak koşuyorlar?",
+   "baglanti": "Ortakların yaratma gücünden yoksun olduğu, burada da benzer bir mantıkla sorgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, hayatın yaratılış, rızık, ölüm ve diriliş olmak üzere dört büyük aşamasının tamamen Allah'ın elinde olduğunu hatırlatır. İnsan bu döngünün hiçbir noktasında bağımsız bir güç değildir.",
+  "Bugün insan bazen kendi çabasını rızkın veya hayatın tek kaynağı sanabilir. Ayet, çabanın gerekliliğini inkâr etmeden, asıl kaynağın Allah olduğunu hatırlatarak güveni doğru yere yöneltir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Dört aşamayı say",
+   "aciklama": "Bugün yaratılış, rızık, ölüm ve dirilişi kısaca düşün; hepsinin Allah'ın elinde olduğunu hatırla."
+  },
+  {
+   "baslik": "Güvenini sına",
+   "aciklama": "Bugün güvendiğin bir kişi veya kurumun, aslında bu dört şeyden hiçbirini veremeyeceğini fark et."
+  },
+  {
+   "baslik": "Şükrü tazele",
+   "aciklama": "Bugün rızkını kazanırken, asıl vericinin Allah olduğunu unutmadan çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün rızkın için çalışırken, aynı zamanda 'gerçek rızık veren Allah'tır' diye içinden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=40"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/30/40"
+  }
+ ]
+}

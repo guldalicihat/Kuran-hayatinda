@@ -1,0 +1,124 @@
+{
+ "sure": 30,
+ "ayet": 35,
+ "durum": "taslak",
+ "meal": "Yoksa Biz onlara bir delil mi indirdik de o, onların ortak koştukları şeyi mi söylüyor?",
+ "mealNotu": "'Sültân' kökü (slt) güç, yetki, ispat gücü taşıyan delil anlamındadır. Ayet, müşriklerin şirkini destekleyen hiçbir vahiy delilinin bulunmadığını, soru sorarak vurgular.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "yoksa (soru bağlacı)",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "أَنزَلْنَا",
+   "okunus": "enzelnâ",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdik mi"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "onların üzerine",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "سُلْطَٰنًا",
+   "okunus": "sültânen",
+   "kok": "سلط",
+   "kokAnlam": "güç, yetki, ispat gücü olan delil",
+   "karsilik": "bir delil"
+  },
+  {
+   "kelime": "فَهُوَ",
+   "okunus": "fehüve",
+   "kok": "—",
+   "kokAnlam": "işte o",
+   "karsilik": "de o"
+  },
+  {
+   "kelime": "يَتَكَلَّمُ",
+   "okunus": "yetekellemü",
+   "kok": "كلم",
+   "kokAnlam": "konuşma, söz söyleme",
+   "karsilik": "söylüyor"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma fiili",
+   "karsilik": "oldukları"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "onunla",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "يُشْرِكُونَ",
+   "okunus": "yüşrikûne",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "ortak koşuyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetlerdeki şirk tutumuna karşı bir soru yöneltir: Allah onlara şirki meşrulaştıran bir delil mi indirdi? 'Sültân' kökü, güç ve ispat taşıyan bir belge anlamı taşır; burada böyle bir dayanağın hiç var olmadığı ima edilir.",
+  "Soru üslubu, cevabı zaten belli olan bir noktayı vurgulamak içindir. Ayet, şirkin herhangi bir vahiy temeline dayanmadığını, sadece insanların kendi uydurmalarından ibaret olduğunu ortaya koyar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "53:23",
+   "meal": "Bunlar sizin ve atalarınızın taktığı isimlerden başka bir şey değildir; Allah onlar hakkında hiçbir delil indirmemiştir.",
+   "baglanti": "Aynı ifade kalıbı ('hiçbir delil indirmemiştir') ile şirkin dayanaksızlığı burada da vurgulanır."
+  },
+  {
+   "ref": "6:81",
+   "meal": "Hakkında size hiçbir delil indirmediği şeyleri Allah'a ortak koşmaktan korkmuyorsunuz da, ben sizin ortak koştuklarınızdan nasıl korkarım?",
+   "baglanti": "Şirkin delilsizliği, İbrahim'in kavmine söylediği sözde de aynı şekilde konu edilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, insanın inancını neye dayandırdığını sorgulamasını ister. Kanıtsız, sadece alışkanlıktan veya çevreden gelen bir inancı sorgulamadan sürdürmek, ayetin eleştirdiği tutumdur.",
+  "Bugün de insan, kimi zaman güvendiği şeyleri (para, statü, kişi) hiç sorgulamadan hayatının merkezine koyabilir. Ayet, her bağlılığın bir delile, bir temele dayanması gerektiğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Dayanağını sorgula",
+   "aciklama": "Bugün güçlü şekilde inandığın bir şeyin gerçek dayanağını kendine sor."
+  },
+  {
+   "baslik": "Alışkanlığı gözden geçir",
+   "aciklama": "Sırf öyle görüldüğü için değil, doğru olduğu için yaptığın bir şeyi bugün ayırt et."
+  },
+  {
+   "baslik": "Delilsiz bağlanma",
+   "aciklama": "Bugün bir konuda kanıt olmadan hüküm vermekten kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün önemli bir kararını, sadece alışkanlık değil gerçek bir sebebe dayandırarak ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=30&verse=35"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/30/35"
+  }
+ ]
+}
