@@ -1,0 +1,89 @@
+{
+ "sure": 36,
+ "ayet": 64,
+ "durum": "taslak",
+ "meal": "İnkâr etmekte olduğunuz şey yüzünden bugün ona girin.",
+ "mealNotu": "'Salv' kökü ateşe girip yanmayı anlatır; meal anlamı 'ona girin' ile karşılamıştır.",
+ "kokler": [
+  {
+   "kelime": "ٱصْلَوْهَا",
+   "okunus": "islevhâ",
+   "kok": "صلي",
+   "kokAnlam": "ateşe girme, yanma",
+   "karsilik": "ona girin"
+  },
+  {
+   "kelime": "ٱلْيَوْمَ",
+   "okunus": "elyevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bugün"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "sebebiyle",
+   "karsilik": "sebebiyle"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduğunuz"
+  },
+  {
+   "kelime": "تَكْفُرُونَ",
+   "okunus": "tekfürûne",
+   "kok": "كفر",
+   "kokAnlam": "inkâr etme, örtme",
+   "karsilik": "inkâr ediyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet 63. ayetteki cehennem tanıtımının ardından doğrudan emri verir: inkârları sebebiyle bugün oraya girerler.",
+  "'Tekfürûn' (inkâr etme) fiilinin kullanılması, cezanın sebebinin doğrudan inkâr olduğunu, keyfi olmadığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "52:16",
+   "meal": "Ona girin; sabretseniz de sabretmeseniz de sizin için birdir, ancak yaptıklarınızın karşılığını görüyorsunuz.",
+   "baglanti": "Aynı 'girin' emri ve karşılık ilkesi tekrarlanır."
+  },
+  {
+   "ref": "39:71",
+   "meal": "İnkâr edenler grup grup cehenneme sürülür.",
+   "baglanti": "İnkârın cehenneme girişin doğrudan sebebi olduğunu aynı şekilde anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, inkârın doğrudan bir sonucu olarak cehenneme giriştir.",
+  "Ders, inancın ve inkârın sonuçsuz kalmadığını, her tutumun bir karşılığı olduğunu hatırlamaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "İnancını eyleme dök",
+   "aciklama": "Bugün inandığın bir doğruyu sadece düşünmekle kalma, bir davranışa dönüştür."
+  },
+  {
+   "baslik": "Sonuçları görmezden gelme",
+   "aciklama": "Bir tutumunun uzun vadeli sonucunu bugün gerçekçi biçimde düşün."
+  },
+  {
+   "baslik": "Kalpteki şüpheyi sorgula",
+   "aciklama": "İçinde şüpheyle baktığın bir doğruyu bugün araştır, öğrenmeye çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün, inandığın bir değeri en az bir davranışla göster.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=64"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/36/64"
+  }
+ ]
+}

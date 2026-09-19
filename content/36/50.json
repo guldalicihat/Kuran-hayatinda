@@ -1,0 +1,103 @@
+{
+ "sure": 36,
+ "ayet": 50,
+ "durum": "taslak",
+ "meal": "Artık ne bir vasiyette bulunabilirler ne de ailelerine dönebilirler.",
+ "mealNotu": "Doğrudan köklere dayalı meal; ekleme yoktur.",
+ "kokler": [
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "artık değil",
+   "karsilik": "artık değil"
+  },
+  {
+   "kelime": "يَسْتَطِيعُونَ",
+   "okunus": "yestetîûne",
+   "kok": "طوع",
+   "kokAnlam": "güç yetirme",
+   "karsilik": "güç yetiremezler"
+  },
+  {
+   "kelime": "تَوْصِيَةً",
+   "okunus": "tevsıyeten",
+   "kok": "وصي",
+   "kokAnlam": "tavsiye, vasiyet",
+   "karsilik": "bir vasiyette bulunmaya"
+  },
+  {
+   "kelime": "وَلَآ",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "ne de",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "إِلَىٰٓ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "-e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "أَهْلِهِمْ",
+   "okunus": "ehlihim",
+   "kok": "أهل",
+   "kokAnlam": "aile, yakınlar",
+   "karsilik": "ailelerine"
+  },
+  {
+   "kelime": "يَرْجِعُونَ",
+   "okunus": "yerciûne",
+   "kok": "رجع",
+   "kokAnlam": "dönme",
+   "karsilik": "dönebilirler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetteki ansızın gelen çığlığın sonucu burada anlatılır: kıyamet o kadar ani gerçekleşir ki insanlar ne bir vasiyet bırakabilir ne de evlerine dönebilirler.",
+  "'Tevsıye' (vasiyet) ve 'rücû' (dönüş) fiillerinin olumsuzlanması, olayın hiçbir hazırlığa fırsat vermeyecek kadar ani olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "79:6",
+   "meal": "O sarsıntı geldiğinde.",
+   "baglanti": "Kıyametin ani ve peş peşe gelişiyle aynı temayı paylaşır."
+  },
+  {
+   "ref": "36:53",
+   "meal": "Yalnızca tek bir çığlıktır; bir de bakarsın hepsi huzurumuzda toplanmıştır.",
+   "baglanti": "Aynı sahnenin devamı, çığlığın hemen ardından toplanmayı anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu kıyametin ansızın gelişi ve buna hazırlık için fırsat kalmamasıdır.",
+  "Ders, önemli sözleri (vasiyet, helalleşme, af) 'sonra söylerim' diye ertelememektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Söylemediğin bir sözü söyle",
+   "aciklama": "Birine söylemen gereken bir teşekkür veya özrü bugün ertelemeden ilet."
+  },
+  {
+   "baslik": "Ailenle bağını tazele",
+   "aciklama": "Bugün ailenden birini arayıp hâlini sor."
+  },
+  {
+   "baslik": "Bir düzenlemeyi düşün",
+   "aciklama": "Önemli bir kararını yazılı hale getirmeyi bugün planla."
+  }
+ ],
+ "bugununAdimi": "Bugün, ertelediğin bir 'söylemem gereken söz'ü birine ilet.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=50"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/36/50"
+  }
+ ]
+}

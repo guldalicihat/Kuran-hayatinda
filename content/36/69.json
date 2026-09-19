@@ -1,0 +1,138 @@
+{
+ "sure": 36,
+ "ayet": 69,
+ "durum": "taslak",
+ "meal": "Ona şiir öğretmedik; bu ona yakışmaz da. O, ancak bir öğüt ve apaçık bir Kur'an'dır.",
+ "mealNotu": "Meal, 'ona öğretmedik' ile 'yakışmaz' ifadesini doğrudan verilen köklerden kurmuştur; cümledeki 'bu' zamiri şiire işaret eder, bağlamdan gelir.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "عَلَّمْنَٰهُ",
+   "okunus": "allemnâhü",
+   "kok": "علم",
+   "kokAnlam": "öğretme",
+   "karsilik": "ona öğrettik"
+  },
+  {
+   "kelime": "ٱلشِّعْرَ",
+   "okunus": "eşşi'ra",
+   "kok": "شعر",
+   "kokAnlam": "şiir",
+   "karsilik": "şiiri"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "ve değil",
+   "karsilik": "ve değil"
+  },
+  {
+   "kelime": "يَنۢبَغِى",
+   "okunus": "yembeğî",
+   "kok": "بغي",
+   "kokAnlam": "yakışma, uygun olma",
+   "karsilik": "yakışır"
+  },
+  {
+   "kelime": "لَهُۥٓ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "değildir",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ذِكْرٌ",
+   "okunus": "zikrun",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlatma, öğüt",
+   "karsilik": "bir öğüt"
+  },
+  {
+   "kelime": "وَقُرْءَانٌ",
+   "okunus": "ve kur'ânün",
+   "kok": "قرأ",
+   "kokAnlam": "okunan, Kur'an",
+   "karsilik": "ve Kur'an'dır"
+  },
+  {
+   "kelime": "مُّبِينٌ",
+   "okunus": "mübînün",
+   "kok": "بين",
+   "kokAnlam": "apaçık",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Peygamber'e yöneltilen 'o bir şairdir' suçlamasına doğrudan cevap verir: ona şiir öğretilmemiştir ve şiir zaten onun konumuna yakışmaz.",
+  "'Zikr' (öğüt/hatırlatma) ve 'Kur'ân' (okunan) kökleri, bu kitabın şiirsel bir kurgu değil, açık bir hatırlatma ve okunan bir metin olduğunu; içeriğinin insanı gerçeğe uyandırmaya yönelik olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "69:41",
+   "meal": "O, bir şairin sözü değildir; ne kadar az iman ediyorsunuz.",
+   "baglanti": "Peygamber'in şair olmadığı iddiasını neredeyse aynı ifadeyle reddeder."
+  },
+  {
+   "ref": "21:5",
+   "meal": "Hayır dediler, o bir şairdir.",
+   "baglanti": "Mekkeli müşriklerin Peygamber hakkındaki suçlamalarından birini, 'şair' iddiasını, doğrudan aktarır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu doğrudan Peygamber'in konumu ve Kur'an'ın niteliğidir; günlük hayata genel bir ders çıkarmak yerine bu özel bağlamı korumak gerekir.",
+  "Yine de buradan çıkarılabilecek bir ders, bir sözün veya kişinin değerini, ona yapıştırılan etiketlere değil, taşıdığı gerçek içeriğe bakarak değerlendirmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir iddiayı araştırmadan kabul etme",
+   "aciklama": "Bugün duyduğun bir iddiayı, kaynağına inmeden doğru kabul etme."
+  },
+  {
+   "baslik": "Sözün özüne bak",
+   "aciklama": "Bir kişinin sözünü, ona takılan etikete göre değil, içeriğine göre değerlendir."
+  },
+  {
+   "baslik": "Bir öğüdü not al",
+   "aciklama": "Bugün okuduğun/duyduğun anlamlı bir öğüdü kaydet, unutma."
+  }
+ ],
+ "bugununAdimi": "Bugün duyduğun bir iddiayı, gerçeğini araştırmadan başkasına aktarma.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=69"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/36/69"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "sure": 36,
+ "ayet": 54,
+ "durum": "taslak",
+ "meal": "Bugün hiçbir kimseye zerre kadar haksızlık edilmez; siz ancak yapmakta olduğunuzun karşılığını görürsünüz.",
+ "mealNotu": "'Şey'en' (bir şey) kelimesi 'zerre kadar' şeklinde Türkçede doğal akıcılık için karşılanmıştır; kelimenin temel anlamı 'hiçbir şey' ölçüsünde haksızlık olmayacağıdır.",
+ "kokler": [
+  {
+   "kelime": "فَٱلْيَوْمَ",
+   "okunus": "fel yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bugün"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "تُظْلَمُ",
+   "okunus": "tüzlemü",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık etme, zulmetme",
+   "karsilik": "haksızlık edilmez"
+  },
+  {
+   "kelime": "نَفْسٌ",
+   "okunus": "nefsün",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kişi",
+   "karsilik": "hiçbir kimseye"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "bir şey",
+   "karsilik": "zerre kadar"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "ve değil",
+   "karsilik": "ve değil"
+  },
+  {
+   "kelime": "تُجْزَوْنَ",
+   "okunus": "tüczevne",
+   "kok": "جزي",
+   "kokAnlam": "karşılık verme",
+   "karsilik": "karşılığını görürsünüz"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "şeyin",
+   "karsilik": "şeyin"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduğunuz"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "yapmakta"
+  }
+ ],
+ "neAnlatiyor": [
+  "Toplanma sahnesinden sonra bu ayet o günün temel ilkesini koyar: hiç kimseye en ufak bir haksızlık yapılmaz, herkes sadece kendi yaptığının karşılığını alır.",
+  "'Zulüm' kökünün olumsuzlanması adaletin kesinliğini, 'cezâ' kökü ise karşılığın tam yapılan işe göre olacağını vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "21:47",
+   "meal": "Kıyamet günü için adalet terazileri kurarız, hiçbir kimseye zerre kadar haksızlık edilmez.",
+   "baglanti": "Aynı 'zulüm' ve 'şey' kökleriyle aynı adalet ilkesini tekrarlar."
+  },
+  {
+   "ref": "99:7",
+   "meal": "Kim zerre kadar hayır işlerse onu görür.",
+   "baglanti": "Karşılığın tam adaletle verileceği ilkesini aynı netlikte anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu ahiretteki hesabın adaletidir.",
+  "Ders, yaptığın her işin bir karşılığı olduğunu bilip, 'kimse görmüyor, fark etmez' diye küçük işleri önemsizleştirmemektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçük bir iyiliği önemse",
+   "aciklama": "Bugün kimsenin fark etmeyeceği küçük bir iyiliği yine de yap."
+  },
+  {
+   "baslik": "Adaletli ol",
+   "aciklama": "Bir konuda karar verirken, kendi çıkarını değil doğruyu gözet."
+  },
+  {
+   "baslik": "Hak yemekten kaçın",
+   "aciklama": "Bugün birinin hakkını (zaman, emek, söz) gözetmeye özellikle dikkat et."
+  }
+ ],
+ "bugununAdimi": "Bugün, kimse görmese de yapacağın bir iyiliği belirle ve yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=54"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/36/54"
+  }
+ ]
+}

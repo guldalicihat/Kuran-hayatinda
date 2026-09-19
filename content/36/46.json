@@ -1,0 +1,131 @@
+{
+ "sure": 36,
+ "ayet": 46,
+ "durum": "taslak",
+ "meal": "Rablerinin ayetlerinden kendilerine hiçbir ayet gelmez ki ondan yüz çeviriyor olmasınlar.",
+ "mealNotu": "Meal, çifte olumsuzlukla kurulan 'hiçbir ayet gelmez ki ... yüz çevirmesinler' yapısını Türkçede doğal akışla vermiştir; ekleme yoktur.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "تَأْتِيهِم",
+   "okunus": "te'tîhim",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "kendilerine gelmez"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "hiçbir",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "ءَايَةٍ",
+   "okunus": "âyetin",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil",
+   "karsilik": "ayet"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ءَايَٰتِ",
+   "okunus": "âyâti",
+   "kok": "أيي",
+   "kokAnlam": "ayetler",
+   "karsilik": "ayetlerinden"
+  },
+  {
+   "kelime": "رَبِّهِمْ",
+   "okunus": "rabbihim",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, sahip",
+   "karsilik": "Rablerinin"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "ki olmasınlar",
+   "karsilik": "ki olmasınlar"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldular"
+  },
+  {
+   "kelime": "عَنْهَا",
+   "okunus": "anhâ",
+   "kok": "—",
+   "kokAnlam": "ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "مُعْرِضِينَ",
+   "okunus": "mü'ridîne",
+   "kok": "عرض",
+   "kokAnlam": "yüz çevirme",
+   "karsilik": "yüz çeviriciler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet 45. ayetteki uyarıya verilen tepkiyi tamamlar: kendilerine hangi delil/ayet gelirse gelsin sürekli yüz çevirmektedirler. 'Mu'ridîn' kökü, bilerek ilgisizce dönmeyi anlatır.",
+  "Vurgu, inkarın tek bir delile değil, sürekli tekrarlanan bir tutuma dayandığıdır; her yeni ayet karşısında aynı tepki tekrarlanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:4",
+   "meal": "Kendilerine Rablerinin ayetlerinden bir ayet gelmez ki ondan yüz çevirmiş olmasınlar.",
+   "baglanti": "Neredeyse kelimesi kelimesine aynı ifade, aynı inkarcı tutumu tarif eder."
+  },
+  {
+   "ref": "21:2",
+   "meal": "Kendilerine Rablerinden yeni bir öğüt gelmez ki onu eğlenerek dinlemesinler.",
+   "baglanti": "Aynı tema: gelen her uyarıya karşı tekrarlanan ilgisizlik."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, uyarılara karşı yerleşmiş bir kayıtsızlıktır.",
+  "Ders, sana ulaşan doğru bir sözü/uyarıyı sırf alışkanlıkla önemsememek yerine, her seferinde yeniden dinlemeye çalışmaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir uyarıyı yeniden dinle",
+   "aciklama": "Daha önce duyup önemsemediğin bir öğüdü bugün ciddiye al."
+  },
+  {
+   "baslik": "Otomatik tepkini fark et",
+   "aciklama": "Bir eleştiriye hemen yüz çevirme, önce anlamaya çalış."
+  },
+  {
+   "baslik": "Bir mesajı gerçekten oku",
+   "aciklama": "Bugün gelen anlamlı bir sözü/mesajı sadece göz gezdirmeden, dikkatle oku."
+  }
+ ],
+ "bugununAdimi": "Bugün seni rahatsız eden bir uyarıyı, savunmaya geçmeden bir kez daha dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=46"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/36/46"
+  }
+ ]
+}
