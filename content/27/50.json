@@ -1,0 +1,103 @@
+{
+ "sure": 27,
+ "ayet": 50,
+ "durum": "taslak",
+ "meal": "Onlar bir tuzak kurdular, biz de -onlar farkında olmadan- bir tuzak kurduk.",
+ "mealNotu": "Cümledeki iki 'mekran' (tuzak) kelimesi aynı kökten simetrik biçimde tekrar eder; bu tekrar, insanların planı ile Allah'ın karşı takdiri arasındaki karşıtlığı vurgular.",
+ "kokler": [
+  {
+   "kelime": "وَمَكَرُوا۟",
+   "okunus": "ve mekerû",
+   "kok": "مكر",
+   "kokAnlam": "hile, tuzak kurma",
+   "karsilik": "tuzak kurdular"
+  },
+  {
+   "kelime": "مَكْرًا",
+   "okunus": "mekran",
+   "kok": "مكر",
+   "kokAnlam": "hile, tuzak kurma",
+   "karsilik": "bir tuzak"
+  },
+  {
+   "kelime": "وَمَكَرْنَا",
+   "okunus": "ve mekernâ",
+   "kok": "مكر",
+   "kokAnlam": "hile, tuzak kurma",
+   "karsilik": "biz de tuzak kurduk"
+  },
+  {
+   "kelime": "مَكْرًا",
+   "okunus": "mekran",
+   "kok": "مكر",
+   "kokAnlam": "hile, tuzak kurma",
+   "karsilik": "bir tuzak"
+  },
+  {
+   "kelime": "وَهُمْ",
+   "okunus": "ve hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "oysa onlar"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil, -mA",
+   "karsilik": "olumsuzluk"
+  },
+  {
+   "kelime": "يَشْعُرُونَ",
+   "okunus": "yeş'urûne",
+   "kok": "شعر",
+   "kokAnlam": "hissetme, fark etme, şuur",
+   "karsilik": "farkında değillerdi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Semûd'daki dokuz kişilik grubun bir önceki ayette kurduğu gizli baskın planı, burada 'mekr' (tuzak, hileli plan) kelimesiyle özetlenir. Ayet, onların planına karşılık Allah'ın da bir 'tuzak', yani onların hiç hesaba katmadığı bir karşı takdir kurduğunu söyler.",
+  "Bu simetrik ifade -'mekerû mekran ve mekernâ mekran'- insan planı ile ilahi takdir arasındaki dengesizliği gösterir: onlar planlarını gizli tutup kimsenin fark etmeyeceğini sandılar, oysa asıl kendileri sonucun ne olacağının farkında değillerdi."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:54",
+   "meal": "Onlar tuzak kurdular, Allah da onların tuzağını boşa çıkardı; Allah, tuzak kuranların en hayırlısıdır.",
+   "baglanti": "Îsâ'ya karşı kurulan tuzağı anlatan bu ayet, Neml 50'deki aynı temayı -insan tuzağının Allah'ın takdiri karşısında boşa çıkması- başka bir kıssada tekrarlar."
+  },
+  {
+   "ref": "14:46",
+   "meal": "Andolsun, onlar tuzaklarını kurdular; tuzakları dağları yerinden oynatacak olsa bile, onların tuzağı Allah katında bilinir.",
+   "baglanti": "İbrahim suresindeki bu ayet, insanların en büyük tuzaklarının bile Allah'ın bilgisi ve takdiri karşısında bir hükmü olmadığını, Neml 50'deki aynı temayla anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kötü niyetli bir planın sonunda plan yapanların aleyhine dönmesidir. Bu, tarihi bir olaydır ama insanın gizli kötülük planlarının sonuçsuz kalmayacağına dair genel bir ilkeyi de gösterir.",
+  "Sen de başkasına zarar verecek gizli bir plan kurmak yerine, işlerini açık ve dürüst yollarla yürütebilirsin. Bir şeyin gizli kalacağını düşünmek, çoğu zaman büyük bir yanılgıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Açık yoldan ilerle",
+   "aciklama": "Bugün bir isteğini gizli planlarla değil, açık ve dürüst bir yolla gerçekleştirmeye çalış."
+  },
+  {
+   "baslik": "Sonucu Allah'a bırak",
+   "aciklama": "Haksızlığa uğradığında, karşılık vermeyi kendi başına tuzak kurarak değil, hakkın er geç ortaya çıkacağına güvenerek bekle."
+  },
+  {
+   "baslik": "Planının farkında olmayanı düşün",
+   "aciklama": "Bir kararının başkalarını nasıl etkileyeceğini, sadece kendi çıkarını değil, düşünerek ver."
+  }
+ ],
+ "bugununAdimi": "Bugün bir isteğini, gizli bir yol yerine açık ve dürüst bir şekilde gerçekleştirmeye çalış.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=50"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/50"
+  }
+ ]
+}

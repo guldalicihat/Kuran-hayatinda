@@ -1,0 +1,250 @@
+{
+ "sure": 27,
+ "ayet": 44,
+ "durum": "taslak",
+ "meal": "Ona 'köşke gir' denildi. Onu görünce derin bir su sandı ve bacaklarını açtı. [Süleyman] dedi ki: 'Bu, camdan/sırçadan yapılmış, pürüzsüz bir köşktür.' [Melike] dedi ki: 'Rabbim! Gerçekten ben kendime zulmetmiştim; şimdi Süleyman'la birlikte âlemlerin Rabbi olan Allah'a teslim oldum.'",
+ "mealNotu": "'Kavârîr' kelimesinin kökü Corpus verisinde قرر (durma, karar kılma) olarak geçer; kelimenin ayetteki anlamı 'cam/sırça'dır, bu yüzden kokAnlam kök anlamını, karşılık ise bağlamdaki anlamı yansıtır. [Süleyman] ve [Melike] köşeli parantezle eklendi, konuşan kişileri netleştirmek için.",
+ "kokler": [
+  {
+   "kelime": "قِيلَ",
+   "okunus": "kîle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "denildi"
+  },
+  {
+   "kelime": "لَهَا",
+   "okunus": "lehâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "ٱدْخُلِى",
+   "okunus": "idhulî",
+   "kok": "دخل",
+   "kokAnlam": "girme",
+   "karsilik": "gir"
+  },
+  {
+   "kelime": "ٱلصَّرْحَ",
+   "okunus": "essarha",
+   "kok": "صرح",
+   "kokAnlam": "yüksek köşk, saray",
+   "karsilik": "köşke"
+  },
+  {
+   "kelime": "فَلَمَّا",
+   "okunus": "felemmâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "gördüğünde"
+  },
+  {
+   "kelime": "رَأَتْهُ",
+   "okunus": "raethü",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "onu gördü"
+  },
+  {
+   "kelime": "حَسِبَتْهُ",
+   "okunus": "hasibethü",
+   "kok": "حسب",
+   "kokAnlam": "sayma, zannetme",
+   "karsilik": "onu sandı"
+  },
+  {
+   "kelime": "لُجَّةً",
+   "okunus": "lücceten",
+   "kok": "لجج",
+   "kokAnlam": "derin su, engin su",
+   "karsilik": "derin bir su"
+  },
+  {
+   "kelime": "وَكَشَفَتْ",
+   "okunus": "ve keşefet",
+   "kok": "كشف",
+   "kokAnlam": "açma, ortaya çıkarma, giderme",
+   "karsilik": "ve açtı"
+  },
+  {
+   "kelime": "عَن",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -den, hakkında",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "سَاقَيْهَا",
+   "okunus": "sâkayhâ",
+   "kok": "سوق",
+   "kokAnlam": "bacak, incik",
+   "karsilik": "bacaklarını"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz, gerçekten",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "صَرْحٌ",
+   "okunus": "sarhun",
+   "kok": "صرح",
+   "kokAnlam": "yüksek köşk, saray",
+   "karsilik": "bir köşktür"
+  },
+  {
+   "kelime": "مُّمَرَّدٌ",
+   "okunus": "mümerradün",
+   "kok": "مرد",
+   "kokAnlam": "düzleştirme, pürüzsüzlük",
+   "karsilik": "düzeltilmiş, pürüzsüz"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den, -dan",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَوَارِيرَ",
+   "okunus": "kavârîra",
+   "kok": "قرر",
+   "kokAnlam": "durma, karar kılma (kelime ayette 'cam/sırça' anlamında kullanılır)",
+   "karsilik": "camdan/sırçadan"
+  },
+  {
+   "kelime": "قَالَتْ",
+   "okunus": "kâlet",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "رَبِّ",
+   "okunus": "rabbi",
+   "kok": "ربب",
+   "kokAnlam": "Rab olma, terbiye etme",
+   "karsilik": "Rabbim"
+  },
+  {
+   "kelime": "إِنِّى",
+   "okunus": "innî",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz, gerçekten",
+   "karsilik": "gerçekten ben"
+  },
+  {
+   "kelime": "ظَلَمْتُ",
+   "okunus": "zalemtü",
+   "kok": "ظلم",
+   "kokAnlam": "haksızlık, zulüm",
+   "karsilik": "zulmettim"
+  },
+  {
+   "kelime": "نَفْسِى",
+   "okunus": "nefsî",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik, can",
+   "karsilik": "kendime"
+  },
+  {
+   "kelime": "وَأَسْلَمْتُ",
+   "okunus": "ve eslemtü",
+   "kok": "سلم",
+   "kokAnlam": "teslimiyet, barış, esenlik",
+   "karsilik": "ve teslim oldum"
+  },
+  {
+   "kelime": "مَعَ",
+   "okunus": "mea",
+   "kok": "—",
+   "kokAnlam": "(edat) ile birlikte",
+   "karsilik": "ile birlikte"
+  },
+  {
+   "kelime": "سُلَيْمَٰنَ",
+   "okunus": "süleymâne",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Süleyman",
+   "karsilik": "Süleyman"
+  },
+  {
+   "kelime": "لِلَّهِ",
+   "okunus": "lillâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "رَبِّ",
+   "okunus": "rabbi",
+   "kok": "ربب",
+   "kokAnlam": "Rab olma, terbiye etme",
+   "karsilik": "Rabbine"
+  },
+  {
+   "kelime": "ٱلْعَٰلَمِينَ",
+   "okunus": "el'âlemîne",
+   "kok": "علم",
+   "kokAnlam": "bilgi, bilme",
+   "karsilik": "âlemlerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Melike, camdan yapılmış ve altından su akan köşke girerken eteğini su sanıp topladığı bir anda, aslında yerin cam olduğunu öğrenir. Bu görsel şaşırtma, onun daha önceki 'sanki bu odur' şeklindeki temkinli tavrından sonra, artık şüphesiz bir gerçekle -Süleyman'ın gücünün ve bilgisinin olağanüstülüğüyle- yüzleşmesini sağlar.",
+  "Sahnenin sonunda melike, kendi sözleriyle geçmişte kendine zulmettiğini kabul eder ve Süleyman'la birlikte âlemlerin Rabbine teslim olduğunu açıkça söyler. Bu, sürenin 41. ayetten beri anlattığı 'doğru olanı bulma' temasının doruk noktasıdır: melike artık sadece bir tahtı değil, asıl gerçeği tanımıştır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:131",
+   "meal": "Rabbi ona 'teslim ol' dediğinde, o 'Âlemlerin Rabbine teslim oldum' demişti.",
+   "baglanti": "Melikenin 'eslemtü... li-Rabbil-âlemîn' sözü, İbrahim'in burada aktarılan sözüyle neredeyse aynıdır; iki kıssa da aynı teslimiyet ifadesiyle biter."
+  },
+  {
+   "ref": "66:11",
+   "meal": "Allah, inananlara Firavun'un karısını örnek verdi. O demişti ki: 'Rabbim! Bana katında, cennette bir ev yap; beni Firavun'dan ve onun işinden kurtar, beni zalimler topluluğundan kurtar.'",
+   "baglanti": "Melikenin 'Rabbim, kendime zulmettim' duası, Tahrim suresindeki bu duayla birlikte, doğruyu bulan bir kadının Allah'a yönelişinin başka bir örneğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, melikenin gözünü kamaştıran bir sahneden sonra gerçeği kabul edip inancını açıkça dile getirmesidir. Bu, sadece bir mucize karşısında şaşırma değil, bilinçli bir kabul ve teslimiyet anıdır.",
+  "Sen de bir gerçeği net biçimde gördüğünde, onu kabul etmekte tereddüt etmeyebilirsin. Melikenin yaptığı gibi, geçmişteki bir hatanı fark ettiğinde bunu açıkça kabul edip yönünü değiştirmek, olgun bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir hatanı açıkça kabul et",
+   "aciklama": "Bugün fark ettiğin küçük bir yanlışını, kendine karşı dürüstçe itiraf et."
+  },
+  {
+   "baslik": "Gerçeği gördüğünde yönünü değiştir",
+   "aciklama": "Daha doğru olduğunu anladığın bir yolu fark ettiğinde, eski tutumunda ısrar etme."
+  },
+  {
+   "baslik": "Bugünü bir yeni başlangıç say",
+   "aciklama": "Geçmişte yaptığın bir yanlıştan ders çıkarıp bugün farklı davran."
+  }
+ ],
+ "bugununAdimi": "Bugün fark ettiğin bir yanlışını kendine itiraf et ve onu düzeltecek küçük bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=44"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/44"
+  }
+ ]
+}

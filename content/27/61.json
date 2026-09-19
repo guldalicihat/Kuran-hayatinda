@@ -1,0 +1,201 @@
+{
+ "sure": 27,
+ "ayet": 61,
+ "durum": "taslak",
+ "meal": "Yoksa yeryüzünü bir karar (yerleşim) yeri kılan, arasında nehirler var eden, ona sabit dağlar koyan ve iki deniz arasına bir engel koyan kim? Allah'la birlikte bir ilah mı var? Hayır, onların çoğu bilmiyor.",
+ "mealNotu": "'Karâran' kelimesi (قرر) yeryüzünün insan için sağlam, üzerinde durulabilir bir yer olmasını anlatır; 'karar (yerleşim) yeri' olarak aktarıldı.",
+ "kokler": [
+  {
+   "kelime": "أَمَّن",
+   "okunus": "emmen",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) yoksa",
+   "karsilik": "yoksa kim"
+  },
+  {
+   "kelime": "جَعَلَ",
+   "okunus": "ceale",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma, koyma",
+   "karsilik": "kıldı"
+  },
+  {
+   "kelime": "ٱلْأَرْضَ",
+   "okunus": "el'erda",
+   "kok": "أرض",
+   "kokAnlam": "yeryüzü, toprak",
+   "karsilik": "yeri"
+  },
+  {
+   "kelime": "قَرَارًا",
+   "okunus": "karâran",
+   "kok": "قرر",
+   "kokAnlam": "durma, karar kılma, yerleşme",
+   "karsilik": "karar (yerleşim) yeri"
+  },
+  {
+   "kelime": "وَجَعَلَ",
+   "okunus": "ve ceale",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma, koyma",
+   "karsilik": "ve kıldı"
+  },
+  {
+   "kelime": "خِلَٰلَهَآ",
+   "okunus": "hılâlehâ",
+   "kok": "خلل",
+   "kokAnlam": "ara, boşluk",
+   "karsilik": "arasında"
+  },
+  {
+   "kelime": "أَنْهَٰرًا",
+   "okunus": "enhâran",
+   "kok": "نهر",
+   "kokAnlam": "nehir, akış",
+   "karsilik": "nehirler"
+  },
+  {
+   "kelime": "وَجَعَلَ",
+   "okunus": "ve ceale",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma, koyma",
+   "karsilik": "ve kıldı"
+  },
+  {
+   "kelime": "لَهَا",
+   "okunus": "lehâ",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona",
+   "karsilik": "onun için"
+  },
+  {
+   "kelime": "رَوَٰسِىَ",
+   "okunus": "ravâsiye",
+   "kok": "رسو",
+   "kokAnlam": "sabit durma, çapa atma (dağ)",
+   "karsilik": "sabit dağlar"
+  },
+  {
+   "kelime": "وَجَعَلَ",
+   "okunus": "ve ceale",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma, koyma",
+   "karsilik": "ve koydu"
+  },
+  {
+   "kelime": "بَيْنَ",
+   "okunus": "beyne",
+   "kok": "بين",
+   "kokAnlam": "ara, açıklık",
+   "karsilik": "arasına"
+  },
+  {
+   "kelime": "ٱلْبَحْرَيْنِ",
+   "okunus": "elbahrayni",
+   "kok": "بحر",
+   "kokAnlam": "deniz",
+   "karsilik": "iki denizin"
+  },
+  {
+   "kelime": "حَاجِزًا",
+   "okunus": "hâcizen",
+   "kok": "حجز",
+   "kokAnlam": "engel, perde, ayırma",
+   "karsilik": "bir engel"
+  },
+  {
+   "kelime": "أَءِلَٰهٌ",
+   "okunus": "eilâhün",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "bir ilah mı var"
+  },
+  {
+   "kelime": "مَّعَ",
+   "okunus": "mea",
+   "kok": "—",
+   "kokAnlam": "(edat) ile birlikte",
+   "karsilik": "birlikte"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık",
+   "karsilik": "Allah'la"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) hayır, aksine",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "أَكْثَرُهُمْ",
+   "okunus": "ekseruhüm",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "onların çoğu"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil, -mA",
+   "karsilik": "olumsuzluk"
+  },
+  {
+   "kelime": "يَعْلَمُونَ",
+   "okunus": "ya'lemûne",
+   "kok": "علم",
+   "kokAnlam": "bilgi, bilme",
+   "karsilik": "bilmiyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "İkinci soru, yeryüzünün insan için sabit ve yaşanabilir bir yer kılınmasına, üzerine nehirlerin akıtılmasına, sarsılmaması için dağların yerleştirilmesine ve iki deniz arasına bir engel konulmasına dikkat çeker. Bunların hepsi, insanın günlük hayatında görüp geçtiği ama üzerinde az düşündüğü düzenlerdir.",
+  "'İki deniz arasına engel' ifadesi, farklı sularının birbirine karışmadan bir arada durmasını anlatan bir tabiat olgusuna işaret eder. Ayet, tüm bunları sayıp 'Allah'la birlikte bir ilah mı var?' diye sorduktan sonra, bunu görmezden gelenlerin çoğunun aslında bilgisizce davrandığını söyler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "55:20",
+   "meal": "Aralarında bir engel vardır, birbirine geçip karışmazlar.",
+   "baglanti": "Rahmân suresindeki bu ayet, Neml 61'de kısaca geçen 'iki deniz arasına engel' (hâciz) ifadesini aynı imgeyle tekrarlar."
+  },
+  {
+   "ref": "16:15",
+   "meal": "Sizi sarsmasın diye yeryüzüne sabit dağlar yerleştirdi; şaşırmayasınız diye nehirler ve yollar da var etti.",
+   "baglanti": "Nahl suresi, dağların ve nehirlerin işlevini -sarsılmayı önlemek ve yol bulmayı kolaylaştırmak- ayrıntılı biçimde açıklayarak Neml 61'deki kısa listeyi tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, yeryüzünün düzenli ve yaşanabilir olmasını sağlayan tabiat olaylarıdır. Bunlar günlük hayatta o kadar alışılmıştır ki, çoğu zaman fark edilmeden geçilir.",
+  "Sen de bugün üzerinde durduğun toprağı, içtiğin suyu veya çevrendeki doğal dengeyi bir an fark edip bunun hazır bir düzen olduğunu hatırlayabilirsin. Sıradan gördüğün bir şeyin aslında ne kadar hassas bir düzenin parçası olduğunu görmek, şükrü artırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğal bir düzeni fark et",
+   "aciklama": "Bugün çevrende gördüğün bir nehir, dağ veya toprağı bir an düşünüp bunun bir düzenin parçası olduğunu hatırla."
+  },
+  {
+   "baslik": "Alışkanlığı şükre çevir",
+   "aciklama": "Her gün kullandığın ama fark etmediğin bir imkânı bugün bilinçli şekilde fark et."
+  },
+  {
+   "baslik": "Dengeyi bozmamaya dikkat et",
+   "aciklama": "Bugün çevrene karşı, doğal dengeyi koruyacak küçük bir davranış sergile."
+  }
+ ],
+ "bugununAdimi": "Bugün fark etmeden kullandığın bir doğal imkânı bilinçli olarak fark et ve ona şükret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=61"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/61"
+  }
+ ]
+}

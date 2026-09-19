@@ -1,0 +1,103 @@
+{
+ "sure": 27,
+ "ayet": 57,
+ "durum": "taslak",
+ "meal": "Biz de onu ve ailesini kurtardık; karısı dışında -onu geride kalanlardan olmaya [önceden] takdir etmiştik-.",
+ "mealNotu": "[önceden] köşeli parantezle eklendi; 'kaddernâhâ' fiili geçmiş zamanla, kararın olaydan önce verildiğini gösterir.",
+ "kokler": [
+  {
+   "kelime": "فَأَنجَيْنَٰهُ",
+   "okunus": "feenceynâhü",
+   "kok": "نجو",
+   "kokAnlam": "kurtulma, kurtarma",
+   "karsilik": "biz de onu kurtardık"
+  },
+  {
+   "kelime": "وَأَهْلَهُۥٓ",
+   "okunus": "ve ehlehû",
+   "kok": "أهل",
+   "kokAnlam": "aile, halk",
+   "karsilik": "ve ailesini"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, dışında, başka",
+   "karsilik": "dışında"
+  },
+  {
+   "kelime": "ٱمْرَأَتَهُۥ",
+   "okunus": "imraetehû",
+   "kok": "مرأ",
+   "kokAnlam": "kadın, eş",
+   "karsilik": "karısı"
+  },
+  {
+   "kelime": "قَدَّرْنَٰهَا",
+   "okunus": "kaddernâhâ",
+   "kok": "قدر",
+   "kokAnlam": "takdir etme, ölçme, belirleme",
+   "karsilik": "onu takdir etmiştik"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den, -dan",
+   "karsilik": "-dan"
+  },
+  {
+   "kelime": "ٱلْغَٰبِرِينَ",
+   "okunus": "elgâbirîne",
+   "kok": "غبر",
+   "kokAnlam": "geride kalma, geçmişte kalma",
+   "karsilik": "geride kalanlardan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kavminin sürgün tehdidine karşılık, Allah Lût'u ve ailesini kurtarır; ancak bu kurtuluşun bir istisnası vardır: Lût'un karısı. Ayet onun akıbetinin rastgele değil, önceden takdir edilmiş olduğunu vurgular.",
+  "Lût'un karısının neden kurtulanlar arasında sayılmadığı burada ayrıntılı anlatılmaz; sadece 'geride kalanlardan' olduğu belirtilir. Bu kısa ifade, ailevi yakınlığın tek başına kurtuluş için yeterli olmadığını, kişinin kendi tutumunun belirleyici olduğunu ima eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:83",
+   "meal": "Biz de onu ve ailesini kurtardık; karısı hariç, o geride kalanlardan oldu.",
+   "baglanti": "A'râf suresindeki bu ayet, Neml 57'nin neredeyse aynısıdır; Lût'un karısının istisna tutulması iki surede de aynı ifadeyle geçer."
+  },
+  {
+   "ref": "11:81",
+   "meal": "[Melekler dediler ki:] 'Karın dışında; ona da onlara isabet eden isabet edecek. Onların vaat edilen zamanı sabahtır; sabah da yakın değil mi?'",
+   "baglanti": "Hûd suresi, meleklerin Lût'a karısının akıbetini önceden haber verdiğini anlatarak Neml 57'deki 'önceden takdir ettik' ifadesinin arka planını açıklar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir ailenin kurtuluşunda bile kişisel tutumun belirleyici olduğudur; akrabalık bağı tek başına bir güvence oluşturmaz.",
+  "Sen de bir kişinin yakını olmanın, o kişinin doğru veya yanlış tutumunu otomatik olarak paylaşmak anlamına gelmediğini hatırlayabilirsin. Herkes kendi tercihinden sorumludur; bu, hem aile içi ilişkilerde hem de daha geniş çevrende geçerli bir ilkedir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendi tercihinin sorumluluğunu al",
+   "aciklama": "Bugün bir kararını, sadece ailenin veya çevrenin tercihi olduğu için değil, kendi doğrun olduğu için ver."
+  },
+  {
+   "baslik": "Yakınlığı bahane etme",
+   "aciklama": "Bir yakınının yanlış bir tutumunu, sırf yakının olduğu için savunmaktan kaçın."
+  },
+  {
+   "baslik": "Aile içinde doğruyu konuş",
+   "aciklama": "Ailende gördüğün yanlış bir tutumu, nazikçe ama açıkça dile getir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda, sadece çevrenin veya ailenin tercihini değil kendi doğrunu esas alarak karar ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=57"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/57"
+  }
+ ]
+}

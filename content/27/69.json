@@ -1,0 +1,117 @@
+{
+ "sure": 27,
+ "ayet": 69,
+ "durum": "taslak",
+ "meal": "De ki: 'Yeryüzünde gezin de suçluların sonunun nasıl olduğuna bakın.'",
+ "mealNotu": "Kelimelerin doğrudan karşılıklarıyla akıcı bir cümle kuruldu; ek bir anlam eklenmedi.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "سِيرُوا۟",
+   "okunus": "sîrû",
+   "kok": "سير",
+   "kokAnlam": "yürüme, gezme, sefer",
+   "karsilik": "yeryüzünde gezin"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde, -de",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yeryüzü, toprak",
+   "karsilik": "yeryüzünde"
+  },
+  {
+   "kelime": "فَٱنظُرُوا۟",
+   "okunus": "fenzurû",
+   "kok": "نظر",
+   "kokAnlam": "bakma, gözlem",
+   "karsilik": "bakın"
+  },
+  {
+   "kelime": "كَيْفَ",
+   "okunus": "keyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl olma",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldu"
+  },
+  {
+   "kelime": "عَٰقِبَةُ",
+   "okunus": "âkıbetü",
+   "kok": "عقب",
+   "kokAnlam": "sonuç, akıbet, arka",
+   "karsilik": "sonu"
+  },
+  {
+   "kelime": "ٱلْمُجْرِمِينَ",
+   "okunus": "elmücrimîne",
+   "kok": "جرم",
+   "kokAnlam": "suç işleme",
+   "karsilik": "suçluların"
+  }
+ ],
+ "neAnlatiyor": [
+  "İnkârcıların dirilişi 'öncekilerin masalı' diye reddetmesine karşılık, ayet somut bir çağrıda bulunur: gezip görmek. Semûd ve Lût kavimlerinin kalıntıları gibi izler, hâlâ görülebilir durumdadır; bunlar birer efsane değil, gerçek tarihi kanıtlardır.",
+  "Bu çağrı, surenin başındaki Semûd ve Lût kıssalarını (45-58) doğrudan bu tevhid ve ahiret tartışmasına bağlar: geçmişte suçlularının başına gelenler, gelecekte de aynı ilkenin -yani hesap gününün- gerçek olduğuna dair bir kanıttır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:11",
+   "meal": "De ki: 'Yeryüzünde gezin de yalanlayanların sonunun nasıl olduğuna bakın.'",
+   "baglanti": "Enâm suresindeki bu ayet, Neml 69 ile neredeyse aynı çağrıyı, 'yalanlayanlar' kelimesiyle tekrarlar."
+  },
+  {
+   "ref": "30:42",
+   "meal": "De ki: 'Yeryüzünde gezin de öncekilerin sonunun nasıl olduğuna bakın; onların çoğu ortak koşanlardı.'",
+   "baglanti": "Rûm suresindeki bu ayet, aynı çağrıyı ortak koşma (şirk) temasıyla birleştirerek Neml 69'daki genel çağrıyı tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş kavimlerin akıbetini yerinde görüp ibret almaktır. Bu, tarihe ve geçmiş toplumların kalıntılarına bilinçli bakmayı bir öğüt aracı olarak sunar.",
+  "Sen de bir yere seyahat ettiğinde veya tarihi bir yer gördüğünde, sadece manzarayı izlemek yerine, orada yaşanmış olayları ve bunlardan çıkarılabilecek dersleri düşünebilirsin. Gezmek, bilinçli bakıldığında bir ibret vesilesine dönüşür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir tarihi yeri bilinçli gez",
+   "aciklama": "Bugün gördüğün veya hatırladığın bir tarihi yeri, sadece görüntüsüyle değil hikâyesiyle düşün."
+  },
+  {
+   "baslik": "Geçmişten bir ders çıkar",
+   "aciklama": "Bugün okuduğun veya duyduğun bir tarihi olaydan, günümüze taşıyabileceğin bir dersi belirle."
+  },
+  {
+   "baslik": "Yolculuğu amaçlı yap",
+   "aciklama": "Bir yolculuğa çıktığında, gördüklerinden bir şey öğrenmeyi kendine hedef koy."
+  }
+ ],
+ "bugununAdimi": "Bugün bir tarihi olay veya yerden, kendine somut bir ders çıkar.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=69"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/69"
+  }
+ ]
+}

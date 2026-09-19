@@ -1,0 +1,117 @@
+{
+ "sure": 27,
+ "ayet": 51,
+ "durum": "taslak",
+ "meal": "Bak, tuzaklarının sonu nasıl oldu: Biz onları ve kavimlerinin hepsini yerle bir ettik.",
+ "mealNotu": "Kelimelerin doğrudan karşılıklarıyla akıcı bir cümle kuruldu; ek bir anlam eklenmedi.",
+ "kokler": [
+  {
+   "kelime": "فَٱنظُرْ",
+   "okunus": "fenzur",
+   "kok": "نظر",
+   "kokAnlam": "bakma, gözlem",
+   "karsilik": "bak"
+  },
+  {
+   "kelime": "كَيْفَ",
+   "okunus": "keyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl olma",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldu"
+  },
+  {
+   "kelime": "عَٰقِبَةُ",
+   "okunus": "âkıbetü",
+   "kok": "عقب",
+   "kokAnlam": "sonuç, akıbet, arka",
+   "karsilik": "sonu"
+  },
+  {
+   "kelime": "مَكْرِهِمْ",
+   "okunus": "mekrihim",
+   "kok": "مكر",
+   "kokAnlam": "hile, tuzak kurma",
+   "karsilik": "tuzaklarının"
+  },
+  {
+   "kelime": "أَنَّا",
+   "okunus": "ennâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz, gerçekten",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "دَمَّرْنَٰهُمْ",
+   "okunus": "demmernâhüm",
+   "kok": "دمر",
+   "kokAnlam": "yok etme, yerle bir etme",
+   "karsilik": "onları yerle bir ettik"
+  },
+  {
+   "kelime": "وَقَوْمَهُمْ",
+   "okunus": "ve kavmehüm",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, ayakta durma, kavim",
+   "karsilik": "ve kavimlerini"
+  },
+  {
+   "kelime": "أَجْمَعِينَ",
+   "okunus": "ecmeîne",
+   "kok": "جمع",
+   "kokAnlam": "toplama, bir araya gelme",
+   "karsilik": "hepsini"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette kurulan karşı takdirin sonucu burada açıklanır: gece baskını planlayan grup, sadece kendileri değil, tüm kavimleriyle birlikte yok edilir. 'Fenzur' (bak) hitabı, dinleyiciyi bu sonucu düşünmeye davet eder.",
+  "'Ecmeîn' (hepsi) kelimesi, cezanın sadece planı yapan dokuz kişiyle sınırlı kalmadığını, onların bağlı olduğu kavmin tümünü kapsadığını gösterir. Bu, bozgunculuğun sonuçlarının bireysel kalmayabileceğine dair bir hatırlatmadır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:86",
+   "meal": "...Bekleyin de bozguncuların sonunun nasıl olduğuna bakın.",
+   "baglanti": "Şuayb'ın Medyen halkına söylediği bu söz, Neml 51'deki 'bak, sonları nasıl oldu' çağrısıyla aynı ibret alma vurgusunu taşır."
+  },
+  {
+   "ref": "27:69",
+   "meal": "De ki: 'Yeryüzünde gezin de suçluların sonunun nasıl olduğuna bakın.'",
+   "baglanti": "Aynı surenin ilerleyen bir ayeti, burada Semûd için söylenen sonucu, tüm suçlular için geçerli genel bir ilkeye dönüştürür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kötü bir planın sonunda plan yapanların tamamen yok olmasıdır. Bu, tarihi bir cezalandırma olayıdır ve doğrudan güncel bir hükme dönüştürülemez.",
+  "Yine de buradan genel bir ders çıkarılabilir: bir kararın veya planın sonucunu düşünmeden atılan adımlar, geri dönüşü olmayan sonuçlara yol açabilir. Sen de önemli bir kararı vermeden önce, olası sonuçlarını bir kez düşünebilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sonucu düşünerek karar ver",
+   "aciklama": "Bugün vereceğin bir kararın, uzun vadeli sonucunu bir kez düşün."
+  },
+  {
+   "baslik": "Geçmişten ibret al",
+   "aciklama": "Benzer bir hatayı daha önce yapan birinden veya bir olaydan bugün bir ders çıkar."
+  },
+  {
+   "baslik": "Grup baskısına kapılma",
+   "aciklama": "Bir grubun yanlış bir işe yönelmesine, sen de katılmadan önce durup düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün vereceğin bir kararın olası sonucunu, harekete geçmeden önce bir kez düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=51"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/51"
+  }
+ ]
+}

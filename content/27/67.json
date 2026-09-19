@@ -1,0 +1,117 @@
+{
+ "sure": 27,
+ "ayet": 67,
+ "durum": "taslak",
+ "meal": "İnkâr edenler dedi ki: 'Biz ve atalarımız toprak olduğumuzda mı, gerçekten [o zaman] biz mi çıkarılacağız?'",
+ "mealNotu": "[o zaman] köşeli parantezle eklendi; cümlenin akışını Türkçede netleştirmek için.",
+ "kokler": [
+  {
+   "kelime": "وَقَالَ",
+   "okunus": "ve kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki o(nlar), kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "كَفَرُوٓا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr, nankörlük",
+   "karsilik": "inkâr eden"
+  },
+  {
+   "kelime": "أَءِذَا",
+   "okunus": "eizâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "biz olduğumuzda mı"
+  },
+  {
+   "kelime": "كُنَّا",
+   "okunus": "künnâ",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduğumuzda"
+  },
+  {
+   "kelime": "تُرَٰبًا",
+   "okunus": "türâben",
+   "kok": "ترب",
+   "kokAnlam": "toprak",
+   "karsilik": "toprak"
+  },
+  {
+   "kelime": "وَءَابَآؤُنَآ",
+   "okunus": "ve âbâünâ",
+   "kok": "أبو",
+   "kokAnlam": "baba, atalık",
+   "karsilik": "ve atalarımız da"
+  },
+  {
+   "kelime": "أَئِنَّا",
+   "okunus": "einnâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz, gerçekten",
+   "karsilik": "gerçekten biz mi"
+  },
+  {
+   "kelime": "لَمُخْرَجُونَ",
+   "okunus": "lemühracûne",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, çıkarma",
+   "karsilik": "çıkarılacağız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki bilgi eksikliği, şüphe ve körlük hali, burada inkârcıların kendi ağzından somut bir itiraza dönüşür: toprak olduktan sonra yeniden çıkarılmayı imkânsız görürler. Bu, insanlık tarihinde dirilişe karşı en sık tekrarlanan itirazlardan biridir.",
+  "Sorunun 'biz ve atalarımız' şeklinde genişletilmesi, itirazı sadece bir kişinin değil, nesiller boyu süregelen bir inkâr geleneğinin sözü haline getirir. Bu tutum, 64. ayetteki 'yaratmayı başlatıp tekrarlayan kim' sorusunun cevabını görmezden gelen bir tavırdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "23:82",
+   "meal": "Dediler ki: 'Biz toprak ve kemik olduğumuzda mı, gerçekten yeniden diriltilecek miyiz?'",
+   "baglanti": "Mü'minûn suresindeki bu ayet, Neml 67'deki itirazın hemen hemen aynısını, aynı şaşkınlık tonuyla tekrarlar."
+  },
+  {
+   "ref": "36:78",
+   "meal": "O bize bir örnek verdi ve kendi yaratılışını unuttu; 'Şu çürümüş kemikleri kim diriltecek?' dedi.",
+   "baglanti": "Yâsîn suresindeki bu ayet, aynı itirazı bir kişinin ağzından anlatır ve bunun kendi yaratılışını unutmaktan kaynaklandığını vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, öldükten sonra dirilmeyi akılla imkânsız görüp reddeden bir tutumdur. Bu, doğrudan bir inanç meselesidir ve her dönemde benzer itirazlarla karşılaşılabilir.",
+  "Sen de bir konuda 'bu imkânsız' diye hemen reddetmeden önce, ilk yaratılışın da aslında hiç daha kolay olmadığını hatırlayabilirsin. Bir şeyin ilk kez var olması, onun tekrar var olmasından daha zor değildir; bu, hem inanç hem de günlük mantık için geçerli bir ilkedir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hemen imkânsız deme",
+   "aciklama": "Bugün bir konuda 'bu imkânsız' demeden önce, bir kez daha düşün."
+  },
+  {
+   "baslik": "İlk oluşu hatırla",
+   "aciklama": "Bir şeyin ilk defa nasıl var olduğunu düşünüp, onun tekrarının neden daha zor olmayacağını anla."
+  },
+  {
+   "baslik": "Sonsuzluğu unutma",
+   "aciklama": "Bugün aldığın bir kararı, sadece bu dünyaya değil, ölümden sonrasına da bakarak değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararını, sadece bu dünyayı değil ölümden sonrasını da düşünerek ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=67"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/67"
+  }
+ ]
+}

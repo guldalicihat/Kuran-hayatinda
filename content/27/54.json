@@ -1,0 +1,110 @@
+{
+ "sure": 27,
+ "ayet": 54,
+ "durum": "taslak",
+ "meal": "Lût'u da [gönderdik]; hani kavmine demişti ki: 'Siz göz göre göre o hayâsızlığı mı yapıyorsunuz?'",
+ "mealNotu": "[gönderdik] köşeli parantezle eklendi; 've lûtan' ifadesindeki fiil, önceki ayetlerdeki 'erselnâ' (gönderdik) fiilinden elde edilir, ayette tekrar edilmez.",
+ "kokler": [
+  {
+   "kelime": "وَلُوطًا",
+   "okunus": "ve lûtan",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Lût",
+   "karsilik": "Lût'u da [gönderdik]"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "لِقَوْمِهِۦٓ",
+   "okunus": "likavmihî",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, ayakta durma, kavim",
+   "karsilik": "kavmine"
+  },
+  {
+   "kelime": "أَتَأْتُونَ",
+   "okunus": "ete'tûne",
+   "kok": "أتي",
+   "kokAnlam": "gelme, getirme, verilme",
+   "karsilik": "yapıyor musunuz"
+  },
+  {
+   "kelime": "ٱلْفَٰحِشَةَ",
+   "okunus": "elfâhişete",
+   "kok": "فحش",
+   "kokAnlam": "çirkinlik, hayâsızlık, aşırılık",
+   "karsilik": "o hayâsızlığı"
+  },
+  {
+   "kelime": "وَأَنتُمْ",
+   "okunus": "ve entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "oysa siz"
+  },
+  {
+   "kelime": "تُبْصِرُونَ",
+   "okunus": "tübsırûne",
+   "kok": "بصر",
+   "kokAnlam": "görme, kavrama, basiret",
+   "karsilik": "görüp duruyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Semûd kıssasından sonra sure, Lût kıssasına kısa ve özlü bir şekilde döner. Lût, kavmine yaptıkları çirkin işin -burada 'fâhişe' (hayâsızlık) olarak adlandırılan cinsel sapma- açıkça ve göz göre göre yapıldığını hatırlatarak söze başlar.",
+  "'Ve entüm tübsırûne' (oysa siz görüp duruyorsunuz) ifadesi, bu davranışın gizli değil, herkesin gözü önünde, hiçbir utanma duymadan yapıldığını vurgular. Bu, kıssanın 26. suredeki ayrıntılı anlatımından farklı olarak, burada işin açıklıkla ve utanmazlıkla yapılmasına odaklanan kısa bir vurgudur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:80",
+   "meal": "Lût'u da [gönderdik]; hani kavmine demişti ki: 'Sizden önce âlemlerden hiç kimsenin yapmadığı o hayâsızlığı mı yapıyorsunuz?'",
+   "baglanti": "A'râf suresindeki bu ayet, Neml 54'ün neredeyse aynısıdır; Lût'un kavmine söylediği ilk sözün başka bir surede tekrarıdır."
+  },
+  {
+   "ref": "29:28",
+   "meal": "Lût'u da [gönderdik]; hani kavmine demişti ki: 'Sizden önce âlemlerden hiç kimsenin yapmadığı o hayâsızlığı gerçekten yapıyorsunuz.'",
+   "baglanti": "Ankebût suresindeki bu ayet de aynı sözü, hafif bir üslup farkıyla tekrarlar; üç surede de Lût'un sözü aynı temel mesajı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir toplumun açıkça ve utanmadan yaptığı ahlaki bir sapmadır; bu, özel bir konu olup her ayrıntısıyla güncel bir davranışa birebir aktarılmaz.",
+  "Yine de buradan genel bir ders çıkarılabilir: bir şeyin yaygınlaşması veya açıkça yapılması, onu doğru yapmaz. Sen de çevrende yaygın olan ama yanlış olduğunu bildiğin bir tutuma, sırf herkes yapıyor diye katılmayabilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yaygınlığa aldanma",
+   "aciklama": "Bugün bir davranışın yaygın olması, onu doğru yapmadığını hatırla."
+  },
+  {
+   "baslik": "Görüp duruyorsan uyar",
+   "aciklama": "Yanlış olduğunu bildiğin bir şeye şahit olduğunda, sessiz kalmak yerine nazikçe uyarmayı dene."
+  },
+  {
+   "baslik": "Kendi sınırını koru",
+   "aciklama": "Çevrenin kabul ettiği ama senin doğru bulmadığın bir şeye, kendi değerlerinle karşı dur."
+  }
+ ],
+ "bugununAdimi": "Bugün çevrende yaygın ama yanlış bulduğun bir tutuma katılmadan, kendi çizgini koru.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=27&verse=54"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/27/54"
+  }
+ ]
+}
