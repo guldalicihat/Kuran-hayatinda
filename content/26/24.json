@@ -1,0 +1,117 @@
+{
+ "sure": 26,
+ "ayet": 24,
+ "durum": "taslak",
+ "meal": "Musa dedi: Eğer kesin olarak bilenlerdenseniz, [O] göklerin, yerin ve ikisi arasındakilerin Rabbidir.",
+ "mealNotu": "'Mûkınîn' kökü şüpheye yer bırakmayan kesin bilgiyi anlatır; Musa cevabını doğrudan Firavun'a değil, çevresindeki herkese, akıl ve gözlemle ulaşılabilecek bir gerçeğe dayandırır.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "رَبُّ",
+   "okunus": "rabbü",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye etme",
+   "karsilik": "Rabbidir"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yücelik; gök",
+   "karsilik": "göklerin"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yerin"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve ne",
+   "karsilik": "ve ne"
+  },
+  {
+   "kelime": "بَيْنَهُمَآ",
+   "okunus": "beynehümâ",
+   "kok": "بين",
+   "kokAnlam": "açık, ayan beyan; ayırt etme",
+   "karsilik": "ikisi arasındaki"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُم",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "مُّوقِنِينَ",
+   "okunus": "mûkınîne",
+   "kok": "يقن",
+   "kokAnlam": "şüphesiz kesin bilgi",
+   "karsilik": "kesin bilenlerden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Musa, Firavun'un küçümseyici sorusuna, somut ve gözlemlenebilir bir cevap verir: âlemlerin Rabbi, göklerin, yerin ve ikisi arasındaki her şeyin Rabbidir. Bu tanım soyut değildir; herkesin her gün gördüğü gökyüzü ve yeryüzüne işaret eder.",
+  "Cevabın sonunda eklenen 'eğer kesin olarak bilenlerdenseniz' ifadesi, bilginin ulaşılabilir olduğunu, ancak bunu kabul etmenin bir irade meselesi olduğunu vurgular. Klasik tefsir bu cevabı, Musa'nın tartışmayı soyut bir kavram düzeyinden herkesin doğrulayabileceği somut bir gerçekliğe taşıması olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "19:65",
+   "meal": "O, göklerin, yerin ve ikisi arasındakilerin Rabbidir; öyleyse O'na kulluk et ve kulluğunda sabırlı ol.",
+   "baglanti": "Meryem suresinde neredeyse birebir aynı tanım, bu kez bir emirle -kulluk ve sabırla- birlikte verilir."
+  },
+  {
+   "ref": "51:20",
+   "meal": "Yeryüzünde kesin bilenler için ayetler vardır.",
+   "baglanti": "Zâriyât suresi, Musa'nın burada kullandığı 'mûkınîn' (kesin bilenler) kelimesini, yeryüzündeki delillerle doğrudan ilişkilendirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Musa'nın Firavun'a verdiği ilk cevaptır.",
+  "Günlük hayata taşınabilecek ders, bir gerçeği anlatırken soyut tartışmalara girmek yerine herkesin görebileceği somut delillere işaret etmenin daha etkili olabileceğidir. Bazen en güçlü cevap, karmaşık değil sade ve gözlemlenebilir olandır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Somut delil kullan",
+   "aciklama": "Bugün bir fikrini savunurken soyut iddialar yerine gözlemlenebilir bir örnek ver."
+  },
+  {
+   "baslik": "Gökyüzüne bak",
+   "aciklama": "Bugün birkaç dakika gökyüzünü izleyerek düzenini düşün."
+  },
+  {
+   "baslik": "Sakin cevap ver",
+   "aciklama": "Seni küçümseyen bir soruya bugün öfkeyle değil, sakin ve net bir cevapla karşılık ver."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuşmada, iddianı desteklemek için soyut değil somut bir örnek kullan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=24"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/24"
+  }
+ ]
+}

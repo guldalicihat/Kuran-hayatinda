@@ -1,0 +1,82 @@
+{
+ "sure": 26,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Bunlar, apaçık Kitabın ayetleridir.",
+ "mealNotu": "'Mübîn' kökü hem 'açık, anlaşılır' hem de 'ayırt edici, açıklayıcı' anlamını birlikte taşır; bu yüzden 'apaçık' karşılığı tercih edildi.",
+ "kokler": [
+  {
+   "kelime": "تِلْكَ",
+   "okunus": "tilke",
+   "kok": "—",
+   "kokAnlam": "(işaret) şu, bunlar",
+   "karsilik": "bunlar"
+  },
+  {
+   "kelime": "ءَايَٰتُ",
+   "okunus": "âyâtü",
+   "kok": "أيي",
+   "kokAnlam": "ayet, işaret",
+   "karsilik": "ayetleridir"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı şey, kitap",
+   "karsilik": "Kitabın"
+  },
+  {
+   "kelime": "ٱلْمُبِينِ",
+   "okunus": "elmübîni",
+   "kok": "بين",
+   "kokAnlam": "açık, ayan beyan; ayırt etme",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Mukattaa harflerinin ardından gelen bu ayet, az önce okunan harflerin aslında apaçık bir Kitaba işaret ettiğini bildirir. 'Kitab' burada Kur'an'ı, 'mübîn' ise onun hem kendi içinde açık hem de hakkı batıldan ayırt edici olduğunu anlatır.",
+  "Aynı 'Tilke âyâtül kitâbil mübîn' cümlesi Yûsuf ve Kasas surelerinin de ilk ayetlerinde geçer. Bu tekrar, Kur'an'ın farklı surelerinde aynı vurgunun yapıldığını gösterir: okuyucunun karşısında duran metin, kapalı değil açık bir mesajdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "12:1",
+   "meal": "Elif Lâm Râ. Bunlar apaçık Kitabın ayetleridir.",
+   "baglanti": "Yûsuf suresi de aynı cümleyle açılır; farklı mukattaa harflerine rağmen ifade birebir aynıdır."
+  },
+  {
+   "ref": "28:2",
+   "meal": "Bunlar apaçık Kitabın ayetleridir.",
+   "baglanti": "Kasas suresi, bir önceki ayette Şu'arâ ile aynı harflerle başladığı gibi bu ayette de aynı cümleyle devam eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, elindeki Kitabın niteliğidir: açık ve ayırt edicidir.",
+  "Bugüne taşınabilecek ders şu: bir metnin 'açık' olması, onu okuyanın da açık niyetle, anlamaya çalışarak okumasını gerektirir. Kitabı rafta tutmakla, sayfalarını anlayarak okumak arasında fark vardır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Anlayarak oku",
+   "aciklama": "Bugün okuduğun bir ayeti, mealine bakarak ne dediğini kendi cümlenle özetle."
+  },
+  {
+   "baslik": "Kapalı kalan bir konuyu aç",
+   "aciklama": "Dini bir konuda net bilmediğin bir noktayı bugün güvenilir bir kaynaktan araştır."
+  },
+  {
+   "baslik": "Açık mesajı paylaş",
+   "aciklama": "Bugün öğrendiğin net bir ayet mesajını bir yakınınla kısaca paylaş."
+  }
+ ],
+ "bugununAdimi": "Bugün bir ayet oku ve anlamını kendi cümlenle bir kağıda yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/2"
+  }
+ ]
+}

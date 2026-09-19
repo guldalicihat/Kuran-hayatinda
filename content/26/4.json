@@ -1,0 +1,131 @@
+{
+ "sure": 26,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Dilesek üzerlerine gökten bir ayet indiririz de boyunları ona boyun eğmiş kalır.",
+ "mealNotu": "'Hâdıîn' kökü, zorunlu, direnemeden boyun eğmeyi anlatır; ayet, gösterişli bir mucizenin insanları imana değil, çaresiz bir teslimiyete sürükleyeceğini vurgular.",
+ "kokler": [
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "نَّشَأْ",
+   "okunus": "neşe'",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme",
+   "karsilik": "dilersek"
+  },
+  {
+   "kelime": "نُنَزِّلْ",
+   "okunus": "nünezzil",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indiririz"
+  },
+  {
+   "kelime": "عَلَيْهِم",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) üzerlerine",
+   "karsilik": "üzerlerine"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "yücelik; gök",
+   "karsilik": "gökten"
+  },
+  {
+   "kelime": "ءَايَةً",
+   "okunus": "âyeten",
+   "kok": "أيي",
+   "kokAnlam": "ayet, işaret",
+   "karsilik": "bir ayet"
+  },
+  {
+   "kelime": "فَظَلَّتْ",
+   "okunus": "fezallet",
+   "kok": "ظلل",
+   "kokAnlam": "sürekli olma, kalma",
+   "karsilik": "kalırdı"
+  },
+  {
+   "kelime": "أَعْنَٰقُهُمْ",
+   "okunus": "a'nâkuhüm",
+   "kok": "عنق",
+   "kokAnlam": "boyun",
+   "karsilik": "boyunları"
+  },
+  {
+   "kelime": "لَهَا",
+   "okunus": "lehâ",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "خَٰضِعِينَ",
+   "okunus": "hâdıîne",
+   "kok": "خضع",
+   "kokAnlam": "boyun eğme, alçak gönüllülük",
+   "karsilik": "boyun eğmiş"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Peygamberin üzüntüsüne bir cevap gibidir: Allah dileseydi, gökten öyle bir ayet/mucize indirirdi ki karşısında kimse direnemez, herkesin boyun eğmesi kaçınılmaz olurdu. 'Boyun' kelimesinin seçilmesi, bunun gönülden bir teslimiyet değil, bedensel ve zorunlu bir eğilme olacağını hissettirir.",
+  "Ancak Kur'an'ın genel tutumu, imanı böyle bir zorlamayla değil, düşünüp seçmekle bağlantılı görür. Klasik tefsir bu ayeti, Allah'ın gücü elverdiği halde insanları imana zorlamadığını, hidayeti seçime bıraktığını açıklayan bir örnek olarak sunar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:99",
+   "meal": "Eğer Rabbin dileseydi, yeryüzündekilerin hepsi elbette iman ederdi. Sen mi insanları mümin olsunlar diye zorlayacaksın?",
+   "baglanti": "Aynı 'dileseydik hepsi inanırdı' fikrini açıkça soru haline getirir; iman zorlamayla değil seçimle olur."
+  },
+  {
+   "ref": "15:14",
+   "meal": "Onlara gökten bir kapı açsak da oradan yukarı çıksalar,",
+   "baglanti": "Hicr suresinde de gökten gelecek olağanüstü bir görüntünün bile inatçı bir kalbi değiştirmeyeceği anlatılır; aynı 'zallet/fezallû' fiili kullanılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu vahiy ve mucizedir; günlük hayatta birebir uygulanacak bir hüküm içermez.",
+  "Yine de buradan bir ders çıkar: başkasını bir görüşe ya da davranışa zorlayarak elde ettiğin uyum, gönülden bir kabul değildir. Baskıyla elde edilen 'evet', kalıcı bir ikna değildir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İkna et, zorlama",
+   "aciklama": "Bugün bir fikrini kabul ettirmek isterken baskı yerine açıklama ve sabır kullan."
+  },
+  {
+   "baslik": "Gönülsüz uyumu fark et",
+   "aciklama": "Etrafındaki birinin sana sadece görünüşte hak verdiği bir anı bugün fark et ve üzerine gitme."
+  },
+  {
+   "baslik": "Kendi seçimini sorgula",
+   "aciklama": "Bugün yaptığın bir şeyin gerçekten inandığın için mi, yoksa baskı yüzünden mi olduğunu düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda birini ikna ederken baskı değil, tek bir sakin açıklama kullan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/4"
+  }
+ ]
+}

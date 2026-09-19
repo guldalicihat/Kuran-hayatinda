@@ -1,0 +1,110 @@
+{
+ "sure": 26,
+ "ayet": 29,
+ "durum": "taslak",
+ "meal": "Firavun dedi: Andolsun, benden başka bir ilah edinirsen, seni kesinlikle hapsedilenlerden kılarım.",
+ "mealNotu": "'Mescûnîn' kökü hapsetme, kapatmayı anlatır; Firavun, akılcı cevap veremeyince tehdide başvurur.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "لَئِنِ",
+   "okunus": "leini",
+   "kok": "—",
+   "kokAnlam": "(şart) andolsun eğer",
+   "karsilik": "andolsun eğer"
+  },
+  {
+   "kelime": "ٱتَّخَذْتَ",
+   "okunus": "ittehazte",
+   "kok": "أخذ",
+   "kokAnlam": "alma, edinme",
+   "karsilik": "edinirsen"
+  },
+  {
+   "kelime": "إِلَٰهًا",
+   "okunus": "ilâhen",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "bir ilah"
+  },
+  {
+   "kelime": "غَيْرِى",
+   "okunus": "gayrî",
+   "kok": "غير",
+   "kokAnlam": "başkalık, fark",
+   "karsilik": "benden başka"
+  },
+  {
+   "kelime": "لَأَجْعَلَنَّكَ",
+   "okunus": "leec'alenneke",
+   "kok": "جعل",
+   "kokAnlam": "kılma, yapma",
+   "karsilik": "seni kesinlikle kılarım"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمَسْجُونِينَ",
+   "okunus": "elmescûnîne",
+   "kok": "سجن",
+   "kokAnlam": "hapsetme, kapatma",
+   "karsilik": "hapsedilenlerden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Musa'nın sakin ve tutarlı cevabına karşı Firavun, artık tartışmayı sürdürmez, doğrudan güç kullanma tehdidine geçer: kendisinden başka bir ilah kabul edilmesini yasaklar ve karşı çıkanı hapisle tehdit eder.",
+  "Bu sözler, Firavun'un yalnız bir siyasi lider değil, kendini ilah konumunda gördüğünü açıkça ortaya koyar. Klasik tefsir bu ayeti, gücünü akılla değil zorla koruyan bir yöneticinin son çare olarak baskıya başvurduğunun bir örneği olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "12:32",
+   "meal": "...Andolsun, eğer emrettiğimi yapmazsa, kesinlikle hapsedilecek ve küçük düşürülenlerden olacaktır.",
+   "baglanti": "Yûsuf suresinde de aynı kökle (hapsetme) bir tehdit dile getirilir; güç sahiplerinin direnenlere karşı ortak bir yöntemi olarak hapis tehdidi tekrarlanır."
+  },
+  {
+   "ref": "7:127",
+   "meal": "Firavun kavminin ileri gelenleri dediler ki: Musa'yı ve kavmini, yeryüzünde bozgunculuk yapsınlar, seni ve ilahlarını terk etsinler diye mi bırakacaksın?",
+   "baglanti": "A'râf suresi, Firavun'un çevresinin de aynı endişeyi -kendi otoritelerinin ve 'ilahlarının' sorgulanması- paylaştığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Firavun'un tehdidi ve güç gösterisidir.",
+  "Günlük hayata taşınabilecek ders, doğru bir duruşun bazen bedel gerektirebileceğidir. Musa, tehdit karşısında geri adım atmaz; bu, hakkı savunmanın bazen risk almayı göze almayı gerektirdiğini gösterir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Baskı altında geri adım atma",
+   "aciklama": "Bugün doğru bulduğun bir görüşü, tepki alma korkusuyla değiştirmekten kaçın."
+  },
+  {
+   "baslik": "Gücü hakla karıştırma",
+   "aciklama": "Bir tartışmada bugün sesini yükseltmek yerine haklılığını sakin biçimde savun."
+  },
+  {
+   "baslik": "Baskıyı fark et",
+   "aciklama": "Bugün etrafında birine yapılan bir baskıyı fark edersen, ona küçük bir destek sözüyle yanında olduğunu göster."
+  }
+ ],
+ "bugununAdimi": "Bugün doğru bulduğun bir konuda, tepki almaktan çekinmeden görüşünü net biçimde söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=29"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/29"
+  }
+ ]
+}

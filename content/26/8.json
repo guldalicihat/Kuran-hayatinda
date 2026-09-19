@@ -1,0 +1,110 @@
+{
+ "sure": 26,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "Şüphesiz bunda bir ayet vardır; ama onların çoğu mümin değildir.",
+ "mealNotu": "Kısa ve doğrudan bir meal; kökler açık, ek yoruma gerek yok.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) şu, bu",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "لَءَايَةً",
+   "okunus": "leâyeten",
+   "kok": "أيي",
+   "kokAnlam": "ayet, işaret",
+   "karsilik": "bir ayet vardır"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmadı"
+  },
+  {
+   "kelime": "أَكْثَرُهُم",
+   "okunus": "ekseruhüm",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "onların çoğu"
+  },
+  {
+   "kelime": "مُّؤْمِنِينَ",
+   "okunus": "mü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven; güvenerek inanan",
+   "karsilik": "mümin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette anlatılan bitki çeşitliliği burada açıkça 'ayet' (işaret) olarak adlandırılır. Yaratılıştaki düzen, Allah'ın varlığına ve gücüne işaret eden görünür bir delildir.",
+  "Ayetin ikinci yarısı ise dengeleyici bir gerçeği ekler: bu apaçık işarete rağmen insanların çoğu iman etmez. Klasik tefsir bu tür ifadeleri, delilin yeterliliğiyle insanın imanı kabul etmesi arasındaki farkı hatırlatan bir uyarı olarak açıklar; delil eksik değildir, çoğu zaman eksik olan kabul iradesidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:67",
+   "meal": "Şüphesiz bunda bir ayet vardır; ama onların çoğu mümin değildir.",
+   "baglanti": "Bu cümle, Şu'arâ suresinde her kıssanın sonunda tekrar eden bir nakarattır; aynı gerçek farklı peygamber kıssalarının ardından yinelenir."
+  },
+  {
+   "ref": "6:116",
+   "meal": "Yeryüzündekilerin çoğuna uyarsan seni Allah'ın yolundan saptırırlar; onlar sadece zanna uyarlar ve onlar sadece tahminde bulunurlar.",
+   "baglanti": "En'âm suresi, çoğunluğun doğru yolda olmayabileceğini başka bir açıdan hatırlatır; iman, sayı çokluğuyla ölçülmez."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu iman ve delil ilişkisidir; kişisel bir emir içermez.",
+  "Günlük hayata taşınabilecek ders, çoğunluğun bir şeyi yapmasının ya da inanmasının, o şeyin doğru olduğu anlamına gelmediğidir. Kalabalığa uymak yerine, delili ve doğruyu ölçüt almak daha sağlam bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Çoğunluğu sorgula",
+   "aciklama": "Bugün 'herkes böyle yapıyor' dediğin bir davranışı, doğru olup olmadığı açısından yeniden değerlendir."
+  },
+  {
+   "baslik": "Bir işareti fark et",
+   "aciklama": "Bugün etrafında gördüğün bir doğa olayını, üzerinde bir an durarak izle."
+  },
+  {
+   "baslik": "Kendi kabulünü gözden geçir",
+   "aciklama": "Bugün bildiğin ama üzerinde yeterince düşünmediğin bir gerçeği tekrar hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün 'herkes yapıyor diye' takip ettiğin bir alışkanlığı, doğruluğunu düşünerek bir kez sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/8"
+  }
+ ]
+}

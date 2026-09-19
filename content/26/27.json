@@ -1,0 +1,103 @@
+{
+ "sure": 26,
+ "ayet": 27,
+ "durum": "taslak",
+ "meal": "Firavun dedi: Size gönderilen bu elçiniz gerçekten delidir.",
+ "mealNotu": "'Mecnûn' kökü, cin çarpmasıyla ilişkilendirilen bir delilik iddiasını anlatır; Firavun, Musa'nın sözlerine akılcı bir cevap veremeyince onu akıl dışı ilan eder.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "رَسُولَكُمُ",
+   "okunus": "rasûlekümü",
+   "kok": "رسل",
+   "kokAnlam": "gönderme; elçi",
+   "karsilik": "elçiniz"
+  },
+  {
+   "kelime": "ٱلَّذِىٓ",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki o",
+   "karsilik": "ki o"
+  },
+  {
+   "kelime": "أُرْسِلَ",
+   "okunus": "ürsile",
+   "kok": "رسل",
+   "kokAnlam": "gönderme; elçi",
+   "karsilik": "gönderildi"
+  },
+  {
+   "kelime": "إِلَيْكُمْ",
+   "okunus": "ileyküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "لَمَجْنُونٌ",
+   "okunus": "lemecnûnün",
+   "kok": "جنن",
+   "kokAnlam": "cin çarpması, gizlilik; delilik",
+   "karsilik": "delidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Musa'nın atalar vurgusuyla genişleyen cevabına karşı Firavun, yine mantıklı bir karşılık vermek yerine hakarete başvurur: elçiyi delilikle suçlar. Bu, gücünü kaybeden bir otoritenin tipik bir savunma biçimidir.",
+  "'Size gönderilen elçiniz' ifadesi, alaycı bir vurguyla söylenmiştir; Firavun, Musa'nın elçiliğini kabul ediyormuş gibi görünüp hemen ardından onu akıl dışı ilan eder. Klasik tefsir, peygamberleri delilikle suçlamanın, geçmiş toplulukların ortak bir tepkisi olduğunu belirtir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:6",
+   "meal": "Dediler ki: Ey kendisine zikir indirilen kişi, sen gerçekten delisin.",
+   "baglanti": "Hicr suresinde Mekkeli müşrikler, Peygamber Muhammed'e karşı aynı suçlamayı, aynı kökle dile getirirler."
+  },
+  {
+   "ref": "68:51",
+   "meal": "İnkâr edenler zikri işittiklerinde neredeyse seni gözleriyle devirecekler ve 'O gerçekten delidir' diyorlar.",
+   "baglanti": "Kalem suresi, aynı suçlamanın öfke ve düşmanlıkla birleştiğini gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Firavun'un Musa'ya yönelttiği hakarettir.",
+  "Günlük hayata taşınabilecek ders, doğruyu söyleyen birine bazen mantıklı bir cevap verilemediği için hakaretle karşılık verilebileceğidir. Böyle bir durumda kişinin kendi doğruluğundan şüpheye düşmemesi önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hakarete hakaretle karşılık verme",
+   "aciklama": "Bugün haksız bir suçlamaya uğrarsan, aynı üslupla karşılık vermek yerine sakin kal."
+  },
+  {
+   "baslik": "Doğruluğundan şüphe etme",
+   "aciklama": "Haklı olduğun bir konuda, karşı tarafın tepkisine bakıp kendi doğrundan vazgeçme."
+  },
+  {
+   "baslik": "Etiketlemeden kaçın",
+   "aciklama": "Bugün fikrine katılmadığın birini kolay bir etiketle (deli, saçma vb.) damgalamaktan kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün haksız bir eleştiriye, öfkeyle değil sakin bir cevapla karşılık ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=27"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/27"
+  }
+ ]
+}

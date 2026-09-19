@@ -1,0 +1,89 @@
+{
+ "sure": 26,
+ "ayet": 30,
+ "durum": "taslak",
+ "meal": "Musa dedi: Sana apaçık bir şey getirsem de mi [böyle mi diyeceksin]?",
+ "mealNotu": "Cümle Arapçada eksiltili bir sorudur; 'evelev' (peki ya... olsa da mı) ifadesinin tamamlanmayan kısmı, bağlamdan anlaşılan 'yine de mi hapsedersin' anlamını taşır; köşeli parantezle bu bağlam belirtildi.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "أَوَلَوْ",
+   "okunus": "evelev",
+   "kok": "—",
+   "kokAnlam": "(şart) peki ya... olsa da mı",
+   "karsilik": "peki ya... getirsem de mi"
+  },
+  {
+   "kelime": "جِئْتُكَ",
+   "okunus": "ci'tüke",
+   "kok": "جيأ",
+   "kokAnlam": "gelme, getirme",
+   "karsilik": "sana getirsem"
+  },
+  {
+   "kelime": "بِشَىْءٍ",
+   "okunus": "bişey'in",
+   "kok": "شيأ",
+   "kokAnlam": "isteme, dileme; şey",
+   "karsilik": "bir şey"
+  },
+  {
+   "kelime": "مُّبِينٍ",
+   "okunus": "mübînin",
+   "kok": "بين",
+   "kokAnlam": "açık, ayan beyan; ayırt etme",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Firavun'un hapis tehdidine karşı Musa, korkuyla geri çekilmez; tehdidin mantığını sorgulayan bir soru sorar: sana apaçık bir delil getirsem de mi (yine de böyle mi davranırsın)? Bu, tehdidin haksızlığına dikkat çeken cesur bir karşılıktır.",
+  "Musa böylece konuyu yeniden asıl meseleye, yani delile döndürür. Klasik tefsir bu soruyu, Musa'nın tehdide aldırmadan elindeki delili ortaya koymaya hazır olduğunu gösteren bir geçiş cümlesi olarak açıklar; hemen ardından (32-33. ayetler) bu delil gösterilecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "28:32",
+   "meal": "...İşte bunlar, Firavun'a ve ileri gelenlerine karşı Rabbinden sana verilen iki delildir; şüphesiz onlar yoldan çıkmış bir topluluktur.",
+   "baglanti": "Kasas suresi, Musa'nın burada 'apaçık bir şey' dediği delilin, asa ve el mucizesinden oluşan iki kanıt olduğunu belirtir."
+  },
+  {
+   "ref": "17:59",
+   "meal": "Bizi ayetler göndermekten alıkoyan şey, ancak öncekilerin onları yalanlamış olmasıdır.",
+   "baglanti": "İsrâ suresi, açık bir delilin bile inatçı bir kalbi değiştirmeyebileceğini hatırlatarak, Musa'nın burada sorduğu sorunun arka planını aydınlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Musa'nın tehdit karşısındaki cesur duruşudur.",
+  "Günlük hayata taşınabilecek ders, haklı olduğun bir konuda karşındaki kişi ne kadar sert davranırsa davransın, elindeki gerçeği ortaya koymaktan çekinmemektir. Tehdit, doğruyu söylemenin önünde bir engel olmamalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Delilini sun",
+   "aciklama": "Bugün haklı olduğun bir konuda, tepki almaktan çekinmeden elindeki gerçeği ortaya koy."
+  },
+  {
+   "baslik": "Tehdide teslim olma",
+   "aciklama": "Bir baskı karşısında bugün doğru bulduğun tutumdan vazgeçme."
+  },
+  {
+   "baslik": "Soruyla karşılık ver",
+   "aciklama": "Haksız bir tavırla karşılaştığında bugün öfkelenmeden, mantıklı bir soruyla karşılık ver."
+  }
+ ],
+ "bugununAdimi": "Bugün haklı olduğun bir konuda, çekinmeden elindeki en somut örneği veya kanıtı paylaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=30"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/30"
+  }
+ ]
+}

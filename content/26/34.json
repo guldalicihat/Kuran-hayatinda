@@ -1,0 +1,103 @@
+{
+ "sure": 26,
+ "ayet": 34,
+ "durum": "taslak",
+ "meal": "Firavun çevresindeki ileri gelenlere dedi ki: Bu gerçekten bilgili bir sihirbazdır.",
+ "mealNotu": "'Sâhir' kökü sihir yapan kişiyi, 'alîm' kökü ise bilgi ve ustalığı anlatır; Firavun, mucizeyi büyü olarak yorumlar.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "لِلْمَلَإِ",
+   "okunus": "lilmelei",
+   "kok": "ملأ",
+   "kokAnlam": "topluluk, ileri gelenler",
+   "karsilik": "ileri gelenlere"
+  },
+  {
+   "kelime": "حَوْلَهُۥٓ",
+   "okunus": "havlehû",
+   "kok": "حول",
+   "kokAnlam": "çevre, etraf; dönme",
+   "karsilik": "çevresindeki"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "لَسَٰحِرٌ",
+   "okunus": "lesâhirun",
+   "kok": "سحر",
+   "kokAnlam": "büyü, sihir",
+   "karsilik": "bir sihirbazdır"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilme; âlem",
+   "karsilik": "bilgili"
+  }
+ ],
+ "neAnlatiyor": [
+  "İki apaçık mucizeyle karşılaşan Firavun, bunları inkâr edemez ama kabul de etmez; onları 'bilgili bir sihirbazlık' olarak yorumlayarak açıklamaya çalışır. Bu, gerçeği reddetmenin bir yolu olarak sıkça başvurulan bir savunma biçimidir.",
+  "'İleri gelenlere' söylenmesi, Firavun'un yine yalnız başına değil, çevresindeki destekçileriyle birlikte bir açıklama üretme çabasını gösterir. Klasik tefsir bu tepkiyi, mucizenin gücünü kabul edip de imana gelmeyen bir kalbin tipik savunma mekanizması olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:109",
+   "meal": "Firavun kavminin ileri gelenleri dediler ki: Bu gerçekten bilgili bir sihirbazdır.",
+   "baglanti": "A'râf suresinde aynı cümle, bu kez Firavun'un kendisi değil çevresindeki ileri gelenler tarafından söylenir; iki anlatım birbirini tamamlar."
+  },
+  {
+   "ref": "10:79",
+   "meal": "Firavun dedi: Bana bütün bilgili sihirbazları getirin.",
+   "baglanti": "Yûnus suresi, Firavun'un bu yorumunun ardından attığı adımı, sihirbaz toplama emrini anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Firavun'un mucizeyi açıklama biçimidir.",
+  "Günlük hayata taşınabilecek ders, bazen açık bir gerçeği kabul etmek yerine ona farklı, kendi çıkarına uygun bir açıklama uydurma eğiliminin insan doğasında var olduğudur. Bunu fark etmek, kendi düşüncelerini sorgulaman için de bir uyarı olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendi açıklamanı sorgula",
+   "aciklama": "Bugün kabul etmek istemediğin bir gerçeğe karşı ürettiğin bahaneyi bir kez sorgula."
+  },
+  {
+   "baslik": "Gerçeği olduğu gibi kabul et",
+   "aciklama": "Açık bir gerçekle karşılaştığında bugün onu çarpıtmadan olduğu gibi kabul et."
+  },
+  {
+   "baslik": "Etiketleme çabasına dikkat",
+   "aciklama": "Bugün anlamadığın veya kabullenmek istemediğin bir şeyi kolay bir etiketle geçiştirmekten kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün kabul etmekte zorlandığın bir gerçeği, bahane üretmeden olduğu gibi kabul et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=34"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/34"
+  }
+ ]
+}

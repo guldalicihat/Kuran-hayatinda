@@ -1,0 +1,110 @@
+{
+ "sure": 26,
+ "ayet": 35,
+ "durum": "taslak",
+ "meal": "Sizi büyüsüyle yurdunuzdan çıkarmak istiyor; şimdi ne buyurursunuz?",
+ "mealNotu": "'Te'mürûne' kökü emretme ve görüş bildirmeyi anlatır; Firavun, kararı tek başına değil danışarak alıyormuş izlenimi verir.",
+ "kokler": [
+  {
+   "kelime": "يُرِيدُ",
+   "okunus": "yürîdü",
+   "kok": "رود",
+   "kokAnlam": "isteme, arzu etme",
+   "karsilik": "istiyor"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesini",
+   "karsilik": "-mesini"
+  },
+  {
+   "kelime": "يُخْرِجَكُم",
+   "okunus": "yühriceküm",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, çıkarma",
+   "karsilik": "sizi çıkarmasını"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَرْضِكُم",
+   "okunus": "erdıküm",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yurdunuzdan"
+  },
+  {
+   "kelime": "بِسِحْرِهِۦ",
+   "okunus": "bisihrihî",
+   "kok": "سحر",
+   "kokAnlam": "büyü, sihir",
+   "karsilik": "büyüsüyle"
+  },
+  {
+   "kelime": "فَمَاذَا",
+   "okunus": "femâzâ",
+   "kok": "—",
+   "kokAnlam": "(soru) şimdi ne",
+   "karsilik": "şimdi ne"
+  },
+  {
+   "kelime": "تَأْمُرُونَ",
+   "okunus": "te'mürûne",
+   "kok": "أمر",
+   "kokAnlam": "emretme, buyurma, görüş bildirme",
+   "karsilik": "buyurursunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Firavun, mucizeyi 'bilgili sihirbazlık' olarak niteledikten sonra, bunu bir tehdit olarak sunar: Musa'nın amacının halkı yurdundan çıkarmak olduğunu iddia eder. Ardından çevresindekilere danışır gibi bir soru sorar: ne buyurursunuz?",
+  "Bu son soru, aslında bir karar sürecini başlatır; ilerleyen ayetlerde (36. ayetten itibaren) ileri gelenler Musa'yla yarışacak sihirbazların toplanmasını önerecektir. Klasik tefsir bu ayeti, Firavun'un korkusunu bir tehdit söylemine dönüştürerek halkını kendi tarafına çekme çabası olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:110",
+   "meal": "Sizi yurdunuzdan çıkarmak istiyor; şimdi ne buyurursunuz?",
+   "baglanti": "A'râf suresinde aynı cümle, sihir vurgusu olmadan, neredeyse birebir tekrarlanır."
+  },
+  {
+   "ref": "20:57",
+   "meal": "Dedi ki: Ey Musa, büyünle bizi yurdumuzdan çıkarmaya mı geldin?",
+   "baglanti": "Tâ-Hâ suresinde Firavun, aynı suçlamayı bu kez doğrudan Musa'ya yönelterek dile getirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Firavun'un mucizeyi bir tehdit söylemine çevirmesidir.",
+  "Günlük hayata taşınabilecek ders, bir gerçeği kabul etmek istemeyen kişilerin bazen o gerçeği, kendi çıkarlarını koruyacak bir korku söylemine dönüştürebileceğidir. Böyle bir söyleme kapılmadan önce, iddianın gerçek dayanağını sorgulamak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Korku söylemini sorgula",
+   "aciklama": "Bugün sana yöneltilen bir korkutmanın gerçek bir dayanağı olup olmadığını düşün."
+  },
+  {
+   "baslik": "Ortak akılla karar ver",
+   "aciklama": "Önemli bir kararı bugün güvendiğin birine danışarak ver."
+  },
+  {
+   "baslik": "Panik yerine sakinlik",
+   "aciklama": "Endişe verici bir haberle karşılaştığında bugün hemen tepki vermeden önce bir kez düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün sana yöneltilen bir korku söylemini, gerçek dayanağı olup olmadığını sorarak değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=35"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/35"
+  }
+ ]
+}

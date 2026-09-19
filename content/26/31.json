@@ -1,0 +1,103 @@
+{
+ "sure": 26,
+ "ayet": 31,
+ "durum": "taslak",
+ "meal": "Firavun dedi: Eğer doğru söyleyenlerdensen, haydi getir onu.",
+ "mealNotu": "'Sâdikîn' kökü doğruluğu anlatır; Firavun, alaycı bir güvenle Musa'yı sınamaya çağırır.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "فَأْتِ",
+   "okunus": "fe'ti",
+   "kok": "أتي",
+   "kokAnlam": "gelme, gitme",
+   "karsilik": "getir"
+  },
+  {
+   "kelime": "بِهِۦٓ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتَ",
+   "okunus": "künte",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "isen"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلصَّٰدِقِينَ",
+   "okunus": "essâdikîne",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, dürüstlük",
+   "karsilik": "doğru söyleyenlerden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Firavun, Musa'nın meydan okumasına kayıtsız kalamaz ve onu sınamaya çağırır: iddianı ispatla. Bu söz, Firavun'un kendinden emin bir tavırla, Musa'nın bir delil gösteremeyeceğini düşündüğünü ima eder.",
+  "Ancak bu çağrı aynı zamanda bir dönüm noktasıdır; Musa'nın elindeki mucizenin gösterileceği sahneyi açar. Klasik tefsir bu ayeti, Firavun'un kendi isteğiyle mucizeye zemin hazırladığı, ironik bir an olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:106",
+   "meal": "Firavun dedi: Eğer bir delil getirdiysen, doğru söyleyenlerden isen onu göster.",
+   "baglanti": "A'râf suresinde neredeyse birebir aynı cümle, Firavun'un aynı meydan okumasını tekrarlar."
+  },
+  {
+   "ref": "10:38",
+   "meal": "Yoksa 'onu uydurdu' mu diyorlar? De ki: Öyleyse onun benzeri bir sure getirin ve eğer doğru söylüyorsanız Allah'tan başka çağırabildiklerinizi de çağırın.",
+   "baglanti": "Yûnus suresi, aynı 'eğer doğru söylüyorsanız' meydan okumasını, Kur'an'ın kendisi için de bir sınama olarak kullanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Firavun'un Musa'yı ispata çağırmasıdır.",
+  "Günlük hayata taşınabilecek ders, bir iddiada bulunan kişinin bunu ispatlamaya hazır olması gerektiğidir. Musa'nın tavrı, boş sözle değil, elindeki somut delille konuşmaya hazır olan bir kişinin örneğidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İddiana dayanak sun",
+   "aciklama": "Bugün bir iddiada bulunursan, onu destekleyecek somut bir örnek de hazırla."
+  },
+  {
+   "baslik": "Meydan okumadan çekinme",
+   "aciklama": "Haklı olduğun bir konuda, bugün seni sınayan bir soruya kaçmadan cevap ver."
+  },
+  {
+   "baslik": "Alaycı tavra takılma",
+   "aciklama": "Seni sınayan biri alaycı bir üslup kullansa bile, bugün konuya odaklanmayı sürdür."
+  }
+ ],
+ "bugununAdimi": "Bugün savunduğun bir görüşü, onu destekleyen somut bir örnekle birlikte anlat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=31"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/31"
+  }
+ ]
+}

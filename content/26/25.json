@@ -1,0 +1,89 @@
+{
+ "sure": 26,
+ "ayet": 25,
+ "durum": "taslak",
+ "meal": "Firavun çevresindekilere dedi ki: İşitmiyor musunuz?",
+ "mealNotu": "Kısa ve alaycı bir soru; Firavun, Musa'nın cevabına karşı doğrudan tartışmaya girmek yerine çevresini tanık gösterir.",
+ "kokler": [
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dedi"
+  },
+  {
+   "kelime": "لِمَنْ",
+   "okunus": "limen",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseye",
+   "karsilik": "kimseye"
+  },
+  {
+   "kelime": "حَوْلَهُۥٓ",
+   "okunus": "havlehû",
+   "kok": "حول",
+   "kokAnlam": "çevre, etraf; dönme",
+   "karsilik": "çevresindeki"
+  },
+  {
+   "kelime": "أَلَا",
+   "okunus": "elâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ...mıyor mu",
+   "karsilik": "işitmiyor musunuz"
+  },
+  {
+   "kelime": "تَسْتَمِعُونَ",
+   "okunus": "testemiûne",
+   "kok": "سمع",
+   "kokAnlam": "işitme, dinleme",
+   "karsilik": "işitiyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Musa'nın somut ve akla dayalı cevabına karşı Firavun, konuyu doğrudan cevaplamak yerine çevresindekilere döner. 'İşitmiyor musunuz?' sorusu, Musa'nın sözünü saçma göstermeye çalışan alaycı bir tepkidir.",
+  "Bu tavır, gücün iktidarını konuşarak değil, çevresini bir arada tutarak korumaya çalışan bir liderin tipik tutumudur. Klasik tefsir bu ayeti, Firavun'un mantıklı bir cevap veremediği için topluluğun desteğine sığındığı bir an olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "43:51",
+   "meal": "Firavun kavmi içinde seslendi, dedi ki: Ey kavmim! Mısır'ın mülkü ve altımdan akan şu ırmaklar benim değil mi? Hâlâ görmüyor musunuz?",
+   "baglanti": "Zuhruf suresinde Firavun'un aynı 'çevresine seslenme' tavrı, bu kez kendi gücünü sayarak tekrarlanır."
+  },
+  {
+   "ref": "26:34",
+   "meal": "Firavun çevresindeki ileri gelenlere dedi ki: Bu gerçekten bilgili bir sihirbazdır.",
+   "baglanti": "Aynı sure içinde Firavun, ilerleyen ayetlerde de aynı 'çevresindekilere dönme' tavrını sürdürür; bu bir üslup tekrarıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Firavun'un tartışma tarzıdır.",
+  "Günlük hayata taşınabilecek ders, güçlü bir argümana cevap veremeyen kişilerin bazen konuyu değiştirip etraftakileri kendi tarafına çekmeye çalışabileceğidir. Böyle bir tavırla karşılaşınca, asıl konudan sapmamak önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Konudan sapma",
+   "aciklama": "Bugün bir tartışmada karşı taraf konuyu değiştirirse, sen asıl meseleye geri dön."
+  },
+  {
+   "baslik": "Kalabalığa değil doğruya bak",
+   "aciklama": "Bir konuda çoğunluğun tavrı yerine, bugün doğru olanı esas al."
+  },
+  {
+   "baslik": "Sakin kal",
+   "aciklama": "Alay edilsen bile bugün sakinliğini koru ve cevabını net biçimde tekrar et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir tartışmada, karşı taraf konuyu değiştirse bile sen asıl meseleye odaklan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=25"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/25"
+  }
+ ]
+}
