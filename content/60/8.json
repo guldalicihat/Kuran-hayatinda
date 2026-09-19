@@ -1,0 +1,206 @@
+{
+ "sure": 60,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "Din konusunda sizinle savaşmayan ve sizi yurtlarınızdan çıkarmayan kimselere iyilik etmenizi ve onlara adaletli davranmanızı Allah yasaklamaz. Şüphesiz Allah, adaletli davrananları sever.",
+ "mealNotu": "'Teberru' kökü iyilik etme, 'kıst' kökü adalet/denge anlamındadır; ayet iki fiili ('iyilik etmeniz' ve 'adaletli davranmanız') açıkça birlikte kullanır.",
+ "kokler": [
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yasaklamaz",
+   "karsilik": ""
+  },
+  {
+   "kelime": "يَنْهَىٰكُمُ",
+   "okunus": "yenhâkümü",
+   "kok": "نهي",
+   "kokAnlam": "yasaklama, nehyetme",
+   "karsilik": "sizi yasaklamaz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَنِ",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimseler",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "يُقَٰتِلُوكُمْ",
+   "okunus": "yükâtilûküm",
+   "kok": "قتل",
+   "kokAnlam": "karşılıklı savaşma",
+   "karsilik": "sizinle savaşan"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلدِّينِ",
+   "okunus": "eddîni",
+   "kok": "دين",
+   "kokAnlam": "din, hesap",
+   "karsilik": "din konusunda"
+  },
+  {
+   "kelime": "وَلَمْ",
+   "okunus": "ve lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değil",
+   "karsilik": "ve değil"
+  },
+  {
+   "kelime": "يُخْرِجُوكُم",
+   "okunus": "yühricûküm",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma",
+   "karsilik": "sizi çıkaran"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دِيَٰرِكُمْ",
+   "okunus": "diyâriküm",
+   "kok": "دور",
+   "kokAnlam": "yurt, mesken",
+   "karsilik": "yurtlarınızdan"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "تَبَرُّوهُمْ",
+   "okunus": "teberrûhüm",
+   "kok": "برر",
+   "kokAnlam": "iyilik etme, dürüstlük",
+   "karsilik": "onlara iyilik etmeniz"
+  },
+  {
+   "kelime": "وَتُقْسِطُوٓا۟",
+   "okunus": "ve tüksitû",
+   "kok": "قسط",
+   "kokAnlam": "adalet, denge",
+   "karsilik": "ve adaletli davranmanız"
+  },
+  {
+   "kelime": "إِلَيْهِمْ",
+   "okunus": "ileyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يُحِبُّ",
+   "okunus": "yühibbü",
+   "kok": "حبب",
+   "kokAnlam": "sevme",
+   "karsilik": "sever"
+  },
+  {
+   "kelime": "ٱلْمُقْسِطِينَ",
+   "okunus": "elmüksitîne",
+   "kok": "قسط",
+   "kokAnlam": "adalet, denge",
+   "karsilik": "adaletli davrananları"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, surenin başındaki 'açık düşmanlık gösterenlerle dost olmama' uyarısının kapsamını net biçimde sınırlar: bu yasak, din konusunda savaşan ve yurttan çıkaran kimselere özeldir; sizinle savaşmayan, sizi yurdunuzdan çıkarmayan kimselere iyilik etmek ve adaletli davranmak yasak değildir, aksine Allah adaletli davrananları sever.",
+  "Bu, Kur'an'da farklı inançtaki insanlarla barışçıl ilişkinin esas olduğunu gösteren açık ve dengeleyici bir ayettir. Surenin ilk ayetlerinde anlatılan düşmanlık, genel bir dostluk yasağı değil, açık savaş ve zulüm hâlindeki özel bir duruma yöneliktir; bu ayet o çerçeveyi netleştirir ve iyilik/adalet ilkesini genel kural olarak koyar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "60:9",
+   "meal": "Allah sizi ancak, din konusunda sizinle savaşan, sizi yurtlarınızdan çıkaran ve çıkarılmanıza yardım edenleri dost edinmekten yasaklar; kim onları dost edinirse işte zalimler onlardır.",
+   "baglanti": "Bu ayet 8. ayetin istisnasıdır; yasak yalnız açık düşmanlık gösterenlere, savaşanlara ve yurttan çıkaranlara/çıkarılmasına yardım edenlere özeldir."
+  },
+  {
+   "ref": "5:8",
+   "meal": "Ey iman edenler! Allah için hakkı ayakta tutanlar, adaletle şahitlik edenler olun. Bir topluluğa olan kininiz sizi adaletsizliğe sürüklemesin. Adil olun; bu takvaya daha yakındır.",
+   "baglanti": "Bu ayet de, düşmanlık veya kızgınlık hissedilen bir topluluğa karşı bile adaletten sapmamayı emreder; 60:8'deki 'adaletli davranın' ilkesini destekler."
+  },
+  {
+   "ref": "58:22",
+   "meal": "Allah'a ve ahiret gününe iman eden bir topluluğun, Allah'a ve Elçisi'ne karşı gelen kimselerle sevgi bağı kurduğunu göremezsin.",
+   "baglanti": "Önceki surede geçen bu ayet açık düşmanlık göstereni sevmemeyi anlatır; 60:8 ise bu yasağın kapsamını netleştirerek savaşmayan/düşmanlık göstermeyenlere iyilik etmenin serbest olduğunu belirtir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, farklı inançtan ama düşmanlık göstermeyen kimselerle ilişkidir: onlara iyilik etmek ve adaletli davranmak yasak değildir, tam tersine Allah'ın sevdiği bir davranıştır.",
+  "Buradan çıkan ders açıktır: bir kişinin dini, kökeni veya görüşü farklı olması, ona kötü davranmak için gerekçe değildir. İyilik ve adalet, karşı taraf açık düşmanlık göstermediği sürece herkese karşı sürdürülmesi gereken bir ilkedir; bu ilke, farklı topluluklar arası günlük ilişkilerde önemli bir denge sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Farklı inançtaki birine adaletle davran",
+   "aciklama": "Bugün, senden farklı düşünen ya da inanan biriyle bir işin varsa, ona tam adaletle davran."
+  },
+  {
+   "baslik": "Ön yargını sorgula",
+   "aciklama": "Bugün, bir kişiye karşı sırf farklı olduğu için beslediğin bir ön yargı olup olmadığını gözden geçir."
+  },
+  {
+   "baslik": "İyiliği genel bir ilke yap",
+   "aciklama": "Bugün karşılaştığın, seninle aynı görüşte olmayan birine küçük bir iyilik yap."
+  }
+ ],
+ "bugununAdimi": "Bugün, senden farklı düşünen bir kişiye karşı adaletli davranmaya özellikle dikkat et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=60&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/60/8"
+  }
+ ]
+}

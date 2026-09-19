@@ -1,0 +1,439 @@
+{
+ "sure": 60,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Mümin kadınlar hicret ederek size geldiklerinde onları sınayın; Allah imanlarını en iyi bilendir. Onları mümin olarak bilirseniz, artık onları inkârcılara geri döndürmeyin. Ne bu kadınlar onlara helaldir, ne onlar bu kadınlara helaldir. Onlara [kadınların eski kocalarına], harcadıklarını [mehir olarak verdiklerini] verin. Mehirlerini kendilerine verdiğinizde, bu kadınlarla evlenmenizde size bir günah yoktur. İnkârcı kadınların nikâh bağlarını tutmayın; harcadığınızı isteyin, onlar da harcadıklarını istesinler. İşte bu, Allah'ın hükmüdür; aranızda O hükmeder. Allah her şeyi bilendir, hüküm ve hikmet sahibidir.",
+ "mealNotu": "'İmtehinûhünne' (sınayın) ayetin merkezindeki hükümdür; sınamanın ayrıntısı burada belirtilmez. 'Onlara' zamiri bağlamdan hareketle [kadınların eski kocalarına] olarak, 'harcadıklarını' ifadesi de [mehir olarak verdiklerini] olarak köşeli parantezle açıklandı.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey diye seslenme",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olanlar",
+   "karsilik": "kimseler ki"
+  },
+  {
+   "kelime": "ءَامَنُوٓا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "إِذَآ",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "جَآءَكُمُ",
+   "okunus": "câekümü",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "size geldiğinde"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنَٰتُ",
+   "okunus": "elmü'minâtü",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman eden (kadın)",
+   "karsilik": "mümin kadınlar"
+  },
+  {
+   "kelime": "مُهَٰجِرَٰتٍ",
+   "okunus": "mühâcirâtin",
+   "kok": "هجر",
+   "kokAnlam": "terk etme, hicret",
+   "karsilik": "hicret edenler olarak"
+  },
+  {
+   "kelime": "فَٱمْتَحِنُوهُنَّ",
+   "okunus": "femtehinûhünne",
+   "kok": "محن",
+   "kokAnlam": "sınama",
+   "karsilik": "onları sınayın"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "أَعْلَمُ",
+   "okunus": "a'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "en iyi bilendir"
+  },
+  {
+   "kelime": "بِإِيمَٰنِهِنَّ",
+   "okunus": "biîmânihinne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "imanlarını"
+  },
+  {
+   "kelime": "فَإِنْ",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "عَلِمْتُمُوهُنَّ",
+   "okunus": "alimtümûhünne",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "onları bilirseniz"
+  },
+  {
+   "kelime": "مُؤْمِنَٰتٍ",
+   "okunus": "mü'minâtin",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman eden (kadın)",
+   "karsilik": "mümin olarak"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) o halde",
+   "karsilik": "o zaman"
+  },
+  {
+   "kelime": "تَرْجِعُوهُنَّ",
+   "okunus": "terciûhünne",
+   "kok": "رجع",
+   "kokAnlam": "dönme, geri gönderme",
+   "karsilik": "onları geri döndürmeyin"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْكُفَّارِ",
+   "okunus": "elküffâri",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "inkârcılara"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değildir",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "هُنَّ",
+   "okunus": "hünne",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar (kadınlar)",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "حِلٌّ",
+   "okunus": "hillün",
+   "kok": "حلل",
+   "kokAnlam": "helal olma, çözülme",
+   "karsilik": "helal"
+  },
+  {
+   "kelime": "لَّهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara (erkeklere)",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve değildir",
+   "karsilik": "ve değildir"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar (erkekler)",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "يَحِلُّونَ",
+   "okunus": "yehillûne",
+   "kok": "حلل",
+   "kokAnlam": "helal olma, çözülme",
+   "karsilik": "helal olan"
+  },
+  {
+   "kelime": "لَهُنَّ",
+   "okunus": "lehünne",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlara (kadınlara)",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "وَءَاتُوهُم",
+   "okunus": "ve âtûhüm",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "ve onlara verin"
+  },
+  {
+   "kelime": "مَآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "harcadıklarını"
+  },
+  {
+   "kelime": "أَنفَقُوا۟",
+   "okunus": "enfekû",
+   "kok": "نفق",
+   "kokAnlam": "harcama",
+   "karsilik": "harcadıkları"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve yoktur",
+   "karsilik": "ve yoktur"
+  },
+  {
+   "kelime": "جُنَاحَ",
+   "okunus": "cünâha",
+   "kok": "جنح",
+   "kokAnlam": "günah, sakınca",
+   "karsilik": "günah"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerinize",
+   "karsilik": "üzerinize"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "تَنكِحُوهُنَّ",
+   "okunus": "tenkihûhünne",
+   "kok": "نكح",
+   "kokAnlam": "nikâhlama, evlenme",
+   "karsilik": "onlarla evlenmeniz"
+  },
+  {
+   "kelime": "إِذَآ",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "ءَاتَيْتُمُوهُنَّ",
+   "okunus": "âteytümûhünne",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "onlara verdiğinizde"
+  },
+  {
+   "kelime": "أُجُورَهُنَّ",
+   "okunus": "ücûrahünne",
+   "kok": "أجر",
+   "kokAnlam": "ücret, karşılık, mehir",
+   "karsilik": "mehirlerini"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "تُمْسِكُوا۟",
+   "okunus": "tümsikû",
+   "kok": "مسك",
+   "kokAnlam": "tutma, sıkıca alıkoyma",
+   "karsilik": "tutmayın"
+  },
+  {
+   "kelime": "بِعِصَمِ",
+   "okunus": "biisami",
+   "kok": "عصم",
+   "kokAnlam": "koruma, bağ, nikâh bağı",
+   "karsilik": "nikâh bağlarını"
+  },
+  {
+   "kelime": "ٱلْكَوَافِرِ",
+   "okunus": "elkevâfiri",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "inkârcı kadınların"
+  },
+  {
+   "kelime": "وَسْـَٔلُوا۟",
+   "okunus": "ve s'elû",
+   "kok": "سأل",
+   "kokAnlam": "isteme, sorma",
+   "karsilik": "isteyin"
+  },
+  {
+   "kelime": "مَآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "harcadığınızı"
+  },
+  {
+   "kelime": "أَنفَقْتُمْ",
+   "okunus": "enfektüm",
+   "kok": "نفق",
+   "kokAnlam": "harcama",
+   "karsilik": "harcadığınız"
+  },
+  {
+   "kelime": "وَلْيَسْـَٔلُوا۟",
+   "okunus": "ve lyes'elû",
+   "kok": "سأل",
+   "kokAnlam": "isteme, sorma",
+   "karsilik": "ve istesinler"
+  },
+  {
+   "kelime": "مَآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "harcadıklarını"
+  },
+  {
+   "kelime": "أَنفَقُوا۟",
+   "okunus": "enfekû",
+   "kok": "نفق",
+   "kokAnlam": "harcama",
+   "karsilik": "harcadıkları"
+  },
+  {
+   "kelime": "ذَٰلِكُمْ",
+   "okunus": "zâliküm",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "حُكْمُ",
+   "okunus": "hukmü",
+   "kok": "حكم",
+   "kokAnlam": "hüküm, karar",
+   "karsilik": "hükmüdür"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "يَحْكُمُ",
+   "okunus": "yahkümü",
+   "kok": "حكم",
+   "kokAnlam": "hüküm verme",
+   "karsilik": "hükmeder"
+  },
+  {
+   "kelime": "بَيْنَكُمْ",
+   "okunus": "beyneküm",
+   "kok": "بين",
+   "kokAnlam": "ara, arasılık",
+   "karsilik": "aranızda"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "her şeyi bilendir"
+  },
+  {
+   "kelime": "حَكِيمٌ",
+   "okunus": "hakîmün",
+   "kok": "حكم",
+   "kokAnlam": "hüküm, hikmet",
+   "karsilik": "hüküm ve hikmet sahibidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Hudeybiye Antlaşması sonrası ortaya çıkan bir duruma dair hüküm koyar: Mekke'den Medine'ye hicret eden mümin kadınların imanlarının sınanmasını, gerçekten mümin oldukları anlaşılırsa inkârcı kocalarına geri gönderilmemelerini ister. Bu, kadının dinî özgürlüğünü ve güvenliğini koruyan tarihsel-hukuki bir düzenlemedir.",
+  "Ayet ayrıca mali bir denge kurar: kadının eski, inkârcı kocasına harcadığı mehir geri ödenir, mümin erkekler bu kadınlarla mehirlerini vererek evlenebilir; öte yandan Mekke'de kalan eşleriyle ilişkisi kesilen erkeklerin de harcadıklarını geri isteme hakkı vardır. Bu ayrıntılı hüküm, dönemin özel şartlarına yönelik olup Allah'ın adil bir çözüm koyduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:221",
+   "meal": "İman etmedikçe müşrik kadınlarla evlenmeyin... Onları iman etmedikçe mümin erkeklerle evlendirmeyin.",
+   "baglanti": "Farklı dinden eşler arasında nikâhın imana bağlı olduğu ilkesini destekler; 60:10 bunu hicret eden mümin kadınlar özelinde somutlaştırır."
+  },
+  {
+   "ref": "60:12",
+   "meal": "Ey Peygamber! Mümin kadınlar sana biat etmek üzere geldiklerinde...",
+   "baglanti": "Aynı surede birkaç ayet sonra, bu hicret eden mümin kadınların Peygamber'e biat etme şartları ayrıca anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Hudeybiye Antlaşması sonrası Medine'ye hicret eden mümin kadınların durumuna ilişkin özel bir hukuki-tarihsel düzenlemedir; bu, evrensel bir aile hukuku kuralı değil, o dönemin somut şartlarına verilen bir çözümdür.",
+  "Buradan çıkan genel ders, dinî inancın kişinin en temel özgürlüklerinden biri olduğu ve bir kimsenin inancı yüzünden güvenliğinin veya aidiyetinin tehlikeye atılmaması gerektiğidir; ayrıca ayetteki mali dengeleme, adaletin sadece iman değil maddi hak ve emekleri de gözettiğini gösterir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İnanç özgürlüğüne saygı göster",
+   "aciklama": "Bugün, bir kişinin inancından dolayı zor durumda kalmaması için elinden geleni yap."
+  },
+  {
+   "baslik": "Hakkı olanı gecikmeden öde",
+   "aciklama": "Bugün birine borçlu olduğun bir hakkı -maddi ya da manevi- geciktirmeden öde."
+  },
+  {
+   "baslik": "Aceleyle yargılama, önce anla",
+   "aciklama": "Bugün bir kişi hakkında karar vermeden önce, durumunu gerçekten anlamaya çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün, birine olan maddi ya da manevi bir borcunu geciktirmeden kapat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=60&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/60/10"
+  }
+ ]
+}

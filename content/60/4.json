@@ -1,0 +1,423 @@
+{
+ "sure": 60,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "İbrahim'de ve onunla beraber olanlarda sizin için gerçekten güzel bir örnek vardı: hani onlar kavimlerine şöyle demişlerdi: 'Biz sizden ve Allah'tan başka taptıklarınızdan uzağız; sizi inkâr ettik. Siz Allah'ın tek olduğuna iman edinceye kadar sizinle aramızda sonsuza dek düşmanlık ve nefret belirmiştir.' Ancak İbrahim'in babasına, 'Senin için bağışlanma dileyeceğim, fakat Allah'a karşı senin için elimden hiçbir şey gelmez' sözü hariç. 'Rabbimiz! Sana dayandık, sana yöneldik, dönüş sanadır.'",
+ "mealNotu": "'Berâeten' (uzak olma) ve 'kefernâ' (inkâr ettik) ifadeleri İbrahim ve beraberindekilerin kavimlerine söylediği tevhid bildirisidir. Babasına söylenen istiğfar sözü 'illâ' ile ayrı bir istisna olarak işaretlenmiştir; bu söz surenin genel örnekliğinden hariç tutulur.",
+ "kokler": [
+  {
+   "kelime": "قَدْ",
+   "okunus": "kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik edatı) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "كَانَتْ",
+   "okunus": "kânet",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "vardı"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "أُسْوَةٌ",
+   "okunus": "üsvetün",
+   "kok": "أسو",
+   "kokAnlam": "örnek alma, örneklik",
+   "karsilik": "bir örnek"
+  },
+  {
+   "kelime": "حَسَنَةٌ",
+   "okunus": "hasenetün",
+   "kok": "حسن",
+   "kokAnlam": "güzellik, iyilik",
+   "karsilik": "güzel"
+  },
+  {
+   "kelime": "فِىٓ",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "إِبْرَٰهِيمَ",
+   "okunus": "ibrâhîme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İbrahim",
+   "karsilik": "İbrahim'de"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve olanlarda",
+   "karsilik": "ve olanlarda"
+  },
+  {
+   "kelime": "مَعَهُۥٓ",
+   "okunus": "meahû",
+   "kok": "—",
+   "kokAnlam": "(edat) onunla beraber",
+   "karsilik": "onunla beraber"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "demişlerdi"
+  },
+  {
+   "kelime": "لِقَوْمِهِمْ",
+   "okunus": "likavmihim",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "kavimlerine"
+  },
+  {
+   "kelime": "إِنَّا",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(tekid) gerçekten biz",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "بُرَءَٰٓؤُا۟",
+   "okunus": "büraâü",
+   "kok": "برأ",
+   "kokAnlam": "uzak olma, beri olma",
+   "karsilik": "uzağız"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "وَمِمَّا",
+   "okunus": "ve mimmâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ve şeylerden",
+   "karsilik": "ve şeylerden"
+  },
+  {
+   "kelime": "تَعْبُدُونَ",
+   "okunus": "ta'büdûne",
+   "kok": "عبد",
+   "kokAnlam": "kulluk etme, tapma",
+   "karsilik": "taptığınız"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِ",
+   "okunus": "dûni",
+   "kok": "دون",
+   "kokAnlam": "aşağı, başka",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "كَفَرْنَا",
+   "okunus": "kefernâ",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "inkâr ettik"
+  },
+  {
+   "kelime": "بِكُمْ",
+   "okunus": "biküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizi",
+   "karsilik": "sizi"
+  },
+  {
+   "kelime": "وَبَدَا",
+   "okunus": "ve bedâ",
+   "kok": "بدو",
+   "kokAnlam": "ortaya çıkma, belirme",
+   "karsilik": "ve belirmiştir"
+  },
+  {
+   "kelime": "بَيْنَنَا",
+   "okunus": "beynenâ",
+   "kok": "بين",
+   "kokAnlam": "ara, arasılık",
+   "karsilik": "aramızda"
+  },
+  {
+   "kelime": "وَبَيْنَكُمُ",
+   "okunus": "ve beynekümü",
+   "kok": "بين",
+   "kokAnlam": "ara, arasılık",
+   "karsilik": "ve aranızda"
+  },
+  {
+   "kelime": "ٱلْعَدَٰوَةُ",
+   "okunus": "el'adâvetü",
+   "kok": "عدو",
+   "kokAnlam": "düşmanlık",
+   "karsilik": "düşmanlık"
+  },
+  {
+   "kelime": "وَٱلْبَغْضَآءُ",
+   "okunus": "vel bağdâü",
+   "kok": "بغض",
+   "kokAnlam": "nefret, kin",
+   "karsilik": "ve nefret"
+  },
+  {
+   "kelime": "أَبَدًا",
+   "okunus": "ebeden",
+   "kok": "أبد",
+   "kokAnlam": "süreklilik, sonsuzluk",
+   "karsilik": "sonsuza dek"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ta ki",
+   "karsilik": "ta ki"
+  },
+  {
+   "kelime": "تُؤْمِنُوا۟",
+   "okunus": "tü'minû",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman edinceye"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَحْدَهُۥٓ",
+   "okunus": "vahdehû",
+   "kok": "وحد",
+   "kokAnlam": "teklik, birlik",
+   "karsilik": "tek olduğuna"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "قَوْلَ",
+   "okunus": "kavle",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "sözü"
+  },
+  {
+   "kelime": "إِبْرَٰهِيمَ",
+   "okunus": "ibrâhîme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İbrahim",
+   "karsilik": "İbrahim'in"
+  },
+  {
+   "kelime": "لِأَبِيهِ",
+   "okunus": "liebîhi",
+   "kok": "أبو",
+   "kokAnlam": "baba",
+   "karsilik": "babasına"
+  },
+  {
+   "kelime": "لَأَسْتَغْفِرَنَّ",
+   "okunus": "leestağfiranne",
+   "kok": "غفر",
+   "kokAnlam": "bağışlanma dileme",
+   "karsilik": "bağışlanma dileyeceğim"
+  },
+  {
+   "kelime": "لَكَ",
+   "okunus": "leke",
+   "kok": "—",
+   "kokAnlam": "(zamir) senin için",
+   "karsilik": "senin için"
+  },
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ama değil",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "أَمْلِكُ",
+   "okunus": "emlikü",
+   "kok": "ملك",
+   "kokAnlam": "sahip olma, güç yetirme",
+   "karsilik": "elimden gelmez"
+  },
+  {
+   "kelime": "لَكَ",
+   "okunus": "leke",
+   "kok": "—",
+   "kokAnlam": "(zamir) senin için",
+   "karsilik": "senin için"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -e karşı",
+   "karsilik": "-e karşı"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) hiçbir",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "şey"
+  },
+  {
+   "kelime": "رَّبَّنَا",
+   "okunus": "rabbenâ",
+   "kok": "ربب",
+   "kokAnlam": "terbiye, sahiplik, Rablik",
+   "karsilik": "Rabbimiz"
+  },
+  {
+   "kelime": "عَلَيْكَ",
+   "okunus": "aleyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "تَوَكَّلْنَا",
+   "okunus": "tevekkelnâ",
+   "kok": "وكل",
+   "kokAnlam": "güvenip dayanma",
+   "karsilik": "dayandık"
+  },
+  {
+   "kelime": "وَإِلَيْكَ",
+   "okunus": "ve ileyke",
+   "kok": "—",
+   "kokAnlam": "(edat) ve sana",
+   "karsilik": "ve sana"
+  },
+  {
+   "kelime": "أَنَبْنَا",
+   "okunus": "enebnâ",
+   "kok": "نوب",
+   "kokAnlam": "tevbeyle yönelme",
+   "karsilik": "yöneldik"
+  },
+  {
+   "kelime": "وَإِلَيْكَ",
+   "okunus": "ve ileyke",
+   "kok": "—",
+   "kokAnlam": "(edat) ve sanadır",
+   "karsilik": "ve sanadır"
+  },
+  {
+   "kelime": "ٱلْمَصِيرُ",
+   "okunus": "elmesîru",
+   "kok": "صير",
+   "kokAnlam": "dönüş, varış",
+   "karsilik": "dönüş"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, İbrahim ve onunla beraber olan müminlerin, kendi kavimlerine karşı sergilediği net tevhid duruşunu 'güzel bir örnek' olarak sunar: onlar, Allah'tan başka tapılan şeylerden ve bunlara tapan kavimlerinden açıkça uzaklaştıklarını, Allah'ın birliğine iman edilmedikçe bu ayrılığın süreceğini ilan etmişlerdir. Bu, önceki ayetlerde uyarılan gizli dostluğun tam zıddı, açık ve net bir tavırdır.",
+  "Ayet, İbrahim'in babasına söylediği 'senin için bağışlanma dileyeceğim' sözünü bu örnekliğin dışında tutar; bu istisna önemlidir, çünkü örnek alınacak olan kavme karşı tevhid netliğidir, akraba olduğu için sürdürülen bir bağışlanma vaadi değildir. Kur'an'ın başka bir yerinde, İbrahim'in babasına bu sözü verdiği bir söz gereği söylediği, fakat babasının Allah'a düşman olduğu kendisine açıkça belli olunca bu istiğfardan vazgeçtiği belirtilir; bu ayrıntı İbrahim'in tevhid konusundaki kararlılığını daha da netleştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "9:114",
+   "meal": "İbrahim'in babası için bağışlanma dilemesi, sadece ona vermiş olduğu bir söz yüzündendi. Babasının Allah düşmanı olduğu kendisine açıkça belli olunca ondan uzaklaştı.",
+   "baglanti": "60:4'te örnekliğin dışında tutulan istiğfar sözünün arka planını ve nasıl sona erdiğini açıklar."
+  },
+  {
+   "ref": "43:26",
+   "meal": "Hani İbrahim babasına ve kavmine demişti ki: 'Ben sizin taptıklarınızdan kesinlikle uzağım.'",
+   "baglanti": "İbrahim'in kavmine ve babasına karşı aynı tevhid bildirisini tekrarladığı başka bir ayettir."
+  },
+  {
+   "ref": "60:6",
+   "meal": "Andolsun, onlarda sizin için de, Allah'ı ve ahiret gününü uman kimse için de güzel bir örnek vardır.",
+   "baglanti": "Aynı surede bu örnekliğin sadece o dönemin müminlerine değil, Allah'ı ve ahireti uman herkese uzandığı vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, İbrahim ve beraberindekilerin kendi kavimlerine karşı sergilediği açık tevhid duruşudur; bu tarihsel bir örnek olayı anlatır, günümüzde birebir aynı sözlerin tekrarlanması beklenmez.",
+  "Buradan çıkan ders, inandığın değeri gizlemeden, net biçimde ortaya koyabilmektir; İbrahim kendi kavmine karşı tavrını açıkça belirtmiş, yine de babası için bir bağışlanma umudunu -düşmanlığı kesinleşene kadar- taşımıştır. Bu, hem ilkede netlik hem de yakınlara karşı nezaketi bir arada göstermenin mümkün olduğuna işaret eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Değerini açıkça söyle",
+   "aciklama": "Bugün, bir konuda inandığın şeyi, çevrenin tepkisinden çekinmeden nazikçe ifade et."
+  },
+  {
+   "baslik": "Yakınına iyi niyeti sürdür, ama sınırını bil",
+   "aciklama": "Bugün bir yakınınla anlaşamadığın bir konuda, ilişkiyi kesmeden kendi duruşunu koru."
+  },
+  {
+   "baslik": "Güvenini doğru yere bağla",
+   "aciklama": "Bugün zorlandığın bir işte önce Allah'a dayanarak başla, sonucu O'na bırak."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda inandığın şeyi açıkça söyle, ama yakınlarınla ilişkini korumaya özen göster.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=60&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/60/4"
+  }
+ ]
+}

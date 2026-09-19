@@ -1,0 +1,325 @@
+{
+ "sure": 60,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Ey Peygamber! Mümin kadınlar; Allah'a hiçbir şeyi ortak koşmamak, hırsızlık yapmamak, zina etmemek, çocuklarını öldürmemek, elleriyle ayakları arasında uydurdukları bir iftirayı ortaya atmamak ve meşru bir işte sana karşı gelmemek üzere sana biat etmek için geldiklerinde, onlarla biatlaş ve onlar için Allah'tan bağışlanma dile. Şüphesiz Allah, çok bağışlayan, çok merhamet edendir.",
+ "mealNotu": "'Yektülne evlâdehünne' (çocuklarını öldürmemeleri) ifadesi, cahiliye döneminde kız çocuklarının diri diri gömülmesi geleneğine işaret eder; İslam bu maddeyle bunu açıkça yasaklamıştır. 'Elleri ve ayakları arasında uydurdukları iftira' ifadesi ayetteki deyimsel haliyle korunmuştur.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey diye seslenme",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلنَّبِىُّ",
+   "okunus": "ennebiyyü",
+   "kok": "نبأ",
+   "kokAnlam": "haber, haber getiren",
+   "karsilik": "Peygamber"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "جَآءَكَ",
+   "okunus": "câeke",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "sana geldiğinde"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنَٰتُ",
+   "okunus": "elmü'minâtü",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman eden (kadın)",
+   "karsilik": "mümin kadınlar"
+  },
+  {
+   "kelime": "يُبَايِعْنَكَ",
+   "okunus": "yübâyi'neke",
+   "kok": "بيع",
+   "kokAnlam": "alışveriş, biat",
+   "karsilik": "sana biat etmek için"
+  },
+  {
+   "kelime": "عَلَىٰٓ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzere",
+   "karsilik": "üzere"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk)",
+   "karsilik": "(olumsuzluk)"
+  },
+  {
+   "kelime": "يُشْرِكْنَ",
+   "okunus": "yüşrikne",
+   "kok": "شرك",
+   "kokAnlam": "ortak koşma",
+   "karsilik": "ortak koşmamaları"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "شَيْـًٔا",
+   "okunus": "şey'en",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "hiçbir şeyi"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يَسْرِقْنَ",
+   "okunus": "yesrikne",
+   "kok": "سرق",
+   "kokAnlam": "çalma, hırsızlık",
+   "karsilik": "hırsızlık yapmamaları"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يَزْنِينَ",
+   "okunus": "yeznîne",
+   "kok": "زني",
+   "kokAnlam": "zina",
+   "karsilik": "zina etmemeleri"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يَقْتُلْنَ",
+   "okunus": "yektülne",
+   "kok": "قتل",
+   "kokAnlam": "öldürme",
+   "karsilik": "öldürmemeleri"
+  },
+  {
+   "kelime": "أَوْلَٰدَهُنَّ",
+   "okunus": "evlâdehünne",
+   "kok": "ولد",
+   "kokAnlam": "doğurma, çocuk",
+   "karsilik": "çocuklarını"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يَأْتِينَ",
+   "okunus": "ye'tîne",
+   "kok": "أتي",
+   "kokAnlam": "gelme, getirme",
+   "karsilik": "getirmemeleri"
+  },
+  {
+   "kelime": "بِبُهْتَٰنٍ",
+   "okunus": "bibühtânin",
+   "kok": "بهت",
+   "kokAnlam": "şaşırtıcı yalan, iftira",
+   "karsilik": "bir iftirayı"
+  },
+  {
+   "kelime": "يَفْتَرِينَهُۥ",
+   "okunus": "yefterînehû",
+   "kok": "فري",
+   "kokAnlam": "uydurma",
+   "karsilik": "uydurdukları"
+  },
+  {
+   "kelime": "بَيْنَ",
+   "okunus": "beyne",
+   "kok": "بين",
+   "kokAnlam": "ara, arasılık",
+   "karsilik": "arasında"
+  },
+  {
+   "kelime": "أَيْدِيهِنَّ",
+   "okunus": "eydîhinne",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "elleri"
+  },
+  {
+   "kelime": "وَأَرْجُلِهِنَّ",
+   "okunus": "ve ercülihinne",
+   "kok": "رجل",
+   "kokAnlam": "ayak",
+   "karsilik": "ve ayakları"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "يَعْصِينَكَ",
+   "okunus": "ya'sîneke",
+   "kok": "عصي",
+   "kokAnlam": "karşı gelme, isyan",
+   "karsilik": "sana karşı gelmemeleri"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "مَعْرُوفٍ",
+   "okunus": "ma'rûfin",
+   "kok": "عرف",
+   "kokAnlam": "bilinen, iyi, meşru",
+   "karsilik": "meşru bir işte"
+  },
+  {
+   "kelime": "فَبَايِعْهُنَّ",
+   "okunus": "febâyi'hünne",
+   "kok": "بيع",
+   "kokAnlam": "alışveriş, biat",
+   "karsilik": "o halde onlarla biatlaş"
+  },
+  {
+   "kelime": "وَٱسْتَغْفِرْ",
+   "okunus": "vestağfir",
+   "kok": "غفر",
+   "kokAnlam": "bağışlanma dileme",
+   "karsilik": "ve bağışlanma dile"
+  },
+  {
+   "kelime": "لَهُنَّ",
+   "okunus": "lehünne",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar için",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَفُورٌ",
+   "okunus": "gafûrun",
+   "kok": "غفر",
+   "kokAnlam": "bağışlama, örtme",
+   "karsilik": "çok bağışlayan"
+  },
+  {
+   "kelime": "رَّحِيمٌ",
+   "okunus": "rahîmün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet",
+   "karsilik": "çok merhamet eden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, hicret eden mümin kadınların Hz. Peygamber'e biat etme şartlarını sayar: Allah'a ortak koşmamak, hırsızlık yapmamak, zina etmemek, çocuklarını öldürmemek, iftira uydurmamak ve meşru işlerde Peygamber'e karşı gelmemek. Bu maddeler kabul edildiğinde Peygamber onlarla biatlaşır ve onlar için bağışlanma diler.",
+  "'Çocuklarını öldürmemeleri' şartı, cahiliye döneminde bazı ailelerin kız çocuklarını diri diri toprağa gömme geleneğine işaret eder; Kur'an bu uygulamayı açıkça yasaklayarak önemli bir ahlaki reform getirmiştir. Ayet, kadınların da erkekler gibi doğrudan Allah'a ve Peygamber'e bağlılık yemini edebildiğini, bunun belirgin bir ahlaki çerçevesi olduğunu gösteren bir ayettir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "17:31",
+   "meal": "Çocuklarınızı yoksulluk korkusuyla öldürmeyin; onları da sizi de biz rızıklandırırız. Onları öldürmek gerçekten büyük bir günahtır.",
+   "baglanti": "'Evlat öldürmeme' emri burada genel bir ilke olarak konur; 60:12'deki biat şartı bu genel yasağı özellikle kadınlara yönelik bir söz olarak tekrarlar."
+  },
+  {
+   "ref": "16:58",
+   "meal": "Onlardan birine bir kız çocuğu müjdelendiğinde, öfkeyle yüzü kapkara kesilir.",
+   "baglanti": "Cahiliye döneminde kız çocuklarına karşı beslenen olumsuz tutumu anlatır; 60:12'deki 'çocuklarını öldürmeme' şartının tarihsel arka planını gösterir."
+  },
+  {
+   "ref": "81:8",
+   "meal": "Diri diri gömülen kız çocuğuna sorulduğunda...",
+   "baglanti": "Kız çocuklarının diri diri gömülmesi uygulamasının kıyamet günü hesaba çekileceğini bildirir; 60:12'deki yasağın ne denli ciddi bir ahlaki reform olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hicret eden mümin kadınların Peygamber'e verdiği ahlaki bir yemin/biattir; maddeleri (şirk koşmama, hırsızlık, zina, çocuk öldürme, iftira, meşru işte itaat) döneminin somut sorunlarına karşı konmuş temel ahlaki sınırlardır.",
+  "Buradan çıkan ders, imanın sadece bir inanç değil, somut ahlaki taahhütler gerektirdiğidir; bir kişi Allah'a bağlılığını, günlük hayatında dürüstlük, iffet, doğruluk ve emanete sadakat gibi somut davranışlarla göstermelidir. Bu ayet aynı zamanda kadının da erkek gibi doğrudan bir ahlaki sorumluluk ve bağlılık taşıdığını vurgular."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugünün 'iftirasından' kaçın",
+   "aciklama": "Bugün, doğruluğundan emin olmadığın bir sözü biri hakkında yayma."
+  },
+  {
+   "baslik": "Emanete sadık kal",
+   "aciklama": "Bugün, sana emanet edilen küçük bir şeyi -bilgi, eşya, güven- tam bir dürüstlükle koru."
+  },
+  {
+   "baslik": "Ahlaki sınırlarını yeniden hatırla",
+   "aciklama": "Bugün, bu ayetteki şartlardan hangisinde (dürüstlük, iffet, doğruluk) daha dikkatli olman gerektiğini kendine sor."
+  }
+ ],
+ "bugununAdimi": "Bugün, doğruluğundan emin olmadığın bir sözü kimse hakkında tekrar etme.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=60&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/60/12"
+  }
+ ]
+}

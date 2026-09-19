@@ -1,0 +1,201 @@
+{
+ "sure": 60,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "Eğer eşlerinizden biri inkârcılara giderse, siz de [ganimetten] karşılığını alırsanız, eşleri giden kimselere harcadıkları kadarını verin. Kendisine iman ettiğiniz Allah'tan sakının.",
+ "mealNotu": "'Feâkabtüm' (عقب kökü) burada savaş ganimetinden pay/karşılık alma sırasının gelmesini ifade eder; '[ganimetten]' köşeli parantezle eklendi çünkü ayet bunu açıkça belirtmez, bağlamdan anlaşılır.",
+ "kokler": [
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) ve eğer",
+   "karsilik": "ve eğer"
+  },
+  {
+   "kelime": "فَاتَكُمْ",
+   "okunus": "fâteküm",
+   "kok": "فوت",
+   "kokAnlam": "elden çıkma, kaçma",
+   "karsilik": "elinizden çıkarsa"
+  },
+  {
+   "kelime": "شَىْءٌ",
+   "okunus": "şey'ün",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "bir şey"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَزْوَٰجِكُمْ",
+   "okunus": "ezvâciküm",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift",
+   "karsilik": "eşlerinizden"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْكُفَّارِ",
+   "okunus": "elküffâri",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "inkârcılara"
+  },
+  {
+   "kelime": "فَعَاقَبْتُمْ",
+   "okunus": "feâkabtüm",
+   "kok": "عقب",
+   "kokAnlam": "ardından gelme, karşılık/sıra alma",
+   "karsilik": "karşılığını alırsanız"
+  },
+  {
+   "kelime": "فَـَٔاتُوا۟",
+   "okunus": "feâtû",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "verin"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimselere",
+   "karsilik": "kimselere"
+  },
+  {
+   "kelime": "ذَهَبَتْ",
+   "okunus": "zehebet",
+   "kok": "ذهب",
+   "kokAnlam": "gitme",
+   "karsilik": "giden"
+  },
+  {
+   "kelime": "أَزْوَٰجُهُم",
+   "okunus": "ezvâcühüm",
+   "kok": "زوج",
+   "kokAnlam": "eş, çift",
+   "karsilik": "eşleri"
+  },
+  {
+   "kelime": "مِّثْلَ",
+   "okunus": "misle",
+   "kok": "مثل",
+   "kokAnlam": "benzeri, kadarı",
+   "karsilik": "kadarını"
+  },
+  {
+   "kelime": "مَآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "أَنفَقُوا۟",
+   "okunus": "enfekû",
+   "kok": "نفق",
+   "kokAnlam": "harcama",
+   "karsilik": "harcadılarsa"
+  },
+  {
+   "kelime": "وَٱتَّقُوا۟",
+   "okunus": "vettekû",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma",
+   "karsilik": "sakının"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "ٱلَّذِىٓ",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki O",
+   "karsilik": "ki O'na"
+  },
+  {
+   "kelime": "أَنتُم",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) O'na",
+   "karsilik": "O'na"
+  },
+  {
+   "kelime": "مُؤْمِنُونَ",
+   "okunus": "mü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman edensiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 10. ayetteki mali dengeleme ilkesini tersinden tamamlar: eğer bir mümin erkeğin eşi dininden dönerek inkârcılara giderse ve müminler bu konuda bir karşılık/pay alırsa, eşi giden mümine önceden o eş için harcadığı mehir kadarı ödenir.",
+  "Bu, savaş sonrası mal ve mehir alışverişini düzenleyen, döneme özgü bir hukuki hükümdür; ayetin sonundaki 'iman ettiğiniz Allah'tan sakının' uyarısı, bu maddi düzenlemenin bile takva ve Allah bilinciyle, haksızlık etmeden uygulanması gerektiğini hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "60:10",
+   "meal": "Mümin kadınlar hicret ederek size geldiklerinde onları sınayın... onlara harcadıklarını verin...",
+   "baglanti": "10 ve 11. ayetler birlikte, taraf değiştiren eşler konusunda karşılıklı mehir iadesini düzenleyen bütünleşik bir hükümdür."
+  },
+  {
+   "ref": "2:241",
+   "meal": "Boşanmış kadınlara, örfe uygun bir geçimlik sağlamak, takva sahipleri üzerine bir haktır.",
+   "baglanti": "Evlilik sona erdiğinde tarafların maddi haklarının adaletle gözetilmesi ilkesini, farklı bir bağlamda olsa da destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, savaş sonrası taraf değiştiren eşlerle ilgili mehir iadesini düzenleyen, döneme özgü bir hukuki hükümdür; günümüze birebir aktarılacak bir kural değildir.",
+  "Buradan çıkan genel ders, ilişkiler bozulsa, taraflar ayrılsa bile maddi hakların adaletle gözetilmesi gerektiğidir; bir anlaşmazlık veya ayrılıkta bile karşı tarafın emeğini ya da hakkını gasp etmemek, takva bilinciyle hareket etmenin bir gereğidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ayrılıkta bile adil ol",
+   "aciklama": "Bugün bittiğini düşündüğün bir ilişkide veya ortaklıkta, karşı tarafın hakkını eksiksiz gözet."
+  },
+  {
+   "baslik": "Hesap kapatırken vicdanını dinle",
+   "aciklama": "Bugün birine olan maddi bir hesabı kapatırken, kendi çıkarını değil adaleti öncele."
+  },
+  {
+   "baslik": "Öfkeyle hak gasp etme",
+   "aciklama": "Bugün kırgın olduğun biriyle aranızdaki maddi bir konuda, öfkenin kararını etkilemesine izin verme."
+  }
+ ],
+ "bugununAdimi": "Bugün, bir ayrılık ya da anlaşmazlıkta karşı tarafın hakkını eksiksiz öde veya gözet.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=60&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/60/11"
+  }
+ ]
+}

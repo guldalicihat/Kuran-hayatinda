@@ -1,0 +1,395 @@
+{
+ "sure": 60,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Benim düşmanımı ve düşmanınızı dostlar edinmeyin; onlara sevgi ulaştırıyorsunuz, oysa onlar size gelen haktan dolayı inkâr ettiler; Rabbiniz Allah'a iman ettiğiniz için Elçi'yi ve sizi çıkarıyorlar. Eğer benim yolumda cihad etmek ve rızamı aramak üzere çıktıysanız [böyle yapmayın]; onlara gizlice sevgi gösteriyorsunuz, oysa ben gizlediğinizi de açığa vurduğunuzu da en iyi bilenim. Sizden kim bunu yaparsa doğru yoldan sapmış olur.",
+ "mealNotu": "'Adüvv' (düşman) ve 'evliyâ' (dost/veli) kökleri karşıtlık oluşturur; 'tülkûne...bil meveddeti' ve 'tüsirrûne...bil meveddeti' ifadeleri sırasıyla 'sevgi ulaştırma' ve 'gizlice sevgi gösterme' olarak ayrı çevrildi. '[böyle yapmayın]' ifadesi, şart cümlesinin başındaki yasağı hatırlatan bir eklemedir.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey diye seslenme",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olanlar",
+   "karsilik": "kimseler ki"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": ""
+  },
+  {
+   "kelime": "تَتَّخِذُوا۟",
+   "okunus": "tettehızû",
+   "kok": "أخذ",
+   "kokAnlam": "alma, edinme",
+   "karsilik": "edinmeyin"
+  },
+  {
+   "kelime": "عَدُوِّى",
+   "okunus": "adüvvî",
+   "kok": "عدو",
+   "kokAnlam": "düşmanlık",
+   "karsilik": "düşmanımı"
+  },
+  {
+   "kelime": "وَعَدُوَّكُمْ",
+   "okunus": "ve adüvveküm",
+   "kok": "عدو",
+   "kokAnlam": "düşmanlık",
+   "karsilik": "ve düşmanınızı"
+  },
+  {
+   "kelime": "أَوْلِيَآءَ",
+   "okunus": "evliyâe",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, dostluk, velilik",
+   "karsilik": "dostlar"
+  },
+  {
+   "kelime": "تُلْقُونَ",
+   "okunus": "tülkûne",
+   "kok": "لقي",
+   "kokAnlam": "atma, ulaştırma",
+   "karsilik": "ulaştırıyorsunuz"
+  },
+  {
+   "kelime": "إِلَيْهِم",
+   "okunus": "ileyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "بِٱلْمَوَدَّةِ",
+   "okunus": "bil meveddeti",
+   "kok": "ودد",
+   "kokAnlam": "sevgi",
+   "karsilik": "sevgiyle"
+  },
+  {
+   "kelime": "وَقَدْ",
+   "okunus": "ve kad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik edatı) oysa, gerçekten",
+   "karsilik": "oysa"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği örtme, inkâr",
+   "karsilik": "inkâr ettiler"
+  },
+  {
+   "kelime": "بِمَآ",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "dolayı"
+  },
+  {
+   "kelime": "جَآءَكُم",
+   "okunus": "câeküm",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "size geldi"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْحَقِّ",
+   "okunus": "elhakkı",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçek",
+   "karsilik": "hak"
+  },
+  {
+   "kelime": "يُخْرِجُونَ",
+   "okunus": "yühricûne",
+   "kok": "خرج",
+   "kokAnlam": "çıkma, çıkarma",
+   "karsilik": "çıkarıyorlar"
+  },
+  {
+   "kelime": "ٱلرَّسُولَ",
+   "okunus": "errasûle",
+   "kok": "رسل",
+   "kokAnlam": "elçilik",
+   "karsilik": "Elçi'yi"
+  },
+  {
+   "kelime": "وَإِيَّاكُمْ",
+   "okunus": "ve iyyâküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve sizi",
+   "karsilik": "ve sizi"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) diye",
+   "karsilik": "için"
+  },
+  {
+   "kelime": "تُؤْمِنُوا۟",
+   "okunus": "tü'minû",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman ettiğiniz"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "رَبِّكُمْ",
+   "okunus": "rabbiküm",
+   "kok": "ربب",
+   "kokAnlam": "terbiye, sahiplik, Rablik",
+   "karsilik": "Rabbiniz"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "خَرَجْتُمْ",
+   "okunus": "haractüm",
+   "kok": "خرج",
+   "kokAnlam": "çıkma",
+   "karsilik": "çıktıysanız"
+  },
+  {
+   "kelime": "جِهَٰدًا",
+   "okunus": "cihâden",
+   "kok": "جهد",
+   "kokAnlam": "çaba, gayret, cihad",
+   "karsilik": "cihad etmek"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سَبِيلِى",
+   "okunus": "sebîlî",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yolumda"
+  },
+  {
+   "kelime": "وَٱبْتِغَآءَ",
+   "okunus": "vebtiğâe",
+   "kok": "بغي",
+   "kokAnlam": "arama, isteme",
+   "karsilik": "ve aramak"
+  },
+  {
+   "kelime": "مَرْضَاتِى",
+   "okunus": "merdâtî",
+   "kok": "رضو",
+   "kokAnlam": "razı olma, hoşnutluk",
+   "karsilik": "rızamı"
+  },
+  {
+   "kelime": "تُسِرُّونَ",
+   "okunus": "tüsirrûne",
+   "kok": "سرر",
+   "kokAnlam": "gizleme",
+   "karsilik": "gizlice gösteriyorsunuz"
+  },
+  {
+   "kelime": "إِلَيْهِم",
+   "okunus": "ileyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "بِٱلْمَوَدَّةِ",
+   "okunus": "bil meveddeti",
+   "kok": "ودد",
+   "kokAnlam": "sevgi",
+   "karsilik": "sevgiyi"
+  },
+  {
+   "kelime": "وَأَنَا۠",
+   "okunus": "ve ene",
+   "kok": "—",
+   "kokAnlam": "(zamir) oysa ben",
+   "karsilik": "oysa ben"
+  },
+  {
+   "kelime": "أَعْلَمُ",
+   "okunus": "a'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "en iyi bilenim"
+  },
+  {
+   "kelime": "بِمَآ",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "أَخْفَيْتُمْ",
+   "okunus": "ahfeytüm",
+   "kok": "خفي",
+   "kokAnlam": "gizleme",
+   "karsilik": "gizlediğinizi"
+  },
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şeyi",
+   "karsilik": "ve şeyi"
+  },
+  {
+   "kelime": "أَعْلَنتُمْ",
+   "okunus": "a'lentüm",
+   "kok": "علن",
+   "kokAnlam": "açığa vurma",
+   "karsilik": "açığa vurduğunuzu"
+  },
+  {
+   "kelime": "وَمَن",
+   "okunus": "ve men",
+   "kok": "—",
+   "kokAnlam": "(şart) ve kim",
+   "karsilik": "ve kim"
+  },
+  {
+   "kelime": "يَفْعَلْهُ",
+   "okunus": "yef'alhü",
+   "kok": "فعل",
+   "kokAnlam": "yapma",
+   "karsilik": "bunu yaparsa"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizden",
+   "karsilik": "sizden"
+  },
+  {
+   "kelime": "فَقَدْ",
+   "okunus": "fekad",
+   "kok": "—",
+   "kokAnlam": "(kesinlik edatı) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "ضَلَّ",
+   "okunus": "dalle",
+   "kok": "ضلل",
+   "kokAnlam": "sapma",
+   "karsilik": "sapmıştır"
+  },
+  {
+   "kelime": "سَوَآءَ",
+   "okunus": "sevâe",
+   "kok": "سوي",
+   "kokAnlam": "denklik, doğruluk",
+   "karsilik": "doğru"
+  },
+  {
+   "kelime": "ٱلسَّبِيلِ",
+   "okunus": "essebîli",
+   "kok": "سبل",
+   "kokAnlam": "yol",
+   "karsilik": "yoldan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet Mümtehine suresinin açılışıdır ve surenin ana temasını, Allah'a ve Elçisi'ne açık düşmanlık besleyenlerle sevgi bağı kurmama uyarısını ortaya koyar. Müminlerin, kendilerine ve Elçi'ye savaş açmış, onları imanlarından dolayı yurtlarından çıkarmış bir topluluğa gizlice sevgi veya bilgi ulaştırmaması istenir; bu, cihad ve Allah'ın rızası uğruna yapılan bir duruşla çelişen bir tutumdur.",
+  "Klasik tefsir bu ayeti, bir sahabinin Mekke'ye gizlice bir haber göndererek müminlerin bir hareketinden Mekkeli müşrikleri haberdar etmesi olayıyla ilişkilendirir. Ayet, iyi niyetle yapılsa bile açık düşmanlık hâlindeki bir tarafla gizli iş birliğinin doğru olmadığını, çünkü Allah'ın gizliyi de açığı da bildiğini hatırlatır. Buradaki uyarı -düşmanla gizli iş birliği yapmama- ayetin genel ilkesidir; sonraki ayetler, özellikle 8. ayet, bunun yalnızca açık düşmanlık gösterenlere özel olduğunu netleştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:28",
+   "meal": "Müminler, müminleri bırakıp da kâfirleri dost edinmesin. Kim bunu yaparsa Allah ile bir ilişiği kalmaz; ancak onlardan sakınmanız başkadır.",
+   "baglanti": "Aynı 'düşmanı dost edinmeme' ilkesini genel biçimde ifade eder; 60:1 bunu somut bir tarihi olayla, gizli bilgi/sevgi paylaşımı bağlamında ele alır."
+  },
+  {
+   "ref": "4:144",
+   "meal": "Ey iman edenler! Müminleri bırakıp kâfirleri dostlar edinmeyin. Allah'ın aleyhinize apaçık bir delil olmasını mı istersiniz?",
+   "baglanti": "Benzer bir uyarıyı tekrarlar; iman etmekle açık düşmanlık taşıyanlarla dostluk kurmak arasındaki çelişkiyi vurgular."
+  },
+  {
+   "ref": "60:8",
+   "meal": "Allah, din konusunda sizinle savaşmayan ve sizi yurdunuzdan çıkarmayanlara iyilik etmenizi ve onlara adaletli davranmanızı yasaklamaz.",
+   "baglanti": "Bu ayetteki yasak yalnızca açık düşmanlık gösterenlere özeldir; 8. ayet bunun sınırını çizer."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Medine döneminde müminlerin, kendilerine ve Elçi'ye karşı savaş açmış, onları imanlarından dolayı yurtlarından çıkarmış bir topluluğa gizlice bilgi veya sevgi göstermemesidir; bu tarihsel ve özel bir uyarıdır, günlük hayattaki her farklı görüşten insanla ilişkiye genellenemez.",
+  "Buradan çıkan genel ders, kimin yanında olduğunu gizlemekle açıkça belli etmek arasındaki tutarlılıktır: bir kişi bir değeri veya topluluğu savunduğunu söylerken, gizlice o değere zarar verecek bilgi veya destek vermemelidir. Allah'ın açığı da gizliyi de bildiği bilinci, kişinin görünmeyen tutumlarını da doğru tutmasını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünle tutumun tutarlı olsun",
+   "aciklama": "Bugün savunduğun bir değere aykırı, kimsenin görmediği küçük bir taviz verip vermediğini gözden geçir."
+  },
+  {
+   "baslik": "Gizli ile açık arasında fark bırakma",
+   "aciklama": "Kimse görmese de Allah'ın gördüğünü hatırlayarak, bugün gizlice yapacağın bir şeyi açıkça da yapabilir misin, buna bak."
+  },
+  {
+   "baslik": "Güvenini doğru yere ver",
+   "aciklama": "Bugün kimden yana olduğunu netleştir ve bu duruşunla çelişen küçük bir alışkanlığını fark et."
+  }
+ ],
+ "bugununAdimi": "Bugün, kimse görmese de yapmayacağın bir şeyi gizlice yapıp yapmadığını gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=60&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/60/1"
+  }
+ ]
+}
