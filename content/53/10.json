@@ -1,0 +1,89 @@
+{
+ "sure": 53,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "Böylece [Allah], kuluna vahyettiğini vahyetti.",
+ "mealNotu": "Fiilin öznesi ayette bir zamirle (gizli 'o') verilir; 'abdihî' (kulu) ifadesi bu kulun Allah'a ait olduğunu gösterdiğinden özne köşeli parantezle [Allah] olarak belirtildi. 'Mâ evhâ' (vahyettiğini) ifadesi vahyin içeriğini açıklamadan, sadece verildiğini bildirir.",
+ "kokler": [
+  {
+   "kelime": "فَأَوْحَىٰٓ",
+   "okunus": "feevhâ",
+   "kok": "وحي",
+   "kokAnlam": "vahyetme, gizlice/hızlıca bildirme",
+   "karsilik": "vahyetti"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "عَبْدِهِۦ",
+   "okunus": "abdihî",
+   "kok": "عبد",
+   "kokAnlam": "kul, kölelik, hizmet",
+   "karsilik": "kuluna"
+  },
+  {
+   "kelime": "مَآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne ise",
+   "karsilik": "ne ise"
+  },
+  {
+   "kelime": "أَوْحَىٰ",
+   "okunus": "evhâ",
+   "kok": "وحي",
+   "kokAnlam": "vahyetme, gizlice/hızlıca bildirme",
+   "karsilik": "vahyettiğini"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetlerde anlatılan yaklaşma sahnesinin sonucunu bildirir: vahiy, kuluna verilmiştir. 'Evhâ' fiili tekrarlanarak ('vahyettiğini vahyetti') hem vahyin kesinliği hem de içeriğinin burada ayrıntılandırılmadığı vurgulanır.",
+  "Ayet, vahyin ne olduğunu açıklamaz; sadece verildiğini bildirir. Bu, Kur'an'ın bazı önemli anları ayrıntıya girmeden, saygılı bir sadelikle anlattığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "53:4",
+   "meal": "O, ancak vahyedilen bir vahiydir.",
+   "baglanti": "Sure başında genel olarak belirtilen vahiy gerçeği, burada somut bir sahnenin sonucu olarak tekrar edilir."
+  },
+  {
+   "ref": "42:51",
+   "meal": "Allah, bir insanla ancak vahiyle, perde arkasından veya bir elçi gönderip izniyle dilediğini vahyettirerek konuşur.",
+   "baglanti": "Şûrâ suresi, Allah'ın insanla konuşma yollarını sayar; Necm 10'daki sahne bu yollardan birine örnektir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'e özel bir vahiy anıdır; bu tekrarlanamayan, gaybî bir olaydır. Ayetin kendisi ayrıntı vermediği için burada da ayrıntı uydurmamak gerekir.",
+  "Genel bir ders olarak, önemli bir mesajın verildiği an bazen sade birkaç kelimeyle anlatılır; her ayrıntının bilinmesi şart değildir. Bu, insanın bilmediği konularda susmayı öğrenmesi için de bir örnektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Vahye güven",
+   "aciklama": "Bugün okuduğun bir ayetin doğrudan Allah'tan geldiğini hatırlayarak oku."
+  },
+  {
+   "baslik": "Sadelikle anlat",
+   "aciklama": "Bugün bir konuyu anlatırken gereksiz ayrıntıya girmeden özünü aktar."
+  },
+  {
+   "baslik": "Bilmediğini kabul et",
+   "aciklama": "Bugün ayrıntısını bilmediğin bir konuda 'Allah bilir' demekten çekinme."
+  }
+ ],
+ "bugununAdimi": "Bugün Kur'an'dan okuduğun bir ayetin vahiy olduğunu bilerek, ona bir kez daha kulak ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/10"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "sure": 53,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "O (söylediği), sadece vahyedilen bir vahiydir.",
+ "mealNotu": "'Vahy' kökü hem isim (vahiy) hem fiil (vahyediliyor) olarak aynı ayette iki kez geçer; bu tekrar, sözün kaynağının tek ve açık olduğunu vurgular.",
+ "kokler": [
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "o"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, sadece",
+   "karsilik": "sadece"
+  },
+  {
+   "kelime": "وَحْىٌ",
+   "okunus": "vahyün",
+   "kok": "وحي",
+   "kokAnlam": "vahiy, gizli/hızlı bildirim",
+   "karsilik": "bir vahiy"
+  },
+  {
+   "kelime": "يُوحَىٰ",
+   "okunus": "yûhâ",
+   "kok": "وحي",
+   "kokAnlam": "vahyedilme, gizlice/hızlıca bildirilme",
+   "karsilik": "vahyedilen"
+  }
+ ],
+ "neAnlatiyor": [
+  "3. ayette Peygamber'in kendi hevasından konuşmadığı söylenmişti; bu ayet konuşmanın gerçek kaynağını açıklar: sözü, kendisine vahyedilen bir vahiydir. 'Vahy' kelimesinin hem isim hem fiil olarak tekrarı, kaynağın tekliğini ve açıklığını vurgular.",
+  "Ayet, sonraki ayetlerde bu vahyin nasıl geldiğine dair bir anlatıma geçiş yapar. Burada henüz vahyin şekli anlatılmaz; yalnızca sözün ilahi kaynaklı olduğu belirtilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "18:110",
+   "meal": "De ki: Ben de ancak sizin gibi bir insanım; ancak bana ilahınızın tek bir ilah olduğu vahyediliyor.",
+   "baglanti": "Kehf suresi de Peygamber'in sözünün kaynağının kendi bilgisi değil, kendisine gelen vahiy olduğunu aynı kökle (vahy) belirtir."
+  },
+  {
+   "ref": "42:51",
+   "meal": "Allah, bir insanla ancak vahiyle, perde arkasından veya bir elçi gönderip izniyle dilediğini vahyettirerek konuşur.",
+   "baglanti": "Şûrâ suresi, vahyin insana ulaşma yollarını sayar; Necm 4'teki 'vahyedilen vahiy' ifadesi bu yollardan birine işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu vahyin kaynağıdır; bu, Peygamber'e özgü bir durumdur ve herkes için genelleştirilemez. Ancak buradan, sözün kaynağını bilmenin değerine dair bir ders çıkarılabilir.",
+  "Bir bilgiyi paylaşırken kaynağını belirtmek, o bilgiye güveni artırır. Bu ayet, en önemli sözün bile kaynağının açıkça belirtildiğini gösterir; günlük hayatta da duyduğumuz bir bilgiyi aktarırken kaynağını söylemek dürüstlüğün bir parçasıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaynağını belirt",
+   "aciklama": "Bugün bir bilgi paylaşırken nereden öğrendiğini de söyle."
+  },
+  {
+   "baslik": "Kaynağı sorgula",
+   "aciklama": "Bugün duyduğun önemli bir haberin kaynağını araştırmadan paylaşma."
+  },
+  {
+   "baslik": "Vahye güven",
+   "aciklama": "Bugün okuduğun bir ayetin Allah'tan geldiğini hatırlayarak oku."
+  }
+ ],
+ "bugununAdimi": "Bugün paylaşacağın bir bilginin kaynağını önce kendine, sonra karşındakine açıkça söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/4"
+  }
+ ]
+}

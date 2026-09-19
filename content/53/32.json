@@ -1,0 +1,276 @@
+{
+ "sure": 53,
+ "ayet": 32,
+ "durum": "taslak",
+ "meal": "Onlar, büyük günahlardan ve hayasızlıklardan -küçük hatalar dışında- kaçınırlar. Şüphesiz Rabbin, bağışlaması geniş olandır. Sizi topraktan var ettiğinde ve siz annelerinizin karnında ceninler iken sizi en iyi bilen O'dur. Öyleyse kendinizi temize çıkarmayın; kimin takva sahibi olduğunu en iyi bilen O'dur.",
+ "mealNotu": "'Lemem' kelimesi büyük günahların dışında kalan küçük, geçici hataları anlatır. 'Tüzekkû' fiili kendini temize çıkarmayı, arınmış ilan etmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olanlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "يَجْتَنِبُونَ",
+   "okunus": "yectenibûne",
+   "kok": "جنب",
+   "kokAnlam": "kaçınma, uzak durma, yan çekilme",
+   "karsilik": "kaçınırlar"
+  },
+  {
+   "kelime": "كَبَٰٓئِرَ",
+   "okunus": "kebâira",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük",
+   "karsilik": "büyük"
+  },
+  {
+   "kelime": "ٱلْإِثْمِ",
+   "okunus": "el'ismi",
+   "kok": "أثم",
+   "kokAnlam": "günah",
+   "karsilik": "günahlardan"
+  },
+  {
+   "kelime": "وَٱلْفَوَٰحِشَ",
+   "okunus": "vel fevâhişe",
+   "kok": "فحش",
+   "kokAnlam": "çirkinlik, hayasızlık",
+   "karsilik": "ve hayasızlıklardan"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, dışında",
+   "karsilik": "dışında"
+  },
+  {
+   "kelime": "ٱللَّمَمَ",
+   "okunus": "ellememe",
+   "kok": "لمم",
+   "kokAnlam": "küçük hata, ufak dokunuş, geçici hata",
+   "karsilik": "küçük hatalar"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "رَبَّكَ",
+   "okunus": "rabbeke",
+   "kok": "ربب",
+   "kokAnlam": "Rab, terbiye eden, sahip",
+   "karsilik": "Rabbin"
+  },
+  {
+   "kelime": "وَٰسِعُ",
+   "okunus": "vâsiu",
+   "kok": "وسع",
+   "kokAnlam": "genişlik, kapsayıcılık",
+   "karsilik": "geniş olandır"
+  },
+  {
+   "kelime": "ٱلْمَغْفِرَةِ",
+   "okunus": "elmağfirati",
+   "kok": "غفر",
+   "kokAnlam": "bağışlama",
+   "karsilik": "bağışlaması"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "O"
+  },
+  {
+   "kelime": "أَعْلَمُ",
+   "okunus": "a'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilgi; en iyi bilen",
+   "karsilik": "en iyi bilendir"
+  },
+  {
+   "kelime": "بِكُمْ",
+   "okunus": "biküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizi",
+   "karsilik": "sizi"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "أَنشَأَكُم",
+   "okunus": "enşeeküm",
+   "kok": "نشأ",
+   "kokAnlam": "var etme, yaratma, oluşturma (sizi)",
+   "karsilik": "var ettiğinde"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "topraktan"
+  },
+  {
+   "kelime": "وَإِذْ",
+   "okunus": "ve iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) ve -dığında",
+   "karsilik": "ve -dığında"
+  },
+  {
+   "kelime": "أَنتُمْ",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "أَجِنَّةٌ",
+   "okunus": "ecinnetün",
+   "kok": "جنن",
+   "kokAnlam": "örtülü/gizli, cenin",
+   "karsilik": "ceninler"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "بُطُونِ",
+   "okunus": "bütûni",
+   "kok": "بطن",
+   "kokAnlam": "karın, iç",
+   "karsilik": "karnında"
+  },
+  {
+   "kelime": "أُمَّهَٰتِكُمْ",
+   "okunus": "ümmehâtiküm",
+   "kok": "أمم",
+   "kokAnlam": "ana, anne",
+   "karsilik": "annelerinizin"
+  },
+  {
+   "kelime": "فَلَا",
+   "okunus": "felâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk+bağlaç) öyleyse ...mayın",
+   "karsilik": "öyleyse ...mayın"
+  },
+  {
+   "kelime": "تُزَكُّوٓا۟",
+   "okunus": "tüzekkû",
+   "kok": "زكو",
+   "kokAnlam": "arınma, temizlenme, temize çıkma",
+   "karsilik": "temize çıkarmayın"
+  },
+  {
+   "kelime": "أَنفُسَكُمْ",
+   "okunus": "enfüseküm",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik, kişi",
+   "karsilik": "kendinizi"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "O"
+  },
+  {
+   "kelime": "أَعْلَمُ",
+   "okunus": "a'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilgi; en iyi bilen",
+   "karsilik": "en iyi bilendir"
+  },
+  {
+   "kelime": "بِمَنِ",
+   "okunus": "bimeni",
+   "kok": "—",
+   "kokAnlam": "(edat + ilgi) kimin",
+   "karsilik": "kimin"
+  },
+  {
+   "kelime": "ٱتَّقَىٰٓ",
+   "okunus": "ittekâ",
+   "kok": "وقي",
+   "kokAnlam": "korunma, sakınma; takva",
+   "karsilik": "takva sahibi olduğunu"
+  }
+ ],
+ "neAnlatiyor": [
+  "31. ayette Allah'ın kötülük ve iyiliği adaletle karşılayacağı söylenmişti; bu ayet, o karşılığa layık olan bir grubu tanımlar: büyük günahlardan ve hayasızlıklardan -küçük, geçici hatalar dışında- kaçınanlar. Ayet hemen ardından Rabbin bağışlamasının geniş olduğunu vurgulayarak, küçük hataların bağışlanabilir olduğunu, insanın mükemmel olmak zorunda olmadığını hatırlatır.",
+  "Ayetin devamı, insanın yaratılışının iki aşamasını anar: topraktan yaratılma ve annesinin karnında cenin hâli. Bu hatırlatma, insanın nereden geldiğini bilmesini ve büyüklenmemesini sağlar; bu yüzden ayet 'kendinizi temize çıkarmayın' uyarısıyla biter -çünkü kimin gerçekten takva sahibi olduğunu en iyi bilen Allah'tır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:31",
+   "meal": "Eğer yasaklandığınız büyük günahlardan kaçınırsanız, sizin küçük günahlarınızı örteriz.",
+   "baglanti": "Nisâ suresi de büyük günahlardan kaçınmanın küçük hataların bağışlanmasına vesile olacağını bildirir; Necm 32'deki 'küçük hatalar dışında' ifadesiyle aynı ilkeyi paylaşır."
+  },
+  {
+   "ref": "23:12",
+   "meal": "Andolsun, biz insanı çamurdan (süzülmüş) bir özden yarattık.",
+   "baglanti": "Mü'minûn suresi de insanın yaratılış aşamalarını anlatır; Necm 32'deki 'topraktan yaratılma ve anne karnındaki cenin hâli' hatırlatmasıyla aynı temayı işler."
+  },
+  {
+   "ref": "53:30",
+   "meal": "Şüphesiz Rabbin, yolundan sapanı en iyi bilendir; O, doğru yolda olanı da en iyi bilendir.",
+   "baglanti": "Bu ayet, 30. ayetteki 'en iyi bilen O'dur' ifadesini, kimin takva sahibi olduğu konusunda tekrarlayarak sureyi tutarlı bir çerçevede kapatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, büyük günahlardan kaçınan ve küçük hataları bağışlanan kimselerin özelliğidir; bu güzel bir ahlak ve iman tarifi sunar. Ayet, insanın hatasız olmasını değil, büyük günahlardan uzak durmasını ve küçük hatalarını Allah'ın bağışlayacağını bilmesini öğütler.",
+  "İnsanın topraktan ve anne karnındaki cenin hâlinden yaratıldığını hatırlaması, ona bir tevazu kazandırır. Bu bilinç, kendini temize çıkarma, başkasını küçümseme gibi bir kibre kapılmaktan alıkoyar; çünkü kimin gerçekten iyi olduğunu bilen yalnız Allah'tır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Büyük günahtan kaçın",
+   "aciklama": "Bugün bilerek büyük bir günaha yaklaşmaktan uzak dur."
+  },
+  {
+   "baslik": "Kendini temize çıkarma",
+   "aciklama": "Bugün bir konuşmada kendini övüp başkasını küçümsemekten kaçın."
+  },
+  {
+   "baslik": "Bağışlanmaya güven",
+   "aciklama": "Bugün küçük bir hatan için pişman ol, tövbe et ve Allah'ın affına güven."
+  }
+ ],
+ "bugununAdimi": "Bugün bir hatanı fark ettiğinde, kendini savunmak yerine kısa bir tövbeyle Allah'a yönel.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=32"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/32"
+  }
+ ]
+}

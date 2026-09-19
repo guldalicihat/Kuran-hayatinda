@@ -1,0 +1,82 @@
+{
+ "sure": 53,
+ "ayet": 22,
+ "durum": "taslak",
+ "meal": "Öyleyse bu, çok haksız (çarpık) bir paylaştırmadır.",
+ "mealNotu": "'Dîzâ' kelimesi haksızlığı, eksikliği, adaletsiz/çarpık olmayı anlatır; nadir kullanılan bir kelimedir ve güçlü bir kınama taşır.",
+ "kokler": [
+  {
+   "kelime": "تِلْكَ",
+   "okunus": "tilke",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu, şu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "إِذًا",
+   "okunus": "izen",
+   "kok": "—",
+   "kokAnlam": "(cevap) o zaman, öyleyse",
+   "karsilik": "öyleyse"
+  },
+  {
+   "kelime": "قِسْمَةٌ",
+   "okunus": "kısmetün",
+   "kok": "قسم",
+   "kokAnlam": "bölüştürme, pay etme",
+   "karsilik": "bir paylaştırmadır"
+  },
+  {
+   "kelime": "ضِيزَىٰٓ",
+   "okunus": "dîzâ",
+   "kok": "ضيز",
+   "kokAnlam": "haksızlık, eksiklik, adaletsizlik, çarpıklık",
+   "karsilik": "çok haksız"
+  }
+ ],
+ "neAnlatiyor": [
+  "21. ayette sorulan çelişki (erkek size, dişi Allah'a mı?) bu ayette bir hükümle sonuçlanır: bu, çok haksız bir paylaştırmadır. 'Dîzâ' kelimesi, Kur'an'da nadir geçen ve güçlü bir adaletsizliği anlatan bir kelimedir.",
+  "Bu ayet, 19-21. ayetlerde anlatılan putperestlik ve çelişki eleştirisinin sonucunu net bir hükümle bağlar. Ayet, sadece inanç açısından değil, mantık ve adalet açısından da bu paylaştırmanın tutarsız olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "53:21",
+   "meal": "Demek erkek sizin, dişi O'nun mu?",
+   "baglanti": "Bu ayet, bir önceki ayette sorulan sorunun cevabıdır: evet, bu paylaştırma gerçekten haksızdır."
+  },
+  {
+   "ref": "43:19",
+   "meal": "Onlar, Rahmân'ın kulları olan melekleri de dişi saydılar. Onların yaratılışına şahit mi oldular?",
+   "baglanti": "Zuhruf suresi de aynı konuyu, meleklerin dişi sayılması üzerinden ele alır ve bu iddianın hiçbir bilgiye dayanmadığını sorar; Necm 22'deki 'haksız paylaştırma' hükmünü tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, müşriklerin Allah'a yönelik haksız bir isnadıdır; bu, tevhit inancıyla ilgili özel bir eleştiridir. Ancak 'haksız bölüştürme' ifadesi, genel bir adalet ilkesine de işaret eder.",
+  "Bir şeyi paylaştırırken, kendi çıkarına göre değil adil ölçüyle davranmak önemlidir. Bu ayet, hem inançta hem günlük paylaşımlarda (miras, iş bölümü, sorumluluk) adaletsiz bir dağılımın kınandığını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Adil paylaş",
+   "aciklama": "Bugün bir işi veya sorumluluğu paylaştırırken adil davran."
+  },
+  {
+   "baslik": "Çarpıklığı düzelt",
+   "aciklama": "Bugün fark ettiğin haksız bir uygulamayı, elinden geldiğince düzeltmeye çalış."
+  },
+  {
+   "baslik": "Tevhide dön",
+   "aciklama": "Bugün Allah hakkında düşünürken O'na yakışan yüceliği hatırla, eksik bir tasavvurdan kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün bir paylaşım yaparken (zaman, iş, mal) adil olup olmadığını kontrol et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=22"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/22"
+  }
+ ]
+}

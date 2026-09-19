@@ -1,0 +1,89 @@
+{
+ "sure": 53,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "Göz kaymadı, sınırı da aşmadı.",
+ "mealNotu": "'Zâğa' gözün yön değiştirmesini/şaşmasını, 'tağâ' ise sınırı aşmayı anlatır. Ayet, görmenin tam ve ölçülü olduğunu, ne eksik ne fazla olduğunu bildirir.",
+ "kokler": [
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "زَاغَ",
+   "okunus": "zâğa",
+   "kok": "زيغ",
+   "kokAnlam": "kayma, şaşma, yön değiştirme",
+   "karsilik": "kaymadı"
+  },
+  {
+   "kelime": "ٱلْبَصَرُ",
+   "okunus": "elbesaru",
+   "kok": "بصر",
+   "kokAnlam": "göz, görme organı",
+   "karsilik": "göz"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "طَغَىٰ",
+   "okunus": "tağâ",
+   "kok": "طغي",
+   "kokAnlam": "azma, taşkınlık, sınırı aşma",
+   "karsilik": "sınırı aşmadı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 11. ayette 'kalbin yalanlamadığı' belirtilen görmenin bu kez göz açısından doğruluğunu bildirir: göz kaymadı, sınırı da aşmadı. Bu, görmenin hem içsel (kalp) hem dışsal (göz) olarak tutarlı ve ölçülü olduğunu vurgular.",
+  "'Tağâ' (sınırı aşma) fiili, Kur'an'da genellikle azgınlığı anlatır; burada ise gözün gördüğünden fazlasını görmüş gibi davranmadığını, sınırında kaldığını bildirir. Bu, anlatılan tecrübenin abartısız ve dengeli olduğuna işaret eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "53:11",
+   "meal": "Kalp, gördüğünü yalanlamadı.",
+   "baglanti": "Bu ayet, kalbin doğrulamasına ek olarak gözün de doğru ve ölçülü gördüğünü bildirerek tecrübenin güvenilirliğini iki yönden pekiştirir."
+  },
+  {
+   "ref": "17:36",
+   "meal": "Hakkında bilgin olmayan şeyin ardına düşme; çünkü kulak, göz ve kalp, bunların hepsi ondan sorumludur.",
+   "baglanti": "İsrâ suresi, göz ve kalbin sorumlu organlar olduğunu belirtir; Necm suresindeki bu ayet de tam olarak bu iki organın (göz, kalp) tanıklığını konu eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in özel bir görme tecrübesindeki ölçülülüktür; bu, tarihî ve tekrarlanamaz bir olaydır. Ayetin verdiği bilgiyle yetinmek gerekir.",
+  "Genel bir ders olarak, gördüğümüzü abartmadan, olduğu gibi aktarmak dürüstlüğün bir parçasıdır. Gözümüzün gördüğüne sınırı aşarak yorum katmak, çoğu zaman yanlış anlamalara yol açar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gördüğünü abartma",
+   "aciklama": "Bugün gördüğün bir olayı anlatırken abartmadan, gerçeğe sadık kal."
+  },
+  {
+   "baslik": "Sınırını koru",
+   "aciklama": "Bugün bir konuda bilmediğin kısmı bilmiyormuş gibi bırak, tahmin yürütme."
+  },
+  {
+   "baslik": "Gözünü koru",
+   "aciklama": "Bugün bakışlarını, sana ve başkalarına faydalı olmayan şeylerden uzak tut."
+  }
+ ],
+ "bugununAdimi": "Bugün bir olayı anlatırken sadece gördüğünü söyle, yorum katmadan aktar.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/17"
+  }
+ ]
+}

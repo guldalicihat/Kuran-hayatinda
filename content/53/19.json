@@ -1,0 +1,75 @@
+{
+ "sure": 53,
+ "ayet": 19,
+ "durum": "taslak",
+ "meal": "Gördünüz mü Lât'ı ve Uzzâ'yı?",
+ "mealNotu": "'Lât' ve 'Uzzâ', Mekke döneminde tapılan putların özel adlarıdır. 'Uzzâ' kelimesi kök olarak 'izzet/güç' anlamındaki 'azze' fiiliyle ilişkilidir.",
+ "kokler": [
+  {
+   "kelime": "أَفَرَءَيْتُمُ",
+   "okunus": "eferaeytümü",
+   "kok": "رأي",
+   "kokAnlam": "görme (soru kalıbında: gördünüz mü)",
+   "karsilik": "gördünüz mü"
+  },
+  {
+   "kelime": "ٱللَّٰتَ",
+   "okunus": "ellâte",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Mekke döneminde tapılan bir putun adı",
+   "karsilik": "Lât'ı"
+  },
+  {
+   "kelime": "وَٱلْعُزَّىٰ",
+   "okunus": "vel uzzâ",
+   "kok": "عزز",
+   "kokAnlam": "güç, üstünlük, izzet; bu kökten türeyen bir put adı",
+   "karsilik": "Uzzâ'yı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayetle sure, Peygamber'in gördüğü büyük ayetlerden (18. ayet), Mekkelilerin taptığı küçük ve güçsüz putlara geçiş yapar. Lât ve Uzzâ, Mekke ve çevresinde Arapların taptığı dişi putların adlarıdır; ayet, bunları soru biçiminde gündeme getirerek muhatabı düşünmeye çağırır.",
+  "'Eferaeytüm' (gördünüz mü) sorusu, Kur'an'da sık kullanılan bir üsluptur ve dinleyiciyi, üzerinde durmadığı bir gerçeği fark etmeye davet eder. Burada bu putların gerçekte ne olduğu sorusu, devam eden ayetlerde açıkça cevaplanacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "53:23",
+   "meal": "Bunlar, sizin ve atalarınızın taktığı isimlerden başka bir şey değildir; Allah onlar hakkında hiçbir delil indirmemiştir.",
+   "baglanti": "Bu bölümün sonundaki ayet, 19-20. ayetlerde adı geçen putların gerçekte hiçbir dayanağı olmayan, sadece isimlendirilmiş kavramlar olduğunu açıkça söyler."
+  },
+  {
+   "ref": "71:23",
+   "meal": "Ve dediler ki: Sakın ilahlarınızı bırakmayın; Vedd'i, Süvâ'yı, Yeğûs'u, Yeûk'u ve Nesr'i de bırakmayın.",
+   "baglanti": "Nûh suresi de Nûh kavminin taptığı put adlarını sayar; Kur'an, farklı kavimlerin taptığı sahte ilahları isimleriyle anarak onların gerçek bir güce sahip olmadığını vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, tarihte Mekke'de tapılan belirli putlardır; bu, o döneme özgü somut bir eleştiridir. Ancak ayetin sorduğu soru -'gördünüz mü, üzerinde hiç düşündünüz mü?'- her çağda geçerli bir çağrıdır.",
+  "Günümüzde put şeklinde olmasa da, insanın üzerinde düşünmeden değer verdiği, adeta kutsallaştırdığı şeyler olabilir; para, statü, popülerlik gibi. Bu ayet, körü körüne bağlanılan şeyleri sorgulamayı, onların gerçekte ne olduğunu düşünmeyi öğütler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sorgula",
+   "aciklama": "Bugün üzerinde hiç düşünmeden değer verdiğin bir şeyi fark edip gerçekten neye dayandığını sor."
+  },
+  {
+   "baslik": "Boş inançtan uzak dur",
+   "aciklama": "Bugün dayanağı olmayan bir inanca veya söylentiye körü körüne uymaktan kaçın."
+  },
+  {
+   "baslik": "Tek yöne yönel",
+   "aciklama": "Bugün güvendiğin, sığındığın şeyin gerçekten Allah olup olmadığını bir an düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün 'neye, niçin değer veriyorum?' sorusunu kendine sor ve cevabını bir cümleyle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=19"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/19"
+  }
+ ]
+}

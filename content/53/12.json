@@ -1,0 +1,82 @@
+{
+ "sure": 53,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Onun gördüğü şey hakkında onunla mı tartışıyorsunuz?",
+ "mealNotu": "'Tümârûnehû' fiili, şüpheyle itiraz ederek tartışmayı anlatır; ayet bunu bir soru olarak sorar, doğrudan bir emir vermez.",
+ "kokler": [
+  {
+   "kelime": "أَفَتُمَٰرُونَهُۥ",
+   "okunus": "efetümârûnehû",
+   "kok": "مري",
+   "kokAnlam": "tartışma, şüphe ile itiraz etme, çekişme",
+   "karsilik": "tartışıyor musunuz"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) hakkında, üzerine",
+   "karsilik": "hakkında"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ne ise",
+   "karsilik": "gördüğü şey"
+  },
+  {
+   "kelime": "يَرَىٰ",
+   "okunus": "yerâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "gördüğü"
+  }
+ ],
+ "neAnlatiyor": [
+  "11. ayette kalbin gördüğünü yalanlamadığı söylenmişti; bu ayet, muhataplara bir soru yöneltir: Peygamber'in gördüğü şey hakkında onunla tartışıyor musunuz? Bu, inkârcıların Peygamber'in tecrübesini sorguladığı bir tepkiye işaret eder.",
+  "Ayet, tartışmanın kendisini bir soru biçiminde eleştirir; görülenin doğruluğunu savunurken muhatabın itirazına dikkat çeker. Bu, sonraki ayette (13) aynı görmenin bir kez daha tekrarlandığının bildirilmesiyle pekiştirilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "53:11",
+   "meal": "Kalp, gördüğünü yalanlamadı.",
+   "baglanti": "Bir önceki ayet, burada sorgulanan görmenin kalp tarafından da doğrulandığını belirtmişti; bu ayet o doğrulamaya rağmen süren itirazı sorar."
+  },
+  {
+   "ref": "6:25",
+   "meal": "Aralarında seni dinleyenler vardır; ama kalplerinin üzerine, onu anlamalarını engelleyen perdeler koyduk...",
+   "baglanti": "En'âm suresi de inkârcıların açık bir gerçeği bile reddetme eğilimini anlatır; Necm 12'deki 'tartışma' da benzer bir inatçı tutuma işaret eder."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in tecrübesine yönelik bir itirazdır; bu tarihî bir bağlamdır. Genel bir ilke olarak, bir kişinin doğrudan yaşadığı bir tecrübeyi, iyi niyetle dinlemeden hemen tartışmaya açmak yapıcı bir tutum değildir.",
+  "Günlük hayatta da başkalarının tecrübelerini önce anlamaya çalışmak, hemen şüpheyle karşılamaktan daha sağlıklıdır. Bu, elbette her iddiayı sorgusuz kabul etmek anlamına gelmez; ama peşin bir inkârcılık da doğru değildir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önce dinle",
+   "aciklama": "Bugün birinin anlattığı bir tecrübeyi, hemen itiraz etmeden sonuna kadar dinle."
+  },
+  {
+   "baslik": "İnatla tartışma",
+   "aciklama": "Bugün bir konuda haklı olduğunu bildiğin biriyle inatla tartışmaktan kaçın."
+  },
+  {
+   "baslik": "Kanıta bak",
+   "aciklama": "Bugün bir iddiayı değerlendirirken önyargınla değil, elindeki bilgiyle karar ver."
+  }
+ ],
+ "bugununAdimi": "Bugün birinin anlattığı bir şeyi, hemen itiraz etmeden önce tam olarak dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/12"
+  }
+ ]
+}

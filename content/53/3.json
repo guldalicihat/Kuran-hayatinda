@@ -1,0 +1,82 @@
+{
+ "sure": 53,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "O, kendi hevasından (isteğinden) konuşmuyor.",
+ "mealNotu": "'Nutk' kökü konuşmayı, 'hevâ' kökü ise kişisel istek/tutkuyu anlatır; bu kök 1. ayette 'düşme/kayma' anlamıyla geçmişti, burada 'kişisel arzu' anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "يَنطِقُ",
+   "okunus": "yentıku",
+   "kok": "نطق",
+   "kokAnlam": "konuşma, söz söyleme",
+   "karsilik": "konuşuyor"
+  },
+  {
+   "kelime": "عَنِ",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "(edat) -den, hakkında",
+   "karsilik": "-dan"
+  },
+  {
+   "kelime": "ٱلْهَوَىٰٓ",
+   "okunus": "elhevâ",
+   "kok": "هوي",
+   "kokAnlam": "düşme, inme; kişisel istek, tutku, heves",
+   "karsilik": "kendi hevasından"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 2. ayetteki savunmayı bir adım ileri götürür: Peygamber sadece sapmamış ve azmamış olmakla kalmaz, konuştuğu söz de kendi kişisel arzusundan/tutkusundan kaynaklanmaz. 'Hevâ' kökü burada kişisel istek anlamındadır ve bir sonraki ayette gelecek 'vahiy' kavramına zemin hazırlar.",
+  "Ayet, vahyin kaynağının insanın kendi iç dünyası değil, dışarıdan gelen bir bildirim olduğunu vurgular. Bu, sonraki ayetlerde açıkça 'vahiy' kelimesiyle ifade edilecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "53:4",
+   "meal": "O, ancak vahyedilen bir vahiydir.",
+   "baglanti": "Bir sonraki ayet, burada reddedilen 'kendi hevasından konuşma' ihtimalinin karşısına doğrudan 'vahiy' kavramını koyar."
+  },
+  {
+   "ref": "69:44",
+   "meal": "Eğer o (Peygamber), bize bazı sözler uydurup söyleseydi,",
+   "baglanti": "Hâkka suresi de benzer bir savunmayı, Peygamber'in sözü kendinden uydurması ihtimalini ele alarak sürdürür; her iki ayet de vahyin güvenilirliğini pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in tebliğ ettiği sözün kaynağıdır; bu özel bir vahiy savunmasıdır. Buradan çıkan genel ilke, sözün kaynağının önemli olduğudur: bir sözün kişisel bir hevesten mi yoksa doğru bir bilgiden mi geldiği fark yaratır.",
+  "Günlük hayatta da konuşurken kendi hevesimizle mi yoksa bildiğimiz doğrularla mı konuştuğumuzu ayırt etmek önemlidir. Öfkeyle, kibirle ya da çıkarla söylenen söz, hevadan konuşmaya örnektir; bundan kaçınmak insanın sözünü değerli kılar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Konuşmadan önce dur",
+   "aciklama": "Bugün önemli bir konuda konuşmadan önce, bunun hevesten mi bilgiden mi geldiğini bir an düşün."
+  },
+  {
+   "baslik": "Öfkeyle konuşma",
+   "aciklama": "Bugün sinirlendiğinde hemen cevap vermek yerine birkaç saniye bekle."
+  },
+  {
+   "baslik": "Bilmediğini söyleme",
+   "aciklama": "Bugün emin olmadığın bir konuda 'bilmiyorum' demekten çekinme."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kez, konuşmadan önce 'bu heves mi, doğru mu?' diye kendine sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/3"
+  }
+ ]
+}

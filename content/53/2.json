@@ -1,0 +1,89 @@
+{
+ "sure": 53,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Arkadaşınız (Peygamber) sapmadı, azmadı.",
+ "mealNotu": "'Sâhib' kelimesi düz anlamıyla 'arkadaş, yakın kişi' demektir; bağlamdan Hz. Peygamber'e işaret ettiği anlaşılır, bu yüzden köşeli parantezle belirtildi. 'Dalle' ve 'gavâ' fiilleri iki farklı sapma türünü, yoldan çıkma ve azgınlığa kaymayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "ضَلَّ",
+   "okunus": "dalle",
+   "kok": "ضلل",
+   "kokAnlam": "sapma, yoldan çıkma, doğru yolu kaybetme",
+   "karsilik": "sapmadı"
+  },
+  {
+   "kelime": "صَاحِبُكُمْ",
+   "okunus": "sâhibüküm",
+   "kok": "صحب",
+   "kokAnlam": "arkadaşlık, beraberlik, yakınlık",
+   "karsilik": "arkadaşınız"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "غَوَىٰ",
+   "okunus": "gavâ",
+   "kok": "غوي",
+   "kokAnlam": "azma, yanlış yola sapma, aşırıya kayma",
+   "karsilik": "azmadı"
+  }
+ ],
+ "neAnlatiyor": [
+  "1. ayetteki yeminin cevabı bu ayetle gelir: 'arkadaşınız' -yani Mekkelilerin uzun süredir tanıdığı Peygamber- ne sapmıştır ne de azmıştır. 'Dalle' yolu şaşırmayı, 'gavâ' ise bilerek yanlışa yönelmeyi anlatır; ayet bu iki ihtimali birlikte reddeder.",
+  "Ayet, Peygamber'in getirdiği mesajın kişisel bir sapma veya heves sonucu olmadığını baştan ilan eder. Bu, sonraki ayetlerde anlatılacak vahiy tecrübesinin güvenilirliğine bir temel oluşturur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "81:22",
+   "meal": "Arkadaşınız (Muhammed) bir deli değildir.",
+   "baglanti": "Tekvîr suresinde de aynı 'sâhibüküm' (arkadaşınız) ifadesiyle Peygamber'e yöneltilen bir itham reddedilir; iki ayet aynı savunmayı farklı bir suçlamaya karşı tekrarlar."
+  },
+  {
+   "ref": "34:46",
+   "meal": "De ki: Ben size ancak bir tek şeyi öğütlerim: Allah için ikişer ikişer ve teker teker kalkıp düşünmenizi. Sonra arkadaşınızda (Muhammed'de) hiçbir delilik olmadığını düşünürsünüz.",
+   "baglanti": "Sebe' suresi de aynı kelimeyle Peygamber'in akıl ve tutarlılığına dikkat çeker; düşünen kişinin kendisi bu gerçeği görecektir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Hz. Peygamber'in güvenilirliğidir; bu, tarihî ve özel bir savunmadır. Ancak buradan çıkan genel bir ilke vardır: bir sözün doğruluğu, onu söyleyenin tutarlılığı ve geçmişiyle de ölçülür.",
+  "Günlük hayatta bir kişiye güvenip güvenmeyeceğimize karar verirken, o kişinin önceki tutumuna, tutarlılığına bakarız. Bu ayet, iddiaların havada değil, tanınan bir hayatın üzerine kurulduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü tut",
+   "aciklama": "Bugün verdiğin küçük bir sözü eksiksiz yerine getir; tutarlılığın güven inşa ettiğini hatırla."
+  },
+  {
+   "baslik": "Peşin hükümden kaçın",
+   "aciklama": "Bugün birini yargılamadan önce onun genel tutumuna ve geçmişine bak."
+  },
+  {
+   "baslik": "Doğru bildiğini savun",
+   "aciklama": "Haksız bir eleştiriyle karşılaştığında, sakin ve net bir şekilde gerçeği anlat."
+  }
+ ],
+ "bugununAdimi": "Bugün verdiğin bir sözü, ne olursa olsun eksiksiz yerine getir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/2"
+  }
+ ]
+}

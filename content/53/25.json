@@ -1,0 +1,75 @@
+{
+ "sure": 53,
+ "ayet": 25,
+ "durum": "taslak",
+ "meal": "Oysa âhiret de, ilk (dünya) hayat da Allah'ındır.",
+ "mealNotu": "'Ûlâ' kelimesi kök olarak 'ilk/önceki'yi anlatır ve burada dünya hayatına işaret eder; bu yüzden köşeli parantezle '(dünya)' eklendi. 'Âhiret' ise özel bir Kur'an terimi olarak korunmuştur.",
+ "kokler": [
+  {
+   "kelime": "فَلِلَّهِ",
+   "okunus": "felillâhi",
+   "kok": "أله",
+   "kokAnlam": "(edat + isim) Allah'a ait",
+   "karsilik": "Allah'ındır"
+  },
+  {
+   "kelime": "ٱلْءَاخِرَةُ",
+   "okunus": "el'âhıratü",
+   "kok": "أخر",
+   "kokAnlam": "son, sonraki, âhiret",
+   "karsilik": "âhiret"
+  },
+  {
+   "kelime": "وَٱلْأُولَىٰ",
+   "okunus": "vel ûlâ",
+   "kok": "أول",
+   "kokAnlam": "ilk, evvel, önceki",
+   "karsilik": "ilk (dünya) hayat"
+  }
+ ],
+ "neAnlatiyor": [
+  "24. ayette insanın her istediğini elde edip edemeyeceği sorulmuştu; bu ayet, gerçek sahipliğin kimde olduğunu hatırlatarak cevap verir: hem âhiret hem dünya hayatı Allah'ındır. İnsanın arzusu değil, Allah'ın mülkiyeti ve takdiri belirleyicidir.",
+  "'Âhiret' ve 'ûlâ' (ilk/dünya) kelimelerinin birlikte anılması, insanın hem bu dünyadaki hem öteki hayattaki konumunun Allah'a bağlı olduğunu vurgular. Bu, 23-24. ayetlerdeki eleştirinin temelini oluşturan bir tevhid ilkesidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "92:13",
+   "meal": "Şüphesiz âhiret de ilk (dünya) hayat da bizimdir.",
+   "baglanti": "Leyl suresi aynı ifadeyi neredeyse birebir tekrarlar; iki ayet de âhiret ve dünyanın Allah'a ait olduğunu aynı kelimelerle bildirir."
+  },
+  {
+   "ref": "28:70",
+   "meal": "O, kendisinden başka ilah olmayan Allah'tır; ilkte de sonda da hamd O'nundur.",
+   "baglanti": "Kasas suresi de dünya ve âhiretin (ilk ve son) Allah'a ait olduğunu, hamdin de yalnız O'na yapılacağını bildirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dünya ve âhiretin mülkiyetinin Allah'a ait olduğudur; bu, tevhid inancının temel bir ilkesidir. Bu, insanın hem bugünkü hem gelecekteki hayatında Allah'a bağımlı olduğunu hatırlatır.",
+  "Bir şeyin sahibinin kim olduğunu bilmek, ona nasıl davranacağımızı da belirler. Dünya hayatının geçici, âhiretin kalıcı olduğunu ve ikisinin de Allah'a ait olduğunu bilmek, insana hem bu dünyada ölçülü olmayı hem geleceğe hazırlanmayı öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İkisini de hesaba kat",
+   "aciklama": "Bugün bir kararında hem bu dünyadaki hem âhiretteki sonucunu düşün."
+  },
+  {
+   "baslik": "Geçiciliği hatırla",
+   "aciklama": "Bugün elindeki bir imkânın geçici olduğunu, asıl sahibinin Allah olduğunu hatırla."
+  },
+  {
+   "baslik": "Mülkiyeti bırak",
+   "aciklama": "Bugün 'benim' dediğin bir şeyin aslında emanet olduğunu düşünerek ona öyle davran."
+  }
+ ],
+ "bugununAdimi": "Bugün sahip olduğun bir şeyi kullanırken, onun aslında Allah'a ait bir emanet olduğunu hatırla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=53&verse=25"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/53/25"
+  }
+ ]
+}
