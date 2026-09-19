@@ -1,0 +1,311 @@
+{
+ "sure": 57,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Gökleri ve yeri altı günde yaratan, sonra Arş'a istiva eden O'dur. Yere gireni, ondan çıkanı, gökten ineni ve oraya yükseleni bilir. Nerede olursanız olun O sizinle beraberdir. Allah, yaptıklarınızı hakkıyla görendir.",
+ "mealNotu": "'İstevâ' kökü mahiyeti Kur'an'da açıklanmayan bir fiildir; 'Arş'a istiva etti' ifadesi yorum eklenmeden aktarıldı. 'Meaküm' (sizinle beraber) ifadesi mekânsal bir yakınlığı değil, ilim ve kudretle kuşatmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "O'dur"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ki o",
+   "karsilik": "ki O"
+  },
+  {
+   "kelime": "خَلَقَ",
+   "okunus": "haleka",
+   "kok": "خلق",
+   "kokAnlam": "yaratma, yoktan var etme",
+   "karsilik": "yarattı"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gökler",
+   "karsilik": "gökleri"
+  },
+  {
+   "kelime": "وَٱلْأَرْضَ",
+   "okunus": "vel erda",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yeri"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "سِتَّةِ",
+   "okunus": "sitteti",
+   "kok": "ستت",
+   "kokAnlam": "altı sayısı",
+   "karsilik": "altı"
+  },
+  {
+   "kelime": "أَيَّامٍ",
+   "okunus": "eyyâmin",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günde"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ٱسْتَوَىٰ",
+   "okunus": "istevâ",
+   "kok": "سوي",
+   "kokAnlam": "istiva etme, hükümranlığını kurma",
+   "karsilik": "istiva etti"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْعَرْشِ",
+   "okunus": "el'arşi",
+   "kok": "عرش",
+   "kokAnlam": "arş, taht",
+   "karsilik": "Arş'a"
+  },
+  {
+   "kelime": "يَعْلَمُ",
+   "okunus": "ya'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilir"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olanı",
+   "karsilik": "olanı"
+  },
+  {
+   "kelime": "يَلِجُ",
+   "okunus": "yelicü",
+   "kok": "ولج",
+   "kokAnlam": "girme, içine sızma",
+   "karsilik": "girer"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "yere"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ve olanı",
+   "karsilik": "ve olanı"
+  },
+  {
+   "kelime": "يَخْرُجُ",
+   "okunus": "yahrucü",
+   "kok": "خرج",
+   "kokAnlam": "çıkma",
+   "karsilik": "çıkar"
+  },
+  {
+   "kelime": "مِنْهَا",
+   "okunus": "minhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ve olanı",
+   "karsilik": "ve olanı"
+  },
+  {
+   "kelime": "يَنزِلُ",
+   "okunus": "yenzilü",
+   "kok": "نزل",
+   "kokAnlam": "inme",
+   "karsilik": "iner"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلسَّمَآءِ",
+   "okunus": "essemâi",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "gökten"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ve olanı",
+   "karsilik": "ve olanı"
+  },
+  {
+   "kelime": "يَعْرُجُ",
+   "okunus": "ya'rucü",
+   "kok": "عرج",
+   "kokAnlam": "yükselme, çıkma",
+   "karsilik": "yükselir"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) onun içine",
+   "karsilik": "oraya"
+  },
+  {
+   "kelime": "وَهُوَ",
+   "okunus": "ve hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) ve o",
+   "karsilik": "ve O"
+  },
+  {
+   "kelime": "مَعَكُمْ",
+   "okunus": "meaküm",
+   "kok": "—",
+   "kokAnlam": "(yer bildiren isim) beraberlik",
+   "karsilik": "sizinle beraberdir"
+  },
+  {
+   "kelime": "أَيْنَ",
+   "okunus": "eyne",
+   "kok": "—",
+   "kokAnlam": "(yer edatı) nerede",
+   "karsilik": "nerede"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(şart edatı) -se",
+   "karsilik": "-se"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olursanız"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "ve Allah"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şeyi",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma, iş, amel",
+   "karsilik": "yaptıklarınızı"
+  },
+  {
+   "kelime": "بَصِيرٌ",
+   "okunus": "besîrun",
+   "kok": "بصر",
+   "kokAnlam": "görme, görüş",
+   "karsilik": "hakkıyla görendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, göklerin ve yerin altı günde yaratıldığını bildirir; bu günlerin mahiyeti veya süresi hakkında ayet başka bir açıklama vermediği için burada da eklenmemiştir. Ardından 'istiva' fiili geçer; bu, Allah'ın Arş üzerindeki mutlak hükümranlığını, her şeyi kuşatan egemenliğini ifade eder. Klasik akide, 'istiva'nın nasıllığını insan aklıyla kavranamaz kabul eder ve bunu keyfiyetsiz (bilâ keyf) bir sıfat olarak bırakır.",
+  "Ayetin devamı, Allah'ın yere gireni-çıkanı, gökten ineni-yükseleni bildiğini, yani her hareketi ilmiyle kuşattığını anlatır. 'Nerede olursanız olun O sizinle beraberdir' ifadesi de aynı çerçevede okunur: bu beraberlik, Allah'ın bir mekânda bedenen bulunması anlamında değil; ilmi, kudreti ve gözetimiyle her an her yerde kulunu kuşatması anlamındadır. Klasik tefsir bu beraberliği 'ilim ve kudretle maiyyet' olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "20:5",
+   "meal": "Rahmân, Arş'a istiva etmiştir.",
+   "baglanti": "Aynı 'istiva alel arş' ifadesi Tâhâ suresinde de geçer; Kur'an bu fiilin mahiyetini hiçbir yerde açıklamaz."
+  },
+  {
+   "ref": "58:7",
+   "meal": "Üç kişinin gizli konuştuğu hiçbir yer yoktur ki dördüncüleri O olmasın... nerede olurlarsa olsunlar O onlarla beraberdir.",
+   "baglanti": "Mücadele suresindeki bu ayet, 'beraberlik' ifadesini aynı şekilde ilim ve gözetim anlamında kullanır."
+  },
+  {
+   "ref": "50:16",
+   "meal": "Andolsun insanı biz yarattık ve nefsinin ona ne fısıldadığını biliriz; biz ona şah damarından daha yakınız.",
+   "baglanti": "Bu ayet, Allah'ın kuluna yakınlığının mekânsal değil, ilim ve kudretle olan bir yakınlık olduğunu doğrudan gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Allah'ın yaratma ve hükümranlık sıfatlarıdır; ama 'nerede olursanız olun O sizinle beraberdir' cümlesi, insanın günlük hayatına doğrudan dokunur.",
+  "Yalnız kaldığın, kimsenin görmediği bir anda bile Allah'ın seni bildiğini, gördüğünü bilmek, davranışları şekillendirir. Bu, korkutucu bir gözetim değil; kişiyi hem sorumlu tutan hem de asla tek başına bırakmayan bir bilinçtir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yalnızken hatırla",
+   "aciklama": "Bugün kimsenin olmadığı bir anda, Allah'ın seninle beraber olduğunu bir kez düşün."
+  },
+  {
+   "baslik": "Gizli bir iyilik yap",
+   "aciklama": "Kimsenin bilmeyeceği küçük bir iyilik yap, sadece Allah'ın bildiğini bilerek."
+  },
+  {
+   "baslik": "Görüldüğünü bil",
+   "aciklama": "Bugün bir kararsızlık anında, 'Allah beni görüyor' cümlesini hatırla ve ona göre karar ver."
+  }
+ ],
+ "bugununAdimi": "Bugün yalnız kaldığın bir anda 'O benimle beraber' cümlesini içinden bir kez söyle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=57&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/57/4"
+  }
+ ]
+}

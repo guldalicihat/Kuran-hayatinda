@@ -1,0 +1,327 @@
+{
+ "sure": 57,
+ "ayet": 20,
+ "durum": "taslak",
+ "meal": "Bilin ki dünya hayatı ancak bir oyun, bir eğlence, bir süs, aranızda karşılıklı bir övünme, mallarda ve evlatlarda bir çoğaltma yarışıdır; tıpkı bitirdiği bitki çiftçilerin hoşuna giden bir yağmurun benzeri gibidir. Sonra kurur, onu sararmış görürsün, sonra çer çöp olur. Ahirette ise şiddetli bir azap; Allah'tan bir bağışlanma ve bir hoşnutluk vardır. Dünya hayatı, aldatıcı bir geçimlikten başka bir şey değildir.",
+ "mealNotu": "'Küffâr' kelimesi burada 'çiftçi, ekinci' anlamındadır (ekilen tohumu toprağa gömdükleri için), 'inkarcı' anlamındaki aynı kelimeden farklı bir kullanımdır; bu yüzden 'çiftçiler' olarak Türkçeleştirildi.",
+ "kokler": [
+  {
+   "kelime": "ٱعْلَمُوٓا۟",
+   "okunus": "ulemû",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilin ki"
+  },
+  {
+   "kelime": "أَنَّمَا",
+   "okunus": "ennemâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid edatı) ancak, sadece",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ٱلْحَيَوٰةُ",
+   "okunus": "elhayâtü",
+   "kok": "حيي",
+   "kokAnlam": "hayat, canlılık",
+   "karsilik": "hayat"
+  },
+  {
+   "kelime": "ٱلدُّنْيَآ",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakın olma, alçak; dünyevi",
+   "karsilik": "dünya"
+  },
+  {
+   "kelime": "لَعِبٌ",
+   "okunus": "leibün",
+   "kok": "لعب",
+   "kokAnlam": "oyun",
+   "karsilik": "bir oyun"
+  },
+  {
+   "kelime": "وَلَهْوٌ",
+   "okunus": "ve lehvün",
+   "kok": "لهو",
+   "kokAnlam": "eğlence, oyalanma",
+   "karsilik": "bir eğlence"
+  },
+  {
+   "kelime": "وَزِينَةٌ",
+   "okunus": "ve zînetün",
+   "kok": "زين",
+   "kokAnlam": "süs, süsleme",
+   "karsilik": "bir süs"
+  },
+  {
+   "kelime": "وَتَفَاخُرٌۢ",
+   "okunus": "ve tefâhurum",
+   "kok": "فخر",
+   "kokAnlam": "övünme, böbürlenme",
+   "karsilik": "karşılıklı bir övünme"
+  },
+  {
+   "kelime": "بَيْنَكُمْ",
+   "okunus": "beyneküm",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında",
+   "karsilik": "aranızda"
+  },
+  {
+   "kelime": "وَتَكَاثُرٌ",
+   "okunus": "ve tekâsürun",
+   "kok": "كثر",
+   "kokAnlam": "çoğalma, çoğaltma yarışı",
+   "karsilik": "bir çoğaltma yarışıdır"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَمْوَٰلِ",
+   "okunus": "el'emvâli",
+   "kok": "مول",
+   "kokAnlam": "mal, servet",
+   "karsilik": "mallarda"
+  },
+  {
+   "kelime": "وَٱلْأَوْلَٰدِ",
+   "okunus": "vel evlâdi",
+   "kok": "ولد",
+   "kokAnlam": "evlat, çocuk, doğurma",
+   "karsilik": "ve evlatlarda"
+  },
+  {
+   "kelime": "كَمَثَلِ",
+   "okunus": "kemeseli",
+   "kok": "مثل",
+   "kokAnlam": "örnek, benzetme",
+   "karsilik": "benzeri gibidir"
+  },
+  {
+   "kelime": "غَيْثٍ",
+   "okunus": "gaysin",
+   "kok": "غيث",
+   "kokAnlam": "yağmur",
+   "karsilik": "bir yağmurun"
+  },
+  {
+   "kelime": "أَعْجَبَ",
+   "okunus": "a'cebe",
+   "kok": "عجب",
+   "kokAnlam": "hoşa gitme, hayran bırakma",
+   "karsilik": "hoşuna giden"
+  },
+  {
+   "kelime": "ٱلْكُفَّارَ",
+   "okunus": "elküffâra",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gömme; çiftçilik",
+   "karsilik": "çiftçilerin"
+  },
+  {
+   "kelime": "نَبَاتُهُۥ",
+   "okunus": "nebâtühû",
+   "kok": "نبت",
+   "kokAnlam": "bitki, bitme",
+   "karsilik": "bitirdiği bitki"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "يَهِيجُ",
+   "okunus": "yehîcü",
+   "kok": "هيج",
+   "kokAnlam": "kuruyup sararma, coşup solma",
+   "karsilik": "kurur"
+  },
+  {
+   "kelime": "فَتَرَىٰهُ",
+   "okunus": "feterâhü",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "onu görürsün"
+  },
+  {
+   "kelime": "مُصْفَرًّا",
+   "okunus": "müsferran",
+   "kok": "صفر",
+   "kokAnlam": "sararma",
+   "karsilik": "sararmış"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "يَكُونُ",
+   "okunus": "yekûnü",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olur"
+  },
+  {
+   "kelime": "حُطَٰمًا",
+   "okunus": "hutâmen",
+   "kok": "حطم",
+   "kokAnlam": "kırılmış, çer çöp",
+   "karsilik": "çer çöp"
+  },
+  {
+   "kelime": "وَفِى",
+   "okunus": "ve fî",
+   "kok": "—",
+   "kokAnlam": "(edat) ve içinde",
+   "karsilik": "ve -de"
+  },
+  {
+   "kelime": "ٱلْءَاخِرَةِ",
+   "okunus": "el'âhırati",
+   "kok": "أخر",
+   "kokAnlam": "sonra olma; ahiret",
+   "karsilik": "ahirette"
+  },
+  {
+   "kelime": "عَذَابٌ",
+   "okunus": "azâbün",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "şiddetli bir azap"
+  },
+  {
+   "kelime": "شَدِيدٌ",
+   "okunus": "şedîdün",
+   "kok": "شدد",
+   "kokAnlam": "şiddet, sertlik",
+   "karsilik": "(şiddetli)"
+  },
+  {
+   "kelime": "وَمَغْفِرَةٌ",
+   "okunus": "ve mağfiratün",
+   "kok": "غفر",
+   "kokAnlam": "bağışlanma, örtme",
+   "karsilik": "ve bir bağışlanma"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "وَرِضْوَٰنٌ",
+   "okunus": "ve ridvânün",
+   "kok": "رضو",
+   "kokAnlam": "razı olma, hoşnutluk",
+   "karsilik": "ve bir hoşnutluk vardır"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) ve değildir",
+   "karsilik": "ve değildir"
+  },
+  {
+   "kelime": "ٱلْحَيَوٰةُ",
+   "okunus": "elhayâtü",
+   "kok": "حيي",
+   "kokAnlam": "hayat, canlılık",
+   "karsilik": "dünya hayatı"
+  },
+  {
+   "kelime": "ٱلدُّنْيَآ",
+   "okunus": "eddünyâ",
+   "kok": "دنو",
+   "kokAnlam": "yakın olma, alçak; dünyevi",
+   "karsilik": "(dünya hayatı)"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna edatı) ancak, başka",
+   "karsilik": "başka bir şey"
+  },
+  {
+   "kelime": "مَتَٰعُ",
+   "okunus": "metâu",
+   "kok": "متع",
+   "kokAnlam": "geçimlik, faydalanma",
+   "karsilik": "geçimliğinden"
+  },
+  {
+   "kelime": "ٱلْغُرُورِ",
+   "okunus": "elgurûri",
+   "kok": "غرر",
+   "kokAnlam": "aldatma",
+   "karsilik": "aldatıcı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu, Kur'an'da dünya hayatının en yoğun tasvirlerinden biridir. Ayet, dünya hayatını beş kelimeyle özetler: oyun, eğlence, süs, karşılıklı övünme, mal ve evlatta çoğalma yarışı. Bu kelimeler bir kınama değil, bir gerçekçi tespittir; insanın dünyadaki uğraşlarının çoğu bu beş eksende döner.",
+  "Ardından gelen yağmur benzetmesi bu tespiti somutlaştırır: bitki hızla yeşerip çiftçiyi (küffâr, burada 'ekinci' anlamındadır) sevindirir, sonra kurur, sararır, çer çöp olur. Aynı hızlı döngü dünya hayatı için de geçerlidir. Ayet, bu geçiciliğin karşısına ahiretin iki ucunu koyar: şiddetli azap ya da Allah'ın bağışlanması ve hoşnutluğu. Son cümle, dünya hayatının 'aldatıcı bir geçimlikten başka bir şey olmadığını' söyleyerek bitişi netleştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "18:45",
+   "meal": "Dünya hayatının örneğini onlara ver: gökten indirdiğimiz su gibidir; yeryüzünün bitkisi onunla karışır, sonra rüzgarın savurduğu çer çöp haline gelir.",
+   "baglanti": "Kehf suresindeki bu benzetme, Hadîd 20'deki yağmur-bitki imgesiyle neredeyse birebir aynıdır."
+  },
+  {
+   "ref": "3:14",
+   "meal": "Kadınlara, oğullara, yığın yığın altın ve gümüşe, salma atlara, hayvanlara ve ekinlere duyulan tutku insana süslü gösterildi; oysa bunlar dünya hayatının geçimliğidir; asıl varılacak güzel yer Allah katındadır.",
+   "baglanti": "Âl-i İmrân suresi de mal ve evlat sevgisini dünya hayatının süsü olarak tanımlar, ama asıl varışın Allah katında olduğunu hatırlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu dünya hayatının mahiyetidir; bu bir yasak değil, bir gerçekçi hatırlatmadır. Oyun, eğlence, süs, mal ve evlat sevgisi başlı başına yasaklanmaz; ama bunların geçici olduğu unutulmamalıdır.",
+  "İnsan, elindeki malın veya başarısının kalıcı olduğunu zannedip ona göre bir hayat kurabilir. Bu ayet, o hızlı yeşerip sararan bitki gibi, her şeyin bir sona sahip olduğunu hatırlatarak dengeyi korumayı önerir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geçiciliği hatırla",
+   "aciklama": "Bugün değer verdiğin bir şeyin bir gün biteceğini bir kez düşün."
+  },
+  {
+   "baslik": "Yarışa girme",
+   "aciklama": "Bugün birine mal veya başarı konusunda imrenmeden, kendi halinle yetin."
+  },
+  {
+   "baslik": "Kalıcıyı seç",
+   "aciklama": "Bugün geçici bir zevk yerine, ahirete kalacak küçük bir iyilik yap."
+  }
+ ],
+ "bugununAdimi": "Bugün bir harcamanı yaparken, 'bu gerçekten kalıcı mı?' diye kendine sor.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=57&verse=20"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/57/20"
+  }
+ ]
+}

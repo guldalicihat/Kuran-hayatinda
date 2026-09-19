@@ -1,0 +1,208 @@
+{
+ "sure": 57,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "O gün mümin erkekleri ve mümin kadınları, ışıkları önlerinde ve sağlarında koşarken göreceksin. Bugün müjdeniz, altından ırmaklar akan, içinde ebedi kalacağınız cennetlerdir. İşte bu, büyük kurtuluştur.",
+ "mealNotu": "'Yes'â' (koşar) fiili, ışığın hareketli, canlı bir görüntüsünü anlatır; ayet bu sahnenin ayrıntısını vermez, sadece imgeyi verir.",
+ "kokler": [
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "o gün"
+  },
+  {
+   "kelime": "تَرَى",
+   "okunus": "terâ",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "göreceksin"
+  },
+  {
+   "kelime": "ٱلْمُؤْمِنِينَ",
+   "okunus": "elmü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman etme",
+   "karsilik": "mümin erkekleri"
+  },
+  {
+   "kelime": "وَٱلْمُؤْمِنَٰتِ",
+   "okunus": "vel mü'minâti",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman etme",
+   "karsilik": "ve mümin kadınları"
+  },
+  {
+   "kelime": "يَسْعَىٰ",
+   "okunus": "yes'â",
+   "kok": "سعي",
+   "kokAnlam": "koşma, çaba gösterme",
+   "karsilik": "koşarken"
+  },
+  {
+   "kelime": "نُورُهُم",
+   "okunus": "nûruhüm",
+   "kok": "نور",
+   "kokAnlam": "ışık, nur",
+   "karsilik": "ışıkları"
+  },
+  {
+   "kelime": "بَيْنَ",
+   "okunus": "beyne",
+   "kok": "بين",
+   "kokAnlam": "ara, arasında",
+   "karsilik": "önünde"
+  },
+  {
+   "kelime": "أَيْدِيهِمْ",
+   "okunus": "eydîhim",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "ellerinin"
+  },
+  {
+   "kelime": "وَبِأَيْمَٰنِهِم",
+   "okunus": "ve bieymânihim",
+   "kok": "يمن",
+   "kokAnlam": "sağ, sağ taraf",
+   "karsilik": "ve sağlarında"
+  },
+  {
+   "kelime": "بُشْرَىٰكُمُ",
+   "okunus": "büşrâkümü",
+   "kok": "بشر",
+   "kokAnlam": "müjde",
+   "karsilik": "müjdeniz"
+  },
+  {
+   "kelime": "ٱلْيَوْمَ",
+   "okunus": "elyevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bugün"
+  },
+  {
+   "kelime": "جَنَّٰتٌ",
+   "okunus": "cennâtün",
+   "kok": "جنن",
+   "kokAnlam": "bahçe, örtülü, cennet",
+   "karsilik": "cennetlerdir"
+  },
+  {
+   "kelime": "تَجْرِى",
+   "okunus": "tecrî",
+   "kok": "جري",
+   "kokAnlam": "akma",
+   "karsilik": "akan"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "تَحْتِهَا",
+   "okunus": "tahtihâ",
+   "kok": "تحت",
+   "kokAnlam": "alt, altında",
+   "karsilik": "altından"
+  },
+  {
+   "kelime": "ٱلْأَنْهَٰرُ",
+   "okunus": "el'enhâru",
+   "kok": "نهر",
+   "kokAnlam": "ırmak",
+   "karsilik": "ırmaklar"
+  },
+  {
+   "kelime": "خَٰلِدِينَ",
+   "okunus": "hâlidîne",
+   "kok": "خلد",
+   "kokAnlam": "ebedi kalma, süreklilik",
+   "karsilik": "ebedi kalacaksınız"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) onun içinde",
+   "karsilik": "onların içinde"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri) işte bu",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) o",
+   "karsilik": "odur"
+  },
+  {
+   "kelime": "ٱلْفَوْزُ",
+   "okunus": "elfevzü",
+   "kok": "فوز",
+   "kokAnlam": "kurtuluş, başarı, kazanç",
+   "karsilik": "kurtuluş"
+  },
+  {
+   "kelime": "ٱلْعَظِيمُ",
+   "okunus": "el'azîmü",
+   "kok": "عظم",
+   "kokAnlam": "büyüklük",
+   "karsilik": "büyük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, infak edenlerin karşılığını sözle değil bir sahne ile anlatır: kıyamet günü, mümin erkek ve kadınların ışıkları önlerinde ve sağlarında koşar bir halde görüntülenirler. Bu ışık, bir önceki ayetlerdeki iman ve infakın somut karşılığı gibi sunulur; ayrıntısı verilmeden sadece bu canlı görüntü aktarılır.",
+  "Bu görüntünün ardından müjde açıkça söylenir: altından ırmaklar akan, içinde ebedi kalınacak cennetler. Ayet 'işte bu, büyük kurtuluştur' sözüyle biter; bu, dünyadaki fedakârlığın karşılığının küçük değil, en büyük kazanç olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "66:8",
+   "meal": "O gün Allah, peygamberi ve onunla birlikte iman edenleri utandırmaz; nûrları önlerinde ve sağlarında koşar.",
+   "baglanti": "Tahrîm suresinde de aynı sahne, aynı kelimelerle tekrarlanır; müminlerin ışığının önlerinde koşması ortak bir imgedir."
+  },
+  {
+   "ref": "57:19",
+   "meal": "Allah'a ve elçilerine iman edenler, Rableri katında doğrular ve şehitlerdir; onların ödülleri ve ışıkları (nurları) vardır.",
+   "baglanti": "Aynı surede birkaç ayet sonra, iman edenlerin ışığından tekrar söz edilir; bu tema surede birden fazla kez işlenir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ahiretteki bir sahnedir; bugünden görülemeyecek bir gerçekliktir.",
+  "Bununla birlikte, bugünkü iman ve infakın yarın bir 'ışık' olarak karşımıza çıkacağı fikri, bugünkü küçük iyiliklere anlam katabilir. Karanlıkta el yordamıyla yürümek yerine, önünde ışığı olan biri gibi ilerlemek isteyen kişi, bu ışığı bugünden biriktirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ışık biriktir",
+   "aciklama": "Bugün yaptığın küçük bir iyiliği, yarının ışığına bir katkı olarak düşün."
+  },
+  {
+   "baslik": "Ahireti hatırla",
+   "aciklama": "Bugün bir kez, bu dünyadan sonra bir hesap günü olduğunu düşün."
+  },
+  {
+   "baslik": "Cenneti hayal et",
+   "aciklama": "Bir dakikanı ayırıp, anlatılan cennet tasvirini düşünerek umutlan."
+  }
+ ],
+ "bugununAdimi": "Bugün yaptığın bir iyiliği, 'yarının ışığı' diyerek niyetlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=57&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/57/12"
+  }
+ ]
+}

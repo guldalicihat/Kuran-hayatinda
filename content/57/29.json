@@ -1,0 +1,208 @@
+{
+ "sure": 57,
+ "ayet": 29,
+ "durum": "taslak",
+ "meal": "Kitap ehli, Allah'ın lütfundan hiçbir şeye güç yetiremeyeceklerini ve lütfun tamamen Allah'ın elinde olup onu dilediğine vereceğini bilsin diye [böyle açıkladık]. Allah, büyük lütuf sahibidir.",
+ "mealNotu": "'Liellâ' yapısı Arapçada bazı fiillerden sonra olumsuzluk anlamı taşımayan, pekiştirici bir kalıptır; bu yüzden 'bilmesinler diye' değil 'bilsinler diye' olarak çevrildi. Köşeli parantezdeki '[böyle açıkladık]' ifadesi önceki ayetle bağlantıyı kurar, kelime olarak ayette geçmez.",
+ "kokler": [
+  {
+   "kelime": "لِّئَلَّا",
+   "okunus": "liellâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı, burada pekiştirici) bilsin diye",
+   "karsilik": "bilsin diye"
+  },
+  {
+   "kelime": "يَعْلَمَ",
+   "okunus": "ya'leme",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "(bilsin)"
+  },
+  {
+   "kelime": "أَهْلُ",
+   "okunus": "ehlü",
+   "kok": "أهل",
+   "kokAnlam": "halk, ehil olma",
+   "karsilik": "ehli"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "kitap, yazı",
+   "karsilik": "kitap"
+  },
+  {
+   "kelime": "أَلَّا",
+   "okunus": "ellâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk bağlacı) ki ... değil",
+   "karsilik": "hiçbir şeye"
+  },
+  {
+   "kelime": "يَقْدِرُونَ",
+   "okunus": "yekdirûne",
+   "kok": "قدر",
+   "kokAnlam": "güç yetirme, kudret",
+   "karsilik": "güç yetiremeyeceklerini"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey, nesne",
+   "karsilik": "bir şeye"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "فَضْلِ",
+   "okunus": "fadli",
+   "kok": "فضل",
+   "kokAnlam": "lütuf, fazlalık",
+   "karsilik": "lütfundan"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَأَنَّ",
+   "okunus": "ve enne",
+   "kok": "—",
+   "kokAnlam": "(te'kid edatı) ve gerçekten",
+   "karsilik": "ve"
+  },
+  {
+   "kelime": "ٱلْفَضْلِ",
+   "okunus": "elfadle",
+   "kok": "فضل",
+   "kokAnlam": "lütuf, fazlalık",
+   "karsilik": "lütfun"
+  },
+  {
+   "kelime": "بِيَدِ",
+   "okunus": "biyedi",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "elinde"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "tamamen Allah'ın"
+  },
+  {
+   "kelime": "يُؤْتِيهِ",
+   "okunus": "yü'tîhi",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "onu verir"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimseye",
+   "karsilik": "kimseye"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilediği"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ذُو",
+   "okunus": "zû",
+   "kok": "—",
+   "kokAnlam": "(isim) sahibi",
+   "karsilik": "sahibidir"
+  },
+  {
+   "kelime": "ٱلْفَضْلِ",
+   "okunus": "elfadli",
+   "kok": "فضل",
+   "kokAnlam": "lütuf, fazlalık",
+   "karsilik": "lütuf"
+  },
+  {
+   "kelime": "ٱلْعَظِيمِ",
+   "okunus": "el'azîmi",
+   "kok": "عظم",
+   "kokAnlam": "büyüklük",
+   "karsilik": "büyük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, bir önceki ayetteki vaadin ardından, bu vaadin neden verildiğini açıklayan bir cümleyle kapanır: kitap ehli, Allah'ın lütfunun kimseye ait olmadığını, tamamen O'nun elinde olduğunu bilsin. Bu, önceki ayette anlatılan 'iki kat rahmet' vaadinin, belirli bir gruba özgü, tekelci bir imtiyaz olmadığını, Allah'ın dilediğine verdiği bir lütuf olduğunu vurgular.",
+  "Sure, göklerin ve yerin Allah'ı tesbih etmesiyle başlayıp, O'nun büyük lütuf sahibi olduğunu hatırlatarak kapanır. Bu son cümle, surenin başındaki 'mülk O'nundur' vurgusuyla da uyum içindedir: hem yaratılış hem lütuf, tamamen Allah'ın tasarrufundadır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:73",
+   "meal": "De ki: Şüphesiz doğru yol Allah'ın yoludur; birine sizin aldığınızın bir benzeri verilecek diye (kıskanıyorsunuz). De ki: Lütuf Allah'ın elindedir, onu dilediğine verir.",
+   "baglanti": "Âl-i İmrân suresi de neredeyse aynı ifadeyle, lütfun tekelci bir imtiyaz olmadığını, Allah'ın elinde olduğunu anlatır."
+  },
+  {
+   "ref": "62:4",
+   "meal": "Bu, Allah'ın dilediğine verdiği bir lütfudur; Allah büyük lütuf sahibidir.",
+   "baglanti": "Cuma suresi de aynı 'zul fadlil azîm' ifadesiyle biter; iki ayet aynı hatırlatmayı paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Allah'ın lütfunun belirli bir topluluğa özgü olmadığıdır; bu, tarihsel bir bağlamda kitap ehline yönelik bir hatırlatmadır.",
+  "Buradan çıkarılabilecek genel ders, hiç kimsenin Allah'ın lütfü üzerinde tekel iddia edemeyeceğidir. Bu, insanın kendi dindarlığını veya konumunu üstünlük vesilesi yapmak yerine, alçakgönüllülükle Allah'ın lütfunu ummasını öğütler."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kıskançlıktan uzak dur",
+   "aciklama": "Bugün başkasına verilen bir nimeti kıskanmadan, kendi payına razı ol."
+  },
+  {
+   "baslik": "Alçakgönüllü ol",
+   "aciklama": "Dindarlığını veya başarını üstünlük vesilesi yapmaktan kaçın."
+  },
+  {
+   "baslik": "Lütfu um",
+   "aciklama": "Bugün bir konuda umutsuz hissedersen, Allah'ın lütfunun sınırsız olduğunu hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün başkasına verilen bir nimete, kıskanmadan sevinerek bak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=57&verse=29"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/57/29"
+  }
+ ]
+}
