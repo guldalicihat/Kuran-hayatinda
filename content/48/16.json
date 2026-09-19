@@ -1,0 +1,250 @@
+{
+ "sure": 48,
+ "ayet": 16,
+ "durum": "taslak",
+ "meal": "Geride kalan bedevilere de ki: 'Güçlü kuvvetli bir kavimle savaşmaya çağrılacaksınız; ya onlarla savaşırsınız ya da teslim olurlar. Eğer itaat ederseniz Allah size güzel bir mükâfat verir; eğer önceden yüz çevirdiğiniz gibi yine yüz çevirirseniz sizi elem verici bir azapla cezalandırır.'",
+ "mealNotu": "'Be's' kökü savaş gücünü ve şiddeti anlatır; 'yüslimûne' سلم kökünden olup burada teslim olmayı ifade eder. 'Tevellev' fiili ولي kökünden yüz çevirmeyi, sırt dönmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "قُل",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "لِّلْمُخَلَّفِينَ",
+   "okunus": "lilmühallefîne",
+   "kok": "خلف",
+   "kokAnlam": "arkada bırakma, geride kalma",
+   "karsilik": "geride kalanlara"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْأَعْرَابِ",
+   "okunus": "el'a'râbi",
+   "kok": "عرب",
+   "kokAnlam": "bedevi, çöl arabı",
+   "karsilik": "bedevilerden"
+  },
+  {
+   "kelime": "سَتُدْعَوْنَ",
+   "okunus": "setüd'avne",
+   "kok": "دعو",
+   "kokAnlam": "çağırma, davet etme",
+   "karsilik": "çağrılacaksınız"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "قَوْمٍ",
+   "okunus": "kavmin",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "bir kavme"
+  },
+  {
+   "kelime": "أُو۟لِى",
+   "okunus": "ülî",
+   "kok": "—",
+   "kokAnlam": "sahip olan",
+   "karsilik": "sahip"
+  },
+  {
+   "kelime": "بَأْسٍ",
+   "okunus": "be'sin",
+   "kok": "بأس",
+   "kokAnlam": "şiddet, savaş gücü",
+   "karsilik": "güç"
+  },
+  {
+   "kelime": "شَدِيدٍ",
+   "okunus": "şedîdin",
+   "kok": "شدد",
+   "kokAnlam": "şiddet, sağlamlık",
+   "karsilik": "şiddetli"
+  },
+  {
+   "kelime": "تُقَٰتِلُونَهُمْ",
+   "okunus": "tükâtilûnehüm",
+   "kok": "قتل",
+   "kokAnlam": "karşılıklı savaşma",
+   "karsilik": "onlarla savaşırsınız"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "يُسْلِمُونَ",
+   "okunus": "yüslimûne",
+   "kok": "سلم",
+   "kokAnlam": "teslim olma, boyun eğme",
+   "karsilik": "teslim olurlar"
+  },
+  {
+   "kelime": "فَإِن",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تُطِيعُوا۟",
+   "okunus": "tütîû",
+   "kok": "طوع",
+   "kokAnlam": "itaat etme",
+   "karsilik": "itaat ederseniz"
+  },
+  {
+   "kelime": "يُؤْتِكُمُ",
+   "okunus": "yü'tikümü",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "size verir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "أَجْرًا",
+   "okunus": "ecran",
+   "kok": "أجر",
+   "kokAnlam": "ücret, karşılık, mükâfat",
+   "karsilik": "bir mükâfat"
+  },
+  {
+   "kelime": "حَسَنًا",
+   "okunus": "hasenen",
+   "kok": "حسن",
+   "kokAnlam": "güzellik, iyilik",
+   "karsilik": "güzel"
+  },
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَتَوَلَّوْا۟",
+   "okunus": "tetevellev",
+   "kok": "ولي",
+   "kokAnlam": "yüz çevirme, sırt dönme",
+   "karsilik": "yüz çevirirseniz"
+  },
+  {
+   "kelime": "كَمَا",
+   "okunus": "kemâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) gibi",
+   "karsilik": "gibi"
+  },
+  {
+   "kelime": "تَوَلَّيْتُم",
+   "okunus": "tevelleytüm",
+   "kok": "ولي",
+   "kokAnlam": "yüz çevirme, sırt dönme",
+   "karsilik": "yüz çevirdiğiniz"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلُ",
+   "okunus": "kablü",
+   "kok": "قبل",
+   "kokAnlam": "önce, öncelik",
+   "karsilik": "önceden"
+  },
+  {
+   "kelime": "يُعَذِّبْكُمْ",
+   "okunus": "yüazzibküm",
+   "kok": "عذب",
+   "kokAnlam": "azap etme",
+   "karsilik": "size azap eder"
+  },
+  {
+   "kelime": "عَذَابًا",
+   "okunus": "azâben",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "bir azapla"
+  },
+  {
+   "kelime": "أَلِيمًا",
+   "okunus": "elîmen",
+   "kok": "ألم",
+   "kokAnlam": "elem, acı",
+   "karsilik": "elem verici"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette (15) geride kalanların ganimete katılmak istemesi ve bu isteğin reddedilmesi anlatılmıştı. Bu ayette onlara farklı bir davet bildirilir: ileride güçlü, savaş gücü yüksek bir topluluğa karşı çağrılacaklardır. Ayrıntıya girilmeden, bu tarihsel olarak daha zorlu bir mücadeleye işaret eden genel bir davettir.",
+  "İtaat edene güzel bir mükâfat, önceki gibi yine yüz çevirene ise elem verici bir azap vaadi karşılaştırılır. Klasik tefsir bu daveti, geride kalanların ileride karşılaşacakları bir sınav olarak açıklar; kararları, önceki tutumlarının tekrarı mı yoksa değişimi mi olacağını gösterecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "9:39",
+   "meal": "Eğer topluca savaşa çıkmazsanız Allah sizi elem verici bir azapla cezalandırır ve yerinize başka bir topluluk getirir; siz O'na hiçbir zarar veremezsiniz.",
+   "baglanti": "Aynı 'azâben elîmen' (elem verici azap) ifadesi kullanılır; sefere çıkmaktan kaçınmanın sonucu iki ayette de aynı sözlerle bildirilir."
+  },
+  {
+   "ref": "4:95",
+   "meal": "Oturanlarla, Allah yolunda malları ve canlarıyla cihat edenler eşit değildir; Allah mücahitlere derece bakımından üstünlük verdi, ama her ikisine de güzelliği (mükâfatı) vadetti.",
+   "baglanti": "Bu ayet de itaat edenle etmeyen arasındaki farkı, ama ikisine de asgari bir güzellik/mükâfat vaadini anlatır; 'ecran hasenen' ifadesiyle aynı köke dayanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geride kalan bedevilere yöneltilen bir savaş davetidir; bu tarihi, askeri bir çağrıdır.",
+  "Bugüne taşınabilecek ders, zor bir görev veya sorumluluğa çağrıldığında itaat etmenin ve yüz çevirmenin farklı sonuçlar doğurduğudur. Sorumluluktan kaçmayı alışkanlık haline getirmek, her seferinde bir bedel doğurur; üstlenmek ise bir kazanımdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zor görevden kaçma",
+   "aciklama": "Senden istenen zor bir sorumluluğu erteleyip durma; üstlenmen gerekeni bugün üstlen."
+  },
+  {
+   "baslik": "Sonucu düşün",
+   "aciklama": "Bir görevi kabul etmekle ondan kaçmanın sonuçlarını kısaca karşılaştır, kararını ona göre ver."
+  },
+  {
+   "baslik": "Kimse görmese de eksiksiz yap",
+   "aciklama": "Kontrol edilmesen bile üstlendiğin işi eksiksiz yap; Allah'ın gördüğünü unutma."
+  }
+ ],
+ "bugununAdimi": "Ertelediğin zor bir sorumluluğu bugün üstlen ve ilk adımını at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=16"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/48/16"
+  }
+ ]
+}

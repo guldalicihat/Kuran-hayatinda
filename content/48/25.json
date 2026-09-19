@@ -1,0 +1,334 @@
+{
+ "sure": 48,
+ "ayet": 25,
+ "durum": "taslak",
+ "meal": "İnkâr edenler onlardır; sizi Mescid-i Haram'dan alıkoydular ve kurbanlıklarınızı da yerine ulaşmaktan alıkonulmuş halde tuttular. Eğer içlerinde bulunup tanımadığınız mümin erkeklerle mümin kadınları bilmeden çiğnemeniz yüzünden size bir vebal dokunmayacak olmasaydı [Allah size savaşma izni verirdi]; bu, Allah'ın dilediğini rahmetine koyması içindir. Eğer onlar birbirinden ayrılmış olsalardı, içlerinden inkâr edenleri elbette elem verici bir azapla cezalandırırdık.",
+ "mealNotu": "Ayetin 'eğer olmasaydı' cümlesinin karşılık kısmı metinde açıkça yer almaz; bu, Arapçada sık görülen bir eksiltmedir ve meale '[Allah size savaşma izni verirdi]' şeklinde köşeli parantezle eklenmiştir. 'Ma'kûfen' kökü عكف bir yerde alıkonulmayı, bekletilmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olanlar",
+   "karsilik": "olanlardır"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği örtme, inkâr",
+   "karsilik": "inkâr eden"
+  },
+  {
+   "kelime": "وَصَدُّوكُمْ",
+   "okunus": "ve saddûküm",
+   "kok": "صدد",
+   "kokAnlam": "engelleme, alıkoyma",
+   "karsilik": "ve sizi alıkoydular"
+  },
+  {
+   "kelime": "عَنِ",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمَسْجِدِ",
+   "okunus": "elmescidi",
+   "kok": "سجد",
+   "kokAnlam": "secde etme, secde yeri",
+   "karsilik": "Mescid-i"
+  },
+  {
+   "kelime": "ٱلْحَرَامِ",
+   "okunus": "elharâmi",
+   "kok": "حرم",
+   "kokAnlam": "haram, yasak, kutsal",
+   "karsilik": "Haram'dan"
+  },
+  {
+   "kelime": "وَٱلْهَدْىَ",
+   "okunus": "vel hedye",
+   "kok": "هدي",
+   "kokAnlam": "hediye, hac kurbanlığı",
+   "karsilik": "ve kurbanlıkları"
+  },
+  {
+   "kelime": "مَعْكُوفًا",
+   "okunus": "ma'kûfen",
+   "kok": "عكف",
+   "kokAnlam": "alıkonulmuş, bekletilmiş",
+   "karsilik": "alıkonulmuş halde"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -masından",
+   "karsilik": "-masından"
+  },
+  {
+   "kelime": "يَبْلُغَ",
+   "okunus": "yeblüğa",
+   "kok": "بلغ",
+   "kokAnlam": "ulaşma, varma",
+   "karsilik": "ulaşmasından"
+  },
+  {
+   "kelime": "مَحِلَّهُۥ",
+   "okunus": "mehillehû",
+   "kok": "حلل",
+   "kokAnlam": "yer, varış noktası (kesim yeri)",
+   "karsilik": "yerine"
+  },
+  {
+   "kelime": "وَلَوْلَا",
+   "okunus": "ve levlâ",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer olmasaydı",
+   "karsilik": "eğer olmasaydı"
+  },
+  {
+   "kelime": "رِجَالٌ",
+   "okunus": "ricâlün",
+   "kok": "رجل",
+   "kokAnlam": "erkek, adam",
+   "karsilik": "erkekler"
+  },
+  {
+   "kelime": "مُّؤْمِنُونَ",
+   "okunus": "mü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "mümin"
+  },
+  {
+   "kelime": "وَنِسَآءٌ",
+   "okunus": "ve nisâün",
+   "kok": "نسو",
+   "kokAnlam": "kadın",
+   "karsilik": "ve kadınlar"
+  },
+  {
+   "kelime": "مُّؤْمِنَٰتٌ",
+   "okunus": "mü'minâtün",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanma",
+   "karsilik": "mümin"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mediğiniz",
+   "karsilik": "-mediğiniz"
+  },
+  {
+   "kelime": "تَعْلَمُوهُمْ",
+   "okunus": "ta'lemûhüm",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "tanımadığınız"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -manız",
+   "karsilik": "-manız"
+  },
+  {
+   "kelime": "تَطَـُٔوهُمْ",
+   "okunus": "tetaûhüm",
+   "kok": "وطأ",
+   "kokAnlam": "çiğneme, ayak basma",
+   "karsilik": "onları çiğnemeniz"
+  },
+  {
+   "kelime": "فَتُصِيبَكُم",
+   "okunus": "fetüsîbeküm",
+   "kok": "صوب",
+   "kokAnlam": "isabet etme",
+   "karsilik": "size dokunması"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "مَّعَرَّةٌۢ",
+   "okunus": "mearratün",
+   "kok": "عرر",
+   "kokAnlam": "kötülük, zarar, vebal",
+   "karsilik": "bir vebal"
+  },
+  {
+   "kelime": "بِغَيْرِ",
+   "okunus": "biğayri",
+   "kok": "غير",
+   "kokAnlam": "başkalık, -sız",
+   "karsilik": "olmadan"
+  },
+  {
+   "kelime": "عِلْمٍ",
+   "okunus": "ilmin",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilmeden"
+  },
+  {
+   "kelime": "لِّيُدْخِلَ",
+   "okunus": "liyüdhıle",
+   "kok": "دخل",
+   "kokAnlam": "girme, sokma",
+   "karsilik": "sokması için"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içine",
+   "karsilik": "içine"
+  },
+  {
+   "kelime": "رَحْمَتِهِۦ",
+   "okunus": "rahmetihî",
+   "kok": "رحم",
+   "kokAnlam": "rahmet, merhamet",
+   "karsilik": "rahmetinin"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kimi",
+   "karsilik": "dilediğini"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "dileme",
+   "karsilik": "dilediği"
+  },
+  {
+   "kelime": "لَوْ",
+   "okunus": "lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "تَزَيَّلُوا۟",
+   "okunus": "tezeyyelû",
+   "kok": "زيل",
+   "kokAnlam": "ayrılma",
+   "karsilik": "ayrılmış olsalardı"
+  },
+  {
+   "kelime": "لَعَذَّبْنَا",
+   "okunus": "leazzebnâ",
+   "kok": "عذب",
+   "kokAnlam": "azap etme",
+   "karsilik": "elbette azap ederdik"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olanları",
+   "karsilik": "olanları"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği örtme, inkâr",
+   "karsilik": "inkâr eden"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "عَذَابًا",
+   "okunus": "azâben",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "bir azapla"
+  },
+  {
+   "kelime": "أَلِيمًا",
+   "okunus": "elîmen",
+   "kok": "ألم",
+   "kokAnlam": "elem, acı",
+   "karsilik": "elem verici"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette (24) Mekke'de tarafların elinin birbirinden çekildiği anlatılmıştı; bu ayet bunun sebebini açıklar. Mekke'de, Hudeybiye'ye kadar gelmiş müminlerle henüz tanınmayan mümin erkek ve kadınlar iç içeydi. Eğer o an bir çatışma çıksaydı, bilmeden bu müminlerin de zarar görmesi ve müminlere bir vebal isabet etmesi söz konusu olabilirdi.",
+  "Ayet, savaşın hemen başlatılmamasının sebebini bu ihtiyatlı korumaya bağlar; bu, sivillerin ve henüz tanınmayan müminlerin zarar görmemesi için gösterilen bir merhamet ve tedbir örneğidir. Ayet, Allah'ın dilediğini rahmetine kattığını ve taraflar birbirinden ayrılmış olsaydı inkârcıların cezalandırılacağını ekleyerek biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:92",
+   "meal": "Bir mümin, yanlışlıkla olması dışında bir mümini öldüremez; kim bir mümini yanlışlıkla öldürürse mümin bir köle azat etmesi ve ailesine diyet ödemesi gerekir.",
+   "baglanti": "Bu ayet, bilmeden/yanlışlıkla bir müminin zarar görmesi durumunu ele alır; Fetih 25'teki 'bilmeden çiğneme' endişesiyle aynı hassasiyeti taşır."
+  },
+  {
+   "ref": "48:24",
+   "meal": "Sizi onlara karşı üstün kıldıktan sonra, Mekke'nin göbeğinde onların ellerini sizden, sizin ellerinizi de onlardan çeken O'dur.",
+   "baglanti": "Bir önceki ayette anlatılan ellerin çekilmesinin sebebi bu ayette açıklanır; iki ayet birlikte okunmalıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, savaşın hemen başlatılmamasının sebebidir: içlerinde tanınmayan müminlerin bulunması ve onların bilmeden zarar görme ihtimali; bu özel, tarihi bir hükümdür.",
+  "Bugüne taşınabilecek ders, bir kararı hızla uygulamadan önce, o kararın görünmeyen, bilinmeyen masum kişileri nasıl etkileyebileceğini düşünmektir. İhtiyatlı davranmak burada bir merhamet biçimi olarak öne çıkar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Etkilenecekleri düşün",
+   "aciklama": "Bugün alacağın bir kararın, doğrudan görmediğin kişileri nasıl etkileyeceğini bir kez düşün."
+  },
+  {
+   "baslik": "Aceleci tepkiden kaçın",
+   "aciklama": "Öfkeli bir anda hızlı bir adım atmadan önce, masum birinin zarar görüp görmeyeceğini kendine sor."
+  },
+  {
+   "baslik": "Bilmeden zarar vermekten sakın",
+   "aciklama": "Kimseyi kasıtlı incitmesen de, kimse fark etmese bile dikkatsizce verdiğin bir zararı bugün gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün vereceğin bir kararda, görünmeyen etkilerini bir kez daha düşün, sonra uygula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=25"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/48/25"
+  }
+ ]
+}

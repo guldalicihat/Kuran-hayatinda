@@ -1,0 +1,432 @@
+{
+ "sure": 48,
+ "ayet": 29,
+ "durum": "taslak",
+ "meal": "Muhammed Allah'ın Resulüdür; onunla beraber olanlar kâfirlere karşı çetin, kendi aralarında merhametlidir. Onları rükûya varırken, secdeye kapanırken, Allah'tan bir lütuf ve rıza ararken görürsün. Yüzlerinde secde izinden nişanları vardır. Bu, onların Tevrat'taki örneğidir; İncil'deki örnekleri ise filizini çıkarmış, onu güçlendirmiş, kalınlaşmış, gövdesi üzerinde doğrulmuş bir ekin gibidir ki ekincileri hayrete düşürür - bu, kâfirleri onlarla öfkelendirmek içindir. Allah, içlerinden iman edip salih ameller işleyenlere bir bağışlanma ve büyük bir mükâfat vaat etmiştir.",
+ "mealNotu": "'Eşiddâ' ve 'ruhamâ' kökleri (شدد, رحم) sertlik ile merhameti karşı karşıya koyar. 'Sîmâ' kökü سوم belirti/iz anlamındadır. Tevrat ve İncil'deki benzetme, burada polemiğe girilmeden, ayetin kendi teşbihiyle -sağlam ve güçlenen bir topluluk imgesiyle- aktarılmıştır.",
+ "kokler": [
+  {
+   "kelime": "مُّحَمَّدٌ",
+   "okunus": "mühammedün",
+   "kok": "حمد",
+   "kokAnlam": "övülme, övgüye layık olma",
+   "karsilik": "Muhammed"
+  },
+  {
+   "kelime": "رَّسُولُ",
+   "okunus": "rasûlü",
+   "kok": "رسل",
+   "kokAnlam": "elçi gönderme",
+   "karsilik": "Resulüdür"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve olanlar",
+   "karsilik": "ve olanlar"
+  },
+  {
+   "kelime": "مَعَهُۥٓ",
+   "okunus": "meahû",
+   "kok": "—",
+   "kokAnlam": "(yer) onunla beraber",
+   "karsilik": "onunla beraber"
+  },
+  {
+   "kelime": "أَشِدَّآءُ",
+   "okunus": "eşiddâü",
+   "kok": "شدد",
+   "kokAnlam": "şiddet, sağlamlık, sertlik",
+   "karsilik": "çetin"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e karşı",
+   "karsilik": "-e karşı"
+  },
+  {
+   "kelime": "ٱلْكُفَّارَ",
+   "okunus": "elküffâri",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği örtme, inkâr",
+   "karsilik": "kâfirlere"
+  },
+  {
+   "kelime": "رُحَمَآءُ",
+   "okunus": "ruhamâü",
+   "kok": "رحم",
+   "kokAnlam": "merhamet, esirgeme",
+   "karsilik": "merhametli"
+  },
+  {
+   "kelime": "بَيْنَهُمْ",
+   "okunus": "beynehüm",
+   "kok": "بين",
+   "kokAnlam": "ara, aralık",
+   "karsilik": "kendi aralarında"
+  },
+  {
+   "kelime": "تَرَىٰهُمْ",
+   "okunus": "terâhüm",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "onları görürsün"
+  },
+  {
+   "kelime": "رُكَّعًا",
+   "okunus": "rukkean",
+   "kok": "ركع",
+   "kokAnlam": "rükû etme, eğilme",
+   "karsilik": "rükûya varan"
+  },
+  {
+   "kelime": "سُجَّدًا",
+   "okunus": "sücceden",
+   "kok": "سجد",
+   "kokAnlam": "secde etme",
+   "karsilik": "secdeye kapanan"
+  },
+  {
+   "kelime": "يَبْتَغُونَ",
+   "okunus": "yebteğûne",
+   "kok": "بغي",
+   "kokAnlam": "arama, isteme",
+   "karsilik": "ararlar"
+  },
+  {
+   "kelime": "فَضْلًا",
+   "okunus": "fadlen",
+   "kok": "فضل",
+   "kokAnlam": "lütuf, fazlalık",
+   "karsilik": "bir lütuf"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah'tan"
+  },
+  {
+   "kelime": "وَرِضْوَٰنًا",
+   "okunus": "ve ridvânen",
+   "kok": "رضو",
+   "kokAnlam": "razı olma, hoşnutluk",
+   "karsilik": "ve rıza"
+  },
+  {
+   "kelime": "سِيمَاهُمْ",
+   "okunus": "sîmâhüm",
+   "kok": "سوم",
+   "kokAnlam": "belirti, işaret, nişan",
+   "karsilik": "nişanları"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "وُجُوهِهِم",
+   "okunus": "vücûhihim",
+   "kok": "وجه",
+   "kokAnlam": "yüz",
+   "karsilik": "yüzlerinde"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "أَثَرِ",
+   "okunus": "eseri",
+   "kok": "أثر",
+   "kokAnlam": "iz, eser",
+   "karsilik": "izinden"
+  },
+  {
+   "kelime": "ٱلسُّجُودِ",
+   "okunus": "essücûdi",
+   "kok": "سجد",
+   "kokAnlam": "secde etme",
+   "karsilik": "secdenin"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "مَثَلُهُمْ",
+   "okunus": "meselühüm",
+   "kok": "مثل",
+   "kokAnlam": "misal, örnek, benzetme",
+   "karsilik": "onların örneğidir"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ٱلتَّوْرَىٰةِ",
+   "okunus": "ettevrâti",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Tevrat",
+   "karsilik": "Tevrat'taki"
+  },
+  {
+   "kelime": "وَمَثَلُهُمْ",
+   "okunus": "ve meselühüm",
+   "kok": "مثل",
+   "kokAnlam": "misal, örnek, benzetme",
+   "karsilik": "onların örnekleri"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ٱلْإِنجِيلِ",
+   "okunus": "el'incîli",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İncil",
+   "karsilik": "İncil'deki"
+  },
+  {
+   "kelime": "كَزَرْعٍ",
+   "okunus": "kezer'in",
+   "kok": "زرع",
+   "kokAnlam": "ekin, ekme",
+   "karsilik": "bir ekin gibidir"
+  },
+  {
+   "kelime": "أَخْرَجَ",
+   "okunus": "ahrace",
+   "kok": "خرج",
+   "kokAnlam": "çıkarma",
+   "karsilik": "çıkarmış"
+  },
+  {
+   "kelime": "شَطْـَٔهُۥ",
+   "okunus": "şat'ehû",
+   "kok": "شطأ",
+   "kokAnlam": "filiz, sürgün",
+   "karsilik": "filizini"
+  },
+  {
+   "kelime": "فَـَٔازَرَهُۥ",
+   "okunus": "feâzerahû",
+   "kok": "أزر",
+   "kokAnlam": "destek, güçlendirme",
+   "karsilik": "onu güçlendirmiş"
+  },
+  {
+   "kelime": "فَٱسْتَغْلَظَ",
+   "okunus": "festağleza",
+   "kok": "غلظ",
+   "kokAnlam": "kalınlaşma, sertleşme",
+   "karsilik": "kalınlaşmış"
+  },
+  {
+   "kelime": "فَٱسْتَوَىٰ",
+   "okunus": "festevâ",
+   "kok": "سوي",
+   "kokAnlam": "doğrulma, dengelenme",
+   "karsilik": "doğrulmuş"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerinde"
+  },
+  {
+   "kelime": "سُوقِهِۦ",
+   "okunus": "sûkıhî",
+   "kok": "سوق",
+   "kokAnlam": "gövde, sap",
+   "karsilik": "gövdesi"
+  },
+  {
+   "kelime": "يُعْجِبُ",
+   "okunus": "yü'cibü",
+   "kok": "عجب",
+   "kokAnlam": "hayret verme, hoşa gitme",
+   "karsilik": "hayrete düşürür"
+  },
+  {
+   "kelime": "ٱلزُّرَّاعَ",
+   "okunus": "ezzürrâa",
+   "kok": "زرع",
+   "kokAnlam": "ekin, ekme",
+   "karsilik": "ekincileri"
+  },
+  {
+   "kelime": "لِيَغِيظَ",
+   "okunus": "liyeğîza",
+   "kok": "غيظ",
+   "kokAnlam": "öfkelendirme",
+   "karsilik": "öfkelendirmek için"
+  },
+  {
+   "kelime": "بِهِمُ",
+   "okunus": "bihimü",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlarla",
+   "karsilik": "onlarla"
+  },
+  {
+   "kelime": "ٱلْكُفَّارَ",
+   "okunus": "elküffâra",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği örtme, inkâr",
+   "karsilik": "kâfirleri"
+  },
+  {
+   "kelime": "وَعَدَ",
+   "okunus": "veade",
+   "kok": "وعد",
+   "kokAnlam": "vaat etme",
+   "karsilik": "vaat etmiştir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olanlara",
+   "karsilik": "olanlara"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; iman etme",
+   "karsilik": "iman eden"
+  },
+  {
+   "kelime": "وَعَمِلُوا۟",
+   "okunus": "ve amilû",
+   "kok": "عمل",
+   "kokAnlam": "yapma, iş",
+   "karsilik": "ve yapan"
+  },
+  {
+   "kelime": "ٱلصَّٰلِحَٰتِ",
+   "okunus": "essâlihâti",
+   "kok": "صلح",
+   "kokAnlam": "iyilik, düzgünlük, salih olma",
+   "karsilik": "salih amelleri"
+  },
+  {
+   "kelime": "مِنْهُم",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) içlerinden",
+   "karsilik": "içlerinden"
+  },
+  {
+   "kelime": "مَّغْفِرَةً",
+   "okunus": "mağfiraten",
+   "kok": "غفر",
+   "kokAnlam": "bağışlama, örtme",
+   "karsilik": "bir bağışlanma"
+  },
+  {
+   "kelime": "وَأَجْرًا",
+   "okunus": "ve ecran",
+   "kok": "أجر",
+   "kokAnlam": "ücret, karşılık, mükâfat",
+   "karsilik": "ve bir mükâfat"
+  },
+  {
+   "kelime": "عَظِيمًۢا",
+   "okunus": "azîmen",
+   "kok": "عظم",
+   "kokAnlam": "büyüklük",
+   "karsilik": "büyük"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette (28) Peygamber'in hidayet ve hak dinle gönderildiği anlatılmıştı; bu ayet -surenin çok bilinen kapanış ayeti- Muhammed'in Allah'ın Resulü olduğunu ve onunla beraber olan müminlerin niteliklerini sayar: kâfirlere karşı çetin, kendi aralarında merhametli, rükû ve secdeyle Allah'ın lütuf ve rızasını arayan, yüzlerinde secde izi taşıyan kimseler.",
+  "Ayet, bu vasıfların Tevrat'taki ve İncil'deki örneklerine değinir ve topluluğu filizlenip güçlenen, gövdesi üzerinde doğrulan bir ekine benzetir; bu benzetme, ekincileri hayrete düşürecek kadar sağlam bir büyümeyi anlatır. Ayet, iman edip salih amel işleyenlere bağışlanma ve büyük bir mükâfat vaadiyle sona erer."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:54",
+   "meal": "...müminlere karşı alçak gönüllü, kâfirlere karşı onurlu ve güçlü olan bir toplulukla gelecek...",
+   "baglanti": "Bu ayet de müminlerin kendi aralarındaki yumuşaklık ile inkârcılara karşı duruşunu bir arada anlatır; Fetih 29'daki 'kâfirlere karşı çetin, kendi aralarında merhametli' tasviriyle aynı temayı paylaşır."
+  },
+  {
+   "ref": "9:112",
+   "meal": "Tövbe edenler, ibadet edenler, hamd edenler ... rükû edenler, secde edenler, iyiliği emredip kötülükten alıkoyanlar...",
+   "baglanti": "Tevbe suresindeki bu ayet de müminleri rükû ve secde eden kimseler olarak sayar; Fetih 29'daki 'rukkean succeden' tasviriyle aynı ibadet görüntüsünü paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'e inanan topluluğun ahlaki ve ibadet nitelikleridir: düşmana karşı onurlu duruş, kendi aralarında merhamet, sürekli ibadetle Allah'ın rızasını arama.",
+  "Bugüne taşınabilecek ders, haksızlığa karşı dik durmakla kendi çevrene karşı şefkatli olmak arasında denge kurmaktır. Dışa dönük bir görünüşten çok, içten gelen bir bağlılığın kendini göstermesi, bu ayetin işaret ettiği bir olgunluktur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Çevrene merhametli ol",
+   "aciklama": "Bugün yakınındaki birine karşı sabırlı ve şefkatli davran, sert bir tepki verme."
+  },
+  {
+   "baslik": "Duruşunu koru",
+   "aciklama": "Haksız bir baskı karşısında ilkeni koru, ama bunu kendi çevrenle nezaketle birleştir."
+  },
+  {
+   "baslik": "İçten bir amaç taşı",
+   "aciklama": "Bugün yaptığın bir iyiliği, kimse görmese de gösteriş için değil Allah'ın rızasını umarak yap."
+  }
+ ],
+ "bugununAdimi": "Bugün bir yakınına, sertlik göstermeden merhametle yaklaştığın bir an yarat.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=29"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/48/29"
+  }
+ ]
+}

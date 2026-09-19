@@ -1,0 +1,271 @@
+{
+ "sure": 48,
+ "ayet": 15,
+ "durum": "taslak",
+ "meal": "Geride bırakılanlar, siz ganimetleri almak için yola çıktığınızda diyecekler: 'Bırakın, biz de size uyalım.' Onlar Allah'ın sözünü değiştirmek isterler. De ki: 'Bize asla uymayacaksınız; Allah önceden böyle buyurmuştur.' Bunun üzerine 'Hayır, bizi kıskanıyorsunuz' diyecekler. Hayır, onlar zaten pek az kavrayan kimselerdi.",
+ "mealNotu": "'Mühallefûn' kökü خلف'ten gelir, seferde geride bırakılanları anlatır. 'Kelâmallah' Allah'ın sözü/hükmü demektir; 'değiştirme' fiili بدل kökündendir. 'Yefkahûn' kökü فقه yalnız bilmeyi değil derinlemesine kavramayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "سَيَقُولُ",
+   "okunus": "seyekûlü",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz söyleme",
+   "karsilik": "diyecekler"
+  },
+  {
+   "kelime": "ٱلْمُخَلَّفُونَ",
+   "okunus": "elmühallefûne",
+   "kok": "خلف",
+   "kokAnlam": "arkada bırakma, geride kalma",
+   "karsilik": "geride bırakılanlar"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "ٱنطَلَقْتُمْ",
+   "okunus": "intalektüm",
+   "kok": "طلق",
+   "kokAnlam": "yola çıkma, salıverilme",
+   "karsilik": "yola çıktığınızda"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "مَغَانِمَ",
+   "okunus": "meğânime",
+   "kok": "غنم",
+   "kokAnlam": "ganimet, kazanç",
+   "karsilik": "ganimetlere"
+  },
+  {
+   "kelime": "لِتَأْخُذُوهَا",
+   "okunus": "lite'huzûhâ",
+   "kok": "أخذ",
+   "kokAnlam": "alma, tutma",
+   "karsilik": "onları almak için"
+  },
+  {
+   "kelime": "ذَرُونَا",
+   "okunus": "zerûnâ",
+   "kok": "وذر",
+   "kokAnlam": "bırakma, terk etme",
+   "karsilik": "bırakın bizi"
+  },
+  {
+   "kelime": "نَتَّبِعْكُمْ",
+   "okunus": "nettebi'küm",
+   "kok": "تبع",
+   "kokAnlam": "tabi olma, ardınca gitme",
+   "karsilik": "size uyalım"
+  },
+  {
+   "kelime": "يُرِيدُونَ",
+   "okunus": "yürîdûne",
+   "kok": "رود",
+   "kokAnlam": "isteme, arzu etme",
+   "karsilik": "istiyorlar"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mayı",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "يُبَدِّلُوا۟",
+   "okunus": "yübeddilû",
+   "kok": "بدل",
+   "kokAnlam": "değiştirme, başkalaştırma",
+   "karsilik": "değiştirmeyi"
+  },
+  {
+   "kelime": "كَلَٰمَ",
+   "okunus": "kelâme",
+   "kok": "كلم",
+   "kokAnlam": "söz, konuşma",
+   "karsilik": "sözünü"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "قُل",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "لَّن",
+   "okunus": "len",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk, kesin gelecek) asla",
+   "karsilik": "asla"
+  },
+  {
+   "kelime": "تَتَّبِعُونَا",
+   "okunus": "tettebiûnâ",
+   "kok": "تبع",
+   "kokAnlam": "tabi olma, ardınca gitme",
+   "karsilik": "bize uymayacaksınız"
+  },
+  {
+   "kelime": "كَذَٰلِكُمْ",
+   "okunus": "kezâliküm",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "buyurmuştur"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلُ",
+   "okunus": "kablü",
+   "kok": "قبل",
+   "kokAnlam": "önce, öncelik",
+   "karsilik": "önceden"
+  },
+  {
+   "kelime": "فَسَيَقُولُونَ",
+   "okunus": "feseyekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz söyleme",
+   "karsilik": "diyecekler"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) hayır, bilakis",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "تَحْسُدُونَنَا",
+   "okunus": "tahsüdûnenâ",
+   "kok": "حسد",
+   "kokAnlam": "kıskanma, haset etme",
+   "karsilik": "bizi kıskanıyorsunuz"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) hayır, bilakis",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idiler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "يَفْقَهُونَ",
+   "okunus": "yefkahûne",
+   "kok": "فقه",
+   "kokAnlam": "derinlemesine anlama, kavrama",
+   "karsilik": "kavrayan"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, dışında",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "قَلِيلًا",
+   "okunus": "kalîlen",
+   "kok": "قلل",
+   "kokAnlam": "azlık",
+   "karsilik": "az bir şey"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette göklerin ve yerin mülkünün Allah'a ait olduğu, dilediğini bağışlayıp dilediğini azaplandırdığı bildirilmişti. Bu ayet, Hudeybiye seferine katılmayıp geride kalanların, müminler bir ganimete doğru yola çıktığında 'bırakın, biz de size uyalım' diyeceklerini anlatır. Bu istek, sadece o günkü kazanca ortak olma arzusuyla ortaya çıkar; emek verilmeyen bir yolculuğa, kazanç görününce katılmak istemektir.",
+  "Ayet bu isteği 'Allah'ın sözünü değiştirmek istemek' olarak nitelendirir, çünkü bu ganimet önceden yalnızca belirli bir gruba vaat edilmiştir. Cevap kesindir: 'Bize asla uymayacaksınız.' Onların 'bizi kıskanıyorsunuz' şeklindeki tepkisi ise kendi tutumlarını haklı çıkarma çabasıdır; ayet bunu derin bir kavrayışsızlıkla açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:34",
+   "meal": "Andolsun, senden önceki elçiler de yalanlandı; ama yalanlanmaya ve eziyete sabrettiler, sonunda yardımımız onlara geldi. Allah'ın sözlerini değiştirecek kimse yoktur.",
+   "baglanti": "Aynı 'bedele' (değiştirme) kökü kullanılır; burada geride kalanların Allah'ın sözünü değiştirme isteği, sözünün asla değiştirilemeyeceği ilkesine çarpar."
+  },
+  {
+   "ref": "9:83",
+   "meal": "Eğer Allah seni onlardan bir topluluğa döndürür de yeniden sefere çıkmak için senden izin isterlerse de ki: 'Artık benimle asla çıkmayacaksınız; ilk seferinde geride kalmaya razı oldunuz, şimdi de geride kalanlarla oturun.'",
+   "baglanti": "Tevbe suresindeki bu ayet, Fetih 15'teki 'bize asla uymayacaksınız' cevabının bir benzeridir; zorluğa ortak olmayıp sonradan katılmak isteyenlerin isteği kabul edilmez."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Hudeybiye'ye katılmayıp geride kalanların, Hayber'e doğru yola çıkılırken 'bırakın biz de gelelim' demeleri ve bu isteğin reddedilmesidir; bu tarihi ve özel bir olaydır.",
+  "Bugüne taşınabilecek ders, zorluğa ortak olmadan kazanca ortak olmak istemenin samimiyetsizliğidir. Emek ve risk gerektiren an geride durup, kazanç göründüğünde öne atılmak, bu ayetin eleştirdiği tutuma benzer; katkı sunmadan pay istemek yerine, zorluk zamanı da yanında olmaya çalışmak daha doğrudur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zorluk zamanı da yanında ol",
+   "aciklama": "Sadece kazanç görününce değil, emek ve risk gerektiren anda da elini taşın altına koy."
+  },
+  {
+   "baslik": "Kazanç hırsını sorgula",
+   "aciklama": "Bir fırsata atılmadan önce niyetini sor: pay mı istiyorsun, katkı mı sunuyorsun?"
+  },
+  {
+   "baslik": "Dünya malını büyütme",
+   "aciklama": "Bugün peşinde koştuğun kazancın geçici olduğunu hatırla; kalıcı olan emek ve niyettir."
+  }
+ ],
+ "bugununAdimi": "Bugün emek vermeden pay istediğin bir durum varsa, bunun yerine nasıl katkı sunabileceğini yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=48&verse=15"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/48/15"
+  }
+ ]
+}
