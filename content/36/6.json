@@ -1,0 +1,103 @@
+{
+ "sure": 36,
+ "ayet": 6,
+ "durum": "taslak",
+ "meal": "Ataları uyarılmamış, bu yüzden gaflet içinde olan bir topluluğu uyarman için.",
+ "mealNotu": "'Nezr' kökü uyarma, sakındırma anlamındadır ve ayette iki kez geçer. 'Gâfilûn' kökü habersizlik, dikkatsizlik anlamı taşır.",
+ "kokler": [
+  {
+   "kelime": "لِتُنذِرَ",
+   "okunus": "litünzira",
+   "kok": "نذر",
+   "kokAnlam": "uyarma, sakındırma",
+   "karsilik": "uyarman için"
+  },
+  {
+   "kelime": "قَوْمًا",
+   "okunus": "kavmen",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "bir topluluğu"
+  },
+  {
+   "kelime": "مَّآ",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mayan",
+   "karsilik": "-mamış"
+  },
+  {
+   "kelime": "أُنذِرَ",
+   "okunus": "ünzira",
+   "kok": "نذر",
+   "kokAnlam": "uyarma, sakındırma",
+   "karsilik": "uyarılmamış"
+  },
+  {
+   "kelime": "ءَابَآؤُهُمْ",
+   "okunus": "âbâühüm",
+   "kok": "أبو",
+   "kokAnlam": "baba, ata",
+   "karsilik": "ataları"
+  },
+  {
+   "kelime": "فَهُمْ",
+   "okunus": "fehüm",
+   "kok": "—",
+   "kokAnlam": "(bağlaç + zamir) bu yüzden onlar",
+   "karsilik": "bu yüzden onlar"
+  },
+  {
+   "kelime": "غَٰفِلُونَ",
+   "okunus": "gâfilûne",
+   "kok": "غفل",
+   "kokAnlam": "habersizlik, dikkatsizlik, gaflet",
+   "karsilik": "gaflet içindedir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Peygamber'in elçilik görevinin amacını açıklar: ataları daha önce uyarılmamış, bu yüzden gaflette olan bir topluluğu uyarmak. Bu ifade, Mekke halkının uzun süre elçi görmediği bir dönemden geldiğine işaret eder.",
+  "'Gâfilûn' kelimesi, bilerek reddetmekten çok, habersiz ve dikkatsiz olmayı anlatır. Ayet, bu gafletin mazeret değil, uyarıyla giderilmesi gereken bir durum olduğunu örtük biçimde ortaya koyar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "32:3",
+   "meal": "Yoksa 'onu uydurdu' mu diyorlar? Hayır, o senden önce kendilerine uyarıcı gelmemiş bir topluluğu uyarman için Rabbinden gelen gerçektir; belki doğru yola girerler.",
+   "baglanti": "Secde suresi de aynı temayı, kendilerine daha önce elçi gelmemiş bir topluluğu uyarma amacıyla tekrarlar; Yâsîn 6 ile hemen hemen aynı ifadeyi taşır."
+  },
+  {
+   "ref": "34:44",
+   "meal": "Oysa biz onlara okuyacakları kitaplar vermedik ve senden önce kendilerine bir uyarıcı göndermedik.",
+   "baglanti": "Sebe suresi de Mekke halkının önceden bir uyarıcı almadığını belirtir; Yâsîn 6'daki 'ataları uyarılmamış' ifadesinin tarihsel arka planını açar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in uyarı görevi ve muhataplarının önceki hâlidir. Bu, tarihsel bir bağlamla sınırlıdır.",
+  "Buradan çıkan genel bir ders şudur: bir kişiye bir konuda hiç bilgi ulaşmamışsa, onu suçlamadan önce bilgilendirmek gerekir. Gafleti kırmak, önce doğru bilgiyi ulaştırmakla başlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilmeyen birini nazikçe bilgilendir",
+   "aciklama": "Bugün bir konuda haberdar olmayan birine, suçlamadan, doğru bilgiyi anlat."
+  },
+  {
+   "baslik": "Kendi gafletini fark et",
+   "aciklama": "Bugün üzerinde hiç düşünmediğin bir konuyu, birkaç dakika ayırıp gözden geçir."
+  },
+  {
+   "baslik": "Dünyanın geçiciliğini hatırla",
+   "aciklama": "Bugün, gündelik telaşın arasında bir an durup hayatın kalıcı olmadığını hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda habersiz olduğunu fark ettiğin bir şeyi araştırıp öğren.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=6"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/36/6"
+  }
+ ]
+}

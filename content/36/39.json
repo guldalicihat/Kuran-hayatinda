@@ -1,0 +1,103 @@
+{
+ "sure": 36,
+ "ayet": 39,
+ "durum": "taslak",
+ "meal": "Ay için de duraklar tayin ettik; nihayet eski hurma dalı gibi geri döner.",
+ "mealNotu": "'Menâzil' kökü konak, durak anlamındadır; ayın farklı evrelerini anlatır. 'Urcûnil kadîm' ifadesi kuruyup incelmiş, eğrilmiş eski hurma salkım dalını tasvir eder; ayın son evresindeki ince hilal görünümüne benzetilmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَٱلْقَمَرَ",
+   "okunus": "vel kamera",
+   "kok": "قمر",
+   "kokAnlam": "ay",
+   "karsilik": "ay için de"
+  },
+  {
+   "kelime": "قَدَّرْنَٰهُ",
+   "okunus": "kaddernâhü",
+   "kok": "قدر",
+   "kokAnlam": "ölçüyle belirleme, takdir etme",
+   "karsilik": "tayin ettik"
+  },
+  {
+   "kelime": "مَنَازِلَ",
+   "okunus": "menâzile",
+   "kok": "نزل",
+   "kokAnlam": "konak, durak",
+   "karsilik": "duraklar"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) nihayet",
+   "karsilik": "nihayet"
+  },
+  {
+   "kelime": "عَادَ",
+   "okunus": "âde",
+   "kok": "عود",
+   "kokAnlam": "geri dönme, tekrarlama",
+   "karsilik": "geri döner"
+  },
+  {
+   "kelime": "كَٱلْعُرْجُونِ",
+   "okunus": "kel urcûni",
+   "kok": "عرجن",
+   "kokAnlam": "eğrilmiş hurma salkım dalı",
+   "karsilik": "hurma dalı gibi"
+  },
+  {
+   "kelime": "ٱلْقَدِيمِ",
+   "okunus": "elkadîmi",
+   "kok": "قدم",
+   "kokAnlam": "eski, önceki",
+   "karsilik": "eski"
+  }
+ ],
+ "neAnlatiyor": [
+  "Güneşin düzenli akışından sonra sure, ayın evrelerine geçer. Ay için 'duraklar' tayin edilmesi, onun her gece farklı bir görünümde belirmesini, dolunaydan hilale doğru küçülerek ilerleyen bir döngü içinde olmasını anlatır.",
+  "'Eski hurma dalı gibi' benzetmesi, ayın son evresindeki ince ve eğri hilal görünümünü, kuruyup incelmiş bir hurma salkım dalına benzeterek tasvir eder. Bu, ilk muhatapların günlük hayatından tanıdık bir imge kullanılarak yapılan canlı bir betimlemedir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:5",
+   "meal": "Güneşi bir ışık, ayı bir nur yapan ve yılların sayısını ve hesabı bilesiniz diye ona duraklar tayin eden O'dur.",
+   "baglanti": "Yûnus suresi de ayın duraklarının zaman ve hesap ölçüsü olduğunu ekler; Yâsîn 39'daki 'menâzil' kelimesini aynı şekilde kullanır."
+  },
+  {
+   "ref": "55:5",
+   "meal": "Güneş ve ay bir hesaba göre hareket eder.",
+   "baglanti": "Rahmân suresi de güneş ve ayın hesaplı bir düzen içinde hareket ettiğini kısaca vurgular; Yâsîn 38-39'daki tasviri özetler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ayın evrelerinin düzenli bir döngü içinde gerçekleşmesidir. Bu, gözlemlenebilir bir gök olayıdır.",
+  "Günlük hayata taşınabilecek ders, hayatın da evreler hâlinde ilerlediğidir. Ayın dolunaydan hilale küçülmesi gibi, bazı dönemler azalma ve küçülme gibi görünse de, bu döngünün bir parçasıdır ve yeniden başlangıç gelir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ayı gözlemle",
+   "aciklama": "Bugün akşam gökyüzünde ayın hangi evrede olduğuna bak."
+  },
+  {
+   "baslik": "Döngüleri kabul et",
+   "aciklama": "Hayatındaki iniş çıkışları, ayın evreleri gibi doğal bir döngü olarak gör."
+  },
+  {
+   "baslik": "Sabırlı ol",
+   "aciklama": "Küçülen bir dönemde bile, yeniden büyüyeceğine güvenerek bugün sabret."
+  }
+ ],
+ "bugununAdimi": "Bugün akşam gökyüzüne bakıp ayın o günkü evresini fark et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=39"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/36/39"
+  }
+ ]
+}

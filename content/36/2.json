@@ -1,0 +1,68 @@
+{
+ "sure": 36,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Hikmetli Kur'an'a andolsun.",
+ "mealNotu": "'Hakîm' kökü hikmet, sağlamlık ve doğru hüküm anlamı taşır; burada Kur'an'ın bir sıfatı olarak 'hikmetli' diye çevrilmiştir. 'Kur'ân' kelimesi köken olarak okumak, bir araya toplamak kökünden gelir; özel ad olarak korunmuştur.",
+ "kokler": [
+  {
+   "kelime": "وَٱلْقُرْءَانِ",
+   "okunus": "vel kur'âni",
+   "kok": "قرأ",
+   "kokAnlam": "okuma, bir araya toplama",
+   "karsilik": "Kur'an'a andolsun"
+  },
+  {
+   "kelime": "ٱلْحَكِيمِ",
+   "okunus": "elhakîmi",
+   "kok": "حكم",
+   "kokAnlam": "hikmet, sağlam hüküm",
+   "karsilik": "hikmetli"
+  }
+ ],
+ "neAnlatiyor": [
+  "Mukattaa harflerinin hemen ardından Allah, Kur'an üzerine yemin eder. Yemin, konunun önemine dikkat çekmek için Kur'an'da sık kullanılan bir üsluptur; burada yeminin konusu, bir sonraki ayette açıklanan Peygamber'in elçiliğidir.",
+  "'Hakîm' sıfatı Kur'an'ın içindeki hükümlerin sağlam ve tutarlı olduğunu, boşuna söz içermediğini anlatır. Bu sıfat, ayetin devamında gelecek olan 'sen gerçekten elçilerdensin' ifadesinin güvenilirliğine de zemin hazırlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "43:2",
+   "meal": "Apaçık Kitab'a andolsun.",
+   "baglanti": "Zuhruf suresi de mukattaa harflerinden hemen sonra Kitab üzerine yemin eder; aynı giriş kalıbı burada da görülür."
+  },
+  {
+   "ref": "44:2",
+   "meal": "Apaçık Kitab'a andolsun.",
+   "baglanti": "Duhân suresinde de Kur'an'a yemin, hemen ardından bir mesajın indirilişini anlatan ayetlerle devam eder; Yâsîn 2-5 ile benzer bir yapı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Kur'an'ın kendisidir; burada bir hüküm değil, bir yemin ve nitelemeyle karşılaşırsın. Bu, okuduğun metnin sıradan bir söz olmadığını, hikmetle dolu olduğunu hatırlatır.",
+  "Bir metni okurken onun hikmetli, yani tutarlı ve amaçlı olduğunu bilmek, ona nasıl yaklaşacağını etkiler. Kur'an'ı hızlıca geçmek yerine, içindeki hükmün ne olduğunu düşünerek okumak bu ayetten çıkan bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ayeti hikmet gözüyle oku",
+   "aciklama": "Bugün okuduğun bir ayette, o hükmün neden böyle olduğunu bir dakika düşün."
+  },
+  {
+   "baslik": "Aceleyle geçme",
+   "aciklama": "Kur'an okurken bir ayette dur, tekrar oku, anlamını zihninde netleştir."
+  },
+  {
+   "baslik": "Notunu tut",
+   "aciklama": "Bugün okuduğun bir ayetin sana verdiği hükmü tek cümleyle not al."
+  }
+ ],
+ "bugununAdimi": "Bugün Kur'an'dan bir ayet seç ve içindeki hikmeti kendi cümlenle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/36/2"
+  }
+ ]
+}

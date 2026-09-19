@@ -1,0 +1,131 @@
+{
+ "sure": 36,
+ "ayet": 30,
+ "durum": "taslak",
+ "meal": "Yazıklar olsun kullara! Kendilerine gelen her elçiyle mutlaka alay ederlerdi.",
+ "mealNotu": "'Hasret' kökü pişmanlık, üzüntü anlamındadır; burada 'yazıklar olsun' şeklinde bir nida olarak çevrilmiştir. 'Yestehziûn' kökü alay etme anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "يَٰحَسْرَةً",
+   "okunus": "yâ hasraten",
+   "kok": "حسر",
+   "kokAnlam": "pişmanlık, üzüntü, hasret",
+   "karsilik": "yazıklar olsun"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْعِبَادِ",
+   "okunus": "el'ibâdi",
+   "kok": "عبد",
+   "kokAnlam": "kul, kulluk eden",
+   "karsilik": "kullara"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "يَأْتِيهِم",
+   "okunus": "ye'tîhim",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "kendilerine geldi"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "رَّسُولٍ",
+   "okunus": "rasûlin",
+   "kok": "رسل",
+   "kokAnlam": "elçi",
+   "karsilik": "bir elçi"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, olmasın ki",
+   "karsilik": "ki olmasın"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "oldular"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "يَسْتَهْزِءُونَ",
+   "okunus": "yestehziûne",
+   "kok": "هزأ",
+   "kokAnlam": "alay etme",
+   "karsilik": "alay ederlerdi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, tek bir kıssadan genele geçerek bütün geçmiş kavimlerin ortak hastalığını dile getirir: kendilerine hangi elçi gelirse gelsin, onunla alay etme alışkanlığı. 'Yazıklar olsun kullara' ifadesi, bu tutumun kulların kendi zararına olduğunu vurgulayan bir üzüntü nidasıdır.",
+  "Bu ayet, 13-27. ayetlerdeki tek bir şehir kıssasını, tarih boyunca tekrarlanan genel bir kalıbın örneği hâline getirir. Elçiyle alay etmek, sadece o kıssadaki halkın değil, pek çok kavmin ortak tutumu olarak sunulur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:10",
+   "meal": "Senden önceki elçilerle de alay edildi; alay edenleri, alay ettikleri şey kuşatıverdi.",
+   "baglanti": "En'âm suresi de geçmiş elçilerle alay edilmesinin ortak bir kalıp olduğunu ve sonunda alay edenlerin kuşatıldığını anlatır; Yâsîn 30'daki genellemeyi destekler."
+  },
+  {
+   "ref": "15:11",
+   "meal": "Onlara hiçbir elçi gelmez ki onunla alay etmiş olmasınlar.",
+   "baglanti": "Hicr suresi neredeyse aynı ifadeyle, her elçiye karşı alayın tekrarlanan bir tutum olduğunu belirtir; Yâsîn 30 ile aynı kalıptadır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş kavimlerin elçilere karşı gösterdiği alaycı tutumdur. Bu genel bir tarihsel değerlendirmedir.",
+  "Günlük hayata taşınabilecek ders, doğru bir sözü ciddiye almak yerine onunla alay etmenin, sonunda kişinin kendi zararına olduğudur. Bir öğüdü küçümsemek yerine üzerinde düşünmek daha faydalıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Alay etme, düşün",
+   "aciklama": "Bugün katılmadığın bir görüşle alay etmek yerine, onu anlamaya çalış."
+  },
+  {
+   "baslik": "Ciddiye al",
+   "aciklama": "Sana ulaşan bir öğüdü, ilk tepkinle reddetmeden önce bir kez daha düşün."
+  },
+  {
+   "baslik": "Kendi tutumunu gözden geçir",
+   "aciklama": "Bugün, geçmişte alay ettiğin bir konuyu yeniden, saygıyla değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün alay ettiğin ya da küçümsediğin bir görüşü, önyargısız yeniden dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=30"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/36/30"
+  }
+ ]
+}

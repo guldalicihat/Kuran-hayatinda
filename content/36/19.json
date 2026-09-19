@@ -1,0 +1,117 @@
+{
+ "sure": 36,
+ "ayet": 19,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'Uğursuzluğunuz kendinizdendir. Size öğüt verildi diye mi böyle davranıyorsunuz? Hayır, siz aşırı giden bir topluluksunuz.'",
+ "mealNotu": "'Tâiruküm meaküm' ifadesi deyimsel olarak 'uğursuzluğunuz sizinledir/kendinizdendir' anlamına gelir. 'Müsrifûn' kökü aşırı gitme, ölçüyü kaçırma anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "طَٰٓئِرُكُم",
+   "okunus": "tâiruküm",
+   "kok": "طير",
+   "kokAnlam": "uğur/uğursuzluk işareti",
+   "karsilik": "uğursuzluğunuz"
+  },
+  {
+   "kelime": "مَّعَكُمْ",
+   "okunus": "meaküm",
+   "kok": "—",
+   "kokAnlam": "(edat) sizinledir",
+   "karsilik": "kendinizdendir"
+  },
+  {
+   "kelime": "أَئِن",
+   "okunus": "ein",
+   "kok": "—",
+   "kokAnlam": "(soru + şart) size mi",
+   "karsilik": "size mi"
+  },
+  {
+   "kelime": "ذُكِّرْتُم",
+   "okunus": "zükkirtüm",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlatma, öğüt verme",
+   "karsilik": "öğüt verildi"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak, aksine) hayır, bilakis",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "أَنتُمْ",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "قَوْمٌ",
+   "okunus": "kavmün",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "bir topluluksunuz"
+  },
+  {
+   "kelime": "مُّسْرِفُونَ",
+   "okunus": "müsrifûne",
+   "kok": "سرف",
+   "kokAnlam": "aşırı gitme, ölçüyü kaçırma, israf",
+   "karsilik": "aşırı giden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Elçiler, tehdide karşılık halkın uğursuzluk inancını reddeder: kötü sonuç kendi tutumlarından kaynaklanmaktadır, elçilerden değil. Onlara göre asıl sorun, bir öğüt verildiğinde bunu bir tehdit gibi algılamalarıdır.",
+  "'Müsrifûn' (aşırı giden) ifadesi, halkın tepkisinin ölçüsüz olduğunu, sadece elçilere değil, genel olarak haddi aşan bir tutuma sahip olduklarını gösterir. Bu, kıssanın ilerleyen kısmında gelecek olan helak sahnesine zemin hazırlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "27:47",
+   "meal": "Salih dedi ki: 'Uğursuzluğunuz Allah katındandır; hayır, siz imtihan edilen bir topluluksunuz.'",
+   "baglanti": "Neml suresinde Salih de aynı cevabı, uğursuzluğun kaynağının kendilerinde olduğunu söyleyerek verir; Yâsîn 19 ile aynı yapıyı taşır."
+  },
+  {
+   "ref": "7:131",
+   "meal": "...Bilin ki, uğursuzlukları Allah katındandır, ama onların çoğu bilmezler.",
+   "baglanti": "A'râf suresi de uğursuzluk inancının aslında kişinin kendi tutumundan kaynaklandığını, Allah'ın takdiriyle ilişkilendirerek açıklar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, elçilerin uğursuzluk itirazına verdiği cevaptır. Bu, tarihsel bir kıssa sahnesidir.",
+  "Günlük hayatta, bir öğüdü veya eleştiriyi kötü bir işaret gibi algılamak, aslında öğüdün kendisinden değil, kişinin kendi tutumundan kaynaklanan bir tepkidir. Bu ayet, öğüde açık olmanın önemini dolaylı olarak hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Öğüdü tehdit gibi algılama",
+   "aciklama": "Bugün sana verilen bir öğüdü savunmaya geçmeden dinle."
+  },
+  {
+   "baslik": "Ölçünü koru",
+   "aciklama": "Bir tepkinde bugün ölçüyü kaçırmamaya dikkat et."
+  },
+  {
+   "baslik": "Kaynağı kendinde ara",
+   "aciklama": "Kötü giden bir durumda, önce kendi tutumunun payını düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün sana yapılan bir eleştiriyi savunmaya geçmeden, sakince dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=19"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/36/19"
+  }
+ ]
+}

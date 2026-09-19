@@ -1,0 +1,110 @@
+{
+ "sure": 36,
+ "ayet": 13,
+ "durum": "taslak",
+ "meal": "Onlara, elçilerin geldiği şu şehir halkını örnek olarak anlat.",
+ "mealNotu": "'Darb-ı mesel' deyimi 'örnek vermek, örnekle anlatmak' anlamındadır; 'vadrib' kökü çarpmak/vurmaktır ama burada deyimsel olarak 'örnek getir' anlamı taşır. Şehir isim verilmeden anlatılır; klasik tefsirde belirli bir yerle ilişkilendirilse de ayet metninde bir yer adı geçmez.",
+ "kokler": [
+  {
+   "kelime": "وَٱضْرِبْ",
+   "okunus": "vedrib",
+   "kok": "ضرب",
+   "kokAnlam": "vurma; (deyimsel) örnek verme",
+   "karsilik": "örnek olarak anlat"
+  },
+  {
+   "kelime": "لَهُم",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "مَّثَلًا",
+   "okunus": "meselen",
+   "kok": "مثل",
+   "kokAnlam": "benzetme, örnek",
+   "karsilik": "örnek olarak"
+  },
+  {
+   "kelime": "أَصْحَٰبَ",
+   "okunus": "ashâbe",
+   "kok": "صحب",
+   "kokAnlam": "arkadaşlık; halkı, sahipleri",
+   "karsilik": "halkını"
+  },
+  {
+   "kelime": "ٱلْقَرْيَةِ",
+   "okunus": "elkaryeti",
+   "kok": "قري",
+   "kokAnlam": "köy, şehir, yerleşim",
+   "karsilik": "şu şehrin"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani, o zaman",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "جَآءَهَا",
+   "okunus": "câehâ",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "ona gelmişti"
+  },
+  {
+   "kelime": "ٱلْمُرْسَلُونَ",
+   "okunus": "elmürselûne",
+   "kok": "رسل",
+   "kokAnlam": "gönderme, elçi olarak yollama",
+   "karsilik": "elçiler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayetle sure, uzun bir kıssaya geçiş yapar: bir şehre gönderilen elçilerin hikayesi. Ayet, şehrin adını vermez; bu, kıssanın belirli bir yer ve zamandan bağımsız, genel bir örnek olarak sunulduğunu gösterir.",
+  "Klasik tefsir bu şehri belirli bir yerle ilişkilendiren rivayetler nakleder, ancak ayetin kendisi bir isim vermez. Anlatının amacı, bir yer tarihi vermek değil, elçilere karşı takınılan tutumu ve sonucunu örnek göstermektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:94",
+   "meal": "Hangi ülkeye bir peygamber gönderdiysek, halkını darlık ve sıkıntıyla yakaladık ki yalvarıp yakarsınlar.",
+   "baglanti": "A'râf suresi de elçi gönderilen şehirlerin halklarının tepkisini anlatan benzer kıssalar içerir; Yâsîn 13 bu kalıbın bir örneğini sunar."
+  },
+  {
+   "ref": "34:34",
+   "meal": "Uyardığımız hiçbir şehre, oranın varlıklıları 'biz sizin gönderildiğiniz şeyi inkâr ediyoruz' demeden elçi göndermedik.",
+   "baglanti": "Sebe suresi elçi gönderilen şehirlerin tepkisindeki ortak inkâr temasını anlatır; Yâsîn 13-14'teki kıssanın genel çerçevesini destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu bir kıssaya girişdir; kendisi bir hüküm içermez, ama gelecek ayetlerin okunma amacını belirler: bir örnekten ders çıkarmak.",
+  "Günlük hayatta bir hikayeden ya da başkasının deneyiminden ders çıkarmak, aynı hataları tekrarlamamak için değerli bir yöntemdir. Bu ayet, dinlemeye ve örnekten öğrenmeye hazırlanmayı önerir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir kıssayı dikkatle takip et",
+   "aciklama": "Bugün Yâsîn suresindeki bu kıssayı (13-27. ayetler) baştan sona oku."
+  },
+  {
+   "baslik": "Başkasının deneyiminden ders çıkar",
+   "aciklama": "Yakın çevrende yaşanmış bir olaydan, kendi hayatın için bir ders çıkar."
+  },
+  {
+   "baslik": "Bir örneği paylaş",
+   "aciklama": "Bugün öğrendiğin bir kıssayı ya da örneği birine anlat."
+  }
+ ],
+ "bugununAdimi": "Bugün Yâsîn suresinin 13-27. ayetlerini bir oturuşta oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=13"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/36/13"
+  }
+ ]
+}

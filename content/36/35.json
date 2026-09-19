@@ -1,0 +1,110 @@
+{
+ "sure": 36,
+ "ayet": 35,
+ "durum": "taslak",
+ "meal": "Ki onun ürününden ve kendi elleriyle yaptıklarından yesinler. Hâlâ şükretmeyecekler mi?",
+ "mealNotu": "'Amilethü eydîhim' ifadesi 'elleriyle yaptıkları' anlamındadır; klasik tefsir bunu emek ve ekip biçmeye işaret olarak açıklar. 'Yeşkürûn' kökü şükretme anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "لِيَأْكُلُوا۟",
+   "okunus": "liye'külû",
+   "kok": "أكل",
+   "kokAnlam": "yeme",
+   "karsilik": "yesinler"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ثَمَرِهِۦ",
+   "okunus": "semerihî",
+   "kok": "ثمر",
+   "kokAnlam": "meyve, ürün",
+   "karsilik": "onun ürününden"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şeyden",
+   "karsilik": "ve şeyden"
+  },
+  {
+   "kelime": "عَمِلَتْهُ",
+   "okunus": "amilethü",
+   "kok": "عمل",
+   "kokAnlam": "yapma, çalışma, emek verme",
+   "karsilik": "yaptıkları"
+  },
+  {
+   "kelime": "أَيْدِيهِمْ",
+   "okunus": "eydîhim",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "kendi elleriyle"
+  },
+  {
+   "kelime": "أَفَلَا",
+   "okunus": "efelâ",
+   "kok": "—",
+   "kokAnlam": "(soru + olumsuzluk) hâlâ -mez mi",
+   "karsilik": "hâlâ -meyecekler mi"
+  },
+  {
+   "kelime": "يَشْكُرُونَ",
+   "okunus": "yeşkürûne",
+   "kok": "شكر",
+   "kokAnlam": "şükretme, teşekkür etme",
+   "karsilik": "şükretmeyecekler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayette anlatılan bahçelerin amacını açıklar: insanların hem doğal ürünlerden hem de kendi emekleriyle elde ettiklerinden yararlanması. 'Kendi elleriyle yaptıkları' ifadesi, insanın bu nimetlerde tamamen edilgen olmadığını, emek ve çalışmayla da katkı sağladığını gösterir.",
+  "Ayet, bir soru ile biter: 'Hâlâ şükretmeyecekler mi?' Bu soru, hem tabiattaki bereketi hem de insanın kendi çabasını bir arada değerlendirip, bunlara karşı şükür duygusunun doğal bir sonuç olması gerektiğini vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "56:63",
+   "meal": "Ektiğiniz tohumu gördünüz mü?",
+   "baglanti": "Vâkıa suresi de insanın emeğiyle Allah'ın yaratma gücü arasındaki dengeyi sorgular; Yâsîn 35'teki 'kendi elleriyle yaptıkları' ifadesiyle aynı temayı paylaşır."
+  },
+  {
+   "ref": "14:7",
+   "meal": "Rabbiniz şöyle bildirmişti: 'Eğer şükrederseniz, elbette size arttırırım...'",
+   "baglanti": "İbrahim suresi şükrün karşılığını anlatır; Yâsîn 35'teki 'şükretmeyecekler mi' sorusunun cevabını dolaylı olarak verir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, insanın hem doğal nimetlerden hem kendi emeğinden yararlanması ve buna karşı şükretmesidir. Bu, günlük hayatla doğrudan bağlantılı bir ayettir.",
+  "Emeğinin karşılığını aldığında bunu sadece kendi başarın olarak görmek yerine, arkasındaki imkânları da fark etmek şükrü büyütür. Çalışmak ile şükretmek, bu ayette bir arada, birbirini tamamlayan iki tutum olarak sunulur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Emeğinin karşılığını fark et",
+   "aciklama": "Bugün elde ettiğin bir sonucu, hem kendi çabana hem sana verilen imkânlara bağlayarak değerlendir."
+  },
+  {
+   "baslik": "Şükrünü söze dök",
+   "aciklama": "Bugün sahip olduğun bir şey için sesli ya da yazılı olarak şükret."
+  },
+  {
+   "baslik": "Emek vermekten kaçma",
+   "aciklama": "Kolay yolu değil, emek isteyen ama daha değerli olanı bugün seç."
+  }
+ ],
+ "bugununAdimi": "Bugün elde ettiğin bir sonuç için hem çabana hem sana verilen imkâna şükret.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=35"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/36/35"
+  }
+ ]
+}

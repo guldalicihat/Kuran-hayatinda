@@ -1,0 +1,110 @@
+{
+ "sure": 36,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "Onları uyarsan da uyarmasan da onlar için birdir; iman etmezler.",
+ "mealNotu": "'Sevâ' kökü eşitlik, denklik anlamındadır; burada uyarmanın onlar için fark etmediği vurgulanır.",
+ "kokler": [
+  {
+   "kelime": "وَسَوَآءٌ",
+   "okunus": "ve sevâün",
+   "kok": "سوي",
+   "kokAnlam": "eşitlik, denklik",
+   "karsilik": "birdir"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlar için",
+   "karsilik": "onlar için"
+  },
+  {
+   "kelime": "ءَأَنذَرْتَهُمْ",
+   "okunus": "eenzertehüm",
+   "kok": "نذر",
+   "kokAnlam": "uyarma, sakındırma",
+   "karsilik": "onları uyarsan"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -medi",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "تُنذِرْهُمْ",
+   "okunus": "tünzirhüm",
+   "kok": "نذر",
+   "kokAnlam": "uyarma, sakındırma",
+   "karsilik": "uyarmasan"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -mez",
+   "karsilik": "-mez"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman etme",
+   "karsilik": "iman etmezler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki üç ayette tasvir edilen kapanmışlığın sonucunu netleştirir: bu kişiler için uyarmakla uyarmamak arasında fark yoktur, çünkü kendi tercihleriyle iman etmemeye kararlıdırlar. Bu, Peygamber'in çabasının boşa gittiği anlamına gelmez; onun görevi tebliğ etmektir, sonucu belirlemek değildir.",
+  "Ayet, 6. ayette anlatılan 'ataları uyarılmamış, gaflette olan' topluluğun bir kısmının, uyarı ulaştıktan sonra bile bu gafletten çıkmayı reddettiğini gösterir. Klasik tefsir bunu, kalbini kapatan kişinin dış müdahaleyle değişmeyeceği şeklinde açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:6",
+   "meal": "Şüphesiz inkâr edenleri uyarsan da uyarmasan da onlar için birdir; iman etmezler.",
+   "baglanti": "Bakara suresinin başında yer alan bu ayet, Yâsîn 10 ile neredeyse aynı ifadeyi taşır; Kur'an'da tekrar eden bir uyarı kalıbıdır."
+  },
+  {
+   "ref": "10:96",
+   "meal": "Şüphesiz haklarında Rabbinin sözü hak olanlar iman etmezler.",
+   "baglanti": "Yûnus suresi de aynı sonucu, 'söz'ün hak olması bağlamında tekrarlar; Yâsîn 7'deki ifadeyle birlikte bu ayetin arka planını tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, inatla kapanmış kişilerin uyarıya karşı tepkisizliğidir. Bu, herkes için geçerli bir kural değil, belirli bir inat hâlinin sonucudur.",
+  "Günlük hayatta bazen birini ne kadar uyarırsan uyar, değişmeyeceğini görebilirsin. Bu ayetten çıkan ders, senin görevinin doğru olanı söylemek olduğu, sonucu kontrol etmenin sana ait olmadığıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Elinden geleni yap, sonucu bırak",
+   "aciklama": "Bugün birine doğruyu anlat, ama onun kabul edip etmemesini kontrol etmeye çalışma."
+  },
+  {
+   "baslik": "Kendi gafletini sorgula",
+   "aciklama": "Sana ulaşan bir uyarıyı görmezden geldiğin bir an var mı, bugün düşün."
+  },
+  {
+   "baslik": "Allah'ın gördüğünü unutma",
+   "aciklama": "Kimse seni görmese de, yaptığın ve yapmadığın her şeyin bilindiğini hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda elinden geleni yap ve sonucunu kontrol etmeye çalışmadan bırak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=36&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/36/10"
+  }
+ ]
+}
