@@ -1,0 +1,110 @@
+{
+ "sure": 61,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Yapmayacağınız şeyi niçin söylersiniz?",
+ "mealNotu": "'Kavl' (söz) ve 'fiil' (eylem) kökleri arasındaki karşıtlık ayetin temelini oluşturur; soru cümlesi bir kınama (istifham-ı inkârî) anlamı taşır.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey diye seslenme",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olanlar",
+   "karsilik": "kimseler ki"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "لِمَ",
+   "okunus": "lime",
+   "kok": "—",
+   "kokAnlam": "(soru edatı) niçin, neden",
+   "karsilik": "niçin"
+  },
+  {
+   "kelime": "تَقُولُونَ",
+   "okunus": "tekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "söylersiniz"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şey",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": ""
+  },
+  {
+   "kelime": "تَفْعَلُونَ",
+   "okunus": "tef'alûne",
+   "kok": "فعل",
+   "kokAnlam": "yapma",
+   "karsilik": "yapmayacağınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette bütün evrenin Allah'ı tesbih ettiği belirtildikten sonra, burada doğrudan müminlere yönelik kınama içeren bir soru gelir: söz ile eylem arasındaki tutarsızlık. 'Ellezîne âmenû' (iman edenler) hitabı, bu uyarının özellikle iman iddiasında bulunanlara yöneldiğini gösterir.",
+  "Klasik tefsir bu ayeti, bazı müminlerin cihad konusunda söz verip sonra geri durmasıyla ilişkilendirir; ancak ayetin ifadesi geneldir ve her türlü söz-eylem tutarsızlığını kapsar. 3. ayet, bu tutumun Allah katındaki ağırlığını vurgulayarak konuyu sürdürür."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:226",
+   "meal": "Ve onlar, yapmayacakları şeyi söylerler.",
+   "baglanti": "Şuarâ suresinde şairler için kullanılan bu ifade, 'mâ lâ yef'alûn' kalıbıyla 61:2'nin son iki kelimesiyle birebir örtüşür; aynı söz-eylem tutarsızlığı eleştirisidir."
+  },
+  {
+   "ref": "2:44",
+   "meal": "İnsanlara iyiliği emredip kendinizi unutuyor musunuz? Oysa kitabı okuyorsunuz; hâlâ aklınızı kullanmıyor musunuz?",
+   "baglanti": "Başkasına öğütlediğini kendi yapmama tutarsızlığını sorgular; 61:2'deki söylediğini yapmama eleştirisiyle aynı eksendedir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, söylenen sözle yapılan işin örtüşmemesidir; iman iddiasıyla birlikte söz verip tutmama durumu eleştirilir.",
+  "Buradan çıkan ders, söylemeden önce yapıp yapamayacağını düşünmektir. Günlük hayatta verdiğimiz sözler, başkalarına yaptığımız vaatler bu ayetin ışığında gözden geçirilebilir; sözünü tutabileceğinden emin olmadan konuşmamak, bu ayetin pratiğe dönüşmüş hâlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Söz vermeden önce düşün",
+   "aciklama": "Bugün birine bir söz vermeden önce, onu gerçekten yerine getirip getiremeyeceğini bir an düşün."
+  },
+  {
+   "baslik": "Verdiğin bir sözü hatırla",
+   "aciklama": "Geçmişte verip tutmadığın bir sözü hatırla ve mümkünse bugün telafi et."
+  },
+  {
+   "baslik": "Söylediğini yap",
+   "aciklama": "Bugün söylediğin küçük bir şeyi (bir teşekkür, bir yardım sözü) aynı gün içinde yerine getir."
+  }
+ ],
+ "bugununAdimi": "Bugün verdiğim bir sözü, ertelemeden aynı gün yerine getireceğim.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=61&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/61/2"
+  }
+ ]
+}

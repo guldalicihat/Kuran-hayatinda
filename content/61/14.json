@@ -1,0 +1,299 @@
+{
+ "sure": 61,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Allah'ın yardımcıları olun; nitekim Meryem oğlu Îsâ, havarilere: 'Allah'a [giden yolda] yardımcılarım kim?' demişti. Havariler: 'Biziz Allah'ın yardımcıları' dediler. Bunun üzerine İsrailoğullarından bir kesim iman etti, bir kesim inkâr etti. Biz de iman edenleri düşmanlarına karşı destekledik; onlar üstün gelenlerden oldular.",
+ "mealNotu": "'Havariyyûn' (حور) kökü saflık, temizlik anlamına yakın olup Îsâ'nın yakın yardımcılarını ifade eder; '[giden yolda]' ifadesi 'ilallâh' (Allah'a doğru) edatının anlamını netleştirmek için eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey diye seslenme",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olanlar",
+   "karsilik": "kimseler ki"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "كُونُوٓا۟",
+   "okunus": "kûnû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olun"
+  },
+  {
+   "kelime": "أَنصَارُ",
+   "okunus": "ensâra",
+   "kok": "نصر",
+   "kokAnlam": "yardım, destek",
+   "karsilik": "yardımcıları"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "كَمَا",
+   "okunus": "kemâ",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) gibi",
+   "karsilik": "nitekim"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "demişti"
+  },
+  {
+   "kelime": "عِيسَى",
+   "okunus": "îsâ",
+   "kok": "—",
+   "kokAnlam": "(özel isim)",
+   "karsilik": "Îsâ"
+  },
+  {
+   "kelime": "ٱبْنُ",
+   "okunus": "ibnü",
+   "kok": "بني",
+   "kokAnlam": "oğulluk, evlat",
+   "karsilik": "oğlu"
+  },
+  {
+   "kelime": "مَرْيَمَ",
+   "okunus": "meryeme",
+   "kok": "—",
+   "kokAnlam": "(özel isim)",
+   "karsilik": "Meryem'in"
+  },
+  {
+   "kelime": "لِلْحَوَارِيِّۦنَ",
+   "okunus": "lilhavâriyyîne",
+   "kok": "حور",
+   "kokAnlam": "saflık, arınmışlık; havariler",
+   "karsilik": "havarilere"
+  },
+  {
+   "kelime": "مِّنۢ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(soru) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "أَنصَارِىٓ",
+   "okunus": "ensârî",
+   "kok": "نصر",
+   "kokAnlam": "yardım, destek",
+   "karsilik": "benim yardımcılarım"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e doğru",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "قَالَ",
+   "okunus": "kâle",
+   "kok": "قول",
+   "kokAnlam": "söz söyleme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "ٱلْحَوَارِيُّونَ",
+   "okunus": "elhavâriyyûne",
+   "kok": "حور",
+   "kokAnlam": "saflık, arınmışlık; havariler",
+   "karsilik": "havariler"
+  },
+  {
+   "kelime": "نَحْنُ",
+   "okunus": "nahnü",
+   "kok": "—",
+   "kokAnlam": "(zamir) biz",
+   "karsilik": "biziz"
+  },
+  {
+   "kelime": "أَنصَارُ",
+   "okunus": "ensâru",
+   "kok": "نصر",
+   "kokAnlam": "yardım, destek",
+   "karsilik": "yardımcıları"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "فَـَٔامَنَت",
+   "okunus": "feâmenet",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman etti"
+  },
+  {
+   "kelime": "طَّآئِفَةٌ",
+   "okunus": "tâifetün",
+   "kok": "طوف",
+   "kokAnlam": "dolaşma; grup, kesim",
+   "karsilik": "bir kesim"
+  },
+  {
+   "kelime": "مِّنۢ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "بَنِىٓ",
+   "okunus": "benî",
+   "kok": "بني",
+   "kokAnlam": "oğullar",
+   "karsilik": "oğullarından"
+  },
+  {
+   "kelime": "إِسْرَٰٓءِيلَ",
+   "okunus": "isrâîle",
+   "kok": "—",
+   "kokAnlam": "(özel isim)",
+   "karsilik": "İsrail"
+  },
+  {
+   "kelime": "وَكَفَرَت",
+   "okunus": "ve keferat",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği örtme, inkâr",
+   "karsilik": "ve inkâr etti"
+  },
+  {
+   "kelime": "طَّآئِفَةٌ",
+   "okunus": "tâifetün",
+   "kok": "طوف",
+   "kokAnlam": "dolaşma; grup, kesim",
+   "karsilik": "bir kesim"
+  },
+  {
+   "kelime": "فَأَيَّدْنَا",
+   "okunus": "feeyyednâ",
+   "kok": "أيد",
+   "kokAnlam": "güçlendirme, destekleme",
+   "karsilik": "biz de destekledik"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olanları",
+   "karsilik": "olanları"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman edenleri"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) karşı",
+   "karsilik": "karşı"
+  },
+  {
+   "kelime": "عَدُوِّهِمْ",
+   "okunus": "adüvvihim",
+   "kok": "عدو",
+   "kokAnlam": "düşmanlık",
+   "karsilik": "düşmanlarına"
+  },
+  {
+   "kelime": "فَأَصْبَحُوا۟",
+   "okunus": "feasbehû",
+   "kok": "صبح",
+   "kokAnlam": "(dönüşüm fiili) oldular",
+   "karsilik": "oldular"
+  },
+  {
+   "kelime": "ظَٰهِرِينَ",
+   "okunus": "zâhirîne",
+   "kok": "ظهر",
+   "kokAnlam": "üstün gelme, açığa çıkma",
+   "karsilik": "üstün gelenlerden"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, surenin başından beri işlenen 'söylediğini yapma, saf tutarak destek olma' temasını, Îsâ ve havarileri örneğiyle taçlandırır: müminlerden, tıpkı havarilerin Îsâ'nın çağrısına 'biziz Allah'ın yardımcıları' diyerek karşılık vermesi gibi, Allah'ın yardımcıları olmaları istenir.",
+  "Ayet, bu çağrı karşısında İsrailoğullarının bir kesiminin iman ettiğini, bir kesiminin inkâr ettiğini belirterek, iman edenlerin sonunda düşmanlarına karşı desteklendiğini ve üstün geldiğini anlatır. Klasik tefsir bunu, hakka destek olanların Allah'ın yardımını hak ettiğine dair genel bir ilke olarak açıklar; kıssa belirli bir topluluğu suçlamak için değil, hakka nasıl destek olunacağına dair bir örnek olarak anlatılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:52",
+   "meal": "Îsâ onlardan inkârı hissedince 'Allah yolunda yardımcılarım kim?' dedi. Havariler: 'Biziz Allah'ın yardımcıları; Allah'a iman ettik, şahit ol ki biz müslümanlarız' dediler.",
+   "baglanti": "61:14'teki aynı kıssayı, Âl-i İmrân suresinde neredeyse aynı ifadelerle anlatır."
+  },
+  {
+   "ref": "5:111",
+   "meal": "Havarilere, bana ve Resulüme iman edin diye bildirmiştim; onlar 'iman ettik, şahit ol ki biz müslümanlarız' demişlerdi.",
+   "baglanti": "Havarilerin Îsâ'nın çağrısına verdiği net cevabı bir kez daha aktarır; 61:14'teki kararlı iman tutumuyla aynı örüntüdedir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Îsâ ve havarileri örneğinde somutlaşan 'Allah'ın yardımcısı olma' çağrısıdır; bu, tarihi bir kıssa üzerinden verilen bir davettir.",
+  "Buradan çıkan genel ders, hakka ve doğruya destek olma konusunda net bir tutum almaktır. Havarilerin 'biziz' diyerek tereddütsüz cevap vermesi gibi, kişi de doğru bildiği bir davaya destek olma konusunda kararlı davranabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hakka net destek ver",
+   "aciklama": "Bugün doğru bildiğin bir konuda, çekingen kalmadan net bir tavır al."
+  },
+  {
+   "baslik": "Bir davaya emek ver",
+   "aciklama": "Bugün, desteklediğin hayırlı bir işe (bir yardım kampanyası, bir hak arayışı) küçük bir katkı yap."
+  },
+  {
+   "baslik": "Örnek bir tutum sergile",
+   "aciklama": "Bugün, havarilerin kararlılığı gibi, üstlendiğin bir sorumluluğu yarım bırakmadan tamamla."
+  }
+ ],
+ "bugununAdimi": "Bugün doğru bildiğim bir konuda net ve kararlı bir tutum sergileyeceğim.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=61&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/61/14"
+  }
+ ]
+}
