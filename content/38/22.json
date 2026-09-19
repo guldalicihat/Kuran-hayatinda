@@ -1,0 +1,215 @@
+{
+ "sure": 38,
+ "ayet": 22,
+ "durum": "taslak",
+ "meal": "Dâvûd'un yanına girdiklerinde o, onlardan korkup ürktü. 'Korkma' dediler, 'İki davacıyız; birimiz diğerinin hakkına saldırdı. Aramızda hakkı ile hükmet, haksızlık etme ve bizi doğru yolun ortasına ilet.'",
+ "mealNotu": "'Tüştıt' (haksızlık etme) kökü, hükümde aşırı gidip dengeyi bozmayı anlatır. 'Sevâis sırât' (doğru yolun ortası/dengesi) ifadesi, adaletin dengeli, taraf tutmayan hâlini vurgular.",
+ "kokler": [
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "دَخَلُوا۟",
+   "okunus": "dehalû",
+   "kok": "دخل",
+   "kokAnlam": "girme",
+   "karsilik": "girdiklerinde"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) yanına",
+   "karsilik": "yanına"
+  },
+  {
+   "kelime": "دَاوُۥدَ",
+   "okunus": "dâvûde",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Dâvûd",
+   "karsilik": "Dâvûd'un"
+  },
+  {
+   "kelime": "فَفَزِعَ",
+   "okunus": "fefezia",
+   "kok": "فزع",
+   "kokAnlam": "korkma, ürkme",
+   "karsilik": "korkup ürktü"
+  },
+  {
+   "kelime": "مِنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "deme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "korkma"
+  },
+  {
+   "kelime": "تَخَفْ",
+   "okunus": "tehaf",
+   "kok": "خوف",
+   "kokAnlam": "korkma",
+   "karsilik": "korkma"
+  },
+  {
+   "kelime": "خَصْمَانِ",
+   "okunus": "hasmâni",
+   "kok": "خصم",
+   "kokAnlam": "davacı, çekişen taraf",
+   "karsilik": "iki davacıyız"
+  },
+  {
+   "kelime": "بَغَىٰ",
+   "okunus": "beğâ",
+   "kok": "بغي",
+   "kokAnlam": "saldırma, haddi aşma",
+   "karsilik": "saldırdı"
+  },
+  {
+   "kelime": "بَعْضُنَا",
+   "okunus": "ba'dunâ",
+   "kok": "بعض",
+   "kokAnlam": "bazı, biri",
+   "karsilik": "birimiz"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "بَعْضٍ",
+   "okunus": "ba'dın",
+   "kok": "بعض",
+   "kokAnlam": "bazı, biri",
+   "karsilik": "diğerinin"
+  },
+  {
+   "kelime": "فَٱحْكُم",
+   "okunus": "fehküm",
+   "kok": "حكم",
+   "kokAnlam": "hüküm verme",
+   "karsilik": "hükmet"
+  },
+  {
+   "kelime": "بَيْنَنَا",
+   "okunus": "beynenâ",
+   "kok": "بين",
+   "kokAnlam": "ara",
+   "karsilik": "aramızda"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "hak, gerçek",
+   "karsilik": "hakkı ile"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yapma",
+   "karsilik": "ve yapma"
+  },
+  {
+   "kelime": "تُشْطِطْ",
+   "okunus": "tüştıt",
+   "kok": "شطط",
+   "kokAnlam": "aşırı gitme, haksızlık etme",
+   "karsilik": "haksızlık"
+  },
+  {
+   "kelime": "وَٱهْدِنَآ",
+   "okunus": "vehdinâ",
+   "kok": "هدي",
+   "kokAnlam": "doğru yola iletme",
+   "karsilik": "ve bizi ilet"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "سَوَآءِ",
+   "okunus": "sevâi",
+   "kok": "سوي",
+   "kokAnlam": "denk, orta, düzgün",
+   "karsilik": "ortasına"
+  },
+  {
+   "kelime": "ٱلصِّرَٰطِ",
+   "okunus": "essırâtı",
+   "kok": "صرط",
+   "kokAnlam": "yol",
+   "karsilik": "doğru yolun"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayette anlatılan ani girişin Dâvûd'da yarattığı korkuyu ve ardından davacıların onu yatıştırıp durumu açıklamasını anlatır. Davacılar önce 'korkma' diyerek onu rahatlatır, sonra taleplerini bildirirler: aralarında hakkı ile hükmetmesini, haksızlık etmemesini ve kendilerini doğru yolun ortasına, yani dengeli bir sonuca iletmesini isterler.",
+  "'Tüştıt' (haksızlık etme) ve 'sevâis sırât' (yolun ortası/dengesi) ifadeleri, adaletin taraf tutmadan, dengeyi koruyarak uygulanması gerektiğini vurgular. Bu istek, hemen sonraki ayette anlatılacak davanın ne kadar ciddiye alınması gerektiğine dair bir hazırlıktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:58",
+   "meal": "Allah size, emanetleri ehline vermenizi ve insanlar arasında hükmettiğinizde adaletle hükmetmenizi emreder.",
+   "baglanti": "Adaletle hükmetme emri burada da geçer; 38:22'deki 'hakkı ile hükmet' isteği bu genel ilkenin somut bir örneğidir."
+  },
+  {
+   "ref": "5:8",
+   "meal": "Bir topluluğa duyduğunuz kin sizi adaletsizliğe sürüklemesin; adil olun, bu takvaya daha yakındır.",
+   "baglanti": "Taraf tutmadan adil davranma çağrısı burada da vurgulanır; 38:22'deki 'haksızlık etme' isteğiyle aynı ilkeyi paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, iki davacının Dâvûd'dan adil ve dengeli bir hüküm istemesidir.",
+  "Günlük hayata taşınabilecek ders, bir anlaşmazlıkta hakemlik yapan kişinin öncelikle sakin kalması, ardından tarafsızlığını koruyarak dinlemesi gerektiğidir. Bu, iş yerinde, ailede veya arkadaşlar arasında ortaya çıkan küçük anlaşmazlıklarda da geçerli bir ilkedir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sakin kal, sonra dinle",
+   "aciklama": "Bugün bir anlaşmazlığa çağrılırsan, önce sakinleş, sonra dinlemeye başla."
+  },
+  {
+   "baslik": "Taraf tutma",
+   "aciklama": "Bugün bir tartışmada, tanıdığın kişiyi otomatik olarak haklı görmekten kaçın."
+  },
+  {
+   "baslik": "Dengeyi ara",
+   "aciklama": "Bir anlaşmazlıkta bugün her iki tarafın da haklı olabileceği ihtimalini göz önünde bulundur."
+  }
+ ],
+ "bugununAdimi": "Bugün bir anlaşmazlıkta, taraf tutmadan önce her iki tarafı da dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=22"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/38/22"
+  }
+ ]
+}

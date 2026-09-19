@@ -1,0 +1,89 @@
+{
+ "sure": 38,
+ "ayet": 19,
+ "durum": "taslak",
+ "meal": "Kuşları da toplanmış olarak [onun emrine verdik]; hepsi ona [katılıp Allah'a] yönelirdi.",
+ "mealNotu": "'Verdik' ve 'katılıp' ifadeleri önceki ayetten devam eden bağlamı tamamlamak için köşeli parantezle eklendi; ayette tekrar edilmez ama cümle yapısı bunu gerektirir. 'Evvâb' kökü burada da yönelme, dönme anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "وَٱلطَّيْرَ",
+   "okunus": "vet tayra",
+   "kok": "طير",
+   "kokAnlam": "kuş",
+   "karsilik": "kuşları da"
+  },
+  {
+   "kelime": "مَحْشُورَةً",
+   "okunus": "mahşûraten",
+   "kok": "حشر",
+   "kokAnlam": "toplama, bir araya getirme",
+   "karsilik": "toplanmış olarak"
+  },
+  {
+   "kelime": "كُلٌّ",
+   "okunus": "küllün",
+   "kok": "كلل",
+   "kokAnlam": "hepsi, bütün",
+   "karsilik": "hepsi"
+  },
+  {
+   "kelime": "لَّهُۥٓ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "أَوَّابٌ",
+   "okunus": "evvâbün",
+   "kok": "أوب",
+   "kokAnlam": "dönme, yönelme",
+   "karsilik": "yönelirdi"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki 'emrine verdik' bağlamını kuşlarla tamamlar: kuşlar da toplanmış hâlde, Dâvûd ile birlikte tesbihe katılırdı. 'Mahşûraten' (toplanmış) ifadesi, bunun dağınık değil, düzenli bir birliktelik olduğunu gösterir.",
+  "'Evvâb' kelimesinin hem 17. ayette Dâvûd için hem burada kuşlar için kullanılması, tesbih ve yönelişin ortak bir tema olarak kıssayı bağladığını gösterir. Ayet, bu birlikteliğin ayrıntısını değil, sadece gerçekleştiğini bildirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "21:79",
+   "meal": "Davud ile beraber dağları ve kuşları tesbih eder kıldık.",
+   "baglanti": "Kuşların dağlarla birlikte tesbihe katılması burada da aynı şekilde anlatılır."
+  },
+  {
+   "ref": "27:17",
+   "meal": "Süleyman'ın cinlerden, insanlardan ve kuşlardan orduları toplandı; düzenli olarak sevk ediliyorlardı.",
+   "baglanti": "'Haşr' (toplama) kökü burada da geçer; bu kez Dâvûd'un oğlu Süleyman için kuşların toplu hâlde bir araya getirilmesi anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kuşların Dâvûd ile birlikte düzenli biçimde tesbihe katılmasıdır.",
+  "Günlük hayata taşınabilecek ders, ibadetin toplu ve düzenli bir katılımla daha anlamlı olabileceğidir. Yalnız başına değil, bir topluluğun parçası olarak zikir ve ibadete katılmak, kişiye ayrı bir güç verebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Toplu ibadete katıl",
+   "aciklama": "Bugün mümkünse, ibadetini yalnız değil bir topluluğun parçası olarak yap."
+  },
+  {
+   "baslik": "Düzenini koru",
+   "aciklama": "Dağınık değil, düzenli bir günlük ibadet alışkanlığı kurmaya bugün bir adım at."
+  },
+  {
+   "baslik": "Doğayı seyret",
+   "aciklama": "Bugün gökyüzünde uçan kuşları izlerken, bunun da bir tesbih olabileceğini düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün ibadetini, mümkünse yalnız değil bir topluluğun parçası olarak yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=19"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/38/19"
+  }
+ ]
+}

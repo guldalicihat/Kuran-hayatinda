@@ -1,0 +1,117 @@
+{
+ "sure": 38,
+ "ayet": 29,
+ "durum": "taslak",
+ "meal": "[Bu,] sana indirdiğimiz mübarek bir kitaptır; ayetlerini düşünsünler ve akıl sahipleri öğüt alsınlar diye.",
+ "mealNotu": "'[Bu]' ifadesi köşeli parantezle eklendi; ayet doğrudan 'kitâbün' (bir kitap) diyerek başlar, işaret zamiri metinde yoktur ama Türkçede anlaşılır bir başlangıç için eklendi.",
+ "kokler": [
+  {
+   "kelime": "كِتَٰبٌ",
+   "okunus": "kitâbün",
+   "kok": "كتب",
+   "kokAnlam": "kitap, yazı",
+   "karsilik": "bir kitaptır"
+  },
+  {
+   "kelime": "أَنزَلْنَٰهُ",
+   "okunus": "enzelnâhü",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "sana indirdiğimiz"
+  },
+  {
+   "kelime": "إِلَيْكَ",
+   "okunus": "ileyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "مُبَٰرَكٌ",
+   "okunus": "mübârakün",
+   "kok": "برك",
+   "kokAnlam": "bereket, mübarek",
+   "karsilik": "mübarek"
+  },
+  {
+   "kelime": "لِّيَدَّبَّرُوٓا۟",
+   "okunus": "liyeddebberû",
+   "kok": "دبر",
+   "kokAnlam": "düşünme, üzerinde durma",
+   "karsilik": "düşünsünler diye"
+  },
+  {
+   "kelime": "ءَايَٰتِهِۦ",
+   "okunus": "âyâtihî",
+   "kok": "أيي",
+   "kokAnlam": "ayet, işaret",
+   "karsilik": "ayetlerini"
+  },
+  {
+   "kelime": "وَلِيَتَذَكَّرَ",
+   "okunus": "ve liyetezekkera",
+   "kok": "ذكر",
+   "kokAnlam": "öğüt alma, hatırlama",
+   "karsilik": "ve öğüt alsınlar diye"
+  },
+  {
+   "kelime": "أُو۟لُوا۟",
+   "okunus": "ülû",
+   "kok": "—",
+   "kokAnlam": "(sahiplik ismi) sahipleri",
+   "karsilik": "sahipleri"
+  },
+  {
+   "kelime": "ٱلْأَلْبَٰبِ",
+   "okunus": "el'elbâbi",
+   "kok": "لبب",
+   "kokAnlam": "öz, akıl",
+   "karsilik": "akıl"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Kur'an'ın indiriliş amacını açıkça bildirir: ayetlerin üzerinde düşünülmesi ve akıl sahiplerinin öğüt alması. Bu, 38:1'de 'öğüt sahibi Kur'an'a andolsun' ifadesiyle başlayan sureyi, aynı temaya geri döndürerek bir bütünlük oluşturur.",
+  "'Yeddebberû' (düşünsünler) kökü, sadece okumayı değil, üzerinde derinlemesine düşünmeyi anlatır. Ayet, önceki ayetlerde anlatılan kıssaların (Dâvûd'un sınavı, geçmiş kavimlerin helâki) da bu düşünme ve öğüt alma amacına hizmet ettiğini hatırlatır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "47:24",
+   "meal": "Kur'an'ı düşünmüyorlar mı? Yoksa kalpleri kilitli mi?",
+   "baglanti": "Aynı 'tedebbür' (düşünme) kökü burada da geçer; Kur'an üzerinde düşünmemenin bir kalp katılığı olduğu vurgulanır."
+  },
+  {
+   "ref": "4:82",
+   "meal": "Kur'an'ı düşünmüyorlar mı? Eğer o Allah'tan başkası katından olsaydı, onda birçok çelişki bulurlardı.",
+   "baglanti": "Kur'an üzerinde düşünmenin, onun tutarlılığını görmeye de vesile olacağı burada belirtilir; 38:29'daki çağrının bir uzantısıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın düşünülmek ve öğüt alınmak üzere indirildiğidir.",
+  "Günlük hayata taşınabilecek ders, okumanın sadece bir alışkanlık değil, üzerinde düşünülen ve hayata geçirilen bir eylem olması gerektiğidir. Hızlıca geçilen bir okuma, çoğu zaman gerçek öğüdü kaçırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yavaşla ve düşün",
+   "aciklama": "Bugün okuduğun bir ayeti, hızlıca geçmek yerine durup üzerinde bir dakika düşün."
+  },
+  {
+   "baslik": "Bir öğüt çıkar",
+   "aciklama": "Bugün okuduğun bir bölümden, kendine uygulayabileceğin somut bir öğüt belirle."
+  },
+  {
+   "baslik": "Anlamına odaklan",
+   "aciklama": "Bugünkü okumanı, sadece harfleri geçmek değil anlamı kavramak amacıyla yap."
+  }
+ ],
+ "bugununAdimi": "Bugün okuduğun bir ayeti, anlamını düşünerek ve yavaşça tekrar oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=29"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/38/29"
+  }
+ ]
+}

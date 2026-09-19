@@ -1,0 +1,124 @@
+{
+ "sure": 38,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Kendilerinden bir uyarıcının gelmesine şaştılar; inkâr edenler, 'Bu bir büyücüdür, yalancıdır' dediler.",
+ "mealNotu": "'Sâhir' (büyücü) ve 'kezzâb' (çok yalancı) kelimeleri, inkârcıların peygambere yönelttiği iki ayrı suçlamadır; her ikisi de ayrı kelimelerle ayette geçer.",
+ "kokler": [
+  {
+   "kelime": "وَعَجِبُوٓا۟",
+   "okunus": "ve acibû",
+   "kok": "عجب",
+   "kokAnlam": "şaşırma, hayret etme",
+   "karsilik": "şaştılar"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ki",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "جَآءَهُم",
+   "okunus": "câehüm",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "kendilerine geldi"
+  },
+  {
+   "kelime": "مُّنذِرٌ",
+   "okunus": "münzirun",
+   "kok": "نذر",
+   "kokAnlam": "uyarma, uyarıcı",
+   "karsilik": "bir uyarıcının"
+  },
+  {
+   "kelime": "مِّنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) kendilerinden",
+   "karsilik": "kendilerinden"
+  },
+  {
+   "kelime": "وَقَالَ",
+   "okunus": "ve kâle",
+   "kok": "قول",
+   "kokAnlam": "deme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "ٱلْكَٰفِرُونَ",
+   "okunus": "elkâfirûne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; inkâr eden",
+   "karsilik": "inkâr edenler"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "سَٰحِرٌ",
+   "okunus": "sâhirun",
+   "kok": "سحر",
+   "kokAnlam": "büyü, büyücülük",
+   "karsilik": "bir büyücüdür"
+  },
+  {
+   "kelime": "كَذَّابٌ",
+   "okunus": "kezzâbün",
+   "kok": "كذب",
+   "kokAnlam": "yalan, çok yalancı",
+   "karsilik": "yalancıdır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayette anlatılan büyüklenmenin somut bir görünümünü verir: kendilerinden birinin uyarıcı olarak gönderilmesine şaşırmaları. 'Acibû' kökü hayret ve şaşkınlığı anlatır; kendi içlerinden, tanıdıkları birinin peygamber olmasını akıl almaz bulmuşlardır.",
+  "Bu şaşkınlığın ardından iki ayrı suçlama gelir: 'sâhir' (büyücü) ve 'kezzâb' (çok yalancı). Bu, inkârcıların davete karşı delil getirmek yerine doğrudan karalamaya başvurduğunu gösterir; aynı tavır ilerideki ayetlerde de tekrar eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:2",
+   "meal": "İnsanlara, içlerinden bir adama vahyetmemiz mi şaşırtıcı geldi... İnkâr edenler, 'Bu apaçık bir büyücüdür' dediler.",
+   "baglanti": "Neredeyse aynı kalıp: hem şaşkınlık hem 'büyücü' suçlaması burada da birlikte geçer."
+  },
+  {
+   "ref": "34:43",
+   "meal": "İnkâr edenler, hak kendilerine geldiğinde, 'Bu ancak apaçık bir büyüdür' dediler.",
+   "baglanti": "Aynı suçlamanın farklı bir sureye taşınmış hâlidir; delil yerine 'büyü' yaftası vurma tavrı tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, peygamberin kendi toplumundan çıkmasına duyulan şaşkınlık ve ona yöneltilen asılsız suçlamalardır.",
+  "Günlük hayata taşınabilecek ders, tanıdık, sıradan görünen birinden gelen doğru bir sözü, sırf alışılmadık geldiği için hemen reddetmemektir. Kaynağına değil, söylenen söze bakmak daha adil bir değerlendirme sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözü kaynağından ayır",
+   "aciklama": "Bugün birinden duyduğun bir öğüdü, kişiyi değil söylediği şeyin doğruluğunu değerlendirerek dinle."
+  },
+  {
+   "baslik": "Peşin yargını sorgula",
+   "aciklama": "Tanıdık birine karşı önyargılı davrandığın bir konuyu bugün yeniden düşün."
+  },
+  {
+   "baslik": "İftiradan kaçın",
+   "aciklama": "Bugün birine karşı, doğruluğundan emin olmadığın bir suçlamayı tekrar etme."
+  }
+ ],
+ "bugununAdimi": "Bugün, alışılmadık bulduğun ama doğru olabilecek bir sözü, kaynağına takılmadan değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/38/4"
+  }
+ ]
+}

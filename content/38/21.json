@@ -1,0 +1,103 @@
+{
+ "sure": 38,
+ "ayet": 21,
+ "durum": "taslak",
+ "meal": "Davacıların haberi sana geldi mi? Hani onlar duvardan aşıp mihraba girmişlerdi.",
+ "mealNotu": "'Mihrab' burada Dâvûd'un özel olarak ibadet ve hüküm için ayırdığı bir yer olarak anlaşılır. Ayet, davacıların neden duvardan girdiğini açıklamaz; bu ayrıntı eklenmedi.",
+ "kokler": [
+  {
+   "kelime": "وَهَلْ",
+   "okunus": "ve hel",
+   "kok": "—",
+   "kokAnlam": "(soru) mi",
+   "karsilik": "mi"
+  },
+  {
+   "kelime": "أَتَىٰكَ",
+   "okunus": "etâke",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "sana geldi"
+  },
+  {
+   "kelime": "نَبَؤُا۟",
+   "okunus": "nebeü",
+   "kok": "نبأ",
+   "kokAnlam": "haber",
+   "karsilik": "haberi"
+  },
+  {
+   "kelime": "ٱلْخَصْمِ",
+   "okunus": "elhasmi",
+   "kok": "خصم",
+   "kokAnlam": "davacı, çekişen taraf",
+   "karsilik": "davacıların"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "تَسَوَّرُوا۟",
+   "okunus": "tesevverû",
+   "kok": "سور",
+   "kokAnlam": "duvardan tırmanma, aşma",
+   "karsilik": "aşıp girmişlerdi"
+  },
+  {
+   "kelime": "ٱلْمِحْرَابَ",
+   "okunus": "elmihrâbe",
+   "kok": "حرب",
+   "kokAnlam": "mihrab, özel ibadet/hüküm yeri",
+   "karsilik": "mihraba"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Dâvûd'a verilen hikmet ve hüküm yeteneğinin (bkz. 38:20) hemen ardından, onu sınayan bir olayı anlatmaya başlar: iki davacının, alışılmadık biçimde duvardan aşarak onun özel bulunduğu mihraba girmesi. Ayet, bu olağandışı girişin sebebini açıklamaz.",
+  "'Mihrab' kelimesi, Dâvûd'un ibadet ettiği veya hüküm verdiği özel bir mekânı anlatır. Davacıların bu şekilde ani ve beklenmedik girişi, hemen sonraki ayette anlatılan korkusunu da açıklar; sıradan bir dava başvurusu değil, aniden ortaya çıkan bir durumdur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "19:11",
+   "meal": "Zekeriyya mihraptan kavmine çıktı da onlara 'Sabah akşam tesbih edin' diye işaret etti.",
+   "baglanti": "'Mihrab' kelimesi burada da bir peygamberin özel ibadet yeri olarak geçer; kelimenin Kur'an'daki ortak kullanımını gösterir."
+  },
+  {
+   "ref": "3:37",
+   "meal": "Zekeriyya, Meryem'in yanına her mihraba girişinde, onun yanında bir rızık bulurdu.",
+   "baglanti": "Mihraba girme sahnesi burada da geçer; farklı bir bağlamda olsa da aynı mekân kavramını paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, iki davacının Dâvûd'a beklenmedik bir şekilde ulaşmasıdır.",
+  "Günlük hayata taşınabilecek ders, bazı meselelerin hazırlıksız, ani bir anda karşımıza çıkabileceğidir. Böyle anlarda telaşa kapılmadan, meseleyi sakin biçimde ele almaya çalışmak önemlidir; bu ayet, ilerideki ayetlerde bu sınavın nasıl karşılandığını anlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ani meseleye hazırlıklı ol",
+   "aciklama": "Bugün beklenmedik bir talep veya sorunla karşılaşırsan, hemen tepki vermeden bir an dur."
+  },
+  {
+   "baslik": "Kapını aç",
+   "aciklama": "Bugün yardım isteyen birine, vaktin kısıtlı olsa da bir dakikanı ayır."
+  },
+  {
+   "baslik": "Sakinliğini koru",
+   "aciklama": "Beklenmedik bir durumda bugün paniklemeden, önce durumu anlamaya çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün beklenmedik bir talep geldiğinde, hemen tepki vermeden önce bir an dur ve dinle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=21"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/38/21"
+  }
+ ]
+}

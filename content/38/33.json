@@ -1,0 +1,96 @@
+{
+ "sure": 38,
+ "ayet": 33,
+ "durum": "taslak",
+ "meal": "'Onları bana geri getirin' [dedi]. Sonra bacaklarını ve boyunlarını okşamaya/silmeye başladı.",
+ "mealNotu": "'Mesh' kökü temelde silme, elle dokunma, okşama anlamındadır; mealde bu asıl anlam esas alınmıştır. Ancak 'fetafika mesham bis-sûkı vel-a'nâk' ifadesi klasik tefsirlerde farklı yorumlanmıştır: kimi müfessirler bunu atları sevgiyle okşama, kimileri ise farklı bir bağlamda kesme olarak açıklamıştır. Ayet bu ayrıntıyı netleştirmediği için tek bir yorum kesin gibi sunulmamıştır.",
+ "kokler": [
+  {
+   "kelime": "رُدُّوهَا",
+   "okunus": "ruddûhâ",
+   "kok": "ردد",
+   "kokAnlam": "geri döndürme",
+   "karsilik": "onları geri getirin"
+  },
+  {
+   "kelime": "عَلَىَّ",
+   "okunus": "aleyye",
+   "kok": "—",
+   "kokAnlam": "(edat) bana",
+   "karsilik": "bana"
+  },
+  {
+   "kelime": "فَطَفِقَ",
+   "okunus": "fetafika",
+   "kok": "طفق",
+   "kokAnlam": "başlama",
+   "karsilik": "sonra başladı"
+  },
+  {
+   "kelime": "مَسْحًۢا",
+   "okunus": "mesham",
+   "kok": "مسح",
+   "kokAnlam": "silme, okşama, elle dokunma",
+   "karsilik": "okşamaya/silmeye"
+  },
+  {
+   "kelime": "بِٱلسُّوقِ",
+   "okunus": "bis sûkı",
+   "kok": "سوق",
+   "kokAnlam": "bacak, incik",
+   "karsilik": "bacaklarını"
+  },
+  {
+   "kelime": "وَٱلْأَعْنَاقِ",
+   "okunus": "vel a'nâkı",
+   "kok": "عنق",
+   "kokAnlam": "boyun",
+   "karsilik": "ve boyunlarını"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki farkındalığın ardından Süleyman'ın atları geri getirtmesini ve onlarla ilgili bir eylemde bulunmasını anlatır. 'Mesh' kökü, Kur'an'da başka yerlerde (örneğin abdest ayetinde) temelde 'elle dokunma, silme, okşama' anlamında kullanılır; bu yüzden ayetin asıl anlamı bu kök üzerinden verilmiştir.",
+  "Ayetin bu son kısmı ('fetafika mesham bis-sûkı vel-a'nâk') klasik tefsirde farklı biçimlerde yorumlanmıştır; bazı müfessirler bunu atları sevgiyle okşama olarak, bazıları ise farklı bir anlamda açıklamıştır. Kur'an metni bu ayrıntıyı kesin biçimde açmadığı için, burada da tek bir yorum kesinmiş gibi sunulmaz; okuyucunun bunu bir tefsir tartışması olarak bilmesi yeterlidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "5:6",
+   "meal": "Namaza kalktığınızda yüzlerinizi ve dirseklere kadar ellerinizi yıkayın, başlarınızı meshedin (elinizle silin)...",
+   "baglanti": "'Mesh' kökü burada da geçer ve kökün temel anlamının 'elle silme/dokunma' olduğunu gösterir; 38:33'teki kullanımın kök anlamına dayanağı budur."
+  },
+  {
+   "ref": "28:13",
+   "meal": "Böylece onu, gözü aydın olsun diye annesine geri verdik.",
+   "baglanti": "'Redd' (geri verme/döndürme) kökü burada da geçer; 38:33'teki 'ruddûhâ' (onları bana geri getirin) ile aynı köktendir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Süleyman'ın atları geri getirtip onlarla ilgilenmesidir; ayrıntısı kesin biçimde bilinmez.",
+  "Bu ayetten çıkarılabilecek genel ders, bir dalgınlığı fark ettikten sonra pasif kalmayıp hemen bir eylemle karşılık vermektir. Süleyman, önceki ayette fark ettiği durumu, atları geri çağırıp onlarla ilgilenerek ele almıştır; bu, farkındalığı eyleme dönüştürmenin bir örneğidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Farkındalığı eyleme çevir",
+   "aciklama": "Bugün fark ettiğin bir aksaklığı, sadece düşünmekle bırakmayıp somut bir adımla düzelt."
+  },
+  {
+   "baslik": "Sahip çık",
+   "aciklama": "Sorumluluğun altındaki bir varlığa (hayvan, eşya, ilişki) bugün özenle ilgilen."
+  },
+  {
+   "baslik": "Yorum farkına saygı duy",
+   "aciklama": "Bugün emin olmadığın bir konuda, tek bir yorumu kesin doğru gibi sunmaktan kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün, fark ettiğin bir aksaklığı düşünmekle bırakmayıp somut bir adımla düzelt.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=33"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/38/33"
+  }
+ ]
+}

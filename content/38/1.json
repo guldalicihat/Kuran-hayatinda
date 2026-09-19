@@ -1,0 +1,82 @@
+{
+ "sure": 38,
+ "ayet": 1,
+ "durum": "taslak",
+ "meal": "Sâd. Öğüt sahibi Kur'an'a andolsun.",
+ "mealNotu": "'Sâd' bir mukattaa (kesik) harftir; anlamı kesin bilinmediği için çevrilmeden bırakılmıştır. 'Zî-zikr' (zikir/öğüt sahibi) ifadesi Kur'an'ın sıfatıdır; 'öğüt sahibi' bu iki kelimenin doğrudan karşılığıdır, ekleme değildir.",
+ "kokler": [
+  {
+   "kelime": "صٓ",
+   "okunus": "Sâd",
+   "kok": "—",
+   "kokAnlam": "mukattaa; anlamı kesin bilinmeyen kesik harf",
+   "karsilik": "Sâd"
+  },
+  {
+   "kelime": "وَٱلْقُرْءَانِ",
+   "okunus": "vel kur'âni",
+   "kok": "قرأ",
+   "kokAnlam": "okuma, toplama; Kur'an",
+   "karsilik": "Kur'an'a andolsun"
+  },
+  {
+   "kelime": "ذِى",
+   "okunus": "zî",
+   "kok": "—",
+   "kokAnlam": "(sahiplik ismi) sahibi olan",
+   "karsilik": "sahibi"
+  },
+  {
+   "kelime": "ٱلذِّكْرِ",
+   "okunus": "ezzikri",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlatma, öğüt",
+   "karsilik": "öğüdün"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sâd suresi, tek başına okunan 'Sâd' harfiyle açılır; bu, bazı surelerin başında görülen 'hurûf-u mukattaa'dan biridir ve kesin anlamı bilinmez. Hemen ardından Kur'an'a, öğüt ve hatırlatma taşıyan bir kitap olma özelliğiyle yemin edilir. 'Zikir' kökü hem anmayı hem hatırlatıp öğüt vermeyi birlikte taşır.",
+  "Bir yemin cümlesinde asıl vurgu, yemin edilen şeyin değerini öne çıkarmaktır; burada Kur'an'ın öğüt dolu oluşu vurgulanır. Bu açılış, devamında gelen ve müşriklerin büyüklenmesini anlatan ayetlere bir karşıtlık oluşturur: öğüt kitabına karşı büyüklenen bir tavır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "50:1",
+   "meal": "Kâf. Şanlı Kur'an'a andolsun.",
+   "baglanti": "Kâf suresi de aynı üslupla, bir mukattaa harfinden sonra Kur'an'a yemin ederek açılır; Sâd suresiyle aynı kalıp kullanılır."
+  },
+  {
+   "ref": "2:1",
+   "meal": "Elif. Lâm. Mîm.",
+   "baglanti": "Bakara suresinin açılışı da mukattaa harfleriyle başlar; bu, Kur'an'da tekrarlanan bir üsluptur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın öğüt ve hatırlatma kitabı olduğuna dikkat çekmektir; bir hüküm veya kıssa içermez.",
+  "Buradan çıkarılabilecek ders, bir kitabı veya sözü değerlendirirken onun insana ne hatırlattığına, ne öğütlediğine bakmaktır. Sadece bilgi yığını değil, hatırlatıcı ve yön verici bir okuma arayışı, günlük okuma alışkanlığına da taşınabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sâd suresini baştan dinle",
+   "aciklama": "Bugün Sâd suresinin ilk sayfasını, anlamına dikkat ederek bir kez dinle veya oku."
+  },
+  {
+   "baslik": "Bir öğüt not et",
+   "aciklama": "Bugün okuduğun bir ayetten kendine tek cümlelik bir öğüt çıkar ve yazıya geçir."
+  },
+  {
+   "baslik": "Bilmediğini kabul et",
+   "aciklama": "Tam bilmediğin bir konuda bugün kesin konuşmak yerine 'bilmiyorum' demeyi dene."
+  }
+ ],
+ "bugununAdimi": "Bugün Sâd suresinin ilk on ayetini açıp okuyarak güne başla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=1"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/38/1"
+  }
+ ]
+}

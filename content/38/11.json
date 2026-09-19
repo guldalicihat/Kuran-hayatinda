@@ -1,0 +1,96 @@
+{
+ "sure": 38,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "Onlar da, [geçmişteki] o gruplardan, orada bozguna uğratılacak bir ordudur.",
+ "mealNotu": "'Ahzâb' kökü gruplar, hizipler anlamına gelir ve az sonraki ayetlerde sayılan geçmiş yalanlayıcı toplumlara işaret eder. 'Geçmişteki' ifadesi köşeli parantezle eklendi; ayet doğrudan söylemez ama bağlamdan anlaşılır.",
+ "kokler": [
+  {
+   "kelime": "جُندٌ",
+   "okunus": "cündün",
+   "kok": "جند",
+   "kokAnlam": "asker, ordu",
+   "karsilik": "bir ordudur"
+  },
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) olan",
+   "karsilik": "olan"
+  },
+  {
+   "kelime": "هُنَالِكَ",
+   "okunus": "hünâlike",
+   "kok": "—",
+   "kokAnlam": "(yer) işte orada",
+   "karsilik": "işte orada"
+  },
+  {
+   "kelime": "مَهْزُومٌ",
+   "okunus": "mehzûmün",
+   "kok": "هزم",
+   "kokAnlam": "bozguna uğratma",
+   "karsilik": "bozguna uğratılacak"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْأَحْزَابِ",
+   "okunus": "el'ahzâbi",
+   "kok": "حزب",
+   "kokAnlam": "grup, topluluk, hizip",
+   "karsilik": "o gruplardan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu kısa ayet, Mekkeli müşrikleri, ilerideki ayetlerde sayılacak geçmiş yalanlayıcı toplumlarla ('ahzâb') aynı kategoriye yerleştirir. Onlar da o gruplardan biridir ve sonunda bozguna uğrayacaktır. 'Hünâlike' (işte orada) ifadesi, bu akıbetin kesinliğine vurgu yapar.",
+  "Ayet, büyüklenmenin ve inadın sonunda değişmeyen bir sonuca vardığını hatırlatır: geçmişte yalanlayan toplumlar nasıl bozguna uğradıysa, aynı tavrı sürdürenler de aynı akıbeti paylaşacaktır. Bu, sonraki ayetlerde sıralanan kıssalara bir geçiş cümlesidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "54:45",
+   "meal": "O topluluk yakında bozguna uğratılacak ve arkalarını dönüp kaçacaklardır.",
+   "baglanti": "Aynı 'hezm' (bozguna uğratma) kökü burada da geçer; Mekkeli müşriklerin akıbetine dair benzer bir haber verir."
+  },
+  {
+   "ref": "33:20",
+   "meal": "O grupların gitmediğini sanırlar; eğer o gruplar yine gelecek olsa...",
+   "baglanti": "'Ahzâb' kelimesi burada da aynı şekilde düşman gruplarını anlatır; kökün Kur'an'daki kullanım alanını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, inkârcı toplumların akıbetinin geçmiş örneklerle aynı olacağıdır.",
+  "Günlük hayata taşınabilecek ders, yanlış bir tutumda ısrar etmenin, tarih boyunca aynı sonuçla karşılaştığını bilmektir. Aynı hatayı tekrar eden kişi, aynı sonucu beklemelidir; bu farkındalık, ısrarcı bir yanlıştan dönmeye vesile olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tekrar eden hatayı gör",
+   "aciklama": "Bugün, geçmişte de kötü sonuç verdiğini bildiğin bir davranışı tekrarlamaktan vazgeç."
+  },
+  {
+   "baslik": "Sondan önce dur",
+   "aciklama": "Israrla sürdürdüğün bir tartışmada, bugün geri adım atmanın kaybetmek olmadığını hatırla."
+  },
+  {
+   "baslik": "Örnekten ders çıkar",
+   "aciklama": "Bugün, başkalarının benzer hatalardan nasıl zarar gördüğünü düşünüp kendi payına ders çıkar."
+  }
+ ],
+ "bugununAdimi": "Bugün, geçmişte kötü sonuçlandığını bildiğin bir tutumu tekrar etmekten vazgeç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/38/11"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "sure": 38,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Onlardan önce Nûh kavmi, Âd ve kazıklar sahibi Firavun da yalanladı.",
+ "mealNotu": "'Zul evtâd' (kazıklar sahibi) ifadesinin tam olarak neye işaret ettiği (ordu gücü, işkence aletleri veya başka bir şey) klasik tefsirde tartışmalıdır; burada kesin bir yorum eklenmeden ayetin kendi ifadesiyle bırakıldı.",
+ "kokler": [
+  {
+   "kelime": "كَذَّبَتْ",
+   "okunus": "kezzebet",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanladı"
+  },
+  {
+   "kelime": "قَبْلَهُمْ",
+   "okunus": "kablehüm",
+   "kok": "قبل",
+   "kokAnlam": "önce",
+   "karsilik": "onlardan önce"
+  },
+  {
+   "kelime": "قَوْمُ",
+   "okunus": "kavmü",
+   "kok": "قوم",
+   "kokAnlam": "kavim, topluluk",
+   "karsilik": "kavmi"
+  },
+  {
+   "kelime": "نُوحٍ",
+   "okunus": "nûhin",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Nûh",
+   "karsilik": "Nûh"
+  },
+  {
+   "kelime": "وَعَادٌ",
+   "okunus": "ve âdün",
+   "kok": "عود",
+   "kokAnlam": "(özel isim) Âd kavmi",
+   "karsilik": "ve Âd"
+  },
+  {
+   "kelime": "وَفِرْعَوْنُ",
+   "okunus": "ve fir'avnü",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Firavun",
+   "karsilik": "ve Firavun"
+  },
+  {
+   "kelime": "ذُو",
+   "okunus": "zû",
+   "kok": "—",
+   "kokAnlam": "(sahiplik ismi) sahibi",
+   "karsilik": "sahibi"
+  },
+  {
+   "kelime": "ٱلْأَوْتَادِ",
+   "okunus": "el'evtâdi",
+   "kok": "وتد",
+   "kokAnlam": "kazık, direk",
+   "karsilik": "kazıklar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayetle birlikte, önceki ayette değinilen 'gruplar' tek tek sayılmaya başlanır. Nûh kavmi, Âd kavmi ve 'kazıklar sahibi' diye anılan Firavun, kendilerine gelen peygamberleri yalanlayan geçmiş toplumlardır. Bu liste, sonraki ayette Semûd, Lût kavmi ve Eyke halkıyla devam eder.",
+  "'Zul evtâd' ifadesi klasik tefsirde farklı şekillerde açıklanmıştır; kimileri bunu Firavun'un güçlü ordusuna, kimileri başka bir anlama bağlamıştır. Ayet bu ayrıntıyı açmadığı için, burada da kesin bir yorum eklenmez; asıl vurgu, gücüne rağmen Firavun'un da yalanlayıp helâk edilenler arasında sayılmasıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "50:12",
+   "meal": "Onlardan önce Nûh kavmi, Res halkı ve Semûd da yalanladı.",
+   "baglanti": "Kaf suresinde de benzer bir yalanlayıcı kavimler listesi verilir; aynı üslup tekrarlanır."
+  },
+  {
+   "ref": "89:10",
+   "meal": "Ve kazıklar sahibi Firavun'u da.",
+   "baglanti": "'Zul evtâd' (kazıklar sahibi) ifadesi burada aynen tekrar eder; Firavun'un Kur'an'daki sabit bir sıfatı olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, geçmiş toplumların peygamberleri yalanlamasıdır; tarihsel bir hatırlatmadır.",
+  "Günlük hayata taşınabilecek ders, güç ve saltanatın tek başına bir toplumu veya kişiyi doğru yoldan koruyamayacağıdır. Firavun'un gücü, yalanlamasının sonucunu değiştirmemiştir; bu, gücün doğruluğun ölçüsü olmadığını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gücü doğruluk sanma",
+   "aciklama": "Bugün, güçlü veya başarılı görünen birinin her sözünü sorgusuz doğru kabul etmekten kaçın."
+  },
+  {
+   "baslik": "Tarihten ders çıkar",
+   "aciklama": "Geçmişte yanlış yapan güçlü kişilerin akıbetini bugün bir kez düşün."
+  },
+  {
+   "baslik": "Kendi gücünü test et",
+   "aciklama": "Bugün sahip olduğun bir imkânı, kibirlenmeden nasıl kullandığını gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün, güçlü veya başarılı birinin sözünü sorgusuz kabul etmek yerine bir kez düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/38/12"
+  }
+ ]
+}

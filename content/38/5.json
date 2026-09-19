@@ -1,0 +1,110 @@
+{
+ "sure": 38,
+ "ayet": 5,
+ "durum": "taslak",
+ "meal": "İlahları tek bir ilah mı yaptı? Doğrusu bu, şaşılacak bir şeydir.",
+ "mealNotu": "Bu, müşriklerin kendi sözlerinin aktarımıdır; tevhid çağrısına duydukları şaşkınlığı dile getirirler. 'Ucâb' kökü olağanüstü, çok şaşırtıcı anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "أَجَعَلَ",
+   "okunus": "eceale",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "mi yaptı"
+  },
+  {
+   "kelime": "ٱلْءَالِهَةَ",
+   "okunus": "el'âlihete",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "ilahları"
+  },
+  {
+   "kelime": "إِلَٰهًا",
+   "okunus": "ilâhen",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah",
+   "karsilik": "bir ilah"
+  },
+  {
+   "kelime": "وَٰحِدًا",
+   "okunus": "vâhiden",
+   "kok": "وحد",
+   "kokAnlam": "bir, tek",
+   "karsilik": "tek"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "doğrusu"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "لَشَىْءٌ",
+   "okunus": "leşey'ün",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "bir şeydir"
+  },
+  {
+   "kelime": "عُجَابٌ",
+   "okunus": "ucâbün",
+   "kok": "عجب",
+   "kokAnlam": "şaşırtıcı, olağanüstü",
+   "karsilik": "şaşılacak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, müşriklerin tevhid çağrısı karşısındaki tepkisini kendi ağızlarından aktarır. Onlara göre birçok ilaha tapınmak alışılmış bir düzendir; tek bir ilaha çağrılmak ise akıl almaz, şaşırtıcı bir iddiadır. 'Ucâb' kökü, sıradan şaşkınlığın ötesinde olağanüstü bulunan bir şeyi anlatır.",
+  "Ayet, onların bu tepkisini onaylamadan, doğrudan aktararak bir tutarsızlığı ortaya koyar: birçok farklı, sınırlı ilaha inanmak onlara normal gelirken, tek ve sınırsız bir ilah fikri şaşırtıcı bulunur. Bu, tevhid çağrısına karşı zihinsel bir direnci gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "37:35",
+   "meal": "Onlara 'Allah'tan başka ilah yoktur' dendiğinde büyüklük taslarlardı.",
+   "baglanti": "Aynı tevhid çağrısına karşı gösterilen büyüklenme burada da görülür; 38:5'teki şaşkınlık, bu büyüklenmenin bir başka yüzüdür."
+  },
+  {
+   "ref": "43:45",
+   "meal": "Senden önce gönderdiğimiz elçilerimize sor: Rahmân'dan başka ibadet edilecek ilahlar kıldık mı?",
+   "baglanti": "Bütün peygamberlerin ortak çağrısının tek ilah olduğunu hatırlatarak, 38:5'teki itirazın aslında yeni bir şey olmadığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu tevhid inancına yöneltilen bir itirazdır; günlük bir hüküm içermez.",
+  "Buradan çıkarılabilecek ders, alışılmışın dışında bir doğruyu, sadece alışılmadık geldiği için 'akıl almaz' diye reddetmemektir. Yeni bir bakış açısını hemen yadırgamak yerine, önce üzerinde düşünmek daha sağlıklı bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Alışkanlığını sorgula",
+   "aciklama": "Bugün sadece alıştığın için doğru kabul ettiğin bir fikri, yeniden düşün."
+  },
+  {
+   "baslik": "Basit olanı küçümseme",
+   "aciklama": "Bugün karşılaştığın sade ve tutarlı bir açıklamayı, karmaşık değil diye hemen reddetme."
+  },
+  {
+   "baslik": "Şaşkınlığını erteme",
+   "aciklama": "Anlamadığın bir konuda hemen tepki vermek yerine bugün önce sor, sonra değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün, ilk anda garip bulduğun bir fikri hemen reddetmeden bir kez daha düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=5"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/38/5"
+  }
+ ]
+}

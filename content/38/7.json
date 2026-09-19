@@ -1,0 +1,124 @@
+{
+ "sure": 38,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Bunu son dinde (kendi bildiğimiz dinde) işitmedik; bu ancak bir uydurmadır.",
+ "mealNotu": "'El-milletil âhıra' ifadesi burada 'son/bildiğimiz din' olarak çevrildi; hangi dine işaret ettiği ayette açıklanmaz, bu yüzden ek bir iddia yapılmadı. 'İhtilâk' kökü, uydurma ve icat etme anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "سَمِعْنَا",
+   "okunus": "semi'nâ",
+   "kok": "سمع",
+   "kokAnlam": "işitme, duyma",
+   "karsilik": "işitmedik"
+  },
+  {
+   "kelime": "بِهَٰذَا",
+   "okunus": "bihâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunu",
+   "karsilik": "bunu"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "ٱلْمِلَّةِ",
+   "okunus": "elmilleti",
+   "kok": "ملل",
+   "kokAnlam": "din, topluluk yolu",
+   "karsilik": "dinde"
+  },
+  {
+   "kelime": "ٱلْءَاخِرَةِ",
+   "okunus": "el'âhırati",
+   "kok": "أخر",
+   "kokAnlam": "son, sonraki",
+   "karsilik": "son"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "هَٰذَآ",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ٱخْتِلَٰقٌ",
+   "okunus": "ihtilâkun",
+   "kok": "خلق",
+   "kokAnlam": "yaratma; mecazen uydurma",
+   "karsilik": "bir uydurmadır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Toplumun ileri gelenleri, tevhid çağrısını reddederken kendi bildikleri gelenekten farklı olmasını gerekçe gösterirler: 'Bunu son dinde işitmedik.' Bu söz, onların dini doğru veya yanlışlığıyla değil, alışkanlığa uygunluğuyla değerlendirdiğini gösterir.",
+  "'İhtilâk' kökü aslında yaratma kökünden gelir; burada mecazi olarak 'yoktan uydurma, icat etme' anlamında kullanılır. Onlara göre bu çağrı, Peygamber'in kendi uydurduğu bir sözdür; ayet bu iddiayı aktarır, doğrulamaz."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "21:5",
+   "meal": "Hayır, dediler, bunlar karışık düşlerdir; hayır, onu kendisi uydurdu; hayır o bir şairdir.",
+   "baglanti": "Aynı 'uydurma' suçlaması burada farklı gerekçelerle tekrarlanır; inkârcıların ortak bir savunma kalıbı olduğunu gösterir."
+  },
+  {
+   "ref": "16:24",
+   "meal": "Onlara 'Rabbiniz ne indirdi?' denildiğinde, 'Öncekilerin masallarıdır' dediler.",
+   "baglanti": "Vahyi 'yeni ve yabancı' bularak reddetme tavrı burada da görülür; 38:7'deki 'son dinde işitmedik' sözüyle aynı mantığı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, müşriklerin tevhid çağrısını alışılmadık bulup reddetmesidir.",
+  "Günlük hayata taşınabilecek ders, bir fikri sadece 'daha önce duymadım' diye 'uydurma' ilan etmenin sağlıklı bir değerlendirme olmadığıdır. Yeni bir bilgiyi kaynağına ve içeriğine bakmadan reddetmek, aynı kapalı zihniyeti tekrar eder."
+ ],
+ "bugun": [
+  {
+   "baslik": "Yeniliği hemen reddetme",
+   "aciklama": "Bugün ilk kez duyduğun bir fikri, tanıdık olmadığı için değil, içeriğine bakarak değerlendir."
+  },
+  {
+   "baslik": "Kaynağı araştır",
+   "aciklama": "'Bu uydurma' dediğin bir bilgiyi bugün gerçekten araştırıp doğrula."
+  },
+  {
+   "baslik": "Alışkanlığını gerekçe yapma",
+   "aciklama": "Bir değişikliğe sadece 'böyle bilmezdim' diyerek karşı çıkmak yerine bugün nedenini düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün, ilk anda yabancı bulduğun bir bilgiyi araştırmadan reddetme.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/38/7"
+  }
+ ]
+}

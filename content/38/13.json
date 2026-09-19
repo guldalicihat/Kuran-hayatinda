@@ -1,0 +1,103 @@
+{
+ "sure": 38,
+ "ayet": 13,
+ "durum": "taslak",
+ "meal": "Semûd, Lût kavmi ve Eyke halkı da (yalanladı); işte onlar, o gruplardır.",
+ "mealNotu": "Fiil ('yalanladı') önceki ayetten devam eder, bu yüzden köşeli parantezle değil doğrudan bağlaç olarak aktarıldı; ayette tekrar edilmez ama cümle yapısı gereği anlaşılır.",
+ "kokler": [
+  {
+   "kelime": "وَثَمُودُ",
+   "okunus": "ve semûdü",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Semûd kavmi",
+   "karsilik": "Semûd"
+  },
+  {
+   "kelime": "وَقَوْمُ",
+   "okunus": "ve kavmü",
+   "kok": "قوم",
+   "kokAnlam": "kavim, topluluk",
+   "karsilik": "ve kavmi"
+  },
+  {
+   "kelime": "لُوطٍ",
+   "okunus": "lûtın",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Lût",
+   "karsilik": "Lût'un"
+  },
+  {
+   "kelime": "وَأَصْحَٰبُ",
+   "okunus": "ve ashâbü",
+   "kok": "صحب",
+   "kokAnlam": "halk, arkadaş, ashab",
+   "karsilik": "ve halkı"
+  },
+  {
+   "kelime": "لْـَٔيْكَةِ",
+   "okunus": "l'eyketi",
+   "kok": "—",
+   "kokAnlam": "(yer adı) Eyke",
+   "karsilik": "Eyke"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "ٱلْأَحْزَابُ",
+   "okunus": "el'ahzâbü",
+   "kok": "حزب",
+   "kokAnlam": "grup, topluluk, hizip",
+   "karsilik": "o gruplardır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayette başlayan yalanlayıcı kavimler listesini tamamlar: Semûd, Lût kavmi ve Eyke halkı. Cümle, 'işte onlar o gruplardır' diyerek 38:11'deki 'ahzâb' (gruplar) ifadesine geri döner ve listeyi kapatır.",
+  "Bu altı toplumun (Nûh, Âd, Firavun, Semûd, Lût kavmi, Eyke halkı) ortak noktası, farklı zamanlarda ve yerlerde yaşamalarına rağmen aynı tavrı sergilemeleridir: kendilerine gelen uyarıyı yalanlamak. Bu, Mekkeli müşriklerin tavrının da yeni veya özgün olmadığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:176",
+   "meal": "Eyke halkı da gönderilen peygamberleri yalanladı.",
+   "baglanti": "Eyke halkının yalanlaması, Şuarâ suresinde ayrı bir kıssa olarak da anlatılır; burada özetle anılır."
+  },
+  {
+   "ref": "15:80",
+   "meal": "Andolsun, Hicr halkı da gönderilenleri yalanladı.",
+   "baglanti": "Semûd kavminin yaşadığı Hicr bölgesi, benzer bir yalanlayıcı kavim örneği olarak başka bir surede tekrar geçer."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, farklı geçmiş toplumların ortak biçimde peygamberlerini yalanlamasıdır.",
+  "Günlük hayata taşınabilecek ders, yanlış bir tutumun zaman ve mekân değişse de tekrar edebileceğidir. Bir hatanın 'herkes yapıyor, hep böyle olmuş' diye normalleşmesi, bu tekrarın bir sonucudur; bu döngüyü fark etmek, ondan çıkmanın ilk adımıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Döngüyü fark et",
+   "aciklama": "Bugün, çevrende tekrar eden ama yanlış olduğunu bildiğin bir tutumu adını koyarak fark et."
+  },
+  {
+   "baslik": "Çoğunluğa güvenme",
+   "aciklama": "'Herkes böyle yapıyor' dediğin bir davranışı bugün tekrar sorgula."
+  },
+  {
+   "baslik": "Farklı örnekten öğren",
+   "aciklama": "Bugün, birbirinden bağımsız farklı örneklerin aynı hataya düştüğünü gördüğünde, kendi payına ders çıkar."
+  }
+ ],
+ "bugununAdimi": "Bugün, 'herkes böyle yapıyor' diye sürdürdüğün bir davranışı bir kez sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=38&verse=13"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/38/13"
+  }
+ ]
+}
