@@ -1,0 +1,82 @@
+{
+ "sure": 52,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "Onu geri çevirecek hiç kimse yoktur.",
+ "mealNotu": "'Dâfi'' kökü, bir şeyi itip engellemeyi, geri çevirmeyi anlatır. Ayet, önceki ayetteki azabın hiçbir güç tarafından durdurulamayacağını bildirir.",
+ "kokler": [
+  {
+   "kelime": "مَّا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "لَهُۥ",
+   "okunus": "lehû",
+   "kok": "—",
+   "kokAnlam": "ona ait/onun için",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den, hiçbir",
+   "karsilik": "hiç"
+  },
+  {
+   "kelime": "دَافِعٍ",
+   "okunus": "dâfiin",
+   "kok": "دفع",
+   "kokAnlam": "itme, engelleme, geri çevirme",
+   "karsilik": "geri çevirecek kimse"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayette bildirilen 'Rabbinin azabı kesinlikle gerçekleşecektir' sözünü tamamlar: o azabı hiç kimse geri çeviremez, engelleyemez. 'Dâfi'' kelimesi, itip savuşturma anlamı taşır; yani ne bir aracı ne bir güç, gerçekleşecek olanı durduramaz.",
+  "Bu iki ayet birlikte, hem azabın kesinliğini hem de kaçınılmazlığını vurgular. Kesin olan bir şey, aynı zamanda önlenemezse, insanın tek yapabileceği ona hazırlanmaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "70:1",
+   "meal": "Bir isteyen, kâfirler için [ki onu] geri çevirecek kimse olmayan, gerçekleşecek bir azabı istedi.",
+   "baglanti": "Meâric suresi de aynı 'dâfi'' kelimesini ve aynı 'vâkı'' kökünü kullanarak neredeyse birebir aynı ifadeyi tekrarlar; azabın hem kesin hem de önlenemez olduğunu vurgular."
+  },
+  {
+   "ref": "13:34",
+   "meal": "Onlara dünya hayatında azap vardır; ahiret azabı ise daha ağırdır. Onları Allah'tan koruyacak kimse yoktur.",
+   "baglanti": "Ra'd suresi de benzer biçimde, kimsenin Allah'ın hükmüne karşı koruyucu olamayacağını anlatır; 'geri çevirecek kimse yok' fikri burada 'koruyacak kimse yok' olarak tekrarlanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, gerçekleşecek olan azabı hiçbir gücün engelleyemeyeceğidir. Bu, insanın kaçabileceği bir sığınak olmadığını anlatır.",
+  "Günlük hayatta insan bazen 'bir yolunu bulurum' diyerek sonuçlardan kaçmayı umar. Bu ayet, bazı sonuçların kaçınılmaz olduğunu ve tek çarenin önceden doğru davranmak olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaçışı bırak",
+   "aciklama": "Bugün bir sorumluluktan kaçmak yerine onunla yüzleş."
+  },
+  {
+   "baslik": "Hazırlığını yap",
+   "aciklama": "Bugün önleyemeyeceğin bir sonuç için, ondan önce yapman gerekeni yap."
+  },
+  {
+   "baslik": "Gerçekçi ol",
+   "aciklama": "Bugün 'nasılsa bir çıkış yolu bulurum' dediğin bir konuda kendinle dürüst konuş."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir sorumluluğu üstlenerek ilk adımı at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/52/8"
+  }
+ ]
+}

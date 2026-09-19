@@ -1,0 +1,68 @@
+{
+ "sure": 52,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "satır satır yazılmış bir Kitab'a,",
+ "mealNotu": "'Kitab' kökü yazılı bir şeyi, 'mestûr' kökü ise satır satır, düzenli biçimde yazılmış olmayı anlatır. Bu Kitab'ın hangi kitap olduğu ayette açıkça belirtilmez.",
+ "kokler": [
+  {
+   "kelime": "وَكِتَٰبٍ",
+   "okunus": "ve kitâbin",
+   "kok": "كتب",
+   "kokAnlam": "yazma, yazılı şey, kayıt",
+   "karsilik": "bir Kitab'a"
+  },
+  {
+   "kelime": "مَّسْطُورٍ",
+   "okunus": "mestûrin",
+   "kok": "سطر",
+   "kokAnlam": "satır satır yazma, düzenli dizme",
+   "karsilik": "satır satır yazılmış"
+  }
+ ],
+ "neAnlatiyor": [
+  "İkinci yemin, 'satır satır yazılmış bir Kitab'a' andolsun der. Bu Kitab'ın ne olduğu ayette açıkça söylenmez; klasik tefsir bunu vahiy, Levh-i Mahfûz veya insanların amel defteri gibi ihtimallerle açıklar. 'Mestûr' kelimesi, düzenli ve satır satır yazılmış olmayı vurgular; rastgele değil, tertipli bir yazımı anlatır.",
+  "Yazılı bir kitaba yemin edilmesi, sözün kalıcılığına işaret eder. Sözlü bir söz unutulabilir, ama yazılan bir şey kalır ve tekrar okunabilir. Bu, sonraki ayette gelen 'yayılmış bir sayfa' vurgusuyla birlikte okunduğunda, vahyin herkese açık ve erişilebilir olduğu fikrini güçlendirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "85:22",
+   "meal": "O, levh-i mahfûzdadır.",
+   "baglanti": "Burûc suresi de vahyi, korunmuş ve yazılı bir kayıtla ('levh-i mahfûz') ilişkilendirir; 'kitâbim mestûr' ifadesiyle aynı düzenli yazım fikrini taşır."
+  },
+  {
+   "ref": "50:4",
+   "meal": "Yerin onlardan neyi eksilttiğini elbette biliyoruz; katımızda [her şeyi] koruyan bir kitap vardır.",
+   "baglanti": "Kaf suresi de katında yazılı, koruyucu bir kitaptan söz eder; bu, 'mestûr' kelimesindeki düzenli kayıt fikrine yakındır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, düzenli biçimde yazılmış bir kitaba yemin edilmesidir. Bu, sözün geçici değil kalıcı, gelişigüzel değil düzenli olduğunu vurgular.",
+  "Günlük hayatta yazılı kayıt tutmak, sözlü söze göre daha güvenilir kabul edilir. Bu ayet, önemli olanın yazıya geçirilip korunduğunu hatırlatır; insan da hayatındaki önemli sözleri ve kararları kalıcı kılmaya özen gösterebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önemli bir notu yaz",
+   "aciklama": "Bugün unutmak istemediğin bir düşünceyi veya kararı yazıya geç."
+  },
+  {
+   "baslik": "Yazılanı düzenle",
+   "aciklama": "Bugün dağınık duran bir notunu veya listeni düzenli, satır satır bir hale getir."
+  },
+  {
+   "baslik": "Kayıt bilincini hatırla",
+   "aciklama": "Bugün yaptığın bir işin bir gün karşına yazılı gibi çıkacağını düşünerek özenli davran."
+  }
+ ],
+ "bugununAdimi": "Bugün önemli bir düşünceni veya kararını yazıya geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/52/2"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "sure": 52,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "yayılmış/açılmış bir sayfada,",
+ "mealNotu": "'Rakk' kökü ince deri veya kâğıttan yapılmış bir sayfayı, 'menşûr' kökü ise açılmış, serilmiş olmayı anlatır. Bu ayet, bir önceki ayetteki 'Kitab'ı nitelendirir.",
+ "kokler": [
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde, üzerinde",
+   "karsilik": "[yazılı]"
+  },
+  {
+   "kelime": "رَقٍّ",
+   "okunus": "rakkın",
+   "kok": "رقق",
+   "kokAnlam": "ince deri/kâğıttan sayfa, parşömen",
+   "karsilik": "bir sayfada"
+  },
+  {
+   "kelime": "مَّنشُورٍ",
+   "okunus": "menşûrin",
+   "kok": "نشر",
+   "kokAnlam": "yayma, serme, açma",
+   "karsilik": "yayılmış/açılmış"
+  }
+ ],
+ "neAnlatiyor": [
+  "Üçüncü ayet, ikinci ayetteki 'satır satır yazılmış Kitab'ı' tamamlar: o Kitap, 'rakk' denilen ince bir sayfa üzerinde, 'menşûr' yani açılmış, serilmiş haldedir. 'Menşûr' kelimesi, bir şeyin saklı veya kapalı değil, okunmaya hazır biçimde ortada olduğunu anlatır.",
+  "Bir metnin kapalı bir sandıkta değil, açık bir sayfada olması, onun okunmak, ulaşılmak için var olduğunu gösterir. Bu ayet, vahyin gizli bir sır değil, herkese ulaşması istenen açık bir çağrı olduğu fikrini pekiştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "81:10",
+   "meal": "Sayfalar açıldığında,",
+   "baglanti": "Tekvîr suresindeki bu ifade, aynı 'neşr' (yayma/açma) kökünü taşır; kıyamet gününde amel sayfalarının açılmasıyla burada anlatılan 'yayılmış sayfa' imgesi birbirini tamamlar."
+  },
+  {
+   "ref": "74:52",
+   "meal": "Hayır! Onlardan her biri kendisine açılmış sayfalar verilmesini ister.",
+   "baglanti": "Müddessir suresi de aynı kökten 'müneşşer' (açılmış) kelimesini kullanır; insanların açık, kendilerine özel bir yazı istemesi burada vurgulanan açıklık temasıyla ilişkilidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, önceki ayetteki Kitab'ın açık, serili bir sayfada olmasıdır. Bu, o yazının okunmaya hazır ve erişilebilir olduğunu anlatır.",
+  "Günlük hayatta bir bilgiyi saklamak yerine paylaşmak, onu 'açık' kılmak demektir. Bu ayet, doğru ve önemli bir sözün gizlenmeyip açıkça ortaya konması gerektiğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir bilgiyi paylaş",
+   "aciklama": "Bugün öğrendiğin faydalı bir şeyi, saklamadan bir kişiyle paylaş."
+  },
+  {
+   "baslik": "Açık ol",
+   "aciklama": "Bugün bir konuda net ve açık konuş, üstü kapalı ifadeler kullanma."
+  },
+  {
+   "baslik": "Okumaya vakit ayır",
+   "aciklama": "Bugün elindeki açık, okunmaya hazır bir kaynağı (Kur'an meali gibi) birkaç dakika oku."
+  }
+ ],
+ "bugununAdimi": "Bugün Kur'an'dan bir sayfa aç ve dikkatle oku.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/52/3"
+  }
+ ]
+}

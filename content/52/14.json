@@ -1,0 +1,96 @@
+{
+ "sure": 52,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "İşte bu, yalanlamakta olduğunuz ateştir.",
+ "mealNotu": "Ayet, 13. ayette anlatılan itilme sahnesinin ardından, cehennem ehline söylenen bir sözü aktarır. 'Küntüm tükezzibûn' ifadesi, süreklilik bildiren bir kalıptır.",
+ "kokler": [
+  {
+   "kelime": "هَٰذِهِ",
+   "okunus": "hâzihi",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri (bu)",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "ٱلنَّارُ",
+   "okunus": "ennâru",
+   "kok": "نور",
+   "kokAnlam": "ateş",
+   "karsilik": "ateştir"
+  },
+  {
+   "kelime": "ٱلَّتِى",
+   "okunus": "elletî",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri (ki)",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "كُنتُم",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma fiili",
+   "karsilik": "-diniz"
+  },
+  {
+   "kelime": "بِهَا",
+   "okunus": "bihâ",
+   "kok": "—",
+   "kokAnlam": "onu (zamir)",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "تُكَذِّبُونَ",
+   "okunus": "tükezzibûne",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanlıyor"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, cehenneme itilenlere söylenen bir hitabı aktarır: 'İşte bu, yalanlamakta olduğunuz ateştir.' Dünyada inkâr ettikleri, alay ettikleri şey, artık gözlerinin önünde somut bir gerçek olarak durmaktadır.",
+  "Bu ifade, inkârın sonucuyla yüzleşme anını anlatır. Söz, suçlayıcı değil, yalnızca bir gerçeği hatırlatıcıdır: sizin yalanladığınız şey buydu."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "83:17",
+   "meal": "Sonra da, 'İşte yalanlamakta olduğunuz şey budur' denir.",
+   "baglanti": "Mutaffifîn suresinde neredeyse birebir aynı ifade geçer; bu, Kur'an'ın farklı surelerinde tekrar eden bir yüzleşme sahnesidir."
+  },
+  {
+   "ref": "77:29",
+   "meal": "Yalanlamakta olduğunuz şeye gidin.",
+   "baglanti": "Mürselât suresi de benzer bir hitapla, inkârcıları yalanladıkları şeyle yüzleştirir; ifade farklı olsa da sahne aynıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dünyada inkâr edilen bir gerçeğin ahirette somut biçimde karşılaşılmasıdır.",
+  "Günlük hayatta bir uyarıyı 'olmaz öyle şey' diyerek geçiştirmek kolaydır. Bu ayet, geçiştirilen bir gerçeğin bir gün karşımıza tüm açıklığıyla çıkabileceğini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geçiştirmeyi bırak",
+   "aciklama": "Bugün 'olmaz öyle şey' diyerek geçiştirdiğin bir uyarıyı yeniden düşün."
+  },
+  {
+   "baslik": "Yüzleşmeyi göze al",
+   "aciklama": "Bugün kaçındığın bir gerçekle, kendinle dürüstçe yüzleş."
+  },
+  {
+   "baslik": "İnancını tazele",
+   "aciklama": "Bugün ahiretin bir gün somut biçimde karşına çıkacağını hatırlayarak bir amelini gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün geçiştirdiğin bir uyarıyı yazıya dök ve üzerine bir kez daha düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/52/14"
+  }
+ ]
+}

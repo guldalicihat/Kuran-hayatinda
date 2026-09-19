@@ -1,0 +1,96 @@
+{
+ "sure": 52,
+ "ayet": 15,
+ "durum": "taslak",
+ "meal": "Bu bir büyü müdür, yoksa siz mi görmüyorsunuz?",
+ "mealNotu": "Bu, cehennem ehline yöneltilen alaycı bir sorudur; dünyada vahye 'sihir' dedikleri hatırlatılır. 'Basar' kökü görmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَفَسِحْرٌ",
+   "okunus": "efesihrun",
+   "kok": "سحر",
+   "kokAnlam": "büyü, sihir",
+   "karsilik": "büyü müdür"
+  },
+  {
+   "kelime": "هَٰذَآ",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri (bu)",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "yoksa (bağlaç)",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "أَنتُمْ",
+   "okunus": "entüm",
+   "kok": "—",
+   "kokAnlam": "siz (zamir)",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "-mi"
+  },
+  {
+   "kelime": "تُبْصِرُونَ",
+   "okunus": "tübsırûne",
+   "kok": "بصر",
+   "kokAnlam": "görme",
+   "karsilik": "görmüyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, cehennem ehline yöneltilen alaycı bir soru aktarır: 'Bu bir büyü müdür, yoksa siz mi görmüyorsunuz?' Dünyada iken vahyi ve uyarıları 'sihir' diyerek reddedenlere, gördükleri gerçek karşısında bu söz hatırlatılır.",
+  "Soru, onların kendi sözlerini kendilerine geri döndürür: eğer bu bir büyüyse neden bu kadar gerçek görünüyor; değilse neden dünyada görmezden geldiler? Bu, inkârın tutarsızlığını ortaya koyan bir yüzleşmedir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "38:4",
+   "meal": "Kâfirler, 'Bu bir yalancı sihirbazdır' dediler.",
+   "baglanti": "Sâd suresi, inkârcıların dünyada peygamberi ve vahyi 'sihir' diye nitelendirdiğini aktarır; Tûr 15'teki soru, bu dünyadaki iddiayı ahirette onlara geri döndürür."
+  },
+  {
+   "ref": "74:24",
+   "meal": "'Bu, nakledilegelen bir sihirden başka bir şey değildir' dedi.",
+   "baglanti": "Müddessir suresi de aynı iddiayı, vahyi reddeden bir kişinin ağzından aktarır; Tûr 15, bu iddiayı ahiret sahnesinde tekrar gündeme getirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dünyada gerçeği 'büyü' diyerek reddedenlerin, ahirette bu iddialarıyla yüzleştirilmesidir.",
+  "Günlük hayatta bir gerçeği kabul etmemek için kolay bahaneler üretmek insani bir zaaftır. Bu ayet, üretilen bahanelerin bir gün geçersiz kalacağını, gerçeğin ortaya çıkacağını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bahaneyi bırak",
+   "aciklama": "Bugün bir gerçeği kabul etmemek için ürettiğin bir bahaneyi fark et ve bırak."
+  },
+  {
+   "baslik": "Görmeye çalış",
+   "aciklama": "Bugün görmezden geldiğin bir gerçeği yeniden, önyargısız değerlendir."
+  },
+  {
+   "baslik": "Tutarlı ol",
+   "aciklama": "Bugün bir konuda söylediğin sözle davranışının tutarlı olup olmadığını kontrol et."
+  }
+ ],
+ "bugununAdimi": "Bugün görmezden geldiğin bir gerçeği kâğıda yazıp üzerine bir kez daha düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=52&verse=15"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/52/15"
+  }
+ ]
+}
