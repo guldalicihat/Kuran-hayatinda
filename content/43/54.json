@@ -1,0 +1,103 @@
+{
+ "sure": 43,
+ "ayet": 54,
+ "durum": "taslak",
+ "meal": "Böylece kavmini küçümseyip etkisi altına aldı, onlar da ona itaat ettiler. Çünkü onlar yoldan çıkmış bir kavimdi.",
+ "mealNotu": "'İstihaffe' (خفف) kökü hafifletmeyi, burada mecazen bir topluluğu aklını başından alacak şekilde küçümseyip etkilemeyi anlatır. 'Fâsik' (فسق) kökü, çizginin dışına çıkmayı, itaatsizliği ifade eder.",
+ "kokler": [
+  {
+   "kelime": "فَٱسْتَخَفَّ",
+   "okunus": "festehaffe",
+   "kok": "خفف",
+   "kokAnlam": "hafifletme; küçümseyip aklını çelme",
+   "karsilik": "küçümseyip etkisi altına aldı"
+  },
+  {
+   "kelime": "قَوْمَهُۥ",
+   "okunus": "kavmehû",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "kavmini"
+  },
+  {
+   "kelime": "فَأَطَاعُوهُ",
+   "okunus": "feetâûhü",
+   "kok": "طوع",
+   "kokAnlam": "itaat etme",
+   "karsilik": "ona itaat ettiler"
+  },
+  {
+   "kelime": "إِنَّهُمْ",
+   "okunus": "innehüm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz onlar",
+   "karsilik": "çünkü onlar"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idiler"
+  },
+  {
+   "kelime": "قَوْمًا",
+   "okunus": "kavmen",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "bir kavim"
+  },
+  {
+   "kelime": "فَٰسِقِينَ",
+   "okunus": "fâsikîne",
+   "kok": "فسق",
+   "kokAnlam": "yoldan çıkma, itaatsizlik",
+   "karsilik": "yoldan çıkmış"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Firavun'un önceki övünme ve itirazlarının kavmi üzerinde işe yaradığını, onları küçümseyerek etkisi altına aldığını bildirir. Kavmi de ona itaat etmiştir; ama bu itaatin sebebi Firavun'un haklılığı değil, kendi yoldan çıkmışlıklarıdır.",
+  "Bu ayet, bir toplumun bozulmasının tek taraflı olmadığını gösterir: hem yönlendiren kişinin kibri hem de yönlendirilenlerin buna açık olması bir araya gelir. Sonraki ayet bu ilişkinin nasıl sonuçlandığını, boğulmayı anlatacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "20:79",
+   "meal": "Firavun kavmini saptırdı, doğru yola iletmedi.",
+   "baglanti": "Aynı ilişkiyi -Firavun'un kavmini yanlış yöne sevk etmesini- farklı bir kelimeyle doğrular; 43:54'teki 'küçümseyip etkisi altına aldı' ifadesinin sonucu burada özetlenir."
+  },
+  {
+   "ref": "11:97",
+   "meal": "Firavun kavmini önderlik ederek ateşe götürdü; onların gittiği yer ne kötü bir yerdi.",
+   "baglanti": "Firavun'un kavmi üzerindeki etkisinin nereye vardığını, boğulma kıssasının bir başka anlatımında gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, bir liderin kendi kavmini küçümseyerek yönlendirmesi ve onların buna itaat etmesidir; bu, tarihsel bir toplum tahlilidir.",
+  "Bugüne taşınabilecek ders, bir topluluğu -veya kendini- sorgulamadan bir söze veya kişiye teslim etmemektir. Kalabalığın peşinden gitmek, o yönün doğru olduğu anlamına gelmez; itaat etmeden önce doğruluğunu sorgulamak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sorgulamadan itaat etme",
+   "aciklama": "Bugün bir grup kararına katılmadan önce, o kararın gerçekten doğru olup olmadığını düşün."
+  },
+  {
+   "baslik": "Kalabalığa güvenme",
+   "aciklama": "Bir görüşü sadece çok kişi savunuyor diye doğru kabul etmekten kaçın."
+  },
+  {
+   "baslik": "Etkiye karşı uyanık ol",
+   "aciklama": "Bugün seni bir konuda ikna etmeye çalışan birinin sözünü, duygusal etkisi yerine içeriğine göre değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir grup kararını veya yaygın bir görüşü, sorgulamadan kabul edip etmediğini gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=43&verse=54"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/43/54"
+  }
+ ]
+}
