@@ -1,0 +1,96 @@
+{
+ "sure": 51,
+ "ayet": 53,
+ "durum": "taslak",
+ "meal": "Bunu birbirlerine mi tavsiye ettiler? Hayır, onlar azgın bir kavimdir.",
+ "mealNotu": "'Tevâsav' kökü karşılıklı tavsiye etmeyi, vasiyetleşmeyi anlatır; ayet bunu soru biçiminde sorarak asıl sebebin ortak bir anlaşma değil, ortak bir azgınlık olduğunu vurgular.",
+ "kokler": [
+  {
+   "kelime": "أَتَوَاصَوْا۟",
+   "okunus": "etevâsav",
+   "kok": "وصي",
+   "kokAnlam": "karşılıklı tavsiye etme, vasiyetleşme",
+   "karsilik": "birbirlerine mi tavsiye ettiler"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) bunu",
+   "karsilik": "bunu"
+  },
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) hayır, bilakis",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "هُمْ",
+   "okunus": "hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "قَوْمٌ",
+   "okunus": "kavmün",
+   "kok": "قوم",
+   "kokAnlam": "topluluk, kavim",
+   "karsilik": "bir kavimdir"
+  },
+  {
+   "kelime": "طَاغُونَ",
+   "okunus": "tâğûne",
+   "kok": "طغي",
+   "kokAnlam": "azgınlık, haddi aşma",
+   "karsilik": "azgın"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayette anlatılan ortak suçlamanın ('büyücü ya da deli') bir anlaşma sonucu olup olmadığını sorar ve hemen cevaplar: hayır, bu bir sözleşme değil, ortak bir azgınlığın doğal sonucudur. Farklı çağlarda yaşayan kavimlerin birbirinden habersiz aynı tepkiyi vermesi, insan tabiatındaki bir eğilime işaret eder.",
+  "'Tâğûn' (azgınlar) kelimesi, sınırı aşan, gerçeği kabul etmeyi reddeden bir tutumu anlatır. Bu, kavimlerin ortak noktasının anlaşma değil, benzer bir iç bozulma olduğunu gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:112",
+   "meal": "Böylece biz her peygambere insan ve cin şeytanlarından düşmanlar kıldık; birbirlerine aldatıcı sözler fısıldarlar.",
+   "baglanti": "En'âm suresi, elçilere karşı direncin arkasındaki ortak mekanizmayı (şeytani fısıldama) açıklayarak Zâriyât'taki soruya dolaylı bir cevap sunar."
+  },
+  {
+   "ref": "43:23",
+   "meal": "Senden önce hangi memlekete bir uyarıcı gönderdiysek, oranın şımarık zenginleri mutlaka 'Biz atalarımızı bir din üzerinde bulduk, biz de onların izinden gideriz' dediler.",
+   "baglanti": "Zuhruf suresi, farklı toplumlarda tekrar eden benzer bir direnç kalıbını (atalara körü körüne bağlılık) örnekleyerek Zâriyât'taki 'ortak azgınlık' temasını destekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, inkârcı tepkilerin bir anlaşma değil, ortak bir azgınlığın sonucu olmasıdır; bu, peygamberlik tarihine dair genel bir tespittir. Burada öne çıkan, kötülüğün bazen örgütlü değil, benzer zayıflıklardan kendiliğinden doğabileceğidir.",
+  "Günlük hayata taşınabilecek ders, bir grup insanın aynı yanlışı yapmasının, o yanlışı meşrulaştırmayacağıdır. Ortak bir tavrın 'herkes böyle düşünüyor' diye doğru sayılması, bu ayetin uyardığı bir yanılgıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ortak yanlışı sorgula",
+   "aciklama": "Bugün bir grup içinde herkesin yaptığı ama yanlış olduğunu bildiğin bir şeyi sorgula."
+  },
+  {
+   "baslik": "Azgınlıktan uzak dur",
+   "aciklama": "Bugün bir konuda ölçüyü kaçırdığını hissedersen kendini durdur."
+  },
+  {
+   "baslik": "Bağımsız düşün",
+   "aciklama": "Bugün bir kararını, çevrenin etkisinden bağımsız olarak, doğruluğuna göre ver."
+  }
+ ],
+ "bugununAdimi": "Bugün 'herkes yapıyor' diye kabul ettiğin bir davranışı sorgula ve gerekirse bırak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=53"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/53"
+  }
+ ]
+}

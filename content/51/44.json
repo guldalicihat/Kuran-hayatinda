@@ -1,0 +1,110 @@
+{
+ "sure": 51,
+ "ayet": 44,
+ "durum": "taslak",
+ "meal": "Ama Rablerinin emrine karşı büyüklük tasladılar; bakıp dururken onları yıldırım yakaladı.",
+ "mealNotu": "'Atev' kökü, kibirle direnmeyi, isyanı anlatır; sadece 'karşı geldiler' değil 'büyüklük tasladılar' denerek bu kibir vurgusu korunmuştur. 'Sâika' kökü şiddetli gürleyen bir yıldırım/ses anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "فَعَتَوْا۟",
+   "okunus": "featev",
+   "kok": "عتو",
+   "kokAnlam": "kibirle isyan etme, büyüklük taslama",
+   "karsilik": "ama büyüklük tasladılar"
+  },
+  {
+   "kelime": "عَنْ",
+   "okunus": "an",
+   "kok": "—",
+   "kokAnlam": "(edat) -e karşı, -den",
+   "karsilik": "-e karşı"
+  },
+  {
+   "kelime": "أَمْرِ",
+   "okunus": "emri",
+   "kok": "أمر",
+   "kokAnlam": "emir, buyruk",
+   "karsilik": "emrine"
+  },
+  {
+   "kelime": "رَبِّهِمْ",
+   "okunus": "rabbihim",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye",
+   "karsilik": "Rablerinin"
+  },
+  {
+   "kelime": "فَأَخَذَتْهُمُ",
+   "okunus": "feehazethümü",
+   "kok": "أخذ",
+   "kokAnlam": "tutma, yakalama",
+   "karsilik": "onları yakaladı"
+  },
+  {
+   "kelime": "ٱلصَّٰعِقَةُ",
+   "okunus": "essâikatü",
+   "kok": "صعق",
+   "kokAnlam": "şiddetli yıldırım, gürleyen ses",
+   "karsilik": "yıldırım"
+  },
+  {
+   "kelime": "وَهُمْ",
+   "okunus": "ve hüm",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "يَنظُرُونَ",
+   "okunus": "yenzurûne",
+   "kok": "نظر",
+   "kokAnlam": "bakma, gözleme",
+   "karsilik": "bakıp dururken"
+  }
+ ],
+ "neAnlatiyor": [
+  "Semûd kavmi, kendilerine tanınan mühlete rağmen Rablerinin emrine karşı büyüklük taslamış, yani bilerek ve kibirle direnmiştir. Bu direnç, deveyi kesmeleriyle somutlaşan bir isyandır.",
+  "'Bakıp dururken' ifadesi çarpıcıdır: azap ansızın, hazırlıksız yakalanmaz; gözleri açık, farkında oldukları halde gelir. Bu, uyarının açık olduğunu ama inatlarının onları kurtaramadığını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "41:17",
+   "meal": "Semûd'a gelince, onlara doğru yolu gösterdik, ama onlar körlüğü hidayete tercih ettiler; böylece yaptıklarının karşılığı olarak alçaltıcı azabın yıldırımı onları yakaladı.",
+   "baglanti": "Fussilet suresi, Semûd'un bilinçli tercihini ('körlüğü hidayete tercih ettiler') ekleyerek Zâriyât'taki 'büyüklük tasladılar' ifadesinin içeriğini açar."
+  },
+  {
+   "ref": "7:78",
+   "meal": "Bunun üzerine onları şiddetli bir sarsıntı yakaladı; yurtlarında diz üstü çöke kaldılar.",
+   "baglanti": "A'râf suresi, aynı azabı 'racfe' (sarsıntı) olarak anlatır; farklı surelerde azabın farklı yönleri (yıldırım, sarsıntı) vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Semûd kavminin bilerek ve kibirle isyan etmesinin sonucudur; bu tarihsel bir kıssadır. Burada öne çıkan, açık bir uyarıya rağmen inat etmenin bedelidir.",
+  "Günlük hayata taşınabilecek ders, bir uyarıyı bile bile görmezden gelmenin, farkında olmadan hataya düşmekten daha ağır olduğudur. Gözü açık biçimde yanlışta ısrar etmek, kişiyi kendi seçimiyle sonuca götürür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bile bile ısrar etme",
+   "aciklama": "Bugün yanlış olduğunu bildiğin bir davranışta ısrar etmekten vazgeç."
+  },
+  {
+   "baslik": "Kibri bırak",
+   "aciklama": "Bugün bir uyarı aldığında, savunmaya geçmeden önce onu düşün."
+  },
+  {
+   "baslik": "Şeytanın yoluna uyma",
+   "aciklama": "Bugün nefsinin seni kibirle bir yanlışa sürüklediği anı fark et ve dur."
+  }
+ ],
+ "bugununAdimi": "Bugün bile bile sürdürdüğün bir yanlışı durdur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=44"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/44"
+  }
+ ]
+}

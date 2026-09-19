@@ -1,0 +1,96 @@
+{
+ "sure": 51,
+ "ayet": 39,
+ "durum": "taslak",
+ "meal": "Ama [Firavun] kendi gücüne güvenerek yüz çevirdi ve 'Bu bir büyücü ya da delidir' dedi.",
+ "mealNotu": "'Firavun' kelimesi bu ayette açıkça geçmez, önceki ayetten devam eden özne olduğu için köşeli parantez içinde belirtilmiştir. 'Rükn' kökü temel olarak 'köşe, dayanak' anlamındadır; burada kişinin güvendiği güç ve yakın çevresini (ordusu, erkânı) ifade eder.",
+ "kokler": [
+  {
+   "kelime": "فَتَوَلَّىٰ",
+   "okunus": "fetevellâ",
+   "kok": "ولي",
+   "kokAnlam": "yüz çevirme, sırt dönme",
+   "karsilik": "ama yüz çevirdi"
+  },
+  {
+   "kelime": "بِرُكْنِهِۦ",
+   "okunus": "biruknihî",
+   "kok": "ركن",
+   "kokAnlam": "dayanak, temel, güç kaynağı",
+   "karsilik": "kendi gücüne güvenerek"
+  },
+  {
+   "kelime": "وَقَالَ",
+   "okunus": "ve kâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "ve dedi"
+  },
+  {
+   "kelime": "سَٰحِرٌ",
+   "okunus": "sâhirun",
+   "kok": "سحر",
+   "kokAnlam": "büyü yapma",
+   "karsilik": "bir büyücü"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) ya da",
+   "karsilik": "ya da"
+  },
+  {
+   "kelime": "مَجْنُونٌ",
+   "okunus": "mecnûnün",
+   "kok": "جنن",
+   "kokAnlam": "cin çarpması, akıl örtülmesi",
+   "karsilik": "delidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Firavun, kendisine verilen apaçık delile rağmen, sahip olduğu güce (ordusuna, saltanatına) güvenerek gerçeği kabul etmez ve yüz çevirir. Bu tavır, delilin yetersizliğinden değil, kibirden kaynaklanan bir reddir.",
+  "Firavun'un Musa'ya 'büyücü ya da deli' demesi, sonraki ayetlerde (52-53) başka kavimlerin de elçilerine aynı sözleri söylediği anlatılarak, bu tepkinin tek bir kişiye özgü olmadığı, inkârcıların ortak bir tavrı olduğu vurgulanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:27",
+   "meal": "Firavun (çevresindekilere) dedi ki: 'Size gönderilen bu elçiniz gerçekten delidir.'",
+   "baglanti": "Şuarâ suresinde Firavun, Musa'ya neredeyse aynı sözle 'deli' der; iki sure aynı tavrı doğrular."
+  },
+  {
+   "ref": "28:39",
+   "meal": "O ve orduları, yeryüzünde haksız yere büyüklük tasladılar ve bize döndürülmeyeceklerini sandılar.",
+   "baglanti": "Kasas suresi, Firavun'un kibrinin sebebini açıklar; 'rükn' (kendi gücü) ifadesinin arka planını netleştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Firavun'un gücüne güvenerek gerçeği reddetmesidir; bu doğrudan bir peygamberlik kıssasıdır. Burada öne çıkan, gücün insanı gerçeği görmekten alıkoyabilmesidir.",
+  "Günlük hayata taşınabilecek ders, sahip olunan imkânın (para, makam, kalabalık destek) kişiyi haklı kılmadığıdır. Güçlü olmak, doğru olmakla karıştırılmamalı; bu ayet, güce güvenerek gerçeği küçümsemenin tehlikesini hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gücüne güvenme",
+   "aciklama": "Bugün bir konuda haklı olmadığını fark edersen, imkânına güvenip ısrar etmek yerine kabul et."
+  },
+  {
+   "baslik": "Etiketlemeden dinle",
+   "aciklama": "Farklı bir görüşü hemen 'saçma' diye etiketlemeden bugün önce anlamaya çalış."
+  },
+  {
+   "baslik": "Kibri fark et",
+   "aciklama": "Bugün bir tartışmada kendi gururunun konuşup konuşmadığını bir an durup sor."
+  }
+ ],
+ "bugununAdimi": "Bugün bir tartışmada karşı tarafı hemen küçümsemeden, önce söylediğini anlamaya çalış.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=39"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/39"
+  }
+ ]
+}

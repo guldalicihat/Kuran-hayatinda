@@ -1,0 +1,110 @@
+{
+ "sure": 51,
+ "ayet": 43,
+ "durum": "taslak",
+ "meal": "Semûd'da da [bir ibret vardır]; hani onlara 'Bir süreye kadar yararlanın' denmişti.",
+ "mealNotu": "'Bir ibret vardır' ifadesi köşeli parantez içinde eklenmiştir (bkz. 38 ve 41. ayetler). 'Temettu' kökü geçici yararlanmayı, belirli bir süre için verilen imkânı anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَفِى",
+   "okunus": "ve fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde, hakkında",
+   "karsilik": "-da da"
+  },
+  {
+   "kelime": "ثَمُودَ",
+   "okunus": "semûde",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Semûd (kavmi)",
+   "karsilik": "Semûd'da"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani, o vakit",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "قِيلَ",
+   "okunus": "kîle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "denmişti"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "تَمَتَّعُوا۟",
+   "okunus": "temetteû",
+   "kok": "متع",
+   "kokAnlam": "yararlanma, faydalanma",
+   "karsilik": "yararlanın"
+  },
+  {
+   "kelime": "حَتَّىٰ",
+   "okunus": "hattâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e kadar",
+   "karsilik": "-e kadar"
+  },
+  {
+   "kelime": "حِينٍ",
+   "okunus": "hînin",
+   "kok": "حين",
+   "kokAnlam": "süre, vakit, belirli zaman",
+   "karsilik": "bir süreye"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure şimdi Semûd kavmine geçer. Onlara verilen mühlet, 'bir süreye kadar yararlanın' sözüyle özetlenir; bu, Salih peygamberin devesiyle ilgili kıssada geçen bir uyarının kısaltılmış halidir. Semûd kavmi, bu mühleti bir fırsat olarak değil, cezadan kaçış olarak değerlendirmiştir.",
+  "Bu kısa anlatım, kıssanın ayrıntısına girmeden doğrudan sonuca (44-45. ayetler) geçer. Deve mucizesi ve onun kesilmesi gibi ayrıntılar A'râf, Hûd, Şems gibi surelerde anlatılır; burada amaç, inatlarının sonucuna odaklanmaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:65",
+   "meal": "Deveyi kestiler. (Salih) dedi ki: 'Yurdunuzda üç gün daha yararlanın (temetteû); bu, yalanlanmayacak bir vaattir.'",
+   "baglanti": "Hûd suresinde 'temetteû' kelimesi aynı kökle geçer ve mühletin süresini (üç gün) netleştirir."
+  },
+  {
+   "ref": "91:13",
+   "meal": "Allah'ın elçisi (Salih) onlara dedi ki: 'Allah'ın devesine ve onun su içme hakkına dokunmayın.'",
+   "baglanti": "Şems suresi, Semûd'un işlediği asıl günahı (deveyi kesme) açıklayarak Zâriyât'taki kısa anlatımın arka planını tamamlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Semûd kavmine tanınan geçici mühlettir; bu tarihsel bir peygamberlik kıssasıdır. Burada öne çıkan, verilen sürenin bir fırsat olduğu ama sonsuz olmadığıdır.",
+  "Günlük hayata taşınabilecek ders, elindeki zamanın ve imkânın geçici bir mühlet olduğu bilincidir. Bir uyarı aldığında, bunu görmezden gelip 'zaman var' diye ertelemek yerine, o süreyi doğru kullanmak gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Mühleti boşa harcama",
+   "aciklama": "Bugün ertelediğin bir düzeltmeyi, 'zamanım var' demeden şimdi yap."
+  },
+  {
+   "baslik": "Uyarıyı ciddiye al",
+   "aciklama": "Bugün aldığın bir uyarıyı (sağlık, ilişki, iş) görmezden gelmeden değerlendir."
+  },
+  {
+   "baslik": "Zamanın geçiciliğini hatırla",
+   "aciklama": "Bugün sahip olduğun zamanın sınırlı olduğunu bir an düşün ve ona göre bir öncelik belirle."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir uyarıyı ya da düzeltmeyi hemen ele al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=43"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/43"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "sure": 51,
+ "ayet": 36,
+ "durum": "taslak",
+ "meal": "Ama orada müslümanlardan bir ev dışında [kimseyi] bulmadık.",
+ "mealNotu": "'Kimseyi' kelimesi ayette açıkça geçmez, 'bulmadık' fiilinin nesnesini tamamlamak için köşeli parantez içinde eklenmiştir. 'Müslimîn' kökü, Allah'a teslim olmayı anlatır; burada 'mü'minîn' (35. ayet) ile eş anlamlı kullanılır.",
+ "kokler": [
+  {
+   "kelime": "فَمَا",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil, -medi",
+   "karsilik": "ama...madık"
+  },
+  {
+   "kelime": "وَجَدْنَا",
+   "okunus": "vecednâ",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulduk"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onun içinde",
+   "karsilik": "orada"
+  },
+  {
+   "kelime": "غَيْرَ",
+   "okunus": "gayra",
+   "kok": "غير",
+   "kokAnlam": "başka, dışında",
+   "karsilik": "dışında"
+  },
+  {
+   "kelime": "بَيْتٍ",
+   "okunus": "beytin",
+   "kok": "بيت",
+   "kokAnlam": "ev",
+   "karsilik": "bir ev"
+  },
+  {
+   "kelime": "مِّنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُسْلِمِينَ",
+   "okunus": "elmüslimîne",
+   "kok": "سلم",
+   "kokAnlam": "teslim olma, boyun eğme",
+   "karsilik": "müslümanlardan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, kurtarılan müminlerin sayısını açıklar: koca bir beldede yalnızca bir ev, yani Lût'un ailesi bulunmuştur. Bu, kavmin çoğunluğunun ısrarla yanlış yolda kaldığını çarpıcı biçimde gösterir.",
+  "'Beyt' (ev) kelimesinin tekil kullanılması, kurtuluşun ne kadar dar kapsamlı olduğunu vurgular. Bu ayrıntı, kıssanın ana mesajını -bir kavmin çoğunluğu doğru yoldan sapabilir- güçlü biçimde özetler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "66:10",
+   "meal": "Allah, inkâr edenlere Nûh'un karısı ile Lût'un karısını örnek verdi. Onlar, kullarımızdan iki salih kulun nikâhı altındaydı, ama onlara ihanet ettiler; bu yüzden o iki peygamber, Allah'a karşı onlara hiçbir fayda sağlayamadı.",
+   "baglanti": "Tahrîm suresi, Lût'un evinde bile herkesin kurtulmadığını, karısının ayrı kaldığını açıklar; Zâriyât'taki 'bir ev' ifadesinin neden yalnızca kısmen kurtulduğunu netleştirir."
+  },
+  {
+   "ref": "15:59",
+   "meal": "Ancak Lût ailesi başka; onların hepsini kesinlikle kurtaracağız.",
+   "baglanti": "Hicr suresi de aynı istisnayı vurgular; kurtuluşun Lût ailesine özgü olduğunu doğrular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, geçmişte bir kavmin çoğunluğunun doğru yoldan sapmasıdır; tek bir evin kurtulmuş olması bu sapmanın büyüklüğünü gösterir. Bu doğrudan bir hukuk ya da ibadet meselesi değil, bir ibret anlatımıdır.",
+  "Günlük hayata taşınabilecek ders, çoğunluğun kabul ettiği bir şeyin otomatik olarak doğru olmadığıdır. Bir ortamda herkes aynı yanlışı yapıyorsa, bu yanlışı meşrulaştırmaz; doğru duruş bazen çok az kişiyle paylaşılır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Çoğunluğu sorgula",
+   "aciklama": "Bugün 'herkes böyle yapıyor' dediğin bir davranışı, doğru olup olmadığı açısından yeniden değerlendir."
+  },
+  {
+   "baslik": "Azınlıkta kalmaktan çekinme",
+   "aciklama": "Doğru bildiğin bir şeyde yalnız kalsan bile bugün o duruşu koru."
+  },
+  {
+   "baslik": "Evini gözden geçir",
+   "aciklama": "Bugün kendi evinde/ailende doğruluk ve teslimiyet açısından bir konuyu konuş."
+  }
+ ],
+ "bugununAdimi": "Bugün 'herkes yapıyor' diye kabul ettiğin bir davranışı sorgula ve gerekirse bırak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=36"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/36"
+  }
+ ]
+}

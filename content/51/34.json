@@ -1,0 +1,82 @@
+{
+ "sure": 51,
+ "ayet": 34,
+ "durum": "taslak",
+ "meal": "Rabbinin katında, haddi aşanlar için işaretlenmiş [taşlar].",
+ "mealNotu": "'Taşlar' kelimesi bu ayette açıkça geçmez, önceki ayetten (33) devam eder; bu yüzden köşeli parantez içinde eklenmiştir. 'Müsrifîn' kökü, ölçüyü aşmayı, haddi aşırı gitmeyi anlatır; yalnız 'günahkarlar' değil, 'haddi aşanlar' karşılığı tercih edilmiştir.",
+ "kokler": [
+  {
+   "kelime": "مُّسَوَّمَةً",
+   "okunus": "müsevvemeten",
+   "kok": "سوم",
+   "kokAnlam": "işaretleme, damgalama, belirleme",
+   "karsilik": "işaretlenmiş"
+  },
+  {
+   "kelime": "عِندَ",
+   "okunus": "inde",
+   "kok": "عند",
+   "kokAnlam": "kat, nezd",
+   "karsilik": "katında"
+  },
+  {
+   "kelime": "رَبِّكَ",
+   "okunus": "rabbike",
+   "kok": "ربب",
+   "kokAnlam": "sahip olma, yetiştirme, terbiye",
+   "karsilik": "Rabbinin"
+  },
+  {
+   "kelime": "لِلْمُسْرِفِينَ",
+   "okunus": "lilmüsrifîne",
+   "kok": "سرف",
+   "kokAnlam": "ölçüyü aşma, israf, haddi aşma",
+   "karsilik": "haddi aşanlar için"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki taşların tasvirini tamamlar: onlar Rabbin katında, haddi aşanlar için özel olarak işaretlenmiş taşlardır. 'İnde rabbike' (Rabbinin katında) ifadesi, bu cezanın rastgele değil, ilahi bir belirlemeyle hazırlandığını gösterir.",
+  "'Müsrifîn' kelimesi, yalnızca günah işleyen değil, ölçüyü aşan, sınırı tanımayan bir tutumu anlatır. Bu, Lût kavminin işlediği aşırılığa işaret eder ve azabın sebebini bir kez daha netleştirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "11:83",
+   "meal": "Bu taşlar, Rabbinin katında işaretlenmiştir. Onlar zalimlerden uzak değildir.",
+   "baglanti": "Hûd suresinde de aynı 'Rabbinin katında işaretlenmiş' ifadesi geçer; iki ayet neredeyse aynı kelimelerle biter."
+  },
+  {
+   "ref": "7:81",
+   "meal": "Siz, kadınları bırakıp şehvetle erkeklere yaklaşıyorsunuz. Doğrusu siz haddi aşan bir kavimsiniz.",
+   "baglanti": "A'râf suresi, Lût kavminin işlediği aşırılığı doğrudan tanımlar; Zâriyât'taki 'müsrifîn' ifadesinin içeriğini netleştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, geçmişte belirli bir kavme uygulanan azabın kaynağıdır; genel bir hüküm değildir. Burada öne çıkan, cezanın ilahi bir plan dahilinde, ölçüyü aşanlar için hazırlanmış olmasıdır.",
+  "Günlük hayata taşınabilecek ders, ölçüyü kaçırmanın bedelinin olduğudur. Bir işte, bir ilişkide ya da bir hakta sınırı aşmak, er ya da geç bir karşılıkla döner; bu bilinç insanı ölçülü davranmaya yöneltir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sınırını gözden geçir",
+   "aciklama": "Bugün bir konuda (harcama, söz, öfke) haddi aştığın bir anı hatırla ve onu telafi et."
+  },
+  {
+   "baslik": "Ölçülü davran",
+   "aciklama": "Bugün bir tartışmada ya da isteğinde, gerekenden fazlasını istemekten kaçın."
+  },
+  {
+   "baslik": "Kimse görmese de ölçülü ol",
+   "aciklama": "Kimsenin denetlemediği bir işte bile bugün haddini aşmadan davran; Allah'ın gördüğünü unutma."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda ölçüyü kaçırdığını fark edersen, hemen o anda kendini durdur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=34"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/34"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "sure": 51,
+ "ayet": 41,
+ "durum": "taslak",
+ "meal": "Âd'da da [bir ibret vardır]; hani onların üzerine kısır rüzgarı göndermiştik.",
+ "mealNotu": "'Bir ibret vardır' ifadesi 37. ayetteki 'âyet' kelimesinin devamı olarak köşeli parantez içinde eklenmiştir (38 ve 43. ayetlerdeki aynı yapı gibi). 'Akîm' kökü kısırlığı, üretkenlikten yoksun olmayı anlatır; burada rüzgarın hiçbir fayda getirmeyen, sadece yıkıcı bir rüzgar olduğunu vurgular.",
+ "kokler": [
+  {
+   "kelime": "وَفِى",
+   "okunus": "ve fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde, hakkında",
+   "karsilik": "-da da"
+  },
+  {
+   "kelime": "عَادٍ",
+   "okunus": "âdin",
+   "kok": "عود",
+   "kokAnlam": "(özel isim) Âd (kavmi)",
+   "karsilik": "Âd'da"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "(zaman) hani, o vakit",
+   "karsilik": "hani"
+  },
+  {
+   "kelime": "أَرْسَلْنَا",
+   "okunus": "erselnâ",
+   "kok": "رسل",
+   "kokAnlam": "gönderme",
+   "karsilik": "göndermiştik"
+  },
+  {
+   "kelime": "عَلَيْهِمُ",
+   "okunus": "aleyhimü",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onların üzerine",
+   "karsilik": "onların üzerine"
+  },
+  {
+   "kelime": "ٱلرِّيحَ",
+   "okunus": "errîha",
+   "kok": "روح",
+   "kokAnlam": "rüzgar, esinti",
+   "karsilik": "rüzgarı"
+  },
+  {
+   "kelime": "ٱلْعَقِيمَ",
+   "okunus": "el'akîme",
+   "kok": "عقم",
+   "kokAnlam": "kısırlık, üretkenlikten yoksunluk",
+   "karsilik": "kısır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Musa-Firavun kıssasından sonra sure, Âd kavmine geçer. Onların üzerine gönderilen rüzgar 'akîm' (kısır) diye tanımlanır; yani bu rüzgar yağmur getirmez, bitki büyütmez, hiçbir yarar sağlamaz, sadece yıkım getirir.",
+  "Bu tasvir, doğal bir olayla ilahi bir cezayı ayırt eder: sıradan rüzgarlar fayda da zarar da getirebilirken, bu rüzgar yalnızca yıkıcıdır. Sonraki ayet bu rüzgarın etkisini somut biçimde tamamlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "41:16",
+   "meal": "Âd kavmine gelince, onları yeryüzünde haksız yere büyüklendikleri için o uğursuz günlerde dondurucu bir rüzgarla helak ettik.",
+   "baglanti": "Fussilet suresi, aynı rüzgarı 'sarsar' (uğultulu, dondurucu) sıfatıyla anlatır; Zâriyât'taki 'akîm' (kısır) ifadesiyle rüzgarın yıkıcı, faydasız yönünü tamamlar."
+  },
+  {
+   "ref": "69:6",
+   "meal": "Âd kavmine gelince, onlar da uğultulu, azgın bir rüzgarla helak edildiler.",
+   "baglanti": "Hâkka suresi, bu rüzgarın şiddetini ve helakin sürecini (yedi gece sekiz gün) ekleyerek Zâriyât'taki kısa anlatımı genişletir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Âd kavminin haddi aşması sonucu gönderilen yıkıcı bir rüzgarla helak edilmesidir; bu tarihsel bir kıssa anlatımıdır. Burada öne çıkan, gücün büyüklenmeye değil şükre yol açması gerektiğidir.",
+  "Günlük hayata taşınabilecek ders, elindeki güç ve imkânı yalnızca kendi çıkarın için kullanmanın, o gücü faydasız ve hatta zararlı hale getirebileceğidir. Kısır bir rüzgar gibi, amacından sapan güç kalıcı bir yıkıma dönüşebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gücünü faydaya çevir",
+   "aciklama": "Bugün sahip olduğun bir yeteneği veya imkânı, en az bir kişiye fayda sağlayacak şekilde kullan."
+  },
+  {
+   "baslik": "Büyüklenmeyi bırak",
+   "aciklama": "Bugün bir başarını anlatırken kibirlenmeden, sade bir dille paylaş."
+  },
+  {
+   "baslik": "Geçiciliği hatırla",
+   "aciklama": "Elindeki imkânların bir gün elinden alınabileceğini bugün bir an düşün ve şükret."
+  }
+ ],
+ "bugununAdimi": "Bugün elindeki bir imkânı en az bir kişiye somut fayda sağlayacak şekilde kullan.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=41"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/41"
+  }
+ ]
+}

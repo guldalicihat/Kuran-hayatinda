@@ -1,0 +1,89 @@
+{
+ "sure": 51,
+ "ayet": 54,
+ "durum": "taslak",
+ "meal": "Öyleyse onlardan yüz çevir; artık sen kınanacak değilsin.",
+ "mealNotu": "'Melûm' kökü kınanmayı anlatır; ayet, Peygamber'in üzerindeki sorumluluğun sadece tebliğ olduğunu, inkârcıların ısrarından dolayı kınanmayacağını bildirir.",
+ "kokler": [
+  {
+   "kelime": "فَتَوَلَّ",
+   "okunus": "fetevelle",
+   "kok": "ولي",
+   "kokAnlam": "yüz çevirme, sırt dönme",
+   "karsilik": "öyleyse yüz çevir"
+  },
+  {
+   "kelime": "عَنْهُمْ",
+   "okunus": "anhüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "فَمَآ",
+   "okunus": "femâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "artık değilsin"
+  },
+  {
+   "kelime": "أَنتَ",
+   "okunus": "ente",
+   "kok": "—",
+   "kokAnlam": "(zamir) sen",
+   "karsilik": "sen"
+  },
+  {
+   "kelime": "بِمَلُومٍ",
+   "okunus": "bimelûmin",
+   "kok": "لوم",
+   "kokAnlam": "kınanma, ayıplanma",
+   "karsilik": "kınanacak"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetlerde anlatılan ortak inkâr örüntüsünden sonra Peygamber'e bir yönerge verilir: ısrarla direnenlerden yüz çevir. Bu, tebliği tamamen bırakmak değil, boşuna inatlaşmayı sürdürmemek anlamındadır; nitekim bir sonraki ayet öğüt vermeye devam etmeyi emreder.",
+  "'Sen kınanacak değilsin' ifadesi, Peygamber'in görevinin sonucu değil, tebliği yerine getirmek olduğunu bildirir. İnsanların inanmaması, elçinin başarısızlığı sayılmaz; bu, Peygamber'i teselli eden bir hatırlatmadır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "88:22",
+   "meal": "Sen onlar üzerinde bir zorba değilsin.",
+   "baglanti": "Ğâşiye suresi, Peygamber'in görevinin insanları zorla inandırmak olmadığını bildirerek Zâriyât'taki 'kınanmayacaksın' ifadesinin gerekçesini tamamlar."
+  },
+  {
+   "ref": "16:82",
+   "meal": "Eğer yine de yüz çevirirlerse, sana düşen yalnızca apaçık tebliğdir.",
+   "baglanti": "Nahl suresi, elçinin sorumluluğunun yalnızca tebliğ olduğunu netleştirir; bu, Zâriyât'taki 'kınanmayacaksın' ifadesinin temelini oluşturur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in inatla direnenler karşısındaki tavrıdır; bu Peygamberlik görevine özgü bir yönergedir. Burada öne çıkan, sorumluluğun elden geleni yapmakla sınırlı olduğudur.",
+  "Günlük hayata taşınabilecek ders, bir kişiyi ikna etmek için elinden geleni yaptıktan sonra, o kişinin tercihinden kendini sorumlu tutmamaktır. Bu, hem gereksiz bir yükü bırakmayı hem de öfkeyle değil sükunetle geri çekilmeyi öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Elinden geleni yap, gerisini bırak",
+   "aciklama": "Bugün bir konuda elinden geleni yaptıysan, sonucu zorlamadan bırak."
+  },
+  {
+   "baslik": "Kendini suçlama",
+   "aciklama": "Birinin senin öğüdünü dinlememesinden dolayı kendini bugün suçlamaktan vazgeç."
+  },
+  {
+   "baslik": "Sükunetle geri çekil",
+   "aciklama": "Faydasız bir tartışmadan bugün öfkelenmeden, sakin biçimde uzaklaş."
+  }
+ ],
+ "bugununAdimi": "Bugün faydasız bir tartışmadan öfkelenmeden, sakince geri çekil.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=51&verse=54"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/51/54"
+  }
+ ]
+}
