@@ -1,0 +1,89 @@
+{
+ "sure": 37,
+ "ayet": 106,
+ "durum": "taslak",
+ "meal": "Şüphesiz bu, apaçık bir imtihandı.",
+ "mealNotu": "'Belâ' kökü (بلو) sınamayı, imtihan etmeyi anlatır. Ayet, önceki sahnenin ne anlama geldiğini açıkça belirtir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "لَهُوَ",
+   "okunus": "lehüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) gerçekten o",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "ٱلْبَلَٰٓؤُا۟",
+   "okunus": "elbelâü",
+   "kok": "بلو",
+   "kokAnlam": "sınama, imtihan",
+   "karsilik": "imtihandı"
+  },
+  {
+   "kelime": "ٱلْمُبِينُ",
+   "okunus": "elmübînü",
+   "kok": "بين",
+   "kokAnlam": "açıklık, netlik",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki sahnenin bir imtihan olduğunu açıkça belirtir. Bu ifade, kıssanın nasıl anlaşılması gerektiğine dair Kur'an'ın kendi yorumunu verir: İbrâhim ve oğlu, gerçek bir boğazlamayla değil, ağır bir sınavla karşı karşıya kalmışlardır.",
+  "'Mübîn' (apaçık) kelimesi, bu imtihanın belirsiz veya kapalı olmadığını, tam tersine çok net bir şekilde ortaya konduğunu vurgular. Sınavın büyüklüğü, bir sonraki ayette gelecek olan büyük fidye ile dengelenecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:155",
+   "meal": "Andolsun sizi biraz korku, açlık, mallardan, canlardan ve ürünlerden eksiltme ile sınayacağız...",
+   "baglanti": "Bakara suresi, imtihanın farklı biçimlerini sayar; İbrâhim'in sınavı bunların en ağırlarından biridir."
+  },
+  {
+   "ref": "29:2",
+   "meal": "İnsanlar, sadece 'İman ettik' demekle imtihan edilmeden bırakılacaklarını mı sandılar?",
+   "baglanti": "Ankebût suresi, imanın mutlaka bir sınavla test edileceğini genel bir ilke olarak bildirir; İbrâhim kıssası bunun en çarpıcı örneklerinden biridir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, İbrâhim'in yaşadığı olayın bir imtihan olduğunun açıkça belirtilmesidir.",
+  "Bugüne taşınabilecek ders: hayatta karşılaşılan en ağır zorluklar bile, çoğu zaman bir imtihan niteliği taşır. Bu bilinç, zorluk anında umutsuzluğa kapılmak yerine, sınavın bir anlamı olduğunu düşünmeye yardımcı olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zorluğu bir sınav olarak gör",
+   "aciklama": "Bugün karşılaştığın bir zorluğu, anlamsız değil, bir imtihan olarak değerlendir."
+  },
+  {
+   "baslik": "Sabrını Allah'a bağla",
+   "aciklama": "Ağır bir sınavda, sabrını ve gücünü Allah'tan dilemeyi unutma."
+  },
+  {
+   "baslik": "İmtihanı fırsata çevir",
+   "aciklama": "Bugün zorlandığın bir konuda, bu zorluktan öğrenebileceğin bir dersi bul."
+  }
+ ],
+ "bugununAdimi": "Bugün karşılaştığın bir zorluğu, anlamsız değil bir imtihan olarak görmeyi dene.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=106"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/106"
+  }
+ ]
+}

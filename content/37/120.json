@@ -1,0 +1,82 @@
+{
+ "sure": 37,
+ "ayet": 120,
+ "durum": "taslak",
+ "meal": "Selam olsun Mûsâ'ya ve Hârûn'a!",
+ "mealNotu": "'Selâm' kökü (سلم) esenliği anlatır. Bu, sûrede tekrarlanan esenlik dileği kalıbının Mûsâ ve Hârûn'a uygulanmasıdır.",
+ "kokler": [
+  {
+   "kelime": "سَلَٰمٌ",
+   "okunus": "selâmün",
+   "kok": "سلم",
+   "kokAnlam": "esenlik, barış",
+   "karsilik": "selam olsun"
+  },
+  {
+   "kelime": "عَلَىٰ",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "مُوسَىٰ",
+   "okunus": "mûsâ",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "Mûsâ'ya"
+  },
+  {
+   "kelime": "وَهَٰرُونَ",
+   "okunus": "ve hârûne",
+   "kok": "—",
+   "kokAnlam": "özel isim",
+   "karsilik": "ve Hârûn'a"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sûre, Mûsâ ve Hârûn'a da aynı esenlik dileğini sunar; bu, önceki kıssalarda Nûh ve İbrâhim için kullanılan kalıbın bir tekrarıdır. Kısa ama vurgulu bu ifade, iki peygamberin mücadelesinin ilahi bir onayla sonuçlandığını gösterir.",
+  "Bu tekrarlar, sûrenin bütününde bir ritim oluşturur: her kıssa, çağrı ve mücadeleyle başlar, kurtuluş ve galibiyetle devam eder, esenlik dileğiyle kapanır. Bu düzen, farklı zamanlarda yaşamış peygamberlerin aynı ilahi ilgiyle karşılandığını hissettirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "37:109",
+   "meal": "Selam olsun İbrâhim'e!",
+   "baglanti": "Aynı esenlik ifadesi, birkaç ayet önce İbrâhim için kullanılmıştı; bu, sûrenin tekrarlanan bir kalıbıdır."
+  },
+  {
+   "ref": "20:47",
+   "meal": "...Selam, doğru yola uyanların üzerinedir.",
+   "baglanti": "Tâhâ suresinde Mûsâ ve Hârûn'a, Firavun'a gidip söylemeleri emredilen sözlerde de aynı 'selam' kavramı geçer; bu, esenliğin doğru yola bağlı olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Mûsâ ve Hârûn'a verilen ilahi esenlik dileğidir.",
+  "Bugüne taşınabilecek ders: zorlu bir görevi üstlenip onu tamamlayan kişiler, sonunda bir huzura kavuşur. Bu, zor bir sorumluluğu yürüten kişiye, sabrın sonunda esenliğin geleceğine dair bir hatırlatmadır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zor bir görevi tamamla",
+   "aciklama": "Bugün, uzun süredir üstlendiğin ama bitirmediğin bir görevi ileriye taşı."
+  },
+  {
+   "baslik": "Birine esenlik dile",
+   "aciklama": "Zor bir sorumluluk taşıyan birine bugün destek ve esenlik dile."
+  },
+  {
+   "baslik": "Huzuru hak et",
+   "aciklama": "Bugün, üzerine düşeni yaparak içsel bir huzura adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün, uzun süredir ertelediğin bir görevi biraz ileriye taşı.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=120"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/120"
+  }
+ ]
+}
