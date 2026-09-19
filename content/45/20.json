@@ -1,0 +1,103 @@
+{
+ "sure": 45,
+ "ayet": 20,
+ "durum": "taslak",
+ "meal": "Bu [Kur'an], insanlar için basiretlerdir; kesin bilgiyle inanan bir topluluk için bir hidayet ve rahmettir.",
+ "mealNotu": "'Basâir' kökü, görme gücünü ve iç görüyü anlatır; Kur'an burada insanların gerçeği görmesini sağlayan bir kaynak olarak nitelenir.",
+ "kokler": [
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "بَصَٰٓئِرُ",
+   "okunus": "besâiru",
+   "kok": "بصر",
+   "kokAnlam": "görme, iç görü",
+   "karsilik": "basiretlerdir"
+  },
+  {
+   "kelime": "لِلنَّاسِ",
+   "okunus": "lilnnâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan",
+   "karsilik": "insanlar için"
+  },
+  {
+   "kelime": "وَهُدًى",
+   "okunus": "ve hüden",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu gösterme, hidayet",
+   "karsilik": "ve bir hidayettir"
+  },
+  {
+   "kelime": "وَرَحْمَةٌ",
+   "okunus": "ve rahmetün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet, acıma",
+   "karsilik": "ve bir rahmettir"
+  },
+  {
+   "kelime": "لِّقَوْمٍ",
+   "okunus": "likavmin",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma; topluluk, kavim",
+   "karsilik": "bir topluluk için"
+  },
+  {
+   "kelime": "يُوقِنُونَ",
+   "okunus": "yûkınûne",
+   "kok": "يقن",
+   "kokAnlam": "şüphesiz, kesin bilme",
+   "karsilik": "kesin bilgiyle inanan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, 6. ayetteki 'sana hak ile okuduğumuz ayetler' ifadesine benzer biçimde Kur'an'ı tanımlar: insanlar için 'basâir' (iç görüler, gerçeği görme vesileleri). Bu, 3-19 arasındaki delil ve öğüt bölümünün bir özeti gibidir.",
+  "Ayet, aynı zamanda 4. ve 5. ayetlerdeki 'yûkınûn' (kesin bilgiyle inanan) ifadesini tekrarlayarak, bu hidayet ve rahmetin herkese aynı şekilde ulaşmadığını, kesin bir inanç ve açıklıkla karşılananlara nasip olduğunu vurgular."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "16:64",
+   "meal": "Sana bu kitabı, ayrılığa düştükleri şeyi onlara açıklaman için ve inanan bir topluluk için bir hidayet ve rahmet olarak indirdik.",
+   "baglanti": "Nahl suresindeki bu ayet, Kur'an'ı aynı 'hidayet ve rahmet' ifadesiyle niteler."
+  },
+  {
+   "ref": "7:203",
+   "meal": "...Bu, Rabbinizden gelen basiretlerdir; inanan bir topluluk için bir hidayet ve rahmettir.",
+   "baglanti": "A'râf suresindeki bu ayet, Câsiye 20 ile 'basâir... hüden ve rahmeten' ifadesini neredeyse aynı şekilde paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın işlevidir: insanı gerçeği görmeye yönlendiren bir rehber ve merhamet kaynağı olması. Bu, kitabı sadece bilgi kaynağı değil, aynı zamanda bir yol gösterici olarak sunar.",
+  "Günlük hayatta bir metne veya öğüde 'basiret' kazandıracak bir gözle bakmak, onu sadece okumakla kalmayıp üzerinde düşünmeyi gerektirir. Bir rehberden gerçek anlamda yararlanmak, ona açık ve kararlı bir yaklaşımla mümkündür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir bölümü iç görüyle oku",
+   "aciklama": "Bugün okuduğun bir ayeti, sadece bilgi olarak değil, hayatına bir ışık tutması için oku."
+  },
+  {
+   "baslik": "Rahmet yönünü hatırla",
+   "aciklama": "Bugün bir kuralı uygularken, onun sana bir rahmet olduğunu düşün."
+  },
+  {
+   "baslik": "Kararlı bir açıklıkla yaklaş",
+   "aciklama": "Bugün bir öğüdü kabul ederken tereddüt yerine açık bir kararlılıkla yaklaş."
+  }
+ ],
+ "bugununAdimi": "Bugün okuduğun bir ayeti, hayatına bir rehber olarak görüp üzerinde düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=45&verse=20"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/45/20"
+  }
+ ]
+}

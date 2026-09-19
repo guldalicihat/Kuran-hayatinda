@@ -1,0 +1,96 @@
+{
+ "sure": 45,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Şüphesiz göklerde ve yerde müminler için ayetler vardır.",
+ "mealNotu": "'Ayet' kökü hem 'Kur'an ayeti' hem 'delil, işaret' anlamına gelir; burada ikinci anlamdadır: gökler ve yer, Allah'ın varlığına işaret eden delillerdir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "göklerde"
+  },
+  {
+   "kelime": "وَٱلْأَرْضِ",
+   "okunus": "vel erdı",
+   "kok": "أرض",
+   "kokAnlam": "yeryüzü",
+   "karsilik": "ve yerde"
+  },
+  {
+   "kelime": "لَءَايَٰتٍ",
+   "okunus": "leâyâtin",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil; ayet",
+   "karsilik": "ayetler vardır"
+  },
+  {
+   "kelime": "لِّلْمُؤْمِنِينَ",
+   "okunus": "lilmü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; güvenerek inanan",
+   "karsilik": "müminler için"
+  }
+ ],
+ "neAnlatiyor": [
+  "Câsiye suresinin ilk bölümü, ayet 3'ten 13'e kadar, göklerdeki ve yerdeki 'ayetleri' sıralar: kâinatın düzeni, insanın yaratılışı, gece-gündüz, yağmur, rüzgar, deniz. Bu ayet, o listenin genel başlığı gibidir.",
+  "Delillerin varlığı herkes için aynı görünse de, ayet bunları özellikle 'müminler için' diye niteler. Bu, delilleri görmenin salt akıl yürütmeyle değil, bir kabul ve açıklık haliyle de ilgili olduğuna işaret eder; sonraki ayetlerde bu vurgu 'yakînen inananlar' ve 'akleden bir topluluk' ifadeleriyle sürer."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:190",
+   "meal": "Göklerin ve yerin yaratılışında, gece ile gündüzün birbiri ardınca gelişinde akıl sahipleri için ayetler vardır.",
+   "baglanti": "Âl-i İmrân'daki bu ayet, aynı temayı 'akıl sahipleri' vurgusuyla anlatır."
+  },
+  {
+   "ref": "30:22",
+   "meal": "Göklerin ve yerin yaratılışı, dillerinizin ve renklerinizin farklı oluşu O'nun ayetlerindendir; bunda bilenler için ayetler vardır.",
+   "baglanti": "Rûm suresindeki bu ayet de göklerin ve yerin yaratılışını bir delil olarak sunar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, gökler ve yerdeki düzenin bir delil taşıdığıdır. Bu, soyut bir bilgi değil, her gün karşılaşılan bir gerçekliktir.",
+  "Günlük hayatta gökyüzüne, doğaya bakarken bunu sadece alışılmış bir manzara olarak görmek yerine, bir an durup düşünmek mümkündür. Bu, büyük bir çaba gerektirmez; sadece dikkatin yönünü değiştirmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gökyüzüne bak, düşün",
+   "aciklama": "Bugün birkaç dakika gökyüzünü izle ve düzenindeki inceliği düşün."
+  },
+  {
+   "baslik": "Fark ettiğin bir düzeni not et",
+   "aciklama": "Doğada bugün fark ettiğin bir düzeni (mevsim, bitki, hava) bir cümleyle yaz."
+  },
+  {
+   "baslik": "Gördüğünü paylaş",
+   "aciklama": "Bugün dikkatini çeken bir doğa gözlemini bir yakınınla paylaş."
+  }
+ ],
+ "bugununAdimi": "Bugün en az beş dakika dışarıda gökyüzünü izle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=45&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/45/3"
+  }
+ ]
+}
