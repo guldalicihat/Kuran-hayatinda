@@ -1,0 +1,75 @@
+{
+ "sure": 37,
+ "ayet": 138,
+ "durum": "taslak",
+ "meal": "Geceleyin de. Hâlâ akıl erdiremiyor musunuz?",
+ "mealNotu": "'Leyl' kökü (ليل) geceyi, 'akl' kökü (عقل) akıl yürütmeyi, kavramayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَبِٱلَّيْلِ",
+   "okunus": "ve billeyli",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "geceleyin de"
+  },
+  {
+   "kelime": "أَفَلَا",
+   "okunus": "efelâ",
+   "kok": "—",
+   "kokAnlam": "hâlâ ... değil mi",
+   "karsilik": "hâlâ ... -miyorsunuz"
+  },
+  {
+   "kelime": "تَعْقِلُونَ",
+   "okunus": "ta'kılûne",
+   "kok": "عقل",
+   "kokAnlam": "akıl yürütme, kavrama",
+   "karsilik": "akıl erdiriyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki 'sabahleyin' ifadesine burada 'geceleyin' eklenir; geçiş yalnız gündüz değil, gece de tekrarlanır. Harabe, günün her vaktinde görülebilir bir uyarı olarak durur.",
+  "Ayet, retorik bir soruyla kapanır: sürekli görülen bu işarete rağmen neden akıl edilmiyor? Soru, suçlamaktan çok, düşünmeye çağıran bir sarsıntı niteliğindedir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "21:10",
+   "meal": "Andolsun, size içinde sizin için bir hatırlatma bulunan bir kitap indirdik; hâlâ akıl erdirmiyor musunuz?",
+   "baglanti": "Enbiyâ sûresi de aynı retorik soruyu, bu kez indirilen kitap üzerinden sorar; akletme çağrısı Kur'an'da tekrarlanan bir üsluptur."
+  },
+  {
+   "ref": "36:62",
+   "meal": "Andolsun, o [şeytan] sizden pek çok nesli saptırmıştı; hâlâ akıl erdirmiyor muydunuz?",
+   "baglanti": "Yâsîn sûresinde de aynı ifade kalıbı, şeytana uymanın sonucunu düşünmeye çağırmak için kullanılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, sürekli tekrarlanan bir uyarıyı görmezden gelmenin akılsızlığıdır; burada özel olarak Lût kavminin harabesi kastedilir.",
+  "Bugüne taşınabilecek ders, tekrar tekrar karşılaşılan bir gerçeği artık ciddiye almaktır. Bir şeyi defalarca görüp de üzerinde hiç durmamak, ayetin sorduğu soruyu bize de yöneltir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tekrarı fark et",
+   "aciklama": "Bugün, hayatında tekrar eden bir uyarı işaretini (bir alışkanlığın sonucu, bir kişinin sözü) ciddiye al."
+  },
+  {
+   "baslik": "Düşünmeye zaman ayır",
+   "aciklama": "Bugün birkaç dakikanı, günlük telaştan uzaklaşıp sade bir konuyu düşünmeye ayır."
+  },
+  {
+   "baslik": "Soruyu kendine sor",
+   "aciklama": "'Neden hâlâ görmezden geliyorum?' sorusunu bugün kendine, tek bir konuda dürüstçe sor."
+  }
+ ],
+ "bugununAdimi": "Bugün tekrar tekrar karşılaştığın ama önemsemediğin bir uyarıyı ciddiye al ve buna göre bir şey değiştir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=138"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/138"
+  }
+ ]
+}

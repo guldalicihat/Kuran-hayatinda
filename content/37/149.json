@@ -1,0 +1,89 @@
+{
+ "sure": 37,
+ "ayet": 149,
+ "durum": "taslak",
+ "meal": "Şimdi onlara sor: Kızlar Rabbinin de, oğullar kendilerinin mi?",
+ "mealNotu": "'İstifta' kökü (فتي) görüş sormayı, fetva istemeyi anlatır; ayet, müşriklere doğrudan bir soru yöneltmeyi emreder. 'Benât' ve 'benûn' aynı kökten (بني), sırasıyla kızlar ve oğullar demektir.",
+ "kokler": [
+  {
+   "kelime": "فَٱسْتَفْتِهِمْ",
+   "okunus": "festeftihim",
+   "kok": "فتي",
+   "kokAnlam": "görüş sorma, fetva isteme",
+   "karsilik": "şimdi onlara sor"
+  },
+  {
+   "kelime": "أَلِرَبِّكَ",
+   "okunus": "elirabbike",
+   "kok": "ربب",
+   "kokAnlam": "sahiplik, terbiye; Rab",
+   "karsilik": "Rabbine mi"
+  },
+  {
+   "kelime": "ٱلْبَنَاتُ",
+   "okunus": "elbenâtü",
+   "kok": "بني",
+   "kokAnlam": "evlat, çocuk; kız evlat",
+   "karsilik": "kızlar"
+  },
+  {
+   "kelime": "وَلَهُمُ",
+   "okunus": "ve lehümü",
+   "kok": "—",
+   "kokAnlam": "ve onlara ait",
+   "karsilik": "kendilerine ise"
+  },
+  {
+   "kelime": "ٱلْبَنُونَ",
+   "okunus": "elbenûne",
+   "kok": "بني",
+   "kokAnlam": "evlat, çocuk; erkek evlat",
+   "karsilik": "oğullar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Burada konu değişir: Yûnus kıssasından sonra sûre, dönemin müşriklerinin bir iddiasına döner. Bazı Mekkeli müşrikler, meleklerin Allah'ın kızları olduğunu söylüyor, kendilerine ise erkek evladı yeğliyorlardı. Ayet, bu tutarsızlığı doğrudan bir soruyla ortaya koyar: kızları Allah'a yakıştırıp oğulları kendilerine ayırmaları nasıl bir mantıktır?",
+  "Soru, bir bilgi talebi değil, bir yüzleştirmedir. O dönemde kız çocuğuna değer vermeyen bir zihniyetin, aynı zamanda Allah'a 'kız evlat' yakıştırması, ayetin ortaya koyduğu çelişkinin özüdür. Devamındaki ayetler bu soruyu daha da açar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "16:57",
+   "meal": "Allah'a kızları isnat ediyorlar; O bundan münezzehtir. Kendilerine ise canlarının istediğini (erkek çocukları) ayırıyorlar.",
+   "baglanti": "Nahl sûresi, burada soru şeklinde sorulan çelişkiyi doğrudan bir ifadeyle dile getirir: Allah'a yakıştırdıkları, kendileri için istemedikleridir."
+  },
+  {
+   "ref": "17:40",
+   "meal": "Rabbiniz sizi oğullarla ayırdı da kendisi meleklerden kızlar mı edindi? Gerçekten siz büyük bir söz söylüyorsunuz.",
+   "baglanti": "İsrâ sûresi de aynı soruyu, aynı çelişkiyi vurgulayarak sorar; bu, birkaç surede tekrarlanan bir uyarıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dönemin müşriklerinin Allah hakkındaki özel bir iddiasıdır; bu, genel bir ahlak dersinden çok, tarihî bir teolojik tartışmadır.",
+  "Bugüne taşınabilecek ders, kendi tercihimizle başkasına yakıştırdığımız arasındaki tutarlılıktır. Kendimiz için istemediğimizi bir başkasına, hatta Allah'a yakıştırmak, burada sorgulanan çelişkinin özüdür."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tutarlılığını sına",
+   "aciklama": "Bugün, kendin için istediğinle başkasına yakıştırdığın arasında bir çelişki olup olmadığını düşün."
+  },
+  {
+   "baslik": "Ayrımı fark et",
+   "aciklama": "Kız ve erkek çocuğa yaklaşımında bugün kendi tutumunu gözden geçir."
+  },
+  {
+   "baslik": "Kıyası bırak",
+   "aciklama": "Bugün Allah hakkında konuşurken, kendi beğenini O'na yakıştırmaktan kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda kendi tercihinle başkasına biçtiğin ölçü arasında tutarlı olup olmadığını bir kez sorgula.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=149"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/149"
+  }
+ ]
+}

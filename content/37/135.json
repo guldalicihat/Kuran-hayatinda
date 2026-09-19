@@ -1,0 +1,82 @@
+{
+ "sure": 37,
+ "ayet": 135,
+ "durum": "taslak",
+ "meal": "Ancak geride kalanlar arasındaki yaşlı kadın hariç.",
+ "mealNotu": "'Acûz' kökü (عجز) yaşlılığı/güçsüzlüğü, 'gabir' kökü (غبر) geride kalmayı anlatır. Bağlamdan bu kadının Lût'un eşi olduğu anlaşılır; ayet bunu açıkça söylemez.",
+ "kokler": [
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna edatı",
+   "karsilik": "ancak ... hariç"
+  },
+  {
+   "kelime": "عَجُوزًا",
+   "okunus": "acûzen",
+   "kok": "عجز",
+   "kokAnlam": "yaşlılık, güçsüzlük",
+   "karsilik": "yaşlı bir kadın"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "içinde",
+   "karsilik": "arasındaki"
+  },
+  {
+   "kelime": "ٱلْغَٰبِرِينَ",
+   "okunus": "elgâbirîne",
+   "kok": "غبر",
+   "kokAnlam": "geride kalma, arkada bırakılma",
+   "karsilik": "geride kalanlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki 'tamamı' ifadesi burada bir istisnayla sınırlanır: yaşlı bir kadın, kurtulanların dışında kalmıştır. Ayet bu kişinin kimliğini burada açıkça söylemez; başka surelerde bunun Lût'un eşi olduğu anlaşılır.",
+  "'Gâbirîn' (geride kalanlar) ifadesi, helak olan kavimle aynı kaderi paylaşanları anlatır. Kan bağı veya aile yakınlığı, doğru çizgide durmayan biri için tek başına kurtarıcı olmaz."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:171",
+   "meal": "Ancak geride kalanlar arasındaki yaşlı kadın hariç.",
+   "baglanti": "Aynı ifade Şuarâ sûresinde de birebir geçer; iki sûre bu istisnayı aynı kalıpla anlatır."
+  },
+  {
+   "ref": "66:10",
+   "meal": "Allah, inkâr edenlere Nûh'un karısı ile Lût'un karısını örnek verdi; ikisi de, aramızdaki salih iki kulumuzun nikâhı altındaydı, ama onlara ihanet ettiler; bu yüzden [kocaları,] Allah'a karşı onlara hiçbir fayda sağlayamadı.",
+   "baglanti": "Tahrîm sûresi, bu yaşlı kadının kimliğini ve akıbetini açıkça bildirir; iman bağının kan bağından önce geldiğini gösteren bir örnek olarak sunar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir aile bireyinin, aile içindeki konumuna rağmen kurtuluşun dışında kalmasıdır.",
+  "Bugüne taşınabilecek ders açıktır: bir kişinin akıbeti, kimin yakını olduğuna değil, kendi tercih ve tutumuna bağlıdır. Bu, kimseyi suçlamak için değil, herkesin kendi sorumluluğunu hatırlaması için bir uyarıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kendi sorumluluğunu üstlen",
+   "aciklama": "Bugün bir kararını, 'ailem böyle yapıyor' diye değil, kendi doğrunla ver."
+  },
+  {
+   "baslik": "Yakınına nazik ol",
+   "aciklama": "Bu ayeti, birini yargılamak için değil, kendi tutumunu gözden geçirmek için oku."
+  },
+  {
+   "baslik": "Bağlamı tamamla",
+   "aciklama": "Tahrîm 66:10'u okuyarak bu kısa ayetin arka planını netleştir."
+  }
+ ],
+ "bugununAdimi": "Bugün Tahrîm 66:10'u okuyup bu ayette geçen yaşlı kadının kim olduğunu öğren.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=135"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/135"
+  }
+ ]
+}

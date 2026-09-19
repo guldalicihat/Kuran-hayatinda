@@ -1,0 +1,96 @@
+{
+ "sure": 37,
+ "ayet": 177,
+ "durum": "taslak",
+ "meal": "Fakat o [azap] yurtlarına indiğinde, uyarılanların sabahı ne kötü olur!",
+ "mealNotu": "'Nüzul' kökü (نزل) inmeyi, 'sû' kökü (سوأ) kötülüğü, 'sabah' kökü (صبح) sabah vaktini, 'nezr' kökü (نذر) uyarmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "فَإِذَا",
+   "okunus": "feizâ",
+   "kok": "—",
+   "kokAnlam": "-ince, -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "نَزَلَ",
+   "okunus": "nezele",
+   "kok": "نزل",
+   "kokAnlam": "inme",
+   "karsilik": "indiğinde"
+  },
+  {
+   "kelime": "بِسَاحَتِهِمْ",
+   "okunus": "bisâhatihim",
+   "kok": "سوح",
+   "kokAnlam": "avlu, yurt, alan",
+   "karsilik": "yurtlarına"
+  },
+  {
+   "kelime": "فَسَآءَ",
+   "okunus": "fesâe",
+   "kok": "سوأ",
+   "kokAnlam": "kötü olma",
+   "karsilik": "ne kötü olur"
+  },
+  {
+   "kelime": "صَبَاحُ",
+   "okunus": "sabâhu",
+   "kok": "صبح",
+   "kokAnlam": "sabah vakti",
+   "karsilik": "sabahı"
+  },
+  {
+   "kelime": "ٱلْمُنذَرِينَ",
+   "okunus": "elmünzerîne",
+   "kok": "نذر",
+   "kokAnlam": "uyarma, korkutucu haber verme",
+   "karsilik": "uyarılanların"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetteki alaycı acele istekle bu ayetteki sonuç arasında sert bir tezat vardır: azap gerçekten geldiğinde, alay edenlerin sabahı çok kötü olacaktır. 'Sabah' kelimesi, önceki peygamber kıssalarında da (137. ayette Lût kavmi için) geçen bir imgeyi hatırlatır.",
+  "Ayet, alaycı bir meydan okumanın karşılığını yalın ama etkili bir cümleyle verir; uzun bir tasvire girmeden, sonucun ne kadar ağır olacağını 'ne kötü bir sabah' ifadesiyle özetler."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "37:137",
+   "meal": "Şüphesiz siz, sabahleyin onların yurtlarının yanından geçip gidiyorsunuz.",
+   "baglanti": "Sûrenin başında Lût kavminin harabesinden 'sabahleyin' geçildiği anlatılmıştı; burada da azabın geldiği an yine bir 'sabah' olarak anılır."
+  },
+  {
+   "ref": "26:173",
+   "meal": "Üzerlerine bir yağmur yağdırdık; uyarılanların yağmuru ne kötüydü!",
+   "baglanti": "Şuarâ sûresi, Lût kavmi için neredeyse aynı kalıpla ('uyarılanların ... ne kötüydü') bir ifade kullanır; iki ayet benzer bir üslup paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, alayla istenen azabın gerçekten geldiğinde ne kadar ağır olacağıdır.",
+  "Bugüne taşınabilecek ders, bir uyarıyı hafife almanın bedelinin, uyarı gerçekleştiğinde çok daha ağır hissedilebileceğidir. Bu, korkutmak için değil, uyarıları zamanında ciddiye almanın değerini hatırlatmak için bir derstir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zamanında davran",
+   "aciklama": "Bugün ertelediğin bir uyarıya, geç kalmadan şimdi kulak ver."
+  },
+  {
+   "baslik": "Sonucu öngör",
+   "aciklama": "Bir davranışının olası kötü sonucunu bugün önceden düşünüp ona göre hareket et."
+  },
+  {
+   "baslik": "Hafife almadan dinle",
+   "aciklama": "Bugün sana verilen bir uyarıyı, gülüp geçmeden ciddiye al."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir uyarıya kulak verip, geç kalmadan küçük bir önlem al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=177"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/177"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "sure": 37,
+ "ayet": 157,
+ "durum": "taslak",
+ "meal": "Eğer doğru sözlü iseniz, kitabınızı getirin.",
+ "mealNotu": "'Kitâb' kökü (كتب) yazmayı, yazılı belgeyi anlatır; 'sıdk' kökü (صدق) doğruluğu ifade eder.",
+ "kokler": [
+  {
+   "kelime": "فَأْتُوا۟",
+   "okunus": "fe'tû",
+   "kok": "أتي",
+   "kokAnlam": "getirme, gelme",
+   "karsilik": "getirin"
+  },
+  {
+   "kelime": "بِكِتَٰبِكُمْ",
+   "okunus": "bikitâbiküm",
+   "kok": "كتب",
+   "kokAnlam": "yazılı belge, kitap",
+   "karsilik": "kitabınızı"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "صَٰدِقِينَ",
+   "okunus": "sâdikîne",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, doğru söyleme",
+   "karsilik": "doğru sözlü"
+  }
+ ],
+ "neAnlatiyor": [
+  "Soru dizisi burada bir meydan okumayla sonuçlanır: iddianızı destekleyen yazılı bir kaynağınız varsa getirin. Bu, önceki 'delil' sorusunu somutlaştırır; sözlü bir iddia değil, yazılı ve kontrol edilebilir bir kanıt istenir.",
+  "Ayet, bu meydan okumanın cevapsız kalacağını önceden bilir gibi bir üslupla kurulmuştur; çünkü hiçbir ilahi kitapta böyle bir iddia yer almaz. Sorular dizisi burada biter; bir sonraki ayetten itibaren konu, cinlerle kurulan başka bir asılsız iddiaya döner."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "46:4",
+   "meal": "De ki: '...Eğer doğru sözlü iseniz, bundan önceki bir kitabı veya bir bilgi kalıntısını bana getirin.'",
+   "baglanti": "Ahkâf sûresi de benzer bir meydan okumayı, farklı bir konuda (putların yaratıcılığı iddiası) tekrarlar; ikisi de yazılı ve aktarılmış bir delil ister."
+  },
+  {
+   "ref": "2:111",
+   "meal": "...De ki: 'Eğer doğru sözlü iseniz delilinizi getirin.'",
+   "baglanti": "Bakara sûresi de aynı ispat yükünü, farklı bir iddia (cennete kimin gireceği) için karşı tarafa yükler; bu, Kur'an'da tekrarlanan bir tartışma kuralıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, dönemin müşriklerine yöneltilen somut bir meydan okumadır.",
+  "Bugüne taşınabilecek ders, iddia ile ispat arasındaki farkı korumaktır. Bir şeyi söylemek kolaydır; onu delillendirmek ayrı bir sorumluluktur. Bu ölçü, günlük konuşmalarımızda da geçerlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaynağını göster",
+   "aciklama": "Bugün paylaştığın bir bilginin kaynağını, istenirse gösterebilecek şekilde net tut."
+  },
+  {
+   "baslik": "İspatsız iddiadan kaçın",
+   "aciklama": "Bugün elinde delil olmayan bir konuda kesin bir dille konuşmaktan kaçın."
+  },
+  {
+   "baslik": "Soruyu sor",
+   "aciklama": "Güçlü bir iddiayla karşılaştığında bugün nazikçe 'Kaynağın nedir?' diye sor."
+  }
+ ],
+ "bugununAdimi": "Bugün bir iddiada bulunmadan önce, onu destekleyecek bir kaynağın olup olmadığını kontrol et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=157"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/157"
+  }
+ ]
+}

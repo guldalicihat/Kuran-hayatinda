@@ -1,0 +1,82 @@
+{
+ "sure": 37,
+ "ayet": 152,
+ "durum": "taslak",
+ "meal": "'Allah doğurdu' [diyorlar]. Oysa onlar kesinlikle yalancıdırlar.",
+ "mealNotu": "'Veled' kökü (ولد) doğurmayı, çocuk sahibi olmayı anlatır; 'kezib' kökü (كذب) yalanı ifade eder. Ayet, bir önceki ayette söz edilen iddiayı burada açıkça aktarır ve hemen ardından hükmünü verir.",
+ "kokler": [
+  {
+   "kelime": "وَلَدَ",
+   "okunus": "velede",
+   "kok": "ولد",
+   "kokAnlam": "doğurma, çocuk sahibi olma",
+   "karsilik": "doğurdu"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "tapınılan, ilah; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَإِنَّهُمْ",
+   "okunus": "ve innehüm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) ve gerçekten onlar",
+   "karsilik": "oysa onlar"
+  },
+  {
+   "kelime": "لَكَٰذِبُونَ",
+   "okunus": "lekâzibûne",
+   "kok": "كذب",
+   "kokAnlam": "yalan söyleme",
+   "karsilik": "kesinlikle yalancıdırlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette 'uydurma' diye nitelenen söz, burada açıkça aktarılır: 'Allah doğurdu.' Ayet, bu iddiayı aktardıktan hemen sonra, uzun bir tartışmaya girmeden hükmünü verir: bu söz yalandır.",
+  "Ayet ek bir gerekçe sıralamaz; iddiayı söyleyip yalanladıktan sonra konuyu kapatır. Bu kısa ve kesin üslup, sûrenin devamında (153-157) sorularla derinleştirilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "112:3",
+   "meal": "O, doğurmamış ve doğurulmamıştır.",
+   "baglanti": "İhlâs sûresi, burada yalanlanan iddianın tam karşıtını, Allah'ın doğurmadığını ve doğurulmadığını en yalın haliyle bildirir."
+  },
+  {
+   "ref": "19:88",
+   "meal": "'Rahmân çocuk edindi' dediler.",
+   "baglanti": "Meryem sûresi de aynı iddiayı aktarır; ardından gelen ayetlerde bu sözün ne kadar ağır bir söz olduğu vurgulanır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, doğrudan Allah hakkında söylenen bir sözün doğru olup olmadığıdır; bu genel bir yaşam dersinden çok, temel bir inanç konusudur.",
+  "Bugüne taşınabilecek ders, kesin ve açık bir yalanla karşılaşınca uzun tartışmalara girmeden onu net bir dille reddedebilmektir. Her yanlışın uzun bir savunmaya ihtiyacı yoktur; bazen net bir 'hayır' yeterlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Net ol",
+   "aciklama": "Bugün açıkça yanlış olduğunu bildiğin bir sözü, uzun tartışmaya girmeden net bir dille düzelt."
+  },
+  {
+   "baslik": "Temel bir inancı oku",
+   "aciklama": "İhlâs sûresini bugün oku ve bu ayetle bağlantısını düşün."
+  },
+  {
+   "baslik": "Sabit kal",
+   "aciklama": "İnandığın temel bir gerçeği, çevrenin baskısına rağmen bugün değiştirmeden koru."
+  }
+ ],
+ "bugununAdimi": "Bugün İhlâs sûresini oku ve anlamını bir kez düşünerek tekrar et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=152"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/152"
+  }
+ ]
+}

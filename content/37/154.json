@@ -1,0 +1,82 @@
+{
+ "sure": 37,
+ "ayet": 154,
+ "durum": "taslak",
+ "meal": "Size ne oluyor, nasıl hükmediyorsunuz?",
+ "mealNotu": "'Hükm' kökü (حكم) karar vermeyi, hüküm koymayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "size",
+   "karsilik": "size [oluyor]"
+  },
+  {
+   "kelime": "كَيْفَ",
+   "okunus": "keyfe",
+   "kok": "كيف",
+   "kokAnlam": "nasıl",
+   "karsilik": "nasıl"
+  },
+  {
+   "kelime": "تَحْكُمُونَ",
+   "okunus": "tahkümûne",
+   "kok": "حكم",
+   "kokAnlam": "hüküm verme, karar verme",
+   "karsilik": "hükmediyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sorular dizisi burada doğrudan muhataba yönelir: 'Size ne oluyor?' Bu, önceki ayetlerdeki iddiaların tutarsızlığını, artık soyut bir eleştiri olarak değil, doğrudan bir yüzleştirme olarak sunar.",
+  "'Nasıl hükmediyorsunuz' ifadesi, verdikleri hükmün bir bilgiye değil, keyfi bir tercihe dayandığını ima eder. Soru, cevap beklemeden bırakılır; bir sonraki ayet bunu 'düşünmüyor musunuz' sorusuyla tamamlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "68:36",
+   "meal": "Size ne oluyor, nasıl hükmediyorsunuz?",
+   "baglanti": "Kalem sûresinde de aynı ifade, farklı bir bağlamda (ahiret konusunda) aynı yapıyla tekrarlanır; bu, Kur'an'da tutarsız hükümleri sorgulayan tekrarlanan bir kalıptır."
+  },
+  {
+   "ref": "10:35",
+   "meal": "De ki: 'Ortaklarınızdan hakka ulaştıran var mı?' De ki: 'Allah hakka ulaştırır.' Öyleyse hakka ulaştıran mı uyulmaya daha layıktır, yoksa kendisi doğru yolu bulamayan biri mi? Size ne oluyor, nasıl hükmediyorsunuz?",
+   "baglanti": "Yûnus sûresi, aynı soruyu bu kez ortak koşma konusunda sorar; her ikisi de dayanaksız bir hükme dikkat çeker."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, müşriklerin Allah hakkındaki tutarsız hükmünü doğrudan sorgulamaktır.",
+  "Bugüne taşınabilecek ders, verdiğimiz hükümlerin dayanağını sorgulamaktır. 'Nasıl bu sonuca vardım?' sorusu, günlük kararlarımızda da bize netlik kazandırabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Dayanağını sorgula",
+   "aciklama": "Bugün verdiğin bir hükmün ('bu doğru', 'bu yanlış') dayanağını kendine sor."
+  },
+  {
+   "baslik": "Keyfilikten kaçın",
+   "aciklama": "Önemli bir kararı bugün, sadece hoşuna gittiği için değil, gerekçesiyle ver."
+  },
+  {
+   "baslik": "Kendine sor",
+   "aciklama": "Bugün bir konuda hüküm vermeden önce, 'Bu hükmü neye dayandırıyorum?' diye kısa bir an dur."
+  }
+ ],
+ "bugununAdimi": "Bugün önemli bir hükmünü vermeden önce, dayanağını kısaca kendine yazılı olarak açıkla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=154"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/154"
+  }
+ ]
+}

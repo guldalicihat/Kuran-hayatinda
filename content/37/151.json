@@ -1,0 +1,89 @@
+{
+ "sure": 37,
+ "ayet": 151,
+ "durum": "taslak",
+ "meal": "Dikkat edin! Onlar, kesinlikle kendi uydurdukları yalandan ötürü şöyle diyorlar:",
+ "mealNotu": "'İfk' kökü (أفك) gerçeği tersine çevirmeyi, uydurmayı anlatır; ağır bir yalan türünü ifade eder.",
+ "kokler": [
+  {
+   "kelime": "أَلَآ",
+   "okunus": "elâ",
+   "kok": "—",
+   "kokAnlam": "dikkat edin, uyanın",
+   "karsilik": "dikkat edin"
+  },
+  {
+   "kelime": "إِنَّهُم",
+   "okunus": "innehüm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) gerçekten onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "مِّنْ",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "-den, -dan",
+   "karsilik": "-den ötürü"
+  },
+  {
+   "kelime": "إِفْكِهِمْ",
+   "okunus": "ifkihim",
+   "kok": "أفك",
+   "kokAnlam": "gerçeği çarpıtma, uydurma",
+   "karsilik": "kendi uydurdukları yalan"
+  },
+  {
+   "kelime": "لَيَقُولُونَ",
+   "okunus": "leyekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "kesinlikle diyorlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir sonraki ayette aktarılacak sözden önce bir uyarı cümlesiyle başlar: 'Dikkat edin!'. Bu uyarı, gelecek sözün ne kadar ciddi bir iddia olduğuna dikkat çeker.",
+  "'İfk' kelimesi, sıradan bir yanılgıyı değil, bilinçli bir çarpıtmayı anlatır. Ayet, müşriklerin Allah hakkındaki sözünü bir görüş farkı olarak değil, doğrudan bir uydurma olarak nitelendirir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:100",
+   "meal": "Onlar cinleri Allah'a ortak koştular; oysa onları O yarattı. Bilgisizce O'na oğullar ve kızlar uydurdular. O, onların nitelendirdiği şeylerden münezzeh ve yücedir.",
+   "baglanti": "En'âm sûresi, aynı iddiayı 'bilgisizce uydurma' olarak niteler; bu ayetteki 'ifk' kelimesiyle aynı gerçeği anlatır."
+  },
+  {
+   "ref": "24:11",
+   "meal": "Şüphesiz o ağır iftirayı (ifk) getirenler, içinizden bir gruptur...",
+   "baglanti": "Nûr sûresi de 'ifk' kökünü, gerçeği tersine çeviren ağır bir iftira için kullanır; kelimenin ağırlığını gösteren bir başka örnektir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Allah hakkında söylenen ağır bir sözün nasıl nitelendirildiğidir; doğrudan bir teolojik uyarıdır.",
+  "Bugüne taşınabilecek ders, sözün ağırlığını fark etmektir. Bir iddiayı ortaya atmadan önce, onun bir çarpıtma olup olmadığını düşünmek, hem Allah hakkında hem insanlar hakkında konuşurken önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü tart",
+   "aciklama": "Bugün söyleyeceğin bir sözün, gerçeği çarpıtıp çarpıtmadığını konuşmadan önce düşün."
+  },
+  {
+   "baslik": "Dikkatle dinle",
+   "aciklama": "Bir iddia duyduğunda bugün hemen kabul etmeden, kaynağını ve doğruluğunu sorgula."
+  },
+  {
+   "baslik": "Yayma",
+   "aciklama": "Doğruluğundan emin olmadığın bir sözü bugün başkasına aktarmaktan kaçın."
+  }
+ ],
+ "bugununAdimi": "Bugün paylaşacağın bir bilgiyi, doğruluğundan emin olmadan aktarmamaya özen göster.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=151"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/151"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "sure": 37,
+ "ayet": 150,
+ "durum": "taslak",
+ "meal": "Yoksa biz melekleri dişi yarattık da onlar buna şahit mi oldular?",
+ "mealNotu": "'Halk' kökü (خلق) yaratmayı, 'şühûd' kökü (شهد) tanık olup görmeyi anlatır. Ayet, iddianın dayanaksızlığını bir soruyla ortaya koyar.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "خَلَقْنَا",
+   "okunus": "haleknâ",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "biz yarattık"
+  },
+  {
+   "kelime": "ٱلْمَلَٰٓئِكَةَ",
+   "okunus": "elmelâikete",
+   "kok": "ملك",
+   "kokAnlam": "melek",
+   "karsilik": "melekleri"
+  },
+  {
+   "kelime": "إِنَٰثًا",
+   "okunus": "inâsen",
+   "kok": "أنث",
+   "kokAnlam": "dişilik",
+   "karsilik": "dişi"
+  },
+  {
+   "kelime": "وَهُمْ",
+   "okunus": "ve hüm",
+   "kok": "—",
+   "kokAnlam": "ve onlar",
+   "karsilik": "ve onlar [iken]"
+  },
+  {
+   "kelime": "شَٰهِدُونَ",
+   "okunus": "şâhidûne",
+   "kok": "شهد",
+   "kokAnlam": "tanık olma, şahitlik",
+   "karsilik": "şahit"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki soruyu genişletir: müşrikler meleklerin dişi olduğunu iddia ediyordu. Ayet bunun dayanağını sorar: bu yaratılışa şahit mi oldular? Soru, iddianın bir bilgiye değil, tahmine dayandığını ortaya koyar.",
+  "Bu, ayetin kendi üslubudur: karşı tarafın iddiasını çürütmek için ek bir teori sunmaz, sadece iddianın hiçbir temele dayanmadığını bir soruyla gösterir. Meleklerin cinsiyeti hakkında bir bilgi verilmez; sorgulanan, temelsiz bir iddianın kendisidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "43:19",
+   "meal": "Rahmân'ın kulları olan melekleri de dişi saydılar. Onların yaratılışına şahit mi oldular? Onların şahitlikleri yazılacak ve sorguya çekilecekler.",
+   "baglanti": "Zuhruf sûresi aynı iddiayı, aynı 'şahit oldular mı' sorusuyla ele alır ve buna bir sorumluluk (yazılma, sorgulanma) ekler."
+  },
+  {
+   "ref": "53:27",
+   "meal": "Ahirete inanmayanlar, meleklere dişi adları takıyorlar.",
+   "baglanti": "Necm sûresi de aynı iddiayı anar; bu isimlendirmenin ahirete inanmamakla bağlantılı olduğunu belirtir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, meleklerin cinsiyeti hakkında dayanaksız bir iddiadır; bu, dönemin müşriklerine özgü bir tartışmadır.",
+  "Bugüne taşınabilecek ders, bir konuda tanıklığımız veya bilgimiz olmadan kesin hüküm vermemektir. Ayetin sorduğu 'şahit mi oldunuz' sorusu, bilmediğimiz konularda konuşurken bize de bir ölçü verir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilmediğini kabul et",
+   "aciklama": "Bugün hakkında kesin bilgin olmayan bir konuda, tahminini kesin bilgi gibi sunmaktan kaçın."
+  },
+  {
+   "baslik": "Kaynağını sorgula",
+   "aciklama": "Bir iddiayı paylaşmadan önce bugün, 'Bunun dayanağı ne?' diye kendine sor."
+  },
+  {
+   "baslik": "Gaybı Allah'a bırak",
+   "aciklama": "Bilgimizin ulaşamadığı konuları bugün olduğu gibi, bilmediğini kabul ederek bırak."
+  }
+ ],
+ "bugununAdimi": "Bugün emin olmadığın bir konuda kesin konuşmak yerine 'bilmiyorum' demeyi dene.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=150"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/150"
+  }
+ ]
+}

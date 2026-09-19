@@ -1,0 +1,68 @@
+{
+ "sure": 37,
+ "ayet": 155,
+ "durum": "taslak",
+ "meal": "Hiç düşünüp öğüt almaz mısınız?",
+ "mealNotu": "'Zikr' kökü (ذكر) hatırlamayı, düşünüp öğüt almayı anlatır; 'tezekkür' bu kökten, üzerinde düşünüp ders çıkarma demektir.",
+ "kokler": [
+  {
+   "kelime": "أَفَلَا",
+   "okunus": "efelâ",
+   "kok": "—",
+   "kokAnlam": "hâlâ ... değil mi",
+   "karsilik": "hiç ... -maz mısınız"
+  },
+  {
+   "kelime": "تَذَكَّرُونَ",
+   "okunus": "tezekkerûne",
+   "kok": "ذكر",
+   "kokAnlam": "düşünüp öğüt alma, hatırlama",
+   "karsilik": "düşünüp öğüt alıyorsunuz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Soru dizisi burada kısa ve yoğun bir cümleyle devam eder. Önceki ayetteki 'nasıl hükmediyorsunuz' sorusuna, burada 'hiç düşünmüyor musunuz' sorusu eklenir; ikisi birlikte, iddianın üzerinde hiç durulmadan tekrarlandığını ima eder.",
+  "'Tezekkür' kelimesi, sadece bilgiyi almayı değil, onun üzerinde durup ders çıkarmayı anlatır. Ayet, müşrikleri iddialarını savunmaya değil, önce düşünmeye çağırır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:80",
+   "meal": "...Rabbim her şeyi ilmiyle kuşatmışken, Rabbim hakkında benimle tartışıyor musunuz? Hâlâ düşünüp öğüt almıyor musunuz?",
+   "baglanti": "En'âm sûresinde de İbrâhîm'in ağzından aynı soru, kavmine yöneltilir; her ikisi de tartışmadan önce düşünmeye çağırır."
+  },
+  {
+   "ref": "16:17",
+   "meal": "Yaratan, yaratmayan gibi midir? Hiç düşünmüyor musunuz?",
+   "baglanti": "Nahl sûresi de aynı kalıpla, farklı bir konuda (yaratma) aynı çağrıyı yapar; bu, Kur'an'da sık tekrarlanan bir üsluptur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, müşriklerin iddiasını sorgulamadan tekrarlamasıdır.",
+  "Bugüne taşınabilecek ders, bir bilgiyi veya inancı sorgulamadan tekrarlamak yerine, önce onun üzerinde düşünmektir. Aceleyle kabul edilen bir fikir, çoğu zaman denetimsiz kalır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Durup düşün",
+   "aciklama": "Bugün bir konuda hemen tepki vermeden önce, kısa bir süre durup düşün."
+  },
+  {
+   "baslik": "Sorgula",
+   "aciklama": "Uzun zamandır sorgulamadan kabul ettiğin bir fikri bugün yeniden gözden geçir."
+  },
+  {
+   "baslik": "Öğüt çıkar",
+   "aciklama": "Bugün yaşadığın küçük bir olaydan, bir ders çıkarmaya çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda hemen tepki vermeden önce en az bir dakika durup düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=155"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/155"
+  }
+ ]
+}

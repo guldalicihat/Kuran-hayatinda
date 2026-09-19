@@ -1,0 +1,75 @@
+{
+ "sure": 37,
+ "ayet": 167,
+ "durum": "taslak",
+ "meal": "Onlar gerçekten şöyle diyorlardı:",
+ "mealNotu": "'Kavl' kökü (قول) söylemeyi anlatır. Ayet, bir sonraki ayette aktarılacak sözün girişidir.",
+ "kokler": [
+  {
+   "kelime": "وَإِن",
+   "okunus": "ve in",
+   "kok": "—",
+   "kokAnlam": "ve gerçekten (te'kid amaçlı)",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-lardı"
+  },
+  {
+   "kelime": "لَيَقُولُونَ",
+   "okunus": "leyekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "diyorlardı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Konu burada değişir: önceki ayetler meleklerin kendi ifadesini aktarırken, bu ayet yeniden müşriklere döner ve onların daha önce söylediği bir sözü hatırlatır. 'Kânû' (idiler) fiili, bunun sürekli tekrarlanan bir söz olduğunu ima eder.",
+  "Bu giriş cümlesi, bir sonraki ayette açıklanacak olan iddiayı merakla bekletir: müşrikler neyi söylüyorlardı? Cevap hemen ardından gelir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:156",
+   "meal": "'Kitap, yalnız bizden önceki iki topluluğa indirildi; biz ise onların okuyup öğrendiklerinden habersizdik' demeyesiniz diye [bu Kitabı indirdik].",
+   "baglanti": "En'âm sûresi de bu iddianın bir benzerini, farklı bir gerekçeyle (bilgisizlik mazereti) aktarır; iki ayet de aynı tür bir bahaneyi konu edinir."
+  },
+  {
+   "ref": "35:42",
+   "meal": "Var güçleriyle Allah'a yemin ettiler ki, kendilerine bir uyarıcı gelirse, ümmetlerin en doğru yolda olanından biri olacaklardı. Ama kendilerine bir uyarıcı gelince, bu onların yalnızca nefretini artırdı.",
+   "baglanti": "Fâtır sûresi de aynı tür bir iddiayı (uyarıcı gelseydi en doğru yolda olurduk) aktarır; ikisi de sözün boş bir iddiadan ibaret olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, müşriklerin daha önce sürekli tekrarladığı bir sözün girişidir; teolojik bir bağlamdır.",
+  "Bugüne taşınabilecek ders, söylenen sözlerin sınanmasıdır. Bir iddia kolayca söylenebilir; ama gerçek durum ortaya çıktığında o iddianın ne kadar samimi olduğu görülür. Bir sonraki ayetler bunun örneğini verir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sözünü sına",
+   "aciklama": "Bugün daha önce söylediğin bir sözü, şimdiki davranışınla karşılaştır."
+  },
+  {
+   "baslik": "Bahaneyi fark et",
+   "aciklama": "Bir sorumluluktan kaçmak için kullandığın bir bahaneyi bugün dürüstçe gözden geçir."
+  },
+  {
+   "baslik": "Devamını oku",
+   "aciklama": "Bu iddianın ne olduğunu görmek için bir sonraki ayeti (168-170) oku."
+  }
+ ],
+ "bugununAdimi": "Bugün geçmişte söylediğin bir sözü hatırlayıp, ona ne kadar sadık kaldığını değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=167"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/167"
+  }
+ ]
+}

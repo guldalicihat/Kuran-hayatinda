@@ -1,0 +1,82 @@
+{
+ "sure": 37,
+ "ayet": 156,
+ "durum": "taslak",
+ "meal": "Yoksa sizin apaçık bir deliliniz mi var?",
+ "mealNotu": "'Sultan' kökü (سلط) burada güç anlamından çok, açık delil ve kanıt anlamında kullanılır; 'mübîn' kökü (بين) açık, net olmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَمْ",
+   "okunus": "em",
+   "kok": "—",
+   "kokAnlam": "yoksa",
+   "karsilik": "yoksa"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "sizin",
+   "karsilik": "sizin"
+  },
+  {
+   "kelime": "سُلْطَٰنٌ",
+   "okunus": "sültânün",
+   "kok": "سلط",
+   "kokAnlam": "güç, yetki; açık delil",
+   "karsilik": "bir delil"
+  },
+  {
+   "kelime": "مُّبِينٌ",
+   "okunus": "mübînün",
+   "kok": "بين",
+   "kokAnlam": "açıklık, netlik",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sorular dizisi burada iddianın dayanağına döner: elinizde bunu kanıtlayan açık bir delil mi var? Soru, önceki ayetlerdeki 'şahit oldunuz mu' sorusuyla aynı çizgidedir; iddianın bir bilgiye değil, varsayıma dayandığını hatırlatır.",
+  "Bir sonraki ayette bu soru daha da somutlaşır: eğer böyle bir delil (yazılı bir kaynak) varsa, getirilmesi istenir. Bu, iddiayı reddetmenin ötesinde, ispat yükünü karşı tarafa bırakan bir üsluptur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "53:23",
+   "meal": "Bunlar, sizin ve atalarınızın taktığı, Allah'ın hiçbir delil indirmediği sadece isimlerden ibarettir. Onlar, yalnızca zanna ve nefislerin arzusuna uyuyorlar; oysa kendilerine Rablerinden doğru yol rehberi gelmiştir.",
+   "baglanti": "Necm sûresi de aynı iddianın hiçbir delile dayanmadığını, sadece isimlendirme ve zandan ibaret olduğunu açıkça belirtir."
+  },
+  {
+   "ref": "6:81",
+   "meal": "...Hakkında size hiçbir delil indirmediği şeyleri Allah'a ortak koşmaktan korkmuyor da siz mi korkmuyorsunuz?",
+   "baglanti": "En'âm sûresi, delilsiz bir iddiayı savunmanın asıl korkulması gereken şey olduğunu vurgular; burada da aynı 'delilsizlik' vurgusu geçer."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, dönemin müşriklerinin iddiasının delilsizliğidir; teolojik bir sorgulamadır.",
+  "Bugüne taşınabilecek ders, bir iddiayı ileri sürerken delilimizin olup olmadığını sormaktır. Delilsiz bir iddiayı ısrarla savunmak, hem kendimize hem başkalarına haksızlık olabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Delilini iste",
+   "aciklama": "Bugün duyduğun bir iddiayı kabul etmeden önce, 'Bunun delili ne?' diye sor."
+  },
+  {
+   "baslik": "Kendi iddiana bak",
+   "aciklama": "Savunduğun bir görüşün gerçek bir dayanağı olup olmadığını bugün gözden geçir."
+  },
+  {
+   "baslik": "Zannı ayırt et",
+   "aciklama": "Bugün bir konuda 'zannediyorum' ile 'biliyorum' arasındaki farkı net bir şekilde ayırt et."
+  }
+ ],
+ "bugununAdimi": "Bugün savunduğun bir görüşün gerçek delilini bir kez kendine yazarak gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=156"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/156"
+  }
+ ]
+}

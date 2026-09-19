@@ -1,0 +1,75 @@
+{
+ "sure": 37,
+ "ayet": 136,
+ "durum": "taslak",
+ "meal": "Sonra diğerlerini yerle bir ettik.",
+ "mealNotu": "'Demmera' kökü (دمر) tamamen yok etmeyi, yerle bir etmeyi anlatır; 'âharîn' kökü (أخر) 'diğerleri' demektir.",
+ "kokler": [
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "دَمَّرْنَا",
+   "okunus": "demmernâ",
+   "kok": "دمر",
+   "kokAnlam": "tamamen yok etme, yerle bir etme",
+   "karsilik": "yerle bir ettik"
+  },
+  {
+   "kelime": "ٱلْءَاخَرِينَ",
+   "okunus": "el'âharîne",
+   "kok": "أخر",
+   "kokAnlam": "diğer, öteki",
+   "karsilik": "diğerlerini"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kurtarılan Lût ve ailesinin (bir kişi hariç) dışında kalan herkes bu ayette 'diğerleri' olarak anılır ve yok edildiği bildirilir. Kimlik veya sayı belirtilmez; vurgu, sonucun kesinliğindedir.",
+  "Bu ifade, kıssanın Sâffât'taki özet üslubuna uygundur: ayrıntı yerine, doğru yolu reddedenlerin akıbeti tek bir fiille ('demmernâ') özetlenir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:172",
+   "meal": "Sonra diğerlerini yerle bir ettik.",
+   "baglanti": "Aynı ifade, Şuarâ sûresinde de birebir tekrarlanır; iki sûre bu sonucu aynı kısa cümleyle anlatır."
+  },
+  {
+   "ref": "11:82",
+   "meal": "Emrimiz gelince, oranın üstünü altına getirdik ve üzerlerine, istif edilmiş balçık taşları yağdırdık.",
+   "baglanti": "Hûd sûresi, burada 'yerle bir ettik' diye özetlenen olayın somut şeklini (yer değişimi, taş yağması) anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, doğru yolu ısrarla reddeden bir toplumun akıbetidir; bu tarihî bir kıssadır.",
+  "Bugüne taşınabilecek ders, ısrarlı bir yanlışın sonsuza kadar sürmeyeceğidir. Bu, kimseye kötülük dilemek için değil, doğru yolu terk etmenin ağır bir bedeli olabileceğini hatırlamak için bir uyarıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Israrı sorgula",
+   "aciklama": "Bugün, yanlış olduğunu bildiğin ama alışkanlıkla sürdürdüğün bir şeyi fark edip durdur."
+  },
+  {
+   "baslik": "Uyarıyı ciddiye al",
+   "aciklama": "Hayatında sana yapılan haklı bir uyarıyı bugün savunmaya geçmeden dinle."
+  },
+  {
+   "baslik": "Kalıcıyı seç",
+   "aciklama": "Bugün, geçici bir kolaylık yerine, uzun vadede doğru olanı tercih et."
+  }
+ ],
+ "bugununAdimi": "Bugün ısrarla sürdürdüğün bir yanlışı fark edip o konuda bir adım geri at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=136"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/136"
+  }
+ ]
+}
