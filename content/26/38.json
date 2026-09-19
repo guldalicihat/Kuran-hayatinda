@@ -1,0 +1,89 @@
+{
+ "sure": 26,
+ "ayet": 38,
+ "durum": "taslak",
+ "meal": "Böylece büyücüler, belirli bir günün belirlenen vaktinde toplandı.",
+ "mealNotu": "'Mîkât' kökü وقت, önceden belirlenmiş bir zaman dilimini anlatır; 'ma'lûm' ise bu günün herkesçe bilindiğini, ilan edildiğini vurgular.",
+ "kokler": [
+  {
+   "kelime": "فَجُمِعَ",
+   "okunus": "fecümia",
+   "kok": "جمع",
+   "kokAnlam": "toplama, bir araya gelme",
+   "karsilik": "toplandı"
+  },
+  {
+   "kelime": "ٱلسَّحَرَةُ",
+   "okunus": "esseharatü",
+   "kok": "سحر",
+   "kokAnlam": "büyü",
+   "karsilik": "büyücüler"
+  },
+  {
+   "kelime": "لِمِيقَٰتِ",
+   "okunus": "limîkâti",
+   "kok": "وقت",
+   "kokAnlam": "vakit, belirlenen zaman",
+   "karsilik": "belirlenen vaktinde"
+  },
+  {
+   "kelime": "يَوْمٍ",
+   "okunus": "yevmin",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "bir günün"
+  },
+  {
+   "kelime": "مَّعْلُومٍ",
+   "okunus": "ma'lûmin",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilinen/belirli"
+  }
+ ],
+ "neAnlatiyor": [
+  "Toplama emri yerine getirilmiş, büyücüler önceden ilan edilen belirli bir gün ve saatte bir araya getirilmiştir. Bu, olayın rastgele değil, planlanmış bir gösteri olarak düzenlendiğini gösterir.",
+  "'Ma'lûm' kelimesi, günün halka duyurulduğunu, meydanın kalabalık olacağını ima eder; nitekim sonraki ayette halkın da bu toplantıya çağrıldığı görülür."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "20:59",
+   "meal": "Dedi ki: 'Buluşma vaktiniz, bayram günü ve insanların toplanacağı kuşluk vaktidir.'",
+   "baglanti": "Tâhâ suresi bu belirlenen günü 'bayram günü, kuşluk vakti' diye somutlaştırır; Şuarâ'daki 'bilinen gün' ifadesinin karşılığıdır."
+  },
+  {
+   "ref": "26:36",
+   "meal": "Dediler ki: 'Onu ve kardeşini ertele, şehirlere toplayıcılar gönder.'",
+   "baglanti": "Bu ayetteki toplanma, birkaç ayet önce verilen emrin sonucudur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayet, büyük bir kararın rastgele değil, hazırlıklı ve planlı biçimde uygulandığını gösterir. Firavun'un çevresi, halkın önünde gösteri yapmak için özenle bir zaman seçmiştir.",
+  "Bu, bir işi ciddiye alan herkesin zamanlamaya dikkat etmesi gerektiğini hatırlatır; ama burada amaç yanlış bir davanın gösterişli biçimde savunulmasıdır. Bu yüzden hazırlığın kendisi değil, neye hazırlanıldığı önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Amacını sorgula",
+   "aciklama": "Bugün özenle hazırlandığın bir işin gerçekten doğru bir amaca hizmet edip etmediğine bak."
+  },
+  {
+   "baslik": "Zamanlamana dikkat et",
+   "aciklama": "Önemli bir konuşmayı ya da kararı, uygun bir zamana bilerek ertele veya öne al."
+  },
+  {
+   "baslik": "Gösterişe değil öze bak",
+   "aciklama": "Bugün kalabalığın etkilendiği bir gösteriye değil, işin özüne odaklan."
+  }
+ ],
+ "bugununAdimi": "Bugün planladığın bir işin amacını kâğıda tek cümleyle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=38"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/38"
+  }
+ ]
+}

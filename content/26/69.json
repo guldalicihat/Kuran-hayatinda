@@ -1,0 +1,82 @@
+{
+ "sure": 26,
+ "ayet": 69,
+ "durum": "taslak",
+ "meal": "Onlara İbrahim'in haberini oku.",
+ "mealNotu": "'Netlü' تلو kökü, okuma ve peş peşe takip etmeyi anlatır; 'nebe' نبأ ise önemli bir haberi ifade eder. Emir, Peygambere yöneliktir.",
+ "kokler": [
+  {
+   "kelime": "وَٱتْلُ",
+   "okunus": "vetlü",
+   "kok": "تلو",
+   "kokAnlam": "okuma, takip etme",
+   "karsilik": "oku"
+  },
+  {
+   "kelime": "عَلَيْهِمْ",
+   "okunus": "aleyhim",
+   "kok": "—",
+   "kokAnlam": "(edat) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "نَبَأَ",
+   "okunus": "nebee",
+   "kok": "نبأ",
+   "kokAnlam": "haber",
+   "karsilik": "haberini"
+  },
+  {
+   "kelime": "إِبْرَٰهِيمَ",
+   "okunus": "ibrâhîme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) İbrahim",
+   "karsilik": "İbrahim'in"
+  }
+ ],
+ "neAnlatiyor": [
+  "Musa kıssasının ardından anlatım yeni bir peygamber kıssasına geçer: İbrahim. Peygambere, İbrahim'in haberini/kıssasını halka okuması emredilir.",
+  "Bu geçiş, surenin genel yapısına uygundur; farklı peygamber kıssaları art arda anlatılarak aynı temel mesaj -Allah'ın birliği ve elçilerine inanmanın gerekliliği- pekiştirilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "19:41",
+   "meal": "Kitapta İbrahim'i de an; şüphesiz o doğru sözlü bir peygamberdi.",
+   "baglanti": "Meryem suresi de İbrahim kıssasını benzer bir 'an/hatırlat' emriyle başlatır."
+  },
+  {
+   "ref": "6:83",
+   "meal": "İşte bu, kavmine karşı İbrahim'e verdiğimiz delilimizdir.",
+   "baglanti": "En'âm suresi, İbrahim'in kavmiyle olan mücadelesini, ona verilen delillerle birlikte anar."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayet doğrudan bir anlatım emridir; ama genel olarak geçmiş peygamberlerin kıssalarını hatırlamanın ve aktarmanın önemine işaret eder.",
+  "Bugün de geçmişten ders çıkarmak, iyi örnekleri hatırlayıp anlatmak, bir toplumun değerlerini canlı tutmasına yardımcı olur. Bilgiyi sadece bilmek değil, aktarmak da bir sorumluluktur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kıssadan ders çıkar",
+   "aciklama": "Bugün okuduğun bir peygamber kıssasından çıkardığın bir dersi not et."
+  },
+  {
+   "baslik": "Bilgini paylaş",
+   "aciklama": "Öğrendiğin faydalı bir bilgiyi bugün birine aktar."
+  },
+  {
+   "baslik": "Örnek hayatları hatırla",
+   "aciklama": "Bugün İbrahim gibi bir peygamberin hayatından bir sahneyi düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün İbrahim kıssasının bir bölümünü oku ve bir kişiyle paylaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=69"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/69"
+  }
+ ]
+}

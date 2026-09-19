@@ -1,0 +1,103 @@
+{
+ "sure": 26,
+ "ayet": 36,
+ "durum": "taslak",
+ "meal": "Dediler ki: 'Onu ve kardeşini ertele, şehirlere toplayıcılar gönder.'",
+ "mealNotu": "'Ercih' fiili رجو kökünden gelir ve zaman tanıma, erteleme anlamı taşır. 'Hâşirîn' حشر kökünden, insanları bir araya toplayan görevlileri anlatır; 'çavuşlar' gibi bir yorum eklenmemiş, 'toplayıcılar' tercih edilmiştir.",
+ "kokler": [
+  {
+   "kelime": "قَالُوٓا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "أَرْجِهْ",
+   "okunus": "ercih",
+   "kok": "رجو",
+   "kokAnlam": "geciktirme, umut/erteleme",
+   "karsilik": "onu ertele"
+  },
+  {
+   "kelime": "وَأَخَاهُ",
+   "okunus": "ve ehâhü",
+   "kok": "أخو",
+   "kokAnlam": "kardeşlik",
+   "karsilik": "ve kardeşini"
+  },
+  {
+   "kelime": "وَٱبْعَثْ",
+   "okunus": "veb'as",
+   "kok": "بعث",
+   "kokAnlam": "gönderme, harekete geçirme",
+   "karsilik": "gönder"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde, -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْمَدَآئِنِ",
+   "okunus": "elmedâini",
+   "kok": "مدن",
+   "kokAnlam": "şehir, yerleşim",
+   "karsilik": "şehirlere"
+  },
+  {
+   "kelime": "حَٰشِرِينَ",
+   "okunus": "hâşirîne",
+   "kok": "حشر",
+   "kokAnlam": "toplama, bir araya getirme",
+   "karsilik": "toplayıcılar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, Firavun'un çevresindeki ileri gelenlere Musa hakkında danıştığı bir önceki sahnenin cevabıdır. Danışmanlar, Musa ve Harun'u hemen cezalandırmak yerine ertelemesini, şehirlere adamlar gönderip halkı toplamasını önerirler. 'Ercih' kelimesi, acele etmeyip zaman kazanma fikrini taşır.",
+  "'Hâşirîn' kelimesi حشر kökünden gelir, bir araya toplama anlamındadır; ayetin devamında bu toplamanın amacı ortaya çıkacaktır: ülkedeki tüm büyücüleri bir araya getirmek. Firavun'un çevresi, Musa'nın gösterdiği mucizeyi sihirle karşılamayı planlamaktadır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:111",
+   "meal": "Dediler ki: 'Onu ve kardeşini beklet, şehirlere toplayıcılar gönder.'",
+   "baglanti": "A'râf suresinde aynı sahne, neredeyse aynı kelimelerle anlatılır; kıssa iki surede birbirini tamamlar."
+  },
+  {
+   "ref": "20:59",
+   "meal": "Dedi ki: 'Buluşma vaktiniz, bayram günü ve insanların toplanacağı kuşluk vaktidir.'",
+   "baglanti": "Tâhâ suresinde Firavun'un belirlediği gün, buradaki toplama emriyle bağlantılıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayet doğrudan Firavun'un idari kararını anlatır. Çevresi, güç kaybetme korkusuyla hızlı ve örgütlü hareket eder; bu, güçlü görünenlerin de aslında tedirgin olabileceğini gösterir.",
+  "Burada dikkat çeken, bir topluluğun hakikatle karşılaşınca ilk tepkisinin çoğu zaman erteleme ve karşı güç toplama olmasıdır. Bu, bugün de doğruyla yüzleşmek yerine kalabalıkla üstünü örtme eğiliminde kendini gösterebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Erteleme alışkanlığını fark et",
+   "aciklama": "Bugün doğru bir işi ertelediğin bir anı yakala ve nedenini kendine sor."
+  },
+  {
+   "baslik": "Kalabalığa değil doğruya bak",
+   "aciklama": "Bir konuda karar verirken çoğunluğun ne dediğine değil, doğru olana bak."
+  },
+  {
+   "baslik": "Tedirginliği tanı",
+   "aciklama": "Bugün güçlü göründüğün bir anda bile içindeki asıl kaygıyı fark etmeye çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir doğruyu, günü bitmeden bir adım ileri taşı.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=36"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/36"
+  }
+ ]
+}

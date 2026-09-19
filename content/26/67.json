@@ -1,0 +1,110 @@
+{
+ "sure": 26,
+ "ayet": 67,
+ "durum": "taslak",
+ "meal": "Şüphesiz bunda gerçekten bir ayet vardır; ama onların çoğu iman etmiş değildi.",
+ "mealNotu": "'Âyeh' أيي kökü hem 'işaret/delil' hem 'Kur'an ayeti' anlamına gelir; burada olayın kendisi bir ibret işareti olarak nitelenir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) bunda",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "لَءَايَةً",
+   "okunus": "leâyeten",
+   "kok": "أيي",
+   "kokAnlam": "işaret, ayet",
+   "karsilik": "gerçekten bir ayet vardır"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "ve değildi"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "idi"
+  },
+  {
+   "kelime": "أَكْثَرُهُم",
+   "okunus": "ekseruhüm",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "çoğu"
+  },
+  {
+   "kelime": "مُّؤْمِنِينَ",
+   "okunus": "mü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman edenler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Kıssanın sonunda, anlatılan olayın bir 'ayet', yani ibret verici bir işaret olduğu vurgulanır. Ancak bu kadar açık bir mucizeye rağmen insanların çoğu yine de iman etmemiştir.",
+  "Bu ifade, mucizenin görülmesiyle imanın otomatik olarak gerçekleşmeyeceğini gösterir; iman kalbin bir tercihidir ve en açık delil bile herkesi ikna etmeyebilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "26:8",
+   "meal": "Şüphesiz bunda gerçekten bir ayet vardır; ama onların çoğu iman etmiş değildi.",
+   "baglanti": "Bu ifade, Şuarâ suresinde her kıssanın sonunda tekrarlanan bir nakarattır; burada Musa kıssası için, sure başında ise Nuh kıssası için kullanılmıştır."
+  },
+  {
+   "ref": "3:13",
+   "meal": "Şüphesiz karşı karşıya gelen iki toplulukta sizin için bir ibret vardır; biri Allah yolunda savaşıyor, öteki inkâr ediyordu.",
+   "baglanti": "Âl-i İmrân suresi, iki topluluğun karşılaşmasının kendisinin bir ibret olduğunu genel bir ilke olarak koyar; 26:67'deki 'ayet' vurgusuyla örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu ayet, açık delillerin bile herkesi ikna etmediğini, imanın zorla ya da mucizeyle dayatılamayacağını gösterir. Denizin yarılması gibi büyük bir olay bile herkesin kalbini değiştirmemiştir.",
+  "Bugün de bir kişiye ne kadar açık delil sunulursa sunulsun, kalbi kapalıysa etkilenmeyebilir. Bu ayet, başkasını ikna edememenin bazen delilin eksikliğinden değil, kalbin kapalılığından kaynaklandığını hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "İbret gözüyle bak",
+   "aciklama": "Bugün etrafında gördüğün bir olayı, sadece haber olarak değil bir ibret olarak düşün."
+  },
+  {
+   "baslik": "Zorlamadan anlat",
+   "aciklama": "Bir gerçeği başkasına anlatırken, onu ikna etmeyi değil doğru anlatmayı hedefle."
+  },
+  {
+   "baslik": "Kalbini açık tut",
+   "aciklama": "Bugün karşılaştığın bir gerçeğe karşı kalbini kapatmadığından emin ol."
+  }
+ ],
+ "bugununAdimi": "Bugün çevrende gördüğün bir olayı, en az bir dakika durup ibret gözüyle düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=26&verse=67"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/26/67"
+  }
+ ]
+}
