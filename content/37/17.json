@@ -1,0 +1,68 @@
+{
+ "sure": 37,
+ "ayet": 17,
+ "durum": "taslak",
+ "meal": "Önceki atalarımız da mı [diriltilecek]?",
+ "mealNotu": "Cümle Arapçada eksiktir; bir önceki ayetteki 'diriltileceğiz' fiiline bağlanır, bu yüzden köşeli parantezle tamamlanmıştır. 'Evvelûn' kökü (أ و ل) öncekiliği, geçmişte olmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَوَءَابَآؤُنَا",
+   "okunus": "eveâbâünâ",
+   "kok": "أبو",
+   "kokAnlam": "baba, ata",
+   "karsilik": "atalarımız da mı"
+  },
+  {
+   "kelime": "ٱلْأَوَّلُونَ",
+   "okunus": "el'evvelûne",
+   "kok": "أول",
+   "kokAnlam": "öncekilik, ilk olma",
+   "karsilik": "önceki"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki itiraz burada genişletilir: yalnızca kendilerinin değil, çok önceden ölmüş atalarının da diriltileceği fikri, inkârcılara daha da imkânsız görünür. Bu, alaycı sorunun vurgusunu artıran bir ek cümledir.",
+  "Ayet, diriliş inkârının kapsamını göstermek için kurulmuştur: zaman ne kadar geçerse geçsin, ne kadar toz haline gelinirse gelinsin, diriliş yine de gerçekleşecektir. Bir sonraki ayet buna kısa ve kesin bir cevap verecektir: 'De ki: Evet.'"
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "56:48",
+   "meal": "'Önceki atalarımız da mı?'",
+   "baglanti": "Vâkıa sûresinde birebir aynı cümle geçer; iki sûre, diriliş itirazını neredeyse özdeş ifadelerle aktarır."
+  },
+  {
+   "ref": "17:49",
+   "meal": "'Biz kemik ve ufalanmış toz olduğumuzda mı, gerçekten yeni bir yaratılışla diriltilecek miyiz?' dediler.",
+   "baglanti": "İsrâ sûresinde de aynı itiraz farklı bir kelimeyle (rufât - ufalanmış toz) tekrarlanır; devamında (17:50-51) taş veya demir olsalar bile diriltilecekleri bildirilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, diriliş itirazının zaman boyutuyla genişletilmesidir. Geçmişte yaşamış herkesin de diriltileceği fikri, inkârcılara daha uzak görünmüştür.",
+  "Bugüne taşınabilecek ders, zamanın Allah için bir engel olmadığıdır. İnsan için uzun bir zaman dilimi, yaratma gücü açısından bir fark oluşturmaz. Bu, geçmişte kaybettiğimiz insanlarla ilgili umut taşıyan bir gerçektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaybettiğin birini an",
+   "aciklama": "Bugün vefat etmiş bir yakınını hayırla an ve ona dua et."
+  },
+  {
+   "baslik": "Zamanı küçük görme",
+   "aciklama": "Uzun zaman önce yaptığın bir hatanın hâlâ hesabı olduğunu unutma."
+  },
+  {
+   "baslik": "Umutla bekle",
+   "aciklama": "Ahiretteki buluşmayı düşünüp bugün sabırla bir zorluğa katlan."
+  }
+ ],
+ "bugununAdimi": "Bugün vefat etmiş bir yakının için Fatiha oku veya kısa bir dua et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=17"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/17"
+  }
+ ]
+}

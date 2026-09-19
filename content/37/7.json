@@ -1,0 +1,89 @@
+{
+ "sure": 37,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Ve (onu) her azgın şeytandan koruma [vesilesi kıldık].",
+ "mealNotu": "'Hıfz' kökü (ح ف ظ) korumayı anlatır; ayette bu koruma isim olarak geçer, fiil eklenmez. Cümlenin bir önceki ayetle bağlantısını netleştirmek için '[vesilesi kıldık]' köşeli parantezle eklenmiştir. 'Mârid' kökü (م ر د) itaatsizlikte aşırı gitmeyi, azgınlığı anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَحِفْظًا",
+   "okunus": "ve hifzan",
+   "kok": "حفظ",
+   "kokAnlam": "koruma, saklama",
+   "karsilik": "ve koruma"
+  },
+  {
+   "kelime": "مِّن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "كُلِّ",
+   "okunus": "külli",
+   "kok": "كلل",
+   "kokAnlam": "her, bütün",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَيْطَٰنٍ",
+   "okunus": "şeytânin",
+   "kok": "شطن",
+   "kokAnlam": "uzaklaşma, azgınlık; şeytan",
+   "karsilik": "şeytandan"
+  },
+  {
+   "kelime": "مَّارِدٍ",
+   "okunus": "mâridin",
+   "kok": "مرد",
+   "kokAnlam": "itaatsizlikte aşırı gitme, azgınlık",
+   "karsilik": "azgın"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette anlatılan yıldız süslemesi, burada ikinci bir işleve bağlanır: koruma. Gökyüzü hem güzellik hem de azgın şeytanlara karşı bir engel olarak tanımlanır. Bu, ilerleyen üç ayette (8-10) daha somut biçimde anlatılacak bir sahnenin girişidir.",
+  "Ayetin kendisi bu korumanın nasıl işlediğini burada açıklamaz; bunu bir sonraki ayet anlatmaya başlar. 'Mârid' kelimesi, sıradan bir itaatsizliği değil, ısrarlı ve aşırı bir azgınlığı ifade eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:17",
+   "meal": "Ve onu (göğü) her kovulmuş şeytandan koruduk.",
+   "baglanti": "Hicr sûresinde neredeyse birebir aynı ifadeyle geçen bu ayet, Sâffât 7'deki korumanın hangi göğe ait olduğunu ('en yakın gök') doğrudan teyit eder."
+  },
+  {
+   "ref": "72:8",
+   "meal": "Doğrusu biz göğe dokunmak istedik de onu sert bekçilerle ve alevlerle dolu bulduk.",
+   "baglanti": "Cin sûresinde bu korumanın nasıl hissedildiği, cinlerin ağzından anlatılır; 'hifz' kökündeki koruma burada 'sert bekçiler' olarak somutlaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu gaybî bir korumadır: gökyüzü, azgın şeytanlara karşı bir engel olarak düzenlenmiştir. Bu ayrıntıyı ayetin kendi ifadesinin ötesinde detaylandırmak doğru olmaz.",
+  "Bugüne taşınabilecek ders, korumanın fark edilmeyen yönleridir. İnsan çoğu zaman yalnızca gördüğü tehlikelerden kendini korumaya çalışır; oysa fark edilmeyen pek çok koruma da vardır. Bu, insana bir güven ve şükür duygusu kazandırabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Görünmeyen korumayı düşün",
+   "aciklama": "Bugün senin fark etmediğin ama seni koruyan bir şeyi (sağlık, güvenlik) düşünüp şükret."
+  },
+  {
+   "baslik": "Kendini bir tehlikeden koru",
+   "aciklama": "Bugün seni kötü bir alışkanlığa çeken bir ortamdan bilerek uzak dur."
+  },
+  {
+   "baslik": "Ayeti ayetin sınırında oku",
+   "aciklama": "Bu ayetin anlattığı gaybî konuyu, kendi tahmin ve yorumlarınla genişletmeden, olduğu gibi oku."
+  }
+ ],
+ "bugununAdimi": "Bugün seni olumsuz bir yöne çeken bir ortamı fark et ve ondan bilerek uzak dur.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/7"
+  }
+ ]
+}

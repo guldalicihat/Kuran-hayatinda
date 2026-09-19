@@ -1,0 +1,96 @@
+{
+ "sure": 37,
+ "ayet": 15,
+ "durum": "taslak",
+ "meal": "'Bu, apaçık bir büyüden başka bir şey değildir' dediler.",
+ "mealNotu": "'Sihr' kökü (س ح ر) büyüyü anlatır; 'mübîn' (ب ي ن) ise açıklığı, netliği. Bu ifade, önceki ayetteki alayın sözlere dökülmüş biçimidir.",
+ "kokler": [
+  {
+   "kelime": "وَقَالُوٓا۟",
+   "okunus": "ve kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "dediler"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "değildir"
+  },
+  {
+   "kelime": "هَٰذَآ",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak, başka",
+   "karsilik": "başka bir şey"
+  },
+  {
+   "kelime": "سِحْرٌ",
+   "okunus": "sihrun",
+   "kok": "سحر",
+   "kokAnlam": "büyü",
+   "karsilik": "bir büyü"
+  },
+  {
+   "kelime": "مُّبِينٌ",
+   "okunus": "mübînün",
+   "kok": "بين",
+   "kokAnlam": "açıklık, netlik",
+   "karsilik": "apaçık"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetlerdeki alayın sonucu burada bir söze dönüşür: getirilen mesajı 'apaçık bir büyü' olarak nitelemek. Bu, Kur'an'da inkârcıların Peygamber'e ve mesajına karşı sıkça tekrarladıkları bir ithamdır.",
+  "'Sihr' suçlaması, mesajı ciddiye almadan bir kenara itmenin kolay bir yoludur; açıklanamayan bir etkiyi büyüye bağlamak, düşünmeyi gerektirmez. Sonraki ayetler bu reddedişin asıl sebebini, diriliş inancına duyulan güçlü bir şüpheyi ortaya koyacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "74:24",
+   "meal": "'Bu, nakledilegelen bir büyüden başka bir şey değildir' dedi.",
+   "baglanti": "Müddessir sûresinde de aynı suçlama, benzer bir kalıpla ('in hâzâ illâ...') tekrarlanır; iki ayet aynı inkârcı tutumu farklı sözcüklerle anlatır."
+  },
+  {
+   "ref": "43:30",
+   "meal": "Hak kendilerine geldiğinde, 'Bu bir büyüdür, biz onu inkâr ediyoruz' dediler.",
+   "baglanti": "Zuhruf sûresinde de gerçek/hak geldiğinde ilk tepki büyü suçlamasıdır; bu, Kur'an genelinde tekrarlanan bir inkâr kalıbıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, getirilen mesajı düşünmeden 'büyü' diyerek bir kenara itmektir. Bu, ayetin bağlamında inkârcıların bir savunma mekanizmasıdır.",
+  "Bugüne taşınabilecek ders, kolay etiketlemelerden kaçınmaktır. Anlamadığımız veya kabul etmek istemediğimiz bir şeyi hemen bir etiketle (saçma, abartı, yalan) reddetmek, düşünmekten daha kolaydır ama doğruya ulaşmayı engeller."
+ ],
+ "bugun": [
+  {
+   "baslik": "Etiketlemeden düşün",
+   "aciklama": "Bugün anlamadığın bir fikri hemen reddetmeden önce anlamaya çalış."
+  },
+  {
+   "baslik": "Kolay yargıdan kaçın",
+   "aciklama": "Bir kişi veya görüş hakkında hızlı bir yargıya varmadan önce bir kez daha düşün."
+  },
+  {
+   "baslik": "Gerçeği araştır",
+   "aciklama": "Bugün duyduğun bir iddiayı hemen kabul veya reddetmeden kaynağını araştır."
+  }
+ ],
+ "bugununAdimi": "Bugün hızlıca etiketleyip geçtiğin bir konuyu yeniden, sabırla ele al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=15"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/15"
+  }
+ ]
+}

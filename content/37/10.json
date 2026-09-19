@@ -1,0 +1,103 @@
+{
+ "sure": 37,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "Ancak bir söz kapan olursa, onu delici bir alev [ışın] takip eder.",
+ "mealNotu": "'Hatfe' kökü (خ ط ف) kapıp kaçırmayı, çalar gibi almayı anlatır. 'Şihâb' kelimesi parlak bir ışık/alevi, 'sâkıb' (ث ق ب) ise deliciliği anlatır; ayette bunun bir gök cismi (ışın/yıldız) olduğu bağlamdan anlaşıldığı için köşeli parantezle eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "مَنْ",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "خَطِفَ",
+   "okunus": "hatıfe",
+   "kok": "خطف",
+   "kokAnlam": "kapıp kaçırma, çalar gibi alma",
+   "karsilik": "kaparsa"
+  },
+  {
+   "kelime": "ٱلْخَطْفَةَ",
+   "okunus": "elhatfete",
+   "kok": "خطف",
+   "kokAnlam": "kapış, çalınan şey",
+   "karsilik": "bir söz"
+  },
+  {
+   "kelime": "فَأَتْبَعَهُۥ",
+   "okunus": "feetbeahû",
+   "kok": "تبع",
+   "kokAnlam": "takip etme, ardından gitme",
+   "karsilik": "onu takip eder"
+  },
+  {
+   "kelime": "شِهَابٌ",
+   "okunus": "şihâbün",
+   "kok": "شهب",
+   "kokAnlam": "parlak alev, ışık",
+   "karsilik": "delici bir alev"
+  },
+  {
+   "kelime": "ثَاقِبٌ",
+   "okunus": "sâkıbün",
+   "kok": "ثقب",
+   "kokAnlam": "delme, delici olma",
+   "karsilik": "delici"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sekizinci ve dokuzuncu ayetlerde anlatılan genel kuralın istisnası burada gelir: bazen bir söz kapmayı başaran olur, ama onu hemen delici bir alev takip eder. Bu, önceki ayetlerdeki 'kesintisiz kovulma' kuralının nasıl işlediğine dair somut bir görüntü sunar.",
+  "'Hatfe' kelimesi, çalar gibi kapmayı; 'şihâb' ise takip eden parlak, delici bir ışığı anlatır. Ayet bunun ne olduğunu (yıldız, ışın) açıkça adlandırmaz; gaybî bir konu olduğu için bu ayrıntıyı ayetin kendi ifadesinin ötesine taşımamak gerekir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "15:18",
+   "meal": "Ancak kulak hırsızlığı yapan olursa, onu apaçık bir alev takip eder.",
+   "baglanti": "Hicr sûresinde neredeyse birebir aynı sahne, 'sirkat es-sem' (kulak hırsızlığı) ifadesiyle anlatılır; iki ayet aynı olayı farklı kelimelerle betimler."
+  },
+  {
+   "ref": "72:9",
+   "meal": "Şimdi ise kim dinlemeye kalkışsa, kendini gözetleyen bir alev bulur.",
+   "baglanti": "Cin sûresi aynı sahneyi cinlerin ağzından anlatır; 'şihâb' kelimesi burada da geçer ve takip eden alevin sürekli bir gözetim taşıdığını ekler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, gaybî bir sahnenin istisnai durumudur: söz kapmaya çalışan bir şeytanın delici bir alevle karşılaşması. Bu ayrıntıyı yorumlarla genişletmek doğru olmaz.",
+  "Bugüne taşınabilecek ders, haksız yoldan bir şey elde etmenin bedelidir. Kapma, çalma, haksız kazanç; kısa vadede bir kazanç gibi görünse de peşinden bir sonuç gelir. Emek vermeden, haksız yoldan elde edilen şey güvenli değildir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Emeksiz kazancı sorgula",
+   "aciklama": "Bugün kolay ve haksız bir kısayol düşünürsen, bunun bedelini de düşün."
+  },
+  {
+   "baslik": "Başkasının emeğine saygı duy",
+   "aciklama": "Bugün bir fikri veya emeği kaynağını belirterek kullan, sahiplenme."
+  },
+  {
+   "baslik": "Sabırlı yolu seç",
+   "aciklama": "Hızlı ama riskli bir yol yerine bugün yavaş ama sağlam bir adım at."
+  }
+ ],
+ "bugununAdimi": "Bugün emek vermeden elde etmeye çalıştığın bir şeyi fark et ve doğru yoldan kazanmayı seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/10"
+  }
+ ]
+}

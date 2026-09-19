@@ -1,0 +1,68 @@
+{
+ "sure": 37,
+ "ayet": 3,
+ "durum": "taslak",
+ "meal": "Sonra zikir okuyanlara andolsun,",
+ "mealNotu": "'Tâliyât' kökü (ت ل و) art arda okumayı, tilaveti anlatır; 'zikran' ise hatırlatma, anma anlamındaki 'zikr' kökünden gelir. Üçüncü yemin de öncekiler gibi 'fe' ile bağlanır; bu yüzden 'sonra' eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "فَٱلتَّٰلِيَٰتِ",
+   "okunus": "fet tâliyâti",
+   "kok": "تلو",
+   "kokAnlam": "art arda okuma, tilavet etme",
+   "karsilik": "sonra okuyanlara"
+  },
+  {
+   "kelime": "ذِكْرًا",
+   "okunus": "zikran",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlatma",
+   "karsilik": "zikir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Üç yeminlik dizinin sonuncusu, zikir okuyanlara edilir. 'Tilavet' kökü, bir metni art arda, düzenli biçimde okumayı anlatır; 'zikir' ise hem anmayı hem hatırlatmayı, Kur'an'ın kendisi için de kullanılan bir isimdir.",
+  "Ayet kimin okuduğunu adlandırmaz; klasik tefsir bunu ilahi mesajı ileten bir topluluk olarak açıklar. Böylece üç yemin, saf tutma (düzen), sevk etme (yönlendirme) ve okuma (mesaj iletme) olmak üzere birbirini tamamlayan üç görevi anar; hepsinin cevabı, dördüncü ayetteki tevhid gerçeğidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:121",
+   "meal": "Kendilerine kitap verdiklerimiz, onu hakkıyla okurlar (tilavet ederler); işte onlar ona iman ederler.",
+   "baglanti": "Aynı 'tilavet' kökü burada bir kitabı gerçek okuyuşuyla okumak için kullanılır; 'tâliyât' ayetindeki okuma eylemiyle aynı köktendir."
+  },
+  {
+   "ref": "15:9",
+   "meal": "Zikri (Kur'an'ı) şüphesiz biz indirdik, onun koruyucusu da elbette biziz.",
+   "baglanti": "'Zikr' kelimesi burada doğrudan Kur'an'ın adı olarak geçer; sûrenin başındaki 'zikir okuyanlar' ifadesiyle aynı kökü paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, düzenli biçimde zikir/hatırlatma okuyan bir topluluğa edilen yemindir. Okuma burada tekil bir an değil, süreklilik taşıyan bir eylemdir.",
+  "Bugüne taşınabilecek ders, düzenli hatırlatmanın gücüdür. Bir şeyi bir kez okumakla sürekli okumak arasında fark vardır; tekrar, unutmayı önler. Kur'an'ı veya bir öğüdü düzenli okumak, onu hayatta tutar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir bölüm oku",
+   "aciklama": "Bugün Kur'an'dan kısa bir bölümü sesli veya sessiz oku; anlamına bak."
+  },
+  {
+   "baslik": "Bir hatırlatma kur",
+   "aciklama": "Unutma eğiliminde olduğun bir sorumluluk için kendine düzenli bir hatırlatma (not, alarm) bırak."
+  },
+  {
+   "baslik": "Tekrarın değerini gör",
+   "aciklama": "Bugün öğrendiğin bir şeyi bir kez değil, gün içinde iki kez tekrar et."
+  }
+ ],
+ "bugununAdimi": "Bugün beş dakikanı ayırıp Kur'an'dan bir bölüm oku ve okuduğunu bir cümleyle kendi kelimelerinle özetle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=3"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/3"
+  }
+ ]
+}

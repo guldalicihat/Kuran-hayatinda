@@ -1,0 +1,82 @@
+{
+ "sure": 37,
+ "ayet": 13,
+ "durum": "taslak",
+ "meal": "Kendilerine hatırlatıldığında öğüt almazlar.",
+ "mealNotu": "'Zükkirû' ve 'yezkürûn' aynı 'zikr' kökünden (ذ ك ر) gelir; biri edilgen (hatırlatıldıklarında), diğeri etken (hatırlamazlar/öğüt almazlar) kullanılmıştır. Bu tekrar, ayette bilinçli bir karşıtlık kurar.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) ve -dığında",
+   "karsilik": "ve -dığında"
+  },
+  {
+   "kelime": "ذُكِّرُوا۟",
+   "okunus": "zükkirû",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlatma, öğüt verme",
+   "karsilik": "kendilerine hatırlatıldığında"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-mazlar"
+  },
+  {
+   "kelime": "يَذْكُرُونَ",
+   "okunus": "yezkürûne",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlama, öğüt alma",
+   "karsilik": "öğüt almazlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu kısa ayet, alaycı tutumun bir başka yüzünü anlatır: hatırlatma yapıldığında bile öğüt almamak. Aynı kökten gelen iki fiilin ('hatırlatıldılar' / 'hatırlamazlar') yan yana kullanılması, hatırlatmanın boşa gittiğini vurgular.",
+  "Bu, sadece bilgi eksikliği değil, bir tutum meselesidir. Kişiye doğru bilgi ulaştığı halde, o bilgiyi kabul etmemesi anlatılır. Bir sonraki ayet bu tutumun bir adım ötesini, bir mucize görüldüğünde bile alayın artmasını anlatacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:4",
+   "meal": "Rablerinin ayetlerinden hiçbir ayet onlara gelmez ki ondan yüz çevirmiş olmasınlar.",
+   "baglanti": "En'âm sûresi de aynı yüz çevirme tutumunu anlatır; hatırlatma ile karşılaşan kişinin ondan uzaklaşması, iki ayette de ortak temadır."
+  },
+  {
+   "ref": "74:49",
+   "meal": "Onlara ne oluyor ki öğütten yüz çeviriyorlar?",
+   "baglanti": "Müddessir sûresi bu tutumu bir soru olarak sorar; 37:13'teki 'öğüt almazlar' ifadesiyle aynı sorunu, farklı bir üslupla dile getirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hatırlatmaya kapalı bir tutumdur. Bu, ayetin bağlamında inkârcıların Peygamber'e verdiği tepkiyi anlatır.",
+  "Bugüne taşınabilecek ders, öğüde açık kalmaktır. Bir uyarı veya hatırlatma aldığında, önce savunmaya geçmek yerine düşünmek gerekir. Kapalı bir kalp, en doğru hatırlatmayı bile geri çevirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir uyarıyı düşün",
+   "aciklama": "Bugün sana yapılan bir uyarıyı hemen reddetmeden birkaç dakika düşün."
+  },
+  {
+   "baslik": "Kendine hatırlatma bırak",
+   "aciklama": "Unutma eğiliminde olduğun bir şey için kendine bir not veya hatırlatma bırak."
+  },
+  {
+   "baslik": "Kapanmayı fark et",
+   "aciklama": "Bir konuda kapalı olduğunu hissettiğinde bunu kendine itiraf et."
+  }
+ ],
+ "bugununAdimi": "Bugün birinin sana yaptığı bir uyarıyı savunmaya geçmeden dinle ve üzerinde düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=13"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/13"
+  }
+ ]
+}

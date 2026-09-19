@@ -1,0 +1,82 @@
+{
+ "sure": 37,
+ "ayet": 14,
+ "durum": "taslak",
+ "meal": "Bir ayet (mucize/delil) gördüklerinde alaycılığı artırırlar.",
+ "mealNotu": "'Yesteshırûn' kökü (س خ ر) istif'al kalıbıyla gelir; bu, alay etmeyi bir adım öteye taşıyıp yoğunlaştırmayı anlatır, bu yüzden 'artırırlar' denmiştir. 'Âyet' kelimesi hem gökteki delilleri hem mucizeleri kapsayabilir; bağlam net bir sınır koymadığı için genel bırakılmıştır.",
+ "kokler": [
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) ve -dığında",
+   "karsilik": "ve -dığında"
+  },
+  {
+   "kelime": "رَأَوْا۟",
+   "okunus": "raev",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "gördüklerinde"
+  },
+  {
+   "kelime": "ءَايَةً",
+   "okunus": "âyeten",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil, ayet",
+   "karsilik": "bir ayet"
+  },
+  {
+   "kelime": "يَسْتَسْخِرُونَ",
+   "okunus": "yesteshırûne",
+   "kok": "سخر",
+   "kokAnlam": "alayı yoğunlaştırma, iyice alay etme",
+   "karsilik": "alaycılığı artırırlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, önceki ayetteki 'öğüt almama' tutumunun daha ileri bir aşamasını anlatır: yalnızca öğüde kapalı olmakla kalmayıp, açık bir delil (ayet) gördüklerinde alaylarını artırmak. Bu, inatçı bir reddedişi gösterir.",
+  "'Yesteshırûn' fiilindeki istif'al kalıbı, sıradan bir alayı değil, bilinçli olarak yoğunlaştırılan bir alayı anlatır. Bir sonraki ayet bu alayın sözlere nasıl döküldüğünü ('bu apaçık bir büyüdür') gösterecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:25",
+   "meal": "Onlardan seni dinleyenler vardır, ama kalplerine anlamalarını engelleyen bir örtü, kulaklarına da ağırlık koyduk; her ayeti görseler bile ona inanmazlar.",
+   "baglanti": "En'âm sûresi, delil görmenin bile inkârı değiştirmediği bir tutumu anlatır; 37:14'teki 'ayet gördüklerinde alayı artırma' ile aynı inatçı reddedişi paylaşır."
+  },
+  {
+   "ref": "83:30",
+   "meal": "Yanlarından geçtiklerinde birbirlerine kaş göz ederlerdi.",
+   "baglanti": "Mutaffifîn sûresi, inkârcıların müminlere karşı somut alay davranışlarını (göz kırpma, imalı bakış) anlatır; burada da alay bir davranış biçimine dönüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, açık bir delil karşısında bile alayı artıran bir tutumdur. Bu, ayetin bağlamında inkârcıların Peygamber'e verdiği tepkiyi anlatır.",
+  "Bugüne taşınabilecek ders, önyargının gücüdür. Bir kişi bir konuda önceden karar vermişse, en açık delil bile onu ikna etmez, tam tersine tepkisini sertleştirebilir. Bunu fark etmek, hem kendi önyargılarımızı sorgulamamıza hem başkalarına sabırla yaklaşmamıza yardımcı olur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir önyargını sorgula",
+   "aciklama": "Bugün bir konudaki kesin kanaatini bir an bırakıp yeniden düşün."
+  },
+  {
+   "baslik": "Delile açık ol",
+   "aciklama": "Bir tartışmada karşı tarafın delilini alayla değil, dikkatle dinle."
+  },
+  {
+   "baslik": "Sabırlı kal",
+   "aciklama": "Biri seninle alay etse bile sen sükûnetle, öfkelenmeden karşılık ver."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konudaki kesin kanaatini bir kez daha, önyargısız gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=14"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/14"
+  }
+ ]
+}

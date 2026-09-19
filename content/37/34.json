@@ -1,0 +1,82 @@
+{
+ "sure": 37,
+ "ayet": 34,
+ "durum": "taslak",
+ "meal": "Şüphesiz biz, suçlulara işte böyle yaparız.",
+ "mealNotu": "'Mücrimîn' kökü (ج ر م) suç işlemeyi anlatır. Cümle, önceki ayetlerdeki sahnenin (karşılıklı suçlama, ortak azap) genel bir ilke olarak özetlendiğini gösterir.",
+ "kokler": [
+  {
+   "kelime": "إِنَّا",
+   "okunus": "innâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz biz",
+   "karsilik": "şüphesiz biz"
+  },
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "نَفْعَلُ",
+   "okunus": "nef'alü",
+   "kok": "فعل",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "yaparız"
+  },
+  {
+   "kelime": "بِٱلْمُجْرِمِينَ",
+   "okunus": "bil mücrimîne",
+   "kok": "جرم",
+   "kokAnlam": "suç işleme",
+   "karsilik": "suçlulara"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu kısa ayet, önceki sahnenin (toplanma, sorgulanma, karşılıklı suçlama, ortak azap) genel bir kural olduğunu bildirir: 'Biz suçlulara işte böyle yaparız.' Bu, anlatılan sahnenin istisnai değil, suçlular için değişmez bir sonuç olduğunu vurgular.",
+  "Bir sonraki ayet, bu suçluluğun kökenini açıklamaya başlar: 'la ilahe illallah' dendiğinde büyüklük taslamaları. Böylece ayet, hem geriye (anlatılan sahne) hem ileriye (suçun kaynağı) bağlanan bir menteşe görevi görür."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "37:38",
+   "meal": "Şüphesiz siz, acıklı azabı tadacaksınız.",
+   "baglanti": "Aynı sûrede birkaç ayet sonra gelen bu ifade, 'suçlulara böyle yaparız' hükmünün somut karşılığını, tadılacak azabı gösterir."
+  },
+  {
+   "ref": "55:43",
+   "meal": "İşte bu, suçluların yalanladığı cehennemdir.",
+   "baglanti": "Rahmân sûresi de aynı 'mücrimûn' (suçlular) kelimesiyle cehennemi tanımlar; iki ayet, suçluluğun sonucu olan cezayı doğrudan birbirine bağlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, suçlulara uygulanan ilahi kuralın değişmezliğidir. Bu, bir istisna değil, genel bir ilkedir.",
+  "Bugüne taşınabilecek ders, sonuçların rastgele olmadığıdır. Bir davranışın sonucu, o davranışın niteliğine bağlıdır; suç işleyenin karşılaşacağı sonuç, iyi davrananınkinden farklıdır. Bu, adaletin ilahi bir düzen olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Adalete güven",
+   "aciklama": "Bugün haksızlığa uğradığında, adaletin bir gün yerini bulacağına güven."
+  },
+  {
+   "baslik": "Kuralın değişmezliğini hatırla",
+   "aciklama": "'Bu sefer bana bir şey olmaz' diye düşündüğün bir yanlıştan bugün vazgeç."
+  },
+  {
+   "baslik": "İyi sonucu hak et",
+   "aciklama": "Bugün iyi bir davranışta bulunup bunun iyi bir karşılığı olacağına güven."
+  }
+ ],
+ "bugununAdimi": "Bugün 'bu sefer bana bir şey olmaz' diye düşündüğün küçük bir yanlıştan vazgeç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=34"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/34"
+  }
+ ]
+}

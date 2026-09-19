@@ -1,0 +1,96 @@
+{
+ "sure": 37,
+ "ayet": 39,
+ "durum": "taslak",
+ "meal": "Ve siz ancak yapmakta olduğunuzun karşılığını göreceksiniz.",
+ "mealNotu": "'Tüczevne' kökü (ج ز ي) karşılık görmeyi anlatır. Ayet, önceki ayetteki azabın keyfi değil, yapılanların doğrudan bir sonucu olduğunu bildirir.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve -mez",
+   "karsilik": "ve -mezsiniz"
+  },
+  {
+   "kelime": "تُجْزَوْنَ",
+   "okunus": "tüczevne",
+   "kok": "جزي",
+   "kokAnlam": "karşılık görme",
+   "karsilik": "karşılığını göreceksiniz"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) şeyin",
+   "karsilik": "-in"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-diğiniz"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma, işleme, amel etme",
+   "karsilik": "yapmakta"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, suçlulara verilen azabın sebebini genel bir ilkeyle özetler: kişi ancak kendi yaptığının karşılığını görür. Bu, sûrede anlatılan bütün sahnenin (toplanma, sorgulanma, suçlama, azap) altında yatan adalet ilkesidir.",
+  "Ayet, azabın keyfi veya haksız olmadığını, tam tersine herkesin kendi amelinin doğal sonucuyla karşılaştığını vurgular. Bir sonraki ayet, bu genel kuralın istisnasını tanıtarak yeni bir bölüme geçiş yapacaktır: ihlaslı kullar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "36:54",
+   "meal": "Bugün hiç kimseye hiçbir şekilde haksızlık edilmez; siz ancak yapmakta olduklarınızın karşılığını görürsünüz.",
+   "baglanti": "Yâsîn sûresinde neredeyse birebir aynı cümle geçer; iki ayet de adaletin, yapılanın tam karşılığını vermekten ibaret olduğunu bildirir."
+  },
+  {
+   "ref": "99:7",
+   "meal": "Kim zerre kadar hayır işlerse onu görür.",
+   "baglanti": "Zilzâl sûresi, bu karşılık ilkesini en küçük ölçeğe (zerre) kadar indirger; hiçbir amelin, iyi ya da kötü, karşılıksız kalmadığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ahiretteki adalet ilkesidir: herkes yalnızca kendi yaptığının karşılığını görür. Bu, hem müjde hem uyarı taşıyan bir ilkedir.",
+  "Bugüne taşınabilecek ders, her amelin bir karşılığı olduğu bilincidir. Küçük bir iyilik bile boşa gitmez, küçük bir kötülük de gözden kaçmaz. Bu, insanın her davranışına özen göstermesi için güçlü bir teşviktir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Küçük iyiliği önemse",
+   "aciklama": "Bugün küçük gördüğün bir iyiliği (gülümseme, yardım) yapmaktan çekinme."
+  },
+  {
+   "baslik": "Karşılığa güven",
+   "aciklama": "Karşılığını hemen göremediğin bir iyiliğin boşa gitmediğine güven."
+  },
+  {
+   "baslik": "Amelini gözden geçir",
+   "aciklama": "Gün sonunda bugün yaptığın işleri kısaca gözden geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün küçük gördüğün bir iyiliği, karşılığını beklemeden yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=39"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/39"
+  }
+ ]
+}

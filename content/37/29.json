@@ -1,0 +1,89 @@
+{
+ "sure": 37,
+ "ayet": 29,
+ "durum": "taslak",
+ "meal": "Derler ki: 'Hayır, siz zaten mümin değildiniz.'",
+ "mealNotu": "'Bel' (hayır, bilakis) edatı, önceki ayetteki suçlamayı reddeden kesin bir karşı çıkışı bildirir. Cümle, sorumluluğu doğrudan muhataplara geri çevirir.",
+ "kokler": [
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "بَل",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) hayır, bilakis",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) değil",
+   "karsilik": "-diniz"
+  },
+  {
+   "kelime": "تَكُونُوا۟",
+   "okunus": "tekûnû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-diniz"
+  },
+  {
+   "kelime": "مُؤْمِنِينَ",
+   "okunus": "mü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanma, iman etme",
+   "karsilik": "mümin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki suçlamaya ('siz bize sağdan gelirdiniz') burada kesin bir ret gelir: 'Hayır, siz zaten mümin değildiniz.' Suçlanan taraf, sorumluluğu tamamen kabul etmez; sorunun kökeninin karşı tarafın kendi iman eksikliği olduğunu söyler.",
+  "Bu karşılıklı suçlama, sûrenin sonraki ayetlerinde de devam edecek ve her iki tarafın da kendi payını reddettiği bir tartışmaya dönüşecektir. Bu sahne, dünyadaki birlikteliğin ahirette nasıl parçalandığını çarpıcı biçimde gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "34:32",
+   "meal": "Büyüklük taslayanlar, zayıf görülenlere derler ki: 'Size hidayet geldikten sonra sizi biz mi ondan alıkoyduk? Hayır, siz zaten suçlulardınız.'",
+   "baglanti": "Sebe' sûresinde de aynı ret cümlesi geçer; suçlanan taraf, sorumluluğu karşı tarafın kendi tercihine geri çevirir."
+  },
+  {
+   "ref": "14:22",
+   "meal": "'Benim sizin üzerinizde hiçbir gücüm yoktu; sadece çağırdım, siz icabet ettiniz.'",
+   "baglanti": "İbrâhîm sûresindeki bu söz, aynı savunmayı, zorlamanın olmadığını ve seçimin kişiye ait olduğunu vurgulayarak tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ahiretteki karşılıklı suçlamada sorumluluğun reddedilmesidir. Bu, dünyadaki 'beni o saptırdı' savunmasının orada işe yaramayacağını gösterir.",
+  "Bugüne taşınabilecek ders, kendi seçimlerinin sorumluluğunu üstlenmektir. Bir başkası ne kadar teşvik ederse etsin, son kararı veren kişidir; bu yüzden 'beni o yönlendirdi' demek, sorumluluğu ortadan kaldırmaz."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sorumluluk al",
+   "aciklama": "Bugün bir hatanı başkasına yıkmadan, kendi payını kabul et."
+  },
+  {
+   "baslik": "Seçimini fark et",
+   "aciklama": "Bir kararı verirken bunun senin özgür seçimin olduğunu unutma."
+  },
+  {
+   "baslik": "İmanını sağlamlaştır",
+   "aciklama": "Bugün inancını zayıflatan bir etkiyi fark edip ondan uzaklaş."
+  }
+ ],
+ "bugununAdimi": "Bugün bir hatanı, 'beni yönlendirdiler' demeden, kendi sorumluluğun olarak kabul et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=29"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/29"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sure": 37,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "De ki: 'Evet, hem de siz aşağılanmış olarak [diriltileceksiniz].'",
+ "mealNotu": "'Neam' kesin bir onay bildiren 'evet' kelimesidir. 'Dâhırûn' kökü (د خ ر) küçük düşmeyi, boyun eğmeyi anlatır. Cümlenin tamamlayıcısı bir önceki ayetlerden geldiği için köşeli parantezle eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "نَعَمْ",
+   "okunus": "neam",
+   "kok": "—",
+   "kokAnlam": "(cevap) evet",
+   "karsilik": "evet"
+  },
+  {
+   "kelime": "وَأَنتُمْ",
+   "okunus": "ve entüm",
+   "kok": "—",
+   "kokAnlam": "ve siz",
+   "karsilik": "hem de siz"
+  },
+  {
+   "kelime": "دَٰخِرُونَ",
+   "okunus": "dâhırûne",
+   "kok": "دخر",
+   "kokAnlam": "küçük düşme, boyun eğme",
+   "karsilik": "aşağılanmış olarak"
+  }
+ ],
+ "neAnlatiyor": [
+  "İki ayet boyunca sorulan alaycı soruya ('öldüğümüzde, atalarımız da mı diriltilecek?') burada kesin bir cevap verilir: 'Evet.' Bu kısa, net cevap, Peygamber'e söylenmesi emredilen bir sözdür.",
+  "Cevaba eklenen 'siz aşağılanmış olarak' ifadesi, alay edenlerin bu kez kendilerinin küçük düşeceğini bildirir. Bu, dünyadaki alaycı tutumun karşılığını gösteren bir uyarıdır; sonraki ayet bu dirilişin nasıl ani gerçekleşeceğini ('tek bir haykırış') anlatacaktır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "64:7",
+   "meal": "İnkâr edenler asla diriltilmeyeceklerini iddia ettiler. De ki: 'Hayır, Rabbime yemin ederim, mutlaka diriltileceksiniz; sonra yaptıklarınız size haber verilecektir.'",
+   "baglanti": "Teğâbün sûresinde de aynı 'De ki: evet/hayır, diriltileceksiniz' kalıbı kullanılır; iki ayet aynı kesin cevabı farklı sûrelerde tekrarlar."
+  },
+  {
+   "ref": "17:51",
+   "meal": "'Peki bizi kim eski halimize döndürecek?' diyecekler. De ki: 'Sizi ilk defa yaratan.'",
+   "baglanti": "İsrâ sûresi, aynı itiraza bir kanıtla cevap verir: ilk yaratılışı yapan, yeniden yaratmaya da güç yetirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, diriliş itirazına verilen kesin bir cevaptır. Bu cevap, dünyada alay edenlerin ahirette küçük düşeceğini de bildirir.",
+  "Bugüne taşınabilecek ders, ciddiyetle karşılık vermektir. Bir alaya, bir yanlışa karşı en güçlü cevap bazen kısa ve net bir gerçeği söylemektir. 'Evet' demek, bazen en güçlü duruştur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Net bir duruş sergile",
+   "aciklama": "Bugün bir konuda net olman gerekiyorsa, dolambaçlı değil kısa ve açık konuş."
+  },
+  {
+   "baslik": "Alayın karşılığını düşün",
+   "aciklama": "Bugün birine haksız yere küçümseyici davranmaktan kaçın; bu davranışın bir karşılığı olabilir."
+  },
+  {
+   "baslik": "Kesin bir inancı tazele",
+   "aciklama": "Ahirete olan inancını bugün kısa bir cümleyle kendi kendine tekrar et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda tereddütle değil, net bir 'evet' veya 'hayır' ile karşılık ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/18"
+  }
+ ]
+}

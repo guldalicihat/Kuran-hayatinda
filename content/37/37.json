@@ -1,0 +1,89 @@
+{
+ "sure": 37,
+ "ayet": 37,
+ "durum": "taslak",
+ "meal": "Hayır, o hakkı getirdi ve gönderilmiş elçileri doğruladı.",
+ "mealNotu": "'Sadde' kökü (ص د ق) doğrulamayı anlatır. Cümle, önceki ayetteki 'şair, deli' ithamlarını 'bel' (hayır) edatıyla kesin biçimde reddeder.",
+ "kokler": [
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "(idrak) hayır, bilakis",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "جَآءَ",
+   "okunus": "câe",
+   "kok": "جيأ",
+   "kokAnlam": "gelme, getirme",
+   "karsilik": "getirdi"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "doğru, gerçek, hak",
+   "karsilik": "hakkı"
+  },
+  {
+   "kelime": "وَصَدَّقَ",
+   "okunus": "ve saddeka",
+   "kok": "صدق",
+   "kokAnlam": "doğrulama, tasdik etme",
+   "karsilik": "ve doğruladı"
+  },
+  {
+   "kelime": "ٱلْمُرْسَلِينَ",
+   "okunus": "elmürselîne",
+   "kok": "رسل",
+   "kokAnlam": "gönderilmiş olma, elçilik",
+   "karsilik": "gönderilmiş elçileri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetteki 'şair, deli' ithamlarına kesin bir cevap gelir: 'Hayır, o hakkı getirdi.' Peygamber'in getirdiği mesaj, önceki elçilerin getirdiği mesajı doğrulayan, onunla uyumlu bir haktır; bu da onun sıradan bir söz veya şiir olmadığını gösterir.",
+  "'Doğrulama' vurgusu önemlidir: yeni gelen mesaj, öncekileri geçersiz kılan değil, onları tasdik eden bir mesajdır. Bir sonraki ayet, bu hakkı reddedenlerin karşılaşacağı sonucu bildirecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "52:29",
+   "meal": "Sen, Rabbinin nimeti sayesinde ne kâhinsin ne de mecnun.",
+   "baglanti": "Tûr sûresi, aynı ithamları (kâhinlik, delilik) doğrudan reddeder; 37:37'deki 'hayır, o hakkı getirdi' ifadesiyle aynı savunmayı tamamlar."
+  },
+  {
+   "ref": "35:31",
+   "meal": "Sana vahyettiğimiz kitap haktır; kendinden öncekini doğrulayıcıdır. Şüphesiz Allah, kullarından haberdardır, onları görendir.",
+   "baglanti": "Fâtır sûresi, vahyin hem hak olduğunu hem öncekini doğruladığını bildirir; bu, Sâffât 37'deki 'hakkı getirdi ve doğruladı' ifadesiyle aynı iki vurguyu taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber'in getirdiği mesajın gerçekliği ve önceki elçilerle uyumudur. Bu, itikadî bir konudur.",
+  "Bugüne taşınabilecek ders, tutarlılığın bir doğruluk göstergesi olduğudur. Bir mesaj veya kişi, önceki doğrularla çelişmiyor, onları tamamlıyorsa bu, güvenilirliğine işaret eder. Kendi sözlerimizde ve davranışlarımızda tutarlı olmak da bu ilkenin bir yansımasıdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tutarlı ol",
+   "aciklama": "Bugün söylediklerinle yaptıklarının uyumlu olmasına dikkat et."
+  },
+  {
+   "baslik": "Doğruyu doğrula",
+   "aciklama": "Bir bilgiyi paylaşmadan önce güvenilir kaynaklarla uyumlu olup olmadığını kontrol et."
+  },
+  {
+   "baslik": "Hakka değer ver",
+   "aciklama": "Bugün bir tartışmada, kim söylerse söylesin doğruyu kabul et."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda söylediğin ile yaptığının tutarlı olup olmadığını gözden geçir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=37"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/37"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "sure": 37,
+ "ayet": 16,
+ "durum": "taslak",
+ "meal": "Biz öldüğümüzde, toprak ve kemik yığını olduğumuzda mı, gerçekten diriltileceğiz?",
+ "mealNotu": "Cümle Arapçada soru kalıbındadır (hemze ile başlar) ve inkâr amaçlı bir soru taşır; bu yüzden Türkçede de soru işaretiyle verilmiştir. 'Meb'ûsûn' kökü (ب ع ث) diriltilmeyi, yeniden hayata döndürülmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَءِذَا",
+   "okunus": "eizâ",
+   "kok": "—",
+   "kokAnlam": "(zaman) -dığında mı",
+   "karsilik": "-dığımızda mı"
+  },
+  {
+   "kelime": "مِتْنَا",
+   "okunus": "mitnâ",
+   "kok": "موت",
+   "kokAnlam": "ölme",
+   "karsilik": "öldüğümüzde"
+  },
+  {
+   "kelime": "وَكُنَّا",
+   "okunus": "ve künnâ",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ve olduğumuzda"
+  },
+  {
+   "kelime": "تُرَابًا",
+   "okunus": "türâben",
+   "kok": "ترب",
+   "kokAnlam": "toprak",
+   "karsilik": "toprak"
+  },
+  {
+   "kelime": "وَعِظَٰمًا",
+   "okunus": "ve izâmen",
+   "kok": "عظم",
+   "kokAnlam": "kemik",
+   "karsilik": "ve kemik"
+  },
+  {
+   "kelime": "أَءِنَّا",
+   "okunus": "einnâ",
+   "kok": "—",
+   "kokAnlam": "(te'kid) biz mi gerçekten",
+   "karsilik": "biz mi gerçekten"
+  },
+  {
+   "kelime": "لَمَبْعُوثُونَ",
+   "okunus": "lemeb'ûsûne",
+   "kok": "بعث",
+   "kokAnlam": "diriltilme, yeniden hayata döndürülme",
+   "karsilik": "diriltileceğiz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette 'apaçık büyü' diyen inkârcıların asıl itirazı burada netleşir: diriliş inancı. İnsanın ölüp toz ve kemik haline geldikten sonra tekrar diriltilmesi, onlara imkânsız görünür ve bunu alayla sorarlar.",
+  "Bu soru, ayette bir inkâr sorusu olarak kurulmuştur; gerçek bir merak değil, imkânsızlığı vurgulayan retorik bir sorudur. Bir sonraki ayet bu itirazı, 'önceki atalarımız da mı' diyerek daha da genişletecektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "56:47",
+   "meal": "'Biz öldüğümüzde, toprak ve kemik olduğumuzda mı gerçekten diriltileceğiz?' derlerdi.",
+   "baglanti": "Vâkıa sûresinde neredeyse birebir aynı cümle geçer; bu, Kur'an'da inkârcıların diriliş karşısındaki ortak itirazını gösterir."
+  },
+  {
+   "ref": "75:3",
+   "meal": "İnsan, kemiklerini bir araya toplayamayacağımızı mı sanıyor?",
+   "baglanti": "Kıyâme sûresi aynı itiraza doğrudan cevap verir; devamındaki ayet (75:4), parmak uçlarını bile yeniden düzenleyebilecek gücü hatırlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, diriliş inancına yöneltilen bir itirazdır. Bu, ayetin bağlamında imkânsızlığı vurgulamak için sorulan alaycı bir sorudur.",
+  "Bugüne taşınabilecek ders, 'imkânsız' gördüğümüz şeyler hakkında acele hüküm vermemektir. İnsan aklı sınırlıdır; bir şeyi kavrayamamak, onun gerçekleşemeyeceği anlamına gelmez. İlk yaratılışı görebilen biri, yeniden yaratmanın da mümkün olduğunu kabul edebilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İlk yaratılışı düşün",
+   "aciklama": "Bugün kendi bedeninin nasıl var olduğunu bir an düşün; bu, yeniden yaratmanın da mümkün olduğuna işarettir."
+  },
+  {
+   "baslik": "Acele hükümden kaçın",
+   "aciklama": "'İmkânsız' dediğin bir şey hakkında bugün bir kez daha düşün."
+  },
+  {
+   "baslik": "Ahireti hatırla",
+   "aciklama": "Bugün yaptığın bir işin, bir gün hesabının sorulacağını bir an aklından geçir."
+  }
+ ],
+ "bugununAdimi": "Bugün 'bu imkânsız' dediğin bir konuyu yeniden, alaycı değil düşünerek ele al.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=16"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/16"
+  }
+ ]
+}

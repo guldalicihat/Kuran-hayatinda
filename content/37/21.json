@@ -1,0 +1,103 @@
+{
+ "sure": 37,
+ "ayet": 21,
+ "durum": "taslak",
+ "meal": "Bu, yalanlamakta olduğunuz ayırt etme günüdür.",
+ "mealNotu": "'Fasl' kökü (ف ص ل) ayırmayı, kesin bir hükümle birbirinden ayırt etmeyi anlatır. Cümle, bir önceki ayetteki 'din günü'nü başka bir isimle ('fasıl günü') tekrar tanımlar.",
+ "kokler": [
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "يَوْمُ",
+   "okunus": "yevmü",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günüdür"
+  },
+  {
+   "kelime": "ٱلْفَصْلِ",
+   "okunus": "elfasli",
+   "kok": "فصل",
+   "kokAnlam": "ayırma, kesin hüküm",
+   "karsilik": "ayırt etme"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ki o",
+   "karsilik": "ki"
+  },
+  {
+   "kelime": "كُنتُم",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olmuştunuz"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "تُكَذِّبُونَ",
+   "okunus": "tükezzibûne",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanlamakta"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette 'din günü' diye anılan gün, burada 'ayırt etme (fasıl) günü' olarak tanımlanır. Bu isim, o günün doğru ile yanlışı, mümini kâfirden kesin bir hükümle ayıracağını vurgular.",
+  "Ayet, bu günün daha önce yalanlanmış olduğunu hatırlatır; dünyada inkâr edilen bir gerçek, artık inkâr edilemez bir gerçeklik olarak karşılarına çıkmıştır. Bu, sûrenin ilerleyen ayetlerinde anlatılacak olan toplu hesaplaşma sahnesine bir giriştir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "78:17",
+   "meal": "Şüphesiz ayırt etme (fasıl) günü, belirlenmiş bir vakittir.",
+   "baglanti": "Nebe' sûresinde de 'yevmü'l-fasl' ifadesi geçer ve bu günün önceden belirlenmiş, kaçınılmaz bir vakit olduğu vurgulanır."
+  },
+  {
+   "ref": "40:16",
+   "meal": "O gün onlar (kabirlerinden) çıkmış olurlar; onlardan hiçbir şey Allah'a gizli kalmaz. 'Bugün mülk kimindir?' Tek ve kahredici olan Allah'ındır.",
+   "baglanti": "Mü'min sûresi, aynı günün mutlak bir hükümle sonuçlanacağını anlatır; mülkün yalnız Allah'a ait olduğu bildirimi, 'ayırt etme' gününün kesinliğini pekiştirir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, dünyada yalanlanan bir günün ahirette kesin bir gerçeklik olarak yaşanmasıdır. Bu, ayetin bağlamında inkârcılara söylenen bir hatırlatmadır.",
+  "Bugüne taşınabilecek ders, doğru ile yanlışın bir gün kesin biçimde ayrılacağıdır. Bu dünyada bazen doğru ile yanlış birbirine karışmış gibi görünse de, bu karışıklık kalıcı değildir. Bu bilinç, insana sabır ve umut verir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Adaleti bekle",
+   "aciklama": "Bugün haksızlığa uğradığın bir konuda, adaletin bir gün kesin olarak yerini bulacağını hatırla."
+  },
+  {
+   "baslik": "Doğruyu net söyle",
+   "aciklama": "Bugün bir konuda doğru ile yanlışı birbirine karıştırmadan net konuş."
+  },
+  {
+   "baslik": "Yalanlamayı bırak",
+   "aciklama": "İçten içe inkâr ettiğin ama bildiğin bir gerçeği bugün kabullen."
+  }
+ ],
+ "bugununAdimi": "Bugün içten içe inkâr ettiğin ama doğruluğunu bildiğin bir gerçeği kendine itiraf et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=21"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/21"
+  }
+ ]
+}

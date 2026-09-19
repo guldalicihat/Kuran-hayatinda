@@ -1,0 +1,96 @@
+{
+ "sure": 37,
+ "ayet": 28,
+ "durum": "taslak",
+ "meal": "Derler ki: 'Siz bize sağdan gelirdiniz.'",
+ "mealNotu": "'Yemîn' kökü (ي م ن) sağ tarafı anlatır. Ayet, 'sağdan gelme' ifadesinin ne anlama geldiğini açıklamaz; klasik tefsir bunu genellikle güven telkin ederek yaklaşma olarak yorumlar, ama bu yorum ayetin kendi metninde yoktur.",
+ "kokler": [
+  {
+   "kelime": "قَالُوٓا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, deme",
+   "karsilik": "derler"
+  },
+  {
+   "kelime": "إِنَّكُمْ",
+   "okunus": "inneküm",
+   "kok": "—",
+   "kokAnlam": "(te'kid) şüphesiz siz",
+   "karsilik": "siz"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "-diniz"
+  },
+  {
+   "kelime": "تَأْتُونَنَا",
+   "okunus": "te'tûnenâ",
+   "kok": "أتي",
+   "kokAnlam": "gelme",
+   "karsilik": "bize gelirdiniz"
+  },
+  {
+   "kelime": "عَنِ",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْيَمِينِ",
+   "okunus": "elyemîni",
+   "kok": "يمن",
+   "kokAnlam": "sağ taraf",
+   "karsilik": "sağ"
+  }
+ ],
+ "neAnlatiyor": [
+  "Karşılıklı sorgulama sahnesinde, izleyenler (zayıf görülenler) önderlerini suçlar: 'Siz bize sağdan gelirdiniz.' Ayet bu ifadenin tam olarak neyi kastettiğini açıklamaz; bu belirsizliği korumak, ayetin kendi metnine sadık kalmak açısından önemlidir.",
+  "Klasik tefsir bu ifadeyi genellikle güven ve hayır telkin eden bir yaklaşımla saptırma olarak yorumlar. Sonraki ayet, suçlanan tarafın bu iddiayı reddederek işi izleyenlerin kendi iman eksikliğine bağlayacağını gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:17",
+   "meal": "'Sonra elbette onlara önlerinden, arkalarından, sağlarından ve sollarından sokulacağım; çoğunu şükredenlerden bulmayacaksın' dedi.",
+   "baglanti": "A'râf sûresinde İblis'in Allah'a söylediği bu söz, sağ taraftan yaklaşmayı da içeren çok yönlü bir saptırma vaadidir; 37:28'deki 'sağdan gelme' suçlamasına bir bağlam sunar."
+  },
+  {
+   "ref": "14:22",
+   "meal": "Şeytan der ki: 'Benim sizin üzerinizde hiçbir gücüm yoktu; sadece sizi çağırdım, siz de bana uydunuz. Beni değil, kendinizi kınayın.'",
+   "baglanti": "İbrâhîm sûresinde şeytanın bu itirafı, 37:28'deki suçlamaya ahirette verilecek cevabın mahiyetini gösterir: çağıran zorlamamıştır, icabet eden kendi seçimiyle uymuştur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ahirette izleyenlerin önderlerini suçlamasıdır. Ayetin kendisi bu suçlamanın ayrıntısını netleştirmez; bu belirsizlik korunmalıdır.",
+  "Bugüne taşınabilecek ders, güven telkin eden her sesin doğru olmayabileceğidir. Bir kişi, bir fikir bize ne kadar 'iyi niyetli' veya 'güvenilir' görünürse görünsün, doğruluğunu kendi ölçütlerimizle (vahiy, akıl, vicdan) değerlendirmek gerekir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Güveni sorgula",
+   "aciklama": "Bugün sana çok inandırıcı gelen bir öneriyi hemen kabul etmeden bir kez sorgula."
+  },
+  {
+   "baslik": "Kaynağı değerlendir",
+   "aciklama": "Bir bilgiyi paylaşmadan önce kaynağının güvenilirliğini kontrol et."
+  },
+  {
+   "baslik": "Kendi sorumluluğunu al",
+   "aciklama": "Bir yanlışa 'bana öyle söylediler' diyerek değil, kendi kararınla bakarak yaklaş."
+  }
+ ],
+ "bugununAdimi": "Bugün sana çok güven veren bir öneriyi kabul etmeden önce kendi aklınla bir kez daha değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=37&verse=28"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/37/28"
+  }
+ ]
+}
