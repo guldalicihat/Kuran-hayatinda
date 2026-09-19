@@ -1,0 +1,416 @@
+{
+ "sure": 58,
+ "ayet": 22,
+ "durum": "taslak",
+ "meal": "Allah'a ve ahiret gününe iman eden bir topluluğun, babaları, oğulları, kardeşleri veya aşiretleri olsa bile, Allah'a ve Elçisi'ne karşı gelen kimselerle sevgi bağı kurduğunu göremezsin. İşte onların kalplerine Allah imanı yazmış ve onları kendi katından bir ruhla desteklemiştir. Onları, içinden ırmaklar akan cennetlere sokacaktır; orada sürekli kalıcıdırlar. Allah onlardan razı olmuş, onlar da Allah'tan razı olmuşlardır. İşte onlar Allah'ın topluluğudur. Dikkat edin, gerçek kurtuluşa erenler Allah'ın topluluğudur!",
+ "mealNotu": "'Aşîra' kelimesi aile/akraba topluluğunu ifade eder, 'yakın akrabaları' olarak köşeli parantezle genişletildi; ayetteki dört akrabalık kategorisi (baba, oğul, kardeş, aşiret) sırasıyla korundu.",
+ "kokler": [
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "تَجِدُ",
+   "okunus": "tecidü",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulamazsın/göremezsin"
+  },
+  {
+   "kelime": "قَوْمًا",
+   "okunus": "kavmen",
+   "kok": "قوم",
+   "kokAnlam": "topluluk",
+   "karsilik": "bir topluluk"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman eden"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَٱلْيَوْمِ",
+   "okunus": "vel yevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "ve gününe"
+  },
+  {
+   "kelime": "ٱلْءَاخِرِ",
+   "okunus": "el'âhıri",
+   "kok": "أخر",
+   "kokAnlam": "sonra gelme",
+   "karsilik": "ahiret"
+  },
+  {
+   "kelime": "يُوَآدُّونَ",
+   "okunus": "yüvâddûne",
+   "kok": "ودد",
+   "kokAnlam": "sevgi",
+   "karsilik": "sevgi bağı kuran"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimseyle",
+   "karsilik": "kimseyle"
+  },
+  {
+   "kelime": "حَآدَّ",
+   "okunus": "hâdde",
+   "kok": "حدد",
+   "kokAnlam": "sınır, karşı gelme",
+   "karsilik": "karşı gelen"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَرَسُولَهُۥ",
+   "okunus": "ve rasûlehû",
+   "kok": "رسل",
+   "kokAnlam": "elçilik",
+   "karsilik": "ve Elçisi'ne"
+  },
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart edatı) olsa bile",
+   "karsilik": "olsa bile"
+  },
+  {
+   "kelime": "كَانُوٓا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olsalar"
+  },
+  {
+   "kelime": "ءَابَآءَهُمْ",
+   "okunus": "âbâehüm",
+   "kok": "أبو",
+   "kokAnlam": "baba",
+   "karsilik": "babaları"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "أَبْنَآءَهُمْ",
+   "okunus": "ebnâehüm",
+   "kok": "بني",
+   "kokAnlam": "oğul",
+   "karsilik": "oğulları"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "إِخْوَٰنَهُمْ",
+   "okunus": "ihvânehüm",
+   "kok": "أخو",
+   "kokAnlam": "kardeş",
+   "karsilik": "kardeşleri"
+  },
+  {
+   "kelime": "أَوْ",
+   "okunus": "ev",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) veya",
+   "karsilik": "veya"
+  },
+  {
+   "kelime": "عَشِيرَتَهُمْ",
+   "okunus": "aşîratehüm",
+   "kok": "عشر",
+   "kokAnlam": "akraba, topluluk",
+   "karsilik": "aşiretleri/yakın akrabaları"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri) işte onların",
+   "karsilik": "işte onların"
+  },
+  {
+   "kelime": "كَتَبَ",
+   "okunus": "ketebe",
+   "kok": "كتب",
+   "kokAnlam": "yazma",
+   "karsilik": "yazmıştır"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "قُلُوبِهِمُ",
+   "okunus": "kulûbihimü",
+   "kok": "قلب",
+   "kokAnlam": "kalp",
+   "karsilik": "kalplerine"
+  },
+  {
+   "kelime": "ٱلْإِيمَٰنَ",
+   "okunus": "el'îmâne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "imanı"
+  },
+  {
+   "kelime": "وَأَيَّدَهُم",
+   "okunus": "ve eyyedehüm",
+   "kok": "أيد",
+   "kokAnlam": "güç, destek",
+   "karsilik": "ve onları desteklemiştir"
+  },
+  {
+   "kelime": "بِرُوحٍ",
+   "okunus": "birûhin",
+   "kok": "روح",
+   "kokAnlam": "ruh",
+   "karsilik": "bir ruhla"
+  },
+  {
+   "kelime": "مِّنْهُ",
+   "okunus": "minhü",
+   "kok": "—",
+   "kokAnlam": "(edat) kendi katından",
+   "karsilik": "kendi katından"
+  },
+  {
+   "kelime": "وَيُدْخِلُهُمْ",
+   "okunus": "ve yüdhılühüm",
+   "kok": "دخل",
+   "kokAnlam": "girme",
+   "karsilik": "ve onları sokacaktır"
+  },
+  {
+   "kelime": "جَنَّٰتٍ",
+   "okunus": "cennâtin",
+   "kok": "جنن",
+   "kokAnlam": "örtme, bahçe",
+   "karsilik": "cennetlere"
+  },
+  {
+   "kelime": "تَجْرِى",
+   "okunus": "tecrî",
+   "kok": "جري",
+   "kokAnlam": "akma",
+   "karsilik": "akan"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "تَحْتِهَا",
+   "okunus": "tahtihâ",
+   "kok": "تحت",
+   "kokAnlam": "alt",
+   "karsilik": "altından"
+  },
+  {
+   "kelime": "ٱلْأَنْهَٰرُ",
+   "okunus": "el'enhâru",
+   "kok": "نهر",
+   "kokAnlam": "ırmak",
+   "karsilik": "ırmaklar"
+  },
+  {
+   "kelime": "خَٰلِدِينَ",
+   "okunus": "hâlidîne",
+   "kok": "خلد",
+   "kokAnlam": "kalıcılık",
+   "karsilik": "sürekli kalıcılar olarak"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat) onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "رَضِىَ",
+   "okunus": "radıye",
+   "kok": "رضو",
+   "kokAnlam": "razı olma",
+   "karsilik": "razı oldu"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَنْهُمْ",
+   "okunus": "anhüm",
+   "kok": "—",
+   "kokAnlam": "(edat) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "وَرَضُوا۟",
+   "okunus": "ve radû",
+   "kok": "رضو",
+   "kokAnlam": "razı olma",
+   "karsilik": "ve razı oldular"
+  },
+  {
+   "kelime": "عَنْهُ",
+   "okunus": "anhü",
+   "kok": "—",
+   "kokAnlam": "(edat) O'ndan",
+   "karsilik": "O'ndan"
+  },
+  {
+   "kelime": "أُو۟لَٰٓئِكَ",
+   "okunus": "ülâike",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri) işte onlar",
+   "karsilik": "işte onlar"
+  },
+  {
+   "kelime": "حِزْبَ",
+   "okunus": "hizbü",
+   "kok": "حزب",
+   "kokAnlam": "topluluk",
+   "karsilik": "topluluğudur"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "أَلَآ",
+   "okunus": "elâ",
+   "kok": "—",
+   "kokAnlam": "(uyarı edatı) dikkat edin",
+   "karsilik": "dikkat edin"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid edatı) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "حِزْبَ",
+   "okunus": "hizbe",
+   "kok": "حزب",
+   "kokAnlam": "topluluk",
+   "karsilik": "topluluğu"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "هُمُ",
+   "okunus": "hümü",
+   "kok": "—",
+   "kokAnlam": "(zamir) onlar",
+   "karsilik": "onlar"
+  },
+  {
+   "kelime": "ٱلْمُفْلِحُونَ",
+   "okunus": "elmüflihûne",
+   "kok": "فلح",
+   "kokAnlam": "kurtuluş, felah",
+   "karsilik": "gerçek kurtuluşa erenlerdir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, sure boyunca işlenen 'hizbüşşeytan' (19. ayet) ve 'hizbullah' karşıtlığını tamamlar: gerçek iman edenlerin, Allah'a ve Elçisi'ne karşı açık düşmanlık besleyen kişilerle sevgi bağı kurmayacağını, bu düşmanları en yakın akrabaları (baba, oğul, kardeş, aşiret) bile olsa bunun değişmeyeceğini bildirir.",
+  "Bu ayeti anlarken tarihsel bağlamı gözetmek önemlidir. Klasik tefsir bunu, Bedir gibi savaşlarda mümin bir kişinin, açık düşmanlık ve savaş hâlindeki yakınına karşı imanını önceleyen tutumuyla ilişkilendirir. Ayet, günlük hayatta akraba bağlarını genel olarak kesmeyi emretmez; farklı inançtaki bir akrabayla ilişkiyi sürdürmek, ona iyilik etmek başka ayetlerde ayrıca teşvik edilir. Buradaki 'sevgi bağı kurmama', Allah'a ve Elçisi'ne fiilen ve açıkça düşmanlık eden kişiyle kurulacak bir yakınlığa/ittifaka özeldir; bunu aile içi küskünlük veya farklı inançtaki bir akrabayı reddetme gerekçesi yapmak ayetin ruhuna uygun değildir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "60:8",
+   "meal": "Allah, din konusunda sizinle savaşmayan ve sizi yurdunuzdan çıkarmayanlara iyilik etmenizi ve onlara adaletli davranmanızı yasaklamaz.",
+   "baglanti": "Bu ayet, 58:22'deki 'düşmana sevgi bağı kurmama' ilkesinin sınırını çizer: açık düşmanlık göstermeyenlere iyilik etmek yasak değildir."
+  },
+  {
+   "ref": "31:15",
+   "meal": "Eğer ana-baban, hakkında bilgin olmayan bir şeyi bana ortak koşman için zorlarsa onlara itaat etme; ama dünyada onlarla iyi geçin.",
+   "baglanti": "Farklı inançtaki ana-babayla bile dünyevi ilişkinin sürdürülmesi emredilir; bu, 58:22'nin aile bağlarını genel olarak kesmediğini gösteren dengeleyici bir ayettir."
+  },
+  {
+   "ref": "58:19",
+   "meal": "Şeytan onları sarıp kuşatmış, Allah'ı anmayı kendilerine unutturmuştur. İşte onlar şeytanın topluluğudur.",
+   "baglanti": "Aynı surede geçen 'hizbüşşeytan' kavramı, bu ayetteki 'hizbullah' (Allah'ın topluluğu) ile doğrudan bir zıtlık oluşturur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, iman bağının aile bağının önüne geçtiği çok özel ve tarihsel bir durumdur: Allah'a ve Elçisi'ne açıkça ve fiilen düşmanlık eden kişiyle sevgi/ittifak kurmama. Bu, günlük hayattaki sıradan aile anlaşmazlıklarına veya farklı inançtaki akrabaya uygulanacak genel bir kural değildir.",
+  "Buradan çıkan ders şudur: iman, kişinin en temel aidiyeti olmalı ve hiçbir bağ -kan bağı dahil- Allah'a açık düşmanlığı meşrulaştırmamalıdır; ama bu ilke, aile içindeki küçük anlaşmazlıkları büyütmek veya farklı inançtaki bir akrabayla ilişkiyi kesmek için bir gerekçe olarak kullanılmamalıdır - bu ayrım önemlidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "İlkeni netleştir, ilişkini kesme",
+   "aciklama": "Bugün, bir değerinden asla ödün vermeyeceğini kendine hatırlat, ama bunu bir akrabanla ilişkini koparmak için bahane etme."
+  },
+  {
+   "baslik": "Yakının farklı düşünse de iyiliği sürdür",
+   "aciklama": "Bugün, seninle aynı fikirde olmayan bir akrabana küçük bir iyilik yap."
+  },
+  {
+   "baslik": "Aidiyetini doğru yerde ara",
+   "aciklama": "Bugün, en çok neyle/kiminle 'bir' hissettiğini düşün ve bunun imanınla uyumlu olup olmadığına bak."
+  }
+ ],
+ "bugununAdimi": "Bugün, farklı görüşte olsa da bir akrabanla ilişkini kesmek yerine ona küçük bir iyilik yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=58&verse=22"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/58/22"
+  }
+ ]
+}

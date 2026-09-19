@@ -1,0 +1,236 @@
+{
+ "sure": 58,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Kim [köle] bulamazsa, birbirlerine dokunmadan önce iki ay aralıksız oruç tutmalıdır. Buna da gücü yetmeyen, altmış yoksulu doyurmalıdır. Bu, Allah'a ve Elçisi'ne inanmanız içindir. Bunlar Allah'ın koyduğu sınırlardır. İnkâr edenler için elem verici bir azap vardır.",
+ "mealNotu": "'Hudûdullah' ifadesi Allah'ın koyduğu sınır anlamına geldiği için 'koyduğu sınırlar' olarak çevrildi; 'miskîn' kelimesi kök olarak yerleşiklikle ilgilidir.",
+ "kokler": [
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "-mezse"
+  },
+  {
+   "kelime": "يَجِدْ",
+   "okunus": "yecid",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulamazsa"
+  },
+  {
+   "kelime": "فَصِيَامُ",
+   "okunus": "fesıyâmü",
+   "kok": "صوم",
+   "kokAnlam": "oruç",
+   "karsilik": "oruç tutması [gerekir]"
+  },
+  {
+   "kelime": "شَهْرَيْنِ",
+   "okunus": "şehrayni",
+   "kok": "شهر",
+   "kokAnlam": "ay",
+   "karsilik": "iki ay"
+  },
+  {
+   "kelime": "مُتَتَابِعَيْنِ",
+   "okunus": "mütetâbiayni",
+   "kok": "تبع",
+   "kokAnlam": "ardarda gelme",
+   "karsilik": "aralıksız"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "قَبْلِ",
+   "okunus": "kabli",
+   "kok": "قبل",
+   "kokAnlam": "önce",
+   "karsilik": "önce"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesi",
+   "karsilik": "-mesinden"
+  },
+  {
+   "kelime": "يَتَمَآسَّا",
+   "okunus": "yetemâssâ",
+   "kok": "مسس",
+   "kokAnlam": "dokunma",
+   "karsilik": "birbirine dokunmasından"
+  },
+  {
+   "kelime": "فَمَن",
+   "okunus": "femen",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kim",
+   "karsilik": "kim"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "-mezse"
+  },
+  {
+   "kelime": "يَسْتَطِعْ",
+   "okunus": "yestetı'",
+   "kok": "طوع",
+   "kokAnlam": "güç yetirme",
+   "karsilik": "güç yetiremezse"
+  },
+  {
+   "kelime": "فَإِطْعَامُ",
+   "okunus": "feit'âmü",
+   "kok": "طعم",
+   "kokAnlam": "yedirme",
+   "karsilik": "doyurması [gerekir]"
+  },
+  {
+   "kelime": "سِتِّينَ",
+   "okunus": "sittîne",
+   "kok": "ستت",
+   "kokAnlam": "altı",
+   "karsilik": "altmış"
+  },
+  {
+   "kelime": "مِسْكِينًا",
+   "okunus": "miskînen",
+   "kok": "سكن",
+   "kokAnlam": "yerleşiklik, yoksul",
+   "karsilik": "yoksulu"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "لِتُؤْمِنُوا۟",
+   "okunus": "litü'minû",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "inanmanız içindir"
+  },
+  {
+   "kelime": "بِٱللَّهِ",
+   "okunus": "billâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَرَسُولِهِۦ",
+   "okunus": "ve rasûlihî",
+   "kok": "رسل",
+   "kokAnlam": "elçilik",
+   "karsilik": "ve Elçisi'ne"
+  },
+  {
+   "kelime": "وَتِلْكَ",
+   "okunus": "ve tilke",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri) bunlar",
+   "karsilik": "ve bunlar"
+  },
+  {
+   "kelime": "حُدُودُ",
+   "okunus": "hudûdü",
+   "kok": "حدد",
+   "kokAnlam": "sınır",
+   "karsilik": "sınırlarıdır"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "وَلِلْكَٰفِرِينَ",
+   "okunus": "ve lilkâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme, inkâr",
+   "karsilik": "inkâr edenler için [vardır]"
+  },
+  {
+   "kelime": "عَذَابٌ",
+   "okunus": "azâbün",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "bir azap"
+  },
+  {
+   "kelime": "أَلِيمٌ",
+   "okunus": "elîmün",
+   "kok": "ألم",
+   "kokAnlam": "acı",
+   "karsilik": "elem verici"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayette başlayan keffaret hükmünün devamıdır: köle azat etme imkânı olmayan kişi için iki ay aralıksız oruç, buna da gücü yetmeyen için altmış yoksulu doyurma seçeneği getirilir. Üç kademeli bu hüküm, kişinin gücüne göre kolaylaştırılmış bir sorumluluk düzenidir.",
+  "Ayet, bu hükmün amacının Allah'a ve Elçisi'ne olan imanı pekiştirmek olduğunu, bunların Allah'ın koyduğu sınırlar (hudûdullah) olduğunu söyler ve inkârcılar için acı bir azap uyarısıyla biter; bu uyarı doğrudan zıhar yapanlara değil, genel olarak Allah'ın sınırlarını tanımayanlara yöneliktir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:196",
+   "meal": "Sizden kim hasta olur veya başında bir rahatsızlık bulunursa, oruç, sadaka veya kurban olarak fidye gerekir.",
+   "baglanti": "Hac ibadetiyle ilgili bu ayette de imkâna göre kademeli bir keffaret/fidye seçeneği sunulur; 58:4'teki yapıyla paraleldir."
+  },
+  {
+   "ref": "4:92",
+   "meal": "Bir mümini yanlışlıkla öldüren kimse, mümin bir köle azat etmeli; buna imkân bulamayan ard arda iki ay oruç tutar.",
+   "baglanti": "Aynı üç kademeli keffaret sırası (köle, oruç, doyurma) burada da görülür."
+  }
+ ],
+ "gunlukHayat": [
+  "Bu hüküm de bir önceki ayetin devamı olan özel bir fıkhi düzenlemedir; imkân durumuna göre kademeli bir sorumluluk sunar.",
+  "Buradan çıkan ders şudur: bir yükümlülük karşısında 'ya tam ya hiç' değil, gücüne göre bir yol vardır; imkânın olmadığı yerde Allah kolaylık gösterir, ama sorumluluk tamamen kalkmaz."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gücüne göre bir adım at",
+   "aciklama": "Üstesinden gelemediğin büyük bir sorumluluğu, gücüne uygun küçük bir adıma indirerek bugün başla."
+  },
+  {
+   "baslik": "Bir yoksulu bugün gözet",
+   "aciklama": "'Altmış yoksulu doyurma' hükmünü hatırlayarak, bugün küçük bir yardımda bulun."
+  },
+  {
+   "baslik": "Kolaylığı bahane etme",
+   "aciklama": "Allah'ın sana tanıdığı bir kolaylığı, sorumluluğu tamamen bırakmak için gerekçe yapma."
+  }
+ ],
+ "bugununAdimi": "Bugün gücünün yettiği kadarıyla, ihtiyaç sahibi birine küçük bir yardımda bulun.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=58&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/58/4"
+  }
+ ]
+}

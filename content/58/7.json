@@ -1,0 +1,383 @@
+{
+ "sure": 58,
+ "ayet": 7,
+ "durum": "taslak",
+ "meal": "Görmedin mi ki Allah, göklerde ve yerde olan her şeyi bilir? Üç kişinin gizli konuştuğu hiçbir yer yoktur ki dördüncüleri O olmasın; beş kişinin gizli konuştuğu hiçbir yer yoktur ki altıncıları O olmasın. Bundan az veya çok da olsalar, nerede olurlarsa olsunlar O mutlaka onlarla beraberdir. Sonra kıyamet günü yaptıklarını kendilerine haber verecektir. Şüphesiz Allah her şeyi hakkıyla bilendir.",
+ "mealNotu": "'Meahüm' (onlarla beraber) ifadesi, Allah'ın mekânsal olarak o gizli konuşmanın yanında bulunduğu anlamına gelmez; kök ve bağlam, Allah'ın bilgisiyle her şeyi kuşattığını anlatır. Bu tenzih vurgusu neAnlatiyor bölümünde açıklanır.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "-medi mi"
+  },
+  {
+   "kelime": "تَرَ",
+   "okunus": "tera",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "gördün"
+  },
+  {
+   "kelime": "أَنَّ",
+   "okunus": "enne",
+   "kok": "—",
+   "kokAnlam": "(tekid edatı) gerçekten",
+   "karsilik": "gerçekten"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَعْلَمُ",
+   "okunus": "ya'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilir"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şey",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik",
+   "karsilik": "göklerde"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şey",
+   "karsilik": "ve şeyi"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْأَرْضِ",
+   "okunus": "el'erdı",
+   "kok": "أرض",
+   "kokAnlam": "yer",
+   "karsilik": "yerde"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "يَكُونُ",
+   "okunus": "yekûnü",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olan"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "نَّجْوَىٰ",
+   "okunus": "necvâ",
+   "kok": "نجو",
+   "kokAnlam": "gizli konuşma",
+   "karsilik": "gizli konuşma"
+  },
+  {
+   "kelime": "ثَلَٰثَةٍ",
+   "okunus": "selâsetin",
+   "kok": "ثلث",
+   "kokAnlam": "üç",
+   "karsilik": "üç kişi[nin]"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna edatı) ancak",
+   "karsilik": "ki olmasın"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) O",
+   "karsilik": "O"
+  },
+  {
+   "kelime": "رَابِعُهُمْ",
+   "okunus": "râbiuhüm",
+   "kok": "ربع",
+   "kokAnlam": "dört",
+   "karsilik": "onların dördüncüsü"
+  },
+  {
+   "kelime": "وَلَآ",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "ve yoktur"
+  },
+  {
+   "kelime": "خَمْسَةٍ",
+   "okunus": "hamsetin",
+   "kok": "خمس",
+   "kokAnlam": "beş",
+   "karsilik": "beş kişi[nin]"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna edatı) ancak",
+   "karsilik": "ki olmasın"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) O",
+   "karsilik": "O"
+  },
+  {
+   "kelime": "سَادِسُهُمْ",
+   "okunus": "sâdisühüm",
+   "kok": "سدس",
+   "kokAnlam": "altı",
+   "karsilik": "onların altıncısı"
+  },
+  {
+   "kelime": "وَلَآ",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "ve olmasın"
+  },
+  {
+   "kelime": "أَدْنَىٰ",
+   "okunus": "ednâ",
+   "kok": "دنو",
+   "kokAnlam": "yakınlık, azlık",
+   "karsilik": "daha az"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri) bu",
+   "karsilik": "bundan"
+  },
+  {
+   "kelime": "وَلَآ",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "ve olmasın"
+  },
+  {
+   "kelime": "أَكْثَرَ",
+   "okunus": "eksera",
+   "kok": "كثر",
+   "kokAnlam": "çokluk",
+   "karsilik": "daha çok"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna edatı) ancak",
+   "karsilik": "ki olmasın"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "(zamir) O",
+   "karsilik": "O"
+  },
+  {
+   "kelime": "مَعَهُمْ",
+   "okunus": "meahüm",
+   "kok": "—",
+   "kokAnlam": "beraberlik",
+   "karsilik": "onlarla beraber"
+  },
+  {
+   "kelime": "أَيْنَ",
+   "okunus": "eyne",
+   "kok": "—",
+   "kokAnlam": "(zaman edatı) nerede",
+   "karsilik": "nerede"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "كَانُوا۟",
+   "okunus": "kânû",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olurlarsa"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "يُنَبِّئُهُم",
+   "okunus": "yünebbiühüm",
+   "kok": "نبأ",
+   "kokAnlam": "haber",
+   "karsilik": "onlara haber verecektir"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şey",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "عَمِلُوا۟",
+   "okunus": "amilû",
+   "kok": "عمل",
+   "kokAnlam": "yapma",
+   "karsilik": "yaptıkları"
+  },
+  {
+   "kelime": "يَوْمَ",
+   "okunus": "yevme",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günü"
+  },
+  {
+   "kelime": "ٱلْقِيَٰمَةِ",
+   "okunus": "elkıyâmeti",
+   "kok": "قوم",
+   "kokAnlam": "kalkma, kıyam",
+   "karsilik": "kıyamet"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid edatı) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِكُلِّ",
+   "okunus": "bikülli",
+   "kok": "كلل",
+   "kokAnlam": "bütün, her",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "شَىْءٍ",
+   "okunus": "şey'in",
+   "kok": "شيأ",
+   "kokAnlam": "şey",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "عَلِيمٌ",
+   "okunus": "alîmün",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "hakkıyla bilendir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetteki 'Allah her şeyi saymıştır' ilkesini somutlaştırır: göklerde ve yerde olan hiçbir şey, üç, beş veya daha az/çok kişinin en gizli fısıldaşması bile Allah'ın bilgisi dışında değildir. 'Necvâ' (gizli konuşma) kelimesi, 8-10. ayetlerde münafıkların gizli konuşmalarını ele alırken yine kullanılacaktır.",
+  "'O mutlaka onlarla beraberdir' ifadesi (meahüm), Allah'ın o mecliste fiziksel olarak bulunduğu anlamına gelmez; Allah mekândan ve cisimlerden münezzehtir. Klasik tefsir bu beraberliği, Allah'ın ilim ve kudretiyle her şeyi kuşatması olarak açıklar - hiçbir gizli konuşma O'nun bilgisinden kaçamaz. Ayet, kıyamet günü bunların kişilere haber verileceğini söyleyerek biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "57:4",
+   "meal": "...O, nerede olursanız olun sizinle beraberdir. Allah yaptıklarınızı görendir.",
+   "baglanti": "Aynı 'meiyyet' (beraberlik) ifadesi burada da geçer; her iki ayet de bunu mekânsal değil, ilmî bir kuşatma olarak anlatır."
+  },
+  {
+   "ref": "50:16",
+   "meal": "Andolsun insanı biz yarattık ve nefsinin ona ne fısıldadığını biliriz; biz ona şah damarından daha yakınız.",
+   "baglanti": "Allah'ın kuluna yakınlığı burada da bilgi ve kudretle açıklanır, mekânsal bir yakınlık değildir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Allah'ın ilmiyle her yeri ve her gizli konuşmayı kuşatmasıdır; bu tenzih ilkesiyle anlaşılmalı, Allah'ın bir yerde 'durduğu' şeklinde yorumlanmamalıdır.",
+  "Buradan çıkan ders şudur: kimsenin duymadığını düşündüğün bir konuşmanın bile Allah'ın bilgisi dışında olmadığını bilmek, hem konuşmalarına hem gizli niyetlerine dikkat etmeyi öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kimse duymasa da O bilir",
+   "aciklama": "Bugün, sadece kendi bildiğini düşündüğün bir konuşmanda bile ölçülü ol."
+  },
+  {
+   "baslik": "Gizli bir niyetin varsa gözden geçir",
+   "aciklama": "Başkasına zarar verecek gizli bir planın varsa, bunun Allah'a gizli kalmadığını hatırlayıp vazgeç."
+  },
+  {
+   "baslik": "Yalnızken de aynı ol",
+   "aciklama": "Kimsenin görmediği bir anda, kalabalıktaki gibi davranmaya çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün, kimsenin duymadığını düşündüğün bir konuşmada bile ölçülü konuş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=58&verse=7"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/58/7"
+  }
+ ]
+}

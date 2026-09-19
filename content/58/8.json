@@ -1,0 +1,320 @@
+{
+ "sure": 58,
+ "ayet": 8,
+ "durum": "taslak",
+ "meal": "Gizli konuşmadan menedilip sonra menedildikleri şeye dönenleri; günah, düşmanlık ve Elçi'ye isyan üzere fısıldaşanları görmedin mi? Sana geldiklerinde, Allah'ın seni selamlamadığı bir şekilde seni selamlıyorlar ve içlerinden 'Allah bize, söylediğimiz yüzünden neden azap etmiyor?' diyorlar. Onlara cehennem yeter; oraya gireceklerdir. Ne kötü bir varış yeridir!",
+ "mealNotu": "'Yühayyike' fiili حيي (yaşatma/selamlama) kökünden gelir; münafıkların Peygamber'i, öğretilen selamdan farklı biçimde selamladıkları klasik tefsirde nakledilir, ayet bunu genel bir ifadeyle anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَلَمْ",
+   "okunus": "elem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "تَرَ",
+   "okunus": "tera",
+   "kok": "رأي",
+   "kokAnlam": "görme",
+   "karsilik": "gördün"
+  },
+  {
+   "kelime": "إِلَى",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olanlar",
+   "karsilik": "olanları"
+  },
+  {
+   "kelime": "نُهُوا۟",
+   "okunus": "nühû",
+   "kok": "نهي",
+   "kokAnlam": "yasaklama",
+   "karsilik": "yasaklandılar"
+  },
+  {
+   "kelime": "عَنِ",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلنَّجْوَىٰ",
+   "okunus": "ennecvâ",
+   "kok": "نجو",
+   "kokAnlam": "gizli konuşma",
+   "karsilik": "gizli konuşmadan"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "يَعُودُونَ",
+   "okunus": "yeûdûne",
+   "kok": "عود",
+   "kokAnlam": "dönme",
+   "karsilik": "dönerler"
+  },
+  {
+   "kelime": "لِمَا",
+   "okunus": "limâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şey",
+   "karsilik": "şeye"
+  },
+  {
+   "kelime": "نُهُوا۟",
+   "okunus": "nühû",
+   "kok": "نهي",
+   "kokAnlam": "yasaklama",
+   "karsilik": "yasaklandıkları"
+  },
+  {
+   "kelime": "عَنْهُ",
+   "okunus": "anhü",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "وَيَتَنَٰجَوْنَ",
+   "okunus": "ve yetenâcevne",
+   "kok": "نجو",
+   "kokAnlam": "gizli konuşma",
+   "karsilik": "ve gizlice fısıldaşırlar"
+  },
+  {
+   "kelime": "بِٱلْإِثْمِ",
+   "okunus": "bil ismi",
+   "kok": "أثم",
+   "kokAnlam": "günah",
+   "karsilik": "günahla"
+  },
+  {
+   "kelime": "وَٱلْعُدْوَٰنِ",
+   "okunus": "vel udvâni",
+   "kok": "عدو",
+   "kokAnlam": "düşmanlık",
+   "karsilik": "ve düşmanlıkla"
+  },
+  {
+   "kelime": "وَمَعْصِيَتِ",
+   "okunus": "ve ma'sıyeti",
+   "kok": "عصي",
+   "kokAnlam": "isyan",
+   "karsilik": "ve isyan[ıyla]"
+  },
+  {
+   "kelime": "ٱلرَّسُولِ",
+   "okunus": "errasûli",
+   "kok": "رسل",
+   "kokAnlam": "elçilik",
+   "karsilik": "Elçi'ye"
+  },
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman edatı) -diğinde",
+   "karsilik": "ve zaman"
+  },
+  {
+   "kelime": "جَآءُوكَ",
+   "okunus": "câûke",
+   "kok": "جيأ",
+   "kokAnlam": "gelme",
+   "karsilik": "sana geldiklerinde"
+  },
+  {
+   "kelime": "حَيَّوْكَ",
+   "okunus": "hayyevke",
+   "kok": "حيي",
+   "kokAnlam": "selamlama, yaşatma",
+   "karsilik": "seni selamlarlar"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şey",
+   "karsilik": "şeyle"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "-medi"
+  },
+  {
+   "kelime": "يُحَيِّكَ",
+   "okunus": "yühayyike",
+   "kok": "حيي",
+   "kokAnlam": "selamlama, yaşatma",
+   "karsilik": "seni selamlamadığı"
+  },
+  {
+   "kelime": "بِهِ",
+   "okunus": "bihi",
+   "kok": "—",
+   "kokAnlam": "(zamir) onunla",
+   "karsilik": "onunla"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "وَيَقُولُونَ",
+   "okunus": "ve yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "ve derler"
+  },
+  {
+   "kelime": "فِىٓ",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "أَنفُسِهِمْ",
+   "okunus": "enfüsihim",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendileri",
+   "karsilik": "kendi içlerinde"
+  },
+  {
+   "kelime": "لَوْلَا",
+   "okunus": "levlâ",
+   "kok": "—",
+   "kokAnlam": "(teşvik edatı) olmaz mı",
+   "karsilik": "değil miydi/olmaz mıydı"
+  },
+  {
+   "kelime": "يُعَذِّبُنَا",
+   "okunus": "yüazzibünâ",
+   "kok": "عذب",
+   "kokAnlam": "azap",
+   "karsilik": "bize azap etsin"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şey",
+   "karsilik": "şeyle"
+  },
+  {
+   "kelime": "نَقُولُ",
+   "okunus": "nekûlü",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "söylediğimiz"
+  },
+  {
+   "kelime": "حَسْبُهُمْ",
+   "okunus": "hasbühüm",
+   "kok": "حسب",
+   "kokAnlam": "yeterlilik, hesap",
+   "karsilik": "onlara yeter"
+  },
+  {
+   "kelime": "جَهَنَّمُ",
+   "okunus": "cehennemü",
+   "kok": "—",
+   "kokAnlam": "(özel isim)",
+   "karsilik": "cehennem"
+  },
+  {
+   "kelime": "يَصْلَوْنَهَا",
+   "okunus": "yaslevnehâ",
+   "kok": "صلي",
+   "kokAnlam": "ateşe girme",
+   "karsilik": "ona gireceklerdir"
+  },
+  {
+   "kelime": "فَبِئْسَ",
+   "okunus": "febi'se",
+   "kok": "بأس",
+   "kokAnlam": "kötülük",
+   "karsilik": "ne kötüdür"
+  },
+  {
+   "kelime": "ٱلْمَصِيرُ",
+   "okunus": "elmesîru",
+   "kok": "صير",
+   "kokAnlam": "varış, dönüş",
+   "karsilik": "varış yeri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, 7. ayetteki genel ilkeden (hiçbir gizli konuşma Allah'tan gizli değildir) sonra somut bir örneğe geçer: daha önce böyle gizli fısıldaşmaları yasaklanmış olan münafıklar, buna rağmen günah, düşmanlık ve Peygamber'e isyan üzere gizlice konuşmaya devam ederler.",
+  "Ayet, onların ikiyüzlülüğünü iki örnekle somutlar: Peygamber'e geldiklerinde onu gerçek İslami selamdan farklı, saygısız bir biçimde selamlarlar; kendi aralarında ise 'Allah bizi bu sözlerimizden dolayı cezalandırmıyorsa demek ki bir sakıncası yok' diye düşünürler. Ayet, onlara cehennemin yeteceğini söyleyerek sert bir uyarıyla kapanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "4:63",
+   "meal": "Onların kalplerinde olanı Allah bilir; sen onlardan yüz çevir, onlara öğüt ver ve kendileri hakkında etkili söz söyle.",
+   "baglanti": "Aynı münafık tutumu burada da ele alınır; Allah onların iç yüzünü bildiğini vurgular."
+  },
+  {
+   "ref": "58:9",
+   "meal": "Ey iman edenler! Gizlice konuştuğunuzda günah, düşmanlık ve Elçi'ye isyan üzere fısıldaşmayın; iyilik ve takva üzere fısıldaşın.",
+   "baglanti": "Aynı surede bu kötü örneğin hemen ardından müminlere doğru davranış öğretilir; ayetler bir zıtlık oluşturur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Peygamber dönemindeki münafıkların gizli, kötü niyetli konuşma alışkanlığıdır; bu tarihi bir bağlamdır.",
+  "Buradan çıkan ders şudur: bir grup içinde başkalarını dışlayan, kötü niyet taşıyan gizli konuşmalar yapmak hem ilişkileri zedeler hem de kişiyi ikiyüzlülüğe sürükler; bunun yerine açık ve dürüst iletişim tercih edilmelidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Gizli dedikodudan uzak dur",
+   "aciklama": "Bugün, birinin arkasından kötü niyetle konuşulan bir sohbete katılma."
+  },
+  {
+   "baslik": "Selamını içtenlikle ver",
+   "aciklama": "Bugün birine selam verirken veya birini karşılarken, söylediğinle içindekini aynı tut."
+  },
+  {
+   "baslik": "Cezasızlığı güven sanma",
+   "aciklama": "Yaptığın bir yanlışın hemen karşılığını görmemen, onun önemsiz olduğu anlamına gelmez; bunu hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün, birinin arkasından kötü niyetle konuşulan bir sohbetten uzaklaş.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=58&verse=8"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/58/8"
+  }
+ ]
+}

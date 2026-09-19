@@ -1,0 +1,208 @@
+{
+ "sure": 58,
+ "ayet": 12,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Elçi ile özel olarak konuşacağınız zaman, bu konuşmanızdan önce bir sadaka verin. Bu sizin için daha hayırlı ve daha temizdir. Eğer buna imkân bulamazsanız, şüphesiz Allah çok bağışlayan, çok merhamet edendir.",
+ "mealNotu": "'Kaddimû beyne yedey' deyimi kök temelli 'önünde takdim edin' olarak çevrildi; günlük dilde 'önceden verin' anlamına gelir.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olanlar",
+   "karsilik": "olanlar"
+  },
+  {
+   "kelime": "ءَامَنُوٓا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman edatı) -diğinde",
+   "karsilik": "-diğinde"
+  },
+  {
+   "kelime": "نَٰجَيْتُمُ",
+   "okunus": "nâceytümü",
+   "kok": "نجو",
+   "kokAnlam": "gizli/özel konuşma",
+   "karsilik": "özel konuştuğunuzda"
+  },
+  {
+   "kelime": "ٱلرَّسُولَ",
+   "okunus": "errasûle",
+   "kok": "رسل",
+   "kokAnlam": "elçilik",
+   "karsilik": "Elçi ile"
+  },
+  {
+   "kelime": "فَقَدِّمُوا۟",
+   "okunus": "fekaddimû",
+   "kok": "قدم",
+   "kokAnlam": "öne alma, takdim",
+   "karsilik": "öne sunun"
+  },
+  {
+   "kelime": "بَيْنَ",
+   "okunus": "beyne",
+   "kok": "بين",
+   "kokAnlam": "ara",
+   "karsilik": "arasında"
+  },
+  {
+   "kelime": "يَدَىْ",
+   "okunus": "yedey",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "önünde"
+  },
+  {
+   "kelime": "نَجْوَىٰكُمْ",
+   "okunus": "necvâküm",
+   "kok": "نجو",
+   "kokAnlam": "gizli konuşma",
+   "karsilik": "özel konuşmanızın"
+  },
+  {
+   "kelime": "صَدَقَةً",
+   "okunus": "sadekaten",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, sadaka",
+   "karsilik": "bir sadaka"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "خَيْرٌ",
+   "okunus": "hayrun",
+   "kok": "خير",
+   "kokAnlam": "hayır",
+   "karsilik": "daha hayırlıdır"
+  },
+  {
+   "kelime": "لَّكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "وَأَطْهَرُ",
+   "okunus": "ve atheru",
+   "kok": "طهر",
+   "kokAnlam": "temizlik",
+   "karsilik": "ve daha temizdir"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "fein",
+   "kok": "—",
+   "kokAnlam": "(şart edatı) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "لَّمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "-mezseniz"
+  },
+  {
+   "kelime": "تَجِدُوا۟",
+   "okunus": "tecidû",
+   "kok": "وجد",
+   "kokAnlam": "bulma",
+   "karsilik": "bulamazsanız"
+  },
+  {
+   "kelime": "فَإِنَّ",
+   "okunus": "feinne",
+   "kok": "—",
+   "kokAnlam": "(tekid edatı) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "غَفُورٌ",
+   "okunus": "gafûrun",
+   "kok": "غفر",
+   "kokAnlam": "örtme, bağışlama",
+   "karsilik": "çok bağışlayandır"
+  },
+  {
+   "kelime": "رَّحِيمٌ",
+   "okunus": "rahîmün",
+   "kok": "رحم",
+   "kokAnlam": "merhamet",
+   "karsilik": "çok merhametlidir"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, müminlere Peygamber'le özel bir görüşme yapmadan önce bir sadaka vermelerini emreder. Klasik tefsir, bu hükmün bir dönem uygulandığını ve amacının Peygamber'le özel görüşmeyi sık sık ve gereksiz yere isteyenleri bir ölçüde sınırlamak, gerçekten ihtiyacı olanı ayırt etmek olduğunu aktarır.",
+  "Ayet, buna imkân bulamayanlar için hemen bir kolaylık kapısı açar: Allah çok bağışlayan ve çok merhametlidir. Bu hüküm bir sonraki ayette değişecektir; bu da Allah'ın kullarına göre hükmünü kolaylaştırabileceğini gösteren somut bir örnektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "58:13",
+   "meal": "Özel konuşmanızdan önce sadakalar vermekten çekindiniz mi? Bunu yapmadığınıza göre -Allah tövbenizi kabul etti- artık namazı kılın, zekâtı verin...",
+   "baglanti": "Bu ayetteki sadaka şartının, hemen sonraki ayette kaldırıldığı görülür; nesih ilkesinin somut bir örneğidir."
+  },
+  {
+   "ref": "2:106",
+   "meal": "Biz bir ayetin hükmünü kaldırır veya unutturursak, ondan daha hayırlısını ya da benzerini getiririz.",
+   "baglanti": "Bir hükmün zamanla değiştirilebileceği genel ilkesi burada açıklanır; 58:12-13 bu ilkenin somut bir örneğidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Peygamber döneminde özel bir hukuki-toplumsal düzenlemedir; herkes için aynı şekilde uygulanan sabit bir kural değildir, nitekim kısa süre sonra kaldırılmıştır.",
+  "Buradan çıkan ders şudur: birinin vaktini/emeğini almadan önce buna değer vermek, gereksiz taleplerde bulunmamak ve elindekinden bir şey vermek, karşındaki kişiye saygının bir göstergesidir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Birinin vaktine değer ver",
+   "aciklama": "Bugün, birinden özel bir yardım isteyeceksen, önce onun vaktinin kıymetli olduğunu düşün."
+  },
+  {
+   "baslik": "Küçük bir sadaka ver",
+   "aciklama": "Bugün, elinden geldiğince küçük bir sadaka vererek güne başla."
+  },
+  {
+   "baslik": "İmkânın yoksa üzülme",
+   "aciklama": "Bir şeyi yapamıyorsan, Allah'ın bağışlayıcı olduğunu bilerek kendini suçlamadan devam et."
+  }
+ ],
+ "bugununAdimi": "Bugün, birinden bir şey istemeden önce ona küçük bir jest veya sadaka ile başla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=58&verse=12"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/58/12"
+  }
+ ]
+}

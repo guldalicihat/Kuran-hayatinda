@@ -1,0 +1,264 @@
+{
+ "sure": 58,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "Ey iman edenler! Size 'meclislerde yer açın' dendiğinde yer açın ki Allah da size genişlik versin. 'Kalkın' dendiğinde kalkın ki Allah, içinizden iman edenleri ve kendilerine ilim verilenleri derecelerle yükseltsin. Allah yaptıklarınızdan haberdardır.",
+ "mealNotu": "'Tefessehû/unşüzû' fiilleri sırasıyla yer açma ve kalkma kökündendir; klasik tefsir bu ayeti Peygamber'in meclisindeki oturma-kalkma adabıyla ilişkilendirir, ayetin kendisi genel bir ilke koyar.",
+ "kokler": [
+  {
+   "kelime": "يَٰٓأَيُّهَا",
+   "okunus": "yâ eyyühâ",
+   "kok": "أيي",
+   "kokAnlam": "(nida) ey",
+   "karsilik": "ey"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olanlar",
+   "karsilik": "olanlar"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman edenler"
+  },
+  {
+   "kelime": "إِذَا",
+   "okunus": "izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman edatı) -diğinde",
+   "karsilik": "-diğinde"
+  },
+  {
+   "kelime": "قِيلَ",
+   "okunus": "kîle",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "denildiğinde"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "تَفَسَّحُوا۟",
+   "okunus": "tefessehû",
+   "kok": "فسح",
+   "kokAnlam": "genişleme, yer açma",
+   "karsilik": "yer açın"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ٱلْمَجَٰلِسِ",
+   "okunus": "elmecâlisi",
+   "kok": "جلس",
+   "kokAnlam": "oturma",
+   "karsilik": "meclislerde"
+  },
+  {
+   "kelime": "فَٱفْسَحُوا۟",
+   "okunus": "fefsehû",
+   "kok": "فسح",
+   "kokAnlam": "genişleme, yer açma",
+   "karsilik": "yer açın"
+  },
+  {
+   "kelime": "يَفْسَحِ",
+   "okunus": "yefsehi",
+   "kok": "فسح",
+   "kokAnlam": "genişleme, yer açma",
+   "karsilik": "genişlik verir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "لَكُمْ",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(zamir) size",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "وَإِذَا",
+   "okunus": "ve izâ",
+   "kok": "—",
+   "kokAnlam": "(zaman edatı) -diğinde",
+   "karsilik": "ve -diğinde"
+  },
+  {
+   "kelime": "قِيلَ",
+   "okunus": "kîle",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "denildiğinde"
+  },
+  {
+   "kelime": "ٱنشُزُوا۟",
+   "okunus": "unşüzû",
+   "kok": "نشز",
+   "kokAnlam": "kalkma, yükselme",
+   "karsilik": "kalkın"
+  },
+  {
+   "kelime": "فَٱنشُزُوا۟",
+   "okunus": "fenşüzû",
+   "kok": "نشز",
+   "kokAnlam": "kalkma, yükselme",
+   "karsilik": "kalkın"
+  },
+  {
+   "kelime": "يَرْفَعِ",
+   "okunus": "yerfei",
+   "kok": "رفع",
+   "kokAnlam": "yükseltme",
+   "karsilik": "yükseltir"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olanlar",
+   "karsilik": "olanları"
+  },
+  {
+   "kelime": "ءَامَنُوا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "iman edenleri"
+  },
+  {
+   "kelime": "مِنكُمْ",
+   "okunus": "minküm",
+   "kok": "—",
+   "kokAnlam": "(edat+zamir) içinizden",
+   "karsilik": "içinizden"
+  },
+  {
+   "kelime": "وَٱلَّذِينَ",
+   "okunus": "vellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) olanlar",
+   "karsilik": "ve olanları"
+  },
+  {
+   "kelime": "أُوتُوا۟",
+   "okunus": "ûtû",
+   "kok": "أتي",
+   "kokAnlam": "verilme",
+   "karsilik": "kendilerine verilenleri"
+  },
+  {
+   "kelime": "ٱلْعِلْمَ",
+   "okunus": "el'ilme",
+   "kok": "علم",
+   "kokAnlam": "bilgi",
+   "karsilik": "ilim"
+  },
+  {
+   "kelime": "دَرَجَٰتٍ",
+   "okunus": "deracâtin",
+   "kok": "درج",
+   "kokAnlam": "basamak, derece",
+   "karsilik": "derecelerle"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şey",
+   "karsilik": "şeyden"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma",
+   "karsilik": "yaptığınız"
+  },
+  {
+   "kelime": "خَبِيرٌ",
+   "okunus": "habîrun",
+   "kok": "خبر",
+   "kokAnlam": "haber, bilgi",
+   "karsilik": "haberdardır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir toplantı/meclis adabı öğretir: birine yer açılması istendiğinde yer açmak, kalkılması istendiğinde kalkmak - bunlar küçük görünen ama toplumsal saygıyı gösteren davranışlardır. Allah, bu nezaketi gösterenlere karşılık genişlik ve yükselme vaat eder.",
+  "Ayetin ikinci kısmı, iman ve ilmin birlikte yükseltici olduğunu vurgular: 'iman edenler' ve 'kendilerine ilim verilenler' ayrı ayrı zikredilir, bu da bilginin imanla birleştiğinde değerli bir derece kazandırdığını gösterir. Ayet, Allah'ın yapılanlardan haberdar olduğunu hatırlatarak biter."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "39:9",
+   "meal": "De ki: Hiç bilenlerle bilmeyenler bir olur mu? Ancak akıl sahipleri öğüt alır.",
+   "baglanti": "İlmin değerine dair bu ayet, 58:11'deki 'kendilerine ilim verilenler derecelerle yükseltilir' ifadesini destekler."
+  },
+  {
+   "ref": "4:86",
+   "meal": "Bir selamla selamlandığınızda, ondan daha güzeliyle karşılık verin veya aynısıyla karşılık verin.",
+   "baglanti": "Toplumsal nezaket ve karşılıklı saygı ilkesi burada da öğretilir; 58:11'deki meclis adabıyla aynı doğrultudadır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, bir toplantı ortamında yer açma ve kalkma adabıdır; Peygamber'in meclisinde yaşanan somut bir durumla ilgilidir ama ilkesi geneldir.",
+  "Buradan çıkan ders şudur: toplum içinde küçük görünen nezaket davranışları (yer açmak, birine öncelik tanımak, kalkıp yer vermek) aslında büyük bir saygı göstergesidir; Allah bu tür alçakgönüllülüğü ödüllendirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir yer aç",
+   "aciklama": "Bugün kalabalık bir ortamda (toplu taşıma, toplantı, sınıf) birine yer aç veya yerini teklif et."
+  },
+  {
+   "baslik": "Kalkman istendiğinde gönülsüz olma",
+   "aciklama": "Bir ricayı yerine getirmen istendiğinde, içerlemeden nazikçe karşılık ver."
+  },
+  {
+   "baslik": "İlmi imanla birlikte tut",
+   "aciklama": "Bugün öğrendiğin bir bilgiyi, kibirlenmeden, alçakgönüllülükle paylaş."
+  }
+ ],
+ "bugununAdimi": "Bugün bir toplantı veya kalabalık ortamda, birine gönüllü olarak yer aç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=58&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/58/11"
+  }
+ ]
+}

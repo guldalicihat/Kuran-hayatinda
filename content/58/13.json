@@ -1,0 +1,222 @@
+{
+ "sure": 58,
+ "ayet": 13,
+ "durum": "taslak",
+ "meal": "Özel konuşmanızdan önce sadakalar vermekten çekindiniz mi? Bunu yapmadığınıza göre -ki Allah tövbenizi kabul etti- artık namazı kılın, zekâtı verin, Allah'a ve Elçisi'ne itaat edin. Allah yaptıklarınızdan haberdardır.",
+ "mealNotu": "'Eeşfaktüm' kelimesi شفق kökünden gelir, mali bir yükümlülük karşısında çekinme/tereddüt anlamı taşır.",
+ "kokler": [
+  {
+   "kelime": "ءَأَشْفَقْتُمْ",
+   "okunus": "eeşfektüm",
+   "kok": "شفق",
+   "kokAnlam": "çekinme, endişelenme",
+   "karsilik": "çekindiniz mi"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mekten",
+   "karsilik": "-mekten"
+  },
+  {
+   "kelime": "تُقَدِّمُوا۟",
+   "okunus": "tükaddimû",
+   "kok": "قدم",
+   "kokAnlam": "öne alma, takdim",
+   "karsilik": "sunmanızdan"
+  },
+  {
+   "kelime": "بَيْنَ",
+   "okunus": "beyne",
+   "kok": "بين",
+   "kokAnlam": "ara",
+   "karsilik": "arasında"
+  },
+  {
+   "kelime": "يَدَىْ",
+   "okunus": "yedey",
+   "kok": "يدي",
+   "kokAnlam": "el",
+   "karsilik": "önünde"
+  },
+  {
+   "kelime": "نَجْوَىٰكُمْ",
+   "okunus": "necvâküm",
+   "kok": "نجو",
+   "kokAnlam": "gizli konuşma",
+   "karsilik": "özel konuşmanızın"
+  },
+  {
+   "kelime": "صَدَقَٰتٍ",
+   "okunus": "sadekâtin",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, sadaka",
+   "karsilik": "sadakalar"
+  },
+  {
+   "kelime": "فَإِذْ",
+   "okunus": "feiz",
+   "kok": "—",
+   "kokAnlam": "(zaman edatı) mademki",
+   "karsilik": "mademki"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) değil",
+   "karsilik": "-madınız"
+  },
+  {
+   "kelime": "تَفْعَلُوا۟",
+   "okunus": "tef'alû",
+   "kok": "فعل",
+   "kokAnlam": "yapma",
+   "karsilik": "yapmadınız"
+  },
+  {
+   "kelime": "وَتَابَ",
+   "okunus": "ve tâbe",
+   "kok": "توب",
+   "kokAnlam": "tevbe, dönüş",
+   "karsilik": "ve kabul etti"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "عَلَيْكُمْ",
+   "okunus": "aleyküm",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "sizin üzerinize"
+  },
+  {
+   "kelime": "فَأَقِيمُوا۟",
+   "okunus": "feekîmû",
+   "kok": "قوم",
+   "kokAnlam": "ayağa kaldırma",
+   "karsilik": "artık kılın"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "namaz, dua",
+   "karsilik": "namazı"
+  },
+  {
+   "kelime": "وَءَاتُوا۟",
+   "okunus": "ve âtû",
+   "kok": "أتي",
+   "kokAnlam": "verme",
+   "karsilik": "ve verin"
+  },
+  {
+   "kelime": "ٱلزَّكَوٰةَ",
+   "okunus": "ezzekâte",
+   "kok": "زكو",
+   "kokAnlam": "arınma",
+   "karsilik": "zekâtı"
+  },
+  {
+   "kelime": "وَأَطِيعُوا۟",
+   "okunus": "ve etîû",
+   "kok": "طوع",
+   "kokAnlam": "itaat",
+   "karsilik": "ve itaat edin"
+  },
+  {
+   "kelime": "ٱللَّهَ",
+   "okunus": "allâhe",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah'a"
+  },
+  {
+   "kelime": "وَرَسُولَهُۥ",
+   "okunus": "ve rasûlehû",
+   "kok": "رسل",
+   "kokAnlam": "elçilik",
+   "karsilik": "ve Elçisi'ne"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık, tapılan",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "خَبِيرٌۢ",
+   "okunus": "habîrum",
+   "kok": "خبر",
+   "kokAnlam": "haber, bilgi",
+   "karsilik": "haberdardır"
+  },
+  {
+   "kelime": "بِمَا",
+   "okunus": "bimâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şey",
+   "karsilik": "şeyden"
+  },
+  {
+   "kelime": "تَعْمَلُونَ",
+   "okunus": "ta'melûne",
+   "kok": "عمل",
+   "kokAnlam": "yapma",
+   "karsilik": "yaptığınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki sadaka şartının müminlere ağır geldiğini, onların bu konuda çekindiğini/tereddüt ettiğini belirtir. Bu, hükmün zamanla değiştirilebildiğine (nesih) somut bir örnektir: Allah kullarına kolaylık dilemiştir.",
+  "Ayet, sadaka şartını kaldırıp yerine genel ibadet ve itaat çağrısı koyar: namaz, zekât, Allah ve Elçisi'ne itaat. Bu, önceki hükmün yerini alan, herkes için uygulanabilir ve kalıcı bir sorumluluk çerçevesidir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:286",
+   "meal": "Allah hiç kimseye gücünün yetmeyeceği bir şey yüklemez.",
+   "baglanti": "Yükümlülüklerin insan gücüne göre düzenlendiği bu ilke, sadaka şartının kaldırılmasının arkasındaki kolaylık anlayışıyla örtüşür."
+  },
+  {
+   "ref": "58:12",
+   "meal": "Elçi ile özel olarak konuşacağınız zaman, bu konuşmanızdan önce bir sadaka verin...",
+   "baglanti": "Bu ayetin bir önceki ayette getirilen hükmü kaldırdığı, doğrudan devam ilişkisiyle görülür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu yine özel bir dönemsel hükmün kaldırılmasıdır; bu, dini hükümlerin sabit bir kalıp olmadığını, ihtiyaca göre düzenlenebildiğini gösterir.",
+  "Buradan çıkan ders şudur: bir yükümlülük ağır geldiğinde bunu dürüstçe kabul etmek ve Allah'ın kolaylık kapısına yönelmek önemlidir; asıl sürekli olan, temel ibadetlere (namaz, zekât) ve itaate devam etmektir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zor gelen bir yükümlülüğü dürüstçe kabul et",
+   "aciklama": "Bugün seni zorlayan bir sorumluluğu inkâr etmeden, olduğu gibi kabul et."
+  },
+  {
+   "baslik": "Namazını aksatma",
+   "aciklama": "Bugün namazlarından birini, vaktinde ve dikkatle kıl."
+  },
+  {
+   "baslik": "Küçük bir yardım ayır",
+   "aciklama": "İmkânın varsa bugün küçük bir yardım ayır."
+  }
+ ],
+ "bugununAdimi": "Bugün namazlarından birini özellikle vaktinde ve dikkatle kıl.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=58&verse=13"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/58/13"
+  }
+ ]
+}
