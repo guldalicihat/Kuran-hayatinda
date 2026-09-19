@@ -1,0 +1,117 @@
+{
+ "sure": 74,
+ "ayet": 52,
+ "durum": "taslak",
+ "meal": "Hayır, onlardan her biri, kendisine açılmış sayfalar verilmesini istiyor.",
+ "mealNotu": "'Suhuf' kökü sayfaları, 'müneşşera' kökü ise açılmış, yayılmış olanı anlatır; bu, gökten kendisine özel bir mesaj gelmesini isteyen kibirli bir talebi ifade eder.",
+ "kokler": [
+  {
+   "kelime": "بَلْ",
+   "okunus": "bel",
+   "kok": "—",
+   "kokAnlam": "idrak, aksine",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "يُرِيدُ",
+   "okunus": "yürîdü",
+   "kok": "رود",
+   "kokAnlam": "isteme, arzu etme",
+   "karsilik": "istiyor"
+  },
+  {
+   "kelime": "كُلُّ",
+   "okunus": "küllü",
+   "kok": "كلل",
+   "kokAnlam": "her, bütün",
+   "karsilik": "her biri"
+  },
+  {
+   "kelime": "ٱمْرِئٍ",
+   "okunus": "imriin",
+   "kok": "مرأ",
+   "kokAnlam": "kişi, kimse",
+   "karsilik": "kişiden"
+  },
+  {
+   "kelime": "مِّنْهُمْ",
+   "okunus": "minhüm",
+   "kok": "—",
+   "kokAnlam": "edat+zamir, onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "bağlaç, ki, diye",
+   "karsilik": "-i"
+  },
+  {
+   "kelime": "يُؤْتَىٰ",
+   "okunus": "yü'tâ",
+   "kok": "أتي",
+   "kokAnlam": "verilme, gelme",
+   "karsilik": "verilmesini"
+  },
+  {
+   "kelime": "صُحُفًا",
+   "okunus": "suhufen",
+   "kok": "صحف",
+   "kokAnlam": "sayfa, yazılı sayfa",
+   "karsilik": "sayfalar"
+  },
+  {
+   "kelime": "مُّنَشَّرَةً",
+   "okunus": "müneşşeraten",
+   "kok": "نشر",
+   "kokAnlam": "açılmış, yayılmış, neşredilmiş",
+   "karsilik": "açılmış"
+  }
+ ],
+ "neAnlatiyor": [
+  "Aslandan kaçan eşekler benzetmesinin (50-51) ardından, bu ayet insanların garip bir talebini anlatır: her biri kendisine özel, açılmış bir sayfa (bir tür kişisel vahiy) verilmesini ister. Bu, hakikate inanmamak için ileri sürülen bir bahanedir; sanki normal bir vahiy yetmiyormuş gibi, herkes kendine özel bir kanıt talep eder.",
+  "Bu talep, aslında bir inanma isteğinden değil, inanmamak için bir bahane bulma çabasından kaynaklanır. 53. ayet, bu talebin gerçek sebebini açıklar: asıl mesele sayfa eksikliği değil, ahiretten korkmamalarıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:124",
+   "meal": "Onlara bir ayet geldiğinde derler ki: 'Allah'ın elçilerine verilenin benzeri bize verilmedikçe asla inanmayız.'",
+   "baglanti": "En'âm suresinde de benzer bir talep -kişisel bir mucize veya vahiy isteği- dile getirilir; 74:52'deki sayfa talebiyle aynı bahane mantığını paylaşır."
+  },
+  {
+   "ref": "17:90",
+   "meal": "Dediler ki: 'Bize yerden bir pınar fışkırtmadıkça sana asla inanmayacağız.'",
+   "baglanti": "İsrâ suresinde de inanmamak için somut ve karşılanması güç bir talep öne sürülür; 74:52'deki sayfa isteği bu tür bahanelerden biridir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hakikate inanmamak için ileri sürülen bir bahane -kişisel bir kanıt talebi- olarak tasvir edilir.",
+  "Bugüne taşınabilecek ders, bazen bir gerçeği kabul etmemek için sürekli yeni ve karşılanması imkânsız şartlar öne sürebileceğimizdir. Bu tür talepler, çoğu zaman gerçek bir arayıştan değil, kabullenmemek için bir bahaneden kaynaklanır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bahane üretme",
+   "aciklama": "Bugün bir sorumluluktan kaçmak için imkânsız şartlar öne sürmekten kaçın."
+  },
+  {
+   "baslik": "Elindekiyle yetin",
+   "aciklama": "Zaten sahip olduğun bir bilgi ya da imkânla, daha fazlasını beklemeden harekete geç."
+  },
+  {
+   "baslik": "Dürüst bir arayış içinde ol",
+   "aciklama": "Bir konuda gerçekten arayış içinde misin yoksa bahane mi üretiyorsun, bugün kendine sor."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda bahane üretmeden, elindekiyle harekete geç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=52"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/74/52"
+  }
+ ]
+}

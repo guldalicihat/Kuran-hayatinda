@@ -1,0 +1,75 @@
+{
+ "sure": 74,
+ "ayet": 39,
+ "durum": "taslak",
+ "meal": "Ancak sağ ashabı [kurtulan müminler] hariç.",
+ "mealNotu": "'Ashâbü'l-yemîn' (sağın halkı) Kur'an'da genellikle amel defteri sağdan verilen, kurtuluşa eren müminleri anlatır; köşeli parantez bu anlamı netleştirmek için eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "إِلَّآ",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna edatı, ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "أَصْحَٰبَ",
+   "okunus": "ashâbe",
+   "kok": "صحب",
+   "kokAnlam": "sahip, arkadaş, halk",
+   "karsilik": "ashabı"
+  },
+  {
+   "kelime": "ٱلْيَمِينِ",
+   "okunus": "elyemîni",
+   "kok": "يمن",
+   "kokAnlam": "sağ taraf; bereket, uğur",
+   "karsilik": "sağın [kurtulan müminler]"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki genel ilke -her nefsin kazandığına rehin olması- burada bir istisnayla sınırlandırılır: 'ashâbü'l-yemîn' (sağın ashabı). Bu ifade, Kur'an'ın başka yerlerinde de geçtiği gibi, amel defteri sağ elinden verilen, kurtuluşa eren müminleri anlatır.",
+  "Bu istisna, sonraki ayetlerde (40-48) somutlaştırılır: sağ ashabı cennette, suçlularla ('mücrimîn') bir diyalog kurar ve onlara neden bu duruma düştüklerini sorar. Böylece 38. ayetteki genel ilke, canlı bir sahneyle örneklendirilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "56:27",
+   "meal": "Sağın ashabı; ne mutlu sağın ashabına!",
+   "baglanti": "Vâkıa suresinde de 'ashâbü'l-yemîn' aynı ifadeyle, kurtuluşa eren müminler için kullanılır; iki ayet aynı kavramı paylaşır."
+  },
+  {
+   "ref": "69:19",
+   "meal": "Kitabı sağından verilen kimse der ki: 'Alın, kitabımı okuyun!'",
+   "baglanti": "Hâkka suresinde de amel defterinin sağdan verilmesi, kurtuluşun bir işareti olarak anlatılır; 74:39'daki 'sağın ashabı' ifadesiyle aynı imgeyi paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hesap gününde bir grubun -sağ ashabının- genel sorumluluk ilkesinden istisna tutulmasıdır; bu, ahirete dair bir haberdir.",
+  "Bugüne taşınabilecek ders, doğru bir yol tutmanın kişiyi büyük bir yükten kurtarabileceğidir. Bu, bugünkü tercihlerin sonuçsuz kalmadığını, kurtuluşun da bir sonuç olduğunu hatırlatır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Doğru bir yola yönel",
+   "aciklama": "Bugün seni kurtuluşa yaklaştıracak küçük bir adım at."
+  },
+  {
+   "baslik": "Sağlam bir amel biriktir",
+   "aciklama": "Bugün yapacağın bir işi, kalıcı bir değer olarak gör ve özenle yap."
+  },
+  {
+   "baslik": "Umutlu ol",
+   "aciklama": "Hatalarının seni tükettiğini düşünmeden, doğru yola dönüşün her zaman mümkün olduğunu hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün seni kurtuluşa yaklaştıracak somut bir iyilik yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=39"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/74/39"
+  }
+ ]
+}

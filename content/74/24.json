@@ -1,0 +1,96 @@
+{
+ "sure": 74,
+ "ayet": 24,
+ "durum": "taslak",
+ "meal": "Dedi ki: 'Bu, ancak nakledilegelen [eskilerden aktarılan] bir büyüdür.'",
+ "mealNotu": "'Sihr' kökü büyü anlamındadır; 'ûsera' kökü ise nakledilme, aktarılmayı anlatır. Köşeli parantezdeki '[eskilerden aktarılan]' bu nakil fikrini netleştirmek için eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "فَقَالَ",
+   "okunus": "fekâle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz",
+   "karsilik": "dedi ki"
+  },
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "هَٰذَآ",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri, bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna edatı, ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "سِحْرٌ",
+   "okunus": "sihrun",
+   "kok": "سحر",
+   "kokAnlam": "büyü",
+   "karsilik": "bir büyüdür"
+  },
+  {
+   "kelime": "يُؤْثَرُ",
+   "okunus": "yü'seru",
+   "kok": "أثر",
+   "kokAnlam": "nakledilme, aktarılma, iz sürme",
+   "karsilik": "nakledilegelen"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bakma, kaşlarını çatma, sırt çevirme ve kibirlenme sahnesinin ardından, bu ayet kişinin ağzından çıkan sözü aktarır: Kur'an'ın nakledilegelen bir büyü olduğu iddiası. Bu, hakikati reddetmek için üretilen hazır bir suçlamadır; kişi, karşılaştığı sözün etkileyiciliğini inkâr edemediği için onu 'büyü' diye adlandırır.",
+  "'Yü'seru' (nakledilegelen) ifadesi, bu iddianın da aslında yeni olmadığını, eskiden beri kullanılan bir suçlama kalıbı olduğunu ima eder. 25. ayette bu iddia, biraz farklı bir biçimde -insan sözü olduğu- tekrarlanarak pekiştirilir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "38:4",
+   "meal": "İçlerinden kendilerine bir uyarıcı geldiğine şaşırdılar. Kâfirler, 'Bu bir büyücüdür, yalancıdır' dediler.",
+   "baglanti": "Sâd suresinde de aynı 'büyü/büyücü' suçlaması, hakikate karşı hazır bir savunma mekanizması olarak kullanılır."
+  },
+  {
+   "ref": "21:3",
+   "meal": "Kalpleri oyalanmış olarak... zulmedenler gizlice fısıldaştılar: 'Bu da sizin gibi bir insandan başka nedir? Göz göre göre büyüye mi kapılacaksınız?'",
+   "baglanti": "Enbiyâ suresinde de vahiy karşısında benzer bir 'büyü' suçlaması dile getirilir; bu, dönemin yaygın bir inkâr kalıbı olduğunu gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hakikate karşı üretilen hazır bir suçlama kalıbıdır; bu, belirli bir tarihsel tartışmanın parçasıdır.",
+  "Bugüne taşınabilecek ders, bir gerçeği kabul etmek istemediğimizde, onu değersizleştirecek hazır etiketler bulmaya meyilli olabileceğimizdir. Bir görüşü ciddiye almadan önce, ona hızlıca bir etiket yapıştırmaktan kaçınmak, daha dürüst bir yaklaşımdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hazır etiketlerden kaçın",
+   "aciklama": "Bugün katılmadığın bir görüşü, hemen bir etiketle geçiştirmek yerine içeriğini değerlendir."
+  },
+  {
+   "baslik": "Kaynağı sorgula, içeriği görmezden gelme",
+   "aciklama": "Bir fikri reddetmeden önce, sadece kaynağına değil içeriğine de bak."
+  },
+  {
+   "baslik": "Dürüst bir değerlendirme yap",
+   "aciklama": "Bugün bir konuda ilk tepkinle yetinmeden, dürüstçe düşünüp karar ver."
+  }
+ ],
+ "bugununAdimi": "Bugün bir görüşü, hazır bir etiketle geçiştirmeden, içeriğine bakarak değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=24"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/74/24"
+  }
+ ]
+}

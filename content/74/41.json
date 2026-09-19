@@ -1,0 +1,68 @@
+{
+ "sure": 74,
+ "ayet": 41,
+ "durum": "taslak",
+ "meal": "Suçlulara dair:",
+ "mealNotu": "'Mücrim' kökü suç işleme, günaha girme anlamındadır; ayet bir önceki ayetteki sorunun konusunu belirtir.",
+ "kokler": [
+  {
+   "kelime": "عَنِ",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "edat, hakkında, dair",
+   "karsilik": "dair"
+  },
+  {
+   "kelime": "ٱلْمُجْرِمِينَ",
+   "okunus": "elmücrimîne",
+   "kok": "جرم",
+   "kokAnlam": "suç işleme, günaha girme; suçlu",
+   "karsilik": "suçlulara"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette birbirine soru soran cennetliklerin sorusunun konusu, bu ayette açıklanır: suçlular. 'Mücrim' kelimesi, bilerek suç işleyen, günaha giren kişiyi anlatır; bu, sadece hata yapan değil, bilinçli bir kötülük içinde olan kişidir.",
+  "Bu kısa ayet, 42. ayette gelecek doğrudan soruya ('Sizi Sekar'a sokan nedir?') bir geçiş sağlar. Sonraki ayetler (43-47), bu suçluların kendi ağzından verdikleri cevapları aktarır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "83:29",
+   "meal": "Şüphesiz suç işleyenler, iman edenlere gülüyorlardı.",
+   "baglanti": "Mutaffifîn suresinde de 'mücrimîn' (suçlular) kelimesi, iman edenlere karşı alaycı bir tutum sergileyen kişiler için kullanılır; aynı kavram farklı bir sahnede geçer."
+  },
+  {
+   "ref": "30:12",
+   "meal": "Kıyametin kopacağı gün, suçlular hayal kırıklığına uğrarlar.",
+   "baglanti": "Rûm suresinde de 'mücrimîn' kelimesi, kıyamet gününde derin bir pişmanlık içinde olan kişiler için kullanılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, cennetliklerin merakla sorduğu suçluların kimliğidir; bu, ahirete dair bir sahnenin parçasıdır.",
+  "Bugüne taşınabilecek ders, bilinçli olarak işlenen bir kötülüğün, hatadan farklı ve daha ağır bir sorumluluk taşıdığıdır. Bu, kişiyi kasıtlı yanlışlardan kaçınmaya çağırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilinçli bir yanlıştan kaçın",
+   "aciklama": "Bugün bile bile yapacağın bir yanlıştan vazgeç."
+  },
+  {
+   "baslik": "Niyetini gözden geçir",
+   "aciklama": "Bir davranışını yaparken niyetinin ne olduğunu bugün sorgula."
+  },
+  {
+   "baslik": "Hatayı kasıtla karıştırma",
+   "aciklama": "Kendi hatalarını değerlendirirken, kasıtlı mı yoksa bilmeyerek mi olduğunu ayırt et."
+  }
+ ],
+ "bugununAdimi": "Bugün bile bile yapacağın bir yanlıştan bilinçli olarak vazgeç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=41"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/74/41"
+  }
+ ]
+}

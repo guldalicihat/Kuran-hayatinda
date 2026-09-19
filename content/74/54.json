@@ -1,0 +1,75 @@
+{
+ "sure": 74,
+ "ayet": 54,
+ "durum": "taslak",
+ "meal": "Hayır, [andolsun ki] o, gerçekten bir hatırlatmadır.",
+ "mealNotu": "'Tezkire' kökü hatırlatma, öğüt anlamındadır; köşeli parantezdeki '[andolsun ki]' ayetin başındaki güçlü 'kellâ' ve 'inne' vurgusunu Türkçede daha akıcı aktarmak için eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "كَلَّآ",
+   "okunus": "kellâ",
+   "kok": "—",
+   "kokAnlam": "caydırma, güçlü ret, hayır",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "te'kid, gerçekten o",
+   "karsilik": "gerçekten o [andolsun ki]"
+  },
+  {
+   "kelime": "تَذْكِرَةٌ",
+   "okunus": "tezkiratün",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlatma, öğüt, anma",
+   "karsilik": "bir hatırlatmadır"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette ahiret korkusunun eksikliği tespit edildikten sonra, bu ayet Kur'an'ın -ve dolayısıyla surenin baştan beri anlattığı her şeyin- ne olduğunu bir kez daha netleştirir: bir hatırlatma. Bu, surenin 36. ayetindeki 'insanlar için bir uyarıcı' ifadesiyle de örtüşür.",
+  "Bu vurgu, 55. ayette gelecek çağrının zeminini hazırlar: hatırlatmayı dileyen onu hatırlar/alır. Kur'an, kimseyi zorla inandırmaya çalışmaz; sadece hatırlatır ve seçim insana bırakılır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "88:21",
+   "meal": "Sen sadece bir hatırlatıcısın.",
+   "baglanti": "Gâşiye suresinde de Hz. Peygamber'in görevi, zorlayıcı değil hatırlatıcı olarak tanımlanır; 74:54'teki 'tezkire' vurgusuyla aynı temayı paylaşır."
+  },
+  {
+   "ref": "50:45",
+   "meal": "...sen, tehdidimden korkanlara Kur'an ile öğüt ver.",
+   "baglanti": "Kâf suresinde de Kur'an'ın işlevi hatırlatma/öğüt olarak tanımlanır; bu hatırlatmanın etkili olduğu grup, ahiretten korkanlar olarak belirtilir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın temel işlevinin bir hatırlatma olduğudur.",
+  "Bugüne taşınabilecek ders, hayatındaki pek çok öğüt ve hatırlatmanın da seni zorlamak için değil, sana faydalı olsun diye verildiğidir. Bir hatırlatmayı bu gözle görmek, ona karşı daha açık bir tutum geliştirmeni sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir hatırlatmayı not et",
+   "aciklama": "Bugün seni etkileyen bir hatırlatmayı yazıya dök, unutma."
+  },
+  {
+   "baslik": "Hatırlatma işlevini üstlen",
+   "aciklama": "Bir yakınına, iyi niyetle ve nazikçe bir hatırlatmada bulun."
+  },
+  {
+   "baslik": "Kendine hatırlat",
+   "aciklama": "Unuttuğun önemli bir prensibi bugün kendine yeniden hatırlat."
+  }
+ ],
+ "bugununAdimi": "Bugün seni etkileyen bir hatırlatmayı not al ve üzerinde düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=54"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/74/54"
+  }
+ ]
+}

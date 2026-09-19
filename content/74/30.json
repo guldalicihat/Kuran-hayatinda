@@ -1,0 +1,75 @@
+{
+ "sure": 74,
+ "ayet": 30,
+ "durum": "taslak",
+ "meal": "Onun üzerinde on dokuz [görevli] vardır.",
+ "mealNotu": "Ayette yalnızca 'on dokuz' sayısı geçer; bu sayının neyi saydığı (bekçi/görevli) metnin lafzından değil bağlamdan anlaşılır, bu yüzden '[görevli]' köşeli parantezle eklendi. Bu sayının işlevi, bir sonraki ayette açıkça belirtilir: inkâr edenler için bir imtihan olması.",
+ "kokler": [
+  {
+   "kelime": "عَلَيْهَا",
+   "okunus": "aleyhâ",
+   "kok": "—",
+   "kokAnlam": "edat+zamir, onun üzerinde",
+   "karsilik": "onun üzerinde"
+  },
+  {
+   "kelime": "تِسْعَةَ",
+   "okunus": "tis'ate",
+   "kok": "تسع",
+   "kokAnlam": "dokuz sayısı",
+   "karsilik": "dokuz"
+  },
+  {
+   "kelime": "عَشَرَ",
+   "okunus": "aşera",
+   "kok": "عشر",
+   "kokAnlam": "on sayısı",
+   "karsilik": "on"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette tasvir edilen Sekar'ın ardından, bu kısa ayet onun üzerinde on dokuz [görevlinin] bulunduğunu bildirir. Klasik tefsir bu görevlileri, bir sonraki ayette açıkça 'melekler' olarak adlandırılan bekçi melekler olarak açıklar. Ayet, sayıyı verir ama ayrıntıya girmeden hemen bir sonraki ayete geçer.",
+  "Bu on dokuz sayısı, tarih boyunca -özellikle modern dönemde- bazı çevrelerce Kur'an'daki harf ve kelime sayımlarına dayanan nümerolojik iddialara konu edilmiştir. Ancak ayetin kendisi bu sayının işlevini zaten açıkça belirtir: bir sonraki ayette görüleceği gibi, bu sayı insanların hakikate karşı tutumunu ortaya çıkaran bir imtihan unsurudur; sayının kendisi hakkında ayrı bir 'şifre' ya da 'mucize' teorisi kurmaya ayetin metninde bir dayanak yoktur."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "66:6",
+   "meal": "Onun başında, Allah'ın kendilerine buyurduğuna karşı gelmeyen, emredildiklerini yapan melekler vardır.",
+   "baglanti": "Tahrîm suresinde ateşin başındaki meleklerin itaatkâr görevliler olduğu anlatılır; 74:30'daki on dokuz görevli de bu türden meleklerdir."
+  },
+  {
+   "ref": "43:77",
+   "meal": "Seslenirler: 'Ey Mâlik! Rabbin bizim işimizi bitirsin.'",
+   "baglanti": "Zuhruf suresinde cehennemin başındaki görevli melekten (Mâlik) söz edilir; bu da cehennemle ilgili görevli melek fikrini destekleyen başka bir ayettir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Sekar'ın üzerindeki görevli sayısıdır; bu, gaybi bir bilgidir ve işlevi bir sonraki ayette açıklanır.",
+  "Bugüne taşınabilecek ders, gaybi bir bilgiyi kendi sınırları içinde ele almak, metnin söylemediği ekstra anlamlar veya teoriler üretmemektir. Bir bilgiyi olduğu gibi kabul etmek, ona fazladan anlam yüklemekten daha dürüst bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Metnin sınırında kal",
+   "aciklama": "Bugün bir dini konuda, kaynağın açıkça söylemediği bir yoruma girişmekten kaçın."
+  },
+  {
+   "baslik": "Merakını doğru yöne yönelt",
+   "aciklama": "Bir konuyu araştırırken, güvenilir bilgiye odaklan, spekülatif iddialara kapılma."
+  },
+  {
+   "baslik": "Sabırla bir sonrakini bekle",
+   "aciklama": "Anlamını hemen kavrayamadığın bir konuda, açıklamasını sabırla ara."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda, kaynağın söylediğinden fazlasını iddia etmeden, sınırlı ve dürüst bilgiyle yetin.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=30"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/74/30"
+  }
+ ]
+}

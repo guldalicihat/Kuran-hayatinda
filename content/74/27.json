@@ -1,0 +1,82 @@
+{
+ "sure": 74,
+ "ayet": 27,
+ "durum": "taslak",
+ "meal": "Sekar'ın ne olduğunu sana ne bildirdi (ne bilirsin)?",
+ "mealNotu": "'Edrâ' kökü bilme, haberdar etme anlamındadır; Kur'an'da bu tür sorular, konunun akılların kavrayışını aşan büyüklüğüne dikkat çekmek için kullanılır.",
+ "kokler": [
+  {
+   "kelime": "وَمَآ",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "soru edatı, ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "أَدْرَىٰكَ",
+   "okunus": "edrâke",
+   "kok": "دري",
+   "kokAnlam": "bilme, haberdar etme",
+   "karsilik": "sana bildirdi"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "soru edatı, ne",
+   "karsilik": "ne olduğunu"
+  },
+  {
+   "kelime": "سَقَرُ",
+   "okunus": "sekaru",
+   "kok": "—",
+   "kokAnlam": "(özel isim) Sekar, cehennemin adlarından biri",
+   "karsilik": "Sekar'ın"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette adı geçen Sekar'ın ardından, bu ayet 've mâ edrâke' (sana ne bildirdi) kalıbıyla dikkat çeker; bu, Kur'an'da özellikle önemli ve akıl almaz konularda kullanılan bir üsluptur. Soru, cevabını hemen vermek yerine önce dinleyicinin dikkatini yoğunlaştırır.",
+  "Bu soru kalıbı, sonraki ayetlerde (28-29) kısa bir cevapla karşılanır: Sekar, hiçbir şeyi geride bırakmayan, insanı derinden etkileyen bir ateştir. Ayetin kendisi, bu tasviri ölçülü tutar; ayrıntılı, grafik bir betimlemeye girmez."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "101:10",
+   "meal": "Onun ne olduğunu sana bildiren nedir?",
+   "baglanti": "Kâria suresinde de aynı soru kalıbı, kıyametin büyüklüğüne dikkat çekmek için kullanılır; 74:27'deki üslupla aynıdır."
+  },
+  {
+   "ref": "97:2",
+   "meal": "Kadir gecesinin ne olduğunu sana bildiren nedir?",
+   "baglanti": "Kadr suresinde ise aynı soru kalıbı, bu kez olumlu ve yüce bir konu -Kadir gecesi- için kullanılır; kalıbın hem uyarı hem müjde bağlamında kullanılabildiğini gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Sekar'ın akılların tam kavrayamayacağı bir gerçeklik olduğuna dikkat çekmektir; bu, gaybi bir konudur.",
+  "Bugüne taşınabilecek ders, bazı gerçeklerin büyüklüğünü tam kavrayamasak da onları ciddiye almamız gerektiğidir. Bir şeyi tam anlamamak, onu önemsememek için bir gerekçe olamaz."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ciddiyetle yaklaş",
+   "aciklama": "Bugün tam anlamını kavrayamadığın ama önemli olduğunu bildiğin bir konuya ciddiyetle yaklaş."
+  },
+  {
+   "baslik": "Merak ederek öğren",
+   "aciklama": "Bilmediğin bir konuyu bugün araştırıp öğrenmeye çalış."
+  },
+  {
+   "baslik": "Küçümsemeden dinle",
+   "aciklama": "Tam anlamadığın bir uyarıyı, önemsiz sanıp göz ardı etme."
+  }
+ ],
+ "bugununAdimi": "Bugün tam kavramadığın ama önemli bir konuyu araştırıp öğren.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=27"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/74/27"
+  }
+ ]
+}

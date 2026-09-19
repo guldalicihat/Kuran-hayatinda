@@ -1,0 +1,82 @@
+{
+ "sure": 74,
+ "ayet": 46,
+ "durum": "taslak",
+ "meal": "'Din gününü de yalanlıyorduk.'",
+ "mealNotu": "'Kezb' kökü yalanlamayı, 'dîn' kökü ise hesap ve karşılık anlamını taşır; 'yevmü'd-dîn' hesap gününü ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَكُنَّا",
+   "okunus": "ve künnâ",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "ve idik"
+  },
+  {
+   "kelime": "نُكَذِّبُ",
+   "okunus": "nükezzibü",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama, doğrulamama",
+   "karsilik": "yalanlıyorduk"
+  },
+  {
+   "kelime": "بِيَوْمِ",
+   "okunus": "biyevmi",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "gününü"
+  },
+  {
+   "kelime": "ٱلدِّينِ",
+   "okunus": "eddîni",
+   "kok": "دين",
+   "kokAnlam": "hesap, karşılık, din",
+   "karsilik": "din"
+  }
+ ],
+ "neAnlatiyor": [
+  "Suçluların itirafının dördüncü ve son maddesi, hesap gününü yalanlamalarıdır. Bu madde, önceki üçünün (namazın terki, yoksula yardımın ihmali, boş işlere dalma) altında yatan temel sebebi ortaya koyar: hesaba inanmamak, bu davranışların hepsini kolaylaştırmıştır.",
+  "Bu sıralama dikkat çekicidir: önce davranışlar (43-45), sonra bu davranışların temelindeki inanç eksikliği (46) sayılır. Bu, hesap gününe iman etmemenin, kişinin hem ibadetini hem sosyal sorumluluğunu hem de vaktini nasıl etkilediğini gösterir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "82:9",
+   "meal": "Hayır, siz din gününü yalanlıyorsunuz.",
+   "baglanti": "İnfitâr suresinde de hesap gününü yalanlamak, insanın diğer yanlışlarının kaynağı olarak anlatılır; aynı ifade neredeyse birebir tekrarlanır."
+  },
+  {
+   "ref": "95:7",
+   "meal": "Böyleyken sana dini/hesabı yalanlatan nedir?",
+   "baglanti": "Tîn suresinde de hesap gününü yalanlamanın, insanın diğer davranışlarının temelinde yattığı sorgulanır; aynı temel sebep-sonuç ilişkisi kurulur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ahirette suçluların hesap gününü yalanladıklarını itiraf etmeleridir; bu, inanç eksikliğine dair bir haberdir.",
+  "Bugüne taşınabilecek ders, hesap gününe olan inancın, günlük davranışları doğrudan şekillendirdiğidir. Bir sonun ve hesabın olduğuna gerçekten inanmak, kişiyi namaza, yardıma ve vaktini bilinçli kullanmaya yöneltir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Hesap bilincini tazele",
+   "aciklama": "Bugün bir kararını, bir gün hesabının sorulacağını düşünerek ver."
+  },
+  {
+   "baslik": "İnancını davranışa dönüştür",
+   "aciklama": "İnandığın bir ilkeyi bugün somut bir davranışa çevir."
+  },
+  {
+   "baslik": "Sonu unutma",
+   "aciklama": "Dünya hayatının geçici, ahiretin ise kalıcı olduğunu bugün bir kez hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün bir kararını, hesap gününü hatırlayarak ve bilinçli bir şekilde ver.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=46"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/74/46"
+  }
+ ]
+}

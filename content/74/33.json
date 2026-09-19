@@ -1,0 +1,75 @@
+{
+ "sure": 74,
+ "ayet": 33,
+ "durum": "taslak",
+ "meal": "Çekilirken geceye andolsun,",
+ "mealNotu": "'Dubr' kökü arkayı, geriye çekilmeyi anlatır; burada gecenin sona erip geride kalmasını, yerini sabaha bırakmasını ifade eder.",
+ "kokler": [
+  {
+   "kelime": "وَٱلَّيْلِ",
+   "okunus": "velleyli",
+   "kok": "ليل",
+   "kokAnlam": "gece",
+   "karsilik": "ve geceye"
+  },
+  {
+   "kelime": "إِذْ",
+   "okunus": "iz",
+   "kok": "—",
+   "kokAnlam": "zaman edatı, -dığında",
+   "karsilik": "-dığında"
+  },
+  {
+   "kelime": "أَدْبَرَ",
+   "okunus": "edbera",
+   "kok": "دبر",
+   "kokAnlam": "arkasını dönme, geriye çekilme, sona erme",
+   "karsilik": "çekilirken"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ay üzerine yapılan yeminden sonra, bu ayet gecenin sona erip geride kaldığı ana odaklanır. 'Edbera' fiili, daha önce 23. ayette kibirli kişinin 'arkasını dönmesi' için kullanılmıştı; burada ise aynı fiil, gecenin doğal ve düzenli bir şekilde sona erişini anlatır -olumsuz bir anlam taşımaz.",
+  "Bu yemin, 34. ayetteki 'aydınlanan sabah' yeminiyle bir çift oluşturur: gecenin bitişi ve gündüzün başlangıcı. İki zıt an, doğal düzenin kusursuz işleyişine dikkat çeker."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "81:17",
+   "meal": "Kapandığı zaman geceye andolsun.",
+   "baglanti": "Tekvîr suresinde de gece üzerine, sona erme anıyla ilgili bir yemin geçer; benzer bir imge kullanılır."
+  },
+  {
+   "ref": "93:2",
+   "meal": "Sükûnete erdiğinde geceye andolsun.",
+   "baglanti": "Duhâ suresinde de gece, dinginlik anıyla birlikte yemin nesnesi olur; her iki surede de gece, günün bir parçası olarak anlamlı bir doğal işaret sayılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, gecenin düzenli olarak sona erip yerini gündüze bırakmasıdır; bu, doğal bir döngüdür.",
+  "Bugüne taşınabilecek ders, gece ve gündüzün düzenli dönüşümünün, hayatın da benzer şekilde dönemlerden geçtiğini hatırlatmasıdır. Her gecenin bir sabahı olduğu gibi, her zorluğun da bir sonu vardır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Geceyi değerlendir",
+   "aciklama": "Bugün gece vaktini amaçsızca geçirmek yerine faydalı bir işle değerlendir."
+  },
+  {
+   "baslik": "Bir zorluğun geçiciliğini hatırla",
+   "aciklama": "İçinde bulunduğun bir sıkıntının, gece gibi bir gün sona ereceğini hatırla."
+  },
+  {
+   "baslik": "Düzenli bir uyku vakti oluştur",
+   "aciklama": "Bugün geceyi zamanında bitirip dinlenmeye, sabaha hazırlanmaya özen göster."
+  }
+ ],
+ "bugununAdimi": "Bugün geceni amaçsızca geçirmeden, dinlenmek ya da faydalı bir iş için değerlendir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=33"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/74/33"
+  }
+ ]
+}

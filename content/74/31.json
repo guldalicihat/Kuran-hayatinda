@@ -1,0 +1,453 @@
+{
+ "sure": 74,
+ "ayet": 31,
+ "durum": "taslak",
+ "meal": "Biz, ateşin görevlilerini yalnızca melekler kıldık; onların sayısını da inkâr edenler için ancak bir imtihan yaptık ki kendilerine kitap verilenler kesin bilgiyle inansın, iman edenlerin imanı artsın, kendilerine kitap verilenler ile müminler şüpheye düşmesin, kalplerinde hastalık olanlar ve kâfirler de 'Allah bu örnekle ne demek istedi?' desin. İşte Allah, dilediğini böyle saptırır, dilediğini de doğru yola iletir. Rabbinin ordularını, kendisinden başkası bilmez. Bu [Sekar haberi], insanlar için ancak bir hatırlatmadır.",
+ "mealNotu": "'Fitne' kökü hem imtihan/sınav hem ateşte eritip saflığı ortaya çıkarma anlamı taşır; ayet on dokuz sayısının işlevini bizzat bu imtihan çerçevesinde tanımlar. Köşeli parantezdeki '[Sekar haberi]' cümledeki 'o/hiye' zamirinin işaret ettiği şeyi netleştirmek için eklenmiştir.",
+ "kokler": [
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ve ... değil"
+  },
+  {
+   "kelime": "جَعَلْنَا",
+   "okunus": "cealnâ",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "kıldık"
+  },
+  {
+   "kelime": "أَصْحَٰبَ",
+   "okunus": "ashâbe",
+   "kok": "صحب",
+   "kokAnlam": "sahip, arkadaş; bir işle görevli olan",
+   "karsilik": "görevlilerini"
+  },
+  {
+   "kelime": "ٱلنَّارِ",
+   "okunus": "ennâri",
+   "kok": "نور",
+   "kokAnlam": "ateş, ışık",
+   "karsilik": "ateşin"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna edatı, ancak",
+   "karsilik": "başkasını değil"
+  },
+  {
+   "kelime": "مَلَٰٓئِكَةً",
+   "okunus": "melâiketen",
+   "kok": "ملك",
+   "kokAnlam": "melek",
+   "karsilik": "melekler(den)"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ve ... değil"
+  },
+  {
+   "kelime": "جَعَلْنَا",
+   "okunus": "cealnâ",
+   "kok": "جعل",
+   "kokAnlam": "yapma, kılma",
+   "karsilik": "kıldık"
+  },
+  {
+   "kelime": "عِدَّتَهُمْ",
+   "okunus": "iddetehüm",
+   "kok": "عدد",
+   "kokAnlam": "sayı, sayım",
+   "karsilik": "onların sayısını"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna edatı, ancak",
+   "karsilik": "başka değil"
+  },
+  {
+   "kelime": "فِتْنَةً",
+   "okunus": "fitneten",
+   "kok": "فتن",
+   "kokAnlam": "imtihan, sınav; ateşte eritip saflığı ortaya çıkarma",
+   "karsilik": "bir imtihan"
+  },
+  {
+   "kelime": "لِّلَّذِينَ",
+   "okunus": "lillezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, için, olanlar",
+   "karsilik": "için"
+  },
+  {
+   "kelime": "كَفَرُوا۟",
+   "okunus": "keferû",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği inkâr etme",
+   "karsilik": "inkâr edenler"
+  },
+  {
+   "kelime": "لِيَسْتَيْقِنَ",
+   "okunus": "liyesteykıne",
+   "kok": "يقن",
+   "kokAnlam": "kesin bilgi edinme",
+   "karsilik": "kesin bilsinler diye"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, kendileri",
+   "karsilik": "kendilerine"
+  },
+  {
+   "kelime": "أُوتُوا۟",
+   "okunus": "ûtû",
+   "kok": "أتي",
+   "kokAnlam": "verilme, gelme",
+   "karsilik": "verilenler"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazı, kitap",
+   "karsilik": "kitap"
+  },
+  {
+   "kelime": "وَيَزْدَادَ",
+   "okunus": "ve yezdâde",
+   "kok": "زيد",
+   "kokAnlam": "artma, çoğalma",
+   "karsilik": "ve artsın diye"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, kendileri",
+   "karsilik": "kendileri"
+  },
+  {
+   "kelime": "ءَامَنُوٓا۟",
+   "okunus": "âmenû",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; iman etme",
+   "karsilik": "iman edenlerin"
+  },
+  {
+   "kelime": "إِيمَٰنًا",
+   "okunus": "îmânen",
+   "kok": "أمن",
+   "kokAnlam": "iman, güven",
+   "karsilik": "imanı"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ve ... şüphe etmesinler diye"
+  },
+  {
+   "kelime": "يَرْتَابَ",
+   "okunus": "yertâbe",
+   "kok": "ريب",
+   "kokAnlam": "şüphe etme, kuşkulanma",
+   "karsilik": "şüphe etmesin(ler)"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, kendileri",
+   "karsilik": "kendilerine kitap verilenler"
+  },
+  {
+   "kelime": "أُوتُوا۟",
+   "okunus": "ûtû",
+   "kok": "أتي",
+   "kokAnlam": "verilme, gelme",
+   "karsilik": "verilenler"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazı, kitap",
+   "karsilik": "kitap"
+  },
+  {
+   "kelime": "وَٱلْمُؤْمِنُونَ",
+   "okunus": "vel mü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, emniyet; iman eden",
+   "karsilik": "ve müminler"
+  },
+  {
+   "kelime": "وَلِيَقُولَ",
+   "okunus": "ve liyekûle",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz",
+   "karsilik": "ve desinler diye"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, olanlar",
+   "karsilik": "olanlar"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "edat, içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "قُلُوبِهِم",
+   "okunus": "kulûbihim",
+   "kok": "قلب",
+   "kokAnlam": "kalp",
+   "karsilik": "kalplerinde"
+  },
+  {
+   "kelime": "مَّرَضٌ",
+   "okunus": "meradun",
+   "kok": "مرض",
+   "kokAnlam": "hastalık",
+   "karsilik": "hastalık"
+  },
+  {
+   "kelime": "وَٱلْكَٰفِرُونَ",
+   "okunus": "vel kâfirûne",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği inkâr etme; kâfir",
+   "karsilik": "ve kâfirler"
+  },
+  {
+   "kelime": "مَاذَآ",
+   "okunus": "mâzâ",
+   "kok": "—",
+   "kokAnlam": "soru edatı, ne",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "أَرَادَ",
+   "okunus": "erâde",
+   "kok": "رود",
+   "kokAnlam": "isteme, kastetme",
+   "karsilik": "istedi (kastetti)"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "بِهَٰذَا",
+   "okunus": "bihâzâ",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri, bununla",
+   "karsilik": "bu ile (örnekle)"
+  },
+  {
+   "kelime": "مَثَلًا",
+   "okunus": "meselen",
+   "kok": "مثل",
+   "kokAnlam": "örnek, misal, benzetme",
+   "karsilik": "misal olarak"
+  },
+  {
+   "kelime": "كَذَٰلِكَ",
+   "okunus": "kezâlike",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri, işte böyle",
+   "karsilik": "işte böyle"
+  },
+  {
+   "kelime": "يُضِلُّ",
+   "okunus": "yüdıllü",
+   "kok": "ضلل",
+   "kokAnlam": "yoldan çıkarma, saptırma",
+   "karsilik": "saptırır"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, kimi",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "وَيَهْدِى",
+   "okunus": "ve yehdî",
+   "kok": "هدي",
+   "kokAnlam": "hidayet etme, doğru yola iletme",
+   "karsilik": "ve hidayet eder"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "ilgi zamiri, kimi",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "يَشَآءُ",
+   "okunus": "yeşâü",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dilerse"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ve ... bilmez"
+  },
+  {
+   "kelime": "يَعْلَمُ",
+   "okunus": "ya'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilmez"
+  },
+  {
+   "kelime": "جُنُودَ",
+   "okunus": "cünûde",
+   "kok": "جند",
+   "kokAnlam": "ordu, asker",
+   "karsilik": "ordularını"
+  },
+  {
+   "kelime": "رَبِّكَ",
+   "okunus": "rabbike",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, sahip; Rab",
+   "karsilik": "Rabbinin"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna edatı, ancak",
+   "karsilik": "başkası değil"
+  },
+  {
+   "kelime": "هُوَ",
+   "okunus": "hüve",
+   "kok": "—",
+   "kokAnlam": "zamir, o",
+   "karsilik": "O'ndan"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "ve ... değildir"
+  },
+  {
+   "kelime": "هِىَ",
+   "okunus": "hiye",
+   "kok": "—",
+   "kokAnlam": "zamir, o",
+   "karsilik": "o [Sekar haberi]"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna edatı, ancak",
+   "karsilik": "başka"
+  },
+  {
+   "kelime": "ذِكْرَىٰ",
+   "okunus": "zikrâ",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlatma, öğüt, anma",
+   "karsilik": "bir hatırlatmadır"
+  },
+  {
+   "kelime": "لِلْبَشَرِ",
+   "okunus": "lilbeşeri",
+   "kok": "بشر",
+   "kokAnlam": "insan, beşer",
+   "karsilik": "insanlar için"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette bildirilen on dokuz sayısının ardından, bu uzun ayet üç şeyi açıklar: Sekar'ın görevlilerinin yalnızca melekler olduğu; bu sayının inkâr edenler için bir 'fitne' (imtihan/sınav) kılındığı; ve bu imtihan karşısında farklı grupların nasıl tepki vereceği. Kitap ehli bu haberle kesin bilgiye ulaşacak, müminlerin imanı artacak, kitap ehli ile müminler şüpheye düşmeyecek; kalbinde hastalık olanlar ve kâfirler ise alaycı bir soruyla karşılık verecektir: 'Allah bu örnekle ne demek istedi?'",
+  "Ayetin kendisi, on dokuz sayısının işlevini açıkça belirtmiştir: bu bir imtihan unsurudur, insanların hakikate karşı tutumunu ortaya çıkaran bir ayraçtır; sayının doğruluğunu 'ispatlayan' ek bir hesaplama ya da şifre değildir. Tarih boyunca, özellikle modern dönemde, bu on dokuz sayısı bazı çevrelerce Kur'an metnindeki harf ve kelime sayımlarına dayanan 'matematiksel mucize' ya da '19 kodu' türünden nümerolojik iddialara konu edilmiştir. Bu içerik böyle bir yaklaşımı benimsemez: ayetin kendi söylediğinden fazlasını iddia etmek -sayı üzerinden ayrı bir 'şifre' ya da 'mucize' teorisi kurmak- Kur'an metninin doğrudan anlattığından farklı, sonradan üretilmiş bir okumadır. Ayetin asıl mesajı sayının kendisinde değil, insanların bu tür bir haber karşısında sergiledikleri tutumlardadır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:26",
+   "meal": "Şüphesiz Allah, bir sivrisineği, hatta ondan da ötesini örnek getirmekten çekinmez. İman edenler onun Rablerinden gelen bir gerçek olduğunu bilirler; inkâr edenler ise 'Allah bu örnekle ne demek istedi?' derler. Allah onunla birçoğunu saptırır, birçoğunu da doğru yola iletir.",
+   "baglanti": "Bakara suresindeki bu ayet, 74:31 ile neredeyse aynı yapıyı taşır: bir örnek/haber, müminlerin imanını artırırken inkâr edenleri alaycı bir soruya sürükler; ikisi de aynı imtihan mantığını anlatır."
+  },
+  {
+   "ref": "29:43",
+   "meal": "Bu örnekleri biz insanlara veriyoruz; ama onları ancak bilgi sahipleri anlar.",
+   "baglanti": "Ankebût suresinde de verilen örneklerin herkes tarafından aynı şekilde anlaşılmadığı, bunun bir bilgi ve anlayış meselesi olduğu vurgulanır; 74:31'deki farklı tepkilerle aynı temayı paylaşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Sekar'ın görevli sayısının bir imtihan olarak konması ve insanların buna farklı tepkiler vermesidir; bu, tarihsel ve gaybi bir bağlamda anlatılır.",
+  "Bugüne taşınabilecek ders, hakikat karşısında herkesin aynı tepkiyi vermediğidir: bazı insanlar için deliller arttıkça iman pekişir, bazıları için ise aynı bilgi alaycı bir soruya dönüşür. Bu farkı yaratan, bilginin kendisi değil, kişinin ona yaklaşım biçimidir; bu da bizi dini konularda metnin söylemediği ekstra teoriler üretmek yerine, dürüst ve sınırlı bir anlayışla yetinmeye çağırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Metnin kendi sınırında kal",
+   "aciklama": "Bugün bir dini konuda, kaynağın açıkça söylemediği bir yoruma ya da teoriye girişmekten kaçın."
+  },
+  {
+   "baslik": "Şüpheci değil, sorgulayıcı ol",
+   "aciklama": "Anlamadığın bir konuya alayla değil, öğrenmek isteyerek yaklaş."
+  },
+  {
+   "baslik": "İmanını sağlam bir bilgiyle pekiştir",
+   "aciklama": "Bugün güvenilir bir kaynaktan, abartısız ve sağlam bir bilgi edinerek anlayışını derinleştir."
+  }
+ ],
+ "bugununAdimi": "Bugün bir dini konuda, kaynağın söylediğinden fazlasını iddia etmeden, sınırlı ve dürüst bir şekilde öğren.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=31"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/74/31"
+  }
+ ]
+}

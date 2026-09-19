@@ -1,0 +1,75 @@
+{
+ "sure": 74,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "Çünkü o, düşündü ve ölçtü biçti.",
+ "mealNotu": "'Fikr' kökü düşünmeyi, 'kader' kökü ise ölçmeyi, hesaplamayı, planlamayı anlatır; burada bu iki fiil, Kur'an'a karşı hazırlanan bir sözün arkasındaki hesaplı çabayı tasvir eder.",
+ "kokler": [
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "te'kid, gerçekten o",
+   "karsilik": "çünkü o"
+  },
+  {
+   "kelime": "فَكَّرَ",
+   "okunus": "fekkera",
+   "kok": "فكر",
+   "kokAnlam": "düşünme, zihinsel çaba",
+   "karsilik": "düşündü"
+  },
+  {
+   "kelime": "وَقَدَّرَ",
+   "okunus": "ve kaddera",
+   "kok": "قدر",
+   "kokAnlam": "ölçme, biçme, hesaplama, planlama",
+   "karsilik": "ve ölçtü biçti"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bu ayet, bir önceki ayette bildirilen cezanın gerekçesini açıklamaya başlar. Kişi, Kur'an karşısında rastgele değil, hesaplı bir tavır sergiler: uzun uzun düşünüp bir söz üretmeye çalışır. 'Fekkera ve kaddera' ifadesi, bu çabanın ciddiyetini ve kasıtlılığını gösterir; kişi, karşılaştığı hakikate gelişigüzel değil, planlı bir şekilde karşı çıkmaya çalışır.",
+  "Bu tasvir, hakikate karşı direnmenin bazen düşüncesizlikten değil, bilinçli bir çabadan kaynaklanabileceğini gösterir. Sonraki ayet, bu çabanın sonucuna -kişinin kendi kendine getirdiği bedduaya- geçer."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "16:24",
+   "meal": "Onlara 'Rabbiniz ne indirdi?' denildiğinde 'Öncekilerin masalları' derler.",
+   "baglanti": "Nahl suresinde de vahyi reddetmek için hazır bir söz kalıbı kullanılır; bu da 74:18'deki hesaplı çabanın bir örneğidir."
+  },
+  {
+   "ref": "25:5",
+   "meal": "Ve dediler ki: 'Bunlar, öncekilerin masallarıdır; onları yazdırmış, sabah akşam kendisine okunmaktadır.'",
+   "baglanti": "Furkân suresinde de benzer bir suçlama, düşünülüp hazırlanmış bir iddia olarak sunulur."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hakikate karşı bilinçli ve hesaplı biçimde bir karşı söz üretme çabasıdır.",
+  "Bugüne taşınabilecek ders, zihni ve çabayı doğru bir amaç için değil, gerçeği reddetmek için kullanmanın büyük bir israf olduğudur. Aynı düşünme gücü, hakikati anlamak için de kullanılabilirdi."
+ ],
+ "bugun": [
+  {
+   "baslik": "Zihnini doğru bir amaca yönelt",
+   "aciklama": "Bugün üzerinde düşündüğün bir konuyu, hakikati bulmak amacıyla ele al."
+  },
+  {
+   "baslik": "Peşin hükümden kaçın",
+   "aciklama": "Bir konuda karar vermeden önce, önyargılı bir sonuca hızlıca varmaktan kaçın."
+  },
+  {
+   "baslik": "Emeğini iyiye harca",
+   "aciklama": "Bugün harcayacağın zihinsel emeği, yapıcı bir iş için kullan."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda peşin hükme varmadan önce, dürüstçe düşün.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/74/18"
+  }
+ ]
+}

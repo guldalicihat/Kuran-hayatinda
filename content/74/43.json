@@ -1,0 +1,89 @@
+{
+ "sure": 74,
+ "ayet": 43,
+ "durum": "taslak",
+ "meal": "Derler ki: 'Biz namaz kılanlardan değildik.'",
+ "mealNotu": "'Salât' kökü namazı, ibadeti anlatır; suçluların cevabının ilk maddesi, namazı terk etmeleridir.",
+ "kokler": [
+  {
+   "kelime": "قَالُوا۟",
+   "okunus": "kâlû",
+   "kok": "قول",
+   "kokAnlam": "söyleme, söz",
+   "karsilik": "derler ki"
+  },
+  {
+   "kelime": "لَمْ",
+   "okunus": "lem",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "değildik"
+  },
+  {
+   "kelime": "نَكُ",
+   "okunus": "nekü",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "biz"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "edat, -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْمُصَلِّينَ",
+   "okunus": "elmüsallîne",
+   "kok": "صلو",
+   "kokAnlam": "namaz kılan",
+   "karsilik": "namaz kılanlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki soruya ('Sizi Sekar'a sokan nedir?') suçluların verdiği cevap, bu ayetten itibaren dört madde halinde sıralanır. İlk madde namazdır: 'Biz namaz kılanlardan değildik.' Bu, ibadetin terkinin, kişinin hayatındaki en temel eksikliklerden biri olarak anıldığını gösterir.",
+  "Namazın burada ilk sırada zikredilmesi, onun Allah ile kurulan bağın en somut göstergelerinden biri olduğuna işaret eder. Sonraki ayetler (44-47) bu listeyi -yoksulu doyurmama, batıla dalma, hesap gününü yalanlama- tamamlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "107:5",
+   "meal": "Onlar ki namazlarından gafildirler.",
+   "baglanti": "Mâûn suresinde namazın gaflet içinde, özensiz kılınması kınanır; 74:43'te ise doğrudan namazın hiç kılınmaması eleştirilir; ikisi de namaza karşı ihmali konu edinir."
+  },
+  {
+   "ref": "23:9",
+   "meal": "Ve onlar namazlarını(n vakitlerine) tam riayet ederler.",
+   "baglanti": "Mü'minûn suresinde namaza özenle riayet etmek, kurtuluşa erenlerin bir özelliği olarak sayılır; 74:43'teki suçluların ihmalinin tam karşıtıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, ahirette suçluların namazı terk ettiklerini itiraf etmeleridir; bu bir ibadet konusudur.",
+  "Bugüne taşınabilecek ders, namazın ihmal edilebilecek bir ayrıntı değil, kişinin hayatındaki temel bir bağ olduğudur. Namazını aksatıyorsan, bunu yeniden düzenli bir alışkanlığa dönüştürmek, bugünden başlayabileceğin bir adımdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Namazını aksatma",
+   "aciklama": "Bugün vaktinde kılmaya özen göstererek namazını aksatmamaya çalış."
+  },
+  {
+   "baslik": "Bir vakti telafi et",
+   "aciklama": "İhmal ettiğin bir namaz alışkanlığını bugün yeniden düzene sok."
+  },
+  {
+   "baslik": "Huşu ile kıl",
+   "aciklama": "Bugünkü namazını, acele etmeden ve dikkatini toplayarak kıl."
+  }
+ ],
+ "bugununAdimi": "Bugün namazlarını vaktinde ve aksatmadan kılmaya özen göster.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=43"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/74/43"
+  }
+ ]
+}

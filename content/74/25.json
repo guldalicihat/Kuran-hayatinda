@@ -1,0 +1,89 @@
+{
+ "sure": 74,
+ "ayet": 25,
+ "durum": "taslak",
+ "meal": "Bu, ancak bir insan sözüdür.",
+ "mealNotu": "'Kavl' kökü söz, 'beşer' kökü ise insan anlamındadır; ayet, bir önceki ayetteki 'büyü' iddiasını farklı bir sözle tekrarlar.",
+ "kokler": [
+  {
+   "kelime": "إِنْ",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "olumsuzluk edatı",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "هَٰذَآ",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "işaret zamiri, bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "istisna edatı, ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "قَوْلُ",
+   "okunus": "kavlü",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "sözüdür"
+  },
+  {
+   "kelime": "ٱلْبَشَرِ",
+   "okunus": "elbeşeri",
+   "kok": "بشر",
+   "kokAnlam": "insan, beşer",
+   "karsilik": "bir insan"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette 'büyü' diye nitelenen Kur'an, bu ayette ikinci bir iddiayla, 'insan sözü' olarak nitelenir. İki iddia birbiriyle çelişir gibi görünse de, aslında ikisi de aynı amaca hizmet eder: karşılaşılan sözün ilahi kaynağını reddetmek için art arda bahaneler üretmek.",
+  "Bu ayetle, 11. ayetten beri süren inkârcı portresi tamamlanır. 26. ayetten itibaren sure, bu tür bir inkârın sonucuna -Sekar cehennemine- döner ve konuyu farklı bir sahneyle sürdürür."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "16:103",
+   "meal": "Andolsun biliyoruz ki onlar, 'Bunu ona bir insan öğretiyor' diyorlar.",
+   "baglanti": "Nahl suresinde de vahyin bir insan kaynaklı olduğu iddiası dile getirilir; aynı suçlama kalıbı burada da geçer."
+  },
+  {
+   "ref": "69:41",
+   "meal": "O, bir şair sözü değildir; ne az iman ediyorsunuz.",
+   "baglanti": "Hâkka suresinde Kur'an'ın bir şair ya da insan sözü olmadığı doğrudan reddedilir; 74:25'teki iddiaya dolaylı bir cevap niteliğindedir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hakikati reddetmek için üretilen ikinci bir suçlama kalıbıdır; bu da belirli bir tarihsel tartışmanın parçasıdır.",
+  "Bugüne taşınabilecek ders, bir gerçeği kabul etmemek için art arda farklı bahaneler üretmenin, aslında tutarsızlığın bir göstergesi olduğudur. Tutarlı bir değerlendirme, aynı konuda sürekli değişen gerekçeler üretmek yerine, dürüstçe bir sonuca varmayı gerektirir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Tutarlılığını gözden geçir",
+   "aciklama": "Bugün bir konuda ileri sürdüğün gerekçelerin birbiriyle tutarlı olup olmadığını kontrol et."
+  },
+  {
+   "baslik": "Bahane üretmekten kaçın",
+   "aciklama": "Kabul etmek istemediğin bir gerçeğe karşı yeni bahaneler üretmek yerine, onu dürüstçe değerlendir."
+  },
+  {
+   "baslik": "Netlik ara",
+   "aciklama": "Bugün bir konuda kafanı karıştıran çelişkili düşünceleri netleştirmeye çalış."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda kendi tutarlılığını gözden geçir, bahane üretmekten kaçın.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=25"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/74/25"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "sure": 74,
+ "ayet": 10,
+ "durum": "taslak",
+ "meal": "Kâfirlere hiç kolay değildir.",
+ "mealNotu": "'Yesîr' kökü kolaylık anlamındadır; ayet bir önceki ayetteki zorluğu, özellikle inkâr edenler için pekiştirir.",
+ "kokler": [
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "edat, üzerine",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "ٱلْكَٰفِرِينَ",
+   "okunus": "elkâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme, gerçeği inkâr etme; kâfir",
+   "karsilik": "kâfirlere"
+  },
+  {
+   "kelime": "غَيْرُ",
+   "okunus": "gayru",
+   "kok": "غير",
+   "kokAnlam": "başka, ...olmayan",
+   "karsilik": "değil"
+  },
+  {
+   "kelime": "يَسِيرٍ",
+   "okunus": "yesîrin",
+   "kok": "يسر",
+   "kokAnlam": "kolaylık, rahatlık",
+   "karsilik": "kolay"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayette 'zorlu bir gün' diye nitelenen kıyamet günü, burada özellikle inkâr edenler için tanımlanır: onlara hiç kolay gelmeyecek bir gündür. 'Yesîr' (kolay) kelimesinin olumsuzlanması, o günün bu kesim için dayanılmaz bir ağırlıkta olacağını vurgular.",
+  "Bu ayetle, sûra üfleniş sahnesi (8-10. ayetler) tamamlanır. Sonraki ayetlerden itibaren sure, bu zorlu günü hazırlayan bir inkâr tutumunu -Kur'an'ı reddeden kibirli bir kişinin tasvirini- anlatmaya başlar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "54:8",
+   "meal": "Boyunlarını dâvetçiye doğru uzatarak koşarlar. Kâfirler, 'Bu, zorlu bir gündür' derler.",
+   "baglanti": "Kamer suresinde de kıyamet günü kâfirlerin ağzından 'zorlu gün' olarak nitelenir; aynı temayı paylaşır."
+  },
+  {
+   "ref": "70:8",
+   "meal": "O gün gök erimiş maden gibi olur.",
+   "baglanti": "Meâric suresinde de kıyamet gününün fiziksel dehşeti anlatılır; 74:9-10'daki 'zorlu gün' ifadesinin somut bir görüntüsü gibidir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, kıyamet gününün inkâr edenler için özel bir ağırlıkta olacağıdır; bu bir gaybi haberdir.",
+  "Bugüne taşınabilecek ders, inanç ve inkârın sonuçsuz kalmayacağı, hesap gününün herkes için aynı olmayacağı bilincidir. Bu, kişiyi bugünkü inanç ve tutumunu ciddiye almaya çağırır."
+ ],
+ "bugun": [
+  {
+   "baslik": "İnancını tazele",
+   "aciklama": "Bugün kısaca durup inancının bir hesap gününe hazırlık olduğunu hatırla."
+  },
+  {
+   "baslik": "Bir yakınına nazikçe hatırlat",
+   "aciklama": "Uygun bir ortamda, ahiretin varlığını nazikçe bir yakınınla konuş."
+  },
+  {
+   "baslik": "Kendi tutumunu gözden geçir",
+   "aciklama": "Bugün bir davranışını, sonsuz bir hesabın parçası olduğunu düşünerek değerlendir."
+  }
+ ],
+ "bugununAdimi": "Bugün inancını, hesap gününü hatırlayarak bir kez daha tazele.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=10"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/74/10"
+  }
+ ]
+}

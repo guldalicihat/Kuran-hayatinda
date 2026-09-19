@@ -1,0 +1,89 @@
+{
+ "sure": 74,
+ "ayet": 16,
+ "durum": "taslak",
+ "meal": "Hayır! Çünkü o, ayetlerimize karşı inatçı kesildi.",
+ "mealNotu": "'Kellâ' güçlü bir caydırma edatıdır; 'anîd' kökü ise bile bile direnmeyi, inat etmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "كَلَّآ",
+   "okunus": "kellâ",
+   "kok": "—",
+   "kokAnlam": "caydırma, güçlü ret, hayır",
+   "karsilik": "hayır"
+  },
+  {
+   "kelime": "إِنَّهُۥ",
+   "okunus": "innehû",
+   "kok": "—",
+   "kokAnlam": "te'kid, gerçekten o",
+   "karsilik": "çünkü o"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "kesildi"
+  },
+  {
+   "kelime": "لِءَايَٰتِنَا",
+   "okunus": "liâyâtinâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, alamet; ayet",
+   "karsilik": "ayetlerimize karşı"
+  },
+  {
+   "kelime": "عَنِيدًا",
+   "okunus": "anîden",
+   "kok": "عند",
+   "kokAnlam": "bile bile direnme, inat etme",
+   "karsilik": "inatçı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki doyumsuz beklentiye karşı, bu ayet sert bir 'kellâ' (hayır, asla) ile karşılık verir. Bu kişinin daha fazlasını hak etmemesinin sebebi açıklanır: ayetlere -yani vahyin işaretlerine- karşı bilerek ve inatla direnmesi. 'Anîd' kelimesi, bilgisizlikten değil, bilerek ve inatla karşı çıkmayı anlatır.",
+  "Bu ayet, 11. ayetten beri süren anlatının özetidir: nimetlere rağmen doymama (15) ve bunun sebebi olan bilinçli inat (16). Sonraki ayetler, bu inadın karşılığında gelecek zorlu bir azaba işaret eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:33",
+   "meal": "Bilmekteyiz ki, onların söyledikleri seni gerçekten üzüyor. Aslında onlar seni yalanlamıyorlar; fakat o zalimler, Allah'ın ayetlerini inatla inkâr ediyorlar.",
+   "baglanti": "En'âm suresinde de inkârın sebebi, ayetlerin anlaşılmaması değil, bilerek inat edilmesi olarak gösterilir; aynı tema tekrarlanır."
+  },
+  {
+   "ref": "45:8",
+   "meal": "Kendisine okunan Allah'ın ayetlerini işitir de sonra büyüklük taslayarak, sanki onları hiç işitmemiş gibi inatla direnir.",
+   "baglanti": "Câsiye suresinde de ayetlere karşı bilinçli bir inat ve kibir, aynı 'işitip de reddetme' örüntüsüyle anlatılır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hakikate karşı bilerek ve inatla direnen bir tutumdur; bu, belirli bir tarihsel bağlamda anlatılır.",
+  "Bugüne taşınabilecek ders, doğru olduğunu bildiğimiz bir şeye karşı sırf alışkanlık, gurur ya da çıkar yüzünden inat etmenin, kişiyi büyük bir yanılgıya sürükleyebileceğidir. Bilerek direnmek, bilmemekten çok daha ağır bir sorumluluktur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir inadını gözden geçir",
+   "aciklama": "Bugün doğru olduğunu bildiğin ama kabul etmekte zorlandığın bir konuyu yeniden düşün."
+  },
+  {
+   "baslik": "Gururunu bir kenara bırak",
+   "aciklama": "Bir tartışmada haksız olduğunu fark edersen bugün bunu kabul et."
+  },
+  {
+   "baslik": "Açık fikirli ol",
+   "aciklama": "Bugün seni rahatsız eden bir eleştiriyi, hemen reddetmeden dinle."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda haksız olduğunu fark edersen, inat etmeden kabul et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=74&verse=16"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/74/16"
+  }
+ ]
+}
