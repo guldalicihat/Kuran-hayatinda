@@ -1,0 +1,110 @@
+{
+ "sure": 29,
+ "ayet": 43,
+ "durum": "taslak",
+ "meal": "İşte bu örnekleri insanlar için getiriyoruz; fakat onları ancak bilenler kavrar.",
+ "mealNotu": "Kök temelli meal; ek yorum eklenmedi. 'Ya'kılühâ' kökü (عقل) akıl yürüterek kavramayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَتِلْكَ",
+   "okunus": "ve tilke",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri) ve işte bunlar",
+   "karsilik": "işte bu"
+  },
+  {
+   "kelime": "ٱلْأَمْثَٰلُ",
+   "okunus": "el'emsâlü",
+   "kok": "مثل",
+   "kokAnlam": "örnek, benzetme",
+   "karsilik": "örnekleri"
+  },
+  {
+   "kelime": "نَضْرِبُهَا",
+   "okunus": "nadribühâ",
+   "kok": "ضرب",
+   "kokAnlam": "vurma; örnek getirme",
+   "karsilik": "getiriyoruz"
+  },
+  {
+   "kelime": "لِلنَّاسِ",
+   "okunus": "lilnnâsi",
+   "kok": "أنس",
+   "kokAnlam": "insan, toplum",
+   "karsilik": "insanlar için"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) fakat ... değil",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "يَعْقِلُهَآ",
+   "okunus": "ya'kılühâ",
+   "kok": "عقل",
+   "kokAnlam": "akıl yürütme, kavrama",
+   "karsilik": "onu kavrar"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna edatı) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ٱلْعَٰلِمُونَ",
+   "okunus": "el'âlimûne",
+   "kok": "علم",
+   "kokAnlam": "bilme, ilim sahibi olma",
+   "karsilik": "bilenler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Kur'an'daki mesellerin (örneklerin) insanlar için verildiğini, ama bunları ancak 'âlimûn' (bilenler) diye tanımlanan kimselerin gerçekten kavrayabileceğini söyler.",
+  "'Ya'kılühâ' kökü (عقل) akıl yürütmeyi, düşünerek kavramayı anlatır; ayet böylece meselleri yüzeysel okumakla derinlemesine düşünmek arasındaki farkı ortaya koyar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:26",
+   "meal": "Şüphesiz Allah, bir sivrisineği, hatta ondan daha küçüğünü bile örnek vermekten çekinmez.",
+   "baglanti": "Kur'an'ın küçük görünen örnekler kullanmasını savunan bir ayet; 29:43'teki 'bu örnekleri insanlar için getiriyoruz' ifadesiyle aynı yöntemi anlatır."
+  },
+  {
+   "ref": "3:7",
+   "meal": "Kitabı sana indiren O'dur... Onun te'vilini ise Allah'tan ve ilimde derinleşmiş olanlardan başkası bilmez.",
+   "baglanti": "Derin anlamı ancak bilgi ve derinlik sahibi kimselerin kavrayabileceği fikri, 29:43'teki 'ancak bilenler kavrar' ifadesiyle aynı temayı taşır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Kur'an'daki örneklerin (meselelerin) anlaşılması için düşünmenin gerekli olduğudur.",
+  "Günümüze taşınabilecek ders, okuduğun veya duyduğun bir şeyi hemen geçiştirmek yerine üzerinde durup düşünmenin değeridir; bir mesel veya örnek, ancak üzerinde düşünüldüğünde işe yarar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bir ayeti düşünerek oku",
+   "aciklama": "Bugün okuduğun bir ayeti hemen geçmeden, ne anlattığını kendi cümlenle özetle."
+  },
+  {
+   "baslik": "Yüzeysel geçme, derinleş",
+   "aciklama": "Bir konuda hızlı yorum yapmadan önce biraz araştır."
+  },
+  {
+   "baslik": "Öğrendiğini uygula",
+   "aciklama": "Bugün öğrendiğin bir şeyi hayatına bir şekilde yansıt."
+  }
+ ],
+ "bugununAdimi": "Bugün okuduğun bir ayeti bir dakika durup kendi cümlenle özetle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=43"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/29/43"
+  }
+ ]
+}

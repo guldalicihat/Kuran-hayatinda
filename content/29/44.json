@@ -1,0 +1,124 @@
+{
+ "sure": 29,
+ "ayet": 44,
+ "durum": "taslak",
+ "meal": "Allah, gökleri ve yeri hak ile yarattı. Şüphesiz bunda müminler için elbette bir işaret vardır.",
+ "mealNotu": "Kök temelli meal; ek yorum eklenmedi. 'Hak' kökü (حقق) amaçlılık ve gerçeklik anlamı taşır.",
+ "kokler": [
+  {
+   "kelime": "خَلَقَ",
+   "okunus": "haleka",
+   "kok": "خلق",
+   "kokAnlam": "yaratma",
+   "karsilik": "yarattı"
+  },
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik, gök",
+   "karsilik": "gökleri"
+  },
+  {
+   "kelime": "وَٱلْأَرْضَ",
+   "okunus": "vel erda",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak, yeryüzü",
+   "karsilik": "ve yeri"
+  },
+  {
+   "kelime": "بِٱلْحَقِّ",
+   "okunus": "bil hakkı",
+   "kok": "حقق",
+   "kokAnlam": "gerçeklik, doğruluk, amaçlılık",
+   "karsilik": "hak ile"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid edatı) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde, -de",
+   "karsilik": "-de"
+  },
+  {
+   "kelime": "ذَٰلِكَ",
+   "okunus": "zâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri) bunda, şunda",
+   "karsilik": "bunda"
+  },
+  {
+   "kelime": "لَءَايَةً",
+   "okunus": "leâyeten",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil, ayet",
+   "karsilik": "elbette bir işaret"
+  },
+  {
+   "kelime": "لِّلْمُؤْمِنِينَ",
+   "okunus": "lilmü'minîne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "müminler için"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Allah'ın gökleri ve yeri hak ile (boşuna değil, bir amaç ve gerçeklikle) yarattığını söyler ve bunun müminler için bir işaret (ayet) olduğunu belirtir.",
+  "'Hak' kökü (حقق) burada rastgelelik değil, amaçlılık ve gerçeklik anlamındadır; evrenin düzeni, inanan bir kişi için Allah'ın varlığına işaret eden bir delildir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "45:22",
+   "meal": "Allah, gökleri ve yeri hak ile yarattı; öyle ki her nefis kazandığının karşılığını görsün ve kimseye haksızlık edilmesin.",
+   "baglanti": "Aynı ifade -'gökleri ve yeri hak ile yarattı'- burada da geçer; ayrıca bunun adaletle bağlantısını gösterir."
+  },
+  {
+   "ref": "3:190",
+   "meal": "Göklerin ve yerin yaratılışında, gece ile gündüzün birbiri ardınca gelişinde akıl sahipleri için elbette ayetler vardır.",
+   "baglanti": "Evrenin yaratılışının akıl sahipleri (burada müminler) için bir işaret olduğu fikri, 29:44'teki 'müminler için bir ayet' ifadesiyle örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, evrenin yaratılışının bir amaç taşıdığıdır.",
+  "Günümüze taşınabilecek ders, çevrendeki düzeni -gökyüzü, doğa, mevsimler- fark edip üzerinde durmanın, imanı canlı tutan basit bir alışkanlık olduğudur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bugün gökyüzüne bak",
+   "aciklama": "Kısa bir an ayırıp gökyüzünü, bir bitkiyi veya doğadaki bir düzeni fark et."
+  },
+  {
+   "baslik": "Rastgele değil amaçlı düşün",
+   "aciklama": "Bugün yaptığın bir işi de amaçsız değil, bir anlamla yapmaya çalış."
+  },
+  {
+   "baslik": "Bir düzeni paylaş",
+   "aciklama": "Fark ettiğin bir güzelliği bugün birine anlat."
+  }
+ ],
+ "bugununAdimi": "Bugün dışarıdayken bir dakika durup gökyüzüne veya bir bitkiye dikkatle bak.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=44"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/29/44"
+  }
+ ]
+}

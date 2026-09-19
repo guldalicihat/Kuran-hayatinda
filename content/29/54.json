@@ -1,0 +1,96 @@
+{
+ "sure": 29,
+ "ayet": 54,
+ "durum": "taslak",
+ "meal": "Senden azabı çarçabuk istiyorlar. Oysa cehennem, kâfirleri elbette kuşatacaktır.",
+ "mealNotu": "Kök temelli meal; ek yorum eklenmedi. 'Muhîta' kökü (حوط) kuşatmayı, çepeçevre sarmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "يَسْتَعْجِلُونَكَ",
+   "okunus": "yesta'cilûneke",
+   "kok": "عجل",
+   "kokAnlam": "acele etme, çabuklaştırma isteme",
+   "karsilik": "senden çarçabuk istiyorlar"
+  },
+  {
+   "kelime": "بِٱلْعَذَابِ",
+   "okunus": "bil azâbi",
+   "kok": "عذب",
+   "kokAnlam": "acı, azap",
+   "karsilik": "azabı"
+  },
+  {
+   "kelime": "وَإِنَّ",
+   "okunus": "ve inne",
+   "kok": "—",
+   "kokAnlam": "(tekid edatı) ve şüphesiz",
+   "karsilik": "oysa şüphesiz"
+  },
+  {
+   "kelime": "جَهَنَّمَ",
+   "okunus": "cehenneme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) cehennem",
+   "karsilik": "cehennem"
+  },
+  {
+   "kelime": "لَمُحِيطَةٌۢ",
+   "okunus": "lemühîtatüm",
+   "kok": "حوط",
+   "kokAnlam": "kuşatma, çepeçevre sarma",
+   "karsilik": "elbette kuşatacaktır"
+  },
+  {
+   "kelime": "بِٱلْكَٰفِرِينَ",
+   "okunus": "bil kâfirîne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "kâfirleri"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, bir önceki ayetteki azap talebini tekrarlar ve cehennemin kâfirleri kesin olarak kuşatacağını söyler.",
+  "'Muhîta' kökü (حوط) kuşatmayı, çepeçevre sarmayı anlatır; ayet, kaçışın mümkün olmadığı bir kuşatmayı tasvir eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "9:49",
+   "meal": "İçlerinden kimi 'Bana izin ver, beni fitneye düşürme' der. Bilesin ki onlar zaten fitnenin içine düşmüşlerdir. Şüphesiz cehennem kâfirleri elbette kuşatıcıdır.",
+   "baglanti": "Ayetin son cümlesi -'cehennem kâfirleri elbette kuşatıcıdır'- 29:54 ile neredeyse birebir aynıdır; farklı bir sure ve bağlamda aynı uyarı tekrarlanır."
+  },
+  {
+   "ref": "18:29",
+   "meal": "Şüphesiz biz zalimler için, duvarları çepeçevre kuşatan bir ateş hazırladık.",
+   "baglanti": "Aynı 'kuşatma' (حوط) teması burada da geçer; kaçış imkânı bırakmayan bir azap tasviri sunar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, inkârın kaçınılmaz bir sonucudur; burada ciddi ve uzak bir uyarı söz konusudur.",
+  "Buradan çıkan genel ders, bir sonuçtan belki bana dokunmaz diye kaçmanın gerçekçi olmadığıdır; bir seçimin sonucu, görmezden gelinse de vardır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaçtığın bir gerçeği kabul et",
+   "aciklama": "Bugün görmezden geldiğin ama bildiğin bir sonucu kabullen."
+  },
+  {
+   "baslik": "Sonu düşünerek karar ver",
+   "aciklama": "Bir kararın uzun vadeli sonucunu bugün bir kez düşün."
+  },
+  {
+   "baslik": "Kimse görmese de sonucun geleceğini unutma",
+   "aciklama": "Gizli yaptığın bir şeyin bile bir karşılığı olduğunu hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün görmezden geldiğin bir gerçeği kabul edip ona göre küçük bir adım at.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=54"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/29/54"
+  }
+ ]
+}

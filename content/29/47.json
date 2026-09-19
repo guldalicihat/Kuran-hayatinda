@@ -1,0 +1,187 @@
+{
+ "sure": 29,
+ "ayet": 47,
+ "durum": "taslak",
+ "meal": "İşte böylece sana Kitab'ı indirdik. Kendilerine kitap verdiklerimiz ona inanırlar. Şunlardan da ona inanan vardır. Ayetlerimizi ancak kâfirler bile bile inkâr eder.",
+ "mealNotu": "Kök temelli meal; ek yorum eklenmedi. 'Yechadü' kökü (جحد) bilerek, kasıtlı olarak reddetmeyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "وَكَذَٰلِكَ",
+   "okunus": "ve kezâlike",
+   "kok": "—",
+   "kokAnlam": "(işaret) ve işte böylece",
+   "karsilik": "ve işte böylece"
+  },
+  {
+   "kelime": "أَنزَلْنَآ",
+   "okunus": "enzelnâ",
+   "kok": "نزل",
+   "kokAnlam": "indirme",
+   "karsilik": "indirdik"
+  },
+  {
+   "kelime": "إِلَيْكَ",
+   "okunus": "ileyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "Kitab'ı"
+  },
+  {
+   "kelime": "فَٱلَّذِينَ",
+   "okunus": "fellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kimseler ki",
+   "karsilik": "kimseler"
+  },
+  {
+   "kelime": "ءَاتَيْنَٰهُمُ",
+   "okunus": "âteynâhümü",
+   "kok": "أتي",
+   "kokAnlam": "verme, gelme",
+   "karsilik": "kendilerine verdiğimiz"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبَ",
+   "okunus": "elkitâbe",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "kitabı"
+  },
+  {
+   "kelime": "يُؤْمِنُونَ",
+   "okunus": "yü'minûne",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "inanırlar"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "وَمِنْ",
+   "okunus": "ve min",
+   "kok": "—",
+   "kokAnlam": "(edat) ve -den",
+   "karsilik": "ve -den"
+  },
+  {
+   "kelime": "هَٰٓؤُلَآءِ",
+   "okunus": "hâülâi",
+   "kok": "—",
+   "kokAnlam": "(işaret zamiri) şunlar",
+   "karsilik": "şunlardan"
+  },
+  {
+   "kelime": "مَن",
+   "okunus": "men",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) kim, kimi",
+   "karsilik": "kimi"
+  },
+  {
+   "kelime": "يُؤْمِنُ",
+   "okunus": "yü'minü",
+   "kok": "أمن",
+   "kokAnlam": "güven, iman",
+   "karsilik": "inanır"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(zamir) ona",
+   "karsilik": "ona"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve ... değil",
+   "karsilik": "ve etmez"
+  },
+  {
+   "kelime": "يَجْحَدُ",
+   "okunus": "yechadü",
+   "kok": "جحد",
+   "kokAnlam": "bile bile reddetme, inkâr etme",
+   "karsilik": "bile bile inkâr eder"
+  },
+  {
+   "kelime": "بِـَٔايَٰتِنَآ",
+   "okunus": "biâyâtinâ",
+   "kok": "أيي",
+   "kokAnlam": "işaret, delil, ayet",
+   "karsilik": "ayetlerimizi"
+  },
+  {
+   "kelime": "إِلَّا",
+   "okunus": "illâ",
+   "kok": "—",
+   "kokAnlam": "(istisna edatı) ancak",
+   "karsilik": "ancak"
+  },
+  {
+   "kelime": "ٱلْكَٰفِرُونَ",
+   "okunus": "elkâfirûne",
+   "kok": "كفر",
+   "kokAnlam": "örtme; gerçeği örtme, inkâr",
+   "karsilik": "kâfirler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Kur'an'ın Peygamber'e indirildiğini, kendilerine daha önce kitap verilenlerden bir kısmının ona inandığını ve ayetleri ancak kâfirlerin bile bile inkâr ettiğini söyler.",
+  "'Yechadü' kökü (جحد) bilerek, kasıtlı olarak reddetmeyi anlatır; bu, bilgisizlikten kaynaklanan bir yanlış anlamadan farklıdır. Ayet böylece inkârın bazen bilgi eksikliğinden değil, bilinçli bir reddedişten kaynaklanabileceğine işaret eder."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "28:52",
+   "meal": "Bundan önce kendilerine kitap verdiklerimiz, ona (Kur'an'a) inanırlar.",
+   "baglanti": "29:47'deki 'kendilerine kitap verdiklerimiz ona inanırlar' ifadesiyle neredeyse aynı; Kasas suresinde de aynı grup anılır."
+  },
+  {
+   "ref": "3:199",
+   "meal": "Kitap ehlinden öyleleri vardır ki, Allah'a, size indirilene ve kendilerine indirilene, Allah'a boyun eğerek inanırlar.",
+   "baglanti": "Kitap ehlinden inananların varlığı burada da doğrulanır; 29:47'deki 'şunlardan da ona inanan vardır' ifadesiyle örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu, Kur'an'a farklı kesimlerden gelen tepkilerdir; bir kısmı inanır, bir kısmı bile bile reddeder.",
+  "Günümüze taşınabilecek ders, bir gerçeği kabul etmemenin bazen bilgi eksikliğinden değil, inatla ilgili olabileceğidir; kişi önce kendi tutumunu -gerçekten bilmiyor muyum, yoksa bilerek mi reddediyorum- sorgulayabilir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Bilerek reddettiğin bir gerçeği düşün",
+   "aciklama": "Bugün, aslında doğru olduğunu bildiğin ama kabullenmek istemediğin bir şeyi fark et."
+  },
+  {
+   "baslik": "Ön yargısız dinle",
+   "aciklama": "Farklı bir görüşü bugün, hemen reddetmeden dinle."
+  },
+  {
+   "baslik": "Bilgiyle ilgiyi ayır",
+   "aciklama": "Bir konuda bilmiyorum ile kabul etmek istemiyorum arasındaki farkı kendine sor."
+  }
+ ],
+ "bugununAdimi": "Bugün kabul etmekte zorlandığın bir gerçeği, neden zorlandığını yazarak bir kez netleştir.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=47"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/29/47"
+  }
+ ]
+}

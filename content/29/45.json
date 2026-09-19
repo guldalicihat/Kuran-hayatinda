@@ -1,0 +1,201 @@
+{
+ "sure": 29,
+ "ayet": 45,
+ "durum": "taslak",
+ "meal": "Sana vahyedilen Kitap'tan oku ve namazı dosdoğru kıl. Şüphesiz namaz, çirkin işten ve kötülükten alıkoyar. Allah'ın zikri ise elbette en büyüktür. Allah yaptıklarınızı bilir.",
+ "mealNotu": "Kök temelli meal; ek yorum eklenmedi. 'Tenhâ' kökü (نهي) yasaklamayı, alıkoymayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "ٱتْلُ",
+   "okunus": "itlü",
+   "kok": "تلو",
+   "kokAnlam": "okuma, takip etme",
+   "karsilik": "oku"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) şeyi",
+   "karsilik": "şeyi"
+  },
+  {
+   "kelime": "أُوحِىَ",
+   "okunus": "ûhiye",
+   "kok": "وحي",
+   "kokAnlam": "vahyetme",
+   "karsilik": "vahyedilen"
+  },
+  {
+   "kelime": "إِلَيْكَ",
+   "okunus": "ileyke",
+   "kok": "—",
+   "kokAnlam": "(edat) sana",
+   "karsilik": "sana"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma, kitap",
+   "karsilik": "Kitap"
+  },
+  {
+   "kelime": "وَأَقِمِ",
+   "okunus": "ve ekımi",
+   "kok": "قوم",
+   "kokAnlam": "ayakta durma, dosdoğru kılma",
+   "karsilik": "ve dosdoğru kıl"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "namaz, dua",
+   "karsilik": "namazı"
+  },
+  {
+   "kelime": "إِنَّ",
+   "okunus": "inne",
+   "kok": "—",
+   "kokAnlam": "(tekid edatı) şüphesiz",
+   "karsilik": "şüphesiz"
+  },
+  {
+   "kelime": "ٱلصَّلَوٰةَ",
+   "okunus": "essalâte",
+   "kok": "صلو",
+   "kokAnlam": "namaz, dua",
+   "karsilik": "namaz"
+  },
+  {
+   "kelime": "تَنْهَىٰ",
+   "okunus": "tenhâ",
+   "kok": "نهي",
+   "kokAnlam": "yasaklama, alıkoyma",
+   "karsilik": "alıkoyar"
+  },
+  {
+   "kelime": "عَنِ",
+   "okunus": "ani",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْفَحْشَآءِ",
+   "okunus": "elfahşâi",
+   "kok": "فحش",
+   "kokAnlam": "çirkinlik, hayasızlık",
+   "karsilik": "çirkin işten"
+  },
+  {
+   "kelime": "وَٱلْمُنكَرِ",
+   "okunus": "vel münkeri",
+   "kok": "نكر",
+   "kokAnlam": "tanınmayan, kötü, çirkin",
+   "karsilik": "ve kötülükten"
+  },
+  {
+   "kelime": "وَلَذِكْرُ",
+   "okunus": "ve lezikru",
+   "kok": "ذكر",
+   "kokAnlam": "anma, hatırlama, zikir",
+   "karsilik": "ve zikri"
+  },
+  {
+   "kelime": "ٱللَّهِ",
+   "okunus": "allâhi",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah'ın"
+  },
+  {
+   "kelime": "أَكْبَرُ",
+   "okunus": "ekberu",
+   "kok": "كبر",
+   "kokAnlam": "büyüklük",
+   "karsilik": "elbette en büyüktür"
+  },
+  {
+   "kelime": "وَٱللَّهُ",
+   "okunus": "vallâhü",
+   "kok": "أله",
+   "kokAnlam": "ilahlık; Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "يَعْلَمُ",
+   "okunus": "ya'lemü",
+   "kok": "علم",
+   "kokAnlam": "bilme",
+   "karsilik": "bilir"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ne, şey",
+   "karsilik": "ne"
+  },
+  {
+   "kelime": "تَصْنَعُونَ",
+   "okunus": "tasneûne",
+   "kok": "صنع",
+   "kokAnlam": "yapma, işleme",
+   "karsilik": "yaptığınızı"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Peygamber'e vahyedilen Kitap'tan okumasını ve namazı dosdoğru kılmasını emreder. Ardından namazın işlevini açıklar: namaz, çirkin işten (fahşâ) ve kötülükten (münker) alıkoyar.",
+  "'Tenhâ' kökü (نهي) yasaklamayı, alıkoymayı anlatır. Ayet bu etkiyi namazın gerçek anlamda ve bilinçle kılınmasının doğal bir sonucu olarak anlatır; hemen ardından 'Allah'ın zikri elbette en büyüktür' denerek namazın özünün Allah'ı anmak olduğu vurgulanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "20:14",
+   "meal": "Şüphesiz ben Allah'ım, benden başka ilah yoktur. Öyleyse bana kulluk et ve beni anmak için namaz kıl.",
+   "baglanti": "Namazın temel amacının Allah'ı anmak olduğunu gösterir; 29:45'teki 'Allah'ın zikri en büyüktür' ifadesini destekler."
+  },
+  {
+   "ref": "87:14",
+   "meal": "Arınan kimse gerçekten kurtuluşa ermiştir.",
+   "baglanti": "Namaz ve arınma arasındaki bağı gösteren bir ayet; namazın kişiyi kötülükten uzaklaştıran arındırıcı etkisiyle bağlantılıdır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu namazdır; onun kişiyi çirkin ve kötü davranışlardan koruyucu bir işlevi olduğunu söyler.",
+  "Günümüze taşınabilecek ders, namazı sadece bir ritüel değil, günün içinde bir dur, düşün anı olarak görmektir. Namaz kılan birinin, kıldığı namazla günlük davranışları arasında bir tutarlılık araması beklenir; bu tutarlılığı fark etmek kişiyi kendi kendini denetlemeye yöneltir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Namazını bilinçli kıl",
+   "aciklama": "Bugünkü bir namazını aceleye getirmeden, ne söylediğini düşünerek kıl."
+  },
+  {
+   "baslik": "Namaz ile davranış arasında bağ kur",
+   "aciklama": "Namazdan sonra, gün içinde yapman gereken bir düzeltmeyi hatırla."
+  },
+  {
+   "baslik": "Küçük bir kötülükten bugün vazgeç",
+   "aciklama": "Namazın alıkoyma etkisini, bugün küçük bir yanlıştan kendini alıkoyarak dene."
+  }
+ ],
+ "bugununAdimi": "Bugün kıldığın bir namazın ardından, o gün içinde düzeltmen gereken bir davranışı bir cümleyle yaz.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=45"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/29/45"
+  }
+ ]
+}

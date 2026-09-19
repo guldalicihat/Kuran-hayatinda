@@ -1,0 +1,103 @@
+{
+ "sure": 29,
+ "ayet": 57,
+ "durum": "taslak",
+ "meal": "Her nefis ölümü tadacaktır. Sonra bize döndürüleceksiniz.",
+ "mealNotu": "Kök temelli meal; ek yorum eklenmedi. 'Zâika' kökü (ذوق) tatmayı anlatır.",
+ "kokler": [
+  {
+   "kelime": "كُلُّ",
+   "okunus": "küllü",
+   "kok": "كلل",
+   "kokAnlam": "bütünlük, her biri",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "نَفْسٍ",
+   "okunus": "nefsin",
+   "kok": "نفس",
+   "kokAnlam": "nefis, kendilik, can",
+   "karsilik": "nefis"
+  },
+  {
+   "kelime": "ذَآئِقَةُ",
+   "okunus": "zâikatü",
+   "kok": "ذوق",
+   "kokAnlam": "tatma",
+   "karsilik": "tadıcıdır"
+  },
+  {
+   "kelime": "ٱلْمَوْتِ",
+   "okunus": "elmevti",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölümü"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "إِلَيْنَا",
+   "okunus": "ileynâ",
+   "kok": "—",
+   "kokAnlam": "(edat) bize",
+   "karsilik": "bize"
+  },
+  {
+   "kelime": "تُرْجَعُونَ",
+   "okunus": "türceûne",
+   "kok": "رجع",
+   "kokAnlam": "geri dönme, döndürülme",
+   "karsilik": "döndürüleceksiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, önceki ayetteki hicret çağrısının hemen ardından gelir ve her nefsin ölümü tadacağını, sonunda Allah'a döndürüleceğini hatırlatır. Bu, dünyada nereye gidilirse gidilsin ölümden kaçışın olmadığını vurgulayan tanıdık bir Kur'an ifadesidir.",
+  "'Zâika' kökü (ذوق) tatmayı anlatır; ölüm burada bir tatma olarak nitelenir, yani geçici değil kesin ve herkesin deneyimleyeceği bir gerçektir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "3:185",
+   "meal": "Her nefis ölümü tadıcıdır. Kıyamet günü ecirleriniz size tastamam verilecektir.",
+   "baglanti": "29:57 ile birebir aynı ifadeyle başlar; farklı bir surede tekrar edilerek mesajın önemi pekiştirilir."
+  },
+  {
+   "ref": "21:35",
+   "meal": "Her nefis ölümü tadıcıdır. Sizi bir imtihan olarak hayır ve şer ile deneriz. Sonunda bize döndürüleceksiniz.",
+   "baglanti": "Aynı ifade burada da geçer, hatta 'sonunda bize döndürüleceksiniz' cümlesi de 29:57 ile örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin konusu ölümün kesinliğidir; bu, hicret ayetinin hemen ardından 'nereye kaçarsan kaç, ölüm seni bulur, önemli olan Allah'a dönüştür' mesajını pekiştirir.",
+  "Günümüze taşınabilecek ders, ölümü unutmadan yaşamanın hayatı daha bilinçli kılabileceğidir; bu bir korku değil, önceliklerini netleştiren bir hatırlatmadır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Önemli işi erteleme",
+   "aciklama": "Ölümü hatırlayarak, bugün yapman gereken önemli bir işi ertelemeden yap."
+  },
+  {
+   "baslik": "Bir ilişkini onarma fırsatını kaçırma",
+   "aciklama": "Küskün olduğun biriyle bugün barışmayı düşün."
+  },
+  {
+   "baslik": "Gereksiz bir kırgınlığı bırak",
+   "aciklama": "Önemsiz bir dargınlığı bugün geride bırak."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin ama önemli olduğunu bildiğin bir işi yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=29&verse=57"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/29/57"
+  }
+ ]
+}
