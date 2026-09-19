@@ -1,0 +1,103 @@
+{
+ "sure": 32,
+ "ayet": 28,
+ "durum": "taslak",
+ "meal": "'Eğer doğru sözlü iseniz, bu fetih/hüküm günü ne zaman?' derler.",
+ "mealNotu": "'Fetih' kökü açma, hükmü kesinleştirme anlamındadır; burada nihai hüküm ve zafer gününe işaret eder, meal parantez eklemeden 'fetih' olarak bırakıldı.",
+ "kokler": [
+  {
+   "kelime": "وَيَقُولُونَ",
+   "okunus": "ve yekûlûne",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "ve derler"
+  },
+  {
+   "kelime": "مَتَىٰ",
+   "okunus": "metâ",
+   "kok": "—",
+   "kokAnlam": "(soru edatı) ne zaman",
+   "karsilik": "ne zaman"
+  },
+  {
+   "kelime": "هَٰذَا",
+   "okunus": "hâzâ",
+   "kok": "—",
+   "kokAnlam": "(işaret) bu",
+   "karsilik": "bu"
+  },
+  {
+   "kelime": "ٱلْفَتْحُ",
+   "okunus": "elfethu",
+   "kok": "فتح",
+   "kokAnlam": "açma, hüküm verme, zafer",
+   "karsilik": "fetih"
+  },
+  {
+   "kelime": "إِن",
+   "okunus": "in",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "كُنتُمْ",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "iseniz"
+  },
+  {
+   "kelime": "صَٰدِقِينَ",
+   "okunus": "sâdikîne",
+   "kok": "صدق",
+   "kokAnlam": "doğruluk, doğru sözlü olma",
+   "karsilik": "doğru sözlü"
+  }
+ ],
+ "neAnlatiyor": [
+  "Doğa üzerinden gelen dirilişe dair delilin ardından bu ayet, inkârcıların alaycı bir sorusunu aktarır: 'Bu fetih/hüküm günü ne zaman?' Bu soru, tehdit edilen sonucun gerçekleşmediğini görünce sabırsızlanan bir meydan okumadır.",
+  "Klasik tefsir 'fetih' kelimesini burada, Bedir zaferi ya da kıyamet günü olarak farklı biçimlerde açıklar; kesin bir tarih belirtmeden, inkârcıların acele ettikleri nihai hesaplaşma anını kasteder. Bir sonraki ayet bu soruya doğrudan cevap verir."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "10:48",
+   "meal": "'Eğer doğru sözlü iseniz, bu vaat ne zaman?' derler.",
+   "baglanti": "Yûnus suresi aynı alaycı soruyu, aynı 'in küntüm sâdikîn' (doğru sözlü iseniz) kalıbıyla tekrarlar; bu, inkârcıların sık kullandığı bir meydan okumadır."
+  },
+  {
+   "ref": "36:48",
+   "meal": "'Eğer doğru sözlü iseniz, bu vaat ne zaman?' derler.",
+   "baglanti": "Yâsîn suresi de birebir aynı ifadeyle, inkârcıların sabırsız ve alaycı sorusunu aktarır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu inkârcıların alaycı bir sorusudur; bir davranış kuralı içermez.",
+  "Buradan çıkarılabilecek ders şudur: bir sonucun gecikmesi, o sonucun gerçekleşmeyeceği anlamına gelmez. Beklediğin adil bir sonucun gecikmesi karşısında sabırsızlıkla alay etmek yerine, zamanı geldiğinde ortaya çıkacağına güvenmek daha doğru bir tutumdur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Sabırsızlığa kapılma",
+   "aciklama": "Bugün gecikmiş bir sonucu beklerken, alaycı bir tavır yerine sabırlı kal."
+  },
+  {
+   "baslik": "Zamanlamayı Allah'a bırak",
+   "aciklama": "Kontrolünde olmayan bir zamanlamayı bugün merak etmeyi bırak, elindekine odaklan."
+  },
+  {
+   "baslik": "Meydan okumadan kaçın",
+   "aciklama": "Bugün bir tartışmada, karşındakine alaycı bir soruyla meydan okumak yerine sakin kal."
+  }
+ ],
+ "bugununAdimi": "Bugün gecikmiş bir sonucu, sabırsızlanmadan bekle.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=32&verse=28"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/32/28"
+  }
+ ]
+}

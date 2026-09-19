@@ -1,0 +1,110 @@
+{
+ "sure": 32,
+ "ayet": 18,
+ "durum": "taslak",
+ "meal": "Mümin olan kimse, yoldan çıkmış (fasık) kimse gibi midir? Bunlar eşit olmazlar.",
+ "mealNotu": "'Fâsık' kök anlamıyla kabuğundan çıkan, yoldan sapan demektir; itaat çizgisinin dışına çıkan kimseyi anlatır.",
+ "kokler": [
+  {
+   "kelime": "أَفَمَن",
+   "okunus": "efemen",
+   "kok": "—",
+   "kokAnlam": "(soru + ilgi) kimse mi",
+   "karsilik": "kimse mi"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olan"
+  },
+  {
+   "kelime": "مُؤْمِنًا",
+   "okunus": "mü'minen",
+   "kok": "أمن",
+   "kokAnlam": "güvenerek inanan, mümin",
+   "karsilik": "mümin"
+  },
+  {
+   "kelime": "كَمَن",
+   "okunus": "kemen",
+   "kok": "—",
+   "kokAnlam": "(edat + ilgi) kimse gibi",
+   "karsilik": "kimse gibi"
+  },
+  {
+   "kelime": "كَانَ",
+   "okunus": "kâne",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olan"
+  },
+  {
+   "kelime": "فَاسِقًا",
+   "okunus": "fâsikan",
+   "kok": "فسق",
+   "kokAnlam": "yoldan çıkma, itaat dışına çıkma",
+   "karsilik": "yoldan çıkmış"
+  },
+  {
+   "kelime": "لَّا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) -maz",
+   "karsilik": "-maz"
+  },
+  {
+   "kelime": "يَسْتَوُۥنَ",
+   "okunus": "yestevûne",
+   "kok": "سوي",
+   "kokAnlam": "denk, eşit olma",
+   "karsilik": "eşit olmazlar"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayetlerde müminlerin gizli mükâfatı anlatılmıştı; bu kısa ve vurgulu ayet, o mükâfatın neden herkese eşit dağıtılmadığını açıklar. Soru biçiminde gelen ifade, mümin ile fasığın aynı sonucu paylaşmayacağını kesin bir dille ortaya koyar.",
+  "Ayetin kısalığı, mesajın açıklığını güçlendirir: iman ile inkâr, itaat ile isyan aynı kefede tartılmaz. Devam eden ayetler bu farkı, cennet ve cehennem tasvirleriyle somutlaştırarak sürdürür."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "59:20",
+   "meal": "Ateş halkı ile cennet halkı eşit olmaz; cennet halkı, kurtuluşa erenlerin ta kendileridir.",
+   "baglanti": "Haşr suresi de aynı 'lâ yestevî' (eşit olmaz) kalıbıyla cennet ve cehennem ehlinin ayrı olduğunu vurgular."
+  },
+  {
+   "ref": "38:28",
+   "meal": "Yoksa iman edip salih ameller işleyenleri, yeryüzünde bozgunculuk yapanlar gibi mi tutacağız?",
+   "baglanti": "Sâd suresi de benzer bir soru kalıbıyla, iyi ile kötünün aynı muameleyi görmeyeceğini vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, iman ile isyanın sonuç bakımından eşit tutulmayacağıdır; bir hukuk kuralı içermez.",
+  "Buradan çıkarılabilecek ders şudur: seçimlerin sonuçsuz kalmaz. Bugün yaptığın doğru ya da yanlış bir tercihin, gelecekte bir karşılığı olacağını bilmek, kararları daha bilinçli almana yardımcı olur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Farkı hatırla",
+   "aciklama": "Bugün bir seçim yaparken, doğru ve yanlışın aynı sonucu doğurmayacağını hatırla."
+  },
+  {
+   "baslik": "Kolaya kaçma",
+   "aciklama": "Bugün doğru olanı, zor olsa da kolay olan yanlışa tercih et."
+  },
+  {
+   "baslik": "Kendini değerlendir",
+   "aciklama": "Bugün kısaca, son zamanlardaki tercihlerinin hangi tarafa daha yakın olduğunu düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün zor ama doğru olanı, kolay ama yanlış olana tercih et.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=32&verse=18"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/32/18"
+  }
+ ]
+}

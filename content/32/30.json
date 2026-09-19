@@ -1,0 +1,89 @@
+{
+ "sure": 32,
+ "ayet": 30,
+ "durum": "taslak",
+ "meal": "Artık onlardan yüz çevir ve bekle; onlar da beklemektedirler.",
+ "mealNotu": "'A'rid' yüz çevirme, ilgiyi kesme emridir. 'İntezır' bekleme fiili, iki tarafın da bekleyişini karşılıklı olarak anlatır.",
+ "kokler": [
+  {
+   "kelime": "فَأَعْرِضْ",
+   "okunus": "fea'rid",
+   "kok": "عرض",
+   "kokAnlam": "yüz çevirme, ilgiyi kesme",
+   "karsilik": "artık yüz çevir"
+  },
+  {
+   "kelime": "عَنْهُمْ",
+   "okunus": "anhüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlardan",
+   "karsilik": "onlardan"
+  },
+  {
+   "kelime": "وَٱنتَظِرْ",
+   "okunus": "ventezır",
+   "kok": "نظر",
+   "kokAnlam": "bekleme, gözleme",
+   "karsilik": "ve bekle"
+  },
+  {
+   "kelime": "إِنَّهُم",
+   "okunus": "innehüm",
+   "kok": "—",
+   "kokAnlam": "(tekid) şüphesiz onlar",
+   "karsilik": "şüphesiz onlar da"
+  },
+  {
+   "kelime": "مُّنتَظِرُونَ",
+   "okunus": "müntezırûne",
+   "kok": "نظر",
+   "kokAnlam": "bekleyen, gözleyen",
+   "karsilik": "beklemektedirler"
+  }
+ ],
+ "neAnlatiyor": [
+  "Sure, önceki ayetteki 'imanın fayda vermeyeceği' uyarısının ardından, Peygambere kısa ve kesin bir yönlendirmeyle biter: alaycı sorulara karşı yüz çevir ve bekle. Bu, tartışmayı sürdürmek yerine sonucu zamana bırakan bir tavırdır.",
+  "Ayetin son cümlesi 'onlar da beklemektedirler' diyerek, aslında her iki tarafın da bir sonucu beklediğini, ama beklentilerinin farklı olduğunu vurgular. Klasik tefsir bu kapanışı, inkârcıların alay ederek sorduğu 'ne zaman' sorusuna, sabırla ve güvenle beklemenin en doğru cevap olduğuna işaret olarak açıklar; sure böylece baştaki 'Kitapta şüphe yoktur' vurgusuyla tutarlı bir sonla kapanır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "52:48",
+   "meal": "Rabbinin hükmüne sabret; çünkü sen bizim gözetimimizdesin.",
+   "baglanti": "Tûr suresi de Peygambere aynı sabır ve bekleme tavsiyesini, Allah'ın gözetimi güvencesiyle birlikte verir."
+  },
+  {
+   "ref": "10:109",
+   "meal": "Sana vahyedilene uy ve Allah hükmünü verinceye kadar sabret; O, hükmedenlerin en hayırlısıdır.",
+   "baglanti": "Yûnus suresi de benzer bir kapanışla, nihai hükmü Allah'a bırakıp sabırla beklemeyi öğütler."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, boşa çıkacak bir tartışmayı sürdürmek yerine sabırla beklemektir; bir hukuk kuralı içermez.",
+  "Buradan çıkarılabilecek ders şudur: her tartışmayı kazanmaya çalışmak gerekmez. Bazen en doğru tavır, sonucu zamana ve gerçeğe bırakıp gereksiz çekişmeden uzaklaşmaktır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Boş tartışmadan çekil",
+   "aciklama": "Bugün seni yormaktan başka işe yaramayan bir tartışmadan sakince çekil."
+  },
+  {
+   "baslik": "Sonucu zamana bırak",
+   "aciklama": "Kanıtlamaya çalıştığın bir şeyi, bugün ısrar etmeden zamana bırak."
+  },
+  {
+   "baslik": "Sükunetini koru",
+   "aciklama": "Bugün seninle alay eden birine, öfkeyle değil sakin bir yüz çevirmeyle karşılık ver."
+  }
+ ],
+ "bugununAdimi": "Bugün seni yoran bir tartışmadan, öfkelenmeden sakince çekil.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=32&verse=30"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/32/30"
+  }
+ ]
+}

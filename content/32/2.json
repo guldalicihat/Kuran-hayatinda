@@ -1,0 +1,110 @@
+{
+ "sure": 32,
+ "ayet": 2,
+ "durum": "taslak",
+ "meal": "Bu Kitabın indirilmesinde hiçbir şüphe yoktur; âlemlerin Rabbindendir.",
+ "mealNotu": "'Tenzîl' kökü aşama aşama indirmeyi anlatır, 'Kitabın indirilişi' diye aktarıldı. 'Rayb' şüphe ve kuşku anlamındadır.",
+ "kokler": [
+  {
+   "kelime": "تَنزِيلُ",
+   "okunus": "tenzîlü",
+   "kok": "نزل",
+   "kokAnlam": "indirme, aşama aşama indirilme",
+   "karsilik": "indirilmesi"
+  },
+  {
+   "kelime": "ٱلْكِتَٰبِ",
+   "okunus": "elkitâbi",
+   "kok": "كتب",
+   "kokAnlam": "yazma; yazılı olan, kitap",
+   "karsilik": "Kitabın"
+  },
+  {
+   "kelime": "لَا",
+   "okunus": "lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk edatı) yok, değil",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "رَيْبَ",
+   "okunus": "raybe",
+   "kok": "ريب",
+   "kokAnlam": "şüphe, kuşku",
+   "karsilik": "hiçbir şüphe"
+  },
+  {
+   "kelime": "فِيهِ",
+   "okunus": "fîhi",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onda",
+   "karsilik": "onda"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-dendir"
+  },
+  {
+   "kelime": "رَّبِّ",
+   "okunus": "rabbi",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden, yetiştiren; Rab",
+   "karsilik": "Rabbinden"
+  },
+  {
+   "kelime": "ٱلْعَٰلَمِينَ",
+   "okunus": "el'âlemîne",
+   "kok": "علم",
+   "kokAnlam": "bilgi; âlem, bilinen varlıklar bütünü",
+   "karsilik": "âlemlerin"
+  }
+ ],
+ "neAnlatiyor": [
+  "Mukattaa harflerinden hemen sonra gelen bu ayet, surenin ana konusunu açar: Kitabın Allah'tan indirildiğinde şüphe yoktur. 'Tenzîl' kelimesi, vahyin aşama aşama, zaman içinde indirildiğini hatırlatır.",
+  "'Âlemlerin Rabbi' ifadesi, bu Kitabın tek bir topluluğa değil bütün yaratılmışların Rabbinden geldiğini vurgular. Sonraki ayet, bu şüphesizliğe rağmen bazı kişilerin Kitabı sorguladığını anlatarak konuyu sürdürür."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "2:2",
+   "meal": "Bu, kendisinde şüphe olmayan, muttakiler için yol gösterici bir kitaptır.",
+   "baglanti": "Bakara suresi de Kitabın şüphe barındırmadığını aynı ifadeyle söyler; bu, Kur'an'da tekrar eden bir vurgudur."
+  },
+  {
+   "ref": "40:2",
+   "meal": "Bu Kitabın indirilişi, mutlak güç sahibi, hakkıyla bilen Allah'tandır.",
+   "baglanti": "Mü'min suresi de aynı 'tenzîlü'l-kitâb' ifadesiyle açılır; Kitabın kaynağının Allah olduğunu aynı kalıpla vurgular."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, Kur'an'ın kaynağı ve güvenilirliğidir; günlük bir davranış kuralı içermez.",
+  "Yine de buradan bir ders çıkar: bir bilginin kaynağına güvenmek, onunla nasıl ilişki kuracağını belirler. Kaynağına güvendiğin bir sözü ciddiye alman gibi, güvendiğin bir kitabı da öğüt için ciddiye almak tutarlı bir tavırdır."
+ ],
+ "bugun": [
+  {
+   "baslik": "Okuduğunun kaynağını sorgula",
+   "aciklama": "Bugün paylaşacağın bir bilginin kaynağına kısaca bak, emin olmadan aktarma."
+  },
+  {
+   "baslik": "Şüpheni araştırmayla gider",
+   "aciklama": "Kur'an hakkında aklına takılan bir soruyu bugün güvenilir bir kaynaktan araştır."
+  },
+  {
+   "baslik": "Bir ayeti sahiplen",
+   "aciklama": "Bugün okuduğun bir ayeti not al ve akşam tekrar oku."
+  }
+ ],
+ "bugununAdimi": "Bugün Secde suresinin ilk on ayetini okuyup kısaca not çıkar.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=32&verse=2"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/32/2"
+  }
+ ]
+}

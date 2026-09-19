@@ -1,0 +1,166 @@
+{
+ "sure": 32,
+ "ayet": 13,
+ "durum": "taslak",
+ "meal": "Dileseydik her nefse hidayetini verirdik; fakat benden şu söz kesinleşti: Cehennemi mutlaka cinlerden ve insanlardan hepsiyle dolduracağım.",
+ "mealNotu": "'Hüdâhâ' o nefsin hidayeti, doğru yolu anlamındadır. 'Hakka'l-kavlü' söz gerçekleşti, kesinleşti demektir.",
+ "kokler": [
+  {
+   "kelime": "وَلَوْ",
+   "okunus": "ve lev",
+   "kok": "—",
+   "kokAnlam": "(şart) eğer",
+   "karsilik": "eğer"
+  },
+  {
+   "kelime": "شِئْنَا",
+   "okunus": "şi'nâ",
+   "kok": "شيأ",
+   "kokAnlam": "dileme, isteme",
+   "karsilik": "dileseydik"
+  },
+  {
+   "kelime": "لَءَاتَيْنَا",
+   "okunus": "leâteynâ",
+   "kok": "أتي",
+   "kokAnlam": "verme, getirme",
+   "karsilik": "verirdik"
+  },
+  {
+   "kelime": "كُلَّ",
+   "okunus": "külle",
+   "kok": "كلل",
+   "kokAnlam": "her, bütün",
+   "karsilik": "her"
+  },
+  {
+   "kelime": "نَفْسٍ",
+   "okunus": "nefsin",
+   "kok": "نفس",
+   "kokAnlam": "nefis, benlik",
+   "karsilik": "nefse"
+  },
+  {
+   "kelime": "هُدَىٰهَا",
+   "okunus": "hüdâhâ",
+   "kok": "هدي",
+   "kokAnlam": "doğru yolu bulma, hidayet",
+   "karsilik": "onun hidayetini"
+  },
+  {
+   "kelime": "وَلَٰكِنْ",
+   "okunus": "ve lâkin",
+   "kok": "—",
+   "kokAnlam": "(düzeltme edatı) fakat",
+   "karsilik": "fakat"
+  },
+  {
+   "kelime": "حَقَّ",
+   "okunus": "hakka",
+   "kok": "حقق",
+   "kokAnlam": "gerçekleşme, kesinleşme",
+   "karsilik": "kesinleşti"
+  },
+  {
+   "kelime": "ٱلْقَوْلُ",
+   "okunus": "elkavlü",
+   "kok": "قول",
+   "kokAnlam": "söz",
+   "karsilik": "söz"
+  },
+  {
+   "kelime": "مِنِّى",
+   "okunus": "minnî",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) benden",
+   "karsilik": "benden"
+  },
+  {
+   "kelime": "لَأَمْلَأَنَّ",
+   "okunus": "leemleenne",
+   "kok": "ملأ",
+   "kokAnlam": "doldurma",
+   "karsilik": "mutlaka dolduracağım"
+  },
+  {
+   "kelime": "جَهَنَّمَ",
+   "okunus": "cehenneme",
+   "kok": "—",
+   "kokAnlam": "(özel isim) cehennem",
+   "karsilik": "cehennemi"
+  },
+  {
+   "kelime": "مِنَ",
+   "okunus": "mine",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "ٱلْجِنَّةِ",
+   "okunus": "elcinneti",
+   "kok": "جنن",
+   "kokAnlam": "örtülü olma, gizlenme; cin",
+   "karsilik": "cinlerden"
+  },
+  {
+   "kelime": "وَٱلنَّاسِ",
+   "okunus": "ven nâsi",
+   "kok": "أنس",
+   "kokAnlam": "ünsiyet; insanlar",
+   "karsilik": "ve insanlardan"
+  },
+  {
+   "kelime": "أَجْمَعِينَ",
+   "okunus": "ecmeîne",
+   "kok": "جمع",
+   "kokAnlam": "toplama, hepsi",
+   "karsilik": "hepsiyle"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayetteki pişman suçluların isteğinin ardından bu ayet, iman etmemenin bir bilgi eksikliği değil bir tercih meselesi olduğunu hatırlatır. 'Dileseydik her nefse hidayetini verirdik' ifadesi, Allah'ın buna gücü yettiğini ama bunun insanın seçim özgürlüğünü ortadan kaldıracağı için tercih edilmediğini anlatır.",
+  "Ayetin devamı, cehennemin cinlerden ve insanlardan doldurulacağına dair kesinleşmiş bir sözü aktarır. Klasik tefsir bu ifadeyi, Allah'ın önceden bilgisiyle kimlerin kendi seçimleriyle inkârı tercih edeceğini bildiğine, ama bu bilginin kimseyi zorla inkâra sürüklemediğine işaret olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "6:35",
+   "meal": "Allah dileseydi elbette onların hepsini hidayet üzere toplardı.",
+   "baglanti": "En'âm suresi aynı 'dileseydi herkesi hidayete toplardı' gerçeğini vurgular; iman etmemenin zorla değil seçimle olduğunu hatırlatır."
+  },
+  {
+   "ref": "38:85",
+   "meal": "Cehennemi mutlaka seninle ve onlardan sana uyanların hepsiyle dolduracağım.",
+   "baglanti": "Sâd suresindeki bu ifade, Secde 13'teki 'cehennemi hepsiyle dolduracağım' sözünü, İblis'e verilen benzer bir kesin sözle tekrarlar."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu, hidayetin bir zorlama değil bir seçim meselesi olduğudur; bir davranış kuralı içermez.",
+  "Buradan çıkarılabilecek ders şudur: doğru yolu bulmak sana dışarıdan dayatılan bir şey değil, kendi tercihinle yöneldiğin bir şeydir. Bu bilinç, sorumluluğu başkasına atmak yerine kendi seçimlerine sahip çıkmayı öğretir."
+ ],
+ "bugun": [
+  {
+   "baslik": "Seçimine sahip çık",
+   "aciklama": "Bugün verdiğin bir kararın sorumluluğunu başkasına yıkmadan üstlen."
+  },
+  {
+   "baslik": "Doğru yolu bilinçle seç",
+   "aciklama": "Bugün kolay olanı değil, doğru olduğunu bildiğin yolu bilinçli olarak tercih et."
+  },
+  {
+   "baslik": "Nefsinin yoluna uyma",
+   "aciklama": "Bugün nefsinin seni çektiği kolay ama yanlış bir seçenekte durup düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün bir konuda kolay olanı değil, doğru bildiğini bilinçli olarak seç.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=32&verse=13"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/32/13"
+  }
+ ]
+}

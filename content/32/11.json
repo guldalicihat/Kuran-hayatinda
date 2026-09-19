@@ -1,0 +1,131 @@
+{
+ "sure": 32,
+ "ayet": 11,
+ "durum": "taslak",
+ "meal": "De ki: Size vekil kılınan ölüm meleği canınızı alacak, sonra Rabbinize döndürüleceksiniz.",
+ "mealNotu": "'Yeteveffâ' kökü can almayı, tam olarak alıp götürmeyi anlatır. 'Vükkile' vekil kılınmayı, görevlendirilmeyi ifade eder.",
+ "kokler": [
+  {
+   "kelime": "قُلْ",
+   "okunus": "kul",
+   "kok": "قول",
+   "kokAnlam": "söyleme",
+   "karsilik": "de ki"
+  },
+  {
+   "kelime": "يَتَوَفَّىٰكُم",
+   "okunus": "yeteveffâküm",
+   "kok": "وفي",
+   "kokAnlam": "tam alma, can alma",
+   "karsilik": "canınızı alacak"
+  },
+  {
+   "kelime": "مَّلَكُ",
+   "okunus": "melekü",
+   "kok": "ملك",
+   "kokAnlam": "melek",
+   "karsilik": "meleği"
+  },
+  {
+   "kelime": "ٱلْمَوْتِ",
+   "okunus": "elmevti",
+   "kok": "موت",
+   "kokAnlam": "ölüm",
+   "karsilik": "ölüm"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ki o",
+   "karsilik": "ki o"
+  },
+  {
+   "kelime": "وُكِّلَ",
+   "okunus": "vükkile",
+   "kok": "وكل",
+   "kokAnlam": "vekil kılınma, görevlendirilme",
+   "karsilik": "vekil kılınmıştır"
+  },
+  {
+   "kelime": "بِكُمْ",
+   "okunus": "biküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sizinle",
+   "karsilik": "size"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "إِلَىٰ",
+   "okunus": "ilâ",
+   "kok": "—",
+   "kokAnlam": "(edat) -e",
+   "karsilik": "-e"
+  },
+  {
+   "kelime": "رَبِّكُمْ",
+   "okunus": "rabbiküm",
+   "kok": "ربب",
+   "kokAnlam": "terbiye eden; Rab",
+   "karsilik": "Rabbinize"
+  },
+  {
+   "kelime": "تُرْجَعُونَ",
+   "okunus": "türceûne",
+   "kok": "رجع",
+   "kokAnlam": "geri döndürülme",
+   "karsilik": "döndürüleceksiniz"
+  }
+ ],
+ "neAnlatiyor": [
+  "Bir önceki ayet, yeniden dirilişi inkâr edip Rablerine kavuşmayı reddedenleri anlatmıştı; bu ayet, o kavuşmanın nasıl gerçekleşeceğinin ilk adımını hatırlatır: ölüm meleğinin canı alması. Ayet, ölümün rastgele değil, bu iş için görevlendirilmiş bir melek aracılığıyla gerçekleştiğini söyler.",
+  "Ayetin sonu 'sonra Rabbinize döndürüleceksiniz' diyerek ölümün son değil bir geçiş olduğunu vurgular. Bu, önceki ayetteki 'yeniden yaratılış mı olacağız' sorusuna dolaylı bir cevap niteliğindedir: ölüm, Rabbe dönüşün başlangıcıdır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "39:42",
+   "meal": "Allah, ölümleri anında canları alır; ölmeyenin canını da uykusunda alır.",
+   "baglanti": "Zümer suresi, can almanın Allah'ın dilemesiyle gerçekleştiğini anlatır; Secde 11'deki 'vekil kılınan melek' bu iradenin bir aracısıdır."
+  },
+  {
+   "ref": "6:61",
+   "meal": "Sizden birine ölüm geldiğinde, elçilerimiz (melekler) hiçbir eksiklik yapmadan onun canını alır.",
+   "baglanti": "En'âm suresi de can almanın görevlendirilmiş melekler aracılığıyla, eksiksiz bir şekilde gerçekleştiğini söyler; Secde 11'deki 'vekil kılınan' ifadesiyle aynı gerçeği anlatır."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ölümün nasıl gerçekleştiğidir; bir davranış kuralı içermez.",
+  "Yine de bugüne taşınabilecek bir bilinç var: ölüm, ne zaman geleceği bilinmeyen ama kesin olan bir gerçektir. Bu dünyadaki her şeyin geçici olduğunu, gerçek dönüşün Rabbine olacağını hatırlamak, günlük öncelikleri daha dengeli kurmaya yardımcı olur."
+ ],
+ "bugun": [
+  {
+   "baslik": "Ölümü unutma",
+   "aciklama": "Bugün bir anlığına ölümün kesinliğini hatırla; bu, seni tembellikten değil gafletten uzaklaştırsın."
+  },
+  {
+   "baslik": "Yarına bırakma",
+   "aciklama": "Yapman gereken önemli bir şeyi, 'zaman var' diye ertelemek yerine bugün yap."
+  },
+  {
+   "baslik": "Hesap bilinciyle davran",
+   "aciklama": "Bugün bir kararını, sonunda Rabbine döneceğini hatırlayarak ver."
+  }
+ ],
+ "bugununAdimi": "Bugün erteleyip durduğun bir işi, ölümün ne zaman geleceğini bilmediğini hatırlayarak yap.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=32&verse=11"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/32/11"
+  }
+ ]
+}

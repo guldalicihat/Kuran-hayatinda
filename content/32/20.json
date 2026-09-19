@@ -1,0 +1,201 @@
+{
+ "sure": 32,
+ "ayet": 20,
+ "durum": "taslak",
+ "meal": "Yoldan çıkanlara gelince, onların barınağı ateştir. Ondan her çıkmak istediklerinde oraya geri döndürülürler ve kendilerine 'Yalanlamakta olduğunuz ateşin azabını tadın' denir.",
+ "mealNotu": "'Fesekû' kökü aynı 'fâsık' kelimesiyle bağlantılıdır, yoldan çıkma anlamındadır. 'Üîdû' geri döndürülme fiilidir.",
+ "kokler": [
+  {
+   "kelime": "وَأَمَّا",
+   "okunus": "ve emmâ",
+   "kok": "—",
+   "kokAnlam": "(açıklama edatı) gelince",
+   "karsilik": "gelince"
+  },
+  {
+   "kelime": "ٱلَّذِينَ",
+   "okunus": "ellezîne",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) o kimseler ki",
+   "karsilik": "o kimseler"
+  },
+  {
+   "kelime": "فَسَقُوا۟",
+   "okunus": "fesekû",
+   "kok": "فسق",
+   "kokAnlam": "yoldan çıkma, itaat dışına çıkma",
+   "karsilik": "yoldan çıktılar"
+  },
+  {
+   "kelime": "فَمَأْوَىٰهُمُ",
+   "okunus": "feme'vâhümü",
+   "kok": "أوي",
+   "kokAnlam": "barınak, sığınılacak yer",
+   "karsilik": "onların barınağı"
+  },
+  {
+   "kelime": "ٱلنَّارِ",
+   "okunus": "ennâru",
+   "kok": "نور",
+   "kokAnlam": "ateş",
+   "karsilik": "ateştir"
+  },
+  {
+   "kelime": "كُلَّمَآ",
+   "okunus": "küllemâ",
+   "kok": "كلل",
+   "kokAnlam": "her defasında",
+   "karsilik": "her defasında"
+  },
+  {
+   "kelime": "أَرَادُوٓا۟",
+   "okunus": "erâdû",
+   "kok": "رود",
+   "kokAnlam": "isteme, arzu etme",
+   "karsilik": "istediklerinde"
+  },
+  {
+   "kelime": "أَن",
+   "okunus": "en",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) -mesini",
+   "karsilik": "-mesini"
+  },
+  {
+   "kelime": "يَخْرُجُوا۟",
+   "okunus": "yahrucû",
+   "kok": "خرج",
+   "kokAnlam": "çıkma",
+   "karsilik": "çıkmak"
+  },
+  {
+   "kelime": "مِنْهَآ",
+   "okunus": "minhâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) ondan",
+   "karsilik": "ondan"
+  },
+  {
+   "kelime": "أُعِيدُوا۟",
+   "okunus": "üîdû",
+   "kok": "عود",
+   "kokAnlam": "geri döndürülme, tekrarlanma",
+   "karsilik": "geri döndürülürler"
+  },
+  {
+   "kelime": "فِيهَا",
+   "okunus": "fîhâ",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onun içine",
+   "karsilik": "onun içine"
+  },
+  {
+   "kelime": "وَقِيلَ",
+   "okunus": "ve kîle",
+   "kok": "قول",
+   "kokAnlam": "söylenme",
+   "karsilik": "ve denir"
+  },
+  {
+   "kelime": "لَهُمْ",
+   "okunus": "lehüm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onlara",
+   "karsilik": "onlara"
+  },
+  {
+   "kelime": "ذُوقُوا۟",
+   "okunus": "zûkû",
+   "kok": "ذوق",
+   "kokAnlam": "tatma",
+   "karsilik": "tadın"
+  },
+  {
+   "kelime": "عَذَابَ",
+   "okunus": "azâbe",
+   "kok": "عذب",
+   "kokAnlam": "azap, eziyet",
+   "karsilik": "azabını"
+  },
+  {
+   "kelime": "ٱلنَّارِ",
+   "okunus": "ennâri",
+   "kok": "نور",
+   "kokAnlam": "ateş",
+   "karsilik": "ateşin"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ki onu",
+   "karsilik": "ki onu"
+  },
+  {
+   "kelime": "كُنتُم",
+   "okunus": "küntüm",
+   "kok": "كون",
+   "kokAnlam": "olma",
+   "karsilik": "olduğunuz"
+  },
+  {
+   "kelime": "بِهِۦ",
+   "okunus": "bihî",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) onu",
+   "karsilik": "onu"
+  },
+  {
+   "kelime": "تُكَذِّبُونَ",
+   "okunus": "tükezzibûne",
+   "kok": "كذب",
+   "kokAnlam": "yalanlama",
+   "karsilik": "yalanlamakta"
+  }
+ ],
+ "neAnlatiyor": [
+  "Önceki ayette müminlerin barınağı anlatılmıştı; bu ayet karşıt tarafın, yoldan çıkanların barınağını, ateşi anlatarak dengeyi tamamlar. 'Barınak' kelimesi her iki ayette de tekrarlanarak, iki grubun sonucu arasındaki keskin farkı vurgular.",
+  "Ayetteki 'her çıkmak istediklerinde geri döndürülürler' ifadesi, bu azabın geçici bir ceza değil, sürekli bir durum olduğunu anlatır. Klasik tefsir bu tekrarı, dünyada yalanlanan gerçeğin ahirette defalarca hatırlatılacağına işaret olarak açıklar."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "22:22",
+   "meal": "Oradan, her ne zaman üzüntüyle çıkmak isteseler, yine oraya geri döndürülürler.",
+   "baglanti": "Hac suresi de aynı 'çıkmak isteyip geri döndürülme' sahnesini, neredeyse aynı ifadeyle anlatır."
+  },
+  {
+   "ref": "4:56",
+   "meal": "Derileri her yandığında, azabı tatsınlar diye onları başka derilerle değiştiririz.",
+   "baglanti": "Nisâ suresi de cehennem azabının tekrarlanan, yenilenen bir nitelik taşıdığını anlatır; Secde 20'deki tekrar temasıyla örtüşür."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu ahiretteki bir ceza tasviridir; bir davranış kuralı içermez.",
+  "Buradan çıkarılabilecek ders şudur: bir yanlıştan kaçmaya çalışmak, o yanlışın kaynağını değiştirmeden mümkün olmaz. Kötü bir alışkanlıktan sadece anlık olarak uzaklaşmak yerine, kaynağıyla yüzleşmek kalıcı bir çözüm sağlar."
+ ],
+ "bugun": [
+  {
+   "baslik": "Kaynağıyla yüzleş",
+   "aciklama": "Bugün tekrar ettiğin bir hatanın asıl nedenini bulup ona çözüm ara."
+  },
+  {
+   "baslik": "Yalanlamaktan kaçın",
+   "aciklama": "Bugün doğruluğuna emin olmadığın bir şeyi kolayca yalanlamak yerine önce araştır."
+  },
+  {
+   "baslik": "Cehennemi hatırla",
+   "aciklama": "Bugün küçük gördüğün bir günahın, aslında ciddi bir sonucu olabileceğini bir an düşün."
+  }
+ ],
+ "bugununAdimi": "Bugün tekrar ettiğin bir yanlışın kaynağını bulup ona bir çözüm dene.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=32&verse=20"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/32/20"
+  }
+ ]
+}

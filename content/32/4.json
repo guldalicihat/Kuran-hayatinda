@@ -1,0 +1,222 @@
+{
+ "sure": 32,
+ "ayet": 4,
+ "durum": "taslak",
+ "meal": "Allah, gökleri, yeri ve ikisi arasındakileri altı günde yaratan, sonra Arş'a istiva edendir. Sizin için O'ndan başka ne bir dost ne bir şefaatçi vardır. Hâlâ düşünüp öğüt almaz mısınız?",
+ "mealNotu": "'İstevâ' kökü sözlükte denkleşme, doğrulma anlamına gelir; burada 'Arş'a istiva etti' şeklinde, herhangi bir cismani anlam yüklenmeden ayetin kendi ifadesiyle aktarıldı. Klasik tefsir bu ifadenin gerçek keyfiyetinin (nasıllığının) insan bilgisiyle kavranamayacağını, Allah'ın yaratıklara benzemediğini söyler. 'Altı gün' ifadesindeki 'gün' de insan takvimindeki gün gibi anlaşılmaz; nitekim 5. ayette bir 'gün'ün bin yıla denk tutulması, bu kelimenin burada insan ölçüsüyle sınırlı olmadığını gösterir.",
+ "kokler": [
+  {
+   "kelime": "ٱللَّهُ",
+   "okunus": "allâhü",
+   "kok": "أله",
+   "kokAnlam": "ilah; özel isim Allah",
+   "karsilik": "Allah"
+  },
+  {
+   "kelime": "ٱلَّذِى",
+   "okunus": "ellezî",
+   "kok": "—",
+   "kokAnlam": "(ilgi zamiri) ki o",
+   "karsilik": "ki O"
+  },
+  {
+   "kelime": "خَلَقَ",
+   "okunus": "haleka",
+   "kok": "خلق",
+   "kokAnlam": "yoktan var etme, yaratma",
+   "karsilik": "yarattı"
+  },
+  {
+   "kelime": "ٱلسَّمَٰوَٰتِ",
+   "okunus": "essemâvâti",
+   "kok": "سمو",
+   "kokAnlam": "yükseklik; gök",
+   "karsilik": "gökleri"
+  },
+  {
+   "kelime": "وَٱلْأَرْضَ",
+   "okunus": "vel erda",
+   "kok": "أرض",
+   "kokAnlam": "yer, toprak",
+   "karsilik": "ve yeri"
+  },
+  {
+   "kelime": "وَمَا",
+   "okunus": "ve mâ",
+   "kok": "—",
+   "kokAnlam": "(ilgi) ve şey",
+   "karsilik": "ve şeyleri"
+  },
+  {
+   "kelime": "بَيْنَهُمَا",
+   "okunus": "beynehümâ",
+   "kok": "بين",
+   "kokAnlam": "ara, ikisi arası",
+   "karsilik": "ikisi arasındaki"
+  },
+  {
+   "kelime": "فِى",
+   "okunus": "fî",
+   "kok": "—",
+   "kokAnlam": "(edat) içinde",
+   "karsilik": "içinde"
+  },
+  {
+   "kelime": "سِتَّةِ",
+   "okunus": "sitteti",
+   "kok": "ستت",
+   "kokAnlam": "altı sayısı",
+   "karsilik": "altı"
+  },
+  {
+   "kelime": "أَيَّامٍ",
+   "okunus": "eyyâmin",
+   "kok": "يوم",
+   "kokAnlam": "gün",
+   "karsilik": "günde"
+  },
+  {
+   "kelime": "ثُمَّ",
+   "okunus": "sümme",
+   "kok": "—",
+   "kokAnlam": "(bağlaç) sonra",
+   "karsilik": "sonra"
+  },
+  {
+   "kelime": "ٱسْتَوَىٰ",
+   "okunus": "istevâ",
+   "kok": "سوي",
+   "kokAnlam": "denkleşme, doğrulma; istiva etme",
+   "karsilik": "istiva etti"
+  },
+  {
+   "kelime": "عَلَى",
+   "okunus": "alâ",
+   "kok": "—",
+   "kokAnlam": "(edat) üzerine",
+   "karsilik": "üzerine"
+  },
+  {
+   "kelime": "ٱلْعَرْشِ",
+   "okunus": "el'arşi",
+   "kok": "عرش",
+   "kokAnlam": "yüksek taht, Arş",
+   "karsilik": "Arş'a"
+  },
+  {
+   "kelime": "مَا",
+   "okunus": "mâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) yok",
+   "karsilik": "yoktur"
+  },
+  {
+   "kelime": "لَكُم",
+   "okunus": "leküm",
+   "kok": "—",
+   "kokAnlam": "(edat + zamir) sizin için",
+   "karsilik": "sizin için"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) -den",
+   "karsilik": "-den"
+  },
+  {
+   "kelime": "دُونِهِۦ",
+   "okunus": "dûnihî",
+   "kok": "دون",
+   "kokAnlam": "ondan başka, aşağısında",
+   "karsilik": "O'ndan başka"
+  },
+  {
+   "kelime": "مِن",
+   "okunus": "min",
+   "kok": "—",
+   "kokAnlam": "(edat) hiçbir",
+   "karsilik": "hiçbir"
+  },
+  {
+   "kelime": "وَلِىٍّ",
+   "okunus": "veliyyin",
+   "kok": "ولي",
+   "kokAnlam": "yakınlık, dostluk; veli, dost",
+   "karsilik": "dost"
+  },
+  {
+   "kelime": "وَلَا",
+   "okunus": "ve lâ",
+   "kok": "—",
+   "kokAnlam": "(olumsuzluk) ve yok",
+   "karsilik": "ne de"
+  },
+  {
+   "kelime": "شَفِيعٍ",
+   "okunus": "şefîin",
+   "kok": "شفع",
+   "kokAnlam": "aracılık, şefaat",
+   "karsilik": "bir şefaatçi"
+  },
+  {
+   "kelime": "أَفَلَا",
+   "okunus": "efelâ",
+   "kok": "—",
+   "kokAnlam": "(soru + olumsuzluk) hâlâ -mez mi",
+   "karsilik": "hâlâ -mez misiniz"
+  },
+  {
+   "kelime": "تَتَذَكَّرُونَ",
+   "okunus": "tetezekkerûne",
+   "kok": "ذكر",
+   "kokAnlam": "hatırlama, düşünüp öğüt alma",
+   "karsilik": "düşünüp öğüt alırsınız"
+  }
+ ],
+ "neAnlatiyor": [
+  "Ayet, Kitabın gerçekliğine karşı çıkanlara, onu gönderenin kim olduğunu hatırlatır: gökleri, yeri ve ikisi arasındakileri altı günde yaratan Allah. Buradaki 'gün', insanın bildiği yirmi dört saatlik gün gibi sınırlı bir ölçü olarak anlaşılmaz; nitekim aynı surenin 5. ayetinde bir 'gün'ün insan hesabıyla bin yıla denk tutulması, bu kelimenin Allah katındaki kullanımının insan takviminden farklı olduğunu gösterir.",
+  "Ardından gelen 'Arş'a istiva etti' ifadesi hakkında klasik tefsir, bunun Allah'ın yaratıklara benzemeyen bir sıfatı olduğunu, gerçek mahiyetinin bilinemeyeceğini söyler; ayet cismani bir anlam yüklenmeden, kendi ifadesiyle bırakılır. Ayetin devamı, O'ndan başka gerçek bir dost ya da şefaatçi olmadığını vurgulayarak düşünmeye çağırır."
+ ],
+ "kuraniKurana": [
+  {
+   "ref": "7:54",
+   "meal": "Şüphesiz Rabbiniz, gökleri ve yeri altı günde yaratan, sonra Arş'a istiva eden Allah'tır.",
+   "baglanti": "A'raf suresi neredeyse aynı ifadeyle bu yaratılış ve istiva bilgisini tekrarlar; bu, Kur'an'da birden çok yerde geçen sabit bir formüldür."
+  },
+  {
+   "ref": "57:4",
+   "meal": "Gökleri ve yeri altı günde yaratan, sonra Arş'a istiva eden O'dur... nerede olursanız olun O sizinle beraberdir.",
+   "baglanti": "Hadîd suresi aynı yaratılış-istiva ifadesinin ardından Allah'ın her yerde ilmiyle beraber olduğunu ekler; bu da istivanın mekâna hapsedilecek bir anlam taşımadığını gösterir."
+  }
+ ],
+ "gunlukHayat": [
+  "Ayetin doğrudan konusu Allah'ın yaratma gücü ve büyüklüğüdür; bir hukuk ya da davranış kuralı içermez.",
+  "Yine de çıkarılabilecek bir tutum var: büyük ve kapsamlı bir işi bile düzenli aşamalarla tamamlamak mümkündür. 'Altı günde yaratma' ifadesi, en büyük işlerin bile bir düzen ve süreç içinde gerçekleştiğini hatırlatır; sen de büyük bir hedefi aşamalara bölerek ilerleyebilirsin."
+ ],
+ "bugun": [
+  {
+   "baslik": "Büyük işi aşamalara böl",
+   "aciklama": "Bugün ertelediğin büyük bir işi, birkaç küçük aşamaya ayırıp ilk aşamayı bitir."
+  },
+  {
+   "baslik": "Gökyüzüne bak ve düşün",
+   "aciklama": "Bugün birkaç dakika gökyüzüne bakıp yaratılışın büyüklüğü üzerine sessizce düşün."
+  },
+  {
+   "baslik": "Dayanağını gözden geçir",
+   "aciklama": "Zor bir günde kime güvendiğini düşün; gerçek dayanağının kim olduğunu hatırla."
+  }
+ ],
+ "bugununAdimi": "Bugün ertelediğin bir işi üç küçük adıma böl ve ilk adımı bugün tamamla.",
+ "kaynaklar": [
+  {
+   "ad": "Quranic Arabic Corpus, kelime kelime çözümleme",
+   "url": "https://corpus.quran.com/wordbyword.jsp?chapter=32&verse=4"
+  },
+  {
+   "ad": "Quran.com, ayet sayfası",
+   "url": "https://quran.com/32/4"
+  }
+ ]
+}
