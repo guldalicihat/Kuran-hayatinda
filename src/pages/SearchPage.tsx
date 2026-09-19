@@ -30,20 +30,49 @@ function snippet(text: string, q: string, radius = 60): string {
   return (start > 0 ? '…' : '') + text.slice(start, end) + (end < text.length ? '…' : '')
 }
 
+const Q_KEY = 'kh:search-q'
+const SCROLL_KEY = 'kh:search-scroll'
+function readQuery(): string {
+  try { return sessionStorage.getItem(Q_KEY) || '' } catch { return '' }
+}
+function writeQuery(q: string) {
+  try { sessionStorage.setItem(Q_KEY, q) } catch { /* yoksay */ }
+}
+function readScrollY(): number {
+  try { return Number(sessionStorage.getItem(SCROLL_KEY)) || 0 } catch { return 0 }
+}
+function writeScrollY(y: number) {
+  try { sessionStorage.setItem(SCROLL_KEY, String(y)) } catch { /* yoksay */ }
+}
+
 interface Result { sure: number; ayet: number; okunus: string; meal?: string; matchField: 'okunus' | 'meal' | 'extra' | 'ref'; extra?: string }
 
 export default function SearchPage() {
-  const [q, setQ] = useState('')
+  const [q, setQ] = useState(readQuery)
   const dq = useDeferredValue(q)
   const inputRef = useRef<HTMLInputElement>(null)
   const [rows, setRows] = useState<SearchRow[]>([])
   const [chapters, setChapters] = useState<Chapter[]>([])
   const [contentRows, setContentRows] = useState<ContentSearchRow[]>([])
+  const restored = useRef(false)
+  const setQuery = (v: string) => { setQ(v); writeQuery(v) }
   useEffect(() => {
     loadSearch().then(setRows)
     loadChapters().then(setChapters)
     loadContentSearch().then(setContentRows)
   }, [])
+  useEffect(() => {
+    const onScroll = () => writeScrollY(window.scrollY)
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+  useEffect(() => {
+    if (!restored.current && rows.length > 0) {
+      restored.current = true
+      const y = readScrollY()
+      if (y) requestAnimationFrame(() => window.scrollTo(0, y))
+    }
+  }, [rows])
   const name = (n: number) => chapters.find(c => c.n === n)?.ad ?? String(n)
   const content = useMemo(() => {
     const m = new Map<string, { meal: string; extra: string }>()
@@ -74,9 +103,9 @@ export default function SearchPage() {
   const box = (
     <label className="flex items-center gap-3 rounded-full px-4 card border hairline tap" style={{ boxShadow: empty ? '0 1px 6px rgba(0,0,0,.08)' : undefined, paddingTop: empty ? 14 : 10, paddingBottom: empty ? 14 : 10 }}>
       <SearchIcon size={empty ? 20 : 18} />
-      <input ref={inputRef} value={q} onChange={e => setQ(e.target.value)} placeholder="Kur'anda ara"
+      <input ref={inputRef} value={q} onChange={e => setQuery(e.target.value)} placeholder="Kur'anda ara"
         className="flex-1 bg-transparent outline-none" style={{ fontSize: empty ? 17 : 16 }} />
-      {q && <button onClick={() => { setQ(''); inputRef.current?.focus() }} className="muted text-sm tap">Temizle</button>}
+      {q && <button onClick={() => { setQuery(''); inputRef.current?.focus() }} className="muted text-sm tap">Temizle</button>}
     </label>
   )
   return (

@@ -48,7 +48,7 @@ export default function SurahPage() {
   const nextCh = orderIdx >= 0 && orderIdx < ordered.length - 1 ? ordered[orderIdx + 1] : undefined
   return (
     <div className="safe-bottom">
-      <Header title={ch?.ad ?? '…'} back="/" backLabel="Sureler" />
+      <Header title={ch?.ad ?? '…'} back={loc.key !== 'default' ? '' : '/'} backLabel={loc.key !== 'default' ? 'Geri' : 'Sureler'} />
       <FilterInput value={q} onChange={setQ} />
       {ch && (
         <p className="px-4 pb-2 text-xs muted">{ch.tip === 'mekki' ? 'Mekki' : 'Medeni'} · İniş sırası {ch.nuzul} · {ch.ayet} ayet · <span className="arabic inline text-[1.1em]" style={{ direction: 'rtl' }}>{ch.ar}</span></p>

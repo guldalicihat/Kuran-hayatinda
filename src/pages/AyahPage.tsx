@@ -112,9 +112,10 @@ export default function AyahPage() {
       try { await navigator.clipboard.writeText(`${text}\n${url}`); setCopied(true); setTimeout(() => setCopied(false), 2000) } catch { /* pano erişimi yok */ }
     }
   }
+  const canGoBack = location.key !== 'default'
   return (
     <div className="safe-bottom">
-      <Header title={ch ? `${ch.ad} ${a}` : '…'} back={`/sure/${n}`} backLabel={ch?.ad ?? 'Sure'} />
+      <Header title={ch ? `${ch.ad} ${a}` : '…'} back={canGoBack ? '' : `/sure/${n}`} backLabel={canGoBack ? 'Geri' : (ch?.ad ?? 'Sure')} />
       {ayah && (
         <>
           <section className="card border-b hairline px-4 py-4">
