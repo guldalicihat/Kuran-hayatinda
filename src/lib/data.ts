@@ -1,4 +1,4 @@
-import type { Chapter, Content, ContentIndex, ContentSearchRow, MealMap, SearchRow, Surah } from './types'
+import type { Chapter, Content, ContentIndex, ContentSearchRow, MealMap, SearchRow, Surah, TopicsData } from './types'
 import type { Sort } from './settings'
 
 const base = import.meta.env.BASE_URL
@@ -18,6 +18,7 @@ export const loadContentIndex = () => get<ContentIndex>('content/index.json').ca
 export const loadMeals = (n: number) => get<MealMap>(`data/meal/${n}.json`).catch(() => ({} as MealMap))
 export const loadContentSearch = () => get<ContentSearchRow[]>('data/content-search.json').catch(() => [] as ContentSearchRow[])
 export const loadContent = (s: number, a: number) => get<Content>(`content/${s}/${a}.json`)
+export const loadTopics = () => get<TopicsData>('data/topics.json').catch(() => ({ konular: [], ayetler: {} } as TopicsData))
 
 export function parseRef(ref: string): [number, number] | null {
   const m = ref.match(/^(\d+):(\d+)$/)

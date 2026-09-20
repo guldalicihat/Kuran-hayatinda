@@ -4,6 +4,7 @@ import SurahList from './pages/SurahList'
 import SurahPage from './pages/SurahPage'
 import AyahPage from './pages/AyahPage'
 import SearchPage from './pages/SearchPage'
+import AskPage from './pages/AskPage'
 import FavoritesPage from './pages/FavoritesPage'
 import SettingsPage from './pages/SettingsPage'
 
@@ -15,6 +16,7 @@ export default function App() {
         <Route path="/sure/:n" element={<SurahPage />} />
         <Route path="/sure/:n/:a" element={<AyahPage />} />
         <Route path="/ara" element={<SearchPage />} />
+        <Route path="/sor" element={<AskPage />} />
         <Route path="/favorilerim" element={<FavoritesPage />} />
         <Route path="/ayarlar" element={<SettingsPage />} />
       </Routes>

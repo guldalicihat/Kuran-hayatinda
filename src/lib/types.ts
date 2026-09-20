@@ -21,3 +21,5 @@ export type ContentIndex = Record<string, number[]>
 export type MealMap = Record<string, string>
 export type SearchRow = [number, number, string]
 export type ContentSearchRow = [sure: number, ayet: number, meal: string, extra: string]
+export interface Topic { id: string; ad: string; ornek: string; anahtar: string[]; ayetler: [sure: number, ayet: number, puan: number][] }
+export interface TopicsData { konular: Topic[]; ayetler: Record<string, { d: 'taslak' | 'incelendi'; b: string }> }

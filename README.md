@@ -10,6 +10,7 @@ Site: https://kuranhayatimda.com/ (eski adres https://guldalicihat.github.io/Kur
 - Ayet sayfası: 1) meal ve kaynak notu, kelime kökleri tablosu, 2) ayet ne anlatıyor, 3) Kur'an'ı Kur'an'a sor, 4) günlük hayatla bağlantısı, 5) bugün ne yapabilirsin, bugünün adımı.
 - Etiketler ve notlar: cihazda saklanır, Ayarlar'dan yedeklenir.
 - Ara: okunuşta ve hazır meallerde arama, `8:65` biçiminde doğrudan gitme.
+- Sor: yaşanan durumu kendi cümlesiyle yazan kullanıcıya ilgili ayetleri (meal, taslak/incelendi rozeti, "bugün" adımı) konu sözlüğü ve metin eşleşmesiyle listeler; model kullanmaz, cihazda çalışır, fetva vermez.
 - Ayarlar: aydınlık/karanlık, sıralama, yazı ve Arapça boyutu, yazı tipleri.
 - PWA: ana ekrana eklenebilir, ziyaret edilen sureler çevrimdışı açılır.
 
@@ -22,6 +23,8 @@ scripts/translit.py             harekeli Arapça -> Türkçe okunuş
 scripts/build_data.py           public/data/{chapters,search}.json ve surah/*.json üretir
 content/{sure}/{ayet}.json      ayet açıklamaları (düzenlenebilir kaynak)
 scripts/build_content.py        content/ -> public/content ve public/data/meal
+data/konular.json               Sor sayfası konu sözlüğü (id, ad, örnek, anahtar kökler)
+scripts/build_topics.py         data/konular.json + content/ -> public/data/topics.json (konu -> ayet listesi)
 scripts/check_data.py           veri ve içerik doğrulaması
 src/                            React uygulaması
 ```
@@ -30,6 +33,7 @@ src/                            React uygulaması
 ```
 python3 scripts/build_data.py
 python3 scripts/build_content.py
+python3 scripts/build_topics.py
 python3 scripts/check_data.py
 npm install
 npm run dev
