@@ -1,9 +1,9 @@
-import { Route, Routes } from 'react-router-dom'
+import { Navigate, Route, Routes } from 'react-router-dom'
 import TabBar from './components/TabBar'
 import SurahList from './pages/SurahList'
 import SurahPage from './pages/SurahPage'
 import AyahPage from './pages/AyahPage'
-import SearchPage from './pages/SearchPage'
+import CommunityPage from './pages/CommunityPage'
 import AskPage from './pages/AskPage'
 import FavoritesPage from './pages/FavoritesPage'
 import SettingsPage from './pages/SettingsPage'
@@ -15,7 +15,8 @@ export default function App() {
         <Route path="/" element={<SurahList />} />
         <Route path="/sure/:n" element={<SurahPage />} />
         <Route path="/sure/:n/:a" element={<AyahPage />} />
-        <Route path="/ara" element={<SearchPage />} />
+        <Route path="/ara" element={<Navigate to="/sor" replace />} />
+        <Route path="/topluluk" element={<CommunityPage />} />
         <Route path="/sor" element={<AskPage />} />
         <Route path="/favorilerim" element={<FavoritesPage />} />
         <Route path="/ayarlar" element={<SettingsPage />} />
