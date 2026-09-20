@@ -1,5 +1,5 @@
-import { useEffect, useMemo, useState } from 'react'
-import { Link, useLocation, useParams } from 'react-router-dom'
+import { useEffect, useMemo, useRef, useState } from 'react'
+import { Link, useLocation, useNavigationType, useParams } from 'react-router-dom'
 import Header from '../components/Header'
 import FilterInput from '../components/FilterInput'
 import AyetCard from '../components/AyetCard'
@@ -9,19 +9,35 @@ import { useLastRead } from '../lib/store'
 import { useSettings } from '../lib/settings'
 import { usePageMeta } from '../lib/seo'
 
+const SCROLL_KEY = 'kh:surah-scroll'
+function readScrollMap(): Record<string, number> {
+  try { return JSON.parse(sessionStorage.getItem(SCROLL_KEY) || '{}') } catch { return {} }
+}
+function writeScrollY(path: string, y: number) {
+  try { const map = readScrollMap(); map[path] = y; sessionStorage.setItem(SCROLL_KEY, JSON.stringify(map)) } catch { /* yoksay */ }
+}
+
 function norm(s: string) { return s.toLocaleLowerCase('tr').replace(/[âîû']/g, c => ({ 'â': 'a', 'î': 'i', 'û': 'u', "'": '' }[c] ?? c)) }
 
 export default function SurahPage() {
   const n = Number(useParams().n)
   const loc = useLocation()
+  const navType = useNavigationType()
+  const pathRef = useRef(loc.pathname); pathRef.current = loc.pathname
   const [surah, setSurah] = useState<Surah | null>(null)
   const [ch, setCh] = useState<Chapter | undefined>()
   const [chapters, setChapters] = useState<Chapter[]>([])
   const [meals, setMeals] = useState<MealMap>({})
   const [idx, setIdx] = useState<ContentIndex>({})
   const [q, setQ] = useState('')
-  const { mark } = useLastRead()
+  const { last, mark } = useLastRead()
   const { s: settings } = useSettings()
+  // Kaydırma konumunu sure yoluna göre sakla (main.tsx scrollRestoration=manual olduğu için elle).
+  useEffect(() => {
+    const onScroll = () => writeScrollY(pathRef.current, window.scrollY)
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
   useEffect(() => {
     setSurah(null)
     loadSurah(n).then(setSurah)
@@ -31,9 +47,22 @@ export default function SurahPage() {
   }, [n])
   useEffect(() => {
     if (!surah) return
+    if (navType === 'POP') {
+      // Ayet açıklamasından (tarayıcı geri / Geri düğmesi / sağa kaydırma) dönüş: kaldığın yere dön,
+      // "son okunan" kaydını bozma. Kayıtlı konum yoksa aynı surede son okunan ayete git.
+      const y = readScrollMap()[loc.pathname]
+      // İlk açılışta (paylaşılan bağlantı, yeni sekme) son okunan ayete sıçrama; yalnız geçmiş içinde dönüşte.
+      const lastA = loc.key !== 'default' && last && last.s === n ? last.a : 0
+      requestAnimationFrame(() => {
+        if (y) window.scrollTo(0, y)
+        else if (lastA > 1) document.getElementById(`a${lastA}`)?.scrollIntoView({ block: 'start' })
+      })
+      return
+    }
     const hash = loc.hash || (loc.state as { a?: number } | null)?.a
     const target = typeof hash === 'string' ? hash.replace('#', '') : hash ? `a${hash}` : ''
     if (target) document.getElementById(target)?.scrollIntoView({ block: 'start' })
+    else window.scrollTo(0, 0)
     mark(n, target ? Number(target.replace('a', '')) || 1 : 1)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [surah])
