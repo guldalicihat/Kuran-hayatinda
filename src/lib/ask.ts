@@ -92,5 +92,5 @@ export function rankVerses(q: string, data: TopicsData, rows: PreparedRow[], top
       if (hits) add(s, a, p * (hits === stems.length ? 1.5 : 1), undefined, true)
     }
   }
-  return Array.from(acc.values()).sort((x, y) => y.puan - x.puan || x.sure - y.sure || x.ayet - y.ayet).slice(0, 12)
+  return Array.from(acc.values()).sort((x, y) => y.puan - x.puan || x.sure - y.sure || x.ayet - y.ayet).slice(0, 10)
 }
