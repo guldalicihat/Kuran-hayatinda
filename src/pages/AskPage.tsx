@@ -118,10 +118,26 @@ export default function AskPage() {
           </div>
         )}
         {empty && (
-          <div data-testid="iyilik-koprusu" className="mt-4 w-full max-w-[460px] rounded-2xl px-4 py-3.5 text-[14px] leading-snug" style={{ background: 'var(--accent-soft)' }}>
-            <p className="font-semibold mb-1">Bir ihtiyacın varsa ya da yardım edebilirsen</p>
-            <p className="muted mb-3">İyilik Köprüsü: Telegram kanalımızda yardım talepleri gönüllülerle buluşuyor. Para toplanmaz, para talebi alınmaz; kimlik istenmez.</p>
-            <a href={BAGLANTILAR.telegramKanal} target="_blank" rel="noopener noreferrer" className="inline-block rounded-full px-4 py-2 font-medium tap" style={{ background: 'var(--accent)', color: '#fff' }}>✈️ Telegram'da aç</a>
+          <div data-testid="iyilik-koprusu" className="mt-5 w-full max-w-[460px] rounded-2xl overflow-hidden card border hairline" style={{ boxShadow: '0 4px 18px rgba(0,0,0,.06)' }}>
+            <div className="px-4 pt-4 pb-3">
+              <p className="text-[12px] muted uppercase tracking-wide mb-1">Telegram'da</p>
+              <h2 className="text-[19px] font-semibold tracking-tight leading-tight mb-3">Kur'an Hayatında topluluğu</h2>
+              <ul className="space-y-2 text-[14px] leading-snug">
+                <li className="flex gap-2.5"><span className="shrink-0" aria-hidden>🌅</span><span><b>Her sabah bir ayet, bir adım.</b> Günlük hayata dokunan kısa bir mesaj.</span></li>
+                <li className="flex gap-2.5"><span className="shrink-0" aria-hidden>🤝</span><span><b>İyilik Köprüsü.</b> Yardım iste ya da gönüllü ol; para toplanmaz, kimlik istenmez.</span></li>
+                <li className="flex gap-2.5"><span className="shrink-0" aria-hidden>🕌</span><span><b>Namazda buluşuyoruz.</b> Hafta sonu sabah namazı buluşmaları ve duyurular; aileniz ve çocuklarınızla gelin.</span></li>
+              </ul>
+            </div>
+            <div className="px-4 pb-4">
+              <a href={BAGLANTILAR.telegramKanal} target="_blank" rel="noopener noreferrer"
+                className="flex items-center justify-center gap-2 w-full rounded-xl py-3 text-[16px] font-semibold tap"
+                style={{ background: 'var(--accent)', color: '#fff', boxShadow: '0 4px 14px rgba(154,91,11,.28)' }}>
+                ✈️ Kanala katıl <span className="opacity-80 font-normal text-[14px]">· t.me/kuranhayatimda</span>
+              </a>
+              <a href={BAGLANTILAR.telegramBot} target="_blank" rel="noopener noreferrer" className="block text-center text-[13px] accent mt-2.5 tap">
+                Yardım istemek veya gönüllü olmak için doğrudan bota yaz ›
+              </a>
+            </div>
           </div>
         )}
       </div>
