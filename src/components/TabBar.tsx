@@ -10,7 +10,7 @@ const tabs = [
 export default function TabBar() {
   return (
     <nav className="fixed bottom-0 left-0 right-0 z-30 bg-bar border-t hairline" style={{ paddingBottom: 'env(safe-area-inset-bottom)' }}>
-      <div className="mx-auto max-w-[560px] flex justify-around">
+      <div className="mx-auto max-w-[560px] md:max-w-[700px] lg:max-w-[860px] flex justify-around">
         {tabs.map(t => (
           <NavLink key={t.to} to={t.to} end={t.to === '/'} className={({ isActive }) => `flex flex-col items-center gap-0.5 py-1.5 px-2 text-[11px] tap ${isActive ? 'accent' : 'muted'}`}>
             <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round">{t.icon}</svg>

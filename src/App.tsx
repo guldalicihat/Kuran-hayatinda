@@ -9,7 +9,7 @@ import SettingsPage from './pages/SettingsPage'
 
 export default function App() {
   return (
-    <div className="mx-auto max-w-[560px] min-h-screen relative">
+    <div className="mx-auto max-w-[560px] md:max-w-[700px] lg:max-w-[860px] min-h-screen relative">
       <Routes>
         <Route path="/" element={<SurahList />} />
         <Route path="/sure/:n" element={<SurahPage />} />

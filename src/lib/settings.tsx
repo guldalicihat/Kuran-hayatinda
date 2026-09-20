@@ -30,10 +30,19 @@ const DEFAULTS: Settings = {
   theme: 'light', sort: 'nuzul', showMealName: false, fontSize: 16, latinFont: 'system',
   arabicSize: 26, arabicFont: 'amiri', layers: ['okunus', 'meal', 'ar'], hidden: [],
 }
+/** İlk ziyarette ekran genişliğine göre okunaklı bir yazı boyutu önerir (tablet/masaüstünde biraz daha büyük); kullanıcı "Aa" ile değiştirdikten sonra bu değer korunur, tekrar hesaplanmaz. */
+function responsiveFontDefaults(): Pick<Settings, 'fontSize' | 'arabicSize'> {
+  if (typeof window === 'undefined') return { fontSize: DEFAULTS.fontSize, arabicSize: DEFAULTS.arabicSize }
+  const w = window.innerWidth
+  if (w >= 1024) return { fontSize: 18, arabicSize: 30 }
+  if (w >= 768) return { fontSize: 17, arabicSize: 28 }
+  return { fontSize: DEFAULTS.fontSize, arabicSize: DEFAULTS.arabicSize }
+}
 const KEY = 'kh:settings'
 function load(): Settings {
-  try { const raw = localStorage.getItem(KEY); if (raw) return { ...DEFAULTS, ...JSON.parse(raw) } } catch { /* yoksay */ }
-  return DEFAULTS
+  const base = { ...DEFAULTS, ...responsiveFontDefaults() }
+  try { const raw = localStorage.getItem(KEY); if (raw) return { ...base, ...JSON.parse(raw) } } catch { /* yoksay */ }
+  return base
 }
 const Ctx = createContext<{ s: Settings; set: (p: Partial<Settings>) => void }>({ s: DEFAULTS, set: () => {} })
 
