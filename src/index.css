@@ -33,6 +33,13 @@
   --accent-soft: #2a2114;
 }
 html, body { background: var(--bg); color: var(--text); overflow-x: hidden; }
+html {
+  /* Android Chrome'un bazı sayfalarda metni otomatik büyütüp küçültme
+     ("font boosting") davranışını kapatır; yazı boyutu her cihazda
+     CSS'te yazdığımız değerle birebir eşleşsin diye. */
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
 body {
   font-family: var(--font-latin);
   font-size: var(--size-latin);
