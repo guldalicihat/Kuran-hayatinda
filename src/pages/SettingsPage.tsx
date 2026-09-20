@@ -1,6 +1,7 @@
 import Header from '../components/Header'
 import Segmented from '../components/Segmented'
 import { ARABIC_FONTS, LATIN_FONTS, useSettings, type Layer } from '../lib/settings'
+import { BAGLANTILAR } from '../lib/baglantilar'
 
 const LAYER_AD: Record<Layer, string> = { okunus: 'Okunuş', meal: 'Meal', ar: 'Arapça' }
 
@@ -64,6 +65,22 @@ export default function SettingsPage() {
       <Row>
         <p className="font-medium mb-1">Hakkında</p>
         <p className="text-sm muted leading-relaxed">Arapça metin: Tanzil Uthmani. Kelime kökleri: Quranic Arabic Corpus. Okunuş: harekeli metinden kurala dayalı üretim. Meal ve açıklamalar: doğrulanmış köklerden yapay zekâ desteğiyle hazırlanan metinler. Ayrıntı için depodaki KAYNAKLAR.md dosyasına bakın.</p>
+      </Row>
+      <Row>
+        <p className="font-medium mb-1">Bağlantılar</p>
+        <ul data-testid="baglantilar" className="text-[15px]">
+          {[
+            { ad: '✈️ Telegram kanalı · Kur\'an Hayatında', url: BAGLANTILAR.telegramKanal },
+            { ad: '🤝 İyilik Köprüsü botu (yardım iste / gönüllü ol)', url: BAGLANTILAR.telegramBot },
+            { ad: '𝕏 @kuranhayatimda', url: BAGLANTILAR.x },
+          ].map(b => (
+            <li key={b.url}>
+              <a href={b.url} target="_blank" rel="noopener noreferrer" className="flex items-center justify-between py-2 tap">
+                <span>{b.ad}</span><span className="accent">›</span>
+              </a>
+            </li>
+          ))}
+        </ul>
       </Row>
     </div>
   )

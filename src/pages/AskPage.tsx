@@ -4,6 +4,7 @@ import Header from '../components/Header'
 import { loadChapters, loadContentSearch, loadTopics, parseRef } from '../lib/data'
 import { prepareRows, rankVerses, scoreTopics } from '../lib/ask'
 import { usePageMeta } from '../lib/seo'
+import { BAGLANTILAR } from '../lib/baglantilar'
 import type { Chapter, ContentSearchRow, TopicsData } from '../lib/types'
 
 const Q_KEY = 'kh:ask-q'
@@ -114,6 +115,13 @@ export default function AskPage() {
               <li className="flex gap-2"><span className="accent">•</span><span>Her ayette <b>Taslak</b> ya da <b>İncelendi</b> rozeti bulunur; taslak açıklamalar henüz insan incelemesinden geçmemiştir.</span></li>
               <li className="flex gap-2"><span className="accent">•</span><span>Bu bir okuma yardımıdır, fetva değildir. Hüküm gerektiren konularda bir âlime danışın.</span></li>
             </ul>
+          </div>
+        )}
+        {empty && (
+          <div data-testid="iyilik-koprusu" className="mt-4 w-full max-w-[460px] rounded-2xl px-4 py-3.5 text-[14px] leading-snug" style={{ background: 'var(--accent-soft)' }}>
+            <p className="font-semibold mb-1">Bir ihtiyacın varsa ya da yardım edebilirsen</p>
+            <p className="muted mb-3">İyilik Köprüsü: Telegram kanalımızda yardım talepleri gönüllülerle buluşuyor. Para toplanmaz, para talebi alınmaz; kimlik istenmez.</p>
+            <a href={BAGLANTILAR.telegramKanal} target="_blank" rel="noopener noreferrer" className="inline-block rounded-full px-4 py-2 font-medium tap" style={{ background: 'var(--accent)', color: '#fff' }}>✈️ Telegram'da aç</a>
           </div>
         )}
       </div>
