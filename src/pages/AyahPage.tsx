@@ -136,6 +136,7 @@ export default function AyahPage() {
             {content.mealNotu && <p className="muted text-[0.95em]">{content.mealNotu}</p>}
           </Section>
           <Section title="Kelime kökleri">
+            <div className="overflow-x-auto">
             <table className="w-full text-[0.95em]">
               <tbody>
                 {content.kokler.map((k, i) => (
@@ -149,6 +150,7 @@ export default function AyahPage() {
                 ))}
               </tbody>
             </table>
+            </div>
           </Section>
           <Section no="2." title="Ayet ne anlatıyor?">{content.neAnlatiyor.map((t, i) => <p key={i}>{t}</p>)}</Section>
           <Section no="3." title="Kur'an'ı Kur'an'a sor">
@@ -190,6 +192,7 @@ export default function AyahPage() {
             <p className="muted">Bu ayetin kök temelli meali ve açıklaması henüz hazırlanmadı. Aşağıda Quranic Arabic Corpus verisinden gelen kelime kökleri görüntüleniyor.</p>
           </section>
           <Section title="Kelime kökleri (ham veri)">
+            <div className="overflow-x-auto">
             <table className="w-full text-[0.95em]">
               <tbody>
                 {ayah.kelimeler.map((k, i) => (
@@ -203,6 +206,7 @@ export default function AyahPage() {
                 ))}
               </tbody>
             </table>
+            </div>
           </Section>
         </>
       )}

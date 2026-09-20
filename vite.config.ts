@@ -11,7 +11,7 @@ export default defineConfig({
     tailwindcss(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['icon.svg'],
+      includeAssets: ['icon.svg', 'icon-192.png', 'icon-512.png', 'icon-maskable-192.png', 'icon-maskable-512.png'],
       manifest: {
         name: "Kur'an Hayatında",
         short_name: 'Kur\'an',
@@ -20,10 +20,18 @@ export default defineConfig({
         background_color: '#ffffff',
         display: 'standalone',
         lang: 'tr',
-        icons: [{ src: 'icon.svg', sizes: 'any', type: 'image/svg+xml' }],
+        // Android'de PWA olarak yüklerken doğru simge/splash için PNG boyutları şart;
+        // tek başına SVG (sizes: 'any') birçok Android/Chrome sürümünde düzgün gösterilmiyor.
+        icons: [
+          { src: 'icon.svg', sizes: 'any', type: 'image/svg+xml', purpose: 'any' },
+          { src: 'icon-192.png', sizes: '192x192', type: 'image/png', purpose: 'any' },
+          { src: 'icon-512.png', sizes: '512x512', type: 'image/png', purpose: 'any' },
+          { src: 'icon-maskable-192.png', sizes: '192x192', type: 'image/png', purpose: 'maskable' },
+          { src: 'icon-maskable-512.png', sizes: '512x512', type: 'image/png', purpose: 'maskable' },
+        ],
       },
       workbox: {
-        globPatterns: ['**/*.{js,css,html,svg,woff2}', 'data/chapters.json'],
+        globPatterns: ['**/*.{js,css,html,svg,png,woff2}', 'data/chapters.json'],
         runtimeCaching: [
           {
             urlPattern: ({ url }) => url.pathname.includes('/data/') || url.pathname.includes('/content/'),

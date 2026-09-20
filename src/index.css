@@ -32,12 +32,13 @@
   --accent: #f5a623;
   --accent-soft: #2a2114;
 }
-html, body { background: var(--bg); color: var(--text); }
+html, body { background: var(--bg); color: var(--text); overflow-x: hidden; }
 body {
   font-family: var(--font-latin);
   font-size: var(--size-latin);
   -webkit-font-smoothing: antialiased;
   margin: 0;
+  width: 100%;
   overscroll-behavior-y: none;
 }
 .arabic {
