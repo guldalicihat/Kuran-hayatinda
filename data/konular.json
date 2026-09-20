@@ -1,0 +1,1163 @@
+{
+  "aciklama": "Sor sayfası için hayat konuları sözlüğü. Her konu: kimlik, ad, kısa açıklama, anahtar kökler (küçük harf, aksansız; kelime başı eşleşir). scripts/build_topics.py bu sözlükle content/ altındaki meal ve açıklamaları tarayıp public/data/topics.json üretir. Yeni konu eklemek bu dosyaya satır eklemektir.",
+  "konular": [
+    {
+      "id": "sabir",
+      "ad": "Sabır ve dayanma",
+      "ornek": "Zor bir dönemden geçiyorum",
+      "anahtar": [
+        "sabır",
+        "sabr",
+        "sabret",
+        "sabred",
+        "dayan",
+        "tahammül",
+        "metanet",
+        "direnç",
+        "sebat"
+      ]
+    },
+    {
+      "id": "sukur",
+      "ad": "Şükür ve nimet",
+      "ornek": "Elimdekilerin kıymetini bilmek",
+      "anahtar": [
+        "şükr",
+        "şükür",
+        "şükret",
+        "nimet",
+        "minnet",
+        "nankör"
+      ]
+    },
+    {
+      "id": "tevekkul",
+      "ad": "Tevekkül ve güven",
+      "ornek": "Sonucu Allah'a bırakmak",
+      "anahtar": [
+        "tevekkül",
+        "güven",
+        "dayanmak",
+        "vekil",
+        "teslim"
+      ]
+    },
+    {
+      "id": "dua",
+      "ad": "Dua ve yakarış",
+      "ornek": "Nasıl dua etmeliyim",
+      "anahtar": [
+        "dua",
+        "yakar",
+        "yalvar",
+        "niyaz"
+      ]
+    },
+    {
+      "id": "tevbe",
+      "ad": "Tövbe ve bağışlanma",
+      "ornek": "Hata yaptım, geri dönmek istiyorum",
+      "anahtar": [
+        "tövbe",
+        "tevbe",
+        "bağışla",
+        "mağfiret",
+        "istiğfar",
+        "pişman",
+        "affet",
+        "af "
+      ]
+    },
+    {
+      "id": "namaz",
+      "ad": "Namaz",
+      "ornek": "Namazı sürdürmek",
+      "anahtar": [
+        "namaz",
+        "salât",
+        "salat",
+        "secde",
+        "rükû",
+        "kıyam",
+        "huşu"
+      ]
+    },
+    {
+      "id": "zikir",
+      "ad": "Allah'ı anmak",
+      "ornek": "Kalbim huzursuz",
+      "anahtar": [
+        "zikr",
+        "zikir",
+        "anmak",
+        "anma",
+        "anar",
+        "hatırla",
+        "tesbih",
+        "huzur",
+        "mutmain",
+        "sükûn"
+      ]
+    },
+    {
+      "id": "oruc",
+      "ad": "Oruç ve Ramazan",
+      "ornek": "Oruç tutmak",
+      "anahtar": [
+        "oruç",
+        "ramazan",
+        "sıyam",
+        "iftar",
+        "sahur"
+      ]
+    },
+    {
+      "id": "sadaka",
+      "ad": "Sadaka, zekât ve infak",
+      "ornek": "Ne kadar vermeliyim",
+      "anahtar": [
+        "sadaka",
+        "zekât",
+        "zekat",
+        "infak",
+        "harca",
+        "bağış",
+        "yardım",
+        "cömert",
+        "cimri",
+        "hayır"
+      ]
+    },
+    {
+      "id": "hac",
+      "ad": "Hac ve umre",
+      "ornek": "Hacca gitmek",
+      "anahtar": [
+        "hac",
+        "umre",
+        "kâbe",
+        "kabe",
+        "tavaf",
+        "kurban",
+        "ihram",
+        "mescid-i haram"
+      ]
+    },
+    {
+      "id": "iman",
+      "ad": "İman ve tevhid",
+      "ornek": "İnancımı güçlendirmek",
+      "anahtar": [
+        "iman",
+        "inan",
+        "tevhid",
+        "tek ilah",
+        "birlik",
+        "mümin",
+        "kalp",
+        "yakîn"
+      ]
+    },
+    {
+      "id": "sirk",
+      "ad": "Şirk ve putlar",
+      "ornek": "Neye bel bağlıyorum",
+      "anahtar": [
+        "şirk",
+        "ortak koş",
+        "put",
+        "ilah edin",
+        "müşrik"
+      ]
+    },
+    {
+      "id": "takva",
+      "ad": "Takva ve sorumluluk bilinci",
+      "ornek": "Doğru yolda kalmak",
+      "anahtar": [
+        "takva",
+        "sakın",
+        "korun",
+        "muttaki",
+        "çekin",
+        "hesap ver",
+        "sorumlu"
+      ]
+    },
+    {
+      "id": "ihlas",
+      "ad": "İhlas ve gösteriş",
+      "ornek": "İnsanlar görsün diye mi yapıyorum",
+      "anahtar": [
+        "ihlas",
+        "riya",
+        "gösteriş",
+        "samimi",
+        "içten",
+        "niyet"
+      ]
+    },
+    {
+      "id": "kibir",
+      "ad": "Kibir ve tevazu",
+      "ornek": "Kendimi üstün görüyorum",
+      "anahtar": [
+        "kibir",
+        "büyüklen",
+        "böbürlen",
+        "tevazu",
+        "alçakgönül",
+        "gurur",
+        "üstün gör",
+        "küçümse",
+        "kasıl"
+      ]
+    },
+    {
+      "id": "ofke",
+      "ad": "Öfke ve affetmek",
+      "ornek": "Sinirimi tutamıyorum",
+      "anahtar": [
+        "öfke",
+        "kızgın",
+        "sinir",
+        "gazab",
+        "gazap",
+        "affet",
+        "bağışlamak",
+        "hoşgör",
+        "yumuşak",
+        "sabırlı"
+      ]
+    },
+    {
+      "id": "haset",
+      "ad": "Kıskançlık ve haset",
+      "ornek": "Başkasının sahip olduğunu kıskanıyorum",
+      "anahtar": [
+        "haset",
+        "kıskan",
+        "çekememe",
+        "imren",
+        "göz dik"
+      ]
+    },
+    {
+      "id": "dogruluk",
+      "ad": "Doğruluk ve yalan",
+      "ornek": "Yalan söylemek zorunda mı kaldım",
+      "anahtar": [
+        "yalan",
+        "doğru söz",
+        "dürüst",
+        "sadık",
+        "sıdk",
+        "sözünde",
+        "sahte",
+        "iftira",
+        "gerçeği gizle"
+      ]
+    },
+    {
+      "id": "giybet",
+      "ad": "Gıybet, alay ve dedikodu",
+      "ornek": "Arkadan konuşuluyor",
+      "anahtar": [
+        "gıybet",
+        "dedikodu",
+        "arkasından",
+        "alay",
+        "lakap",
+        "zan",
+        "tecessüs",
+        "kusur ara",
+        "çekiştir"
+      ]
+    },
+    {
+      "id": "adalet",
+      "ad": "Adalet ve zulüm",
+      "ornek": "Haksızlığa uğradım",
+      "anahtar": [
+        "adalet",
+        "adil",
+        "zulm",
+        "zulüm",
+        "zalim",
+        "haksız",
+        "hak yeme",
+        "hakk",
+        "insaf",
+        "tarafsız"
+      ]
+    },
+    {
+      "id": "emanet",
+      "ad": "Emanet ve güvenilirlik",
+      "ornek": "Bana emanet edilen bir şey var",
+      "anahtar": [
+        "emanet",
+        "güvenil",
+        "ihanet",
+        "hıyanet",
+        "sorumluluk",
+        "koru"
+      ]
+    },
+    {
+      "id": "soz",
+      "ad": "Söz vermek ve ahit",
+      "ornek": "Verdiğim sözü tutamıyorum",
+      "anahtar": [
+        "ahit",
+        "ahd",
+        "söz ver",
+        "sözünü tut",
+        "antlaşma",
+        "yemin",
+        "vaad",
+        "misak",
+        "akit"
+      ]
+    },
+    {
+      "id": "ticaret",
+      "ad": "Ticaret ve alışveriş",
+      "ornek": "İş hayatında dürüstlük",
+      "anahtar": [
+        "ticaret",
+        "alışveriş",
+        "alım satım",
+        "satış",
+        "kazanç",
+        "kâr",
+        "tüccar",
+        "pazar",
+        "müşteri",
+        "mal sat",
+        "iş hayat",
+        "iş kur",
+        "girişim",
+        "dükkan",
+        "dükkân",
+        "esnaf",
+        "kiralamak"
+      ]
+    },
+    {
+      "id": "ortaklik",
+      "ad": "Ortaklık ve anlaşmazlık",
+      "ornek": "Ortağımla sorun yaşıyorum",
+      "anahtar": [
+        "ortak",
+        "ortaklık",
+        "anlaşmazlık",
+        "ihtilaf",
+        "çekişme",
+        "tartışma",
+        "uzlaş",
+        "barıştır",
+        "ara bul",
+        "hakem",
+        "tartış",
+        "kavga",
+        "çatış",
+        "küs"
+      ]
+    },
+    {
+      "id": "faiz",
+      "ad": "Faiz",
+      "ornek": "Kredi çekmeli miyim",
+      "anahtar": [
+        "faiz",
+        "riba",
+        "ribâ",
+        "kredi",
+        "borç para",
+        "vade farkı"
+      ]
+    },
+    {
+      "id": "borc",
+      "ad": "Borç ve alacak",
+      "ornek": "Borcumu ödeyemiyorum",
+      "anahtar": [
+        "borç",
+        "borçlu",
+        "alacak",
+        "ödeme",
+        "vade",
+        "kolaylık tanı",
+        "darlık",
+        "mühlet",
+        "borcu",
+        "borcum"
+      ]
+    },
+    {
+      "id": "sozlesme",
+      "ad": "Sözleşme, yazı ve şahit",
+      "ornek": "Anlaşmayı yazılı yapmalı mıyım",
+      "anahtar": [
+        "yaz",
+        "kâtip",
+        "katip",
+        "şahit",
+        "şahitlik",
+        "tanık",
+        "belge",
+        "sözleşme",
+        "kayıt",
+        "rehin"
+      ]
+    },
+    {
+      "id": "olcu",
+      "ad": "Ölçü, tartı ve hile",
+      "ornek": "Eksik verme, hile",
+      "anahtar": [
+        "ölçü",
+        "eksik",
+        "hile",
+        "aldat",
+        "kandır",
+        "dolandır",
+        "sahtekâr",
+        "haksız kazanç",
+        "tartıy",
+        "tartıda",
+        "tartıs",
+        "terazi",
+        "ölçüyü",
+        "ölçüde"
+      ]
+    },
+    {
+      "id": "israf",
+      "ad": "İsraf ve tutumluluk",
+      "ornek": "Harcamalarım kontrolden çıktı",
+      "anahtar": [
+        "israf",
+        "savur",
+        "müsrif",
+        "tutum",
+        "ölçülü",
+        "orta yol",
+        "cimri",
+        "lüks"
+      ]
+    },
+    {
+      "id": "rizik",
+      "ad": "Rızık ve geçim",
+      "ornek": "Geçim kaygısı",
+      "anahtar": [
+        "rızık",
+        "rızk",
+        "geçim",
+        "kazan",
+        "ekmek",
+        "bereket",
+        "bolluk",
+        "darlık",
+        "nasip"
+      ]
+    },
+    {
+      "id": "mal",
+      "ad": "Zenginlik ve mal",
+      "ornek": "Para hırsı",
+      "anahtar": [
+        "servet",
+        "zengin",
+        "para",
+        "altın",
+        "gümüş",
+        "hazine",
+        "biriktir",
+        "hırs",
+        "çoğalt",
+        "dünya malı",
+        "malı",
+        "mallar",
+        "malın"
+      ]
+    },
+    {
+      "id": "yoksul",
+      "ad": "Yoksul, yetim ve muhtaç",
+      "ornek": "İhtiyaç sahiplerine nasıl davranmalı",
+      "anahtar": [
+        "yoksul",
+        "fakir",
+        "yetim",
+        "miskin",
+        "muhtaç",
+        "ihtiyaç",
+        "düşkün",
+        "yolcu",
+        "dilenci",
+        "köle"
+      ]
+    },
+    {
+      "id": "anne_baba",
+      "ad": "Anne baba",
+      "ornek": "Anne babama nasıl davranmalıyım",
+      "anahtar": [
+        "anne",
+        "baba",
+        "ebeveyn",
+        "ana-baba",
+        "ana baba",
+        "öf",
+        "yaşlı",
+        "ihtiyar",
+        "hürmet"
+      ]
+    },
+    {
+      "id": "evlilik",
+      "ad": "Evlilik ve eş",
+      "ornek": "Eşimle ilişkim",
+      "anahtar": [
+        "evli",
+        "evlen",
+        "nikâh",
+        "nikah",
+        "karı",
+        "koca",
+        "zevce",
+        "mehir",
+        "sükûnet bul",
+        "sevgi ve merhamet",
+        "eşim",
+        "eşiy",
+        "eşin",
+        "eşler",
+        "tartış",
+        "geçim",
+        "huzur"
+      ]
+    },
+    {
+      "id": "cocuk",
+      "ad": "Çocuk ve aile",
+      "ornek": "Çocuğumu nasıl yetiştirmeliyim",
+      "anahtar": [
+        "çocuk",
+        "evlat",
+        "oğul",
+        "kız",
+        "aile",
+        "nesil",
+        "yetiştir",
+        "terbiye",
+        "emzir",
+        "bebek",
+        "lokman",
+        "oğl",
+        "kızım",
+        "oğlum"
+      ]
+    },
+    {
+      "id": "akraba",
+      "ad": "Akraba ve komşu",
+      "ornek": "Akrabalarla bağım koptu",
+      "anahtar": [
+        "akraba",
+        "yakın",
+        "komşu",
+        "sıla-i rahim",
+        "hısım",
+        "kardeş",
+        "misafir"
+      ]
+    },
+    {
+      "id": "bosanma",
+      "ad": "Boşanma ve ayrılık",
+      "ornek": "Ayrılık düşünüyorum",
+      "anahtar": [
+        "boşan",
+        "talak",
+        "ayrıl",
+        "iddet",
+        "bırak",
+        "geçimsiz"
+      ]
+    },
+    {
+      "id": "miras",
+      "ad": "Miras ve vasiyet",
+      "ornek": "Miras paylaşımı",
+      "anahtar": [
+        "miras",
+        "vasiyet",
+        "pay",
+        "hisse",
+        "vâris",
+        "varis",
+        "terek"
+      ]
+    },
+    {
+      "id": "kadin",
+      "ad": "Kadın ve erkek",
+      "ornek": "Kadına bakış",
+      "anahtar": [
+        "kadın",
+        "erkek",
+        "hanım",
+        "kız",
+        "örtü",
+        "iffet",
+        "namus",
+        "cinsiyet"
+      ]
+    },
+    {
+      "id": "iffet",
+      "ad": "İffet ve haram ilişki",
+      "ornek": "Nefsime hâkim olamıyorum",
+      "anahtar": [
+        "iffet",
+        "zina",
+        "fuhuş",
+        "hayâ",
+        "haya",
+        "namus",
+        "gözünü",
+        "bakış",
+        "şehvet",
+        "nefis",
+        "arzu"
+      ]
+    },
+    {
+      "id": "haram",
+      "ad": "Helal ve haram",
+      "ornek": "Bu helal mi",
+      "anahtar": [
+        "helal",
+        "haram",
+        "yasak",
+        "içki",
+        "şarap",
+        "kumar",
+        "domuz",
+        "leş",
+        "sarhoş",
+        "temiz",
+        "murdar"
+      ]
+    },
+    {
+      "id": "saglik",
+      "ad": "Sağlık, hastalık ve şifa",
+      "ornek": "Hastayım",
+      "anahtar": [
+        "hasta",
+        "şifa",
+        "sağlık",
+        "ilaç",
+        "iyileş",
+        "beden",
+        "hastalık",
+        "acı",
+        "dert",
+        "bal"
+      ]
+    },
+    {
+      "id": "olum",
+      "ad": "Ölüm ve ahiret",
+      "ornek": "Ölüm korkusu",
+      "anahtar": [
+        "ölüm",
+        "ecel",
+        "ahiret",
+        "kabir",
+        "dirilt",
+        "hesap günü",
+        "ebedi",
+        "ölmek",
+        "ölen",
+        "ölür"
+      ]
+    },
+    {
+      "id": "kiyamet",
+      "ad": "Kıyamet ve hesap",
+      "ornek": "Hesap günü",
+      "anahtar": [
+        "kıyamet",
+        "hesap",
+        "mizan",
+        "terazi",
+        "sûr",
+        "amel defteri",
+        "mahşer",
+        "o gün"
+      ]
+    },
+    {
+      "id": "cennet",
+      "ad": "Cennet ve cehennem",
+      "ornek": "Cennet nasıl anlatılıyor",
+      "anahtar": [
+        "cennet",
+        "cehennem",
+        "ateş",
+        "azap",
+        "ödül",
+        "mükâfat",
+        "ceza",
+        "bahçe",
+        "ırmak"
+      ]
+    },
+    {
+      "id": "ilim",
+      "ad": "İlim, düşünmek ve öğrenmek",
+      "ornek": "Öğrenmeye nereden başlamalı",
+      "anahtar": [
+        "ilim",
+        "bilgi",
+        "bilen",
+        "öğren",
+        "düşün",
+        "akıl",
+        "akled",
+        "tefekkür",
+        "oku",
+        "kalem",
+        "hikmet",
+        "cahil",
+        "ibret"
+      ]
+    },
+    {
+      "id": "calisma",
+      "ad": "Çalışmak ve gayret",
+      "ornek": "Çabam karşılık bulmuyor",
+      "anahtar": [
+        "çalış",
+        "çaba",
+        "gayret",
+        "emek",
+        "amel",
+        "iş yap",
+        "salih amel",
+        "kazan",
+        "yorul",
+        "koştur",
+        "iş kur",
+        "girişim",
+        "meslek"
+      ]
+    },
+    {
+      "id": "istisare",
+      "ad": "Danışmak ve karar vermek",
+      "ornek": "Karar veremiyorum",
+      "anahtar": [
+        "danış",
+        "istişare",
+        "şûra",
+        "şura",
+        "karar",
+        "azmet",
+        "azim",
+        "seç",
+        "tercih",
+        "ölç biç"
+      ]
+    },
+    {
+      "id": "yonetim",
+      "ad": "Yönetim ve liderlik",
+      "ornek": "İnsanları yönetmek",
+      "anahtar": [
+        "yönet",
+        "hüküm",
+        "hükümdar",
+        "kral",
+        "melik",
+        "önder",
+        "lider",
+        "idare",
+        "itaat",
+        "emir sahib",
+        "halife"
+      ]
+    },
+    {
+      "id": "savas",
+      "ad": "Savaş, barış ve düşmanlık",
+      "ornek": "Düşmanlıkla nasıl başa çıkarım",
+      "anahtar": [
+        "savaş",
+        "barış",
+        "düşman",
+        "cihad",
+        "cihat",
+        "saldır",
+        "kıtal",
+        "sulh",
+        "zafer",
+        "yenilgi"
+      ]
+    },
+    {
+      "id": "dostluk",
+      "ad": "Dostluk ve arkadaş",
+      "ornek": "Kime güvenmeliyim",
+      "anahtar": [
+        "dost",
+        "arkadaş",
+        "veli",
+        "yoldaş",
+        "sırdaş",
+        "kardeşlik",
+        "yakın edin",
+        "sadık dost"
+      ]
+    },
+    {
+      "id": "nifak",
+      "ad": "İkiyüzlülük",
+      "ornek": "İkiyüzlü insanlar",
+      "anahtar": [
+        "münafık",
+        "nifak",
+        "ikiyüzlü",
+        "iki yüz",
+        "kalbinde hastalık",
+        "yalan yere yemin"
+      ]
+    },
+    {
+      "id": "kaygi",
+      "ad": "Kaygı, korku ve hüzün",
+      "ornek": "Sürekli endişeliyim",
+      "anahtar": [
+        "kaygı",
+        "korku",
+        "kork",
+        "endişe",
+        "hüzün",
+        "üzül",
+        "üzüntü",
+        "keder",
+        "sıkıntı",
+        "daral",
+        "umutsuz",
+        "yeis"
+      ]
+    },
+    {
+      "id": "umut",
+      "ad": "Umut ve rahmet",
+      "ornek": "Umudumu kaybettim",
+      "anahtar": [
+        "umut",
+        "ümit",
+        "rahmet",
+        "merhamet",
+        "ferah",
+        "kolaylık",
+        "güçlük",
+        "genişlik",
+        "müjde",
+        "lütuf"
+      ]
+    },
+    {
+      "id": "sinav",
+      "ad": "İmtihan ve musibet",
+      "ornek": "Başıma gelen bu bela ne anlama geliyor",
+      "anahtar": [
+        "imtihan",
+        "sına",
+        "deneme",
+        "musibet",
+        "bela",
+        "felaket",
+        "zorluk",
+        "kayıp",
+        "mihnet",
+        "fitne"
+      ]
+    },
+    {
+      "id": "dunya",
+      "ad": "Dünya hayatı ve geçicilik",
+      "ornek": "Her şey boş mu",
+      "anahtar": [
+        "dünya hayat",
+        "geçici",
+        "oyun",
+        "eğlence",
+        "aldat",
+        "süs",
+        "fani",
+        "kısa",
+        "metâ",
+        "meta"
+      ]
+    },
+    {
+      "id": "yaratilis",
+      "ad": "Yaratılış, kâinat ve tefekkür",
+      "ornek": "Evrene bakıp düşünmek",
+      "anahtar": [
+        "yarat",
+        "gök",
+        "güneş",
+        "yıldız",
+        "deniz",
+        "dağ",
+        "yağmur",
+        "bitki",
+        "hayvan",
+        "kâinat",
+        "evren",
+        "işaret",
+        "delil"
+      ]
+    },
+    {
+      "id": "peygamber",
+      "ad": "Peygamberler ve kıssalar",
+      "ornek": "Hz. Yusuf'un hikâyesi",
+      "anahtar": [
+        "peygamber",
+        "resul",
+        "nebi",
+        "elçi",
+        "musa",
+        "mûsâ",
+        "isa",
+        "îsâ",
+        "ibrahim",
+        "yusuf",
+        "yûsuf",
+        "nuh",
+        "nûh",
+        "davud",
+        "dâvûd",
+        "süleyman",
+        "yakub",
+        "yunus",
+        "eyyub",
+        "eyyûb",
+        "lut",
+        "lût",
+        "hud",
+        "hûd",
+        "salih",
+        "şuayb",
+        "zekeriya",
+        "yahya",
+        "meryem",
+        "muhammed",
+        "âdem",
+        "adem",
+        "firavun",
+        "kıssa"
+      ]
+    },
+    {
+      "id": "kuran",
+      "ad": "Kur'an'ın kendisi ve vahiy",
+      "ornek": "Kur'an nasıl okunmalı",
+      "anahtar": [
+        "kur'an",
+        "kuran",
+        "kitap",
+        "vahiy",
+        "indir",
+        "sure",
+        "tebliğ",
+        "hatırlat",
+        "öğüt",
+        "kuranı",
+        "okumak"
+      ]
+    },
+    {
+      "id": "sabah",
+      "ad": "Zaman, sabah ve gece",
+      "ornek": "Günü nasıl planlamalı",
+      "anahtar": [
+        "sabah",
+        "gece",
+        "gündüz",
+        "vakit",
+        "zaman",
+        "asr",
+        "seher",
+        "fecr",
+        "akşam",
+        "erken",
+        "gecik"
+      ]
+    },
+    {
+      "id": "sir",
+      "ad": "Mahremiyet ve sır",
+      "ornek": "Başkasının özeline karışmak",
+      "anahtar": [
+        "gizli",
+        "sır",
+        "açığa",
+        "casus",
+        "izin iste",
+        "izinsiz",
+        "kapı",
+        "mahrem",
+        "örtme"
+      ]
+    },
+    {
+      "id": "hicret",
+      "ad": "Hicret ve yeni başlangıç",
+      "ornek": "Taşınmalı mıyım",
+      "anahtar": [
+        "hicret",
+        "göç",
+        "terk et",
+        "yurt",
+        "yola çık",
+        "yolculuk",
+        "sefer"
+      ]
+    },
+    {
+      "id": "cemaat",
+      "ad": "Birlik, toplum ve ayrılık",
+      "ornek": "İnsanlar arasında bölünme",
+      "anahtar": [
+        "birlik",
+        "toplum",
+        "ümmet",
+        "ayrılığa",
+        "bölün",
+        "fırka",
+        "cemaat",
+        "tefrika",
+        "topluca"
+      ]
+    },
+    {
+      "id": "gunah",
+      "ad": "Günah ve şeytan",
+      "ornek": "Aynı hataya düşüyorum",
+      "anahtar": [
+        "günah",
+        "şeytan",
+        "vesvese",
+        "kötülük",
+        "isyan",
+        "hata",
+        "suç",
+        "aldan",
+        "iblis",
+        "nefs"
+      ]
+    },
+    {
+      "id": "iyilik",
+      "ad": "İyilik ve güzel ahlak",
+      "ornek": "İyi bir insan olmak",
+      "anahtar": [
+        "iyilik",
+        "ihsan",
+        "güzel",
+        "ahlak",
+        "erdem",
+        "hayırlı",
+        "yumuşak söz",
+        "güzel söz",
+        "salih",
+        "birr",
+        "iyi davran",
+        "merhamet"
+      ]
+    },
+    {
+      "id": "sozunde",
+      "ad": "Konuşma adabı",
+      "ornek": "Nasıl konuşmalıyım",
+      "anahtar": [
+        "konuş",
+        "sesini",
+        "bağır",
+        "kaba",
+        "nazik",
+        "güzel konuş",
+        "boş söz",
+        "laf",
+        "sözle",
+        "sözü",
+        "konuşma"
+      ]
+    },
+    {
+      "id": "korku_allah",
+      "ad": "Allah'ı tanımak ve sıfatları",
+      "ornek": "Allah nasıl anlatılıyor",
+      "anahtar": [
+        "allah",
+        "rabb",
+        "rab",
+        "rahman",
+        "rahîm",
+        "esma",
+        "isim",
+        "kudret",
+        "ilim sahibi",
+        "her şeye gücü",
+        "hayy",
+        "kayyum"
+      ]
+    },
+    {
+      "id": "gida",
+      "ad": "Yemek ve beslenme",
+      "ornek": "Nasıl beslenmeli",
+      "anahtar": [
+        "yiyecek",
+        "yemek",
+        "içecek",
+        "meyve",
+        "hurma",
+        "zeytin",
+        "süt",
+        "ekin",
+        "hasat",
+        "tohum"
+      ]
+    },
+    {
+      "id": "gorev",
+      "ad": "İyiliği emretmek ve tebliğ",
+      "ornek": "Yanlışı görünce ne yapmalı",
+      "anahtar": [
+        "emret",
+        "iyiliği emre",
+        "kötülükten",
+        "davet",
+        "tebliğ",
+        "uyar",
+        "hatırlat",
+        "nasihat",
+        "öğüt ver",
+        "sorumluluk"
+      ]
+    }
+  ]
+}

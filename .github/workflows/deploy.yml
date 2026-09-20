@@ -21,6 +21,7 @@ jobs:
         with: { node-version: 22, cache: npm }
       - run: python3 scripts/build_data.py
       - run: python3 scripts/build_content.py
+      - run: python3 scripts/build_topics.py
       - run: python3 scripts/build_sitemap.py
       - run: python3 scripts/check_data.py
       - run: npm ci
