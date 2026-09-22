@@ -96,6 +96,8 @@ def build(post):
         "x": f"{gövde}\n\nDetaylı açıklama ve bugünün adımı için siteye bak: {link}\n\n{TELEGRAM_CTA_KISA}\n\n{hashtags}",
         "facebook": f"{gövde}\n\nDetaylı açıklama ve bugünün adımı için siteye bak: {link}\n\n{TELEGRAM_CTA}\n\n{hashtags}",
         "instagram": f"{gövde}\n\nDetaylı açıklama ve bugünün adımı için: {SITE_ADI} — {ref}\n\n{TELEGRAM_CTA}\n\n{hashtags}",
+        # Telegram kanalın kendisine gidiyor; kanala katılma daveti burada anlamsız, eklenmez.
+        "telegram": f"{gövde}\n\nDetaylı açıklama ve bugünün adımı için siteye bak: {link}\n\n{hashtags}",
     }
 
 def all_posts():

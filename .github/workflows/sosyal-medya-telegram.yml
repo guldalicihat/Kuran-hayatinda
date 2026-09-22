@@ -1,0 +1,57 @@
+name: Telegram kanalında otomatik paylaşım
+on:
+  schedule:
+    # Günde 1 kez, İstanbul saatiyle (UTC+3) 08:00 = UTC 05:00 ("her sabah bir ayet")
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Gerçekten paylaşmadan sadece dene (dry-run)'
+        type: boolean
+        default: false
+      square:
+        description: 'Dikey (story) yerine eski kare kart kullan'
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: sosyal-medya-telegram
+  cancel-in-progress: false
+jobs:
+  paylas:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install requests playwright
+      - run: playwright install --with-deps chromium
+      - name: Site verisini üret (chapters.json vb.)
+        run: python3 scripts/build_data.py
+      - name: Sıradaki onaylı postu Telegram'a paylaş
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          if [ "${{ inputs.square }}" = "true" ]; then ARGS="$ARGS --square"; fi
+          python3 scripts/social/publish_telegram.py $ARGS
+      - name: Paylaşım kaydını commit'le
+        run: |
+          git config user.name "kuran-hayatinda-bot"
+          git config user.email "actions@github.com"
+          git add social/posted_log.json
+          if ! git diff --cached --quiet -- social/posted_log.json; then
+            git commit -m "Sosyal medya: Telegram paylaşım kaydı güncellendi [otomatik]"
+            for i in 1 2 3 4 5; do
+              if git push; then
+                break
+              fi
+              echo "Push reddedildi (muhtemelen main ilerledi), rebase edip tekrar deneniyor ($i/5)..."
+              git fetch origin main
+              git rebase origin/main
+              sleep 3
+            done
+          fi
