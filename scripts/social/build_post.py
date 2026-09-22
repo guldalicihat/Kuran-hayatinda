@@ -17,6 +17,10 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 SITE = "https://kuranhayatimda.com/#/sure/{s}/{a}"
 SITE_ADI = "kuranhayatimda.com"
 HASHTAG_SABIT = ["#Kuran", "#Ayet", "#KuranHayatında"]
+# src/lib/baglantilar.ts'teki telegramKanal ile aynı adres.
+TELEGRAM_KANAL = "https://t.me/kuranhayatimda"
+TELEGRAM_CTA = f"📢 Her sabah bir ayet için Telegram kanalımıza katıl: {TELEGRAM_KANAL}"
+TELEGRAM_CTA_KISA = f"📢 Telegram: {TELEGRAM_KANAL}"
 
 def load_chapter(s):
     chs = json.load(open(os.path.join(ROOT, 'public', 'data', 'chapters.json'), encoding='utf-8'))
@@ -63,7 +67,7 @@ def build_x_short(post):
     if len(koprusor) > 60:
         koprusor = "Peki Kur'an bu konuda ne diyor?"
 
-    return f"{koprusor} Cevap ve bugünün adımı için: {link}\n\n{hashtag}"
+    return f"{koprusor} Cevap ve bugünün adımı için: {link}\n\n{TELEGRAM_CTA_KISA}\n\n{hashtag}"
 
 
 def build(post):
@@ -89,9 +93,9 @@ def build(post):
         "sure": s, "ayet": a, "ref": ref, "soru": post['soru'],
         "gorsel_metni": post['soru'],
         "x_kisa": build_x_short(post),
-        "x": f"{gövde}\n\nDetaylı açıklama ve bugünün adımı için siteye bak: {link}\n\n{hashtags}",
-        "facebook": f"{gövde}\n\nDetaylı açıklama ve bugünün adımı için siteye bak: {link}\n\n{hashtags}",
-        "instagram": f"{gövde}\n\nDetaylı açıklama ve bugünün adımı için: {SITE_ADI} — {ref}\n\n{hashtags}",
+        "x": f"{gövde}\n\nDetaylı açıklama ve bugünün adımı için siteye bak: {link}\n\n{TELEGRAM_CTA_KISA}\n\n{hashtags}",
+        "facebook": f"{gövde}\n\nDetaylı açıklama ve bugünün adımı için siteye bak: {link}\n\n{TELEGRAM_CTA}\n\n{hashtags}",
+        "instagram": f"{gövde}\n\nDetaylı açıklama ve bugünün adımı için: {SITE_ADI} — {ref}\n\n{TELEGRAM_CTA}\n\n{hashtags}",
     }
 
 def all_posts():
