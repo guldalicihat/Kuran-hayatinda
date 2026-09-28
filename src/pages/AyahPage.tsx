@@ -10,14 +10,16 @@ import { usePageMeta } from '../lib/seo'
 const SITE = 'https://kuranhayatimda.com'
 
 const SCROLL_KEY = 'kh:ayah-scroll'
+// localStorage kullanılır (sessionStorage değil): iOS Safari, sekmeyi arka planda
+// bellekten atıp yeniden yüklediğinde sessionStorage'ı silebiliyor.
 function readScrollMap(): Record<string, number> {
-  try { return JSON.parse(sessionStorage.getItem(SCROLL_KEY) || '{}') } catch { return {} }
+  try { return JSON.parse(localStorage.getItem(SCROLL_KEY) || '{}') } catch { return {} }
 }
 function writeScrollY(path: string, y: number) {
   try {
     const map = readScrollMap()
     map[path] = y
-    sessionStorage.setItem(SCROLL_KEY, JSON.stringify(map))
+    localStorage.setItem(SCROLL_KEY, JSON.stringify(map))
   } catch { /* yoksay */ }
 }
 

@@ -10,11 +10,14 @@ import { useSettings } from '../lib/settings'
 import { usePageMeta } from '../lib/seo'
 
 const SCROLL_KEY = 'kh:surah-scroll'
+// localStorage kullanılır (sessionStorage değil): iOS Safari, sekmeyi arka planda
+// bellekten atıp yeniden yüklediğinde sessionStorage'ı silebiliyor; "son okunan yer"
+// (kh:last) zaten aynı sebeple localStorage kullanıyor, burada da tutarlı olsun.
 function readScrollMap(): Record<string, number> {
-  try { return JSON.parse(sessionStorage.getItem(SCROLL_KEY) || '{}') } catch { return {} }
+  try { return JSON.parse(localStorage.getItem(SCROLL_KEY) || '{}') } catch { return {} }
 }
 function writeScrollY(path: string, y: number) {
-  try { const map = readScrollMap(); map[path] = y; sessionStorage.setItem(SCROLL_KEY, JSON.stringify(map)) } catch { /* yoksay */ }
+  try { const map = readScrollMap(); map[path] = y; localStorage.setItem(SCROLL_KEY, JSON.stringify(map)) } catch { /* yoksay */ }
 }
 
 function norm(s: string) { return s.toLocaleLowerCase('tr').replace(/[âîû']/g, c => ({ 'â': 'a', 'î': 'i', 'û': 'u', "'": '' }[c] ?? c)) }

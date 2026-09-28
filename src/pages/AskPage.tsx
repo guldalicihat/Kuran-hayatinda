@@ -12,8 +12,10 @@ const Q_KEY = 'kh:ask-q'
 function readQuery(): string { try { return sessionStorage.getItem(Q_KEY) || '' } catch { return '' } }
 function writeQuery(q: string) { try { sessionStorage.setItem(Q_KEY, q) } catch { /* yoksay */ } }
 const Y_KEY = 'kh:ask-y'
-function readScrollY(): number { try { return Number(sessionStorage.getItem(Y_KEY) || 0) } catch { return 0 } }
-function writeScrollY(y: number) { try { sessionStorage.setItem(Y_KEY, String(y)) } catch { /* yoksay */ } }
+// localStorage kullanılır (sessionStorage değil): iOS Safari, sekmeyi arka planda
+// bellekten atıp yeniden yüklediğinde sessionStorage'ı silebiliyor.
+function readScrollY(): number { try { return Number(localStorage.getItem(Y_KEY) || 0) } catch { return 0 } }
+function writeScrollY(y: number) { try { localStorage.setItem(Y_KEY, String(y)) } catch { /* yoksay */ } }
 
 const ORNEKLER = ['Ortağımla anlaşmazlık yaşıyorum', 'Borcumu ödeyemiyorum', 'Sürekli endişeliyim', 'Anne babama nasıl davranmalıyım',
   'Kredi çekmeli miyim', 'Sinirimi tutamıyorum', 'Karar veremiyorum', 'Zor bir dönemden geçiyorum']
