@@ -1,12 +1,17 @@
 import { Link, useNavigate } from 'react-router-dom'
 import type { ReactNode } from 'react'
 
-// Sayfa geçişi bitmeden art arda hızlı "Geri" dokunuşlarını yutar: ikinci
-// dokunuş yeni sayfanın kendi Header'ına düşse bile (ayrı bir bileşen
-// örneği olduğu için) bu modül seviyesindeki zaman damgası paylaşıldığından
-// geçmişte fazladan adım atlanmaz.
+// Sayfa geçişi bitmeden art arda hızlı "Geri" dokunuşlarını (sabırsız çift
+// dokunma) yutar: ikinci dokunuş yeni sayfanın kendi Header'ına düşse bile
+// (ayrı bir bileşen örneği olduğu için) bu modül seviyesindeki zaman
+// damgası paylaşıldığından geçmişte fazladan adım atlanmaz.
+// window.location.hash navigate(-1)/replace çağrısından hemen sonra (React
+// render'ından önce) neredeyse anında güncellendiği için, "URL değişti mi"
+// kontrolü tek başına yetmiyor; 350ms'lik pencere seçildi çünkü ölçülen
+// gerçek çift-dokunmalar 0-150ms aralığında oluyor, buna karşın art arda
+// ama ayrı/bilinçli iki geri basışı genelde bundan daha uzun sürüyor.
 let lastBackAt = 0
-const BACK_COOLDOWN_MS = 600
+const BACK_COOLDOWN_MS = 350
 
 export default function Header({ title, back, backLabel, right }: { title: ReactNode; back?: string; backLabel?: string; right?: ReactNode }) {
   const nav = useNavigate()
@@ -14,7 +19,10 @@ export default function Header({ title, back, backLabel, right }: { title: React
     const now = Date.now()
     if (now - lastBackAt < BACK_COOLDOWN_MS) return
     lastBackAt = now
-    if (back) nav(back); else nav(-1)
+    // back bir yol ise (gerçek geçmiş yoksa ya da bir üst seviyeye zorlanıyorsa)
+    // replace ile gidilir: aksi halde bu sayfa geçmişte kalır ve bir sonraki
+    // Geri'de araya sıkışıp kullanıcıyı buraya geri sıçratır.
+    if (back) nav(back, { replace: true }); else nav(-1)
   }
   return (
     <header className="sticky top-0 z-20 bg-bar border-b hairline safe-top">

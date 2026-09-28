@@ -52,7 +52,7 @@ export default function SurahList() {
         <Segmented value={s.sort} options={[{ v: 'mushaf', ad: 'Sure No' }, { v: 'nuzul', ad: 'İniş' }]} onChange={sort => set({ sort })} />
       </div>
       {lastCh && !q && (
-        <Link to={`/sure/${last!.s}/${last!.a}`} className="mx-4 mb-2 flex items-center justify-between rounded-xl px-4 py-3 tap" style={{ background: 'var(--accent-soft)' }}>
+        <Link to={`/sure/${last!.s}/${last!.a}`} state={{ direktGiris: true }} className="mx-4 mb-2 flex items-center justify-between rounded-xl px-4 py-3 tap" style={{ background: 'var(--accent-soft)' }}>
           <span><span className="muted text-xs block">Kaldığın yer</span><span className="font-medium">{lastCh.ad} {last!.a}</span></span>
           <span className="accent">›</span>
         </Link>

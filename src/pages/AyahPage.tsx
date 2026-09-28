@@ -115,7 +115,11 @@ export default function AyahPage() {
       try { await navigator.clipboard.writeText(`${text}\n${url}`); setCopied(true); setTimeout(() => setCopied(false), 2000) } catch { /* pano erişimi yok */ }
     }
   }
-  const canGoBack = location.key !== 'default'
+  // "Kaldığın yer" gibi ana sayfadan doğrudan ayete atlayan girişlerde tarayıcı
+  // geçmişi Ayarları atlayıp doğrudan Ana sayfaya dönerdi; bu durumda Geri'yi
+  // önce Sure sayfasına yönlendiriyoruz (aşağıdaki explicit `back` dalı).
+  const direktGiris = (location.state as { direktGiris?: boolean } | null)?.direktGiris === true
+  const canGoBack = location.key !== 'default' && !direktGiris
   usePageMeta(ch ? `${ch.ad} ${a}. Ayet` : '', content?.meal)
   return (
     <div className="safe-bottom">
