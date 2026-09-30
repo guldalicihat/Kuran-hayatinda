@@ -1,31 +1,28 @@
 // Fırsat Müzayede reklamı: sitenin sahibi tarafından, kendi işletmesi için
-// eklenmiştir. Tek taraf (sağ): dar/mobil ekranda kenara yaslı ince bir
-// sekme (gerçek yan boşluk yok, içerik zaten tam genişlikte), geniş
-// ekranlarda (xl: 1280px+) sayfanın tüm yüksekliğini kaplayan geniş bir
-// banner. Banner genişliği kadar sağ boşluk App.tsx'te ayrılır ki içerikle
-// çakışmasın (tesadüfi geniş ekran boşluğuna güvenmek yerine).
+// eklenmiştir. Üç ayrı görünüm var:
+// - Mobil/dar ekran (xl altı): alt menünün (TabBar) hemen üstünde, ince ve
+//   sade yatay bir buton şeridi (MobileAdBar). Ortada dikey kart/sekme
+//   kullanılmıyor çünkü liste içeriğine biniyordu.
+// - Geniş ekran (xl: 1280px+): sayfanın tüm yüksekliğini kaplayan, sağda VE
+//   solda simetrik iki banner.
 const HREF = 'https://www.firsatmuzayede.com'
 const ICON = `${import.meta.env.BASE_URL}ads/firsat-muzayede-icon.png`
 const LOGO = `${import.meta.env.BASE_URL}ads/firsat-muzayede-logo.png`
 export const AD_BANNER_WIDTH = 240
+export const MOBILE_AD_BAR_HEIGHT = 44
 
-function Tab() {
+export function MobileAdBar() {
   return (
     <a
       href={HREF}
       target="_blank"
       rel="noopener noreferrer"
-      className="xl:hidden flex flex-col items-center gap-1 w-9 py-3 shadow-lg tap rounded-l-xl"
-      style={{ background: '#012055' }}
-      aria-label="Fırsat Müzayede — siteyi aç"
+      className="xl:hidden fixed left-0 right-0 bottom-0 z-20 flex items-center justify-center gap-2 tap"
+      style={{ height: MOBILE_AD_BAR_HEIGHT, background: '#012055', paddingBottom: 'env(safe-area-inset-bottom)' }}
     >
-      <img src={ICON} width={22} height={22} alt="" />
-      <span
-        className="text-white font-bold text-[10px] tracking-wide"
-        style={{ writingMode: 'vertical-rl', color: '#33ce34' }}
-      >
-        Müzayede
-      </span>
+      <img src={ICON} width={18} height={18} alt="" />
+      <span className="text-white text-[13px] font-medium">Fırsat Müzayede ile al sat</span>
+      <span style={{ color: '#33ce34' }} className="text-[13px] font-semibold">›</span>
     </a>
   )
 }
@@ -56,8 +53,9 @@ function Banner() {
 export default function AdRail() {
   return (
     <>
-      <div className="xl:hidden fixed right-0 top-1/2 -translate-y-1/2 z-10">
-        <Tab />
+      <MobileAdBar />
+      <div className="hidden xl:block fixed left-0 top-0 bottom-0 z-10">
+        <Banner />
       </div>
       <div className="hidden xl:block fixed right-0 top-0 bottom-0 z-10">
         <Banner />

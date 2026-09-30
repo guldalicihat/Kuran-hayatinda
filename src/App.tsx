@@ -13,10 +13,11 @@ export default function App() {
   return (
     <>
       <AdRail />
-      {/* xl'de sağdaki banner kadar boşluk ayrılır ki içerik onunla çakışmadan,
-          kalan alanda yeniden ortalansın (tesadüfi geniş ekran boşluğuna
-          güvenmek yerine). */}
+      {/* xl'de sol ve sağ banner kadar boşluk ayrılır ki içerik onlarla
+          çakışmadan, kalan alanda yeniden ortalansın (tesadüfi geniş ekran
+          boşluğuna güvenmek yerine). */}
       <div className="min-h-screen flex">
+        <div className="hidden xl:block shrink-0" style={{ width: AD_BANNER_WIDTH }} />
         <div className="flex-1 flex justify-center">
           <div className="w-full max-w-[560px] md:max-w-[700px] lg:max-w-[860px] relative">
             <Routes>
