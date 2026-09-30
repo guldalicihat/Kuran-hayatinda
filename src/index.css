@@ -66,12 +66,13 @@ body {
 .muted { color: var(--muted); }
 .divider { width: 30%; height: 1px; background: var(--line); margin: 10px auto; }
 .tap:active { opacity: .6; }
-/* 64px TabBar yüksekliği + 44px reklam şeridi (AdRail.tsx MOBILE_AD_BAR_HEIGHT);
-   xl'de (1280px+) reklam şeridi kalkıp TabBar tekrar tam altta olduğu için
-   sadece 64px yeterli. */
-.safe-bottom { padding-bottom: calc(env(safe-area-inset-bottom) + 108px); }
+/* TabBar artık tek fixed kutu: reklam şeridi (mobilde) + sekme satırı,
+   güvenli alan dolgusu (safe-area-inset-bottom) dış kutuda tek sefer
+   uygulanıyor. Ölçülen doğal yükseklik ~93px (mobil, reklamlı) /
+   ~58px (xl, reklamsız); birkaç piksel pay bırakıldı. */
+.safe-bottom { padding-bottom: calc(env(safe-area-inset-bottom) + 96px); }
 @media (min-width: 1280px) {
-  .safe-bottom { padding-bottom: calc(env(safe-area-inset-bottom) + 64px); }
+  .safe-bottom { padding-bottom: calc(env(safe-area-inset-bottom) + 60px); }
 }
 .safe-top { padding-top: env(safe-area-inset-top); }
 input[type="range"] { accent-color: var(--accent); }

@@ -1,24 +1,25 @@
 // Fırsat Müzayede reklamı: sitenin sahibi tarafından, kendi işletmesi için
-// eklenmiştir. Üç ayrı görünüm var:
-// - Mobil/dar ekran (xl altı): alt menünün (TabBar) hemen üstünde, ince ve
-//   sade yatay bir buton şeridi (MobileAdBar). Ortada dikey kart/sekme
-//   kullanılmıyor çünkü liste içeriğine biniyordu.
+// eklenmiştir. İki ayrı görünüm var:
+// - Mobil/dar ekran (xl altı): alt menünün (TabBar) içinde, en üstte ince ve
+//   sade yatay bir satır (MobileAdRow). Kendi başına sabit konumlanmıyor;
+//   TabBar'ın tek fixed kutusunun doğal akışlı bir çocuğu — böylece
+//   güvenli alan dolgusu (safe-area-inset-bottom) yalnızca TabBar'ın dış
+//   kutusunda bir kez uygulanıyor ve içerik sıkışmıyor.
 // - Geniş ekran (xl: 1280px+): sayfanın tüm yüksekliğini kaplayan, sağda VE
 //   solda simetrik iki banner.
 const HREF = 'https://www.firsatmuzayede.com'
 const ICON = `${import.meta.env.BASE_URL}ads/firsat-muzayede-icon.png`
 const LOGO = `${import.meta.env.BASE_URL}ads/firsat-muzayede-logo.png`
 export const AD_BANNER_WIDTH = 240
-export const MOBILE_AD_BAR_HEIGHT = 44
 
-export function MobileAdBar() {
+export function MobileAdRow() {
   return (
     <a
       href={HREF}
       target="_blank"
       rel="noopener noreferrer"
-      className="xl:hidden fixed left-0 right-0 bottom-0 z-20 flex items-center justify-center gap-2 tap"
-      style={{ height: MOBILE_AD_BAR_HEIGHT, background: '#012055', paddingBottom: 'env(safe-area-inset-bottom)' }}
+      className="xl:hidden flex items-center justify-center gap-2 py-2 tap"
+      style={{ background: '#012055' }}
     >
       <img src={ICON} width={18} height={18} alt="" />
       <span className="text-white text-[13px] font-medium">Fırsat Müzayede ile al sat</span>
@@ -53,7 +54,6 @@ function Banner() {
 export default function AdRail() {
   return (
     <>
-      <MobileAdBar />
       <div className="hidden xl:block fixed left-0 top-0 bottom-0 z-10">
         <Banner />
       </div>

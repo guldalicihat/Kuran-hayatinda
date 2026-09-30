@@ -1,4 +1,5 @@
 import { NavLink } from 'react-router-dom'
+import { MobileAdRow } from './AdRail'
 
 const tabs = [
   { to: '/', ad: 'Sureler', icon: <path d="M4 5.5C7 4 9.5 4 12 5.5c2.5-1.5 5-1.5 8 0v13c-3-1.5-5.5-1.5-8 0-2.5-1.5-5-1.5-8 0zM12 5.5v13" /> },
@@ -10,7 +11,11 @@ const tabs = [
 
 export default function TabBar() {
   return (
-    <nav className="fixed bottom-[44px] xl:bottom-0 left-0 right-0 xl:left-[240px] xl:right-[240px] z-30 bg-bar border-t hairline">
+    <nav
+      className="fixed bottom-0 left-0 right-0 xl:left-[240px] xl:right-[240px] z-30 bg-bar border-t hairline"
+      style={{ paddingBottom: 'env(safe-area-inset-bottom)' }}
+    >
+      <MobileAdRow />
       <div className="mx-auto max-w-[560px] md:max-w-[700px] lg:max-w-[860px] flex justify-around">
         {tabs.map(t => (
           <NavLink key={t.to} to={t.to} end={t.to === '/'} className={({ isActive }) => `flex flex-col items-center gap-0.5 py-1.5 px-2 text-[11px] tap ${isActive ? 'accent' : 'muted'}`}>
