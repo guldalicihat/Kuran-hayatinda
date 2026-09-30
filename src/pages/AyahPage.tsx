@@ -123,7 +123,7 @@ export default function AyahPage() {
   usePageMeta(ch ? `${ch.ad} ${a}. Ayet` : '', content?.meal)
   return (
     <div className="safe-bottom">
-      <Header title={ch ? `${ch.ad} ${a}` : '…'} back={canGoBack ? '' : `/sure/${n}`} backLabel={canGoBack ? 'Geri' : (ch?.ad ?? 'Sure')} />
+      <Header title={ch ? `${ch.ad} ${a}` : '…'} back={canGoBack ? '' : `/sure/${n}`} backState={canGoBack ? undefined : { a }} backLabel={canGoBack ? 'Geri' : (ch?.ad ?? 'Sure')} />
       {ayah && (
         <>
           <section className="card border-b hairline px-4 py-4">
