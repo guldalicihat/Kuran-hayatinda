@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useLocation, useNavigationType, useParams } from 'react-router-dom'
-import Header from '../components/Header'
+import Header, { BackButton } from '../components/Header'
 import { loadChapters, loadContent, loadContentIndex, loadSurah, orderChapters, parseRef } from '../lib/data'
 import type { Ayah, Chapter, Content } from '../lib/types'
 import { useFavorites, useLastRead } from '../lib/store'
@@ -220,6 +220,9 @@ export default function AyahPage() {
       <div className="flex justify-between px-4 py-4">
         {prev ? <Link to={prev} className="accent tap">‹ Önceki ayet</Link> : <span />}
         {next ? <Link to={next} className="accent tap">Sonraki ayet ›</Link> : <span />}
+      </div>
+      <div className="px-4 pb-4">
+        <BackButton back={canGoBack ? '' : `/sure/${n}`} backState={canGoBack ? undefined : { a }} label={canGoBack ? 'Geri' : (ch?.ad ?? 'Sure')} />
       </div>
     </div>
   )
