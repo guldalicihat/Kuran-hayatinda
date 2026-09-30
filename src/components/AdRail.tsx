@@ -6,6 +6,7 @@
 // bağlantıyı açar.
 const HREF = 'https://www.firsatmuzayede.com'
 const ICON = `${import.meta.env.BASE_URL}ads/firsat-muzayede-icon.png`
+const LOGO = `${import.meta.env.BASE_URL}ads/firsat-muzayede-logo.png`
 
 function Tab({ side }: { side: 'left' | 'right' }) {
   const rounded = side === 'left' ? 'rounded-r-xl' : 'rounded-l-xl'
@@ -39,12 +40,8 @@ function Card() {
       style={{ background: '#012055' }}
     >
       <div className="flex flex-col items-center px-4 pt-5 pb-4 text-center">
-        <img src={ICON} width={72} height={72} alt="" className="mb-2" />
-        <div className="leading-tight">
-          <span className="block text-white font-extrabold text-[19px]" style={{ fontFamily: 'var(--font-latin)' }}>fırsat</span>
-          <span className="block font-extrabold text-[19px]" style={{ color: '#33ce34', fontFamily: 'var(--font-latin)' }}>müzayede.com</span>
-        </div>
-        <p className="text-white/70 text-[11px] mt-3 leading-snug">
+        <img src={LOGO} width={110} alt="Fırsat Müzayede" className="mb-1" />
+        <p className="text-white/70 text-[11px] mt-2 leading-snug">
           Fırsatlarla dolu müzayede dünyasını keşfedin!
         </p>
         <span
