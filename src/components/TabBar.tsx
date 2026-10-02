@@ -13,7 +13,12 @@ export default function TabBar() {
   return (
     <nav
       className="fixed bottom-0 left-0 right-0 xl:left-[240px] xl:right-[240px] z-30 bg-bar border-t hairline"
-      style={{ paddingBottom: 'env(safe-area-inset-bottom)' }}
+      // iOS Safari'nin bilinen bir hatası: sabit (fixed) konumlu elemanlar,
+      // kendi birleştirme (compositing) katmanına alınmazsa hızlı kaydırma
+      // sırasında eski konumlarında "takılı" görünüp içerikle birlikte
+      // sahte bir şekilde ikinci kez beliriyor. transform: translateZ(0)
+      // elemanı kendi katmanına alıp bunu önlüyor.
+      style={{ paddingBottom: 'env(safe-area-inset-bottom)', transform: 'translateZ(0)' }}
     >
       <MobileAdRow />
       <div className="mx-auto max-w-[560px] md:max-w-[700px] lg:max-w-[860px] flex justify-around">
