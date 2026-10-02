@@ -8,6 +8,7 @@ import { loadChapters } from '../lib/data'
 import type { Chapter } from '../lib/types'
 import { useSettings } from '../lib/settings'
 import { useLastRead } from '../lib/store'
+import { throttle } from '../lib/throttle'
 
 function norm(s: string) { return s.toLocaleLowerCase('tr').replace(/[âîû']/g, c => ({ 'â': 'a', 'î': 'i', 'û': 'u', "'": '' }[c] ?? c)) }
 
@@ -27,7 +28,7 @@ export default function SurahList() {
   const restored = useRef(false)
   useEffect(() => { loadChapters().then(setChapters) }, [])
   useEffect(() => {
-    const onScroll = () => { writeScrollY(window.scrollY) }
+    const onScroll = throttle(() => writeScrollY(window.scrollY), 150)
     window.addEventListener('scroll', onScroll, { passive: true })
     return () => window.removeEventListener('scroll', onScroll)
   }, [])

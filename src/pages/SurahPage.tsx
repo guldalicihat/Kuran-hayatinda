@@ -8,6 +8,7 @@ import type { Chapter, ContentIndex, MealMap, Surah } from '../lib/types'
 import { useLastRead } from '../lib/store'
 import { useSettings } from '../lib/settings'
 import { usePageMeta } from '../lib/seo'
+import { throttle } from '../lib/throttle'
 
 const SCROLL_KEY = 'kh:surah-scroll'
 // localStorage kullanılır (sessionStorage değil): iOS Safari, sekmeyi arka planda
@@ -37,7 +38,7 @@ export default function SurahPage() {
   const { s: settings } = useSettings()
   // Kaydırma konumunu sure yoluna göre sakla (main.tsx scrollRestoration=manual olduğu için elle).
   useEffect(() => {
-    const onScroll = () => writeScrollY(pathRef.current, window.scrollY)
+    const onScroll = throttle(() => writeScrollY(pathRef.current, window.scrollY), 150)
     window.addEventListener('scroll', onScroll, { passive: true })
     return () => window.removeEventListener('scroll', onScroll)
   }, [])

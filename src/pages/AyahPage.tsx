@@ -6,6 +6,7 @@ import type { Ayah, Chapter, Content } from '../lib/types'
 import { useFavorites, useLastRead } from '../lib/store'
 import { useSettings } from '../lib/settings'
 import { usePageMeta } from '../lib/seo'
+import { throttle } from '../lib/throttle'
 
 const SITE = 'https://kuranhayatimda.com'
 
@@ -68,7 +69,7 @@ export default function AyahPage() {
   const fav = isFavorite(key)
   const [copied, setCopied] = useState(false)
   useEffect(() => {
-    const onScroll = () => writeScrollY(pathRef.current, window.scrollY)
+    const onScroll = throttle(() => writeScrollY(pathRef.current, window.scrollY), 150)
     window.addEventListener('scroll', onScroll, { passive: true })
     return () => window.removeEventListener('scroll', onScroll)
   }, [])

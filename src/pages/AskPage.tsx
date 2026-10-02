@@ -6,6 +6,7 @@ import { metinAra, snippet } from '../lib/arama'
 import Highlight from '../components/Highlight'
 import { prepareRows, rankVerses, scoreTopics } from '../lib/ask'
 import { usePageMeta } from '../lib/seo'
+import { throttle } from '../lib/throttle'
 import type { Chapter, ContentSearchRow, SearchRow, TopicsData } from '../lib/types'
 
 const Q_KEY = 'kh:ask-q'
@@ -51,7 +52,7 @@ export default function AskPage() {
   const setQuery = (v: string) => { setQ(v); writeQuery(v) }
   useEffect(() => { loadTopics().then(setTopics); loadContentSearch().then(setRows); loadChapters().then(setChapters); loadSearch().then(setSearchRows) }, [])
   useEffect(() => {
-    const onScroll = () => writeScrollY(window.scrollY)
+    const onScroll = throttle(() => writeScrollY(window.scrollY), 150)
     window.addEventListener('scroll', onScroll, { passive: true })
     return () => window.removeEventListener('scroll', onScroll)
   }, [])
