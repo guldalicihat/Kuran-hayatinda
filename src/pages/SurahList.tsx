@@ -27,11 +27,20 @@ export default function SurahList() {
   const { last } = useLastRead()
   const restored = useRef(false)
   useEffect(() => { loadChapters().then(setChapters) }, [])
+  // navigatingAtRef: bkz. SurahPage'deki aynı desen.
+  const navigatingAtRef = useRef(0)
   useEffect(() => {
-    const onScroll = throttle(() => writeScrollY(window.scrollY), 150)
+    const onScroll = throttle(() => {
+      if (Date.now() - navigatingAtRef.current < 400) return
+      writeScrollY(window.scrollY)
+    }, 150)
     window.addEventListener('scroll', onScroll, { passive: true })
     return () => window.removeEventListener('scroll', onScroll)
   }, [])
+  const onClickCapture = () => {
+    navigatingAtRef.current = Date.now()
+    writeScrollY(window.scrollY)
+  }
   useEffect(() => {
     if (!restored.current && chapters.length > 0) {
       restored.current = true
@@ -47,7 +56,7 @@ export default function SurahList() {
     : [{ ad: '', items: list }]
   const lastCh = last ? chapters.find(c => c.n === last.s) : undefined
   return (
-    <div className="safe-bottom">
+    <div className="safe-bottom" onClickCapture={onClickCapture}>
       <Header title="Sureler" right={<Link to="/ayarlar" className="accent text-[17px] tap px-1">Aa</Link>} />
       <FilterInput value={q} onChange={setQ} placeholder="Sure ara" />
       <div className="flex justify-center mb-2">

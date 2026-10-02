@@ -68,11 +68,23 @@ export default function AyahPage() {
   const key = `${n}:${a}`
   const fav = isFavorite(key)
   const [copied, setCopied] = useState(false)
+  // navigatingAtRef: bkz. SurahPage'deki aynı desen — tıklama anında konumu
+  // yakalayıp, tıklamayı izleyen kısa pencerede canlı dinleyicinin (DOM
+  // küçülmesinin tetiklediği sahte 'scroll' olaylarıyla) bu değerin üzerine
+  // yanlış yazmasını engeller.
+  const navigatingAtRef = useRef(0)
   useEffect(() => {
-    const onScroll = throttle(() => writeScrollY(pathRef.current, window.scrollY), 150)
+    const onScroll = throttle(() => {
+      if (Date.now() - navigatingAtRef.current < 400) return
+      writeScrollY(pathRef.current, window.scrollY)
+    }, 150)
     window.addEventListener('scroll', onScroll, { passive: true })
     return () => window.removeEventListener('scroll', onScroll)
   }, [])
+  const onClickCapture = () => {
+    navigatingAtRef.current = Date.now()
+    writeScrollY(pathRef.current, window.scrollY)
+  }
   useEffect(() => {
     restoredRef.current = false
     setContent(undefined); setAyah(undefined)
@@ -123,7 +135,7 @@ export default function AyahPage() {
   const canGoBack = location.key !== 'default' && !direktGiris
   usePageMeta(ch ? `${ch.ad} ${a}. Ayet` : '', content?.meal)
   return (
-    <div className="safe-bottom">
+    <div className="safe-bottom" onClickCapture={onClickCapture}>
       <Header title={ch ? `${ch.ad} ${a}` : '…'} back={canGoBack ? '' : `/sure/${n}`} backState={canGoBack ? undefined : { a }} backLabel={canGoBack ? 'Geri' : (ch?.ad ?? 'Sure')} />
       {ayah && (
         <>

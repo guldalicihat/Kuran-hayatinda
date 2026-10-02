@@ -37,11 +37,25 @@ export default function SurahPage() {
   const { last, mark } = useLastRead()
   const { s: settings } = useSettings()
   // Kaydırma konumunu sure yoluna göre sakla (main.tsx scrollRestoration=manual olduğu için elle).
+  // navigatingAtRef: bir ayete dokunulduğu an (yakalama aşamasında, React
+  // Router henüz gezinmeden ÖNCE) konum hemen yazılır — sayfa ayrılırken DOM
+  // küçülüp (uzun ayet listesi → kısa Ayet sayfası) tarayıcının kaydırmayı
+  // otomatik 0'a sıkıştırmasından önceki GERÇEK konum budur. Tıklamadan sonraki
+  // kısa pencerede (sıkışmanın tetiklediği sahte 'scroll' olayları dahil) canlı
+  // dinleyicinin bu doğru değerin üzerine yanlış yazmasını da burada engelleriz.
+  const navigatingAtRef = useRef(0)
   useEffect(() => {
-    const onScroll = throttle(() => writeScrollY(pathRef.current, window.scrollY), 150)
+    const onScroll = throttle(() => {
+      if (Date.now() - navigatingAtRef.current < 400) return
+      writeScrollY(pathRef.current, window.scrollY)
+    }, 150)
     window.addEventListener('scroll', onScroll, { passive: true })
     return () => window.removeEventListener('scroll', onScroll)
   }, [])
+  const onClickCapture = () => {
+    navigatingAtRef.current = Date.now()
+    writeScrollY(pathRef.current, window.scrollY)
+  }
   useEffect(() => {
     setSurah(null)
     loadSurah(n).then(setSurah)
@@ -85,7 +99,7 @@ export default function SurahPage() {
     ch ? `${ch.ad} suresi (${ch.ayet} ayet, ${ch.tip === 'mekki' ? 'Mekki' : 'Medeni'}) — kök temelli Türkçe meal ve her ayetin günlük hayatla bağlantısını kuran açıklamalar.` : undefined,
   )
   return (
-    <div className="safe-bottom">
+    <div className="safe-bottom" onClickCapture={onClickCapture}>
       <Header title={ch?.ad ?? '…'} back={loc.key !== 'default' ? '' : '/'} backLabel={loc.key !== 'default' ? 'Geri' : 'Sureler'} />
       <FilterInput value={q} onChange={setQ} />
       {ch && (

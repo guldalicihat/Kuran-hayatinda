@@ -51,11 +51,20 @@ export default function AskPage() {
   const [searchRows, setSearchRows] = useState<SearchRow[]>([])
   const setQuery = (v: string) => { setQ(v); writeQuery(v) }
   useEffect(() => { loadTopics().then(setTopics); loadContentSearch().then(setRows); loadChapters().then(setChapters); loadSearch().then(setSearchRows) }, [])
+  // navigatingAtRef: bkz. SurahPage'deki aynı desen.
+  const navigatingAtRef = useRef(0)
   useEffect(() => {
-    const onScroll = throttle(() => writeScrollY(window.scrollY), 150)
+    const onScroll = throttle(() => {
+      if (Date.now() - navigatingAtRef.current < 400) return
+      writeScrollY(window.scrollY)
+    }, 150)
     window.addEventListener('scroll', onScroll, { passive: true })
     return () => window.removeEventListener('scroll', onScroll)
   }, [])
+  const onClickCapture = () => {
+    navigatingAtRef.current = Date.now()
+    writeScrollY(window.scrollY)
+  }
   usePageMeta('Sor', "Yaşadığın durumu yaz ya da bir kelime ara; ilgili ayetleri kök temelli meal ve günlük hayat açıklamalarıyla bul.")
   const name = (n: number) => chapters.find(c => c.n === n)?.ad ?? String(n)
   const meals = useMemo(() => { const m = new Map<string, string>(); for (const [s, a, meal] of rows) m.set(`${s}:${a}`, meal); return m }, [rows])
@@ -74,11 +83,18 @@ export default function AskPage() {
   const empty = t.length === 0
   const yukleniyor = topics.konular.length === 0 || rows.length === 0
   // Ayet sayfasından geri dönüşte (tarayıcı geri / sağa kaydırma) kaldığın yere dön; veri gelince bir kez.
+  // yukleniyor false olduktan hemen sonraki render'da verses henüz eski
+  // sorgudan (boş) kalmış olabilir (useDeferredValue bir adım geride kalabilir);
+  // restored.current'ı yalnızca gerçekten geri yüklediğimizde ya da kaydedilmiş
+  // bir konum hiç yoksa işaretleriz — aksi halde verses dolana dek bekleriz.
   useEffect(() => {
     if (navType === 'POP' && !restored.current && !yukleniyor) {
-      restored.current = true
       const y = readScrollY()
-      if (y && verses.length > 0) requestAnimationFrame(() => window.scrollTo(0, y))
+      if (!y) { restored.current = true; return }
+      if (verses.length > 0) {
+        restored.current = true
+        requestAnimationFrame(() => window.scrollTo(0, y))
+      }
     }
   }, [navType, yukleniyor, verses.length])
 
@@ -95,7 +111,7 @@ export default function AskPage() {
   )
 
   return (
-    <div className="safe-bottom">
+    <div className="safe-bottom" onClickCapture={onClickCapture}>
       <Header title="Sor" />
       <div className={empty ? 'px-5 flex flex-col items-center' : 'px-4 pt-3 pb-1'} style={empty ? { paddingTop: '7vh' } : undefined}>
         {empty && (
