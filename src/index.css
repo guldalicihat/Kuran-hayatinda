@@ -32,8 +32,16 @@
   --accent: #f5a623;
   --accent-soft: #2a2114;
 }
-html, body { background: var(--bg); color: var(--text); overflow-x: hidden; }
+html, body { background: var(--bg); color: var(--text); }
 html {
+  /* overflow-x yalnızca html'de: hem html hem body'de ayarlanırsa, tarayıcı
+     overflow-x/overflow-y uyuşmazlık kuralı yüzünden ikisinin de
+     overflow-y'sini "auto"ya çeviriyor ve aynı boyutta iç içe iki ayrı
+     kaydırılabilir kutu oluşuyor. Bu durumda Windows'ta Chrome/Edge fare
+     tekerleğinin hangi kutuyu kaydıracağına karar veremeyip tepki vermiyor
+     (kaydırma çubuğunu sürüklemek doğrudan hedefi seçtiği için etkilenmiyor).
+  */
+  overflow-x: hidden;
   /* Android Chrome'un bazı sayfalarda metni otomatik büyütüp küçültme
      ("font boosting") davranışını kapatır; yazı boyutu her cihazda
      CSS'te yazdığımız değerle birebir eşleşsin diye. */
