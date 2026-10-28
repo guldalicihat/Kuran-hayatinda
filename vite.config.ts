@@ -32,6 +32,8 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,svg,png,woff2}', 'data/chapters.json'],
+        // Ayrı statik sayfalar (gizlilik / mağaza doğrulama dosyaları) uygulama kabuğuna yönlenmesin.
+        navigateFallbackDenylist: [/^\/gizlilik/, /^\/\.well-known/],
         runtimeCaching: [
           {
             urlPattern: ({ url }) => url.pathname.includes('/data/') || url.pathname.includes('/content/'),

@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.kuranhayatimda.app",
+    "sha256_cert_fingerprints": [
+      "0C:D8:B3:CD:4A:A4:7B:EB:A0:53:D5:00:AA:B1:47:6A:B8:BF:2C:9E:28:EF:F2:25:A1:01:A4:9F:18:7F:92:21"
+    ]
+  }
+}]

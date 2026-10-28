@@ -7,6 +7,9 @@ interface BeforeInstallPromptEvent extends Event {
 
 function isStandalone(): boolean {
   if (typeof window === 'undefined') return false
+  // Mağaza uygulaması içindeyiz (iOS: WKWebView kimliği / köprü, Android: TWA) → "ana ekrana ekle" önerilmez.
+  if (/KuranHayatindaApp/.test(navigator.userAgent) || 'khYerel' in window || '__khYerel' in window
+    || document.referrer.startsWith('android-app://')) return true
   return window.matchMedia('(display-mode: standalone)').matches
     || (window.navigator as Navigator & { standalone?: boolean }).standalone === true
 }
