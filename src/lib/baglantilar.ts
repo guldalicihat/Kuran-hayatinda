@@ -3,4 +3,7 @@ export const BAGLANTILAR = {
   telegramKanal: 'https://t.me/kuranhayatimda',
   telegramBot: 'https://t.me/iyilikkoprusu_bot',
   x: 'https://x.com/kuranhayatimda',
-} as const
+  // Mağaza adresleri: uygulamalar yayına girince doldurulur. Boşken "Uygulamayı indir" penceresi ve bağlantısı görünmez.
+  appStore: '',
+  googlePlay: '',
+} as const satisfies Record<string, string>

@@ -8,11 +8,13 @@ import CommunityPage from './pages/CommunityPage'
 import AskPage from './pages/AskPage'
 import FavoritesPage from './pages/FavoritesPage'
 import SettingsPage from './pages/SettingsPage'
+import UygulamaIndir from './components/UygulamaIndir'
 
 export default function App() {
   return (
     <>
       <AdRail />
+      <UygulamaIndir />
       {/* xl'de sol ve sağ banner kadar boşluk ayrılır ki içerik onlarla
           çakışmadan, kalan alanda yeniden ortalansın (tesadüfi geniş ekran
           boşluğuna güvenmek yerine). */}

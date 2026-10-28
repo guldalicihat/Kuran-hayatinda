@@ -8,6 +8,9 @@ import { SettingsProvider } from './lib/settings'
 
 registerSW({ immediate: true })
 
+// "Ana ekrana ekle" önerisi kaldırıldı (yerine mağaza uygulaması önerilir): tarayıcının kendi yükleme istemi de bastırılır.
+window.addEventListener('beforeinstallprompt', e => e.preventDefault())
+
 if ('scrollRestoration' in history) history.scrollRestoration = 'manual'
 
 // iOS Safari'nin (özellikle ana ekrana eklenmiş bağımsız/PWA modda) ekranın

@@ -1,6 +1,7 @@
 import Header from '../components/Header'
 import Segmented from '../components/Segmented'
 import { ARABIC_FONTS, LATIN_FONTS, useSettings, type Layer } from '../lib/settings'
+import { magazaAdresi, uygulamaIcinde } from '../lib/uygulama'
 import { BAGLANTILAR } from '../lib/baglantilar'
 
 const LAYER_AD: Record<Layer, string> = { okunus: 'Okunuş', meal: 'Meal', ar: 'Arapça' }
@@ -73,6 +74,7 @@ export default function SettingsPage() {
             { ad: '✈️ Telegram kanalı · Kur\'an Hayatında', url: BAGLANTILAR.telegramKanal },
             { ad: '🤝 İyilik Köprüsü botu (yardım iste / gönüllü ol)', url: BAGLANTILAR.telegramBot },
             { ad: '𝕏 @kuranhayatimda', url: BAGLANTILAR.x },
+            ...(!uygulamaIcinde() && magazaAdresi() ? [{ ad: '📱 Uygulamayı indir (iPhone, iPad, Android)', url: magazaAdresi() }] : []),
           ].map(b => (
             <li key={b.url}>
               <a href={b.url} target="_blank" rel="noopener noreferrer" className="flex items-center justify-between py-2 tap">
